@@ -1,0 +1,10 @@
++++
+title = "04 मया ततमिदम्"
+
++++
+9.4 मया by Me; ततम् pervaded; इदम् this; सर्वम् all; जगत् world;
+अव्यक्तमूर्तिना by the unmanifested form; मत्स्थानि exist in Me;
+सर्वभूतानि all beings; न not; च and; अहम् I; तेषु in them; अवस्थितः
+placed.Commentary Avyaktamurti is Para Brahman or the Supreme Unmanifested Being invisible to the senses but cognisable through intuition. All beings from Brahma; the Creator; down to the blade of grass or an ant; dwell in the transcendental Para Brahman. They have no independent existence they exist through the Self which is the support for everythin; which underlies them all.Nothing here contains It. As Brahman is the Self of all beings; one may imagine that It dwells in them. But it is not so. How could it be How can the Infinite be contained in a finite object Brahman has no connection or contact with any material object; just as a chair or a table has contact with the ground or a man or a book. So It does not dwell in those beings. That which has no connection or contact with objects or beings cannot be contained anywhere as if in a vessel; trunk; room or receptacle. The Self is not rooted in all these forms. It is not contained by any of these forms just as the ether is not contained in any form though all forms are derived from the ether.All beings appear to be living in Brahman; but this is an illusion. If this illusion vanishes; nothing remains anywhere except Brahman. When ignorance; the cause of this illusion; disappears; the very idea of the existence of these beings also will vanish.In verses 4 and 5 the Lord uses a paradox or an apparent contradiction All beings dwell in Me and yet do not dwell in Me I do not dwell in them. For a thinker there is no real contradiction at all. Just as space contains all beings and yet is not touched by them;
+so also Para Brahman contains everything and yet is not touched by them.
+Even Mulaprakriti; the source or womb of this world; is supported by Brahman. Brahman has no support or root. It rests in Its own pristine glory. (Cf.VII.12;24VIII.22)
