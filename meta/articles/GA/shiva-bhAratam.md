@@ -63,6 +63,35 @@ From one perspective, one may see Dhṛṣṭadyumna’s brutal end at Hara’s 
 
 From a Tattvajña perspective, it could also be Śrīkaṇṭharudra’s attempt as the Pralayākalottama +++(=best of a soul class)+++ to induce mala-paripāka in Agnideva by making him see the problems inherent in the apara-bhoga & apara-adhikāra that he (Agni) enjoys as a deva. - (Siddhānta Śaiva Deep Dive)
 
+## daxiNA left behind
+Source: [TW](https://twitter.com/GhorAngirasa/status/1789320059527246054)
+
+What is the significance of Duryodhana being equated with the Yajamāna (the sacrificer for whose benefit the priests perform the Yajña) in Karṇa’s rich, allegorical description of the Raṇayajña (War-Sacrifice)?
+
+What is the significance of Draupadī’s brother, Dhṛṣṭadyumna, being equated with the Dakṣiṇā (fees paid to the priests at the end of a sacrifice)?
+
+The priests are Kṛṣṇa & the three Kaunteyas among the Pāṇḍavas.
+
+These identifications are not arbitrary & come to bear deep significance.
+
+The war ends with a curse on Kṛṣṇa & the Yādavas & culminates in Kṛṣṇa’s giving up of his physical body & the advent of Kaliyuga (Duryodhana is him). In other words, the Yajamāna (Kaliyuga) attained full reign of the earth & prosperity through the war-sacrifice.
+
+Being the Dakṣiṇā, Dhṛṣṭadyumna should have been given to the Ṛtvik-s (priests) of the war-sacrifice at the successful end of the sacrifice. i.e. He should have followed Kṛṣṇa, Yudhiṣṭhira, Bhīma & Arjuna.
+
+Instead, on the 18th & last night, Kṛṣṇa asks the Pāṇḍavas to not sleep at the campsite, as it would not be “auspicious” (presumably, not auspicious to return to the camp where warriors rest before the war resumes on the next day, as the war has now ended). But Dhṛṣṭadyumna (the Dakṣiṇā) is left behind at the camp.
+
+### Nābhānediṣṭha
+Now, we have from the Veda a story where Manu, having divided all his wealth among all his sons but one, asks the remaining son to secure his wealth by assisting the Āṅgirasas at a sacrifice. At the successful completion of the ritual, the Āṅgirasas ask him to take the cows as Dakṣiṇā, which were left at the sacrificial site.
+
+When Nābhānediṣṭha proceeds to collect the cows, Rudra comes from the northern quarter & tells him that whatever is left behind at the sacrificial site belongs to him.
+
+Nābhānediṣṭha goes to his father, Manu, & tells him all this & Manu confirms that is indeed the case. Now, this story has a happy ending where Rudra blesses the boy with the cows. Let that be.
+
+### Rudra's collection
+Coming back to the Mahābhārata, the “Dakṣiṇā” (Dhṛṣṭadyumna) is left behind at the campsite. So, who comes to “collect” the Dakṣiṇā as his portion? It should be Rudra.
+
+And Rudra indeed collects what is due to him. He enters Aśvatthāman’s body & then carries out a brutal raid of the camp site, killing Dhṛṣṭadyumna in a gruesome way.
+
 ## Survivors
 Only 3 warriors from the कौरव side who survived are all associated with शिव in some way. अश्वत्थामा is born of a portion of रुद्र himself.+++(5)+++ कृपाचार्य is the contribution of the रुद्र-s & कृतवर्मा that of the मरुत्-s; both classes of gods being like हर’s children.+++(4)+++ The reason they survive is because neither शिव nor those acting as his empowered agents are bound by the ordinary rules of morality or “perceived” justice that binds others.+++(4)+++ They have a divine purpose whose morality transcends the immediately perceptible situations & characters. To an ordinary person, the night-raid conducted by the above three is nothing short of brutal & cruel. However, as the ब्रह्माण्ड-पुराण tells us, the उपपाण्डव-s had secured a boon that they will not suffer residence on earth for long. शिव only gives what they want.
 
