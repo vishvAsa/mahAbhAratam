@@ -868,7 +868,7 @@ Sutasoma fought Shakuni. Put up a stiff resistance despite losing his chariot ea
 Then, Kripa vanquished Drishtadyumna
 
 
-Show more
+
 Kritavarma too defeated Shikhandi.
 So it is Kaurava camp gaining under Karna's commandership!
 
@@ -881,7 +881,7 @@ With another bow, Yudhishtira broke Duryodhana's bow and standard. The latter to
 Shot an arrow that dazed Duryodhana. He recovered and raised a club, resembling Yama himself and was about to hurl it at Yudhushtira. But Yudhishtira threw a lance that pierced Duryodhana's armour and made him faint. 
 Kritavarma who rushed to support Duryodhana was checked by Bhima.
 
-Meanwhile Karna attacked Satyaki whocovered him, his charioteer and horses with so many arrows that the Kuru Atirathas had to surround him to hekp Karna. The battle raged on.
+Meanwhile Karna attacked Satyaki who covered him, his charioteer and horses with so many arrows that the Kuru Atirathas had to surround him to hekp Karna. The battle raged on.
 
 Arjuna entered the scene, having worshipped Shiva. His arrows drove enemy sokdiers away like winds blowing clouds away. Duryodhana tried to check him. But Arjuna felled his bow, charioteer, horses and umbrella in order. His next arrow was sure to killing Duryodhana 
 But Ashvatthama intervened by cutting off that fatal arrow. Arjuna then cut Ashvatthama's bow and killed his horses. He also cut the bows of Kripa, Kritavarma and Dushasana, killed Kritavarma's horses and also attacked Karna.
@@ -968,6 +968,242 @@ But having done that Arjuna feels like killing himself for whatever he spoke. Th
 Upon Krishna's prevailing, Yudhishtira and Arjuna pacify each other too and Arjuna promises to kill Karna. This is the first instance where we see Yudhishtira thirsting for revenge  and asks Arjuna to avenge his defeat in the hands of Karna. 
 
 Further, Yudhishtira adds that he would kill himself if Arjuna fails to kill Karna that day. Krishna gets the chariot ready and they leave for the battle field. On the way, Krishna, knowing Arjuna's state of mind, reminds him of all his previous achievements 
+
+
+The other Kuru warriors - Kripa, Kritavarma, Ashvatthama, Shakuni, Duryodhana launched themselves upon Arjuna. Arjuna's Gandiva was in full circle, continuously firing arrows, blazing like the sun in mid summer. Ashvatthama wounded Arjuna and Krishna 
+Arjuna severed Ashvatthama's bow and killed his charioteer and horses too. Drona's son took up a bow that looked like Takshaka, the serpent Lord and continued to shoot arrows. Meanwhile Arjuna cut up Kripa's bow too and killed his horses and charioteer. 
+Kritavarma fared no better. Arjuna meanwhile saw that the rest of Kuru host had surrounded Bhima and rushed to relieve him, killing soldiers on the way, leaving a path filled with dead bodies and severed limbs. He caught up with Bhima and the enemy fled 
+
+As he conveyed about Yudhishtira's wellness to Bhima. Ten of Dhritarashtra's sons surrounded Arjuna He killed them all (inconsistency acknowledged here as all of Dhritarashtra's sons were killed by Bhima). 
+Shamshaptakas surrounded Arjuna. 
+Bhima kept up with his brother and together they destroyed the enemy host. Whoever escaped Arjuna's arrows could not escape Bhima's mace. 
+Rest of the Kauravas ran to Karna as he battled the Panchalas. There is another inconsistency here.
+Sushena, son of Karna (Earlier shown as being killed by Uttamoujas) is fighting with Satyaki, already wounded by Karna. But the Yadava, despite losing his horses to Karna's arrows, killed Sushena. Karna was enraged and shot a deadly arrow at Satyaki 
+But Shikhandi intercepted it. Karna turned upon him and then killed Drishtadyumna's son, also wounding upa Pandavas. 
+Krishna and Arjuna hastened towards Karna.  Bhima followed him, protecting Arjuna's rear. 
+Meanwhile, Satyaki was not giving up easily. 
+
+He engaged Karna, Vrishasena, Kritavarma and Kripa simultaneously. It was Satyaki's turn to dominate this battle and the combined Kuru host could not overcome him. 
+
+Meanwhile, Duhshasana attacked Bhima (Ahemmm). They fought like Shakra and Shambara. 
+Bhima broke Duhshasana's bow and flag. He also killed Duhshasana's charioteer. The latter took control of the reins while simultaneously shooting arrows with a new bow. He cut Bhima's bow and wounded Vishoka. 
+Bhima then flung a club. #Kuruksheta 
+The weapon threw Duhshasana off his chariot while killing his horses and charioteer. Duhshasana was rendered immobile at the impact. 
+Bhima remembered the fateful day of the dice game and leapt on to Duhshasana. (Brace yourselves for what follows)
+
+Keeping a sword to Duhshasana's neck, Bhima tore apart his breast and drank Duhshasana's blood, commenting that it was tastier than a lot of drinks! 
+Battle hardened warriors fainted at the ghastly sight. Bhima recounted the atrocities of Kauravas. 
+Turning to Arjuna and Krishna' Bhima said he would fulfill his next oath of breaking Durodhana's thighs and killing him. 
+Ten more brothers of Duryodhana attacked Bhima in extreme grief and he killed them all with his sharp arrows. 
+
+Karna saw this.
+
+
+Shalya told Karna not to let Duhshasana's death distress him and reminded of Duryodhana's grief. He told Karna to become a consolation to his friend by committing himself to Kshatriya Dharma and killing Arjuna. 
+Meanwhile Vrishasena rode ahead of his father 
+Before Vrishasena met Bhima, Nakula accosted him. A wonderful battle took place between both. Nakula lost his horses and charioteer and his bow. Picking up a sword and shield, he leapt at Virshasena but Kaurava soldiers attacked him. He killed them all 
+Seeing this, the Panchala Pandava warriors rushed to Nakula's rescue while Ashvatthama, Kripa, Duryodhana and others came to support Vrishasena. Nakula climbed on to Bhima's chariot. A general battle ensued 
+Two Kuninda Princes of a Himalayan tribe lead an elephant segment, fighting on the Pandava side, lose their lives to the arrows of Kripa and Shakuni. Third prince kills Kuru warriors Shuka (Lord of Kratha) and Vrika on the Kaurava side, but was killed by Babhru's son 
+Both sides suffer the loss of lives of these minor war lords and princes. Vrishasena came to the fore and wounded Nakula, Bhima, sons of Nakula and Sahadeva and even Krishna. At that instant, the Kurus thought Vrishasena had hurled himself into fire 
+Arjuna severely attacked Vrishasena upon this. Though the son of Karna put up a valiant fight, it was a matter of time before Arjuna got better and severed Vrishasena's head and arms. The corpse of the handsome Vrishasena fell down to the ground 
+
+At this, Karna came to the fore and faced Arjuna. 
+
+The mother of all battles is here. 
+
+Shall do this a bit later. Thank you for following it till here. 
+
+Please keep tabs on this place for new updates 
+On seeing that the two archers faced each other like the sun and moon, soldiers and warriors gathered around them, cheering the warrior of their side. Not just the warriors, but celestial beings gathered in the sky to watch the duel. 
+The sky supported Karna while earth supported Arjuna. The spirits supported Karna while the knowledge personified, the vedas and upanishads supported Arjuna. Gandharvas, Nagas, all the beings of the universe gathered. Even Indra, Brahma and Shiva came 
+
+
+Both the bows, Gandiva and Vijaya were drawn into full circles because of the force with which Arjuna and Karna shot arrows. Duryodhana, Kripa, Kritavarma, Shakuni and Ashvatthama attacked Arjuna to support Karna. He drove them all away with his arrows 
+Arjuna then struck Karna with 12 arrows and then sattered the force of hundred chariots and a hundred more elephant force that came to attack him. At that point, Ashvatthama held Duryodhana's hand and requested him to stop the war and make peach with Pandavas 
+Duryodhana says it is not possible after Duhshasana's ghastly death in the hands of Bhima. He is still confident that Karna will overcome Arjuna and the war would anyways be won.
+
+Meanwhile Arjuna and Karna continued to hit each other with arrows 
+The kind of wounds they inflicted on each other could not be tolerated by lesser mortals. Then Karna wounded Arjuna with ten sharp arrows. Bhima rebuked Arjuna from behind for letting Karna wound him and Krishna encouraged Arjuna reminding him he was Nara 
+The legendary rishi who killed Dambodbhava. And Karna was Dambodbhava reincarnated.
+At this, Arjuna sought Krishna's permission and prayed to Shiva and Brahma to invoke Brahmastra which created thousands of arrows. Karna responded with a weapon which also+ 
++far many arrows to withstand Brahmastra. Some of them even pierced Arjuna, Krishna and Bhima. Arjuna was enraged and shot back arrows that wounded Karna and also killed two warriors Sushena and Sabhapati, hundreds of elephants, horses and soldiers 
+He again pierced Karna with many arrows. In that attack, the string of Gandiva snapped. Karna, in that moment of advantage, wounded Arjuna and Krishna even more. Arjuna (replaced the string I guess) and shot back arrows that wounded Karna and it went on. 
+Karna shot serpent like arrows and Krishna which wounded him and then went back towards Karna. Arjuna sliced them all before they returned to Karna. He then pierced Karna with arrows that had flaming tips and slew the protectors of Karna's wheels and flanks 
+Arjuna released a certain Astra to kill Karna but he responded with Bhargava Astra and destroyed Arjuna's weapon. The exchange of arrows followed and then Karna chose to shoot the 'Nagastra'. His arrow was taken over by Naga Ashvasena. Shalya advised Karna to+ 
++add an additional arrow as he felt that the said arrow would not be able to reach Arjuna's neck. Karna disregarded the advice and shot the lone arrow. Ashvasena, the son of Takshaka had borne a grudge against Arjuna over Khandava burning and aimed at Arjuna's neck 
+Krishna recognized the snake and pressed down the chariot making it sink into the ground. The arrow claimed Kiriti's famed crown, crafted by Brahma for Indra, gifted to Arjuna. Collecting his front curls with a scarf, Arjuna shot an arrow at the frustrated serpent 
+Ashvasena died on the spot. Karna again wounded Arjuna with ten arrows. Arjuna shot back arrows that shattered Karna's armour and the exchange continued. Karna became more vulnerable to Arjuna's arrows. Both their bodies were mangled by arrows. 
+Shooting hundreds of arrows from his bow, himself coered with blood, Karna looked like the setting sun, crimson red with arrows looking like rays. The earth quaked and Karna felt his guru's curse take shape and Astras did not manifest to him. He cursed Dharma 
+for being partial. His chariot was caught in the mud and horses were dislodged. He continued to fight, shooting arrows. He then invoked Brahmastra. Arjuna responded with Aindra in return. Karna severed Arjuna's bowstring and he replaced it in a trice. 
+Krishna goaded Arjuna to up his game and release divine astras. Arjuna invoked a triple astra (Naga+agni+Roudra by the looks of it) and was about to shoot when Karna's wheel was swallowed by the earth. He requested Arjuna to wait in the name of Dharma 
+Krishna replied 'finally, you remembered dharma, which you forgot while dragging Draupadi and insulting her with foul words,' and reminded Arjuna of all the wrongs that Pandavas had been subjected to.
+
+Karna then released Brahmastra and tried to extricate the wheel. 
+Arjuna responded with his own weapon and then invoked Agneyastra. Karna quelled it with Vaaruna. After quenching the fire, the astra covered the battle field with dark clouds. Arjuna invoked Vaayavya to dispel the darkness around. He then felled Karna's banner
+
+The sight of Karna's flag which had been the refuge to Kaurava warriors all along the war, now lying on the ground, disheartened the soldiers of Duryodhana.
+
+Arjuna then took up an Anjalika arrow reminding of Sun in its dazzle, equivalent to Pinaka and Sudarshana. 
+Arjuna's prayer before shooting the arrow is worth pondering. Summarizing below
+
+'If I have performed austerities and pleased my elders, if I have heeded well meant advice and respected truth, let this arrow kill my enemy.'
+
+And he shot it at Karna
+
+The arrow blazed through and severed the head of the commander of Duryodhana's armies. Though mangled by arrows Karna's body looked resplendent and beautiful, like the extinguished flame of an untainted Yajna, like the sun in the midday. 
+That was the end of Karna Parva. End of Day 17 as well
+
+Thanks for the support till here🙏🙏 .
+
+## Day 18
+
+After the death of Karna, Duryodhana appointed Shalya, the King of Madra as the commander. Konwing of this development, Krishna advises Yudhishtira to lead the battle on the following day. He also says Shalya may be suprior to Bhishma, Drona and Karna 
+The Kuru Maharathas take a decision to not let individual duels happen and stay together through out the day. Shalya arranged for the armies to be arrayed in a sarvatobhadra vyuha. He was protected by the remaining of Karna's sons. 
+Kritavarma and Trigartas  formed the left flank while the Shaka-Yavana division under Kripa's leadership formed the right flank. Ashvatthama was at the rear and Duryodhana was in the middle, protected by whoever remained of his brothers. Shakuni at the front 
+The Pandavas made a three pronged attack with Yudhishtira leading against Shalya, Bhima attacking Kripa and Arjuna taking on Kritavarma. The twins attacked Shakuni and his son Uluka. The carnage followed despite the greatly reduced size of the army 
+
+
+Duryodhana killed Chekitana, the lone prince of Chedis and then attacked Drishtadyumna. Ashvatthama fought Arjuna. Shalya returned to fight Yudhishtira. Knowledgeable about the vulnerabilities of inner organs, Yudhishtira pierced Shalya badly. 
+He also killed Chandrasena and Drumasena who protected Shalya's chariot wheels. Shalya was enraged and killed Chedi warriors and injured Satyaki, Bhima and the twins. Yudhishtira then brought down Shalya's flag. At this Shalya rained arrows upon Yudhishtira 
+When Yudhishtira was dazed at the attack, Bhima and Satyaki as well as Nakula and Sahadeva tried to cover for him. But Shalya repulsed them all.
+
+Meanwhile, Ashvatthama attacked Arjuna and covered him, Krishna and his chariot with arrows. Arjuna fought back 
+like a flame without smoke, encouraged by the wind that was the twang of his bow. He destroyed two thousand of the enemy chariots. He then killed Ashvatthama's charioteer and horses and also broke the bludgeon hurled at him by Ashvatthama 
+Unperturbed, Ashvatthama fought on, killing two Panchala Princes Sudharma and Suratha. Arjuna meanwhile wought destruction among enemy ranks.
+
+Duryodhana and Drishtadyumna too fought a great duel.  (To be Continued)
+
+They hit each others with arrows. Seeing that Drishtadyumna was dominating, Duryodhana's brothers surrounded him. Shikhandi held off Kritavarma and Kripa.
+
+Shalya meanwhile was proving to better the four Pandavas together. Satyaki too lost his chariot 
+Returning on another chariot, Satyaki took it upon himself to stop Shalya. He pierced Shalya with sharp arrows and was wounded back in return. The Pandava  brothers supported him. The arrows released in the process covered the sky. Shalya could not be stopped
+
+
+Shalya was stationed near Yudhishtira like saturn near the moon 
+He calls his brothers and Krishna to re-array the formation and announces that he would lead the battle next. Satyaki and Drishtadyumna protect his wheels 
+Arjuna stays in the rear and Bhima advances in the front. Twins form the flanks.
+
+The Kaurava side is ready to respond. Shakuni and his brothers engage Satyaki, Drishtadyumna and the twins while Duryodhana himself fights Bhima
+
+
+Duryodhana cuts Bhima's standard and bow. Bhima then hurls a javelin that pierces him in the chest and makes him faint. Bhima then kills Duryodhana's chariot.
+Kripa and Kritavarma try to rescue Duryodhana as the horses carry him away
+
+
+Yudhishtira was in such a fearful form that none who knew him could recognize. He brought down chariots, horsemen and foot soldiers in thousands. Shalya countered him. Yudhishtira broke Shalya's bow and killed his four horses. The two charioteers were next. 
+At this juncture, Ashvatthama rushed in and took Shalya upon his chariot as Yudhishtira pursued them, terrorising enemy soldiers. Shalya got into another chariot and came back to fight Yudhishtira. They pierced each other like two tuskers gore each other.
+
+
+Shalya severed Yudhishtira's bow and Kripa at that instant killed Yudhishtira's charioteer and Shalya killed Yudhishtira's horses. At this, Bhima intervened and covered Shalya with his arrows. Bhima severed Shalya's bow, killed horses and charioteer
+
+
+Shalya advanced towards Yudhishtira with a sword and shield. But Bhima severed those too. Still Shalya advanced against Yudhishtira and attacked him (don't know with which weapon). Yudhishtira, himself without a bow or chariot, took up a javelin. 
+
+It was a javelin that Yudhishtira had worshipped all his life, originally crafted by Tvashtra for Ishana. He threw it at Shalya and it pierced him like Skanda's spear shattered mount Krouncha. That marked the end of Shalya, prosperous Lord of a vibrant civilization 
+Upon Shalya's death, his valiant younger brother attacked Yudhishtira but was killed shortly by Dharmaraja.
+The Madraka's fled under Pandava's attack and were pursued by Satyaki. Kritavarma accosted him. Though he lost a bow, Satyaki picked up another.
+
+
+With that, he shattered the yoke of Kritavarma's charioteer and killed his horses. He also killed the bhoja's two charioteers. At this the Kuru armies fled. Duryodhana came to the fore and attacked Satyaki as other Pandava warriors came in 
+Kritavarma too returned in another chariot. But Yudhishtira slew Kritavarma's horses and also pierced Kripa. Ashvatthama took Kritavarma away from Yudhishtira as Kripa put up a resistance against the Pandava.
+
+
+The Madra warriors returned to battle, to attack Yudhishtira, despite Duryodhana's warnings not to advance. Arjuna, Bhima and the twins surrounded Yudhishtira and slaughtered the enemy. Shakuni chided Duryodhana for simply looking on.
+
+
+Seeing his armies run in different directions, Duryodhana asks his charioteer to drive him towards Arjuna. A large portion of the army (21000) follows him to fight Bhima and Drishtadyumna. Though outnumbered, Bhima is not perturbed and kills his attackers.
+
+
+Shalva, the king of mlechchas rode on his elephant and led the attack against the Pandavas and Panchalas. The armies fled in the heat of his attack. Drishtadyumna fought the Mlechcha Lord and targeted the elephant first. The wounded mammoth charged at him. 
+Drishtadyumna leapt down from his chariot, club in hand. But the elephant crushed his chariot and charioteer. At this, Bhima, Satyaki  and Shikhandi rushed to support Drishtadyumna.
+Shalva covered them all with arrows. But his elephant wavered and fell
+
+
+
++after suffering a degree of loss and sent Sahadeva and the sons of Draupadi to tackle Shakuni. Though it was a tad late, the Pandava response was steady and Shakuni had to retreat but not before denting the Pandava army. Sahadeva went back to Yudhishtira 
+Here, there is no duel mentioned between Sahadeva and Shakuni. It is said that Shakuni overcame the Pandavas but the horsemen of Pandava army persisted till the Gandharans retreated. (Veda Vyasa has not forgotten even the nameless horsemen! 🙏)
+
+
+Shakuni then attacked Drishtadyumna from the side. and another round of slaughter followed. He then proceeded to Duryodhana saying the Pandava horsemen are nearly finished. All the Kuru side needed to do was to do away with the enemy rathas and elephants. 
+He goaded Duryodhana to give his best shot now and get to Yudhishtira.
+Meanwhile Arjuna saw the damage inflicted upon his army and asked Krishna to drive him to the midst of the enemy and single handedly slaughtered the army of Duryodhana
+
+
+Duryodhana attacked Drishtadyumna with a chariot division. Drishtadyumna quickly killed Duryodhana's horses and charioteer. Duryodhana ascended another horse and rushed towards Shakuni. A great elephant force then surrounded all the five brothers. 
+As Bhima and Arjuna destroyed the elephants, Arjuna is his fine way and Bhima in his delirious style, Drishtadyumna rushed to protect them. Duryodhana then returned on an elephant. Upon not seeing Duryodhana on any of the chariots, the Kuru Maharathas+ 
++got a bit confused and regrouped to strategise without Duryodhana. Now Sanjaya tells about his own experience of how he was pursued by each of the Pandava warriors. Sanjaya says he fled from Arjuna's attack and then fought against Drishtadyumna +
+
+
++had to flee from there too and found himself at the mercy of Satyaki (he seems to have spared Sanjaya's life after slicing off his armour).
+Meanwhile Kritavarma, Ashvatthama, Kritavarma go in search of Duryodhana as the Pandavas continue to slaughter the forces 
+Bhimasena meanwhile begins to kill the remaining brothers of Duryodhana save one. Sudarsha. Krishna saw Duryodhana unprotected and encouraged Arjuna to quickly kill him. Arjuna agrees and proceeds there with Bhima and Sahadeva.
+
+
+
+Seeing this, Sudarsha, the lone brother of Duryodhana fought Bhima while Shakuni and Susharma attacked Arjuna. Riding on a horse, Duryodhana took on Sahadeva and struck him on head with a javelin, making him sink to the floor. But Sahadeva recovered and fought 
+Arjuna meanwhile handles the Trigarta force under Susharma. He killed Satyakarma and Satyeshu.  With another sharp arrow, he pierced Susharma in the heart and then killed forty three of Susharma's sons too.
+Bhima killed Sudarsha as Shakuni attacked Sahadeva
+
+
+In the early phase of the duel, Sahadeva fainted and Bhima held back the soldiers from attacking his brother. Sahadeva recovered and severed Shakuni's bow.  Shakuni fought on with a new one while Uluka jumped to defend his father and attacked Bhima
+
+Sahadeva then beheaded Uluka with a sharp arrow. Enraged and bereaved, Shakuni reflected upon Vidura's warning. Sahadeva broke Shakuni's bow again. Shakuni's sword, club and javelin were countered by Sahadeva. Shakuni tried to retreat but Sahadeva pursued him 
+He challenged Shakuni to fight like a man and receive the fruit of his actions in the sabha during the fateful game. As Sahadeva brought down Shakuni's flag and umbrella, he rushed at the Pandava with a javelin. Sahadeva cut it up with two arrows
+
+
+With a third, he beheaded Shakuni. The Pandava Panchala armies cheered and Duryodhana's men fled the scene. The Gandharan soldiers attacked Sahadeva but Arjuna beheaded them all. Duryodhana then rallied the remaining Rathas and led the attack 
+The Pandava warriors fought back and annihilated Duryodhana's army and he retreated seeing that he was alone.
+What remained of the Pandava army?  
+700 elephants  
+2K chariots  
+5K horses  
+10K footmen  
+Drishtadyumna rallied them and stationed himself at the fore
+
+
+
+Duryodhana's horse succumbed to injuries and he retreated on foot, mace in hand, remembering each word of Vidura's counsel.
+
+Meanwhile, Satyaki and Drishtadyumna were about to kill Sanjaya who they had captured. But Vedavyasa arrived on the scene 
+He convinced the Panchala and Satyaki to let Sanjaya escape alive. Sanjaya started out to return to Dhritarashtra and met Duryodhana on the way who bade him farewell and entered a lake, wounded and exhausted. 
+Sanjaya also meets Kritavarma, Ashvatthama and Kripa who take him back to camp and then return to the lake to convince Duryodhana to return to the battle field. He refuses to return. But the conversation is overheard by some hunters. 
+They inform Bhima of Duryodhana's whereabouts. The Pandavas with Krishna and Satyaki go to the lake to challenge Duryodhana. Before that, Yuyutsu the son of Dhritarashtra through a Vaishya woman (he would have changed sides to fight on Pandava side)+ 
++expresses interest to go back to Hastinapura and keep Dhritarashtra company till the worst is over. Yudhishtira blesses him and sends him. They all proceed to the lake and Yudhishtira challenges Duryodhana to keep the fight one. When Duryodhana says he is alone 
++and hence it is against dharma for so many Pandava warriors to fight him, Yudhishtira laughs and reminds him of Abhimanyu incident. But still assures him the Duryodhana would have to fight only one of them and not all. He then goes on to do something unwise 
+Yudhishtira then promises that Duryodhana needs to fight only one of them and if he won that, he could continue to be the king. Either because he is too tired or proud or something, Duryodhana does not see the chance there+ 
+
++and simply says the one who is interested in fighting him can come forward. Bhima readily steps forward. Later Krishna gives Yudhishtira the scolding of his life as to what could have happened if Duryodhana had chosen to fight either of twins or Arjuna. 
+Here, let me give a small analysis of my own while I try to understand why Yudhishtira did that. I think he was confident that any of them could defeat Duryodhana given the state he was in. Yudhishtira's confidence perhaps came from the past 18 days where+ 
++he himself had defeated Duryodhana with ease at least thrice. Drishtadyumna and Bhima had defeated him and Arjuna had breezed through all their duels with Duryodhana. But that was Duryodhana on a chariot where he lacks real war experience 
+But when it came to close quarter duel with a mace, Krishna knew that Yudhishtira had grossly under estimated Duryodhana and overestimated their own strength and scolds Yudhishtira for the misstep. 
+Bhima assures Krishna that he would kill Duryodhana today. 
+Meanwhile, Balarama returns from his pilgrimage and is received with affection by everyone. We come to know that he earlier, wanted to fight on the side of Duryodhana, but Krishna would have flatly refused which is why he goes off on a pilgrimage. 
+Balarama suggests that they all proceed to a place called Samantapanchaka. The one who gets killed there is believed to be an offering to the gods and hence would reach the abodes of the gods. They all proceed there for the duel-finale of this great war 
+And it was a duel worth the wait as these two elephants of men clashed with each other, attacking, defending, restraining and attacking again. Bhima's power astounded Duryodhana. He struck with his own mace and seemed to dominate 
+The clash of those clubs caused sparks and the power behind each stroke made the onlookers tremble. One particular defence of Bhima was so stellar that it annoyed Duryodhana who struck him on the head. Bhima was unmoved and fought back. 
+Bhima's subsequent offences were parried by Duryodhana who cracked Bhima's techniques and the duel started to tire out Bhima. Frustrated, Bhima struck Duryodhana on the side which stupefied him. Duryodhana then struck Bhima on the head again 
+Unfazed, Bhima struck Duryodhana so hard that the latter fell unconscious, but recovered soon enough and with a powerful strike, he floored Bhima. Duryodhana then struck at Bhaima's armour, breaking it into fragments. Bhima too recovered and fought back. 
+As they fought on, unmindful of the blood that flowed from their bodies, Arjuna asked Krishna who among them was superior. Krishna says They are evenly matched in what they learnt. But Bhima was the stronger and still, Duryodhana due to practice would emerge stronger 
+Krishna says Bhima can overcome Duryodhana only with some unfair means, like gods overcame asuras with maya. He says Bhima needs to keep up the pledge that he had taken during the game of dice, to break Duryodhana's thighs. He censures Yudhishtira for staking+ 
+the victory of 18 day hardships on a single duel. Arjuna nods and slaps his thigh. Bhima gets the hint, but fights on for a while. At one opportune moment, Bhima tries to bait Duryodhana into offence. Duryodhana still parries the blow and strikes Bhima 
+The strike leaves Bhima in a daze but because of his extreme will power, Bhima does not let the pain show and Duryodhana is unable to decide whether to strike again or let Bhima strike back. Bhima recovers and leaps back to attack Duryodhana. 
+To frustrate Bhima's attack, Duryodhana leaps into air. Bhima sees this and raises his club, striking Duryodhana on his thighs. Duryodhana falls down with fractured thighs and ominous omens follow his fall. 
+
+Bhima though is delirious and reminds how Duryodhana+ 
++had the menstruating Draupadi dragged into the Sabha and had her garment pulled off while calling the Pandavas cattle. Now, Bhima says he would inflict the same insult upon Duryodhana now without the guile of deceiving in dice and kicks Duryodhana on the head 
+Yudhishtira steps in to restrain Bhima and then weeps looking at Duryodhana, pointing at the magnitude of the destruction caused by the feud that was sown by Duryodhana.
+
+Balarama is enraged at the lapse by Bhima when he struck Duryodhana on the thigh,+ 
++a move that is considered sinful and attacks Bhima with his plough. But Krishna restrains him reminding that keeping up a vow is a must for a Kshatriya and that is what Bhima had done. He also reminds the curse of Rishi Maitreya+ 
++that Duryodhana's thighs would be crushed by Bhima. 
+Balarama is unconvinced and leaves in a huff. Krishna tries to cheer the Pandavas and Bhima falls on the feeet of Yudhishtira saying 'The earth removed of its thorns, is yours again.' 
+On this note, I shall end this thread on the great battle of Kurukshetra. The questions of right and wrong shall persist and it is each individual's journey to find those answers and become a better versions of him/herself. 
+
+Thanks a lot for your support till here 🙏
+I shall compile the tweets in a booklet, add a quick summary of what follows in the Sauptika and Aishika Parvas and explore ways to circulate it. 
+
+As for the excel sheet, will try and update it ASAP and share the analytics too. 
+yatO dharmastatO jayaH 🙏🙏
 
 ## Warrior performance
 Source: [TW](https://threadreaderapp.com/thread/1250017591898202112.html)
