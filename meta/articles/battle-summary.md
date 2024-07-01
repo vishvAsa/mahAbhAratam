@@ -1057,29 +1057,58 @@ Thanks for the support till here🙏🙏 .
 
 ## Day 18
 
-After the death of Karna, Duryodhana appointed Shalya, the King of Madra as the commander. Konwing of this development, Krishna advises Yudhishtira to lead the battle on the following day. He also says Shalya may be suprior to Bhishma, Drona and Karna 
-The Kuru Maharathas take a decision to not let individual duels happen and stay together through out the day. Shalya arranged for the armies to be arrayed in a sarvatobhadra vyuha. He was protected by the remaining of Karna's sons. 
-Kritavarma and Trigartas  formed the left flank while the Shaka-Yavana division under Kripa's leadership formed the right flank. Ashvatthama was at the rear and Duryodhana was in the middle, protected by whoever remained of his brothers. Shakuni at the front 
-The Pandavas made a three pronged attack with Yudhishtira leading against Shalya, Bhima attacking Kripa and Arjuna taking on Kritavarma. The twins attacked Shakuni and his son Uluka. The carnage followed despite the greatly reduced size of the army 
+After the death of Karna, Duryodhana appointed Shalya,  
+the King of Madra as the commander.  
+Knowing of this development, Krishna advises Yudhishtira to lead the battle on the following day.  
+He also says Shalya may be suprior to Bhishma, Drona and Karna.  
+
+The Kuru Maharathas take a decision to not let individual duels happen  
+and stay together through out the day.  
+Shalya arranged for the armies to be arrayed in a sarvatobhadra vyuha.  
+He was protected by the remaining of Karna's sons. 
+
+Kritavarma and Trigartas  formed the left flank  
+while the Shaka-Yavana division under Kripa's leadership formed the right flank.  
+Ashvatthama was at the rear and Duryodhana was in the middle,  
+protected by whoever remained of his brothers.  
+Shakuni at the front. 
+
+The Pandavas made a three pronged attack  
+with Yudhishtira leading against Shalya, Bhima attacking Kripa and Arjuna taking on Kritavarma.  
+The twins attacked Shakuni and his son Uluka.  
+The carnage followed despite the greatly reduced size of the army 
 
 
-Duryodhana killed Chekitana, the lone prince of Chedis and then attacked Drishtadyumna. Ashvatthama fought Arjuna. Shalya returned to fight Yudhishtira. Knowledgeable about the vulnerabilities of inner organs, Yudhishtira pierced Shalya badly. 
-He also killed Chandrasena and Drumasena who protected Shalya's chariot wheels. Shalya was enraged and killed Chedi warriors and injured Satyaki, Bhima and the twins. Yudhishtira then brought down Shalya's flag. At this Shalya rained arrows upon Yudhishtira 
-When Yudhishtira was dazed at the attack, Bhima and Satyaki as well as Nakula and Sahadeva tried to cover for him. But Shalya repulsed them all.
+Duryodhana killed Chekitana, the lone prince of Chedis  
+and then attacked Drishtadyumna.  
+Ashvatthama fought Arjuna.  
+Shalya returned to fight Yudhishtira.  
 
-Meanwhile, Ashvatthama attacked Arjuna and covered him, Krishna and his chariot with arrows. Arjuna fought back 
-like a flame without smoke, encouraged by the wind that was the twang of his bow. He destroyed two thousand of the enemy chariots. He then killed Ashvatthama's charioteer and horses and also broke the bludgeon hurled at him by Ashvatthama 
-Unperturbed, Ashvatthama fought on, killing two Panchala Princes Sudharma and Suratha. Arjuna meanwhile wought destruction among enemy ranks.
+Knowledgeable about the vulnerabilities of inner organs, Yudhishtira pierced Shalya badly.   
+He also killed Chandrasena and Drumasena who protected Shalya's chariot wheels.  
+Shalya was enraged and killed Chedi warriors and injured Satyaki, Bhima and the twins.  
+Yudhishtira then brought down Shalya's flag. At this Shalya rained arrows upon Yudhishtira 
+When Yudhishtira was dazed at the attack,  
+Bhima and Satyaki as well as Nakula and Sahadeva tried to cover for him.  
+But Shalya repulsed them all.
 
-Duryodhana and Drishtadyumna too fought a great duel.  (To be Continued)
+Meanwhile, Ashvatthama attacked Arjuna and covered him,  
+Krishna and his chariot with arrows.  
+Arjuna fought back like a flame without smoke,  
+encouraged by the wind that was the twang of his bow.  
+He destroyed two thousand of the enemy chariots.  
+He then killed Ashvatthama's charioteer and horses and also broke the bludgeon hurled at him by Ashvatthama.  
+Unperturbed, Ashvatthama fought on, killing two Panchala Princes Sudharma and Suratha.  
+Arjuna meanwhile wought destruction among enemy ranks.
 
+Duryodhana and Drishtadyumna too fought a great duel. 
 They hit each others with arrows. Seeing that Drishtadyumna was dominating, Duryodhana's brothers surrounded him. Shikhandi held off Kritavarma and Kripa.
 
 Shalya meanwhile was proving to better the four Pandavas together. Satyaki too lost his chariot 
 Returning on another chariot, Satyaki took it upon himself to stop Shalya. He pierced Shalya with sharp arrows and was wounded back in return. The Pandava  brothers supported him. The arrows released in the process covered the sky. Shalya could not be stopped
 
 
-Shalya was stationed near Yudhishtira like saturn near the moon 
+Shalya was stationed near Yudhishtira like saturn near the moon.  
 He calls his brothers and Krishna to re-array the formation and announces that he would lead the battle next. Satyaki and Drishtadyumna protect his wheels 
 Arjuna stays in the rear and Bhima advances in the front. Twins form the flanks.
 
