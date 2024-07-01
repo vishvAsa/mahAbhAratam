@@ -1,0 +1,8 @@
++++
+title = "12 श्रेयो हि"
+
++++
+12.12 श्रेयः better; हि indeed; ज्ञानम् knowledge; अभ्यासात् than practice; ज्ञानात् than knowledge; ध्यानम् meditation; विशिष्यते excels;
+ध्यानात् than meditation; कर्मफलत्यागः the renunciation of the fruits of actions; त्यागात् from renunciation; शान्तिः peace; अनन्तरम्
+immediately.Commentary Theoretical or indirect knowledge of Brahman gained from the scriptures is better than the practice (of restraining the modifications of the mind or worship of idols or selfmortification for the purpose of control of the mind and the senses) accompained with ignorance. Meditation is better than theoretical knowledge. Renunciation of the fruits of actions is bettern than meditation. Renunciation of the fruits of all actions as a means to the attainment of supreme peace or Moksha is merely eulogised here by the declaration of the superiority of one over the other to encourage Arjuna (and other spiritual aspirants)
+to practise Nishkama Karma Yoga; to create a strong desire in them to take up the Yoga of selfless action; in the same manner as by saying that the ocean was drunk by the Brahmana sage Agastya even the Brahmanas of this age are extolled because they are also Brahmanas.Desire is an enemy of peace. Desire causes restlessness of the mind. Desire is the source of all human miseries; sorrows and troubles. Stop the play of desire through discrimination; dispassion and eniry into the nature of the Self then you will enjoy supreme peace.Renunciation of the fruits of actions; is prescribed for the purification of the aspirants heart. It annihlates desire; the enemy of wisdom. The sage; too; renounces the fruits of actions. It has become natural to him to do so.
