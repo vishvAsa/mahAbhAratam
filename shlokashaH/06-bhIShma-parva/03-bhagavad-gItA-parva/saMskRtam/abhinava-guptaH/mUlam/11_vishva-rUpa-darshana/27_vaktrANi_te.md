@@ -2,5 +2,5 @@
 title = "27 वक्त्राणि ते"
 
 +++
-।।11.27।। No commentary.  
+॥11.27॥ No commentary.  
   

@@ -2,4 +2,4 @@
 title = "28 युञ्जन्नेवं सदाऽऽत्मानम्"
 
 +++
-।।6.28।। No commentary.
+॥6.28॥ No commentary.

@@ -2,5 +2,5 @@
 title = "19 अनादिमध्यान्तमनन्तवीर्य"
 
 +++
-।।11.19।। No commentary.  
+॥11.19॥ No commentary.  
   

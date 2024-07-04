@@ -2,5 +2,5 @@
 title = "13 आहुस्त्वामृषयः सर्वे"
 
 +++
-।।10.13।। No commentary.  
+॥10.13॥ No commentary.  
   

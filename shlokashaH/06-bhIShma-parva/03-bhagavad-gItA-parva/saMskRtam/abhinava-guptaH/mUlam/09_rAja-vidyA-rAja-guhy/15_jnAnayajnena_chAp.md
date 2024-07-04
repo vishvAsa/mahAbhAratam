@@ -2,4 +2,4 @@
 title = "15 ज्ञानयज्ञेन चाप्यन्ये"
 
 +++
-।।9.15।। No commentary.
+॥9.15॥ No commentary.

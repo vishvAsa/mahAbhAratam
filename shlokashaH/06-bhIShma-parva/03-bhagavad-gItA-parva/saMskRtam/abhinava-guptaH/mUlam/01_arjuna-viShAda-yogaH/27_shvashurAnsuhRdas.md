@@ -2,5 +2,5 @@
 title = "27 श्वशुरान्सुहृदश्चैव"
 
 +++
-।।1.27।। No commentary.  
+॥1.27॥ No commentary.  
   

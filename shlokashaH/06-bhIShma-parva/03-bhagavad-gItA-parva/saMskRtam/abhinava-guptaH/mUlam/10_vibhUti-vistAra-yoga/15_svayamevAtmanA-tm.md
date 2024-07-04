@@ -2,5 +2,5 @@
 title = "15 स्वयमेवात्मनाऽत्मानं"
 
 +++
-।।10.15।। No commentary.  
+॥10.15॥ No commentary.  
   

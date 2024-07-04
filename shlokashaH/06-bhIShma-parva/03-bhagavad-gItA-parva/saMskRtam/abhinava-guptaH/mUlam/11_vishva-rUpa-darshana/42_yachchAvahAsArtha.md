@@ -2,5 +2,5 @@
 title = "42 यच्चावहासार्थमसत्कृतोऽसि"
 
 +++
-।।11.42।। No commentary.  
+॥11.42॥ No commentary.  
   

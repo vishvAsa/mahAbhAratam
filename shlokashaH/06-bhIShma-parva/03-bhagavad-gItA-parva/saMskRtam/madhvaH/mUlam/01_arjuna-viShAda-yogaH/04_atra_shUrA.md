@@ -4,6 +4,6 @@ title = "04 अत्र शूरा"
 +++
   
   
-।।1.4।। Sri Madhvacharya did not comment on this sloka. The commentary
+॥1.4॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.  
   

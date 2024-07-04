@@ -2,7 +2,7 @@
 title = "09 अथ चित्तम्"
 
 +++
-।।12.9।। अथेति।  
+॥12.9॥ अथेति।  
 
 तीव्र-तर-भगवच्-छक्ति-पातं +++(N adds समाधातुं आवेशयितुं obviously accepting the reading अथ चित्तं समाधातुं as found in the Vulgate )+++  
 

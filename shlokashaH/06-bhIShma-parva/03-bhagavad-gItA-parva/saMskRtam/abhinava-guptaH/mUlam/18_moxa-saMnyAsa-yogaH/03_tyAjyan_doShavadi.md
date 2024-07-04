@@ -2,4 +2,4 @@
 title = "03 त्याज्यन् दोषवदित्येके"
 
 +++
-।।18.3।। No commentary.
+॥18.3॥ No commentary.

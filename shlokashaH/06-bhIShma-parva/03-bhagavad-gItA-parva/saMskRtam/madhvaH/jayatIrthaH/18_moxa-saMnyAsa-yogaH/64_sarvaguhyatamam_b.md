@@ -2,5 +2,5 @@
 title = "64 सर्वगुह्यतमम् भूयः"
 
 +++
-।।18.64।। Sri Jayatirtha did not comment on this sloka.  
+॥18.64॥ Sri Jayatirtha did not comment on this sloka.  
   

@@ -2,5 +2,5 @@
 title = "09 अन्ये च"
 
 +++
-।।1.9।। Sri Sankaracharya did not comment on this sloka.  
+॥1.9॥ Sri Sankaracharya did not comment on this sloka.  
   

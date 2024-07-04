@@ -2,5 +2,5 @@
 title = "32 न काङ्क्षे"
 
 +++
-।।1.32।। Sri Sankaracharya did not comment on this sloka.  
+॥1.32॥ Sri Sankaracharya did not comment on this sloka.  
   

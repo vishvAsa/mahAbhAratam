@@ -2,5 +2,5 @@
 title = "22 यावदेतान्निरीक्षेऽहं"
 
 +++
-।।1.22।। No commentary.  
+॥1.22॥ No commentary.  
   

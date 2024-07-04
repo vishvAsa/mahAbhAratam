@@ -2,5 +2,5 @@
 title = "26 तत्रापश्यत्स्थितान्पार्थः"
 
 +++
-।।1.26।। No commentary.  
+॥1.26॥ No commentary.  
   

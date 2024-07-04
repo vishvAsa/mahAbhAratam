@@ -2,5 +2,5 @@
 title = "28 कृपया परयाऽऽविष्टो"
 
 +++
-।।1.28।। No commentary.  
+॥1.28॥ No commentary.  
   

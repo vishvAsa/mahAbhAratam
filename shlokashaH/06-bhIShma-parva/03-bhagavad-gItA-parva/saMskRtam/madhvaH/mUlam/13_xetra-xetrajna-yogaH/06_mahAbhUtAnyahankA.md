@@ -2,4 +2,4 @@
 title = "06 महाभूतान्यहङ्कारो"
 
 +++
-।।13.6।। Sri Madhvacharya did not comment on this sloka.
+॥13.6॥ Sri Madhvacharya did not comment on this sloka.

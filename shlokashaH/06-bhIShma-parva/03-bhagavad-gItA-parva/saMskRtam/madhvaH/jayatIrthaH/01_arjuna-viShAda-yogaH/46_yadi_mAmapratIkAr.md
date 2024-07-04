@@ -4,6 +4,6 @@ title = "46 यदि मामप्रतीकारमशस्त्रम�
 +++
   
   
-।।1.46।। Sri Jayatirtha did not comment on this sloka. The commentary
+॥1.46॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.  
   

@@ -2,5 +2,5 @@
 title = "14 ततः श्वेतैर्हयैर्युक्ते"
 
 +++
-।।1.14।। No commentary.  
+॥1.14॥ No commentary.  
   

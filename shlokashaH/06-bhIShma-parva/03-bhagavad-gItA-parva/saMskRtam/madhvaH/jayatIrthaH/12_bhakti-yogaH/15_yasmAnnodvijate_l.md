@@ -2,4 +2,4 @@
 title = "15 यस्मान्नोद्विजते लोको"
 
 +++
-।।12.15।। Sri Jayatirtha did not comment on this sloka.
+॥12.15॥ Sri Jayatirtha did not comment on this sloka.

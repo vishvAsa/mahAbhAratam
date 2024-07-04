@@ -2,4 +2,4 @@
 title = "03 एवमेतद्यथात्थ"
 
 +++
-।।11.3।। Sri Jayatirtha did not comment on this sloka.
+॥11.3॥ Sri Jayatirtha did not comment on this sloka.

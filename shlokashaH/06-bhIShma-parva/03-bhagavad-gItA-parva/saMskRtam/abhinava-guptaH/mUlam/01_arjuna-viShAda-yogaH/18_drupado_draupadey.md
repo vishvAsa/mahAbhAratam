@@ -2,5 +2,5 @@
 title = "18 द्रुपदो द्रौपदेयाश्च"
 
 +++
-।।1.18।। No commentary.  
+॥1.18॥ No commentary.  
   

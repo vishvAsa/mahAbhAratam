@@ -2,5 +2,5 @@
 title = "46 यदि मामप्रतीकारमशस्त्रम्"
 
 +++
-।।1.46।। No commentary.  
+॥1.46॥ No commentary.  
   

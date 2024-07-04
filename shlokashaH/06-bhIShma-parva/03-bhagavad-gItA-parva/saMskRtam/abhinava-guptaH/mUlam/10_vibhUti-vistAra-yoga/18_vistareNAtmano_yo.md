@@ -2,4 +2,4 @@
 title = "18 विस्तरेणात्मनो योगम्"
 
 +++
-।।10.18।। No commentary.
+॥10.18॥ No commentary.

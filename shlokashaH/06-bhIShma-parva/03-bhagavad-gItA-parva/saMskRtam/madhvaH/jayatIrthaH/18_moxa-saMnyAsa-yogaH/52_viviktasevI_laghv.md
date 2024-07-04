@@ -2,4 +2,4 @@
 title = "52 विविक्तसेवी लघ्वाशी"
 
 +++
-।।18.52।। Sri Jayatirtha did not comment on this sloka.
+॥18.52॥ Sri Jayatirtha did not comment on this sloka.

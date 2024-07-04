@@ -2,5 +2,5 @@
 title = "23 योत्स्यमानानवेक्षेऽहं य"
 
 +++
-।।1.23।। No commentary.  
+॥1.23॥ No commentary.  
   
