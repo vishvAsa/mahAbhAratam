@@ -1,0 +1,6 @@
++++
+title = "38 त्वमादिदेवः पुरुषः"
+
++++
+11.38 त्वम् Thou; आदिदेवः the primal God; पुरुषः Purusha; पुराणः the ancient; त्वम् Thou; अस्य of (this); विश्वस्य of Universe; परम् the Supreme; निधानम् Refuge; वेत्ता Knower; असि (Thou) art; वेद्यम् to be known; च and; परम् the Supreme; च and; धाम abode; त्वया by Thee; ततम् is pervaded; विश्वम् the Universe; अनन्तरूप O Being of infinite forms.Commentary Primal God; because the Lord is the creator of the universe.Purusha; because the Lord lies in the body (Puri Sayanat).Nidhaanam That in which the world rests during the great deluge or cosmic dissolution.The pot comes out of the clay and gets merged in clay. Even so the world has come out of the Lord and gets dissolved or involved in the Lord. So the Lord is the material cause of the world.
+Therefore; He is the primal God and the supreme refuge also.Vetta Knower of the knowable things. As the Lord is omniscient; He knows all about the world; and He is the instrumental or the efficient cause of this world.Param Dhama Supreme Abode of Vishnu. Just as the rope (the substratum for the superimposed snake) pervades the snake; so also Brahman or Vishnu through His Nature as ExistenceKnowledgeBliss Absolute pervades the whole universe.Moreover --
