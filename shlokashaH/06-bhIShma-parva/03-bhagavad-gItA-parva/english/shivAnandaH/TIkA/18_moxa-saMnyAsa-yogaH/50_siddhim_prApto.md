@@ -1,0 +1,7 @@
++++
+title = "50 सिद्धिम् प्राप्तो"
+
++++
+18.50 सिद्धिम् perfection; प्राप्तः attained; यथा as; ब्रह्म Brahman
+(the Eternal); तथा so; आप्नोति obtains; निबोध learn; मे of Me; समासेन in brief; एव even; कौन्तेय O son of Kunti; निष्ठा state; ज्ञानस्य of knowledge; या or; परा highest.Commentary When a man has the good fortune to hear the words of wisdom from a teacher; dualism and egoism vanish and his mind rests in union with the Supreme Being. The need for action no longer exists for such a man. Nothing further remains for him to do.
+He has become a Kritakritya (a man of total fulfilment; or one who has done all that there is to be done).The aspirant obtains the grace of the Lord by worshipping Hims with his proper duty. The Lord gives him dispassion; discrimination; devotion to knowledge. The Lord removes his veil of ignorance. To these ever harmonious; worshipping in love; I give the Yoga of discrimination by which they come unto Me. Out of My mere compassion for them; I; dwelling within their Self; destroy the darkness born of ignorance by the luminous lamp of knowledge. (X.10and11)The perfection is JnanaNishtha or devotion to knowledge by which he attains Selfrealisation or becomes identical with the Supreme Being when the veil of ignorance is rent asunder. The way to the attainment of this devotion to knowledge will be described only in a succint manner. The process or method of Selfrealisation will be described only in brief in the following verses.The actual technie has to be learnt direct from a Guna.
