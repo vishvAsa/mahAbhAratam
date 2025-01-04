@@ -2,7 +2,7 @@
 title = "47 कर्मण्येवाधिकारस्ते मा"
 
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 **कर्मण्य् एवाधिकारस्** ते  
@@ -11,7 +11,7 @@ title = "47 कर्मण्येवाधिकारस्ते मा"
 **मा ते सङ्गो ऽस्त्व् अकर्मणि**॥2.47॥+++(5)+++
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।  
@@ -22,7 +22,7 @@ title = "47 कर्मण्येवाधिकारस्ते मा"
 
 _________________
 ## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 अतः सत्त्वस्थस्य मुमुक्षोः एतावद् एव उपादेयम् इत्य् आह -
@@ -53,7 +53,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
 ।।2.47।। एवं तर्हि मोक्षसाधनेतरसकलपरित्यागे
@@ -118,7 +118,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 2.47 As for obligatory, occasional and desiderative acts taught in the Vedas and associated with some result or other, you, an aspirant established in Sattva, have the right only to perform them: You have no right to the fruits known to be derived from such acts. Acts done with a desire for fruit bring about bondage. But acts done without an eye on fruits form My worship and become a means for release. Do not become an agent of acts with the idea of being the reaper of their fruits. Even when you, who are established in pure Sattva and are desrious of release, perform acts, you should not look upon yourself as the agent.
@@ -131,7 +131,7 @@ Likewise, it is necessary to contemplate yourself as not being the cause of even
 
 _________________
 ## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
 ।।2.48।। अतश्च  
@@ -144,7 +144,7 @@ N इत्यत्याज्य एव)।
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 2.47 Karmani etc. You should be concerned in the action alone, but not
@@ -163,7 +163,7 @@ nature of false conception, and hence it must be abandoned. Then what ;-
 
 _________________
 ## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।2.47।। कामात्मनां निन्दा कृता। कथं एषां स्वर्गकामो यजेत
@@ -196,7 +196,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
 ।।2.47।। ज्ञानिनः कर्माभावमुक्त्वा इदानीमज्ञानिनः कर्मोच्यत इत्यन्यथा
@@ -326,7 +326,7 @@ _________________
 
 _________________
 ## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
 
@@ -341,7 +341,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
 ।।2.47।। तेरा कर्ममें ही अधिकार है ज्ञाननिष्ठामें नहीं। वहाँ (
@@ -356,7 +356,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 2.47 Te, your; adhikarah, right; is karmani eva, for action alone, not
@@ -375,7 +375,7 @@ pain;'
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
 ।।2.47।। तर्हि परम्परया पुरुषार्थसाधनं योगमार्गं परित्यज्य साक्षादेव
@@ -398,7 +398,7 @@ pain;'
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
 ।।2.47।। ननु निष्कामकर्मभिरात्मज्ञानं संपाद्य परमानन्दप्राप्तिः क्रियते
@@ -420,7 +420,7 @@ pain;'
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
 ।।2.47।। ननु ममाप्यौपनिषदात्मज्ञानार्थिनः शम एवेष्टस्तत्कथं मां
@@ -431,7 +431,7 @@ pain;'
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।2.47।। मम तर्हि क्वाधिकार इत्याकाङ्क्षायामाह **कर्मणीति।**
@@ -451,7 +451,7 @@ pain;'
 
 _________________
 ## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।2.47।। एवं सति मम वेदोदन्वति किमुपादेयमित्याकाङ्क्षायामाह
@@ -461,7 +461,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
   
@@ -486,7 +486,7 @@ _________________
 
 _________________
 ## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
 ।।2.47।। तर्हि सर्वकर्मफलानि परमेश्वराराधनादेव भविष्यन्तीत्यभिसंधाय
@@ -504,7 +504,7 @@ _________________
 
 _________________
 ## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
 
 ।।2.47।। वेद प्रतिपादित सिद्धान्त के अनुसार ईश्वरार्पण बुद्धि और निष्काम
@@ -574,7 +574,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।2.47।। कर्म करने मात्र में तुम्हारा अधिकार है; फल में कभी नहीं। तुम
@@ -583,7 +583,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
 ।।2.47।। कर्तव्य-कर्म करनेमें ही तेरा अधिकार है, फलोंमें कभी नहीं। अतः
@@ -591,7 +591,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
 
 2.47।।***व्याख्या--*****'कर्मण्येवाधिकारस्ते'--**प्राप्त कर्तव्य
@@ -644,42 +644,42 @@ _________________
 
 _________________
 ## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 2.47. Let your claim lie on action alone and never on the fruits; you should never be a cause for the fruits of action; let not your attachment be to inaction.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 2.47 Your right is for action alone, never for the results. Do not become the agent of the results of action. May you not have any inclination for inaction.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 2.47 But thou hast only the right to work, but none to the fruit thereof. Let not then the fruit of thy action be thy motive; nor yet be thou enamored of inaction.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 2.47 To work alone you have the right, and not to the fruits. Do not be impelled by the fruits of work. Nor have attachment to inaction.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 2.47 Thy right is to work only, but never with its fruits; let not the fruits of action be thy motive, nor let thy attachment be to inaction.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.47 कर्मणि in work; एव only; अधिकारः right; ते thy; मा not; फलेषु in the fruits; कदाचन at any time; मा not; कर्मफलहेतुः भूः let not the fruits of action be thy motive; मा not; ते thy; सङ्गः attachment; अस्तु

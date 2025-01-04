@@ -2,7 +2,7 @@
 title = "26 पत्रम् पुष्पम्"
 
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 पत्रं पुष्पं फलं तोयं  
@@ -11,7 +11,7 @@ title = "26 पत्रम् पुष्पम्"
 **अश्नामि** प्रयता ऽऽत्मनः॥9.26॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति।  
@@ -22,7 +22,7 @@ title = "26 पत्रम् पुष्पम्"
 
 _________________
 ## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।9.26।। सर्वसुलभं **पत्रं** वा **पुष्पं** वा **फलं** वा तोयं वा **यो
@@ -41,7 +41,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
   
@@ -98,7 +98,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 9.26 Whoever offers to Me with true devotion a leaf, or a flower, or a fruit or water, which can be easily obtained, I accept it. That true devotion is love of such an exalted kind that the devotee cannot sustain himself without making such offering; the devotee has no extraneous purpose other than serving Me. Such an offering coming from a heart rendered pure with that singleness of purpose of considering the offering as an end in itself - I, the Lord of the universe, whose sport consists in the origin, maintenance and dissolution of the entire world,
@@ -113,14 +113,14 @@ worshipping Me and prostrating before Me; also perform your secular and Vedic du
 
 _________________
 ## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
 ।।9.26।। No commentary.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 9.23-26 Ye' pi etc. upto prayatatmanah. Even those who worship \[gods\]
@@ -206,7 +206,7 @@ Self, the Absolute Lord, as It alone is intended in all his action. This
 
 _________________
 ## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।9.26।। दुर्बलैस्त्वं पूजयितुमशक्यो महत्त्वादित्याशङक्याह -- पत्रमिति। न
@@ -217,7 +217,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
 ।।9.26।। पत्रमित्यस्य सङ्गत्यप्रतीतेराह -- **दुर्बलैरिति**। अतस्तद्भजनस्य
@@ -233,7 +233,7 @@ _________________
 
 _________________
 ## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
 ।।9.26।। --,**पत्रं पुष्पं फलं तोयम्** उदकं **यः** मे मह्यं **भक्त्या
@@ -243,7 +243,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
 ।।9.26।। मेरे भक्तोंको केवल अपुनरावृत्तिरूप अनन्त फल मिलता है इतना ही
@@ -256,7 +256,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 9.26 Yah, whoever; prayaccati, offers; me, Me; bhaktya, with devotion;
@@ -267,7 +267,7 @@ Since this is so, therefore-
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
 ।।9.26।। अनन्तफलत्वाद्भगवदाराधनमेव कर्तव्यमित्युक्तं सुकरत्वाच्च तथेत्याह
@@ -277,7 +277,7 @@ Since this is so, therefore-
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
 ।।9.26।। तदेवं देवतान्तराणि परित्यज्यानन्तफलत्वाद्भगवत एवाराधनं
@@ -302,7 +302,7 @@ Since this is so, therefore-
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
 ।।9.26।। मद्भक्तिरतिसुकरा देवतान्तरभक्तिस्तु
@@ -311,7 +311,7 @@ Since this is so, therefore-
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।9.26।। न केवलं मम पूजकानां मत्प्राप्तिरुपमना वृत्तिलक्षणमनन्तफलमपि तु
@@ -328,7 +328,7 @@ Since this is so, therefore-
 
 _________________
 ## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।9.26।। तदेवं स्वभक्तानां स्वप्राप्तिप्रकारं उक्त्वाऽधुना स्वभक्तेः
@@ -343,7 +343,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
   
@@ -363,7 +363,7 @@ _________________
 
 _________________
 ## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
 ।।9.26।। तदेवं स्वभक्तानामक्षयफलत्वमुक्तम्। अनायासत्वं स्वभक्तेर्दर्शयति
@@ -380,7 +380,7 @@ _________________
 
 _________________
 ## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
 
 ।।9.26।। विश्व में कोई ऐसा धर्म नहीं है; जो भक्तों द्वारा ईश्वर को उपहार
@@ -434,7 +434,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।9.26।। जो कोई भी भक्त मेरे लिए पत्र, पुष्प, फल, जल आदि भक्ति से अर्पण
@@ -443,7 +443,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
 ।।9.26।। जो भक्त पत्र, पुष्प, फल, जल आदि (यथासाध्य प्राप्त वस्तु) को
@@ -452,7 +452,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
 
 ।।9.26।।***व्याख्या--***\[भगवान्की अपरा प्रकृतिके दो कार्य हैं--पदार्थ
@@ -493,7 +493,7 @@ _________________
 
 _________________
 ## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 9.26. Whosoever with devotion offers Me a leaf, a flower, a fruit, or
@@ -501,35 +501,35 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 9.26 Whoever offers Me with devotion-a leaf, a flower, a fruit, or water, I accept that (gift) of the pure-hearted man which has been devotionally presented.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 9.26 Whatever a man offers to Me, whether it be a leaf, or a flower, or fruit, or water, I accept it, for it is offered with devotion and purity of mind.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 9.26 Whoever offers Me with true devotion a leaf, a flower, a fruit or some water, I accept this offering made with devotion by him who is pure of heart.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 9.26 Whoever offers Me with devotion a leaf, a flower, a fruit or a little water that, so offered devotedly by the pure-minded, I accept.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 9.26 पत्रम् a leaf; पुष्पम् a flower; फलम् a fruit; तोयम् water; यः who;

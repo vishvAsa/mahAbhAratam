@@ -2,7 +2,7 @@
 title = "77 तच्च संस्मृत्य"
 
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 तच्च संस्मृत्य **संस्मृत्य**  
@@ -11,7 +11,7 @@ title = "77 तच्च संस्मृत्य"
 **हृष्यामि** च पुनः पुनः॥18.77॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः।  
@@ -22,7 +22,7 @@ title = "77 तच्च संस्मृत्य"
 
 _________________
 ## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।18.77।।**तत् च** अर्जुनाय प्रकाशितम् ऐश्वरं **हरेः अत्यद्भुतं रूपं**
@@ -31,7 +31,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
   
@@ -45,7 +45,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 18.77 Great amazement is caused in me, stirred by joy born of the repeated remembrance of that most marvellous and sovereign form of the Lord revealed to Arjuna and directly witnessed by me. I rejoice again and again. Why say more;
@@ -56,7 +56,7 @@ _________________
 
 _________________
 ## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
 ।।18.74 -- 18.78।। इत्यहमित्यादि मतिर्ममेत्यन्तम्। संजयवचनेन
@@ -127,7 +127,7 @@ substitutes this sentence with
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.77 See Comment under 18.78
@@ -138,14 +138,14 @@ substitutes this sentence with
 
 _________________
 ## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।18.77।। Sri Madhvacharya did not comment on this sloka.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
 ।।18.77।। Sri Jayatirtha did not comment on this sloka.
@@ -156,7 +156,7 @@ _________________
 
 _________________
 ## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
 ।।18.77।। --,**त़च्च संस्मृत्य संस्मृत्य रूपम् अत्यद्भुतं हरेः**
@@ -165,7 +165,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
 ।।18.77।। तथा हे राजन् हरिके उस अति अद्भुत विश्वरूपको भी बारम्बार याद
@@ -173,7 +173,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 18.77 And, rajan, O King; samsmrtya samsmrtya, repeatedly recollecting;
@@ -183,7 +183,7 @@ And hrsyami, I rejoice; punah punah, again and again.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
 ।।18.77।। यत्तु विश्वरूपाख्यं रूपं स्वगुणमर्जुनाय
@@ -191,7 +191,7 @@ And hrsyami, I rejoice; punah punah, again and again.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
 ।।18.77।। यद्विश्वरूपाख्यं सगुणं रूपमर्जुनाय ध्यानार्थं भगवान्दर्शयामास
@@ -200,7 +200,7 @@ And hrsyami, I rejoice; punah punah, again and again.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
 ।।18.77।।**तच्चेति।** रूपं विश्वरूपम्। एतद्दर्शने हिब्रह्माणमीशम् इति
@@ -225,7 +225,7 @@ And hrsyami, I rejoice; punah punah, again and again.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।18.77।। यत्तु विश्वरुपं सगुणमर्जुनाय भगवान्ध्यानार्थं दर्शितवान् तच्च
@@ -241,7 +241,7 @@ And hrsyami, I rejoice; punah punah, again and again.
 
 _________________
 ## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।18.77।। किञ्च तच्चेति। हे राजन् हरेः सर्वधर्माश्रयस्य
@@ -253,7 +253,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
   
@@ -275,7 +275,7 @@ _________________
 
 _________________
 ## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
 ।।18.77।। किंच **-- तच्चेति।** तदिति विश्वरूपं निर्दिशति। स्पष्टमन्यत्।
@@ -286,7 +286,7 @@ _________________
 
 _________________
 ## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
 
 ।।18.77।। भगवान् श्रीकृष्ण ने अर्जुन को अपना विश्वरूप दर्शाया था जिसका
@@ -310,7 +310,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।18.77।। हे राजन ! श्री हरि के अति अद्भुत रूप को भी पुन: पुन: स्मरण
@@ -318,7 +318,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
 ।।18.77।। हे राजन् ! भगवान् श्रीकृष्णके उस अत्यन्त अद्भुत विराट्रूपको याद
@@ -327,7 +327,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
 
 ।।18.77।।***व्याख्या--*** **तच्च संस्मृत्य ৷৷. पुनः पुनः--** सञ्जयने
@@ -358,42 +358,42 @@ _________________
 
 _________________
 ## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.77. O great king ! On recalling in the mind that extremely wonderful supreme form of Hari, I am amazed and I feel joyous again and again.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 18.77 O king, repeatedly recollecting that greatly extraordinary form of Hari, I am struck with wonder. And I rejoice again and again.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 18.77 As memory recalls again and again the exceeding beauty of the Lord, I am filled with amazement and happiness.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 18.77 And remembering over and over again that most marvellous form of Hari, great is my amazement, O King, and I rejoice again and again.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 18.77 And, remembering again and again, also that most wonderful form of Hari, great is my wonder, O King; and I rejoice again and again.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.77 तत् that; च and; संस्मृत्य having remembered; संस्मृत्य having remembered; रूपम् the form; अत्यद्भुतम् the most wonderful; हरेः of Hari; विस्मयः wonder; मे my; महान् great; राजन् O King; हृष्यामि (I)

@@ -2,7 +2,7 @@
 title = "53 अहङ्कारम् बलम्"
 
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 अहङ्कारं बलं दर्पं  
@@ -11,7 +11,7 @@ title = "53 अहङ्कारम् बलम्"
 **ब्रह्म-भूयाय+++(=भावाय)+++ कल्पते**॥18.53॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम्।  
@@ -22,7 +22,7 @@ title = "53 अहङ्कारम् बलम्"
 
 _________________
 ## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।18.53।।**बुद्ध्या विशुद्धया** यथावस्थितात्मतत्त्वविषयया **युक्तः;
@@ -42,7 +42,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
 ।। 18.53बुद्धिशब्दोऽत्र प्रस्तुतब्रह्मशब्दाभिप्रेतविषयबुद्धिगोचरः;
@@ -82,7 +82,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 18.51 - 18.53 'Endowed with a purified understanding' means endowed with the Buddhi capable of understanding the self as it is in reality;
@@ -113,7 +113,7 @@ bonds, he experiences the self as It really is.
 
 _________________
 ## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
 ।।18.41 -- 18.60।। एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च
@@ -139,7 +139,7 @@ omits समासेन )+++ ( श्लो. 50 ) संक्षेपेण�
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.53 See Comment under 18.60
@@ -150,7 +150,7 @@ omits समासेन )+++ ( श्लो. 50 ) संक्षेपेण�
 
 _________________
 ## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।18.53।। ब्रह्मभूयाय कल्पते। ब्रह्मणि भावो ब्रह्मभूयम्; ब्रह्मणि
@@ -158,7 +158,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
 ।।18.53।। ब्रह्मभूयाय ब्रह्मत्वायेति प्रतीतिनिरासार्थं व्याचष्टे --
@@ -172,7 +172,7 @@ _________________
 
 _________________
 ## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
 ।।18.53।। --,**अहंकारम्** अहंकरणम् अहंकारः देहादिषु तम्; **बलं**
@@ -188,7 +188,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
 ।।18.53।। तथा --, अहंकार; बल और दर्पको छोड़कर शरीरइन्द्रियादिमें अहंभाव
@@ -207,7 +207,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 18.53 (That person) vimucya, having discarded; ahan-karam, egotism,
@@ -230,7 +230,7 @@ brahma-bhuyaya, for becoming Brahman.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
 ।।18.53।। ज्ञाननिष्ठस्य यतेर्विशेषणान्तरं समुच्चिनोति -- **किञ्चेति।**
@@ -248,7 +248,7 @@ brahma-bhuyaya, for becoming Brahman.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
 ।।18.53।। अहंकारमिति। अहंकारं महाकुलप्रसूतोऽहं महतां
@@ -267,7 +267,7 @@ brahma-bhuyaya, for becoming Brahman.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
 ।।18.53।। एवं यतवाक्कायमानसस्य योगिनो योगजाः सिद्धय उपतिष्ठन्ति। ताश्च
@@ -297,7 +297,7 @@ brahma-bhuyaya, for becoming Brahman.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।18.53।। किंच देहादिष्वहंकरणमहंकारस्ते देहे आत्मत्वाभिमानं बलं
@@ -318,7 +318,7 @@ brahma-bhuyaya, for becoming Brahman.
 
 _________________
 ## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।18.51 -- 18.53।। तथा हि बुद्ध्येति त्रिभिः। बुद्ध्या
@@ -332,7 +332,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
   
@@ -350,7 +350,7 @@ _________________
 
 _________________
 ## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
 ।।18.53।। किंच **-- अहंकारमिति**। ततश्च विरक्तोऽहमित्याद्यहंकारं बलं
@@ -365,7 +365,7 @@ _________________
 
 _________________
 ## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
 
 ।।18.53।। पूर्व श्लोक में उपादेय (ग्रहण करने योग्य) गुणों का उल्लेख किया
@@ -393,7 +393,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।18.53।। अहंकार, बल, दर्प, काम, क्रोध और परिग्रह को त्याग कर ममत्वभाव
@@ -401,7 +401,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
 ।।18.53।। जो विशुद्ध (सात्त्विकी) बुद्धिसे युक्त, वैराग्यके आश्रित,
@@ -413,7 +413,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
 
 ।।18.53।।***व्याख्या --***  **बुद्ध्या विशुद्धया युक्तः --** जो
@@ -526,14 +526,14 @@ _________________
 
 _________________
 ## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.53. Relinshing egotism, violence, pride, desire, wrath, and the sense of possession-he, the unselfish and calm one, is capable of becoming the Brahman.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 18.53 (That person,) having discarded egotism, force, pride, desire,
@@ -541,7 +541,7 @@ anger and superfluous possessions, free from the idea of possession, and serene,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 18.53 Having abandoned selfishness, power, arrogance, anger and desire,
@@ -549,21 +549,21 @@ possessing nothing of his own and having attained peace, he is fit to join the E
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 18.53 Forsaking egoism, power, pride, desire, wrath and possession, with no feeling of 'mine' and tranil - he becomes worthy for the state of brahman.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 18.53 Having abandoned egoism, strength, arrogance, desire, anger and covetousness, and free from the notion of 'mine' and peaceful, he is fit for becoming Brahman.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.53 अहङ्कारम् egoism; बलम् strength; दर्पम् arrogance; कामम् desire;

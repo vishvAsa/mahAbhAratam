@@ -2,7 +2,7 @@
 title = "12 युक्तः कर्मफलम्"
 
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 **युक्तः** कर्म-फलं त्यक्त्वा  
@@ -11,7 +11,7 @@ title = "12 युक्तः कर्मफलम्"
 **फले सक्तो निबध्यते**॥5.12॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम्।  
@@ -22,7 +22,7 @@ title = "12 युक्तः कर्मफलम्"
 
 _________________
 ## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.12।।**युक्तः** आत्मव्यतिरिक्तफलेषु अचपलः आत्मैकप्रवणः **कर्मफलं
@@ -36,7 +36,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
   
@@ -57,7 +57,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 5.12 A Yogin is one who has no hankering for fruits other than the self,
@@ -69,14 +69,14 @@ and who is exclusively devoted to the self. If a man renounces the fruits of act
 
 _________________
 ## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.12।। युक्त इति। नैष्ठिकीम् अपुनरावर्तिनीम्।
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 5.12 Yuktah etc. Highest : that from which there is no return.
@@ -87,7 +87,7 @@ _________________
 
 _________________
 ## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.12।। पुनर्युक्त्यादिनियमनार्थं युक्तायुक्तफलमाह युक्त इति। युक्तो
@@ -95,7 +95,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
 ।।5.12।। तथापि युक्त इत्येतत् पुनरुक्तमित्यत आह **पुनरि**ति।
@@ -112,7 +112,7 @@ _________________
 
 _________________
 ## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.12।। **युक्तः** ईश्वराय कर्माणि करोमि न मम फलाय इत्येवं समाहितः सन्
@@ -125,7 +125,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
 ।।5.12।। क्योंकि सब कर्म ईश्वरके लिये ही हैं मेरे फलके लिये नहीं इस
@@ -141,7 +141,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 5.12 Tyaktva, giving up; karma-phalam, the result of work; yuktah, by
@@ -161,7 +161,7 @@ supreme Reality-
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
 ।।5.12।। इतश्च सङ्गं त्यक्त्वा कर्मानुष्ठानं त्वया कर्तव्यमित्याह
@@ -174,7 +174,7 @@ supreme Reality-
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
 ।।5.12।। कर्तृत्वाभिमानसाम्येऽपि तेनैव कर्मणा कश्चिन्मुच्यते कश्चित्तु
@@ -189,7 +189,7 @@ supreme Reality-
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
 ।।5.12।। किंच **युक्त इति।** युक्तो ब्रह्मण्याधाय
@@ -200,7 +200,7 @@ supreme Reality-
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।5.12।। न केवलं सत्त्वशुद्य्धर्थमेव कर्माण्यनुष्ठेयान्यपितु परंपरया
@@ -217,7 +217,7 @@ supreme Reality-
 
 _________________
 ## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.12।। एवं च योगेन कर्मकरणे मोक्षं विपरीते बन्धनं चाह युक्त इति।
@@ -225,7 +225,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
   
@@ -246,7 +246,7 @@ _________________
 
 _________________
 ## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
 ।।5.12।। ननु तेनैव कर्मणा कश्चिन्मुच्यते कश्चिद्बध्यत इति व्यवस्था कथमत
@@ -260,7 +260,7 @@ _________________
 
 _________________
 ## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
 
 ।।5.12।। कर्मफल की प्राप्ति की चिन्ताओं से मुक्त होकर सम्यक् प्रकार से
@@ -294,7 +294,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।5.12।। युक्त पुरुष कर्मफल का त्याग करके परम शान्ति को प्राप्त होता
@@ -302,7 +302,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
 ।।5.12।। कर्मयोगी कर्मफलका त्याग करके नैष्ठिकी शान्तिको प्राप्त होता है।
@@ -310,7 +310,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
 
 5.12।।***व्याख्या--*'युक्तः'--**इस पदका अर्थ प्रसङ्गके अनुसार लिया
@@ -327,14 +327,14 @@ _________________
 
 _________________
 ## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 5.12. Having abandoned \[the attachment for\] the fruit of actions, the master of Yoga attains the highest Peace. \[But\] the person, other than the master of Yoga, attached to the fruit of action, is bound by his action born of desire.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 5.12 Giving up the result of work by becoming resolute in faith, one attains Peace arising from steadfastness. One who is lacking in resolute faith, being attached to the result under the impulsion of desire,
@@ -342,21 +342,21 @@ becomes bound.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 5.12 Having abandoned the fruit of action, he wins eternal peace. Others unacquainted with spirituality, led by desire and clinging to the benefit which they think will follow their actions, become entangled in them.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 5.12 A Yogin, renouncing the fruits of his actions, attains lasting peace. But the unsteady man who is attached to fruits of actions, being impelled by desire, is bound.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 5.12 The united one (the well poised or the harmonised) having abandoned the fruit of action attains to the eternal peace: the non-united only
@@ -364,7 +364,7 @@ becomes bound.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 5.12 युक्तः the united one (the well poised); कर्मफलम् fruit of action;

@@ -2,7 +2,7 @@
 title = "25 मानापमानयोस्तुल्यस्तुल्यो"
 
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 मानापमानयोस् तुल्यस्  
@@ -11,7 +11,7 @@ title = "25 मानापमानयोस्तुल्यस्तुल�
 **गुणातीतः स उच्यते**॥14.25॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः।  
@@ -22,13 +22,13 @@ title = "25 मानापमानयोस्तुल्यस्तुल�
 
 _________________
 ## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।14.25 ।। तत्+++(=गुण)+++प्रयुक्त**मानापमानयोः** तत्प्रयुक्त**मित्रारिपक्षयोः** अपि स्वसंबन्धाभावाद् एव तुल्यचित्तः; तथा देहित्व-प्रयुक्त**सर्वारम्भ-परित्यागी** य एवंभूतः **स गुणातीत उच्यते**। अथ एवं रूपगुणात्यये प्रधानहेतुम् आह --
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
 ।। 14.25समदुःखसुखत्वादिकं प्रागेव सुशिक्षितम्; स्वस्थशब्देन
@@ -60,7 +60,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 14.24 - 14.25 He who is 'alike in pleasure and pain,' namely, whose mind is eal in pleasure and pain; 'who dwells in his self,' namely, who dwells in his self because his love for the self keeps his mind in eanimity in pleasure and pain arising from the birth, death etc., of his sons and other relatives and friends, and who, because of this, 'looks upon a clod, a stone and a piece of gold as of eal value,' who conseently remains the same towards things dear or hateful, i.e., who treats alike the worldly objects desired and undesired; who is
@@ -75,7 +75,7 @@ Now Sri Krsna states the main method (technie) for transcending such Gunas:
 
 _________________
 ## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
 ।।14.23 -- 14.25।। अत एवाह -- उदासीनवदित्यादि उच्यते इत्यन्तम्। यः अज्ञो
@@ -86,7 +86,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 14.23-25 Udasinavad etc. upto ucyate. He, who is ignorant i.e., he who
@@ -104,14 +104,14 @@ action\]'.
 
 _________________
 ## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।14.24 -- 14.25।। तुल्यत्वार्थ उक्तः पुरस्तात्।
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
 ।।14.24 -- 14.25।। समदुःखसुखः \[14।24\] इत्यादिना सर्वथा सुखादौ
@@ -125,7 +125,7 @@ _________________
 
 _________________
 ## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
 ।।14.25।। --,**मानापमानयोः तुल्यः** समः निर्विकारः **तुल्यः
@@ -142,7 +142,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
 ।।14.25।। तथा --, जो मान और अपमानमें समान अर्थात् निर्विकार रहता है तथा
@@ -161,7 +161,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 14.25 Further, tulyah, he who is the same, unperturbed; mana-apamanayoh,
@@ -187,7 +187,7 @@ transcended the alities. Now the Lord gives the reply to the estion,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
 ।।14.25।। इतश्च गुणातीतः शक्यो ज्ञातुमित्याह -- **किञ्चेति।** मानः
@@ -203,7 +203,7 @@ transcended the alities. Now the Lord gives the reply to the estion,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
 ।।14.25।। मानः सत्कार आदरापरपर्यायः;
@@ -220,7 +220,7 @@ transcended the alities. Now the Lord gives the reply to the estion,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
 ।।14.25।। अथ चतुर्थ्यां भूमौ सत्त्वापत्तिसंज्ञायां स्थितस्य योगिनः
@@ -234,7 +234,7 @@ transcended the alities. Now the Lord gives the reply to the estion,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।14.25।। मानः सत्कारोऽपमानस्तिरस्कास्तयोर्मानापामानयोस्तुल्यः समो
@@ -252,7 +252,7 @@ transcended the alities. Now the Lord gives the reply to the estion,
 
 _________________
 ## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।14.25।। मानापमानयोरिति। देहित्वप्रयुक्तसर्वारम्भपरित्यागी च यः;
@@ -260,7 +260,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
   
@@ -278,7 +278,7 @@ _________________
 
 _________________
 ## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
 ।।14.25।। अपिच **-- मानापमानयोरिति।** मानेऽपमाने च तुल्यः;
@@ -292,7 +292,7 @@ _________________
 
 _________________
 ## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
 
 ।।14.25।। पूर्वोक्त श्लोकों में चित्रित किये गये त्रिगुणातीत पुरुष के
@@ -334,7 +334,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।14.25।। जो मान और अपमान में सम है; शत्रु और मित्र के पक्ष में भी सम
@@ -342,7 +342,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
 ।।14.25।। जो धीर मनुष्य सुख-दुःखमें सम तथा अपने स्वरूपमें स्थित रहता है;
@@ -353,7 +353,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
 
 ।।14.25।।***व्याख्या --***  **धीरः; समदुःखसुखः --** नित्यअनित्य;
@@ -467,42 +467,42 @@ _________________
 
 _________________
 ## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 14.25. Who remains eal to honour and to dishonour, and eal to the sides of \[both\] the friend and the foe; and who has given up all fruits of his initiatives-he is said to have transcended the Strands.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 14.25 He who is the same under honour and dishonour, who is eally disposed both towards the side of the friend and of the foe, who has renounced all enterprise,-he is said to have gone beyond the alities.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 14.25 Who looks equally upon honour and dishonour, loves friends and foes alike, abandons all initiative, such is he who transcends the Qualities.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 14.25 He who is the same in honour and dishonour, and the same to friend and foe, and how has abandoned all enterprises - he is said to have risen above the Gunas.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 14.25 Who is the same in honour and dishonour, the same to friend and foe, abandoning all undertakings he is said to have transcended the alities.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 14.25 मानापमानयोः in honour and dishonour; तुल्यः the same; तुल्यः the same; मित्रारिपक्षयोः to friend and foe; सर्वारम्भपरित्यागी abandoning all undertakings; गुणातीतः crossed the Gunas; सः he; उच्यते is said.Commentary He keeps a balanced mind in honour and dishonour. He is the same to friend and foe. He is not affected by the dual throng. He has risen above the Gunas. He rests in his own essential nature as ExistenceKnowledgeBliss Absolute. He abids in his own Self. He is a Gunatita (one who has transcended the alities of Nature) who is not affected by the play of the alities. He keeps an even outlook amidst changes. He maintains a clam eilibrium.He abandons all actions that can bring visible or invisible fruits or results but he does actions that are necessary for the bare maintenance of his body. The alities described in verses 23; 24 and 25; such as indifference; etc.; are the means for attaining liberation. They represent the ideal that you should have before you. The aspirant should cultivate them. But one attains knowledge of the Self when he abides in his own true nature. These attributes form part and parcel of his nature and serve as marks to indicate that he has crossed beyond the three alities.The Lord gives in the following verse the answer to the third estion of Arjuna How does one go beyond the three alities

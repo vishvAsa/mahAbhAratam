@@ -62,19 +62,19 @@ this study.
 
 ## अभिनवगुप्तः
 ### 46
-<div class="js_include collapsed" url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md"  newLevelForH1="3" title="(सं) अभिनव-गुप्तः मूलम्" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md"  newLevelForH1="3" title="(सं) अभिनव-गुप्तः मूलम्" newLevelForH1="3" > </div>
 
 ## रामानुजः
 ### 45
-<div class="js_include collapsed" url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md"  newLevelForH1="3" title="(सं) रामानुजः मूलम्" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md"  newLevelForH1="3" title="(सं) रामानुजः मूलम्" newLevelForH1="3" > </div>
 
 ### 46
-<div class="js_include collapsed" url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md"  newLevelForH1="3" title="(सं) रामानुजः मूलम्" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md"  newLevelForH1="3" title="(सं) रामानुजः मूलम्" newLevelForH1="3" > </div>
 
 
 ## शाङ्कर-सम्प्रदायः
 ### 46
-<div class="js_include collapsed" url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md"  newLevelForH1="3" title="(सं) शङ्करः मूलम्" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md"  newLevelForH1="3" title="(सं) शङ्करः मूलम्" newLevelForH1="3" > </div>
 
 - शङ्कर on 2.46: “सर्वेषु वेदोक्तेषु कर्मसु यान्युक्तान्यनन्तानि फलानि
     तानि नापेक्ष्यन्ते चेत् , किमर्थं तानि ईश्वरायेत्यनुष्ठीयन्ते
@@ -99,13 +99,13 @@ this study.
 
 ## माध्वाः
 ### 45
-<div class="js_include collapsed" url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md"  newLevelForH1="3" title="(सं) मध्वः मूलम्" newLevelForH1="3" > </div>
-<div class="js_include collapsed" url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md"  newLevelForH1="3" title="(सं) मध्वः जयतीर्थः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md"  newLevelForH1="3" title="(सं) मध्वः मूलम्" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md"  newLevelForH1="3" title="(सं) मध्वः जयतीर्थः" newLevelForH1="3" > </div>
 
 
 ### 46
-<div class="js_include collapsed" url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md"  newLevelForH1="3" title="(सं) मध्वः मूलम्" newLevelForH1="3" > </div>
-<div class="js_include collapsed" url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md"  newLevelForH1="3" title="(सं) मध्वः जयतीर्थः" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md"  newLevelForH1="3" title="(सं) मध्वः मूलम्" newLevelForH1="3" > </div>
+<div class="js_include collapsed" url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md"  newLevelForH1="3" title="(सं) मध्वः जयतीर्थः" newLevelForH1="3" > </div>
 
 - madhva on 2.45: “इतरदपोद्य वेदानां परोक्षार्थत्वात्
     त्रिगुणसम्बन्धि-स्वर्गादिप्रतीतितोऽर्थ इव भाति। परोक्षवादो वेदोऽयं

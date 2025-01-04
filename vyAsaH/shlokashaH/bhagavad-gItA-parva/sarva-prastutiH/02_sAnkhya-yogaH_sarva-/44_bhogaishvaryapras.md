@@ -2,7 +2,7 @@
 title = "44 भोगैश्वर्यप्रसक्तानान्"
 
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 +++(क्षुद्र-)+++भोगैश्वर्य-प्रसक्तानां  
@@ -11,7 +11,7 @@ title = "44 भोगैश्वर्यप्रसक्तानान्"
 **समाधौ+++(→मनसि)+++ न विधीयते**॥2.44॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम्।  
@@ -22,7 +22,7 @@ title = "44 भोगैश्वर्यप्रसक्तानान्"
 
 _________________
 ## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।2.44।। तेषां **भोगैश्वर्य-प्रसक्तानां** **तया** वाचा  भोगैश्वर्य-विषयया **अपहृता**ऽत्मज्ञानानां यथोदिता **व्यवसायात्मिका बुद्धिः समाधौ** मनसि **न विधीयते** न उत्पद्यते। समाधीयते अस्मिन् आत्म-ज्ञानम् इति **समाधिः** मनः। 
@@ -31,13 +31,13 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
 2.42 इति द्रष्टव्यम्॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 2.42 - 2.44 The ignorant, whose knowledge is little, and who have as their sole aim the attainment of enjoyment and power, speak the flowery language i.e., having its flowers (show) only as fruits, which look apparently beautiful at first sight. They rejoice in the letter of the Vedas i.e., they are attached to heaven and such other results (promised in the Karma-kanda of the Vedas). They say that there is nothing else,
@@ -50,14 +50,14 @@ It can also be asked if it is proper to abandon what is given in the Vedas. Sri 
 
 _________________
 ## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
 ।।2.43 2.45।। तथा च यामिमामित्यादि। ये कामाभिलाषिणः, ते स्वयम् एतां वाचं वेदात्मिकां **पुष्पितां** भविष्यत्-स्वर्ग-फलेन +++(N omit भविष्यत् S reads भविष्यता)+++ व्याप्तां वदन्ति। अत एव जन्मनः कर्मैव फलम् इच्छन्ति - ते **अविपश्चितः**। ते च तयैव स्वयं कल्पितया वेद-वाचा अपहृत-चित्ताः व्यवसाय-बुद्धि-युक्ता अपि न समाधि-योग्याः - तत्र फल-निश्चयत्वात्। इति श्लोकत्रयस्य तात्पर्यम्।  
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 2.42-44 Yam imam etc., upto na vidhiyate. Those, who crave for objects
@@ -77,7 +77,7 @@ verses.
 
 _________________
 ## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।2.44।। तेषां सम्यण्युक्तिनिर्णयात्मिका बुद्धिः समाधौ समाध्यर्थे न
@@ -88,7 +88,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
 ।।2.44।। तयाऽपहृतेत्यादेरप्रतीतिनिरासायार्थमाह **तेषा**मिति। तेषां
@@ -111,7 +111,7 @@ _________________
 
 _________________
 ## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
 ।।2.44।।  
@@ -124,7 +124,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
 ।।2.44।। जो भोग और ऐश्वर्यमें आसक्त हैं अर्थात् भोग और ऐश्वर्य ही
@@ -138,7 +138,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 2.44 And vyavasayatmika, one-pointed; buddhih, conviction, with regard
@@ -154,7 +154,7 @@ by that speech which is full of various special rites.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
 ।।2.44।। ननु कर्मकाण्डनिष्ठानां कर्मानुष्ठायिनामपि
@@ -170,7 +170,7 @@ by that speech which is full of various special rites.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
 ।।2.42 2.44।। अव्यवसायिनामपि व्यवसायात्मिका बुद्धिः कुतो न भवति प्रमाणस्य
@@ -235,7 +235,7 @@ by that speech which is full of various special rites.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
 ।।2.44।।**भोगेति।** तया पुष्पितया वाचा अपहृतचेतसां पुंसां बुद्धिः
@@ -248,7 +248,7 @@ by that speech which is full of various special rites.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।2.44।। तेषां बोगैश्वर्ययोः प्रसक्तानामतिरक्तचितानां यतस्तया
@@ -268,7 +268,7 @@ by that speech which is full of various special rites.
 
 _________________
 ## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।2.44।। तथाभूतानां तेषां तया वाचाऽपहृतचेतसां काम्यकर्मपराणां
@@ -277,7 +277,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
   
@@ -294,7 +294,7 @@ _________________
 
 _________________
 ## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
 ।।2.44।। ततश्च **भोगैश्वर्यप्रसक्तानामिति।** भोगैश्वर्ययोः
@@ -310,7 +310,7 @@ _________________
 
 _________________
 ## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
 
 ।।2.44।। महर्षि व्यास ऐसे पहले साहसी क्रान्तिकारी थे जिन्होंने अपने काल
@@ -343,7 +343,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।2.44।। उससे जिनका चित्त हर लिया गया है ऐसे भोग और एश्र्वर्य‌ मॆ आसक्ति
@@ -352,7 +352,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
 ।।2.44।। उस पुष्पित वाणीसे जिसका अन्तःकरण हर लिया गया है अर्थात् भोगोंकी
@@ -361,7 +361,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
 
 2.44।।***व्याख्या --*****'तयापहृतचेतसाम्'--**पूर्वश्लोकोंमें जिस
@@ -426,28 +426,28 @@ _________________
 
 _________________
 ## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 2.44. Those, who are very much attached to the ownership of enjoyable objects and whose minds have been carried away by that (flowery speech)-their knowledge, in the form of determination is not prescribed for concentration.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 2.44 One-pointed conviction does not become established in the minds of those who delight in enjoyment and affluence, and whose intellects are carried away by that (speech).
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 2.44 While their minds are absorbed with ideas of power and personal enjoyment, they cannot concentrate their discrimination on one point.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 2.42 - 2.44 O! Partha, the unwise, who rejoice in the letter of the Vedas, say, 'There is nothing else.' They are full only of wordly desires and they hanker for heaven. They speak flowery words which offer rirth as the fruit of work. They look upon the Vedas as consisting entirely of varied rites for the attainment of pleasure and power. Those who cling so to pleasure and power are attracted by that speech
@@ -455,14 +455,14 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 2.44 For those who are attached to pleasure and power, whose minds are drawn away by such teaching, ï1thatï1 determinate reason is not formed which is steadily bent on meditation and Samadhi (superconscious state).
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.44 भोगैश्वर्यप्रसक्तानाम् of the people deeply attached to pleasure and lordship; तया by that; अपहृतचेतसाम् whose minds are drawn away;

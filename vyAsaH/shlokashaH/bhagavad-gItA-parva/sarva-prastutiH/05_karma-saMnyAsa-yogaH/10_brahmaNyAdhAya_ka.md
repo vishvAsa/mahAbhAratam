@@ -2,7 +2,7 @@
 title = "10 ब्रह्मण्याधाय कर्माणि"
 
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 ब्रह्मण्य् आधाय कर्माणि  
@@ -11,7 +11,7 @@ title = "10 ब्रह्मण्याधाय कर्माणि"
 पद्म-पत्रम् इवाम्भसा॥5.10॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।  
@@ -22,7 +22,7 @@ title = "10 ब्रह्मण्याधाय कर्माणि"
 
 _________________
 ## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.10।। ब्रह्मशब्देन प्रकृतिः इह उच्यतेमम योनिर्महद्ब्रह्म (गीता 14।3)
@@ -35,7 +35,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
   
@@ -77,7 +77,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 5.10 Here the term, Brahman denotes Prakrti. Later on Sri Krsna will say: 'The great Brahman is My womb' (14.3). Since Prakrti abides in the form of senses which are particular off-shoots of Prakrti, he who, as said in the passage beginning with 'Even though he is seeing, hearing
@@ -91,7 +91,7 @@ reflecting, 'I am doing nothing.' Such a person, though existing in contact with
 
 _________________
 ## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.7 5.11।। योगयुक्त इत्यादि आत्मसिद्धये इत्यन्तम्। सर्वभूतानामात्मभूतः
@@ -105,7 +105,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 5.10 See Comment under 5.11
@@ -116,7 +116,7 @@ _________________
 
 _________________
 ## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.10।। सन्न्यासयोगयुक्त एव च कर्मणा न लिप्यत इत्याह ब्रह्मणीति।
@@ -124,7 +124,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
 ।।5.10।। ननुयोगयुक्तः 7।5 इत्यनेन यत्सन्न्यासयोगयुक्तस्य कर्मालेपलक्षणं
@@ -143,7 +143,7 @@ _________________
 
 _________________
 ## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.10।। **ब्रह्मणि** ईश्वरे **आधाय** निक्षिप्य तदर्थं कर्म करोमि इति
@@ -154,7 +154,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
 ।।5.10।। परंतु जो तत्त्वज्ञानी नहीं है और कर्मयोगमें लगा हुआ है ( यानी )
@@ -165,7 +165,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 5.10 On the other hand, again, one who is ignorant of the Truth and is
@@ -180,7 +180,7 @@ certainly accrue from such action will be the purification of the heart.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
 ।।5.10।। तर्हि विद्वानिवाविद्वानपि कर्मणि न प्रवर्तेत
@@ -191,7 +191,7 @@ certainly accrue from such action will be the purification of the heart.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
 ।।5.10।। तर्ह्यविद्वान्कर्तृत्वाभिमानाल्लिप्येतैव तथाच कथं तस्य
@@ -204,7 +204,7 @@ certainly accrue from such action will be the purification of the heart.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
 ।।5.10।।**ब्रह्मणीति।** यतो विद्वानसङ्गत्वात्कुर्वन्नपि न लिप्यते
@@ -214,7 +214,7 @@ certainly accrue from such action will be the purification of the heart.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।5.10।। एवं तत्त्वविदो लौकिककर्मणा मुधा चेष्टामात्रेण लेपो
@@ -244,7 +244,7 @@ certainly accrue from such action will be the purification of the heart.
 
 _________________
 ## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.10।। न चायं मुनिः केवलं साङ्ख्यमार्गीयः कर्मसन्न्यासाभावात् किन्तु
@@ -256,7 +256,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
   
@@ -276,7 +276,7 @@ _________________
 
 _________________
 ## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
 ।।5.10।। तर्हि यस्य करोमीत्यभिमानोऽस्ति तस्य कर्मलेपो दुर्वारः
@@ -291,7 +291,7 @@ _________________
 
 _________________
 ## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
 
 ।।5.10।। दो पूर्ववर्ती श्लोकों में वर्णित ज्ञान ब्रह्म स्वरूप में रमे
@@ -338,7 +338,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।5.10।। जो पुरुष सब कर्म ब्रह्म में अर्पण करके और आसक्ति को त्यागकर
@@ -346,7 +346,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
 ।।5.10।। जो (भक्तियोगी) सम्पूर्ण कर्मोंको भगवान् में अर्पण करके और
@@ -355,7 +355,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
 
 5.10।।***व्याख्या--*'ब्रह्मण्याधाय कर्माणि'--**शरीर, इन्द्रियाँ, मन,
@@ -383,28 +383,28 @@ _________________
 
 _________________
 ## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 5.10. Who performs actions by offering them to the Brahman and giving up attachment-he is not stained by sin just as the lotus-leaf is \[not stained\] by water.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 5.10 One who acts by dedicating actions to Brahman and by renouncing attachment, he does not become polluted by sin, just as a lotus leaf is not by water.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 5.10 He who dedicates his actions to the Spirit, without any personal attachment to them, he is no more tainted by sin than the water lily is wetted by water.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 5.10 He who acts without attachment, reposing all actions on Brahman
@@ -412,14 +412,14 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 5.10 He who does actions, offering them to Brahman, and abandoning attachment, is not tainted by sin, just as a lotus-leaf is not tainted by water.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 5.10 ब्रह्मणि in Brahman; आधाय having placed; कर्माणि actions; सङ्गम्

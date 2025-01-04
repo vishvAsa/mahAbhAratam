@@ -7,9 +7,9 @@ unicode_script = "devanagari"
 
 अधस् सूचितं युष्मासु केषाञ्चित् स्याद् रुचय इति, गुणदोषसूचना आयान्त्व् इति च प्रसारयामि -
 
-पूर्वं वेदान्ते तटस्थोऽपि, पारिवारिकक्षोभैर् विचालित आत्मानम् पुनर् अवाप्तुं भगवद्गीताम् अपाठिषम् । साध्वाश्रितो ऽयम् उपायो यतो ऽनेनेष्टं समाधानम् इव लब्धम्। तत्र भविष्यपठनादौ स्वप्रयोजनाय स्वीयो बोधसारः कश्चन लिखितो [ऽत्र](https://vishvasa.github.io/mahAbhAratam/shlokashaH/shlokashaH/bhagavad-gItA-parva/meta/vishvAsa-bodhaH/) । अत्र पुरुषोत्तमो "देवग्राम"-शब्देन निर्दिष्टः, स्वानुमतं प्लैटव-यावन-देवादि-तत्त्व-दर्शनम् आश्रितम्। 
+पूर्वं वेदान्ते तटस्थोऽपि, पारिवारिकक्षोभैर् विचालित आत्मानम् पुनर् अवाप्तुं भगवद्गीताम् अपाठिषम् । साध्वाश्रितो ऽयम् उपायो यतो ऽनेनेष्टं समाधानम् इव लब्धम्। तत्र भविष्यपठनादौ स्वप्रयोजनाय स्वीयो बोधसारः कश्चन लिखितो [ऽत्र](https://vishvasa.github.io/mahAbhAratam/vyAsaH/shlokashaH/shlokashaH/bhagavad-gItA-parva/meta/vishvAsa-bodhaH/) । अत्र पुरुषोत्तमो "देवग्राम"-शब्देन निर्दिष्टः, स्वानुमतं प्लैटव-यावन-देवादि-तत्त्व-दर्शनम् आश्रितम्। 
 
- प्रत्येकस्य श्लोकस्य स्वप्रतिपत्ति-स्मारक-प्रस्तुतिर् अपि रक्षिता, यथा  [ऽत्र](https://vishvasa.github.io/mahAbhAratam/shlokashaH/shlokashaH/bhagavad-gItA-parva/sarva-prastutiH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti/)।
+ प्रत्येकस्य श्लोकस्य स्वप्रतिपत्ति-स्मारक-प्रस्तुतिर् अपि रक्षिता, यथा  [ऽत्र](https://vishvasa.github.io/mahAbhAratam/vyAsaH/shlokashaH/shlokashaH/bhagavad-gItA-parva/sarva-prastutiH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti/)।
 </details>
 
 

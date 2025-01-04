@@ -2,7 +2,7 @@
 title = "17 तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः"
 
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 तद्-बुद्धयस् तद्-आत्मानस्  
@@ -11,7 +11,7 @@ title = "17 तद्बुद्धयस्तदात्मानस्त�
 ज्ञान-निर्धूत-कल्मषाः॥5.17॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः।  
@@ -22,7 +22,7 @@ title = "17 तद्बुद्धयस्तदात्मानस्त�
 
 _________________
 ## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.17।।**तद्बुद्धयः** तथाविधात्मदर्शनाध्यवसायाः **तदात्मानः**
@@ -34,7 +34,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
   
@@ -61,7 +61,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 5.17 'Those whose intellects pursue It,' i.e., those who have determined to have the vision of the self in this way; 'those whose minds think about It,' i.e., those whose minds have the self for their aim, those who undergo discipline for It, i.e., those who are devoted to the practices for Its attainment; 'those who hold It as their highest object,' i.e., those who consider It as their highest goal - such persons, having their previous impurities cleansed by the knowledge which is practised in this way, attain the self as taught. 'From that state there is no return' - the state from which there is no return means the state of the self. The meaning is that they attain the self which rests in Its own nature.
@@ -72,7 +72,7 @@ _________________
 
 _________________
 ## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.17।। एतच्च +++(K तच्च)+++ तद्गतबुद्धिमनसा त्यक्तान्यव्यापाराणां घटत
@@ -88,7 +88,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 5.17 Because it is only the inherent nature that exerts thus, therefore
@@ -101,14 +101,14 @@ remain as follows -
 
 _________________
 ## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.17।। अपरोक्षज्ञानाव्यवहितसाधनमाह तद्बुद्धय इति।
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
 ।।5.17।। तद्बुद्धित्वादिकं यद्यपुनरावृत्तिसाधनत्वेनोच्यते
@@ -124,7 +124,7 @@ _________________
 
 _________________
 ## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.17।। तस्मिन् ब्रह्मणि गता बुद्धिः येषां ते **तद्बुद्धयः तदात्मानः**
@@ -140,7 +140,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
 ।।5.17।। जो प्रकाशित हुआ परमज्ञान है उस परमार्थतत्त्वमें जिनकी बुद्धि जा
@@ -156,7 +156,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 5.17 Tat-buddhayah, those who have their intellect absorbed in That,
@@ -180,7 +180,7 @@ destroyed by Knowledge, look upon Reality; That is being stated:
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
 ।।5.17।। विदुषां विविदिषूणां चान्तरङ्गाणि
@@ -206,7 +206,7 @@ destroyed by Knowledge, look upon Reality; That is being stated:
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
 ।।5.17।। ज्ञानेन परमात्मतत्त्वप्रकाशे सति तस्मिञ्ज्ञानप्रकाशिते
@@ -239,7 +239,7 @@ destroyed by Knowledge, look upon Reality; That is being stated:
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
 ।।5.17।।**तद्बुद्धय इति।** यत् परं ब्रह्म प्रशान्तं तत्रैव बुद्धिरस्ति
@@ -254,7 +254,7 @@ destroyed by Knowledge, look upon Reality; That is being stated:
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।5.17।। तत्परमार्थतत्त्वं ज्ञानप्रकाशितं तस्मिन्गता बुद्धिर्येषां ते।
@@ -272,7 +272,7 @@ destroyed by Knowledge, look upon Reality; That is being stated:
 
 _________________
 ## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।5.17।। य एतादृशज्ञानिनस्ते मुक्ता इत्याह तद्बुद्धय इति। तत्प्रसादलब्धेन
@@ -280,7 +280,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
   
@@ -297,7 +297,7 @@ _________________
 
 _________________
 ## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
 ।।5.17।। एवंभूतेश्वरोपासनाफलमाह **तद्बुद्धय इति।** तस्मिन्नेव
@@ -312,7 +312,7 @@ _________________
 
 _________________
 ## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
 
 ।।5.17।। शास्त्रों के गहन अध्ययन के द्वारा साधक अपने व्यक्तित्व के सभी
@@ -344,7 +344,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।5.17।। जिनकी बुद्धि उस (परमात्मा) में स्थित है, जिनका मन तद्रूप हुआ
@@ -354,7 +354,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
 ।।5.17।। जिनकी बुद्धि तदाकार हो रही है, जिनका मन तदाकार हो रहा है, जिनकी
@@ -363,7 +363,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
 
 5.17।।***व्याख्या--***\[परमात्मतत्त्वका अनुभव करनेके लिये दो प्रकारके
@@ -386,7 +386,7 @@ _________________
 
 _________________
 ## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 5.17. Those, who have their intellect and self (mind) gone to This; who have established themselves in This and have This \[alone\] as their supreme goal; and who have washed off their sins by means of \[perfect\]
@@ -394,28 +394,28 @@ knowledge-they reach a state from which there is no more return.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 5.17 Those who have their intellect absorbed in That, whose Self is That, who are steadfast in That, who have That as their supreme Goal-they attain the state of non-returning, their dirt having been removed by Knowledge.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 5.17 Meditating on the Divine, having faith in the Divine, concentrating on the Divine and losing themselves in the Divine, their sins dissolved in wisdom, they go whence there is no return.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 5.17 Those whose intellects pursue It (the self), whose minds think about It, who undergo discipline for It, and who hold It as their highest object, have their impurities cleansed by knowledge and go whence there is no return.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 5.17 Their intellect absorbed in That, their self being That,
@@ -423,7 +423,7 @@ established in That, with That for their supreme goal, they go whence there is n
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 5.17 तद्बुद्धयः intellect absorbed in That; तदात्मानः their self being That; तन्निष्ठाः established in That; तत्परायणाः with That for their supreme goal; गच्छन्ति go; अपुनरावृत्तिम् not again returning;
