@@ -7,3 +7,12 @@
     search: true
     sidebar: home_sidebar
     unicode_script: devanagari
+-
+  scope:
+    pathPrefix: "kAvyam/bhAShAntaram/kn"
+  values:
+    layout: "page"
+    comments: true
+    search: true
+    sidebar: home_sidebar
+    unicode_script: kannada
