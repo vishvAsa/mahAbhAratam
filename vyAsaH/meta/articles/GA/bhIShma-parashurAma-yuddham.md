@@ -2,7 +2,7 @@
 title = "BhIShma parashurAma yuddham"
 +++
 
-Source: GA
+Source: [TW](https://x.com/GhorAngirasa/status/1793858605604888706)
 
 Bhīṣma was literally protected by 8 divine Brāhmaṇas during the battle & they tell him in a dream that night that he is like their own body & they will protect him from Paraśurāma & give him the Prasvapna mantra (which makes the victim sleep).
 
