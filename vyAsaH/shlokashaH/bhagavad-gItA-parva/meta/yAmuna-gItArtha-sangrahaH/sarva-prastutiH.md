@@ -130,14 +130,20 @@ is treated for the attainment of the exact knowledge of Bhagavan, the Supreme Be
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रधान-पुरुष-व्यक्त-  
-सर्वेश्वर-विवेचनम् ।  
+सर्वेश्वर-**विवेचनम्** ।  
 कर्म-धीर् भक्तिर् इत्यादिः  
 पूर्व-शेषो ऽन्तिमोदितः ॥4॥
 </details>
 
 <details><summary>English</summary>
 
-In the last hexad, which subserves the two preceding hexads, is treated, matter (Pradhana) in the primordial condition, matter in its evolved state, the self (Purusa) and Isvara the Ruler of all. Besides, the disciplines relating to work, to knowledge and to devotion are again dealt with by way of supplementing and completing what has been taught earlier.
+In the last hexad,  
+which subserves the two preceding hexads, is treated, matter (Pradhana) in the primordial condition,  
+matter in its evolved state,  
+the self (Purusa)  
+and Isvara the Ruler of all. 
+
+Besides, the disciplines relating to work, to knowledge and to devotion are again dealt with by way of supplementing and completing what has been taught earlier.
 </details>
 
 <details><summary>वेङ्कटनाथार्यः</summary>
@@ -639,10 +645,10 @@ in the Sastra-s as threefold in terms of 'Aum','Tat', 'Sat'.
 ### २२ १८
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ईश्वरे कर्तृता-बुद्धिः,  
+ईश्वरे **कर्तृता-बुद्धिः**,  
 सत्त्वोपादेयता, ऽन्तिमे ।  
 स्व-कर्म-परिणामश् च  
-शास्त्र-सारार्थ उच्यते ॥22॥
+शास्त्र-सारार्थ **उच्यते** ॥22॥
 </details>
 
 <details><summary>English</summary>
@@ -657,7 +663,7 @@ duties and Bhakti Yoga which forms the essence of the Gita Sastra.
 तद् एतत्-पूर्वाध्याय-संगति-प्रदर्शन-पूर्वकं व्याचष्टे -  
 
 > अतीतेनाध्याय-द्वयेन  
-+अभ्युदय-निश्-श्रेयस-साधन-भूतं वैदिकम् एव यज्ञ-तपोदानादिकं कर्म; नान्यत्,  
++अभ्युदय-निश्-श्रेयस--साधन-भूतं वैदिकम् एव यज्ञ-तपो-दानादिकं कर्म; नान्यत्,  
 वैदिकस्य कर्मणः सामान्य-लक्षणं प्रणवान्वयः ।  
 तत्र मोक्षाभ्युदय-साधनयोर् भेदस्  
 "तत्-सच्"-छब्द-निर्देश्यत्वेन;  
@@ -670,7 +676,7 @@ duties and Bhakti Yoga which forms the essence of the Gita Sastra.
 स्ववर्णोचितानां कर्मणां परम-पुरुषाराधन-भूतानां परम-पुरुष-प्राप्ति-निर्वर्तन-प्रकारः,  
 कृत्स्नस्य च गीताशास्त्रस्य सारार्थो भक्ति-योग इत्य् एते प्रतिपाद्यन्ते, 
 
-इति । अत्र त्याग-संन्यास-शब्दावेकार्थाव् इति  
+इति । अत्र त्याग-संन्यास-शब्दाव् एकार्थाव् इति  
 भगवद्-उक्तेनोत्तरेण ख्यापितं भाष्ये ।  
 सर्वेश्वरे कर्तृत्वानुसन्धानं च  
 'दैवं चैवात्र पञ्चमम्' इत्यत्रैव दर्शितम् ।  
