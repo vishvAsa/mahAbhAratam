@@ -187,7 +187,7 @@ the form of performance of the duty of a Ksatriya, do not get combined
 with Knowledge for the sake of achieving the human goal (Liberation),
 similar is the case with the man of Knowledge because of the absence of
 hankering for results and agentship. Indeed, a man who has realized the
-Truth does not thingk 'I am doing (this)' nor does he hanker after its
+Truth does not think 'I am doing (this)' nor does he hanker after its
 result. Again, as for instance, person hankering after such desirable
 things as heaven etc. may light up a fire for performing such rites as
 Agnihotra etc. which are the mans to attain desirable things; \[The Ast.
