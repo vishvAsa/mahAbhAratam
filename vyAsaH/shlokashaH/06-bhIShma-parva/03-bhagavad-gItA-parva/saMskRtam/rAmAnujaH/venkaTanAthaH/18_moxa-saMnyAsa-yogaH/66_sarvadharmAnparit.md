@@ -493,4 +493,5 @@ _अर्थ-सिद्ध एव त्यागो_+++(5)+++
 अनियत-धर्म-परित्यागो ऽत्र विवक्षित  
 इति नारायणार्य-व्याख्यायाम् अपि नानुष्ठान-विरोधः।  
 
-+++("अपि चात्रादितः प्रभृति सम्मृशामः" इत्याद्य् अन्यत्र रक्षितम्। )+++
+
+<div class="js_include" url="/mahAbhAratam/vyAsaH/shlokashaH/bhagavad-gItA-parva/meta/venkaTanAtha-sammarshaH" newLevelForH1="5" includeTitle="false"> </div>
