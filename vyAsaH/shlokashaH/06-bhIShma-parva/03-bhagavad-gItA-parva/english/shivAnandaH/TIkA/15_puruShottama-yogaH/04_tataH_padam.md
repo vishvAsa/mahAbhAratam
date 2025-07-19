@@ -1,0 +1,7 @@
++++
+title = "04 ततः पदम्"
+
++++
+15.4 ततः then; पदम् goal; तत् That; परिमार्गितव्यम् should be sought for; यस्मिन् whither; गताः gone; न not; निवर्तन्ति return; भूयः again;
+तम् that; एव even; च and; आद्यम् primeval; पुरुषम् Purusha; प्रपद्ये I seek refuge; यतः whence; प्रवृत्तिः activity or energy; प्रसृता streamed forth; पुराणी ancient.Commentary That which fills the whole world with the form of ExistenceKnowledgeBliss is Purusha. Or; that which sleeps in this Puri (city) of the body is the Purusha.Singleminded devotion which consists of ceaselessly thinking of or meditating on the Supreme Being is the sure means of attaining Selfrealisation. Taking sole refuge in the Primeval Purusha is the means to know or realise that supreme goal goind whither the wise do not return again to this world of death.The aspirant should know the abode of Vishnu. He should struggle hard to reach it. He should seek it by taking refuge in the Primeval Purusha. If he reaches this immortal abode of Vishnu or the imperishable Brahmic seat of ineffable splendour and glory he will never return to this mortal world.The Primeval Purusha or the pure; Supreme Being Who is ExistenceKnowledgeBliss Absolute is the goal or the supreme abode or the abode of Vishnu. Just as illusory objects like elephants; horses; etc.;
+come forth through the jugglery of the magician; so also this ancient energy or the original divine power or emanation of this tree or illusory Samsara has streamed forth from that Primeval Purusha.What sort of persons reach that goal eternal Listen.
