@@ -1,5 +1,5 @@
 +++
-title = "39 श्रद्धावाँल्लभते ज्ञानम्"
+title = "39 श्रद्धावाल्ँलभते ज्ञानम्"
 
 +++
 <div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
