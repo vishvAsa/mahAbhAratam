@@ -1314,7 +1314,8 @@ We don't know if Satyaki or Arjuna faced more but Sanjaya did not detail it.
 
 This pie is dedicated to @NileshOak ji :D Victory pie of Pandavas.
 
-{{< figure src="../../../images/pANDava-victory-pie.png" title="" class="thumbnail">}}
+![](../../../images/pANDava-victory-pie.png)
+{caption="" class="thumbnail"}
 
 Upon popular demand, pasting popular warrior performances from both sides
 
