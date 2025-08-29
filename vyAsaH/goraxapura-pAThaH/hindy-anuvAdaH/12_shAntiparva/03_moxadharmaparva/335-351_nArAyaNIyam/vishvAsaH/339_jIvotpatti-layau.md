@@ -142,6 +142,7 @@ Some have adjusted for it in [various ways](/AgamaH_brAhmaH/shAnkara-darshanam/t
 > मूढानां ज्येष्ठ-मल्लास्  
 ते येषां स्वात्मा विनश्यति ।  
 
+No rule that mano-buddhy-ahankAra combo should be accidental. Likely to be karma-bound. Moreover likely eternal (as evolutes of eternal prakRti).
 
 ## प्रत्याख्यानम्
 अत्र मुख्यपक्षस् तु नारायणीयस्य समीचीनावगत्यैव प्रत्याख्यातः।  
