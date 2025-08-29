@@ -152,7 +152,7 @@ By contrast this is ridiculous -
 despite predecessor YV and successor traditions having it -  
 because some shaivas don't mention it.
 
-[Leach](/AgamaH_vaiShNavaH/meta/articles/leach_pAncharAtra_2013/3_THE_THREE_JEWELS_AND_THE_FORMATION_OF/3_Divisions_within_the_pAncharAtra/2_ii_Distinct_pAncharAtrika_identities_i) too notes the oddity of these claims- 
+[Leach](/AgamaH_vaiShNavaH/pAncharAtrAgamaH/meta/articles/leach_pAncharAtra_2013/3_THE_THREE_JEWELS_AND_THE_FORMATION_OF/3_Divisions_within_the_pAncharAtra/2_ii_Distinct_pAncharAtrika_identities_i) too notes the oddity of these claims- 
 
 > That distinct groups within the Pāñcarātra should have held opposing views (as per rAmakaNTha) on the ontology of individual selves seems somewhat surprising given that in the Pāñcarātra literature that is currently available, such concerns do not figure prominently. 
 
