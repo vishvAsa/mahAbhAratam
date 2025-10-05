@@ -51,6 +51,14 @@ Simple read -"in the state of union"
 ## Meta-Boons
 3. If you read the broader MBH as well as Harivamśa, you will find a passage stating that Śrīkaņțharudra gave a set of exceedingly powerful boons to Vișņu, which effectively allows Vișņu to appear glorious and superior vis-a-vis Śrīkaņțharudra (not yet higher Rudras or Paramaśiva, whom the boons do not bind). So, even Vișņu’s granting boons can easily be swallowed up by the meta-boons granted by Rudra in the Mahābhārata itself. 
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> meta-boons granted by Rudra
+
+There's the meta-boon in nArAyaNIya with viShNu granting rudra boon-granting power + explains R's boon-granting to him as an [act](/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/347_hayashira-upAkhyAnam_abhinava-ranganAtha-TIkA/01_bhUShaNam/02_upodghAtaH/08_nArAyaNAkhyAnam/09_paratvoktiH) he directs. Is there a meta-meta-boon you're referring to? Can you quote?
+</details>
+
+
 ## hariharAbheda ok
 > so, from shaiva perspective, at best the 3rd person reference implies hari-harAbheda-vAda, which is apasiddhAnta for you (+ unnatural to the broader MBh describing one granting boon to another and such).
 
