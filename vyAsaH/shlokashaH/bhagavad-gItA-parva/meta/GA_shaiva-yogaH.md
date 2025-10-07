@@ -14,7 +14,26 @@ Two most intriguing श्लोक-s, where कृष्ण refers to ईश्
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-straight reading from BG is that Ishvara is vAsudeva = kRShNa (eg. गीता 15।15).
+Natural explanation for the use of the term "Ishvara" is simple, looking at the previous words -  
+
+> करिष्यस्य् अवशोऽपि तत्  
+> +++(यतः)+++ **ईश्वरः** सर्व-भूतानां  
+हृद्-देशेऽर्जुन **तिष्ठति**।  
+**भ्रामयन्** सर्वभूतानि  
+यन्त्रारूढानि मायया॥
+
+Meaning - you'll do it because the lord controller (literal meaning of Ishvara), who is your heart, controls you.
+
+One doesn't need to move beyond this simple literal meaning to understand the usage of the term Ishvara.  
+
+Usage of 3rd person in such a context does not necessarily imply that the speaker is not that third person. Just because one says "soul controls the body", one isn't saying "I'm not soul". Or "it's the commander's job to direct his soldiers" doesn't mean one's not the commander.
+
+Now, just from this, Ishvara can be a qualifier of "वासुदेव",  
+or more bizarrely "श्रीकण्ठरुद्र" or some such _separate_ entity. The natural thing would be to decide from other statements in the same chapter/ portion (prakaraNa), rather than jumping to upamanyUpAkhyAna or some anugIta retort.
+
+Now who is this Ishvara?  
+Straight reading from BG context is that  
+Ishvara is vAsudeva = "I, kRShNa" (eg. गीता 15।15).
 </details>
 
 
