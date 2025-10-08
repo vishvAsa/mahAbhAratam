@@ -74,7 +74,43 @@ Simple read -"in the state of union"
 
 > meta-boons granted by Rudra
 
-There's the meta-boon in nArAyaNIya with viShNu granting rudra boon-granting power + explains R's boon-granting to him as an [act](/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/347_hayashira-upAkhyAnam_abhinava-ranganAtha-TIkA/01_bhUShaNam/02_upodghAtaH/08_nArAyaNAkhyAnam/09_paratvoktiH) he directs. Is there a meta-meta-boon you're referring to? Can you quote?
+There's the meta-boon in nArAyaNIya with viShNu granting rudra boon-granting power + explains shiva's boon-granting to him as an [act](/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/347_hayashira-upAkhyAnam_abhinava-ranganAtha-TIkA/01_bhUShaNam/02_upodghAtaH/08_nArAyaNAkhyAnam/09_paratvoktiH) he directs. 
+
+So, SV view - viShNu generated shiva; and authorized him to grant boons per nArAyaNIya (and even to direct mumuxu-s towards viShNu - vide rAma-tAraka). To ensure that shiva is venerated by appropriate adhikAris, he set an example by propitiating Shiva himself.
+
+After brahma and rudra did tapas in xIra-sAgara, vAsudeva grants -
+
+> यूयं लोकान् भावयध्वं  
+यज्ञभागफलोचिताः ॥ …  
+अस्य चैवानुजो रुद्रः  
+ललाटाद्यस् समुत्थितः ।  
+**ब्रह्मानुशिष्टो भविता  
+सर्वभूत-वर-प्रदः** ॥
+
+Later still, clarifies - 
+
+> अहम् आत्मा हि लोकानां  
+विश्वेषां पाण्डु-नन्दन ॥ २३ ॥  
+तस्माद् आत्मानम् एवाग्रे  
+रुद्रं सम्पूजयाम्य् अहम् ।  
+> 3 यद्य् अहं नार्चयेयं वै  
+ईशानं वरदं शिवम् ॥ २४ ॥  
+> आत्मानं+++(=शरीरं)+++ नार्चयेत् कश्चिद्  
+इति मे भावितात्मनः ।  
+मया प्रमाणं हि कृतं  
+लोकः समनुवर्तते ॥ २५ ॥ …  
+> **न** हि मे केनचिद् **देयो**  
+वरः पाण्डव-नन्दन ।  
+इति **सञ्चिन्त्य** मनसा  
+पुराणं रुद्रम् ईश्वरम् ॥ २८ ॥  
+पुत्रार्थम् **आराधितवान्**  
+अहम् आत्मानम् आत्मना+++(=शरीरेण)+++ ।+++(5)+++  
+**न** हि विष्णुः **प्रणमति**  
+कस्मैचिद् विबुधाय च ॥ २९ ॥  
+ऋते आत्मानम् एवेति  
+ततो रुद्रं भजाम्यहम्।
+
+Is there a meta-meta-boon you're referring to? Can you quote?
 </details>
 
 
