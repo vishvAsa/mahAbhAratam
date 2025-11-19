@@ -20,8 +20,10 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 
 <details><summary>मूलम्</summary>
 
-वन्दे गोविन्दतातौ मुनिमथ मनवै लक्ष्मणार्यं महान्तं ध्यायेयं यामुनार्यं मम हृदि तनवै राममेवाभियायाम् ।  
-पद्माक्षं प्रेक्षिषीय प्रथममपि मुनिं नाथमीडे शठारिं स्तौमि प्रेक्षेय लक्ष्मीं शरणमशरणः श्रीधरं संश्रयेयम् ॥ 1 ॥ 
+वन्दे गोविन्द-तातौ मुनिम् अथ मनवै लक्ष्मणार्यं महान्तं
+ध्यायेयं यामुनार्यं मम हृदि तनवै रामम् एवाभियायाम् ।
+पद्माक्षं प्रेक्षिषीय प्रथमम् अपि मुनिं नाथम् ईडे शठारिं
+स्तौमि प्रेक्षेय लक्ष्मीं शरणम् अशरणः श्रीधरं संश्रयेयम् ॥ 1 ॥
 </details>
 
 
@@ -29,7 +31,9 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 
 (1) My salutation to Govinda (Embar) and my father (Srivatsanka). I contemplate on Lakshmanarya (Sri Ramanuja) and meditate on Mahan (Peria Nambi). My mind be full of Yamunarya (Alavandar). I approach respectfully Ramamisra. May I see face to face Pundari- kaksha Acharya. I adore Natha-muni, the first of our Acharyas. My adorations and praises go to Satari (i.e., Nammazhvar). May I have a vision of Lakshmi. Helpless as I am I surrender myself unto Sridhara (i.e., the Lord of Lakshmi). 
 
-(Thus, the Guru-parampara, the line of spiritual precepters, is extolled.)(Embar and Kurattazhvan are referred to by the dual, Govinda-Tatau, because both are the direct preceptors of Sri Parasara Bhatta and the disciples of Sri Ramanuja) 
+(Thus, the Guru-parampara, the line of spiritual precepters, is extolled.)
+
+(Embar and Kurattazhvan are referred to by the dual, Govinda-Tatau, because both are the direct preceptors of Sri Parasara Bhatta and the disciples of Sri Ramanuja) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -42,8 +46,8 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 
 <details><summary>मूलम्</summary>
 
-ओं नमो गजवक्त्राद्यैः पारिषद्यैः प्रशासते ।  
-श्रीरङ्गराजसेनान्ये सूत्रवत्या समेयुषे ॥ 2 ॥ 
+ओं नमो गज-वक्त्राद्यैः पारिषद्यैः प्रशासते ।
+श्रीरङ्गराज-सेनान्ये सूत्रवत्या समेयुषे ॥ 2 ॥
 </details>
 
 
@@ -66,8 +70,8 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 
 <details><summary>मूलम्</summary>
 
-नमो नारायणायेदं कृष्णद्वैपायनात्मने ।  
-यदामुष्यायणा वेदाः महाभारतपञ्चमाः ॥ 3 ॥ 
+नमो नारायणायेदं कृष्णद्वैपायनात्मने ।
+यदामुष्यायणा वेदा महाभारत-पञ्चमाः ॥ 3 ॥ 
 </details>
 
 
@@ -86,8 +90,10 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 
 <details><summary>मूलम्</summary>
 
-जातो लक्ष्मणमिश्रसंश्रयधनात् श्रीवत्सचिह्नात् ऋषेः भूयो भट्टपराशरेति फणितः श्रीरङ्गभर्त्रा स्वयम् ।  
-श्रीश्रीरङ्गपतिप्रसादतृषया श्रीरङ्गनाथाह्वयः श्रीरङ्गेश्वरकारितो विवृणुते नाम्नां सहस्रं हरेः ॥ 4 ॥ 
+जातो लक्ष्मणमिश्र-संश्रय-धनात् श्रीवत्स-चिह्नाद् ऋषेर्
+भूयो भट्टपराशरेति फणितः श्रीरङ्ग-भर्त्रा स्वयम् ।
+श्री-श्रीरङ्गपति-प्रसाद-तृषया श्रीरङ्गनाथाव्हयः
+श्री-रङ्गेश्वर-कारितो विवृणुते नाम्नां सहस्रं हरेः ॥ 4 ॥ 
 </details>
 
 
@@ -106,8 +112,10 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 
 <details><summary>मूलम्</summary>
 
-संसारोऽयमपण्डितो भगवति प्रागेव भूयः कलौ पूर्णंमन्यतमे जने श्रुतिशिरोगुह्यं ब्रुवे साहसात् ।  
-तत्र स्तोत्रमिदं प्रकाशयति यः स्तुत्यश्च यस्तावुभौ व्यासः कारुणिको हरिश्च तदिदं मौर्ख्यं सहेतां मम ॥ 5 ॥
+संसारो ऽयम् अपण्डितो भगवति प्राग् एव भूयः कलौ
+पूर्णंमन्यतमे जने श्रुति-शिरो-गुह्यं ब्रुवे साहसात् ।
+तत्र स्तोत्रम् इदं प्रकाशयति यः स्तुत्यश् च यस् ताव् उभौ
+व्यासः कारुणिको हरिश् च तद् इदं मौर्ख्यं सहेतां मम ॥ 5 ॥
 </details>
 
 
@@ -126,8 +134,10 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 
 <details><summary>मूलम्</summary>
 
-अर्थे हरौ तदभिधायिनि नामवर्गे तद्व्यञ्जके मयि च बन्धविशेषमेत्य ।  
-सेवध्वम् एतदमृतं प्रणिपत्य याचे मध्यस्थमत्सरिजना इह मा च भूवन् ॥ 6 ॥
+अर्थे हरौ तदभिधायिनि नाम-वर्गे 
+तद्-व्यञ्जके मयि च बन्ध-विशेषम् एत्य ।
+सेवध्वम् एतद् अमृतं प्रणिपत्य याचे 
+मध्यस्थ-मत्सरि-जना इह मा च भूवन् ॥ 6 ॥
 </details>
 
 
