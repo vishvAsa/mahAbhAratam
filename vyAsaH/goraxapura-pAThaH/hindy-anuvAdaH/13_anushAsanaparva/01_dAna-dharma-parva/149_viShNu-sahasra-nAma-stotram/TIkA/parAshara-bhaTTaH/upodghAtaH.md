@@ -727,11 +727,10 @@ THE SUPREME OBJECT OF WORSHIP
 Thus has been described the object of japa, recitative praise. The fifth stranza furnishes the answer to the question as who is to be praised or worshipped. It will be noticed that the inverse sequence (the fifth query) the subject of dharma has to be treated here. But it is not so; the subject treated is about the person to be praised and the mode of worship (contained in the third and fourth questions). This is because the subject of worship and praise forms part of the supreme dharma and has to be expounded. (5) And (engaged) in worshipping always with bhakti the said Person, the Eternal, meditating upon Him, glorifying Him, saluting Him by prostrating before Him and adoring Him - Him only - The fifth stanza conveys the idea that the person who is the subject of japa is also the subject of worship. In the Mahabharata (Sabha Parvan) it is said at the time of according first honours to Sri Krishna : "We desire to offer our worship to Him who is full (of perfections) the great teacher, the first guru, eminently fit to be worshipped. Be pleased to agree, all of you here". "There is no person other than He fit to be worshipped". "Wise man do not offer worship to Brahma (the four faced Creator), Rudra and others mentioned as deities in the Smriti because the benefit derived from worshipping them is limited'. (Bharata-XII, 342.6); "The benefits derived from them are limited" (Gita, VII.23). Person (Purusha) :- the lotus-eyed (Narayana). Eternal ( Avyaya) denotes that, however much His qualities are enjoyed, more and more new qualities appropriate to Him spring up without end. Worshipping (Archayan) : performing bhakti yoga which is of the form of service to Him, Always (Nityam) denotes a person who cannot exist even for a moment without thoughts of Him like the devotees described in the Gita (X. 9) "whose minds are concentrated on Me and whose lives are dependent on Me". How to worship ? with bhakti, i.e., with the affectionate consciousness that "He is my Master and I am His servant." Again how? By meditating (dhyayan) : i.e., contemplating always on the virtuous quality of the Lord with a full mind so as to have a stream of thought like an unbroken stream of nectar and to put an end to the three fold suffering of samsara (pertaining to the Atma, pertaining to the gods and pertaining to the elements). How else again - Praising (Stuvan) : striving to recite by word of mouth the various qualities of the Lord, the body being thrilled with the bliss of enjoyments, the eyes streaming with tears of joy and the voice choked 'on account of such tears'. How again? Prostrating (Namasyan) :- Bowing low, i.e., offering at the lotus feet of the Lord, himself, who is impure because of egotism, and with his body and organs and senses, inner and outer, bent low on account of bhakti and the feeling of "Not mine", and uttering at the same time the prayer "All that is mine is Thine, Please take them." How else again ? Sacrificing (Yajamana) :- One who does worship to God, i.e., one who performs with sincere devotion an incomparable, pure and pleasing worship by offering (Him) a series of objects of enjoyment of various kinds suitable to His enjoyment, such as arghya (a respectful oblation of water) flowers, madhuparka etc. (a mixture of milk, honey, sugar, curds and ghee) respectively called aupacharika (ceremonial), samsparsika (tactile) and abhyavaharika (edible) all gathered with pure bhakti, and enthusism and a feeling of restlessness that he (the devotee) is unable to show full gratitude for the great act of grace shown by the Lord by making the devotee His own. 
 </details>
 
-pdf116
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अयमेव भक्तियोगः मुक्तिमहापथः त्रय्यन्तेषु चिन्त्यमानः प्रत्यभिज्ञायते । तथा हि - वर्णाश्रमधर्मैः आरादुपकारकैः शमदमादिभिः आत्मगुणैः सन्निपत्योपकारकैश्च अङ्गजातैः अभिनिष्पाद्यं वेदन-ध्यान-ध्रुवानुस्मृति-विवेकजादिपद-पर्याय- गोचर- आन्तरप्रतीतिसन्ततिभिः चित्तवृत्तिभिः अव्यवहित-अनवरतप्रवाह-असकृदावृत्त-सादर- प्रत्यय-संस्कार-प्रचय-घटित- पटुतर-प्रत्यक्षशिरस्कं तत्तत्सदानन्द-पुरुष- उपकोसलादिसंज्ञक-परविद्या-व्यवस्थितगुणोपसंहारमर्यादं ब्रह्मोपासनं भगवान् बादरायणः "तमेवं विद्वान्" (पुरुषसूक्त), ब्रह्मविदाप्नोति परम् (तै.आन.1) "यज्ञेन दानेन तपसाऽनाशकेन" (बृ.4.4.22), "शान्तो दान्तः" (बृ.4.4.23) इत्यादित्रय्यन्त-वचनानि "सर्वापेक्षा च यज्ञादिश्रुतेः अश्ववत्" (ब्र.सू.3.4.26) "शमदमाद्युपेतः स्यात्", (ब्र.सू.3.4.27) "आवृत्तिः असकृदुपदेशात्" (ब्र.सू.4.1.1) इति एवंप्रकार-ब्रह्मसूत्रन्यायैः मथित्वा मोक्ष-साधनं निरणैषीत् । वाक्यकारश्च "वेदनमुपासनं स्यात् तद्विषये श्रवणात्" (वाक्यकार) इति ॥ इदमेव उपासनं विपक्त्रिमं भक्तिः इत्युच्यते, नान्यत् । कुतः ? संयोग-रूप-चोदनाख्या-विशेषात् ॥
+अयम् एव भक्तियोगो मुक्ति-महापथस् त्रय्यन्तेषु चिन्त्यमानः प्रत्य् अभिज्ञायते । तथा हि — वर्णाश्रमधर्मैर् आराद् उपकारकैः शम-दमादिभिर् आत्मगुणैस् सन्निपत्योपकारकैश् च अङ्गजातैर् अभिनिष्पाद्यं वेदन-ध्यान-ध्रुवानुस्मृति-विवेकजादिपद-पर्यायगोचरान्तरप्रतीति-सन्ततिभिश् चित्तवृत्तिभिर् अव्यवहितानवरतप्रवाहासकृदावृत्त-सादर-प्रत्यय-संस्कार-प्रचय-घटित-पटुतर-प्रत्यक्ष-शिरस्कं तत्तत्सदानन्द-पुरुषोपकोसलादिसंज्ञक-परविद्या-व्यवस्थित-गुणोपसंहार-मर्यादं ब्रह्मोपासनं भगवान् बादरायणस् "तम् एवम् विद्वान्" (पुरुषसूक्त), "ब्रह्मविद् आप्नोति परम्" (तै.आन.1) "यज्ञेन दानेन तपसा ऽनाशकेन" (बृ.4.4.22), "शान्तो दान्तः" (बृ.4.4.23) इत्यादि त्रय्यन्तवचनानि "सर्वापेक्षा च यज्ञादिश्रुतेर् अश्ववत्" (ब्र.सू.3.4.26) "शम-दमाद्युपेतः स्यात्", (ब्र.सू.3.4.27) "आवृत्तिर् असकृद् उपदेशात्" (ब्र.सू.4.1.1) इति एवम्प्रकारब्रह्मसूत्रन्यायैर् मथित्वा मोक्ष-साधनं निरणैषीत् । वाक्यकारश् च "वेदनम् उपासनं स्यात् तद्विषये श्रवणात्" (वाक्यकार) इति ॥ इदम् एव उपासनं विपक्त्रिमं भक्तिर् इत्य् उच्यते, नान्यत् । कुतः ? संयोग-रूप-चोदनाख्या-विशेषात् ॥
 </details>
 
 
@@ -742,7 +741,27 @@ It is this bhakti yoga which is thought of in the Vedas and which is said to be 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ञाप्यते हि उपासनस्येव भक्तेरपि मोक्षलक्षणेन फलेन संयोगः । यथा - "न सन्दृशे तिष्ठति रूपमस्य न चक्षुषा पश्यति कश्चनैनम् । हृदा मनीषा मनसाऽभिकॢप्तो य एनं विदुः अमृतास्ते भवन्ति ॥" (तै.ना. 3) इति । हृत् इति भक्तिः । श्रुत्यन्तरेण स्मृतिभिश्च "न सन्दृशे तिष्ठति" (भारत. मो.) इति उपक्रम्य, भक्त्या च धृत्या च समाहितात्मा (गीता 8.22) ज्ञान-स्वरूपं परिपश्यतीह इति 'हृत्' शब्दस्थाने 'भक्ति' - पदप्रयोगात् । यथा च -- "पुरुषः स परः पार्थ ! भक्त्या लभ्यस्त्वनन्यया", (गीता 11.54), "भक्त्या त्वनन्यया शक्त्यः" (गीता. 18.55), "भक्त्या मामभिजानाति" (आंगिरसस्मृति), "भक्त्या अविच्छिन्नया मुक्तिः" इति आंगिरसस्मृतौ । वैष्णवे धर्मे -- "परमात्मनि गोविन्दे भक्तिः अव्यभिचारिणी । प्रयच्छति नृणां मुक्तिं मा तेऽभूदत्र संशयः ॥" (रा.यु.120.30) "ये त्वां देवं ध्रुवं भक्ताः पुराणं पुरुषोत्तमम् । प्राप्नुवन्ति सदा कामान् इह लोके परत्र च ॥ अमोघास्ते भविष्यन्ति भक्तिमन्तश्च ये नराः ॥" इति श्रीमति रामायणे । श्रीवामने च -- "येषां विष्णुः प्रियो नित्यं ये विष्णोः सततं प्रियाः । न ते पुनः संभवन्ति तद्भक्ताः तत्परायणाः ॥" इति । रूपं च उभयत्र पुण्डरीकाक्षं ब्रह्मैव । चोदना च "उपास्स्व भजस्व" इति । उपास्तिभजती हि सेवाविशेषविषयौ । अत एव नैघण्टुकाः सेवा भक्तिः उपास्तिः इति ॥ 
+ज्ञाप्यते हि उपासनस्येव भक्तेर् अपि मोक्ष-लक्षणेन फलेन संयोगः । यथा — "न सन्दृशे तिष्ठति रूपम् अस्य न चक्षुषा पश्यति कश्चनैनम् । हृदा मनीषा मनसाभिक्लृप्तो य एनं विदुः अमृतास् ते भवन्ति ॥" (तै.ना. 3) इति । हृद् इति भक्तिः । श्रुत्य् अन्तरेण स्मृतिभिश् च "न सन्दृशे तिष्ठति" (भारत. मो.) इत्य् उपक्रम्य, भक्त्या च धृत्या च समाहितात्मा (गीता 8.22) 
+
+ज्ञान-स्वरूपं परिपश्यतीह इति 'हृत्'शब्दस्थाने 'भक्ति'पद-प्रयोगात् । यथा च — "पुरुषस् स परः पार्थ ! भक्त्या लभ्यस् त्व् अनन्यया", (गीता 11.54), "भक्त्या त्व् अनन्यया शक्यः" (गीता. 18.55), "भक्त्या माम् अभिजानाति" (आङ्गिरस-स्मृति), "भक्त्याविच्छिन्नया मुक्तिः" इत्य् आङ्गिरसस्मृतौ ।
+
+वैष्णवे धर्मे — 
+
+> परमात्मनि गोविन्दे भक्तिर् अव्यभिचारिणी । 
+> प्रयच्छति नृणां मुक्तिं मा ते ऽभूद् अत्र संशयः ॥" (रा.यु.120.30) 
+
+> ये त्वां देवं ध्रुवं भक्ताः पुराणं पुरुषोत्तमम् । 
+> प्राप्नुवन्ति सदा कामान् इह लोके परत्र च ॥ 
+> अमोघास् ते भविष्यन्ति भक्तिमन्तश् च ये नराः ॥ 
+
+इति श्रीमति रामायणे । श्री-वामने च — 
+
+> येषां विष्णुः प्रियो नित्यं ये विष्णोस् सततं प्रियाः । 
+> न ते पुनः सम्भवन्ति तद्भक्तास् तत्परायणाः ॥" (वामन)
+
+इति । 
+
+रूपं चोभयत्र पुण्डरीकाक्षं ब्रह्मैव । चोदना च "उपास्स्व भजस्व" इति । उपास्तिभजती हि सेवाविशेषविषयौ । अत एव नैघण्टुकाः "सेवा भक्तिर् उपास्तिर्" इति ॥ (नैघण्टुकाः)
 </details>
 
 
@@ -753,9 +772,48 @@ It is this bhakti yoga which is thought of in the Vedas and which is said to be 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लैङ्ग मार्कण्डयोः-- "भज इत्येष धातुर्वै सेवायां परिकीर्तितः । तस्मात् सेवा बुधैः प्रोक्ता भक्तिशब्देन भूयसी ॥" इति । (लैङ्ग 2-9-19) उपास्यस्य भगवतो निरवद्य-महागुणत्वात् निस्सीम-प्रीतिरूपं, निर्व्याज- स्वाम्यात् दास्यैकरुचिगर्भं च इदमेव उपासनं विविच्यत इति भक्तित्व-व्यपदेशः । एवंविधं प्रियत्वमाश्रित्य हि -- प्रियो हि ज्ञानिनोऽत्यर्थम्", (गीता 7-17) "भजतां प्रीतिपूर्वकम्" (गीता 10-10), "तुष्यन्ति च रमन्ति च", (गीता 10-9), "नाथ! योनिसहस्रेषु" (वि.पु.1-20-18), "या प्रीतिरविवेकानाम्" (वि.पु.1-20-19) इति श्लोकद्वयम्, "तत्स्मृत्याह्लादसंस्थितः", (वि.पु.1-17-30), "तन्नामस्मरणोद्भूतपुलको दितिपुङ्गवः" इति । श्रीविष्णुतत्वे -- "सेवा भक्तिः समाख्याता ज्ञानवासनया कृता । उत्पन्नायां ततस्तस्यां स्नेहभावः स्वयं भवेत् ॥" इति । (विष्णुतत्त्वं) "परमात्मनि यो रक्तो विरक्तोऽपरमात्मनि । सर्वेषणा-विनिर्मुक्तः स भैक्षं भोक्तुमर्हति ॥" (बार्ह.स्मृ) इति । "स नो देवः शुभया स्मृत्या संयुनक्तु" इत्याद्युपासन-विधिषु वचनानि प्रवृत्तानि ॥ दास्यैकरुचि-गर्भज्ञापकानि च "माम् अमुस्मरन्", (गीता 8.13) "पार्थ अनुचिन्तयन्", (गीता 8.8) "कृष्णानुस्मरणं परम्" इत्यादीनि । (वि.पु.2.6.39) 'अनुः' इत्ययं निहीनार्थो हि ज्ञाप्यते तज्ज्ञैः । निहीनत्वं चास्य स्वाभाविकं दास्यम्, तदनुसन्धानगर्भम् उपासनम् अनुस्मरणम् । भक्तेश्च कीर्तनादि-शरीरत्वं "सततं कीर्तयन्तः" (गीता 9.14), "मन्मना भव"(गीता 9.34) इत्यादौ व्यक्तम् । अस्या एव सकल-शास्त्रार्थ-सारत्वेन परमगुह्यतमत्वं च । "इदं तु ते गुह्यतमम्" (गीता 9.1), "यत् ज्ञात्वा नेह भूयोऽन्यत् "(गीता 7.2) "सर्वगुह्यतमं भूयः" (गीता 18.64), इत्यादौ दर्शितम् । अलं प्रसज्य ॥ (5) Both in the Linga and Markandeya Puranas it is said : "The root bhaj is explained in the sense of seva (service). Hence, the wise use the word bhakti to mean great service:'Therefore, the idea underlying the use of the word upasana to mean bhakti is analysed thus :- It is of the form of limitless and devotion towards the worshipped God on account of His faultless qualities. And it contains in itself the sense of belonging to Him. It is this intense devotion that is referred to by the Lord in the Gita: : "I am the closest and most beloved to thejnanin". (VII 17) ; With love towards those who are devoted (to Me) .(X, I) ; and "'They feel glad when they talk about Me and feel happy when they hear about Me" (X. 9). In the Vishnu Purana, again, occur the two passages : "However many thousands my births be may I be devoted to Thee" (1-20-18) ; and also 'My love to Thee is as great as the love for earthly enjoyment is to fools" (1-20-1 ). It is also said: ..Being Immersed in the bliss of remembering Him". There is the further passage: " Thrilled by the remembrance of His Name was the Daitya Chief (Prahlada). In the Vishnu Tattva, it is said: Service done with true knowledge (that Bhagavan is the Master, and the Atma is His servant) is bhakti. When such service is being performed, love and affection do naturaily spring up," Says the Barhaspatya Smriti: "Whosoever is devoted to God and turns away from attachment to other things and has also renounced all desire (such as love of children, wealth and the world), he is fit to eat by begging (i.e. fit to become a sannyasin)". The Taittitiya sruti contains the invocation.: Let this God make us united with auspicious meditation'. Thus are all the sayings about the injunction to do upasana. (4) The word Anusmarana (repeated recollection) used in several places denotes that thought becoms bhakti, The prefix anu shows not merely continuity, but also humility, that is, the knowledge that the devotee is the servant of the Lord. Hence, thought along with the consciousness of this relationship is bhakti. In the Gita occur the words: Remembering (anusmarana) Me continuously" (VII 13) and .'Thinking of (anuchintayan)" (VIII.8). Elsewhere it is stated: .'Repeated recollection of Krishna (anusmaranam) is supreme", Recita- tion of His Holy Names (Kirtana) and prostration are included in bhakti. For example, the Gita says: "The devotees perform worship by recitation and prostration" (IX. 14) : as also "Keep Me in your mind (While doing all actions)" (IX, 34). This bhakti is called the Great Secret because it constitutes the essence of the purport of all the sastras, The Gita refers to it thus: "To you, this most hidden secret, I am going to reveal", (IX, I); "Having known it, there is nothing else to know'. (VII.2); and again, "This most hidden of all secrets" (XVIII. 64) More than enough has been said. On this subject, This will do.
+लैङ्ग-मार्कण्डयोः — 
 
-उपायशून्यानां ध्यानादिलघूपायप्रदर्शनम् हन्त ! इयं भक्तिः "बहूनां जन्मनामन्ते ज्ञानवान् मां प्रपद्यते" (गीता 7.19), "जन्मान्तरसहस्रेषु" (लघ्वत्रिस्मृति) इत्यादिप्रकारेण बहुतरजन्मार्जित- सुकृत-परिपक्व-कषायाणां दीर्घकाल-नैरन्तर्य-सेविता दृढभूमिर्भवतीति, शास्त्रीय-सर्वोपाय- दरिद्राणां प्राणिनां का गतिरिति भयमपनेतुं लघूपायं दर्शयन् "स्तुवन्तः कम्" इति तृतीयं प्रश्नं प्रतिवक्ति "तमेव" इत्यादि "सर्वभूतभवोद्भवम्" इत्यन्तेन ॥ 
+> भज इत्य् एष धातुर् वै सेवायां परिकीर्तितः । 
+> तस्मात् सेवा बुधैः प्रोक्ता भक्ति-शब्देन भूयसी ॥" (लैङ्ग 2-9-19)
+
+इति । उपास्यस्य भगवतो निरवद्य-महागुणत्वान् निस्सीम-प्रीतिरूपं, निर्व्याज-स्वाम्याद् दास्यैक-रुचिगर्भं चेदम् एवोपासनं विविच्यत इति भक्तित्व-व्यपदेशः ।
+
+एवंविधं प्रियत्वम् आश्रित्य हि — 
+
+प्रियो हि ज्ञानिनो ऽत्यर्थम्" (गीता 7-17), "भजतां प्रीतिपूर्वकम्" (गीता 10-10), "तुष्यन्ति च रमन्ति च" (गीता 10-9), "नाथ ! योनि-सहस्रेषु" (वि.पु.1-20-18), "या प्रीतिर् अविवेकानाम्" (वि.पु.1-20-19) इति श्लोकद्वयम्, "तत्स्मृत्याह्लादसंस्थितः" (वि.पु.1-17-30), "तन्नामस्मरणोद्भूतपुलको दितिपुङ्गवः" इति ।
+
+श्रीविष्णुतत्त्वे — 
+
+> सेवा भक्तिः समाख्याता ज्ञानवासनया कृता । 
+> उत्पन्नायां ततस् तस्यां स्नेहभावः स्वयं भवेत् ॥" (विष्णुतत्त्वं)
+
+इति । 
+
+> परमात्मनि यो रक्तो विरक्तो ऽपरमात्मनि । 
+> सर्वैषणा-विनिर्मुक्तः स भैक्षं भोक्तुम् अर्हति ॥" (बार्ह.स्मृ) 
+
+इति ।
+
+"स नो देवः शुभया स्मृत्या संयुनक्तु" इत्याद्य् उपासन-विधिषु वचनानि प्रवृत्तानि ॥(तै. ना. 6.10.19)
+
+दास्यैकरुचि-गर्भज्ञापकानि च "माम् अनुस्मरन्" (गीता 8.13), "पार्थानुचिन्तयन्" (गीता 8.8), "कृष्णानुस्मरणं परम्" इत्यादीनि । (वि.पु.2.6.39)
+
+'अनुः' इत्य् अयं निहीनार्थो हि ज्ञाप्यते तज्ज्ञैः । निहीनत्वं चास्य स्वाभाविकं दास्यम्, तदनुसन्धानगर्भम् उपासनम् अनुस्मरणम् ।
+
+भक्तेश् च कीर्तनादिशरीरत्वं "सततं कीर्तयन्तः" (गीता 9.14), "मन्मना भव" (गीता 9.34) इत्यादौ व्यक्तम् । अस्या एव सकलशास्त्रार्थसारत्वेन परमगुह्यतमत्वं च । "इदं तु ते गुह्यतमम्" (गीता 9.1), "यज् ज्ञात्वा नेह भूयो ऽन्यत्" (गीता 7.2) "सर्वगुह्यतमं भूयः" (गीता 18.64), इत्यादौ दर्शितम् । अलं प्रसज्य ॥
+</details>
+
+<details><summary>English</summary>
+
+(5) Both in the Linga and Markandeya Puranas it is said : "The root bhaj is explained in the sense of seva (service). Hence, the wise use the word bhakti to mean great service:'Therefore, the idea underlying the use of the word upasana to mean bhakti is analysed thus :- It is of the form of limitless and devotion towards the worshipped God on account of His faultless qualities. And it contains in itself the sense of belonging to Him. It is this intense devotion that is referred to by the Lord in the Gita: : "I am the closest and most beloved to thejnanin". (VII 17) ; With love towards those who are devoted (to Me) .(X, I) ; and "'They feel glad when they talk about Me and feel happy when they hear about Me" (X. 9). In the Vishnu Purana, again, occur the two passages : "However many thousands my births be may I be devoted to Thee" (1-20-18) ; and also 'My love to Thee is as great as the love for earthly enjoyment is to fools" (1-20-1 ). It is also said: ..Being Immersed in the bliss of remembering Him". There is the further passage: " Thrilled by the remembrance of His Name was the Daitya Chief (Prahlada). In the Vishnu Tattva, it is said: Service done with true knowledge (that Bhagavan is the Master, and the Atma is His servant) is bhakti. When such service is being performed, love and affection do naturaily spring up," Says the Barhaspatya Smriti: "Whosoever is devoted to God and turns away from attachment to other things and has also renounced all desire (such as love of children, wealth and the world), he is fit to eat by begging (i.e. fit to become a sannyasin)". The Taittitiya sruti contains the invocation.: Let this God make us united with auspicious meditation'. Thus are all the sayings about the injunction to do upasana. (4) The word Anusmarana (repeated recollection) used in several places denotes that thought becoms bhakti, The prefix anu shows not merely continuity, but also humility, that is, the knowledge that the devotee is the servant of the Lord. Hence, thought along with the consciousness of this relationship is bhakti. In the Gita occur the words: Remembering (anusmarana) Me continuously" (VII 13) and .'Thinking of (anuchintayan)" (VIII.8). Elsewhere it is stated: .'Repeated recollection of Krishna (anusmaranam) is supreme", Recita- tion of His Holy Names (Kirtana) and prostration are included in bhakti. For example, the Gita says: "The devotees perform worship by recitation and prostration" (IX. 14) : as also "Keep Me in your mind (While doing all actions)" (IX, 34). This bhakti is called the Great Secret because it constitutes the essence of the purport of all the sastras, The Gita refers to it thus: "To you, this most hidden secret, I am going to reveal", (IX, I); "Having known it, there is nothing else to know'. (VII.2); and again, "This most hidden of all secrets" (XVIII. 64) More than enough has been said. On this subject, This will do.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+### उपाय-शून्यानां ध्यानादि-लघूपाय-प्रदर्शनम्
+
+हन्त ! इयं भक्तिः "बहूनां जन्मनाम् अन्ते ज्ञानवान् मां प्रपद्यते" (गीता 7.19), "जन्मान्तर-सहस्रेषु" (लघ्वत्रि-स्मृति) इत्यादि-प्रकारेण बहुतरजन्मार्जित-सुकृतपरिपक्व-कषायाणां दीर्घकाल-नैरन्तर्य-सेविता दृढभूमिर् भवतीति, शास्त्रीय-सर्वोपाय-दरिद्राणां प्राणिनां का गतिर् इति भयम् अपनेतुं लघूपायं दर्शयन् "स्तुवन्तः कम्" इति तृतीयं प्रश्नं प्रतिवक्ति "तम् एव" इत्यादि "सर्वभूतभवोद्भवम्" इत्य् अन्तेन ॥
 </details>
 
 
@@ -766,7 +824,26 @@ It is this bhakti yoga which is thought of in the Vedas and which is said to be 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्यैव सर्वतोमुखं स्तुतियोग्यत्वम् अभिप्रयन् तदपेक्षया आपेक्षिकक्षुद्र- देवतान्तरादि-व्यावर्तकैः अनादिनिधनत्वादिभिः दशभिः विशिनष्टि -- अनादिनिधनं विष्णुं सर्वलोकमहेश्वरम् । लोकाध्यक्षं स्तुवन् नित्यं सर्वदुःखातिगो भवेत् ॥ 6 ॥ ब्रह्मण्यं सर्वधर्मज्ञं लोकानां कीर्तिवर्धनम् । लोकनाथं महद्भूतं सर्वभूतभवोद्भवम् ॥ 7 ॥ अनादिनिधनम् -- तस्मात् अकालोपाधिकम् उपकारिणम् । विष्णुम् -- अदेशोपाधिकम् । सर्वलोकमहेश्वरम् -- स्तोतृ- मनोरथपूरण-पर्याप्तमहा-विभूतिकम् । लोकाध्यक्षम् - तदुचितनिरुपाधिकानुसन्धानम् । ब्रह्मण्यम् - ब्रह्मणोऽनन्तशाखाय वेदाय प्रतिपाद्यतया हितम् । अत एव उद्घाटितस्तुति-विषयम् । सर्वधर्मज्ञम् -- अत एव स्वस्तुति- परमधर्मज्ञम् । लोकानां कीर्तिवर्धनम् -- सर्वलोकाश्रयिणां स्तोतृप्रभृतीनाम् आत्मन इव "यं स्तुवन् स्तव्यताम् एति" (वि.ध.75.76) इति प्रकारेण अशेष-लोकवेद-प्रशस्यकीर्ति-कारणम् । लोकनाथम् - लोकानां स्वामिनम्; अतः स्तुत्यादि-सर्वपरिचरणार्हम् । महद्भूतम् -- ऐश्वरेण परममहत्त्वेन स्वरूपानुबन्धिना युक्तम् ; अतः अक्लेशेन स्तोत्रमात्रेण स्वाराध्यम् । महान्तो हि स्वानुग्रह-संवाद-सूचनमात्रेण हृष्टाः, न बहु वांछन्ति । यथा उद्योगे - "अन्यत् पूर्णादपां कुंभात् अन्यत् पादावनेजनात् । अन्यत् कुशलसंप्रश्नात् न चेच्छति जनार्दनः ॥" (भारत.उद्योग 89.13) इति । सर्वभूतभवोद्भवम् - असद्व्यावृत्तानां सत्ताहेतुम् । एवं भूतं स्तुवन् -- परिपूर्ण-भक्तियोगासंभवेऽपि यथा तथा वाऽपि गुणसंकीर्तनं कुर्वन् । सर्वदुःखातिगो भवेत् -- तापत्रय-दवदहनम् अतीत्य निरतिशयानन्द-शीतलह्रदं भगवन्तं गच्छेत् ॥ अस्य च युक्तं लघुतर-स्तुतिमात्रविषयत्वम् -- "ध्यायन् स्तुवन् नमस्यन्" इत्यनन्तरोक्त ध्यानादिसहचर-गुरुतर- स्तवन-वैलक्षण्य-प्रतीतेः, अन्यथा पुनरुक्तिप्रसङ्गात्, "स्तुवन्तः कम्" इति स्वतन्त्र-प्रश्नान्तर-प्रयुक्तत्वात्, अनेकशाखान्तर -सङ्गतत्वाच्च अवगम्यते ॥
+अस्यैव सर्वतो-मुखं स्तुति-योग्यत्वम् अभिप्रयंस् तद्-अपेक्षया आपेक्षिक-क्षुद्र-देवतान्तरादि-व्यावर्तकैर् अनादि-निधनत्वादिभिर् दशभिर् विशिनष्टि —
+
+अनादि-निधनं विष्णुं सर्व-लोक-महेश्वरम् ।
+लोकाध्यक्षं स्तुवन् नित्यं सर्व-दुःखातिगो भवेत् ॥ ६ ॥
+
+ब्रह्मण्यं सर्व-धर्म-ज्ञं लोकानां कीर्ति-वर्धनम् ।
+लोक-नाथं महद्-भूतं सर्व-भूत-भवोद्भवम् ॥ ७ ॥
+
+**अनादि-निधनम्** — तस्माद् अकालोपाधिकम् उपकारिणम् । **विष्णुम्** — अदेशोपाधिकम् । **सर्व-लोक-महेश्वरम्** — स्तोतृ-मनोरथ-पूरण-पर्याप्त-महाविभूतिकम् । **लोकाध्यक्षम्** — तद्-उचित-निरुपाधिकानु-सन्धानम् । **ब्रह्मण्यम्** — ब्रह्मणो ऽनन्त-शाखाय वेदाय प्रतिपाद्यतया हितम् । अत एवोद्घाटित-स्तुति-विषयम् ।
+
+**सर्व-धर्मज्ञम्** — अत एव स्व-स्तुति-परम-धर्मज्ञम् ।
+
+**लोकानां कीर्ति-वर्धनम्** — सर्व-लोकाश्रयिणां स्तोतृ-प्रभृतीनाम् आत्मन इव "यं स्तुवन् स्तव्यताम् एति" (वि.ध.75.76) इति प्रकारेण अशेष-लोक-वेद-प्रशस्य-कीर्ति-कारणम् । **लोक-नाथम्** — लोकानां स्वामिनम्; अतः स्तुत्यादि-सर्व-परिचरणार्हम् । **महद्-भूतम्** — ऐश्वरेण परम-महत्त्वेन स्वरूपानुबन्धिना युक्तम् ; अतो ऽक्लेशेन स्तोत्र-मात्रेण स्वाराध्यम् । महान्तो हि स्वानुग्रह-संवाद-सूचन-मात्रेण हृष्टाः, न बहु वाञ्छन्ति । यथोद्योगे — 
+
+> अन्यत् पूर्णाद् अपाङ्कुम्भाद् अन्यत् पादावनेजनात् । 
+> अन्यत् कुशल-सम्प्रश्नान् न चेच्छति जनार्दनः ॥" (भारत.उद्योग 89.13) इति ।
+
+**सर्व-भूत-भवोद्भवम्** — असद्-व्यावृत्तानां सत्ता-हेतुम् । एवं भूतं **स्तुवन्** — परिपूर्ण-भक्ति-योगासम्भवे ऽपि यथा तथा वा ऽपि गुण-सङ्कीर्तनं कुर्वन् । सर्व-दुःखातिगो भवेत् — ताप-त्रय-दव-दहनम् अतीत्य निरतिशयानन्द-शीतल-ह्रदं भगवन्तं गच्छेत् ॥
+
+अस्य च युक्तं लघुतर-स्तुति-मात्र-विषयत्वम् — "ध्यायन् स्तुवन् नमस्यन्" इत्य्-अनन्तरोक्त-ध्यानादि-सहचर-गुरुतर-स्तवन-वैलक्षण्य-प्रतीतेः, अन्यथा पुनर्-उक्ति-प्रसङ्गात्, "स्तुवन्तः कम्" इति स्वतन्त्र-प्रश्नान्तर-प्रयुक्तत्वाद् अनेक-शाखान्तर-सङ्गतत्वाच् च अवगम्यते ॥
 </details>
 
 
@@ -777,7 +854,18 @@ To reach that Vishnu, who is the object of bhakti and who is alone fit to be pra
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्मरण-कीर्तन-प्रणामादिभ्यः परिचरणोत्कर्षः "को धर्मः" इति पञ्चमं प्रश्नं परिहरति एष मे इति । एष मे सर्वधर्माणां धर्मोऽधिकतमो मतः । यद्भक्त्या पुण्डरीकाक्षं स्तवैः अर्चेत् नरः सदा ॥ 8 ॥ एषः -- अनन्तरोक्तो भगवदर्चनस्तवनादिरूपो यथाधिकारं गुरुलघुभावेन व्यवस्थितः । सर्वधर्माणां मध्ये अधिकतमो मतः । धर्माः हि ऐहिकाः पशु-पुत्राद्यर्थाः आमुष्मिकाः स्वर्गाद्यर्थाः असङ्गैः भगवदाराधन- बोधानुष्ठित-इष्टापूर्त-परिकर्मित- तत्त्वज्ञान-समाधिशरीरो मोक्षार्थः, सानुराग-भगवत्स्मरण-कीर्तन-प्रणामादिः तदसाधारण-परिचरणात्मा च इति चतुर्विधाः । तत्र "अधिकतमः" इति तमपा त्रिभ्यः चतुर्थम् उत्कर्षयति । तदुपपादयति - यद्भक्त्या इति । यस्मात् भक्त्यादिगुणवान् तस्मात् अधिकतमः इति । भक्त्या इति अनुष्ठानसमयेऽपि प्रीतिगर्भत्वेन सुखोपादानत्वपरम् । गीतं हि "सुसुखं कर्तुम्" इति । युक्तं च एतत् प्रियतमपतिस्मरणं प्रियंकरम् इति । अनेन अस्वामिषु देवतान्तरेषु कषायपानवत् विरसत्वेऽपि हित-बुद्ध्या अनुष्ठीयमानेभ्यो व्यावृत्तिः क्रियते । पुण्डरीकाक्षम् इति विषयाभिरूप्येन विकृतभयंकर- तत्वान्तर भजनेभ्यो व्यावृत्तिः । स्तवैः इति वाङ्मात्रसाध्यत्वेन विश्वजित्- चान्द्रायणादिभ्यो व्ययायासबहुलेभ्यो व्यावृत्तिः । 
+**स्मरण-कीर्तन-प्रणामादिभ्यः परिचरणोत्कर्षः**
+
+"को धर्मः" इति पञ्चमं प्रश्नं परिहरत्य् एष मे इति ।
+
+> एष मे सर्वधर्माणां धर्मो ऽधिकतमो मतः ।
+> यद् भक्त्या पुण्डरीकाक्षं स्तवैर् अर्चेन् नरस् सदा ॥ ८ ॥
+
+**एषः** — अनन्तरोक्तो भगवदर्चन-स्तवनादिरूपो यथाधिकारं गुरु-लघु-भावेन व्यवस्थितः । सर्वधर्माणां मध्ये ऽधिकतमो मतः ।
+
+धर्मा ह्य् ऐहिकाः पशु-पुत्राद्यर्था आमुष्मिकास् स्वर्गाद्यर्था असङ्गैर् भगवदाराधन-बोधानुष्ठितेष्टापूर्त-परिकर्मित-तत्त्वज्ञान-समाधि-शरीरो मोक्षार्थः, सानुराग-भगवत्स्मरण-कीर्तन-प्रणामादिस् तदसाधारण-परिचरणात्मा चेति चतुर्विधाः । तत्राधिकतम इति तमपा त्रिभ्यश् चतुर्थम् उत्कर्षयति । तद् उपपादयति — यद् भक्त्येति । यस्माद् भक्त्यादि-गुणवांस् तस्माद् अधिकतम इति । **भक्त्येत्य्** अनुष्ठान-समये ऽपि प्रीति-गर्भत्वेन सुखोपादानत्वपरम् । गीतं हि "सुसुखं कर्तुम्" इति । 
+
+युक्तं चैतत् प्रियतम-पति-स्मरणं प्रियङ्करम् इति । अनेनास्वामिषु देवतान्तरेषु कषायपानवद् विरसत्वे ऽपि हित-बुद्ध्यानुष्ठीयमानेभ्यो व्यावृत्तिः क्रियते । **पुण्डरीकाक्षम्** इति विषयाभिरूप्येन विकृत-भयङ्करतत्त्वान्तर-भजनेभ्यो व्यावृत्तिः । **स्तवैर्** इति वाङ्मात्र-साध्यत्वेन विश्वजिच्चान्द्रायणादिभ्यो व्ययायासबहुलेभ्यो व्यावृत्तिः ॥
 </details>
 
 
@@ -788,7 +876,35 @@ The Supreme Dharma ; Now, Bhishma proceeds to answer the 5th question. (8) This 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि भगवान् व्यासः -- "आर्ता विषण्णाः शिथिलाश्च भीताः घोरेषु च व्याधिषु वर्तमानाः । संकीर्त्य नारायण-शब्दमात्रं विमुक्तदुःखाः सुखिनो भवन्ति ॥" इति । श्रीविष्णुपुराणे - "अवशेनापि यन्नाम्नि" इत्यादि । (वि.पु.6.8.19) । वैष्णवे धर्मे "अज्ञानतो ज्ञानतो वा वासुदेवस्य कीर्तनात् । तत्सर्वं विलयं याति तोयस्थं लवणं यथा ॥" (वि.ध.) "शमायालं जलं वह्नेः तमसो भास्करोदयः । शान्तिः कलेः अघौघस्य नामसंकीर्तनं हरेः ॥" (वि.ध. 66.74) "यन्नामसंकीर्तनतो विमुच्यते" (वि.ध. 43.12), "यन्नामसंकीर्तनतो महाभयात् विमोक्षमाप्नोति" (वि.ध. 43.25), "सकृदुच्चरितं येन हरिरित्यक्षरद्वयम् । बद्धः परिकरस्तेन मोक्षाय गमनं प्रति ॥" (वि.ध. 70.83), "यस्य नाम्नि स्मृते मर्त्यः समुत्क्रान्तेः अनन्तरम् । प्राप्नोति वैष्णवं स्थानं पुनरावृत्तिवर्जितम् ॥" (वि.ध. 43.12), "अच्युतानन्त गोविन्द नामोच्चारणभेषजात् । नश्यन्ति सकला रोगाः सत्यं सत्यं वदाम्यहम् ॥" (वि.ध. 43.25) इत्यादि । अन्यत्र च " संकीर्तयेज्जगन्नाथं वेदं वाऽपि समीरयेत्" इति च । वैष्णवे सूक्ते - "आस्य जानन्तो नाम चिद् विविक्तन", "ध्रुवासो अस्य कीरयो जनासः ।" अस्य कीरयः- कीर्तयितारः, ध्रुवासः - अपुनरावर्तिनो भवन्ति । अर्चेत् इति अस्य धर्मस्य पुरुषविशेषसमाराधन-रूपताम् अनतिपरोक्षां हि सूचयति । गीतं च "प्रत्यक्षावगमम्" इति । न हि अस्य तपस्तीर्थादिवत् पुरुषप्रीणनत्वं शास्त्रास्तिक्यैकसाध्यम् ॥
+तथा हि भगवान् व्यासः — 
+
+आर्ता विषण्णाः शिथिलाश् च भीताः 
+घोरेषु च व्याधिषु वर्तमानाः । 
+सङ्कीर्त्य नारायण-शब्द-मात्रं 
+विमुक्त-दुःखाः सुखिनो भवन्ति ॥ 
+
+इति । श्री-विष्णु-पुराणे — "अवशेनापि यन्नाम्नि" इत्यादि । (वि.पु.6.8.19) ।
+
+वैष्णवे धर्मे —
+
+> अज्ञानतो ज्ञानतो वा वासुदेवस्य कीर्तनात् ।
+> तत्सर्वं विलयं याति तोयस्थं लवणं यथा ॥ (वि.ध.)
+
+> शमायालं जलं वह्नेस् तमसो भास्करोदयः ।
+> शान्तिः कलेर् अघौघस्य नामसङ्कीर्तनं हरेः ॥" (वि.ध. 66.74)
+
+"यन् नाम-सङ्कीर्तनतो विमुच्यते" (वि.ध. 43.12), "यन् नाम-सङ्कीर्तनतो महाभयाद् विमोक्षम् आप्नोति" (वि.ध. 43.25),
+
+> सकृद् उच्चरितं येन हरिर् इत्य् अक्षरद्वयम् ।
+> बद्धः परिकरस् तेन मोक्षाय गमनं प्रति ॥" (वि.ध. 70.83),
+
+> यस्य नाम्नि स्मृते मर्त्यः समुत्क्रान्तेर् अनन्तरम् ।
+> प्राप्नोति वैष्णवं स्थानं पुनरावृत्ति-वर्जितम् ॥" (वि.ध. 43.12),
+
+> अच्युतानन्त गोविन्द-नामोच्चारण-भेषजात् ।
+> नश्यन्ति सकला रोगाः सत्यं सत्यं वदाम्य् अहम् ॥" (वि.ध. 43.25) इत्यादि ।
+
+अन्यत्र च "सङ्कीर्तयेज् जगन्नाथं वेदं वा ऽपि समीरयेत्" इति च । वैष्णवे सूक्ते — "आस्य जानन्तो नाम चिद् विविक्तन", "ध्रुवासो अस्य कीरयो जनासः ।" अस्य कीरयः — कीर्तयितारः, ध्रुवासः — अपुनरावर्तिनो भवन्ति । अर्चेद् इत्य् अस्य धर्मस्य पुरुष-विशेष-समाराधन-रूपताम् अनतिपरोक्षां हि सूचयति । गीतं च "प्रत्यक्षावगमम्" इति । न ह्य् अस्य तपस्तीर्थादिवत् पुरुषप्रीणनत्वं शास्त्रास्तिक्यैक-साध्यम् ॥
 </details>
 
 
@@ -802,9 +918,21 @@ So the venerable Vyasa says: "Those distressed, afflicted or enfeebled and those
 THE ELIGIBILITY OF ALL CLASSES FOR WORSHIP (ARCHANA)
 </details>
 
+
+130pdf
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नरः इति प्रायेण सर्वचेतनानां यथासंभवम् अथिकारं सूचयति । एकवचनं च महायागादि-बहुसहकारि- नैरपेक्ष्यपरम् । निन्द्य-गुणवृत्त-जन्मनामपि भक्त्यभिरुचिमात्र-महागुणेन अकुतोभयं भजनीयो हि भगवान् ॥ अथ क्षिप्रमेव भागीरथीप्रवाहेनेव निर्णिक्त-कल्मषरुचिः परमधार्मिको भवतीति गीयते । गुणविषये तावत् "समोऽहं सर्वभूतेषु"; वृत्तविषयेषु च (गीता 9.29) "अपि चेत् सुदुराचारः"; जन्मविषयेऽपि (गीता 9.30) "मां हि पार्थ! व्यपाश्रित्य येऽपि स्युः पापयोनयः" इत्यादि । (गीता 9.32) । न च एतावता दुराचारादेः धर्मत्वम् । "नाविरतो दुश्चरितात् नाशान्तो नासमाहितः" (कठ 12.23) "अप्राप्यः केशवो राजन् इन्द्रियैरजितैः नृणाम्" इत्येवंप्रकारवचनेभ्यः तस्य भगवदनिष्टत्वेन अधर्मत्वावगमात् । अत एव अनन्तरमाह "क्षिप्रं भवति धर्मात्मा" इति (गीता 9.31) । सर्वाश्रमिणाम् अनाश्रिमणश्च विधुरादेः "शमदमाद्युपेतः स्यात्" (ब्र.सू.3-4-27) "अन्तरा चापि तु तद्दृष्टेः" (ब्र.सू.3.4.36) इत्यादीनि ब्रह्मसूत्राणि अधिकारं निरणैषत ॥ युक्तश्चैषः सर्वावस्थेनापि पुरुषेण मातुरिव पुत्रेण परमवत्सलस्य सर्वबन्धोः निसर्गसुहृदश्च भगवतो नामग्रहणादौ अप्रतिषेधः । दृष्टश्च गजेन्द्र-गृध्रराज-वायस-रावणावरज-कोशलनागरजानपद-वल्लवी-मालाकार-प्रमुखेषु ॥
+नर इति प्रायेण सर्व-चेतनानां यथासम्भवम् अधिकारं सूचयति । एकवचनं च महायागादिबहुसहकारिनैरपेक्ष्यपरम् ।
+
+निन्द्यगुणवृत्तजन्मनामपि भक्त्यभिरुचिमात्रमहागुणेनाकुतोभयं भजनीयो हि भगवान् ॥
+
+अथ क्षिप्रम् एव भागीरथीप्रवाहेनेव निर्णिक्तकल्मषरुचिः परमधार्मिको भवतीति गीयते । गुणविषये तावत् "समो ऽहं सर्वभूतेषु"; वृत्तविषयेषु च (गीता 9.29) "अपि चेत् सुदुराचारः"; जन्मविषये ऽपि (गीता 9.30) "मां हि पार्थ ! व्यपाश्रित्य ये ऽपि स्युः पापयोनयः" इत्यादि । (गीता 9.32) ।
+
+न चैतावता दुराचारादेर् धर्मत्वम् । "नाविरतो दुश्चरितान् नाशान्तो नासमाहितः" (कठ 12.23) "अप्राप्यः केशवो राजन्निन्द्रियैर् अजितैर् नृणाम्" इत्य् एवं-प्रकारवचनेभ्यस् तस्य भगवदनिष्टत्वेनाधर्मत्वावगमात् । अत एवानन्तरम् आह "क्षिप्रं भवति धर्मात्मा" इति (गीता 9.31) ।
+
+सर्वाश्रमिणाम् अनाश्रमिणश् च विधुरादेः "शमदमाद्युपेतः स्यात्" (ब्र.सू.3-4-27) "अन्तरा चापि तु तद्दृष्टेः" (ब्र.सू.3.4.36) इत्यादीनि ब्रह्मसूत्राण्य् अधिकारं निरणैषत ॥
+
+युक्तश् चैष सर्वावस्थेनापि पुरुषेण मातुर् इव पुत्रेण परमवत्सलस्य सर्वबन्धोर् निसर्गसुहृदश् च भगवतो नामग्रहणादाव् अप्रतिषेधः । दृष्टश् च गजेन्द्रगृध्रराजवायसरावणावरजकोशलनागरजानपदवल्लवीमालाकारप्रमुखेषु ॥
 </details>
 
 
