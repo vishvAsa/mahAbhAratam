@@ -1433,8 +1433,10 @@ if you say that even then the lesser is mentioned, where else will there be an o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सगुणा +++(उपासना)+++ निर्गुणार्थेति मा च वाचाल! वोचथाः -  
-न विरुद्धार्थयोर्, यस्माद्, उपायोपेयता द्वयोः ॥
+सगुणा +++(उपासना)+++ निर्गुणार्थेति  
+मा च वाचाल! वोचथाः।  
+न विरुद्धार्थयोर्, यस्माद्,  
+उपायोपेयता द्वयोः ॥
 </details>
 
 
@@ -1447,7 +1449,12 @@ and one cannot be a step to lead to the other.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च निर्गुणस्य किं मूलं गुण-प्रतीतेः? साविद्येति चेत्, जनि-मृति-मोहादि-भव-दोष-विष-मूर्छितस्य मुमूर्षोः परम-भेषजं ब्रह्मैव अविद्या-भ्रमाद्य्-अशेष-दोषास्पदम् अनाघ्रात-गुण-कणिकं चेति मनोहरम् इदं वेद-रहस्यम् ॥
+अपि च निर्गुणस्य किं मूलं गुण-प्रतीतेः?  
+साविद्येति चेत्,  
+जनि-मृति-मोहादि-भव-दोष-विष-मूर्छितस्य मुमूर्षोः  
+परम-भेषजं ब्रह्मैव  
+अविद्या-भ्रमाद्य्-अशेष-दोषास्पदम् अनाघ्रात-गुण-कणिकं चेति  
+मनोहरम् इदं वेद-रहस्यम् ॥ +++(5)+++
 </details>
 
 
@@ -1458,8 +1465,10 @@ Again what is the cause for one without attributes to appear as if it is with at
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ब्रह्म-दोषो मृषा चेत् ते नैर्गुण्यं च मृषा मतम् ।  
-> नैर्दोष्य-सगुणत्वे ते सत्ये स्यातां न चेच्छसि ॥
+ब्रह्म-दोषो मृषा चेत् ते  
+नैर्गुण्यं च मृषा मतम् ।  
+नैर्दोष्य-सगुणत्वे ते  
+सत्ये स्यातां न चेच्छसि ॥ +++(5)+++
 </details>
 
 
@@ -1480,18 +1489,37 @@ that the Brahman is without flaw and full of attributes.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-को वा ब्रह्मा-विद्याम् इमाम् उपहन्यात्? अद्वैत-विद्या-निष्ठेति चेत्, इदं ततो ऽपि मनोहरं यत् — "परं ब्रह्म बंभ्रमीति, संसारी तद् उत्तारयति" इति । अपि च सगुण-वाक्यं कस्य हेतोर् निरर्थकम्? निर्गुण-वाक्य-बाध्यत्वाद् इति चेत् — विपरीतं कस्मान् न स्यात्? समम् एव ह्य् उभयोः प्रामाण्यं विरोधश् च ॥
+को वा ब्रह्मा-विद्याम् इमाम् उपहन्यात्?  
+"अद्वैत-विद्या-निष्ठे"ति चेत्,  
+इदं ततो ऽपि मनोहरं यत् —  
+"परं ब्रह्म बंभ्रमीति, संसारी+++(=वेदः, आचार्यो वा)+++ तद् उत्तारयति" इति ।  
 </details>
 
 
 <details><summary>English</summary>
 
-There is another point to be answered. What is it that removes the nescience in the Brahman? If the answer is. "He who realises monism or oneness", then this is a more delight- ful statement. The Supreme Brahman is suffering from illusion and the bound individual soul in samsara redeems it. (This is stating the proposition upside down). Moreover, on what ground can the passages describing the Brahman as having qualities be said to be meaningless? If the answer is that these are contradicted by passages describing the Brahman as without qualities, why not the other way about? Both kinds of passages are equally authoritative and exercise equal force in contradicting (each other), Why reject the one and accept the other? 
+There is another point to be answered. What is it that removes the nescience in the Brahman? If the answer is. "He who realises monism or oneness", then this is a more delight- ful statement. The Supreme Brahman is suffering from illusion and the bound individual soul in samsara redeems it. (This is stating the proposition upside down).  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्यच् च — गुणाश् चेत् निषेद्धव्याः, किं तपस्विन्या गुण-श्रुत्या? "प्रतिषेध्य-गुण-प्रसञ्जिका सेति" चेत् — मा च भूत् प्रतिषेध्यम् । न ह्य् अप्रसक्तं प्रसज्य तद् एव प्रतिषेधतु शास्त्रम् इति काचिल् ललाट-पट्टे लिपिः ।
+अपि च सगुण-वाक्यं कस्य हेतोर् निरर्थकम्?  
+निर्गुण-वाक्य-बाध्यत्वाद् इति चेत् — विपरीतं कस्मान् न स्यात्? समम् एव ह्य् उभयोः प्रामाण्यं विरोधश् च ॥
+</details>
+
+
+<details><summary>English</summary>
+
+Moreover, on what ground can the passages describing the Brahman as having qualities be said to be meaningless? If the answer is that these are contradicted by passages describing the Brahman as without qualities, why not the other way about? Both kinds of passages are equally authoritative and exercise equal force in contradicting (each other), Why reject the one and accept the other?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यच् च — गुणाश् चेत् निषेद्धव्याः,  
+किं तपस्विन्या गुण-श्रुत्या?  
+ 
+"प्रतिषेध्य-गुण-प्रसञ्जिका सेति" चेत् — मा च भूत् प्रतिषेध्यम् ।  
+न ह्य् अप्रसक्तं प्रसज्य तद् एव प्रतिषेधतु शास्त्रम् इति काचिल् ललाट-पट्टे लिपिः ।  
 
 > "प्रक्षालनाद् धि पङ्कस्य दूराद् अस्पर्शनं वरम् ॥" (भार. वन. २.४८)
 </details>
@@ -1504,22 +1532,56 @@ There is another point. If the qualities of the Brahman are to be negated, what 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च "पौर्वापर्ये पूर्व-दौर्बल्यं प्रकृतिवत्" (पू. मी. ६.५.१९) इति सार्वत्रिको न्यायः । न हि प्राक्तनम् "इहास्तीति-ज्ञानं" "नास्तीति" परस्तात्तन-शब्दो हिनस्ति । पवमानापच्छेदे प्राकृत-धर्म-प्राप्तौ च पूर्व-दौर्बल्यं, पूर्वम् अनुपमृद्य परस्योत्पत्त्य्-असम्भवात् । इह तु सम्भवो वक्ष्यते । यदि परत्वाद् निर्गुण-वचनं गुणांशं निह्नुते, ब्रह्म-स्वरूपांशम् अपि "शून्यम् एव तत्त्वम्" इति वाक्यं बाधतां, परत्वात् । "तद् बुद्ध-भ्रम-मूलत्वात् न वैदिकं वस्तु बाधते" इति चेत्, न; वेदो ऽपि हि ते ब्रह्म-भ्रम-मूल एवेति को विशेषो ऽनयोः? किं च प्रत्युत गुण-शास्त्रम् एव परं दृष्टम् । देहात्म-दुर्गुण-निषेध-पर-निर्गुण-वचन-पूर्वं भगवति हेय-गुणान् प्रतिषिध्य, कल्याण-गुण-विधि-परत्वस्य 
+न च "पौर्वापर्ये पूर्व-दौर्बल्यं प्रकृतिवत्" (पू. मी. ६.५.१९) इति सार्वत्रिको न्यायः ।  
+न हि प्राक्तनम् "इहास्तीति-ज्ञानं" "नास्तीति" परस्तात्तन-शब्दो हिनस्ति ।  
+पवमानापच्छेदे प्राकृत-धर्म-प्राप्तौ च पूर्व-दौर्बल्यं, पूर्वम् अनुपमृद्य परस्योत्पत्त्य्-असम्भवात् ।  
+इह तु सम्भवो वक्ष्यते ।  
+</details>
+
+
+<details><summary>English</summary>
+
+If it is argued that the rule in Mimamsa, (VI, 5. 19) that the later passages are more potent and negate the earlier ones like Prakriti, is to be applied here, no! The rule is not of uni- versal application. Besides, the earlier knowledge that a thing exists here cannot be stultified by the later statement that it is not. (Note).- The rule is exemplified in the following case : In the Pratassavana sacrifice, there are five priests who officiate, the "Adhvaryu". "Prastotri", "Pratihartri", "Udgatri" and 'Brahma'. When starting a prayer they move one behind another, round the sacrificial fire each taking hold of the girdle of the priest immediately before him. The sacrificer in turn has to take hold similarly of the 'Brahma' priest. It is laid down that if the 'Udgatri' accidentally lets go his hold, the sacrifice should be finished without distributing dakshina to the priests. It has to be started afresh and the dakshina prescribed in that case is that already prescribed. But if the 'Partihartri' lets go his hold, the dakshina prescribed is the whole wealth of the sacrificer. What is to happen, if both the 'Prastotri' and 'Udgatri' should lose hold, one soon after another? The rule is that the penalty prescribed in the later case is to prevail. Here, the penalties prescribed are opposed to each other and cannot be reconciled. Such is the rule.) When there is a breaking (of the chain of priests) round the sacrificial fire and this rule becomes relevant, the weakness of the earlier injunction is due to the fact that the later injunction cannot arise without wiping away the earlier one. Here (such a later statement) is said to arise. How to apply the rule here? The mention of the gunas and the denial of the gunas are not opposed to each other. Both may exist without contradicting each other. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि परत्वाद् निर्गुण-वचनं गुणांशं निह्नुते, ब्रह्म-स्वरूपांशम् अपि "शून्यम् एव तत्त्वम्" इति वाक्यं बाधतां, परत्वात् । "तद् बुद्ध-भ्रम-मूलत्वात् न वैदिकं वस्तु बाधते" इति चेत्, न; वेदो ऽपि हि ते ब्रह्म-भ्रम-मूल एवेति को विशेषो ऽनयोः?
+</details>
+
+<details><summary>English</summary>
+
+It may be argued that the passages negating qualities (to God) conceal (or obliterate) that part(of the scriptures) which affirms qualities, on account of the former passages being later. In that case, even the portion (of the Vedas) dealing with the nature of the Brahman may be stultified by the statement, "The (ultimate) Reality is non-existent": For this statement is later, If it is replied that this arises from the delusion of Buddhists and cannot affect anything established by the Vedas, the reply is not acceptable. For, according to you, the Veda itself arises from the delusion of the Brahman. And what distinction can be made between these two delusions? 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं च प्रत्युत गुण-शास्त्रम् एव परं दृष्टम् । देहात्म-दुर्गुण-निषेध-पर-निर्गुण-वचन-पूर्वं भगवति हेय-गुणान् प्रतिषिध्य, कल्याण-गुण-विधि-परत्वस्य 
 
 > "अपहतपाप्मा विज्वरः" 
 
 इत्य्-आदाव् उपलम्भात् ॥
 </details>
 
-
 <details><summary>English</summary>
 
-If it is argued that the rule in Mimamsa, (VI, 5. 19) that the later passages are more potent and negate the earlier ones like Prakriti, is to be applied here, no! The rule is not of uni- versal application. Besides, the earlier knowledge that a thing exists here cannot be stultified by the later statement that it is not. (Note).- The rule is exemplified in the following case : In the Pratassavana sacrifice, there are five priests who officiate, the "Adhvaryu". "Prastotri", "Pratihartri", "Udgatri" and 'Brahma'. When starting a prayer they move one behind another, round the sacrificial fire each taking hold of the girdle of the priest immediately before him. The sacrificer in turn has to take hold similarly of the 'Brahma' priest. It is laid down that if the 'Udgatri' accidentally lets go his hold, the sacrifice should be finished without distributing dakshina to the priests. It has to be started afresh and the dakshina prescribed in that case is that already prescribed. But if the 'Partihartri' lets go his hold, the dakshina prescribed is the whole wealth of the sacrificer. What is to happen, if both the 'Prastotri' and 'Udgatri' should lose hold, one soon after another? The rule is that the penalty prescribed in the later case is to prevail. Here, the penalties prescribed are opposed to each other and cannot be reconciled. Such is the rule.) When there is a breaking (of the chain of priests) round the sacrificial fire and this rule becomes relevant, the weakness of the earlier injunction is due to the fact that the later injunction cannot arise without wiping away the earlier one. Here (such a later statement) is said to arise. How to apply the rule here? The mention of the gunas and the denial of the gunas are not opposed to each other. Both may exist without contradicting each other. It may be argued that the passages negating qualities (to God) conceal (or obliterate) that part(of the scriptures) which affirms qualities, on account of the former passages being later. In that case, even the portion (of the Vedas) dealing with the nature of the Brahman may be stultified by the statement, "The (ultimate) Reality is non-existent": For this statement is later, If it is replied that this arises from the delusion of Buddhists and cannot affect anything established by the Vedas, the reply is not acceptable. For, according to you, the Veda itself arises from the delusion of the Brahman. And what distinction can be made between these two delusions? Moreover, if looked into carefully, the scriptural passages affirming qualities (in God) should be regarded as later, Passages like "He is sinless, free from old age (Chh. Up. VI,. 1.-1) prove that the mandatory declarations (of the Vedas) regarding the presence of auspicious qualities in (God) are later, being preceded by the negation of evil qualities in Him) by passages which deny attributes (to Him) and mean only that He is free from all impurities of the soul and the body. 
+Moreover, if looked into carefully, the scriptural passages affirming qualities (in God) should be regarded as later, Passages like "He is sinless, free from old age (Chh. Up. VI,. 1.-1) prove that the mandatory declarations (of the Vedas) regarding the presence of auspicious qualities in (God) are later, being preceded by the negation of evil qualities in Him) by passages which deny attributes (to Him) and mean only that He is free from all impurities of the soul and the body. 
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च तथ्य-मिथ्या-विषय-व्यवस्थया सगुण-निर्गुण-श्रुत्योः परित्राणम् इति विप्रलम्भः । भङ्ग एव हि मिथ्या-विषयत्वे प्रमाणस्य, यथा अलीक-कलधौत-ग्रहस्य । सगुण-निषेधो ऽपि मिथ्या-विषय एव त्वन्-मते इति, तस्य वा कथं तत्त्व-विषयत्वम् इति अलम् असंभाष्य-संभाषणेन ॥
+अपि च 
+
+> तथ्य-मिथ्या-विषय-व्यवस्थया  
+सगुण-निर्गुण-श्रुत्योः परित्राणम्  
+
+इति विप्रलम्भः ।  
+भङ्ग एव हि मिथ्या-विषयत्वे प्रमाणस्य,  
+यथा अलीक-कलधौत-ग्रहस्य ।  
+सगुण-निषेधो ऽपि मिथ्या-विषय एव त्वन्-मते इति, तस्य वा कथं तत्त्व-विषयत्वम् इति अलम् असंभाष्य-संभाषणेन ॥
 </details>
 
 
