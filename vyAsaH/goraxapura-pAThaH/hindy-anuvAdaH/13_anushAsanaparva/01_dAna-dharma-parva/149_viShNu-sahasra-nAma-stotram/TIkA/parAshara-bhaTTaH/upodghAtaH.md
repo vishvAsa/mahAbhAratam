@@ -212,7 +212,7 @@ We see in the world that any intelligent person, after having gained some knowle
 Of these, the two purusharthas (objects desired by men) known as artha and kama (wealth and pleasure) are experienced by means of actual direct perception and inference. They are to be given up, because they are associated with innumerable imperfections like the following;- they are (1) petty, (2) lead to harmful conse- quences. (3) are disgusting, ( 4) are evanescent,(5) are mixed with distressful things, and (6) are not even easily obtainable. On the other hand, (the other two primary objects of human pur- suit), dharma (virtue) and paratattva (salvation) can be learnt only from the scriptures. These are opposed to the other two purusharthas (i.e. artha and kama) and are full of beneficent qualities. Therefore, the sastras (scriptures and works of reli- gious authority) and their teachings are to be preferred. As is proclaimed with one voice by those learned in the Itihasas (epic history) and the Puranas: "Truth, this is the Truth and again the Truth. This is procla- imed with hands uplifted that there is no sastra (authority) higher than the Vedas, no God higher than Kesava." As regards the V edas, the highest of the fourteen subjects of' study (vidyasthanas), they are to be understood in their fullest extent and scope through the ltihasas and Puranas. It is also said that "Veda trembles with fear at the sight of ignorant or half-learned persons, thinking, 'They will betray me' (by mis- interpretation):' Hence, it is clear that the understanding or interpretation of the Vedas can be done only through the study of the Itihasas and Puranas ; and of these two since the Puranas are mentio- ned subsequent to ltihasas, the Itihasas are more important. [This reasoning is arrived at according to rules of grammar . In a copulative (dvandva) compound, the word with less number of vowels must be mentioned first, except in that case where the thing denoted by the word with the larger number of vowels is preferred for some reason .] Hence, the Mahabharata, like the Ramayana, is the proper refuge for us (to understand the Vedas.)
 </details>
 
-## श्रीसहस्रनामाध्यायोत्कर्षसमर्थनम्
+## सहस्र-नामाध्यायोत्कर्षः
 <details><summary>English</summary>
 GREATNESS OF THE CHAPTER ON SAHASRANAMA
 </details>
@@ -221,10 +221,14 @@ GREATNESS OF THE CHAPTER ON SAHASRANAMA
 
 तत्र —
 
-महाभारत-सारत्वाद् ऋषिभिः परिगानतः ।
-वेदाचार्य-समाहाराद् भीष्मोत्कृष्टमतत्वतः ॥
-परिग्रहातिशयतो गीताद्य्-ऐकार्थ्यतश् च नः ।
-सहस्र-नामाध्याय उपादेयतमो मतः ॥
+महाभारत-सारत्वाद्  
+ऋषिभिः परिगानतः ।
+वेदाचार्य-समाहाराद्  
+भीष्मोत्कृष्ट-मतत्वतः ॥
+परिग्रहातिशयतो  
+गीताऽऽद्य्-ऐकार्थ्यतश् च नः ।
+सहस्र-नामाध्याय  
+उपादेयतमो मतः ॥
 </details>
 
 
@@ -233,6 +237,7 @@ GREATNESS OF THE CHAPTER ON SAHASRANAMA
 This chapter of Sahasranama or The Thousand Names (1) is the essence of respected Mahabharata, (2) has been sung by the great sages, (3) has been strung together by the great preceptor of the Vedas, (4) was expounded by Bhishma as his excellent creed of faith, (5) has been accepted by all persons, with respect as excellent, and (6) contains truths and lessons in conformity with the teachings of the Gita and such other authoritative works. For all these reasons, this chapter is to be taken up for study, recitation and meditation.
 </details>
 
+### महाभारत-सारत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **महाभारतोत्कर्ष-समर्थन-पूर्वकं महाभारत-सारत्व-कथनम्**
