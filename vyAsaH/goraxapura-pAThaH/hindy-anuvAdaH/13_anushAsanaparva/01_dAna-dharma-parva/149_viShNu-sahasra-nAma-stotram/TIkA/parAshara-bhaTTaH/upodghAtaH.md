@@ -5,17 +5,42 @@ title = "उपोद्घातः"
 
 Source: [TW](https://archive.org/details/sri-vishnu-sahasra-nama-nirukti-shlokas-sri-k-bhashyam-sri-uttamur-vira-raghava-acharya-1960)
 
-BHAGVAD -GUNA-DARPANA  
-Commentary by Parasara Bhattarya on Vishnu Sahasranama  
-
-श्रीः श्रीपराशरभट्टार्यविरचितं भगवद्गुणदर्पणाख्यं श्रीविष्णुसहस्रनामभाष्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वन्दे गोविन्द+++(=ऎम्बार्)+++-तातौ+++(→श्रीवत्साङ्कौ)+++, मुनिम् अथ मनवै लक्ष्मणार्यं+++(=रामानुजं)+++, महान्तं+++(=पॆरिय-नम्बि)+++  
-ध्यायेयं, यामुनार्यं मम हृदि तनवै, रामम् +++(मिश्रम्)+++ एवाभियायाम् ।  
-पद्माक्षं प्रेक्षिषीय, प्रथमम् अपि मुनिं नाथम् ईडे, शठारिं  
-स्तौमि, प्रेक्षेय लक्ष्मीं, शरणम् अशरणः श्रीधरं संश्रयेयम् ॥ 1 ॥ +++(5 तिङन्तानि बहु रोचन्ते)+++
+श्रीः॥ श्रीपराशरभट्टार्यविरचितं भगवद्गुणदर्पणाख्यं श्रीविष्णुसहस्रनामभाष्यम्॥
+</details>
+
+<details><summary>English</summary>
+
+BHAGVAD-GUNA-DARPANA  
+Commentary by Parasara Bhattarya on Vishnu Sahasranama  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+श्रीः श्रीपराशरभट्टार्यविरचितं भगवद्गुणदर्पणाख्यं श्रीविष्णुसहस्रनामभाष्यम्॥
+</details>
+
+
+## मङ्गलाचारणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**वन्दे** गोविन्द+++(=ऎम्बार्)+++-तातौ+++(→श्रीवत्साङ्कौ)+++, मुनिम् अथ **मनवै** लक्ष्मणार्यं+++(=रामानुजं)+++, महान्तं+++(=पॆरिय-नम्बि)+++  
+**ध्यायेयं**, यामुनार्यं मम हृदि **तनवै**, रामम् +++(मिश्रम्)+++ **एवाभियायाम्** ।  
+पद्माक्षं **प्रेक्षिषीय**, प्रथमम् अपि मुनिं नाथम् **ईडे**, शठारिं  
+**स्तौमि**, **प्रेक्षेय** लक्ष्मीं, **शरणम्** अ-शरणः श्रीधरं **संश्रयेयम्** ॥ 1 ॥ +++(5 तिङन्तानि बहु रोचन्ते)+++
+</details>
+
+<details><summary>English</summary>
+
+(1) My salutation to Govinda (Embar) and my father (Srivatsanka). I contemplate on Lakshmanarya (Sri Ramanuja) and meditate on Mahan (Peria Nambi). My mind be full of Yamunarya (Alavandar). I approach respectfully Ramamisra. May I see face to face Pundari- kaksha Acharya. I adore Natha-muni, the first of our Acharyas. My adorations and praises go to Satari (i.e., Nammazhvar). May I have a vision of Lakshmi. Helpless as I am I surrender myself unto Sridhara (i.e., the Lord of Lakshmi). 
+
+(Thus, the Guru-parampara, the line of spiritual precepters, is extolled.)
+
+(Embar and Kurattazhvan are referred to by the dual, Govinda-Tatau, because both are the direct preceptors of Sri Parasara Bhatta and the disciples of Sri Ramanuja) 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -27,27 +52,13 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 </details>
 
 
-<details><summary>English</summary>
-
-(1) My salutation to Govinda (Embar) and my father (Srivatsanka). I contemplate on Lakshmanarya (Sri Ramanuja) and meditate on Mahan (Peria Nambi). My mind be full of Yamunarya (Alavandar). I approach respectfully Ramamisra. May I see face to face Pundari- kaksha Acharya. I adore Natha-muni, the first of our Acharyas. My adorations and praises go to Satari (i.e., Nammazhvar). May I have a vision of Lakshmi. Helpless as I am I surrender myself unto Sridhara (i.e., the Lord of Lakshmi). 
-
-(Thus, the Guru-parampara, the line of spiritual precepters, is extolled.)
-
-(Embar and Kurattazhvan are referred to by the dual, Govinda-Tatau, because both are the direct preceptors of Sri Parasara Bhatta and the disciples of Sri Ramanuja) 
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं नमो गजवक्त्राद्यैः  
-पारिषद्यैः प्रशासते ।  
-श्रीरङ्गराज-सेनान्ये  
-सूत्रवत्या समेयुषे ॥ 2 ॥ 
-</details>
-
-<details><summary>मूलम्</summary>
-
-ओं नमो गज-वक्त्राद्यैः पारिषद्यैः प्रशासते ।
-श्रीरङ्गराज-सेनान्ये सूत्रवत्या समेयुषे ॥ 2 ॥
+ओं नमो गज-वक्त्राद्यैः  
+पारिषद्यैः **प्रशासते** ।  
+श्रीरङ्गराज-सेना-**न्ये**  
+सूत्रवत्या **समेयुषे** ॥ 2 ॥ 
 </details>
 
 
@@ -58,20 +69,20 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 (In the usual Guruparampara, Vishvaksena comes between Namm- azhwar and Lakshmi. Here, Vishvaksena gets a whole stanza to himself; his name was omitted in the previous stanza.) 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>मूलम्</summary>
 
-नमो नारायणायेदं  
-कृष्णद्वैपायनात्मने ।  
-यद्-आमुष्यायणा वेदाः  
-महाभारत-पञ्चमाः ॥ 3 ॥ 
+ओं नमो गज-वक्त्राद्यैः पारिषद्यैः प्रशासते ।
+श्रीरङ्गराज-सेनान्ये सूत्रवत्या समेयुषे ॥ 2 ॥
 </details>
 
 
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नमो नारायणायेदं कृष्णद्वैपायनात्मने ।
-यदामुष्यायणा वेदा महाभारत-पञ्चमाः ॥ 3 ॥ 
+**नमो** नारायणायेदं  
+कृष्ण-द्वैपायनात्मने ।  
+यद्-आमुष्यायणा वेदाः  
+महाभारत-पञ्चमाः ॥ 3 ॥ +++(5)+++
 </details>
 
 
@@ -80,12 +91,26 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 (3) Salutation to Narayana, who incarnated as Krishna Dvaipayana, to whom belong all the Vedas, with the Mahabharata which is the fifth Veda (because it is he that divided and made them available to the world). 
 </details>
 
+<details><summary>मूलम्</summary>
+
+नमो नारायणायेदं कृष्णद्वैपायनात्मने ।
+यदामुष्यायणा वेदा महाभारत-पञ्चमाः ॥ 3 ॥ 
+</details>
+
+## प्रतिज्ञा
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जातो लक्ष्मण-मिश्र+++(=रामानुज)+++-संश्रय-धनात् श्रीवत्स-चिह्नाद् ऋषेर्,  
-भूयो भट्टपराशरेति फणितः+++(=भणितः?)+++ श्रीरङ्ग-भर्त्रा स्वयम् ।  
-श्रीश्रीरङ्ग-पति-प्रसाद-तृषया श्रीरङ्ग-नाथाह्वयः  
-श्रीरङ्गेश्वर-कारितो विवृणुते नाम्नां सहस्रं हरेः ॥ 4 ॥ 
+**जातो** लक्ष्मण-मिश्र+++(=रामानुज)+++-**संश्रय**-धनात् श्रीवत्स-चिह्नाद् ऋषेर्,  
+भूयो भट्ट-पराशरेति **फणितः** श्रीरङ्ग-भर्त्रा स्वयम् ।  
+श्री-श्रीरङ्ग-पति-प्रसाद-**तृषया** श्रीरङ्ग-नाथाह्वयः  
+श्री-रङ्गेश्वर-**कारितो विवृणुते** नाम्नां सहस्रं हरेः ॥ 4 ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+(4) Inspired by Rangesa and given the title of Parasara Bhatta by the lord of Sriranga Himself, I, the person named Ranganatha, the son of the sage, Srivatsanka, who (the said Srivatsanka) ever considered his discipleship under Ramanuja as a great treasure - I now proceed to comment on the (holy) Names of lord Hari, with a view to obtain the blessings of Lord Ranganatha and His Consort, Sri Laksmi. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -96,40 +121,42 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 श्री-रङ्गेश्वर-कारितो विवृणुते नाम्नां सहस्रं हरेः ॥ 4 ॥ 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संसारो ऽयम् अ-पण्डितो भगवति प्राग् एव, भूयः कलौ,  
+पूर्णम्-**मन्यतमे** जने श्रुति-शिरो-**गुह्यं ब्रुवे** साहसात् ।  
+तत्र स्तोत्रम् इदं **प्रकाशयति** यः, **स्तुत्यश्** च यस् ताव् उभौ  
+व्यासः, कारुणिको हरिश् च तद् इदं मौर्ख्यं **सहेतां** मम ॥ ५ ॥+++(4)+++ 
+</details>
 
 <details><summary>English</summary>
 
-(4) Inspired by Rangesa and given the title of Parasara Bhatta by the lord of Sriranga Himself, I, the person named Ranganatha, the son of the sage, Srivatsanka, who (the said Srivatsanka) ever considered his discipleship under Ramanuja as a great treasure - I now proceed to comment on the (holy) Names of lord Hari, with a view to obtain the blessings of Lord Ranganatha and His Consort, Sri Laksmi. 
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-संसारो ऽयम् अपण्डितो भगवति प्राग् एव भूयः कलौ
-पूर्णम् अन्यतमे जने श्रुति-शिरोगुह्यं ब्रुवे साहसात् ।
-तत्र स्तोत्रम् इदं प्रकाशयति यः, स्तुत्यश् च यस् ताव् उभौ 
-व्यासः, कारुणिको हरिश् च तद् इदं मौर्ख्यं सहेतां मम ॥ ५ ॥+++(4)+++ 
+(5) In samsara (the world of recurring births and deaths) generally, there is already great ignorance about the Lord; more so in the Kaliyuga (the age of darkness and sin). And it is out of foolhardiness that I venture to speak to men who deem them-selves perfect, of the secret of the Vedanta. May Vyasa who composed this hymn of praise, and the Merciful Lord Hari who is the object of praise there in - may they both bear with me for this folly. 
 </details>
 
 <details><summary>मूलम्</summary>
 
 संसारो ऽयम् अपण्डितो भगवति प्राग् एव भूयः कलौ
-पूर्णमन्यतमे जने श्रुति-शिरो-गुह्यं ब्रुवे साहसात् ।
+पूर्णंमन्यतमे जने श्रुति-शिरो-गुह्यं ब्रुवे साहसात् ।
 तत्र स्तोत्रम् इदं प्रकाशयति यः स्तुत्यश् च यस् ताव् उभौ
 व्यासः कारुणिको हरिश् च तद् इदं मौर्ख्यं सहेतां मम ॥ 5 ॥
 </details>
 
 
-<details><summary>English</summary>
-
-(5) In samsara (the world of recurring births and deaths) generally, there is already great ignorance about the Lord; more so in the Kaliyuga (the age of darkness and sin). And it is out of foolhardiness that I venture to speak to men who deem them- -selves perfect, of the secret of the Vedanta. May Vyasa who composed this hymn of praise, and the Merciful Lord Hari who is the object of praise there in - may they both bear with me for this folly. 
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर्थे हरौ, तदभिधायिनि नाम-वर्गे,
-तद्-व्यञ्जके मयि च बन्ध-विशेषमेत्य ।
-सेवध्वम् एतद् अमृतं प्रणिपत्य याचे
-मध्यस्थ-मत्सरि-जना इह मा च भूवन् ॥ ६ ॥+++(5)+++ 
+अर्थे हरौ, तद्-अभिधायिनि नाम-वर्गे,
+तद्-व्यञ्जके मयि च बन्ध-विशेषम् **एत्य** ।
+**सेवध्वम्** एतद् अमृतं **प्रणिपत्य याचे**
+मध्यस्थ-मत्सरि-जना इह **मा च भूवन्** ॥ ६ ॥+++(5)+++ 
+</details>
+
+
+<details><summary>English</summary>
+
+(6) I prostrate and pray (to you, kind readers): please place faith in Lord Hari and the collection of his Names and feel kindly towards me who attempt to explain the Names, and drink this nectar. Let there be no indifference or enmity in the matter. 
+
+(After the above preliminary and benedictory verses Parasara Bhatta proceeds with the preface to his Commentary.)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -140,22 +167,34 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 मध्यस्थ-मत्सरि-जना इह मा च भूवन् ॥ 6 ॥
 </details>
 
-
-<details><summary>English</summary>
-
-(6) I prostrate and pray (to you, kind readers): please place faith in Lord Hari and the collection of his Names and feel kindly towards me who attempt to explain the Names, and drink this nectar. Let there be no indifference or enmity in the matter. 
-
-(After the above preliminary and benedictory verses Parasara Bhatta proceeds with the preface to his Com- mentary.)
-</details>
-
-## श्रीरामायणवत् महाभारतस्य प्रामाण्यसमर्थनम्
+## रामायणवत् महाभारत-प्रामाण्यम्
 <details><summary>English</summary>
 THE VALIDITY OF MAHABHARATA. LIKE RAMAYANA
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इह खलु निखिलो ऽपि चेतयमानः प्रमाणतः प्रमेयं परिच्छिन्दन्, तच् चेत् प्रमेयम् अनुकूलं तद् उपाददीत, यथा स्रक्-चन्दन-कनकादिकम्; तच् चेत् विपरीतम् अपोहेत, यथा क्षुर-कण्टकादिकम्; तच् चेत् अनुभय-रूपम् उपेक्षेत, यथा काष्ठ-लोष्टादिकम् । तत्र प्रत्यक्षादि-प्रमाणान्तर-गोचरयोः अर्थ-कामयोः अत्यल्पत्वानर्थकरत्व-बीभत्स्यत्व-भङ्गुरत्व-दुःख-मिश्रत्व-दुस्साधनत्वाद्य्-अनन्त-दोषानुषङ्गेण त्याज्यत्वात्; शास्त्र-प्रमेययोः धर्म-पर-तत्त्वयोः तद्-वैपरीत्याद् अनन्त-मङ्गल-सङ्गतत्वाच् च, शास्त्र-तदर्थयोः उपादेयत्वं प्रकृष्यते। यथा आहुः ऐतिहासिकाः पौराणिकाश् च एक-कण्ठाः —
+इह खलु निखिलो ऽपि चेतयमानः  
+प्रमाणतः प्रमेयं परिच्छिन्दन्,  
+तच् चेत् प्रमेयम् अनुकूलं तद् उपाददीत,  
+यथा स्रक्-चन्दन-कनकादिकम्;  
+तच् चेत् विपरीतम् अपोहेत,  
+यथा क्षुर-कण्टकादिकम्;  
+तच् चेद् अनुभय-रूपम् - उपेक्षेत,  
+यथा काष्ठ-लोष्टादिकम् । 
+</details>
+
+<details><summary>English</summary>
+
+We see in the world that any intelligent person, after having gained some knowledge of the objects of human pur- suit through the sources of knowledge (such as perception; in- ference etc. ). desires to enjoy the good things of life like flow- ers, sandal, gold, etc., to eschew things like knife, thorns, etc., which are unpleasant, and is indifferent to neutral things like a piece of wood or mud. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र प्रत्यक्षादि-प्रमाणान्तर-गोचरयोर् अर्थ-कामयोर्  
+अत्यल्पत्वानर्थकरत्व-बीभत्स्यत्व-- भङ्गुरत्व--दुःख-मिश्रत्व-- दुस्साधनत्वाद्य्-अनन्त-दोषानुषङ्गेण त्याज्यत्वात्;  
+शास्त्र-प्रमेययोः धर्म-पर-तत्त्वयोः तद्-वैपरीत्याद् अनन्त-मङ्गल-सङ्गतत्वाच् च, शास्त्र-तदर्थयोः उपादेयत्वं प्रकृष्यते। यथा आहुः ऐतिहासिकाः पौराणिकाश् च एक-कण्ठाः —
 
 > सत्यं सत्यं पुनः सत्यम् उद्धृत्य भुजम् उच्यते ।
 > वेद-शास्त्रात् परं नास्ति न दैवं केशवात् परम् ॥ (भारत-भीष्म.)
@@ -170,7 +209,7 @@ THE VALIDITY OF MAHABHARATA. LIKE RAMAYANA
 
 <details><summary>English</summary>
 
-We see in the world that any intelligent person, after having gained some knowledge of the objects of human pur- suit through the sources of knowledge (such as perception; in- ference etc. ). desires to enjoy the good things of life like flow- ers, sandal, gold, etc., to eschew things like knife, thorns, etc., which are unpleasant, and is indifferent to neutral things like a piece of wood or mud. Of these, the two purusharthas (objects desired by men) known as artha and kama (wealth and pleasure) are experienced by means of actual direct perception and inference. They are to be given up, because they are associated with innumerable imperfections like the following;- they are (1) petty, (2) lead to harmful conse- quences. (3) are disgusting, ( 4) are evanescent,(5) are mixed with distressful things, and (6) are not even easily obtainable. On the other hand, (the other two primary objects of human pur- suit), dharma (virtue) and paratattva (salvation) can be learnt only from the scriptures. These are opposed to the other two purusharthas (i.e. artha and kama) and are full of beneficent qualities. Therefore, the sastras (scriptures and works of reli- gious authority) and their teachings are to be preferred. As is proclaimed with one voice by those learned in the Itihasas (epic history) and the Puranas: "Truth, this is the Truth and again the Truth. This is procla- imed with hands uplifted that there is no sastra (authority) higher than the Vedas, no God higher than Kesava." As regards the V edas, the highest of the fourteen subjects of' study (vidyasthanas), they are to be understood in their fullest extent and scope through the ltihasas and Puranas. It is also said that "Veda trembles with fear at the sight of ignorant or half-learned persons, thinking, 'They will betray me' (by mis- interpretation):' Hence, it is clear that the understanding or interpretation of the Vedas can be done only through the study of the Itihasas and Puranas ; and of these two since the Puranas are mentio- ned subsequent to ltihasas, the Itihasas are more important. [This reasoning is arrived at according to rules of grammar . In a copulative (dvandva) compound, the word with less number of vowels must be mentioned first, except in that case where the thing denoted by the word with the larger number of vowels is preferred for some reason .] Hence, the Mahabharata, like the Ramayana, is the proper refuge for us (to understand the Vedas.)
+Of these, the two purusharthas (objects desired by men) known as artha and kama (wealth and pleasure) are experienced by means of actual direct perception and inference. They are to be given up, because they are associated with innumerable imperfections like the following;- they are (1) petty, (2) lead to harmful conse- quences. (3) are disgusting, ( 4) are evanescent,(5) are mixed with distressful things, and (6) are not even easily obtainable. On the other hand, (the other two primary objects of human pur- suit), dharma (virtue) and paratattva (salvation) can be learnt only from the scriptures. These are opposed to the other two purusharthas (i.e. artha and kama) and are full of beneficent qualities. Therefore, the sastras (scriptures and works of reli- gious authority) and their teachings are to be preferred. As is proclaimed with one voice by those learned in the Itihasas (epic history) and the Puranas: "Truth, this is the Truth and again the Truth. This is procla- imed with hands uplifted that there is no sastra (authority) higher than the Vedas, no God higher than Kesava." As regards the V edas, the highest of the fourteen subjects of' study (vidyasthanas), they are to be understood in their fullest extent and scope through the ltihasas and Puranas. It is also said that "Veda trembles with fear at the sight of ignorant or half-learned persons, thinking, 'They will betray me' (by mis- interpretation):' Hence, it is clear that the understanding or interpretation of the Vedas can be done only through the study of the Itihasas and Puranas ; and of these two since the Puranas are mentio- ned subsequent to ltihasas, the Itihasas are more important. [This reasoning is arrived at according to rules of grammar . In a copulative (dvandva) compound, the word with less number of vowels must be mentioned first, except in that case where the thing denoted by the word with the larger number of vowels is preferred for some reason .] Hence, the Mahabharata, like the Ramayana, is the proper refuge for us (to understand the Vedas.)
 </details>
 
 ## श्रीसहस्रनामाध्यायोत्कर्षसमर्थनम्
