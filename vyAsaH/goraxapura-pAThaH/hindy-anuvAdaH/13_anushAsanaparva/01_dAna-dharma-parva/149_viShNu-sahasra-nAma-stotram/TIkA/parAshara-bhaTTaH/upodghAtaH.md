@@ -36,7 +36,7 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 
 <details><summary>English</summary>
 
-(1) My salutation to Govinda (Embar) and my father (Srivatsanka). I contemplate on Lakshmanarya (Sri Ramanuja) and meditate on Mahan (Peria Nambi). My mind be full of Yamunarya (Alavandar). I approach respectfully Ramamisra. May I see face to face Pundari- kaksha Acharya. I adore Natha-muni, the first of our Acharyas. My adorations and praises go to Satari (i.e., Nammazhvar). May I have a vision of Lakshmi. Helpless as I am I surrender myself unto Sridhara (i.e., the Lord of Lakshmi). 
+(1) My salutation to Govinda (Embar) and my father (Srivatsanka). I contemplate on Lakshmanarya (Sri Ramanuja) and meditate on Mahan (Peria Nambi). My mind be full of Yamunarya (Alavandar). I approach respectfully Ramamisra. May I see face to face Pundarikaksha Acharya. I adore Natha-muni, the first of our Acharyas. My adorations and praises go to Satari (i.e., Nammazhvar). May I have a vision of Lakshmi. Helpless as I am I surrender myself unto Sridhara (i.e., the Lord of Lakshmi). 
 
 (Thus, the Guru-parampara, the line of spiritual precepters, is extolled.)
 
@@ -66,7 +66,7 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 
 (2) Salutation to Vishvaksena, the commander-in-chief of Lord Sri Ranga, and who rules with his followers, such as Gajanana, and who is ever with Sutravati (his wife). 
 
-(In the usual Guruparampara, Vishvaksena comes between Namm- azhwar and Lakshmi. Here, Vishvaksena gets a whole stanza to himself; his name was omitted in the previous stanza.) 
+(In the usual Guruparampara, Vishvaksena comes between Nammazhwar and Lakshmi. Here, Vishvaksena gets a whole stanza to himself; his name was omitted in the previous stanza.) 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -167,49 +167,71 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 मध्यस्थ-मत्सरि-जना इह मा च भूवन् ॥ 6 ॥
 </details>
 
-## रामायणवत् महाभारत-प्रामाण्यम्
-<details><summary>English</summary>
-THE VALIDITY OF MAHABHARATA. LIKE RAMAYANA
-</details>
-
+## पुरुषार्थ-प्रमाणानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इह खलु निखिलो ऽपि चेतयमानः  
-प्रमाणतः प्रमेयं परिच्छिन्दन्,  
-तच् चेत् प्रमेयम् अनुकूलं तद् उपाददीत,  
+इह खलु निखिलो ऽपि **चेतयमानः**  
+प्रमाणतः प्रमेयं **परिच्छिन्दन्**,  
+तच् चेत् प्रमेयम् अनुकूलं तद् **उपाददीत**,  
 यथा स्रक्-चन्दन-कनकादिकम्;  
-तच् चेत् विपरीतम् अपोहेत,  
+
+तच् चेत् विपरीतम् **अपोहेत**,  
 यथा क्षुर-कण्टकादिकम्;  
-तच् चेद् अनुभय-रूपम् - उपेक्षेत,  
+
+तच् चेद् अनुभय-रूपम् - **उपेक्षेत**,  
 यथा काष्ठ-लोष्टादिकम् । 
 </details>
 
 <details><summary>English</summary>
 
-We see in the world that any intelligent person, after having gained some knowledge of the objects of human pur- suit through the sources of knowledge (such as perception; in- ference etc. ). desires to enjoy the good things of life like flow- ers, sandal, gold, etc., to eschew things like knife, thorns, etc., which are unpleasant, and is indifferent to neutral things like a piece of wood or mud. 
+We see in the world that any intelligent person, after having gained some knowledge of the objects of human pursuit through the sources of knowledge (such as perception; inference etc. ). desires to enjoy the good things of life like flowers, sandal, gold, etc., to eschew things like knife, thorns, etc., which are unpleasant, and is indifferent to neutral things like a piece of wood or mud. 
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र प्रत्यक्षादि-प्रमाणान्तर-गोचरयोर् अर्थ-कामयोर्  
-अत्यल्पत्वानर्थकरत्व-बीभत्स्यत्व-- भङ्गुरत्व--दुःख-मिश्रत्व-- दुस्साधनत्वाद्य्-अनन्त-दोषानुषङ्गेण त्याज्यत्वात्;  
-शास्त्र-प्रमेययोर् धर्म-पर-तत्त्वयोस् तद्-वैपरीत्याद् अनन्त-मङ्गल-सङ्गतत्वाच् च, शास्त्र-तदर्थयोर् उपादेयत्वं प्रकृष्यते। यथाहुर् ऐतिहासिकाः पौराणिकाश् चैक-कण्ठाः —
+अत्यल्पत्वानर्थकरत्व-बीभत्स्यत्व-- भङ्गुरत्व--दुःख-मिश्रत्व-- दुस्साधनत्वाद्य्-अनन्त-दोषानुषङ्गेण **त्याज्यत्वात्**;  
+शास्त्र-प्रमेययोर् धर्म--पर-तत्त्वयोस् तद्-वैपरीत्याद्  
+अनन्त-मङ्गल-सङ्गतत्वाच् च,  
+शास्त्र--तद्-अर्थयोर् **उपादेयत्वं प्रकृष्यते**। 
+</details>
 
-> सत्यं सत्यं पुनस् सत्यम् उद्धृत्य भुजम् उच्यते ।
-> वेद-शास्त्रात् परं नास्ति न दैवं केशवात् परम् ॥ (भारत-भीष्म.)
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति। तत्र चतुर्दश-विद्या-स्थान-प्रधान-भूतस्य वेदस्य
+यथाहुर् ऐतिहासिकाः पौराणिकाश् चैक-कण्ठाः —
+
+> सत्यं सत्यं पुनस् सत्यम्  
+> उद्धृत्य भुजम् **उच्यते** ।
+> वेद-शास्त्रात् परं नास्ति  
+> न दैवं केशवात् परम् ॥  
+> (भारत-भीष्म.)
+
+इति। 
+</details>
+
+
+
+## महाभारत-प्रामाण्यम्
+<details><summary>English</summary>
+THE VALIDITY OF MAHABHARATA. LIKE RAMAYANA
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र चतुर्दश-विद्या-स्थान-प्रधान-भूतस्य वेदस्य
 
 > इतिहास-पुराणाभ्यां वेदं समुपबृंहयेत् ।
 > बिभेत्य् अल्प-श्रुताद् वेदो माम् अयं प्रतरिष्यति ॥ (भारतादि 1-273)
 
-इति प्रकारेणेतिहास-पुराणाभ्याम् अर्थे निर्णेतव्ये, पुराणेभ्य इतिहासोत्कर्षे च विवक्षिते, श्रीमद्-रामायणवत् महाभारतं शरणम् ॥
+इति प्रकारेणेतिहास-पुराणाभ्याम् अर्थे निर्णेतव्ये,  
+पुराणेभ्य इतिहासोत्कर्षे च विवक्षिते,  
+श्रीमद्-रामायणवत् महाभारतं शरणम् ॥
 </details>
 
 <details><summary>English</summary>
 
-Of these, the two purusharthas (objects desired by men) known as artha and kama (wealth and pleasure) are experienced by means of actual direct perception and inference. They are to be given up, because they are associated with innumerable imperfections like the following;- they are (1) petty, (2) lead to harmful conse- quences. (3) are disgusting, ( 4) are evanescent,(5) are mixed with distressful things, and (6) are not even easily obtainable. On the other hand, (the other two primary objects of human pur- suit), dharma (virtue) and paratattva (salvation) can be learnt only from the scriptures. These are opposed to the other two purusharthas (i.e. artha and kama) and are full of beneficent qualities. Therefore, the sastras (scriptures and works of reli- gious authority) and their teachings are to be preferred. As is proclaimed with one voice by those learned in the Itihasas (epic history) and the Puranas: "Truth, this is the Truth and again the Truth. This is procla- imed with hands uplifted that there is no sastra (authority) higher than the Vedas, no God higher than Kesava." As regards the V edas, the highest of the fourteen subjects of' study (vidyasthanas), they are to be understood in their fullest extent and scope through the ltihasas and Puranas. It is also said that "Veda trembles with fear at the sight of ignorant or half-learned persons, thinking, 'They will betray me' (by mis- interpretation):' Hence, it is clear that the understanding or interpretation of the Vedas can be done only through the study of the Itihasas and Puranas ; and of these two since the Puranas are mentio- ned subsequent to ltihasas, the Itihasas are more important. [This reasoning is arrived at according to rules of grammar . In a copulative (dvandva) compound, the word with less number of vowels must be mentioned first, except in that case where the thing denoted by the word with the larger number of vowels is preferred for some reason .] Hence, the Mahabharata, like the Ramayana, is the proper refuge for us (to understand the Vedas.)
+Of these, the two purusharthas (objects desired by men) known as artha and kama (wealth and pleasure) are experienced by means of actual direct perception and inference. They are to be given up, because they are associated with innumerable imperfections like the following;- they are (1) petty, (2) lead to harmful consequences. (3) are disgusting, ( 4) are evanescent,(5) are mixed with distressful things, and (6) are not even easily obtainable. On the other hand, (the other two primary objects of human pursuit), dharma (virtue) and paratattva (salvation) can be learnt only from the scriptures. These are opposed to the other two purusharthas (i.e. artha and kama) and are full of beneficent qualities. Therefore, the sastras (scriptures and works of religious authority) and their teachings are to be preferred. As is proclaimed with one voice by those learned in the Itihasas (epic history) and the Puranas: "Truth, this is the Truth and again the Truth. This is proclaimed with hands uplifted that there is no sastra (authority) higher than the Vedas, no God higher than Kesava." As regards the V edas, the highest of the fourteen subjects of' study (vidyasthanas), they are to be understood in their fullest extent and scope through the ltihasas and Puranas. It is also said that "Veda trembles with fear at the sight of ignorant or half-learned persons, thinking, 'They will betray me' (by misinterpretation):' Hence, it is clear that the understanding or interpretation of the Vedas can be done only through the study of the Itihasas and Puranas ; and of these two since the Puranas are mentioned subsequent to ltihasas, the Itihasas are more important. [This reasoning is arrived at according to rules of grammar . In a copulative (dvandva) compound, the word with less number of vowels must be mentioned first, except in that case where the thing denoted by the word with the larger number of vowels is preferred for some reason .] Hence, the Mahabharata, like the Ramayana, is the proper refuge for us (to understand the Vedas.)
 </details>
 
 ## सहस्र-नामाध्यायोत्कर्षः
@@ -222,13 +244,13 @@ GREATNESS OF THE CHAPTER ON SAHASRANAMA
 तत्र —
 
 महाभारत-सारत्वाद्  
-ऋषिभिः परिगानतः ।
-वेदाचार्य-समाहाराद्  
+ऋषिभिः **परिगानतः** ।
+वेदाचार्य-**समाहाराद्**  
 भीष्मोत्कृष्ट-मतत्वतः ॥
-परिग्रहातिशयतो  
+**परिग्रहातिशयतो**  
 गीताऽऽद्य्-ऐकार्थ्यतश् च नः ।
 सहस्र-नामाध्याय  
-उपादेयतमो मतः ॥
+**उपादेयतमो** मतः ॥
 </details>
 
 
@@ -242,69 +264,207 @@ This chapter of Sahasranama or The Thousand Names (1) is the essence of respecte
 
 **महाभारतोत्कर्ष-समर्थन-पूर्वकं महाभारत-सारत्व-कथनम्**
 
-महाभारतं हि परिग्रह-विशेषावसिताविप्लव-वचन-सौष्ठवाद्यात्मकत्वाद् इतिहासत्वकृतात् प्राबल्यात्, पुराणेषु तावद् वायु-प्रोक्त-शैवयोः —
+महाभारतं हि  
+परिग्रह-विशेषावसिताविप्लव-वचन-- सौष्ठवाद्य्-आत्मकत्वाद्  
+</details>
 
-> मति-मन्थानम् आविध्य येनासौ श्रुति-सागरात् ।
-> जगद्धिताय जनितो महाभारत-चन्द्रमाः ॥
+<details><summary>English</summary>
+
+(1) ESSENCE OF THE MAHABHARATA - The Mahabharata is considered by great men as a great authority, with clearly worded and well-constructed sentences and phrases 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इतिहासत्व-कृतात् प्राबल्यात्,  
+</details>
+
+<details><summary>English</summary>
+
+and more so, because it is an Itihasa 
+</details>
+
+#### पुराणैः प्रशंसा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुराणेषु तावद् वायु-प्रोक्त-शैवयोः —
+
+> मति-**मन्थानम् आविध्य**  
+> येनासौ श्रुति-सागरात् ।
+> जगद्धिताय जनितो  
+> महाभारत-चन्द्रमाः ॥
+</details>
+
+<details><summary>English</summary>
+
+Both in the Vayu Purana and the Saiva Purana, it is said of this great Itihasa: 
+
+"The venerable Vyasa churned the ocean of the Vedas, using his intellect as the churning rod and produced for the good of the world, this moon called the Mahabharata". 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भविष्यत्-पुराणे —
 
-> बिभेति गहनाच् छास्त्रान् नरस् तीव्रादिवौषधात् ।
-> भारतश् शास्त्र-सारो ऽयम् अतः काव्यात्मना कृतः ॥
+> **बिभेति** गहनाच् छास्त्रान्  
+> नरस् तीव्राद् इवौषधात् ।
+> भारतश् शास्त्र-सारो ऽयम्  
+> अतः काव्यात्मना **कृतः** ॥
+</details>
+
+<details><summary>English</summary>
+
+Bhavishyat Purana :- "Man is afraid of the sastras like a diseased man of a bitter drug. Hence it is that the essence of all the sastras has been used to bring forth this Mahabharata as a delightful poem". 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मात्स्ये —
 
-> यस्य द्वैपायनः पुत्रः स्वयं विष्णुर् अजायत ।
-> प्रकाशो जनितो येन महाभारत-चन्द्रमाः ॥
-
-वैष्णवे —
-
-> कृष्ण-द्वैपायनं व्यासं विद्धि नारायणं प्रभुम् ।
-> को ह्य् अन्यो भुवि मैत्रेय ! महाभारत-कृद् भवेत् ॥ (विष्णु-पुराण ३.४.५)
-
-मार्कण्डेये —
-
-> व्यास-वाक्य-जलौघेन कुधर्म-तरु-हारिणा ।
-> वेद-शैलावतीर्णेन नीरजस्का मही कृता ॥
-
-इत्यादिभिः; स्वस्मिंश् च
-
-> यो विद्याच् चतुरो वेदान् साङ्गोपनिषदान् द्विजः ।
-> न चाख्यानम् इदं विद्यान् नैव स स्याद् विचक्षणः ॥ (भार. आदि. २.३७६)
-
-इत्यादिभिश् च परस्सहस्रैर् वचनैः प्रशस्यमानत्वात्;
+> यस्य द्वैपायनः पुत्रः  
+> स्वयं विष्णुर् **अजायत** ।
+> प्रकाशो **जनितो** येन  
+> महाभारत-चन्द्रमाः ॥
 </details>
 
 
 <details><summary>English</summary>
 
-(1) ESSENCE OF THE MAHABHARATA - The Mahabharata is considered by great men as a great authority, and more so, because it is an Itihasa with clearly worded and well-constr- ucted sentences and phrases. Both in the Vayu Purana and the Saiva Purana, it is said of this great Itihasa: "The venerable Vyasa churned the ocean of the Vedas, using his intellect as the churning rod and produced for the good of the world, this moon called the Mahabharata". Bhavishyat Purana :- "Man is afraid of the sastras like a diseased man of a bitter drug. Hence it is that the essence of all the sastras has been used to bring forth this Mahabharata as a delightful poem". Matsya Purana :- "God Vishnu himself was born as the son of Parasara called Krishna Dvaipayana, by whom, for the sake of lighting the world, the moon named the Mahabharata was produced". Vishnu Purana :- Know then that Vyasa, called Dvaipayana, is no other than Lord Narayana Himself. Who else could have produced this great work, the Mahabh- arata ?" So also does the Markan- deya Purana say: "This world has been sanctified and has been made free of impurities by the floods of the (holy) words of Vyasa, descending from the high mountain of the Vedas, and cutting at the very roots the trees of false and perverted dharmas". In the Mahabharata itself it is stated that a Brah- min who is not versed in this Itihasa, but only in the four Vedas, Vedangas and Upanishads, is not learned". Thus, the Mahabharata is extolled by thousands of sayings. - 
+Matsya Purana :- "God Vishnu himself was born as the son of Parasara called Krishna Dvaipayana, by whom, for the sake of lighting the world, the moon named the Mahabharata was produced". 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैष्णवे —
+
+> कृष्ण-द्वैपायनं व्यासं  
+> **विद्धि** नारायणं प्रभुम् ।
+> को ह्य् अन्यो भुवि मैत्रेय !  
+> महाभारत-**कृद् भवेत्** ॥  
+> (विष्णु-पुराण ३.४.५)
+</details>
+
+<details><summary>English</summary>
+
+Vishnu Purana :- Know then that Vyasa, called Dvaipayana, is no other than Lord Narayana Himself. Who else could have produced this great work, the Mahabharata ?" 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मार्कण्डेये —
+
+> व्यास-वाक्य-जलौघेन  
+> कु-धर्म-तरु-**हारिणा** ।
+> वेद-शैलावतीर्णेन  
+> नी-रजस्का मही **कृता** ॥
+
+इत्यादिभिः; 
+</details>
+
+<details><summary>English</summary>
+
+So also does the Markandeya Purana say: "This world has been sanctified and has been made free of impurities by the floods of the (holy) words of Vyasa, descending from the high mountain of the Vedas, and cutting at the very roots the trees of false and perverted dharmas". 
+</details>
+
+#### स्वप्रशंसा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वस्मिंश् च
+
+> यो विद्याच् चतुरो वेदान्  
+> साङ्गोपनिषदान् द्विजः ।
+> न चाख्यानम् इदं विद्यान्  
+> नैव स स्याद् विचक्षणः ॥  
+> (भार. आदि. २.३७६)
+
+इत्य्-आदिभिश् च  
+परस्सहस्रैर् वचनैः प्रशस्यमानत्वात्;
+</details>
+
+<details><summary>English</summary>
+
+
+In the Mahabharata itself it is stated that a Brahmin who is not versed in this Itihasa, but only in the four Vedas, Vedangas and Upanishads, is not learned". Thus, the Mahabharata is extolled by thousands of sayings. - 
+</details>
+
+#### सर्व-संवादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साङ्ग-श्रुति-स्मृतीतिहास-पुराण-संवादात् — 
 
-> यद् इहास्ति तद् अन्यत्र यन् नेहास्ति न तत् क्वचित् । (भार. आदि. ६२-५३)
+> यद् इहास्ति तद् अन्यत्र  
+> यन् नेहास्ति न तत् क्वचित् ।  
+> (भार. आदि. ६२-५३)
 
-इति लौकिक-वैदिक-सकलार्थ-निर्णयाधिकृतत्वेन क्वचिद् अप्य् अपक्षपातित्वाच् च; पुराणेभ्यो बलवत्तरं बहवो बुद्धिशालिनो ऽध्यवससुः ॥
+इति,  
+
 </details>
 
 
 <details><summary>English</summary>
 
-This work follows and is consistent with the Vedas, the books of sacred law, Itihasas and Puranas with all their sub- sidiary parts or auxiliaries. Indeed, it is said: * 'What is found here is to be found elsewhere; whate- ver is not found here cannot be found elsewhere". Thus, whatever is performed or is to be performed for salvation, according to the Vedas etc., " and whatever is to be performed by way of worldly conduct are dealt with here and laid down in no uncertain terms and with- out bias or partiality. For all these reasons, many wise men have concluded that the Mahabharata is more precious than any other Purana. 
+This work follows and is consistent with the Vedas, the books of sacred law, Itihasas and Puranas with all their subsidiary parts or auxiliaries. Indeed, it is said: * 'What is found here is to be found elsewhere; whatever is not found here cannot be found elsewhere". Thus, whatever is performed or is to be performed for salvation, according to the Vedas etc., "  
 </details>
+
+#### अपक्षपातः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लौकिक-वैदिक-सकलार्थ-निर्णयाधिकृतत्वेन  
+क्वचिद् अप्य् अपक्षपातित्वाच् च;  
+</details>
+
+<details><summary>English</summary>
+
+and whatever is to be performed by way of worldly conduct are dealt with here and laid down in no uncertain terms and without bias or partiality. 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्रापि स्व-हृदय-भूते आनुशासनिके पर्वणि दान-धर्मेषु समस्त-शास्त्रार्थे निष्कृष्य निगम्यमाने, सार-संग्रह-रूपेण खल्व् अयं सहस्र-नामाध्यायो ऽवतारितः। तस्मात् प्रामाण्य-कारण-प्रकर्षेण तत्त्वार्थ-तात्पर्य-लिङ्गैश् चाप्रामाण्य-प्रशंसाद्य्-अन्य-परत्व-शङ्कयोः सुदूर-निरस्तत्वेन परम-प्रकृष्टार्थ-प्रतिपादकत्वाच् च;
+पुराणेभ्यो बलवत्तरं बहवो बुद्धिशालिनो ऽध्यवससुः ॥
 </details>
 
 
 <details><summary>English</summary>
 
-This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is the heart of the Itihasa, and in the context of expounding the duty of charity, for the purpose of laying down the essence of the sastras in a short and abbrevi- ated form. As this work teaches us the highest goal, and as the doubts about its authoritativeness and its being intended as a mere matter of praise are dispelled (literally thrown far out) by the excellence of the reasons to prove that it is authoritative' and by the possession of the characteristics that this work deals with the Ultimate Reality, this work is eminently fit to be taken up by persons desirous of worldly prosperity or Action. 
+For all these reasons, many wise men have concluded that the Mahabharata is more precious than any other Purana. 
+</details>
+
+### निष्कर्षकता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्रापि स्व-हृदय-भूते आनुशासनिके पर्वणि दान-धर्मेषु  
+समस्त-शास्त्रार्थे निष्कृष्य निगम्यमाने, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सार-संग्रह-रूपेण खल्व् अयं सहस्र-नामाध्यायो ऽवतारितः। 
+</details>
+
+<details><summary>English</summary>
+
+This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is the heart of the Itihasa, and in the context of expounding the duty of charity, for the purpose of laying down the essence of the sastras in a short and abbreviated form.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् प्रामाण्य-कारण-प्रकर्षेण  
+तत्त्वार्थ-तात्पर्य-लिङ्गैश् च  
+अप्रामाण्य-प्रशंसाद्य्-अन्य-परत्व-शङ्कयोः सु-दूर-निरस्तत्वेन  
+परम-प्रकृष्टार्थ-प्रतिपादकत्वाच् च;
+</details>
+
+
+<details><summary>English</summary>
+
+ As this work teaches us the highest goal, and as the doubts about its authoritativeness and its being intended as a mere matter of praise are dispelled (literally thrown far out) by the excellence of the reasons to prove that it is authoritative' and by the possession of the characteristics that this work deals with the Ultimate Reality, this work is eminently fit to be taken up by persons desirous of worldly prosperity or Action. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,7 +478,7 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 
 <details><summary>English</summary>
 
-(2) So also - "sung by rishis", Great sages like Saunaka, ! Sanatk- umara, Narada" etc., have sung, reciting the names with their full meaning and import. - 
+(2) So also - "sung by rishis", Great sages like Saunaka, ! Sanatkumara, Narada" etc., have sung, reciting the names with their full meaning and import. - 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -330,7 +490,7 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 
 <details><summary>English</summary>
 
-(3) "Collated together by the Vedacharya". The exposition of the above is as follows:- The venerable teacher of the Vedas, Krishna Dvaipayana, is the most reliable (of teachers). For, He is an incarna- tion of the Supreme Lord Narayana, endowed with unsurpassed knowledge and other auspicious qualities, such as aisvarya, and not subject to any imperfec tions like confusion of mind or tendency to mislead others, or indifference. And he, being inspired solely with the desire to benefit the men of Kaliyuga, who are generally of dull minds, divided and arranged the Vedas. He composed the Maha bharata, called the fifth Veda, with the object of dispelling the ignorance, doubts or pervers e misconceptions of the people about the Real Truth and teaching the principles of good conduct enshrined in the Vedas. Look at the nobility of his ancestry. He is the great- grandson of Vasishta who, by a word of his, ennobled Visvamitra, a Kshatriya, into a Brahmin; is the son of Parasara who is extolled by the Linga Purana as a great soul, who had attained, by the grace of Vasishta and Pulastya, the true vision of the Reality and who attained eminence as the author of a purana (the Vishnu Purana). He is respected by assemblage of the rishis as one who has performed penances and yoga of unsurpassed austerity. Thus by him th e Names of Vishnu, which were sung by various sages, had been strung together in the form of a hymn of praise. Hence, this Chapter of Thousand Names has to be accepted as most beneficial (to mankind). 
+(3) "Collated together by the Vedacharya". The exposition of the above is as follows:- The venerable teacher of the Vedas, Krishna Dvaipayana, is the most reliable (of teachers). For, He is an incarnation of the Supreme Lord Narayana, endowed with unsurpassed knowledge and other auspicious qualities, such as aisvarya, and not subject to any imperfec tions like confusion of mind or tendency to mislead others, or indifference. And he, being inspired solely with the desire to benefit the men of Kaliyuga, who are generally of dull minds, divided and arranged the Vedas. He composed the Maha bharata, called the fifth Veda, with the object of dispelling the ignorance, doubts or pervers e misconceptions of the people about the Real Truth and teaching the principles of good conduct enshrined in the Vedas. Look at the nobility of his ancestry. He is the greatgrandson of Vasishta who, by a word of his, ennobled Visvamitra, a Kshatriya, into a Brahmin; is the son of Parasara who is extolled by the Linga Purana as a great soul, who had attained, by the grace of Vasishta and Pulastya, the true vision of the Reality and who attained eminence as the author of a purana (the Vishnu Purana). He is respected by assemblage of the rishis as one who has performed penances and yoga of unsurpassed austerity. Thus by him th e Names of Vishnu, which were sung by various sages, had been strung together in the form of a hymn of praise. Hence, this Chapter of Thousand Names has to be accepted as most beneficial (to mankind). 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -430,7 +590,7 @@ Not only this. Even the Supreme Lord, Sri Krishna Himself (exhorted Dharmaraja t
 
 <details><summary>English</summary>
 
-The venerable Narada also (said) : "He knows fully well all the dharmas of the four varnas (castes). Hence tell him all your doubts (and get them cleared)". Narada also praised Bhishma as one of great eminence who had attained the vision of God on account of his association with and service to great rishis and elders, and also by his life-long and uninterrupted observance of celibacy, penance and contemplation. He also blessed Bhishma and directed him to expound to the listeners not only the Ultimate Truth but also the dharmas and rules of conduct. Moreover, Bhishma has already received the bless- ings of his father and mother by his services to them. Bhishma himself said these words about his knowledge of the Supreme Truth: "O Govinda ! By The grace and The blessings, the heat of the body, doubts, weariness, languor, exhaustion, disease, have all vanished from me. I see like a fruit in the palm of my hand, the past, the present and the future. O Achyuta, ! By Thy gracious gift are present in my mind all the dharmas mentioned in the Vedas and laid down in the Vedantas. By Thy grace again, O Janardana, and by constant contemplation on Thee, I feel strong like a young man and I can expound the dharmas". Such a Bhishma introduced the subject of the Thousand Names in these words. "I consider this dharma as the highest of the dharmas," and expressed his view that the chanting of the Thousand Names was his greatest mata or creed of faith. 
+The venerable Narada also (said) : "He knows fully well all the dharmas of the four varnas (castes). Hence tell him all your doubts (and get them cleared)". Narada also praised Bhishma as one of great eminence who had attained the vision of God on account of his association with and service to great rishis and elders, and also by his life-long and uninterrupted observance of celibacy, penance and contemplation. He also blessed Bhishma and directed him to expound to the listeners not only the Ultimate Truth but also the dharmas and rules of conduct. Moreover, Bhishma has already received the blessings of his father and mother by his services to them. Bhishma himself said these words about his knowledge of the Supreme Truth: "O Govinda ! By The grace and The blessings, the heat of the body, doubts, weariness, languor, exhaustion, disease, have all vanished from me. I see like a fruit in the palm of my hand, the past, the present and the future. O Achyuta, ! By Thy gracious gift are present in my mind all the dharmas mentioned in the Vedas and laid down in the Vedantas. By Thy grace again, O Janardana, and by constant contemplation on Thee, I feel strong like a young man and I can expound the dharmas". Such a Bhishma introduced the subject of the Thousand Names in these words. "I consider this dharma as the highest of the dharmas," and expressed his view that the chanting of the Thousand Names was his greatest mata or creed of faith. 
 </details>
 
 ## सर्वग्राह्यता
@@ -464,7 +624,7 @@ UNIVERSAL ACCEPTANCE OF THE SAHASRA NAMA
 
 <details><summary>English</summary>
 
-Even ordinary poets and writers describe this hymn as a protective force. In the Kadambari, Bhatta Bana, when he describes a room used for confinement of women at child- birth, mentions it as a place where the recitation of Narayana's Thousand Names is incessantly going on. Also in this world, it is seen that the Thousand Names are accepted with faith, because many persons learn, memorise, hear, recite, sing, write, comment on and show respect to those versed in the Thousand Names for the purpose of getting rid of inauspicious and grievous troubles caused by poison, ghosts, diseases, planetary influence, bad dreams and omens. (The Thousand Names are also used) for expiating grievous sins, gaining prosperity both here and hereafter, loosening the knot of the bondage of samsara and attaining Paramapada , the supreme abode of Vishnu. Some use them for the mere delight derived through the recitation of the names, from tasting the nectar of His beneficent and auspicious qualities. So too this hymn acts as the only effective medicine for children, mutes, foolhardy persons, women and atheists. Even the Vedas are not accepted as readily by all persons as this hymn, for fools and such others will not accept the Vedas. Besides, this hymn is open to all; but not the Vedas, as they are divided into many divisions, each to be resorted to by particular families, clans or sects. Hence it can be said that the Thousand Names have the excellence of being accepted by all. 
+Even ordinary poets and writers describe this hymn as a protective force. In the Kadambari, Bhatta Bana, when he describes a room used for confinement of women at childbirth, mentions it as a place where the recitation of Narayana's Thousand Names is incessantly going on. Also in this world, it is seen that the Thousand Names are accepted with faith, because many persons learn, memorise, hear, recite, sing, write, comment on and show respect to those versed in the Thousand Names for the purpose of getting rid of inauspicious and grievous troubles caused by poison, ghosts, diseases, planetary influence, bad dreams and omens. (The Thousand Names are also used) for expiating grievous sins, gaining prosperity both here and hereafter, loosening the knot of the bondage of samsara and attaining Paramapada , the supreme abode of Vishnu. Some use them for the mere delight derived through the recitation of the names, from tasting the nectar of His beneficent and auspicious qualities. So too this hymn acts as the only effective medicine for children, mutes, foolhardy persons, women and atheists. Even the Vedas are not accepted as readily by all persons as this hymn, for fools and such others will not accept the Vedas. Besides, this hymn is open to all; but not the Vedas, as they are divided into many divisions, each to be resorted to by particular families, clans or sects. Hence it can be said that the Thousand Names have the excellence of being accepted by all. 
 </details>
 
 ### गीताद्यैकार्थता
@@ -540,7 +700,7 @@ Vaisampayana narrated this chapter as another great secret without being asked a
 
 <details><summary>English</summary>
 
-Sri Vaisampayana said : (1) Having heard all the dharmas in their entirety (without anything being left out) and all other purificatory acts, Yudhishthira addressed again Santanu's son (Bhishma) as follows: Here 'dharmas' means all those acts which are many and of the form of Raja-dharma (the duties of kings) , Moksha-dharma (the way to salvation) and Dana- dharma (the duty of charity), which are prescribed by injunct- ions contained in Sruti, Smriti, etc., as leading to worldly and heavenly' benefits as well as to eternal salvation. In entirety - completely to the extent to which it extends. Purificatory acts:- such as penance, pilgrimage to holy places. All - everything connected with them - i.e., the benefits to be derived by performing them, their divisions and their charact- eristics and those who have the qualification to perform them. Yudhishthira - himself the son of the god of dharma. The son of Santanu - Bhishma is the son of Santanu by Ganga and is thus of illustrious birth. Addressed again - The question is put to learn what exactly is considered by Bhishma as the most beneficial. 
+Sri Vaisampayana said : (1) Having heard all the dharmas in their entirety (without anything being left out) and all other purificatory acts, Yudhishthira addressed again Santanu's son (Bhishma) as follows: Here 'dharmas' means all those acts which are many and of the form of Raja-dharma (the duties of kings) , Moksha-dharma (the way to salvation) and Danadharma (the duty of charity), which are prescribed by injunctions contained in Sruti, Smriti, etc., as leading to worldly and heavenly' benefits as well as to eternal salvation. In entirety - completely to the extent to which it extends. Purificatory acts:- such as penance, pilgrimage to holy places. All - everything connected with them - i.e., the benefits to be derived by performing them, their divisions and their characteristics and those who have the qualification to perform them. Yudhishthira - himself the son of the god of dharma. The son of Santanu - Bhishma is the son of Santanu by Ganga and is thus of illustrious birth. Addressed again - The question is put to learn what exactly is considered by Bhishma as the most beneficial. 
 
 In fact, that is known from the nature of the question put later on, "What is the dharma which is considered by you to be the best of all dharmas?. " 
 
@@ -600,7 +760,7 @@ QUESTION ABOUT THE SUPREME REALITY
 
 <details><summary>English</summary>
 
-Yudhishthira said: (2) Who is the One (Supreme) Deity according to the sastras ? What is the one Supreme Goal? (3) By reciting which mantra is a man released from bonds of birth and samsara? According to the 'sastras' :- This phrase is to be taken along with each one of the questions. "Considered by you as the best" :- This phrase (in the third stanza) is to be taken to link up with the previous stanza also, according to the simha-avalokana-nyaya - the maxim of the lion turning back to have a look. That is, this must be taken to qualify each one of the questions, of course, making the necessary changes in the case-inflections (of the nouns). Loke :- The word in the original, loka, means the thing by which we see, i.e., the body of sastras, consisting of sruti, smriti, etc. (Because only the sastras can teach us about the gods). The One (Ekam):- That which has none superior to or equal to itself. This is inferable from the later passages, "Of Him who is the greatest in the world" and "He who is the great, supreme splendour", which answer the question. This word is used here not to denote an individual or its number, because this is always inferable from the form of the word daivatam, which consists of the nominal stem (pratipadika) and the suffix indicating the singular. Then, the word One would become superfluous. Besides, if there is any deity not indicated as one and not possessing an individuality, the word One may perhaps be used. Since there is no such deity who is without individuality or is manifold, the word One must have its distinctive meaning as stated above. Moreover, it cannot be the attribute of any (deity), since in the answer to the question, there is nothing referring to One as number. Deity (daivatam):- That which possesses qualities like brightness, etc., peculiar to the Rulership of the Universe. The question, therefore, is: "Which is that Deity, which you conider as the Deity spoken of as the best in the sastras which reveal the ultimate truths?" Doubts arise on account of difference even in the minds of persons who believe that one Supreme God (i.e., one possessing all the qualities required for the Rulership of the Uni- verse) is taught in the various sastras and philosophies. These doubts are as to whether such qualities of Supreme lordship as, unlimited Knowledge and powers arise with reference to a particular modification of the unreal, evolving under the limiting adjunct of Maya, Vivarta, Parinama, Visesha etc. or whether rulership over all is natural (to any deity). Specifically also the question arises as to whether Hari (Vishnu) or Hara (Siva) or Hiranyagarbha (Brahma) is the Supreme Deity, because in the sastras such qualities (of Rulership, etc.) are ascribed to them indiscriminately both individually and in common. Hence the question is in the form: "Which is the Supreme Deity?"
+Yudhishthira said: (2) Who is the One (Supreme) Deity according to the sastras ? What is the one Supreme Goal? (3) By reciting which mantra is a man released from bonds of birth and samsara? According to the 'sastras' :- This phrase is to be taken along with each one of the questions. "Considered by you as the best" :- This phrase (in the third stanza) is to be taken to link up with the previous stanza also, according to the simha-avalokana-nyaya - the maxim of the lion turning back to have a look. That is, this must be taken to qualify each one of the questions, of course, making the necessary changes in the case-inflections (of the nouns). Loke :- The word in the original, loka, means the thing by which we see, i.e., the body of sastras, consisting of sruti, smriti, etc. (Because only the sastras can teach us about the gods). The One (Ekam):- That which has none superior to or equal to itself. This is inferable from the later passages, "Of Him who is the greatest in the world" and "He who is the great, supreme splendour", which answer the question. This word is used here not to denote an individual or its number, because this is always inferable from the form of the word daivatam, which consists of the nominal stem (pratipadika) and the suffix indicating the singular. Then, the word One would become superfluous. Besides, if there is any deity not indicated as one and not possessing an individuality, the word One may perhaps be used. Since there is no such deity who is without individuality or is manifold, the word One must have its distinctive meaning as stated above. Moreover, it cannot be the attribute of any (deity), since in the answer to the question, there is nothing referring to One as number. Deity (daivatam):- That which possesses qualities like brightness, etc., peculiar to the Rulership of the Universe. The question, therefore, is: "Which is that Deity, which you conider as the Deity spoken of as the best in the sastras which reveal the ultimate truths?" Doubts arise on account of difference even in the minds of persons who believe that one Supreme God (i.e., one possessing all the qualities required for the Rulership of the Universe) is taught in the various sastras and philosophies. These doubts are as to whether such qualities of Supreme lordship as, unlimited Knowledge and powers arise with reference to a particular modification of the unreal, evolving under the limiting adjunct of Maya, Vivarta, Parinama, Visesha etc. or whether rulership over all is natural (to any deity). Specifically also the question arises as to whether Hari (Vishnu) or Hara (Siva) or Hiranyagarbha (Brahma) is the Supreme Deity, because in the sastras such qualities (of Rulership, etc.) are ascribed to them indiscriminately both individually and in common. Hence the question is in the form: "Which is the Supreme Deity?"
 </details>
 
 ## परमोपेयप्रश्नः
@@ -684,7 +844,7 @@ QUESTION ABOUT THE MEANS THAT STANDS IN NEED OF A SUPPORT
 
 <details><summary>English</summary>
 
-Next, as to Salambana Upaya, the means depending on aids such as the things or articles used for worship like Mantras to be repeated, flowers, incense (as also auspicious ob- jects of meditation like the idol or the figure of God). Of these, the question relates to the oral basis of japam (the mantra to be recited) by the words, Kim japan. By reciting which Mantra is a man released from bonds of birth and Samsara? Japa is repetitive recitation of a mantra, accompanied by prescribed rites, etc. Manu (11.87) says: "A Brahmin can attain anything only by japa. There is no doubt about it. Whether he does anything else or not it does not matter. For a person doing japa is friendly to all (but a person performing a sacrifice has to do cruel acts, such, as killing a goat, horse, etc.). Hence, he is the real Brahmin." Again, he says (11.85): "Japa-Yagna is ten times more effective than dravya Yajna, (sacrifice conducted with the help of articles.). In the Gita (X. 25) also, Sri Krishna says: "Of all Yajnas I am the japa-yajna." Thus among the actions of three kinds done by the mind, speech and body, japa is superior and the question here is only about the japa which is to be done by word of mouth - not about others which are to be performed either by the mind or by the body. Man (jantu) : anyone who has the characteristic of being born. ( Man is born only for the worship of the Lord) . Bonds of birth and samsara:- By birth is denoted, old age, death, the womb and tortures in hell, etc. which, result from the life in this world. Samsara denotes ignorance, the latent impressions from the sins or merits of one's actions, inclinations, desires and the contact with prakriti (matter): all these form the reasons or causes for the bondage (in the form of birth). Bonds (bandhana):- These are obstructions to the attainment of salvation. Released (Muchyate): Here the reference is only to moksha, the ultimate release: but from the trend of answers given, that the japa is the sadhana for all kinds of benefits. It must be taken that the question relates to all kinds of phalas (benefits). From the use of the words, loke (scripture), aseshena (in entirety), sarvasah (in full), and manavah (persons) it is clear that Yudhishthira has heard all things relating to dharmas, such as the seasons for performance, the qualification of the performer, the divisions and subsidiaries of actions and the benefits which are superior. So also he wants .all such information in respect of the dharma considered best by Bhishma.
+Next, as to Salambana Upaya, the means depending on aids such as the things or articles used for worship like Mantras to be repeated, flowers, incense (as also auspicious objects of meditation like the idol or the figure of God). Of these, the question relates to the oral basis of japam (the mantra to be recited) by the words, Kim japan. By reciting which Mantra is a man released from bonds of birth and Samsara? Japa is repetitive recitation of a mantra, accompanied by prescribed rites, etc. Manu (11.87) says: "A Brahmin can attain anything only by japa. There is no doubt about it. Whether he does anything else or not it does not matter. For a person doing japa is friendly to all (but a person performing a sacrifice has to do cruel acts, such, as killing a goat, horse, etc.). Hence, he is the real Brahmin." Again, he says (11.85): "Japa-Yagna is ten times more effective than dravya Yajna, (sacrifice conducted with the help of articles.). In the Gita (X. 25) also, Sri Krishna says: "Of all Yajnas I am the japa-yajna." Thus among the actions of three kinds done by the mind, speech and body, japa is superior and the question here is only about the japa which is to be done by word of mouth - not about others which are to be performed either by the mind or by the body. Man (jantu) : anyone who has the characteristic of being born. ( Man is born only for the worship of the Lord) . Bonds of birth and samsara:- By birth is denoted, old age, death, the womb and tortures in hell, etc. which, result from the life in this world. Samsara denotes ignorance, the latent impressions from the sins or merits of one's actions, inclinations, desires and the contact with prakriti (matter): all these form the reasons or causes for the bondage (in the form of birth). Bonds (bandhana):- These are obstructions to the attainment of salvation. Released (Muchyate): Here the reference is only to moksha, the ultimate release: but from the trend of answers given, that the japa is the sadhana for all kinds of benefits. It must be taken that the question relates to all kinds of phalas (benefits). From the use of the words, loke (scripture), aseshena (in entirety), sarvasah (in full), and manavah (persons) it is clear that Yudhishthira has heard all things relating to dharmas, such as the seasons for performance, the qualification of the performer, the divisions and subsidiaries of actions and the benefits which are superior. So also he wants .all such information in respect of the dharma considered best by Bhishma.
 </details>
 
 ### जपालंबनप्रतिवचनम्
@@ -850,7 +1010,7 @@ It is this bhakti yoga which is thought of in the Vedas and which is said to be 
 
 <details><summary>English</summary>
 
-(5) Both in the Linga and Markandeya Puranas it is said : "The root bhaj is explained in the sense of seva (service). Hence, the wise use the word bhakti to mean great service:'Therefore, the idea underlying the use of the word upasana to mean bhakti is analysed thus :- It is of the form of limitless and devotion towards the worshipped God on account of His faultless qualities. And it contains in itself the sense of belonging to Him. It is this intense devotion that is referred to by the Lord in the Gita: : "I am the closest and most beloved to thejnanin". (VII 17) ; With love towards those who are devoted (to Me) .(X, I) ; and "'They feel glad when they talk about Me and feel happy when they hear about Me" (X. 9). In the Vishnu Purana, again, occur the two passages : "However many thousands my births be may I be devoted to Thee" (1-20-18) ; and also 'My love to Thee is as great as the love for earthly enjoyment is to fools" (1-20-1 ). It is also said: ..Being Immersed in the bliss of remembering Him". There is the further passage: " Thrilled by the remembrance of His Name was the Daitya Chief (Prahlada). In the Vishnu Tattva, it is said: Service done with true knowledge (that Bhagavan is the Master, and the Atma is His servant) is bhakti. When such service is being performed, love and affection do naturaily spring up," Says the Barhaspatya Smriti: "Whosoever is devoted to God and turns away from attachment to other things and has also renounced all desire (such as love of children, wealth and the world), he is fit to eat by begging (i.e. fit to become a sannyasin)". The Taittitiya sruti contains the invocation.: Let this God make us united with auspicious meditation'. Thus are all the sayings about the injunction to do upasana. (4) The word Anusmarana (repeated recollection) used in several places denotes that thought becoms bhakti, The prefix anu shows not merely continuity, but also humility, that is, the knowledge that the devotee is the servant of the Lord. Hence, thought along with the consciousness of this relationship is bhakti. In the Gita occur the words: Remembering (anusmarana) Me continuously" (VII 13) and .'Thinking of (anuchintayan)" (VIII.8). Elsewhere it is stated: .'Repeated recollection of Krishna (anusmaranam) is supreme", Recita- tion of His Holy Names (Kirtana) and prostration are included in bhakti. For example, the Gita says: "The devotees perform worship by recitation and prostration" (IX. 14) : as also "Keep Me in your mind (While doing all actions)" (IX, 34). This bhakti is called the Great Secret because it constitutes the essence of the purport of all the sastras, The Gita refers to it thus: "To you, this most hidden secret, I am going to reveal", (IX, I); "Having known it, there is nothing else to know'. (VII.2); and again, "This most hidden of all secrets" (XVIII. 64) More than enough has been said. On this subject, This will do.
+(5) Both in the Linga and Markandeya Puranas it is said : "The root bhaj is explained in the sense of seva (service). Hence, the wise use the word bhakti to mean great service:'Therefore, the idea underlying the use of the word upasana to mean bhakti is analysed thus :- It is of the form of limitless and devotion towards the worshipped God on account of His faultless qualities. And it contains in itself the sense of belonging to Him. It is this intense devotion that is referred to by the Lord in the Gita: : "I am the closest and most beloved to thejnanin". (VII 17) ; With love towards those who are devoted (to Me) .(X, I) ; and "'They feel glad when they talk about Me and feel happy when they hear about Me" (X. 9). In the Vishnu Purana, again, occur the two passages : "However many thousands my births be may I be devoted to Thee" (1-20-18) ; and also 'My love to Thee is as great as the love for earthly enjoyment is to fools" (1-20-1 ). It is also said: ..Being Immersed in the bliss of remembering Him". There is the further passage: " Thrilled by the remembrance of His Name was the Daitya Chief (Prahlada). In the Vishnu Tattva, it is said: Service done with true knowledge (that Bhagavan is the Master, and the Atma is His servant) is bhakti. When such service is being performed, love and affection do naturaily spring up," Says the Barhaspatya Smriti: "Whosoever is devoted to God and turns away from attachment to other things and has also renounced all desire (such as love of children, wealth and the world), he is fit to eat by begging (i.e. fit to become a sannyasin)". The Taittitiya sruti contains the invocation.: Let this God make us united with auspicious meditation'. Thus are all the sayings about the injunction to do upasana. (4) The word Anusmarana (repeated recollection) used in several places denotes that thought becoms bhakti, The prefix anu shows not merely continuity, but also humility, that is, the knowledge that the devotee is the servant of the Lord. Hence, thought along with the consciousness of this relationship is bhakti. In the Gita occur the words: Remembering (anusmarana) Me continuously" (VII 13) and .'Thinking of (anuchintayan)" (VIII.8). Elsewhere it is stated: .'Repeated recollection of Krishna (anusmaranam) is supreme", Recitation of His Holy Names (Kirtana) and prostration are included in bhakti. For example, the Gita says: "The devotees perform worship by recitation and prostration" (IX. 14) : as also "Keep Me in your mind (While doing all actions)" (IX, 34). This bhakti is called the Great Secret because it constitutes the essence of the purport of all the sastras, The Gita refers to it thus: "To you, this most hidden secret, I am going to reveal", (IX, I); "Having known it, there is nothing else to know'. (VII.2); and again, "This most hidden of all secrets" (XVIII. 64) More than enough has been said. On this subject, This will do.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -863,7 +1023,7 @@ It is this bhakti yoga which is thought of in the Vedas and which is said to be 
 
 <details><summary>English</summary>
 
-(6) & (7) (And engaged in) praising Him, the Beginning- less and the Endless, the all pervading, the Ruler of all the worlds, the Supervisor of all the worlds (Universal Witness), the One to be known from the Vedas, the knower of all dharmas; the One who engages Himself in enhancing the fame of the worlds Master of the worlds, the Great Person and the Cause of existenc of all beings - such a person (worshipper) tides over all the sorrows in the world. The words "tam eva cha" at the end of the fifth stanza is to be taken along with the next stanza. (Now the further commentary is about the 6th and 7th stanzas). SHOWING AN EASY WAY FOR THOSE WHO ARE NOT WELL-EQUIPPED. Then an observation is made as to the difficult nature of bhakti. This bhakti is grounded firm only on long continuous practice, and that too only after getting rid of all obstructions. This stage is gained only by those whose sins are cleared off by merits gained by performance of good and virtuous acts and conduct through births. It is said (in the Gita and Vishnu Dharma respectively) : " At the end of many births. one becomes a Jnanin (Wise man) and attains Me." (VII, 19), and in the course of thousands of different births" (69). Then what about persons who are unable to perform all the means enjoined by the sastras? In order to dispel such fears, Bhishma points out an easy way in stanzas 6 and 7 by answering the third question, "Praising whom." 
+(6) & (7) (And engaged in) praising Him, the Beginningless and the Endless, the all pervading, the Ruler of all the worlds, the Supervisor of all the worlds (Universal Witness), the One to be known from the Vedas, the knower of all dharmas; the One who engages Himself in enhancing the fame of the worlds Master of the worlds, the Great Person and the Cause of existenc of all beings - such a person (worshipper) tides over all the sorrows in the world. The words "tam eva cha" at the end of the fifth stanza is to be taken along with the next stanza. (Now the further commentary is about the 6th and 7th stanzas). SHOWING AN EASY WAY FOR THOSE WHO ARE NOT WELL-EQUIPPED. Then an observation is made as to the difficult nature of bhakti. This bhakti is grounded firm only on long continuous practice, and that too only after getting rid of all obstructions. This stage is gained only by those whose sins are cleared off by merits gained by performance of good and virtuous acts and conduct through births. It is said (in the Gita and Vishnu Dharma respectively) : " At the end of many births. one becomes a Jnanin (Wise man) and attains Me." (VII, 19), and in the course of thousands of different births" (69). Then what about persons who are unable to perform all the means enjoined by the sastras? In order to dispel such fears, Bhishma points out an easy way in stanzas 6 and 7 by answering the third question, "Praising whom." 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -893,7 +1053,7 @@ It is this bhakti yoga which is thought of in the Vedas and which is said to be 
 
 <details><summary>English</summary>
 
-To reach that Vishnu, who is the object of bhakti and who is alone fit to be praised and worshipped in every way, Bhishma enumerates His qualities by ten attributes, which begin with "the beginningless and endless" and which distinguish Him from all other minor gods. The beginnlngless and the endless :- The lord is ever ready to help; He is not limited by time. Vishnu: - Not limited by space; all pervasive. Great Ruler of all the worlds: He is possessed of mighty powers adequate to fulfil all the wishes of His devotees. Supervisor of the worlds; This quality is natural to Him. He never forgets, but remembers (to fulfil the wishes of His devotees). To be known from the Vedas (Brahmanyam) : All the Vedas In their branches extol Him, and so it is easy to know Him and praise Him. Knower of all dharmas: Just as He appreciates bhakti (taught by the sastras), He appreciates equally stava (praise). Enhancing the fame of the world: "By praising Him the praiser becomes himself praise- worthy," says the Vishnu Dharma. Hence in respect of all persons in all the worlds, who praise Him, He makes them also objects of praise by others. Master of the worlds:- Hence, He deserves all praise and service. In His essential nature He is endowed with supreme - greatness indicative of sovereignty. Great person (Mahatbhutam) : Possessed of supreme wealth which is natural to him. So He is worshipped easily. The great are easily pleased with those who show by some act of theirs that they are desirous of obtaining favours from them. They do not want anything more. In the Udyoga parvan (of the Mahabharata), it is said: "The Lord does not expect anything other than a jar of water (offered by way of respect), or washing the feet or kind enquiries about welfare". The case of all beings and their existence :- He is the cause of existence and life to those who are not atheists. Hence, He surely shows His grace to them. Praising (Stuvan): Praise in some way or other of His qualities will do; it need not be the same as or as perfect as bhakti-yoga. Tides over all sorrows: The devotee reaches the cool lake of unsurpassed bliss which is the Lord, after crossing the forest- fire of the threefold torments of samsara, In this context, it is proper that the word stuvan in stanza 6 should be interpreted to denote a very easy way of pleasing Him, The word stuvan, used earlier in the previous stanza, as it is combined with dhyayan, denotes a more difficult means of attaining Him (because dhyana etc., are not easy of performance). If not so understood, there will result the fault of repetition. Besides, among the questions propounded there is a separate question "stuvantah kam" (Praising whom). Hence this answer, contained in stanzas 6 and 7, must be taken to answer that distinct question separately. Again there is the fact that other sastras also support this view. 
+To reach that Vishnu, who is the object of bhakti and who is alone fit to be praised and worshipped in every way, Bhishma enumerates His qualities by ten attributes, which begin with "the beginningless and endless" and which distinguish Him from all other minor gods. The beginnlngless and the endless :- The lord is ever ready to help; He is not limited by time. Vishnu: - Not limited by space; all pervasive. Great Ruler of all the worlds: He is possessed of mighty powers adequate to fulfil all the wishes of His devotees. Supervisor of the worlds; This quality is natural to Him. He never forgets, but remembers (to fulfil the wishes of His devotees). To be known from the Vedas (Brahmanyam) : All the Vedas In their branches extol Him, and so it is easy to know Him and praise Him. Knower of all dharmas: Just as He appreciates bhakti (taught by the sastras), He appreciates equally stava (praise). Enhancing the fame of the world: "By praising Him the praiser becomes himself praiseworthy," says the Vishnu Dharma. Hence in respect of all persons in all the worlds, who praise Him, He makes them also objects of praise by others. Master of the worlds:- Hence, He deserves all praise and service. In His essential nature He is endowed with supreme - greatness indicative of sovereignty. Great person (Mahatbhutam) : Possessed of supreme wealth which is natural to him. So He is worshipped easily. The great are easily pleased with those who show by some act of theirs that they are desirous of obtaining favours from them. They do not want anything more. In the Udyoga parvan (of the Mahabharata), it is said: "The Lord does not expect anything other than a jar of water (offered by way of respect), or washing the feet or kind enquiries about welfare". The case of all beings and their existence :- He is the cause of existence and life to those who are not atheists. Hence, He surely shows His grace to them. Praising (Stuvan): Praise in some way or other of His qualities will do; it need not be the same as or as perfect as bhakti-yoga. Tides over all sorrows: The devotee reaches the cool lake of unsurpassed bliss which is the Lord, after crossing the forestfire of the threefold torments of samsara, In this context, it is proper that the word stuvan in stanza 6 should be interpreted to denote a very easy way of pleasing Him, The word stuvan, used earlier in the previous stanza, as it is combined with dhyayan, denotes a more difficult means of attaining Him (because dhyana etc., are not easy of performance). If not so understood, there will result the fault of repetition. Besides, among the questions propounded there is a separate question "stuvantah kam" (Praising whom). Hence this answer, contained in stanzas 6 and 7, must be taken to answer that distinct question separately. Again there is the fact that other sastras also support this view. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -991,7 +1151,7 @@ Person: This kind of worship by praise is open to almost all sentient beings in 
 
 <details><summary>English</summary>
 
-Then the question arises: What about the Apasudra Adhikarana? What is stated there is something different. This is an adhikarana in the Brahma-Sutras, in which it is established that the Sudras are prohibited from studying the Vedas. What is prohibited to those other than the three higher castes is only the ceremonies connected with the sacrificial fire which the former have not learnt, and the supreme science (of God) to be known through the Vedanta, as they have not studied the Vedas under an instructor and obtained the necessary qualification by studying the Upanishads under a guru. There is no conflict as regards the right or eligibility for persons other than the three higher castes to seek refuge in Bhagavan if they are desirous of release because of an excess of sattva quality in them; but there is no recognised eligibility to adopt the great path of hearing, meditating etc; which has been set out in the Upanishads as Brahma Vidya. Even among the three castes, there are some who are deluded by the desires for fruits and whose sattvaguna is mixed up with rajas and tamas and has become impure here and there. They are eligibile for the Upasanas such as they can do. In the case of women of all castes, Sudras and animals, competency for upasanas based upon common virtues and duties not prohibited to the respective castes, can not be gainsaid. Such is the case with Vidura and Dharmavyadha. By reason of the force of the effects of experience gathered through a long series of lives knowledge has appeared again as in the case of a person awakening from sleep. They have merely permitted themselves to associate with inferior social classes to rid themselves of the traces of the evil effects of karma which had already started to function (and had given them the present birth). In respect of all these persons, knowledge is not generated in them afresh. "Vidura, Dharmavyadha and others in spite of their birth in lower castes, like Sramani, attained perfection (pure bhakti) on account of their knowledge, gained by them in their pre- vious births". ( Vishnu Dharma) 
+Then the question arises: What about the Apasudra Adhikarana? What is stated there is something different. This is an adhikarana in the Brahma-Sutras, in which it is established that the Sudras are prohibited from studying the Vedas. What is prohibited to those other than the three higher castes is only the ceremonies connected with the sacrificial fire which the former have not learnt, and the supreme science (of God) to be known through the Vedanta, as they have not studied the Vedas under an instructor and obtained the necessary qualification by studying the Upanishads under a guru. There is no conflict as regards the right or eligibility for persons other than the three higher castes to seek refuge in Bhagavan if they are desirous of release because of an excess of sattva quality in them; but there is no recognised eligibility to adopt the great path of hearing, meditating etc; which has been set out in the Upanishads as Brahma Vidya. Even among the three castes, there are some who are deluded by the desires for fruits and whose sattvaguna is mixed up with rajas and tamas and has become impure here and there. They are eligibile for the Upasanas such as they can do. In the case of women of all castes, Sudras and animals, competency for upasanas based upon common virtues and duties not prohibited to the respective castes, can not be gainsaid. Such is the case with Vidura and Dharmavyadha. By reason of the force of the effects of experience gathered through a long series of lives knowledge has appeared again as in the case of a person awakening from sleep. They have merely permitted themselves to associate with inferior social classes to rid themselves of the traces of the evil effects of karma which had already started to function (and had given them the present birth). In respect of all these persons, knowledge is not generated in them afresh. "Vidura, Dharmavyadha and others in spite of their birth in lower castes, like Sramani, attained perfection (pure bhakti) on account of their knowledge, gained by them in their previous births". ( Vishnu Dharma) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1167,7 +1327,7 @@ ATTAINMENT OF THE KNOWLEDGE OF THE ULTIMATE REALITY BY MERE RECITATION.
 
 <details><summary>English</summary>
 
-It is but proper that, God who is omniscient, with no wish of His unfulfilled and not seeking anything from others, should be pleased with a pure heart and not by the offer of insignificant wealth. With even a little worship though marred by imperfection in regard to place, time or accessories, He is pleased as if it were perfect and complete. This is in accor- dance with the maxim that one who is wise, is pleased with truth. Hence it is said: "What benefit is gained by dhyana in the Kritayuga, by sacrifice in the Treta, and by worship in the Dvapara, the same benefit is obtained in the Kali by recitation (of names)" ( Vishnu Purana, VI. ii. 18). Also: "In the first quarter (of Kaliyuga), men will indulge in abuse of Hari's name. And at the end of the yuga, none will there be to take up Hari's name. If, even at that time, there may be some who disdain this ocean of sin and remember with some effort the name of Vishnu, indeed, they are the blessed, and their souls realise immortality." (Vishnu Dharma). This is but logical. A virtuous king regards with parental affection a person who, in spite of difficulties, conducts himself in a fair manner, if he (the subject) has rendered him great help. Hence, in the case of the worship of God or of ancestors, or expiatory ceremonies, though they are, according to time, place and circumstance, simple or elaborate in form, the result in any case is the same (i. e. the removal of sin.) Such is the practice of the eminent. Again, the remembrance of one's poverty or inability is regarded as equivalent to the performance, in emergencies, of the sraddha (the annual ceremony in honour of one's deceased parents) which has to be carried out elaborately, with the expenditure of all that one has. It has also been said: When it is impossible to perform the necessary rites, mere utterance of the appropriate mantras will do. 
+It is but proper that, God who is omniscient, with no wish of His unfulfilled and not seeking anything from others, should be pleased with a pure heart and not by the offer of insignificant wealth. With even a little worship though marred by imperfection in regard to place, time or accessories, He is pleased as if it were perfect and complete. This is in accordance with the maxim that one who is wise, is pleased with truth. Hence it is said: "What benefit is gained by dhyana in the Kritayuga, by sacrifice in the Treta, and by worship in the Dvapara, the same benefit is obtained in the Kali by recitation (of names)" ( Vishnu Purana, VI. ii. 18). Also: "In the first quarter (of Kaliyuga), men will indulge in abuse of Hari's name. And at the end of the yuga, none will there be to take up Hari's name. If, even at that time, there may be some who disdain this ocean of sin and remember with some effort the name of Vishnu, indeed, they are the blessed, and their souls realise immortality." (Vishnu Dharma). This is but logical. A virtuous king regards with parental affection a person who, in spite of difficulties, conducts himself in a fair manner, if he (the subject) has rendered him great help. Hence, in the case of the worship of God or of ancestors, or expiatory ceremonies, though they are, according to time, place and circumstance, simple or elaborate in form, the result in any case is the same (i. e. the removal of sin.) Such is the practice of the eminent. Again, the remembrance of one's poverty or inability is regarded as equivalent to the performance, in emergencies, of the sraddha (the annual ceremony in honour of one's deceased parents) which has to be carried out elaborately, with the expenditure of all that one has. It has also been said: When it is impossible to perform the necessary rites, mere utterance of the appropriate mantras will do. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1256,7 +1416,7 @@ CONTACT WITH BHAGAVAN REMOVES THE DEFECTS OF ALL
 
 <details><summary>English</summary>
 
-(6) Purest of the pure (Pavitram) The words paramam (supreme) and mahat (great) should be understood here. The words mean that He is the agency for purifying in a particular way. Purification means the removal of impurity (doshas). Impurity arises in inanimate matter when it evolves under the influence of rajas and tamas. In the soul, It is caused by contact with such matter. And it consists of ignorance, offences against the Lord, attachment, hate, etc. The Lord alone is capable of destroying utterly the doshas root and branch, because He is always of a nature opposed to them. He is the purest of the pure. So proclaim the sastras: "He (the knower of Brahman) does not feel anxious (about his salvation) (Taitt. UP. 11. 9); 'just as water does not cling to the lotus leaf" (Chh. Up. IV. iv.3); "Just as a bit of cotton thrown into fire is burnt (Chh. Up. V. xxvi. 3); "He (the soul) shakes off his sins and merits (when attaining moksha),' (Kaush. Up. 1.4), "After getting rid of merits and sins the wise man..." (Mund. Up., III.1.3); "The highest purification for the soul is held to arise from knowledge of God,' (Yajnyavalkya Smriti'); and '.Remember Narayana while doing all acts in cluding bathing. This is the most efficacious expiation for all- sins". To the same effect the Gita says: .'He who knows Me or one without beginning and without birth" (X.3). In the Ramayana, it is said: "You are the purifier of all persons, O ! scion of the Raghu race. " The Vishnu Purana declares: "The continued remembrance of Krishna is the best of all expiatory ceremonies" (II. vi. 39), and also: "Vishnu, enshrined in the minds of the yogins, destroys all sins, as fire combined with wind flares up and burns dry grass" (VI. vii 74). The entire section on Prayaschitta (expiation) is full of such statements.
+(6) Purest of the pure (Pavitram) The words paramam (supreme) and mahat (great) should be understood here. The words mean that He is the agency for purifying in a particular way. Purification means the removal of impurity (doshas). Impurity arises in inanimate matter when it evolves under the influence of rajas and tamas. In the soul, It is caused by contact with such matter. And it consists of ignorance, offences against the Lord, attachment, hate, etc. The Lord alone is capable of destroying utterly the doshas root and branch, because He is always of a nature opposed to them. He is the purest of the pure. So proclaim the sastras: "He (the knower of Brahman) does not feel anxious (about his salvation) (Taitt. UP. 11. 9); 'just as water does not cling to the lotus leaf" (Chh. Up. IV. iv.3); "Just as a bit of cotton thrown into fire is burnt (Chh. Up. V. xxvi. 3); "He (the soul) shakes off his sins and merits (when attaining moksha),' (Kaush. Up. 1.4), "After getting rid of merits and sins the wise man..." (Mund. Up., III.1.3); "The highest purification for the soul is held to arise from knowledge of God,' (Yajnyavalkya Smriti'); and '.Remember Narayana while doing all acts in cluding bathing. This is the most efficacious expiation for allsins". To the same effect the Gita says: .'He who knows Me or one without beginning and without birth" (X.3). In the Ramayana, it is said: "You are the purifier of all persons, O ! scion of the Raghu race. " The Vishnu Purana declares: "The continued remembrance of Krishna is the best of all expiatory ceremonies" (II. vi. 39), and also: "Vishnu, enshrined in the minds of the yogins, destroys all sins, as fire combined with wind flares up and burns dry grass" (VI. vii 74). The entire section on Prayaschitta (expiation) is full of such statements.
 </details>
 
 ## भगवत्संबन्धेनैव तीर्थादीनां पवित्रता
@@ -1296,7 +1456,7 @@ THE SOURCE OF SANCTITY FOR HOLY THINGS IS THEIR CONTACT WITH THE LORD
 
 <details><summary>English</summary>
 
-In other cases, like that of the sacred waters which are purifying agencies, they acquire that characteristic only by their contact with the Lord. This is shown by the adjectives, 'supreme' and 'great'. It is not reasonable to hold that either sentient beings who are themselves naturally impure or the gods whe are also affected by impurity can purify others who are similarly situated. Hence it is that Parasara, Saunaka and others in the context of subhasraya (God as the substratum of auspiciousness) prohibit contemplation and worship of other gods, Subhasraya means an object of worship or meditation which is at once auspicious (i.e., subha or sin-destroying) and easy asraya for contemplation. Thus: "All the gods are impure because they are born in karma and are subject to karma" (Vishnu Purana), VI. 7.77); "All beings in this world, from Brahma (the four- faced creator) down to a clump of grass, are all born in karma and are in the grip of samsara - Vishnu dharma). It is well stated (by authorities) that the gods acquire the capacity to purify only by contemplating on Him, worshipping Him, doing services to Him like sipping the water that has washed His feet, etc,. Similarly, the holy water and sacred temple acquire this capacity to purify only by their nearness to Him. Hence, says the Vishnu Purana (IV. 4.30) about the Ganga :"This is the greatness of the water that has flowed down from the toe of the left foot of Vishnu". And as for mere waters, it is said: "The waters are indeed the abode of Vishnu, and He is the Lord of the waters." In the same way, Time is (said to be auspicious and purificatory) because of its connection with Him, as being the hour of His Incarnation, or having Him as its deity, or as the hour of his going to sleep orwaking up, as for example dvadasi, (the welfth day of the lunar fortnight), jayanthi (birthday), sravanam, (a day when the moon is in conjunction with a lunar asterism in Capricorn sacred to Vishnu). Again atma-gunas (spiritual virtues such as self-contro1 , etc.) are said to be purificatory because they are helpful in knowing and realising Him. Sacrifices, charity, tapas and sraddha are purificatory because they acquire their purity because of their eligibility to study the Vedas which sing of Him. Hence it is said in the Mahabharata: "A Brahmin becomes a Brahmin and a seer of Truth only when he knows Vasudeva as the Pervader of the universe and as having traversed it by His feet. (Kranta)" The Vedas and the Smritis are also purifying as they are but His commands and recognise Him as supreme. Thus it is said: "The Vedas are about Narayana" (Bhagavata, 2, 5. 15.) and "The Srutis and Smritis are My commands". Temples are sacred and capable of cleansing a person because the Lord resides or presides there; this is so stated in the Mahabharata, Aranyaka, Tirthayatra chapter. Beginning with the statement, "Dvaraka is holy", it goes on to observe: There Hari, whose nature is beyond thought, and who has killed the demon, Madhu, dwells. It is holy, It is supremely great, it has holy waters, it is the penance-grove" (88. 24). Thus the purifying power of a place is said to be due to His connection with it. It is then concluded clearly: "Govinda indeed is the supremely pure among the pure. He is the holiest of the holy". (88. 26)
+In other cases, like that of the sacred waters which are purifying agencies, they acquire that characteristic only by their contact with the Lord. This is shown by the adjectives, 'supreme' and 'great'. It is not reasonable to hold that either sentient beings who are themselves naturally impure or the gods whe are also affected by impurity can purify others who are similarly situated. Hence it is that Parasara, Saunaka and others in the context of subhasraya (God as the substratum of auspiciousness) prohibit contemplation and worship of other gods, Subhasraya means an object of worship or meditation which is at once auspicious (i.e., subha or sin-destroying) and easy asraya for contemplation. Thus: "All the gods are impure because they are born in karma and are subject to karma" (Vishnu Purana), VI. 7.77); "All beings in this world, from Brahma (the fourfaced creator) down to a clump of grass, are all born in karma and are in the grip of samsara - Vishnu dharma). It is well stated (by authorities) that the gods acquire the capacity to purify only by contemplating on Him, worshipping Him, doing services to Him like sipping the water that has washed His feet, etc,. Similarly, the holy water and sacred temple acquire this capacity to purify only by their nearness to Him. Hence, says the Vishnu Purana (IV. 4.30) about the Ganga :"This is the greatness of the water that has flowed down from the toe of the left foot of Vishnu". And as for mere waters, it is said: "The waters are indeed the abode of Vishnu, and He is the Lord of the waters." In the same way, Time is (said to be auspicious and purificatory) because of its connection with Him, as being the hour of His Incarnation, or having Him as its deity, or as the hour of his going to sleep orwaking up, as for example dvadasi, (the welfth day of the lunar fortnight), jayanthi (birthday), sravanam, (a day when the moon is in conjunction with a lunar asterism in Capricorn sacred to Vishnu). Again atma-gunas (spiritual virtues such as self-contro1 , etc.) are said to be purificatory because they are helpful in knowing and realising Him. Sacrifices, charity, tapas and sraddha are purificatory because they acquire their purity because of their eligibility to study the Vedas which sing of Him. Hence it is said in the Mahabharata: "A Brahmin becomes a Brahmin and a seer of Truth only when he knows Vasudeva as the Pervader of the universe and as having traversed it by His feet. (Kranta)" The Vedas and the Smritis are also purifying as they are but His commands and recognise Him as supreme. Thus it is said: "The Vedas are about Narayana" (Bhagavata, 2, 5. 15.) and "The Srutis and Smritis are My commands". Temples are sacred and capable of cleansing a person because the Lord resides or presides there; this is so stated in the Mahabharata, Aranyaka, Tirthayatra chapter. Beginning with the statement, "Dvaraka is holy", it goes on to observe: There Hari, whose nature is beyond thought, and who has killed the demon, Madhu, dwells. It is holy, It is supremely great, it has holy waters, it is the penance-grove" (88. 24). Thus the purifying power of a place is said to be due to His connection with it. It is then concluded clearly: "Govinda indeed is the supremely pure among the pure. He is the holiest of the holy". (88. 26)
 </details>
 
 ## अभिलषणीयता
@@ -1315,7 +1475,7 @@ THE MOST DESIRABLE NATURE OF BHAGAVAN
 
 <details><summary>English</summary>
 
-Auspicious of the Auspicious (Mangalanam cha mangalam) He is the most intensely desirable, being more desirable than fragrant garlands, sandal paste, heavenly damsels and even nectar, and also more desirable than the individual soul which has destroyed all the impurities of samsara and is full of bliss and knowledge in its essence, pure and unlimited. For these reasons, He is the Supreme Object to be attained. This will be elaborated later. (yah: He who): It would have been appropriate to conclude that such a Person is the supreme goal. Instead of this, there is the statement. "He who is the goal", as if this is established. The intention is to show that this indeed is well- known as well-established in the sastras.
+Auspicious of the Auspicious (Mangalanam cha mangalam) He is the most intensely desirable, being more desirable than fragrant garlands, sandal paste, heavenly damsels and even nectar, and also more desirable than the individual soul which has destroyed all the impurities of samsara and is full of bliss and knowledge in its essence, pure and unlimited. For these reasons, He is the Supreme Object to be attained. This will be elaborated later. (yah: He who): It would have been appropriate to conclude that such a Person is the supreme goal. Instead of this, there is the statement. "He who is the goal", as if this is established. The intention is to show that this indeed is wellknown as well-established in the sastras.
 </details>
 
 ## ब्रह्मादीनामपि परब्रह्म-निमित्तकत्वोपपादनम्
@@ -1450,7 +1610,7 @@ Yaani Naamaani gaunaani Vikhyaataani Mahaatmanah I Rishibhih Parigeetaani Taani 
 
 <details><summary>English</summary>
 
-For, the Taittiriya Upanishad this describes the existence (sat) and non-existence (asat) of the individual soulI; "He who knows the Brahman as non-existent, himself becomes non- existent. Whoever knows the Brahman as existent is indeed truly existent. " (I,. vi. I) Of the great soul: Great is His glory and His knowledge deep and immeasurable. Hince it is impossible to give out all the Names of His. So it is said: "I have listened to the auspicious interpretation of the names of this God. From it I know only this, that Kesava indeed cannot be known fully." Those who wish to experience in this manner the Thousand Names of Vishnu, will be doing good to themselves. This is the meaning suggested by word Mahatmanah. The persons above-mentioned who are competent to utter these (Names of His) should not, as these Names are due to the gunas, mix with persons who are thieves of the gunas (i.e., those who deny these gunas to Vishnu or those who ascribe them to other deities).
+For, the Taittiriya Upanishad this describes the existence (sat) and non-existence (asat) of the individual soulI; "He who knows the Brahman as non-existent, himself becomes nonexistent. Whoever knows the Brahman as existent is indeed truly existent. " (I,. vi. I) Of the great soul: Great is His glory and His knowledge deep and immeasurable. Hince it is impossible to give out all the Names of His. So it is said: "I have listened to the auspicious interpretation of the names of this God. From it I know only this, that Kesava indeed cannot be known fully." Those who wish to experience in this manner the Thousand Names of Vishnu, will be doing good to themselves. This is the meaning suggested by word Mahatmanah. The persons above-mentioned who are competent to utter these (Names of His) should not, as these Names are due to the gunas, mix with persons who are thieves of the gunas (i.e., those who deny these gunas to Vishnu or those who ascribe them to other deities).
 </details>
 
 ## सगुण-निर्गुणवाक्यविचारः
@@ -1542,7 +1702,7 @@ that the Brahman is without flaw and full of attributes.
 
 <details><summary>English</summary>
 
-There is another point to be answered. What is it that removes the nescience in the Brahman? If the answer is. "He who realises monism or oneness", then this is a more delight- ful statement. The Supreme Brahman is suffering from illusion and the bound individual soul in samsara redeems it. (This is stating the proposition upside down).  
+There is another point to be answered. What is it that removes the nescience in the Brahman? If the answer is. "He who realises monism or oneness", then this is a more delightful statement. The Supreme Brahman is suffering from illusion and the bound individual soul in samsara redeems it. (This is stating the proposition upside down).  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1585,7 +1745,7 @@ There is another point. If the qualities of the Brahman are to be negated, what 
 
 <details><summary>English</summary>
 
-If it is argued that the rule in Mimamsa, (VI, 5. 19) that the later passages are more potent and negate the earlier ones like Prakriti, is to be applied here, no! The rule is not of uni- versal application. Besides, the earlier knowledge that a thing exists here cannot be stultified by the later statement that it is not. (Note).- The rule is exemplified in the following case : In the Pratassavana sacrifice, there are five priests who officiate, the "Adhvaryu". "Prastotri", "Pratihartri", "Udgatri" and 'Brahma'. When starting a prayer they move one behind another, round the sacrificial fire each taking hold of the girdle of the priest immediately before him. The sacrificer in turn has to take hold similarly of the 'Brahma' priest. It is laid down that if the 'Udgatri' accidentally lets go his hold, the sacrifice should be finished without distributing dakshina to the priests. It has to be started afresh and the dakshina prescribed in that case is that already prescribed. But if the 'Partihartri' lets go his hold, the dakshina prescribed is the whole wealth of the sacrificer. What is to happen, if both the 'Prastotri' and 'Udgatri' should lose hold, one soon after another? The rule is that the penalty prescribed in the later case is to prevail. Here, the penalties prescribed are opposed to each other and cannot be reconciled. Such is the rule.) When there is a breaking (of the chain of priests) round the sacrificial fire and this rule becomes relevant, the weakness of the earlier injunction is due to the fact that the later injunction cannot arise without wiping away the earlier one. Here (such a later statement) is said to arise. How to apply the rule here? The mention of the gunas and the denial of the gunas are not opposed to each other. Both may exist without contradicting each other. 
+If it is argued that the rule in Mimamsa, (VI, 5. 19) that the later passages are more potent and negate the earlier ones like Prakriti, is to be applied here, no! The rule is not of universal application. Besides, the earlier knowledge that a thing exists here cannot be stultified by the later statement that it is not. (Note).- The rule is exemplified in the following case : In the Pratassavana sacrifice, there are five priests who officiate, the "Adhvaryu". "Prastotri", "Pratihartri", "Udgatri" and 'Brahma'. When starting a prayer they move one behind another, round the sacrificial fire each taking hold of the girdle of the priest immediately before him. The sacrificer in turn has to take hold similarly of the 'Brahma' priest. It is laid down that if the 'Udgatri' accidentally lets go his hold, the sacrifice should be finished without distributing dakshina to the priests. It has to be started afresh and the dakshina prescribed in that case is that already prescribed. But if the 'Partihartri' lets go his hold, the dakshina prescribed is the whole wealth of the sacrificer. What is to happen, if both the 'Prastotri' and 'Udgatri' should lose hold, one soon after another? The rule is that the penalty prescribed in the later case is to prevail. Here, the penalties prescribed are opposed to each other and cannot be reconciled. Such is the rule.) When there is a breaking (of the chain of priests) round the sacrificial fire and this rule becomes relevant, the weakness of the earlier injunction is due to the fact that the later injunction cannot arise without wiping away the earlier one. Here (such a later statement) is said to arise. How to apply the rule here? The mention of the gunas and the denial of the gunas are not opposed to each other. Both may exist without contradicting each other. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1648,7 +1808,7 @@ It is also argued that the defence of the (co-existence) of passages affirming a
 
 <details><summary>English</summary>
 
-What then is the true position? The Vedic texts ascribing knowledge, power, etc., to the Brahman are with reference to the existence of beneficent and good Qualities a and the texts that deny qualities mean only that it is devoid of bad qualities such as attachment, hatred etc. Passages like "His wishes are true, His resolves are fulfilled" (Chh. Up. VIII. i, 5) illustrate auspicious qualities. While the denial in general terms of attributes can get its full meaning by restricting it to another aspect (namely, evil qualities), there is no necessity to say that the Brahman is not possessed of good qualities. This rule (that the general yields to the special) is to be found fully authoritative in 'Pad-ahavaniya', 'Brahmana Parivrajaka', 'Brahmana Koundinya', 'Gobalivarda' and similar maxims. [Note: Padahavaniya :- In the horse-sacrifice, some homas are prescribed to be performed on the hoof-marks of the horse, (Generally the homa is to be made only in a fire. The special mention of hoof- marks overrides the general rule about making oblations only in fire. Brahmana Parivrajaka : The term 'Brahmana' is general, while Parivrajaka (an ascetic) is special, Brahmana Koundinya : Again, 'Brahmana is general, while 'Koundinya' is special as referring to one belonging to the Koundinya gotra. Go-balivarda : 'Go (cattle) is general, balivarda (bull) is special] to bad qualities not found in the. Brahman; these words, go hand in hand with word, that lay down positive attributes. The latter speak equally explicitly of the existence of good qualities in the Brahman. In the same sentence, we find used with respect to the Brahman words like "He is sinless" at the beginning, and "His wishes are true, His resolves are fulfilled" (Chh. Up. VIII. ,. 5) at the end. Again, another text begins with the statement. "That which is invisible," and ends: "That which the wise see as the source of all beings, is eternal, all-pervading, existing everywhere, very subtle and imperishable" (Mund. Up. ,. 1.6.). Why then trouble about nyayas (analogies, maxims or arguments)? It is as plain as pikestaff, as when one man says "There is a pillar" and another says "There is no pot". (The one does not contradict the other). The author of the Vedanta Sutras explains in detail (in regard to God) the denial of visibility and such other qualities and the existence of auspicious qualities opposite there to in the aphorism. "That which is des- cribed as unseeable etc. (is the Paramatman), as qualities (peculiar to Him) are mentioned". (I. 2. 22.) 
+What then is the true position? The Vedic texts ascribing knowledge, power, etc., to the Brahman are with reference to the existence of beneficent and good Qualities a and the texts that deny qualities mean only that it is devoid of bad qualities such as attachment, hatred etc. Passages like "His wishes are true, His resolves are fulfilled" (Chh. Up. VIII. i, 5) illustrate auspicious qualities. While the denial in general terms of attributes can get its full meaning by restricting it to another aspect (namely, evil qualities), there is no necessity to say that the Brahman is not possessed of good qualities. This rule (that the general yields to the special) is to be found fully authoritative in 'Pad-ahavaniya', 'Brahmana Parivrajaka', 'Brahmana Koundinya', 'Gobalivarda' and similar maxims. [Note: Padahavaniya :- In the horse-sacrifice, some homas are prescribed to be performed on the hoof-marks of the horse, (Generally the homa is to be made only in a fire. The special mention of hoofmarks overrides the general rule about making oblations only in fire. Brahmana Parivrajaka : The term 'Brahmana' is general, while Parivrajaka (an ascetic) is special, Brahmana Koundinya : Again, 'Brahmana is general, while 'Koundinya' is special as referring to one belonging to the Koundinya gotra. Go-balivarda : 'Go (cattle) is general, balivarda (bull) is special] to bad qualities not found in the. Brahman; these words, go hand in hand with word, that lay down positive attributes. The latter speak equally explicitly of the existence of good qualities in the Brahman. In the same sentence, we find used with respect to the Brahman words like "He is sinless" at the beginning, and "His wishes are true, His resolves are fulfilled" (Chh. Up. VIII. ,. 5) at the end. Again, another text begins with the statement. "That which is invisible," and ends: "That which the wise see as the source of all beings, is eternal, all-pervading, existing everywhere, very subtle and imperishable" (Mund. Up. ,. 1.6.). Why then trouble about nyayas (analogies, maxims or arguments)? It is as plain as pikestaff, as when one man says "There is a pillar" and another says "There is no pot". (The one does not contradict the other). The author of the Vedanta Sutras explains in detail (in regard to God) the denial of visibility and such other qualities and the existence of auspicious qualities opposite there to in the aphorism. "That which is described as unseeable etc. (is the Paramatman), as qualities (peculiar to Him) are mentioned". (I. 2. 22.) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1727,7 +1887,7 @@ And he proves this proposition : "The Supreme is perfect and full of beneficent 
 
 <details><summary>English</summary>
 
-(The following passages bear this out) - "All good qualities inhere in Him". (Chh. Up. IV. xv. 2); "He is the controller of all, the ruler of all". (Brih. Up. VI. iv. 2); "He who understands all and knows all" (Mund. Up. I. i 10), "The Vedas say His mighty power is natural to Him, is of various kinds, and consists of knowledge, strength and activities" (Svet. Up. VI. 2); "Narayana is the father, mother, brother, the home, the refuge, the good-hearted friend and the ultimate goal'. (Subala Up VI ), "Creator of all actions, He is all sweet perfumes, He is all sweet tastes'. (Chh. Up. III. xiv. 2). In the 'Anandavalli' (of the Taittiriya Upanishad), it is demonstrated that mind and speech return (without comprehending the extent) from His bliss, because of the unlimited extent of His knowledge, might, and youth. The Vishnu Purana, in the context of explaining the connotation of the word "Bhagavan" mentions all His qualities in the passage beginning with "Pure and possessed of great glory" (VI. 5. 72.) Bhishma says in the Sabha Parvan (of the Mahabharata) : "I have served many virtuous men, ripe in wisdom and have heard from them the much- prized qualities of Sauri (Lord Krishna). I consider that Hari is the best person to be worshipped because of these qualities". Again, in Karna Parvan, he says: "The attributes and gunas of that great Victorious Person, the son of Vasudeva, adorned by the discus and conch and mace in His hands, cannot be sufficiently extolled by all the worlds gathering together and for tens of thousands of years' '. Also in the Varaha Purana: "If there is a person blessed with a life as long as that of Brahma (the four-faced Creator) and endowed with a crore of tongues and a mind pure and clean, such a person may perhaps be able to enumerate a ten thousandth part of Your qualities, or may not. Best of the gods! Be pleased with me". In the Matsya Purana : "lnnumerable are the qualities of the Supreme Soul as are the gems hidden In the ocean". The Vishnu Dharma also says : "The qualities of the Supreme Soul who is devoid of qualities like sattva or rajas of Prakriti, cannot be told by all the groups of rishis". The Mahabharata and the Ramayana also contain many passages of a similar nature. 
+(The following passages bear this out) - "All good qualities inhere in Him". (Chh. Up. IV. xv. 2); "He is the controller of all, the ruler of all". (Brih. Up. VI. iv. 2); "He who understands all and knows all" (Mund. Up. I. i 10), "The Vedas say His mighty power is natural to Him, is of various kinds, and consists of knowledge, strength and activities" (Svet. Up. VI. 2); "Narayana is the father, mother, brother, the home, the refuge, the good-hearted friend and the ultimate goal'. (Subala Up VI ), "Creator of all actions, He is all sweet perfumes, He is all sweet tastes'. (Chh. Up. III. xiv. 2). In the 'Anandavalli' (of the Taittiriya Upanishad), it is demonstrated that mind and speech return (without comprehending the extent) from His bliss, because of the unlimited extent of His knowledge, might, and youth. The Vishnu Purana, in the context of explaining the connotation of the word "Bhagavan" mentions all His qualities in the passage beginning with "Pure and possessed of great glory" (VI. 5. 72.) Bhishma says in the Sabha Parvan (of the Mahabharata) : "I have served many virtuous men, ripe in wisdom and have heard from them the muchprized qualities of Sauri (Lord Krishna). I consider that Hari is the best person to be worshipped because of these qualities". Again, in Karna Parvan, he says: "The attributes and gunas of that great Victorious Person, the son of Vasudeva, adorned by the discus and conch and mace in His hands, cannot be sufficiently extolled by all the worlds gathering together and for tens of thousands of years' '. Also in the Varaha Purana: "If there is a person blessed with a life as long as that of Brahma (the four-faced Creator) and endowed with a crore of tongues and a mind pure and clean, such a person may perhaps be able to enumerate a ten thousandth part of Your qualities, or may not. Best of the gods! Be pleased with me". In the Matsya Purana : "lnnumerable are the qualities of the Supreme Soul as are the gems hidden In the ocean". The Vishnu Dharma also says : "The qualities of the Supreme Soul who is devoid of qualities like sattva or rajas of Prakriti, cannot be told by all the groups of rishis". The Mahabharata and the Ramayana also contain many passages of a similar nature. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1806,7 +1966,7 @@ Moreover, when there is a prohibition of the imaginary attribution of name, clas
 
 <details><summary>English</summary>
 
-Some say: In the use of these Names, there is no scope for analysing each word into its parts and finding the actual meaning as derived from the meanings of each part. The real object is not to teach us the qualities. (That is to say, these names are used only as a help for the devotee to realise the Nirguna Brahman through the recitation of the qualities of the Saguna Brahman, a step towards such realisation.) This is an uncritical and highly exaggerated statement even on the surface. Because, these are words, significant conveying definite ideas, which cannot be ignored, and there is no authority to ignore, them. Besides, Bhishma himself describes these (holy) Names as gaunani (descriptive of His qualities.) The Vishnu Sukta speaks of "Those who have understood the meaning of the Names after analysing them into their components". Thus, the object of using the Names is only to remind us of the very many qualities of the Lord. It may well be that these Names remind us only of qualities known to us from other sastras as in the case of mantras. But that does not mean that the qualities denoted by the words ara altogethar non-existent. (For example, mantras are uttered in praise of certain deities before under- taking any ritual, like a sacrifice. The deity concerned is already known by the mandatory injunctions in the Vedas, and the mantras help only to remind the devotee of the detiy. On that reason, it cannot be argued that the mantra is not an authoritative source of knowledge.) Therefore, it is that in the introductory portion of this stotra as well as in its conclusion, Bhishma extols the gunas (including the actions) of the Lord: and the enumeration of the Names in the body of the stotra is for making us remember those qualities. The reason is that the uttering of even one of the holy Names is potent to grant us all benefits. Such a name becomes equivalent to mantras like the twelve-syllabled (Om Namo Bhagavate Vasudevaya) , or eight-syllabled (Om Namo Narayanaya) or the six-syllabled (Om Namo Vishnave). A mantra may be made the principal and all the others subsidiary: It is so stated in the Bhagavata scriptures. (And single Names by such. relationship with potent mantras give us all benefits.) As quoted from the Vishnu Sukta, "Namachit Vivaktana'. the word used, is in singular; it bears out the above statement about the potency of a single Name fully. 
+Some say: In the use of these Names, there is no scope for analysing each word into its parts and finding the actual meaning as derived from the meanings of each part. The real object is not to teach us the qualities. (That is to say, these names are used only as a help for the devotee to realise the Nirguna Brahman through the recitation of the qualities of the Saguna Brahman, a step towards such realisation.) This is an uncritical and highly exaggerated statement even on the surface. Because, these are words, significant conveying definite ideas, which cannot be ignored, and there is no authority to ignore, them. Besides, Bhishma himself describes these (holy) Names as gaunani (descriptive of His qualities.) The Vishnu Sukta speaks of "Those who have understood the meaning of the Names after analysing them into their components". Thus, the object of using the Names is only to remind us of the very many qualities of the Lord. It may well be that these Names remind us only of qualities known to us from other sastras as in the case of mantras. But that does not mean that the qualities denoted by the words ara altogethar non-existent. (For example, mantras are uttered in praise of certain deities before undertaking any ritual, like a sacrifice. The deity concerned is already known by the mandatory injunctions in the Vedas, and the mantras help only to remind the devotee of the detiy. On that reason, it cannot be argued that the mantra is not an authoritative source of knowledge.) Therefore, it is that in the introductory portion of this stotra as well as in its conclusion, Bhishma extols the gunas (including the actions) of the Lord: and the enumeration of the Names in the body of the stotra is for making us remember those qualities. The reason is that the uttering of even one of the holy Names is potent to grant us all benefits. Such a name becomes equivalent to mantras like the twelve-syllabled (Om Namo Bhagavate Vasudevaya) , or eight-syllabled (Om Namo Narayanaya) or the six-syllabled (Om Namo Vishnave). A mantra may be made the principal and all the others subsidiary: It is so stated in the Bhagavata scriptures. (And single Names by such. relationship with potent mantras give us all benefits.) As quoted from the Vishnu Sukta, "Namachit Vivaktana'. the word used, is in singular; it bears out the above statement about the potency of a single Name fully. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1829,7 +1989,7 @@ Some say: In the use of these Names, there is no scope for analysing each word i
 
 <details><summary>English</summary>
 
-In the chapters in the Mahabharata relating to the explanations of the meanings of the Names, it may be seen that, though it is true that Names pronounced merely and without knowledge of their meaning help, still revelation of the qualities through etymological interpretation quickly affords delight to mind and purity to heart. Thus: "Vyasa sitting with his disciples has praised Madhusudana by singing His holy Names. Please be good enough, venerable Sir, to teach me the full significance of these names. I am sincerely eager to hear. Hearing (the meaning of the Names) of Hari, the Lord even of the Creator , I shall become pure without any blemish like the autumnal moon' , (Santi-parvan, 342); and Dhritarashtra says: "O Sanjaya ! I ask of you tell me about the Lotus-eyed. I shall attain Him, dear sir by knowing the meaning of His holy Names and His activities:' (Udyoga- parvan, 59.) 
+In the chapters in the Mahabharata relating to the explanations of the meanings of the Names, it may be seen that, though it is true that Names pronounced merely and without knowledge of their meaning help, still revelation of the qualities through etymological interpretation quickly affords delight to mind and purity to heart. Thus: "Vyasa sitting with his disciples has praised Madhusudana by singing His holy Names. Please be good enough, venerable Sir, to teach me the full significance of these names. I am sincerely eager to hear. Hearing (the meaning of the Names) of Hari, the Lord even of the Creator , I shall become pure without any blemish like the autumnal moon' , (Santi-parvan, 342); and Dhritarashtra says: "O Sanjaya ! I ask of you tell me about the Lotus-eyed. I shall attain Him, dear sir by knowing the meaning of His holy Names and His activities:' (Udyogaparvan, 59.) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1844,6 +2004,6 @@ In the chapters in the Mahabharata relating to the explanations of the meanings 
 
 <details><summary>English</summary>
 
-The way to make Use of the Names along with their signs and symbols can be learnt from the words and the passages contained in the explanatory chapters of the 'Udyoga', 'Moksha- dharma" and "Vaishnava dharma" and also from the books that lay down the rules for performing japa in respect of each mantra. THUS ENDS The Introduction to be commentary called Sri Bhagavad- Guna-Darpana explaining the Thousand Names of Vishnu, written by Sri Ranganatha who is the shining star of Harita race, who is the son of Sri Vatsanka Misra and on whom was conferred the name of Parasara Bhatta by the divine command of Sri Rangaraja.
+The way to make Use of the Names along with their signs and symbols can be learnt from the words and the passages contained in the explanatory chapters of the 'Udyoga', 'Mokshadharma" and "Vaishnava dharma" and also from the books that lay down the rules for performing japa in respect of each mantra. THUS ENDS The Introduction to be commentary called Sri Bhagavad- Guna-Darpana explaining the Thousand Names of Vishnu, written by Sri Ranganatha who is the shining star of Harita race, who is the son of Sri Vatsanka Misra and on whom was conferred the name of Parasara Bhatta by the divine command of Sri Rangaraja.
 </details>
 
