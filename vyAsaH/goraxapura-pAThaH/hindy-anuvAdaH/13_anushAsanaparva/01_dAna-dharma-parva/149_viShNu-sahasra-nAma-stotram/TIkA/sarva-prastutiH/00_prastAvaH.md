@@ -12,7 +12,14 @@ title = "०० प्रस्तावः"
 
 </details>
 
+<details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
+
+Vaisampayana narrated this chapter as another great secret without being asked and of his own accord out of his great friendliness to Janamejaya, who, perhaps, observed silence and refrained from further questioning because he had felt satisfied that he had understood all about the truths from what had been told him already often in various chapters about the Supreme Reality.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्री वैशम्पायन उवाच -
 
 श्रुत्वा धर्मान् अशेषेण  
 पावनानि च सर्वशः ।  
@@ -21,6 +28,8 @@ title = "०० प्रस्तावः"
 </details>
 
 <details><summary>मूलम्</summary>
+
+श्री वैशम्पायन उवाच -
 
 श्रुत्वा धर्मान् अशेषेण पावनानि च सर्वशः ।  
 युधिष्ठिरश् शान्तनवं पुनर् एवाभ्यभाषत ॥
@@ -68,35 +77,15 @@ His interest was sincere to follow the course of conduct of great men.
 For good men seek to know the stand taken by the preceptors and take delight in what is considered by them as the truth and as beneficial conduct. They do not do any action merely because it is laid down in Sastras. (Sanction by an authoritative sastra is not enough; it must be accepted and followed by great and good men).
 </details>
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-श्री वैशम्पायन उवाच -
-
-श्रुत्वा धर्मानशेषेण पावनानि च सर्वशः ।
-युधिष्ठिरश् शान्तनवं पुनरेवाभ्यभाषत ॥ १ ॥
-</details>
-
-<details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
-
-Vaisampayana narrated this chapter as another great secret without being asked and of his own accord out of his great friendliness to Janamejaya, who, perhaps, observed silence and refrained from further questioning because he had felt satisfied that he had understood all about the truths from what had been told him already often in various chapters about the Supreme Reality.
-</details>
-
-<details><summary>मूलम्</summary>
-
-श्री वैशम्पायन उवाच -
-
-श्रुत्वा धर्मानशेषेण पावनानि च सर्वशः ।
-युधिष्ठिरश् शान्तनवं पुनरेवाभ्यभाषत ॥ १ ॥
-</details>
-
-
-
 <details open><summary>पराशरभट्टः</summary>
 
 तत्रेदम् आदाव् एवोदैरिराम—  
 प्रेक्षावद्भिः प्रमाणेन परिच्छिद्यानुकूलं प्रमेयम् उपादेयम् इति ।  
-तच् च द्वैधं वर्तते उपायोपेयात्मना । उपेयं च प्रिय-प्रियतर-प्रियतम-रूपेण त्रैधम्, उपायश् च हित-हिततर-हिततम-रूपेण । तत्रोपेयस्य जन्मर्द्धि-परिणामानित्यत्वादयः चेतन-धर्माः क्लेश-कर्म-विपाकाशयाश् च दोषाः; गुणाश् च दोषासंभेद-रुचिरत्व-स्थावरत्व-भूयस्त्व-विशिष्टाः संविदानन्दैश्वर्य-विभूति-विशेषादयः । उपायस्य तु व्ययायास-भूयस्त्व-व्यभिचारित्व-फल्गु-फलत्वादयो दोषाः । गुणाश् च नियत-निरपाय-लघुतर-बहु-फलकत्वादयः । एवंविध-दोषहान-गुणवत्त्व-तारतम्येनोपायोपेययोस् तरतम-भावः । उभयत्रापि संभवत्य् उत्कृष्टतमे उत्कृष्टोत्कृष्टतरयोर् निकृष्टवद् वर्जनीयत्वम् एव । तत्रानिष्टेभ्य इष्टेभ्यो ऽपि निकृष्टेभ्यो निष्कृष्योत्कृष्टतमम् उपादातुम् उपायोपेयौ सह तारतम्येन प्रष्टव्यौ । तौ च विवक्षा-वशेन षोढा विभज्य पृच्छन् युधिष्ठिर उवाच "किम् एकम्" इति श्लोक-द्वयेन ॥
+तच् च द्वैधं वर्तते उपायोपेयात्मना ।  
+उपेयं च प्रिय-प्रियतर-प्रियतम-रूपेण त्रैधम्,  
+उपायश् च हित-हिततर-हिततम-रूपेण ।  
+
+तत्रोपेयस्य जन्मर्द्धि-परिणामानित्यत्वादयः चेतन-धर्माः क्लेश-कर्म-विपाकाशयाश् च दोषाः; गुणाश् च दोषासंभेद-रुचिरत्व-स्थावरत्व-भूयस्त्व-विशिष्टाः संविदानन्दैश्वर्य-विभूति-विशेषादयः । उपायस्य तु व्ययायास-भूयस्त्व-व्यभिचारित्व-फल्गु-फलत्वादयो दोषाः । गुणाश् च नियत-निरपाय-लघुतर-बहु-फलकत्वादयः । एवंविध-दोषहान-गुणवत्त्व-तारतम्येनोपायोपेययोस् तरतम-भावः । उभयत्रापि संभवत्य् उत्कृष्टतमे उत्कृष्टोत्कृष्टतरयोर् निकृष्टवद् वर्जनीयत्वम् एव । तत्रानिष्टेभ्य इष्टेभ्यो ऽपि निकृष्टेभ्यो निष्कृष्योत्कृष्टतमम् उपादातुम् उपायोपेयौ सह तारतम्येन प्रष्टव्यौ । तौ च विवक्षा-वशेन षोढा विभज्य पृच्छन् युधिष्ठिर उवाच "किम् एकम्" इति श्लोक-द्वयेन ॥
 </details>
 
 
