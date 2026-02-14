@@ -1,0 +1,8 @@
++++
+title = "16 अनपेक्षः शुचिर्दक्ष"
+
++++
+12.16 अनपेक्षः (he who is) free from wants; शुचिः pure; दक्षः expert;
+उदासीनः unconcerned; गतव्यथः free from pain; सर्वारम्भपरित्यागी
+renouncing all undertakings or commencements; यः who; मद्भक्तः
+My,devotee; सः he; मे to Me; प्रियः dear.CommentarY He is free from dependence. He is indifferent to the body; the senses; the objects of the senses and their mutual connections. He has external and internal purity. External purity is attained through earth and water (washing and bathing). Inner purity is attained by the eradication of likes and dislikes; lust; anger; jealousy; etc.; and through the cultivation of the virtues -- friendship (towards eals); compassion (towards those who are inferior) and complacency (towards superiors).Daksha Prompt; swift and skilful in all actions expert. He is able to decide rightly and immediately in matters that demand prompt attention and action.Udasina He who does not take up the side of a friend and the like (in a controversy) he who is indifferent to whatever happens.Gatavyathah He who is free from pain. He is not troubled even if he is beaten by a wicked man. He is not pained or afflicted by any result of any action or any happening.Sarvarambhaparityagi He habitually renounces all actions calculated to secure the objects of enjoyment; whether of this world or of the next. He has abandoned all egoistic; personal and mental initiative in all actions; mental and physical. He has merged his will in the cosmic will. He allows the divine will to work through him. He has neither preference nor personal desire and so he is swift; prompt and skilful in all actions. The divine will works through him in a dynamic manner.Such a devotee is My own Self and so he is very dear to Me.

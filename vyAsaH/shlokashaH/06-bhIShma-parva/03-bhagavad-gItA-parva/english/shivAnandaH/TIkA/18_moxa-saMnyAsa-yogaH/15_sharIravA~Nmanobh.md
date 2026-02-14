@@ -1,0 +1,7 @@
++++
+title = "15 शरीरवाङ्मनोभिर्यत्कर्म"
+
++++
+18.15 शरीरवाङ्मनोभिः by (his) body; speech and mind; यत् whatever; कर्म
+action; प्रारभते performs; नरः man; न्याय्यम् right; वा or; विपरीतम् the reverse; वा or; पञ्च five; एते these; तस्य its; हेतवः causes.Commentary Nyayyam Right Not opposed to Dharma conformable to the scriptures justifiable.Viparitam The opposite What is opposite to Dharma and opposed to the scriptures unjustifiable.Even those actions; -- acts like winking and the like which are necessary conditions of life; are indicated by the term the right and the reverse; as they are effects of past Dharma and Adharma.Tasya Hetavah Its Causes The causes of every action.An objector argues In the previous verse it is said that the body; actor; various organs; etc.; are the necessary factors of every action. Why do you then make a distinction in actions by saying whatever action a man does by the body; speech and mindOur answer is In the performance of every action; one of the three -- body; speech or mind --
+has a more prominent share than the others while seeing; hearing and other activities which accompany or go along with life are subordinate to that one.Therefore all actions are classified under three groups and are spoken of as done by the body or speech or mind. The fruit of an actions also is enjoyed through the body; speech and mind and one of the three takes a more prominent share than the rest. Therefore; it is proper to say Whatever action a man performs with his body; speech and mind৷৷.
