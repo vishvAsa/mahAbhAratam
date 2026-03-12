@@ -4,91 +4,14 @@ title = "Mahabharata: Mahaprasthanikaparvan"
 +++
 
 
-## Intro
-  
-  
-  
-  
-Mahabharata: Mahaprasthanikaparvan  
-  
-  
-  
-  
-% Mahabharata: Mahaprasthanikaparvan  
-% Electronic text (C) Bhandarkar Oriental Research Institute,  
-% Pune, India, 1999  
-  
-% On the basis of the text entered by Muneo Tokunaga et al.,   
-% revised by John Smith, Cambridge, et al.  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
 
-## पाठः
 
 
 १७,०००।०००--०००१_०१ नारायणं नमस्कृत्य नरं चैव नरोत्तमम्  
 १७,०००।०००--०००१_०२ देवीं सरस्वतीं चैव ततो जयम् उदीरयेत्  
 १७,०००।०००--०००२_०१ -- -- -- -- -- -- -- सत्यवतीहृदयनन्दनो व्यासः  
 १७,०००।०००--०००२_०२ यस्यास्यकमलगलितं वाङ्मधुपुण्यं जगत् पिबति  
+## 
 १७,००१।००१ जनमेजय उवाच  
 १७,००१।००१अ एवं वृष्ण्यन्धककुले श्रुत्वा मौसलम् आहवम्  
 १७,००१।००१च् पाण्डवाः किम् अकुर्वन्त तथा कृष्णे दिवं गते  
@@ -196,6 +119,7 @@ For further information see:
 १७,००१।०४३द्--०००९_०२ मनोभिः पूजयन्तश् च जनार्दनम् अनिन्दिताः  
 १७,००१।०४४अ उदीचीं पुनर् आवृत्त्य ययुर् भरतसत्तमाः  
 १७,००१।०४४च् प्रादक्षिण्यं चिकीर्षन्तः पृथिव्या योगधर्मिणः  
+## 
 १७,००२।००१ वैशम्पायन उवाच  
 १७,००२।००१अ ततस् ते नियतात्मान उदीचीं दिशम् आस्थिताः  
 १७,००२।००१ब्--००१०_०१ ततस् ते ब्राह्मणीं स्नात्वा दृष्ट्वा देवं जले स्थितम्  
@@ -268,6 +192,7 @@ For further information see:
 १७,००२।०२६ वैशम्पायन उवाच  
 १७,००२।०२६अ इत्य् उक्त्वा तं महाबाहुर् जगामानवलोकयन्  
 १७,००२।०२६च् श्वा त्व् एको ऽनुययौ यस् ते बहुशः कीर्तितो मया  
+## 
 १७,००३।००१ वैशम्पायन उवाच  
 १७,००३।००१अ ततः सन्नादयञ् शक्रो दिवं भूमिं च सर्वशः  
 १७,००३।००१च् रथेनोपययौ पार्थम् आरोहेत्य् अब्रवीच् च तम्  

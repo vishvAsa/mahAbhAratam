@@ -4,89 +4,12 @@ title = "Mahabharata: Svargarohanaparvan"
 +++
 
 
-## Intro
-  
-  
-  
-  
-Mahabharata: Svargarohanaparvan  
-  
-  
-  
-  
-% Mahabharata: Svargarohanaparvan  
-% Electronic text (C) Bhandarkar Oriental Research Institute,  
-% Pune, India, 1999  
-  
-% On the basis of the text entered by Muneo Tokunaga et al.,   
-% revised by John Smith, Cambridge, et al.  
-  
-  
-  
-  
-THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY!  
-COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
-  
-Text converted to Unicode (UTF-8).  
-(This file is to be used with a UTF-8 font and your browser's VIEW configuration  
-set to UTF-8.)  
-  
-  
-  
-description:multibyte sequence:  
-long a  ā     
-long A  Ā     
-long i  ī     
-long I  Ī     
-long u  ū     
-long U  Ū     
-vocalic r  ṛ    
-vocalic R  Ṛ    
-long vocalic r  ṝ    
-vocalic l  ḷ    
-vocalic L  Ḷ    
-long vocalic l  ḹ    
-velar n  ṅ    
-velar N  Ṅ    
-palatal n  ñ     
-palatal N  Ñ     
-retroflex t  ṭ    
-retroflex T  Ṭ    
-retroflex d  ḍ    
-retroflex D  Ḍ    
-retroflex n  ṇ    
-retroflex N  Ṇ    
-palatal s  ś     
-palatal S  Ś     
-retroflex s  ṣ    
-retroflex S  Ṣ    
-anusvara  ṃ    
-visarga  ḥ    
-long e  ē     
-long o  ō     
-l underbar  ḻ    
-r underbar  ṟ    
-n underbar  ṉ    
-k underbar  ḵ    
-t underbar  ṯ    
-  
-  
-  
-Unless indicated otherwise, accents have been dropped in order   
-to facilitate word search.  
-  
-For a comprehensive list of GRETIL encodings and formats see:  
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf  
-and  
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-For further information see:
 
-## पाठः
 
 
 १८,०००।०००--०००१_०१ नारायणं नमस्कृत्य नरं चैव नरोत्तमम्  
 १८,०००।०००--०००१_०२ देवीं सरस्वतीं चैव ततो जयम् उदीरयेत्  
+## 
 १८,००१।००१ जनमेजय उवाच  
 १८,००१।००१अ स्वर्गं त्रिविष्टपं प्राप्य मम पूर्वपितामहाः  
 १८,००१।००१च् पाण्डवा धार्तराष्ट्राश् च कानि स्थानानि भेजिरे  
@@ -144,6 +67,7 @@ For further information see:
 १८,००१।०२५च् विराटद्रुपदौ चैव धृष्टकेतुमुखांश् च तान्  
 १८,००१।०२६अ शिखण्डिनं च पाञ्चाल्यं द्रौपदेयांश् च सर्वशः  
 १८,००१।०२६च् अभिमन्युं च दुर्धर्षं द्रष्टुम् इच्छामि नारद  
+## 
 १८,००२।००१ युधिष्ठिर उवाच  
 १८,००२।००१अ नेह पश्यामि विबुधा राधेयम् अमितौजसम्  
 १८,००२।००१च् भ्रातरौ च महात्मानौ युधामन्यूत्तमौजसौ  
@@ -260,6 +184,7 @@ For further information see:
 १८,००२।०५३च् जगाम तत्र यत्रास्ते देवराजः शतक्रतुः  
 १८,००२।०५४अ निवेदयाम् आस च तद् धर्मराजचिकीर्षितम्  
 १८,००२।०५४च् यथोक्तं धर्मपुत्रेण सर्वम् एव जनाधिप  
+## 
 १८,००३।००१ वैशम्पायन उवाच  
 १८,००३।००१अ स्थिते मुहूर्तं पार्थे तु धर्मराजे युधिष्ठिरे  
 १८,००३।००१च् आजग्मुस् तत्र कौरव्य देवाः शक्रपुरोगमाः  
@@ -360,6 +285,7 @@ For further information see:
 १८,००३।०४१च् धर्मेण सहितो धीमान् स्तूयमानो महर्षिभिः  
 १८,००३।०४१x--००१४_०१ यत्र ते पुरुषव्याघ्राः शूरा विगतमन्यवः  
 १८,००३।०४१x--००१४_०२ पाण्डवा धार्तराष्ट्राश् च स्वानि स्थानानि भेजिरे  
+## 
 १८,००४।००१ वैशम्पायन उवाच  
 १८,००४।००१अ ततो युधिष्ठिरो राजा देवैः सर्षिमरुद्गणैः  
 १८,००४।००१च् पूज्यमानो ययौ तत्र यत्र ते कुरुपुङ्गवाः  
@@ -411,6 +337,7 @@ For further information see:
 १८,००४।०१८च् गन्धर्वैः सहिता यान्ति यक्षैः पुण्यजनैस् तथा  
 १८,००४।०१९अ गुह्यकानां गतिं चापि के चित् प्राप्ता नृसत्तमाः  
 १८,००४।०१९च् त्यक्त्वा देहं जितस्वर्गाः पुण्यवाग्बुद्धिकर्मभिः  
+## 
 १८,००५।००१ जनमेजय उवाच  
 १८,००५।००१अ भीष्मद्रोणौ महात्मानौ धृतराष्ट्रश् च पार्थिवः  
 १८,००५।००१च् विराटद्रुपदौ चोभौ शङ्खश् चैवोत्तरस् तथा  
