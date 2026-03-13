@@ -10,7 +10,7 @@ This was published by Chitrashala, Mumbai, in 1936 along with the corpus of hari
 
 Devotees are supposed to recite it daily in morning prayers, since this is called - sakala bhAarata upasaMhAarabhUta - the concluding and evocative chapter of mahAbhArata. While V.S. Sukthankar says that only two verses as bhArata sAvitri while quoting "the essence of the book (Bharata-savitrl), embodying the moral of the story, is given as (B. 18. 5. 62 f.) "urdhva bAhur viraumi eSha... and na jAtu kAmAn... Pt. Kinjavadekar publishes a hundred verse chapter under the name of bhArata sAvitri as an annexure of harivaMsham. This bhArata sAvitri is cited by many pundits like vidyAnidhi siddheshvara shAstry in his book called bhArata varShIya prAcIna charitra kosha, and in many books related to mahAbhArata, like the one written by Chintamani Vinaayak Vaidya, et al.
 
-While Valmiki Ramayana itself is a proponent of gAyatri mantra, this "bhArata sAvitri itself is said to be the gayatri mantra with reference to mahAbhArata. So, this stotra or hymn to gAyatri, aka sAvitri, has emerged as - bhArata sAra saMgraha - the sum total of mahAbhArata.
+While Valmiki Ramayana itself is a proponent of gAyatri mantra, this "bhArata sAvitri itself is said to be the gayatri mantra with reference to mahAbhArata. So, this stotra or hymn to gAyatri, aka sAvitri, has emerged as - **bhArata sAra saMgraha** - the sum total of mahAbhArata.
 
 Tanjavore Sarasvati Mahal Library is having bhArata sAvitri stotra-s with these catalog numbers: 23245 BHARATA VIVARANA STOTRAM; 20138 BHARATA SAVITRI STOTRAM; 20132 BHARATA SAVITRI STOTRAM; 20133 BHARATA SAVITRI STOTRAM. But, they are not able to supply printed versions of this text.
 
