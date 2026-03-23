@@ -1,9 +1,0 @@
-+++
-title = "73 नष्टो मोहः"
-+++
-
-<details><summary>शिवानन्दः</summary>
-
-18.73 Arjuna said Destroyed is my delusion as I have gained my knowledge
-(memory) through Thy grace, O Krishna. I remain freed from doubts. I will act according to Thy word.
-</details>

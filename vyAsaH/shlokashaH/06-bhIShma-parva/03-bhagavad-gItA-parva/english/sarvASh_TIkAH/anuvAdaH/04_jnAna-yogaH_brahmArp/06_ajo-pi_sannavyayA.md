@@ -1,8 +1,0 @@
-+++
-title = "06 अजोऽपि सन्नव्ययात्मा"
-+++
-
-<details><summary>शिवानन्दः</summary>
-
-4.6 Though I am unborn, of imperishable nature, and though I am the Lord of all beings, yet, governing My own Nature, I am born by My own Maya.
-</details>

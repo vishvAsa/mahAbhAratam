@@ -1,9 +1,0 @@
-+++
-title = "16 अनेकचित्तविभ्रान्ता"
-+++
-
-<details><summary>शिवानन्दः</summary>
-
-16.16 Bewildered by many a fancy, entangled in the snare of delusion,
-addicted to the gratification of lust, they fall into a foul hell.
-</details>

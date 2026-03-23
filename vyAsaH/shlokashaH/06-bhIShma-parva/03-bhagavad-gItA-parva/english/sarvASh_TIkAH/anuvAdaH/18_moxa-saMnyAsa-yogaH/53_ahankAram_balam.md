@@ -1,8 +1,0 @@
-+++
-title = "53 अहङ्कारम् बलम्"
-+++
-
-<details><summary>शिवानन्दः</summary>
-
-18.53 Having abandoned egoism, strength, arrogance, desire, anger and covetousness, and free from the notion of 'mine' and peaceful, he is fit for becoming Brahman.
-</details>

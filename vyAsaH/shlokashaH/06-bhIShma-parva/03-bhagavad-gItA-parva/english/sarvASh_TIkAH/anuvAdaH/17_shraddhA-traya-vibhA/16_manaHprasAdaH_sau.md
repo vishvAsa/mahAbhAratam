@@ -1,8 +1,0 @@
-+++
-title = "16 मनःप्रसादः सौम्यत्वम्"
-+++
-
-<details><summary>शिवानन्दः</summary>
-
-17.16 Serenity of mind, good-heartedness, self-control, purity of nature this is called mental austerity.
-</details>
