@@ -1,0 +1,8 @@
++++
+title = "11 दिव्यमाल्याम्बरधरन्"
++++
+
+<details><summary>शिवानन्दः</summary>
+
+11.11 Wearing divine garlands (necklaces) and apparel, anointed with divine unguents, the all-wonderful, resplendent (Being) endless with faces on all sides.
+</details>

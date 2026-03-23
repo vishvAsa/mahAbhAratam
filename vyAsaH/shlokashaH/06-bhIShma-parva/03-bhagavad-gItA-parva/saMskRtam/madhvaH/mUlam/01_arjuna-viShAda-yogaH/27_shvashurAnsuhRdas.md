@@ -1,9 +1,0 @@
-+++
-title = "27 श्वशुरान्सुहृदश्चैव"
-
-+++
-  
-  
-॥1.27॥ Sri Madhvacharya did not comment on this sloka. The commentary
-starts from 2.11.  
-  

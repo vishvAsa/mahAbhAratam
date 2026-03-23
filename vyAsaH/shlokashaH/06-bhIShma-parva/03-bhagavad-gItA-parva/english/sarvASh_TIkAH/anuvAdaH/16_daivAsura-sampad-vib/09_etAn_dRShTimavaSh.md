@@ -1,0 +1,8 @@
++++
+title = "09 एतान् दृष्टिमवष्टभ्य"
++++
+
+<details><summary>शिवानन्दः</summary>
+
+16.9 Holding this view, these ruined souls of small intellect and fierce deeds, come forth as the enemies of the world for its destruction.
+</details>

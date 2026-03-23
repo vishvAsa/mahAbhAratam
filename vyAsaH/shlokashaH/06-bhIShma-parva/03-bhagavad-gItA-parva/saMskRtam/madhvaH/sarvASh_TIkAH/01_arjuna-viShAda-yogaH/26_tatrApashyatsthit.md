@@ -1,0 +1,15 @@
++++
+title = "26 तत्रापश्यत्स्थितान्पार्थः"
++++
+
+<details><summary>मूलम्</summary>
+
+॥1.26॥ Sri Madhvacharya did not comment on this sloka. The commentary
+starts from 2.11.
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥1.26॥ Sri Jayatirtha did not comment on this sloka. The commentary
+starts from 2.11.
+</details>

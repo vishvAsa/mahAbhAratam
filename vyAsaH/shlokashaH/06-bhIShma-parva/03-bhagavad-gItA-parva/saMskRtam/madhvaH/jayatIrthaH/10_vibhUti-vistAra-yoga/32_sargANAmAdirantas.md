@@ -1,6 +1,0 @@
-+++
-title = "32 सर्गाणामादिरन्तश्च"
-
-+++
-॥10.32॥ Sri Jayatirtha did not comment on this sloka.  
-  

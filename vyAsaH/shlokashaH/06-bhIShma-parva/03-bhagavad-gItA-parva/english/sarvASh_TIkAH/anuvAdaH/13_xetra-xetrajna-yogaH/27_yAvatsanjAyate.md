@@ -1,0 +1,8 @@
++++
+title = "27 यावत्सञ्जायते"
++++
+
+<details><summary>शिवानन्दः</summary>
+
+13.27 Wherever a being is born, whether unmoving or moving, know thou, O best of the Bharatas (Arjuna), that it is from the union between the field and its knower.
+</details>

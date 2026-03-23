@@ -1,0 +1,8 @@
++++
+title = "22 एतैर्विमुक्तः कौन्तेय"
++++
+
+<details><summary>शिवानन्दः</summary>
+
+16.22 A man who is liberated from these three gates to darkness, O Arjuna, practises what is good for him and thus goes to the Supreme Goal.
+</details>

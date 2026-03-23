@@ -1,5 +1,0 @@
-+++
-title = "07 प्रवृत्तिञ् च"
-
-+++
-॥16.7॥ Sri Madhvacharya did not comment on this sloka.

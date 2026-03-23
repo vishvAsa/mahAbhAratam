@@ -1,0 +1,8 @@
++++
+title = "01 ये शास्त्रविधिमुत्सृज्य"
++++
+
+<details><summary>शिवानन्दः</summary>
+
+17.1 Arjuna said Those who, setting aside the ordinances of the scriptures, perform sacrifice with faith, what is their condition, O Krishna; Is is Sattva, Rajas or Tamas;
+</details>

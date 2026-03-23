@@ -1,0 +1,13 @@
++++
+title = "45 स्वे स्वे"
++++
+
+<details><summary>मूलम्</summary>
+
+॥18.45॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥18.45॥ Sri Jayatirtha did not comment on this sloka.
+</details>

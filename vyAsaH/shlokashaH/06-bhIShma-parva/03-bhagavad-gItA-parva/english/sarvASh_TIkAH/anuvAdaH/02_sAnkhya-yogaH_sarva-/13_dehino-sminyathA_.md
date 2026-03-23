@@ -1,0 +1,9 @@
++++
+title = "13 देहिनोऽस्मिन्यथा देहे"
++++
+
+<details><summary>शिवानन्दः</summary>
+
+2.13 Just as in this body the embodied (soul) passes into childhood,
+youth and old age, so also does it pass into another body; the firm man does not grieve thereat.
+</details>

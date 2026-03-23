@@ -1,0 +1,8 @@
++++
+title = "27 ब्रह्मणो हि"
++++
+
+<details><summary>शिवानन्दः</summary>
+
+14.27 For I am the abode of Brahman, the immortal and the immutable, of everlasting Dharma and of absolute bliss.
+</details>

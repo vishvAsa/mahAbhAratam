@@ -1,0 +1,9 @@
++++
+title = "11 देवान्भावयतानेन ते"
++++
+
+<details><summary>शिवानन्दः</summary>
+
+3.11 With this do ye nourish the gods and may those gods nourish you;
+thus nourishing one another, ye shall attain to the highest good.
+</details>

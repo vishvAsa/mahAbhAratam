@@ -1,6 +1,0 @@
-+++
-title = "12 लोभः प्रवृत्तिरारम्भः"
-
-+++
-॥14.12॥ Sri Jayatirtha did not comment on this sloka.  
-  

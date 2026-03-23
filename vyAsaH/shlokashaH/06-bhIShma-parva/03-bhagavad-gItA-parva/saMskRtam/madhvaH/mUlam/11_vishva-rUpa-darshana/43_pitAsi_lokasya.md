@@ -1,5 +1,0 @@
-+++
-title = "43 पितासि लोकस्य"
-
-+++
-॥11.43॥ Sri Madhvacharya did not comment on this sloka.,
