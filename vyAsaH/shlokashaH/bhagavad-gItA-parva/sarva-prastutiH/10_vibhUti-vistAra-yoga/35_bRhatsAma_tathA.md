@@ -1,160 +1,101 @@
 +++
 title = "35 बृहत्साम तथा"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **बृहत्-साम** तथा साम्नां  
 **गायत्री** छन्दसाम् अहम्।  
 +++(-1400तो -600 BCE वसन्तादिम् इवासूचयद् इति)+++ मासानां **मार्गशीर्षो** ऽहम्  
 **ऋतूनां** कुसुमाकरः॥10.35॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 बृहत्साम तथा साम्नां गायत्री छन्दसामहम्।  
-मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः।।10.35।।
+मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः॥10.35॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।10.35।।**साम्नां बृहत्साम** अहम्; **छन्दसां गायत्रीं अहम्; ऋतूनां
-कुसुमाकरः** वसन्तः।
-
+॥10.35॥**साम्नां बृहत्साम** अहम्; **छन्दसां गायत्रीम् अहम्; ऋतूनां कुसुमाकरः** वसन्तः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।10.35।। सामसु बृहत्साम्न उत्कृष्टत्वं श्रुत्यैव सिद्धंबृहच्च वा इदमग्र
-रथन्तरं च आस्तां वाक्च वै तन्मनञ्चास्तां वाग्वै रथन्तरं मनो
-बृहत्तद्बृहत्पूर्वं ससृजानं रथन्तरमत्यमन्यत तद्रथन्तरं गर्भमधत्त \[म.ता.
-\] इति। गायत्र्याश्छन्दसां मातृत्वेनोत्कर्षः श्रुतिषु च्छन्दोविचित्यां च
-प्रपञ्चितः। यथा बह्वचोपनिषदि अग्रं वै छन्दसां गायत्री इति। मासेषु
-मार्गशीर्षस्यातिशयः वर्षगर्भाधानकालत्वान्मासाधिदेवेषु केशवादिषु प्रथमस्य
-केशवस्य मासत्वाद्ब्रतवर्गारम्भकालत्वाच्च। कुसुमाकरशब्देनैव वसन्तस्य
-प्रत्यक्षसिद्धः सर्वप्राणिसुखहेतुरतिशयो द्योतितः। वसन्ते वसन्ते ज्योतिषा
-यजेत वसन्ते दीक्षयेद्विप्रं ग्रीष्मै राजन्यमेव च इत्यादिभिश्च।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥10.35॥ सामसु बृहत्साम्न उत्कृष्टत्वं श्रुत्यैव सिद्धम्बृहच्च वा इदमग्र रथन्तरं च आस्तां वाक्च वै तन्मनञ्चास्तां वाग्वै रथन्तरं मनो बृहत्तद्बृहत्पूर्वं ससृजानं रथन्तरमत्यमन्यत तद्रथन्तरं गर्भमधत्त \[म.ता. \] इति। गायत्र्याश्छन्दसां मातृत्वेनोत्कर्षः श्रुतिषु च्छन्दोविचित्यां च प्रपञ्चितः। यथा बह्वचोपनिषदि अग्रं वै छन्दसां गायत्री इति। मासेषु मार्गशीर्षस्यातिशयः वर्षगर्भाधानकालत्वान्मासाधिदेवेषु केशवादिषु प्रथमस्य केशवस्य मासत्वाद्ब्रतवर्गारम्भकालत्वाच्च। कुसुमाकरशब्देनैव वसन्तस्य प्रत्यक्षसिद्धः सर्वप्राणिसुखहेतुरतिशयो द्योतितः। वसन्ते वसन्ते ज्योतिषा यजेत वसन्ते दीक्षयेद्विप्रं ग्रीष्मै राजन्यमेव च इत्यादिभिश्च।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.35 Of Saman hymns, I am the Brhatsaman. Of meters, I am the Gayatri.
-Of seasons, I am the season of flowers (spring).
+<details><summary>आदिदेवानन्दः</summary>
 
+10.35 Of Saman hymns, I am the Brhatsaman. Of meters, I am the Gayatri. Of seasons, I am the season of flowers (spring).
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।10.19 -- 10.42।। हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा
-(श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय
-इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन;
-निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा
-व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति
-तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण)
-भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय;
-पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत्
-स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि
-त्रिपादस्यामृतं दिवि।। इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं
-भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S
-तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N --,विचित्ररूपै -- )+++ सकलस्य +++(S;N
-सकलमस्य)+++ विषयतां यातीति।
-
+॥10.35॥ --,**बृहत्साम तथा साम्नां** प्रधानमस्मि। **गायत्री च्छन्दसाम् अहं** गायत्र्यादिच्छन्दोविशिष्टानामृचां गायत्री ऋक् अहम् अस्मि इत्यर्थः। **मासानां मार्गशीर्षः अहम्; ऋतूनां कुसुमाकरः** वसन्तः॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.35 See Comment under 10.42
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।10.35।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।10.35।। Sri Jayatirtha did not comment on this sloka.  
-  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।10.35।। --,**बृहत्साम तथा साम्नां** प्रधानमस्मि। **गायत्री च्छन्दसाम्
-अहं** गायत्र्यादिच्छन्दोविशिष्टानामृचां गायत्री ऋक् अहम् अस्मि इत्यर्थः।
-**मासानां मार्गशीर्षः अहम्; ऋतूनां कुसुमाकरः** वसन्तः।।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।10.35।। तथा सामवेदके प्रकरणोंमें जो बृहत्साम नामक प्रधान प्रकरण है वह
-मैं हूँ। छन्दोंमें मैं गायत्री छन्द हूँ अर्थात् जो गायत्री आदि छन्दोबद्ध
-ऋचाएँ हैं उनमें गायत्री नामक ऋचा मैं हूँ। महीनोंमें मार्गशीर्ष नामक
-महीना और ऋतुओंमें बसन्त ऋतु मैं हूँ।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 10.35 I am tatha, also; the Brhat-sama, the foremost samnam, of the
 Sama-mantras. Chandasam, of the metres, of the Rk-mantras having the
 metres Gayatri etc.; I am the Rk called Gayatri. This is meaning.
 Masanam, of the months, I am Marga-sirsa (Agrahayana,
 November-December). Rtunam, of the seasons; kusumakarah, spring.
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।10.35।। वेदानां सामवेदोऽस्मीत्युक्तं तत्रावान्तरविशेषमाह --
+<details><summary>हरिकृष्णदासः</summary>
+
+॥10.35॥ तथा सामवेदके प्रकरणोंमें जो बृहत्साम नामक प्रधान प्रकरण है वह
+मैं हूँ। छन्दोंमें मैं गायत्री छन्द हूँ अर्थात् जो गायत्री आदि छन्दोबद्ध
+ऋचाएँ हैं उनमें गायत्री नामक ऋचा मैं हूँ। महीनोंमें मार्गशीर्ष नामक
+महीना और ऋतुओंमें बसन्त ऋतु मैं हूँ।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥10.35॥ वेदानां सामवेदोऽस्मीत्युक्तं तत्रावान्तरविशेषमाह --
 **बृहदिति।** छन्दसां मध्ये गायत्री नाम यच्छन्दस्तदहमित्ययुक्तं
 छन्दसामृग्भ्योऽतिरेकेण स्वरूपभावादित्याशङ्क्याह --
 **गायत्र्यादीति। ,द्विजातेर्द्वितीयजन्मजननीत्वादित्यर्थः। मार्गशीर्षो
 मृगशीर्षेण युक्ता पौर्णमास्यस्मिन्निति मार्गशीर्षो मासः सोऽहं
 पक्वसस्याढ्यत्वादित्याह --** मासानामिति। **वसन्तो रमणीयत्वादिति शेषः।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।10.35।। वेदानां सामवेदोऽस्मीत्युक्तं तत्रायमन्यो विशेषः।
+<details><summary>नीलकण्ठः</summary>
+
+॥10.35॥ बृहत्सामत्वामिद्धि हवामहे इत्यस्यामृचि गीयमानं साम
+पृष्ठ्यस्तोत्रे विनियुक्तमिन्द्रदेवत्यं तत् साम्नां मध्येऽहमस्मि।
+छन्दसां मध्ये गायत्री द्विजत्वसंपादनात्सोमाहरणाच्च श्रेष्ठाहमस्मि।
+कुसुमाकरो वसन्तः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥10.35॥ साम्नां गीतिविशेषाणआं वृहत्सामत्वामिद्धि हवामहे इत्यस्यामृचि
+गीतिविशेषे सर्वेश्वरत्वेनेन्द्रस्तुत्निरुपं अतिरात्रे पृष्ठस्तोत्रं
+श्रेष्ठत्वादहम्। नियताक्षरपादरुपच्छन्दोविशिष्ठानामृचां मध्ये
+द्विजत्वादिहेतुर्गायत्री ऋगहम्। मासानां मार्गशीर्षः सस्यादिसंपन्नत्वेन
+सुखजनकत्वात्। कुसुमाकरो वसन्तः पुषापकत्वेन शोभनत्वात्।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥10.35॥ वेदानां सामवेदोऽस्मीत्युक्तं तत्रायमन्यो विशेषः।
 साम्रामृगक्षरारूढानां गीतिविशेषाणां मध्येत्वामिद्धि हवामहे इत्यस्यामृचि
 गीतिविशेषो बृहत्साम। तच्चातिरात्रे पृष्ठस्तोत्रं
 सर्वेश्वरत्वेनेन्द्रस्तुतिरूपमन्यतः श्रेष्ठत्वादहम्। छन्दसां
@@ -174,38 +115,43 @@ November-December). Rtunam, of the seasons; kusumakarah, spring.
 सर्वसुगन्धिकुसुमानामाकरोऽतिरमणीयो वसन्तः। वसन्ते ब्राह्मण्यमुपनयीत;वसन्ते
 ब्राह्मणोऽग्नीनादधीत;वसन्तेवसन्ते ज्योतिषा यजेत;तद्वै वसन्त
 एवाभ्यारभेत;वसन्तो वै ब्राह्मणस्यर्तुः इत्यादिशास्त्रप्रसिद्धोऽहमस्मि।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।10.35।। बृहत्सामत्वामिद्धि हवामहे इत्यस्यामृचि गीयमानं साम
-पृष्ठ्यस्तोत्रे विनियुक्तमिन्द्रदेवत्यं तत् साम्नां मध्येऽहमस्मि।
-छन्दसां मध्ये गायत्री द्विजत्वसंपादनात्सोमाहरणाच्च श्रेष्ठाहमस्मि।
-कुसुमाकरो वसन्तः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।10.35।। साम्नां गीतिविशेषाणआं वृहत्सामत्वामिद्धि हवामहे इत्यस्यामृचि
-गीतिविशेषे सर्वेश्वरत्वेनेन्द्रस्तुत्निरुपं अतिरात्रे पृष्ठस्तोत्रं
-श्रेष्ठत्वादहम्। नियताक्षरपादरुपच्छन्दोविशिष्ठानामृचां मध्ये
-द्विजत्वादिहेतुर्गायत्री ऋगहम्। मासानां मार्गशीर्षः सस्यादिसंपन्नत्वेन
-सुखजनकत्वात्। कुसुमाकरो वसन्तः पुषापकत्वेन शोभनत्वात्।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।10.35।। बृहत्सामेति। त्वामिद्धि हवामहे \[ऋक्सं.4।7।21।1\] इत्यस्यां ऋचि
+॥10.35॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥10.35॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
+
+<details><summary>मूलम्</summary>
+
+॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N --,विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+10.35 See Comment under 10.42
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
+
+<details><summary>मूलम्</summary>
+
+॥10.35॥ बृहत्सामेति। त्वामिद्धि हवामहे \[ऋक्सं.4।7।21।1\] इत्यस्यां ऋचि
 गीयमानं बृहत्साम तेन चेन्द्रः सर्वेश्वरत्वेन स्तूयत इति श्रैठ्यं
 दर्श्यते। छन्दसां वेदमन्त्राणां वा मध्ये गायत्री मे विभूतिः;
 मत्स्वरूपप्रतिपादकत्वाद्भगवत्सेवकैश्चिन्तनीया। मासानां मध्ये
@@ -213,41 +159,81 @@ _________________
 ऋतूनां मध्ये कुसुमाकरो वसन्तोऽहं वसन्तेऽग्नीनादधीत \[ \] इति श्रुतौ
 प्राशस्त्यत्वाज्जडेष्वपि प्रमोदापादकत्वाद्वृन्दावनाविरतवृत्तित्वाच्च मे
 विभूतिः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।10.35।। साम्नां सामऋचां मध्ये बृहत्साम मद्विभूतिरित्यर्थः। छन्दसां
+<details><summary>पुरुषोत्तमः</summary>
+
+॥10.35॥ साम्नां सामऋचां मध्ये बृहत्साम मद्विभूतिरित्यर्थः। छन्दसां
 मध्ये गायत्री मद्विभूतिः। मासानां मध्ये मार्गशीर्षोऽहम्। ऋतूनां मध्ये
-कुसुमाकरो वसन्तोऽस्मि।  
-  
-
+कुसुमाकरो वसन्तोऽस्मि।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।10.35।।**बृहत्सामेति।**त्वामिद्धि हवामहे इत्यस्यामृचि गीयमानं बृहत्साम
+॥10.35॥**बृहत्सामेति।**त्वामिद्धि हवामहे इत्यस्यामृचि गीयमानं बृहत्साम
 तेन चेन्द्रः सर्वेश्वरत्वेन स्तूयत इति श्रैष्ठ्यं दर्शितम्।
 छन्दोविशिष्टानां मन्त्राणां मध्ये गायत्र्यहम्; द्विजत्वापादकत्वेन
 सोमाहरणेन च श्रेष्ठत्वात्। कुसुमाकरो वसन्तः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+10.35 Of Saman hymns, I am the Brhatsaman. Of meters, I am the Gayatri.
+Of months, I am Margasira (Nov-Dec). And of seasons I am the season of flowers.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+10.35 I am also the Brhat-sama of the Sama (-mantras); of the metres,
+Gayatri. Of the months I am Marga-sirsa, and of the seasons, spring.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+10.35 Of hymns I am Brihatsama, of metres I am Garatri, among the months I am Margasheersha (December), and I am the Spring among seasons.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+10.35. Likewise, of the modes of singing \[of the hymns\], I am the Brhatsaman; of the metres, I am the Gayatri; of the months, I am the Margasirsa; of the seasons, I am the season abounding with flowers.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+10.35 Among the hymns also I am the Brihatsaman; among metres Gayatri am I; among the montsh I am the Margasirsha; among the seasons (I am) the flowery season.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+10.35 बृहत्साम Brihatsaman; तथा also; साम्नाम् among Sama hymns; गायत्री
+Gayatri; छन्दसाम् among metres; अहम् I; मासानाम् among months;
+मार्गशीर्षः Margasirsha; अहम् I; ऋतूनाम् among seasons; कुसुमाकरः the flowery season (spring).Commentary Brihatsaman is the chief of the hymns of the SamaVeda. Brihat means big.Margasirsha From the middle of December to the middle of January. This has a temperate climate. In olden days it was usual to start with this month in counting the months of the year. The first place was given to this month.Kusumakara The beautiful flowery season; the spring.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।10.35।। गायी जानेवाली श्रुतियोंमें बृहत्साम और वैदिक छन्दोंमें गायत्री
+छन्द मैं हूँ। बारह महीनोंमें मार्गशीर्ष और छः ऋतुओंमें वसन्त मैं हूँ।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+।।10.35।।***व्याख्या--*'बृहत्साम तथा साम्नाम्'--**सामवेदमें बृहत्साम
+नामक एक गीति है। इसके द्वारा इन्द्ररूप परमेश्वरकी स्तुति की गयी है।
+अतिरात्रयागमें यह एक पृष्ठस्तोत्र है। सामवेदमें सबसे श्रेष्ठ होनेसे इस
+बृहत्सामको भगवान्ने अपनी विभूति बताया है **(टिप्पणी प₀ 564)**।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।10.35।। मैं सामों में बृहत्साम हूँ भगवान् ने पहले कहा था कि; वेदों में
 सामवेद मैं हूँ। अब यहाँ सामवेद में भी विशेषता बताते हैं कि मैं सामों में
@@ -279,83 +265,13 @@ _________________
 को और अधिक सावधानी से सँवारती है। मुझे न केवल भव्य और दिव्य में ही देखना
 है और न केवल सुन्दर और आकर्षक में; वरन् हीनतम से हीन में भी मुझे पहचानना
 है मैं हूँ; जो हूँ सुनो
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।10.35।। सामों (गेय मन्त्रों) में मैं बृहत्साम और छन्दों में गायत्री
 छन्द हूँ; मैं मासों में मार्गशीर्ष (दिसम्बरजनवरी के भाग) और ऋतुओं में
 वसन्त हूँ।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।10.35।। गायी जानेवाली श्रुतियोंमें बृहत्साम और वैदिक छन्दोंमें गायत्री
-छन्द मैं हूँ। बारह महीनोंमें मार्गशीर्ष और छः ऋतुओंमें वसन्त मैं हूँ।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-।।10.35।।***व्याख्या--*'बृहत्साम तथा साम्नाम्'--**सामवेदमें बृहत्साम
-नामक एक गीति है। इसके द्वारा इन्द्ररूप परमेश्वरकी स्तुति की गयी है।
-अतिरात्रयागमें यह एक पृष्ठस्तोत्र है। सामवेदमें सबसे श्रेष्ठ होनेसे इस
-बृहत्सामको भगवान्ने अपनी विभूति बताया है **(टिप्पणी प₀ 564)**।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-10.35. Likewise, of the modes of singing \[of the hymns\], I am the Brhatsaman; of the metres, I am the Gayatri; of the months, I am the Margasirsa; of the seasons, I am the season abounding with flowers.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-10.35 I am also the Brhat-sama of the Sama (-mantras); of the metres,
-Gayatri. Of the months I am Marga-sirsa, and of the seasons, spring.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-10.35 Of hymns I am Brihatsama, of metres I am Garatri, among the months I am Margasheersha (December), and I am the Spring among seasons.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-10.35 Of Saman hymns, I am the Brhatsaman. Of meters, I am the Gayatri.
-Of months, I am Margasira (Nov-Dec). And of seasons I am the season of flowers.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-10.35 Among the hymns also I am the Brihatsaman; among metres Gayatri am I; among the montsh I am the Margasirsha; among the seasons (I am) the flowery season.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-10.35 बृहत्साम Brihatsaman; तथा also; साम्नाम् among Sama hymns; गायत्री
-Gayatri; छन्दसाम् among metres; अहम् I; मासानाम् among months;
-मार्गशीर्षः Margasirsha; अहम् I; ऋतूनाम् among seasons; कुसुमाकरः the flowery season (spring).Commentary Brihatsaman is the chief of the hymns of the SamaVeda. Brihat means big.Margasirsha From the middle of December to the middle of January. This has a temperate climate. In olden days it was usual to start with this month in counting the months of the year. The first place was given to this month.Kusumakara The beautiful flowery season; the spring.
-
-</details>
 </div>

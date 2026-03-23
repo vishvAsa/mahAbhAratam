@@ -1,9 +1,9 @@
 +++
 title = "35 श्री भगवानुवाच"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 +++(श्री भगवानुवाच)+++
 
@@ -12,140 +12,47 @@ title = "35 श्री भगवानुवाच"
 **अभ्यासेन** तु कौन्तेय  
 **वैराग्येण** च **गृह्यते**॥6.35॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 श्री भगवानुवाच  
 असंशयं महाबाहो मनो दुर्निग्रहं चलं।  
-अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।।6.35।।
+अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥6.35॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।6.35।। श्रीभगवानुवाच चलस्वभावतया **मनो दुर्निग्रहम् एव** इत्यत्र न
-संशयः तथापि आत्मनो गुणाकरत्वाभ्यासजनिताभिमुख्येन आत्मव्यतिरिक्तेषु
-विषयेषु अपि दोषाकरत्वदर्शनजनितैवतृष्ण्येन **च** कथञ्चिद् **गृह्यते।**
-
+॥6.35॥ श्रीभगवानुवाच चलस्वभावतया **मनो दुर्निग्रहम् एव** इत्यत्र न संशयस् तथाप्य् आत्मनो गुणाकरत्वाभ्यासजनिताभिमुख्येन आत्मव्यतिरिक्तेषु विषयेष्व् अपि दोषाकरत्वदर्शनजनितैवतृष्ण्येन **च** कथञ्चिद् **गृह्यते।**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।6.35।। अथार्जुनेन कण्ठोक्तमनुवदन् बुभुत्सितमुपायं श्लोकद्वयेनाह भगवान्।
-तत्रदुर्निग्रहंचलम् इति
-पदद्वयमर्जुनोक्तप्रतिज्ञाहेत्वनुवादरूपमाहचलस्वभावतयेति। असंशयं
-इत्येतत्सत्यमितिवदर्धाङ्गीकारपरम्। तुशब्दाभिप्रेतं विशेषं
-दर्शयतितथापीति। अनुकूलतयाऽभ्यासो हि तत्र प्रावण्यहेतुः
-स्यादित्यभ्यासविशेषं तत्फलं च व्यनक्तिआत्मन इति।
-नित्यत्वज्ञानत्वानन्दत्वाकर्मवश्यत्वामलत्वादयोऽत्र गुणाः।
-कथञ्चिदित्यवधानार्थम्। एवं मनसो ग्रहणोपाय उक्तः ततश्चएतस्याहं न पश्यामि
-6।33 इत्युक्तमर्थं विषयविशेषे व्यवस्थापयति असंयत इति श्लोकेन।
-मनोनिग्रहप्रकरणत्वात् असंयतवश्यशब्दसमभिव्याहारसामर्थ्याच्चात्र आत्मशब्दो
-मनोविषयः। महाबाहुशब्दसम्बुद्धिसूचितमाहमहतापि बलेनेति। उपायेन तु यच्छक्यं
-न तच्छक्यं पराक्रमैः पं.तं. इति भावः। मे मतिः इत्यनेन निस्सन्देहत्वं
-विवक्षितमित्याहदुष्प्राप एवेति। उपायतस्तु वश्यात्मनेति
-व्याख्येयान्वयप्रदर्शनम्। तद्व्याख्यानंपूर्वेत्यादि। उक्तलक्षणं
-कर्ममात्रं मनोनिग्रहोपायः अभ्यासवैराग्ये तु तस्यैवाङ्गतयोक्ते इति भावः
-यतमानेन योगमभ्यस्यतेत्यर्थः।
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥6.35॥ अथार्जुनेन कण्ठोक्तमनुवदन् बुभुत्सितमुपायं श्लोकद्वयेनाह भगवान्। तत्रदुर्निग्रहञ्चलम् इति पदद्वयमर्जुनोक्तप्रतिज्ञाहेत्वनुवादरूपमाहचलस्वभावतयेति। असंशयम् इत्येतत्सत्यमितिवदर्धाङ्गीकारपरम्। तुशब्दाभिप्रेतं विशेषं दर्शयतितथापीति। अनुकूलतयाऽभ्यासो हि तत्र प्रावण्यहेतुः स्यादित्यभ्यासविशेषं तत्फलं च व्यनक्तिआत्मन इति। नित्यत्वज्ञानत्वानन्दत्वाकर्मवश्यत्वामलत्वादयोऽत्र गुणाः। कथञ्चिदित्यवधानार्थम्। एवं मनसो ग्रहणोपाय उक्तः ततश्चएतस्याहं न पश्यामि 6।33 इत्युक्तमर्थं विषयविशेषे व्यवस्थापयति असंयत इति श्लोकेन। मनोनिग्रहप्रकरणत्वात् असंयतवश्यशब्दसमभिव्याहारसामर्थ्याच्चात्र आत्मशब्दो मनोविषयः। महाबाहुशब्दसम्बुद्धिसूचितमाहमहतापि बलेनेति। उपायेन तु यच्छक्यं न तच्छक्यं पराक्रमैः पं.तं. इति भावः। मे मतिः इत्यनेन निस्सन्देहत्वं विवक्षितमित्याहदुष्प्राप एवेति। उपायतस्तु वश्यात्मनेति व्याख्येयान्वयप्रदर्शनम्। तद्व्याख्यानम्पूर्वेत्यादि। उक्तलक्षणं कर्ममात्रं मनोनिग्रहोपायः अभ्यासवैराग्ये तु तस्यैवाङ्गतयोक्ते इति भावः यतमानेन योगमभ्यस्यतेत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.35 The Lord said No doubt, the mind is hard to subdue on account of its fickle nature. However, it can be subdued with difficulty by cultivating favourable attitude in the direction of the self by repeated contemplation of Its being a mind of auspicious attributes (these being eternality, self-luminosity, bliss, freedom from Karma, purity etc.),
-and by the absence of hankering produced by seeing the host of evil alities in objects other than the self hankered for.
+<details><summary>आदिदेवानन्दः</summary>
 
+6.35 The Lord said No doubt, the mind is hard to subdue on account of its fickle nature. However, it can be subdued with difficulty by cultivating favourable attitude in the direction of the self by repeated contemplation of Its being a mind of auspicious attributes (these being eternality, self-luminosity, bliss, freedom from Karma, purity etc.), and by the absence of hankering produced by seeing the host of evil alities in objects other than the self hankered for.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।6.35।। अत्र उत्तरम् असंशयमिति। वैराग्येण विषयोत्सुकता विनाश्यते।
-अभ्यासेन मोक्षपक्षः क्रमात् क्रमं विषयीक्रियते इति द्वयोरुपादानम्। उक्तं
-च तत्रभवता भाष्यकृता उभयाधीनश्चित्तवृत्तिनिरोधः इति।
-
+॥6.35॥ **असंशयं** नास्ति संशयः **मनो दुर्निग्रहं चलम्** इत्यत्र हे **महाबाहो।** किंतु **अभ्यासेन तु** अभ्यासो नाम चित्तभूमौ कस्यांचित् समानप्रत्ययावृत्तिः चित्तस्य। वैराग्येण वैराग्यं नाम दृष्टादृष्टेष्टभोगेषु दोषदर्शनाभ्यासात् वैतृष्ण्यम्। तेन **च वैराग्येण गृह्यते** विक्षेपरूपः प्रचारः चित्तस्य। एवं तत् मनः गृह्यते निगृह्यते निरुध्यते इत्यर्थः॥ यः पुनः असंयतात्मा तेन
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.35 Asamsayam etc. Through an attitude of desirelessness, the craving
-for sense objects is destroyed. Through practice, stage after stage, the
-side of emancipation is occupied \[by the mind\]. Hence both are
-included. Regarding this, it has been said by the revered author of the
-Bhasya as : The restraint of mental modifications depends on both \[the
-attitude of desirelessness and practice\]. Hence is this solemn
-declaration :
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।6.35।। Sri Madhvacharya did not comment on this sloka.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।6.35 6.36।। संयतेति श्लोको व्यर्थ इव प्रतीयते तन्निवर्त्यामाशङ्कां
-सूचयन् तात्पर्यमाह **न चे**ति। यथा मत्तमातङ्गः स्वयमेव श्रान्तः शान्तो
-भवति तथा विषयैस्तुष्टं मनः कदाचित्स्वयमेव नियतं भवति किमभ्यासादिना
-इत्येतन्नैवेत्यर्थः। कुतः इत्यत आह **शुभे**ति। सदेति पूर्वेण सम्बन्धः।
-अनेनात्र शुभेच्छादिकमप्युलक्षितमिति सूचितम्। मुक्तिबीजत्वान्मनोनियमनस्य
-मुक्तिरित्युक्तम्।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।6.35।। **असंशयं** नास्ति संशयः **मनो दुर्निग्रहं चलम्** इत्यत्र हे
-**महाबाहो।** किंतु **अभ्यासेन तु** अभ्यासो नाम चित्तभूमौ कस्यांचित्
-समानप्रत्ययावृत्तिः चित्तस्य। वैराग्येण वैराग्यं नाम
-दृष्टादृष्टेष्टभोगेषु दोषदर्शनाभ्यासात् वैतृष्ण्यम्। तेन **च वैराग्येण
-गृह्यते** विक्षेपरूपः प्रचारः चित्तस्य। एवं तत् मनः गृह्यते निगृह्यते
-निरुध्यते इत्यर्थः।। यः पुनः असंयतात्मा तेन
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।6.35।। श्रीभगवान् बोले कि जैसे तू कहता है यह ठीक ऐसा ही है हे महाबाहो
-मन चञ्चल और कठिनतासे वशमें होनेवाला है इसमें ( कोई ) संदेह नहीं। किंतु
-अभ्याससे अर्थात् किसी चित्तभूमिमें एक समान वृत्तिकी बारंबार आवृत्ति
-करनेसे और दृष्ट तथा अदृष्ट प्रिय भोगोंमें बारंबार दोषदर्शनके
-अभ्यासद्वारा उत्पन्न हुए अनिच्छारूप वैराग्यसे चित्तके विक्षेपरूप प्रचार
-( चञ्चलता ) को रोका जा सकता है। अर्थात् इस प्रकार उस मनका निग्रह निरोध
-किया जा सकता है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 6.35 Mahabaho, O mighty-armed one; asamsayam, undoubtedly-there is no
 doubt with regard to this; that the manah, mind; is durnigraham,
@@ -159,13 +66,22 @@ desirable things, seen or unseen, as a result of the practice of
 discerning their defect. That mind is thus brought undr control,
 restrained, i.e. completely subdued. By him, however, who has not
 controlled his mind-
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।6.35।। प्रश्नमङ्गीकृत्य प्रतिवचनमुत्थापयति **श्रीभगवानिति।** कुत्र
+<details><summary>हरिकृष्णदासः</summary>
+
+॥6.35॥ श्रीभगवान् बोले कि जैसे तू कहता है यह ठीक ऐसा ही है हे महाबाहो
+मन चञ्चल और कठिनतासे वशमें होनेवाला है इसमें ( कोई ) संदेह नहीं। किंतु
+अभ्याससे अर्थात् किसी चित्तभूमिमें एक समान वृत्तिकी बारंबार आवृत्ति
+करनेसे और दृष्ट तथा अदृष्ट प्रिय भोगोंमें बारंबार दोषदर्शनके
+अभ्यासद्वारा उत्पन्न हुए अनिच्छारूप वैराग्यसे चित्तके विक्षेपरूप प्रचार
+( चञ्चलता ) को रोका जा सकता है। अर्थात् इस प्रकार उस मनका निग्रह निरोध
+किया जा सकता है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥6.35॥ प्रश्नमङ्गीकृत्य प्रतिवचनमुत्थापयति **श्रीभगवानिति।** कुत्र
 संशयराहित्यं तत्राह **मन इति।** कथं तर्हि मनोनिरोधो भवति तत्राह **किं
 त्विति।** अभ्यासस्वरूपं सामान्येन निदर्शयति **अभ्यासो नामेति।**
 कस्यांचिच्चित्तभूमावित्यविशेषितो ध्येयो विषयो निर्दिश्यते
@@ -177,13 +93,39 @@ controlled his mind-
 निरुद्धे मनोनिरोधेऽस्य किं स्यादित्यपेक्षायामाह **एवमिति।**
 अभ्यासहेतुकवैराग्यद्वारा चित्तप्रचारनिरोधे निरुद्धवृत्तिकं मनो
 विषयविमुखमन्तर्निष्ठं भवतीत्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।6.35।। तमिममाक्षेपं परिहरन् श्रीभगवानुवाच सम्यग्विदितं ते चित्तचेष्टितं
+<details><summary>नीलकण्ठः</summary>
+
+॥6.35॥ मनसो दुर्ग्रहत्वमभ्युपेत्य भगवानुवाच। यद्यप्येवं
+तथाप्यभ्यासवैराग्याभ्यां समुच्चिताभ्यां दुर्निग्रहमपि मनो निगृह्यते।
+तत्राभ्यासो नाम कस्यांचिच्चित्तभूमौ समानप्रत्ययावृत्तिः। वैराग्यं तु
+दृष्टादृष्टेष्टभोगेषु ससाधनेषु दोषदर्शनेन वैतृष्ण्यम्। तत्र यथा कैदारिकः
+केदारेषु कुल्याजलं संचारयन्नेकस्य द्वारं पिधायारपरस्योद्धाटयति
+तद्वद्वैराग्येण विषयस्रोतः खिलीक्रियते अभ्यासेन कल्याणस्रोत उद्घाट्यत
+इति द्वयोरप्यावश्यकत्वम्। तथा च सूत्रम् अभ्यासवैराग्याभ्यां तन्निरोधः
+इति।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥6.35॥ प्रश्नमभिनन्दन् श्रीभगवानुवाच। असंशयं मनश्चलं दुर्निग्रहं
+चेत्यस्मिन्नर्थे संशयो नास्ति। यद्यपि दुर्निग्रहं तथापि तु अभ्यासेन
+चित्तभूमौ कस्यांचिद्विजातीयप्रत्ययानन्तरितसमानप्रत्ययावृत्तिलक्षणेन
+वैराग्यं नाम दष्टादृष्टेषु भोगेषु दोषदर्शनाभ्यासा द्वैतृष्ण्यं तेन च
+गृह्यते। विक्षिप्तत्वादिकं त्यक्त्वा निरुध्यत इत्यर्थः। पूर्वोर्धे
+महाबाहो इति संबोधयन्महाबाहुनातिबलेन जितनिवातकवचादिना त्वयापि
+यद्येवमुच्यते तर्हि मनसो दुर्निग्रहत्वे संशयो नास्तीति सूचयति।
+बाह्वदिबलसाध्यो मनसो निग्रहो न भवति किंत्वभ्यासवैराग्यसाध्यः।
+यथातिप्रबलै राजभिः स्वग्रहे वासयितुं दुर्घटो दुर्वासा अपि तव मात्राऽबलया
+कुन्त्या विषयेषुवैराग्येण तत्सेवनपरत्वं परित्यज्य तच्छुश्रुषाभ्यासेन च
+स्वग्रहे निवासितः प्रसादितश्च तथा त्वं तत्पुत्रो मदुक्तेनोपायेन
+दुर्निग्रहमपि मनो निग्रहीतुं योग्योऽसीति सूचयन्नाह हे कौन्तेयेति।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥6.35॥ तमिममाक्षेपं परिहरन् श्रीभगवानुवाच सम्यग्विदितं ते चित्तचेष्टितं
 मनो निग्रहीतुं शक्ष्यसीति संतोषेण संबोधयति। हे महाबाहो महान्तौ
 साक्षान्महादेवेनापि सह कृतप्रहरणौ बाहू यस्येति निरतिशयमुत्कर्षं सूचयति।
 प्रारब्धकर्मप्राबल्यादसंयतात्मना दुर्निग्रहं दुःखेनापि निग्रहीतुमशक्यम्।
@@ -201,10 +143,10 @@ controlled his mind-
 तद्दृष्टान्तेन मनोऽपि हठेन निग्रहीष्यामीति मूढस्य भ्रान्तिर्भवति। नच तथा
 निग्रहीतुं शक्यते तद्गोलकस्य हृदयकमलस्य निरोद्धुमशक्यत्वात्। अतएव च
 क्रमनिग्रह एव युक्तः। तदेतद्भगवान्वसिष्ठ आहउपविश्योपविश्यैव चित्तज्ञेन
-मुहुर्मुहुः। न शक्यते मनो जेतुं विना युक्तिमनिन्दिताम्।। अङ्कुशेन विना
+मुहुर्मुहुः। न शक्यते मनो जेतुं विना युक्तिमनिन्दिताम्॥ अङ्कुशेन विना
 मत्तो यथा दुष्टमतङ्गजः। अध्यात्मविद्याधिगमः साधुसङ्गम एव
-च।। वासनासंपरित्यागः प्राणस्पन्दनिरोधनम्। एतास्ता युक्तयः पुष्टाः सन्ति
-चित्तजये किल।। सतीषु युक्तिष्वेताषु हठान्नियमयन्ति ये। चेतस्ते
+च॥ वासनासंपरित्यागः प्राणस्पन्दनिरोधनम्। एतास्ता युक्तयः पुष्टाः सन्ति
+चित्तजये किल॥ सतीषु युक्तिष्वेताषु हठान्नियमयन्ति ये। चेतस्ते
 दीपमुत्सृज्य विनिघ्नन्ति तमोऽञ्जनैः इति। क्रमनिग्रहे चाध्यात्मविद्याधिगम
 एक उपायः। सा हि दृश्यस्य मिथ्यात्वं दृग्वस्तुनश्च
 परमार्थसत्यपरमानन्दस्वप्रकाशत्वं बोधयति। तथाच सत्येतन्मनः स्वगोचरेषु
@@ -218,13 +160,13 @@ controlled his mind-
 एवोपायः। प्राणस्पन्दवासनयोश्चित्तप्रेरकत्वात्तयोर्निरोधे
 चित्तशान्तिरुपपद्यते। तदेतदाह स एवद्वे बीजे चित्तवृक्षस्य
 प्राणस्पन्दनवासने। एकस्मिंश्च तयोः क्षीणे क्षिप्रं द्वे अपि
-नश्यतः।। प्राणायामदृढाभ्यासैर्युक्त्या च गुरुदत्तया। आसनाशनयोगेन
-प्राणस्पन्दो निरुध्यते।। असङ्गव्यवहारित्वाद्भवभावनवर्जनात्।
-शरीरनाशदर्शित्वाद्वासना न प्रवर्तते।। वासनासंपरिहत्यागाच्चित्तं
-गच्छत्यचित्तताम्। प्राणस्पन्दनिरोधा़च्च यथेच्छसि तथा कुरु।। एतावन्मात्रकं
-मन्ये रूपं चित्तस्य राघव। यद्भावनं वस्तुनोऽन्तर्वस्तुत्वेन रसेन च।। यदा न
+नश्यतः॥ प्राणायामदृढाभ्यासैर्युक्त्या च गुरुदत्तया। आसनाशनयोगेन
+प्राणस्पन्दो निरुध्यते॥ असङ्गव्यवहारित्वाद्भवभावनवर्जनात्।
+शरीरनाशदर्शित्वाद्वासना न प्रवर्तते॥ वासनासंपरिहत्यागाच्चित्तं
+गच्छत्यचित्तताम्। प्राणस्पन्दनिरोधा़च्च यथेच्छसि तथा कुरु॥ एतावन्मात्रकं
+मन्ये रूपं चित्तस्य राघव। यद्भावनं वस्तुनोऽन्तर्वस्तुत्वेन रसेन च॥ यदा न
 भाव्यते किंचिद्धेयोपादेयरूपि यत्। स्थीयते सकलं त्यक्त्वा तदा चित्तं न
-जायते।। अवासनत्वात्सततं यदा न मनुते मनः। अमनस्ता तदोदेति परमात्मपदप्रदा।।
+जायते॥ अवासनत्वात्सततं यदा न मनुते मनः। अमनस्ता तदोदेति परमात्मपदप्रदा॥
 इति। अत्र द्वावेवोपायौ पर्यवसितौ प्राणस्पन्दनिरोधार्थमभ्यासः
 वासनापरित्यागार्थं च वैराग्यमिति। साधुसंगमाध्यात्मविद्याधिगमौ
 त्वभ्यासवैराग्योपपादकतयाऽन्यथासिद्धौ तयोरेवान्तरर्भावः। अतएव
@@ -276,93 +218,157 @@ controlled his mind-
 उत्पद्यते। ततश्चाशेषगुणत्रयव्यवहारेषु वैतृष्ण्यं यद्भवति तत्परं श्रेष्ठं
 फलभूतं वैराग्यम्। तत्परिपाकनिमित्ताच्च चित्तोपशमपरिपाकादविलम्बेन
 कैवल्यमिति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।6.35।। मनसो दुर्ग्रहत्वमभ्युपेत्य भगवानुवाच। यद्यप्येवं
-तथाप्यभ्यासवैराग्याभ्यां समुच्चिताभ्यां दुर्निग्रहमपि मनो निगृह्यते।
-तत्राभ्यासो नाम कस्यांचिच्चित्तभूमौ समानप्रत्ययावृत्तिः। वैराग्यं तु
-दृष्टादृष्टेष्टभोगेषु ससाधनेषु दोषदर्शनेन वैतृष्ण्यम्। तत्र यथा कैदारिकः
-केदारेषु कुल्याजलं संचारयन्नेकस्य द्वारं पिधायारपरस्योद्धाटयति
-तद्वद्वैराग्येण विषयस्रोतः खिलीक्रियते अभ्यासेन कल्याणस्रोत उद्घाट्यत
-इति द्वयोरप्यावश्यकत्वम्। तथा च सूत्रम् अभ्यासवैराग्याभ्यां तन्निरोधः
-इति।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।6.35।। प्रश्नमभिनन्दन् श्रीभगवानुवाच। असंशयं मनश्चलं दुर्निग्रहं
-चेत्यस्मिन्नर्थे संशयो नास्ति। यद्यपि दुर्निग्रहं तथापि तु अभ्यासेन
-चित्तभूमौ कस्यांचिद्विजातीयप्रत्ययानन्तरितसमानप्रत्ययावृत्तिलक्षणेन
-वैराग्यं नाम दष्टादृष्टेषु भोगेषु दोषदर्शनाभ्यासा द्वैतृष्ण्यं तेन च
-गृह्यते। विक्षिप्तत्वादिकं त्यक्त्वा निरुध्यत इत्यर्थः। पूर्वोर्धे
-महाबाहो इति संबोधयन्महाबाहुनातिबलेन जितनिवातकवचादिना त्वयापि
-यद्येवमुच्यते तर्हि मनसो दुर्निग्रहत्वे संशयो नास्तीति सूचयति।
-बाह्वदिबलसाध्यो मनसो निग्रहो न भवति किंत्वभ्यासवैराग्यसाध्यः।
-यथातिप्रबलै राजभिः स्वग्रहे वासयितुं दुर्घटो दुर्वासा अपि तव मात्राऽबलया
-कुन्त्या विषयेषुवैराग्येण तत्सेवनपरत्वं परित्यज्य तच्छुश्रुषाभ्यासेन च
-स्वग्रहे निवासितः प्रसादितश्च तथा त्वं तत्पुत्रो मदुक्तेनोपायेन
-दुर्निग्रहमपि मनो निग्रहीतुं योग्योऽसीति सूचयन्नाह हे कौन्तेयेति।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।6.35।। एवं तदुक्तमङ्गीकृत्य तन्निग्रहोपायं श्रीभगवानुवाच असंशयमिति।
+॥6.35॥ Sri Madhvacharya did not comment on this sloka.
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥6.35 6.36॥ संयतेति श्लोको व्यर्थ इव प्रतीयते तन्निवर्त्यामाशङ्कां
+सूचयन् तात्पर्यमाह **न चे**ति। यथा मत्तमातङ्गः स्वयमेव श्रान्तः शान्तो
+भवति तथा विषयैस्तुष्टं मनः कदाचित्स्वयमेव नियतं भवति किमभ्यासादिना
+इत्येतन्नैवेत्यर्थः। कुतः इत्यत आह **शुभे**ति। सदेति पूर्वेण सम्बन्धः।
+अनेनात्र शुभेच्छादिकमप्युलक्षितमिति सूचितम्। मुक्तिबीजत्वान्मनोनियमनस्य
+मुक्तिरित्युक्तम्।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+
+<details><summary>मूलम्</summary>
+
+॥6.35॥ अत्र उत्तरम् असंशयमिति। वैराग्येण विषयोत्सुकता विनाश्यते। अभ्यासेन मोक्षपक्षः क्रमात् क्रमं विषयीक्रियते इति द्वयोरुपादानम्। उक्तं च तत्रभवता भाष्यकृता उभयाधीनश्चित्तवृत्तिनिरोधः इति।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+6.35 Asamsayam etc. Through an attitude of desirelessness, the craving for sense objects is destroyed. Through practice, stage after stage, the side of emancipation is occupied \[by the mind\]. Hence both are included. Regarding this, it has been said by the revered author of the Bhasya as : The restraint of mental modifications depends on both \[the attitude of desirelessness and practice\]. Hence is this solemn declaration :
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+
+<details><summary>मूलम्</summary>
+
+॥6.35॥ एवं तदुक्तमङ्गीकृत्य तन्निग्रहोपायं श्रीभगवानुवाच असंशयमिति।
 तथाप्यभ्यासवैराग्याभ्यां निग्रहो भवति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।6.35।। एवमर्जुनोक्तचञ्चलत्वादिकमङ्गीकृत्य तन्निग्रहसाधनमाह भगवान्
+<details><summary>पुरुषोत्तमः</summary>
+
+॥6.35॥ एवमर्जुनोक्तचञ्चलत्वादिकमङ्गीकृत्य तन्निग्रहसाधनमाह भगवान्
 श्रीभगवानुवाच असंशयमिति। हे महाबाहो क्रियाशक्तिसमर्थ मनो दुर्निग्रहं
 चञ्चलं यद्वदसि तदसंशयं निस्सन्दिग्धं तादृशमेवास्तु। तु पुनस्तथापि
 कौन्तेय मदुक्तिविश्वसनैकयोग्य भक्तपुत्र अभ्यासेनयतो यतो निश्चलति 26 इति
 पूर्वोक्तप्रकारेणाऽन्यत्र हीनत्वज्ञानपूर्वकमप्युत्तमज्ञानेन
 चाञ्चल्यानुसरणप्रकारेण गृह्यते। च पुनः। तथा ज्ञानेन
-मत्सम्बन्धातिरिक्तेषु वैराग्येण गृह्यते वशीक्रियत इत्यर्थः।  
-  
-
+मत्सम्बन्धातिरिक्तेषु वैराग्येण गृह्यते वशीक्रियत इत्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।6.35।। तदुक्तं चञ्चलत्वादिकमङ्गीकृत्यैव मनोनिग्रहोपायं श्रीभगवानुवाच
+॥6.35॥ तदुक्तं चञ्चलत्वादिकमङ्गीकृत्यैव मनोनिग्रहोपायं श्रीभगवानुवाच
 **असंशयमिति।** चञ्चलत्वादिना मनो निरोद्धुमशक्यमिति यद्वदसि
 एतन्निःसंशयमेव तथापि तु विषयाचिन्तनपूर्वकमभ्यासेन परमात्माकारप्रत्ययया
 वृत्त्या विषयवैतृष्ण्येन च गृह्यते निगृह्यते। अभ्यासेन
 लयप्रतिबन्धाद्वैराग्येण च विक्षेपप्रतिबन्धादुपरतवृत्तिकं
 सत्परमात्माकारेण परिणतं तिष्ठतीत्यर्थः। तदुक्तं योगशास्त्रे मनसो
 वृत्तिशून्यस्य ब्रह्माकारतया स्थितिः। या संप्रज्ञातनामासौ
-समाधिरभिधीयते।। इति।
+समाधिरभिधीयते॥ इति।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+6.35 The Lord said The mind is hard to subdue and fickle, no doubt, O mighty-armed one, but , O son of Kunti, by practice and by the exercise of dispassion it can be brought under control.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+6.35 The Blessed Lord said O mighty-armed one, undoubtedly the mind is untractable and restless. But, O son of Kunti, it is brought under control through practice and detachment.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+6.35 Lord Shri Krishna replied: Doubtless, O Mighty One, the mind is fickle and exceedingly difficult to restrain, but, O Son of Kunti, with practice and renunciation it can be done.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+6.35. The Bhagavat said O mighty-armed ! No doubt, the mind is unsteady and is hard to control. But it is controlled by practice and through an attitude of desirelessness, O son of Kunti !
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+6.35 The Blessed Lord said Undoubtedly, O mighty-armed Arjuna, the mind is difficult to control and restless; but by practice and by dispassion it may be restrained.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+6.35 असंशयम् undoubtedly; महाबाहो O mightyarmed; मनः the mind;
+दुर्निग्रहम् difficult to control; चलम् restless; अभ्यासेन by practice;
+तु but; कौन्तेय O Kaunteya; वैराग्येण by dispassion; च and; गृह्यते is restrained. Commentary The constant or repeated effort to keep the wandering mind steady by constant meditation on the Lakshya (centre;
+ideal; goal or object of meditation) is Abhyasa or practice. The same idea or thought of the Self or God is constantly repeated. This constant repetition destroys Vikshepa or the vacillation of the mind and desires;
+and makes it steady and onepointed.Vairagya is dispassion or indifference to senseobjects in this world or in the other; here or hereafter; seen or unseen; heard or unheard; achieved through constantly looking into the evil in them (DoshaDrishti). You will have to train the mind by constant reflection on the immortal; allblissful Self. You must make the mind realise the transitory nature of the wordly enjoyments.
+You must suggest to the mind to look for its enjoyment not in the perishable and changing external objects but in the immortal; changeless Self within. Gradually the mind will be withdrawn from the external objects.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।6.35।। श्रीभगवान् बोले -- हे महाबाहो ! यह मन बड़ा चञ्चल है और इसका
+निग्रह करना भी बड़ा कठिन है -- यह तुम्हारा कहना बिलकुल ठीक है। परन्तु हे
+कुन्तीनन्दन ! अभ्यास और वैराग्यके द्वारा इसका निग्रह किया जाता है।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+।।6.35।।***व्याख्या--'*असंशयं महाबाहो मनो दुर्निग्रहं चलम्'--**यहाँ
+**'महाबाहो'** सम्बोधनका तात्पर्य शूरवीरता बतानेमें है अर्थात् अभ्यास
+करते हुए कभी उकताना नहीं चाहिये। अपनेमें धैर्यपूर्वक वैसी ही शूरवीरता
+रखनी चाहिये। अर्जुनने पहले चञ्चलताके कारण मनका निग्रह करना बड़ा कठिन
+बताया। उसी बातपर भगवान् कहते हैं कि तुम जो कहते हो, वह एकदम ठीक बात है,
+निःसन्दिग्ध बात है; क्योंकि मन बड़ा चञ्चल है और इसका निग्रह करना भी बड़ा
+कठिन है।  
+  
+**'अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते'** अर्जुनकी माता कुन्ती बहुत
+विवेकवती तथा भोगोंसे विरक्त रहनेवाली थीं। कुन्तीने भगवान् श्रीकृष्णसे
+विपत्तिका वरदान माँगा था **(टिप्पणी प₀ 370)**। ऐसा वरदान माँगनेवाला
+इतिहासमें बहुत कम मिलता है। अतः यहाँ **'कौन्तेय'** सम्बोधन देकर भगवान्
+अर्जुनको कुन्ती माताकी याद दिलाते हैं कि जैसे तुम्हारी माता कुन्ती बड़ी
+विरक्त है, ऐसे ही तुम भी संसारसे विरक्त होकर परमात्मामें लगो अर्थात्
+मनको संसारसे हटाकर परमात्मामें लगाओ। मनको बार-बार ध्येयमें लगानेका नाम
+'अभ्यास' है। इस अभ्यासकी सिद्धि समय लगानेसे होती है। समय भी निरन्तर
+लगाया जाय, रोजाना लगाया जाय। कभी अभ्यास किया, कभी नहीं किया--ऐसा नहीं
+हो। तात्पर्य है कि अभ्यास निरन्तर होना चाहिये और अपने ध्येयमें महत्त्व
+तथा आदर-बुद्धि होनी चाहिये। इस तरह अभ्यास करनेसे अभ्यास दृढ़ हो जाता
+है।  
+  
+अभ्यासके दो भेद हैं--(1) अपना जो लक्ष्य, ध्येय है, उसमें मनोवृत्तिको
+लगाये और दूसरी वृत्ति आ जाय अर्थात् दूसरा कुछ भी चिन्तन आ जाय, उसकी
+अपेक्षा कर दे, उससे उदासीन हो जाय।  
+  
+(2) जहाँ-जहाँ मन चला जाय, वहाँ-वहाँ ही अपने लक्ष्यको, इष्टको
+देखे। उपर्युक्त दो साधनोंके सिवाय मन लगानेके कई उपाय हैं; जैसे--
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।6.35।। भगवान् श्रीकृष्ण अर्जुन को पूर्णरूप से जानते थे वह एक वीर
 योद्धा कर्मशील साहसी और यथार्थवादी पुरुष था। ऐसे असामान्य व्यक्तित्व का
@@ -428,108 +434,13 @@ _________________
 कारणों के अभाव में मन अपने वश में आ जाता है और तत्पश्चात् वह एक ही संसार
 को जानता है और वह है सन्तुलन और समता का संसार। तब फिर आत्मसंयमरहित पुरुष
 का क्या होगा
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।6.35।। श्रीभगवान् कहते हैं -- हे महबाहो ! नि:सन्देह मन चंचल और कठिनता
 से वश में होने वाला है; परन्तु, हे कुन्तीपुत्र ! उसे अभ्यास और वैराग्य
 के द्वारा वश में किया जा सकता है।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.35।। श्रीभगवान् बोले -- हे महाबाहो ! यह मन बड़ा चञ्चल है और इसका
-निग्रह करना भी बड़ा कठिन है -- यह तुम्हारा कहना बिलकुल ठीक है। परन्तु हे
-कुन्तीनन्दन ! अभ्यास और वैराग्यके द्वारा इसका निग्रह किया जाता है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-।।6.35।।***व्याख्या--'*असंशयं महाबाहो मनो दुर्निग्रहं चलम्'--**यहाँ
-**'महाबाहो'** सम्बोधनका तात्पर्य शूरवीरता बतानेमें है अर्थात् अभ्यास
-करते हुए कभी उकताना नहीं चाहिये। अपनेमें धैर्यपूर्वक वैसी ही शूरवीरता
-रखनी चाहिये। अर्जुनने पहले चञ्चलताके कारण मनका निग्रह करना बड़ा कठिन
-बताया। उसी बातपर भगवान् कहते हैं कि तुम जो कहते हो, वह एकदम ठीक बात है,
-निःसन्दिग्ध बात है; क्योंकि मन बड़ा चञ्चल है और इसका निग्रह करना भी बड़ा
-कठिन है।  
-  
-**'अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते'** अर्जुनकी माता कुन्ती बहुत
-विवेकवती तथा भोगोंसे विरक्त रहनेवाली थीं। कुन्तीने भगवान् श्रीकृष्णसे
-विपत्तिका वरदान माँगा था **(टिप्पणी प₀ 370)**। ऐसा वरदान माँगनेवाला
-इतिहासमें बहुत कम मिलता है। अतः यहाँ **'कौन्तेय'** सम्बोधन देकर भगवान्
-अर्जुनको कुन्ती माताकी याद दिलाते हैं कि जैसे तुम्हारी माता कुन्ती बड़ी
-विरक्त है, ऐसे ही तुम भी संसारसे विरक्त होकर परमात्मामें लगो अर्थात्
-मनको संसारसे हटाकर परमात्मामें लगाओ। मनको बार-बार ध्येयमें लगानेका नाम
-'अभ्यास' है। इस अभ्यासकी सिद्धि समय लगानेसे होती है। समय भी निरन्तर
-लगाया जाय, रोजाना लगाया जाय। कभी अभ्यास किया, कभी नहीं किया--ऐसा नहीं
-हो। तात्पर्य है कि अभ्यास निरन्तर होना चाहिये और अपने ध्येयमें महत्त्व
-तथा आदर-बुद्धि होनी चाहिये। इस तरह अभ्यास करनेसे अभ्यास दृढ़ हो जाता
-है।  
-  
-अभ्यासके दो भेद हैं--(1) अपना जो लक्ष्य, ध्येय है, उसमें मनोवृत्तिको
-लगाये और दूसरी वृत्ति आ जाय अर्थात् दूसरा कुछ भी चिन्तन आ जाय, उसकी
-अपेक्षा कर दे, उससे उदासीन हो जाय।  
-  
-(2) जहाँ-जहाँ मन चला जाय, वहाँ-वहाँ ही अपने लक्ष्यको, इष्टको
-देखे। उपर्युक्त दो साधनोंके सिवाय मन लगानेके कई उपाय हैं; जैसे--
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-6.35. The Bhagavat said O mighty-armed ! No doubt, the mind is unsteady and is hard to control. But it is controlled by practice and through an attitude of desirelessness, O son of Kunti !
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-6.35 The Blessed Lord said O mighty-armed one, undoubtedly the mind is untractable and restless. But, O son of Kunti, it is brought under control through practice and detachment.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-6.35 Lord Shri Krishna replied: Doubtless, O Mighty One, the mind is fickle and exceedingly difficult to restrain, but, O Son of Kunti, with practice and renunciation it can be done.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-6.35 The Lord said The mind is hard to subdue and fickle, no doubt, O mighty-armed one, but , O son of Kunti, by practice and by the exercise of dispassion it can be brought under control.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-6.35 The Blessed Lord said Undoubtedly, O mighty-armed Arjuna, the mind is difficult to control and restless; but by practice and by dispassion it may be restrained.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-6.35 असंशयम् undoubtedly; महाबाहो O mightyarmed; मनः the mind;
-दुर्निग्रहम् difficult to control; चलम् restless; अभ्यासेन by practice;
-तु but; कौन्तेय O Kaunteya; वैराग्येण by dispassion; च and; गृह्यते is restrained. Commentary The constant or repeated effort to keep the wandering mind steady by constant meditation on the Lakshya (centre;
-ideal; goal or object of meditation) is Abhyasa or practice. The same idea or thought of the Self or God is constantly repeated. This constant repetition destroys Vikshepa or the vacillation of the mind and desires;
-and makes it steady and onepointed.Vairagya is dispassion or indifference to senseobjects in this world or in the other; here or hereafter; seen or unseen; heard or unheard; achieved through constantly looking into the evil in them (DoshaDrishti). You will have to train the mind by constant reflection on the immortal; allblissful Self. You must make the mind realise the transitory nature of the wordly enjoyments.
-You must suggest to the mind to look for its enjoyment not in the perishable and changing external objects but in the immortal; changeless Self within. Gradually the mind will be withdrawn from the external objects.
-
-</details>
 </div>

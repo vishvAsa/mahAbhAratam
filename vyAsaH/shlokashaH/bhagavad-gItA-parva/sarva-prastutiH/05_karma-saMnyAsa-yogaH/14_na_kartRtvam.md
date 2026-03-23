@@ -1,199 +1,59 @@
 +++
 title = "14 न कर्तृत्वम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **न कर्तृत्वं न कर्माणि**  
 लोकस्य **सृजति** प्रभुः।  
 न कर्म-फल-संयोगं,  
 स्वभावस् तु प्रवर्तते॥5.14॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः।  
-न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते।।5.14।।
+न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते॥5.14॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
 साक्षाद् आत्मनः स्वाभाविकरूपम् आह -
 
-।।5.14।। अस्य देवतिर्यङ्मनुष्यस्थावरात्मना प्रकृतिसंसर्गेण वर्तमानस्य
-**लोकस्य** देवाद्यसाधारणं **कर्तृत्वं** तत्तदसाधारणानि **कर्माणि**
-तत्तत् कर्म जन्यदेवादिफलसंयोगं च अयं प्रभुः अकर्मवश्यः स्वाभाविकस्वरूपेण
-अवस्थित आत्मा न सृजति नोत्पादयति। कः तर्हि **स्वभावः तु प्रवर्तते**
-स्वभावः प्रकृतिवासना
-अनादिकालप्रवृत्तपूर्वपूर्वकर्मजनितदेवाद्याकारप्रकृतिसंसर्गकृततत्तदात्माभिमानजनितवासनाकृतम्
-ईदृशं कर्तृत्वादिकं सर्वम् न स्वरूपप्रयुक्तम् इत्यर्थः।
-
+॥5.14॥ अस्य देवतिर्यङ्मनुष्यस्थावरात्मना प्रकृतिसंसर्गेण वर्तमानस्य **लोकस्य** देवाद्यसाधारणं **कर्तृत्वं** तत्तदसाधारणानि **कर्माणि** तत्तत् कर्म जन्यदेवादिफलसंयोगं च अयं प्रभुर् अकर्मवश्यः स्वाभाविकस्वरूपेण अवस्थित आत्मा न सृजति नोत्पादयति। कस् तर्हि **स्वभावस् तु प्रवर्तते** स्वभावः प्रकृतिवासना अनादिकालप्रवृत्तपूर्वपूर्वकर्मजनितदेवाद्याकारप्रकृतिसंसर्गकृततत्तदात्माभिमानजनितवासनाकृतम् ईदृशं कर्तृत्वादिकं सर्वं न स्वरूपप्रयुक्तम् इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।5.14।। एवमौपाधिकस्य स्वरूपस्योपाधिषु सन्न्यास उक्तः अथ
-स्वस्मिन्ननुसन्धेयस्वाभाविकरूपमुच्यत इति सङ्गत्यभिप्रायेणाह साक्षादिति।
-विचित्रजनविषयेणलोकस्य इत्यनेनाभिप्रेतमुपाधिवैचित्र्यादिकं
-दर्शयितुंअस्येत्याद्युक्तम्। कर्तृत्वं प्रयत्नादिरूपम् कर्माणि
-शरीरेन्द्रियादिचेष्टाः। यद्यात्मनां स्वाभाविकमिदं कर्तृत्वादिकं तदा
-सर्वेषामेकरूपं तत् स्यात् न च तथा दृश्यत इत्यभिप्रायेणदेवाद्यसाधारणं
-कर्तृत्वमित्याद्युक्तम्। देवाद्यसाधारणं
-देवत्वादिजातिमत्पिण्डपरिग्रहदशाप्रतिनियतमित्यर्थः। फलसंयोगः फलानुभवः।
-प्रकरणवशात् प्रभुशब्दोऽत्र जीवविषय इति प्रदर्शनार्थंअयं
-प्रभुरित्युक्तम्। जीवे प्रभुशब्दाभिप्रेतमाहअकर्मवश्यः
-स्वाभाविकस्वरूपेणावस्थित इति। अत्र हि प्रकरणेमयि सर्वाणि 3।30 इत्यादिना
-जीवस्य कर्तृत्वं परमात्मन्यध्यस्यते अतोऽत्राकर्तृविषयः प्रभुशब्दो न
-परविषय इति भावः। न सृजति इत्यत्रसृज विसर्गे इति धातोस्त्यागार्थत्वे
-कर्तृत्वादित्रयं स्वीकरोतीति वाक्यार्थः स्यादिति तद्व्युदासायाह
-नोत्पादयतीति। कारणान्तरादर्शनात् तस्यैव कर्तृत्वमित्यभिप्रायेण
-चतुर्थपादस्य शङ्कामाहकस्तर्हीति। सृजतीति शेषः। स्वभावशब्दं
-प्रकरणोपयुक्तविशेषे स्थापयितुं वाच्यं तावदाहप्रकृतीति। ननु चेतनस्यात्मनः
-कर्तृत्वादिकं नास्ति अचेतनायास्तु वासनायाश्चेतनगुणमात्रभूतायाः
-कर्तृत्वादिकमिति कथमिदं ज्ञायते यद्यात्मनः स्वतश्शुद्धस्य न कर्तृत्वं
-तर्हि तस्य वासनाऽपि कुतः समागता यदि न कुतश्चित् तदा वासनैव स्वाभाविकीति
-तत्कृतकर्तृत्वादिकमपि स्वाभाविकं स्यात् यदि कुतश्चिद्धेतोः तदा तस्यापि
-स्वाभाविकत्वे पूर्वदोषः औपाधिकत्वे त्वकर्तुरात्मनस्तदागमोऽपि कुतः यदि
-वासनया तर्ह्यन्योन्याश्रयणम् यद्यन्यस्मात्कुतश्चित् तत्रापि
-तथैवेत्यनवस्थेत्यादिचोद्यनिरसनाय तुशब्दः। तदाह अनादिकालेति।
-बीजाङ्कुरन्यायादन्योन्याश्रयादिपरिहारः।
-वासनाहेतुवैचित्र्यसिद्ध्यर्थंदेवाद्याकारेत्याद्युक्तम्। यथा
-तप्तायःपिण्डे वह्निसंसर्गाद्वह्नित्वबुद्धिः तथाऽत्रेति
-दर्शयितुंसंसर्गकृतशब्दः। वासनाकृतं वासनाख्यविशेषहेतूपाधिकमित्यर्थः।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥5.14॥ एवमौपाधिकस्य स्वरूपस्योपाधिषु सन्न्यास उक्तः अथ स्वस्मिन्ननुसन्धेयस्वाभाविकरूपमुच्यत इति सङ्गत्यभिप्रायेणाह साक्षादिति। विचित्रजनविषयेणलोकस्य इत्यनेनाभिप्रेतमुपाधिवैचित्र्यादिकं दर्शयितुम्अस्येत्याद्युक्तम्। कर्तृत्वं प्रयत्नादिरूपं कर्माणि शरीरेन्द्रियादिचेष्टाः। यद्यात्मनां स्वाभाविकमिदं कर्तृत्वादिकं तदा सर्वेषामेकरूपं तत् स्यात् न च तथा दृश्यत इत्यभिप्रायेणदेवाद्यसाधारणं कर्तृत्वमित्याद्युक्तम्। देवाद्यसाधारणं देवत्वादिजातिमत्पिण्डपरिग्रहदशाप्रतिनियतमित्यर्थः। फलसंयोगः फलानुभवः। प्रकरणवशात् प्रभुशब्दोऽत्र जीवविषय इति प्रदर्शनार्थम्अयं प्रभुरित्युक्तम्। जीवे प्रभुशब्दाभिप्रेतमाहअकर्मवश्यः स्वाभाविकस्वरूपेणावस्थित इति। अत्र हि प्रकरणेमयि सर्वाणि 3।30 इत्यादिना जीवस्य कर्तृत्वं परमात्मन्यध्यस्यते अतोऽत्राकर्तृविषयः प्रभुशब्दो न परविषय इति भावः। न सृजति इत्यत्रसृज विसर्गे इति धातोस्त्यागार्थत्वे कर्तृत्वादित्रयं स्वीकरोतीति वाक्यार्थः स्यादिति तद्व्युदासायाह नोत्पादयतीति। कारणान्तरादर्शनात् तस्यैव कर्तृत्वमित्यभिप्रायेण चतुर्थपादस्य शङ्कामाहकस्तर्हीति। सृजतीति शेषः। स्वभावशब्दं प्रकरणोपयुक्तविशेषे स्थापयितुं वाच्यं तावदाहप्रकृतीति। ननु चेतनस्यात्मनः कर्तृत्वादिकं नास्ति अचेतनायास्तु वासनायाश्चेतनगुणमात्रभूतायाः कर्तृत्वादिकमिति कथमिदं ज्ञायते यद्यात्मनः स्वतश्शुद्धस्य न कर्तृत्वं तर्हि तस्य वासनाऽपि कुतः समागता यदि न कुतश्चित् तदा वासनैव स्वाभाविकीति तत्कृतकर्तृत्वादिकमपि स्वाभाविकं स्यात् यदि कुतश्चिद्धेतोः तदा तस्यापि स्वाभाविकत्वे पूर्वदोषः औपाधिकत्वे त्वकर्तुरात्मनस्तदागमोऽपि कुतः यदि वासनया तर्ह्यन्योन्याश्रयणं यद्यन्यस्मात्कुतश्चित् तत्रापि तथैवेत्यनवस्थेत्यादिचोद्यनिरसनाय तुशब्दः। तदाह अनादिकालेति। बीजाङ्कुरन्यायादन्योन्याश्रयादिपरिहारः। वासनाहेतुवैचित्र्यसिद्ध्यर्थन्देवाद्याकारेत्याद्युक्तम्। यथा तप्तायःपिण्डे वह्निसंसर्गाद्वह्नित्वबुद्धिः तथाऽत्रेति दर्शयितुंसंसर्गकृतशब्दः। वासनाकृतं वासनाख्यविशेषहेतूपाधिकमित्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 5.14 When the world of embodied selves exists in conjunction with the Prakrti in the form of gods, animals, men, immobile things etc., the master (Prabhu i.e., the Jiva who is the master of the body), who is not subject to Karma and is established in Its own essential nature, does not bring about: (i) the agency of gods, men etc. (ii) their manifold and particular actions and (iii) their connection with the fruits in the form of embodiment as gods etc., resulting from their actions. Who then brings about agency etc.; It is only the tendencies that act. A tendency
 (Svabhava) is subtle impressions (Vasanas) originating from Prakrti. The meaning is that agency, etc., do not originate from the natural or pristine condition of the self but are generated by the subtle impressions created by misconceiving those forms of Prakrti etc., as of
-the self. This is the result of the conjunction of the self with Prakrti
-in the form of gods, etc., which has been generated by the flow of
-previous Karmas brought about in beginningless time.
-
+the self. This is the result of the conjunction of the self with Prakrti in the form of gods, etc., which has been generated by the flow of previous Karmas brought about in beginningless time.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।5.14।। यतः न कर्तृत्वमिति। एष आत्मा न किंचित् कस्यचित् करोति
-प्रवृत्तिस्तु अस्य स्वभावमात्रं न फलेप्सया। तथाहि संवेदनात्मनो भगवतः
-प्रकाशानन्दस्वातन्त्र्यपरमार्थस्वभावस्य
-स्वभावमात्राक्षिप्तसमस्तसृष्टिस्थितिसंहृतिप्रबन्धस्य स्वस्वभावान्न
-मनागप्यपायो जातुचित् इति न कर्त्रवस्था अतिरिक्तं कर्तृत्वं किंचित्।
-तदभावात् कानि कर्माणि तदसत्वे कस्य फलम् को वा कर्मफलसंबन्धः कर्म अत्र
-क्रिया कर्मफलमपि +++(S क्रियाफलमपि च कर्म )+++ च क्रियाफलमेव। तथाहि
-दण्डचक्रपरिवर्तनादिक्रिया नान्या। न च सा घटनिष्पादिता
-संविदन्तवंर्त्तित्त्वात्। अस्माच्चेतनः +++(K तस्मात् omits अस्मात्
-सिद्धान्तः)+++ स्वतन्त्रः परमेश्वर एव तथा तथा भाति इति न तद्व्यतिरिक्तं
-क्रिया तत्फलादिकमिति सिद्धान्तः।
-
+॥5.14॥ न **कर्तृत्वं** स्वतः कुरु इति **ना**पि **कर्माणि** रथघटप्रासादादीनि ईप्सिततमानि **लोकस्य सृजति** उत्पादयति **प्रभुः** आत्मा। नापि रथादि कृतवतः तत्फलेन संयोगं **न कर्मफलसंयोगम्।** यदि किञ्चिदपि स्वतः न करोति न कारयति च देही कः तर्हि कुर्वन् कारयंश्च प्रवर्तते इति उच्यते **स्वभावस्तु** स्वो भावः स्वभावः अविद्यालक्षणा प्रकृतिः माया **प्रवर्तते दैवी हि** इत्यादिना वक्ष्यमाणा॥ परमार्थतस्तु
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.14 Na kartrtvam etc. This Soul does not do anything for anything. But,
-Its exertion is only Its inherent nature and it is not due to any desire
-for results. For, the Bhagavat, the Conscious Energy Itself Whose
-ultimately true inherent nature is the
-Illumination-Bliss-Freedom-of-Will, and Which brings out, merely by Its
-own nature, the continuous series of creation, manitenance and withdrawl
-of all (the Universe); hence in It, there is never a departure, even to
-a little extent, from Its own inherent nature. Hence there is no such
-thing as a particular stage of being a creator i.e., a creatorhood
-separate \[from Itself\]. Because that does not exist, what actions can
-be there ; If actions are not there, the fruit is to be of what or for
-whom ; Then what connection could be three with the fruit of action ;
-\[Further\], 'action' in this context is \[only\] the kriya-\[sakti\] or
-creative energy \[which is nothing but His will\], and 'result of
-action' too in only the fruit of this kriya. For example, the activity
-like rotating the \[potter's\] wheel by the stick is not \[actually\]
-different \[from what is to be created i.e., the pot\]. Nor the creator
-of the pot is different from it. For, all exist within the Conscious
-Energy. Therefore, it is only the Animate Sovereign Supreme Lord that
-manifests in this and that form. Therefore there exist no activity and
-its result etc., apart from That. This is demonstrated conclusion \[of
-the scriptures\]. So, if there is no activity or its result \[as stated
-above\], then even the result, ordained in \[the scriptural\]
-injunctions cannot have a status of being produced by the unseen
-\[cause\]. After saying this in the other first hemistich \[of the
-following verse\], the Lord justifies in the other hemistich the same
-statement with reference to the men of mundane life :-
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।5.14।। न च करोति वस्तुत इत्याह न कर्तृत्वमिति। प्रभुर्हि जीवो
-जडमपेक्ष्य।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।5.14।। ननु कर्तृत्वमित्येतत्प्रागुक्तान्न विशिष्यत इत्यत आह **न चे**ति।
-दर्शनादिकं कुर्वन्नेव नैव किञ्चित्करोमीति मन्यत इत्युक्तम्। तर्हि मिथ्या
-ज्ञानी प्रसज्येतेत्याशङ्कानिरासाय परमेश्वरप्रेरितः कुर्वन् कारयन्
-वस्तुतः स्वातन्त्र्येण न करोति न कारयति चेत्यनेनाहेत्यर्थः। अस्य
-जीवविषयत्वे प्रभुरित्येतदसम्भवीत्यत आह **प्रभुर्ही**ति। अनेन
-विभुरित्युपपादितप्रायम्।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।5.14।। न **कर्तृत्वं** स्वतः कुरु इति **ना**पि **कर्माणि**
-रथघटप्रासादादीनि ईप्सिततमानि **लोकस्य सृजति** उत्पादयति **प्रभुः**
-आत्मा। नापि रथादि कृतवतः तत्फलेन संयोगं **न कर्मफलसंयोगम्।** यदि
-किञ्चिदपि स्वतः न करोति न कारयति च देही कः तर्हि कुर्वन् कारयंश्च
-प्रवर्तते इति उच्यते **स्वभावस्तु** स्वो भावः स्वभावः अविद्यालक्षणा
-प्रकृतिः माया **प्रवर्तते दैवी हि** इत्यादिना वक्ष्यमाणा।। परमार्थतस्तु
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।5.14।। देहादिका स्वामी आत्मा न तो तू अमुक कर्म कर इस प्रकार लोगोंके
-कर्तापनको उत्पन्न करता है और न रथ घट महल आदि कर्म जो अत्यन्त इष्ट हैं
-उनको रचता है तथा न रथादि बनानेवालेका उसके कर्मफलके साथ संयोग ही रचता है
-यदि यह देहादिका स्वामी आत्मा स्वयं कुछ भी नहीं करताकराता तो फिर यह सब
-कौन कर रहा और करा रहा है इसपर कहते हैं स्वभाव ही बर्तता है अर्थात् जो
-अपना भाव है अविद्या जिसका स्वरूप है जो दैवी हि इत्यादि श्लोकोंसे आगे कही
-जानेवाली है वह प्रकृति यानी माया ही सब कुछ कर रही है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 5.14 Prabhuh, the Self; na srjati, does not create; lokasya, for anyone;
 kartrtvam, agentship, by saying 'Do this'; or even karmani, any
@@ -206,13 +66,22 @@ work by doing and making others do; The answer is: Tu, but; it is
 svabhavah, Nature- one's own (sva) nature (bhava)-characterized as
 ignorance, Maya, which will be spoken of in, 'Since this divine Maya'
 (7.14); pravartate, that acts. But from the highest standpoint-
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।5.14।। आत्मनो यदुक्तं कारयितृत्वं नास्तीति तत्प्रपञ्चयति
+<details><summary>हरिकृष्णदासः</summary>
+
+॥5.14॥ देहादिका स्वामी आत्मा न तो तू अमुक कर्म कर इस प्रकार लोगोंके
+कर्तापनको उत्पन्न करता है और न रथ घट महल आदि कर्म जो अत्यन्त इष्ट हैं
+उनको रचता है तथा न रथादि बनानेवालेका उसके कर्मफलके साथ संयोग ही रचता है
+यदि यह देहादिका स्वामी आत्मा स्वयं कुछ भी नहीं करताकराता तो फिर यह सब
+कौन कर रहा और करा रहा है इसपर कहते हैं स्वभाव ही बर्तता है अर्थात् जो
+अपना भाव है अविद्या जिसका स्वरूप है जो दैवी हि इत्यादि श्लोकोंसे आगे कही
+जानेवाली है वह प्रकृति यानी माया ही सब कुछ कर रही है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥5.14॥ आत्मनो यदुक्तं कारयितृत्वं नास्तीति तत्प्रपञ्चयति
 **नेत्यादिना।** यद्यपि लोकस्य कर्तृत्वं न सृजतीति नास्ति कारयितृत्वं
 तथापि रथशकटादीनि कुर्वन्भवति कर्तेत्याशङ्क्याह **न कर्माणीति।** तथापि
 भोजयितृत्वेन विक्रियावत्त्वं दुष्परिहरमित्याशङ्क्याह **न कर्मेति।** कस्य
@@ -223,30 +92,11 @@ ignorance, Maya, which will be spoken of in, 'Since this divine Maya'
 शङ्कोत्तरत्वेनावतारयति **यदीत्यादिना।** स्वभाववादस्तर्हीत्याशङ्क्य
 व्याकरोति **अविद्यालक्षणेति**। प्रकृतेर्विद्याभावत्वं व्युदसितुं
 मायेत्युक्तं सा च सप्तमे वक्ष्यते तेन प्रधानविलक्षणेत्याह **दैवी हीति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।5.14।। देवदत्तस्य स्वगतैव गतिर्यथा स्थितौ न भवति एवमात्मनोऽपि कर्तृत्वं
-कारयितृत्वं च स्वगतमेव सत्संन्यासे सति न भवति अथवा नभसि
-तलमलिनतादिवद्वस्तुवृत्त्या तत्र नास्त्येवेति संदेहापोहायाह लोकस्य
-देहादेः कर्तृत्वं प्रभुरात्मा स्वामी न सृजति त्वं कुर्विति नियोगेन तस्य
-कारयिता न भवतीत्यर्थः। नापि लोकस्य कर्माणीप्सिततमानि घटादीनि स्वयं सृजति
-कर्तापि न भवतीत्यर्थः। नापि लोकस्य कर्म कृतवतस्तत्फलसंबन्धं सृजति
-भोजयितापि भोक्तापि न भवतीत्यर्थः। स समानः सन्नुभौ लोकावनुसंचरति ध्यायतीव
-लेलायतीव सुधीः इत्यादिश्रुतेः। अत्रापिशरीरस्थोऽपि कौन्तेय न करोति न
-लिप्यते इत्युक्तेः यदि किंचिदपि स्वतो न कारयति न करोति चात्मा कस्तर्हि
-कारयन्कुर्वंश्च प्रवर्तत इति तत्राह स्वभावस्तु अज्ञानात्मिका दैवी माया
-प्रकृतिः प्रवर्तते।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।5.14।। नन्वेवं भृत्यवत्कर्तृत्वं स्वामिवत्कारयितृत्वं वास्य मास्तु।
+॥5.14॥ नन्वेवं भृत्यवत्कर्तृत्वं स्वामिवत्कारयितृत्वं वास्य मास्तु।
 अयस्कान्तवदविकारस्यैव सतः
 कर्त्रादिधर्मकाहंकारादिप्रवर्तकत्वमस्त्वित्याशङ्क्याह **न
 कर्तृत्वमिति।** कर्तृत्वमहंकारस्य कर्माणीन्द्रियाणां वचनादानादीनि
@@ -257,13 +107,11 @@ ignorance, Maya, which will be spoken of in, 'Since this divine Maya'
 चेति तद्वदेवमात्मनि प्रकाशमाने घटादयो न चेष्टन्ते मनुष्यादयस्तु
 चेष्टन्ते। नत्वात्मा कस्यचित्प्रवर्तको निवर्तको वा। लोहायस्कान्तयोरिव
 सत्यानृतयोरात्मानात्मनोः संबन्धाभावादिति भावः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।5.14।। नैव कुर्वन्न कारयन्नित्युक्तं प्रपञ्चयति **नेति।** प्रभुरात्मा
+<details><summary>धनपतिः</summary>
+
+॥5.14॥ नैव कुर्वन्न कारयन्नित्युक्तं प्रपञ्चयति **नेति।** प्रभुरात्मा
 लोकस्य देहादेः कर्तृत्वं न सृजति न घटप्रासादादीनि कर्माणि नापि
 घटादिकृतवतस्तत्फलेन संयोगम्। अनेन भोजयितृत्वमप्यात्मनो वारितम्।
 उपलक्षणमेतत् भोक्तृत्वस्य। विविधनिषेधस्यापि तर्हि कस्य
@@ -274,55 +122,93 @@ ignorance, Maya, which will be spoken of in, 'Since this divine Maya'
 अन्याय्यत्वात्। नन्वेष साधु कर्म कारयति तं यमेभ्यो लोकेभ्य उन्निनीषत एष
 एवासाधु कर्म कारयति तं यमेभ्यो लोकेभ्योऽधो निनीषते इत्यादिश्रुतेःअज्ञो
 जन्तुरनीशोऽयमात्मनः सुखदुःखयोः। ईश्वरप्रेरितो गच्छेत्स्वर्गं वा
-श्वभ्रमेव वा।। इतिस्मृतेश्च परमेश्वरेणैव शुभाशुभफलेषु कर्मसु कर्तृत्वेन
+श्वभ्रमेव वा॥ इतिस्मृतेश्च परमेश्वरेणैव शुभाशुभफलेषु कर्मसु कर्तृत्वेन
 प्रयुज्यमानः अस्वतन्त्रः पुरुषः कथं तानि कर्माणि त्यजेत। ईश्वरेणऐव
 ज्ञानमार्गे प्रयुज्यमानस्त्यक्ष्यतीति चेत्। एवंसतिवैषम्यनैर्घृण्याभ्यां
 प्रयोजककर्तृत्वादीश्वरस्यापि पुण्यपापसंबन्धः स्यादित्याशङ्क्याह
 **नेति।** द्वाभ्यामित्येवभुत्थाप्यायमपि श्लोको भाष्यकृद्भिरीश्वरत्वेन
 कुतो न व्याख्यात इति चेत् अतीतानन्तरश्लोकेन क्लिष्टकल्पनां विनैव
 संगतिसंभवमभिप्रेत्येति गृहाण।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥5.14॥ देवदत्तस्य स्वगतैव गतिर्यथा स्थितौ न भवति एवमात्मनोऽपि कर्तृत्वं
+कारयितृत्वं च स्वगतमेव सत्संन्यासे सति न भवति अथवा नभसि
+तलमलिनतादिवद्वस्तुवृत्त्या तत्र नास्त्येवेति संदेहापोहायाह लोकस्य
+देहादेः कर्तृत्वं प्रभुरात्मा स्वामी न सृजति त्वं कुर्विति नियोगेन तस्य
+कारयिता न भवतीत्यर्थः। नापि लोकस्य कर्माणीप्सिततमानि घटादीनि स्वयं सृजति
+कर्तापि न भवतीत्यर्थः। नापि लोकस्य कर्म कृतवतस्तत्फलसंबन्धं सृजति
+भोजयितापि भोक्तापि न भवतीत्यर्थः। स समानः सन्नुभौ लोकावनुसंचरति ध्यायतीव
+लेलायतीव सुधीः इत्यादिश्रुतेः। अत्रापिशरीरस्थोऽपि कौन्तेय न करोति न
+लिप्यते इत्युक्तेः यदि किंचिदपि स्वतो न कारयति न करोति चात्मा कस्तर्हि
+कारयन्कुर्वंश्च प्रवर्तत इति तत्राह स्वभावस्तु अज्ञानात्मिका दैवी माया
+प्रकृतिः प्रवर्तते।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।5.14।। किञ्चआत्मैव ह्यात्मनो बन्धुः 6।5 इत्युक्तत्वादात्मन एव निरोधे
+॥5.14॥ न च करोति वस्तुत इत्याह न कर्तृत्वमिति। प्रभुर्हि जीवो
+जडमपेक्ष्य।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥5.14॥ ननु कर्तृत्वमित्येतत्प्रागुक्तान्न विशिष्यत इत्यत आह **न चे**ति।
+दर्शनादिकं कुर्वन्नेव नैव किञ्चित्करोमीति मन्यत इत्युक्तम्। तर्हि मिथ्या
+ज्ञानी प्रसज्येतेत्याशङ्कानिरासाय परमेश्वरप्रेरितः कुर्वन् कारयन्
+वस्तुतः स्वातन्त्र्येण न करोति न कारयति चेत्यनेनाहेत्यर्थः। अस्य
+जीवविषयत्वे प्रभुरित्येतदसम्भवीत्यत आह **प्रभुर्ही**ति। अनेन
+विभुरित्युपपादितप्रायम्।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
+
+<details><summary>मूलम्</summary>
+
+॥5.14॥ यतः न कर्तृत्वमिति। एष आत्मा न किंचित् कस्यचित् करोति प्रवृत्तिस्तु अस्य स्वभावमात्रं न फलेप्सया। तथाहि संवेदनात्मनो भगवतः प्रकाशानन्दस्वातन्त्र्यपरमार्थस्वभावस्य स्वभावमात्राक्षिप्तसमस्तसृष्टिस्थितिसंहृतिप्रबन्धस्य स्वस्वभावान्न मनागप्यपायो जातुचित् इति न कर्त्रवस्था अतिरिक्तं कर्तृत्वं किंचित्। तदभावात् कानि कर्माणि तदसत्वे कस्य फलम् को वा कर्मफलसंबन्धः कर्म अत्र क्रिया कर्मफलमपि +++(S क्रियाफलमपि च कर्म )+++ च क्रियाफलमेव। तथाहि दण्डचक्रपरिवर्तनादिक्रिया नान्या। न च सा घटनिष्पादिता संविदन्तवंर्त्तित्त्वात्। अस्माच्चेतनः +++(K तस्मात् omits अस्मात् सिद्धान्तः)+++ स्वतन्त्रः परमेश्वर एव तथा तथा भाति इति न तद्व्यतिरिक्तं क्रिया तत्फलादिकमिति सिद्धान्तः।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+5.14 Na kartrtvam etc. This Soul does not do anything for anything. But, Its exertion is only Its inherent nature and it is not due to any desire for results. For, the Bhagavat, the Conscious Energy Itself Whose ultimately true inherent nature is the Illumination-Bliss-Freedom-of-Will, and Which brings out, merely by Its own nature, the continuous series of creation, manitenance and withdrawl of all (the Universe); hence in It, there is never a departure, even to a little extent, from Its own inherent nature. Hence there is no such thing as a particular stage of being a creator i.e., a creatorhood separate \[from Itself\]. Because that does not exist, what actions can be there ; If actions are not there, the fruit is to be of what or for whom ; Then what connection could be three with the fruit of action ; \[Further\], 'action' in this context is \[only\] the kriya-\[sakti\] or creative energy \[which is nothing but His will\], and 'result of action' too in only the fruit of this kriya. For example, the activity like rotating the \[potter's\] wheel by the stick is not \[actually\] different \[from what is to be created i.e., the pot\]. Nor the creator of the pot is different from it. For, all exist within the Conscious Energy. Therefore, it is only the Animate Sovereign Supreme Lord that manifests in this and that form. Therefore there exist no activity and its result etc., apart from That. This is demonstrated conclusion \[of the scriptures\]. So, if there is no activity or its result \[as stated above\], then even the result, ordained in \[the scriptural\] injunctions cannot have a status of being produced by the unseen \[cause\]. After saying this in the other first hemistich \[of the following verse\], the Lord justifies in the other hemistich the same statement with reference to the men of mundane life :-
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
+
+<details><summary>मूलम्</summary>
+
+॥5.14॥ किञ्चआत्मैव ह्यात्मनो बन्धुः 6।5 इत्युक्तत्वादात्मन एव निरोधे
 समत्वे सर्वं सेत्स्यतीति। अन्यथा कर्तृत्वाद्यहङ्कारादिना मिथ्याचरणमेव
 भविष्यति। तत्र च हेतुरात्मैव नान्यः सोऽपि प्राकृतस्वभावमय इति तन्निरोधं
 दृढयितुं सिद्धान्तमाह न कर्तृत्वमिति। प्रभुरीश्वरः परमात्मा लोकस्य
 प्राकृतशरीराभिमानिनः नानायोनिबीजाशयस्वभावकृतिकस्य कर्तृत्वं कर्माणि
 तत्फलसंयोगं च न सृजति। किन्तु तादृशः स्वभावो लोकनिष्ठः स्वत एव
 प्रवर्तते। अन्यथा परमात्मनो वैषम्यनैर्घृण्यप्रसङ्गः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।5.14।। ननूपदेशादिना कारणे को दोषः इति चेत्तत्राह न कर्तृत्वमिति। प्रभुः
+<details><summary>पुरुषोत्तमः</summary>
+
+॥5.14॥ ननूपदेशादिना कारणे को दोषः इति चेत्तत्राह न कर्तृत्वमिति। प्रभुः
 ईश्वरः लोकस्य कर्तृत्वं न सृजति न कर्माणि सृजति न वा कर्मफलसंयोगं सृजति।
 अतः स्वयमपि किमिति तथोपदिशेदिति भावः। नन्वीश्वरोत्पादनाभावे लोकः कथं
 प्रवर्तते इत्यत आह स्वभावस्तु प्रवर्तत इति। जीवस्य स्वभावः
-प्रकृत्यात्मकः प्रवर्त्तते कर्तृत्वादिरूपेण।  
-  
-
+प्रकृत्यात्मकः प्रवर्त्तते कर्तृत्वादिरूपेण।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।5.14।। ननुएष एव साधु कर्म कारयति तं यमेभ्यो लोकेभ्य उन्निनीषत एष
+॥5.14॥ ननुएष एव साधु कर्म कारयति तं यमेभ्यो लोकेभ्य उन्निनीषत एष
 एवासाधु कर्म कारयति तं यमेभ्यो लोकेभ्योऽधो निनीषते इत्यादिश्रुतेः
 परमेश्वरेणैव शुभाशुभफलेषु कर्मसु कर्तृत्वेन प्रयुज्यमानोऽस्वतन्त्रः
 पुरुषः कथं तानि कर्माणि त्यजेत्। ईश्वरेणैव ज्ञानमार्गे प्रयुज्यमानः
@@ -333,14 +219,67 @@ _________________
 अनाद्यविद्याकामवशात्प्रवृत्तिस्वभावं जीवलोकमीश्वरः कर्मसु नियुङ्क्ते न
 तु स्वयमेव कर्तृत्वादिकमुत्पादयतीत्यर्थः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+5.14 The lord of the body (the self i.e., the Jiva) does not create agency, nor actions, nor union with the fruits of actions in relation to the world of selves. It is only the inherent tendencies that function.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+5.14 The Self does not create agentship or any objects (of desire) for anyone; nor association with the results of actions. But it is Nature that acts.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+5.14 The Lord of this universe has not ordained activity, or any incentive thereto, or any relation between an act and its consequences.
+All this is the work of Nature.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+5.14. The Lord (Self) acires neither the state of being a creator of the world, nor the actions, nor the connecting with the fruits of their actions. But it is the inherent nature \[in It\] that exerts.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+5.14 Neither agency nor actions does the Lord create for the world, nor union with the fruits of actions. But it is Nature that acts.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+5.14 न not; कर्तृत्वम् agency; न not; कर्माणि actions; लोकस्य for this world; सृजति creates; प्रभुः the Lord; न not; कर्मफलसंयोगम् union with the fruits of actions; स्वभावः nature; तु but; प्रवर्तते leads to action.Commentary The Lord does not create agency or doership. He does not press anyone to do actions. He never tells anyone; Do this or do that. He does not bring about the union with the fruit of actions. It is Prakritit or Nature that does everything. (Cf.III.33)
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।5.14।। परमेश्वर मनुष्योंके न कर्तापनकी, न कर्मोंकी और न कर्मफलके साथ
+संयोगकी रचना करते हैं; किन्तु स्वभाव ही बरत रहा है।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+5.14।।***व्याख्या--*'न कर्तृत्वं न कर्माणि लोकस्य सृजति
+प्रभुः'--**सृष्टिकी रचनाका कार्य सगुण भगवान्का है, इसलिये '**प्रभुः'**
+पद दिया है। भगवान् सर्वसमर्थ हैं और सबके शासक, नियामक हैं। सृष्टिरचनाका
+कार्य करनेपर भी वे अकर्ता ही हैं (गीता 4। 13)।  
+  
+किसी भी कर्मके कर्तापनका सम्बन्ध भगवान्का बनाया हुआ नहीं है। मनुष्य
+स्वयं ही कर्मोंके कर्तापनकी रचना करता है। सम्पूर्ण कर्म प्रकृतिके द्वारा
+किये जाते हैं ;परन्तु मनुष्य अज्ञानवश प्रकृतिसे तादात्म्य कर लेता है और
+उसके द्वारा होनेवाले कर्मोंका कर्ता बन जाता है (गीता 3। 27)। यदि
+कर्तापनका सम्बन्ध भगवान्का बनाया हुआ होता, तो भगवान् इसी अध्यायके आठवें
+श्लोकमें
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।5.14।। वेदों में ईश्वर के विषय में प्रतिपादन करते हुये कहा गया है कि
 वह सर्वज्ञ सर्वशक्तिमान् सर्वद्रष्टा कर्माध्यक्ष और कर्मफलदाता है जो
@@ -375,86 +314,12 @@ _________________
 से ही आत्मा में कर्तृत्व और भोक्तृत्वादि गुण प्रतीत होते हैं। पारमार्थिक
 दृष्टि से आत्मा प्रकृति के गुणों से सर्वथा निर्लिप्त ही है। भगवान् कहते
 है
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।5.14।। लोकमात्र के लिए प्रभु (ईश्वर) न कर्तृत्व, न कर्म और न कर्मफल के
 संयोग को रचता है। परन्तु प्रकृति (सब कुछ) करती है।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।5.14।। परमेश्वर मनुष्योंके न कर्तापनकी, न कर्मोंकी और न कर्मफलके साथ
-संयोगकी रचना करते हैं; किन्तु स्वभाव ही बरत रहा है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-5.14।।***व्याख्या--*'न कर्तृत्वं न कर्माणि लोकस्य सृजति
-प्रभुः'--**सृष्टिकी रचनाका कार्य सगुण भगवान्का है, इसलिये '**प्रभुः'**
-पद दिया है। भगवान् सर्वसमर्थ हैं और सबके शासक, नियामक हैं। सृष्टिरचनाका
-कार्य करनेपर भी वे अकर्ता ही हैं (गीता 4। 13)।  
-  
-किसी भी कर्मके कर्तापनका सम्बन्ध भगवान्का बनाया हुआ नहीं है। मनुष्य
-स्वयं ही कर्मोंके कर्तापनकी रचना करता है। सम्पूर्ण कर्म प्रकृतिके द्वारा
-किये जाते हैं ;परन्तु मनुष्य अज्ञानवश प्रकृतिसे तादात्म्य कर लेता है और
-उसके द्वारा होनेवाले कर्मोंका कर्ता बन जाता है (गीता 3। 27)। यदि
-कर्तापनका सम्बन्ध भगवान्का बनाया हुआ होता, तो भगवान् इसी अध्यायके आठवें
-श्लोकमें
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-5.14. The Lord (Self) acires neither the state of being a creator of the world, nor the actions, nor the connecting with the fruits of their actions. But it is the inherent nature \[in It\] that exerts.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-5.14 The Self does not create agentship or any objects (of desire) for anyone; nor association with the results of actions. But it is Nature that acts.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-5.14 The Lord of this universe has not ordained activity, or any incentive thereto, or any relation between an act and its consequences.
-All this is the work of Nature.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-5.14 The lord of the body (the self i.e., the Jiva) does not create agency, nor actions, nor union with the fruits of actions in relation to the world of selves. It is only the inherent tendencies that function.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-5.14 Neither agency nor actions does the Lord create for the world, nor union with the fruits of actions. But it is Nature that acts.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-5.14 न not; कर्तृत्वम् agency; न not; कर्माणि actions; लोकस्य for this world; सृजति creates; प्रभुः the Lord; न not; कर्मफलसंयोगम् union with the fruits of actions; स्वभावः nature; तु but; प्रवर्तते leads to action.Commentary The Lord does not create agency or doership. He does not press anyone to do actions. He never tells anyone; Do this or do that. He does not bring about the union with the fruit of actions. It is Prakritit or Nature that does everything. (Cf.III.33)
-
-</details>
 </div>

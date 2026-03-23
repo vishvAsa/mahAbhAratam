@@ -1,110 +1,186 @@
 +++
 title = "17 यस्त्वात्मरतिरेव"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-यस्त्व् आत्म-रतिर् एव  
-स्याद् **आत्म-तृप्तश्** च मानवः।  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+यस् त्व् आत्म-रतिर् एव स्याद्  
+**आत्म-तृप्तश्** च मानवः।  
 आत्मन्य् एव च सन्तुष्टस्  
 तस्य **कार्यं न विद्यते**॥3.17॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/17_yastvAtmaratireva.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः।  
-आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते।।3.17।।
+आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते॥3.17॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।3.17।।**यः तु** ज्ञानयोगकर्मयोगसाधननिरपेक्षः स्वत **एव आत्मरतिः**
-आत्माभिमुखः **आत्मना एव तृप्तः** न अन्नपानादिभिः आत्मव्यतिरिक्तैः
-**आत्मनि एव च सन्तुष्टः** न उद्यानस्रक्चन्दनगीतवादित्रनृत्यादौ
-धारणपोषणभोग्यादिकं सर्वम् आत्मा एव यस्य **तस्य** आत्मदर्शनाय कर्तव्यं
-**न विद्यते** स्वत एव सर्वदा दृष्टात्मस्वरूपत्वात्।
+अ-साधनायत्तात्मदर्शनस्य मुक्तस्यैव  
+महा-यज्ञादि-वर्णाश्रमोचित-कर्मानारम्भ इत्याह ।
 
+॥3.17॥**यस् तु** ज्ञान-योग-कर्म-योग-साधन-निरपेक्षः  
+स्वत **एव आत्म-रतिः** आत्माभिमुखः  
+**आत्मना एव तृप्तः** न अन्न-पानादिभिर् आत्म-व्यतिरिक्तैः  
+**आत्मन्य् एव च सन्तुष्टः** न उद्यान-स्रक्-चन्दन-गीत-वादित्र-नृत्यादौ  
+धारण-पोषण-भोग्यादिकं सर्वम् आत्मा एव यस्य  
+**तस्य** आत्म-दर्शनाय कर्तव्यं **न विद्यते**  
+स्वत एव सर्वदा दृष्टात्म--स्व-रूपत्वात्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।3.17।। एवं ज्ञानयोगाद्यधिकारिणोऽपि कर्मकर्तव्यताया
-उक्तत्वात्तस्मादसक्तः 3।19 इत्यादिना वक्ष्यमाणत्वाच्च
-तन्मध्येयस्त्वात्मरतिः इत्यादिश्लोकौ न ज्ञानयोगाद्यधिकारिविषयौ किन्तु
-फलदशाविषयावित्यभिप्रायेणाह असाधनायत्तेति। एतेनअभयं सर्वभूतेभ्यो दत्त्वा
-नैष्कर्म्यमाचरेत् इत्याद्युक्तसन्न्यासाश्रमिपरत्वेन परव्याख्यानं
-निरस्तम् तस्यापि हि स्वाश्रमधर्मनिष्ठस्य सर्वकर्मनिवृत्त्यभावात्।
-वर्णाश्रमविशिष्टस्यैव हि वर्णाश्रमधर्मारम्भः न
-पुनर्वर्णाश्रमाधीननामरूपविनिर्मुक्तस्येति मुक्तशब्दस्य
-भावः। यस्त्वितितुशब्दः साधननिष्ठव्यावृत्त्यर्थ
-इत्यभिप्रायेणज्ञानयोगकर्मयोगसाधननिरपेक्ष इत्युक्तम्। कथं तर्हि साधनाभावे
-साद्ध्यसिद्धिः इत्यत्राह स्वत एवेति। प्रतिबन्धकं हि तन्निवृत्त्यर्थम्
-आत्माभिमुखत्वं तु स्वतः प्राप्तमिति भावः। रतिशब्दोऽत्राभिमुख्यविषयः
-तृप्त्यादेः पृथङ्निर्देशात्। आत्मरतिरेवआत्मन्येव इति
-पूर्वापरवत्आत्मतृप्तः इत्यत्राप्यवधारणं विवक्षितमित्यभिप्रायेणाह
-आत्मनैवेति। तृप्तितुष्टिशब्दौ हि पोषकभोग्यजन्यप्रीतिविषयतया
-प्रसिद्धावित्यभिप्रेत्य तत्तदुचितं व्यवच्छेद्यमाह
-नान्नपानादिभिरितिनोद्यानेत्यादि च। आत्मरतिः इत्यादेर्व्यवच्छेद्यत्रयं
-सङ्कलय्य सूचयन्वाक्यार्थमाह धारणेति। आदिशब्देन भोगस्थानादि विवक्षितम्
-यस्य तु ज्ञानयोगनिष्ठस्यापि धारणादिकमन्नपानादिभिरेव तस्य कर्तव्यं
-विद्यते एवेति भावः। ननुतस्य कार्यं न विद्यते इत्ययुक्तं मुक्तस्यापि
-जक्षन् क्रीडन् छां.उ.8।12।3 इत्यादिकार्यश्रवणात्। न चात्र कार्यमिति न
-तस्य कार्यं करणं च विद्यते श्वे.उ.6।7 इतिवच्छरीरादि निर्दिश्यते
-तन्निषेधस्येदानीमनुपयुक्तत्वात् तदत्यन्तनिषेधस्य चद्वादशाहवदुभयविधं
-ब्र.सू.4।3।12इत्यादिसूत्रतद्विषयश्रुतिभिर्विरुद्धत्वादित्याशङ्क्योक्तंआत्मदर्शनाय
-कर्तव्यं न विद्यते इति। यस्त्वात्मरतिः इत्यादिनाभिप्रेतं हेतुं व्यनक्ति
-स्वत एवेति। स्वत एव सर्वदा इत्युभाभ्यां उत्पत्त्यर्थं विनाशपरिहारार्थं च
-साधनापेक्षा नास्तीति ज्ञापितम्।
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥3.17॥ एवं ज्ञानयोगाद्यधिकारिणोऽपि कर्मकर्तव्यताया उक्तत्वात्तस्मादसक्तः 3।19 इत्यादिना वक्ष्यमाणत्वाच्च तन्मध्येयस्त्वात्मरतिः इत्यादिश्लोकौ न ज्ञानयोगाद्यधिकारिविषयौ किन्तु फलदशाविषयावित्यभिप्रायेणाह असाधनायत्तेति। एतेनअभयं सर्वभूतेभ्यो दत्त्वा नैष्कर्म्यमाचरेत् इत्याद्युक्तसन्न्यासाश्रमिपरत्वेन परव्याख्यानं निरस्तं तस्यापि हि स्वाश्रमधर्मनिष्ठस्य सर्वकर्मनिवृत्त्यभावात्। वर्णाश्रमविशिष्टस्यैव हि वर्णाश्रमधर्मारम्भः न पुनर्वर्णाश्रमाधीननामरूपविनिर्मुक्तस्येति मुक्तशब्दस्य भावः। यस्त्वितितुशब्दः साधननिष्ठव्यावृत्त्यर्थ इत्यभिप्रायेणज्ञानयोगकर्मयोगसाधननिरपेक्ष इत्युक्तम्। कथं तर्हि साधनाभावे साद्ध्यसिद्धिः इत्यत्राह स्वत एवेति। प्रतिबन्धकं हि तन्निवृत्त्यर्थम् आत्माभिमुखत्वं तु स्वतः प्राप्तमिति भावः। रतिशब्दोऽत्राभिमुख्यविषयः तृप्त्यादेः पृथङ्निर्देशात्। आत्मरतिरेवआत्मन्येव इति पूर्वापरवत्आत्मतृप्तः इत्यत्राप्यवधारणं विवक्षितमित्यभिप्रायेणाह आत्मनैवेति। तृप्तितुष्टिशब्दौ हि पोषकभोग्यजन्यप्रीतिविषयतया प्रसिद्धावित्यभिप्रेत्य तत्तदुचितं व्यवच्छेद्यमाह नान्नपानादिभिरितिनोद्यानेत्यादि च। आत्मरतिः इत्यादेर्व्यवच्छेद्यत्रयं सङ्कलय्य सूचयन्वाक्यार्थमाह धारणेति। आदिशब्देन भोगस्थानादि विवक्षितं यस्य तु ज्ञानयोगनिष्ठस्यापि धारणादिकमन्नपानादिभिरेव तस्य कर्तव्यं विद्यते एवेति भावः। ननुतस्य कार्यं न विद्यते इत्ययुक्तं मुक्तस्यापि जक्षन् क्रीडन् छां.उ.8।12।3 इत्यादिकार्यश्रवणात्। न चात्र कार्यमिति न तस्य कार्यं करणं च विद्यते श्वे.उ.6।7 इतिवच्छरीरादि निर्दिश्यते तन्निषेधस्येदानीमनुपयुक्तत्वात् तदत्यन्तनिषेधस्य चद्वादशाहवदुभयविधं ब्र.सू.4।3।12इत्यादिसूत्रतद्विषयश्रुतिभिर्विरुद्धत्वादित्याशङ्क्योक्तम्आत्मदर्शनाय कर्तव्यं न विद्यते इति। यस्त्वात्मरतिः इत्यादिनाभिप्रेतं हेतुं व्यनक्ति स्वत एवेति। स्वत एव सर्वदा इत्युभाभ्याम् उत्पत्त्यर्थं विनाशपरिहारार्थं च साधनापेक्षा नास्तीति ज्ञापितम्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.17 But for him, who is not in need of the means of Jnana Yoga and Karma Yoga, who finds delight in the self on his own, i.e., who is established in the self, who is satisfied by the self alone and not by food, drink and other things which are other than the self, who rejoices in the self alone and not in pleasure gardens, garlands, sandalpaste,
-vocal and instrumental music etc., and for whom everything, his subsistence, nourishment and enjoyment, is the self alone - for him nothing remains to be performed for the vision of the self, because the essential nature of the self is perpetually in his unaided vision.
+<details><summary>आदिदेवानन्दः</summary>
 
+3.17 But for him, who is not in need of the means of Jnana Yoga and Karma Yoga, who finds delight in the self on his own, i.e., who is established in the self, who is satisfied by the self alone and not by food, drink and other things which are other than the self, who rejoices in the self alone and not in pleasure gardens, garlands, sandalpaste, vocal and instrumental music etc., and for whom everything, his subsistence, nourishment and enjoyment, is the self alone - for him nothing remains to be performed for the vision of the self, because the essential nature of the self is perpetually in his unaided vision.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।3.17 3.19।। यश्चेत्यादि पूरुष इत्यन्तम्। आत्मरतेस्तु कर्म
-इन्द्रियव्यापारतयैव कुर्वतः करणाकरणेषु समता। अत एव नासौ भूतेषु
-किंचिदात्मप्रयोजनमपेक्ष्य निग्रहानुग्रहौ करोति अपि तु करणीयमिदम्
-इत्येतावता। तस्मादसक्त एव करणीयं कर्म कुर्यात्।
-
+॥3.17॥ **यस्तु** साङ्ख्यः आत्मज्ञाननिष्ठः **आत्मरतिः** आत्मन्येव रतिः न विषयेषु यस्य सः आत्मरति**रेव स्यात्** भवेत् **आत्मतृप्त**श्च आत्मनैव तृप्तः न अन्नरसादिना सः **मानवः** मनुष्यः संन्यासी **आत्मन्येव च संतुष्टः**। संतोषो हि बाह्यार्थलाभे सर्वस्य भवति तमनपेक्ष्य आत्मन्येव च संतुष्टः सर्वतो वीततृष्ण इत्येतत्। यः ईदृशः आत्मवित् **तस्य कार्यं** करणीयं **न विद्यते** नास्ति इत्यर्थः॥ किञ्च
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.17 See Comment under 3.19
+<details><summary>गम्भीरानन्दः</summary>
 
+3.17 Tu, but; that manavah, man, the sannyasin, the man of Knowledge,
+steadfast in the knowledge of the Self; yah, who; atmaratih eva syat,
+rejoices only in the Self-not in the sense objects; and atma-trptah, who
+is satisfied only with the Self-not with food and drink; and is
+santustah, contented; eva, only; atmani, in the Self; tasya, for him; na
+vidyate, there is no; karyam, duty \[Duty with a view to securing
+Liberation.\] to perform. \[Rati, trpti and santosa, though synonymous,
+are used to indicate various types of pleasures. Or, rati means
+attachment to objects; trpti means happiness arising from contact with
+some particular object; and santosa means happiness in general, arising
+from the acisition of some coveted object only.\] All people surely feel
+contened by aciring an external thing. But this one, without depending
+on it, remains contented only with the Self; thta is to say, he remains
+detached from everything. The idea it that, for a man who is such a
+knower of the Self, there is no duty to undertake.
 </details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥3.17॥ अथवा स्वयं ही भगवान् शास्त्रके अर्थको भलीभाँति समझानेके लिये यह
+जो प्रसिद्ध आत्मा है उसको जानकर जिनका मिथ्या ज्ञान निवृत्त हो चुका है
+ऐसे जो महात्मा ब्राह्मणगण अज्ञानियोंद्वारा अवश्य की जानेवाली पुत्रादिकी
+इच्छाओंसे रहित होकर केवल शरीरनिर्वाहके लिये भिक्षाका आचरण करते हैं उनका
+आत्मज्ञाननिष्ठासे अतिरिक्त अन्य कुछ भी कर्तव्य नहीं रहता ऐसा श्रुतिका
+तात्पर्य जो कि इस गीताशास्त्रमें प्रतिपादन करना उनको इष्ट है उस (
+श्रुतिअर्थ ) को प्रकट करते हुए बोले परंतु जो आत्मज्ञाननिष्ठ साङ्ख्ययोगी
+केवल आत्मामें ही रतिवाला है अर्थात् जिसका आत्मामें ही प्रेम है विषयोंमें
+नहीं और जो मनुष्य अर्थात् संन्यासी आत्मासे ही तृप्त है जिसकी तृप्ति
+अन्नरसादिके अधीन नहीं रह गयी है तथा जो आत्मामें ही संतुष्ट है बाह्य
+विषयोंके लाभसे तो सबको सन्तोष होता ही है पर उनकी अपेक्षा न करके जो
+आत्मामें ही सन्तुष्ट है अर्थात् सब ओरसे तृष्णारहित है। जो कोई ऐसा
+आत्मज्ञानी है उसके लिये कुछ भी कर्तव्य नहीं है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥3.17॥ वृत्तमर्थमेवं विभज्यानूद्यानन्तरश्लोकमाशङ्क्योत्तरत्वेनावतारयति
+**एवमिति।** अर्जुनस्य प्रश्नमित्येवमर्थमाशङ्क्याह भगवानिति संबन्धः।
+नन्वेषाशङ्का नावकाशमासादयत्यनात्मज्ञेन कर्तव्यं कर्मेति बहुशो
+विशेषितत्वादित्याशङ्क्याह **स्वयमेवेति।** किमर्थं श्रुत्यर्थं स्वयमेव
+भगवानत्र प्रतिपादयतीत्याशङ्क्याह **शास्त्रार्थस्येति।** गीताशास्त्रस्य
+ससंन्यासं ज्ञानमेव मुक्तिसाधनमर्थो नार्थान्तरमिति विवेकार्थमिह
+श्रुत्यर्थं कीर्तयतीत्यर्थः। तमेव श्रुत्यर्थं संक्षिपति **एवमिति।**
+सिद्धं चेदात्मवेदनमनर्थकं तर्हि व्युत्थानादीत्याशङ्क्यापातिकविज्ञानफलमाह
+**निवृत्तेति।** ब्राह्मणग्रहणं तेषामेव व्युत्थाने मुख्यमधिकारित्वमिति
+ज्ञापनार्थम्। क्लेशात्मकत्वादेषणानां ताभ्यो व्युत्थानं सर्वेषां
+स्वाभाविकत्वादविधित्सितमित्याशङ्क्याह **मिथ्येति।** भिक्षाचर्यं चरन्तीति
+वचनं व्युत्थानविरुद्धमित्याशङ्क्याह **शरीरेति।** तर्हि तद्वदेव
+तेषामग्निहोत्राद्यपि कर्तव्यमापद्येतेत्याशङ्क्य
+व्युत्थायिनामाश्रमधर्मवदग्निहोत्रादेरनुष्ठापकाभावान्मैवमित्याह **न
+तेषामिति।** यथोक्तं श्रुत्यर्थमस्मिन् गीताशास्त्रे पौर्वापर्येण
+पर्यालोच्यमाने प्रतिपादयितुमिष्टं प्रकटीकुर्वन्कर्तव्यमेव कर्म जीवतेति
+नियमेज्ञानयोगेन साङ्ख्यानाम् इति कथमुक्तमिति परिचोद्य
+परिहारमुपदर्शयतीत्याह **इत्येवमिति।** आत्मनिष्ठस्य विषयसङ्गराहित्यं
+दृष्टं तदनात्मज्ञेन जिज्ञासुना कर्तव्यमिति मत्वाह **यस्तु साङ्ख्य इति।**
+किंचात्मज्ञस्य ज्ञानेनात्मनैव परितृप्तत्वान्नान्नपानादिना साध्या
+तृप्तिरिष्टा तेन विद्यार्थिना संन्यासिनापि नान्नरसादावासक्तिर्युक्ता
+कर्तुमित्याह **आत्मतृप्त इति।** किंचात्मविदः सर्वतो वैतृष्ण्यं दृष्टं
+तदनात्मविदा विद्यार्थिना कर्तव्यमित्याह **आत्मन्येवेति।**
+रतितृप्तिसंतोषाणां मोदप्रमोदानन्दवदवान्तरभेदः अथवा रतिर्विषयासक्तिः
+तृप्तिर्विषयविशेषसंपर्कजं सुखं संतोषोऽभीष्टविषयमात्रलाभाधीनं
+सुखसामान्यमिति भेदः। नन्वात्मरतेरात्मतृप्तस्यात्मयेव संतुष्टस्यापि
+किंचित्कर्तव्यं मुक्तये भविष्यतीति नेत्याह **य ईदृश इति।**
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥3.17॥ एवमीश्वरेण वेदयज्ञपूर्वकं जगच्चक्रं
+प्रवर्तितमज्ञैरधिकृतैरनुवर्तितव्यमित्युक्तम्। अस्यानुवर्तने च
+महान्प्रत्यवाय उक्तः। स ब्रह्मविदमपि स्पृशेदिति संभावितामाशङ्कां परिहरति
+**यस्त्विति।** आत्मन्येव रतिः प्रीतिर्यस्य नतु स्त्र्यादौ स तथा।
+नन्वात्मनि प्रीतिः प्राणिमात्रस्यानौपाधिक्यस्ति प्रत्युत तदर्थत्वेनैव
+स्त्र्यादिष्वपिप्रीतिर्भवतीत्यत उक्तम् **आत्मतृप्त इति।** आत्मनैव
+परमानन्दरूपेण तृप्तो न मिष्टान्नादिना। ननु मन्दाग्निरपि स्त्र्यादौ न
+रमते नापि मिष्टान्नेन तृप्यत्यत उक्तं आत्मन्नेव च संतुष्ट इति।
+मन्दाग्निर्हि धातुवृद्धिं जाठरोद्दीपनं च कामयमान औषधाद्यर्थमितस्ततो
+धावति नत्वात्मन्येव तुष्यति विद्वांस्तु रतितृप्तितुष्टीरात्मनैवानुभवति न
+स्त्र्यन्नधनादिभिरिति तस्य कार्यं कर्तव्यं किमपि नास्ति।
+क्रियाप्राप्यस्य कस्यचिदप्यर्थस्याभावात्।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥3.17॥ न कर्मणामित्यारभ्य शरीरयात्रापीत्यन्तेन
+ग्रन्थेनात्मज्ञाननिष्ठायोग्यताप्राप्त्यर्थं फलाभिसंधिरहितं
+कर्मानुष्ठेयमिति प्रतिपाद्य यज्ञार्थादित्यादिना मोघमित्यन्तेन
+प्रासाङ्गिकमनात्मविदोऽधिकृतस्य कर्मानुष्ठाने बहु कारणमुक्तं तदकरणे च
+दोषसंकीर्तनं कृतमेवंस्थिते किमेवं प्रवर्तितं चक्रं
+सर्वेणानुवर्तनीयमुतानात्मज्ञेनाशुद्धान्तःकरणेन
+ज्ञानप्राप्त्यर्थमित्यर्जुनसंशयमालक्ष्य स्वयमेव वा शास्त्रस्य
+विवेकप्रतिपत्त्यर्थं तत्त्वविदस्तन्निषेधति **यस्त्विति।** यस्तु मानव
+आत्मज्ञाननिष्ठ आत्मन्येव रतिर्न विषयेषु यस्य सः आत्मनैव नान्नरसादिना
+तृप्तश्च भवेत्। आत्मन्येव तुष्टो न बाह्येष्वर्थेषु विगततृष्ण इत्यर्थः।
+तस्य कर्तव्यं नास्ति।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥3.17॥ यस्त्विन्द्रियारामो न भवति परमार्थदर्शी स एवं
+जगच्चक्रप्रवृत्तिहेतुभूतं कर्माननुतिष्ठन्नपि न प्रत्यवैति
+कृतकृत्यत्वादित्याह द्वाभ्याम् इन्द्रियारामो हि स्रक्चन्दनवनितादिषु
+रतिमनुभवति मनोज्ञान्नपानादिषु तृप्तिम् पशुपुत्रहिरण्यादिलाभेन
+रोगाद्यभावेन च तुष्टिं उक्तविषयाभावे रागिणामरत्यतृप्त्यतुष्टिदर्शनात्।
+रतितृप्तितुष्टयो मनोवृत्तिविशेषाः साक्षिसिद्धाः। लब्धपरमात्मानन्दस्तु
+द्वैतदर्शनाभावादतिफल्गुत्वाच्च विषयसुखं न कामयत इत्युक्तंयावानर्थ उदपाने
+इत्यत्र। अतो नात्मविषयकरतितृप्तितुष्ट्यभावादात्मानं परमानन्दमद्वयं
+साक्षात्कुर्वन्नुपचारादेवमुच्यते आत्मरतिरात्मतृप्त आत्मसंतुष्ट इति। तथाच
+श्रुतिःआत्मक्रीड आत्मरतिः क्रियावानेष ब्रह्मविदां वरिष्ठः इति।
+आत्मतृप्तश्चेति चकार एवकारानुकर्षणार्थः। मानव इति यः कश्चिदपि मनुष्य
+एवंभूतः स एव कृतकृत्यो नतु ब्राह्मणत्वादिप्रकर्षेणेति कथयितुम्।
+आत्मन्येव च संतुष्ट इत्यत्र चकारः समुच्चयार्थः। य
+एवंभूतस्तस्याधिकारहेत्वभावात्किमपि कार्यं वैदिकं लौकिकं वा न विद्यते।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।3.17।। तर्ह्यतीव मनस्समाधानमपि न कार्यमित्यत आह यस्त्विति। रमणं
+॥3.17॥ तर्ह्यतीव मनस्समाधानमपि न कार्यमित्यत आह यस्त्विति। रमणं
 परदर्शनादिनिमित्तं सुखम्। तृप्तिरन्यत्रालम्बुद्धिः। सन्तोषस्तज्जनकं
 सुखम्। सन्तोषस्तृप्तिकारणम् इत्यभिधानात्। परमात्मदर्शनादिनिमित्तं सुखं
 प्राप्तः। अन्यत्र सर्वात्मनाऽलम्बुद्धिः। महच्च तत्सुखं च
@@ -121,13 +197,11 @@ _________________
 ज्ञानिन एवासम्प्रज्ञातसमाधिर्भवतीति दर्शयति मनु अवबोधन इति धातोः।
 परमात्मरतिश्चात्र विवक्षिता। विष्णावेव रतिर्यस्य क्रिया तस्यैव नास्ति हि
 इति वचनात्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।3.17।। एवमज्ञानिनः कर्म कर्तव्यमित्युक्तम् इदानीं ज्ञानिनः
+<details><summary>जयतीर्थः</summary>
+
+॥3.17॥ एवमज्ञानिनः कर्म कर्तव्यमित्युक्तम् इदानीं ज्ञानिनः
 कर्तव्याभावमाहेति परव्याख्यानमसदिति भावेन सङ्गतिमाह **तर्ही**ति यद्येवं
 कर्माकरणे हानिस्तत्करणे च लाभस्तर्हीत्यर्थः। परमेश्वरेऽतीव
 मनस्समाधानमसम्प्रज्ञातसमाधिरित्यर्थः। न कार्यं प्रसज्येतेति शब्दः। तत्र
@@ -215,246 +289,103 @@ _________________
 इतिव्याख्यायामृष्यादिव्यावृत्तिर्वैयर्थ्यं चापद्येत।
 आत्मशब्दस्याप्यन्यथाव्याख्यां निराकरोति **परमात्मे**ति। चशब्दोऽवधारणे। न
 स्वात्मरतिरित्यर्थः। तस्यैव इत्यवधारणादिति।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।3.17।। **यस्तु** साङ्ख्यः आत्मज्ञाननिष्ठः **आत्मरतिः** आत्मन्येव रतिः न
-विषयेषु यस्य सः आत्मरति**रेव स्यात्** भवेत् **आत्मतृप्त**श्च आत्मनैव
-तृप्तः न अन्नरसादिना सः **मानवः** मनुष्यः संन्यासी **आत्मन्येव च
-संतुष्टः**। संतोषो हि बाह्यार्थलाभे सर्वस्य भवति तमनपेक्ष्य आत्मन्येव च
-संतुष्टः सर्वतो वीततृष्ण इत्येतत्। यः ईदृशः आत्मवित् **तस्य कार्यं**
-करणीयं **न विद्यते** नास्ति इत्यर्थः।। किञ्च
-
+॥3.17 3.19॥ यश्चेत्यादि पूरुष इत्यन्तम्। आत्मरतेस्तु कर्म इन्द्रियव्यापारतयैव कुर्वतः करणाकरणेषु समता। अत एव नासौ भूतेषु किंचिदात्मप्रयोजनमपेक्ष्य निग्रहानुग्रहौ करोति अपि तु करणीयमिदम् इत्येतावता। तस्मादसक्त एव करणीयं कर्म कुर्यात्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।3.17।। अथवा स्वयं ही भगवान् शास्त्रके अर्थको भलीभाँति समझानेके लिये यह
-जो प्रसिद्ध आत्मा है उसको जानकर जिनका मिथ्या ज्ञान निवृत्त हो चुका है
-ऐसे जो महात्मा ब्राह्मणगण अज्ञानियोंद्वारा अवश्य की जानेवाली पुत्रादिकी
-इच्छाओंसे रहित होकर केवल शरीरनिर्वाहके लिये भिक्षाका आचरण करते हैं उनका
-आत्मज्ञाननिष्ठासे अतिरिक्त अन्य कुछ भी कर्तव्य नहीं रहता ऐसा श्रुतिका
-तात्पर्य जो कि इस गीताशास्त्रमें प्रतिपादन करना उनको इष्ट है उस (
-श्रुतिअर्थ ) को प्रकट करते हुए बोले परंतु जो आत्मज्ञाननिष्ठ साङ्ख्ययोगी
-केवल आत्मामें ही रतिवाला है अर्थात् जिसका आत्मामें ही प्रेम है विषयोंमें
-नहीं और जो मनुष्य अर्थात् संन्यासी आत्मासे ही तृप्त है जिसकी तृप्ति
-अन्नरसादिके अधीन नहीं रह गयी है तथा जो आत्मामें ही संतुष्ट है बाह्य
-विषयोंके लाभसे तो सबको सन्तोष होता ही है पर उनकी अपेक्षा न करके जो
-आत्मामें ही सन्तुष्ट है अर्थात् सब ओरसे तृष्णारहित है। जो कोई ऐसा
-आत्मज्ञानी है उसके लिये कुछ भी कर्तव्य नहीं है।
+<details><summary>शङ्करनारायणः</summary>
 
+3.17 See Comment under 3.19
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.17 Tu, but; that manavah, man, the sannyasin, the man of Knowledge,
-steadfast in the knowledge of the Self; yah, who; atmaratih eva syat,
-rejoices only in the Self-not in the sense objects; and atma-trptah, who
-is satisfied only with the Self-not with food and drink; and is
-santustah, contented; eva, only; atmani, in the Self; tasya, for him; na
-vidyate, there is no; karyam, duty \[Duty with a view to securing
-Liberation.\] to perform. \[Rati, trpti and santosa, though synonymous,
-are used to indicate various types of pleasures. Or, rati means
-attachment to objects; trpti means happiness arising from contact with
-some particular object; and santosa means happiness in general, arising
-from the acisition of some coveted object only.\] All people surely feel
-contened by aciring an external thing. But this one, without depending
-on it, remains contented only with the Self; thta is to say, he remains
-detached from everything. The idea it that, for a man who is such a
-knower of the Self, there is no duty to undertake.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।3.17।। वृत्तमर्थमेवं विभज्यानूद्यानन्तरश्लोकमाशङ्क्योत्तरत्वेनावतारयति
-**एवमिति।** अर्जुनस्य प्रश्नमित्येवमर्थमाशङ्क्याह भगवानिति संबन्धः।
-नन्वेषाशङ्का नावकाशमासादयत्यनात्मज्ञेन कर्तव्यं कर्मेति बहुशो
-विशेषितत्वादित्याशङ्क्याह **स्वयमेवेति।** किमर्थं श्रुत्यर्थं स्वयमेव
-भगवानत्र प्रतिपादयतीत्याशङ्क्याह **शास्त्रार्थस्येति।** गीताशास्त्रस्य
-ससंन्यासं ज्ञानमेव मुक्तिसाधनमर्थो नार्थान्तरमिति विवेकार्थमिह
-श्रुत्यर्थं कीर्तयतीत्यर्थः। तमेव श्रुत्यर्थं संक्षिपति **एवमिति।**
-सिद्धं चेदात्मवेदनमनर्थकं तर्हि व्युत्थानादीत्याशङ्क्यापातिकविज्ञानफलमाह
-**निवृत्तेति।** ब्राह्मणग्रहणं तेषामेव व्युत्थाने मुख्यमधिकारित्वमिति
-ज्ञापनार्थम्। क्लेशात्मकत्वादेषणानां ताभ्यो व्युत्थानं सर्वेषां
-स्वाभाविकत्वादविधित्सितमित्याशङ्क्याह **मिथ्येति।** भिक्षाचर्यं चरन्तीति
-वचनं व्युत्थानविरुद्धमित्याशङ्क्याह **शरीरेति।** तर्हि तद्वदेव
-तेषामग्निहोत्राद्यपि कर्तव्यमापद्येतेत्याशङ्क्य
-व्युत्थायिनामाश्रमधर्मवदग्निहोत्रादेरनुष्ठापकाभावान्मैवमित्याह **न
-तेषामिति।** यथोक्तं श्रुत्यर्थमस्मिन् गीताशास्त्रे पौर्वापर्येण
-पर्यालोच्यमाने प्रतिपादयितुमिष्टं प्रकटीकुर्वन्कर्तव्यमेव कर्म जीवतेति
-नियमेज्ञानयोगेन साङ्ख्यानाम् इति कथमुक्तमिति परिचोद्य
-परिहारमुपदर्शयतीत्याह **इत्येवमिति।** आत्मनिष्ठस्य विषयसङ्गराहित्यं
-दृष्टं तदनात्मज्ञेन जिज्ञासुना कर्तव्यमिति मत्वाह **यस्तु साङ्ख्य इति।**
-किंचात्मज्ञस्य ज्ञानेनात्मनैव परितृप्तत्वान्नान्नपानादिना साध्या
-तृप्तिरिष्टा तेन विद्यार्थिना संन्यासिनापि नान्नरसादावासक्तिर्युक्ता
-कर्तुमित्याह **आत्मतृप्त इति।** किंचात्मविदः सर्वतो वैतृष्ण्यं दृष्टं
-तदनात्मविदा विद्यार्थिना कर्तव्यमित्याह **आत्मन्येवेति।**
-रतितृप्तिसंतोषाणां मोदप्रमोदानन्दवदवान्तरभेदः अथवा रतिर्विषयासक्तिः
-तृप्तिर्विषयविशेषसंपर्कजं सुखं संतोषोऽभीष्टविषयमात्रलाभाधीनं
-सुखसामान्यमिति भेदः। नन्वात्मरतेरात्मतृप्तस्यात्मयेव संतुष्टस्यापि
-किंचित्कर्तव्यं मुक्तये भविष्यतीति नेत्याह **य ईदृश इति।**
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।3.17।। यस्त्विन्द्रियारामो न भवति परमार्थदर्शी स एवं
-जगच्चक्रप्रवृत्तिहेतुभूतं कर्माननुतिष्ठन्नपि न प्रत्यवैति
-कृतकृत्यत्वादित्याह द्वाभ्याम् इन्द्रियारामो हि स्रक्चन्दनवनितादिषु
-रतिमनुभवति मनोज्ञान्नपानादिषु तृप्तिम् पशुपुत्रहिरण्यादिलाभेन
-रोगाद्यभावेन च तुष्टिं उक्तविषयाभावे रागिणामरत्यतृप्त्यतुष्टिदर्शनात्।
-रतितृप्तितुष्टयो मनोवृत्तिविशेषाः साक्षिसिद्धाः। लब्धपरमात्मानन्दस्तु
-द्वैतदर्शनाभावादतिफल्गुत्वाच्च विषयसुखं न कामयत इत्युक्तंयावानर्थ उदपाने
-इत्यत्र। अतो नात्मविषयकरतितृप्तितुष्ट्यभावादात्मानं परमानन्दमद्वयं
-साक्षात्कुर्वन्नुपचारादेवमुच्यते आत्मरतिरात्मतृप्त आत्मसंतुष्ट इति। तथाच
-श्रुतिःआत्मक्रीड आत्मरतिः क्रियावानेष ब्रह्मविदां वरिष्ठः इति।
-आत्मतृप्तश्चेति चकार एवकारानुकर्षणार्थः। मानव इति यः कश्चिदपि मनुष्य
-एवंभूतः स एव कृतकृत्यो नतु ब्राह्मणत्वादिप्रकर्षेणेति कथयितुम्।
-आत्मन्येव च संतुष्ट इत्यत्र चकारः समुच्चयार्थः। य
-एवंभूतस्तस्याधिकारहेत्वभावात्किमपि कार्यं वैदिकं लौकिकं वा न विद्यते।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।3.17।। एवमीश्वरेण वेदयज्ञपूर्वकं जगच्चक्रं
-प्रवर्तितमज्ञैरधिकृतैरनुवर्तितव्यमित्युक्तम्। अस्यानुवर्तने च
-महान्प्रत्यवाय उक्तः। स ब्रह्मविदमपि स्पृशेदिति संभावितामाशङ्कां परिहरति
-**यस्त्विति।** आत्मन्येव रतिः प्रीतिर्यस्य नतु स्त्र्यादौ स तथा।
-नन्वात्मनि प्रीतिः प्राणिमात्रस्यानौपाधिक्यस्ति प्रत्युत तदर्थत्वेनैव
-स्त्र्यादिष्वपिप्रीतिर्भवतीत्यत उक्तम् **आत्मतृप्त इति।** आत्मनैव
-परमानन्दरूपेण तृप्तो न मिष्टान्नादिना। ननु मन्दाग्निरपि स्त्र्यादौ न
-रमते नापि मिष्टान्नेन तृप्यत्यत उक्तं आत्मन्नेव च संतुष्ट इति।
-मन्दाग्निर्हि धातुवृद्धिं जाठरोद्दीपनं च कामयमान औषधाद्यर्थमितस्ततो
-धावति नत्वात्मन्येव तुष्यति विद्वांस्तु रतितृप्तितुष्टीरात्मनैवानुभवति न
-स्त्र्यन्नधनादिभिरिति तस्य कार्यं कर्तव्यं किमपि नास्ति।
-क्रियाप्राप्यस्य कस्यचिदप्यर्थस्याभावात्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।3.17।। न कर्मणामित्यारभ्य शरीरयात्रापीत्यन्तेन
-ग्रन्थेनात्मज्ञाननिष्ठायोग्यताप्राप्त्यर्थं फलाभिसंधिरहितं
-कर्मानुष्ठेयमिति प्रतिपाद्य यज्ञार्थादित्यादिना मोघमित्यन्तेन
-प्रासाङ्गिकमनात्मविदोऽधिकृतस्य कर्मानुष्ठाने बहु कारणमुक्तं तदकरणे च
-दोषसंकीर्तनं कृतमेवंस्थिते किमेवं प्रवर्तितं चक्रं
-सर्वेणानुवर्तनीयमुतानात्मज्ञेनाशुद्धान्तःकरणेन
-ज्ञानप्राप्त्यर्थमित्यर्जुनसंशयमालक्ष्य स्वयमेव वा शास्त्रस्य
-विवेकप्रतिपत्त्यर्थं तत्त्वविदस्तन्निषेधति **यस्त्विति।** यस्तु मानव
-आत्मज्ञाननिष्ठ आत्मन्येव रतिर्न विषयेषु यस्य सः आत्मनैव नान्नरसादिना
-तृप्तश्च भवेत्। आत्मन्येव तुष्टो न बाह्येष्वर्थेषु विगततृष्ण इत्यर्थः।
-तस्य कर्तव्यं नास्ति।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।3.17।। तदेवंन कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते 3।4 इति
+॥3.17॥ तदेवंन कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते 3।4 इति
 योगमार्गीयपुरुषार्थसिद्ध्यर्थं कर्म विहितं विधेयमित्युक्तम्
 साङ्क्यमार्गीयस्य तु ज्ञानमेव नानात्मभूतं कर्मोपयुक्तमित्याह द्वाभ्याम्
 यस्त्विति। तुः पूर्वं प्रकृतेभेदार्थकः। आत्मन्येवेति।
 तृप्तिर्तुष्टिर्यस्य नानात्मनि इत्यात्मैवकारलिङ्गेन साङ्ख्यमार्गीयो
 मुनिरुक्तः। तत्र हेतुमाह।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।3.17।। नन्वेवं चेत्तदा सर्व एव त्वद्भक्ताः कथं न कुर्वन्ति इत्यत आह
+<details><summary>पुरुषोत्तमः</summary>
+
+॥3.17॥ नन्वेवं चेत्तदा सर्व एव त्वद्भक्ताः कथं न कुर्वन्ति इत्यत आह
 द्वयेन यस्त्वात्मरतिरेवेति। यस्तु आत्मरतिरेव आत्मनिमय्येव रतिर्यस्य
 तादृशः स्यात् यश्च आत्मतृप्तश्च भगवदानन्देन तृप्तः सुखितः आत्मन्येव
 भगवत्येव सन्तुष्टः स्वभोगापेक्षारहितः तस्य कार्यं कर्त्तव्यं न विद्यते
-नास्तीत्यर्थः।  
-  
-
+नास्तीत्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।3.17।। तदेवंन कर्मणाभनारम्भान्नैष्कर्म्यं
+॥3.17॥ तदेवंन कर्मणाभनारम्भान्नैष्कर्म्यं
 इत्यादिनाऽज्ञस्यान्तःकरणशुद्ध्यर्थ कर्मयोगमुक्त्वा ज्ञानिनः
 कर्मानुपयोगमाह **यस्त्वति** द्वाभ्याम्। आत्मन्येव रतिः प्रीतियस्य।
 ततश्चात्मन्येव तृप्तः स्वानन्दानुभवेन निर्वृतः। अतएवात्मन्येव संतुष्टो
 भोगापेक्षारहितो यस्तस्य कर्तव्यं नास्ति।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।3.17।। कर्म के चक्र का पालन अधिकतर साधकों के लिए करणीय है क्योंकि यज्ञ
-भावना से कर्म के आचरण द्वारा उनका व्यक्तित्व संगठित होता है और उनमें
-जीवन के श्रेष्ठ कार्य ध्यान की योग्यता आती है। निस्वार्थ कर्म के द्वारा
-प्राप्त अन्तकरण की शुद्धि एवं एकाग्रता का उपयोग जब निदिध्यासन में किया
-जाता है तब साधक अहंकार के परे अपने शुद्ध आत्मस्वरूप की अनुभूति प्राप्त
-करता है। पूर्णत्व प्राप्त ऐसे सिद्ध पुरुष के लिये कर्म की चित्तशुद्धि के
-साधन के रूप में कोई आवश्यता नहीं रहती वरन् कर्म तो उसके ईश्वर
-साक्षात्कार की अभिव्यक्ति मात्र होते हैं। यह एक सुविदित तथ्य है कि तृप्ति
-एवं सन्तोष के लिये ही हम कर्म में प्रवृत्त रहते हैं। तृप्ति और सन्तोष
-मानो जीवनरथ के दो चक्र हैं। इन दोनों की प्राप्ति के लिये ही हम धन का
-अर्जन रक्षण परिग्रह और व्यय करने में व्यस्त रहते हैं। परन्तु आत्मानुभवी
-पुरुष अपने अनन्त आनन्द स्वरूप में उस तृप्ति और सन्तोष का अनुभव करता है
-कि उसे फिर बाह्य वस्तुओं की कोई आवश्यकता नहीं रह जाती। जहाँ तृप्ति और
-सन्तोष है वहाँ सुख प्राप्ति की इच्छाओं की उत्पत्ति कहाँ इच्छाओं के अभाव
-में कर्म का अस्तित्व कहाँ इस प्रकार आत्म अज्ञान के कार्य इच्छा विक्षेप
-और कर्म का उसमें सर्वथा अभाव होता है। स्वाभाविक है ऐसे पुरुष के लिये कोई
-अनिवार्य कर्तव्य नहीं रह जाता। सभी कर्मों का प्रयोजन उसमें पूर्ण हो जाता
-है। अत जगत् के सामान्य नियमों में उसे बांधा नहीं जा सकता। वह ईश्वरीय
-पुरुष बनकर पृथ्वी पर विचरण करता है। और
-
+3.17 But the man whose delight is only in the self, who is satisfied with the self, who rejoices in the self, for him nothing remains to be accomplished.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।3.17।। परन्तु जो मनुष्य आत्मा में ही रमने वाला आत्मा में ही तृप्त तथा
-आत्मा में ही सन्तुष्ट हो उसके लिये कोई कर्तव्य नहीं रहता।।  
-  
+<details><summary>गम्भीरानन्दः</summary>
 
+3.17 But that man who rejoices only in theSelf and is satisfied with the Self, and is contented only in the Self-for him there is no duty to perform.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+3.17 On the other hand, the soul who meditates on the Self is content to serve the Self and rests satisfied within the Self; there remains nothing more for him to accomplish.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+3.17. But the man, who simply rejoices in the Self; and who is satisfied in the Self; and who delights in the Self alone-there exists no action for him to be performed.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+3.17 But for that man who rejoices only in the Self, who is satisfied with the Self and who is content in the Self alone, verily there is nothing to do.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+3.17 यः who; तु but; आत्मरतिः who rejoices in the Self; एव only; स्यात्
+may be; आत्मतृप्तः satisfied in the Self; च and; मानवः the man; आत्मनि
+in the Self; एव only; च and; सन्तुष्टः contented; तस्य his; कार्यम् work to be done; न not; विद्यते is.Commentary The sage does not depend on external objects for his happiness. He is ite satisfied with the Self.
+He finds his joy; bliss and contentment within his own Self. For such a sage who has knowledge of the Self; there is nothing to do. He has already done all actions. He has satisfied all his desires. He has complete satisfaction. (Cf.II.55).
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.17।। जो मनुष्य अपने-आपमें ही रमण करनेवाला और अपने-आपमें ही तृप्त
 तथा अपने-आपमें ही संतुष्ट है, उसके लिये कोई कर्तव्य नहीं है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।3.17।।***व्याख्या--*'यस्त्वात्मरतिरेव ৷৷. च संतुष्टस्तस्य'--**यहाँ
 **'तु'** पद पूर्वश्लोकमें वर्णित अपने कर्तव्यका पालन न करनेवाले मनुष्यसे
@@ -501,55 +432,35 @@ _________________
 मानते हैं। यदि आसक्त मनुष्य भी साधकके समान ही यथार्थ दृष्टिसे देखे तो
 उसको शीघ्र ही स्वतःसिद्ध निष्कामताका अनुभव हो सकता है। सकाम मनुष्योंको
 कर्मयोगका अधिकारी कहा गया है--
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-3.17. But the man, who simply rejoices in the Self; and who is satisfied in the Self; and who delights in the Self alone-there exists no action for him to be performed.
-
+।।3.17।। कर्म के चक्र का पालन अधिकतर साधकों के लिए करणीय है क्योंकि यज्ञ
+भावना से कर्म के आचरण द्वारा उनका व्यक्तित्व संगठित होता है और उनमें
+जीवन के श्रेष्ठ कार्य ध्यान की योग्यता आती है। निस्वार्थ कर्म के द्वारा
+प्राप्त अन्तकरण की शुद्धि एवं एकाग्रता का उपयोग जब निदिध्यासन में किया
+जाता है तब साधक अहंकार के परे अपने शुद्ध आत्मस्वरूप की अनुभूति प्राप्त
+करता है। पूर्णत्व प्राप्त ऐसे सिद्ध पुरुष के लिये कर्म की चित्तशुद्धि के
+साधन के रूप में कोई आवश्यता नहीं रहती वरन् कर्म तो उसके ईश्वर
+साक्षात्कार की अभिव्यक्ति मात्र होते हैं। यह एक सुविदित तथ्य है कि तृप्ति
+एवं सन्तोष के लिये ही हम कर्म में प्रवृत्त रहते हैं। तृप्ति और सन्तोष
+मानो जीवनरथ के दो चक्र हैं। इन दोनों की प्राप्ति के लिये ही हम धन का
+अर्जन रक्षण परिग्रह और व्यय करने में व्यस्त रहते हैं। परन्तु आत्मानुभवी
+पुरुष अपने अनन्त आनन्द स्वरूप में उस तृप्ति और सन्तोष का अनुभव करता है
+कि उसे फिर बाह्य वस्तुओं की कोई आवश्यकता नहीं रह जाती। जहाँ तृप्ति और
+सन्तोष है वहाँ सुख प्राप्ति की इच्छाओं की उत्पत्ति कहाँ इच्छाओं के अभाव
+में कर्म का अस्तित्व कहाँ इस प्रकार आत्म अज्ञान के कार्य इच्छा विक्षेप
+और कर्म का उसमें सर्वथा अभाव होता है। स्वाभाविक है ऐसे पुरुष के लिये कोई
+अनिवार्य कर्तव्य नहीं रह जाता। सभी कर्मों का प्रयोजन उसमें पूर्ण हो जाता
+है। अत जगत् के सामान्य नियमों में उसे बांधा नहीं जा सकता। वह ईश्वरीय
+पुरुष बनकर पृथ्वी पर विचरण करता है। और
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.17 But that man who rejoices only in theSelf and is satisfied with the Self, and is contented only in the Self-for him there is no duty to perform.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।3.17।। परन्तु जो मनुष्य आत्मा में ही रमने वाला आत्मा में ही तृप्त तथा
+आत्मा में ही सन्तुष्ट हो उसके लिये कोई कर्तव्य नहीं रहता।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.17 On the other hand, the soul who meditates on the Self is content to serve the Self and rests satisfied within the Self; there remains nothing more for him to accomplish.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-3.17 But the man whose delight is only in the self, who is satisfied with the self, who rejoices in the self, for him nothing remains to be accomplished.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-3.17 But for that man who rejoices only in the Self, who is satisfied with the Self and who is content in the Self alone, verily there is nothing to do.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-3.17 यः who; तु but; आत्मरतिः who rejoices in the Self; एव only; स्यात्
-may be; आत्मतृप्तः satisfied in the Self; च and; मानवः the man; आत्मनि
-in the Self; एव only; च and; सन्तुष्टः contented; तस्य his; कार्यम् work to be done; न not; विद्यते is.Commentary The sage does not depend on external objects for his happiness. He is ite satisfied with the Self.
-He finds his joy; bliss and contentment within his own Self. For such a sage who has knowledge of the Self; there is nothing to do. He has already done all actions. He has satisfied all his desires. He has complete satisfaction. (Cf.II.55).
-
-</details>
 </div>

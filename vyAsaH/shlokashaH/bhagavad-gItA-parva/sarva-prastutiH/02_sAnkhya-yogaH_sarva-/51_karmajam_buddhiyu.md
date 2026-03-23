@@ -1,155 +1,59 @@
 +++
 title = "51 कर्मजम् बुद्धियुक्ता"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 कर्म-जं **बुद्धि-युक्ता** हि  
 फलं त्यक्त्वा मनीषिणः।  
 जन्म-बन्ध-विनिर्मुक्ताः  
 **पदं गच्छन्त्य् अनामयम्**॥2.51॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः।  
-जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्।।2.51।।
+जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्॥2.51॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।2.51।। बुद्धियोगयुक्ताः **कर्मजं फलं त्यक्त्वा** कर्म कुर्वन्तः
-तस्माद् **जन्मबन्धविनिर्मुक्ताः अनामयं पदं गच्छन्ति।** हि प्रसिद्धम्
-एतत् सर्वासु उपनिषत्सु इत्यर्थः।  
-
+॥2.51॥ बुद्धियोगयुक्ताः **कर्मजं फलं त्यक्त्वा** कर्म कुर्वन्तस् तस्माद् **जन्मबन्धविनिर्मुक्ता अनामयं पदं गच्छन्ति।** हि प्रसिद्धम् एतत् सर्वासु उपनिषत्स्व् इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।।2.51।। अथ तत्फलभूतबन्धनिवृत्तिपूर्वकामृतत्वप्राप्तिपरस्यकर्मजं इति
-श्लोकस्य हेतुफलभावक्रमेण अन्वयमाह बुद्धियोगयुक्ता इति। कर्मजं फलं
-सांसारिकम्। जन्मबन्धो जन्मनो बन्धः स्वच्छन्दत्वहानिः अथवा जन्मैव बन्ध
-इति कर्मधारयः। अनामयं पदं स्थानविशेषो वा परमप्राप्यं परमात्मस्वरूपं वा
-प्रकरणवशादत्र ब्रह्मपर्यन्तजीवस्वरूपं वा पद्यते गम्यत इति पदम् त्रयमपि
-हि साक्षादन्यथा वा मुक्तप्राप्यत्वात्पदशब्दवाच्यम्। हिशब्दस्यात्र
-हेतुत्वादिपरत्वासम्भवात् प्रसिद्धिपरत्वम्। प्रसिद्धिस्थलं चाह प्रसिद्धं
-ह्येतत्वसर्वास्विति। एवमुक्तप्रकारो हेयोपादेयविभागो युक्त्यागमनिरपेक्षं
-तवैव स्पष्टो भविष्यतीति चमत्कारार्थमुच्यते।  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥2.51॥ अथ तत्फलभूतबन्धनिवृत्तिपूर्वकामृतत्वप्राप्तिपरस्यकर्मजम् इति श्लोकस्य हेतुफलभावक्रमेण अन्वयमाह बुद्धियोगयुक्ता इति। कर्मजं फलं सांसारिकम्। जन्मबन्धो जन्मनो बन्धः स्वच्छन्दत्वहानिः अथवा जन्मैव बन्ध इति कर्मधारयः। अनामयं पदं स्थानविशेषो वा परमप्राप्यं परमात्मस्वरूपं वा प्रकरणवशादत्र ब्रह्मपर्यन्तजीवस्वरूपं वा पद्यते गम्यत इति पदं त्रयमपि हि साक्षादन्यथा वा मुक्तप्राप्यत्वात्पदशब्दवाच्यम्। हिशब्दस्यात्र हेतुत्वादिपरत्वासम्भवात् प्रसिद्धिपरत्वम्। प्रसिद्धिस्थलं चाह प्रसिद्धं ह्येतत्वसर्वास्विति। एवमुक्तप्रकारो हेयोपादेयविभागो युक्त्यागमनिरपेक्षं तवैव स्पष्टो भविष्यतीति चमत्कारार्थमुच्यते।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 2.51 Those who possess this evenness of mind while performing actions and relinish their fruits, are freed from the bondage of rirth, and go to the region beyond all ills. 'Hi' means that this dictum or teaching is well known in all the Upanisads.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.53।। कर्मजमिति। योगबुद्धियुक्ताः कर्मणां फलं त्यक्त्वा जन्मबन्धं
-त्यजन्ति ब्रह्मसत्तामाप्नुवन्ति +++(S K अवाप्नुवन्ति)+++।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-2.51 Karmajam etc. The persons who are endowed with the determining
-faculty with regard to the Yoga, renounce the birth-bondage, by
-renouncing the fruit of actions; and they attain the Brahman-existence.
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।2.51।। तदुपायमाह कर्मजमिति। कर्मजं फलं त्यक्त्वाऽकामनयेश्वराय
-समर्प्य बुद्धियुक्ताः। सम्यग्ज्ञानिनो भूत्वा पदं गच्छन्ति। स योगः कर्म
-ज्ञानसाधनम्। तन्मोक्षसाधनमिति भावः।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।2.51।। ननु कर्मजमिति श्लोकः पूर्वोक्तान्न विशिष्यत इत्यत आह
-**तदि**ति। तस्य ज्ञानस्य उपायं योगं तज्ज्ञानमुपायो यस्य तं मोक्षं चाह
-विवृणोतीत्यर्थः। व्यवहितत्वादन्वयमाह कर्मजं फलं त्यक्त्वा। अप्राप्तस्य
-फलस्य कथं त्याग इत्यतो व्याचष्टे **अकामनये**ति। प्रकृत्यादिभ्य
-उपसङ्ख्यानात्तृतीया। एतत्प्रागुक्तमित्यतः प्रकारान्तरेण व्याचष्टे
-**ईश्वराये**ति। बुद्धियुक्ता मनीषिणः इति पौनरुक्त्यपरिहारायाऽऽह
-**बुद्धी**ति। सम्यग्ज्ञानिन इतिशास्त्रजनिततत्त्वज्ञानिनः। अनेनमनीषिणः
-इत्यपरोक्षज्ञानिन इति सूचितम् प्रशंसायां मत्वर्थीयविधानात्। नन्विदमेकं
-वाक्यं कथं वाक्यार्थद्वयस्य विवरणम् मोक्षस्वरूपविवरणेऽपि योगो न सम्यक्
-विवृतः अङ्गिनः कर्मण एवानभिधानात् अङ्गानां च सङ्कल्पत्यागादीनामित्यत आह
-**स** इति। समस्ताङ्गसङ्ग्रहाय योगग्रहणम्। तज्ज्ञानं यद्यपि
-योजनावशादिदमेकं वाक्यं तथाप्यर्थद्वयवशाद्द्वे वेदितव्ये। योगश्चकर्मजं
-फलं त्यक्त्वा इत्यनेन समग्रो लक्षित इति भावः।  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।2.51।।  
-**कर्मजं** फलं त्यक्त्वा इति व्यवहितेन संबन्धः। इष्टानिष्टदेहप्राप्तिः
-कर्मजं फलं कर्मभ्यो जातं **बुद्धियुक्ताः** समत्वबुद्धियुक्ताः सन्तः
-**हि** यस्मात् **फलं त्यक्त्वा** परित्यज्य **मनीषिणः** ज्ञानिनो
-भूत्वा **जन्मबन्धविनिर्मुक्ताः** जन्मैव बन्धः जन्मबन्धः तेन
-विनिर्मुक्ताः जीवन्त एव जन्मबन्धात् विनिर्मुक्ताः सन्तः **पदं** परमं
-विष्णोः मोक्षाख्यं **गच्छन्ति** **अनामयं** सर्वोपद्रवरहितमित्यर्थः।
-अथवा बुद्धियोगाद्धनञ्जय इत्यारभ्य परमार्थदर्शनलक्षणैव  
+॥2.51॥  
+**कर्मजं** फलं त्यक्त्वा इति व्यवहितेन संबन्धः। इष्टानिष्टदेहप्राप्तिः कर्मजं फलं कर्मभ्यो जातं **बुद्धियुक्ताः** समत्वबुद्धियुक्ताः सन्तः **हि** यस्मात् **फलं त्यक्त्वा** परित्यज्य **मनीषिणः** ज्ञानिनो भूत्वा **जन्मबन्धविनिर्मुक्ताः** जन्मैव बन्धः जन्मबन्धः तेन विनिर्मुक्ताः जीवन्त एव जन्मबन्धात् विनिर्मुक्ताः सन्तः **पदं** परमं विष्णोः मोक्षाख्यं **गच्छन्ति** **अनामयं** सर्वोपद्रवरहितमित्यर्थः। अथवा बुद्धियोगाद्धनञ्जय इत्यारभ्य परमार्थदर्शनलक्षणैव  
   
-सर्वतःसंप्लुतोदकस्थानीया कर्मयोगजसत्त्वशुद्धिजनिता बुद्धिर्दर्शिता
-साक्षात्सुकृतदुष्कृतप्रहाणादिहेतुत्वश्रवणात्।।  
-योगानुष्ठानजनितसत्त्वशुद्धजा बुद्धिः कदा प्राप्स्यते इत्युच्यते  
-  
-
+सर्वतःसंप्लुतोदकस्थानीया कर्मयोगजसत्त्वशुद्धिजनिता बुद्धिर्दर्शिता साक्षात्सुकृतदुष्कृतप्रहाणादिहेतुत्वश्रवणात्॥  
+योगानुष्ठानजनितसत्त्वशुद्धजा बुद्धिः कदा प्राप्स्यते इत्युच्यते
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।2.51।। क्योंकि  
-  
-कर्मजम् इस पदका फलं त्यक्त्वा इस अगले पदसे सम्बन्ध है।  
-कर्मोंसे उत्पन्न होनेवाली जो इष्टानिष्टदेहप्राप्ति है वही कर्मज फल
-कहलाता है समत्वबुद्धियुक्त पुरुष उस कर्मफलको छोड़कर मनीषी अर्थात् ज्ञानी
-होकर जीवित अवस्थामें ही जन्मबन्धनसे निर्मुक्त होकर अर्थात् जन्म नामके
-बन्धनसे छूटकर विष्णुके मोक्ष नामक अनामय सर्वोपद्रवरहित परमपदको पा लेते
-हैं।  
-अथवा ( यों समझो कि ) बुद्धियोगाद्धनंजय इस श्लोकसे लेकर ( यहाँतक बुद्धि
-शब्दसे ) कर्मयोगजनित सत्त्वशुद्धिसे उत्पन्न हुई जो
-सर्वतःसंप्लुतोदकस्थानीय परमार्थज्ञानरूपा बुद्धि है वही दिखलायी गयी है
-क्योंकि ( यहाँ ) यह बुद्धि पुण्यपापके नाशमें साक्षात् हेतुरूपसे वर्णित
-है।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 2.51 The words 'phalam tyaktva, by giving up the fruits' are connected
 with the remote word 'karmajam, produced by actions'. Hi, because;
@@ -176,13 +80,28 @@ taken to mean samattva buddhi (wisdom of eanimity); the alternative
 meaning of buddhi has been taken as 'enlightenment'. So, action is to be
 performed by taking the help of the 'wisdom about the supreme Reality'
 which has been chosen as one's Goal.\]
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।2.51।। समत्वबुद्धियुक्तस्य सुकृतदुष्कृततत्फलपरित्यागेऽपि कथं मोक्षः
+<details><summary>हरिकृष्णदासः</summary>
+
+॥2.51॥ क्योंकि  
+  
+कर्मजम् इस पदका फलं त्यक्त्वा इस अगले पदसे सम्बन्ध है।  
+कर्मोंसे उत्पन्न होनेवाली जो इष्टानिष्टदेहप्राप्ति है वही कर्मज फल
+कहलाता है समत्वबुद्धियुक्त पुरुष उस कर्मफलको छोड़कर मनीषी अर्थात् ज्ञानी
+होकर जीवित अवस्थामें ही जन्मबन्धनसे निर्मुक्त होकर अर्थात् जन्म नामके
+बन्धनसे छूटकर विष्णुके मोक्ष नामक अनामय सर्वोपद्रवरहित परमपदको पा लेते
+हैं।  
+अथवा ( यों समझो कि ) बुद्धियोगाद्धनंजय इस श्लोकसे लेकर ( यहाँतक बुद्धि
+शब्दसे ) कर्मयोगजनित सत्त्वशुद्धिसे उत्पन्न हुई जो
+सर्वतःसंप्लुतोदकस्थानीय परमार्थज्ञानरूपा बुद्धि है वही दिखलायी गयी है
+क्योंकि ( यहाँ ) यह बुद्धि पुण्यपापके नाशमें साक्षात् हेतुरूपसे वर्णित
+है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥2.51॥ समत्वबुद्धियुक्तस्य सुकृतदुष्कृततत्फलपरित्यागेऽपि कथं मोक्षः
 स्यादित्याशङ्क्याह **यस्मादिति।** समत्वबुद्ध्या
 यस्मात्कर्मानुष्ठीयमानं दुरितादि त्याजयति तस्मात्परम्परयासौ
 मुक्तिहेतुरित्यर्थः। मनीषिणो हि ज्ञानातिशयवन्तो बुद्धियुक्ताः सन्तः
@@ -201,14 +120,30 @@ which has been chosen as one's Goal.\]
 अनवच्छिन्नवस्तुगोचरत्वेनानवच्छिन्नत्वं तस्याः सूचयन्बुद्ध्यन्तराद्विशेषं
 दर्शयति सर्वत इति। असाधारणं निमित्तं तस्या निर्दिशति **कर्मेति।**
 यथोक्तबुद्धेर्बुद्धिशब्दार्थत्वे हेतुमाह **साक्षादिति।**
-जन्मबन्धविनिर्मोकादिरादिशब्दार्थः।  
-
+जन्मबन्धविनिर्मोकादिरादिशब्दार्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।2.51।। ननु दुष्कृतहानमपेक्षितं नतु सुकृतहानं
+<details><summary>नीलकण्ठः</summary>
+
+॥2.51॥ एतदेवाह **कर्मजमिति।** बुद्धियुक्ताः समत्वबुद्धियुक्ताः।
+क्रियमाणकर्मजं फलं त्यक्त्वा मनीषिणो मनोनिग्रहसमर्था भूत्वा जन्मरूपेण
+बन्धेन मुक्ताः सन्तोऽनामयं निरुपद्रवं पदं मोक्षाख्यं गच्छन्ति।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥2.51॥ पुण्यपापत्यागमात्रस्य फलत्वाभावमाशङ्क्याह **कर्मजमिति।**
+कर्मजं फलमिष्टानिष्टदेहप्राप्तिलक्षणं त्यक्त्वा हि
+यस्मात्समत्वबुद्धियुक्ता मनीषिणो ज्ञानिनो भूत्वा जन्मैव बन्धस्तेन
+विनिर्मुक्ताः सर्वोपद्रवरहितं विष्णोः परमं मोक्षाख्यं पदं  
+  
+गच्छन्ति। जीवन्त एव स्वस्वरुपेण जानन्तीत्यर्थः। कर्मजं फलं त्यक्त्वा
+साङ्ख्यबुद्धियुक्ताः शुद्धैकाग्रमनस इति वा।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥2.51॥ ननु दुष्कृतहानमपेक्षितं नतु सुकृतहानं
 पुरुषार्थभ्रंशापत्तेरित्याशङ्क्य तुच्छफलत्यागेन परमपुरुषार्थप्राप्तिं
 फलमाह समत्वबुद्धियुक्ता हि यस्मात्कर्मजं फलं त्यक्त्वा
 केवलमीश्वराराधनार्थं कर्माणि कुर्वाणाः सत्त्वशुद्धिद्वारेण  
@@ -226,116 +161,132 @@ which has been chosen as one's Goal.\]
 गच्छन्ति तस्मात्त्वमपियच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे इत्युक्तेः
 श्रेयोजिज्ञासुरेवंविधं  
   
-कर्मयोगमनुतिष्ठेति भगवतोऽभिप्रायः।  
-
+कर्मयोगमनुतिष्ठेति भगवतोऽभिप्रायः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।2.51।। एतदेवाह **कर्मजमिति।** बुद्धियुक्ताः समत्वबुद्धियुक्ताः।
-क्रियमाणकर्मजं फलं त्यक्त्वा मनीषिणो मनोनिग्रहसमर्था भूत्वा जन्मरूपेण
-बन्धेन मुक्ताः सन्तोऽनामयं निरुपद्रवं पदं मोक्षाख्यं गच्छन्ति।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।2.51।। पुण्यपापत्यागमात्रस्य फलत्वाभावमाशङ्क्याह **कर्मजमिति।**
-कर्मजं फलमिष्टानिष्टदेहप्राप्तिलक्षणं त्यक्त्वा हि
-यस्मात्समत्वबुद्धियुक्ता मनीषिणो ज्ञानिनो भूत्वा जन्मैव बन्धस्तेन
-विनिर्मुक्ताः सर्वोपद्रवरहितं विष्णोः परमं मोक्षाख्यं पदं  
-  
-गच्छन्ति। जीवन्त एव स्वस्वरुपेण जानन्तीत्यर्थः। कर्मजं फलं त्यक्त्वा
-साङ्ख्यबुद्धियुक्ताः शुद्धैकाग्रमनस इति वा।  
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.51।। एवं योगेन व्यवसायिनां सिद्धिप्रकारं सदाचारेण दर्शयति कर्मजमिति।
+॥2.51॥ तदुपायमाह कर्मजमिति। कर्मजं फलं त्यक्त्वाऽकामनयेश्वराय
+समर्प्य बुद्धियुक्ताः। सम्यग्ज्ञानिनो भूत्वा पदं गच्छन्ति। स योगः कर्म
+ज्ञानसाधनम्। तन्मोक्षसाधनमिति भावः।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥2.51॥ ननु कर्मजमिति श्लोकः पूर्वोक्तान्न विशिष्यत इत्यत आह
+**तदि**ति। तस्य ज्ञानस्य उपायं योगं तज्ज्ञानमुपायो यस्य तं मोक्षं चाह
+विवृणोतीत्यर्थः। व्यवहितत्वादन्वयमाह कर्मजं फलं त्यक्त्वा। अप्राप्तस्य
+फलस्य कथं त्याग इत्यतो व्याचष्टे **अकामनये**ति। प्रकृत्यादिभ्य
+उपसङ्ख्यानात्तृतीया। एतत्प्रागुक्तमित्यतः प्रकारान्तरेण व्याचष्टे
+**ईश्वराये**ति। बुद्धियुक्ता मनीषिणः इति पौनरुक्त्यपरिहारायाऽऽह
+**बुद्धी**ति। सम्यग्ज्ञानिन इतिशास्त्रजनिततत्त्वज्ञानिनः। अनेनमनीषिणः
+इत्यपरोक्षज्ञानिन इति सूचितम् प्रशंसायां मत्वर्थीयविधानात्। नन्विदमेकं
+वाक्यं कथं वाक्यार्थद्वयस्य विवरणम् मोक्षस्वरूपविवरणेऽपि योगो न सम्यक्
+विवृतः अङ्गिनः कर्मण एवानभिधानात् अङ्गानां च सङ्कल्पत्यागादीनामित्यत आह
+**स** इति। समस्ताङ्गसङ्ग्रहाय योगग्रहणम्। तज्ज्ञानं यद्यपि
+योजनावशादिदमेकं वाक्यं तथाप्यर्थद्वयवशाद्द्वे वेदितव्ये। योगश्चकर्मजं
+फलं त्यक्त्वा इत्यनेन समग्रो लक्षित इति भावः।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
+
+<details><summary>मूलम्</summary>
+
+॥2.53॥ कर्मजमिति। योगबुद्धियुक्ताः कर्मणां फलं त्यक्त्वा जन्मबन्धं त्यजन्ति ब्रह्मसत्तामाप्नुवन्ति +++(S K अवाप्नुवन्ति)+++।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+2.51 Karmajam etc. The persons who are endowed with the determining faculty with regard to the Yoga, renounce the birth-bondage, by renouncing the fruit of actions; and they attain the Brahman-existence.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
+
+<details><summary>मूलम्</summary>
+
+॥2.51॥ एवं योगेन व्यवसायिनां सिद्धिप्रकारं सदाचारेण दर्शयति कर्मजमिति।
 फलं त्यक्त्वा जन्मैव बन्धरूपं तेन विनिर्मुक्ता अनामयं पदं धाम अक्षराख्यं
-स्वरूपं गच्छन्ति।  
-
+स्वरूपं गच्छन्ति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।2.51।। ननु कर्मणां स्वतन्त्रफलकत्वं भक्तेः कथं साधनता इत्याशङ्क्याह
+<details><summary>पुरुषोत्तमः</summary>
+
+॥2.51॥ ननु कर्मणां स्वतन्त्रफलकत्वं भक्तेः कथं साधनता इत्याशङ्क्याह
 कर्मजमिति। मनीषिणः शास्त्रार्थज्ञातारः। बुद्धियुक्ता बुद्धिर्युक्ता
 येषां तादृशत्वं च भक्तिप्रयत्नवत्त्वेन ते हि निश्चयेन कर्मजं फलं
 त्यक्त्वा जन्मबन्धविनिर्मुक्ताः सन्तोऽनामयं पदं भक्तिरूपं
 गच्छन्तीत्यर्थः। अन्यत्र रोगादिकं भवति न तु भक्तौ भगवच्चरणरूपायाम्। अत
 एव श्रीभागवते 10।3।27 मृत्युभयाभावत्वं भगवच्चरणे
 निरूपितम्। मर्त्यःइत्यारभ्यमृत्युरस्मादपैति इत्यन्तेन श्लोकेन
-देवकीस्तुतौ।  
-  
-  
-  
-
+देवकीस्तुतौ।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।2.51।। कर्मणां मोक्षसाधनत्वप्रकारमाह **कर्मेति।** कर्मजं फलं
+॥2.51॥ कर्मणां मोक्षसाधनत्वप्रकारमाह **कर्मेति।** कर्मजं फलं
 त्यक्त्वा केवलमीश्वराराधनार्थमेव कर्म कुर्वाणा मनीषिणो ज्ञानिनो भूत्वा
 जन्मरूपेण बन्धेन विनिर्मुक्ताः सन्तोऽनामयं सर्वोपद्रवरहितं विष्णोः पदं
 मोक्षाख्यं गच्छन्ति।  
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।2.51।। योगयुक्त बनने के उपदेश को सुनकर अर्जुन के मन में प्रश्न उठा कि
-आखिर समभाव से उसको कर्म क्यों करने चाहिये। भगवान् इस प्रश्न का कुछ
-पूर्वानुमान कर इस श्लोक में उसका उत्तर देते हैं। बुद्धियुक्त मनीषी का
-अर्थ है वह पुरुष जो जीने की कला को जानता हुआ फल की चिन्ताओं से मुक्त
-होकर मन के पूर्ण सन्तुलन को बनाये हुये सभी कर्म करता है। दूसरे शब्दों
-में अहंकार और स्वार्थ से रहित व्यक्ति ही मनीषी कहलाता है।  
-मन के साथ तादात्म्य से अहंकार उत्पन्न होता है और वह फलासक्ति के कारण
-बन्धनों में फँस जाता है। जीवन में उच्च लक्ष्य को रखने पर ही अहंकार और
-स्वार्थ का त्याग संभव है।  
-
+2.51 The wise who possess evenness of mind, relinishing the fruits born of action, are freed from the bondage of birth, and go to the region beyond all ills.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।2.51।। बुद्धियोग युक्त मनीषी लोग कर्मजन्य फलों को त्यागकर जन्मरूप
-बन्धन से मुक्त हुये अनामय अर्थात् निर्दोष पद को प्राप्त होते हैं।।  
-  
+<details><summary>गम्भीरानन्दः</summary>
 
+2.51 Because, those who are devoted to wisdom, (they) becoming men of Enlightenment by giving up the fruits produced by actions, reach the state beyond evils by having become freed from the bondage of birth.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+2.51 The sages guided by Pure Intellect renounce the fruit of action;
+and, freed from the chains of rebirth, they reach the highest bliss.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+2.51. By renouncing the fruit, born of action, the intelligent ones endowed with determining faculty and freed from the bond of birth, go to the place that is devoid of illness.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+2.51 The wise, possessed of knowledge, having abandoned the fruits of their actions, and being freed from the fetters of birth, go to the place which is beyond all evil.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+2.51 कर्मजम् actionborn; बुद्धियुक्ताः possessed of knowledsge; हि
+indeed; फलम् the fruit; त्यक्त्वा having abandoned; मनीषिणः the wise;
+जन्मबन्धविनिर्मुक्ताः freed from the fetters of birth; पदम् the abode;
+गच्छन्ति go; अनामयम् beyond evil.Commentary Clinging to the fruits of actions is the cause of rirth. Man takes a body to enjoy them. If anyone performs actions for the sake of God in fulfilment of His purpose without desire for the fruits; he is released from the bonds of birth and attains to the blissful state or the immortal abode.Sages who possess evenness of mind abandon the fruits of their actions and thus escape from good and bad actions.Buddhi referred to in the three verses 49; 50 and 51 may be the wisdom of the Sankhyas; i.e.; the knowledge of the Self or AtmaJnana which dawns when the mind is purified by Karma Yoga.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.51।। समतायुक्त मनीषी साधक कर्मजन्य फलका त्याग करके जन्मरूप बन्धनसे
 मुक्त होकर निर्विकार पदको प्राप्त हो जाते हैं।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 2.51।।***व्याख्या--*'कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा
 मनीषिणः'--**जो समतासे युक्त हैं, वे ही वास्तवमें मनीषी अर्थात्
@@ -379,56 +330,25 @@ _________________
 सिद्ध निर्विकारताका अनुभव हो जाता है। इसके लिये कुछ भी परिश्रम नहीं करना
 पड़ता; क्योंकि उस निर्विकारताका निर्माण नहीं करना पड़ता, वह तो
 स्वतः-स्वाभाविक ही है।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-2.51. By renouncing the fruit, born of action, the intelligent ones endowed with determining faculty and freed from the bond of birth, go to the place that is devoid of illness.
-
+।।2.51।। योगयुक्त बनने के उपदेश को सुनकर अर्जुन के मन में प्रश्न उठा कि
+आखिर समभाव से उसको कर्म क्यों करने चाहिये। भगवान् इस प्रश्न का कुछ
+पूर्वानुमान कर इस श्लोक में उसका उत्तर देते हैं। बुद्धियुक्त मनीषी का
+अर्थ है वह पुरुष जो जीने की कला को जानता हुआ फल की चिन्ताओं से मुक्त
+होकर मन के पूर्ण सन्तुलन को बनाये हुये सभी कर्म करता है। दूसरे शब्दों
+में अहंकार और स्वार्थ से रहित व्यक्ति ही मनीषी कहलाता है।  
+मन के साथ तादात्म्य से अहंकार उत्पन्न होता है और वह फलासक्ति के कारण
+बन्धनों में फँस जाता है। जीवन में उच्च लक्ष्य को रखने पर ही अहंकार और
+स्वार्थ का त्याग संभव है।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.51 Because, those who are devoted to wisdom, (they) becoming men of Enlightenment by giving up the fruits produced by actions, reach the state beyond evils by having become freed from the bondage of birth.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।2.51।। बुद्धियोग युक्त मनीषी लोग कर्मजन्य फलों को त्यागकर जन्मरूप
+बन्धन से मुक्त हुये अनामय अर्थात् निर्दोष पद को प्राप्त होते हैं।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.51 The sages guided by Pure Intellect renounce the fruit of action;
-and, freed from the chains of rebirth, they reach the highest bliss.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-2.51 The wise who possess evenness of mind, relinishing the fruits born of action, are freed from the bondage of birth, and go to the region beyond all ills.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-2.51 The wise, possessed of knowledge, having abandoned the fruits of their actions, and being freed from the fetters of birth, go to the place which is beyond all evil.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-2.51 कर्मजम् actionborn; बुद्धियुक्ताः possessed of knowledsge; हि
-indeed; फलम् the fruit; त्यक्त्वा having abandoned; मनीषिणः the wise;
-जन्मबन्धविनिर्मुक्ताः freed from the fetters of birth; पदम् the abode;
-गच्छन्ति go; अनामयम् beyond evil.Commentary Clinging to the fruits of actions is the cause of rirth. Man takes a body to enjoy them. If anyone performs actions for the sake of God in fulfilment of His purpose without desire for the fruits; he is released from the bonds of birth and attains to the blissful state or the immortal abode.Sages who possess evenness of mind abandon the fruits of their actions and thus escape from good and bad actions.Buddhi referred to in the three verses 49; 50 and 51 may be the wisdom of the Sankhyas; i.e.; the knowledge of the Self or AtmaJnana which dawns when the mind is purified by Karma Yoga.
-
-</details>
 </div>

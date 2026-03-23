@@ -1,124 +1,261 @@
 +++
 title = "11 अथैतदप्यशक्तोऽसि कर्तुम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/11_athaitadapyashakt.md">
 
-अथैतद् अप्य् अशक्तोऽसि  
-कर्तुं, **मद्+++(=आत्म)+++-योगम् आश्रितः**।  
-**सर्व-कर्म-फल-त्यागं**  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+अथैतद् अप्य् **अशक्तोऽसि**  
+कर्तुं **मद्-योगम् आश्रितः**।  
+सर्व-कर्म-फल-**त्यागं**  
 ततः कुरु यतात्मवान्॥12.11॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/11_athaitadapyashakt.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः।  
-सर्वकर्मफलत्यागं ततः कुरु यतात्मवान्।।12.11।।
+सर्वकर्मफलत्यागं ततः कुरु यतात्मवान्॥12.11॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/11_athaitadapyashakt.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
+<details><summary>वेङ्कटनाथः</summary>
 
-।।12.11।। अथ मद्योगम् आश्रित्य **एतद् अपि कर्तुं** न शक्नोषि;  
-मद्गुणानुसंधान-कृतं मद्-एक-प्रियत्वाकारं भक्ति-योगम् आश्रित्य  
-भक्ति-योगाङ्ग-रूपम् एतद् मत्-कर्म अपि कर्तुं न शक्नोषि;  
-**ततः**  
-अक्षर-**योगम्** आत्म-स्वभावानुसंधान-रूपं पर-भक्ति-जननं पूर्व-+++(अध्याय??)+++षट्कोदितम् **आश्रित्य**  
+> ॥12.11॥ स्वार्थेष्व् एव कर्मसु निबद्ध-चित्तस्य  
+कथं त्वद्-अर्थेषु कर्मस्व् अत्यर्थप्रियत्वेन प्रवृत्तिः सम्भवेद्  
+
+इत्य् अत्र  
+तद्-उपाय-परम्परा-काष्ठा-भूतं कर्मयोगं प्रत्यभिज्ञापयत्य् **अथैतद्** इति।
+</details>
+
+॥12.11॥  
+अथ **मद्-योगम्** आश्रित्य  
+**एतद् अपि कर्तुं** न शक्नोषि;  
+
+<details><summary>वेङ्कटनाथः</summary>
+
+**मद्-योगम् आश्रितः** इत्य् अस्याक्षर-योग-विषयेणोत्तरार्धेन अन्वय-व्युदासाय  
+पूर्वार्धान्वयम् आह **अथ मद्योगम्** इति।  
+</details>
+
+मद्-गुणानुसन्धान-कृतं मद्-एक-प्रियत्वाकारं भक्ति-योगम् आश्रित्य  
+भक्ति-योगाङ्कुर-रूपम् एतद्, मत्-कर्मापि कर्तुं न शक्नोषि;  
+
+<details><summary>वेङ्कटनाथः</summary>
+
+तस्याशक्यत्व-ज्ञापनायाह -- मद्गुणेति।  
+भक्ति-योगावस्था-विशेषेष्व् अतः पूर्वावस्था नास्तीति व्यञ्जनाय  
+**भक्तियोगाङ्कुर-रूपम्** इत्य् उक्तम्।  
+**मद्योगम्** इत्यनेन जीवात्म-योग-व्यवच्छेदः।  
+</details>
+
+**ततः** अक्षर-**योगम्** आत्म-स्वभावानुसन्धान-रूपं पर-भक्ति-जननं पूर्व-+++(अध्याय-)+++षट्कोदितम् **आश्रित्य**  
 तद्-उपायतया **सर्व-कर्म-फल-त्यागं कुरु।**  
-मत्-प्रियत्वेन मद्-एक-प्राप्यता-बुद्धिः हि प्रक्षीणाशेष-पापस्य एव जायते।
+
+<details><summary>वेङ्कटनाथः</summary>
+
+ततश् च मद्योगम् आश्रित्य  
+तद्-अङ्कुरे कर्मण्य् असमर्थश् चेज्  
+जीवात्म-योगम् आश्रित्य  
+तद्-अङ्कुरे कर्म-योगे प्रवर्तस्वेति वाक्यार्थः।  
+तद् एतद् अभिप्रेत्याह **ततो ऽक्षरेति**।  
+अक्षर-योगस्याप्य् अव्यवधानेन मोक्षोपायत्व-व्युदासाय  
+**पर-भक्ति-जननम्** इत्य् उक्तम्।  
+सप्रकाराक्षर-योग-प्रत्यभिज्ञापनार्थं;  
+मध्यम-षट्कोदिताक्षर-योग-व्यवच्छेदार्थं च  
+**पूर्वषट्कोदितम्** इत्य् उक्तम्।  
+सर्व-कर्म-फल-त्यागस्याव्यवधानेन भक्ति-योग-जनकत्व-व्युदासाय  
+**तद्-उपायतयेत्य्** उक्तम्।
+</details>
+
+मत्-प्रियत्वेन मद्-एक-प्राप्यता-बुद्धिर् हि  
+प्रक्षीणाशेष-पापस्यैव जायते।  
+
+<details><summary>वेङ्कटनाथः</summary>
+
+कर्म-योग-पूर्वकात्म-साक्षात्कारस्य  
+भक्त्य्-उत्पत्त्य्-उपयोगित्व-प्रकारं प्रकरणान्तरोक्तं दर्शयति -- **मत्-प्रियत्वेनेति**।
+</details>
+
 **यतात्मवान्** यतमनस्कः। 
 
-ततः अनभिसंहित-फलेन मद्-आराधन-रूपेण अनुष्ठितेन कर्मणा सिद्धेन आत्मज्ञानेन निवृत्ताविद्यादि-सर्व-तिरोधाने मच्छेषतैक-स्वरूपे प्रत्यग्-आत्मनि साक्षात्-कृते सति  
+<details><summary>वेङ्कटनाथः</summary>
+
+> > मय्य् एव मन आधत्स्व \[12।8\] 
+>
+> इति पूर्वं परमात्मनि मनस्-समाधानं विहितं  
+तद् अशक्तं प्रत्य्-उपदिश्यमानाक्षरयोगाङ्कुर-रूपे कर्मणि प्रवृत्तस्य तु  
+पूर्व-षट्क-प्रपञ्चितैर् हेतुभिः मनो-नियमन-शक्यत्वं **यतात्मवान्** इत्य् उक्तम् 
+
+इत्य् अभिप्रायेण यतमनस्क इत्य् उक्तम्।
+</details>
+
+ततो ऽनभिसंहित-फलेन मद्-आराधन-रूपेणानुष्ठितेन कर्मणा सिद्धेन +आत्मज्ञानेन  
+निवृत्ताविद्यादि-सर्व-तिरोधाने  
+मच्-छेषतैक-स्वरूपे प्रत्यग्-आत्मनि साक्षात्-कृते सति  
 मयि परा भक्तिः स्वयम् एव उत्पद्यते।  
 
-तथा च वक्ष्यते -- "स्व-कर्मणा तम् अभ्यर्चय सिद्धिं विन्दति मानवः।" (गीता
-18।46) इत्यारभ्य 
+<details><summary>वेङ्कटनाथः</summary>
 
-&gt; विमुच्य निर्ममः शान्तो  
-&gt; ब्रह्मभूयाय कल्पते।।  
-&gt; ब्रह्मभूतः प्रसन्नात्मा  
-&gt; न शोचति न काङ्क्षति।।  
-&gt; समः सर्वेषु भूतेषु  
-&gt; मद्भक्तिं लभते पराम्।।  
-&gt; (18।5354) 
+कर्मयोगस्यानन्तर-श्लोके ऽभिधास्यमान-क्रमेण  
+परम्परया भक्तियोगजनकत्व-प्रकारम् आह -  
+**ततो ऽनभिसंहितेति**।  
+
+> "फल-त्यागं कुरु" इति साध्यांशत्याग-वचनेन  
+तत्-पूर्वक-साधनानुष्ठानं विवक्षितम्  
+
+इति ज्ञापनाय **अनभिसंहित-फलेनेत्यादिकम्** उक्तम्।  
+</details>
+
+<details><summary>वेङ्कटनाथः</summary>
+
+अनन्तराभिधास्यमान- मनश्-शान्ति-द्वारात्म-ध्यान-सिद्धिः।  
+**अविद्या** संसारकारणं कर्म;
+
+> अविद्या कर्मसञ्ज्ञा
+
+इत्य् उपक्रम्य
+
+> यया क्षेत्रज्ञशक्तिः सा वेष्टिता \[वि.पु.6।7।61\]
+
+इति वचनात्।
+
+आदिशब्देन
+
+> अनात्मन्य् आत्मबुद्धिर् या त्व्  
+> अस्वे स्वम् इति या मतिः।  
+> अविद्यातरु-सम्भूति-  
+> बीजम् एतद् द्विधा स्थितम्  
+> \[वि.पु.6।7।11\]
+
+इत्य्-आद्य्-उक्त-सङ्ग्रहः।  
+यद्वाऽत्र **अविद्या** देहात्म-भ्रमादिः,  
+आदिशब्देन कर्म-वासनादि-सङ्ग्रहः।
+</details>
+
+<details><summary>वेङ्कटनाथः - मच्छेषतैकस्वरूप</summary>
+
+पर-भक्ति-जनकत्व-सिद्ध्यर्थम् उक्तं **मच्छेषतैकस्वरूप** इति।  
+यथा बाल्ये बाल-क्रीडा-प्रसङ्गेन  
+नरेन्द्र-भवनान् निष्क्रान्तस्य  
+मार्गाद् भ्रष्टस्य  
+व्याधगृहीतस्य पक्कणे वर्तमानस्य राजकुमारस्य  
+आप्तोपदेशात् स्वात्मनस् तथात्वं मत्वा विमृशतः  
+स्वात्मनि राज-साम्यम् अङ्ग-प्रत्यङ्गादिषु पश्यतस्  
+तस्मिन् यथा पितृत्व-प्रीतिर् निरतिशया जायते  
+
+एवम् अस्यापि  
+यथोपदेशं भगवच्-छेष-भूते स्वात्मनि  
+तत्-साम्याकारेण साक्षात्-कृते  
+भक्ति-सिद्ध्य्-अर्थं न किञ्चित् कर्तव्यम् अस्तीत्य् अभिप्रायेण --  
+
+> मयि परा भक्तिः स्वयम् एवोत्पद्यत 
+
+इत्य् उक्तम्। 
+
+एतेनाध्यायारम्भे 
+
+> ये चाप्य् अक्षरम् अव्यक्तम् \[12।1\] 
+
+इत्य्-उक्ताक्षर-योगो ऽप्य्  
+अक्षर-साक्षात्-कार-द्वारा पर-भक्तिम् उत्पाद्य  
+परमात्म-प्राप्तौ विश्राम्यतीति सिद्धम्।  
+
+स एव ह्य् अत्रापि प्रथमषट्कोक्तोऽक्षरयोगः प्रस्पष्टम् उच्यते।
+</details>
+
+तथा च वक्ष्यते -- 
+
+> "स्व-कर्मणा तम् अभ्यर्चय  
+> सिद्धिं विन्दति मानवः।" (गीता 18।46) 
+
+इत्यारभ्य 
+
+> विमुच्य निर्ममः शान्तो  
+> ब्रह्मभूयाय कल्पते॥  
+> ब्रह्मभूतः प्रसन्नात्मा  
+> न शोचति न काङ्क्षति॥  
+> समः सर्वेषु भूतेषु  
+> मद्-भक्तिं लभते पराम्॥  
+> (18।5354) 
 
 इति।
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+<details><summary>वेङ्कटनाथः</summary>
 
-  
-  
-।।12.11।। स्वार्थेष्वेव कर्मसु निबद्धचित्तस्य कथं त्वदर्थेषु
-कर्मस्वत्यर्थप्रियत्वेन प्रवृत्तिः सम्भवेदित्यत्र
-तदुपायपरम्पराकाष्ठाभूतं कर्मयोगं प्रत्यभिज्ञापयतिअथैतदिति। मद्योगमाश्रितः
-इत्यस्याक्षरयोगविषयेणोत्तरार्धेन अन्वयव्युदासाय पूर्वार्धान्वयमाहअथ
-मद्योगमिति। तस्याशक्यत्वज्ञापनायाह -- मद्गुणेति।
-भक्तियोगावस्थाविशेषेष्वतः पूर्वावस्था नास्तीति
-व्यञ्जनायभक्तियोगाङ्कुररूपमित्युक्तम्। मद्योगम् इत्यनेन
-जीवात्मयोगव्यवच्छेदः। ततश्च मद्योगमाश्रित्य तदङ्कुरे
-कर्मण्यसमर्थश्चेज्जीवात्मयोगमाश्रित्य तदङ्कुरे कर्मयोगे प्रवर्तस्वेति
-वाक्यार्थः। तदेतदभिप्रेत्याहततोऽक्षरेति। अक्षरयोगस्याप्यव्यवधानेन
-मोक्षोपायत्वव्युदासायपरभक्तिजननमित्युक्तम्।
-सप्रकाराक्षरयोगप्रत्यभिज्ञापनार्थं; मध्यमषट्कोदिताक्षरयोगव्यवच्छेदार्थं
-चपूर्वषट्कोदितमित्युक्तम्। सर्वकर्मफलत्यागस्याव्यवधानेन
-भक्तियोगजनकत्वव्युदासायतदुपायतयेत्युक्तम्।  
-  
-कर्मयोगपूर्वकात्मसाक्षात्कारस्य भक्त्युत्पत्त्युपयोगित्वप्रकारं
-प्रकरणान्तरोक्तं दर्शयति -- मत्प्रियत्वेनेति। मय्येव मन आधत्स्व \[12।8\]
-इति पूर्वं परमात्मनि मनस्समाधानं विहितम् तदशक्तं
-प्रत्युपदिश्यमानाक्षरयोगांकुररूपे कर्मणि प्रवृत्तस्य तु
-पूर्वषट्कप्रपञ्चितैर्हेतुभिः मनोनियमनशक्यत्वंयतात्मवान्
-इत्युक्तमित्यभिप्रायेणयतमनस्क इत्युक्तम्।
-कर्मयोगस्यानन्तरश्लोकेऽभिधास्यमानक्रमेण परम्परया
-भक्तियोगजनकत्वप्रकारमाहततोऽनभिसंहितेति। फलत्यागं कुरु इति
-साध्यांशत्यागवचनेन तत्पूर्वकसाधनानुष्ठानं विवक्षितमिति
-ज्ञापनायअनभिसंहितफलेनेत्यादिकमुक्तम्।
-अनन्तराभिधास्यमानमनश्शान्तिद्वारात्मध्यानसिद्धिः। अविद्या संसारकारणं
-कर्म;अविद्या कर्मसंज्ञा इत्युपक्रम्ययया क्षेत्रज्ञशक्तिः सा वेष्टिता
-\[वि.पु.6।7।61\] इति वचनात्। आदिशब्देनअनात्मन्यात्मबुद्धिर्या त्वस्वे
-स्वमिति या मतिः। अविद्यातरुसम्भूतिबीजमेतद्द्विधा स्थितम्
-\[वि.पु.6।7।11\] इत्याद्युक्तसङ्ग्रहः। यद्वाऽत्र अविद्या देहात्मभ्रमादिः
-आदिशब्देन कर्मवासनादिसङ्ग्रहः।
-परभक्तिजनकत्वसिद्ध्यर्थमुक्तंमच्छेषतैकस्वरूप इति। यथा बाल्ये
-बालक्रीडाप्रसङ्गेन नरेन्द्रभवनान्निष्क्रान्तस्य मार्गाद्भ्रष्टस्य
-व्याधगृहीतस्य पक्कणे वर्तमानस्य राजकुमारस्याप्तोपदेशात्स्वात्मनस्तथात्वं
-मत्वा विमृशतः स्वात्मनि राजसाम्यमङ्गप्रत्यङ्गादिषु पश्यतस्तस्मिन् यथा
-पितृत्वप्रीतिर्निरतिशया जायते एवमस्यापि यथोपदेशं भगवच्छेषभूते स्वात्मनि
-तत्साम्याकारेण साक्षात्कृते भक्तिसिद्ध्यर्थं न
-किञ्चित्कर्तव्यमस्तीत्यभिप्रायेण -- मयि परा भक्तिः स्वयमेवोत्पद्यत
-इत्युक्तम्। एतेनाध्यायारम्भेये चाप्यक्षरमव्यक्तम् \[12।1\]
-इत्युक्ताक्षरयोगोऽप्यक्षरसाक्षात्कारद्वारा परभक्तिमुत्पाद्य
-परमात्मप्राप्तौ विश्राम्यतीति सिद्धम्। स एव ह्यत्रापि
-प्रथमषट्कोक्तोऽक्षरयोगः प्रस्पष्टमुच्यते।  
-  
-ननु यदशक्तं प्रति यदुपदिश्यते; तत्तत्तुल्यफलमशक्ताधिकारं साधनान्तरं
-दृष्टम् यथावगाहना शक्तस्य स्नानान्तराणि। उच्यते चान्यत्र क्रियायोगस्य
-साक्षान्मोक्षसाधनत्वंमोक्षकारणमव्यक्तमचिन्त्यमपरिग्रहम्। तमाराध्य
-जगन्नाथं क्रियायोगेन मुच्यते इति। तथात्रापि किं न स्यादिति शङ्कायां
-कर्मयोगस्य भक्तियोगसाधनत्वं अष्टादशाध्याये वक्ष्यमाणं दर्शयतितथाचेति।
-अन्यत्र चाप्ययं क्रमः स्फुटः -- तत्र चित्तं समावेष्टुं न शक्नोति
-भवान्यदि। तदभ्यासपरस्तस्मिन् कुरु योगं दिवानिशम्। तत्राप्यसामर्थ्यवतः
-क्रियायोगो महात्मनः। ब्रह्मणा यः समाख्यातस्तत्परः सततं भव। करोषि यानि
-कर्माणि देवदेवे जगत्पतौ। समर्पयस्व भद्रं ते ततः कर्म प्रहास्यसि। प्रधानं
-कारणं योगो विमुक्तेर्दितिजेश्वर। क्रियायोगश्च योगस्य परमं तस्य साधनम्
-इति। मद्भक्तिं लभते पराम् \[18।54\] इति वक्ष्यमाणफलस्य कर्मयोगहेतुकत्वं
-प्रकरणसिद्धमिति ज्ञापनायस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः
-\[18।46\]इत्यारभ्येत्युक्तम्।  
-  
+> ननु यद् अशक्तं प्रति यद् उपदिश्यते;  
+तत् तत् तुल्यफलम् अशक्ताधिकारं साधनान्तरं दृष्टं  
+यथावगाहनाशक्तस्य स्नानान्तराणि।  
+उच्यते चान्यत्र क्रियायोगस्य साक्षान्-मोक्षसाधनत्वं  
+> 
+> > मोक्षकारणम् अव्यक्तम्  
+> अचिन्त्यम् अपरिग्रहम्।  
+> तम् आराध्य जगन्नाथं  
+> क्रियायोगेन मुच्यते 
+> 
+> इति।  
+> तथात्रापि किं न स्याद् 
 
+इति शङ्कायां  
+कर्मयोगस्य भक्तियोगसाधनत्वम् अष्टादशाध्याये वक्ष्यमाणं दर्शयति तथा चेति। 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>वेङ्कटनाथः</summary>
+
+अन्यत्र चाप्य् अयं क्रमः स्फुटः --
+
+> "तत्र चित्तं **समावेष्टुं**  
+**न शक्नोति** भवान् यदि।  
+तद्-**अभ्यास**-परस् तस्मिन्  
+**कुरु योगं** दिवानिशम्॥
+>
+> तत्राप्य् असामर्थ्यवतः  
+**क्रिया-योगो** महात्मनः।  
+ब्रह्मणा यः समाख्यातः  
+तत्-परः सततं **भव**॥
+>
+> **करोषि** यानि कर्माणि  
+देव-देवे जगत्-पतौ।  
+**समर्पयस्व** भद्रं ते  
+ततः कर्म **प्रहास्यसि॥**
+>
+> प्रधानं कारणं योगो  
+विमुक्तेर् दितिजेश्वर।  
+क्रिया-योगश् च योगस्य  
+परमं तस्य साधनम्॥"
+
+इति।
+</details>
+
+<details><summary>वेङ्कटनाथः</summary>
+
+> मद्भक्तिं लभते पराम् \[18।54\] 
+
+इति वक्ष्यमाण-फलस्य  
+कर्म-योग-हेतुकत्वं प्रकरण-सिद्धम् इति ज्ञापनाय  
+
+> स्वकर्मणा तम् अभ्यर्च्य  
+> सिद्धिं विन्दति मानवः \[18।46\] 
+
+इत्य् आरभ्येत्य् उक्तम्।
+</details>
+</details>
+
+<details><summary>वेदान्तदेशिकः</summary>
+
+…
+
+[रामानुजीये संवलितम्। ]
+</details>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 12.11 If you are unable to do even this 'taking refuge in My Yoga,'  
 i.e., if you are unable even to do actions for My sake, which forms the sprout of Bhakti Yoga,  
@@ -151,113 +288,26 @@ Or if the Jiva gets immersed in Its own bliss, It will attain Kaivalya.\]
 In the same manner, Sri Krsna will further show in the text beginning with 'By worshipping Him with his work will a man reach perfection' (18.46)  
 and ending with 
 
-&gt; 'Forsaking the feeling of "I" and with no feeling of "mine" and tranquil, one becomes worthy of the state of Brahman.  
-&gt; Having realised the state of Brahman, tranquil, he neither grieves nor craves.  
-&gt; Regarding all beings alike, he attains supreme devotion to Me' (18.53-54).
-
+> 'Forsaking the feeling of "I" and with no feeling of "mine" and tranquil, one becomes worthy of the state of Brahman.  
+> Having realised the state of Brahman, tranquil, he neither grieves nor craves.  
+> Regarding all beings alike, he attains supreme devotion to Me' (18.53-54).
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/11_athaitadapyashakt.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।12.11।। अथेति। यदि च **भगवत्-कर्म** कर्तुं **न** शक्तोऽसि; +++(N न शक्नोषि)+++ ;
-अज्ञत्वात्, शास्त्रोक्त-क्रमावेदनात्  
-तत् सर्वं मयि संन्यसेः +++(N संन्यस्येः)+++ आत्म-निवेदन-द्वारेणेत्याशयः। 
-
-अमुमेवाशयमाश्रित्य लघुप्रक्रियायां मयैवोक्तम् -- 
-
-&gt; ऊनाधिकम् अविज्ञातं  
-&gt; पौर्वापर्यविवर्जितम्।  
-&gt; यच् चावधानरहितं  
-&gt; बुद्धेर्विस्खलितं च यत्।।  
-&gt; तत्सर्वं मम सर्वेश  
-&gt; भक्तस्यार्तस्य दुर्मतेः।  
-&gt; क्षन्तव्यं कृपया शम्भो  
-&gt; यतस्त्वं करुणापरः।।  
-&gt; अनेन स्तोत्रयोगेन  
-&gt; तवात्मानं निवेदये +++(S निवेदयेत)+++।  
-&gt; पुनर् निष्कारणमहं  
-&gt; दुःखानां नैमि पात्रताम्।। 
-
-इति  
-  
-पारमेश्वरेषु हि सिद्धान्तशास्त्रेषु आत्मनिवेदने अयम् एवाभिप्रायः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-12.11 Atha etc. In case due to ignorance, you do not know the method,
-enjoined in the scriptures and hence you are not able to perform actions
-for the Lord, then renounce (dedicate) all that to Me, through offering
-your own self \[to Me\]. This is the intention \[here\]. Holding the
-same intention, I have myself declared in the Laghuprakriya as :
-'Whatever action I have done, whether it is incomplete or superfluous,
-not properly understood, bereft of a proper order of precedence, devoid
-of \[good\] care, and full of slip of intellect; O Lord of All ! Please,
-with mercy forgive all these of me, the afflicted and foolish devotee of
-Yours; for you are compassionate; With this prayer-Yoga, I offer myself
-to You \[so that\] I do not become a receptacle of miseries again
-unnecessarily.' the same idea may be observed in the scriptural texts of
-the Siddhanta \[system\] - that have the Supreme Lord as their subject
-matter - while they speak of offering oneself \[to the Lord\].
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।12.11।। Sri Madhvacharya did not comment on this sloka.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।12.11।। Sri Jayatirtha did not comment on this sloka.
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।12.11।। अथ पुनः **एतदपि** यत् उक्तं मत्कर्मपरमत्वम्; तत् **कर्तुम् अशक्तः असि; मद्योगम् आश्रितः** मयि क्रियमाणानि कर्माणि संन्यस्य  
+॥12.11॥ अथ पुनः **एतदपि** यत् उक्तं मत्कर्मपरमत्वम्; तत् **कर्तुम् अशक्तः असि; मद्योगम् आश्रितः** मयि क्रियमाणानि कर्माणि संन्यस्य  
 यत् करणं तेषाम् अनुष्ठानं  
 सः मद्योगः; तम् आश्रितः सन्;  
 **सर्व-कर्म-फल-त्यागं** सर्वेषां कर्मणां फल-संन्यासं सर्व-कर्म-फल-त्यागं  
 **ततः** अनन्तरं  
-**कुरु यतात्मवान्** संयतचित्तः सन् इत्यर्थः।। 
-
-
+**कुरु यतात्मवान्** संयतचित्तः सन् इत्यर्थः॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।12.11।। परंतु यदि तू ऐसा करनेमें भी अर्थात् जैसा ऊपर कहा है; उस प्रकार
-मेरे लिये कर्म करनेके परायण होनेमें भी असमर्थ है तो फिर मद्योगके आश्रित
-होकर -- किये जानेवाले समस्त कर्मोंको मुझमें समर्पण करके उनका अनुष्ठान
-करना मद्योग है। उसके आश्रित होकरऔर संयतात्मा होकर अर्थात् वशीभूत मनवाला
-होकर समस्त कर्मोंके फलका त्याग कर।  
-  
-,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 12.11 Atha, if, again; asaktah asi, you are unable; kartum, to do; etat
 api, even this-what was stated as being 'intent on doing works for Me';
@@ -275,87 +325,127 @@ According to M.S., mat-karma in the earlier verse means
 bhagavata-dharma, i.e. hearing, singing, etc. about God. In the present
 verse, sarva-karma means all works in general.-Tr.\] Now the Lord
 praises the renunciation of the results of all works:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।12.11।। भगवत्कर्मपरत्वमप्यशक्यमिति शङ्कते -- **अथेति।**
+<details><summary>हरिकृष्णदासः</summary>
+
+॥12.11॥ परंतु यदि तू ऐसा करनेमें भी अर्थात् जैसा ऊपर कहा है; उस प्रकार
+मेरे लिये कर्म करनेके परायण होनेमें भी असमर्थ है तो फिर मद्योगके आश्रित
+होकर -- किये जानेवाले समस्त कर्मोंको मुझमें समर्पण करके उनका अनुष्ठान
+करना मद्योग है। उसके आश्रित होकरऔर संयतात्मा होकर अर्थात् वशीभूत मनवाला
+होकर समस्त कर्मोंके फलका त्याग कर।  
+  
+,
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥12.11॥ भगवत्कर्मपरत्वमप्यशक्यमिति शङ्कते -- **अथेति।**
 बहिर्विषयाकृष्टचेतस्त्वादित्यर्थः। तर्हि भगवत्प्राप्त्युपायत्वेन
 संयतचित्तो भूत्वा कर्मफलसंन्यासं कुर्वित्याह -- **मद्योगमिति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।12.11।। अथेति। अथ बहिर्विषयाकृष्टचेतस्त्वादेतन्मत्कर्मपरत्वमपि कर्तुं न
-शक्नोषि ततो मद्योगं मदेकशरणत्वमाश्रितः मयि सर्वकर्मसमर्पणं मद्योगस्तं
-वाश्रितः सन् यतात्मवान् यतः संयतसर्वेन्द्रियः आत्मवान् विवेकी च सन्
-सर्वकर्मफलत्यागं कुरु फलाभिसन्धिं त्यजेत्यर्थः।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।12.11।। मद्योगं श्रवणादौ निष्ठाम्। तर्हि पूर्वोक्तं
+॥12.11॥ मद्योगं श्रवणादौ निष्ठाम्। तर्हि पूर्वोक्तं
 श्रौतस्मार्तसर्वकर्मफलत्यागं कुर्वित्यर्थः। यतात्मवान् यतश्च
 नियमादिमांश्च आत्मवान् जितचित्तश्चेति यतात्मवान्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।12.11।। तर्हि विषयाकृष्टचित्तत्वाद्भगवत्कर्मपरतायामशक्तं
+<details><summary>धनपतिः</summary>
+
+॥12.11॥ तर्हि विषयाकृष्टचित्तत्वाद्भगवत्कर्मपरतायामशक्तं
 प्रत्युपायान्तरमाह -- अथैतदपि कर्तुमशक्तोऽसि चेत्तर्हि मद्योगमाश्रितः
 मयि सर्वाणि कर्माणि संन्यस्य तेषामुनुष्ठानं मद्योगस्तमाश्रितः
 मदेकशरणत्वमाश्रितः सन् तदनन्तरं सर्वेषां कर्मणां फलसंन्यासं कुरु
 विवेकसंयतचित्तः सन्नित्यर्थः।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥12.11॥ अथेति। अथ बहिर्विषयाकृष्टचेतस्त्वादेतन्मत्कर्मपरत्वमपि कर्तुं न
+शक्नोषि ततो मद्योगं मदेकशरणत्वमाश्रितः मयि सर्वकर्मसमर्पणं मद्योगस्तं
+वाश्रितः सन् यतात्मवान् यतः संयतसर्वेन्द्रियः आत्मवान् विवेकी च सन्
+सर्वकर्मफलत्यागं कुरु फलाभिसन्धिं त्यजेत्यर्थः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/11_athaitadapyashakt.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।12.11।। अथैतदपि न कर्त्तुं त्वं शक्तोसि चेत्तर्हि मद्योगं
+॥12.11॥ Sri Madhvacharya did not comment on this sloka.
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥12.11॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/11_athaitadapyashakt.md">
+
+<details><summary>मूलम्</summary>
+
+॥12.11॥ अथेति। यदि च **भगवत्-कर्म** कर्तुं **न** शक्तोऽसि; +++(N न शक्नोषि)+++ ; अज्ञत्वात्, शास्त्रोक्त-क्रमावेदनात्  
+तत् सर्वं मयि संन्यसेः +++(N संन्यस्येः)+++ आत्म-निवेदन-द्वारेणेत्याशयः। 
+
+अमुमेवाशयमाश्रित्य लघुप्रक्रियायां मयैवोक्तम् -- 
+
+> ऊनाधिकम् अविज्ञातं  
+> पौर्वापर्यविवर्जितम्।  
+> यच् चावधानरहितं  
+> बुद्धेर्विस्खलितं च यत्॥  
+> तत्सर्वं मम सर्वेश  
+> भक्तस्यार्तस्य दुर्मतेः।  
+> क्षन्तव्यं कृपया शम्भो  
+> यतस्त्वं करुणापरः॥  
+> अनेन स्तोत्रयोगेन  
+> तवात्मानं निवेदये +++(S निवेदयेत)+++।  
+> पुनर् निष्कारणमहं  
+> दुःखानां नैमि पात्रताम्॥ 
+
+इति  
+  
+पारमेश्वरेषु हि सिद्धान्तशास्त्रेषु आत्मनिवेदने अयम् एवाभिप्रायः।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+12.11 Atha etc. In case due to ignorance, you do not know the method, enjoined in the scriptures and hence you are not able to perform actions for the Lord, then renounce (dedicate) all that to Me, through offering your own self \[to Me\]. This is the intention \[here\]. Holding the same intention, I have myself declared in the Laghuprakriya as : 'Whatever action I have done, whether it is incomplete or superfluous, not properly understood, bereft of a proper order of precedence, devoid of \[good\] care, and full of slip of intellect; O Lord of All ! Please, with mercy forgive all these of me, the afflicted and foolish devotee of Yours; for you are compassionate; With this prayer-Yoga, I offer myself to You \[so that\] I do not become a receptacle of miseries again unnecessarily.' the same idea may be observed in the scriptural texts of the Siddhanta \[system\] - that have the Supreme Lord as their subject matter - while they speak of offering oneself \[to the Lord\].
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/11_athaitadapyashakt.md">
+
+<details><summary>मूलम्</summary>
+
+॥12.11॥ अथैतदपि न कर्त्तुं त्वं शक्तोसि चेत्तर्हि मद्योगं
 मत्सम्बन्धसेव्यसेवकत्वरूपमाश्रितः सन् सर्वकर्मफलत्यागं कुरु। एतदुक्तं
 भवति -- ईश्वराज्ञया परमाचार्योपदिष्टशरणमार्गतः यथाशक्ति स्वधर्माचरणं
 फलादित्यागपूर्वकं सुखावहमिति मयि भारमारोप्य अन्यज्ञानयोगधर्मपरित्यागेन
 मदाश्रये कृतार्थतेति। विशेषस्त्वग्रे स्पष्टीकरिष्यते।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।12.11।। एतत्-प्राप्त्य्-अर्थम् अतिसुगमोपायम् आह -- अथैतदिति। 
+<details><summary>पुरुषोत्तमः</summary>
+
+॥12.11॥ एतत्-प्राप्त्य्-अर्थम् अतिसुगमोपायम् आह -- अथैतदिति। 
 
 **अथ** चेत् **एतद् अपि** मदर्थकं **कर्तुम् अशक्तोऽसि** न समर्थोऽसि; स्वरूपाज्ञानात् तदा  
 **मद्योगं** मम योगः संयोगो यस्मिन् यस्य वा तादृशं भक्तम् **आश्रितः** सन् यतात्मवान् तदेकपरचित्तो भूत्वा  
 **सर्वकर्मफलत्यागं** सन्ध्यावन्दनाग्निहोत्रादीनां स्वर्गादिरूपफलानां त्यागं कुरु; चिन्तनं त्यजेत्यर्थः। 
 
-तत्फलानभिलाषे मद्-आज्ञया करणात् कर्मभिश् चित्तशुद्ध्या मद्भक्तोपदिष्टं ज्ञानं स्थिरीभविष्यति; तेन मत्-कर्म-सिद्धिर् भविष्यतीति भावः।  
-  
-
+तत्फलानभिलाषे मद्-आज्ञया करणात् कर्मभिश् चित्तशुद्ध्या मद्भक्तोपदिष्टं ज्ञानं स्थिरीभविष्यति; तेन मत्-कर्म-सिद्धिर् भविष्यतीति भावः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/11_athaitadapyashakt.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।12.11।। अत्यन्तं भगवद्धर्मपरिनिष्ठायामशक्तस्य पक्षान्तरमाह **--
+॥12.11॥ अत्यन्तं भगवद्धर्मपरिनिष्ठायामशक्तस्य पक्षान्तरमाह **--
 अथैतदपीति।** अथैतदपि कर्तुमशक्तोऽसि तर्हि मद्योगं मदेकशरणत्वमाश्रितः
 सर्वेषां दृष्टादृष्टार्थानामावश्यकानां चाग्निहोत्रादिकर्मणां फलानि
 नियतचित्तो भूत्वा परित्यज। एतदुक्तं भवति। मया तावदीश्वराज्ञया यथाशक्ति
@@ -363,18 +453,73 @@ _________________
 भारमारोप्य फलासक्तिं परित्यज्य वर्तमानो मत्प्रसादेन कृतार्थो भविष्यसीति
 तात्पर्यम्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/11_athaitadapyashakt.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+12.11 If you are unable to do even this, i.e., taking refuge in My Yoga,
+then, with your self controlled, renounce the fruits of every action.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+12.11 If you are unable to do even this, in that case, having resorted to the Yoga for Me, thereafter renounce the results of all works by becoming controlled in mind.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+12.11 And if thou art too weak even for this, then seek refuge in union with Me, and with perfect self-control renounce the fruit of thy action.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+12.11. Now, if you are not capable of doing this too, then taking resort to My Yoga renounce the fruit of all action, with your self (mind)
+subdued.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+12.11 If thou art unable to do even this, then, resorting to union with Me, renounce the fruits of all actions with the self controlled.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+12.11 अथ if; एतत् this; अपि also; अशक्तः unable; असि (thou) art; कर्तुम्
+to do; मद्योगम् My Yoga; आश्रितः resorting to; सर्वकर्मफलत्यागम् the renunciation of the fruits of all actions; ततः then; कुरु do; यतात्मवान्
+selfcontrolled.Commentary This is the easiest path. If thou art unable to perform actions for My sake; if thou canst not even be intent on My service; if thou art unable to practise the Bhagavata Dharmas; if thous wishest to do actions impelled by personal desires; then do thou perform them (for your sake from a sense of duty) renouncing them all in Me and also abandon the fruits of all actions; at the same time practising selfcontrol.In verse 8 the Yoga of meditation is prescribed for advanced students in verse 9 the Yoga of constant practice if one finds that;
+too; to be difficult; the performance of actions for the sake of the Lord alone has been taught in verse 10 and those who cannot do even this are asked to abandon the fruits of all actions.Madyogam My Yoga.
+Surrendering all actions and their fruits to Me is My Yoga.Yatatmavan The man of discrimination who has controlled all the senses; who has withdrawn the senses from sound; touch; form; taste and smell.Now the Lord eulogises the renunciation of the fruits of all actions in order to encourage the aspirants to practise the Yoga of renunciation of the fruits of actions.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/11_athaitadapyashakt.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।12.11।। अगर मेरे योग-(समता-) के आश्रित हुआ तू इस(पूर्वश्लोकमें कहे गये
+साधन-) को भी करनेमें असमर्थ है, तो मन-इन्द्रियोंको वशमें करके सम्पूर्ण
+कर्मोंके फलका त्याग कर।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+।।12.11।।***व्याख्या--*'अथैतदप्यशक्तोऽसि कर्तुं
+मद्योगमाश्रितः'--**पूर्वश्लोकमें भगवान्ने अपने लिये ही सम्पूर्ण कर्म
+करनेसे अपनी प्राप्ति बतायी और अब इस श्लोकमें वे सम्पूर्ण कर्मोंके
+फलत्यागरूप साधनकी बात बता रहे हैं। वहाँ भगवान्के लिये समस्त कर्म करनेमें
+भक्तिकी प्रधानता होनेसे उसे 'भक्तियोग' कहेंगे और यहाँ सर्वकर्मफलत्यागमें
+केवल फलत्यागकी मुख्यता होनेसे इसे 'कर्मयोग' कहेंगे। इस प्रकार
+भगवत्प्राप्तिके ये दोनों ही स्वतन्त्र (पृथक्-पृथक्) साधन हैं।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।12.11।। पूर्व श्लोक में; हमें अहंकार का सर्वथा त्याग करके जगत् में
 कर्म करने का उपदेश दिया गया था। अत्यन्त अहंकारी और मानी पुरुष के लिए यह
-कार्य़ इतना सरल नहीं है। ऐसा पुरुष रजोगुण के कारण अत्यन्त क्षुब्ध रहता है
+कार्य़ इतना सरल नहीं है। ऐसा पुरुष रजोगुण के कारण अत्यन्त क्षुब्ध रहता है
 तथा तमोगुण की निम्नस्तरीय प्रवृत्तियों के कारण उसका व्यक्तित्व विषाक्त
 रहता है। ऐसे निम्न स्तर के व्यक्ति के लिए भी गीता में साधन मार्ग बताया
 गया है। प्राय ऐसा पुरुष सभी धर्मों के लिए निराशा का ही विषय बन जाता है।
@@ -423,92 +568,16 @@ _________________
 का सर्वथा त्याग कर देना और वर्तमान में कर्म करते रहना। जैसा कि मैंने
 पहले भी कहा है; विश्व के किसी भी आध्यात्मिक ग्रन्थ में आत्मविकास के लिए
 इतने विविध और विस्तृत मार्गों का विवेचन नहीं किया गया है; जितना
-भगवद्गीता में हैं। उपर्य़ुक्त तीन साधनों का अभ्यास एक साथ नहीं हो सकता है।
+भगवद्गीता में हैं। उपर्य़ुक्त तीन साधनों का अभ्यास एक साथ नहीं हो सकता है।
 उन्हें क्रमवार करना है। इस बात को दर्शाते हुए; अगले श्लोक में; भगवान्
 सर्वकर्मफल त्याग की प्रशंसा करते हैं
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।12.11।। और यदि इसको भी करने के लिए तुम असमर्थ हो, तो आत्मसंयम से युक्त
 होकर मेरी प्राप्ति रूप योग का आश्रय लेकर, तुम समस्त कर्मों के फल का
 त्याग करो।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।12.11।। अगर मेरे योग-(समता-) के आश्रित हुआ तू इस(पूर्वश्लोकमें कहे गये
-साधन-) को भी करनेमें असमर्थ है, तो मन-इन्द्रियोंको वशमें करके सम्पूर्ण
-कर्मोंके फलका त्याग कर।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-।।12.11।।***व्याख्या--*'अथैतदप्यशक्तोऽसि कर्तुं
-मद्योगमाश्रितः'--**पूर्वश्लोकमें भगवान्ने अपने लिये ही सम्पूर्ण कर्म
-करनेसे अपनी प्राप्ति बतायी और अब इस श्लोकमें वे सम्पूर्ण कर्मोंके
-फलत्यागरूप साधनकी बात बता रहे हैं। वहाँ भगवान्के लिये समस्त कर्म करनेमें
-भक्तिकी प्रधानता होनेसे उसे 'भक्तियोग' कहेंगे और यहाँ सर्वकर्मफलत्यागमें
-केवल फलत्यागकी मुख्यता होनेसे इसे 'कर्मयोग' कहेंगे। इस प्रकार
-भगवत्प्राप्तिके ये दोनों ही स्वतन्त्र (पृथक्-पृथक्) साधन हैं।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-12.11. Now, if you are not capable of doing this too, then taking resort to My Yoga renounce the fruit of all action, with your self (mind)
-subdued.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-12.11 If you are unable to do even this, in that case, having resorted to the Yoga for Me, thereafter renounce the results of all works by becoming controlled in mind.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-12.11 And if thou art too weak even for this, then seek refuge in union with Me, and with perfect self-control renounce the fruit of thy action.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-12.11 If you are unable to do even this, i.e., taking refuge in My Yoga,
-then, with your self controlled, renounce the fruits of every action.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-12.11 If thou art unable to do even this, then, resorting to union with Me, renounce the fruits of all actions with the self controlled.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-12.11 अथ if; एतत् this; अपि also; अशक्तः unable; असि (thou) art; कर्तुम्
-to do; मद्योगम् My Yoga; आश्रितः resorting to; सर्वकर्मफलत्यागम् the renunciation of the fruits of all actions; ततः then; कुरु do; यतात्मवान्
-selfcontrolled.Commentary This is the easiest path. If thou art unable to perform actions for My sake; if thou canst not even be intent on My service; if thou art unable to practise the Bhagavata Dharmas; if thous wishest to do actions impelled by personal desires; then do thou perform them (for your sake from a sense of duty) renouncing them all in Me and also abandon the fruits of all actions; at the same time practising selfcontrol.In verse 8 the Yoga of meditation is prescribed for advanced students in verse 9 the Yoga of constant practice if one finds that;
-too; to be difficult; the performance of actions for the sake of the Lord alone has been taught in verse 10 and those who cannot do even this are asked to abandon the fruits of all actions.Madyogam My Yoga.
-Surrendering all actions and their fruits to Me is My Yoga.Yatatmavan The man of discrimination who has controlled all the senses; who has withdrawn the senses from sound; touch; form; taste and smell.Now the Lord eulogises the renunciation of the fruits of all actions in order to encourage the aspirants to practise the Yoga of renunciation of the fruits of actions.
-
-</details>
 </div>

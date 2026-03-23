@@ -1,100 +1,166 @@
 +++
 title = "50 बुद्धियुक्तो जहातीह"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 बुद्धि-युक्तो **जहातीह**  
 उभे **सुकृत-दुष्कृते**।  
 तस्माद् **योगाय युज्यस्व**  
 योगः कर्मसु कौशलम्॥2.50॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।  
-तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्।।2.50।।
+तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्॥2.50॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।2.50।। बुद्धियोगयुक्तः तु कर्म कुर्वाण उभे सुकृतदुष्कृते
-अनादिकालसञ्चिते अनन्ते बन्धेहेतुभूते जहाति। तस्माद् उक्ताय बुद्धियोगाय
-युज्यस्व। योगः कर्मसु कौशलं कर्मसु क्रियमाणेषु अयं बुद्धियोगः कौशलम्
-अतिसामर्थ्यम् अतिसामर्थ्यसाध्यः इत्यर्थः।  
-
+॥2.50॥ बुद्धियोगयुक्तस् तु कर्म कुर्वाण उभे सुकृतदुष्कृते अनादिकालसञ्चिते अनन्ते बन्धेहेतुभूते जहाति। तस्माद् उक्ताय बुद्धियोगाय युज्यस्व। योगः कर्मसु कौशलं कर्मसु क्रियमाणेष्व् अयं बुद्धियोगः कौशलम् अतिसामर्थ्यम् अतिसामर्थ्यसाध्य इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।।2.50।। बुद्धियुक्तो जहातीह इत्यस्येह कर्मणि क्रियमाणे बुद्धियुक्त
-इत्यन्वयमभिप्रेत्याह बुद्धियोगयुक्तस्तु कर्म कुर्वाण इति। यद्वाकर्म
-कुर्वाण इति प्रकरणापन्नमुक्तम् इहशब्दस्य तु जहातिनाऽन्वयःइहैव तैर्जितः
-सर्गः 5।19 इत्यादिवत्। ततश्च प्रतिबन्धकनिवृत्तिरुक्ता भवति।
-बुद्धिरहितकेवलकर्मादिभिरनिवर्त्यत्वार्थमाह अनादिकालसञ्चिते अनन्ते इति।
-अनादिकालसञ्चितत्वमनन्तत्वनिदानम्। सुकृतस्य हानिरपुरुषार्थः
-स्यादित्यत्रोक्तंबन्धहेतुभूते इति। नहि
-काञ्चनकालायसश्रृङ्खलयोर्बन्धहेतुत्वे कश्चिद्विशेषः मुमुक्ष्वपेक्षया च
-स्वर्गादिकारणं सुकृतमपि दुष्कृतमेव अलौकिकत्वे सत्यनिष्टसाधनत्वात्।
-स्वर्गादेरपि हि मुमुक्ष्वपेक्षया निरयत्वम्एते वै निरयास्तात स्थानस्य
-परमात्मनः म.भा.12।198।11 इत्यादिभिः प्रतिपादितमिति भावः। बुद्धियुक्तः
-इत्यस्ययोगाय इत्यस्य च भिन्नार्थपरत्वव्युदासायाह तस्मादुक्ताय
-बुद्धियोगायेति। युज्यस्व सन्नह्यस्व उद्युक्तो भवेत्यर्थः। समत्वं योग
-उच्यते 2।48 इतिवद्योगशब्दव्याख्याभ्रमनिरासायाह कर्मस्विति। कौशलशब्दस्य
-तात्पर्यं वक्तुं वाच्यं तावदाह अतिसामर्थ्यमिति। बुद्धियोगस्य
-कर्मसामर्थ्यात्मकत्वं कथं इत्यत्राह अतिसामर्थ्यसाध्य इत्यर्थ इति। कार्ये
-कारणशब्द उपचरितः। अनेन श्लोकेन बन्धकसुकृतदुष्कृतहानमुक्तम्।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥2.50॥ बुद्धियुक्तो जहातीह इत्यस्येह कर्मणि क्रियमाणे बुद्धियुक्त इत्यन्वयमभिप्रेत्याह बुद्धियोगयुक्तस्तु कर्म कुर्वाण इति। यद्वाकर्म कुर्वाण इति प्रकरणापन्नमुक्तम् इहशब्दस्य तु जहातिनाऽन्वयःइहैव तैर्जितः सर्गः 5।19 इत्यादिवत्। ततश्च प्रतिबन्धकनिवृत्तिरुक्ता भवति। बुद्धिरहितकेवलकर्मादिभिरनिवर्त्यत्वार्थमाह अनादिकालसञ्चिते अनन्ते इति। अनादिकालसञ्चितत्वमनन्तत्वनिदानम्। सुकृतस्य हानिरपुरुषार्थः स्यादित्यत्रोक्तम्बन्धहेतुभूते इति। नहि काञ्चनकालायसश्रृङ्खलयोर्बन्धहेतुत्वे कश्चिद्विशेषः मुमुक्ष्वपेक्षया च स्वर्गादिकारणं सुकृतमपि दुष्कृतमेव अलौकिकत्वे सत्यनिष्टसाधनत्वात्। स्वर्गादेरपि हि मुमुक्ष्वपेक्षया निरयत्वम्एते वै निरयास्तात स्थानस्य परमात्मनः म.भा.12।198।11 इत्यादिभिः प्रतिपादितमिति भावः। बुद्धियुक्तः इत्यस्ययोगाय इत्यस्य च भिन्नार्थपरत्वव्युदासायाह तस्मादुक्ताय बुद्धियोगायेति। युज्यस्व सन्नह्यस्व उद्युक्तो भवेत्यर्थः। समत्वं योग उच्यते 2।48 इतिवद्योगशब्दव्याख्याभ्रमनिरासायाह कर्मस्विति। कौशलशब्दस्य तात्पर्यं वक्तुं वाच्यं तावदाह अतिसामर्थ्यमिति। बुद्धियोगस्य कर्मसामर्थ्यात्मकत्वं कथम् इत्यत्राह अतिसामर्थ्यसाध्य इत्यर्थ इति। कार्ये कारणशब्द उपचरितः। अनेन श्लोकेन बन्धकसुकृतदुष्कृतहानमुक्तम्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 2.50 He, who is established in evenness of mind in the performance of actions, relinishes good and evil Karmas which have accumulated from time immemorial causing bondage endlessly. Therefore acire this aforesaid evenness of mind (Buddhi Yoga). Yoga is skill in action. That is, this evenness of mind when one is engaged in action, is possible through great skill, i.e., ability.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.52।। बुद्धियुक्त इति। उभे इति परस्परव्यभिचारं दर्शयति।
-तस्माद्योगायेति। यथा हि सुकृतदुष्कृते नश्यतः +++(N दुष्कृते न नश्यतः)+++
-तथाकरणमेव परमं कौशलमिति भावः।  
-
+॥2.50॥  
+  
+**बुद्धियुक्तः** कर्मसमत्वविषयया बुद्ध्या युक्तः बुद्धियुक्तः सः **जहाति** परित्यजति **इह** अस्मिन् लोके उभे **सुकृतदुष्कृते** पुण्यपापे सत्त्वशुद्धिज्ञानप्राप्तिद्वारेण यतः **तस्मात्** समत्वबुद्धि**योगाय युज्यस्व** घटस्व। **योगो** हि **कर्मसु कौशलम्** स्वधर्माख्येषु कर्मसु वर्तमानस्य या सिद्ध्यसिद्ध्योः समत्वबुद्धिः ईश्वरार्पितचेतस्तया तत् कौशलं कुशलभावः। तद्धि कौशलं यत् बन्धनस्वभावान्यपि कर्माणि समत्वबुद्ध्या स्वभावात् निवर्तन्ते। तस्मात्समत्वबुद्धियुक्तो भव त्वम्॥  
+यस्मात्
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.50 Buddhiyuktah etc. Both indicates the mutual exclusion \[of the good
-and bad actions\]. Therefore \[strive\] for Yoga etc. : Working in that
-manner alone constitutes the supreme proficiency, by \[working\] in
-which manner the good action and the bad action perish. This is the idea
-here.
+<details><summary>गम्भीरानन्दः</summary>
 
+2.50 Listen to the result that one possessed of the wisdom of eanimity
+attains by performing one's own duties: Buddhi-yuktah, possessed of
+wisdom, possessed of the wisdom of eanimity; since one jahati, rejects;
+iha, here, in this world; ubhe, both; sukrta-duskrte, virtue and vice
+(righteousness and unrighteousness), through the purification of the
+mind and acisition of Knowledge; tasmat, therefore; yujyasva, devote
+yourself; yogaya, to (Karma-) yoga, the wisdom of eanimity. For Yoga is
+kausalam, skilfulness; karmasu, in action. Skilfulness means the
+attitude of the skilful, the wisdom of eanimity with regard to one's
+success and failure while engaged in actions (karma) called one's own
+duties (sva-dharma) with the mind dedicated to God. That indeed is
+skilfulness which, through eanimity, makes actions that by their very
+nature bind give up their nature! Therefore, be you devoted to the
+wisdom of eanimity.
 </details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥2.50॥ समत्वबुद्धिसे युक्त होकर स्वधर्माचरण करनेवाला पुरुष जिस फलको
+पाता है वह सुन  
+  
+समत्वयोगविषयक बुद्धिसे युक्त हुआ पुरुष अन्तःकरणकी शुद्धिके और
+ज्ञानप्राप्तिके द्वारा सुकृतदुष्कृतको पुण्यपाप दोनोंको यहीं त्याग देता
+है इसी लोकमें कर्मबन्धनसे मुक्त हो जाता है। इसलिये तू समत्वबुद्धिरूप
+योगकी प्राप्तिके लिये यत्न कर चेष्टा कर।  
+क्योंकि योग ही तो कर्मोंमें कुशलता है अर्थात् स्वधर्मरूप कर्ममें लगे हुए
+पुरुषका जो ईश्वरसमर्पित बुद्धिसे उत्पन्न हुआ सिद्धिअसिद्धिविषयक समत्वभाव
+है वही कुशलता है।  
+यही इसमें कौशल है कि स्वभावसे ही बन्धन करनेवाले जो कर्म हैं वे भी समत्व
+बुद्धिके प्रभावसे अपने स्वभावको छोड़ देते हैं अतः तू समत्वबुद्धिसे युक्त
+हो।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥2.50॥ पूर्वोक्तसमत्वबुद्धियुक्तस्य स्वधर्मानुष्ठाने प्रवृत्तस्य किं
+स्यादित्याशङ्क्याह **समत्वेति।** बुद्धियुक्तः स्वधर्माख्यं
+कर्मानुतिष्ठन्निति शेषः। बुद्धियोगस्य फलवत्त्वे फलितमाह **तस्मादिति।**
+पूर्वार्धं व्याचष्टे **बुद्धीत्यादिना।** ननु समत्वबुद्धिमात्रान्न
+पुण्यपापनिवृत्तिर्युक्ता परमार्थदर्शनवतस्तन्निवृत्तिप्रसिद्धेरिति तत्राह
+**सत्त्वेति।** उत्तरार्धं व्याचष्टे **तस्मादिति।** स्वधर्ममनुतिष्ठतो
+यथोक्तयोगार्थं किमर्थं मनो योजनीयमित्याशङ्क्याह **योगो हीति।** तर्हि
+यथोक्तयोगसामर्थ्यादेव दर्शितफलसिद्धेरनास्था स्वधर्मानुष्ठाने
+प्राप्तेत्याशङ्क्याह **स्वधर्माख्येष्विति।** ईश्वरार्पितचेतस्तया
+कर्मसु वर्तमानस्यानुष्ठाननिष्ठस्य या यथोक्ता बुद्धिस्तत्तेषु कौशलमिति
+योजना। कर्मणां बन्धस्वभावत्वात्तदनुष्ठाने बन्धानुबन्धः स्यादित्याशङ्क्य
+कौशलमेव विशदयति **तद्धीति।** समत्वबुद्धेरेवं फलत्वे स्थिते
+फलितमुपसंहरति **तस्मादिति।  
+**
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥2.50॥ किञ्च **बुद्धीति।** बुद्धियुक्तः समत्वबुद्धियुक्तः योगाय
+समत्वबुद्धियोगाय युज्यस्व घटस्व। योगः सिद्ध्यसिद्ध्योः समत्वबुद्धिः
+कर्मसु बन्धकेष्वपि कौशलं बन्धनिवर्तकत्वसंपादनम्। ननु बुद्धियुक्तः
+कर्मभिर्दुष्कृतं  
+  
+त्यजतुधर्मेण पापमपनुदति इति श्रुतेः सुकृतं तु
+सजातीयत्वात्तैर्दुष्परिहरमिति कथमुभे सुकृतदुष्कृते जहातीत्युच्यते
+सत्वशुद्धिज्ञानोत्पत्तिद्वारेति प्राञ्चः। अर्वाञ्चस्तु
+दुष्कृतत्यागमुक्तरीत्याभ्युपेत्य फलत्यागात्सुकृतत्यागोऽपि कर्मयोगिनो
+भवति। दुष्कृतफलवन्मोक्षप्रतिबन्धकतत्फलस्यानुत्पादात्। यत्तु
+आपस्तम्बोक्ताम्रवृक्षनिदर्शनेन नान्तरीयकं सुकृतफलमुक्तं न
+तत्फलत्वेनोपपद्यते नान्तरीयकत्वादेव। तस्मात्फलद्वारा मोक्षप्रतिबन्धके
+क्रियमाणे एव सुकृतदुष्कृते कर्मयोगी जहाति ज्ञानी तु संचिते अपि ते
+जहातीति तयोर्विशेषे इत्याहुः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥2.50॥ काम्यकर्मणोऽवरत्वमुक्त्वा निष्काम कर्मणः श्रैष्ठ्यमाह
+समत्वबुद्धियुक्तः सत्त्वशुद्धिज्ञानप्राप्तिद्वारेणोभे पुण्यपापे त्यजति
+साङ्ख्यबुद्धिर्युक्त इति वा तस्माद्योगाय समत्वलक्षणकर्मयागानुष्टानार्थ
+षटस्व ज्ञानयोगप्राप्त्यर्थमिति वा। यस्माद्योगः समत्वलक्षणः कर्मसु
+सर्वेषु कौशलं बन्धकानामपि तेषामीश्वरार्पितचेतस्तया
+मोक्षपरत्वसंपादनचातुर्यं ज्ञानयोग इति वा। अस्मिन्पक्षे कर्मसु
+ज्ञानप्रतिबन्धकेषु फलाभिसंधिं विहाय ज्ञानलाभचातुर्यमिति व्याख्येयम्।
+तस्मात्समत्वयुक्तो भवेत्यर्थः।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥2.50॥ एवं बुद्धियोगाभावे दोषमुक्त्वा तद्भावे गुणमाह इह कर्मसु
+बुद्धियुक्तः समत्वबुद्ध्या युक्तो जहाति परित्यजति उभे सुकृतदुष्कृते
+पुण्यपापे सत्त्वशुद्धिज्ञानप्राप्तिद्वारेण। यस्मादेवं
+तस्मात्समत्वबुद्धियोगाय त्वं युज्यस्व घटस्य उद्युक्तो भव।  
+  
+यस्मादीदृशः समत्वबुद्धियोग ईश्वरार्पितचेतसः कर्मसु प्रवर्तमानस्य कौशलं
+कुशलभावः यद्बन्धहेतूनामपि कर्मणां तदभावो  
+  
+मोक्षपर्यवसायित्वं च तन्महत्कौशलम्। समत्वबुद्धियुक्तः कर्मयोगः
+कर्मात्मापि सन् दुष्कर्मक्षयं करोतीति महाकुशलः त्वं तु न कुशलो
+यतश्चेतनोऽपि सन्सजातीयदुष्टक्षयं न करोषीति व्यतिरेकोऽत्र ध्वनितः। अथवा
+इह समत्वबुद्धियुक्ते कर्मणि कृते सति सत्त्वशुद्धिद्वारेण बुद्धियुक्तः
+परमात्मसाक्षात्कारवान्सन् जहात्युभे सुकृतदुष्कृते
+तस्मात्समत्वबुद्धियुक्ताय कर्मयोगाय युज्यस्व। यस्मात्कर्मसु मध्ये
+समत्वबुद्धियुक्तः कर्मयोगः कौशलं कुशलः। दुष्टकर्मनिवारणचतुर इत्यर्थः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.50।। ज्ञानफलमाह बुद्धियुक्त इति। सुकृतमप्यप्रियं मानुष्यादिफलं जहाति
+॥2.50॥ ज्ञानफलमाह बुद्धियुक्त इति। सुकृतमप्यप्रियं मानुष्यादिफलं जहाति
 न बृहत्फलमुपासनादिनिमित्तम्। न हास्य कर्म क्षीयते बृ.उ.1।4।15
 अविदित्वाऽस्मिल्ँ लोके जुहोति यजते तपस्तप्यते बहूनि
 वर्षसहस्राण्यन्तवदेवास्य तद्भवति बृ.उ.3।8।10 इत्यादिश्रुतिभ्यः। अतः
@@ -158,14 +224,12 @@ _________________
 वियोगः। परब्रह्मत्वमिच्छामि परब्रह्मञ्जनार्दन इत्यादिना ब्रह्मादिभिरपि
 प्रार्थितत्वात्। न मोक्षसदृशं किञ्चिदधिकं वा सुखं क्वचित्। ऋते
 वैष्णवमानन्दं वाङ्मनोगोचरं महत् इत्यादेश्च। ब्रह्मादिपदादप्यधिकतमं सुखं
-मोक्षं इति सिद्धम्। अतो योगाय युज्यस्व। ज्ञानोपायाय। तद्धि कर्मकौशलम्।  
-
+मोक्षं इति सिद्धम्। अतो योगाय युज्यस्व। ज्ञानोपायाय। तद्धि कर्मकौशलम्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।2.50।। बुद्धियुक्तः प्रेक्षावान् काम्यं सुकृतं दुष्कृतं च जह्यादिति
+<details><summary>जयतीर्थः</summary>
+
+॥2.50॥ बुद्धियुक्तः प्रेक्षावान् काम्यं सुकृतं दुष्कृतं च जह्यादिति
 योगस्वरूपनिरूपणपरतां निराकर्तुमाह **ज्ञाने**ति। कथं कर्मणो
 ज्ञानादतीवावरत्वमित्यतः काम्यकर्मिणः कृपणाः दीनाः इमं लोकं हीनतरं वा
 विशन्ति मुं.उ.1।2।10 इत्युक्तम् तथापि कथं दूरेणावरमित्यपेक्षायां
@@ -242,8 +306,8 @@ _________________
 किन्तु त्वमन्यथा गृहीत्वा दूषितवानसीत्याशयेन परिहारे भीष्मेण परमात्मनः
 पृथक्त्वेन मुक्तानां भोगाभिधानाच्च न ज्ञानी ब्रह्मणैकीभूत इत्यर्थः। तथा
 हि भीष्मवचनम् तथापि अत्रापि तत्त्वं परमं शृणु सम्यङ्मयेरितम्। ৷৷.
-इन्द्रियाणि च बुध्यन्ते स्वदेहं देहिनो नृप।। करणान्यात्मनस्तानि सूक्ष्मः
-पश्यति तैस्तु सः म.भा.12।301।8586 इति।। यद्यपीदं दुर्बोधं तथापि स्वः
+इन्द्रियाणि च बुध्यन्ते स्वदेहं देहिनो नृप॥ करणान्यात्मनस्तानि सूक्ष्मः
+पश्यति तैस्तु सः म.भा.12।301।8586 इति॥ यद्यपीदं दुर्बोधं तथापि स्वः
 स्वरूपभूतो देहो यस्य तं स्वदेहं परमात्मानं मुक्तमन्यान्देहान्विषयांश्च
 मुक्तस्य इन्द्रियाणि बुध्यन्ते। किं तानि कर्तॄणि नेत्याह **करणानी**ति
 कस्तर्हि पूर्वार्धस्यार्थः इत्यत उक्तम् **सूक्ष्म इति**। इतश्च न
@@ -392,166 +456,38 @@ _________________
 ज्ञानस्य महाफलत्वात् **योगाय युज्यस्वे**ति कथं हेतुहेतुमद्भाव
 इत्यतोयोगाय इत्येतद्व्याचष्टे **ज्ञाने**ति। ननुसमत्वं योग उच्यते 2।48
 इति योगो व्याख्यातःयोगः कर्मसु कौशलम् इति पुनर्व्याख्यायते इत्यतः
-स्तुतिरियं योगस्य क्रियत इति भावेनाह **तद्धी**ति। तद्योग इति शेषः।  
-
+स्तुतिरियं योगस्य क्रियत इति भावेनाह **तद्धी**ति। तद्योग इति शेषः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.50।।  
-  
-**बुद्धियुक्तः** कर्मसमत्वविषयया बुद्ध्या युक्तः बुद्धियुक्तः सः
-**जहाति** परित्यजति **इह** अस्मिन् लोके उभे **सुकृतदुष्कृते**
-पुण्यपापे सत्त्वशुद्धिज्ञानप्राप्तिद्वारेण यतः **तस्मात्**
-समत्वबुद्धि**योगाय युज्यस्व** घटस्व। **योगो** हि **कर्मसु कौशलम्**
-स्वधर्माख्येषु कर्मसु वर्तमानस्य या सिद्ध्यसिद्ध्योः समत्वबुद्धिः
-ईश्वरार्पितचेतस्तया तत् कौशलं कुशलभावः। तद्धि कौशलं यत्
-बन्धनस्वभावान्यपि कर्माणि समत्वबुद्ध्या स्वभावात् निवर्तन्ते।
-तस्मात्समत्वबुद्धियुक्तो भव त्वम्।।  
-यस्मात्  
-  
-
+॥2.52॥ बुद्धियुक्त इति। उभे इति परस्परव्यभिचारं दर्शयति। तस्माद्योगायेति। यथा हि सुकृतदुष्कृते नश्यतः +++(N दुष्कृते न नश्यतः)+++ तथाकरणमेव परमं कौशलमिति भावः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।2.50।। समत्वबुद्धिसे युक्त होकर स्वधर्माचरण करनेवाला पुरुष जिस फलको
-पाता है वह सुन  
-  
-समत्वयोगविषयक बुद्धिसे युक्त हुआ पुरुष अन्तःकरणकी शुद्धिके और
-ज्ञानप्राप्तिके द्वारा सुकृतदुष्कृतको पुण्यपाप दोनोंको यहीं त्याग देता
-है इसी लोकमें कर्मबन्धनसे मुक्त हो जाता है। इसलिये तू समत्वबुद्धिरूप
-योगकी प्राप्तिके लिये यत्न कर चेष्टा कर।  
-क्योंकि योग ही तो कर्मोंमें कुशलता है अर्थात् स्वधर्मरूप कर्ममें लगे हुए
-पुरुषका जो ईश्वरसमर्पित बुद्धिसे उत्पन्न हुआ सिद्धिअसिद्धिविषयक समत्वभाव
-है वही कुशलता है।  
-यही इसमें कौशल है कि स्वभावसे ही बन्धन करनेवाले जो कर्म हैं वे भी समत्व
-बुद्धिके प्रभावसे अपने स्वभावको छोड़ देते हैं अतः तू समत्वबुद्धिसे युक्त
-हो।  
+<details><summary>शङ्करनारायणः</summary>
 
+2.50 Buddhiyuktah etc. Both indicates the mutual exclusion \[of the good and bad actions\]. Therefore \[strive\] for Yoga etc. : Working in that manner alone constitutes the supreme proficiency, by \[working\] in which manner the good action and the bad action perish. This is the idea here.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.50 Listen to the result that one possessed of the wisdom of eanimity
-attains by performing one's own duties: Buddhi-yuktah, possessed of
-wisdom, possessed of the wisdom of eanimity; since one jahati, rejects;
-iha, here, in this world; ubhe, both; sukrta-duskrte, virtue and vice
-(righteousness and unrighteousness), through the purification of the
-mind and acisition of Knowledge; tasmat, therefore; yujyasva, devote
-yourself; yogaya, to (Karma-) yoga, the wisdom of eanimity. For Yoga is
-kausalam, skilfulness; karmasu, in action. Skilfulness means the
-attitude of the skilful, the wisdom of eanimity with regard to one's
-success and failure while engaged in actions (karma) called one's own
-duties (sva-dharma) with the mind dedicated to God. That indeed is
-skilfulness which, through eanimity, makes actions that by their very
-nature bind give up their nature! Therefore, be you devoted to the
-wisdom of eanimity.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।2.50।। पूर्वोक्तसमत्वबुद्धियुक्तस्य स्वधर्मानुष्ठाने प्रवृत्तस्य किं
-स्यादित्याशङ्क्याह **समत्वेति।** बुद्धियुक्तः स्वधर्माख्यं
-कर्मानुतिष्ठन्निति शेषः। बुद्धियोगस्य फलवत्त्वे फलितमाह **तस्मादिति।**
-पूर्वार्धं व्याचष्टे **बुद्धीत्यादिना।** ननु समत्वबुद्धिमात्रान्न
-पुण्यपापनिवृत्तिर्युक्ता परमार्थदर्शनवतस्तन्निवृत्तिप्रसिद्धेरिति तत्राह
-**सत्त्वेति।** उत्तरार्धं व्याचष्टे **तस्मादिति।** स्वधर्ममनुतिष्ठतो
-यथोक्तयोगार्थं किमर्थं मनो योजनीयमित्याशङ्क्याह **योगो हीति।** तर्हि
-यथोक्तयोगसामर्थ्यादेव दर्शितफलसिद्धेरनास्था स्वधर्मानुष्ठाने
-प्राप्तेत्याशङ्क्याह **स्वधर्माख्येष्विति।** ईश्वरार्पितचेतस्तया
-कर्मसु वर्तमानस्यानुष्ठाननिष्ठस्य या यथोक्ता बुद्धिस्तत्तेषु कौशलमिति
-योजना। कर्मणां बन्धस्वभावत्वात्तदनुष्ठाने बन्धानुबन्धः स्यादित्याशङ्क्य
-कौशलमेव विशदयति **तद्धीति।** समत्वबुद्धेरेवं फलत्वे स्थिते
-फलितमुपसंहरति **तस्मादिति।  
-**
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।2.50।। एवं बुद्धियोगाभावे दोषमुक्त्वा तद्भावे गुणमाह इह कर्मसु
-बुद्धियुक्तः समत्वबुद्ध्या युक्तो जहाति परित्यजति उभे सुकृतदुष्कृते
-पुण्यपापे सत्त्वशुद्धिज्ञानप्राप्तिद्वारेण। यस्मादेवं
-तस्मात्समत्वबुद्धियोगाय त्वं युज्यस्व घटस्य उद्युक्तो भव।  
-  
-यस्मादीदृशः समत्वबुद्धियोग ईश्वरार्पितचेतसः कर्मसु प्रवर्तमानस्य कौशलं
-कुशलभावः यद्बन्धहेतूनामपि कर्मणां तदभावो  
-  
-मोक्षपर्यवसायित्वं च तन्महत्कौशलम्। समत्वबुद्धियुक्तः कर्मयोगः
-कर्मात्मापि सन् दुष्कर्मक्षयं करोतीति महाकुशलः त्वं तु न कुशलो
-यतश्चेतनोऽपि सन्सजातीयदुष्टक्षयं न करोषीति व्यतिरेकोऽत्र ध्वनितः। अथवा
-इह समत्वबुद्धियुक्ते कर्मणि कृते सति सत्त्वशुद्धिद्वारेण बुद्धियुक्तः
-परमात्मसाक्षात्कारवान्सन् जहात्युभे सुकृतदुष्कृते
-तस्मात्समत्वबुद्धियुक्ताय कर्मयोगाय युज्यस्व। यस्मात्कर्मसु मध्ये
-समत्वबुद्धियुक्तः कर्मयोगः कौशलं कुशलः। दुष्टकर्मनिवारणचतुर इत्यर्थः।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।2.50।। किञ्च **बुद्धीति।** बुद्धियुक्तः समत्वबुद्धियुक्तः योगाय
-समत्वबुद्धियोगाय युज्यस्व घटस्व। योगः सिद्ध्यसिद्ध्योः समत्वबुद्धिः
-कर्मसु बन्धकेष्वपि कौशलं बन्धनिवर्तकत्वसंपादनम्। ननु बुद्धियुक्तः
-कर्मभिर्दुष्कृतं  
-  
-त्यजतुधर्मेण पापमपनुदति इति श्रुतेः सुकृतं तु
-सजातीयत्वात्तैर्दुष्परिहरमिति कथमुभे सुकृतदुष्कृते जहातीत्युच्यते
-सत्वशुद्धिज्ञानोत्पत्तिद्वारेति प्राञ्चः। अर्वाञ्चस्तु
-दुष्कृतत्यागमुक्तरीत्याभ्युपेत्य फलत्यागात्सुकृतत्यागोऽपि कर्मयोगिनो
-भवति। दुष्कृतफलवन्मोक्षप्रतिबन्धकतत्फलस्यानुत्पादात्। यत्तु
-आपस्तम्बोक्ताम्रवृक्षनिदर्शनेन नान्तरीयकं सुकृतफलमुक्तं न
-तत्फलत्वेनोपपद्यते नान्तरीयकत्वादेव। तस्मात्फलद्वारा मोक्षप्रतिबन्धके
-क्रियमाणे एव सुकृतदुष्कृते कर्मयोगी जहाति ज्ञानी तु संचिते अपि ते
-जहातीति तयोर्विशेषे इत्याहुः।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।2.50।। काम्यकर्मणोऽवरत्वमुक्त्वा निष्काम कर्मणः श्रैष्ठ्यमाह
-समत्वबुद्धियुक्तः सत्त्वशुद्धिज्ञानप्राप्तिद्वारेणोभे पुण्यपापे त्यजति
-साङ्ख्यबुद्धिर्युक्त इति वा तस्माद्योगाय समत्वलक्षणकर्मयागानुष्टानार्थ
-षटस्व ज्ञानयोगप्राप्त्यर्थमिति वा। यस्माद्योगः समत्वलक्षणः कर्मसु
-सर्वेषु कौशलं बन्धकानामपि तेषामीश्वरार्पितचेतस्तया
-मोक्षपरत्वसंपादनचातुर्यं ज्ञानयोग इति वा। अस्मिन्पक्षे कर्मसु
-ज्ञानप्रतिबन्धकेषु फलाभिसंधिं विहाय ज्ञानलाभचातुर्यमिति व्याख्येयम्।
-तस्मात्समत्वयुक्तो भवेत्यर्थः।  
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.50।। एतद्बुद्धियोगयुक्त एव निर्द्वन्द्वो भवतीत्याह बुद्धियुक्त इति।
+॥2.50॥ एतद्बुद्धियोगयुक्त एव निर्द्वन्द्वो भवतीत्याह बुद्धियुक्त इति।
 उभे पुण्यपापे स्वर्णलोहबन्धनतुल्ये इहैव जहाति। तस्माद्योगायोक्तस्वरूपाय
 युक्तो भव। योगो हि कर्मसु कौशलं निर्बन्धनतावृत्तिसाधनमिति।
-गुणाविष्करणम्।  
-
+गुणाविष्करणम्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।2.50।। नन्वेवं बुद्धौ किं स्यात् इत्याशङ्क्याह बुद्धियुक्त इति।
+<details><summary>पुरुषोत्तमः</summary>
+
+॥2.50॥ नन्वेवं बुद्धौ किं स्यात् इत्याशङ्क्याह बुद्धियुक्त इति।
 बुद्ध्या युक्त इहैव उभे सुकृतदुष्कृते जहाति। अयमर्थः मयि बुद्ध्या युक्त
 इह अस्मिन्नेव जन्मनि सुकृतफलं स्वर्गादि दुष्कृतफलं नरकं तत्साधने
 सुकृतदुष्कृते त्यजति। सुकृतमुत्तमफलार्थं करोमि दुष्कृतं भ्रमाज्जातं
@@ -563,98 +499,70 @@ _________________
 मन्निष्ठत्वान्मद्दर्शनार्थं मनःस्थिरीकरणसाधकत्वाच्चातुर्यम्।
 साक्षाद्भक्त्यधिकारफलानि वा। मदाज्ञया कर्मकरणं योगः। एतदेव कर्मसु
 चातुर्यं यत्कृत्वाऽपि भक्तिसाधने प्रवेशनीयं तादृशो योग उत्तम इति। इदानीं
-तदधिकाराभावात्तथोपदिशति। अन्यथाकर्मसु इति पदं व्यर्थं स्यात्।  
-  
-  
-  
-
+तदधिकाराभावात्तथोपदिशति। अन्यथाकर्मसु इति पदं व्यर्थं स्यात्।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।2.50।। बुद्धियोगयुक्तस्तु श्रेष्ठ इत्याह **बुद्धीति।** सुकृतं
+॥2.50॥ बुद्धियोगयुक्तस्तु श्रेष्ठ इत्याह **बुद्धीति।** सुकृतं
 स्वर्गादिप्रापकम् दुष्कृतं निरयादिप्रापकम् ते उभे इहैव जन्मनि
 परमेश्वरप्रसादेन जहाति त्यजति। तस्माद्योगाय तदर्थाय कर्मयोगाय युज्यस्व
 घटस्व। यतः कर्मसु यत्कौशलं बन्धकानामपि तेषामीश्वराराधनेन
 मोक्षपरत्वसंपादनचातुर्यं स एव योगः।  
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।2.50।। भावनाओं की दुर्बलताओं से ऊपर उठकर जो पुरुष समत्व बुद्धियुक्त हो
-जाता है वह पाप और पुण्य दोनों के बन्धनों से मुक्त हो जाता है। पाप और
-पुण्य मन की धारणायें हैं और उनकी प्रतिक्रियाएँ मन पर वासनाओं के रूप में
-अंकित होती हैं। मनरूपी विक्षुब्ध समुद्र के साथ जो व्यक्ति तादात्म्य नहीं
-करता वह वासनाओं की ऊँचीऊँची तरंगों के द्वारा न तो ऊपर फेंका जायेगा और न
-नीचे ही डुबोया जायेगा। यहाँ वर्णित मन का बुद्धि के साथ युक्त होना ही
-बुद्धियुक्त शब्द का अर्थ है।  
-इस सम्पूर्ण प्रकरण में गीता का मानव मात्र को आह्वान है कि वह केवल
-इन्द्रियों के विषय स्थूल देह और मन के स्तर पर ही न रहे जो उसके
-व्यक्तित्व का बाह्यतम पक्ष है। इनसे सूक्ष्मतर बुद्धि का उपयोग कर उसको
-अपने वास्तविक पुरुषत्व को व्यक्त करना चाहिये। प्राणियों की सृष्टि में
-केवल बौद्धिक क्षमताओं के कारण ही मनुष्य को सर्वोच्च स्थान प्राप्त है। जब
-तक मनुष्य प्रकृति के इस विशिष्ट उपहार का सम्यक् प्रकार से उपयोग नहीं
-करता तब तक वह अपने मनुष्यत्व के अधिकार से वंचित ही रह जाता है।  
-अर्जुन से मानसिक उन्माद त्यागकर वीर पुरुष के समान परिस्थितियों का स्वामी
-बनकर रहने के लिये भगवान् कहते हैं। उस समय अर्जुन इतना भावुक और दुर्बल हो
-गया था कि वह अपनी व अन्यों के शारीरिक सुरक्षा की चिन्ता करने लगा था।
-विकास की सीढ़ी पर मनुष्यत्व को प्राप्त कर जो अपनी विशेष क्षमताओं का
-पूर्ण उपयोग करता है वही व्यक्ति जन्म जन्मान्तरों में अर्जित वासनाओं के
-बन्धन से मुक्त हो जाता है। इसलिये तुम योग से युक्त हो जाओ यह भगवान्
-श्रीकृष्ण का उपदेश है। इसके पूर्व समत्व को योग कहा गया था। अब इस सन्दर्भ
-में व्यासजी योग की और विशद परिभाषा देते हैं कि कर्म में कुशलता योग है।  
-किसी भी विषय के शास्त्रीय ग्रन्थ में यदि भिन्नभिन्न अध्यायों में एक ही
-शब्द की विभिन्न परिभाषायें दी गई हों तो समझने में कठिनाई और भ्रांति
-होगी। फिर धर्म के इस शास्त्रीय ग्रन्थ में एक ही शब्द की विभिन्न
-परिभाषायें कैसे बताई हुई हैं उपर्युक्त परिभाषा को ठीक से समझने पर इस
-समस्या का स्वयं समाधान हो जायेगा। योग की पूर्वोक्त परिभाषा यहाँ भी
-संग्रहीत है अन्यथा मन के समभाव का अर्थ अकर्मण्यता एवं शिथिलता उत्पन्न
-करने वाली मन की समता को ही कोई समझ सकता है। इस श्लोक में ऐसी त्रुटिपूर्ण
-धारणा को दूर करते हुये कहा गया है कि समस्त प्रकार के द्वन्द्वों में मन
-के सन्तुलन को न खोकर कुशलतापूर्वक कर्म करना ही कम्र्ायोग है।  
-इस श्लोक के स्पष्टीकरण से श्रीकृष्ण का उद्देश्य ज्ञात होता है कि कर्मयोग
-की भावना से कर्म करने पर वासनाओं का क्षय होता है। वासनाओं के दबाव से ही
-मन में विक्षेप उठते हैं। किन्तु वासना क्षय के कारण मन स्थिर और शुद्ध
-होकर मनन निदिध्यासन और आत्मानुभूति के योग्य बन जाता है।  
-योग शब्द का इस अथ मेंर् प्रयोग कर व्यास जी हमारे मन में उसके प्रति
-व्याप्त भ्राँति को दूर कर देते हैं।  
-  
-समत्व भाव एवं कर्म में कुशलता की क्या आवश्यकता है उत्तर में कहते हैं  
-
+2.50 A man with evenness of mind discards here and now good and evil.
+Therefore endeavour for Yoga. Yoga is skill in action.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।2.50।। समत्वबुद्धि युक्त पुरुष यहां (इस जीवन में) पुण्य और पाप इन
-दोनों कर्मों को त्याग देता है; इसलिये तुम योग से युक्त हो जाओ। कर्मों
-में कुशलता योग है।।  
-  
+<details><summary>गम्भीरानन्दः</summary>
 
+2.50 Possessed of wisdom, one rejects here both virtue and vice.
+Therefore devote yourself to (Karma-) yoga. Yoga is skilfulness in action.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+2.50 When a man attains to Pure Reason, he renounces in this world the results of good and evil alike. Cling thou to Right Action. Spirituality is the real art of living.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+2.50. Whosoever is endowed with determining faculty-he casts off both of these viz., the good action and the bad action. Therefore strive for Yoga; Yoga is proficiency is action.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+2.50 Endowed with wisdom (evenness of mind), one casts off in this life both good and evil deeds; therefore, devote thyself to Yoga; Yoga is skill in action.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+2.50 बुद्धियुक्तः endowed with wisdom; जहाति casts off; इह in this life;
+उभे both; सुकृतदुष्कृते good and evil deeds; तस्मात् therefore; योगाय to Yoga; युज्यस्व devote thyself; योगः Yoga; कर्मसु in actions; कौशलम्
+skill.Commentary Work performed with motive towards fruits only can bind a man. It will bring the fruits and the performer of the action will have to take birth again in this mortal world to enjoy them. If work is performed with evennes of mind (the Yoga of wisdom; i.e.; united to pure Buddhi; intelligence or reason) with the mind resting in the Lord; it will not bind him it will not bring any fruit it is no work at all.
+Actions which are of a binding nature lose that nature when performed with eanimity of mind; or poised reason. The Yogi of poised reason attributes all actions to the Divine Actor within (Isvara or God).
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.50।। बुद्धि-(समता) से युक्त मनुष्य यहाँ जीवित अवस्थामें ही पुण्य और
 पाप दोनोंका त्याग कर देता है। अतः तू योग-(समता-) में लग जा, क्योंकि योग
 ही कर्मोंमें कुशलता है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 *।।2.50।।***व्याख्या--'बुद्धियुक्तो जहातीह उभे
 सुकृतदुष्कृते'--**समतायुक्त मनुष्य जीवित अवस्थामें ही पुण्य-पापका त्याग
@@ -699,57 +607,56 @@ _________________
 (समता) का ही प्रसङ्ग है, कुशलताका प्रसङ्ग ही नहीं है। इसलिये भी
 कर्मोंमें योग ही कुशलता है-- यह अर्थ लेना प्रसङ्गके अनुसार युक्तियुक्त
 है।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-2.50. Whosoever is endowed with determining faculty-he casts off both of these viz., the good action and the bad action. Therefore strive for Yoga; Yoga is proficiency is action.
-
+।।2.50।। भावनाओं की दुर्बलताओं से ऊपर उठकर जो पुरुष समत्व बुद्धियुक्त हो
+जाता है वह पाप और पुण्य दोनों के बन्धनों से मुक्त हो जाता है। पाप और
+पुण्य मन की धारणायें हैं और उनकी प्रतिक्रियाएँ मन पर वासनाओं के रूप में
+अंकित होती हैं। मनरूपी विक्षुब्ध समुद्र के साथ जो व्यक्ति तादात्म्य नहीं
+करता वह वासनाओं की ऊँचीऊँची तरंगों के द्वारा न तो ऊपर फेंका जायेगा और न
+नीचे ही डुबोया जायेगा। यहाँ वर्णित मन का बुद्धि के साथ युक्त होना ही
+बुद्धियुक्त शब्द का अर्थ है।  
+इस सम्पूर्ण प्रकरण में गीता का मानव मात्र को आह्वान है कि वह केवल
+इन्द्रियों के विषय स्थूल देह और मन के स्तर पर ही न रहे जो उसके
+व्यक्तित्व का बाह्यतम पक्ष है। इनसे सूक्ष्मतर बुद्धि का उपयोग कर उसको
+अपने वास्तविक पुरुषत्व को व्यक्त करना चाहिये। प्राणियों की सृष्टि में
+केवल बौद्धिक क्षमताओं के कारण ही मनुष्य को सर्वोच्च स्थान प्राप्त है। जब
+तक मनुष्य प्रकृति के इस विशिष्ट उपहार का सम्यक् प्रकार से उपयोग नहीं
+करता तब तक वह अपने मनुष्यत्व के अधिकार से वंचित ही रह जाता है।  
+अर्जुन से मानसिक उन्माद त्यागकर वीर पुरुष के समान परिस्थितियों का स्वामी
+बनकर रहने के लिये भगवान् कहते हैं। उस समय अर्जुन इतना भावुक और दुर्बल हो
+गया था कि वह अपनी व अन्यों के शारीरिक सुरक्षा की चिन्ता करने लगा था।
+विकास की सीढ़ी पर मनुष्यत्व को प्राप्त कर जो अपनी विशेष क्षमताओं का
+पूर्ण उपयोग करता है वही व्यक्ति जन्म जन्मान्तरों में अर्जित वासनाओं के
+बन्धन से मुक्त हो जाता है। इसलिये तुम योग से युक्त हो जाओ यह भगवान्
+श्रीकृष्ण का उपदेश है। इसके पूर्व समत्व को योग कहा गया था। अब इस सन्दर्भ
+में व्यासजी योग की और विशद परिभाषा देते हैं कि कर्म में कुशलता योग है।  
+किसी भी विषय के शास्त्रीय ग्रन्थ में यदि भिन्नभिन्न अध्यायों में एक ही
+शब्द की विभिन्न परिभाषायें दी गई हों तो समझने में कठिनाई और भ्रांति
+होगी। फिर धर्म के इस शास्त्रीय ग्रन्थ में एक ही शब्द की विभिन्न
+परिभाषायें कैसे बताई हुई हैं उपर्युक्त परिभाषा को ठीक से समझने पर इस
+समस्या का स्वयं समाधान हो जायेगा। योग की पूर्वोक्त परिभाषा यहाँ भी
+संग्रहीत है अन्यथा मन के समभाव का अर्थ अकर्मण्यता एवं शिथिलता उत्पन्न
+करने वाली मन की समता को ही कोई समझ सकता है। इस श्लोक में ऐसी त्रुटिपूर्ण
+धारणा को दूर करते हुये कहा गया है कि समस्त प्रकार के द्वन्द्वों में मन
+के सन्तुलन को न खोकर कुशलतापूर्वक कर्म करना ही कम्र्ायोग है।  
+इस श्लोक के स्पष्टीकरण से श्रीकृष्ण का उद्देश्य ज्ञात होता है कि कर्मयोग
+की भावना से कर्म करने पर वासनाओं का क्षय होता है। वासनाओं के दबाव से ही
+मन में विक्षेप उठते हैं। किन्तु वासना क्षय के कारण मन स्थिर और शुद्ध
+होकर मनन निदिध्यासन और आत्मानुभूति के योग्य बन जाता है।  
+योग शब्द का इस अथ मेंर् प्रयोग कर व्यास जी हमारे मन में उसके प्रति
+व्याप्त भ्राँति को दूर कर देते हैं।  
+  
+समत्व भाव एवं कर्म में कुशलता की क्या आवश्यकता है उत्तर में कहते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.50 Possessed of wisdom, one rejects here both virtue and vice.
-Therefore devote yourself to (Karma-) yoga. Yoga is skilfulness in action.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।2.50।। समत्वबुद्धि युक्त पुरुष यहां (इस जीवन में) पुण्य और पाप इन
+दोनों कर्मों को त्याग देता है; इसलिये तुम योग से युक्त हो जाओ। कर्मों
+में कुशलता योग है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.50 When a man attains to Pure Reason, he renounces in this world the results of good and evil alike. Cling thou to Right Action. Spirituality is the real art of living.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-2.50 A man with evenness of mind discards here and now good and evil.
-Therefore endeavour for Yoga. Yoga is skill in action.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-2.50 Endowed with wisdom (evenness of mind), one casts off in this life both good and evil deeds; therefore, devote thyself to Yoga; Yoga is skill in action.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-2.50 बुद्धियुक्तः endowed with wisdom; जहाति casts off; इह in this life;
-उभे both; सुकृतदुष्कृते good and evil deeds; तस्मात् therefore; योगाय to Yoga; युज्यस्व devote thyself; योगः Yoga; कर्मसु in actions; कौशलम्
-skill.Commentary Work performed with motive towards fruits only can bind a man. It will bring the fruits and the performer of the action will have to take birth again in this mortal world to enjoy them. If work is performed with evennes of mind (the Yoga of wisdom; i.e.; united to pure Buddhi; intelligence or reason) with the mind resting in the Lord; it will not bind him it will not bring any fruit it is no work at all.
-Actions which are of a binding nature lose that nature when performed with eanimity of mind; or poised reason. The Yogi of poised reason attributes all actions to the Divine Actor within (Isvara or God).
-
-</details>
 </div>

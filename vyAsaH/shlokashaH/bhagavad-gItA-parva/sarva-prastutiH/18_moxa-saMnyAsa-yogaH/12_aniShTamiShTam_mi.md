@@ -1,225 +1,63 @@
 +++
 title = "12 अनिष्टमिष्टम् मिश्रम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **अनिष्टम् इष्टं मिश्रं** च  
 त्रिविधं कर्मणः **फलम्**।  
 भवत्य् **अत्यागिनां** प्रेत्य  
 न तु संन्यासिनां क्वचित्॥18.12॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम्।  
-भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित्।।18.12।।
+भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित्॥18.12॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।18.12।।**अनिष्टं** नरकादिफलम्; **इष्टं** स्वर्गादि; **मिश्रम्**
-अनिष्टसंभिन्नं पुत्रपश्वन्नादि एतत् **त्रिविधं कर्मणः फलम् अत्यागिनां**
-कर्तृत्वममताफलत्यागरहितानां प्रेत्य भवति प्रेत्य कर्मानुष्ठानोत्तरकालम्
-इत्यर्थः। **न तु संन्यासिनां क्वचित्** न तु कर्तृत्वादिपरित्यागिनां
-क्वचिद् अपि मोक्षविरोधि फलं भवति।  
-  
-एतद् उक्तं भवति -- यद्यपि अग्निहोत्रमहायज्ञादीनि नित्यानि एव; तथापि
-जीवनाधिकारकामाधिकारयोः इव मोक्षाधिकारे च विनियोगपृथक्त्वेन परिह्रियते;
-मोक्षविनियोगः च -- तमेतं वेदानुवचनेन ब्राह्मणाविविदिषन्ति यज्ञेन दानेन
-तपसानाशकेन (बृ॰ उ॰ 4।4।22) इत्यादिभिः इति। तद् एवं क्रियमाणेषु एव कर्मसु
-कर्तृत्वादिपरित्यागः शास्त्रसिद्धः संन्यासः स एव च त्याग इति
-उक्तः। इदानीं भगवति पुरुषोत्तमे अन्तर्यामिणि कर्तृत्वानुसंधानेन आत्मनि
-अकर्तृत्वानुसन्धानप्रकारम् आह। तत एव फलकर्मणोः अपि ममतापरित्यागो भवति
-इति। परमपुरुषो हि स्वकीयेन जीवात्मना स्वकीयैः च करणकलेवरप्राणैः
-स्वलीलाप्रयोजनाय कर्माणि आरभते। अतो जीवात्मगतं क्षुन्निवृत्त्यादिकम् अपि
-फलं तत्साधनभूतं च कर्म परमपुरुषस्य एव --
-
+॥18.12॥**अनिष्टं** नरकादिफलम्; **इष्टं** स्वर्गादि; **मिश्रम्** अनिष्टसम्भिन्नं पुत्रपश्वन्नाद्य् एतत् **त्रिविधं कर्मणः फलम् अत्यागिनां** कर्तृत्वममताफलत्यागरहितानां प्रेत्य भवति प्रेत्य कर्मानुष्ठानोत्तरकालम् इत्यर्थः। **न तु सन्न्यासिनां क्वचित्** न तु कर्तृत्वादिपरित्यागिनां क्वचिद् अपि मोक्षविरोधि फलं भवति।  
+        
+एतद् उक्तं भवति -- यद्यप्य् अग्निहोत्र-महायज्ञादीनि नित्यान्य् एव;  
+तथापि जीवनाधिकारकामाधिकारयोर् इव मोक्षाधिकारे च विनियोगपृथक्त्वेन परिह्रियते;  
+मोक्षविनियोगश् च -- तमेतं वेदानुवचनेन ब्राह्मणाविविदिषन्ति यज्ञेन दानेन तपसानाशकेन (बृ॰ उ॰ 4।4।22) इत्यादिभिर् इति। तद् एवं क्रियमाणेष्व् एव कर्मसु कर्तृत्वादिपरित्यागः शास्त्रसिद्धः सन्न्यासः स एव च त्याग इत्य् उक्तः। इदानीं भगवति पुरुषोत्तमे अन्तर्यामिणि कर्तृत्वानुसन्धानेन आत्मन्य् अकर्तृत्वानुसन्धानप्रकारम् आह। तत एव फलकर्मणोर् अपि ममतापरित्यागो भवति इति। परमपुरुषो हि स्वकीयेन जीवात्मना स्वकीयैश् च करणकलेवरप्राणैः स्वलीलाप्रयोजनाय कर्माण्य् आरभते। अतो जीवात्मगतं क्षुन्निवृत्त्यादिकम् अपि फलं तत्साधनभूतं च कर्म परमपुरुषस्य एव --
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.12।। लौकिकफलसाधनकर्मप्रक्रिययैव हि वैदिकानामपि
-फलसाधनत्वव्यवस्थापनम्। लौकिकानि च कर्माणि फलेच्छाभावेऽपि स्वशक्त्यनुरूपं
-फलन्ति। एवं वैदिकेष्वपीत्यभिप्रायेण शङ्कते -- नन्विति।
-नन्वग्निहोत्रादीनां महायज्ञादीनां च विनियोगपृथक्त्वेन
-आश्रमाङ्गत्वस्वर्गाद्यर्थत्वाविरोधात् स्वर्गाद्यर्थतयाऽनुष्ठानं मा भूत्;
-आश्रमार्थतयाऽनुष्ठाने तु को विरोधः इत्यत्राऽऽह --
-नित्यनैमित्तिकानामपीति। बीजावापादिदृष्टान्तेनअकुशलम् \[18।10\]
-इत्युक्तस्य प्रामादिकस्यापि बन्धकत्वं सूचितम्। न हि भूमौ प्रमादनिपतितं
-बीजं न फलति ()। तस्मादमृतरसार्थिनो विषतरुबीजावापतुल्योऽयं कर्मकलाप
-इत्यभिप्रायेण फलितं स्वरूपत्यागमाह -- अत
-इति। अमुमुक्षूणामिदमनिष्टत्वादित्रैविध्यम्; मुमुक्ष्वपेक्षया
-स्वर्गादेरप्यनिष्टत्वादित्यभिप्रायेण नरकस्वर्गादिकथनम्।
-कारीर्यादिसाध्यवृष्ट्यादिफलानां जीवद्दशाभावित्वस्थितेः। प्रेत्य इति
-प्रदर्शनार्थम् अन्यथा तस्मिन्नेव शरीरे त्यागिनामपि त्रिविधस्यापि फलस्य
-आरम्भानुमतिप्रसङ्गात्न तु सन्न्यासिनां क्वचित् इति व्यतिरेकोक्त्या
-तस्यापि बाधाच्चेत्यभिप्रायेणाऽऽहकर्मानुष्ठानोत्तरकालमिति।
-अत्राप्यनिष्टफलानन्वयः पूर्वोक्तरीत्या प्रामादिककर्मविषयो
-भन्तव्यः। ,उक्तस्य चोद्यस्य प्रतिज्ञामात्रेणोत्तरमिदमुच्यते न तु
-कयाचिद्युक्त्येत्यत आह -- एतदुक्तमिति। विनियोगपृथक्त्वं
-विनियोजकवाक्यपृथक्त्वेन ग्राह्यम्। विनियोगात् पृथक्त्वेन
-ज्योतिष्टोमादिषु पापक्षयादिनानाफलत्वं सिद्धम्। परिह्रियते --
-विरुद्धफलत्वचोद्यमिति शेषः। ननु तमेवं विद्वानमृत इह भवति। नान्यः पन्थाः
-\[यजुस्सं.31।18तै.आ.3।1।3त्रि.म.ना.4।3चित्त्यु.12।713।1महाना.3\] इति
-नियमनाद्वेदनमेव मोक्षसाधनतया विधीयते कर्म तु व्यवच्छिद्यते अतः कथं
-मोक्षाधिकारे विनियोगोक्तिः तत्राऽऽह -- मोक्षविनियोगश्चेति। असिना जिघांसति
-अश्वेन जिगमिषति इत्यादिष्विवार्थस्वभावादिहापीष्यमाणधात्वर्थकरणतयाऽन्वयः।
-अतो वेदनोत्पत्तिद्वारेण परम्परया साधनत्वान्मोक्षविनियोगः।
-अव्यवहितसाधनविवक्षया तु नान्यः पन्थाः
-\[श्वेता.3।86।15ना.प.9।1त्रि.म.ना.4।3महाना.3चित्त्यु.12।7\]
-इत्यादिभिर्निषेध इति भावः। एवं परिप्रश्नाभिप्रेतमन्यधापि
-प्रतिवक्तुमुपक्रमत इत्यभिप्रायेण सङ्गत्यर्थमुक्तमंशं निगमनच्छाययाऽनुवदति
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥18.12॥ लौकिकफलसाधनकर्मप्रक्रिययैव हि वैदिकानामपि फलसाधनत्वव्यवस्थापनम्। लौकिकानि च कर्माणि फलेच्छाभावेऽपि स्वशक्त्यनुरूपं फलन्ति। एवं वैदिकेष्वपीत्यभिप्रायेण शङ्कते -- नन्विति। नन्वग्निहोत्रादीनां महायज्ञादीनां च विनियोगपृथक्त्वेन आश्रमाङ्गत्वस्वर्गाद्यर्थत्वाविरोधात् स्वर्गाद्यर्थतयाऽनुष्ठानं मा भूत्; आश्रमार्थतयाऽनुष्ठाने तु को विरोधः इत्यत्राऽऽह -- नित्यनैमित्तिकानामपीति। बीजावापादिदृष्टान्तेनअकुशलम् \[18।10\] इत्युक्तस्य प्रामादिकस्यापि बन्धकत्वं सूचितम्। न हि भूमौ प्रमादनिपतितं बीजं न फलति ()। तस्मादमृतरसार्थिनो विषतरुबीजावापतुल्योऽयं कर्मकलाप इत्यभिप्रायेण फलितं स्वरूपत्यागमाह -- अत इति। अमुमुक्षूणामिदमनिष्टत्वादित्रैविध्यम्; मुमुक्ष्वपेक्षया स्वर्गादेरप्यनिष्टत्वादित्यभिप्रायेण नरकस्वर्गादिकथनम्। कारीर्यादिसाध्यवृष्ट्यादिफलानां जीवद्दशाभावित्वस्थितेः। प्रेत्य इति प्रदर्शनार्थम् अन्यथा तस्मिन्नेव शरीरे त्यागिनामपि त्रिविधस्यापि फलस्य आरम्भानुमतिप्रसङ्गात्न तु सन्न्यासिनां क्वचित् इति व्यतिरेकोक्त्या तस्यापि बाधाच्चेत्यभिप्रायेणाऽऽहकर्मानुष्ठानोत्तरकालमिति। अत्राप्यनिष्टफलानन्वयः पूर्वोक्तरीत्या प्रामादिककर्मविषयो भन्तव्यः। ,उक्तस्य चोद्यस्य प्रतिज्ञामात्रेणोत्तरमिदमुच्यते न तु कयाचिद्युक्त्येत्यत आह -- एतदुक्तमिति। विनियोगपृथक्त्वं विनियोजकवाक्यपृथक्त्वेन ग्राह्यम्। विनियोगात् पृथक्त्वेन ज्योतिष्टोमादिषु पापक्षयादिनानाफलत्वं सिद्धम्। परिह्रियते -- विरुद्धफलत्वचोद्यमिति शेषः। ननु तमेवं विद्वानमृत इह भवति। नान्यः पन्थाः \[यजुस्सं.31।18तै.आ.3।1।3त्रि.म.ना.4।3चित्त्यु.12।713।1महाना.3\] इति नियमनाद्वेदनमेव मोक्षसाधनतया विधीयते कर्म तु व्यवच्छिद्यते अतः कथं मोक्षाधिकारे विनियोगोक्तिः तत्राऽऽह -- मोक्षविनियोगश्चेति। असिना जिघांसति अश्वेन जिगमिषति इत्यादिष्विवार्थस्वभावादिहापीष्यमाणधात्वर्थकरणतयाऽन्वयः। अतो वेदनोत्पत्तिद्वारेण परम्परया साधनत्वान्मोक्षविनियोगः। अव्यवहितसाधनविवक्षया तु नान्यः पन्थाः \[श्वेता.3।86।15ना.प.9।1त्रि.म.ना.4।3महाना.3चित्त्यु.12।7\] इत्यादिभिर्निषेध इति भावः। एवं परिप्रश्नाभिप्रेतमन्यधापि प्रतिवक्तुमुपक्रमत इत्यभिप्रायेण सङ्गत्यर्थमुक्तमंशं निगमनच्छाययाऽनुवदति
 -- तदेवमिति। तत् -- स्वरूपत्यागादेस्तामसत्वादित्यर्थः। एवं
-वर्णाश्रमादिनियतस्य दुस्त्यजत्वप्रकारेणेत्यर्थः। अस्मिन्नेव
-श्लोकेभवत्यत्यागिनां प्रेत्य न तु सन्न्यासिनां क्वचित् इति
-त्यागाभावविपर्ययस्य सन्न्यासशब्देनानुकथनात्त्यागसन्न्यासपृथक्त्वशङ्का च
-परिहृतेत्याह -- स एव च त्याग इति।  
-  
-
+वर्णाश्रमादिनियतस्य दुस्त्यजत्वप्रकारेणेत्यर्थः। अस्मिन्नेव श्लोकेभवत्यत्यागिनां प्रेत्य न तु सन्न्यासिनां क्वचित् इति त्यागाभावविपर्ययस्य सन्न्यासशब्देनानुकथनात्त्यागसन्न्यासपृथक्त्वशङ्का च परिहृतेत्याह -- स एव च त्याग इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.12 The 'undesirable result' is Naraka etc., 'the desirable' is heaven
-etc., 'the mixed' is sons, cows, food etc., which are combined with some
-undesirable results. Those who have not renounced, namely, those who are
-devoid of renunciation of agency, possessiveness and fruits - they meet
-with threefold conseences after death. The meaning of 'after death'
+<details><summary>आदिदेवानन्दः</summary>
+
+18.12 The 'undesirable result' is Naraka etc., 'the desirable' is heaven etc., 'the mixed' is sons, cows, food etc., which are combined with some undesirable results. Those who have not renounced, namely, those who are devoid of renunciation of agency, possessiveness and fruits - they meet with threefold conseences after death. The meaning of 'after death'
 (Pretya) may be understood as subseent to the performance of actions.
-But 'to those who have renounced, none whatsoever,' viz., to those who
-have relinished the sense of agency etc., no such results antagonistic
-to release accrue. Here the purport is this: Agnihotra, the great
-sacrifices etc. are obligatory throughout life and are reired for
-attaining the objects of desire; but in regard to release their
-application is different. Though externally they appear to be the same
-in their nature in both the conditions, they are different in their
-fruits by virtue of difference in application. Their application to
-release is seen in such texts as 'The Brahmanas desire to know Him by
-the study of the Vedas, by sacrifices, by gifts, by austerities
-conjoined with fasting' (Br. U., 4.4.22). Here the performance of
-actions without sense of agency is enforced. Such giving up agency etc.,
-are relevant only with regard to acts that are actually performed. Thus
-Sannyasa or renouncing of this kind is established in the Sastras. The
-same is also called Tyaga or giving up. Sri Krsna now explains the
-manner of realising that one is non-agent, by attributing all agency to
-God, who is the Supreme Person and the Inner Ruler, By cultivating this
-attitude, an aspirant can attain the renunciation of possessiveness with
-regard to actions and also their fruits. For it is the Supreme Person
-who performs all actions through the individual selves who belong to
-Him. The organs, bodies and Pranas of embodied beings are His. They
-exist for the sake of His own sport as the only purpose. Therefore, even
-the appeasement of hunger etc., and such other acts which affect the
-life of the individual souls and their works constitute only the means
-for accomplishing that purpose, namely, the sport of the Highest Purusa
-Himself. The purport of the argument is this: The analogy of seeds
-producing the tree and its fruits is not applicable to the actions of
-release-seekers. Their actions may look like those of fruit-seekers
-externally. But as mentally they do not entertain any such purpose, the
-conseence of their actions can be ite different. The purpose served by
-their actions is only affording sport for the Supreme Being.
-
+But 'to those who have renounced, none whatsoever,' viz., to those who have relinished the sense of agency etc., no such results antagonistic to release accrue. Here the purport is this: Agnihotra, the great sacrifices etc. are obligatory throughout life and are reired for attaining the objects of desire; but in regard to release their application is different. Though externally they appear to be the same in their nature in both the conditions, they are different in their fruits by virtue of difference in application. Their application to release is seen in such texts as 'The Brahmanas desire to know Him by the study of the Vedas, by sacrifices, by gifts, by austerities conjoined with fasting' (Br. U., 4.4.22). Here the performance of actions without sense of agency is enforced. Such giving up agency etc., are relevant only with regard to acts that are actually performed. Thus Sannyasa or renouncing of this kind is established in the Sastras. The same is also called Tyaga or giving up. Sri Krsna now explains the manner of realising that one is non-agent, by attributing all agency to God, who is the Supreme Person and the Inner Ruler, By cultivating this attitude, an aspirant can attain the renunciation of possessiveness with regard to actions and also their fruits. For it is the Supreme Person who performs all actions through the individual selves who belong to Him. The organs, bodies and Pranas of embodied beings are His. They exist for the sake of His own sport as the only purpose. Therefore, even the appeasement of hunger etc., and such other acts which affect the life of the individual souls and their works constitute only the means for accomplishing that purpose, namely, the sport of the Highest Purusa Himself. The purport of the argument is this: The analogy of seeds producing the tree and its fruits is not applicable to the actions of release-seekers. Their actions may look like those of fruit-seekers externally. But as mentally they do not entertain any such purpose, the conseence of their actions can be ite different. The purpose served by their actions is only affording sport for the Supreme Being.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.12।। अनिष्टमिति। अत्यागिनाम् -- फलमयानाम् +++(S;;N तन्मयानाम् )+++।
-
+॥18.12॥ --,**अनिष्टं** नरकतिर्गयादिलक्षणम्; **इष्टं** देवादिलक्षणम्; **मिश्रम्** इष्टानिष्टसंयुक्तं मनुष्यलक्षणं **च;** तत् **त्रिविधं** त्रिप्रकारं **कर्मणः,धर्माधर्मलक्षणस्य** फलं **बाह्यानेककारकव्यापारनिष्पन्नं सत् अविद्याकृतम् इन्द्रजालमायोपमं महामोहकरं प्रत्यगात्मोपसर्पि इव -- फल्गुतया लयम् अदर्शनं गच्छतीति फलनिर्वचनम् -- तत् एतत् एवंलक्षणं फलं** भवति अत्यागिनाम् **अज्ञानां कर्मिणां अपरमार्थसंन्यासिनां** प्रेत्य **शरीरपातात् ऊर्ध्वम्।** न तु संन्यासिनां **परमार्थसंन्यासिनां परमहंसपरिव्राजकानां केवलज्ञाननिष्ठानां** क्वचित्। **न हि केवलसम्यग्दर्शननिष्ठा अविद्यादिसंसारबीजं न उन्मूलयन्ति कदाचित् इत्यर्थः। अतः परमार्थदर्शिनः एव अशेषकर्मसंन्यासित्वं संभवति; अविद्याध्यारोपितत्वात् आत्मनि क्रियाकारकफलानाम् न तु अज्ञस्य अधिष्ठानादीनि क्रियाकर्तृकारकाणि आत्मत्वेनैव पश्यतः अशेषकर्मसंन्यासः संभवति॥ तदेतत् उत्तरैः श्लोकैः दर्शयति --,**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.12 Anistam etc. To those who are not men of relinishment : to those
-who are full of \[desire for\] fruit. Even at the stage of mundane life,
-where all the five factors do exist for actions, those persons, blind
-with their ignorance, obstinately burden their own Self with the entire
-load of agency. Hence they fetter their own Self with their own
-thinking. But, in fact, there is no bondage for Him (the Self). This is
-now being taught as :
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।18.12।। त्यागं स्तौति -- अनिष्टमिति।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।18.12।। कर्मफलाभावो नाम संसारनिवृत्तिरेव; सा कथं त्यागफलत्वेनोच्यते
-इत्यत आह -- **त्याग**मिति। उपपादितमेतत्त्यागाच्छान्तिः \[12।12\]
-इत्यत्र।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।18.12।। --,**अनिष्टं** नरकतिर्गयादिलक्षणम्; **इष्टं** देवादिलक्षणम्;
-**मिश्रम्** इष्टानिष्टसंयुक्तं मनुष्यलक्षणं **च;** तत् **त्रिविधं**
-त्रिप्रकारं **कर्मणः,धर्माधर्मलक्षणस्य** फलं
-**बाह्यानेककारकव्यापारनिष्पन्नं सत् अविद्याकृतम् इन्द्रजालमायोपमं
-महामोहकरं प्रत्यगात्मोपसर्पि इव -- फल्गुतया लयम् अदर्शनं गच्छतीति
-फलनिर्वचनम् -- तत् एतत् एवंलक्षणं फलं** भवति अत्यागिनाम् **अज्ञानां
-कर्मिणां अपरमार्थसंन्यासिनां** प्रेत्य **शरीरपातात् ऊर्ध्वम्।** न तु
-संन्यासिनां **परमार्थसंन्यासिनां परमहंसपरिव्राजकानां
-केवलज्ञाननिष्ठानां** क्वचित्। **न हि केवलसम्यग्दर्शननिष्ठा
-अविद्यादिसंसारबीजं न उन्मूलयन्ति कदाचित् इत्यर्थः। अतः परमार्थदर्शिनः एव
-अशेषकर्मसंन्यासित्वं संभवति; अविद्याध्यारोपितत्वात् आत्मनि
-क्रियाकारकफलानाम् न तु अज्ञस्य अधिष्ठानादीनि क्रियाकर्तृकारकाणि
-आत्मत्वेनैव पश्यतः अशेषकर्मसंन्यासः संभवति।। तदेतत् उत्तरैः श्लोकैः
-दर्शयति --,**
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।18.12।। सर्व कर्मोंका त्याग करनेसे जो फल होता है; वह क्या है इसपर कहते
-हैं; --, अनिष्ट -- नरक और पशुपक्षी आदि योनिरूप इष्ट -- देवयोनिरूप तथा
-मिश्र -- इष्ट और अनिष्टमिश्रित मनुष्ययोनिरूप; इस प्रकार यह पुण्यपापरूप
-कर्मोंका फल तीन प्रकारका होता है। जो पदार्थ बाह्य कर्ता; कर्म; क्रिया
-आदि अनेक कारकोंद्वारा निष्पन्न हुआ हो और बाजीगरकी मायाके समान;
-अविद्याजनित; महामोहकारक हो; एवं जीवात्माके आश्रितसा प्रतीत होता हो और
-साररहित होनेके कारण तत्काल ही लय -- नष्ट हो जाताहो; उसका नाम फल है। यह
-फल शब्दकी व्याख्या है। ऐसा यह तीन प्रकारका फल; अत्यागियोंको अर्थात्
-परमार्थसंन्यास न करनेवाले कर्मनिष्ठ अज्ञानियोंको ही; मरनेके पीछे मिलता
-है। केवल ज्ञाननिष्ठामें स्थित परमहंसपरिव्राजक वास्तविक संन्यासियोंको;
-कभी नहीं मिलता। क्योंकि ( वे ) केवल सम्यग्ज्ञाननिष्ठ पुरुष; संसारके
-बीजरूप अविद्यादि दोषोंका मूलोच्छेद नहीं करते; ऐसा कभी नहीं हो सकता।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 18.12 These trividham, threefold-of three kinds; phalam, results;
 karmanah, of actions characterized as the righteous and the unritheous;
@@ -249,13 +87,27 @@ on the Self through ignorance. But the renunciation of all actions is
 not possible for an unenlightened person who perceives the locus (the
 body etc.), action, agentship and accessories as the Self. This the Lord
 shows in the following verses:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।18.12।। उक्ताधिकारिणः सर्वकर्मसंन्यासासंभवेऽपि फलाभावे कुतस्तस्य
+<details><summary>हरिकृष्णदासः</summary>
+
+॥18.12॥ सर्व कर्मोंका त्याग करनेसे जो फल होता है; वह क्या है इसपर कहते
+हैं; --, अनिष्ट -- नरक और पशुपक्षी आदि योनिरूप इष्ट -- देवयोनिरूप तथा
+मिश्र -- इष्ट और अनिष्टमिश्रित मनुष्ययोनिरूप; इस प्रकार यह पुण्यपापरूप
+कर्मोंका फल तीन प्रकारका होता है। जो पदार्थ बाह्य कर्ता; कर्म; क्रिया
+आदि अनेक कारकोंद्वारा निष्पन्न हुआ हो और बाजीगरकी मायाके समान;
+अविद्याजनित; महामोहकारक हो; एवं जीवात्माके आश्रितसा प्रतीत होता हो और
+साररहित होनेके कारण तत्काल ही लय -- नष्ट हो जाताहो; उसका नाम फल है। यह
+फल शब्दकी व्याख्या है। ऐसा यह तीन प्रकारका फल; अत्यागियोंको अर्थात्
+परमार्थसंन्यास न करनेवाले कर्मनिष्ठ अज्ञानियोंको ही; मरनेके पीछे मिलता
+है। केवल ज्ञाननिष्ठामें स्थित परमहंसपरिव्राजक वास्तविक संन्यासियोंको;
+कभी नहीं मिलता। क्योंकि ( वे ) केवल सम्यग्ज्ञाननिष्ठ पुरुष; संसारके
+बीजरूप अविद्यादि दोषोंका मूलोच्छेद नहीं करते; ऐसा कभी नहीं हो सकता।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥18.12॥ उक्ताधिकारिणः सर्वकर्मसंन्यासासंभवेऽपि फलाभावे कुतस्तस्य
 कर्तव्यतेति शङ्कते -- **किं** **पुनरिति।** गौणस्य मुख्यस्य वा संन्यासस्य
 फलं पिपृच्छिषितमिति विकल्पयति -- **उच्यत इति।** सर्वकर्मत्यागो नाम
 तदनुष्ठानेऽपि तत्फलाभिसन्धित्यागः। स चामुख्यसंन्यासस्तस्य फलमाह --
@@ -277,13 +129,62 @@ shows in the following verses:
 **केवलेति।** क्वचिद्देशे काले वा नास्ति यथोक्तं फलं तेषामिति संबन्धः।
 तर्हि परमार्थसंन्यासोऽफलत्वान्नानुष्ठियेतेत्याशङ्क्य तस्य
 मोक्षावसायित्वान्मैवमित्याह -- **नहीति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।18.12।। ननु देहभृतः परमात्मज्ञानशून्यस्य कर्मिणोऽपि
+<details><summary>नीलकण्ठः</summary>
+
+॥18.12॥ एवंभूतस्य त्यागस्य फलमाह -- **अनिष्टमिति।** अनिष्टं
+नरकतिर्यगादिरूपम्; इष्टं देवतादिरूपम्; मिश्रं मानुषभाव इति कर्मणः
+कर्मजातीयस्य फलं त्रिविधं प्रेत्य मरणानन्तरमत्यागिनां
+पूर्वोक्तमुख्यसंन्यासहीनानां भवति मुख्यसंन्यासिनां तु क्वचित्तद्भवति।
+तेषां कर्तृत्वाभिमानाभावात्। अन्ये तु गौणसंन्यासिनामेवायं कर्मालेप
+इत्याहुः। तथा च व्याख्यातंकार्यमित्येव यत्कर्म इत्यत्र। अन्यथा
+संन्यासिनां गौणसंन्यासिनां च विशेषो न स्यात्। न चैवं मुख्यसंन्यासिनां
+गौणसंन्यासिनां चाविशेषापत्तिरिति वाच्यम्।
+उभयेषामुत्तरकर्माश्लेषसाम्येऽपि पूर्वकर्मदाहादाहकृतस्य विशेषस्य
+सत्त्वात्। गौणसंन्यासिनां जन्मान्तरादिकमपि पूर्वकर्मभिरेव भविष्यति
+आपस्तम्बोक्ताम्रनिदर्शनेन योगभ्रष्टगतिवन्नान्तरीयकं वा न तु तस्य प्रधानं
+फलं स्वर्गादिभवितुमर्हत्यनुद्दिष्टत्वादिति।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥18.12॥ अमुख्यसंन्यासापेक्षया मुख्यासंन्यासस्य विशिष्टं प्रयोजनं
+किमित्यागाङ्क्षायमाह -- अनिष्टं नरकतिर्यगादिलक्षणम्;,इष्टं
+देवादिलक्षणम्; मिश्रमिष्टानिष्टसंयुक्तं मनुष्यलक्षणं चैवं त्रिविधं
+त्रिप्रकारं कर्मणो धर्माधर्मलक्षणस्य फलं
+बाह्यनेककारकव्यापारनिष्पन्नत्वादनेकं अविद्याकृतत्वात्
+मिथ्याभूतमिन्द्रजालमायोपमं महामोहकरं प्रत्यगात्मोपसर्पीव फल्गुतया
+लयमदर्शनं गच्छतीति फलशब्दनिर्वचनात्। तदेवं त्रिविधं फलमत्यागिनामज्ञानां
+कर्मिणामपरमार्थसंन्यासिनां प्रेत्य शरीरपातादूर्ध्यवं भवति।
+फलाभिसंधिरहितानां कर्मणां देहपातादूर्ध्वं
+संचितादिक्रमानुरोधिफलस्यावश्यंभावादिति भावः। संन्यासिनां तु
+परमार्थसंन्यासिनां परमहंसपरिव्राजकानां
+केवलज्ञाननिष्ठानमुन्मूलिताविद्यादिसंसारबीजानां क्वचिद्देशे काले वा
+यथोक्तं फलं न भवति। अतः परमार्थतत्त्वविदः
+क्रियाकारकफलानामात्मन्यविद्याध्यारोपित्वदर्शिन एवाशेषकर्मसंन्यासित्वं
+संभवति; नत्वज्ञस्याधिष्ठानादीनि क्रियाकर्तॄणि कारकाण्यात्मत्वेन
+पश्यतोऽशेषकर्मसंन्यासित्वमिति भावः। यत्त्वपरे एवंभूतस्य कर्मफलत्यागस्य
+फलमाह। अनिष्टादिरुपं त्रिविधं फलमत्यागिनां सकामानामेव प्रेत्य परत्र
+भवति। तेषां त्रिविधकर्मसंभवात् नतु संन्यासिनां क्वचिदपि भवति।
+संन्याससिशब्देनात्र फलत्यागसाम्यात्क्रकृताः कर्मफलत्यगिनो गृह्यन्ते।
+अनाश्रितः कर्मफलं कार्यं कर्म करोति यः स संन्यासी य योगी चेत्येवमादौ च
+फलत्यागिषु संन्याससिशब्दप्रयोगदर्शनात्। तेषां सात्त्विंकानां पापासंभवात्
+ईश्वरार्पणेन च पुण्यफलस्य त्यक्तत्वात् त्रिविधमपि कर्मफलं न भवतीत्यर्थ
+इति वर्णयन्ति तन्नोपादेयम्। संन्याससिशब्दस्य परमार्थसंन्यासिना
+सर्वकर्मत्यागिनी मुख्यत्वात् कर्मिणि च फलत्यागसाम्येन गौणत्वात्
+मुख्यार्थस्य चेहाबाधात्तस्यैव संन्यासिशब्देन ग्रहणसंभवे
+गौणग्रहणस्यगौणग्रहणस्यगौणमुख्ययोर्मुख्ये कार्यसंप्रत्ययः इति
+शब्दमर्यादाऽपरिज्ञानविजृम्भितत्वात् सत्यां कारणमामग्र्यां कार्योत्पाद
+इत्यर्थमर्यादाऽज्ञानमूलकत्वाच्च ईश्वरार्पणेन त्यक्तकर्मफलस्यापि
+सत्त्वशुद्य्धर्थं नित्यानि कर्माण्युतिष्ठतोऽन्तराले मृतस्य
+प्रागर्जितकर्मरुपकारणमामग्र्या त्रिविधशरीररुपकार्योत्पाद आवश्यक एवेति
+दिक्।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥18.12॥ ननु देहभृतः परमात्मज्ञानशून्यस्य कर्मिणोऽपि
 कर्मफलाभिसन्धित्यागत्वेन गौणसंन्यासिनः परमात्मज्ञानवतो देहाभिमानरहितस्य
 सर्वकर्मत्यागिनो मुख्यसंन्यासिनश्च कः फले विशेषो यदलाभेन गौणत्वमेकस्य
 यल्लाभेन च मुख्यत्वमन्यस्य; कर्मफलत्यागित्वं तूभयोरपि तुल्यमित्यन्यो
@@ -357,72 +258,45 @@ shows in the following verses:
 संसारित्वं। ध्रुवं कारणसामग्र्याः सत्त्वात्। तत्तु कस्यचिज्ज्ञानाननुगुणं
 कस्यचिज्ज्ञानानुगुणमिति विशेषः। विज्ञस्य तु संसारकारणाभावात्स्वत एव
 कैवल्यमिति द्वौ पदार्थौ सूत्रितावस्मिञ्श्लोके।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।18.12।। एवंभूतस्य त्यागस्य फलमाह -- **अनिष्टमिति।** अनिष्टं
-नरकतिर्यगादिरूपम्; इष्टं देवतादिरूपम्; मिश्रं मानुषभाव इति कर्मणः
-कर्मजातीयस्य फलं त्रिविधं प्रेत्य मरणानन्तरमत्यागिनां
-पूर्वोक्तमुख्यसंन्यासहीनानां भवति मुख्यसंन्यासिनां तु क्वचित्तद्भवति।
-तेषां कर्तृत्वाभिमानाभावात्। अन्ये तु गौणसंन्यासिनामेवायं कर्मालेप
-इत्याहुः। तथा च व्याख्यातंकार्यमित्येव यत्कर्म इत्यत्र। अन्यथा
-संन्यासिनां गौणसंन्यासिनां च विशेषो न स्यात्। न चैवं मुख्यसंन्यासिनां
-गौणसंन्यासिनां चाविशेषापत्तिरिति वाच्यम्।
-उभयेषामुत्तरकर्माश्लेषसाम्येऽपि पूर्वकर्मदाहादाहकृतस्य विशेषस्य
-सत्त्वात्। गौणसंन्यासिनां जन्मान्तरादिकमपि पूर्वकर्मभिरेव भविष्यति
-आपस्तम्बोक्ताम्रनिदर्शनेन योगभ्रष्टगतिवन्नान्तरीयकं वा न तु तस्य प्रधानं
-फलं स्वर्गादिभवितुमर्हत्यनुद्दिष्टत्वादिति।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।18.12।। अमुख्यसंन्यासापेक्षया मुख्यासंन्यासस्य विशिष्टं प्रयोजनं
-किमित्यागाङ्क्षायमाह -- अनिष्टं नरकतिर्यगादिलक्षणम्;,इष्टं
-देवादिलक्षणम्; मिश्रमिष्टानिष्टसंयुक्तं मनुष्यलक्षणं चैवं त्रिविधं
-त्रिप्रकारं कर्मणो धर्माधर्मलक्षणस्य फलं
-बाह्यनेककारकव्यापारनिष्पन्नत्वादनेकं अविद्याकृतत्वात्
-मिथ्याभूतमिन्द्रजालमायोपमं महामोहकरं प्रत्यगात्मोपसर्पीव फल्गुतया
-लयमदर्शनं गच्छतीति फलशब्दनिर्वचनात्। तदेवं त्रिविधं फलमत्यागिनामज्ञानां
-कर्मिणामपरमार्थसंन्यासिनां प्रेत्य शरीरपातादूर्ध्यवं भवति।
-फलाभिसंधिरहितानां कर्मणां देहपातादूर्ध्वं
-संचितादिक्रमानुरोधिफलस्यावश्यंभावादिति भावः। संन्यासिनां तु
-परमार्थसंन्यासिनां परमहंसपरिव्राजकानां
-केवलज्ञाननिष्ठानमुन्मूलिताविद्यादिसंसारबीजानां क्वचिद्देशे काले वा
-यथोक्तं फलं न भवति। अतः परमार्थतत्त्वविदः
-क्रियाकारकफलानामात्मन्यविद्याध्यारोपित्वदर्शिन एवाशेषकर्मसंन्यासित्वं
-संभवति; नत्वज्ञस्याधिष्ठानादीनि क्रियाकर्तॄणि कारकाण्यात्मत्वेन
-पश्यतोऽशेषकर्मसंन्यासित्वमिति भावः। यत्त्वपरे एवंभूतस्य कर्मफलत्यागस्य
-फलमाह। अनिष्टादिरुपं त्रिविधं फलमत्यागिनां सकामानामेव प्रेत्य परत्र
-भवति। तेषां त्रिविधकर्मसंभवात् नतु संन्यासिनां क्वचिदपि भवति।
-संन्याससिशब्देनात्र फलत्यागसाम्यात्क्रकृताः कर्मफलत्यगिनो गृह्यन्ते।
-अनाश्रितः कर्मफलं कार्यं कर्म करोति यः स संन्यासी य योगी चेत्येवमादौ च
-फलत्यागिषु संन्याससिशब्दप्रयोगदर्शनात्। तेषां सात्त्विंकानां पापासंभवात्
-ईश्वरार्पणेन च पुण्यफलस्य त्यक्तत्वात् त्रिविधमपि कर्मफलं न भवतीत्यर्थ
-इति वर्णयन्ति तन्नोपादेयम्। संन्याससिशब्दस्य परमार्थसंन्यासिना
-सर्वकर्मत्यागिनी मुख्यत्वात् कर्मिणि च फलत्यागसाम्येन गौणत्वात्
-मुख्यार्थस्य चेहाबाधात्तस्यैव संन्यासिशब्देन ग्रहणसंभवे
-गौणग्रहणस्यगौणग्रहणस्यगौणमुख्ययोर्मुख्ये कार्यसंप्रत्ययः इति
-शब्दमर्यादाऽपरिज्ञानविजृम्भितत्वात् सत्यां कारणमामग्र्यां कार्योत्पाद
-इत्यर्थमर्यादाऽज्ञानमूलकत्वाच्च ईश्वरार्पणेन त्यक्तकर्मफलस्यापि
-सत्त्वशुद्य्धर्थं नित्यानि कर्माण्युतिष्ठतोऽन्तराले मृतस्य
-प्रागर्जितकर्मरुपकारणमामग्र्या त्रिविधशरीररुपकार्योत्पाद आवश्यक एवेति
-दिक्।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.12।। ननु तर्हि शास्त्रेषु यज्ञादीनि कर्माणि प्राजापत्यं गृहस्थानां
+॥18.12॥ त्यागं स्तौति -- अनिष्टमिति।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥18.12॥ कर्मफलाभावो नाम संसारनिवृत्तिरेव; सा कथं त्यागफलत्वेनोच्यते
+इत्यत आह -- **त्याग**मिति। उपपादितमेतत्त्यागाच्छान्तिः \[12।12\]
+इत्यत्र।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.12॥ अनिष्टमिति। अत्यागिनाम् -- फलमयानाम् +++(S;;N तन्मयानाम् )+++।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.12 Anistam etc. To those who are not men of relinishment : to those who are full of \[desire for\] fruit. Even at the stage of mundane life, where all the five factors do exist for actions, those persons, blind with their ignorance, obstinately burden their own Self with the entire load of agency. Hence they fetter their own Self with their own thinking. But, in fact, there is no bondage for Him (the Self). This is now being taught as :
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.12॥ ननु तर्हि शास्त्रेषु यज्ञादीनि कर्माणि प्राजापत्यं गृहस्थानां
 \[वि.पु.1।6।37\] इत्यादिश्रूयमाणफलसम्बन्धितया विधीयन्ते
 इत्यतस्तत्फलसाधनस्वभावतयाऽवगतानां कर्मणामनुष्ठाने
 बीजावापादीनामिवानभिसंहितफलकस्यापीष्टानिष्टरूपफलसम्बन्धोऽवर्जनीय एवेति
@@ -437,32 +311,23 @@ _________________
 \[बृ.उ.4।4।22\] इत्यादिभिः इति। तदेवं क्रियमाणेषु स्वकर्मसु
 कर्तृत्वफलकामादिपरित्यागः शास्त्रीयः सन्न्यासः; स एव च त्यागः
 इत्युक्तम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.12।। एवं कर्मफलत्यागिनस्त्यागित्वमुपपाद्याथ कर्मफलत्यागमाह --
+<details><summary>पुरुषोत्तमः</summary>
+
+॥18.12॥ एवं कर्मफलत्यागिनस्त्यागित्वमुपपाद्याथ कर्मफलत्यागमाह --
 अनिष्टमिष्टमिति। कर्मणः फलं त्रिविधम् -- अनिष्टं इष्टं मिश्रं च।
 तत्रानिष्टं नरकशूकरादियोनिप्राप्तियातनारूपम्; इष्टं देवभावेन
 स्वर्गादिसुखरूपम्; मिश्रं सन्मनुष्यजन्मराज्यादिभोगरूपम्। तत्ति्रविधं
 कर्मफलं अत्यागिनां कर्मफलात्यागिनां प्रेत्य परत्र लोके भवति। न तु
-क्वचिदपि सन्न्यासिनां कर्मफलत्यागिनां भवतीत्यर्थः।  
-  
-
+क्वचिदपि सन्न्यासिनां कर्मफलत्यागिनां भवतीत्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।18.12।। एवंभूतस्य कर्मफलत्यागस्य फलमाह **-- अनिष्टमिति।** अनिष्टं
+॥18.12॥ एवंभूतस्य कर्मफलत्यागस्य फलमाह **-- अनिष्टमिति।** अनिष्टं
 नारकित्वं; इष्टं देवत्वं; मिश्रं मनुष्यत्वं; एवं त्रिविधं पापस्य
 पुण्यस्य चोभयमिश्रस्य च कर्मणो यत्फलं प्रसिद्धं तत्सर्वमत्यागिनां
 सकामानामेव प्रेत्य परत्र भवति; तेषां त्रिविधकर्मसंभवात्। नतु संन्यसिनां
@@ -472,85 +337,59 @@ _________________
 संन्यासिशब्दप्रयोगदर्शनात्। तेषां सात्त्विकानां पापासंभवादीश्वरार्पणेन च
 पुण्यफलस्य त्यक्तत्वात्ति्रविधमपि कर्मफलं न भवतीत्यर्थः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।18.12।। सभी कर्मों का फल उनके गुण स्तर पर निर्भर करता है। इसके पूर्व
-त्रिविध त्याग का वर्णन किया गया था; और अब यहाँ उनके त्रिविध फलों का
-वर्णन किया जा रहा है। मनुष्य की इच्छा का बाह्य जगत् में भी प्रक्षेपण होता
-है; उसे कर्म कहते हैं। और प्रत्येक कर्म; कर्ता की मनस्थिति तथा उसके
-उद्देश्य के अनुसार; अपना संस्कार उस कर्ता के अन्तकरण में अंकित करता है।
-मानवमन का स्वभाव कर्मों को दोहराने का है। भावी विचार भूतकाल के विचार
-चिन्हों का ही अनुकरण करते हैं। इस प्रकार; कर्म से वासनायें उत्पन्न होती
-हैं; और फिर जगत् की घटनाओं के साथ इन वासनाओं के अनुसार; हमारी
-प्रतिक्रियायें होती हैं। दर्शनशास्त्र में कर्मफल से तात्पर्य केवल लौकिक
-फल से ही न होकर; हमारे अन्तकरण में अंकित होने वाले कर्मों के संस्कारों
-से भी है। ये कर्मफल यहाँ त्रिविध बताये गये हैं (1) इष्ट अर्थात् शुभ
-कल्याणकारी; (2) अनिष्ट अर्थात् अशुभ अनर्थकारी; और (3) मिश्र अर्थात्
-शुभाशुभ का मिश्ररूप। काल के सतत् प्रवाह में वर्तमान काल निकट भविष्य को
-निर्धारित करता है। इसलिए स्पष्ट है कि विभिन्न संरचनाओं वाली हमारी
-वासनायें ही निकट भविष्य की घटनाओं के प्रति हमारी प्रतिक्रियाओं को
-निर्धारित करेंगी। यदि इसी सिद्धांत को हम अपने वर्तमान देह के मरण के क्षण
-तक आगे बढ़ायें; तो यह तथ्य स्पष्ट हो जायेगा कि मरणोपरान्त का हमारा देह
-तथा जन्म देश आदि का निर्धारण उस समय की हमारी वासनाओं के अनुरूप ही होगा।
-यही सनातन धर्म में प्रतिपादित पुनर्जन्म का सिद्धांत है। शुभ कर्मों के फल
-उच्चलोक का सुख है और अशुभ कर्मों का फल अशुभ अर्थात् निम्नस्तर का
-दुखपूर्ण पशु जीवन है। शुभाशुभ के मिश्रण के फलस्वरूप मनुष्य देह की
-प्राप्ति होती है। इस देह में रहते हुए हम अपने बन्धनों को और अधिक दृढ़ भी
-कर सकते हैं और उन बन्धनों से पूर्ण मुक्ति भी प्राप्त कर सकते हैं। अत
-लक्ष्य का निर्धारण हमें ही करना है। निसन्देह; सभी मनुष्यों के हृदय में
-सर्वोच्च लक्ष्य प्राप्ति का आह्वान होता रहता है; परन्तु उसी हृदय में
-निवास कर रहे अवगुणरूपी पशु भी भौंकते; चीखते; पुकारते और गर्जना करते रहते
-हैं। वे हमें भ्रमित कर अपने लक्ष्य से दूर ले जाते हैं। यदि मनुष्य अपने
-श्रेष्ठ आदर्श से तादात्म्य करता है तो उसके अवगुण शनै शनै समाप्त हो जाते
-हैं। और यदि वह उपाधियों के साथ तथा विषयों में आसक्त होता है; तो उसके
-अवगुण निरन्तर प्रवृद्ध ही होते जाते हैं जो उसके दिव्य स्वरूप को आच्छादित
-करते हैं। संक्षेप में; उच्च और नीच के इस शक्ति परीक्षण में निर्णायक
-तत्त्व मनुष्य का अपना व्यक्तित्व ही होता है। इस श्लोक में कथित त्रिविध
-फलों से पूर्ण मुक्ति पाने के लिए साधक को अपने त्रिगुणातीत आत्मस्वरूप का
-बोध प्राप्त करना चाहिए। त्याग और संन्यास के सूक्ष्म भेद को यहाँ स्पष्ट
-किया गया है। त्याग का अर्थ है; त्रिगुणों से प्रभावित मन की वृत्तियों के
-साथ होने वाले तादात्म्य का प्रयत्नपूर्वक त्याग तथा संन्यास का अर्थ है उस
-अहंकार का ही त्याग जो शुभअशुभ कर्मों का कर्ता तथा इष्टानिष्टादि फलों का
-भोक्त बनता है। सम्पूर्ण गीता में मनुष्य के व्यक्तित्व के पुनर्गठन के
-सिद्धांत एवं साधनाओं का अत्यन्त सुन्दर और विस्तृत विवेचन किया गया है।
-उसका सारांश यह है कि (1) सर्वप्रथम अहंकार और स्वार्थ का त्याग कर
-ईश्वरार्पण की भावना से कर्तव्य पालन करना; (2) इस प्रकार अन्तकरण की
-शुद्धि प्राप्ति होने पर वेदान्त प्रमाण के द्वारा आत्मस्वरूप का श्रवण एवं
-मनन करना; और (3) तत्पश्चात् आत्मा के निदिध्यासन द्वारा आत्मसाक्षात्कार
-करके उसी सत्स्वरूप में निष्ठा प्राप्त करना। आत्मानुभव में भवसागर सूख
-जाता है। शुद्ध आत्मा में कुछ बनने की क्रिया नहीं है। मन की वासनाओं से वह
-सदा असंस्पृष्ट रहता है। अब; आगामी श्लोकों में कर्म के स्वरूप का विवेचन
-किया जा रहा है
-
+18.12 Undesirable, desirable and mixed - thus threefold is the fruit of work that accrues after death to those who have not renounced; but to those who have renounced, none whatsoever.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.12।। कर्मों के शुभ, अशुभ और मिश्र ये त्रिविध फल केवल अत्यागी जनों
-को मरण के पश्चात् भी प्राप्त होते हैं; परन्तु संन्यासी पुरुषों को कदापि
-नहीं।।
+<details><summary>गम्भीरानन्दः</summary>
 
+18.12 The threefold results of actions-the undesirable, the desirable,
+and the mixed-accrues after death to those who do not resort to renunciation, but never to those who resort to monasticism.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+18.12 For those who cannot renounce all desire, the fruit of action hereafter is threefold - good, evil, and partly good and partly evil.
+But for him who has renounced, there is none.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.12. The three-fold fruit of action, viz., the undesired, the desired and the mixed, accrues \[even\] after death ot those who are not men of relinishment, but never to those who are men of renunciation.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+18.12 The threefold fruit of action (evil, good and mixed) accrues after death to the non-abandoners, but never to the abandoners.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+18.12 अनिष्टम् unwished or disagreeable or evil; इष्टम् wished or agreeable or good; मिश्रम् mixed; च and; त्रिविधम् threefold; कर्मणः of action; फलम् fruit; भवति accrues; अत्यागिनाम् to nonrenouncers; प्रेत्य
+after death; न not; तु but; संन्यासिनाम् to renouncers; क्वचित्
+ever.Commentary One fruit (of action) is pleasant; another is unpleasant; while the third is a mixture of both. Those in whom good actions preponderate are rorn as gods. Men of evil lives are rorn into animal or vegetable kingdoms. If their actions are eally good and bad;
+they are rorn into the human kingodm. These distinctions of good; evil and mixed do not exist for the liberated sage who has gone beyond the bonds of Karma by destroying egoism; by annihilating the idea of agency and by abandoning the hope of rewards of actions.The action of a renouncer does not generate desire or attachment thereto. Therefore;
+after death he is not born again. The actions that are performed without any desire for the reward can bring no bondage to the man at any time.He who has surrendered the fruits of all his works to the Lord is free from the bondage of Karma. Some kind of action is inevitable and natural to all beings; but the man of renunciation abandons the fruits of actions.Phalam Fruit This is caused by the operation of various external factors. This is brought forth by Avidya (ignornace). It is like jugglery and very delusive. The term Phala denotes something that ickly passes away; something not real; not solid.Karma Action Virtue and vice.Anishtam Disagreeable or evil; such as hell; the animal kingdom;
+etc.Ishtam Wished or agreeable or good.Misram Good and evil mixed together the human birth.Only the unenlightened who have not renounced the fruits of actions reap these three sorts of fruits. The real Sannyasins who belong to the highest order of Sannyasa (Paramahamsa Parivrajakas) who are ever engaged in meditation on the pure; immortal Self; who are solely devoted to Selfknowledge; and who rest in their own essential nature as ExistenceKnowledgeBliss Absolute do not reap any fruits as the fire of Selfknowledge has burnt ignorance and its effects which are the seeds of Samsara.Only a liberated sage who has attained knowledge of the Self and who has no identification with the body can totally relinish all actions. He knows that the Self is beyond all actions and that action is attributed to the Self by ignorance. The ignorant man who identifies himself with the body cannot abandon actions. He thinks that he is the agent or the doer of all actions and expects to attain the fruits of his actions and so he is born again and again in this world to reap the fruits of these actions.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.12।। कर्मफलका त्याग न करनेवाले मनुष्योंको कर्मोंका इष्ट, अनिष्ट और
 मिश्रित -- ऐसे तीन प्रकारका फल मरनेके बाद भी होता है; परन्तु कर्मफलका
 त्याग करनेवालोंको कहीं भी नहीं होता।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।18.12।।***व्याख्या --***  **अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः
 फलम् --** कर्मका फल तीन तरहका होता है -- इष्ट; अनिष्ट और मिश्र। जिस
@@ -1244,61 +1083,65 @@ _________________
   
 ***सम्बन्ध --***  जिस प्रकार कर्मयोगमें कर्मोंका अपने साथ सम्बन्ध नहीं
 रहता; ऐसे ही साङ्ख्यसिद्धान्तमें भी कर्मोंका अपने साथ किञ्चिन्मात्र भी
-सम्बन्ध नहीं रहता -- इसका विवेचन आगे करते हैं।  
-  
-
+सम्बन्ध नहीं रहता -- इसका विवेचन आगे करते हैं।
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-18.12. The three-fold fruit of action, viz., the undesired, the desired and the mixed, accrues \[even\] after death ot those who are not men of relinishment, but never to those who are men of renunciation.
-
+।।18.12।। सभी कर्मों का फल उनके गुण स्तर पर निर्भर करता है। इसके पूर्व
+त्रिविध त्याग का वर्णन किया गया था; और अब यहाँ उनके त्रिविध फलों का
+वर्णन किया जा रहा है। मनुष्य की इच्छा का बाह्य जगत् में भी प्रक्षेपण होता
+है; उसे कर्म कहते हैं। और प्रत्येक कर्म; कर्ता की मनस्थिति तथा उसके
+उद्देश्य के अनुसार; अपना संस्कार उस कर्ता के अन्तकरण में अंकित करता है।
+मानवमन का स्वभाव कर्मों को दोहराने का है। भावी विचार भूतकाल के विचार
+चिन्हों का ही अनुकरण करते हैं। इस प्रकार; कर्म से वासनायें उत्पन्न होती
+हैं; और फिर जगत् की घटनाओं के साथ इन वासनाओं के अनुसार; हमारी
+प्रतिक्रियायें होती हैं। दर्शनशास्त्र में कर्मफल से तात्पर्य केवल लौकिक
+फल से ही न होकर; हमारे अन्तकरण में अंकित होने वाले कर्मों के संस्कारों
+से भी है। ये कर्मफल यहाँ त्रिविध बताये गये हैं (1) इष्ट अर्थात् शुभ
+कल्याणकारी; (2) अनिष्ट अर्थात् अशुभ अनर्थकारी; और (3) मिश्र अर्थात्
+शुभाशुभ का मिश्ररूप। काल के सतत् प्रवाह में वर्तमान काल निकट भविष्य को
+निर्धारित करता है। इसलिए स्पष्ट है कि विभिन्न संरचनाओं वाली हमारी
+वासनायें ही निकट भविष्य की घटनाओं के प्रति हमारी प्रतिक्रियाओं को
+निर्धारित करेंगी। यदि इसी सिद्धांत को हम अपने वर्तमान देह के मरण के क्षण
+तक आगे बढ़ायें; तो यह तथ्य स्पष्ट हो जायेगा कि मरणोपरान्त का हमारा देह
+तथा जन्म देश आदि का निर्धारण उस समय की हमारी वासनाओं के अनुरूप ही होगा।
+यही सनातन धर्म में प्रतिपादित पुनर्जन्म का सिद्धांत है। शुभ कर्मों के फल
+उच्चलोक का सुख है और अशुभ कर्मों का फल अशुभ अर्थात् निम्नस्तर का
+दुखपूर्ण पशु जीवन है। शुभाशुभ के मिश्रण के फलस्वरूप मनुष्य देह की
+प्राप्ति होती है। इस देह में रहते हुए हम अपने बन्धनों को और अधिक दृढ़ भी
+कर सकते हैं और उन बन्धनों से पूर्ण मुक्ति भी प्राप्त कर सकते हैं। अत
+लक्ष्य का निर्धारण हमें ही करना है। निसन्देह; सभी मनुष्यों के हृदय में
+सर्वोच्च लक्ष्य प्राप्ति का आह्वान होता रहता है; परन्तु उसी हृदय में
+निवास कर रहे अवगुणरूपी पशु भी भौंकते; चीखते; पुकारते और गर्जना करते रहते
+हैं। वे हमें भ्रमित कर अपने लक्ष्य से दूर ले जाते हैं। यदि मनुष्य अपने
+श्रेष्ठ आदर्श से तादात्म्य करता है तो उसके अवगुण शनै शनै समाप्त हो जाते
+हैं। और यदि वह उपाधियों के साथ तथा विषयों में आसक्त होता है; तो उसके
+अवगुण निरन्तर प्रवृद्ध ही होते जाते हैं जो उसके दिव्य स्वरूप को आच्छादित
+करते हैं। संक्षेप में; उच्च और नीच के इस शक्ति परीक्षण में निर्णायक
+तत्त्व मनुष्य का अपना व्यक्तित्व ही होता है। इस श्लोक में कथित त्रिविध
+फलों से पूर्ण मुक्ति पाने के लिए साधक को अपने त्रिगुणातीत आत्मस्वरूप का
+बोध प्राप्त करना चाहिए। त्याग और संन्यास के सूक्ष्म भेद को यहाँ स्पष्ट
+किया गया है। त्याग का अर्थ है; त्रिगुणों से प्रभावित मन की वृत्तियों के
+साथ होने वाले तादात्म्य का प्रयत्नपूर्वक त्याग तथा संन्यास का अर्थ है उस
+अहंकार का ही त्याग जो शुभअशुभ कर्मों का कर्ता तथा इष्टानिष्टादि फलों का
+भोक्त बनता है। सम्पूर्ण गीता में मनुष्य के व्यक्तित्व के पुनर्गठन के
+सिद्धांत एवं साधनाओं का अत्यन्त सुन्दर और विस्तृत विवेचन किया गया है।
+उसका सारांश यह है कि (1) सर्वप्रथम अहंकार और स्वार्थ का त्याग कर
+ईश्वरार्पण की भावना से कर्तव्य पालन करना; (2) इस प्रकार अन्तकरण की
+शुद्धि प्राप्ति होने पर वेदान्त प्रमाण के द्वारा आत्मस्वरूप का श्रवण एवं
+मनन करना; और (3) तत्पश्चात् आत्मा के निदिध्यासन द्वारा आत्मसाक्षात्कार
+करके उसी सत्स्वरूप में निष्ठा प्राप्त करना। आत्मानुभव में भवसागर सूख
+जाता है। शुद्ध आत्मा में कुछ बनने की क्रिया नहीं है। मन की वासनाओं से वह
+सदा असंस्पृष्ट रहता है। अब; आगामी श्लोकों में कर्म के स्वरूप का विवेचन
+किया जा रहा है
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.12 The threefold results of actions-the undesirable, the desirable,
-and the mixed-accrues after death to those who do not resort to renunciation, but never to those who resort to monasticism.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।18.12।। कर्मों के शुभ, अशुभ और मिश्र ये त्रिविध फल केवल अत्यागी जनों
+को मरण के पश्चात् भी प्राप्त होते हैं; परन्तु संन्यासी पुरुषों को कदापि
+नहीं।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.12 For those who cannot renounce all desire, the fruit of action hereafter is threefold - good, evil, and partly good and partly evil.
-But for him who has renounced, there is none.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-18.12 Undesirable, desirable and mixed - thus threefold is the fruit of work that accrues after death to those who have not renounced; but to those who have renounced, none whatsoever.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-18.12 The threefold fruit of action (evil, good and mixed) accrues after death to the non-abandoners, but never to the abandoners.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-18.12 अनिष्टम् unwished or disagreeable or evil; इष्टम् wished or agreeable or good; मिश्रम् mixed; च and; त्रिविधम् threefold; कर्मणः of action; फलम् fruit; भवति accrues; अत्यागिनाम् to nonrenouncers; प्रेत्य
-after death; न not; तु but; संन्यासिनाम् to renouncers; क्वचित्
-ever.Commentary One fruit (of action) is pleasant; another is unpleasant; while the third is a mixture of both. Those in whom good actions preponderate are rorn as gods. Men of evil lives are rorn into animal or vegetable kingdoms. If their actions are eally good and bad;
-they are rorn into the human kingodm. These distinctions of good; evil and mixed do not exist for the liberated sage who has gone beyond the bonds of Karma by destroying egoism; by annihilating the idea of agency and by abandoning the hope of rewards of actions.The action of a renouncer does not generate desire or attachment thereto. Therefore;
-after death he is not born again. The actions that are performed without any desire for the reward can bring no bondage to the man at any time.He who has surrendered the fruits of all his works to the Lord is free from the bondage of Karma. Some kind of action is inevitable and natural to all beings; but the man of renunciation abandons the fruits of actions.Phalam Fruit This is caused by the operation of various external factors. This is brought forth by Avidya (ignornace). It is like jugglery and very delusive. The term Phala denotes something that ickly passes away; something not real; not solid.Karma Action Virtue and vice.Anishtam Disagreeable or evil; such as hell; the animal kingdom;
-etc.Ishtam Wished or agreeable or good.Misram Good and evil mixed together the human birth.Only the unenlightened who have not renounced the fruits of actions reap these three sorts of fruits. The real Sannyasins who belong to the highest order of Sannyasa (Paramahamsa Parivrajakas) who are ever engaged in meditation on the pure; immortal Self; who are solely devoted to Selfknowledge; and who rest in their own essential nature as ExistenceKnowledgeBliss Absolute do not reap any fruits as the fire of Selfknowledge has burnt ignorance and its effects which are the seeds of Samsara.Only a liberated sage who has attained knowledge of the Self and who has no identification with the body can totally relinish all actions. He knows that the Self is beyond all actions and that action is attributed to the Self by ignorance. The ignorant man who identifies himself with the body cannot abandon actions. He thinks that he is the agent or the doer of all actions and expects to attain the fruits of his actions and so he is born again and again in this world to reap the fruits of these actions.
-
-</details>
 </div>

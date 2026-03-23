@@ -1,9 +1,9 @@
 +++
 title = "73 नष्टो मोहः"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 +++(अर्जुन उवाच)+++
 
@@ -12,183 +12,50 @@ title = "73 नष्टो मोहः"
 स्थितोऽस्मि गत-सन्देहः  
 **करिष्ये वचनं तव**॥18.73॥+++(5)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 अर्जुन उवाच  
 नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत।  
-स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव।।18.73।।
+स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव॥18.73॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।18.73।। अर्जुन उवाच -- **मोहः** विपरीतज्ञान **त्वत्प्रसादात्** मम तद्
-विनष्टम्। **स्मृतिः** यथावस्थिततत्त्वज्ञानं त्वत्प्रसादाद् एव तत् च
-लब्धम्। अनात्मनि प्रकृतौ आत्माभिमानरूपो मोहः; परमपुरुषशरीरतया तदात्मकस्य
-कृत्स्नस्य चिदचिद्वस्तुनः अतदात्माभिमानरूपः च; नित्यनैमित्तिकरूपस्य
-कर्मणः परमपुरुषाराधनतया तत्प्राप्त्युपायभूतस्य बन्धत्वबुद्धिरूपः च;
-सर्वो विनष्टः। आत्मनः
-प्रकृतिविलक्षणत्वतत्स्वभावरहितताज्ञातृत्वैकस्वभावतापरमपुरुषशेषतातन्नियाम्यत्वैकस्वरूपताज्ञानम्;
-भगवतो
-निखिलजगदुत्पत्तिस्थितिप्रलयलीलाशेषदोषप्रत्यनीककल्याणैकस्वरूपस्वाभाविकानवधिकातिशयज्ञानबलैश्वर्यवीर्यशक्तितेजः
-प्रभृतिसमस्तकल्याणगुणगणमहार्णवपरब्रह्मशब्दाभिधेयपरमपुरुषयाथात्म्यविज्ञानं
-च; एवंरूपं
-परावरतत्त्वयाथात्म्यविज्ञानतदभ्यासपूर्वकाहरहरुपचीयमानपरमपुरुषप्रीत्यैकफलनित्यनैमित्तिककर्मनिषिद्धपरिहारशमदमाद्यात्मगुणनिर्वर्त्यभक्तिरूपतापन्नपरमपुरुषोपासनैकलभ्यो
-वेदान्तवेद्यः परमपुरुषो वासुदेवः त्वम् इति ज्ञानं च लब्धम्। ततः च
-बन्धुस्नेहकारुण्यप्रवृद्धविपरीतज्ञानमूलात् सर्वस्माद् अवसादाद् विमुक्तो
-**गतसंदेहः** स्वस्थः **स्थितः अस्मि।** इदानीम् एव युद्धादिकर्तव्यताविषयं
-**तव वचनं करिष्ये** यथोक्तं युद्धादिकं करिष्ये इत्यर्थः। धृतराष्ट्राय
-स्वस्य पुत्राः पाण्डवाः च युद्धे किम् अकुर्वत इति पृच्छते -- संजय उवाच
+॥18.73॥ अर्जुन उवाच -- **मोहः** विपरीतज्ञान **त्वत्प्रसादात्** मम तद् विनष्टम्। **स्मृतिः** यथावस्थिततत्त्वज्ञानं त्वत्प्रसादाद् एव तच् च लब्धम्। अनात्मनि प्रकृतौ आत्माभिमानरूपो मोहः; परमपुरुषशरीरतया तदात्मकस्य कृत्स्नस्य चिदचिद्वस्तुनो ऽतदात्माभिमानरूपश् च; नित्यनैमित्तिकरूपस्य कर्मणः परमपुरुषाराधनतया तत्प्राप्त्युपायभूतस्य बन्धत्वबुद्धिरूपश् च; सर्वो विनष्टः। आत्मनः प्रकृतिविलक्षणत्वतत्स्वभावरहितताज्ञातृत्वैकस्वभावतापरमपुरुषशेषतातन्नियाम्यत्वैकस्वरूपताज्ञानम्; भगवतो निखिलजगदुत्पत्तिस्थितिप्रलयलीलाशेषदोषप्रत्यनीककल्याणैकस्वरूपस्वाभाविकानवधिकातिशयज्ञानबलैश्वर्यवीर्यशक्तितेजः प्रभृतिसमस्तकल्याणगुणगणमहार्णवपरब्रह्मशब्दाभिधेयपरमपुरुषयाथात्म्यविज्ञानं च; एवंरूपं परावरतत्त्वयाथात्म्यविज्ञानतदभ्यासपूर्वकाहरहरुपचीयमानपरमपुरुषप्रीत्यैकफलनित्यनैमित्तिककर्मनिषिद्धपरिहारशमदमाद्यात्मगुणनिर्वर्त्यभक्तिरूपतापन्नपरमपुरुषोपासनैकलभ्यो वेदान्तवेद्यः परमपुरुषो वासुदेवस् त्वम् इति ज्ञानं च लब्धम्। ततश् च बन्धुस्नेहकारुण्यप्रवृद्धविपरीतज्ञानमूलात् सर्वस्माद् अवसादाद् विमुक्तो **गतसन्देहः** स्वस्थः **स्थितो ऽस्मि।** इदानीम् एव युद्धादिकर्तव्यताविषयं **तव वचनं करिष्ये** यथोक्तं युद्धादिकं करिष्ये इत्यर्थः। धृतराष्ट्राय स्वस्य पुत्राः पाण्डवाश् च युद्धे किम् अकुर्वत इति पृच्छते -- सञ्जय उवाच
 --
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.73।। अथ कृतज्ञतांशं व्यञ्जयन्नर्जुनः श्रुतफलसिद्ध्या प्रतिवक्तिनष्टो
-मोहः इति। अर्जुनेनास्यार्थस्येतःपूर्वमनवगमाद्वाक्येन प्रथमं
-स्मृतेरनुदयात्तन्मूलभूतशब्दजन्योऽनुभव इह स्मृतिशब्देन लक्ष्यत इत्याह --
-स्मृतिर्यथावस्थिततत्त्वज्ञानमिति। स नो देवः शुभया स्मृत्या संयुनक्तु
-इत्यस्य मन्त्रस्यस नो बुद्ध्या शुभया संयुनक्ति(क्तु) \[श्वे.उ.3।4\] इति
-शाखान्तरे पाठदर्शनात्स्मृतिबुद्धिशब्दावदूरविप्रकर्षेणेकार्थौ युक्ताविति
-भावः। निवर्त्यमोहस्वरूपं चोपदेशस्यामूलचूडपरामर्शेन व्यनक्ति --
-अनात्मनीत्यादिना। प्रकृतिविलक्षणत्वं स्वप्रकाशत्वादिभिः
-विकाराद्यभावात्तत्स्वभावरहितता। स्वस्थः प्रकृतिस्थ इत्यर्थः। उपदेशवचनस्य
-स्वरूपेणाननुष्ठेयत्वात्तेन तत्प्रतिपाद्यं लक्ष्यत इत्याह -- यथोक्तं
-युद्धादिकमिति।  
-  
-एवं चाभिप्रायः -- आदिशब्देन भक्तियोगपर्यन्तग्रहणम्। अननुष्ठानं तु
-स्मृतिभ्रंशादिति हि वक्ष्यति -- यत्तु तद्भवता (यत्तद्भगवता) प्रोक्तं
-पुरा केशव सौहृदात्। तत्सर्वं पुरुषव्याघ्र भ्रष्टं मे नष्टचेतसः
-\[अ.गी.1।6\] इति। प्रतिवक्ष्यति च भगवान् -- श्रावितस्त्वं मया गुह्यं
-ज्ञापितश्च सनातनम्। धर्मं स्वरूपिणं पार्थ सर्वलोकांश्च शाश्वतान्।
-अबुद्ध्या माग्रहीर्यत्त्वं तन्मे सुमहदप्रियम् \[अ.गी.1।910\]स हि धर्मः
-सुपर्याप्तो ब्रह्मणः परिवेदने \[अ.गी.1।12\] इति।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥18.73॥ अथ कृतज्ञतांशं व्यञ्जयन्नर्जुनः श्रुतफलसिद्ध्या प्रतिवक्तिनष्टो मोहः इति। अर्जुनेनास्यार्थस्येतःपूर्वमनवगमाद्वाक्येन प्रथमं स्मृतेरनुदयात्तन्मूलभूतशब्दजन्योऽनुभव इह स्मृतिशब्देन लक्ष्यत इत्याह -- स्मृतिर्यथावस्थिततत्त्वज्ञानमिति। स नो देवः शुभया स्मृत्या संयुनक्तु इत्यस्य मन्त्रस्यस नो बुद्ध्या शुभया संयुनक्ति(क्तु) \[श्वे.उ.3।4\] इति शाखान्तरे पाठदर्शनात्स्मृतिबुद्धिशब्दावदूरविप्रकर्षेणेकार्थौ युक्ताविति भावः। निवर्त्यमोहस्वरूपं चोपदेशस्यामूलचूडपरामर्शेन व्यनक्ति -- अनात्मनीत्यादिना। प्रकृतिविलक्षणत्वं स्वप्रकाशत्वादिभिः विकाराद्यभावात्तत्स्वभावरहितता। स्वस्थः प्रकृतिस्थ इत्यर्थः। उपदेशवचनस्य स्वरूपेणाननुष्ठेयत्वात्तेन तत्प्रतिपाद्यं लक्ष्यत इत्याह -- यथोक्तं युद्धादिकमिति।  
+        
+एवं चाभिप्रायः -- आदिशब्देन भक्तियोगपर्यन्तग्रहणम्। अननुष्ठानं तु स्मृतिभ्रंशादिति हि वक्ष्यति -- यत्तु तद्भवता (यत्तद्भगवता) प्रोक्तं पुरा केशव सौहृदात्। तत्सर्वं पुरुषव्याघ्र भ्रष्टं मे नष्टचेतसः \[अ.गी.1।6\] इति। प्रतिवक्ष्यति च भगवान् -- श्रावितस्त्वं मया गुह्यं ज्ञापितश्च सनातनम्। धर्मं स्वरूपिणं पार्थ सर्वलोकांश्च शाश्वतान्। अबुद्ध्या माग्रहीर्यत्त्वं तन्मे सुमहदप्रियम् \[अ.गी.1।910\]स हि धर्मः सुपर्याप्तो ब्रह्मणः परिवेदने \[अ.गी.1।12\] इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.73 Arjuna said 'Delusion' or misapprehension is perverted knowledge.
-By Your grace it has been destroyed. 'Smrti' or memory is the knowledge of things as they really are. I have acired that. Misapprehension here is the misconception that the self is the Prakrti (body-mind) which is the non-self in reality. It consists in one not apprehending that all intelligent and non-intelligent entities, by reason of their forming the body of the Supreme Being, have Him as their Atman and are thus ensouled by Him. The misapprehension also consists in the lack of knowledge that actions, obligatory and occasional, do not cause bondage but actually form a means for the propitiation of the Supreme Being. All such misapprehensions are now destroyed. The various phases of knowledge that cleared the misunderstanding may be catalogued as follows: (1) The self is different from Prakrti and is therefore devoid of the alities of Prakrti. Its nature is that of the knower of Prakrti. (2) The self is a Sesa (sub-ordinate and servant) of the Supreme Person and is ruled by Him. The true knowledge about the Supreme Person is that He is what is signified by the expression Supreme Brahman. (3) He is the great ocean of all auspicious, excellent attributes such as knowledge, strength,
-glory, valour, power, brilliance etc., which are unbounded and natural.
-His essence consists solely of auspiciousness. He is antagonistic to all that is evil without exception. The origin, sustentation and dissolution
-of the entire universe are His sport. (4) You (Sri Krsna) are Vasudeva,
-the Supreme Person, known from the Vedanta, and who can be reached only
-by worship, which has taken the form of Bhakti. (5) Bhakti can be
-achieved by the control of the senses and the mind, the abandonment of
-prohibited acts and the performance of occasional and obligatory acts as
-solely intended for the goal of the satisfaction of the Supreme Person.
-Bhakti has to be developed day after day through the regular practice of
-the discriminatory knowledge of the higher and lower truths. All this
-has been attained by me (Arjuna). Therefore I stand steadfast, freed
-from the doubts and devoid of the depression rooted in perverted
-knowledge nourished by compassion and love for relatives. Now I shall
-fulfil Your words, concerned with fighting etc., which ought to be done
-by me. I shall fight as instructed by You. Such is the meaning. Sanjaya
-now relates to Dhrtarastra who had estioned him earlier as to what his
-sons and the Pandavas were doing in the battle:
+<details><summary>आदिदेवानन्दः</summary>
 
+18.73 Arjuna said 'Delusion' or misapprehension is perverted knowledge. By Your grace it has been destroyed. 'Smrti' or memory is the knowledge of things as they really are. I have acired that. Misapprehension here is the misconception that the self is the Prakrti (body-mind) which is the non-self in reality. It consists in one not apprehending that all intelligent and non-intelligent entities, by reason of their forming the body of the Supreme Being, have Him as their Atman and are thus ensouled by Him. The misapprehension also consists in the lack of knowledge that actions, obligatory and occasional, do not cause bondage but actually form a means for the propitiation of the Supreme Being. All such misapprehensions are now destroyed. The various phases of knowledge that cleared the misunderstanding may be catalogued as follows: (1) The self is different from Prakrti and is therefore devoid of the alities of Prakrti. Its nature is that of the knower of Prakrti. (2) The self is a Sesa (sub-ordinate and servant) of the Supreme Person and is ruled by Him. The true knowledge about the Supreme Person is that He is what is signified by the expression Supreme Brahman. (3) He is the great ocean of all auspicious, excellent attributes such as knowledge, strength, glory, valour, power, brilliance etc., which are unbounded and natural. His essence consists solely of auspiciousness. He is antagonistic to all that is evil without exception. The origin, sustentation and dissolution of the entire universe are His sport. (4) You (Sri Krsna) are Vasudeva, the Supreme Person, known from the Vedanta, and who can be reached only by worship, which has taken the form of Bhakti. (5) Bhakti can be achieved by the control of the senses and the mind, the abandonment of prohibited acts and the performance of occasional and obligatory acts as solely intended for the goal of the satisfaction of the Supreme Person. Bhakti has to be developed day after day through the regular practice of the discriminatory knowledge of the higher and lower truths. All this has been attained by me (Arjuna). Therefore I stand steadfast, freed from the doubts and devoid of the depression rooted in perverted knowledge nourished by compassion and love for relatives. Now I shall fulfil Your words, concerned with fighting etc., which ought to be done by me. I shall fight as instructed by You. Such is the meaning. Sanjaya now relates to Dhrtarastra who had estioned him earlier as to what his sons and the Pandavas were doing in the battle:
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.73।। नष्ट इति। नष्टो मोह इत्यादिना
-युद्धप्रवृत्तिस्तावदर्जुनस्योत्पन्ना; न तु सम्यग्ब्रह्मवित्त्वं जातम्
-इति सूचयन् भाविनोऽनुगीतार्थस्यावकाशं ददाति।
-
+॥18.73॥ -- **नष्टः मोहः** अज्ञानजः समस्तसंसारानर्थहेतुः; सागर इव दुरुत्तरः। **स्मृति**श्च आत्मतत्त्वविषया **लब्धा;** यस्याः लाभात् सर्वहृदयग्रन्थीनां विप्रमोक्षः **त्वत्प्रसादात्** तव प्रसादात् **मया** त्वत्प्रसादम् आश्रितेन **अच्युत।** अनेन मोहनाशप्रश्नप्रतिवचनेन सर्वशास्त्रार्थज्ञानफलम् एतावदेवेति निश्चितं दर्शितं भवति; यतः ज्ञानात् मोहनाशः आत्मस्मृतिलाभश्चेति। तथा च श्रुतौ अनात्मवित् शोचामि (छा0 उ₀ 7।1।3) इति उपन्यस्य आत्मज्ञानेन सर्वग्रन्थीनां विप्रमोक्षः उक्तः भिद्यते हृदयग्रन्थिः (मु0 उ₀ 2।2।8) तत्र को मोहः कः शोकः एकत्वमनुपश्यतः (ई0 उ₀ 7) इति च मन्त्रवर्णः। अथ इदानीं त्वच्छासने **स्थितः अस्मि गतसंदेहः** मुक्तसंशयः। **करिष्ये वचनं तव।** अहं त्वत्प्रसादात् कृतार्थः; न मे कर्तव्यम् अस्ति इत्यभिप्रायः॥ परिसमाप्तः शास्त्रार्थः। अथ इदानीं कथासंबन्धप्रदर्शनार्थं संजयः उवाच --,**संजय उवाच --,**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.73 Nastah etc. By the passage '\[My\] delusion is destroyed etc', it
-is indicated that \[after hearing the Lord's instruction\], only an
-inclination to fight has risen in Arjuna, but the perfect realisation of
-the Brahman is not yet born in him. While indicating so, \[the sage
-Vyasa\] provides a scope for the would-be subject matter for the
-Anugita.
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।18.73।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।18.73।। Sri Jayatirtha did not comment on this sloka.  
-  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।18.73।। -- **नष्टः मोहः** अज्ञानजः समस्तसंसारानर्थहेतुः; सागर इव
-दुरुत्तरः। **स्मृति**श्च आत्मतत्त्वविषया **लब्धा;** यस्याः लाभात्
-सर्वहृदयग्रन्थीनां विप्रमोक्षः **त्वत्प्रसादात्** तव प्रसादात् **मया**
-त्वत्प्रसादम् आश्रितेन **अच्युत।** अनेन मोहनाशप्रश्नप्रतिवचनेन
-सर्वशास्त्रार्थज्ञानफलम् एतावदेवेति निश्चितं दर्शितं भवति; यतः ज्ञानात्
-मोहनाशः आत्मस्मृतिलाभश्चेति। तथा च श्रुतौ अनात्मवित् शोचामि (छा0 उ₀
-7।1।3) इति उपन्यस्य आत्मज्ञानेन सर्वग्रन्थीनां विप्रमोक्षः उक्तः भिद्यते
-हृदयग्रन्थिः (मु0 उ₀ 2।2।8) तत्र को मोहः कः शोकः एकत्वमनुपश्यतः (ई0 उ₀
-7) इति च मन्त्रवर्णः। अथ इदानीं त्वच्छासने **स्थितः अस्मि गतसंदेहः**
-मुक्तसंशयः। **करिष्ये वचनं तव।** अहं त्वत्प्रसादात् कृतार्थः; न मे
-कर्तव्यम् अस्ति इत्यभिप्रायः।। परिसमाप्तः शास्त्रार्थः। अथ इदानीं
-कथासंबन्धप्रदर्शनार्थं संजयः उवाच --,**संजय उवाच --,**
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।18.73।। अर्जुन बोला -- हे अच्युत मेरा अज्ञानजन्य मोह; जो कि समस्त
-संसाररूप अनर्थका कारण था और समुद्रकी भाँति दुस्तर था; नष्ट हो गया है। और
-हे अच्युत आपकी कृपाके आश्रित होकर मैंने आपकी कृपासे आत्मविषयक ऐसी स्मृति
-भी प्राप्त कर ली है कि जिसके प्राप्त होनेसे समस्त ग्रन्थियाँ -- संशय
-विच्छिन्न हो जाते हैं। इस मोहनाशविषयक प्रश्नोत्तरसे यह बात निश्चितरूपसे
-दिखलायी गयी है कि जो यह अज्ञानजनित मोहका नाश और आत्मविषयक स्मृतिका लाभ
-है; बस; इतना ही समस्त शास्त्रोंके अर्थज्ञानका फल है। इसी तरह ( छान्दोग्य
-) श्रुतिमें भी मैं आत्माको न जाननेवाला शोक करता हूँ इस प्रकार प्रकरण
-उठाकर आत्मज्ञान होनेपर समस्त ग्रन्थियोंका विच्छेद बतलाया है। तथा हृदयकी
-ग्रन्थि विच्छिन्न हो जाती है वहाँ एकताका अनुभव करनेवालेको कैसा मोह और
-कैसा शोक इत्यादि मन्त्रवर्ण भी हैं। अब मैं संशयरहित हुआ आपकी आज्ञाके
-अधीन खड़ा हूँ। मैं आपका कहना करूँगा। अभिप्राय यह है कि मैं आपकी कृपासे
-कृतार्थ हो गया हूँ ( अब ) मेरा कोई कर्तव्य शेष नहीं है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 18.73 O Acyuta, (my) mohah, born of ignorance and the cause of all evil
 in the form of mundane existence, and difficult to cross like an ocean;l
@@ -211,13 +78,28 @@ shall follow; tava, Your; vacanam, instruction. By Your grace I have
 achieved the goal of life. The idea is, there is no duty, as such, for
 me. The teaching of the Scripture is concluded. There-after, now in
 order to show the connection (of this) with the (main) narrative-.
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।18.73।। प्रेमोपदिष्टात्मज्ञानस्य अज्ञानसंदेहविपर्यासरहितस्य पृष्टस्य
+<details><summary>हरिकृष्णदासः</summary>
+
+॥18.73॥ अर्जुन बोला -- हे अच्युत मेरा अज्ञानजन्य मोह; जो कि समस्त
+संसाररूप अनर्थका कारण था और समुद्रकी भाँति दुस्तर था; नष्ट हो गया है। और
+हे अच्युत आपकी कृपाके आश्रित होकर मैंने आपकी कृपासे आत्मविषयक ऐसी स्मृति
+भी प्राप्त कर ली है कि जिसके प्राप्त होनेसे समस्त ग्रन्थियाँ -- संशय
+विच्छिन्न हो जाते हैं। इस मोहनाशविषयक प्रश्नोत्तरसे यह बात निश्चितरूपसे
+दिखलायी गयी है कि जो यह अज्ञानजनित मोहका नाश और आत्मविषयक स्मृतिका लाभ
+है; बस; इतना ही समस्त शास्त्रोंके अर्थज्ञानका फल है। इसी तरह ( छान्दोग्य
+) श्रुतिमें भी मैं आत्माको न जाननेवाला शोक करता हूँ इस प्रकार प्रकरण
+उठाकर आत्मज्ञान होनेपर समस्त ग्रन्थियोंका विच्छेद बतलाया है। तथा हृदयकी
+ग्रन्थि विच्छिन्न हो जाती है वहाँ एकताका अनुभव करनेवालेको कैसा मोह और
+कैसा शोक इत्यादि मन्त्रवर्ण भी हैं। अब मैं संशयरहित हुआ आपकी आज्ञाके
+अधीन खड़ा हूँ। मैं आपका कहना करूँगा। अभिप्राय यह है कि मैं आपकी कृपासे
+कृतार्थ हो गया हूँ ( अब ) मेरा कोई कर्तव्य शेष नहीं है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥18.73॥ प्रेमोपदिष्टात्मज्ञानस्य अज्ञानसंदेहविपर्यासरहितस्य पृष्टस्य
 भगवदनुग्रहप्राप्तिकथनेन भगवन्तं परितोषयिष्यन्नर्जुनो विज्ञापितवानित्याह
 -- **अर्जुन इति।** अज्ञानोत्थस्याविवेकस्य नष्टत्वमेव स्पष्टयति --
 **समस्त** **इति।** स्वयंज्योतिषि प्रतीचि ब्रह्मण्यविद्याभ्रमं
@@ -230,30 +112,11 @@ order to show the connection (of this) with the (main) narrative-.
 भगवदनुग्रहादज्ञानकृतमोहदाहानन्तरमात्मज्ञाने प्रतिलब्धे
 त्वदाज्ञाप्रतीक्षोऽहमित्युत्तरार्धं व्याकरोति -- **अथेति।** तव वचनं
 करिष्येऽहमित्यत्र तात्पर्यमाह -- **अहमिति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।18.73।। एवं पृष्टः कृतार्थत्वेन पुनरुपदेशानपेक्षतामात्मन अर्जुन उवाच --
-नष्टो मोह इति। नष्ट उच्छिन्नो मोहोऽज्ञानकृतो विपर्ययः तन्नाशकमाह।
-स्मृतिर्लब्धा त्वत्प्रसादान्मया यस्मात्त्वदुपदेशादात्मज्ञानं लब्धं
-सर्वसंशयानाक्रान्ततया प्राप्तमतः सर्वप्रतिबन्धशून्येनात्मज्ञानेन मोहो
-नष्ट इत्यर्थः। हेऽच्युत; आत्मत्वेन निश्चितत्वात्वियोगायोग्यस्मृतिलम्भने
-सर्वग्रन्थीनां विप्रमोक्षः इति श्रुत्यर्थमनुभवन्नाह -- स्थितोऽस्मीति।
-स्थितोस्मि गतसंदेहो निवृत्तसर्वसंदेहः स्थितोऽस्मि युद्धकर्तव्यतारूपे
-त्वच्छासने। यावज्जीवं च करिष्ये वचनं तव भगवतः परमगुरोराज्ञां
-पालयिष्यामीति प्रयाससाफल्यकथनेन भगवन्तमर्जुनः परितोषयामास। अनेन
-गीताशास्त्राध्यायिनो भगवत्प्रसादादवश्यं मोक्षफलपर्यन्तं ज्ञानं भवतीति
-शास्त्रफलमुपसंहृतं तद्धास्य विजज्ञावितिवत्।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।18.73।। एवं पृष्टः स्वस्य कृतकृत्यतां ज्ञापयन्नर्जुन उवाच -- **नष्टो
+॥18.73॥ एवं पृष्टः स्वस्य कृतकृत्यतां ज्ञापयन्नर्जुन उवाच -- **नष्टो
 मोह इति।** मोहः पूर्वोक्तो द्विविधोऽपि नष्टः। स्मृतिरयमहमस्मि
 परंब्रह्मेत्यात्मानुसंधानरूपा आत्मतत्त्वविषया लब्धा। यस्य लाभेन
 सर्वहृदयग्रन्थीनांयावान्यश्चास्मि तत्त्वतः इत्यत्रोदाहृतानां
@@ -263,13 +126,11 @@ order to show the connection (of this) with the (main) narrative-.
 इति शेषः। गतसंदेहो नष्टसंदेह इत्यनेनानात्मन्यात्मधीरूपो मोहो नष्ट इति
 दर्शितम्। करिष्ये वचनं तवेत्यनेन स्वधर्मे युद्धे चाधर्मधीरूपोऽपि मोहो
 नष्ट इति दर्शितम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।18.73।। भगवदनुग्रहात्स्वस्य कृतार्थताकथनेन भगवन्तं परितोषयिष्यन्नर्जुन
+<details><summary>धनपतिः</summary>
+
+॥18.73॥ भगवदनुग्रहात्स्वस्य कृतार्थताकथनेन भगवन्तं परितोषयिष्यन्नर्जुन
 उवाच। नष्टो मोहोऽज्ञानजन्यः समस्तसंसारहेतुः सागर इव दुस्तरः नष्टः नाशं
 गतः; स्मृतिश्च त्वत्प्रसादान्मया लब्धा
 अच्युताभिन्नत्वात्स्वरुपात्कदाप्यप्रच्युतः
@@ -286,17 +147,58 @@ order to show the connection (of this) with the (main) narrative-.
 इत्याद्या। अथेदानीं धर्मतत्त्वे च गतसंदेहः मुक्तसंशयः त्वच्छासने
 स्थितोऽस्मि। तव वचनमहं करिष्ये। त्वत्प्रसादात्कृतार्थस्य मम न
 किंचित्कर्तव्यमस्तीत्यभिप्रायः।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥18.73॥ एवं पृष्टः कृतार्थत्वेन पुनरुपदेशानपेक्षतामात्मन अर्जुन उवाच --
+नष्टो मोह इति। नष्ट उच्छिन्नो मोहोऽज्ञानकृतो विपर्ययः तन्नाशकमाह।
+स्मृतिर्लब्धा त्वत्प्रसादान्मया यस्मात्त्वदुपदेशादात्मज्ञानं लब्धं
+सर्वसंशयानाक्रान्ततया प्राप्तमतः सर्वप्रतिबन्धशून्येनात्मज्ञानेन मोहो
+नष्ट इत्यर्थः। हेऽच्युत; आत्मत्वेन निश्चितत्वात्वियोगायोग्यस्मृतिलम्भने
+सर्वग्रन्थीनां विप्रमोक्षः इति श्रुत्यर्थमनुभवन्नाह -- स्थितोऽस्मीति।
+स्थितोस्मि गतसंदेहो निवृत्तसर्वसंदेहः स्थितोऽस्मि युद्धकर्तव्यतारूपे
+त्वच्छासने। यावज्जीवं च करिष्ये वचनं तव भगवतः परमगुरोराज्ञां
+पालयिष्यामीति प्रयाससाफल्यकथनेन भगवन्तमर्जुनः परितोषयामास। अनेन
+गीताशास्त्राध्यायिनो भगवत्प्रसादादवश्यं मोक्षफलपर्यन्तं ज्ञानं भवतीति
+शास्त्रफलमुपसंहृतं तद्धास्य विजज्ञावितिवत्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.73।। अर्जुन उवाच -- नष्टो मोह इति। विपरीतं ज्ञानं
+॥18.73॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥18.73॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.73॥ नष्ट इति। नष्टो मोह इत्यादिना युद्धप्रवृत्तिस्तावदर्जुनस्योत्पन्ना; न तु सम्यग्ब्रह्मवित्त्वं जातम् इति सूचयन् भाविनोऽनुगीतार्थस्यावकाशं ददाति।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.73 Nastah etc. By the passage '\[My\] delusion is destroyed etc', it is indicated that \[after hearing the Lord's instruction\], only an inclination to fight has risen in Arjuna, but the perfect realisation of the Brahman is not yet born in him. While indicating so, \[the sage Vyasa\] provides a scope for the would-be subject matter for the Anugita.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.73॥ अर्जुन उवाच -- नष्टो मोह इति। विपरीतं ज्ञानं
 आत्मानात्माविवेकविषयकं विनष्टं मम। स्मृतिश्च यथावस्थितत्त्वज्ञानं
 त्वत्प्रसादाल्लब्धा। तत्रानात्मनि प्रकृतितत्कार्ये स्वात्माभिमानरूपो
 मोहः परमपुरुषस्वरूपतया तदात्मकस्य सर्वस्य चिदचिद्वस्तुनः
@@ -308,93 +210,79 @@ _________________
 पुरुषोत्तमस्त्वमिति ज्ञानं च स्मृतिरूपं लब्धं; त्वत्प्रसादान्मोहः
 साङ्ख्योपदेशेन गतः; स्मृतिर्योगोपदेशेन लब्धा। प्रसादो भक्तिरिति वा। अतो
 गतसन्देहस्तव वचनं युद्धादिकर्तव्यताविषयं करिष्ये।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.73।। एवं प्रश्ने नष्टमोहः सन् अर्जुन उत्तरं प्राह -- नष्टो मोह इति।
+<details><summary>पुरुषोत्तमः</summary>
+
+॥18.73॥ एवं प्रश्ने नष्टमोहः सन् अर्जुन उत्तरं प्राह -- नष्टो मोह इति।
 अज्ञानकृतो मोहो नष्टः; त्वदुक्तिश्रवणेनेति शेषः। अधिकमपि जातं हे अच्युत
 सर्वत्र च्युतिरहित मया अहङ्काराज्ञानसहितेन त्वत्प्रसादात् स्मृतिः
 तत्स्वरूपात्मिका लब्धा प्राप्ता। प्रसादात् इति कथनेन साधनालभ्यतोक्ता। अहो
 दासस्य प्रभ्वाज्ञाकरणमेव धर्मः; न त्वन्योऽपि धर्माधर्मविचारः। एवं
 गतसन्देहः संस्तवाग्रे दासत्वेन स्थितोऽस्मि इदानीं,तव वचनं पूर्वोक्तं
-युद्धादिरूपं सर्वधर्मत्यागरूपं त्वद्भक्तेष्वेतदुपदेशरूपं च करिष्ये।  
-  
-
+युद्धादिरूपं सर्वधर्मत्यागरूपं त्वद्भक्तेष्वेतदुपदेशरूपं च करिष्ये।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।18.73।। कृतार्थः सन्नर्जुन उवाच **-- नष्ट इति।** आत्मविषयो मोहो नष्टः।
+॥18.73॥ कृतार्थः सन्नर्जुन उवाच **-- नष्ट इति।** आत्मविषयो मोहो नष्टः।
 यतोऽयमहमस्मीति स्वरूपानुसंधानरूपा स्मृतिस्त्वप्रसादान्मया लब्धा। अतः
 स्थितोऽस्मि युद्धायोपस्थितोऽस्मि। गतो धर्मविषयः संदेहो यस्य सोऽहं
 तवाज्ञां करिष्य इति।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।18.73।। अर्जुन स्वीकार करता है कि उसका मोह नष्ट हो गया है। मुझे स्मृति
-प्राप्त हो गयी है इस वाक्य से यह दर्शाया गया है कि उसके मोह की निवृत्ति
-भगवान् के उपदेश को केवल अन्धश्रद्धा से ग्रहण कर लेने में नहीं हुई है;
-वरन् पूर्ण विचार करके प्राप्त ज्ञान से हुई है। उसके अन्दर का वीरत्व
-जागृत हो गया है और उसका सम्मोहावस्था समाप्त हो गयी है। जब हम गीता दर्शन
-के वास्तविक अभिप्राय को पूर्णतया समझ लेते हैं; केवल तभी हम में ज्ञान की
-जागृति होती है और हम अपने वास्तविक स्वरूप को पहचान पाते हैं। पूर्णत्व तो
-हमारा आत्मस्वरूप ही है। उसे किसी देशान्तर या कालान्तर में किसी बाह्य
-शक्ति के हस्तक्षेप की सहायता से प्राप्त नहीं करना है। केवल अज्ञान के
-कारण हम स्वयं को जीव समझ कर दुख और कष्ट भोग रहे हैं। जीव दशा के कष्टों
-को भोगते समय भी वस्तुत हम पूर्ण आत्म स्वरूप ही होते हैं। अत आवश्यकता
-केवल सम्यक् आत्मज्ञान की ही है; आत्मा तो नित्योपलब्ध स्वरूप ही है।
-मनुष्य का देवत्व जागृत होने से उसके अन्दर का पशुत्व समाप्त हो जाता
-है। अपूर्ण ज्ञान की स्थिति में ही मन में शोक; मोह; भय; निराशा; दुर्बलता
-आदि अनेक सन्देह उत्पन्न होते हैं। अब; अर्जुन को पूर्ण ज्ञान होने के कारण
-वह सन्देह रहित (गतसन्देह) भी हो गया है। आत्मज्ञान की दृष्टि से;
-युद्धभूमि का पुनर्निरीक्षण एवं पुनर्मूल्यांकन करने पर उसे; अब; अपने
-कर्तव्य को निश्चित करने में कोई कठिनाई नहीं होती है। वह अपने निर्णय की
-स्पष्ट घोषणा करता है; मैं आपके आदेश का पालन करूंगा। आत्मस्वरूप श्रीकृष्ण
-ही विशुद्ध बुद्धि के रूप में व्यक्त होते हैं। अत समस्त साधकों को अपने
-अहंकार का त्याग करके अपनी विशुद्ध बुद्धि के निर्णयों का सदैव पालन करना
-चाहिए। यही आध्यात्मिक जीवन का प्रारम्भ है; और समापान भी। यहाँ गीताशास्त्र
-की परिसमाप्ति होती है। अब; गीताचार्य और गीता की स्तुति करते हुए तथा
-महाभारत की कथा का संबंध बताते हुए
-
+18.73 Arjuna said Destroyed is my delusion and I have, by your grace, O Krsna, gained knowledge (Smrti). Freed from doubts, I stand steadfast, I will fulfil Your world.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.73।। अर्जुन ने कहा -- हे अच्युत ! आपके कृपाप्रसाद से मेरा मोह नष्ट
-हो गया है, और मुझे स्मृति (ज्ञान) प्राप्त हो गयी है; अब मैं संशयरहित हो
-गया हूँ और मैं आपके वचन (आज्ञा) का पालन करूँगा।।
+<details><summary>गम्भीरानन्दः</summary>
 
+18.73 Arjuna said O Acyuta, (my) delusion has been destroyed and memory has been regained by me through Your grace. I stand with my doubt removed; I shall follow Your instruction.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+18.73 Arjuna replied: My Lord! O Immutable One! My delusion has fled. By Thy Grace, O Changeless One, the light has dawned. My doubts are gone,
+and I stand before Thee ready to do Thy will."
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.73. Arjuna said My delusion is destroyed; recollection is gained by me through your Grace, O Acyuta ! I stand firm, free of doubts; I shall excute your ;nd.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+18.73 Arjuna said Destroyed is my delusion as I have gained my knowledge
+(memory) through Thy grace, O Krishna. I remain freed from doubts. I will act according to Thy word.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+18.73 नष्टः is destroyed; मोहः delusion; स्मृतिः memory (knowledge);
+लब्धा has been gained; त्वत्प्रसादात् through Thy grace; मया by me;
+अच्युत O Krishna; स्थितः अस्मि I remain; गतसन्देहः freed from doubts;
+करिष्ये (I) will do; वचनम् word; तव Thy.Commentary Moha Delusion This is the strongest weapon of Maya to take the Jivas in Her clutch. It is born of ignorance. It is the cause of the whole evil of Samsara. It is as hard to cross as the ocean.Smritih I have attained knowledge of the true nature of the Self. The whole aim of Sadhana or spiritual practice and the study of scriptures is the annihilation of delusion and the attainment of the knowledge of the Self. When one gets it; the three knots or ties of ignorance; viz.; ignorance; delusion (desire) and action are destroyed; all the doubts are cleared; and all the Karmas are destroyed.To him who beholds the Self in all beings; what delusion is there; what grief (Isavasya Upanishad; 7)I shall do Thy word Arjuna means to say; I am firm in Thy ;nd. Through Thy grace I have achieved the end of life. I have nothing more to do.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.73।। अर्जुन बोले -- हे अच्युत ! आपकी कृपासे मेरा मोह नष्ट हो गया है
 और स्मृति प्राप्त हो गयी है। मैं सन्देहरहित होकर स्थित हूँ। अब मैं आपकी
 आज्ञाका पालन करूँगा।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।18.73।।***व्याख्या --***  **नष्टो मोहः स्मृतिर्लब्धा
 त्वत्प्रसादान्मयाच्युत** -- अर्जुनने यहाँ भगवान्के लिये **अच्युत**
@@ -629,59 +517,42 @@ _________________
   
 ***सम्बन्ध --*** पहले अध्यायके बीसवें श्लोकमें **अर्थ** पदसे
 श्रीकृष्णार्जुनसंवादके रूपमें गीताका आरम्भ हुआ था; अब आगेके श्लोकमें
-**इति** पदसे उसकी समाप्ति करते हुए सञ्जय इस संवादकी महिमा गाते हैं।  
-  
-
+**इति** पदसे उसकी समाप्ति करते हुए सञ्जय इस संवादकी महिमा गाते हैं।
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-18.73. Arjuna said My delusion is destroyed; recollection is gained by me through your Grace, O Acyuta ! I stand firm, free of doubts; I shall excute your ;nd.
-
+।।18.73।। अर्जुन स्वीकार करता है कि उसका मोह नष्ट हो गया है। मुझे स्मृति
+प्राप्त हो गयी है इस वाक्य से यह दर्शाया गया है कि उसके मोह की निवृत्ति
+भगवान् के उपदेश को केवल अन्धश्रद्धा से ग्रहण कर लेने में नहीं हुई है;
+वरन् पूर्ण विचार करके प्राप्त ज्ञान से हुई है। उसके अन्दर का वीरत्व
+जागृत हो गया है और उसका सम्मोहावस्था समाप्त हो गयी है। जब हम गीता दर्शन
+के वास्तविक अभिप्राय को पूर्णतया समझ लेते हैं; केवल तभी हम में ज्ञान की
+जागृति होती है और हम अपने वास्तविक स्वरूप को पहचान पाते हैं। पूर्णत्व तो
+हमारा आत्मस्वरूप ही है। उसे किसी देशान्तर या कालान्तर में किसी बाह्य
+शक्ति के हस्तक्षेप की सहायता से प्राप्त नहीं करना है। केवल अज्ञान के
+कारण हम स्वयं को जीव समझ कर दुख और कष्ट भोग रहे हैं। जीव दशा के कष्टों
+को भोगते समय भी वस्तुत हम पूर्ण आत्म स्वरूप ही होते हैं। अत आवश्यकता
+केवल सम्यक् आत्मज्ञान की ही है; आत्मा तो नित्योपलब्ध स्वरूप ही है।
+मनुष्य का देवत्व जागृत होने से उसके अन्दर का पशुत्व समाप्त हो जाता
+है। अपूर्ण ज्ञान की स्थिति में ही मन में शोक; मोह; भय; निराशा; दुर्बलता
+आदि अनेक सन्देह उत्पन्न होते हैं। अब; अर्जुन को पूर्ण ज्ञान होने के कारण
+वह सन्देह रहित (गतसन्देह) भी हो गया है। आत्मज्ञान की दृष्टि से;
+युद्धभूमि का पुनर्निरीक्षण एवं पुनर्मूल्यांकन करने पर उसे; अब; अपने
+कर्तव्य को निश्चित करने में कोई कठिनाई नहीं होती है। वह अपने निर्णय की
+स्पष्ट घोषणा करता है; मैं आपके आदेश का पालन करूंगा। आत्मस्वरूप श्रीकृष्ण
+ही विशुद्ध बुद्धि के रूप में व्यक्त होते हैं। अत समस्त साधकों को अपने
+अहंकार का त्याग करके अपनी विशुद्ध बुद्धि के निर्णयों का सदैव पालन करना
+चाहिए। यही आध्यात्मिक जीवन का प्रारम्भ है; और समापान भी। यहाँ गीताशास्त्र
+की परिसमाप्ति होती है। अब; गीताचार्य और गीता की स्तुति करते हुए तथा
+महाभारत की कथा का संबंध बताते हुए
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.73 Arjuna said O Acyuta, (my) delusion has been destroyed and memory has been regained by me through Your grace. I stand with my doubt removed; I shall follow Your instruction.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।18.73।। अर्जुन ने कहा -- हे अच्युत ! आपके कृपाप्रसाद से मेरा मोह नष्ट
+हो गया है, और मुझे स्मृति (ज्ञान) प्राप्त हो गयी है; अब मैं संशयरहित हो
+गया हूँ और मैं आपके वचन (आज्ञा) का पालन करूँगा।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.73 Arjuna replied: My Lord! O Immutable One! My delusion has fled. By Thy Grace, O Changeless One, the light has dawned. My doubts are gone,
-and I stand before Thee ready to do Thy will."
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-18.73 Arjuna said Destroyed is my delusion and I have, by your grace, O Krsna, gained knowledge (Smrti). Freed from doubts, I stand steadfast, I will fulfil Your world.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-18.73 Arjuna said Destroyed is my delusion as I have gained my knowledge
-(memory) through Thy grace, O Krishna. I remain freed from doubts. I will act according to Thy word.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-18.73 नष्टः is destroyed; मोहः delusion; स्मृतिः memory (knowledge);
-लब्धा has been gained; त्वत्प्रसादात् through Thy grace; मया by me;
-अच्युत O Krishna; स्थितः अस्मि I remain; गतसन्देहः freed from doubts;
-करिष्ये (I) will do; वचनम् word; तव Thy.Commentary Moha Delusion This is the strongest weapon of Maya to take the Jivas in Her clutch. It is born of ignorance. It is the cause of the whole evil of Samsara. It is as hard to cross as the ocean.Smritih I have attained knowledge of the true nature of the Self. The whole aim of Sadhana or spiritual practice and the study of scriptures is the annihilation of delusion and the attainment of the knowledge of the Self. When one gets it; the three knots or ties of ignorance; viz.; ignorance; delusion (desire) and action are destroyed; all the doubts are cleared; and all the Karmas are destroyed.To him who beholds the Self in all beings; what delusion is there; what grief (Isavasya Upanishad; 7)I shall do Thy word Arjuna means to say; I am firm in Thy ;nd. Through Thy grace I have achieved the end of life. I have nothing more to do.
-
-</details>
 </div>

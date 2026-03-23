@@ -1,138 +1,289 @@
 +++
 title = "09 यज्ञार्थात्कर्मणोऽन्यत्र"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **यज्ञार्थात्** कर्मणो **ऽन्यत्र**  
 लोकोऽयं **कर्म-बन्धनः**।  
 तद्-अर्थं **कर्म** कौन्तेय  
 मुक्त-संगः **समाचर**॥3.9॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः।  
-तदर्थं कर्म कौन्तेय मुक्तसंगः समाचर।।3.9।।
+तदर्थं कर्म कौन्तेय मुक्तसंगः समाचर॥3.9॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
+<details><summary>वेङ्कटनाथः</summary>
 
-।।3.9।। यज्ञादिशास्त्रीयकर्मशेषभूताद् द्रव्यार्जनादेः **कर्मणः अन्यत्र**
-आत्मीयप्रयोजनशेषभूते कर्मणि क्रियमाणे **अयं लोकः कर्मबन्धनो** भवति। अतः
-त्वं यज्ञाद्यर्थं द्रव्यार्जनादिकं **कर्म समाचर** तत्र
-आत्मप्रयोजनसाधनतया यः सङ्गः तस्मात् सङ्गात् मुक्तः सन् समाचर। एवं
-मुक्तसङ्गेन यज्ञाद्यर्थतया कर्मणि क्रियमाणे यज्ञादिभिः कर्मभिः आराधितः
-परमपुरुषः अस्य अनादिकालप्रवृत्तकर्मवासनां समुच्छिद्य अव्याकुलात्मावलोकनं
-ददाति इत्यर्थः। यज्ञशिष्टेन एव सर्वपुरुषार्थसाधननिष्ठानां
-शरीरधारणकर्तव्यताम् अयज्ञशिष्टेन शरीरधारणं कुर्वतां दोषं च आह
-
+॥3.9॥ "यज्ञार्थाद्" इति श्लोकः  
+कर्म-विधि-निषेधयोर् विषय-व्यवस्थापक  
+इति ज्ञापयितुं शङ्कते एवं तर्हीति। 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
+एवं तर्हि द्रव्यार्जनादेः कर्मणो  
+<details><summary>वेङ्कटनाथः</summary>
+
+द्रव्यार्जनादेर् इत्य् अत्रादिशब्देन महा-यज्ञादि-ग्रहणम्। 
+</details>
+
+अहङ्कार-ममकारादि-- सर्वेन्द्रिय-व्याकुलता-गर्भत्वेन  
+
+<details><summary>वेङ्कटनाथः</summary>
+
+ममकारादीत्य् अत्र तु राग-द्वेषाभिनिवेश-वचनादान-विहरणादि-ग्रहः।  
+अहङ्कार-ममकारादेर् मनो-वृत्ति-विशेषत्वाद्  
+इन्द्रिय-व्याकुलता-रूपत्वोक्तिः।  
+अस्य पुरुषस्येति मुमुक्षोर् अपीति भावः।
+</details>
+
+अस्य पुरुषस्य कर्म-वासनया बन्धनं भविष्यति  
+इत्य् अत्राह … ।
+
+<details><summary>वेङ्कटनाथः</summary>
+
+कर्म-वासनयेति प्राचीनया ऽनुपरतया ऽद्यतन-व्यापाराभ्यासोपबृंहितया चेति भावः।  
+बन्धनं भविष्यतीति  
+उत्तरोत्तर-शरीर-बन्धादिना संसारानुवृत्ति-प्रसङ्ग  
+इत्य् अर्थः। 
+</details>
+
+॥3.9॥ यज्ञादि-शास्त्रीय-कर्म--शेष-भूताद् द्रव्यार्जनादेः **कर्मणो ऽन्यत्र**  
+
+<details><summary>वेङ्कटनाथः</summary>
+
+अत्र "यज्ञो वै विष्णुः" तै.सं.1।7।4 इति श्रुतेर्  
+"यज्ञ ईश्वर" इति परैर् व्याख्यातम्।  
+तच् चाविरुद्धम् अस्माकम्।  
+तथापि समनन्तर-श्लोक-पठित-यज्ञ-शब्दैकार्थ्यम् उचितम्  
+इत्य् अभिप्रायेणाह यज्ञादि-शास्त्रीय-कर्मेति।  
+यज्ञादीत्य् आदि-शब्देन यज्ञ-शब्दस्योपलक्ष्य-परत्वं ज्ञाप्यते।  
+
+शास्त्रीय-कर्म-शब्देन  
+उपलक्षणोपलक्ष्याणां सामान्यतः सङ्ग्राहकाकारं  
+तद्-अर्थ-कर्मणो निर्दोषत्व-हेतुं  
+च दर्शयति।  
+
+यज्ञार्थात् यज्ञ-प्रयोजनात्।  
+तद् इदं दर्शितं शेष-भूताद् इति।
+</details>
+
+आत्मीय-प्रयोजन-शेष-भूते कर्मणि क्रियमाणे  
+**अयं लोकः कर्म-बन्धनो** भवति।  
+
+<details><summary>वेङ्कटनाथः</summary>
+
+कर्मैव बन्धनं,  
+कर्मणा वा बन्धनं यस्य स कर्म-बन्धनः।  
+तस्य च बन्धकत्वं स्व-वासना-द्वारा,  
+न पुनः +++(प्रतिषिद्ध-मात्र-जन्य-)+++ पापतया -  
+अविहित-प्रतिषिद्ध-विषयत्वाद् अत्र कर्म-बन्धन-शब्दस्य। 
+
+> अस्य पुरुषस्य कर्म वासनया बन्धनं भविष्यति  
+
+इति शङ्का-ग्रन्थेनायम् अर्थो दर्शितः।  
+
+**लोको** ऽत्र संसारि-चेतन-वर्गः।  
+</details>
+
+अतस् त्वं  
+यज्ञाद्य्-अर्थं द्रव्यार्जनादिकं **कर्म समाचर**  
+
+<details><summary>वेङ्कटनाथः</summary>
+
+अत इति।  
+यज्ञार्थस्य कर्मणो बन्ध-हेतुत्वाभावाद् इत्य् अर्थः।  
+द्रव्यादि-लाभ-हेतु-भूत-- युद्ध-प्रोत्साहन-व्यक्त्य्-अर्थं  
+द्रव्यार्जनादिकम् इत्य् उक्तम्।
+</details>
+
+तत्र आत्म-+++(प्रधान-)+++प्रयोजन-साधनतया यः सङ्गस्  
+
+<details><summary>वेङ्कटनाथः</summary>
+
+"तादर्थ्यं सङ्ग-त्यागश् चेत्य् उभयम् अपि विधेयम्" इति ज्ञापनाय  
+पृथग्-वाक्य-करणम्।  
+कर्तृत्व-फल-त्यागयोर् विलक्षणं सङ्ग-त्यागस्य स्वरूपं दर्शयति तत्रेति।  
+
+> यत् किञ्चित् प्रयोजनम् अनुद्दिश्य  
+न मन्दो ऽपि प्रवर्तते 
+
+इति चेत्  
+सत्यं प्रयोजन-साधनत्व-बुद्ध्य्-अभावे ऽपि  
+सुहृद्-उपचारवद् भगवत्-समाराधन-रूपतया स्वरूपेण प्रयोजनत्व-बुद्ध्या प्रवृत्त्य्-उपपत्तिः।  
+</details>
+
+तस्मात् सङ्गात् मुक्तः सन् समाचर।  
+
+<details><summary>वेङ्कटनाथः</summary>
+
+"मुक्त-सङ्गम्" इत्य् अत्र  
+सङ्गस्य बन्धकत्व-विवक्षया  
+सङ्गान् मुक्त इत्य् उक्तम्। 
+</details>
+
+<details><summary>वेङ्कटनाथः</summary>
+
+प्रकृत-चोद्यस्यादृष्ट-द्वारा फल-प्रदत्वेन परिहारं वदन्न्  
+अ-तद्-अर्थस्य बन्ध-हेतुत्वोक्त्या फलितं  
+तद्-अर्थस्य मोक्ष-हेतुत्व-प्रकारं दर्शयति  
+एवम् इति। 
+
+एतेन कर्मणाम् अप्रामाणिकापूर्व-द्वारा फल-प्रदत्वम्  
+इति कुदृष्टि-मतं निरस्तम्।  
+आर्थवादिकापेक्षित-देवता-प्रीति-द्वारैव फल-प्रदत्वोपपत्तौ  
+
+> "स एनं प्रीतः प्रीणाति" यजुः5।5।10।48 
+
+इत्य्-आदि-श्रुत-हानाश्रुत-कल्पनाद्य्-अनुपपत्तेः।  
+</details>
+
+एवं मुक्त-सङ्गेन यज्ञाद्य्-अर्थतया कर्मणि क्रियमाणे  
+यज्ञादिभिः कर्मभिर् आराधितः परम-पुरुषो  
+
+<details><summary>वेङ्कटनाथः</summary>
+
+"कर्मभिर् आराधित" इत्य् अनेन  
+हविर्-ग्रहणं प्रीतिश् चाभिप्रेते।  
+
+"परम-पुरुष" इति तद्-अविनाभूतादित्य-वर्णादि-- श्रुति-सिद्ध-विग्रह-विशेषवत्त्वं,  
+सर्व-ब्रह्माण्ड-- युगपत्-कर्म-सन्निधि-शक्तिश् च,  
+ददातीति वर-प्रदत्वम् इति, विग्रहादि-पञ्चक+++(=??-)+++-प्रदर्शनम्। 
+</details>
+
+अस्यानादि-काल-प्रवृत्त-कर्म-वासनां समुच्छिद्य
+
+<details><summary>वेङ्कटनाथः</summary>
+
+कर्म-वासनां समुच्छिद्येति विपरीत-वासना-चोद्यं परिहृतम्।
+</details>
+
+अव्याकुलात्मावलोकनं ददाति  
+इत्य् अर्थः।
+</details>
+
+<details><summary>वेदान्तदेशिकः</summary>
+
+…
+</details>
+
+<details><summary>आदिदेवानन्दः</summary>
+
+3.9 The world is imprisoned by the bond of work only when work is done for personal ends, but not when work is performed or money acired for the purpose of sacrifice etc. prescribed in the scriptures. So, for the purpose of sacrifice, you must perform acts like the acisition of money. In doing so, overcome attachments generated by the pursuit of personal ambitions, and then do your work in the spirit of Yajna. When a person free from attachment does the work for the sake of sacrifices etc., the Supreme Person, propitiated by sacrifices etc., grants him the calm vision of the self after destroying the subtle impressions of his Karmas, which have continued from time without beginning. Sri Krsna stresses the need for sustenance of the body solely by the remnants of sacrifices in respect of those who are devoted to all ends of human life. He decries the sin of those who nourish the body by things other than the remnants of sacrifices:
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
+
+<details><summary>मूलम्</summary>
+
+॥3.9॥ यज्ञो वै विष्णुः (तै0 सं0 1.7.4) इति श्रुतेः यज्ञः ईश्वरः तदर्थं यत् क्रियते तत् यज्ञार्थं कर्म। तस्मात् **कर्मणः अन्यत्र** अन्येन कर्मणा **लोकः अयम्** अधिकृतः कर्मकृत् **कर्मबन्धनः** कर्म बन्धनं यस्य सोऽयं कर्मबन्धनः लोकः न तु **यज्ञार्थात्**। अतः **तदर्थं** यज्ञार्थं **कर्म कौन्तेय मुक्तसङ्गः** कर्मफलसङ्गवर्जितः सन् **समाचर** निर्वर्तय॥ इतश्च अधिकृतेन कर्म कर्तव्यम्
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+3.9 Ayam, this; lokah, man, the one who is eligible for action;
+karma-bandhanah, becomes bound by actions- the person who has karma as
+his bondage (bandhana) is karma-bandhanah-; anyatra, other than; that
+karmanah, action; yajnarthat, meant for Got not by that meant for God.
+According to the Vedic text, 'Sacrifice is verily Visnu' (Tai. Sam.
+1.7.4), yajnah means God; whatever is done for Him is yajnartham.
+Therefore, mukta-sangah, without being attached, being free from
+attachment to the results of actions; O son of Kunti, samacara, you
+perform; karma, actions; tadartham, for Him, for God. An eligible person
+should engage in work for the following reason also:
+</details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥3.9॥ जो तू ऐसा समझता है कि बन्धनकारक होनेसे कर्म नहीं करना चाहिये तो
+यह समझना भी भूल है। कैसे  
   
-  
-।।3.9।। यज्ञार्थात् इति श्लोकः कर्मविधिनिषेधयोर्विषयव्यवस्थापक इति
-ज्ञापयितुं शङ्कते एवं तर्हीति। द्रव्यार्जनादेरित्यत्रादिशब्देन
-महायज्ञादिग्रहणम्। ममकारादीत्यत्र तु
-रागद्वेषाभिनिवेशवचनादानविहरणादिग्रहः।
-अहङ्कारममकारादेर्मनोवृत्तिविशेषत्वादिन्द्रियव्याकुलतारूपत्वोक्तिः। अस्य
-पुरुषस्येति मुमुक्षोरपीति भावः। कर्मवासनयेति
-प्राचीनयाऽनुपरतयाऽद्यतनव्यापाराभ्यासोपबृंहितया चेति भावः। बन्धनं
-भविष्यतीति उत्तरोत्तरशरीरबन्धादिना संसारानुवृत्तिप्रसङ्ग इत्यर्थः।
-अत्रयज्ञो वै विष्णुः तै.सं.1।7।4 इति श्रुतेःयज्ञ ईश्वरः इति
-परैर्व्याख्यातम् तच्चाविरुद्धमस्माकम् तथापि
-समनन्तरश्लोकपठितयज्ञशब्दैकार्थ्यमुचितमित्यभिप्रायेणाह
-यज्ञादिशास्त्रीयकर्मेति। यज्ञादीत्यादिशब्देन यज्ञशब्दस्योपलक्ष्यपरत्वं
-ज्ञाप्यते। शास्त्रीयकर्मशब्देनोपलक्षणोपलक्ष्याणां सामान्यतः
-सङ्ग्राहकाकारं तदर्थकर्मणो निर्दोषत्वहेतुं च दर्शयति। यज्ञार्थात्
-यज्ञप्रयोजनात्। तदिदं दर्शितंशेषभूतादिति। कर्मैव बन्धनं कर्मणा वा बन्धनं
-यस्य स कर्मबन्धनः तस्य च बन्धकत्वं स्ववासनाद्वारा न पुनः पापतया
-अविहितप्रतिषिद्धविषयत्वादत्र कर्मबन्धनशब्दस्य। अस्य पुरुषस्य कर्मवासनया
-बन्धनं भविष्यति इति शङ्काग्रन्थेनायमर्थो दर्शितः। लोकोऽत्र
-संसारिचेतनवर्गः। अत इति। यज्ञार्थस्य कर्मणो बन्धहेतुत्वभावादित्यर्थः।
-द्रव्यादिलाभहेतुभूतयुद्धप्रोत्साहनव्यक्त्यर्थंद्रव्यार्जनादिकमित्युक्तम्।
-तादर्थ्यं सङ्गत्यागश्चेत्युभयमपि विधेयमिति ज्ञापनाय
-पृथग्वाक्यकरणम्। कर्तृत्वफलत्यागयोर्विलक्षणं सङ्गत्यागस्य स्वरूपं दर्शयति
-तत्रेति। यत्किञ्चित्प्रयोजनमनुद्दिश्य न मन्दोऽपि प्रवर्तते इति चेत्
-सत्यं प्रयोजनसाधनत्वबुद्ध्यभावेऽपि सुहृदुपचारवद्भगवत्समाराधनरूपतया
-स्वरूपेण प्रयोजनत्वबुद्ध्या प्रवृत्त्युपपत्तिः। मुक्तसङ्गं इत्यत्र
-सङ्गस्य बन्धकत्वविवक्षयासङ्गान्मुक्त इत्युक्तम्।
-प्रकृतचोद्यस्यादृष्टद्वारा फलप्रदत्वेन परिहारं वदन्नतदर्थस्य
-बन्धहेतुत्वोक्त्या फलितं तदर्थस्य मोक्षहेतुत्वप्रकारं दर्शयति एवमिति।
-एतेन कर्मणामप्रामाणिकापूर्वद्वारा फलप्रदत्वमिति कुदृष्टिमतं निरस्तम्
-आर्थवादिकापेक्षितदेवताप्रीतिद्वारैव फलप्रदत्वोपपत्तौ स एनं प्रीतः
-प्रीणाति यजुः5।5।10।48
-इत्यादिश्रुतहानाश्रुतकल्पनाद्यनुपपत्तेः। कर्मभिराराधित इत्यनेन
-हविर्ग्रहणं प्रीतिश्चाभिप्रेतेपरमपुरुष इति
-तदविनाभूतादित्यवर्णादिश्रुतिसिद्धविग्रहविशेषवत्त्वं
-सर्वब्रह्माण्डयुगपत्कर्मसन्निधिशक्तिश्चददातीति वरप्रदत्वमिति
-विग्रहादिपञ्चकप्रदर्शनम्। कर्मवासनां समुच्छिद्येति विपरीतवास नाचोद्यं
-परिहृतम्।  
-  
-
+यज्ञ ही विष्णु है इस श्रुतिप्रमाणसे यज्ञ ईश्वर है और उसके लिये जो कर्म
+किया जाय वह यज्ञार्थ कर्म है उस ( ईश्वरार्थ ) कर्मको छोड़कर दूसरे
+कर्मोंसे कर्म करनेवाला अधिकारी मनुष्यसमुदाय कर्मबन्धनयुक्त हो जाता है पर
+ईश्वरार्थ किये जानेवाले कर्मसे नहीं। इसलिये हे कौन्तेय तू कर्मफल और
+आसक्तिसे रहित होकर ईश्वरार्थ कर्मोंका भली प्रकार आचरण कर।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.9 The world is imprisoned by the bond of work only when work is done for personal ends, but not when work is performed or money acired for the purpose of sacrifice etc. prescribed in the scriptures. So, for the purpose of sacrifice, you must perform acts like the acisition of money.
-In doing so, overcome attachments generated by the pursuit of personal ambitions, and then do your work in the spirit of Yajna. When a person free from attachment does the work for the sake of sacrifices etc., the Supreme Person, propitiated by sacrifices etc., grants him the calm vision of the self after destroying the subtle impressions of his Karmas, which have continued from time without beginning. Sri Krsna stresses the need for sustenance of the body solely by the remnants of sacrifices in respect of those who are devoted to all ends of human life. He decries the sin of those who nourish the body by things other than the remnants of sacrifices:
+<details><summary>आनन्दगिरिः</summary>
 
+॥3.9॥ कर्मणा बध्यते जन्तुः इति स्मृतेर्बन्धार्थं कर्म तन्न
+श्रेयोऽर्थिना कर्तव्यमित्याशङ्कामनमूद्य दूषयति **यच्चेत्यादिना।**
+कर्माधिकृतस्य तदकरणमयुक्तमिति प्रतिज्ञातं प्रश्नपूर्वकं विवृणोति
+**कथमित्यादिना।** फलाभिसन्धिमन्तरेण यज्ञार्थं कर्म कुर्वाणस्य
+बन्धाभावात्तादर्थ्येन कर्म कर्तव्यमित्याह **तदर्थमिति।** यज्ञार्थं
+कर्मेत्ययुक्तं नहि कर्मार्थमेव कर्मेत्याशङ्क्य व्याचष्टे **यज्ञो वै
+विष्णुरिति।** कथं तर्हि कर्मणा बध्यते जन्तुरिति स्मृतिस्तत्राह
+**तस्मादिति।** ईश्वरार्पणबुद्ध्या कृतस्य कर्मणो बन्धार्थत्वाभावे फलितमाह
+**अत इति।**
 </details>
-</div>
 
+<details><summary>नीलकण्ठः</summary>
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।3.9।। यतः यज्ञार्थात् इति। यज्ञार्थात् अवश्यकरणीयात् अन्यानि कर्माणि
-बन्धकानि। अवश्यकर्तव्यं +++(omits अवश्यकर्तव्यम्)+++ मुक्तफलसंगतया क्रियमाणं
-न फलदम्।
-
+॥3.9॥ ननुकर्मणा बध्यते जन्तुः इति कर्मणां बन्धकत्वस्मृतेः कथं मुमुक्षुं
+मां तत्र नियोजयसीत्याशङ्क्याह **यज्ञार्थादिति।** यज्ञः
+परमेश्वराराधनंयज्ञ देवपूजायाम् इति धात्वर्थानुगमात्। तदर्थंयज्ञो वै
+विष्णुः इति श्रुतेर्विष्णुर्वा तदाराधनार्थं यत्कर्म ततोऽन्यत्र कर्मणि
+स्वर्गाद्यर्थे प्रवृत्तोऽयं लोकः कर्मबन्धनः कर्मणा बध्यते
+नत्वीश्वराराधनार्थेन। अतस्तदर्थं ईश्वराराधनार्थं कर्म वर्णाश्रमोचितं हे
+कौन्तेय मुक्तसङ्गः फलाभिलाषशून्यः सन् समाचर सम्यक्कुरु।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.9 Yajnarthat etc. Binding are the actions which are different from the
-one that is Yajnartha, i.e., the one that is to be performed
-necessarily. The action, that is to be performed necessarily, does not
-yield any fruit, if it is performed with no attachment for the fruit.
+<details><summary>धनपतिः</summary>
 
+॥3.9॥ ननुकर्मणा बध्यते जन्तुर्विद्यया च विमुच्यते इति स्मृत्या यच्च
+मन्यसे बन्धार्थत्वात्कर्म न कर्तव्यमिति तदप्यसदित्याह **यज्ञेति।**
+यज्ञार्थादीश्वरार्थात्। यज्ञो वै विष्णुः इति श्रुतेः कर्मणोऽन्यत्रान्येन
+कर्मणाऽयं लोकः कर्म बन्धनं यस्य सः। ये त्वन्यत्र कर्मणि प्रवृत्तोऽयं
+लोकः कर्मणा बध्यत इति भाष्यविरुद्धं वर्णयन्ति तैः प्रवृत्तपदाध्याहारदोषः
+कर्मण्यनुशासनाभावाद्बहुलग्रहणस्यागतिकगतित्वात् ल्युडनुपपत्तिदोषो
+बहुव्रीह्यभावेन पुंलिङ्गानुपपत्तिदोषश्च परिहरणीयः।
+तस्मात्कर्मफलासंगवर्जितःसन् कर्म समाचर। कौन्तेयेति संबोधयन् स्वपक्षग्रहण
+उत्साहयति।
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥3.9॥ कर्मणा बध्यते जन्तुः इति स्मृतेः सर्वं कर्म
+बन्धात्मकत्वान्मुमुक्षुणा न कर्तव्यमिति मत्वा तस्योत्तरमाह यज्ञः
+परमेश्वरःयज्ञो वै विष्णुः इति श्रुतेः तदाराधनार्थं यत्कर्म क्रियते
+तद्यज्ञार्थं तस्मात्मर्कणोऽन्यत्र कर्मणि प्रवृत्तोऽयं लोकः कर्माधिकारी
+कर्मबन्धनः कर्मणा बध्यते नत्वीश्वराराधनार्थेन। अतस्तदर्थं यज्ञार्थं कर्म
+हे कौन्तेय त्वं कर्मण्यधिकृतो मुक्तसङ्गः सन्समाचर सम्यक्
+श्रद्धादिपुरःसरमाचर।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।3.9।। कर्मणा बध्यते जन्तुः म.भा.12।241।7 इति कर्म बन्धकं स्मृतमित्यत आह
+॥3.9॥ कर्मणा बध्यते जन्तुः म.भा.12।241।7 इति कर्म बन्धकं स्मृतमित्यत आह
 यज्ञार्थादिति। कर्म बन्धनं यस्य लोकस्य स कर्मबन्धनः। यज्ञो विष्णुः
 यज्ञार्थं सङ्गरहितं कर्म न बन्धकमित्यर्थः। मुक्तसङ्ग इति सङ्ग विशेषणात्
 कामान्यः कामयते मुं.उ.3।2।2 इति श्रुतेश्चअनिष्टमिष्टं 18।12 इति
 वक्ष्यमाणत्वाच्चएतान्यपि तु कर्माणि 18।6 इति च तस्मान्नेष्टियाजुकः
 स्यात् बृ.उ.1।5।2 इति च विशेषवचनत्वे समेऽपि विशेषणं परिशिष्यते।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।3.9।। इदानीं तृतीयं पक्षमाशङ्क्य तत्परिहाराय श्लोकमवतारयति
+<details><summary>जयतीर्थः</summary>
+
+॥3.9॥ इदानीं तृतीयं पक्षमाशङ्क्य तत्परिहाराय श्लोकमवतारयति
 **कर्मणे**ति। बन्धकं मोक्षस्य प्रतिबन्धकं अतो न करोमीति शेषः।
 तत्पुरुषत्वभ्रान्तिनिरासायाह **कर्मे**ति। तत्पुरुषत्वेऽसङ्गतिः स्यादिति
 भावः। यज्ञशब्दस्य यागार्थत्वप्रतीतिमपाकर्तुमाह **यज्ञ** इति।
@@ -157,209 +308,107 @@ _________________
 न चेदमेव वाक्यं कल्पकम् तस्यावैष्णवादिकर्मत्यागेन चरितार्थत्वात्
 धर्मिपरित्यागाद्धर्ममात्रपरित्यागस्य ज्यायस्त्वात्। अतो न कर्मस्वरूपं
 त्याज्यमिति।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।3.9।। यज्ञो वै विष्णुः (तै0 सं0 1.7.4) इति श्रुतेः यज्ञः ईश्वरः तदर्थं
-यत् क्रियते तत् यज्ञार्थं कर्म। तस्मात् **कर्मणः अन्यत्र** अन्येन कर्मणा
-**लोकः अयम्** अधिकृतः कर्मकृत् **कर्मबन्धनः** कर्म बन्धनं यस्य सोऽयं
-कर्मबन्धनः लोकः न तु **यज्ञार्थात्**। अतः **तदर्थं** यज्ञार्थं **कर्म
-कौन्तेय मुक्तसङ्गः** कर्मफलसङ्गवर्जितः सन् **समाचर** निर्वर्तय।। इतश्च
-अधिकृतेन कर्म कर्तव्यम्
-
+॥3.9॥ यतः यज्ञार्थात् इति। यज्ञार्थात् अवश्यकरणीयात् अन्यानि कर्माणि बन्धकानि। अवश्यकर्तव्यं +++(omits अवश्यकर्तव्यम्)+++ मुक्तफलसंगतया क्रियमाणं न फलदम्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।3.9।। जो तू ऐसा समझता है कि बन्धनकारक होनेसे कर्म नहीं करना चाहिये तो
-यह समझना भी भूल है। कैसे  
-  
-यज्ञ ही विष्णु है इस श्रुतिप्रमाणसे यज्ञ ईश्वर है और उसके लिये जो कर्म
-किया जाय वह यज्ञार्थ कर्म है उस ( ईश्वरार्थ ) कर्मको छोड़कर दूसरे
-कर्मोंसे कर्म करनेवाला अधिकारी मनुष्यसमुदाय कर्मबन्धनयुक्त हो जाता है पर
-ईश्वरार्थ किये जानेवाले कर्मसे नहीं। इसलिये हे कौन्तेय तू कर्मफल और
-आसक्तिसे रहित होकर ईश्वरार्थ कर्मोंका भली प्रकार आचरण कर।
+<details><summary>शङ्करनारायणः</summary>
 
+3.9 Yajnarthat etc. Binding are the actions which are different from the one that is Yajnartha, i.e., the one that is to be performed necessarily. The action, that is to be performed necessarily, does not yield any fruit, if it is performed with no attachment for the fruit.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.9 Ayam, this; lokah, man, the one who is eligible for action;
-karma-bandhanah, becomes bound by actions- the person who has karma as
-his bondage (bandhana) is karma-bandhanah-; anyatra, other than; that
-karmanah, action; yajnarthat, meant for Got not by that meant for God.
-According to the Vedic text, 'Sacrifice is verily Visnu' (Tai. Sam.
-1.7.4), yajnah means God; whatever is done for Him is yajnartham.
-Therefore, mukta-sangah, without being attached, being free from
-attachment to the results of actions; O son of Kunti, samacara, you
-perform; karma, actions; tadartham, for Him, for God. An eligible person
-should engage in work for the following reason also:
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।3.9।। कर्मणा बध्यते जन्तुः इति स्मृतेर्बन्धार्थं कर्म तन्न
-श्रेयोऽर्थिना कर्तव्यमित्याशङ्कामनमूद्य दूषयति **यच्चेत्यादिना।**
-कर्माधिकृतस्य तदकरणमयुक्तमिति प्रतिज्ञातं प्रश्नपूर्वकं विवृणोति
-**कथमित्यादिना।** फलाभिसन्धिमन्तरेण यज्ञार्थं कर्म कुर्वाणस्य
-बन्धाभावात्तादर्थ्येन कर्म कर्तव्यमित्याह **तदर्थमिति।** यज्ञार्थं
-कर्मेत्ययुक्तं नहि कर्मार्थमेव कर्मेत्याशङ्क्य व्याचष्टे **यज्ञो वै
-विष्णुरिति।** कथं तर्हि कर्मणा बध्यते जन्तुरिति स्मृतिस्तत्राह
-**तस्मादिति।** ईश्वरार्पणबुद्ध्या कृतस्य कर्मणो बन्धार्थत्वाभावे फलितमाह
-**अत इति।**
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।3.9।। कर्मणा बध्यते जन्तुः इति स्मृतेः सर्वं कर्म
-बन्धात्मकत्वान्मुमुक्षुणा न कर्तव्यमिति मत्वा तस्योत्तरमाह यज्ञः
-परमेश्वरःयज्ञो वै विष्णुः इति श्रुतेः तदाराधनार्थं यत्कर्म क्रियते
-तद्यज्ञार्थं तस्मात्मर्कणोऽन्यत्र कर्मणि प्रवृत्तोऽयं लोकः कर्माधिकारी
-कर्मबन्धनः कर्मणा बध्यते नत्वीश्वराराधनार्थेन। अतस्तदर्थं यज्ञार्थं कर्म
-हे कौन्तेय त्वं कर्मण्यधिकृतो मुक्तसङ्गः सन्समाचर सम्यक्
-श्रद्धादिपुरःसरमाचर।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।3.9।। ननुकर्मणा बध्यते जन्तुः इति कर्मणां बन्धकत्वस्मृतेः कथं मुमुक्षुं
-मां तत्र नियोजयसीत्याशङ्क्याह **यज्ञार्थादिति।** यज्ञः
-परमेश्वराराधनंयज्ञ देवपूजायाम् इति धात्वर्थानुगमात्। तदर्थंयज्ञो वै
-विष्णुः इति श्रुतेर्विष्णुर्वा तदाराधनार्थं यत्कर्म ततोऽन्यत्र कर्मणि
-स्वर्गाद्यर्थे प्रवृत्तोऽयं लोकः कर्मबन्धनः कर्मणा बध्यते
-नत्वीश्वराराधनार्थेन। अतस्तदर्थं ईश्वराराधनार्थं कर्म वर्णाश्रमोचितं हे
-कौन्तेय मुक्तसङ्गः फलाभिलाषशून्यः सन् समाचर सम्यक्कुरु।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।3.9।। ननुकर्मणा बध्यते जन्तुर्विद्यया च विमुच्यते इति स्मृत्या यच्च
-मन्यसे बन्धार्थत्वात्कर्म न कर्तव्यमिति तदप्यसदित्याह **यज्ञेति।**
-यज्ञार्थादीश्वरार्थात्। यज्ञो वै विष्णुः इति श्रुतेः कर्मणोऽन्यत्रान्येन
-कर्मणाऽयं लोकः कर्म बन्धनं यस्य सः। ये त्वन्यत्र कर्मणि प्रवृत्तोऽयं
-लोकः कर्मणा बध्यत इति भाष्यविरुद्धं वर्णयन्ति तैः प्रवृत्तपदाध्याहारदोषः
-कर्मण्यनुशासनाभावाद्बहुलग्रहणस्यागतिकगतित्वात् ल्युडनुपपत्तिदोषो
-बहुव्रीह्यभावेन पुंलिङ्गानुपपत्तिदोषश्च परिहरणीयः।
-तस्मात्कर्मफलासंगवर्जितःसन् कर्म समाचर। कौन्तेयेति संबोधयन् स्वपक्षग्रहण
-उत्साहयति।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।3.9।। साङ्ख्यास्त्वात्मातिरिक्तस्य बन्धकत्वमालोच्य कर्म न कार्यमिति
+॥3.9॥ साङ्ख्यास्त्वात्मातिरिक्तस्य बन्धकत्वमालोच्य कर्म न कार्यमिति
 वदन्ति तत्तदधिकृतविषयमपि न श्रौतमिति निर्णयमाह यज्ञार्थादिति। इज्यतेऽनेन
 सावयवो भगवानिति यज्ञस्तदर्थात्। वेदे हि मुख्यः कर्मयज्ञ एव
 भगवद्रूपत्वात्। ततोऽन्यत्र काम्ये परधर्मे वा बन्धनम्। यज्ञरूपो हरिः
 कर्मोपास्तिकाण्डे परे बृहत्। प्रेमभक्तौ तु स्वयं हीत्यानर्थक्यं न
 युज्यते। बुद्ध्वा चेत्कुरुते कर्म ततस्तद्बन्धकं न हि। अन्यथा करणे तस्य
 सर्वथाबन्धसम्भवः इत्यर्थो दर्शितः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।3.9।। नन्वेवं चेत्तदा कर्माकरणं पूर्वं कथ मुक्तं इत्याशङ्क्याह
+<details><summary>पुरुषोत्तमः</summary>
+
+॥3.9॥ नन्वेवं चेत्तदा कर्माकरणं पूर्वं कथ मुक्तं इत्याशङ्क्याह
 यज्ञार्थादिति। अन्यत्र मत्सेवातोऽन्यत्र कर्ममार्गे कर्मबन्धनः
 कर्मनिबन्धनोऽयं लोकः। कर्मणो यज्ञार्थात् इत्युक्त्वा कर्म
 कार्यमित्याहुस्ततस्तत्कर्म न मत्फलकमिति मया बन्धकत्वात्तत्त्याग उक्तः
 यतस्तत्कर्म बन्धकमतस्तत्त्यक्त्वा कर्म कुर्वित्याह तदर्थमिति। तदर्थं
-यज्ञार्थं मुक्तसङ्गः सन् कर्म मत्सेवारूपं समाचर सम्यक्प्रकारेण कुरु।  
-  
-
+यज्ञार्थं मुक्तसङ्गः सन् कर्म मत्सेवारूपं समाचर सम्यक्प्रकारेण कुरु।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।3.9।। साङ्ख्यास्तु सर्वमपि कर्म बन्धकत्वान्न
+॥3.9॥ साङ्ख्यास्तु सर्वमपि कर्म बन्धकत्वान्न
 कार्यमित्याहुस्तन्निराकुर्वन्नाह **यज्ञार्थादिति।** यज्ञोऽत्र
 विष्णुः। यज्ञो वै विष्णुःइति श्रुतेः। तदाराधनार्थात्कर्मणोऽन्यत्र तदेकं
 विनाऽयं लोकः कर्मबन्धनः कर्मभिर्बध्यते न त्वीश्वराराधनार्थेन कर्मणा।
 अतस्तदर्थ विष्णुप्रीत्यर्थं मुक्तसङ्गो निष्कामः सन्कर्म सम्यगाचर।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।3.9।। प्रत्येक कर्म कर्त्ता के लिये बन्धन उत्पन्न नहीं करता। केवल
-अविवेकपूर्वक किये हुये कर्म ही मन में वासनाओं की वृद्धि करके परिच्छिन्न
-अहंकार और अपरिच्छिन्न आत्मस्वरूप के मध्य एक अभेद्य दीवार खड़ी कर देते
-हैं। वासनाओं से पूर्ण अन्तकरण वाले व्यक्ति में दिव्यत्व का कोई प्रकाश
-नहीं दिखाई देता। पारम्परिक अर्थानुसार यज्ञ के अतिरिक्त जो अन्य कर्म हैं
-वे वासनाओं को उत्पन्न कर व्यक्ति के विकास में अवरोधक बन जाते हैं। यहां
-यज्ञ शब्द का अर्थ है वे सब कर्म जिन्हें मनुष्य निस्वार्थ भाव एवं समर्पण
-की भावना से विश्व के कल्याण के लिये करता है। ऐसे कर्म व्यक्ति के पतन में
-नहीं वरन् उत्थान में ही सहायक होते हैं। यज्ञ शब्द का उपर्युक्त अर्थ समझ
-लेने पर आगे के श्लोक और अधिक स्पष्ट होंगे और उनमें उपदिष्ट ज्ञान
-सम्पूर्ण विश्व के उपयुक्त होगा। जब समाज के लोग आगे आकर परस्पर सहयोग एवं
-समर्पण की भावना से कर्म करेंगे केवल तभी वह समाज दारिद्रय और दुखों के
-बन्धनों से मुक्त हो सकता है यह एक ऐतिहासिक सत्य है। ऐसे कर्मों का
-सम्पादन अनासक्ति के होने से ही संभव होगा। अर्जुन में यह दोष आ गया था कि
-वह विरुद्ध पक्ष के व्यक्तियों के साथ अत्यन्त आसक्त हो गया और
-परिणामस्वरूप परिस्थिति को ठीक समझ नहीं पाया इसलिये समसामयिक कर्तव्य का
-त्याग कर कर्मक्षेत्र से पलायन करने की उसकी प्रवृत्ति हो गयी।  
-  
-कर्ममार्ग के अधिकारी व्यक्ति को निम्नलिखित कारणों से भी कर्म करना चाहिये
-
+3.9 This world is held in the bondage of work only when work is not performed as sacrifice. O Arjuna, you must perform work to this end,
+free from attachment.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।3.9।। यज्ञ के लिये किये हुए कर्म के अतिरिक्त अन्य कर्म में प्रवृत्त
-हुआ यह पुरुष कर्मों द्वारा बंधता है इसलिए हे कौन्तेय आसक्ति को त्यागकर
-यज्ञ के निमित्त ही कर्म का सम्यक् आचरण करो।।  
-  
+<details><summary>गम्भीरानन्दः</summary>
 
+3.9 This man becomes bound by actions other than that action meant for God. Without being attached, O son of Kunti, you perform actions for Him.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+3.9 In this world people are fettered by action, unless it is performed as a sacrifice. Therefore, O Arjuna, let thy acts be done without attachment, as sacrifice only.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+3.9. The world is fettered by action which is other than the Yajnartha action; hence, O son of Kunti, being freed from attachment, you most properly perform Yajnartha action.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+3.9 The world is bound by actions other than those performed for the sake of sacrifice; do thou, therefore, O son of Kunti (Arjuna), perform action for that sake (for sacrifice alone), free from attachment.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+3.9 यज्ञार्थात् for the sake of sacrifice; कर्मणः of action; अन्यत्र
+otherwise; लोकः the world; अयम् this; कर्मबन्धनः bound by action;
+तदर्थम् for that sake; कर्म action; कौन्तेय O Kaunteya; मुक्तसंगः free from attachment; समाचार perform.Commentary Yajna means sacrifice or religious rite or any unselfish action done with a pure motive. It means also Isvara. The Taittiriya Samhita (of the Veda) says Yajna verily is Vishnu (174). If anyone does actions for the sake of the Lord; he is not bound. His heart is purified by performing actions for the sake of the Lord. Where this spirit of unselfishness does not govern the action; it will bind one to Samsara however good or glorious it may be. (Cf.II.48).
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.9।। यज्ञ (कर्तव्यपालन) के लिये किये जानेवाले कर्मोंसे अन्यत्र (अपने
 लिये किये जानेवाले) कर्मोंमें लगा हुआ यह मनुष्य-समुदाय कर्मोंसे बँधता
 है, इसलिये हे कुन्तीनन्दन ! तू आसक्ति-रहित होकर उस यज्ञके लिये ही
 कर्तव्य-कर्म कर।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 3.9।।***व्याख्या--*'यज्ञार्थात् कर्मणोऽन्यत्र'** गीताके अनुसार
 कर्तव्यमात्रका नाम 'यज्ञ' है। 'यज्ञ' शब्दके अन्तर्गत यज्ञ, दान, तप, होम,
@@ -456,55 +505,36 @@ _________________
 तो कोई कामना करता है और न कोई नाशवान् फल ही चाहता है वह तो मात्र संसारका
 हित सामने रखकर ही कर्तव्यकर्म करता है। अतः उपर्युक्त दोनों कारणोंसे उसके
 कर्तव्यकर्ममें शिथिलता नहीं आ सकती।****
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-3.9. The world is fettered by action which is other than the Yajnartha action; hence, O son of Kunti, being freed from attachment, you most properly perform Yajnartha action.
-
+।।3.9।। प्रत्येक कर्म कर्त्ता के लिये बन्धन उत्पन्न नहीं करता। केवल
+अविवेकपूर्वक किये हुये कर्म ही मन में वासनाओं की वृद्धि करके परिच्छिन्न
+अहंकार और अपरिच्छिन्न आत्मस्वरूप के मध्य एक अभेद्य दीवार खड़ी कर देते
+हैं। वासनाओं से पूर्ण अन्तकरण वाले व्यक्ति में दिव्यत्व का कोई प्रकाश
+नहीं दिखाई देता। पारम्परिक अर्थानुसार यज्ञ के अतिरिक्त जो अन्य कर्म हैं
+वे वासनाओं को उत्पन्न कर व्यक्ति के विकास में अवरोधक बन जाते हैं। यहां
+यज्ञ शब्द का अर्थ है वे सब कर्म जिन्हें मनुष्य निस्वार्थ भाव एवं समर्पण
+की भावना से विश्व के कल्याण के लिये करता है। ऐसे कर्म व्यक्ति के पतन में
+नहीं वरन् उत्थान में ही सहायक होते हैं। यज्ञ शब्द का उपर्युक्त अर्थ समझ
+लेने पर आगे के श्लोक और अधिक स्पष्ट होंगे और उनमें उपदिष्ट ज्ञान
+सम्पूर्ण विश्व के उपयुक्त होगा। जब समाज के लोग आगे आकर परस्पर सहयोग एवं
+समर्पण की भावना से कर्म करेंगे केवल तभी वह समाज दारिद्रय और दुखों के
+बन्धनों से मुक्त हो सकता है यह एक ऐतिहासिक सत्य है। ऐसे कर्मों का
+सम्पादन अनासक्ति के होने से ही संभव होगा। अर्जुन में यह दोष आ गया था कि
+वह विरुद्ध पक्ष के व्यक्तियों के साथ अत्यन्त आसक्त हो गया और
+परिणामस्वरूप परिस्थिति को ठीक समझ नहीं पाया इसलिये समसामयिक कर्तव्य का
+त्याग कर कर्मक्षेत्र से पलायन करने की उसकी प्रवृत्ति हो गयी।  
+  
+कर्ममार्ग के अधिकारी व्यक्ति को निम्नलिखित कारणों से भी कर्म करना चाहिये
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.9 This man becomes bound by actions other than that action meant for God. Without being attached, O son of Kunti, you perform actions for Him.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।3.9।। यज्ञ के लिये किये हुए कर्म के अतिरिक्त अन्य कर्म में प्रवृत्त
+हुआ यह पुरुष कर्मों द्वारा बंधता है इसलिए हे कौन्तेय आसक्ति को त्यागकर
+यज्ञ के निमित्त ही कर्म का सम्यक् आचरण करो।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.9 In this world people are fettered by action, unless it is performed as a sacrifice. Therefore, O Arjuna, let thy acts be done without attachment, as sacrifice only.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-3.9 This world is held in the bondage of work only when work is not performed as sacrifice. O Arjuna, you must perform work to this end,
-free from attachment.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-3.9 The world is bound by actions other than those performed for the sake of sacrifice; do thou, therefore, O son of Kunti (Arjuna), perform action for that sake (for sacrifice alone), free from attachment.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-3.9 यज्ञार्थात् for the sake of sacrifice; कर्मणः of action; अन्यत्र
-otherwise; लोकः the world; अयम् this; कर्मबन्धनः bound by action;
-तदर्थम् for that sake; कर्म action; कौन्तेय O Kaunteya; मुक्तसंगः free from attachment; समाचार perform.Commentary Yajna means sacrifice or religious rite or any unselfish action done with a pure motive. It means also Isvara. The Taittiriya Samhita (of the Veda) says Yajna verily is Vishnu (174). If anyone does actions for the sake of the Lord; he is not bound. His heart is purified by performing actions for the sake of the Lord. Where this spirit of unselfishness does not govern the action; it will bind one to Samsara however good or glorious it may be. (Cf.II.48).
-
-</details>
 </div>

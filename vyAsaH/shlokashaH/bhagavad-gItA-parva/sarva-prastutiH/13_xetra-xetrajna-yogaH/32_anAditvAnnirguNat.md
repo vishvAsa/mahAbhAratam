@@ -1,156 +1,150 @@
 +++
 title = "32 अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 अनादित्वान् निर्गुणत्वात्  
 परमात्मा ऽयम् अव्ययः।  
 शरीर-स्थोऽपि कौन्तेय  
 **न करोति न लिप्यते**॥13.32॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः।  
-शरीरस्थोऽपि कौन्तेय न करोति न लिप्यते।।13.32।।
+शरीरस्थोऽपि कौन्तेय न करोति न लिप्यते॥13.32॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।13.31।।**अयं परमात्मा** देहात् निष्कृष्य स्वभावेन निरूपितः; **शरीरस्थः
-अपि अनादित्वाद्** अनारभ्यत्वाद् **अव्ययः** व्ययरहितः। **निर्गुणत्वात्**
-सत्त्वादिगुणरहितत्वात् **न करोति न लिप्यते।** देहस्वभावैः न लिप्यते; न
-बध्यते। यद्यपि निर्गुणत्वात् न करोति; नित्यसंयुक्तः देहस्वभावैः कथं न
-लिप्यते इत्यत्र आह --
-
+॥13.31॥**अयं परमात्मा** देहान् निष्कृष्य स्वभावेन निरूपितः; **शरीरस्थो ऽप्य् अनादित्वाद्** अनारभ्यत्वाद् **अव्ययः** व्ययरहितः। **निर्गुणत्वात्** सत्त्वादिगुणरहितत्वात् **न करोति न लिप्यते।** देहस्वभावैर् न लिप्यते; न बध्यते। यद्यपि निर्गुणत्वान् न करोति; नित्यसंयुक्तः देहस्वभावैः कथं न लिप्यते इत्यत्र आह --
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।13.32।। आत्मनो नित्यत्वानित्यत्वापरिणामित्वादिभिरुक्तं वैधर्म्यं
-सहेतुकं स्थिरीकरोति -- अनादित्वादिति श्लोकेन।
-आपेक्षिकपरमात्मत्वविषयेणअयं परमात्मा इत्यनेनाभिप्रेतमाह --
-देहान्निष्कृष्येत्यादिना। ज्ञानसङ्कोचरूपव्ययस्य
-देहादिप्रेरणरूपकर्तृत्वस्य च प्रत्यक्षादिसिद्धत्वात् कथमव्ययत्वादिः
-इत्यत्राह -- स्वभावेन निरूपित इति।
-अनादित्वादित्यव्ययहेतुरुत्पत्तिराहित्यं विवक्षितमित्याहअनारभ्यत्वादिति।
-आरभ्यमाणमेव हि व्येतीति दृष्टमिति भावः। निर्गुणत्वात् इति सामान्येन
-ज्ञानादिगुणनिषेधपरिहारायाह -- सत्त्वादिगुणरहितत्वादिति। एवं
-हेतुद्वयशक्त्यनुसारेण यथायोग्यं साध्यद्वयान्वयो दर्शितः।
-लेपशङ्काप्रतिषेधयोः सम्भावितविषययोरेव युक्तत्वात्; तत्सप्तधातु त्रिमलं
-द्वियोनिं चतुर्विधाहारमयं शरीरम् \[गर्भो.1\] इत्याम्नातस्य शरीरस्य
-पटादिषु पङ्कादेरिव संसर्गेण लेपकत्वस्वभावात्शरीरस्थोऽपि इत्यनेन सूचितमाह
--- देहस्वभावैरिति।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥13.32॥ आत्मनो नित्यत्वानित्यत्वापरिणामित्वादिभिरुक्तं वैधर्म्यं सहेतुकं स्थिरीकरोति -- अनादित्वादिति श्लोकेन। आपेक्षिकपरमात्मत्वविषयेणअयं परमात्मा इत्यनेनाभिप्रेतमाह -- देहान्निष्कृष्येत्यादिना। ज्ञानसङ्कोचरूपव्ययस्य देहादिप्रेरणरूपकर्तृत्वस्य च प्रत्यक्षादिसिद्धत्वात् कथमव्ययत्वादिः इत्यत्राह -- स्वभावेन निरूपित इति। अनादित्वादित्यव्ययहेतुरुत्पत्तिराहित्यं विवक्षितमित्याहअनारभ्यत्वादिति। आरभ्यमाणमेव हि व्येतीति दृष्टमिति भावः। निर्गुणत्वात् इति सामान्येन ज्ञानादिगुणनिषेधपरिहारायाह -- सत्त्वादिगुणरहितत्वादिति। एवं हेतुद्वयशक्त्यनुसारेण यथायोग्यं साध्यद्वयान्वयो दर्शितः। लेपशङ्काप्रतिषेधयोः सम्भावितविषययोरेव युक्तत्वात्; तत्सप्तधातु त्रिमलं द्वियोनिं चतुर्विधाहारमयं शरीरम् \[गर्भो.1\] इत्याम्नातस्य शरीरस्य पटादिषु पङ्कादेरिव संसर्गेण लेपकत्वस्वभावात्शरीरस्थोऽपि इत्यनेन सूचितमाह
+-- देहस्वभावैरिति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 13.32 This 'supreme self' (Atman) has been defined as having a nature different from that of the body. While existing in the body, It is
 'immutable', i.e., It is not liable to decay as It is 'without a beginning,' i.e., never created at any point of time. Because It is
 'free from Gunas,' being devoid of Sattva and other Gunas of Prakrti, It neither acts nor gets tainted; It is not tainted by the alities of the body. Granted that the self being without Gunas, does not act; but how is it possible that the Atman is not tainted by Its constant association with the alities of the body; To this, Sri Krsna replies:
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।13.31 -- 13.33।। यदि वा -- यदेत्यादि नोपलिप्यत इत्यन्तम्।
-विस्तीर्णत्वेन सर्वव्याप्त्या यदा भूतानां पृथक्तां भिन्नताम् +++(S
-चित्रताम्)+++ आत्मन्येव पश्यति; आत्मन एव च उदितां तां मन्यते; तदापि
-सर्वकर्तृत्त्वात् न लेपभाक् यतः असौ परमात्मैव शरीरस्थोऽपि न लिप्यते
-आकाशवत्।
+॥13.32॥ --,**अनादित्वात्** अनादेर् भावोऽनादित्वम्;  
+आदिः कारणम्;  
+तद् यस्य नास्ति तद् अनादि।  
 
+यद् ध्य् आदिमत्  
+तत् स्वेनात्मना व्येति।  
+अयं त्व् अनादित्वान् निरवयव इति कृत्वा  
+न व्येति। 
+
+तथा **निर्गुणत्वात्।**  
+सगुणो हि गुणव्ययाद् व्येति,  
+अयं तु निर्गुणत्वाच्च न व्येतीति  
+**परमात्मा ऽयम् अव्ययः** नास्य व्ययो विद्यत इत्यव्ययः। 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अत्रापि 
+
+> **निर्गुणं** सत्त्वरजस्तमांसि गुणाः तैर् वर्जितं तत् ज्ञेयम्
+
+इत्येव सङ्गच्छते?? 
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.32 See Comment under 13.34
+यत एवमतो **शरीरस्थोऽपि;**  
+शरीरेष्वात्मन उपलब्धिर्भवतीति शरीरस्थ उच्यते  
+तथापि **न करोति।**  
 
+तद्-अकरणाद् एव  
+तत्-फलेन न लिप्यते। यो हि कर्ता स कर्मफलेन लिप्यते।  
+अयं त्वकर्तातो न फलेन **लिप्यते** इत्यर्थः॥ 
+
+> कः पुनर्देहेषु करोति लिप्यते च?  
+यदि तावद् अन्यो देही करोति लिप्यते च;  
+तत इदम् अनुपपन्नम् उक्तं क्षेत्रज्ञेश्वरैकत्वं -  
+"क्षेत्रज्ञं चापि मां विद्धि" (गीता 13।2)  
+इत्यादि। 
+>
+> अथ नास्तीश्वराद् अन्यो देही;  
+कः करोति लिप्यते चेति वाच्यम्,  
+परो वा नास्तीति।  
+
+सर्वथा दुर्विज्ञेयं दुर्वाच्यं चेति भगवत्प्रोक्तम् औपनिषदं दर्शनं परित्यक्तं वैशेषिकैः साङ्ख्यार्हत-बौद्धैश् च।  
+तत्रायं परिहारो भगवता स्वेनैवोक्तः  
+"स्वभावस्तु प्रवर्तते" (गीता 5।14) इति।  
+अविद्या-मात्र-स्वभावो हि करोति लिप्यत इति व्यवहारो भवति;  
+न तु परमार्थत एकस्मिन् परमात्मनि तदस्ति।  
+
+अत एतस्मिन् परमार्थ-साङ्ख्य-दर्शने स्थितानां  
+ज्ञान-निष्ठानां परम-हंस-परिव्राजकानां तिरस्कृताविद्या-व्यवहाराणां  
+कर्माधिकारो नास्तीति  
+तत्र तत्र दर्शितं भगवता॥  
+
+किमिव न करोति न लिप्यत इत्यत्र दृष्टान्तम् आह --,
 </details>
-</div>
 
+<details><summary>गम्भीरानन्दः</summary>
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+13.32 Anadivat, being without beginning: Adih means cause; that which
+has no cause is anadih. That which has a cause undergoes loss of its own
+characteristics. But this One, being causeless, has no parts. This being
+so, It does not suffer loss. So also, nirgunatvat, being without
+alities: indeed, It si only something possessing alities that perishes
+owing to the losss of its alities. But this One, being without alities,
+does not perish. Hence, ayam, this; paramatma, supreme Self; is avyayah,
+immutable. It suffers no depletion. Therefore It is immutable. Since
+this is so, therefore, api, although; sarira-sthah, existing in the
+body-since the perception of the Self occurs in the bodies, It is said
+to be 'existing in the body'; even then, It na, does not; karoti, act.
 
-।।13.32।। न च व्ययादिस्तस्येत्याह -- अनादित्वादिति। सादि हि प्रायो व्ययि
-गुणात्मकं च। न करोतीत्यादेरर्थ उक्तः पुरस्तात्। न लौकिकक्रियादिस्तस्य।
-अतोन प्रज्ञं इत्यादिवदिति।
+From the very fact that It does not act, It na, is not; lipyate,
+affected by the result of any action. For, one who is an agent of action
+becomes affected by its result. But this One is not an agent. Hence It is not affected by any result. This is the meaning. 
 
+Objection: Who is it, again, that acts in the body and becomes affected; On the one hand,
+if there be some embodied being other than the supreme Self who acts and
+becomes affected, then it has been improper to say in, 'And also understand Me to be the Knower of the field,' etc., that the Knower of
+the field and God are one. Again, if there be no embodied being who is different from God, then it has to be stated who is it that acts and gets affected. Or it has to be asserted that the supreme One does not exist. \[If the supreme One also acts like us, then He is no God.\]
+
+Thus, since the Upanisadic philosophy as stated by the Lord is in every way difficult to understand and difficult to explain, it has therefore
+been abandoned by the Vaisesikas, the Sankhyas, the Jainas and the
+Buddhists. Reply: As to that, the following refutation has been stated
+by the Lord Himself in, 'But it is Nature that acts' (5.14). Indeed,
+Nature, which is nothing but ignorance, acts and becomes affected. In
+this way empirical dealing becomes possible; but in reality it does not
+occur in the one supreme Self. It has been accordingly shown by the Lord
+in various places that there is no duty to be performed by those who
+adhere to this philosophy of discriminating knowledge of the supreme
+Reality, who are steadfast in Knowledge, who have spurned actions
+arising out of ignorance, and who are mendicants belonging to the
+highest Order of monks. The Lord cites an illustration to show like what
+It does not act and is not affected:
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।13.32।। अव्यय इत्यनुवादेन लेपाभावमात्रं विधीयत
-इत्यन्यथाप्रतीतिनिरासार्थमाह -- **न चे**ति। एतेनाव्ययत्वमपि
-साध्यमप्राप्तत्वादित्युक्तं भवति। तस्य विष्णोः अनेन जीवविशेषणमेतत् तस्य
-प्राप्तिसद्भावेन प्रतिषेधोपपत्तेरिति निरस्तम्। विष्णोरपिशरीरस्थोऽपि इति
-प्राप्तेरुक्तत्वात् अनादित्वनिर्गुणत्वयोरव्ययत्वे हेतुत्वमुपपादयितुं
-व्याप्तिमाह -- **सादी**ति। यद्व्ययि तत्प्रायः सादि गुणात्मकं चेति योजना।
-प्रागभावे व्यभिचारपारहारायप्रायः इत्युक्तम्। ससाद्यव
-गुणात्मकमेवेत्यवधारणेन यथास्थितयोजना वा। न करोति निर्गुणत्वादिति
-ईश्वरस्य क्रियागुणाभावः प्रतीयत इत्यत आह -- **न करोती**ति।
-पुरस्तादुक्तमेव स्मारयति -- **ने**ति। इत्यादिवदक्रियत्वादिकं
-व्याख्येयमिति शेषः। यद्यप्यव्ययत्वमप्यत्र साध्यं तथापि तल्लोकतो ज्ञातुं
-शक्यत इति लोपाभावमात्रं; यथा सर्वगतिमित्युपपद्यते।
+<details><summary>हरिकृष्णदासः</summary>
 
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।13.32।। --,**अनादित्वात्** अनादेः भावः अनादित्वम्; आदिः कारणम्; तत्
-यस्य नास्ति तत् अनादि। यद्धि आदिमत् तत् स्वेन आत्मना व्येति अयं तु
-अनादित्वात् निरवयव इति कृत्वा न व्येति। तथा **निर्गुणत्वात्।** सगुणो हि
-गुणव्ययात् व्येति अयं तु निर्गुणत्वाच्च न व्येति इति **परमात्मा अयम्
-अव्ययः** न अस्य व्ययो विद्यते इति अव्ययः। यत एवमतः **शरीरस्थोऽपि;**
-शरीरेषु आत्मनः उपलब्धिः भवतीति शरीरस्थः उच्यते तथापि **न करोति।**
-तदकरणादेव तत्फलेन न लिप्यते। यो हि कर्ता; सः कर्मफलेन लिप्यते। अयं तु
-अकर्ता; अतः न फलेन **लिप्यते** इत्यर्थः।। कः पुनः देहेषु करोति लिप्यते च
-यदि तावत् अन्यः परमात्मनो देही करोति लिप्यते च; ततः इदम् अनुपपन्नम्
-उक्तं क्षेत्रज्ञेश्वरैकत्वम् क्षेत्रज्ञं चापि मां विद्धि (गीता 13।2)
-इत्यादि। अथ नास्ति ईश्वरादन्यो देही; कः करोति लिप्यते च इति वाच्यम् परो
-वा नास्ति इति सर्वथा दुर्विज्ञेयं दुर्वाच्यं च इति भगवत्प्रोक्तम्
-औपनिषदं दर्शनं परित्यक्तं वैशेषिकैः साङ्ख्यार्हतबौद्धैश्च। तत्र अयं
-परिहारो भगवता स्वेनैव उक्तः स्वभावस्तु प्रवर्तते (गीता 5।14) इति।
-अविद्यामात्रस्वभावो हि करोति लिप्यते इति व्यवहारो भवति; न तु परमार्थत
-एकस्मिन् परमात्मनि तत् अस्ति। अतः एतस्मिन् परमार्थसाङ्ख्यदर्शने स्थितानां
-ज्ञाननिष्ठानां परमहंसपरिव्राजकानां तिरस्कृताविद्याव्यवहाराणां
-कर्माधिकारो नास्ति इति तत्र तत्र दर्शितं भगवता।। किमिव न करोति न लिप्यते
-इति अत्र दृष्टान्तमाह --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।13.32।। एक ही आत्मा सब शरीरोंका आत्मा माना जानेसे; उसका उन सबके दोषोंसे
+॥13.32॥ एक ही आत्मा सब शरीरोंका आत्मा माना जानेसे; उसका उन सबके दोषोंसे
 सम्बन्ध होगा; ऐसी शंका होनेपर यह कहा जाता है --, आदि कारणको कहते हैं;
 जिसका कोई कारण न हो; उसका नाम अनादि है और अनादिके भावका नाम अनादित्व है
 यह परमात्मा अनादि होनेके कारण अव्यय है क्योंकि जो वस्तु आदिमान् होती है;
@@ -179,56 +173,11 @@ _________________
 ज्ञाननिष्ठ; परमहंस परिव्राजक संन्यासियोंका जिन्होंने अविद्याकृत समस्त
 व्यवहारका तिरस्कार कर दिया है; कर्मोंमें अधिकार नहीं है -- यह बात जगहजगह
 भगवान्द्वारा दिखलायी गयी है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.32 Anadivat, being without beginning: Adih means cause; that which
-has no cause is anadih. That which has a cause undergoes loss of its own
-characteristics. But this One, being causeless, has no parts. This being
-so, It does not suffer loss. So also, nirgunatvat, being without
-alities: indeed, It si only something possessing alities that perishes
-owing to the losss of its alities. But this One, being without alities,
-does not perish. Hence, ayam, this; paramatma, supreme Self; is avyayah,
-immutable. It suffers no depletion. Therefore It is immutable. Since
-this is so, therefore, api, although; sarira-sthah, existing in the
-body-since the perception of the Self occurs in the bodies, It is said
-to be 'existing in the body'; even then, It na, does not; karoti, act.
-From the very fact that It does not act, It na, is not; lipyate,
-affected by the result of any action. For, one who is an agent of action
-becomes affected by its result. But this One is not an agent. Hence It
-is not affected by any result. This is the meaning. Objection: Who is
-it, again, that acts in the body and becomes affected; On the one hand,
-if there be some embodied being other than the supreme Self who acts and
-becomes affected, then it has been improper to say in, 'And also
-understand Me to be the Knower of the field,' etc., that the Knower of
-the field and God are one. Again, if there be no embodied being who is
-different from God, then it has to be stated who is it that acts and
-gets affected. Or it has to be asserted that the supreme One does not
-exist. \[If the supreme One also acts like us, then He is no God.\]
-Thus, since the Upanisadic philosophy as stated by the Lord is in every
-way difficult to understand and difficult to explain, it has therefore
-been abandoned by the Vaisesikas, the Sankhyas, the Jainas and the
-Buddhists. Reply: As to that, the following refutation has been stated
-by the Lord Himself in, 'But it is Nature that acts' (5.14). Indeed,
-Nature, which is nothing but ignorance, acts and becomes affected. In
-this way empirical dealing becomes possible; but in reality it does not
-occur in the one supreme Self. It has been accordingly shown by the Lord
-in various places that there is no duty to be performed by those who
-adhere to this philosophy of discriminating knowledge of the supreme
-Reality, who are steadfast in Knowledge, who have spurned actions
-arising out of ignorance, and who are mendicants belonging to the
-highest Order of monks. The Lord cites an illustration to show like what
-It does not act and is not affected:
+<details><summary>आनन्दगिरिः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।13.31।। परिपूर्णत्वेन सर्वात्मत्वे प्राप्तमात्मनो देहादि तेन
+॥13.31॥ परिपूर्णत्वेन सर्वात्मत्वे प्राप्तमात्मनो देहादि तेन
 कर्तृत्वादिना तद्वत्त्वं दृष्टं हि पवित्रस्यापि
 पञ्चगव्यादेरपवित्रसंसर्गात्तद्दोषेण दुष्टत्वमित्याशङ्कामनूद्योत्तरत्वेन
 श्लोकमवतारयति -- **एकस्येति।** अनादित्वमेव साधयति -- **आदिरिति।** तथापि
@@ -255,44 +204,11 @@ It does not act and is not affected:
 **तत्रेति।** तमेव परिहारं प्रपञ्चयति -- **अविद्येति।** व्यावहारिके
 कर्तृत्वादाविष्टे पारमार्थिकमेव किं,नेष्यते तत्राह -- **नत्विति।**
 वास्तवकर्तृत्वाद्यभावे लिङ्गमुपन्यस्यति -- **अत इति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।13.32।। आत्मनः स्वतोऽकर्तृत्वेऽपि शरीरसंबन्धादौपाधिकं कर्तृत्वं
-स्यादित्याशङ्कामपानुदन् यः पश्यति तथात्मानमकर्तारं स
-पश्यतीत्येतद्विवृणोति -- अनादित्वादिति। अयमपरोक्षः परमात्मा
-परमेश्वराभिन्नः प्रत्यगात्मा अव्ययो न व्येतीत्यव्ययः। सर्वविकारशून्य
-इत्यर्थः। तत्र व्ययो द्विधा धर्मिणः स्वरूपस्यैवोत्पत्तिमत्तया वा;
-धर्मिस्वरूपस्यानुत्पाद्यत्वेऽपि धर्माणामेवोत्पत्त्यादिमत्तया वा;
-तत्राद्यमपाकरोति -- अनादित्वादिति। आदिः प्रागसत्त्वावस्था। सा नास्ति
-सर्वदा सत आत्मनः अतस्तस्य कारणाभावाज्जन्माभावः। नह्यनादेर्जन्म संभवति।
-तदभावे च तदुत्तरभाविनो भावविकारा न संभवन्त्येव। अतो न स्वरूपेण
-व्येतीत्यर्थः। द्वितीयं निराकरोति -- निर्गुणत्वादिति।
-निर्धर्मकत्वादित्यर्थः। नहि धर्मिणमधिकृत्य कश्चिद्धर्म उपैत्यपैति वा
-धर्मधर्मिणोस्तादात्म्यात्। ,अयं तु निर्धर्मकोऽतो न धर्मद्वारापि
-व्येतीत्यर्थः। अविनाशी वा अरेयमात्माऽनुच्छित्तिधर्मा इति श्रुतेः।
-यस्मादेष,जायतेऽस्ति वर्धते विपरिणमतेऽपक्षीयते विनश्यतीत्येवं
-षड्भावविकारशून्यः आध्यासिकेन संबन्धेन शरीरस्थोपि तस्मिन्कुर्वत्ययमात्मा
-न करोति। यथाध्यासिकेन संबन्धेन जलस्थः सविता तस्मिंश्चलत्यपि न चलत्येव
-तद्वत्। यतो न करोति किंचिदपि कर्म अतः केनापि कर्मफलेन न लिप्यते यो हि
-यत्कर्मकरोति स तत्फलेन लिप्यते न त्वयम्। अकर्तृत्वादित्यर्थः। इच्छा
-द्वेषः सुखं दुःखमित्यादीनां क्षेत्रधर्मत्वकथनात् प्रकृत्यैव च कर्माणि
-क्रियमाणानीति मायाकार्यत्वव्यपदेशाच्च। अतएव परमार्थदर्शिनां
-सर्वकर्माधिकारनिवृत्तिरिति प्राग्व्याख्यातम्। एतेनात्मनो
-निर्धर्मकत्वकथनात्स्वगतभेदोपि निरस्तः। प्रकृत्यैव च कर्माणीत्यत्र
-सजातीयभेदो निवारितः; यदा भूतपृथग्भावमित्यत्र विजातीयभेदः;
-अनादित्वान्निर्गुणत्वादित्यत्र स्वगतो भेद इत्यद्वितीयं ब्रह्मैवात्मेति
-सिद्धम्।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।13.32।। नन्वात्मनो विभुत्वेन रूपेण कर्तृत्वं मास्वीकारि
+॥13.32॥ नन्वात्मनो विभुत्वेन रूपेण कर्तृत्वं मास्वीकारि
 देहाद्यवच्छिन्नेन तु रूपेण तद्वक्तव्यमन्यथानुभवविरोधादित्याशङ्क्याह --
 **अनादित्वादिति।** अयं सर्वेषां प्राणिनां नित्यापरोक्षः परमो
 देहादिभ्योऽपरमेभ्य आत्मभ्योऽन्यः कोशपञ्चकातीत आत्मा परमात्मा। अव्ययः न
@@ -313,13 +229,11 @@ It does not act and is not affected:
 केनचिदप्युपाधिना दर्शयितुमीष्टे। एवं आत्मा सर्वगुणहीनः सत्यप्यवच्छेदलाभे
 कर्तृत्वादिकं गुणमाविष्कर्तुं न समर्थ इति। फलितमाह -- **शरीरस्थोऽपीति।**
 स्पष्टार्थमेतत्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।13.32।। नन्वेकस्यात्मनः सर्वत्र समवस्थितत्वेन
+<details><summary>धनपतिः</summary>
+
+॥13.32॥ नन्वेकस्यात्मनः सर्वत्र समवस्थितत्वेन
 देहादिगतकर्तृत्वादिमत्त्वं प्राप्तं पवित्रस्यापि गङ्गाजलादेः
 अपवित्रप्राण्युतरान्तरदोषेण दोषवक्त्ववदिति तत्राह -- अनादित्वादीति। अयं
 परमात्माव्ययोऽपक्षयरहितः कूटस्थ इत्यर्थः। तत्र,व्ययस्त्रिविधः स्वभावतो
@@ -345,113 +259,169 @@ It does not act and is not affected:
 साङ्ख्यवैसेषिकादिभिभ्रान्तिजन्यय पूर्वोक्तशङ्क्या परित्यक्ते स्थितानां
 ज्ञाननिष्ठानामविद्यापरिकल्पितकर्तृत्वाद्यपगमेन मोक्षप्राप्तिः
 नत्वन्यस्मिन् शुक्तिरुप्यकल्पे साङ्ख्यादिपरिकल्पितते निष्टावतामिति।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥13.32॥ आत्मनः स्वतोऽकर्तृत्वेऽपि शरीरसंबन्धादौपाधिकं कर्तृत्वं
+स्यादित्याशङ्कामपानुदन् यः पश्यति तथात्मानमकर्तारं स
+पश्यतीत्येतद्विवृणोति -- अनादित्वादिति। अयमपरोक्षः परमात्मा
+परमेश्वराभिन्नः प्रत्यगात्मा अव्ययो न व्येतीत्यव्ययः। सर्वविकारशून्य
+इत्यर्थः। तत्र व्ययो द्विधा धर्मिणः स्वरूपस्यैवोत्पत्तिमत्तया वा;
+धर्मिस्वरूपस्यानुत्पाद्यत्वेऽपि धर्माणामेवोत्पत्त्यादिमत्तया वा;
+तत्राद्यमपाकरोति -- अनादित्वादिति। आदिः प्रागसत्त्वावस्था। सा नास्ति
+सर्वदा सत आत्मनः अतस्तस्य कारणाभावाज्जन्माभावः। नह्यनादेर्जन्म संभवति।
+तदभावे च तदुत्तरभाविनो भावविकारा न संभवन्त्येव। अतो न स्वरूपेण
+व्येतीत्यर्थः। द्वितीयं निराकरोति -- निर्गुणत्वादिति।
+निर्धर्मकत्वादित्यर्थः। नहि धर्मिणमधिकृत्य कश्चिद्धर्म उपैत्यपैति वा
+धर्मधर्मिणोस्तादात्म्यात्। ,अयं तु निर्धर्मकोऽतो न धर्मद्वारापि
+व्येतीत्यर्थः। अविनाशी वा अरेयमात्माऽनुच्छित्तिधर्मा इति श्रुतेः।
+यस्मादेष,जायतेऽस्ति वर्धते विपरिणमतेऽपक्षीयते विनश्यतीत्येवं
+षड्भावविकारशून्यः आध्यासिकेन संबन्धेन शरीरस्थोपि तस्मिन्कुर्वत्ययमात्मा
+न करोति। यथाध्यासिकेन संबन्धेन जलस्थः सविता तस्मिंश्चलत्यपि न चलत्येव
+तद्वत्। यतो न करोति किंचिदपि कर्म अतः केनापि कर्मफलेन न लिप्यते यो हि
+यत्कर्मकरोति स तत्फलेन लिप्यते न त्वयम्। अकर्तृत्वादित्यर्थः। इच्छा
+द्वेषः सुखं दुःखमित्यादीनां क्षेत्रधर्मत्वकथनात् प्रकृत्यैव च कर्माणि
+क्रियमाणानीति मायाकार्यत्वव्यपदेशाच्च। अतएव परमार्थदर्शिनां
+सर्वकर्माधिकारनिवृत्तिरिति प्राग्व्याख्यातम्। एतेनात्मनो
+निर्धर्मकत्वकथनात्स्वगतभेदोपि निरस्तः। प्रकृत्यैव च कर्माणीत्यत्र
+सजातीयभेदो निवारितः; यदा भूतपृथग्भावमित्यत्र विजातीयभेदः;
+अनादित्वान्निर्गुणत्वादित्यत्र स्वगतो भेद इत्यद्वितीयं ब्रह्मैवात्मेति
+सिद्धम्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।13.32।। स्वतः पुरुषस्य प्राकृतसम्बन्धाभाव इत्युपपादयति --
+॥13.32॥ न च व्ययादिस्तस्येत्याह -- अनादित्वादिति। सादि हि प्रायो व्ययि
+गुणात्मकं च। न करोतीत्यादेरर्थ उक्तः पुरस्तात्। न लौकिकक्रियादिस्तस्य।
+अतोन प्रज्ञं इत्यादिवदिति।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥13.32॥ अव्यय इत्यनुवादेन लेपाभावमात्रं विधीयत
+इत्यन्यथाप्रतीतिनिरासार्थमाह -- **न चे**ति। एतेनाव्ययत्वमपि
+साध्यमप्राप्तत्वादित्युक्तं भवति। तस्य विष्णोः अनेन जीवविशेषणमेतत् तस्य
+प्राप्तिसद्भावेन प्रतिषेधोपपत्तेरिति निरस्तम्। विष्णोरपिशरीरस्थोऽपि इति
+प्राप्तेरुक्तत्वात् अनादित्वनिर्गुणत्वयोरव्ययत्वे हेतुत्वमुपपादयितुं
+व्याप्तिमाह -- **सादी**ति। यद्व्ययि तत्प्रायः सादि गुणात्मकं चेति योजना।
+प्रागभावे व्यभिचारपारहारायप्रायः इत्युक्तम्। ससाद्यव
+गुणात्मकमेवेत्यवधारणेन यथास्थितयोजना वा। न करोति निर्गुणत्वादिति
+ईश्वरस्य क्रियागुणाभावः प्रतीयत इत्यत आह -- **न करोती**ति।
+पुरस्तादुक्तमेव स्मारयति -- **ने**ति। इत्यादिवदक्रियत्वादिकं
+व्याख्येयमिति शेषः। यद्यप्यव्ययत्वमप्यत्र साध्यं तथापि तल्लोकतो ज्ञातुं
+शक्यत इति लोपाभावमात्रं; यथा सर्वगतिमित्युपपद्यते।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
+
+<details><summary>मूलम्</summary>
+
+॥13.31 -- 13.33॥ यदि वा -- यदेत्यादि नोपलिप्यत इत्यन्तम्। विस्तीर्णत्वेन सर्वव्याप्त्या यदा भूतानां पृथक्तां भिन्नताम् +++(S चित्रताम्)+++ आत्मन्येव पश्यति; आत्मन एव च उदितां तां मन्यते; तदापि सर्वकर्तृत्त्वात् न लेपभाक् यतः असौ परमात्मैव शरीरस्थोऽपि न लिप्यते आकाशवत्।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+13.32 See Comment under 13.34
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
+
+<details><summary>मूलम्</summary>
+
+॥13.32॥ स्वतः पुरुषस्य प्राकृतसम्बन्धाभाव इत्युपपादयति --
 अनादित्वादिति। परमात्माऽन्तःपुरुषः अथवा अक्षररूपत्वेन
 अनादित्वान्निर्गुणत्वादयं आत्मा जीवः पुरुषोऽव्ययः केवलं भगवदिच्छया स्वतः
 पृथग्भावितोऽप्यकर्त्ताऽलिप्तः अध्यासेनैव तथा; नान्यथेति भावः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।13.32।। ननु यथा ब्रह्मांशस्यादिजीवस्य देहसम्बन्धात्
+<details><summary>पुरुषोत्तमः</summary>
+
+॥13.32॥ ननु यथा ब्रह्मांशस्यादिजीवस्य देहसम्बन्धात्
 कर्मलेपस्तेनैवाज्ञानं तन्नाशश्च प्रेरकात्मसम्बन्धात्तस्यैव
 जीवसम्बन्धालेपे सति कथं समदर्शनं इत्याशङ्क्याऽऽह -- अनादित्वादिति।
 यस्यैवोत्पत्तिस्तस्यैवान्यसम्बन्धेन नाशः। स च
 अनादिर्नत्वाविद्यकजीवभाववदुत्पत्तिरतएव तत्सम्बन्धाभावार्थं साक्षित्वं
 पूर्वं निरूपितम्। तस्मात् गुणसम्बन्धिन एव तन्नाशे नाशः; स च
 निर्गुणस्तस्मादयं परमात्मा अव्ययः परसम्बन्धादिनाशशून्यः। अतः शरीरस्थोऽपि
-कर्माणि न करोति; अत एव न लिप्यते।  
-  
-
+कर्माणि न करोति; अत एव न लिप्यते।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।13.32।। तथापि परमेश्वरस्य संसारावस्थायां देहकर्मसंबन्धनिमित्तैः
+॥13.32॥ तथापि परमेश्वरस्य संसारावस्थायां देहकर्मसंबन्धनिमित्तैः
 कर्मभिस्तत्फलैश्च सुखदुःखादिवैषम्यं दुष्परिहरमिति कुतः समदर्शनं तत्राह
 **-- अनादित्वादिति।** यदुत्पत्तिमत्तदेव हि व्येति विनाशमेति। यच्च
 गुणवद्वस्तु तस्य गुणनाशे व्ययो भवति। अयं तु परमात्मा
 अनादिर्निर्गुणश्चातोऽव्ययः। अविकारीत्यर्थः। तस्माच्छरीरे स्थितोऽपि
 किंचिन्न करोति; नच कर्मफलैर्लिप्यत इति।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।13.32।। यद्यपि चैतन्य आत्मा के सान्निध्य मात्र से देहेन्द्रियादि
-उपाधियाँ स्वक्रियाओं में प्रवृत्त होती हैं; तथापि आत्मा सदा अकर्त्ता ही
-रहता है। शास्त्रों के इस प्रतिपादन को समझना वेदान्त के प्रारम्भिक
-विद्यार्थियों को कठिन प्रतीत होता है। इसलिए; उपनिषदों के ऋषियों ने विशेष
-परिश्रमपूर्वक हमें यह समझाने का प्रयत्न किया है कि किस प्रकार एकमेव
-अद्वितीय; परिपूर्ण सर्वव्यापी परमात्मा अकर्ता है। पहले भीगीता में कहा जा
-चुका है कि आत्मा क्षेत्र के साथ तादात्म्य करके जीवरूपक्षेत्रज्ञ बन जाता
-है; जो कर्मों का कर्ता और फलों का भोक्ता है। शरीरों में स्थित होने पर भी
-आत्मा के दोषमुक्तत्व को सिद्ध करने के लिए यहाँ कुछ हेतु दिये गये हैं। जब
-एक न्यायाधीश श्रीगोपाल राव किसी हत्यारे अपराधी को मृत्युदण्ड सुनाते हैं;
-तब उसकी मृत्यु का पातक न्यायाधीश को प्रभावित नहीं कर सकता। श्रीगोपाल राव
-न्यायालय में न्यायाधीश के पद पर आसीन होकर निर्णय देते हैं; न कि अपनी
-व्यक्तिगत क्षमता में। अनादि जिस वस्तु का कारण होता है; उसी का प्रारम्भ भी
-हो सकता है। प्रारम्भ रहित का अर्थ कारणरहित होगा। परम सत्य वह है जिससे
-सम्पूर्ण जगत् उत्पन्न हुआ है। अत परमात्मा कारण रहित कारण होने से अनादि
-कहा गया है। इसी कारण से वह अव्यय; अविनाशी भी है। निर्गुण गुणवान् वस्तु ही
-विकारी होती है। हमने देखा कि जगत्कारण परमात्मा अविकारी है; अत उसका
-निर्गुण होना भी आवश्यक है। यह परमात्मा अव्यय है जगत्कारण; अनादि और
-निर्गुण होने से परमात्मा का अव्ययत्व सिद्ध हो जाता है। यह परमात्मा अपने
-सान्निध्य मात्र से जड़ उपाधियों को चेतनवत् व्यवहार करने में सक्षम करता
-है; परन्तु वह स्वयं किसी प्रकार की क्रिया नहीं,करता। उपर्युक्त सिद्धांत
-वेदान्त के कुछ सूक्ष्म सिद्धांतों में से एक है; और दुर्बल मति के
-विद्यार्थियों को प्राय इसे समझने में कठिनाई अनुभव होती है। यद्यपि यह
-वेदान्त साहित्य का कठिन भाग माना गया है; तथापि प्रयत्नपूर्वक इस पर मनन
-करने से सन्देह और कठिनाई दूर हो सकती हैं। उपाधियों के सभी निषिद्ध और
-आसुरी कर्मों में भी आत्मा के अकर्तृत्वऔर निर्गुणत्व को दर्शाने के लिए;
-भगवान् कुछ दृष्टान्त देते हैं
-
+13.32 This supreme self, though dwelling in the body, is immutable, O Arjuna, being without beginning. It neither acts nor is tainted, as It is without Gunas.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।13.32।। हे कौन्तेय ! अनादि और निर्गुण होने से यह परमात्मा अव्यय है।
-शरीर में स्थित हुआ भी, वस्तुत:, वह न (कर्म) करता है और न (फलों से) लिप्त
-होता है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+13.32 Being without beginning and without alities, O son of Kunti, this immutable, supreme Self does not act. nor is It affected \[Also translated as tainted.-Tr.\], although existing in the body.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+13.32 The Supreme Spirit, O Prince, is without beginning, without Qualities and Imperishable, and though it be within the body, yet It does not act, nor is It affected by action.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+13.32. Because This is beginningless, and because This has no alities,
+this Supreme Self is changeless and It neither acts, nor gets stained
+\[by actions\], even-though It dwells in the body, O son of Kunti !
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+13.32 Being without beginning and being devoid of (any) alities, the Supreme Self, imperishable, though dwelling in the body, O Arjuna,
+neither acts nor is tainted.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+13.32 अनादित्वात् being without beginning; निर्गुणत्वात् being devoid of alities; परमात्मा the Supreme Self; अयम् this; अव्ययः imperishable;
+शरीरस्थः dwelling in this body; अपि though; कौन्तेय O son of Kunti
+(Arjuna); न not करोति acts; न not; लिप्यते is tainted.Commentary The Supreme Self is beyond Nature. Therefore It is without alities. It is Nirguna. The activity in Nature is really due to its own alities which inhere in it. The Supreme Self existed before the body came into being and will continue to be after its dissolution. It is eternally the same and imperishable.Avyaya That which is free from the changes of birth and death or appearance and destruction. That which has a beginning has birth. After the object is born it is subject to the changes of being
+(growth; decay; etc.). As the Self is birthless; It is free from the changes of state (existence; birth; growth; change; decay and death). As the Self is free from all sorts of functions; It is Avyaya. Even if the reflection of the sun in the water moves; the sun does not move a bit.
+Even so the Supreme Self is not touched by the fruits of action as It is not the doer; as It is without the alities of Nature; or limbs;
+indivisible; devoid of parts; without action; beginningless and unattached and causeless.This Supreme Self is free from the three kinds of differences; viz.; Sajatiyabheda; Vijatiyabheda and Svagatabheda. A mango tree is different from a fig tree. This is Sajatiyabheda. A mango tree is different from a stone. This is Vijatiyabheda. In the same mango tree there is difference between leaves; flowers and fruits. This is Svagatabheda. But the Supreme Self is one without a second. There is no other Brahman Which is eal to It. Therefore; there cannot be Sajatiyabheda in Brahman. This world is a mere appearance. It is a mere figment of our imagination. It is superimposed on the Absolute on account of ignorance. An imaginary object has no independent existence apart from its substratum; just as the snake in the rope has no independent existence apart from its substratum; the rope. Therefore;
+there cannot be Vijatiyabheda in Brahman. Brahman is indivisible;
+partless; without alities; without form and without any limbs. Therefore there cannot be Svagatabheda in Brahman.Brahman or the Supreme Self is beginningless. It is without a cause. It is selfexistent. It is without parts. It is without alities. Therefore Brahman is imperishable. As It is unattached; It is neither the doer nor the enjoyer. If Brahman also is the doer and enjoyer. It is no longer Brahman. It is in no way better than ourselves. This cannot be. Agency and enjoyment are attributed to the ego on account of ignorance. It is Nature that acts. (Cf.V.14XV.9)
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.32।। हे कुन्तीनन्दन ! यह पुरुष स्वयं अनादि और गुणोंसे रहित होनेसे
 अविनाशी परमात्मस्वरूप ही है। यह शरीरमें रहता हुआ भी न करता है और न लिप्त
 होता है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।13.32।।***व्याख्या --***  **अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः
 --** इसी अध्यायके उन्नीसवें श्लोकमें जिसको अनादि कहा है; उसीको यहाँ भी
@@ -496,62 +466,44 @@ _________________
 पूर्वश्लोकमें कहा गया कि वह पुरुष न करता है और न लिप्त होता है; तो अब
 प्रश्न होता है कि वह कैसे लिप्त नहीं होता और कैसे नहीं करता इसका उत्तर
 आगेके श्लोकमें देते हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-13.32. Because This is beginningless, and because This has no alities,
-this Supreme Self is changeless and It neither acts, nor gets stained
-\[by actions\], even-though It dwells in the body, O son of Kunti !
-
+।।13.32।। यद्यपि चैतन्य आत्मा के सान्निध्य मात्र से देहेन्द्रियादि
+उपाधियाँ स्वक्रियाओं में प्रवृत्त होती हैं; तथापि आत्मा सदा अकर्त्ता ही
+रहता है। शास्त्रों के इस प्रतिपादन को समझना वेदान्त के प्रारम्भिक
+विद्यार्थियों को कठिन प्रतीत होता है। इसलिए; उपनिषदों के ऋषियों ने विशेष
+परिश्रमपूर्वक हमें यह समझाने का प्रयत्न किया है कि किस प्रकार एकमेव
+अद्वितीय; परिपूर्ण सर्वव्यापी परमात्मा अकर्ता है। पहले भीगीता में कहा जा
+चुका है कि आत्मा क्षेत्र के साथ तादात्म्य करके जीवरूपक्षेत्रज्ञ बन जाता
+है; जो कर्मों का कर्ता और फलों का भोक्ता है। शरीरों में स्थित होने पर भी
+आत्मा के दोषमुक्तत्व को सिद्ध करने के लिए यहाँ कुछ हेतु दिये गये हैं। जब
+एक न्यायाधीश श्रीगोपाल राव किसी हत्यारे अपराधी को मृत्युदण्ड सुनाते हैं;
+तब उसकी मृत्यु का पातक न्यायाधीश को प्रभावित नहीं कर सकता। श्रीगोपाल राव
+न्यायालय में न्यायाधीश के पद पर आसीन होकर निर्णय देते हैं; न कि अपनी
+व्यक्तिगत क्षमता में। अनादि जिस वस्तु का कारण होता है; उसी का प्रारम्भ भी
+हो सकता है। प्रारम्भ रहित का अर्थ कारणरहित होगा। परम सत्य वह है जिससे
+सम्पूर्ण जगत् उत्पन्न हुआ है। अत परमात्मा कारण रहित कारण होने से अनादि
+कहा गया है। इसी कारण से वह अव्यय; अविनाशी भी है। निर्गुण गुणवान् वस्तु ही
+विकारी होती है। हमने देखा कि जगत्कारण परमात्मा अविकारी है; अत उसका
+निर्गुण होना भी आवश्यक है। यह परमात्मा अव्यय है जगत्कारण; अनादि और
+निर्गुण होने से परमात्मा का अव्ययत्व सिद्ध हो जाता है। यह परमात्मा अपने
+सान्निध्य मात्र से जड़ उपाधियों को चेतनवत् व्यवहार करने में सक्षम करता
+है; परन्तु वह स्वयं किसी प्रकार की क्रिया नहीं,करता। उपर्युक्त सिद्धांत
+वेदान्त के कुछ सूक्ष्म सिद्धांतों में से एक है; और दुर्बल मति के
+विद्यार्थियों को प्राय इसे समझने में कठिनाई अनुभव होती है। यद्यपि यह
+वेदान्त साहित्य का कठिन भाग माना गया है; तथापि प्रयत्नपूर्वक इस पर मनन
+करने से सन्देह और कठिनाई दूर हो सकती हैं। उपाधियों के सभी निषिद्ध और
+आसुरी कर्मों में भी आत्मा के अकर्तृत्वऔर निर्गुणत्व को दर्शाने के लिए;
+भगवान् कुछ दृष्टान्त देते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.32 Being without beginning and without alities, O son of Kunti, this immutable, supreme Self does not act. nor is It affected \[Also translated as tainted.-Tr.\], although existing in the body.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।13.32।। हे कौन्तेय ! अनादि और निर्गुण होने से यह परमात्मा अव्यय है।
+शरीर में स्थित हुआ भी, वस्तुत:, वह न (कर्म) करता है और न (फलों से) लिप्त
+होता है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.32 The Supreme Spirit, O Prince, is without beginning, without Qualities and Imperishable, and though it be within the body, yet It does not act, nor is It affected by action.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-13.32 This supreme self, though dwelling in the body, is immutable, O Arjuna, being without beginning. It neither acts nor is tainted, as It is without Gunas.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-13.32 Being without beginning and being devoid of (any) alities, the Supreme Self, imperishable, though dwelling in the body, O Arjuna,
-neither acts nor is tainted.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-13.32 अनादित्वात् being without beginning; निर्गुणत्वात् being devoid of alities; परमात्मा the Supreme Self; अयम् this; अव्ययः imperishable;
-शरीरस्थः dwelling in this body; अपि though; कौन्तेय O son of Kunti
-(Arjuna); न not करोति acts; न not; लिप्यते is tainted.Commentary The Supreme Self is beyond Nature. Therefore It is without alities. It is Nirguna. The activity in Nature is really due to its own alities which inhere in it. The Supreme Self existed before the body came into being and will continue to be after its dissolution. It is eternally the same and imperishable.Avyaya That which is free from the changes of birth and death or appearance and destruction. That which has a beginning has birth. After the object is born it is subject to the changes of being
-(growth; decay; etc.). As the Self is birthless; It is free from the changes of state (existence; birth; growth; change; decay and death). As the Self is free from all sorts of functions; It is Avyaya. Even if the reflection of the sun in the water moves; the sun does not move a bit.
-Even so the Supreme Self is not touched by the fruits of action as It is not the doer; as It is without the alities of Nature; or limbs;
-indivisible; devoid of parts; without action; beginningless and unattached and causeless.This Supreme Self is free from the three kinds of differences; viz.; Sajatiyabheda; Vijatiyabheda and Svagatabheda. A mango tree is different from a fig tree. This is Sajatiyabheda. A mango tree is different from a stone. This is Vijatiyabheda. In the same mango tree there is difference between leaves; flowers and fruits. This is Svagatabheda. But the Supreme Self is one without a second. There is no other Brahman Which is eal to It. Therefore; there cannot be Sajatiyabheda in Brahman. This world is a mere appearance. It is a mere figment of our imagination. It is superimposed on the Absolute on account of ignorance. An imaginary object has no independent existence apart from its substratum; just as the snake in the rope has no independent existence apart from its substratum; the rope. Therefore;
-there cannot be Vijatiyabheda in Brahman. Brahman is indivisible;
-partless; without alities; without form and without any limbs. Therefore there cannot be Svagatabheda in Brahman.Brahman or the Supreme Self is beginningless. It is without a cause. It is selfexistent. It is without parts. It is without alities. Therefore Brahman is imperishable. As It is unattached; It is neither the doer nor the enjoyer. If Brahman also is the doer and enjoyer. It is no longer Brahman. It is in no way better than ourselves. This cannot be. Agency and enjoyment are attributed to the ego on account of ignorance. It is Nature that acts. (Cf.V.14XV.9)
-
-</details>
 </div>

@@ -1,176 +1,58 @@
 +++
 title = "29 सर्वभूतस्थमात्मानं"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **सर्व-भूत-स्थम् आत्मानं**  
 सर्व-भूतानि चात्मनि।  
 **ईक्षते** योग-युक्तात्मा  
 सर्वत्र सम-दर्शनः॥6.29॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि।  
-ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः।।6.29।।
+ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः॥6.29॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।6.29।। स्वात्मनः परेषां च भूतानां प्रकृतिवियुक्तस्वरूपाणां
-ज्ञानैकाकारतया साम्याद् वैषम्यस्य च प्रकृतिगतत्वाद् **योगयुक्तात्मा**
-प्रकृतिवियुक्तेषु आत्मसु **सर्वत्र** ज्ञानैकाकारतया **समदर्शनः
-सर्वभूतस्थं स्वात्मानं सर्वभूतानि च स्वात्मनि ईक्षते।** सर्वभूतसमानाकारं
-स्वात्मानं स्वात्मसमानाकाराणि च सर्वभूतानि पश्यति इत्यर्थः।  
-  
-एकस्मिन् आत्मनि दृष्टे सर्वस्य आत्मवस्तुनः तत्साम्यात् सर्वम् आत्मवस्तु
-दृष्टं भवति इत्यर्थः। सर्वत्र समदर्शनः इति वचनात्योऽयं योगस्त्वयाः
-प्रोक्तः साम्येन (गीता 6।33) इत्यनुभाषणाच्चनिर्दोषं हि समं ब्रह्म (गीता
-5।19) इति वचनाच्च।
-
+॥6.29॥ स्वात्मनः परेषां च भूतानां प्रकृतिवियुक्तस्वरूपाणां ज्ञानैकाकारतया साम्याद् वैषम्यस्य च प्रकृतिगतत्वाद् **योगयुक्तात्मा** प्रकृतिवियुक्तेष्व् आत्मसु **सर्वत्र** ज्ञानैकाकारतया **समदर्शनः सर्वभूतस्थं स्वात्मानं सर्वभूतानि च स्वात्मनि ईक्षते।** सर्वभूतसमानाकारं स्वात्मानं स्वात्मसमानाकाराणि च सर्वभूतानि पश्यति इत्यर्थः।  
+        
+एकस्मिन् आत्मनि दृष्टे सर्वस्य आत्मवस्तुनस् तत्साम्यात् सर्वम् आत्मवस्तु दृष्टं भवति इत्यर्थः। सर्वत्र समदर्शन इति वचनात्योऽयं योगस्त्वयाः प्रोक्तः साम्येन (गीता 6।33) इत्यनुभाषणाच्चनिर्दोषं हि समं ब्रह्म (गीता 5।19) इति वचनाच्च।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।6.29।। एवं योगाभ्यासविधिः प्रपञ्चितःआत्मलाभसुखं
-यावत्तावद्ध्यानमुदाहृतम् इत्याद्युक्तं फलपर्यन्तत्वं चोक्तम्। अथ चतुर्धा
-योगी प्रतिपाद्यत इति चतुर्णां श्लोकानामर्थमाह अथेति।
-समदर्शित्वरूपयोगविपाकस्य पर्वक्रमेण तारतम्याच्चतुष्प्रकारत्वम्। अत्र
-प्रथमदशोच्यते सर्वभूतस्थम् इति श्लोकेन। समदर्शनत्वोपपत्तये स्वरूपतः
-साम्यं प्रकारवैषम्यस्य चौपाधिकत्वं दर्शयतिस्वात्मन
-इत्यादिनागतत्वादित्यन्तेन। भूतशब्दोऽत्राचिद्विशिष्टचेतनवाचकोऽपिसत्यं
-भूतहितं प्रोक्तम् इत्यादिष्विव चेतनांशपरः। योगयुक्तात्मा योगविनियुक्तमनाः
-यद्वा योगसमधिगतात्मस्वरूप इत्यर्थः। योगयुक्तात्मत्वं समदर्शनत्वे हेतुः।
-समदर्शनत्वस्यैव प्रतियोगिविशेषनिर्देशेन प्रपञ्चनंसर्वभूतस्थमित्यादि।
-आत्मशब्दस्यात्रात्मसामान्यविषयत्वपरमात्मविषयत्वव्यावर्तनेन
-स्वपर्यायत्वद्योतेनायस्वात्मशब्दः। नन्वन्योन्याधाराधेयभावः कथमुपपद्यते
-कथं चाणोः स्वात्मनः सर्वभूतस्थत्वं विप्रकीर्णदेशावस्थितानां च
-सर्वभूतानां कथमेकदेशस्थिते स्वात्मनि स्थितिः अतोऽयमात्मशब्दः
-परमात्मविषयः स्यादिति तत्राह सर्वभूतसमानाकारमिति। नन्वसौ
-स्वात्ममात्रानुसन्धानरूपे योगे प्रवृत्तः कथं स्वगतसाम्यप्रतियोगितया
-स्वप्रतियोगिकसाम्याश्रयतया च स्वव्यतिरिक्तात्मवर्गमीक्षेत इत्यत्राह
-एकस्मिन्निति। एकजातीयेषु पदार्थेष्वेकव्यक्तिदर्शनेनैव
-स्थालीपुलाकन्यायात्तज्जातीयं सर्वमपि तथात्वेनानुसंहितं हि भवतीति
-भावः। सर्वभूतस्थम् इत्यादेः साम्यमेव विवक्षितमिति दशयितुमेतद्ग्रन्थैकदेशं
-पूर्वोत्तरप्रकरणग्रन्थं चोदाहरति सर्वत्रेति। अयमभिप्रायः सर्वत्र
-समदर्शनः इति सर्वेषामात्मनां परस्परसाम्यदर्शनमुच्यते तदेवसर्वभूतस्थं इति
-प्रपञ्च्यते। अत एव च बाह्यभूतेष्वात्मतत्त्वस्य तस्मिंश्च तेषां
-स्थितिदर्शनमिहासङ्गतम्। न चेदं परमात्मयोगप्रकरणम् येन
-तथाविधपरमात्मानुसन्धानमुपदिश्येत। न च जीवात्मयोगोपयुक्तं
-परमात्मध्यानमिदमुच्यते समाधिदशाभेदविषयत्वात्। न च जीवानां परमात्मनश्च
-साम्यमिहोच्यते तस्यापियो माम्  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥6.29॥ एवं योगाभ्यासविधिः प्रपञ्चितःआत्मलाभसुखं यावत्तावद्ध्यानमुदाहृतम् इत्याद्युक्तं फलपर्यन्तत्वं चोक्तम्। अथ चतुर्धा योगी प्रतिपाद्यत इति चतुर्णां श्लोकानामर्थमाह अथेति। समदर्शित्वरूपयोगविपाकस्य पर्वक्रमेण तारतम्याच्चतुष्प्रकारत्वम्। अत्र प्रथमदशोच्यते सर्वभूतस्थम् इति श्लोकेन। समदर्शनत्वोपपत्तये स्वरूपतः साम्यं प्रकारवैषम्यस्य चौपाधिकत्वं दर्शयतिस्वात्मन इत्यादिनागतत्वादित्यन्तेन। भूतशब्दोऽत्राचिद्विशिष्टचेतनवाचकोऽपिसत्यं भूतहितं प्रोक्तम् इत्यादिष्विव चेतनांशपरः। योगयुक्तात्मा योगविनियुक्तमनाः यद्वा योगसमधिगतात्मस्वरूप इत्यर्थः। योगयुक्तात्मत्वं समदर्शनत्वे हेतुः। समदर्शनत्वस्यैव प्रतियोगिविशेषनिर्देशेन प्रपञ्चनंसर्वभूतस्थमित्यादि। आत्मशब्दस्यात्रात्मसामान्यविषयत्वपरमात्मविषयत्वव्यावर्तनेन स्वपर्यायत्वद्योतेनायस्वात्मशब्दः। नन्वन्योन्याधाराधेयभावः कथमुपपद्यते कथं चाणोः स्वात्मनः सर्वभूतस्थत्वं विप्रकीर्णदेशावस्थितानां च सर्वभूतानां कथमेकदेशस्थिते स्वात्मनि स्थितिः अतोऽयमात्मशब्दः परमात्मविषयः स्यादिति तत्राह सर्वभूतसमानाकारमिति। नन्वसौ स्वात्ममात्रानुसन्धानरूपे योगे प्रवृत्तः कथं स्वगतसाम्यप्रतियोगितया स्वप्रतियोगिकसाम्याश्रयतया च स्वव्यतिरिक्तात्मवर्गमीक्षेत इत्यत्राह एकस्मिन्निति। एकजातीयेषु पदार्थेष्वेकव्यक्तिदर्शनेनैव स्थालीपुलाकन्यायात्तज्जातीयं सर्वमपि तथात्वेनानुसंहितं हि भवतीति भावः। सर्वभूतस्थम् इत्यादेः साम्यमेव विवक्षितमिति दशयितुमेतद्ग्रन्थैकदेशं पूर्वोत्तरप्रकरणग्रन्थं चोदाहरति सर्वत्रेति। अयमभिप्रायः सर्वत्र समदर्शनः इति सर्वेषामात्मनां परस्परसाम्यदर्शनमुच्यते तदेवसर्वभूतस्थम् इति प्रपञ्च्यते। अत एव च बाह्यभूतेष्वात्मतत्त्वस्य तस्मिंश्च तेषां स्थितिदर्शनमिहासङ्गतम्। न चेदं परमात्मयोगप्रकरणं येन तथाविधपरमात्मानुसन्धानमुपदिश्येत। न च जीवात्मयोगोपयुक्तं परमात्मध्यानमिदमुच्यते समाधिदशाभेदविषयत्वात्। न च जीवानां परमात्मनश्च साम्यमिहोच्यते तस्यापियो माम्
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.29 (i) On account of the similarity between one self and other selves when They are separated from Prakrti (i.e., the body), all selves are by Themselves only of the nature of knowledge. Inealities pertain only to Prakrti or the bodies they are embodied in. One whose mind is fixed in Yoga has the experience of the sameness of the nature of all the selves as centres of intelligence, the perceived difference being caused only by the body. When separated from the body all are alike because of their being forms of centres of intelligence. An enlightened Yogin therefore sees himself as abiding in all beings and all beings abiding in his self in the sense that he sees the similarity of the selves in himself and in every being. When one self is visualised, all selves become visulaised,
-because of the similarity of all selves. This is supported by the statements: 'He sees sameness everywhere' (6.29). The same is again referred to in, 'This Yoga of eality which has been declared by you'
+<details><summary>आदिदेवानन्दः</summary>
+
+6.29 (i) On account of the similarity between one self and other selves when They are separated from Prakrti (i.e., the body), all selves are by Themselves only of the nature of knowledge. Inealities pertain only to Prakrti or the bodies they are embodied in. One whose mind is fixed in Yoga has the experience of the sameness of the nature of all the selves as centres of intelligence, the perceived difference being caused only by the body. When separated from the body all are alike because of their being forms of centres of intelligence. An enlightened Yogin therefore sees himself as abiding in all beings and all beings abiding in his self in the sense that he sees the similarity of the selves in himself and in every being. When one self is visualised, all selves become visulaised, because of the similarity of all selves. This is supported by the statements: 'He sees sameness everywhere' (6.29). The same is again referred to in, 'This Yoga of eality which has been declared by you'
 (6.33), and the statement 'The Brahman when uncontaminated is the same everywhere' (5.19).
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।6.29।। सर्वेति। सर्वेषु भूतेषु आत्मानं ग्राहकतया +++(K ग्राहकरूपतया)+++
-अनुप्रविशन्तं भावयेत्। आत्मनि च ग्राह्यताज्ञानद्वारेण सर्वाणि भूतानि
-एकीकुर्यात्। अतश्च समदर्शनत्वं जायते ( ज्ञायते) योगश्चेति संक्षेपार्थः।
-विस्तरस्तु भेदवादविदारणादिप्रकरणे देवीस्तोत्रविवरणे च मयैव निर्णीत इति
-तत्रैवावधार्य +++(SK तत एवाव )+++।
-
+॥6.29॥ **सर्वभूतस्थं** सर्वेषु भूतेषु स्थितं स्वम् **आत्मानं सर्वभूतानि च आत्मनि** ब्रह्मादीनि स्तम्बपर्यन्तानि च सर्वभूतानि आत्मनि एकतां गतानि **ईक्षते** पश्यति **योगयुक्तात्मा** समाहितान्तःकरणः **सर्वत्र समदर्शनः** सर्वेषु ब्रह्मादिस्थावरान्तेषु विषमेषु सर्वभूतेषु समं निर्विशेषं ब्रह्मात्मैकत्वविषयं दर्शनं ज्ञानं यस्य स सर्वत्र समदर्शनः॥ एतस्य आत्मैकत्वदर्शनस्य फलम् उच्यते
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.29 Sarva - etc. Let him consider the Self to be entering into (i.e.,
-inherent in and manifesting as) all beings as a perceiver (or as a
-subject); again let him unify all beings in the Self through his
-realisation of the Self as being object \[for them\]. As a result of
-this, there arises a capacity to observe eally and also arises the Yoga.
-This is in short what is meant here. The details have been dealt with by
-myself (Ag.) in \[my\] manual, like the bhedavadavidarana and \[my
-commentary\], the Devistotra-Vivarana; and hence they may be ascertained
-there only. The same idea is made clear \[as\] -
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।6.29।। ध्येयमाह सर्वभूतस्थमिति। सर्वभूतस्थमात्मानं परमेश्वरम्
-सर्वभूतानि चात्मनि परमेश्वरे तं च परमेश्वरं
-चतुर्मुखब्रह्मतृणादावैश्वर्यादिना साम्येन पश्यति। तच्चोक्तम् आत्मानं
-सर्वभूतेषु भगवन्तमवस्थितम्। अपश्यत्सर्वभूतानि भगवत्यपि चात्मनि
-भाग.3।24।46 इति। समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् इति च।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।6.29।। एवं युञ्जन्निति। योगप्रकरणस्य फलकथनेनोपसंहृतत्वात्किमुत्तरेण
-इत्यत आह **ध्येयमि**ति। ननुमच्चित्तो युक्तः 6।14 इत्यादिना ध्येयमुक्तमेव
-सत्यम् तथाप्युत्तमाधिकारिणां ध्येयमनेनोच्यत इत्यदोषः। आत्मानं
-स्वात्मानमित्यादिप्रतीतिपराकरणार्थमाह **सर्वे**ति। कुतोऽयमर्थ इत्यतः
-पुराणसमाख्यानादित्याह **तच्चे**ति। सर्वत्र समदर्शनः इत्यस्योक्तार्थतां
-गीतासम्मत्योपपादयति **सममि**ति।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।6.29।। **सर्वभूतस्थं** सर्वेषु भूतेषु स्थितं स्वम् **आत्मानं
-सर्वभूतानि च आत्मनि** ब्रह्मादीनि स्तम्बपर्यन्तानि च सर्वभूतानि आत्मनि
-एकतां गतानि **ईक्षते** पश्यति **योगयुक्तात्मा** समाहितान्तःकरणः
-**सर्वत्र समदर्शनः** सर्वेषु ब्रह्मादिस्थावरान्तेषु विषमेषु सर्वभूतेषु
-समं निर्विशेषं ब्रह्मात्मैकत्वविषयं दर्शनं ज्ञानं यस्य स सर्वत्र
-समदर्शनः।। एतस्य आत्मैकत्वदर्शनस्य फलम् उच्यते
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।6.29।। अब योगका फल जो कि समस्त संसारका विच्छेद करा देनेवाला ब्रह्मके
-साथ एकताका देखना है वह दिखलाया जाता है समाहित अन्तःकरणसे युक्त और सब जगह
-समदृष्टिवाला योगी जिसका ब्रह्म और आत्माकी एकताको विषय करनेवाला ज्ञान
-ब्रह्मासे लेकर स्थावरपर्यन्त समस्त विभक्त प्राणियोंमें भेदभावसे रहित सम
-हो चुका है ऐसा पुरुष अपने आत्माको सब भूतोंमें स्थित (देखता है ) और
-आत्मामें सब भूतोंको देखता है। अर्थात् ब्रह्मासे लेकर स्तम्बपर्यन्त समस्त
-प्राणियोंको आत्मामें एकताको प्राप्त हुए देखता है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 6.29 Yoga-yukta-atma, one who has his mind Self-absorbed through Yoga,
 whose mind is merged in samadhi; and sarvatra-sama-darsanah, who has the
@@ -181,72 +63,33 @@ Brahma to immovable things; iksate, sees; atmanam, the Self, his own
 Self; sarva-bhuta-stham, existing in everything; and sarva-bhutani,
 everything from Brahma to a clump of grass; unified atmani, in his Self.
 The fruit of this realization of the unity of the Self is being stated:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।6.29।। योगमनुतिष्ठतो ब्रह्मभूतस्य
+<details><summary>हरिकृष्णदासः</summary>
+
+॥6.29॥ अब योगका फल जो कि समस्त संसारका विच्छेद करा देनेवाला ब्रह्मके
+साथ एकताका देखना है वह दिखलाया जाता है समाहित अन्तःकरणसे युक्त और सब जगह
+समदृष्टिवाला योगी जिसका ब्रह्म और आत्माकी एकताको विषय करनेवाला ज्ञान
+ब्रह्मासे लेकर स्थावरपर्यन्त समस्त विभक्त प्राणियोंमें भेदभावसे रहित सम
+हो चुका है ऐसा पुरुष अपने आत्माको सब भूतोंमें स्थित (देखता है ) और
+आत्मामें सब भूतोंको देखता है। अर्थात् ब्रह्मासे लेकर स्तम्बपर्यन्त समस्त
+प्राणियोंको आत्मामें एकताको प्राप्त हुए देखता है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥6.29॥ योगमनुतिष्ठतो ब्रह्मभूतस्य
 सर्वानर्थनिवृत्तिनिरतिशयसुखप्राप्तिलक्षणो द्विविधो मोक्षो हेतुना केन
 स्यादिति शङ्कमानं प्रत्याह **इदानीमिति।** स्वमात्मानमीक्षत इति संबन्धः।
 सर्वभूतान्यपि तद्विशेषणत्वेन पश्यति चेन्न शुद्धवस्तुज्ञानमिति
 नाविद्यानिवृत्तिरित्याशङ्क्याह **सर्वभूतानीति।** उक्ते दर्शने
 चित्तसमाधानमुपायं दर्शयति **योगेति।** विषमेषूपाधिषु तदनुरोधाद्विषममेव
 दर्शनं तदुपदर्शितदर्शनप्रतिबन्धकं प्रत्युदस्यति **सर्वत्रेति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।6.29।। तदेवं निरोधसमाधिना त्वंपदलक्ष्ये तत्पदलक्ष्ये च शुद्धे
-साक्षात्कृते तदैक्ययगोचरा तत्त्वमसीतिवेदान्तवाक्यजन्या
-निर्विकल्पकसाक्षात्काररूपा वृत्तिर्ब्रह्मविद्याभिधाना जायते। ततश्च
-कृत्स्नाऽविद्यातत्कार्यनिवृत्त्या ब्रह्मसुखमत्यन्तमश्नुत इत्युपपादयति
-त्रिभिः श्लोकैः। तत्र प्रथमं त्वंपदलक्ष्योपस्थितिमाह सर्वेषु भूतेषु
-स्थावरजङ्गमेषु शरीरेषु भोक्तृतया स्थितमेकमेव नित्यं विभुमात्मानं
-प्रत्यक्चेतनं साक्षिणं परमार्थसत्यमानन्दघनं
-साक्ष्येभ्योऽनृतजडपरिच्छिन्नदुःखरूपेभ्यो विवेकेनेक्षते साक्षात्करोति।
-तस्मिंश्चात्मनि साक्षिणि सर्वाणि भूतानि साक्ष्याण्याध्यासिकेन संबन्धेन
-भोग्यतया कल्पितानिसाक्षिसाक्ष्ययोः संबन्धान्तरानुपपत्तेर्मिथ्याभूतानि
-परिच्छिन्नानि जडानि दुःखात्मकानि साक्षिणो विवेकेनेक्षते। कः।
-योगयुक्तात्मा योगेन निर्विचारवैशारद्यरूपेण युक्तः प्रसादं प्राप्त
-आत्मान्तःकरणं यस्य स तथा। तथाच
-प्रागेवोक्तंनिर्विचारवैशारद्येऽध्यात्मप्रसादःऋतंभरा तत्र
-प्रज्ञाश्रुतानुमानप्रज्ञाभ्यामन्यविषया विशेषार्थत्वात् इति। तथाच
-शब्दानुमानागोचरयथार्थविशेषवस्तुगोचरयोगजप्रत्यक्षेण ऋतंभरसंज्ञेन
-युगपत्सूक्ष्मं व्यहितं विप्रकृष्टं च सर्वं तुल्यमेव पश्यतीति सर्वत्र समं
-दर्शनं यस्येति सर्वत्र समदर्शनः सन्नात्मानमनात्मानं च योगयुक्तात्मा
-यथावस्थितमीक्षत इति युक्तम्। अथवा यो योगयुक्तात्मा यो वा सर्वत्र
-समदर्शनः स आत्मानमीक्षत इति योगिसमदर्शिनावात्मेक्षणाधिकारिणावुक्तौ। यथा
-हि चित्तवृत्तिनिरोधः साक्षिसाक्षात्कारहेतुस्तथा जडविवेकेन
-सर्वानुस्यूतचैतन्यपृथक्करणमपि नावश्यं योग एवापेक्षितः। अतएवाह
-वसिष्ठःद्वौ क्रमौ चित्तनाशस्य योगो ज्ञानं च राघव। योगो वृत्तिनिरोधो हि
-ज्ञानं सम्यगवेक्षणम्।। असाध्यः कस्यचिद्योगः कस्यचित्तत्त्वनिश्चयः।
-प्रकारौ द्वौ ततो देवो जगाद परमः शिवः।। इति। चित्तनाशस्य साक्षिणः
-सकाशात्तदुपाधिभूतचित्तस्य पृथक्करणात्तददर्शनस्य। तस्योपायद्वयं
-एकोऽसंप्रज्ञातसमाधिः। संप्रज्ञातसमाधौ हि
-आत्मैकाकारवृत्तिप्रवाहयुक्तमन्तःकरणसत्त्वं साक्षिणानुभूयते
-निरुद्धसर्ववृत्तिकं तूपशान्तत्वान्नानुभूयत इति विशेषः। द्वितीयस्तु
-साक्षिणि कल्पितं साक्ष्यमनृतत्वान्नास्त्येव। साक्ष्येव तु परमार्थसत्यः
-केवलो विद्यत इति विचारः। तत्र प्रथममुपायं प्रपञ्चपरमार्थतावादिनो
-हैरण्यगर्भादयः प्रपेदिरे। तेषां परमार्थस्य चित्तस्यादर्शनेन साक्षिदर्शने
-निरोधातिरिक्तोपायासंभवात्।
-श्रीमच्छङ्करभगवत्पूज्यपादमतोपजीविनस्त्वौपनिषदाः प्रपञ्चानृतत्ववादिनो
-द्वितीयमेवोपायमुपेयुः। तेषां ह्यधिष्ठानज्ञानदार्ढ्ये सति तत्र कल्पितस्य
-बाधितस्य चित्तस्य तद्दृश्यस्य चादर्शनमनायासेनैवोपपद्यते। अतएव
-भगवत्पूज्यपादाः कुत्रापि ब्रह्मविदां योगापेक्षां न व्युत्पादयांबभूवुः।
-अतएव चौपनिषदाः परमहंसाः श्रौते वेदान्तवाक्यविचार एव गुरुमुपसृत्य
-प्रवर्तन्ते ब्रह्मसाक्षात्काराय नतु योगे विचारणैव चित्तदोषनिराकरणेन
-तस्यान्यथासिद्धत्वादिति कृतमधिकेन।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।6.29।। द्विविधस्यापि योगस्य फलमाह **सर्वेति।**सोपाधिर्निरुपाधिश्च
+॥6.29॥ द्विविधस्यापि योगस्य फलमाह **सर्वेति।**सोपाधिर्निरुपाधिश्च
 द्वेधा ब्रह्मविदुच्यते। सोपाधिकः स्यात्सर्वात्मा निरुपाख्योऽनुपाधिकः।
 इति वार्तिकोक्तरीत्या संप्रज्ञाते आत्मनः सार्वात्म्यमनुभवन्योगी सर्वेषु
 भूतेषूपादानतया स्थितमात्मानमीक्षते पश्यति। तथा असंप्रज्ञाते सर्वाणि
@@ -281,13 +124,11 @@ The fruit of this realization of the unity of the Self is being stated:
 किं च योगप्रकारेण योगानपेक्षमार्गान्तरप्रतिपादनमसंगतम्। न च तत्सूचकोऽत्र
 कश्चिच्छब्दो वर्तते। संभवति वा उक्तयुक्तेरतो यो वा समदर्शन इति
 वापदाध्याहारोऽप्यसंगत इति दिक्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।6.29।। इदानीं सर्वसंसारविच्छेदकारणं ब्रह्मात्मैकत्वदर्शनं योगस्य यत्फलं
+<details><summary>धनपतिः</summary>
+
+॥6.29॥ इदानीं सर्वसंसारविच्छेदकारणं ब्रह्मात्मैकत्वदर्शनं योगस्य यत्फलं
 तद्दर्शयति। सर्वभूतस्थं सर्वेषु ब्रह्मादिस्तम्बपर्यन्तेषु स्वमात्मानं
 सर्वभूतानि चात्मनि एकतां गतानि योगयुक्तात्मा समाहितान्तःकरण ईक्षते
 पश्यति। सर्वेषु ब्रह्मदिस्थावरान्तेषु गुणरुपसंस्कारवस्तुविक्रियारहितं
@@ -298,8 +139,8 @@ The fruit of this realization of the unity of the Self is being stated:
 प्रणश्यतीतिफलानुपपत्तेः। यदपि चित्तवृत्तिनिरोधः साक्षिसाक्षात्कारहेतुः
 तथा जडविवेकेन सर्वानुस्यूतचैन्यपृथक्वरणमपि नावश्यं योग एवापेक्षितः।
 अतएवाह वसिष्ठःद्वौ क्रमौ चित्तनाशाय योगो ज्ञानं च राघव। योगो
-वृत्तिनिरोधो हि ज्ञानं सभ्यगवेक्षणम्।। असाध्यः कस्यचिद्योगः
-कस्यचित्तत्वाविश्चयः। प्रकारौ द्वौ ततो देवो जगाद परमः शिवः।। इति। तत्र
+वृत्तिनिरोधो हि ज्ञानं सभ्यगवेक्षणम्॥ असाध्यः कस्यचिद्योगः
+कस्यचित्तत्वाविश्चयः। प्रकारौ द्वौ ततो देवो जगाद परमः शिवः॥ इति। तत्र
 प्रथमोपायं प्रपञ्चपरमार्थवादिनो हैरण्यगर्भादयः प्रेपेदिरे तेषां
 परमार्थस्य चित्तस्यादर्शने तिरोधानातिरिक्तोपायासंभवात्।
 श्रीभच्छंकरभगवत्पूज्यपादमतोपजीविनस्त्वैपनिषदाः प्रपञ्चानृतत्वादिनः
@@ -332,9 +173,9 @@ The fruit of this realization of the unity of the Self is being stated:
 प्रत्यनन्यसाधनस्योत्पत्त्या मोक्ष इत्यविरोधात्। यदि तु योगस्य
 मोक्षासाधनत्वं स्वात्न्त्रयेण वसिष्ठाभिप्रेतं स्यात्तर्हि उपायद्वयकथनपरं
 वसिष्ठवाक्यंश्रीराम उवाचसम्यग्ज्ञानविलासेन वासनाविलायोदये।
-जीवन्मुक्तिपदे ब्रह्मन्नूनं विश्रान्तवानहम्।। प्राणास्पन्दनिरोधेन
+जीवन्मुक्तिपदे ब्रह्मन्नूनं विश्रान्तवानहम्॥ प्राणास्पन्दनिरोधेन
 वासनाविलयोदये। जीवन्मुक्तिपदे ब्रह्मन्वद विश्रम्यते कथम्।
-सुलभत्वाददुःखत्वात्कतरः शोभनोऽनयोः। येनावगतमात्रेण भूयः क्षोभो न बाधते।।
+सुलभत्वाददुःखत्वात्कतरः शोभनोऽनयोः। येनावगतमात्रेण भूयः क्षोभो न बाधते॥
 इति रामचन्द्रप्रश्नानुसरणस्यावश्यकत्वात्। यदप्यतएव भगवत्पूज्यपादाः
 इत्यादि तत्रापि किं तत्त्वज्ञानोत्तरं योगापेक्षां न व्युत्पादयाबभूवुः उत
 ज्ञानसाधनत्वेन। नाद्यः। तथा जडविवेकेनेत्युपक्रमानुनरोधात्। न द्वितीयः।
@@ -355,19 +196,19 @@ The fruit of this realization of the unity of the Self is being stated:
 हृदीन्द्रियाणि मनसा संनिवेश्य। ब्रह्मोडुपेन प्रतरेत विद्वनस्त्रोतांसि
 सर्वाणि भयावहानि। प्राणान्प्रपीड्येहसुयुक्तचेष्टः क्षीणे प्राणे
 नासिकयोच्छ्वसीत। दुष्टाश्वयुक्तमिववाहमेनं विद्वान्मनो
-धारयेताप्रमत्तः।। नीहारधूमार्कानिलानलानां खद्योतविद्युत्स्फुटिकशशीनाम्।
-एतानि रुपाणि पुरःसराणि ब्रह्मण्यभिव्यक्तिकराणि योगे।। पृथ्वाप्यतेजोनिलखे
+धारयेताप्रमत्तः॥ नीहारधूमार्कानिलानलानां खद्योतविद्युत्स्फुटिकशशीनाम्।
+एतानि रुपाणि पुरःसराणि ब्रह्मण्यभिव्यक्तिकराणि योगे॥ पृथ्वाप्यतेजोनिलखे
 समुत्थिते पञ्चमात्के योगगुणे प्रवृत्ते। न तस्य रोगो न जरा न मृत्युः
-प्राप्तस्य पञ्चाग्निमयं शरीरम्।। लधुत्वमारोग्यमलोलुपत्वं वर्णप्रसादं
+प्राप्तस्य पञ्चाग्निमयं शरीरम्॥ लधुत्वमारोग्यमलोलुपत्वं वर्णप्रसादं
 स्वरशौष्ठवं च। गन्धः शभो मूत्रपुरीषमल्पं योगप्रवृत्तिंः प्रथमां
-वदन्ति।। यथैव बिम्बं मृदयोपलिप्तं तेयोमयं भ्राजते तत्सुधान्तम्।
-तदात्मतत्त्वं प्रसमीक्ष्य देही एकः कृतार्थो भवते वीतशोकः।। यदात्मतत्त्वेन
+वदन्ति॥ यथैव बिम्बं मृदयोपलिप्तं तेयोमयं भ्राजते तत्सुधान्तम्।
+तदात्मतत्त्वं प्रसमीक्ष्य देही एकः कृतार्थो भवते वीतशोकः॥ यदात्मतत्त्वेन
 तु ब्रह्मतत्त्वं दीपोपमेनेह युक्तः प्रपश्येत्। अर्जे ध्रुवं
-सर्वतत्त्वैर्विशुद्धं ज्ञात्वा देवं मुच्यते सर्वपाशैः।। एषो हि देवः
+सर्वतत्त्वैर्विशुद्धं ज्ञात्वा देवं मुच्यते सर्वपाशैः॥ एषो हि देवः
 प्रदिशोनु सर्वाः पूर्वो  
   
 हि जातः स उ गर्भे यअन्तः। ए एव जातः स जनिष्यमाणः प्रत्यङ्जनास्तिष्ठति
-सर्वतोमुखः।। यो देवोऽग्नौ योऽप्सु यो विश्वं भुवनमाविवेश य ओषदीषु यो
+सर्वतोमुखः॥ यो देवोऽग्नौ योऽप्सु यो विश्वं भुवनमाविवेश य ओषदीषु यो
 वनस्पतिषु तस्मै देवाय नमः इति। त्रिरुन्नतमित्यत्र त्रीर्ण
 उरेग्रीवाशिरांसि उन्नतानि यस्मिञ्शरीरं तन्त्रयुन्तम्। त्रिरुन्नतमिति तु
 च्छान्दसम्। ब्रह्मोडुपेन तारप्लवेन स्त्रोतांसि
@@ -400,7 +241,7 @@ The fruit of this realization of the unity of the Self is being stated:
 नेतरासाम्। तथाच प्रमाणलक्षणस्थं पारमर्षं सूत्रम्विरोधं त्वनपेक्षं
 स्यादसति ह्यनुमानम् इति। औदुम्बरीं स्पृष्ट्वोद्गायेत् इति
 प्रत्यक्षश्रुतिविरुद्धा सा सर्वा वेष्टयितव्येति स्मृतिर्मानं न वेति
-संशये मूलश्रुत्यनुमानान्मानमिति प्राप्ते राद्धान्तः क्लृप्तश्रुतिविरोधे
+संशये मूलश्रुत्यनुमानान्मानमिति प्राप्ते राद्धान्तः कॢप्तश्रुतिविरोधे
 श्रुतिप्रामाण्यमनपेक्षमपेक्षाशून्यं हेयमिति यावत्। हे यतोऽसतिविरोधे
 श्रुत्यनुमानं भवति। अत्रतु विरोधे सति
 श्रुत्यनुमानायोगान्मूलाभावात्सर्ववेष्टनस्मृतिरप्रमाणमित्यर्थः। एवंच
@@ -445,17 +286,96 @@ The fruit of this realization of the unity of the Self is being stated:
 गीतास्मृतिभ्यश्च औपनिषदानां परमहंसानां चित्तदोषनिरासार्थं
 श्रुत्यविरोधित्त्वज्ञानसाधनभूतयोगाभ्यासे प्रवृत्तेरौचित्याच्च। अतएव
 चौपनिषदा इत्यसंगतमित्यलं विस्तरेण।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥6.29॥ तदेवं निरोधसमाधिना त्वंपदलक्ष्ये तत्पदलक्ष्ये च शुद्धे
+साक्षात्कृते तदैक्ययगोचरा तत्त्वमसीतिवेदान्तवाक्यजन्या
+निर्विकल्पकसाक्षात्काररूपा वृत्तिर्ब्रह्मविद्याभिधाना जायते। ततश्च
+कृत्स्नाऽविद्यातत्कार्यनिवृत्त्या ब्रह्मसुखमत्यन्तमश्नुत इत्युपपादयति
+त्रिभिः श्लोकैः। तत्र प्रथमं त्वंपदलक्ष्योपस्थितिमाह सर्वेषु भूतेषु
+स्थावरजङ्गमेषु शरीरेषु भोक्तृतया स्थितमेकमेव नित्यं विभुमात्मानं
+प्रत्यक्चेतनं साक्षिणं परमार्थसत्यमानन्दघनं
+साक्ष्येभ्योऽनृतजडपरिच्छिन्नदुःखरूपेभ्यो विवेकेनेक्षते साक्षात्करोति।
+तस्मिंश्चात्मनि साक्षिणि सर्वाणि भूतानि साक्ष्याण्याध्यासिकेन संबन्धेन
+भोग्यतया कल्पितानिसाक्षिसाक्ष्ययोः संबन्धान्तरानुपपत्तेर्मिथ्याभूतानि
+परिच्छिन्नानि जडानि दुःखात्मकानि साक्षिणो विवेकेनेक्षते। कः।
+योगयुक्तात्मा योगेन निर्विचारवैशारद्यरूपेण युक्तः प्रसादं प्राप्त
+आत्मान्तःकरणं यस्य स तथा। तथाच
+प्रागेवोक्तंनिर्विचारवैशारद्येऽध्यात्मप्रसादःऋतंभरा तत्र
+प्रज्ञाश्रुतानुमानप्रज्ञाभ्यामन्यविषया विशेषार्थत्वात् इति। तथाच
+शब्दानुमानागोचरयथार्थविशेषवस्तुगोचरयोगजप्रत्यक्षेण ऋतंभरसंज्ञेन
+युगपत्सूक्ष्मं व्यहितं विप्रकृष्टं च सर्वं तुल्यमेव पश्यतीति सर्वत्र समं
+दर्शनं यस्येति सर्वत्र समदर्शनः सन्नात्मानमनात्मानं च योगयुक्तात्मा
+यथावस्थितमीक्षत इति युक्तम्। अथवा यो योगयुक्तात्मा यो वा सर्वत्र
+समदर्शनः स आत्मानमीक्षत इति योगिसमदर्शिनावात्मेक्षणाधिकारिणावुक्तौ। यथा
+हि चित्तवृत्तिनिरोधः साक्षिसाक्षात्कारहेतुस्तथा जडविवेकेन
+सर्वानुस्यूतचैतन्यपृथक्करणमपि नावश्यं योग एवापेक्षितः। अतएवाह
+वसिष्ठःद्वौ क्रमौ चित्तनाशस्य योगो ज्ञानं च राघव। योगो वृत्तिनिरोधो हि
+ज्ञानं सम्यगवेक्षणम्॥ असाध्यः कस्यचिद्योगः कस्यचित्तत्त्वनिश्चयः।
+प्रकारौ द्वौ ततो देवो जगाद परमः शिवः॥ इति। चित्तनाशस्य साक्षिणः
+सकाशात्तदुपाधिभूतचित्तस्य पृथक्करणात्तददर्शनस्य। तस्योपायद्वयं
+एकोऽसंप्रज्ञातसमाधिः। संप्रज्ञातसमाधौ हि
+आत्मैकाकारवृत्तिप्रवाहयुक्तमन्तःकरणसत्त्वं साक्षिणानुभूयते
+निरुद्धसर्ववृत्तिकं तूपशान्तत्वान्नानुभूयत इति विशेषः। द्वितीयस्तु
+साक्षिणि कल्पितं साक्ष्यमनृतत्वान्नास्त्येव। साक्ष्येव तु परमार्थसत्यः
+केवलो विद्यत इति विचारः। तत्र प्रथममुपायं प्रपञ्चपरमार्थतावादिनो
+हैरण्यगर्भादयः प्रपेदिरे। तेषां परमार्थस्य चित्तस्यादर्शनेन साक्षिदर्शने
+निरोधातिरिक्तोपायासंभवात्।
+श्रीमच्छङ्करभगवत्पूज्यपादमतोपजीविनस्त्वौपनिषदाः प्रपञ्चानृतत्ववादिनो
+द्वितीयमेवोपायमुपेयुः। तेषां ह्यधिष्ठानज्ञानदार्ढ्ये सति तत्र कल्पितस्य
+बाधितस्य चित्तस्य तद्दृश्यस्य चादर्शनमनायासेनैवोपपद्यते। अतएव
+भगवत्पूज्यपादाः कुत्रापि ब्रह्मविदां योगापेक्षां न व्युत्पादयांबभूवुः।
+अतएव चौपनिषदाः परमहंसाः श्रौते वेदान्तवाक्यविचार एव गुरुमुपसृत्य
+प्रवर्तन्ते ब्रह्मसाक्षात्काराय नतु योगे विचारणैव चित्तदोषनिराकरणेन
+तस्यान्यथासिद्धत्वादिति कृतमधिकेन।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।6.29 6.30।। एतादृशस्य योगिनो ब्रह्मसुखाविर्भावो वामदेववत्सर्वात्मभावे
+॥6.29॥ ध्येयमाह सर्वभूतस्थमिति। सर्वभूतस्थमात्मानं परमेश्वरम्
+सर्वभूतानि चात्मनि परमेश्वरे तं च परमेश्वरं
+चतुर्मुखब्रह्मतृणादावैश्वर्यादिना साम्येन पश्यति। तच्चोक्तम् आत्मानं
+सर्वभूतेषु भगवन्तमवस्थितम्। अपश्यत्सर्वभूतानि भगवत्यपि चात्मनि
+भाग.3।24।46 इति। समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् इति च।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥6.29॥ एवं युञ्जन्निति। योगप्रकरणस्य फलकथनेनोपसंहृतत्वात्किमुत्तरेण
+इत्यत आह **ध्येयमि**ति। ननुमच्चित्तो युक्तः 6।14 इत्यादिना ध्येयमुक्तमेव
+सत्यम् तथाप्युत्तमाधिकारिणां ध्येयमनेनोच्यत इत्यदोषः। आत्मानं
+स्वात्मानमित्यादिप्रतीतिपराकरणार्थमाह **सर्वे**ति। कुतोऽयमर्थ इत्यतः
+पुराणसमाख्यानादित्याह **तच्चे**ति। सर्वत्र समदर्शनः इत्यस्योक्तार्थतां
+गीतासम्मत्योपपादयति **सममि**ति।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
+
+<details><summary>मूलम्</summary>
+
+॥6.29॥ सर्वेति। सर्वेषु भूतेषु आत्मानं ग्राहकतया +++(K ग्राहकरूपतया)+++ अनुप्रविशन्तं भावयेत्। आत्मनि च ग्राह्यताज्ञानद्वारेण सर्वाणि भूतानि एकीकुर्यात्। अतश्च समदर्शनत्वं जायते ( ज्ञायते) योगश्चेति संक्षेपार्थः। विस्तरस्तु भेदवादविदारणादिप्रकरणे देवीस्तोत्रविवरणे च मयैव निर्णीत इति तत्रैवावधार्य +++(SK तत एवाव )+++।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+6.29 Sarva - etc. Let him consider the Self to be entering into (i.e., inherent in and manifesting as) all beings as a perceiver (or as a subject); again let him unify all beings in the Self through his realisation of the Self as being object \[for them\]. As a result of this, there arises a capacity to observe eally and also arises the Yoga. This is in short what is meant here. The details have been dealt with by myself (Ag.) in \[my\] manual, like the bhedavadavidarana and \[my commentary\], the Devistotra-Vivarana; and hence they may be ascertained there only. The same idea is made clear \[as\] -
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
+
+<details><summary>मूलम्</summary>
+
+॥6.29 6.30॥ एतादृशस्य योगिनो ब्रह्मसुखाविर्भावो वामदेववत्सर्वात्मभावे
 भवतीत्याह। गुह्यः असम्प्रज्ञातसमाधिर्द्विविधः अक्षरब्रह्मविषयको
 भगवद्विषयकश्च तत्र पूर्वस्य फलमाह भगवान् सर्वभूतस्थमिति।
 सर्वभूतस्थितमात्मानं पश्यति सर्वभूतानि च स्वात्मनि अवस्थानेन
@@ -469,43 +389,87 @@ _________________
 विभिद्याह तस्याहं न प्रणश्यामीति नादृश्यो भवामीत्याह। स ममादृश्यो न भवति
 आनन्दाविर्भावरूपेण चतुर्भुजादिरूपो भूत्वा प्रत्यक्षं कृपादृष्टया
 तमनुगृह्णामीत्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।6.29।। ब्रह्मसंस्पर्शसुखं स्पष्टयति सर्वभूतस्थमिति। योगयुक्तात्मा
+<details><summary>पुरुषोत्तमः</summary>
+
+॥6.29॥ ब्रह्मसंस्पर्शसुखं स्पष्टयति सर्वभूतस्थमिति। योगयुक्तात्मा
 भगवत्संयोगयुक्त आत्मा सर्वत्र संयोगविप्रयोगभावे समदर्शन आत्मानं भगवन्तं
 सर्वभूतस्थं विप्रयोगावस्थायां च पुनरात्मनि भगवत्स्वरूपे संयोगावस्थायां
 सर्वभूतानि सेवास्थितानि ईक्षते पश्यतीत्यर्थः। एतेन
-भगवत्स्वरूपज्ञानात्मसुखमुक्तमिति भावः।  
-  
-
+भगवत्स्वरूपज्ञानात्मसुखमुक्तमिति भावः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।6.29।। ब्रह्मसाक्षात्कारमेव दर्शयति **सर्वभूतस्थमिति।**
+॥6.29॥ ब्रह्मसाक्षात्कारमेव दर्शयति **सर्वभूतस्थमिति।**
 योगेनाभ्यस्यमानेन युक्तात्मा समाहितचित्तः सर्वत्र समं ब्रह्मैव पश्यतीति
 समदर्शनः। स्वमात्मानमविद्याकृतदेहादिपरिच्छेदशून्यं सर्वभूतेषु
 ब्रह्मादिस्थावरान्तेष्ववस्थितं पश्यति। तानि चात्मन्यभेदेन पश्यति।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+6.29 He whose mind is fixed in Yoga sees eality everywhere; he sees his self as abiding in all beings and all beings in his self.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+6.29 One who has his mind Self-absorbed through Yoga, and who has the vision of sameness every-where, see this Self existing in everything,
+and every-thing in his Self.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+6.29 He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye;
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+6.29. He, who has yoked the self in Yoga and observes everything eally perceives the Self to be abiding in all beings and all beings to be abiding in the Self.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+6.29 With the mind harmonised by Yoga he sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+6.29 सर्वभूतस्थम् abiding in all beings; आत्मानम् the Self; सर्वभूतानि
+all beings; च and; आत्मनि in the Self;,ईक्षते sees; योगयुक्तात्मा one who is harmonised by Yoga; सर्वत्र everywhere; समदर्शनः one who sees the same everywhere.Commentary The Yogi beholds through the eye of intuition
+(JnanaChakshus or DivyaChakshus) oneness or unity of the Self everywhere. This is a sublime and magnanimous vision indeed. He feels;
+All indeed is Brahman. He beholds that all beings are one with Brahman and that the Self and Brahman are identical.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।6.29।। सब जगह अपने स्वरूपको देखनेवाला और ध्यानयोगसे युक्त अन्तःकरणवाला
+योगा अपने स्वरूपको सम्पूर्ण प्राणियोंमें स्थित देखता है और सम्पूर्ण
+प्राणियोंको अपने स्वरूपमें देखता है।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+।।6.29।।***व्याख्या--*'ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः'--**सब जगह
+एक सच्चिदानन्दघन परमात्मा ही परिपूर्ण हैं। जैसे मनुष्य खाँड़से बने हुए
+अनेक तरहके खिलौनोंके नाम, रूप, आकृति आदि भिन्न-भिन्न होनेपर भी उनमें
+समानरूपसे एक खाँड़को, लोहेसे बने हुए अनेक तरहके अस्त्र-शस्त्रोंमें एक
+लोहेको, मिट्टीसे बने हुए अनेक तरहके बर्तनोंमें एक मिट्टीको और सोनेसे बने
+हुए आभूषणोंमें एक सोनेको ही देखता है, ऐसे ही ध्यानयोगी तरह-तरहकी वस्तु,
+व्यक्ति आदिमें समरूपसे एक अपने स्वरूपको ही देखता है।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।6.29।। विश्व के सभी धर्म महान हैं परन्तु यदि धर्म शब्द का अर्थ
 आत्मोन्नति का विज्ञान है तो उनमें से कोई भी धर्म वेदान्त के समान पूर्ण
@@ -538,86 +502,12 @@ _________________
 स्पष्ट हो जाता है। जिसने अनेकता में एक सत्य का दर्शन कर लिया वही
 आत्मज्ञानी पुरुष सर्वत्र समदृष्टि सेब्राह्मण गाय हाथी श्वान और चाण्डाल
 को देख सकता है। अगले श्लोक में इस आत्मैकत्व दर्शन का फल बताते हैं
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।6.29।। योगयुक्त अन्त:करण वाला और सर्वत्र समदर्शी योगी आत्मा को सब
 भूतों में और भूतमात्र को आत्मा में देखता है।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.29।। सब जगह अपने स्वरूपको देखनेवाला और ध्यानयोगसे युक्त अन्तःकरणवाला
-योगा अपने स्वरूपको सम्पूर्ण प्राणियोंमें स्थित देखता है और सम्पूर्ण
-प्राणियोंको अपने स्वरूपमें देखता है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-।।6.29।।***व्याख्या--*'ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः'--**सब जगह
-एक सच्चिदानन्दघन परमात्मा ही परिपूर्ण हैं। जैसे मनुष्य खाँड़से बने हुए
-अनेक तरहके खिलौनोंके नाम, रूप, आकृति आदि भिन्न-भिन्न होनेपर भी उनमें
-समानरूपसे एक खाँड़को, लोहेसे बने हुए अनेक तरहके अस्त्र-शस्त्रोंमें एक
-लोहेको, मिट्टीसे बने हुए अनेक तरहके बर्तनोंमें एक मिट्टीको और सोनेसे बने
-हुए आभूषणोंमें एक सोनेको ही देखता है, ऐसे ही ध्यानयोगी तरह-तरहकी वस्तु,
-व्यक्ति आदिमें समरूपसे एक अपने स्वरूपको ही देखता है।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-6.29. He, who has yoked the self in Yoga and observes everything eally perceives the Self to be abiding in all beings and all beings to be abiding in the Self.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-6.29 One who has his mind Self-absorbed through Yoga, and who has the vision of sameness every-where, see this Self existing in everything,
-and every-thing in his Self.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-6.29 He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye;
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-6.29 He whose mind is fixed in Yoga sees eality everywhere; he sees his self as abiding in all beings and all beings in his self.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-6.29 With the mind harmonised by Yoga he sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-6.29 सर्वभूतस्थम् abiding in all beings; आत्मानम् the Self; सर्वभूतानि
-all beings; च and; आत्मनि in the Self;,ईक्षते sees; योगयुक्तात्मा one who is harmonised by Yoga; सर्वत्र everywhere; समदर्शनः one who sees the same everywhere.Commentary The Yogi beholds through the eye of intuition
-(JnanaChakshus or DivyaChakshus) oneness or unity of the Self everywhere. This is a sublime and magnanimous vision indeed. He feels;
-All indeed is Brahman. He beholds that all beings are one with Brahman and that the Self and Brahman are identical.
-
-</details>
 </div>

@@ -1,163 +1,55 @@
 +++
 title = "17 तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 तद्-बुद्धयस् तद्-आत्मानस्  
 तन्-निष्ठास् तत्-परायणाः।  
 **गच्छन्त्य् अपुनर्-आवृत्तिं**  
 ज्ञान-निर्धूत-कल्मषाः॥5.17॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः।  
-गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः।।5.17।।
+गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः॥5.17॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।5.17।।**तद्बुद्धयः** तथाविधात्मदर्शनाध्यवसायाः **तदात्मानः**
-तद्विषयमनसः **तन्निष्ठाः** तदभ्यासनिरताः **तत्परायणाः** तद् एव परम् अयनं
-येषां ते एवमभ्यस्यमानेन ज्ञानेन **निर्धूत**प्राचीन**कल्मषाः** तथाविधम्
-आत्मानम् **अपुनरावृत्तिं गच्छन्ति।** यदवस्थाद् आत्मनः पुनरावृत्तिः न
-विद्यते स आत्मा अपुनरावृत्तिः स्वेन रूपेण अवस्थितः तम् आत्मानं गच्छन्ति
-इत्यर्थः।
-
+॥5.17॥**तद्बुद्धयः** तथाविधात्मदर्शनाध्यवसायाः **तदात्मानः** तद्विषयमनसः **तन्निष्ठाः** तदभ्यासनिरताः **तत्परायणाः** तद् एव परम् अयनं येषां ते एवमभ्यस्यमानेन ज्ञानेन **निर्धूत**प्राचीन**कल्मषाः** तथाविधम् आत्मानम् **अपुनरावृत्तिं गच्छन्ति।** यदवस्थाद् आत्मनः पुनरावृत्तिर् न विद्यते स आत्मा अपुनरावृत्तिः स्वेन रूपेण अवस्थितस् तम् आत्मानं गच्छन्ति इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।5.17।। आत्मानुभवसौधसोपानस्य ज्ञानस्यारोहणक्रमं दर्शयति तद्बुद्धयः इति
-श्लोकेन। तच्छब्देनात्र पूर्वप्रस्तुतस्वाभाविकात्मस्वरूपं
-पूर्वश्लोकोक्ततज्ज्ञानं वा परामृश्यत
-इत्यभिप्रायेणतथाविधात्मदर्शनाध्यवसाया इत्युक्तम्। तदात्मानः इत्यनेन
-द्रष्टव्यत्वाध्यवसायादनन्तरो दर्शनार्थप्रवृत्तियोग उच्यत
-इत्यभिप्रायेणतद्विषयमनस इत्युक्तम्। तन्निष्ठत्वं
-विषयान्तरवैमुख्यात्तत्परायणत्वे हेतुः। अयनशब्दोऽत्र कर्मणि ल्युडन्तः
-प्राप्यपरः।
-वाक्यार्थज्ञानादिमात्रव्यावृत्त्यर्थंएवमभ्यस्यमानेनेत्युक्तम्।
-प्राप्तिप्रतिबन्धककल्मषनिवृत्तिर्ह्युपान्त्यपर्व। अतोऽन्तिमं
-प्राप्यमत्रापुनरावृत्तिशब्देन विवक्षितम् स च यथावस्थित
-आत्मैवेत्यभिप्रायेणतथाविधमात्मानमिति।
-अपुनरावृत्तिशब्दस्यात्रानुद्दिष्टावध्यन्तरपरामर्शसापेक्षसमासान्तरव्युदासेनात्मविशेषणत्वायाहयदवस्थादिति।
-नन्वात्मन एवक्षीणे पुण्ये मर्त्यलोकं विशन्ति 9।29 इति पुनरावृत्तिरुच्यते
-यदवस्थादिति चायुक्तं मोक्षस्याप्यवस्थाविशेषत्वे
-नित्यत्वायोगात्पुनरावृत्तिप्रसङ्गादित्यत्राहस्वेन रूपेणेति।
-औपाधिकसमस्ताकारनिवृत्तिरूपावस्थाविनाशकासम्भवात्परमतेऽपि
-प्रध्वंसरूपत्वादनिवर्त्येति भावः।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥5.17॥ आत्मानुभवसौधसोपानस्य ज्ञानस्यारोहणक्रमं दर्शयति तद्बुद्धयः इति श्लोकेन। तच्छब्देनात्र पूर्वप्रस्तुतस्वाभाविकात्मस्वरूपं पूर्वश्लोकोक्ततज्ज्ञानं वा परामृश्यत इत्यभिप्रायेणतथाविधात्मदर्शनाध्यवसाया इत्युक्तम्। तदात्मानः इत्यनेन द्रष्टव्यत्वाध्यवसायादनन्तरो दर्शनार्थप्रवृत्तियोग उच्यत इत्यभिप्रायेणतद्विषयमनस इत्युक्तम्। तन्निष्ठत्वं विषयान्तरवैमुख्यात्तत्परायणत्वे हेतुः। अयनशब्दोऽत्र कर्मणि ल्युडन्तः प्राप्यपरः। वाक्यार्थज्ञानादिमात्रव्यावृत्त्यर्थम्एवमभ्यस्यमानेनेत्युक्तम्। प्राप्तिप्रतिबन्धककल्मषनिवृत्तिर्ह्युपान्त्यपर्व। अतोऽन्तिमं प्राप्यमत्रापुनरावृत्तिशब्देन विवक्षितं स च यथावस्थित आत्मैवेत्यभिप्रायेणतथाविधमात्मानमिति। अपुनरावृत्तिशब्दस्यात्रानुद्दिष्टावध्यन्तरपरामर्शसापेक्षसमासान्तरव्युदासेनात्मविशेषणत्वायाहयदवस्थादिति। नन्वात्मन एवक्षीणे पुण्ये मर्त्यलोकं विशन्ति 9।29 इति पुनरावृत्तिरुच्यते यदवस्थादिति चायुक्तं मोक्षस्याप्यवस्थाविशेषत्वे नित्यत्वायोगात्पुनरावृत्तिप्रसङ्गादित्यत्राहस्वेन रूपेणेति। औपाधिकसमस्ताकारनिवृत्तिरूपावस्थाविनाशकासम्भवात्परमतेऽपि प्रध्वंसरूपत्वादनिवर्त्येति भावः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 5.17 'Those whose intellects pursue It,' i.e., those who have determined to have the vision of the self in this way; 'those whose minds think about It,' i.e., those whose minds have the self for their aim, those who undergo discipline for It, i.e., those who are devoted to the practices for Its attainment; 'those who hold It as their highest object,' i.e., those who consider It as their highest goal - such persons, having their previous impurities cleansed by the knowledge which is practised in this way, attain the self as taught. 'From that state there is no return' - the state from which there is no return means the state of the self. The meaning is that they attain the self which rests in Its own nature.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।5.17।। एतच्च +++(K तच्च)+++ तद्गतबुद्धिमनसा त्यक्तान्यव्यापाराणां घटत
-इत्याशयं प्रकटयितुमाह +++(S तुमुक्तम्)+++ यत एवं स्वभावस्तु प्रवर्तते इत्यतो
-ध्वस्ताज्ञानानामित्थं स्थितिरित्याह विद्येति। तथा च तेषां योगिना
-ब्राह्मणे न ईदृशी +++(N अनीदृशी)+++ बुद्धिः अस्य शुश्रूषादिना अहं पुण्यवान्
-भविष्यामि इत्यादि गवि न पावनी इयम् इत्यादि हस्तिनि न अर्थादिधीः शुनि
-अपवित्रपापकारितादिनिश्चयः श्वपाके च न पापापवित्रादिधिषणा। अत एव समं
-पश्यन्ति इति न तुव्यवहरन्ति इति। तदुक्तम् +++(K यदुक्तम्)+++ चिद्धर्मा
-सर्वदेहेषु विशेषो नास्ति कुत्रचित्।  
-  
-अतश्च तन्मयं सर्वं भावयन् भवजिज्जनः +++(N भवभिज्जनः)+++।। इति। +++(V 100 )+++।
-
+॥5.17॥ तस्मिन् ब्रह्मणि गता बुद्धिः येषां ते **तद्बुद्धयः तदात्मानः** तदेव परं ब्रह्म आत्मा येषां ते तदात्मानः **तन्निष्ठाः** निष्ठा अभिनिवेशः तात्पर्यं सर्वाणि कर्माणि संन्यस्य तस्मिन् ब्रह्मण्येव अवस्थानं येषां ते तन्निष्ठाः **तत्परायणाश्च** तदेव परम् अयनं परा गतिः येषां भवति ते तत्परायणाः केवलात्मरतय इत्यर्थः। येषां ज्ञानेन नाशितम् आत्मनः अज्ञानं ते **गच्छन्ति** एवंविधाः **अपुनरावृत्तिम्** अपुनर्देहसंबन्धं **ज्ञाननिर्धूतकल्मषाः** यथोक्तेन ज्ञानेन निर्धूतः नाशितः कल्मषः पापादिसंसारकारणदोषः येषां ते ज्ञाननिर्धूतकल्मषाः यतयः इत्यर्थः॥ येषां ज्ञानेन नाशितम् आत्मनः अज्ञानं ते पण्डिताः कथं तत्त्वं पश्यन्ति इत्युच्यते
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.17 Because it is only the inherent nature that exerts thus, therefore
-\[the Lord\] says that the men, who have destroyed their illusion would
-remain as follows -
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।5.17।। अपरोक्षज्ञानाव्यवहितसाधनमाह तद्बुद्धय इति।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।5.17।। तद्बुद्धित्वादिकं यद्यपुनरावृत्तिसाधनत्वेनोच्यते
-तदाऽपरोक्षज्ञानादेव मोक्ष इति गतः पक्षः। अथ तद्बुद्धयो
-ज्ञाननिर्धूतकल्मषा इति ज्ञानसाधनत्वेन। तदसत् ज्ञानेनेति
-परोक्षज्ञानस्यापरोक्षज्ञानसाधनत्वेनोक्तत्वादित्यत आह **अपरोक्षे**ति।
-सत्यम् परोक्षज्ञानमपरोक्षज्ञानसाधनम् किन्तु व्यवहितम्। न हि
-श्रवणमननानन्तरमेवापरोक्षज्ञानमुत्पद्यते। इदं त्वव्यवहितसाधनमाहेत्यर्थः।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।5.17।। तस्मिन् ब्रह्मणि गता बुद्धिः येषां ते **तद्बुद्धयः तदात्मानः**
-तदेव परं ब्रह्म आत्मा येषां ते तदात्मानः **तन्निष्ठाः** निष्ठा अभिनिवेशः
-तात्पर्यं सर्वाणि कर्माणि संन्यस्य तस्मिन् ब्रह्मण्येव अवस्थानं येषां ते
-तन्निष्ठाः **तत्परायणाश्च** तदेव परम् अयनं परा गतिः येषां भवति ते
-तत्परायणाः केवलात्मरतय इत्यर्थः। येषां ज्ञानेन नाशितम् आत्मनः अज्ञानं ते
-**गच्छन्ति** एवंविधाः **अपुनरावृत्तिम्** अपुनर्देहसंबन्धं
-**ज्ञाननिर्धूतकल्मषाः** यथोक्तेन ज्ञानेन निर्धूतः नाशितः कल्मषः
-पापादिसंसारकारणदोषः येषां ते ज्ञाननिर्धूतकल्मषाः यतयः इत्यर्थः।। येषां
-ज्ञानेन नाशितम् आत्मनः अज्ञानं ते पण्डिताः कथं तत्त्वं पश्यन्ति
-इत्युच्यते
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।5.17।। जो प्रकाशित हुआ परमज्ञान है उस परमार्थतत्त्वमें जिनकी बुद्धि जा
-पहुँची है वे तद्बुद्धि हैं वह परब्रह्म ही जिनका आत्मा है वे तदात्मा हैं
-उस ब्रह्ममें ही जिनकी निष्ठादृढ़ आत्मभावनातत्परता है अर्थात् जो सब
-कर्मोंका संन्यास करके ब्रह्ममें ही स्थित हो गये हैं वे तन्निष्ठ हैं। वह
-परब्रह्म ही जिनका परम अयनआश्रय परमगति है अर्थात् जो केवल आत्मामें ही रत
-हैं वे तत्परायण हैं ( इस प्रकार ) जिनके अन्तःकरणका अज्ञान ज्ञानद्वारा
-नष्ट हो गया है एवं उपर्युक्त ज्ञानद्वारा संसारके कारणरूप पापादि दोष
-जिनके नष्ट हो चुके हैं ऐसे ज्ञाननिर्धूतकल्मष संन्यासी अपुनरावृत्तिको
-अर्थात् जिस अवस्थाको प्राप्त कर लेनेपर फिर देहसे सम्बन्ध होना छूट जाता
-है ऐसी अवस्थाको प्राप्त होते हैं।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 5.17 Tat-buddhayah, those who have their intellect absorbed in That,
 \[Here Ast. reads 'tasmin brahmani, in that Brahman'.-Tr.\] in the
@@ -177,13 +69,25 @@ transmigration, have been removed, destryed (nirdhuta), by the aforesaid
 Knowledge (jnana) are jnana-nirdhuta-kalmasah, i.e. the monks. How do
 those learned ones, whose ignorance regarding the Self has been
 destroyed by Knowledge, look upon Reality; That is being stated:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।5.17।। विदुषां विविदिषूणां चान्तरङ्गाणि
+<details><summary>हरिकृष्णदासः</summary>
+
+॥5.17॥ जो प्रकाशित हुआ परमज्ञान है उस परमार्थतत्त्वमें जिनकी बुद्धि जा
+पहुँची है वे तद्बुद्धि हैं वह परब्रह्म ही जिनका आत्मा है वे तदात्मा हैं
+उस ब्रह्ममें ही जिनकी निष्ठादृढ़ आत्मभावनातत्परता है अर्थात् जो सब
+कर्मोंका संन्यास करके ब्रह्ममें ही स्थित हो गये हैं वे तन्निष्ठ हैं। वह
+परब्रह्म ही जिनका परम अयनआश्रय परमगति है अर्थात् जो केवल आत्मामें ही रत
+हैं वे तत्परायण हैं ( इस प्रकार ) जिनके अन्तःकरणका अज्ञान ज्ञानद्वारा
+नष्ट हो गया है एवं उपर्युक्त ज्ञानद्वारा संसारके कारणरूप पापादि दोष
+जिनके नष्ट हो चुके हैं ऐसे ज्ञाननिर्धूतकल्मष संन्यासी अपुनरावृत्तिको
+अर्थात् जिस अवस्थाको प्राप्त कर लेनेपर फिर देहसे सम्बन्ध होना छूट जाता
+है ऐसी अवस्थाको प्राप्त होते हैं।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥5.17॥ विदुषां विविदिषूणां चान्तरङ्गाणि
 विद्यापरिपाकसाधनानीत्युपदिदिक्षुरुत्तरश्लोकस्यापेक्षितं पूरयति
 **यत्परमिति।** तस्मिन्परमार्थतत्त्वे परस्मिन्ब्रह्मणि बाह्यं विषयमपोह्य
 गता प्रवृत्ता श्रवणमनननिदिध्यासनैरसकृदनुष्ठितैर्बुद्धिः
@@ -203,13 +107,36 @@ destroyed by Knowledge, look upon Reality; That is being stated:
 दुर्वारत्वान्नापुनरावृत्तिसिद्धिरित्याशङ्क्याह **ज्ञानेति।**
 उक्तविशेषसंपत्त्या दर्शितफलशालित्वमाश्रमान्तरेष्वसंभावितमिति मन्वानो
 विशिनष्टि **यतय इति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।5.17।। ज्ञानेन परमात्मतत्त्वप्रकाशे सति तस्मिञ्ज्ञानप्रकाशिते
+<details><summary>नीलकण्ठः</summary>
+
+॥5.17॥**तद्बुद्धय इति।** यत् परं ब्रह्म प्रशान्तं तत्रैव बुद्धिरस्ति
+ब्रह्मेति निश्चयो येषामापाततः श्रुत्यर्थविदां ते तद्बुद्धयः तदेव आत्मा
+प्रत्यक्तत्त्वं येषां श्रवणमननात्मकविचारेण
+प्रमाणप्रमेयगतासंभावनाविहीनानां ते तदात्मानः तत्रैव निष्ठा
+विजातीयवृत्त्यनन्तरितसजातीयवृत्तिप्रवाहो येषां
+देहादावनात्मन्यात्मधीरूपविपरीतभावनारहितानां ते तन्निष्ठाः तदेव
+परमयनमज्ञानरूपोपाधिनिरासेन प्राप्यं येषामखण्डानन्दमग्नानां ते तत्परायणाः
+अपुनरावृत्तिं मोक्षं गच्छन्ति। यतो ज्ञानेन निर्धूतं कल्मषं मूलाज्ञानं
+संसारबीजभूतं येषां ते ज्ञाननिर्धूतकल्मषाः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥5.17॥ तत्परमार्थतत्त्वं ज्ञानप्रकाशितं तस्मिन्गता बुद्धिर्येषां ते।
+ननु ते किं तस्माद्य्वतिरिक्ता नेत्याह। तदेव परंब्रह्मात्मा स्वरुपं येषां
+ते। तत्र हेतुमाह। यतस्तस्मिन्ब्रह्मणि निष्ठा निदिध्यासनात्मकोऽभिनिवेशो
+येषां ते। तत्रापि हेतुमाह। यतस्तदेव परमयनं परा गतिर्येषां ते तदेव परां
+गतिं बुद्ध्वा इहामुत्रार्थभोगे विरज्य तत्छ्रवणतन्मननैकपरत्वेन तत्पराणा
+इत्यर्थः। एवंभूता अपुनरावृत्तिं मोक्षं गच्छन्ति। यतो ज्ञानेन
+ब्रह्मात्मसाक्षात्कारेण नितरां मूलोच्छेदेन धूतो नाशितः कल्मषः
+पुनरावृत्तिकारणीभूतो येषां ते।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥5.17॥ ज्ञानेन परमात्मतत्त्वप्रकाशे सति तस्मिञ्ज्ञानप्रकाशिते
 परमात्मतत्त्वे सच्चिदानन्दघन एव बाह्यसर्वविषयपरित्यागेन
 साधनपरिपाकात्पर्यवसिता बुद्धिरन्तःकरणवृत्तिः साक्षात्कारलक्षणा येषां ते
 तद्बुद्धयः। सर्वदा निर्बीजसमाधिभाज इत्यर्थः। तत्किं बोद्धारो जीवा
@@ -236,84 +163,137 @@ destroyed by Knowledge, look upon Reality; That is being stated:
 निर्धूतं समूलमुन्मूलितं पुनर्देहसंबन्धकारणं कल्मषं पुण्यपापात्मकं कर्म
 येषां ते तथा। ज्ञानेनानाद्यज्ञाननिवृत्त्या तत्कार्यकर्मक्षये तन्मूलकं
 पुनर्देहग्रहणं कथं भवेदिति भावः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।5.17।।**तद्बुद्धय इति।** यत् परं ब्रह्म प्रशान्तं तत्रैव बुद्धिरस्ति
-ब्रह्मेति निश्चयो येषामापाततः श्रुत्यर्थविदां ते तद्बुद्धयः तदेव आत्मा
-प्रत्यक्तत्त्वं येषां श्रवणमननात्मकविचारेण
-प्रमाणप्रमेयगतासंभावनाविहीनानां ते तदात्मानः तत्रैव निष्ठा
-विजातीयवृत्त्यनन्तरितसजातीयवृत्तिप्रवाहो येषां
-देहादावनात्मन्यात्मधीरूपविपरीतभावनारहितानां ते तन्निष्ठाः तदेव
-परमयनमज्ञानरूपोपाधिनिरासेन प्राप्यं येषामखण्डानन्दमग्नानां ते तत्परायणाः
-अपुनरावृत्तिं मोक्षं गच्छन्ति। यतो ज्ञानेन निर्धूतं कल्मषं मूलाज्ञानं
-संसारबीजभूतं येषां ते ज्ञाननिर्धूतकल्मषाः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।5.17।। तत्परमार्थतत्त्वं ज्ञानप्रकाशितं तस्मिन्गता बुद्धिर्येषां ते।
-ननु ते किं तस्माद्य्वतिरिक्ता नेत्याह। तदेव परंब्रह्मात्मा स्वरुपं येषां
-ते। तत्र हेतुमाह। यतस्तस्मिन्ब्रह्मणि निष्ठा निदिध्यासनात्मकोऽभिनिवेशो
-येषां ते। तत्रापि हेतुमाह। यतस्तदेव परमयनं परा गतिर्येषां ते तदेव परां
-गतिं बुद्ध्वा इहामुत्रार्थभोगे विरज्य तत्छ्रवणतन्मननैकपरत्वेन तत्पराणा
-इत्यर्थः। एवंभूता अपुनरावृत्तिं मोक्षं गच्छन्ति। यतो ज्ञानेन
-ब्रह्मात्मसाक्षात्कारेण नितरां मूलोच्छेदेन धूतो नाशितः कल्मषः
-पुनरावृत्तिकारणीभूतो येषां ते।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।5.17।। य एतादृशज्ञानिनस्ते मुक्ता इत्याह तद्बुद्धय इति। तत्प्रसादलब्धेन
+॥5.17॥ अपरोक्षज्ञानाव्यवहितसाधनमाह तद्बुद्धय इति।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥5.17॥ तद्बुद्धित्वादिकं यद्यपुनरावृत्तिसाधनत्वेनोच्यते
+तदाऽपरोक्षज्ञानादेव मोक्ष इति गतः पक्षः। अथ तद्बुद्धयो
+ज्ञाननिर्धूतकल्मषा इति ज्ञानसाधनत्वेन। तदसत् ज्ञानेनेति
+परोक्षज्ञानस्यापरोक्षज्ञानसाधनत्वेनोक्तत्वादित्यत आह **अपरोक्षे**ति।
+सत्यम् परोक्षज्ञानमपरोक्षज्ञानसाधनम् किन्तु व्यवहितम्। न हि
+श्रवणमननानन्तरमेवापरोक्षज्ञानमुत्पद्यते। इदं त्वव्यवहितसाधनमाहेत्यर्थः।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+
+<details><summary>मूलम्</summary>
+
+॥5.17॥ एतच्च +++(K तच्च)+++ तद्गतबुद्धिमनसा त्यक्तान्यव्यापाराणां घटत इत्याशयं प्रकटयितुमाह +++(S तुमुक्तम्)+++ यत एवं स्वभावस्तु प्रवर्तते इत्यतो ध्वस्ताज्ञानानामित्थं स्थितिरित्याह विद्येति। तथा च तेषां योगिना ब्राह्मणे न ईदृशी +++(N अनीदृशी)+++ बुद्धिः अस्य शुश्रूषादिना अहं पुण्यवान् भविष्यामि इत्यादि गवि न पावनी इयम् इत्यादि हस्तिनि न अर्थादिधीः शुनि अपवित्रपापकारितादिनिश्चयः श्वपाके च न पापापवित्रादिधिषणा। अत एव समं पश्यन्ति इति न तुव्यवहरन्ति इति। तदुक्तम् +++(K यदुक्तम्)+++ चिद्धर्मा सर्वदेहेषु विशेषो नास्ति कुत्रचित्।  
+  
+अतश्च तन्मयं सर्वं भावयन् भवजिज्जनः +++(N भवभिज्जनः)+++॥ इति। +++(V 100 )+++।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+5.17 Because it is only the inherent nature that exerts thus, therefore \[the Lord\] says that the men, who have destroyed their illusion would remain as follows -
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+
+<details><summary>मूलम्</summary>
+
+॥5.17॥ य एतादृशज्ञानिनस्ते मुक्ता इत्याह तद्बुद्धय इति। तत्प्रसादलब्धेन
 ज्ञानेन ब्रह्मस्वरूपविषयकेण निरस्तकल्मषा मुक्तिं यान्तीत्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।5.17।। तत्प्रकाशात्फलं भवतीत्याह तद्बुद्धय इति। तस्मिन् ईश्वरे
+<details><summary>पुरुषोत्तमः</summary>
+
+॥5.17॥ तत्प्रकाशात्फलं भवतीत्याह तद्बुद्धय इति। तस्मिन् ईश्वरे
 बुद्धिर्येषां ते तस्मिन् स एव वाऽत्मा येषाम् तस्मिन्नेव निष्ठा भावो
 येषाम् तस्मिन्नेव परायणाः तत्परास्तादृशाः ज्ञाननिर्धूतकल्मषाः
-निरस्ताज्ञानाः अपुनरावृत्तिं मोक्षं गच्छन्ति प्राप्नुवन्ति।  
-  
-
+निरस्ताज्ञानाः अपुनरावृत्तिं मोक्षं गच्छन्ति प्राप्नुवन्ति।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।5.17।। एवंभूतेश्वरोपासनाफलमाह **तद्बुद्धय इति।** तस्मिन्नेव
+॥5.17॥ एवंभूतेश्वरोपासनाफलमाह **तद्बुद्धय इति।** तस्मिन्नेव
 बुद्धिर्निश्चयात्मिका येषाम् तस्मिन्नेवात्मा मनो येषाम् तस्मिन्नेव
 निष्ठा तात्पर्यं येषाम् तदेव परमयनमाश्रयो येषाम् ततश्च
 तत्प्रसादलब्धेनात्मज्ञानेन निर्धूतं निरस्तं कल्मषं येषांतेऽपुनरावृत्तिं
 मुक्तिं यान्ति।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+5.17 Those whose intellects pursue It (the self), whose minds think about It, who undergo discipline for It, and who hold It as their highest object, have their impurities cleansed by knowledge and go whence there is no return.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+5.17 Those who have their intellect absorbed in That, whose Self is That, who are steadfast in That, who have That as their supreme Goal-they attain the state of non-returning, their dirt having been removed by Knowledge.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+5.17 Meditating on the Divine, having faith in the Divine, concentrating on the Divine and losing themselves in the Divine, their sins dissolved in wisdom, they go whence there is no return.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+5.17. Those, who have their intellect and self (mind) gone to This; who have established themselves in This and have This \[alone\] as their supreme goal; and who have washed off their sins by means of \[perfect\]
+knowledge-they reach a state from which there is no more return.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+5.17 Their intellect absorbed in That, their self being That,
+established in That, with That for their supreme goal, they go whence there is no return, their sins dispelled by knowledge.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+5.17 तद्बुद्धयः intellect absorbed in That; तदात्मानः their self being That; तन्निष्ठाः established in That; तत्परायणाः with That for their supreme goal; गच्छन्ति go; अपुनरावृत्तिम् not again returning;
+ज्ञाननिर्धूतकल्मषाः,those whose sins have been dispelled by knowledge.Commentary They fix their intellects on Brahman or the Supreme Self. They feel and realise that Brahman is their self. By constant and protracted meditation; they get established in Brahman. The whole world of names and forms vanishes for them. They live in Brahman alone. They have Brahman alone as their supreme goal or sole refuge. They rejoice in the Self alone. They are satisfied in the Self alone. They are contented in the Self alone. Such men never come back to this Samsara; as their sins are dispelled by knowledge (BrahmaJnana). (Cf.IX.34)
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।5.17।। जिनकी बुद्धि तदाकार हो रही है, जिनका मन तदाकार हो रहा है, जिनकी
+स्थिति परमात्मतत्वमें है, ऐसे परमात्मपरायण साधक ज्ञानके द्वारा पापरहित
+होकर अपुनरावृत्ति (परमगति) को प्राप्त होते हैं।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+5.17।।***व्याख्या--***\[परमात्मतत्त्वका अनुभव करनेके लिये दो प्रकारके
+साधन हैं एक तो विवेकके द्वारा असत्का त्याग करनेपर सत्में स्वरूप-स्थिति
+स्वतः हो जाती है और दूसरा, सत्का चिन्तन करते-करते सत्की प्राप्ति हो जाती
+है। चिन्तनसे सत्की ही प्राप्ति होती है। असत्की प्राप्ति कर्मोंसे होती
+है, चिन्तनसे नहीं। उत्पत्ति-विनाशशील वस्तु कर्मसे मिलती है और नित्य
+परिपूर्ण तत्त्व चिन्तनसे मिलता है। चिन्तनसे परमात्मा कैसे प्राप्त होते
+हैं--इसकी विधि इस श्लोकमें बताते हैं। \]**'तद्बुद्धयः'** निश्चय करनेवाली
+वृत्तिका नाम 'बुद्धि' है। साधक पहले बुद्धिसे यह निश्चय करे कि सर्वत्र एक
+परमात्मतत्त्व ही परिपूर्ण है। संसारके उत्पन्न होनेसे पहले भी परमात्मा थे
+और संसारके नष्ट होनेके बाद भी परमात्मा रहेंगे। बीचमें भी संसारका जो
+प्रवाह चल रहा है, उसमें भी परमात्मा वैसे-के-वैसे ही हैं। इस प्रकार
+परमात्माकी सत्ता-(होनेपन-) में अटल निश्चय होना ही **'तद्बुद्धयः'** पदका
+तात्पर्य है।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।5.17।। शास्त्रों के गहन अध्ययन के द्वारा साधक अपने व्यक्तित्व के सभी
 पक्षों के साथ आत्मयुक्त हो जाता है। बुद्धि आत्मस्वरूप का निश्चय करके
@@ -341,93 +321,14 @@ _________________
 करने के लिए ही जीव स्वनिर्मित विषयों के बन्धनों में यत्रतत्र भटकता रहता
 है। ज्ञान के द्वारा जिनका अज्ञान नष्ट हो जाता है वे ज्ञानी पुरुष किस
 प्रकार तत्त्व को देखते हैं उत्तर है
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।5.17।। जिनकी बुद्धि उस (परमात्मा) में स्थित है, जिनका मन तद्रूप हुआ
 है, उसमें ही जिनकी निष्ठा है, वह (ब्रह्म) ही जिनका परम लक्ष्य है,
 ज्ञान के द्वारा पापरहित पुरुष अपुनरावृत्ति को प्राप्त होते हैं, अर्थात्
 उनका पुनर्जन्म नहीं होता है।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।5.17।। जिनकी बुद्धि तदाकार हो रही है, जिनका मन तदाकार हो रहा है, जिनकी
-स्थिति परमात्मतत्वमें है, ऐसे परमात्मपरायण साधक ज्ञानके द्वारा पापरहित
-होकर अपुनरावृत्ति (परमगति) को प्राप्त होते हैं।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-5.17।।***व्याख्या--***\[परमात्मतत्त्वका अनुभव करनेके लिये दो प्रकारके
-साधन हैं एक तो विवेकके द्वारा असत्का त्याग करनेपर सत्में स्वरूप-स्थिति
-स्वतः हो जाती है और दूसरा, सत्का चिन्तन करते-करते सत्की प्राप्ति हो जाती
-है। चिन्तनसे सत्की ही प्राप्ति होती है। असत्की प्राप्ति कर्मोंसे होती
-है, चिन्तनसे नहीं। उत्पत्ति-विनाशशील वस्तु कर्मसे मिलती है और नित्य
-परिपूर्ण तत्त्व चिन्तनसे मिलता है। चिन्तनसे परमात्मा कैसे प्राप्त होते
-हैं--इसकी विधि इस श्लोकमें बताते हैं। \]**'तद्बुद्धयः'** निश्चय करनेवाली
-वृत्तिका नाम 'बुद्धि' है। साधक पहले बुद्धिसे यह निश्चय करे कि सर्वत्र एक
-परमात्मतत्त्व ही परिपूर्ण है। संसारके उत्पन्न होनेसे पहले भी परमात्मा थे
-और संसारके नष्ट होनेके बाद भी परमात्मा रहेंगे। बीचमें भी संसारका जो
-प्रवाह चल रहा है, उसमें भी परमात्मा वैसे-के-वैसे ही हैं। इस प्रकार
-परमात्माकी सत्ता-(होनेपन-) में अटल निश्चय होना ही **'तद्बुद्धयः'** पदका
-तात्पर्य है।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-5.17. Those, who have their intellect and self (mind) gone to This; who have established themselves in This and have This \[alone\] as their supreme goal; and who have washed off their sins by means of \[perfect\]
-knowledge-they reach a state from which there is no more return.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-5.17 Those who have their intellect absorbed in That, whose Self is That, who are steadfast in That, who have That as their supreme Goal-they attain the state of non-returning, their dirt having been removed by Knowledge.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-5.17 Meditating on the Divine, having faith in the Divine, concentrating on the Divine and losing themselves in the Divine, their sins dissolved in wisdom, they go whence there is no return.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-5.17 Those whose intellects pursue It (the self), whose minds think about It, who undergo discipline for It, and who hold It as their highest object, have their impurities cleansed by knowledge and go whence there is no return.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-5.17 Their intellect absorbed in That, their self being That,
-established in That, with That for their supreme goal, they go whence there is no return, their sins dispelled by knowledge.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-5.17 तद्बुद्धयः intellect absorbed in That; तदात्मानः their self being That; तन्निष्ठाः established in That; तत्परायणाः with That for their supreme goal; गच्छन्ति go; अपुनरावृत्तिम् not again returning;
-ज्ञाननिर्धूतकल्मषाः,those whose sins have been dispelled by knowledge.Commentary They fix their intellects on Brahman or the Supreme Self. They feel and realise that Brahman is their self. By constant and protracted meditation; they get established in Brahman. The whole world of names and forms vanishes for them. They live in Brahman alone. They have Brahman alone as their supreme goal or sole refuge. They rejoice in the Self alone. They are satisfied in the Self alone. They are contented in the Self alone. Such men never come back to this Samsara; as their sins are dispelled by knowledge (BrahmaJnana). (Cf.IX.34)
-
-</details>
 </div>

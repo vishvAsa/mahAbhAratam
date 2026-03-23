@@ -1,183 +1,58 @@
 +++
 title = "20 ये तु"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/20_ye_tu.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/20_ye_tu.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 ये तु धर्म्यामृतम् इदं  
 यथोक्तं पर्युपासते।  
 श्रद्-दधाना मत्-परमा  
 **भक्तास्** ते ऽतीव **मे प्रियाः**॥12.20॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/20_ye_tu.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते।  
-श्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः।।12.20।।
+श्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः॥12.20॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।12.20।। धर्म्यं च अमृतं चइति **धर्म्यामृतं ये तु** प्राप्यसमं प्रापकं
-भक्तियोगं **यथोक्तंमय्यावेश्य मनो ये माम्** (गीता 12।2) इत्यादिना उक्तेन
-प्रकारेण **उपासते ते भक्ता** अतितरां **मे प्रियाः। ,**
-
+॥12.20॥ धर्म्यं च अमृतं चइति **धर्म्यामृतं ये तु** प्राप्यसमं प्रापकं भक्तियोगं **यथोक्तम्मय्यावेश्य मनो ये माम्** (गीता 12।2) इत्यादिना उक्तेन प्रकारेण **उपासते ते भक्ता** अतितरां **मे प्रियाः। ,**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।12.20।। अध्यायोपक्रमे प्रश्नपूर्वकं भक्तियोगनिष्ठस्य
-अक्षरनिष्ठाच्छ्रैष्ठ्यं ह्युक्तम् भक्तियोगाशक्तिप्रसङ्गेन अक्षरयोगस्य
-परम्परया भक्तियोगसाधनत्वं तदपेक्षितगुणाश्चोक्ताः
-अथाध्यायारम्भगतप्रश्नस्योत्तरं प्रपञ्चितं निगमयतीत्याह --
-अस्मादिति। मय्यावेश्य मनो ये माम् \[12।2\] इति श्लोकोऽयं चैकार्थ एव
-ह्युपलभ्यत इत्यभिप्रायेणयथोपक्रममित्युक्तम्। तत्रनित्ययुक्ताः \[12।2\]
-इत्युक्त एवार्थोऽत्रमत्परमाः इत्युच्यते। तत्रश्रद्धया परयोपेताः \[12।2\]
-इत्युक्तम् अत्र तुश्रद्दधानाः इति। तत्रते मे युक्ततमा मताः \[12।2\]
-इत्युक्तम् अत्र तु तत्फलितत्वेनभक्तास्तेऽतीव मे प्रियाः इत्युच्यते। अतः
-स एवार्थोऽत्रोपसंह्रियते। अस्य चाधिकार्यन्तरपरत्वे तुशब्दविशेषणादयो
-हेतवः पूर्वमेवोक्ताः। अनेनैव च श्लोकेन
-मध्यमषट्कप्रधानार्थभक्तियोगोपसंहारश्च कृतो भवति। धर्म्यामृतम् इत्यनेन
-विवक्षितमाकारद्वयं वक्तुं तदुपयुक्तं कर्मधारयत्वं दर्शयति -- धर्म्यं
-चामृतं चेति। धर्मादनपेतं धर्म्यम्। अतोऽत्र धर्म्यशब्देन
-साधनत्ववचनादमृतशब्देनामृतसाधनत्वस्याविवक्षितत्वात्फलवदेव भोग्यत्वं
-विवक्षितमित्याहये तु प्राप्यसममिति। यथोक्तमिति व्याख्येयपदोपादानम्।
-प्रसङ्गागतकर्मयोगोक्तेर्व्युदासायमय्यावेश्येत्यादिकमुक्तम्।
-पूर्वोक्तानामन्येषामपि भक्तत्वमस्तीति तद्व्यवच्छेदायते भक्ता इति
-विशेष्यते। पूर्वेषु प्रियत्वमुदारत्वप्रयुक्तम् अस्मिंस्तु
-स्वाभिमतान्तरात्मत्वप्रयुक्तम्। अतो ह्यतीव प्रियत्वमिहोक्तम्। उक्तं च
-प्रागेवउदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम् \[7।18\]
-इत्याद्युपक्रम्यस महात्मा सुदुर्लभः \[7।19\] इति। एतेनअद्वेष्टा
-\[12।13\] इत्यादिना प्रक्रान्तं धर्मजातंये तु धर्म्यामृतम् इति
-श्लोकेनोपसंह्रियत इति परोक्तं निरस्तम्; भिन्नाधिकारविषयत्वस्य
-व्यञ्जितत्वात्। इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य
-श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु,
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥12.20॥ अध्यायोपक्रमे प्रश्नपूर्वकं भक्तियोगनिष्ठस्य अक्षरनिष्ठाच्छ्रैष्ठ्यं ह्युक्तम् भक्तियोगाशक्तिप्रसङ्गेन अक्षरयोगस्य परम्परया भक्तियोगसाधनत्वं तदपेक्षितगुणाश्चोक्ताः अथाध्यायारम्भगतप्रश्नस्योत्तरं प्रपञ्चितं निगमयतीत्याह -- अस्मादिति। मय्यावेश्य मनो ये माम् \[12।2\] इति श्लोकोऽयं चैकार्थ एव ह्युपलभ्यत इत्यभिप्रायेणयथोपक्रममित्युक्तम्। तत्रनित्ययुक्ताः \[12।2\] इत्युक्त एवार्थोऽत्रमत्परमाः इत्युच्यते। तत्रश्रद्धया परयोपेताः \[12।2\] इत्युक्तम् अत्र तुश्रद्दधानाः इति। तत्रते मे युक्ततमा मताः \[12।2\] इत्युक्तम् अत्र तु तत्फलितत्वेनभक्तास्तेऽतीव मे प्रियाः इत्युच्यते। अतः स एवार्थोऽत्रोपसंह्रियते। अस्य चाधिकार्यन्तरपरत्वे तुशब्दविशेषणादयो हेतवः पूर्वमेवोक्ताः। अनेनैव च श्लोकेन मध्यमषट्कप्रधानार्थभक्तियोगोपसंहारश्च कृतो भवति। धर्म्यामृतम् इत्यनेन विवक्षितमाकारद्वयं वक्तुं तदुपयुक्तं कर्मधारयत्वं दर्शयति -- धर्म्यं चामृतं चेति। धर्मादनपेतं धर्म्यम्। अतोऽत्र धर्म्यशब्देन साधनत्ववचनादमृतशब्देनामृतसाधनत्वस्याविवक्षितत्वात्फलवदेव भोग्यत्वं विवक्षितमित्याहये तु प्राप्यसममिति। यथोक्तमिति व्याख्येयपदोपादानम्। प्रसङ्गागतकर्मयोगोक्तेर्व्युदासायमय्यावेश्येत्यादिकमुक्तम्। पूर्वोक्तानामन्येषामपि भक्तत्वमस्तीति तद्व्यवच्छेदायते भक्ता इति विशेष्यते। पूर्वेषु प्रियत्वमुदारत्वप्रयुक्तम् अस्मिंस्तु स्वाभिमतान्तरात्मत्वप्रयुक्तम्। अतो ह्यतीव प्रियत्वमिहोक्तम्। उक्तं च प्रागेवउदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम् \[7।18\] इत्याद्युपक्रम्यस महात्मा सुदुर्लभः \[7।19\] इति। एतेनअद्वेष्टा \[12।13\] इत्यादिना प्रक्रान्तं धर्मजातंये तु धर्म्यामृतम् इति श्लोकेनोपसंह्रियत इति परोक्तं निरस्तम्; भिन्नाधिकारविषयत्वस्य व्यञ्जितत्वात्। इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 12.20 But those who follow Bhakti Yoga - 'which is a nectar of virtuous duty,' i.e., which is at once virtuous duty and nectar, and which even as a menas, is eal to its end in conferring bliss on those who follow is as stated above, i.e., in the manner taught in the stanza beginning with
 'Those who, focusing their minds on Me' (12.2) - such devotees are exceedingly dear to Me.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।12.15 -- 12.20।। यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव
-मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया
-सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति
-परमकैवल्यम् इति।  
+॥12.20॥ --,**ये तु** संन्यासिनः **धर्म्यामृतं** धर्मादनपेतं धर्म्यं च तत् अमृतं च तत्; अमृतत्वहेतुत्वात्; **इदं यथोक्तम्;** अद्वेष्टा सर्वभूतानाम् इत्यादिना **पर्युपासते** अनुतिष्ठन्ति **श्रद्दधानाः** सन्तः **मत्परमाः** यथोक्तः अहं अक्षरात्मा परमः निरतिशया गतिः येषां ते मत्परमाः; मद्भक्ताः च उत्तमां परमार्थज्ञानलक्षणां भक्तिमाश्रिताः; **ते अतीव मे प्रियाः।** प्रियो हि ज्ञानिनोऽत्यर्थम् इति यत् सूचितं तत् व्याख्याय इह उपसंहृतम् भक्तास्तेऽतीव मे प्रियाः इति। यस्मात् धर्म्यामृतमिदं यथोक्तमनुतिष्ठन् भगवतः विष्णोः परमेश्वरस्य अतीव प्रियः भवति; तस्मात् इदं धर्म्यामृतं मुमुक्षुणा यत्नतः अनुष्ठेयं विष्णोः प्रियं परं धाम जिगमिषुणा इति वाक्यार्थः॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
-।। शिवम्।।  
-  
-
+द्वादशोऽध्यायः॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.15-20 Yasmat etc. upto Me priyah. One who has no fixed thought : One
-who has no resolution, \[in his mundane life\] like 'This alone must be
-done by me'. He, who enjoys, with contentment, both pleasure and pain as
-they come, and has his mind completely absorbed in Supreme Lord - that
-person happily (or easily) attains the Supreme Isolation (Emancipation)
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।12.20।। पिण्डीकृत्योपसंहरति -- ये तु धर्म्यामृतमिति। धर्मो
-विष्णुस्तद्विषयं धर्म्यम्। धर्म्यम्; अमृतं,मृत्यादिसंसारनाशकं चेति
-धर्म्यामृतम्। श्रदास्तिक्यम्;श्रन्नामास्तिक्यमुच्यते इत्यभिधानम्।
-तद्दधानाः श्रद्दधानाः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।12.20।। ये तु इत्युक्तमेव किमर्थमुच्यते इत्यत आह -- **पिण्डीकृत्ये**ति।
-धर्म्यामृतमित्येतदप्रतीतार्थं व्याख्यातुं धर्मशब्दं तावद्व्याख्याति --
-**धर्म** इति। तद्विषयं तदुपासनाङ्गत्वात् धर्मादनपेतं धर्म्यं; धर्मश्च
-विष्णुः। नादृष्टं प्रवृत्तस्यासम्भवात्। निवृत्तस्यैतत्साधनत्वात्।
-इदानीममृतशब्दं व्याकुर्वन् धर्म्यामृतमिति कर्मधारयोऽयमित्याह --
-**धर्म्यमि**ति। न मृतं अमृतम्; नञ् विरुद्धार्थेऽमृतशब्दश्चोपलक्षक
-इत्यर्थः। श्रद्दधाना इत्येतद्व्युत्पादयति -- **श्रदि**ति।
-श्रच्छब्दस्योपसङ्ख्यानमित्युपसर्गत्वेनोपसङ्ख्यायमानस्याप्यस्य
-सत्त्ववाचित्वमविरुद्धम्; उपसर्गत्वस्य कार्यविशेषार्थत्वात्।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।12.20।। --,**ये तु** संन्यासिनः **धर्म्यामृतं** धर्मादनपेतं धर्म्यं च
-तत् अमृतं च तत्; अमृतत्वहेतुत्वात्; **इदं यथोक्तम्;** अद्वेष्टा
-सर्वभूतानाम् इत्यादिना **पर्युपासते** अनुतिष्ठन्ति **श्रद्दधानाः** सन्तः
-**मत्परमाः** यथोक्तः अहं अक्षरात्मा परमः निरतिशया गतिः येषां ते
-मत्परमाः; मद्भक्ताः च उत्तमां परमार्थज्ञानलक्षणां भक्तिमाश्रिताः; **ते
-अतीव मे प्रियाः।** प्रियो हि ज्ञानिनोऽत्यर्थम् इति यत् सूचितं तत्
-व्याख्याय इह उपसंहृतम् भक्तास्तेऽतीव मे प्रियाः इति। यस्मात्
-धर्म्यामृतमिदं यथोक्तमनुतिष्ठन् भगवतः विष्णोः परमेश्वरस्य अतीव प्रियः
-भवति; तस्मात् इदं धर्म्यामृतं मुमुक्षुणा यत्नतः अनुष्ठेयं विष्णोः प्रियं
-परं धाम जिगमिषुणा इति वाक्यार्थः।। इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य
-श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ
-श्रीमद्भगवद्गीताभाष्ये  
-  
-द्वादशोऽध्यायः।।  
-  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।12.20।। समस्त तृष्णासे निवृत्त हुए; परमार्थज्ञाननिष्ठ अक्षरोपासक
-संन्यासियोंके अद्वेष्टा सर्वभूतानाम् इस श्लोकद्वारा प्रारम्भ किये हुए
-धर्मसमूहका उपसंहार किया जाता है --, जो संन्यासी इस धर्ममय अमृतको अर्थात्
-जो धर्मसे ओतप्रोत है और अमृतत्वका हेतु होनेसे अमृत भी है ऐसे इस
-अद्वेष्टा सर्वभूतानाम् इत्यादि श्लोकोंद्वारा ऊपर कहे हुए ( उपदेश ) का
-श्रद्धालु होकर सेवन करते हैं -- उसका अनुष्ठान करते हैं; वे मेरे परायण
-अर्थात् मैं अक्षरस्वरूप परमात्मा ही जिनकी निरतिशय गति हूँ ऐसे; यथार्थ
-ज्ञानरूप उत्तम भक्तिका अवलम्बन करनेवाले मेरे भक्त; मुझे अत्यन्त प्रिय
-हैं। प्रियो हि ज्ञानिनोऽत्यर्थम् इस प्रकार जो विषय सूत्ररूपसे कहा गया था
-यहाँ उसकी व्याख्या करके भक्तास्तेऽतीव मे प्रियाः इस वचनसे उसका उपसंहार
-किया गया है। कहनेका अभिप्राय यह है कि इस यथोक्त धर्मयुक्त अमृतरूप
-उपदेशका अनुष्ठान करनेवाला मनुष्य मुझ साक्षात् परमेश्वर विष्णुभगवान्का
-अत्यन्त प्रिय हो जाता है; इसलिये विष्णुके प्यारे परमधामको प्राप्त करनेकी
-इच्छावाले मुमुक्षु पुरुषको इस धर्मयुक्त अमृतका यत्नपूर्वक अनुष्ठान करना
-चाहिये।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 12.20 Tu, but; ye bhaktah, those devotees of Mine, the monks who have
 resorted to the highest devotion consisting in the knowledge of the
@@ -206,13 +81,30 @@ which his Liberation logically follows. Hence, the conclusion is that
 the meaning of the word tat (in the sentence tattvamasi) has to be
 sought for, since his has the power to arouse the comprehension of the
 meaning of that sentence, which is the means to Liberation.\]
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।12.20।। अद्वेष्टेत्यादिधर्मजातं ज्ञानवतो लक्षणमुक्तं
+<details><summary>हरिकृष्णदासः</summary>
+
+॥12.20॥ समस्त तृष्णासे निवृत्त हुए; परमार्थज्ञाननिष्ठ अक्षरोपासक
+संन्यासियोंके अद्वेष्टा सर्वभूतानाम् इस श्लोकद्वारा प्रारम्भ किये हुए
+धर्मसमूहका उपसंहार किया जाता है --, जो संन्यासी इस धर्ममय अमृतको अर्थात्
+जो धर्मसे ओतप्रोत है और अमृतत्वका हेतु होनेसे अमृत भी है ऐसे इस
+अद्वेष्टा सर्वभूतानाम् इत्यादि श्लोकोंद्वारा ऊपर कहे हुए ( उपदेश ) का
+श्रद्धालु होकर सेवन करते हैं -- उसका अनुष्ठान करते हैं; वे मेरे परायण
+अर्थात् मैं अक्षरस्वरूप परमात्मा ही जिनकी निरतिशय गति हूँ ऐसे; यथार्थ
+ज्ञानरूप उत्तम भक्तिका अवलम्बन करनेवाले मेरे भक्त; मुझे अत्यन्त प्रिय
+हैं। प्रियो हि ज्ञानिनोऽत्यर्थम् इस प्रकार जो विषय सूत्ररूपसे कहा गया था
+यहाँ उसकी व्याख्या करके भक्तास्तेऽतीव मे प्रियाः इस वचनसे उसका उपसंहार
+किया गया है। कहनेका अभिप्राय यह है कि इस यथोक्त धर्मयुक्त अमृतरूप
+उपदेशका अनुष्ठान करनेवाला मनुष्य मुझ साक्षात् परमेश्वर विष्णुभगवान्का
+अत्यन्त प्रिय हो जाता है; इसलिये विष्णुके प्यारे परमधामको प्राप्त करनेकी
+इच्छावाले मुमुक्षु पुरुषको इस धर्मयुक्त अमृतका यत्नपूर्वक अनुष्ठान करना
+चाहिये।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥12.20॥ अद्वेष्टेत्यादिधर्मजातं ज्ञानवतो लक्षणमुक्तं
 तदुपपादितमनूद्योपसंहारश्लोकमवतारयति -- **अद्वेष्टेत्यादिना।**
 चतुर्थपादस्य तात्पर्यमाह -- **प्रियो हीति।** यद्यपि यथोक्तं धर्मजातं
 ज्ञानवतो लक्षणं तथापि जिज्ञासूनां ज्ञानोपायत्वेन यत्नादनुष्ठेयमिति
@@ -223,17 +115,60 @@ meaning of that sentence, which is the means to Liberation.\]
 मुक्त्युपपत्तेस्तद्धेतुवाक्यार्थधीविष(योऽन्व)ययोग्यस्तत्पदार्थोऽनुसंधेय
 इति सिद्धम्। इति
 श्रीमत्परमहंसपरिव्राजकाचार्यश्रीमच्छुद्धानन्दपूज्यपादशिष्यानन्दगिरिकृतौ
-द्वादशोऽध्यायः।।12।।  
-  
-
+द्वादशोऽध्यायः॥12॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।12.20।। अद्वेष्टेत्यादिनाऽक्षरोपासकादीनां संन्यासिनां लक्षणभूतं
+<details><summary>नीलकण्ठः</summary>
+
+॥12.20॥ मुक्तलक्षणान्येव मुमुक्षोः साधनत्वेन विधत्ते -- **ये त्विति।**
+ये मुमुक्षवः तु पूर्वोक्तमुक्तापेक्षया विलक्षणाः। इदं **अद्वेष्टा
+सर्वभूतानाम्** इत्यादिना ग्रन्थेन प्रतिपादितं धर्मजातं तदेवामृतस्य
+मोक्षस्य साधनत्वादमृतं धर्मामृतम्। यथोक्तमुक्तानतिक्रमेण पर्युपासते
+साकल्येनानुतिष्ठन्ति। श्रद्दधानाः श्रद्धायुक्ताः मत्परमाः अहमेव
+भगवान्वासुदेवोऽक्षराख्यः सर्वविशेषरहितः परमानन्दरूपः परमः पार्यन्तिकः
+प्राप्यो येषां ते मत्परमाः भक्ताः शान्तिदान्त्यादिमन्तो
+मद्भजनशीलास्तेऽतीव मे मम प्रियाः। ज्ञानी तु भगवत आत्मैव। परिशेषादतीव
+प्रियत्वं भक्तेष्वेव पर्यवसन्नम्। यो मुक्तानां स्वाभाविको धर्मः स
+मुमुक्षुणा यत्नतोऽनुष्ठेय इत्यर्थः। यथोक्तं वार्तिकेउत्पन्नात्मप्रबोधस्य
+ह्यद्वेष्टृत्वादयो गुणाः। अयत्नतो भवन्त्येव न तु साधनरूपिणः। इति। समाप्त
+उपासनाप्रधानस्तत्पदार्थविवेकः। अतःपरं वाक्यार्थविचारो
+जीवब्रह्माभेदप्रतिपादको भविष्यति। ,
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥12.20॥ अद्वेष्टा सर्वभूतानामित्यादिनाक्षरोपासकानां निवृत्तसर्वैषणानां
+संन्यासिनां परमार्थज्ञाननिष्ठानां धर्मजातमुपपाद्यपसंहरति -- ये त्विति।
+येतु श्रद्दधानाः परया श्रद्धया युक्ताः सन्तो मत्परमा अहमेवाक्षरात्मा
+परमे निरतिशया गतिर्येषां ते पर्युपासतेऽनुतिष्ठन्ति मद्भक्ताः उत्तमां
+परमार्थज्ञानलक्षणां भक्तिमास्थितास्ते मे मम वासुदेवस्य परमात्मनोऽतिशयेन
+प्रियाः। प्रियो हि ज्ञानिनोऽत्यर्थमहं सच मम प्रियः इति यत्सूचितं
+तत्प्रतिपाद्योपसंहृतं भक्तास्तेऽतीव मे प्रिया इति। यस्माद्यथोक्तमिदं
+धर्मामृतमुतिष्ठन् भगवतो वासुदेवस्यातिशयेन प्रियो भवति तस्माद्वासुदेवस्य
+विष्णोः प्रियं धाम जिगमुषुणा मुमुक्षुणा इदं धर्मामृतं
+यथावद्यत्नतोऽनुष्ठेयमिति वाक्यार्थः। एवं द्वादशाध्यायेन
+सोपाधिकध्यानपरिपाकान्निरुपाधिकमक्षरमनुसंदधानस्याद्वेष्टा
+सर्वभूतानामित्यादिधर्मविशिष्टस्य श्रवणाद्यावर्तनेन परमार्थज्ञानवतो
+मुख्याधिकारिणः साक्षान्मोक्षप्राप्तियोग्यत्वं निरुपयता
+सोपाधिकनिरुपाधिकस्तत्पदार्थः प्रदर्शितः।**यं संराध्य दुरत्ययां
+प्रकृतिमुन्मुच्याप्नुवन्त्यक्षरं ध्येयं ज्ञेयमनेकयोगविभवैर्युक्तं परं
+कारणम्।  
+  
+**विश्वाकारमनाद्यनन्तममलं भक्तप्रियं माधवं देवेशं शुभमध्यषट्कविदितं तं
+तत्पदार्थ भजे॥1॥**सुधाधाराधारं विधुरमधराद्यैरघहरं धराधाराधारं
+निखिलजगदाधारमजरम्।  
+  
+**निराधारं सारं जलजजमुखैर्ध्येयचरणं शिवं कृष्णं वन्दे सकलजनकं
+भक्तिसुलभम्॥2॥ इति
+श्रीपरमहंसपरिव्राजकाचार्यश्रीबालस्वामिश्रीपादशिष्यदत्तवंशावतंसरामकुमारसूनुधनपतिविदुषा
+विरचितायां श्रीगीताभाष्योत्कर्षदीपिकायां द्वादशोऽध्यायः॥12॥
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥12.20॥ अद्वेष्टेत्यादिनाऽक्षरोपासकादीनां संन्यासिनां लक्षणभूतं
 स्वभावसिद्धं धर्मजातमुक्तं। यथोक्तं वार्तिकेउत्पन्नात्मावबोधस्य
-ह्यद्वेष्टृत्वादयो गुणाः। अयत्नतो भवन्त्येव नतु साधनरूपिणः।। इति। एतदेव
+ह्यद्वेष्टृत्वादयो गुणाः। अयत्नतो भवन्त्येव नतु साधनरूपिणः॥ इति। एतदेव
 च पुरा स्थितप्रज्ञलक्षणरूपेणाभिहितं; तदिदं धर्मजातं प्रयत्नेन
 संपाद्यमानं मुमुक्षोर्मोक्षसाधनं भवतीति प्रतिपादयन्नुपसंहरति --
 येत्विति। ये तु संन्यासिनो मुमुक्षवो धर्म्यामृतं धर्मरूपममृतं
@@ -254,82 +189,66 @@ meaning of that sentence, which is the means to Liberation.\]
 इति मध्यमेन षट्केन सिद्धम्। जीवन्मुक्तेर्निर्विकल्पाद्विशिष्टा
 निष्ठोक्तातोऽजेन भक्तेर्वरिष्ठा। तत्रानन्दाब्धौ कृता मे प्रतिष्ठा
 येनातस्तं काशिराजं भजेऽहम्। ,
-
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।12.20।। मुक्तलक्षणान्येव मुमुक्षोः साधनत्वेन विधत्ते -- **ये त्विति।**
-ये मुमुक्षवः तु पूर्वोक्तमुक्तापेक्षया विलक्षणाः। इदं **अद्वेष्टा
-सर्वभूतानाम्** इत्यादिना ग्रन्थेन प्रतिपादितं धर्मजातं तदेवामृतस्य
-मोक्षस्य साधनत्वादमृतं धर्मामृतम्। यथोक्तमुक्तानतिक्रमेण पर्युपासते
-साकल्येनानुतिष्ठन्ति। श्रद्दधानाः श्रद्धायुक्ताः मत्परमाः अहमेव
-भगवान्वासुदेवोऽक्षराख्यः सर्वविशेषरहितः परमानन्दरूपः परमः पार्यन्तिकः
-प्राप्यो येषां ते मत्परमाः भक्ताः शान्तिदान्त्यादिमन्तो
-मद्भजनशीलास्तेऽतीव मे मम प्रियाः। ज्ञानी तु भगवत आत्मैव। परिशेषादतीव
-प्रियत्वं भक्तेष्वेव पर्यवसन्नम्। यो मुक्तानां स्वाभाविको धर्मः स
-मुमुक्षुणा यत्नतोऽनुष्ठेय इत्यर्थः। यथोक्तं वार्तिकेउत्पन्नात्मप्रबोधस्य
-ह्यद्वेष्टृत्वादयो गुणाः। अयत्नतो भवन्त्येव न तु साधनरूपिणः। इति। समाप्त
-उपासनाप्रधानस्तत्पदार्थविवेकः। अतःपरं वाक्यार्थविचारो
-जीवब्रह्माभेदप्रतिपादको भविष्यति। ,
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
+<details><summary>मूलम्</summary>
+
+॥12.20॥ पिण्डीकृत्योपसंहरति -- ये तु धर्म्यामृतमिति। धर्मो
+विष्णुस्तद्विषयं धर्म्यम्। धर्म्यम्; अमृतं,मृत्यादिसंसारनाशकं चेति
+धर्म्यामृतम्। श्रदास्तिक्यम्;श्रन्नामास्तिक्यमुच्यते इत्यभिधानम्।
+तद्दधानाः श्रद्दधानाः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।12.20।। अद्वेष्टा सर्वभूतानामित्यादिनाक्षरोपासकानां निवृत्तसर्वैषणानां
-संन्यासिनां परमार्थज्ञाननिष्ठानां धर्मजातमुपपाद्यपसंहरति -- ये त्विति।
-येतु श्रद्दधानाः परया श्रद्धया युक्ताः सन्तो मत्परमा अहमेवाक्षरात्मा
-परमे निरतिशया गतिर्येषां ते पर्युपासतेऽनुतिष्ठन्ति मद्भक्ताः उत्तमां
-परमार्थज्ञानलक्षणां भक्तिमास्थितास्ते मे मम वासुदेवस्य परमात्मनोऽतिशयेन
-प्रियाः। प्रियो हि ज्ञानिनोऽत्यर्थमहं सच मम प्रियः इति यत्सूचितं
-तत्प्रतिपाद्योपसंहृतं भक्तास्तेऽतीव मे प्रिया इति। यस्माद्यथोक्तमिदं
-धर्मामृतमुतिष्ठन् भगवतो वासुदेवस्यातिशयेन प्रियो भवति तस्माद्वासुदेवस्य
-विष्णोः प्रियं धाम जिगमुषुणा मुमुक्षुणा इदं धर्मामृतं
-यथावद्यत्नतोऽनुष्ठेयमिति वाक्यार्थः। एवं द्वादशाध्यायेन
-सोपाधिकध्यानपरिपाकान्निरुपाधिकमक्षरमनुसंदधानस्याद्वेष्टा
-सर्वभूतानामित्यादिधर्मविशिष्टस्य श्रवणाद्यावर्तनेन परमार्थज्ञानवतो
-मुख्याधिकारिणः साक्षान्मोक्षप्राप्तियोग्यत्वं निरुपयता
-सोपाधिकनिरुपाधिकस्तत्पदार्थः प्रदर्शितः।**यं संराध्य दुरत्ययां
-प्रकृतिमुन्मुच्याप्नुवन्त्यक्षरं ध्येयं ज्ञेयमनेकयोगविभवैर्युक्तं परं
-कारणम्।  
+<details><summary>जयतीर्थः</summary>
+
+॥12.20॥ ये तु इत्युक्तमेव किमर्थमुच्यते इत्यत आह -- **पिण्डीकृत्ये**ति।
+धर्म्यामृतमित्येतदप्रतीतार्थं व्याख्यातुं धर्मशब्दं तावद्व्याख्याति --
+**धर्म** इति। तद्विषयं तदुपासनाङ्गत्वात् धर्मादनपेतं धर्म्यं; धर्मश्च
+विष्णुः। नादृष्टं प्रवृत्तस्यासम्भवात्। निवृत्तस्यैतत्साधनत्वात्।
+इदानीममृतशब्दं व्याकुर्वन् धर्म्यामृतमिति कर्मधारयोऽयमित्याह --
+**धर्म्यमि**ति। न मृतं अमृतम्; नञ् विरुद्धार्थेऽमृतशब्दश्चोपलक्षक
+इत्यर्थः। श्रद्दधाना इत्येतद्व्युत्पादयति -- **श्रदि**ति।
+श्रच्छब्दस्योपसङ्ख्यानमित्युपसर्गत्वेनोपसङ्ख्यायमानस्याप्यस्य
+सत्त्ववाचित्वमविरुद्धम्; उपसर्गत्वस्य कार्यविशेषार्थत्वात्।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
+
+<details><summary>मूलम्</summary>
+
+॥12.15 -- 12.20॥ यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति परमकैवल्यम् इति।  
   
-**विश्वाकारमनाद्यनन्तममलं भक्तप्रियं माधवं देवेशं शुभमध्यषट्कविदितं तं
-तत्पदार्थ भजे।।1।।**सुधाधाराधारं विधुरमधराद्यैरघहरं धराधाराधारं
-निखिलजगदाधारमजरम्।  
-  
-**निराधारं सारं जलजजमुखैर्ध्येयचरणं शिवं कृष्णं वन्दे सकलजनकं
-भक्तिसुलभम्।।2।। इति
-श्रीपरमहंसपरिव्राजकाचार्यश्रीबालस्वामिश्रीपादशिष्यदत्तवंशावतंसरामकुमारसूनुधनपतिविदुषा
-विरचितायां श्रीगीताभाष्योत्कर्षदीपिकायां द्वादशोऽध्यायः।।12।।
-
+॥ शिवम्॥
 </details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+12.15-20 Yasmat etc. upto Me priyah. One who has no fixed thought : One who has no resolution, \[in his mundane life\] like 'This alone must be done by me'. He, who enjoys, with contentment, both pleasure and pain as they come, and has his mind completely absorbed in Supreme Lord - that person happily (or easily) attains the Supreme Isolation (Emancipation)
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।12.20।। एवं मर्यादायामक्षरात्मनिष्ठात्स्वपुष्टिभक्तियोगनिष्ठस्यातीव
+॥12.20॥ एवं मर्यादायामक्षरात्मनिष्ठात्स्वपुष्टिभक्तियोगनिष्ठस्यातीव
 प्रियत्वं प्रतिपादयन्नुक्तमुपसंहरति -- ये त्विति। ये दैवजीवा इदमेव
 सेवाधर्मादनपेतमुक्तममृतं यथावत्पर्युपासते निषेवन्ते श्रद्दधाना
 मदाश्रयास्ते भक्ता अतीव मे प्रिया इति। तथा भवेति
 भावः। अव्यक्तोपासनामार्गे दुःखं मर्यादयाऽपि हि। सुखं पुष्टया
-कृष्णभक्तिमार्गे सम्यगुदीरितम्।।1।।  
-  
-
+कृष्णभक्तिमार्गे सम्यगुदीरितम्॥1॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।12.20।। उक्तभक्तिरूपमुपसंहरति -- ये त्विति। य इति सामान्योक्त्या नात्र
+<details><summary>पुरुषोत्तमः</summary>
+
+॥12.20॥ उक्तभक्तिरूपमुपसंहरति -- ये त्विति। य इति सामान्योक्त्या नात्र
 वर्णादिनियमः किन्तु ये केचन भाग्यवन्त इदं पुरत उक्तं धर्म्यामृतम् अक्षयं
 मत्प्रसादात्मकफलरूपं यथोक्तं श्रद्दधानाः मदुक्तं सत्यमिति ज्ञानवन्तो
 मत्परमाः मदेकनिष्ठाः सन्तः पर्युपासते मां सेवन्ते ते भक्ता मे अतीव
@@ -337,72 +256,69 @@ _________________
 इतिवत्।  
   
 एवमर्जुनमासिञ्चद्भक्तियोगामृतोक्तिभिः। सर्वसंशयमाच्छिद्य लोकोद्धारपरो
-हरिः**।।1।।**
-
+हरिः**॥1॥**
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/20_ye_tu.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।12.20।। उक्तं धर्मजातं सफलमुपसंहरति -- **ये त्विति।**
+॥12.20॥ उक्तं धर्मजातं सफलमुपसंहरति -- **ये त्विति।**
 यथोक्तमुक्तप्रकारं धर्म एवामृतममृतत्वसाधनत्वात्। धर्म्यामृतमिदमिति
 केचित्पठन्ति। तद्य उपासतेऽनुतिष्ठन्ति श्रद्धां कुर्वन्तो मत्परमाश्च
 सन्तो मद्भक्ता अतीव मे प्रिया इति।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।12.20।। यथोक्त अमृत धर्म उपर्युक्त पंक्तियों में सनातन धर्म का सार
-दिया गया है। वस्तुत हिन्दू धर्म के अनुयायियों के जीवन का लक्ष्य
-आत्मसाक्षात्कार करके उसे जीवन को अपने व्यक्तित्व के सभी स्तरों शारीरिक;
-मानसिक और बौद्धिक पर जीने का है। उसके लिये केवल इतना पर्याप्त नहीं है कि
-वह इस ज्ञान को बौद्धिक स्तर पर समझता है अथवा नियमित रूप से शास्त्रग्रन्थ
-का पाठ करता है; या उन्हें अच्छी प्रकार दूसरों को समझा भी सकता है। उसे
-चाहिए कि वह शास्त्रीय ज्ञान को आत्मसात् करके स्वयं पूर्ण पुरुष बन जाये।
-इसलिए; भगवान् कहते हैं कि उसे श्रद्धावान् होना चाहिए यहाँ श्रद्धा शब्द
-का अर्थ है स्वयं के अनुभव के द्वारा शास्त्र प्रतिपादित आत्मज्ञान्ा को
-आत्मसात् करने की क्षमता। ऐसे भक्त मुझे अतिशय प्रिय हैं इस श्लोक के साथ
-भक्त के लक्षणों का वर्णन करने वाले इस प्रकरण का षष्ठ भाग तथा यह अध्याय
-भी समाप्त होता है। यद्यपि इसमें और कोई नया लक्षण नहीं बताया गया है; तथपि
-इसमें भगवान् का समस्त साधकों को दिया हुआ पुनराश्वासन है कि उक्त गुणों से
-सम्पन्न साधकों को भगवान् की परा भक्ति प्राप्त होगी। conclusion तत्सदिति
-श्रीमद्भगवद्गीतासूपनिषस्तु ब्रह्मविद्यायां योगशास्त्रे  
-  
-श्रीकृष्णार्जुन संवादे भक्तियोगोनाम द्वादशोऽध्याय।। इस प्रकार
-श्रीकृष्णार्जुन संवाद के रूप में ब्रह्मविद्या और योगशास्त्रस्वरूप
-श्रीमद्भगवद्गीतोपनिषद् का भक्तियोग नामक बारहवां अध्याय समाप्त होता है।
-
+12.20 But those devotees who follow this nectar of virtuous-duty as taught above, who are full of faith and who regard Me as the Supreme -
+they are exceedingly dear to Me.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।12.20।। जो भक्त श्रद्धावान् तथा मुझे ही परम लक्ष्य समझने वाले हैं और
-इस यथोक्त धर्ममय अमृत का अर्थात् धर्ममय जीवन का पालन करते हैं, वे मुझे
-अतिशय प्रिय हैं।।
+<details><summary>गम्भीरानन्दः</summary>
 
+12.20 But \[Tu (but) is used to distinguish those who have attained the highest Goal from the aspirants.-Tr.\] those devotees who accept Me as the supreme Goal, and with faith seek for this ambrosia \[M.S.'s reading is dharmamrtam-nectar in the form of virtue. Virtue is called nectar because it leads to Immortality, or because it is sweet like nectar.\]
+which is indistinguishable from the virtues as stated above, they are very dear to Me.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+12.20 Verily those who love the spiritual wisdom as I have taught, whose faith never fails, and who concentrate their whole nature on Me, they indeed are My most beloved."
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+12.20. Those, who resort, as instructed above, to this duty \[conducive to\] immortality, who have faith \[in it\] and have Me alone their goal
+- those devotees are exceedingly dear to Me.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+12.20 They verily who follow this immortal Dharma (law or doctrine) as described above, endowed with faith, regarding Me as their supreme goal,
+they, the devotees, are exceedingly dear to Me.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+12.20 ये who; तु indeed; धर्म्यामृतम् immortal Dharma (Law); इदम् this;
+यथोक्तम् as declared (above); पर्युपासते follow; श्रद्दधानाः endowed with faith; मत्परमाः regarding Me as their Supreme; भक्ताः devotees; ते
+they; अतीव exceedingly; मे to Me; प्रियाः dear.Commentary The Blessed Lord has in this verse given a description of His excellent devotee.Amrita Dharma Amrita is the lifegiving nectar. Dharma is righteousness or wisdom. Dharma is that which leads to immortality when practised. The real devotees regard Me as their final or supreme refuge.Above Beginning with verse 13.A great truth that should not go unnoticed is that the devotee; the man of wisdom and the Yogi have all the same fundamental characteristics.Priyo hi Jnaninotyartham (I am exceedingly dear to the wise man) (VII.12) has thus been explained at length and concluded here thus; Te ativa me priyah (they are exceedinlgy dear to Me).He who follows this immortal Dharma as described above becomes exceedingly dear to the Lord. Therefore; every aspirant who thirsts for salvation; and who longs to attain the Supreme Abode of the Lord should follow this immortal Dharma with zeal and intense faith.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the twelfth discourse entitledThe Yoga of Devotion.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.20।। जो मेरेमें श्रद्धा रखनेवाले और मेरे परायण हुए भक्त पहले कहे हुए
 इस धर्ममय अमृतका अच्छी तरहसे सेवन करते हैं, वे मुझे अत्यन्त प्रिय हैं।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।12.20।।***व्याख्या --***  **ये तु --** यहाँ **ये** पदसे भगवान्ने उन
 साधक भक्तोंका संकेत किया है; जिनके विषयमें अर्जुनने पहले श्लोकमें प्रश्न
@@ -551,59 +467,36 @@ _________________
 कहते हैं।**इस प्रकार ; तत्; सत् -- इन भगवन्नामोंके उच्चारणपूर्वक
 ब्रह्मविद्या और योगशास्त्रमय श्रीमद्भगवद्गीतोपनिषद्रूप
 श्रीकृष्णार्जुनसंवादमें भक्तियोग नामक बारहवाँ अध्याय पूर्ण हुआ।।12।। ,**
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-12.20. Those, who resort, as instructed above, to this duty \[conducive to\] immortality, who have faith \[in it\] and have Me alone their goal
-- those devotees are exceedingly dear to Me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-12.20 But \[Tu (but) is used to distinguish those who have attained the highest Goal from the aspirants.-Tr.\] those devotees who accept Me as the supreme Goal, and with faith seek for this ambrosia \[M.S.'s reading is dharmamrtam-nectar in the form of virtue. Virtue is called nectar because it leads to Immortality, or because it is sweet like nectar.\]
-which is indistinguishable from the virtues as stated above, they are very dear to Me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-12.20 Verily those who love the spiritual wisdom as I have taught, whose faith never fails, and who concentrate their whole nature on Me, they indeed are My most beloved."
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-12.20 But those devotees who follow this nectar of virtuous-duty as taught above, who are full of faith and who regard Me as the Supreme -
-they are exceedingly dear to Me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-12.20 They verily who follow this immortal Dharma (law or doctrine) as described above, endowed with faith, regarding Me as their supreme goal,
-they, the devotees, are exceedingly dear to Me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/12_bhakti-yogaH/20_ye_tu.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-12.20 ये who; तु indeed; धर्म्यामृतम् immortal Dharma (Law); इदम् this;
-यथोक्तम् as declared (above); पर्युपासते follow; श्रद्दधानाः endowed with faith; मत्परमाः regarding Me as their Supreme; भक्ताः devotees; ते
-they; अतीव exceedingly; मे to Me; प्रियाः dear.Commentary The Blessed Lord has in this verse given a description of His excellent devotee.Amrita Dharma Amrita is the lifegiving nectar. Dharma is righteousness or wisdom. Dharma is that which leads to immortality when practised. The real devotees regard Me as their final or supreme refuge.Above Beginning with verse 13.A great truth that should not go unnoticed is that the devotee; the man of wisdom and the Yogi have all the same fundamental characteristics.Priyo hi Jnaninotyartham (I am exceedingly dear to the wise man) (VII.12) has thus been explained at length and concluded here thus; Te ativa me priyah (they are exceedinlgy dear to Me).He who follows this immortal Dharma as described above becomes exceedingly dear to the Lord. Therefore; every aspirant who thirsts for salvation; and who longs to attain the Supreme Abode of the Lord should follow this immortal Dharma with zeal and intense faith.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the twelfth discourse entitledThe Yoga of Devotion.  
+।।12.20।। यथोक्त अमृत धर्म उपर्युक्त पंक्तियों में सनातन धर्म का सार
+दिया गया है। वस्तुत हिन्दू धर्म के अनुयायियों के जीवन का लक्ष्य
+आत्मसाक्षात्कार करके उसे जीवन को अपने व्यक्तित्व के सभी स्तरों शारीरिक;
+मानसिक और बौद्धिक पर जीने का है। उसके लिये केवल इतना पर्याप्त नहीं है कि
+वह इस ज्ञान को बौद्धिक स्तर पर समझता है अथवा नियमित रूप से शास्त्रग्रन्थ
+का पाठ करता है; या उन्हें अच्छी प्रकार दूसरों को समझा भी सकता है। उसे
+चाहिए कि वह शास्त्रीय ज्ञान को आत्मसात् करके स्वयं पूर्ण पुरुष बन जाये।
+इसलिए; भगवान् कहते हैं कि उसे श्रद्धावान् होना चाहिए यहाँ श्रद्धा शब्द
+का अर्थ है स्वयं के अनुभव के द्वारा शास्त्र प्रतिपादित आत्मज्ञान्ा को
+आत्मसात् करने की क्षमता। ऐसे भक्त मुझे अतिशय प्रिय हैं इस श्लोक के साथ
+भक्त के लक्षणों का वर्णन करने वाले इस प्रकरण का षष्ठ भाग तथा यह अध्याय
+भी समाप्त होता है। यद्यपि इसमें और कोई नया लक्षण नहीं बताया गया है; तथपि
+इसमें भगवान् का समस्त साधकों को दिया हुआ पुनराश्वासन है कि उक्त गुणों से
+सम्पन्न साधकों को भगवान् की परा भक्ति प्राप्त होगी। conclusion तत्सदिति
+श्रीमद्भगवद्गीतासूपनिषस्तु ब्रह्मविद्यायां योगशास्त्रे  
   
-
+श्रीकृष्णार्जुन संवादे भक्तियोगोनाम द्वादशोऽध्याय।। इस प्रकार
+श्रीकृष्णार्जुन संवाद के रूप में ब्रह्मविद्या और योगशास्त्रस्वरूप
+श्रीमद्भगवद्गीतोपनिषद् का भक्तियोग नामक बारहवां अध्याय समाप्त होता है।
 </details>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
+
+।।12.20।। जो भक्त श्रद्धावान् तथा मुझे ही परम लक्ष्य समझने वाले हैं और
+इस यथोक्त धर्ममय अमृत का अर्थात् धर्ममय जीवन का पालन करते हैं, वे मुझे
+अतिशय प्रिय हैं।।
+</details>
+
 </div>

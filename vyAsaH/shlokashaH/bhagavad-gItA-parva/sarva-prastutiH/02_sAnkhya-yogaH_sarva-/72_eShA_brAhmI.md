@@ -1,124 +1,192 @@
 +++
 title = "72 एषा ब्राह्मी"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 एषा **ब्राह्मी स्थितिः** पार्थ  
 नैनां प्राप्य विमुह्यति।  
 स्थित्वा ऽस्याम् अन्तकालेऽपि  
 **ब्रह्म-निर्वाणम् ऋच्छति**॥2.72॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति।  
-स्थित्वाऽस्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति।।2.72।।
+स्थित्वाऽस्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति॥2.72॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।2.72।।**एषा** नित्यात्मज्ञानपूर्विका असङ्गकर्मणि **स्थितिः**
-स्थितधीलक्षणा **ब्राह्मी** ब्रह्मप्रापिका। ईदृशीं कर्मस्थितिं
-**प्राप्य न विमुह्यति** न पुनः संसारम् आप्नोति। **अस्यां**
-स्थित्याम् अन्तिमे अपि वयसि **स्थित्वा ब्रह्म निर्वाणम् ऋच्छति**
-निर्वाणमयं ब्रह्म गच्छति सुखैकतानम् आत्मानम् आप्नोति इत्यर्थः।  
-एवम् आत्मयाथात्म्यं युद्धाख्यस्य च कर्मणः तत्प्राप्तिसाधनताम् अजानतः
-शरीरात्मज्ञानेन मोहितस्य तेन च मोहेन युद्धात् निवृत्तस्य तन्मोहशान्तये
-नित्यात्मविषया साङ्ख्यबुद्धिः तत्पूर्विका च
-असङ्गकर्मानुष्ठानरूपकर्मयोगविषया बुद्धिः स्थितप्रज्ञतायोगसाधनभूता
-द्वितीयेऽध्याये प्रोक्ता। तदुक्तम् नित्यात्मासङ्गकर्मेहागोचरा
-साङ्ख्ययोगधीः। द्वितीये स्थितधीलक्ष्या प्रोक्ता तन्मोहशान्तये।।
-(गीतार्थसंग्रहे 6) इति।  
-  
-  
-
+॥2.72॥**एषा** नित्यात्मज्ञानपूर्विका असङ्गकर्मणि **स्थितिः** स्थितधीलक्षणा **ब्राह्मी** ब्रह्मप्रापिका। ईदृशीं कर्मस्थितिं **प्राप्य न विमुह्यति** न पुनः संसारम् आप्नोति। **अस्यां** स्थित्याम् अन्तिमे अपि वयसि **स्थित्वा ब्रह्म निर्वाणम् ऋच्छति** निर्वाणमयं ब्रह्म गच्छति सुखैकतानम् आत्मानम् आप्नोति इत्यर्थः।  
+एवम् आत्मयाथात्म्यं युद्धाख्यस्य च कर्मणस् तत्प्राप्तिसाधनताम् अजानतः शरीरात्मज्ञानेन मोहितस्य तेन च मोहेन युद्धान् निवृत्तस्य तन्मोहशान्तये नित्यात्मविषया साङ्ख्यबुद्धिस् तत्पूर्विका च असङ्गकर्मानुष्ठानरूपकर्मयोगविषया बुद्धिः स्थितप्रज्ञतायोगसाधनभूता द्वितीयेऽध्याये प्रोक्ता। तदुक्तं नित्यात्मासङ्गकर्मेहागोचरा साङ्ख्ययोगधीः। द्वितीये स्थितधीलक्ष्या प्रोक्ता तन्मोहशान्तये॥ (गीतार्थसङ्ग्रहे 6) इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।।2.72।। अनयोः श्लोकयोः 70।71 विषयानुभवनिवृत्तिलक्षणासा निशा 69 इति
-पूर्वश्लोकोक्तशान्तिरुक्ताएषा इति श्लोकेन परमप्रयोजनतया प्रकृतायाः
-संसारनिवृत्तिलक्षणशान्तेरुपसंहारः क्रियते यद्वा श्लोकत्रये
-शान्तिनिर्वाणशब्दाभ्यामेकमेव फलमुच्यते। ज्ञानं लब्ध्वा परां
-शान्तिमचिरेणाधिगच्छति 4।69 इत्यत्रपरं निर्वाणमाप्नोति इति हि
-व्याख्यास्यति। एषा ब्राह्मी इति श्लोकेनाध्यायार्थस्य निगमनं
-फलाव्यभिचारस्थापनं च। एषा इति निर्देशस्य
-पूर्वोक्तनिखिलप्रकारपरामर्शित्वात्तं प्रकारमाह नित्येति। स्थितधीर्लक्षं
-यस्याः सा स्थितधीलक्षा ज्ञानयोगाख्यस्थितप्रज्ञतासाधनभूतेत्यर्थः।
-ब्राह्मीत्यत्र तद्धितविवक्षितसम्बन्धविशेषं दर्शयति ब्रह्मप्रापिकेति।
-एनामित्यन्वादेशोऽपि सप्रकारपरामर्शीति व्यञ्जयति ईदृशीमिति।
-मोहनिषेधफलितमाह पुनरिति। अन्तकाल इत्युत्क्रान्तिकालभ्रमव्युदासायाह
-अन्तिमेऽपि वयसीति। उत्तमे चेद्वयसि साधुवृत्तः इत्यादिवत्। एतेन बाल्यादिषु
-विषयप्रवणस्यापि पश्चान्निर्विण्णस्याधिकारः सूचितः। किं
-पुनर्ब्रह्मचर्यादिकमारभ्य स्थितस्येति भावः। स्थित्यां
-स्थितिस्तत्सम्बन्धः। षष्ठीसमासभ्रमापाकरणायाह निर्वाणमयं ब्रह्मेति।
-निर्वाणब्रह्मशब्दयोः अर्वाचीनविषयतामाह सुखेति। ननु
-नित्यात्मज्ञानतत्साक्षात्कारयोरपि प्रकृतत्वात्
-कर्मनिष्ठामात्रनिगमनपरोऽयं श्लोक इत्ययुक्तमिति शङ्कायां
-प्रधानभूततदनुबन्धेन अन्यकथनमिति दर्शयन् उत्तराध्यायचतुष्टयसङ्गतिं
-वक्तुमुक्तमर्थं च सङ्कलय्य दर्शयन्नित्यात्मेत्यादिकं
-द्वितीयार्थसङ्ग्रहश्लोकमपि व्याख्याति एवमिति। मोहस्य हेतुस्वरूपकार्याणि
-विशदयति आत्मेत्यादिना निवृत्तस्येत्यन्तेन। व्याख्यानव्याख्येयात्मना
-सङ्ग्रहश्लोकस्थसमासान्तर्गतपदद्वन्द्वद्वयस्य यथासङ्ख्य सम्बन्धं व्यनक्ति
-नित्यात्मेत्यादिना। साङ्ख्यबुद्धिरिति। कर्मयोगावाक्एषा तेऽभिहिता साङ्ख्ये
-बुद्धिः 2।39 इत्युक्तमात्मतत्त्वज्ञानमुच्यते तद्व्यक्त्यर्थं
-हिनित्यात्मविषयेत्युक्तम्। ज्ञानयोगस्तु कर्मयोगसाध्यतयानन्तरं
-पृथगेवोपादीयते। स्थितधीलक्षेति।
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥2.72॥ अनयोः श्लोकयोः 70।71 विषयानुभवनिवृत्तिलक्षणासा निशा 69 इति पूर्वश्लोकोक्तशान्तिरुक्ताएषा इति श्लोकेन परमप्रयोजनतया प्रकृतायाः संसारनिवृत्तिलक्षणशान्तेरुपसंहारः क्रियते यद्वा श्लोकत्रये शान्तिनिर्वाणशब्दाभ्यामेकमेव फलमुच्यते। ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति 4।69 इत्यत्रपरं निर्वाणमाप्नोति इति हि व्याख्यास्यति। एषा ब्राह्मी इति श्लोकेनाध्यायार्थस्य निगमनं फलाव्यभिचारस्थापनं च। एषा इति निर्देशस्य पूर्वोक्तनिखिलप्रकारपरामर्शित्वात्तं प्रकारमाह नित्येति। स्थितधीर्लक्षं यस्याः सा स्थितधीलक्षा ज्ञानयोगाख्यस्थितप्रज्ञतासाधनभूतेत्यर्थः। ब्राह्मीत्यत्र तद्धितविवक्षितसम्बन्धविशेषं दर्शयति ब्रह्मप्रापिकेति। एनामित्यन्वादेशोऽपि सप्रकारपरामर्शीति व्यञ्जयति ईदृशीमिति। मोहनिषेधफलितमाह पुनरिति। अन्तकाल इत्युत्क्रान्तिकालभ्रमव्युदासायाह अन्तिमेऽपि वयसीति। उत्तमे चेद्वयसि साधुवृत्तः इत्यादिवत्। एतेन बाल्यादिषु विषयप्रवणस्यापि पश्चान्निर्विण्णस्याधिकारः सूचितः। किं पुनर्ब्रह्मचर्यादिकमारभ्य स्थितस्येति भावः। स्थित्यां स्थितिस्तत्सम्बन्धः। षष्ठीसमासभ्रमापाकरणायाह निर्वाणमयं ब्रह्मेति। निर्वाणब्रह्मशब्दयोः अर्वाचीनविषयतामाह सुखेति। ननु नित्यात्मज्ञानतत्साक्षात्कारयोरपि प्रकृतत्वात् कर्मनिष्ठामात्रनिगमनपरोऽयं श्लोक इत्ययुक्तमिति शङ्कायां प्रधानभूततदनुबन्धेन अन्यकथनमिति दर्शयन् उत्तराध्यायचतुष्टयसङ्गतिं वक्तुमुक्तमर्थं च सङ्कलय्य दर्शयन्नित्यात्मेत्यादिकं द्वितीयार्थसङ्ग्रहश्लोकमपि व्याख्याति एवमिति। मोहस्य हेतुस्वरूपकार्याणि विशदयति आत्मेत्यादिना निवृत्तस्येत्यन्तेन। व्याख्यानव्याख्येयात्मना सङ्ग्रहश्लोकस्थसमासान्तर्गतपदद्वन्द्वद्वयस्य यथासङ्ख्य सम्बन्धं व्यनक्ति नित्यात्मेत्यादिना। साङ्ख्यबुद्धिरिति। कर्मयोगावाक्एषा तेऽभिहिता साङ्ख्ये बुद्धिः 2।39 इत्युक्तमात्मतत्त्वज्ञानमुच्यते तद्व्यक्त्यर्थं हिनित्यात्मविषयेत्युक्तम्। ज्ञानयोगस्तु कर्मयोगसाध्यतयानन्तरं पृथगेवोपादीयते। स्थितधीलक्षेति। अत्र स्थितधी शब्दो भावप्रधानः ;तल्लक्षत्वं च तत्साधनत्वम् । ।स्थितप्रज्ञतायोगेत्यत्र स्थितप्रज्ञताशब्दो योगशब्देन सह विशेषणविशेष्यभावेन द्वन्द्वेन वा।झ्त्र समस्यते; ""योगाख्यं फलम्'' इत्यपि पूर्वं (2.53) पृथगुक्तेः ।  
+
+साम्प्रदायिकत्वायाह ।तदुक्तमिति ॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 2.72 This state of performing disinterested work which is preceded by the knowledge of the eternal self and which is characterised by firm wisdom, is the Brahmi-state, which secures the attainment of the Brahman
 (the self). After attaining such a state, he will not be deluded, i.e.,
-he will not get again the mortal coil. Reaching this state even during the last years of life, he wins the blissful Brahman (the self) i.e.,
-which is full of beatitude. The meaning is that he attains the self which is constituted of nothing but bliss. Thus in the second chapter,
-the Lord wanted to remove the delusion of Arjuna, who did not know the real nature of the self and also did not realize that the activity named
+he will not get again the mortal coil. Reaching this state even during the last years of life, he wins the blissful Brahman (the self) i.e., which is full of beatitude. The meaning is that he attains the self which is constituted of nothing but bliss. Thus in the second chapter, the Lord wanted to remove the delusion of Arjuna, who did not know the real nature of the self and also did not realize that the activity named
 'war' (here an ordained duty) is a means for attaining the nature of Sankhya or the self. Arjuna was under the delusion that the body is itself the self, and dominated by that delusion, had retreated from battle. He was therefore taught the knowledge called 'Sankhya' or the understanding of the self, and Yoga or what is called the path of practical work without attachment. These together have as their objective the attainment of steady wisdom (Sthitaprajnata) This has been explained in the following verse by Sri Yamunacarya: Sankhya and Yoga,
 which comprehend within their scope the understanding of the eternal self and the practical way of disinterested action respectively, were imparted in order to remove Arjuna's delusion. Through them the state of firm wisdom can be reached.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-एषेति । एषा असौ ब्रह्मसत्ता, यस्यां क्षणमात्रं स्थित्वा अवस्थिति प्राप्य शरीरभेदात् परं ब्रह्म आप्नोति। इति प्रश्नचतुष्टयं निर्णीतमिति ॥ ७४॥
+॥2.72॥  
+  
+**एषा** यथोक्ता **ब्राह्मी** ब्रह्मणि भवा इयं **स्थितिः** सर्वं कर्म संन्यस्य ब्रह्मरूपेणैव अवस्थानम् इत्येतत्। हे **पार्थ न एनां** स्थितिं **प्राप्य** लब्ध्वा न **विमुह्यति** न मोहं प्राप्नोति। **स्थित्वा अस्यां** स्थितौ ब्राह्म्यां यथोक्तायां **अन्तकालेऽपि** अन्त्ये वयस्यपि **ब्रह्मनिर्वाणं** ब्रह्मनिर्वृतिं मोक्षम् **ऋच्छति** गच्छति। किमु वक्तव्यं ब्रह्मचर्यादेव संन्यस्य यावज्जीवं यो ब्रह्मण्येव अवतिष्ठते स ब्रह्मनिर्वाणमृच्छति इति॥  
+इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
+  
+श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
+  
+द्वितीयोऽध्यायः॥
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+2.72 O Partha, esa, this, the aforesaid; is brahmisthitih, the state of
+being established in Brahman, i.e. continuing (in life) in
+indentification with Brahman, after renouncing all actions. Na
+vimuhyati, one does not become deluded; prapya, after attaining ; enam,
+this Rcchati, one attains; brahma-nirvanam, identification with Brahman,
+Liberation; sthitva, by being established; asyam, in this, in the state
+of Brahman-hood as described; api, even; anta-kale, in the closing years
+of one's life. What need it be said that, one who remains established
+only in Brahman during the whole life, after having espoused monasticism
+even from the stage of celibacy, attains indetification with Brahman!
+</details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥2.72॥ ( अब ) उस उपर्युक्त ज्ञाननिष्ठाकी स्तुति की जाती है  
+  
+यह उपर्युक्त अवस्था ब्राह्मी यानी ब्रह्ममें होनेवाली स्थिति है अर्थात्
+सर्व कर्मोंका संन्यास करके केवल ब्रह्मरूपसे स्थित हो जाना है।  
+हे पार्थ इस स्थितिको पाकर मनुष्य फिर मोहित नहीं होता अर्थात् मोहको
+प्राप्त नहीं होता।  
+अन्तकालमें अन्तके वयमें भी इस उपर्युक्त ब्राह्मी स्थितिमें स्थित होकर
+मनुष्य ब्रह्ममें लीनतारूप मोक्षको लाभ करता है। फिर जो ब्रह्मचर्याश्रमसे
+ही संन्यास ग्रहण करके जीवनपर्यन्त ब्रह्ममें स्थित रहता है वह
+ब्रह्मनिर्वाणको प्राप्त होता है इसमें तो कहना ही क्या है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥2.72॥ तत्र तत्र संक्षेपविस्तराभ्यां प्रदर्शितां
+ज्ञाननिष्ठामधिकारिप्रवृत्त्यर्थत्वेन स्तोतुमुत्तरश्लोकमवतारयति
+**सैषेति।** गृहस्थः संन्यासीत्युभावपि चेन्मुक्तिभोगिनौ किं तर्हि
+कष्टेन सर्वथैव संन्यासेनेत्याशङ्क्य  
+  
+संन्यासिव्यतिरिक्तानामन्तरायसंभवादपेक्षितः संन्यासो मुमुक्षोरित्याह
+**एषेति।** स्थितिमेव व्याचष्टे **सर्वमिति।** न विमुह्यतीति
+पुनर्नञोऽनुकर्षणमन्वयार्थं संन्यासिनो विमोहाभावेऽपि गृहस्थो
+धनहान्यादिनिमित्तं प्रायेण विमुह्यति। विक्षिप्तः सन्परमार्थविवेकरहितो
+भवतीत्यर्थः। यथोक्ता ब्राह्मी स्थितिः सर्वकर्मसंन्यासपूर्विका
+ब्रह्मनिष्ठा तस्यां स्थित्वा तामिमामायुषश्चतुर्थेऽपि भागे कृत्वेत्यर्थः।
+अपिशब्दसूचितं कैमुतिकन्यायमाह **किमु** **वक्तव्यमिति।** तदेवं
+तत्त्वंपदार्थौ तदैक्यं वाक्यार्थस्तज्ज्ञानादेकाकिनो
+मुक्तिस्तदुपायश्चेत्येतेषामेकैकत्रश्लोके प्राधान्येन प्रदर्शितमिति
+निष्ठाद्वयमुपायोपेयभूतमध्यायेन सिद्धम्।  
+इति परमहंस श्रीमदानन्दगिरिकृतटीकायां द्वितीयोऽध्यायः॥2॥
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥2.72॥ प्रतिपादितां कर्मयोगप्राप्यां साङ्ख्ययोगनिष्ठां फलेन
+स्तुवन्नुपसंहरति **एषेति।** एषा स्थितप्रज्ञलक्षणप्रसङ्गात्कथिता
+ब्राह्मी। ब्रह्मशब्देनात्र ब्रह्मविदुच्यते। ब्रह्मविद्ब्रह्मैव भवति इति
+श्रुतेः। तस्येयं ब्राह्मी स्थितिर्निष्ठा एनां निष्ठां प्राप्य नरो न
+विमुह्यति पुनर्मोहं न प्राप्नोति। अस्यामन्तकालेऽपि स्थित्वेति
+सकृज्जातापीयं फलवती नतूपासनावच्चिराभ्याससापेक्षेत्युक्तम्। ब्रह्म ऋच्छति
+प्राप्नोति। किं लोकान्तरवद्गतिप्राप्यं ब्रह्म नेत्याह **निर्वाणमिति।**
+निर्गतं वानं गमनं यस्मिन्प्राप्ये ब्रह्मणि तन्निर्वाणम्। तथा च श्रुतिःन
+तस्य प्राणा उत्क्रामन्त्यत्रैव समवलीयन्ते ब्रह्मैव सन् ब्रह्माप्येति
+इति। गतिमन्तरेण प्राणरूपोपाधिप्रविलयमात्राद्धटाकाशस्य
+महाकाशत्वप्राप्तिवत् जीवस्य ब्रह्मप्राप्तिमाह। अन्तकालेऽपीत्यपिशब्दाद्यो
+ब्रह्मचर्यादारभ्यात्र तिष्ठति स ब्रह्मनिर्वाणं कैमुतिकन्यायेन
+प्राप्नोतीति गम्यते। अस्याध्यायस्यार्थः संगृहीतो मधूसूदनश्रीपादैःज्ञानं
+तत्साधनं कर्म सत्त्वशुद्धिश्च तत्फलम्। तत्फलं
+ज्ञाननिष्ठैवेत्यध्यायेऽस्मिन्प्रकीर्तितम्।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥2.72॥ ज्ञाननिष्ठां स्तुवन्नुपसंहरति **एषेति।** एषा यथोक्ता ब्रह्मणि
+भवा स्थितिः। सर्वं परित्यज्य ब्रह्मरुपेणैवावस्थानमिति
+यावत्। ब्रह्मविद्ब्रह्मैव भवति इति श्रुत्या ब्रह्मशब्देनात्र
+ब्रह्मविद्गृह्यत इति व्याख्यानं त्वाचार्यैर्न कृतं मुख्यार्थेन
+वाक्यार्थनिर्वाहेऽमुख्यार्थस्यानौचित्यात्। एनां स्थितिं लब्ध्वा न
+विमुह्यति मोहं न प्राप्नोति। अस्यां ब्राहृयां स्थितावन्तकाले
+वृद्धावस्थायामपि स्थित्वा ब्रह्मणि निर्वृतिं मोक्षमृच्छति गच्छति किं
+वक्तव्यं प्रथमावस्थात् आस्भ्य ब्रह्मण्येव योऽवतिष्ठते स
+ब्रह्मनिर्वाणमृच्छतीति। अन्तकाले मृत्युसमये इत्यर्थस्तु न तस्मिन्काले
+एतादृशस्थित्यसंभवात्। नतु तदा विवशस्य स्मरणोद्यमः संभवतीति। यंयं वापीति
+श्लोकस्थस्वोक्तिविरोधाच्च ब्रह्मणि निर्वाणमिति भाष्यस्योपलक्षणत्वेन
+ब्रह्मरुपं निर्वाणमित्यर्थोऽप्यविरुद्धः। निर्गतं वानं गमनं
+यस्मिन्नित्यर्थोऽपि तवाप्ययं शोकमोहाभिभूतत्वरुपः स्वभावो नोचितः किंतु
+जीवन्मुक्तस्वभाव एवेति सूचयन्नाह **पार्थेति।** यद्वा मत्संबन्धिनस्तव
+मयि ब्रह्मण्येवावस्थानं युक्तमिति सूचयन्नाह **पार्थेति।**  
+  
+तदनेन द्वितीयाध्यायेन तत्पदलक्ष्यं परमात्मानमेव त्वंपदलक्ष्यत्वेन
+प्रतिपादयता साक्षाच्छोकमोहनिवृत्तिहेतुभूतां ज्ञाननिष्ठां लक्षणसहितां
+प्राधान्येन तदुपायभूतां योगनिष्ठां च गुणभावेन प्रदर्शयता उपायोपेयभूतं
+निष्ठाद्वयं प्रकाशितम्।  
+इति
+श्रीमत्परमहंसपरिव्राजकाचार्यबालस्वामिश्रीपादशिष्यदत्तवंशावतंसरामकुमारसूनुधनपतिविदुषा
+विरचितायां गीताभाष्योत्कर्षदीपिकायां द्वितीयोऽध्यायः॥2॥  
   
   
-
+**  
+  
+  
+**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.72 Esa etc. This is the Brahman-existance by remaining, i.e., having
-dwalt in which, even for a moment, one attains the Supreme Brahman
-\[after\] one's body breaks. Thus \[all the\] four estions have been
-decided.
+<details><summary>मधुसूदन-सरस्वती</summary>
 
+॥2.72॥ तदेवं चतुर्णां प्रश्नानामुत्तरव्याजेन सर्वाणि
+स्थितप्रज्ञलक्षणानि मुमुक्षुकर्तव्यतया कथितानि संप्रति कर्मयोगफलभूतां
+साङ्ख्यनिष्ठां फलेन स्तुवन्नुपसंहरति एषा स्थितप्रज्ञलक्षणव्याजेन कथिताएषा
+तेऽभिहिता साङ्ख्ये बुद्धिः इति च प्रागुक्ता स्थितिर्निष्ठा
+सर्वकर्मसंन्यासपूर्वकपरमात्मज्ञानलक्षणा ब्राह्मी ब्रह्मविषया। हे पार्थ
+एनां स्थितिं प्राप्य यः कश्चिदपि पुनर्न  
+  
+विमुह्यति। नहि ज्ञानबाधितस्याज्ञानस्य पुनः संभवोऽस्ति
+अनादित्वेनोत्पत्त्यसंभवात्। अस्यां स्थितावन्तकालेऽप्यन्त्येऽपि वयसि
+स्थित्वा ब्रह्मनिर्वाणं ब्रह्मणि निर्वाणं निर्वृतिं ब्रह्मरूपं
+निर्वाणमिति वा ऋच्छति गच्छत्यभेदेन। किमु वक्तव्यं यो ब्रह्मचर्यादेव
+संन्यस्य यावज्जीवमस्यां ब्राह्म्यां स्थिताववतिष्ठते स
+ब्रह्मनिर्वाणमृच्छतीत्यपिशब्दार्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.72।। उपसंहरति एषेति। ब्राह्मी स्थितिः ब्रह्मविषया स्थितिः लक्षणम्।
+॥2.72॥ उपसंहरति एषेति। ब्राह्मी स्थितिः ब्रह्मविषया स्थितिः लक्षणम्।
 अन्तकालेऽप्यस्यां स्थित्वैव ब्रह्म गच्छति अन्यथा जन्मान्तरं
 प्राप्नोति। यं यं वाऽपि 8।6 इति वक्ष्यमाणत्वात्। ज्ञानिनामपि सति
 प्रारब्धकर्मणि शरीरान्तरं युक्तम्। भोगेन त्वितरे इति ह्युक्तम्। सन्ति हि
@@ -202,14 +270,12 @@ _________________
 पदार्थवैचित्र्याच्चेत्युक्तम्। रामकृष्णादिरूपाणि परिपूर्णानि सर्वदा। न
 चाणुमात्रं भिन्नानि तथाप्यस्प्तान्विमोहसि इत्यादेश्च नारदीये।
 तस्मात्सर्वदा सर्वरूपेष्वपरिगणितानन्तगुणगणं नित्यनिरस्ताशेषदोषं च
-नारायणाख्यं परं ब्रह्मापरोक्षज्ञान्यृच्छतीति च सिद्धम्।  
-
+नारायणाख्यं परं ब्रह्मापरोक्षज्ञान्यृच्छतीति च सिद्धम्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।2.72।। ज्ञानी स्तूयतेएषा इत्यनेनेत्यसत् प्रथमवाक्ये तददर्शनादिति
+<details><summary>जयतीर्थः</summary>
+
+॥2.72॥ ज्ञानी स्तूयतेएषा इत्यनेनेत्यसत् प्रथमवाक्ये तददर्शनादिति
 भावेनाह  **उपसंहरती**ति। प्रकरणं समापयतीत्यर्थः। ब्रह्मधर्मभूतेति
 प्रतीतिनिरासायाह **ब्राह्मी**ति। स्थितिर्नोक्ता कथमेवमुच्यते इत्यत आह
 लक्षणमिति ब्रह्मविषयज्ञानवतो लक्षणमुक्तमित्यर्थः। किं प्रभाषेत 2।5
@@ -332,215 +398,50 @@ _________________
 स्तुतिर्वा किं न स्यात् इत्यत आह **न चे**ति। असम्भवे ह्येषा कल्पना।
 अचिन्त्यशक्त्या चैकस्यैवानेकपरिमाणत्वादिकं सम्भवति। अन्यत्रादर्शनेन
 त्वपलापेऽतिप्रसङ्ग इत्यर्थः। अत्रैव प्रमाणमाह **कृष्णे**ति। विमोहसि
-विमोहयसि। श्लोकार्थमुपसंहरति **तस्मा**दिति।  
-  
-  
-
+विमोहयसि। श्लोकार्थमुपसंहरति **तस्मा**दिति।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.72।।  
-  
-**एषा** यथोक्ता **ब्राह्मी** ब्रह्मणि भवा इयं **स्थितिः** सर्वं
-कर्म संन्यस्य ब्रह्मरूपेणैव अवस्थानम् इत्येतत्। हे **पार्थ न एनां**
-स्थितिं **प्राप्य** लब्ध्वा न **विमुह्यति** न मोहं प्राप्नोति।
-**स्थित्वा अस्यां** स्थितौ ब्राह्म्यां यथोक्तायां **अन्तकालेऽपि**
-अन्त्ये वयस्यपि **ब्रह्मनिर्वाणं** ब्रह्मनिर्वृतिं मोक्षम्
-**ऋच्छति** गच्छति। किमु वक्तव्यं ब्रह्मचर्यादेव संन्यस्य यावज्जीवं यो
-ब्रह्मण्येव अवतिष्ठते स ब्रह्मनिर्वाणमृच्छति इति।।  
-इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-  
-श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
-  
-द्वितीयोऽध्यायः।।  
-  
-
+एषेति । एषा असौ ब्रह्मसत्ता, यस्यां क्षणमात्रं स्थित्वा अवस्थिति प्राप्य शरीरभेदात् परं ब्रह्म आप्नोति। इति प्रश्नचतुष्टयं निर्णीतमिति ॥ ७४॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।2.72।। ( अब ) उस उपर्युक्त ज्ञाननिष्ठाकी स्तुति की जाती है  
-  
-यह उपर्युक्त अवस्था ब्राह्मी यानी ब्रह्ममें होनेवाली स्थिति है अर्थात्
-सर्व कर्मोंका संन्यास करके केवल ब्रह्मरूपसे स्थित हो जाना है।  
-हे पार्थ इस स्थितिको पाकर मनुष्य फिर मोहित नहीं होता अर्थात् मोहको
-प्राप्त नहीं होता।  
-अन्तकालमें अन्तके वयमें भी इस उपर्युक्त ब्राह्मी स्थितिमें स्थित होकर
-मनुष्य ब्रह्ममें लीनतारूप मोक्षको लाभ करता है। फिर जो ब्रह्मचर्याश्रमसे
-ही संन्यास ग्रहण करके जीवनपर्यन्त ब्रह्ममें स्थित रहता है वह
-ब्रह्मनिर्वाणको प्राप्त होता है इसमें तो कहना ही क्या है।  
-  
-  
-  
-  
-  
-  
-  
+<details><summary>शङ्करनारायणः</summary>
 
+2.72 Esa etc. This is the Brahman-existance by remaining, i.e., having dwalt in which, even for a moment, one attains the Supreme Brahman \[after\] one's body breaks. Thus \[all the\] four estions have been decided.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.72 O Partha, esa, this, the aforesaid; is brahmisthitih, the state of
-being established in Brahman, i.e. continuing (in life) in
-indentification with Brahman, after renouncing all actions. Na
-vimuhyati, one does not become deluded; prapya, after attaining ; enam,
-this Rcchati, one attains; brahma-nirvanam, identification with Brahman,
-Liberation; sthitva, by being established; asyam, in this, in the state
-of Brahman-hood as described; api, even; anta-kale, in the closing years
-of one's life. What need it be said that, one who remains established
-only in Brahman during the whole life, after having espoused monasticism
-even from the stage of celibacy, attains indetification with Brahman!
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।2.72।। तत्र तत्र संक्षेपविस्तराभ्यां प्रदर्शितां
-ज्ञाननिष्ठामधिकारिप्रवृत्त्यर्थत्वेन स्तोतुमुत्तरश्लोकमवतारयति
-**सैषेति।** गृहस्थः संन्यासीत्युभावपि चेन्मुक्तिभोगिनौ किं तर्हि
-कष्टेन सर्वथैव संन्यासेनेत्याशङ्क्य  
-  
-संन्यासिव्यतिरिक्तानामन्तरायसंभवादपेक्षितः संन्यासो मुमुक्षोरित्याह
-**एषेति।** स्थितिमेव व्याचष्टे **सर्वमिति।** न विमुह्यतीति
-पुनर्नञोऽनुकर्षणमन्वयार्थं संन्यासिनो विमोहाभावेऽपि गृहस्थो
-धनहान्यादिनिमित्तं प्रायेण विमुह्यति। विक्षिप्तः सन्परमार्थविवेकरहितो
-भवतीत्यर्थः। यथोक्ता ब्राह्मी स्थितिः सर्वकर्मसंन्यासपूर्विका
-ब्रह्मनिष्ठा तस्यां स्थित्वा तामिमामायुषश्चतुर्थेऽपि भागे कृत्वेत्यर्थः।
-अपिशब्दसूचितं कैमुतिकन्यायमाह **किमु** **वक्तव्यमिति।** तदेवं
-तत्त्वंपदार्थौ तदैक्यं वाक्यार्थस्तज्ज्ञानादेकाकिनो
-मुक्तिस्तदुपायश्चेत्येतेषामेकैकत्रश्लोके प्राधान्येन प्रदर्शितमिति
-निष्ठाद्वयमुपायोपेयभूतमध्यायेन सिद्धम्।  
-इति परमहंस श्रीमदानन्दगिरिकृतटीकायां द्वितीयोऽध्यायः।।2।।  
-  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।2.72।। तदेवं चतुर्णां प्रश्नानामुत्तरव्याजेन सर्वाणि
-स्थितप्रज्ञलक्षणानि मुमुक्षुकर्तव्यतया कथितानि संप्रति कर्मयोगफलभूतां
-साङ्ख्यनिष्ठां फलेन स्तुवन्नुपसंहरति एषा स्थितप्रज्ञलक्षणव्याजेन कथिताएषा
-तेऽभिहिता साङ्ख्ये बुद्धिः इति च प्रागुक्ता स्थितिर्निष्ठा
-सर्वकर्मसंन्यासपूर्वकपरमात्मज्ञानलक्षणा ब्राह्मी ब्रह्मविषया। हे पार्थ
-एनां स्थितिं प्राप्य यः कश्चिदपि पुनर्न  
-  
-विमुह्यति। नहि ज्ञानबाधितस्याज्ञानस्य पुनः संभवोऽस्ति
-अनादित्वेनोत्पत्त्यसंभवात्। अस्यां स्थितावन्तकालेऽप्यन्त्येऽपि वयसि
-स्थित्वा ब्रह्मनिर्वाणं ब्रह्मणि निर्वाणं निर्वृतिं ब्रह्मरूपं
-निर्वाणमिति वा ऋच्छति गच्छत्यभेदेन। किमु वक्तव्यं यो ब्रह्मचर्यादेव
-संन्यस्य यावज्जीवमस्यां ब्राह्म्यां स्थिताववतिष्ठते स
-ब्रह्मनिर्वाणमृच्छतीत्यपिशब्दार्थः।  
-  
-  
-  
-  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।2.72।। प्रतिपादितां कर्मयोगप्राप्यां साङ्ख्ययोगनिष्ठां फलेन
-स्तुवन्नुपसंहरति **एषेति।** एषा स्थितप्रज्ञलक्षणप्रसङ्गात्कथिता
-ब्राह्मी। ब्रह्मशब्देनात्र ब्रह्मविदुच्यते। ब्रह्मविद्ब्रह्मैव भवति इति
-श्रुतेः। तस्येयं ब्राह्मी स्थितिर्निष्ठा एनां निष्ठां प्राप्य नरो न
-विमुह्यति पुनर्मोहं न प्राप्नोति। अस्यामन्तकालेऽपि स्थित्वेति
-सकृज्जातापीयं फलवती नतूपासनावच्चिराभ्याससापेक्षेत्युक्तम्। ब्रह्म ऋच्छति
-प्राप्नोति। किं लोकान्तरवद्गतिप्राप्यं ब्रह्म नेत्याह **निर्वाणमिति।**
-निर्गतं वानं गमनं यस्मिन्प्राप्ये ब्रह्मणि तन्निर्वाणम्। तथा च श्रुतिःन
-तस्य प्राणा उत्क्रामन्त्यत्रैव समवलीयन्ते ब्रह्मैव सन् ब्रह्माप्येति
-इति। गतिमन्तरेण प्राणरूपोपाधिप्रविलयमात्राद्धटाकाशस्य
-महाकाशत्वप्राप्तिवत् जीवस्य ब्रह्मप्राप्तिमाह। अन्तकालेऽपीत्यपिशब्दाद्यो
-ब्रह्मचर्यादारभ्यात्र तिष्ठति स ब्रह्मनिर्वाणं कैमुतिकन्यायेन
-प्राप्नोतीति गम्यते। अस्याध्यायस्यार्थः संगृहीतो मधूसूदनश्रीपादैःज्ञानं
-तत्साधनं कर्म सत्त्वशुद्धिश्च तत्फलम्। तत्फलं
-ज्ञाननिष्ठैवेत्यध्यायेऽस्मिन्प्रकीर्तितम्।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।2.72।। ज्ञाननिष्ठां स्तुवन्नुपसंहरति **एषेति।** एषा यथोक्ता ब्रह्मणि
-भवा स्थितिः। सर्वं परित्यज्य ब्रह्मरुपेणैवावस्थानमिति
-यावत्। ब्रह्मविद्ब्रह्मैव भवति इति श्रुत्या ब्रह्मशब्देनात्र
-ब्रह्मविद्गृह्यत इति व्याख्यानं त्वाचार्यैर्न कृतं मुख्यार्थेन
-वाक्यार्थनिर्वाहेऽमुख्यार्थस्यानौचित्यात्। एनां स्थितिं लब्ध्वा न
-विमुह्यति मोहं न प्राप्नोति। अस्यां ब्राहृयां स्थितावन्तकाले
-वृद्धावस्थायामपि स्थित्वा ब्रह्मणि निर्वृतिं मोक्षमृच्छति गच्छति किं
-वक्तव्यं प्रथमावस्थात् आस्भ्य ब्रह्मण्येव योऽवतिष्ठते स
-ब्रह्मनिर्वाणमृच्छतीति। अन्तकाले मृत्युसमये इत्यर्थस्तु न तस्मिन्काले
-एतादृशस्थित्यसंभवात्। नतु तदा विवशस्य स्मरणोद्यमः संभवतीति। यंयं वापीति
-श्लोकस्थस्वोक्तिविरोधाच्च ब्रह्मणि निर्वाणमिति भाष्यस्योपलक्षणत्वेन
-ब्रह्मरुपं निर्वाणमित्यर्थोऽप्यविरुद्धः। निर्गतं वानं गमनं
-यस्मिन्नित्यर्थोऽपि तवाप्ययं शोकमोहाभिभूतत्वरुपः स्वभावो नोचितः किंतु
-जीवन्मुक्तस्वभाव एवेति सूचयन्नाह **पार्थेति।** यद्वा मत्संबन्धिनस्तव
-मयि ब्रह्मण्येवावस्थानं युक्तमिति सूचयन्नाह **पार्थेति।**  
-  
-तदनेन द्वितीयाध्यायेन तत्पदलक्ष्यं परमात्मानमेव त्वंपदलक्ष्यत्वेन
-प्रतिपादयता साक्षाच्छोकमोहनिवृत्तिहेतुभूतां ज्ञाननिष्ठां लक्षणसहितां
-प्राधान्येन तदुपायभूतां योगनिष्ठां च गुणभावेन प्रदर्शयता उपायोपेयभूतं
-निष्ठाद्वयं प्रकाशितम्।  
-इति
-श्रीमत्परमहंसपरिव्राजकाचार्यबालस्वामिश्रीपादशिष्यदत्तवंशावतंसरामकुमारसूनुधनपतिविदुषा
-विरचितायां गीताभाष्योत्कर्षदीपिकायां द्वितीयोऽध्यायः।।2।।  
-  
-  
-**  
-  
-  
-**
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.72।। उक्तां योगवन्निष्ठां स्तुवन्नुपसंहरति एषेति। ब्रह्म हि निर्दोषं
+॥2.72॥ उक्तां योगवन्निष्ठां स्तुवन्नुपसंहरति एषेति। ब्रह्म हि निर्दोषं
 समम् तस्यैवेति ब्राह्मी ब्रह्मसम्बन्धिनी वा स्थितिः स्थितधीलक्षणा।
-अस्यां स्थित्वा ब्रह्मसुखं प्राप्नोति।  
-
+अस्यां स्थित्वा ब्रह्मसुखं प्राप्नोति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।2.72।। उपसंहरति एषेति। एषा ब्राह्मी ब्रह्मनिष्ठस्य स्थितिः। एनां
+<details><summary>पुरुषोत्तमः</summary>
+
+॥2.72॥ उपसंहरति एषेति। एषा ब्राह्मी ब्रह्मनिष्ठस्य स्थितिः। एनां
 प्राप्य न विमुह्यति मोहं न प्राप्नोति। अन्तकाले क्षणमप्यस्यां स्थित्वा
 ब्रह्मनिर्वाणं पुरुषोत्तममुक्तिं प्राप्नोति। गीतायाश्चोपनिषद्रूपत्वादत्र
 ब्रह्मपदं पुरुषोत्तमवाचकमेव। आजन्मस्थितौ तु किं वक्तव्यम् इति भावः।  
   
   
-इति श्रीमद्भगवद्गीताटीकायां गीतामृततरङ्गिण्यां द्वितीयोऽध्यायः।।2।।  
-  
-
+इति श्रीमद्भगवद्गीताटीकायां गीतामृततरङ्गिण्यां द्वितीयोऽध्यायः॥2॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।2.72।। उक्तां ज्ञाननिष्ठां स्तुवन्नुपसंहरति **एषेति।**
+॥2.72॥ उक्तां ज्ञाननिष्ठां स्तुवन्नुपसंहरति **एषेति।**
 ब्राह्मीस्थितिर्ब्रह्मज्ञाननिष्ठा एषा एवंविधा। एनां परमेश्वराराधनेन
 शुद्धान्तःकरणः पुमान् प्राप्य न विमुह्यति पुनः संसारमोहं न प्राप्नोति।
 यतः अन्तकाले मृत्युसमयेऽप्यस्यां क्षणमात्रमपि स्थित्वा ब्रह्मणि निर्वाणं
@@ -549,14 +450,96 @@ _________________
   
   
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+2.72 This is the Brahmi-state, O Arjuna. None attaining to this is deluded. By abiding in this state even at the hour of death, one wins the self.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+2.72 O Partha, this is the state of being established in Brahman. One does not become deluded after attaining this. One attains identification with Brahman by being established in this state even in the closing years of one's life.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+2.72 O Arjuna! This is the state of the Self, the Supreme Spirit, to which if a man once attain, it shall never be taken from him. Even at the time of leaving the body, he will remain firmly enthroned there, and will become one with the Eternal."
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+2.72. O son of Prtha ! This is the Brahmanic state; having attained this, one never gets deluded \[again\]; and even by remaining in this
+\[for a while\] one attains at the time of death, the Brahman, the Tranil One.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+2.72 This is the Brahmic seat (eternal state), O son of Pritha.
+Attaining to this, none is deluded. Being established therein, even at the end of life, one attains to oneness with Brahman.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+2.72 एषा this; ब्राह्मी of Brahmic; स्थितिः state; पार्थ O Partha; न
+not; एनाम् this; प्राप्य having obtained; विमुह्यति is deluded; स्थित्वा
+being established; अस्याम् in this; अन्तकाले at the end of life; अपि
+even; ब्रह्मनिर्वाणम् oneness with Brahman; ऋच्छति attains.Commentary The state described in the previous verse -- to renounce everything and to live in Brahman -- is the Brahmic state or the state of Brahman. If one attains to this state one is never deluded. He attains Moksha if he stays in that state even at the hour of his death. It is needless to say that he who gets establised in Brahman throughout his life attains to the state of Brahman or,BrahmaNirvana (Cf.VIII.5;6).Maharshi Vidyaranya says in his Panchadasi that Antakala here means the moment at which Avidya or mutual superimposition of the Self and the notSelf ends.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the second discourse entitledThe Sankhya Yoga.,
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।2.72।। हे पृथानन्दन ! यह ब्राह्मी स्थिति है। इसको प्राप्त होकर कभी कोई
+मोहित नहीं होता। इस स्थितिमें यदि अन्तकालमें भी स्थित हो जाय, तो निर्वाण
+(शान्त) ब्रह्मकी प्राप्ति हो जाती है।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+।।2.72।।***व्याख्या--*'एषा ब्राह्मी स्थितिः पार्थ'--**यह ब्राह्मी
+स्थिति है अर्थात् ब्रह्मको प्राप्त हुए मनुष्यकी स्थिति है। अहंकाररहित
+होनेसे जब व्यक्तित्व मिट जाता है, तब उसकी स्थिति स्वतः ही ब्रह्ममें होती
+है। कारण कि संसारके साथ सम्बन्ध रखनेसे ही व्यक्तित्व था। उस सम्बन्धको
+सर्वथा छोड़ देनेसे योगीकी अपनी कोई व्यक्तिगत स्थिति नहीं रहती।  
+अत्यन्त नजदीकका वाचक होनेसे यहाँ **'एषा'** पद पूर्वश्लोकमें
+आये**'विहाय कामान्'****'निःस्पृहः
+निर्ममः'**और**'निरहङ्कारः'**पदोंका लक्ष्य करता है।  
+भगवान्के मुखसे 'तेरी बुद्धि जब मोहकलिल और श्रुतिविप्रतिपत्तिसे तर जायगी,
+तब तू योगको प्राप्त हो जायगा'--ऐसा सुनकर अर्जुनके मनमें यह जिज्ञासा हुई
+कि वह स्थिति क्या होगी; इसपर अर्जुनने स्थितप्रज्ञके विषयमें चार प्रश्न
+किये। उन चारों प्रश्नोंका उत्तर देकर भगवान्ने यहाँ वह स्थिति बतायी कि वह
+ब्राह्मी स्थिति है। तात्पर्य है कि वह व्यक्तिगत स्थिति नहीं है अर्थात्
+उसमें व्यक्तित्व नहीं रहता। वह नित्ययोगकी प्राप्ति है। उसमें एक ही
+तत्त्व रहता है। इस विषयकी तरफ लक्ष्य करानेके लिये ही यहाँ **'पार्थ'**
+सम्बोधन दिया गया है।  
+**'नैनां प्राप्य विमुह्यति'--**जबतक शरीरमें अहंकार रहता है, तभीतक
+मोहित होनेकी सम्भावना रहती है। परन्तु जब अहंकारका सर्वथा अभाव होकर
+ब्रह्ममें अपनी स्थितिका अनुभव हो जाता है, तब व्यक्तित्व टूटनेके कारण फिर
+कभी मोहित होनेकी सम्भावना नहीं रहती।  
+सत् और असत्को ठीक तरहसे न जानना ही मोह है। तात्पर्य है कि स्वयं सत् होते
+हुए भी असत्के साथ अपनी एकता मानते रहना ही मोह है। जब साधक असत्को ठीक
+तरहसे जान लेता है, तब असत्से उसका सम्बन्ध-विच्छेद हो जाता है **(टिप्पणी
+प₀ 109)** और सत्में अपनी वास्तविक स्थितिका अनुभव हो जाता है। इस
+स्थितिका अनुभव होनेपर फिर कभी मोह नहीं होता (गीता 4। 35)।  
+**'स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति'--**यह मनुष्य-शरीर
+केवल परमात्मप्राप्तिके लिये ही मिला है। इसलिये भगवान् यह मौका देते हैं
+कि साधारण-से-साधारण और पापी-से-पापी व्यक्ति ही क्यों न हो, अगर वह
+अन्तकालमें भी अपनी स्थिति परमात्मामें कर ले अर्थात् जडतासे अपना
+सम्बन्ध-विच्छेद कर ले, तो उसे भी निर्वाण (शान्त) ब्रह्मकी प्राप्ति हो
+जायगी, वह जन्म-मरणसे मुक्त हो जायगा। ऐसी ही बात भगवान्ने सातवें अध्यायके
+तीसवें श्लोकमें कही है कि 'अधिभूत, अधिदैव और अधियज्ञ एक भगवान् ही
+हैं--ऐसा प्रयाणकालमें भी मेरेको जो जान लेते हैं, वे मेरेको यथार्थरूपसे
+जान लेते हैं अर्थात् मेरेको प्राप्त हो जाते हैं। ' आठवें अध्यायके
+पाँचवें
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।2.72।। सब इच्छाओं के त्याग का अर्थ है अहंकार का त्याग। अहंकार रहित
 अवस्था निष्क्रिय अर्थहीन शून्य नहीं है। जहाँ भ्रान्तिजनित अहंकार समाप्त
@@ -601,120 +584,14 @@ conclusion
 व्याख्याकारों में मतभेद है। तथापि यह स्वीकार किया जाता है कि एक अथवा
 अनेक विद्वानों ने प्रत्येक अध्याय के विषय का अध्ययन कर उसका उचित नामकरण
 किया है। गीता के सभी विद्यार्थियों के लिए वास्तव में ये नाम उपयोगी हैं।
-श्री शंकराचार्य जी ने इस विषय पर भाष्य नहीं लिखा है।  
-  
-  
-
+श्री शंकराचार्य जी ने इस विषय पर भाष्य नहीं लिखा है।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।2.72।। हे पार्थ यह ब्राह्मी स्थिति है। इसे प्राप्त कर पुरुष मोहित नहीं
 होता। अन्तकाल में भी इस निष्ठा में स्थित होकर ब्रह्मनिर्वाण (ब्रह्म के
-साथ एकत्व) को प्राप्त होता है।।  
-  
-
+साथ एकत्व) को प्राप्त होता है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।2.72।। हे पृथानन्दन ! यह ब्राह्मी स्थिति है। इसको प्राप्त होकर कभी कोई
-मोहित नहीं होता। इस स्थितिमें यदि अन्तकालमें भी स्थित हो जाय, तो निर्वाण
-(शान्त) ब्रह्मकी प्राप्ति हो जाती है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-।।2.72।।***व्याख्या--*'एषा ब्राह्मी स्थितिः पार्थ'--**यह ब्राह्मी
-स्थिति है अर्थात् ब्रह्मको प्राप्त हुए मनुष्यकी स्थिति है। अहंकाररहित
-होनेसे जब व्यक्तित्व मिट जाता है, तब उसकी स्थिति स्वतः ही ब्रह्ममें होती
-है। कारण कि संसारके साथ सम्बन्ध रखनेसे ही व्यक्तित्व था। उस सम्बन्धको
-सर्वथा छोड़ देनेसे योगीकी अपनी कोई व्यक्तिगत स्थिति नहीं रहती।  
-अत्यन्त नजदीकका वाचक होनेसे यहाँ **'एषा'** पद पूर्वश्लोकमें
-आये**'विहाय कामान्'****'निःस्पृहः
-निर्ममः'**और**'निरहङ्कारः'**पदोंका लक्ष्य करता है।  
-भगवान्के मुखसे 'तेरी बुद्धि जब मोहकलिल और श्रुतिविप्रतिपत्तिसे तर जायगी,
-तब तू योगको प्राप्त हो जायगा'--ऐसा सुनकर अर्जुनके मनमें यह जिज्ञासा हुई
-कि वह स्थिति क्या होगी; इसपर अर्जुनने स्थितप्रज्ञके विषयमें चार प्रश्न
-किये। उन चारों प्रश्नोंका उत्तर देकर भगवान्ने यहाँ वह स्थिति बतायी कि वह
-ब्राह्मी स्थिति है। तात्पर्य है कि वह व्यक्तिगत स्थिति नहीं है अर्थात्
-उसमें व्यक्तित्व नहीं रहता। वह नित्ययोगकी प्राप्ति है। उसमें एक ही
-तत्त्व रहता है। इस विषयकी तरफ लक्ष्य करानेके लिये ही यहाँ **'पार्थ'**
-सम्बोधन दिया गया है।  
-**'नैनां प्राप्य विमुह्यति'--**जबतक शरीरमें अहंकार रहता है, तभीतक
-मोहित होनेकी सम्भावना रहती है। परन्तु जब अहंकारका सर्वथा अभाव होकर
-ब्रह्ममें अपनी स्थितिका अनुभव हो जाता है, तब व्यक्तित्व टूटनेके कारण फिर
-कभी मोहित होनेकी सम्भावना नहीं रहती।  
-सत् और असत्को ठीक तरहसे न जानना ही मोह है। तात्पर्य है कि स्वयं सत् होते
-हुए भी असत्के साथ अपनी एकता मानते रहना ही मोह है। जब साधक असत्को ठीक
-तरहसे जान लेता है, तब असत्से उसका सम्बन्ध-विच्छेद हो जाता है **(टिप्पणी
-प₀ 109)** और सत्में अपनी वास्तविक स्थितिका अनुभव हो जाता है। इस
-स्थितिका अनुभव होनेपर फिर कभी मोह नहीं होता (गीता 4। 35)।  
-**'स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति'--**यह मनुष्य-शरीर
-केवल परमात्मप्राप्तिके लिये ही मिला है। इसलिये भगवान् यह मौका देते हैं
-कि साधारण-से-साधारण और पापी-से-पापी व्यक्ति ही क्यों न हो, अगर वह
-अन्तकालमें भी अपनी स्थिति परमात्मामें कर ले अर्थात् जडतासे अपना
-सम्बन्ध-विच्छेद कर ले, तो उसे भी निर्वाण (शान्त) ब्रह्मकी प्राप्ति हो
-जायगी, वह जन्म-मरणसे मुक्त हो जायगा। ऐसी ही बात भगवान्ने सातवें अध्यायके
-तीसवें श्लोकमें कही है कि 'अधिभूत, अधिदैव और अधियज्ञ एक भगवान् ही
-हैं--ऐसा प्रयाणकालमें भी मेरेको जो जान लेते हैं, वे मेरेको यथार्थरूपसे
-जान लेते हैं अर्थात् मेरेको प्राप्त हो जाते हैं। ' आठवें अध्यायके
-पाँचवें
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-2.72. O son of Prtha ! This is the Brahmanic state; having attained this, one never gets deluded \[again\]; and even by remaining in this
-\[for a while\] one attains at the time of death, the Brahman, the Tranil One.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-2.72 O Partha, this is the state of being established in Brahman. One does not become deluded after attaining this. One attains identification with Brahman by being established in this state even in the closing years of one's life.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-2.72 O Arjuna! This is the state of the Self, the Supreme Spirit, to which if a man once attain, it shall never be taken from him. Even at the time of leaving the body, he will remain firmly enthroned there, and will become one with the Eternal."
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-2.72 This is the Brahmi-state, O Arjuna. None attaining to this is deluded. By abiding in this state even at the hour of death, one wins the self.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-2.72 This is the Brahmic seat (eternal state), O son of Pritha.
-Attaining to this, none is deluded. Being established therein, even at the end of life, one attains to oneness with Brahman.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-2.72 एषा this; ब्राह्मी of Brahmic; स्थितिः state; पार्थ O Partha; न
-not; एनाम् this; प्राप्य having obtained; विमुह्यति is deluded; स्थित्वा
-being established; अस्याम् in this; अन्तकाले at the end of life; अपि
-even; ब्रह्मनिर्वाणम् oneness with Brahman; ऋच्छति attains.Commentary The state described in the previous verse -- to renounce everything and to live in Brahman -- is the Brahmic state or the state of Brahman. If one attains to this state one is never deluded. He attains Moksha if he stays in that state even at the hour of his death. It is needless to say that he who gets establised in Brahman throughout his life attains to the state of Brahman or,BrahmaNirvana (Cf.VIII.5;6).Maharshi Vidyaranya says in his Panchadasi that Antakala here means the moment at which Avidya or mutual superimposition of the Self and the notSelf ends.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the second discourse entitledThe Sankhya Yoga.,
-
-</details>
 </div>

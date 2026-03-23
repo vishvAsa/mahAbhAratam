@@ -1,226 +1,57 @@
 +++
 title = "23 तं विद्याद्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **तं विद्याद्** दुःख-संयोग-  
 वियोगं **योग**-संज्ञितम्।  
 स निश्चयेन योक्तव्यो  
 योगो ऽनिर्विण्ण+++(=ऽनिर्वेद)+++-चेतसा॥6.23॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम्।  
-स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा।।6.23।।
+स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा॥6.23॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।6.23।।**तं दुःखसंयोगवियोगं** दुःखसंयोगप्रत्यनीकाकारं योगशब्दाभिधेयं
-ज्ञानं **विद्यात् स** एवंभूतो **योगः** इत्यारम्भदशायां **निश्चयेन
-अनिर्विण्णचेतसा** हृष्टचेतसा **योगो योक्तव्यः।**
-
+॥6.23॥**तं दुःखसंयोगवियोगं** दुःखसंयोगप्रत्यनीकाकारं योगशब्दाभिधेयं ज्ञानं **विद्यात् स** एवम्भूतो **योगः** इत्यारम्भदशायां **निश्चयेन अनिर्विण्णचेतसा** हृष्टचेतसा **योगो योक्तव्यः।**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।। 6.23पुनरपि योगदशैव आदरातिरेकाय निरतिशयपुरुषार्थत्वप्रतिपादनेन
-प्रपञ्च्यते यत्र इत्यादिभिः। निरुद्धं इत्यत्र
-परिगृहीतत्वविनष्टत्वादिभ्रमव्युदासाय योगसेवया हेतुना सर्वत्र
-निरुद्धमित्युक्तम्। सर्वतो निरुद्धमित्युक्ते प्रवृत्तस्य निवारणमात्रं
-प्रतीयेतसर्वत्र इत्युक्ते तूत्तरोत्तरप्रवृत्त्यनुदयोऽपि सिध्यतीति
-सप्तमीनिर्देशः। योगसेवया निरुद्धं यत्रोपरमते इत्युक्ते योगस्य
-पृथगुपादानात् यच्छब्दार्थस्य योगाद्व्यतिरेकः प्रतीयेतेति
-तद्व्युदासाययोगसंज्ञितम् इति वक्ष्यमाणान्वयेनयत्र योग इत्युक्तम्। यत्र
-यस्मिन् काले इति परोक्तमयुक्तम् उपरितनयच्छब्दभिन्नार्थत्वप्रसङ्गात्
-प्रतिनिर्देशस्थयोगशब्दानन्वयाच्चेति भावः। यत्रोपरमते इत्यत्र यतो
-विच्छिद्यत इति भ्रमापाकरणायाहअतिशयितेति। यत्र सिद्धेऽन्यत उपरमत
-इत्यध्याहारेण योजना न युक्ता तथा सतिनिरुद्धं इत्यनेन पुनरुक्तिश्च
-स्यात्। उपसर्गाणां च नानार्थत्वादयमेवातिशयितार्थ उपपन्नः।
-आसक्तिप्रतिपादनद्वारा तात्पर्येण वायमर्थः सिध्यतीति भावः। यत्र
-चैवेत्येवकारस्य यथाक्रमान्वये प्रयोजनाभावात् उचितान्वयप्रदर्शनाय
-आत्मन्येव तुष्यतीत्युक्तम्। अन्यनिरपेक्षमित्यवधारणतोषशब्दाभ्यां
-अर्थसिद्धोक्तिः। यद्वाआत्मानं पश्यंस्तुष्यति इत्येतावतैव विवक्षितसिद्धौ
-पुनरात्मनीति निर्देशः तदन्यव्युदासार्थ इत्यभिप्रायः। आत्मनि
-परमात्मानमिति योजना तु जीवयोगविषयत्वादिहासङ्गता।
-अतीन्द्रियमित्युक्तत्वात् परिशेषात् औचित्याच्चबुद्धिग्राह्यम् इत्यत्र
-बुद्धिं विशिनष्टि आत्मबुद्ध्येकेति। आत्यन्तिकं
-पुनर्दुःखसम्भेदरहितमित्यर्थः। यदेवंविधं सुखं तद्यत्र वेत्तीत्यन्वयः।
-यद्वा यत्तदिति पिण्डितं प्रसिद्ध्यतिशयार्थं तदित्येवार्थः। केचित्तु
-यत्तच्छब्दान्वयप्रकारमजानन्तःसुखमात्यन्तिकं यत्र इति पठन्तिवेत्ति यत्र
-इति यत्रशब्दः पूर्वोत्तरवाक्यसाधारणतया मध्ये प्रयुक्तः।
-वेत्तीत्यस्यापवर्गदशानुभाव्यसुखप्रतिसन्धानपरत्वव्युदासाय
-योगरूपापारोक्ष्याभिप्रायेणअनुभवतीत्युक्तम्। आत्मनि तुष्यति इति
-पूर्वमितरसुखनिरपेक्षत्वपरम्। सुखमात्यन्तिकम् इत्यादिकं तु
-स्वरूपसुखानुभवपरमित्यपौनरुक्त्यम्। सुखातिरेकेणेति उक्त एवाचलनहेतुरुचित
-इति भावः। प्रामाणिकार्थान्न चलतीति वा सम्यक् चलतीति वा निर्वहणं मन्दम्।
-योगदशायां च सुखातिरेकेण स्वरसतस्तदवस्थयैव
-चिरतरावस्थानाभिधानमुचितमपेक्षितं चेत्यभिप्रायेणतत्त्वतः
-इत्यस्यतद्भावादिति प्रतिपदमुक्तम्। इतरविषयनिरोधनैरपेक्ष्येयत्र इति
-श्लोकेनोक्ते। तत आत्मस्वरूपसुखानुभवस्तस्य स्वरसवाहितया दुर्विच्छेदत्वं
-चसुखम् इति श्लोकेनाभिहिते। अथयं लब्ध्वा इति श्लोकेन योगविरतिकालेष्वपि
-तस्यैवाभिलाषपदत्वाद्बाह्यसुखाभिलाषेण दुःखेन चानास्कन्दनमुच्यत इति
-विभागज्ञापनाभिप्रायेणयोगाद्विरत इत्यादिकमुक्तम्। योगदशायां तु
-लाभान्तरप्रतिसन्धानमेव नास्तीति भावः। गुरुणापि
-इत्युक्तगौरवव्यञ्जनायगुणवत्पुत्रवियोगादिनेत्युक्तम्। पुत्रजन्मविपत्तिभ्यां
-न परं सुखदुःखयोः इति ह्याहुः। न विचाल्यते योगप्रतिकूलमवसादं न
-गच्छतीत्यर्थः। दुःखसंयोगस्य वियोगस्तस्यासम्बन्धः अभाव इत्यर्थः। स च
-भावान्तरमिति ज्ञापनायाह दुःखसंयोगप्रत्यनीकाकारमिति। दुःखसंयोगस्य वियोगो
-यत्रेति व्यधिकरणबहुव्रीहौ फलितोक्तिरियम्। अथवा वियोगशब्दोऽत्र
-वियुज्यतेऽनेनेति करणार्थघञन्तो वियोगहेतुपर इति भावः। निर्विण्णचेतसेति
-पदच्छेदे संसारे तापत्रयेष्वेवेत्यध्याहारः स्यात् तत्तु सप्रयोजने
-योजनान्तरे सम्भवति न युक्तम् तस्मादनिर्निण्णचेतसेति पदच्छेदः।
-निश्चयशब्दोऽपि तेनैव हेतुसमर्पणेनान्वितः न तुयोक्तव्यः इत्यनेन
-निरर्थकान्वयप्रसङ्गात्। अनिर्विण्णत्वहेतुश्च निश्चयः
-पूर्वोक्तनिरतिशयपुरुषार्थत्वेनैव स्यात् तदेतदखिलमभिसन्धायाह स
-एवमिति। एवंरूपो निरतिशयपुरुषार्थरूप इत्यर्थः। योक्तव्यः इत्युक्तत्वात्
-आरम्भोपकारकत्वद्योतनायआरम्भदशायामित्युक्तम्। मनसा क्लिश्यमानस्तु समाधानं
-च कामयेत्। अनिर्वेदं मुनिर्गच्छन् कुर्यादेवात्मनो हितम्। इति
-ह्युच्यते।। अतो विरक्त्युपयुक्तो निर्वेदोऽन्यः अयं त्वन्यादृश
-इतिहृष्टचेतसेत्युक्तम्। योक्तव्यः कर्तव्य इत्यर्थः।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥ 6.23पुनरपि योगदशैव आदरातिरेकाय निरतिशयपुरुषार्थत्वप्रतिपादनेन प्रपञ्च्यते यत्र इत्यादिभिः। निरुद्धम् इत्यत्र परिगृहीतत्वविनष्टत्वादिभ्रमव्युदासाय योगसेवया हेतुना सर्वत्र निरुद्धमित्युक्तम्। सर्वतो निरुद्धमित्युक्ते प्रवृत्तस्य निवारणमात्रं प्रतीयेतसर्वत्र इत्युक्ते तूत्तरोत्तरप्रवृत्त्यनुदयोऽपि सिध्यतीति सप्तमीनिर्देशः। योगसेवया निरुद्धं यत्रोपरमते इत्युक्ते योगस्य पृथगुपादानात् यच्छब्दार्थस्य योगाद्व्यतिरेकः प्रतीयेतेति तद्व्युदासाययोगसञ्ज्ञितम् इति वक्ष्यमाणान्वयेनयत्र योग इत्युक्तम्। यत्र यस्मिन् काले इति परोक्तमयुक्तम् उपरितनयच्छब्दभिन्नार्थत्वप्रसङ्गात् प्रतिनिर्देशस्थयोगशब्दानन्वयाच्चेति भावः। यत्रोपरमते इत्यत्र यतो विच्छिद्यत इति भ्रमापाकरणायाहअतिशयितेति। यत्र सिद्धेऽन्यत उपरमत इत्यध्याहारेण योजना न युक्ता तथा सतिनिरुद्धम् इत्यनेन पुनरुक्तिश्च स्यात्। उपसर्गाणां च नानार्थत्वादयमेवातिशयितार्थ उपपन्नः। आसक्तिप्रतिपादनद्वारा तात्पर्येण वायमर्थः सिध्यतीति भावः। यत्र चैवेत्येवकारस्य यथाक्रमान्वये प्रयोजनाभावात् उचितान्वयप्रदर्शनाय आत्मन्येव तुष्यतीत्युक्तम्। अन्यनिरपेक्षमित्यवधारणतोषशब्दाभ्याम् अर्थसिद्धोक्तिः। यद्वाआत्मानं पश्यंस्तुष्यति इत्येतावतैव विवक्षितसिद्धौ पुनरात्मनीति निर्देशः तदन्यव्युदासार्थ इत्यभिप्रायः। आत्मनि परमात्मानमिति योजना तु जीवयोगविषयत्वादिहासङ्गता। अतीन्द्रियमित्युक्तत्वात् परिशेषात् औचित्याच्चबुद्धिग्राह्यम् इत्यत्र बुद्धिं विशिनष्टि आत्मबुद्ध्येकेति। आत्यन्तिकं पुनर्दुःखसम्भेदरहितमित्यर्थः। यदेवंविधं सुखं तद्यत्र वेत्तीत्यन्वयः। यद्वा यत्तदिति पिण्डितं प्रसिद्ध्यतिशयार्थं तदित्येवार्थः। केचित्तु यत्तच्छब्दान्वयप्रकारमजानन्तःसुखमात्यन्तिकं यत्र इति पठन्तिवेत्ति यत्र इति यत्रशब्दः पूर्वोत्तरवाक्यसाधारणतया मध्ये प्रयुक्तः। वेत्तीत्यस्यापवर्गदशानुभाव्यसुखप्रतिसन्धानपरत्वव्युदासाय योगरूपापारोक्ष्याभिप्रायेणअनुभवतीत्युक्तम्। आत्मनि तुष्यति इति पूर्वमितरसुखनिरपेक्षत्वपरम्। सुखमात्यन्तिकम् इत्यादिकं तु स्वरूपसुखानुभवपरमित्यपौनरुक्त्यम्। सुखातिरेकेणेति उक्त एवाचलनहेतुरुचित इति भावः। प्रामाणिकार्थान्न चलतीति वा सम्यक् चलतीति वा निर्वहणं मन्दम्। योगदशायां च सुखातिरेकेण स्वरसतस्तदवस्थयैव चिरतरावस्थानाभिधानमुचितमपेक्षितं चेत्यभिप्रायेणतत्त्वतः इत्यस्यतद्भावादिति प्रतिपदमुक्तम्। इतरविषयनिरोधनैरपेक्ष्येयत्र इति श्लोकेनोक्ते। तत आत्मस्वरूपसुखानुभवस्तस्य स्वरसवाहितया दुर्विच्छेदत्वं चसुखम् इति श्लोकेनाभिहिते। अथयं लब्ध्वा इति श्लोकेन योगविरतिकालेष्वपि तस्यैवाभिलाषपदत्वाद्बाह्यसुखाभिलाषेण दुःखेन चानास्कन्दनमुच्यत इति विभागज्ञापनाभिप्रायेणयोगाद्विरत इत्यादिकमुक्तम्। योगदशायां तु लाभान्तरप्रतिसन्धानमेव नास्तीति भावः। गुरुणापि इत्युक्तगौरवव्यञ्जनायगुणवत्पुत्रवियोगादिनेत्युक्तम्। पुत्रजन्मविपत्तिभ्यां न परं सुखदुःखयोः इति ह्याहुः। न विचाल्यते योगप्रतिकूलमवसादं न गच्छतीत्यर्थः। दुःखसंयोगस्य वियोगस्तस्यासम्बन्धः अभाव इत्यर्थः। स च भावान्तरमिति ज्ञापनायाह दुःखसंयोगप्रत्यनीकाकारमिति। दुःखसंयोगस्य वियोगो यत्रेति व्यधिकरणबहुव्रीहौ फलितोक्तिरियम्। अथवा वियोगशब्दोऽत्र वियुज्यतेऽनेनेति करणार्थघञन्तो वियोगहेतुपर इति भावः। निर्विण्णचेतसेति पदच्छेदे संसारे तापत्रयेष्वेवेत्यध्याहारः स्यात् तत्तु सप्रयोजने योजनान्तरे सम्भवति न युक्तं तस्मादनिर्निण्णचेतसेति पदच्छेदः। निश्चयशब्दोऽपि तेनैव हेतुसमर्पणेनान्वितः न तुयोक्तव्यः इत्यनेन निरर्थकान्वयप्रसङ्गात्। अनिर्विण्णत्वहेतुश्च निश्चयः पूर्वोक्तनिरतिशयपुरुषार्थत्वेनैव स्यात् तदेतदखिलमभिसन्धायाह स एवमिति। एवंरूपो निरतिशयपुरुषार्थरूप इत्यर्थः। योक्तव्यः इत्युक्तत्वात् आरम्भोपकारकत्वद्योतनायआरम्भदशायामित्युक्तम्। मनसा क्लिश्यमानस्तु समाधानं च कामयेत्। अनिर्वेदं मुनिर्गच्छन् कुर्यादेवात्मनो हितम्। इति ह्युच्यते॥ अतो विरक्त्युपयुक्तो निर्वेदोऽन्यः अयं त्वन्यादृश इतिहृष्टचेतसेत्युक्तम्। योक्तव्यः कर्तव्य इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 6.20 - 6.23 Where, through the practice of Yoga, the mind, which is subdued everywhere by such practice, 'rejoices', i.e., rejoices in surpassing felicity; and where, perceiving through Yoga 'the self
 (Atman)' by 'the mind (Atman)' one is delighted by the self and indifferent to all other objects; and where, through Yoga, one 'knows',
-i.e., experiences that infinite happiness which can be grasped only by
-the 'intellect' contemplating on the self, but is beyond the grasp of
-the senses; where, remaining in that Yoga, one does not 'swerve from
-that state,' because of the overwhelming happiness that state confers;
-having gained which, he desires for it alone, even when he is awakened
-from Yoga, and does not hold anything else as a gain; where one is not
-moved even by 'the heaviest sorrow' caused by any berevaement like that
-of a virtuous son - let him know that disunion from all union with pain,
-i.e., which forms the opposite of union with pain, is called by the term
-Yoga. This Yoga must be practised with the determination of its nature
-as such from the beginning with a mind free from despondency, i.e., with
-zestful exaltation.
-
+i.e., experiences that infinite happiness which can be grasped only by the 'intellect' contemplating on the self, but is beyond the grasp of the senses; where, remaining in that Yoga, one does not 'swerve from that state,' because of the overwhelming happiness that state confers; having gained which, he desires for it alone, even when he is awakened from Yoga, and does not hold anything else as a gain; where one is not moved even by 'the heaviest sorrow' caused by any berevaement like that of a virtuous son - let him know that disunion from all union with pain, i.e., which forms the opposite of union with pain, is called by the term Yoga. This Yoga must be practised with the determination of its nature as such from the beginning with a mind free from despondency, i.e., with zestful exaltation.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।6.20 6.23।। इदानीं तस्य स्वस्वभावस्य ब्रह्मणो बहुतर-विशेषण-द्वारेण स्वरूपं निरूप्यते - यः तीर्थान्तर-कल्पितेभ्यश् च रूपेभ्यो व्यतिरेकः - यत्रेत्यादि, अनिर्विण्णचेतसा इत्यन्तम्। 
-
-**यत्र मनो निरुद्धम् उपरमते** स्वयम् एव।  
-**आत्यन्तिकं** विषय-कृत-कालुष्याभावात् **सुखं यत्र वेत्ति**।  
-
-**अपरो लाभो** धन-दार-पुत्रादीनां संनियोग-लब्धश् च योगः अन्यत्र सुख-धीर् निवर्तते च +इति वस्तु-स्व-भावो ऽयम् इत्य् अर्थः।  
-**न विचाल्यते** विशेषेण न चाल्यते अपि तु संस्कार-मात्रेणैवास्य प्रथम-क्षण-मात्रम् एव चलनं कारुण्यादि-वशात्,+++(5)+++ न तु मूढतया विनष्टो "बताहम्! किं मया प्रतिपत्तव्यम्" इत्यादि।  
-
-**दुःखसंयोगस्य वियोगो** यतः,  
-**स** च **निश्चयेन** आस्तिकताजनितया श्रद्धया सर्वथा **योक्तव्यः** अभ्यसनीयः।  
-**अनिर्विण्णम्** उपेय-प्राप्तौ दृढ-तरं  
-संसारं दुःख-बहुलम् प्रति **निर्विण्णं** वा  
-+++(S N omit वा)+++ **चेतो** यस्य।
-
+॥6.23॥ **तं विद्यात्** विजानीयात् **दुःखसंयोगवियोगं** दुःखैः संयोगः दुःखसंयोगः तेन वियोगः दुःखसंयोगवियोगः तं दुःखसंयोगवियोगं **योग** इत्येव **संज्ञितं** विपरीतलक्षणेन विद्यात् विजानीयादित्यर्थः। योगफलमुपसंहृत्य पुनरन्वारम्भेण योगस्य कर्तव्यता उच्यते निश्चयानिर्वेदयोः योगसाधनत्वविधानार्थम्। **स** यथोक्तफलो **योगः निश्चयेन** अध्यवसायेन **योक्तव्यः अनिर्विण्णचेतसा** न निर्विण्णम् अनिर्विण्णम्। किं तत् चेतः तेन निर्वेदरहितेन चेतसा चित्तेनेत्यर्थः॥ किञ्च
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.20-23 Yatra etc. upto anirvinna-cetasa. Where the mind well restrained
-remains iet : i.e., on its own accord. Where he realises the limitless
-Bliss : Becuase the dirts created by the sense-objects are absent. Any
-other gain : the gain obtained through the close contacts with wealth.
-wives, childeren etc. The idea is : With regard to other objects, the
-notion of their being sources of pleasure disappears; and it is the
-nature of the thing in estion. Not shaken much : not shaken to a great
-extent; \[hence\] there is yet \[a little\] shaking in him, purely due
-to \[former\] mental impression; and it lasts only for a moment due to
-his compassion \[towards all creatures\], and not due to the wrong
-notions like 'Alas ! I am undone ! What is to done by me.' and so on.
-That, due to which the cessation of contact with misery results-that
-must be yoked i.e., practised (concentrated upon) by all means, with
-determination i.e., with faith, born of the belief \[in the Self\]. Of
-undepressed mind. i.e., because the goal has been reached. Or of
-depressed mind : i.e., depressed that the birth-and-death-cycle is very
-firm and is full of misery. The means for abandoning desire is to
-abandon intention. This (the Lord) says :
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।6.23।। दुःखसंयोगो येन वियुज्यते स दुःखसंयोगवियोगः। न केवलमुत्पन्नं
-दुःखं विनाशय्रति। उत्पत्तिमेव निवारयतीति दर्शयति संयोगशब्देन। निश्चयेन
-योक्तव्यः योक्तव्य एव बुभूषुणेत्यर्थः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।6.23।। ननु दुःखसम्बन्धस्य वियोगो ध्वंसः स कथं योगः स्यात् इत्यत आह
-**दुःखेति**। करणेऽपि घञः स्मरणात्। एवं तर्हि दुःखवियोगमित्येव वक्तव्यम्
-किं संयोगशब्देन इत्यत आह **न केवलमि**ति। वियोगशब्दो निवारणे वर्तत इति
-भावः। एतच्च पदाधिक्यादेव लभ्यते नान्यथा। ननुस निश्चयेन योक्तव्यः इति
-पुनर्विधानं किमर्थं निश्चयेनेत्यादिविशेषविधानार्थमिति चेत् न महाफले
-सन्देहात् प्रवृत्त्यभावेननिश्चयेन इत्यस्य वैयर्थ्यादित्यत आह
-**निश्चयेने**ति। अयोगव्यवच्छेदे निश्चयशब्द इत्यर्थः। कुत्रायोगो
-व्यवच्छिद्यत इत्यत उक्तं **बुभूषुणे**ति मुमुक्षुणेत्यर्थः।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।6.23।। **तं विद्यात्** विजानीयात् **दुःखसंयोगवियोगं** दुःखैः संयोगः
-दुःखसंयोगः तेन वियोगः दुःखसंयोगवियोगः तं दुःखसंयोगवियोगं **योग** इत्येव
-**संज्ञितं** विपरीतलक्षणेन विद्यात् विजानीयादित्यर्थः। योगफलमुपसंहृत्य
-पुनरन्वारम्भेण योगस्य कर्तव्यता उच्यते निश्चयानिर्वेदयोः
-योगसाधनत्वविधानार्थम्। **स** यथोक्तफलो **योगः निश्चयेन** अध्यवसायेन
-**योक्तव्यः अनिर्विण्णचेतसा** न निर्विण्णम् अनिर्विण्णम्। किं तत् चेतः
-तेन निर्वेदरहितेन चेतसा चित्तेनेत्यर्थः।। किञ्च
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।6.23।। यत्रोपरमते से लेकर यहाँतक समस्त विशेषणोंसे विशिष्ट आत्माका
-अवस्थाविशेषरूप जो योग कहा गया है उस योग नामक अवस्थाको दुःखोंके संयोगका
-वियोग समझना चाहिये। अभिप्राय यह कि दुःखोंसे संयोग होना दुःखसंयोग है उससे
-वियोग हो जाना दुःखोंके संयोगका वियोग है उस दुःखसंयोगवियोग को योग ऐसे
-विपरीत नामसे कहा हुआ समझना चाहिये। योगफलका उपसंहार करके अब दृढ़ निश्चयको
-और योगविषयक रुचिको भी योगका साधन बतानेके लिये पुनः प्रकारान्तरसे योगकी
-कर्तव्यता बतायी जाती है वह उपर्युक्त फलवाला योग बिना उकताये हुए चित्तसे
-निश्चयपूर्वक करना चाहिये। जिस चित्तमें निर्विण्णता ( उद्वेग ) न हो वह
-अनिर्विण्णचित्त है ऐसे अनिर्विण्ण ( न उकताये हुए ) चित्तसे निश्चयपूर्वक
-योगका साधन करना चाहिये यह अभिप्राय है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 6.23 Vidyat, one should know; tat, that; duhkha-samyoga-viyogam,
 severance (viyoga) of contact (samyoga) with sorrow (duhkha); to be
@@ -234,13 +65,25 @@ perservance; and anirvinnacetasa, with an undepressed heart. That which
 is not (a) depressed (nirvinnam) is anirvinnam. What is that; The heart.
 (One has to practise Yoga) with that heart which is free from
 depression. This is the meaning. Again,
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।6.23।। तं विद्यादित्याद्यपेक्षितं पूरयन्नवतारयति **यत्रेति।**
+<details><summary>हरिकृष्णदासः</summary>
+
+॥6.23॥ यत्रोपरमते से लेकर यहाँतक समस्त विशेषणोंसे विशिष्ट आत्माका
+अवस्थाविशेषरूप जो योग कहा गया है उस योग नामक अवस्थाको दुःखोंके संयोगका
+वियोग समझना चाहिये। अभिप्राय यह कि दुःखोंसे संयोग होना दुःखसंयोग है उससे
+वियोग हो जाना दुःखोंके संयोगका वियोग है उस दुःखसंयोगवियोग को योग ऐसे
+विपरीत नामसे कहा हुआ समझना चाहिये। योगफलका उपसंहार करके अब दृढ़ निश्चयको
+और योगविषयक रुचिको भी योगका साधन बतानेके लिये पुनः प्रकारान्तरसे योगकी
+कर्तव्यता बतायी जाती है वह उपर्युक्त फलवाला योग बिना उकताये हुए चित्तसे
+निश्चयपूर्वक करना चाहिये। जिस चित्तमें निर्विण्णता ( उद्वेग ) न हो वह
+अनिर्विण्णचित्त है ऐसे अनिर्विण्ण ( न उकताये हुए ) चित्तसे निश्चयपूर्वक
+योगका साधन करना चाहिये यह अभिप्राय है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥6.23॥ तं विद्यादित्याद्यपेक्षितं पूरयन्नवतारयति **यत्रेति।**
 तमित्यात्मावस्थाविशेषं परामृशति। दुःखसंयोगस्य वियोगो वियोगसंज्ञितो
 युज्यते स कथं योगसंज्ञितः स्यादित्याशङ्क्याह **विपरीतेति।** इयं हि
 योगावस्था समुत्खातनिखिलदुःखभेदेति दुःखसंयोगाभावो योगसंज्ञामर्हतीत्यर्थः।
@@ -250,44 +93,11 @@ depression. This is the meaning. Again,
 तन्निवृत्त्यर्थं पुनः कर्तव्यत्वोपदेशोऽर्थवानिति मत्वाह **निश्चयेति।**
 तयोः साधनत्वविधानमेवाक्षरयोजनया साधयति **स यथेति।** इह जन्मनि जन्मान्तरे
 वा सेत्स्यतीत्यध्यवसापः। योक्तव्यः कर्तव्यः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।6.23।। यत्रोपरमत इत्यारभ्य बहुभिर्विशेषणैर्यो निर्वृत्तिकः
-परमानन्दाभिव्यञ्जकाश्चित्तावस्थाविशेष उक्तस्तं चित्तवृत्तिनिरोधं
-चित्तवृत्तिमयसर्वदुःखविरोधित्वेन दुःखवियोगमिव सन्तं योगसंज्ञितं
-वियोगशब्दार्हमपि विरोधिलक्षणया योगशब्दवाच्यं विद्यज्जानीयान्नतु
-योगशब्दानुरोधात्कंचित्संबन्धं प्रतिपद्येतेत्यर्थः। तथाच
-भगवान्पतञ्जलिरसूत्रयत्योगश्चित्तवृत्तिनिरोधः इति। योगो भवति दुःखहा इति
-यत्प्रागुक्तं तदेतदुपसंहृतम्। एवंभूते योगे निश्चयानिर्वेदयोः
-साधनत्वविधानायाह स यथोक्तफलो योगो निश्चयेन
-शास्त्राचार्यवचनतात्पर्यविषयोऽर्थः सत्य एवेत्यध्यवसायेन
-योक्तव्योऽभ्यसनीयः। अनिर्विण्णचेतसा एतावतापि कालेन योगो न सिद्धः किमतः
-परं कष्टमित्यनुतापो निर्वेदस्तद्रहितेन चेतसा। इह जन्मनि जन्मान्तरे वा
-सेत्स्यसि किं त्वरयेत्येवं धैर्ययुक्तेन मनसेत्यर्थः। तदेतद्गौडपादा
-उदाजह्नुःउत्सेक उदधेर्यद्वत्कुशाग्रेणैकबिन्दुना। मनसो
-निग्रहस्तद्वद्भवेदपरिखेदतः।। इति। उत्सेक उत्सेचनम् शोषणाध्यवसायेन
-जलोद्धरणमिति यावत्। अत्र संप्रदायविद आख्यायिकामाचक्षते कस्यचित्किल
-पक्षिणोऽण्डानि तीरस्थानि तरङ्गवेगेन समुद्रोऽपजहार। स च समुद्रं
-शोषयिष्याम्येवेति प्रवृत्तः स्वमुखाग्रेणैकैकं जलबिन्दुमुपरि प्रचिक्षेप।
-तदा च बहुभिः पक्षिभिर्बन्धुर्गैर्वार्यमाणोऽपि नैवोपरराम। यदृच्छया च
-तत्रागतेन नारदेन निवारितोऽप्यस्मिञ्जन्मनि जन्मान्तरे वा येन
-केनाप्युपायेन समुद्रं शोषयिष्याम्येवेति प्रतिजज्ञे। ततश्च
-दैवानुकूल्यात्कृपालुर्नारदो गरुडं तत्साहाय्याय प्रेषयामास
-समुद्रस्त्वज्ज्ञातिद्रोहेण त्वामवमन्यत इति वचनेन। ततो गरुडपक्षवातेन
-शुष्यन्समुद्रो भीतस्तान्यण्डानि तस्मै पक्षिणेप्रददौइति। एवमखेदेन
-मनोनिरोधे परमधर्मे प्रवर्तमानं योगिनमीश्वरोऽनुगृह्णाति। ततश्च पक्षिण इव
-तस्याभिमतं सिध्यतीति भावः।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।6.23।।**तमिति।** यत्रोपरमते चित्तमित्यादिनोक्तलक्षणं तं
+॥6.23॥**तमिति।** यत्रोपरमते चित्तमित्यादिनोक्तलक्षणं तं
 दुःखसंयोगस्याप्यन्तःकरणसंबन्धस्य वियोगमेव सन्तं विरुद्धलक्षणया
 योगसंज्ञितं विद्यात्। योगफलमुपसंहृत्य पुनर्निश्चयानिर्वेदयोः
 साधनत्वविधानपूर्वकं तमेव शतकृत्वोऽपि पथ्यं वदितव्यमिति न्यायेन विधत्ते
@@ -298,13 +108,11 @@ depression. This is the meaning. Again,
 गुरुवेदवाक्यादौ फलावश्यंभावनिश्चयलक्षणा श्रद्धात्र निश्चयपदेन गृह्यते।
 तथा निर्विण्णचेतसेति वैराग्येण द्वन्द्वसहिष्णुत्वलक्षणा तितिक्षा विधीयते
 इति ज्ञेयम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।6.23।। यत्रोपरमत इत्यारभ्य यावद्भिर्विशेषणैर्विशिष्ट आत्मावस्थाविशिष्टो
+<details><summary>धनपतिः</summary>
+
+॥6.23॥ यत्रोपरमत इत्यारभ्य यावद्भिर्विशेषणैर्विशिष्ट आत्मावस्थाविशिष्टो
 योग उक्तः तं योगसंज्ञितं विद्याज्जनीयात्। इति यत्र यस्मन्काले इत्यादि
 भाष्यं समाध्युपलक्षिते तस्मिन्काले योगसिद्धिर्भवतीति शेषः। यमात्मलाभं तं
 विद्यादित्युत्तरत्र संबन्धः। यस्मिस्थितो योगी न विचाल्यते तं योगं
@@ -343,7 +151,7 @@ depression. This is the meaning. Again,
 प्रयत्नशैथिल्यकारणं खेदः। एतावतापि कालेन योगेनेति किमतःकष्टमित्येवंरुपः
 निश्चयेनानिर्विण्णचेतसा योक्तव्यः फलपर्यन्तमभ्यसनीयः। तदुक्तं
 गौटपादाचार्यैःउत्सेक उदधैर्यद्वत्कुशाग्रेणैकबिन्दुना। मनसो
-निग्रहस्तद्वद्भवेदपरिखेदतः।। इति। उत्सेको जलोद्धरणम्। एतेन
+निग्रहस्तद्वद्भवेदपरिखेदतः॥ इति। उत्सेको जलोद्धरणम्। एतेन
 निर्विण्णचेतसेत्येवंपदमुत्तरशेषभूतं द्रष्टव्यम्। तथा ह्यापातनिका
 नन्वभ्यस्यतां नाम योगस्तत्रापि यदा हि नेन्द्रियार्तेषु न
 कर्मस्वनुषज्जते। स सर्वसंकल्पसंन्यासीत्यनेन स्वार्थं
@@ -358,46 +166,113 @@ depression. This is the meaning. Again,
 परकीयानपि त्यक्त्वेत्यादिवर्णनस्यानौचित्यात्। शनैः शनैरित्यादिना मनस
 उपरमस्य वक्ष्यमाणत्वेनात्र मनसा
 विवेकादियुक्तेनेतिकरणपरत्ववर्णनस्यैवौचित्याच्च।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥6.23॥ यत्रोपरमत इत्यारभ्य बहुभिर्विशेषणैर्यो निर्वृत्तिकः
+परमानन्दाभिव्यञ्जकाश्चित्तावस्थाविशेष उक्तस्तं चित्तवृत्तिनिरोधं
+चित्तवृत्तिमयसर्वदुःखविरोधित्वेन दुःखवियोगमिव सन्तं योगसंज्ञितं
+वियोगशब्दार्हमपि विरोधिलक्षणया योगशब्दवाच्यं विद्यज्जानीयान्नतु
+योगशब्दानुरोधात्कंचित्संबन्धं प्रतिपद्येतेत्यर्थः। तथाच
+भगवान्पतञ्जलिरसूत्रयत्योगश्चित्तवृत्तिनिरोधः इति। योगो भवति दुःखहा इति
+यत्प्रागुक्तं तदेतदुपसंहृतम्। एवंभूते योगे निश्चयानिर्वेदयोः
+साधनत्वविधानायाह स यथोक्तफलो योगो निश्चयेन
+शास्त्राचार्यवचनतात्पर्यविषयोऽर्थः सत्य एवेत्यध्यवसायेन
+योक्तव्योऽभ्यसनीयः। अनिर्विण्णचेतसा एतावतापि कालेन योगो न सिद्धः किमतः
+परं कष्टमित्यनुतापो निर्वेदस्तद्रहितेन चेतसा। इह जन्मनि जन्मान्तरे वा
+सेत्स्यसि किं त्वरयेत्येवं धैर्ययुक्तेन मनसेत्यर्थः। तदेतद्गौडपादा
+उदाजह्नुःउत्सेक उदधेर्यद्वत्कुशाग्रेणैकबिन्दुना। मनसो
+निग्रहस्तद्वद्भवेदपरिखेदतः॥ इति। उत्सेक उत्सेचनम् शोषणाध्यवसायेन
+जलोद्धरणमिति यावत्। अत्र संप्रदायविद आख्यायिकामाचक्षते कस्यचित्किल
+पक्षिणोऽण्डानि तीरस्थानि तरङ्गवेगेन समुद्रोऽपजहार। स च समुद्रं
+शोषयिष्याम्येवेति प्रवृत्तः स्वमुखाग्रेणैकैकं जलबिन्दुमुपरि प्रचिक्षेप।
+तदा च बहुभिः पक्षिभिर्बन्धुर्गैर्वार्यमाणोऽपि नैवोपरराम। यदृच्छया च
+तत्रागतेन नारदेन निवारितोऽप्यस्मिञ्जन्मनि जन्मान्तरे वा येन
+केनाप्युपायेन समुद्रं शोषयिष्याम्येवेति प्रतिजज्ञे। ततश्च
+दैवानुकूल्यात्कृपालुर्नारदो गरुडं तत्साहाय्याय प्रेषयामास
+समुद्रस्त्वज्ज्ञातिद्रोहेण त्वामवमन्यत इति वचनेन। ततो गरुडपक्षवातेन
+शुष्यन्समुद्रो भीतस्तान्यण्डानि तस्मै पक्षिणेप्रददौइति। एवमखेदेन
+मनोनिरोधे परमधर्मे प्रवर्तमानं योगिनमीश्वरोऽनुगृह्णाति। ततश्च पक्षिण इव
+तस्याभिमतं सिध्यतीति भावः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।6.22 6.25।। तदेव विशिनष्टि यं लब्ध्वेति।
+॥6.23॥ दुःखसंयोगो येन वियुज्यते स दुःखसंयोगवियोगः। न केवलमुत्पन्नं
+दुःखं विनाशय्रति। उत्पत्तिमेव निवारयतीति दर्शयति संयोगशब्देन। निश्चयेन
+योक्तव्यः योक्तव्य एव बुभूषुणेत्यर्थः।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥6.23॥ ननु दुःखसम्बन्धस्य वियोगो ध्वंसः स कथं योगः स्यात् इत्यत आह
+**दुःखेति**। करणेऽपि घञः स्मरणात्। एवं तर्हि दुःखवियोगमित्येव वक्तव्यम्
+किं संयोगशब्देन इत्यत आह **न केवलमि**ति। वियोगशब्दो निवारणे वर्तत इति
+भावः। एतच्च पदाधिक्यादेव लभ्यते नान्यथा। ननुस निश्चयेन योक्तव्यः इति
+पुनर्विधानं किमर्थं निश्चयेनेत्यादिविशेषविधानार्थमिति चेत् न महाफले
+सन्देहात् प्रवृत्त्यभावेननिश्चयेन इत्यस्य वैयर्थ्यादित्यत आह
+**निश्चयेने**ति। अयोगव्यवच्छेदे निश्चयशब्द इत्यर्थः। कुत्रायोगो
+व्यवच्छिद्यत इत्यत उक्तं **बुभूषुणे**ति मुमुक्षुणेत्यर्थः।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
+
+<details><summary>मूलम्</summary>
+
+॥6.20 6.23॥ इदानीं तस्य स्वस्वभावस्य ब्रह्मणो बहुतर-विशेषण-द्वारेण स्वरूपं निरूप्यते - यः तीर्थान्तर-कल्पितेभ्यश् च रूपेभ्यो व्यतिरेकः - यत्रेत्यादि, अनिर्विण्णचेतसा इत्यन्तम्। 
+
+**यत्र मनो निरुद्धम् उपरमते** स्वयम् एव।  
+**आत्यन्तिकं** विषय-कृत-कालुष्याभावात् **सुखं यत्र वेत्ति**।  
+
+**अपरो लाभो** धन-दार-पुत्रादीनां संनियोग-लब्धश् च योगः अन्यत्र सुख-धीर् निवर्तते च +इति वस्तु-स्व-भावो ऽयम् इत्य् अर्थः।  
+**न विचाल्यते** विशेषेण न चाल्यते अपि तु संस्कार-मात्रेणैवास्य प्रथम-क्षण-मात्रम् एव चलनं कारुण्यादि-वशात्,+++(5)+++ न तु मूढतया विनष्टो "बताहम्! किं मया प्रतिपत्तव्यम्" इत्यादि।  
+
+**दुःखसंयोगस्य वियोगो** यतः,  
+**स** च **निश्चयेन** आस्तिकताजनितया श्रद्धया सर्वथा **योक्तव्यः** अभ्यसनीयः।  
+**अनिर्विण्णम्** उपेय-प्राप्तौ दृढ-तरं  
+संसारं दुःख-बहुलम् प्रति **निर्विण्णं** वा  
++++(S N omit वा)+++ **चेतो** यस्य।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+6.20-23 Yatra etc. upto anirvinna-cetasa. Where the mind well restrained remains iet : i.e., on its own accord. Where he realises the limitless Bliss : Becuase the dirts created by the sense-objects are absent. Any other gain : the gain obtained through the close contacts with wealth. wives, childeren etc. The idea is : With regard to other objects, the notion of their being sources of pleasure disappears; and it is the nature of the thing in estion. Not shaken much : not shaken to a great extent; \[hence\] there is yet \[a little\] shaking in him, purely due to \[former\] mental impression; and it lasts only for a moment due to his compassion \[towards all creatures\], and not due to the wrong notions like 'Alas ! I am undone ! What is to done by me.' and so on. That, due to which the cessation of contact with misery results-that must be yoked i.e., practised (concentrated upon) by all means, with determination i.e., with faith, born of the belief \[in the Self\]. Of undepressed mind. i.e., because the goal has been reached. Or of depressed mind : i.e., depressed that the birth-and-death-cycle is very firm and is full of misery. The means for abandoning desire is to abandon intention. This (the Lord) says :
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
+
+<details><summary>मूलम्</summary>
+
+॥6.22 6.25॥ तदेव विशिनष्टि यं लब्ध्वेति।
 एतेनेष्टप्राप्त्यनिष्टनिवृत्तिफलको योगः समन्वितःतं विद्यात् ৷৷.
 योगसंज्ञितं दुःखसंयोगेन वियोग एव योग इति विरुद्धलक्षणया उच्यते।
 यस्मादेवं महाफलो योगस्तस्मात्स एव यत्नोऽभ्यसनीयः इत्याह सार्धेन। स
 निश्चयेनेति यत्नेन।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।6.23।। तं योगसंज्ञितं मद्योगसंज्ञात्मकं विद्यात् जानीयात्। कीदृशं तं
+<details><summary>पुरुषोत्तमः</summary>
+
+॥6.23॥ तं योगसंज्ञितं मद्योगसंज्ञात्मकं विद्यात् जानीयात्। कीदृशं तं
 दुःखसंयोगवियोगं दुःखात्मको यः संयोगो लौकिकोऽधिकरणदेहस्थो वा तस्य
 वियोगरूपम्। यतोऽयं योगः फलसाधकोऽतः स कार्य इत्याह सार्द्धेन स इति। स
 पूर्वोक्तः फलसाधकरूपो योगो निश्चयेन गुरूपदिष्टेन अनिर्विण्णेन
-दुःखज्ञानजप्रपत्तिशैथिल्येन हितेन मनसा योक्तव्यः कर्तव्य इत्यर्थः।  
-  
-
+दुःखज्ञानजप्रपत्तिशैथिल्येन हितेन मनसा योक्तव्यः कर्तव्य इत्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।6.23।। य एवंभूतोऽवस्थाविशेषस्तमाह **तमित्यर्धेन।** दुःखशब्देन
+॥6.23॥ य एवंभूतोऽवस्थाविशेषस्तमाह **तमित्यर्धेन।** दुःखशब्देन
 दुःखमिश्रितत्वाद्वैषयिकं सुखमपि गृह्यते। दुःखस्य संयोगेन
 स्पर्शमात्रेणापि वियोगो यस्मिंस्तमवस्थाविशेषं योगसंज्ञितं योगशब्दवाच्यं
 जानीयात्। परमात्मना क्षेत्रज्ञस्य योजनंयोगः। यद्वा दुःखसंयोगेन वियोग एव
@@ -408,14 +283,110 @@ _________________
 तथाप्यनिर्विण्णेन निर्वेदरहितेन चेतसा योक्तव्यः। दुःखबुद्ध्या
 प्रयत्नशैथिल्यं निर्वेदः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+6.23 Know this deliverance from association with misery to be Yoga. This Yoga must be practised with determination and with a mind free from despondency.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+6.23 One should know that severance of contact with sorrow to be what is called Yoga. That Yoga has to be practised with perservance and with an undepressed heart.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+6.23 This inner severance from the affliction of misery is spirituality.
+It should be practised with determination and with a heart which refuses to be depressed.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+6.23. That he would realise to be the cause for \[his\] cessation of
+\[his\] contact with misery and to be the one made known by Yoga. With determination That is to be yoked in Yoga by a person of undepressed mind (or of the depressed mind).
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+6.23 Let that be known by the name of Yoga, the severance from union with pain. This Yoga should be practised with determination and with an undesponding mind.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+6.23 तम् that; विद्यात् let (him) know; दुःखसंयोगवियोगम् a state of severnace from union with pain; योगसंज्ञितम् called by the name of Yoga;
+सः that; निश्चयेन with determination; योक्तव्यः should be practised;
+योगः Yoga; अनिर्विण्णचेतसा with undesponding mind.Commentary In verses 20; 21 and 22 the Lord describes the benefits of Yoga; viz.; perfect satisfaction by resting in the Self; infinite unending bliss; freedom from sorrow and pain; etc. He further adds that this Yoga should be practised with a firm conviction and iron determination and with nondepression of heart. A spiritual aspirant with a wavering mind will not able to attain success in Yoga. He will leave the practice when he meets with some obstacles on the path. The practitioner must also be bold; cheerful and selfreliant.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।6.23।। जिसमें दुःखोंके संयोगका ही वियोग है, उसीको 'योग' नामसे जानना
+चाहिये। (वह योग जिस ध्यानयोगका लक्ष्य है,) उस ध्यानयोगका अभ्यास न उकताये
+हुए चित्तसे निश्चयपूर्वक करना चाहिये।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+।।6.23।।***व्याख्या--*तं विद्याद्दुःखसंयोगवियोगं योगसंज्ञितम्--**जिसके
+साथ हमारा सम्बन्ध है नहीं, हुआ नहीं, होगा नहीं और होना सम्भव ही नहीं,
+ऐसे दुःखरूप संसार-शरीरके साथ सम्बन्ध मान लिया, यही 'दुःखसंयोग' है। यह
+दुःखसंयोग 'योग' नहीं है। अगर यह योग होता अर्थात् संसारके साथ हमारा
+नित्य-सम्बन्ध होता, तो इस दुःखसंयोगका कभी वियोग (सम्बन्ध-विच्छेद) नहीं
+होता। परन्तु बोध होनेपर इसका वियोग हो जाता है। इससे सिद्ध होता है कि
+दुःखसंयोग केवल हमारा माना हुआ है, हमारा बनाया हुआ है, स्वाभाविक नहीं है।
+इससे कितनी ही दृढ़तासे संयोग मान लें और कितने ही लम्बे कालतक संयोग मान
+लें, तो भी इसका कभी संयोग नहीं हो सकता। अतः हम इस माने हुए आगन्तुक
+दुःखसंयोगका वियोग कर सकते हैं। इस दुःखसंयोग-(शरीर-संसार-) का वियोग करते
+ही स्वाभाविक योग की प्राप्ति हो जातीहै अर्थात् स्वरूपके साथ हमारा जो
+नित्ययोग है, उसकी हमें अनुभूति हो जाती है। स्वरूपके साथ नित्ययोगको ही
+यहाँ 'योग' समझना चाहिये। यहाँ दुःखरूप संसारके सर्वथा वियोगको 'योग' कहा
+गया है। इससे यह असर पड़ता है कि अपने स्वरूपके साथ पहले हमारा वियोग था,
+अब योग हो गया। परन्तु ऐसी बात नहीं है। स्वरूपके साथ हमारा नित्ययोग है।
+दुःखरूप संसारके संयोगका तो आरम्भ और अन्त होता है तथा संयोगकालमें भी
+संयोगका आरम्भ और अन्त होता रहता है। परन्तु इस नित्ययोगका कभी आरम्भ और
+अन्त नहीं होता। कारण कि यह योग मन, बुद्धि आदि प्राकृत पदार्थोंसे नहीं
+होता, प्रत्युत इनके सम्बन्ध-विच्छेदसे होता है। यह नित्ययोग स्वतःसिद्ध
+है। इसमें सबकी स्वाभाविक स्थिति है। परन्तु अनित्य संसारसे सम्बन्ध मानते
+रहनेके कारण इस नित्ययोगकी विस्मृति हो गयी है। संसारसे सम्बन्ध-विच्छेद
+होते ही नित्ययोगकी स्मृति हो जाती है। इसीको अर्जुनने अठारहवें अध्यायके
+तिहत्तरवें श्लोकमें **नष्टो मोहः स्मृतिर्लब्धा** कहा है। अतः यह योग नया
+नहीं हुआ है, प्रत्युत जो नित्ययोग है, उसीकी अनुभूति हुई है।  
+  
+भगवान्ने यहाँ **योगसंज्ञतिम्** पद देकर दुःखके संयोगके वियोगका नाम 'योग'
+बताया है और दूसरे अध्यायमें **समत्वं योग उच्यते** कहकर समताको ही 'योग'
+बताया है। यहाँ साध्यरूप समताका वर्णन है और वहाँ (2। 48 में) साधनरूप
+समताका वर्णन है। ये दोनों बातें तत्त्वतः एक ही हैं; क्योंकि साधनरूप समता
+ही अन्तमें साध्यरूप समतामें परिणत हो जाती है।  
+  
+पतञ्जलि महाराजने चित्तवृत्तियोंके निरोधको 'योग' कहा
+है--**योगश्चित्तवृत्तिनिरोधः** (योगदर्शन 1। 2) और चित्तवृत्तियोंका निरोध
+होनेपर द्रष्टाकी स्वरूपमें स्थिति बतायी है--**तदा द्रष्टुः
+स्वरूपेऽवस्थानम्** (1। 3)। परन्तु यहाँ भगवान्ने **तं
+विद्याद्दुःखसंयोगवियोगं योगसंज्ञितम्** पदोंसे द्रष्टाकी स्वरूपमें
+स्थितिको ही 'योग 'कहा है, जो स्वतःसिद्ध है।  
+  
+यहाँ **तम्** कहनेका क्या तात्पर्य है; अठारहवें श्लोकमें योगीके लक्षण
+बताकर उन्नीसवें श्लोकमें दीपकके दृष्टान्तसे उसके अन्तःकरणकी स्थितिका
+वर्णन किया गया। उस ध्यानयोगीका चित्त जिस अवस्थामें उपराम हो जाता है,
+उसका संकेत बीसवें श्लोकके पूर्वार्धमें **यत्र** पदसे किया और जब उस
+योगीकी स्थिति परमात्मामें हो जाती है, उसका संकेत श्लोकके उत्तरार्धमें
+**यत्र** पदसे किया। इक्कीसवें श्लोकके पूर्वार्धमें **यत्** पदसे उस
+योगीके आत्यन्तिक सुखकी महिमा कही और उत्तरार्धमें **यत्र** पदसे उसकी
+अवस्थाका संकेत किया। बाईसवें श्लोकके पूर्वार्धमें **यम्** पदसे उस योगीके
+लाभका वर्णन किया और उत्तरार्धमें उसी लाभको **यस्मिन्** पदसे कहा। इस तरह
+बीसवें श्लोकसे बाईसवें श्लोकतक छः बार **यत् (टिप्पणी प₀ 356)** शब्दका
+प्रयोग करके योगीका जो विलक्षण स्थिति बतायी गयी है, उसीका यहाँ **तम्**
+पदे संकेत करके उसकी महिमा कही गयी है।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।6.23।। इन चार श्लोकों में योग की स्थिति का सम्पूर्ण वर्णन करते हुये
 भगवान् सब का आह्वान करते हैं कि इस योग का अभ्यास निश्चयपूर्वक करना
@@ -510,130 +481,13 @@ _________________
 आनन्दस्वरूप आत्मा में स्थित होने की आवश्यकता है। यही है दुखसंयोगवियोग
 योग। योग के संदर्भ में कुछ अवान्तर विषय का वर्णन करने के पश्चात पुन
 अभ्यास विधि का वर्णन करते हुए भगवान् कहते हैं
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।6.23।। दु:ख के संयोग से वियोग है, उसीको 'योग' नामसे जानना चाहिये । (वह
 योग जिस ध्यानयोग लक्ष्य है,) उस ध्यानयोका अभ्यास न उकताये हुए चित्तसे
 निश्चयपूर्वक करना चाहिये।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.23।। जिसमें दुःखोंके संयोगका ही वियोग है, उसीको 'योग' नामसे जानना
-चाहिये। (वह योग जिस ध्यानयोगका लक्ष्य है,) उस ध्यानयोगका अभ्यास न उकताये
-हुए चित्तसे निश्चयपूर्वक करना चाहिये।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-।।6.23।।***व्याख्या--*तं विद्याद्दुःखसंयोगवियोगं योगसंज्ञितम्--**जिसके
-साथ हमारा सम्बन्ध है नहीं, हुआ नहीं, होगा नहीं और होना सम्भव ही नहीं,
-ऐसे दुःखरूप संसार-शरीरके साथ सम्बन्ध मान लिया, यही 'दुःखसंयोग' है। यह
-दुःखसंयोग 'योग' नहीं है। अगर यह योग होता अर्थात् संसारके साथ हमारा
-नित्य-सम्बन्ध होता, तो इस दुःखसंयोगका कभी वियोग (सम्बन्ध-विच्छेद) नहीं
-होता। परन्तु बोध होनेपर इसका वियोग हो जाता है। इससे सिद्ध होता है कि
-दुःखसंयोग केवल हमारा माना हुआ है, हमारा बनाया हुआ है, स्वाभाविक नहीं है।
-इससे कितनी ही दृढ़तासे संयोग मान लें और कितने ही लम्बे कालतक संयोग मान
-लें, तो भी इसका कभी संयोग नहीं हो सकता। अतः हम इस माने हुए आगन्तुक
-दुःखसंयोगका वियोग कर सकते हैं। इस दुःखसंयोग-(शरीर-संसार-) का वियोग करते
-ही स्वाभाविक योग की प्राप्ति हो जातीहै अर्थात् स्वरूपके साथ हमारा जो
-नित्ययोग है, उसकी हमें अनुभूति हो जाती है। स्वरूपके साथ नित्ययोगको ही
-यहाँ 'योग' समझना चाहिये। यहाँ दुःखरूप संसारके सर्वथा वियोगको 'योग' कहा
-गया है। इससे यह असर पड़ता है कि अपने स्वरूपके साथ पहले हमारा वियोग था,
-अब योग हो गया। परन्तु ऐसी बात नहीं है। स्वरूपके साथ हमारा नित्ययोग है।
-दुःखरूप संसारके संयोगका तो आरम्भ और अन्त होता है तथा संयोगकालमें भी
-संयोगका आरम्भ और अन्त होता रहता है। परन्तु इस नित्ययोगका कभी आरम्भ और
-अन्त नहीं होता। कारण कि यह योग मन, बुद्धि आदि प्राकृत पदार्थोंसे नहीं
-होता, प्रत्युत इनके सम्बन्ध-विच्छेदसे होता है। यह नित्ययोग स्वतःसिद्ध
-है। इसमें सबकी स्वाभाविक स्थिति है। परन्तु अनित्य संसारसे सम्बन्ध मानते
-रहनेके कारण इस नित्ययोगकी विस्मृति हो गयी है। संसारसे सम्बन्ध-विच्छेद
-होते ही नित्ययोगकी स्मृति हो जाती है। इसीको अर्जुनने अठारहवें अध्यायके
-तिहत्तरवें श्लोकमें **नष्टो मोहः स्मृतिर्लब्धा** कहा है। अतः यह योग नया
-नहीं हुआ है, प्रत्युत जो नित्ययोग है, उसीकी अनुभूति हुई है।  
-  
-भगवान्ने यहाँ **योगसंज्ञतिम्** पद देकर दुःखके संयोगके वियोगका नाम 'योग'
-बताया है और दूसरे अध्यायमें **समत्वं योग उच्यते** कहकर समताको ही 'योग'
-बताया है। यहाँ साध्यरूप समताका वर्णन है और वहाँ (2। 48 में) साधनरूप
-समताका वर्णन है। ये दोनों बातें तत्त्वतः एक ही हैं; क्योंकि साधनरूप समता
-ही अन्तमें साध्यरूप समतामें परिणत हो जाती है।  
-  
-पतञ्जलि महाराजने चित्तवृत्तियोंके निरोधको 'योग' कहा
-है--**योगश्चित्तवृत्तिनिरोधः** (योगदर्शन 1। 2) और चित्तवृत्तियोंका निरोध
-होनेपर द्रष्टाकी स्वरूपमें स्थिति बतायी है--**तदा द्रष्टुः
-स्वरूपेऽवस्थानम्** (1। 3)। परन्तु यहाँ भगवान्ने **तं
-विद्याद्दुःखसंयोगवियोगं योगसंज्ञितम्** पदोंसे द्रष्टाकी स्वरूपमें
-स्थितिको ही 'योग 'कहा है, जो स्वतःसिद्ध है।  
-  
-यहाँ **तम्** कहनेका क्या तात्पर्य है; अठारहवें श्लोकमें योगीके लक्षण
-बताकर उन्नीसवें श्लोकमें दीपकके दृष्टान्तसे उसके अन्तःकरणकी स्थितिका
-वर्णन किया गया। उस ध्यानयोगीका चित्त जिस अवस्थामें उपराम हो जाता है,
-उसका संकेत बीसवें श्लोकके पूर्वार्धमें **यत्र** पदसे किया और जब उस
-योगीकी स्थिति परमात्मामें हो जाती है, उसका संकेत श्लोकके उत्तरार्धमें
-**यत्र** पदसे किया। इक्कीसवें श्लोकके पूर्वार्धमें **यत्** पदसे उस
-योगीके आत्यन्तिक सुखकी महिमा कही और उत्तरार्धमें **यत्र** पदसे उसकी
-अवस्थाका संकेत किया। बाईसवें श्लोकके पूर्वार्धमें **यम्** पदसे उस योगीके
-लाभका वर्णन किया और उत्तरार्धमें उसी लाभको **यस्मिन्** पदसे कहा। इस तरह
-बीसवें श्लोकसे बाईसवें श्लोकतक छः बार **यत् (टिप्पणी प₀ 356)** शब्दका
-प्रयोग करके योगीका जो विलक्षण स्थिति बतायी गयी है, उसीका यहाँ **तम्**
-पदे संकेत करके उसकी महिमा कही गयी है।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-6.23. That he would realise to be the cause for \[his\] cessation of
-\[his\] contact with misery and to be the one made known by Yoga. With determination That is to be yoked in Yoga by a person of undepressed mind (or of the depressed mind).
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-6.23 One should know that severance of contact with sorrow to be what is called Yoga. That Yoga has to be practised with perservance and with an undepressed heart.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-6.23 This inner severance from the affliction of misery is spirituality.
-It should be practised with determination and with a heart which refuses to be depressed.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-6.23 Know this deliverance from association with misery to be Yoga. This Yoga must be practised with determination and with a mind free from despondency.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-6.23 Let that be known by the name of Yoga, the severance from union with pain. This Yoga should be practised with determination and with an undesponding mind.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-6.23 तम् that; विद्यात् let (him) know; दुःखसंयोगवियोगम् a state of severnace from union with pain; योगसंज्ञितम् called by the name of Yoga;
-सः that; निश्चयेन with determination; योक्तव्यः should be practised;
-योगः Yoga; अनिर्विण्णचेतसा with undesponding mind.Commentary In verses 20; 21 and 22 the Lord describes the benefits of Yoga; viz.; perfect satisfaction by resting in the Self; infinite unending bliss; freedom from sorrow and pain; etc. He further adds that this Yoga should be practised with a firm conviction and iron determination and with nondepression of heart. A spiritual aspirant with a wavering mind will not able to attain success in Yoga. He will leave the practice when he meets with some obstacles on the path. The practitioner must also be bold; cheerful and selfreliant.
-
-</details>
 </div>

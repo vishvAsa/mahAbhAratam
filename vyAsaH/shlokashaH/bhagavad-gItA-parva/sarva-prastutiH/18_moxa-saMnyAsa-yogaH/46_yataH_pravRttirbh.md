@@ -1,155 +1,55 @@
 +++
 title = "46 यतः प्रवृत्तिर्भूतानाम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 यतः प्रवृत्तिर् भूतानां  
 येन सर्वम् इदं ततम्।  
 **स्व-कर्मणा** तम् **अभ्यर्च्य**  
 सिद्धिं विन्दति मानवः॥18.46॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम्।  
-स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः।।18.46।।
+स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः॥18.46॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।18.46।।**यतो भूतानाम्** उत्पत्त्यादिका प्रवृत्तिः; **येन च सर्वम् इदं
-ततं स्वकर्मणां तं** माम् इन्द्राद्यन्तरात्मतयावस्थितम् **अभ्यर्च्य**
-मत्प्रसादात् मत्प्राप्तिरूपां **सिद्धिं विन्दति मानवः। मत्त एव सर्वम्
-उत्पद्यते; मया च सर्वम् इदम् ततम् इति पूर्वम् एव उक्तम् -- अहं
-कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा।। मत्तः परतर नान्यत्किञ्चिदस्ति धनंजय।
-(गीता 7।67)मया ततमिदं सर्वं जगदव्यक्तमूर्तिना। (गीता 9।4)मयाध्यक्षेण
-प्रकृतिः सूयते सचराचरम्।। (गीता 9।10)अहं सर्वस्य प्रभवो मत्तः सर्वं
-प्रवर्तते। (गीता 10।8) इत्यादिषु।**
-
+॥18.46॥**यतो भूतानाम्** उत्पत्त्यादिका प्रवृत्तिः; **येन च सर्वम् इदं ततं स्वकर्मणां तं** माम् इन्द्राद्यन्तरात्मतयावस्थितम् **अभ्यर्च्य** मत्प्रसादान् मत्प्राप्तिरूपां **सिद्धिं विन्दति मानवः। मत्त एव सर्वम् उत्पद्यते; मया च सर्वम् इदं ततम् इति पूर्वम् एव उक्तम् -- अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा॥ मत्तः परतर नान्यत्किञ्चिदस्ति धनञ्जय। (गीता 7।67)मया ततमिदं सर्वं जगदव्यक्तमूर्तिना। (गीता 9।4)मयाध्यक्षेण प्रकृतिः सूयते सचराचरम्॥ (गीता 9।10)अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते। (गीता 10।8) इत्यादिषु।**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.46।। सर्वकारणभूतः सर्वान्तर्यामी परमात्मा
-स्वसृज्यत्वशरीरभूतेन्द्रादिवाचकैः शब्दैराम्नायत इति
-तत्समाराधनत्वात्संसिद्धिसाधनत्वं वर्णाश्रमधर्माणामुपपन्नमित्युच्यतेयतः
-प्रवृत्तिः इति श्लोकेन। प्रवृत्तिशब्दस्यात्र
-चेष्टामात्रपरत्वव्युदासायाऽऽहउत्पत्त्यादिकेति।
-चेतनाचेतनवाचिभूतशब्दसमन्वितः प्रवृत्तिशब्दोऽत्र
-विशेषकाभावात्सर्वविधव्यापारसङ्ग्राहक इति भावः। सर्वविधकारणत्वोपयुक्त
-आकार उच्यतेयेन सर्वमिदं ततम् इति। ततं नियन्तृत्वेनेति हृदयम्। तम् इति
-परोक्षतया निर्दिष्टःकथं मामिति व्याख्यायते इति शङ्कायांयतः इत्यनुवादस्य
-प्राप्त्यर्थं पुरोवादं स्मारयति -- मत्त एवेति।
-कारणत्वसर्वाधिकत्वसर्वव्यापित्वसर्वनियन्तृत्वादिषु यथासम्भवं वचनानि
-योज्यानि।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥18.46॥ सर्वकारणभूतः सर्वान्तर्यामी परमात्मा स्वसृज्यत्वशरीरभूतेन्द्रादिवाचकैः शब्दैराम्नायत इति तत्समाराधनत्वात्संसिद्धिसाधनत्वं वर्णाश्रमधर्माणामुपपन्नमित्युच्यतेयतः प्रवृत्तिः इति श्लोकेन। प्रवृत्तिशब्दस्यात्र चेष्टामात्रपरत्वव्युदासायाऽऽहउत्पत्त्यादिकेति। चेतनाचेतनवाचिभूतशब्दसमन्वितः प्रवृत्तिशब्दोऽत्र विशेषकाभावात्सर्वविधव्यापारसङ्ग्राहक इति भावः। सर्वविधकारणत्वोपयुक्त आकार उच्यतेयेन सर्वमिदं ततम् इति। ततं नियन्तृत्वेनेति हृदयम्। तम् इति परोक्षतया निर्दिष्टःकथं मामिति व्याख्यायते इति शङ्कायांयतः इत्यनुवादस्य प्राप्त्यर्थं पुरोवादं स्मारयति -- मत्त एवेति। कारणत्वसर्वाधिकत्वसर्वव्यापित्वसर्वनियन्तृत्वादिषु यथासम्भवं वचनानि योज्यानि।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.46 He from whom arise all activities as origination of all beings and by whom all this is pervaded, by worshipping Him, i.e., Myself, who abide in Indra and other divinites as the Inner Ruler, man attains perfection, consisting in the attainment of Myself by My grace. It has been told before that everything originates from Me and all this is pervaded by Me, in texts like the following: 'I am the origin and dissolution of the whole universe' (7.6), 'There is nothing higher than Myself, O Arjuna' (7.7), 'This entire universe is pervaded by Me in an unmanifest form' (9.4), 'Under My supervision, the Prakrti gives birth to all mobile and immobile entities' (9.10) and 'I am the origin of all;
-from Me proceed everything' (10.8).
+<details><summary>आदिदेवानन्दः</summary>
 
+18.46 He from whom arise all activities as origination of all beings and by whom all this is pervaded, by worshipping Him, i.e., Myself, who abide in Indra and other divinites as the Inner Ruler, man attains perfection, consisting in the attainment of Myself by My grace. It has been told before that everything originates from Me and all this is pervaded by Me, in texts like the following: 'I am the origin and dissolution of the whole universe' (7.6), 'There is nothing higher than Myself, O Arjuna' (7.7), 'This entire universe is pervaded by Me in an unmanifest form' (9.4), 'Under My supervision, the Prakrti gives birth to all mobile and immobile entities' (9.10) and 'I am the origin of all; from Me proceed everything' (10.8).
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.41 -- 18.60।। एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च
-प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह
-ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
--- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
-स्वधर्मप्रवृत्त्या विज्ञानपूततया च न कर्मसंबन्धस्तव। अथैतन्नानुमन्यसे;
-तदवश्यं तव प्रवृत्त्या तावत् भाव्यम् जातेरेव तथाभावे स्थितत्वात्। यतः
-सर्वः स्वभावनियतः +++(S;;N स्वस्वभावनियतः )+++ कुतश्चिद्दोषात्
-तिरोहिततत्स्वभावः +++(S;;N -- हिततत्तत्स्वभावः )+++ कंचित्कालं भूत्वापि;
-तत्तिरोधायकविगमे स्वभावं व्यक्त्यापन्नं लभत एव। तथाहि एवंविधो वर्णनां
-स्वभावः। एवमवश्यंभाविन्यां प्रवृत्तौ ततः फलविभागिता भवेत्।। तदाह --
-ब्राह्मणेत्यादि अवशोऽपि तत् इत्यन्तम्। ब्राह्मणादीनां
-कर्मप्रविभागनिरूपणस्य स्वभावोऽश्यं नातिक्रामति,+++(S; ; N omit न and read
-अतिक्रामति )+++ इति क्षत्रियस्वभावस्य भवतोऽनिच्छतोऽपि प्रकृतिः स्वभावाख्या
-नियोक्तृताम् अव्यभिचारेण भजते। केवलं तया नियुक्तस्य पुण्यपापसंबन्धः। अतः
-मदभिहितविज्ञानप्रमाणपुरःसरीकारेण कर्माण्यनुतिष्ठ। तथा सति बन्धो
-निवर्त्स्यति। इत्यस्यार्थस्य परिकरघटनतात्पर्यं +++(S; ; N -- करबन्धघटन --
-)+++ महावाक्यार्थस्य। अवान्तरवाक्यानां स्पष्टा ( ष्टोऽ ) र्थः। समासेन +++(S
-omits समासेन )+++ ( श्लो. 50 ) संक्षेपेण। ज्ञानस्य; प्रागुक्तस्य। निष्ठां (
-ष्ठा ) वाग्जालपरिहारेण निश्चितामाह। बुद्ध्या विशुद्धया इत्यादि सर्वमेतत्
-व्याख्यातप्रायमिति न पुनरायस्यते,+++(N -- रारभ्यते )+++।
-
+॥18.46॥ --,**यतः** यस्मात् **प्रवृत्तिः** उत्पत्तिः चेष्टा वा यस्मात् अन्तर्यामिणः ईश्वरात् **भूतानां** प्राणिनां स्यात्; **येन** ईश्वरेण **सर्वम् इदं ततं** जगत् व्याप्तम् **स्वकर्मणा** पूर्वोक्तेन प्रतिवर्णं **तम्** ईश्वरम् **अभ्यर्च्य** पूजयित्वा आराध्य केवलं ज्ञाननिष्ठायोग्यतालक्षणां **सिद्धिं विन्दति** **मानवः** मनुष्यः॥ यतः एवम्; अतः --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.46 See Comment under 18.60
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।18.46।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।18.46।। Sri Jayatirtha did not comment on this sloka.  
-  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।18.46।। --,**यतः** यस्मात् **प्रवृत्तिः** उत्पत्तिः चेष्टा वा यस्मात्
-अन्तर्यामिणः ईश्वरात् **भूतानां** प्राणिनां स्यात्; **येन** ईश्वरेण
-**सर्वम् इदं ततं** जगत् व्याप्तम् **स्वकर्मणा** पूर्वोक्तेन प्रतिवर्णं
-**तम्** ईश्वरम् **अभ्यर्च्य** पूजयित्वा आराध्य केवलं
-ज्ञाननिष्ठायोग्यतालक्षणां **सिद्धिं विन्दति** **मानवः** मनुष्यः।। यतः
-एवम्; अतः --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।18.46।। जिस अन्तर्यामी ईश्वरसे समस्त प्राणियोंकी प्रवृत्ति यानी
-उत्पत्ति या चेष्टा होती है और जिस ईश्वरसे यह सारा जगत् व्याप्त है; उस
-ईश्वरको प्रत्येक वर्णके लिये पहले बतलाये हुए अपने कर्मोंद्वारा पूजकर --
-उसकी आराधना करके मनुष्य केवल ज्ञाननिष्ठाकी योग्यतारूप सिद्धि प्राप्त कर
-लेता है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 18.46 Manavah, a human being; vindati, achieves; siddhim, success,
 merely in the form of the ability for steadfastness in Knowledge;
@@ -159,13 +59,20 @@ whom, from which God; comes pravrttih, origin,-or, from which internal
 Ruler comes the activities; ;bhutanam, of creatures, of living beings;
 and yena, by whom, by which God; is tatam, pervaded; sarvam, all; idam,
 this world. Since this is so, therefore,
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।18.46।। तमेव प्रकारं स्फुटयति -- **यत इति।** यतःशब्दार्थं
+<details><summary>हरिकृष्णदासः</summary>
+
+॥18.46॥ जिस अन्तर्यामी ईश्वरसे समस्त प्राणियोंकी प्रवृत्ति यानी
+उत्पत्ति या चेष्टा होती है और जिस ईश्वरसे यह सारा जगत् व्याप्त है; उस
+ईश्वरको प्रत्येक वर्णके लिये पहले बतलाये हुए अपने कर्मोंद्वारा पूजकर --
+उसकी आराधना करके मनुष्य केवल ज्ञाननिष्ठाकी योग्यतारूप सिद्धि प्राप्त कर
+लेता है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥18.46॥ तमेव प्रकारं स्फुटयति -- **यत इति।** यतःशब्दार्थं
 यस्मादित्युक्तं व्यक्तीकरोति -- **यस्मादिति।**
 प्राणिनामुत्पत्तिर्यस्मादीश्वरात्तेषां चेष्टा च यस्मादन्तर्यामिणो येन च
 सर्वं व्याप्तं मृदेव घटादिकार्यस्य कारणातिरिक्तस्वरूपाभावात्तं
@@ -175,13 +82,30 @@ this world. Since this is so, therefore,
 कर्म,सुफलमपश्यतामीश्वरप्रसादासादितविवेकवैराग्यवतां संन्यासिनां
 ज्ञाननिष्ठयोग्यतावतां ज्ञानप्राप्त्या मुक्तिरित्यभिप्रेत्याह --
 **केवलमिति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।18.46।। यत इति। यतो
+<details><summary>नीलकण्ठः</summary>
+
+॥18.46॥ तमेव प्रकारमाह -- **यत इति।** प्रवृत्तिः कायवाङ्मनोनिर्वर्त्या
+चेष्टा। यतो हेतोरन्तर्यामिणः। येन वागभ्युद्यते इत्यादिश्रुतेः। येन इदं
+सर्वं दृश्यं ततं व्याप्तं उपादानत्वात्। स्वकर्मणा तमभ्यर्च्य संतर्प्य
+सिद्धिं मोक्षं विन्दति लभते मानवः। मनुष्याधिकारिकत्वाच्छास्त्रस्य।
+परमेश्वरे नित्यकर्मणामर्पणमेव मोक्षद्वारमित्यर्थः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥18.46॥ तमेव प्रकारं दर्शयति -- यतः यस्मात् जगज्जनकादन्तर्यामिणो
+भूतानां। प्रवृत्तिरुत्पत्तिश्चेष्टा वा स्यात्। येनेश्वरेण सर्वं
+कृत्स्त्रमिदं ततं व्याप्तं कार्यस्य कारणसत्तातिरिक्तसत्ताकत्वाभावात्। तं
+परमात्मानं स्वकर्मणा प्रतिवर्ण पूर्वोक्तेन अभ्यर्च्य सभ्यक् पूजयित्वा
+आराध्य मानवोऽधिकृतो मनुष्यः सिद्धिं केवलज्ञाननिष्ठायोग्यतालक्षणां
+विन्दति लभते।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥18.46॥ यत इति। यतो
 मायोपाधिकचैतन्यानन्दघनात्सर्वज्ञात्सर्वशक्तेरीश्वरादुपादानान्निमित्ताच्च
 सर्वान्तर्यामिणः प्रवृत्तिरुत्पत्तिर्मायामयी स्वाप्नरथादीनामिव भूतानां
 भवनधर्मणामाकाशादीनां येन चैकेन सद्रूपेण स्फुरणरूपेण च सर्वमिदं दृश्यजातं
@@ -197,130 +121,116 @@ this world. Since this is so, therefore,
 प्रतिवर्णाश्रमं विहितेनाभ्यर्च्य तोषयित्वा
 तत्प्रसादादैकात्म्यज्ञाननिष्ठायोग्यतालक्षणां सिद्धिमन्तःकरणशुद्धिं
 विन्दति मानवो; देवादिस्तूपासनामात्रेणेति भावः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।18.46।। तमेव प्रकारमाह -- **यत इति।** प्रवृत्तिः कायवाङ्मनोनिर्वर्त्या
-चेष्टा। यतो हेतोरन्तर्यामिणः। येन वागभ्युद्यते इत्यादिश्रुतेः। येन इदं
-सर्वं दृश्यं ततं व्याप्तं उपादानत्वात्। स्वकर्मणा तमभ्यर्च्य संतर्प्य
-सिद्धिं मोक्षं विन्दति लभते मानवः। मनुष्याधिकारिकत्वाच्छास्त्रस्य।
-परमेश्वरे नित्यकर्मणामर्पणमेव मोक्षद्वारमित्यर्थः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।18.46।। तमेव प्रकारं दर्शयति -- यतः यस्मात् जगज्जनकादन्तर्यामिणो
-भूतानां। प्रवृत्तिरुत्पत्तिश्चेष्टा वा स्यात्। येनेश्वरेण सर्वं
-कृत्स्त्रमिदं ततं व्याप्तं कार्यस्य कारणसत्तातिरिक्तसत्ताकत्वाभावात्। तं
-परमात्मानं स्वकर्मणा प्रतिवर्ण पूर्वोक्तेन अभ्यर्च्य सभ्यक् पूजयित्वा
-आराध्य मानवोऽधिकृतो मनुष्यः सिद्धिं केवलज्ञाननिष्ठायोग्यतालक्षणां
-विन्दति लभते।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.46।। तत्प्रकारमाह सार्द्धेन -- स्वकर्मेति। स्पष्टम्। यतः प्रवृत्तिः
+॥18.46॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥18.46॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
+-- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
+स्वधर्मप्रवृत्त्या विज्ञानपूततया च न कर्मसंबन्धस्तव। अथैतन्नानुमन्यसे; तदवश्यं तव प्रवृत्त्या तावत् भाव्यम् जातेरेव तथाभावे स्थितत्वात्। यतः सर्वः स्वभावनियतः +++(S;;N स्वस्वभावनियतः )+++ कुतश्चिद्दोषात् तिरोहिततत्स्वभावः +++(S;;N -- हिततत्तत्स्वभावः )+++ कंचित्कालं भूत्वापि; तत्तिरोधायकविगमे स्वभावं व्यक्त्यापन्नं लभत एव। तथाहि एवंविधो वर्णनां स्वभावः। एवमवश्यंभाविन्यां प्रवृत्तौ ततः फलविभागिता भवेत्॥ तदाह -- ब्राह्मणेत्यादि अवशोऽपि तत् इत्यन्तम्। ब्राह्मणादीनां कर्मप्रविभागनिरूपणस्य स्वभावोऽश्यं नातिक्रामति,+++(S; ; N omit न and read अतिक्रामति )+++ इति क्षत्रियस्वभावस्य भवतोऽनिच्छतोऽपि प्रकृतिः स्वभावाख्या नियोक्तृताम् अव्यभिचारेण भजते। केवलं तया नियुक्तस्य पुण्यपापसंबन्धः। अतः मदभिहितविज्ञानप्रमाणपुरःसरीकारेण कर्माण्यनुतिष्ठ। तथा सति बन्धो निवर्त्स्यति। इत्यस्यार्थस्य परिकरघटनतात्पर्यं +++(S; ; N -- करबन्धघटन -- )+++ महावाक्यार्थस्य। अवान्तरवाक्यानां स्पष्टा ( ष्टोऽ ) र्थः। समासेन +++(S omits समासेन )+++ ( श्लो. 50 ) संक्षेपेण। ज्ञानस्य; प्रागुक्तस्य। निष्ठां ( ष्ठा ) वाग्जालपरिहारेण निश्चितामाह। बुद्ध्या विशुद्धया इत्यादि सर्वमेतत् व्याख्यातप्रायमिति न पुनरायस्यते,+++(N -- रारभ्यते )+++।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.46 See Comment under 18.60
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.46॥ तत्प्रकारमाह सार्द्धेन -- स्वकर्मेति। स्पष्टम्। यतः प्रवृत्तिः
 प्रसृता पुराणी \[15।4\] ब्रह्मणा येनाक्षरेण भगवत्स्वरूपेणेदं ततं
 तमेवाभ्यर्च्य; न तु देवान्तरं; तदा सिद्धिं मुक्तिं प्राप्नोति
 स्वकर्मणेति द्रढयति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.46।। तं प्रकारमेवाऽऽह -- यत इति। यतो भगवतः भूतानां प्राणिनां
+<details><summary>पुरुषोत्तमः</summary>
+
+॥18.46॥ तं प्रकारमेवाऽऽह -- यत इति। यतो भगवतः भूतानां प्राणिनां
 प्रवृत्तिरुत्पत्तिर्भवति; सर्वकर्मसु वा यतः प्रवृत्तिः प्रकर्षेण
 वर्तनमनुसरणं भवति; येन कारणरूपेण इदं सर्वं विश्वं ततं व्याप्तं; तं
 भगवन्तं स्वकर्मणा आत्मकर्मणा भक्त्या अभ्यच्य सम्पूज्य मानवः मनोर्जातो
-मनुष्यः सद्धर्मरूपः सिद्धिं विन्दति लभत इत्यर्थः।  
-  
-
+मनुष्यः सद्धर्मरूपः सिद्धिं विन्दति लभत इत्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।18.46।। तमेवाह **-- यत इति।** यतोऽन्तर्यामिणः परमेश्वराद्भूतानां
+॥18.46॥ तमेवाह **-- यत इति।** यतोऽन्तर्यामिणः परमेश्वराद्भूतानां
 प्राणिनां प्रवृत्तिश्चेष्टा भवति। येन च कारणात्मना सर्वमिदं विश्वं ततं
 व्याप्तं तमीश्वरं स्वकर्मणाऽभ्यर्च्य पूजयित्वा सिद्धिं लभते मनुष्यः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।18.46।। जब मनुष्य अपने स्वभाव (वर्ण) तथा स्वधर्म (आश्रम; जैसे
-ब्रह्मचर्य; गृहस्थ आदि) के अनुसार कर्म करता है तब उसकी पूर्वार्जित
-वासनाओं का क्षय होता जाता है। यह वासना निवृत्ति तथा इसके फलस्वरूप
-प्राप्त होने वाली चित्त की शुद्धि और शान्ति तभी संभव होती है; जब मनुष्य
-अपने अहंकार को त्यागकर ईश्वरार्पण की भावना से कर्म करना सीख लेता
-है। लौकिक कर्तव्यों में यह नियम देखा जाता है कि जिस स्रोत से हमें कार्य
-करने की शक्ति और फल प्राप्ति होती है; उसके प्रीत्यर्थ कर्म करना हमारा
-कर्तव्य समझा जाता है। उदाहरणार्थ; सरकारी नौकरी करने वालों का कर्तव्य
-होता है कि अपने पद का कार्यभार सम्भालते हुए सरकार के लिए कार्य करें;
-क्योंकि सरकार ही उन्हें कार्य करने का अधिकार और वेतन प्रदान करती है। यदि
-कोई मनुष्य उस सरकार की शक्ति को विस्मृत कर अपने अधिकार का उपयोग
-स्वार्थसिद्धि में करता है; तो वह कर्म उसके लिए बन्धन कारक बन जाता है।
-इसके विपरीत अर्पण की भावना से कार्य करने पर बन्धन तो होते ही नहीं; अपितु
-उनकी पदोन्नति भी होती है। इसी प्रकार; हमको उस परमेश्वर का स्मरण करते हुए
-अपने कर्म करने चाहिए; जिससे हमें इन्द्रियाँ; मन आदि उपाधियों तथा उनकी
-क्षमताओं का प्राप्ति हुई है। हमारा कर्तव्य पालन ही ईश्वर की पूजा हो। इस
-श्लोक में भगवान् श्रीकृष्ण का यही उपदेश है कि सभी वर्णाश्रमों के
-मनुष्यों को अपने कर्तव्यों के पालन द्वारा जगत्कारण परमात्मा का पूजन करना
-चाहिए। ईश्वरार्पण की भावना से कार्य करने में अहंकार सर्वथा लुप्त हो जाता
-है। अहंकार के अभाव में पूर्वार्जित वासनाओं का क्षय होता है और नवीन
-बन्धनकारक वासनाएं उत्पन्न नहीं होती। इस प्रकार; कर्म के नियमानुसार लौकिक
-फल की प्राप्ति तो होती ही है; किन्तु उसके अतिरिक्त चित्त की शुद्धि भी
-प्राप्त होती है। जिसका अन्तकरण शुद्ध होता है; वही पुरुष परमात्मस्वरूप की
-अनुभूति को प्राप्त हो सकता है। यही वास्तविक सिद्धि है। इस प्रकार हम देखते
-हैं कि अपने कर्म के पालन में पूजन की भावना आ जाने पर हमारा कार्यक्षेत्र
-ही मन्दिर या तीर्थस्थान बन सकता है। स्वकर्म पालन में ही सिद्धि प्राप्त हो
-सकती है इसलिए
-
+18.46 He from whome arise the activity of all beings and by whom all this is pervaded - by worshipping Him with his own duty man reaches perfection.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.46।। जिस (परमात्मा) से भूतमात्र की प्रवृत्ति अर्थात् उत्पत्ति हुई
-है और जिससे यह सम्पूर्ण जगत् व्याप्त है, उस (परमात्मा) की स्वकर्म द्वारा
-पूजा करके मनुष्य सिद्धि को प्राप्त होता है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+18.46 A human being achieves success by adoring through his own duties Him from whom is the origin of creatures, and by whom is all this pervaded.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+18.46 Man reaches perfection by dedicating his actions to God, Who is the source of all being, and fills everything.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.46. That, whence the activities of the beings arise; by which this universe is pervaded-worshipping That by one's own prescribed action, a man attains success.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+18.46 He from Whom all the beings have evolved and by Whom all this is pervaded worshipping Him with his own duty, man attains perfection.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+18.46 यतः from whom; प्रवृत्तिः (is) the evolution; भूतानाम् of beings;
+येन by whom; सर्वम् all; इदम् this; ततम् is pervaded; स्वकर्मणा with his own duty; तम् Him; अभ्यर्च्य worshipping; सिद्धिम् perfection; विन्दति
+attains; मानवः man.Commentary The performance by a man of his own duty is simply carrying into effect the intention of the Supreme from Whom the whole of the creation emanates. When a man worships Him; the Supreme Being; with the flowers of his action; then He is immensely pleased and being thus gratified by such worship He confers on Him; as a boon;
+dispassion and discrimination.Pravritti Evolution or activity it proceeds from the Lord; the Antaryamin; the Inner Ruler.Bhutanam Beings living creatures.Svakarmana With his own duty each according to his caste as described above.Man attains perfection by worshipping the Lord by performing his own duty; i.e.; he becomes alified for the dawn of Selfknowledge (for Jnana Yoga).
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.46।। जिस परमात्मासे सम्पूर्ण प्राणियोंकी उत्पत्ति होती है और जिससे
 यह सम्पूर्ण संसार व्याप्त है, उस परमात्माका अपने कर्मके द्वारा पूजन करके
 मनुष्य सिद्धिको प्राप्त हो जाता है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।18.46।।***व्याख्या --***  **यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम्
 --** जिस परमात्मासे संसार पैदा हुआ है; जिससे सम्पूर्ण संसारका संचालन
@@ -437,55 +347,44 @@ _________________
 --***  स्वभावज (सहज) कर्मोंको निष्कामभावपूर्वक और पूजाबुद्धिसे करते हुए
 उसमें कोई कमी रह भी जाय; तो भी उसमें साधकको हताश नहीं होना चाहिये --
 इसको आगेके दो श्लोकोंमें बताते हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-18.46. That, whence the activities of the beings arise; by which this universe is pervaded-worshipping That by one's own prescribed action, a man attains success.
-
+।।18.46।। जब मनुष्य अपने स्वभाव (वर्ण) तथा स्वधर्म (आश्रम; जैसे
+ब्रह्मचर्य; गृहस्थ आदि) के अनुसार कर्म करता है तब उसकी पूर्वार्जित
+वासनाओं का क्षय होता जाता है। यह वासना निवृत्ति तथा इसके फलस्वरूप
+प्राप्त होने वाली चित्त की शुद्धि और शान्ति तभी संभव होती है; जब मनुष्य
+अपने अहंकार को त्यागकर ईश्वरार्पण की भावना से कर्म करना सीख लेता
+है। लौकिक कर्तव्यों में यह नियम देखा जाता है कि जिस स्रोत से हमें कार्य
+करने की शक्ति और फल प्राप्ति होती है; उसके प्रीत्यर्थ कर्म करना हमारा
+कर्तव्य समझा जाता है। उदाहरणार्थ; सरकारी नौकरी करने वालों का कर्तव्य
+होता है कि अपने पद का कार्यभार सम्भालते हुए सरकार के लिए कार्य करें;
+क्योंकि सरकार ही उन्हें कार्य करने का अधिकार और वेतन प्रदान करती है। यदि
+कोई मनुष्य उस सरकार की शक्ति को विस्मृत कर अपने अधिकार का उपयोग
+स्वार्थसिद्धि में करता है; तो वह कर्म उसके लिए बन्धन कारक बन जाता है।
+इसके विपरीत अर्पण की भावना से कार्य करने पर बन्धन तो होते ही नहीं; अपितु
+उनकी पदोन्नति भी होती है। इसी प्रकार; हमको उस परमेश्वर का स्मरण करते हुए
+अपने कर्म करने चाहिए; जिससे हमें इन्द्रियाँ; मन आदि उपाधियों तथा उनकी
+क्षमताओं का प्राप्ति हुई है। हमारा कर्तव्य पालन ही ईश्वर की पूजा हो। इस
+श्लोक में भगवान् श्रीकृष्ण का यही उपदेश है कि सभी वर्णाश्रमों के
+मनुष्यों को अपने कर्तव्यों के पालन द्वारा जगत्कारण परमात्मा का पूजन करना
+चाहिए। ईश्वरार्पण की भावना से कार्य करने में अहंकार सर्वथा लुप्त हो जाता
+है। अहंकार के अभाव में पूर्वार्जित वासनाओं का क्षय होता है और नवीन
+बन्धनकारक वासनाएं उत्पन्न नहीं होती। इस प्रकार; कर्म के नियमानुसार लौकिक
+फल की प्राप्ति तो होती ही है; किन्तु उसके अतिरिक्त चित्त की शुद्धि भी
+प्राप्त होती है। जिसका अन्तकरण शुद्ध होता है; वही पुरुष परमात्मस्वरूप की
+अनुभूति को प्राप्त हो सकता है। यही वास्तविक सिद्धि है। इस प्रकार हम देखते
+हैं कि अपने कर्म के पालन में पूजन की भावना आ जाने पर हमारा कार्यक्षेत्र
+ही मन्दिर या तीर्थस्थान बन सकता है। स्वकर्म पालन में ही सिद्धि प्राप्त हो
+सकती है इसलिए
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.46 A human being achieves success by adoring through his own duties Him from whom is the origin of creatures, and by whom is all this pervaded.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।18.46।। जिस (परमात्मा) से भूतमात्र की प्रवृत्ति अर्थात् उत्पत्ति हुई
+है और जिससे यह सम्पूर्ण जगत् व्याप्त है, उस (परमात्मा) की स्वकर्म द्वारा
+पूजा करके मनुष्य सिद्धि को प्राप्त होता है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.46 Man reaches perfection by dedicating his actions to God, Who is the source of all being, and fills everything.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-18.46 He from whome arise the activity of all beings and by whom all this is pervaded - by worshipping Him with his own duty man reaches perfection.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-18.46 He from Whom all the beings have evolved and by Whom all this is pervaded worshipping Him with his own duty, man attains perfection.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-18.46 यतः from whom; प्रवृत्तिः (is) the evolution; भूतानाम् of beings;
-येन by whom; सर्वम् all; इदम् this; ततम् is pervaded; स्वकर्मणा with his own duty; तम् Him; अभ्यर्च्य worshipping; सिद्धिम् perfection; विन्दति
-attains; मानवः man.Commentary The performance by a man of his own duty is simply carrying into effect the intention of the Supreme from Whom the whole of the creation emanates. When a man worships Him; the Supreme Being; with the flowers of his action; then He is immensely pleased and being thus gratified by such worship He confers on Him; as a boon;
-dispassion and discrimination.Pravritti Evolution or activity it proceeds from the Lord; the Antaryamin; the Inner Ruler.Bhutanam Beings living creatures.Svakarmana With his own duty each according to his caste as described above.Man attains perfection by worshipping the Lord by performing his own duty; i.e.; he becomes alified for the dawn of Selfknowledge (for Jnana Yoga).
-
-</details>
 </div>

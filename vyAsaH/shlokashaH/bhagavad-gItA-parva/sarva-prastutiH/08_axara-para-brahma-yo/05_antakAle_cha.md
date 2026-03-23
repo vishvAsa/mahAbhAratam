@@ -1,191 +1,58 @@
 +++
 title = "05 अन्तकाले च"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **अन्तकाले** च माम् एव  
 **स्मरन्** मुक्त्वा कलेवरम्।  
 यः प्रयाति स **मद्-भावं**  
 **याति**, नास्त्य् अत्र संशयः॥8.5॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/05_antakAle_cha.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्।  
-यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः।।8.5।।
+यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः॥8.5॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
 इदमपि त्रयाणां साधारणम् --
 
-।।8.5।।**अन्तकाले च माम् एव स्मरन् कलेवरं** त्यक्त्वाः **यः प्रयाति स
-मद्भावं याति।** मम यो भावः स्वभावः तं याति तदानीं यथा माम् अनुसंधत्ते
-तथाविधाकारो भवति इत्यर्थः। यथा आदिभरतादयः तदानीं
-स्मर्यमाणमृगसजातीयाकाराः संभूताः। स्मर्तुः स्वविषयसजातीयाकारतापादनम्
-अन्त्यप्रत्ययस्य स्वभाव इति सुस्पष्टम् आह --
-
+॥8.5॥**अन्तकाले च माम् एव स्मरन् कलेवरं** त्यक्त्वाः **यः प्रयाति स मद्भावं याति।** मम यो भावः स्वभावस् तं याति तदानीं यथा माम् अनुसन्धत्ते तथाविधाकारो भवति इत्यर्थः। यथा आदिभरतादयस् तदानीं स्मर्यमाणमृगसजातीयाकाराः सम्भूताः। स्मर्तुः स्वविषयसजातीयाकारतापादनम् अन्त्यप्रत्ययस्य स्वभाव इति सुस्पष्टम् आह --
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।8.5।। प्रयाणकाले \[8।2\] इत्यस्य प्रश्नस्य सङ्ग्रहेणोत्तरंअन्तकाले इति
-श्लोकः। अतो न ज्ञानिमात्रविषय इत्यभिप्रायेणाह -- इदमपीति।
-अधियज्ञपदार्थस्वाभाव्याद्वक्ष्यमाणप्रकाराच्चेति भावः। अन्वयं दर्शयति --
-अन्तकाले चेति। मद्भावं याति इत्यत्र
-श्रुत्यादिविरुद्धतादात्म्यावाप्तिभ्रमव्युदासायाहमम यो भाव इति।
-नन्वीश्वरस्वभावप्राप्तावस्यापि कृशोदरीनीडनिहितकीटस्य
-तज्जातीयत्ववदीश्वरान्तरत्वप्रसङ्गः त्रयाणामधिकारिणां
-गुणाष्टकरूपेश्वरस्वभावप्राप्त्यविशेषेऽधिकारिभेदश्च न स्यादित्यत आह --
-तदानीमिति। तत्तदनुसन्धेयाकारविशेषसाम्यप्राप्तिर्विवक्षिता। साम्यं च
-स्वरूपभेदकवैधर्म्ये स्थिते सत्येवेति न कश्चिद्दोष इति भावः। एवं प्रश्नाः
-प्रत्युक्ताः। नास्त्यत्र संशयः इत्यनेन अभिप्रेतां प्रयोजकप्रसिद्धिं
-दर्शयति -- यथाऽऽदिभरतादय इति। एतेनोदाहरणेनापि तादात्म्यभ्रमो निरस्तः न
-ह्यादिभरतस्य स्मर्यमाणमृगेण तादात्म्यम् अपितु तत्समानाकारमृगशरीरपरिग्रह
-एवेति तत्रैव प्रसिद्धम्। तदानीं देहवियोगकाल इत्यर्थः।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥8.5॥ प्रयाणकाले \[8।2\] इत्यस्य प्रश्नस्य सङ्ग्रहेणोत्तरम्अन्तकाले इति श्लोकः। अतो न ज्ञानिमात्रविषय इत्यभिप्रायेणाह -- इदमपीति। अधियज्ञपदार्थस्वाभाव्याद्वक्ष्यमाणप्रकाराच्चेति भावः। अन्वयं दर्शयति -- अन्तकाले चेति। मद्भावं याति इत्यत्र श्रुत्यादिविरुद्धतादात्म्यावाप्तिभ्रमव्युदासायाहमम यो भाव इति। नन्वीश्वरस्वभावप्राप्तावस्यापि कृशोदरीनीडनिहितकीटस्य तज्जातीयत्ववदीश्वरान्तरत्वप्रसङ्गः त्रयाणामधिकारिणां गुणाष्टकरूपेश्वरस्वभावप्राप्त्यविशेषेऽधिकारिभेदश्च न स्यादित्यत आह -- तदानीमिति। तत्तदनुसन्धेयाकारविशेषसाम्यप्राप्तिर्विवक्षिता। साम्यं च स्वरूपभेदकवैधर्म्ये स्थिते सत्येवेति न कश्चिद्दोष इति भावः। एवं प्रश्नाः प्रत्युक्ताः। नास्त्यत्र संशयः इत्यनेन अभिप्रेतां प्रयोजकप्रसिद्धिं दर्शयति -- यथाऽऽदिभरतादय इति। एतेनोदाहरणेनापि तादात्म्यभ्रमो निरस्तः न ह्यादिभरतस्य स्मर्यमाणमृगेण तादात्म्यम् अपितु तत्समानाकारमृगशरीरपरिग्रह एवेति तत्रैव प्रसिद्धम्। तदानीं देहवियोगकाल इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 8.5 He who, at the last moment, while leaving the body, departs remembering Me alone, attains My being; he attains My condition. In whatever way he meditates on Me, he attains that very form, in the same manner as the royal sage Bharata attained the form of the deer remembered by him at death. Such is the meaning. Sri Krsna further elucidates that it is the nature of one's last thought that leads to the attainment of a similar form by the meditator:
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।8.5 -- 8.7।। अथ योऽवशिष्टः प्रश्नः कथं प्रयाणकाले ज्ञेयोऽसि इति तं
-निर्णयति -- अन्तकालेऽपि इत्यादि असंशयम् इत्यन्तम्। न केवलं
-स्वस्थावस्थायां यावत् अन्तकालेऽपि +++(N कालेऽपीति)+++ । मामेति --
-व्यवच्छिन्नसकलोपाधिकम्। कथं च अस्वस्थावस्थायां +++(K [n] अन्तावस्थायाम्)+++
-विनिवत्तसकलेन्द्रियचेष्टस्य भगवान् स्मृतिपथमुपेयात् इत्युपायमपि उपदिशति
-तस्मादिति। सर्वावस्थासु व्यावहारिकीष्वपि यस्य भगवत्तत्त्वं न हृदयादपयाति
-तस्य भगवत्येव सकलकर्मसंन्यासिनः सततं भगवन्मयस्य अवश्यं स्वयमेव
-भगवत्तत्त्वं स्मृतिविषयतां यातीति। सदातद्भावभावितत्त्वं च अत्र हेतुः।
-अतः एवाह -- येनैव वस्तुना सदा भावितान्तःकरणः +++(NK [n] अन्तःकरणभावः)+++ तदेव
-मरणसमये स्मर्यते तद्भाव एव च प्राप्यते इति। सर्वथा मत्परम एव मत्प्रेप्सः
-स्यादित्यत्र तात्पर्यम्। न तु यदेवान्ते स्मर्यते तत्तत्त्वमेवावाप्यते +++(N
-तत्तदेवावाप्यते)+++ इति। एवं हि सति ज्ञानिनोऽपि
-यावच्छरीरभाविधातुदोषविकलितचिवृत्तेर्जडतां प्राप्तस्य तामसस्येव गतिः
-स्यात्। न च अम्युपगमोऽत्र युक्तः प्रमाणभूतश्रुतिविरोधात्। अस्ति हि --
-तीर्थे श्वपचगृहे वा नष्टस्मृतिरपि परित्यजन् देहम्।  
-  
-ज्ञानसमकालमुक्तः कैवल्यं याति हतशोकः।। इति +++(PS 83 )+++तस्मादेवं विध्यनुवादौ।
-सदा येन भावितमन्तःकरणं तदेवान्ते प्रयाणानन्तरं प्राप्यते। तच्च स्मर्यते
-न वा इति नात्र निर्बन्धः। अन्वाचयश्चायम् अपिशब्देन सूचितः। स्मरणस्य
-असर्वथाभावं वाशब्दः स्फुटयति। सदा च मत्परमो जनः सर्वथा स्यात् इति
-तात्पर्यं मुनिरेव प्रकटयति। यदाह -- तस्मात् सर्वेषु कालेषु मानुस्मर इति।
-,तेनेत्थमत्र पदसङ्गतिः -- सदा यं यं भावं स्मरन् कलेबरं त्यजति अन्तेऽपि
-वा स्मरन् -- वाग्रहणात् अस्मरन् वा -- तं तमेवैति। यतोऽसौ सदा तद्भावेन
-भावितः। अन्ये तु -- कलेवरं त्यजति सति अन्ते कलेवरत्यागक्षणे
-बन्धुपुत्रादिप्रमात्रगोचरे +++(SK [n] -- प्रमात्रन्तरागोचरे)+++
-श्वासायासहिक्कागद्गदादिचेष्टाचरमभाविनि क्षणे शरीरदार्ढ्यबन्धप्रतनूभावात्
-देहकृतसुखदुःखमोहबन्धे,+++(K -- वन्ध्ये)+++ कालांशे देहत्यजनशब्दवाचेय यदेव
-स्मरति तदेव प्रथमसंविदनुगृहीतम् अस्य रूपं संपद्यते। तादृशे +++(SN तादृशि)+++ च
-काले स्मरणस्य कारणं सदा तद्भावभावितत्त्वमिति। त्यजति इति सप्तमी योज्या
-इति। प्राक्तन एवार्थः। ननु एवमन्तकाले किं प्रयोजनं तत्स्मरणेन क एवमाह
-प्रयोजनम् इति किंतु वस्तुवृत्तोपनतमेव तद्भवति तस्मिन्नन्त्ये क्षणे। ननु
-पुत्रकलत्रबन्धुभृतेः शिशिरोदकपानादेर्वा अन्त्ये क्षणे दृष्टं स्मरणम् इति
-तद्भावापत्तिः स्यात् मैवम्। न हि सोऽन्त्यः क्षणः स्फुटदेहावस्थानात्। न
-हि असावन्त्यः क्षणः अस्मद्विवक्षितो भवादृशैर्लक्ष्यते। तत्र त्वन्त्ये
-क्षणे येनैव रूपेण भवितव्यं तत्संस्कारस्य दूरवर्त्तिनोऽपि --
-जातिदेशकालव्यवहितानामपि +++(SN omit जाति also the following compound word
-स्मृति,etc.)+++ आनन्तर्यम् स्मृतिसंस्कारयोरेकरूपत्त्वात् +++(YS IV 9.)+++इति
-न्यायेन प्रबोधेन भाव्यम्। तद्वशात् तत्स्मरणं तत्स्मृत्या
-तद्भावप्राप्तिः। कस्य चित्तु देहस्य स्वस्थावस्थायामपि तदेव
-काकतालीयवशाद्व्यज्यते। यथा मृगादेः पुराणे वर्णनं तत्कृतं तु मृगत्वम्। अत
-एव प्रयाणकालेऽपि च माम् +++(VII30 )+++ इत्यादौ अपि च इति ग्रहणम्। ये हि सदा
-भगवन्तं भावयन्ति,एवंभूता भविष्यामः इति तेषान्तज्जः
-संस्कारोऽन्यसंस्कारप्रतिबन्धी +++(YS I 50 )+++इति न्यायेन
-तस्यामलक्ष्यायामन्तदशायां संस्कारान्तरापहस्तनेन तत्संस्कारकृते
-तत्तत्त्वस्मरणे देहसद्भावक्षणकृते च तस्य स्मरणे +++(omits देहसद्भाव --
-स्मरणे)+++ अनन्तरं देहविनिपातक्षणे एव कालसंस्कारनिवृत्तेः
-तदिदमित्यादिवेद्यविभागानवभासात् संविन्मात्रसतत्त्वपरमेश्वरस्वभावतैव भवति
-+++(CA adds इति श्रीमदभिनवगुप्तगुरूणां संमतम् ( संस्मृतम्)+++ after भवति)
-इत्यलम् ( इत्यलं बहुना)। असंशयमिति -- नात्र संदेग्धव्यमिति
-\[तात्पर्यम्\]।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-8.5 See Comment under 8.7
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।8.5।। मद्भावं मयि सत्तां निर्दुःखनिरतिशयानन्दात्मिकाम्। तच्चोक्तम् --
-मुक्तानां च (तु) गतिर्ब्रह्म क्षेत्रज्ञ इति कल्पितः \[म.भा.5।334।41\]
-इति मोक्षधर्मे।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।8.5।। मद्भावमित्यस्य मदात्मकत्वमित्यन्यथाप्रतीतिनिरासायाह --
-**मद्भावमि**ति। न तु भगवति स्थितिः सर्वदाऽस्ति सा कथं फलं इत्यतो
-विशिनष्टि -- **निर्दुःखे**ति। क्वचित्पाठःमद्भावं मद्वद्भावं इति। तत्र
-भगवत्प्रतिबिम्बानां जीवानां तत्सादृश्यं सदाऽस्ति तत्कथं प्राप्यमुच्यते
-इत्यत उक्तं **निर्दुःखे**ति। अत्रआत्मकं इति पाठः अभिव्यक्तमिति शेषः।
-प्रतीत एवार्थः किं न स्यात् इति चेत् न मुक्तानां भगवदाश्रितत्वेन
-तद्भावायोगात्। तदपि कुतः इत्यत आह -- **तच्चे**ति। क्षेत्रज्ञः परमात्मा
-गतिरिति समर्थितः।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।8.5।। --,**अन्तकाले च** मरणकाले च **मामेव** परमेश्वरं विष्णुं **स्मरन्
-मुक्त्त्वा** परित्यज्य **कलेवरं** शरीरं **यः प्रयाति** गच्छति **सः
-मद्भावं** वैष्णवं तत्त्वं **याति। नास्ति** न विद्यते **अत्र** अस्मिन्
-अर्थे **संशयः** -- याति वा न वा इति।। न मद्विषय एव अयं नियमः। किं तर्हि
+॥8.5॥ --,**अन्तकाले च** मरणकाले च **मामेव** परमेश्वरं विष्णुं **स्मरन् मुक्त्त्वा** परित्यज्य **कलेवरं** शरीरं **यः प्रयाति** गच्छति **सः मद्भावं** वैष्णवं तत्त्वं **याति। नास्ति** न विद्यते **अत्र** अस्मिन् अर्थे **संशयः** -- याति वा न वा इति॥ न मद्विषय एव अयं नियमः। किं तर्हि
 --,
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।8.5।। और जो पुरुष अन्तकालमें -- मरणकालमें मुझ परमेश्वर -- विष्णुका ही
-स्मरण करता हुआ शरीर,छोड़कर जाता है वह मेरे भावको अर्थात् विष्णुके परम
-तत्त्वको प्राप्त होता है। इस विषयमें प्राप्त होता है या नहीं ऐसा कोई
-संशय नहीं है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 8.5 Ca, and ; anta-kale, at the time of death; yah, anyone who; prayati,
 departs; muktva, by giving up; the kalevaram, body; smaran, while
@@ -194,13 +61,19 @@ yati, attains; madhavam, My state, the Reality that is Vishu, Asti,
 there is; na, no; samsayah, doubt; atra, about this, in this regard, as
 to whether he attains (Me) or not. 'This rule does not apply in relation
 to me alone.' 'What then;'
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।8.5।। यत्तु प्रयाणकाले चेत्यादि चोदितं तत्राह -- **अन्तकाले चेति।**
+<details><summary>हरिकृष्णदासः</summary>
+
+॥8.5॥ और जो पुरुष अन्तकालमें -- मरणकालमें मुझ परमेश्वर -- विष्णुका ही
+स्मरण करता हुआ शरीर,छोड़कर जाता है वह मेरे भावको अर्थात् विष्णुके परम
+तत्त्वको प्राप्त होता है। इस विषयमें प्राप्त होता है या नहीं ऐसा कोई
+संशय नहीं है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥8.5॥ यत्तु प्रयाणकाले चेत्यादि चोदितं तत्राह -- **अन्तकाले चेति।**
 मामेवेत्यवधारणेनाध्यात्मादिविशिष्टत्वेन स्मरणं व्यावर्त्यते।
 विशिष्टस्मरणे हि चित्तविक्षेपान्न प्रधानस्मरणमपि स्यात्। नच मरणकाले
 कार्यकरणपारवश्याद्भगवदनुस्मरणासिद्धिः। सर्वदैव नैरन्तर्येणादरधिया भगवति
@@ -208,35 +81,11 @@ to me alone.' 'What then;'
 तस्मिन्नहंममाभिमानाभावादिति यावत्। प्रयातीत्यत्र
 प्रकृतशरीरमपादानम्। ब्रह्म वेद ब्रह्मैव भवति इत्यादिश्रुतिमाश्रित्याह --
 **नास्तीति।** व्यासेध्यं संशयमेवाभिनयति -- **याति वेति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।8.5।। इदानीं प्रयाणकाले च कथं ज्ञेयोऽसीति सप्तमस्य प्रश्नस्योत्तरमाह --
-मामेव भगवन्तं वासुदेवमधियज्ञं सगुणं निर्गुणं वा परममक्षरं ब्रह्म न
-त्वध्यात्मादिकं स्मरन्सदा
-चिन्तयंस्तत्संस्कारपाटवात्समस्तकरणग्रामवैयग्र्यवत्यन्तकालेऽपि
-स्मरन्कलेवरं मुक्त्वा शरीरेऽहंममाभिमानं त्यक्त्वा प्राणवियोकाले यः
-प्रयाति सगुणध्यानपक्षेऽग्रिर्ज्योतिरहः शुक्ल इत्यादिवक्ष्यमाणेन
-देवयानमार्गेण पितृयानमार्गात्प्रकर्षेण याति स उपासको मद्भावं मद्रूपतां
-निर्गुणब्रह्मभावं हिरण्यगर्भलोकभोगान्ते याति प्राप्नोति।
-निर्गुणब्रह्मस्मरणपक्षे तु कलेवरं त्यक्त्वा प्रयातीति
-लोकदृष्ट्यभिप्रायंन तस्य प्राणा उत्क्रामन्त्यत्रैव समवलीयन्ते इति
-श्रुतेस्तस्य प्राणोत्क्रमणाभावेन गत्यभावात्स मद्भावं साक्षादेव
-याति। ब्रह्मैव सन्ब्रह्माप्येति इति श्रुतेः। नास्त्यत्र देहव्यतिरिक्त
-आत्मनि मद्भावप्राप्तौ वा संशयः। आत्मा देहाद्व्यतिरिक्तो न वा
-देहव्यतिरेकेऽपि ईश्वराद्भिन्नो न वेति संदेहो न विद्यते। छिद्यन्ते
-सर्वसंशयाः इति श्रुतेः। अत्र च कलेवरं मुक्त्वा प्रयातीति देहाद्भिन्नत्वं
-मद्भावं यातीति चेश्वरादभिन्नत्वं जीवस्योक्तमिति द्रष्टव्यम्।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।8.5।। अत्र षट्प्रश्नोत्तरेषु प्रथमे जीवस्य ब्रह्मभाव उक्तः। तं जानतां
+॥8.5॥ अत्र षट्प्रश्नोत्तरेषु प्रथमे जीवस्य ब्रह्मभाव उक्तः। तं जानतां
 प्रयाणमेव नास्ति। न तस्य प्राणा उत्क्रामन्त्यत्रैव समवलीयन्ते ब्रह्मैव
 सन्ब्रह्माप्येति इति श्रुतेः। द्वितीये शुद्धस्त्वंपदार्थ
 उक्तस्तज्ज्ञानस्यापि वस्तुतत्त्वविषयत्वान्न तत्र भावनापेक्षास्तीति न
@@ -266,13 +115,11 @@ to me alone.' 'What then;'
 तद्वन्तः सुनिश्चितार्था इति वक्तुं शक्यम्। तस्मादध्यात्मविदां
 ब्रह्मात्मैक्यानवगमादनुपासकत्वेनान्त्यप्रत्ययाभावेऽप्यर्चिरादिगतिप्राप्तिरस्तीति
 सर्वमनवद्यम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।8.5।। प्रयाणकाले चेत्यादिसप्तमप्रश्नस्योत्तरमाह -- अन्तकाल इति।
+<details><summary>धनपतिः</summary>
+
+॥8.5॥ प्रयाणकाले चेत्यादिसप्तमप्रश्नस्योत्तरमाह -- अन्तकाल इति।
 अन्तकाले च प्रयाणकाले। प्राणोत्क्रमणकाले इति यावत्। मामेव परमेश्वरं
 विष्णुं स्मरन्। चकारात्सदा भगवद्भावभावित इति ज्ञेयम्। मामेवेति
 विशेषणेनाध्यात्मादिविशिष्टत्वेन स्मरणं व्यावर्त्यते। विशिष्टस्मरणे हि
@@ -294,106 +141,140 @@ to me alone.' 'What then;'
 युक्तभिर्निरुपितेऽर्थेऽपि पुनरुत्पन्नस्य संशयस्यार्थिकार्थेन
 निवृत्त्यसंभवश्चछिद्यन्ते सर्वसंशयाः इति श्रुतिरपि परावरविद इति
 पदसत्त्वे उदाहर्तुं योग्येति दिक्।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥8.5॥ इदानीं प्रयाणकाले च कथं ज्ञेयोऽसीति सप्तमस्य प्रश्नस्योत्तरमाह --
+मामेव भगवन्तं वासुदेवमधियज्ञं सगुणं निर्गुणं वा परममक्षरं ब्रह्म न
+त्वध्यात्मादिकं स्मरन्सदा
+चिन्तयंस्तत्संस्कारपाटवात्समस्तकरणग्रामवैयग्र्यवत्यन्तकालेऽपि
+स्मरन्कलेवरं मुक्त्वा शरीरेऽहंममाभिमानं त्यक्त्वा प्राणवियोकाले यः
+प्रयाति सगुणध्यानपक्षेऽग्रिर्ज्योतिरहः शुक्ल इत्यादिवक्ष्यमाणेन
+देवयानमार्गेण पितृयानमार्गात्प्रकर्षेण याति स उपासको मद्भावं मद्रूपतां
+निर्गुणब्रह्मभावं हिरण्यगर्भलोकभोगान्ते याति प्राप्नोति।
+निर्गुणब्रह्मस्मरणपक्षे तु कलेवरं त्यक्त्वा प्रयातीति
+लोकदृष्ट्यभिप्रायंन तस्य प्राणा उत्क्रामन्त्यत्रैव समवलीयन्ते इति
+श्रुतेस्तस्य प्राणोत्क्रमणाभावेन गत्यभावात्स मद्भावं साक्षादेव
+याति। ब्रह्मैव सन्ब्रह्माप्येति इति श्रुतेः। नास्त्यत्र देहव्यतिरिक्त
+आत्मनि मद्भावप्राप्तौ वा संशयः। आत्मा देहाद्व्यतिरिक्तो न वा
+देहव्यतिरेकेऽपि ईश्वराद्भिन्नो न वेति संदेहो न विद्यते। छिद्यन्ते
+सर्वसंशयाः इति श्रुतेः। अत्र च कलेवरं मुक्त्वा प्रयातीति देहाद्भिन्नत्वं
+मद्भावं यातीति चेश्वरादभिन्नत्वं जीवस्योक्तमिति द्रष्टव्यम्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।8.5।। प्रयाणकाले च कथं ज्ञेयोऽसि इत्यस्योत्तरमाह -- अन्तकाल इति।
+॥8.5॥ मद्भावं मयि सत्तां निर्दुःखनिरतिशयानन्दात्मिकाम्। तच्चोक्तम् --
+मुक्तानां च (तु) गतिर्ब्रह्म क्षेत्रज्ञ इति कल्पितः \[म.भा.5।334।41\]
+इति मोक्षधर्मे।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥8.5॥ मद्भावमित्यस्य मदात्मकत्वमित्यन्यथाप्रतीतिनिरासायाह --
+**मद्भावमि**ति। न तु भगवति स्थितिः सर्वदाऽस्ति सा कथं फलं इत्यतो
+विशिनष्टि -- **निर्दुःखे**ति। क्वचित्पाठःमद्भावं मद्वद्भावं इति। तत्र
+भगवत्प्रतिबिम्बानां जीवानां तत्सादृश्यं सदाऽस्ति तत्कथं प्राप्यमुच्यते
+इत्यत उक्तं **निर्दुःखे**ति। अत्रआत्मकं इति पाठः अभिव्यक्तमिति शेषः।
+प्रतीत एवार्थः किं न स्यात् इति चेत् न मुक्तानां भगवदाश्रितत्वेन
+तद्भावायोगात्। तदपि कुतः इत्यत आह -- **तच्चे**ति। क्षेत्रज्ञः परमात्मा
+गतिरिति समर्थितः।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+
+<details><summary>मूलम्</summary>
+
+॥8.5 -- 8.7॥ अथ योऽवशिष्टः प्रश्नः कथं प्रयाणकाले ज्ञेयोऽसि इति तं निर्णयति -- अन्तकालेऽपि इत्यादि असंशयम् इत्यन्तम्। न केवलं स्वस्थावस्थायां यावत् अन्तकालेऽपि +++(N कालेऽपीति)+++ । मामेति -- व्यवच्छिन्नसकलोपाधिकम्। कथं च अस्वस्थावस्थायां +++(K [n] अन्तावस्थायाम्)+++ विनिवत्तसकलेन्द्रियचेष्टस्य भगवान् स्मृतिपथमुपेयात् इत्युपायमपि उपदिशति तस्मादिति। सर्वावस्थासु व्यावहारिकीष्वपि यस्य भगवत्तत्त्वं न हृदयादपयाति तस्य भगवत्येव सकलकर्मसंन्यासिनः सततं भगवन्मयस्य अवश्यं स्वयमेव भगवत्तत्त्वं स्मृतिविषयतां यातीति। सदातद्भावभावितत्त्वं च अत्र हेतुः। अतः एवाह -- येनैव वस्तुना सदा भावितान्तःकरणः +++(NK [n] अन्तःकरणभावः)+++ तदेव मरणसमये स्मर्यते तद्भाव एव च प्राप्यते इति। सर्वथा मत्परम एव मत्प्रेप्सः स्यादित्यत्र तात्पर्यम्। न तु यदेवान्ते स्मर्यते तत्तत्त्वमेवावाप्यते +++(N तत्तदेवावाप्यते)+++ इति। एवं हि सति ज्ञानिनोऽपि यावच्छरीरभाविधातुदोषविकलितचिवृत्तेर्जडतां प्राप्तस्य तामसस्येव गतिः स्यात्। न च अम्युपगमोऽत्र युक्तः प्रमाणभूतश्रुतिविरोधात्। अस्ति हि -- तीर्थे श्वपचगृहे वा नष्टस्मृतिरपि परित्यजन् देहम्।  
+  
+ज्ञानसमकालमुक्तः कैवल्यं याति हतशोकः॥ इति +++(PS 83 )+++तस्मादेवं विध्यनुवादौ। सदा येन भावितमन्तःकरणं तदेवान्ते प्रयाणानन्तरं प्राप्यते। तच्च स्मर्यते न वा इति नात्र निर्बन्धः। अन्वाचयश्चायम् अपिशब्देन सूचितः। स्मरणस्य असर्वथाभावं वाशब्दः स्फुटयति। सदा च मत्परमो जनः सर्वथा स्यात् इति तात्पर्यं मुनिरेव प्रकटयति। यदाह -- तस्मात् सर्वेषु कालेषु मानुस्मर इति। ,तेनेत्थमत्र पदसङ्गतिः -- सदा यं यं भावं स्मरन् कलेबरं त्यजति अन्तेऽपि वा स्मरन् -- वाग्रहणात् अस्मरन् वा -- तं तमेवैति। यतोऽसौ सदा तद्भावेन भावितः। अन्ये तु -- कलेवरं त्यजति सति अन्ते कलेवरत्यागक्षणे बन्धुपुत्रादिप्रमात्रगोचरे +++(SK [n] -- प्रमात्रन्तरागोचरे)+++ श्वासायासहिक्कागद्गदादिचेष्टाचरमभाविनि क्षणे शरीरदार्ढ्यबन्धप्रतनूभावात् देहकृतसुखदुःखमोहबन्धे,+++(K -- वन्ध्ये)+++ कालांशे देहत्यजनशब्दवाचेय यदेव स्मरति तदेव प्रथमसंविदनुगृहीतम् अस्य रूपं संपद्यते। तादृशे +++(SN तादृशि)+++ च काले स्मरणस्य कारणं सदा तद्भावभावितत्त्वमिति। त्यजति इति सप्तमी योज्या इति। प्राक्तन एवार्थः। ननु एवमन्तकाले किं प्रयोजनं तत्स्मरणेन क एवमाह प्रयोजनम् इति किंतु वस्तुवृत्तोपनतमेव तद्भवति तस्मिन्नन्त्ये क्षणे। ननु पुत्रकलत्रबन्धुभृतेः शिशिरोदकपानादेर्वा अन्त्ये क्षणे दृष्टं स्मरणम् इति तद्भावापत्तिः स्यात् मैवम्। न हि सोऽन्त्यः क्षणः स्फुटदेहावस्थानात्। न हि असावन्त्यः क्षणः अस्मद्विवक्षितो भवादृशैर्लक्ष्यते। तत्र त्वन्त्ये क्षणे येनैव रूपेण भवितव्यं तत्संस्कारस्य दूरवर्त्तिनोऽपि -- जातिदेशकालव्यवहितानामपि +++(SN omit जाति also the following compound word स्मृति,etc.)+++ आनन्तर्यम् स्मृतिसंस्कारयोरेकरूपत्त्वात् +++(YS IV 9.)+++इति न्यायेन प्रबोधेन भाव्यम्। तद्वशात् तत्स्मरणं तत्स्मृत्या तद्भावप्राप्तिः। कस्य चित्तु देहस्य स्वस्थावस्थायामपि तदेव काकतालीयवशाद्व्यज्यते। यथा मृगादेः पुराणे वर्णनं तत्कृतं तु मृगत्वम्। अत एव प्रयाणकालेऽपि च माम् +++(VII30 )+++ इत्यादौ अपि च इति ग्रहणम्। ये हि सदा भगवन्तं भावयन्ति,एवंभूता भविष्यामः इति तेषान्तज्जः संस्कारोऽन्यसंस्कारप्रतिबन्धी +++(YS I 50 )+++इति न्यायेन तस्यामलक्ष्यायामन्तदशायां संस्कारान्तरापहस्तनेन तत्संस्कारकृते तत्तत्त्वस्मरणे देहसद्भावक्षणकृते च तस्य स्मरणे +++(omits देहसद्भाव -- स्मरणे)+++ अनन्तरं देहविनिपातक्षणे एव कालसंस्कारनिवृत्तेः तदिदमित्यादिवेद्यविभागानवभासात् संविन्मात्रसतत्त्वपरमेश्वरस्वभावतैव भवति +++(CA adds इति श्रीमदभिनवगुप्तगुरूणां संमतम् ( संस्मृतम्)+++ after भवति) इत्यलम् ( इत्यलं बहुना)। असंशयमिति -- नात्र संदेग्धव्यमिति \[तात्पर्यम्\]।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+8.5 See Comment under 8.7
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+
+<details><summary>मूलम्</summary>
+
+॥8.5॥ प्रयाणकाले च कथं ज्ञेयोऽसि इत्यस्योत्तरमाह -- अन्तकाल इति।
 एवकारोऽन्यव्यवच्छेदार्थकः। मन्त्रोपासनाद्यस्पृष्टं पूर्णानन्दं मां
 लीलापुरुषोत्तममेव स्मरन् यो भक्तिमान् योगी प्रयाति प्रयाणं करोति स
 मद्भावं यातीति नास्त्यत्र संशयः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।8.5।। प्रयाणकाले च कथं ज्ञेयोऽसि इत्यस्योत्तरमाह -- अन्तकाल इति।
+<details><summary>पुरुषोत्तमः</summary>
+
+॥8.5॥ प्रयाणकाले च कथं ज्ञेयोऽसि इत्यस्योत्तरमाह -- अन्तकाल इति।
 अन्तकाले एतद्देहावसानसमये वा अन्तरूपस्य अन्तिमजन्मनो देहस्य काले नाशसमये
 प्राप्ते सति मामेव स्मरन् यः प्रयाति देहं मुञ्चति स कलेवरं मृतदेहं
 भजनायोग्यं मुक्त्वा मद्भावं सेवौपयिकस्वरूपं याति प्राप्नोति। अत्रार्थे
 संशयो नास्ति न वर्त्तते। अतः सन्देहो न कर्त्तव्य इत्यर्थः। चकारेण
 शुद्धावस्थादिकं न विचारणीयमिति ज्ञापितम्। एवकारेण कामनयाऽन्यत् किञ्चिदपि
-फलत्वेन न स्मरणीयमिति ज्ञापितम्।  
-  
-
+फलत्वेन न स्मरणीयमिति ज्ञापितम्।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।8.5।। प्रयाणकाले च कथं ज्ञेयोऽसीत्यनेन पृष्टमन्तकालज्ञानोपायं तत्फलं च
+॥8.5॥ प्रयाणकाले च कथं ज्ञेयोऽसीत्यनेन पृष्टमन्तकालज्ञानोपायं तत्फलं च
 दर्शयति **-- अन्तकाल इति।** मामेवोक्तलक्षणमन्तर्यामिरूपं परमेश्वरं
 स्मरन्देहं त्यक्त्वा यः प्रकर्षेणार्चिरादिमार्गेण याति स मद्भावं
 मद्रूपतां याति। अत्र च संशयो नास्ति। स्मरणं ज्ञानोपायो मद्भावापत्तिश्च
 फलमित्यर्थः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
-।।8.5।। महर्षि व्यास वेदान्त के इस मूलभूत सिद्धांत पर बल देते हुए नहीं
-थकते कि कोई भी जीव किसी देह विशेष के साथ तब तक तादात्म्य किये रहता है जब
-तक उसे अपने इच्छित अनुभवों को प्राप्त करने में वह देह उपयोगी और आवश्यक
-होता है। एक बार यह प्रयोजन सिद्ध हो जाने पर वह उस शरीर को सदा के लिए
-त्याग देता है। तत्पश्चात उस देह के प्रति न कोई कर्तव्य रहता है न सम्बन्ध
-और न ही कोई अभिमान। देह से विलग होने के समय जीव के मन में उस विषय के
-सम्बन्ध में विचार होंगे जिसके लिए वह प्रबल इच्छा या महत्वाकांक्षा रखता
-था चाहे वह इच्छा किसी भी जन्म में उत्पन्न हुई हो। इस प्रकार की मान्यता
-युक्तियुक्त है। ध्यान और भक्ति की साधना मन को एकाग्र करने की वह कला है
-जिसमें ध्येय विषयक एक अखण्ड वृत्ति बनाए रखी जाती है। ऐसा साधक अन्तकाल
-में मुझ पर ही ध्यान करता हुआ शरीर को त्याग कर जाता है। मरण के पूर्व की
-जीव की यह अन्तिम प्रबल इच्छा उसकी भावी गति को निश्चित करती है। जो जीव
-अपने जीवन काल में केवल अहंकार और स्वार्थ का जीवन जीता रहा हो और देह के
-साथ तादात्म्य करके निम्न स्तर की कामनाओं को ही पूर्ण करने में व्यस्त रहा
-हो ऐसा जीव वैषयिक वासनाओं से युक्त होने के कारण ऐसे ही शरीर को धारण
-करेगा जिसमें उसकी पाशविक प्रवृत्तियाँ अधिक से अधिक सन्तुष्ट हो सकें। इसके
-विपरीत जब कोई साधक स्वविवेक से कामुक जीवन की व्यर्थता को पहचानता है और
-इस कारण स्वयं को उन बन्धनों से मुक्त करने के लिए आतुर हो उठता है तब देह
-त्याग के पश्चात् वह साधक निश्चित ही विकास की उच्चतर स्थिति को प्राप्त
-होता है। इसी युक्तियक्त एवं बुद्धिगम्य सिद्धांत के अनुसार वेदान्त यह
-घोषणा करता है कि मरणासन्न पुरुष की अन्तिम इच्छा उसके भावी शरीर तथा
-वातावरण को निश्चित करती है। इसलिए भगवान् यहाँ कहते हैं कि अन्तकाल में आगे
-जो पुरुष मेरा स्मरण करता हुआ देह त्यागता है वह मेरे स्वरूप को प्राप्त
-होता है। यह निश्चय केवल मेरे ही विषय में नहीं है वरन् --
-
+8.5 And at the time of death, anyone who departs by giving up the body while thinking of Me alone, he attains My state. There is no doubt about this.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।8.5।। और जो कोई पुरुष अन्तकाल में मुझे ही स्मरण करता हुआ शरीर को त्याग
-कर जाता है, वह मेरे स्वरूप को प्राप्त होता है, इसमें कुछ भी संशय नहीं।।
+<details><summary>पुरोहितस्वामी</summary>
 
+8.5 Whosoever at the time of death thinks only of Me, and thinking thus leaves the body and goes forth, assuredly he will know Me.
 </details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+8.5. Whosoever, at the time of death also remembering Me alone, sets forth by abandoning his body \[behind\], he attains My being. There is no doubt about it.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+8.5 And whosoever, leaving the body, goes forth remembering Me alone, at the time of death, he attains My Being: there is no doubt about this.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+8.5 No Commentary.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.5।। जो मनुष्य अन्तकालमें भी मेरा स्मरण करते हुए शरीर छोड़कर जाता है,
 वह मेरे स्वरुप को ही प्राप्त होता है, इसमें सन्देह नहीं है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।8.5।।***व्याख्या--*'अन्तकाले च'** **'मामेव ৷৷. याति नास्त्यत्र
 संशयः'--** अन्तकालमें भी मेरा स्मरण करते हुए जो शरीर छोड़कर जाता है --
@@ -497,45 +378,40 @@ _________________
 किसी मरणासन्न व्यक्तिको देख लें अथवा उसके मृत शरीर(मुर्दे) को देख लें
 अथवा उसकी चिताके धुएँको देख लें अथवा चिताकी भस्मको देख लें तो भी उस
 जीवका कल्याण हो जाता है **(टिप्पणी प₀ 456.3)**
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-8.5. Whosoever, at the time of death also remembering Me alone, sets forth by abandoning his body \[behind\], he attains My being. There is no doubt about it.
-
+।।8.5।। महर्षि व्यास वेदान्त के इस मूलभूत सिद्धांत पर बल देते हुए नहीं
+थकते कि कोई भी जीव किसी देह विशेष के साथ तब तक तादात्म्य किये रहता है जब
+तक उसे अपने इच्छित अनुभवों को प्राप्त करने में वह देह उपयोगी और आवश्यक
+होता है। एक बार यह प्रयोजन सिद्ध हो जाने पर वह उस शरीर को सदा के लिए
+त्याग देता है। तत्पश्चात उस देह के प्रति न कोई कर्तव्य रहता है न सम्बन्ध
+और न ही कोई अभिमान। देह से विलग होने के समय जीव के मन में उस विषय के
+सम्बन्ध में विचार होंगे जिसके लिए वह प्रबल इच्छा या महत्वाकांक्षा रखता
+था चाहे वह इच्छा किसी भी जन्म में उत्पन्न हुई हो। इस प्रकार की मान्यता
+युक्तियुक्त है। ध्यान और भक्ति की साधना मन को एकाग्र करने की वह कला है
+जिसमें ध्येय विषयक एक अखण्ड वृत्ति बनाए रखी जाती है। ऐसा साधक अन्तकाल
+में मुझ पर ही ध्यान करता हुआ शरीर को त्याग कर जाता है। मरण के पूर्व की
+जीव की यह अन्तिम प्रबल इच्छा उसकी भावी गति को निश्चित करती है। जो जीव
+अपने जीवन काल में केवल अहंकार और स्वार्थ का जीवन जीता रहा हो और देह के
+साथ तादात्म्य करके निम्न स्तर की कामनाओं को ही पूर्ण करने में व्यस्त रहा
+हो ऐसा जीव वैषयिक वासनाओं से युक्त होने के कारण ऐसे ही शरीर को धारण
+करेगा जिसमें उसकी पाशविक प्रवृत्तियाँ अधिक से अधिक सन्तुष्ट हो सकें। इसके
+विपरीत जब कोई साधक स्वविवेक से कामुक जीवन की व्यर्थता को पहचानता है और
+इस कारण स्वयं को उन बन्धनों से मुक्त करने के लिए आतुर हो उठता है तब देह
+त्याग के पश्चात् वह साधक निश्चित ही विकास की उच्चतर स्थिति को प्राप्त
+होता है। इसी युक्तियक्त एवं बुद्धिगम्य सिद्धांत के अनुसार वेदान्त यह
+घोषणा करता है कि मरणासन्न पुरुष की अन्तिम इच्छा उसके भावी शरीर तथा
+वातावरण को निश्चित करती है। इसलिए भगवान् यहाँ कहते हैं कि अन्तकाल में आगे
+जो पुरुष मेरा स्मरण करता हुआ देह त्यागता है वह मेरे स्वरूप को प्राप्त
+होता है। यह निश्चय केवल मेरे ही विषय में नहीं है वरन् --
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.5 And at the time of death, anyone who departs by giving up the body while thinking of Me alone, he attains My state. There is no doubt about this.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।8.5।। और जो कोई पुरुष अन्तकाल में मुझे ही स्मरण करता हुआ शरीर को त्याग
+कर जाता है, वह मेरे स्वरूप को प्राप्त होता है, इसमें कुछ भी संशय नहीं।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.5 Whosoever at the time of death thinks only of Me, and thinking thus leaves the body and goes forth, assuredly he will know Me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-8.5 And whosoever, leaving the body, goes forth remembering Me alone, at the time of death, he attains My Being: there is no doubt about this.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-8.5 No Commentary.
-
-</details>
 </div>

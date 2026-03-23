@@ -1,159 +1,59 @@
 +++
 title = "39 यदग्रे चानुबन्धे"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 यद् अग्रे चानुबन्धे च  
 सुखं **मोहनम्** आत्मनः।  
 **निद्रालस्य-प्रमादोत्थं**  
 तत् **तामसम्** उदाहृतम्॥18.39॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 यदग्रे चानुबन्धे च सुखं मोहनमात्मनः।  
-निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम्।।18.39।।
+निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम्॥18.39॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।18.39।।**यत् सुखम् अग्रे च अनुबन्धे च** अनुभववेलायां विपाके च **आत्मनो
-मोहनं** मोहहेतुः भवति मोहः अत्र,यथावस्थितवस्त्वप्रकाशः अभिप्रेतः।
-**निद्रालस्यप्रमादोत्थं** निद्रालस्यप्रमादजनितम् निद्रादयो हि
-अनुभववेलायाम् अपि मोहहेतवः। निद्राया मोहहेतुत्वं स्पष्टम् आलस्यम्
-इन्द्रियव्यापारमान्द्यम् इन्द्रियव्यापारमान्द्ये च ज्ञानमान्द्यं भवति एव
-प्रमादः कृत्यानवधानरूप इति तत्त अपि ज्ञानमान्द्यं भवति ततः च तयोः अपि
-मोहहेतुत्वम् **तत्** सुखं **तामसम् उदाहृतम्** अतो मुमुक्षुणा रजस्तमसी
-अभिभूय सत्त्वम् एव उपादेयम् इति उक्तं भवति।
-
+॥18.39॥**यत् सुखम् अग्रे च अनुबन्धे च** अनुभववेलायां विपाके च **आत्मनो मोहनं** मोहहेतुर् भवति मोहो ऽत्र,यथावस्थितवस्त्वप्रकाशो ऽभिप्रेतः। **निद्रालस्यप्रमादोत्थं** निद्रालस्यप्रमादजनितं निद्रादयो ह्य् अनुभववेलायाम् अपि मोहहेतवः। निद्राया मोहहेतुत्वं स्पष्टम् आलस्यम् इन्द्रियव्यापारमान्द्यम् इन्द्रियव्यापारमान्द्ये च ज्ञानमान्द्यं भवत्य् एव प्रमादः कृत्यानवधानरूप इति तत्त अपि ज्ञानमान्द्यं भवति ततश् च तयोर् अपि मोहहेतुत्वम् **तत्** सुखं **तामसम् उदाहृतम्** अतो मुमुक्षुणा रजस्तमस्य् अभिभूय सत्त्वम् एव उपादेयम् इत्य् उक्तं भवति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.39।। अनुबध्यत इत्यनुबन्धो विपाकः; मोहनशब्दस्यात्र
-भावार्थानन्वयात्करर्णार्थत्वमाह -- मोहहेतुरिति। निद्रादिजन्यसुखस्य
-विपरीतज्ञानहेतुत्वाभावात्मोहोऽत्र यथावस्थितवस्त्वप्रकाश इत्युक्तम्।
-राजससुखस्य विपाके मोहहेतुत्वं; तामससुखस्य तु तदानीमपीति
-लोकसिद्धमित्यभिप्रायेणोक्तं विवृणोति -- निद्रादयो हीति। स्पष्टमिति -- न
-युक्त्यागमसापेक्षमित्यर्थः। अलसस्य प्रवृत्त्यभावमात्रं दृश्यते; न
-ज्ञानाभाव इत्यत्राऽऽह -- आलस्यमिन्द्रियव्यापारमान्द्यमिति। ततः किं
-इत्यत्राऽऽह -- इन्द्रियेति। करणव्यापारतारतम्यानुगुणं हि कार्यतारतम्यम्।
-ज्ञानस्य मान्द्यं चाल्पविषयत्वम्। तच्च विषयान्तरप्रकाशाभावगर्भमिति भावः।
-प्रमादस्य स्वरूपेणैवापेक्षिताज्ञानरूपतामाहकृत्यानवधानरूप इति।
-एवमालस्यप्रमादयोरज्ञानानुविद्धत्वं दर्शितं तद्धेतुत्वं तु कथमित्यत्राऽऽह
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥18.39॥ अनुबध्यत इत्यनुबन्धो विपाकः; मोहनशब्दस्यात्र भावार्थानन्वयात्करर्णार्थत्वमाह -- मोहहेतुरिति। निद्रादिजन्यसुखस्य विपरीतज्ञानहेतुत्वाभावात्मोहोऽत्र यथावस्थितवस्त्वप्रकाश इत्युक्तम्। राजससुखस्य विपाके मोहहेतुत्वं; तामससुखस्य तु तदानीमपीति लोकसिद्धमित्यभिप्रायेणोक्तं विवृणोति -- निद्रादयो हीति। स्पष्टमिति -- न युक्त्यागमसापेक्षमित्यर्थः। अलसस्य प्रवृत्त्यभावमात्रं दृश्यते; न ज्ञानाभाव इत्यत्राऽऽह -- आलस्यमिन्द्रियव्यापारमान्द्यमिति। ततः किम् इत्यत्राऽऽह -- इन्द्रियेति। करणव्यापारतारतम्यानुगुणं हि कार्यतारतम्यम्। ज्ञानस्य मान्द्यं चाल्पविषयत्वम्। तच्च विषयान्तरप्रकाशाभावगर्भमिति भावः। प्रमादस्य स्वरूपेणैवापेक्षिताज्ञानरूपतामाहकृत्यानवधानरूप इति। एवमालस्यप्रमादयोरज्ञानानुविद्धत्वं दर्शितं तद्धेतुत्वं तु कथमित्यत्राऽऽह
 -- ततश्चेति। ज्ञानस्यापटुत्वं हि क्रमादत्यन्ताज्ञाने विश्राम्यतीति भावः।
-निद्रायाः सुखहेतुत्वमायासविश्रमहेतुत्वादिभिः; विच्छेदकेषु रोषाच्च
-लोकसिद्धम्; इन्द्रियव्यापारमान्द्यस्याप्यङ्गसङ्क्षोभादिनिवृत्तिद्वारा
-अनवधानस्य तु बुद्धेरेकाग्रताकल्पनरूपप्रयासनिवृत्त्येति।
-सुखाभासप्रसङ्गेनाकालनिद्रादिकं नोपादेयमित्युक्तं भवति। स्मरन्ति च --
-यामद्वयं शयानस्तु ब्रह्मभूयाय कल्पते इत्यादि। आहुश्चायुर्वेदविदः --
-अकालेऽतिप्रसङ्गाच्च न च निद्रा निषेविता। सुखायुषी
-पराकुर्यात्कालरात्रिरिवापरा इति।
-गुणकृतविभागप्रकरणतात्पर्यमनुष्ठानपर्यवसानरूपप्रयोजनेनोपसंहरति -- अत
-इति।  
-  
-
+निद्रायाः सुखहेतुत्वमायासविश्रमहेतुत्वादिभिः; विच्छेदकेषु रोषाच्च लोकसिद्धम्; इन्द्रियव्यापारमान्द्यस्याप्यङ्गसङ्क्षोभादिनिवृत्तिद्वारा अनवधानस्य तु बुद्धेरेकाग्रताकल्पनरूपप्रयासनिवृत्त्येति। सुखाभासप्रसङ्गेनाकालनिद्रादिकं नोपादेयमित्युक्तं भवति। स्मरन्ति च -- यामद्वयं शयानस्तु ब्रह्मभूयाय कल्पते इत्यादि। आहुश्चायुर्वेदविदः -- अकालेऽतिप्रसङ्गाच्च न च निद्रा निषेविता। सुखायुषी पराकुर्यात्कालरात्रिरिवापरा इति। गुणकृतविभागप्रकरणतात्पर्यमनुष्ठानपर्यवसानरूपप्रयोजनेनोपसंहरति -- अत इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 18.39 Pleasure of the Tamasika type causes delusion to the self at the beginning and the end of enjoyment. Here 'delusion' means the absence of knowledge about things as they are. Pleasure springing from sleep, sloth and error are the cause of it. Even at the time of experience, sleep etc., are the cause of delusion. It is clear how sleep causes delusion.
 'Sloth' is indolence in sensory operations. When sensory activities are slow, dimness of knowledge results. 'Error' is heedlessness regarding what ought to be done. From this also occurs the dimness of knowledge.
 Thus, these two also cause delusion. Such pleasure is declared to be Tamasika. Therefore what is meant is this: subduing Rajas and Tamas, the Sattva alone should be allowed to develop by the aspirant for relase.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.36 -- 18.39।। सुखमित्यादि तामसमुदाहृतमित्यन्तम्। तदात्वे;
-अभ्यासकाले। विषमिव; जन्मशताभ्यस्तविषयसङ्गस्य दुष्परिहारत्वात्। उक्तं च
-श्रुतौ -- क्षुरस्य धारा विषमा दुरत्यया इत्यादि। आत्मप्रसादात्
-बुद्धिप्रसादो जायते; अन्यस्यापेक्ष्यमाणस्याभावात्। विषयेन्द्रियाणां
-परस्परसंयोगज़ं,+++(S; -- संप्रयोगजम् )+++ सुखम्; चक्षुष इव रूपसंबन्धात्।
-निद्रातः आलस्येन प्रमादेन +++(S; ; N आलस्येन शठतया प्रमादेन )+++ पूर्वं
-व्याख्यातेन यत् सुखं तत्तामसम्।
-
+॥18.39॥ --,**यत् अग्रे च अनुबन्धे च** अवसानोत्तरकाले च **सुखं मोहनं** मोहकरम् **आत्मनः निद्रालस्यप्रमादोत्थं** निद्रा च आलस्यं च प्रमादश्च तेभ्यः समुत्तिष्ठतीति निद्रालस्यप्रमादोत्थम्; **तत् तामसम् उदाहृतम्**॥ अथ इदानीं प्रकरणोपसंहारार्थः श्लोकः आरभ्यते --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.36-39 Sukham etc. upto udahrtam. At its time : at the time of its
-practice (use). Like poison (1st) : Because it is extremely difficult to
-give up the attachment for sense-objects cultivated during hundreds of
-\[previous\] life-periods. That has been said in the revealed literature
-as : '\[The path of sprituality\] is the edge of a razor, painful and
-difficult to cross over etc.' The serenity of intellect (or mind)
-results from serenity in the Self, as there exists nothing else to be
-aspired for. The \[Rajasic\] happiness springs from the mutual contact
-between the sense-objects and senses, just as in the case of the eye due
-to its contact with colur. That happiness which is due to sleep,
-indolence and heedlessness, explained earlier, is of the Tamas (Strand).
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।18.39।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।18.39।। Sri Jayatirtha did not comment on this sloka.  
-  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।18.39।। --,**यत् अग्रे च अनुबन्धे च** अवसानोत्तरकाले च **सुखं मोहनं**
-मोहकरम् **आत्मनः निद्रालस्यप्रमादोत्थं** निद्रा च आलस्यं च प्रमादश्च
-तेभ्यः समुत्तिष्ठतीति निद्रालस्यप्रमादोत्थम्; **तत् तामसम्
-उदाहृतम्**।। अथ इदानीं प्रकरणोपसंहारार्थः श्लोकः आरभ्यते --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।18.39।। जो सुख आरम्भमें और परिणाममें भी अर्थात् उपभोगके पीछे भी;
-आत्माको मोहित करनेवाला होता है तथा निद्रा; आलस्य और प्रमादसे उत्पन्न हुआ
-है; अर्थात् जो निद्रा; आलस्य और प्रमाद इन तीनोंसे उत्पन्न होता है; वह
-सुख तामस कहा गया है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 18.39 That joy is udahrtam, said to be; tamasam, born of tamas; yat,
 which; both agre, in the beginning; ca, and; anubandhe, in the seel,
@@ -162,135 +62,154 @@ and nidra-alasya-pramada-uttham, arises from sleep, laziness and
 inadvertence. Therefore, now is begun a verse in order to conclude this
 section \[The section showing that all things in the whole of creation
 are under the influence of the three gunas.\].
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।18.39।। तामसं सुखं त्यागार्थमेवोदाहरति -- **यदग्रे चेति।**
+<details><summary>हरिकृष्णदासः</summary>
+
+॥18.39॥ जो सुख आरम्भमें और परिणाममें भी अर्थात् उपभोगके पीछे भी;
+आत्माको मोहित करनेवाला होता है तथा निद्रा; आलस्य और प्रमादसे उत्पन्न हुआ
+है; अर्थात् जो निद्रा; आलस्य और प्रमाद इन तीनोंसे उत्पन्न होता है; वह
+सुख तामस कहा गया है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥18.39॥ तामसं सुखं त्यागार्थमेवोदाहरति -- **यदग्रे चेति।**
 अनुबन्धशब्दार्थमाह -- **अवसानेति।** मोहनं मोहकरम्। तदुत्पत्तिहेतुमाह --
 **निद्रेति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।18.39।। यदग्रे चेति। अग्रे प्रथमारम्भे चानुबन्धे परिणामे च
+<details><summary>नीलकण्ठः</summary>
+
+॥18.39॥ अग्रे आरम्भे अनुबन्धे परिणामे। मोहनं मोहकरम्। आत्मनो बुद्धेः।
+यतो निद्रादिजम्।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥18.39॥ राजसं सुखमुक्त्वा तामसं तदुदाहरति। यत्सुखमग्रे च प्रथमे
+क्षणेऽनुबन्धे चावसानोत्तरकाले। चाभ्यां प्रथमक्षणादुत्तरावस्थासु
+अनुबन्धात्पूर्वावस्थासु चात्मनो मोहकरं निद्रालस्यप्रमादेभ्यः
+समुत्तिष्ठतीति निद्रालस्यप्रमादोत्थं तत्सुखं हेयं तामसमुदाहृतम्।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥18.39॥ यदग्रे चेति। अग्रे प्रथमारम्भे चानुबन्धे परिणामे च
 यत्सुखमात्मनो मोहकरं निद्रालस्ये प्रसिद्धे; प्रमादः
 कर्तव्यार्थावधानमन्तरेण मनोराज्यमात्रं तेभ्य एवोत्तिष्ठति नतु
 सात्त्विकमिव बुद्धिप्रसादजं न वा राजसमिव विषयेन्द्रियसंयोगजं
 तन्निद्रालस्यप्रमादोत्थं तामसं सुखमुदाहृतम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।18.39।। अग्रे आरम्भे अनुबन्धे परिणामे। मोहनं मोहकरम्। आत्मनो बुद्धेः।
-यतो निद्रादिजम्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।18.39।। राजसं सुखमुक्त्वा तामसं तदुदाहरति। यत्सुखमग्रे च प्रथमे
-क्षणेऽनुबन्धे चावसानोत्तरकाले। चाभ्यां प्रथमक्षणादुत्तरावस्थासु
-अनुबन्धात्पूर्वावस्थासु चात्मनो मोहकरं निद्रालस्यप्रमादेभ्यः
-समुत्तिष्ठतीति निद्रालस्यप्रमादोत्थं तत्सुखं हेयं तामसमुदाहृतम्।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.39।। यदग्रे चानुबन्धेऽनुभवान्तकाले आत्मनो मोहनं तत्तामसं; अतो
+॥18.39॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥18.39॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.36 -- 18.39॥ सुखमित्यादि तामसमुदाहृतमित्यन्तम्। तदात्वे; अभ्यासकाले। विषमिव; जन्मशताभ्यस्तविषयसङ्गस्य दुष्परिहारत्वात्। उक्तं च श्रुतौ -- क्षुरस्य धारा विषमा दुरत्यया इत्यादि। आत्मप्रसादात् बुद्धिप्रसादो जायते; अन्यस्यापेक्ष्यमाणस्याभावात्। विषयेन्द्रियाणां परस्परसंयोगज़ं,+++(S; -- संप्रयोगजम् )+++ सुखम्; चक्षुष इव रूपसंबन्धात्। निद्रातः आलस्येन प्रमादेन +++(S; ; N आलस्येन शठतया प्रमादेन )+++ पूर्वं व्याख्यातेन यत् सुखं तत्तामसम्।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.36-39 Sukham etc. upto udahrtam. At its time : at the time of its practice (use). Like poison (1st) : Because it is extremely difficult to give up the attachment for sense-objects cultivated during hundreds of \[previous\] life-periods. That has been said in the revealed literature as : '\[The path of sprituality\] is the edge of a razor, painful and difficult to cross over etc.' The serenity of intellect (or mind) results from serenity in the Self, as there exists nothing else to be aspired for. The \[Rajasic\] happiness springs from the mutual contact between the sense-objects and senses, just as in the case of the eye due to its contact with colur. That happiness which is due to sleep, indolence and heedlessness, explained earlier, is of the Tamas (Strand).
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.39॥ यदग्रे चानुबन्धेऽनुभवान्तकाले आत्मनो मोहनं तत्तामसं; अतो
 मुमुक्षुणा सर्वथा रजस्तमसी अभिभूय सत्त्वमेवोपादेयमिति तत्त्वम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.39।। तामसमाह -- यदग्रे इति। यत् अग्रे प्रथमं च पुनः अनुबन्धे पश्चात्
+<details><summary>पुरुषोत्तमः</summary>
+
+॥18.39॥ तामसमाह -- यदग्रे इति। यत् अग्रे प्रथमं च पुनः अनुबन्धे पश्चात्
 परिणामदशायां च निद्रालस्यप्रमादोत्थं निद्रा इन्द्रियापटुत्वेन
 सुखदुःखाभावात्मकानन्ददशात्मिका; आलस्यं क्रियाकरणेन शैथिल्येन स्थितिः;
 सुखाभिमानः प्रमादः कर्त्तव्यपूजाध्ययनकर्मानवधाने
 तूष्णींस्थितिरूपाज्ञानस्यानन्दभ्रमः; एतेभ्य उत्थितम्; आत्मनो जीवस्य
 मोहनं मोहकारकं भगवद्विस्मरणकारकं सुखं तामसं निष्फलं समुदाहृतं
-सम्यक्प्रकारेण उदाहृतम् ज्ञानिभिरिति शेषः।  
-  
-
+सम्यक्प्रकारेण उदाहृतम् ज्ञानिभिरिति शेषः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।18.39।। तामसं सुखमाह **-- यदिति।** अग्रे प्रथमक्षणेऽनुबन्धे च पश्चादपि
+॥18.39॥ तामसं सुखमाह **-- यदिति।** अग्रे प्रथमक्षणेऽनुबन्धे च पश्चादपि
 यत्सुखमात्मनो मोहकरम्। तदेवाह। निद्रा चालस्यं च प्रमादश्च
 कर्तव्यार्थावधानराहित्येन मनोराज्यमेतेभ्य उत्तिष्ठति यत्सुखं
 तत्तामसमुदाहृतम्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।18.39।। जो सुख मनुष्य को मोहित करने वाला होता है और जो उसकी संस्कृति
-को विकृति में परिवर्तित कर देता है वह तामस सुख माना गया है। मोह का अर्थ
-है आत्मा और अनात्मा के भेद का अभाव। तामस सुख के स्रोत हैं; निद्रा; आलस्य
-और प्रमाद। निद्रा का अर्थ सर्वविदित निद्रावस्था तो है ही; किन्तु वेदान्त
-दर्शन के अनुसार स्वस्वरूप के अज्ञान की अवस्था भी निद्रा कहलाती है। इस
-आत्म अज्ञान के कारण ही मनुष्य विषय भोगों में सुख की खोज करता है और उसमें
-ही आसक्त हो जाता है। आलस्य क्रियाशीलता रजोगुण का धर्म है और उसके विपरीत
-आलस्य तमोगुण का धर्म है। तामसी पुरुष की कर्म को टालने की प्रवृत्ति होती
-है और इस प्रकार आलस्य में ही वह अपने समय को व्यतीत कर देता है। यही उसका
-सुख है। ऐसा पुरुष विचार करने में भी आलसी होता है। इसलिए वह जीवन में
-यथार्थ निर्णय नहीं ले पाता। प्रमाद यह सत्त्वगुण के लक्षण सजगता और विवेक
-के सर्वथा विपरीत लक्षण है। प्रमादशील मनुष्य अपने हृदय के उच्च गुणों के
-आह्वान की अवहेलना और उपेक्षा करके निम्न स्तर के भोगों में रमता है। फलत
-वह दिन प्रतिदिन पशु के स्तर तक गिरता जाता है। निद्रा; आलस्य और प्रमाद से
-प्राप्त होने वाला सुख प्रारम्भ और अन्त में मनुष्य को मोहित करने वाला
-होता है और ऐसा सुख तामस माना गया है। प्रस्तुत प्रकरण का उपसंहार करते हुए
-भगवान श्रीकृष्ण कहते हैं
-
+18.39 That pleasure which, at the beginning and at the end, deludes the self, through sleep, sloth and error - is declared to be Tamasika.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.39।। जो सुख प्रारम्भ में और परिणाम (अनुबन्ध) में भी आत्मा (मनुष्य)
-को मोहित करने वाला होता है, वह निद्रा, आलस्य और प्रमाद से उत्पन्न सुख
-तामस कहा जाता है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+18.39 That joy is said to be born of tams which, both in the beginning and in the seel, is delusive to oneself and arises from sleep, laziness and inadvertence.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+18.39 While the pleasure which from first to last merely drugs the senses, which springs from indolence, lethargy and folly - that pleasure flows from Ignorance.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.39. The happiness which, \[both\] at the beginning and subseently, is of the nature of deluding the Self; and which results from sleep,
+indolence and heedleness-that is stated to be of the Tamas (Strand).
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+18.39 That happiness which at first as well as in the seel deludes the self, and which arises from sleep, indolence and heedlessness that is declared to be Tamasic.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+18.39 यत् which; अग्रे at first; च and; अनुबन्धे in the seel; च and;
+सुखम् pleasure; मोहनम् delusive; आत्मनः of the self;
+निद्रालस्यप्रमादोत्थम् arising from sleep; indolence and heedlessness;
+तत् that; तामसम् Tamasic; उदाहृतम् is declared.Commentary Anubandhe In the conseence after the termination. The pleasure that is begotten by evil habits like drinking liors and eating worthless things is delusive of the self. The man becomes oblivious of the path he ought to tread.
+Such pleasure is verily of the nature of darkness.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.39।। निद्रा, आलस्य और प्रमादसे उत्पन्न होनेवाला जो सुख आरम्भमें और
 परिणाममें अपनेको मोहित करनेवाला है, वह सुख तामस कहा गया है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।18.39।।***व्याख्या --***  **निद्रालस्यप्रमादोत्थम् --** जब राग
 अत्यधिक बढ़ जाता है; तब वह तमोगुणका रूप धारण कर लेता है। इसीको मोह कहते
@@ -462,59 +381,35 @@ _________________
 ***सम्बन्ध --***  बीसवेंसे उन्तालीसवें श्लोकतक भगवान्ने गुणोंकी
 मुख्यताको लेकर ज्ञान; कर्म आदिके तीनतीन भेद बताये। अब इनके सिवाय गुणोंको
 लेकर सृष्टिकी सम्पूर्ण वस्तुओंके भी तीनतीन भेद होते हैं -- इसका लक्ष्य
-कराते हुए भगवान् आगेके श्लोकमें प्रकरणका उपसंहार करते हैं।  
-  
-
+कराते हुए भगवान् आगेके श्लोकमें प्रकरणका उपसंहार करते हैं।
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-18.39. The happiness which, \[both\] at the beginning and subseently, is of the nature of deluding the Self; and which results from sleep,
-indolence and heedleness-that is stated to be of the Tamas (Strand).
-
+।।18.39।। जो सुख मनुष्य को मोहित करने वाला होता है और जो उसकी संस्कृति
+को विकृति में परिवर्तित कर देता है वह तामस सुख माना गया है। मोह का अर्थ
+है आत्मा और अनात्मा के भेद का अभाव। तामस सुख के स्रोत हैं; निद्रा; आलस्य
+और प्रमाद। निद्रा का अर्थ सर्वविदित निद्रावस्था तो है ही; किन्तु वेदान्त
+दर्शन के अनुसार स्वस्वरूप के अज्ञान की अवस्था भी निद्रा कहलाती है। इस
+आत्म अज्ञान के कारण ही मनुष्य विषय भोगों में सुख की खोज करता है और उसमें
+ही आसक्त हो जाता है। आलस्य क्रियाशीलता रजोगुण का धर्म है और उसके विपरीत
+आलस्य तमोगुण का धर्म है। तामसी पुरुष की कर्म को टालने की प्रवृत्ति होती
+है और इस प्रकार आलस्य में ही वह अपने समय को व्यतीत कर देता है। यही उसका
+सुख है। ऐसा पुरुष विचार करने में भी आलसी होता है। इसलिए वह जीवन में
+यथार्थ निर्णय नहीं ले पाता। प्रमाद यह सत्त्वगुण के लक्षण सजगता और विवेक
+के सर्वथा विपरीत लक्षण है। प्रमादशील मनुष्य अपने हृदय के उच्च गुणों के
+आह्वान की अवहेलना और उपेक्षा करके निम्न स्तर के भोगों में रमता है। फलत
+वह दिन प्रतिदिन पशु के स्तर तक गिरता जाता है। निद्रा; आलस्य और प्रमाद से
+प्राप्त होने वाला सुख प्रारम्भ और अन्त में मनुष्य को मोहित करने वाला
+होता है और ऐसा सुख तामस माना गया है। प्रस्तुत प्रकरण का उपसंहार करते हुए
+भगवान श्रीकृष्ण कहते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.39 That joy is said to be born of tams which, both in the beginning and in the seel, is delusive to oneself and arises from sleep, laziness and inadvertence.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।18.39।। जो सुख प्रारम्भ में और परिणाम (अनुबन्ध) में भी आत्मा (मनुष्य)
+को मोहित करने वाला होता है, वह निद्रा, आलस्य और प्रमाद से उत्पन्न सुख
+तामस कहा जाता है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.39 While the pleasure which from first to last merely drugs the senses, which springs from indolence, lethargy and folly - that pleasure flows from Ignorance.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-18.39 That pleasure which, at the beginning and at the end, deludes the self, through sleep, sloth and error - is declared to be Tamasika.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-18.39 That happiness which at first as well as in the seel deludes the self, and which arises from sleep, indolence and heedlessness that is declared to be Tamasic.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-18.39 यत् which; अग्रे at first; च and; अनुबन्धे in the seel; च and;
-सुखम् pleasure; मोहनम् delusive; आत्मनः of the self;
-निद्रालस्यप्रमादोत्थम् arising from sleep; indolence and heedlessness;
-तत् that; तामसम् Tamasic; उदाहृतम् is declared.Commentary Anubandhe In the conseence after the termination. The pleasure that is begotten by evil habits like drinking liors and eating worthless things is delusive of the self. The man becomes oblivious of the path he ought to tread.
-Such pleasure is verily of the nature of darkness.
-
-</details>
 </div>

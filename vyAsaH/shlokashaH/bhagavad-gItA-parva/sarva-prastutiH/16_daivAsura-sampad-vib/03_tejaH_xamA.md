@@ -1,201 +1,63 @@
 +++
 title = "03 तेजः क्षमा"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **तेजः** क्षमा धृतिः शौचम्  
 अद्रोहो **नाति-मानिता**।  
 **भवन्ति** सम्पदं **दैवीम्**  
 **अभिजातस्य** भारत॥16.3॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता।  
-भवन्ति सम्पदं दैवीमभिजातस्य भारत।।16.3।।
+भवन्ति सम्पदं दैवीमभिजातस्य भारत॥16.3॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-16.01 इति वीक्षताम्। 
+16.01 इति वीक्षताम्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।16.3।। भूतेतरविषयस्तेजश्शब्दः पराभिभवनसामर्थ्ये अन्यानपेक्षतायां वा
-प्रयुज्यते अतोऽत्राभिभावकत्वाविनाभूतमनभिभवनीयत्वं विवक्षितम् तच्च
-दुर्जनावकाशप्रदायिकार्पण्याभावद्वारेत्यभिप्रायेणाह -- दुर्जनैरिति।
-अक्रोधात् क्षमाया विशेषं दर्शयति -- परनिमित्तपीडानुभवेऽपीति। निरपराधेषु
-निर्विकारता ह्यौदासीन्यमात्रम्। न तु क्षमा पठ्यते च निरपराधेष्वपि क्रोधः
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥16.3॥ भूतेतरविषयस्तेजश्शब्दः पराभिभवनसामर्थ्ये अन्यानपेक्षतायां वा प्रयुज्यते अतोऽत्राभिभावकत्वाविनाभूतमनभिभवनीयत्वं विवक्षितं तच्च दुर्जनावकाशप्रदायिकार्पण्याभावद्वारेत्यभिप्रायेणाह -- दुर्जनैरिति। अक्रोधात् क्षमाया विशेषं दर्शयति -- परनिमित्तपीडानुभवेऽपीति। निरपराधेषु निर्विकारता ह्यौदासीन्यमात्रम्। न तु क्षमा पठ्यते च निरपराधेष्वपि क्रोधः
 -- ब्राह्मणा गणिका वैद्याः सारमेयाश्च कुक्कुटाः। दृष्टमात्रेण कुप्यन्ति
-न जाने तत्र कारणम् इतीत्यभिप्रायः। परेषु तं प्रतीति -- परेषां पीडानुभवं
-प्रतीत्यर्थः। भयचापलनिवृत्तेः पृथगुक्तत्वादुपस्थितायामपि महत्यामापदि
-शास्त्रीयानुष्ठानसङ्कल्पस्य अप्रच्युतावलम्बनमिह सात्त्विकी
-धृतिरित्यभिप्रायेणाह -- महत्यामिति। महत्यापदि सम्प्राप्ते() स्मर्तव्यो
-भगवान् हरिः \[म.भा.2।68।42\] इति सुकरमुख्यकर्तव्यापरित्यागादितरदपि
-कर्तव्यं कृतमेव हि स्यादिति भावः। वक्ष्यति च सात्त्विकीं धृतिंधृत्या यया
-धारयते मनःप्राणेन्द्रियक्रियाः। योगेनाव्यभिचारिण्या धृतिः सा पार्थ
-सात्त्विकी \[18।33\] इति। योगेनाव्यभिचारिण्या
-मोक्षसाधनभूतभगवदुपासनाख्यप्रयोजनेन प्रयोजनान्तरनिरपेक्षयेत्यर्थः।
-शरीरवाङ्मनांसि ह्यशुचिपुरुषस्पर्शाशुचिद्रव्योपयोगादिभिरुपहतसत्त्वानि
-तेषुतेषु कर्मस्वयोग्यानि शास्त्रैः शिष्यन्ते। तदभावोऽत्र
-शौचमित्याहबाह्येति। प्रत्यक्षसिद्धकरणपाटवादिरूपकृत्ययोग्यताव्यवच्छेदायाह
+न जाने तत्र कारणम् इतीत्यभिप्रायः। परेषु तं प्रतीति -- परेषां पीडानुभवं प्रतीत्यर्थः। भयचापलनिवृत्तेः पृथगुक्तत्वादुपस्थितायामपि महत्यामापदि शास्त्रीयानुष्ठानसङ्कल्पस्य अप्रच्युतावलम्बनमिह सात्त्विकी धृतिरित्यभिप्रायेणाह -- महत्यामिति। महत्यापदि सम्प्राप्ते() स्मर्तव्यो भगवान् हरिः \[म.भा.2।68।42\] इति सुकरमुख्यकर्तव्यापरित्यागादितरदपि कर्तव्यं कृतमेव हि स्यादिति भावः। वक्ष्यति च सात्त्विकीं धृतिन्धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः। योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी \[18।33\] इति। योगेनाव्यभिचारिण्या मोक्षसाधनभूतभगवदुपासनाख्यप्रयोजनेन प्रयोजनान्तरनिरपेक्षयेत्यर्थः। शरीरवाङ्मनांसि ह्यशुचिपुरुषस्पर्शाशुचिद्रव्योपयोगादिभिरुपहतसत्त्वानि तेषुतेषु कर्मस्वयोग्यानि शास्त्रैः शिष्यन्ते। तदभावोऽत्र शौचमित्याहबाह्येति। प्रत्यक्षसिद्धकरणपाटवादिरूपकृत्ययोग्यताव्यवच्छेदायाह
 -- शास्त्रीयेति। अहिंसाया उक्तत्वादद्रोहस्य ततो विशेषप्रदर्शनायाह --
-परेष्वनुपरोध इति। प्रबलेन हि दुर्बलाः स्ववशे
-स्थापिताः,स्वाच्छन्द्यान्निवार्यन्ते; सोऽयमुपरोधः तदकरणमत्रानुपरोध
-इत्याह -- स्वच्छन्देति। स्वस्य तु योगोपकारी स्वच्छन्दवृत्तिनिरोधस्तप एव।
-अतःपरेष्विति विशेषितम्। मानो गर्व इति पर्यायस्तु सामान्यत इह
-निषेद्धुमिष्टः तथापि वंशवीर्यश्रुताद्यनुगुणं मात्रया भवन्नसौ सह्येतापि
-अन्यथा भवन्नसुराणां धर्मतया वक्ष्यमाणोऽत्र न प्रसङ्गमर्हतीत्यभिप्रायेण
-सोपसर्गमाननिषेध इत्याह -- अस्थाने गर्व इति।  
-  
-दैवीं सम्पदम् इत्युक्ते देवानां विभूतिः प्रतीयेत सा चात्र नान्वेति
-अतोऽभिप्रेतमवतारयितुं व्युत्पत्तिं तावदाह -- देवसम्बन्धिनीति। सत्त्वं
-देवगुणं विद्यादितरावासुरौ गुणौ इति विभागात्;सत्त्वात्सञ्जायते ज्ञानम्
-\[14।17\] इति सत्त्वस्यानुष्ठानपर्यन्तज्ञानहेतुत्वाच्च
-सत्त्वोत्तरत्वादेव भगवदाज्ञां नातिवर्तन्ते तदादावेवाह --
-भगवदाज्ञानुवृत्तिशीला इति। सैव च तेषां सम्पदभिमता। अविवेकिनां
-भोग्यतत्साधनसमृद्धिवत्तेषां भगवदाज्ञानुवृत्तेः
-प्रीतिविषयत्वात्परमपुरुषार्थहेतुत्वाच्चेत्याह -- सा चेति। उक्तं
-चमहात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः। भजन्त्यनन्यमनसो ज्ञात्वा
-भूतादिमव्ययम् \[9।13\] इति। अन्यत्र चविष्णुभक्तिपरो देवः
-\[वि.ध.109।74अ.पु.373।12\] इति। जातस्येत्यकर्मकस्य जायतेः
-पतत्यादिष्विवोपसर्गवशाद्द्वितीयान्वयमाह -- तामभिमुखीकृत्येति। अभिरभागे
-\[अष्टा.1।4।91\] इति कर्मप्रवचनीययोगाद्वा द्वितीया। अभिमुखीकृत्य
-अभिलक्ष्य यथा दैवी सम्पद्भवति; तथा कृत्वा जातस्येति यावत्।
-ईदृशगुणयुक्तानामेवंविधायाः सम्पदोऽवश्यम्भावित्वमत्र अभिमुखीकरणं
-विवक्षितम्। तथा च स्मर्यते -- जायमानं हि पुरुषं यं पश्येन्मधुसूदनः।
-सात्त्विकः स तु विज्ञेयः स वै मोक्षार्थचिन्तकः इति। तदिदमाह -- तां
-निर्वर्तयितुं जातस्येति। ,
-
+परेष्वनुपरोध इति। प्रबलेन हि दुर्बलाः स्ववशे स्थापिताः,स्वाच्छन्द्यान्निवार्यन्ते; सोऽयमुपरोधः तदकरणमत्रानुपरोध इत्याह -- स्वच्छन्देति। स्वस्य तु योगोपकारी स्वच्छन्दवृत्तिनिरोधस्तप एव। अतःपरेष्विति विशेषितम्। मानो गर्व इति पर्यायस्तु सामान्यत इह निषेद्धुमिष्टः तथापि वंशवीर्यश्रुताद्यनुगुणं मात्रया भवन्नसौ सह्येतापि अन्यथा भवन्नसुराणां धर्मतया वक्ष्यमाणोऽत्र न प्रसङ्गमर्हतीत्यभिप्रायेण सोपसर्गमाननिषेध इत्याह -- अस्थाने गर्व इति।  
+        
+दैवीं सम्पदम् इत्युक्ते देवानां विभूतिः प्रतीयेत सा चात्र नान्वेति अतोऽभिप्रेतमवतारयितुं व्युत्पत्तिं तावदाह -- देवसम्बन्धिनीति। सत्त्वं देवगुणं विद्यादितरावासुरौ गुणौ इति विभागात्;सत्त्वात्सञ्जायते ज्ञानम् \[14।17\] इति सत्त्वस्यानुष्ठानपर्यन्तज्ञानहेतुत्वाच्च सत्त्वोत्तरत्वादेव भगवदाज्ञां नातिवर्तन्ते तदादावेवाह -- भगवदाज्ञानुवृत्तिशीला इति। सैव च तेषां सम्पदभिमता। अविवेकिनां भोग्यतत्साधनसमृद्धिवत्तेषां भगवदाज्ञानुवृत्तेः प्रीतिविषयत्वात्परमपुरुषार्थहेतुत्वाच्चेत्याह -- सा चेति। उक्तं चमहात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः। भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् \[9।13\] इति। अन्यत्र चविष्णुभक्तिपरो देवः \[वि.ध.109।74अ.पु.373।12\] इति। जातस्येत्यकर्मकस्य जायतेः पतत्यादिष्विवोपसर्गवशाद्द्वितीयान्वयमाह -- तामभिमुखीकृत्येति। अभिरभागे \[अष्टा.1।4।91\] इति कर्मप्रवचनीययोगाद्वा द्वितीया। अभिमुखीकृत्य अभिलक्ष्य यथा दैवी सम्पद्भवति; तथा कृत्वा जातस्येति यावत्। ईदृशगुणयुक्तानामेवंविधायाः सम्पदोऽवश्यम्भावित्वमत्र अभिमुखीकरणं विवक्षितम्। तथा च स्मर्यते -- जायमानं हि पुरुषं यं पश्येन्मधुसूदनः। सात्त्विकः स तु विज्ञेयः स वै मोक्षार्थचिन्तकः इति। तदिदमाह -- तां निर्वर्तयितुं जातस्येति। ,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 16.3 'Grandeur' is the ality by virtue of which one cannot be overpowered by the wicked. 'Forgiveness' is freedom from the feelings of antagonism towards others even when they cause injury to oneself.
 'Fortitude' is the sense of determination to do one's own duty even under conditions of great danger. 'Purity' is fitness of the body and the mind as prescribd in the scriptures for the performance of sacred deeds. 'Freedom from hatred' is non-interference with others, viz.,
 absence of interference in the actions of others according to their wish. 'Over-pride' (Atimanita) is having unbridled self-esteem; freedom from misplaced pride is meant here. These are the virtues that are found in one who is born for the 'divine destiny.' The destiny associated with the divinities is divine. The divinities are those who are devoted to carry out the ;ndments of the Lord. It is their destiny. It is obedience to the ;ndments of the Lord. The meaning is that these are endowments in those who are born with a tendency or disposition towards them and seek to attain their fulfilment.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।16.1 -- 16.5।। एतद्बुद्ध्वा इत्युक्तम्। बोधश्च नाम श्रुतिमयज्ञानान्तरम्
-+++(S श्रुत -- )+++ इदमित्थम् इत्येवंभूतयुक्तिचिन्ताभावनामयज्ञानोदेयेन +++(S;;N
-चिन्तामयज्ञानोदयेन)+++ विचारविमर्शपरमर्शादिरूपेण
-विजातीयन्यक्कारविरहिततद्भावनामयस्वभ्यस्ताकारविज्ञानलाभे सति भवति।
-यद्वक्ष्यते +++(S तद्वक्ष्यते N तद्वक्ष्यति)+++ -- विमृश्यैतदशेषेण यथेच्छसी
-तथा कुरु +++(XVIII; 63)+++ इति। तत्र श्रुतिमये ज्ञाने गुरुशास्त्रे एव
-प्राधान्येन प्रभवतः युक्तिचिन्ताभावनामये तु विमर्शक्षमता असाधारणा
-शिष्यगुणसंपत् ( -- रणशिष्य -- ) प्रधानभूता। अतः अर्जुनस्यास्त्येवासौ
-इत्यभिप्रायेण वक्ष्यमाणं विमृश्यैतत् इति वाक्यं सविषयं कर्तुं
-परिकरबन्धयोजनाभिप्रायेण आह भगवान् गुरुः अभयम् इत्यादि। आसुरभागसन्नविष्टा
-तामसी किल अविद्या। सा प्रवृद्धया दिव्यांशग्राहित्या विद्यया बाध्यते (
-प्रवृद्धाया -- विद्याया बध्यते) इति वस्तुस्वभाव एषः। त्वं च विद्यात्मानं
-दिव्यमंशं सात्त्विकमभिप्रपन्नः तस्मादान्तरीं मोहलक्षणामविद्यां विहाय
-बाह्याविद्यात्मशत्रुहननलक्षणं +++(S बाह्यविद्या)+++ शास्त्रीयव्यापारम्
-अनुतिष्ठ इत्यध्यायारम्भः। तथाहि -- अभयमित्यादि पाण्डवेत्यन्तम्।
-दिव्यांशस्य इमानि चिह्नानि तानि स्फुटमेवाभिलक्ष्यन्ते +++(S;
-स्फुटमेवोपलक्ष्यन्ते)+++। दमः +++(S omits दमः)+++ इन्द्रियजयः। चापलं
-पूर्वापरमविमृश्य यत् करणम्; तदभावः अचापलम्। तेजः आत्मनि उत्साहग्रहणेन
-मितत्वापाकरणम्। दैवी संपदेषा। सा च तव विमोक्षाय; कामनापरिहारात्।
-अतस्त्वं शोकं मा प्रापः -- यथा भ्रात्रादीन् हत्वा सुखं कथमश्नुवीय इति।
-शिष्टं स्पष्टम्।
-
+॥16.3॥ --,**तेजः** प्रागल्भ्यं न त्वग्गता दीप्तिः। **क्षमा** आक्रुष्टस्य ताडितस्य वा अन्तर्विक्रियानुत्पत्तिः; उत्पन्नायां विक्रियायाम् उपशमन् अक्रोधः इति अवोचाम। इत्थं क्षमायाः अक्रोधस्य च विशेषः। **धृतिः** देहेन्द्रियेषु अवसादं प्राप्तेषु तस्य प्रतिषेधकः अन्तःकरणवृत्तिविशेषः; येन उत्तम्भितानि करणानि देहश्च न अवसीदन्ति। **शौचं** द्विविधं मृज्जलकृतं बाह्यम् आभ्यन्तरं च मनोबुद्ध्योः नैर्मल्यं मायारागादिकालुष्याभावः एवं द्विविधं शौचम्। **अद्रोहः** परजिघांसाभावः अहिंसनम्। **नातिमानिता** अत्यर्थं मानः अतिमानः; सः यस्य विद्यते सः अतिमानी; तद्भावः अतिमानिता; तदभावः नातिमानिता आत्मनः पूज्यतातिशयभावनाभाव इत्यर्थः। **भवन्ति** अभयादीनि एतदन्तानि **संपदं अभिजातस्य।** किं विशिष्टां संपदम् **दैवीं** देवानां या संपत् ताम् अभिलक्ष्य जातस्य देवविभूत्यर्हस्य भाविकल्याणस्य इत्यर्थः; हे **भारत**॥ अथ इदानीं आसुरी संपत् उच्यते --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.3 See Coment under 16.5
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।16.3।। क्षमा तु क्रोधाभावेन सहापकर्तुरनपकारः। अक्रोधदोषकृच्छत्रोः
-क्षमावान्स निगद्यते इत्यभिधानात्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।16.3।। अक्रोधः \[16।2\] इत्युक्तत्वात् क्षमेति पुनरुक्तिरित्यत आह --
-**क्षमा त्वि**ति। क्रोधं दोषं अपकारं च न करोतीत्यक्रोधदोषकृत्।
-शत्रोरपकर्तुः।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।16.3।। --,**तेजः** प्रागल्भ्यं न त्वग्गता दीप्तिः। **क्षमा**
-आक्रुष्टस्य ताडितस्य वा अन्तर्विक्रियानुत्पत्तिः; उत्पन्नायां
-विक्रियायाम् उपशमन् अक्रोधः इति अवोचाम। इत्थं क्षमायाः अक्रोधस्य च
-विशेषः। **धृतिः** देहेन्द्रियेषु अवसादं प्राप्तेषु तस्य प्रतिषेधकः
-अन्तःकरणवृत्तिविशेषः; येन उत्तम्भितानि करणानि देहश्च न अवसीदन्ति।
-**शौचं** द्विविधं मृज्जलकृतं बाह्यम् आभ्यन्तरं च मनोबुद्ध्योः नैर्मल्यं
-मायारागादिकालुष्याभावः एवं द्विविधं शौचम्। **अद्रोहः** परजिघांसाभावः
-अहिंसनम्। **नातिमानिता** अत्यर्थं मानः अतिमानः; सः यस्य विद्यते सः
-अतिमानी; तद्भावः अतिमानिता; तदभावः नातिमानिता आत्मनः पूज्यतातिशयभावनाभाव
-इत्यर्थः। **भवन्ति** अभयादीनि एतदन्तानि **संपदं अभिजातस्य।** किं
-विशिष्टां संपदम् **दैवीं** देवानां या संपत् ताम् अभिलक्ष्य जातस्य
-देवविभूत्यर्हस्य भाविकल्याणस्य इत्यर्थः; हे **भारत**।। अथ इदानीं आसुरी
-संपत् उच्यते --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।16.3।। तथा --, तेज प्रागल्भ्य ( तेजस्विता ); चमड़ीकी चमक नहीं। क्षमा --
-गाली दी जाने या ताड़ना दी जानेपर भी अन्तःकरणमें विकार उत्पन्न न होना।
-उत्पन्न हुए विकारको शान्ति कर देना तो पहले अक्रोधके नामसे कह चुके हैं।
-क्षमा और अक्रोधका इतना ही भेद है। धृति शरीर और इन्द्रियादिमें थकावट
-उत्पन्न होनेपर; उस थकावटको हटानेवाली जो अन्तःकरणकी वृत्ति है; उसका नाम
-धृति है; जिसके द्वारा उत्साहित की हुई इन्द्रियाँ और शरीर कार्यमें नहीं
-थकते। शौच दो प्रकारकी शुद्धि; अर्थात् मिट्टी और जल आदिसे बाहरकी शुद्धि;
-एवं कपट और रागादिकी कालिमाका अभाव होकर मनबुद्धिकी निर्मलतारूप भीतरकी
-शुद्धि; इस प्रकार दो तरह की शुद्धि। अद्रोह -- दूसरेका घात करनेकी इच्छाका
-अभाव; यानी हिंसा न करना। अतिमानिताका अभाव अत्यन्त मानका नाम अतिमान है;
-वह जिसमें हो वह अतिमानी है; उसका भाव अतिमानिता है; उसका जो अभाव है वह
-नातिमानिता है; अर्थात् अपनेमें अतिशय पूज्य भावनाका न होना। हे भारत अभय
-से लेकर यहाँतकके ये सब लक्षण; सम्पत्तियुक्त उत्पन्न हुए पुरुषमें होते
-हैं। कैसी सम्पत्तिसे युक्त पुरुषमें होते हैं जो दैवी सम्पत्तिको साथ लेकर
-उत्पन्न हुआ है; अर्थात् जो देवताओंकी विभूतिका योग्य पात्र है और
-भविष्यमें जिसका कल्याण होना निश्चित है; उस पुरुषके ये लक्षण होते हैं।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 16.3 Tajah, vigour, not the brightness of the skin; ksama, forgiveness,
 absence of internal perturbation when offened or assulated-absence of
@@ -218,13 +80,31 @@ daivim, divine; sampadam, nature-of one destined to have divine
 attributes, of one who is worthy of the excellence of the gods, i.e., of
 one who would be illustrations in future. Thereafter, the demoniacal
 nature is now being stated:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।16.3।। दैवीं संपदं प्राप्तस्य विशेषणान्तराण्यपि सन्तीत्याह --
+<details><summary>हरिकृष्णदासः</summary>
+
+॥16.3॥ तथा --, तेज प्रागल्भ्य ( तेजस्विता ); चमड़ीकी चमक नहीं। क्षमा --
+गाली दी जाने या ताड़ना दी जानेपर भी अन्तःकरणमें विकार उत्पन्न न होना।
+उत्पन्न हुए विकारको शान्ति कर देना तो पहले अक्रोधके नामसे कह चुके हैं।
+क्षमा और अक्रोधका इतना ही भेद है। धृति शरीर और इन्द्रियादिमें थकावट
+उत्पन्न होनेपर; उस थकावटको हटानेवाली जो अन्तःकरणकी वृत्ति है; उसका नाम
+धृति है; जिसके द्वारा उत्साहित की हुई इन्द्रियाँ और शरीर कार्यमें नहीं
+थकते। शौच दो प्रकारकी शुद्धि; अर्थात् मिट्टी और जल आदिसे बाहरकी शुद्धि;
+एवं कपट और रागादिकी कालिमाका अभाव होकर मनबुद्धिकी निर्मलतारूप भीतरकी
+शुद्धि; इस प्रकार दो तरह की शुद्धि। अद्रोह -- दूसरेका घात करनेकी इच्छाका
+अभाव; यानी हिंसा न करना। अतिमानिताका अभाव अत्यन्त मानका नाम अतिमान है;
+वह जिसमें हो वह अतिमानी है; उसका भाव अतिमानिता है; उसका जो अभाव है वह
+नातिमानिता है; अर्थात् अपनेमें अतिशय पूज्य भावनाका न होना। हे भारत अभय
+से लेकर यहाँतकके ये सब लक्षण; सम्पत्तियुक्त उत्पन्न हुए पुरुषमें होते
+हैं। कैसी सम्पत्तिसे युक्त पुरुषमें होते हैं जो दैवी सम्पत्तिको साथ लेकर
+उत्पन्न हुआ है; अर्थात् जो देवताओंकी विभूतिका योग्य पात्र है और
+भविष्यमें जिसका कल्याण होना निश्चित है; उस पुरुषके ये लक्षण होते हैं।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥16.3॥ दैवीं संपदं प्राप्तस्य विशेषणान्तराण्यपि सन्तीत्याह --
 **किञ्चेति।** व्यावर्त्यं कीर्तयति -- **नेति।** अध्यात्माधिकारादिति
 शेषः। क्षमाक्रोधयोरेकार्थत्वेन पौनरुक्त्यमाशङ्क्य परिहरति --
 **उत्पन्नायामिति।** तयोरेवं विशेषादपौनरुक्त्यं फलतीत्याह --
@@ -234,13 +114,42 @@ nature is now being stated:
 इति।** कस्यैतानि विशेषणानीत्यपेक्षायामाह -- **भवन्तीति।** साधकस्य
 मनुष्यदेहस्थस्यैव कथं दैवीं संपदमभिलक्ष्य जातत्वमित्याशङ्क्याह --
 **दैवीति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।16.3।। तेज इति। तेजः प्रागल्भ्यं स्त्रीबालकादिभिर्मूढैरनभिभाव्यत्वम्।
+<details><summary>नीलकण्ठः</summary>
+
+॥16.3॥ किञ्च तेजः प्रागल्भ्यं न तूग्रता। क्षमा आक्रुष्टस्य ताडितस्य
+वान्तर्विक्रियानुत्पत्तिः। उत्पन्नाया विक्रियायाः प्रशमनमक्रोध
+इत्युक्तम्। धृतिर्देहेन्द्रियेष्ववसादं प्राप्तेषु तस्य
+प्रतिषेधकोऽन्तःकरणवृत्तिविशेषो येनोत्तम्भितानि देहादीनि नावसीदन्ति। शौचं
+द्विविधं मृज्जलाभ्यां बाह्यम्; आन्तरं मनोबुद्ध्योर्नैर्मल्यं
+मायारागादिकालुष्याभावः। अद्रोहः परजिघांसाया अभावः। नातिमानिता अत्यन्तं
+मानराहित्यम्। एतानि अभयादीनि दैवीं सत्त्वप्रधानां संपदं अभिलक्ष्य जातस्य
+स्वभावतो भवन्ति हे भारत।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥16.3॥ किंच तेजः प्रागल्भ्यं मूढैरभिभवितुमशक्यत्वम्। सत्यपि
+विक्रियाकारणाक्रोशादौ विक्रियानुत्पत्तिः क्षमा। उत्पन्नाया विक्रियाया
+उपशमनक्रोध मूढैरभिभवितुमशक्यत्वम्। सत्यपि विक्रियाकारणाक्रोशादौ
+विक्रियानुत्पत्तिः क्षमा। उत्पन्नाया विक्रियाया उपशमनक्रोध
+इत्यक्रोधेनापौनरुक्त्यम्। धृतिर्धैर्यमन्तःकरणस्य वृत्तिविशेषो
+येनोत्तम्भितानि करणानि देहश्चावसादकारणे सत्यपि नावसीदति। शौचं द्विविधं
+बाह्यमाभ्यन्तरं च मृज्जलाभ्यां कृतं बाह्यं मायारागादिकालुष्याभावेन
+मनोबुद्य्धोर्नैर्मल्यमाभ्यन्तरम्। स्वाध्यायादिवद्वाह्यशोचस्यापि
+सात्त्विकवासनाधीनत्वेन बाह्यं शौचमत्र न ग्राह्यं तस्य शरीरशुद्धिरुपतया
+बाह्यत्वेनान्तःकरणवासनाशोधकत्वाभावादिति प्रत्युक्तम्।
+परिजिघांसाभावोऽद्रोहः। आत्मनः पूज्यतातिशयभावनाऽतिमानिता तदभावो
+नातिमानिता। एतान्यभयादीनि एतदन्तानि सात्त्विकीं सत्त्वप्रधानां दैवीं
+देवानां संपदमभिलक्ष्य जातस्य दैवीविभूत्यर्हस्य भाविकल्याणस्य भवन्ति।
+त्वमपि उत्तमवंशोद्भवत्वाद्दैवीं संपदमभिलक्ष्य जातोऽसीति सूचयन्नाह
+भारतेति।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥16.3॥ तेज इति। तेजः प्रागल्भ्यं स्त्रीबालकादिभिर्मूढैरनभिभाव्यत्वम्।
 क्षमा सत्यपि सामर्थ्ये परिभवहेतुंप्रति क्रोधस्यानुत्पत्तिः।
 धृतिर्देहेन्द्रियेष्ववसादं प्राप्तेष्वपि तदुत्तम्भकः प्रयत्नविशेषः।
 येनोत्तम्भितानि करणानि शरीरं च नावसीदन्ति। एतत्त्रयं
@@ -260,178 +169,134 @@ nature is now being stated:
 समन्वारभेते पूर्वप्रज्ञा च पुण्यः पुण्येन कर्मणा भवति पापः पापेन
 इत्यादिश्रुतिभ्यः। हे भारतेति संबोधयन् शुद्धवंशोद्भवत्वेन
 पूतत्वात्त्वमेतादृशधर्मयोग्योऽसीति सूचयति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।16.3।। किञ्च तेजः प्रागल्भ्यं न तूग्रता। क्षमा आक्रुष्टस्य ताडितस्य
-वान्तर्विक्रियानुत्पत्तिः। उत्पन्नाया विक्रियायाः प्रशमनमक्रोध
-इत्युक्तम्। धृतिर्देहेन्द्रियेष्ववसादं प्राप्तेषु तस्य
-प्रतिषेधकोऽन्तःकरणवृत्तिविशेषो येनोत्तम्भितानि देहादीनि नावसीदन्ति। शौचं
-द्विविधं मृज्जलाभ्यां बाह्यम्; आन्तरं मनोबुद्ध्योर्नैर्मल्यं
-मायारागादिकालुष्याभावः। अद्रोहः परजिघांसाया अभावः। नातिमानिता अत्यन्तं
-मानराहित्यम्। एतानि अभयादीनि दैवीं सत्त्वप्रधानां संपदं अभिलक्ष्य जातस्य
-स्वभावतो भवन्ति हे भारत।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।16.3।। किंच तेजः प्रागल्भ्यं मूढैरभिभवितुमशक्यत्वम्। सत्यपि
-विक्रियाकारणाक्रोशादौ विक्रियानुत्पत्तिः क्षमा। उत्पन्नाया विक्रियाया
-उपशमनक्रोध मूढैरभिभवितुमशक्यत्वम्। सत्यपि विक्रियाकारणाक्रोशादौ
-विक्रियानुत्पत्तिः क्षमा। उत्पन्नाया विक्रियाया उपशमनक्रोध
-इत्यक्रोधेनापौनरुक्त्यम्। धृतिर्धैर्यमन्तःकरणस्य वृत्तिविशेषो
-येनोत्तम्भितानि करणानि देहश्चावसादकारणे सत्यपि नावसीदति। शौचं द्विविधं
-बाह्यमाभ्यन्तरं च मृज्जलाभ्यां कृतं बाह्यं मायारागादिकालुष्याभावेन
-मनोबुद्य्धोर्नैर्मल्यमाभ्यन्तरम्। स्वाध्यायादिवद्वाह्यशोचस्यापि
-सात्त्विकवासनाधीनत्वेन बाह्यं शौचमत्र न ग्राह्यं तस्य शरीरशुद्धिरुपतया
-बाह्यत्वेनान्तःकरणवासनाशोधकत्वाभावादिति प्रत्युक्तम्।
-परिजिघांसाभावोऽद्रोहः। आत्मनः पूज्यतातिशयभावनाऽतिमानिता तदभावो
-नातिमानिता। एतान्यभयादीनि एतदन्तानि सात्त्विकीं सत्त्वप्रधानां दैवीं
-देवानां संपदमभिलक्ष्य जातस्य दैवीविभूत्यर्हस्य भाविकल्याणस्य भवन्ति।
-त्वमपि उत्तमवंशोद्भवत्वाद्दैवीं संपदमभिलक्ष्य जातोऽसीति सूचयन्नाह
-भारतेति।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।16.1 -- 16.3।। पूर्वाध्यायेयो मामेवमसम्मूढो जानाति पुरुषोत्तमम्
+॥16.3॥ क्षमा तु क्रोधाभावेन सहापकर्तुरनपकारः। अक्रोधदोषकृच्छत्रोः
+क्षमावान्स निगद्यते इत्यभिधानात्।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥16.3॥ अक्रोधः \[16।2\] इत्युक्तत्वात् क्षमेति पुनरुक्तिरित्यत आह --
+**क्षमा त्वि**ति। क्रोधं दोषं अपकारं च न करोतीत्यक्रोधदोषकृत्।
+शत्रोरपकर्तुः।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
+
+<details><summary>मूलम्</summary>
+
+॥16.1 -- 16.5॥ एतद्बुद्ध्वा इत्युक्तम्। बोधश्च नाम श्रुतिमयज्ञानान्तरम् +++(S श्रुत -- )+++ इदमित्थम् इत्येवंभूतयुक्तिचिन्ताभावनामयज्ञानोदेयेन +++(S;;N चिन्तामयज्ञानोदयेन)+++ विचारविमर्शपरमर्शादिरूपेण विजातीयन्यक्कारविरहिततद्भावनामयस्वभ्यस्ताकारविज्ञानलाभे सति भवति। यद्वक्ष्यते +++(S तद्वक्ष्यते N तद्वक्ष्यति)+++ -- विमृश्यैतदशेषेण यथेच्छसी तथा कुरु +++(XVIII; 63)+++ इति। तत्र श्रुतिमये ज्ञाने गुरुशास्त्रे एव प्राधान्येन प्रभवतः युक्तिचिन्ताभावनामये तु विमर्शक्षमता असाधारणा शिष्यगुणसंपत् ( -- रणशिष्य -- ) प्रधानभूता। अतः अर्जुनस्यास्त्येवासौ इत्यभिप्रायेण वक्ष्यमाणं विमृश्यैतत् इति वाक्यं सविषयं कर्तुं परिकरबन्धयोजनाभिप्रायेण आह भगवान् गुरुः अभयम् इत्यादि। आसुरभागसन्नविष्टा तामसी किल अविद्या। सा प्रवृद्धया दिव्यांशग्राहित्या विद्यया बाध्यते ( प्रवृद्धाया -- विद्याया बध्यते) इति वस्तुस्वभाव एषः। त्वं च विद्यात्मानं दिव्यमंशं सात्त्विकमभिप्रपन्नः तस्मादान्तरीं मोहलक्षणामविद्यां विहाय बाह्याविद्यात्मशत्रुहननलक्षणं +++(S बाह्यविद्या)+++ शास्त्रीयव्यापारम् अनुतिष्ठ इत्यध्यायारम्भः। तथाहि -- अभयमित्यादि पाण्डवेत्यन्तम्। दिव्यांशस्य इमानि चिह्नानि तानि स्फुटमेवाभिलक्ष्यन्ते +++(S; स्फुटमेवोपलक्ष्यन्ते)+++। दमः +++(S omits दमः)+++ इन्द्रियजयः। चापलं पूर्वापरमविमृश्य यत् करणम्; तदभावः अचापलम्। तेजः आत्मनि उत्साहग्रहणेन मितत्वापाकरणम्। दैवी संपदेषा। सा च तव विमोक्षाय; कामनापरिहारात्। अतस्त्वं शोकं मा प्रापः -- यथा भ्रात्रादीन् हत्वा सुखं कथमश्नुवीय इति। शिष्टं स्पष्टम्।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+6.3 See Coment under 16.5
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
+
+<details><summary>मूलम्</summary>
+
+॥16.1 -- 16.3॥ पूर्वाध्यायेयो मामेवमसम्मूढो जानाति पुरुषोत्तमम्
 \[15।19\] इत्युक्तं; तत्रबुद्धिर्ज्ञानमसम्मोहः इत्युक्तत्वादसम्मूढस्य
 दैवत्वं; तदितरस्य चासुरत्वमिति विभजन् पूर्वं दैवीं सम्पदमाह त्रिभिः
 श्रीभगवान् -- अभयमिति। एते षड्विंशतिगुणाः दैवीं सम्पदमभिजातस्य भवन्ति;
 देवसम्बन्धिनी दैवी। देवा भगवद्वचनानुवर्त्तिर्धमशीलास्तेषां
 सम्पत्साधनरूपा सामग्री सृष्टिर्वा; सा च भगवन्निगमधर्मानुवर्त्तिकैव;
 तामभिजातस्य दैवजीवस्य भवन्तीत्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।16.3।। तेजो भगवत्कृपाप्रागल्भ्येनाधृष्यत्वम्; क्षमा विद्यमाने सामर्थ्ये
+<details><summary>पुरुषोत्तमः</summary>
+
+॥16.3॥ तेजो भगवत्कृपाप्रागल्भ्येनाधृष्यत्वम्; क्षमा विद्यमाने सामर्थ्ये
 परिभवादिषु क्रोधानुत्पत्तिः; धृतिः लौकिकालौकिकदुःखादिषु चित्तस्थैर्यम्;
 शौचं स्नानादिभगवत्स्मरणादिना च बाह्याभ्यन्तरशुद्धिः; अद्रोहः
 परानिष्टचिन्तनाभावः; अतिमानिता आत्मनि सर्वाधिक्यज्ञानं तदभावो
 नातिमानिता। एतानि सर्वाणि दैवीं भगवत्क्रीडौपयिकीं सात्त्विकीं
 सम्पदमभिजातस्य भगवदाभिमुख्येन भगवत्कृपया तस्य भवन्ति। एतद्धर्मवत्त्वे
-भगवदाभिमुख्यं ज्ञेयमिति भावः। भारतेति विश्वासार्थं सम्बोधनम्।  
-  
-
+भगवदाभिमुख्यं ज्ञेयमिति भावः। भारतेति विश्वासार्थं सम्बोधनम्।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।16.3।। किंच **-- तेज इति।** तेजः प्रागल्भ्यं; क्षमा
+॥16.3॥ किंच **-- तेज इति।** तेजः प्रागल्भ्यं; क्षमा
 परिभवादिषूत्पद्यमानेषु क्रोधप्रतिबन्धः; धृतिर्दुःखादिभिरवसीदतश्चित्तस्य
 स्थिरीकरणम्; शौचं बाह्याभ्यन्तरशुद्धिः; अद्रोहो जिघांसाराहित्यं;
 अतिमानिता आत्मन्यतिपूज्यत्वाभिमानस्तदभावो नातिमानिता; एतान्यभयादीनि
 षड्विंशतिप्रकाराणि दैवीं संपदमभिजातस्य भवन्ति। देवयोग्यां सात्त्विकीं
 संपदमभिलक्ष्य तदाभिमुख्येन जातस्य भाविकल्याणस्य पुंसो भवन्तीत्यर्थः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।16.3।। तेज यह केवल मुखमण्डल की ही आभा नहीं है; जो पौष्टिक आहार और
-पर्याप्त विश्राम से प्राप्त होती है। तेज शब्द से ज्ञानी पुरुष के मात्र
-शारीरिक सौन्दर्य या तेज से ही अभिप्राय नहीं है। अध्यात्म की आभा कोई ऐसा
-प्रभामण्डल नहीं है; जो ज्ञानी के मुख के चारों ओर अग्निवृत के समान
-जगमगाता हो। तत्त्वदर्शी ऋषि का तेज है; उसकी बुद्धि की प्रतिभा; नेत्रों
-में जगमगाता आनन्द; सन्तप्त हृदयों को शीतलता प्रदान करने वाली शान्ति की
-सुरभि; कर्मों में उसका अविचलित सन्तुलन; प्राणिमात्र के प्रति उसके हृदय
-में स्थित प्रेम का आनन्द और उसके अन्तरतम से प्रकाशित आनन्द का प्रकाश। यह
-तेज ही उस ऋषि के व्यक्तित्व का प्रबल आकर्षण होता है; जो प्रचुर शक्ति और
-उत्साह के साथ सब की सेवा करता है और उसी में स्वयं को धन्य समझता है। क्षमा
-जिस सन्दर्भ में इस गुण का उल्लेख किया गया है; उससे इसका अर्थ गाम्भीर्य
-बढ़ जाता है। सामान्य दुख और कष्ट; अपमान और पीड़ा को धैर्यपूर्वक सहन करनै
-की क्षमता ही क्षमा का सम्पूर्ण अर्थ नहीं है। बाह्य जगत् के अत्यधिक
-शक्तिशाली विरोध तथा उत्तेजित करने वाली परिस्थितयों के होने पर भी उनका
-सामना करने का सूक्ष्म कोटि का साहस और अविचलित शान्ति का नाम क्षमा
-है। धृति जब कोई व्यक्ति साहसपूर्वक जीना चाहता है; तब वह अपने जीवन में
-सदैव सुखद वातावरण; अनुकूल परिस्थितयाँ और अपने कार्य में सफलता के सहायक
-सुअवसरों को प्राप्त करने की अपेक्षा नहीं कर सकता है। सामान्यत; एक दुर्बल
-व्यक्तित्व के पुरुष को अचानक निराशा आकर घेर लेती है और वह कार्य को
-अपूर्ण ही छोड़कर अपने कार्य क्षेत्र से निवृत्त हो जाता है। अनेक लोग तो
-ऐसे समय हतोत्साह होकर कार्य को त्याग देते हैं; जब विजयश्री उन्हें वरमाला
-पहनाने को तत्पर हो रही होती है निश्चल भाव से कार्यरत रहने के लिए मनुष्य
-को एक अतिरिक्त शक्ति की आवश्यकता होती है; जिसके द्वारा वह अपनी क्लान्त
-और श्रान्त आस्था काे पोषित कर दृढ़ बना सकता है। पुन एक युक्त पुरुष में
-निहित वह गुप्त शक्ति है धृति अर्थात् धैर्य। श्रद्धा की शक्ति; लक्ष्य में
-आस्था; उद्देश्य की एकरूपता; आदर्श का स्पष्ट दर्शन और त्याग की साहसिक
-भावना ये सब वे शक्ति श्रोत हैं; जहाँ से धृति की बूंदें रिसती हुई
-प्रवाहित होकर श्रम; अवसाद एवं निराशा आदि का परिहार करती हैं। शौचम्
-(शुद्धि) यह शब्द न केवल अन्तकरण के विचारों एवं उद्देश्यों की शुद्धि को
-इंगित करता है; वरन् इसके द्वारा वातावरण की शुद्धि; अपने वस्त्रों की और
-वस्तुओं की स्वच्छता भी सूचित की गयी है। आन्तरिक शुद्धि पर ही अत्यधिक बल
-देने के फलस्वरूप हम अपने समाज में बाह्य शुद्धि की सर्वथा उपेक्षा की जाते
-हुए देखते हैं। वस्त्रों की तथा नगर की स्वच्छता हमारे राष्ट्र में दुर्लभ
-हो गयी है। यद्यपि हमारे धर्म में साधक के लिए शुद्धि और स्वच्छता इन दोनों
-को ही अपरिहार्य बताया गया है; तथापि धर्णप्राण भक्तगण भी इनके प्रति
-उदासीन ही दिखाई देते हैं। अद्रोह अहिंसा का अर्थ है; किसी को भी पीड़ा न
-पहुँचाना और अद्रोह का अर्थ है मन में कभी हिंसा का भाव न उठना। जैसे; कोई
-भी व्यक्ति कभी स्वप्न में भी स्वयं को पीड़ित करने का विचार नहीं करता;
-वैसे ही आत्मैकत्व का बोध प्राप्त पुरुष के मन में किसी के प्रति भी द्रोह
-की भावना नहीं आती; क्योंकि अन्य को कष्ट देने का अर्थ स्वयं को ही पीड़ित
-करना है। न अतिमानिता इसका अर्थ है स्वयं की पूजनीयता के विषय में
-अतिशयोक्ति पूर्ण विचार न रखना। अतिमान के नहीं होने पर मनुष्य स्वयं को
-तत्काल ही सहस्रों अपरिहार्य उत्तेजनाओं से तथा अनावश्यक उत्तरदायित्वों से
-मुक्त कर सकता है। गर्वमुक्त पुरुष के लिए जीवन पक्षी के पंख के समान
-भारहीन होता है; जबकि एक अतिमानी पुरुष के लिए अपना जीवन प्राणदण्ड की शूली
-के समान बन जाता है; जिसे अत्यन्त कष्टपूर्वक वहन करते हुए उसे चलना पड़ता
-है; जब कि वह शूली उसके कंधों के मांस को निर्दयतापूर्वक छील रही होती
-है। उपर्युक्त छब्बीस गुण दैवीसम्पदा से सम्पन्न व्यक्ति के स्वभाव का पूर्ण
-चित्रण करते हैं। पूर्णत्व प्राप्ति के सभी इच्छुक साधकों के मार्गदर्शन के
-रूप में इन गुणों का यहाँ उल्लेख किया गया है। जिस मात्रा में; उपर्युक्त
-दैवीगुणों के अनुरूप हम अपने जीवन को पुर्नव्यवस्थित करने में सक्षम होते
-हैं और जीवन की ओर देखने के अपने दृष्टिकोण में परिवर्तन ला सकते हैं; उसी
-मात्रा में हम अपनी शक्तियों के निष्प्रयोजक व्यय को अवरुद्ध कर उन्हें
-सुरक्षित रख सकते हैं। इन जीवन मूल्यों का सम्मान करते हुए उन्हें जीने का
-अर्थ ही सम्यक् जीवन पद्धति को अपनाना है। अब; आसुरी सम्पदा का वर्णन करते
-हैं
-
+16.3 Grandeur, patience, fortitude, purity, freedom from hatred, and from over-pride - these, O Arjuna, belong to him who is born to a divine destiny.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।16.3।। हे भारत ! तेज, क्षमा, धैर्य, शौच (शुद्धि), अद्रोह और अतिमान
-(गर्व) का अभाव ये सब दैवी संपदा को प्राप्त पुरुष के लक्षण हैं।।
+<details><summary>गम्भीरानन्दः</summary>
 
+16.3 Vigour, forgiveness, fortitude, purity, freedom from malice,
+absence of haughtiness-these, O scion of the Bharata dynasty, are (the alties) of one born destined to have the divine nature.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+16.3 Valour, forgiveness, fortitude, purity, freedom from hate and vanity; these are his who possesses the Godly Qualities, O Arjuna!
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+16.3. Vital power, forgiveness, fortitude, contenment, absence of treachery and absence of excessive pride-these are in the person who is born for divine wealth, O Descendant of Bharata !
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+16.3 Vigour, forgiveness, fortitude, purity, absence of hatred, absence of pride these belong to the one born for a divine state, O Arjuna.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+16.3 तेजः vigour; क्षमा forgiveness; धृतिः fortitude; शौचम् purity;
+अद्रोहः absence of hatred; नातिमानिता absence of overpride; भवन्ति
+belong; सम्पदम् state; दैवीम् divine; अभिजातस्य to the one born for;
+भारत O descendant of Bharata (Arjuna).Commentary Tejas Vigour; energy;
+brilliance or lustre of the skin. The aspirant who is bent on attaining salvation marches boldly on the spiritual path. Nothing can tempt him or slacken his progress. This unbroken progress towards the realisation of the Self or the Absolute is lustre. It overcomes the downward pull of Tamas.Kshama Forgiveness. He who is endowed with this virtue does not exhibit anger even when he is insulted; ruked or beaten; although he is strong enough to take vengeance. He is unaffected by the insult or injury.Dhriti The sage absorbs within himself all calamities. He is steadfast even when he is in very adverse and trying conditions this is a particular Sattvic Vritti or state of mind which removes depression or exhaustion of the body and senses when they sink down. An aspirant who is endowed with this divine attribute never gets disheartened; even when he is under severe trials and difficulties or tribulations. Dhriti is a divine pickmeup (tonic) when the body and the senses are in a state of low spirits or dejection.Saucham Purity. This is of two kinds; viz.;
+external and internal. External purity is achieved by means of earth and water. The mind and heart (intellect) are freed from Maya (deception;
+lust; anger; greed; pride; jealousy; hypocrisy; likes and dislikes) by the practice of celibacy; forgiveness; friendliness; charity; humility;
+nobilit; love; complacency; compassion; etc. -- this is internal purity.
+This is more important than external purity.Adroha Absence of hatred;
+absence of desire to injure others.Atimanita is great pride. A proud man thinks that he is superior to others and that he is worthy of being honoured by others. Naatimanita is the opposite of this ality.Tejas;
+Kshama and Dhriti are the special alities or Dharmas of the Kshatriyas
+(warrior class). These are the Sattvic alities of Kshatriyas. Saucham and Adroha are the special Dharmas of the Vaisyas. They are the Sattvic alities of the Vaisyas (merchant class). Absence of pride is the special Dharma of the Sudras (servant class). It is a Sattvic ality that belongs to the Sudras.The divine wealth or Daivi Sampat consists of twentysix attributes. This is a rare gift from the Lord. This is an inexhaustible wealth which cannot be taken away by dacoits. This helps the aspirant attain the imperishable and immacultate Brahmic seat. It is the shortcut to the realm of eternal bliss or Moksha.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.3।। तेज (प्रभाव), क्षमा, धैर्य, शरीरकी शुद्धि, वैरभावका न रहना और
 मानको न चाहना, हे भरतवंशी अर्जुन ! ये सभी दैवी सम्पदाको प्राप्त हुए
 मनुष्यके लक्षण हैं।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।16.3।।***व्याख्या--*'तेजः'--**महापुरुषोंका सङ्ग मिलनेपर उनके प्रभावसे
 प्रभावित होकर साधारण पुरुष भी दुर्गुण-दुराचारोंका त्याग करके
@@ -599,64 +464,72 @@ _________________
 **नवधा भगति कहउँ तोहिं पाहीं। सावधान सुनु धरु मन माहीं।।**  
 **नव महुँ एकउ जिन्ह कें होई। नारि पुरुष सचराचर कोई।।**  
 **सोइ अतिसय प्रिय भामिनि मोरें। सकल प्रकार भगति दृढ़ तोरें।।**
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-16.3. Vital power, forgiveness, fortitude, contenment, absence of treachery and absence of excessive pride-these are in the person who is born for divine wealth, O Descendant of Bharata !
-
+।।16.3।। तेज यह केवल मुखमण्डल की ही आभा नहीं है; जो पौष्टिक आहार और
+पर्याप्त विश्राम से प्राप्त होती है। तेज शब्द से ज्ञानी पुरुष के मात्र
+शारीरिक सौन्दर्य या तेज से ही अभिप्राय नहीं है। अध्यात्म की आभा कोई ऐसा
+प्रभामण्डल नहीं है; जो ज्ञानी के मुख के चारों ओर अग्निवृत के समान
+जगमगाता हो। तत्त्वदर्शी ऋषि का तेज है; उसकी बुद्धि की प्रतिभा; नेत्रों
+में जगमगाता आनन्द; सन्तप्त हृदयों को शीतलता प्रदान करने वाली शान्ति की
+सुरभि; कर्मों में उसका अविचलित सन्तुलन; प्राणिमात्र के प्रति उसके हृदय
+में स्थित प्रेम का आनन्द और उसके अन्तरतम से प्रकाशित आनन्द का प्रकाश। यह
+तेज ही उस ऋषि के व्यक्तित्व का प्रबल आकर्षण होता है; जो प्रचुर शक्ति और
+उत्साह के साथ सब की सेवा करता है और उसी में स्वयं को धन्य समझता है। क्षमा
+जिस सन्दर्भ में इस गुण का उल्लेख किया गया है; उससे इसका अर्थ गाम्भीर्य
+बढ़ जाता है। सामान्य दुख और कष्ट; अपमान और पीड़ा को धैर्यपूर्वक सहन करनै
+की क्षमता ही क्षमा का सम्पूर्ण अर्थ नहीं है। बाह्य जगत् के अत्यधिक
+शक्तिशाली विरोध तथा उत्तेजित करने वाली परिस्थितयों के होने पर भी उनका
+सामना करने का सूक्ष्म कोटि का साहस और अविचलित शान्ति का नाम क्षमा
+है। धृति जब कोई व्यक्ति साहसपूर्वक जीना चाहता है; तब वह अपने जीवन में
+सदैव सुखद वातावरण; अनुकूल परिस्थितयाँ और अपने कार्य में सफलता के सहायक
+सुअवसरों को प्राप्त करने की अपेक्षा नहीं कर सकता है। सामान्यत; एक दुर्बल
+व्यक्तित्व के पुरुष को अचानक निराशा आकर घेर लेती है और वह कार्य को
+अपूर्ण ही छोड़कर अपने कार्य क्षेत्र से निवृत्त हो जाता है। अनेक लोग तो
+ऐसे समय हतोत्साह होकर कार्य को त्याग देते हैं; जब विजयश्री उन्हें वरमाला
+पहनाने को तत्पर हो रही होती है निश्चल भाव से कार्यरत रहने के लिए मनुष्य
+को एक अतिरिक्त शक्ति की आवश्यकता होती है; जिसके द्वारा वह अपनी क्लान्त
+और श्रान्त आस्था काे पोषित कर दृढ़ बना सकता है। पुन एक युक्त पुरुष में
+निहित वह गुप्त शक्ति है धृति अर्थात् धैर्य। श्रद्धा की शक्ति; लक्ष्य में
+आस्था; उद्देश्य की एकरूपता; आदर्श का स्पष्ट दर्शन और त्याग की साहसिक
+भावना ये सब वे शक्ति श्रोत हैं; जहाँ से धृति की बूंदें रिसती हुई
+प्रवाहित होकर श्रम; अवसाद एवं निराशा आदि का परिहार करती हैं। शौचम्
+(शुद्धि) यह शब्द न केवल अन्तकरण के विचारों एवं उद्देश्यों की शुद्धि को
+इंगित करता है; वरन् इसके द्वारा वातावरण की शुद्धि; अपने वस्त्रों की और
+वस्तुओं की स्वच्छता भी सूचित की गयी है। आन्तरिक शुद्धि पर ही अत्यधिक बल
+देने के फलस्वरूप हम अपने समाज में बाह्य शुद्धि की सर्वथा उपेक्षा की जाते
+हुए देखते हैं। वस्त्रों की तथा नगर की स्वच्छता हमारे राष्ट्र में दुर्लभ
+हो गयी है। यद्यपि हमारे धर्म में साधक के लिए शुद्धि और स्वच्छता इन दोनों
+को ही अपरिहार्य बताया गया है; तथापि धर्णप्राण भक्तगण भी इनके प्रति
+उदासीन ही दिखाई देते हैं। अद्रोह अहिंसा का अर्थ है; किसी को भी पीड़ा न
+पहुँचाना और अद्रोह का अर्थ है मन में कभी हिंसा का भाव न उठना। जैसे; कोई
+भी व्यक्ति कभी स्वप्न में भी स्वयं को पीड़ित करने का विचार नहीं करता;
+वैसे ही आत्मैकत्व का बोध प्राप्त पुरुष के मन में किसी के प्रति भी द्रोह
+की भावना नहीं आती; क्योंकि अन्य को कष्ट देने का अर्थ स्वयं को ही पीड़ित
+करना है। न अतिमानिता इसका अर्थ है स्वयं की पूजनीयता के विषय में
+अतिशयोक्ति पूर्ण विचार न रखना। अतिमान के नहीं होने पर मनुष्य स्वयं को
+तत्काल ही सहस्रों अपरिहार्य उत्तेजनाओं से तथा अनावश्यक उत्तरदायित्वों से
+मुक्त कर सकता है। गर्वमुक्त पुरुष के लिए जीवन पक्षी के पंख के समान
+भारहीन होता है; जबकि एक अतिमानी पुरुष के लिए अपना जीवन प्राणदण्ड की शूली
+के समान बन जाता है; जिसे अत्यन्त कष्टपूर्वक वहन करते हुए उसे चलना पड़ता
+है; जब कि वह शूली उसके कंधों के मांस को निर्दयतापूर्वक छील रही होती
+है। उपर्युक्त छब्बीस गुण दैवीसम्पदा से सम्पन्न व्यक्ति के स्वभाव का पूर्ण
+चित्रण करते हैं। पूर्णत्व प्राप्ति के सभी इच्छुक साधकों के मार्गदर्शन के
+रूप में इन गुणों का यहाँ उल्लेख किया गया है। जिस मात्रा में; उपर्युक्त
+दैवीगुणों के अनुरूप हम अपने जीवन को पुर्नव्यवस्थित करने में सक्षम होते
+हैं और जीवन की ओर देखने के अपने दृष्टिकोण में परिवर्तन ला सकते हैं; उसी
+मात्रा में हम अपनी शक्तियों के निष्प्रयोजक व्यय को अवरुद्ध कर उन्हें
+सुरक्षित रख सकते हैं। इन जीवन मूल्यों का सम्मान करते हुए उन्हें जीने का
+अर्थ ही सम्यक् जीवन पद्धति को अपनाना है। अब; आसुरी सम्पदा का वर्णन करते
+हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.3 Vigour, forgiveness, fortitude, purity, freedom from malice,
-absence of haughtiness-these, O scion of the Bharata dynasty, are (the alties) of one born destined to have the divine nature.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।16.3।। हे भारत ! तेज, क्षमा, धैर्य, शौच (शुद्धि), अद्रोह और अतिमान
+(गर्व) का अभाव ये सब दैवी संपदा को प्राप्त पुरुष के लक्षण हैं।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.3 Valour, forgiveness, fortitude, purity, freedom from hate and vanity; these are his who possesses the Godly Qualities, O Arjuna!
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-16.3 Grandeur, patience, fortitude, purity, freedom from hatred, and from over-pride - these, O Arjuna, belong to him who is born to a divine destiny.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-16.3 Vigour, forgiveness, fortitude, purity, absence of hatred, absence of pride these belong to the one born for a divine state, O Arjuna.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-16.3 तेजः vigour; क्षमा forgiveness; धृतिः fortitude; शौचम् purity;
-अद्रोहः absence of hatred; नातिमानिता absence of overpride; भवन्ति
-belong; सम्पदम् state; दैवीम् divine; अभिजातस्य to the one born for;
-भारत O descendant of Bharata (Arjuna).Commentary Tejas Vigour; energy;
-brilliance or lustre of the skin. The aspirant who is bent on attaining salvation marches boldly on the spiritual path. Nothing can tempt him or slacken his progress. This unbroken progress towards the realisation of the Self or the Absolute is lustre. It overcomes the downward pull of Tamas.Kshama Forgiveness. He who is endowed with this virtue does not exhibit anger even when he is insulted; ruked or beaten; although he is strong enough to take vengeance. He is unaffected by the insult or injury.Dhriti The sage absorbs within himself all calamities. He is steadfast even when he is in very adverse and trying conditions this is a particular Sattvic Vritti or state of mind which removes depression or exhaustion of the body and senses when they sink down. An aspirant who is endowed with this divine attribute never gets disheartened; even when he is under severe trials and difficulties or tribulations. Dhriti is a divine pickmeup (tonic) when the body and the senses are in a state of low spirits or dejection.Saucham Purity. This is of two kinds; viz.;
-external and internal. External purity is achieved by means of earth and water. The mind and heart (intellect) are freed from Maya (deception;
-lust; anger; greed; pride; jealousy; hypocrisy; likes and dislikes) by the practice of celibacy; forgiveness; friendliness; charity; humility;
-nobilit; love; complacency; compassion; etc. -- this is internal purity.
-This is more important than external purity.Adroha Absence of hatred;
-absence of desire to injure others.Atimanita is great pride. A proud man thinks that he is superior to others and that he is worthy of being honoured by others. Naatimanita is the opposite of this ality.Tejas;
-Kshama and Dhriti are the special alities or Dharmas of the Kshatriyas
-(warrior class). These are the Sattvic alities of Kshatriyas. Saucham and Adroha are the special Dharmas of the Vaisyas. They are the Sattvic alities of the Vaisyas (merchant class). Absence of pride is the special Dharma of the Sudras (servant class). It is a Sattvic ality that belongs to the Sudras.The divine wealth or Daivi Sampat consists of twentysix attributes. This is a rare gift from the Lord. This is an inexhaustible wealth which cannot be taken away by dacoits. This helps the aspirant attain the imperishable and immacultate Brahmic seat. It is the shortcut to the realm of eternal bliss or Moksha.
-
-</details>
 </div>

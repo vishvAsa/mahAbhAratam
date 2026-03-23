@@ -1,210 +1,60 @@
 +++
 title = "04 मया ततमिदम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
-+++(देवग्रामेन)+++ **मया ततम् इदं सर्वं**  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
++++(वासुदेवेन)+++ **मया ततम् इदं सर्वं**  
 जगद् अव्यक्त-मूर्तिना +++(चेतसा)+++।  
 मत्स्थानि सर्व-भूतानि  
 न चाहं तेष्व् अवस्थितः॥9.4॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 मया ततमिदं सर्वं जगदव्यक्तमूर्तिना।  
-मत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थितः।।9.4।।
+मत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थितः॥9.4॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।9.4।।**इदं** चेतनाचेतनात्मकं कृत्स्नं **जगद् अव्यक्तमूर्तिना**
-अप्रकाशितस्वरूपेण **मया** अन्तर्यामिणा **ततम्।** अस्य जगतो धारणार्थं
-नियमनार्थम् च शेषित्वेन व्याप्तम् इत्यर्थः। यथा अन्तर्यामिब्राह्मणेयः
-पृथिव्यां तिष्ठन् ৷৷. यं पृथिवी न वेद (बृ उ॰ 3।7।3)यं आत्मनि तिष्ठन् ৷৷.
-यमात्मा न वेद (श॰ प॰ ब्रा॰ 14।6।5।5।30) इति चेतनाचेतनवस्तुजातैः अदृष्टेन
-अन्तर्यामिणा तत्र तत्र व्याप्तिः उक्ता।  
-  
-ततो **मत्स्थानि सर्वभूतानि** सर्वाणि भूतानि मयि अन्तर्यामिणि स्थितानि;
-तत्र एव ब्राह्मणेयस्य पृथिवी शरीरं यः पृथिवीमन्तरो यमयति (बृ॰ उ॰
-3।7।3)यस्यात्मा शरीरं य आत्मानमन्तरो यमयति (श॰ प॰ ब्रा॰ 14।6।6।5।30) इति
-शरीरत्वेन नियाम्यत्वप्रतिपादनात्। तदायत्ते स्थितिनियमने प्रतिपादिते
-शेषित्वं च; **न च अहं तेषु अवस्थित्रः** अहं तु न तदायत्तस्थितिः;
-मत्स्थितौ तैः न कश्चित् उपकार इत्यर्थः।
-
+॥9.4॥**इदं** चेतनाचेतनात्मकं कृत्स्नं **जगद् अव्यक्तमूर्तिना** अप्रकाशितस्वरूपेण **मया** अन्तर्यामिणा **ततम्।** अस्य जगतो धारणार्थं नियमनार्थं च शेषित्वेन व्याप्तम् इत्यर्थः। यथा अन्तर्यामिब्राह्मणेयः पृथिव्यां तिष्ठन् ৷৷. यं पृथिवी न वेद (ब्र् उ॰ 3।7।3)यम् आत्मनि तिष्ठन् ৷৷. यमात्मा न वेद (श॰ प॰ ब्रा॰ 14।6।5।5।30) इति चेतनाचेतनवस्तुजातैर् अदृष्टेन अन्तर्यामिणा तत्र तत्र व्याप्तिर् उक्ता।  
+        
+ततो **मत्स्थानि सर्वभूतानि** सर्वाणि भूतानि मय्य् अन्तर्यामिणि स्थितानि; तत्र एव ब्राह्मणेयस्य पृथिवी शरीरं यः पृथिवीमन्तरो यमयति (बृ॰ उ॰ 3।7।3)यस्यात्मा शरीरं य आत्मानमन्तरो यमयति (श॰ प॰ ब्रा॰ 14।6।6।5।30) इति शरीरत्वेन नियाम्यत्वप्रतिपादनात्। तदायत्ते स्थितिनियमने प्रतिपादिते शेषित्वं च; **न च अहं तेष्व् अवस्थित्रः** अहं तु न तदायत्तस्थितिः; मत्स्थितौ तैर् न कश्चिद् उपकार इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।9.4।। एवमध्यायप्रधानार्थस्य प्रापकस्य माहात्म्यमुक्तम् अथ
-प्राप्यमाहात्म्यद्वाराऽपि तदेव स्थिरीक्रियत इत्यभिप्रायेणाहशृणु
-तावदिति। इदं सर्वम् इति निर्देशः प्रमाणसिद्धसमस्तवस्तुपर इत्यभिप्रायेणइदं
-चेतनाचेतनात्मकमित्युक्तम्। अव्यक्तमूर्तिना इत्यस्य
-विग्रहविषयत्वेऽत्रानुपयोगात्स्वरूपविषयोऽयमौपचारिकः प्रयोग इति
-दर्शयितुंअप्रकाशितस्वरूपेणेत्युक्तम्।
-आकाशवत्सन्निधिमात्ररूपव्याप्तिव्युदासाय बहुप्रमाणसिद्धो
-व्याप्तिप्रकारःमया इत्यनेनाभिप्रेत इत्याहअन्तर्यामिणेति। उक्तप्रकाराया
-व्याप्तेः प्रयोजनं तन्निदानं च दर्शयतिअस्येति। अत्र
-धारणमनन्तरग्रन्थसिद्धम् अत एव नियमनमप्यर्थसिद्धम्। धारणं हि प्रशासनाधीनं
-श्रूयते। शेषित्वं तु प्रागुक्तं; शरीरित्वेनार्थसिद्धं च।
-अप्रकाशितस्वरूपत्वेन नियामकत्वेन च सर्वव्याप्तिं श्रुतौ दर्शयतियथेति।
-पृथिव्युदाहरणं तत्प्रकरणोक्तसर्वाचेतनोपलक्षणार्थम्।
-उक्तप्रकारव्यापकत्ववशात्मत्स्थानि इत्यनेन जगतः पृथक्सिद्धता निरस्यत
-इत्यभिप्रायेणाहतत इति। श्रीविश्वरूपादिषु विग्रहाश्रितत्वमपि
-सर्वस्योच्यते अत्र तु स्वरूपनिष्ठतेत्यपौनरुक्त्याय --
-मय्यन्तर्यामिणीत्युक्तम्। अनयोर्धारणनियमनयोरपि व्याप्त्या सहाधीततामाह --
-तत्रैवेति। स्थितिनियमने -- स्थितिप्रवृत्ती इत्यर्थः। शरीरशरीरित्ववचनात्
-धृतिः शेषित्वं च तत्रार्थसिद्धे इत्यभिप्रायेणाहशेषित्वं चेति। मया ततमिदं
-सर्वम् इत्यभिधायैवन चाहं तेष्ववस्थितः इति वचनं व्याहतम्; यः पृथिव्यां
-तिष्ठन् इत्यादिश्रुतिविरुद्धं चेत्यत्राहअहं त्विति। मत्स्थानि सर्वभूतानि
-इति प्रस्तुतप्रकारा स्थितिरत्र निषिध्यते। स भगवः कस्मिन् प्रतिष्ठितः
-इत्यत्र स्वे महिम्नि यदि वा न महिम्नि \[छां.उ.7।24।1\] इति हि श्रूयत इति
-भावः। उक्तं विवृणोतिमत्स्थिताविति। न कश्चिदिति स्वरूपतः
-सङ्कल्पादृष्टादिना वेति भावः।  
-  
-मत्स्थानिन च मत्स्थानि इत्येतद्व्याहतमित्यत्राह -- न घटादीनामिति। मूर्त
-हि मूर्तान्तरं पतनप्रतिघातिना संयोगेन धारयति न तथाऽत्रेति भावः।
-लोकदृष्टविपरीतं न सम्भवतीत्यभिप्रायेण शङ्कतेकथमिति। शरीरशरीरिणोरिव
-सम्भवमभिप्रेत्याहमत्सङ्कल्पेनेति। स्वेच्छाधीनधारकत्वं हि विहितम्।
-अस्वतन्त्रतया धारकत्वं तु निषिध्यत इत्यविरोध इति भावः। ऐश्वरम्
-इत्यनेनानन्यसाधारणत्वं फलितम्। पश्य इत्यनेन चाश्चर्यता
-द्योतितेत्यभिप्रायेणाहअन्यत्रेति। योगः सन्नहनोपायध्यानसङ्गतियुक्तिषु
-\[अमरः3।3।22\] इति पाठात्सङ्कल्परूपं ध्यानमिह योगः;
-युज्यमानस्वभावादिर्वा। पश्य मे योगम् इत्युक्ते योगस्वरूपमेवानन्तरं
-वक्तव्यमिति तदाकाङ्क्षा दर्शयतिकोऽसाविति। भूतभृन्न च भूतस्थः
-इत्यत्रार्थौचित्यादहमित्येव विशेष्यम्। अथवाभूतभावनः इतिवत्ममात्मा इति
-निर्दिष्टसङ्कल्पविशेषणत्वेऽपि फलितकथनंसर्वेषां भूतानां
-भर्ताऽहमित्यादि। आत्मा इति विशेषनिर्देशः
-परिसङ्ख्यानयात्तदतिरिक्तसहकारिव्यवच्छेदार्थ
-इत्यभिप्रायेणाहममात्मैवेति। ममात्मा इति
-व्यधिकरणनिर्देशस्वारस्यसिद्धमात्मशब्दार्थमाहमम मनोमयः सङ्कल्प इति। एतेन
-देहादिसङ्घातेऽहङ्कारमध्यारोप्य लोकबुद्ध्यनुसारेणममात्मा इति व्यपदेश
-इतिशङ्करोक्तं प्रत्युक्तम्। सङ्कल्प एव मनःकार्यतयाऽन्यत्र प्रसिद्धो
-मनःप्रतिपादकेनात्मशब्देनात्र व्यपदिष्टः। यद्वा आत्मशब्दोऽत्र
-सङ्कल्परूपमनःपर एव;मनसैव जगत्सृष्टिं \[वि.पु.5।22।15\]मनोऽकुरुत
-(आत्मन्वी) स्यामिति \[बृ.उ.1।2।1\] इत्यादेः। तदर्थज्ञापनाय तु
-मनोमयशब्दः। धारणनियमनयोरेव प्रकृतत्वात्; अनन्तरश्लोके च
-निर्दिश्यमानत्वात्; सृष्टेश्च ततोऽप्यनन्तरं वक्ष्यमाणत्वादत्रभूतभावनः
-इत्येतत्सत्तातादधीन्यनियमनाद्युपलक्षणमित्यभिप्रायेणाहधारयिता नियन्ता
-चेति। अथवाभूतभृन्न च भूतस्थः इत्यस्यैवायमर्थः।
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥9.4॥ एवमध्यायप्रधानार्थस्य प्रापकस्य माहात्म्यमुक्तम् अथ प्राप्यमाहात्म्यद्वाराऽपि तदेव स्थिरीक्रियत इत्यभिप्रायेणाहशृणु तावदिति। इदं सर्वम् इति निर्देशः प्रमाणसिद्धसमस्तवस्तुपर इत्यभिप्रायेणइदं चेतनाचेतनात्मकमित्युक्तम्। अव्यक्तमूर्तिना इत्यस्य विग्रहविषयत्वेऽत्रानुपयोगात्स्वरूपविषयोऽयमौपचारिकः प्रयोग इति दर्शयितुम्अप्रकाशितस्वरूपेणेत्युक्तम्। आकाशवत्सन्निधिमात्ररूपव्याप्तिव्युदासाय बहुप्रमाणसिद्धो व्याप्तिप्रकारःमया इत्यनेनाभिप्रेत इत्याहअन्तर्यामिणेति। उक्तप्रकाराया व्याप्तेः प्रयोजनं तन्निदानं च दर्शयतिअस्येति। अत्र धारणमनन्तरग्रन्थसिद्धम् अत एव नियमनमप्यर्थसिद्धम्। धारणं हि प्रशासनाधीनं श्रूयते। शेषित्वं तु प्रागुक्तं; शरीरित्वेनार्थसिद्धं च। अप्रकाशितस्वरूपत्वेन नियामकत्वेन च सर्वव्याप्तिं श्रुतौ दर्शयतियथेति। पृथिव्युदाहरणं तत्प्रकरणोक्तसर्वाचेतनोपलक्षणार्थम्। उक्तप्रकारव्यापकत्ववशात्मत्स्थानि इत्यनेन जगतः पृथक्सिद्धता निरस्यत इत्यभिप्रायेणाहतत इति। श्रीविश्वरूपादिषु विग्रहाश्रितत्वमपि सर्वस्योच्यते अत्र तु स्वरूपनिष्ठतेत्यपौनरुक्त्याय -- मय्यन्तर्यामिणीत्युक्तम्। अनयोर्धारणनियमनयोरपि व्याप्त्या सहाधीततामाह -- तत्रैवेति। स्थितिनियमने -- स्थितिप्रवृत्ती इत्यर्थः। शरीरशरीरित्ववचनात् धृतिः शेषित्वं च तत्रार्थसिद्धे इत्यभिप्रायेणाहशेषित्वं चेति। मया ततमिदं सर्वम् इत्यभिधायैवन चाहं तेष्ववस्थितः इति वचनं व्याहतम्; यः पृथिव्यां तिष्ठन् इत्यादिश्रुतिविरुद्धं चेत्यत्राहअहं त्विति। मत्स्थानि सर्वभूतानि इति प्रस्तुतप्रकारा स्थितिरत्र निषिध्यते। स भगवः कस्मिन् प्रतिष्ठितः इत्यत्र स्वे महिम्नि यदि वा न महिम्नि \[छां.उ.7।24।1\] इति हि श्रूयत इति भावः। उक्तं विवृणोतिमत्स्थिताविति। न कश्चिदिति स्वरूपतः सङ्कल्पादृष्टादिना वेति भावः।  
+        
+मत्स्थानिन च मत्स्थानि इत्येतद्व्याहतमित्यत्राह -- न घटादीनामिति। मूर्त हि मूर्तान्तरं पतनप्रतिघातिना संयोगेन धारयति न तथाऽत्रेति भावः। लोकदृष्टविपरीतं न सम्भवतीत्यभिप्रायेण शङ्कतेकथमिति। शरीरशरीरिणोरिव सम्भवमभिप्रेत्याहमत्सङ्कल्पेनेति। स्वेच्छाधीनधारकत्वं हि विहितम्। अस्वतन्त्रतया धारकत्वं तु निषिध्यत इत्यविरोध इति भावः। ऐश्वरम् इत्यनेनानन्यसाधारणत्वं फलितम्। पश्य इत्यनेन चाश्चर्यता द्योतितेत्यभिप्रायेणाहअन्यत्रेति। योगः सन्नहनोपायध्यानसङ्गतियुक्तिषु \[अमरः3।3।22\] इति पाठात्सङ्कल्परूपं ध्यानमिह योगः; युज्यमानस्वभावादिर्वा। पश्य मे योगम् इत्युक्ते योगस्वरूपमेवानन्तरं वक्तव्यमिति तदाकाङ्क्षा दर्शयतिकोऽसाविति। भूतभृन्न च भूतस्थः इत्यत्रार्थौचित्यादहमित्येव विशेष्यम्। अथवाभूतभावनः इतिवत्ममात्मा इति निर्दिष्टसङ्कल्पविशेषणत्वेऽपि फलितकथनंसर्वेषां भूतानां भर्ताऽहमित्यादि। आत्मा इति विशेषनिर्देशः परिसङ्ख्यानयात्तदतिरिक्तसहकारिव्यवच्छेदार्थ इत्यभिप्रायेणाहममात्मैवेति। ममात्मा इति व्यधिकरणनिर्देशस्वारस्यसिद्धमात्मशब्दार्थमाहमम मनोमयः सङ्कल्प इति। एतेन देहादिसङ्घातेऽहङ्कारमध्यारोप्य लोकबुद्ध्यनुसारेणममात्मा इति व्यपदेश इतिशङ्करोक्तं प्रत्युक्तम्। सङ्कल्प एव मनःकार्यतयाऽन्यत्र प्रसिद्धो मनःप्रतिपादकेनात्मशब्देनात्र व्यपदिष्टः। यद्वा आत्मशब्दोऽत्र सङ्कल्परूपमनःपर एव;मनसैव जगत्सृष्टिं \[वि.पु.5।22।15\]मनोऽकुरुत (आत्मन्वी) स्यामिति \[बृ.उ.1।2।1\] इत्यादेः। तदर्थज्ञापनाय तु मनोमयशब्दः। धारणनियमनयोरेव प्रकृतत्वात्; अनन्तरश्लोके च निर्दिश्यमानत्वात्; सृष्टेश्च ततोऽप्यनन्तरं वक्ष्यमाणत्वादत्रभूतभावनः इत्येतत्सत्तातादधीन्यनियमनाद्युपलक्षणमित्यभिप्रायेणाहधारयिता नियन्ता चेति। अथवाभूतभृन्न च भूतस्थः इत्यस्यैवायमर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 9.4 This 'entire universe,' composed to sentient and non-sentient beings, is pervaded by Me, the inner controller, whose 'form is not manifest,' namely, whose essential nature is unmanifest. The meaning is that all this is pervaded by Me, the Principal (Sesi), so that I may sustain and rule this universe. This, the pervasion of all by the inner controller, who is invisible to the entire group of sentient and non-sentient beings, is taught in the following passage of the Antaryami-brahmana: 'He who dwells in the earth ৷৷. whom the earth 'does not know' (Br. U., 3.7.3) and 'He who dwells in the self ৷৷. whom the self does not know etc.,' (Br. U. Madh., 3.7.22). Therefore 'all beings abide in Me'; all beings rest in Me who am their inner controller. In the same Brahmana it is taught that their existence and control are dependent on Him, as they are subject to His control and as they constitute His body: 'He whose body is the earth ৷৷. who controls the earth from within' (Br. U., 3.7.3) and 'He whose body is the self ৷৷. He who controls the self from within' (Br. U. Madh., 3.7.22). So also His primacy over everything is taught. 'I am not in them,' namely, I do not
 'depend' on them for My existence. There is no help derived from them for My existence.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।9.4।। मयेति। मत्स्थानि सर्वभूतानीति। सुचिरमपि गत्वा अन्यस्य
-प्रतिष्ठाधाम्नः अविद्यमानत्वात्।
-भूतरूपबोध्यात्मकप्रसिद्धतदीयजडरूपपुरःसरीकारेण तदवभासे
-तद्विपरीतबोधस्वभाववर्तिरोधानम्,+++(N तत्तद्विपरीत -- )+++ इत्येतदाह -- न चाहं
-तेष्यवस्थितः इति।
-
+॥9.4॥ --,**मया** मम यः परो भावः तेन **ततं** व्याप्तं **सर्वम् इदं जगत् अव्यक्तमूर्तिना** न व्यक्ता मूर्तिः स्वरूपं यस्य मम सोऽहमव्यक्तमूर्तिः तेन मया अव्यक्तमूर्तिना; करणगोचरस्वरूपेण इत्यर्थः। तस्मिन् मयि अव्यक्तमूर्तौ स्थितानि **मत्स्थानि; सर्वभूतानि** ब्रह्मादीनि स्तम्बपर्यन्तानि। न हि निरात्मकं किञ्चित् भूतं व्यवहाराय अवकल्पते। अतः मत्स्थानि मया आत्मना आत्मवत्त्वेन स्थितानि; अतः मयि स्थितानि इति उच्यन्ते। तेषां भूतानाम् अहमेव आत्मा इत्यतः तेषु स्थितः इति मूढबुद्धीनां अवभासते अतः ब्रवीमि -- **न च अहं** तेषु भूतेषु **अवस्थितः;** मूर्तवत् संश्लेषाभावेन आकाशस्यापि अन्तरतमो हि अहम्। न हि असंसर्गि वस्तु क्वचित् आधेयभावेन अवस्थितं भवति॥ अत एव असंसर्गित्वात् मम --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.4 Maya etc. All beings exist in Me : Because no other abode of rest is
-available, even if one wanders \[in search of it\] for long. The beings
-(or elements) that form the objects of knowledge possess their
-well-known nature of insentiency. When these beings manifest with this
-nature foremost, their other innate nature viz., sentiency, that is
-opposed to this \[former nature\], remain hidden. This is what He says
-by I do not exist in them.
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।9.4।। प्रत्यक्षावगमशब्देनापरोक्षज्ञानसाधनत्वमुक्तम्। तज्ज्ञानाद्याह --
-मयेति। तर्हि किमिति न दृश्यते इत्यत आह -- अव्यक्तमूर्तिनेति।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।9.4।। एवं तर्हि पुनरुक्तिः स्यात्; ब्रह्मविषयं ज्ञानमित्यस्य
-ब्रह्मावगम्यते विषयीक्रियतेऽनेन ज्ञानेनेत्यस्य च भेदाभावादित्यत आह --
-**प्रत्यक्षे**ति। नावगमशब्देन विषयीकरणमुच्यते; किन्तु अवगतिसाधनत्वम्। न
-च ज्ञानस्य तद्विरुद्धम्; परोक्षज्ञानस्यापरोक्षज्ञानसाधनत्वोपपत्तेरिति
-भावः। ज्ञानं विज्ञानसहितं प्रवक्ष्यामि इति प्रतिज्ञाययज्ज्ञात्वा \[9।1\]
-इत्यादिना तत्प्रशंसादिकमुक्तम्। अतःमया ततं इत्यादिकमपि किं तथाभूतमेव
-किञ्चिदुत प्रतिज्ञातमुच्यते इति शङ्कायामाह -- **तदि**ति।
-प्रतिज्ञातमित्यर्थः। यस्यापरोक्षज्ञानसाधनत्वमुक्तं तदिति वा।
-कृत्स्नाध्यायप्रतिपाद्योक्तिरियम्। विशेषणवैयर्थ्यमाशङ्क्याह --
-**तर्ही**ति। सर्वव्यापी चेदित्यर्थः। न दृश्यते सर्वत्रेति शेषः।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।9.4।। --,**मया** मम यः परो भावः तेन **ततं** व्याप्तं **सर्वम् इदं जगत्
-अव्यक्तमूर्तिना** न व्यक्ता मूर्तिः स्वरूपं यस्य मम सोऽहमव्यक्तमूर्तिः
-तेन मया अव्यक्तमूर्तिना; करणगोचरस्वरूपेण इत्यर्थः। तस्मिन् मयि
-अव्यक्तमूर्तौ स्थितानि **मत्स्थानि; सर्वभूतानि** ब्रह्मादीनि
-स्तम्बपर्यन्तानि। न हि निरात्मकं किञ्चित् भूतं व्यवहाराय अवकल्पते। अतः
-मत्स्थानि मया आत्मना आत्मवत्त्वेन स्थितानि; अतः मयि स्थितानि इति
-उच्यन्ते। तेषां भूतानाम् अहमेव आत्मा इत्यतः तेषु स्थितः इति मूढबुद्धीनां
-अवभासते अतः ब्रवीमि -- **न च अहं** तेषु भूतेषु **अवस्थितः;** मूर्तवत्
-संश्लेषाभावेन आकाशस्यापि अन्तरतमो हि अहम्। न हि असंसर्गि वस्तु क्वचित्
-आधेयभावेन अवस्थितं भवति।। अत एव असंसर्गित्वात् मम --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।9.4।। इस प्रकार ज्ञानकी प्रशंसाद्वारा अर्जुनको सम्मुख करके कहते हैं --,
-मुझ अव्यक्तरूप परमात्माद्वारा अर्थात् मेरा जो परमभाव है; जिसका स्वरूप
-प्रत्यक्ष नहीं है यानी मन; बुद्धि और इन्द्रियोंका विषय नहीं है; ऐसे मुझ
-अव्यक्तमूर्तिद्वारा यह समस्त जगत् व्याप्त है -- परिपूर्ण है। उस
-अव्यक्तस्वरूप मुझ परमात्मामें ब्रह्मासे लेकर स्तम्बपर्यन्त समस्त प्राणी
-स्थित हैं। क्योंकि कोई भी निर्जीव प्राणी व्यवहारके योग्य नहीं समझा जाता।
-अतः वे सब मुझमें स्थित हैं अर्थात् मुझ परमात्मासे ही आत्मवान् हो रहे
-हैं; इसलिये मुझमें स्थित कहे जाते हैं। उन भूतोंका वास्तविक स्वरूप मैं ही
-हूँ इसलिये अज्ञानियोंको ऐसी प्रतीति होती है कि मैं उनमें स्थित हूँ; अतः
-कहता हूँ कि मैं उन भूतोंमें स्थित नहीं हूँ। क्योंकि साकार वस्तुओंकी
-भाँति मुझमें संसर्गदोष नहीं है। इसलिये मैं बिना संसर्गके सूक्ष्मभावसे
-आकाशके भी अन्तर्व्यापी हूँ। सङ्गहीन वस्तु कहीं भी आधेयभावसे स्थित नहीं
-होती; यह प्रसिद्ध है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 9.4 Idam, this; sarvam, whole; jagat, world; is tatam, pervaded; maya,
 by Me; through the supreme nature, that I have, avyakta-murtina, in My
@@ -223,13 +73,28 @@ not in contact with anything, therefore I am certainly the inmost core
 even of space. For, a thing that has no contact with anything cannot
 exist like something contained in a receptacle. For this very reason
 that I am not in contact with anyting-
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।9.4।। स्तुतिनिन्दाभ्यां ज्ञाननिष्ठां महीकृत्य ज्ञानं व्याख्यातुमारभते
+<details><summary>हरिकृष्णदासः</summary>
+
+॥9.4॥ इस प्रकार ज्ञानकी प्रशंसाद्वारा अर्जुनको सम्मुख करके कहते हैं --,
+मुझ अव्यक्तरूप परमात्माद्वारा अर्थात् मेरा जो परमभाव है; जिसका स्वरूप
+प्रत्यक्ष नहीं है यानी मन; बुद्धि और इन्द्रियोंका विषय नहीं है; ऐसे मुझ
+अव्यक्तमूर्तिद्वारा यह समस्त जगत् व्याप्त है -- परिपूर्ण है। उस
+अव्यक्तस्वरूप मुझ परमात्मामें ब्रह्मासे लेकर स्तम्बपर्यन्त समस्त प्राणी
+स्थित हैं। क्योंकि कोई भी निर्जीव प्राणी व्यवहारके योग्य नहीं समझा जाता।
+अतः वे सब मुझमें स्थित हैं अर्थात् मुझ परमात्मासे ही आत्मवान् हो रहे
+हैं; इसलिये मुझमें स्थित कहे जाते हैं। उन भूतोंका वास्तविक स्वरूप मैं ही
+हूँ इसलिये अज्ञानियोंको ऐसी प्रतीति होती है कि मैं उनमें स्थित हूँ; अतः
+कहता हूँ कि मैं उन भूतोंमें स्थित नहीं हूँ। क्योंकि साकार वस्तुओंकी
+भाँति मुझमें संसर्गदोष नहीं है। इसलिये मैं बिना संसर्गके सूक्ष्मभावसे
+आकाशके भी अन्तर्व्यापी हूँ। सङ्गहीन वस्तु कहीं भी आधेयभावसे स्थित नहीं
+होती; यह प्रसिद्ध है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥9.4॥ स्तुतिनिन्दाभ्यां ज्ञाननिष्ठां महीकृत्य ज्ञानं व्याख्यातुमारभते
 -- **स्तुत्येति।** सोपाधिकस्य व्याप्त्यसंभवमभिप्रेत्य विशिनष्टि --
 **ममेति।** अनवच्छिन्नस्य भगवद्रूपस्य निरुपाधिकत्वमेव साधयति --
 **करणेति।** व्याप्यव्यापकत्वेन जगतो भगवतश्च परिच्छेदमाशङ्क्याह --
@@ -238,30 +103,11 @@ that I am not in contact with anyting-
 **अत इति।** ईश्वरस्य भूतात्मत्वे तेषु स्थितिः स्यादित्याशङ्क्याह --
 **तेषामिति।** तस्य तेषु स्थित्यभावं व्यवस्थापयति -- **मूर्तवदिति।**
 संश्लेषाभावेऽपि किमिति नाधेयत्वमत आह -- **नहीति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।9.4।। तदेवं वक्तव्यतया प्रतिज्ञातस्य ज्ञानस्य विधिमुखेनेतरनिषेधमुखेन च
-स्तुत्याभिमुखीकृतमर्जुनं प्रति तदेवाह द्वाभ्याम् -- इदं जगत्सर्वं
-भूतभौतिकतत्कारणरूपं दृश्यजातं मदज्ञानकल्पितं मयाधिष्ठानेन परमार्थसत्ता
-सद्रूपेण स्फुरणरूपेण च ततं व्याप्तं रज्जुखण्डेनेव तदज्ञानकल्पितं
-सर्पधारादि। त्वया वासुदेवेन परिच्छिन्नेन सर्वं जगत्कथं व्याप्तं
-प्रत्यक्षविरोधादिति; नेत्याह -- अव्यक्ता सर्वकरणागोचरीभूता
-स्वप्रकाशाद्वयचैतन्यसदानन्दरूपा मूर्तिर्यस्य तेन मया व्याप्तमिदं सर्वं न
-त्वनेन देहेनेत्यर्थः। अतएव सन्तीव स्फुरन्तीव मद्रूपेण स्थितानि मत्स्थानि
-सर्वभूतानि स्थावराणि जङ्गमानि च। परमार्थतस्तु नच नैवाहं तेषु कल्पितेषु
-भूतेष्ववस्थितः। कल्पिताकल्पितयोः संबन्धायोगात्। अतएवोक्तं यत्र यदध्यस्तं
-तत्कृतेन गुणेन दोषेण वाणुमात्रेणापि न स संबध्यत इति।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।9.4।। एवं स्तुत्यादिमुखीकृत्य यद्वक्तव्यं तदाह -- **मयेति।** मया इदं
+॥9.4॥ एवं स्तुत्यादिमुखीकृत्य यद्वक्तव्यं तदाह -- **मयेति।** मया इदं
 सर्वं जगत् ततं व्याप्तं उपादानत्वात् कनकेनेव कुण्डलादीनि। ननु
 प्रागेवैतदुक्तंअहं सर्वस्य जगतः प्रभवः प्रलयस्तथा इति। तथा चराजविद्या
 इत्यादिस्तुतिरस्थाने एव कृता स्यात्। वक्तव्यविशेषाभावादितिचेत्। अत्र
@@ -290,13 +136,11 @@ that I am not in contact with anyting-
 सर्वभूतानि स्थितानि अतो मत्स्थानीत्युपचारादुच्यन्ते।
 अधिष्ठानाध्यस्तयोर्वास्तवसंबन्धायोगात्। एतदेवाह -- **न चेति।** नचाहं
 परमानन्दस्तेषु भूतेष्ववस्थितोऽस्मि घटादाविव मृत्। अपरिणामित्वादेव।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।9.4।। एवमन्ययमुखेन व्यतिरेकमुखेन च ज्ञानं स्तुत्वा श्रोतारमभिमुखीकृत्य
+<details><summary>धनपतिः</summary>
+
+॥9.4॥ एवमन्ययमुखेन व्यतिरेकमुखेन च ज्ञानं स्तुत्वा श्रोतारमभिमुखीकृत्य
 तत्स्वरुपमाह -- मयेति। मया परमात्मना सच्चिदानन्दघनेनाव्यक्तमूर्तिना न
 व्यक्ता इन्द्रियागोचरा मूर्तिः स्वरुपं यस्य मम तेन मया इदं सर्वं जगत्
 ब्रह्मदिस्तम्बपर्यन्तं,चराचरात्मकं ततं व्याप्तं शुक्त्या तत्र कल्पितं
@@ -307,17 +151,68 @@ that I am not in contact with anyting-
 नान्यत्रेत्यर्थः। तेषामात्मत्वेन परमात्मापि तेष्ववस्थित इति
 मूर्खणामवभासतेऽतो ब्रवीमि। नचाहं तेषु मयि कल्पितेषु सर्वभूतेष्ववस्थितः।
 अमूर्तस्य मम केनापि संबन्धेन तत्रावस्थिरेतनिरुपणत्।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥9.4॥ तदेवं वक्तव्यतया प्रतिज्ञातस्य ज्ञानस्य विधिमुखेनेतरनिषेधमुखेन च
+स्तुत्याभिमुखीकृतमर्जुनं प्रति तदेवाह द्वाभ्याम् -- इदं जगत्सर्वं
+भूतभौतिकतत्कारणरूपं दृश्यजातं मदज्ञानकल्पितं मयाधिष्ठानेन परमार्थसत्ता
+सद्रूपेण स्फुरणरूपेण च ततं व्याप्तं रज्जुखण्डेनेव तदज्ञानकल्पितं
+सर्पधारादि। त्वया वासुदेवेन परिच्छिन्नेन सर्वं जगत्कथं व्याप्तं
+प्रत्यक्षविरोधादिति; नेत्याह -- अव्यक्ता सर्वकरणागोचरीभूता
+स्वप्रकाशाद्वयचैतन्यसदानन्दरूपा मूर्तिर्यस्य तेन मया व्याप्तमिदं सर्वं न
+त्वनेन देहेनेत्यर्थः। अतएव सन्तीव स्फुरन्तीव मद्रूपेण स्थितानि मत्स्थानि
+सर्वभूतानि स्थावराणि जङ्गमानि च। परमार्थतस्तु नच नैवाहं तेषु कल्पितेषु
+भूतेष्ववस्थितः। कल्पिताकल्पितयोः संबन्धायोगात्। अतएवोक्तं यत्र यदध्यस्तं
+तत्कृतेन गुणेन दोषेण वाणुमात्रेणापि न स संबध्यत इति।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।9.4।। एवं ज्ञानं प्रस्तुत्याऽर्जुनमभिमुखीकृत्य स्वस्य महिमज्ञानं
+॥9.4॥ प्रत्यक्षावगमशब्देनापरोक्षज्ञानसाधनत्वमुक्तम्। तज्ज्ञानाद्याह --
+मयेति। तर्हि किमिति न दृश्यते इत्यत आह -- अव्यक्तमूर्तिनेति।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥9.4॥ एवं तर्हि पुनरुक्तिः स्यात्; ब्रह्मविषयं ज्ञानमित्यस्य
+ब्रह्मावगम्यते विषयीक्रियतेऽनेन ज्ञानेनेत्यस्य च भेदाभावादित्यत आह --
+**प्रत्यक्षे**ति। नावगमशब्देन विषयीकरणमुच्यते; किन्तु अवगतिसाधनत्वम्। न
+च ज्ञानस्य तद्विरुद्धम्; परोक्षज्ञानस्यापरोक्षज्ञानसाधनत्वोपपत्तेरिति
+भावः। ज्ञानं विज्ञानसहितं प्रवक्ष्यामि इति प्रतिज्ञाययज्ज्ञात्वा \[9।1\]
+इत्यादिना तत्प्रशंसादिकमुक्तम्। अतःमया ततं इत्यादिकमपि किं तथाभूतमेव
+किञ्चिदुत प्रतिज्ञातमुच्यते इति शङ्कायामाह -- **तदि**ति।
+प्रतिज्ञातमित्यर्थः। यस्यापरोक्षज्ञानसाधनत्वमुक्तं तदिति वा।
+कृत्स्नाध्यायप्रतिपाद्योक्तिरियम्। विशेषणवैयर्थ्यमाशङ्क्याह --
+**तर्ही**ति। सर्वव्यापी चेदित्यर्थः। न दृश्यते सर्वत्रेति शेषः।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+
+<details><summary>मूलम्</summary>
+
+॥9.4॥ मयेति। मत्स्थानि सर्वभूतानीति। सुचिरमपि गत्वा अन्यस्य प्रतिष्ठाधाम्नः अविद्यमानत्वात्। भूतरूपबोध्यात्मकप्रसिद्धतदीयजडरूपपुरःसरीकारेण तदवभासे तद्विपरीतबोधस्वभाववर्तिरोधानम्,+++(N तत्तद्विपरीत -- )+++ इत्येतदाह -- न चाहं तेष्यवस्थितः इति।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+9.4 Maya etc. All beings exist in Me : Because no other abode of rest is available, even if one wanders \[in search of it\] for long. The beings (or elements) that form the objects of knowledge possess their well-known nature of insentiency. When these beings manifest with this nature foremost, their other innate nature viz., sentiency, that is opposed to this \[former nature\], remain hidden. This is what He says by I do not exist in them.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+
+<details><summary>मूलम्</summary>
+
+॥9.4॥ एवं ज्ञानं प्रस्तुत्याऽर्जुनमभिमुखीकृत्य स्वस्य महिमज्ञानं
 पूर्वमुपदिशतिमयेति। अव्यक्तोऽक्षरोऽविरुद्धधर्मप्रकृतिपुरुषात्मकः
 स्वेच्छया पृथग्भासि (वि) तोऽपि महिमरूपः कालात्मा च स
 बहिर्मर्यादामार्गाधिदैवतं अध्यात्मस्वरूपं तन्मूर्त्तिना मयाऽन्तर्यामिणा
@@ -326,15 +221,11 @@ _________________
 स्थितमाकरे। स चान्तर्यामी चाहं अन्तर्यामिब्राह्मणे यः पृथिव्यां
 तिष्ठन्पृथिवी यं न वेद य आत्मनि तिष्ठन्यमात्मा न वेद \[बृ.उ.3।7।3\]
 इत्यादि निरूपितम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।9.4।। एवं प्रतिज्ञाय तत्स्वरूपं च स्तुत्वा ज्ञानमेवाह द्वाभ्याम् --
+<details><summary>पुरुषोत्तमः</summary>
+
+॥9.4॥ एवं प्रतिज्ञाय तत्स्वरूपं च स्तुत्वा ज्ञानमेवाह द्वाभ्याम् --
 मयेति। अव्यक्तातिरिक्तेषु लौकिकेन्द्रियागोचरा स्वक्रियेच्छैकदृश्या
 मूर्तिः स्वरूपं यस्य। वक्ष्यति चाग्रेदिव्यं ददामि ते चक्षुः
 \[11।8\]भक्त्या त्वनन्यया \[11।54\] इत्यादि। एतादृशेन मया इदं जगत् सर्वं
@@ -345,102 +236,74 @@ _________________
 भवानाधिदैविकन्यायेन भविष्यतीत्यत आह -- मत्स्थानीति। मत्स्वरूपस्थानि
 सर्वाणि सन्ति; सर्वाधारत्वात्। क्रीडेच्छया पृथक् तत्तद्रूपं प्रकटयामीति
 भावः। अपरिच्छिन्नत्वात् प्रकटमपि जगन्मय्येव तिष्ठति। तेषु न च अहम्। तेषु
-परिच्छिन्नतया न तिष्ठामीत्यर्थः।  
-  
-
+परिच्छिन्नतया न तिष्ठामीत्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।9.4।। तदेवं वक्तव्यतया प्रस्तुतस्य ज्ञानस्य स्तुत्या
+॥9.4॥ तदेवं वक्तव्यतया प्रस्तुतस्य ज्ञानस्य स्तुत्या
 श्रोतारमभिमुखीकृत्य तदेव ज्ञानं कथयति **-- मयेति द्वाभ्याम्।** अव्यक्ता
 अतीन्द्रिया मूर्तिः स्वरूपं यस्य तादृशेन मया कारणभूतेन सर्वमिदं जगत्ततं
 व्याप्तन्तत्सृष्ट्वा तदेवानुप्राविशत् इति श्रुतेः। अतएव कारणभूते मयि
 तिष्ठन्तीति मत्स्थानि सर्वाणि चराचराणि भूतानि। एवमपि घटादिषु स्वकार्येषु
 मृत्तिकेव तेषु भूतेषु नाहमवस्थित आकाशवदसङ्गत्वात्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।9.4।। यह सम्पूर्ण जगत् मेरे अव्यक्त स्वरूप के द्वारा व्याप्त है किसी
-वस्तु की सूक्ष्मता उसकी व्यापकता से नापी जाती है और इसलिए सूक्ष्मतम
-वस्तु का सर्वव्यापक होना अनिवार्य है। देशकाल से परिच्छिन्न (सीमित) सभी
-वस्तुओं का आकार तथा नाश होता है अत सर्वव्यापी वस्तु निराकार और नाशरहित
-होगी। इस प्रकार आत्मतत्त्व अपने मूल अव्यक्तस्वरूप से सम्पूर्ण जगत् में
-व्याप्त है; जैसे मिट्टी के बने सभी रूपों और आकारों वाले घटों में मिट्टी
-व्याप्त होती है। यदि; इस प्रकार; अनन्तपरिच्छिन्न तत्त्व सान्त और
-परिच्छिन्न जगत् को व्याप्त किये है; तो इन दोनों में निश्चित रूप से क्या
-संबंध है क्या यह जगत् अनन्ततत्त्व से प्रकट हुआ है अथवा क्या अनन्त ने
-सान्त का निर्माण किया है या फिर क्या अनन्त वस्तु स्वयं विकार को प्राप्त
-होकर यह जगत् बन गयी; जैसे दूध दही बनता है अथवा; क्या इन दोनों में
-पितापुत्र या स्वामीभृत्य का संबंध है विश्व के विभिन्न धर्म ऐसे प्रश्नों
-से भरे हुए हैं। द्वैतवादी लोग ही अनन्त और सान्त; ईश्वर और भक्त के मध्य
-किसीनकिसी प्रकार के काल्पनिक संबंध में रम सकते हैं। परन्तु अद्वैती ऐसे
-किसी भी प्रकार के संबंध को स्वीकार नहीं कर सकते; क्योंकि संबंध किन्हीं
-दो वस्तुओं में ही हो सकता है; जब कि उनके सिद्धांतानुसार केवल आत्मा ही
-एकमेव अद्वितीय पारमार्थिक सत्य वस्तु है। इस श्लोक की दूसरी पंक्ति में
-सत्य और मिथ्या के बीच के इस संबंधरहित संबंध का शास्त्रीय वर्णन किया गया
-है। समस्त भूत मुझमें स्थित हैं; परन्तु मैं उनमें अवस्थित नहीं हूँ।
-शास्त्रीय पद्धति से अनभिज्ञ उतावले पाठकों को यह कथन एक अनाकलनीय
-विरोधाभास प्रतीत होगा; जिसे अर्थशून्य शब्दों के जमघट के द्वारा व्यक्त
-किया गया है। परन्तु जिसने अध्यास के सिद्धांत को सम्यक् प्रकार से समझ
-लिया है; उसके लिए उक्त कथन का अर्थ अत्यन्त सरल है। किसी वस्तु के अज्ञान
-से उस पर किसी अन्य वस्तु की कल्पना करना अध्यास है जैसे एक स्तम्भ पर
-प्रेत की कल्पना। शास्त्रीय भाषा में स्तम्भ को अधिष्ठान और प्रेत को
-अध्यास कहेंगे। इस दृष्टान्त में स्तम्भ (अधिष्ठान) के बिना प्रेत का आभास
-नहीं हो सकता था। अब स्तम्भ की दृष्टि से उसमें और उस अध्यस्त प्रेत में
-निश्चित रूप से कौन सा संबंध है कल्पना करें कि स्तम्भ में प्रेत देखकर
-मोहित हुए व्यक्ति को वह स्तम्भ स्वयंका सम्यक् ज्ञान कराना चाहता है; तो
-वह किस प्रकार उपदेश देगा वह निर्दोष स्तम्भ उस मूढ़ पुरुष के प्रति असीम
-प्रेम के कारण भगवान् श्रीकृष्ण के समान ही उपदेश देगा। वह कहेगा निसन्देह
-ही वह प्रेत मुझमें स्थित है; परन्तु मैं उसमें नहीं हूँ और इसलिए; मैने
-कदापि किसी भी मूढ़ यात्री को भयभीत नहीं किया है। इसी प्रकार भगवान् यहाँ
-कहते हैं; मैं अपने अव्यक्त स्वरूप से इस सम्पूर्ण व्यक्त जगत् का अधिष्ठान
-हूँ। यद्यपि परमात्मा इस नानारूपमय सृष्टि का अधिष्ठान है; तथापि वह उनके
-गुण दोष; सुख दुख; जन्ममृत्यु आदि से लिप्त नहीं होता; क्योंकि मैं उनमें
-अवस्थित नहीं हूँ। इस पंक्ति में पूर्व1 कथित सिद्धांत ही प्रतिध्वनित होता
-है; जहाँ सम्भवत और अधिक लहरदार भाषा में इसे व्यक्त किया गया था कि; मैं
-उनमें नहीं हूँ; वे मुझमें है। संक्षेप में; यहाँ सूचित किया गया है कि जड़
-उपाधियों से तादात्म्य के कारण आत्मा उनमें स्थित हुआ मानो दुखीसंसारी जीव
-बना है और इस मिथ्या तादात्म्य की निवृत्ति से उसे बोध होता है कि वास्तव
-में; मैं अविनाशी; अव्यक्तस्वरूप आत्मा उनमें स्थित नहीं हूँ। उपर्युक्त कथन
-से मन में यह विचार आ सकता है कि तब अनन्त तत्त्व में परिच्छिन्न का किसी
-अन्य प्रकार का अस्तित्व हो सकता है परन्तु भगवान् कहते हैं --
-
+9.4 This entire universe is pervaded by Me, in an unmanifest form. All beings abide in Me, but I do not abide in them.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।9.4।। यह सम्पूर्ण जगत् मुझ (परमात्मा) के अव्यक्त स्वरूप से व्याप्त है;
-भूतमात्र मुझमें स्थित है, परन्तु मैं उनमें स्थित नहीं हूं।।
+<details><summary>गम्भीरानन्दः</summary>
 
+9.4 This whole world is prevaded by Me in My unmanifest form. All beings exist in Me, but I am not contained in them!
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+9.4 The whole world is pervaded by Me, yet My form is not seen. All living things have their being in Me, yet I am not limited by them.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+9.4. This entire universe is pervaded by Me, having the unmanifest form
+(aspect); all beings exist in Me and I do not exist in them.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+9.4 All this world is pervaded by Me in My unmanifest aspect; all beings exist in Me, but I do not dwell in them.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+9.4 मया by Me; ततम् pervaded; इदम् this; सर्वम् all; जगत् world;
+अव्यक्तमूर्तिना by the unmanifested form; मत्स्थानि exist in Me;
+सर्वभूतानि all beings; न not; च and; अहम् I; तेषु in them; अवस्थितः
+placed.Commentary Avyaktamurti is Para Brahman or the Supreme Unmanifested Being invisible to the senses but cognisable through intuition. All beings from Brahma; the Creator; down to the blade of grass or an ant; dwell in the transcendental Para Brahman. They have no independent existence they exist through the Self which is the support for everythin; which underlies them all.Nothing here contains It. As Brahman is the Self of all beings; one may imagine that It dwells in them. But it is not so. How could it be How can the Infinite be contained in a finite object Brahman has no connection or contact with any material object; just as a chair or a table has contact with the ground or a man or a book. So It does not dwell in those beings. That which has no connection or contact with objects or beings cannot be contained anywhere as if in a vessel; trunk; room or receptacle. The Self is not rooted in all these forms. It is not contained by any of these forms just as the ether is not contained in any form though all forms are derived from the ether.All beings appear to be living in Brahman; but this is an illusion. If this illusion vanishes; nothing remains anywhere except Brahman. When ignorance; the cause of this illusion; disappears; the very idea of the existence of these beings also will vanish.In verses 4 and 5 the Lord uses a paradox or an apparent contradiction All beings dwell in Me and yet do not dwell in Me I do not dwell in them. For a thinker there is no real contradiction at all. Just as space contains all beings and yet is not touched by them;
+so also Para Brahman contains everything and yet is not touched by them.
+Even Mulaprakriti; the source or womb of this world; is supported by Brahman. Brahman has no support or root. It rests in Its own pristine glory. (Cf.VII.12;24VIII.22)
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.4 -- 9.5।। यह सब संसार मेरे निराकार स्वरूपसे व्याप्त है। सम्पूर्ण
 प्राणी मेरेमें स्थित हैं; परन्तु मैं उनमें स्थित नहीं हूँ तथा वे प्राणी
 भी मुझ में स्थित नहीं हैं -- मेरे इस ईश्वर-सम्बन्धी योग-(सामर्थ्य-) को
 देख ! सम्पूर्ण प्राणियोंको उत्पन्न करनेवाला और उनका धारण, भरण-पोषण
 करनेवाला मेरा स्वरूप उन प्राणियोंमें स्थित नहीं है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।9.4।।***व्याख्या--*'मया ततमिदं सर्वं
 जगदव्यक्तमूर्तिना'--**मन-बुद्धि-इन्द्रियोंसे जिसका ज्ञान होता है, वह
@@ -593,58 +456,60 @@ _________________
   
 ***सम्बन्ध--***अब भगवान् पीछेके दो श्लोकोंमें कही हुई बातोंको
 दृष्टान्तद्वारा स्पष्ट करते हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-9.4. This entire universe is pervaded by Me, having the unmanifest form
-(aspect); all beings exist in Me and I do not exist in them.
-
+।।9.4।। यह सम्पूर्ण जगत् मेरे अव्यक्त स्वरूप के द्वारा व्याप्त है किसी
+वस्तु की सूक्ष्मता उसकी व्यापकता से नापी जाती है और इसलिए सूक्ष्मतम
+वस्तु का सर्वव्यापक होना अनिवार्य है। देशकाल से परिच्छिन्न (सीमित) सभी
+वस्तुओं का आकार तथा नाश होता है अत सर्वव्यापी वस्तु निराकार और नाशरहित
+होगी। इस प्रकार आत्मतत्त्व अपने मूल अव्यक्तस्वरूप से सम्पूर्ण जगत् में
+व्याप्त है; जैसे मिट्टी के बने सभी रूपों और आकारों वाले घटों में मिट्टी
+व्याप्त होती है। यदि; इस प्रकार; अनन्तपरिच्छिन्न तत्त्व सान्त और
+परिच्छिन्न जगत् को व्याप्त किये है; तो इन दोनों में निश्चित रूप से क्या
+संबंध है क्या यह जगत् अनन्ततत्त्व से प्रकट हुआ है अथवा क्या अनन्त ने
+सान्त का निर्माण किया है या फिर क्या अनन्त वस्तु स्वयं विकार को प्राप्त
+होकर यह जगत् बन गयी; जैसे दूध दही बनता है अथवा; क्या इन दोनों में
+पितापुत्र या स्वामीभृत्य का संबंध है विश्व के विभिन्न धर्म ऐसे प्रश्नों
+से भरे हुए हैं। द्वैतवादी लोग ही अनन्त और सान्त; ईश्वर और भक्त के मध्य
+किसीनकिसी प्रकार के काल्पनिक संबंध में रम सकते हैं। परन्तु अद्वैती ऐसे
+किसी भी प्रकार के संबंध को स्वीकार नहीं कर सकते; क्योंकि संबंध किन्हीं
+दो वस्तुओं में ही हो सकता है; जब कि उनके सिद्धांतानुसार केवल आत्मा ही
+एकमेव अद्वितीय पारमार्थिक सत्य वस्तु है। इस श्लोक की दूसरी पंक्ति में
+सत्य और मिथ्या के बीच के इस संबंधरहित संबंध का शास्त्रीय वर्णन किया गया
+है। समस्त भूत मुझमें स्थित हैं; परन्तु मैं उनमें अवस्थित नहीं हूँ।
+शास्त्रीय पद्धति से अनभिज्ञ उतावले पाठकों को यह कथन एक अनाकलनीय
+विरोधाभास प्रतीत होगा; जिसे अर्थशून्य शब्दों के जमघट के द्वारा व्यक्त
+किया गया है। परन्तु जिसने अध्यास के सिद्धांत को सम्यक् प्रकार से समझ
+लिया है; उसके लिए उक्त कथन का अर्थ अत्यन्त सरल है। किसी वस्तु के अज्ञान
+से उस पर किसी अन्य वस्तु की कल्पना करना अध्यास है जैसे एक स्तम्भ पर
+प्रेत की कल्पना। शास्त्रीय भाषा में स्तम्भ को अधिष्ठान और प्रेत को
+अध्यास कहेंगे। इस दृष्टान्त में स्तम्भ (अधिष्ठान) के बिना प्रेत का आभास
+नहीं हो सकता था। अब स्तम्भ की दृष्टि से उसमें और उस अध्यस्त प्रेत में
+निश्चित रूप से कौन सा संबंध है कल्पना करें कि स्तम्भ में प्रेत देखकर
+मोहित हुए व्यक्ति को वह स्तम्भ स्वयंका सम्यक् ज्ञान कराना चाहता है; तो
+वह किस प्रकार उपदेश देगा वह निर्दोष स्तम्भ उस मूढ़ पुरुष के प्रति असीम
+प्रेम के कारण भगवान् श्रीकृष्ण के समान ही उपदेश देगा। वह कहेगा निसन्देह
+ही वह प्रेत मुझमें स्थित है; परन्तु मैं उसमें नहीं हूँ और इसलिए; मैने
+कदापि किसी भी मूढ़ यात्री को भयभीत नहीं किया है। इसी प्रकार भगवान् यहाँ
+कहते हैं; मैं अपने अव्यक्त स्वरूप से इस सम्पूर्ण व्यक्त जगत् का अधिष्ठान
+हूँ। यद्यपि परमात्मा इस नानारूपमय सृष्टि का अधिष्ठान है; तथापि वह उनके
+गुण दोष; सुख दुख; जन्ममृत्यु आदि से लिप्त नहीं होता; क्योंकि मैं उनमें
+अवस्थित नहीं हूँ। इस पंक्ति में पूर्व1 कथित सिद्धांत ही प्रतिध्वनित होता
+है; जहाँ सम्भवत और अधिक लहरदार भाषा में इसे व्यक्त किया गया था कि; मैं
+उनमें नहीं हूँ; वे मुझमें है। संक्षेप में; यहाँ सूचित किया गया है कि जड़
+उपाधियों से तादात्म्य के कारण आत्मा उनमें स्थित हुआ मानो दुखीसंसारी जीव
+बना है और इस मिथ्या तादात्म्य की निवृत्ति से उसे बोध होता है कि वास्तव
+में; मैं अविनाशी; अव्यक्तस्वरूप आत्मा उनमें स्थित नहीं हूँ। उपर्युक्त कथन
+से मन में यह विचार आ सकता है कि तब अनन्त तत्त्व में परिच्छिन्न का किसी
+अन्य प्रकार का अस्तित्व हो सकता है परन्तु भगवान् कहते हैं --
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.4 This whole world is prevaded by Me in My unmanifest form. All beings exist in Me, but I am not contained in them!
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।9.4।। यह सम्पूर्ण जगत् मुझ (परमात्मा) के अव्यक्त स्वरूप से व्याप्त है;
+भूतमात्र मुझमें स्थित है, परन्तु मैं उनमें स्थित नहीं हूं।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.4 The whole world is pervaded by Me, yet My form is not seen. All living things have their being in Me, yet I am not limited by them.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-9.4 This entire universe is pervaded by Me, in an unmanifest form. All beings abide in Me, but I do not abide in them.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-9.4 All this world is pervaded by Me in My unmanifest aspect; all beings exist in Me, but I do not dwell in them.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-9.4 मया by Me; ततम् pervaded; इदम् this; सर्वम् all; जगत् world;
-अव्यक्तमूर्तिना by the unmanifested form; मत्स्थानि exist in Me;
-सर्वभूतानि all beings; न not; च and; अहम् I; तेषु in them; अवस्थितः
-placed.Commentary Avyaktamurti is Para Brahman or the Supreme Unmanifested Being invisible to the senses but cognisable through intuition. All beings from Brahma; the Creator; down to the blade of grass or an ant; dwell in the transcendental Para Brahman. They have no independent existence they exist through the Self which is the support for everythin; which underlies them all.Nothing here contains It. As Brahman is the Self of all beings; one may imagine that It dwells in them. But it is not so. How could it be How can the Infinite be contained in a finite object Brahman has no connection or contact with any material object; just as a chair or a table has contact with the ground or a man or a book. So It does not dwell in those beings. That which has no connection or contact with objects or beings cannot be contained anywhere as if in a vessel; trunk; room or receptacle. The Self is not rooted in all these forms. It is not contained by any of these forms just as the ether is not contained in any form though all forms are derived from the ether.All beings appear to be living in Brahman; but this is an illusion. If this illusion vanishes; nothing remains anywhere except Brahman. When ignorance; the cause of this illusion; disappears; the very idea of the existence of these beings also will vanish.In verses 4 and 5 the Lord uses a paradox or an apparent contradiction All beings dwell in Me and yet do not dwell in Me I do not dwell in them. For a thinker there is no real contradiction at all. Just as space contains all beings and yet is not touched by them;
-so also Para Brahman contains everything and yet is not touched by them.
-Even Mulaprakriti; the source or womb of this world; is supported by Brahman. Brahman has no support or root. It rests in Its own pristine glory. (Cf.VII.12;24VIII.22)
-
-</details>
 </div>

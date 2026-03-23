@@ -1,98 +1,141 @@
 +++
 title = "08 शरीरं यदवाप्नोति"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 शरीरं यद् अवाप्नोति +++(जन्मनि)+++  
 यच् चाप्य् +++(मृत्यौ)+++ उत्क्रामतीश्वरः।  
 गृहीत्वैतानि +++(इन्द्रियाणि मनश् च सूक्ष्मशरीर-रूपेण)+++ **संयाति** +++(विषयसेवनाय)+++  
 वायुर् गन्धान् इवाशयात्॥15.8॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः।  
-गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात्।।15.8।।
+गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात्॥15.8॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।15.8।।**यत् शरीरम् अवाप्नोति;**  
+॥15.8॥**यत् शरीरम् अवाप्नोति;**  
 यस्मात् शरीराद् **उत्क्रामति;**  
 तत्र अयम् इन्द्रियाणाम् **ईश्वरः**  
 **एतानि** इन्द्रियाणि भूतसूक्ष्मैः सह  
 **गृहीत्वा संयाति।**  
 
-**वायुः गन्धान् इव आशयात्** --  
+**वायुर् गन्धान् इव आशयात्** --  
 यथा **वायुः** स्रक्चन्दनकस्तूरिकाद्य्-**आशयात्** तत्स्थानात्  
-सूक्ष्मावयवैः सह गन्धान् गृहीत्वा अन्यत्र संयाति तद्-वद् इत्यर्थः। 
-
-
+सूक्ष्मावयवैः सह गन्धान् गृहीत्वा अन्यत्र संयाति तद्-वद् इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।15.8।। No commentary.
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥15.8॥ No commentary.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 15.8 Whatever body It acires, and from whatever body It departs, the lord of the senses, i.e., the self, goes on Its way taking with It the senses with the subtle elements, just like the wind carrying scents from place to place. Just as the wind takes away scents with subtle parts from flower-garlands, sandal, musk and the rest from their places and moves elsewhere - so does the self. What are these senses; Sri Krsna explains:
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।15.8।। शरीरमिति। **अवाप्नोति**; गृह्णाति।  
-**उत्क्रामति** त्यजति एतैः सह।  
-यथा **वायुः** सर्वगतो विश्रान्तिधाम पार्थिवं प्राप्य ततो **गन्धम्** आनीय  
-स्थानान्तरे तत्सहित एव संक्रामति;  
-एवं जीवः पुर्य्-अष्टकेन सह।
-
+॥15.8॥ --,**यच्चापि** यदा चापि **उत्क्रामति ईश्वरः** देहादिसंघातस्वामी जीवः;  
+तदा कर्षति  
+इति श्लोकस्य द्वितीयपादः अर्थवशात् प्राथम्येन संबध्यते।  
+यदा च पूर्वस्मात् शरीरात् शरीरान्तरम् **अवाप्नोति** तदा **गृहीत्वा एतानि** मनःषष्ठानि इन्द्रियाणि **संयाति** सम्यक् याति गच्छति। किमिव इति; आह -- **वायुः** पवनः **गन्धानिव आशयात्** पुष्पादेः॥ कानि पुनः तानि --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-15.8 Sariram etc. Attains to : seizes. Goes up : abandones along with
-them. Just as the wind, going everywhere reaches an abode of rest made
-of earth and carrying away thence an odour enters just with that into
-another place, in the same way does the individual Soul together with
-the octad of cities. So far the association of the individual Soul with
-them ( the sense organs etc.) at both the stages of creation and of
-withdrawal has been described. Now it is being decided that It acts only
-in association with them even at the stage of existence which consists
-of acts like standing, sitting, contemplating etc. and which is a stage
-of receiving objects-
+<details><summary>गम्भीरानन्दः</summary>
 
+15.8 Yat, when; isvarah, the master of the aggregate of the body etc.,
+the individual soul; utkramati, leaves the body, then he draws. Thus,
+the second arter of the verse is treated first for the sake of
+consistency. \[When the soul leaves the body, then it draws the organs
+(see previous verses) from that body. In this way, the second arter of
+the present verse is treated first, because going to another body
+follows the leaving of the earlier one.-M.S.\] Ca api, and even; yat,
+when; it avapnoti, assumes a body other than the earlier one; then,
+grahitva, taking; etani, these, the organs with the mind as their sixth;
+samyati, he leaves, goes away totally \[Samyak, totally-without
+returning in any way to the earlier body.-M.S.\] Like what; In reply the
+Lord says: iva, as; vayuh, the wind (carries away); gandhan, odours;
+asayat, from their receptacles-flowers etc. Which, again, are those
+(organs);
 </details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥15.8॥ किस कालमें ( आकर्षित करता है )  
+  
+जब यह देहादिसंघातका स्वामी जीवात्मा शरीरको छोड़कर जाता है तब ( इनको )
+आकर्षित करता है। ,पहले और इस श्लोकके अर्थकी संगतिके वशसे श्लोकके दूसरे
+पादकी व्याख्या पहले की गयी है। तथा जब यह जीवात्मा; पहले शरीरसे ( निकलकर
+) दूसरे शरीरको पाता है; तब मनसहित इन छः इन्द्रियोंको साथ लेकर जाता है।
+कैसे लेकर जाता है सो बतलाते हैं -- जैसे वायु गन्धके स्थानोंसे यानी
+पुष्पादिसे गन्धको लेकर जाता है; वैसे ही।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥15.8॥ स्वस्थाने स्थितानामिन्द्रियाणां जीवेनाकर्षणस्य कालं पृच्छति --
+**कस्मिन्निति।** जीवस्योत्क्रान्तिर्नेश्वरस्येत्याशङ्क्येश्वरशब्दार्थमाह
+-- **देहादीति।** उत्क्रान्त्यनन्तरभाविनी गतिरित्येतदर्थवशादित्युक्तम्।
+अवशिष्टानि श्लोकाक्षराण्याचष्टे -- **यदाचेति।**
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥15.8॥ तथैतान्येव आशयात् स्वलयस्थानात् गृहीत्वा संयाति विषयदेशं
+प्रतिगच्छति प्रबोधसर्गव्युत्थानकालेषु। तत्र दृष्टान्तः।
+वायुर्गन्धानिवाशयात्। गन्धाशयात्पुष्पात्।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥15.8॥ कस्मिन्काले कर्षतीत्यपेक्षायां स्वस्थाने स्थितानां इन्द्रियाणां
+जीवेनाकर्षणस्य कालमाह -- शरीरमिति। पाठक्रमादर्थक्रमो बलीयान् इति
+न्यायेनेश्वरो देहासिसंघातस्वामी जीवो यत् यदाप्युत्क्रामति
+शरीराद्वहिर्निर्गच्छति तदा मनःषष्ठानीन्द्रियाणि कर्षतीति श्लोकस्य
+द्वितीयः पातोऽर्थवशात्प्राथम्येन संबध्यते। यदाच
+पूर्वस्माच्छरीराच्छरीरान्तरं प्राप्नोति तदा एतानि मनःषष्ठेन्द्रियाणि
+गृहीत्वा संयाति सभ्यग्ग्च्छति। तत्र दृष्टान्तः। आशयात्पुष्पादेः
+स्थानाद्गन्धान्गृहीत्वा यथा वायुः पवनः संयति तद्वत्।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥15.8॥ कस्मिन्काले कर्षतीत्युच्यते -- शरीरमिति। यत् यदा उत्क्रामति
+बहिर्निर्गच्छति ईश्वरो देहेन्द्रियसंघातस्य स्वामी जीवस्तदा यतो
+देहादुत्क्रामति ततो मनःषष्ठानीन्द्रियाणि कर्षतीति द्वितीयपादस्य
+प्रथममन्वयः। उत्क्रमणोत्तरभावित्वाद्गमनस्य। न केवलं कर्षत्येव किंतु यत्
+यदा च पूर्वस्माच्छरीराच्छरीरान्तरमवाप्नोति तदैतानि मनःषष्ठानीन्द्रियाणि
+गृहीत्वा संयात्यपि सम्यक् पुनरागमनराहित्येन। गच्छत्यपि शरीरे
+सत्येवेन्द्रियग्रहणे दृष्टान्तः आशयात्कुसुमादैः
+स्थानाद्गन्धान्गन्धात्मकान्सूक्ष्मानंशान्गृहीत्वा यथा वायुर्याति तद्वत्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।15.8।। कर्षति इत्युक्ते जीवस्य स्वातन्त्र्यं प्रतीतं तन्निवारयति
+॥15.8॥ कर्षति इत्युक्ते जीवस्य स्वातन्त्र्यं प्रतीतं तन्निवारयति
 शरीरमित्यादिना -- यद्यदा शरीरमवाप्नोति उत्क्रामति च जीवस्तदेश्वर एवैतानि
 गृहीत्वा संयाति। यत्र यत्रैव संयुक्तो धाता गर्भं पुनः पुनः। तत्र तत्रैव
 वसति न यत्र स्वयमिच्छति इति हि मोक्षधर्मे। भावाभावावपि जानन्गरीयो जानामि
@@ -104,13 +147,11 @@ _________________
 वाङ्मनसि सम्पद्यते; मनः प्राणे; प्राणस्तेजसि; तेजः परस्यां देवतायाम्
 \[छां.उ.6।8।6\] इति च। गन्धानिव सूक्ष्माणि। भोगोऽस्यापि साधितः
 पुरस्तात्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।15.8।। पूर्ववाक्ये जीवस्य प्रकृतत्वात्तदुत्तरमपि तद्विषयमिति
+<details><summary>जयतीर्थः</summary>
+
+॥15.8॥ पूर्ववाक्ये जीवस्य प्रकृतत्वात्तदुत्तरमपि तद्विषयमिति
 व्याख्यानमसत्; ईश्वरपदरूढार्थपरित्यागदोषात्; इत्याशयवान् सङ्गतिं तावदाह
 -- **कर्षती**ति। शरीरावाप्तौ मूलकारणादुत्क्रमणे शरीरात् स्थितौ
 गोलकादिभ्यो विषयान्प्रतीन्द्रियाणि जीवः कर्षतीति पूर्वत्रोक्तम्। तथा च
@@ -138,126 +179,42 @@ _________________
 गन्धवतः पुष्पाद्यवयवानित्यर्थः। ननु श्रोत्रमित्यादिना
 विषयभोगोऽस्योच्यते; न चेश्वरस्यासावस्ति; किन्तु जीवस्यैव
 तत्कथमिदमीश्वरविषयं इत्यत आह -- **भोग** इति। पुरस्तात् सप्तमे।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।15.8।। --,**यच्चापि** यदा चापि **उत्क्रामति ईश्वरः** देहादिसंघातस्वामी
-जीवः; तदा कर्षति इति श्लोकस्य द्वितीयपादः अर्थवशात् प्राथम्येन संबध्यते।
-यदा च पूर्वस्मात् शरीरात् शरीरान्तरम् **अवाप्नोति** तदा **गृहीत्वा
-एतानि** मनःषष्ठानि इन्द्रियाणि **संयाति** सम्यक् याति गच्छति। किमिव इति;
-आह -- **वायुः** पवनः **गन्धानिव आशयात्** पुष्पादेः।। कानि पुनः तानि --,
-
+॥15.8॥ शरीरमिति। **अवाप्नोति**; गृह्णाति।  
+**उत्क्रामति** त्यजति एतैः सह।  
+यथा **वायुः** सर्वगतो विश्रान्तिधाम पार्थिवं प्राप्य ततो **गन्धम्** आनीय  
+स्थानान्तरे तत्सहित एव संक्रामति;  
+एवं जीवः पुर्य्-अष्टकेन सह।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।15.8।। किस कालमें ( आकर्षित करता है )  
-  
-जब यह देहादिसंघातका स्वामी जीवात्मा शरीरको छोड़कर जाता है तब ( इनको )
-आकर्षित करता है। ,पहले और इस श्लोकके अर्थकी संगतिके वशसे श्लोकके दूसरे
-पादकी व्याख्या पहले की गयी है। तथा जब यह जीवात्मा; पहले शरीरसे ( निकलकर
-) दूसरे शरीरको पाता है; तब मनसहित इन छः इन्द्रियोंको साथ लेकर जाता है।
-कैसे लेकर जाता है सो बतलाते हैं -- जैसे वायु गन्धके स्थानोंसे यानी
-पुष्पादिसे गन्धको लेकर जाता है; वैसे ही।
+<details><summary>शङ्करनारायणः</summary>
 
+15.8 Sariram etc. Attains to : seizes. Goes up : abandones along with them. Just as the wind, going everywhere reaches an abode of rest made of earth and carrying away thence an odour enters just with that into another place, in the same way does the individual Soul together with the octad of cities. So far the association of the individual Soul with them ( the sense organs etc.) at both the stages of creation and of withdrawal has been described. Now it is being decided that It acts only in association with them even at the stage of existence which consists of acts like standing, sitting, contemplating etc. and which is a stage of receiving objects-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.8 Yat, when; isvarah, the master of the aggregate of the body etc.,
-the individual soul; utkramati, leaves the body, then he draws. Thus,
-the second arter of the verse is treated first for the sake of
-consistency. \[When the soul leaves the body, then it draws the organs
-(see previous verses) from that body. In this way, the second arter of
-the present verse is treated first, because going to another body
-follows the leaving of the earlier one.-M.S.\] Ca api, and even; yat,
-when; it avapnoti, assumes a body other than the earlier one; then,
-grahitva, taking; etani, these, the organs with the mind as their sixth;
-samyati, he leaves, goes away totally \[Samyak, totally-without
-returning in any way to the earlier body.-M.S.\] Like what; In reply the
-Lord says: iva, as; vayuh, the wind (carries away); gandhan, odours;
-asayat, from their receptacles-flowers etc. Which, again, are those
-(organs);
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।15.8।। स्वस्थाने स्थितानामिन्द्रियाणां जीवेनाकर्षणस्य कालं पृच्छति --
-**कस्मिन्निति।** जीवस्योत्क्रान्तिर्नेश्वरस्येत्याशङ्क्येश्वरशब्दार्थमाह
--- **देहादीति।** उत्क्रान्त्यनन्तरभाविनी गतिरित्येतदर्थवशादित्युक्तम्।
-अवशिष्टानि श्लोकाक्षराण्याचष्टे -- **यदाचेति।**
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।15.8।। कस्मिन्काले कर्षतीत्युच्यते -- शरीरमिति। यत् यदा उत्क्रामति
-बहिर्निर्गच्छति ईश्वरो देहेन्द्रियसंघातस्य स्वामी जीवस्तदा यतो
-देहादुत्क्रामति ततो मनःषष्ठानीन्द्रियाणि कर्षतीति द्वितीयपादस्य
-प्रथममन्वयः। उत्क्रमणोत्तरभावित्वाद्गमनस्य। न केवलं कर्षत्येव किंतु यत्
-यदा च पूर्वस्माच्छरीराच्छरीरान्तरमवाप्नोति तदैतानि मनःषष्ठानीन्द्रियाणि
-गृहीत्वा संयात्यपि सम्यक् पुनरागमनराहित्येन। गच्छत्यपि शरीरे
-सत्येवेन्द्रियग्रहणे दृष्टान्तः आशयात्कुसुमादैः
-स्थानाद्गन्धान्गन्धात्मकान्सूक्ष्मानंशान्गृहीत्वा यथा वायुर्याति तद्वत्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।15.8।। तथैतान्येव आशयात् स्वलयस्थानात् गृहीत्वा संयाति विषयदेशं
-प्रतिगच्छति प्रबोधसर्गव्युत्थानकालेषु। तत्र दृष्टान्तः।
-वायुर्गन्धानिवाशयात्। गन्धाशयात्पुष्पात्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।15.8।। कस्मिन्काले कर्षतीत्यपेक्षायां स्वस्थाने स्थितानां इन्द्रियाणां
-जीवेनाकर्षणस्य कालमाह -- शरीरमिति। पाठक्रमादर्थक्रमो बलीयान् इति
-न्यायेनेश्वरो देहासिसंघातस्वामी जीवो यत् यदाप्युत्क्रामति
-शरीराद्वहिर्निर्गच्छति तदा मनःषष्ठानीन्द्रियाणि कर्षतीति श्लोकस्य
-द्वितीयः पातोऽर्थवशात्प्राथम्येन संबध्यते। यदाच
-पूर्वस्माच्छरीराच्छरीरान्तरं प्राप्नोति तदा एतानि मनःषष्ठेन्द्रियाणि
-गृहीत्वा संयाति सभ्यग्ग्च्छति। तत्र दृष्टान्तः। आशयात्पुष्पादेः
-स्थानाद्गन्धान्गृहीत्वा यथा वायुः पवनः संयति तद्वत्।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।15.8।। शरीरं यदवाप्नोति। यस्माच्छरीरादुत्क्रामति
+॥15.8॥ शरीरं यदवाप्नोति। यस्माच्छरीरादुत्क्रामति
 तत्रायमिन्द्रियाणामीश्वरः एतानीन्द्रियाणि भूतसूक्ष्मैः सह गृहीत्वा
 संयाति। यथा वायुः कस्तूरिकाद्याशयात्तत्स्थानात्सूक्ष्मावयवैः सह गन्धान्
 गृहीत्वाऽन्यत्र संयाति तद्वत्। एतदेव प्रपञ्चितंउत्क्रान्तिगत्या गतीनां
 स्वात्मना चोत्तरयोः \[ब्र.सू.2।3।1\] इति सूत्रेषु।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।15.8।। तदेव विस्तरेणाऽऽह -- शरीरमिति।  
+<details><summary>पुरुषोत्तमः</summary>
+
+॥15.8॥ तदेव विस्तरेणाऽऽह -- शरीरमिति।  
 **ईश्वरः** मूलभूतो जीवो  
 **यत्** यदा शरीर-भोगार्थम् **अवाप्नोति**;  
 **च** पुनः **यदा** भोग-समाप्तौ **उत्क्रामति**  
@@ -265,83 +222,71 @@ _________________
 **गृहीत्वैव** सम्यक् स्वांश-जीव-भावेन सह **याति** प्राप्नोति। 
 
 तत्र दृष्टान्तमाह -
-**वायुः आशयात्** पुष्पादितो **गन्धान्** सूक्ष्मांशान् **इव**।  
-  
-
+**वायुः आशयात्** पुष्पादितो **गन्धान्** सूक्ष्मांशान् **इव**।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।15.8।। तान्याकृष्य किं करोतीत्यत्राह **-- शरीरमिति।** यदा शरीरान्तरं
+॥15.8॥ तान्याकृष्य किं करोतीत्यत्राह **-- शरीरमिति।** यदा शरीरान्तरं
 कर्मवशादवाप्नोति यतश्च शरीरादुत्क्रामति ईश्वरो देहादीनां स्वामी तदा
 पूर्वस्माच्छरीरादेतानि गृहीत्वा तच्छरीरान्तरं सम्यग्याति। शरीरे
 सत्यपीन्द्रियग्रहणे दृष्टान्तः। आशयात्स्वस्थानात्कुसुमादेः सकाशात्
 गन्धान्गन्धवतः सूक्ष्मानंशान्गृहीत्वा यथा वायुर्गच्छति तद्वत्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।15.8।। देहेन्द्रियादि का ईश्वर अर्थात् स्वामी है जीव। जब तक वह किसी एक
-देह मे रहता है; तब तक सूक्ष्म शरीर (इन्द्रियाँ और अन्तकरण) को धारण किये
-रहता है और असंख्य प्रकार के कर्म करता है। अपनी वासनाओं के अनुसार वह कर्म
-करता है और फिर कर्मो के नियमानुसार विविध फलों को भोगने के लिये उसे
-अन्यान्य शरीर ग्रहण करने पड़ते हैं। तब एक शरीर का त्याग करते समय वह
-सूक्ष्म शरीर को समेट लेता है और अन्य शरीर में जा कर पुन उसके द्वारा
-पूर्ववत् व्यवहार करता है। सूक्ष्म शरीर का स्थूल शरीर से सदा के लिये वियोग
-स्थूल शरीर के लिये मृत्यु है। मृत देह का आकार पूर्ववत् दिखाई देता
-है;किन्तु विषय ग्रहण; अनुभव तथा विचार ग्रहण करने की क्षमता उसमे नहीं
-होती; क्योंकि ये समस्त कार्य सूक्ष्म शरीर के होते हैं। जीव की उपस्थिति
-से ही देह को एक व्यक्ति के रूप में स्थान प्राप्त होता है। जिस प्रकार
-प्रवाहित किया हुआ वायु पुष्प; चन्दन; इत्र आदि सुगन्धित वस्तुओं की सुगन्ध
-को एक स्थान से अन्य स्थान बहा कर ले जाता है; उसी प्रकार जीव समस्त
-इन्द्रियादि को लेकर जाता है। वायु और सुगन्ध दृष्टिगोचर नहीं होते; उसी
-प्रकार देह को त्यागते हुये सूक्ष्म जीव को भी नेत्रों से नहीं देखा जा
-सकता है। जीव की समस्त वासनाएं भी उसी के साथ रहती हैं। इस श्लोक में जीव को
-देहादि संघात का ईश्वर कहने का अभिप्राय केवल इतना ही है कि उसी की
-उपस्थिति में विषय ग्रहण; विचार आदि का व्यवहार सुचारु रूप से चलता रहता
-है। वह इन उपाधियों का शासक और नियामक है। जिस प्रकार; किसी शासकीय अधिकारी
-का स्थानान्तर होने पर वह अपने घर की समस्त वस्तुओं को सन्दूकों में रखकर
-अपने नये स्थान पर पहुँचता है। तत्पश्चात्; वहाँ पुन अपने सामान को खोलकर
-नये गृह को सजाता है। ठीक इसी प्रकार जीवात्मा भी एक स्थूल शरीर को त्यागते
-समय समस्त इन्द्रियादि को एकत्रित कर शरीर को त्याग देता है; और फिर नवीन
-शरीर को धारण कर पुन सूक्ष्म शरीर के द्वारा समस्त व्यवहार करने लगता है।
-वेदान्त मे शरीर को भोगायतन कहते हैं। उपर्युक्त श्लोक वस्तुत उपनिषदों के
-ही सिद्धान्तों का ही सारांश है। वे इन्द्रियाँ कौन सी हैं सुनो
-
+15.8 Whatever body Its lord acires and from whatever body It departs, It goes on Its way, taking these senses as the wind carrying scents from their places.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।15.8।। जब (देहादि का) ईश्वर (जीव) (एक शरीर से) उत्क्रमण करता है, तब इन
-(इन्द्रियों और मन) को ग्रहण कर अन्य शरीर में इस प्रकार ले जाता है, जैसे
-गन्ध के आश्रय (फूलादि) से गन्ध को वायु ले जाता है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+15.8 When the master leaves it and even when he assumes a body, he departs taking these, as wind (carries away) odours from their receptacles.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+15.8 When the Supreme Lord enters a body or leaves it, He gathers these senses together and travels on with them, as the wind gathers perfume while passing through the flowers.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+15.8. Whatsoever body he attains to and also from whatsoever He goes up,
+the Lord proceeds taking them with Him just as the wind takes odours from their receptacle.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+15.8 When the Lord (as the individual soul) obtains a body and when He leaves it, He takes these and goes (with them) as the wind takes the scents from their seats (flowers, etc.).
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+15.8 शरीरम् a body; यत् when; अवाप्नोति obtains; यत् when; च and; अपि
+also; उत्क्रामति leaves; ईश्वरः the Lord; गृहीत्वा taking; एतानि these;
+संयाति goes; वायुः the wind; गन्धान् the scents; इव as; आशयात् from
+(their) seats (the flowers).Commentary Here is a description of how the subtle body leaves the gross body.When the Jiva; the Lord of the aggregate of the body and the rest takes up this body he brings in with him the mind and the senses when he leavs the body at its dissolution he takes with him the senses and the mind; just as the wind carries with it the fragrance from the flowers. Wherever he goes and whatever form he assumes he again operates through these senses and the mind.Lord Jiva;
+the Lord of the aggregate of the body and the rest.The Self appears to be an agent or an enjoyer only when he possesses or assumes a body.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.8।। जैसे वायु गन्धके स्थानसे गन्धको ग्रहण करके ले जाती है, ऐसे ही
 शरीरादिका स्वामी बना हुआ जीवात्मा भी जिस शरीरको छोड़ता है, वहाँसे मनसहित
 इन्द्रियोंको ग्रहण करके फिर जिस शरीरको प्राप्त होता है, उसमें चला जाता
 है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।15.8।।***व्याख्या --***  **वायुर्गन्धानिवाशयात् --** जिस प्रकार वायु
 इत्रके फोहेसे गन्ध ले जाती है किन्तु वह गन्ध स्थायीरूपसे वायुमें नहीं
@@ -453,57 +398,43 @@ _________________
   
 ***सम्बन्ध --***  अब भगवान् सातवें श्लोकमें आये हुए
 मनःषष्ठानीन्द्रियाणि पदका खुलासा करते हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-15.8. Whatsoever body he attains to and also from whatsoever He goes up,
-the Lord proceeds taking them with Him just as the wind takes odours from their receptacle.
-
+।।15.8।। देहेन्द्रियादि का ईश्वर अर्थात् स्वामी है जीव। जब तक वह किसी एक
+देह मे रहता है; तब तक सूक्ष्म शरीर (इन्द्रियाँ और अन्तकरण) को धारण किये
+रहता है और असंख्य प्रकार के कर्म करता है। अपनी वासनाओं के अनुसार वह कर्म
+करता है और फिर कर्मो के नियमानुसार विविध फलों को भोगने के लिये उसे
+अन्यान्य शरीर ग्रहण करने पड़ते हैं। तब एक शरीर का त्याग करते समय वह
+सूक्ष्म शरीर को समेट लेता है और अन्य शरीर में जा कर पुन उसके द्वारा
+पूर्ववत् व्यवहार करता है। सूक्ष्म शरीर का स्थूल शरीर से सदा के लिये वियोग
+स्थूल शरीर के लिये मृत्यु है। मृत देह का आकार पूर्ववत् दिखाई देता
+है;किन्तु विषय ग्रहण; अनुभव तथा विचार ग्रहण करने की क्षमता उसमे नहीं
+होती; क्योंकि ये समस्त कार्य सूक्ष्म शरीर के होते हैं। जीव की उपस्थिति
+से ही देह को एक व्यक्ति के रूप में स्थान प्राप्त होता है। जिस प्रकार
+प्रवाहित किया हुआ वायु पुष्प; चन्दन; इत्र आदि सुगन्धित वस्तुओं की सुगन्ध
+को एक स्थान से अन्य स्थान बहा कर ले जाता है; उसी प्रकार जीव समस्त
+इन्द्रियादि को लेकर जाता है। वायु और सुगन्ध दृष्टिगोचर नहीं होते; उसी
+प्रकार देह को त्यागते हुये सूक्ष्म जीव को भी नेत्रों से नहीं देखा जा
+सकता है। जीव की समस्त वासनाएं भी उसी के साथ रहती हैं। इस श्लोक में जीव को
+देहादि संघात का ईश्वर कहने का अभिप्राय केवल इतना ही है कि उसी की
+उपस्थिति में विषय ग्रहण; विचार आदि का व्यवहार सुचारु रूप से चलता रहता
+है। वह इन उपाधियों का शासक और नियामक है। जिस प्रकार; किसी शासकीय अधिकारी
+का स्थानान्तर होने पर वह अपने घर की समस्त वस्तुओं को सन्दूकों में रखकर
+अपने नये स्थान पर पहुँचता है। तत्पश्चात्; वहाँ पुन अपने सामान को खोलकर
+नये गृह को सजाता है। ठीक इसी प्रकार जीवात्मा भी एक स्थूल शरीर को त्यागते
+समय समस्त इन्द्रियादि को एकत्रित कर शरीर को त्याग देता है; और फिर नवीन
+शरीर को धारण कर पुन सूक्ष्म शरीर के द्वारा समस्त व्यवहार करने लगता है।
+वेदान्त मे शरीर को भोगायतन कहते हैं। उपर्युक्त श्लोक वस्तुत उपनिषदों के
+ही सिद्धान्तों का ही सारांश है। वे इन्द्रियाँ कौन सी हैं सुनो
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.8 When the master leaves it and even when he assumes a body, he departs taking these, as wind (carries away) odours from their receptacles.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।15.8।। जब (देहादि का) ईश्वर (जीव) (एक शरीर से) उत्क्रमण करता है, तब इन
+(इन्द्रियों और मन) को ग्रहण कर अन्य शरीर में इस प्रकार ले जाता है, जैसे
+गन्ध के आश्रय (फूलादि) से गन्ध को वायु ले जाता है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.8 When the Supreme Lord enters a body or leaves it, He gathers these senses together and travels on with them, as the wind gathers perfume while passing through the flowers.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-15.8 Whatever body Its lord acires and from whatever body It departs, It goes on Its way, taking these senses as the wind carrying scents from their places.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-15.8 When the Lord (as the individual soul) obtains a body and when He leaves it, He takes these and goes (with them) as the wind takes the scents from their seats (flowers, etc.).
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-15.8 शरीरम् a body; यत् when; अवाप्नोति obtains; यत् when; च and; अपि
-also; उत्क्रामति leaves; ईश्वरः the Lord; गृहीत्वा taking; एतानि these;
-संयाति goes; वायुः the wind; गन्धान् the scents; इव as; आशयात् from
-(their) seats (the flowers).Commentary Here is a description of how the subtle body leaves the gross body.When the Jiva; the Lord of the aggregate of the body and the rest takes up this body he brings in with him the mind and the senses when he leavs the body at its dissolution he takes with him the senses and the mind; just as the wind carries with it the fragrance from the flowers. Wherever he goes and whatever form he assumes he again operates through these senses and the mind.Lord Jiva;
-the Lord of the aggregate of the body and the rest.The Self appears to be an agent or an enjoyer only when he possesses or assumes a body.
-
-</details>
 </div>

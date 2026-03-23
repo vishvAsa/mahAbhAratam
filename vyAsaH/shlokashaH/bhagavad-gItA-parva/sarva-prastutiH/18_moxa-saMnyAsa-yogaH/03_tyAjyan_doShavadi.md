@@ -1,247 +1,59 @@
 +++
 title = "03 त्याज्यन् दोषवदित्येके"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **त्याज्यं** दोषवद् इत्य् एके  
 कर्म प्राहुर्मनीषिणः।  
 यज्ञ-दान-तपः-कर्म  
 **न त्याज्यम्** इति चापरे॥18.3॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः।  
-यज्ञदानतपःकर्म न त्याज्यमिति चापरे।।18.3।।
+यज्ञदानतपःकर्म न त्याज्यमिति चापरे॥18.3॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।18.3।। एके मनीषिणः कापिला वैदिकाः च तन्मतानुसारिणो रागादि**दोषवद्**
-बन्धकत्वात् सर्वं यज्ञादिकं कर्म मुमुक्षुणा **त्याज्यम्** इति आहुः।
-**अपरे** पण्डिता यज्ञादिकं **कर्म न त्याज्यम्** इति प्राहुः।
-
+॥18.3॥ एके मनीषिणः कापिला वैदिकाश् च तन्मतानुसारिणो रागादि**दोषवद्** बन्धकत्वात् सर्वं यज्ञादिकं कर्म मुमुक्षुणा **त्याज्यम्** इत्य् आहुः। **अपरे** पण्डिता यज्ञादिकं **कर्म न त्याज्यम्** इति प्राहुः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥18.3॥ एवङ्काम्यानाम् \[18।2\] इति श्लोकेन फलविरोधतदभावद्वारा विरोधो दर्शितः। अथत्याज्यं दोषवत् इति श्लोकेन स्वरूपतो दोषयोगतदभावाभ्यां प्रत्यवायत्वादिमुखेन विवादः प्रदर्श्यते -- वैधहिंसाऽपि कापिलैर्निषिद्धत्वेन दोषतयाऽङ्गीक्रियते। यथोक्तमीश्वरकृष्णेनदृष्टवदानुश्रविकः स ह्यविशुद्धः क्षयातिशययुक्तः इति। उक्तं च पञ्चशिखाचार्यैः -- स्वल्पः सङ्करः सुपरिहरः सप्रत्यवमर्शः इति। अतो वैधहिंसा पुरुषस्य दोषमावक्ष्यति; कतोश्चोपकरिष्यतीति तन्मतम्। अतःएके इति शब्देन सामान्यतो निर्दिष्टावादिनःदोषवत् इति हेत्वन्वयादिसामर्थ्याद्दोषाख्यदृष्टान्तोक्तिबलाद्वा विशेषतो व्यज्यन्त इत्याहकापिला वैदिकाश्च तन्मतानुसारिण इति। एतेन सर्वकर्मस्वरूपसन्न्यासवादिनां मतमपि वेदबाह्यत्वेन दर्शितम्। रागादिदोषवदिति -- रागादयो दोषा बन्धका इति सर्वसैद्धान्तिकसम्मतत्वात्तदुदाहरणं यद्वा कर्मैव रागादिदोषवत् अत एव बन्धकमित्यभिप्रायः। अस्यां योजनायामादिशब्दो हिंसादिकमपि सङ्गृह्णाति। सर्वं यज्ञादिकं कर्मेति -- कर्मशब्दोऽत्र सामान्यविषयोऽपियज्ञदानतपःकर्म न त्याज्यम् इति पक्षान्तरे विशेषणाच्छास्त्रचोदितविषयः तत्र च विशेषकाभावात्काम्यविषयत्वे पौनरुक्त्याच्च सर्वविषय इति भावः। सर्वैस्त्याज्यत्वे तद्विधायकस्य शास्त्रस्याप्रामाण्यप्रसङ्गात्मुमुक्षुणेति विशेषितम्। अपरशब्दोऽत्र स्वमतानुसारिविषयः। यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् \[18।5\] इति हि स्वमतं वक्ष्यत इत्यभिप्रायेणाऽऽहपण्डिता इति त्याज्योपादेयविभागतत्त्वविद इत्यर्थः।
+</details>
+
+<details><summary>आदिदेवानन्दः</summary>
+
+18.3 Some sages, viz., the adherents of Kapila and those Vaidikas who agree with his creed, contend that all acts such as sacrifices etc., should be renounced by aspirants for release, as they bind even as desires and other similar defects tend to bind. Other learned men say that acts like sacrifices etc., should not be renounced.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.3॥ --,**त्याज्यं** त्यक्तव्यं **दोषवत्** दोषः अस्य अस्तीति दोषवत्। किं तत् **कर्म** बन्धहेतुत्वात् सर्वमेव। अथवा; दोषः यथा रागादिः त्यज्यते; तथा त्याज्यम् **इति एके कर्म** प्राहुः **मनीषिणः** पण्डिताः साङ्ख्यादिदृष्टिम् आश्रिताः; अधिकृतानां कर्मिणामपि इति। तत्रैव **यज्ञदानतपःकर्म ऩ त्याज्यम् इति च अपरे**॥ कर्मिणः एव अधिकृताः; तान् अपेक्ष्य एते विकल्पाः; न तु ज्ञाननिष्ठान् व्युत्थायिनः संन्यासिनः अपेक्ष्य। ज्ञानयोगेन साङ्ख्यानां निष्ठा मया पुरा प्रोक्ता इति कर्माधिकारात् अपोद्धृताः ये; न तान् प्रति चिन्ता॥  
   
+ननु कर्मयोगेन योगिनाम् (गीता 3।3) इति अधिकृताः पूर्वं विभक्तनिष्ठाः अपि इह सर्वशास्त्रार्थोपसंहारप्रकरणे यथा विचार्यन्ते; तथा साङ्ख्या अपि ज्ञाननिष्ठाः विचार्यन्ताम् इति। न; तेषां मोहदुःखनिमित्तत्यागानुपपत्तेः। न कायक्लेशनिमित्तं दुःखं साङ्ख्याः आत्मनि पश्यन्ति; इच्छादीनां क्षेत्रधर्मत्वेनैव दर्शितत्वात्। अतः ते न कायक्लेशदुःखभयात् कर्म परित्यजन्ति। नापि ते कर्माणि आत्मनि पश्यन्ति; येन नियतं कर्म मोहात् परित्यजेयुः। गुणानां कर्म नैव किञ्चित्करोमि इति हि ते संन्यस्यन्ति। सर्वकर्माणि मनसा संन्यस्य (गीता 5।13) इत्यादिभिः तत्त्वविदः संन्यासप्रकारः उक्तः। तस्मात् ये अन्ये अधिकृताः कर्मणि अनात्मविदः; येषां च मोहनिमित्तः त्यागः संभवति कायक्लेशभयाच्च; ते एव तामसाः त्यागिनः राजसाश्च इति निन्द्यन्ते कर्मिणाम् अनात्मज्ञानां कर्मफलत्यागस्तुत्यर्थम् सर्वारम्भपरित्यागी (गीता 14।25) मौनी संतुष्टो येन केनचित् (गीता 12।19)। अनिकेतः स्थिरमतिः (गीता 12।19) इति गुणातीतलक्षणे च परमार्थसंन्यासिनः विशेषितत्वात्। वक्ष्यति च निष्ठा ज्ञानस्य या परा (गीता 18।50) इति। तस्मात् ज्ञाननिष्ठाः संन्यासिनः न इह विवक्षिताः। कर्मफलत्यागः एव सात्त्विकत्वेन गुणेन तामसत्वाद्यपेक्षया संन्यासः उच्यते; न मुख्यः सर्वकर्मसंन्यासः॥  
   
-।।18.3।। एवंकाम्यानाम् \[18।2\] इति श्लोकेन फलविरोधतदभावद्वारा विरोधो
-दर्शितः। अथत्याज्यं दोषवत् इति श्लोकेन स्वरूपतो दोषयोगतदभावाभ्यां
-प्रत्यवायत्वादिमुखेन विवादः प्रदर्श्यते -- वैधहिंसाऽपि
-कापिलैर्निषिद्धत्वेन दोषतयाऽङ्गीक्रियते।
-यथोक्तमीश्वरकृष्णेनदृष्टवदानुश्रविकः स ह्यविशुद्धः क्षयातिशययुक्तः इति।
-उक्तं च पञ्चशिखाचार्यैः -- स्वल्पः सङ्करः सुपरिहरः सप्रत्यवमर्शः इति।
-अतो वैधहिंसा पुरुषस्य दोषमावक्ष्यति; कतोश्चोपकरिष्यतीति तन्मतम्। अतःएके
-इति शब्देन सामान्यतो निर्दिष्टावादिनःदोषवत् इति
-हेत्वन्वयादिसामर्थ्याद्दोषाख्यदृष्टान्तोक्तिबलाद्वा विशेषतो व्यज्यन्त
-इत्याहकापिला वैदिकाश्च तन्मतानुसारिण इति। एतेन
-सर्वकर्मस्वरूपसन्न्यासवादिनां मतमपि वेदबाह्यत्वेन
-दर्शितम्। रागादिदोषवदिति -- रागादयो दोषा बन्धका इति
-सर्वसैद्धान्तिकसम्मतत्वात्तदुदाहरणम् यद्वा कर्मैव रागादिदोषवत् अत एव
-बन्धकमित्यभिप्रायः। अस्यां योजनायामादिशब्दो हिंसादिकमपि संगृह्णाति। सर्वं
-यज्ञादिकं कर्मेति -- कर्मशब्दोऽत्र सामान्यविषयोऽपियज्ञदानतपःकर्म न
-त्याज्यम् इति पक्षान्तरे विशेषणाच्छास्त्रचोदितविषयः तत्र च
-विशेषकाभावात्काम्यविषयत्वे पौनरुक्त्याच्च सर्वविषय इति भावः।
-सर्वैस्त्याज्यत्वे तद्विधायकस्य
-शास्त्रस्याप्रामाण्यप्रसङ्गात्मुमुक्षुणेति विशेषितम्। अपरशब्दोऽत्र
-स्वमतानुसारिविषयः। यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् \[18।5\] इति हि
-स्वमतं वक्ष्यत इत्यभिप्रायेणाऽऽहपण्डिता इति त्याज्योपादेयविभागतत्त्वविद
-इत्यर्थः।  
-  
-
+सर्वकर्मसंन्यासासंभवे च न हि देहभृता इति हेतुवचनात् मुख्य एव इति चेत्; न हेतुवचनस्य स्तुत्यर्थत्वात्। यथा त्यागाच्छान्तिरनन्तरम् (गीता 12।12) इति कर्मफलत्यागस्तुतिरेव यथोक्तानेकपक्षानुष्ठानाशक्तिमन्तम् अर्जुनम् अज्ञं प्रति विधानात् तथा इदमपि न हि देहभृता शक्यम् (गीता 18।11) इति कर्मफलत्यागस्तुत्यर्थम् न सर्वकर्माणि मनसा संन्यस्य नैव कुर्वन्न कारयन्नास्ते इत्यस्य पक्षस्य अपवादः केनचित् दर्शयितुं शक्यः। तस्मात् कर्मणि अधिकृतान् प्रत्येव एषः संन्यासत्यागविकल्पः। ये तु परमार्थदर्शिनः साङ्ख्याः; तेषां ज्ञाननिष्ठायामेव सर्वकर्मसंन्यासलक्षणायाम् अधिकारः; न अन्यत्र; इति न ते विकल्पार्हाः। तच्च उपपादितम् अस्माभिः वेदाविनाशिनम् (गीता 2।21) इत्यस्मिन्प्रदेशे; तृतीयादौ च॥ तत्र एतेषु विकल्पभेदेषु --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.3 Some sages, viz., the adherents of Kapila and those Vaidikas who
-agree with his creed, contend that all acts such as sacrifices etc.,
-should be renounced by aspirants for release, as they bind even as
-desires and other similar defects tend to bind. Other learned men say
-that acts like sacrifices etc., should not be renounced.
-
-</details>
-</div>
-
-
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।18.3।। No commentary.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-18.3 Tyajyam etc. The harmful : that which is connected with sin,
-becuase it consists of act of injury etc. Such an action must be
-relinished and not all aciton that has auspicious result. In this way
-certain persons-as if they are attached (as domesticated animals do ) to
-the house of the Sankhyas - think of a distinction is relinishing. But
-there are other learned persons who put on the coat of the Mimamsakas
-and who, basing exclusively the scriptures, classify what action to be
-performed and what action not to be performed . They opine : The act of
-killing that constitutes the technical aspect of execution of a
-sacrifice is \[in fact\] not an act of injury at all in view of the
-principles, like 'The action intended for sacrifice is indeed known from
-the scripture only' - (SB, IV, i, 2) and 'Therefore the act of injury
-known from the Vedas' etc. - (SV, I, i, 2.23) For, the general rule
-'Don't injure' is annulled in this case. But, at the same time the
-Syena-sacrifice etc., is an act of killing. Becuase, 'The injunctive
-suffix does not prescribe what falls within the purveiw of fruit of an
-action of the injunction.' \[SV, I, i, 2.222). Therefore other \[Vedic\]
-sacrifices one should not relinish eventhough they are connected with an
-act of injury.
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।18.3।। मनीषिण इत्युक्तत्वात्पूर्वपक्षोऽपि ग्राह्य एव। फलत्यागेन त्यागो
-विवक्षितः। यज्ञादेस्तत्पक्षे। यस्तु कर्मफलत्यागी \[18।11\] इति च
-वक्ष्यति। अत एक एवायं पक्षः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।18.3।। त्याज्यं दोषवत् इत्यनेन हेयः कापिलानां पक्ष उपन्यस्त इति केचित्;
-तदसदिति भावेनाऽऽह -- **मनीषिण** इति। पूर्वपक्षः पूर्वोपन्यस्तः पक्षः।
-ननुयज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् \[18।5\] इति
-भगवन्मतविरुद्धोऽसौ कथं ग्राह्यः इत्यत आह -- **फलत्यागेने**ति।
-फलत्यागाभिप्रायेण यज्ञादेस्त्यागो विवक्षितः; तत्पक्षे न स्वरूपतः।
-कुतःमनीषिणः इति विशेषणादेव। अतो न भगवन्मतविरुद्धोऽसौ। कर्मत्यागशब्दः कथं
-फलत्यागेनार्थेनार्थवानित्यत आह -- **यस्त्वि**ति। नन्वेवं सति
-पूर्वोत्तरार्धोपन्यस्तयोः पक्षयोरविरोध आपद्यत इति चेत् सत्यं; इत्याह --
-**अत** इति। अतो मनीषिपक्षत्वादेकोऽविरुद्धः। अयं पूर्वोत्तरार्धोपन्यस्तः
-किन्त्वापापप्रतीतिमपेक्ष्य सन्देहबीजत्वेन विप्रतिपत्तिरियमुद्भावितेति
-भावः।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।18.3।। --,**त्याज्यं** त्यक्तव्यं **दोषवत्** दोषः अस्य अस्तीति दोषवत्।
-किं तत् **कर्म** बन्धहेतुत्वात् सर्वमेव। अथवा; दोषः यथा रागादिः
-त्यज्यते; तथा त्याज्यम् **इति एके कर्म** प्राहुः **मनीषिणः** पण्डिताः
-साङ्ख्यादिदृष्टिम् आश्रिताः; अधिकृतानां कर्मिणामपि इति। तत्रैव
-**यज्ञदानतपःकर्म ऩ त्याज्यम् इति च अपरे**।। कर्मिणः एव अधिकृताः; तान्
-अपेक्ष्य एते विकल्पाः; न तु ज्ञाननिष्ठान् व्युत्थायिनः संन्यासिनः
-अपेक्ष्य। ज्ञानयोगेन साङ्ख्यानां निष्ठा मया पुरा प्रोक्ता इति
-कर्माधिकारात् अपोद्धृताः ये; न तान् प्रति चिन्ता।।  
-  
-ननु कर्मयोगेन योगिनाम् (गीता 3।3) इति अधिकृताः पूर्वं विभक्तनिष्ठाः अपि
-इह सर्वशास्त्रार्थोपसंहारप्रकरणे यथा विचार्यन्ते; तथा साङ्ख्या अपि
-ज्ञाननिष्ठाः विचार्यन्ताम् इति। न; तेषां मोहदुःखनिमित्तत्यागानुपपत्तेः।
-न कायक्लेशनिमित्तं दुःखं साङ्ख्याः आत्मनि पश्यन्ति; इच्छादीनां
-क्षेत्रधर्मत्वेनैव दर्शितत्वात्। अतः ते न कायक्लेशदुःखभयात् कर्म
-परित्यजन्ति। नापि ते कर्माणि आत्मनि पश्यन्ति; येन नियतं कर्म मोहात्
-परित्यजेयुः। गुणानां कर्म नैव किञ्चित्करोमि इति हि ते संन्यस्यन्ति।
-सर्वकर्माणि मनसा संन्यस्य (गीता 5।13) इत्यादिभिः तत्त्वविदः
-संन्यासप्रकारः उक्तः। तस्मात् ये अन्ये अधिकृताः कर्मणि अनात्मविदः; येषां
-च मोहनिमित्तः त्यागः संभवति कायक्लेशभयाच्च; ते एव तामसाः त्यागिनः
-राजसाश्च इति निन्द्यन्ते कर्मिणाम् अनात्मज्ञानां कर्मफलत्यागस्तुत्यर्थम्
-सर्वारम्भपरित्यागी (गीता 14।25) मौनी संतुष्टो येन केनचित् (गीता 12।19)।
-अनिकेतः स्थिरमतिः (गीता 12।19) इति गुणातीतलक्षणे च परमार्थसंन्यासिनः
-विशेषितत्वात्। वक्ष्यति च निष्ठा ज्ञानस्य या परा (गीता 18।50) इति।
-तस्मात् ज्ञाननिष्ठाः संन्यासिनः न इह विवक्षिताः। कर्मफलत्यागः एव
-सात्त्विकत्वेन गुणेन तामसत्वाद्यपेक्षया संन्यासः उच्यते; न मुख्यः
-सर्वकर्मसंन्यासः।।  
-  
-सर्वकर्मसंन्यासासंभवे च न हि देहभृता इति हेतुवचनात् मुख्य एव इति चेत्; न
-हेतुवचनस्य स्तुत्यर्थत्वात्। यथा त्यागाच्छान्तिरनन्तरम् (गीता 12।12) इति
-कर्मफलत्यागस्तुतिरेव यथोक्तानेकपक्षानुष्ठानाशक्तिमन्तम् अर्जुनम् अज्ञं
-प्रति विधानात् तथा इदमपि न हि देहभृता शक्यम् (गीता 18।11) इति
-कर्मफलत्यागस्तुत्यर्थम् न सर्वकर्माणि मनसा संन्यस्य नैव कुर्वन्न
-कारयन्नास्ते इत्यस्य पक्षस्य अपवादः केनचित् दर्शयितुं शक्यः। तस्मात्
-कर्मणि अधिकृतान् प्रत्येव एषः संन्यासत्यागविकल्पः। ये तु परमार्थदर्शिनः
-साङ्ख्याः; तेषां ज्ञाननिष्ठायामेव सर्वकर्मसंन्यासलक्षणायाम् अधिकारः; न
-अन्यत्र; इति न ते विकल्पार्हाः। तच्च उपपादितम् अस्माभिः वेदाविनाशिनम्
-(गीता 2।21) इत्यस्मिन्प्रदेशे; तृतीयादौ च।। तत्र एतेषु विकल्पभेदेषु --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।18.3।। कितने ही साङ्ख्यादि मतावलम्बी पण्डितजन कहते हैं कि जिसमें दोष हो
-वह दोषवत् है। वह क्या है कि बन्धनके हेतु होनेके कारण सभी कर्म दोषयुक्त
-हैं; इसलिये कर्म करनेवाले कर्माधिकारी मनुष्योंके लिये भी वे त्याज्य हैं;
-अथवा जैसे रागद्वेष आदि दोष त्यागे जाते हैं; वैसे ही समस्त कर्म भी
-त्याज्य हैं। इसी विषयमें दूसरे विद्वान कहते हैं कि यज्ञ; दान और तपरूप
-कर्म त्याग करनेयोग्य नहीं हैं। ये सब विकल्प; कर्म करनेवाले
-कर्माधिकारियोंको लक्ष्य करके ही किये गये हैं। समस्त भोगोंसे विरक्त
-ज्ञाननिष्ट; संन्यासियोंको लक्ष्य करके नहीं। ( अभिप्राय यह कि )
-साङ्ख्ययोगियोंकी निष्ठा ज्ञानयोगके द्वारा मैं पहले कह चुका हूँ इस प्रकार
-जो,( संन्यासी ) कर्माधिकारसे अलग कर दिये गये हैं उनके विषयमें यहाँ कोई
-विचार नहीं करना है। पू₀ -- कर्मयोगियोंकी निष्ठा कर्मयोगसे कही गयी है इस
-कथनसे जिनकी निष्ठाका विभाग पहले किया जा चुका है; उन कर्माधिकारियोंके
-सम्बन्धमें जिस प्रकार यहाँ गीताशास्त्रके उपसंहारप्रकरणमें फिर विचार किया
-जाता है; वैसे ही; साङ्ख्यनिष्ठावाले संन्यासियोंके विषयमें भी तो किया जाना
-उचित ही है। उ₀ -- नहीं; क्योंकि उनका त्याग मोह या दुःखके निमित्तसे
-होनेवाला नहीं हो सकता। ( भगवान्ने क्षेत्राध्यायमें ) इच्छा और द्वेष
-आदिको शरीरके ही धर्म बतलाया है इसलिये साङ्ख्यनिष्ठ संन्यासी शारीरिक
-पीड़ाके निमित्तसे होनेवाले दुःखोंको आत्मामें नहीं देखते। अतः वे शारीरिक
-क्लेशजन्य दुःखके भयसे कर्म नहीं छोड़ते। तथा वे आत्मामें कर्मोंका
-अस्तित्त्व भी नहीं देखते; जिससे कि उनके द्वारा मोहसे नियत कर्मोंका
-परित्याग किया जा सकता हो। सारे कर्म गुणोंके हैं; मैं कुछ भी नहीं करता
-ऐसा समझकर ही वे कर्मसंन्यास करते हैं; क्योंकि सब कर्मोंको मनसे त्यागकर
-इत्यादि वाक्योंद्वारा तत्त्वज्ञानियोंके संन्यासका प्रकार ( ऐसा ही )
-बतलाया गया है। अतः जो अन्य आत्मज्ञानरहित कर्माधिकारी मनुष्य हैं जिनके
-द्वारा मोहपूर्वक या शारीरिक क्लेशके भयसे कर्मोंका त्याग किया जाना सम्भव
-है; वे ही तामस और राजस त्यागी हैं। ऐसा कहकर; आत्मज्ञानरहित
-कर्माधिकारियोंके कर्मफलत्यागकी स्तुति करनेके लिये; उन राजसतामस
-त्यागियोंकी निन्दा की जाती है। क्योंकि सर्वारम्भपरित्यागी मौनी संतुष्टो
-येन केनचित् अनिकेतः स्थिरमतिः इत्यादि विशेषणोंसे ( बारहवें अध्यायमें )
-और गुणातीतके लक्षणोंमें भी यथार्थ संन्यासीको पृथक् करके कहा गया है;
-तथा,ज्ञानकी जो परानिष्ठा है इस प्रकरणमें भी यही बात कहेंगे; इसलिये यहाँ
-यह विवेचन ज्ञाननिष्ठ संन्यासियोंके विषयमें नहीं है। कर्मफलत्याग (
-रूपसंन्यास ) ही सात्त्विकतारूप गुणसे युक्त होनेके कारण यहाँ तामसराजस
-त्यागकी अपेक्षा गौणरूपसे संन्यास कहा जाता है। यह ( सात्त्विक त्याग )
-सर्वकर्मसंन्यासरूप मुख्य संन्यास नहीं,है। पू₀ -- न हि देहभृता इत्यादि
-हेतुयुक्त कथनसे यह पाया जाता है कि स्वरूपसे सर्वकर्मोंका संन्यास असम्भव
-है; अतः कर्मफलत्याग ही मुख्य संन्यास है। उ₀ -- यह कहना ठीक नहीं; क्योंकि
-यह हेतुयुक्त कथन कर्मफलत्यागकी स्तुतिके लिये है। जिस प्रकार पूर्वोक्त
-अनेक साधनोंका अनुष्ठान करनेमें असमर्थ और आत्मज्ञानरहित अर्जुनके लिये
-विहित होनेके कारण,त्यागाच्छान्तिरनन्तरम् यह कहना कर्मफलत्यागकी
-स्तुतिमात्र है। वैसे ही न हि देहभृता शक्यम् यह कहना भी कर्मफलत्यागकी
-स्तुतिके लिये ही है। क्योंकि सब कर्मोंको मनसे छो़ड़कर न करता हुआ और न
-कराता हुआ रहता है इस पक्षका अपवाद; किसीके द्वारा भी दिखलाया जाना सम्भव
-नहीं है। सुतरां यह संन्यास और त्यागसम्बन्धी विकल्प; कर्माधिकारियोंके
-विषयमें ही है। जो यथार्थ ज्ञानी साङ्ख्ययोगी हैं; उनका केवल
-सर्वकर्मसंन्यासरूप ज्ञाननिष्ठामें ही अधिकार है; अन्यत्र नहीं; अतः वे
-विकल्पके पात्र नहीं हैं। यही सिद्धान्त हमने वेदाविनाशिनम् इस श्लोककी
-व्याख्यामें और तीसरे अध्यायके आरम्भमें सिद्ध किया है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 18.3 Eke, some; manisinah, learned ones, subscribing to the views of the
 Sankhyas and others; prahuh, say; that dosavat, beset with evil (as it
@@ -315,13 +127,63 @@ come within the purview of the alternative veiws. Thus has this been
 pointed out by us in connection with the text, '৷৷.he who knows this One
 as indestructible৷৷.' (2.21) as also in the beginning of the third
 chapter.
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।18.3।। काम्यानि वर्जयित्वा नित्यनैमित्तिकानि फलाभिलाषादृते
+<details><summary>हरिकृष्णदासः</summary>
+
+॥18.3॥ कितने ही साङ्ख्यादि मतावलम्बी पण्डितजन कहते हैं कि जिसमें दोष हो
+वह दोषवत् है। वह क्या है कि बन्धनके हेतु होनेके कारण सभी कर्म दोषयुक्त
+हैं; इसलिये कर्म करनेवाले कर्माधिकारी मनुष्योंके लिये भी वे त्याज्य हैं;
+अथवा जैसे रागद्वेष आदि दोष त्यागे जाते हैं; वैसे ही समस्त कर्म भी
+त्याज्य हैं। इसी विषयमें दूसरे विद्वान कहते हैं कि यज्ञ; दान और तपरूप
+कर्म त्याग करनेयोग्य नहीं हैं। ये सब विकल्प; कर्म करनेवाले
+कर्माधिकारियोंको लक्ष्य करके ही किये गये हैं। समस्त भोगोंसे विरक्त
+ज्ञाननिष्ट; संन्यासियोंको लक्ष्य करके नहीं। ( अभिप्राय यह कि )
+साङ्ख्ययोगियोंकी निष्ठा ज्ञानयोगके द्वारा मैं पहले कह चुका हूँ इस प्रकार
+जो,( संन्यासी ) कर्माधिकारसे अलग कर दिये गये हैं उनके विषयमें यहाँ कोई
+विचार नहीं करना है। पू₀ -- कर्मयोगियोंकी निष्ठा कर्मयोगसे कही गयी है इस
+कथनसे जिनकी निष्ठाका विभाग पहले किया जा चुका है; उन कर्माधिकारियोंके
+सम्बन्धमें जिस प्रकार यहाँ गीताशास्त्रके उपसंहारप्रकरणमें फिर विचार किया
+जाता है; वैसे ही; साङ्ख्यनिष्ठावाले संन्यासियोंके विषयमें भी तो किया जाना
+उचित ही है। उ₀ -- नहीं; क्योंकि उनका त्याग मोह या दुःखके निमित्तसे
+होनेवाला नहीं हो सकता। ( भगवान्ने क्षेत्राध्यायमें ) इच्छा और द्वेष
+आदिको शरीरके ही धर्म बतलाया है इसलिये साङ्ख्यनिष्ठ संन्यासी शारीरिक
+पीड़ाके निमित्तसे होनेवाले दुःखोंको आत्मामें नहीं देखते। अतः वे शारीरिक
+क्लेशजन्य दुःखके भयसे कर्म नहीं छोड़ते। तथा वे आत्मामें कर्मोंका
+अस्तित्त्व भी नहीं देखते; जिससे कि उनके द्वारा मोहसे नियत कर्मोंका
+परित्याग किया जा सकता हो। सारे कर्म गुणोंके हैं; मैं कुछ भी नहीं करता
+ऐसा समझकर ही वे कर्मसंन्यास करते हैं; क्योंकि सब कर्मोंको मनसे त्यागकर
+इत्यादि वाक्योंद्वारा तत्त्वज्ञानियोंके संन्यासका प्रकार ( ऐसा ही )
+बतलाया गया है। अतः जो अन्य आत्मज्ञानरहित कर्माधिकारी मनुष्य हैं जिनके
+द्वारा मोहपूर्वक या शारीरिक क्लेशके भयसे कर्मोंका त्याग किया जाना सम्भव
+है; वे ही तामस और राजस त्यागी हैं। ऐसा कहकर; आत्मज्ञानरहित
+कर्माधिकारियोंके कर्मफलत्यागकी स्तुति करनेके लिये; उन राजसतामस
+त्यागियोंकी निन्दा की जाती है। क्योंकि सर्वारम्भपरित्यागी मौनी संतुष्टो
+येन केनचित् अनिकेतः स्थिरमतिः इत्यादि विशेषणोंसे ( बारहवें अध्यायमें )
+और गुणातीतके लक्षणोंमें भी यथार्थ संन्यासीको पृथक् करके कहा गया है;
+तथा,ज्ञानकी जो परानिष्ठा है इस प्रकरणमें भी यही बात कहेंगे; इसलिये यहाँ
+यह विवेचन ज्ञाननिष्ठ संन्यासियोंके विषयमें नहीं है। कर्मफलत्याग (
+रूपसंन्यास ) ही सात्त्विकतारूप गुणसे युक्त होनेके कारण यहाँ तामसराजस
+त्यागकी अपेक्षा गौणरूपसे संन्यास कहा जाता है। यह ( सात्त्विक त्याग )
+सर्वकर्मसंन्यासरूप मुख्य संन्यास नहीं,है। पू₀ -- न हि देहभृता इत्यादि
+हेतुयुक्त कथनसे यह पाया जाता है कि स्वरूपसे सर्वकर्मोंका संन्यास असम्भव
+है; अतः कर्मफलत्याग ही मुख्य संन्यास है। उ₀ -- यह कहना ठीक नहीं; क्योंकि
+यह हेतुयुक्त कथन कर्मफलत्यागकी स्तुतिके लिये है। जिस प्रकार पूर्वोक्त
+अनेक साधनोंका अनुष्ठान करनेमें असमर्थ और आत्मज्ञानरहित अर्जुनके लिये
+विहित होनेके कारण,त्यागाच्छान्तिरनन्तरम् यह कहना कर्मफलत्यागकी
+स्तुतिमात्र है। वैसे ही न हि देहभृता शक्यम् यह कहना भी कर्मफलत्यागकी
+स्तुतिके लिये ही है। क्योंकि सब कर्मोंको मनसे छो़ड़कर न करता हुआ और न
+कराता हुआ रहता है इस पक्षका अपवाद; किसीके द्वारा भी दिखलाया जाना सम्भव
+नहीं है। सुतरां यह संन्यास और त्यागसम्बन्धी विकल्प; कर्माधिकारियोंके
+विषयमें ही है। जो यथार्थ ज्ञानी साङ्ख्ययोगी हैं; उनका केवल
+सर्वकर्मसंन्यासरूप ज्ञाननिष्ठामें ही अधिकार है; अन्यत्र नहीं; अतः वे
+विकल्पके पात्र नहीं हैं। यही सिद्धान्त हमने वेदाविनाशिनम् इस श्लोककी
+व्याख्यामें और तीसरे अध्यायके आरम्भमें सिद्ध किया है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥18.3॥ काम्यानि वर्जयित्वा नित्यनैमित्तिकानि फलाभिलाषादृते
 कर्तव्यानीत्युक्तं पक्षं प्रतिपक्षनिराशेन द्रढयितुं विप्रतिपत्तिमाह --
 **त्याज्यमिति।** कर्मणः सर्वस्य दोषवत्त्वे हेतुमाह -- **बन्धेति।**
 दोषवदित्येतद्दृष्टान्तत्वेन व्याचष्टे -- **अथवेति।**
@@ -375,26 +237,11 @@ chapter.
 तेषामधिकारस्तत्राह -- **ये त्विति।** संन्यासिनां विकल्पानर्हत्वेन
 ज्ञाननिष्ठायामेवाधिकारस्य भूयःसु प्रदेशेषु साधितत्वान्न
 साधनीयत्वापेक्षेत्याह -- **तथेति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।18.3।। अधुना द्वितीयप्रश्नप्रतिवचनाय संन्यासत्यागशब्दार्थस्य त्रैविध्यं
-निरूपयितुं तत्र विप्रतिपत्तिमाह -- त्याज्यमिति। सर्वं कर्म
-बन्धहेतुत्वात् दोषवद्दुष्टमतः कर्माधिकृतैरपि कर्म त्याज्यमेवेत्येके
-मनीषिणः प्राहुः। यद्वा दोषवद्दोष इव यथा दोषो रागादिस्त्यज्यते तद्वत्कर्म
-त्याज्यमनुत्पन्नबोधैरनुत्पन्नविविदिषैः कर्माधिकारिभिरपीत्यकेः पक्षः।
-अत्र द्वितीयः पक्षः कर्माधिकारिभिरन्तःकरणशुद्धिद्वारा
-विविदिषोत्पत्त्यर्थं यज्ञदानतपःकर्म न त्याज्यमिति चापरे मनीषिणः प्राहुः।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।18.3।। इदमेव पक्षद्वयमाह -- **त्याज्यमिति।** एके मुख्याः मनीषिणो
+॥18.3॥ इदमेव पक्षद्वयमाह -- **त्याज्यमिति।** एके मुख्याः मनीषिणो
 मनोनिग्रहसमर्थाः परमात्मनि उत्पन्नविविदिषाणां पुरुषाणां दोषवत् रागादयो
 यथा त्याज्यास्तद्वत् कर्म त्याज्यमिति प्राहुः। अपरे तु विविदिषार्थिना
 यज्ञादिकं न त्याज्यमिति वा प्राहुरित्यनुवर्तते। तथा च द्विविधाः श्रुतय
@@ -403,13 +250,11 @@ chapter.
 विदुषां तु कर्मसु प्रवृत्तिकारणस्याज्ञानस्य नष्टत्वात्स्वतःसिद्ध एव
 त्याग इति न तान्प्रति कर्मविधिर्वा तत्त्यागविधिर्वा प्रवर्तते। यथोक्तंन
 कर्माणि त्यजेद्योगी कर्मभिस्त्यज्यते ह्यसौ इति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।18.3।। काम्यानि वर्जयित्वा नित्यनैमित्तिकानि फलाभिसंधि विना
+<details><summary>धनपतिः</summary>
+
+॥18.3॥ काम्यानि वर्जयित्वा नित्यनैमित्तिकानि फलाभिसंधि विना
 कर्तव्यानीत्युक्तं पक्षं प्रतिक्षनिरासेन द्रढयितुं विप्रतिपत्तिमाह --
 स्याज्यमिति। दोषाऽस्यास्तीति दोषवत् बन्धहेतुतत्वात्। सर्वमेव कर्म
 त्याज्यं त्यक्तव्यं दोषो रागादिर्यथा त्यज्यते तद्वत्त्याज्यमिति वा। एके
@@ -443,7 +288,7 @@ chapter.
 कर्मिणामनात्मज्ञानां कर्मफलत्यागस्तुत्यर्थं ये कर्मण्यधिकृता,अनात्मविदो
 येषां च मोहात्कायक्लेशभयाच्च त्यागः संभवति तमसास्त्यागिनो राजसाश्चेति
 निन्द्यन्ते। मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः।
-सर्वारम्भपरित्यागी गुणातीतः स उच्यते।। तुल्यनिन्दास्तुतिर्मौनी संतुष्टो
+सर्वारम्भपरित्यागी गुणातीतः स उच्यते॥ तुल्यनिन्दास्तुतिर्मौनी संतुष्टो
 येनकेनचित्। अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः इत्यादिना
 चतुर्दशद्वादशादौ परमार्तसंन्यासिनो विशेषित्वात्। ज्ञानस्य या परा
 निष्ठेति वक्ष्यमाणत्वाच्च। ज्ञाननिष्ठाः संन्यासिनो नेह विवक्षिताः
@@ -451,17 +296,66 @@ chapter.
 स्तूयन्ते। नचनहि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः िति हेतुवजनेन
 मुख्या एवायं संन्यास इति भ्रमितव्यम्।
 त्यागाच्छान्तिरनन्तरमितिवद्धेतुवजनस्तुत्यर्थत्वादिति संक्षेपः।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥18.3॥ अधुना द्वितीयप्रश्नप्रतिवचनाय संन्यासत्यागशब्दार्थस्य त्रैविध्यं
+निरूपयितुं तत्र विप्रतिपत्तिमाह -- त्याज्यमिति। सर्वं कर्म
+बन्धहेतुत्वात् दोषवद्दुष्टमतः कर्माधिकृतैरपि कर्म त्याज्यमेवेत्येके
+मनीषिणः प्राहुः। यद्वा दोषवद्दोष इव यथा दोषो रागादिस्त्यज्यते तद्वत्कर्म
+त्याज्यमनुत्पन्नबोधैरनुत्पन्नविविदिषैः कर्माधिकारिभिरपीत्यकेः पक्षः।
+अत्र द्वितीयः पक्षः कर्माधिकारिभिरन्तःकरणशुद्धिद्वारा
+विविदिषोत्पत्त्यर्थं यज्ञदानतपःकर्म न त्याज्यमिति चापरे मनीषिणः प्राहुः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.3।। एके त्वाहुस्त्याज्यं दोषवदिति। कर्ममात्रं
+॥18.3॥ मनीषिण इत्युक्तत्वात्पूर्वपक्षोऽपि ग्राह्य एव। फलत्यागेन त्यागो
+विवक्षितः। यज्ञादेस्तत्पक्षे। यस्तु कर्मफलत्यागी \[18।11\] इति च
+वक्ष्यति। अत एक एवायं पक्षः।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥18.3॥ त्याज्यं दोषवत् इत्यनेन हेयः कापिलानां पक्ष उपन्यस्त इति केचित्;
+तदसदिति भावेनाऽऽह -- **मनीषिण** इति। पूर्वपक्षः पूर्वोपन्यस्तः पक्षः।
+ननुयज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् \[18।5\] इति
+भगवन्मतविरुद्धोऽसौ कथं ग्राह्यः इत्यत आह -- **फलत्यागेने**ति।
+फलत्यागाभिप्रायेण यज्ञादेस्त्यागो विवक्षितः; तत्पक्षे न स्वरूपतः।
+कुतःमनीषिणः इति विशेषणादेव। अतो न भगवन्मतविरुद्धोऽसौ। कर्मत्यागशब्दः कथं
+फलत्यागेनार्थेनार्थवानित्यत आह -- **यस्त्वि**ति। नन्वेवं सति
+पूर्वोत्तरार्धोपन्यस्तयोः पक्षयोरविरोध आपद्यत इति चेत् सत्यं; इत्याह --
+**अत** इति। अतो मनीषिपक्षत्वादेकोऽविरुद्धः। अयं पूर्वोत्तरार्धोपन्यस्तः
+किन्त्वापापप्रतीतिमपेक्ष्य सन्देहबीजत्वेन विप्रतिपत्तिरियमुद्भावितेति
+भावः।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.3॥ No commentary.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.3 Tyajyam etc. The harmful : that which is connected with sin, becuase it consists of act of injury etc. Such an action must be relinished and not all aciton that has auspicious result. In this way certain persons-as if they are attached (as domesticated animals do ) to the house of the Sankhyas - think of a distinction is relinishing. But there are other learned persons who put on the coat of the Mimamsakas and who, basing exclusively the scriptures, classify what action to be performed and what action not to be performed . They opine : The act of killing that constitutes the technical aspect of execution of a sacrifice is \[in fact\] not an act of injury at all in view of the principles, like 'The action intended for sacrifice is indeed known from the scripture only' - (SB, IV, i, 2) and 'Therefore the act of injury known from the Vedas' etc. - (SV, I, i, 2.23) For, the general rule 'Don't injure' is annulled in this case. But, at the same time the Syena-sacrifice etc., is an act of killing. Becuase, 'The injunctive suffix does not prescribe what falls within the purveiw of fruit of an action of the injunction.' \[SV, I, i, 2.222). Therefore other \[Vedic\] sacrifices one should not relinish eventhough they are connected with an act of injury.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.3॥ एके त्वाहुस्त्याज्यं दोषवदिति। कर्ममात्रं
 हिंसादिदोषवत्त्वात्त्याज्यमित्येके साङ्ख्याः मनीषिण इति युक्तिदर्शनात्
 स्तौति। अपरे मीमांसका यज्ञदानतपःकर्म सफलमपि श्रुतत्वान्न
 त्याज्यमित्याहुः। भ्रान्ता अप्येते एकांशतः समीचीनाः; यतः
@@ -470,32 +364,23 @@ _________________
 इत्युक्तेऽकाम्यानां विधानमित्यर्थादुक्तं भवतीति भावेन कवित्वं तेषूक्तम्।
 अग्रे चविचक्षणाः इतिदोषवत् इत्युक्तेऽदोषवत्कार्यमिति मनीषिता
 तत्रोक्तेति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.3।। किञ्च -- त्याज्यमिति। एके मनस ईषिणो मनीषिणो विवेकिनः दोषवत् कर्म
+<details><summary>पुरुषोत्तमः</summary>
+
+॥18.3॥ किञ्च -- त्याज्यमिति। एके मनस ईषिणो मनीषिणो विवेकिनः दोषवत् कर्म
 ज्ञानादिसाधनरहितं त्याज्यमिति प्राहुः प्रकर्षेण प्रामाण्यादिना आहुः।
 अपरे कर्मवादिनो मीमांसकाः यज्ञदानतपःकर्म न त्याज्यमित्याहुः;
 विहितत्वात्। तस्माद्यज्ञं परमं वदन्ति \[महाना.17।10\] तस्माद्दानं परमं
 वदन्ति \[महाना.17।5\] इति च तस्मात्तपः परमं वदन्ति \[महाना.17।5\] इति च।
-एतेन ते कर्मण एव ईश्वरत्वं वदन्त्यतस्तेऽपि न जानन्ति।  
-  
-
+एतेन ते कर्मण एव ईश्वरत्वं वदन्त्यतस्तेऽपि न जानन्ति।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।18.3।। अविदुषः फलत्यागमात्रमेव त्यागशब्दार्थो न कर्मत्याग इत्येतदेव
+॥18.3॥ अविदुषः फलत्यागमात्रमेव त्यागशब्दार्थो न कर्मत्याग इत्येतदेव
 मतान्तरनिरासेन दृढीकर्तुं मतभेदं दर्शयति **--** **त्याज्यमिति।**
 दोषवद्धिंसादिदोषवत्त्वेन बन्धकमिति हेतोः सर्वमपि कर्म त्याज्यमित्येके
 साङ्ख्याः प्राहुर्मनीषिण इत्यस्यायं भावःन हिंस्यात्सर्वभूतानि इति निषेधः
@@ -517,55 +402,60 @@ _________________
 त्याज्यमिति अनेन विधिनिषेधयोः समानबलता वार्यते सामान्यविशेषन्यायं
 संप्रादयितुम्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।18.3।। पूर्व श्लोक में निश्चयात्मक रूप से कहा गया था कि त्याग साधन है
-और संन्यास साध्य है। साङ्ख्य सिद्धांत के समर्थकों का इस त्याग के विषय में
-यह मत है कि समस्त कर्म दोषयुक्त होने के कारण त्याज्य हैं। उनके मतानुसार;
-सभी कर्म वासनाएं उत्पन्न करते हैं; जो आत्मा को आच्छादित कर देती है। अत
-कर्मों का सर्वथा त्याग करना चाहिए। परन्तु साङ्ख्य दर्शन के कुछ
-व्याख्याकार कहते हैं कि केवल उन कर्मों का ही त्याग करना चाहिए; जो कामना
-और स्वार्थ से प्रेरित होते हैं न कि सभी कर्म त्याज्य हैं। तत्त्वचिन्तक
-मनीषी जनों का यह उपदेश है कि साधकों को काम्य और निषिद्ध कर्मों का त्याग
-और कर्तव्य कर्मों का पालन करना चाहिए। सत्कर्मों के आचरण से ही मनुष्य का
-चरित्र निर्माण होता है। इन व्याख्याकारों के अनुसार यज्ञ; दान और तपरूप
-कर्म त्याज्य नहीं हैं। गीता के अध्येताओं को यह ज्ञात होना चाहिए कि भगवान्
-श्रीकृष्ण अर्जुन को केवल दोषयुक्त कर्मों को ही त्यागने का उपदेश देते
-हैं। उनका मनुष्य को आह्वान है कि उसको कर्म के द्वारा ही ईश्वर की भक्ति
-करनी चाहिए। यह आध्यात्मिक साधना है। भगवान का निर्णय है कि अज्ञानी जनो को
-कर्म करने चाहिये। उपर्युक्त विकल्पों के विषय में वे कहते हैं
-
+18.3 Some sages say that all actions should be given up as evil; others declare that works such as sacrifices, gifts and austerities should not be given up.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.3।। कुछ मनीषी जन कहते हैं कि समस्त कर्म दोषयुक्त होने के कारण
-त्याज्य हैं; और अन्य जन कहते हैं कि यज्ञ, दान और तपरूप कर्म त्याज्य नहीं
-हैं।।
+<details><summary>गम्भीरानन्दः</summary>
 
+18.3 Some learned persons say that action, beset with evil (as it is),
+should be given up, and others (say) that the practice of sacrifice,
+charity and austertiy should not be given up.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+18.3 Some philosophers say that all action is evil and should be abandoned. Others that acts of sacrifice, benevolence and austerity should not be given up.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.3. Certain wise men delcare that the harmful action is to be relinished while others say that the actions of performing sacrifices,
+giving gifts and observing austerities should not be relinished.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+18.3 Some philosophers declare that actions should be abandoned as an evil; while others (declare) that acts of sacrifice, gift and austerity should not be relinished.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+18.3 त्याज्यम् should be abandoned; दोषवत् (full of) as an evil; इति
+thus; एके some; कर्म action; प्राहुः declare; मनीषिणः philosophers;
+यज्ञदानतपःकर्म acts of sacrifice; gift and austerity; न not; त्याज्यम्
+should be relinished; इति thus; च and; अपरे others.Commentary Some philosophers who follow the doctrine of the Sankhyas declare that all actions,should be abandoned as evil; even by those who are fit for Karma Yoga.Doshavat As an evil All Karmas should be abandoned as involving evil because they cause bondage or that they should be relinished like passion and other such evil tendencies.Others declare that the acts of sacrifice; gifts and austerities should not be given up by those who are fit for Karma Yoga. These are the opinions of some; who are of great understanding.Now listen to Me. I will settle this matter and will tell thee how renunciation should be practised.The subject of the discourse here is about the Karma Yogins only and not about those persons who have gone beyond the path of Karma. It is with reference to the Karma Yogins that these conflicting opinions are held and not with reference to the Jnana Yogins or the Sannyasins who have risen above all worldly concerns.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.3।। श्रीभगवान् बोले -- कई विद्वान् काम्य-कर्मोंके त्यागको संन्यास
 कहते हैं और कई विद्वान् सम्पूर्ण कर्मोंके फलके त्यागको त्याग कहते हैं।
 कई विद्वान् कहते हैं कि कर्मोंको दोषकी तरह छोड़ देना चाहिये और कई
 विद्वान् कहते हैं कि यज्ञ, दान और तप-रूप कर्मोंका त्याग नहीं करना
 चाहिये।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।18.3।।***व्याख्या --***  दार्शनिक विद्वानोंके चार मत हैं --,**1 --
 काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः --** कई विद्वान् कहते हैं
@@ -626,58 +516,32 @@ _________________
 ***सम्बन्ध --***  पीछेके दो श्लोकोंमें दार्शनिक विद्वानोंके चार मत
 बतानेके बाद अब भगवान् आगेके तीन श्लोकोंमें पहले त्यागके विषयमें अपना मत
 बताते हैं।**
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-18.3. Certain wise men delcare that the harmful action is to be relinished while others say that the actions of performing sacrifices,
-giving gifts and observing austerities should not be relinished.
-
+।।18.3।। पूर्व श्लोक में निश्चयात्मक रूप से कहा गया था कि त्याग साधन है
+और संन्यास साध्य है। साङ्ख्य सिद्धांत के समर्थकों का इस त्याग के विषय में
+यह मत है कि समस्त कर्म दोषयुक्त होने के कारण त्याज्य हैं। उनके मतानुसार;
+सभी कर्म वासनाएं उत्पन्न करते हैं; जो आत्मा को आच्छादित कर देती है। अत
+कर्मों का सर्वथा त्याग करना चाहिए। परन्तु साङ्ख्य दर्शन के कुछ
+व्याख्याकार कहते हैं कि केवल उन कर्मों का ही त्याग करना चाहिए; जो कामना
+और स्वार्थ से प्रेरित होते हैं न कि सभी कर्म त्याज्य हैं। तत्त्वचिन्तक
+मनीषी जनों का यह उपदेश है कि साधकों को काम्य और निषिद्ध कर्मों का त्याग
+और कर्तव्य कर्मों का पालन करना चाहिए। सत्कर्मों के आचरण से ही मनुष्य का
+चरित्र निर्माण होता है। इन व्याख्याकारों के अनुसार यज्ञ; दान और तपरूप
+कर्म त्याज्य नहीं हैं। गीता के अध्येताओं को यह ज्ञात होना चाहिए कि भगवान्
+श्रीकृष्ण अर्जुन को केवल दोषयुक्त कर्मों को ही त्यागने का उपदेश देते
+हैं। उनका मनुष्य को आह्वान है कि उसको कर्म के द्वारा ही ईश्वर की भक्ति
+करनी चाहिए। यह आध्यात्मिक साधना है। भगवान का निर्णय है कि अज्ञानी जनो को
+कर्म करने चाहिये। उपर्युक्त विकल्पों के विषय में वे कहते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.3 Some learned persons say that action, beset with evil (as it is),
-should be given up, and others (say) that the practice of sacrifice,
-charity and austertiy should not be given up.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।18.3।। कुछ मनीषी जन कहते हैं कि समस्त कर्म दोषयुक्त होने के कारण
+त्याज्य हैं; और अन्य जन कहते हैं कि यज्ञ, दान और तपरूप कर्म त्याज्य नहीं
+हैं।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.3 Some philosophers say that all action is evil and should be abandoned. Others that acts of sacrifice, benevolence and austerity should not be given up.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-18.3 Some sages say that all actions should be given up as evil; others declare that works such as sacrifices, gifts and austerities should not be given up.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-18.3 Some philosophers declare that actions should be abandoned as an evil; while others (declare) that acts of sacrifice, gift and austerity should not be relinished.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-18.3 त्याज्यम् should be abandoned; दोषवत् (full of) as an evil; इति
-thus; एके some; कर्म action; प्राहुः declare; मनीषिणः philosophers;
-यज्ञदानतपःकर्म acts of sacrifice; gift and austerity; न not; त्याज्यम्
-should be relinished; इति thus; च and; अपरे others.Commentary Some philosophers who follow the doctrine of the Sankhyas declare that all actions,should be abandoned as evil; even by those who are fit for Karma Yoga.Doshavat As an evil All Karmas should be abandoned as involving evil because they cause bondage or that they should be relinished like passion and other such evil tendencies.Others declare that the acts of sacrifice; gifts and austerities should not be given up by those who are fit for Karma Yoga. These are the opinions of some; who are of great understanding.Now listen to Me. I will settle this matter and will tell thee how renunciation should be practised.The subject of the discourse here is about the Karma Yogins only and not about those persons who have gone beyond the path of Karma. It is with reference to the Karma Yogins that these conflicting opinions are held and not with reference to the Jnana Yogins or the Sannyasins who have risen above all worldly concerns.
-
-</details>
 </div>

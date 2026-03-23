@@ -1,161 +1,55 @@
 +++
 title = "39 श्रद्धावाल्ँलभते ज्ञानम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **श्रद्धावाल्ँ लभते ज्ञानं**  
 तत्-परः संयतेन्द्रियः।  
 ज्ञानं लब्ध्वा **परां शान्तिम्**  
 अचिरेणाधिगच्छति॥4.39॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 श्रद्धावाल्ँ लभते ज्ञानं तत्परः संयतेन्द्रियः।  
-ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति।।4.39।।
+ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥4.39॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।4.39।। एवम् उपदेशाद् ज्ञानं लब्ध्वा च उपदिष्टज्ञानवृद्धौ **श्रद्धावान्
-तत्परः** तत्र एव नियमितमनाः तदितरविषयात् **संयतेन्द्रियः** अचिरेण कालेन
-उक्तलक्षणविपाकदशापन्नं **ज्ञानं लभते।** तथाविधं **ज्ञानं लब्ध्वा परां
-शान्तिम् अचिरेण अधिगच्छति** परं निर्वाणं प्राप्नोति।
-
+॥4.39॥ एवम् उपदेशाद् ज्ञानं लब्ध्वा च उपदिष्टज्ञानवृद्धौ **श्रद्धावान् तत्परः** तत्र एव नियमितमनास् तदितरविषयात् **संयतेन्द्रियः** अचिरेण कालेन उक्तलक्षणविपाकदशापन्नं **ज्ञानं लभते।** तथाविधं **ज्ञानं लब्ध्वा परां शान्तिम् अचिरेण अधिगच्छति** परं निर्वाणं प्राप्नोति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।4.39।। पूर्वश्लोकार्धयोरनन्तरश्लोकार्धे व्युत्क्रमेण विवरणरूपे
-इत्यभिप्रायेणाह तदेव स्पष्टमाहेति। श्रद्धावत्त्वादिकं स्वयं ज्ञानलाभे
-हेतुःअज्ञश्चाश्रद्दधानश्च 4।40 इति वक्ष्यमाणत्वादत्रापि ज्ञः
-श्रद्धावांश्चेति विवक्षितमिति ज्ञापनार्थं तत्र दशाभेदव्यञ्जनार्थं
-श्रद्धोत्पत्तिसिद्ध्यर्थं चोक्तम् उपदेशाज्ज्ञानं लब्ध्वेति। श्रद्धावान्
-त्वरमाणःअश्रद्दधानः इत्यत्रअत्वरमाणः इति हि व्याख्यास्यति। तदेव
-परमुपादेयतयाऽभिसन्ध्यास्पदं यस्य स तत्परः। तदाह तत्रैव नियतमना
-इति। अचिरेण इत्येतदुत्तरवाक्यस्थमपिकालेन
-इत्येतत्सूचितविलम्बशङ्कापरिहारार्थमपेक्षितत्वात्
-पूर्वार्धेऽप्यन्वेतव्यमित्यभिप्रायेणअचिरेण कालेनोक्तलक्षणेत्याद्युक्तम्।
-भक्तियोगव्यवहितः प्रारब्धकर्मावसानभावी च मोक्षः कथमचिरेणेत्युच्येतेति
-भावः। पूर्वंकालेन इतिपदं द्वित्रदिनादिव्यवच्छेदार्थम्। अचिरेण इति तु
-ज्ञानयोगदेहान्तरादिविलम्बनिषेधार्थमित्यविरोधः। शान्तिशब्दोऽत्रोपायस्य
-निश्शेषनिष्पन्नत्वान्न तदङ्गभूतशमविषय इति व्यञ्जनाय
-परंनिर्वाणमाप्नोतीत्युक्तम्। स शान्तिमाप्नोति न कामकामी 70स
-शान्तिमधिगच्छति 71ब्रह्म निर्वाणमृच्छति 72 इति
-द्वितीयाध्यायान्तिमश्लोकत्रयेऽपि फलदशाविषये शान्तिनिर्वाणशब्दौ
-समानविषयौ। तत्र मध्यमश्लोकस्थंशान्तिमधिगच्छति इत्येतदत्रापि
-प्रत्यभिज्ञातम्। तत्पूर्वोत्तरश्लोकस्मारणायात्रआप्नोतिपदं निर्वाणपदं
-चोक्तम्।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥4.39॥ पूर्वश्लोकार्धयोरनन्तरश्लोकार्धे व्युत्क्रमेण विवरणरूपे इत्यभिप्रायेणाह तदेव स्पष्टमाहेति। श्रद्धावत्त्वादिकं स्वयं ज्ञानलाभे हेतुःअज्ञश्चाश्रद्दधानश्च 4।40 इति वक्ष्यमाणत्वादत्रापि ज्ञः श्रद्धावांश्चेति विवक्षितमिति ज्ञापनार्थं तत्र दशाभेदव्यञ्जनार्थं श्रद्धोत्पत्तिसिद्ध्यर्थं चोक्तम् उपदेशाज्ज्ञानं लब्ध्वेति। श्रद्धावान् त्वरमाणःअश्रद्दधानः इत्यत्रअत्वरमाणः इति हि व्याख्यास्यति। तदेव परमुपादेयतयाऽभिसन्ध्यास्पदं यस्य स तत्परः। तदाह तत्रैव नियतमना इति। अचिरेण इत्येतदुत्तरवाक्यस्थमपिकालेन इत्येतत्सूचितविलम्बशङ्कापरिहारार्थमपेक्षितत्वात् पूर्वार्धेऽप्यन्वेतव्यमित्यभिप्रायेणअचिरेण कालेनोक्तलक्षणेत्याद्युक्तम्। भक्तियोगव्यवहितः प्रारब्धकर्मावसानभावी च मोक्षः कथमचिरेणेत्युच्येतेति भावः। पूर्वङ्कालेन इतिपदं द्वित्रदिनादिव्यवच्छेदार्थम्। अचिरेण इति तु ज्ञानयोगदेहान्तरादिविलम्बनिषेधार्थमित्यविरोधः। शान्तिशब्दोऽत्रोपायस्य निश्शेषनिष्पन्नत्वान्न तदङ्गभूतशमविषय इति व्यञ्जनाय परन्निर्वाणमाप्नोतीत्युक्तम्। स शान्तिमाप्नोति न कामकामी 70स शान्तिमधिगच्छति 71ब्रह्म निर्वाणमृच्छति 72 इति द्वितीयाध्यायान्तिमश्लोकत्रयेऽपि फलदशाविषये शान्तिनिर्वाणशब्दौ समानविषयौ। तत्र मध्यमश्लोकस्थंशान्तिमधिगच्छति इत्येतदत्रापि प्रत्यभिज्ञातम्। तत्पूर्वोत्तरश्लोकस्मारणायात्रआप्नोतिपदं निर्वाणपदं चोक्तम्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 4.39 After attaining knowledge through instruction in the manner described, he must have firm faith in it and the possibility of its development into ripe knowledge. He must be intent on it, i.e., his mind must be focussed thereupon. He must control his senses and keep them away from all their objects. Soon will he then reach the aforesaid state of maturity and obtain knowledge. Soon after attaining such kind of knowledge, he will reach supreme peace, i.e., he attains the supreme Nirvana (realisation of the self).
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।4.39 4.40।। श्रद्धावानिति। अज्ञ इति। अत्र च श्रद्धागमः तत्परव्यापारत्वं
-च झगित्येव आस्तिकत्वात् असंशयत्वे सति उत्पद्यते। तस्मादसंशयवता
-गुर्वागमादृतेन भाव्यम् संशयस्य सर्वनाशकत्वात् ससंशयो हि न किञ्चिज्जानाति
-अश्रद्दधानत्त्वात्। तस्मात् निःसंशयेन भाव्यम् इति वाक्यार्थः।
-
+॥4.39॥ **श्रद्धावान्** श्रद्धालुः **लभते ज्ञानम्।** श्रद्धालुत्वेऽपि भवति कश्चित् मन्दप्रस्थानः अत आह **तत्परः** गुरूपासदनादौ अभियुक्तः ज्ञानलब्ध्युपाये श्रद्धावान्। तत्परः अपि अजितेन्द्रियः स्यात् इत्यतः आह **संयतेन्द्रियः** संयतानि विषयेभ्यो निवर्तितानि यस्य इन्द्रियाणि स संयतेन्द्रियः। य एवंभूतः श्रद्धावान् तत्परः संयतेन्द्रियश्च सः अवश्यं ज्ञानं लभते। प्रणिपातादिस्तु बाह्योऽनैकान्तिकोऽपि भवति मायावित्वादिसंभवात् न तु तत् श्रद्धावत्त्वादौ इत्येकान्ततः ज्ञानलब्ध्युपायः। किं पुनः ज्ञानलाभात् स्यात् इत्युच्यते **ज्ञानं लब्ध्वा परं** मोक्षाख्यां **शान्तिम्** उपरतिम् **अचिरेण** क्षिप्रमेव **अधिगच्छ**ति। सम्यग्दर्शनात् क्षिप्रमेव मोक्षो भवतीति सर्वशास्त्रन्यायप्रसिद्धः सुनिश्चितः अर्थः॥ अत्र संशयः न कर्तव्यः पापिष्ठो हि संशयः कथम् इति उच्यते
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.39 See Comment under 4.40
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।4.38 4.39।। तत्साधनं विरोधिफलं च तदुत्तरैरुक्त्वोपसंहरति।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।4.38 4.39।। उत्तरस्य श्लोकत्रयस्य सङ्कीर्णार्थत्वादेकोक्त्यैव
-तात्पर्यमुक्त्वा तस्मादिति चतुर्थस्य प्रतिपाद्यमाह **तदि**ति। तस्य
-ज्ञानस्य साधनमन्तरङ्गं श्रद्धादिकम्। विरोध्यज्ञानादिकं ज्ञानस्य फलं
-परमशान्त्यादिकम्। विरोधिनः फलं विनाशादिकमिति।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।4.39।। **श्रद्धावान्** श्रद्धालुः **लभते ज्ञानम्।** श्रद्धालुत्वेऽपि
-भवति कश्चित् मन्दप्रस्थानः अत आह **तत्परः** गुरूपासदनादौ अभियुक्तः
-ज्ञानलब्ध्युपाये श्रद्धावान्। तत्परः अपि अजितेन्द्रियः स्यात् इत्यतः आह
-**संयतेन्द्रियः** संयतानि विषयेभ्यो निवर्तितानि यस्य इन्द्रियाणि स
-संयतेन्द्रियः। य एवंभूतः श्रद्धावान् तत्परः संयतेन्द्रियश्च सः अवश्यं
-ज्ञानं लभते। प्रणिपातादिस्तु बाह्योऽनैकान्तिकोऽपि भवति
-मायावित्वादिसंभवात् न तु तत् श्रद्धावत्त्वादौ इत्येकान्ततः
-ज्ञानलब्ध्युपायः। किं पुनः ज्ञानलाभात् स्यात् इत्युच्यते **ज्ञानं
-लब्ध्वा परं** मोक्षाख्यां **शान्तिम्** उपरतिम् **अचिरेण** क्षिप्रमेव
-**अधिगच्छ**ति। सम्यग्दर्शनात् क्षिप्रमेव मोक्षो भवतीति
-सर्वशास्त्रन्यायप्रसिद्धः सुनिश्चितः अर्थः।। अत्र संशयः न कर्तव्यः
-पापिष्ठो हि संशयः कथम् इति उच्यते
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।4.39।। जिसके द्वारा निश्चय ही ज्ञानकी प्राप्ति हो जाती है वह उपाय
-बतलाया जाता है श्रद्धावान् श्रद्धालु मनुष्य ज्ञान प्राप्त किया करता है।
-श्रद्धालु होकर भी तो कोई मन्द प्रयत्नवाला हो सकता है इसलिये कहते हैं कि
-तत्पर अर्थात् ज्ञानप्राप्तिके गुरुशुश्रूषादि उपायोंमें जो अच्छी प्रकार
-लगा हुआ हो। श्रद्धावान् और तत्पर होकर भी कोई अजितेन्द्रिय हो सकता है
-इसलिये कहते हैं कि संयतेन्द्रिय भी होनाचाहिये। जिसकी इन्द्रियाँ वशमें की
-हुई हों यानी विषयोंसे निवृत्त कर ली गयी हों वह संयतेन्द्रिय कहलाता है।
-जो इस प्रकार श्रद्धावान् तत्पर और संयतेन्द्रिय भी होता है वह अवश्य ही
-ज्ञानको प्राप्त कर लेता है। जो दण्डवत्प्रणामादि उपाय हैं वे तो बाह्य हैं
-और कपटी मनुष्यद्वारा भी किये जा सकते हैं इसलिये वे ( ज्ञानरूप फल उत्पन्न
-करनेमें ) अनिश्चित भी हो सकते हैं। परंतु श्रद्धालुता आदि उपायोंमें कपट
-नहीं चल सकता इसलिये ये निश्चयरूपसे ज्ञानप्राप्तिके उपाय हैं।
-ज्ञानप्राप्तिसे क्या होगा सो ( उत्तरार्धमें ) कहते हैं ज्ञानको प्राप्त
-होकर मनुष्य मोक्षरूप परम शान्तिको यानी उपरामताको बहुत शीघ्रतत्काल ही
-प्राप्त हो जाता है। यथार्थ ज्ञानसे तुरंत ही मोक्ष हो जाता है यह सब
-शास्त्रों और युक्तियोंसे सिद्ध सुनिश्चित बात है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 4.39 Sraddhavan, the man who has faith; labhate, attains; jnanam,
 Knowledge. Even when one has faith, he may be indolent. Therefore the
@@ -176,13 +70,31 @@ detachment called Liberation. That Liberation soon follows from full
 Knowledge is a fact well ascertained from all the scriptures and
 reasoning. One should not entertain any doubt in this matter. For doubt
 is the most vicious thing. Why; The answer is being stated:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।4.39।। कर्मयोगेन समाधियोगेन च संपन्नस्य ज्ञानोत्पत्तावन्तरङ्गं
+<details><summary>हरिकृष्णदासः</summary>
+
+॥4.39॥ जिसके द्वारा निश्चय ही ज्ञानकी प्राप्ति हो जाती है वह उपाय
+बतलाया जाता है श्रद्धावान् श्रद्धालु मनुष्य ज्ञान प्राप्त किया करता है।
+श्रद्धालु होकर भी तो कोई मन्द प्रयत्नवाला हो सकता है इसलिये कहते हैं कि
+तत्पर अर्थात् ज्ञानप्राप्तिके गुरुशुश्रूषादि उपायोंमें जो अच्छी प्रकार
+लगा हुआ हो। श्रद्धावान् और तत्पर होकर भी कोई अजितेन्द्रिय हो सकता है
+इसलिये कहते हैं कि संयतेन्द्रिय भी होनाचाहिये। जिसकी इन्द्रियाँ वशमें की
+हुई हों यानी विषयोंसे निवृत्त कर ली गयी हों वह संयतेन्द्रिय कहलाता है।
+जो इस प्रकार श्रद्धावान् तत्पर और संयतेन्द्रिय भी होता है वह अवश्य ही
+ज्ञानको प्राप्त कर लेता है। जो दण्डवत्प्रणामादि उपाय हैं वे तो बाह्य हैं
+और कपटी मनुष्यद्वारा भी किये जा सकते हैं इसलिये वे ( ज्ञानरूप फल उत्पन्न
+करनेमें ) अनिश्चित भी हो सकते हैं। परंतु श्रद्धालुता आदि उपायोंमें कपट
+नहीं चल सकता इसलिये ये निश्चयरूपसे ज्ञानप्राप्तिके उपाय हैं।
+ज्ञानप्राप्तिसे क्या होगा सो ( उत्तरार्धमें ) कहते हैं ज्ञानको प्राप्त
+होकर मनुष्य मोक्षरूप परम शान्तिको यानी उपरामताको बहुत शीघ्रतत्काल ही
+प्राप्त हो जाता है। यथार्थ ज्ञानसे तुरंत ही मोक्ष हो जाता है यह सब
+शास्त्रों और युक्तियोंसे सिद्ध सुनिश्चित बात है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥4.39॥ कर्मयोगेन समाधियोगेन च संपन्नस्य ज्ञानोत्पत्तावन्तरङ्गं
 साधनमुपदिशति **येनेति।** ज्ञानलाभप्रयोजनमाह **ज्ञानमिति।** न केवलं
 श्रद्धालुत्वमेवासहायं ज्ञानलाभे हेतुरपि तु तात्पर्यमपीत्याह
 **श्रद्धालुत्वेऽपीति।** मन्दप्रस्थानत्वं तात्पर्यविधुरत्वं नच
@@ -205,13 +117,29 @@ is the most vicious thing. Why; The answer is being stated:
 इत्यादि विवक्षितम् न्यायस्तु ज्ञानादज्ञानविवृत्ते
 रज्ज्वादौप्रसिद्धत्वादात्मज्ञानादपि निरपेक्षादज्ञानतत्कार्यप्रक्षयलक्षणो
 मोक्षः स्यादित्येवंलक्षणः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।4.39।। येनैकान्तेन ज्ञानप्राप्तिर्भवति स उपायः
+<details><summary>नीलकण्ठः</summary>
+
+॥4.39॥ श्रद्धावान् ज्ञानं लभते। श्रद्धावानपि मन्दप्रयत्नो माभूदत आह
+**तत्पर इति।** तत्परोऽप्यजितेन्द्रियो माभूदत आह **संयतेन्द्रिय इति।**
+परां शान्तिं विदेहकैवल्यम्। अचिरेण प्रारब्धकर्मसमाप्तौ सत्याम्।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥4.39॥ योगेन योग्यतामापन्नस्य येनैकान्तेन तत्त्वज्ञानं भवति तमुपायमाह
+श्रद्धावानिति। गुरुवेदान्तवाक्येष्विदमित्थमित्यास्तिक्यं श्रद्धा
+तद्वान्। तत्रापि तत्परः गुरुपासनादावभियुक्तः। तत्रापि संयतानि विषयेभ्यो
+निवर्तितानि इन्द्रियाणि येन सः। एवं विशेषणत्रयविशिष्टश्चेदवश्यं ज्ञानं
+लभते। प्रणिपातादेर्माययापि संभवेन नैकान्तिकत्वमेतेषां न तथात्वमत
+एकान्तिकं ज्ञानं लब्धवा किं स्यादत आह। ज्ञानं लब्ध्वा परां शान्तिं
+मोक्षाभिधामचिरेण जन्मान्तरं लोकान्तरगमनं च विनैवाधिगच्छति प्राप्नोति।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥4.39॥ येनैकान्तेन ज्ञानप्राप्तिर्भवति स उपायः
 पूर्वोक्तप्रणिपाताद्यपेक्षयाप्यासन्नतर उच्यते।
 गुरुवेदान्तवाक्येष्विदमित्थमेवेति प्रमारूपास्तिक्यबुद्धिः श्रद्धा
 तद्वान्पुरुषो लभते ज्ञानम्। एतादृशोऽपि कश्चिदलसः स्यात्तत्राह तत्परः
@@ -225,78 +153,133 @@ is the most vicious thing. Why; The answer is being stated:
 स्वोत्पत्तिमात्रेणैवान्धकारनिवृत्तिं करोति नतु कंचित्सहकारिणमपेक्षते तथा
 ज्ञानमपि स्वोत्पत्तिमात्रेणैवाज्ञाननिवृत्तिं करोति नतु
 किंचित्प्रसंख्यानादिकमपेक्षत इति भावः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।4.39।। श्रद्धावान् ज्ञानं लभते। श्रद्धावानपि मन्दप्रयत्नो माभूदत आह
-**तत्पर इति।** तत्परोऽप्यजितेन्द्रियो माभूदत आह **संयतेन्द्रिय इति।**
-परां शान्तिं विदेहकैवल्यम्। अचिरेण प्रारब्धकर्मसमाप्तौ सत्याम्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।4.39।। योगेन योग्यतामापन्नस्य येनैकान्तेन तत्त्वज्ञानं भवति तमुपायमाह
-श्रद्धावानिति। गुरुवेदान्तवाक्येष्विदमित्थमित्यास्तिक्यं श्रद्धा
-तद्वान्। तत्रापि तत्परः गुरुपासनादावभियुक्तः। तत्रापि संयतानि विषयेभ्यो
-निवर्तितानि इन्द्रियाणि येन सः। एवं विशेषणत्रयविशिष्टश्चेदवश्यं ज्ञानं
-लभते। प्रणिपातादेर्माययापि संभवेन नैकान्तिकत्वमेतेषां न तथात्वमत
-एकान्तिकं ज्ञानं लब्धवा किं स्यादत आह। ज्ञानं लब्ध्वा परां शान्तिं
-मोक्षाभिधामचिरेण जन्मान्तरं लोकान्तरगमनं च विनैवाधिगच्छति प्राप्नोति।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।4.39।। तादृशज्ञानदाने गुरूणां परीक्ष्ये शिष्ये श्रद्धैवेति
+॥4.38 4.39॥ तत्साधनं विरोधिफलं च तदुत्तरैरुक्त्वोपसंहरति।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥4.38 4.39॥ उत्तरस्य श्लोकत्रयस्य सङ्कीर्णार्थत्वादेकोक्त्यैव
+तात्पर्यमुक्त्वा तस्मादिति चतुर्थस्य प्रतिपाद्यमाह **तदि**ति। तस्य
+ज्ञानस्य साधनमन्तरङ्गं श्रद्धादिकम्। विरोध्यज्ञानादिकं ज्ञानस्य फलं
+परमशान्त्यादिकम्। विरोधिनः फलं विनाशादिकमिति।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
+
+<details><summary>मूलम्</summary>
+
+॥4.39 4.40॥ श्रद्धावानिति। अज्ञ इति। अत्र च श्रद्धागमः तत्परव्यापारत्वं च झगित्येव आस्तिकत्वात् असंशयत्वे सति उत्पद्यते। तस्मादसंशयवता गुर्वागमादृतेन भाव्यम् संशयस्य सर्वनाशकत्वात् ससंशयो हि न किञ्चिज्जानाति अश्रद्दधानत्त्वात्। तस्मात् निःसंशयेन भाव्यम् इति वाक्यार्थः।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+4.39 See Comment under 4.40
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
+
+<details><summary>मूलम्</summary>
+
+॥4.39॥ तादृशज्ञानदाने गुरूणां परीक्ष्ये शिष्ये श्रद्धैवेति
 तामभिमुखीकरोति श्रद्धावानिति। शान्तिं चित्तोपशमम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।4.39।। तत्कालज्ञानं सूक्ष्मत्वान्न भवतीति निरन्तरं तत्परः सन्
+<details><summary>पुरुषोत्तमः</summary>
+
+॥4.39॥ तत्कालज्ञानं सूक्ष्मत्वान्न भवतीति निरन्तरं तत्परः सन्
 जितेन्द्रियस्तिष्ठेत् तेन तत्प्राप्तिः स्यादित्याह श्रद्धावानिति।
 श्रद्धावान् श्रद्धायुक्तः पूर्वोक्तप्रकारकगुरुसेवादौ तत्परस्तन्निष्ठः
 गुरुनिष्ठो ज्ञाननिष्ठो वा संयतेन्द्रियः वशीकृतेन्द्रियः निवृत्तविषयो यः
 स ज्ञानं लभते प्राप्नोति। ततो ज्ञानं लब्ध्वा अचिरेण शीघ्रमेव परांशान्तिं
 मद्भक्तिं अधिगच्छति प्राप्नोति।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।4.39।। किंच **श्रद्धावानिति।** श्रद्धावान् गुरूपदिष्टेऽर्थे
+॥4.39॥ किंच **श्रद्धावानिति।** श्रद्धावान् गुरूपदिष्टेऽर्थे
 आस्तिक्यबुद्धिमान्। तत्परस्तदेकनिष्ठः। संयतेन्द्रियश्च तज्ज्ञानं लभते
 नान्यः। अतः श्रद्धादिसंपत्त्या ज्ञानलाभात्प्राक्कर्मयोग एव
 शुद्ध्यर्थमनुष्ठेयः। ज्ञानलाभानन्तरं तु न तस्य किंचित्कृत्यमस्तीत्याह।
 ज्ञानं लब्ध्वा त्वचिरेण परां शान्तिं मोक्षं प्राप्नोति।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+4.39 He who has faith, who is intent on it, and who has mastered his senses, attains knowledge. Having attained knowledge, he goes soon to supreme peace.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+4.39 The man who has faith, is diligent and has control over the organs,
+attains Knowledge. Achieving Knowledge, one soon attains supreme Peace.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+4.39 He who is full of faith attains wisdom, and he too who can control his senses, having attained that wisdom, he shall ere long attain Supreme Peace.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+4.39. He, who has faith, gains knowledge, if he is solely intending upon it and has his sense-organs well-controlled; having gained the knowledge, he attains, before long, the Peace Supreme.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+4.39 The man who is full of faith, who is devoted to it, and who has subdued the senses obtains (this) knowledge; and having obtained the knowledge he attains at once to the supreme peace.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+4.39 श्रद्धावान् the man of faith; लभते obtains; ज्ञानम् knowledge;
+तत्परः devoted; संयतेन्द्रियः who has subdued the senses; ज्ञानम्
+knowledge; लब्ध्वा having obtained; पराम् supreme; शान्तिम् to peace;
+अचिरेण at once; अधिगच्छति attains.Commentary He who is full of faith;
+who constantly serves his Guru and hears his teachings; who has subdued the senses surely gets the knowledge and ickly attains the supreme peace or salvation (Moksha). All the above three alifications are indispensable for an aspirant if he wants to attain to the supreme peace of the Eternal ickly. One alifiaction alone will not suffice.
+(Cf.X.10;11)
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।4.39।। जो जितेन्द्रिय तथा साधन-परायण है, ऐसा श्रद्धावान् मनुष्य
+ज्ञानको प्राप्त होता है और ज्ञानको प्राप्त होकर वह तत्काल परम शान्तिको
+प्राप्त हो जाता है।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+4.39।।***व्याख्या--*तत्परः संयतेन्द्रियः--**इस श्लोकमें श्रद्धावान्
+पुरुषको ज्ञान प्राप्त होनेकी बात आयीहै। अपनेमें श्रद्धा कम होनेपर भी
+मनुष्य भूलसे अपनेको अधिक श्रद्धावाला मान सकता है, इसलिये भगवान्ने
+श्रद्धाकी पहचानके लिये दो विशेषण दिये हैं **'संयतेन्द्रियः'** और
+तत्परः। जिसकी इन्द्रियाँ पूर्णतया वशमें हैं, वह **'संयतेन्द्रियः'** है और
+जो अपने साधनमें तत्परतापूर्वक लगा हुआ है वह **'तत्परः'** है। साधनमें
+तत्परताकी कसौटी है--इन्द्रियोंका संयत होना। अगर इन्द्रियाँ संयत नहीं हैं
+और विषय-भोगोंकी तरफ जाती हैं, तो साधन-परायणतामें कमी समझनी चाहिये।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।4.39।। योग्यता के बिना किसी भी लक्ष्य की प्रप्ति नहीं होती। इस श्लोक
 में वर्णित आवश्यक गुणों को समझने से यह भी स्पष्ट हो जायेगा कि अनेक
@@ -328,7 +311,7 @@ _________________
 करना चाहिये साधना की प्रारम्भिक अवस्था में साधक बुद्धि के स्तर पर ही
 रहता है और बुद्धि का कार्य प्रत्येक वस्तु के कारण की खोज करना है।
 स्वाभाविक है कि विचारशील पुरुष के मन में प्रश्न उठेगा कि आखिर विषय सुख
-के त्य़ाग का फल क्या होगा दूसरी पंक्ति में इसका उत्तर दिया गया
+के त्य़ाग का फल क्या होगा दूसरी पंक्ति में इसका उत्तर दिया गया
 है। उपनिषदों के मन्त्रद्रष्टा ऋषियों का यह निश्चयात्मक आश्वासन है कि
 श्रद्धावान तत्पर और जितेन्द्रिय पुरुष आत्मज्ञान को प्राप्त करता है। यहां
 भगवान् कहते हैं कि इस ज्ञान का फल है परम शान्ति। पूर्व श्लोक के समान
@@ -356,89 +339,12 @@ _________________
 समाप्त हो जाता है। इसलिये परम शान्ति का अर्थ है परम आनन्द। यही हमारे
 जीवन का वास्तविक लक्ष्य है। इस विषय में संशय नहीं करना चाहिये क्योंकि
 संशय बड़ा पापिष्ठ है। कैसे सुनो
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।4.39।। श्रद्धावान्, तत्पर और जितेन्द्रिय पुरुष ज्ञान प्राप्त करता है।
 ज्ञान को प्राप्त करके शीघ्र ही वह परम शान्ति को प्राप्त होता है।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।4.39।। जो जितेन्द्रिय तथा साधन-परायण है, ऐसा श्रद्धावान् मनुष्य
-ज्ञानको प्राप्त होता है और ज्ञानको प्राप्त होकर वह तत्काल परम शान्तिको
-प्राप्त हो जाता है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-4.39।।***व्याख्या--*तत्परः संयतेन्द्रियः--**इस श्लोकमें श्रद्धावान्
-पुरुषको ज्ञान प्राप्त होनेकी बात आयीहै। अपनेमें श्रद्धा कम होनेपर भी
-मनुष्य भूलसे अपनेको अधिक श्रद्धावाला मान सकता है, इसलिये भगवान्ने
-श्रद्धाकी पहचानके लिये दो विशेषण दिये हैं **'संयतेन्द्रियः'** और
-तत्परः। जिसकी इन्द्रियाँ पूर्णतया वशमें हैं, वह **'संयतेन्द्रियः'** है और
-जो अपने साधनमें तत्परतापूर्वक लगा हुआ है वह **'तत्परः'** है। साधनमें
-तत्परताकी कसौटी है--इन्द्रियोंका संयत होना। अगर इन्द्रियाँ संयत नहीं हैं
-और विषय-भोगोंकी तरफ जाती हैं, तो साधन-परायणतामें कमी समझनी चाहिये।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-4.39. He, who has faith, gains knowledge, if he is solely intending upon it and has his sense-organs well-controlled; having gained the knowledge, he attains, before long, the Peace Supreme.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-4.39 The man who has faith, is diligent and has control over the organs,
-attains Knowledge. Achieving Knowledge, one soon attains supreme Peace.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-4.39 He who is full of faith attains wisdom, and he too who can control his senses, having attained that wisdom, he shall ere long attain Supreme Peace.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-4.39 He who has faith, who is intent on it, and who has mastered his senses, attains knowledge. Having attained knowledge, he goes soon to supreme peace.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-4.39 The man who is full of faith, who is devoted to it, and who has subdued the senses obtains (this) knowledge; and having obtained the knowledge he attains at once to the supreme peace.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-4.39 श्रद्धावान् the man of faith; लभते obtains; ज्ञानम् knowledge;
-तत्परः devoted; संयतेन्द्रियः who has subdued the senses; ज्ञानम्
-knowledge; लब्ध्वा having obtained; पराम् supreme; शान्तिम् to peace;
-अचिरेण at once; अधिगच्छति attains.Commentary He who is full of faith;
-who constantly serves his Guru and hears his teachings; who has subdued the senses surely gets the knowledge and ickly attains the supreme peace or salvation (Moksha). All the above three alifications are indispensable for an aspirant if he wants to attain to the supreme peace of the Eternal ickly. One alifiaction alone will not suffice.
-(Cf.X.10;11)
-
-</details>
 </div>
