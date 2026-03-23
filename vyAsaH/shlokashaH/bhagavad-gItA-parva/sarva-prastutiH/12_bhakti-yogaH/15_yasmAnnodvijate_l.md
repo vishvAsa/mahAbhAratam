@@ -1,150 +1,56 @@
 +++
 title = "15 यस्मान्नोद्विजते लोको"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 यस्मान् नोद्विजते लोको  
 लोकान् नोद्विजते च यः।  
 **हर्षामर्ष-भयोद्-वेगैर्**  
 **मुक्तो** यः स च मे प्रियः॥12.15॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।  
-हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः।।12.15।।
+हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः॥12.15॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।12.15।।**यस्मात्** कर्मनिष्ठात् पुरुषान्निमित्तभूतात् **लोको न
-उद्विजते;** यः लोकोद्वेगकरं कर्म किंचिद् अपि न करोति इत्यर्थः। **लोकात्
-च** निमित्तभूताद् **यः न उद्विजते;** यम् उद्दिश्य सर्वलोको न उद्वेगकरं
-कर्म करोति; सर्वाविरोधित्वनिश्चयात्। अतएव कंचन प्रतिहर्षेण; कंचन प्रति
-अमर्षेण; कंचन प्रति भयेन; कंचन प्रति उद्वेगेन **मुक्तः** एवंभूतः **यः
-सः** अपि **मे प्रियः।**
-
+॥12.15॥**यस्मात्** कर्मनिष्ठात् पुरुषान्निमित्तभूतात् **लोको न उद्विजते;** यः लोकोद्वेगकरं कर्म किञ्चिद् अपि न करोति इत्यर्थः। **लोकाच् च** निमित्तभूताद् **यः न उद्विजते;** यम् उद्दिश्य सर्वलोको न उद्वेगकरं कर्म करोति; सर्वाविरोधित्वनिश्चयात्। अतएव कञ्चन प्रतिहर्षेण; कञ्चन प्रत्य् अमर्षेण; कञ्चन प्रति भयेन; कञ्चन प्रत्य् उद्वेगेन **मुक्तः** एवम्भूतः **यः सः** अपि **मे प्रियः।**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।12.15।। अथ निर्ममत्वादिफलभूतं लोकोद्वेगकरकर्मत्यागरूपं गुणं
-विदधत्तत्फलयोगं च दर्शयति -- यस्मात् इति श्लोकेन।
-यच्छब्दावृत्तिमात्रेणाधिकार्यन्तरत्वशङ्कानिवृत्त्यर्थंयस्मात्कर्मनिष्ठादित्युक्तम्।
-लोकगताया उद्वेगनिवृत्तेः कर्मनिष्ठं प्रति
-विधातुमशक्यत्वादुद्वेगकारणभूतकर्मनिवृत्तिर्विधेयत्वेन विवक्षितेति
-दर्शयतियो लोकोद्वेगकरमिति। अपकाररूपत्वाभावेऽप्यश्लीलभाषणादिमात्रेणापि हि
-लोकोद्वेगो जायत इत्यभिप्रायेणकञ्चिदपीत्युक्तम्। एतेनअद्वेष्टा \[12।13\]
-इत्यादिना पूर्वोक्तात्समः शत्रौ च \[12।18\] इत्यादिना वक्ष्यमाणाच्च
-वैषम्यं सिद्धम्। लोकान्नोद्विजते च यः इत्यत्रापि हेत्वभावे तात्पर्यम्;
-अन्यथा पूर्वोत्तरपौनरुक्त्यप्रसङ्गात्। अस्मिन्नपि
-श्लोकेहर्षामर्षभयोद्वेगैर्मुक्तः इत्युद्वेगाभावस्य
-विहितत्वात्यस्मान्नोद्विजते इत्यनेन
-भिन्नरीतित्वप्रसङ्गाच्चेत्यभिप्रायेणाहयमुद्दिश्येति।
-लोकगतोद्वेगकरकर्मनिवृत्तिरपि नास्य विधेयेति विधेयं दर्शयितुं लोकस्य
-तथाविधकर्माकरणे हेतुमाहसर्वेति। यथा सर्वाविरोधित्वेन कर्मनिष्ठं लोको
-निश्चिनुयात्; तथाऽसौ कर्मनिष्ठो वर्तेतेत्युक्तं भवति। यो न हृष्यति न
-द्वेष्टि \[12।17\] इति वक्ष्यमाणादत्र हर्षादेर्विषयभेदेन निवर्तकभेदेन च
-वैषम्यज्ञापनायाहअत एव कञ्चन प्रतीति। अत एवेति
-उपकारापकारादिहेतुभेदाभावादित्यर्थः। कञ्चन प्रत्युद्वेगेनेति **भयादेः**
-पृथगुक्तत्वाद्भयकार्यभूतं कर्म वा जुगुप्सा
-वाऽत्रोद्वेगः। यस्मान्नोद्विजते इत्यादिवाक्यत्रयार्थसङ्कलनेनाहय एवम्भूत
-इति। पूर्वश्लोकोक्तमैत्रत्वकरुणत्वादिगुणगणाभावेऽपि
-लोकोद्वेगकरकर्मनिवृत्तिमात्रेणापि प्रीतो भवामीतिस च इत्यादिनोच्यत इत्याह
--- सोऽपीति।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥12.15॥ अथ निर्ममत्वादिफलभूतं लोकोद्वेगकरकर्मत्यागरूपं गुणं विदधत्तत्फलयोगं च दर्शयति -- यस्मात् इति श्लोकेन। यच्छब्दावृत्तिमात्रेणाधिकार्यन्तरत्वशङ्कानिवृत्त्यर्थंयस्मात्कर्मनिष्ठादित्युक्तम्। लोकगताया उद्वेगनिवृत्तेः कर्मनिष्ठं प्रति विधातुमशक्यत्वादुद्वेगकारणभूतकर्मनिवृत्तिर्विधेयत्वेन विवक्षितेति दर्शयतियो लोकोद्वेगकरमिति। अपकाररूपत्वाभावेऽप्यश्लीलभाषणादिमात्रेणापि हि लोकोद्वेगो जायत इत्यभिप्रायेणकञ्चिदपीत्युक्तम्। एतेनअद्वेष्टा \[12।13\] इत्यादिना पूर्वोक्तात्समः शत्रौ च \[12।18\] इत्यादिना वक्ष्यमाणाच्च वैषम्यं सिद्धम्। लोकान्नोद्विजते च यः इत्यत्रापि हेत्वभावे तात्पर्यम्; अन्यथा पूर्वोत्तरपौनरुक्त्यप्रसङ्गात्। अस्मिन्नपि श्लोकेहर्षामर्षभयोद्वेगैर्मुक्तः इत्युद्वेगाभावस्य विहितत्वात्यस्मान्नोद्विजते इत्यनेन भिन्नरीतित्वप्रसङ्गाच्चेत्यभिप्रायेणाहयमुद्दिश्येति। लोकगतोद्वेगकरकर्मनिवृत्तिरपि नास्य विधेयेति विधेयं दर्शयितुं लोकस्य तथाविधकर्माकरणे हेतुमाहसर्वेति। यथा सर्वाविरोधित्वेन कर्मनिष्ठं लोको निश्चिनुयात्; तथाऽसौ कर्मनिष्ठो वर्तेतेत्युक्तं भवति। यो न हृष्यति न द्वेष्टि \[12।17\] इति वक्ष्यमाणादत्र हर्षादेर्विषयभेदेन निवर्तकभेदेन च वैषम्यज्ञापनायाहअत एव कञ्चन प्रतीति। अत एवेति उपकारापकारादिहेतुभेदाभावादित्यर्थः। कञ्चन प्रत्युद्वेगेनेति **भयादेः** पृथगुक्तत्वाद्भयकार्यभूतं कर्म वा जुगुप्सा वाऽत्रोद्वेगः। यस्मान्नोद्विजते इत्यादिवाक्यत्रयार्थसङ्कलनेनाहय एवम्भूत इति। पूर्वश्लोकोक्तमैत्रत्वकरुणत्वादिगुणगणाभावेऽपि लोकोद्वेगकरकर्मनिवृत्तिमात्रेणापि प्रीतो भवामीतिस च इत्यादिनोच्यत इत्याह
+-- सोऽपीति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 12.15 That person who is engaged in Karma Yoga does not become the cause of 'fear to the world'; he does nothing to cause fear to the world. He has no cause to 'fear the world,' i.e., no action on the part of others can cause him fear because of the certainty that he is not inimical to the world. Therefore he is not in the habit of showing favour towards someone and intolerance towards others; he has no fear of some or repulsion for others. Such a person is dear to Me.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।12.15 -- 12.20।। यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव
-मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया
-सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति
-परमकैवल्यम् इति।  
-  
-।। शिवम्।।
-
+॥12.15॥ --,**यस्मात्** संन्यासिनः **न उद्विजते** न उद्वेगं गच्छति न संतप्यते न संक्षुभ्यति **लोकः;** तथा **लोकात्** न **उद्विजते च यः; हर्षामर्षभयोद्वेगैः** हर्षश्च अमर्षश्च भयं च उद्वेगश्च तैः हर्षामर्षभयोद्वेगैः **मुक्तः** हर्षः प्रियलाभे अन्तःकरणस्य उत्कर्षः रोमाञ्चनाश्रुपातादिलिङ्गः; अमर्षः असहिष्णुता; भयं त्रासः उद्वेगः उद्विग्नता; तैः मुक्तः **यः स च मे प्रियः**॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.15 See Comment under 12.20
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।12.15।। Sri Madhvacharya did not comment on this sloka.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।12.15।। Sri Jayatirtha did not comment on this sloka.
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।12.15।। --,**यस्मात्** संन्यासिनः **न उद्विजते** न उद्वेगं गच्छति न
-संतप्यते न संक्षुभ्यति **लोकः;** तथा **लोकात्** न **उद्विजते च यः;
-हर्षामर्षभयोद्वेगैः** हर्षश्च अमर्षश्च भयं च उद्वेगश्च तैः
-हर्षामर्षभयोद्वेगैः **मुक्तः** हर्षः प्रियलाभे अन्तःकरणस्य उत्कर्षः
-रोमाञ्चनाश्रुपातादिलिङ्गः; अमर्षः असहिष्णुता; भयं त्रासः उद्वेगः
-उद्विग्नता; तैः मुक्तः **यः स च मे प्रियः**।।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।12.15।। जिस संन्यासीसे संसार उद्वेगको प्राप्त नहीं होता अर्थात् संतप्त
--- क्षुब्ध नहीं होता और जो स्वयं भी संसारसे उद्वेगयुक्त नहीं होता। जो
-हर्ष; अमर्ष; भय और उद्वेगसे रहित है -- प्रिय वस्तुके लाभसे अन्तःकरणमें
-जो उत्साह होता है; रोमाञ्च और अश्रुपात आदि जिसके चिह्न हैं उसका नाम हर्ष
-है; असहिष्णुताको अमर्ष कहते हैं; त्रासका नाम भय है और उद्विग्नता ही
-उद्वेग है इन सबसे जो मुक्त है वह मेरा प्यारा है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 12.15 Sah ca, he too; yasmat, owing to whom owing to which monk; lokah,
 the world; na udvijate, is not disturbed, not afflicted, not agitated;
@@ -154,24 +60,51 @@ fear and anxiety;-harsa is elation of the mind on aciring a thing dear
 to oneself, and is manifested as horripillation, shedding of tears,
 etc.; amarsa is non-forbearance; bhaya is fright; udvega is distress; he
 who is free from them-, is priyah, dear; me, to Me.
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।12.15।। उद्वेगादिराहित्यमपि ज्ञानवतो विशेषणमित्याह -- **यस्मादिति।** न
+<details><summary>हरिकृष्णदासः</summary>
+
+॥12.15॥ जिस संन्यासीसे संसार उद्वेगको प्राप्त नहीं होता अर्थात् संतप्त
+-- क्षुब्ध नहीं होता और जो स्वयं भी संसारसे उद्वेगयुक्त नहीं होता। जो
+हर्ष; अमर्ष; भय और उद्वेगसे रहित है -- प्रिय वस्तुके लाभसे अन्तःकरणमें
+जो उत्साह होता है; रोमाञ्च और अश्रुपात आदि जिसके चिह्न हैं उसका नाम हर्ष
+है; असहिष्णुताको अमर्ष कहते हैं; त्रासका नाम भय है और उद्विग्नता ही
+उद्वेग है इन सबसे जो मुक्त है वह मेरा प्यारा है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥12.15॥ उद्वेगादिराहित्यमपि ज्ञानवतो विशेषणमित्याह -- **यस्मादिति।** न
 केवलमुद्वेगं प्रत्यपादानत्वमेव संन्यासिनोऽनुपपन्नं किंतु
 तत्कर्तृत्वमपीत्याह -- **तथेति।** असहिष्णुता परकीयप्रकर्षस्येति शेषः।
 त्रासस्तस्करादिदर्शनाधीनः। उद्विग्नत्वमचेतनाच्चेतनाधीनस्य
 लोकादगतित्वादिति यावत्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।12.15।। पुनस्तस्यैव विशेषणानि -- यस्मादिति। यस्मात्सर्वभूताभयदायिनः
+<details><summary>नीलकण्ठः</summary>
+
+॥12.15॥ स च निरहंकारो द्विविधः। समाधिस्थो व्युत्थितश्च। तयोर्लक्षणं
+क्रमेणाह द्वाभ्याम् -- **यस्मादिति।** यस्मात्समाधिस्थत्वेन
+काष्ठसमाल्लोको नोद्विजते न त्रस्यति। लोकादपि यो
+निर्मनस्कत्वान्नोद्विजते। अतएव हर्ष इष्टलाभे सति मनस उत्फुल्लता।
+अमर्षोऽसहिष्णुता। भयमात्मोच्छेदशङ्का। उद्वेगस्तत्कृतैव व्याकुलता।
+एतैर्निर्मनस्कत्वादेव स्वयमेव मुक्तस्त्यक्तः। नत्वेतान्स्वयं त्यक्तुं
+यतते साधकवत्। ईदृशो यो मद्भक्तः स च मे प्रियः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥12.15॥ तमेव विशेषणान्तरैर्विशिनष्टि। यस्मात्तत्त्वविदः संन्यासिनो लोकः
+सर्वो जनो नोद्विजते उद्वेगं संतापं संक्षोभं न गच्छति। लोकान्नोद्विजते च
+यः। अतएव हर्षामर्षभयोद्वेगैर्मुक्तः प्रियलाभेऽन्तःकरणस्योत्कर्षो
+रोमञ्चाश्रुपातादिलिङ्गो हर्षः;अभिलषितप्रतिघातेऽसहिष्णुताऽमर्षः;
+व्याघ्रादिदर्शननिब्धनस्त्रासो भयं; दुर्जनैराकुष्टे ताटितेऽपि
+चित्तस्योद्विग्नता उद्वेगस्तैर्मुक्तो यः स च मे प्रियः।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥12.15॥ पुनस्तस्यैव विशेषणानि -- यस्मादिति। यस्मात्सर्वभूताभयदायिनः
 संन्यासिनो हेतोर्नोद्विजते न संतप्यते लोको यः कश्चिदपि जनः तथा
 लोकान्निरपराधोद्वेजनैकव्रतान् खलजनान्नोद्विजते च यः अद्वैतदर्शित्वात्;
 परमकारुणिकत्वेन क्षमाशीलत्वाच्च। किंच हर्षः स्वस्य प्रियलाभे
@@ -183,56 +116,55 @@ who is free from them-, is priyah, dear; me, to Me.
 अद्वैतदर्शितया तदयोग्यत्वेन तैरेव स्वयं परित्यक्तो नतु तेषां त्यागाय
 स्वयं व्यापृत इति यावत्। तेन मद्भक्त इत्यनुकृष्यते। ईदृशो मद्भक्तो यः स
 मे प्रिय इति पूर्ववत्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।12.15।। स च निरहंकारो द्विविधः। समाधिस्थो व्युत्थितश्च। तयोर्लक्षणं
-क्रमेणाह द्वाभ्याम् -- **यस्मादिति।** यस्मात्समाधिस्थत्वेन
-काष्ठसमाल्लोको नोद्विजते न त्रस्यति। लोकादपि यो
-निर्मनस्कत्वान्नोद्विजते। अतएव हर्ष इष्टलाभे सति मनस उत्फुल्लता।
-अमर्षोऽसहिष्णुता। भयमात्मोच्छेदशङ्का। उद्वेगस्तत्कृतैव व्याकुलता।
-एतैर्निर्मनस्कत्वादेव स्वयमेव मुक्तस्त्यक्तः। नत्वेतान्स्वयं त्यक्तुं
-यतते साधकवत्। ईदृशो यो मद्भक्तः स च मे प्रियः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।12.15।। तमेव विशेषणान्तरैर्विशिनष्टि। यस्मात्तत्त्वविदः संन्यासिनो लोकः
-सर्वो जनो नोद्विजते उद्वेगं संतापं संक्षोभं न गच्छति। लोकान्नोद्विजते च
-यः। अतएव हर्षामर्षभयोद्वेगैर्मुक्तः प्रियलाभेऽन्तःकरणस्योत्कर्षो
-रोमञ्चाश्रुपातादिलिङ्गो हर्षः;अभिलषितप्रतिघातेऽसहिष्णुताऽमर्षः;
-व्याघ्रादिदर्शननिब्धनस्त्रासो भयं; दुर्जनैराकुष्टे ताटितेऽपि
-चित्तस्योद्विग्नता उद्वेगस्तैर्मुक्तो यः स च मे प्रियः।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।12.15।। किञ्च यस्मादिति।
+॥12.15॥ Sri Madhvacharya did not comment on this sloka.
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥12.15॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+
+<details><summary>मूलम्</summary>
+
+॥12.15 -- 12.20॥ यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति परमकैवल्यम् इति।  
+  
+॥ शिवम्॥
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+12.15 See Comment under 12.20
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+
+<details><summary>मूलम्</summary>
+
+॥12.15॥ किञ्च यस्मादिति।
 भगवत्सेवाकर्मनिष्ठान्मैत्र्यात्तत्तदाचारसंशोधनप्रयोगात् लोको नोद्विजते।
 यश्च स्वयं तत्तदाचारपराङ्मुखात्तस्माल्लोकाच्च नोद्विजते; किन्तु स्वधर्मे
 एव निष्ठितो भवति तथा। स्वेष्टप्राप्तौ हर्षः; अप्राप्तौ वाऽमर्षः;
 कुतश्चिद्भयं प्रतिकूलादुद्वेगश्चिन्ता चेत्येभिर्मुक्तः प्रह्लाद इव स
 भक्तो मे प्रियः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।12.15।। किञ्च -- यस्मादिति। यस्मात् सकाशाल्लोकः न उद्विजते ध्रुवादिवत्
+<details><summary>पुरुषोत्तमः</summary>
+
+॥12.15॥ किञ्च -- यस्मादिति। यस्मात् सकाशाल्लोकः न उद्विजते ध्रुवादिवत्
 सकामभजनादिना लोकः क्लेशं नाप्नोति। च पुनः लोकात् स्वस्योत्सादनार्थं
 तपआदियत्नवतो यो न उद्विजते भयं न प्राप्नोतीत्यर्थः। च पुनः
 हर्षामर्षभयोद्वेगैर्मुक्तः हर्षः स्वेष्टाप्त्या तद्राहित्येन सर्वत्र
@@ -240,88 +172,71 @@ _________________
 परोत्कर्षासहिष्णुता; तद्राहित्येन भगवल्लीलात्मकज्ञानवानित्यर्थः। भयं
 त्रासः; तदभावेन भगवद्रक्षणसामर्थ्यज्ञानवानित्यर्थः।
 उद्वेगश्चित्तलोभस्तेन सेवादिसमये चित्तचाञ्चल्यरहित इत्यर्थः। एतादृशो यः
-स मे प्रियः।  
-  
-
+स मे प्रियः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।12.15।। किंच **-- यस्मादिति।** यस्मात्सकाशाल्लोको जनो नोद्विजते
+॥12.15॥ किंच **-- यस्मादिति।** यस्मात्सकाशाल्लोको जनो नोद्विजते
 भयशङ्कया संक्षोभं न प्राप्नोति यश्च लोकान्नोद्विजते यश्च
 स्वाभाविकैर्हर्षादिभिर्मुक्तः। तत्र हर्षः स्वस्येष्टार्थलाभे उत्साहः;
 अमर्षः परस्य लाभेऽसहनम्; भयं त्रासः;उद्वेगो भयादिनिमित्तचित्तक्षोभः
 एतैर्विमुक्तो यो मद्भक्तः स मे प्रियः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।12.15।। इस प्रकरण के द्वितीय भागरूप श्लोक में ज्ञानी भक्त के तीन और
-लक्षण बताये गये हैं। जिस पुरुष से इस लोक को उद्वेग नहीं होता ज्ञानी
-पुरुष वह है; जो लोक में किसी प्रकार का विक्षेप या उद्वेग उत्पन्न नहीं
-करता है। जहाँ सूर्य है वहाँ अन्धकार नहीं रह सकता वैसे ही; जहाँ शान्त और
-आनन्दस्वरूप में स्थित ज्ञानी भक्त होगा; वहाँ अशान्ति और उदासी का प्रश्न
-ही नहीं उठता है। उसके आसपास शान्ति; प्रेम और आनन्द का ही ऐसा वातावरण
-निर्मित होता है कि वहाँ पहुँचने पर एक क्षुब्ध और दुखी पुरुष भी उस
-महात्मा पुरुष से प्रभावित होकर अपने दुख को भूलकर शान्ति का अनुभव करता
-है। वास्तविकता तो यह है कि सारा जगत् उस सन्त के समीप विवश हुआ सा दौड़
-पड़ता है केवल उसके ज्ञान और आनन्द को स्वयं में अनुभव करने के लिए जो
-स्वयं भी किसी से उद्विग्न नहीं होता है न केवल वह सबको शान्ति प्रदान करता
-है बल्कि स्वयं अपनी शान्ति और आनन्द को किसी प्रकार से भी नहीं खोता है।
-जगत् की कोई भी स्थिति उसे उद्विग्न नहीं कर सकती। बाह्य दुर्व्यवस्था
-विरोध और प्रतिशोध की भावना से पूर्ण उपद्रवी लोगों के होने पर भी उसके मन
-में विक्षेप नहीं होता। भौतिक वस्तुओं का यह जगत् सदैव परिवर्तित होता रहता
-है; और सामान्यत सबको विमूढ और दुखी कर देने वाला मृत्यु का यह ताण्डव सन्त
-पुरुष की मनशान्ति को रंचमात्र भी विचलित नहीं कर सकता। मानो वह अधिक
-शक्तिशाली धातु का बना होता है और उसका जीवन सुदृढ़ नीव पर निर्मित होता
-है। समुद्र की सतह पर अनेक लकड़ियाँ इतस्तत बहती और भटकती रहती हैं; किन्तु
-समुद्री चट्टानों की दृढ़ नींव पर निर्मित दीपस्तम्भ समुद्र में उठने वाले
-ज्वारभाटे का अवलोकन करते हुये निश्चल और सीधा खड़ा रहता है ज्ञानी पुरुष
-का व्यक्तित्व जीवन के अधिष्ठानस्वरूप सत्य वस्तु की अनुभूति में स्थित
-होने के कारण जीवन की सतही परिस्थितियों से कभी विचलित नहीं होता; क्योंकि
-उसके मन में किसी वस्तु से कोई आसक्ति नहीं होती। संघर्षमय परिस्थितियों के
-अन्तर्बाह्य भी वह एक नित्य अपरिवर्तनशील अधिष्टान को देखता है; और प्रकृति
-के शुद्ध संगीत में मनुष्य के द्वारा उत्पन्न किये जा रहे वर्जित स्वरों
-में भी वह एक अचल और शुद्ध स्वर का ही श्रवण करता है। वह हर्ष; अमर्ष; भय और
-उद्वेग से मुक्त होता है। इस प्रकार जो भक्त अपने स्वयं के साथ तथा जगत् के
-साथ भी सदा शान्ति का अनुभव करता है; और जो परिस्थितियों पर शासन करता है;
-और उनका शिकार नहीं बनता है; जिसने सामान्य मनुष्य के अवगुणों और
-प्रतिक्रियाओं को पार कर लिया है; ऐसा भक्त मुझे प्रिय है। इसी विषय में
-भगवान् आगे कहते हैं
-
+12.15 He from whom the world has no cause to be frightened, who is not frightened by the world, who is free from joy and impatience, fear and repulsion - he is dear to me.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।12.15।। जिससे कोई लोक (अर्थात् जीव, व्यक्ति) उद्वेग को प्राप्त नहीं
-होता और जो स्वयं भी किसी व्यक्ति से उद्वेग अनुभव नहीं करता तथा जो हर्ष,
-अमर्ष (असहिष्णुता) भय और उद्वेगों से मुक्त है,वह भक्त मुझे प्रिय है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+12.15 He, too, owing to whom the world is not disturbed, and who is not disturbed by the world, who is free from joy, impatience, fear and anxiety, is dear to Me.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+12.15 He who does not harm the world, and whom the world cannot harm,
+who is not carried away by any impulse of joy, anger or fear, such a one is My beloved.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+12.15. He, on account of whom the world does not get agitated; who too does not feel agitated on account of the world; who is free from joy and impatience, fear and anxiety-he is dear to Me.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+12.15 He by whom the world is not agitated and who cannot be agitated by the world, and who is freed from joy, anger, fear and anxiety he is dear to Me.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+12.15 यस्मात् for whom; न not; उद्विजते is agitated; लोकः the world;
+लोकात् from the world; न not; उद्विजते is agitated; च and; यः who;
+हर्षामर्षभयोद्वेगैः by (from) joy; wrath; fear and anxiety; मुक्तः
+freed; यः who; सः he; च and; मे to Me; प्रियः dear.Commentary Harsha Joy; exhilaration of the mind when one obtains an object of desire. This is indicated by hair standing on end; tears flowing down the face;
+etc.Amarsha Anger. Some say that it is a mixture of jealousy and anger.Udvega Anxiety; worry; sorrow; discomfiture.The knower of Brahman or the devotee of the Lord never injures any creature in thought; word and deed. He gives security of life to all creatures. Therefore; no creature is afraid of him. The sage feels that the world is his body;
+his own Self. How can he be afraid of the world then He never hurts others and is not hurt by the words or deeds of others.The mental modifications of joy; envy; fear and anxiety leave the sage or devotee of their own accord; just as the beasts and birds leave the forest when it is on fire.Such a sage or devotee is dear to Me. How can I describe him
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.15।। जिससे किसी प्राणीको उद्वेग नहीं होता और जिसको खुद भी किसी
 प्राणीसे उद्वेग नहीं होता तथा जो हर्ष, अमर्ष (ईर्ष्या), भय और उद्वेगसे
 रहित है, वह मुझे प्रिय है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।12.15।।***व्याख्या--*'यस्मान्नोद्विजते लोकः'--**भक्त सर्वत्र और सबमें
 अपने परमप्रिय प्रभुको ही देखता है। अतः उसकी दृष्टिमें मन, वाणी और शरीरसे
@@ -465,58 +380,49 @@ _________________
   
 ***सम्बन्ध--***सिद्ध भक्तके छः लक्षण बतानेवाला तीसरा प्रकरण आगेके
 श्लोकमें आया है।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-12.15. He, on account of whom the world does not get agitated; who too does not feel agitated on account of the world; who is free from joy and impatience, fear and anxiety-he is dear to Me.
-
+।।12.15।। इस प्रकरण के द्वितीय भागरूप श्लोक में ज्ञानी भक्त के तीन और
+लक्षण बताये गये हैं। जिस पुरुष से इस लोक को उद्वेग नहीं होता ज्ञानी
+पुरुष वह है; जो लोक में किसी प्रकार का विक्षेप या उद्वेग उत्पन्न नहीं
+करता है। जहाँ सूर्य है वहाँ अन्धकार नहीं रह सकता वैसे ही; जहाँ शान्त और
+आनन्दस्वरूप में स्थित ज्ञानी भक्त होगा; वहाँ अशान्ति और उदासी का प्रश्न
+ही नहीं उठता है। उसके आसपास शान्ति; प्रेम और आनन्द का ही ऐसा वातावरण
+निर्मित होता है कि वहाँ पहुँचने पर एक क्षुब्ध और दुखी पुरुष भी उस
+महात्मा पुरुष से प्रभावित होकर अपने दुख को भूलकर शान्ति का अनुभव करता
+है। वास्तविकता तो यह है कि सारा जगत् उस सन्त के समीप विवश हुआ सा दौड़
+पड़ता है केवल उसके ज्ञान और आनन्द को स्वयं में अनुभव करने के लिए जो
+स्वयं भी किसी से उद्विग्न नहीं होता है न केवल वह सबको शान्ति प्रदान करता
+है बल्कि स्वयं अपनी शान्ति और आनन्द को किसी प्रकार से भी नहीं खोता है।
+जगत् की कोई भी स्थिति उसे उद्विग्न नहीं कर सकती। बाह्य दुर्व्यवस्था
+विरोध और प्रतिशोध की भावना से पूर्ण उपद्रवी लोगों के होने पर भी उसके मन
+में विक्षेप नहीं होता। भौतिक वस्तुओं का यह जगत् सदैव परिवर्तित होता रहता
+है; और सामान्यत सबको विमूढ और दुखी कर देने वाला मृत्यु का यह ताण्डव सन्त
+पुरुष की मनशान्ति को रंचमात्र भी विचलित नहीं कर सकता। मानो वह अधिक
+शक्तिशाली धातु का बना होता है और उसका जीवन सुदृढ़ नीव पर निर्मित होता
+है। समुद्र की सतह पर अनेक लकड़ियाँ इतस्तत बहती और भटकती रहती हैं; किन्तु
+समुद्री चट्टानों की दृढ़ नींव पर निर्मित दीपस्तम्भ समुद्र में उठने वाले
+ज्वारभाटे का अवलोकन करते हुये निश्चल और सीधा खड़ा रहता है ज्ञानी पुरुष
+का व्यक्तित्व जीवन के अधिष्ठानस्वरूप सत्य वस्तु की अनुभूति में स्थित
+होने के कारण जीवन की सतही परिस्थितियों से कभी विचलित नहीं होता; क्योंकि
+उसके मन में किसी वस्तु से कोई आसक्ति नहीं होती। संघर्षमय परिस्थितियों के
+अन्तर्बाह्य भी वह एक नित्य अपरिवर्तनशील अधिष्टान को देखता है; और प्रकृति
+के शुद्ध संगीत में मनुष्य के द्वारा उत्पन्न किये जा रहे वर्जित स्वरों
+में भी वह एक अचल और शुद्ध स्वर का ही श्रवण करता है। वह हर्ष; अमर्ष; भय और
+उद्वेग से मुक्त होता है। इस प्रकार जो भक्त अपने स्वयं के साथ तथा जगत् के
+साथ भी सदा शान्ति का अनुभव करता है; और जो परिस्थितियों पर शासन करता है;
+और उनका शिकार नहीं बनता है; जिसने सामान्य मनुष्य के अवगुणों और
+प्रतिक्रियाओं को पार कर लिया है; ऐसा भक्त मुझे प्रिय है। इसी विषय में
+भगवान् आगे कहते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.15 He, too, owing to whom the world is not disturbed, and who is not disturbed by the world, who is free from joy, impatience, fear and anxiety, is dear to Me.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।12.15।। जिससे कोई लोक (अर्थात् जीव, व्यक्ति) उद्वेग को प्राप्त नहीं
+होता और जो स्वयं भी किसी व्यक्ति से उद्वेग अनुभव नहीं करता तथा जो हर्ष,
+अमर्ष (असहिष्णुता) भय और उद्वेगों से मुक्त है,वह भक्त मुझे प्रिय है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.15 He who does not harm the world, and whom the world cannot harm,
-who is not carried away by any impulse of joy, anger or fear, such a one is My beloved.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-12.15 He from whom the world has no cause to be frightened, who is not frightened by the world, who is free from joy and impatience, fear and repulsion - he is dear to me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-12.15 He by whom the world is not agitated and who cannot be agitated by the world, and who is freed from joy, anger, fear and anxiety he is dear to Me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-12.15 यस्मात् for whom; न not; उद्विजते is agitated; लोकः the world;
-लोकात् from the world; न not; उद्विजते is agitated; च and; यः who;
-हर्षामर्षभयोद्वेगैः by (from) joy; wrath; fear and anxiety; मुक्तः
-freed; यः who; सः he; च and; मे to Me; प्रियः dear.Commentary Harsha Joy; exhilaration of the mind when one obtains an object of desire. This is indicated by hair standing on end; tears flowing down the face;
-etc.Amarsha Anger. Some say that it is a mixture of jealousy and anger.Udvega Anxiety; worry; sorrow; discomfiture.The knower of Brahman or the devotee of the Lord never injures any creature in thought; word and deed. He gives security of life to all creatures. Therefore; no creature is afraid of him. The sage feels that the world is his body;
-his own Self. How can he be afraid of the world then He never hurts others and is not hurt by the words or deeds of others.The mental modifications of joy; envy; fear and anxiety leave the sage or devotee of their own accord; just as the beasts and birds leave the forest when it is on fire.Such a sage or devotee is dear to Me. How can I describe him
-
-</details>
 </div>

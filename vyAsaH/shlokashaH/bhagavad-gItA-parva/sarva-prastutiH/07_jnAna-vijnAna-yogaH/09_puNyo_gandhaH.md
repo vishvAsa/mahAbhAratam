@@ -1,138 +1,141 @@
 +++
 title = "09 पुण्यो गन्धः"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 पुण्यो गन्धः पृथिव्यां च,  
 **तेजश् चास्मि विभावसौ**।  
 जीवनं सर्व-भूतेषु,  
 तपश् चास्मि तपस्विषु॥7.9॥+++(5)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ।  
-जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु।।7.9।।
+जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु॥7.9॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।7.9।। एते सर्वे विलक्षणा भावा मत्त एव उत्पन्नाः मच्छेषभूता मच्छरीरतया
-मयि एव अवस्थिताः अतः तत्प्रकारः अहम् एव अवस्थितः।
-
+॥7.9॥ एते सर्वे विलक्षणा भावा मत्त एव उत्पन्ना मच्छेषभूता मच्छरीरतया मय्य् एव अवस्थिता अतस् तत्प्रकारो ऽहम् एव अवस्थितः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।। 7.9 एवंभूमिरापः 7।4 इत्यादिना भेदश्रुत्यर्थ उपबृंहितःमयि सर्वम् 7।7
-इति तु घटकश्रुत्यर्थः अथ तदुभयनिर्वाहिताभेदश्रुत्यर्थोपबृंहणं क्रियत
-इत्यभिप्रायेणाह अत इति। केचित्मयि सर्वमिदम् इत्यस्य रसादिधर्मविशिष्टे
-मयि प्रोतमित्यर्थः तद्विवरणंरसोऽहम् इत्यादि इति व्याचख्युः तत्परिहारायाह
-सर्वस्य परमपुरुषशरीरत्वेनेति। परोक्ते त्वाधाराधेयभाववैपरीत्यादिदोष इति
-भावः। प्रकारवाचिशब्दानां प्रकारिणि पर्यवसानस्वाभाव्यं
-जातिगुणादिशब्देष्वपि सामान्यतः सिद्धमिति दर्शयितुं
-प्रकारत्वोपादानम्। अभिधानं मुख्यवृत्त्या बोधनम्। यद्यपि रसादिशब्दा लोके
-निष्कर्षकाः प्रयुज्यन्ते व्यधिकरणतया चात्रावादिद्रव्योपादानम् तथापि
-रसादीनां परमात्मशरीरभूतद्रव्यप्रकारत्वेन परमात्मनः
-प्रकारित्वाद्रसादिशब्दानां चात्र तत्समानाधिकरणतया प्रयोगात्तत्र
-निष्कर्षकत्वं नास्तीत्यभ्युपगन्तव्यम्। द्रव्योपादानं तु तत्रतत्र द्रव्ये
-प्रधानभूतरसगन्धादिप्रकारीभूतोऽहमिति ज्ञापनार्थम्। द्रव्यप्रकाराणां च
-तत्प्रकारत्वं काठिन्यवान् (न्येन)यो बिभर्ति वि.पु.1।14।28 इत्यादिषु
-प्रयुक्तमिति भावः। रसस्य पृथिव्यां वृत्तौ सत्यामप्यपां
-रूपादिगुणान्तरसद्भावेऽपिरसोऽहमप्सु इति विशिष्योपादानं
-तेजस्तत्त्वादब्रूपपरिणामस्य पूर्वतत्त्वानुत्पन्नरसप्रधानत्वात्। अन्यत्र
-चआत्तगन्धा तदा (ततो) भूमिः प्रलयत्वाय कल्पते वि.पु.6।4।14 इत्यादिना च
-पृथिव्यादीनां गन्धरसाद्यधीनत्वमुक्तम्। एवमुत्तरत्रापि प्राधान्यतो
-विशेषनिर्देशे यथोचितं भाव्यम्। प्रभा
-स्वाश्रयातिरिक्तप्रसारितेजोद्रव्यविशेषः। प्रभयैव चन्द्रसूर्यौ
-जगदुपकारहेतुभूताविति तौ तत्प्रधानौ। सर्वेषां वेदानां बीजत्वादिना
-तेषुप्रणवः प्रधानभूतः। पौरुषं पुरुषस्य भावः यतः पुरुषबुद्धिरित्येके
-सन्तानपरम्पराहेतुभूतं रेत इत्यपरे यद्वा पौरुषं सामर्थ्यं
-कर्तृत्वशक्तिरित्यर्थः तयैव हि कर्तुरात्मनः कारकान्तरेभ्यः प्राधान्यम्।
-नृषु जीवेष्वित्यर्थः। यद्वा पौरुषं पुंस्त्वम् स्त्रीनपुंसकव्यावृत्तः
-सत्त्वादिस्वभावविशेषः। नृशब्दश्च पुरुषपर्यायः। पुण्यो गन्धः
-तुलस्यादिगन्धः सुरभिगन्धमात्रं वा तद्योगेन हि पृथिवी सत्त्वोन्मेषस्य
-सुखस्य वा हेतुर्भवति। विभावसुरत्राग्निः। तत्र च तेजो दाहकत्वशक्तिः।
-भूतशब्देनात्र शरीरिणो गृह्यन्ते। सर्वशब्देनात्र ब्रह्मशर्वादीनामपि
-सङ्ग्रहः। तेषु जीवनं प्राणनम् प्राणस्थितिहेतुर्वा। येन सर्वाणि भूतानि
-जीवन्ति भूतेषूपजीवनीयं वा रूपम्। सर्वभूतानां सनातनं बीजं प्रकृतितत्त्वम्।
-अथवा प्रधानधर्मनिर्देशप्रकरणत्वाद्बीजशब्दोऽत्रोपादानत्वाख्यस्वभावपरः।
-सर्वेषां परिणामिद्रव्याणां स्वकार्यपरिणामसामर्थ्यमित्यर्थः। अथवा बीजं
-प्ररोहकारणं जङ्गमस्थावरभूतानां तत्तदुपादानद्रव्यम्। बुद्धिः अध्यवसायः
-ज्ञानमात्रं वा। तेजस्विनः प्रतापशीलाः तेषां तेजः अनभिभवनीयत्वं
-पराभिभवसामर्थ्यं वा। तेजोऽभिमान इति केचित् प्रागल्भ्यमित्यपरे। बलं
-धारणादिशक्तिः। कामरागवशात् स्वकार्ये प्रवृत्तस्य बलस्य
-परपीडादिहेतुत्वाद्धर्मोपयुक्तशरीरादिधारणमात्रादिविषयत्वायकामरागविवर्जितम्
-इत्युक्तम्। काम इच्छायाः काष्ठा प्राप्तदशा। राग इच्छा। यद्वा कामशब्दः
-काम्यपरः तद्विषयो रागः कामरागः भूतेषु देवमनुष्यादिरूपेणावस्थितेषु
-जन्तुषु। धर्माविरुद्धः कामः स्वदारप्रीत्यादिः। अथरसोऽहम्
-इत्यादिसामानाधिकरण्यं सहेतुकमुपपादयति एत इति। न चायं
-तदधीनसामर्थ्यप्रदर्शनार्थोराजा राष्ट्रम् इत्यादिवदारोपः मुख्यसम्भवे
-वृत्त्यन्तरायोगादिति भावः। एत
-इत्यनेनेश्वरव्यतिरिक्तैरशक्यक्रियत्वमभिप्रेतम्। सर्व इत्यनेन
-ब्रह्मरुद्रादिभिरन्यैश्च क्रियमाणानामपि
-ब्रह्मादिशरीरपरमात्माधीनसृष्टत्वम्अहं कृत्स्नस्य 7।6 इति पूर्वोक्तं
-स्मारितम्। वक्ष्यमाणराजसतामसेभ्यो वैलक्षण्यार्थमुक्तंविलक्षणा इति। मत्त
-एव पृथग्विधाः 10।5 इति च वक्ष्यते। एतेनन विलक्षणत्वादस्य ब्र.सू.2।1।4
-इत्यधिकरणार्थोऽपि स्मारितः। मत्त एवोत्पन्ना इत्यादि तत्तद्वस्त्वनुरूपं
-यथासम्भवं सामानाधिकरण्यहेतुः। गुणजातिशरीरेष्वनुगतः
-सामानाधिकरण्यहेतुरपृथक्सिद्धिरिति प्रदर्शनायोक्तंमय्येवावस्थिता इति।
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥ 7.9 एवम्भूमिरापः 7।4 इत्यादिना भेदश्रुत्यर्थ उपबृंहितःमयि सर्वम् 7।7 इति तु घटकश्रुत्यर्थः अथ तदुभयनिर्वाहिताभेदश्रुत्यर्थोपबृंहणं क्रियत इत्यभिप्रायेणाह अत इति। केचित्मयि सर्वमिदम् इत्यस्य रसादिधर्मविशिष्टे मयि प्रोतमित्यर्थः तद्विवरणंरसोऽहम् इत्यादि इति व्याचख्युः तत्परिहारायाह सर्वस्य परमपुरुषशरीरत्वेनेति। परोक्ते त्वाधाराधेयभाववैपरीत्यादिदोष इति भावः। प्रकारवाचिशब्दानां प्रकारिणि पर्यवसानस्वाभाव्यं जातिगुणादिशब्देष्वपि सामान्यतः सिद्धमिति दर्शयितुं प्रकारत्वोपादानम्। अभिधानं मुख्यवृत्त्या बोधनम्। यद्यपि रसादिशब्दा लोके निष्कर्षकाः प्रयुज्यन्ते व्यधिकरणतया चात्रावादिद्रव्योपादानं तथापि रसादीनां परमात्मशरीरभूतद्रव्यप्रकारत्वेन परमात्मनः प्रकारित्वाद्रसादिशब्दानां चात्र तत्समानाधिकरणतया प्रयोगात्तत्र निष्कर्षकत्वं नास्तीत्यभ्युपगन्तव्यम्। द्रव्योपादानं तु तत्रतत्र द्रव्ये प्रधानभूतरसगन्धादिप्रकारीभूतोऽहमिति ज्ञापनार्थम्। द्रव्यप्रकाराणां च तत्प्रकारत्वं काठिन्यवान् (न्येन)यो बिभर्ति वि.पु.1।14।28 इत्यादिषु प्रयुक्तमिति भावः। रसस्य पृथिव्यां वृत्तौ सत्यामप्यपां रूपादिगुणान्तरसद्भावेऽपिरसोऽहमप्सु इति विशिष्योपादानं तेजस्तत्त्वादब्रूपपरिणामस्य पूर्वतत्त्वानुत्पन्नरसप्रधानत्वात्। अन्यत्र चआत्तगन्धा तदा (ततो) भूमिः प्रलयत्वाय कल्पते वि.पु.6।4।14 इत्यादिना च पृथिव्यादीनां गन्धरसाद्यधीनत्वमुक्तम्। एवमुत्तरत्रापि प्राधान्यतो विशेषनिर्देशे यथोचितं भाव्यम्। प्रभा स्वाश्रयातिरिक्तप्रसारितेजोद्रव्यविशेषः। प्रभयैव चन्द्रसूर्यौ जगदुपकारहेतुभूताविति तौ तत्प्रधानौ। सर्वेषां वेदानां बीजत्वादिना तेषुप्रणवः प्रधानभूतः। पौरुषं पुरुषस्य भावः यतः पुरुषबुद्धिरित्येके सन्तानपरम्पराहेतुभूतं रेत इत्यपरे यद्वा पौरुषं सामर्थ्यं कर्तृत्वशक्तिरित्यर्थः तयैव हि कर्तुरात्मनः कारकान्तरेभ्यः प्राधान्यम्। नृषु जीवेष्वित्यर्थः। यद्वा पौरुषं पुंस्त्वं स्त्रीनपुंसकव्यावृत्तः सत्त्वादिस्वभावविशेषः। नृशब्दश्च पुरुषपर्यायः। पुण्यो गन्धः तुलस्यादिगन्धः सुरभिगन्धमात्रं वा तद्योगेन हि पृथिवी सत्त्वोन्मेषस्य सुखस्य वा हेतुर्भवति। विभावसुरत्राग्निः। तत्र च तेजो दाहकत्वशक्तिः। भूतशब्देनात्र शरीरिणो गृह्यन्ते। सर्वशब्देनात्र ब्रह्मशर्वादीनामपि सङ्ग्रहः। तेषु जीवनं प्राणनम् प्राणस्थितिहेतुर्वा। येन सर्वाणि भूतानि जीवन्ति भूतेषूपजीवनीयं वा रूपम्। सर्वभूतानां सनातनं बीजं प्रकृतितत्त्वम्। अथवा प्रधानधर्मनिर्देशप्रकरणत्वाद्बीजशब्दोऽत्रोपादानत्वाख्यस्वभावपरः। सर्वेषां परिणामिद्रव्याणां स्वकार्यपरिणामसामर्थ्यमित्यर्थः। अथवा बीजं प्ररोहकारणं जङ्गमस्थावरभूतानां तत्तदुपादानद्रव्यम्। बुद्धिः अध्यवसायः ज्ञानमात्रं वा। तेजस्विनः प्रतापशीलाः तेषां तेजः अनभिभवनीयत्वं पराभिभवसामर्थ्यं वा। तेजोऽभिमान इति केचित् प्रागल्भ्यमित्यपरे। बलं धारणादिशक्तिः। कामरागवशात् स्वकार्ये प्रवृत्तस्य बलस्य परपीडादिहेतुत्वाद्धर्मोपयुक्तशरीरादिधारणमात्रादिविषयत्वायकामरागविवर्जितम् इत्युक्तम्। काम इच्छायाः काष्ठा प्राप्तदशा। राग इच्छा। यद्वा कामशब्दः काम्यपरः तद्विषयो रागः कामरागः भूतेषु देवमनुष्यादिरूपेणावस्थितेषु जन्तुषु। धर्माविरुद्धः कामः स्वदारप्रीत्यादिः। अथरसोऽहम् इत्यादिसामानाधिकरण्यं सहेतुकमुपपादयति एत इति। न चायं तदधीनसामर्थ्यप्रदर्शनार्थोराजा राष्ट्रम् इत्यादिवदारोपः मुख्यसम्भवे वृत्त्यन्तरायोगादिति भावः। एत इत्यनेनेश्वरव्यतिरिक्तैरशक्यक्रियत्वमभिप्रेतम्। सर्व इत्यनेन ब्रह्मरुद्रादिभिरन्यैश्च क्रियमाणानामपि ब्रह्मादिशरीरपरमात्माधीनसृष्टत्वम्अहं कृत्स्नस्य 7।6 इति पूर्वोक्तं स्मारितम्। वक्ष्यमाणराजसतामसेभ्यो वैलक्षण्यार्थमुक्तंविलक्षणा इति। मत्त एव पृथग्विधाः 10।5 इति च वक्ष्यते। एतेनन विलक्षणत्वादस्य ब्र.सू.2।1।4 इत्यधिकरणार्थोऽपि स्मारितः। मत्त एवोत्पन्ना इत्यादि तत्तद्वस्त्वनुरूपं यथासम्भवं सामानाधिकरण्यहेतुः। गुणजातिशरीरेष्वनुगतः सामानाधिकरण्यहेतुरपृथक्सिद्धिरिति प्रदर्शनायोक्तम्मय्येवावस्थिता इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 7.8 - 7.11 All these entities with their peculiar characteristic are born from Me alone. They depend on Me; inasmuch as they constitute My body, they exist in Me alone. Thus I alone exist while all of them are only My modes.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.9।। पुण्य इति। यो धरायां +++(S धरायाः)+++ केवलधर्मतया गन्धगुणः स
-स्वभावपुण्यः। पूत्युत्कटादीनि+++(SN प्रत्युत्कटत्वादीनि)+++ तु
-भूतान्तरसंबन्धात्। उक्तं च दृढं भूमिगुणाधिक्याद्
-दुर्गन्ध्यग्निगुणोदयात्।  
-  
-जडमम्बुगुणौदार्यात् इत्यादि।
-
+॥7.9॥ **पुण्यः** सुरभिः **गन्धः पृथिव्यां च** अहम् तस्मिन् मयि गन्धभूते पृथिवी प्रोता। पुण्यत्वं गन्धस्य स्वभावत एव पृथिव्यां दर्शितम् अबादिषु रसादेः पुण्यत्वोपलक्षणार्थम्। अपुण्यत्वं तु गन्धादीनाम् अविद्याधर्माद्यपेक्षं संसारिणां भूतविशेषसंसर्गनिमित्तं भवति। **तेजश्च** दीप्तिश्**च** **अस्मि विभावसौ** अग्नौ। तथा **जीवनं सर्वभूतेषु** येन जीवन्ति सर्वाणि भूतानि तत् जीवनम्। **तपश्च अस्मि तपस्विषु** तस्मिन् तपसि मयि तपस्विनः प्रोताः॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.9 Punyah etc. By its own nature pure is that smell which exists in the
-earth as its exclusive property. The foulness, the excessiveness \[of th
-smell\] are due to contamination of other elements. That has been stated
-\[elsewhere\] as : '\[A particular thing\] becomes hard because of the
-excess of the properties of the earth; foul-smelling on account of the
-rise of the fire-properties; and stiff due to liberality (excess) of the
-properties of water' and so on.
+<details><summary>गम्भीरानन्दः</summary>
 
+7.9 I am also the punyah, sweet; gandhah, fragrance; prthivyam, in the
+earth. The earth is dependent on Me who am its fragrance. The natural
+sweetness of smell in the earth is cited by way of suggesting sweetness
+of taste of water etc. as well. But foulness of smell etc. is due to
+contact with particular things, resulting from nescience, unholiness,
+etc. of worldly people. Ca, and ; asmi, I am; the tejah, brilliance;
+vibhavasau, in fire; so also (I am) the jivanam, life-that by which all
+creatures live; sarva-bhutesu, in all beings. And I am the tapah,
+austerity; tapasvisu, of ascetics. Ascetics are established in Me who am
+that austerity.
 </details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥7.9॥ पृथिवीमें मैं पवित्र गन्ध सुगन्ध हूँ अर्थात् उस सुगन्धरूप मुझ
+ईश्वरमें पृथिवी पिरोयी हुई है। जल आदिमें रस आदिकी पवित्रताका लक्ष्य
+करानेके लिये यहाँ गन्धकी स्वाभाविक पवित्रता ही पृथिवीमें दिखलायी गयी है।
+गन्धरस आदिमें जो अपवित्रता आ जाती है वह तो सांसारिक पुरुषोंके अज्ञान और
+अधर्म आदिकी अपेक्षासे एवं भूतविशेषोंके संसर्गसे है ( वह स्वाभाविक नहीं
+है )। मैं अग्निमें प्रकाश हूँ तथा सब प्राणियोंमें जीवन हूँ अर्थात् जिससे
+सब प्राणी जीते हैं वह जीवन मैं हूँ और तपस्वियोंमें तप मैं हूँ अर्थात् उस
+तपरूप मुझ परमात्मामें ( सब ) तपस्वी पिरोये हुए हैं।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥7.9॥ मयि सर्वमिदं प्रोतमित्यस्यैव परिमाणार्थं प्रकारान्तरमाह **पुण्य
+इति।** पृथिव्यां पुण्यशब्दितो यः सुरभिगन्धः सोऽहमस्मीत्यत्र वाक्यार्थं
+कथयति **तस्मिन्निति।** कथं पृथिव्यां गन्धस्य पुण्यत्वं तत्राह
+**पुण्यत्वमिति।** यत्तु पृथिव्यां गन्धस्य स्वाभाविकं पुण्यत्वं दर्शितं
+तदबादिषु रसादेरपि स्वाभाविकपुण्यत्वस्योपलक्षणार्थमित्याह
+**पृथिव्यामिति।** प्रथमोत्पन्नाः पञ्चापि गुणाः पुण्या एव सिद्धादिभिरेव
+भोग्यत्वादिति भावः। कथं तर्हि गन्धादीनामपुण्यत्वप्रतिभानं तत्राह
+**अपुण्यत्वं त्विति।** तदेव स्फुटयति **संसारिणामिति।** गन्धादयः
+स्वकार्यैर्भूतैः सह परिणममानाः प्राणिनां पापादिवशादपुण्याः संपद्यन्त
+इत्यर्थः। यच्चाग्नेस्तेजस्तद्भूते मयि श्रोतोऽग्निरित्याह **तेज इति।**
+जीवनभूते च मयि सर्वाणि भूतानि प्रोतानीत्याह **तथेति।** जीवनशब्दार्थमाह
+**येनेति।** अन्नरसेनामृताख्येनेत्यर्थः।
+तपश्चास्मीत्यादेस्तात्पर्यार्थमाह **तस्मिन्निति।** चित्तैकाग्र्यमनाशकादि
+वा तपस्तदात्मनीश्वरे प्रोतास्तपस्विनो विशेषणाभावे विशिष्टस्य
+वस्तुनोऽभावादित्यर्थः।
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥7.9॥**पुण्य इति।** रसादिष्वपि द्रष्टव्यम्। अपुण्यस्य
+सर्वस्याविद्यामात्रविलसितत्वात्। विभावसौ वह्नौ तेजः दहनशक्तिः।
+जीवन्त्यनेनेति जीवनमन्नं विराजम्। तत्र हि सर्वाणि भूतानि प्रोतानि। अन्ये
+तु जीवनं आयुरिति व्याचक्षते **तपश्चेति।** तपो धर्मस्तद्रूपे मयि तपस्विनः
+प्रोताः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥7.9॥ पृथ्वीसारभूते सुरभिगन्धे गन्धतन्मात्रभूते मयि पृथिवी प्रोता।
+रसादेः पुण्यत्वं स्वभावादेवापुण्यत्वं त्वविद्याधर्माद्यपेक्षं संसारिणां
+भूतविशेषनिमित्तजं भवति। अग्निसारभूते तेजसि तेजोरुपे मयि विभावसुरग्निः
+प्रोतः। तथा जीवने सर्वमूतसारभूते आयरुपे अन्नरुपे वा तस्मिंस्तद्रूपे मयि
+सर्वे भूताः प्रोताः। तपस्विसारभूते तपोरुपे मयि तपस्विनः प्रोताः।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥7.9॥ पुण्यः सुरभिरविकृतो गन्धः सर्वपृथिवीसामान्यरूपस्तन्मात्राख्यः
+पृथिव्यामनुस्यूतोऽहम्। चकारो रसादीनामपि पुण्यत्वसमुच्चयार्थः।
+शब्दस्पर्शरूपरसगन्धानां हि स्वभावत एव पुण्यत्वमविकृतत्वं
+प्राणिनामधर्मविशेषात्तु तेषामपुण्यत्वं नतु स्वभावत इति द्रष्टव्यम्। तथा
+विभावसावग्नौ यत्तेजः सर्वदहनप्रकाशनसामर्थ्यरूपमुष्णस्पर्शसहितं
+सितभास्वरं रूपं पुण्यं तदहमस्मि। चकाराद्यो वायौ पुण्य
+उष्णस्पर्शात्तुराणामाप्यायकः शीतस्पर्शः सोऽप्यहमिति द्रष्टव्यम्।
+सर्वभूतेषु सर्वेषु प्राणिषु जीवनं प्राणधारणमायुरहमस्मि। तद्रूपे मयि
+सर्वे प्राणिनः प्रोता इत्यर्थः। तपस्विषु नित्यं तपोयुक्तेषु
+वानप्रस्थादिषु यत्तपः शीतोष्णक्षुत्पिपासादिद्वन्द्वसहनसामर्थ्यरूपं
+तदहमस्मि। तद्रूपे मयि तपस्विनः प्रोताः विशेषणाभावे विशिष्टाभावात्।
+तपश्चेति चकारेण चित्तैकाग्र्यमान्तरं जिह्वोपस्थादिनिग्रहलक्षणं बाह्यं च
+सर्वं तपः समुच्चीयते।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.8 7.12।। इदं ज्ञानम्। रसोऽहमित्यादिविज्ञानम्। अबादयोऽपि तत एव। तथापि
+॥7.8 7.12॥ इदं ज्ञानम्। रसोऽहमित्यादिविज्ञानम्। अबादयोऽपि तत एव। तथापि
 रसादिस्वभावाना सागणां च स्वभावत्वे सारत्वे च विशेषतोऽपि स एव नियमाकः न
 त्वबादिनियमानुबद्धो रसादिस्तत्सारत्वादिश्चेति दर्शयति अप्सु रस
 इत्यादिविशेषशब्दैः। भोगश्च विशेषतो रसादेरिति च उपासनार्थं च। उक्तं च
@@ -159,13 +162,11 @@ _________________
 ह्यस्माच्छारीरात्पुरुषोत्तमः। अतोऽभोक्ता च भोक्ता च स्थूलाभोगात्स एव तु
 इति गीताकल्पे। न त्वहं तेष्विति तदनाधारत्वमुच्यते। उक्तं च तदाश्रितं
 जगत्सर्वं नासौ कुत्रचिदाश्रितः इति गीताकल्पे।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।7.8 7.12।। भूमिः 7।4 इत्यादिनेत्यत्रावधेरनुक्तेःरसोऽहं इत्याद्यपि
+<details><summary>जयतीर्थः</summary>
+
+॥7.8 7.12॥ भूमिः 7।4 इत्यादिनेत्यत्रावधेरनुक्तेःरसोऽहं इत्याद्यपि
 ज्ञानप्रकरणमिति प्रतीतिः स्यात् तन्निरासाय तत्समाप्तिमाह **इदमि**ति।
 एतावता ग्रन्थेन ज्ञानं निरूपितमित्यर्थ। कुतोऽत्र ज्ञानप्रकरणस्य समाप्तिः
 इत्यत आह **रसोऽहमि**ति। इतिशब्दाद्यभावेऽपि प्रकरणान्तरारम्भ एव समाप्तिं
@@ -253,136 +254,37 @@ _________________
 त्वहं तेषु 7।12 इति कथमुच्यते इत्यत आह **न त्वहमि**ति। तदनाधारत्वं
 तदुपजीवनेन स्थित्यभावः। कुत एतत् इत्यत आह **उक्तं चे**ति। न केवलं
 मुक्तविरोधादिति चार्थः।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.9।। **पुण्यः** सुरभिः **गन्धः पृथिव्यां च** अहम् तस्मिन् मयि
-गन्धभूते पृथिवी प्रोता। पुण्यत्वं गन्धस्य स्वभावत एव पृथिव्यां दर्शितम्
-अबादिषु रसादेः पुण्यत्वोपलक्षणार्थम्। अपुण्यत्वं तु गन्धादीनाम्
-अविद्याधर्माद्यपेक्षं संसारिणां भूतविशेषसंसर्गनिमित्तं भवति। **तेजश्च**
-दीप्तिश्**च** **अस्मि विभावसौ** अग्नौ। तथा **जीवनं सर्वभूतेषु** येन
-जीवन्ति सर्वाणि भूतानि तत् जीवनम्। **तपश्च अस्मि तपस्विषु** तस्मिन् तपसि
-मयि तपस्विनः प्रोताः।।
-
+॥7.9॥ पुण्य इति। यो धरायां +++(S धरायाः)+++ केवलधर्मतया गन्धगुणः स स्वभावपुण्यः। पूत्युत्कटादीनि+++(SN प्रत्युत्कटत्वादीनि)+++ तु भूतान्तरसंबन्धात्। उक्तं च दृढं भूमिगुणाधिक्याद् दुर्गन्ध्यग्निगुणोदयात्।  
+  
+जडमम्बुगुणौदार्यात् इत्यादि।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।7.9।। पृथिवीमें मैं पवित्र गन्ध सुगन्ध हूँ अर्थात् उस सुगन्धरूप मुझ
-ईश्वरमें पृथिवी पिरोयी हुई है। जल आदिमें रस आदिकी पवित्रताका लक्ष्य
-करानेके लिये यहाँ गन्धकी स्वाभाविक पवित्रता ही पृथिवीमें दिखलायी गयी है।
-गन्धरस आदिमें जो अपवित्रता आ जाती है वह तो सांसारिक पुरुषोंके अज्ञान और
-अधर्म आदिकी अपेक्षासे एवं भूतविशेषोंके संसर्गसे है ( वह स्वाभाविक नहीं
-है )। मैं अग्निमें प्रकाश हूँ तथा सब प्राणियोंमें जीवन हूँ अर्थात् जिससे
-सब प्राणी जीते हैं वह जीवन मैं हूँ और तपस्वियोंमें तप मैं हूँ अर्थात् उस
-तपरूप मुझ परमात्मामें ( सब ) तपस्वी पिरोये हुए हैं।
+<details><summary>शङ्करनारायणः</summary>
 
+7.9 Punyah etc. By its own nature pure is that smell which exists in the earth as its exclusive property. The foulness, the excessiveness \[of th smell\] are due to contamination of other elements. That has been stated \[elsewhere\] as : '\[A particular thing\] becomes hard because of the excess of the properties of the earth; foul-smelling on account of the rise of the fire-properties; and stiff due to liberality (excess) of the properties of water' and so on.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.9 I am also the punyah, sweet; gandhah, fragrance; prthivyam, in the
-earth. The earth is dependent on Me who am its fragrance. The natural
-sweetness of smell in the earth is cited by way of suggesting sweetness
-of taste of water etc. as well. But foulness of smell etc. is due to
-contact with particular things, resulting from nescience, unholiness,
-etc. of worldly people. Ca, and ; asmi, I am; the tejah, brilliance;
-vibhavasau, in fire; so also (I am) the jivanam, life-that by which all
-creatures live; sarva-bhutesu, in all beings. And I am the tapah,
-austerity; tapasvisu, of ascetics. Ascetics are established in Me who am
-that austerity.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।7.9।। मयि सर्वमिदं प्रोतमित्यस्यैव परिमाणार्थं प्रकारान्तरमाह **पुण्य
-इति।** पृथिव्यां पुण्यशब्दितो यः सुरभिगन्धः सोऽहमस्मीत्यत्र वाक्यार्थं
-कथयति **तस्मिन्निति।** कथं पृथिव्यां गन्धस्य पुण्यत्वं तत्राह
-**पुण्यत्वमिति।** यत्तु पृथिव्यां गन्धस्य स्वाभाविकं पुण्यत्वं दर्शितं
-तदबादिषु रसादेरपि स्वाभाविकपुण्यत्वस्योपलक्षणार्थमित्याह
-**पृथिव्यामिति।** प्रथमोत्पन्नाः पञ्चापि गुणाः पुण्या एव सिद्धादिभिरेव
-भोग्यत्वादिति भावः। कथं तर्हि गन्धादीनामपुण्यत्वप्रतिभानं तत्राह
-**अपुण्यत्वं त्विति।** तदेव स्फुटयति **संसारिणामिति।** गन्धादयः
-स्वकार्यैर्भूतैः सह परिणममानाः प्राणिनां पापादिवशादपुण्याः संपद्यन्त
-इत्यर्थः। यच्चाग्नेस्तेजस्तद्भूते मयि श्रोतोऽग्निरित्याह **तेज इति।**
-जीवनभूते च मयि सर्वाणि भूतानि प्रोतानीत्याह **तथेति।** जीवनशब्दार्थमाह
-**येनेति।** अन्नरसेनामृताख्येनेत्यर्थः।
-तपश्चास्मीत्यादेस्तात्पर्यार्थमाह **तस्मिन्निति।** चित्तैकाग्र्यमनाशकादि
-वा तपस्तदात्मनीश्वरे प्रोतास्तपस्विनो विशेषणाभावे विशिष्टस्य
-वस्तुनोऽभावादित्यर्थः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।7.9।। पुण्यः सुरभिरविकृतो गन्धः सर्वपृथिवीसामान्यरूपस्तन्मात्राख्यः
-पृथिव्यामनुस्यूतोऽहम्। चकारो रसादीनामपि पुण्यत्वसमुच्चयार्थः।
-शब्दस्पर्शरूपरसगन्धानां हि स्वभावत एव पुण्यत्वमविकृतत्वं
-प्राणिनामधर्मविशेषात्तु तेषामपुण्यत्वं नतु स्वभावत इति द्रष्टव्यम्। तथा
-विभावसावग्नौ यत्तेजः सर्वदहनप्रकाशनसामर्थ्यरूपमुष्णस्पर्शसहितं
-सितभास्वरं रूपं पुण्यं तदहमस्मि। चकाराद्यो वायौ पुण्य
-उष्णस्पर्शात्तुराणामाप्यायकः शीतस्पर्शः सोऽप्यहमिति द्रष्टव्यम्।
-सर्वभूतेषु सर्वेषु प्राणिषु जीवनं प्राणधारणमायुरहमस्मि। तद्रूपे मयि
-सर्वे प्राणिनः प्रोता इत्यर्थः। तपस्विषु नित्यं तपोयुक्तेषु
-वानप्रस्थादिषु यत्तपः शीतोष्णक्षुत्पिपासादिद्वन्द्वसहनसामर्थ्यरूपं
-तदहमस्मि। तद्रूपे मयि तपस्विनः प्रोताः विशेषणाभावे विशिष्टाभावात्।
-तपश्चेति चकारेण चित्तैकाग्र्यमान्तरं जिह्वोपस्थादिनिग्रहलक्षणं बाह्यं च
-सर्वं तपः समुच्चीयते।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।7.9।।**पुण्य इति।** रसादिष्वपि द्रष्टव्यम्। अपुण्यस्य
-सर्वस्याविद्यामात्रविलसितत्वात्। विभावसौ वह्नौ तेजः दहनशक्तिः।
-जीवन्त्यनेनेति जीवनमन्नं विराजम्। तत्र हि सर्वाणि भूतानि प्रोतानि। अन्ये
-तु जीवनं आयुरिति व्याचक्षते **तपश्चेति।** तपो धर्मस्तद्रूपे मयि तपस्विनः
-प्रोताः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।7.9।। पृथ्वीसारभूते सुरभिगन्धे गन्धतन्मात्रभूते मयि पृथिवी प्रोता।
-रसादेः पुण्यत्वं स्वभावादेवापुण्यत्वं त्वविद्याधर्माद्यपेक्षं संसारिणां
-भूतविशेषनिमित्तजं भवति। अग्निसारभूते तेजसि तेजोरुपे मयि विभावसुरग्निः
-प्रोतः। तथा जीवने सर्वमूतसारभूते आयरुपे अन्नरुपे वा तस्मिंस्तद्रूपे मयि
-सर्वे भूताः प्रोताः। तपस्विसारभूते तपोरुपे मयि तपस्विनः प्रोताः।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.9।। पुण्य इति। सुरभिर्गन्धः पृथिव्यां तेजश्चास्मि विभावसौ। स्पष्टमेव।
+॥7.9॥ पुण्य इति। सुरभिर्गन्धः पृथिव्यां तेजश्चास्मि विभावसौ। स्पष्टमेव।
 सर्वभूतेषु जीवनं प्राणनं तपः कायशोधनम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।7.9।। च पुनः पृथिव्यां पुण्यो गन्धोऽस्मि येन गन्धेन पुलिन्द्यादिषु
+<details><summary>पुरुषोत्तमः</summary>
+
+॥7.9॥ च पुनः पृथिव्यां पुण्यो गन्धोऽस्मि येन गन्धेन पुलिन्द्यादिषु
 भगवद्रसोत्पत्तिः स्यात् स पुण्यरूपो गन्धस्तत्सम्बन्धेन पृथिव्या
 गन्धवत्त्वं तद्वत्त्वेनात्रत्यामोदेनाऽऽह्लादकवृन्दावनाधारत्वादिकं चेति
 भावः। तथा विभावसौ अग्नौ यत्तेजस्तापकत्वं कान्तिस्तदहमस्मि। अत्रायं भावः
@@ -390,33 +292,79 @@ _________________
 सर्वस्यान्नादेर्मद्भोग्यतासम्पादकत्वं भवतीति भावः। सर्वभूतेषु जीवनं
 प्राणधारणम् अन्यथा भगवद्वियुक्तानां तेषां तदाधारतां विना कथं स्थितिः
 स्यात्। तपस्विषु तापप्रयत्नवत्सु तपःक्लेशानन्दरूपोऽस्मि। अन्यथा तदभावे
-सुखादित्यागेन दुःखे को वा प्रवर्तते।  
-  
-
+सुखादित्यागेन दुःखे को वा प्रवर्तते।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।7.9।। किंच **पुण्य इति।** पुण्योऽविकृतो गन्धः। गन्धतन्मात्रं पृथिव्या
+॥7.9॥ किंच **पुण्य इति।** पुण्योऽविकृतो गन्धः। गन्धतन्मात्रं पृथिव्या
 आश्रयभूतमहमित्यर्थः। यद्वा विभूतिरूपेणाश्रयधत्वस्य
 विवक्षितत्वात्सुरभिगन्धस्यैवोत्कृष्टतया विभूतित्वात्पुण्यो गन्ध
 इत्युक्तम्। तथा विभावसावग्नौ यत्तेजः सहजा दीप्तिस्तदहम्। सर्वभूतेषु
 जीवनं प्राणधारणमायुरहमित्यर्थः। तपस्विषु वानप्रस्थादिषु द्वन्द्वसहनरूपं
 तपोऽस्मि।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+7.9 I am the pure smell in the earth; I am the brilliance in the fire; I am the life-principle in all beings, and austerity in ascetics.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+7.9 I am also the sweet fragrance in the earth; I am the brillinace in the fire, and the life in all beings; and I am the austerity of the ascetics.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+7.9 I am the Fragrance of earth, the Brilliance of fire. I am the Life Force in all beings, and I am the Austerity of the ascetics.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+7.9. I am the pure smell in the earth; I am also the brilliance in the sun; I am the life in al beings and austerity in the ascetics.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+7.9 I am the sweet fragrance in the earth and the brilliance in the fire, the life in all beings, and I am the austerity in ascetics.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+7.9 पुण्यः sweet; गन्धः fragrance; पृथिव्याम् in earth; च and; तेजः
+brilliance; च and; अस्मि am (I); विभावसौ in fire; जीवनम् life;
+सर्वभूतेषु in all beings; तपः austerity; च and; अस्मि am (I); तपस्विषु
+in ascetics.Commentary In Me as odour in the earth woven in Me as brilliance is the fire woven in Me as life all beings are woven in Me as austerity all ascetics are woven. I am the support (Adhishthanam or Asraya) for everything.I am the power or Sakti which helps the ascetics to control the mind and the senses.Krishna says; I am the agreeable odour. If Arjuna had asked Him; Then who is the disagreeable odour; He would have replied; It is also I.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।7.9।। पृथ्वीमें पवित्र गन्ध मैं हूँ, और अग्निमें तेज मैं हूँ, तथा
+सम्पूर्ण प्राणियोंमें जीवनीशक्ति मैं हूँ और तपस्वियोंमें तपस्या मैं हूँ।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+।।7.9।।***व्याख्या--*'पुण्यो गन्धः पृथिव्याम्'--**पृथ्वी
+गन्ध-तन्मात्रासे उत्पन्न होती है, गन्ध-तन्मात्रारूपसे रहती है और
+गन्ध-तन्मात्रामें ही लीन होती है। तात्पर्य है कि गन्धके बिना पृथ्वी कुछ
+नहीं है। भगवान् कहते हैं कि पृथ्वीमें वह पवित्र गन्ध मैं हूँ। यहाँ गन्धके
+साथ **पुण्यः'**विशेषण देनेका तात्पर्य है कि गन्धमात्र पृथ्वीमें रहती है।
+उसमें पुण्य अर्थात् पवित्र गन्ध तो पृथ्वीमें स्वाभाविक रहती है, पर
+दुर्गन्ध किसी विकृतिसे प्रकट होती है।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।7.9।। किस प्रकार परमात्मरूपी सूत्र में नामरूपमय मणि पिरोकर सुन्दर
 सृष्टिरूप कण्ठाभरण की निर्मिति हुई है इसका वर्णन इन दो श्लोकों में किया
@@ -431,84 +379,12 @@ _________________
 तप आदि ये सब दर्शाते हैं कि आत्मा ही वह तत्त्व है जिसके कारण इन वस्तुओं
 का अपना विशेष अस्तित्व होता है। संक्षेपत आत्मा समस्त भूतों का जीवन
 है। भगवान् श्रीकृष्ण कुछ और उदाहरण देते हुये कहते हैं
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।7.9।। पृथ्वी में पवित्र गन्ध हूँ और अग्नि में तेज हूँ; सम्पूर्ण भूतों
 में जीवन हूँ और तपस्वियों में मैं तप हूँ।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।7.9।। पृथ्वीमें पवित्र गन्ध मैं हूँ, और अग्निमें तेज मैं हूँ, तथा
-सम्पूर्ण प्राणियोंमें जीवनीशक्ति मैं हूँ और तपस्वियोंमें तपस्या मैं हूँ।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-।।7.9।।***व्याख्या--*'पुण्यो गन्धः पृथिव्याम्'--**पृथ्वी
-गन्ध-तन्मात्रासे उत्पन्न होती है, गन्ध-तन्मात्रारूपसे रहती है और
-गन्ध-तन्मात्रामें ही लीन होती है। तात्पर्य है कि गन्धके बिना पृथ्वी कुछ
-नहीं है। भगवान् कहते हैं कि पृथ्वीमें वह पवित्र गन्ध मैं हूँ। यहाँ गन्धके
-साथ **पुण्यः'**विशेषण देनेका तात्पर्य है कि गन्धमात्र पृथ्वीमें रहती है।
-उसमें पुण्य अर्थात् पवित्र गन्ध तो पृथ्वीमें स्वाभाविक रहती है, पर
-दुर्गन्ध किसी विकृतिसे प्रकट होती है।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-7.9. I am the pure smell in the earth; I am also the brilliance in the sun; I am the life in al beings and austerity in the ascetics.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-7.9 I am also the sweet fragrance in the earth; I am the brillinace in the fire, and the life in all beings; and I am the austerity of the ascetics.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-7.9 I am the Fragrance of earth, the Brilliance of fire. I am the Life Force in all beings, and I am the Austerity of the ascetics.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-7.9 I am the pure smell in the earth; I am the brilliance in the fire; I am the life-principle in all beings, and austerity in ascetics.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-7.9 I am the sweet fragrance in the earth and the brilliance in the fire, the life in all beings, and I am the austerity in ascetics.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-7.9 पुण्यः sweet; गन्धः fragrance; पृथिव्याम् in earth; च and; तेजः
-brilliance; च and; अस्मि am (I); विभावसौ in fire; जीवनम् life;
-सर्वभूतेषु in all beings; तपः austerity; च and; अस्मि am (I); तपस्विषु
-in ascetics.Commentary In Me as odour in the earth woven in Me as brilliance is the fire woven in Me as life all beings are woven in Me as austerity all ascetics are woven. I am the support (Adhishthanam or Asraya) for everything.I am the power or Sakti which helps the ascetics to control the mind and the senses.Krishna says; I am the agreeable odour. If Arjuna had asked Him; Then who is the disagreeable odour; He would have replied; It is also I.
-
-</details>
 </div>

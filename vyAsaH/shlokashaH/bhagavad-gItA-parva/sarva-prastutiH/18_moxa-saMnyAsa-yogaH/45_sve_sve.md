@@ -1,156 +1,55 @@
 +++
 title = "45 स्वे स्वे"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 स्वे स्वे कर्मण्य् अभिरतः  
 संसिद्धिं लभते नरः।  
 **स्व-कर्म-निरतः सिद्धिं**  
 यथा **विन्दति** तच्छृणु॥18.45॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः।  
-स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु।।18.45।।
+स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु॥18.45॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।18.45।।**स्वे स्वे** यथोदिते **कर्मणि अभिरतो नरः संसिद्धिं**
-परमपदप्राप्तिं **लभते। स्वकर्मनिरतो यथा सिद्धिं** **विन्दति** परमं पदं
-प्राप्नोति तथा **श्रृणु।**
-
+॥18.45॥**स्वे स्वे** यथोदिते **कर्मण्य् अभिरतो नरः संसिद्धिं** परमपदप्राप्तिं **लभते। स्वकर्मनिरतो यथा सिद्धिं** **विन्दति** परमं पदं प्राप्नोति तथा **श्रृणु।**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.45।। वर्णधर्मविभागो मोक्षशास्त्रे किमर्थं इत्यत्राऽऽह -- स्वे स्वे
-कर्मणीति। संसिद्धिशब्दस्यात्र परमपदप्राप्तिविषयत्वं
-प्रकरणात्सिद्धम्। शाश्वतं परमव्ययम् \[18।56\] इति हि वक्ष्यति। यद्वा
-सिद्धिशब्दःनैष्कर्म्यसिद्धिम् \[18।49\] इति वक्ष्यमाणविषयः।
-तत्पर्यवसानज्ञापनायात्र परमप्राप्यग्रहणम्। ननु स्वकर्मनिरतस्यापि
-शूद्रस्य कथं परमपदप्राप्तिः तस्य मोक्षसाधनविद्यायामनधिकारः शारीरके
-अपशूद्राधिकरणे शिक्षितः। सत्यं; भवान्तराधिकारद्वारा परम्परया
-परमपदप्राप्तेर्विवक्षितत्वान्न विरोधः। विदुरादिवज्जातिस्मरेषु
-जन्मान्तरप्रारब्धपरविद्याप्रतिसन्धायिषु
-स्वकर्मणामकरणनिमित्तप्रत्यवायपरिहारार्थत्वं साक्षात्संसिद्धियोग्यत्वं
-द्रष्टव्यम्। यथोक्तं भगवता शौनकेन -- धर्मव्याधादयोऽप्यन्ये
-पूर्वाभ्यासाज्जुगुप्सिते। वर्णावरत्वे सम्प्राप्ताः संसिद्धिं श्रमणी यथा
-\[वि.ध.102।30\] इति। ननु परिमितफलप्रदानसमर्थेन्द्राद्याराधनरूपाणां
-तत्तद्वर्णाश्रमकर्मणां कथं परमपदप्राप्तिहेतुत्वं
-इत्यत्रोत्तरंस्वकर्मनिरत इति। यथा इत्यस्य प्रतिनिर्देशत्वात्तच्छब्दः
-प्रकारपरामर्शीत्याह -- तथा शृण्विति।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥18.45॥ वर्णधर्मविभागो मोक्षशास्त्रे किमर्थम् इत्यत्राऽऽह -- स्वे स्वे कर्मणीति। संसिद्धिशब्दस्यात्र परमपदप्राप्तिविषयत्वं प्रकरणात्सिद्धम्। शाश्वतं परमव्ययम् \[18।56\] इति हि वक्ष्यति। यद्वा सिद्धिशब्दःनैष्कर्म्यसिद्धिम् \[18।49\] इति वक्ष्यमाणविषयः। तत्पर्यवसानज्ञापनायात्र परमप्राप्यग्रहणम्। ननु स्वकर्मनिरतस्यापि शूद्रस्य कथं परमपदप्राप्तिः तस्य मोक्षसाधनविद्यायामनधिकारः शारीरके अपशूद्राधिकरणे शिक्षितः। सत्यं; भवान्तराधिकारद्वारा परम्परया परमपदप्राप्तेर्विवक्षितत्वान्न विरोधः। विदुरादिवज्जातिस्मरेषु जन्मान्तरप्रारब्धपरविद्याप्रतिसन्धायिषु स्वकर्मणामकरणनिमित्तप्रत्यवायपरिहारार्थत्वं साक्षात्संसिद्धियोग्यत्वं द्रष्टव्यम्। यथोक्तं भगवता शौनकेन -- धर्मव्याधादयोऽप्यन्ये पूर्वाभ्यासाज्जुगुप्सिते। वर्णावरत्वे सम्प्राप्ताः संसिद्धिं श्रमणी यथा \[वि.ध.102।30\] इति। ननु परिमितफलप्रदानसमर्थेन्द्राद्याराधनरूपाणां तत्तद्वर्णाश्रमकर्मणां कथं परमपदप्राप्तिहेतुत्वम् इत्यत्रोत्तरंस्वकर्मनिरत इति। यथा इत्यस्य प्रतिनिर्देशत्वात्तच्छब्दः प्रकारपरामर्शीत्याह -- तथा शृण्विति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.45 When one is devoted to his own duty in a way mentioned earlier, he attains perfection i.e., the supreme state. When a person is devoted to his duty, how he attains perfection, i.e., attains the supreme state,
-listen.
+<details><summary>आदिदेवानन्दः</summary>
 
+18.45 When one is devoted to his own duty in a way mentioned earlier, he attains perfection i.e., the supreme state. When a person is devoted to his duty, how he attains perfection, i.e., attains the supreme state, listen.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.41 -- 18.60।। एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च
-प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह
-ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
--- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
-स्वधर्मप्रवृत्त्या विज्ञानपूततया च न कर्मसंबन्धस्तव। अथैतन्नानुमन्यसे;
-तदवश्यं तव प्रवृत्त्या तावत् भाव्यम् जातेरेव तथाभावे स्थितत्वात्। यतः
-सर्वः स्वभावनियतः +++(S;;N स्वस्वभावनियतः )+++ कुतश्चिद्दोषात्
-तिरोहिततत्स्वभावः +++(S;;N -- हिततत्तत्स्वभावः )+++ कंचित्कालं भूत्वापि;
-तत्तिरोधायकविगमे स्वभावं व्यक्त्यापन्नं लभत एव। तथाहि एवंविधो वर्णनां
-स्वभावः। एवमवश्यंभाविन्यां प्रवृत्तौ ततः फलविभागिता भवेत्।। तदाह --
-ब्राह्मणेत्यादि अवशोऽपि तत् इत्यन्तम्। ब्राह्मणादीनां
-कर्मप्रविभागनिरूपणस्य स्वभावोऽश्यं नातिक्रामति,+++(S; ; N omit न and read
-अतिक्रामति )+++ इति क्षत्रियस्वभावस्य भवतोऽनिच्छतोऽपि प्रकृतिः स्वभावाख्या
-नियोक्तृताम् अव्यभिचारेण भजते। केवलं तया नियुक्तस्य पुण्यपापसंबन्धः। अतः
-मदभिहितविज्ञानप्रमाणपुरःसरीकारेण कर्माण्यनुतिष्ठ। तथा सति बन्धो
-निवर्त्स्यति। इत्यस्यार्थस्य परिकरघटनतात्पर्यं +++(S; ; N -- करबन्धघटन --
-)+++ महावाक्यार्थस्य। अवान्तरवाक्यानां स्पष्टा ( ष्टोऽ ) र्थः। समासेन +++(S
-omits समासेन )+++ ( श्लो. 50 ) संक्षेपेण। ज्ञानस्य; प्रागुक्तस्य। निष्ठां (
-ष्ठा ) वाग्जालपरिहारेण निश्चितामाह। बुद्ध्या विशुद्धया इत्यादि सर्वमेतत्
-व्याख्यातप्रायमिति न पुनरायस्यते,+++(N -- रारभ्यते )+++।
-
+॥18.45॥ --,**स्वे स्वे** यथोक्तलक्षणभेदे **कर्मणि अभिरतः** तत्परः **संसिद्धिं** स्वकर्मानुष्ठानात् अशुद्धिक्षये सति कायेन्द्रियाणां ज्ञाननिष्ठायोग्यतालक्षणां संसिद्धिं **लभते** प्राप्नोति नरः अधिकृतः पुरुषः किं स्वकर्मानुष्ठानत एव साक्षात् संसिद्धिः न कथं तर्हि **स्वकर्मनिरतः सिद्धिं यथा** येन प्रकारेण **विन्दति; तत् शृणु**॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.45 See Comment under 18.60
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।18.45।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।18.45।। Sri Jayatirtha did not comment on this sloka.  
-  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।18.45।। --,**स्वे स्वे** यथोक्तलक्षणभेदे **कर्मणि अभिरतः** तत्परः
-**संसिद्धिं** स्वकर्मानुष्ठानात् अशुद्धिक्षये सति कायेन्द्रियाणां
-ज्ञाननिष्ठायोग्यतालक्षणां संसिद्धिं **लभते** प्राप्नोति नरः अधिकृतः
-पुरुषः किं स्वकर्मानुष्ठानत एव साक्षात् संसिद्धिः न कथं तर्हि
-**स्वकर्मनिरतः सिद्धिं यथा** येन प्रकारेण **विन्दति; तत् शृणु**।।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।18.45।। परंतु दूसरे कारणसे ( उनका प्रकारान्तरसे अनुष्ठान करनेपर ) यह अब
-बतलाया जानेवाला फल होता है --, कर्माधिकारी मनुष्य; उक्त लक्षणोंवाले
-अपनेअपने कर्मोंमें अभिरत -- तत्पर हुआ; संसिद्धि लाभ करता है अर्थात अपने
-कर्मो का अनुष्ठान करनेसे अशुद्धिका क्षय होनेपर; शरीर और इन्द्रियोंकी
-ज्ञाननिष्ठाकी योग्यतारूप सिद्धि प्राप्त कर लेता है। तो क्या अपने
-कर्मोंका अनुष्ठान करनेसे ही साक्षात् संसिद्धि मिल जाती है नहीं। तो किस
-तरह मिलती है अपने कर्मोंमें तत्पर हुआ मनुष्य; जिस प्रकार सिद्धि लाभ करता
-है; वह तू सुन।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 18.45 Sve sve karmani abhiratah, being devoted to his own duty, which
 has different characteristics as stated above; narah, man, the person
@@ -161,13 +60,23 @@ result of fulfilling his own duty. Does the complete success follow
 merely from the fulfilment of one's own duty; No. How then; Srnu, hear;
 tat, that; yatha, as to how, through what means; sva-karma-niratah, one
 devoted to his own duty; vindati, acheives; siddim, success.
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।18.45।। शमादिपरिचर्यान्तकर्मणां विभज्योक्तानामभ्युदयं फलमादावुपन्यस्यति
+<details><summary>हरिकृष्णदासः</summary>
+
+॥18.45॥ परंतु दूसरे कारणसे ( उनका प्रकारान्तरसे अनुष्ठान करनेपर ) यह अब
+बतलाया जानेवाला फल होता है --, कर्माधिकारी मनुष्य; उक्त लक्षणोंवाले
+अपनेअपने कर्मोंमें अभिरत -- तत्पर हुआ; संसिद्धि लाभ करता है अर्थात अपने
+कर्मो का अनुष्ठान करनेसे अशुद्धिका क्षय होनेपर; शरीर और इन्द्रियोंकी
+ज्ञाननिष्ठाकी योग्यतारूप सिद्धि प्राप्त कर लेता है। तो क्या अपने
+कर्मोंका अनुष्ठान करनेसे ही साक्षात् संसिद्धि मिल जाती है नहीं। तो किस
+तरह मिलती है अपने कर्मोंमें तत्पर हुआ मनुष्य; जिस प्रकार सिद्धि लाभ करता
+है; वह तू सुन।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥18.45॥ शमादिपरिचर्यान्तकर्मणां विभज्योक्तानामभ्युदयं फलमादावुपन्यस्यति
 -- **एतेषामिति।** स्वभावतो विहितत्वादेव
 मोक्षापेक्षामन्तरेणानुष्ठानादित्यर्थः। तत्र प्रमाणमाह -- **वर्णा इति।**
 शेषशब्देन भुक्तकर्मणोऽतिरिक्तं कर्मानुशयशब्दितमुच्यते; प्रत्येकं
@@ -194,33 +103,59 @@ devoted to his own duty; vindati, acheives; siddim, success.
 स्वधर्मनिष्ठस्य संसिद्धिरिति पृच्छति -- **कथं तर्हीति।**
 उत्तरार्धेनोत्तरमाह -- **स्वकर्मेति।** तच्छृणु तं प्रकारमेकाग्रचेता
 भूत्वा श्रुत्वावधारयेत्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।18.45।। तदेवं वर्णानां स्वभावजा गौणाख्या गुणधर्मा अभिहिताः। अन्येऽपि
+<details><summary>नीलकण्ठः</summary>
+
+॥18.45॥ कर्मप्रविभागफलमाह -- **स्वे स्वे इति।** स्वे स्वे
+मन्वादिभिरुक्तेऽध्यापनादौ असाधारणे शमदमादौ साधारणे च कर्मणि अभिरतो
+निष्ठावन् संसिद्धिं ज्ञानयोग्यतां लभते नरः। एतदेव विवरीतुं प्रतिजानीते
+-- **स्वेति।** सिद्धिं वक्ष्यमाणां मुख्यसंन्यासलक्षणां नैष्कर्म्यसिद्धिं
+यथा येन प्रकारेण।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥18.45॥ एतेषां जातिविहितानां कर्मणां सभ्यगनुतिष्ठानां
+मोक्षापेक्षामन्तरेण विहितत्वादेवानुष्ठानात्स्वर्गप्राप्तिः फलंसर्व एते
+पुण्यलोका भवन्ति वर्णा आश्रमाः स्वकर्मनिष्ठाः प्रत्येकं कर्मफलमनुभूय ततः
+शेषेण विशिष्टदेशजातिकुलधर्मायुःश्रुतवृत्तवित्तसुखमेधसो जन्म
+प्रतिपद्यन्तेयस्तु सभ्यक्करोत्येतं गृहस्थः परमं विधम्।
+तद्वर्णबन्धमुक्तोऽसौ लोकानाप्नोत्यनुत्तमान्। यस्त्वेतां नियतं चर्यां
+वानप्रस्थश्चरेन्मुनिः। स दहत्यग्निवद्दोषाञ्जयेल्लोकांश्च,शाश्वतान्।
+मोक्षाश्रमं यश्चरते यथोक्तं शुचिः सुसंकल्पितबुद्धियुक्तः। अर्निधनं
+ज्योतिरिव प्रशान्तं स ब्रह्मलोकं श्रयते द्विजातिः
+इत्यादिश्रुतिस्मृतिपुराणेभ्यः। एतेषामेव मोक्षापेक्षया सभ्यगनुष्ठितानां
+यत्फलं तद्वक्तुभारभते। स्वेस्वे यथोक्तभेदे कर्मम्यभिरतः तत्परोऽधिकृतः
+पुरुषः संसिद्धिं स्वकर्मानुष्ठानादशुद्धिक्षये सति कायेन्द्रियमनसां
+ज्ञानानिष्ठायोग्यतालक्षणां लभते प्राप्नोति। कथं लभते इत्यपेक्षायामाह --
+स्वकर्मनिरतः यथा येन प्रकारेण सिद्धिमुक्तलक्षणां विन्दति लभते तत्तथा
+श्रुणु।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥18.45॥ तदेवं वर्णानां स्वभावजा गौणाख्या गुणधर्मा अभिहिताः। अन्येऽपि
 धर्माः शास्त्रेष्वाम्नाताः। तदुक्तं भविष्यपुराणेधर्माच्छ्रेयः
 समुद्दिष्टं श्रेयोऽभ्युदयलक्षणम्। स तु पञ्चविधः प्रोक्तो वेदमूलः
-सनातनः।। वर्णधर्मः स्मृतस्त्वेक आश्रमाणामतः परम्। वर्णाश्रमस्तृतीयस्तु
-गौणो नैमित्तिकस्तथा।। वर्णत्वमेकमाश्रित्य यो धर्मः संप्रवर्तते। वर्णधर्मः
-स उक्तस्तु यथोपनयनं नृप।। यस्त्वाश्रमं समाश्रित्य अधिकारः प्रवर्तते। स
-खल्वाश्रमधर्मः स्याद्भिक्षादण्डादिको यथा।। वर्णत्वमाश्रमत्वं च योऽधिकृत्य
-प्रवर्तते। स वर्णाश्रमधर्मस्तु मौञ्ज्याद्या मेखला यथा।। यो गुणेन
+सनातनः॥ वर्णधर्मः स्मृतस्त्वेक आश्रमाणामतः परम्। वर्णाश्रमस्तृतीयस्तु
+गौणो नैमित्तिकस्तथा॥ वर्णत्वमेकमाश्रित्य यो धर्मः संप्रवर्तते। वर्णधर्मः
+स उक्तस्तु यथोपनयनं नृप॥ यस्त्वाश्रमं समाश्रित्य अधिकारः प्रवर्तते। स
+खल्वाश्रमधर्मः स्याद्भिक्षादण्डादिको यथा॥ वर्णत्वमाश्रमत्वं च योऽधिकृत्य
+प्रवर्तते। स वर्णाश्रमधर्मस्तु मौञ्ज्याद्या मेखला यथा॥ यो गुणेन
 प्रवर्तेत गुणधर्मः स उच्यते। यथा मूर्धाभिषिक्तस्य प्रजानां
-परिपालनम्।। निमित्तमेकमाश्रित्य यो धर्माः संप्रवर्तते। नैमित्तिकः स
-विज्ञेयः प्रायश्चित्तविधिर्यथा।। अधिकारोऽत्र धर्मः। चतुर्विधं धर्ममाह
+परिपालनम्॥ निमित्तमेकमाश्रित्य यो धर्माः संप्रवर्तते। नैमित्तिकः स
+विज्ञेयः प्रायश्चित्तविधिर्यथा॥ अधिकारोऽत्र धर्मः। चतुर्विधं धर्ममाह
 हारीतःअथाश्रमिणां धर्मः पृथग्धर्मो विशेषधर्मः समानधर्मः
 कृत्स्नधर्मश्चेति। पृथगाश्रमानुष्ठानात्पृथग्धर्मो यथा चातुर्वर्ण्यधर्मः
 स्वाश्रमविशेषानुष्ठानात्; विशेषधर्मो यथा
 नैष्ठिकयायावरानुज्ञापिकचातुराश्रम्यसिद्धानां सर्वेषां यः समानो धर्मः स
 समानधर्मो नैष्ठिकः कृत्स्नधर्म इति। नैष्ठिको ब्रह्मचारिविशेषः। यायावरो
 गृहस्थविशेषः। आनुज्ञापिको वानप्रस्थविशेषः। चातुराश्रम्यसिद्धो यतिविशेषः
-सर्वेषामिति वर्णानामाश्रमाणां च।। तत्राद्यो यथा महाभारतेआनृशंस्यमहिंसा
-चाप्रमादः संविभागिता। श्राद्धकर्मातिथेयं च सत्यमक्रोध एव च।। स्वेषु
+सर्वेषामिति वर्णानामाश्रमाणां च॥ तत्राद्यो यथा महाभारतेआनृशंस्यमहिंसा
+चाप्रमादः संविभागिता। श्राद्धकर्मातिथेयं च सत्यमक्रोध एव च॥ स्वेषु
 दारेषु संतोषः शौचं नित्याऽनसूयता। आत्मज्ञानं तितिक्षा च धर्मः साधारणो
-नृप।। सर्वाश्रमसाधारणस्तु प्रागुदाहृतः। निष्ठा संसारसमाप्तिस्तत्प्रयोजनो
+नृप॥ सर्वाश्रमसाधारणस्तु प्रागुदाहृतः। निष्ठा संसारसमाप्तिस्तत्प्रयोजनो
 नैष्ठिकः। मोक्षहेत्वात्मज्ञानोत्पत्तिप्रतिबन्धकपरिहाराय
 निष्कामकर्मानुष्ठानं कृत्स्नधर्म इत्यर्थः। आश्रमाश्च शास्त्रेषु चत्वार
 आम्नाताः। यथाह गौतमःतस्याश्रमविकल्पमेके ब्रुवते ब्रह्मचारी गृहस्थो
@@ -230,7 +165,7 @@ devoted to his own duty; vindati, acheives; siddim, success.
 वेदमधीत्य वेदौ वेदान्वाऽविशीर्णब्रह्मचर्यो यमिच्छेत्तमावसेदिति। एवं
 तेषां पृथग्धर्मा अप्याम्नाताः। तथा फलमप्यज्ञानामाम्नातम्। यथाह
 मनुःश्रुतिस्मृत्युदितं धर्ममनुतिष्ठन्हि मानवः। इह कीर्तिमवाप्नोति
-प्रेत्य चानुत्तमं सुखम्।। अनुत्तमं सुखमिति
+प्रेत्य चानुत्तमं सुखम्॥ अनुत्तमं सुखमिति
 यथाप्राप्ततत्तत्फलोपलक्षणार्थम्। आपस्तम्बःसर्ववर्णानां स्वधर्मानुष्ठाने
 परमपरिमितं सुखं ततः परिवृत्तौ कर्मफलशेषेण जातिं रूपं वर्णं वृत्तं मेधां
 प्रज्ञां द्रव्याणि धर्मानुष्ठानमिति प्रतिपद्यन्ते। गौतमःवर्णा आश्रमाश्च
@@ -244,12 +179,12 @@ devoted to his own duty; vindati, acheives; siddim, success.
 यथेष्टचेष्टा विपरीता नरकादौ जन्म प्रतिपद्य विनश्यन्ति कृमिकीटादिभावेन
 सर्वपुरुषार्थेभ्यो भ्रंशन्त इत्यर्थः। हारीतःकाम्यैः
 केचिद्यज्ञदानैस्तपोभिर्लब्ध्वा लोकान्पुनरायान्ति जन्म। कामैर्मुक्ताः
-सत्ययज्ञाः सुदानास्तपोनिष्ठाश्चाक्षयान्यान्ति लोकान्।। अत्र
+सत्ययज्ञाः सुदानास्तपोनिष्ठाश्चाक्षयान्यान्ति लोकान्॥ अत्र
 कामनासदसद्भावनिबन्धनः फलभेदो दर्शितः भविष्यपुराणेफलं विनाप्यनुष्ठानं
 नित्यानामिष्यते स्फुटम्। काम्यानां स्वफलार्थं तु दोषघातार्थमेव
-तु।। नैमित्तिकानां करणे त्रिविधं कर्मणां फलम्। क्षयं केचिदुपात्तस्य
-दुरितस्य प्रचक्षते।। अनुत्पत्तिं तथा चान्ये प्रत्यवायस्य मन्वते। नित्यं
-क्रियां तथा चान्ये आनुषङ्गिफलं विदुः।। अन्ये आपस्तम्बादयः। तद्यथाऽम्रे
+तु॥ नैमित्तिकानां करणे त्रिविधं कर्मणां फलम्। क्षयं केचिदुपात्तस्य
+दुरितस्य प्रचक्षते॥ अनुत्पत्तिं तथा चान्ये प्रत्यवायस्य मन्वते। नित्यं
+क्रियां तथा चान्ये आनुषङ्गिफलं विदुः॥ अन्ये आपस्तम्बादयः। तद्यथाऽम्रे
 फलार्थे निमिते इत्यादिवचनैरानुषङ्गिकफलतां नित्यकर्मणो विदुः।
 श्रुतिश्चत्रयो धर्मस्कन्धा यज्ञोऽध्ययनं दानमिति प्रथमस्तप एव द्वितीयो
 ब्रह्मचर्यादाचार्यकुलवासी तृतीयोऽत्यन्तमात्मानमाचार्यकुलेऽवसादयन्निति
@@ -266,129 +201,118 @@ devoted to his own duty; vindati, acheives; siddim, success.
 देवताधिकरणे। ननु बन्धहेतूनां कर्मणां कथं
 मोक्षहेतुत्वमुपासनाविशेषादित्याह -- स्वकर्मनिरतः सिद्धिमुक्तलक्षणां यथा
 येन प्रकारेण विन्दति तच्छृणु। श्रुत्वा तं प्रकारमवधारयेत्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।18.45।। कर्मप्रविभागफलमाह -- **स्वे स्वे इति।** स्वे स्वे
-मन्वादिभिरुक्तेऽध्यापनादौ असाधारणे शमदमादौ साधारणे च कर्मणि अभिरतो
-निष्ठावन् संसिद्धिं ज्ञानयोग्यतां लभते नरः। एतदेव विवरीतुं प्रतिजानीते
--- **स्वेति।** सिद्धिं वक्ष्यमाणां मुख्यसंन्यासलक्षणां नैष्कर्म्यसिद्धिं
-यथा येन प्रकारेण।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।18.45।। एतेषां जातिविहितानां कर्मणां सभ्यगनुतिष्ठानां
-मोक्षापेक्षामन्तरेण विहितत्वादेवानुष्ठानात्स्वर्गप्राप्तिः फलंसर्व एते
-पुण्यलोका भवन्ति वर्णा आश्रमाः स्वकर्मनिष्ठाः प्रत्येकं कर्मफलमनुभूय ततः
-शेषेण विशिष्टदेशजातिकुलधर्मायुःश्रुतवृत्तवित्तसुखमेधसो जन्म
-प्रतिपद्यन्तेयस्तु सभ्यक्करोत्येतं गृहस्थः परमं विधम्।
-तद्वर्णबन्धमुक्तोऽसौ लोकानाप्नोत्यनुत्तमान्। यस्त्वेतां नियतं चर्यां
-वानप्रस्थश्चरेन्मुनिः। स दहत्यग्निवद्दोषाञ्जयेल्लोकांश्च,शाश्वतान्।
-मोक्षाश्रमं यश्चरते यथोक्तं शुचिः सुसंकल्पितबुद्धियुक्तः। अर्निधनं
-ज्योतिरिव प्रशान्तं स ब्रह्मलोकं श्रयते द्विजातिः
-इत्यादिश्रुतिस्मृतिपुराणेभ्यः। एतेषामेव मोक्षापेक्षया सभ्यगनुष्ठितानां
-यत्फलं तद्वक्तुभारभते। स्वेस्वे यथोक्तभेदे कर्मम्यभिरतः तत्परोऽधिकृतः
-पुरुषः संसिद्धिं स्वकर्मानुष्ठानादशुद्धिक्षये सति कायेन्द्रियमनसां
-ज्ञानानिष्ठायोग्यतालक्षणां लभते प्राप्नोति। कथं लभते इत्यपेक्षायामाह --
-स्वकर्मनिरतः यथा येन प्रकारेण सिद्धिमुक्तलक्षणां विन्दति लभते तत्तथा
-श्रुणु।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.45।। एवंविधस्य स्वस्वकर्मणः स्वसंसिद्धिहेतुत्वमाह -- स्वे स्व
+॥18.45॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥18.45॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
+-- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
+स्वधर्मप्रवृत्त्या विज्ञानपूततया च न कर्मसंबन्धस्तव। अथैतन्नानुमन्यसे; तदवश्यं तव प्रवृत्त्या तावत् भाव्यम् जातेरेव तथाभावे स्थितत्वात्। यतः सर्वः स्वभावनियतः +++(S;;N स्वस्वभावनियतः )+++ कुतश्चिद्दोषात् तिरोहिततत्स्वभावः +++(S;;N -- हिततत्तत्स्वभावः )+++ कंचित्कालं भूत्वापि; तत्तिरोधायकविगमे स्वभावं व्यक्त्यापन्नं लभत एव। तथाहि एवंविधो वर्णनां स्वभावः। एवमवश्यंभाविन्यां प्रवृत्तौ ततः फलविभागिता भवेत्॥ तदाह -- ब्राह्मणेत्यादि अवशोऽपि तत् इत्यन्तम्। ब्राह्मणादीनां कर्मप्रविभागनिरूपणस्य स्वभावोऽश्यं नातिक्रामति,+++(S; ; N omit न and read अतिक्रामति )+++ इति क्षत्रियस्वभावस्य भवतोऽनिच्छतोऽपि प्रकृतिः स्वभावाख्या नियोक्तृताम् अव्यभिचारेण भजते। केवलं तया नियुक्तस्य पुण्यपापसंबन्धः। अतः मदभिहितविज्ञानप्रमाणपुरःसरीकारेण कर्माण्यनुतिष्ठ। तथा सति बन्धो निवर्त्स्यति। इत्यस्यार्थस्य परिकरघटनतात्पर्यं +++(S; ; N -- करबन्धघटन -- )+++ महावाक्यार्थस्य। अवान्तरवाक्यानां स्पष्टा ( ष्टोऽ ) र्थः। समासेन +++(S omits समासेन )+++ ( श्लो. 50 ) संक्षेपेण। ज्ञानस्य; प्रागुक्तस्य। निष्ठां ( ष्ठा ) वाग्जालपरिहारेण निश्चितामाह। बुद्ध्या विशुद्धया इत्यादि सर्वमेतत् व्याख्यातप्रायमिति न पुनरायस्यते,+++(N -- रारभ्यते )+++।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.45 See Comment under 18.60
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.45॥ एवंविधस्य स्वस्वकर्मणः स्वसंसिद्धिहेतुत्वमाह -- स्वे स्व
 इत्यर्द्धेन। अनेन परधर्मो व्यावर्त्तितः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.45।। यदर्थं कर्म निरूपितं तदाह -- स्वे स्व इति। स्वे स्वे
+<details><summary>पुरुषोत्तमः</summary>
+
+॥18.45॥ यदर्थं कर्म निरूपितं तदाह -- स्वे स्व इति। स्वे स्वे
 स्वस्वविहिते कर्मणि अभिरतः प्रीतियुक्तो नरो मनुष्यः संसिद्धिं सम्यक्
 सिद्धिं मत्प्रसादात्मिकां लभते प्राप्नोति। ननु प्रीतिमात्रेण कथं सिद्धिः
 इत्यत आह -- स्वकर्मेति सार्द्धेन। स्वकर्मनिरतः स्वविहितकर्मनिष्ठो यथा
-येन प्रकारेण सिद्धिं विन्दति जानाति तं प्रकारं शृणु।  
-  
-
+येन प्रकारेण सिद्धिं विन्दति जानाति तं प्रकारं शृणु।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।18.45।। एवंभूतस्य ब्राह्मणादिकर्मणो ज्ञानहेतुत्वमाह **-- स्वे स्व
+॥18.45॥ एवंभूतस्य ब्राह्मणादिकर्मणो ज्ञानहेतुत्वमाह **-- स्वे स्व
 इति।** स्वस्वाधिकारविहितकर्मण्यभिरतः परिनिष्ठितो नरः संसिद्धिं
 ज्ञानयोग्यतां लभते। कर्मणां ज्ञानप्राप्तिप्रकारमाह **-- स्वकर्मेति
 सार्धेन।** स्वकर्मपरिनिष्ठितो यथा येन प्रकारेण तत्त्वज्ञानं लभते तं
 प्रकारं श्रृणु।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।18.45।। अपने स्वभाव एवं विकास की स्थिति को पहचान कर प्रत्येक व्यक्ति
-को अपने स्वाभाविक कर्म का निष्ठापूर्वक पालन करना चाहिए। इसी कर्तव्य पालन
-से प्रथम चित्तशुद्धि एवं तदुपरान्त परमात्मस्वरूप की अनुभूति की संसिद्धि
-प्राप्त हो सकती है। केवल सतही दृष्टिकोण से अवलोकन करने पर मनुष्यों का
-उपर्युक्त चतुर्विध वर्गीकरण स्पष्टत बोधगम्य नहीं हो सकता। परन्तु जीवन
-में श्रेष्ठ उपलब्धियों को प्राप्त किये महान् पुरुषों के जीवन चरित्र इस
-वर्गीकरण की सत्यता का बारम्बार उद्घोष करते हैं। एक छोटे से बालक ने भेड़
-पालन के कार्य को अस्वीकार कर दिया और पेरिस जा पहुँचा; जो कालान्तर में
-विश्व में नेपोलियन के नाम से प्रसिद्ध महानतम सेनापति बना। गोल्डस्मिथ या
-कीट्स व्यापारिक कार्य द्वारा आराम एवं सुखसुविधाओं का जीवन जीने की
-अपेक्षा किसी अटारी में रहते हुए काव्य रचना करना अधिक पसन्द करेगा।
-प्रत्येक मनुष्य अपने स्वभाव के अनुरूप कार्यक्षेत्र में कर्म करते हुए ही
-सुख एवं पूर्णता का अनुभव करता है। मानव के लौकिक व्यवहार; मानसिक स्वभाव
-एवं बौद्धिक अभिरुचि के आधार पर किया गया यह विवकपूर्ण वर्गीकरण केवल भारत
-में ही नहीं; वरन् सर्वत्र प्रयोज्य (लागू करने योग्य) है। जीवन में इसकी
-प्रयोज्यता तथा मनुष्य के विकास के लिए इसकी उपादेयता सार्वभौमिक है। अब
-भगवान् श्रीकृष्ण सिद्धि प्राप्ति की साधना बताते हैं
-
+18.45 Devoted to his duty, man attains perfection. Hear now how one devoted to his own duty attains perfection.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.45।। अपने-अपने स्वाभाविक कर्म में अभिरत मनुष्य संसिद्धि को प्राप्त
-कर लेता है। स्वकर्म में रत मनुष्य किस प्रकार सिद्धि प्राप्त करता है, उसे
-तुम सुनो।।
+<details><summary>गम्भीरानन्दः</summary>
 
+18.45 Being devoted to his own duty, man attains complete success. Hear that as to how one devoted to his own duty achieves success.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+18.45 Perfection is attained when each attends diligently to his duty.
+Listen and I will tell you how it is attained by him who always minds his own duty.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.45. A man, devoted to his own respective action, attains success.
+Devoted to one's own action, how one attains success that you must hear from Me.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+18.45 Each man devoted to his own duty attains perfection. How he attains perfection while being engaged in his own duty, hear now.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+18.45 स्वे in own; स्वे in own; कर्मणि to duty; अभिरतः devoted;
+संसिद्धिम् perfection; लभते attains; नरः a man; स्वकर्मनिरतः engaged in his own duty; सिद्धिम् perfection; यथा how; विन्दति finds; तत् that;
+श्रृणु hear.Commentary This is the division of labour for which each caste is fitted according to its own nature. The duty prescribed is your sole support; and the highest service you can render to the Supreme is to carry it out wholeheartedly; without expectation of fruits; with the attitutde of dedication to the Lord. This will surely lead you to the Supreme. All the impurities of the mind will be washed away by the performance of ones own duty and you will be fit for Selfknowledge.Sve sve karmani Each devoted to his own duty in accordance with his nature
+(Guna) or caste. It is impossible to attain Moksha by works alone but works purify the heart and prepare the aspirant for receiving the divine light.The attitude of worshipfulness is prescribed for work
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.45।। अपने-अपने कर्ममें तत्परतापूर्वक लगा हुआ मनुष्य सम्यक्
 सिद्धि-(परमात्मा-)को प्राप्त कर लेता है। अपने कर्ममें लगा हुआ मनुष्य जिस
 प्रकार सिद्धिको प्राप्त होता है; उस प्रकारको तू मेरेसे सुन।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।18.45।।***व्याख्या --***  **स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते
 नरः --** गीताके अध्ययनसे ऐसा मालूम होता है कि मनुष्यकी जैसी स्वतःसिद्ध
@@ -462,59 +386,35 @@ _________________
 है। उसकी दैनिकचर्या अर्थात् खानापीना आदि सब क्रियाएँ भी पूजनसामग्री बन
 जाती हैं। जैसे ज्ञानयोगीका मैं कुछ भी नहीं करता हूँ यह भाव हरदम बना रहता
 है; ऐसे ही अनेक प्रकारकी,क्रियाएँ करनेपर भी भक्तके भीतर एक भगवद्भाव हरदम
-बना रहता है। उस भावकी गाढ़तामें उसका अहंभाव भी छूट जाता है।  
-  
-
+बना रहता है। उस भावकी गाढ़तामें उसका अहंभाव भी छूट जाता है।
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-18.45. A man, devoted to his own respective action, attains success.
-Devoted to one's own action, how one attains success that you must hear from Me.
-
+।।18.45।। अपने स्वभाव एवं विकास की स्थिति को पहचान कर प्रत्येक व्यक्ति
+को अपने स्वाभाविक कर्म का निष्ठापूर्वक पालन करना चाहिए। इसी कर्तव्य पालन
+से प्रथम चित्तशुद्धि एवं तदुपरान्त परमात्मस्वरूप की अनुभूति की संसिद्धि
+प्राप्त हो सकती है। केवल सतही दृष्टिकोण से अवलोकन करने पर मनुष्यों का
+उपर्युक्त चतुर्विध वर्गीकरण स्पष्टत बोधगम्य नहीं हो सकता। परन्तु जीवन
+में श्रेष्ठ उपलब्धियों को प्राप्त किये महान् पुरुषों के जीवन चरित्र इस
+वर्गीकरण की सत्यता का बारम्बार उद्घोष करते हैं। एक छोटे से बालक ने भेड़
+पालन के कार्य को अस्वीकार कर दिया और पेरिस जा पहुँचा; जो कालान्तर में
+विश्व में नेपोलियन के नाम से प्रसिद्ध महानतम सेनापति बना। गोल्डस्मिथ या
+कीट्स व्यापारिक कार्य द्वारा आराम एवं सुखसुविधाओं का जीवन जीने की
+अपेक्षा किसी अटारी में रहते हुए काव्य रचना करना अधिक पसन्द करेगा।
+प्रत्येक मनुष्य अपने स्वभाव के अनुरूप कार्यक्षेत्र में कर्म करते हुए ही
+सुख एवं पूर्णता का अनुभव करता है। मानव के लौकिक व्यवहार; मानसिक स्वभाव
+एवं बौद्धिक अभिरुचि के आधार पर किया गया यह विवकपूर्ण वर्गीकरण केवल भारत
+में ही नहीं; वरन् सर्वत्र प्रयोज्य (लागू करने योग्य) है। जीवन में इसकी
+प्रयोज्यता तथा मनुष्य के विकास के लिए इसकी उपादेयता सार्वभौमिक है। अब
+भगवान् श्रीकृष्ण सिद्धि प्राप्ति की साधना बताते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.45 Being devoted to his own duty, man attains complete success. Hear that as to how one devoted to his own duty achieves success.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।18.45।। अपने-अपने स्वाभाविक कर्म में अभिरत मनुष्य संसिद्धि को प्राप्त
+कर लेता है। स्वकर्म में रत मनुष्य किस प्रकार सिद्धि प्राप्त करता है, उसे
+तुम सुनो।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.45 Perfection is attained when each attends diligently to his duty.
-Listen and I will tell you how it is attained by him who always minds his own duty.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-18.45 Devoted to his duty, man attains perfection. Hear now how one devoted to his own duty attains perfection.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-18.45 Each man devoted to his own duty attains perfection. How he attains perfection while being engaged in his own duty, hear now.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-18.45 स्वे in own; स्वे in own; कर्मणि to duty; अभिरतः devoted;
-संसिद्धिम् perfection; लभते attains; नरः a man; स्वकर्मनिरतः engaged in his own duty; सिद्धिम् perfection; यथा how; विन्दति finds; तत् that;
-श्रृणु hear.Commentary This is the division of labour for which each caste is fitted according to its own nature. The duty prescribed is your sole support; and the highest service you can render to the Supreme is to carry it out wholeheartedly; without expectation of fruits; with the attitutde of dedication to the Lord. This will surely lead you to the Supreme. All the impurities of the mind will be washed away by the performance of ones own duty and you will be fit for Selfknowledge.Sve sve karmani Each devoted to his own duty in accordance with his nature
-(Guna) or caste. It is impossible to attain Moksha by works alone but works purify the heart and prepare the aspirant for receiving the divine light.The attitude of worshipfulness is prescribed for work
-
-</details>
 </div>

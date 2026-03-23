@@ -1,148 +1,68 @@
 +++
 title = "05 अशास्त्रविहितङ् घोरम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **अ-शास्त्र-विहितं** घोरं  
 **तप्यन्ते** ये तपो जनाः।  
 दम्भाहङ्कार-संयुक्ताः  
 काम-राग-बलान्विताः …॥17.5॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः।  
-दम्भाहङ्कारसंयुक्ताः कामरागबलान्विताः।।17.5।।
+दम्भाहङ्कारसंयुक्ताः कामरागबलान्विताः॥17.5॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।17.5।।**अशास्त्रविहितम्** अति **घोरम्** अपि **तपो ये जनाः तप्यन्ते;**
-प्रदर्शनार्थम् इदम्; अशास्त्रविहितं बह्वायासं यागादिकं ये कुर्वते; **ते
-दम्भाहङ्कारसंयुक्ताः कामरागबलान्विताः शरीरस्थं** पृथिव्यादिभूतसमूहं
-**कर्शयन्तो** मदंशभूतं जीवं **च अन्तःशरीरस्थं** कर्शयन्तो ये तप्यन्ते
-यागादिकं च कुर्वते; **तान् आसुरनिश्चयान् विद्धि।**
-
+॥17.5॥**अशास्त्रविहितम्** अति **घोरम्** अपि **तपो ये जनास् तप्यन्ते;** प्रदर्शनार्थम् इदम्; अशास्त्रविहितं बह्वायासं यागादिकं ये कुर्वते; **ते दम्भाहङ्कारसंयुक्ताः कामरागबलान्विताः शरीरस्थं** पृथिव्यादिभूतसमूहं **कर्शयन्तो** मदंशभूतं जीवं **च अन्तःशरीरस्थं** कर्शयन्तो ये तप्यन्ते यागादिकं च कुर्वते; **तान् आसुरनिश्चयान् विद्धि।**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।17.5।। एवमर्थात्प्रश्नस्य निषेधः कृतः अथ कण्ठोक्त्येत्यभिप्रायेणाऽऽह --
-एवमिति। न स सिद्धिम् \[16।23\] इत्यादिप्रागुक्तस्मारणायन कश्चिदपि सुखलव
-इत्युक्तम्। अपित्वनर्थ एवेत्यनेन पूर्वोक्तनरकपतनस्मारणम्।
-प्रश्नवाक्यगतश्रद्धान्वितत्वानुभाषणविवक्षया तत्कार्यातिप्रयासज्ञापनपरो
-घोरशब्द इत्यभिप्रायेणाऽऽहअतिघोरमपीति। ननुयजन्ते श्रद्धयाऽन्विताः
-\[9।23\] इति यागविषये प्रश्ने तप्यन्त इति तपसोत्तरं कथं सङ्गच्छते
-इत्यत्राऽऽहप्रदर्शनार्थमिदमिति। सङ्ग्राहकाकारं दर्शयन्
-फलितमाहअशास्त्रविहितमिति। वेदबाह्यागमोक्तं
-वैदिकमप्यनधिकारिभिर्देशकालद्रव्यक्रियादिनियमानादरेणायथानुष्ठितं
-चाशास्त्रविहितम्।
-दारुणपर्यायघोरशब्दाभिप्रेतमाहबह्वायासमिति। यागादिकमित्यनेन प्रश्नेऽपि
-यागग्रहणं प्रदर्शनार्थमिति ज्ञापितम्। अत एव हि
-प्रश्नोत्तरयोरेकविषयत्वम्। शास्त्रैरचोदितानां चोदकान्तरमुच्यते --
-दम्भाहङ्कारसंयुक्ता इत्यादिना। बलमत्र कामरागयुक्तत्वादसात्त्विकम्। बलं
-बलवतां चाहं कामरागविवर्जितम् \[7।11\] इति हि प्रागुक्तम्। न केवलं परत्र
-नरकम् अपित्विहापि कायकर्शनमित्यभिप्रायेण
-शरीरस्थभूतसमूहकर्शनोक्तिः। अन्तर्याम्यमृतः \[बृ.उ.3।7।3 -- 23\]
-अनश्नन्नन्यो अभिचाकशीति \[मुं.उ.3।1।1\]न स्थानतोऽपि परस्योभयलिङ्गं
-सर्वत्र हि \[ब्र.सू.3।2।11\] इत्यादिभिः परमात्मनः स्वरूपतो धर्मतो वा
-कर्शनासम्भवात्। सम्भवे च शास्त्रविहितोपवासादिभिरपि प्रसङ्गाच्छरीरकर्शनेन
-च शरीरिणां क्षेत्रज्ञानां ज्ञानसुखादिसङ्कोचरूपस्य कर्शनस्य
-श्रुतिस्मृतिलोकसिद्धत्वात्अन्तश्शरीरस्थम् इत्यनेन
-शरीरावच्छिन्नक्षेत्रज्ञत्वसूचनात्क्षेत्रज्ञं चापि मां विद्धि
-\[13।3\]ममैवांशः \[15।7\] इति प्रागुक्तप्रक्रियया
-सर्वशरीरकपरमात्मविशेषणांशभूतजीवविवक्षयाऽत्र मामिति निर्देश
-इत्याहमदंशभूतं जीवमिति। मच्छरीरभूतजीवपीडनं मत्पीडनतुल्यमिति
-दोषातिशयसूचनार्थोऽयमुपचारः। शास्त्रोल्लङ्घनेनात्मपीडनरूपमपि
-पापमेषामायातमित्यभिप्रायः। यज्ञस्य स्वतो
-याज्यभावनत्वाच्छास्त्रीयप्रकारविरहेऽपि नात्यन्तविकलता तपसस्तु स्वतः
-सर्वकर्शनतया शास्त्रीयप्रकाराभावे भावनत्वं न स्यादिति हैतुकप्रायाणां
-विभागं प्रतिक्षेप्तुमाहयागादिकं चेति। आसुरो निश्चयो येषां
-तेऽत्रासुरनिश्चयाः तत्र तद्धितस्येह सम्बन्धमात्रपरतामाहअसुराणामिति।
-तदभिप्रेतनिश्चयस्य विशेषं व्यञ्जयितुमाहअसुराहीति। आसुरनिश्चयत्वख्यापनं
-प्रागुक्तानर्थपर्यवसानप्रकाशनायेत्याहमदाज्ञाविपरीतकारित्वादिति। आसुरनिश्चयान्
-इत्येतावता कथमयमर्थः सिद्ध्येत् इत्यत्राऽऽह -- पूर्वमेवेति।
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥17.5॥ एवमर्थात्प्रश्नस्य निषेधः कृतः अथ कण्ठोक्त्येत्यभिप्रायेणाऽऽह -- एवमिति। न स सिद्धिम् \[16।23\] इत्यादिप्रागुक्तस्मारणायन कश्चिदपि सुखलव इत्युक्तम्। अपित्वनर्थ एवेत्यनेन पूर्वोक्तनरकपतनस्मारणम्। प्रश्नवाक्यगतश्रद्धान्वितत्वानुभाषणविवक्षया तत्कार्यातिप्रयासज्ञापनपरो घोरशब्द इत्यभिप्रायेणाऽऽहअतिघोरमपीति। ननुयजन्ते श्रद्धयाऽन्विताः \[9।23\] इति यागविषये प्रश्ने तप्यन्त इति तपसोत्तरं कथं सङ्गच्छते इत्यत्राऽऽहप्रदर्शनार्थमिदमिति। सङ्ग्राहकाकारं दर्शयन् फलितमाहअशास्त्रविहितमिति। वेदबाह्यागमोक्तं वैदिकमप्यनधिकारिभिर्देशकालद्रव्यक्रियादिनियमानादरेणायथानुष्ठितं चाशास्त्रविहितम्। दारुणपर्यायघोरशब्दाभिप्रेतमाहबह्वायासमिति। यागादिकमित्यनेन प्रश्नेऽपि यागग्रहणं प्रदर्शनार्थमिति ज्ञापितम्। अत एव हि प्रश्नोत्तरयोरेकविषयत्वम्। शास्त्रैरचोदितानां चोदकान्तरमुच्यते -- दम्भाहङ्कारसंयुक्ता इत्यादिना। बलमत्र कामरागयुक्तत्वादसात्त्विकम्। बलं बलवतां चाहं कामरागविवर्जितम् \[7।11\] इति हि प्रागुक्तम्। न केवलं परत्र नरकम् अपित्विहापि कायकर्शनमित्यभिप्रायेण शरीरस्थभूतसमूहकर्शनोक्तिः। अन्तर्याम्यमृतः \[बृ.उ.3।7।3 -- 23\] अनश्नन्नन्यो अभिचाकशीति \[मुं.उ.3।1।1\]न स्थानतोऽपि परस्योभयलिङ्गं सर्वत्र हि \[ब्र.सू.3।2।11\] इत्यादिभिः परमात्मनः स्वरूपतो धर्मतो वा कर्शनासम्भवात्। सम्भवे च शास्त्रविहितोपवासादिभिरपि प्रसङ्गाच्छरीरकर्शनेन च शरीरिणां क्षेत्रज्ञानां ज्ञानसुखादिसङ्कोचरूपस्य कर्शनस्य श्रुतिस्मृतिलोकसिद्धत्वात्अन्तश्शरीरस्थम् इत्यनेन शरीरावच्छिन्नक्षेत्रज्ञत्वसूचनात्क्षेत्रज्ञं चापि मां विद्धि \[13।3\]ममैवांशः \[15।7\] इति प्रागुक्तप्रक्रियया सर्वशरीरकपरमात्मविशेषणांशभूतजीवविवक्षयाऽत्र मामिति निर्देश इत्याहमदंशभूतं जीवमिति। मच्छरीरभूतजीवपीडनं मत्पीडनतुल्यमिति दोषातिशयसूचनार्थोऽयमुपचारः। शास्त्रोल्लङ्घनेनात्मपीडनरूपमपि पापमेषामायातमित्यभिप्रायः। यज्ञस्य स्वतो याज्यभावनत्वाच्छास्त्रीयप्रकारविरहेऽपि नात्यन्तविकलता तपसस्तु स्वतः सर्वकर्शनतया शास्त्रीयप्रकाराभावे भावनत्वं न स्यादिति हैतुकप्रायाणां विभागं प्रतिक्षेप्तुमाहयागादिकं चेति। आसुरो निश्चयो येषां तेऽत्रासुरनिश्चयाः तत्र तद्धितस्येह सम्बन्धमात्रपरतामाहअसुराणामिति। तदभिप्रेतनिश्चयस्य विशेषं व्यञ्जयितुमाहअसुराहीति। आसुरनिश्चयत्वख्यापनं प्रागुक्तानर्थपर्यवसानप्रकाशनायेत्याहमदाज्ञाविपरीतकारित्वादिति। आसुरनिश्चयान् इत्येतावता कथमयमर्थः सिद्ध्येत् इत्यत्राऽऽह -- पूर्वमेवेति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.5 - 17.6 'Those men who perform terrible pernances not enjoined by the Sastras' - this is illustrative of sacrifices etc., of a similar nature. Those who perform sacrifices, etc., sacrifices which are not enjoined by the Sastras and demand much exertion, those who are possessed of 'ostentation and conceit and are goaded by sensual desire,
-attachment and passion' - they torture the group of elements such as earth etc., in their bodies. They also torture the individual self which is a part of Myself and is within their bodies. Those who perform such sacrifices etc., know them to be demoniacal in their resolves. The resolve of demons is demoniac resolve. The demons are those who act contrary to My ;ndments. Since they act contrary to My ;ndments, they do not have even a iota of joy, but as stated earlier, they fall a prey to a multitude of calamities. 'They fall into a foul Naraka' (16.16). Now,
-Sri Krsna, resuming the subject, details the differences according to the Gunas with reference to sacrifice, etc., enjoined by the Sastras. To begin with, he describes three kinds of food, since the growth of Sattva etc., has its source in food, as Srutis declare thus: 'For my dear, the mind consists of food' (Cha. U., 6.5.4) and 'when the food is pure, the man becomes pure' (Cha. U., 7.26.2).
+<details><summary>आदिदेवानन्दः</summary>
 
+17.5 - 17.6 'Those men who perform terrible pernances not enjoined by the Sastras' - this is illustrative of sacrifices etc., of a similar nature. Those who perform sacrifices, etc., sacrifices which are not enjoined by the Sastras and demand much exertion, those who are possessed of 'ostentation and conceit and are goaded by sensual desire, attachment and passion' - they torture the group of elements such as earth etc., in their bodies. They also torture the individual self which is a part of Myself and is within their bodies. Those who perform such sacrifices etc., know them to be demoniacal in their resolves. The resolve of demons is demoniac resolve. The demons are those who act contrary to My ;ndments. Since they act contrary to My ;ndments, they do not have even a iota of joy, but as stated earlier, they fall a prey to a multitude of calamities. 'They fall into a foul Naraka' (16.16). Now, Sri Krsna, resuming the subject, details the differences according to the Gunas with reference to sacrifice, etc., enjoined by the Sastras. To begin with, he describes three kinds of food, since the growth of Sattva etc., has its source in food, as Srutis declare thus: 'For my dear, the mind consists of food' (Cha. U., 6.5.4) and 'when the food is pure, the man becomes pure' (Cha. U., 7.26.2).
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।17.4 -- 17.6।। यजन्त इत्यादि आसुरनिश्चयानित्यन्तम्। अचेतनम्
-अविवेकित्त्वात्। मां च कर्शयन्तः शास्त्रार्थननुष्ठानात्। अत एव ते
-स्वबुद्धिविरचितां +++(N स्वबुद्धिविचारिताम् )+++ तपश्चर्यां कुर्वणाः प्रत्युत
-तामसाः।
-
+॥17.5॥ --,**अशास्त्रविहितं** न शास्त्रविहितम् अशास्त्रविहितं **घोरं** पीडाकरं प्राणिनाम् आत्मनश्च तपः **तप्यन्ते** निर्वर्तयन्ति **ये तपो जनाः** ते च **दम्भाहंकारसंयुक्ताः;** दम्भश्च अहंकारश्च दम्भाहंकारौ; ताभ्यां संयुक्ताः दम्भाहंकारसंयुक्ताः; **कामरागबलान्विताः** कामश्च रागश्च कामरागौ तत्कृतं बलं कामरागबलं तेन अन्विताः कामरागबलान्विताः॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.5 See Comment under 17.6
+<details><summary>गम्भीरानन्दः</summary>
 
+17.5 Ye, those; janah, persons; who tapyante, undertake, perform;
+ghoram, severe; tapah, austerity, productive of pain to oneself as also
+to creatures; asastra-vihitam, not sanctioned by the scriptures; they,
+being dambh-ahankara-samyuktah, given to ostentation and pride; and
+kama-raga-bala-anvitah, impelled by the strength of passion and
+attachment, or possessed of passion, attachment and strength \[Kama-raga
+can also mean desirable objects and the desire to enjoy them.\]-.
 </details>
-</div>
 
+<details><summary>हरिकृष्णदासः</summary>
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।17.5।। Sri Madhvacharya did not comment on this sloka.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।17.5।। Sri Jayatirtha did not comment on this sloka.
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।17.5।। --,**अशास्त्रविहितं** न शास्त्रविहितम् अशास्त्रविहितं **घोरं**
-पीडाकरं प्राणिनाम् आत्मनश्च तपः **तप्यन्ते** निर्वर्तयन्ति **ये तपो
-जनाः** ते च **दम्भाहंकारसंयुक्ताः;** दम्भश्च अहंकारश्च दम्भाहंकारौ;
-ताभ्यां संयुक्ताः दम्भाहंकारसंयुक्ताः; **कामरागबलान्विताः** कामश्च
-रागश्च कामरागौ तत्कृतं बलं कामरागबलं तेन अन्विताः कामरागबलान्विताः।।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।17.5।। इस प्रकार कार्यसे जिनकी सात्त्विकादि निष्ठाओंका निर्णय किया गया
+॥17.5॥ इस प्रकार कार्यसे जिनकी सात्त्विकादि निष्ठाओंका निर्णय किया गया
 है उन ( स्वाभाविक श्रद्धावाले ) हजारों मनुष्योंमें कोई एक ही
 शास्त्रविधिका त्याग होनेपर देवपूजादिके परायण; सात्त्विक निष्ठायुक्त होता
 है। अधिकांश मनुष्य तो राजसी और तामसी निष्ठावाले ही होते हैं। कैसे ( सो
@@ -152,38 +72,45 @@ _________________
 अर्थात् अन्य प्राणियोंको और अपने शरीरको भी पीड़ा पहुँचानेवाला; तप; दम्भ
 और अहंकार -- इन दोनोंसे युक्त होकर तथा कामना और आसक्तिजनित बलसे युक्त
 होकर; अथवा कामना; आसक्ति और बलसे युक्त होकर तपते हैं।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.5 Ye, those; janah, persons; who tapyante, undertake, perform;
-ghoram, severe; tapah, austerity, productive of pain to oneself as also
-to creatures; asastra-vihitam, not sanctioned by the scriptures; they,
-being dambh-ahankara-samyuktah, given to ostentation and pride; and
-kama-raga-bala-anvitah, impelled by the strength of passion and
-attachment, or possessed of passion, attachment and strength \[Kama-raga
-can also mean desirable objects and the desire to enjoy them.\]-.
+<details><summary>आनन्दगिरिः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।17.5।। ननु सत्त्वादिनिष्ठाः शास्त्रेण ज्ञातुं शक्यन्ते कुतः
+॥17.5॥ ननु सत्त्वादिनिष्ठाः शास्त्रेण ज्ञातुं शक्यन्ते कुतः
 कार्यलिङ्गकानुमानेनेति तत्राह -- **एवमिति।** सत्त्वादिनिष्ठानां
 जन्तूनामवान्तरविशेषं प्रचुरत्वाप्रचुरत्वरूपं दर्शयति --
 **तत्रेत्यादिना।** राजसानां तामसानां च प्राचुर्यं प्रश्नद्वारा विवृणोति
 -- **कथमित्यादिना।** कामश्च काम्यमानविषयो रागश्च
 तद्विषयभोगाभिलाषस्तत्कृतं तत्प्रयुक्तम्। तन्निमित्तमिति यावत्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।17.5 -- 17.6।। एवमनादृतशास्त्राणां सत्त्वादिनिष्ठा कार्यतो निर्णीता।
+<details><summary>नीलकण्ठः</summary>
+
+॥17.5॥ सात्त्विकानां दौर्लभ्यमभिप्रेत्याह -- **अशास्त्रेति।** शास्त्रं
+वेदादि तद्विरोधिना कौलिकाद्यागमेन विहितं घोरं स्वमांसहोमेन
+ब्राह्मणलोहितादिना वा देवतासंतर्पणाद्यात्मकं ये जनास्तपस्तप्यन्ते
+तानासुरनिश्चयान्विद्धीति द्वयोः संबन्धः। दम्भो धर्मध्वजित्वम्; अहंकारः
+स्वस्मिन्पूज्यताबुद्धिः ताभ्यां संयुक्ताः। कामरागो विषयाभिलाषः; बलं
+साहसेनापि विषयसाधने उत्साहस्ताभ्यामन्विताः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥17.5॥ एवं कार्यतो निर्णीतानां सत्त्वादिनिष्ठानां मध्ये
+देवपूजादितत्परस्य सत्त्वनिष्ठस्य दौर्लभ्यं रजस्तमोनिष्ठानां बाहुल्यं च
+ज्ञापयितुं आह। अशास्त्रविहितं शास्त्रविहितं श्रुतिस्मृत्यादिरुपेण
+शास्त्रेण विहितं न भवति तत्; शास्त्रं न भवतीत्यशास्त्रं तेन
+बुद्धाद्यागमेन बोधितमिति वा। घोरं प्राणिनामात्मनश्च पीडाकरं तपो ये
+जनास्तप्यन्ते निर्वर्तयन्ति। जनान्विशिनष्टि। दम्भाहंकारसंयुक्ताः दम्भो
+धर्मध्वजित्वं; अहंकारोऽहमेव सर्वोत्तम इति दुरभिमानस्ताभ्यां
+सम्यग्युक्ताः। कामरागबलान्विताः कामो विषयाभिलाषः कामस्य कारणीभूतो
+विषयाभिरञ्जनात्मको रागः कामरागाभ्यां कृतं बलं
+विषयसंपादनोत्साहस्तेनान्विताः; कामरागबलैरन्विता इति वा।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥17.5 -- 17.6॥ एवमनादृतशास्त्राणां सत्त्वादिनिष्ठा कार्यतो निर्णीता।
 तत्र केचिद्राजसतामसा अपि प्राग्भवीयपुण्यपरिपाकात्सात्त्विका भूत्वा
 शास्त्रीयसाधनेऽधिक्रियन्ते। ये तु दुराग्रहेण
 दुर्दैवपरिपाकप्राप्तदुर्जनसङ्गादिदोषेण च राजसतामसतां न मुञ्चन्ति ते
@@ -208,76 +135,65 @@ can also mean desirable objects and the desire to enjoy them.\]-.
 निश्चयस्यासुरत्वात्तत्पूर्विकाणां
 सर्वासामन्तःकरणवृत्तीनामासुरत्वमसुरत्वजातिरहितानां च मनुष्याणां
 कर्मणैवासुरत्वात्तानसुरान्विद्धीति साक्षान्नोक्तमिति च द्रष्टव्यम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।17.5।। सात्त्विकानां दौर्लभ्यमभिप्रेत्याह -- **अशास्त्रेति।** शास्त्रं
-वेदादि तद्विरोधिना कौलिकाद्यागमेन विहितं घोरं स्वमांसहोमेन
-ब्राह्मणलोहितादिना वा देवतासंतर्पणाद्यात्मकं ये जनास्तपस्तप्यन्ते
-तानासुरनिश्चयान्विद्धीति द्वयोः संबन्धः। दम्भो धर्मध्वजित्वम्; अहंकारः
-स्वस्मिन्पूज्यताबुद्धिः ताभ्यां संयुक्ताः। कामरागो विषयाभिलाषः; बलं
-साहसेनापि विषयसाधने उत्साहस्ताभ्यामन्विताः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।17.5।। एवं कार्यतो निर्णीतानां सत्त्वादिनिष्ठानां मध्ये
-देवपूजादितत्परस्य सत्त्वनिष्ठस्य दौर्लभ्यं रजस्तमोनिष्ठानां बाहुल्यं च
-ज्ञापयितुं आह। अशास्त्रविहितं शास्त्रविहितं श्रुतिस्मृत्यादिरुपेण
-शास्त्रेण विहितं न भवति तत्; शास्त्रं न भवतीत्यशास्त्रं तेन
-बुद्धाद्यागमेन बोधितमिति वा। घोरं प्राणिनामात्मनश्च पीडाकरं तपो ये
-जनास्तप्यन्ते निर्वर्तयन्ति। जनान्विशिनष्टि। दम्भाहंकारसंयुक्ताः दम्भो
-धर्मध्वजित्वं; अहंकारोऽहमेव सर्वोत्तम इति दुरभिमानस्ताभ्यां
-सम्यग्युक्ताः। कामरागबलान्विताः कामो विषयाभिलाषः कामस्य कारणीभूतो
-विषयाभिरञ्जनात्मको रागः कामरागाभ्यां कृतं बलं
-विषयसंपादनोत्साहस्तेनान्विताः; कामरागबलैरन्विता इति वा।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।17.5।। तेष्वपि पूर्ववद्विशेषमाह -- अशास्त्रविहितमिति द्वाभ्याम्।
+॥17.5॥ Sri Madhvacharya did not comment on this sloka.
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥17.5॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+
+<details><summary>मूलम्</summary>
+
+॥17.4 -- 17.6॥ यजन्त इत्यादि आसुरनिश्चयानित्यन्तम्। अचेतनम् अविवेकित्त्वात्। मां च कर्शयन्तः शास्त्रार्थननुष्ठानात्। अत एव ते स्वबुद्धिविरचितां +++(N स्वबुद्धिविचारिताम् )+++ तपश्चर्यां कुर्वणाः प्रत्युत तामसाः।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+17.5 See Comment under 17.6
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+
+<details><summary>मूलम्</summary>
+
+॥17.5॥ तेष्वपि पूर्ववद्विशेषमाह -- अशास्त्रविहितमिति द्वाभ्याम्।
 शास्त्रीयं पूर्वमुक्तम्। ये तु जना शास्त्रविधिमुत्सृज्य कामकारतः येषां
 कामकार एव हेतुस्तत एव तपस्तप्यन्ते शम्बुकादिवत् तानासुरनिश्चयान्
 विद्धीत्युत्तरेणान्वयः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।17.5।। अथ सात्त्विकानामपि देवादिपूजननिश्चयोऽप्यासुर एव;
+<details><summary>पुरुषोत्तमः</summary>
+
+॥17.5॥ अथ सात्त्विकानामपि देवादिपूजननिश्चयोऽप्यासुर एव;
 अनुक्तत्वादित्याह द्वयेनअशास्त्रेति। ये जनाः जननादिक्लेशेन अज्ञाः
 अशास्त्रविहितं अन्धपारम्पर्यागतं शास्त्रनिषिद्धं वा दम्भाहङ्कारसंयुक्ताः
 परप्रतारणस्वोत्तमत्वख्यापनाज्ञानाभ्यां देवताप्रसादार्थं
 सात्त्विकवदाभासमानं निश्चयेन तपः देहक्लेशं अभोजनादिना ये तप्यन्ते
 कुर्वन्ति। ये च घोरं यक्षादिप्रसादरूपं राज्यधनाद्यपेक्षार्थं तपः
 कुर्वन्ति। कामरागबलान्विताः; कामो विषयाभिलाषः; रागो भोगासक्तिः;
-बलमाग्रहस्तैरन्विताः प्रेरिताः सन्तः।  
-  
-
+बलमाग्रहस्तैरन्विताः प्रेरिताः सन्तः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।17.5।। राजसतामसेषु पुनर्विशेषान्तरमाह **-- अशास्त्रविहितमिति
+॥17.5॥ राजसतामसेषु पुनर्विशेषान्तरमाह **-- अशास्त्रविहितमिति
 द्वाभ्याम्।** शास्त्रविधिमजानन्तोऽपि केचित्प्राचीनपुण्यसंस्कारेणोत्तमाः
 सात्त्विका एव भवन्ति। केचित्तु मध्यमा राजसा भवन्ति। अधमास्तु तामसा
 भवन्ति। ये पुनरत्यन्तं मन्दभाग्याः गतानुगत्या पाखण्डसङ्गेन च
@@ -286,40 +202,58 @@ _________________
 आसक्तिः; बलमाग्रहः; एतैरन्विताः सन्तः;
 तानासुरनिश्चयान्विद्धीत्युत्तरेणान्वयः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।17.5।। See Commentary under 17.6
-
+17.5 Those men who practise terrible austerity not enjoined by the Sastras, given to ostentation and conceit, and prompted by the force of sensual desires and passion;
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।17.5।। जो लोग शास्त्रविधि से रहित घोर तप करते हैं तथा दम्भ, अहंकार,
-काम और राग से भी युक्त होते हैं।।
+<details><summary>गम्भीरानन्दः</summary>
 
+17.5 Those persons who, given to ostentation and pride, and possessed of passion, attachment and strength, undertake severe austerities not sanctioned in the scriptures;
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+17.5 Those who practise austerities not commanded by scripture, who are slaves to hypocrisy and egotism, who are carried away by the fury of desire and passion,
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+17.5. Those men, who practise terrible austerities, not as enjoined in the scriptures; who are bound to hypocricy and conceit, and are endowed with (i.e. impelled by) the force of passion for the desired objects;
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+17.5 Those men who practise terrific austerities not enjoined by the scriptures, given to hypocrisy and egoism, impelled by the force of lust and attachment.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+17.5 अशास्त्रविहितम् not enjoined by the scriptures; घोरम् terrific;
+तप्यन्ते practise; ये who; तपः austerity; जनाः men; दम्भाहङ्कारसंयुक्ताः
+given to hypocrisy and egoism; कामरागबलान्विताः by the force of lust and attachment.Commentary There are some who think that the mortification of the body is the proper means to attain the goal of life. They do this in order to attract the people and get money for the gratification of their senses. They stand on one leg with raised hands. This is not real Tapas.
+This is Tamasic Tapas. Bodily torture will not bring emancipation. These men are not acainted with even the first elements of the scriptures.
+They mock at the religious practices of the wise; elderly persons and jeer at learned men. They are puffed up with the vanity of their own greatness. They are proud of their wealth. They perform unauthorised austerities. These persons do severe austerities contrary to the scriptures on the strength of desire and attachment.They take even the lives of children to propitiate their deity. Instead of killing their egoism; they kill many innocent animals in the name of sacrifice but in reality they kill them to satisfy their own palate. Most horrible indeed They speak ill of the scriptures and wander about in the forest of delusion and infatuation. They follow the dictates of passion. They inflict pain on themselves and on others. They practise austerities which cause pain to themselves and to other living beings. Pitiable indeed is their lot. They are doomed to destruction.Kamaragabalanvitah may also be interpreted as possessed of lust; attachment and power.Dambha Ostentation The man of Dambha is desirous that all people should take him for a virtuous man and so he expresses to others his righteous nature. In reality he is not virtuous. He pretends to be what he is not.Ahankara Egoism The egoistic man thinks and feels that he is superior to others in the possession of all virtuous alities.Raga Extreme attachment to sensual objects.Bala Great power of enduring severe pain on account of Raga for sensual objects (pain that accrues from exertion in attaining and preserving the objects).Kama Lust Desire for any object.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.5।। जो मनुष्य शास्त्रविधिसे रहित घोर तप करते हैं; जो दम्भ और
 अहङ्कारसे अच्छी तरह युक्त हैं; जो भोग-पदार्थ, आसक्ति और हठसे युक्त हैं;
 जो शरीरमें स्थित पाँच भूतोंको अर्थात् पाञ्चभौतिक शरीरको तथा अन्तःकरणमें
 स्थित मुझ परमात्माको भी कृश करनेवाले हैं उन अज्ञानियोंको तू आसुर
 निश्चयवाले (आसुरी सम्पदावाले) समझ।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।17.5।।***व्याख्या --***  **अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः
 --** शास्त्रमें जिसका विधान नहीं है; प्रत्युत निषेध है; ऐसे घोर तपको
@@ -389,58 +323,18 @@ _________________
   
 ***सम्बन्ध --***  अगर कोई मनुष्य किसी प्रकार भी यजन न करे; तो उसकी
 श्रद्धा कैसे पहचानी जायगी -- इसे बतानेके लिये भगवान् आहारकी रुचिसे
-आहारीकी निष्ठाकी पहचानका प्रकरण आरम्भ करते हैं।  
-  
-
+आहारीकी निष्ठाकी पहचानका प्रकरण आरम्भ करते हैं।
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-17.5. Those men, who practise terrible austerities, not as enjoined in the scriptures; who are bound to hypocricy and conceit, and are endowed with (i.e. impelled by) the force of passion for the desired objects;
-
+।।17.5।। See Commentary under 17.6
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.5 Those persons who, given to ostentation and pride, and possessed of passion, attachment and strength, undertake severe austerities not sanctioned in the scriptures;
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।17.5।। जो लोग शास्त्रविधि से रहित घोर तप करते हैं तथा दम्भ, अहंकार,
+काम और राग से भी युक्त होते हैं।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.5 Those who practise austerities not commanded by scripture, who are slaves to hypocrisy and egotism, who are carried away by the fury of desire and passion,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-17.5 Those men who practise terrible austerity not enjoined by the Sastras, given to ostentation and conceit, and prompted by the force of sensual desires and passion;
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-17.5 Those men who practise terrific austerities not enjoined by the scriptures, given to hypocrisy and egoism, impelled by the force of lust and attachment.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-17.5 अशास्त्रविहितम् not enjoined by the scriptures; घोरम् terrific;
-तप्यन्ते practise; ये who; तपः austerity; जनाः men; दम्भाहङ्कारसंयुक्ताः
-given to hypocrisy and egoism; कामरागबलान्विताः by the force of lust and attachment.Commentary There are some who think that the mortification of the body is the proper means to attain the goal of life. They do this in order to attract the people and get money for the gratification of their senses. They stand on one leg with raised hands. This is not real Tapas.
-This is Tamasic Tapas. Bodily torture will not bring emancipation. These men are not acainted with even the first elements of the scriptures.
-They mock at the religious practices of the wise; elderly persons and jeer at learned men. They are puffed up with the vanity of their own greatness. They are proud of their wealth. They perform unauthorised austerities. These persons do severe austerities contrary to the scriptures on the strength of desire and attachment.They take even the lives of children to propitiate their deity. Instead of killing their egoism; they kill many innocent animals in the name of sacrifice but in reality they kill them to satisfy their own palate. Most horrible indeed They speak ill of the scriptures and wander about in the forest of delusion and infatuation. They follow the dictates of passion. They inflict pain on themselves and on others. They practise austerities which cause pain to themselves and to other living beings. Pitiable indeed is their lot. They are doomed to destruction.Kamaragabalanvitah may also be interpreted as possessed of lust; attachment and power.Dambha Ostentation The man of Dambha is desirous that all people should take him for a virtuous man and so he expresses to others his righteous nature. In reality he is not virtuous. He pretends to be what he is not.Ahankara Egoism The egoistic man thinks and feels that he is superior to others in the possession of all virtuous alities.Raga Extreme attachment to sensual objects.Bala Great power of enduring severe pain on account of Raga for sensual objects (pain that accrues from exertion in attaining and preserving the objects).Kama Lust Desire for any object.
-
-</details>
 </div>

@@ -1,39 +1,42 @@
 +++
 title = "47 कर्मण्येवाधिकारस्ते मा"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **कर्मण्य् एवाधिकारस्** ते  
 मा फलेषु कदाचन।  
-**मा कर्म-फल-हेतुर् भूर्**,  
++++(अनुसन्धान-प्रयासेन)+++ **मा कर्म-फल-हेतुर् भूर्**,  
++++(→ कर्म-कर्तृत्व-बुद्ध्या कर्महेतुः, फलाग्रहेण च फलहेतुः)+++  
 **मा ते सङ्गो ऽस्त्व् अकर्मणि**॥2.47॥+++(5)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।  
-मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।2.47।।
+मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥2.47॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-अतः सत्त्वस्थस्य मुमुक्षोः एतावद् एव उपादेयम् इत्य् आह -
+अतः सत्त्वस्थस्य मुमुक्षोर् एतावद् एव उपादेयम् इत्य् आह -
 
-।।2.47।। नित्ये नैमित्तिके काम्ये च  
-केनचित् फल-विशेषेण संबन्धितया  
+॥2.47॥ नित्ये नैमित्तिके काम्ये च  
+केनचित् फल-विशेषेण सम्बन्धितया  
 श्रूयमाणे **कर्मणि**  
 नित्य-सत्त्व-स्थस्य मुमुक्षोस् ते  
 कर्ममात्रे **अधिकारः।**  
-तत्-संबन्धितया अवगतेषु **फलेषु**  
-न कदाचिद् अपि अधिकारः -  
+तत्-सम्बन्धितया अवगतेषु **फलेषु**  
+न कदाचिद् अप्य् अधिकारः -  
 स-फलस्य बन्ध-रूपत्वात्,  
 फल-रहितस्य केवलस्य मद्-आराधन-रूपस्य मोक्ष-हेतुत्वाच् च।  
 
@@ -41,132 +44,147 @@ _________________
 त्वया अनुष्ठीयमाने अपि कर्मणि  
 नित्य-सत्त्व-स्थस्य मुमुक्षोस् तवाकर्तृत्वम् अप्य् अनुसन्धेयम्।  
 फलस्य +अपि क्षुन्-निवृत्त्यादेर्  
-न त्वं हेतुर् इति अनुसन्धेयम्।  
+न त्वं हेतुर् इत्य् अनुसन्धेयम्।  
 तद् उभयं गुणेषु वा सर्वेश्वरे मयि वा अनुसन्धेयम्  
 इति +उत्तरत्र वक्ष्यते।  
 एवम् अनुसन्धाय कर्म कुरु। 
 
 **अकर्मणि** अननुष्ठाने "न योत्स्यामि" इति यत् त्वया अभिहितं  
-**न** तत्र **ते सङ्गः अस्तु।**  
-उक्तेन प्रकारेण युद्धादिकर्मणि +एव सङ्गः अस्तु +इत्यर्थः।  
-
-
+**न** तत्र **ते सङ्गो ऽस्तु।**  
+उक्तेन प्रकारेण युद्धादिकर्मणि +एव सङ्गो ऽस्तु +इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।।2.47।। एवं तर्हि मोक्षसाधनेतरसकलपरित्यागे
-नित्यनैमित्तिकनिषेधशास्त्रातिलङ्घनेन कामचारदोषः स्यात् तावानिति च
-कियानुच्यते इति शङ्कायामुत्तरश्लोकमवतारयति अत इति। न कामचारदोषः एतावत
-उपादेयत्वात् नाप्यन्येच्छोरन्योपायप्रवृत्तिदोषः तत्तत्फलपरित्यागेन
-साधारणस्वरूपमात्रस्योपादेयत्वादिति भावःकर्मणि इति सामान्यशब्दस्य
-योग्यान्विशेषानाह नित्य इत्यादिना। केनचित् इत्यादिकं
-नित्यनैमित्तिककाम्यरूपे राशित्रयेऽपि सम्बध्यते। तेन
-नित्यनैमित्तिकयोरपूर्वमात्रार्थतामिच्छतां कुदृष्टीनां दृष्टिपरता।
-कर्मान्तराधिकारोपात्तदुरितक्षयाकरणनिमित्तप्रत्यवायपरिहारप्राजापत्यादिलोकपशुपुत्रादि
-यथासम्भवं नित्यादेः फलम्। फलविशेषेणेति। यथोत्पत्तिवाक्ये
-स्वरूपेणैवोत्पन्नानां कर्मणां कामाधिकारे स्वर्गादिफलविशेषेण सम्बन्धितया
-श्रुतत्वात् स्वर्गादिकं फलमिष्यते एवं मोक्षाधिकारेऽपि मोक्षाख्यफलविशेषेण
-सम्बन्धितया श्रुतत्वात् सोऽपि फलमिति भावः। ते इतिशब्दस्य प्रकृतान्वितं
-तात्पर्यमाह नित्यसत्त्वस्थस्य मुमुक्षोरिति।
-मोक्षतत्साधनादिफलव्यवच्छेदायतत्सम्बन्धितयाऽवगतेष्वित्युक्तं
-स्वर्गपश्वादिष्विति शेषः। मेति न निषेधविधिः किन्त्वभावमात्रबोधक इतिन
-कदाचिदित्युक्तम्। फलयोग्यतानिषेधात् तत्सङ्गनिषेधोऽपि
+<details><summary>वेदान्तदेशिकः</summary>
 
-फलितः। कर्ममात्राधिकारे फलानधिकारे च बुद्धिस्थक्रमेण हेतुद्वयमाह
-सफलस्येति। न हि मोक्षमिच्छतो बन्धरूपफलाभिलाष उपपन्नः न च तद्धेतुपरित्याग
-उचित इति भावः। केवलस्येत्येतन्न फलराहित्यमात्रपरंफलरहितस्येत्युक्तत्वात्।
-अपि तर्हि स्वरूपत एव प्रयोजनत्वपरम्। तत्र हेतुः
-मदाराधनरूपस्येति। कर्मफलयोरिति। पुनरुक्तिप्रसञ्जकषष्ठीसमासादपि
-उभयपदार्थप्रधानो द्वन्द्व एवोचितः।
-वक्ष्यमाणाकर्तृत्वानुसन्धानसङ्ग्रहश्चात्र युक्त इति भावः।
+॥2.47॥ एवं तर्हि मोक्षसाधनेतरसकलपरित्यागे नित्यनैमित्तिकनिषेधशास्त्रातिलङ्घनेन कामचारदोषः स्यात् तावानिति च कियानुच्यते इति शङ्कायामुत्तरश्लोकमवतारयति अत इति। न कामचारदोषः एतावत उपादेयत्वात् नाप्यन्येच्छोरन्योपायप्रवृत्तिदोषः तत्तत्फलपरित्यागेन साधारणस्वरूपमात्रस्योपादेयत्वादिति भावःकर्मणि इति सामान्यशब्दस्य योग्यान्विशेषानाह नित्य इत्यादिना। केनचित् इत्यादिकं नित्यनैमित्तिककाम्यरूपे राशित्रयेऽपि सम्बध्यते। तेन नित्यनैमित्तिकयोरपूर्वमात्रार्थतामिच्छतां कुदृष्टीनां दृष्टिपरता। कर्मान्तराधिकारोपात्तदुरितक्षयाकरणनिमित्तप्रत्यवायपरिहारप्राजापत्यादिलोकपशुपुत्रादि यथासम्भवं नित्यादेः फलम्। फलविशेषेणेति। यथोत्पत्तिवाक्ये स्वरूपेणैवोत्पन्नानां कर्मणां कामाधिकारे स्वर्गादिफलविशेषेण सम्बन्धितया श्रुतत्वात् स्वर्गादिकं फलमिष्यते एवं मोक्षाधिकारेऽपि मोक्षाख्यफलविशेषेण सम्बन्धितया श्रुतत्वात् सोऽपि फलमिति भावः। ते इतिशब्दस्य प्रकृतान्वितं तात्पर्यमाह नित्यसत्त्वस्थस्य मुमुक्षोरिति। मोक्षतत्साधनादिफलव्यवच्छेदायतत्सम्बन्धितयाऽवगतेष्वित्युक्तं स्वर्गपश्वादिष्विति शेषः। मेति न निषेधविधिः किन्त्वभावमात्रबोधक इतिन कदाचिदित्युक्तम्। फलयोग्यतानिषेधात् तत्सङ्गनिषेधोऽपि
 
+फलितः। कर्ममात्राधिकारे फलानधिकारे च बुद्धिस्थक्रमेण हेतुद्वयमाह सफलस्येति। न हि मोक्षमिच्छतो बन्धरूपफलाभिलाष उपपन्नः न च तद्धेतुपरित्याग उचित इति भावः। केवलस्येत्येतन्न फलराहित्यमात्रपरम्फलरहितस्येत्युक्तत्वात्। अपि तर्हि स्वरूपत एव प्रयोजनत्वपरम्। तत्र हेतुः मदाराधनरूपस्येति। कर्मफलयोरिति। पुनरुक्तिप्रसञ्जकषष्ठीसमासादपि उभयपदार्थप्रधानो द्वन्द्व एवोचितः। वक्ष्यमाणाकर्तृत्वानुसन्धानसङ्ग्रहश्चात्र युक्त इति भावः।
 
-कर्मण्येवाधिकारस्ते ৷৷. मा ते सङ्गोऽस्त्वकर्मणि इति
-पूर्वोत्तरवचनाभ्यामयं कर्महेतुत्वनिषेधो व्याहन्येतेत्यत्राह त्वयेति।
-नात्र वस्तुतो हेतुत्वं निषिध्यते अपितु हेतुत्वानुसन्धानमित्यर्थः। ननु
-फलहेतुत्वनिषेधः पुनरुक्तःमा फलेषु कदाचन इत्युक्तत्वात् यदि तु
-भोजनादिसाध्यक्षुन्निवृत्त्यादिफलनिषेधः तदा तदुपायरागस्यापि निवृत्तेः
-शरीरधारणादेरप्यभावप्रसङ्गेन उपायानुष्ठानस्यैव लोपः स्यादित्यत्राह
-फलस्यापीति। क्षुन्निवृत्त्यादेरित्यनेन पौनरुक्त्यं परिहृतम्। न त्वं
-हेतुरित्यनुसन्धेयमिति। नात्र क्षुन्निवृत्त्यादिस्वरूपं निषिध्यते।
-अपित्वात्मनस्तद्धेतुत्वानुसन्धानमिति भावः। ननु कथं कर्मफलयोर्हेतुः
-सन्नहेतुरित्यनुसन्धीयेत। एवं च चार्वाकादिवत्
-अनयोर्निर्हेतुकत्वमनुसन्धेयं स्यात् ततश्चोपायानुष्ठानमेव हीयेत।
-अहेतुकतया बुध्यमाने प्रयासायोगादित्यत्राह तदुभयमिति। उभयं कर्महेतुत्वं
-फलहेतुत्वं च। उत्तरत्रेति। अयमेव तृतीयाध्यायप्रधानार्थः। तथा हि सङ्ग्रहः
-असक्त्या लोकरक्षायै गुणेष्वारोप्य कर्तृताम्। सर्वेश्वरे वा न्यस्योक्ता
-तृतीये कर्मकार्यता गी.सं.7 इति। एवमहेतुकत्वचोद्यं तावत्परिहृतम्।
-तथाप्यात्महेतुकत्वानुसन्धाननिषेधेन अननुष्ठानप्रसङ्गस्तदवस्थ इति चेत्
-मैवं नह्यत्रानुष्ठानस्याननुष्ठानतया भ्रान्तिरुच्यते नाप्यनुष्ठातृत्वस्य
-सतोऽप्यप्रतिपत्तिर्विधीयते येन विरोधः स्यात् किन्त्वनेकहेतुके
-कस्मिंश्चिदेकस्यैव हेतुत्वं त्रैगुण्याद्युपाधिके स्वरूपप्रयुक्तत्वं च
-भ्रान्तिसिद्धमिति तदुभयं निषिद्ध्यते। वक्ष्यते हिशरीरवाङ्मनोभिः 18।15
-इत्यादौ तृतीयाध्याये च। किञ्च साक्षात्कर्तृत्वाननुसन्धानविधावपि
-नाकर्तृत्वानुसन्धानकर्तृत्वप्रतिपत्तिनिषेधयोरप्यननुष्ठानप्रसङ्गः। स हि
-कुर्वन्नेव स्वकृतोपकारनिगूहनवदाहार्यबोधेन तथा प्रतिपद्यते। अन्यत्र वा
-कर्मणि क्रियमाण इति न कश्चिद्दोषः। सर्वेश्वरे इति निर्देशस्तस्मिन्
-कर्तृत्वाद्ध्यवसायौचित्यार्थः। जीवस्यापि हि कर्तृत्वं तत्त्वतः
-परमात्मायत्तमितिपरात्तु तच्छ्रुतेः ब्र.सू.2।3।45 इत्यधिकरणे स्थापितम्।  
-पूर्वोत्तरवाक्याद्यविरोधाय कर्मस्वरूपपरित्यागं परिहरति एवमिति।
-गुणेश्वराधीनत्वबुद्धावपि किं मे परित्यक्तफलेन दुःखस्वरूपेण भोजनादिकर्मणा
-इति त्वया नोदासितव्यमिति भावः। अननुष्ठान इति। अकर्मणीत्यत्र कर्मशब्दः
-क्रियावाची नञत्र तदभावपर इति भावः। अननुष्ठानस्य प्रतिषेधार्थं प्रसङ्गं
-स्मारयति न योत्स्यामीति। अकर्मसङ्गनिषेधफलितमन्यत्र सङ्गमाह उक्तेनेति।  
-  
-
+कर्मण्येवाधिकारस्ते ৷৷. मा ते सङ्गोऽस्त्वकर्मणि इति पूर्वोत्तरवचनाभ्यामयं कर्महेतुत्वनिषेधो व्याहन्येतेत्यत्राह त्वयेति। नात्र वस्तुतो हेतुत्वं निषिध्यते अपितु हेतुत्वानुसन्धानमित्यर्थः। ननु फलहेतुत्वनिषेधः पुनरुक्तःमा फलेषु कदाचन इत्युक्तत्वात् यदि तु भोजनादिसाध्यक्षुन्निवृत्त्यादिफलनिषेधः तदा तदुपायरागस्यापि निवृत्तेः शरीरधारणादेरप्यभावप्रसङ्गेन उपायानुष्ठानस्यैव लोपः स्यादित्यत्राह फलस्यापीति। क्षुन्निवृत्त्यादेरित्यनेन पौनरुक्त्यं परिहृतम्। न त्वं हेतुरित्यनुसन्धेयमिति। नात्र क्षुन्निवृत्त्यादिस्वरूपं निषिध्यते। अपित्वात्मनस्तद्धेतुत्वानुसन्धानमिति भावः। ननु कथं कर्मफलयोर्हेतुः सन्नहेतुरित्यनुसन्धीयेत। एवं च चार्वाकादिवत् अनयोर्निर्हेतुकत्वमनुसन्धेयं स्यात् ततश्चोपायानुष्ठानमेव हीयेत। अहेतुकतया बुध्यमाने प्रयासायोगादित्यत्राह तदुभयमिति। उभयं कर्महेतुत्वं फलहेतुत्वं च। उत्तरत्रेति। अयमेव तृतीयाध्यायप्रधानार्थः। तथा हि सङ्ग्रहः असक्त्या लोकरक्षायै गुणेष्वारोप्य कर्तृताम्। सर्वेश्वरे वा न्यस्योक्ता तृतीये कर्मकार्यता गी.सं.7 इति। एवमहेतुकत्वचोद्यं तावत्परिहृतम्। तथाप्यात्महेतुकत्वानुसन्धाननिषेधेन अननुष्ठानप्रसङ्गस्तदवस्थ इति चेत् मैवं नह्यत्रानुष्ठानस्याननुष्ठानतया भ्रान्तिरुच्यते नाप्यनुष्ठातृत्वस्य सतोऽप्यप्रतिपत्तिर्विधीयते येन विरोधः स्यात् किन्त्वनेकहेतुके कस्मिंश्चिदेकस्यैव हेतुत्वं त्रैगुण्याद्युपाधिके स्वरूपप्रयुक्तत्वं च भ्रान्तिसिद्धमिति तदुभयं निषिद्ध्यते। वक्ष्यते हिशरीरवाङ्मनोभिः 18।15 इत्यादौ तृतीयाध्याये च। किञ्च साक्षात्कर्तृत्वाननुसन्धानविधावपि नाकर्तृत्वानुसन्धानकर्तृत्वप्रतिपत्तिनिषेधयोरप्यननुष्ठानप्रसङ्गः। स हि कुर्वन्नेव स्वकृतोपकारनिगूहनवदाहार्यबोधेन तथा प्रतिपद्यते। अन्यत्र वा कर्मणि क्रियमाण इति न कश्चिद्दोषः। सर्वेश्वरे इति निर्देशस्तस्मिन् कर्तृत्वाद्ध्यवसायौचित्यार्थः। जीवस्यापि हि कर्तृत्वं तत्त्वतः परमात्मायत्तमितिपरात्तु तच्छ्रुतेः ब्र.सू.2।3।45 इत्यधिकरणे स्थापितम्।  
+पूर्वोत्तरवाक्याद्यविरोधाय कर्मस्वरूपपरित्यागं परिहरति एवमिति। गुणेश्वराधीनत्वबुद्धावपि किं मे परित्यक्तफलेन दुःखस्वरूपेण भोजनादिकर्मणा इति त्वया नोदासितव्यमिति भावः। अननुष्ठान इति। अकर्मणीत्यत्र कर्मशब्दः क्रियावाची नञत्र तदभावपर इति भावः। अननुष्ठानस्य प्रतिषेधार्थं प्रसङ्गं स्मारयति न योत्स्यामीति। अकर्मसङ्गनिषेधफलितमन्यत्र सङ्गमाह उक्तेनेति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 2.47 As for obligatory, occasional and desiderative acts taught in the Vedas and associated with some result or other, you, an aspirant established in Sattva, have the right only to perform them: You have no right to the fruits known to be derived from such acts. Acts done with a desire for fruit bring about bondage. But acts done without an eye on fruits form My worship and become a means for release. Do not become an agent of acts with the idea of being the reaper of their fruits. Even when you, who are established in pure Sattva and are desrious of release, perform acts, you should not look upon yourself as the agent.
 
 Likewise, it is necessary to contemplate yourself as not being the cause of even appeasing hunger and such other bodily necessities. Later on it will be said that both of these, agency of action and desire for fruits, should be considered as belonging to Gunas, or in the alternative to Me who am the Lord of all. Thinking thus, do work. With regard to inaction, i.e., abstaining from performance of duties, as when you said, 'I will not fight,' let there be no attachment to such inaction in you. The meaning is let your interest be only in the discharge of such obligatory duties like this war in the manner described above.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.48।। अतश्च  
-कर्मणीति। कर्ममात्रे त्वं व्यापृतो भव न तु कर्मफलेषु। ननु कर्मणि कृते (
-omits कृते N substitutes जाते) नान्तरीयकतयैव फलमापततीति मैवम्। तत्र हि
-यदि त्वं फलकामनाकालुष्यव्याप्तो भवसि तदा कर्मणां फलं प्रति हेतुत्वम्।
-यत् अप्रार्थ्यमानं फलं तत् +++(S N omit तत्)+++ ज्ञानं नानिच्छोस्तत् इति।
-कर्माभावेन यः संगः स एव गाढग्रहरूपो मिथ्याज्ञानस्वरूपः इति त्याज्य एव (
-N इत्यत्याज्य एव)।  
+॥2.47॥  
 
+तव च **कर्मण्य् एव अधिकारः** न ज्ञान-निष्ठायां **ते** तव। तत्र च कर्म कुर्वतः **मा फलेषु** अधिकारः अस्तु - कर्मफलतृष्णा मा भूत् **कदाचन** कस्याञ्चिद् अप्य् अवस्थायाम् इत्य् अर्थः। यदा कर्म-फले तृष्णा ते स्यात् तदा कर्म-फल-प्राप्तेः हेतुः स्याः - एवं **मा कर्मफलहेतुः** भूः। यदा हि कर्म-फल-तृष्णा-प्रयुक्तः कर्मणि प्रवर्तते तदा कर्मफलस्यैव जन्मनो हेतुर् भवेत्। 
+
+यदि कर्म-फलं नेष्यते किं कर्मणा दुःख-रूपेण इति **मा ते** तव **सङ्गः अस्तु अकर्मणि** - अकरणे प्रीतिर् मा भूत्॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.47 Karmani etc. You should be concerned in the action alone, but not
-in the fruits of actions. But, if an action has been performed, then
-will not its fruit just inevitably befall \[to the performer\] ; No. It
-is not so. For, in that case, if you are covered with the dirt of desire
-for fruits, then you become a cuase for the fruit of action. What is
-prayed for is known to be the fruit; and it does not befall him who does
-not desire it. Thus, what attachment a person entertains with regard to
-the negation of action, that alone is like a firm seizure, and is of the
-nature of false conception, and hence it must be abandoned. Then what ;-
+<details><summary>गम्भीरानन्दः</summary>
 
+2.47 Te, your; adhikarah, right; is karmani eva, for action alone, not
+for steadfastness in Knowledge. Even there, when you are engaged in
+action, you have ma kadacana, never, i.e. under no condition whatever; a
+right phalesu, for the results of action may you not have a hankering
+for the results of action. Whenever you have a hankering for the fruits
+of action, you will become the agent of aciring the results of action.
+Ma, do not; thus bhuh, become; karma-phalahetuh, the agent of aciring
+the results of action. For when one engages in action by being impelled
+by thirst for the results of action, then he does become the cause for
+the production of the results of action. Ma, may you not; astu, have;
+sangah, an inclination; akarmani, for inaction, thinking, 'If the
+results of work be not desired, what is the need of work which involves
+pain;'
 </details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥2.47॥ तेरा कर्ममें ही अधिकार है ज्ञाननिष्ठामें नहीं। वहाँ (
+कर्ममार्गमें ) कर्म करते हुए तेरा फलमें कभी अधिकार न हो अर्थात् तुझे
+किसी भी अवस्थामें कर्मफलकी इच्छा नहीं होनी चाहिये।  
+यदि कर्मफलमें तेरी तृष्णा होगी तो तू कर्मफलप्राप्तिका कारण होगा। अतः इस
+प्रकार कर्मफलप्राप्तिका कारण तू मत बन।  
+क्योंकि जब मनुष्य कर्मफलकी कामनासे प्रेरित होकर कर्ममें प्रवृत्त होता है
+तब वह कर्मफलरूप पुनर्जन्मका हेतु बन ही जाता है।  
+यदि कर्मफलकी इच्छा न करें तो दुःखरूप कर्म करनेकी क्या आवश्यकता है इस
+प्रकार कर्म न करनेमें भी तेरी आसक्तिप्रीति नहीं होनी चाहिये।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥2.47॥ तर्हि परम्परया पुरुषार्थसाधनं योगमार्गं परित्यज्य साक्षादेव
+पुरुषार्थकारणमात्मज्ञानं तदर्थमुपदेष्टव्यं तस्मै हि स्पृहयति मनो
+मदीयमित्याशङ्क्याह **तव चेति।** तर्हि तत्फलाभिलाषोऽपि स्यादिति नेत्याह
+**मा** **फलेष्विति।** पूर्वोक्तमेवार्थं प्रपञ्चयति **मा कर्मेति।**
+फलाभिसन्ध्यसंभवे कर्माकरणमेव श्रद्दधामीत्याशङ्क्याह **मा त इति।**
+ज्ञानानधिकारिणोऽपि कर्मत्यागप्रसक्तिं निवारयति **कर्मण्येवेति।**
+कर्मण्येवेत्येवकारार्थमाह  **न  
+  
+**ज्ञानेति। **नहि तत्राब्राह्मणस्यापरिपक्वकषायस्य मुख्योऽधिकारः
+सिध्यतीत्यर्थः। फलैस्तर्हि संबन्धो दुर्वारः स्यादित्याशङ्क्याह**
+तत्रेति। **कर्मण्येवाधिकारे सतीति सप्तम्यर्थः। फलेष्वधिकाराभावं
+स्फोरयति** कर्मेति। **कर्मानुष्ठानात्प्रागूर्ध्वं तत्काले
+चेत्येतत्कदाचनेति विवक्षितमित्याह** कस्यांचिदिति। **फलाभिसंधाने
+दोषमाह** यदेति। **एवं कर्मफलतृष्णाद्वारेणेत्यर्थः। कर्मफलहेतुत्वं
+विवृणोति** यदा हीति। **तर्हि विफलं क्लेशात्मकं कर्म न कर्तव्यमिति
+शङ्कामनुभाष्य दूषयति** यदीत्यादिना। **अकर्मणि ते सङ्गो मा
+भूदित्युक्तमेव स्पष्टयति** अकरण इति।
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥2.47॥ ननु ममाप्यौपनिषदात्मज्ञानार्थिनः शम एवेष्टस्तत्कथं मां
+युध्यस्वेति प्रेरयसीत्याशङ्क्याह **कर्मण्येवेति।** कर्मण्येवाधिकारो न
+ज्ञाननिष्ठायाम्। मा फलेषु सङ्गोऽस्त्वित्यपकृष्यते। कर्मफलं
+स्वर्गपश्वादिहेतुः कर्मसु प्रवर्तकं यस्य तादृशो मा भूः। अकर्मणि
+कर्माकरणेऽपि तव सङ्गो मास्तु।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥2.47॥ मम तर्हि क्वाधिकार इत्याकाङ्क्षायामाह **कर्मणीति।**
+कर्मण्येव नतु ज्ञाननिष्ठायामन्तःकरणशुद्य्धभावात् तत्रापि चित्तशुद्धिहेतौ
+फलाभिसंधिरहिते कर्मणि नतु बन्धनिमित्ते काम्ये इत्याह **मेति।** कदाचन
+कस्यांचितवस्थायामपि कर्मफलतृष्णा ते मास्तु। फलतृष्णया काम्ये तेऽधिकारो
+मास्त्विति यावत्। ननु तृष्णाभावेऽपि भोजनात्तृप्तिरिव कर्मणः फलं
+स्यादेवेति तत्राह **मा** **कर्मेति।** मा कर्मफले हेतुर्भूः फलतृष्णया
+तदुत्पादको माभूः। कामनया कृतस्य कर्मणः पश्वादिफलदातृत्वनियमात्चित्रया
+यजेत पशुकामः इति श्रुतेः। यत्तु कर्मफलं प्रवृत्तिहेतुर्यस्येति तन्न।
+बहुव्रीह्यपेक्षया तत्पुरुषस्य लघुत्वात् दुःखरुपेण निष्फलेन कर्मणा किमिति
+ते कर्माकरणे सङ्ग आसक्तिर्माभूत्।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥2.47॥ ननु निष्कामकर्मभिरात्मज्ञानं संपाद्य परमानन्दप्राप्तिः क्रियते
+चेदात्मज्ञानमेव तर्हि संपाद्यं किं बह्वायासैः  
+  
+कर्मभिर्बहिरङ्गसाधनभूतैरित्याशङ्क्याह ते तवाशुद्धान्तःकरणस्य
+तात्त्विकज्ञानोत्पत्त्ययोग्यस्य  
+  
+कर्मण्येवान्तःकरणशोधकेऽधिकारो मयेदं कर्तव्यमिति बोधोऽस्तु न
+ज्ञाननिष्ठारुपे वेदान्तवाक्यविचारादौ। कर्म च कुर्वतस्तव तत्फलेषु
+स्वर्गादिषु कदाचन कस्यांचिदप्यवस्थायां कर्मानुष्ठानात्प्रागूर्ध्वं
+तत्काले वाधिकारो मयेदं भोक्तव्यमिति बोधो मास्तु। ननु मयेदं भोक्तव्यमिति
+बुद्ध्यभावेऽपि कर्म स्वसामर्थ्यादेव फलं जनयिष्यतीति चेन्नेत्याह मा
+कर्मफलहेतुर्भूः फलकामनया हि कर्म कुर्वन्फलस्य हेतुरुत्पादको भवति। त्वं
+तु निष्कामः सन्कर्मफलहेतुर्माभूः। नहि निष्कामेन भगवदर्पणबुद्ध्या कृतं
+कर्म फलाय कल्पत इत्युक्तम्। फलाभावे किं कर्मणेत्यत आह मा ते
+सङ्गोऽस्त्वकर्मणि। यदि फलं नेष्यते किं कर्मणा दुःखरूपेणेत्यकरणे तव
+प्रीतिर्माभूत्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.47।। कामात्मनां निन्दा कृता। कथं एषां स्वर्गकामो यजेत
+॥2.47॥ कामात्मनां निन्दा कृता। कथं एषां स्वर्गकामो यजेत
 आप.श्रौ.10।1।2।1 इत्यादौ कामस्यापि विहितत्वात् इत्यत आह कर्मण्येवेति। त
 इत्युपलक्षणार्थम्। तव ज्ञानिनोऽपि न फलकामकर्तव्यता किम्वन्येषाम्।
 नत्वस्ति केषाञ्चिन्न तेऽस्तीति। स हि ज्ञानी नरांश इन्द्रश्च
@@ -192,14 +210,12 @@ _________________
 भक्तिमन्विच्छन्तः। ब्रह्मजिज्ञासा ब्र.सू.1।1।1 विज्ञाय प्रज्ञां
 द्रष्टव्यः बृ.उ.2।4।5।5।6 इत्यादिववनेभ्यः। स्वार्थसेवकं प्रति न तथा
 स्नेहः। किं ददामीत्युक्ते सेवादि याचकंप्रति बहुतरस्नेह इति
-लोकप्रसिद्धन्यायाच्च भक्तिज्ञानादिकामना कार्येति सिद्धम्।  
-
+लोकप्रसिद्धन्यायाच्च भक्तिज्ञानादिकामना कार्येति सिद्धम्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।2.47।। ज्ञानिनः कर्माभावमुक्त्वा इदानीमज्ञानिनः कर्मोच्यत इत्यन्यथा
+<details><summary>जयतीर्थः</summary>
+
+॥2.47॥ ज्ञानिनः कर्माभावमुक्त्वा इदानीमज्ञानिनः कर्मोच्यत इत्यन्यथा
 व्याख्याननिरासायाह **कामात्मना**मिति। येषां कर्मिणां सकामतया कर्म
 कुर्वतां या निन्दा कृतायामिमां 2।42 इत्यादिना सा न युक्तेत्यर्थः। कुतः
 स्वर्गकामो यजेत आप.श्रौ.10।1।2।1 इत्यादौ। यजनवत्स्वर्गकामस्यापि
@@ -318,155 +334,39 @@ _________________
 प्रमाणान्तराण्यप्यत्राह  **अत** इति। एकात्मतां सायुज्यम्। अस्यैव शेषो
 भक्तिमन्विच्छन्त इति। ननु न ब्रह्मजिज्ञासाशब्दो ज्ञानेच्छापरः किन्तु
 विचारस्योपलक्षकः सत्यम् तथापि तत्पूर्वको विचारो लक्ष्यते अन्यथा
-सम्बन्धाभावात् लोकसिद्धन्यायात् लोकसिद्धव्याप्तिकानुमानात्।  
-
+सम्बन्धाभावात् लोकसिद्धन्यायात् लोकसिद्धव्याप्तिकानुमानात्।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-
-।।2.47।।  
-
-
-तव च **कर्मण्य् एव अधिकारः** न ज्ञान-निष्ठायां **ते** तव। तत्र च कर्म कुर्वतः **मा फलेषु** अधिकारः अस्तु - कर्मफलतृष्णा मा भूत् **कदाचन** कस्याञ्चिद् अप्य् अवस्थायाम् इत्य् अर्थः। यदा कर्म-फले तृष्णा ते स्यात् तदा कर्म-फल-प्राप्तेः हेतुः स्याः - एवं **मा कर्मफलहेतुः** भूः। यदा हि कर्म-फल-तृष्णा-प्रयुक्तः कर्मणि प्रवर्तते तदा कर्मफलस्यैव जन्मनो हेतुर् भवेत्। 
-
-यदि कर्म-फलं नेष्यते किं कर्मणा दुःख-रूपेण इति **मा ते** तव **सङ्गः अस्तु अकर्मणि** - अकरणे प्रीतिर् मा भूत्।।  
-  
-  
-
+॥2.48॥ अतश्च  
+कर्मणीति। कर्ममात्रे त्वं व्यापृतो भव न तु कर्मफलेषु। ननु कर्मणि कृते ( omits कृते N substitutes जाते) नान्तरीयकतयैव फलमापततीति मैवम्। तत्र हि यदि त्वं फलकामनाकालुष्यव्याप्तो भवसि तदा कर्मणां फलं प्रति हेतुत्वम्। यत् अप्रार्थ्यमानं फलं तत् +++(S N omit तत्)+++ ज्ञानं नानिच्छोस्तत् इति। कर्माभावेन यः संगः स एव गाढग्रहरूपो मिथ्याज्ञानस्वरूपः इति त्याज्य एव ( N इत्यत्याज्य एव)।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।2.47।। तेरा कर्ममें ही अधिकार है ज्ञाननिष्ठामें नहीं। वहाँ (
-कर्ममार्गमें ) कर्म करते हुए तेरा फलमें कभी अधिकार न हो अर्थात् तुझे
-किसी भी अवस्थामें कर्मफलकी इच्छा नहीं होनी चाहिये।  
-यदि कर्मफलमें तेरी तृष्णा होगी तो तू कर्मफलप्राप्तिका कारण होगा। अतः इस
-प्रकार कर्मफलप्राप्तिका कारण तू मत बन।  
-क्योंकि जब मनुष्य कर्मफलकी कामनासे प्रेरित होकर कर्ममें प्रवृत्त होता है
-तब वह कर्मफलरूप पुनर्जन्मका हेतु बन ही जाता है।  
-यदि कर्मफलकी इच्छा न करें तो दुःखरूप कर्म करनेकी क्या आवश्यकता है इस
-प्रकार कर्म न करनेमें भी तेरी आसक्तिप्रीति नहीं होनी चाहिये।  
+<details><summary>शङ्करनारायणः</summary>
 
+2.47 Karmani etc. You should be concerned in the action alone, but not in the fruits of actions. But, if an action has been performed, then will not its fruit just inevitably befall \[to the performer\] ; No. It is not so. For, in that case, if you are covered with the dirt of desire for fruits, then you become a cuase for the fruit of action. What is prayed for is known to be the fruit; and it does not befall him who does not desire it. Thus, what attachment a person entertains with regard to the negation of action, that alone is like a firm seizure, and is of the nature of false conception, and hence it must be abandoned. Then what ;-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.47 Te, your; adhikarah, right; is karmani eva, for action alone, not
-for steadfastness in Knowledge. Even there, when you are engaged in
-action, you have ma kadacana, never, i.e. under no condition whatever; a
-right phalesu, for the results of action may you not have a hankering
-for the results of action. Whenever you have a hankering for the fruits
-of action, you will become the agent of aciring the results of action.
-Ma, do not; thus bhuh, become; karma-phalahetuh, the agent of aciring
-the results of action. For when one engages in action by being impelled
-by thirst for the results of action, then he does become the cause for
-the production of the results of action. Ma, may you not; astu, have;
-sangah, an inclination; akarmani, for inaction, thinking, 'If the
-results of work be not desired, what is the need of work which involves
-pain;'
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।2.47।। तर्हि परम्परया पुरुषार्थसाधनं योगमार्गं परित्यज्य साक्षादेव
-पुरुषार्थकारणमात्मज्ञानं तदर्थमुपदेष्टव्यं तस्मै हि स्पृहयति मनो
-मदीयमित्याशङ्क्याह **तव चेति।** तर्हि तत्फलाभिलाषोऽपि स्यादिति नेत्याह
-**मा** **फलेष्विति।** पूर्वोक्तमेवार्थं प्रपञ्चयति **मा कर्मेति।**
-फलाभिसन्ध्यसंभवे कर्माकरणमेव श्रद्दधामीत्याशङ्क्याह **मा त इति।**
-ज्ञानानधिकारिणोऽपि कर्मत्यागप्रसक्तिं निवारयति **कर्मण्येवेति।**
-कर्मण्येवेत्येवकारार्थमाह  **न  
-  
-**ज्ञानेति। **नहि तत्राब्राह्मणस्यापरिपक्वकषायस्य मुख्योऽधिकारः
-सिध्यतीत्यर्थः। फलैस्तर्हि संबन्धो दुर्वारः स्यादित्याशङ्क्याह**
-तत्रेति। **कर्मण्येवाधिकारे सतीति सप्तम्यर्थः। फलेष्वधिकाराभावं
-स्फोरयति** कर्मेति। **कर्मानुष्ठानात्प्रागूर्ध्वं तत्काले
-चेत्येतत्कदाचनेति विवक्षितमित्याह** कस्यांचिदिति। **फलाभिसंधाने
-दोषमाह** यदेति। **एवं कर्मफलतृष्णाद्वारेणेत्यर्थः। कर्मफलहेतुत्वं
-विवृणोति** यदा हीति। **तर्हि विफलं क्लेशात्मकं कर्म न कर्तव्यमिति
-शङ्कामनुभाष्य दूषयति** यदीत्यादिना। **अकर्मणि ते सङ्गो मा
-भूदित्युक्तमेव स्पष्टयति** अकरण इति।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।2.47।। ननु निष्कामकर्मभिरात्मज्ञानं संपाद्य परमानन्दप्राप्तिः क्रियते
-चेदात्मज्ञानमेव तर्हि संपाद्यं किं बह्वायासैः  
-  
-कर्मभिर्बहिरङ्गसाधनभूतैरित्याशङ्क्याह ते तवाशुद्धान्तःकरणस्य
-तात्त्विकज्ञानोत्पत्त्ययोग्यस्य  
-  
-कर्मण्येवान्तःकरणशोधकेऽधिकारो मयेदं कर्तव्यमिति बोधोऽस्तु न
-ज्ञाननिष्ठारुपे वेदान्तवाक्यविचारादौ। कर्म च कुर्वतस्तव तत्फलेषु
-स्वर्गादिषु कदाचन कस्यांचिदप्यवस्थायां कर्मानुष्ठानात्प्रागूर्ध्वं
-तत्काले वाधिकारो मयेदं भोक्तव्यमिति बोधो मास्तु। ननु मयेदं भोक्तव्यमिति
-बुद्ध्यभावेऽपि कर्म स्वसामर्थ्यादेव फलं जनयिष्यतीति चेन्नेत्याह मा
-कर्मफलहेतुर्भूः फलकामनया हि कर्म कुर्वन्फलस्य हेतुरुत्पादको भवति। त्वं
-तु निष्कामः सन्कर्मफलहेतुर्माभूः। नहि निष्कामेन भगवदर्पणबुद्ध्या कृतं
-कर्म फलाय कल्पत इत्युक्तम्। फलाभावे किं कर्मणेत्यत आह मा ते
-सङ्गोऽस्त्वकर्मणि। यदि फलं नेष्यते किं कर्मणा दुःखरूपेणेत्यकरणे तव
-प्रीतिर्माभूत्।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।2.47।। ननु ममाप्यौपनिषदात्मज्ञानार्थिनः शम एवेष्टस्तत्कथं मां
-युध्यस्वेति प्रेरयसीत्याशङ्क्याह **कर्मण्येवेति।** कर्मण्येवाधिकारो न
-ज्ञाननिष्ठायाम्। मा फलेषु सङ्गोऽस्त्वित्यपकृष्यते। कर्मफलं
-स्वर्गपश्वादिहेतुः कर्मसु प्रवर्तकं यस्य तादृशो मा भूः। अकर्मणि
-कर्माकरणेऽपि तव सङ्गो मास्तु।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।2.47।। मम तर्हि क्वाधिकार इत्याकाङ्क्षायामाह **कर्मणीति।**
-कर्मण्येव नतु ज्ञाननिष्ठायामन्तःकरणशुद्य्धभावात् तत्रापि चित्तशुद्धिहेतौ
-फलाभिसंधिरहिते कर्मणि नतु बन्धनिमित्ते काम्ये इत्याह **मेति।** कदाचन
-कस्यांचितवस्थायामपि कर्मफलतृष्णा ते मास्तु। फलतृष्णया काम्ये तेऽधिकारो
-मास्त्विति यावत्। ननु तृष्णाभावेऽपि भोजनात्तृप्तिरिव कर्मणः फलं
-स्यादेवेति तत्राह **मा** **कर्मेति।** मा कर्मफले हेतुर्भूः फलतृष्णया
-तदुत्पादको माभूः। कामनया कृतस्य कर्मणः पश्वादिफलदातृत्वनियमात्चित्रया
-यजेत पशुकामः इति श्रुतेः। यत्तु कर्मफलं प्रवृत्तिहेतुर्यस्येति तन्न।
-बहुव्रीह्यपेक्षया तत्पुरुषस्य लघुत्वात् दुःखरुपेण निष्फलेन कर्मणा किमिति
-ते कर्माकरणे सङ्ग आसक्तिर्माभूत्।  
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.47।। एवं सति मम वेदोदन्वति किमुपादेयमित्याकाङ्क्षायामाह
+॥2.47॥ एवं सति मम वेदोदन्वति किमुपादेयमित्याकाङ्क्षायामाह
 कर्मण्येवाधिकारस्ते इति। कर्मैवोपादेयं तत्रैव तत्राधिकार इति। परन्तु
 तत्फलेषु मा कदाचनाधिकारोऽस्तु। उपदेशमुद्रामाह मा कर्मफलहेतुर्भूरिति।
-अकर्मणि च निषिद्धे परधर्मे सङ्गो मा तेऽस्तु।  
-
+अकर्मणि च निषिद्धे परधर्मे सङ्गो मा तेऽस्तु।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।2.47।। नन्वेवं चेत्तर्हि किमिति कर्मकरणोपदेशः इत्याशङ्क्याह
+<details><summary>पुरुषोत्तमः</summary>
+
+॥2.47॥ नन्वेवं चेत्तर्हि किमिति कर्मकरणोपदेशः इत्याशङ्क्याह
 कर्मण्येवाधिकारस्त इति। ते तव स्वपराह**न्मभ()**ज्ञानयुक्तस्य कर्मण्येव
 अधिकारः। अस्तीति शेषः। अत्रायं भावः यावत्पर्यन्तं स्वपरेति ज्ञान तावन्न
 कर्मत्यागः। अत एवतावत्कर्माणि कुर्वीत न निर्विद्येत यावता इत्याद्युक्तं
@@ -475,21 +375,14 @@ _________________
 कर्म कामाभावे स्वफलं करिष्यत्येव अज्ञानादपि भक्षणे विषवन्मृत्युमित्यत आह
 मा कर्मफलहेतुरिति। त्वं कर्मफलहेतुः कर्मफलभोगभोग्यदेहयुक्तो मा भूः। न
 भविष्यसीत्यर्थः। मदाज्ञयेति भावः। किञ्च ते अकर्मणि सकामकर्त्तरि सङ्गः
-सम्बन्धो मास्तु। एवं वरमेव ददामीति भावः।  
-  
-  
-  
-
+सम्बन्धो मास्तु। एवं वरमेव ददामीति भावः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।2.47।। तर्हि सर्वकर्मफलानि परमेश्वराराधनादेव भविष्यन्तीत्यभिसंधाय
+॥2.47॥ तर्हि सर्वकर्मफलानि परमेश्वराराधनादेव भविष्यन्तीत्यभिसंधाय
 प्रवर्तेत किं कर्मणेत्याशङ्क्य तद्वारयन्नाह **कर्मण्येवेति।** ते तव
 तत्त्वज्ञानार्थिनः कर्मण्येवाधिकारः। तत्फलेषु बन्धहेतुष्वधिकारः कामो
 मास्तु। ननु कर्मणि कृते तत्फलं स्यादेव भोजने कृते तृप्तिवदित्याशङ्क्याह।
@@ -498,14 +391,100 @@ _________________
 भावः। अतएव फलं बन्धकं भविष्यतीति भयादकर्मणि कर्माकरणेऽपि तव सङ्गो निष्ठा
 मास्तु।  
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+2.47 To work alone you have the right, and not to the fruits. Do not be impelled by the fruits of work. Nor have attachment to inaction.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+2.47 Your right is for action alone, never for the results. Do not become the agent of the results of action. May you not have any inclination for inaction.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+2.47 But thou hast only the right to work, but none to the fruit thereof. Let not then the fruit of thy action be thy motive; nor yet be thou enamored of inaction.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+2.47. Let your claim lie on action alone and never on the fruits; you should never be a cause for the fruits of action; let not your attachment be to inaction.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+2.47 Thy right is to work only, but never with its fruits; let not the fruits of action be thy motive, nor let thy attachment be to inaction.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+2.47 कर्मणि in work; एव only; अधिकारः right; ते thy; मा not; फलेषु in the fruits; कदाचन at any time; मा not; कर्मफलहेतुः भूः let not the fruits of action be thy motive; मा not; ते thy; सङ्गः attachment; अस्तु
+let (there) be; अकर्मणि in inaction.Commentary When you perform actions have no desire for the fruits thereof under any circumstances. If you thirst for the fruits of your actions; you will have to take birth again and again to enjoy them. Action done with expectation of fruits
+(rewards) brings bondage. If you do not thirst for them; you get purification of heart and you will get knowledge of the Self through purity of heart and through the knowledge of the Self you will be freed from the round of births and deaths.Neither let thy attachment be towards inaction thinking what is the use of doing actions when I cannot get any reward for themIn a broad sense Karma means action. It also means duty which one has to perform according to his caste or station of life. According to the followers of the Karma Kanda of the Vedas (the Mimamsakas) Karma means the rituals and sacrifices prescribed in the Vedas. It has a deep meaning also. It signifies the destiny or the storehouse of tendencies of a man which give rise to his future birth.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।2.47।। कर्तव्य-कर्म करनेमें ही तेरा अधिकार है, फलोंमें कभी नहीं। अतः
+तू कर्मफलका हेतु भी मत बन और तेरी अकर्मण्यतामें भी आसक्ति न हो।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+2.47।।***व्याख्या--*****'कर्मण्येवाधिकारस्ते'--**प्राप्त कर्तव्य
+कर्मका पालन करनेमें ही तेरा अधिकार है। इसमें तू स्वतन्त्र है। कारण कि
+मनुष्य कर्मयोनि है। मनुष्यके सिवाय दूसरी कोई भी योनि नया कर्म करनेके
+लिये नहीं है। पशु-पक्षी आदि जङ्गम और वृक्ष, लता आदि स्थावर प्राणी नया
+कर्म नहीं कर सकते। देवता आदिमें नया कर्म करनेकी सामर्थ्य तो है, पर वे
+केवल पहले किये गये यज्ञ, दान आदि शुभ कर्मोंका फल भोगनेके लिये ही हैं। वे
+भगवान्के विधानके अनुसार मनुष्योंके लिये कर्म करनेकी सामग्री दे सकते हैं,
+पर केवल सुखभोगमें ही लिप्त रहनेके कारण स्वयं नया कर्म नहीं कर सकते।
+नारकीय जीव भी भोगयोनि होनेके कारण अपने दुष्कर्मोंका फल भोगते हैं, नया
+कर्म नहीं कर सकते। नया कर्म करनेमें तो केवल-मनुष्यका ही अधिकार है।
+भगवान्ने सेवारूप नया कर्म करके केवल अपना उद्धार करनेके लिये यह अन्तिम
+मनुष्यजन्म दिया है। अगर यह कर्मोंको अपने लिये करेगा तो बन्धनमें पड़
+जायगा और अगर कर्मोंको न करके आलस्य-प्रमादमें पड़ा रहेगा तो बार-बार
+जन्मता-मरता रहेगा। अतः भगवान् कहते हैं कि तेरा केवल सेवारूप कर्तव्य-कर्म
+करनेमें ही अधिकार है।  
+**'कर्मणि'**पदमें एकवचन देनेका तात्पर्य है कि मनुष्यके सामने देश, काल,
+घटना, परिस्थिति आदिको लेकर शास्त्रविहित कर्म तो अलग-अलग होंगे, पर एक
+समयमें एक मनुष्य किसी एक कर्मको ही तत्परतापूर्वक कर सकता है। जैसे,
+क्षत्रिय होनेके कारण अर्जुनके लिये युद्ध करना, दान देना आदि
+कर्तव्यकर्मोंका विधान है, पर वर्तमानमें युद्धके समय वह एक युद्धरूप
+कर्तव्य-कर्म ही कर सकता है, दान आदि कर्तव्य-कर्म नहीं कर सकता।  
+**'मार्मिक बात'**  
+मनुष्यशरीरमें दो बातें हैं--पुराने कर्मोंका फलभोग और नया पुरुषार्थ।
+दूसरी योनियोंमें केवल पुराने कर्मोंका फलभोग है अर्थात् कीट-पतंग,
+पशु-पक्षी, देवता, ब्रह्म-लोकतककी योनियाँ भोग-योनियाँ हैं। इसलिये उनके
+लिये ऐसा करो और ऐसा मत करो'--यह विधान नहीं है। पशु-पक्षी कीट-पतंग आदि जो
+कुछ भी कर्म करते हैं, उनका वह कर्म भी फलभोगमें है। कारण कि उनके द्वारा
+किया जानेवाला कर्म उनके प्रारब्धके अनुसार पहलेसे ही रचा हुआ है। उनके
+जीवनमें अनुकूल-प्रतिकूल परिस्थितिका जो कुछ भोग होता है, वह भोग भी
+फलभोगमें ही है। परन्तु मनुष्यशरीर तो केवल नये पुरुषार्थके लिये ही मिला
+है, जिससे यह अपना उद्धार कर ले।  
+इस मनुष्यशरीरमें दो विभाग हैं--एक तो इसके सामने पुराने कर्मोंके फलरूपमें
+अनुकूल-प्रतिकूल परिस्थिति आती है; और दूसरा यह नया पुरुषार्थ (नये कर्म)
+करता है। नये कर्मोंके अनुसार ही इसके भविष्यका निर्माण होता है। इसलिये
+शास्त्र, सन्त-महापुरुषोंका विधि-निषेध, राज्य आदिका शासन केवल मनुष्योंके
+लिये ही होता है ;क्योंकि मनुष्यमें पुरुषार्थकी प्रघानता है, नये कर्मोंको
+करनेकी स्वतन्त्रता है। परन्तु पिछले कर्मोंके फलस्वरूप मिलनेवाली
+अनुकूल-प्रतिकूलरूप परिस्थितिको बदलनेमें यह परतन्त्र है। तात्पर्य है कि
+मनुष्य कर्म करनेमें स्वतन्त्र और फल-प्राप्तिमें परतन्त्र है। परन्तु
+अनुकूल-प्रतिकूलरूपसे प्राप्त परिस्थितिका सदुपयोग करके मनुष्य उसको अपने
+उद्धारकी साधन-सामग्री बना सकता है; क्योंकि यह मनुष्यशरीर अपने उद्धारके
+लिये ही मिला है। इसलिये इसमें नया पुरुषार्थ भी उद्धारके लिये है और
+पुराने कर्मोंके फल फलरूपसे प्राप्त परिस्थिति भी उद्धारके लिये ही है।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।2.47।। वेद प्रतिपादित सिद्धान्त के अनुसार ईश्वरार्पण बुद्धि और निष्काम
 भाव से किये गये कर्म अन्तकरण को शुद्ध करते हैं। आत्मबोध के पूर्व
@@ -570,121 +549,13 @@ _________________
 प्राप्त कर सकता है। जितनी अधिक मात्रा में चित्त में शुद्धि होगी उतनी ही
 अधिक आत्मानुभूति उसे सुलभ होगी।  
 यदि कर्मफल की आसक्ति रखकर कर्म न करें तो फिर उन्हें कैसे करना चाहिये
-इसका उत्तर है  
-
+इसका उत्तर है
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।2.47।। कर्म करने मात्र में तुम्हारा अधिकार है; फल में कभी नहीं। तुम
-कर्मफल के हेतु वाले मत होना और अकर्म में भी तुम्हारी आसक्ति न हो।।  
-  
-
+कर्मफल के हेतु वाले मत होना और अकर्म में भी तुम्हारी आसक्ति न हो।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।2.47।। कर्तव्य-कर्म करनेमें ही तेरा अधिकार है, फलोंमें कभी नहीं। अतः
-तू कर्मफलका हेतु भी मत बन और तेरी अकर्मण्यतामें भी आसक्ति न हो।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-2.47।।***व्याख्या--*****'कर्मण्येवाधिकारस्ते'--**प्राप्त कर्तव्य
-कर्मका पालन करनेमें ही तेरा अधिकार है। इसमें तू स्वतन्त्र है। कारण कि
-मनुष्य कर्मयोनि है। मनुष्यके सिवाय दूसरी कोई भी योनि नया कर्म करनेके
-लिये नहीं है। पशु-पक्षी आदि जङ्गम और वृक्ष, लता आदि स्थावर प्राणी नया
-कर्म नहीं कर सकते। देवता आदिमें नया कर्म करनेकी सामर्थ्य तो है, पर वे
-केवल पहले किये गये यज्ञ, दान आदि शुभ कर्मोंका फल भोगनेके लिये ही हैं। वे
-भगवान्के विधानके अनुसार मनुष्योंके लिये कर्म करनेकी सामग्री दे सकते हैं,
-पर केवल सुखभोगमें ही लिप्त रहनेके कारण स्वयं नया कर्म नहीं कर सकते।
-नारकीय जीव भी भोगयोनि होनेके कारण अपने दुष्कर्मोंका फल भोगते हैं, नया
-कर्म नहीं कर सकते। नया कर्म करनेमें तो केवल-मनुष्यका ही अधिकार है।
-भगवान्ने सेवारूप नया कर्म करके केवल अपना उद्धार करनेके लिये यह अन्तिम
-मनुष्यजन्म दिया है। अगर यह कर्मोंको अपने लिये करेगा तो बन्धनमें पड़
-जायगा और अगर कर्मोंको न करके आलस्य-प्रमादमें पड़ा रहेगा तो बार-बार
-जन्मता-मरता रहेगा। अतः भगवान् कहते हैं कि तेरा केवल सेवारूप कर्तव्य-कर्म
-करनेमें ही अधिकार है।  
-**'कर्मणि'**पदमें एकवचन देनेका तात्पर्य है कि मनुष्यके सामने देश, काल,
-घटना, परिस्थिति आदिको लेकर शास्त्रविहित कर्म तो अलग-अलग होंगे, पर एक
-समयमें एक मनुष्य किसी एक कर्मको ही तत्परतापूर्वक कर सकता है। जैसे,
-क्षत्रिय होनेके कारण अर्जुनके लिये युद्ध करना, दान देना आदि
-कर्तव्यकर्मोंका विधान है, पर वर्तमानमें युद्धके समय वह एक युद्धरूप
-कर्तव्य-कर्म ही कर सकता है, दान आदि कर्तव्य-कर्म नहीं कर सकता।  
-**'मार्मिक बात'**  
-मनुष्यशरीरमें दो बातें हैं--पुराने कर्मोंका फलभोग और नया पुरुषार्थ।
-दूसरी योनियोंमें केवल पुराने कर्मोंका फलभोग है अर्थात् कीट-पतंग,
-पशु-पक्षी, देवता, ब्रह्म-लोकतककी योनियाँ भोग-योनियाँ हैं। इसलिये उनके
-लिये ऐसा करो और ऐसा मत करो'--यह विधान नहीं है। पशु-पक्षी कीट-पतंग आदि जो
-कुछ भी कर्म करते हैं, उनका वह कर्म भी फलभोगमें है। कारण कि उनके द्वारा
-किया जानेवाला कर्म उनके प्रारब्धके अनुसार पहलेसे ही रचा हुआ है। उनके
-जीवनमें अनुकूल-प्रतिकूल परिस्थितिका जो कुछ भोग होता है, वह भोग भी
-फलभोगमें ही है। परन्तु मनुष्यशरीर तो केवल नये पुरुषार्थके लिये ही मिला
-है, जिससे यह अपना उद्धार कर ले।  
-इस मनुष्यशरीरमें दो विभाग हैं--एक तो इसके सामने पुराने कर्मोंके फलरूपमें
-अनुकूल-प्रतिकूल परिस्थिति आती है; और दूसरा यह नया पुरुषार्थ (नये कर्म)
-करता है। नये कर्मोंके अनुसार ही इसके भविष्यका निर्माण होता है। इसलिये
-शास्त्र, सन्त-महापुरुषोंका विधि-निषेध, राज्य आदिका शासन केवल मनुष्योंके
-लिये ही होता है ;क्योंकि मनुष्यमें पुरुषार्थकी प्रघानता है, नये कर्मोंको
-करनेकी स्वतन्त्रता है। परन्तु पिछले कर्मोंके फलस्वरूप मिलनेवाली
-अनुकूल-प्रतिकूलरूप परिस्थितिको बदलनेमें यह परतन्त्र है। तात्पर्य है कि
-मनुष्य कर्म करनेमें स्वतन्त्र और फल-प्राप्तिमें परतन्त्र है। परन्तु
-अनुकूल-प्रतिकूलरूपसे प्राप्त परिस्थितिका सदुपयोग करके मनुष्य उसको अपने
-उद्धारकी साधन-सामग्री बना सकता है; क्योंकि यह मनुष्यशरीर अपने उद्धारके
-लिये ही मिला है। इसलिये इसमें नया पुरुषार्थ भी उद्धारके लिये है और
-पुराने कर्मोंके फल फलरूपसे प्राप्त परिस्थिति भी उद्धारके लिये ही है।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-2.47. Let your claim lie on action alone and never on the fruits; you should never be a cause for the fruits of action; let not your attachment be to inaction.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-2.47 Your right is for action alone, never for the results. Do not become the agent of the results of action. May you not have any inclination for inaction.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-2.47 But thou hast only the right to work, but none to the fruit thereof. Let not then the fruit of thy action be thy motive; nor yet be thou enamored of inaction.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-2.47 To work alone you have the right, and not to the fruits. Do not be impelled by the fruits of work. Nor have attachment to inaction.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-2.47 Thy right is to work only, but never with its fruits; let not the fruits of action be thy motive, nor let thy attachment be to inaction.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-2.47 कर्मणि in work; एव only; अधिकारः right; ते thy; मा not; फलेषु in the fruits; कदाचन at any time; मा not; कर्मफलहेतुः भूः let not the fruits of action be thy motive; मा not; ते thy; सङ्गः attachment; अस्तु
-let (there) be; अकर्मणि in inaction.Commentary When you perform actions have no desire for the fruits thereof under any circumstances. If you thirst for the fruits of your actions; you will have to take birth again and again to enjoy them. Action done with expectation of fruits
-(rewards) brings bondage. If you do not thirst for them; you get purification of heart and you will get knowledge of the Self through purity of heart and through the knowledge of the Self you will be freed from the round of births and deaths.Neither let thy attachment be towards inaction thinking what is the use of doing actions when I cannot get any reward for themIn a broad sense Karma means action. It also means duty which one has to perform according to his caste or station of life. According to the followers of the Karma Kanda of the Vedas (the Mimamsakas) Karma means the rituals and sacrifices prescribed in the Vedas. It has a deep meaning also. It signifies the destiny or the storehouse of tendencies of a man which give rise to his future birth.
-
-</details>
 </div>

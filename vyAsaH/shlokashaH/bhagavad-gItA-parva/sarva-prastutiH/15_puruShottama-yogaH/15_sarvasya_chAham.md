@@ -1,273 +1,78 @@
 +++
 title = "15 सर्वस्य चाहम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 सर्वस्य चाहं हृदि सन्निविष्टो  
 मत्तः स्मृतिर् ज्ञानम् अपोहनं च।  
 वेदैश् च सर्वैर् **अहम् एव वेद्यो**  
 वेदान्त-कृद् वेद-विद् एव चाहम्॥15.15॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/15_sarvasya_chAham.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 सर्वस्य चाहं हृदि सन्निविष्टो  
 मत्तः स्मृतिर्ज्ञानमपोहनं च।  
 वेदैश्च सर्वैरहमेव वेद्यो  
-वेदान्तकृद्वेदविदेव चाहम्।।15.15।।
+वेदान्तकृद्वेदविदेव चाहम्॥15.15॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।15.15।। तयोः सोमवैश्वानरयोः **सर्वस्य** भूतजातस्य **च**
-सकलप्रवृत्तिनिवृत्तिमूलज्ञानोदयदेशे हृदि सर्वं मत्संकलपेन नियच्छन्
-**अहम्** आत्मतया **सन्निविष्टः**।  
-  
-तथा आहुः श्रुतयः -- अन्तःप्रविष्टः शास्ता जनानां सर्वात्मा (तै॰ आ॰
-3।11)यः पृथिव्यां तिष्ठन् (बृह॰ उ॰ 3।7।3)यः आत्मनि तिष्ठन्नात्मनोऽन्तरो
-यमयति। (बृह॰ उ॰ 3।7।22)पद्मकोशप्रतीकांश हृदयं चाप्यधोमुखम्। (तै॰ ना॰
-11)अथ यदिदमस्मिन् ब्रह्मपुरे दहरं पुण्डरीकं वेश्म (छा॰ उ॰ 8।1।1)
-इत्याद्याः।  
-  
-स्मृतयः चशास्ता विष्णुरशेषस्य जगतो यो जगन्मयः। (वि॰ पु॰
-1।17।20)प्रशासितारं सर्वेषामणीयांसमणीयसाम्। (मनु॰ 12।122)यमो वैवस्वतो
-राजा यस्तवैष हृदि स्थितः। (मनु॰ 8।92) इत्याद्याः। अतो **मत्तः** एव
-सर्वेषां **स्मृतिः** जायते; स्मृतिः पूर्वानुभूतविषयम्
-अनुभवसंस्कारमात्रजं ज्ञानम्। **ज्ञानम्** इन्द्रियलिङ्गागमयोगजो
-वस्तुनिश्चयः; सः अपि मत्तः। **अपोहनं च;** अपोहनं ज्ञाननिवृत्तिः। अपोहनम्
-ऊहनं वा ऊहनं ऊहः; ऊहो नाम -- इदं प्रमाणम् इत्थं प्रवर्तितुम् अहर्ति इति
-प्रमाणप्रवृत्त्यर्हताविषयं सामग्यादिनिरूपणजन्यं प्रमाणानुग्राहकं ज्ञानम्
-ऊहो नाम वितर्कः; स च मत्त एव।**वेदैः च सर्वैः अहम् एव वेद्यः।** अतः
-अग्निवायुसूर्यसोमेन्द्रादीनां मदन्तर्यामिकत्वेन मदात्मकत्वात्
-तत्प्रतिपादनपरैः अपि सर्वैः वेदैः अहम् एव वेद्यः; देवमनुष्यादिशब्दैः
-जीवात्मा इव।  
-  
-**वेदान्तकृत्** वेदानाम् इन्द्रं यजेत् (शत॰ ब्रा॰ 5।1।6)वरुणं यजेत (शत॰
-ब्रा॰ 2।3।37) इति एवमादीनाम् अन्तः फलं फले हि ते सर्वे वेदाः
-पर्यवस्यन्ति; अन्तकृत् फलकृत्; वेदोदितफलस्य प्रदाता च अहम् एव
-इत्यर्थः।  
-  
-तदुक्तं पूर्वम् एव -- यो यो यां यां तुनं भक्तः श्रद्धयार्चितुमिच्छति।
-(गीता 7।21) इत्यारभ्यलभते च ततः कामान् मयैव विहितान् हि तान्। (गीता
-7।22) इतिअहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च।। (गीता 9।24) इति
-च।**वेदविद् एव च अहम्** वेदवित् च अहम् एव; एवं मदभिधायिनं वेदम् अहम् एव
-वेद। इतः अन्यथा यो वेदार्थं ब्रूते; न स वेदविद् इति अभिप्रायः। अतः मत्त
-एव सर्व वेदानां सारभूतम् अर्थं श्रृणु --
-
+॥15.15॥ तयोः सोमवैश्वानरयोः **सर्वस्य** भूतजातस्य **च** सकलप्रवृत्तिनिवृत्तिमूलज्ञानोदयदेशे हृदि सर्वं मत्सङ्कलपेन नियच्छन् **अहम्** आत्मतया **सन्निविष्टः**।  
+        
+तथा आहुः श्रुतयः -- अन्तःप्रविष्टः शास्ता जनानां सर्वात्मा (तै॰ आ॰ 3।11)यः पृथिव्यां तिष्ठन् (बृह॰ उ॰ 3।7।3)य आत्मनि तिष्ठन्नात्मनोऽन्तरो यमयति। (बृह॰ उ॰ 3।7।22)पद्मकोशप्रतीकांश हृदयं चाप्यधोमुखम्। (तै॰ ना॰ 11)अथ यदिदमस्मिन् ब्रह्मपुरे दहरं पुण्डरीकं वेश्म (छा॰ उ॰ 8।1।1) इत्याद्याः।  
+        
+स्मृतयश् चशास्ता विष्णुरशेषस्य जगतो यो जगन्मयः। (वि॰ पु॰ 1।17।20)प्रशासितारं सर्वेषामणीयांसमणीयसाम्। (मनु॰ 12।122)यमो वैवस्वतो राजा यस्तवैष हृदि स्थितः। (मनु॰ 8।92) इत्याद्याः। अतो **मत्तः** एव सर्वेषां **स्मृतिः** जायते; स्मृतिः पूर्वानुभूतविषयम् अनुभवसंस्कारमात्रजं ज्ञानम्। **ज्ञानम्** इन्द्रियलिङ्गागमयोगजो वस्तुनिश्चयः; सो ऽपि मत्तः। **अपोहनं च;** अपोहनं ज्ञाननिवृत्तिः। अपोहनम् ऊहनं वा ऊहनम् ऊहः; ऊहो नाम -- इदं प्रमाणम् इत्थं प्रवर्तितुम् अहर्ति इति प्रमाणप्रवृत्त्यर्हताविषयं सामग्यादिनिरूपणजन्यं प्रमाणानुग्राहकं ज्ञानम् ऊहो नाम वितर्कः; स च मत्त एव।**वेदैश् च सर्वैर् अहम् एव वेद्यः।** अतो ऽग्निवायुसूर्यसोमेन्द्रादीनां मदन्तर्यामिकत्वेन मदात्मकत्वात् तत्प्रतिपादनपरैर् अपि सर्वैर् वेदैर् अहम् एव वेद्यः; देवमनुष्यादिशब्दैर् जीवात्मा इव।  
+        
+**वेदान्तकृत्** वेदानाम् इन्द्रं यजेत् (शत॰ ब्रा॰ 5।1।6)वरुणं यजेत (शत॰ ब्रा॰ 2।3।37) इत्य् एवमादीनाम् अन्तः फलं फले हि ते सर्वे वेदाः पर्यवस्यन्ति; अन्तकृत् फलकृत्; वेदोदितफलस्य प्रदाता च अहम् एव इत्यर्थः।  
+        
+तदुक्तं पूर्वम् एव -- यो यो यां यां तुनं भक्तः श्रद्धयार्चितुमिच्छति। (गीता 7।21) इत्यारभ्यलभते च ततः कामान् मयैव विहितान् हि तान्। (गीता 7।22) इतिअहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च॥ (गीता 9।24) इति च।**वेदविद् एव च अहं** वेदविच् च अहम् एव; एवं मदभिधायिनं वेदम् अहम् एव वेद। इतो ऽन्यथा यो वेदार्थं ब्रूते; न स वेदविद् इत्य् अभिप्रायः। अतः मत्त एव सर्व वेदानां सारभूतम् अर्थं श्रृणु --
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।15.15।। एक एव हि वायुः
-शारीरोऽनेकवृत्तिरितिपञ्चवृत्तिर्मनोवद्व्यपदिश्यते \[ब्र.सू.2।4।12\] इति
-सूत्रभाष्येण प्राणोऽपानो व्यान उदानः समान इत्येतत्सर्वं प्राण एव
-\[बृ.उ.1।5।3\] इति श्रुत्योपपादितम्। सर्वस्य चाहम् इति
-श्लोकस्यासाङ्गत्यशङ्कापरिहारायोक्तसामानाधिकरण्यहेतुपरत्वेन सङ्गतिमाहअत्र
-परमपुरुषविभूतिभूतावित्यादिना। चशब्द उक्तसमुच्चयार्थ इत्यभिप्रेत्य
-उक्तार्थमाहतयोः सोमवैश्वानरयोरिति। सर्वस्य इत्यस्यहृदि
-इत्येतत्समभिव्याहारसामर्थ्यलब्धार्थमाह -- सर्वस्य च भूतजातस्येति। हृदि
-इति निर्देशस्य प्रयोजनं सूचयितुं तत्स्वभावमाहसकलप्रवृत्तीति।
-आकाशवन्निविष्टत्वव्यवच्छेदायाह -- आत्मतया सन्निविष्ट इति।
-आत्मत्वोपपादनायोक्तंसर्वं मत्सङ्कल्पेन नियच्छन्निति।  
-  
-तथाहुरिति। नियमनार्थमन्तःप्रविष्टत्वेनात्मत्वेन चेममाहुरित्यर्थः।
-प्रथमपादोक्तार्थो द्वितीयपादेनोच्यमानार्थे हेतुरित्याहअत इति। सर्वेषां
-जायत इति चार्थसिद्धकथनम्। श्रुत्युपबृंहणस्मृतिभ्रमव्युदासायाहस्मृतिरिति।
-बाह्यविषयानन्वितत्वमतव्युदासायोक्तंपूर्वानुभूतविषयमिति।
-प्रत्यभिज्ञानप्रत्यक्षव्यावृत्यर्थंमात्रपदम्। गोबलीवर्दन्यायमभिप्रेत्य
-ज्ञानपदं व्याचष्टे -- इन्द्रियलिङ्गेति। अपोढदोषः
-इत्यादिप्रयोगानुसारेणापोहनशब्दस्य निवृत्तिपरत्वम्; निवृत्तेः
-प्रतियोगिसाकाङ्क्षत्वेन प्रकृतज्ञानप्रतियोगिकत्वं चाभिप्रेत्याहअपोहनं
-ज्ञाननिवृत्तिरिति। पूर्वम्अप परी वर्जने \[अष्टा.1।4।88\] इत्यपेत्यस्य
-वर्जनद्योतकत्वमभिप्रेत्य व्याख्यातम् इदानीं तदविवक्षयाअध्याहारस्तर्क ऊहः
-\[अमरः1।5।3\] इति कोशानुसारेण
-ज्ञानपदोक्तप्रमाणज्ञानानुग्राहकतर्कपरत्वमुचितमित्यभिप्रायेण
-व्याचष्टेअपोहनमूहनं वेति। ऊहनशब्दश्च भावे ल्युडन्त इत्याशयेनाहऊहनमूह
-इति। इत्थं प्रवर्तितुमर्हतीति -- चाक्षुषप्रमा
-रूपिरूपतदेकाश्रययोग्यचक्षुस्सम्बन्धविषये
-प्रवर्तितुमर्हतीत्येवमादिरूपप्रमाणप्रवृत्त्यर्हताविषयमित्यर्थः।  
-  
-सर्वस्य चाहं हृदि सन्निविष्टः इत्युक्तसर्वान्तरात्मत्वस्यवेदैश्च
-सर्वैरहमेव वेद्यः इत्यत्रापि हेतुत्वमाह -- अत इति। सर्वैर्वेदैरहमेव वेद्य
-इति -- नारायणं महाज्ञेयं वचसां वाच्यमुत्तमम्
-इत्युक्तप्रधानवेद्योऽहमेवेत्यर्थः। शरीरवाचिशब्दैरात्मन एव
-प्रधानवेद्यत्वे दृष्टान्तमाह -- देवमनुष्यादीति। चत्वारः पञ्चदशरात्रा
-देवत्वं गच्छन्तिवाचिकैः पक्षिमृगतां मानसैरन्त्यजातिताम्। शरीरजैः
-कर्मदोषैर्याति स्थावरतां नरः \[मनुः12।9\]
-इत्याद्यनन्यथासिद्धवैदिकलौकिकप्रयोगान्मनुष्यादिशब्दानामात्मपर्यन्तत्वं
-मुख्यमेवेति भावः। वेदान्तशब्दस्योपनिषत्परत्वे वेदनाशपरत्वे
-प्रकृतासङ्गत्यानुपपत्त्या चान्तशब्दस्य चरमवाचिअभिप्रेत्य व्याचष्टे --
-वेदानामिति। इन्द्रं यजेतेति -- इन्द्रं यजेत वरुणं यजेत
-इत्येवमर्थवाक्यानामित्यर्थः। ऐन्द्रं दध्यमावास्यायाम्
-\[यजु.2।5।4।1\]ऐन्द्रं पयोऽमावास्यायान्तावतो
-वारुणांश्चतुष्कपालान्निर्वपेत् \[यजुः2।3।12।1\] इत्यादीनामिति यावत्।
-अन्तशब्दस्य कथं फलपरत्वं इत्यतस्तदुपपादयतिफले हीति। अहं हि सर्वयज्ञानां
-भोक्ता च प्रभुरेव च \[9।24\] इतिवत्। वेदैश्च सर्वैरहमेव वेद्यः इत्यनेन
-फलितसर्वकर्मसमाराध्यत्वानन्तरं तत्फलप्रदत्वोक्तिस्तैरेव सङ्गतेति
-सूचयन्फलितमर्थं ससंवादमाह -- वेदोदितफलस्येत्यादिना। एवकारस्य
-यथाश्रुतान्वये अयोगव्यवच्छेदार्थत्वं स्यात् तच्चायुक्तम्; भगवति
-वेदवित्त्वायोगस्यायुक्तेः अतो विशेष्यान्वयमाह -- वेदविच्चाहमेवेति। ये च
-वेदविदो विप्राः \[म.भा.3।66।26\] इति भगवदतिरिक्तानामपि
-वेदवित्त्वप्रतीतेः। अहमेवेति कथमितरयोगव्यवच्छेदः इत्यतस्तदभिप्रायमाह --
-एवं मदभिधायिनमिति।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥15.15॥ एक एव हि वायुः शारीरोऽनेकवृत्तिरितिपञ्चवृत्तिर्मनोवद्व्यपदिश्यते \[ब्र.सू.2।4।12\] इति सूत्रभाष्येण प्राणोऽपानो व्यान उदानः समान इत्येतत्सर्वं प्राण एव \[बृ.उ.1।5।3\] इति श्रुत्योपपादितम्। सर्वस्य चाहम् इति श्लोकस्यासाङ्गत्यशङ्कापरिहारायोक्तसामानाधिकरण्यहेतुपरत्वेन सङ्गतिमाहअत्र परमपुरुषविभूतिभूतावित्यादिना। चशब्द उक्तसमुच्चयार्थ इत्यभिप्रेत्य उक्तार्थमाहतयोः सोमवैश्वानरयोरिति। सर्वस्य इत्यस्यहृदि इत्येतत्समभिव्याहारसामर्थ्यलब्धार्थमाह -- सर्वस्य च भूतजातस्येति। हृदि इति निर्देशस्य प्रयोजनं सूचयितुं तत्स्वभावमाहसकलप्रवृत्तीति। आकाशवन्निविष्टत्वव्यवच्छेदायाह -- आत्मतया सन्निविष्ट इति। आत्मत्वोपपादनायोक्तंसर्वं मत्सङ्कल्पेन नियच्छन्निति।  
+        
+तथाहुरिति। नियमनार्थमन्तःप्रविष्टत्वेनात्मत्वेन चेममाहुरित्यर्थः। प्रथमपादोक्तार्थो द्वितीयपादेनोच्यमानार्थे हेतुरित्याहअत इति। सर्वेषां जायत इति चार्थसिद्धकथनम्। श्रुत्युपबृंहणस्मृतिभ्रमव्युदासायाहस्मृतिरिति। बाह्यविषयानन्वितत्वमतव्युदासायोक्तम्पूर्वानुभूतविषयमिति। प्रत्यभिज्ञानप्रत्यक्षव्यावृत्यर्थम्मात्रपदम्। गोबलीवर्दन्यायमभिप्रेत्य ज्ञानपदं व्याचष्टे -- इन्द्रियलिङ्गेति। अपोढदोषः इत्यादिप्रयोगानुसारेणापोहनशब्दस्य निवृत्तिपरत्वम्; निवृत्तेः प्रतियोगिसाकाङ्क्षत्वेन प्रकृतज्ञानप्रतियोगिकत्वं चाभिप्रेत्याहअपोहनं ज्ञाननिवृत्तिरिति। पूर्वम्अप परी वर्जने \[अष्टा.1।4।88\] इत्यपेत्यस्य वर्जनद्योतकत्वमभिप्रेत्य व्याख्यातम् इदानीं तदविवक्षयाअध्याहारस्तर्क ऊहः \[अमरः1।5।3\] इति कोशानुसारेण ज्ञानपदोक्तप्रमाणज्ञानानुग्राहकतर्कपरत्वमुचितमित्यभिप्रायेण व्याचष्टेअपोहनमूहनं वेति। ऊहनशब्दश्च भावे ल्युडन्त इत्याशयेनाहऊहनमूह इति। इत्थं प्रवर्तितुमर्हतीति -- चाक्षुषप्रमा रूपिरूपतदेकाश्रययोग्यचक्षुस्सम्बन्धविषये प्रवर्तितुमर्हतीत्येवमादिरूपप्रमाणप्रवृत्त्यर्हताविषयमित्यर्थः।  
+        
+सर्वस्य चाहं हृदि सन्निविष्टः इत्युक्तसर्वान्तरात्मत्वस्यवेदैश्च सर्वैरहमेव वेद्यः इत्यत्रापि हेतुत्वमाह -- अत इति। सर्वैर्वेदैरहमेव वेद्य इति -- नारायणं महाज्ञेयं वचसां वाच्यमुत्तमम् इत्युक्तप्रधानवेद्योऽहमेवेत्यर्थः। शरीरवाचिशब्दैरात्मन एव प्रधानवेद्यत्वे दृष्टान्तमाह -- देवमनुष्यादीति। चत्वारः पञ्चदशरात्रा देवत्वं गच्छन्तिवाचिकैः पक्षिमृगतां मानसैरन्त्यजातिताम्। शरीरजैः कर्मदोषैर्याति स्थावरतां नरः \[मनुः12।9\] इत्याद्यनन्यथासिद्धवैदिकलौकिकप्रयोगान्मनुष्यादिशब्दानामात्मपर्यन्तत्वं मुख्यमेवेति भावः। वेदान्तशब्दस्योपनिषत्परत्वे वेदनाशपरत्वे प्रकृतासङ्गत्यानुपपत्त्या चान्तशब्दस्य चरमवाचिअभिप्रेत्य व्याचष्टे -- वेदानामिति। इन्द्रं यजेतेति -- इन्द्रं यजेत वरुणं यजेत इत्येवमर्थवाक्यानामित्यर्थः। ऐन्द्रं दध्यमावास्यायाम् \[यजु.2।5।4।1\]ऐन्द्रं पयोऽमावास्यायान्तावतो वारुणांश्चतुष्कपालान्निर्वपेत् \[यजुः2।3।12।1\] इत्यादीनामिति यावत्। अन्तशब्दस्य कथं फलपरत्वम् इत्यतस्तदुपपादयतिफले हीति। अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च \[9।24\] इतिवत्। वेदैश्च सर्वैरहमेव वेद्यः इत्यनेन फलितसर्वकर्मसमाराध्यत्वानन्तरं तत्फलप्रदत्वोक्तिस्तैरेव सङ्गतेति सूचयन्फलितमर्थं ससंवादमाह -- वेदोदितफलस्येत्यादिना। एवकारस्य यथाश्रुतान्वये अयोगव्यवच्छेदार्थत्वं स्यात् तच्चायुक्तम्; भगवति वेदवित्त्वायोगस्यायुक्तेः अतो विशेष्यान्वयमाह -- वेदविच्चाहमेवेति। ये च वेदविदो विप्राः \[म.भा.3।66।26\] इति भगवदतिरिक्तानामपि वेदवित्त्वप्रतीतेः। अहमेवेति कथमितरयोगव्यवच्छेदः इत्यतस्तदभिप्रायमाह -- एवं मदभिधायिनमिति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 15.15 Controlling everything by My will, I exist as 'the self in their hearts', namely, in the place from which springs knowledge, the root of activity and inactivity of all beings as also of the Soma and digestive fire. So the Srutis declare in the following texts: 'Entering within, He is the ruler of all things and the Self of all' (Tai. A., 3.11), 'He who, dwelling in the earth ৷৷. He who, dwelling in the self, is within the self ৷৷. who controls the earth' (Br. U. Madh., 3.7. 3. 22); 'The heart which is comparable to an inverted lotus-bud' (Ma. Na., 11.7); and
 'Now, here, in the city of brahman, is an abode, a small lotus-flower'
 (Cha. U., 8.1.1). The Smrtis also declare thus: 'Visnu is the ruler of the whole universe, who permeates the universe' (V. P., 1.17. 20), 'He is the ruler of all, who is minutely small among those who are minutely small (Manu., 12.122); and 'He is the controller, the judge, the King,
-who is seated in your heart' (Ibid., 8.92). Therefore, the memory of all beings springs from Me alone. 'Memory' is knowledge springing from experience and its subtle impressions. They have for their contents past experiences. 'Knowledge' is determination of a thing through the senses,
-inference, the scriptures and intuitive meditation. This is also from Me. So does 'Apohana' too. 'Apohana' signifies the cessation of knowledge. 'Apohana' may also mean 'Uhana' (conjectural knowledge).
-Uhana is 'Uha' (conjecture). 'Uha' is that knowledge which is accessory to the actual means of knowledge (Pramana). It is done by determining whether that means of knowledge can be operative with reference to the particular subject-matter on hand, through the examination of the instruments of that means of knowledge (Pramana). This 'Uha' also comes from Me. Indeed 'I am to be known from all the Vedas,' for I am the inner ruler of Agni, Surya, Soma, Vayu, Sun and Indra and other divinities as their self. The Vedas are intent on speaking of them
+who is seated in your heart' (Ibid., 8.92). Therefore, the memory of all beings springs from Me alone. 'Memory' is knowledge springing from experience and its subtle impressions. They have for their contents past experiences. 'Knowledge' is determination of a thing through the senses, inference, the scriptures and intuitive meditation. This is also from Me. So does 'Apohana' too. 'Apohana' signifies the cessation of knowledge. 'Apohana' may also mean 'Uhana' (conjectural knowledge). Uhana is 'Uha' (conjecture). 'Uha' is that knowledge which is accessory to the actual means of knowledge (Pramana). It is done by determining whether that means of knowledge can be operative with reference to the particular subject-matter on hand, through the examination of the instruments of that means of knowledge (Pramana). This 'Uha' also comes from Me. Indeed 'I am to be known from all the Vedas,' for I am the inner ruler of Agni, Surya, Soma, Vayu, Sun and Indra and other divinities as their self. The Vedas are intent on speaking of them
 (i.e., the divinities). 'I am to be known from all the Vedas; for, terms like gods, men etc., signify the individual selves in them. I bring about the fruition of the Veda. 'Vedanta', here means the end, namely,
-the fruition, of Vedic injunctions like 'Let sacrifice be made to Indra'
-and 'Let sacrifice be made to Varuna.' For, all Vedas find their consummation in fruition. 'Antakrt' means grantor of fruits. The meaning is: 'I alone am the grantor of the fruition described in the Vedas.'
-This has been already declared in the verses beginning from, 'Whichever devotee seeks to worship with faith whatever form' and ending with,
+the fruition, of Vedic injunctions like 'Let sacrifice be made to Indra' and 'Let sacrifice be made to Varuna.' For, all Vedas find their consummation in fruition. 'Antakrt' means grantor of fruits. The meaning is: 'I alone am the grantor of the fruition described in the Vedas.' This has been already declared in the verses beginning from, 'Whichever devotee seeks to worship with faith whatever form' and ending with,
 'From that faith he gets the objects of his desire, granted in reality by Me alone' (7.21 - 22); and also 'I am the enjoyer and the only Lord of all sacrifices' (9.24). I am the knower of the Vedas; I know the Veda that speaks about Me. The sense is that he who speaks of the meaning of the Vedas as otherwise than this import, is not the knower of the Vedas.
 Therefore, listen from Me alone the meaning or the essene of the Vedas.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।15.15।। अत एव बोध्यरूपतामुक्त्वा
-तद्बोध्यस्वरूपपृष्टपतितस्वातन्त्र्यबोधस्वभावमात्मानं परस्वभावं
-परमेश्वररूपं +++(;N परमेश्वरस्वरूपं)+++ सर्वज्ञानस्वतन्त्रं सर्वकर्तारं
-दर्शयितुमाह -- सर्वस्येति। सर्वस्य वेद्यस्य यत् हृत्
-समस्ताहरणस्वतन्त्रबोधस्वभावं; तत्र अहमिति यो विमर्शः तत एव
-अपूर्वाभासनामयं ( अपूर्वावभासना -- ) ज्ञानं विश्वमहासृष्टिरूपम् अयं घट
-एव इति सर्वात्मकभावखण्डनासारं विकल्पज्ञानात्मकमपोहनं +++(;N विकल्पनाज्ञाना
--- )+++ पाशवसृष्टिरूपमायामयप्रमात्रुचितम् स्मरणं च संस्कारशेषतां नीतस्य
-संहृतस्य पुनरवभासनात्मकमिति। इयता समस्तज्ञानानि संहृतानि इति
-सर्वज्ञतापूर्वकं स्वातन्त्र्यरूपं कर्तृत्वमुक्तम्। सर्वैरिति -- संभूय
-किल सर्वशास्त्राणां परमेशतत्त्वमेव निरूप्यम्। वेदवेदान्तकर्तृत्वेन
-कर्मफलतत्संबन्धादिद्वारतया अशेषविशेषनिर्माणे; तदुन्मूलनेन पुनः
-स्वरूपप्रतिष्ठापने ( -- प्रतिष्ठा भगवत एव) भगवत एव स्वातन्त्र्यमिति
-विश्वकर्तृत्वमुक्तम्। अन्ये तु अपोहनम् अनेन अकृतेन +++(S;;N
-अन्येनाकृतेनेदं)+++ इदं भवति इति व्यतिरेकबुद्धिः। वेदान्तं करोति
-इत्यात्मसाद्भावेन +++(;N सद्भावेन)+++। एवं +++(N एतं)+++ वेदम्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-15.15 Sarvasya etc. The heart (core) of all obejcts is the Awareness
-which has the freedom of drawing in all \[beings within itself\] In it
-exists \[as identical with it\] the I-consciousness. From This are born
-(1) the faculty knowing, which is illumining anything new - a faculty
-which is (hence) in the form the mighty creation of the universe; (2) he
-faculty of differentiating, like fancying 'This is nothing but a pot',
-which fancying is in essence a sort of limiting Its status of being
-everything; which is suitable for the perceiver, full-of-Illusion in the
-form of creating a bonded Soul; and (3) also the faculty of remembrance
-which is the faculty of reilluminating what has been reduced ot mental
-impression and has been \[thus\] with-drawn. These \[three\] are
-inclusive of all \[sorts of\] knowledge. Thus \[the Lord's primary\]
-doership, which is nothing but the sovereignty of will and which
-presupposes His ominscience, has been taught \[in this verse here\]. By
-means of all \[the Vedas\] etc. : Indeed nothing, but the Supreme Lord
-is to be explained and proved by all the scriptures. \[The description
-of the Lord\] as the author of the Vedas and the ends of the Vedas
-(Upanisads) amounts to say this :- The Bhagavat alone has got the
-sovereign freedom in creating the entire universe, through the medium
-for the actions, their results, their \[mutual\] connections etc., and
-in re-establishing it on His (or its) own nature after rooting it out.
-Thus the Lord's creatorship with regard to the universe is explained.
-Others say : The word apohanam denotes the faculty of excluding (viz),
-'This results from this non-performance.' \[Again Vedantakrt\] means :
-'He effects the final part of the Vedas' i.e৷৷ by absorbing them into
-Himself. Similarly \[with\] 'the Vedas' too.
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।15.15।। वेदनिर्णयात्मिका मीमांसा वेदान्ताः। तथा च सामवेदे
-प्राचीनशालाश्रुतिः -- स वेदान्तकृत्स कालकः इति स ह्येव युक्तिसूत्रकृत्स
-कालकः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।15.15।। वेदान्तकृदित्युपनिषदां कर्तेत्यन्यथाप्रतीतिनिरासार्थमाह --
-**वेदे**ति। वेदो वेदार्थः तस्यान्तो निर्णयस्तदात्मिका।
-तादर्थ्यात्ताच्छब्द्यं मीमांसा ब्राह्मी तस्याः कर्तेति शेषः। कुत एतत्
-इत्यत आह -- **तथा चे**ति।
-युक्तिसूत्रकृद्वेदार्थनिर्णयार्थयुक्तिसूचकवाक्यकृत्। स कालक इति
-द्वितीयेन कलधातोर्ज्ञानाद्यर्थतया
-प्रसिद्धत्वान्निगदव्याख्यानमेतदित्याचष्टे।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।15.15।। --,**सर्वस्य** च प्राणिजातस्य **अहम्** आत्मा सन् **हृदि**
-बुद्धौ **संनिविष्टः।** अतः **मत्तः** आत्मनः सर्वप्राणिनां **स्मृतिः
-ज्ञानं** तदपोहनं च अपगमनं च येषां यथा पुण्यकर्मणां पुण्यकर्मानुरोधेन
-ज्ञानस्मृती भवतः; तथा पापकर्मणां पापकर्मानुरूपेण स्मृतिज्ञानयोः **अपोहनं
-च** अपायनम् अपगमनं च। **वेदैश्च सर्वैः अहमेव** परमात्मा **वेद्यः**
-वेदितव्यः। **वेदान्तकृत्** वेदान्तार्थसंप्रदायकृत् इत्यर्थः; **वेदवित्**
-वेदार्थवित् **एव च अहम्**।।  
+॥15.15॥ --,**सर्वस्य** च प्राणिजातस्य **अहम्** आत्मा सन् **हृदि** बुद्धौ **संनिविष्टः।** अतः **मत्तः** आत्मनः सर्वप्राणिनां **स्मृतिः ज्ञानं** तदपोहनं च अपगमनं च येषां यथा पुण्यकर्मणां पुण्यकर्मानुरोधेन ज्ञानस्मृती भवतः; तथा पापकर्मणां पापकर्मानुरूपेण स्मृतिज्ञानयोः **अपोहनं च** अपायनम् अपगमनं च। **वेदैश्च सर्वैः अहमेव** परमात्मा **वेद्यः** वेदितव्यः। **वेदान्तकृत्** वेदान्तार्थसंप्रदायकृत् इत्यर्थः; **वेदवित्** वेदार्थवित् **एव च अहम्**॥  
   
-भगवतः ईश्वरस्य नारायणाख्यस्य विभूतिसंक्षेपः उक्तः विशिष्टोपाधिकृतः
-यदादित्यगतं तेजः (गीता 15।12) इत्यादिना। ,अथ अधुना तस्यैव
-क्षराक्षरोपाधिप्रविभक्ततया निरुपाधिकस्य केवलस्य स्वरूपनिर्दिधारयिषया
-उत्तरे श्लोकाः आरभ्यन्ते। तत्र सर्वमेव अतीतानागतानन्तराध्यायार्थजातं
-त्रिधा राशीकृत्य आह --,
-
+भगवतः ईश्वरस्य नारायणाख्यस्य विभूतिसंक्षेपः उक्तः विशिष्टोपाधिकृतः यदादित्यगतं तेजः (गीता 15।12) इत्यादिना। ,अथ अधुना तस्यैव क्षराक्षरोपाधिप्रविभक्ततया निरुपाधिकस्य केवलस्य स्वरूपनिर्दिधारयिषया उत्तरे श्लोकाः आरभ्यन्ते। तत्र सर्वमेव अतीतानागतानन्तराध्यायार्थजातं त्रिधा राशीकृत्य आह --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।15.15।। तथा --, मैं समस्त प्राणिमात्रका आत्मा होकर उनके अन्तःकरणमें
-स्थित हूँ। इसलिये समस्त प्राणियोंके स्मृति; ज्ञान और उनका लोप भी मुझ
-आत्मासे ही किया जाता है; अर्थात् जिन पुण्यकर्मा प्राणियोंको उनके
-पुण्यकर्मोंके अनुसार ज्ञान और स्मृति प्राप्त होते हैं तथा जिन
-पापाचारियोंके ज्ञान और स्मृतिका उनके पापकर्मानुसार लोप होता है ( वह
-मुझसे ही होता है )। समस्त वेदोंद्वारा मैं परमात्मा ही जाननेयोग्य हूँ।
-तथा वेदान्तका कर्ता; अर्थात् वेदान्तार्थके सम्प्रदायका कर्ता और वेदके
-अर्थको समझनेवाला भी मैं ही हूँ। यदादित्यगतं तेजः इत्यादि चार
-श्लोकोंद्वारा नारायण नामक भगवान् ईश्वरकी; विशेषउत्तम उपाधियोंसे,होनेवाली
-विभूतियाँ संक्षेपसे कही गयीं।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 15.15 And aham, I, as the Self; san-nivistah, am seated; hrdi, in the
 hearts, in the intellects; sarvasya, of all creatures. Therefore, with
@@ -291,13 +96,25 @@ immutable. In that connection, after dividing into three parts \[The two
 limiting adjuncts-the mutable and the immutable-, and the supreme
 Self.\] all the teachings of the preceding and the immediately
 succeeding chapters, the Lord says:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।15.15।। इतश्च सर्वात्मत्वेन सर्वव्यवहारास्पदत्वमीश्वरस्येत्याह --
+<details><summary>हरिकृष्णदासः</summary>
+
+॥15.15॥ तथा --, मैं समस्त प्राणिमात्रका आत्मा होकर उनके अन्तःकरणमें
+स्थित हूँ। इसलिये समस्त प्राणियोंके स्मृति; ज्ञान और उनका लोप भी मुझ
+आत्मासे ही किया जाता है; अर्थात् जिन पुण्यकर्मा प्राणियोंको उनके
+पुण्यकर्मोंके अनुसार ज्ञान और स्मृति प्राप्त होते हैं तथा जिन
+पापाचारियोंके ज्ञान और स्मृतिका उनके पापकर्मानुसार लोप होता है ( वह
+मुझसे ही होता है )। समस्त वेदोंद्वारा मैं परमात्मा ही जाननेयोग्य हूँ।
+तथा वेदान्तका कर्ता; अर्थात् वेदान्तार्थके सम्प्रदायका कर्ता और वेदके
+अर्थको समझनेवाला भी मैं ही हूँ। यदादित्यगतं तेजः इत्यादि चार
+श्लोकोंद्वारा नारायण नामक भगवान् ईश्वरकी; विशेषउत्तम उपाधियोंसे,होनेवाली
+विभूतियाँ संक्षेपसे कही गयीं।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥15.15॥ इतश्च सर्वात्मत्वेन सर्वव्यवहारास्पदत्वमीश्वरस्येत्याह --
 **किञ्चेति।** प्राणिजातं ब्रह्मादिपुत्तिकान्तम्। आत्मतया बुद्धौ
 संनिविष्टत्वं तद्गुणदोषाणामशेषेण द्रष्टृत्वम्। अतो बुद्धिमध्यस्थस्य
 गुणदोषद्रष्टृत्वादिति यावत्। मत्तः
@@ -309,13 +126,40 @@ succeeding chapters, the Lord says:
 शङ्कां वारयति -- **वेदैरिति।** वेदान्तानां पौरुषेयत्वं परिहरति --
 **वेदेति।** तदर्थसंप्रदायप्रवर्तकत्वार्थं तदर्थयाथातथ्यज्ञानवत्त्वमाह --
 **वेदार्थेति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।15.15।। सर्वस्य चेति। किंच सर्वस्य ब्रह्मादिस्थावरान्तस्य
+<details><summary>नीलकण्ठः</summary>
+
+॥15.15॥ किंच सर्वस्य प्राणिजातस्याहं हृदि संनिविष्ट आत्मेत्यर्थः। अतो
+मत्त आत्मनस्तेषां स्मृतिर्ज्ञानं च पुण्यवताम्। पापिनां तु तयोरपोहनं
+विस्मरणमज्ञानं च भवति। तथा च सर्वैर्वेदैः
+कर्मोपास्तिज्ञानकाण्डात्मकैरहमेव,परमात्मा वेद्यो वेदान्तकृत्
+वेदान्तोक्तविद्यासंप्रदायकृत् वेदविद्वेदार्थविच्चाहमेव। एतेन
+वेदान्तविद्वेदविच्च स्वविभूतिरित्युक्तं भवति।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥15.15॥ एवं तत्पदस्य सर्वात्मत्वं सर्वव्यहारास्तपदत्वं
+विवक्षुर्विभूतिवर्णनमुपसंहरन्संकोचं परित्यजति -- सर्वस्येति। सर्वस्य
+ब्रह्मादिस्थावरान्तस्य प्राणिजातस्य हृदि संनिविष्टिः
+जीवात्मनान्तर्यामितया च। बुद्धौ संन्निविष्टत्वं बुद्धितादात्म्यापन्नत्वं
+तद्गुणदोषाणामशेषेण द्रष्टुत्वं च। अनेन जीवेनात्मनाऽनुप्रविश्य नामरुपे
+व्याकरवाणि। यो विज्ञाने तिष्ठन् विज्ञानमन्तरः इत्यादिश्रुतरेरतो बुद्धौ
+चिदाभासरुपेण स्थितत्वात्; तन्मध्यस्थगुणदोषद्रष्टृत्वाच्च। मत्त आत्मनः
+सर्वप्राणिनां स्मृतिर्जन्मान्तरादावनुभूतस्य परामर्शः
+तेशकालस्वभावविप्रकृष्टस्याप्यनुभवो ज्ञानं तदपोहनं च। यथा पुण्यकर्मिणां
+पुण्यकर्मानुरोधेन ज्ञानस्मृती भवतः; तथा पापकर्मिणां पापकर्मानुपेण
+स्मृतिज्ञानयोरपोहनमपगमनं च। कर्माध्यक्षान्मत्त एव भवतीत्यर्थः। अतः
+कारणात्सर्वैर्वेदैः
+कर्मकाण्डादिलक्ष्णैश्चकारात्स्मृतीतिहासपुराणादिभीश्चाहमेव परमात्मा
+सर्वरुपो वेद्यो वेदितव्यः; अहमेव वेदान्तकृत् वेदान्तार्थसंप्रदायकृत्
+सर्ववेदार्थविच्चाहमेव।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥15.15॥ सर्वस्य चेति। किंच सर्वस्य ब्रह्मादिस्थावरान्तस्य
 प्राणिजातस्याहमात्मा सन् हृदि बुद्धौ संनिविष्टःस एष इह प्रविष्टः इति
 श्रुतेःअनेन जीवेनात्मनानुप्रविश्य नामरूपे व्याकरवाणि इति च। अतो मत्त
 आत्मन एव हेतोः प्राणिजातस्य यथानुरूपं स्मृतिरेतज्जन्मनि
@@ -331,50 +175,53 @@ succeeding chapters, the Lord says:
 चाहं
 कर्मकाण्डोपासनाकाण्डज्ञानकाण्डात्मकमन्त्रब्राह्मणरूपसर्ववेदार्थविच्चाहमेव।
 अतः साधूक्तं ब्रह्मणो हि प्रतिष्ठाहमित्यादि।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।15.15।। किंच सर्वस्य प्राणिजातस्याहं हृदि संनिविष्ट आत्मेत्यर्थः। अतो
-मत्त आत्मनस्तेषां स्मृतिर्ज्ञानं च पुण्यवताम्। पापिनां तु तयोरपोहनं
-विस्मरणमज्ञानं च भवति। तथा च सर्वैर्वेदैः
-कर्मोपास्तिज्ञानकाण्डात्मकैरहमेव,परमात्मा वेद्यो वेदान्तकृत्
-वेदान्तोक्तविद्यासंप्रदायकृत् वेदविद्वेदार्थविच्चाहमेव। एतेन
-वेदान्तविद्वेदविच्च स्वविभूतिरित्युक्तं भवति।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।15.15।। एवं तत्पदस्य सर्वात्मत्वं सर्वव्यहारास्तपदत्वं
-विवक्षुर्विभूतिवर्णनमुपसंहरन्संकोचं परित्यजति -- सर्वस्येति। सर्वस्य
-ब्रह्मादिस्थावरान्तस्य प्राणिजातस्य हृदि संनिविष्टिः
-जीवात्मनान्तर्यामितया च। बुद्धौ संन्निविष्टत्वं बुद्धितादात्म्यापन्नत्वं
-तद्गुणदोषाणामशेषेण द्रष्टुत्वं च। अनेन जीवेनात्मनाऽनुप्रविश्य नामरुपे
-व्याकरवाणि। यो विज्ञाने तिष्ठन् विज्ञानमन्तरः इत्यादिश्रुतरेरतो बुद्धौ
-चिदाभासरुपेण स्थितत्वात्; तन्मध्यस्थगुणदोषद्रष्टृत्वाच्च। मत्त आत्मनः
-सर्वप्राणिनां स्मृतिर्जन्मान्तरादावनुभूतस्य परामर्शः
-तेशकालस्वभावविप्रकृष्टस्याप्यनुभवो ज्ञानं तदपोहनं च। यथा पुण्यकर्मिणां
-पुण्यकर्मानुरोधेन ज्ञानस्मृती भवतः; तथा पापकर्मिणां पापकर्मानुपेण
-स्मृतिज्ञानयोरपोहनमपगमनं च। कर्माध्यक्षान्मत्त एव भवतीत्यर्थः। अतः
-कारणात्सर्वैर्वेदैः
-कर्मकाण्डादिलक्ष्णैश्चकारात्स्मृतीतिहासपुराणादिभीश्चाहमेव परमात्मा
-सर्वरुपो वेद्यो वेदितव्यः; अहमेव वेदान्तकृत् वेदान्तार्थसंप्रदायकृत्
-सर्ववेदार्थविच्चाहमेव।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।15.15।। तेषां च सर्वभूतजातस्य परमपुरुषसामानाधिकरण्यनिर्देशे हेतुमाह --
+॥15.15॥ वेदनिर्णयात्मिका मीमांसा वेदान्ताः। तथा च सामवेदे
+प्राचीनशालाश्रुतिः -- स वेदान्तकृत्स कालकः इति स ह्येव युक्तिसूत्रकृत्स
+कालकः।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥15.15॥ वेदान्तकृदित्युपनिषदां कर्तेत्यन्यथाप्रतीतिनिरासार्थमाह --
+**वेदे**ति। वेदो वेदार्थः तस्यान्तो निर्णयस्तदात्मिका।
+तादर्थ्यात्ताच्छब्द्यं मीमांसा ब्राह्मी तस्याः कर्तेति शेषः। कुत एतत्
+इत्यत आह -- **तथा चे**ति।
+युक्तिसूत्रकृद्वेदार्थनिर्णयार्थयुक्तिसूचकवाक्यकृत्। स कालक इति
+द्वितीयेन कलधातोर्ज्ञानाद्यर्थतया
+प्रसिद्धत्वान्निगदव्याख्यानमेतदित्याचष्टे।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
+
+<details><summary>मूलम्</summary>
+
+॥15.15॥ अत एव बोध्यरूपतामुक्त्वा तद्बोध्यस्वरूपपृष्टपतितस्वातन्त्र्यबोधस्वभावमात्मानं परस्वभावं परमेश्वररूपं +++(;N परमेश्वरस्वरूपं)+++ सर्वज्ञानस्वतन्त्रं सर्वकर्तारं दर्शयितुमाह -- सर्वस्येति। सर्वस्य वेद्यस्य यत् हृत् समस्ताहरणस्वतन्त्रबोधस्वभावं; तत्र अहमिति यो विमर्शः तत एव अपूर्वाभासनामयं ( अपूर्वावभासना -- ) ज्ञानं विश्वमहासृष्टिरूपम् अयं घट एव इति सर्वात्मकभावखण्डनासारं विकल्पज्ञानात्मकमपोहनं +++(;N विकल्पनाज्ञाना
+-- )+++ पाशवसृष्टिरूपमायामयप्रमात्रुचितम् स्मरणं च संस्कारशेषतां नीतस्य
+संहृतस्य पुनरवभासनात्मकमिति। इयता समस्तज्ञानानि संहृतानि इति सर्वज्ञतापूर्वकं स्वातन्त्र्यरूपं कर्तृत्वमुक्तम्। सर्वैरिति -- संभूय किल सर्वशास्त्राणां परमेशतत्त्वमेव निरूप्यम्। वेदवेदान्तकर्तृत्वेन कर्मफलतत्संबन्धादिद्वारतया अशेषविशेषनिर्माणे; तदुन्मूलनेन पुनः स्वरूपप्रतिष्ठापने ( -- प्रतिष्ठा भगवत एव) भगवत एव स्वातन्त्र्यमिति विश्वकर्तृत्वमुक्तम्। अन्ये तु अपोहनम् अनेन अकृतेन +++(S;;N अन्येनाकृतेनेदं)+++ इदं भवति इति व्यतिरेकबुद्धिः। वेदान्तं करोति इत्यात्मसाद्भावेन +++(;N सद्भावेन)+++। एवं +++(N एतं)+++ वेदम्।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+15.15 Sarvasya etc. The heart (core) of all obejcts is the Awareness which has the freedom of drawing in all \[beings within itself\] In it exists \[as identical with it\] the I-consciousness. From This are born (1) the faculty knowing, which is illumining anything new - a faculty which is (hence) in the form the mighty creation of the universe; (2) he faculty of differentiating, like fancying 'This is nothing but a pot', which fancying is in essence a sort of limiting Its status of being everything; which is suitable for the perceiver, full-of-Illusion in the form of creating a bonded Soul; and (3) also the faculty of remembrance which is the faculty of reilluminating what has been reduced ot mental impression and has been \[thus\] with-drawn. These \[three\] are inclusive of all \[sorts of\] knowledge. Thus \[the Lord's primary\] doership, which is nothing but the sovereignty of will and which presupposes His ominscience, has been taught \[in this verse here\]. By means of all \[the Vedas\] etc. : Indeed nothing, but the Supreme Lord is to be explained and proved by all the scriptures. \[The description of the Lord\] as the author of the Vedas and the ends of the Vedas (Upanisads) amounts to say this :- The Bhagavat alone has got the sovereign freedom in creating the entire universe, through the medium for the actions, their results, their \[mutual\] connections etc., and in re-establishing it on His (or its) own nature after rooting it out. Thus the Lord's creatorship with regard to the universe is explained. Others say : The word apohanam denotes the faculty of excluding (viz), 'This results from this non-performance.' \[Again Vedantakrt\] means : 'He effects the final part of the Vedas' i.e৷৷ by absorbing them into Himself. Similarly \[with\] 'the Vedas' too.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
+
+<details><summary>मूलम्</summary>
+
+॥15.15॥ तेषां च सर्वभूतजातस्य परमपुरुषसामानाधिकरण्यनिर्देशे हेतुमाह --
 सर्वस्येति। तेषा च सर्वभूतजातस्य चेति। सर्वस्य
 सकलप्रवृत्तिहेतुज्ञानोदयदेशे हृदि सर्वं स्वसङ्कल्पेन नियच्छन्नहमात्मतया
 सन्निविष्टः अन्तःप्रविष्टः शास्ता जनानां सर्वात्मा
@@ -407,15 +254,11 @@ _________________
 पुष्टिरितिवेदान्तकृद्वेदार्थविदेव चाहं; नान्यः इत्युक्त्या मत्त एव
 सर्ववेदान्तानां सारमर्थं,शृण्विति पूर्वोक्तस्य सर्वस्य भाष्यमाभाष्यते
 भगवता भाष्यरूपत्त्वादस्याध्यायषट्कस्य।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।15.15।। नन्वेवं प्राणिमात्रस्य भगवद्रूपाग्निपाचितान्नपोषात्
+<details><summary>पुरुषोत्तमः</summary>
+
+॥15.15॥ नन्वेवं प्राणिमात्रस्य भगवद्रूपाग्निपाचितान्नपोषात्
 केषाञ्चिद्भगवत्स्मरणं केषाञ्चिदस्मरणादिकं च कथं इत्यत आह -- सर्वस्य
 चेति। चकारोऽपिशब्दार्थे। सर्वस्यापि अहं हृदि प्रेरकत्वेनेश्वररूपेण
 प्रविष्टः तिष्ठामीत्यर्थः। ततः किं अत आह -- मत्तः
@@ -428,107 +271,76 @@ _________________
 वेदशब्दानां मद्वाक्यरूपाणामलौकिकानामर्थप्रकाशः; नान्यथेत्यर्थः।
 वेदान्तकृत् सूत्रप्रदर्शनेन सम्प्रदायप्रवर्त्तको व्यासादिरूपो
 गुरुरहमेवेत्यर्थः। च पुनः अहमेव वेदवित् तदुक्तप्रकारेण शिष्यादिहृदयस्थो
-ज्ञानप्रकाशेन ज्ञानवानित्यर्थः। अतो न वेदादिभिरपि ज्ञानमिति भावः।  
-  
-
+ज्ञानप्रकाशेन ज्ञानवानित्यर्थः। अतो न वेदादिभिरपि ज्ञानमिति भावः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/15_sarvasya_chAham.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।15.15।। किंच **-- सर्वस्येति।** सर्वस्य प्राणिजातस्य हृदि
+॥15.15॥ किंच **-- सर्वस्येति।** सर्वस्य प्राणिजातस्य हृदि
 सम्यगन्तर्यामिरूपेण प्रविष्टोऽहम्। अतश्च मत्त एव हेतोः प्राणिमात्रस्य
 पूर्वानुभूतार्थविषया स्मृतिर्भवति। ज्ञानं च विषयेन्द्रियसंयोगजं भवति।
 अपोहनं च तयोः प्रमोषो भवति। वेदैश्च सर्वैस्तत्तद्देवतादिरूपेणाहमेव
 वेद्यः। वेदान्तकृत्तत्संप्रदायप्रवर्तकश्च ज्ञानदो गुरुरहमित्यर्थः।
 वेदविदेव च वेदार्थविदहमेव।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।15.15।। यदि परमात्मा ही सर्वत्र विविध वस्तुओं; प्राणियों और क्षमताओं
-के रूप में व्यक्त हो रहा है; तो साधक को उसका अनुभव किस प्रकार हो सकता है
-भगवान् श्रीकृष्ण कहते हैं कि वे चैतन्यरूप से समस्त प्राणियों के हृदय में
-निवास करते हैं। यहाँ हृदय शब्द से शारीरिक अगंरूप हृदय अभिप्रेत नहीं है।
-वह मन जो प्रेम; क्षमा; उदारता; करुणा जैसे सद्गुणों से सम्पन्न है; हृदय
-कहलाता है। दर्शनशास्त्र में हृदय का अर्थ शान्त; प्रसन्न; सजग और जागरूक
-मन है; जो सर्वोच्च आत्मतत्त्व का अनुभव करनें में सक्षम होता है। हृदय को
-परमात्मा का निवास स्थान कहने का अभिप्राय यह है कि यद्यपि वह सर्वत्र
-विद्यमान है; तथापि उस चैतन्य का आत्मरूप से साक्षात् अनुभव अपने हृदय में
-ही संभव है। मुझसे ही स्मृति; ज्ञान और उनका अपोहन होता है यह सर्वविदित
-तथ्य है कि जड़ वस्तुओं और मृत देह को किसी प्रकार का भी स्मरण; ज्ञान या
-विस्मरण नहीं होता है। इससे यह सिद्ध होता है कि मनबुद्धि रूप सूक्ष्म शरीर
-में जब चैतन्य व्यक्त होता है; तभी वह ज्ञान प्राप्त करने में समर्थ होता
-है; तथा वह चैतन्य समस्त वृत्तियों को प्रकाशित करता है। हम अपने जीवन में
-जो अनुभव प्राप्त करते हैं वे सभी हमारे मन में संस्कार के रूप में एकत्रित
-रहते हैं। जीवन में आवश्यकतानुसार हमें उनका स्मरण होता है; और इस प्रकार
-वे हमारे वर्तमान और भविष्य के कर्मों में सहायक होते हैं। हमारी समस्त
-वर्तमान शिक्षा और विद्या पूर्वानुभवों की स्मृति ही है। यदि हमें अपनी
-स्मृतियों का भान ही न हो तो वे हमारे उपयोग के लिये उपलब्ध ही नहीं होंगी।
-वर्तमान की परिस्थितियों के साथ उचित प्रकार से प्रतिक्रिया करना और इस
-प्रकार नये नये अनुभवों को प्राप्त करना ही अपने ज्ञान को विस्तृत बनाने की
-प्रक्रिया है। यह प्रक्रिया चैतन्य के प्रकाश में ही संभव है। नवीन
-ज्ञानार्जन की प्रक्रिया में पूर्व की मिथ्या धारणाओं को त्यागने की हमारी
-क्षमता सिद्ध हो जाती है। इसे ही इस श्लोक में अपोहनम् कहा गया है। मिथ्या
-ज्ञान की विस्मृति अथवा उसको त्यागे बिना नवीन ज्ञानोपार्जन संभव नहीं हो
-सकता। ज्ञान; स्मृति एवं विस्मरण की इन आन्तरिक मानसिक क्रियाओं को चैतन्य
-प्रकाशित करता है। मैं ही समस्त वेदों के द्वारा जानने योग्य तत्त्व हूँ
-विश्व के सभी धर्म ग्रन्थों में परमात्मा की ही स्तुति एवं पूजा की गई है।
-परमात्मा का साक्षात्कार ही जीवन का परम लक्ष्य है और उसकी प्राप्ति में ही
-कृत्कृत्यता भी है। समस्त प्राणियों के हृदय में रम रहा यह चैतन्य ही वह
-एकमेव अद्वितीय; परमार्थ सत्य है; जो सम्पूर्ण अनुभूयमान विश्व का एकमात्र
-अधिष्ठान है। मैं वेदान्तकृत् और वेदों का ज्ञाता भी हूँ चैतन्य ही वह सनातन
-सत्य है और शेष सब उस पर अध्यस्त है; वह चैतन्य ही सबका सारतत्त्व है;
-जिसमें वेद भी समाविष्ट हैं। वेदान्त का श्रवण करके जो साधक वेदनिर्दिष्ट
-आत्मस्वरूप का साक्षात् अनुभव करता है; वह किसी भी दशा में उस चैतन्य से
-भिन्न नहीं होता। इसलिये भगवान् कहते हैं; वेदवित् भी मैं ही हूँ। उपर्युक्त
-चार श्लोकों का सारांश यह है कि सच्चिदानन्दस्वरूप ब्रह्म ही सूर्य में
-प्रकाश; पृथ्वी में उर्वरा शक्ति; चन्द्रमा में अन्नपोषक प्रकाश; शरीर में
-वैश्वानर अग्नि; और प्राणिमात्र के हृदय में आत्मरूप से विराजमान है। यह
-ब्रह्म ही वेदों के द्वारा जानने योग्य सत्य वस्तु है; जो प्रकृति की विविध
-शक्तियों के रूप में व्यक्त होकर इस लोक में भूतमात्र का जीवन संभव बनाता
-है। इसे जानने का अर्थ ही अनन्त तत्त्व का अनुभव करना है। अब तक के इन
-श्लोकों में भगवान् नारायण की विभूतियों का अर्थात् उपाधियों के माध्यम से
-प्रकट होने वाले उनके वैभव का वर्णन किया गया है। अब; अगले प्रकरण में
-भगवान् श्रीकृष्ण अपने निरुपाधिक; सर्वगत और नित्य स्वरूप को दर्शाते हैं।
-यह पारमार्थिक अनन्त तत्त्व हमारी बुद्धि की समस्त कल्पनाओं; जैसे सान्त और
-अनन्त; क्षर और अक्षर के परे स्थित है। हमारे अनुभवों के आपेक्षिक जगत् को
-बताते हुये; भगवान् कहते हैं
-
+15.15 And I am seated in the hearts of all. From Me are memory,
+knowledge and their removal also. Indeed I alone am to be known from all the Vedas. I bring about the fruition of the rituals of Vedas; I alone am the knower of the Vedas.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।15.15।। मैं ही समस्त प्राणियों के हृदय में स्थित हूँ। मुझसे ही स्मृति,
-ज्ञान और अपोहन (उनका अभाव) होता है। समस्त वेदों के द्वारा मैं ही वेद्य
-(जानने योग्य) वस्तु हूँ तथा वेदान्त का और वेदों का ज्ञाता भी मैं ही
-हूँ।।
+<details><summary>गम्भीरानन्दः</summary>
 
+15.15 And I am seated in the hearts of all. From Me are memory,
+knowledge and their loss. I alone am the object to be known through all the Vedas; I am also the originator of the Vedanta, and I Myself am the knower of the Vedas.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+15.15 I am enthroned in the hearts of all; memory, wisdom and discrimination owe their origins to Me. I am He Who is to be realised in the scriptures; I inspire their wisdom and I know their truth.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+15.15. I am entered (the Self-conciousness is felt) in the heart of all;
+from Me (this Self-consciousness) come the faculty of memory, the faculty of knowing, and also the faculty of differentiating; none but Me is to be known by means of all the Vedas and I am alone the author of the final part of the Vedas and also the author of the Vedas themselves.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+15.15 And I am seated in the hearts of all; from Me are memory and knowledge, as well as their absence. I am verily That which has to be known by all the Vedas; I am indeed the author of the Vedanta and the knower of the Vedas am I.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+15.15 सर्वस्य of all; च and; अहम् I; हृदि in the heart; सन्निविष्टः
+seated; मत्तः from Me; स्मृतिः memory; ज्ञानम् knowledge; अपोहनम्
+(their) absence; च and; वेदैः by the Vedas; च and; सर्वैः (by) all; अहम्
+I; एव even; वेद्यः to be known; वेदान्तकृत् the author of the Vedanta;
+वेदवित् the knower of Vedas; एव even; च and; अहम् I.Commentary I am seated in the hearts of all sentient beings as their innermost Self.
+Therefore from Me; the Self of all beings; are memory; knowledge and their loss. Righteous persons have knowledge and memory as a result of virtuous deeds. Sinful persons have loss of memory and knowledge as a result of vicious deeds. Virtue promotes peace and hence intellectual powers.Apohanam Loss (destruction or absence) of memory and knowledge;
+as also of the reasoning faculty. The loss of memory and knowledge is due to lust; anger; grief and delusion.Smriti Memory. It is a special modification of the mind (Antahkarana Vritti) born of the Samskaras that causes the revival of the past experiences or enjoyments of sensual objects of this life in a worldy man who has not practised Yoga. A Yogi gets revival of experiences of his past lives and transcendental knowledge that is beyond time; space and causation and visible nature.I am the central topic of the Vedas. To understand the Vedas is to Know Me. I; the Supreme Being; am to be known in all the Vedas. It is I Who know the Vedic teaching or the meaning of the Vedas. I cause the teaching of the Vedanta to be handed down in regular succession. I am the author of what is beyond the Vedas; viz.; the Upanishads that constitute the Vedanta; that deal with the transcendental Supreme Being beyond all names and forms and devoid of all alities.A brief description of the glories of the Lord Narayana as manifested through special vehicles has been given in the above four verses. From the next verse a description of the form of Purushottama Who is free from any limiting adjunct is given. (Cf.X.20)
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.15।। मैं सम्पूर्ण प्राणियोंके हृदयमें स्थित हूँ। मेरेसे ही स्मृति,
 ज्ञान और अपोहन (संशय आदि दोषोंका नाश) होता है। सम्पूर्ण वेदोंके द्वारा
 मैं ही जाननेयोग्य हूँ। वेदोंके तत्त्वका निर्णय करनेवाला और वेदोंको
 जाननेवाला भी मैं ही हूँ।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।15.15।।***व्याख्या --***  **सर्वस्य चाहं हृदि संनिविष्टः**
 **(टिप्पणी प₀ 776)** -- पीछेके श्लोकोंमें अपनी विभूतियोंका वर्णन करनेके
@@ -773,61 +585,66 @@ _________________
 (तीन प्रकरणोंमें) क्रमशः संसार; जीवात्मा और परमात्माका विस्तारसे वर्णन
 किया। अब उस विषयका उपसंहार करते हुए आगेके दो श्लोकोंमें उन तीनोंका
 क्रमशः क्षर; अक्षर और पुरुषोत्तम नामसे स्पष्ट वर्णन करते हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-15.15. I am entered (the Self-conciousness is felt) in the heart of all;
-from Me (this Self-consciousness) come the faculty of memory, the faculty of knowing, and also the faculty of differentiating; none but Me is to be known by means of all the Vedas and I am alone the author of the final part of the Vedas and also the author of the Vedas themselves.
-
+।।15.15।। यदि परमात्मा ही सर्वत्र विविध वस्तुओं; प्राणियों और क्षमताओं
+के रूप में व्यक्त हो रहा है; तो साधक को उसका अनुभव किस प्रकार हो सकता है
+भगवान् श्रीकृष्ण कहते हैं कि वे चैतन्यरूप से समस्त प्राणियों के हृदय में
+निवास करते हैं। यहाँ हृदय शब्द से शारीरिक अगंरूप हृदय अभिप्रेत नहीं है।
+वह मन जो प्रेम; क्षमा; उदारता; करुणा जैसे सद्गुणों से सम्पन्न है; हृदय
+कहलाता है। दर्शनशास्त्र में हृदय का अर्थ शान्त; प्रसन्न; सजग और जागरूक
+मन है; जो सर्वोच्च आत्मतत्त्व का अनुभव करनें में सक्षम होता है। हृदय को
+परमात्मा का निवास स्थान कहने का अभिप्राय यह है कि यद्यपि वह सर्वत्र
+विद्यमान है; तथापि उस चैतन्य का आत्मरूप से साक्षात् अनुभव अपने हृदय में
+ही संभव है। मुझसे ही स्मृति; ज्ञान और उनका अपोहन होता है यह सर्वविदित
+तथ्य है कि जड़ वस्तुओं और मृत देह को किसी प्रकार का भी स्मरण; ज्ञान या
+विस्मरण नहीं होता है। इससे यह सिद्ध होता है कि मनबुद्धि रूप सूक्ष्म शरीर
+में जब चैतन्य व्यक्त होता है; तभी वह ज्ञान प्राप्त करने में समर्थ होता
+है; तथा वह चैतन्य समस्त वृत्तियों को प्रकाशित करता है। हम अपने जीवन में
+जो अनुभव प्राप्त करते हैं वे सभी हमारे मन में संस्कार के रूप में एकत्रित
+रहते हैं। जीवन में आवश्यकतानुसार हमें उनका स्मरण होता है; और इस प्रकार
+वे हमारे वर्तमान और भविष्य के कर्मों में सहायक होते हैं। हमारी समस्त
+वर्तमान शिक्षा और विद्या पूर्वानुभवों की स्मृति ही है। यदि हमें अपनी
+स्मृतियों का भान ही न हो तो वे हमारे उपयोग के लिये उपलब्ध ही नहीं होंगी।
+वर्तमान की परिस्थितियों के साथ उचित प्रकार से प्रतिक्रिया करना और इस
+प्रकार नये नये अनुभवों को प्राप्त करना ही अपने ज्ञान को विस्तृत बनाने की
+प्रक्रिया है। यह प्रक्रिया चैतन्य के प्रकाश में ही संभव है। नवीन
+ज्ञानार्जन की प्रक्रिया में पूर्व की मिथ्या धारणाओं को त्यागने की हमारी
+क्षमता सिद्ध हो जाती है। इसे ही इस श्लोक में अपोहनम् कहा गया है। मिथ्या
+ज्ञान की विस्मृति अथवा उसको त्यागे बिना नवीन ज्ञानोपार्जन संभव नहीं हो
+सकता। ज्ञान; स्मृति एवं विस्मरण की इन आन्तरिक मानसिक क्रियाओं को चैतन्य
+प्रकाशित करता है। मैं ही समस्त वेदों के द्वारा जानने योग्य तत्त्व हूँ
+विश्व के सभी धर्म ग्रन्थों में परमात्मा की ही स्तुति एवं पूजा की गई है।
+परमात्मा का साक्षात्कार ही जीवन का परम लक्ष्य है और उसकी प्राप्ति में ही
+कृत्कृत्यता भी है। समस्त प्राणियों के हृदय में रम रहा यह चैतन्य ही वह
+एकमेव अद्वितीय; परमार्थ सत्य है; जो सम्पूर्ण अनुभूयमान विश्व का एकमात्र
+अधिष्ठान है। मैं वेदान्तकृत् और वेदों का ज्ञाता भी हूँ चैतन्य ही वह सनातन
+सत्य है और शेष सब उस पर अध्यस्त है; वह चैतन्य ही सबका सारतत्त्व है;
+जिसमें वेद भी समाविष्ट हैं। वेदान्त का श्रवण करके जो साधक वेदनिर्दिष्ट
+आत्मस्वरूप का साक्षात् अनुभव करता है; वह किसी भी दशा में उस चैतन्य से
+भिन्न नहीं होता। इसलिये भगवान् कहते हैं; वेदवित् भी मैं ही हूँ। उपर्युक्त
+चार श्लोकों का सारांश यह है कि सच्चिदानन्दस्वरूप ब्रह्म ही सूर्य में
+प्रकाश; पृथ्वी में उर्वरा शक्ति; चन्द्रमा में अन्नपोषक प्रकाश; शरीर में
+वैश्वानर अग्नि; और प्राणिमात्र के हृदय में आत्मरूप से विराजमान है। यह
+ब्रह्म ही वेदों के द्वारा जानने योग्य सत्य वस्तु है; जो प्रकृति की विविध
+शक्तियों के रूप में व्यक्त होकर इस लोक में भूतमात्र का जीवन संभव बनाता
+है। इसे जानने का अर्थ ही अनन्त तत्त्व का अनुभव करना है। अब तक के इन
+श्लोकों में भगवान् नारायण की विभूतियों का अर्थात् उपाधियों के माध्यम से
+प्रकट होने वाले उनके वैभव का वर्णन किया गया है। अब; अगले प्रकरण में
+भगवान् श्रीकृष्ण अपने निरुपाधिक; सर्वगत और नित्य स्वरूप को दर्शाते हैं।
+यह पारमार्थिक अनन्त तत्त्व हमारी बुद्धि की समस्त कल्पनाओं; जैसे सान्त और
+अनन्त; क्षर और अक्षर के परे स्थित है। हमारे अनुभवों के आपेक्षिक जगत् को
+बताते हुये; भगवान् कहते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.15 And I am seated in the hearts of all. From Me are memory,
-knowledge and their loss. I alone am the object to be known through all the Vedas; I am also the originator of the Vedanta, and I Myself am the knower of the Vedas.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।15.15।। मैं ही समस्त प्राणियों के हृदय में स्थित हूँ। मुझसे ही स्मृति,
+ज्ञान और अपोहन (उनका अभाव) होता है। समस्त वेदों के द्वारा मैं ही वेद्य
+(जानने योग्य) वस्तु हूँ तथा वेदान्त का और वेदों का ज्ञाता भी मैं ही
+हूँ।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.15 I am enthroned in the hearts of all; memory, wisdom and discrimination owe their origins to Me. I am He Who is to be realised in the scriptures; I inspire their wisdom and I know their truth.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-15.15 And I am seated in the hearts of all. From Me are memory,
-knowledge and their removal also. Indeed I alone am to be known from all the Vedas. I bring about the fruition of the rituals of Vedas; I alone am the knower of the Vedas.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-15.15 And I am seated in the hearts of all; from Me are memory and knowledge, as well as their absence. I am verily That which has to be known by all the Vedas; I am indeed the author of the Vedanta and the knower of the Vedas am I.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/15_puruShottama-yogaH/15_sarvasya_chAham.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-15.15 सर्वस्य of all; च and; अहम् I; हृदि in the heart; सन्निविष्टः
-seated; मत्तः from Me; स्मृतिः memory; ज्ञानम् knowledge; अपोहनम्
-(their) absence; च and; वेदैः by the Vedas; च and; सर्वैः (by) all; अहम्
-I; एव even; वेद्यः to be known; वेदान्तकृत् the author of the Vedanta;
-वेदवित् the knower of Vedas; एव even; च and; अहम् I.Commentary I am seated in the hearts of all sentient beings as their innermost Self.
-Therefore from Me; the Self of all beings; are memory; knowledge and their loss. Righteous persons have knowledge and memory as a result of virtuous deeds. Sinful persons have loss of memory and knowledge as a result of vicious deeds. Virtue promotes peace and hence intellectual powers.Apohanam Loss (destruction or absence) of memory and knowledge;
-as also of the reasoning faculty. The loss of memory and knowledge is due to lust; anger; grief and delusion.Smriti Memory. It is a special modification of the mind (Antahkarana Vritti) born of the Samskaras that causes the revival of the past experiences or enjoyments of sensual objects of this life in a worldy man who has not practised Yoga. A Yogi gets revival of experiences of his past lives and transcendental knowledge that is beyond time; space and causation and visible nature.I am the central topic of the Vedas. To understand the Vedas is to Know Me. I; the Supreme Being; am to be known in all the Vedas. It is I Who know the Vedic teaching or the meaning of the Vedas. I cause the teaching of the Vedanta to be handed down in regular succession. I am the author of what is beyond the Vedas; viz.; the Upanishads that constitute the Vedanta; that deal with the transcendental Supreme Being beyond all names and forms and devoid of all alities.A brief description of the glories of the Lord Narayana as manifested through special vehicles has been given in the above four verses. From the next verse a description of the form of Purushottama Who is free from any limiting adjunct is given. (Cf.X.20)
-
-</details>
 </div>

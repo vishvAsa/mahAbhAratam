@@ -1,275 +1,213 @@
 +++
 title = "18 समः शत्रौ"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/18_samaH_shatrau.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **समः** शत्रौ च मित्रे च  
 तथा **मानापमानयोः**।  
 शीतोष्ण-सुख-दुःखेषु  
 समः सङ्ग-विवर्जितः॥12.18॥+++(4)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/18_samaH_shatrau.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 समः शत्रौ च मित्रे च तथा मानापमानयोः।  
-शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः।।12.18।।
+शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः॥12.18॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।12.18।। अद्वेष्टा सर्वभूतानाम् (गीता 12।13) इत्यादिना शत्रुमित्रादिषु
-द्वेषादिरहितत्वम् उक्तम्। अत्र तेषु सन्निहितेषु अपि समचित्तत्वम्; ततः
-अपि अतिरिक्तो विशेष उच्यते। आत्मनि स्थिरमतित्वेन निकेतनादिषु असक्त इति
-**अनिकेतः;** तत एव मानापमानादिषु अपि समः; य एवंभूतो **भक्तिमान्** स **मे
-प्रियः। अस्माद् आत्मनिष्ठात् मद्भक्तियोगनिष्ठस्य श्रैष्ठ्यं प्रतिपादयन्
-यथोपक्रमम् उपसंहरति --**
-
+॥12.18॥ अद्वेष्टा सर्वभूतानाम् (गीता 12।13) इत्यादिना शत्रुमित्रादिषु द्वेषादिरहितत्वम् उक्तम्। अत्र तेषु सन्निहितेष्व् अपि समचित्तत्वम्; ततो ऽप्य् अतिरिक्तो विशेष उच्यते। आत्मनि स्थिरमतित्वेन निकेतनादिष्व् असक्त इति **अनिकेतः;** तत एव मानापमानादिष्व् अपि समः; य एवम्भूतो **भक्तिमान्** स **मे प्रियः। अस्माद् आत्मनिष्ठान् मद्भक्तियोगनिष्ठस्य श्रैष्ठ्यं प्रतिपादयन् यथोपक्रमम् उपसंहरति --**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।12.18।। समः शत्रौ च इत्यादिना श्लोकद्वयेन बहुविधं सहेतुकं साम्यमुच्यते
-तत्र पुनरुक्तिमाशङ्क्य परिहरतिअद्वेष्टेति।
-सन्निहितस्वरूपमानावमानादिद्वन्द्वान्तरसहपाठवशादत्र शत्रुमित्रयोरपि
-सन्निहितयोर्विवक्षा। सन्निधिर्हि विकारमतिशयेन जनयति। ततोऽप्यतिरिक्त इति
-दूरस्थासन्नसाधारणात् अद्वेषमात्रादतिरिक्त इत्यर्थः। क्वचिदपि
-सङ्गवर्जितत्वाच्छीतोष्णादिषु समत्वम्। निन्दास्तुत्योः
-फलभूतामर्षानुरागादिरहितत्वान्निष्फलत्ववेषेण तुल्यत्वम्। मौनी इति नात्र
-मननं विवक्षितम्;स्थिरमतिः इत्यनेनैव सिद्धत्वात् मुनिर्मननशीलः; तस्य भावो
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥12.18॥ समः शत्रौ च इत्यादिना श्लोकद्वयेन बहुविधं सहेतुकं साम्यमुच्यते तत्र पुनरुक्तिमाशङ्क्य परिहरतिअद्वेष्टेति। सन्निहितस्वरूपमानावमानादिद्वन्द्वान्तरसहपाठवशादत्र शत्रुमित्रयोरपि सन्निहितयोर्विवक्षा। सन्निधिर्हि विकारमतिशयेन जनयति। ततोऽप्यतिरिक्त इति दूरस्थासन्नसाधारणात् अद्वेषमात्रादतिरिक्त इत्यर्थः। क्वचिदपि सङ्गवर्जितत्वाच्छीतोष्णादिषु समत्वम्। निन्दास्तुत्योः फलभूतामर्षानुरागादिरहितत्वान्निष्फलत्ववेषेण तुल्यत्वम्। मौनी इति नात्र मननं विवक्षितम्;स्थिरमतिः इत्यनेनैव सिद्धत्वात् मुनिर्मननशीलः; तस्य भावो
 **मित्यप्रसिद्धार्थता** च स्यात् नापि समस्तशब्दानुच्चारणं **त
-त्यन्तापेक्षाभावात्;** सङ्कीर्तनादिविधेश्च न च **कालविशेष**
-देनियतमौनव्रतं; तस्योपयुक्तत्वेऽपि पूर्वोत्तरसङ्गत्यभावात् निन्दन्तं हि
-निन्दन्ति लौकिकाः; स्तुवन्तं च स्तुवन्ति ततः
-प्रसक्तनिन्दास्तोत्रप्रतिक्षेपपरत्वमेवोचितम्। सन्तुष्टो येनकेनचित् इति
-मौनित्वे हेत्वन्तरपरम् अन्यथासन्तुष्टः सततं योगी \[12।14\] इति
-पूर्वोक्तत्वेन पुनरुक्तिप्रसङ्गात्।
-यदृच्छयागतैर्यत्किञ्चिद्द्रव्यैरसन्तुष्टो हि सापेक्षतया स्तुतिपूर्वं
-कञ्चन याचते; अदातारं च द्विष्यात्। यद्वा अन्यस्तुतितात्पर्येण वा
-निन्दन्ति। स्थिरमतित्वस्य प्रकरणविशेषितं विषयं दर्शयन् सर्वस्योपरि
-निर्दिष्टस्य तस्य साक्षात्परम्परया वा पूर्वोक्तसमस्तहेतुत्वं च
-दर्शयतिआत्मनीति। निकेतननिषेधस्य क्षेत्रादिनिषेधोपलक्षणतया आदिशब्दः।
-अत्रसमः इति द्वौ परिव्राड्विषयाविति यादवप्रकाशोक्तस्य न लिङ्गं पश्यामः।
-शत्रुमित्रसाम्यादिगुणानां मुमुक्षौ गृहस्थेऽप्यवश्यम्भावादनिकेतत्वस्य चन
-शब्दशास्त्राभिरतस्य मोक्षो नचापि रम्यावसथप्रियस्य। न भोजनाच्छादनतत्परस्य
-न लोकचित्तग्रहणे रतस्य।। एकान्तशीलस्य दृढव्रतस्य
-पञ्चेन्द्रियाप्रीतिनिवर्तकस्य। अध्यात्मविद्यारतमानसस्य मोक्षो ध्रुवो
-नित्यमहिंसकस्य \[वा.स्मृ.10।7आ.स्मृ.10।67\] इत्यादिन्यायेन
-निस्सङ्गतयाऽपि विर्वाहात्; गृहस्थादिषु
-निकेतसद्भावनिषेधस्यानुपकारकत्वात्; तत्सद्भावस्य
-क्वचिद्योगाद्युपकारकैत्वसम्भावनया च तत्सङ्गमात्रमेव निषेव्यतया
-विवक्षितमिति दर्शयितुंअसक्त इत्युक्तम्। अत एवअद्वेष्टा \[12।13\]
-इत्यादीनां सर्वेषामप्यक्षरोपासकसन्न्यासिविषयत्वंशङ्करोक्तं निरस्तम्।
-क्वचित्सक्तस्य हि स्वरूपतः सुखत्वरहितैर्मानादिभिः प्रीत्यादिकम् अतः
-क्वचिदपि सङ्गाभावान्मानादिषु समत्वमित्याह -- तत एवेति
-पूर्वश्लोकेष्विवात्रापि यत्तच्छब्दाध्याहारेणोद्देश्य विधेयांशविभागं
-दर्शयतिय एवम्भूतो भक्तिमान्स मे प्रिय इति।
-
+त्यन्तापेक्षाभावात्;** सङ्कीर्तनादिविधेश्च न च **कालविशेष** देनियतमौनव्रतं; तस्योपयुक्तत्वेऽपि पूर्वोत्तरसङ्गत्यभावात् निन्दन्तं हि निन्दन्ति लौकिकाः; स्तुवन्तं च स्तुवन्ति ततः प्रसक्तनिन्दास्तोत्रप्रतिक्षेपपरत्वमेवोचितम्। सन्तुष्टो येनकेनचित् इति मौनित्वे हेत्वन्तरपरम् अन्यथासन्तुष्टः सततं योगी \[12।14\] इति पूर्वोक्तत्वेन पुनरुक्तिप्रसङ्गात्। यदृच्छयागतैर्यत्किञ्चिद्द्रव्यैरसन्तुष्टो हि सापेक्षतया स्तुतिपूर्वं कञ्चन याचते; अदातारं च द्विष्यात्। यद्वा अन्यस्तुतितात्पर्येण वा निन्दन्ति। स्थिरमतित्वस्य प्रकरणविशेषितं विषयं दर्शयन् सर्वस्योपरि निर्दिष्टस्य तस्य साक्षात्परम्परया वा पूर्वोक्तसमस्तहेतुत्वं च दर्शयतिआत्मनीति। निकेतननिषेधस्य क्षेत्रादिनिषेधोपलक्षणतया आदिशब्दः। अत्रसमः इति द्वौ परिव्राड्विषयाविति यादवप्रकाशोक्तस्य न लिङ्गं पश्यामः। शत्रुमित्रसाम्यादिगुणानां मुमुक्षौ गृहस्थेऽप्यवश्यम्भावादनिकेतत्वस्य चन शब्दशास्त्राभिरतस्य मोक्षो नचापि रम्यावसथप्रियस्य। न भोजनाच्छादनतत्परस्य न लोकचित्तग्रहणे रतस्य॥ एकान्तशीलस्य दृढव्रतस्य पञ्चेन्द्रियाप्रीतिनिवर्तकस्य। अध्यात्मविद्यारतमानसस्य मोक्षो ध्रुवो नित्यमहिंसकस्य \[वा.स्मृ.10।7आ.स्मृ.10।67\] इत्यादिन्यायेन निस्सङ्गतयाऽपि विर्वाहात्; गृहस्थादिषु निकेतसद्भावनिषेधस्यानुपकारकत्वात्; तत्सद्भावस्य क्वचिद्योगाद्युपकारकैत्वसम्भावनया च तत्सङ्गमात्रमेव निषेव्यतया विवक्षितमिति दर्शयितुम्असक्त इत्युक्तम्। अत एवअद्वेष्टा \[12।13\] इत्यादीनां सर्वेषाम् अप्यक्षरोपासकसन्न्यासिविषयत्वं शङ्करोक्तं निरस्तम्। क्वचित्सक्तस्य हि स्वरूपतः सुखत्वरहितैर्मानादिभिः प्रीत्यादिकम् अतः क्वचिदपि सङ्गाभावान्मानादिषु समत्वमित्याह -- तत एवेति पूर्वश्लोकेष्विवात्रापि यत्तच्छब्दाध्याहारेणोद्देश्य विधेयांशविभागं दर्शयतिय एवम्भूतो भक्तिमान्स मे प्रिय इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.18 - 12.19 The absence of hate etc., towards foes, friends etc., has already been taught in the stanza beginning with, 'He who never hates any being' (11.13). What is now taught is that eanimity to be practised even when such persons mentioned above are present before one who is superior to those having a general eanimous temperament referred to earlier. Who has no 'home', namely, who is not attached to home, etc.,
-as he possesses firmness of mind with regard to the self. Because of this, he is 'same even in honour and dishonour.' He who is devoted to Me and who is like this - he is dear to Me. Showing the superiority of Bhakti-Nistha over Atma-nistha, Sri Krsna now concludes in accordance with what is stated at the beginning of this chapter in Verse 2.
+<details><summary>आदिदेवानन्दः</summary>
 
+12.18 - 12.19 The absence of hate etc., towards foes, friends etc., has already been taught in the stanza beginning with, 'He who never hates any being' (11.13). What is now taught is that eanimity to be practised even when such persons mentioned above are present before one who is superior to those having a general eanimous temperament referred to earlier. Who has no 'home', namely, who is not attached to home, etc., as he possesses firmness of mind with regard to the self. Because of this, he is 'same even in honour and dishonour.' He who is devoted to Me and who is like this - he is dear to Me. Showing the superiority of Bhakti-Nistha over Atma-nistha, Sri Krsna now concludes in accordance with what is stated at the beginning of this chapter in Verse 2.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।12.15 -- 12.20।। यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव
-मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया
-सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति
-परमकैवल्यम् इति।  
-  
-।। शिवम्।।
-
+॥12.18॥ --,**समः शत्रौ च मित्रे च; तथा मानापमानयोः** पूजापरिभवयोः; **शीतोष्णसुखदुःखेषु समः;** सर्वत्र च सङ्गविवर्जितः॥ किञ्च --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.18 See Comment under 12.20
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।12.18।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।12.18।। Sri Jayatirtha did not comment on this sloka.  
-  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।12.18।। --,**समः शत्रौ च मित्रे च; तथा मानापमानयोः** पूजापरिभवयोः;
-**शीतोष्णसुखदुःखेषु समः;** सर्वत्र च सङ्गविवर्जितः।। किञ्च --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।12.18।। जो शत्रुमित्रमें और मानापमानमें अर्थात् सत्कार और तिरस्कारमें
-समान रहता है एवं शीतउष्ण और सुखदुःखमें भी समभाववाला है तथा सर्वत्र
-आसक्तिसे रहित हो चुका है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 12.18 Samah, who is the same; satrau ca mitre, towards friend and foe;
 ca tatha, and so also; mana-apamanayoh, in honour and dishonour, in
 adoration and humiliation; who is the same sita-usna-sukha-duhkhesu,
 under cold, heat, happiness and sorrow; and sanga-vivar-jitah, free from
 attachment to everything; Moreover,
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।12.18।।**सम इति।** अद्वेष्टेत्यादिना द्वेषादिविशेषाभाव उक्तः; संप्रति
+<details><summary>हरिकृष्णदासः</summary>
+
+॥12.18॥ जो शत्रुमित्रमें और मानापमानमें अर्थात् सत्कार और तिरस्कारमें
+समान रहता है एवं शीतउष्ण और सुखदुःखमें भी समभाववाला है तथा सर्वत्र
+आसक्तिसे रहित हो चुका है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥12.18॥**सम इति।** अद्वेष्टेत्यादिना द्वेषादिविशेषाभाव उक्तः; संप्रति
 सर्वत्रैवाविकृतचित्तत्वमुच्यते। सर्वत्र चेतने स्त्रयादावचेतने च
 चन्दनादावित्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।12.18।। सम इति। किंच पूर्वस्यैव प्रपञ्चः। सङ्गविवर्जितः
-चेतनाचेतनसर्वविषयशोभनाध्यासरहितः। ,सर्वथा हर्षविषादशून्य इत्यर्थः।
-स्पष्टमन्यत्।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।12.18।। उदासीनत्वं व्याचष्टे -- **सम इति।** गतव्यथत्वमुपपादयति --
+॥12.18॥ उदासीनत्वं व्याचष्टे -- **सम इति।** गतव्यथत्वमुपपादयति --
 **सङ्गविवर्जित इति।** सङ्गी हि व्यथते न तु तद्वर्जित इत्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।12.18।। किंच समः शत्रौ च मित्रे च तथा मानापमानयोः पूजापरिभवयोः
+<details><summary>धनपतिः</summary>
+
+॥12.18॥ किंच समः शत्रौ च मित्रे च तथा मानापमानयोः पूजापरिभवयोः
 शीतोष्णसुखदुःखेषु समः समदुःखसुख इत्यत्र सामान्यसुखदुःखयोर्ग्रहणम्। अत्र
 तु शीतोष्णनिबन्धयोरित्यपौनरुक्त्यम्। एतत्सर्वं कुत इत्यत आह। यतः सर्वत्र
 सङ्गेन संसर्गेण विवर्जितः सङ्गस्यैव सर्वदोषजनकत्वान्न कस्यापि सङ्गं
 करोतीत्यर्थः। अद्वेषटेत्यादिना द्वेषादिविशेषाभाव उक्तः। संप्रति
 सर्वत्रैवाविकृतचित्तत्वमुच्यते। सर्वत्र चेतने स्त्र्यादावचेतने
 चन्दनादावित्यर्थ इति भाष्यटीकाकृतः।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥12.18॥ सम इति। किंच पूर्वस्यैव प्रपञ्चः। सङ्गविवर्जितः
+चेतनाचेतनसर्वविषयशोभनाध्यासरहितः। ,सर्वथा हर्षविषादशून्य इत्यर्थः।
+स्पष्टमन्यत्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।12.18।। तथा सम इति। शत्रौ मित्रे च मानापमानयोश्च शीतादिषु च स्वयं समः;
+॥12.18॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥12.18॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
+
+<details><summary>मूलम्</summary>
+
+॥12.15 -- 12.20॥ यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति परमकैवल्यम् इति।  
+  
+॥ शिवम्॥
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+12.18 See Comment under 12.20
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
+
+<details><summary>मूलम्</summary>
+
+॥12.18॥ तथा सम इति। शत्रौ मित्रे च मानापमानयोश्च शीतादिषु च स्वयं समः;
 सेव्ये स्वामिनि श्रीभगवति तु शीतादिकं प्रेम्णा
 भावयमानस्तत्तत्प्रतीकारसेवां कुर्यादेवेत्याशयेन पुनरुक्तं; अनेवम्भूतानां
 तु सङ्गेन वर्जितः। एवं भावयतां सङ्गं कुर्वाणः स्यादेव;येऽन्योन्यतो
 भागवताः इत्यादिवाक्यात्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।12.18।। किञ्च -- सम इति। शत्रौ द्वेषकर्तरि; मित्रे अनुरागवति समः; स्वतो
+<details><summary>पुरुषोत्तमः</summary>
+
+॥12.18॥ किञ्च -- सम इति। शत्रौ द्वेषकर्तरि; मित्रे अनुरागवति समः; स्वतो
 द्वेषानुरागरहित इत्यर्थः। तथा मानापमानयोरपि समः। शीतोष्णयोर्दैहिकयोः
-सुखदुःखयोः पुत्रजन्ममरणादिरूपयोः समः। सङ्गवर्जितः लौकिकासक्तिरहितः।  
-  
-
+सुखदुःखयोः पुत्रजन्ममरणादिरूपयोः समः। सङ्गवर्जितः लौकिकासक्तिरहितः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/18_samaH_shatrau.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।12.18।। किंच **-- सम इति।** शत्रौ च मित्रे च सम एकरूपः; मानापमानयोरपि
+॥12.18॥ किंच **-- सम इति।** शत्रौ च मित्रे च सम एकरूपः; मानापमानयोरपि
 तथा सम एव। हर्षविषादशून्य इत्यर्थः। शीतोष्णयोः सुखदुःखयोश्च समः
 सङ्गविवर्जितः क्वचिदप्यनासक्तः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।12.18।। See Commentary under 12.19
-
+12.18 He who is same to foe and friend, honour and dishonour, who is alike to both cold and heat, pleasure and pain, and who is free from all attachments;
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।12.18।। जो पुरुष शत्रु और मित्र में तथा मान और अपमान में सम है; जो
-शीत-उष्ण व सुखदु:खादिक द्वन्द्वों में सम है और आसक्ति रहित है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+12.18 He who is the same towards friend and foe, and so also in honour and dishonour; who is the same under cold, heat, happiness and sorrow,
+who is free from attachment to everything.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+12.18 He to whom friend and foe are alike, who welcomes equally honour and dishonour, heat and cold, pleasure and pain, who is enamoured of nothing,
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+12.18. He, who feels alike to the foe and to the friend and also to honour and to dishonour; who feels alike to cold and to heat, to pleasure and to pain; who is totally free from attachment;
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+12.18 He who is the same to foe and friend, and also in honour and dishonour, who is the same in cold and heat and in pleasure and pain,
+who is free from attachment.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+12.18 समः (he who is) the same; शत्रौ to foe; च and; मित्रे to friend; च
+and; तथा also; मानापमानयोः in honour and dishonour; शीतोष्णसुखदुःखेषु in cold and heat; in pleasure and pain; समः the same; सङ्गविवर्जितः free from attachment.Commentary The ordinary man of the world is ruled by the pairs of opposites; honour and dishonour; cold and heat and pleasure and pain but a Yogi or a sage or a devotee (Bhagavata) has a balanced mind.
+He has poise or eanimity. He is not at all swayed by the blind forces of attraction and repulsion.He who does wrong to others is a foe. He who does good to others is a friend.The devotee or the sage has no attachment for objects of any kind.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.18।। जो शत्रु और मित्रमें तथा मान-अपमानमें सम है और शीत-उष्ण
 (अनुकूलता-प्रतिकूलता) तथा सुख-दुःखमें सम है एवं आसक्तिसे रहित है, और जो
 निन्दास्तुतिको समान समझनेवाला, मननशील, जिस-किसी प्रकारसे भी (शरीरका
 निर्वाह होनेमें) संतुष्ट, रहनेके स्थान तथा शरीरमें ममता-आसक्तिसे रहित और
 स्थिर बुद्धिवाला है, वह भक्तिमान् मनुष्य मुझे प्रिय है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।12.18।।***व्याख्या --***  **समः शत्रौ च मित्रे च --** यहाँ भगवान्ने
 भक्तमें व्यक्तियोंके प्रति होनेवाली समताका वर्णन किया है। सर्वत्र
@@ -494,58 +432,18 @@ _________________
 साधकको निराश नहीं होना चाहिये। फिर सफलता अवश्यम्भावी है।***सम्बन्ध
 --***  पीछेके सात श्लोकोंमें भगवान्ने सिद्ध भक्तोंके कुल उनतालीस लक्षण
 बताये। अब आगेके श्लोकमें भगवान् अर्जुनके प्रश्नका स्पष्ट रीतिसे उत्तर
-देते हैं।  
-  
-
+देते हैं।
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-12.18. He, who feels alike to the foe and to the friend and also to honour and to dishonour; who feels alike to cold and to heat, to pleasure and to pain; who is totally free from attachment;
-
+।।12.18।। See Commentary under 12.19
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.18 He who is the same towards friend and foe, and so also in honour and dishonour; who is the same under cold, heat, happiness and sorrow,
-who is free from attachment to everything.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।12.18।। जो पुरुष शत्रु और मित्र में तथा मान और अपमान में सम है; जो
+शीत-उष्ण व सुखदु:खादिक द्वन्द्वों में सम है और आसक्ति रहित है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.18 He to whom friend and foe are alike, who welcomes equally honour and dishonour, heat and cold, pleasure and pain, who is enamoured of nothing,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-12.18 He who is same to foe and friend, honour and dishonour, who is alike to both cold and heat, pleasure and pain, and who is free from all attachments;
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-12.18 He who is the same to foe and friend, and also in honour and dishonour, who is the same in cold and heat and in pleasure and pain,
-who is free from attachment.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-12.18 समः (he who is) the same; शत्रौ to foe; च and; मित्रे to friend; च
-and; तथा also; मानापमानयोः in honour and dishonour; शीतोष्णसुखदुःखेषु in cold and heat; in pleasure and pain; समः the same; सङ्गविवर्जितः free from attachment.Commentary The ordinary man of the world is ruled by the pairs of opposites; honour and dishonour; cold and heat and pleasure and pain but a Yogi or a sage or a devotee (Bhagavata) has a balanced mind.
-He has poise or eanimity. He is not at all swayed by the blind forces of attraction and repulsion.He who does wrong to others is a foe. He who does good to others is a friend.The devotee or the sage has no attachment for objects of any kind.
-
-</details>
 </div>

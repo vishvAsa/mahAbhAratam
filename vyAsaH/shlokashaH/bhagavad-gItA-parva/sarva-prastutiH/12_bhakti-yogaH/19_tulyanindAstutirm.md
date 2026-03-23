@@ -1,169 +1,59 @@
 +++
 title = "19 तुल्यनिन्दास्तुतिर्मौनी"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 तुल्य-निन्दा-स्तुतिर् **मौनी**  
 **सन्तुष्टो** येन-केन-चित्।  
 अनिकेतः स्थिर-मतिर्  
 भक्तिमान् मे प्रियो नरः॥12.19॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/19_tulyanindAstutirm.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येनकेनचित्।  
-अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः।।12.19।।
+अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः॥12.19॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।12.19।। अद्वेष्टा सर्वभूतानाम् (गीता 12।13) इत्यादिना शत्रुमित्रादिषु
-द्वेषादिरहितत्वम् उक्तम्। अत्र तेषु सन्निहितेषु अपि समचित्तत्वम्; ततः
-अपि अतिरिक्तो विशेष उच्यते। आत्मनि स्थिरमतित्वेन निकेतनादिषु असक्त इति
-**अनिकेतः;** तत एव मानापमानादिषु अपि समः; य एवंभूतो **भक्तिमान्** स **मे
-प्रियः। अस्माद् आत्मनिष्ठात् मद्भक्तियोगनिष्ठस्य श्रैष्ठ्यं प्रतिपादयन्
-यथोपक्रमम् उपसंहरति --**
-
+॥12.19॥ अद्वेष्टा सर्वभूतानाम् (गीता 12।13) इत्यादिना शत्रुमित्रादिषु द्वेषादिरहितत्वम् उक्तम्। अत्र तेषु सन्निहितेष्व् अपि समचित्तत्वम्; ततो ऽप्य् अतिरिक्तो विशेष उच्यते। आत्मनि स्थिरमतित्वेन निकेतनादिष्व् असक्त इति **अनिकेतः;** तत एव मानापमानादिष्व् अपि समः; य एवम्भूतो **भक्तिमान्** स **मे प्रियः। अस्माद् आत्मनिष्ठान् मद्भक्तियोगनिष्ठस्य श्रैष्ठ्यं प्रतिपादयन् यथोपक्रमम् उपसंहरति --**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।। 12.19समः शत्रौ च इत्यादिना श्लोकद्वयेन बहुविधं सहेतुकं साम्यमुच्यते
-तत्र पुनरुक्तिमाशङ्क्य परिहरतिअद्वेष्टेति।
-सन्निहितस्वरूपमानावमानादिद्वन्द्वान्तरसहपाठवशादत्र शत्रुमित्रयोरपि
-सन्निहितयोर्विवक्षा। सन्निधिर्हि विकारमतिशयेन जनयति। ततोऽप्यतिरिक्त इति
-दूरस्थासन्नसाधारणात् अद्वेषमात्रादतिरिक्त इत्यर्थः। क्वचिदपि
-सङ्गवर्जितत्वाच्छीतोष्णादिषु समत्वम्। निन्दास्तुत्योः
-फलभूतामर्षानुरागादिरहितत्वान्निष्फलत्ववेषेण तुल्यत्वम्। मौनी इति नात्र
-मननं विवक्षितम्;स्थिरमतिः इत्यनेनैव सिद्धत्वात् मुनिर्मननशीलः; तस्य भावो
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥ 12.19समः शत्रौ च इत्यादिना श्लोकद्वयेन बहुविधं सहेतुकं साम्यमुच्यते तत्र पुनरुक्तिमाशङ्क्य परिहरतिअद्वेष्टेति। सन्निहितस्वरूपमानावमानादिद्वन्द्वान्तरसहपाठवशादत्र शत्रुमित्रयोरपि सन्निहितयोर्विवक्षा। सन्निधिर्हि विकारमतिशयेन जनयति। ततोऽप्यतिरिक्त इति दूरस्थासन्नसाधारणात् अद्वेषमात्रादतिरिक्त इत्यर्थः। क्वचिदपि सङ्गवर्जितत्वाच्छीतोष्णादिषु समत्वम्। निन्दास्तुत्योः फलभूतामर्षानुरागादिरहितत्वान्निष्फलत्ववेषेण तुल्यत्वम्। मौनी इति नात्र मननं विवक्षितम्;स्थिरमतिः इत्यनेनैव सिद्धत्वात् मुनिर्मननशीलः; तस्य भावो
 **मित्यप्रसिद्धार्थता** च स्यात् नापि समस्तशब्दानुच्चारणं **त
-त्यन्तापेक्षाभावात्;** सङ्कीर्तनादिविधेश्च न च **कालविशेष**
-देनियतमौनव्रतं; तस्योपयुक्तत्वेऽपि पूर्वोत्तरसङ्गत्यभावात् निन्दन्तं हि
-निन्दन्ति लौकिकाः; स्तुवन्तं च स्तुवन्ति ततः
-प्रसक्तनिन्दास्तोत्रप्रतिक्षेपपरत्वमेवोचितम्। सन्तुष्टो येनकेनचित् इति
-मौनित्वे हेत्वन्तरपरम् अन्यथासन्तुष्टः सततं योगी \[12।14\] इति
-पूर्वोक्तत्वेन पुनरुक्तिप्रसङ्गात्।
-यदृच्छयागतैर्यत्किञ्चिद्द्रव्यैरसन्तुष्टो हि सापेक्षतया स्तुतिपूर्वं
-कञ्चन याचते; अदातारं च द्विष्यात्। यद्वा अन्यस्तुतितात्पर्येण वा
-निन्दन्ति। स्थिरमतित्वस्य प्रकरणविशेषितं विषयं दर्शयन् सर्वस्योपरि
-निर्दिष्टस्य तस्य साक्षात्परम्परया वा पूर्वोक्तसमस्तहेतुत्वं च
-दर्शयतिआत्मनीति। निकेतननिषेधस्य क्षेत्रादिनिषेधोपलक्षणतया आदिशब्दः।
-अत्रसमः इति द्वौ परिव्राड्विषयाविति यादवप्रकाशोक्तस्य न लिङ्गं पश्यामः।
-शत्रुमित्रसाम्यादिगुणानां मुमुक्षौ गृहस्थेऽप्यवश्यम्भावादनिकेतत्वस्य चन
-शब्दशास्त्राभिरतस्य मोक्षो नचापि रम्यावसथप्रियस्य। न भोजनाच्छादनतत्परस्य
-न लोकचित्तग्रहणे रतस्य।। एकान्तशीलस्य दृढव्रतस्य
-पञ्चेन्द्रियाप्रीतिनिवर्तकस्य। अध्यात्मविद्यारतमानसस्य मोक्षो ध्रुवो
-नित्यमहिंसकस्य \[वा.स्मृ.10।7आ.स्मृ.10।67\] इत्यादिन्यायेन
-निस्सङ्गतयाऽपि विर्वाहात्; गृहस्थादिषु
-निकेतसद्भावनिषेधस्यानुपकारकत्वात्; तत्सद्भावस्य
-क्वचिद्योगाद्युपकारकैत्वसम्भावनया च तत्सङ्गमात्रमेव निषेव्यतया
-विवक्षितमिति दर्शयितुंअसक्त इत्युक्तम्। अत एवअद्वेष्टा \[12।13\]
-इत्यादीनां सर्वेषामप्यक्षरोपासकसन्न्यासिविषयत्वंशङ्करोक्तं निरस्तम्।
-क्वचित्सक्तस्य हि स्वरूपतः सुखत्वरहितैर्मानादिभिः प्रीत्यादिकम् अतः
-क्वचिदपि सङ्गाभावान्मानादिषु समत्वमित्याह -- तत एवेति
-पूर्वश्लोकेष्विवात्रापि यत्तच्छब्दाध्याहारेणोद्देश्य विधेयांशविभागं
-दर्शयतिय एवम्भूतो भक्तिमान्स मे प्रिय इति।  
+त्यन्तापेक्षाभावात्;** सङ्कीर्तनादिविधेश्च न च **कालविशेष** देनियतमौनव्रतं; तस्योपयुक्तत्वेऽपि पूर्वोत्तरसङ्गत्यभावात् निन्दन्तं हि निन्दन्ति लौकिकाः; स्तुवन्तं च स्तुवन्ति ततः प्रसक्तनिन्दास्तोत्रप्रतिक्षेपपरत्वमेवोचितम्। सन्तुष्टो येनकेनचित् इति मौनित्वे हेत्वन्तरपरम् अन्यथासन्तुष्टः सततं योगी \[12।14\] इति पूर्वोक्तत्वेन पुनरुक्तिप्रसङ्गात्। यदृच्छयागतैर्यत्किञ्चिद्द्रव्यैरसन्तुष्टो हि सापेक्षतया स्तुतिपूर्वं कञ्चन याचते; अदातारं च द्विष्यात्। यद्वा अन्यस्तुतितात्पर्येण वा निन्दन्ति। स्थिरमतित्वस्य प्रकरणविशेषितं विषयं दर्शयन् सर्वस्योपरि निर्दिष्टस्य तस्य साक्षात्परम्परया वा पूर्वोक्तसमस्तहेतुत्वं च दर्शयतिआत्मनीति। निकेतननिषेधस्य क्षेत्रादिनिषेधोपलक्षणतया आदिशब्दः। अत्रसमः इति द्वौ परिव्राड्विषयाविति यादवप्रकाशोक्तस्य न लिङ्गं पश्यामः। शत्रुमित्रसाम्यादिगुणानां मुमुक्षौ गृहस्थेऽप्यवश्यम्भावादनिकेतत्वस्य चन शब्दशास्त्राभिरतस्य मोक्षो नचापि रम्यावसथप्रियस्य। न भोजनाच्छादनतत्परस्य न लोकचित्तग्रहणे रतस्य॥ एकान्तशीलस्य दृढव्रतस्य पञ्चेन्द्रियाप्रीतिनिवर्तकस्य। अध्यात्मविद्यारतमानसस्य मोक्षो ध्रुवो नित्यमहिंसकस्य \[वा.स्मृ.10।7आ.स्मृ.10।67\] इत्यादिन्यायेन निस्सङ्गतयाऽपि विर्वाहात्; गृहस्थादिषु निकेतसद्भावनिषेधस्यानुपकारकत्वात्; तत्सद्भावस्य क्वचिद्योगाद्युपकारकैत्वसम्भावनया च तत्सङ्गमात्रमेव निषेव्यतया विवक्षितमिति दर्शयितुम्असक्त इत्युक्तम्। अत एवअद्वेष्टा \[12।13\] इत्यादीनां सर्वेषामप्यक्षरोपासकसन्न्यासिविषयत्वं शङ्करोक्तं निरस्तम्। क्वचित्सक्तस्य हि स्वरूपतः सुखत्वरहितैर्मानादिभिः प्रीत्यादिकम् अतः क्वचिदपि सङ्गाभावान्मानादिषु समत्वमित्याह -- तत एवेति पूर्वश्लोकेष्विवात्रापि यत्तच्छब्दाध्याहारेणोद्देश्य विधेयांशविभागं दर्शयतिय एवम्भूतो भक्तिमान्स मे प्रिय इति।
+</details>
+
+<details><summary>आदिदेवानन्दः</summary>
+
+12.18 - 12.19 The absence of hate etc., towards foes, friends etc., has already been taught in the stanza beginning with, 'He who never hates any being' (11.13). What is now taught is that eanimity to be practised even when such persons mentioned above are present before one who is superior to those having a general eanimous temperament referred to earlier. Who has no 'home', namely, who is not attached to home, etc., as he possesses firmness of mind with regard to the self. Because of this, he is 'same even in honour and dishonour.' He who is devoted to Me and who is like this - he is dear to Me. Showing the superiority of Bhakti-Nistha over Atma-nistha, Sri Krsna now concludes in accordance with what is stated at the beginning of this chapter in Verse 2.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
+
+<details><summary>मूलम्</summary>
+
+॥12.19॥ -- **तुल्यनिन्दास्तुतिः** निन्दा च स्तुतिश्च निन्दास्तुती ते तुल्ये यस्य सः तुल्यनिन्दास्तुतिः। **मौनी** मौनवान् संयतवाक्। **संतुष्टः येन केनचित्** शरीरस्थितिहेतुमात्रेण तथा च उक्तम् -- येन केनचिदाच्छन्नो येन केनचिदाशितः। यत्र क्वचनशायी स्यात्तं देवा ब्राह्मणं विदुः (महा0 शान्ति0 245।12) इति। किञ्च; **अनिकेतः** निकेतः आश्रयः निवासः नियतः न विद्यते यस्य सः अनिकेतः; **अनागारे** इत्यादिस्मृत्यन्तरात्। **स्थिरमतिः** स्थिरा परमार्थविषया यस्य मतिः सः स्थिरमतिः। **भक्तिमान् मे प्रियः नरः**॥  
   
-
+अद्वेष्टा सर्वभूतानाम् (गीता 12।13) इत्यादिना अक्षरोपासकानां निवृत्तसर्वैषणानां संन्यासिनां परमार्थज्ञाननिष्ठानां धर्मजातं प्रक्रान्तम् उपसंह्रियते --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.18 - 12.19 The absence of hate etc., towards foes, friends etc., has already been taught in the stanza beginning with, 'He who never hates any being' (11.13). What is now taught is that eanimity to be practised even when such persons mentioned above are present before one who is superior to those having a general eanimous temperament referred to earlier. Who has no 'home', namely, who is not attached to home, etc.,
-as he possesses firmness of mind with regard to the self. Because of this, he is 'same even in honour and dishonour.' He who is devoted to Me and who is like this - he is dear to Me. Showing the superiority of Bhakti-Nistha over Atma-nistha, Sri Krsna now concludes in accordance with what is stated at the beginning of this chapter in Verse 2.
-
-</details>
-</div>
-
-
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।12.15 -- 12.20।। यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव
-मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया
-सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति
-परमकैवल्यम् इति।  
-  
-।। शिवम्।।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-12.19 See Comment under 12.20
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।12.19।। Sri Madhvacharya did not comment on this sloka.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।12.19।। Sri Jayatirtha did not comment on this sloka.
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।12.19।। -- **तुल्यनिन्दास्तुतिः** निन्दा च स्तुतिश्च निन्दास्तुती ते
-तुल्ये यस्य सः तुल्यनिन्दास्तुतिः। **मौनी** मौनवान् संयतवाक्। **संतुष्टः
-येन केनचित्** शरीरस्थितिहेतुमात्रेण तथा च उक्तम् -- येन केनचिदाच्छन्नो
-येन केनचिदाशितः। यत्र क्वचनशायी स्यात्तं देवा ब्राह्मणं विदुः (महा0
-शान्ति0 245।12) इति। किञ्च; **अनिकेतः** निकेतः आश्रयः निवासः नियतः न
-विद्यते यस्य सः अनिकेतः; **अनागारे** इत्यादिस्मृत्यन्तरात्।
-**स्थिरमतिः** स्थिरा परमार्थविषया यस्य मतिः सः स्थिरमतिः। **भक्तिमान् मे
-प्रियः नरः**।।  
-  
-अद्वेष्टा सर्वभूतानाम् (गीता 12।13) इत्यादिना अक्षरोपासकानां
-निवृत्तसर्वैषणानां संन्यासिनां परमार्थज्ञाननिष्ठानां धर्मजातं
-प्रक्रान्तम् उपसंह्रियते --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।12.19।। तथा --, जिसके लिये निन्दा और स्तुति दोनों बराबर हो गयी हैं; जो
-मुनि संयतवाक् है अर्थात् वाणी जिसके वशमें है तथा जो जिस किसी प्रकारसे भी
-शरीरस्थितिमात्रसे सन्तुष्ट है। कहा भी है कि जो जिस किसी ( अन्य )
-मनुष्यद्वारा ही वस्त्रादिसे ढका जाता है; एवं जिस किसी ( दूसरे ) के
-द्वारा ही जिसको भोजन कराया जाता है और जो जहाँ कहीं भी सोनेवाला होता है
-उसको देवता लोग ब्राह्मण समझते हैं। तथा जो स्थानसे रहित है अर्थात् जिसका
-कोई नियत निवासस्थान नहीं है; अन्य स्मृतियोंमें भी अनागारः इत्यादि
-वचनोंसे यही कहा है; तथा जो स्थिरबुद्धि है -- जिसकी परमार्थविषयक बुद्धि
-स्थिर हो चुकी है; ऐसा भक्तिमान् पुरुष मेरा प्यारा है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 12.19 Narah, the person; tulya-ninda-stutih, to whom denunciation and
 praise are the same; mauni, who is silent, restrained in speech;
@@ -183,50 +73,44 @@ monks who meditate on the Immutable, who have renounced all desires, who
 are steadfast in the knowledge of the supreme Goal-which (alities) are
 under discussion beginning from 'He who is not hateful towards any
 creature' (13), is being concluded:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।12.19।। वाग्यतत्वादिविशेषणमपि ज्ञाननिष्ठस्यास्तीत्याह -- **किञ्चेति।**
+<details><summary>हरिकृष्णदासः</summary>
+
+॥12.19॥ तथा --, जिसके लिये निन्दा और स्तुति दोनों बराबर हो गयी हैं; जो
+मुनि संयतवाक् है अर्थात् वाणी जिसके वशमें है तथा जो जिस किसी प्रकारसे भी
+शरीरस्थितिमात्रसे सन्तुष्ट है। कहा भी है कि जो जिस किसी ( अन्य )
+मनुष्यद्वारा ही वस्त्रादिसे ढका जाता है; एवं जिस किसी ( दूसरे ) के
+द्वारा ही जिसको भोजन कराया जाता है और जो जहाँ कहीं भी सोनेवाला होता है
+उसको देवता लोग ब्राह्मण समझते हैं। तथा जो स्थानसे रहित है अर्थात् जिसका
+कोई नियत निवासस्थान नहीं है; अन्य स्मृतियोंमें भी अनागारः इत्यादि
+वचनोंसे यही कहा है; तथा जो स्थिरबुद्धि है -- जिसकी परमार्थविषयक बुद्धि
+स्थिर हो चुकी है; ऐसा भक्तिमान् पुरुष मेरा प्यारा है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥12.19॥ वाग्यतत्वादिविशेषणमपि ज्ञाननिष्ठस्यास्तीत्याह -- **किञ्चेति।**
 निन्दा दोषसंकीर्तनं; स्तुतिर्गुणगणनम्; देहस्थितिमात्रफलेनान्नादिना
 ज्ञानिनः संतुष्टत्वे स्मृतिं प्रमाणयति -- **तथाचेति।**
 नियतनिवासराहित्यमपि ज्ञानवतो विशेषणमित्याह -- **किञ्चेति।**न कुड्यां
 नोदके सङ्गो न चैले न त्रिपुष्करे। नागारे नासने नान्ने यस्य वै
 मोक्षवित्तु सः इति स्मृतिमुक्तेऽर्थे प्रमाणयति -- **नेत्यादिना।**
 पुनःपुनर्भक्तेर्ग्रहणमपवर्गमार्गस्य परमार्थज्ञानस्योपायत्वार्थम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।12.19।। तुल्येति। किंच निन्दा दोषकथनं स्तुतिर्गुणकथनं ते दुःखसुखजनकतया
-तुल्ये यस्य स तथा। मौनी संयतवाक् नतु शरीरयात्रानिर्वाहाय
-वाग्व्यापारोऽपेक्षित एव नेत्याह। संतुष्टो येनकेनचित्स्वप्रयत्नमन्तरेणैव
-बलवत्प्रारब्धकर्मोपनीतेन शरीरस्थितिहेतुमात्रेणाशनादिना संतुष्टः
-निवृत्तस्पृहः। किंच अनिकेतो नियतनिवासरहितः। स्थिरा परमार्थवस्तुविषया
-मतिर्यस्य स स्थिरमतिः ईदृशो यो भक्तिमान् स मे प्रियो नरः। अत्र
-पुनःपुनर्भक्तेरुपादानं भक्तिरेवापवर्गस्य पुष्कलं कारणमिति द्रढयितुम्।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।12.19।। सर्वारम्भपरित्यागीत्येतद्व्याचष्टे -- **तुल्येति।** शिष्टेषु
+॥12.19॥ सर्वारम्भपरित्यागीत्येतद्व्याचष्टे -- **तुल्येति।** शिष्टेषु
 विगीतो न स्यामिति वा लोकेषु प्रख्यातः स्यामिति वा इदं मे भूयादिति वा
 कामयमानः किंचिदारभते नत्वयम्। तुल्यनिन्दास्तुतित्वात्संतुष्टत्वाच्च।
 मौनी संन्यासी। अतएवानिकेतो गृहशून्यः कुटीमपि वासार्थं नारभते। यतः
 स्थिरमतिः स्थितप्रज्ञो भक्तिमान्योगी मे मम प्रियो नरः पुरुषः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।12.19।। किंचैतदपि तत्त्वविदो विशेषणमित्याह -- तुल्येति। दोषानुर्णनं
+<details><summary>धनपतिः</summary>
+
+॥12.19॥ किंचैतदपि तत्त्वविदो विशेषणमित्याह -- तुल्येति। दोषानुर्णनं
 निन्दा। गुणानुकीर्तनं स्तुतिः। तुल्ये निन्दास्तुती यस्य सः
 निन्दास्तुतिभ्यां विषादं हर्षं च न प्राप्नोतीत्यर्थः। अतएव स्वयमपि
 कस्यचिन्निन्दां स्तुतिं वा न करोतीत्याह। मौनी यतवाक्। ननु वाग्व्यापारस्य
@@ -235,9 +119,9 @@ creature' (13), is being concluded:
 सभ्यक् तुष्टः तदतिरिक्ते तृष्णाशून्यस्तदभावाच्च
 विषयप्राप्त्यर्थवाग्यव्यापारादिवर्जित इत्यर्थः। तथाच स्मृतिः --
 येनकेनचिदाच्छन्नो येनकेनचिदाशितः। यत्रक्वचनशायी स्यात्तं देवा ब्राह्मणं
-विदुः।। इति। वासस्थानमपि तस्य नियतं नास्तीत्याह। अनिकेतः निकेत आश्रयो
+विदुः॥ इति। वासस्थानमपि तस्य नियतं नास्तीत्याह। अनिकेतः निकेत आश्रयो
 निवासो नियतो न विद्यते यस्यः सः। तथाच स्मृत्यन्तरंन कुड्यां नोदके सङ्गो
-न चैले न त्रिपष्करे। नागारे नासने नान्ने यस्य वै मोक्षवित्तु सः।। इति।
+न चैले न त्रिपष्करे। नागारे नासने नान्ने यस्य वै मोक्षवित्तु सः॥ इति।
 एतत्सर्वं कुत इत्यत आह। स्थिरमतिः। स्थिरमतिः स्थिरा परमार्थविषया
 मतिर्यस्य सः दृढतया परमात्मनि यस्य मतिः। स्थिता स इति यावत्। यत
 स्थिरमतिरिति वा। एतादृशो भक्तिमान्नरो मे प्रियः। तेषां ज्ञानी नित्ययुक्त
@@ -247,152 +131,134 @@ creature' (13), is being concluded:
 भक्तिमास्थितास्तेऽतीव मे प्रिया इत्यादि। पुनः
 पुनःर्भक्तर्गहणमपवर्गमार्गस्य परमार्थज्ञानस्योपायत्वार्थमिति तु
 भाष्यटीकाकृतः।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥12.19॥ तुल्येति। किंच निन्दा दोषकथनं स्तुतिर्गुणकथनं ते दुःखसुखजनकतया
+तुल्ये यस्य स तथा। मौनी संयतवाक् नतु शरीरयात्रानिर्वाहाय
+वाग्व्यापारोऽपेक्षित एव नेत्याह। संतुष्टो येनकेनचित्स्वप्रयत्नमन्तरेणैव
+बलवत्प्रारब्धकर्मोपनीतेन शरीरस्थितिहेतुमात्रेणाशनादिना संतुष्टः
+निवृत्तस्पृहः। किंच अनिकेतो नियतनिवासरहितः। स्थिरा परमार्थवस्तुविषया
+मतिर्यस्य स स्थिरमतिः ईदृशो यो भक्तिमान् स मे प्रियो नरः। अत्र
+पुनःपुनर्भक्तेरुपादानं भक्तिरेवापवर्गस्य पुष्कलं कारणमिति द्रढयितुम्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।12.19।। तुल्येति। स्वनिन्दास्तुती तुल्ये यस्य; न भगवत इति ()। तथा मौनी
+॥12.19॥ Sri Madhvacharya did not comment on this sloka.
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥12.19॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
+
+<details><summary>मूलम्</summary>
+
+॥12.15 -- 12.20॥ यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति परमकैवल्यम् इति।  
+  
+॥ शिवम्॥
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+12.19 See Comment under 12.20
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
+
+<details><summary>मूलम्</summary>
+
+॥12.19॥ तुल्येति। स्वनिन्दास्तुती तुल्ये यस्य; न भगवत इति ()। तथा मौनी
 संयतवाक्। स्वयं च येनकेनचित् सन्तुष्टः; भगवति तु तेनैवोपभोगं साधयमानः।
 अनिकेत इतितादृशस्य गृहस्थानं विनाशकं इति सूचयति। एवं
 बाधराम्भावनयाऽनिकेतत्वमुक्तम्। तत्रापिबाधसम्भावनायां तु नैकान्ते वास
 इष्यते इत्याशयेनास्य विष्णोर्निकेतने प्रतिमायां मन्दिरे वा भगवदीयेषु
 तन्निवासेषु वा स्थिरा मतिर्यस्येत्येकं वा पदम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।12.19।। तुल्ये निन्दास्तुती यस्य; निन्दितो च व्यथति; स्तुतो न हृष्यति
+<details><summary>पुरुषोत्तमः</summary>
+
+॥12.19॥ तुल्ये निन्दास्तुती यस्य; निन्दितो च व्यथति; स्तुतो न हृष्यति
 स्वयं च न कञ्चन निन्दति न च स्तौति। मौनी वशवाक्।
 येनकेनचिद्भगवदिच्छाप्राप्तेन सन्तुष्टः। अनिकेतः गृहाद्यासक्तिरहितः।
 स्थिरमतिः; मयीत्यर्थः। एतादृशो यो भक्तिमान् भक्तियुक्तो नरः स मे प्रियः;
-प्रियो भवतीत्यर्थः।  
-  
-
+प्रियो भवतीत्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/19_tulyanindAstutirm.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।12.19।। **तुल्य इति।** तुल्ये निन्दास्तुती यस्य; मौनी संयतवाक्; येन
+॥12.19॥ **तुल्य इति।** तुल्ये निन्दास्तुती यस्य; मौनी संयतवाक्; येन
 केनचिद्यथालब्धेन संतुष्टः; अनिकेतो नियतवासशून्यः;
 स्थिरमतिर्व्यवस्थितचित्तः; एवंभूतो मद्भक्तिमान्यः स मे प्रियो नरः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।12.19।। जो शत्रु और मित्र में सम है किसी व्यक्ति को शत्रु या मित्र के
-रूप में देखना मन का काम या खेल है। य़द्यपि ज्ञानी पुरुष किसी से शत्रुता
-नहीं रखता; परन्तु अन्य लोग उसके प्रति शत्रु या मित्र भाव रख सकते हैं। उन
-दोनों के साथ एक भक्त समान रूप से व्यवहार करता है। जो मान और अपमान में सम
-है स्वयं को सम्मानित या अपमानित अनुभव करना बुद्धि का धर्म है। बुद्धि
-अपने ही मापदण्ड निर्धारित करके लोगों के व्यवहार का मूल्यांकन करती रहती
-है। जिस किसी प्रकार के व्यवहार से मनुष्य सम्मानित अनुभव करता है; वही उसे
-अपमान प्रतीत होता है; जब उसके जीवन मूल्य परिवर्तित हो जाते हैं। जो पुरुष
-बुद्धि के स्तर पर रहता है; उसे ही मान और अपमान प्रभावित कर सकते हैं;
-आत्मस्वरूप में स्थित भक्त को नहीं। जो शीत और उष्ण में सम रहता है शीत और
-उष्ण का अनुभव शरीर द्वारा होता है और उसका प्रभाव भी शरीर पर ही पड़ता है।
-अम्ल; अग्नि या बर्फ का विचार करने मात्र से भावनाएं अथवा विचार उष्ण या
-शीत नहीं हो जाते वे केवल स्थूल शरीर को ही प्रभावित कर सकते हैं। अत
-संस्कृत का यह वाक्प्रचार जब वेदान्त में प्रयोग किया जाता है; तब उससे
-तात्पर्य उन समस्त अनुभवों से होता है; जो स्थूल शरीर के स्तर पर प्राप्त
-किये जाते हैं और जिनका उत्तरदायी शरीर ही होता है। उपर्युक्त तीन प्रकार के
-अनुभवों में; वस्तुत; जीवन में शरीर; मन और बुद्धि के स्तर पर होने वाले
-समस्त अनुभवों का समावेश हो जाता है। इन सबमें परम भक्त पुरुष अक्षुब्ध
-रहता है; क्योंकि वह आसक्तिरहित होता है। अनात्म उपाधियों से आसक्ति होने
-के कारण ही हम अपने जीवन में होने वाली प्रत्येक अल्पसी घटना से भी अत्यधिक
-विचलित हो जाते हैं जबकि संगरहित पुरुष उन सबका शासक बन कर रहता
-है। तुल्यनिन्दास्तुति इस विशेषण से यह नहीं समझें कि भक्त अपने अपमान
-निन्दा या स्तुति के प्रति संवेदनशून्य हो जाता है; और उसमें इतनी भी
-बुद्धिमत्ता नहीं होती कि वह उन्हें ठीक से समझ पाये। एक महान् भक्त जो
-अपने सर्वोपाधिविनिर्मुक्त सच्चिदानन्द स्वरूप की रसानुभूति में मग्न रहता
-है; उसे संसारी पुरुषों द्वारा की गई निन्दा और स्तुति अत्यन्त तुच्छ और
-अर्थहीन प्रतीत होती है। वह भलीभाँति जानता है कि जिस पुरुष की समाज में आज
-स्तुति और प्रशंसा की जा रही है; उसी पुरुष को यही समाज कल अपमानित भी
-करेगा और आज का निन्दित पुरुष कल का स्तुत्य नेता भी बनेगा निन्दा और
-स्तुति दोनों ही संसारी लोगों के मन में क्षणिक तरंग मात्र होती है मौनी
-ज्ञानी भक्त मौनी होता है। इसका अर्थ है कि वह अतिवादी नहीं होता। मौन का
-वास्तविक अर्थ है मननशीलता। अत केवल वाचिक मौन वास्तविक मौन नहीं कहा जा
-सकता। केवल वाणी के मौन से पुरुष का मन तो वाचाल बना रहता है; और उसका
-परिणाम गम्भीर रूप भी धारण कर सकता है। मौन होकर देंखें; तो ज्ञात होगा कि
-मौन कितना शान्त हो सकता हैकिसी भी अल्प वस्तु से वह सन्तुष्ट हो जाता है
-आन्तरिक विकास के निष्ठावान् साधकों का यह सिद्धांत या आदर्श होता है कि
-उन्हें जो कोई वस्तु संयोग से; बिना मांगे और अनपेक्षित रूप से प्राप्त हो
-जाती है; उसी से वे सन्तुष्ट रहते हैं। जीवन में अनेक इच्छाएं करके उन्हें
-पूर्ण करने के लिए दिनरात प्रयत्न करते रहना; एक कभी न समाप्त होने वाला
-खेल है; क्योंकि निरन्तर तीव्र गति से इच्छाओं को उत्पन्न करते रहने की कला
-में मनुष्य का मन निपुण होता है। समस्त लगनशील साधकों के लिए सन्तोष की
-नीति अपनाना ही बुद्धिमत्ता की लाभदायक बात है अन्यथा जीवन के दिव्य लक्ष्य
-को प्राप्त करने के लिए उसके पास कभी समय नहीं रहेगा। निष्ठा एवं
-सावधानीपूर्वक की गई साधना का फल व्यक्तित्व का सुगठन और आत्मानुभूति है।
-महाभारत में कहा गया है कि जिस किसी भी वस्त्र से आवृत; जिस किसी के भी
-द्वारा भोजन कराये हुए तथा जहाँ कहीं भी शयन करने वाले पुरुष को देवतागण
-ब्राह्मण समझते हैं। अनिकेत इस शब्द का अर्थ है वह पुरुष जो गृहरहित है।
-सामान्यत गृह उसे कहते हैं; जो उसमें निवास करने वाले लोगों की बाह्य
-जलवायु की प्रचण्डताओं से रक्षा करता है। आत्मज्ञान का साधक पुरुष सभी
-उपाधियों से तादात्म्य को तोड़कर उनके साथ के ममत्वरूपी बन्धनों से विमुक्त
-होने का प्रयत्न करता है। किसी एक छत के नीचे रहने मात्र से वह गृह नहीं
-कहलाता। रेलवे स्टेशन पर अथवा विमान स्थल के विश्रामगृह में रात भर निवास
-करने से वह अपना घर नहीं बन जाता। परन्तु जिस छत के नीचे के निवास स्थान
-में ममत्व का अभिमान तथा वहाँ रहने से सुख और आराम का अनुभव होता है वह
-स्थान अपना घर बन जाता है। भक्त का आश्रय और निवास स्थान तो सर्वव्यापी
-परमात्मा ही होने के कारण इन लौकिक गृहों में वह ममत्व भाव से रहित होता
-है। उसके मन की स्थिति या भाव को यहाँ सरल किन्तु अत्यन्त उपयुक्त शब्द
-अनिकेत के द्वारा दर्शाया गया है। भगवत्स्वरूप के विषय में जिसकी मति स्थिर
-हो गयी है; अर्थात् उसे कोई संशय नहीं रह गया है; ऐसा भक्तिमान पुरुष (नर)
-मुझे प्रिय है। नर शब्द से यह अभिप्राय प्रतीत होता है कि जो पुरुष कमसेकम
-इस भक्तिमार्ग पर चलने का प्रयत्न करता है; वही गीताचार्य की दृष्टि से
-विकसित मनुष्य कहलाने योग्य है। इन दो श्लोकों को मिलाकर यह पांचवा भाग है
-जिसमें भक्त के दस लक्षण बताये गए हैं। इस प्रकार अब तक छत्तीस गुणों का
-वर्णन करके भगवान् श्रीकृष्ण ने एक ज्ञानी भक्त का सम्पूर्ण शब्दचित्र
-चित्रित कर दिया है। इस चित्र में हमें भक्त का व्यवहार; उसका मानसिक जीवन
-और जगत् के प्राणियों एवं घटनाओं के प्रति उसके बौद्धिक मूल्यांकन आदि का
-दर्शन होता है। एक उत्तम भक्त के नैतिक एवं सदाचार के गुणों का वर्णन करने
-वाले इस प्रकरण का उपसंहार करते हुए भगवान् कहते हैं
-
+12.19 He who regards alike both blame and praise, who is silent and content with any lot, who has no home, who is firm of mind, and who is devoted to Me - dear to Me is such a man.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।12.19।। जिसको निन्दा और स्तुति दोनों ही तुल्य है, जो मौनी है, जो किसी
-अल्प वस्तु से भी सन्तुष्ट है, जो अनिकेत है, वह स्थिर बुद्धि का भक्तिमान्
-पुरुष मुझे प्रिय है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+12.19 The person to whom denunciation and praise are the same, who is silent, content with anything, homeless, steady-minded, and full of devotion is dear to Me.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+12.19 Who is indifferent to praise and censure, who enjoys silence, who is contented with every fate, who has no fixed abode, who is steadfast in mind, and filled with devotion, such a one is My beloved.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+12.19. To whom blame and praise are eal; who is silent (does not over-speak) and is well content with one thing or other \[that comes to him\]; who has no fixed thought \[in the mundane life\]; who is \[yet\]
+steady-minded \[in spiritual practice\] and is full of devotion-that man is dear to Me.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+12.19 He to whom censure and praise are eal, who is silent, content with anything, homeless, of a steady mind, and full of devotion that man is dear to Me.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+12.19 तुल्यनिन्दास्तुतिः to whom censure and praise are eal; मौनी --
+silent; सन्तुष्टः contented; येनकेनचित् with anything; अनिकेतः homeless;
+स्थिरमतिः steadyminded; भक्तिमान् full of devotion; मे to Me; प्रियः
+dear; नरः (that) man.Commentary He is neither elated by praise nor pained by censure. He keeps a balanced state of mind. He has controlled the organ of speech and so he is silent. His mind also is serene and silent as he has controlled the thoughts also. He is ite content with the bare means of bodily sustenance. It is said in the Mahabharata
+(Santi Parva; Moksha Dharma) Who is dressed in anything; who eats any kind of food; who lies down anywhere; him the gods call a Brahmana or a liberated sage or Jivanmukta.He does not dwell in one place. He has no fixed abode. He is homeless. He regards the world as his dwelling place.
+His mind is ever fixed on Brahman. (Cf.VII.17IX.29XII.17)
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.19।। जो शत्रु और मित्रमें तथा मान-अपमानमें सम है और शीतउष्ण
 (अनुकूलता-प्रतिकूलता) तथा सुख-दुःखमें सम है एवं आसक्तिसे रहित है, और जो
 निन्दा-स्तुतिको समान समझनेवाला, मननशील, जिस-किसी प्रकारसे भी (शरीरका
 निर्वाह होनेमें) संतुष्ट, रहनेके स्थान तथा शरीरमें ममता-आसक्तिसे रहित और
 स्थिर बुद्धिवाला है, वह भक्तिमान् मनुष्य मुझे प्रिय है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।12.19।।***व्याख्या--*'समः शत्रौ च मित्रे च'--**यहाँ भगवान्ने भक्तमें
 व्यक्तियोंके प्रति होनेवाली समताका वर्णन किया है। सर्वत्र भगवद्बुद्धि
@@ -659,58 +525,85 @@ _________________
 अपने अनुकूल दिखायी दे, उसीको आदर्श मानकर उसके अनुसार अपना जीवन बनानेमें
 लग जाना चाहिये। किसी एक प्रकरणके भी यदि पूरे लक्षण अपनेमें न आयें, तो भी
 साधकको निराश नहीं होना चाहिये। फिर सफलता अवश्यम्भावी है।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-12.19. To whom blame and praise are eal; who is silent (does not over-speak) and is well content with one thing or other \[that comes to him\]; who has no fixed thought \[in the mundane life\]; who is \[yet\]
-steady-minded \[in spiritual practice\] and is full of devotion-that man is dear to Me.
-
+।।12.19।। जो शत्रु और मित्र में सम है किसी व्यक्ति को शत्रु या मित्र के
+रूप में देखना मन का काम या खेल है। य़द्यपि ज्ञानी पुरुष किसी से शत्रुता
+नहीं रखता; परन्तु अन्य लोग उसके प्रति शत्रु या मित्र भाव रख सकते हैं। उन
+दोनों के साथ एक भक्त समान रूप से व्यवहार करता है। जो मान और अपमान में सम
+है स्वयं को सम्मानित या अपमानित अनुभव करना बुद्धि का धर्म है। बुद्धि
+अपने ही मापदण्ड निर्धारित करके लोगों के व्यवहार का मूल्यांकन करती रहती
+है। जिस किसी प्रकार के व्यवहार से मनुष्य सम्मानित अनुभव करता है; वही उसे
+अपमान प्रतीत होता है; जब उसके जीवन मूल्य परिवर्तित हो जाते हैं। जो पुरुष
+बुद्धि के स्तर पर रहता है; उसे ही मान और अपमान प्रभावित कर सकते हैं;
+आत्मस्वरूप में स्थित भक्त को नहीं। जो शीत और उष्ण में सम रहता है शीत और
+उष्ण का अनुभव शरीर द्वारा होता है और उसका प्रभाव भी शरीर पर ही पड़ता है।
+अम्ल; अग्नि या बर्फ का विचार करने मात्र से भावनाएं अथवा विचार उष्ण या
+शीत नहीं हो जाते वे केवल स्थूल शरीर को ही प्रभावित कर सकते हैं। अत
+संस्कृत का यह वाक्प्रचार जब वेदान्त में प्रयोग किया जाता है; तब उससे
+तात्पर्य उन समस्त अनुभवों से होता है; जो स्थूल शरीर के स्तर पर प्राप्त
+किये जाते हैं और जिनका उत्तरदायी शरीर ही होता है। उपर्युक्त तीन प्रकार के
+अनुभवों में; वस्तुत; जीवन में शरीर; मन और बुद्धि के स्तर पर होने वाले
+समस्त अनुभवों का समावेश हो जाता है। इन सबमें परम भक्त पुरुष अक्षुब्ध
+रहता है; क्योंकि वह आसक्तिरहित होता है। अनात्म उपाधियों से आसक्ति होने
+के कारण ही हम अपने जीवन में होने वाली प्रत्येक अल्पसी घटना से भी अत्यधिक
+विचलित हो जाते हैं जबकि संगरहित पुरुष उन सबका शासक बन कर रहता
+है। तुल्यनिन्दास्तुति इस विशेषण से यह नहीं समझें कि भक्त अपने अपमान
+निन्दा या स्तुति के प्रति संवेदनशून्य हो जाता है; और उसमें इतनी भी
+बुद्धिमत्ता नहीं होती कि वह उन्हें ठीक से समझ पाये। एक महान् भक्त जो
+अपने सर्वोपाधिविनिर्मुक्त सच्चिदानन्द स्वरूप की रसानुभूति में मग्न रहता
+है; उसे संसारी पुरुषों द्वारा की गई निन्दा और स्तुति अत्यन्त तुच्छ और
+अर्थहीन प्रतीत होती है। वह भलीभाँति जानता है कि जिस पुरुष की समाज में आज
+स्तुति और प्रशंसा की जा रही है; उसी पुरुष को यही समाज कल अपमानित भी
+करेगा और आज का निन्दित पुरुष कल का स्तुत्य नेता भी बनेगा निन्दा और
+स्तुति दोनों ही संसारी लोगों के मन में क्षणिक तरंग मात्र होती है मौनी
+ज्ञानी भक्त मौनी होता है। इसका अर्थ है कि वह अतिवादी नहीं होता। मौन का
+वास्तविक अर्थ है मननशीलता। अत केवल वाचिक मौन वास्तविक मौन नहीं कहा जा
+सकता। केवल वाणी के मौन से पुरुष का मन तो वाचाल बना रहता है; और उसका
+परिणाम गम्भीर रूप भी धारण कर सकता है। मौन होकर देंखें; तो ज्ञात होगा कि
+मौन कितना शान्त हो सकता हैकिसी भी अल्प वस्तु से वह सन्तुष्ट हो जाता है
+आन्तरिक विकास के निष्ठावान् साधकों का यह सिद्धांत या आदर्श होता है कि
+उन्हें जो कोई वस्तु संयोग से; बिना मांगे और अनपेक्षित रूप से प्राप्त हो
+जाती है; उसी से वे सन्तुष्ट रहते हैं। जीवन में अनेक इच्छाएं करके उन्हें
+पूर्ण करने के लिए दिनरात प्रयत्न करते रहना; एक कभी न समाप्त होने वाला
+खेल है; क्योंकि निरन्तर तीव्र गति से इच्छाओं को उत्पन्न करते रहने की कला
+में मनुष्य का मन निपुण होता है। समस्त लगनशील साधकों के लिए सन्तोष की
+नीति अपनाना ही बुद्धिमत्ता की लाभदायक बात है अन्यथा जीवन के दिव्य लक्ष्य
+को प्राप्त करने के लिए उसके पास कभी समय नहीं रहेगा। निष्ठा एवं
+सावधानीपूर्वक की गई साधना का फल व्यक्तित्व का सुगठन और आत्मानुभूति है।
+महाभारत में कहा गया है कि जिस किसी भी वस्त्र से आवृत; जिस किसी के भी
+द्वारा भोजन कराये हुए तथा जहाँ कहीं भी शयन करने वाले पुरुष को देवतागण
+ब्राह्मण समझते हैं। अनिकेत इस शब्द का अर्थ है वह पुरुष जो गृहरहित है।
+सामान्यत गृह उसे कहते हैं; जो उसमें निवास करने वाले लोगों की बाह्य
+जलवायु की प्रचण्डताओं से रक्षा करता है। आत्मज्ञान का साधक पुरुष सभी
+उपाधियों से तादात्म्य को तोड़कर उनके साथ के ममत्वरूपी बन्धनों से विमुक्त
+होने का प्रयत्न करता है। किसी एक छत के नीचे रहने मात्र से वह गृह नहीं
+कहलाता। रेलवे स्टेशन पर अथवा विमान स्थल के विश्रामगृह में रात भर निवास
+करने से वह अपना घर नहीं बन जाता। परन्तु जिस छत के नीचे के निवास स्थान
+में ममत्व का अभिमान तथा वहाँ रहने से सुख और आराम का अनुभव होता है वह
+स्थान अपना घर बन जाता है। भक्त का आश्रय और निवास स्थान तो सर्वव्यापी
+परमात्मा ही होने के कारण इन लौकिक गृहों में वह ममत्व भाव से रहित होता
+है। उसके मन की स्थिति या भाव को यहाँ सरल किन्तु अत्यन्त उपयुक्त शब्द
+अनिकेत के द्वारा दर्शाया गया है। भगवत्स्वरूप के विषय में जिसकी मति स्थिर
+हो गयी है; अर्थात् उसे कोई संशय नहीं रह गया है; ऐसा भक्तिमान पुरुष (नर)
+मुझे प्रिय है। नर शब्द से यह अभिप्राय प्रतीत होता है कि जो पुरुष कमसेकम
+इस भक्तिमार्ग पर चलने का प्रयत्न करता है; वही गीताचार्य की दृष्टि से
+विकसित मनुष्य कहलाने योग्य है। इन दो श्लोकों को मिलाकर यह पांचवा भाग है
+जिसमें भक्त के दस लक्षण बताये गए हैं। इस प्रकार अब तक छत्तीस गुणों का
+वर्णन करके भगवान् श्रीकृष्ण ने एक ज्ञानी भक्त का सम्पूर्ण शब्दचित्र
+चित्रित कर दिया है। इस चित्र में हमें भक्त का व्यवहार; उसका मानसिक जीवन
+और जगत् के प्राणियों एवं घटनाओं के प्रति उसके बौद्धिक मूल्यांकन आदि का
+दर्शन होता है। एक उत्तम भक्त के नैतिक एवं सदाचार के गुणों का वर्णन करने
+वाले इस प्रकरण का उपसंहार करते हुए भगवान् कहते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.19 The person to whom denunciation and praise are the same, who is silent, content with anything, homeless, steady-minded, and full of devotion is dear to Me.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।12.19।। जिसको निन्दा और स्तुति दोनों ही तुल्य है, जो मौनी है, जो किसी
+अल्प वस्तु से भी सन्तुष्ट है, जो अनिकेत है, वह स्थिर बुद्धि का भक्तिमान्
+पुरुष मुझे प्रिय है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.19 Who is indifferent to praise and censure, who enjoys silence, who is contented with every fate, who has no fixed abode, who is steadfast in mind, and filled with devotion, such a one is My beloved.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-12.19 He who regards alike both blame and praise, who is silent and content with any lot, who has no home, who is firm of mind, and who is devoted to Me - dear to Me is such a man.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-12.19 He to whom censure and praise are eal, who is silent, content with anything, homeless, of a steady mind, and full of devotion that man is dear to Me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/12_bhakti-yogaH/19_tulyanindAstutirm.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-12.19 तुल्यनिन्दास्तुतिः to whom censure and praise are eal; मौनी --
-silent; सन्तुष्टः contented; येनकेनचित् with anything; अनिकेतः homeless;
-स्थिरमतिः steadyminded; भक्तिमान् full of devotion; मे to Me; प्रियः
-dear; नरः (that) man.Commentary He is neither elated by praise nor pained by censure. He keeps a balanced state of mind. He has controlled the organ of speech and so he is silent. His mind also is serene and silent as he has controlled the thoughts also. He is ite content with the bare means of bodily sustenance. It is said in the Mahabharata
-(Santi Parva; Moksha Dharma) Who is dressed in anything; who eats any kind of food; who lies down anywhere; him the gods call a Brahmana or a liberated sage or Jivanmukta.He does not dwell in one place. He has no fixed abode. He is homeless. He regards the world as his dwelling place.
-His mind is ever fixed on Brahman. (Cf.VII.17IX.29XII.17)
-
-</details>
 </div>

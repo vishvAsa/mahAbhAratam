@@ -1,135 +1,55 @@
 +++
 title = "38 विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 विषयेन्द्रिय-संयोगाद्  
 यत् तद् अग्रेऽमृतोपमम्।  
 परिणामे विषम् इव  
 तत् सुखं **राजसं** स्मृतम्॥18.38॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम्।  
-परिणामे विषमिव तत्सुखं राजसं स्मृतम्।।18.38।।
+परिणामे विषमिव तत्सुखं राजसं स्मृतम्॥18.38॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।18.38।।**अग्रे** अनुभववेलायां **विषयेन्द्रियसंयोगाद् यत् तद्** अमृतम्
-इव भवति; **परिणामे** विपाके विषयाणां सुखतानिमित्तक्षुधादौ निवृत्ते तस्य
-च सुखस्य निरयादिनिमित्तत्वाद् **विषम्** इव पीतं भवति; **तत् सुखं राजसं
-स्मृतम्।**
-
+॥18.38॥**अग्रे** अनुभववेलायां **विषयेन्द्रियसंयोगाद् यत् तद्** अमृतम् इव भवति; **परिणामे** विपाके विषयाणां सुखतानिमित्तक्षुधादौ निवृत्ते तस्य च सुखस्य निरयादिनिमित्तत्वाद् **विषम्** इव पीतं भवति; **तत् सुखं राजसं स्मृतम्।**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.38।। विषयाणां
-तत्तदिन्द्रियार्थानामन्नपानादीनामित्यर्थः। सुखतानिमित्तक्षुदादौ निवृत्ते
-इति राजससुखस्य दृष्टप्रातिकूल्यनिदानोक्तिः। यदुक्तं भगवता पराशरेण --
-अग्नेः शीतेन तोयस्य तृषा भक्तस्य च क्षुधा। क्रियते सुखकर्तृत्वं
-तद्विलोमस्य चेतरैः \[वि.पु.1।17।64\] इति। क्षुत्तृष्णोपशमं
-तद्वच्छीताद्युपशमं सुखम्। मन्यते बालबुद्धित्वाद्दुःखमेव हि तत्
-पुनः।। इति। दृष्टसुखतानिमित्तनिवृत्तौ उपेक्षणीयतामात्रव्यावृत्त्यर्थं
-दुःखोदर्कत्वंपरिणामे विषमिव इत्यनेन व्यज्यते। पारदारिकरसादीनि हि
-भयादिभूयिष्ठक्षणिकक्षुद्रतरसुखान्यनन्तरकालभाव्यतिघोरनिरतिशयदुःखाय
-भवन्तीत्यागामिकं विषत्वमाह -- निरयादिनिमित्तत्वादिति।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥18.38॥ विषयाणां तत्तदिन्द्रियार्थानामन्नपानादीनामित्यर्थः। सुखतानिमित्तक्षुदादौ निवृत्ते इति राजससुखस्य दृष्टप्रातिकूल्यनिदानोक्तिः। यदुक्तं भगवता पराशरेण -- अग्नेः शीतेन तोयस्य तृषा भक्तस्य च क्षुधा। क्रियते सुखकर्तृत्वं तद्विलोमस्य चेतरैः \[वि.पु.1।17।64\] इति। क्षुत्तृष्णोपशमं तद्वच्छीताद्युपशमं सुखम्। मन्यते बालबुद्धित्वाद्दुःखमेव हि तत् पुनः॥ इति। दृष्टसुखतानिमित्तनिवृत्तौ उपेक्षणीयतामात्रव्यावृत्त्यर्थं दुःखोदर्कत्वम्परिणामे विषमिव इत्यनेन व्यज्यते। पारदारिकरसादीनि हि भयादिभूयिष्ठक्षणिकक्षुद्रतरसुखान्यनन्तरकालभाव्यतिघोरनिरतिशयदुःखाय भवन्तीत्यागामिकं विषत्वमाह -- निरयादिनिमित्तत्वादिति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 18.38 That which at the 'beginning,' i.e., at the time of experience looks like elixir because of the contact of senses with their objects agreable to them, but 'at the end,' i.e., when satiation or further incapacity to enjoy due to over-indulgence in them occurs, looks life poison - that pleasure is said to be Rajasika. In this latter state these so-called enjoyments cause the misery of Naraka.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.36 -- 18.39।। सुखमित्यादि तामसमुदाहृतमित्यन्तम्। तदात्वे;
-अभ्यासकाले। विषमिव; जन्मशताभ्यस्तविषयसङ्गस्य दुष्परिहारत्वात्। उक्तं च
-श्रुतौ -- क्षुरस्य धारा विषमा दुरत्यया इत्यादि। आत्मप्रसादात्
-बुद्धिप्रसादो जायते; अन्यस्यापेक्ष्यमाणस्याभावात्। विषयेन्द्रियाणां
-परस्परसंयोगज़ं,+++(S; -- संप्रयोगजम् )+++ सुखम्; चक्षुष इव रूपसंबन्धात्।
-निद्रातः आलस्येन प्रमादेन +++(S; ; N आलस्येन शठतया प्रमादेन )+++ पूर्वं
-व्याख्यातेन यत् सुखं तत्तामसम्।
-
+॥18.38॥ --,**विषयेन्द्रियसंयोगात्** जायते **यत्** सुखम् **तत्** सुखम् **अग्रे** प्रथमक्षणे **अमृतोपमम्** अमृतसमम्; **परिणामे विषमिव;** बलवीर्यरूपप्रज्ञामेधाधनोत्साहहानिहेतुत्वात् अधर्मतज्जनितनरकादिहेतुत्वाच्च परिणामे तदुपभोगपरिणामान्ते विषमिव; **तत् सुखं राजसं स्मृतम्**॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.38 See Comment under 18.39
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।18.38।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।18.38।। Sri Jayatirtha did not comment on this sloka.  
-  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।18.38।। --,**विषयेन्द्रियसंयोगात्** जायते **यत्** सुखम् **तत्** सुखम्
-**अग्रे** प्रथमक्षणे **अमृतोपमम्** अमृतसमम्; **परिणामे विषमिव;**
-बलवीर्यरूपप्रज्ञामेधाधनोत्साहहानिहेतुत्वात्
-अधर्मतज्जनितनरकादिहेतुत्वाच्च परिणामे तदुपभोगपरिणामान्ते विषमिव; **तत्
-सुखं राजसं स्मृतम्**।।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।18.38।। जो सुख विषय और इन्द्रियोंके संयोगसे उत्पन्न होता है; वह पहले --
-प्रथम क्षणमें; अमृतके सदृश होता है; परंतु परिणाममें विषके समान है।
-अभिप्राय यह है कि बल; वीर्य; रूप; बुद्धि; मेधा; धन और उत्साहकी हानिका
-कारण होनेसे; तथा अधर्म और उससे उत्पन्न नरकादिका हेतु होनेसे; वह
-परिणाममें -- अपने उपभोगका अन्त होनेके पश्चात्; विषके सदृश होता है अतः
-ऐसा सुख राजस माना गया है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 18.38 Tat, that; sukham, joy; is smrtam, referred to; as rajasam, born
 of rajas; yat, which; visaya-indriya-samyogat, arising from the contact
@@ -140,132 +60,156 @@ senses), because it causes loss of strength, vigour, beauty, wisdom,
 \[Prajna, the capacity to understand whatever is heard.\] retentive
 faculty, wealth and diligence, and because it is the cause of vice and
 its conseent hell etc.
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।18.38।। राजसं सुखं हेयत्वाय कथयति -- **विषयेति।** बलं सङ्घातसामर्थ्यं;
+<details><summary>हरिकृष्णदासः</summary>
+
+॥18.38॥ जो सुख विषय और इन्द्रियोंके संयोगसे उत्पन्न होता है; वह पहले --
+प्रथम क्षणमें; अमृतके सदृश होता है; परंतु परिणाममें विषके समान है।
+अभिप्राय यह है कि बल; वीर्य; रूप; बुद्धि; मेधा; धन और उत्साहकी हानिका
+कारण होनेसे; तथा अधर्म और उससे उत्पन्न नरकादिका हेतु होनेसे; वह
+परिणाममें -- अपने उपभोगका अन्त होनेके पश्चात्; विषके सदृश होता है अतः
+ऐसा सुख राजस माना गया है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥18.38॥ राजसं सुखं हेयत्वाय कथयति -- **विषयेति।** बलं सङ्घातसामर्थ्यं;
 वीर्यं पराक्रमकृतं यशः; रूपं शरीरसौन्दर्यं; प्रज्ञा
 श्रुतार्थग्रहणसामर्थ्यं; मेधा गृहीतार्थस्याविस्मरणेन धारणशक्तिः; धनं
 गोहिरण्यादि; उत्साहस्तु कार्यं प्रत्युपक्रमादिः; एतेषां
 नाशकत्वाद्वैषयिकं सुखं विषसममित्यर्थः। तत्रैव हेत्वन्तरमाह --
 **अधर्मेति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।18.38।। विषयेति। विषयाणामिन्द्रियाणां च संयोगाज्जातं न
-त्वात्मबुद्धिप्रसादात् यत्तत् यदतिप्रसिद्धं
-स्रक्चन्दनवनितासङ्गादिसुखमग्रे प्रथमारम्भे मनःसंयमादिक्लेशाभावादमृतोपमं
-परिणामे त्वैहिकपारत्रिकदुःखावहत्वाद्विषमिव तत्सुखं राजसं स्मृतम्।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।18.38।। राजसं सुखमाह -- **विषयेति।** अग्रे भोगकाले। परिणामे विषमिव
+॥18.38॥ राजसं सुखमाह -- **विषयेति।** अग्रे भोगकाले। परिणामे विषमिव
 वियोगकाले। इहामुत्र च दुःखप्रदत्वात्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।18.38।। सात्त्विकं सुखसमुदाहृत्य राजसं तद्य्वुत्पादयति। यत्सुखं
+<details><summary>धनपतिः</summary>
+
+॥18.38॥ सात्त्विकं सुखसमुदाहृत्य राजसं तद्य्वुत्पादयति। यत्सुखं
 विषयेन्द्रियसंयोगाज्जायतेऽग्रे प्रथमे क्षणेऽमृतोपममभृतसदृशं परिणामे
 तदुपभोगान्ते विषमिव
 बलवीर्यरसप्रज्ञादिहानिहेतुत्वादधर्मतज्जनितनरकादिहेतुत्वाच्च विषतुल्यं
 तत्सुखं हेयं राजसं स्मृतम्।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥18.38॥ विषयेति। विषयाणामिन्द्रियाणां च संयोगाज्जातं न
+त्वात्मबुद्धिप्रसादात् यत्तत् यदतिप्रसिद्धं
+स्रक्चन्दनवनितासङ्गादिसुखमग्रे प्रथमारम्भे मनःसंयमादिक्लेशाभावादमृतोपमं
+परिणामे त्वैहिकपारत्रिकदुःखावहत्वाद्विषमिव तत्सुखं राजसं स्मृतम्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.38।। विषयेति। स्पष्टमेवोपलभ्यते विषयस्य रूपादेः इन्द्रियैः
+॥18.38॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥18.38॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.36 -- 18.39॥ सुखमित्यादि तामसमुदाहृतमित्यन्तम्। तदात्वे; अभ्यासकाले। विषमिव; जन्मशताभ्यस्तविषयसङ्गस्य दुष्परिहारत्वात्। उक्तं च श्रुतौ -- क्षुरस्य धारा विषमा दुरत्यया इत्यादि। आत्मप्रसादात् बुद्धिप्रसादो जायते; अन्यस्यापेक्ष्यमाणस्याभावात्। विषयेन्द्रियाणां परस्परसंयोगज़ं,+++(S; -- संप्रयोगजम् )+++ सुखम्; चक्षुष इव रूपसंबन्धात्। निद्रातः आलस्येन प्रमादेन +++(S; ; N आलस्येन शठतया प्रमादेन )+++ पूर्वं व्याख्यातेन यत् सुखं तत्तामसम्।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.38 See Comment under 18.39
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.38॥ विषयेति। स्पष्टमेवोपलभ्यते विषयस्य रूपादेः इन्द्रियैः
 संयोगाद्यत्तत्सुखममृतोपममग्रे प्रथमं परिणामे विपाके विषमिव दुःखरूपम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.38।। राजसमाह -- विषयेन्द्रियेति। विषयाणामिन्द्रियाणां च संयोगात् तत्
+<details><summary>पुरुषोत्तमः</summary>
+
+॥18.38॥ राजसमाह -- विषयेन्द्रियेति। विषयाणामिन्द्रियाणां च संयोगात् तत्
 प्रसिद्धं स्रग्गन्धवस्त्राभरणस्त्रीसङ्गादिरूपं भगवत्सम्बन्धरहितसुखं
 अग्रे प्रथमं आपाततः अमृतोपमं अतिमिष्टतमं; परिणामे फलदशायां विषमिव
 भगवद्विस्मृतिकारकत्वेन जीवहरणैकस्वभावं तत्सुखं राजसं स्मृतं;
-प्रसिद्धमित्यर्थः।  
-  
-
+प्रसिद्धमित्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।18.38।। राजसं सुखमाह **-- विषयेन्द्रियेति।** विषयाणामिन्द्रियाणां च
+॥18.38॥ राजसं सुखमाह **-- विषयेन्द्रियेति।** विषयाणामिन्द्रियाणां च
 संयोगाद्यत्तत्प्रसिद्धं स्त्रीसङ्गादि सुखममृतमुपमा यस्य तादृशं भवत्यग्रे
 प्रथमम्। परिणामे तु विषतुल्यमिहामुत्र च दुःखहेतुत्वात्तत्सुखं राजसं
 स्मृतम्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।18.38।। इस श्लोक में दी गई परिभाषा से स्पष्ट हो जाता है कि राजस सुख
-सात्त्विक सुख के ठीक विपरीत लक्षण वाला है। इन्द्रियों के विषयो के साथ
-प्रत्यक्ष संयोग होने पर ही राजस सुख की प्राप्ति हो सकती है। दुर्भाग्य से
-इन दोनों का यह संयोग नित्य वहीं बना रह सकता; क्योंकि विषय अनित्य और
-परिवर्तनशील होते हैं। इसी प्रकार; विषयों से सम्पर्क करने वाली
-इन्द्रियाँ; मन और बुद्धि अनित्य ही हैं। अत भोग्य विषय और भोक्ता
-इन्द्रियादि दोनों के ही अनित्य होने पर उनके मध्य नित्य संयोग रहना असंभव
-है। उस स्थिति में; राजस सुख नित्य कैसे हो सकता है कोई भी मनुष्य इस
-क्षणिक वैषयिक सुख का भी पूर्णत और यथेष्ट भोग नहीं कर सकता; क्योंकि
-भोगकाल में भी उसे भय और चिन्ता लगी रहती है कि कहीं यह सुख शीघ्र ही
-समाप्त न हो जाय। केवल राजसी स्वभाव के लोग ही इस प्रकार के सुखों में रम
-सकते हैं; जो कि वास्तव में दुख के कारण ही होते हैं। विवेकी पुरुष इसमें
-नहीं रमते।
-
+18.38 That pleasure which arises from the contact of senses with their objects, which is like elixir at first but like poison in the end, is said to be Rajasika.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.38।। जो सुख विषयों और इन्द्रियों के संयोग से उत्पन्न होता है, वह
-प्रथम तो अमृत के समान, परन्तु परिणाम में विष तुल्य होता है, वह सुख राजस
-कहा गया है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+18.38 That joy is referred to as born of rajas which, arising from the contact of the organs and (their) objects, is like nectar in the beginning, but like poison at the end.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+18.38 That which as first is like nectar, because the senses revel in their objects, but in the end acts like poison - that pleasure arises from Passion.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.38. \[The happiness\] which is like nectar at its time due to the contact between the senses and sense-objects; but which is like poison at the time of its result-that is considered to be of the Rajas
+(Strand).
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+18.38 That happiness which arises from the contact of the sense-organs with the objects, which is at first like nectar, and in the end like poison that is declared to be Rajasic.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+18.38 विषयेन्द्रियसंयोगात् from the contact of the senseorgans with the objects; यत् which; तत् that; अग्रे at first; अमृतोपमम् like nectar;
+परिणामे in the end; विषम् poison; इव like; तत् that; सुखम् pleasure;
+राजसम् Rajasic; स्मृतम् is declared.Commentary Sensual pleasure is mixed with pain; fear and sin. A small grain of sensual pleasure is mixed with a mountain of pain. He who indulges in sensual pleasures will have to experience pain also; side by side. He is afraid of losing the objects that give him pleasure. He is attached to them. Attachment is death. It brings him again and again to this world of death. Fear and attachment coexist with sensual pleasure. He has to exert a lot to get money. He can obtain the objects through money. During exertion he commits many sinful acts and he will have to suffer in hell. The next birth will be of a very low nature. He tells lies and cheats people to obtain money.
+The senses also lose their vigour through indulgence in sensual pleasure. He loses his strength; vigour; wealth and energy. His intellect becomes dull; weak; impure; turbid and perverted. He loses his money and proper understanding. (Cf.V.22)
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.38।। जो सुख इन्द्रियों और विषयोंके संयोगसे आरम्भमें अमृतकी तरह और
 परिणाममें विषकी तरह होता है, वह सुख राजस कहा गया है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।18.38।।***व्याख्या --***  **विषयेन्द्रियसंयोगात् --** विषयों और
 इन्द्रियोंके संयोगसे होनेवाला जो सुख है; उसमें अभ्यास नहीं करना पड़ता।
@@ -359,56 +303,30 @@ _________________
 है -- **ये हि संस्पर्शजा भोगा दुःखयोनय एव ते** (गीता 5। 22)। इसलिये
 साधकको संसारसे विरक्त हो जाना चाहिये राजस सुखमें नहीं फँसना
 चाहिये। ,***सम्बन्ध --***  अब तामस सुखका वर्णन करते हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-18.38. \[The happiness\] which is like nectar at its time due to the contact between the senses and sense-objects; but which is like poison at the time of its result-that is considered to be of the Rajas
-(Strand).
-
+।।18.38।। इस श्लोक में दी गई परिभाषा से स्पष्ट हो जाता है कि राजस सुख
+सात्त्विक सुख के ठीक विपरीत लक्षण वाला है। इन्द्रियों के विषयो के साथ
+प्रत्यक्ष संयोग होने पर ही राजस सुख की प्राप्ति हो सकती है। दुर्भाग्य से
+इन दोनों का यह संयोग नित्य वहीं बना रह सकता; क्योंकि विषय अनित्य और
+परिवर्तनशील होते हैं। इसी प्रकार; विषयों से सम्पर्क करने वाली
+इन्द्रियाँ; मन और बुद्धि अनित्य ही हैं। अत भोग्य विषय और भोक्ता
+इन्द्रियादि दोनों के ही अनित्य होने पर उनके मध्य नित्य संयोग रहना असंभव
+है। उस स्थिति में; राजस सुख नित्य कैसे हो सकता है कोई भी मनुष्य इस
+क्षणिक वैषयिक सुख का भी पूर्णत और यथेष्ट भोग नहीं कर सकता; क्योंकि
+भोगकाल में भी उसे भय और चिन्ता लगी रहती है कि कहीं यह सुख शीघ्र ही
+समाप्त न हो जाय। केवल राजसी स्वभाव के लोग ही इस प्रकार के सुखों में रम
+सकते हैं; जो कि वास्तव में दुख के कारण ही होते हैं। विवेकी पुरुष इसमें
+नहीं रमते।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.38 That joy is referred to as born of rajas which, arising from the contact of the organs and (their) objects, is like nectar in the beginning, but like poison at the end.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।18.38।। जो सुख विषयों और इन्द्रियों के संयोग से उत्पन्न होता है, वह
+प्रथम तो अमृत के समान, परन्तु परिणाम में विष तुल्य होता है, वह सुख राजस
+कहा गया है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.38 That which as first is like nectar, because the senses revel in their objects, but in the end acts like poison - that pleasure arises from Passion.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-18.38 That pleasure which arises from the contact of senses with their objects, which is like elixir at first but like poison in the end, is said to be Rajasika.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-18.38 That happiness which arises from the contact of the sense-organs with the objects, which is at first like nectar, and in the end like poison that is declared to be Rajasic.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-18.38 विषयेन्द्रियसंयोगात् from the contact of the senseorgans with the objects; यत् which; तत् that; अग्रे at first; अमृतोपमम् like nectar;
-परिणामे in the end; विषम् poison; इव like; तत् that; सुखम् pleasure;
-राजसम् Rajasic; स्मृतम् is declared.Commentary Sensual pleasure is mixed with pain; fear and sin. A small grain of sensual pleasure is mixed with a mountain of pain. He who indulges in sensual pleasures will have to experience pain also; side by side. He is afraid of losing the objects that give him pleasure. He is attached to them. Attachment is death. It brings him again and again to this world of death. Fear and attachment coexist with sensual pleasure. He has to exert a lot to get money. He can obtain the objects through money. During exertion he commits many sinful acts and he will have to suffer in hell. The next birth will be of a very low nature. He tells lies and cheats people to obtain money.
-The senses also lose their vigour through indulgence in sensual pleasure. He loses his strength; vigour; wealth and energy. His intellect becomes dull; weak; impure; turbid and perverted. He loses his money and proper understanding. (Cf.V.22)
-
-</details>
 </div>

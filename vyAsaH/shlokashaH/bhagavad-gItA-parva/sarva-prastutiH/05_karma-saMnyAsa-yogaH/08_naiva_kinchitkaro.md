@@ -1,141 +1,59 @@
 +++
 title = "08 नैव किञ्चित्करोमीति"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **नैव किंचित् करोमीति**  
 युक्तो **मन्येत** तत्त्ववित्।  
 पश्यन् श्रृणवन् स्पृशञ् जिघ्रन्न्  
 अश्नन् गच्छन् स्वपन् श्वसन्॥5.8॥+++(5)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 नैव किंचित्करोमीति युक्तो मन्येत तत्त्ववित्।  
-पश्यन् श्रृणवन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपन् श्वसन्।।5.8।।
+पश्यन् श्रृणवन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपन् श्वसन्॥5.8॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।5.8।। एवम् आत्म**तत्त्ववित्** श्रोत्रादीनि ज्ञानेन्द्रियाणि वागादीनि
-कर्मेन्द्रियाणि प्राणाः च स्वस्य विषयेषु **वर्तन्ते इति धारयन्**
-अनुसन्दधानो न अहं **किञ्चित् करोमि इति मन्येत।** ज्ञानैकस्वभावस्य मम
-कर्ममूलेन्द्रियप्राणसम्बन्धकृतम् ईदृशं कर्तृत्वम् न स्वरूपप्रयुक्तम् इति
-मन्येत इत्यर्थः।
-
+॥5.8॥ एवम् आत्म**तत्त्ववित्** श्रोत्रादीनि ज्ञानेन्द्रियाणि वागादीनि कर्मेन्द्रियाणि प्राणाश् च स्वस्य विषयेषु **वर्तन्ते इति धारयन्** अनुसन्दधानो न अहं **किञ्चित् करोमि इति मन्येत।** ज्ञानैकस्वभावस्य मम कर्ममूलेन्द्रियप्राणसम्बन्धकृतम् ईदृशं कर्तृत्वं न स्वरूपप्रयुक्तम् इति मन्येत इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-5.8 इत्यादिकं ह्यनन्तरमुच्यत इति भावः। न लिप्यते इत्यत्र सवासनं
-सम्बन्धनिषेधो विवक्षित इत्याह न सम्बध्यत इति। प्रस्तुतार्थतया निगमयति अत
-इति।  
-  
-।।5.  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+5.8 इत्यादिकं ह्यनन्तरमुच्यत इति भावः। न लिप्यते इत्यत्र सवासनं सम्बन्धनिषेधो विवक्षित इत्याह न सम्बध्यत इति। प्रस्तुतार्थतया निगमयति अत इति।  
+        
+॥5.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.8 - 5.9 Thus he who knows the truth concerning the self should reflect in mind that the ear and the other organs of sensation (Jnanendriyas) as also organs of action (Karmendriyas) and the vital currents (the Pranas)
-are occupied with their own respective objects. Thus he should know, 'I do not do anything at all.' He should reflect, 'My intrinsic nature is one of knowledge. The sense of agency comes because of the association of the self with the senses and the Pranas which are rooted in Karma. It does not spring from my essential nature.'
+<details><summary>आदिदेवानन्दः</summary>
 
+5.8 - 5.9 Thus he who knows the truth concerning the self should reflect in mind that the ear and the other organs of sensation (Jnanendriyas) as also organs of action (Karmendriyas) and the vital currents (the Pranas) are occupied with their own respective objects. Thus he should know, 'I do not do anything at all.' He should reflect, 'My intrinsic nature is one of knowledge. The sense of agency comes because of the association of the self with the senses and the Pranas which are rooted in Karma. It does not spring from my essential nature.'
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।5.7 5.11।। योगयुक्त इत्यादि आत्मसिद्धये इत्यन्तम्। सर्वभूतानामात्मभूतः
-आत्मा यस्य स सर्वमपि कुर्वाणो न लिप्यते अकरणप्रतिषेधारूढत्वात्। अत एव
-दर्शनादीनि कुर्वन्नपि असौ एवं धारयति प्रतिपत्तिदार्ढ्येन निश्चिनुते
-चक्षुरादीनामिन्द्रियाणां यदि स्वविषयेषु प्रवृत्तिः मम किमायातम् न हि
-अन्यस्य कृतेनापरस्य +++(S अन्यस्य कृतेनान्यस्य अन्यकृतेन परस्य)+++ लेपः इति।
-तदेव ब्रह्मणि कर्मणां समर्पणम्। अत्र चिह्नम् अस्य गतसङ्गता। अतो न
-लिप्यते। योगिनश्च केवलैः सङ्गरहितैः परस्परानपेक्षिभिश्च कायादिभिः
-कुर्वन्ति कर्माणि सङ्गाभावात्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-5.8 See Comment under 5.11
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।5.8 5.9।। सन्न्यासं स्पष्टयति पुनः श्लोकद्वयेन।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।5.8 5.9।। नैव किञ्चिदित्यादेः प्रतिपाद्यमाह **सन्न्यासमि**ति। ज्ञेयः
-इत्यादिनाविशुद्धात्मा इत्यादिना च स्पष्टीकृतत्वात् **पुनरि**ति। स्पष्टं
-च प्रागनुक्तसङ्कल्पत्यागस्याभिधानात्।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।5.8 5.9।। **नैव किञ्चित् करोमीति युक्तः** समाहितः सन् **मन्येत**
-चिन्तयेत् **तत्त्ववित्** आत्मनो याथात्म्यं तत्त्वं वेत्तीति तत्त्ववित्
-परमार्थदर्शीत्यर्थः।। कदा कथं वा तत्त्वमवधारयन् मन्येत इति उच्यते
-पश्यन्निति। मन्येत इति पूर्वेण संबन्धः। यस्य एवं तत्त्वविदः
-सर्वकार्यकरणचेष्टासु कर्मसु अकर्मैव पश्यतः सम्यग्दर्शिनः तस्य
-सर्वकर्मसंन्यासे एव अधिकारः कर्मणः अभावदर्शनात्। न हि मृगतृष्णिकायाम्
-उदकबुद्ध्या पानाय प्रवृत्तः उदकाभावज्ञानेऽपि तत्रैव पानप्रयोजनाय
-प्रवर्तते।।  
+॥5.8 5.9॥ **नैव किञ्चित् करोमीति युक्तः** समाहितः सन् **मन्येत** चिन्तयेत् **तत्त्ववित्** आत्मनो याथात्म्यं तत्त्वं वेत्तीति तत्त्ववित् परमार्थदर्शीत्यर्थः॥ कदा कथं वा तत्त्वमवधारयन् मन्येत इति उच्यते पश्यन्निति। मन्येत इति पूर्वेण संबन्धः। यस्य एवं तत्त्वविदः सर्वकार्यकरणचेष्टासु कर्मसु अकर्मैव पश्यतः सम्यग्दर्शिनः तस्य सर्वकर्मसंन्यासे एव अधिकारः कर्मणः अभावदर्शनात्। न हि मृगतृष्णिकायाम् उदकबुद्ध्या पानाय प्रवृत्तः उदकाभावज्ञानेऽपि तत्रैव पानप्रयोजनाय प्रवर्तते॥  
   
 यस्तु पुनः अतत्त्ववित् प्रवृत्तश्च कर्मयोगे
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।5.8।। तत्त्वको समझकर कब और किस प्रकार ऐसे माने सो कहते हैं ( देखता
-सुनता छूता सूँघता खाता चलता सोता श्वास लेता बोलता त्याग करता ग्रहण करता
-तथा आँखोंको खोलता और मूँदता हुआ भी इन्द्रियाँ इन्द्रियोंके विषयमें बर्त
-रही हैं ऐसे समझकर ) ऐसे माने कि मैं कुछ भी नहीं करता। इस प्रकार इसका
-पहलेके आधे श्लोकसे सम्बन्ध है। जो इस प्रकार तत्त्वज्ञानी है अर्थात् सब
-इन्द्रियाँ और अन्तःकरणोंकी चेष्टारूप कर्मोंमें अकर्म देखनेवाला है वह
-अपनेमें कर्मोंका अभाव देखता है इसलिये उस यथार्थ ज्ञानीका
-सर्वकर्मसंन्यासमें ही अधिकार है। क्योंकि मृगतृष्णिकामें जल समझकर उसको
-पीनेके लिये प्रवृत्त हुआ मनुष्य उसमें जलके अभावका ज्ञान हो जानेपर फिर भी
-वही जल पीनेके लिये प्रवृत्त नहीं होता।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 5.8 Yuktah, remaining absorbed in the Self; tattva-vit, the knower of
 Reality-knower of the real nature of Truth, of the Self, i.e., the seer
@@ -153,36 +71,32 @@ giving up all actions because of his realization of the nonexistence of
 actions. Indeed, one who proceeds to drink water in a mirage thinking
 that water is there, surely does not go there itself for drinking water
 even after knowing that no water exists there!
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।5.8।। कर्माण्यङ्गीकृत्य तैरस्य विदुषो बन्धो नास्तीत्युक्तमिदानीं
+<details><summary>हरिकृष्णदासः</summary>
+
+॥5.8॥ तत्त्वको समझकर कब और किस प्रकार ऐसे माने सो कहते हैं ( देखता
+सुनता छूता सूँघता खाता चलता सोता श्वास लेता बोलता त्याग करता ग्रहण करता
+तथा आँखोंको खोलता और मूँदता हुआ भी इन्द्रियाँ इन्द्रियोंके विषयमें बर्त
+रही हैं ऐसे समझकर ) ऐसे माने कि मैं कुछ भी नहीं करता। इस प्रकार इसका
+पहलेके आधे श्लोकसे सम्बन्ध है। जो इस प्रकार तत्त्वज्ञानी है अर्थात् सब
+इन्द्रियाँ और अन्तःकरणोंकी चेष्टारूप कर्मोंमें अकर्म देखनेवाला है वह
+अपनेमें कर्मोंका अभाव देखता है इसलिये उस यथार्थ ज्ञानीका
+सर्वकर्मसंन्यासमें ही अधिकार है। क्योंकि मृगतृष्णिकामें जल समझकर उसको
+पीनेके लिये प्रवृत्त हुआ मनुष्य उसमें जलके अभावका ज्ञान हो जानेपर फिर भी
+वही जल पीनेके लिये प्रवृत्त नहीं होता।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥5.8॥ कर्माण्यङ्गीकृत्य तैरस्य विदुषो बन्धो नास्तीत्युक्तमिदानीं
 वस्तुतस्तस्य कर्माण्येव न सन्तीत्याह **नचेति।** लोकदृष्ट्या विदुषोऽपि
 कर्माणि सन्तीत्याशङ्क्य स्वदृष्ट्या तदभावमभिप्रेत्याह **नैवेति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।5.8।। एतदेव विवृणोति द्वाभ्यां
-चक्षुरादिज्ञानेन्द्रियैर्वागादिकर्मेन्द्रियैः
-प्राणादिवायुभेदैरन्तःकरणचतुष्टयेन च तत्तच्चेष्टासु क्रियमाणासु
-इन्द्रियाणि इन्द्रियादीन्येवेन्द्रियार्थेषु स्वस्वविषयेषु वर्तन्ते
-प्रवर्तन्ते नत्वहमिति धारयन्नवधारयन् नैव किंचित्करोमीति मन्येत मन्यते।
-तत्त्ववित्परामार्थदर्शी युक्तः समाहितचित्तः। अथवा आदौ युक्तः कर्मयोगेन
-पश्चादन्तःकरणशुद्धिद्वारेण तत्त्वविद्भूत्वा नैव किंचित्करोमीति मन्यत इति
-संबन्धः।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।5.8 5.9।। न लिप्यत इत्येतदुपपादयति **नैवेति** **द्वाभ्याम्।**
+॥5.8 5.9॥ न लिप्यत इत्येतदुपपादयति **नैवेति** **द्वाभ्याम्।**
 तत्त्ववित् अहं नैव किंचित्करोमीति मन्येत मन्यते। तत्र हेतुः। इन्द्रियाणि
 उपलक्षणमिदं प्राणादेरपि। इन्द्रियादय इन्द्रियार्थेषु स्वेषु विषयेषु
 वर्तन्ते इति धारयन्निश्चिन्वन्नत्वहं विषयेषु वर्ते इति मन्यते।
@@ -191,13 +105,11 @@ even after knowing that no water exists there!
 आनन्दस्योपलक्षणानि। श्वसन्निति प्राणस्य स्वपन्निति बुद्धेः
 उन्मेषणनिमेषणे कूर्माख्यप्राणस्येति विभागः। क्रमस्त्वविवक्षितः। एतानि
 कुर्वन्नप्यभिमानाभावान्न लिप्यत इत्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।5.8 5.9।। कुर्वन्नपि कुतो न लिप्यत इत्याशङ्क्य यतोऽसौ परमार्थतो न
+<details><summary>धनपतिः</summary>
+
+॥5.8 5.9॥ कुर्वन्नपि कुतो न लिप्यत इत्याशङ्क्य यतोऽसौ परमार्थतो न
 करोतीत्याह द्वाभ्याम् **नैवेति।** युक्तः समाहितः सन्नादौ कर्मयोगयुक्त
 इति वाऽयं पक्षोऽध्याहारसापेक्षत्वादाचार्यैरुपेक्षितिः।
 तत्त्ववित्परमार्थदर्शी नैव किंचित्करोमीति मन्येत मन्यते।
@@ -212,32 +124,68 @@ even after knowing that no water exists there!
 विषयेषु वर्तन्त इति हेतोरन्याय्यमपि कुर्युरित्य इन्द्रियाणि
 धारयन्त्त्स्वायत्तानि यथेष्टसंचारपराङ्भुखानि कुर्वन्निति। अस्मिन्पक्षे
 प्रकरणविरोधोऽनुषक्लेशश्च परिहर्तव्यः।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥5.8॥ एतदेव विवृणोति द्वाभ्यां
+चक्षुरादिज्ञानेन्द्रियैर्वागादिकर्मेन्द्रियैः
+प्राणादिवायुभेदैरन्तःकरणचतुष्टयेन च तत्तच्चेष्टासु क्रियमाणासु
+इन्द्रियाणि इन्द्रियादीन्येवेन्द्रियार्थेषु स्वस्वविषयेषु वर्तन्ते
+प्रवर्तन्ते नत्वहमिति धारयन्नवधारयन् नैव किंचित्करोमीति मन्येत मन्यते।
+तत्त्ववित्परामार्थदर्शी युक्तः समाहितचित्तः। अथवा आदौ युक्तः कर्मयोगेन
+पश्चादन्तःकरणशुद्धिद्वारेण तत्त्वविद्भूत्वा नैव किंचित्करोमीति मन्यत इति
+संबन्धः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।5.8 5.9।। कुर्वन्नपि न लिप्यते इत्येतद्विरुद्धमित्याशङ्क्य
+॥5.8 5.9॥ सन्न्यासं स्पष्टयति पुनः श्लोकद्वयेन।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥5.8 5.9॥ नैव किञ्चिदित्यादेः प्रतिपाद्यमाह **सन्न्यासमि**ति। ज्ञेयः
+इत्यादिनाविशुद्धात्मा इत्यादिना च स्पष्टीकृतत्वात् **पुनरि**ति। स्पष्टं
+च प्रागनुक्तसङ्कल्पत्यागस्याभिधानात्।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+
+<details><summary>मूलम्</summary>
+
+॥5.7 5.11॥ योगयुक्त इत्यादि आत्मसिद्धये इत्यन्तम्। सर्वभूतानामात्मभूतः आत्मा यस्य स सर्वमपि कुर्वाणो न लिप्यते अकरणप्रतिषेधारूढत्वात्। अत एव दर्शनादीनि कुर्वन्नपि असौ एवं धारयति प्रतिपत्तिदार्ढ्येन निश्चिनुते चक्षुरादीनामिन्द्रियाणां यदि स्वविषयेषु प्रवृत्तिः मम किमायातम् न हि अन्यस्य कृतेनापरस्य +++(S अन्यस्य कृतेनान्यस्य अन्यकृतेन परस्य)+++ लेपः इति। तदेव ब्रह्मणि कर्मणां समर्पणम्। अत्र चिह्नम् अस्य गतसङ्गता। अतो न लिप्यते। योगिनश्च केवलैः सङ्गरहितैः परस्परानपेक्षिभिश्च कायादिभिः कुर्वन्ति कर्माणि सङ्गाभावात्।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+5.8 See Comment under 5.11
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+
+<details><summary>मूलम्</summary>
+
+॥5.8 5.9॥ कुर्वन्नपि न लिप्यते इत्येतद्विरुद्धमित्याशङ्क्य
 सर्वेन्द्रियव्यापारसत्वेऽपि कर्तृत्त्वाद्यभिमानाभावेन
 निर्द्वन्द्वत्वान्न विरुद्धमित्याह नैव किञ्चिदिति। मनस इन्द्रियाणां च
 व्यापाराःउन्मिषन्निमिषन्नपि इत्यन्तं निर्दिष्टाः। स्वविषयेषु
 हीमानीन्द्रियाणि प्रवर्त्तन्ते नाहमिति। साङ्ख्यवद्धारवन् न लिप्यते। तथा
 चोक्तं सूत्रकृतातदविगम उत्तरपूर्वाघयोरश्लेषविनाशौ ब्र.सू.4।1।13 इति।
 कर्मभिर्न स बध्यते इति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।5.8।। ननु नियतफलस्य कर्मणः कृतस्य कथं न फलं इत्याशङ्क्याह नैव
+<details><summary>पुरुषोत्तमः</summary>
+
+॥5.8॥ ननु नियतफलस्य कर्मणः कृतस्य कथं न फलं इत्याशङ्क्याह नैव
 किञ्चिदित्यादित्रयेण। तत्त्ववित् भगवदिङ्गितज्ञः युक्तः मद्भावयुक्तः
 सन्नैव किञ्चित्करोमि अहं किञ्चिदपि न करोमि किन्तु भगवदिच्छया तदाज्ञया
 यथा स कारयति तथा वारिवशात्तृणादिचलनवत् कर्म किमपि मत्तो न भवति न त्वहं
@@ -252,17 +200,13 @@ _________________
 मत्तावस्थात्यागेन स्वरूपानुभवं कुर्वन् निमिषन् तत्सुखानुभवेन
 नेत्रनिमीलनं कुर्वन् इन्द्रियाणि इन्द्रियार्थेषु भगवदवयवेषु वर्तन्त इति
 धारयन्।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।5.8 5.9।। कर्म कुर्वन्नपि न लिप्यत इत्येतद्विरुद्धमित्याशङ्क्य
+॥5.8 5.9॥ कर्म कुर्वन्नपि न लिप्यत इत्येतद्विरुद्धमित्याशङ्क्य
 कर्तृत्वाभिमानाभावान्न विरुद्धमित्याह **नैवेति** द्वाभ्याम्। कर्मयोगेन
 युक्तः क्रमेण तत्त्वविद्भूत्वा दर्शनश्रवणादीनि कुर्वन्नपि
 इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन्बुद्ध्या निश्चित्य
@@ -273,41 +217,62 @@ _________________
 कुर्वन्नप्यनभिमानाद्ब्रह्मविन्न लिप्यते। तथाच पारमर्षं सूत्रं तदधिगम
 उत्तरपूर्वाघयोरश्लेषविनाशौ तद्व्यपदेशात इति।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।5.8।। See commentary under 5.9
-
+5.8 The knower of the truth, who is devoted to Yoga should think, 'I do not at all do anything' even though he is seeing, hearing, touching,
+smelling, eating, moving, sleeping, breathing;
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।5.8।। तत्त्ववित् युक्त पुरुष यह सोचेगा (अर्थात् जानता है) कि "मैं
-किंचित् मात्र कर्म नहीं करता हूँ" देखता हुआ, सुनता हुआ, स्पर्श करता
-हुआ, सूंघता हुआ, खाता हुआ, चलता हुआ, सोता हुआ, श्वास लेता हुआ,।।
+<details><summary>गम्भीरानन्दः</summary>
 
+5.8-5.9 Remaining absorbed in the Self, the knower of Reality should think, 'I certainly do not do anything', even while seeing, hearing,
+touching, smelling, eating, moving, sleeping, breathing, speaking,
+releasing, holding, opening and closing the eyes-remembering that the organs function in relation to the objects of the organs.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+5.8 Though the saint sees, hears, touches, smells, eats, moves, sleeps and breathes, yet he knows the Truth, and he knows that it is not he who acts.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+5.8. A master of Yoga, knowing the reality would think 'I do not perform any action at all'. For, he who, while seeing, hearing, touching,
+smelling, eating, going, sleeping and breathing;
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+5.8 "I do nothing at all," thus would the harmonised knower of Truth think seeing, hearing, touching, smelling, eating, going, sleeping,
+breathing.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+5.8 न not; एव even; किञ्चित् anything; करोमि I do; इति thus; युक्तः
+centred (in the Self); मन्येत should think; तत्त्ववित् the knower of Truth; पश्यन् seeing; श्रृण्वन् hearing; स्पृशन् touching; जिघ्रन्
+smelling; अश्नन् eating; गच्छन् going; स्वपन् sleeping; श्वसन्
+breathing.No Commentary.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.8 -- 5.9।। तत्त्वको जाननेवाला साङ्ख्ययोगी देखता, सुनता, छूता, सूँघता,
 खाता, चलता, ग्रहण करता, बोलता, मल-मूत्र का त्याग करता, सोता, श्वास लेता
 तथा आँखें खोलता और मूँदता भी सम्पूर्ण इन्द्रियाँ इन्द्रियोंके विषयोंमें
 बरत रही हैं' -- ऐसा समझकर 'मैं (स्वयं) कुछ भी नहीं करता हूँ' -- ऐसा
 माने।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 5.8।।***व्याख्या--*'तत्त्ववित् युक्तः'--**यहाँ ये पद साङ्ख्ययोगके
 विवेकशील साधकके वाचक हैं, जो तत्त्ववित् महापुरुषकी तरह निर्भ्रान्त अनुभव
@@ -382,60 +347,18 @@ _________________
 सम्भव भी नहीं। ऐसा वह तत्त्व सबका आधार, प्रकाशक और स्वयं प्रकाशस्वरूप
 है। वह सबमें रहता हुआ भी कुछ नहीं करता। उस तत्त्वकी तरफ लक्ष्य करानेमें
 ही उपर्युक्त इन तेरह क्रियाओँका तात्पर्य है।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-5.8. A master of Yoga, knowing the reality would think 'I do not perform any action at all'. For, he who, while seeing, hearing, touching,
-smelling, eating, going, sleeping and breathing;
-
+।।5.8।। See commentary under 5.9
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.8-5.9 Remaining absorbed in the Self, the knower of Reality should think, 'I certainly do not do anything', even while seeing, hearing,
-touching, smelling, eating, moving, sleeping, breathing, speaking,
-releasing, holding, opening and closing the eyes-remembering that the organs function in relation to the objects of the organs.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।5.8।। तत्त्ववित् युक्त पुरुष यह सोचेगा (अर्थात् जानता है) कि "मैं
+किंचित् मात्र कर्म नहीं करता हूँ" देखता हुआ, सुनता हुआ, स्पर्श करता
+हुआ, सूंघता हुआ, खाता हुआ, चलता हुआ, सोता हुआ, श्वास लेता हुआ,।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.8 Though the saint sees, hears, touches, smells, eats, moves, sleeps and breathes, yet he knows the Truth, and he knows that it is not he who acts.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-5.8 The knower of the truth, who is devoted to Yoga should think, 'I do not at all do anything' even though he is seeing, hearing, touching,
-smelling, eating, moving, sleeping, breathing;
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-5.8 "I do nothing at all," thus would the harmonised knower of Truth think seeing, hearing, touching, smelling, eating, going, sleeping,
-breathing.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-5.8 न not; एव even; किञ्चित् anything; करोमि I do; इति thus; युक्तः
-centred (in the Self); मन्येत should think; तत्त्ववित् the knower of Truth; पश्यन् seeing; श्रृण्वन् hearing; स्पृशन् touching; जिघ्रन्
-smelling; अश्नन् eating; गच्छन् going; स्वपन् sleeping; श्वसन्
-breathing.No Commentary.
-
-</details>
 </div>

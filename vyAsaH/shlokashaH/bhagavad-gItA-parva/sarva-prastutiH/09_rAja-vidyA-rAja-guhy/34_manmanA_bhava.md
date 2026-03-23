@@ -1,319 +1,76 @@
 +++
 title = "34 मन्मना भव"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 मन्मना भव मद्-भक्तो  
 मद्-याजी **मां नमस् कुरु**।  
 **माम् एवैष्यसि** युक्त्वैवम्  
 आत्मानं मत्-परायणः॥9.34॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।  
-मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः।।9.34।।
+मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः॥9.34॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।9.34।।**मन्मना भव** मयि सर्वेश्वरे निखिलहेयप्रत्यनीककल्याणैकताने
-सर्वज्ञे सत्यसंकल्पे निखिलजगदेककारणे परस्मिन् ब्रह्मणि पुरुषोत्तमे
-पुण्डरीकदलामलायतेक्षणे स्वच्छनीलजीमूतसंकाशे युगपदुदितदिनकरसहस्रसदृशतेजसि
-लावण्यामृतमहोदधौ उदारपीवरचतुर्बाहौ अत्युज्जवलपीताम्बरे
-अमलकिरीटमकरकुण्डलहारकेयूरकटकादिभूषिते,अपारकारुण्यसौशील्यसौन्दर्यमाधुर्यगाम्भीर्यौदार्यवात्सल्यजलधौ
-अनालोचितविशेषाशेषलोकशरण्ये सर्वस्वामिनि तैलधारावद् अविच्छेदेन निविष्टमना
-भव। तद् एव विशिनष्टि -- **मद्भक्तः** अत्यर्थमत्प्रियत्वेन युक्तो मन्मनो
-भव इत्यर्थः। पुनः अपि विशिनष्टि -- **मद्याजी** अनवधिकातिशयप्रियमदनुभवकारि
+भक्तिस्वरूपम् आह --
+
+॥9.34॥**मन्मना भव** मयि सर्वेश्वरे निखिलहेयप्रत्यनीककल्याणैकताने सर्वज्ञे सत्यसङ्कल्पे निखिलजगदेककारणे परस्मिन् ब्रह्मणि पुरुषोत्तमे पुण्डरीकदलामलायतेक्षणे स्वच्छनीलजीमूतसङ्काशे युगपदुदितदिनकरसहस्रसदृशतेजसि लावण्यामृतमहोदधौ उदारपीवरचतुर्बाहौ अत्युज्जवलपीताम्बरे अमलकिरीटमकरकुण्डलहारकेयूरकटकादिभूषिते,अपारकारुण्यसौशील्यसौन्दर्यमाधुर्यगाम्भीर्यौदार्यवात्सल्यजलधौ अनालोचितविशेषाशेषलोकशरण्ये सर्वस्वामिनि तैलधारावद् अविच्छेदेन निविष्टमना भव। तद् एव विशिनष्टि -- **मद्भक्तः** अत्यर्थमत्प्रियत्वेन युक्तो मन्मनो भव इत्यर्थः। पुनो ऽपि विशिनष्टि -- **मद्याजी** अनवधिकातिशयप्रियमदनुभवकारि
 -- तमद्यजनपरो भव। यजनं नाम परिपूर्णशेषवृत्तिः;
-औपचारिकसांस्पर्शिकाभ्यवहारिकादिसकलभोगप्रदानरूपो हि यागः। यथा
-मदनुभवजनितनिरवधिकातिशयप्रीतिकारितमद्यजनपरो भवसि तथा मन्मना भव इत्युक्तं
-भवति। पुनः अपि तद् एव विशिनष्टि -- **मां नमस्कुरु;**
-अनवधिकातिशयप्रियमदनुभवकारितात्यर्थप्रियाशेषशेषवृत्तौ अपर्यवस्यन् मयि
-अन्तरात्मनि अतिमात्रप्रह्वीभावव्यसायं कुरु।**मत्परायणः** अहम् एव परम्
-अयनं यस्य असौ मत्परायणः; मया विना आत्मधारणासंभावनया मदाश्रय
-इत्यर्थः।**एवम् आत्मानं युक्त्वा** मत्परायणः त्वम् एवम्
-अनवधिकातिशयप्रीत्या मदनुभवसमर्थं मनः प्राप्य **माम् एव एष्यसि।**
-आत्मशब्दो हि अत्र मनोविषयः। एवंरूपेण मनसा मां ध्यात्वा माम् अनुभूय माम्
-इष्टवा मां नमस्कृत्य मत्परायणो माम् एव प्राप्स्यसि इत्यर्थः। तद् एवं
-लौकिकानि शरीरधारणार्थानि वैदिकानि च नित्यनैमित्तिकानि कर्माणि मत्प्रीतये
-मच्छेषतैकरसो मया एव कारित इति कुर्वन् सततं मत्कीर्तनयजननमस्कारादिकान्
-प्रीत्या कुर्वाणो मन्नियाम्यं निखिलजगत् मच्छेषतैकरसम् इति च अनुसंदधानः;
-अत्यर्थप्रियमद्गुणगणं च अनुसंधाय अहरहः उक्तलक्षणम् इदम् उपासनम् उपादधानो
-माम् एव प्राप्स्यसि।
-
+औपचारिकसांस्पर्शिकाभ्यवहारिकादिसकलभोगप्रदानरूपो हि यागः। यथा मदनुभवजनितनिरवधिकातिशयप्रीतिकारितमद्यजनपरो भवसि तथा मन्मना भव इत्युक्तं भवति। पुनो ऽपि तद् एव विशिनष्टि -- **मां नमस्कुरु;** अनवधिकातिशयप्रियमदनुभवकारितात्यर्थप्रियाशेषशेषवृत्तौ अपर्यवस्यन् मय्य् अन्तरात्मन्य् अतिमात्रप्रह्वीभावव्यसायं कुरु।**मत्परायणः** अहम् एव परम् अयनं यस्य असौ मत्परायणः; मया विना आत्मधारणासम्भावनया मदाश्रय इत्यर्थः।**एवम् आत्मानं युक्त्वा** मत्परायणस् त्वम् एवम् अनवधिकातिशयप्रीत्या मदनुभवसमर्थं मनः प्राप्य **माम् एव एष्यसि।** आत्मशब्दो ह्य् अत्र मनोविषयः। एवंरूपेण मनसा मां ध्यात्वा माम् अनुभूय माम् इष्टवा मां नमस्कृत्य मत्परायणो माम् एव प्राप्स्यसि इत्यर्थः। तद् एवं लौकिकानि शरीरधारणार्थानि वैदिकानि च नित्यनैमित्तिकानि कर्माणि मत्प्रीतये मच्छेषतैकरसो मया एव कारित इति कुर्वन् सततं मत्कीर्तनयजननमस्कारादिकान् प्रीत्या कुर्वाणो मन्नियाम्यं निखिलजगन् मच्छेषतैकरसम् इति च अनुसन्दधानः; अत्यर्थप्रियमद्गुणगणं च अनुसन्धाय अहरह उक्तलक्षणम् इदम् उपासनम् उपादधानो माम् एव प्राप्स्यसि।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।9.34।। भजस्व \[9।33\] इत्युक्तभक्तिस्वरूपनिष्कर्षोऽनन्तरं क्रियत इति
-सङ्गतिं दर्शयति -- भक्तिस्वरूपमाहेति। सामान्येन सर्वासु
-परविद्यासूपास्यतया तदुपयुक्ततया च प्रमाणशतैः प्रतिपादिताः
-स्वरूपरूपगुणादयोऽत्रास्मच्छब्देन विवक्षिता इत्यभिप्रायेणाह -- मयीति।
-तमीश्वराणां परमं महेश्वरं \[श्वे.उ.6।7\] न तस्येशे कश्चन \[तै.ना.1।9\]
-इत्यादेरर्थमाह -- सर्वेश्वरेश्वर इति। न ह्यसमर्थसेवया किञ्चिल्लभ्यते नच
-ब्रह्माण्डान्तरादेरनीश्वरा ब्रह्मेशादयोऽपि मोक्षदानशक्ता इति भावः।
-क्षेत्रज्ञस्येश्वरज्ञानाद्विशुद्धिः परमा मता \[या.स्मृ.3।34\] इति
-ह्युच्यते। हेयास्पदस्य गुणरहितस्य च भजनीयत्वाभावादितरव्यावृत्त्यर्थं
-सगुणनिर्गुणश्रुतीनां विषयव्यवस्थयोभयलिङ्गत्वमाह -- निखिलेति।
-समस्तानिष्टनिवर्तकत्वादनन्तभोग्यमयत्वाच्चायमेवोपास्य इति भावः।
-अनन्तमङ्गलगुणोपलक्षकतया ध्येयलक्षणजगत्कारणत्वमोक्षप्रदत्वौपयिकं
-गुणद्वयंसर्वज्ञे सत्यसङ्कल्प इत्युक्तम्। यः सर्वज्ञः सर्वविद्यस्य
-ज्ञानमयं तपः। तस्मादेतद्ब्रह्म नामरूपमन्नं च जायते \[मुं.उ.1।9\] इति;
-सत्यकामः सत्यसङ्कल्पः \[छां.उ.8।1।5\] इति च अनिष्टनिवृत्त्यादौ
-चान्याज्ञातं सहकारिसापेक्षत्वं च नास्तीति भावः। यतो वा इमानि भूतानि
-जायन्ते इत्युपक्रम्य तद्विजिज्ञासस्व \[तै.उ.3।1।1\] कारणं तु ध्येयः
-\[अ.शिखो.3\] इत्याद्यभिप्रायेण -- निखिलजगदेककारण इत्युक्तम्।
-निखिलशब्देनाव्यक्तादेर्ब्रह्मरुद्रादेश्च सङ्ग्रहः।
-व्योमातीतनिर्गुणवादादिनिराकरणं; सामान्यविशेषशब्दयोरैकरस्यं
-चाभिप्रेत्यपरस्मिन् ब्रह्मणि पुरुषोत्तम इत्युक्तम्। अनेन सर्वात्मकत्वं
-सर्वविलक्षणत्वं चाविरुद्धमुपदर्शितं भवति। नारायणानुवाकपुरुषसूक्तादिकं च
-स्मारितम्। एतावता विशिष्टं स्वरूपमुक्तम्।  
-  
-अथ सर्वशाखादिपठितपुरुषसूक्तादिसिद्धं शुभाश्रयप्रकरणप्रपञ्चितं च
-विग्रहतद्गुणादिकमुच्यते। तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी
-\[छां.उ.1।6।7\] इत्याद्युक्तपरत्वचिह्नमाह -- पुण्डरीकदलामलायताक्ष
-इति। स्वच्छेत्यादिना नीलतोयदमध्यस्था \[तै.ना.11।12\] इत्यादिकमनुसंहितम्।
-स्वच्छत्वं मणिमुकुरसलिलकाचादिवद्व्यवहितप्रकाशप्रतिबिम्बादियोग्यः
-प्रसादविशेषः। दिवि सूर्यसहस्रस्य \[11।12\] इत्यादि वक्ष्यमाणं तमेव
-भान्तम् \[मुं.उ.2।2।10\] इत्यादिश्रुतिं चाभिप्रेत्योक्तं --
-युगपदित्यादि। श्रुत्यादिप्रसिद्धं बहूनामुदारत्वमौर्जित्यमभिमतफलप्रदत्वं
-च। यत्र रूपान्तरं न विशिष्टं; तत्र वक्तुर्वसुदेवनन्दनस्य रूपं विवक्षितम्
-तच्च सर्वावतारोपलक्षणम्। चतुर्भुजत्वं भगवतः कृष्णस्य पररूपस्य
-सांसिद्धिकम् द्विभुजत्वं सहस्रभुजत्वादिकं चाहार्यमित्याशयेनोक्तं --
-चतुर्बाहाविति। अथवापि चतुर्भुजत्वं -- भुजैश्चतुर्भिः समुपेतमेतद्रूपं
-विशिष्टं दिवि संस्थितं च। भूमौ गतं पूजयताप्रमेयं सदा हि तस्मिन्निवसामि
-देवाः इत्यादिकमिह भाव्यम्। दिव्याम्बरयोगमाह -- अत्युज्ज्वलितेति।
-मूर्धादिपादान्तदिव्यावयवगतसमस्ताभरणवर्गोपलक्षणतया किरीटाद्युक्तिः। ध्येयः
-सदा इत्युपक्रम्यकेयूरवान् मकरकुण्डलवान् किरीटी \[भ.उ.पु.आ.हृ.155\]
-इत्यादिकमिह द्रष्टव्यम्। मकरशब्दो मकराकारकुण्डलपरः। तेजःप्राचुर्यं
-प्रतिकूलैर्दुष्प्रेक्षत्वं चाभिप्रेत्ययुगपदित्यादिकमुक्तम्।  
-  
-लावण्येत्यादिना तु तस्यैवानुकूलभोग्यत्वाकर्षकत्वादिकमभिप्रेतम्।
-चक्षुरानन्दजनकस्तेजोविशेषो हि लावण्यम्। तत इदमुच्यते --
-लोचनैरनुजग्मुस्ते तमादृष्टिपथात्पुनः। मनोभिरनुजग्मुश्च कृष्णं
-प्रीतिसमन्विताः।। अतृप्तमनसामेवं तेषां केशवदर्शने। क्षिप्रमन्तर्दधे
-शौरिश्चक्षुषां प्रियदर्शनः।। अमृतस्येव नातृप्यन् प्रेक्षमाणा जनार्दनम्
-\[म.भा.2।2।2628\]नहि तस्मान्मनः कश्चिच्चक्षुषी वा नरोत्तमात्। नरः
-शक्नोत्यपाक्रष्टुमतिक्रामति राघवे \[वा.रा.2।17।13\] इति। अपारेत्यादिना
-सौलभ्योपयोगिनोऽमिताः सुन्दरत्वादिमिश्राः समाश्रयणीयत्वेऽत्यन्तापेक्षिताः
-स्वरूपरूपयोर्गुणा उक्ताः। सर्वलोकशरण्याय \[वा.रा.6।17।17\]सुदुष्टो
-वाऽप्यदुष्टो वा \[वा.रा.6।18।5\]विभीषणो वा सुग्रीव यदि वा रावणः स्वयम्
-\[वा.रा.6।18।34\] इत्यादिकमनुसन्धाय कारुण्यादिफलितमाह -- अनालोचितेति।
-आश्रितसंरक्षणं स्वलाभं मत्वा प्रवर्तत इत्यभिप्रायेणोक्तं --
-सर्वस्वामिनीति। कृष्णस्य हि कृते भूतमिदं विश्वं चराचरम् \[म.भा.2।38।23\]
-इत्युक्तम्। निदिध्यासितव्यः \[बृ.उ.2।4।54।5।6\] ध्यायथ \[मुं.उ.2।2।6\]
-ध्रुवा स्मृतिः \[छां.उ.7।26।2\] आवृत्तिरसकृदुपदेशात् \[ब्र.सू.4।1।1\]
-इत्याद्यनुसन्धानेन मनश्शब्दस्यात्र ध्यानाख्यमनोवृत्तिविशेषविषयतामाह --
-तैलधारेति। मय्येव मन आधत्स्व \[12।8\] इत्युच्यत इति। अत्रमामेवैष्यसि इति
-साध्यगतावधारणात्साधनेऽप्यवधारणं विवक्षितमिति गम्यते। तेन
-चानन्यमनस्त्वादिकं सिद्धम्। ततश्च तैलधारादिवदविच्छेदोऽपि फलित इति
-भावः।  
-  
-यमेवैष वृणुते तेन लभ्यः \[कठो.1।2।22\] इति
-श्रुत्युपबृंहणतामभिप्रेत्याहतदेवेति। भक्तेरपि
-ज्ञानविशेषरूपत्वाद्विशेषकत्वमुपपद्यत इत्यभिप्रायेणाहअत्यर्थेति।
-स्वतन्त्रार्थान्तरविधानशङ्कानिरासायाह पुनरपीति।
-भक्तिस्वरूपविशेषनिष्कर्षपरत्वात्तदसाधारणशास्त्रविशेषप्रतिपादितपूजाविशेषपरोऽयं
-यजनशब्द इत्यभिप्रायेणाह -- यजनं नामेति। शेषवृत्तिः कैङ्कर्यम्। इदं
-चपत्रं पुष्पम् \[9।26\] इत्यादिना प्रदर्शितस्य भगवच्छास्त्रप्रपञ्चितस्य
-सङ्ग्रहशासनम्। अतोऽत्र यजिर्दर्शपूर्णमासादिविषय इति न भ्रमितव्यम्। यज
-देवपूजायाम् \[धा.पा.1।1027\] इत्येव च पठ्यते। देवतामुद्दिश्य द्रव्यत्यागो
-यागः इति चाहुः। अग्निहोत्रादिव्यतिरिक्तेष्वपि पञ्चमहायज्ञादिषु
-यजिर्निरूढः। अन्यत्रापिकृष्णो वाक्यैरिज्यते सम्मृशानैः \[म.भा.13।18।6\]
-इत्यादयः प्रयोगाः। अतोऽत्र भगवच्छास्त्रादिप्रपञ्चितविषयोऽयं
-यजिरित्यभिप्रायेणाह -- औपचारिकेति। औपचारिकाः नीराजनादयः सांस्पर्शिकाः
-स्रक्चन्दनादयः आदिशब्देन सान्दृष्टिकदीपादिग्रहणम्। मद्याजी इत्यनेन
-बाह्यक्रियापरेण मन्मनस्त्वं कथं विशेष्यत इत्यत्राह -- यथेति।  
-  
-पुनरपीत्याद्यपि पूर्ववत्। पूर्वोक्तादधिकरूपत्वं दर्शयितुम् --
-अपर्यवस्यन्नित्यन्तमुक्तम्। अत्यर्थशब्देन दास्यस्य स्वरूपप्राप्तता
-विवक्षिता। अतिमात्रशब्देन तस्य निरतिशयभोगरूपत्वं सूचितम्।
-त्रिविधप्रतिसङ्ग्रहाय नमधातुस्वरूपनिरूपणेन प्रह्वीभावशब्दः। प्रेक्षावतः
-प्रवृत्तिर्या प्रह्वीभावात्मिका परा। उत्कृष्टं परमुद्दिश्य तन्नमः
-परिगीयते \[अहिर्बु.सं.52।10\] इति हि नमश्शब्दो विवृतः।
-ज्ञानविशेषकत्वव्यक्त्यर्थंव्यवसायशब्दः। परायणः इत्यत्र
-परशब्दविशेषणसामर्थ्यादवधारणं विवक्षितमित्यभिप्रायेणअहमेवेत्युक्तम्।
-फलितमाह -- मया विनेति। एषैव भक्तेः परमा काष्ठा
-प्राप्तेरव्यवहितपूर्वभाविनीति फलाभिलाषज्ञापनार्थो मत्परायणशब्द
-इत्यभिप्रायः। एवंशब्दानूदितमाकारमाह -- अनवधिकेत्यादिना। आत्मानंयुक्त्वा
-इति पदयोरत्रोचितार्थप्रदर्शनंमनः प्राप्येति। युजिरत्र योगार्थः
-समाध्यर्थो वा। मन्मना भव इत्युक्तार्थपरत्वंएवमात्मानम् इत्यनुवादेन
-प्रतीयत इत्यभिप्रायेणाह -- आत्मशब्दो हीति। मनसोऽत्र निर्देशो
-ध्यानाधिकरणत्वेनेति प्रदर्शयन् श्लोकस्य पिण्डितार्थमाह -- एवं रूपेणेति।
-निरतिशयप्रीतिमतेत्यर्थः। ध्यानादिकं मद्भक्त इति
-विशेषणाद्भोगरूपमित्यभिप्रायेणमामनुभूयेत्युक्तम्।  
-  
-अथ सुखग्रहणाध्यायप्रधानार्थभूतसाङ्गोपाङ्गफलशिरस्कभक्तिस्वरूपं सङ्क्षेपेण
-निष्कृष्य वदन्नुपसंहरति -- तदेवमिति। तत् तस्मादित्यर्थः। तव
-दुःखबहुलसंसारसागरपतितत्वात्; मम च परत्वसौलभ्यादियुक्तस्य
-समस्तदुःखसागरोत्तरणसांयात्रिकत्वात्; उपायस्य
-चात्यन्तसुकरत्वादिगुणयुक्तत्वादित्यर्थः। एवमिति
-पूर्वग्रन्थैरुक्तप्रकारेणेत्यर्थः। लौकिकानीत्यादि
-कुर्वन्नित्यन्तंयत्करोषि इत्यादेरर्थःमन्नियाम्यमित्यादिकंमया ततम्
-\[9।4\] इत्यादेरभिप्रेतकथनम्अत्यर्थप्रियमद्गुणगणमितिसमोऽहम्
-\[9।29\]पत्रं पुष्पम् \[9।26\] इत्यादेरर्थः। गुणानुसन्धानाद्भक्तेः
-पुरुषसाध्यत्वं युज्यत इत्यभिप्रायेणाह -- मद्गुणगणं
-चानुसन्धायाहरहरुक्तलक्षणमिदमुपासनमुपाददान इति। इति मत्वा भजन्ते माम्
-\[10।8\] इत्यादिकमत्रानुसंहितम्। अहरहरित्यादिकंमन्मनाः
-इत्यादेर्विवक्षितम्।
-आप्रयाणत्वसिद्ध्यर्थम्अहरहरित्याद्युक्तम्। उक्तलक्षणमिति --
-अनन्यप्रयोजननमस्कारादिप्रेरकमदेकधारकत्वदशापर्यन्तनिरतिशयप्रीतिरूपमित्यर्थः। इति
-कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य
-वेदान्ताचार्यस्य कृतिषु श्रीमद्गीताभाष्यटीकायां तात्पर्यचन्द्रिकायां
-नवमोऽध्यायः।।9।।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥9.34॥ भजस्व \[9।33\] इत्युक्तभक्तिस्वरूपनिष्कर्षोऽनन्तरं क्रियत इति सङ्गतिं दर्शयति -- भक्तिस्वरूपमाहेति। सामान्येन सर्वासु परविद्यासूपास्यतया तदुपयुक्ततया च प्रमाणशतैः प्रतिपादिताः स्वरूपरूपगुणादयोऽत्रास्मच्छब्देन विवक्षिता इत्यभिप्रायेणाह -- मयीति। तमीश्वराणां परमं महेश्वरं \[श्वे.उ.6।7\] न तस्येशे कश्चन \[तै.ना.1।9\] इत्यादेरर्थमाह -- सर्वेश्वरेश्वर इति। न ह्यसमर्थसेवया किञ्चिल्लभ्यते नच ब्रह्माण्डान्तरादेरनीश्वरा ब्रह्मेशादयोऽपि मोक्षदानशक्ता इति भावः। क्षेत्रज्ञस्येश्वरज्ञानाद्विशुद्धिः परमा मता \[या.स्मृ.3।34\] इति ह्युच्यते। हेयास्पदस्य गुणरहितस्य च भजनीयत्वाभावादितरव्यावृत्त्यर्थं सगुणनिर्गुणश्रुतीनां विषयव्यवस्थयोभयलिङ्गत्वमाह -- निखिलेति। समस्तानिष्टनिवर्तकत्वादनन्तभोग्यमयत्वाच्चायमेवोपास्य इति भावः। अनन्तमङ्गलगुणोपलक्षकतया ध्येयलक्षणजगत्कारणत्वमोक्षप्रदत्वौपयिकं गुणद्वयंसर्वज्ञे सत्यसङ्कल्प इत्युक्तम्। यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः। तस्मादेतद्ब्रह्म नामरूपमन्नं च जायते \[मुं.उ.1।9\] इति; सत्यकामः सत्यसङ्कल्पः \[छां.उ.8।1।5\] इति च अनिष्टनिवृत्त्यादौ चान्याज्ञातं सहकारिसापेक्षत्वं च नास्तीति भावः। यतो वा इमानि भूतानि जायन्ते इत्युपक्रम्य तद्विजिज्ञासस्व \[तै.उ.3।1।1\] कारणं तु ध्येयः \[अ.शिखो.3\] इत्याद्यभिप्रायेण -- निखिलजगदेककारण इत्युक्तम्। निखिलशब्देनाव्यक्तादेर्ब्रह्मरुद्रादेश्च सङ्ग्रहः। व्योमातीतनिर्गुणवादादिनिराकरणं; सामान्यविशेषशब्दयोरैकरस्यं चाभिप्रेत्यपरस्मिन् ब्रह्मणि पुरुषोत्तम इत्युक्तम्। अनेन सर्वात्मकत्वं सर्वविलक्षणत्वं चाविरुद्धमुपदर्शितं भवति। नारायणानुवाकपुरुषसूक्तादिकं च स्मारितम्। एतावता विशिष्टं स्वरूपमुक्तम्।  
+        
+अथ सर्वशाखादिपठितपुरुषसूक्तादिसिद्धं शुभाश्रयप्रकरणप्रपञ्चितं च विग्रहतद्गुणादिकमुच्यते। तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी \[छां.उ.1।6।7\] इत्याद्युक्तपरत्वचिह्नमाह -- पुण्डरीकदलामलायताक्ष इति। स्वच्छेत्यादिना नीलतोयदमध्यस्था \[तै.ना.11।12\] इत्यादिकमनुसंहितम्। स्वच्छत्वं मणिमुकुरसलिलकाचादिवद्व्यवहितप्रकाशप्रतिबिम्बादियोग्यः प्रसादविशेषः। दिवि सूर्यसहस्रस्य \[11।12\] इत्यादि वक्ष्यमाणं तमेव भान्तम् \[मुं.उ.2।2।10\] इत्यादिश्रुतिं चाभिप्रेत्योक्तं -- युगपदित्यादि। श्रुत्यादिप्रसिद्धं बहूनामुदारत्वमौर्जित्यमभिमतफलप्रदत्वं च। यत्र रूपान्तरं न विशिष्टं; तत्र वक्तुर्वसुदेवनन्दनस्य रूपं विवक्षितं तच्च सर्वावतारोपलक्षणम्। चतुर्भुजत्वं भगवतः कृष्णस्य पररूपस्य सांसिद्धिकं द्विभुजत्वं सहस्रभुजत्वादिकं चाहार्यमित्याशयेनोक्तं -- चतुर्बाहाविति। अथवापि चतुर्भुजत्वं -- भुजैश्चतुर्भिः समुपेतमेतद्रूपं विशिष्टं दिवि संस्थितं च। भूमौ गतं पूजयताप्रमेयं सदा हि तस्मिन्निवसामि देवाः इत्यादिकमिह भाव्यम्। दिव्याम्बरयोगमाह -- अत्युज्ज्वलितेति। मूर्धादिपादान्तदिव्यावयवगतसमस्ताभरणवर्गोपलक्षणतया किरीटाद्युक्तिः। ध्येयः सदा इत्युपक्रम्यकेयूरवान् मकरकुण्डलवान् किरीटी \[भ.उ.पु.आ.हृ.155\] इत्यादिकमिह द्रष्टव्यम्। मकरशब्दो मकराकारकुण्डलपरः। तेजःप्राचुर्यं प्रतिकूलैर्दुष्प्रेक्षत्वं चाभिप्रेत्ययुगपदित्यादिकमुक्तम्।  
+        
+लावण्येत्यादिना तु तस्यैवानुकूलभोग्यत्वाकर्षकत्वादिकमभिप्रेतम्। चक्षुरानन्दजनकस्तेजोविशेषो हि लावण्यम्। तत इदमुच्यते -- लोचनैरनुजग्मुस्ते तमादृष्टिपथात्पुनः। मनोभिरनुजग्मुश्च कृष्णं प्रीतिसमन्विताः॥ अतृप्तमनसामेवं तेषां केशवदर्शने। क्षिप्रमन्तर्दधे शौरिश्चक्षुषां प्रियदर्शनः॥ अमृतस्येव नातृप्यन् प्रेक्षमाणा जनार्दनम् \[म.भा.2।2।2628\]नहि तस्मान्मनः कश्चिच्चक्षुषी वा नरोत्तमात्। नरः शक्नोत्यपाक्रष्टुमतिक्रामति राघवे \[वा.रा.2।17।13\] इति। अपारेत्यादिना सौलभ्योपयोगिनोऽमिताः सुन्दरत्वादिमिश्राः समाश्रयणीयत्वेऽत्यन्तापेक्षिताः स्वरूपरूपयोर्गुणा उक्ताः। सर्वलोकशरण्याय \[वा.रा.6।17।17\]सुदुष्टो वाऽप्यदुष्टो वा \[वा.रा.6।18।5\]विभीषणो वा सुग्रीव यदि वा रावणः स्वयम् \[वा.रा.6।18।34\] इत्यादिकमनुसन्धाय कारुण्यादिफलितमाह -- अनालोचितेति। आश्रितसंरक्षणं स्वलाभं मत्वा प्रवर्तत इत्यभिप्रायेणोक्तं -- सर्वस्वामिनीति। कृष्णस्य हि कृते भूतमिदं विश्वं चराचरम् \[म.भा.2।38।23\] इत्युक्तम्। निदिध्यासितव्यः \[बृ.उ.2।4।54।5।6\] ध्यायथ \[मुं.उ.2।2।6\] ध्रुवा स्मृतिः \[छां.उ.7।26।2\] आवृत्तिरसकृदुपदेशात् \[ब्र.सू.4।1।1\] इत्याद्यनुसन्धानेन मनश्शब्दस्यात्र ध्यानाख्यमनोवृत्तिविशेषविषयतामाह -- तैलधारेति। मय्येव मन आधत्स्व \[12।8\] इत्युच्यत इति। अत्रमामेवैष्यसि इति साध्यगतावधारणात्साधनेऽप्यवधारणं विवक्षितमिति गम्यते। तेन चानन्यमनस्त्वादिकं सिद्धम्। ततश्च तैलधारादिवदविच्छेदोऽपि फलित इति भावः।  
+        
+यमेवैष वृणुते तेन लभ्यः \[कठो.1।2।22\] इति श्रुत्युपबृंहणतामभिप्रेत्याहतदेवेति। भक्तेरपि ज्ञानविशेषरूपत्वाद्विशेषकत्वमुपपद्यत इत्यभिप्रायेणाहअत्यर्थेति। स्वतन्त्रार्थान्तरविधानशङ्कानिरासायाह पुनरपीति। भक्तिस्वरूपविशेषनिष्कर्षपरत्वात्तदसाधारणशास्त्रविशेषप्रतिपादितपूजाविशेषपरोऽयं यजनशब्द इत्यभिप्रायेणाह -- यजनं नामेति। शेषवृत्तिः कैङ्कर्यम्। इदं चपत्रं पुष्पम् \[9।26\] इत्यादिना प्रदर्शितस्य भगवच्छास्त्रप्रपञ्चितस्य सङ्ग्रहशासनम्। अतोऽत्र यजिर्दर्शपूर्णमासादिविषय इति न भ्रमितव्यम्। यज देवपूजायाम् \[धा.पा.1।1027\] इत्येव च पठ्यते। देवतामुद्दिश्य द्रव्यत्यागो यागः इति चाहुः। अग्निहोत्रादिव्यतिरिक्तेष्वपि पञ्चमहायज्ञादिषु यजिर्निरूढः। अन्यत्रापिकृष्णो वाक्यैरिज्यते सम्मृशानैः \[म.भा.13।18।6\] इत्यादयः प्रयोगाः। अतोऽत्र भगवच्छास्त्रादिप्रपञ्चितविषयोऽयं यजिरित्यभिप्रायेणाह -- औपचारिकेति। औपचारिकाः नीराजनादयः सांस्पर्शिकाः स्रक्चन्दनादयः आदिशब्देन सान्दृष्टिकदीपादिग्रहणम्। मद्याजी इत्यनेन बाह्यक्रियापरेण मन्मनस्त्वं कथं विशेष्यत इत्यत्राह -- यथेति।  
+        
+पुनरपीत्याद्यपि पूर्ववत्। पूर्वोक्तादधिकरूपत्वं दर्शयितुम् -- अपर्यवस्यन्नित्यन्तमुक्तम्। अत्यर्थशब्देन दास्यस्य स्वरूपप्राप्तता विवक्षिता। अतिमात्रशब्देन तस्य निरतिशयभोगरूपत्वं सूचितम्। त्रिविधप्रतिसङ्ग्रहाय नमधातुस्वरूपनिरूपणेन प्रह्वीभावशब्दः। प्रेक्षावतः प्रवृत्तिर्या प्रह्वीभावात्मिका परा। उत्कृष्टं परमुद्दिश्य तन्नमः परिगीयते \[अहिर्बु.सं.52।10\] इति हि नमश्शब्दो विवृतः। ज्ञानविशेषकत्वव्यक्त्यर्थंव्यवसायशब्दः। परायणः इत्यत्र परशब्दविशेषणसामर्थ्यादवधारणं विवक्षितमित्यभिप्रायेणअहमेवेत्युक्तम्। फलितमाह -- मया विनेति। एषैव भक्तेः परमा काष्ठा प्राप्तेरव्यवहितपूर्वभाविनीति फलाभिलाषज्ञापनार्थो मत्परायणशब्द इत्यभिप्रायः। एवंशब्दानूदितमाकारमाह -- अनवधिकेत्यादिना। आत्मानंयुक्त्वा इति पदयोरत्रोचितार्थप्रदर्शनम्मनः प्राप्येति। युजिरत्र योगार्थः समाध्यर्थो वा। मन्मना भव इत्युक्तार्थपरत्वम्एवमात्मानम् इत्यनुवादेन प्रतीयत इत्यभिप्रायेणाह -- आत्मशब्दो हीति। मनसोऽत्र निर्देशो ध्यानाधिकरणत्वेनेति प्रदर्शयन् श्लोकस्य पिण्डितार्थमाह -- एवं रूपेणेति। निरतिशयप्रीतिमतेत्यर्थः। ध्यानादिकं मद्भक्त इति विशेषणाद्भोगरूपमित्यभिप्रायेणमामनुभूयेत्युक्तम्।  
+        
+अथ सुखग्रहणाध्यायप्रधानार्थभूतसाङ्गोपाङ्गफलशिरस्कभक्तिस्वरूपं सङ्क्षेपेण निष्कृष्य वदन्नुपसंहरति -- तदेवमिति। तत् तस्मादित्यर्थः। तव दुःखबहुलसंसारसागरपतितत्वात्; मम च परत्वसौलभ्यादियुक्तस्य समस्तदुःखसागरोत्तरणसांयात्रिकत्वात्; उपायस्य चात्यन्तसुकरत्वादिगुणयुक्तत्वादित्यर्थः। एवमिति पूर्वग्रन्थैरुक्तप्रकारेणेत्यर्थः। लौकिकानीत्यादि कुर्वन्नित्यन्तंयत्करोषि इत्यादेरर्थःमन्नियाम्यमित्यादिकम्मया ततम् \[9।4\] इत्यादेरभिप्रेतकथनम्अत्यर्थप्रियमद्गुणगणमितिसमोऽहम् \[9।29\]पत्रं पुष्पम् \[9।26\] इत्यादेरर्थः। गुणानुसन्धानाद्भक्तेः पुरुषसाध्यत्वं युज्यत इत्यभिप्रायेणाह -- मद्गुणगणं चानुसन्धायाहरहरुक्तलक्षणमिदमुपासनमुपाददान इति। इति मत्वा भजन्ते माम् \[10।8\] इत्यादिकमत्रानुसंहितम्। अहरहरित्यादिकम्मन्मनाः इत्यादेर्विवक्षितम्। आप्रयाणत्वसिद्ध्यर्थम्अहरहरित्याद्युक्तम्। उक्तलक्षणमिति -- अनन्यप्रयोजननमस्कारादिप्रेरकमदेकधारकत्वदशापर्यन्तनिरतिशयप्रीतिरूपमित्यर्थः। इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्गीताभाष्यटीकायां तात्पर्यचन्द्रिकायां नवमोऽध्यायः॥9॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.34 Focus your mind on Me; fix your mind on Me uninterruptedly like a continous stream of oil - on Me the Ruler of rulers, antagonistic to all that is evil, the sole abode of auspiciousness, omniscient, whose resolve is always true, the sole cause of the entire universe, the Supreme Brahman, the Supreme Person; on Me, of long large eyes like a lotus petal; who has the complexion of a clear blue cloud; whose shining lustre is like that of a thousand suns simultaneously risen; on Me, the great ocean of the nectar of beauty; of four arms, noble and strong, and of brilliant yellow raiment; on Me, adorned with a pure crown,
-fish-shaped ear-rings, garlands, bracelet on the arms and bangles at the wrist; on Me, the ocean of infinite mercy, affability, beauty,
-sweetness, majesty, magnanimity and parental affection; on Me, the refuge of all without exception and without regard to their differences;
-on Me the Lord of all. Sri Krsna again makes the same clear. Be My devotee. Be one whose mind is focussed on Me by contemplating on Me as exceedingly dear. Such is the meaning. He makes thie yet clearer. Be My worshipper, namely, become engaged in My worship, which you have begun to practise by your experience of Me as supremely dear and unlimited and unsurpassed. What is called worship is the conduct of one who realises that he is absolutely a subsidiary - (Sesa) of God. Worship consists also in offering all things of enjoyment such as waving of lights etc.,
-all those things which come into bodily contact like garlands, sandal paste etc., and those meant for offering like food preparations and other edibles. The meaning is this: Let your mind be focussed on Me so as to be engaged in My worship, resulting from love which is unlimited and unsurpassed and which is born from the experience of Myself. Again Sri Krsna expounds the same: Bow down to Me. Do not be satisfied only with services of one who is absolutely subsidiary to me. Do services which are incomparably dear and animated by an experience of Myself who is dear and unlimited and unsurpassed. Also bow down to Me in utter humility, regarding Me as the supreme goal, i.e., He who is the supreme abode and the supreme goal. The meaning is that having resorted to Me,
-it is impossible for you to live without Me. Having disciplined the mind in this way and considering Me as the supreme goal, you will thus,
-through love which is unsurpassed and incomparable, obtain a mind which is fit for experiencing Me. You will then reach Me alone. Here the term Atman stands for the mind. The import is that, holding Me as the sole support, possesing a mind of this kind, meditating on Me, experiencing Me, worshipping Me and bowing down to Me - you will reach Me alone.
-Thus, with such a turn of mind you carry on, for pleasing Me alone, your secular works for bodily sustenance and Vedic activities like obligatory and occasional rites, regarding them as actuated by Me and finding sole joy in absolute subservience to Me. You shall ever engage yourself in praising My names with love and in endeavouring to serve Me and bowing down to Me etc. You shall contemplate on the entire universe as being under My rule and being subsidiary (Sesa) to Me. Contemplating on the multitudes of My attributes, which are exceedingly dear to you, and practising every day this worship as described, you will reach Me alone.
+<details><summary>आदिदेवानन्दः</summary>
 
+9.34 Focus your mind on Me; fix your mind on Me uninterruptedly like a continous stream of oil - on Me the Ruler of rulers, antagonistic to all that is evil, the sole abode of auspiciousness, omniscient, whose resolve is always true, the sole cause of the entire universe, the Supreme Brahman, the Supreme Person; on Me, of long large eyes like a lotus petal; who has the complexion of a clear blue cloud; whose shining lustre is like that of a thousand suns simultaneously risen; on Me, the great ocean of the nectar of beauty; of four arms, noble and strong, and of brilliant yellow raiment; on Me, adorned with a pure crown, fish-shaped ear-rings, garlands, bracelet on the arms and bangles at the wrist; on Me, the ocean of infinite mercy, affability, beauty, sweetness, majesty, magnanimity and parental affection; on Me, the refuge of all without exception and without regard to their differences; on Me the Lord of all. Sri Krsna again makes the same clear. Be My devotee. Be one whose mind is focussed on Me by contemplating on Me as exceedingly dear. Such is the meaning. He makes thie yet clearer. Be My worshipper, namely, become engaged in My worship, which you have begun to practise by your experience of Me as supremely dear and unlimited and unsurpassed. What is called worship is the conduct of one who realises that he is absolutely a subsidiary - (Sesa) of God. Worship consists also in offering all things of enjoyment such as waving of lights etc., all those things which come into bodily contact like garlands, sandal paste etc., and those meant for offering like food preparations and other edibles. The meaning is this: Let your mind be focussed on Me so as to be engaged in My worship, resulting from love which is unlimited and unsurpassed and which is born from the experience of Myself. Again Sri Krsna expounds the same: Bow down to Me. Do not be satisfied only with services of one who is absolutely subsidiary to me. Do services which are incomparably dear and animated by an experience of Myself who is dear and unlimited and unsurpassed. Also bow down to Me in utter humility, regarding Me as the supreme goal, i.e., He who is the supreme abode and the supreme goal. The meaning is that having resorted to Me, it is impossible for you to live without Me. Having disciplined the mind in this way and considering Me as the supreme goal, you will thus, through love which is unsurpassed and incomparable, obtain a mind which is fit for experiencing Me. You will then reach Me alone. Here the term Atman stands for the mind. The import is that, holding Me as the sole support, possesing a mind of this kind, meditating on Me, experiencing Me, worshipping Me and bowing down to Me - you will reach Me alone. Thus, with such a turn of mind you carry on, for pleasing Me alone, your secular works for bodily sustenance and Vedic activities like obligatory and occasional rites, regarding them as actuated by Me and finding sole joy in absolute subservience to Me. You shall ever engage yourself in praising My names with love and in endeavouring to serve Me and bowing down to Me etc. You shall contemplate on the entire universe as being under My rule and being subsidiary (Sesa) to Me. Contemplating on the multitudes of My attributes, which are exceedingly dear to you, and practising every day this worship as described, you will reach Me alone.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।9.32 -- 9.34।। मां हि इत्यादि मत्परायण इत्यन्तम्। पापयोनयः
-पशुपक्षिसरीसृपादयः। स्त्रिय इति अज्ञाः। वैश्या इति
-कृष्यादिकर्मान्तररताः। शूद्रा इति कार्त्स्येन वैदिकक्रियानधिकृताः
-परतन्त्रवृत्तयश्च। तेऽपि मदाश्रिता मामेव यजन्ते। गजेन्द्रमोक्षणादीनि
-चरितानि हि परमकारुणिकस्य भगवतः सहस्रशः श्रूयन्ते। किमङ्ग
-पुनरेतद्विपरीतवृत्तयः। केचिदाक्षते -- द्विजराजन्यप्रशंसापरमेतद्वाक्यम्; न
-तु स्त्र्यादिषु अपवर्गप्राप्तितात्पर्येण इति। ते हि भगवतः
-सर्वानुग्राहिकां शक्तिं मितविषयतया खण्डयन्तः तथा परमेश्वरस्य
-परमकृपालुत्वमसहमानाः +++(S omits तथा -- मसहमानाः)+++ न मे द्वेष्योऽस्ति न
-प्रियः ; अपि चेत्सुदुराचारः इत्यादीन्यन्यानि
-चैवंप्रकारस्फुटार्थप्रतिपादकानि वाक्यानि विरोधयन्तः
-निरतिशययुक्तिप्रपञ्चसाधिताद्वैतभगवत्तत्त्वे +++(S;;N भगवत्तत्त्वम्)+++
-भेदलिङ्गं +++(S; भेदभङ्गम् N भेदभङ्ग -- )+++ बलादेवानयन्तः अन्यांश्च
-आगमविरोधानचेतयमानाः कथमिदं कथमिदम् इति पर्यनुयोज्यमाना +++(;N
-पर्यनुयुज्यमानः)+++ यदि; परम् अन्तर्गर्भीकृतजात्यादिमहाग्रहाविष्टान्तः +++(; N
--- ग्रहगृहीताविष्टान्तः -- )+++ करणाः
-मात्सर्यावहित्थालज्जाचिह्नीकृतवाङ्मुखदृष्टयः समग्रस्य जनस्य
-असत्प्रलापिनः इति हास्यरसविषयभावमात्मनि +++(S omits -- विषय -- )+++ आरोपयन्ति।
-यत्पूर्वैव व्याख्या सर्वस्य करोति शिवम् इति।
+॥9.34॥ --,मयि वासुदेवे मनः यस्य स त्वं **मन्मनाः भव** तथा **मद्भक्तः** भव **मद्याजी** मद्यजनशीलः भव।  
+**माम्** एव च **नमस्कुरु।**  
+**माम् एव** ईश्वरम् **एष्यसि** आगमिष्यसि **युक्त्वा** समाधाय चित्तम्।  
+**एवम् आत्मानम्;** अहं हि सर्वेषां भूतानाम् आत्मा; परा च गतिः; परम् अयनम्;  
+तं माम् एवंभूतम्; एष्यसि इति अतीतेन संबन्धः;  
+**मत्परायणः** सन् इत्यर्थः॥ 
 
+इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोवन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये नवमोऽध्यायः॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.32-34 Man hi etc; upto Matparayanah. Those who are of sinful birth :
-I.e., the animals, birds, reptiles etc. Women denotes the ignorant. Men
-of working class denotes those who find pleasure in different vocations,
-like agriculture etc. Men of the fourth caste : those who do not have
-any claim whatsoever for \[performing\] the Vedic rituals and whose
-livelihood depend on others. By taking refuge \[solely\] in Me, even
-these all attain Me alone. The deeds of the exceedingly compassionate
-Bhagavat, like the one granting liberation to a chief of the elephants
-are heard in thousands \[in the Puranas\]. Certainly it must be so, for
-those whose behaviour is just the opposite to that of these persons.
-Some (commentators\] declare : The present sentence \[of the Lord\]
-intends to glorify the twice-born and members of the ruling class, and
-it is not uttered with the intention of speaking of the attainment of
-liberation in the case of the women etc. Indeed these persons \[aim to\]
-break into pieces the Graceous-to-all Power of the Bhagavat by
-foistering upon It, a limited applicability; likwise they do not
-tolerate the profoundly compassionate nature of the Absolute Lord; they
-contradict the \[Lord's own\] statements 'To Me none is hateful and none
-is dear (IX, 30)', 'Even a highly evil-doer etc. (IX, 31)', and other
-similar statements, very clearly of the same import; with all effort
-they \[strive to\] bring in something indicative of duality even in the
-Absolute-being, Whose non-dual nature has been well established firmly
-by the diversity of the best reasonings; they are not mindful of other
-contradictions \[that lurk in their theory\] with the revealed
-literature; when simply estioned 'How is this ;' and 'How is that ;',
-these persons, having their internal organ totally possessed by the
-mighty devil of the caste \[considerations\], concealed within, and
-having their tongue, face and eyes all twisted by their sense of
-jealously, hypocrisy and shame-they prattle evil for the entire
-humanity; and thus they put upon themselves the status of being an
-object of ridicule. Therefore the above explanation \[of ours\] does
-good to all.
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।9.34।। Sri Madhvacharya did not comment on this sloka.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।9.34।। Sri Jayatirtha did not comment on this sloka.
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।9.34।। --,मयि वासुदेवे मनः यस्य स त्वं **मन्मनाः भव** तथा **मद्भक्तः**
-भव **मद्याजी** मद्यजनशीलः भव। **माम्** एव च **नमस्कुरु।** **माम् एव**
-ईश्वरम् **एष्यसि** आगमिष्यसि **युक्त्वा** समाधाय चित्तम्। **एवम्
-आत्मानम्;** अहं हि सर्वेषां भूतानाम् आत्मा; परा च गतिः; परम् अयनम्; तं
-माम् एवंभूतम्; एष्यसि इति अतीतेन संबन्धः; **मत्परायणः** सन्
-इत्यर्थः।। इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य
-श्रीगोवन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ
-श्रीमद्भगवद्गीताभाष्ये  
-  
-नवमोऽध्यायः।।  
-  
-,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।9.34।। किस प्रकार ( भजनसेवा करें सो कहा जाता है -- )  
-  
-तू मन्मना -- मुझमें ही मनवाला हो। मद्भक्त -- मेरा ही भक्त हो। मद्याजी --
-मेरा ही पूजन करनेवाला हो और मुझे ही नमस्कार किया कर। इस प्रकार चित्तको
-मुझमें लगाकर मेरे परायण -- शरण हुआ तू मुझ,परमेश्वरको ही प्राप्त हो
-जायगा। अभिप्राय यह कि मैं ही सब भूतोंका आत्मा और परमगति -- परम स्थान
-हूँ; ऐसा जो मैं आत्मरूप हूँ उसीको तू प्राप्त हो जायगा। इस प्रकार पहलेके
-माम् शब्दसे आत्मानम् शब्दका सम्बन्ध है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 9.34 Manmana bhava, have your mind fixed on Me; \[Here Ast. adds the
 word vasudeva.-Tr\] and also be madbhakah, devoted to Me. Madyaji,
@@ -325,13 +82,23 @@ atmanam, who am thus the Self: I indeed am the Self of all the beings,
 and am also the supreme Goal. You shall attain Me who am such. In this
 way, the word atmanam (Self) is to be connected with the preceding word
 mam (Me). This is the purport.
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।9.34।। भगवद्भक्तेरित्थंभावं पृच्छति -- **कथमिति।** ईश्वरभजन
+<details><summary>हरिकृष्णदासः</summary>
+
+॥9.34॥ किस प्रकार ( भजनसेवा करें सो कहा जाता है -- )  
+  
+तू मन्मना -- मुझमें ही मनवाला हो। मद्भक्त -- मेरा ही भक्त हो। मद्याजी --
+मेरा ही पूजन करनेवाला हो और मुझे ही नमस्कार किया कर। इस प्रकार चित्तको
+मुझमें लगाकर मेरे परायण -- शरण हुआ तू मुझ,परमेश्वरको ही प्राप्त हो
+जायगा। अभिप्राय यह कि मैं ही सब भूतोंका आत्मा और परमगति -- परम स्थान
+हूँ; ऐसा जो मैं आत्मरूप हूँ उसीको तू प्राप्त हो जायगा। इस प्रकार पहलेके
+माम् शब्दसे आत्मानम् शब्दका सम्बन्ध है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥9.34॥ भगवद्भक्तेरित्थंभावं पृच्छति -- **कथमिति।** ईश्वरभजन
 इतिकर्तव्यतां दर्शयति -- **मन्मना इति।** एवं भगवन्तं भजमानस्य मम किं
 स्यादित्याशङ्क्याह -- **मामेवेति।** समाधाय भगवत्येवेति शेषः।
 एवमात्मानमित्येतद्विवृणोति -- **अहंहीति।** अहमेव परमयनं तवेति
@@ -340,31 +107,12 @@ mam (Me). This is the purport.
 प्रत्युक्तेन ज्ञानं परमेश्वरस्य परमाराधनमित्यभिदधता सोपाधिकं तत्पदवाच्यं
 निरुपाधिकं च तत्पदलक्ष्यं व्याख्यातम्। इति
 श्रीमत्परमहंसपरिव्राजकाचार्यश्रीमच्छुद्धानन्दपूज्यपादशिष्यानन्दगिरिकृतौ
-नवमोऽध्यायः।।9।।  
-  
-
+नवमोऽध्यायः॥9॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।9.34।। भजनप्रकारं दर्शयन्नुपसंहरति -- राजभक्तस्यापि राजभृत्यस्य
-पुत्रादौ मनस्तथा स तन्मना अपि न तद्भक्त इत्यत उक्तं मन्मना भव मद्भक्त
-इति। तथा मद्याजी मत्पूजनशीलो मां नमस्कुरु मनोवाक्कायैः। एवमेभिः
-प्रकारैर्मत्परायणो भदेकशरणः सन्नात्मानमन्तःकरणं युक्त्वा मयि समाधाय
-मामेव परमानन्दघनं स्वप्रकाशं सर्वोपद्रवशून्यमभयमेष्यसि
-प्राप्स्यसि। श्रीगोविन्दपदारविन्दमकरन्दास्वादशुद्धाशयाः
-संसाराम्बुधिमुत्तरन्ति सहसा पश्यन्ति पूर्णं महः।  
-  
-वेदान्तैरवधारयन्ति परमं श्रेयस्त्यजन्ति भ्रमं द्वैतं स्वप्नसमं विदन्ति
-विमलां विन्दन्ति चानन्दताम्।।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।9.34।। भजनप्रकारं दर्शयति -- **मन्मना इति।** मय्येव मनो यस्य न पुत्रादौ
+॥9.34॥ भजनप्रकारं दर्शयति -- **मन्मना इति।** मय्येव मनो यस्य न पुत्रादौ
 स मन्मनाः। ममैव भक्तो न राजादेर्धनाद्यर्थं स मद्भक्तः। मद्याजी मदर्थमेव
 यजते न स्वर्गाद्यर्थं स मद्याजी तादृशो भव। मामेव नमस्कुरु शरणं व्रज
 नत्वन्यान्। एवमनेन प्रकारेण युक्त्वा योगं कृत्वा मामेवात्मानं सर्वान्तरं
@@ -372,13 +120,11 @@ mam (Me). This is the purport.
 सर्वोपाधिशून्यश्चिदात्मा परं सर्वोत्कृष्टमयनं प्राप्यं यस्य स मत्परायणः।
 तथा च श्रूयतेयथा नद्यः स्यन्दमानाः समुद्रेऽस्तं गच्छन्ति नामरूपे विहाय।
 तथा विद्वान्नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् इति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।9.34।। भजनप्रकारमाह -- मन्मना भव मयि परमेश्वरे एव मनो यस्य न स्त्र्यादौ
+<details><summary>धनपतिः</summary>
+
+॥9.34॥ भजनप्रकारमाह -- मन्मना भव मयि परमेश्वरे एव मनो यस्य न स्त्र्यादौ
 स तथा भव। मम भक्तो नतु भूतादेः। तथा मद्यजनशीलो भव नत्विन्द्रादेः। मामेव
 च नमस्कुरु नतु मद्य्वतिरिक्तबुद्य्धान्यान्। तथा चैवमात्मामन्तःकरणं
 समाधाय मद्भजनप्रकारेण मत्परायणः सन्मामेवैष्यसि प्राप्स्यसीत्यर्थः।
@@ -388,18 +134,60 @@ mam (Me). This is the purport.
 भगवद्भजनमत्युत्तमफलदमतिसुलभं पापजन्मनामप्युद्धारकमत एवावश्यकमिति
 दर्शितम्। इति
 श्रीपरमहंसपरिव्राजकाचार्यश्रीबालस्वामिश्रीपादशिष्टदत्तवंशावतंसरामकुमारसूनुधनपतिविदुषा
-विरचिताया श्रीगीताभाष्योत्कर्षदीपिकायां नवमोऽध्यायः।।9।।
-
+विरचिताया श्रीगीताभाष्योत्कर्षदीपिकायां नवमोऽध्यायः॥9॥
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥9.34॥ भजनप्रकारं दर्शयन्नुपसंहरति -- राजभक्तस्यापि राजभृत्यस्य
+पुत्रादौ मनस्तथा स तन्मना अपि न तद्भक्त इत्यत उक्तं मन्मना भव मद्भक्त
+इति। तथा मद्याजी मत्पूजनशीलो मां नमस्कुरु मनोवाक्कायैः। एवमेभिः
+प्रकारैर्मत्परायणो भदेकशरणः सन्नात्मानमन्तःकरणं युक्त्वा मयि समाधाय
+मामेव परमानन्दघनं स्वप्रकाशं सर्वोपद्रवशून्यमभयमेष्यसि
+प्राप्स्यसि। श्रीगोविन्दपदारविन्दमकरन्दास्वादशुद्धाशयाः
+संसाराम्बुधिमुत्तरन्ति सहसा पश्यन्ति पूर्णं महः।  
+  
+वेदान्तैरवधारयन्ति परमं श्रेयस्त्यजन्ति भ्रमं द्वैतं स्वप्नसमं विदन्ति
+विमलां विन्दन्ति चानन्दताम्॥
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।9.34।। इदं मुख्यं भजनस्वरूपमाह -- मन्मना इति। मय्येव श्रीपुरुषोत्तमे
+॥9.34॥ Sri Madhvacharya did not comment on this sloka.
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥9.34॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+
+<details><summary>मूलम्</summary>
+
+॥9.32 -- 9.34॥ मां हि इत्यादि मत्परायण इत्यन्तम्। पापयोनयः पशुपक्षिसरीसृपादयः। स्त्रिय इति अज्ञाः। वैश्या इति कृष्यादिकर्मान्तररताः। शूद्रा इति कार्त्स्येन वैदिकक्रियानधिकृताः परतन्त्रवृत्तयश्च। तेऽपि मदाश्रिता मामेव यजन्ते। गजेन्द्रमोक्षणादीनि चरितानि हि परमकारुणिकस्य भगवतः सहस्रशः श्रूयन्ते। किमङ्ग पुनरेतद्विपरीतवृत्तयः। केचिदाक्षते -- द्विजराजन्यप्रशंसापरमेतद्वाक्यम्; न तु स्त्र्यादिषु अपवर्गप्राप्तितात्पर्येण इति। ते हि भगवतः सर्वानुग्राहिकां शक्तिं मितविषयतया खण्डयन्तः तथा परमेश्वरस्य परमकृपालुत्वमसहमानाः +++(S omits तथा -- मसहमानाः)+++ न मे द्वेष्योऽस्ति न प्रियः ; अपि चेत्सुदुराचारः इत्यादीन्यन्यानि चैवंप्रकारस्फुटार्थप्रतिपादकानि वाक्यानि विरोधयन्तः निरतिशययुक्तिप्रपञ्चसाधिताद्वैतभगवत्तत्त्वे +++(S;;N भगवत्तत्त्वम्)+++ भेदलिङ्गं +++(S; भेदभङ्गम् N भेदभङ्ग -- )+++ बलादेवानयन्तः अन्यांश्च आगमविरोधानचेतयमानाः कथमिदं कथमिदम् इति पर्यनुयोज्यमाना +++(;N पर्यनुयुज्यमानः)+++ यदि; परम् अन्तर्गर्भीकृतजात्यादिमहाग्रहाविष्टान्तः +++(; N
+-- ग्रहगृहीताविष्टान्तः -- )+++ करणाः
+मात्सर्यावहित्थालज्जाचिह्नीकृतवाङ्मुखदृष्टयः समग्रस्य जनस्य असत्प्रलापिनः इति हास्यरसविषयभावमात्मनि +++(S omits -- विषय -- )+++ आरोपयन्ति। यत्पूर्वैव व्याख्या सर्वस्य करोति शिवम् इति।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+See Comment under 9.32
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+
+<details><summary>मूलम्</summary>
+
+॥9.34॥ इदं मुख्यं भजनस्वरूपमाह -- मन्मना इति। मय्येव श्रीपुरुषोत्तमे
 नीलव्योममूर्त्तिमति सर्वज्ञे सर्वशक्तिमति परमानन्दमात्रकरपादमुखोदरादिके
 निखिलालौकिकगुणगणेऽचिन्त्ये सर्ववेदान्तवेद्ये स्वेच्छया
 स्वगताशेषसौन्दर्यमाविर्भाव्य भुवि प्रादुर्भूते कृशतरजनपोषके
@@ -421,105 +209,83 @@ _________________
 इत्यादि च। अयमेतन्मार्गीयः परः पुरुषार्थः सूचितः। तत्र च
 पुनरप्येवमात्मानं युक्त्वा योगेन समाधाय मत्परायण एव भविष्यसीति
 मार्गान्तराद्वैलक्षण्यमुक्तम्। ,फलभूतत्वादेतन्मार्गस्य
-मर्यादापुष्टिपुरुषोत्तमसम्बन्धित्वाच्चेति दिक्।  
-  
-
+मर्यादापुष्टिपुरुषोत्तमसम्बन्धित्वाच्चेति दिक्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।9.34।। भजने प्रकारमाह -- मन्मना इति। मय्येव मनो यस्य तादृशो भूत्वा
+<details><summary>पुरुषोत्तमः</summary>
+
+॥9.34॥ भजने प्रकारमाह -- मन्मना इति। मय्येव मनो यस्य तादृशो भूत्वा
 मद्भक्तो मयि स्नेहयुक्तश्च सन् मद्याजी मत्पूजकः परिचर्याकरणशीलो मां
 नमस्कुरु। मनोनिवेशनेन मनोभजनमुक्तम्। पूजनेन कायिकम्। नमनोक्त्या वाचिकम्।
 ततः कायवाङ्मनोभिर्भजनं कुर्वित्युक्तम्। एवं मत्परायणः सन् आत्मानं मयि
 युक्त्वा युक्तं कृत्वा अवश्यं मामेव पुरुषोत्तमं एष्यसि प्राप्स्यसि।
 एवकारेणाक्षरांशादिप्राप्तिर्निवारिता। एवं स्वभक्तिमाहात्म्यं भजनार्थं
-ससाधनम्। प्रोवाच नवमेऽध्याये श्रीकृष्णो ह्यर्जुनाय तु।।9।।
-
+ससाधनम्। प्रोवाच नवमेऽध्याये श्रीकृष्णो ह्यर्जुनाय तु॥9॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।9.34।। भजनप्रकारं दर्शयन्नुपसंहरति **-- मन्मना इति।** मय्येव मनो यस्य
+॥9.34॥ भजनप्रकारं दर्शयन्नुपसंहरति **-- मन्मना इति।** मय्येव मनो यस्य
 स मन्मनास्त्वं भव। तथैव ममैव भक्तः मत्सेवको भव। मद्याजी मद्यजनशीलो भव।
 मामेव च नमस्कुरु। एवमेभिः प्रकारैर्मत्परायणः सन्नात्मानं मनो मयि
 युक्त्वा समाधाय मामेव परमानन्दरूपमेष्यसि प्राप्स्यसि।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।9.34।। यह श्लोक सम्पूर्ण अध्याय का सुन्दर सारांश है; क्योंकि इस अध्याय
-के कई अन्य श्लोकों पर यह काफी प्रकाश डालता है। हम कह सकते हैं कि यह
-श्लोक अनेक श्लोकों की व्याख्या का कार्य करता है। वेदान्त के प्रकरण
-ग्रन्थों में आत्मविकास एवं आत्मसाक्षात्कार के लिए सम्यक् ज्ञान और ध्यान
-का उपदेश दिया गया है। ध्यान के स्वरूप की परिभाषा इस प्रकार दी गई है कि;
-उस (सत्य) का ही चिन्तन; उसके विषय में ही कथन; परस्पर उसकी चर्चा करके मन
-का तत्पर या तत्स्वरूप बन जाने को ही; ज्ञानी पुरुष ब्रह्माभ्यास समझते
-हैं। ब्रह्माभ्यास की यह परिभाषा ध्यान में रखकर ही महर्षि व्यास इस श्लोक
-में दृढ़तापूर्वक अपने सुन्दर भक्तिमार्ग का चित्रण करते हैं। यही विचार
-इसी अध्याय में एक से अधिक अवसरों पर व्यक्त किया गया है। सब काल में किसी
-भी कार्य में व्यस्त रहते हुए भी मन को मुझमें स्थिर करके; मेरा भक्त मेरा
-पूजन करता है और मुझे नमस्कार करता है। संक्षेपत; जीवन में आध्यात्मिक
-सुधार के लिए मन का विकास एक मूलभूत आवश्यकता है। यदि वास्तव में हम
-आध्यात्मिक विकास करना चाहें तो बाह्य दशा या परिस्थिति; हमारी आदतें;
-हमारा भूतकालीन या वर्तमान जीवन कोई भी बाधक नहीं हो सकता है। प्रयत्नपूर्वक
-ईश्वर स्मरण या आत्मचिन्तन ही सफलता का रहस्य है। इस प्रकार जब तुम मुझे
-परम लक्ष्य समझोगे तब तुम मुझे प्राप्त होओगे; यह श्रीकृष्ण का अर्जुन को
-आश्वासन है। वर्तमान में हम जो कुछ हैं; वह हमारे संस्कारों के कारण है।
-शुभ और दैवी संस्कारों के होने पर हम उन्हीं के अनुरूप बन जाते
-हैं। conclusion तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां
-योगशास्त्रे  
-  
-श्रीकृष्णार्जुनसंवादे राजविद्याराजगुह्ययोगो नाम नवमोऽध्याय।। इस प्रकार
-श्रीकृष्णार्जुनसंवाद के रूप में ब्रह्मविद्या और योगशास्त्रस्वरूप
-श्रीमद्भगवद्गीतोपनिषद् का राजविद्याराजगुह्ययोग नामक नवां अध्याय समाप्त
-होता है। इस अध्याय के लिए दिया गया यह नाम उपयुक्त है। राजविद्या और
-राजगुह्य इन दो शब्दों का विस्तृत विवेचन किया जा चुका है। अध्याय के
-प्रारम्भ में हमने देखा कि शुद्ध चैतन्य ही वह ज्ञान है; जिसके प्रकाश में
-सभी औपाधिक या वृत्तिज्ञान सम्भव है। अत उस पारमार्थिक तत्त्व का बोध कराने
-वाली इस विद्या को राजविद्या कहना अत्यन्त समीचीन है। उपनिषदों में इसे
-सर्वविद्या प्रतिष्ठा कहा गया है; क्योंकि इसे जानकर और कोई जानने योग्य
-शेष नहीं रह जाता है यही मुण्डकोपनिषद् की भी घोषणा है।
-
+9.34 Focus your mind on Me, be My devotee, be my worshipper. Bow down to Me. Engaging your mind in this manner and regarding Me as the supreme goal, you will come to Me.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।9.34।। (तुम) मुझमें स्थिर मन वाले बनो; मेरे भक्त और मेरे पूजन करने
-वाले बनो; मुझे नमस्कार करो; इस प्रकार मत्परायण (अर्थात् मैं ही जिसका परम
-लक्ष्य हूँ ऐसे) होकर आत्मा को मुझसे युक्त करके तुम मुझे ही प्राप्त
-होओगे।।
+<details><summary>गम्भीरानन्दः</summary>
 
+9.34 Having your mind fixed on Me, be devoted to Me, sacrifice to Me,
+and bow down to Me. By concentrating your mind and accepting Me as the supreme Goal, you shall surely attain Me who am thus the Self.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+9.34 Fix thy mind on Me, devote thyself to Me, sacrifice for Me,
+surrender to Me, make Me the object of thy aspirations, and thou shalt assuredly become one with Me, Who am thine own Self."
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+9.34. Have your mind fixed on Me; be My devotee; offer scrifice to Me;
+\[and\] pay homage to Me; thus fixing your self (internal organ) and having Me as your supreme goal, you shall certainly attain Me.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+9.34 Fix thy mind on Me; by devoted to Me; sacrifice unto Me; bow down to Me; having thus united thy whole self to Me, taking Me as the supreme goal, thou shalt come unto Me.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+9.34 मन्मनाः with mind filled with Me; भव be thou; मद्भक्तः My devotee;
+मद्याजी sacrificing unto Me; माम्,unto Me; नमस्कुरु bow down; माम् to Me; एव alone; एष्यसि thou shalt come; युक्त्वा having united; एवम् thus;
+आत्मानम् the self; मत्परायणः taking Me as the Supreme Goal.Commentary Fill thy mind with Me. Fix your head; heart and hands on Me. Get your heart in tune with Me. Become a true worshipper. You will secure eternal bliss. Having known Me; you will cross beyond death.The whole being of man should be surrendered to the Lord without reservation. Then the whole life will undergo a wonderful transformation. You will have the vision of God everywhere. All sorrows and pains will vanish. Your mind will be one with the divine consciousness.Just as the potether becomes one with the universal ether when the limiting adjunct (pot) is broken;
+just as the Ganga and the Yamuna; leaving their names and forms become one with the ocean; so also the sage gets rid of Avidya and all sorts of limiting adjuncts through the direct realisation of the Self and becomes identical with Para Brahman.Yukta means steadied in thought; having thus fixed the mind on the Lord; knowing that I am the Self of all beings and the highest goal. (Cf.V.17VII.7;14XVIII.65)(This chapter is known by the name Adhyatma Yoga also.)Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the ninth discourse entitledThe Yoga of the Kingly Science and the Kingly Secret.,
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.34।। तू मेरा भक्त हो जा, मेरेमें मनवाला हो जा, मेरा पूजन करनेवाला हो
 जा और मेरेको नमस्कार कर। इस प्रकार मेरे साथ अपने-आपको लगाकर, मेरे परायण
 हुआ तू मेरेको ही प्राप्त होगा।  
   
 ,
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।9.34।।***व्याख्या --***\[अपने हृदयकी बात वहीं कही जाती है, जहाँ
 सुननेवालेमें कहनेवालेके प्रति दोषदृष्टि न हो, प्रत्युत आदरभाव हो। अर्जुन
@@ -721,58 +487,50 @@ _________________
 अध्यायके तीसवें श्लोकमें भगवान्ने अपनेको जाननेकी बात मुख्य बतायी है और
 नवें अध्यायके चौंतीसवें श्लोकमें भगवान्ने अर्पण करनेकी बात मुख्य बतायी
 है।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-9.34. Have your mind fixed on Me; be My devotee; offer scrifice to Me;
-\[and\] pay homage to Me; thus fixing your self (internal organ) and having Me as your supreme goal, you shall certainly attain Me.
-
+।।9.34।। यह श्लोक सम्पूर्ण अध्याय का सुन्दर सारांश है; क्योंकि इस अध्याय
+के कई अन्य श्लोकों पर यह काफी प्रकाश डालता है। हम कह सकते हैं कि यह
+श्लोक अनेक श्लोकों की व्याख्या का कार्य करता है। वेदान्त के प्रकरण
+ग्रन्थों में आत्मविकास एवं आत्मसाक्षात्कार के लिए सम्यक् ज्ञान और ध्यान
+का उपदेश दिया गया है। ध्यान के स्वरूप की परिभाषा इस प्रकार दी गई है कि;
+उस (सत्य) का ही चिन्तन; उसके विषय में ही कथन; परस्पर उसकी चर्चा करके मन
+का तत्पर या तत्स्वरूप बन जाने को ही; ज्ञानी पुरुष ब्रह्माभ्यास समझते
+हैं। ब्रह्माभ्यास की यह परिभाषा ध्यान में रखकर ही महर्षि व्यास इस श्लोक
+में दृढ़तापूर्वक अपने सुन्दर भक्तिमार्ग का चित्रण करते हैं। यही विचार
+इसी अध्याय में एक से अधिक अवसरों पर व्यक्त किया गया है। सब काल में किसी
+भी कार्य में व्यस्त रहते हुए भी मन को मुझमें स्थिर करके; मेरा भक्त मेरा
+पूजन करता है और मुझे नमस्कार करता है। संक्षेपत; जीवन में आध्यात्मिक
+सुधार के लिए मन का विकास एक मूलभूत आवश्यकता है। यदि वास्तव में हम
+आध्यात्मिक विकास करना चाहें तो बाह्य दशा या परिस्थिति; हमारी आदतें;
+हमारा भूतकालीन या वर्तमान जीवन कोई भी बाधक नहीं हो सकता है। प्रयत्नपूर्वक
+ईश्वर स्मरण या आत्मचिन्तन ही सफलता का रहस्य है। इस प्रकार जब तुम मुझे
+परम लक्ष्य समझोगे तब तुम मुझे प्राप्त होओगे; यह श्रीकृष्ण का अर्जुन को
+आश्वासन है। वर्तमान में हम जो कुछ हैं; वह हमारे संस्कारों के कारण है।
+शुभ और दैवी संस्कारों के होने पर हम उन्हीं के अनुरूप बन जाते
+हैं। conclusion तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां
+योगशास्त्रे  
+  
+श्रीकृष्णार्जुनसंवादे राजविद्याराजगुह्ययोगो नाम नवमोऽध्याय।। इस प्रकार
+श्रीकृष्णार्जुनसंवाद के रूप में ब्रह्मविद्या और योगशास्त्रस्वरूप
+श्रीमद्भगवद्गीतोपनिषद् का राजविद्याराजगुह्ययोग नामक नवां अध्याय समाप्त
+होता है। इस अध्याय के लिए दिया गया यह नाम उपयुक्त है। राजविद्या और
+राजगुह्य इन दो शब्दों का विस्तृत विवेचन किया जा चुका है। अध्याय के
+प्रारम्भ में हमने देखा कि शुद्ध चैतन्य ही वह ज्ञान है; जिसके प्रकाश में
+सभी औपाधिक या वृत्तिज्ञान सम्भव है। अत उस पारमार्थिक तत्त्व का बोध कराने
+वाली इस विद्या को राजविद्या कहना अत्यन्त समीचीन है। उपनिषदों में इसे
+सर्वविद्या प्रतिष्ठा कहा गया है; क्योंकि इसे जानकर और कोई जानने योग्य
+शेष नहीं रह जाता है यही मुण्डकोपनिषद् की भी घोषणा है।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.34 Having your mind fixed on Me, be devoted to Me, sacrifice to Me,
-and bow down to Me. By concentrating your mind and accepting Me as the supreme Goal, you shall surely attain Me who am thus the Self.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।9.34।। (तुम) मुझमें स्थिर मन वाले बनो; मेरे भक्त और मेरे पूजन करने
+वाले बनो; मुझे नमस्कार करो; इस प्रकार मत्परायण (अर्थात् मैं ही जिसका परम
+लक्ष्य हूँ ऐसे) होकर आत्मा को मुझसे युक्त करके तुम मुझे ही प्राप्त
+होओगे।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.34 Fix thy mind on Me, devote thyself to Me, sacrifice for Me,
-surrender to Me, make Me the object of thy aspirations, and thou shalt assuredly become one with Me, Who am thine own Self."
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-9.34 Focus your mind on Me, be My devotee, be my worshipper. Bow down to Me. Engaging your mind in this manner and regarding Me as the supreme goal, you will come to Me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-9.34 Fix thy mind on Me; by devoted to Me; sacrifice unto Me; bow down to Me; having thus united thy whole self to Me, taking Me as the supreme goal, thou shalt come unto Me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-9.34 मन्मनाः with mind filled with Me; भव be thou; मद्भक्तः My devotee;
-मद्याजी sacrificing unto Me; माम्,unto Me; नमस्कुरु bow down; माम् to Me; एव alone; एष्यसि thou shalt come; युक्त्वा having united; एवम् thus;
-आत्मानम् the self; मत्परायणः taking Me as the Supreme Goal.Commentary Fill thy mind with Me. Fix your head; heart and hands on Me. Get your heart in tune with Me. Become a true worshipper. You will secure eternal bliss. Having known Me; you will cross beyond death.The whole being of man should be surrendered to the Lord without reservation. Then the whole life will undergo a wonderful transformation. You will have the vision of God everywhere. All sorrows and pains will vanish. Your mind will be one with the divine consciousness.Just as the potether becomes one with the universal ether when the limiting adjunct (pot) is broken;
-just as the Ganga and the Yamuna; leaving their names and forms become one with the ocean; so also the sage gets rid of Avidya and all sorts of limiting adjuncts through the direct realisation of the Self and becomes identical with Para Brahman.Yukta means steadied in thought; having thus fixed the mind on the Lord; knowing that I am the Self of all beings and the highest goal. (Cf.V.17VII.7;14XVIII.65)(This chapter is known by the name Adhyatma Yoga also.)Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the ninth discourse entitledThe Yoga of the Kingly Science and the Kingly Secret.,
-
-</details>
 </div>

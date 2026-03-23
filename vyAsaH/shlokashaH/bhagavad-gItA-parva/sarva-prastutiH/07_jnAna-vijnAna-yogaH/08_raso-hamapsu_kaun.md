@@ -1,150 +1,153 @@
 +++
 title = "08 रसोऽहमप्सु कौन्तेय"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 रसो ऽहम् अप्सु कौन्तेय,  
 प्रभा ऽस्मि शशि-सूर्ययोः।  
 प्रणवः सर्व-वेदेषु  
 शब्दः खे, पौरुषं नृषु॥7.8॥+++(5)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः।  
-प्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु।।7.8।।
+प्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु॥7.8॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।7.8।। एते सर्वे विलक्षणा भावा मत्त एव उत्पन्नाः मच्छेषभूता मच्छरीरतया
-मयि एव अवस्थिताः अतः तत्प्रकारः अहम् एव अवस्थितः।
-
+॥7.8॥ एते सर्वे विलक्षणा भावा मत्त एव उत्पन्ना मच्छेषभूता मच्छरीरतया मय्य् एव अवस्थिता अतस् तत्प्रकारो ऽहम् एव अवस्थितः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।7.8।। एवंभूमिरापः 7।4 इत्यादिना भेदश्रुत्यर्थ उपबृंहितःमयि सर्वम् 7।7
-इति तु घटकश्रुत्यर्थः अथ तदुभयनिर्वाहिताभेदश्रुत्यर्थोपबृंहणं क्रियत
-इत्यभिप्रायेणाह अत इति। केचित्मयि सर्वमिदम् इत्यस्य रसादिधर्मविशिष्टे
-मयि प्रोतमित्यर्थः तद्विवरणंरसोऽहम् इत्यादि इति व्याचख्युः तत्परिहारायाह
-सर्वस्य परमपुरुषशरीरत्वेनेति। परोक्ते त्वाधाराधेयभाववैपरीत्यादिदोष इति
-भावः। प्रकारवाचिशब्दानां प्रकारिणि पर्यवसानस्वाभाव्यं
-जातिगुणादिशब्देष्वपि सामान्यतः सिद्धमिति दर्शयितुं
-प्रकारत्वोपादानम्। अभिधानं मुख्यवृत्त्या बोधनम्। यद्यपि रसादिशब्दा लोके
-निष्कर्षकाः प्रयुज्यन्ते व्यधिकरणतया चात्रावादिद्रव्योपादानम् तथापि
-रसादीनां परमात्मशरीरभूतद्रव्यप्रकारत्वेन परमात्मनः
-प्रकारित्वाद्रसादिशब्दानां चात्र तत्समानाधिकरणतया प्रयोगात्तत्र
-निष्कर्षकत्वं नास्तीत्यभ्युपगन्तव्यम्। द्रव्योपादानं तु तत्रतत्र द्रव्ये
-प्रधानभूतरसगन्धादिप्रकारीभूतोऽहमिति ज्ञापनार्थम्। द्रव्यप्रकाराणां च
-तत्प्रकारत्वं काठिन्यवान् (न्येन)यो बिभर्ति वि.पु.1।14।28 इत्यादिषु
-प्रयुक्तमिति भावः। रसस्य पृथिव्यां वृत्तौ सत्यामप्यपां
-रूपादिगुणान्तरसद्भावेऽपिरसोऽहमप्सु इति विशिष्योपादानं
-तेजस्तत्त्वादब्रूपपरिणामस्य पूर्वतत्त्वानुत्पन्नरसप्रधानत्वात्। अन्यत्र
-चआत्तगन्धा तदा (ततो) भूमिः प्रलयत्वाय कल्पते वि.पु.6।4।14 इत्यादिना च
-पृथिव्यादीनां गन्धरसाद्यधीनत्वमुक्तम्। एवमुत्तरत्रापि प्राधान्यतो
-विशेषनिर्देशे यथोचितं भाव्यम्। प्रभा
-स्वाश्रयातिरिक्तप्रसारितेजोद्रव्यविशेषः। प्रभयैव चन्द्रसूर्यौ
-जगदुपकारहेतुभूताविति तौ तत्प्रधानौ। सर्वेषां वेदानां बीजत्वादिना
-तेषुप्रणवः प्रधानभूतः। पौरुषं पुरुषस्य भावः यतः पुरुषबुद्धिरित्येके
-सन्तानपरम्पराहेतुभूतं रेत इत्यपरे यद्वा पौरुषं सामर्थ्यं
-कर्तृत्वशक्तिरित्यर्थः तयैव हि कर्तुरात्मनः कारकान्तरेभ्यः प्राधान्यम्।
-नृषु जीवेष्वित्यर्थः। यद्वा पौरुषं पुंस्त्वम् स्त्रीनपुंसकव्यावृत्तः
-सत्त्वादिस्वभावविशेषः। नृशब्दश्च पुरुषपर्यायः। पुण्यो गन्धः
-तुलस्यादिगन्धः सुरभिगन्धमात्रं वा तद्योगेन हि पृथिवी सत्त्वोन्मेषस्य
-सुखस्य वा हेतुर्भवति। विभावसुरत्राग्निः। तत्र च तेजो दाहकत्वशक्तिः।
-भूतशब्देनात्र शरीरिणो गृह्यन्ते। सर्वशब्देनात्र ब्रह्मशर्वादीनामपि
-सङ्ग्रहः। तेषु जीवनं प्राणनम् प्राणस्थितिहेतुर्वा। येन सर्वाणि भूतानि
-जीवन्ति भूतेषूपजीवनीयं वा रूपम्। सर्वभूतानां सनातनं बीजं प्रकृतितत्त्वम्।
-अथवा प्रधानधर्मनिर्देशप्रकरणत्वाद्बीजशब्दोऽत्रोपादानत्वाख्यस्वभावपरः।
-सर्वेषां परिणामिद्रव्याणां स्वकार्यपरिणामसामर्थ्यमित्यर्थः। अथवा बीजं
-प्ररोहकारणं जङ्गमस्थावरभूतानां तत्तदुपादानद्रव्यम्। बुद्धिः अध्यवसायः
-ज्ञानमात्रं वा। तेजस्विनः प्रतापशीलाः तेषां तेजः अनभिभवनीयत्वं
-पराभिभवसामर्थ्यं वा। तेजोऽभिमान इति केचित् प्रागल्भ्यमित्यपरे। बलं
-धारणादिशक्तिः। कामरागवशात् स्वकार्ये प्रवृत्तस्य बलस्य
-परपीडादिहेतुत्वाद्धर्मोपयुक्तशरीरादिधारणमात्रादिविषयत्वायकामरागविवर्जितम्
-इत्युक्तम्। काम इच्छायाःकाष्ठा प्राप्तदशा। राग इच्छा। यद्वा कामशब्दः
-काम्यपरः तद्विषयो रागः कामरागः भूतेषु देवमनुष्यादिरूपेणावस्थितेषु
-जन्तुषु। धर्माविरुद्धः कामः स्वदारप्रीत्यादिः।  
-  
-अथरसोऽहम् इत्यादिसामानाधिकरण्यं सहेतुकमुपपादयति एत इति। न चायं
-तदधीनसामर्थ्यप्रदर्शनार्थोराजा राष्ट्रम् इत्यादिवदारोपः मुख्यसम्भवे
-वृत्त्यन्तरायोगादिति भावः। एत
-इत्यनेनेश्वरव्यतिरिक्तैरशक्यक्रियत्वमभिप्रेतम्। सर्व इत्यनेन
-ब्रह्मरुद्रादिभिरन्यैश्च क्रियमाणानामपि
-ब्रह्मादिशरीरपरमात्माधीनसृष्टत्वम्अहं कृत्स्नस्य 7।6 इति पूर्वोक्तं
-स्मारितम्। वक्ष्यमाणराजसतामसेभ्यो वैलक्षण्यार्थमुक्तंविलक्षणा इति। मत्त
-एव पृथग्विधाः 10।5 इति च वक्ष्यते। एतेनन विलक्षणत्वादस्य ब्र.सू.2।1।4
-इत्यधिकरणार्थोऽपि स्मारितः। मत्त एवोत्पन्ना इत्यादि तत्तद्वस्त्वनुरूपं
-यथासम्भवं सामानाधिकरण्यहेतुः। गुणजातिशरीरेष्वनुगतः
-सामानाधिकरण्यहेतुरपृथक्सिद्धिरिति प्रदर्शनायोक्तंमय्येवावस्थिता इति।
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥7.8॥ एवम्भूमिरापः 7।4 इत्यादिना भेदश्रुत्यर्थ उपबृंहितःमयि सर्वम् 7।7 इति तु घटकश्रुत्यर्थः अथ तदुभयनिर्वाहिताभेदश्रुत्यर्थोपबृंहणं क्रियत इत्यभिप्रायेणाह अत इति। केचित्मयि सर्वमिदम् इत्यस्य रसादिधर्मविशिष्टे मयि प्रोतमित्यर्थः तद्विवरणंरसोऽहम् इत्यादि इति व्याचख्युः तत्परिहारायाह सर्वस्य परमपुरुषशरीरत्वेनेति। परोक्ते त्वाधाराधेयभाववैपरीत्यादिदोष इति भावः। प्रकारवाचिशब्दानां प्रकारिणि पर्यवसानस्वाभाव्यं जातिगुणादिशब्देष्वपि सामान्यतः सिद्धमिति दर्शयितुं प्रकारत्वोपादानम्। अभिधानं मुख्यवृत्त्या बोधनम्। यद्यपि रसादिशब्दा लोके निष्कर्षकाः प्रयुज्यन्ते व्यधिकरणतया चात्रावादिद्रव्योपादानं तथापि रसादीनां परमात्मशरीरभूतद्रव्यप्रकारत्वेन परमात्मनः प्रकारित्वाद्रसादिशब्दानां चात्र तत्समानाधिकरणतया प्रयोगात्तत्र निष्कर्षकत्वं नास्तीत्यभ्युपगन्तव्यम्। द्रव्योपादानं तु तत्रतत्र द्रव्ये प्रधानभूतरसगन्धादिप्रकारीभूतोऽहमिति ज्ञापनार्थम्। द्रव्यप्रकाराणां च तत्प्रकारत्वं काठिन्यवान् (न्येन)यो बिभर्ति वि.पु.1।14।28 इत्यादिषु प्रयुक्तमिति भावः। रसस्य पृथिव्यां वृत्तौ सत्यामप्यपां रूपादिगुणान्तरसद्भावेऽपिरसोऽहमप्सु इति विशिष्योपादानं तेजस्तत्त्वादब्रूपपरिणामस्य पूर्वतत्त्वानुत्पन्नरसप्रधानत्वात्। अन्यत्र चआत्तगन्धा तदा (ततो) भूमिः प्रलयत्वाय कल्पते वि.पु.6।4।14 इत्यादिना च पृथिव्यादीनां गन्धरसाद्यधीनत्वमुक्तम्। एवमुत्तरत्रापि प्राधान्यतो विशेषनिर्देशे यथोचितं भाव्यम्। प्रभा स्वाश्रयातिरिक्तप्रसारितेजोद्रव्यविशेषः। प्रभयैव चन्द्रसूर्यौ जगदुपकारहेतुभूताविति तौ तत्प्रधानौ। सर्वेषां वेदानां बीजत्वादिना तेषुप्रणवः प्रधानभूतः। पौरुषं पुरुषस्य भावः यतः पुरुषबुद्धिरित्येके सन्तानपरम्पराहेतुभूतं रेत इत्यपरे यद्वा पौरुषं सामर्थ्यं कर्तृत्वशक्तिरित्यर्थः तयैव हि कर्तुरात्मनः कारकान्तरेभ्यः प्राधान्यम्। नृषु जीवेष्वित्यर्थः। यद्वा पौरुषं पुंस्त्वं स्त्रीनपुंसकव्यावृत्तः सत्त्वादिस्वभावविशेषः। नृशब्दश्च पुरुषपर्यायः। पुण्यो गन्धः तुलस्यादिगन्धः सुरभिगन्धमात्रं वा तद्योगेन हि पृथिवी सत्त्वोन्मेषस्य सुखस्य वा हेतुर्भवति। विभावसुरत्राग्निः। तत्र च तेजो दाहकत्वशक्तिः। भूतशब्देनात्र शरीरिणो गृह्यन्ते। सर्वशब्देनात्र ब्रह्मशर्वादीनामपि सङ्ग्रहः। तेषु जीवनं प्राणनम् प्राणस्थितिहेतुर्वा। येन सर्वाणि भूतानि जीवन्ति भूतेषूपजीवनीयं वा रूपम्। सर्वभूतानां सनातनं बीजं प्रकृतितत्त्वम्। अथवा प्रधानधर्मनिर्देशप्रकरणत्वाद्बीजशब्दोऽत्रोपादानत्वाख्यस्वभावपरः। सर्वेषां परिणामिद्रव्याणां स्वकार्यपरिणामसामर्थ्यमित्यर्थः। अथवा बीजं प्ररोहकारणं जङ्गमस्थावरभूतानां तत्तदुपादानद्रव्यम्। बुद्धिः अध्यवसायः ज्ञानमात्रं वा। तेजस्विनः प्रतापशीलाः तेषां तेजः अनभिभवनीयत्वं पराभिभवसामर्थ्यं वा। तेजोऽभिमान इति केचित् प्रागल्भ्यमित्यपरे। बलं धारणादिशक्तिः। कामरागवशात् स्वकार्ये प्रवृत्तस्य बलस्य परपीडादिहेतुत्वाद्धर्मोपयुक्तशरीरादिधारणमात्रादिविषयत्वायकामरागविवर्जितम् इत्युक्तम्। काम इच्छायाःकाष्ठा प्राप्तदशा। राग इच्छा। यद्वा कामशब्दः काम्यपरः तद्विषयो रागः कामरागः भूतेषु देवमनुष्यादिरूपेणावस्थितेषु जन्तुषु। धर्माविरुद्धः कामः स्वदारप्रीत्यादिः।  
+        
+अथरसोऽहम् इत्यादिसामानाधिकरण्यं सहेतुकमुपपादयति एत इति। न चायं तदधीनसामर्थ्यप्रदर्शनार्थोराजा राष्ट्रम् इत्यादिवदारोपः मुख्यसम्भवे वृत्त्यन्तरायोगादिति भावः। एत इत्यनेनेश्वरव्यतिरिक्तैरशक्यक्रियत्वमभिप्रेतम्। सर्व इत्यनेन ब्रह्मरुद्रादिभिरन्यैश्च क्रियमाणानामपि ब्रह्मादिशरीरपरमात्माधीनसृष्टत्वम्अहं कृत्स्नस्य 7।6 इति पूर्वोक्तं स्मारितम्। वक्ष्यमाणराजसतामसेभ्यो वैलक्षण्यार्थमुक्तंविलक्षणा इति। मत्त एव पृथग्विधाः 10।5 इति च वक्ष्यते। एतेनन विलक्षणत्वादस्य ब्र.सू.2।1।4 इत्यधिकरणार्थोऽपि स्मारितः। मत्त एवोत्पन्ना इत्यादि तत्तद्वस्त्वनुरूपं यथासम्भवं सामानाधिकरण्यहेतुः। गुणजातिशरीरेष्वनुगतः सामानाधिकरण्यहेतुरपृथक्सिद्धिरिति प्रदर्शनायोक्तम्मय्येवावस्थिता इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 7.8 - 7.11 All these entities with their peculiar characteristic are born from Me alone. They depend on Me; inasmuch as they constitute My body, they exist in Me alone. Thus I alone exist while all of them are only My modes.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.8।। रसोऽहमप्स्विति। सर्वत्रास्वाद्यमानो योऽनुद्भिन्न +++(N
-मानयोरनुद्भिन्न )+++ मधुरादिविभागः सामान्यः सोऽहम्। एवं प्रकाशः
-मृदुत्वचण्डत्वादिरहितः। खे आकाशे। यः शब्द इति सर्वस्यैव शब्दस्य
-नभोगुणत्वात् अत्रावधारणम्। अथवा यः केवलं +++(SN केवलगगन )+++ गगनगुणया
-ध्वनिसंयोगविभागादिसामग्र्यन्तररहितः अवहितहृदयैः ब्रह्मगुहागगनगामी
-योगिगणैः संवेद्यः अनाहताख्यः सकलश्रुतिग्रामानुगामी ( श्रुतिमार्गानुगामी)
-तत् भगवतस्तत्त्वम्। पौरुषम् येन तेजसा पुरुषोऽह(य)मिति सार्वभौमं
-प्रतिपद्यते +++(N प्रतिपाद्यते)+++।
-
+॥7.8॥ **रसः अहम्** अपां यः सारः स रसः तस्मिन् रसभूते मयि आपः प्रोता इत्यर्थः। एवं सर्वत्र। यथा अहम् **अप्सु** रसः एवं **प्रभा अस्मि शशिसूर्ययोः। प्रणवः** ओंकारः **सर्ववेदेषु** तस्मिन् प्रणवभूते मयि सर्वे वेदाः प्रोताः। तथा **खे** आकाशे **शब्दः** सारभूतः तस्मिन् मयि खं प्रोतम्। तथा **पौरुषं** पुरुषस्य भावः पौरुषं यतः पुंबुद्धिः **नृषु** तस्मिन् मयि पुरुषाः प्रोताः॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.8 Raso 'ham apsu etc. I am that \[basic\] taste which has not yet
-devolped as to have the classification of sweetness and so on, and which
-is being tasted in all waters. Similarly, the light : That \[light\]
-which is devoid of gentleness and fierceness etc. (The sound that
-exist\] in the ether in the sky. The sound that etc. Here the emphasis
-is on all sounds, as they are attributes of the ether. Or, the passage
-denotes that empty basic sound which, being exclusively an attribute of
-th ether; which does not depend on any other external cuases like union
-and partition \[of some objects\]; which exists in the ether within the
-cave of the Brahman; which is ite intelligible to the groups of Yogins
-with attentive heart (mind); which bears the name Anahata; and which
-pervades the entire groups of the Vedas - that sound represents the
-Absolute. Manly vigour ; that lusture by means of which one is
-identified as a man throughout the earth.
+<details><summary>गम्भीरानन्दः</summary>
 
+7.8 Kaunteya, O son of Kunti, aham, I; am rasah, the taste, which is the
+essence of water. The idea is that water is depedent on Me who am its
+essence. This is how it is to be understood in every case. Just as I am
+the essence of water, similarly, asmi, I am; the prabha, effulgence;
+sasi-suryayoh, of the moon and the sun; pranavah, (the letter) Om;
+sarva-vedesu, in all the Vedas. All the Vedas are established on Me who
+am that Om. So also (I am) sabdah, the sound; khe, in space, as the
+essence. Space is established on Me who am that (sound). In the same
+way, nrsu, in men; (I am) paurusam, manhood- the ality of being man,
+from which arises the idea of manhood. Men are established on Me who am
+such.
 </details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥7.8॥ यह समस्त जगत् किसकिस धर्मसे युक्त आपमें पिरोया हुआ है इसपर कहते
+हैं जलमें मैं रस हूँ अर्थात् जलका जो सार है उसका नाम रस है उस रसरूप मुझ
+परमात्मामें समस्त जल पिरोया हुआ है। ऐसे ही और सबमें भी समझना चाहिये।
+जैसे जलमें मैं रस हूँ वैसे ही चन्द्रमा और सूर्यमें मैं प्रकाश हूँ। समस्त
+वेदोंमें मैं ओंकार हूँ अर्थात् उस ओंकाररूप मुझ परमात्मामें सब वेद पिरोये
+हुए हैं। आकाशमें उसका सारभूत शब्द हूँ अर्थात् उस शब्दरूप मुझ ईश्वरमें
+आकाश पिरोया हुआ है। तथा पुरुषोंमें मैं पौरुष हूँ अर्थात् पुरुषोंमें जो
+पुरुषत्व है जिससे उनको पुरुष समझा जाता है वह मैं हूँ उस पौरूषरूप मुझ
+ईश्वरमें पुरुष पिरोये हुए हैं।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥7.8॥ अबादीनां रसादिषु प्रोतत्वप्रतीतेस्त्वय्येव सर्वं
+प्रोतमित्ययुक्तमिति मत्वा पृच्छति **केनेति।** तत्रोत्तरमुत्तरग्रन्थेन
+दर्शयति **उच्यत इति।** सारो मधुरो हेतुरिति यावत्। रसोऽहमिति कथं तत्राह
+**तस्मिन्निति।** अप्सु यो रसः सारस्तस्मिन्मयि मधुररसे कारणभूते प्रोता आप
+इतिवदुत्तरत्र सर्वत्र व्याख्यानं कर्तव्यमित्याह **एवमिति।** उक्तमर्थं
+दृष्टान्तं कृत्वा प्रभास्मीत्यादि व्याचष्टे **यथेति।**
+चन्द्रादित्ययोर्या प्रभा तद्भूते मयि तौ प्रोतावित्यर्थः। तत्र
+वाक्यार्थं। कथयति **तस्मिन्निति।** प्रणवभूते तस्मिन्वेदानां
+प्रोतत्ववदाकाशे यः सारभूतः शब्दस्तद्रूपे परमेश्वरे प्रोतमाकाशमित्याह
+**तथेति।** पौरुषं नृष्विति भागं पूर्ववद्विभजते **तथेत्यादिना।**
+पुरुषत्वमेव विशदयति **यत इति।** पुंस्त्वसामान्यात्मके परस्मिन्नीश्वरे
+प्रोतास्तद्विशेषास्तदुपादानत्वेन तत्स्वभावत्वादित्यर्थः।
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥7.8॥ नन्वेवं प्रपञ्चपरमात्मनोर्मणिसूत्रवदुपादानोपादेयभावोऽपि न स्यात्।
+नहि उपादानं चाननुवृत्तं चेति घटते मृद्धटादावदर्शनादित्याशङ्क्य
+स्वप्नमायेन्द्रजालरज्जूरगतुल्यत्वं
+प्रपञ्चस्योपपाद्योभयमप्यविरुद्धमित्युपदिष्टं चेदयमकस्मादुद्विग्नो
+भविष्यतीति मत्वा दृष्टान्तान्तरैरेवानुवृत्तिं व्यावृत्तिं
+चिज्जडयोर्दर्शयति **रस इति।** यथा रसोऽप्सु
+एकमप्यप्परमाणुमपरित्यज्यानुस्यूतो दृश्यतेऽतो रसरूपे मयि आपः प्रोताः एवं
+प्रभायां चन्द्रादयः प्रोताः प्रणवे सर्वे वेदाः प्रोताःतद्यथा शङ्कुना
+सर्वाणि पर्णानि संतृण्णान्येवमोंकारेण सर्वा वाक् संतृण्णा इति वाङ्मात्रे
+प्रणवानुस्यूतिश्रवणात्। संतृण्णानि संग्रथितानि। एवमाकाशे शब्दः
+सारभूतस्तस्मिन्मयि खं प्रोतम्। सर्वपुरुषेषु सारं पौरुषं
+शौर्यर्धैर्यादिरूपं तत्र पुरुषाः प्रोताः। एवमग्रेऽपि द्रष्टव्यम्।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥7.8॥ नन्वबादीनां रसादिषु प्रोतत्वप्रतीतेस्त्वय्येव सर्वं कथं
+प्रोतमित्याशङ्क्य रसादिरुपे मय्येवाबादिकं प्रोतमित्याह रस इति। अपां यः
+सारो रसः पुण्यो गन्धः इति गन्धस्य पुण्यत्वप्रदर्शनं पुण्यत्वप्रदर्शनं
+रसादेरपि पुण्यत्वोपलक्षणार्थम्। रसः पुण्यो मधुरस्तस्मिन् रसरुपे मयि आपः
+प्रोताः। कौन्तेयेति संबोधयन् अस्मन्मातुलेये त्वयि कथं सर्वं
+प्रोतमित्यसंभावनां माकुर्विति ध्वनयति। तथा प्रभा
+प्रखाशस्तस्मिन्प्रखाशरुपे मयि शशिसूर्यो प्रोतौ तदा सर्ववेदसारभूते प्रणवे
+ओंकाररुपे मयि सर्वे वेदाः प्रोताः। तथा आकाशानुस्यूते पुण्ये शब्दे
+शब्दतन्मात्ररुपे मयि आकाशः प्रोतस्तथा पौरुषं पुरुषस्य भावः पुंबुद्धिः
+पुरुषसारभूता तस्मिन्पौरुषरुपे मयि पुरुषाः प्रोताः।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥7.8॥ अबादीनां रसादिषु प्रोतत्वप्रतीतेः कथं त्वयि सर्वमिदं प्रोतमिति च
+न शङ्क्यम् रसादिरूपेण ममैव स्थितत्वादित्याह पञ्चभिः रसः पुण्यो
+मधुरस्तन्मात्ररूपः सर्वासामपां सारः कारणभूतो योऽप्सु सर्वास्वनुगतः सोऽहं
+हे कौन्तेय तद्रूपे मयि सर्वा आपः प्रोता इत्यर्थः। एवं सर्वेषु पर्यायेषु
+व्याख्यातव्यम्। इयं विभूतिराध्यानायोपदिश्यत इति नातीवाभिनिवेष्टव्यम्।
+तथा प्रभा प्रकाशः शशिसूर्ययोरहमस्मि। प्रकाशसामान्यरूपे मयि शशिसूर्यौ
+प्रोतावित्यर्थः। तथा प्रणव ओंकारः सर्ववेदेष्वनुस्यूतोऽहंतद्यथा शङ्कुना
+सर्वाणि पर्णानि संतृण्णान्येवमोंकारेण सर्वा वाक् इति श्रुतेः। संतृण्णानि
+ग्रथितानि। सर्वा वाक् सर्वो वेद इत्यर्थः। शब्दः पुण्यस्तन्मात्ररूपः खे
+आकाशेऽनुस्यूतोऽहम्। पौरुषं पुरुषत्वसामान्यं नृषु पुरुषेषु यदनुस्यूतं
+तदहम्। सामान्यरूपे मयि सर्वे विशेषाः प्रोताः
+श्रौतैर्दुन्दुभ्यादिदृष्टान्तैरिति सर्वत्र द्रष्टव्यम्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.8 7.12।। इदं ज्ञानम्। रसोऽहमित्यादिविज्ञानम्। अबादयोऽपि तत एव। तथापि
+॥7.8 7.12॥ इदं ज्ञानम्। रसोऽहमित्यादिविज्ञानम्। अबादयोऽपि तत एव। तथापि
 रसादिस्वभावाना सागणां च स्वभावत्वे सारत्वे च विशेषतोऽपि स एव नियमाकः न
 त्वबादिनियमानुबद्धो रसादिस्तत्सारत्वादिश्चेति दर्शयति अप्सु रस
 इत्यादिविशेषशब्दैः। भोगश्च विशेषतो रसादेरिति च उपासनार्थं च। उक्तं च
@@ -171,13 +174,11 @@ _________________
 ह्यस्माच्छारीरात्पुरुषोत्तमः। अतोऽभोक्ता च भोक्ता च स्थूलाभोगात्स एव तु
 इति गीताकल्पे। न त्वहं तेष्विति तदनाधारत्वमुच्यते। उक्तं च तदाश्रितं
 जगत्सर्वं नासौ कुत्रचिदाश्रितः इति गीताकल्पे।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।7.8 7.12।। भूमिः 7।4 इत्यादिनेत्यत्रावधेरनुक्तेःरसोऽहं इत्याद्यपि
+<details><summary>जयतीर्थः</summary>
+
+॥7.8 7.12॥ भूमिः 7।4 इत्यादिनेत्यत्रावधेरनुक्तेःरसोऽहं इत्याद्यपि
 ज्ञानप्रकरणमिति प्रतीतिः स्यात् तन्निरासाय तत्समाप्तिमाह **इदमि**ति।
 एतावता ग्रन्थेन ज्ञानं निरूपितमित्यर्थ। कुतोऽत्र ज्ञानप्रकरणस्य समाप्तिः
 इत्यत आह **रसोऽहमि**ति। इतिशब्दाद्यभावेऽपि प्रकरणान्तरारम्भ एव समाप्तिं
@@ -265,135 +266,29 @@ _________________
 त्वहं तेषु 7।12 इति कथमुच्यते इत्यत आह **न त्वहमि**ति। तदनाधारत्वं
 तदुपजीवनेन स्थित्यभावः। कुत एतत् इत्यत आह **उक्तं चे**ति। न केवलं
 मुक्तविरोधादिति चार्थः।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.8।। **रसः अहम्** अपां यः सारः स रसः तस्मिन् रसभूते मयि आपः प्रोता
-इत्यर्थः। एवं सर्वत्र। यथा अहम् **अप्सु** रसः एवं **प्रभा अस्मि
-शशिसूर्ययोः। प्रणवः** ओंकारः **सर्ववेदेषु** तस्मिन् प्रणवभूते मयि सर्वे
-वेदाः प्रोताः। तथा **खे** आकाशे **शब्दः** सारभूतः तस्मिन् मयि खं
-प्रोतम्। तथा **पौरुषं** पुरुषस्य भावः पौरुषं यतः पुंबुद्धिः **नृषु**
-तस्मिन् मयि पुरुषाः प्रोताः।।
-
+॥7.8॥ रसोऽहमप्स्विति। सर्वत्रास्वाद्यमानो योऽनुद्भिन्न +++(N मानयोरनुद्भिन्न )+++ मधुरादिविभागः सामान्यः सोऽहम्। एवं प्रकाशः मृदुत्वचण्डत्वादिरहितः। खे आकाशे। यः शब्द इति सर्वस्यैव शब्दस्य नभोगुणत्वात् अत्रावधारणम्। अथवा यः केवलं +++(SN केवलगगन )+++ गगनगुणया ध्वनिसंयोगविभागादिसामग्र्यन्तररहितः अवहितहृदयैः ब्रह्मगुहागगनगामी योगिगणैः संवेद्यः अनाहताख्यः सकलश्रुतिग्रामानुगामी ( श्रुतिमार्गानुगामी) तत् भगवतस्तत्त्वम्। पौरुषम् येन तेजसा पुरुषोऽह(य)मिति सार्वभौमं प्रतिपद्यते +++(N प्रतिपाद्यते)+++।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।7.8।। यह समस्त जगत् किसकिस धर्मसे युक्त आपमें पिरोया हुआ है इसपर कहते
-हैं जलमें मैं रस हूँ अर्थात् जलका जो सार है उसका नाम रस है उस रसरूप मुझ
-परमात्मामें समस्त जल पिरोया हुआ है। ऐसे ही और सबमें भी समझना चाहिये।
-जैसे जलमें मैं रस हूँ वैसे ही चन्द्रमा और सूर्यमें मैं प्रकाश हूँ। समस्त
-वेदोंमें मैं ओंकार हूँ अर्थात् उस ओंकाररूप मुझ परमात्मामें सब वेद पिरोये
-हुए हैं। आकाशमें उसका सारभूत शब्द हूँ अर्थात् उस शब्दरूप मुझ ईश्वरमें
-आकाश पिरोया हुआ है। तथा पुरुषोंमें मैं पौरुष हूँ अर्थात् पुरुषोंमें जो
-पुरुषत्व है जिससे उनको पुरुष समझा जाता है वह मैं हूँ उस पौरूषरूप मुझ
-ईश्वरमें पुरुष पिरोये हुए हैं।
+<details><summary>शङ्करनारायणः</summary>
 
+7.8 Raso 'ham apsu etc. I am that \[basic\] taste which has not yet devolped as to have the classification of sweetness and so on, and which is being tasted in all waters. Similarly, the light : That \[light\] which is devoid of gentleness and fierceness etc. (The sound that exist\] in the ether in the sky. The sound that etc. Here the emphasis is on all sounds, as they are attributes of the ether. Or, the passage denotes that empty basic sound which, being exclusively an attribute of th ether; which does not depend on any other external cuases like union and partition \[of some objects\]; which exists in the ether within the cave of the Brahman; which is ite intelligible to the groups of Yogins with attentive heart (mind); which bears the name Anahata; and which pervades the entire groups of the Vedas - that sound represents the Absolute. Manly vigour ; that lusture by means of which one is identified as a man throughout the earth.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.8 Kaunteya, O son of Kunti, aham, I; am rasah, the taste, which is the
-essence of water. The idea is that water is depedent on Me who am its
-essence. This is how it is to be understood in every case. Just as I am
-the essence of water, similarly, asmi, I am; the prabha, effulgence;
-sasi-suryayoh, of the moon and the sun; pranavah, (the letter) Om;
-sarva-vedesu, in all the Vedas. All the Vedas are established on Me who
-am that Om. So also (I am) sabdah, the sound; khe, in space, as the
-essence. Space is established on Me who am that (sound). In the same
-way, nrsu, in men; (I am) paurusam, manhood- the ality of being man,
-from which arises the idea of manhood. Men are established on Me who am
-such.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।7.8।। अबादीनां रसादिषु प्रोतत्वप्रतीतेस्त्वय्येव सर्वं
-प्रोतमित्ययुक्तमिति मत्वा पृच्छति **केनेति।** तत्रोत्तरमुत्तरग्रन्थेन
-दर्शयति **उच्यत इति।** सारो मधुरो हेतुरिति यावत्। रसोऽहमिति कथं तत्राह
-**तस्मिन्निति।** अप्सु यो रसः सारस्तस्मिन्मयि मधुररसे कारणभूते प्रोता आप
-इतिवदुत्तरत्र सर्वत्र व्याख्यानं कर्तव्यमित्याह **एवमिति।** उक्तमर्थं
-दृष्टान्तं कृत्वा प्रभास्मीत्यादि व्याचष्टे **यथेति।**
-चन्द्रादित्ययोर्या प्रभा तद्भूते मयि तौ प्रोतावित्यर्थः। तत्र
-वाक्यार्थं। कथयति **तस्मिन्निति।** प्रणवभूते तस्मिन्वेदानां
-प्रोतत्ववदाकाशे यः सारभूतः शब्दस्तद्रूपे परमेश्वरे प्रोतमाकाशमित्याह
-**तथेति।** पौरुषं नृष्विति भागं पूर्ववद्विभजते **तथेत्यादिना।**
-पुरुषत्वमेव विशदयति **यत इति।** पुंस्त्वसामान्यात्मके परस्मिन्नीश्वरे
-प्रोतास्तद्विशेषास्तदुपादानत्वेन तत्स्वभावत्वादित्यर्थः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।7.8।। अबादीनां रसादिषु प्रोतत्वप्रतीतेः कथं त्वयि सर्वमिदं प्रोतमिति च
-न शङ्क्यम् रसादिरूपेण ममैव स्थितत्वादित्याह पञ्चभिः रसः पुण्यो
-मधुरस्तन्मात्ररूपः सर्वासामपां सारः कारणभूतो योऽप्सु सर्वास्वनुगतः सोऽहं
-हे कौन्तेय तद्रूपे मयि सर्वा आपः प्रोता इत्यर्थः। एवं सर्वेषु पर्यायेषु
-व्याख्यातव्यम्। इयं विभूतिराध्यानायोपदिश्यत इति नातीवाभिनिवेष्टव्यम्।
-तथा प्रभा प्रकाशः शशिसूर्ययोरहमस्मि। प्रकाशसामान्यरूपे मयि शशिसूर्यौ
-प्रोतावित्यर्थः। तथा प्रणव ओंकारः सर्ववेदेष्वनुस्यूतोऽहंतद्यथा शङ्कुना
-सर्वाणि पर्णानि संतृण्णान्येवमोंकारेण सर्वा वाक् इति श्रुतेः। संतृण्णानि
-ग्रथितानि। सर्वा वाक् सर्वो वेद इत्यर्थः। शब्दः पुण्यस्तन्मात्ररूपः खे
-आकाशेऽनुस्यूतोऽहम्। पौरुषं पुरुषत्वसामान्यं नृषु पुरुषेषु यदनुस्यूतं
-तदहम्। सामान्यरूपे मयि सर्वे विशेषाः प्रोताः
-श्रौतैर्दुन्दुभ्यादिदृष्टान्तैरिति सर्वत्र द्रष्टव्यम्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।7.8।। नन्वेवं प्रपञ्चपरमात्मनोर्मणिसूत्रवदुपादानोपादेयभावोऽपि न स्यात्।
-नहि उपादानं चाननुवृत्तं चेति घटते मृद्धटादावदर्शनादित्याशङ्क्य
-स्वप्नमायेन्द्रजालरज्जूरगतुल्यत्वं
-प्रपञ्चस्योपपाद्योभयमप्यविरुद्धमित्युपदिष्टं चेदयमकस्मादुद्विग्नो
-भविष्यतीति मत्वा दृष्टान्तान्तरैरेवानुवृत्तिं व्यावृत्तिं
-चिज्जडयोर्दर्शयति **रस इति।** यथा रसोऽप्सु
-एकमप्यप्परमाणुमपरित्यज्यानुस्यूतो दृश्यतेऽतो रसरूपे मयि आपः प्रोताः एवं
-प्रभायां चन्द्रादयः प्रोताः प्रणवे सर्वे वेदाः प्रोताःतद्यथा शङ्कुना
-सर्वाणि पर्णानि संतृण्णान्येवमोंकारेण सर्वा वाक् संतृण्णा इति वाङ्मात्रे
-प्रणवानुस्यूतिश्रवणात्। संतृण्णानि संग्रथितानि। एवमाकाशे शब्दः
-सारभूतस्तस्मिन्मयि खं प्रोतम्। सर्वपुरुषेषु सारं पौरुषं
-शौर्यर्धैर्यादिरूपं तत्र पुरुषाः प्रोताः। एवमग्रेऽपि द्रष्टव्यम्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।7.8।। नन्वबादीनां रसादिषु प्रोतत्वप्रतीतेस्त्वय्येव सर्वं कथं
-प्रोतमित्याशङ्क्य रसादिरुपे मय्येवाबादिकं प्रोतमित्याह रस इति। अपां यः
-सारो रसः पुण्यो गन्धः इति गन्धस्य पुण्यत्वप्रदर्शनं पुण्यत्वप्रदर्शनं
-रसादेरपि पुण्यत्वोपलक्षणार्थम्। रसः पुण्यो मधुरस्तस्मिन् रसरुपे मयि आपः
-प्रोताः। कौन्तेयेति संबोधयन् अस्मन्मातुलेये त्वयि कथं सर्वं
-प्रोतमित्यसंभावनां माकुर्विति ध्वनयति। तथा प्रभा
-प्रखाशस्तस्मिन्प्रखाशरुपे मयि शशिसूर्यो प्रोतौ तदा सर्ववेदसारभूते प्रणवे
-ओंकाररुपे मयि सर्वे वेदाः प्रोताः। तथा आकाशानुस्यूते पुण्ये शब्दे
-शब्दतन्मात्ररुपे मयि आकाशः प्रोतस्तथा पौरुषं पुरुषस्य भावः पुंबुद्धिः
-पुरुषसारभूता तस्मिन्पौरुषरुपे मयि पुरुषाः प्रोताः।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.8।। नन्वेकस्य भगवतः कारणत्वमुपादानत्वेन निमित्तत्वादिना वा तत्रापि
+॥7.8॥ नन्वेकस्य भगवतः कारणत्वमुपादानत्वेन निमित्तत्वादिना वा तत्रापि
 तन्मुख्यं गौणं वा इति चेत् उच्यते तस्य मुख्यमेव सर्वकारणत्वं
 सर्वरूपत्वात्सर्वशक्तित्वात्सहकारिनिरपेक्षत्वाच्च कामधेन्वादिवत्। उक्तं
 हि श्रीभागवते 6।4।30यस्मिन्यतो येन च यस्य यस्मै यद्यो यथा कुरुते कार्यते
@@ -407,15 +302,11 @@ _________________
 प्रणवो नामात्मा कः शब्दो गुणाः खे। नृषु मानुषेषु पौरुषं वीर्यम्। यतः
 सर्वगुणानां सम्मिश्रं रूपं सप्तमोऽप्येको भेदो मध्ये निरूपितः
 मिश्रितत्वात्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।7.8।। आधिदैविकरूपेण जगतः स्थितिं स्वस्मिन्नाह रसोऽहमिति पञ्चभिः। हे
+<details><summary>पुरुषोत्तमः</summary>
+
+॥7.8॥ आधिदैविकरूपेण जगतः स्थितिं स्वस्मिन्नाह रसोऽहमिति पञ्चभिः। हे
 कौन्तेय मद्भक्त एतज्ज्ञानयोग्य अहमप्सु जलेषु रसरूपः। जले
 शैत्याद्याह्लादकानन्दादिगुणो मद्रूपस्थरसांशसम्बन्धादाविर्भवतीत्यर्थः।
 तथा शशिसूर्ययोः प्रभा प्रकाशकतेजोरूपोऽस्मि
@@ -425,19 +316,14 @@ _________________
 वेदशब्देषु रसरूपता अत एव श्रुतीनां भावोत्पत्तिः। खे आकाशे
 शब्दरूपोऽस्मि। अत्रायं भावः आकाशस्वरूपात्मकभगवद्वेणुसम्बन्धेन
 शब्देष्वानन्दरूपत्वं भवति। नृषु मनुष्येषु पौरुषांशत्वम् पुरुषांशानामेव
-भजनयोग्यतेति तत्सम्बन्धेनैव सर्वमनुष्याणामुत्तमत्वमुच्यत इति भावः।  
-  
-
+भजनयोग्यतेति तत्सम्बन्धेनैव सर्वमनुष्याणामुत्तमत्वमुच्यत इति भावः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।7.8।। जगतः स्थितिहेतुत्वं प्रपञ्चयति **रसोऽहमिति पञ्चभिः।** अप्सु
+॥7.8॥ जगतः स्थितिहेतुत्वं प्रपञ्चयति **रसोऽहमिति पञ्चभिः।** अप्सु
 रसोऽहम्। रसतन्मात्ररूपया विभूत्या तदाश्रयत्वेनाप्सु स्थितोऽहमित्यर्थः।
 तथा शशिसूर्ययोः प्रभास्मि। चन्द्रेऽर्के च प्रकाशरूपया विभूत्या
 तदाश्रयत्वेन स्थितोऽहमित्यर्थः। एवमुत्तरत्रापि द्रष्टव्यम्। सर्वेषु
@@ -445,39 +331,55 @@ _________________
 शब्दतन्मात्ररूपोऽस्मि। नृषु पुरुषेषु पौरुषमुद्यमोऽस्मि। उद्यमे हि
 पुरुषास्तिष्ठन्ति।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।7.8।। See commentary under 7.9.
-
+7.8 I am the taste in the waters, O Arjuna! I am the light in the sun and the moon; the sacred syllable Om in all the Vedas; sound in the ether; and manhood in men am I.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।7.8।। हे कौन्तेय ! जल में मैं रस हूँ, चन्द्रमा और सूर्य में प्रकाश
-हूँ, सब वेदों में प्रणव (ँ़कार) हूँ तथा आकाश में शब्द और पुरुषों में
-पुरुषत्व हूँ।।
+<details><summary>गम्भीरानन्दः</summary>
 
+7.8 O son of Kunti, I am the taste of water, I am the effulgence of the moon and the sun; (the letter) Om in all the Vedas, the sound in space,
+and manhood in men.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+7.8 O Arjuna! I am the Fluidity in water, the Light in the sun and in the moon. I am the mystic syllable Om in the Vedic scriptures, the Sound in ether, the Virility in man.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+7.8. O son of Kunti ! I am the taste in waters; the light in the moon and the sun; the best hymn (OM) in the entire Vedas; the sound that exists in the ether (or the mystic hymnal sound in the entire Vedas-a sound that is in the ether); and the manly vigour in men.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+7.8 I am the sapidity in water, O Arjuna; I am the light in the moon and the sun; I am the syllable Om in all the Vedas, sound in ether and virility in men.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+7.8 रसः sapidity; अहम् I; अप्सु in water; कौन्तेय O Kaunteya (son of Kunti); प्रभा light; अस्मि am (I); शशिसूर्ययोः in the moon and the sun;
+प्रणवः the syllable Om; सर्ववेदेषु in all the Vedas; शब्दः sound; खे in ether; पौरुषम् virility; नृषु in men.Commentary In Me all beings and the whole world are woven as a cloth in the warp. In Me as sapidity the water is woven in Me as light; the sun and the moon are woven in Me as the sacred syllable Om all the Vedas are woven in Me as virility all men are woven.The manifestations of the Lord are described in the verses 8;
+9; 10 and 11. (Cf.XV.12)
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.8।। हे कुन्तीनन्दन ! जलोंमें रस मैं हूँ, चन्द्रमा और सूर्यमें प्रभा
 (प्रकाश) मैं हूँ, सम्पूर्ण वेदोंमें प्रणव (ओंकार) मैं हूँ, आकाशमें शब्द
 और मनुष्योंमें पुरुषार्थ मैं हूँ।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।7.8।।***व्याख्या--***\[जैसे साधारण दृष्टिसे लोगोंने रुपयोंको ही
 सर्वश्रेष्ठ मान रखा है तो रुपये पैदा करने और उनका संग्रह करनेमें लोभी
@@ -504,55 +406,18 @@ _________________
 प्रभा निकाल दी जाय तो चन्द्रमा और सूर्य निस्तत्त्व हो जायँगे। तात्पर्य
 है कि केवल प्रभा ही चन्द्र और सूर्यरूपसे प्रकट हो रही है। भगवान् कहते
 हैं कि वह प्रभा भी मैं ही हूँ।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-7.8. O son of Kunti ! I am the taste in waters; the light in the moon and the sun; the best hymn (OM) in the entire Vedas; the sound that exists in the ether (or the mystic hymnal sound in the entire Vedas-a sound that is in the ether); and the manly vigour in men.
-
+।।7.8।। See commentary under 7.9.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.8 O son of Kunti, I am the taste of water, I am the effulgence of the moon and the sun; (the letter) Om in all the Vedas, the sound in space,
-and manhood in men.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।7.8।। हे कौन्तेय ! जल में मैं रस हूँ, चन्द्रमा और सूर्य में प्रकाश
+हूँ, सब वेदों में प्रणव (ँ़कार) हूँ तथा आकाश में शब्द और पुरुषों में
+पुरुषत्व हूँ।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.8 O Arjuna! I am the Fluidity in water, the Light in the sun and in the moon. I am the mystic syllable Om in the Vedic scriptures, the Sound in ether, the Virility in man.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-7.8 I am the taste in the waters, O Arjuna! I am the light in the sun and the moon; the sacred syllable Om in all the Vedas; sound in the ether; and manhood in men am I.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-7.8 I am the sapidity in water, O Arjuna; I am the light in the moon and the sun; I am the syllable Om in all the Vedas, sound in ether and virility in men.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-7.8 रसः sapidity; अहम् I; अप्सु in water; कौन्तेय O Kaunteya (son of Kunti); प्रभा light; अस्मि am (I); शशिसूर्ययोः in the moon and the sun;
-प्रणवः the syllable Om; सर्ववेदेषु in all the Vedas; शब्दः sound; खे in ether; पौरुषम् virility; नृषु in men.Commentary In Me all beings and the whole world are woven as a cloth in the warp. In Me as sapidity the water is woven in Me as light; the sun and the moon are woven in Me as the sacred syllable Om all the Vedas are woven in Me as virility all men are woven.The manifestations of the Lord are described in the verses 8;
-9; 10 and 11. (Cf.XV.12)
-
-</details>
 </div>

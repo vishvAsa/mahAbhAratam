@@ -1,119 +1,235 @@
 +++
 title = "18 नैव तस्य"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/18_naiva_tasya.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/18_naiva_tasya.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **नैव** तस्य **कृतेनार्थो**  
 **नाकृतेनेह** कश्चन।  
 न चास्य सर्व-भूतेषु  
 कश्चिद् अर्थ-व्यपाश्रयः॥3.18॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/18_naiva_tasya.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन।  
-न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः।।3.18।।
+न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः॥3.18॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।3.18।। अत **एव तस्य** आत्मदर्शनाय **कृतेन** तत्साधनेन **न अर्थः** न
-किञ्चित् प्रयोजनम् **अकृतेन** आत्मदर्शनसाधनेन न कश्चिद् अनर्थः
-असाधनायत्तात्मदर्शनत्वात्। स्वत एवात्मव्यतिरिक्तसकलाचिद्वस्तुविमुखस्य
-**अस्य** सर्वेषु प्रकृतिपरिणामविशेषेषु आकाशादिषु **भूतेषु** सकार्येषु
-**न** **कश्चित्** प्रयोजनतया साधनतया वा **व्यपाश्रयः** यतः
-तद्विमुखीकरणाय साधनारम्भः स हि मुक्त एव। यस्माद् असाधनायत्तात्मदर्शनस्य
-एव साधनाप्रवृत्तिः यस्मात् च साधने प्रवृत्तस्य अपि सुशकत्वाद्
-अप्रमादत्वात् तदन्तर्गतात्मयाथात्म्यानुसन्धानत्वाद् च ज्ञानयोगिनः अपि
-देहयात्रायाः कर्मानुवृत्त्यपेक्षत्वात् च कर्मयोग एव आत्मदर्शननिर्वृत्तौ
-श्रेयान्
+॥3.18॥ अत **एव तस्य** आत्म-दर्शनाय **कृतेन** तत्-साधनेन  
+**न अर्थः** न किञ्चित् प्रयोजनम्  
+**अकृतेन** आत्म-दर्शन-साधनेन  
+न कश्चिद् अनर्थो ऽसाधनायत्तात्म-दर्शनत्वात्। 
 
+स्वत एवात्म-व्यतिरिक्त-- सकलाचिद्-वस्तु-विमुखस्य **अस्य**  
+सर्वेषु प्रकृति-परिणाम-विशेषेष्व् आकाशादिषु **भूतेषु** सकार्येषु  
+**न** **कश्चित्** प्रयोजनतया साधनतया वा **व्यपाश्रयः**  
+यतस् तद्-विमुखीकरणाय साधनारम्भः,  
+स हि मुक्त एव।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।3.18।। अर्थशब्दस्यात्र प्रयोजनविषयतां वदन्तस्य कार्यं न विद्यते इत्यनेन
-पौनरुक्त्यं परिहरति न किञ्चित्प्रयोजनमिति। प्रयोजनाभावात् कर्तव्यं
-नास्तीत्युक्तं भवति। नाकृतेन इत्यत्रार्थो न निषेध्यः किन्त्वकरणे
-प्रत्यवाय इत्यभिप्रायेणाह न कश्चिदनर्थ इति। अर्थानर्थौ
-ह्यात्मदर्शनतदभावौ तत्र पूर्वस्य सिद्धत्वात् न साध्यत्वम् उत्तरस्य
-चात्यन्तनिवृत्तत्वान्न निवर्तनीयत्वमित्यभिप्रायेणाह
-असाधनायत्तात्मदर्शनत्वादिति। न चास्य इत्यादिना
-प्रतिबन्धनिवृत्त्यर्थमपेक्षा नास्तीत्युच्यत इत्यभिप्रायेणाह स्वत
-एवेत्यादि। अस्येतिशब्द
-आत्मरतिरित्यादिनिर्दिष्टप्रकारपरामर्शीत्यभिप्रायेणोक्तंसकलाचिद्वस्तुविमुखस्येति।
-सर्वशब्दस्यात्रासङ्कोचेन
-सावान्तरभेदसमस्तप्राकृतभोग्यविषयतामाहप्रकृतीत्यादिना
-सकार्येष्वित्यन्तेन। परिणामशब्देनात्र भूतशब्दस्य भवनक्रियायोगिपरत्वं
-दर्शितम्। अर्थव्यपाश्रयः इत्यत्रार्थशब्दो भावप्रधान इति व्यनक्ति
-प्रयोजनतया व्यपाश्रय इति। व्यपाश्रयः स्वीकरणम्। अर्थ एव व्यपाश्रयः
-स्वीकरणीयमिति वाऽभिप्रेतम्। एतेन प्रयोजननिमित्तो व्यपाश्रय इति
-परव्याख्या निरस्ता। नचास्येत्यादेर्हेत्वभिप्रायेण वा मुक्त एव हि
-साधननिरपेक्ष इति श्लोकद्वयार्थनिगमनाभिप्रायेण चोच्यते स हि मुक्त
-एवेति।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥3.18॥ अर्थशब्दस्यात्र प्रयोजनविषयतां वदन्तस्य कार्यं न विद्यते इत्यनेन पौनरुक्त्यं परिहरति न किञ्चित्प्रयोजनमिति। प्रयोजनाभावात् कर्तव्यं नास्तीत्युक्तं भवति। नाकृतेन इत्यत्रार्थो न निषेध्यः किन्त्वकरणे प्रत्यवाय इत्यभिप्रायेणाह न कश्चिदनर्थ इति। अर्थानर्थौ ह्यात्मदर्शनतदभावौ तत्र पूर्वस्य सिद्धत्वात् न साध्यत्वम् उत्तरस्य चात्यन्तनिवृत्तत्वान्न निवर्तनीयत्वमित्यभिप्रायेणाह असाधनायत्तात्मदर्शनत्वादिति। न चास्य इत्यादिना प्रतिबन्धनिवृत्त्यर्थमपेक्षा नास्तीत्युच्यत इत्यभिप्रायेणाह स्वत एवेत्यादि। अस्येतिशब्द आत्मरतिरित्यादिनिर्दिष्टप्रकारपरामर्शीत्यभिप्रायेणोक्तंसकलाचिद्वस्तुविमुखस्येति। सर्वशब्दस्यात्रासङ्कोचेन सावान्तरभेदसमस्तप्राकृतभोग्यविषयतामाहप्रकृतीत्यादिना सकार्येष्वित्यन्तेन। परिणामशब्देनात्र भूतशब्दस्य भवनक्रियायोगिपरत्वं दर्शितम्। अर्थव्यपाश्रयः इत्यत्रार्थशब्दो भावप्रधान इति व्यनक्ति प्रयोजनतया व्यपाश्रय इति। व्यपाश्रयः स्वीकरणम्। अर्थ एव व्यपाश्रयः स्वीकरणीयमिति वाऽभिप्रेतम्। एतेन प्रयोजननिमित्तो व्यपाश्रय इति परव्याख्या निरस्ता। नचास्येत्यादेर्हेत्वभिप्रायेण वा मुक्त एव हि साधननिरपेक्ष इति श्लोकद्वयार्थनिगमनाभिप्रायेण चोच्यते स हि मुक्त एवेति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.18 Thus, for such a one there is no purpose, i.e., nothing to be gained from work done as a means for the vision of the self, nor is he subject to any evil or calamity from work left undone, because his vision of the self does not rest on any external means. To such a person who has turned by himself away from non-intelligent matter which is different from the self, there is nothing acceptable as a purpose to be gained from the constituents of Prakrti and their products; only if there were such a purpose, there would be the need for the means of retreat therefrom. For, the adoption of the means is only for effecting such a retreat. But he is verily liberated. Non-pursuit of the means for vision of the self is only for that person whose vision of the self no longer depends on any means. But Karma Yoga is better in gaining the vision of the self for one who is in pursuit of the means for that vision, because it is easy to perfom, because it is secure from possible error, because the contemplation of the true nature of the self is included in it, and because even for a Jnana Yogin the performance of minimum activity is necessary. For these reasons, Karma Yoga is better as a means for the vision of the Atman.
+<details><summary>आदिदेवानन्दः</summary>
 
+3.18 Thus, for such a one there is no purpose, i.e., nothing to be gained from work done as a means for the vision of the self, nor is he subject to any evil or calamity from work left undone, because his vision of the self does not rest on any external means. To such a person who has turned by himself away from non-intelligent matter which is different from the self, there is nothing acceptable as a purpose to be gained from the constituents of Prakrti and their products; only if there were such a purpose, there would be the need for the means of retreat therefrom. For, the adoption of the means is only for effecting such a retreat. But he is verily liberated. 
+
+Non-pursuit of the means for vision of the self is only for that person whose vision of the self no longer depends on any means.  
+
+But Karma Yoga is better in gaining the vision of the self for one who is in pursuit of the means for that vision,  
+because it is easy to perfom,  
+because it is secure from possible error,  
+because the contemplation of the true nature of the self is included in it,  
+and because even for a Jnana Yogin the performance of minimum activity is necessary.  
+
+For these reasons, Karma Yoga is better as a means for the vision of the Atman.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।3.17 3.19।। यश्चेत्यादि पूरुष इत्यन्तम्। आत्मरतेस्तु कर्म
-इन्द्रियव्यापारतयैव कुर्वतः करणाकरणेषु समता। अत एव नासौ भूतेषु
-किंचिदात्मप्रयोजनमपेक्ष्य निग्रहानुग्रहौ करोति अपि तु करणीयमिदम्
-इत्येतावता। तस्मादसक्त एव करणीयं कर्म कुर्यात्।
-
+॥3.18॥ **नैव तस्य** परमात्मरतेः **कृतेन** कर्मणा **अर्थः** प्रयोजनमस्ति। अस्तु तर्हि अकृतेन अकरणेन प्रत्यवायाख्यः अनर्थः **न अकृतेन इह** लोके **कश्चन** कश्चिदपि प्रत्यवायप्राप्तिरूपः आत्महानिलक्षणो वा नैव अस्ति। **न च अस्य सर्वभूतेषु** ब्रह्मादिस्थावरान्तेषु भूतेषु कश्चित् **अर्थव्यपाश्रयः** प्रयोजननिमित्तक्रियासाध्यः व्यपाश्रयः व्यपाश्रयणम् आलम्बनं कञ्चित् भूतविशेषमाश्रित्य न साध्यः कश्चिदर्थः अस्ति येन तदर्था क्रिया अनुष्ठेया स्यात्। न त्वम् एतस्मिन् सर्वतःसंप्लुतोदकस्थानीये सम्यग्दर्शने वर्तसे॥ यतः एवम्
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.18 See Comment under 3.19
+<details><summary>गम्भीरानन्दः</summary>
 
+3.18 Moreover, tasya, for him, who rejoices in the supreme Self; na,
+there is no; artham, concern; eva, at all; krtena, with performing
+action. Objection: In that case, let there be some evil called sin owing
+to non-performance! Reply: Iha, here, in this world; na, nor is there;
+for him kascana, any (concern); akrtena, with nonperfromance. Certainly
+there is no evil in the form of incurring sin or in the form of
+self-destruction. Ca, moreover; asya, for him; na asti, there is no;
+kascit artha-vyapasrayah sarva-bhutesu, dependence on any object, from
+Brahma to an unmoving thing, to serve any purpose. Vyapasrayah is the
+same as vyapasrayanam, dependence, which is possible of being created by
+action promted by necessity. (For him) there is no end to gain by
+depending on any praticular object, due to which there can be some
+action for that purpose. 'You (Arjuna) are not established in this
+fullest realization which is comparable to a flood all around.'
 </details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥3.18॥ क्योंकि उस परमात्मामें प्रीतिवाले पुरुषका इस लोकमें कर्म करनेसे
+कोई प्रयोजन ही नहीं रहता है। तो फिर कर्म न करनेसे उसको प्रत्यवायरूप
+अनर्थकी प्राप्ति होती होगी ( इसपर कहते हैं ) उसके न करनेसे भी उसे इस
+लोकमें कोई प्रत्यवायप्राप्तिरूप या आत्महानिरूप अनर्थकी प्राप्ति नहीं
+होती तथा ब्रह्मासे लेकर स्थावरतक सब प्राणियोंमें उसका कुछ भी
+अर्थव्यपाश्रय नहीं होता। किसी फलके लिये ( किसी प्राणिविशेषका ) जो
+क्रियासाध्य आश्रय है उसका नाम अर्थव्यपाश्रय है सो इस आत्मज्ञानीको किसी
+प्राणिविशेषका सहारा लेकर कोई प्रयोजन सिद्ध नहीं करना है जिससे कि उसे
+तदर्थक किसी क्रियाका आरम्भ करना पड़े। परन्तु तू इस सब ओरसे परिपूर्ण
+जलाशयस्थानीय यथार्थ ज्ञानमें स्थित नहीं है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥3.18॥ इतश्चात्मविदो न किंचित्कर्तव्यमित्याह **किञ्चेति।**
+अभ्युदयनिःश्रेयसयोरन्यतरत्प्रयोजनं कृतेन सुकृतेनात्मविदो
+भविष्यतीत्याशङ्क्याह **नैवेति।** प्रत्यवायनिवृत्तये
+स्वरूपप्रच्युतिप्रत्याख्यानाय वा कर्म स्यादित्याशङ्क्याह **नेत्यादिना।**
+ब्रह्मादिषु स्थावरान्तेषु भूतेषु कंचिद्भूतविशेषमाश्रित्य कश्चिदर्थो
+विदुषः साध्यो भविष्यति तदर्थं तेन कर्तव्यं कर्मेत्याशङ्क्याह **नचेति।**
+तत्राद्यं पादमादत्ते **नैवेति।** तं व्याचष्टे **तस्येति।** आत्मविदः
+स्वर्गाद्यभ्युदयानर्थित्वं निःश्रेयसस्य च प्राप्तत्वान्न कृतं
+कर्मार्थवदित्यर्थः। आत्मविदा चेत्कर्म न क्रियते तर्हि तेनाकृतेन
+तस्यानर्थो भविष्यतीति तत्प्रत्याख्यानार्थं तस्य कर्तव्यं कर्मेति शङ्कते
+**तर्हीति।** द्वितीयपादेनोत्तरमाह **नेत्यादिना।** अतो न तन्निवृत्त्यर्थं
+कृतमर्थवदिति शेषः। द्वितीयं भागं विभजते **नचास्येति।**
+व्यपाश्रयणमालम्बनं नेति संबन्धः। पदार्थमुक्त्वा वाक्यार्थमाह
+**कंचिदिति।** भूतविशेषस्याश्रितस्यापि क्रियाद्वारा
+प्रयोजनप्रसवहेतुत्वमिति मत्वाह **येनेति।** तर्हि मयापि यथोक्तं
+तत्त्वमाश्रित्य त्याज्यमेव कर्मेत्यर्जुनस्य मतमाशङ्क्याह **न त्वमिति।**
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥3.18॥ एतदेवाह **नैवेति।** तस्यात्मरतेः कृतेन कर्मणार्थः प्रयोजनं
+नास्ति। स्वर्गादौ लिप्साभावात्। मोक्षस्य चाक्रियासाध्यत्वात्नास्त्यकृतः
+कृतेन इति श्रुतेः। अकृतो मोक्षः कृतेन कर्मणा नास्तीति श्रुत्यर्थः।
+अकृतेन विरुद्धकर्मणाप्यर्थो नरकादिरस्य नास्ति। अत्र कृताकृतशब्दौ
+मित्रामित्रपदवत्परस्परविरुद्धार्थवाचितया पुण्यपापवचनौ। ये तु अकृतेनेति
+भावे निष्ठा। नित्याकरणाद्गर्हितत्वरूपो वा प्रत्यवायप्राप्तिरूपो वा
+कश्चनार्थो विदुषो नास्तीति व्याचक्षते। तेषामप्यभावात्
+भावोत्पत्तेरनभ्युपगमान्नित्यानां काले यदन्यदविहितं क्रियते तत एव
+प्रत्यवायोत्पादो वक्तव्य इति घट्टकुट्यां प्रभातवृत्तान्त आपद्यते।
+अत्रोपपत्तिमाह **न चेति।** चो हेतौ। यस्मादात्मरतेः सर्वभूतेषु
+चेतनाचेतनेषूत्तममध्यमाधमेषु कश्चिदप्यर्थव्यपाश्रयः
+सुखभोगात्मकप्रयोजनाभिसंबन्धो नास्ति आत्मरतित्वादेव निष्कामत्वाद्विदुषः
+पुण्यपापफलसंबन्धो नास्तीत्यर्थः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥3.18॥ चतुर्थपादं विवृणोति **नैवेति।** तस्यात्मरतेः कृतेन
+कर्मणाभ्युदयार्थेन ज्ञानार्थेन मोक्षार्थेन वा प्रयोजनं नैवास्ति।
+स्वर्गस्य तुच्छरुपेण ज्ञातत्वात्। ज्ञानस्य जातत्वात्नास्त्यकृतः कृतेन
+इतिश्रुत्या मोक्षस्य कर्माकार्यत्वप्रतिपादनात्। अस्तु तर्ह्यकृतेन
+प्रत्यवायाख्योऽर्थ इत्यत आह **नेति।** इह लोके कश्चिदपि
+प्रत्यवायप्राप्तिरुपः स्वहानिलक्षणोऽर्थो नास्ति आत्मरतेः
+नित्यकरणेऽधिकृतत्वाभावात्। तस्मिन्काले प्रत्यवायजनकभावरुपविहितान्यकर्मणि
+तस्य व्यापृतत्वाभावाच्च। यतो यत्किंचिदपि कस्मादपि तस्य साध्यं
+नास्तीत्याह **नचेति।** अस्य सर्वभूतेषु ब्रह्मादिस्थावरान्तेषु
+कश्चिदर्थोऽर्थामाश्रयणीयः सेवनीयो नास्ति येन तदर्था क्रियानुष्ठेया
+स्यात्। अस्मिन्श्लोके भूमिकारुढस्येत्यादिशब्दस्याभावेनाप्रासङ्गिकं
+वासिष्ठोक्तभूमिकाप्रदर्शनं कैश्चित्कृतमिति बोध्यम्।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥3.18॥ नन्वात्मविदोऽप्यभ्युदयार्थं निःश्रेयसार्थं प्रत्यवायपरिहारार्थं
+वा कर्म स्यादित्यतआह तस्यात्मरतेः कृतेन कर्मणाभ्युदयलक्षणो
+निःश्रेयसलक्षणो वाऽर्थः प्रयोजनं नैवास्ति। तस्य
+स्वर्गाद्यभ्युदयानर्थित्वात् निःश्रेयसस्य च कर्मासाध्यत्वात्। तथाचं
+श्रुतिःपरीक्ष्य लोकान्कर्मचितान्ब्राह्मणो निर्वेदमायान्नास्त्यकृतः कृतेन
+इति। अकृतो नित्यो मोक्षः कृतेन कर्मणा नास्तीत्यर्थः। ज्ञानसाध्यस्यापि
+व्यावृत्तिरेवकारेण सूचिता। आत्मरूपस्य हि निःश्रेयसस्य
+नित्यप्राप्तस्याज्ञानमात्रमप्राप्तिः। तच्च तत्वज्ञानमात्रापनोद्यम्।
+तस्मिंस्तत्त्वज्ञानेनापनुन्ने तस्यात्मविदो न किंचित्कर्मसाध्यं
+ज्ञानसाध्यं वा प्रयोजनमस्तीत्यर्थः। एवंभूतेनापि प्रत्यवायपरिहारार्थं
+कर्माण्यनुष्ठेयान्येवेत्यत आह नाकृतेनेति भावे निष्ठा। नित्यकर्माकरणेनेह
+लोके गर्हितत्वरूपः प्रत्यवायप्राप्तिरूपो वा कश्चनार्थो नास्ति।
+सर्वत्रोपपत्तिमाहोत्तरार्धेन। चो हेतौ। यस्मादस्यात्मविदः सर्वभूतेषु
+ब्रह्मादिस्थावरान्तेषु कोऽप्यर्थव्यपाश्रयः प्रयोजनसंबन्धो नास्ति
+कंचिद्भूतविशेषमाश्रित्य कोऽपि क्रियासाध्योऽर्थो नास्तीति वाक्यार्थः।
+अतोऽस्य कृताकृते निष्प्रयोजने। नैनं कृताकृते तपतः इति श्रुतेः। तस्य ह न
+देवाश्च नाभूत्या ईशत आत्मा ह्येषां स भवति इति श्रुतेर्देवा अपि तस्य
+मोक्षाभवनाय न समर्था इत्युक्तेर्न विघ्नाभावार्थमपि
+देवाराधनरूपकर्मानुष्ठानमित्यभिप्रायः। एतादृशो ब्रह्मविद्भूमिकासप्तकभेदेन
+निरूपितो वसिष्ठेनज्ञानभूमिः शुभेच्छाख्या प्रथमा परिकीर्तिता। विचारणा
+द्वितीया स्यात्तृतीया तनुमानसा॥ सत्त्वापत्तिश्चतुर्थी
+स्यात्ततोऽसंसक्तिनामिका। पदार्थाभावनी षष्ठी सप्तमी तुर्यगा स्मृता इति।
+तत्र नित्यानित्यवस्तुविवेकादिपुरःसरा फलपर्यवसायिनी मोक्षेच्छा प्रथमा।
+ततो गुरुमुपसृत्य वेदान्तवाक्यविचारः श्रवणमननात्मको द्वितीया। ततो
+निदिध्यासनाभ्यासेन मनस एकाग्रतया सूक्ष्मवस्तुग्रहणयोग्यत्वं तृतीया।
+एतद्भूमिकात्रयं साधनरूपं जाग्रदवस्थोच्यते योगिभिः अभेदेन जगतो भानात्।
+तदुक्तम्भूमिकात्रितयं त्वेतद्राम जाग्रदिति स्थितम्। यथावद्भेदबुद्ध्येदं
+जगज्जाग्रति दृश्यते॥ इति। ततो वेदान्तवाक्यान्निर्विकल्पको
+ब्रह्मात्मैक्यसाक्षात्कारश्चतुर्थी भूमिका फलरूपा सत्त्वापत्तिः
+स्वप्नावस्थोच्यते। सर्वस्यापि जगतो मिथ्यात्वेन स्फुरणात्। तदुक्तंअद्वैते
+स्थैर्यमायाते द्वैते प्रशममागते। पश्यन्ति स्वप्नवल्लोकं चतुर्थी
+भूमिकामिताः॥ इति। सोऽयं चतुर्थभूमिं प्राप्तो योगी ब्रह्मिविदित्युच्यते।
+पञ्चमीषष्ठीसप्तम्यस्तुं भूमिका जीवन्मुक्तेरेवावान्तरभेदाः। तत्र
+सविकल्पकसमाध्यभ्यासेन निरुद्धे मनसि या निर्विकल्पकसमाध्यवस्था
+साऽसंसक्तिरिति सुषुप्तिरिति चोच्यते। ततः स्वयमेव व्युत्थानात्। सोऽयं
+योगी ब्रह्मविद्वरः। ततस्तदभ्यासपरिपाकेण या चिरकालावस्थायिनी सा
+पदार्थाभावनीति गाढसुषुप्तिरिति चोच्यते। ततः स्वयमनुत्थितस्य योगिनः
+परप्रयत्नेनैव व्युत्थानात् सोऽयं ब्रह्मविद्वरीयान्। उक्तंहिपञ्चमीं
+भूमिकामेत्य सुषुप्तिपदनामिकाम्। षष्ठीं गाढसुषुप्त्याख्यां क्रमात्पतति
+भूमिकाम्॥ इति। यस्यास्तु समाध्यवस्थायाः न स्वतो न वा परतो व्युत्थितो
+भवति सर्वथा भेददर्शनाभावात् किंतु सर्वदा तन्मय एव स्वप्रयत्नमन्तरेणैव
+परमेश्वरप्रेरितप्राणवायुवशादन्यैर्निर्वाह्यमाणदैहिकव्यवहारः
+परिपूर्णपरमानन्दघन एव सर्वतस्तिष्ठति सा सप्तमी तुरीयावस्था। तां प्राप्तो
+ब्रह्मविद्वरिष्ठ इत्युच्यते। उक्तंहिषष्ठ्यां भूम्यामसौ स्थित्वा सप्तमीं
+भूमिमाप्नुयात्। किंचिदेवैष संपन्नस्त्वथवैष न किंचन॥ विदेहमुक्तता तूक्ता
+सप्तमी योगमूमिका। अगम्या वचसां शान्ता सा सीमा योगभूमिषु॥ इति।
+यामधिकृत्य श्रीमद्भागवते स्मर्यतेदेहं च नश्वरमवस्थिमुत्थितं वा सिद्धो न
+पश्यतियतोऽध्यगमत्स्वरूपम्। दैवादुपेतमथ दैववशादपेतं वासो यथा परिकृतं
+मदिरामदान्धः॥ देहोऽपि दैववशगः खलु कर्म यावत्स्वारम्भकं प्रतिसमीक्षत एव
+सासुः। तं सप्रपञ्चमधिरूढसमाधियोगः स्वाप्नं पुनर्न भजते
+प्रतिबुद्धवस्तुः॥ इति। श्रुतिश्चतद्यथाऽहिनिर्ल्वयनी वल्मीके मृता
+प्रत्यस्ता शयीतैवमेवेदं शरीरं शेतेऽथायमशरीरो मृतः प्राणो ब्रह्मैव तेज एव
+इति। तत्रायं संग्रहः चतुर्थीभूमिकाज्ञानं तिस्रः स्युः साधनं पुरा।
+जीवन्मुक्तेरवस्थास्तु परास्तिस्रः प्रकीर्तिताः॥ अत्र
+प्रथमभूमित्रयमारूढोऽज्ञोऽपि न कर्माधिकारी किं पुनस्तत्त्वज्ञानी
+तद्विशिष्टो जीवन्मुक्तो वेत्यभिप्रायः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।3.18।। तस्य कर्मकाले वक्तव्योऽहमिति कञ्चित्प्रत्युक्त्वा
+॥3.18॥ तस्य कर्मकाले वक्तव्योऽहमिति कञ्चित्प्रत्युक्त्वा
 तत्कृतावात्मरत्यधिकः प्तमो वाऽर्थो नास्ति। न च सन्ध्याद्यकृतौ
 कश्चिद्दोषोऽस्ति। न चैतदपहाय सर्वभूतेषु कश्चित्प्रयोजनाश्रयः। अर्थो येन
 दर्शनादिना भवति सोऽर्थव्यपाश्रयः। ज्ञानमात्रेण यद्यपि प्रत्यवायो न भवति
 तदर्जुनस्यपि सममिति न तस्य कर्मोपदेशोपयोग्ये तद्भवति।
 ईषत्प्रारब्धानर्थसूचकं च तद्भवति। महच्चेद्वृत्रहत्यादिवत्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।3.18।। यदीयं कार्याभावोक्तिर्न ज्ञानिमात्रस्य
+<details><summary>जयतीर्थः</summary>
+
+॥3.18॥ यदीयं कार्याभावोक्तिर्न ज्ञानिमात्रस्य
 किन्त्वसम्प्रज्ञातसमाधिस्थस्यैव तर्हिनैव तस्य कृतेनार्थः इत्युत्तरं
 वाक्यं न सम्बध्यते असम्प्रज्ञातसमाधेः करणस्यैवाभावेन
 तत्प्रयोजनाभावकथनस्यैवायोगात् ज्ञानिनस्तु करणसम्भवेन
@@ -152,217 +268,45 @@ _________________
 चित्तखेदः। उपलक्षणं चैतत्। मुक्तावानन्दह्रास इत्यपि द्रष्टव्यम्।
 (पुनश्च) मुक्तावानन्दह्रास इति श्रीनिवासतीर्थः। उपलक्षणमिति
 कृष्णाचार्यटिप्पणी। तथा विहितकरणे नानन्दवृद्धिरपीति।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।3.18।। **नैव तस्य** परमात्मरतेः **कृतेन** कर्मणा **अर्थः**
-प्रयोजनमस्ति। अस्तु तर्हि अकृतेन अकरणेन प्रत्यवायाख्यः अनर्थः **न अकृतेन
-इह** लोके **कश्चन** कश्चिदपि प्रत्यवायप्राप्तिरूपः आत्महानिलक्षणो वा नैव
-अस्ति। **न च अस्य सर्वभूतेषु** ब्रह्मादिस्थावरान्तेषु भूतेषु कश्चित्
-**अर्थव्यपाश्रयः** प्रयोजननिमित्तक्रियासाध्यः व्यपाश्रयः व्यपाश्रयणम्
-आलम्बनं कञ्चित् भूतविशेषमाश्रित्य न साध्यः कश्चिदर्थः अस्ति येन तदर्था
-क्रिया अनुष्ठेया स्यात्। न त्वम् एतस्मिन् सर्वतःसंप्लुतोदकस्थानीये
-सम्यग्दर्शने वर्तसे।। यतः एवम्
-
+॥3.17 3.19॥ यश्चेत्यादि पूरुष इत्यन्तम्। आत्मरतेस्तु कर्म इन्द्रियव्यापारतयैव कुर्वतः करणाकरणेषु समता। अत एव नासौ भूतेषु किंचिदात्मप्रयोजनमपेक्ष्य निग्रहानुग्रहौ करोति अपि तु करणीयमिदम् इत्येतावता। तस्मादसक्त एव करणीयं कर्म कुर्यात्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।3.18।। क्योंकि उस परमात्मामें प्रीतिवाले पुरुषका इस लोकमें कर्म करनेसे
-कोई प्रयोजन ही नहीं रहता है। तो फिर कर्म न करनेसे उसको प्रत्यवायरूप
-अनर्थकी प्राप्ति होती होगी ( इसपर कहते हैं ) उसके न करनेसे भी उसे इस
-लोकमें कोई प्रत्यवायप्राप्तिरूप या आत्महानिरूप अनर्थकी प्राप्ति नहीं
-होती तथा ब्रह्मासे लेकर स्थावरतक सब प्राणियोंमें उसका कुछ भी
-अर्थव्यपाश्रय नहीं होता। किसी फलके लिये ( किसी प्राणिविशेषका ) जो
-क्रियासाध्य आश्रय है उसका नाम अर्थव्यपाश्रय है सो इस आत्मज्ञानीको किसी
-प्राणिविशेषका सहारा लेकर कोई प्रयोजन सिद्ध नहीं करना है जिससे कि उसे
-तदर्थक किसी क्रियाका आरम्भ करना पड़े। परन्तु तू इस सब ओरसे परिपूर्ण
-जलाशयस्थानीय यथार्थ ज्ञानमें स्थित नहीं है।
+<details><summary>शङ्करनारायणः</summary>
 
+3.18 See Comment under 3.19
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.18 Moreover, tasya, for him, who rejoices in the supreme Self; na,
-there is no; artham, concern; eva, at all; krtena, with performing
-action. Objection: In that case, let there be some evil called sin owing
-to non-performance! Reply: Iha, here, in this world; na, nor is there;
-for him kascana, any (concern); akrtena, with nonperfromance. Certainly
-there is no evil in the form of incurring sin or in the form of
-self-destruction. Ca, moreover; asya, for him; na asti, there is no;
-kascit artha-vyapasrayah sarva-bhutesu, dependence on any object, from
-Brahma to an unmoving thing, to serve any purpose. Vyapasrayah is the
-same as vyapasrayanam, dependence, which is possible of being created by
-action promted by necessity. (For him) there is no end to gain by
-depending on any praticular object, due to which there can be some
-action for that purpose. 'You (Arjuna) are not established in this
-fullest realization which is comparable to a flood all around.'
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।3.18।। इतश्चात्मविदो न किंचित्कर्तव्यमित्याह **किञ्चेति।**
-अभ्युदयनिःश्रेयसयोरन्यतरत्प्रयोजनं कृतेन सुकृतेनात्मविदो
-भविष्यतीत्याशङ्क्याह **नैवेति।** प्रत्यवायनिवृत्तये
-स्वरूपप्रच्युतिप्रत्याख्यानाय वा कर्म स्यादित्याशङ्क्याह **नेत्यादिना।**
-ब्रह्मादिषु स्थावरान्तेषु भूतेषु कंचिद्भूतविशेषमाश्रित्य कश्चिदर्थो
-विदुषः साध्यो भविष्यति तदर्थं तेन कर्तव्यं कर्मेत्याशङ्क्याह **नचेति।**
-तत्राद्यं पादमादत्ते **नैवेति।** तं व्याचष्टे **तस्येति।** आत्मविदः
-स्वर्गाद्यभ्युदयानर्थित्वं निःश्रेयसस्य च प्राप्तत्वान्न कृतं
-कर्मार्थवदित्यर्थः। आत्मविदा चेत्कर्म न क्रियते तर्हि तेनाकृतेन
-तस्यानर्थो भविष्यतीति तत्प्रत्याख्यानार्थं तस्य कर्तव्यं कर्मेति शङ्कते
-**तर्हीति।** द्वितीयपादेनोत्तरमाह **नेत्यादिना।** अतो न तन्निवृत्त्यर्थं
-कृतमर्थवदिति शेषः। द्वितीयं भागं विभजते **नचास्येति।**
-व्यपाश्रयणमालम्बनं नेति संबन्धः। पदार्थमुक्त्वा वाक्यार्थमाह
-**कंचिदिति।** भूतविशेषस्याश्रितस्यापि क्रियाद्वारा
-प्रयोजनप्रसवहेतुत्वमिति मत्वाह **येनेति।** तर्हि मयापि यथोक्तं
-तत्त्वमाश्रित्य त्याज्यमेव कर्मेत्यर्जुनस्य मतमाशङ्क्याह **न त्वमिति।**
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।3.18।। नन्वात्मविदोऽप्यभ्युदयार्थं निःश्रेयसार्थं प्रत्यवायपरिहारार्थं
-वा कर्म स्यादित्यतआह तस्यात्मरतेः कृतेन कर्मणाभ्युदयलक्षणो
-निःश्रेयसलक्षणो वाऽर्थः प्रयोजनं नैवास्ति। तस्य
-स्वर्गाद्यभ्युदयानर्थित्वात् निःश्रेयसस्य च कर्मासाध्यत्वात्। तथाचं
-श्रुतिःपरीक्ष्य लोकान्कर्मचितान्ब्राह्मणो निर्वेदमायान्नास्त्यकृतः कृतेन
-इति। अकृतो नित्यो मोक्षः कृतेन कर्मणा नास्तीत्यर्थः। ज्ञानसाध्यस्यापि
-व्यावृत्तिरेवकारेण सूचिता। आत्मरूपस्य हि निःश्रेयसस्य
-नित्यप्राप्तस्याज्ञानमात्रमप्राप्तिः। तच्च तत्वज्ञानमात्रापनोद्यम्।
-तस्मिंस्तत्त्वज्ञानेनापनुन्ने तस्यात्मविदो न किंचित्कर्मसाध्यं
-ज्ञानसाध्यं वा प्रयोजनमस्तीत्यर्थः। एवंभूतेनापि प्रत्यवायपरिहारार्थं
-कर्माण्यनुष्ठेयान्येवेत्यत आह नाकृतेनेति भावे निष्ठा। नित्यकर्माकरणेनेह
-लोके गर्हितत्वरूपः प्रत्यवायप्राप्तिरूपो वा कश्चनार्थो नास्ति।
-सर्वत्रोपपत्तिमाहोत्तरार्धेन। चो हेतौ। यस्मादस्यात्मविदः सर्वभूतेषु
-ब्रह्मादिस्थावरान्तेषु कोऽप्यर्थव्यपाश्रयः प्रयोजनसंबन्धो नास्ति
-कंचिद्भूतविशेषमाश्रित्य कोऽपि क्रियासाध्योऽर्थो नास्तीति वाक्यार्थः।
-अतोऽस्य कृताकृते निष्प्रयोजने। नैनं कृताकृते तपतः इति श्रुतेः। तस्य ह न
-देवाश्च नाभूत्या ईशत आत्मा ह्येषां स भवति इति श्रुतेर्देवा अपि तस्य
-मोक्षाभवनाय न समर्था इत्युक्तेर्न विघ्नाभावार्थमपि
-देवाराधनरूपकर्मानुष्ठानमित्यभिप्रायः। एतादृशो ब्रह्मविद्भूमिकासप्तकभेदेन
-निरूपितो वसिष्ठेनज्ञानभूमिः शुभेच्छाख्या प्रथमा परिकीर्तिता। विचारणा
-द्वितीया स्यात्तृतीया तनुमानसा।। सत्त्वापत्तिश्चतुर्थी
-स्यात्ततोऽसंसक्तिनामिका। पदार्थाभावनी षष्ठी सप्तमी तुर्यगा स्मृता इति।
-तत्र नित्यानित्यवस्तुविवेकादिपुरःसरा फलपर्यवसायिनी मोक्षेच्छा प्रथमा।
-ततो गुरुमुपसृत्य वेदान्तवाक्यविचारः श्रवणमननात्मको द्वितीया। ततो
-निदिध्यासनाभ्यासेन मनस एकाग्रतया सूक्ष्मवस्तुग्रहणयोग्यत्वं तृतीया।
-एतद्भूमिकात्रयं साधनरूपं जाग्रदवस्थोच्यते योगिभिः अभेदेन जगतो भानात्।
-तदुक्तम्भूमिकात्रितयं त्वेतद्राम जाग्रदिति स्थितम्। यथावद्भेदबुद्ध्येदं
-जगज्जाग्रति दृश्यते।। इति। ततो वेदान्तवाक्यान्निर्विकल्पको
-ब्रह्मात्मैक्यसाक्षात्कारश्चतुर्थी भूमिका फलरूपा सत्त्वापत्तिः
-स्वप्नावस्थोच्यते। सर्वस्यापि जगतो मिथ्यात्वेन स्फुरणात्। तदुक्तंअद्वैते
-स्थैर्यमायाते द्वैते प्रशममागते। पश्यन्ति स्वप्नवल्लोकं चतुर्थी
-भूमिकामिताः।। इति। सोऽयं चतुर्थभूमिं प्राप्तो योगी ब्रह्मिविदित्युच्यते।
-पञ्चमीषष्ठीसप्तम्यस्तुं भूमिका जीवन्मुक्तेरेवावान्तरभेदाः। तत्र
-सविकल्पकसमाध्यभ्यासेन निरुद्धे मनसि या निर्विकल्पकसमाध्यवस्था
-साऽसंसक्तिरिति सुषुप्तिरिति चोच्यते। ततः स्वयमेव व्युत्थानात्। सोऽयं
-योगी ब्रह्मविद्वरः। ततस्तदभ्यासपरिपाकेण या चिरकालावस्थायिनी सा
-पदार्थाभावनीति गाढसुषुप्तिरिति चोच्यते। ततः स्वयमनुत्थितस्य योगिनः
-परप्रयत्नेनैव व्युत्थानात् सोऽयं ब्रह्मविद्वरीयान्। उक्तंहिपञ्चमीं
-भूमिकामेत्य सुषुप्तिपदनामिकाम्। षष्ठीं गाढसुषुप्त्याख्यां क्रमात्पतति
-भूमिकाम्।। इति। यस्यास्तु समाध्यवस्थायाः न स्वतो न वा परतो व्युत्थितो
-भवति सर्वथा भेददर्शनाभावात् किंतु सर्वदा तन्मय एव स्वप्रयत्नमन्तरेणैव
-परमेश्वरप्रेरितप्राणवायुवशादन्यैर्निर्वाह्यमाणदैहिकव्यवहारः
-परिपूर्णपरमानन्दघन एव सर्वतस्तिष्ठति सा सप्तमी तुरीयावस्था। तां प्राप्तो
-ब्रह्मविद्वरिष्ठ इत्युच्यते। उक्तंहिषष्ठ्यां भूम्यामसौ स्थित्वा सप्तमीं
-भूमिमाप्नुयात्। किंचिदेवैष संपन्नस्त्वथवैष न किंचन।। विदेहमुक्तता तूक्ता
-सप्तमी योगमूमिका। अगम्या वचसां शान्ता सा सीमा योगभूमिषु।। इति।
-यामधिकृत्य श्रीमद्भागवते स्मर्यतेदेहं च नश्वरमवस्थिमुत्थितं वा सिद्धो न
-पश्यतियतोऽध्यगमत्स्वरूपम्। दैवादुपेतमथ दैववशादपेतं वासो यथा परिकृतं
-मदिरामदान्धः।। देहोऽपि दैववशगः खलु कर्म यावत्स्वारम्भकं प्रतिसमीक्षत एव
-सासुः। तं सप्रपञ्चमधिरूढसमाधियोगः स्वाप्नं पुनर्न भजते
-प्रतिबुद्धवस्तुः।। इति। श्रुतिश्चतद्यथाऽहिनिर्ल्वयनी वल्मीके मृता
-प्रत्यस्ता शयीतैवमेवेदं शरीरं शेतेऽथायमशरीरो मृतः प्राणो ब्रह्मैव तेज एव
-इति। तत्रायं संग्रहः चतुर्थीभूमिकाज्ञानं तिस्रः स्युः साधनं पुरा।
-जीवन्मुक्तेरवस्थास्तु परास्तिस्रः प्रकीर्तिताः।। अत्र
-प्रथमभूमित्रयमारूढोऽज्ञोऽपि न कर्माधिकारी किं पुनस्तत्त्वज्ञानी
-तद्विशिष्टो जीवन्मुक्तो वेत्यभिप्रायः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।3.18।। एतदेवाह **नैवेति।** तस्यात्मरतेः कृतेन कर्मणार्थः प्रयोजनं
-नास्ति। स्वर्गादौ लिप्साभावात्। मोक्षस्य चाक्रियासाध्यत्वात्नास्त्यकृतः
-कृतेन इति श्रुतेः। अकृतो मोक्षः कृतेन कर्मणा नास्तीति श्रुत्यर्थः।
-अकृतेन विरुद्धकर्मणाप्यर्थो नरकादिरस्य नास्ति। अत्र कृताकृतशब्दौ
-मित्रामित्रपदवत्परस्परविरुद्धार्थवाचितया पुण्यपापवचनौ। ये तु अकृतेनेति
-भावे निष्ठा। नित्याकरणाद्गर्हितत्वरूपो वा प्रत्यवायप्राप्तिरूपो वा
-कश्चनार्थो विदुषो नास्तीति व्याचक्षते। तेषामप्यभावात्
-भावोत्पत्तेरनभ्युपगमान्नित्यानां काले यदन्यदविहितं क्रियते तत एव
-प्रत्यवायोत्पादो वक्तव्य इति घट्टकुट्यां प्रभातवृत्तान्त आपद्यते।
-अत्रोपपत्तिमाह **न चेति।** चो हेतौ। यस्मादात्मरतेः सर्वभूतेषु
-चेतनाचेतनेषूत्तममध्यमाधमेषु कश्चिदप्यर्थव्यपाश्रयः
-सुखभोगात्मकप्रयोजनाभिसंबन्धो नास्ति आत्मरतित्वादेव निष्कामत्वाद्विदुषः
-पुण्यपापफलसंबन्धो नास्तीत्यर्थः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।3.18।। चतुर्थपादं विवृणोति **नैवेति।** तस्यात्मरतेः कृतेन
-कर्मणाभ्युदयार्थेन ज्ञानार्थेन मोक्षार्थेन वा प्रयोजनं नैवास्ति।
-स्वर्गस्य तुच्छरुपेण ज्ञातत्वात्। ज्ञानस्य जातत्वात्नास्त्यकृतः कृतेन
-इतिश्रुत्या मोक्षस्य कर्माकार्यत्वप्रतिपादनात्। अस्तु तर्ह्यकृतेन
-प्रत्यवायाख्योऽर्थ इत्यत आह **नेति।** इह लोके कश्चिदपि
-प्रत्यवायप्राप्तिरुपः स्वहानिलक्षणोऽर्थो नास्ति आत्मरतेः
-नित्यकरणेऽधिकृतत्वाभावात्। तस्मिन्काले प्रत्यवायजनकभावरुपविहितान्यकर्मणि
-तस्य व्यापृतत्वाभावाच्च। यतो यत्किंचिदपि कस्मादपि तस्य साध्यं
-नास्तीत्याह **नचेति।** अस्य सर्वभूतेषु ब्रह्मादिस्थावरान्तेषु
-कश्चिदर्थोऽर्थामाश्रयणीयः सेवनीयो नास्ति येन तदर्था क्रियानुष्ठेया
-स्यात्। अस्मिन्श्लोके भूमिकारुढस्येत्यादिशब्दस्याभावेनाप्रासङ्गिकं
-वासिष्ठोक्तभूमिकाप्रदर्शनं कैश्चित्कृतमिति बोध्यम्।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।3.18।। नैवेति। तस्य कृतेन निषिद्धेन चार्थः फलं सुखदुःखादि नास्ति।
+॥3.18॥ नैवेति। तस्य कृतेन निषिद्धेन चार्थः फलं सुखदुःखादि नास्ति।
 किञ्चार्थार्थमाश्रयः कश्चिन्नास्ति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।3.18।। तस्य तादृशस्य भक्तस्य कृतेनापि कर्मणा अर्थः प्रयोजनं
+<details><summary>पुरुषोत्तमः</summary>
+
+॥3.18॥ तस्य तादृशस्य भक्तस्य कृतेनापि कर्मणा अर्थः प्रयोजनं
 पुण्यादिरूपं नास्तीत्यर्थः। अकृतेन च कश्चन प्रत्यवायपापादिकं च
 नास्तीत्यर्थः। अस्य भक्तस्य सर्वभूतेषु देवादिषु अर्थार्थं
-मोक्षभक्त्याद्यर्थं च व्यपाश्रय आश्रयो नास्तीत्यर्थः।  
-  
-
+मोक्षभक्त्याद्यर्थं च व्यपाश्रय आश्रयो नास्तीत्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/18_naiva_tasya.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।3.18।। तत्र हेतुमाह **नैव तस्येति।** कृतेन कर्मणा तस्यार्थः पुण्यं
+॥3.18॥ तत्र हेतुमाह **नैव तस्येति।** कृतेन कर्मणा तस्यार्थः पुण्यं
 नैवास्ति। न चाकृतेन कश्चन कोऽपि प्रत्यवायोऽस्ति। निरहंकारत्वेन
 विधिनिषेधातीतत्वात् तथापितस्मात्तदेषां न प्रियं यदेतन्मनुष्या विदुः इति
 श्रुतेर्मोक्षे देवकृतविघ्नसंभवात्तत्परिहारार्थ कर्मभिर्देवाः सेव्या
@@ -375,48 +319,55 @@ _________________
 प्रागेवयदेतद्ब्रह्म मनुष्या विदुस्तदेषां देवानां न प्रियम् इति श्रुत्या
 ब्रह्मज्ञानस्यैवाप्रियत्वोक्त्या तत्रैव विघ्नकर्तृत्वस्य सूचितत्वात्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।3.18।। सामान्य मनुष्य कर्म में दो कारणों से प्रवृत्त होता है (क) कर्म
-करने से (कृत) कुछ लाभ की आशा और (ख) कर्म न करने से (अकृत) किसी हानि का
-भय। परन्तु जिसने अपने परम पूर्ण आत्मस्वरूप को साक्षात् कर लिया ऐसे तृप्त
-और सन्तुष्ट पुरुष को कर्म करने अथवा न करने से कोई प्रयोजन नहीं रह जाता
-क्योंकि उसे न अधिक लाभ की आशा होती है और न हानि का भय। आत्मानुभूति में
-स्थित वह पुरुष आनन्द के लिये किसी भी वस्तु या व्यक्ति पर आश्रित नहीं
-होता। परमार्थ दृष्टि से बाह्य विषय रूप जगत् आत्मस्वरूप से भिन्न नहीं है।
-वास्तव में आत्मा ही अविद्या वृत्ति से जगत् के रूप में प्रतीत होता
-है। चूँकि तुमने समुद्र के समान पूर्णत्व प्राप्त नहीं किया है इसलिए
-
+3.18 He has no purpose to gain by work done or left undone, nor has he to rely on any end.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।3.18।। इस जगत् में उस पुरुष का कृत और अकृत से कोई प्रयोजन नहीं है और न
-वह किसी वस्तु के लिये भूतमात्र पर आश्रित होता है।।  
-  
+<details><summary>गम्भीरानन्दः</summary>
 
+3.18 For him there is no concern here at all with performing action; nor any (concern) with nonperformance. Moreover, for him there is no dependence on any object to serve any purpose.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+3.18 He has nothing to gain by the performance or non-performance of action. His welfare depends not on any contribution that an earthly creature can make.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+3.18. No purpose is served for him by what he has done or by what he has not done. For him there is hardly any dependenc on any purpose among all beings.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+3.18 For him there is no interest whatever in what is done or what is not done; nor does he depend on any being for any object.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+3.18 न not; एव even; तस्य of hi; कृतेन by action; अर्थः concern; न not;
+अकृतेन by actions not done; इह here; कश्चन् any; न not; च and; अस्य of this man; सर्वभूतेषु in all beings; कश्चित् any; अर्थव्यपाश्रयः
+depending for any object.Commentary The sage who is thus rejoicing in the Self does not gain anything by doing any action. For him really no purpose is served by an action. No evil (Pratyavaya Dosha) can touch him from inaction. He does not lose anything from inaction. He need not depend upon anybody to gain a particular object. He need not exert himself to get the favour of anybody.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.18।। उस (कर्मयोगसे सिद्ध हुए) महापुरुषका इस संसारमें न तो कर्म
 करनेसे कोई प्रयोजन रहता है, और न कर्म न करनेसे ही कोई प्रयोजन रहता है,
 तथा सम्पूर्ण प्राणियोंमें (किसी भी प्राणीके साथ) इसका किञ्चिन्मात्र भी
 स्वार्थका सम्बन्ध नहीं रहता।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 3.18।।***व्याख्या--*'नैव तस्य कृतेनार्थः'--**प्रत्येक मनुष्यकी
 कुछ-न-कुछ करनेकी प्रवृत्ति होती है। जबतक यह करनेकी प्रवृत्ति किसी
@@ -562,54 +513,25 @@ _________________
 ***सम्बन्ध--***पीछेके दो श्लोकोंमें वर्णित महापुरुषकी स्थितिको प्राप्त
 करनेके लिये साधकको क्या करना चाहिये--इसपर भगवान् आगेके श्लोकमें साधन
 बताते हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-3.18. No purpose is served for him by what he has done or by what he has not done. For him there is hardly any dependenc on any purpose among all beings.
-
+।।3.18।। सामान्य मनुष्य कर्म में दो कारणों से प्रवृत्त होता है (क) कर्म
+करने से (कृत) कुछ लाभ की आशा और (ख) कर्म न करने से (अकृत) किसी हानि का
+भय। परन्तु जिसने अपने परम पूर्ण आत्मस्वरूप को साक्षात् कर लिया ऐसे तृप्त
+और सन्तुष्ट पुरुष को कर्म करने अथवा न करने से कोई प्रयोजन नहीं रह जाता
+क्योंकि उसे न अधिक लाभ की आशा होती है और न हानि का भय। आत्मानुभूति में
+स्थित वह पुरुष आनन्द के लिये किसी भी वस्तु या व्यक्ति पर आश्रित नहीं
+होता। परमार्थ दृष्टि से बाह्य विषय रूप जगत् आत्मस्वरूप से भिन्न नहीं है।
+वास्तव में आत्मा ही अविद्या वृत्ति से जगत् के रूप में प्रतीत होता
+है। चूँकि तुमने समुद्र के समान पूर्णत्व प्राप्त नहीं किया है इसलिए
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.18 For him there is no concern here at all with performing action; nor any (concern) with nonperformance. Moreover, for him there is no dependence on any object to serve any purpose.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।3.18।। इस जगत् में उस पुरुष का कृत और अकृत से कोई प्रयोजन नहीं है और न
+वह किसी वस्तु के लिये भूतमात्र पर आश्रित होता है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.18 He has nothing to gain by the performance or non-performance of action. His welfare depends not on any contribution that an earthly creature can make.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-3.18 He has no purpose to gain by work done or left undone, nor has he to rely on any end.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-3.18 For him there is no interest whatever in what is done or what is not done; nor does he depend on any being for any object.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/03_karma-yogaH/18_naiva_tasya.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-3.18 न not; एव even; तस्य of hi; कृतेन by action; अर्थः concern; न not;
-अकृतेन by actions not done; इह here; कश्चन् any; न not; च and; अस्य of this man; सर्वभूतेषु in all beings; कश्चित् any; अर्थव्यपाश्रयः
-depending for any object.Commentary The sage who is thus rejoicing in the Self does not gain anything by doing any action. For him really no purpose is served by an action. No evil (Pratyavaya Dosha) can touch him from inaction. He does not lose anything from inaction. He need not depend upon anybody to gain a particular object. He need not exert himself to get the favour of anybody.
-
-</details>
 </div>

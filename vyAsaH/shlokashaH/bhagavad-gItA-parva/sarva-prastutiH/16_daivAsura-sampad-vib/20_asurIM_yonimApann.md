@@ -1,153 +1,59 @@
 +++
 title = "20 असुरीं योनिमापन्ना"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 असुरीं योनिम् आपन्ना  
 मूढा जन्मनि जन्मनि।  
 माम् अप्राप्यैव कौन्तेय  
 ततो **यान्त्य् अधमां गतिम्**॥16.20॥+++(5)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 असुरीं योनिमापन्ना मूढा जन्मनि जन्मनि।  
-मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम्।।16.20।।
+मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम्॥16.20॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।16.20।। मदानुकूल्यप्रत्यनीकजन्मापन्नाः पुनः अपि **जन्मनि जन्मनि मूढा**
-मद्विपरीतज्ञानाः **माम् अप्राप्य एव,अस्ति भगवान् वासुदेवः सर्वेश्वरः इति
-ज्ञानम् अप्राप्य ततः** ततो **जन्मनः** अधमाम् **एव** गतिं यान्ति। अस्य
-आसुरस्वभावस्य आत्मनाशस्य मूलहेतुम् आह --
-
+॥16.20॥ मद्-आनुकूल्य-प्रत्यनीक-जन्मापन्नाः  
+पुनो ऽपि **जन्मनि जन्मनि मूढा** मद्-विपरीत-ज्ञानाः  
+**माम् अप्राप्य +एव**,  
+"अस्ति भगवान् वासुदेवः सर्वेश्वर" इति ज्ञानम् अप्राप्य  
+**ततः** ततो जन्मनः **अधमाम्** एव **गतिं** यान्ति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।16.20।। उत्तरोत्तरमपकर्षपरम्परोच्यते -- आसुरीम् इति श्लोकेन। मूढशब्दतः
-फलितमाहमद्विपरीतज्ञाना इति। यद्वा विपरीतज्ञानमेवात्र मोहः स च
-वाक्यार्थानुगुण्यात्स्वविषयो विशेषितः। सत्त्वोत्तराणामपि
-परब्रह्मप्राप्तेरनेकजन्मसंसिद्धिसाध्यतया तामसेषु
-तत्प्रसङ्गप्रतिषेधयोरनौचित्यात्प्राप्तेः
-प्रथमपवभूतशास्त्रजन्यज्ञानप्राप्तिरिहाशास्त्रवश्येष्वासुरेषु
-प्रतिक्षिप्यते। तत्र शास्त्रजन्यज्ञानत्वव्यक्त्यर्थमाह -- अस्ति
-भगवानिति। अधमत्वस्योत्तमावधिसापेक्षत्वादवधिसमर्पणसमर्थतया सन्निहितः
-ततश्शब्दो न हेतुपर उचित इत्यभिप्रायेणाऽऽहततस्ततो जन्मन इति।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥16.20॥ उत्तरोत्तरमपकर्षपरम्परोच्यते -- आसुरीम् इति श्लोकेन। मूढशब्दतः फलितमाहमद्विपरीतज्ञाना इति। यद्वा विपरीतज्ञानमेवात्र मोहः स च वाक्यार्थानुगुण्यात्स्वविषयो विशेषितः। सत्त्वोत्तराणामपि परब्रह्मप्राप्तेरनेकजन्मसंसिद्धिसाध्यतया तामसेषु तत्प्रसङ्गप्रतिषेधयोरनौचित्यात्प्राप्तेः प्रथमपवभूतशास्त्रजन्यज्ञानप्राप्तिरिहाशास्त्रवश्येष्वासुरेषु प्रतिक्षिप्यते। तत्र शास्त्रजन्यज्ञानत्वव्यक्त्यर्थमाह -- अस्ति भगवानिति। अधमत्वस्योत्तमावधिसापेक्षत्वादवधिसमर्पणसमर्थतया सन्निहितः ततश्शब्दो न हेतुपर उचित इत्यभिप्रायेणाऽऽहततस्ततो जन्मन इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 16.20 'These deluded men,' viz., those entertaining perverse knowledge about Me, attain repeatedly births that tend them to be antagonistic to Me. Never 'attaining Me,' viz., never arriving at the knowledge that Vasudeva, the Lord and the ruler of all, truly exists, they go farther and farther down, from that birth, to the lowest level. Sri Krsna proceeds to explain the root-cause of the ruin to the self of demoniac nature:
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।16.17 -- 16.20।। आत्मसंभाविता इत्यादि गतिमित्यन्तम्। यज्ञैर्यजन्ते नाम;
-निष्फलमित्यर्थः। क्रोधेन हि सर्वं नश्यतीत्यर्थः। यद्वा नामयज्ञैः;
-संज्ञामात्रेणैव +++(S; omit एव)+++ ये यज्ञाः तैः +++(S; omit तैः)+++। अथवा --
-नामार्थं प्रसिद्ध्यर्थं ये यज्ञाः +++(omits ये यज्ञाः)+++ -- येन +++(S omits
-येन)+++ यज्ञयाजी अयम् इति व्यपदेशो जायते -- ते दम्भपूर्वका एव; न तु फलन्ति।
-क्रोधादिरूषितत्वादेव लोकान् द्विषन्तो मामेव द्विषन्ति। अहं वासुदेवो हि
-सर्वावासः। आत्मनि च द्वेषवन्तः आत्मनो ( आत्मने) ह्यहितं निरयपातहेतुम्
-आचरन्ति +++(S उपाचरन्ति)+++। तांश्चाहम् आसुरीष्वेव योनिषु क्षिपामि।
-
+॥16.20॥ --,**आसुरीं योनिम् आपन्नाः** प्रतिपन्नाः **मूढाः** अविवेकिनः **जन्मनि जन्मनि** प्रतिजन्म तमोबहुलास्वेव योनिषु जायमानाः अधो गच्छन्तो मूढाः **माम्** ईश्वरम् **अप्राप्य** अनासाद्य **एव** हे **कौन्तेय; ततः** तस्मादपि **यान्ति अधमां** गतिं निकृष्टतमां **गतिम्।** माम् अप्राप्यैव इति न मत्प्राप्तौ काचिदपि आशङ्का अस्ति; अतः मच्छिष्टसाधुमार्गम् अप्राप्य इत्यर्थः॥ सर्वस्या आसुर्याः संपदः संक्षेपः अयम् उच्यते; यस्मिन् त्रिविधे सर्वः आसुरीसंपद्भेदः अनन्तोऽपि अन्तर्भवति। यत्परिहारेण परिहृतश्च भवति; यत् मूलं सर्वस्य अनर्थस्य; तत् एतत् उच्यते --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.17-20 Atmasambhavitah etc. upto gatim. They pretend to perform
-sacrifices : The meaning is that their sacrifice is fruitless. Indeed
-all is ruined because of their anger. Or, namayjna \[may mean\] 'the
-sacrifices which are in name only'. Or, it \[may denote\] those
-sacrifices that are performed for one's name sake i.e., for one's
-reputation, because of which one gets the appellation as 'He is
-performer of \[such and such\] sacrifices' These sacrifices, performed
-out of hypocricy alone, do not , however fetch any fruit. Becasue these
-persons are rugged with anger etc., they hate people and by that they
-hate Me only \[in fact\]. For, I, the Vasudeva (the Universal Soul),
-dwell every-where. Entertaining hatred towards their own Soul, they
-perform action, that is hostile to themselves, and responsible for their
-own fall into the hells. These persons I hurl into nothing but the
-demoniac wombs.
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।16.20।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।16.20।। Sri Jayatirtha did not comment on this sloka.  
-  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।16.20।। --,**आसुरीं योनिम् आपन्नाः** प्रतिपन्नाः **मूढाः** अविवेकिनः
-**जन्मनि जन्मनि** प्रतिजन्म तमोबहुलास्वेव योनिषु जायमानाः अधो गच्छन्तो
-मूढाः **माम्** ईश्वरम् **अप्राप्य** अनासाद्य **एव** हे **कौन्तेय; ततः**
-तस्मादपि **यान्ति अधमां** गतिं निकृष्टतमां **गतिम्।** माम् अप्राप्यैव
-इति न मत्प्राप्तौ काचिदपि आशङ्का अस्ति; अतः मच्छिष्टसाधुमार्गम् अप्राप्य
-इत्यर्थः।। सर्वस्या आसुर्याः संपदः संक्षेपः अयम् उच्यते; यस्मिन् त्रिविधे
-सर्वः आसुरीसंपद्भेदः अनन्तोऽपि अन्तर्भवति। यत्परिहारेण परिहृतश्च भवति;
-यत् मूलं सर्वस्य अनर्थस्य; तत् एतत् उच्यते --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।16.20।। वे मूढ -- अविवेकीजन; जन्मजन्ममें यानी प्रत्येक जन्ममें आसुरी
-योनिको पाते हुए अर्थात् जिनमें तमोगुणकी बहुलता है; ऐसी योनियोंमें जन्मते
-हुए; नीचे गिरतेगिरते मुझ ईश्वरको न पाकर; उन पूर्वप्राप्त योनियोंकी
-अपेक्षा भी अधिक अधमगतिको प्राप्त होते हैं। मुझे प्राप्त न होकर ऐसा
-कहनेका तात्पर्य यह है कि मेरे द्वारा कहे हुए श्रेष्ठ मार्गको भी न पाकर;
-क्योंकि मेरी प्राप्तिकी तो उनके लिये कोई आशङ्का ही नहीं है।  
-  
-,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 16.20 Apannah, being born, having acired; (births) asurim, among the
 demoniacal; yonim, species; janmani janmani, in births after births; the
@@ -162,24 +68,51 @@ the demoniacal alities. The triplet-under which are comprehended all the
 different demoniacal alities though they are infinite in number, (and)
 by the avoidance of which (three) they (all the demaniacal alities)
 become rejected, and which is the root of all evils- is being stated:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।16.20।। ननु तेषामपि क्रमेण बहूनां जन्मनामन्ते श्रेयो भविष्यति नेत्याह
+<details><summary>हरिकृष्णदासः</summary>
+
+॥16.20॥ वे मूढ -- अविवेकीजन; जन्मजन्ममें यानी प्रत्येक जन्ममें आसुरी
+योनिको पाते हुए अर्थात् जिनमें तमोगुणकी बहुलता है; ऐसी योनियोंमें जन्मते
+हुए; नीचे गिरतेगिरते मुझ ईश्वरको न पाकर; उन पूर्वप्राप्त योनियोंकी
+अपेक्षा भी अधिक अधमगतिको प्राप्त होते हैं। मुझे प्राप्त न होकर ऐसा
+कहनेका तात्पर्य यह है कि मेरे द्वारा कहे हुए श्रेष्ठ मार्गको भी न पाकर;
+क्योंकि मेरी प्राप्तिकी तो उनके लिये कोई आशङ्का ही नहीं है।  
+  
+,
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥16.20॥ ननु तेषामपि क्रमेण बहूनां जन्मनामन्ते श्रेयो भविष्यति नेत्याह
 -- **असुरीमिति।** तेषामीश्वरप्राप्तिशङ्काभावे कथं तन्निषेधः
 स्यादित्याशङ्क्याह -- **मामित्यादिना।** यस्मादासुरी संपदनर्थपरंपरया
 सर्वपुरुषार्थपरिपन्थिनी तस्मात् यावत्पुरुषः स्वतन्त्रो न
 कांचित्पारवश्यकरीं योनिमापन्नस्तावदेव तेनासौ परिहरणीयेति समुदायार्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।16.20।। ननु तेषामपि क्रमेण बहूनां जन्मनामन्ते श्रेयो भविष्यति नेत्याह
+<details><summary>नीलकण्ठः</summary>
+
+॥16.20॥ आसुरयोनिप्राप्तेरपि फलमाह -- **आसुरीमिति।** अधमां नारकीम्।
+तिर्यक्स्थावरादिरूपां वा।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥16.20॥ ननु तेषामपि क्रमेण बहूनां जन्मनामन्ते श्रोयो भविष्यति नेत्याह
+-- आसुरीमिति। मूढा अविवेकिनो जन्मनि जन्मनि प्रतिजन्मासुरीं योनिमापन्नाः
+प्राप्ता मामीश्वरमप्राप्यैनासाद्यैव मत्प्राप्तिशङ्काया
+अप्यभावात्। ,मच्छिष्टसाधुमार्गप्राप्तिमप्राप्येत्येवकारेण सूचितम्। तत
+आसूर्या योनितोऽप्यधमां निकृष्टां गतिं यान्ति तेषां श्रेयः कदापि न
+भविष्यतीति भावः। कौन्तेयेति संबोधयन् त्वं तु मत्पितृष्वसृपुत्रत्वान्मां
+प्राप्यासूर्यादियोनिषु गन्तुमयोग्योऽसीति मा शुच इति द्योतयति। यस्मादसुरी
+संपदनर्थपरम्परारूपा सर्वपुरुषार्थपरिपन्थिनी तस्माद्दैवानुग्रहान्मानुषीं
+योनिपापन्नैः सर्वथैवेयं परिहरणीयेति समुदायार्थः।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥16.20॥ ननु तेषामपि क्रमेण बहूनां जन्मनामन्ते श्रेयो भविष्यति नेत्याह
 -- आसुरीमिति। ये कदाचिदासुरीं योनिमापन्नास्ते जन्मनि जन्मनि प्रतिजन्म
 मूढास्तमोबहुलत्वेनाविवेकिनःस्ततस्तस्मादपि यान्त्यधमां गतिं निकृष्टतमां
 गतिम्। मामप्राप्येति न मत्प्राप्तौ काचिदाशङ्काप्यस्त्यतो मदुपदिष्टं
@@ -195,115 +128,117 @@ become rejected, and which is the root of all evils- is being stated:
 साधनानुष्ठानायोग्यत्वान्न कदापि निस्तारोऽस्तीति महत्संकटमापद्येतेति
 समुदायार्थः। तदुक्तंइहैव नरकव्याधेश्चिकित्सां न करोति यः। गत्वा निरौषधं
 स्थानं सरुजः किं करिष्यति इति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।16.20।। आसुरयोनिप्राप्तेरपि फलमाह -- **आसुरीमिति।** अधमां नारकीम्।
-तिर्यक्स्थावरादिरूपां वा।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।16.20।। ननु तेषामपि क्रमेण बहूनां जन्मनामन्ते श्रोयो भविष्यति नेत्याह
--- आसुरीमिति। मूढा अविवेकिनो जन्मनि जन्मनि प्रतिजन्मासुरीं योनिमापन्नाः
-प्राप्ता मामीश्वरमप्राप्यैनासाद्यैव मत्प्राप्तिशङ्काया
-अप्यभावात्। ,मच्छिष्टसाधुमार्गप्राप्तिमप्राप्येत्येवकारेण सूचितम्। तत
-आसूर्या योनितोऽप्यधमां निकृष्टां गतिं यान्ति तेषां श्रेयः कदापि न
-भविष्यतीति भावः। कौन्तेयेति संबोधयन् त्वं तु मत्पितृष्वसृपुत्रत्वान्मां
-प्राप्यासूर्यादियोनिषु गन्तुमयोग्योऽसीति मा शुच इति द्योतयति। यस्मादसुरी
-संपदनर्थपरम्परारूपा सर्वपुरुषार्थपरिपन्थिनी तस्माद्दैवानुग्रहान्मानुषीं
-योनिपापन्नैः सर्वथैवेयं परिहरणीयेति समुदायार्थः।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।16.20।। आसुरीमिति। मामप्राप्यैव दृष्ट्यादिनाऽप्यसम्बध्यैवाऽधमां गतिं
+॥16.20॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥16.20॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
+
+<details><summary>मूलम्</summary>
+
+॥16.17 -- 16.20॥ आत्मसंभाविता इत्यादि गतिमित्यन्तम्। यज्ञैर्यजन्ते नाम; निष्फलमित्यर्थः। क्रोधेन हि सर्वं नश्यतीत्यर्थः। यद्वा नामयज्ञैः; संज्ञामात्रेणैव +++(S; omit एव)+++ ये यज्ञाः तैः +++(S; omit तैः)+++। अथवा -- नामार्थं प्रसिद्ध्यर्थं ये यज्ञाः +++(omits ये यज्ञाः)+++ -- येन +++(S omits येन)+++ यज्ञयाजी अयम् इति व्यपदेशो जायते -- ते दम्भपूर्वका एव; न तु फलन्ति। क्रोधादिरूषितत्वादेव लोकान् द्विषन्तो मामेव द्विषन्ति। अहं वासुदेवो हि सर्वावासः। आत्मनि च द्वेषवन्तः आत्मनो ( आत्मने) ह्यहितं निरयपातहेतुम् आचरन्ति +++(S उपाचरन्ति)+++। तांश्चाहम् आसुरीष्वेव योनिषु क्षिपामि।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+16.17-20 Atmasambhavitah etc. upto gatim. They pretend to perform sacrifices : The meaning is that their sacrifice is fruitless. Indeed all is ruined because of their anger. Or, namayjna \[may mean\] 'the sacrifices which are in name only'. Or, it \[may denote\] those sacrifices that are performed for one's name sake i.e., for one's reputation, because of which one gets the appellation as 'He is performer of \[such and such\] sacrifices' These sacrifices, performed out of hypocricy alone, do not , however fetch any fruit. Becasue these persons are rugged with anger etc., they hate people and by that they hate Me only \[in fact\]. For, I, the Vasudeva (the Universal Soul), dwell every-where. Entertaining hatred towards their own Soul, they perform action, that is hostile to themselves, and responsible for their own fall into the hells. These persons I hurl into nothing but the demoniac wombs.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
+
+<details><summary>मूलम्</summary>
+
+॥16.20॥ आसुरीमिति। मामप्राप्यैव दृष्ट्यादिनाऽप्यसम्बध्यैवाऽधमां गतिं
 यान्ति। एवकारेण मत्प्राप्त्युपायभूतसन्मार्गप्राप्तिरपि नास्ति तेषां कुतः
 पुनर्मत्प्राप्तिः ततोऽन्धन्तमो मायैवाधमगतिरित्युक्तम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।16.20।। तद्योनिप्राप्तानां फलमाह -- आसुरीमिति। जन्मनि जन्मनि --
+<details><summary>पुरुषोत्तमः</summary>
+
+॥16.20॥ तद्योनिप्राप्तानां फलमाह -- आसुरीमिति। जन्मनि जन्मनि --
 तथात्वज्ञापनाय वीप्सा -- हे कौन्तेय आसुरीं योनिं मद्धर्माचरणप्रतिकूलां
 योनिं प्राप्य मत्प्राप्तिसाधनाभावात् मामप्राप्यैव ततो जन्मसमाप्तौ अधमां
 गतिमन्धन्तमःप्रवेशरूपां यान्ति; प्राप्नुवन्तीत्यर्थः।
 एवकारेणाऽवतारदशायां सर्वदर्शनयोग्यायामपि स्वरूपाज्ञानान्मद्दर्शनमप्राप्य
 गच्छन्तीति ज्ञापितम्। कौन्तेयेति सम्बोधनाद्भक्त गृहजन्मप्राप्त्या
-स्वप्राप्तियोग्यत्वं ज्ञापितम्।  
-  
-
+स्वप्राप्तियोग्यत्वं ज्ञापितम्।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।16.20।। किंच **-- आसुरीमिति।** ते च मामप्राप्यैवेत्येवकारेण
+॥16.20॥ किंच **-- आसुरीमिति।** ते च मामप्राप्यैवेत्येवकारेण
 मत्प्राप्तिशङ्का कुतस्तेषां। मत्प्राप्त्युपायं सन्मार्गमप्यप्राप्य
 ततोऽप्यधमां गतिं कृमिकीटादियोनिं यान्तीत्युक्तम्। शेषं स्पष्टम्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।16.20।। इस श्लोक का तात्पर्य यह है कि जब तक मनुष्य अपनी आसुरी
-प्रवृत्तियों के वश में उनका दास बना रहता है तब तक वह उसी प्रकार के हीन
-जन्मों को प्राप्त होता रहता है। वह आत्मा के परमानन्द स्वरूप का अनुभव
-नहीं कर पाता है। अब तक दैवी और आसुरी सम्पदाओं का स्पष्ट एवं विस्तृत
-विवेचन किया गया है। बहुसंख्यक लोगों की न्यूनाधिक मात्रा में असुरों की
-श्रेणी में ही गणना की जा सकती है। परन्तु एक आध्यात्मिक साधक को केवल ऐसे
-वर्णनों से सन्तोष नहीं होता। वह अपनी पतित अवस्था से स्वयं का उद्धार करना
-चाहता है। अत; अब भगवान् श्रीकृष्ण अर्जुन के माध्यम से मानवमात्र के
-आत्मविकास का पथ प्रदर्शन करते हैं। कोई भी व्यक्ति नित्य निरन्तर नारकीय
-यातनाओं का ही भागीदार नहीं हो सकता है शाश्वत नरक प्राप्ति का मत
-अयुक्तियुक्त और अदार्शनिक है। भगवान् कहते हैं
-
+16.20 Fallen into demoniac wombs in birth after birth, these deluded men, not attaining Me, further sink down to the lowest level, O Arjuna.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।16.20।। हे कौन्तेय ! वे मूढ़ पुरुष जन्मजन्मान्तर में आसुरी योनि को
-प्राप्त होते हैं और ( इस प्रकार) मुझे प्राप्त न होकर अधम गति को प्राप्त
-होते है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+16.20 Being born among the demoniacal species in births after births,
+the foods, without ever reaching Me, O son of Kunti, attain conditions lower than that.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+16.20 So reborn, they spend life after life, enveloped in delusion. And they never reach Me, O Prince, but degenerate into still lower forms of life.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+16.20. Having come to the demoniac womb, birth after birth, and not attaining Me at all, these deluded persons, therefore, pass to the lowest state, O son of Kunti !
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+16.20 Entering into demoniacal wombs and deluded, birth after birth, not attaining Me, they thus fall, O Arjuna, into a condition still lower than that.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+16.20 असुरीम् demoniacal; योनिम् womb; आपन्नाः entering into; मूढाः
+deluded; जन्मनि जन्मनि in birth after birth; माम् Me; अप्राप्य not attaining; एव still; कौन्तेय O son of Kunti (Arjuna); ततः than that;
+यान्ति (they) fall into; अधमाम् lower; गतिम् condition (path or goal).Commentary These degraded Asuras are cast into the demoniacal wombs. They are reduced to the very lowest condition or the most appalling state. They are cast into utter darkness. They fall into lower and yet lower wombs in response to their own satanic desires and actions and their extreme Tamasic nature. From the birth of a tiger; they will get the birth of a serpent from a serpents they will get the birth of a wormfrom that they will get the birth of a tree; etc. In Sanskrit the suffix Tara denotes comparative degree and Tama is superlative degree.
+These people get Nikrishtatama Yonis (the lowest wombs).They do not reach Me as their minds are filled with impurities; as they do not tread the path of righteousness in accordance with the injunctions of the scriptures. The diabolical nature is inimical to spiritual progress.
+Therefore; you will have to annihilate the evil tendencies by cultivating divine alities and the practice of regular meditation. Then and only then will you attain liberation.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.20।। हे कुन्तीनन्दन ! वे मूढ मनुष्य मेरेको प्राप्त न करके ही
 जन्म-जन्मान्तरमें आसुरी योनिको प्राप्त होते हैं, फिर उससे भी अधिक अधम
 गतिमें अर्थात् भयङ्कर नरकोंमें चले जाते हैं।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।16.20।।***व्याख्या --***  **आसुरीं योनिमापन्ना ৷৷. मामप्राप्यैव
 कौन्तेय --** पीछेके श्लोकमें भगवान्ने आसुर मनुष्योंको बारबार पशुपक्षी
@@ -378,57 +313,28 @@ _________________
 मेरी प्राप्तिका अवसर पाकर भी मुझे प्राप्त नहीं करते; जिससे मुझे उनको अधम
 योनिमें भेजना पड़ता है। उनका अधम योनिमें और अधम गति(नरक) में जानेका मूल
 कारण क्या है -- इसको भगवान् आगेके श्लोकमें बताते हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-16.20. Having come to the demoniac womb, birth after birth, and not attaining Me at all, these deluded persons, therefore, pass to the lowest state, O son of Kunti !
-
+।।16.20।। इस श्लोक का तात्पर्य यह है कि जब तक मनुष्य अपनी आसुरी
+प्रवृत्तियों के वश में उनका दास बना रहता है तब तक वह उसी प्रकार के हीन
+जन्मों को प्राप्त होता रहता है। वह आत्मा के परमानन्द स्वरूप का अनुभव
+नहीं कर पाता है। अब तक दैवी और आसुरी सम्पदाओं का स्पष्ट एवं विस्तृत
+विवेचन किया गया है। बहुसंख्यक लोगों की न्यूनाधिक मात्रा में असुरों की
+श्रेणी में ही गणना की जा सकती है। परन्तु एक आध्यात्मिक साधक को केवल ऐसे
+वर्णनों से सन्तोष नहीं होता। वह अपनी पतित अवस्था से स्वयं का उद्धार करना
+चाहता है। अत; अब भगवान् श्रीकृष्ण अर्जुन के माध्यम से मानवमात्र के
+आत्मविकास का पथ प्रदर्शन करते हैं। कोई भी व्यक्ति नित्य निरन्तर नारकीय
+यातनाओं का ही भागीदार नहीं हो सकता है शाश्वत नरक प्राप्ति का मत
+अयुक्तियुक्त और अदार्शनिक है। भगवान् कहते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.20 Being born among the demoniacal species in births after births,
-the foods, without ever reaching Me, O son of Kunti, attain conditions lower than that.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।16.20।। हे कौन्तेय ! वे मूढ़ पुरुष जन्मजन्मान्तर में आसुरी योनि को
+प्राप्त होते हैं और ( इस प्रकार) मुझे प्राप्त न होकर अधम गति को प्राप्त
+होते है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.20 So reborn, they spend life after life, enveloped in delusion. And they never reach Me, O Prince, but degenerate into still lower forms of life.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-16.20 Fallen into demoniac wombs in birth after birth, these deluded men, not attaining Me, further sink down to the lowest level, O Arjuna.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-16.20 Entering into demoniacal wombs and deluded, birth after birth, not attaining Me, they thus fall, O Arjuna, into a condition still lower than that.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/16_daivAsura-sampad-vib/20_asurIM_yonimApann.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-16.20 असुरीम् demoniacal; योनिम् womb; आपन्नाः entering into; मूढाः
-deluded; जन्मनि जन्मनि in birth after birth; माम् Me; अप्राप्य not attaining; एव still; कौन्तेय O son of Kunti (Arjuna); ततः than that;
-यान्ति (they) fall into; अधमाम् lower; गतिम् condition (path or goal).Commentary These degraded Asuras are cast into the demoniacal wombs. They are reduced to the very lowest condition or the most appalling state. They are cast into utter darkness. They fall into lower and yet lower wombs in response to their own satanic desires and actions and their extreme Tamasic nature. From the birth of a tiger; they will get the birth of a serpent from a serpents they will get the birth of a wormfrom that they will get the birth of a tree; etc. In Sanskrit the suffix Tara denotes comparative degree and Tama is superlative degree.
-These people get Nikrishtatama Yonis (the lowest wombs).They do not reach Me as their minds are filled with impurities; as they do not tread the path of righteousness in accordance with the injunctions of the scriptures. The diabolical nature is inimical to spiritual progress.
-Therefore; you will have to annihilate the evil tendencies by cultivating divine alities and the practice of regular meditation. Then and only then will you attain liberation.
-
-</details>
 </div>

@@ -1,155 +1,135 @@
 +++
 title = "11 बलम् बलवताम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 बलं बलवतां चाहं  
 काम-राग-विवर्जितम्।  
 धर्माविरुद्धो भूतेषु  
 कामोऽस्मि भरतर्षभ॥7.11॥+++(5)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 बलं बलवतां चाहं कामरागविवर्जितम्।  
-धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ।।7.11।।
+धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ॥7.11॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।7.11।। एते सर्वे विलक्षणा भावा मत्त एव उत्पन्नाः मच्छेषभूता मच्छरीरतया
-मयि एव अवस्थिताः अतः तत्प्रकारः अहम् एव अवस्थितः।
-
+॥7.11॥ एते सर्वे विलक्षणा भावा मत्त एव उत्पन्ना मच्छेषभूता मच्छरीरतया मय्य् एव अवस्थिता अतस् तत्प्रकारो ऽहम् एव अवस्थितः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।। 7.11 एवंभूमिरापः 7।4 इत्यादिना भेदश्रुत्यर्थ उपबृंहितःमयि सर्वम् 7।7
-इति तु घटकश्रुत्यर्थः अथ तदुभयनिर्वाहिताभेदश्रुत्यर्थोपबृंहणं क्रियत
-इत्यभिप्रायेणाह अत इति। केचित्मयि सर्वमिदम् इत्यस्य रसादिधर्मविशिष्टे
-मयि प्रोतमित्यर्थः तद्विवरणंरसोऽहम् इत्यादि इति व्याचख्युः तत्परिहारायाह
-सर्वस्य परमपुरुषशरीरत्वेनेति। परोक्ते त्वाधाराधेयभाववैपरीत्यादिदोष इति
-भावः। प्रकारवाचिशब्दानां प्रकारिणि पर्यवसानस्वाभाव्यं
-जातिगुणादिशब्देष्वपि सामान्यतः सिद्धमिति दर्शयितुं
-प्रकारत्वोपादानम्। अभिधानं मुख्यवृत्त्या बोधनम्। यद्यपि रसादिशब्दा लोके
-निष्कर्षकाः प्रयुज्यन्ते व्यधिकरणतया चात्रावादिद्रव्योपादानम् तथापि
-रसादीनां परमात्मशरीरभूतद्रव्यप्रकारत्वेन परमात्मनः
-प्रकारित्वाद्रसादिशब्दानां चात्र तत्समानाधिकरणतया प्रयोगात्तत्र
-निष्कर्षकत्वं नास्तीत्यभ्युपगन्तव्यम्। द्रव्योपादानं तु तत्रतत्र द्रव्ये
-प्रधानभूतरसगन्धादिप्रकारीभूतोऽहमिति ज्ञापनार्थम्। द्रव्यप्रकाराणां च
-तत्प्रकारत्वं काठिन्यवान् (न्येन)यो बिभर्ति वि.पु.1।14।28 इत्यादिषु
-प्रयुक्तमिति भावः। रसस्य पृथिव्यां वृत्तौ सत्यामप्यपां
-रूपादिगुणान्तरसद्भावेऽपिरसोऽहमप्सु इति विशिष्योपादानं
-तेजस्तत्त्वादब्रूपपरिणामस्य पूर्वतत्त्वानुत्पन्नरसप्रधानत्वात्। अन्यत्र
-चआत्तगन्धा तदा (ततो) भूमिः प्रलयत्वाय कल्पते वि.पु.6।4।14 इत्यादिना च
-पृथिव्यादीनां गन्धरसाद्यधीनत्वमुक्तम्। एवमुत्तरत्रापि प्राधान्यतो
-विशेषनिर्देशे यथोचितं भाव्यम्। प्रभा
-स्वाश्रयातिरिक्तप्रसारितेजोद्रव्यविशेषः। प्रभयैव चन्द्रसूर्यौ
-जगदुपकारहेतुभूताविति तौ तत्प्रधानौ। सर्वेषां वेदानां बीजत्वादिना
-तेषुप्रणवः प्रधानभूतः। पौरुषं पुरुषस्य भावः यतः पुरुषबुद्धिरित्येके
-सन्तानपरम्पराहेतुभूतं रेत इत्यपरे यद्वा पौरुषं सामर्थ्यं
-कर्तृत्वशक्तिरित्यर्थः तयैव हि कर्तुरात्मनः कारकान्तरेभ्यः प्राधान्यम्।
-नृषु जीवेष्वित्यर्थः। यद्वा पौरुषं पुंस्त्वम् स्त्रीनपुंसकव्यावृत्तः
-सत्त्वादिस्वभावविशेषः। नृशब्दश्च पुरुषपर्यायः। पुण्यो गन्धः
-तुलस्यादिगन्धः सुरभिगन्धमात्रं वा तद्योगेन हि पृथिवी सत्त्वोन्मेषस्य
-सुखस्य वा हेतुर्भवति। विभावसुरत्राग्निः। तत्र च तेजो दाहकत्वशक्तिः।
-भूतशब्देनात्र शरीरिणो गृह्यन्ते। सर्वशब्देनात्र ब्रह्मशर्वादीनामपि
-सङ्ग्रहः। तेषु जीवनं प्राणनम् प्राणस्थितिहेतुर्वा। येन सर्वाणि भूतानि
-जीवन्ति भूतेषूपजीवनीयं वा रूपम्। सर्वभूतानां सनातनं बीजं प्रकृतितत्त्वम्।
-अथवा प्रधानधर्मनिर्देशप्रकरणत्वाद्बीजशब्दोऽत्रोपादानत्वाख्यस्वभावपरः।
-सर्वेषां परिणामिद्रव्याणां स्वकार्यपरिणामसामर्थ्यमित्यर्थः। अथवा बीजं
-प्ररोहकारणं जङ्गमस्थावरभूतानां तत्तदुपादानद्रव्यम्। बुद्धिः अध्यवसायः
-ज्ञानमात्रं वा। तेजस्विनः प्रतापशीलाः तेषां तेजः अनभिभवनीयत्वं
-पराभिभवसामर्थ्यं वा। तेजोऽभिमान इति केचित् प्रागल्भ्यमित्यपरे। बलं
-धारणादिशक्तिः। कामरागवशात् स्वकार्ये प्रवृत्तस्य बलस्य
-परपीडादिहेतुत्वाद्धर्मोपयुक्तशरीरादिधारणमात्रादिविषयत्वायकामरागविवर्जितम्
-इत्युक्तम्। काम इच्छायाः काष्ठा प्राप्तदशा। राग इच्छा। यद्वा कामशब्दः
-काम्यपरः तद्विषयो रागः कामरागः भूतेषु देवमनुष्यादिरूपेणावस्थितेषु
-जन्तुषु। धर्माविरुद्धः कामः स्वदारप्रीत्यादिः। अथरसोऽहम्
-इत्यादिसामानाधिकरण्यं सहेतुकमुपपादयति एत इति। न चायं
-तदधीनसामर्थ्यप्रदर्शनार्थोराजा राष्ट्रम् इत्यादिवदारोपः मुख्यसम्भवे
-वृत्त्यन्तरायोगादिति भावः। एत
-इत्यनेनेश्वरव्यतिरिक्तैरशक्यक्रियत्वमभिप्रेतम्। सर्व इत्यनेन
-ब्रह्मरुद्रादिभिरन्यैश्च क्रियमाणानामपि
-ब्रह्मादिशरीरपरमात्माधीनसृष्टत्वम्अहं कृत्स्नस्य 7।6 इति पूर्वोक्तं
-स्मारितम्। वक्ष्यमाणराजसतामसेभ्यो वैलक्षण्यार्थमुक्तंविलक्षणा इति। मत्त
-एव पृथग्विधाः 10।5 इति च वक्ष्यते। एतेनन विलक्षणत्वादस्य ब्र.सू.2।1।4
-इत्यधिकरणार्थोऽपि स्मारितः। मत्त एवोत्पन्ना इत्यादि तत्तद्वस्त्वनुरूपं
-यथासम्भवं सामानाधिकरण्यहेतुः। गुणजातिशरीरेष्वनुगतः
-सामानाधिकरण्यहेतुरपृथक्सिद्धिरिति प्रदर्शनायोक्तंमय्येवावस्थिता इति।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥ 7.11 एवम्भूमिरापः 7।4 इत्यादिना भेदश्रुत्यर्थ उपबृंहितःमयि सर्वम् 7।7 इति तु घटकश्रुत्यर्थः अथ तदुभयनिर्वाहिताभेदश्रुत्यर्थोपबृंहणं क्रियत इत्यभिप्रायेणाह अत इति। केचित्मयि सर्वमिदम् इत्यस्य रसादिधर्मविशिष्टे मयि प्रोतमित्यर्थः तद्विवरणंरसोऽहम् इत्यादि इति व्याचख्युः तत्परिहारायाह सर्वस्य परमपुरुषशरीरत्वेनेति। परोक्ते त्वाधाराधेयभाववैपरीत्यादिदोष इति भावः। प्रकारवाचिशब्दानां प्रकारिणि पर्यवसानस्वाभाव्यं जातिगुणादिशब्देष्वपि सामान्यतः सिद्धमिति दर्शयितुं प्रकारत्वोपादानम्। अभिधानं मुख्यवृत्त्या बोधनम्। यद्यपि रसादिशब्दा लोके निष्कर्षकाः प्रयुज्यन्ते व्यधिकरणतया चात्रावादिद्रव्योपादानं तथापि रसादीनां परमात्मशरीरभूतद्रव्यप्रकारत्वेन परमात्मनः प्रकारित्वाद्रसादिशब्दानां चात्र तत्समानाधिकरणतया प्रयोगात्तत्र निष्कर्षकत्वं नास्तीत्यभ्युपगन्तव्यम्। द्रव्योपादानं तु तत्रतत्र द्रव्ये प्रधानभूतरसगन्धादिप्रकारीभूतोऽहमिति ज्ञापनार्थम्। द्रव्यप्रकाराणां च तत्प्रकारत्वं काठिन्यवान् (न्येन)यो बिभर्ति वि.पु.1।14।28 इत्यादिषु प्रयुक्तमिति भावः। रसस्य पृथिव्यां वृत्तौ सत्यामप्यपां रूपादिगुणान्तरसद्भावेऽपिरसोऽहमप्सु इति विशिष्योपादानं तेजस्तत्त्वादब्रूपपरिणामस्य पूर्वतत्त्वानुत्पन्नरसप्रधानत्वात्। अन्यत्र चआत्तगन्धा तदा (ततो) भूमिः प्रलयत्वाय कल्पते वि.पु.6।4।14 इत्यादिना च पृथिव्यादीनां गन्धरसाद्यधीनत्वमुक्तम्। एवमुत्तरत्रापि प्राधान्यतो विशेषनिर्देशे यथोचितं भाव्यम्। प्रभा स्वाश्रयातिरिक्तप्रसारितेजोद्रव्यविशेषः। प्रभयैव चन्द्रसूर्यौ जगदुपकारहेतुभूताविति तौ तत्प्रधानौ। सर्वेषां वेदानां बीजत्वादिना तेषुप्रणवः प्रधानभूतः। पौरुषं पुरुषस्य भावः यतः पुरुषबुद्धिरित्येके सन्तानपरम्पराहेतुभूतं रेत इत्यपरे यद्वा पौरुषं सामर्थ्यं कर्तृत्वशक्तिरित्यर्थः तयैव हि कर्तुरात्मनः कारकान्तरेभ्यः प्राधान्यम्। नृषु जीवेष्वित्यर्थः। यद्वा पौरुषं पुंस्त्वं स्त्रीनपुंसकव्यावृत्तः सत्त्वादिस्वभावविशेषः। नृशब्दश्च पुरुषपर्यायः। पुण्यो गन्धः तुलस्यादिगन्धः सुरभिगन्धमात्रं वा तद्योगेन हि पृथिवी सत्त्वोन्मेषस्य सुखस्य वा हेतुर्भवति। विभावसुरत्राग्निः। तत्र च तेजो दाहकत्वशक्तिः। भूतशब्देनात्र शरीरिणो गृह्यन्ते। सर्वशब्देनात्र ब्रह्मशर्वादीनामपि सङ्ग्रहः। तेषु जीवनं प्राणनम् प्राणस्थितिहेतुर्वा। येन सर्वाणि भूतानि जीवन्ति भूतेषूपजीवनीयं वा रूपम्। सर्वभूतानां सनातनं बीजं प्रकृतितत्त्वम्। अथवा प्रधानधर्मनिर्देशप्रकरणत्वाद्बीजशब्दोऽत्रोपादानत्वाख्यस्वभावपरः। सर्वेषां परिणामिद्रव्याणां स्वकार्यपरिणामसामर्थ्यमित्यर्थः। अथवा बीजं प्ररोहकारणं जङ्गमस्थावरभूतानां तत्तदुपादानद्रव्यम्। बुद्धिः अध्यवसायः ज्ञानमात्रं वा। तेजस्विनः प्रतापशीलाः तेषां तेजः अनभिभवनीयत्वं पराभिभवसामर्थ्यं वा। तेजोऽभिमान इति केचित् प्रागल्भ्यमित्यपरे। बलं धारणादिशक्तिः। कामरागवशात् स्वकार्ये प्रवृत्तस्य बलस्य परपीडादिहेतुत्वाद्धर्मोपयुक्तशरीरादिधारणमात्रादिविषयत्वायकामरागविवर्जितम् इत्युक्तम्। काम इच्छायाः काष्ठा प्राप्तदशा। राग इच्छा। यद्वा कामशब्दः काम्यपरः तद्विषयो रागः कामरागः भूतेषु देवमनुष्यादिरूपेणावस्थितेषु जन्तुषु। धर्माविरुद्धः कामः स्वदारप्रीत्यादिः। अथरसोऽहम् इत्यादिसामानाधिकरण्यं सहेतुकमुपपादयति एत इति। न चायं तदधीनसामर्थ्यप्रदर्शनार्थोराजा राष्ट्रम् इत्यादिवदारोपः मुख्यसम्भवे वृत्त्यन्तरायोगादिति भावः। एत इत्यनेनेश्वरव्यतिरिक्तैरशक्यक्रियत्वमभिप्रेतम्। सर्व इत्यनेन ब्रह्मरुद्रादिभिरन्यैश्च क्रियमाणानामपि ब्रह्मादिशरीरपरमात्माधीनसृष्टत्वम्अहं कृत्स्नस्य 7।6 इति पूर्वोक्तं स्मारितम्। वक्ष्यमाणराजसतामसेभ्यो वैलक्षण्यार्थमुक्तंविलक्षणा इति। मत्त एव पृथग्विधाः 10।5 इति च वक्ष्यते। एतेनन विलक्षणत्वादस्य ब्र.सू.2।1।4 इत्यधिकरणार्थोऽपि स्मारितः। मत्त एवोत्पन्ना इत्यादि तत्तद्वस्त्वनुरूपं यथासम्भवं सामानाधिकरण्यहेतुः। गुणजातिशरीरेष्वनुगतः सामानाधिकरण्यहेतुरपृथक्सिद्धिरिति प्रदर्शनायोक्तम्मय्येवावस्थिता इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 7.8 - 7.11 All these entities with their peculiar characteristic are born from Me alone. They depend on Me; inasmuch as they constitute My body, they exist in Me alone. Thus I alone exist while all of them are only My modes.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.10 7.11।। बीजमिति। बलमिति। बीजं सूक्ष्ममादिकारणम् (
-सूक्ष्मादिकारणम्)। कामरागविवर्जितं बलं सकलवस्तुधारणसमर्थम् ऊर्जोरूपम् (
-omits रूपम्)। कामः +++(S omits कामः)+++ इच्छा संविन्मात्ररूपा यस्या
-घटपटादिभिर्धर्मरूपैर्नास्ति विरोधः। इच्छा हि सर्वज्ञ भगवच्छक्तितया
-अनुयायिनी न क्वचिद्विरुध्यते धर्मैस्तु आगन्तुकैर्घटपटादिभिर्भिद्यते +++(S
-घटादिभिर्भि )+++ इति तदुपासकतया शुद्धसंवित्स्वभावत्वं ज्ञानिनः। उक्तं च
-शिवोपनिषदि इच्छायामथ वा ज्ञाने जाते चित्तं निवेशयेत् +++(V 98 )+++ इतिजाते एव
-न तु बाह्यप्रसृते इत्यर्थ। एवं व्याख्यानं त्यक्त्वा ये परस्परानुपघातकं
-त्रिवर्गं सेवेत इत्याशयेन व्याचक्षते ते संप्रदायक्रममजानानाः भगवद्रहस्यं
-च व्याचक्षणा नमस्कार्या एव।
-
+॥7.11॥ **बलं** सामर्थ्यम् ओजो **बलवताम् अहम्** तच्च बलं **कामरागविवर्जितम्** कामश्च रागश्च कामरागौ कामः तृष्णा असंनिकृष्टेषु विषयेषु रागो रञ्जना प्राप्तेषु विषयेषु ताभ्यां कामरागाभ्यां विवर्जितं देहादिधारणमात्रार्थं बलं सत्त्वमहमस्मि न तु यत्संसारिणां तृष्णारागकारणम्। किञ्च **धर्माविरुद्धः** धर्मेण शास्त्रार्थेन अविरुद्धो यः प्राणिषु **भूतेषु कामः** यथा देहधारणमात्राद्यर्थः अशनपानादिविषयः स कामः **अस्मि** हे **भरतर्षभ**॥ किञ्च
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.10-11 Bijam etc. Balam etc. The seed : the subtle prime cause. The
-strength, free from desire and attachment : It is of the nature of
-vigour and is capable of supporting all that exist. Deire : the Will,
-which is nothing but Pure Consciousness and which is not opposed to any
-of the attributes (its objects) like pot, cloth etc. For, the Will,
-because it is the \[conscious\] energy of the Bhagavat, is immanent in
-all and nowhere is it opposed, eventhough it is being differentiated
-(i.e. the wills or desires are classified) on account of its attributes
-like pot, cloth etc., which are \[only\] accidental. Thus the wise,
-because they are devoted to this Will, are of the nature of Pure
-Consciousness. That has been said also in the Sivopanisad as - '\[A man
-of wisdom\] would concentrate his mind on the Will or \[Self\]
-Consciousness that arises'. (VB, 98) \[Here in this otation\] that
-arises means 'that has just risen but has not yet spread outside.'
-Ignoring this way of interpretation \[of the Gita passage\] some
-interpret it so as to bring out the idea 'He would enjoy the group of
-the three, not hindering mutually'. These (commentators) are ignorant of
-the customs (karma) sanctioned by the traditions; yet they interpret the
-secret about the Absolute ! No doubt they deserve \[our\] salutation.
+<details><summary>गम्भीरानन्दः</summary>
 
+7.11 I am the balam, strength, ability, virility; balavatam, of the
+strong. That strength, again, is kama-raga-vivarjitam, devoid of passion
+and attachment. Kamah is passion, hankering for things not at hand.
+Ragah is attachment, fondness for things acired. I am the strength that
+is devoid of them and is necessary merely for the maintenance of the
+body etc., but not that strength of the worldly which causes hankering
+and attachment. Further, bhutesu, among creatures; I am that kamah,
+desire-such desires as for eating, drinking, etc. which are for the mere
+maintenance of the body and so on; which is dharma-aviruddhah, not
+contrary to righteousness, not opposed to scriptural injunctions;
+bharatarsabha, O scion of the Bharata dynasty. Moreover,
 </details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥7.11॥ बलवानोंका जो कामना और आसक्तिसे रहित बल ओज सामर्थ्य है वह मैं
+हूँ। ( अभिप्राय यह कि ) अप्राप्त विषयोंकी जो तृष्णा है उसका नाम काम है
+और प्राप्त विषयोंमें जो प्रीतितन्मयता है उसका नाम राग है उन दोनोंसे रहित
+केवल देह आदिको धारण करनेके लिये जो बल है वह मैं हूँ। जो संसारी जीवोंका
+बल कामना और आसक्तिका कारण है वह मैं नहीं हूँ। तथा हे भरतश्रेष्ठ
+प्राणियोंमें जो धर्मसे अविरुद्ध शास्त्रानुकूल कामना है जैसे
+देहधारणमात्रके लिये खानेपीनेकी इच्छा आदि वह ( इच्छारूप) काम भी मैं ही
+हूँ।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥7.11॥ यच्च बलवतां बलं तद्भूते मयि तेषां प्रोतत्वमित्याह **बलमिति।**
+कामक्रोधादिपूर्वकस्यापि बलस्यानुमतिं वारयति **तच्चेति।**
+कामरागयोरेकार्थत्वमाशङ्क्यार्थभेदमावेदयति **कामस्तृष्णेत्यादिना।**
+विशेषणसामर्थ्यसिद्धं व्यावर्त्य दर्शयति **नत्विति।**
+शास्त्रार्थाविरुद्धकामभूते मयि तथाविधकामवतां भूतानां प्रोतत्वं
+विवक्षित्वाह **कि़ञ्चेति।** धर्माविरुद्धं काममुदाहरति **यथेति।**
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥7.11॥ बलरूपे मयि बलवन्तः प्रोताः। कामरागविवर्जितं कामस्तृष्णा रागो
+रञ्जना। तौ हि आविद्यकौ। अतो निरवद्यस्य बलं तद्वर्जितम्। एवं
+धर्माविरुद्धकामरूपे मयि ईदृशाः कामवन्तः प्रोताः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥7.11॥ बलं सामर्थ्यमोजस्तस्मिन्कामरागविवर्जिते कामोऽप्राप्तेषु विषयेषु
+प्राप्त्यभिलाषः रागः प्राप्तेषु तेषु रज्जनात्मकः प्रेम्णोऽतिशयः।
+क्रोधार्थो वा रागशब्दो व्याख्येयः। अस्मिन्पक्षे लक्षणादोष इति बोध्यम्।
+तद्रहिते देहधारणमात्रप्रयोजने बलभूते मयि बलवन्तः प्रोताः। तथा धर्मेण
+शास्त्रविहितेनाविरुद्धे देहधारणार्थेऽशनपानादिविषये कामे तद्रूपे मयि
+कामवतां भूतानां प्रोतत्वम्। भरतर्षमेति संबोधयन् भरतैः क्षत्रियवरैः
+सेवितं युद्धात्मकधर्मस्य साधकं कामरागविवर्जितं क्षत्रधर्मेण युद्धेन
+देहधारणमात्रप्रयोजनकं मद्विभूत्यात्मकं बलं स्वधर्मेण शत्रून्विजित्य
+धर्माविरुद्धं अन्नपानादिविषयं कामं च मद्विभूतिरुपं भरतानां मध्ये
+श्रेष्टत्वं त्युक्तुं नार्हसीति सूचयति।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥7.11॥ अप्राप्तो विषयः प्राप्तिकारणाभावेऽपि
+प्राप्यतामित्याकारश्चित्तवृत्तिविशेषः कामः प्राप्तो विषयः क्षयकारणे
+सत्यपि न क्षीयतामित्येवमाकारश्चित्तवृत्तिविशेषो रञ्जनात्मा रागस्ताभ्यां
+विशेषेण वर्जितं सर्वथा तदाकाररजस्तमोविरहितं यत्स्वधर्मानुष्ठानाय
+देहेन्द्रियादिधारणसामर्थ्यं सात्त्विकं बलं बलवतां
+तादृशसात्त्विकबलयुक्तानां संसारपराङ्मुखानां तदहमस्मि। तद्रूपे मयि
+बलवन्तः प्रोता इत्यर्थः। चशब्दस्तुशब्दार्थे भिन्नक्रमः।
+कामरागविवर्जितमेव बलं मद्रूपत्वेन ध्येयं नतु संसारिणां कामरागकारणं
+बलमित्यर्थः। क्रोधार्थो वा रागशब्दो व्याख्येयः। धर्मो धर्मशास्त्रं
+तेनाविरुद्धोऽप्रतिषिद्धो धर्मानुकूलो वा यो भूतेषु प्राणिषु कामः
+शास्त्रानुमतजायापुत्रवित्तादिविषयोऽभिलाषः सोऽहमस्मि। हे भरतर्षभ
+शास्त्राविरुद्धकामभूते मयितथाविधकामयुक्तानां भूतानां प्रोतत्वमित्यर्थः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.8 7.12।। इदं ज्ञानम्। रसोऽहमित्यादिविज्ञानम्। अबादयोऽपि तत एव। तथापि
+॥7.8 7.12॥ इदं ज्ञानम्। रसोऽहमित्यादिविज्ञानम्। अबादयोऽपि तत एव। तथापि
 रसादिस्वभावाना सागणां च स्वभावत्वे सारत्वे च विशेषतोऽपि स एव नियमाकः न
 त्वबादिनियमानुबद्धो रसादिस्तत्सारत्वादिश्चेति दर्शयति अप्सु रस
 इत्यादिविशेषशब्दैः। भोगश्च विशेषतो रसादेरिति च उपासनार्थं च। उक्तं च
@@ -176,13 +156,11 @@ _________________
 ह्यस्माच्छारीरात्पुरुषोत्तमः। अतोऽभोक्ता च भोक्ता च स्थूलाभोगात्स एव तु
 इति गीताकल्पे। न त्वहं तेष्विति तदनाधारत्वमुच्यते। उक्तं च तदाश्रितं
 जगत्सर्वं नासौ कुत्रचिदाश्रितः इति गीताकल्पे।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।7.8 7.12।। भूमिः 7।4 इत्यादिनेत्यत्रावधेरनुक्तेःरसोऽहं इत्याद्यपि
+<details><summary>जयतीर्थः</summary>
+
+॥7.8 7.12॥ भूमिः 7।4 इत्यादिनेत्यत्रावधेरनुक्तेःरसोऽहं इत्याद्यपि
 ज्ञानप्रकरणमिति प्रतीतिः स्यात् तन्निरासाय तत्समाप्तिमाह **इदमि**ति।
 एतावता ग्रन्थेन ज्ञानं निरूपितमित्यर्थ। कुतोऽत्र ज्ञानप्रकरणस्य समाप्तिः
 इत्यत आह **रसोऽहमि**ति। इतिशब्दाद्यभावेऽपि प्रकरणान्तरारम्भ एव समाप्तिं
@@ -270,219 +248,103 @@ _________________
 त्वहं तेषु 7।12 इति कथमुच्यते इत्यत आह **न त्वहमि**ति। तदनाधारत्वं
 तदुपजीवनेन स्थित्यभावः। कुत एतत् इत्यत आह **उक्तं चे**ति। न केवलं
 मुक्तविरोधादिति चार्थः।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.11।। **बलं** सामर्थ्यम् ओजो **बलवताम् अहम्** तच्च बलं
-**कामरागविवर्जितम्** कामश्च रागश्च कामरागौ कामः तृष्णा असंनिकृष्टेषु
-विषयेषु रागो रञ्जना प्राप्तेषु विषयेषु ताभ्यां कामरागाभ्यां विवर्जितं
-देहादिधारणमात्रार्थं बलं सत्त्वमहमस्मि न तु यत्संसारिणां
-तृष्णारागकारणम्। किञ्च **धर्माविरुद्धः** धर्मेण शास्त्रार्थेन अविरुद्धो
-यः प्राणिषु **भूतेषु कामः** यथा देहधारणमात्राद्यर्थः अशनपानादिविषयः स
-कामः **अस्मि** हे **भरतर्षभ**।। किञ्च
-
+॥7.10 7.11॥ बीजमिति। बलमिति। बीजं सूक्ष्ममादिकारणम् ( सूक्ष्मादिकारणम्)। कामरागविवर्जितं बलं सकलवस्तुधारणसमर्थम् ऊर्जोरूपम् ( omits रूपम्)। कामः +++(S omits कामः)+++ इच्छा संविन्मात्ररूपा यस्या घटपटादिभिर्धर्मरूपैर्नास्ति विरोधः। इच्छा हि सर्वज्ञ भगवच्छक्तितया अनुयायिनी न क्वचिद्विरुध्यते धर्मैस्तु आगन्तुकैर्घटपटादिभिर्भिद्यते +++(S घटादिभिर्भि )+++ इति तदुपासकतया शुद्धसंवित्स्वभावत्वं ज्ञानिनः। उक्तं च शिवोपनिषदि इच्छायामथ वा ज्ञाने जाते चित्तं निवेशयेत् +++(V 98 )+++ इतिजाते एव न तु बाह्यप्रसृते इत्यर्थ। एवं व्याख्यानं त्यक्त्वा ये परस्परानुपघातकं त्रिवर्गं सेवेत इत्याशयेन व्याचक्षते ते संप्रदायक्रममजानानाः भगवद्रहस्यं च व्याचक्षणा नमस्कार्या एव।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।7.11।। बलवानोंका जो कामना और आसक्तिसे रहित बल ओज सामर्थ्य है वह मैं
-हूँ। ( अभिप्राय यह कि ) अप्राप्त विषयोंकी जो तृष्णा है उसका नाम काम है
-और प्राप्त विषयोंमें जो प्रीतितन्मयता है उसका नाम राग है उन दोनोंसे रहित
-केवल देह आदिको धारण करनेके लिये जो बल है वह मैं हूँ। जो संसारी जीवोंका
-बल कामना और आसक्तिका कारण है वह मैं नहीं हूँ। तथा हे भरतश्रेष्ठ
-प्राणियोंमें जो धर्मसे अविरुद्ध शास्त्रानुकूल कामना है जैसे
-देहधारणमात्रके लिये खानेपीनेकी इच्छा आदि वह ( इच्छारूप) काम भी मैं ही
-हूँ।
+<details><summary>शङ्करनारायणः</summary>
 
+7.10-11 Bijam etc. Balam etc. The seed : the subtle prime cause. The strength, free from desire and attachment : It is of the nature of vigour and is capable of supporting all that exist. Deire : the Will, which is nothing but Pure Consciousness and which is not opposed to any of the attributes (its objects) like pot, cloth etc. For, the Will, because it is the \[conscious\] energy of the Bhagavat, is immanent in all and nowhere is it opposed, eventhough it is being differentiated (i.e. the wills or desires are classified) on account of its attributes like pot, cloth etc., which are \[only\] accidental. Thus the wise, because they are devoted to this Will, are of the nature of Pure Consciousness. That has been said also in the Sivopanisad as - '\[A man of wisdom\] would concentrate his mind on the Will or \[Self\] Consciousness that arises'. (VB, 98) \[Here in this otation\] that arises means 'that has just risen but has not yet spread outside.' Ignoring this way of interpretation \[of the Gita passage\] some interpret it so as to bring out the idea 'He would enjoy the group of the three, not hindering mutually'. These (commentators) are ignorant of the customs (karma) sanctioned by the traditions; yet they interpret the secret about the Absolute ! No doubt they deserve \[our\] salutation.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.11 I am the balam, strength, ability, virility; balavatam, of the
-strong. That strength, again, is kama-raga-vivarjitam, devoid of passion
-and attachment. Kamah is passion, hankering for things not at hand.
-Ragah is attachment, fondness for things acired. I am the strength that
-is devoid of them and is necessary merely for the maintenance of the
-body etc., but not that strength of the worldly which causes hankering
-and attachment. Further, bhutesu, among creatures; I am that kamah,
-desire-such desires as for eating, drinking, etc. which are for the mere
-maintenance of the body and so on; which is dharma-aviruddhah, not
-contrary to righteousness, not opposed to scriptural injunctions;
-bharatarsabha, O scion of the Bharata dynasty. Moreover,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।7.11।। यच्च बलवतां बलं तद्भूते मयि तेषां प्रोतत्वमित्याह **बलमिति।**
-कामक्रोधादिपूर्वकस्यापि बलस्यानुमतिं वारयति **तच्चेति।**
-कामरागयोरेकार्थत्वमाशङ्क्यार्थभेदमावेदयति **कामस्तृष्णेत्यादिना।**
-विशेषणसामर्थ्यसिद्धं व्यावर्त्य दर्शयति **नत्विति।**
-शास्त्रार्थाविरुद्धकामभूते मयि तथाविधकामवतां भूतानां प्रोतत्वं
-विवक्षित्वाह **कि़ञ्चेति।** धर्माविरुद्धं काममुदाहरति **यथेति।**
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।7.11।। अप्राप्तो विषयः प्राप्तिकारणाभावेऽपि
-प्राप्यतामित्याकारश्चित्तवृत्तिविशेषः कामः प्राप्तो विषयः क्षयकारणे
-सत्यपि न क्षीयतामित्येवमाकारश्चित्तवृत्तिविशेषो रञ्जनात्मा रागस्ताभ्यां
-विशेषेण वर्जितं सर्वथा तदाकाररजस्तमोविरहितं यत्स्वधर्मानुष्ठानाय
-देहेन्द्रियादिधारणसामर्थ्यं सात्त्विकं बलं बलवतां
-तादृशसात्त्विकबलयुक्तानां संसारपराङ्मुखानां तदहमस्मि। तद्रूपे मयि
-बलवन्तः प्रोता इत्यर्थः। चशब्दस्तुशब्दार्थे भिन्नक्रमः।
-कामरागविवर्जितमेव बलं मद्रूपत्वेन ध्येयं नतु संसारिणां कामरागकारणं
-बलमित्यर्थः। क्रोधार्थो वा रागशब्दो व्याख्येयः। धर्मो धर्मशास्त्रं
-तेनाविरुद्धोऽप्रतिषिद्धो धर्मानुकूलो वा यो भूतेषु प्राणिषु कामः
-शास्त्रानुमतजायापुत्रवित्तादिविषयोऽभिलाषः सोऽहमस्मि। हे भरतर्षभ
-शास्त्राविरुद्धकामभूते मयितथाविधकामयुक्तानां भूतानां प्रोतत्वमित्यर्थः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।7.11।। बलरूपे मयि बलवन्तः प्रोताः। कामरागविवर्जितं कामस्तृष्णा रागो
-रञ्जना। तौ हि आविद्यकौ। अतो निरवद्यस्य बलं तद्वर्जितम्। एवं
-धर्माविरुद्धकामरूपे मयि ईदृशाः कामवन्तः प्रोताः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।7.11।। बलं सामर्थ्यमोजस्तस्मिन्कामरागविवर्जिते कामोऽप्राप्तेषु विषयेषु
-प्राप्त्यभिलाषः रागः प्राप्तेषु तेषु रज्जनात्मकः प्रेम्णोऽतिशयः।
-क्रोधार्थो वा रागशब्दो व्याख्येयः। अस्मिन्पक्षे लक्षणादोष इति बोध्यम्।
-तद्रहिते देहधारणमात्रप्रयोजने बलभूते मयि बलवन्तः प्रोताः। तथा धर्मेण
-शास्त्रविहितेनाविरुद्धे देहधारणार्थेऽशनपानादिविषये कामे तद्रूपे मयि
-कामवतां भूतानां प्रोतत्वम्। भरतर्षमेति संबोधयन् भरतैः क्षत्रियवरैः
-सेवितं युद्धात्मकधर्मस्य साधकं कामरागविवर्जितं क्षत्रधर्मेण युद्धेन
-देहधारणमात्रप्रयोजनकं मद्विभूत्यात्मकं बलं स्वधर्मेण शत्रून्विजित्य
-धर्माविरुद्धं अन्नपानादिविषयं कामं च मद्विभूतिरुपं भरतानां मध्ये
-श्रेष्टत्वं त्युक्तुं नार्हसीति सूचयति।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.11।। बलमिति। क्रियाशक्तिरूपं तदपि न प्रवृत्त्यात्मकमित्याह
+॥7.11॥ बलमिति। क्रियाशक्तिरूपं तदपि न प्रवृत्त्यात्मकमित्याह
 कामरागाविवर्जितमिति। तथैव कामोऽस्मि स च लोके धर्मविरोधीति
 तद्व्यावृत्त्यर्थमाह धर्माविरुद्ध इति। एते सप्तसप्त तत्तद्वयभेदा
 निरूपिताः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।7.11।। किञ्च बलवतां मद्वशीकरणलक्षणवतां बलं वशीकरणलक्षणमहम्। चकारेण
+<details><summary>पुरुषोत्तमः</summary>
+
+॥7.11॥ किञ्च बलवतां मद्वशीकरणलक्षणवतां बलं वशीकरणलक्षणमहम्। चकारेण
 तद्रूपोऽपि। कीदृशं बलं कामरागविवर्जितं वशीकृते मयि स्वाभिलाषत्वं
 स्वरञ्जनादिवर्जनम् किन्तु मदभिलाषादिभावः। तथा हे भरतर्षभ सत्कुलोत्पन्न
 तथा कामभावयोग्य धर्माविरुद्धः धर्मेण अविरुद्धो भूतेषु कामोऽस्मि। अत्रायं
 भावः लौकिककामस्तु धर्मविरुद्धोऽस्ति यतोऽयं रसः स्वाऽविवाहितायामेव भवति
-प्रकटः सर्वधर्मविरुद्ध एव। अलौकिकस्तु रसात्मको धर्मरूप इति भावः।  
-  
-
+प्रकटः सर्वधर्मविरुद्ध एव। अलौकिकस्तु रसात्मको धर्मरूप इति भावः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।7.11।। किंच **बलमिति।** कामोऽप्राप्ते वस्तुन्यभिलाषो राजसः रागः
+॥7.11॥ किंच **बलमिति।** कामोऽप्राप्ते वस्तुन्यभिलाषो राजसः रागः
 पुनरभिलषितेऽर्थे प्राप्तेऽपि पुनरधिकेऽर्थे
 चित्तरञ्जनात्मकस्तृष्णापरपर्यायस्तामसः ताभ्यां विवर्जितं बलवतां बलमस्मि।
 सात्त्विकं स्वधर्मानुष्ठानसामर्थ्यमहमित्यर्थः। स्वधर्मेणाविरुद्धः
 स्वदारेषु पुत्रोत्पत्तिमात्रोपयोगी कामोऽहम्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।7.11।। सामान्य बुद्धिमत्ता के और मन्दबुद्धि के लोगों को अनेक उदाहरण
-देने के पश्चात् यहाँ इस श्लोक में भगवान् श्रीकृष्ण उस अत्यन्त मेधावी
-पुरुष के लिये तत्त्व का निर्देश करते हैं जिसमें यह क्षमता हो कि वह इस
-दिये हुये निर्देश पर सूक्ष्म विचार कर सके। बलवानों का बल मैं हूँ केवल
-इतने ही कथन में पूर्व कथित दृष्टान्तों की अपेक्षा कोई अधिक विशेषता नहीं
-दिखाई पड़ती। परन्तु बल शब्द को दिये गये विशेषण से इसको विशेष महत्त्व
-प्राप्त हो जाता है। सामान्यत मनुष्य में जब कामना व आसक्ति होती है तब वह
-अथक परिश्रम करते हुये दिखाई देता है और अपनी इच्छित वस्तु को पाने के लिये
-सम्पूर्ण शक्ति लगा देता है। कामना और आसक्ति इन दो प्रेरक वृत्तियों के
-बिना किसी बल की हम कल्पना भी नहीं कर पाते हैं। यद्यपि सतही दृष्टि से काम
-और राग में हमें भेद नहीं दिखाई देता है तथापि शंकराचार्य अपने भाष्य में
-उसे स्पष्ट करते हुये कहते हैं. अप्राप्त वस्तु की इच्छा काम है और प्राप्त
-वस्तु में आसक्ति राग कहलाती है। मन की इन्हीं दो वृत्तियों के कारण
-व्यक्ति या परिवार समाज या राष्ट्र अपनी सार्मथ्य को प्रकट करते हैं।
-हड़ताल और दंगे उपद्रव और युद्ध इन सबके पीछे प्रेरक वृत्तियां हैं काम और
-राग। श्रीकृष्ण कहते हैं मैं बलवानों का काम और राग से वर्जित बल हूँ।
-स्पष्ट है कि यहाँ सामान्य बल की बात नहीं कही गयी है। इस कथन से मानों
-उन्हें सन्तोष नहीं होता है और इसलिये वे आगे और कहते हैं प्राणियों में
-धर्म के अनुकूल काम मैं हूँ। जिसके कारण वस्तु का अस्तित्व होता है वह उसका
-धर्म कहलाता है। मनुष्य का अस्तित्व चैतन्य आत्मा के बिना नहीं हो सकता अत
-वह उसका वास्तविक धर्म या स्वरूप है। व्यवहार में जो विचार भावना और कर्म
-उसके दिव्य स्वरूप के विरुद्ध नहीं है वे धर्म के अन्तर्गत आते हैं। जिन
-विचारों एवं कर्मों से अपने आत्मस्वरूप को पहचानने में सहायता मिलती है
-उन्हें धर्म कहा जाता है और इसके विपरीत कर्म अधर्म कहलाते हैं क्योंकि वे
-उसकी आत्मविस्मृति को दृढ़ करते हैं। उनके वशीभूत होकर मनुष्य पतित होकर
-पशुवत् व्यवहार करने लगता है। धर्म की परिभाषा को ध्यान में रखकर इस श्लोक
-के अध्ययन से उसका अर्थ स्पष्ट हो जाता है। धर्म के अविरुद्ध कामना से
-तात्पर्य साधक की उस इच्छा तथा क्षमता से है जिसके द्वारा वह अपनी
-दुर्बलताओं को समझकर उन्हें दूर करने का प्रयत्न करता है और आत्मोन्नति की
-सीढ़ी पर ऊपर चढ़ता जाता है। भगवान् के कथन को दूसरे शब्दों में इस प्रकार
-कहा जा सकता है कि मैं साधक नहीं वरन् उसमें स्थित आत्मज्ञान की प्रखर
-जिज्ञासा हूँ। अब तक के उपदेश तथा दृष्टान्तों का क्या यह अर्थ हुआ कि आत्मा
-वास्तव में अनात्म जड़ उपाधियों के बन्धन में आ गया है परिच्छिन्न उपाधि
-अपरिच्छिन्न आत्मा को कैसे सीमित कर सकती है इसके उत्तर में भगवान् कहते
-हैं
-
+7.11 In the strong, I am strength, devoid of desire and passion. In all beings, I am the desire which is not forbidden by law (Dharma), O Arjuna.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।7.11।। हे भरत श्रेष्ठ ! मैं बलवानों का कामना तथा आसक्ति से रहित बल हूँ
-और सब भूतों में धर्म के अविरुद्ध अर्थात् अनुकूल काम हूँ।।
+<details><summary>गम्भीरानन्दः</summary>
 
+7.11 And of the strong I am the strength which is devoid of passion and attachment. Among creatures I am desire which is not contrary to righteousness, O scion of the Bharata dyansty.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+7.11 I am the Strength of the strong, of them who are free from attachment and desire; and, O Arjuna, I am the Desire for righteousness.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+7.11. Of the strong, I am the strength that is free from desire and attachment. O best of the Bharatas, in \[all\] beings I am the desire which is not opposed to attributes.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+7.11 Of the strong, I am the strength devoid of desire and attachment,
+and in (all) beings, I am the desire unopposed to Dharma, O Arjuna.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+7.11 बलम् strength; बलवताम् of the strong; अस्मि am (I);
+कामरागविवर्जितम् devoid of desire and attachment; धर्माविरुद्धः
+unopposed to Dharma; भूतेषु in beings; कामः desire; अस्मि am (I);
+भरतर्षभ O Lord of the Bharatas.Commentary Kama Desire for those objects that come in contact with the senses.Raga attachment for those objects that come in contact with the senses.I am that strength which is necessary for the bare sustenance of the body. I am not the strength which generates desire and attachment for sensual objects as in the case of worldlyminded persons. I am the desire which is in accordance with the teachings of the scriptures or the code prescribing the duties of life. I am the desire for moderate eating and drinking; etc.; which are,necessary for the sustenance of the body and which help one in the practice of Yoga.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.11।। हे भरतवंशियोंमें श्रेष्ठ अर्जुन ! बलवालोंमें काम और रागसे रहित
 बल मैं हूँ। मनुषयोंमें धर्मसे अविरुद्ध (धर्मयुक्त) काम मैं हूँ।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।7.11।।***व्याख्या--*'बलं बलवतां चाहं
 कामरागविवर्जितम्'--**कठिन-से-कठिन काम करते हुए भी अपने भीतर एक
@@ -524,56 +386,51 @@ _________________
 सम्बोधनका प्रयोग भी नहीं किया जा सकता। इसलिये मनुष्यको चाहिये कि वह या
 तो शास्त्र और लोकमर्यादाके अनुसार केवल सन्तानोत्पत्तिके लिये कामका सेवन
 करे अथवा ब्रह्मचर्यका पालन करे।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-7.11. Of the strong, I am the strength that is free from desire and attachment. O best of the Bharatas, in \[all\] beings I am the desire which is not opposed to attributes.
-
+।।7.11।। सामान्य बुद्धिमत्ता के और मन्दबुद्धि के लोगों को अनेक उदाहरण
+देने के पश्चात् यहाँ इस श्लोक में भगवान् श्रीकृष्ण उस अत्यन्त मेधावी
+पुरुष के लिये तत्त्व का निर्देश करते हैं जिसमें यह क्षमता हो कि वह इस
+दिये हुये निर्देश पर सूक्ष्म विचार कर सके। बलवानों का बल मैं हूँ केवल
+इतने ही कथन में पूर्व कथित दृष्टान्तों की अपेक्षा कोई अधिक विशेषता नहीं
+दिखाई पड़ती। परन्तु बल शब्द को दिये गये विशेषण से इसको विशेष महत्त्व
+प्राप्त हो जाता है। सामान्यत मनुष्य में जब कामना व आसक्ति होती है तब वह
+अथक परिश्रम करते हुये दिखाई देता है और अपनी इच्छित वस्तु को पाने के लिये
+सम्पूर्ण शक्ति लगा देता है। कामना और आसक्ति इन दो प्रेरक वृत्तियों के
+बिना किसी बल की हम कल्पना भी नहीं कर पाते हैं। यद्यपि सतही दृष्टि से काम
+और राग में हमें भेद नहीं दिखाई देता है तथापि शंकराचार्य अपने भाष्य में
+उसे स्पष्ट करते हुये कहते हैं. अप्राप्त वस्तु की इच्छा काम है और प्राप्त
+वस्तु में आसक्ति राग कहलाती है। मन की इन्हीं दो वृत्तियों के कारण
+व्यक्ति या परिवार समाज या राष्ट्र अपनी सार्मथ्य को प्रकट करते हैं।
+हड़ताल और दंगे उपद्रव और युद्ध इन सबके पीछे प्रेरक वृत्तियां हैं काम और
+राग। श्रीकृष्ण कहते हैं मैं बलवानों का काम और राग से वर्जित बल हूँ।
+स्पष्ट है कि यहाँ सामान्य बल की बात नहीं कही गयी है। इस कथन से मानों
+उन्हें सन्तोष नहीं होता है और इसलिये वे आगे और कहते हैं प्राणियों में
+धर्म के अनुकूल काम मैं हूँ। जिसके कारण वस्तु का अस्तित्व होता है वह उसका
+धर्म कहलाता है। मनुष्य का अस्तित्व चैतन्य आत्मा के बिना नहीं हो सकता अत
+वह उसका वास्तविक धर्म या स्वरूप है। व्यवहार में जो विचार भावना और कर्म
+उसके दिव्य स्वरूप के विरुद्ध नहीं है वे धर्म के अन्तर्गत आते हैं। जिन
+विचारों एवं कर्मों से अपने आत्मस्वरूप को पहचानने में सहायता मिलती है
+उन्हें धर्म कहा जाता है और इसके विपरीत कर्म अधर्म कहलाते हैं क्योंकि वे
+उसकी आत्मविस्मृति को दृढ़ करते हैं। उनके वशीभूत होकर मनुष्य पतित होकर
+पशुवत् व्यवहार करने लगता है। धर्म की परिभाषा को ध्यान में रखकर इस श्लोक
+के अध्ययन से उसका अर्थ स्पष्ट हो जाता है। धर्म के अविरुद्ध कामना से
+तात्पर्य साधक की उस इच्छा तथा क्षमता से है जिसके द्वारा वह अपनी
+दुर्बलताओं को समझकर उन्हें दूर करने का प्रयत्न करता है और आत्मोन्नति की
+सीढ़ी पर ऊपर चढ़ता जाता है। भगवान् के कथन को दूसरे शब्दों में इस प्रकार
+कहा जा सकता है कि मैं साधक नहीं वरन् उसमें स्थित आत्मज्ञान की प्रखर
+जिज्ञासा हूँ। अब तक के उपदेश तथा दृष्टान्तों का क्या यह अर्थ हुआ कि आत्मा
+वास्तव में अनात्म जड़ उपाधियों के बन्धन में आ गया है परिच्छिन्न उपाधि
+अपरिच्छिन्न आत्मा को कैसे सीमित कर सकती है इसके उत्तर में भगवान् कहते
+हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.11 And of the strong I am the strength which is devoid of passion and attachment. Among creatures I am desire which is not contrary to righteousness, O scion of the Bharata dyansty.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।7.11।। हे भरत श्रेष्ठ ! मैं बलवानों का कामना तथा आसक्ति से रहित बल हूँ
+और सब भूतों में धर्म के अविरुद्ध अर्थात् अनुकूल काम हूँ।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.11 I am the Strength of the strong, of them who are free from attachment and desire; and, O Arjuna, I am the Desire for righteousness.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-7.11 In the strong, I am strength, devoid of desire and passion. In all beings, I am the desire which is not forbidden by law (Dharma), O Arjuna.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-7.11 Of the strong, I am the strength devoid of desire and attachment,
-and in (all) beings, I am the desire unopposed to Dharma, O Arjuna.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/07_jnAna-vijnAna-yogaH/11_balam_balavatAm.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-7.11 बलम् strength; बलवताम् of the strong; अस्मि am (I);
-कामरागविवर्जितम् devoid of desire and attachment; धर्माविरुद्धः
-unopposed to Dharma; भूतेषु in beings; कामः desire; अस्मि am (I);
-भरतर्षभ O Lord of the Bharatas.Commentary Kama Desire for those objects that come in contact with the senses.Raga attachment for those objects that come in contact with the senses.I am that strength which is necessary for the bare sustenance of the body. I am not the strength which generates desire and attachment for sensual objects as in the case of worldlyminded persons. I am the desire which is in accordance with the teachings of the scriptures or the code prescribing the duties of life. I am the desire for moderate eating and drinking; etc.; which are,necessary for the sustenance of the body and which help one in the practice of Yoga.
-
-</details>
 </div>

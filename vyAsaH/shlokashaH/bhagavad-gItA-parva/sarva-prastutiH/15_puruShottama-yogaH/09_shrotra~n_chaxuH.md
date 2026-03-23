@@ -1,122 +1,57 @@
 +++
 title = "09 श्रोत्रञ् चक्षुः"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 श्रोत्रं चक्षुः स्पर्शनं च  
 रसनं घ्राणम् एव च।  
 **अधिष्ठाय** मनश् चायं  
 **विषयान् उपसेवते**॥15.9॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च।  
-अधिष्ठाय मनश्चायं विषयानुपसेवते।।15.9।।
+अधिष्ठाय मनश्चायं विषयानुपसेवते॥15.9॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-कानि पुनः तानि इन्द्रियाणि इत्याह --
+कानि पुनस् तानि इन्द्रियाणि इत्याह --
 
-।।15.9।। एतानि मनःषष्ठानि इन्द्रियाणि **अधिष्ठाय**
-स्वस्वविषयवृत्त्यनुगुणानि कृत्वा तान् शब्दादीन् **विषयान्** **उपसेवते
-उपभुंक्ते।**
-
+॥15.9॥ एतानि मनःषष्ठानि इन्द्रियाणि **अधिष्ठाय** स्वस्वविषयवृत्त्यनुगुणानि कृत्वा तान् शब्दादीन् **विषयान्** **उपसेवते उपभुङ्क्ते।**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।15.9।। No commentary.  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥15.9॥ No commentary.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.9 Presiding over these sense-organs, of which the mind is the sixth,
-the lord of the body drives the organs towards their corresponding objects like sound and the rest and enjoys them.
+<details><summary>आदिदेवानन्दः</summary>
 
+15.9 Presiding over these sense-organs, of which the mind is the sixth, the lord of the body drives the organs towards their corresponding objects like sound and the rest and enjoys them.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="../11_yatanto_yoginashc.md"></div>
+<details><summary>मूलम्</summary>
+
+॥15.9॥ --,**श्रोत्रं चक्षुः स्पर्शनं च** त्वगिन्द्रियं **रसनं घ्राणमेव च मनश्च** षष्ठं प्रत्येकम् इन्द्रियेण सह; **अधिष्ठाय** देहस्थः **विषयान्** शब्दादीन् **उपसेवते**॥ एवं देहगतं देहात् --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-15.9 See Comment under 15.11
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।15.9।। इन्द्रियद्वाराऽपि सोऽपि भुङ्क्ते। तद्य इमे वीणायां गायन्त्येतं
-ते गायन्ति इति च श्रुतिः। गुणान्वितमेव भुङ्क्ते। न ह वै देवान्पापं
-गच्छति \[बृ.उ.1।5।20\] इति श्रुतेः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।15.9।। अस्तीश्वरस्य भोगः। किन्तु जीवेन्द्रियैर्नास्तीत्यतो
-जीवविषयमेतदित्यत आह -- **इन्द्रिये**ति। राजाद्यन्तर्गतं गायन्तीत्यनेन हि
-तच्छ्रोत्रेण गानभोगो लभ्यते। विषयभोगाङ्गीकारे दुष्टस्यापि भोगः
-स्यादित्यत उत्तरवाक्यगतं विशेषणमाश्रित्याह -- **गुणे**ति।
-गुणमेवेत्यर्थः। एतद्भुञ्जानस्य विशेषणमिति केचित् तान्प्रत्याह -- **न ह
-वा** इति।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।15.9।। --,**श्रोत्रं चक्षुः स्पर्शनं च** त्वगिन्द्रियं **रसनं घ्राणमेव
-च मनश्च** षष्ठं प्रत्येकम् इन्द्रियेण सह; **अधिष्ठाय** देहस्थः
-**विषयान्** शब्दादीन् **उपसेवते**।। एवं देहगतं देहात् --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।15.9।। वे ( मनसहित छः इन्द्रियाँ ) कौनसी हैं, यह शरीरमें स्थित (
-जीवात्मा ) श्रोत्र; चक्षु; त्वचा; रसना और नासिका इनमेंसे प्रत्येक
-इन्द्रियको और उसके छठे मनको; आश्रय बनाकर; शब्दादि विषयोंका सेवन किया
-करता है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 15.9 Seated in the body, it upasevate, enjoys; visayan, the
 objects-sound etc.; adhisthaya, by presiding over; srotram, the ear;
@@ -124,127 +59,174 @@ caksuh, eyes; sparsanam, skin, the organ of touch; rasanam, tongue; eva
 ca, as also; the ghranam, nose; and manah, the mind, the
 sixth-(presiding over) each one of them along with its (corresponding)
 organ.
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।15.9।। मनःषष्ठानीन्द्रियाण्येव प्रश्नद्वारा विशेषतो दर्शयति --
+<details><summary>हरिकृष्णदासः</summary>
+
+॥15.9॥ वे ( मनसहित छः इन्द्रियाँ ) कौनसी हैं, यह शरीरमें स्थित (
+जीवात्मा ) श्रोत्र; चक्षु; त्वचा; रसना और नासिका इनमेंसे प्रत्येक
+इन्द्रियको और उसके छठे मनको; आश्रय बनाकर; शब्दादि विषयोंका सेवन किया
+करता है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥15.9॥ मनःषष्ठानीन्द्रियाण्येव प्रश्नद्वारा विशेषतो दर्शयति --
 **कानीति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।15.9।। तान्येवेन्द्रियाणि दर्शयन् यदर्थं गृहीत्वा गच्छति तदाह --
-श्रोत्रमिति। श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च
-चकारात्कर्मेन्द्रियाणि प्राणं च मनश्च षष्ठमधिष्ठायैव आश्रित्यैव विषयान्
-शब्दादीनयं जीव उपसेवते भुंक्ते।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।15.9।। कानि तानि मनःषष्ठानि। तानि गृहीत्वा गत्वा चायं किं करोतीत्यत आह
+॥15.9॥ कानि तानि मनःषष्ठानि। तानि गृहीत्वा गत्वा चायं किं करोतीत्यत आह
 -- **श्रोत्रमिति।** अधिष्ठाय व्यापारवन्ति कृत्वा विषयान् शब्दादीनुपसेवते
 प्रकाशयति। यथा दीपः स्वस्य वृत्तिलाभाय तैलवर्त्याद्यपेक्षमाणोऽपि
 स्वविषयावभासने स्वयमेव प्रभुः एवं जीवोऽपि घटाकारत्वलाभाय
 मनःषष्ठानीन्द्रियाणि सूर्यादींश्चापेक्षते तथापि घटावभासं स्वयमेव करोति
 नेतराणि इन्द्रियसूर्यादीनि स्वभास्यत्वात्तैलवर्त्यादिवदित्याशयः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।15.9।। कानि पुनस्तानि किमर्थ च तानि गृहीत्वा संयातीति चेत्तत्राह।
+<details><summary>धनपतिः</summary>
+
+॥15.9॥ कानि पुनस्तानि किमर्थ च तानि गृहीत्वा संयातीति चेत्तत्राह।
 श्रोत्रं चक्षुः स्पर्शनं च त्वग्न्द्रियं रसनं घ्राणमेवच।
 चकारत्प्राणादिसमुच्चयः। मनः षष्ठं प्रत्येकमिन्द्रियेण सह अधिष्ठाय
 देहस्थोऽयं जीवो विषयान् शब्दादीनुपसेवते भुङ्क्तेः।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥15.9॥ तान्येवेन्द्रियाणि दर्शयन् यदर्थं गृहीत्वा गच्छति तदाह --
+श्रोत्रमिति। श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च
+चकारात्कर्मेन्द्रियाणि प्राणं च मनश्च षष्ठमधिष्ठायैव आश्रित्यैव विषयान्
+शब्दादीनयं जीव उपसेवते भुंक्ते।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।15.9।। तान्येवेन्द्रियाणि सेवते इति दर्शयन्यदर्थं गृहीत्वा गच्छति तदाह
+॥15.9॥ इन्द्रियद्वाराऽपि सोऽपि भुङ्क्ते। तद्य इमे वीणायां गायन्त्येतं
+ते गायन्ति इति च श्रुतिः। गुणान्वितमेव भुङ्क्ते। न ह वै देवान्पापं
+गच्छति \[बृ.उ.1।5।20\] इति श्रुतेः।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥15.9॥ अस्तीश्वरस्य भोगः। किन्तु जीवेन्द्रियैर्नास्तीत्यतो
+जीवविषयमेतदित्यत आह -- **इन्द्रिये**ति। राजाद्यन्तर्गतं गायन्तीत्यनेन हि
+तच्छ्रोत्रेण गानभोगो लभ्यते। विषयभोगाङ्गीकारे दुष्टस्यापि भोगः
+स्यादित्यत उत्तरवाक्यगतं विशेषणमाश्रित्याह -- **गुणे**ति।
+गुणमेवेत्यर्थः। एतद्भुञ्जानस्य विशेषणमिति केचित् तान्प्रत्याह -- **न ह
+वा** इति।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+
+<details><summary>मूलम्</summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="../11_yatanto_yoginashc.md">
+<details><summary>मूलम्</summary>
+
+॥15.9 -- 15.11॥ एवं सृष्टौ संहारे च एतैः साहित्यम् अस्योक्त्वा स्थिताव् अपि स्थानासन-मननादि-रूपायां +++(N ममतादि)+++ विषय-ग्रहणात्मिकायां +++(omits स्थितावपि
+-- त्मिकायाम्)+++ तत्-सहितस्यैवास्य व्यापार इति निश्चीयते -- श्रोत्रमित्यादि अचेतस इत्यन्तम्।
+
+मनः इत्यनेनान्तःकरणमुपलक्ष्यते। अत एव शरीरस्थितियोगात्तिष्ठन्तम् शरीरान्तरग्रहणाय उत्क्रामन्तम् विषयान्वा भुञ्जानं मूढा न पश्यन्ति; अप्रबुद्धत्त्वात्। प्रबुद्धास्तु सर्वत्रैव बोधरूपमेव अनुसंदधाना +++(S;;N -- रूपमनुसंदधानाः)+++ जानन्त्येव; इत्यलुप्तमसमाधयः; तेषां यत्नपरत्त्वात्। ,अकृतात्मनां तु यत्नोऽपि न फलाय; अपरिपक्वकषायत्त्वात्। न हि शरदि सलिलादिसामग्रीसंमर्देऽपि धान्यबीजानि उप्यमानानि फलसंपदे अलम्। अत एव सामग्री एव सा अस्य न भवति। अन्यदेव किल,+++(S omits किल)+++ मधुमाससंभृतजलधरपटलीप्रेरितमम्भः काचिदेव च सा भूः; यस्यां शिशिरविवशीकृतायां,+++(S;;N शिशिरवशविवशी -- )+++ रविकरस्पर्शेनैव कान्तिः। एवम् अकृतात्मनां यत्नो न सकलाङ्गपरिपूर्णत्वमायाति +++(;N परिपूर्णः कर्तुमायाति)+++। अत एव प्राप्याप्युपायं पारमेश्वरदीक्षादि,( परमेश्वर) ये तथाविधक्रोधमोहादिग्रन्थिसन्दर्भगर्भीकृतान्तर्दृशः ( सन्दर्भीकृतान्तर्दृशः) ; तेषु उपाय एव साकल्यं न भजतीति मन्तव्यम्। यदुक्तम् +++(S;;N तदुक्तम्)+++ -- क्रोधादौ दृश्यमाने हि दीक्षितोऽपि न मुक्तिभाक्। इति।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+15.9-11 Srotram etc. upto asetasah. Mind : the internal organ is hery implied. Hence, due to His association of the bodily existence, when He remains \[in the body\], or rises up to seize another body, or enjoys the sense objects - at that time the deluded persons do not perceive Him, because they are not well enlightened. But, considering everything as manifestation of the \[Self\] awareness, the highly enlightened men recognize Him. Thus they are men of unbroken contemplation. Because they are engrossed in their exertion. But in the case of those who have not mastered their self (mind), even their effort does not yield any fruit, because their passion has not yet been fully decayed. Indeed the seeds of corn, sown during the autumnal season are not capable of yielding a rich harvest, even though the means like water etc., get collected together. Therefore, it (the water etc.) does not constitute a collection of means. Indeed totally different is the water sent forth by the mass of clouds that had been filled up in the month of Madhu. Altogether different is the earth that had been under the grip of the Cold-season (Sisira) and has (now) brilliance by the simple touch of the sun-rays. In the same way, the effort of the men of uncontrolled self, never gets to the stage of fulfilment of all reisities . That is why those who, even after receiving the means like the inititation etc. necessary for the realisation of the Supreme Lord, continue to have their inner vision filled with the collection of the knots (granthi) of anger, bewilderment etc., in the manner as before-in their case, even the means does never bear any fruit. This must be borne in mind. For, it is has been said : 'When anger etc., are seen, then even the initiated one never gets emancipation'.
+</details>
+</div>
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+15.9 See Comment under 15.11
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+
+<details><summary>मूलम्</summary>
+
+॥15.9॥ तान्येवेन्द्रियाणि सेवते इति दर्शयन्यदर्थं गृहीत्वा गच्छति तदाह
 -- श्रोत्रमिति स्पष्टम्। प्राकृताहङ्कारकार्यं स्वस्वविषयवृत्त्यनुगुणं
 कृत्वा तत्तच्छब्दादीन् विषयानुपभुङ्क्ते।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।15.9।। किमर्थं गृहीत्वा गच्छति इत्यत आह -- श्रोत्रमिति।
+<details><summary>पुरुषोत्तमः</summary>
+
+॥15.9॥ किमर्थं गृहीत्वा गच्छति इत्यत आह -- श्रोत्रमिति।
 श्रोत्रादीनीन्द्रियाणि लौकिक-स्थूल-शरीरे स्थूलानि  
 **मनः** अन्तःकरणं  
 **च अधिष्ठाय** मुख्यरूपेण तत्र स्वयं स्थितिं कृत्वा  
 अग्रे अलौकिक-तद्-अनुभवार्थं  
 **विषयान् उप** स्वांश-जीव-समीपे **सेवते** भोगं करोतीत्यर्थः।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।15.9।। तान्येवेन्द्रियाणि दर्शयन्यदर्थं गृहीत्वा गच्छति तदाह **--
+॥15.9॥ तान्येवेन्द्रियाणि दर्शयन्यदर्थं गृहीत्वा गच्छति तदाह **--
 श्रोत्रमिति।** श्रोत्रादीनि बाह्येन्द्रियाणि
 मनश्चान्तःकरणमधिष्ठायाश्रित्य शब्दादीन्विषयानयं जीव उपभुङ्क्ते।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।15.9।। शुद्ध चैतन्य स्वरूप स्वत किसी वस्तु को प्रकाशित नहीं करता है;
-क्योंकि उसमें विषयों का सर्वथा अभाव रहता है। परन्तु यही चैतन्य बुद्धि
-में परावर्तित होकर वस्तुओं को प्रकाशित करता है। यही बुद्धि का प्रकाश
-कहलाता है; जो इन्द्रियों के माध्यम से वस्तुओं को प्रकाशित करता है। मन
-सभी इन्द्रियों के साथ युक्त होता है; जिसके कारण बाह्य वस्तुओं का
-सम्पूर्ण ज्ञान संभव होता है। बुद्धि की उपाधि से युक्त चैतन्य ही विषयों
-का भोक्ता जीव है। यदि यह चैतन्य आत्मा सर्वत्र विद्यमान है और हमारा स्वरूप
-ही है; जिसके द्वारा हम सम्पूर्ण जगत् का अनुभव कर रहे हैं; तो क्या कारण
-है कि हम उसे पहचानते नहीं हैं इसका कारण अज्ञान है। भगवान् कहते हैं
-
+15.9 Presiding over the ear, the eye, the sense of touch, the tongue and the nose, and the mind, It experiences these objects of senses.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।15.9।। (यह जीव) श्रोत्र, चक्षु, स्पर्शेन्द्रिय, रसना और घ्राण (नाक) इन
-इन्द्रियों तथा मन को आश्रय करके अर्थात् इनके द्वारा विषयों का सेवन करता
-है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+15.9 This one enjoys the objects by presiding over the ear, eyes, skin and tongue as also the nose and the mind.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+15.9 He is the perception of the ear, the eye, the touch, the taste and the smell, yea and of the mind also; and the enjoyment the things which they perceive is also His.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+15.9. Presiding over the ear, the eye, the touch-sense the taste-sense and also the smell-sense and the mind, He enjoys the sense objects.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+15.9 Presiding over the ear, the eye, touch, taste and smell, as well as the mind, it enjoys the objects of the senses.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+15.9 श्रोत्रम् the ear; चक्षुः the eye; स्पर्शनम् the (organ of) touch;
+च and; रसनम् the (organ of) taste; घ्राणम् the (organ of) smell; एव
+even; च and; अधिष्ठाय presiding over; मनः the mind; च and; अयम् this
+(soul); विषयान् objects of the senses; उपसेवते enjoys.Commentary Here is a description of how the subtle body remaining in the gross body enjoys the objects of the senses.The individual soul uses the mind along with each sense separately and enjoys or experiences the objects of the senses such as sound; touch; colour (form); taste and smell.It sits on the marvellous car of its mind; passes through the gateway of the ear in the twinkling of an eye and enjoys the various kinds of music of this world. It holds the reins of the nerves of sensation; enters the domain of touch through the portal of the skin and enjoys the diverse kinds of soft objects. It roams about in the hills of beautiful forms and enjoys them through the windows of his eyes. It enters the cave of taste by the avenue of the tongue and enjoyes dainties; palatable dishes and refreshing beverages. It enters the forest of scents through the door of the nose and enjoys them to its hearts content.It makes its abode in the ears; the eyes; the skin; the tongue and the nose; as also in the mind and enjoys the objects of the senses. It gains experiences of the outer world through the mind;,intellect; subconscious mind; egoism; the ten senses and the five vital airs.Ghranameva cha The word cha (and)
+indicates that we shall have to include the five organs of action; and also the fourfold inner instrument (mind; intellect; subconscious mind and egoism). In the Katha Upanishad it is said आत्मेन्द्रियमनोयुक्तं
+भोक्तेत्याहुर्मनीषिणः।। The Self; the senses and the mind united; the wise call the enjoyer.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.9।। यह जीवात्मा मनका आश्रय लेकर श्रोत्र, नेत्र, त्वचा, रसना और घ्राण
 -- इन पाँचों इन्द्रियोंके द्वारा विषयोंका सेवन करता है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।15.9।।***व्याख्या --***  **अधिष्ठाय मनश्चायम् --** मनमें अनेक
 प्रकारके (अच्छेबुरे) संकल्पविकल्प होते रहते हैं। इनसे स्वयं की स्थितिमें
@@ -367,57 +349,26 @@ _________________
 ***सम्बन्ध --***  पीछेके तीन श्लोकोंमें जीवात्माके स्वरूपका वर्णन किया
 गया है। उस विषयका उपसंहार करनेके लिये आगेके श्लोकमें जीवात्माके स्वरूपको
 कौन जानता है और कौन नहीं जानता -- इसका वर्णन करते हैं।**
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-15.9. Presiding over the ear, the eye, the touch-sense the taste-sense and also the smell-sense and the mind, He enjoys the sense objects.
-
+।।15.9।। शुद्ध चैतन्य स्वरूप स्वत किसी वस्तु को प्रकाशित नहीं करता है;
+क्योंकि उसमें विषयों का सर्वथा अभाव रहता है। परन्तु यही चैतन्य बुद्धि
+में परावर्तित होकर वस्तुओं को प्रकाशित करता है। यही बुद्धि का प्रकाश
+कहलाता है; जो इन्द्रियों के माध्यम से वस्तुओं को प्रकाशित करता है। मन
+सभी इन्द्रियों के साथ युक्त होता है; जिसके कारण बाह्य वस्तुओं का
+सम्पूर्ण ज्ञान संभव होता है। बुद्धि की उपाधि से युक्त चैतन्य ही विषयों
+का भोक्ता जीव है। यदि यह चैतन्य आत्मा सर्वत्र विद्यमान है और हमारा स्वरूप
+ही है; जिसके द्वारा हम सम्पूर्ण जगत् का अनुभव कर रहे हैं; तो क्या कारण
+है कि हम उसे पहचानते नहीं हैं इसका कारण अज्ञान है। भगवान् कहते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.9 This one enjoys the objects by presiding over the ear, eyes, skin and tongue as also the nose and the mind.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।15.9।। (यह जीव) श्रोत्र, चक्षु, स्पर्शेन्द्रिय, रसना और घ्राण (नाक) इन
+इन्द्रियों तथा मन को आश्रय करके अर्थात् इनके द्वारा विषयों का सेवन करता
+है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.9 He is the perception of the ear, the eye, the touch, the taste and the smell, yea and of the mind also; and the enjoyment the things which they perceive is also His.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-15.9 Presiding over the ear, the eye, the sense of touch, the tongue and the nose, and the mind, It experiences these objects of senses.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-15.9 Presiding over the ear, the eye, touch, taste and smell, as well as the mind, it enjoys the objects of the senses.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-15.9 श्रोत्रम् the ear; चक्षुः the eye; स्पर्शनम् the (organ of) touch;
-च and; रसनम् the (organ of) taste; घ्राणम् the (organ of) smell; एव
-even; च and; अधिष्ठाय presiding over; मनः the mind; च and; अयम् this
-(soul); विषयान् objects of the senses; उपसेवते enjoys.Commentary Here is a description of how the subtle body remaining in the gross body enjoys the objects of the senses.The individual soul uses the mind along with each sense separately and enjoys or experiences the objects of the senses such as sound; touch; colour (form); taste and smell.It sits on the marvellous car of its mind; passes through the gateway of the ear in the twinkling of an eye and enjoys the various kinds of music of this world. It holds the reins of the nerves of sensation; enters the domain of touch through the portal of the skin and enjoys the diverse kinds of soft objects. It roams about in the hills of beautiful forms and enjoys them through the windows of his eyes. It enters the cave of taste by the avenue of the tongue and enjoyes dainties; palatable dishes and refreshing beverages. It enters the forest of scents through the door of the nose and enjoys them to its hearts content.It makes its abode in the ears; the eyes; the skin; the tongue and the nose; as also in the mind and enjoys the objects of the senses. It gains experiences of the outer world through the mind;,intellect; subconscious mind; egoism; the ten senses and the five vital airs.Ghranameva cha The word cha (and)
-indicates that we shall have to include the five organs of action; and also the fourfold inner instrument (mind; intellect; subconscious mind and egoism). In the Katha Upanishad it is said आत्मेन्द्रियमनोयुक्तं
-भोक्तेत्याहुर्मनीषिणः।। The Self; the senses and the mind united; the wise call the enjoyer.
-
-</details>
 </div>

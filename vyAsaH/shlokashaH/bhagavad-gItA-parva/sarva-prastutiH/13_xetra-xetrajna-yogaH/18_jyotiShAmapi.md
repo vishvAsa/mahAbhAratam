@@ -1,187 +1,57 @@
 +++
 title = "18 ज्योतिषामपि"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 ज्योतिषाम् अपि तज् ज्योतिस्,  
 तमसः परम् उच्यते।  
 ज्ञानं, ज्ञेयं, ज्ञान-गम्यं,  
 **हृदि सर्वस्य विष्ठितम्**॥13.18॥+++(4)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते।  
-ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम्।।13.18।।
+ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम्॥13.18॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।13.17।।**ज्योतिषां** दीपादित्यमणिप्रभृतीनाम् अपि तद् एव **ज्योतिः**
-प्रकाशकम् दीपादित्यादीनाम् अपि आत्मप्रभारूपं ज्ञानम् एव प्रकाशकम्।
-दीपादयः तु विषयेन्द्रियसन्निकर्षविरोधिसंतमसनिरसनमात्रं कुर्वते;
-तावन्मात्रेण एव तेषां प्रकाशकत्वम्। तमसः परम् उच्यते -- तमः शब्दः
-सूक्ष्मावस्थप्रकृतिवचनः; प्रकृतेः परम् उच्यते इत्यर्थः। अतो **ज्ञानं
-ज्ञेयं** ज्ञानैकाकारम् इति ज्ञेयम् तत् च **ज्ञानगम्यम्** अमानित्वादिभिः
-उक्तैः ज्ञानसाधनैः प्राप्यम् इत्यर्थः। **हृदि सर्वस्य विष्ठितं** सर्वस्य
-मनुष्यादेः हृदि विशेषेण अवस्थितं सन्निहितम्।
-
+॥13.17॥**ज्योतिषां** दीपादित्यमणिप्रभृतीनाम् अपि तद् एव **ज्योतिः** प्रकाशकं दीपादित्यादीनाम् अप्य् आत्मप्रभारूपं ज्ञानम् एव प्रकाशकम्। दीपादयस् तु विषयेन्द्रियसन्निकर्षविरोधिसन्तमसनिरसनमात्रं कुर्वते; तावन्मात्रेण एव तेषां प्रकाशकत्वम्। तमसः परम् उच्यते -- तमः शब्दः सूक्ष्मावस्थप्रकृतिवचनः; प्रकृतेः परम् उच्यते इत्यर्थः। अतो **ज्ञानं ज्ञेयं** ज्ञानैकाकारम् इति ज्ञेयं तच् च **ज्ञानगम्यम्** अमानित्वादिभिर् उक्तैर् ज्ञानसाधनैः प्राप्यम् इत्यर्थः। **हृदि सर्वस्य विष्ठितं** सर्वस्य मनुष्यादेर् हृदि विशेषेण अवस्थितं सन्निहितम्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।13.18।। ननु स्वरूपमात्रप्रकाशरूपस्य आत्मस्वरूपस्य कथं
-मण्यादिप्रकाशकत्वं इत्यत्राह -- दीपादित्यादीनामपीति। दीपादित्यादीनां यथा
-विषयसम्बन्धिप्रभाद्वारा प्रकाशकत्वं; न स्वरूपतः तद्वदत्रापि
-प्रभास्थानीयेन ज्ञानाख्यधर्मेण प्रकाशकत्वमिति भावः। अन्यप्रकाशकानामपीति
-अपिशब्दार्थः। प्रकाश्यभूतघटादिवत्तत्प्रकाशकज्ञानाश्रयभूते
-प्रत्यगात्मनीति भावः। विषयेन्द्रियसन्निकर्षशब्देनात्र सामग्री
-मध्यपातिसन्निकर्षोऽभिप्रेतः तन्मूलप्रकाशो वा लक्षितः; सन्तमसस्य
-कुड्यादिवदिन्द्रियसन्निकर्षविरोधित्वाभावात् अन्यथा सन्तमसवर्तिनः
-पुरुषस्य सन्तमसान्तरितप्रकाशमध्यवर्तिनां पदार्थानां
-कुड्यान्तरितपदार्थवदप्रकाशप्रसङ्गात्। एतेन
-दीपादेश्चाक्षुषपदार्थमात्रप्रतिनियततया ज्ञानवन्न सर्वव्यापकं
-प्रकाशकत्वमिति सूचितम्। तावन्मात्रेण; न तु
-साक्षात्प्रकाशजनकत्वेनापीत्यर्थः।  
-  
-ज्योतिस्सन्निकर्षात् प्रसिद्धिप्राचुर्याच्चात्र तमश्शब्दस्य
-तिमिरविषयत्वधीव्युदासायाह -- तमश्शब्द इति। ज्योतिषामपि प्रकाशकतया
-कैमुत्यसिद्धस्य तिमिरात्परत्वस्याभिधाने प्रयोजनाभावात्प्रकृतेः परत्वस्य
-चावश्यवक्तव्यत्वात्तमश्शब्दस्थ चयस्य तमश्शरीरं \[बृ.उ.3।7।13\] तम
-आसीत्तमसा गूढमग्रे प्रकेतं \[ऋक्सं.8।7।17।3\] यदा तमस्तत्
-\[श्वे.उ.4।18\] तमः परे देव एकीभवति \[सुबालो.2\]आसीदिदं तमोभूतं
-\[मनुः1।5\] इत्यादिषु मूलप्रकृतिविषयतया
-श्रौतस्मार्तप्रयोगप्राचुर्याच्चेति भावः। परं अन्यदित्यर्थः। भोक्तृतया
-प्रधानभूतमिति वा। प्रागपि हि ते परावरतया प्रकृती विभक्ते। उच्यत
-इतिनिर्गुणः प्रकृतेः परः इत्यादिष्विति शेषः। एतेन जडवैलक्षण्यं
-विवक्षितमित्यभिप्रायेणाह -- अत इति। पूर्ववद्वैधर्म्यानुसन्धानशक्यतायां
-ज्ञेयशब्दस्य तात्पर्यम् अन्यथा
-पौनरुक्त्यादित्यभिप्रायेणाहज्ञानैकाकारमिति ज्ञेयमिति। ज्ञानगम्यम् इत्यत्र
-सर्वसाधारणज्ञानविषयत्वमात्राभिधाने प्रयोजनाभावात्ज्ञेयम् इत्यनेन
-पौनरुक्त्याद्गम्यशब्दस्य प्राप्यपर्यायत्वप्रसिद्धेश्च प्रकृतिसङ्गतं
-विवक्षितमाहअमानित्वादिभिरिति। एतज्ज्ञानम् \[13।12\] इतिवदत्रापि
-करणव्युत्पत्तिं व्यनक्तिज्ञानसाधनैरुक्तैरिति। मनुष्यादेरिति। पिण्डस्येति
-शेषः। भोक्तृत्वादिरूपेणावस्थानं विशेषेणावस्थानम्। यद्वा हृदि
-स्वरूपेणावस्थानम् अवयवान्तरेषु तु स्वधर्मभूतज्ञानेनेति विशेषः।
-स्थितिशब्दस्यात्र मुख्यार्थायोगात् सन्निधिमात्रपरत्वमुक्तम्सर्वस्य
-गृहेऽप्ययमेव व्रीहिः इतिवज्जात्यैक्यविवक्षया सर्वस्य हृदि
-स्थितिनिर्देशः।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥13.18॥ ननु स्वरूपमात्रप्रकाशरूपस्य आत्मस्वरूपस्य कथं मण्यादिप्रकाशकत्वम् इत्यत्राह -- दीपादित्यादीनामपीति। दीपादित्यादीनां यथा विषयसम्बन्धिप्रभाद्वारा प्रकाशकत्वं; न स्वरूपतः तद्वदत्रापि प्रभास्थानीयेन ज्ञानाख्यधर्मेण प्रकाशकत्वमिति भावः। अन्यप्रकाशकानामपीति अपिशब्दार्थः। प्रकाश्यभूतघटादिवत्तत्प्रकाशकज्ञानाश्रयभूते प्रत्यगात्मनीति भावः। विषयेन्द्रियसन्निकर्षशब्देनात्र सामग्री मध्यपातिसन्निकर्षोऽभिप्रेतः तन्मूलप्रकाशो वा लक्षितः; सन्तमसस्य कुड्यादिवदिन्द्रियसन्निकर्षविरोधित्वाभावात् अन्यथा सन्तमसवर्तिनः पुरुषस्य सन्तमसान्तरितप्रकाशमध्यवर्तिनां पदार्थानां कुड्यान्तरितपदार्थवदप्रकाशप्रसङ्गात्। एतेन दीपादेश्चाक्षुषपदार्थमात्रप्रतिनियततया ज्ञानवन्न सर्वव्यापकं प्रकाशकत्वमिति सूचितम्। तावन्मात्रेण; न तु साक्षात्प्रकाशजनकत्वेनापीत्यर्थः।  
+        
+ज्योतिस्सन्निकर्षात् प्रसिद्धिप्राचुर्याच्चात्र तमश्शब्दस्य तिमिरविषयत्वधीव्युदासायाह -- तमश्शब्द इति। ज्योतिषामपि प्रकाशकतया कैमुत्यसिद्धस्य तिमिरात्परत्वस्याभिधाने प्रयोजनाभावात्प्रकृतेः परत्वस्य चावश्यवक्तव्यत्वात्तमश्शब्दस्थ चयस्य तमश्शरीरं \[बृ.उ.3।7।13\] तम आसीत्तमसा गूढमग्रे प्रकेतं \[ऋक्सं.8।7।17।3\] यदा तमस्तत् \[श्वे.उ.4।18\] तमः परे देव एकीभवति \[सुबालो.2\]आसीदिदं तमोभूतं \[मनुः1।5\] इत्यादिषु मूलप्रकृतिविषयतया श्रौतस्मार्तप्रयोगप्राचुर्याच्चेति भावः। परम् अन्यदित्यर्थः। भोक्तृतया प्रधानभूतमिति वा। प्रागपि हि ते परावरतया प्रकृती विभक्ते। उच्यत इतिनिर्गुणः प्रकृतेः परः इत्यादिष्विति शेषः। एतेन जडवैलक्षण्यं विवक्षितमित्यभिप्रायेणाह -- अत इति। पूर्ववद्वैधर्म्यानुसन्धानशक्यतायां ज्ञेयशब्दस्य तात्पर्यम् अन्यथा पौनरुक्त्यादित्यभिप्रायेणाहज्ञानैकाकारमिति ज्ञेयमिति। ज्ञानगम्यम् इत्यत्र सर्वसाधारणज्ञानविषयत्वमात्राभिधाने प्रयोजनाभावात्ज्ञेयम् इत्यनेन पौनरुक्त्याद्गम्यशब्दस्य प्राप्यपर्यायत्वप्रसिद्धेश्च प्रकृतिसङ्गतं विवक्षितमाहअमानित्वादिभिरिति। एतज्ज्ञानम् \[13।12\] इतिवदत्रापि करणव्युत्पत्तिं व्यनक्तिज्ञानसाधनैरुक्तैरिति। मनुष्यादेरिति। पिण्डस्येति शेषः। भोक्तृत्वादिरूपेणावस्थानं विशेषेणावस्थानम्। यद्वा हृदि स्वरूपेणावस्थानम् अवयवान्तरेषु तु स्वधर्मभूतज्ञानेनेति विशेषः। स्थितिशब्दस्यात्र मुख्यार्थायोगात् सन्निधिमात्रपरत्वमुक्तम्सर्वस्य गृहेऽप्ययमेव व्रीहिः इतिवज्जात्यैक्यविवक्षया सर्वस्य हृदि स्थितिनिर्देशः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.18 This (self) alone is the 'light' which illuminates things like the sun, a lamp, a gem etc. It is knowledge alone in the form of the effulgence of the self which illuminates a lamp, the sun etc. But a lamp etc., dispel the darkness that intervenes between the sense of sight and its subject. Their illuminating power is limited to this extent. This is said to be beyond Tamas (darkness). The term Tamas denotes Prakrti in its subtle state. The meaning is that the self transcends Prakrti.
-Therefore, It is to be comprehended as knowledge, i.e., to be understood as of the form of knowledge. It is attainable by means of knowledge -
-such as modesty etc., already described. It is present in the heart of all, i.e., It is specially settled, or present in the heart of all beings like men etc.
+<details><summary>आदिदेवानन्दः</summary>
 
+13.18 This (self) alone is the 'light' which illuminates things like the sun, a lamp, a gem etc. It is knowledge alone in the form of the effulgence of the self which illuminates a lamp, the sun etc. But a lamp etc., dispel the darkness that intervenes between the sense of sight and its subject. Their illuminating power is limited to this extent. This is said to be beyond Tamas (darkness). The term Tamas denotes Prakrti in its subtle state. The meaning is that the self transcends Prakrti. Therefore, It is to be comprehended as knowledge, i.e., to be understood as of the form of knowledge. It is attainable by means of knowledge - such as modesty etc., already described. It is present in the heart of all, i.e., It is specially settled, or present in the heart of all beings like men etc.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।13.13 -- 13.18।। एतेन ज्ञानेन यत् ज्ञेयं तदुच्यते -- ज्ञेयमित्यादि
-विष्ठितमित्यन्तम्। अनादिमत् परं ब्रह्म इत्यादिभिर्विशेषणैः
-ब्रह्मस्वरूपाक्षेपानुग्राहकं,+++(S -- स्वरूपापेक्षानु -- )+++
-सर्वप्रवादाभिहितविज्ञानापृथग्भावं कथयति +++(S;;N
-सर्वप्रवादान्तराभिहितपृथग्भावकमुच्यते)+++। एतानि च विशेषणानि पूर्वमेव
-व्याख्यातानि इति किं निष्फलया,पुनरुक्त्या।
-
+(13.18॥ -- **ज्योतिषाम्** आदित्यादीनाम**पि** तत् ज्ञेयं **ज्योतिः।** आत्मचैतन्यज्योतिषा इद्धानि हि आदित्यादीनि ज्योतींषि दीप्यन्ते; येन सूर्यस्तपति तेजसेद्धः तस्य भासा सर्वमिदं विभाति (श्वे0 उ₀ 6।14) इत्यादिश्रुतिभ्यः स्मृतेश्च इहैव -- यदादित्यगतं तेजः इत्यादेः। **तमसः** अज्ञानात् **परम्** अस्पृष्टम् **उच्यते।** ज्ञानादेः दुःसंपादनबुद्ध्या प्राप्तावसादस्य उत्तम्भनार्थमाह -- **ज्ञानम्** अमानित्वादि **ज्ञेयम्** ज्ञेयं यत् तत् प्रवक्ष्यामि (गीता 13।12) इत्यादिना उक्तम् **ज्ञानगम्यम्** ज्ञेयमेव ज्ञातं सत् ज्ञानफलमिति ज्ञानगम्यमुच्यते ज्ञायमानं तु ज्ञेयम्। तत् एतत् त्रयमपि **हृदि** बुद्धौ **सर्वस्य** प्राणिजातस्य **विष्ठितं** विशेषेण स्थिम्। तत्रैव हि त्रयं विभाव्यते॥ यथोक्तार्थोपसंहारार्थः अयं श्लोकः आरभ्यते --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.13-18 Jneyam etc. upto visthitam. Beginningless is the Supreme
-Brahman : by means of the attributes (descriptions) like these, \[the
-Bhagavat\] describes the Brahman as being not separate from the Supreme
-Consciousness (or action) expressed in every utterance and \[thus\]
-gracing \[the seeker\] to infer his \[or Its\] own nature. These
-attributes however have already been explained. Hence what is the use of
-a fruitless repetition ;
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।13.18।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।13.18।। Sri Jayatirtha did not comment on this sloka.
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-(13.18।। -- **ज्योतिषाम्** आदित्यादीनाम**पि** तत् ज्ञेयं **ज्योतिः।**
-आत्मचैतन्यज्योतिषा इद्धानि हि आदित्यादीनि ज्योतींषि दीप्यन्ते; येन
-सूर्यस्तपति तेजसेद्धः तस्य भासा सर्वमिदं विभाति (श्वे0 उ₀ 6।14)
-इत्यादिश्रुतिभ्यः स्मृतेश्च इहैव -- यदादित्यगतं तेजः इत्यादेः। **तमसः**
-अज्ञानात् **परम्** अस्पृष्टम् **उच्यते।** ज्ञानादेः दुःसंपादनबुद्ध्या
-प्राप्तावसादस्य उत्तम्भनार्थमाह -- **ज्ञानम्** अमानित्वादि **ज्ञेयम्**
-ज्ञेयं यत् तत् प्रवक्ष्यामि (गीता 13।12) इत्यादिना उक्तम्
-**ज्ञानगम्यम्** ज्ञेयमेव ज्ञातं सत् ज्ञानफलमिति ज्ञानगम्यमुच्यते
-ज्ञायमानं तु ज्ञेयम्। तत् एतत् त्रयमपि **हृदि** बुद्धौ **सर्वस्य**
-प्राणिजातस्य **विष्ठितं** विशेषेण स्थिम्। तत्रैव हि त्रयं
-विभाव्यते।। यथोक्तार्थोपसंहारार्थः अयं श्लोकः आरभ्यते --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।13.18।। यदि सर्वत्र विद्यमान होते हुए भी ज्ञेय प्रत्यक्ष नहीं होता; तो
-क्या वह अन्धकार है नहीं। तो क्या है --, वह ज्ञेय ( परमात्मा ) समस्त
-सूर्यादि ज्योतियोंका भी परम ज्योति है क्योंकि आत्मचैतन्यके प्रकाशसे
-देदीप्यमान होकर ही ये सूर्य आदि समस्त ज्योतियाँ प्रकाशित हो रही हैं। जिस
-तेजसे प्रदीप्त होकर सूर्य तपता है उसीके प्रकाशसे यह सब कुछ प्रकाशित है
-इत्यादि,श्रुतिप्रमाणोंसे और यहीं कहे हुए यदादित्यगतं तेजः इत्यादि
-स्मृतिवाक्योंसे भी उपर्युक्त बात ही सिद्ध होती है। तथा वह ज्ञेय
-अन्धकारसे -- अज्ञानसे परे अर्थात् अस्पृष्ट बतलाया जाता है। ज्ञान आदिका
-सम्पादन करना बहुत दुर्घट है -- ऐसी बुद्धिसे उत्साहरहित -- खिन्नचित्त हुए
-साधकको उत्साहित करनेके लिये कहते हैं -- ज्ञान अर्थात् अमानित्व आदि
-ज्ञानके साधन; ज्ञेय अर्थात् ज्ञेयं यत्तत्प्रवक्ष्यामि इत्यादि वाक्योंसे
-बतलाया हुआ परमात्माका स्वरूप और ज्ञानगम्य -- ज्ञेय ही जान लिया जानेपर
-ज्ञानका फल होनेके कारण ( पहले ) ज्ञानगम्य कहा जाता है और जब जान लिया
-जाता है उस अवस्थामें ज्ञेय कहलाता है। ये तीनों ही समस्त प्राणिमात्रके
-अन्तःकरणमें विशेषरूपसे स्थित हैं क्योंकि ये तीनों वहीं प्रकाशित होते
-हैं।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 13.18 Tat, that Knowable; is the jyotih, Light; api, even; jyotisam, of
 the lights-of the sun etc. For the lights like the sun etc. shine
@@ -202,13 +72,31 @@ visthitam, specially exist; hrdi, in the hearts, in the intellects;
 sarvasya, of all, of all creatures. For these three are, indeed,
 perceived there. This verse is begun for concluding the topic under
 discussion:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।13.17।। इतोऽपि ज्ञेयस्यास्तित्वमित्याह -- **किञ्चेति।** हेत्वन्तरमेव
+<details><summary>हरिकृष्णदासः</summary>
+
+॥13.18॥ यदि सर्वत्र विद्यमान होते हुए भी ज्ञेय प्रत्यक्ष नहीं होता; तो
+क्या वह अन्धकार है नहीं। तो क्या है --, वह ज्ञेय ( परमात्मा ) समस्त
+सूर्यादि ज्योतियोंका भी परम ज्योति है क्योंकि आत्मचैतन्यके प्रकाशसे
+देदीप्यमान होकर ही ये सूर्य आदि समस्त ज्योतियाँ प्रकाशित हो रही हैं। जिस
+तेजसे प्रदीप्त होकर सूर्य तपता है उसीके प्रकाशसे यह सब कुछ प्रकाशित है
+इत्यादि,श्रुतिप्रमाणोंसे और यहीं कहे हुए यदादित्यगतं तेजः इत्यादि
+स्मृतिवाक्योंसे भी उपर्युक्त बात ही सिद्ध होती है। तथा वह ज्ञेय
+अन्धकारसे -- अज्ञानसे परे अर्थात् अस्पृष्ट बतलाया जाता है। ज्ञान आदिका
+सम्पादन करना बहुत दुर्घट है -- ऐसी बुद्धिसे उत्साहरहित -- खिन्नचित्त हुए
+साधकको उत्साहित करनेके लिये कहते हैं -- ज्ञान अर्थात् अमानित्व आदि
+ज्ञानके साधन; ज्ञेय अर्थात् ज्ञेयं यत्तत्प्रवक्ष्यामि इत्यादि वाक्योंसे
+बतलाया हुआ परमात्माका स्वरूप और ज्ञानगम्य -- ज्ञेय ही जान लिया जानेपर
+ज्ञानका फल होनेके कारण ( पहले ) ज्ञानगम्य कहा जाता है और जब जान लिया
+जाता है उस अवस्थामें ज्ञेय कहलाता है। ये तीनों ही समस्त प्राणिमात्रके
+अन्तःकरणमें विशेषरूपसे स्थित हैं क्योंकि ये तीनों वहीं प्रकाशित होते
+हैं।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥13.17॥ इतोऽपि ज्ञेयस्यास्तित्वमित्याह -- **किञ्चेति।** हेत्वन्तरमेव
 स्फोरयितुं शङ्कते -- **सर्वत्रेति।** न तत्तमो मन्तव्यमित्याह --
 **नेति।** तर्हि किं तस्य रूपमिति पृच्छति -- **किं तर्हीति।** तत्रोत्तरं
 -- **ज्योतिषामिति।** सूर्यादीनां बुद्ध्यादीनां च प्रकाशकत्वादस्ति ज्ञेयं
@@ -220,43 +108,11 @@ discussion:
 करणव्युत्पत्त्येति शेषः। ज्ञानगम्यं ज्ञेयमिति पुनरुक्तिं शङ्कित्वोक्तं
 -- **ज्ञेयमिति।** उक्तत्रयस्य बुद्धिस्थतया प्राकट्यं प्रकटयति --
 **तदेतदिति।** तत्रानुभवमनुकूलयति -- **तत्रैवेति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।13.18।। ननु सर्वत्र विद्यमानमपि तन्नोपलभ्यते चेत्तर्हि जडमेव स्यात् न
-स्यात्स्वयंज्योतिषोऽपि तस्य
-रूपादिहीनत्वेनेन्द्रियाद्यग्राह्यत्वोपपत्तेरित्याह -- ज्योतिषामपीति। तत्
-ज्ञेयं ब्रह्म ज्योतिषामवभासकानामादित्यादीनां बुद्ध्यादीनां च
-बाह्यानामान्तराणामपि ज्योतिरवभासकं चैतन्यज्योतिषो
-जडज्योतिरवभासकत्वोपपत्तेः। येन सूर्यस्तपति तेजसेद्धः। तस्य भासा सर्वमिदं
-विभाति इत्यादि श्रुतिभ्यश्च। वक्ष्यति च यदादित्यगतं तेज इत्यादि। स्वयं
-जडत्वाभावेऽपि जडसंसृष्टं स्यादिति नेत्याह -- तमस इति। तमसो जडवर्गात्परं
-अविद्यातत्कार्याभ्यामपारमार्थिकाभ्यामसंस्पृष्टं पारमार्थिकं तद् ब्रह्म
-सदसतोः संबन्धायोगात्। उच्यतेअक्षरात्परतः परः
-इत्यादिश्रुतिभिर्ब्रह्मवादिभिश्च। तदुक्तंनिःसङ्गस्य ससङ्गेन कूटस्थस्य
-विकारिणा। आत्मनोऽनात्मना योगो वास्तवो नोपपद्यतेआदित्यवर्णं तमसः परस्तात्
-इत्यादिश्रुतेश्च। आदित्यवर्णमिति स्वभाने प्रकाशान्तरानपेक्षम्। सर्वस्य
-प्रकाशकमित्यर्थः। यस्मात्तत्स्वयंज्योतिर्जडासंस्पृष्टं अतएव तज्ज्ञानं
-प्रमाणजन्यचेतोवृत्त्यभिव्यक्तसंविद्रूपं अतएव तदेव ज्ञेयं
-ज्ञातुमर्हमज्ञातत्वाज्जडस्याज्ञातत्वाभावेन ज्ञातुमनर्हत्वात्। कथं तर्हि
-सर्वैर्न ज्ञायते तत्राह -- ज्ञानेति। ज्ञानगम्यं पूर्वोक्तेनामानित्वादिना
-तत्त्वज्ञानार्थदर्शनान्तेन साधनकलापेन ज्ञानहेतुतया ज्ञानशब्दितेन गम्यं
-प्राप्यं नतु तद्विनेत्यर्थः। ननु साधनेन गम्यं चेत्तत्किं
-देशान्तरव्यवहितं नेत्याह -- हृदीति। हृदि सर्वस्य धिष्ठितं सर्वस्य
-प्राणिजातस्य हृदि बुद्धौ धिष्ठितं सर्वत्र सामान्येन स्थितमपि विशेषरूपेण
-तत्र स्थितमभिव्यक्ते जीवरूपेणान्तर्यामिरूपेण च सौरं तेज
-इवादर्शसूर्यकान्तादौ अव्यवहितमेव वस्तुतो भ्रान्त्या व्यवहितमिव
-सर्वभ्रमकारणाज्ञाननिवृत्त्या प्राप्यत इवेत्यर्थः।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।13.18।। एवं ज्ञेयस्य तटस्थलक्षणमुक्त्वा स्वरूपलक्षणमाह --
+॥13.18॥ एवं ज्ञेयस्य तटस्थलक्षणमुक्त्वा स्वरूपलक्षणमाह --
 **ज्योतिषामिति।** ज्योतिषां बाह्यानामादित्यादीनामान्तराणां च
 बुद्ध्यादीनामितरावभासकानामपि तज्ज्ञेयं ब्रह्म ज्योतिरवभासकं।
 चैतन्यज्योतिषो जडज्योतिरवभासकत्वोपपत्तेः। तथा च श्रुतयःयेन सूर्यस्तपति
@@ -272,13 +128,11 @@ discussion:
 बाल्ययौवनाद्यवस्थान्तरवत्कालव्यवहितं वा तत्प्राप्यमस्तीत्यत आह -- **हृदि
 सर्वस्य विष्ठितमिति।** स्वात्मभूतमेव तदन्तर्दृष्टीनां सम्यक्प्रकाशत
 इत्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।13.18।। सर्वत्र विद्यमानं सन्नोपलभ्यते चेज्ज्ञेयं तर्हि तम इति
+<details><summary>धनपतिः</summary>
+
+॥13.18॥ सर्वत्र विद्यमानं सन्नोपलभ्यते चेज्ज्ञेयं तर्हि तम इति
 भ्रमनिवृत्त्यर्थमाह -- ज्योतिषमिति। ज्योतिषामादित्यादीनां
 बुद्य्धादीनामपि तज्ज्ञेयं
 ज्योतिस्तेषामात्मचैतन्यज्योतिरिद्धदीप्तिमत्त्वात्। येन सूर्यस्तपति
@@ -305,32 +159,82 @@ discussion:
 बाह्यं रुपाद्याकारमन्तर्भूतानां हृदि अभिव्यक्तजीवरुपेणान्तर्यामिरुपेण च
 स्थितं ज्योतिषामपि तज्जयोतिर्वृत्त्याभिव्यक्तसंविदादिरुपेण बुद्य्धादीनां
 प्रकाशकमित्येवंरित्या बोध्यः।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥13.18॥ ननु सर्वत्र विद्यमानमपि तन्नोपलभ्यते चेत्तर्हि जडमेव स्यात् न
+स्यात्स्वयंज्योतिषोऽपि तस्य
+रूपादिहीनत्वेनेन्द्रियाद्यग्राह्यत्वोपपत्तेरित्याह -- ज्योतिषामपीति। तत्
+ज्ञेयं ब्रह्म ज्योतिषामवभासकानामादित्यादीनां बुद्ध्यादीनां च
+बाह्यानामान्तराणामपि ज्योतिरवभासकं चैतन्यज्योतिषो
+जडज्योतिरवभासकत्वोपपत्तेः। येन सूर्यस्तपति तेजसेद्धः। तस्य भासा सर्वमिदं
+विभाति इत्यादि श्रुतिभ्यश्च। वक्ष्यति च यदादित्यगतं तेज इत्यादि। स्वयं
+जडत्वाभावेऽपि जडसंसृष्टं स्यादिति नेत्याह -- तमस इति। तमसो जडवर्गात्परं
+अविद्यातत्कार्याभ्यामपारमार्थिकाभ्यामसंस्पृष्टं पारमार्थिकं तद् ब्रह्म
+सदसतोः संबन्धायोगात्। उच्यतेअक्षरात्परतः परः
+इत्यादिश्रुतिभिर्ब्रह्मवादिभिश्च। तदुक्तंनिःसङ्गस्य ससङ्गेन कूटस्थस्य
+विकारिणा। आत्मनोऽनात्मना योगो वास्तवो नोपपद्यतेआदित्यवर्णं तमसः परस्तात्
+इत्यादिश्रुतेश्च। आदित्यवर्णमिति स्वभाने प्रकाशान्तरानपेक्षम्। सर्वस्य
+प्रकाशकमित्यर्थः। यस्मात्तत्स्वयंज्योतिर्जडासंस्पृष्टं अतएव तज्ज्ञानं
+प्रमाणजन्यचेतोवृत्त्यभिव्यक्तसंविद्रूपं अतएव तदेव ज्ञेयं
+ज्ञातुमर्हमज्ञातत्वाज्जडस्याज्ञातत्वाभावेन ज्ञातुमनर्हत्वात्। कथं तर्हि
+सर्वैर्न ज्ञायते तत्राह -- ज्ञानेति। ज्ञानगम्यं पूर्वोक्तेनामानित्वादिना
+तत्त्वज्ञानार्थदर्शनान्तेन साधनकलापेन ज्ञानहेतुतया ज्ञानशब्दितेन गम्यं
+प्राप्यं नतु तद्विनेत्यर्थः। ननु साधनेन गम्यं चेत्तत्किं
+देशान्तरव्यवहितं नेत्याह -- हृदीति। हृदि सर्वस्य धिष्ठितं सर्वस्य
+प्राणिजातस्य हृदि बुद्धौ धिष्ठितं सर्वत्र सामान्येन स्थितमपि विशेषरूपेण
+तत्र स्थितमभिव्यक्ते जीवरूपेणान्तर्यामिरूपेण च सौरं तेज
+इवादर्शसूर्यकान्तादौ अव्यवहितमेव वस्तुतो भ्रान्त्या व्यवहितमिव
+सर्वभ्रमकारणाज्ञाननिवृत्त्या प्राप्यत इवेत्यर्थः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।13.18।। ज्योतिषामिति। प्रकाशकानां चेतनानां च तन्मूलं ज्योतिरध्यात्मरूपं
+॥13.18॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥13.18॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+
+<details><summary>मूलम्</summary>
+
+॥13.13 -- 13.18॥ एतेन ज्ञानेन यत् ज्ञेयं तदुच्यते -- ज्ञेयमित्यादि विष्ठितमित्यन्तम्। अनादिमत् परं ब्रह्म इत्यादिभिर्विशेषणैः ब्रह्मस्वरूपाक्षेपानुग्राहकं,+++(S -- स्वरूपापेक्षानु -- )+++ सर्वप्रवादाभिहितविज्ञानापृथग्भावं कथयति +++(S;;N सर्वप्रवादान्तराभिहितपृथग्भावकमुच्यते)+++। एतानि च विशेषणानि पूर्वमेव व्याख्यातानि इति किं निष्फलया,पुनरुक्त्या।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+13.13-18 Jneyam etc. upto visthitam. Beginningless is the Supreme Brahman : by means of the attributes (descriptions) like these, \[the Bhagavat\] describes the Brahman as being not separate from the Supreme Consciousness (or action) expressed in every utterance and \[thus\] gracing \[the seeker\] to infer his \[or Its\] own nature. These attributes however have already been explained. Hence what is the use of a fruitless repetition ;
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+
+<details><summary>मूलम्</summary>
+
+॥13.18॥ ज्योतिषामिति। प्रकाशकानां चेतनानां च तन्मूलं ज्योतिरध्यात्मरूपं
 प्रकाशकं। अतएवोक्तं -- चैत्त्यस्य तत्त्वममलं मणिमस्य कण्ठे
 \[भाग.3।38।28\] इति। तमसः प्रकृतेः परं तम आसीत्तमसा गूह्ळमग्रे प्रकेतं
 \[ऋक्सं.8।7।17।3\] इति श्रुतावप्युच्यते। अन्तर्यामिपदं च तदित्याह --
 हृदि सर्वस्य धिष्ठितमिति स्पष्टम्। ज्ञायतेऽनेनेति ज्ञानं चैतन्यं
 ज्ञानसाधनं अमानित्वादिरूपं वा। तत्तु ज्ञेयं च तज्ज्ञानगम्य हृदि सर्वस्य
 धिष्ठितम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।13.18।। किञ्च -- ज्योतिषामिति। ज्योतिषां
+<details><summary>पुरुषोत्तमः</summary>
+
+॥13.18॥ किञ्च -- ज्योतिषामिति। ज्योतिषां
 रविचन्द्रादीनामन्यप्रकाशमानानामपि तदेव ज्योतिः प्रकाशकमित्यर्थः। अत्रायं
 भावः -- न तत्र सूर्यो भाति \[कठो.5।15श्वे.उ.6।14मुण्ड.2।2।10\]
 इत्यादिश्रुत्या तत्रैतेषामभानमुक्तं; तथाच तत्प्रकटनवैयर्थ्यं
@@ -347,19 +251,14 @@ _________________
 ज्ञानरूपत्वेन सर्वागम्यत्वमुक्तं तत्कथं ज्ञानगम्यं इत्याह -- हृदीति।
 सर्वस्य प्राणिमात्रस्य हृदि धिष्ठितम्; अधिष्ठितमित्यर्थः।
 सर्वप्रेरकत्वेन स्थितं तेन यत्र तथेच्छा तत्र ज्ञानरूपेणाविर्भवति; यत्र न
-ज्ञापनेच्छा तत्राऽऽच्छादकत्वेन भवतीति भावः।  
-  
-
+ज्ञापनेच्छा तत्राऽऽच्छादकत्वेन भवतीति भावः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।13.18।। किंच **-- ज्योतिषामिति।** ज्योतिषां चन्द्रादित्यादीनामपि
+॥13.18॥ किंच **-- ज्योतिषामिति।** ज्योतिषां चन्द्रादित्यादीनामपि
 तज्ज्योतिः प्रकाशकं ततोयेन सूर्यस्तपति तेजसेद्धःन तत्र सूर्यो भाति न
 चन्द्रतारकं नेमा विद्युतो भान्ति कुतोऽयमग्निः। तमेव भान्तमनु भाति सर्वं
 तस्य भासा सर्वमिदं विभाति इत्यादिश्रुतेः। अतएव तमसोऽज्ञानात्परं
@@ -370,98 +269,60 @@ _________________
 विष्ठितं विशेषेणाप्रच्युतस्वरूपेण नियन्तृतया स्थितम्। धिष्ठितमिति
 पाठेऽधिष्ठाय स्थितमित्यर्थः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।13.18।। ब्रह्म ही वह एक चैतन्यस्वरूप प्रकाश है; जिसके द्वारा सभी
-बौद्धिक ज्ञान अन्तर्प्रज्ञा और अनुभव प्रकाशित होते हैं। उसके कारण ही
-हमें अपने विविध ज्ञानों तथा अनुभवों का बोध या भान होता है; इसलिए उसकी
-तुलना प्रकाश या ज्योति से की जाती है। केवल हमारे नेत्र के समक्ष होने से
-ही बाह्य वस्तुओं का हमें दर्शन नहीं हो सकता वरन् किसी बाह्य प्रकाश से
-उनका प्रकाशित होना भी आवश्यक होता है। इस लौकिक अनुभव को दृष्टान्त स्वरूप
-मानें; तो यह भी स्वीकार करना होगा कि हमारी आन्तरिक भावनाओं और विचारों को
-भी प्रकाशित करने वाला कोई अन्तर्प्रकाश होना चाहिए; अन्यथा इन वृत्तियों
-का हमें बोध ही नहीं हो सकता था। अन्तकरण की वृत्तिय्ाों के इस प्रकाशक को
-ही स्वयं प्रकाश आत्मा; या आत्मज्योति कहा जाता है। इस चैतन्य को प्रकाश या
-ज्योति कहना आध्यात्मिक शास्त्र की परम्परा है। वेदान्त अध्ययन के
-प्रारम्भिक काल में; शास्त्रीय भाषा से अनभिज्ञ होने के कारण; जिज्ञासु
-साधकगण प्रकाश शब्द से लौकिक प्रकाश ही समझते हैं। परन्तु यह धारणा यथार्थ
-नहीं है; क्योंकि लौकिक प्रकाश तो दृश्यवर्ग में आता है; जबकि आत्मा तो
-सर्वद्रष्टा है। अत; दृश्यप्रकाश आत्मा नहीं हो सकता और न आत्मा इस प्रकाश
-के समान हो सकता है। इसलिए; यह आवश्यक हो जाता है कि गुरु; इस आत्मप्रकाश
-या आत्मज्योति जैसे शब्दों का वास्तविक तात्पर्य स्पष्ट करें। ज्योतियों की
-ज्योति द्रष्टा को लक्षित करने के लिए सर्वप्रथम सम्पूर्ण दृश्यवर्ग का
-निषेध करना होगा; अर्थात् वे आत्मा नहीं हैं; यह सिद्ध करना होगा। प्रकाश
-के जो स्रोत सूर्य; चन्द्रमा; तारागण; विद्युत् और अग्नि हमें ज्ञात हैं;
-उनमें किसी में भी आत्मा को प्रकाशित करने की सार्मथ्य नहीं है। उसके समक्ष
-ये सब निष्प्रभ हो जाते हैं। इसलिए भगवान् श्रीकृष्ण उस आत्मा को ज्योतियों
-की ज्योति कहते हैं; जो सभी लौकिक दृश्य ज्योतियों को भी प्रकाशित करती है
-स्वयं प्रकाश कहे जाने वाले इस सूर्य का हमें भान तक नहीं होता; यदि
-चैतन्यतत्त्व इसे प्रकाशित न कर रहा होता। संसार के सुख और दुख से हम केवल
-तभी प्रभावित होते हैं जब हमें उनका भान होता है। और यह भान केवल चैतन्य के
-प्रकाश से ही सम्भव है। इसलिए; चैतन्य को सम्पूर्ण दृश्य वर्ग का प्रकाशक
-कहा गया है। वह अन्धकार के परे है इतना अधिक स्पष्ट करने पर भी; लौकिक
-प्रकाश के ज्ञान का संस्कार शिष्य की बुद्धि में अत्यन्त दृढ़ होने के कारण
-वह फिर उसे प्रकाश की सापेक्ष धारणा के रूप में ही ग्रहण करता है। हम बाह्य
-प्रकाश को अन्धकार के विरोधी के रूप में ही जानते और समझते हैं। सूर्य के
-लिए प्रकाश शब्द का कोई अर्थ नहीं है; क्योंकि सूर्य को अन्धकार ज्ञात ही
-नहीं है अत; आत्मा के पारमार्थिक चैतन्यस्वरूप को दर्शाने के लिए यहाँ कहा
-गया है कि वह अन्धकार की कल्पना के भी परे है। यह चैतन्य का प्रकाश ऐसा
-सूक्ष्म है कि वह प्रकाश और अन्धकार दोनों को ही प्रकाशित करता है। उसका
-किसी से कोई विरोध नहीं है। भगवान् के इस कथन का एक अर्थ यह भी हो सकता है
-कि आत्मा वह प्रकाश है; जो हमारे अन्तकरण की ज्ञान (प्रकाश) और अज्ञान
-(अन्धकार) इन दोनों ही वृत्तियों का प्रकाशक है परन्तु वह स्वयं इन दोनों
-से ही असंस्पृष्ट रहता है। इस श्लोक की दूसरी पंक्ति में तीन शब्दों ज्ञान;
-ज्ञेय और ज्ञानगम्य के द्वारा इस आत्मा या ब्रह्म का ही निर्देश किया गया
-है। वह ब्रह्म ज्ञान अर्थात् चैतन्यस्वरूप है ब्रह्म ही जानने योग्य ज्ञेय
-वस्तु है; क्योंकि उसके ज्ञान से ही संसार निवृत्ति हो सकती है। यह ब्रह्म
-ज्ञानगम्य है अर्थात् अमानित्वादि गुणों से सम्पन्न शुद्ध अन्तकरण के
-द्वारा अनुभव गम्य है। वह सबके हृदय में स्थित है यदि कोई ऐसा अनन्तस्वरूप
-चैतन्य तत्त्व है; जो सर्वाभासक है और जिसके बिना जीवन का कोई अस्तित्व ही
-नहीं है; तो निश्चित ही वह जानने योग्य है। उसे प्राप्त करना ही हमारे जीवन
-का लक्ष्य हो सकता है। उसका अन्वेषण कहाँ करें कौनसी तीर्थयात्रा पर हमें
-जाना होगा क्या हम ऐसी साहसिक यात्रा के सक्षम हैं सामान्यत; लोग ऐसे ही
-प्रश्न पूछते हैं; जिससे यह ज्ञात होता है कि वे आत्मा को अपने से भिन्न
-कोई वस्तु समझते हैं; जिसकी प्राप्ति किसी देशान्तर या कालान्तर में होने
-की उनकी धारणा होती है। ऐसी समस्त विपरीत धारणाओं की निवृत्ति के लिए यहाँ
-स्पष्ट और साहसिक घोषणा की गयी है कि वह अनन्त परमात्मा सबके हृदय में ही
-स्थित है। दार्शनिक दृष्टि से; हृदय शब्द का अर्थ शुद्ध मन से होता है; जो
-समस्त आदर्श और पवित्र भावनाओं का उदय स्थान माना जाता है। आन्तरिक शुद्धि
-के इस वातावरण में; जब बुद्धि उस पारमार्थिक आत्मतत्त्व का ध्यान करती है;
-जो सर्वातीत होते हुए सर्वव्यापक भी है; तब वह स्वयं ही आत्मस्वरूप बन जाती
-है। यही आत्मानुभूति है। इसीलिए; हृदय को आत्मा का निवास स्थान माना गया
-है। स्वहृदय में स्थित आत्मा का अनुभव ही अनन्त ब्रह्म का अनुभव है;
-क्योंकि आत्मा ही ब्रह्म है। इस प्रकरण का उपसंहार करते हुए भगवान् कहते हैं
-
+13.18 The light of all lights, this is said to be beyond Tamas
+(darkness). It is known to be knowledge. It is to be attained by knowledge. It is present in the heart of all.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।13.18।। (वह ब्रह्म) ज्योतियों की भी ज्योति और (अज्ञान) अन्धकार से परे
-कहा जाता है। वह ज्ञान (चैतन्यस्वरूप) ज्ञेय और ज्ञान के द्वारा जानने
-योग्य (ज्ञानगम्य) है। वह सभी के हृदय में स्थित है।।  
-  
+<details><summary>गम्भीरानन्दः</summary>
 
+13.18 That is the Light even of the lights; It is spoken of as beyond darkness. It is Knowledge, the Knowable, and the Known. It exists specially \[A variant reading is dhisthitam.-Tr.\] in the hearts of all.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+13.18 It is the Light of lights, beyond the reach of darkness; the Wisdom, the only thing that is worth knowing or that wisdom can teach;
+the Presence in the hearts of all.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+13.18. This is the Light even of \[all\] the lights, \[and\] is stated to be beyond darkness; It is to be known by \[the above\] knowledge; It is to be attained \[only\] by knowledge; and It distinctly remains in the heart of all.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+13.18 That, the Light of all lights, is said to be beyond darkness:
+knowledge, the knowable and the goal of knowledge, seated in the hearts of all.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+13.18 ज्योतिषाम् of lights; अपि even; तत् That; ज्योतिः Light; तमसः from darkness; परम् beyond; उच्यते is said (to be); ज्ञानम् knowledge;
+ज्ञेयम् that which is to be known; ज्ञानगम्यम् attainable by knowledge;
+हृदि in the heart; सर्वस्य of all; विष्ठितम् seated.Commentary The Supreme Self illumines the intellect; the mind; the sun; moon; stars;
+fire and lightning. It is selfluminous; The sun does not shine there;
+nor do the moon and the stars; nor do these lightnings shine and much less this fire. When It shines; everything shines after It all these shine by Its Light. (Kathopanishad 5.15 also Svetasvataropanishad 6.14)Knowledge Such as humility. (Cf.XIII.7to11)The knowable As described in verses 12 to 7.The goal of knowledge; i.e.; capable of being understood by wisdom.These three are installed in the heart
+(Buddhi) of every living being. Though the light of the sun shines in all objects; yet the suns light shines more brilliantly in all bright and clean objects such as a mirror. Even so; though Brahman is present in all objects; the intellect shines with special effulgence received from Brahman. (Cf.X.20XIII.3XVIII.61)
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.18।। वह परमात्मा सम्पूर्ण ज्योतियोंका भी ज्योति और अज्ञानसे अत्यन्त
 परे कहा गया है। वह ज्ञानस्वरूप, जाननेयोग्य, ज्ञान(साधन-समुदाय) से
 प्राप्त करनेयोग्य और सबके हृदयमें विराजमान है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।13.18।।***व्याख्या --***  **ज्योतिषामपि तज्ज्योतिः --** ज्योति नाम
 प्रकाश(ज्ञान) का है अर्थात् जिनसे प्रकाश मिलता है; ज्ञान होता है; वे सभी
@@ -542,60 +403,76 @@ _________________
 परमात्मा ही हैं -- ऐसा अनुभव हो जाता है। यही वास्तविक अनुभव
 है।***सम्बन्ध --***  पहले श्लोकसे सत्रहवें श्लोकतक क्षेत्र; ज्ञान और
 ज्ञेयका जो वर्णन हुआ है; अब आगेके श्लोकमें फलसहित उसका उपसंहार करते हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-13.18. This is the Light even of \[all\] the lights, \[and\] is stated to be beyond darkness; It is to be known by \[the above\] knowledge; It is to be attained \[only\] by knowledge; and It distinctly remains in the heart of all.
-
+।।13.18।। ब्रह्म ही वह एक चैतन्यस्वरूप प्रकाश है; जिसके द्वारा सभी
+बौद्धिक ज्ञान अन्तर्प्रज्ञा और अनुभव प्रकाशित होते हैं। उसके कारण ही
+हमें अपने विविध ज्ञानों तथा अनुभवों का बोध या भान होता है; इसलिए उसकी
+तुलना प्रकाश या ज्योति से की जाती है। केवल हमारे नेत्र के समक्ष होने से
+ही बाह्य वस्तुओं का हमें दर्शन नहीं हो सकता वरन् किसी बाह्य प्रकाश से
+उनका प्रकाशित होना भी आवश्यक होता है। इस लौकिक अनुभव को दृष्टान्त स्वरूप
+मानें; तो यह भी स्वीकार करना होगा कि हमारी आन्तरिक भावनाओं और विचारों को
+भी प्रकाशित करने वाला कोई अन्तर्प्रकाश होना चाहिए; अन्यथा इन वृत्तियों
+का हमें बोध ही नहीं हो सकता था। अन्तकरण की वृत्तिय्ाों के इस प्रकाशक को
+ही स्वयं प्रकाश आत्मा; या आत्मज्योति कहा जाता है। इस चैतन्य को प्रकाश या
+ज्योति कहना आध्यात्मिक शास्त्र की परम्परा है। वेदान्त अध्ययन के
+प्रारम्भिक काल में; शास्त्रीय भाषा से अनभिज्ञ होने के कारण; जिज्ञासु
+साधकगण प्रकाश शब्द से लौकिक प्रकाश ही समझते हैं। परन्तु यह धारणा यथार्थ
+नहीं है; क्योंकि लौकिक प्रकाश तो दृश्यवर्ग में आता है; जबकि आत्मा तो
+सर्वद्रष्टा है। अत; दृश्यप्रकाश आत्मा नहीं हो सकता और न आत्मा इस प्रकाश
+के समान हो सकता है। इसलिए; यह आवश्यक हो जाता है कि गुरु; इस आत्मप्रकाश
+या आत्मज्योति जैसे शब्दों का वास्तविक तात्पर्य स्पष्ट करें। ज्योतियों की
+ज्योति द्रष्टा को लक्षित करने के लिए सर्वप्रथम सम्पूर्ण दृश्यवर्ग का
+निषेध करना होगा; अर्थात् वे आत्मा नहीं हैं; यह सिद्ध करना होगा। प्रकाश
+के जो स्रोत सूर्य; चन्द्रमा; तारागण; विद्युत् और अग्नि हमें ज्ञात हैं;
+उनमें किसी में भी आत्मा को प्रकाशित करने की सार्मथ्य नहीं है। उसके समक्ष
+ये सब निष्प्रभ हो जाते हैं। इसलिए भगवान् श्रीकृष्ण उस आत्मा को ज्योतियों
+की ज्योति कहते हैं; जो सभी लौकिक दृश्य ज्योतियों को भी प्रकाशित करती है
+स्वयं प्रकाश कहे जाने वाले इस सूर्य का हमें भान तक नहीं होता; यदि
+चैतन्यतत्त्व इसे प्रकाशित न कर रहा होता। संसार के सुख और दुख से हम केवल
+तभी प्रभावित होते हैं जब हमें उनका भान होता है। और यह भान केवल चैतन्य के
+प्रकाश से ही सम्भव है। इसलिए; चैतन्य को सम्पूर्ण दृश्य वर्ग का प्रकाशक
+कहा गया है। वह अन्धकार के परे है इतना अधिक स्पष्ट करने पर भी; लौकिक
+प्रकाश के ज्ञान का संस्कार शिष्य की बुद्धि में अत्यन्त दृढ़ होने के कारण
+वह फिर उसे प्रकाश की सापेक्ष धारणा के रूप में ही ग्रहण करता है। हम बाह्य
+प्रकाश को अन्धकार के विरोधी के रूप में ही जानते और समझते हैं। सूर्य के
+लिए प्रकाश शब्द का कोई अर्थ नहीं है; क्योंकि सूर्य को अन्धकार ज्ञात ही
+नहीं है अत; आत्मा के पारमार्थिक चैतन्यस्वरूप को दर्शाने के लिए यहाँ कहा
+गया है कि वह अन्धकार की कल्पना के भी परे है। यह चैतन्य का प्रकाश ऐसा
+सूक्ष्म है कि वह प्रकाश और अन्धकार दोनों को ही प्रकाशित करता है। उसका
+किसी से कोई विरोध नहीं है। भगवान् के इस कथन का एक अर्थ यह भी हो सकता है
+कि आत्मा वह प्रकाश है; जो हमारे अन्तकरण की ज्ञान (प्रकाश) और अज्ञान
+(अन्धकार) इन दोनों ही वृत्तियों का प्रकाशक है परन्तु वह स्वयं इन दोनों
+से ही असंस्पृष्ट रहता है। इस श्लोक की दूसरी पंक्ति में तीन शब्दों ज्ञान;
+ज्ञेय और ज्ञानगम्य के द्वारा इस आत्मा या ब्रह्म का ही निर्देश किया गया
+है। वह ब्रह्म ज्ञान अर्थात् चैतन्यस्वरूप है ब्रह्म ही जानने योग्य ज्ञेय
+वस्तु है; क्योंकि उसके ज्ञान से ही संसार निवृत्ति हो सकती है। यह ब्रह्म
+ज्ञानगम्य है अर्थात् अमानित्वादि गुणों से सम्पन्न शुद्ध अन्तकरण के
+द्वारा अनुभव गम्य है। वह सबके हृदय में स्थित है यदि कोई ऐसा अनन्तस्वरूप
+चैतन्य तत्त्व है; जो सर्वाभासक है और जिसके बिना जीवन का कोई अस्तित्व ही
+नहीं है; तो निश्चित ही वह जानने योग्य है। उसे प्राप्त करना ही हमारे जीवन
+का लक्ष्य हो सकता है। उसका अन्वेषण कहाँ करें कौनसी तीर्थयात्रा पर हमें
+जाना होगा क्या हम ऐसी साहसिक यात्रा के सक्षम हैं सामान्यत; लोग ऐसे ही
+प्रश्न पूछते हैं; जिससे यह ज्ञात होता है कि वे आत्मा को अपने से भिन्न
+कोई वस्तु समझते हैं; जिसकी प्राप्ति किसी देशान्तर या कालान्तर में होने
+की उनकी धारणा होती है। ऐसी समस्त विपरीत धारणाओं की निवृत्ति के लिए यहाँ
+स्पष्ट और साहसिक घोषणा की गयी है कि वह अनन्त परमात्मा सबके हृदय में ही
+स्थित है। दार्शनिक दृष्टि से; हृदय शब्द का अर्थ शुद्ध मन से होता है; जो
+समस्त आदर्श और पवित्र भावनाओं का उदय स्थान माना जाता है। आन्तरिक शुद्धि
+के इस वातावरण में; जब बुद्धि उस पारमार्थिक आत्मतत्त्व का ध्यान करती है;
+जो सर्वातीत होते हुए सर्वव्यापक भी है; तब वह स्वयं ही आत्मस्वरूप बन जाती
+है। यही आत्मानुभूति है। इसीलिए; हृदय को आत्मा का निवास स्थान माना गया
+है। स्वहृदय में स्थित आत्मा का अनुभव ही अनन्त ब्रह्म का अनुभव है;
+क्योंकि आत्मा ही ब्रह्म है। इस प्रकरण का उपसंहार करते हुए भगवान् कहते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.18 That is the Light even of the lights; It is spoken of as beyond darkness. It is Knowledge, the Knowable, and the Known. It exists specially \[A variant reading is dhisthitam.-Tr.\] in the hearts of all.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।13.18।। (वह ब्रह्म) ज्योतियों की भी ज्योति और (अज्ञान) अन्धकार से परे
+कहा जाता है। वह ज्ञान (चैतन्यस्वरूप) ज्ञेय और ज्ञान के द्वारा जानने
+योग्य (ज्ञानगम्य) है। वह सभी के हृदय में स्थित है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.18 It is the Light of lights, beyond the reach of darkness; the Wisdom, the only thing that is worth knowing or that wisdom can teach;
-the Presence in the hearts of all.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-13.18 The light of all lights, this is said to be beyond Tamas
-(darkness). It is known to be knowledge. It is to be attained by knowledge. It is present in the heart of all.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-13.18 That, the Light of all lights, is said to be beyond darkness:
-knowledge, the knowable and the goal of knowledge, seated in the hearts of all.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-13.18 ज्योतिषाम् of lights; अपि even; तत् That; ज्योतिः Light; तमसः from darkness; परम् beyond; उच्यते is said (to be); ज्ञानम् knowledge;
-ज्ञेयम् that which is to be known; ज्ञानगम्यम् attainable by knowledge;
-हृदि in the heart; सर्वस्य of all; विष्ठितम् seated.Commentary The Supreme Self illumines the intellect; the mind; the sun; moon; stars;
-fire and lightning. It is selfluminous; The sun does not shine there;
-nor do the moon and the stars; nor do these lightnings shine and much less this fire. When It shines; everything shines after It all these shine by Its Light. (Kathopanishad 5.15 also Svetasvataropanishad 6.14)Knowledge Such as humility. (Cf.XIII.7to11)The knowable As described in verses 12 to 7.The goal of knowledge; i.e.; capable of being understood by wisdom.These three are installed in the heart
-(Buddhi) of every living being. Though the light of the sun shines in all objects; yet the suns light shines more brilliantly in all bright and clean objects such as a mirror. Even so; though Brahman is present in all objects; the intellect shines with special effulgence received from Brahman. (Cf.X.20XIII.3XVIII.61)
-
-</details>
 </div>

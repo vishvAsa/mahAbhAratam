@@ -1,91 +1,120 @@
 +++
 title = "16 अनेकबाहूदरवक्त्रनेत्रम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 अनेक-बाहूदर-वक्त्र-नेत्रं  
 **पश्यामि** त्वां सर्वतो ऽनन्त-रूपम्।  
 **नान्तं** न मध्यं न पुनस् तवादिं  
 **पश्यामि** विश्वेश्वर विश्वरूप॥11.16॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 अनेकबाहूदरवक्त्रनेत्रं  
 पश्यामि त्वां सर्वतोऽनन्तरूपम्।  
 नान्तं न मध्यं न पुनस्तवादिं  
-पश्यामि विश्वेश्वर विश्वरूप।।11.16।।
+पश्यामि विश्वेश्वर विश्वरूप॥11.16॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।11.16।।**अनेकबाहूदरवक्त्रनेत्रम् अनन्तरूपं त्वां सर्वतः पश्यामि।
-विश्वेश्वर** विश्वस्त नियन्तः **विश्वरूप** विश्वशरीर यतः त्वम् अनन्तः;
-अतः तव **न अन्तं न मध्यं न पुनः तव आदिं च पश्यामि।**
-
+॥11.16॥**अनेकबाहूदरवक्त्रनेत्रम् अनन्तरूपं त्वां सर्वतः पश्यामि। विश्वेश्वर** विश्वस्त नियन्तः **विश्वरूप** विश्वशरीर यतस् त्वम् अनन्तः; अतस् तव **न अन्तं न मध्यं न पुनस् तव आदिं च पश्यामि।**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।11.16।। सर्वतोऽनन्तरूपम् इत्यन्वयेसर्वतः इति शब्दस्य वैय्यर्थ्यं
-स्यात्सर्वतः पश्यामि इत्यन्वयस्तु दिव्यचक्षुर्लाभानुगुणत्वाद्युक्तः।
-विश्वरूपत्वे हेतुपरो विश्वेश्वरशब्द इत्यभिप्रायेणाहविश्वस्य नियन्तरिति।
-व्याप्यनियन्ता हि शरीरी। नान्तं न मध्यम् इत्यादौ विद्यमानस्यादर्शनं न
-विवक्षितम् अर्जुनस्य दिव्यचक्षुर्लाभेन तदयोगात्; अन्यत्रअनन्तरूपम् इति
-हेतुगर्भविशेषणाद्विषयाभावादेव
-शशश्रृङ्गादेरिवादर्शनमुक्तमित्यभिप्रायेणाहयत इति। इदं चविश्वरूप
-इत्यनेनापि विवक्षितम्। अत्र देशतः कालतश्चादिमध्यान्तनिषेधो भाव्यः।
-आद्यन्तरूपावच्छेदाभावात्तदुभयनिरूपणीयमध्याभावोऽपि सिद्धः।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥11.16॥ सर्वतोऽनन्तरूपम् इत्यन्वयेसर्वतः इति शब्दस्य वैय्यर्थ्यं स्यात्सर्वतः पश्यामि इत्यन्वयस्तु दिव्यचक्षुर्लाभानुगुणत्वाद्युक्तः। विश्वरूपत्वे हेतुपरो विश्वेश्वरशब्द इत्यभिप्रायेणाहविश्वस्य नियन्तरिति। व्याप्यनियन्ता हि शरीरी। नान्तं न मध्यम् इत्यादौ विद्यमानस्यादर्शनं न विवक्षितम् अर्जुनस्य दिव्यचक्षुर्लाभेन तदयोगात्; अन्यत्रअनन्तरूपम् इति हेतुगर्भविशेषणाद्विषयाभावादेव शशश्रृङ्गादेरिवादर्शनमुक्तमित्यभिप्रायेणाहयत इति। इदं चविश्वरूप इत्यनेनापि विवक्षितम्। अत्र देशतः कालतश्चादिमध्यान्तनिषेधो भाव्यः। आद्यन्तरूपावच्छेदाभावात्तदुभयनिरूपणीयमध्याभावोऽपि सिद्धः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.16 I behold Your infinite form on all sides with many arms, stomachs,
-mouths and eyes. O Lord of the universe, namely, the controller of the universe, O Universal Form having the universe as Your body! As You are infinite, therefore, I see no end, no middle and no beginning for You.
+<details><summary>आदिदेवानन्दः</summary>
 
+11.16 I behold Your infinite form on all sides with many arms, stomachs, mouths and eyes. O Lord of the universe, namely, the controller of the universe, O Universal Form having the universe as Your body! As You are infinite, therefore, I see no end, no middle and no beginning for You.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।11.16।। No commentary.  
-  
-
+॥11.16॥ --,**अनेकबाहूदरवक्त्रनेत्रम्** अनेके बाहवः उदराणि वक्त्राणि नेत्राणि च यस्य तव सः त्वम् अनेकबाहूदरवक्त्रनेत्रः तम् अनेकबाहूदरवक्त्रनेत्रम्। **पश्यामि त्वा** त्वां **सर्वतः** सर्वत्र **अनन्तरूपम्** अनन्तानि रूपाणि अस्य इति अनन्तरूपः तम् अनन्तरूपम्। ,**न अन्तम्;** अन्तः अवसानम्; **न मध्यम्;** मध्यं नाम द्वयोः कोट्योः अन्तरम्; न **पुनः तव आदिम्** -- न देवस्य अन्तं **पश्यामि;** न मध्यं पश्यामि; न पुनः आदिं पश्यामि; हे **विश्वेश्वर विश्वरूप**॥ किञ्च --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.16 Sri Abhinavagupta did not comment upon this sloka.
+<details><summary>गम्भीरानन्दः</summary>
 
+11.16 Pasyami, I see; tvam, You; aneka-bahu-udara-vaktra-netram, as
+possessed of numerous arms, bellies, mouths and eyes; ananta-rupam,
+having infinite forms; sarvatah, all around. Visveswara, O Lord of the
+Universe; visva-rupa, O Cosmic Person; na pasyami, I see not; \['I do
+not see-because of Your all-pervasiveness.'\] tava, Your; antam, end; na
+madhyam, nor the middle-what lies between two extremities; na punah, nor
+again; the adim, beginning-I see not the limit (end) nor the middle, nor
+again the beginning, of You who are God! Furthermore,
 </details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥11.16॥ मैं आपको अनेकों भुजा; उदर; मुख और नेत्रोंवाला अर्थात् आपके जिस
+स्वरूपमें अनेकों भुजा; उदर; मुख और नेत्र हैं ऐसे रूपवाला तथा सब ओरसे
+अनन्त रूपवाला अर्थात् जिसके सर्वत्र अनन्त रूप हैं ऐसा; देख रहा हूँ। हे
+विश्वेश्वर हे विश्वरूप मैं आपका न तो अन्त अर्थात् समाप्ति; न मध्य
+अर्थात् आदि और अन्तके बीचकी अवस्था और न आदि ही देखता हूँ; अभिप्राय यह कि
+मुझे आप परमात्मदेवका न अन्त दिखलायी देता है; न मध्य दीखता है और न आपका
+आदि ही दिखलायी देता है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥11.16॥ यत्र भगवद्देहे सर्वमिदं दृष्टं तमेव विशिनष्टि -- **अनेकेति।**
+आदिशब्देन मूलमुच्यते। नान्तं न मध्यमित्यत्रापि पश्यामीत्यस्य प्रत्येकं
+संबन्धं सूचयति -- **नान्तं पश्यामीति।**
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥11.16॥ अनेके अनन्ता बाहव उदराणि वक्त्राणि नेत्राणि च
+यस्मिंस्तदनेकबाहूदरवक्त्रनेत्रम्।
+सर्वतश्चतुर्दिक्षूपर्यधश्चानन्तमपरिच्छिन्नं रूपमस्य तम्। अनन्तत्वमेवाह
+-- **नान्तमिति।** दीर्घरज्ज्वा इव तवाद्यन्तौ दैशिकौ न स्त इत्यर्थः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥11.16॥ यस्य देहे सर्वं दृष्टं तं देहवन्तं विशिनष्टि। अनेकानि बाह्वदीनि
+यस्य तं त्वां; सर्वत्रानन्तानि रुपाण्यस्येति तं पश्यामि। तवादिमन्तं
+मध्यं पुनर्न पश्यामि विश्वदर्शनं तव देहे युक्तं विश्वरुपत्वात्तवेति
+सूचनार्थम्। हे विश्वरुपेतिसंबोधनम्। विश्वस्याद्यन्तमध्यवत्त्वेऽपि तव
+तद्वत्त्वं नास्ति विश्वरुपत्वेऽपि विश्वेश्वरत्वात्तवेति द्योतनार्थ
+विश्वेश्वरेति संबोधनम्।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥11.16॥ यत्र भगवद्देहे सर्वमिदं दृष्टवान् तमेव विशिनष्टि -- अनेकेति।
+बाहव उदराणि वक्त्राणि नेत्राणि चानेकानि यस्य तमनेकबाहूदरवक्त्रनेत्रं
+पश्यामि त्वां सर्वतः सर्वत्र। अनन्तानि रूपाणि यस्येति तम्। तव तु
+पुनर्नान्तमवसानं न मध्यं नाप्यादिं पश्यामि सर्वगतत्वात्। हे विश्वेश्वर
+हे विश्वरूप। संबोधनद्वयमतिसंभ्रमात्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।11.16।। अनेकशब्दोऽनन्तवाची;अनन्तबाहुं \[11।19\] इति स्वयं
+॥11.16॥ अनेकशब्दोऽनन्तवाची;अनन्तबाहुं \[11।19\] इति स्वयं
 वक्ष्यतिसर्वतः पाणिपादं तत् इत्यादि च। विश्वतश्चक्षुरुत विश्वतोमुखो
 विश्वतोबाहुरुत विश्वतस्पात्। सं बाहुभ्यां धमति सं पतत्त्रैर्द्यावाभूमी
 जनयन् देव एकः \[ऋक्सं.2।2।4।24म.ना.2।2श्वे.उ.3।3\] इति ऋग्वेदखिलेषु।
@@ -117,13 +146,11 @@ _________________
 न मध्यमिति। अन्यथा आद्यन्तभावेनैव तत्सिद्धेः। विश्वरूपः पूर्णरूपः स
 विश्वरूपो अनूनरूपो अतोऽयं सोऽनन्तरूपो न हि नाशोऽस्ति तस्य इति
 शाण्डिल्यशाखायाम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।11.16।। अनेकबाहूदरवक्त्रनेत्रं इत्यत्रानेकशब्दस्य द्व्यादौ पर्यवसानात्
+<details><summary>जयतीर्थः</summary>
+
+॥11.16॥ अनेकबाहूदरवक्त्रनेत्रं इत्यत्रानेकशब्दस्य द्व्यादौ पर्यवसानात्
 विवक्षितमर्थमाह -- **अनेकेति**। अनेनानेकवक्त्रनयनमित्यपि व्याख्यातम्।
 कुत एतत् इत्यत आह -- **अनन्तेति**। सर्वत
 इत्यस्यार्थस्तात्पर्यनिर्णयेऽवगन्तव्यः इत्यादि च वक्ष्यति। बाहुभ्यां
@@ -203,139 +230,110 @@ _________________
 आद्यन्तसापेक्षत्वात् मध्यस्य तदभावोक्त्यैव तदभावसिद्धेः। विश्वं महदादिकं
 रूपं स्वरूपमस्येति प्रतीतिं सप्रमाणकं निवायरति -- **विश्वरूप इति**।
 एतच्चाभ्यासरूपमिति मन्तव्यम्।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।11.16।। --,**अनेकबाहूदरवक्त्रनेत्रम्** अनेके बाहवः उदराणि वक्त्राणि
-नेत्राणि च यस्य तव सः त्वम् अनेकबाहूदरवक्त्रनेत्रः तम्
-अनेकबाहूदरवक्त्रनेत्रम्। **पश्यामि त्वा** त्वां **सर्वतः** सर्वत्र
-**अनन्तरूपम्** अनन्तानि रूपाणि अस्य इति अनन्तरूपः तम् अनन्तरूपम्। ,**न
-अन्तम्;** अन्तः अवसानम्; **न मध्यम्;** मध्यं नाम द्वयोः कोट्योः अन्तरम्;
-न **पुनः तव आदिम्** -- न देवस्य अन्तं **पश्यामि;** न मध्यं पश्यामि; न
-पुनः आदिं पश्यामि; हे **विश्वेश्वर विश्वरूप**।। किञ्च --,
-
+॥11.16॥ No commentary.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।11.16।। मैं आपको अनेकों भुजा; उदर; मुख और नेत्रोंवाला अर्थात् आपके जिस
-स्वरूपमें अनेकों भुजा; उदर; मुख और नेत्र हैं ऐसे रूपवाला तथा सब ओरसे
-अनन्त रूपवाला अर्थात् जिसके सर्वत्र अनन्त रूप हैं ऐसा; देख रहा हूँ। हे
-विश्वेश्वर हे विश्वरूप मैं आपका न तो अन्त अर्थात् समाप्ति; न मध्य
-अर्थात् आदि और अन्तके बीचकी अवस्था और न आदि ही देखता हूँ; अभिप्राय यह कि
-मुझे आप परमात्मदेवका न अन्त दिखलायी देता है; न मध्य दीखता है और न आपका
-आदि ही दिखलायी देता है।
+<details><summary>शङ्करनारायणः</summary>
 
+11.16 Sri Abhinavagupta did not comment upon this sloka.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.16 Pasyami, I see; tvam, You; aneka-bahu-udara-vaktra-netram, as
-possessed of numerous arms, bellies, mouths and eyes; ananta-rupam,
-having infinite forms; sarvatah, all around. Visveswara, O Lord of the
-Universe; visva-rupa, O Cosmic Person; na pasyami, I see not; \['I do
-not see-because of Your all-pervasiveness.'\] tava, Your; antam, end; na
-madhyam, nor the middle-what lies between two extremities; na punah, nor
-again; the adim, beginning-I see not the limit (end) nor the middle, nor
-again the beginning, of You who are God! Furthermore,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।11.16।। यत्र भगवद्देहे सर्वमिदं दृष्टं तमेव विशिनष्टि -- **अनेकेति।**
-आदिशब्देन मूलमुच्यते। नान्तं न मध्यमित्यत्रापि पश्यामीत्यस्य प्रत्येकं
-संबन्धं सूचयति -- **नान्तं पश्यामीति।**
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।11.16।। यत्र भगवद्देहे सर्वमिदं दृष्टवान् तमेव विशिनष्टि -- अनेकेति।
-बाहव उदराणि वक्त्राणि नेत्राणि चानेकानि यस्य तमनेकबाहूदरवक्त्रनेत्रं
-पश्यामि त्वां सर्वतः सर्वत्र। अनन्तानि रूपाणि यस्येति तम्। तव तु
-पुनर्नान्तमवसानं न मध्यं नाप्यादिं पश्यामि सर्वगतत्वात्। हे विश्वेश्वर
-हे विश्वरूप। संबोधनद्वयमतिसंभ्रमात्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।11.16।। अनेके अनन्ता बाहव उदराणि वक्त्राणि नेत्राणि च
-यस्मिंस्तदनेकबाहूदरवक्त्रनेत्रम्।
-सर्वतश्चतुर्दिक्षूपर्यधश्चानन्तमपरिच्छिन्नं रूपमस्य तम्। अनन्तत्वमेवाह
--- **नान्तमिति।** दीर्घरज्ज्वा इव तवाद्यन्तौ दैशिकौ न स्त इत्यर्थः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।11.16।। यस्य देहे सर्वं दृष्टं तं देहवन्तं विशिनष्टि। अनेकानि बाह्वदीनि
-यस्य तं त्वां; सर्वत्रानन्तानि रुपाण्यस्येति तं पश्यामि। तवादिमन्तं
-मध्यं पुनर्न पश्यामि विश्वदर्शनं तव देहे युक्तं विश्वरुपत्वात्तवेति
-सूचनार्थम्। हे विश्वरुपेतिसंबोधनम्। विश्वस्याद्यन्तमध्यवत्त्वेऽपि तव
-तद्वत्त्वं नास्ति विश्वरुपत्वेऽपि विश्वेश्वरत्वात्तवेति द्योतनार्थ
-विश्वेश्वरेति संबोधनम्।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।11.16।। अनेकेति। कूटस्थत्वात्।
-
+॥11.16॥ अनेकेति। कूटस्थत्वात्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।11.16।। यस्य देहे न एतान् पश्यामि तादृशं त्वां च पश्यामीत्याह
+<details><summary>पुरुषोत्तमः</summary>
+
+॥11.16॥ यस्य देहे न एतान् पश्यामि तादृशं त्वां च पश्यामीत्याह
 भ्रमाभावाय -- अनेकेति। अनेकानि बाह्वादीनि यस्य। सर्वतोऽनन्तानि रूपाणि
 यस्यैतादृशं त्वां पश्यामि। तादृशानेकरूपस्यापि तव अन्तं पूर्णभावं;,मध्यं
 स्थितिस्थानम्; आदिमुत्पत्तिस्थानं न पश्यामि। विश्वेश्वर विश्वपरिपालक किं
-बहुना विश्वरूपं पश्यामि।  
-  
-
+बहुना विश्वरूपं पश्यामि।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।11.16।। किंच **-- अनेकेति।** अनेकानि बाह्वादीनि यस्य तादृशं पश्यामि।
+॥11.16॥ किंच **-- अनेकेति।** अनेकानि बाह्वादीनि यस्य तादृशं पश्यामि।
 अनन्तानि रूपाणि यस्य तं त्वां सर्वतः पश्यामि। तव तु अन्तं मध्यमादिं च न
 पश्यामि सर्वगतत्वात्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+11.16 With manifold arms, stomachs, mouths and eyes, I behold Your infinite form on all sides. I see no end, no middle nor the beginning too of You, O Lord of the universe, O You of Universal Form.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+11.16 I see You as possessed of numerous arms, bellies, mouths and eyes;
+as having infinite forms all around. O Lord of the Universe, O Cosmic Person, I see not Your limit nor the middle, nor again the beginning!
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+11.16 I see Thee, infinite in form, with, as it were, faces, eyes and limbs everywhere; no beginning, no middle, no end; O Thou Lord of the Universe, Whose Form is universal!
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+11.16. I behold You of many arms, bellies, mouths and eyes and of infinite forms on all sides; of You, I find neither the end, nor the centre, nor the beginnng too, O Lord of the universe, O Universal-formed One !
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+11.16 I see Thee of boundless form on every side with many arms,
+stomachs, mouths and eyes: neither the end nor the middle nor also the beginning do I see, O Lord of the universe, O Cosmic Form.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+11.16 अनेकबाहूदरवक्त्रनेत्रम् with manifold arms; stomachs; mouths and eyes; पश्यामि (I) see; त्वाम् Thee; सर्वतः on every side; अनन्तरूपम् of boundless form; न not; अनत्म् end; न not; मध्यम् middle; न not;
+पुनः,again; तव Thy; आदिम् origin; पश्यामि (I) see; विश्वेश्वर O Lord of the universe; विश्वरूप O Cosmic Form.Commentary A thing that is limited by space and time has a begining; a middle and an end; but the Lord is omnipresent and eternal. He exists in the three periods of time -- past;
+present and future; but is not limited by time and space. Therefore He has neither a beginning nor middle nor end.Arjuna could have this divine vision only with the help of the divine eye bestowed upon him by the Lord. He who has supreme devotion to the Lord and on whom the Lord showers His grace can enjoy this wondrous vision.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।11.16।। हे विश्वरूप ! हे विश्वेश्वरव ! आपको मैं अनेक हाथों, पेटों,
+मुखों और नेत्रोंवाला तथा सब ओरसे अनन्त रूपोंवाला देख रहा हूँ। मैं आपके न
+आदिको, न मध्यको और न अन्तको ही देख रहा हूँ।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+।।11.16।।***व्याख्या--*'विश्वरूप',विश्वेश्वर'--**इन दो सम्बोधनोंका
+तात्पर्य है कि मेरेको जो कुछ भी दीख रहा है, वह सब आप ही हैं और इस
+विश्वके मालिक भी आप ही हैं। सांसारिक मनुष्योंके शरीर तो जड होते हैं और
+उनमें शरीरी चेतन होता है; परन्तु आपके विराट्रूपमें शरीर और शरीरी-- ये दो
+विभाग नहीं हैं। विराट्रूपमें शरीर और शरीरीरूपसे एक आप ही हैं। इसलिये
+विराट्रूपमें सब कुछ चिन्मय-ही-चिन्मय है। तात्पर्य यह हुआ कि अर्जुन
+विश्वरूप सम्बोधन देकर यह कह रहे हैं कि आप ही शरीर हैं और 'विश्वेश्वर'
+सम्बोधन देकर यह कह रहे हैं कि आप ही शरीरी (शरीरके मालिक) हैं।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।11.16।। विश्वरूप के अनन्त वैभव को एक ही दृष्टिक्षेप में देख पाने के
 लिए मानव की परिच्छिन्न बुद्धि उपयुक्त साधन नहीं है। इस रूप के परिमाण की
@@ -355,88 +353,13 @@ _________________
 श्लोक सभी परिच्छिन्न वस्तुओं के और मरणशील प्राणियों में सूत्र रूप से
 व्याप्त उस एकत्व का दर्शन कराते हैं; जिसने उन्हें इस विश्वरूपी माला के
 रूप मे धारण किया हुआ हैअर्जुन आगे कहता है
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।11.16।। हे विश्वेश्वर! मैं आपकी अनेक बाहु, उदर, मुख और नेत्रों से
 युक्त तथा सब ओर से अनन्त रूपों वाला देखता हूँ। हे विश्वरूप! मैं आपके न
 अन्त को देखता हूँ और न मध्य को और न आदि को।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।11.16।। हे विश्वरूप ! हे विश्वेश्वरव ! आपको मैं अनेक हाथों, पेटों,
-मुखों और नेत्रोंवाला तथा सब ओरसे अनन्त रूपोंवाला देख रहा हूँ। मैं आपके न
-आदिको, न मध्यको और न अन्तको ही देख रहा हूँ।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-।।11.16।।***व्याख्या--*'विश्वरूप',विश्वेश्वर'--**इन दो सम्बोधनोंका
-तात्पर्य है कि मेरेको जो कुछ भी दीख रहा है, वह सब आप ही हैं और इस
-विश्वके मालिक भी आप ही हैं। सांसारिक मनुष्योंके शरीर तो जड होते हैं और
-उनमें शरीरी चेतन होता है; परन्तु आपके विराट्रूपमें शरीर और शरीरी-- ये दो
-विभाग नहीं हैं। विराट्रूपमें शरीर और शरीरीरूपसे एक आप ही हैं। इसलिये
-विराट्रूपमें सब कुछ चिन्मय-ही-चिन्मय है। तात्पर्य यह हुआ कि अर्जुन
-विश्वरूप सम्बोधन देकर यह कह रहे हैं कि आप ही शरीर हैं और 'विश्वेश्वर'
-सम्बोधन देकर यह कह रहे हैं कि आप ही शरीरी (शरीरके मालिक) हैं।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-11.16. I behold You of many arms, bellies, mouths and eyes and of infinite forms on all sides; of You, I find neither the end, nor the centre, nor the beginnng too, O Lord of the universe, O Universal-formed One !
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-11.16 I see You as possessed of numerous arms, bellies, mouths and eyes;
-as having infinite forms all around. O Lord of the Universe, O Cosmic Person, I see not Your limit nor the middle, nor again the beginning!
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-11.16 I see Thee, infinite in form, with, as it were, faces, eyes and limbs everywhere; no beginning, no middle, no end; O Thou Lord of the Universe, Whose Form is universal!
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-11.16 With manifold arms, stomachs, mouths and eyes, I behold Your infinite form on all sides. I see no end, no middle nor the beginning too of You, O Lord of the universe, O You of Universal Form.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-11.16 I see Thee of boundless form on every side with many arms,
-stomachs, mouths and eyes: neither the end nor the middle nor also the beginning do I see, O Lord of the universe, O Cosmic Form.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-11.16 अनेकबाहूदरवक्त्रनेत्रम् with manifold arms; stomachs; mouths and eyes; पश्यामि (I) see; त्वाम् Thee; सर्वतः on every side; अनन्तरूपम् of boundless form; न not; अनत्म् end; न not; मध्यम् middle; न not;
-पुनः,again; तव Thy; आदिम् origin; पश्यामि (I) see; विश्वेश्वर O Lord of the universe; विश्वरूप O Cosmic Form.Commentary A thing that is limited by space and time has a begining; a middle and an end; but the Lord is omnipresent and eternal. He exists in the three periods of time -- past;
-present and future; but is not limited by time and space. Therefore He has neither a beginning nor middle nor end.Arjuna could have this divine vision only with the help of the divine eye bestowed upon him by the Lord. He who has supreme devotion to the Lord and on whom the Lord showers His grace can enjoy this wondrous vision.
-
-</details>
 </div>

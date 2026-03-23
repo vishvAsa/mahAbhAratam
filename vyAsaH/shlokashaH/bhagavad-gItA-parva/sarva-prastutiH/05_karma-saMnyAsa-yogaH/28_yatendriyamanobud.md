@@ -1,193 +1,58 @@
 +++
 title = "28 यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **यतेन्द्रिय-मनो-बुद्धिर्**  
 मुनिर् मोक्ष-परायणः।  
 विगतेच्छा-भय-क्रोधो  
 यः **सदा मुक्त एव** सः॥5.28॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः।  
-विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः।।5.28।।
+विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः॥5.28॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।5.28।। बाह्यान् विषय**स्पर्शान् बहिः कृत्वा** बाह्येन्द्रियव्यापारं
-सर्वम् उपसंहृत्य योगयोग्यासने ऋजुकाय उपविश्य **चक्षुः भ्रुवोः अन्तरे**
-नासाग्रे विन्यस्य **नासाभ्यन्तरचारिणौ प्राणापानौ समौ कृत्वा** उच्छवासनिः
-श्वासौ समगति कृत्वा आत्मावलोकनाद् अन्यत्र
-प्रवृत्त्यन**र्हेन्द्रियमनोबुद्धिः** तत एव **विगतेच्छाभयक्रोधो**
-**मोक्षपरायणो** मोक्षैकप्रयोजनो **मुनिः** आत्मावलोकनशीलो **यः सदा मुक्त
-एव** साध्यदशायाम् इव साधनदशायाम् अपि मुक्त एव **स** इत्यर्थः। उक्तस्य
-नित्यनैमित्तिककर्मेति कर्तव्यताकस्य कर्मयोगस्य योगशिरस्कस्य सुशकताम् आह
-
+॥5.28॥ बाह्यान् विषय**स्पर्शान् बहिः कृत्वा** बाह्येन्द्रियव्यापारं सर्वम् उपसंहृत्य योगयोग्यासने ऋजुकाय उपविश्य **चक्षुर् भ्रुवोर् अन्तरे** नासाग्रे विन्यस्य **नासाभ्यन्तरचारिणौ प्राणापानौ समौ कृत्वा** उच्छवासनिः श्वासौ समगति कृत्वा आत्मावलोकनाद् अन्यत्र प्रवृत्त्यन**र्हेन्द्रियमनोबुद्धिः** तत एव **विगतेच्छाभयक्रोधो** **मोक्षपरायणो** मोक्षैकप्रयोजनो **मुनिः** आत्मावलोकनशीलो **यः सदा मुक्त एव** साध्यदशायाम् इव साधनदशायाम् अपि मुक्त एव **स** इत्यर्थः। उक्तस्य नित्यनैमित्तिककर्मेति कर्तव्यताकस्य कर्मयोगस्य योगशिरस्कस्य सुशकताम् आह
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।। 5.28ज्ञानकर्मात्मिके निष्ठे योगलक्षे सुसंस्कृते।
-आत्मानुभूतिसिद्ध्यर्थे पूर्वषट्केन चोदिते गी.सं.2 इति सङ्ग्रहमनुसन्दधान
-उत्तरश्लोकानां सङ्गतिमाह उक्तं कर्मयोगमिति।
-स्पर्शशब्दस्यात्रानुभवपरस्यानुभाव्यार्थज्ञापनायविषयस्पर्शानित्युक्तम्।
-फलितमाह बाह्येन्द्रियव्यापारं सर्वमुपसंहृत्येति। उपविश्यासने 6।12
-इत्यादिवक्ष्यमाणानुसन्धानेनयोगयोग्येत्याद्युक्तम्। चक्षुः इत्येकवचनं
-करणाकारैक्यादिति दर्शयितुंचक्षुषी इत्युक्तम्। सम्प्रेक्ष्य नासिकाग्रं
-स्वं 6।13 इति वक्ष्यमाणेननासाग्रन्यस्तलोचनः इत्यादिप्रकरणान्तरोक्त्या
-चभ्रुवोरन्तरे कृत्वा इत्यस्यैकार्थ्यमाहनासाग्र इति।
-नासाभ्यन्तरसञ्चारमात्रस्य स्वतस्सिद्धस्य विधेयत्वायोगात्समौ कृत्वा
-इत्येतदेव विधेयमिति दर्शयितुंनासाभ्यन्तरचारिणौ प्राणापानावित्यनुवादः।
-अपानस्य नासाभ्यन्तरसञ्चारव्यञ्जनायउच्छ्वासनिश्श्वासावित्युक्तम्। एक एव
-हि वायुर्नासापुटेन निष्कामन् प्रविशंश्च प्राणोऽपान इति चोच्यते।
-वृत्तिस्थानादिसाम्यायोगात्तद्गतिसाम्योक्तिः। न दीर्घमुच्छ्वसन्नापि
-निश्श्वसन्नित्यर्थः।
-साक्षात्कारात्यन्ताव्यवहितपूर्वावस्थाविषयत्वाद्यतशब्दस्यप्रवृत्त्यनर्हेत्यर्थ
-उक्तः। स्पर्शान् कृत्वा बहिर्बाह्यान् इत्यत्र
-प्रवृत्तिनिवारणम्यतेन्द्रियः इत्यादौ तु तत्फलभूता
-प्रवृत्त्यनर्हतेत्यपुनरुक्तिरिति भावः। ज्ञानार्थधातौ निष्पन्नस्य
-मुनिशब्दस्य योगावस्थायां आत्मसाक्षात्काररूपज्ञानविशेषे
-तात्पर्यमाहआत्मावलोकनशील इति। अत्र वाचंयमत्वादप्यन्तरङ्गभूतोऽयमर्थ इति
-भावः। सदाशब्दाभिप्रेतं व्यनक्तिसाध्यदशायामिवेति। मुक्त एव मुक्तप्राय
-इत्यर्थः।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥ 5.28ज्ञानकर्मात्मिके निष्ठे योगलक्षे सुसंस्कृते। आत्मानुभूतिसिद्ध्यर्थे पूर्वषट्केन चोदिते गी.सं.2 इति सङ्ग्रहमनुसन्दधान उत्तरश्लोकानां सङ्गतिमाह उक्तं कर्मयोगमिति। स्पर्शशब्दस्यात्रानुभवपरस्यानुभाव्यार्थज्ञापनायविषयस्पर्शानित्युक्तम्। फलितमाह बाह्येन्द्रियव्यापारं सर्वमुपसंहृत्येति। उपविश्यासने 6।12 इत्यादिवक्ष्यमाणानुसन्धानेनयोगयोग्येत्याद्युक्तम्। चक्षुः इत्येकवचनं करणाकारैक्यादिति दर्शयितुञ्चक्षुषी इत्युक्तम्। सम्प्रेक्ष्य नासिकाग्रं स्वं 6।13 इति वक्ष्यमाणेननासाग्रन्यस्तलोचनः इत्यादिप्रकरणान्तरोक्त्या चभ्रुवोरन्तरे कृत्वा इत्यस्यैकार्थ्यमाहनासाग्र इति। नासाभ्यन्तरसञ्चारमात्रस्य स्वतस्सिद्धस्य विधेयत्वायोगात्समौ कृत्वा इत्येतदेव विधेयमिति दर्शयितुन्नासाभ्यन्तरचारिणौ प्राणापानावित्यनुवादः। अपानस्य नासाभ्यन्तरसञ्चारव्यञ्जनायउच्छ्वासनिश्श्वासावित्युक्तम्। एक एव हि वायुर्नासापुटेन निष्कामन् प्रविशंश्च प्राणोऽपान इति चोच्यते। वृत्तिस्थानादिसाम्यायोगात्तद्गतिसाम्योक्तिः। न दीर्घमुच्छ्वसन्नापि निश्श्वसन्नित्यर्थः। साक्षात्कारात्यन्ताव्यवहितपूर्वावस्थाविषयत्वाद्यतशब्दस्यप्रवृत्त्यनर्हेत्यर्थ उक्तः। स्पर्शान् कृत्वा बहिर्बाह्यान् इत्यत्र प्रवृत्तिनिवारणम्यतेन्द्रियः इत्यादौ तु तत्फलभूता प्रवृत्त्यनर्हतेत्यपुनरुक्तिरिति भावः। ज्ञानार्थधातौ निष्पन्नस्य मुनिशब्दस्य योगावस्थायाम् आत्मसाक्षात्काररूपज्ञानविशेषे तात्पर्यमाहआत्मावलोकनशील इति। अत्र वाचंयमत्वादप्यन्तरङ्गभूतोऽयमर्थ इति भावः। सदाशब्दाभिप्रेतं व्यनक्तिसाध्यदशायामिवेति। मुक्त एव मुक्तप्राय इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.27 - 5.28 'Shutting off all contact with outside objects,' i.e.,
-stopping the outward functioning of the senses; seated with his trunk straightened in a posture fit for meditation (Yoga); 'fixing the gaze between the eye-brows,' i.e., at the root of the nose where the eye-brows meet; 'ealising inward and outward breaths,' i.e., making exhalatory and inhalatory breath move eally: making the senses, Manas and intellect no longer capable of anything except the vision of the self, conseently being free from 'desire, fear and wrath'; 'who is intent on release as his final goal,' i.e., having release as his only aim - the sage who is thus intent on the vision of the self 'is indeed liberated for ever,' i.e., he is almost a liberated person, as he would soon be in the ultimate stage of fruition. Sri Krsna now says that Karma Yoga, described above, which is facilitated by the performance of obligatory and occasional rites and which culminates in meditation
+<details><summary>आदिदेवानन्दः</summary>
+
+5.27 - 5.28 'Shutting off all contact with outside objects,' i.e., stopping the outward functioning of the senses; seated with his trunk straightened in a posture fit for meditation (Yoga); 'fixing the gaze between the eye-brows,' i.e., at the root of the nose where the eye-brows meet; 'ealising inward and outward breaths,' i.e., making exhalatory and inhalatory breath move eally: making the senses, Manas and intellect no longer capable of anything except the vision of the self, conseently being free from 'desire, fear and wrath'; 'who is intent on release as his final goal,' i.e., having release as his only aim - the sage who is thus intent on the vision of the self 'is indeed liberated for ever,' i.e., he is almost a liberated person, as he would soon be in the ultimate stage of fruition. Sri Krsna now says that Karma Yoga, described above, which is facilitated by the performance of obligatory and occasional rites and which culminates in meditation
 (Yoga), is easy to practise:
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।5.27 5.28।। स्पर्शानिति। यतेन्द्रियेति। बाह्यस्पर्शान् बहिः कृत्वा
-अनङ्गीकृत्य भ्रुवोः वामदक्षिणदृष्ट्योः क्रोधरागात्मकयोः अन्तरे तद्रहिते
-स्थानविशेषे चक्षुरुपलक्षितानि सर्वेन्द्रियाणि कृत्वा विधाय प्राणापानौ
-धर्माधर्मौ चित्तवृत्त्यभ्यन्तरे साम्येनावस्थाप्य आसीत +++(K omits आसीत)+++।
-नसते कौटिल्येन असाम्येन क्रोधादिवशात् व्यवहरति इति नासा चित्तवृत्तिः।
-एतदेव बाह्ये। एवंविधो योगी सर्वव्यवहारान्वर्तयन्नपि मुक्त एव।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-5.27-28 Sparsan etc.; Yatendriya-etc. Warding off outside, i.e., not
-accepting, the external contacts (objects); establishing all the
-sense-organs - indicated by 'sense of sight' - in the middle place in
-between the two wandering ones, i.e., the right and the left views in
-the form of desire and wrath viz., in that particular place which is
-free from both these; he would remain fixing in eipoise (or making
-neutral) both the forward (upward) and backward (downward) moving forces
-viz., the pious and impious acts, within the mental modification. Nasa
-'that which acts crookedly'. This is mental modification, because it
-behaves crookedly i.e., ineally due to anger etc. The same is in the
-external plane. A man of Yoga of this type is just free, though he
-transacts all mundane business.
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।5.27 5.28।। ध्यानप्रकारमाह स्पर्शानित्यादिना। बाह्यान्स्पर्शन्वहिः
-कृत्वा श्रोत्रादीनि योगेन नियम्येत्यर्थः। चक्षुर्भ्रुवोरन्तरं कृत्वा
-भ्रुवोर्मध्यमवलोकयन्नित्यर्थः। उक्तं च नासाग्रे वा भ्रुवोर्मध्ये ध्यानी
-चक्षुर्निधापयेत् इति। प्राणापानौ समौ कृत्वा कुम्भके स्थितत्वेत्यर्थः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।5.27 5.28।। ध्यायिनां मुक्तत्वं साक्षाच्चेत्प्रमाणविरोधः ज्ञानद्वारा
-चेत्पुनरुक्तिरित्यतः श्लोकद्वयतात्पर्यमाह **ध्याने**ति। मुक्त एव स इति
-स्तुतिरिति भावः। पदानां व्यवहितत्वादन्वयमाह **बाह्यानि**ति। स्पृश्यन्त
-इति स्पर्शाः शब्दाद्याः। स्पर्शा बाह्या एव तेषां किं बहिष्करणं इत्यत आह
-**श्रोत्रादीनी**ति। योगेन प्रत्याहारेण श्रोत्रादीनामनियमे
-पट्वभ्यासादरप्रत्ययवशाच्छब्दाद्या आन्तरा इव भवन्ति। तन्नियमे तु बाह्या
-बहिष्कृताः स्युरिति भावः। कृत्वेत्यस्यानुवृत्त्या योजयति **चक्षुरि**ति।
-दुर्घटमेतदित्यत आह **भ्रुवो**रिति। चक्षुर्वृत्तौ चक्षुश्शब्द
-इत्यर्थः। सम्प्रेक्ष्य नासिकाग्रं स्वं 6।13 इति वक्ष्यमाणविरोध इत्यत आह
-**उक्तं चे**ति। न्यूनाधिकभावराहित्यं
-समीकरणमित्यन्यथाप्रतीतिनिरासायानूद्य व्याचष्टे **प्राणे**ति। कुम्भके
-प्राणायामे ततश्च समौ निर्विकारौ निश्चलावित्यर्थः। इतरत्समीकरणं
-कुम्भकार्थमेवेति भावः।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।5.27 5.28।। **स्पर्शान्** शब्दादीन् **कृत्वा बहिः बाह्यान्**
-श्रोत्रादिद्वारेण अन्तः बुद्धौ प्रवेशिताः शब्दादयः विषयाः तान् अचिन्तयतः
-शब्दादयो बाह्या बहिरेव कृताः भवन्ति तान् एवं बहिः कृत्वा **चक्षुश्चैव
-अन्तरे भ्रुवोः** कृत्वा इति अनुषज्यते। तथा **प्राणापानौ
-नासाभ्यन्तरचारिणौ समौ कृत्वा यतेन्द्रियमनोबुद्धिः** यतानि संयतानि
-इन्द्रियाणि मनः बुद्धिश्च यस्य सः यतेन्द्रियमनोबुद्धिः मननात् **मुनिः**
-संन्यासी **मोक्षपरायणः** एवं देहसंस्थानात् मोक्षपरायणः मोक्ष एव परम्
-अयनं परा गतिः यस्य सः अयं मोक्षपरायणो मुनिः भवेत्। **विगतेच्छाभयक्रोधः**
-इच्छा च भयं च क्रोधश्च इच्छाभयक्रोधाः ते विगताः यस्मात् सः
-विगतेच्छाभयक्रोधः **यः** एवं वर्तते **सदा** संन्यासी **मुक्त एव सः** न
-तस्य मोक्षायान्यः कर्तव्योऽस्ति।। एवं समाहितचित्तेन किं विज्ञेयम् इति
-उच्यते **भोक्तारं** यज्ञतपसां यज्ञानां तपसां च कर्तृरूपेण देवतारूपेण च
-**सर्वलोकमहेश्वरं** सर्वेषां लोकानां महान्तम् ईश्वरं **सुहृदं**
-**सर्वभूतानां** सर्वप्राणिनां प्रत्युपकारनिरपेक्षतया उपकारिणं
-सर्वभूतानां हृदयेशयं सर्वकर्मफलाध्यक्षं सर्वप्रत्ययसाक्षिणं मां नारायणं
-**ज्ञात्वा शान्तिं** सर्वसंसारोपरतिम् **ऋच्छति** प्राप्नोति।। इति
-श्रीमत्परमहंसपरिव्राजकाचार्यस्य
-श्रीगोविन्दभगवत्पूज्यपादशिष्यस्यश्रीमच्छंकरभगवतः कृतौ
-श्रीमद्भगवद्गीताभाष्ये  
+॥5.27 5.28॥ **स्पर्शान्** शब्दादीन् **कृत्वा बहिः बाह्यान्** श्रोत्रादिद्वारेण अन्तः बुद्धौ प्रवेशिताः शब्दादयः विषयाः तान् अचिन्तयतः शब्दादयो बाह्या बहिरेव कृताः भवन्ति तान् एवं बहिः कृत्वा **चक्षुश्चैव अन्तरे भ्रुवोः** कृत्वा इति अनुषज्यते। तथा **प्राणापानौ नासाभ्यन्तरचारिणौ समौ कृत्वा यतेन्द्रियमनोबुद्धिः** यतानि संयतानि इन्द्रियाणि मनः बुद्धिश्च यस्य सः यतेन्द्रियमनोबुद्धिः मननात् **मुनिः** संन्यासी **मोक्षपरायणः** एवं देहसंस्थानात् मोक्षपरायणः मोक्ष एव परम् अयनं परा गतिः यस्य सः अयं मोक्षपरायणो मुनिः भवेत्। **विगतेच्छाभयक्रोधः** इच्छा च भयं च क्रोधश्च इच्छाभयक्रोधाः ते विगताः यस्मात् सः विगतेच्छाभयक्रोधः **यः** एवं वर्तते **सदा** संन्यासी **मुक्त एव सः** न तस्य मोक्षायान्यः कर्तव्योऽस्ति॥ एवं समाहितचित्तेन किं विज्ञेयम् इति उच्यते **भोक्तारं** यज्ञतपसां यज्ञानां तपसां च कर्तृरूपेण देवतारूपेण च **सर्वलोकमहेश्वरं** सर्वेषां लोकानां महान्तम् ईश्वरं **सुहृदं** **सर्वभूतानां** सर्वप्राणिनां प्रत्युपकारनिरपेक्षतया उपकारिणं सर्वभूतानां हृदयेशयं सर्वकर्मफलाध्यक्षं सर्वप्रत्ययसाक्षिणं मां नारायणं **ज्ञात्वा शान्तिं** सर्वसंसारोपरतिम् **ऋच्छति** प्राप्नोति॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्यश्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
-पञ्चमोऽध्यायः।।  
-  
-
+पञ्चमोऽध्यायः॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।5.28।। जिसके इन्द्रिय मन और बुद्धि वशमें किये हुए हैं जो ईश्वरके
-स्वरूपका मनन करनेसे मुनि यानी संन्यासी है जो शरीरमें रहता हुआ भी
-मोक्षपरायण है अर्थात् जो मोक्षको ही परम आश्रय परम गति समझनेवाला मुनि है
-तथा जो इच्छा भय और क्रोधसे रहित हो चुका है जिसके इच्छा भय और क्रोध चले
-गये हैं जो इस प्रकार बर्तता है वह संन्यासी सदा मुक्त ही है उसे कोई दूसरी
-मुक्ति प्राप्त नहीं करनी है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 5.28 Krtva, keeping; bahyan, the external; sparsan, objects-sound etc.;
 bahih, outside: To one who does not pay attention to the external
@@ -207,13 +72,21 @@ The monk yah, who; sada, ever remains thus; sah, he; is muktah yah,
 who;sada, ever remains thus; sah, he; is muktah, ever, verily free. He
 has no other Liberation to seek after. What is there to be realized by
 one who has his mind thus concentrated; The answer this is beig stated:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।5.28।। विषयप्रावण्यं परित्यज्य चक्षुरपि भ्रुवोर्मध्ये
+<details><summary>हरिकृष्णदासः</summary>
+
+॥5.28॥ जिसके इन्द्रिय मन और बुद्धि वशमें किये हुए हैं जो ईश्वरके
+स्वरूपका मनन करनेसे मुनि यानी संन्यासी है जो शरीरमें रहता हुआ भी
+मोक्षपरायण है अर्थात् जो मोक्षको ही परम आश्रय परम गति समझनेवाला मुनि है
+तथा जो इच्छा भय और क्रोधसे रहित हो चुका है जिसके इच्छा भय और क्रोध चले
+गये हैं जो इस प्रकार बर्तता है वह संन्यासी सदा मुक्त ही है उसे कोई दूसरी
+मुक्ति प्राप्त नहीं करनी है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥5.28॥ विषयप्रावण्यं परित्यज्य चक्षुरपि भ्रुवोर्मध्ये
 विक्षेपपरिहारार्थं कृत्वा प्राणापानौ च नासाभ्यन्तरचरणशीलौ समौ
 न्यूनाधिकवर्जितौ कुम्भकेन निरुद्धौ कृत्वा करणानि सर्वाण्येवं संयम्य
 प्राणायामपरो भूत्वा किं कुर्यादित्यपेक्षायामाह **यतेन्द्रियेति।**
@@ -222,40 +95,11 @@ one who has his mind thus concentrated; The answer this is beig stated:
 मुक्तेरनायाससिद्धत्वान्न तस्य किंचिदपि कर्तव्यमस्तीत्याह **विगतेति।**
 पूर्वार्धाक्षराणि व्याकरोति **यतेत्यादिना।** द्वितीयार्धाक्षराणि
 व्याचष्टे **विगतेत्यादिना।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।5.27 5.28।। पूर्वमीश्वरार्पितसर्वभावस्य कर्मयोगेनान्तःकरणशुद्धिस्ततः
-सर्वकर्मसंन्यासस्ततः श्रवणादिपरस्य तत्त्वज्ञानं मोक्षसाधनमुदेतीत्युक्तम्
-अधुनास योगी ब्रह्मनिर्वाणम् इत्यत्र सूचितं ध्यानयोगं
-सम्यग्दर्शनस्यान्तरङ्गसाधनं विस्तरेण वक्तुं
-सूत्रस्थानीयांस्त्रीञ्श्लोकानाह भगवान्। एतेषामेव वृत्तिस्थानीयः कृत्स्नः
-षष्ठोऽध्यायो भविष्यति। तत्रापि द्वाभ्यां संक्षेपेण योग उच्यते। तृतीयेन
-तु तत्फलं परमात्मज्ञानमिति विवेकः स्पर्शाञ्शब्दादीन्बाह्यान्बहिर्भवानपि
-श्रोत्रादिद्वारा तत्तदाकारान्तःकरणवृत्तिभिरन्तःप्रविष्टान्पुनर्बहिरेव
-कृत्वा परवैराग्यवशेन तत्तदाकारां वृत्तिमनुत्पाद्येत्यर्थः। यद्येते
-आन्तरा भवेयुस्तदोपायसहस्रेणामि बहिर्न स्युः स्वभावभङ्गप्रसङ्गात्
-बाह्यानां तु रागवशादन्तःप्रविष्टानां वैराग्येण बहिर्गमनं संभवतीति वदितुं
-बाह्यानिति विशेषणम्। तदनेन वैराग्यमुक्त्वाभ्यासमाह चक्षुश्चैवान्तरे
-भ्रुवोः कृत्वेत्यनुषज्यते। अत्यन्तनिमीलने हि निद्राख्या लयात्मिका
-वृत्तिरेका भवेत्। प्रसारणे तु प्रमाणविपर्ययविकल्पस्मृतयश्चतस्रो
-विक्षेपात्मिकावृत्तयो भवेयुः। पञ्चापि तु वृत्तयो निरोद्धव्या इति
-अर्धनिमीलनेन भ्रूमध्ये चक्षुषो निधानम्। तथा प्राणापानौ समौ
-तुल्यावूर्ध्वाधोगतिविच्छेदेन नासाभ्यन्तरचारिणौ कुम्भकेन कृत्वा
-अनेनोपायेन यताः संयता इन्द्रियमनोबुद्धयो यस्य स तथा। मोक्षपरायणः
-सर्वविषयविरक्तो मुनिर्मननशीलो भवेत्। विगतेच्छाभयक्रोध इति वीतरागभयक्रोध
-इत्यत्र व्याख्यातम्। एतादृशो यः संन्यासी सदा भवति मुक्त एव सः। नतु
-मोक्षः तस्य कर्तव्योऽस्ति। अथवा य एतादृशः स सदा जीवन्नपि मुक्त एव।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।5.28।।**यतेन्द्रियेति।** यस्मिन्कस्मिंश्चित्स्थूले विषये सूर्ये
+॥5.28॥**यतेन्द्रियेति।** यस्मिन्कस्मिंश्चित्स्थूले विषये सूर्ये
 तद्रश्मिषु वा विष्णुप्रतिमायां वाऽनाहतध्वनौ वान्यत्र वा
 चक्षुराद्यन्यतमद्वारा मनो धारयेत्। तच्च मनस्तद्विषयाकारतां प्राप्तं
 तत्रैव स्थिराभ्यासेन विश्रान्तं स्वदेहमपि न पश्यति सेयं महाविदेहा नाम
@@ -312,13 +156,11 @@ one who has his mind thus concentrated; The answer this is beig stated:
 विगतेच्छाभयक्रोध इति पादः प्रागेव व्याख्यातः। य एवंभूतः स सदा मुक्तः
 बन्धप्रतीतिकालेऽपि स मुक्त एवास्ति। अज्ञानमात्रव्यवधानान्मुक्तेः।
 एतेनाहंकारादेर्बन्धस्य कालत्रयेऽप्यसत्त्वोक्त्या मिथ्यात्वं दर्शितम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।5.28।। यतानि संयतानि इन्द्रियादीनि येन स मुनिर्मननशीलः मोक्ष एव परमयनं
+<details><summary>धनपतिः</summary>
+
+॥5.28॥ यतानि संयतानि इन्द्रियादीनि येन स मुनिर्मननशीलः मोक्ष एव परमयनं
 परा गतिर्यस्य स मोक्षपरायणो मुमुक्षुः विगता इच्छादयो यस्मात्स य एवं
 वर्तते स मुमुक्षुरेव न तस्य मोक्षादन्यत्कर्तव्यमस्ति स्पर्शान्कृत्वा
 बहिर्बाह्यान् मोक्षपरायण इत्यनेन वैराग्यान्मुमुक्षुरधिकारी कथितः।
@@ -329,17 +171,83 @@ one who has his mind thus concentrated; The answer this is beig stated:
 सूत्रोक्ता नियमाश्च प्रदर्शिताः। यतेन्द्रिय इति प्रत्याहारः यतमना इति
 धारणाध्याने यतबुद्धिरिति समाधिकथितः विगतेच्छाभक्रोध इति मोक्षपरायणस्य
 योगिनः स्वरुपनिरुपणमिति विवेकः।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥5.27 5.28॥ पूर्वमीश्वरार्पितसर्वभावस्य कर्मयोगेनान्तःकरणशुद्धिस्ततः
+सर्वकर्मसंन्यासस्ततः श्रवणादिपरस्य तत्त्वज्ञानं मोक्षसाधनमुदेतीत्युक्तम्
+अधुनास योगी ब्रह्मनिर्वाणम् इत्यत्र सूचितं ध्यानयोगं
+सम्यग्दर्शनस्यान्तरङ्गसाधनं विस्तरेण वक्तुं
+सूत्रस्थानीयांस्त्रीञ्श्लोकानाह भगवान्। एतेषामेव वृत्तिस्थानीयः कृत्स्नः
+षष्ठोऽध्यायो भविष्यति। तत्रापि द्वाभ्यां संक्षेपेण योग उच्यते। तृतीयेन
+तु तत्फलं परमात्मज्ञानमिति विवेकः स्पर्शाञ्शब्दादीन्बाह्यान्बहिर्भवानपि
+श्रोत्रादिद्वारा तत्तदाकारान्तःकरणवृत्तिभिरन्तःप्रविष्टान्पुनर्बहिरेव
+कृत्वा परवैराग्यवशेन तत्तदाकारां वृत्तिमनुत्पाद्येत्यर्थः। यद्येते
+आन्तरा भवेयुस्तदोपायसहस्रेणामि बहिर्न स्युः स्वभावभङ्गप्रसङ्गात्
+बाह्यानां तु रागवशादन्तःप्रविष्टानां वैराग्येण बहिर्गमनं संभवतीति वदितुं
+बाह्यानिति विशेषणम्। तदनेन वैराग्यमुक्त्वाभ्यासमाह चक्षुश्चैवान्तरे
+भ्रुवोः कृत्वेत्यनुषज्यते। अत्यन्तनिमीलने हि निद्राख्या लयात्मिका
+वृत्तिरेका भवेत्। प्रसारणे तु प्रमाणविपर्ययविकल्पस्मृतयश्चतस्रो
+विक्षेपात्मिकावृत्तयो भवेयुः। पञ्चापि तु वृत्तयो निरोद्धव्या इति
+अर्धनिमीलनेन भ्रूमध्ये चक्षुषो निधानम्। तथा प्राणापानौ समौ
+तुल्यावूर्ध्वाधोगतिविच्छेदेन नासाभ्यन्तरचारिणौ कुम्भकेन कृत्वा
+अनेनोपायेन यताः संयता इन्द्रियमनोबुद्धयो यस्य स तथा। मोक्षपरायणः
+सर्वविषयविरक्तो मुनिर्मननशीलो भवेत्। विगतेच्छाभयक्रोध इति वीतरागभयक्रोध
+इत्यत्र व्याख्यातम्। एतादृशो यः संन्यासी सदा भवति मुक्त एव सः। नतु
+मोक्षः तस्य कर्तव्योऽस्ति। अथवा य एतादृशः स सदा जीवन्नपि मुक्त एव।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।5.27 5.28।। स योगी ब्रह्मनिर्वाणं 5।24 इत्यादौ प्रोक्तं तमेव योगं
+॥5.27 5.28॥ ध्यानप्रकारमाह स्पर्शानित्यादिना। बाह्यान्स्पर्शन्वहिः
+कृत्वा श्रोत्रादीनि योगेन नियम्येत्यर्थः। चक्षुर्भ्रुवोरन्तरं कृत्वा
+भ्रुवोर्मध्यमवलोकयन्नित्यर्थः। उक्तं च नासाग्रे वा भ्रुवोर्मध्ये ध्यानी
+चक्षुर्निधापयेत् इति। प्राणापानौ समौ कृत्वा कुम्भके स्थितत्वेत्यर्थः।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥5.27 5.28॥ ध्यायिनां मुक्तत्वं साक्षाच्चेत्प्रमाणविरोधः ज्ञानद्वारा
+चेत्पुनरुक्तिरित्यतः श्लोकद्वयतात्पर्यमाह **ध्याने**ति। मुक्त एव स इति
+स्तुतिरिति भावः। पदानां व्यवहितत्वादन्वयमाह **बाह्यानि**ति। स्पृश्यन्त
+इति स्पर्शाः शब्दाद्याः। स्पर्शा बाह्या एव तेषां किं बहिष्करणं इत्यत आह
+**श्रोत्रादीनी**ति। योगेन प्रत्याहारेण श्रोत्रादीनामनियमे
+पट्वभ्यासादरप्रत्ययवशाच्छब्दाद्या आन्तरा इव भवन्ति। तन्नियमे तु बाह्या
+बहिष्कृताः स्युरिति भावः। कृत्वेत्यस्यानुवृत्त्या योजयति **चक्षुरि**ति।
+दुर्घटमेतदित्यत आह **भ्रुवो**रिति। चक्षुर्वृत्तौ चक्षुश्शब्द
+इत्यर्थः। सम्प्रेक्ष्य नासिकाग्रं स्वं 6।13 इति वक्ष्यमाणविरोध इत्यत आह
+**उक्तं चे**ति। न्यूनाधिकभावराहित्यं
+समीकरणमित्यन्यथाप्रतीतिनिरासायानूद्य व्याचष्टे **प्राणे**ति। कुम्भके
+प्राणायामे ततश्च समौ निर्विकारौ निश्चलावित्यर्थः। इतरत्समीकरणं
+कुम्भकार्थमेवेति भावः।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
+
+<details><summary>मूलम्</summary>
+
+॥5.27 5.28॥ स्पर्शानिति। यतेन्द्रियेति। बाह्यस्पर्शान् बहिः कृत्वा अनङ्गीकृत्य भ्रुवोः वामदक्षिणदृष्ट्योः क्रोधरागात्मकयोः अन्तरे तद्रहिते स्थानविशेषे चक्षुरुपलक्षितानि सर्वेन्द्रियाणि कृत्वा विधाय प्राणापानौ धर्माधर्मौ चित्तवृत्त्यभ्यन्तरे साम्येनावस्थाप्य आसीत +++(K omits आसीत)+++। नसते कौटिल्येन असाम्येन क्रोधादिवशात् व्यवहरति इति नासा चित्तवृत्तिः। एतदेव बाह्ये। एवंविधो योगी सर्वव्यवहारान्वर्तयन्नपि मुक्त एव।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+5.27-28 Sparsan etc.; Yatendriya-etc. Warding off outside, i.e., not accepting, the external contacts (objects); establishing all the sense-organs - indicated by 'sense of sight' - in the middle place in between the two wandering ones, i.e., the right and the left views in the form of desire and wrath viz., in that particular place which is free from both these; he would remain fixing in eipoise (or making neutral) both the forward (upward) and backward (downward) moving forces viz., the pious and impious acts, within the mental modification. Nasa 'that which acts crookedly'. This is mental modification, because it behaves crookedly i.e., ineally due to anger etc. The same is in the external plane. A man of Yoga of this type is just free, though he transacts all mundane business.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
+
+<details><summary>मूलम्</summary>
+
+॥5.27 5.28॥ स योगी ब्रह्मनिर्वाणं 5।24 इत्यादौ प्रोक्तं तमेव योगं
 समासेन दर्शयन्नाह द्वाभ्याम् स्पर्शानिति। ईश्वरालम्बनं योगो जनयित्वा तु
 तादृशम्। बहुजन्मविपाकेन भक्तिं जनयति ध्रुवम्। योगेन तु निषिद्धेन यदि
 देहः प्रसिद्ध्यति। तदा कल्पान्तपर्यन्तं भावनातस्तु तत्फलम्। इति निबन्धे
@@ -351,13 +259,11 @@ _________________
 नासाभ्यन्तरचारिणाविति। एतेनोपायेन यतेन्द्रियमनोबुद्धिर्योगफलं न तत्र
 सिद्धिकामः स्यात् किन्तु मोक्षपरायणः मोक्षार्थं पर ईश्वरस्तदालम्बनो यः स
 सदा प्रपञ्च एवमुक्त एव जीवन्मुक्त इत्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-।। 5.28ननु स्पर्शभावरूपा स्थितिरतिकठिना अतः स्पर्शसंयोगेऽपि या
+<details><summary>पुरुषोत्तमः</summary>
+
+॥ 5.28ननु स्पर्शभावरूपा स्थितिरतिकठिना अतः स्पर्शसंयोगेऽपि या
 प्राप्तिः स्यात् स्पर्शजबन्धाभावे न तथा भवेदित्यभिप्रायेणाह स्पर्शानिति
 द्वयेन। बहिर्बाह्यान् स्पर्शान् कृत्वा बाह्याल्ँ लौकिकान्
 स्पर्शानिन्द्रियादिविषयभोगान् बहिः तेषूत्तमाद्यभावेन प्रारब्धकर्मभोगवत्।
@@ -365,30 +271,90 @@ _________________
 मरणरूपोऽस्मीति दृष्ट्वा नासाभ्यन्तरचारिणौ प्राणापानावूर्ध्वाधोगतिरूपौ
 संयोगविप्रयोगसुखानुभवाविव समौ कृत्वा मोक्षपरायणः विषयादित्यागपरो
 विगतेच्छाभयक्रोधो भूत्वा यतेन्द्रियमनोबुद्धिः सन् यः सदा मुनिर्मननशीलो
-भवति स स्पर्शादिभिर्मुक्त एव स्यादित्यर्थः।  
-  
-
+भवति स स्पर्शादिभिर्मुक्त एव स्यादित्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।5.28।।**यत इति।** अनेनोपायेन यताः संयता इन्द्रियमनोबुद्धयो यस्य मोक्ष
+॥5.28॥**यत इति।** अनेनोपायेन यताः संयता इन्द्रियमनोबुद्धयो यस्य मोक्ष
 एव परमयनं प्राप्यं यस्य अतएव विगता इच्छाभयक्रोधा यस्य य एंवभूतो मुनिः स
 सदा जीवन्नपि मुक्त एवेत्यर्थः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+5.28 The sage who has controlled his senses, mind and intellect, who is intent on release as his final goal, freed for ever from desire, fear and wrath - is indeed liberated forever.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+5.27-5.28 Keeping the external objects outside, the eyes at the juncture of the eye-brows, and making eal the outgoing and incoming breaths that move through the nostrils, the contemplative who has control over his organs, mind and intellect should be fully intent on Liberation and free from desire, fear and anger. He who is ever is verily free.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+5.28 Governing sense, mind and intellect, intent on liberation, free from desire, fear and anger, the sage is forever free.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+5.28. Having known Me as the Enjoyer of \[the fruits of\] sacrifices and austerties, as the great Lord of all the worlds, and as the Friend of all beings, he (the man of Yoga) attains peace.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+5.28 With the senses, the mind and the intellect (ever) controlled,
+having liberation as his supreme goal, free from desire, fear and anger the sage is verily liberated for ever.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+5.28 यतेन्द्रियमनोबुद्धिः with senses; mind and intellect (ever)
+controlled; मुनिः the sage; मोक्षपरायणः having liberation as his supreme goal; विगतेच्छाभयक्रोधः free from desire; fear and anger; यः who; सदा
+for ever; मुक्तः free; एव verily; सः he.Commentary If one is free from desire; fear and anger he enjoys perfect peace of mind. When the senses;
+the mind and the intellect are subjugated; the sage does constant contemplation and,attains for ever to the absolute freedom or Moksha.The mind becomes restless when the modifications of deisre; fear and anger arise in it. When one becomes desireless; the mind moves towards the Self spontaneously liberation or Moksha becomes his highest goal.Muni is one who does Manana or reflection and contemplation.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।5.27 -- 5.28।। बाह्य पदार्थोंको बाहर ही छोड़कर और नेत्रोंकी दृष्टिको
+भौंहोंके बीचमें स्थित करके तथा नासिकामें विचरनेवाले प्राण और अपान वायुको
+सम करके जिसकी इन्द्रियाँ, मन और बुद्धि अपने वशमें हैं, जो मोक्ष-परायण है
+तथा जो इच्छा, भय और क्रोधसे सर्वथा रहित है, वह मुनि सदा मुक्त ही है।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+5.28।।***व्याख्या--*'स्पर्शान्कृत्वा बहिर्बाह्यान्'--**परमात्माके
+सिवाय सब पदार्थ बाह्य हैं। बाह्य पदार्थोंको बाहर ही छोड़ देनेका तात्पर्य
+है कि मनसे बाह्य विषयोंका चिन्तन न करे। बाह्य पदार्थोंके सम्बन्धका त्याग
+कर्मयोगमें सेवाके द्वारा और ज्ञानयोगमें विवेकके द्वारा किया जाता है।
+यहाँ भगवान् ध्यानयोगके द्वारा बाह्य पदार्थोंसे सम्बन्ध-विच्छेदकी बात कह
+रहे हैं। ध्यानयोगमें एकमात्र परमात्माका ही चिन्तन होनेसे बाह्य
+पदार्थोंसे विमुखता हो जाती है। वास्तवमें बाह्य पदार्थ बाधक नहीं हैं। बाधक
+है--इनसे रागपूर्वक माना हुआ अपना सम्बन्ध। इस माने हुए सम्बन्धका त्याग
+करनेमें ही उपर्युक्त पदोंका तात्पर्य है।  
+  
+**'चक्षुश्चैवान्तरे भ्रुवोः'** यहाँ **'भ्रुवोः अन्तरे'--**पदोंसे
+दृष्टिको दोनों भौंहोंके बीचमें रखना अथवा दृष्टिको नासिकाके अग्रभागपर
+रखना (गीता 6। 13)--ये दोनों ही अर्थ लिये जा सकते हैं। ध्यानकालमें
+नेत्रोंको सर्वथा बंद रखनेसे लयदोष अर्थात् निद्रा आनेकी सम्भावना रहती है,
+और नेत्रोंको सर्वथा खुला रखनेसे (सामने दृश्य रहनेसे) विक्षेपदोष आनेकी
+सम्भावना रहती है। इन दोनों प्रकारके दोषोंको दूर करनेके लिये आधे मुँदे
+हुए नेत्रोंकी दृष्टिको दोनों भौंहोंके बीच स्थापित करनेके लिये कहा गया
+है।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।5.28।। सूत्रस्थानीय इन श्लोकों में भगवान् ने ध्यानयोग का संक्षेप में
 संकेत किया है जिसका विस्तृत वर्णन अगले अध्याय में किया गया है। संस्कृत
@@ -446,98 +412,12 @@ _________________
 वह शीघ्र ही नित्यमुक्त आत्मा का साक्षात् अनुभव करता है। इस प्रकार समाहित
 चित्त के पुरुष के लिए कौन सी वस्तु ज्ञेय और ध्येय है इस सम्बन्ध में कहते
 हैं
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।5.28।। जिस पुरुष की इन्द्रियाँ, मन और बुद्धि संयत हैं, ऐसा मोक्ष
 परायण मुनि इच्छा, भय और क्रोध से रहित है, वह सदा मुक्त ही है।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।5.27 -- 5.28।। बाह्य पदार्थोंको बाहर ही छोड़कर और नेत्रोंकी दृष्टिको
-भौंहोंके बीचमें स्थित करके तथा नासिकामें विचरनेवाले प्राण और अपान वायुको
-सम करके जिसकी इन्द्रियाँ, मन और बुद्धि अपने वशमें हैं, जो मोक्ष-परायण है
-तथा जो इच्छा, भय और क्रोधसे सर्वथा रहित है, वह मुनि सदा मुक्त ही है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-5.28।।***व्याख्या--*'स्पर्शान्कृत्वा बहिर्बाह्यान्'--**परमात्माके
-सिवाय सब पदार्थ बाह्य हैं। बाह्य पदार्थोंको बाहर ही छोड़ देनेका तात्पर्य
-है कि मनसे बाह्य विषयोंका चिन्तन न करे। बाह्य पदार्थोंके सम्बन्धका त्याग
-कर्मयोगमें सेवाके द्वारा और ज्ञानयोगमें विवेकके द्वारा किया जाता है।
-यहाँ भगवान् ध्यानयोगके द्वारा बाह्य पदार्थोंसे सम्बन्ध-विच्छेदकी बात कह
-रहे हैं। ध्यानयोगमें एकमात्र परमात्माका ही चिन्तन होनेसे बाह्य
-पदार्थोंसे विमुखता हो जाती है। वास्तवमें बाह्य पदार्थ बाधक नहीं हैं। बाधक
-है--इनसे रागपूर्वक माना हुआ अपना सम्बन्ध। इस माने हुए सम्बन्धका त्याग
-करनेमें ही उपर्युक्त पदोंका तात्पर्य है।  
-  
-**'चक्षुश्चैवान्तरे भ्रुवोः'** यहाँ **'भ्रुवोः अन्तरे'--**पदोंसे
-दृष्टिको दोनों भौंहोंके बीचमें रखना अथवा दृष्टिको नासिकाके अग्रभागपर
-रखना (गीता 6। 13)--ये दोनों ही अर्थ लिये जा सकते हैं। ध्यानकालमें
-नेत्रोंको सर्वथा बंद रखनेसे लयदोष अर्थात् निद्रा आनेकी सम्भावना रहती है,
-और नेत्रोंको सर्वथा खुला रखनेसे (सामने दृश्य रहनेसे) विक्षेपदोष आनेकी
-सम्भावना रहती है। इन दोनों प्रकारके दोषोंको दूर करनेके लिये आधे मुँदे
-हुए नेत्रोंकी दृष्टिको दोनों भौंहोंके बीच स्थापित करनेके लिये कहा गया
-है।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-5.28. Having known Me as the Enjoyer of \[the fruits of\] sacrifices and austerties, as the great Lord of all the worlds, and as the Friend of all beings, he (the man of Yoga) attains peace.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-5.27-5.28 Keeping the external objects outside, the eyes at the juncture of the eye-brows, and making eal the outgoing and incoming breaths that move through the nostrils, the contemplative who has control over his organs, mind and intellect should be fully intent on Liberation and free from desire, fear and anger. He who is ever is verily free.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-5.28 Governing sense, mind and intellect, intent on liberation, free from desire, fear and anger, the sage is forever free.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-5.28 The sage who has controlled his senses, mind and intellect, who is intent on release as his final goal, freed for ever from desire, fear and wrath - is indeed liberated forever.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-5.28 With the senses, the mind and the intellect (ever) controlled,
-having liberation as his supreme goal, free from desire, fear and anger the sage is verily liberated for ever.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-5.28 यतेन्द्रियमनोबुद्धिः with senses; mind and intellect (ever)
-controlled; मुनिः the sage; मोक्षपरायणः having liberation as his supreme goal; विगतेच्छाभयक्रोधः free from desire; fear and anger; यः who; सदा
-for ever; मुक्तः free; एव verily; सः he.Commentary If one is free from desire; fear and anger he enjoys perfect peace of mind. When the senses;
-the mind and the intellect are subjugated; the sage does constant contemplation and,attains for ever to the absolute freedom or Moksha.The mind becomes restless when the modifications of deisre; fear and anger arise in it. When one becomes desireless; the mind moves towards the Self spontaneously liberation or Moksha becomes his highest goal.Muni is one who does Manana or reflection and contemplation.
-
-</details>
 </div>

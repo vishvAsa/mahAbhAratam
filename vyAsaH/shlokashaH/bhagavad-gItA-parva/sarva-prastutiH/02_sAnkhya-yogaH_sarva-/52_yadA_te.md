@@ -1,105 +1,173 @@
 +++
 title = "52 यदा ते"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 यदा ते मोह-कलिलं+++(=गहनं)+++  
 +++(पुरुष-युक्ता)+++ **बुद्धिर् व्यतितरिष्यति**।  
 तदा **गन्तासि निर्वेदं** +++("प्रकृतिसम्बद्धं तत्सर्वम्" इति)+++  
 +++(क्षुद्रस्य)+++ श्रोतव्यस्य श्रुतस्य च॥2.52॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति।  
-तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च।।2.52।।
+तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च॥2.52॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।2.52।। उक्तप्रकारेण कर्मणि वर्तमानस्य तया वृत्त्या निर्धूतकल्मषस्य
-**ते बुद्धिः यदा मोहकलिलम्** अत्यल्पफलसङ्गहेतुभूतं मोहरूपं कलुषं
-**व्यतितरिष्यति।** तदा अस्मत्त इतः पूर्वं त्याज्यतया श्रुतस्य फलादेः
-इतः पश्चात् **श्रोतव्यस्य** च कृते स्वयम् एव निर्वेदं गन्तासि
-गमिष्यसि।  
-योगे त्विमां श्रृणु इत्यादिना उक्तस्य आत्मयाथात्म्यज्ञानपूर्वकस्य
-बुद्धिविशेषसंस्कृतकर्मानुष्ठानस्य लक्षणभूतं योगाख्यं फलम् आह  
-
+॥2.52॥ उक्तप्रकारेण कर्मणि वर्तमानस्य तया वृत्त्या निर्धूतकल्मषस्य **ते बुद्धिर् यदा मोहकलिलम्** अत्यल्पफलसङ्गहेतुभूतं मोहरूपं कलुषं **व्यतितरिष्यति।** तदा अस्मत्त इतः पूर्वं त्याज्यतया श्रुतस्य फलादेर् इतः पश्चात् **श्रोतव्यस्य** च कृते स्वयम् एव निर्वेदं गन्तासि गमिष्यसि।  
+योगे त्विमां श्रृण्व् इत्यादिना उक्तस्य आत्मयाथात्म्यज्ञानपूर्वकस्य बुद्धिविशेषसंस्कृतकर्मानुष्ठानस्य लक्षणभूतं योगाख्यं फलम् आह
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।।2.52।। यदा इति श्लोकेन मोहतरणहेतुं प्रकृतं दर्शयति उक्तेति।
-पुण्यपापरूपसांसारिककर्मणा हि  
-मोहः स च फलाभिसन्ध्यादिरहितकर्मणा निवर्त्यः। ततः कारणाभावात्कार्याभाव
-इति भावः। अत्यल्पफलसङ्गहेतुभूतमित्यनेन मोहस्येदानीं
-निर्वेदप्रतिबन्धकत्वमुच्यते। मोहस्वरूपातिरिक्तस्य तत्साध्यस्य
-कालुष्यस्याभावात्मोहरूपमित्युक्तम्। कलुषशब्दोऽत्र कालुष्यपरः। अस्मत्त इति
-आप्ततमेभ्य इति भावः। त्याज्यतयेति निर्वेदयोगत्वायोक्तम्। न हि श्रोतव्येषु
-श्रुतेषु च उपादेयांशो निर्वेदहेतुः। यद्वाश्रोतव्यस्य
-इत्यस्योपादेयत्वायश्रुतस्य इत्यत्र त्याज्यतयेति विशेषणम्।
-हेयसङ्गमुपादेयवैतृष्ण्यं च परामृश्य भवति हि निर्वेदः। स च स्वावज्ञारूपः।
-यथाहुर्गन्धर्ववेदिनः तत्त्वज्ञानापदीर्ष्यादेर्निर्वेदः स्वावमाननम्
-द.रू.4।9 इति। श्रोतव्यस्येत्यादेः सम्बन्धसामान्यषष्ठ्या
-विवक्षितविशेषकथनं कृत इति। स्वयमेवेति। अस्मद्वाक्यादिनिरपेक्ष
-इत्यर्थः। गन्तासि इत्यत्र पदभेदभ्रमं निरस्यति गमिष्यसीति। गन्तासि इत्यत्र
-द्वितीयान्वयात्तृजन्तत्वं न युज्यते। तृन्नन्तत्वे तु भविष्यत्त्वविवक्षा
-न स्वारसिकी। अतो लु़डन्ततयैकपद्यं युक्तम्। एवंजेतासि इति वक्ष्यमाणेऽपि।
-अनद्यतनविहितलुडन्तोऽपिशब्दोव्यतितरिष्यति इत्येतत्तुल्यतया
-भविष्यन्मात्रार्थेन व्याख्यात इति।  
-  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥2.52॥ यदा इति श्लोकेन मोहतरणहेतुं प्रकृतं दर्शयति उक्तेति। पुण्यपापरूपसांसारिककर्मणा हि  
+मोहः स च फलाभिसन्ध्यादिरहितकर्मणा निवर्त्यः। ततः कारणाभावात्कार्याभाव इति भावः। अत्यल्पफलसङ्गहेतुभूतमित्यनेन मोहस्येदानीं निर्वेदप्रतिबन्धकत्वमुच्यते। मोहस्वरूपातिरिक्तस्य तत्साध्यस्य कालुष्यस्याभावात्मोहरूपमित्युक्तम्। कलुषशब्दोऽत्र कालुष्यपरः। अस्मत्त इति आप्ततमेभ्य इति भावः। त्याज्यतयेति निर्वेदयोगत्वायोक्तम्। न हि श्रोतव्येषु श्रुतेषु च उपादेयांशो निर्वेदहेतुः। यद्वाश्रोतव्यस्य इत्यस्योपादेयत्वायश्रुतस्य इत्यत्र त्याज्यतयेति विशेषणम्। हेयसङ्गमुपादेयवैतृष्ण्यं च परामृश्य भवति हि निर्वेदः। स च स्वावज्ञारूपः। यथाहुर्गन्धर्ववेदिनः तत्त्वज्ञानापदीर्ष्यादेर्निर्वेदः स्वावमाननं द.रू.4।9 इति। श्रोतव्यस्येत्यादेः सम्बन्धसामान्यषष्ठ्या विवक्षितविशेषकथनं कृत इति। स्वयमेवेति। अस्मद्वाक्यादिनिरपेक्ष इत्यर्थः। गन्तासि इत्यत्र पदभेदभ्रमं निरस्यति गमिष्यसीति। गन्तासि इत्यत्र द्वितीयान्वयात्तृजन्तत्वं न युज्यते। तृन्नन्तत्वे तु भविष्यत्त्वविवक्षा न स्वारसिकी। अतो लु़डन्ततयैकपद्यं युक्तम्। एवञ्जेतासि इति वक्ष्यमाणेऽपि। अनद्यतनविहितलुडन्तोऽपिशब्दोव्यतितरिष्यति इत्येतत्तुल्यतया भविष्यन्मात्रार्थेन व्याख्यात इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 2.52 If you act in this manner and get freed from impurities, your intellect will pass beyond the tangle of delusion. The dense impurity of sin is the nature of that delusion which generates attachment to infinitesimal results, of which you have already heard much from us and will hear more later on. You will then immediately feel, of your own accord, renunciation or feeling of disgust for them all. Sri Krsna now teaches the goal called self-realisation (Yoga) which results from the performance of duty as taught in the passage beginning with 'Now, listen to this with regard to Karma Yoga' (2.39) which is based on the knowledge of the real nature of the self gained through the refinement of the mind.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.54 2.55।। यदा ते इति। श्रुतीति। तत्र च योगबुद्धिप्राप्त्यबसरे तव
-स्फुटमेवेदमभिज्ञानम् श्रोतव्यस्य +++(S omits श्रोतव्यस्य)+++ श्रुतस्य
-अभिलष्यमाणस्य च +++(N वा instead of च)+++ आगमस्य उभस्यापि निर्वेदभावत्वम् +++(SK
-भाक्त्वम्)+++। अनेन चेदमुक्तम् अविद्यापद +++(N अविद्यमद)+++
-निपतितप्रमात्रनुग्राहकशास्त्रश्रवणसंस्कारविप्रलम्भमहिमा अयं यत्
-तवास्थाने कुलक्षयादिदोषदर्शनम्। तत्तु तथाशासनबहुमानविगलने विगलिष्यति
-इति।  
-
+॥2.52॥  
+  
+**यदा** यस्मिन्काले **ते** तव **मोहकलिलं** मोहात्मकमविवेकरूपं कालुष्यं येन आत्मानात्मविवेकबोधं कलुषीकृत्य विषयं प्रत्यन्तःकरणं प्रवर्तते तत् तव **बुद्धिः व्यतितरिष्यति** व्यतिक्रमिष्यति अतिशुद्धभावमापत्स्यते इत्यर्थः। **तदा** तस्मिन् काले **गन्तासि** प्राप्स्यसि **निर्वेदं** वैराग्यं **श्रोतव्यस्य श्रुतस्य च** तदा श्रोतव्यं श्रुतं च ते निष्फलं प्रतिभातीत्यभिप्रायः॥  
+मोहकलिलात्ययद्वारेण लब्धात्मविवेकजप्रज्ञः कदा कर्मयोगजं फलं परमार्थयोगमवाप्स्यामीति चेत् तत् श्रृणु
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.52 See Comment under 2.53
+<details><summary>गम्भीरानन्दः</summary>
 
+2.52 When is attained that wisdom which arises from the purification of
+the mind brought about by the pursuit of (karma-) yoga; This is being
+stated: Yada, when, \[Yada: when maturity of discrimination is
+attained.\] at the time when; te, your; buddhih, mind; vyatitarisyati,
+will go beyond, cross over; moha-kalilam, the turbidity of delusion, the
+dirt in the form of delusion, in the form of non-discrimination, which,
+after confounding one's understanding about the distinction between the
+Self and the not-Self, impels the mind towards objects that is to say,
+when your mind will attain the state of purity; tada, then, \[Tada:
+then, when the mind, becoming purified, leads to the rise of
+discrimination, which in turn matures into detachment.\] at that time;
+gantasi, you will acire; nirvedam, despassion; for srotavyasya, what has
+to be heard; ca, and; srutasya, what has been heard. The idea implied is
+that, at that time what has to be heard and what has been heard \[What
+has to be heard৷৷.has been heard, i.e. the scriptures other than those
+relating to Self-knowledge. When discrimination referred to above gets
+matured, then the fruitlessness of all things other than Self-knowledge
+becomes apparent.\] becomes fruitless.
 </details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥2.52॥ योगानुष्ठानजनित सत्त्वशुद्धिसे उत्पन्न हुई बुद्धि कब प्राप्त
+होती है इसपर कहते हैं  
+  
+जब तेरी बुद्धि मोहकलिलको अर्थात् जिसके द्वारा आत्मानात्मके
+विवेकविज्ञानको कलुषित करके अन्तःकरण विषयोंमें प्रवृत्त किया जाता है उस
+मोहात्मक अविवेककालिमाको उल्लङ्घन कर जायगी अर्थात् जब तेरी बुद्धि बिल्कुल
+शुद्ध हो जायगी।  
+तब उस समय तू सुननेयोग्यसे और सुने हुएसे वैराग्यको प्राप्त हो जायगा।
+अर्थात् तब तेरे लिये सुननेयोग्य और सुने हुए ( सब विषय ) निष्फल हो जायँगे
+यह अभिप्राय है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥2.52॥ यस्मिन्कर्मणि क्रियमाणे परमार्थदर्शनलक्षणा बुद्धिरुद्देश्यतया
+युज्यते तस्मात्कर्मणः सकाशादितरत्कर्म
+तथाविधोद्देश्यभूतबुद्धिसंबन्धविधुरमतिशयेन निष्कृष्यते ततश्च
+परमार्थबुद्धिमुद्देश्यत्वेनाश्रित्य कर्मानुष्ठातव्यं
+परिच्छिन्नफलान्तरमुद्दिश्य तदनुष्ठाने कार्पण्यप्रसङ्गात् किञ्च
+परमार्थबुद्धिमुद्देश्यमाश्रित्य कर्मानुतिष्ठतः करणशुद्धिद्वारा
+परमार्थदर्शनसिद्धौ जीवत्येव देहे सुकृतादि हित्वा मोक्षमधिगच्छति। तथाच
+परमार्थदर्शनलक्षणयोगार्थं मनो धारयितव्यं योगशब्दितं हि
+परमार्थदर्शनमुद्देश्यतया कर्मस्वनुतिष्ठतो नैपुण्यमिष्यते यदि च
+परमार्थदर्शनमुद्दिश्य तद्युताः सन्तः समारभेरन्कर्माणि तदा
+तदनुष्ठानजनितबुद्धिशुद्ध्या ज्ञानिनो भूत्वा कर्मजं फलं परित्यज्य
+निर्मुक्तबन्धना मुक्तिभाजो भवन्तीत्येवमस्मिन्पक्षे श्लोकत्रयाक्षराणि
+व्याख्यातव्यानि। यथोक्तबुद्धिप्राप्तिकालं प्रश्नपूर्वकं प्रकटयति
+**योगेति।** श्रुतं श्रोतव्यं दृष्टं द्रष्टव्यमित्यादौ
+फलाभिलाषप्रतिबन्धान्नोक्ता बुद्धिरुदेष्यतीत्याशङ्क्याह **यदेति।**
+विवेकपरिपाकावस्था कालशब्देनोच्यते। कालुष्यस्य दोषपर्यवसायित्वं
+दर्शयन्विशिनष्टि **येनेति।** तदनर्थरूपं कालुष्यं तवेत्यन्वयार्थं
+पुनर्वचनम्। बुद्धिशुद्धिफलस्य विवेकस्य प्राप्त्या वैराग्यप्राप्तिं
+दर्शयति **तदेति।** अध्यात्मशास्त्रातिरिक्तं शास्त्रं श्रोतव्यादिशब्देन
+गृह्यते। उक्तं वैराग्यमेव स्फोरयति **श्रोतव्यमिति।** यथोक्तविवेकसिद्धौ
+सर्वस्मिन्ननात्मविषये नैष्फल्यं प्रतिभातीत्यर्थः।
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥2.52॥ कदा मनीषिणो भवन्तीत्यत आह **यदेति।** ते तव मोहः
+इष्टानिष्टवियोगसंयोगजपरितापजन्यं वैचित्यं तदेव कलिलमिव कलिलं कालुष्यं
+बुद्धिगतं बुद्धिर्व्यतितरिष्यति व्यतिक्रमिष्यति बुद्धिः प्रसन्ना
+भविष्यति तदा श्रोतव्यस्य शास्त्रभागस्य श्रुतस्य च निर्वेदं वैराग्यं
+गन्तासि। अयं भावः मलिनायां बुद्धावसकृद्गृहीतस्यापि
+शास्त्रार्थस्याफुरणाच्छ्रोतव्यं श्रुतं च वृथैव तद्वच्छुद्धायामपि बुद्धौ
+सद्यः शास्त्रार्थस्फुरणात्तयोर्वैयर्थ्यमित्युभयथापि तत्र निर्वेद उचितः।
+प्रसन्ना च बुद्धिर्निग्रहीतुं योग्या भवतीति श्रवणादिकं त्यक्त्वा
+ध्याननिष्ठ एव भवेदिति।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥2.52 2.53॥ साङ्ख्यं बुद्धिं सदा प्राप्स्यामि यदर्थं कर्मानुष्ठानं
+भवतोपदिश्यत इत्यत आह **यदेति।** यदा यस्यामवस्थायां तव
+बुद्धिर्मोहात्मकमविवेकरुपं कालुष्यं व्यतिक्रमिष्यति तदा तस्यामवस्थायां
+श्रोतव्यस्य श्रुतस्य च वैराग्यं प्राप्तासि। पूर्वं
+श्रुतिभिरनेकसाध्यसाधनश्रवणैर्विप्रतिपन्ना विक्षिप्ता
+श्रुतश्रोतवययोर्निर्वेदं लब्ध्वा यदा समाधीयते चित्तमस्मिन्निति
+समाधिरात्मा तस्मिन्निश्चला विक्षेपरहिता स्थास्यति स्थिरीभूता भविष्यति
+तदा योगं साङ्ख्ययोगमवाप्स्यसीति द्वयोरर्थः। यद्वा
+योगानुष्ठानजनितसत्त्वशुद्धिजा वैराग्यादीतरसाधनसहिता
+नित्यानित्यवस्तुविवेकरुपा ज्ञानाधिकारसंपादिका बुद्धिः कदा प्राप्यत इत्यत
+आह **यदेति।** यदा तव बुद्धिर्मोहात्मकमविवेकरुपं कालुष्यं
+चित्ताशुद्धिजं व्यतितरिष्यति तदा श्रोतव्यस्य श्रुतस्य च कर्मफलस्य
+निर्वेदं गन्तासि। चित्तशुद्धिद्वारा लब्धात्मविवेकबुद्धिः कर्मयोगजं फलं
+परमात्मयोगं कदाप्स्यसीति तच्छृणु **श्रुतीति।**
+प्राग्वद्य्वाख्यानद्वयमपि भाष्याल्लभ्यत इति बोधम।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥2.52॥ एवं कर्माण्यनुतिष्ठतः कदा मे सत्त्वशुद्धिः स्यादित्यत आह न
+ह्येतावता कालेन सत्त्वशुद्धिर्भवतीति  
+  
+कालनियमोऽस्ति किंतु यदा यस्मिन्काले ते तव बुद्धिरन्तःकरणं मोहकलिलं
+व्यतितरिष्यति अविवेकात्मकं कालुष्यं अहमिदं
+ममेदमित्याद्यज्ञानविलसितमतिगहनं व्यतिकमिष्यति। रजस्तमोमलमपहाय
+शुद्धभावमापत्स्यत इति यावत्। तदा तस्मिन्काले श्रोतव्यस्य श्रुतस्य च
+कर्मफलस्य निर्वेदं वैतृष्ण्यं गन्तासि प्राप्तासि प्राप्नोषि। परीक्ष्य
+लोकान्कर्मचितान्ब्राह्मणो निर्वेदमायात् इति श्रुतेः। निर्वेदेन
+फलेनान्तःकरणशुद्धिं ज्ञास्यसीत्यभिप्रायः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.52।। कियत्पर्यन्तमवश्यं कर्तव्यानि मुमुक्षुणैवं कर्माणीत्याह यदेति।
+॥2.52॥ कियत्पर्यन्तमवश्यं कर्तव्यानि मुमुक्षुणैवं कर्माणीत्याह यदेति।
 निर्वेदं नितरां लाभम्। प्रयोगात् तस्माद्ब्राह्मणः पाण्डित्यं निर्विद्य
 बृ.उ.3।5।1 इत्यादि। न हि तत्र वैराग्यमुपपद्यते तथा सति पाण्डित्यादिति
 स्यात्।  
@@ -123,14 +191,12 @@ _________________
 लिङ्गभेदः समो मतः। तथापि परमानन्दो ज्ञानभेदात्तु भिद्यते इति
 नारायणाष्टाक्षरकल्पे। अतो न वैराग्यं श्रुतादावत्र विवक्षितम्। न च
 सङ्कोचे मानं किञ्चिद्विद्यमान इतरत्र प्रयोगे महद्भिः श्रवणीयस्य श्रुतस्य
-च वेदादेः फलं प्राप्स्यसीत्यर्थः।  
-
+च वेदादेः फलं प्राप्स्यसीत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।2.52।। यदा ते इति श्लोके योगसम्बन्धि न किमप्युच्यत इत्यतस्तत्सङ्गतिमाह
+<details><summary>जयतीर्थः</summary>
+
+॥2.52॥ यदा ते इति श्लोके योगसम्बन्धि न किमप्युच्यत इत्यतस्तत्सङ्गतिमाह
 **किय**दिति। एवं फलकामनादिवर्जितानि
 ईश्वराराधनरूपाणीत्याकाङ्क्षायामाहेत्यर्थः। नन्वियमाकाङ्क्षैवानुपपन्ना
 योगो हि ज्ञानफलसाधनतयोपदिष्टः साधनं च साध्यप्राप्तिपर्यन्तमनुष्टेयमिति
@@ -196,172 +262,40 @@ _________________
 तद्बलाच्छ्रोतव्यादिशब्दस्यार्थसङ्कोचः क्रियेतापि। इतरत्र नितरां लाभे
 तस्य प्रयोगे विद्यमाने निर्मूलं सङ्कोचकल्पनमित्यर्थः। ननु लाभार्थतायामपि
 असच्छास्त्रादिव्युदासाय सङ्कोचः कार्य एवेत्याह **महद्भि**रिति।
-अयोग्यतयैव तन्निरासः प्रकरणाद्वेति भावः।  
-
+अयोग्यतयैव तन्निरासः प्रकरणाद्वेति भावः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.52।।  
-  
-**यदा** यस्मिन्काले **ते** तव **मोहकलिलं** मोहात्मकमविवेकरूपं
-कालुष्यं येन आत्मानात्मविवेकबोधं कलुषीकृत्य विषयं प्रत्यन्तःकरणं
-प्रवर्तते तत् तव **बुद्धिः व्यतितरिष्यति** व्यतिक्रमिष्यति
-अतिशुद्धभावमापत्स्यते इत्यर्थः। **तदा** तस्मिन् काले **गन्तासि**
-प्राप्स्यसि **निर्वेदं** वैराग्यं **श्रोतव्यस्य श्रुतस्य च** तदा
-श्रोतव्यं श्रुतं च ते निष्फलं प्रतिभातीत्यभिप्रायः।।  
-मोहकलिलात्ययद्वारेण लब्धात्मविवेकजप्रज्ञः कदा कर्मयोगजं फलं
-परमार्थयोगमवाप्स्यामीति चेत् तत् श्रृणु  
-  
-
+॥2.54 2.55॥ यदा ते इति। श्रुतीति। तत्र च योगबुद्धिप्राप्त्यबसरे तव स्फुटमेवेदमभिज्ञानम् श्रोतव्यस्य +++(S omits श्रोतव्यस्य)+++ श्रुतस्य अभिलष्यमाणस्य च +++(N वा instead of च)+++ आगमस्य उभस्यापि निर्वेदभावत्वम् +++(SK भाक्त्वम्)+++। अनेन चेदमुक्तम् अविद्यापद +++(N अविद्यमद)+++ निपतितप्रमात्रनुग्राहकशास्त्रश्रवणसंस्कारविप्रलम्भमहिमा अयं यत् तवास्थाने कुलक्षयादिदोषदर्शनम्। तत्तु तथाशासनबहुमानविगलने विगलिष्यति इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।2.52।। योगानुष्ठानजनित सत्त्वशुद्धिसे उत्पन्न हुई बुद्धि कब प्राप्त
-होती है इसपर कहते हैं  
-  
-जब तेरी बुद्धि मोहकलिलको अर्थात् जिसके द्वारा आत्मानात्मके
-विवेकविज्ञानको कलुषित करके अन्तःकरण विषयोंमें प्रवृत्त किया जाता है उस
-मोहात्मक अविवेककालिमाको उल्लङ्घन कर जायगी अर्थात् जब तेरी बुद्धि बिल्कुल
-शुद्ध हो जायगी।  
-तब उस समय तू सुननेयोग्यसे और सुने हुएसे वैराग्यको प्राप्त हो जायगा।
-अर्थात् तब तेरे लिये सुननेयोग्य और सुने हुए ( सब विषय ) निष्फल हो जायँगे
-यह अभिप्राय है।  
+<details><summary>शङ्करनारायणः</summary>
 
+2.52 See Comment under 2.53
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.52 When is attained that wisdom which arises from the purification of
-the mind brought about by the pursuit of (karma-) yoga; This is being
-stated: Yada, when, \[Yada: when maturity of discrimination is
-attained.\] at the time when; te, your; buddhih, mind; vyatitarisyati,
-will go beyond, cross over; moha-kalilam, the turbidity of delusion, the
-dirt in the form of delusion, in the form of non-discrimination, which,
-after confounding one's understanding about the distinction between the
-Self and the not-Self, impels the mind towards objects that is to say,
-when your mind will attain the state of purity; tada, then, \[Tada:
-then, when the mind, becoming purified, leads to the rise of
-discrimination, which in turn matures into detachment.\] at that time;
-gantasi, you will acire; nirvedam, despassion; for srotavyasya, what has
-to be heard; ca, and; srutasya, what has been heard. The idea implied is
-that, at that time what has to be heard and what has been heard \[What
-has to be heard৷৷.has been heard, i.e. the scriptures other than those
-relating to Self-knowledge. When discrimination referred to above gets
-matured, then the fruitlessness of all things other than Self-knowledge
-becomes apparent.\] becomes fruitless.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।2.52।। यस्मिन्कर्मणि क्रियमाणे परमार्थदर्शनलक्षणा बुद्धिरुद्देश्यतया
-युज्यते तस्मात्कर्मणः सकाशादितरत्कर्म
-तथाविधोद्देश्यभूतबुद्धिसंबन्धविधुरमतिशयेन निष्कृष्यते ततश्च
-परमार्थबुद्धिमुद्देश्यत्वेनाश्रित्य कर्मानुष्ठातव्यं
-परिच्छिन्नफलान्तरमुद्दिश्य तदनुष्ठाने कार्पण्यप्रसङ्गात् किञ्च
-परमार्थबुद्धिमुद्देश्यमाश्रित्य कर्मानुतिष्ठतः करणशुद्धिद्वारा
-परमार्थदर्शनसिद्धौ जीवत्येव देहे सुकृतादि हित्वा मोक्षमधिगच्छति। तथाच
-परमार्थदर्शनलक्षणयोगार्थं मनो धारयितव्यं योगशब्दितं हि
-परमार्थदर्शनमुद्देश्यतया कर्मस्वनुतिष्ठतो नैपुण्यमिष्यते यदि च
-परमार्थदर्शनमुद्दिश्य तद्युताः सन्तः समारभेरन्कर्माणि तदा
-तदनुष्ठानजनितबुद्धिशुद्ध्या ज्ञानिनो भूत्वा कर्मजं फलं परित्यज्य
-निर्मुक्तबन्धना मुक्तिभाजो भवन्तीत्येवमस्मिन्पक्षे श्लोकत्रयाक्षराणि
-व्याख्यातव्यानि। यथोक्तबुद्धिप्राप्तिकालं प्रश्नपूर्वकं प्रकटयति
-**योगेति।** श्रुतं श्रोतव्यं दृष्टं द्रष्टव्यमित्यादौ
-फलाभिलाषप्रतिबन्धान्नोक्ता बुद्धिरुदेष्यतीत्याशङ्क्याह **यदेति।**
-विवेकपरिपाकावस्था कालशब्देनोच्यते। कालुष्यस्य दोषपर्यवसायित्वं
-दर्शयन्विशिनष्टि **येनेति।** तदनर्थरूपं कालुष्यं तवेत्यन्वयार्थं
-पुनर्वचनम्। बुद्धिशुद्धिफलस्य विवेकस्य प्राप्त्या वैराग्यप्राप्तिं
-दर्शयति **तदेति।** अध्यात्मशास्त्रातिरिक्तं शास्त्रं श्रोतव्यादिशब्देन
-गृह्यते। उक्तं वैराग्यमेव स्फोरयति **श्रोतव्यमिति।** यथोक्तविवेकसिद्धौ
-सर्वस्मिन्ननात्मविषये नैष्फल्यं प्रतिभातीत्यर्थः।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।2.52।। एवं कर्माण्यनुतिष्ठतः कदा मे सत्त्वशुद्धिः स्यादित्यत आह न
-ह्येतावता कालेन सत्त्वशुद्धिर्भवतीति  
-  
-कालनियमोऽस्ति किंतु यदा यस्मिन्काले ते तव बुद्धिरन्तःकरणं मोहकलिलं
-व्यतितरिष्यति अविवेकात्मकं कालुष्यं अहमिदं
-ममेदमित्याद्यज्ञानविलसितमतिगहनं व्यतिकमिष्यति। रजस्तमोमलमपहाय
-शुद्धभावमापत्स्यत इति यावत्। तदा तस्मिन्काले श्रोतव्यस्य श्रुतस्य च
-कर्मफलस्य निर्वेदं वैतृष्ण्यं गन्तासि प्राप्तासि प्राप्नोषि। परीक्ष्य
-लोकान्कर्मचितान्ब्राह्मणो निर्वेदमायात् इति श्रुतेः। निर्वेदेन
-फलेनान्तःकरणशुद्धिं ज्ञास्यसीत्यभिप्रायः।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।2.52।। कदा मनीषिणो भवन्तीत्यत आह **यदेति।** ते तव मोहः
-इष्टानिष्टवियोगसंयोगजपरितापजन्यं वैचित्यं तदेव कलिलमिव कलिलं कालुष्यं
-बुद्धिगतं बुद्धिर्व्यतितरिष्यति व्यतिक्रमिष्यति बुद्धिः प्रसन्ना
-भविष्यति तदा श्रोतव्यस्य शास्त्रभागस्य श्रुतस्य च निर्वेदं वैराग्यं
-गन्तासि। अयं भावः मलिनायां बुद्धावसकृद्गृहीतस्यापि
-शास्त्रार्थस्याफुरणाच्छ्रोतव्यं श्रुतं च वृथैव तद्वच्छुद्धायामपि बुद्धौ
-सद्यः शास्त्रार्थस्फुरणात्तयोर्वैयर्थ्यमित्युभयथापि तत्र निर्वेद उचितः।
-प्रसन्ना च बुद्धिर्निग्रहीतुं योग्या भवतीति श्रवणादिकं त्यक्त्वा
-ध्याननिष्ठ एव भवेदिति।  
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।2.52 2.53।। साङ्ख्यं बुद्धिं सदा प्राप्स्यामि यदर्थं कर्मानुष्ठानं
-भवतोपदिश्यत इत्यत आह **यदेति।** यदा यस्यामवस्थायां तव
-बुद्धिर्मोहात्मकमविवेकरुपं कालुष्यं व्यतिक्रमिष्यति तदा तस्यामवस्थायां
-श्रोतव्यस्य श्रुतस्य च वैराग्यं प्राप्तासि। पूर्वं
-श्रुतिभिरनेकसाध्यसाधनश्रवणैर्विप्रतिपन्ना विक्षिप्ता
-श्रुतश्रोतवययोर्निर्वेदं लब्ध्वा यदा समाधीयते चित्तमस्मिन्निति
-समाधिरात्मा तस्मिन्निश्चला विक्षेपरहिता स्थास्यति स्थिरीभूता भविष्यति
-तदा योगं साङ्ख्ययोगमवाप्स्यसीति द्वयोरर्थः। यद्वा
-योगानुष्ठानजनितसत्त्वशुद्धिजा वैराग्यादीतरसाधनसहिता
-नित्यानित्यवस्तुविवेकरुपा ज्ञानाधिकारसंपादिका बुद्धिः कदा प्राप्यत इत्यत
-आह **यदेति।** यदा तव बुद्धिर्मोहात्मकमविवेकरुपं कालुष्यं
-चित्ताशुद्धिजं व्यतितरिष्यति तदा श्रोतव्यस्य श्रुतस्य च कर्मफलस्य
-निर्वेदं गन्तासि। चित्तशुद्धिद्वारा लब्धात्मविवेकबुद्धिः कर्मयोगजं फलं
-परमात्मयोगं कदाप्स्यसीति तच्छृणु **श्रुतीति।**
-प्राग्वद्य्वाख्यानद्वयमपि भाष्याल्लभ्यत इति बोधम।  
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।2.52 2.53।। कदा तत्पदमहं प्राप्स्यामि इत्यपेक्षायामाह यदेति द्वाभ्याम्।
+॥2.52 2.53॥ कदा तत्पदमहं प्राप्स्यामि इत्यपेक्षायामाह यदेति द्वाभ्याम्।
 निश्चला विशोकधैर्यादिवती ते यदा बुद्धिर्व्यवसायात्मिकैव तदा श्रोतव्यस्य
 श्रुतस्य च त्रैगुण्यस्य कर्मफलस्य निर्वेदं वैराग्यं प्राप्स्यसि।
 तस्यात्रानुपादेयत्वेन जिज्ञासां न करिष्यसीत्यर्थः। तादृशी सती ते
 बुद्धिरचला यदा समाधीयते तदा योगं योगस्वरूपं यास्यसि ततश्च
-कार्यसिद्धिः।  
-
+कार्यसिद्धिः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।2.52।। ननु तत्प्राप्तिः कदा स्यात् इत्यत आह यदा त इति। ते बुद्धिर्यदा
+<details><summary>पुरुषोत्तमः</summary>
+
+॥2.52॥ ननु तत्प्राप्तिः कदा स्यात् इत्यत आह यदा त इति। ते बुद्धिर्यदा
 मोहकलिलं मोहगहनं लौकिकेषु देहादिषु विशेषेणाऽतितरिष्यति तदा निर्वेदं
 मोक्षं गमिष्यसि। श्रोतव्यस्य अग्रे प्रोच्यमानस्य शास्त्रतो वा श्रुतस्य च
 निर्वेदं तदैव गन्तासि। यद्वा च पुनः। श्रुतस्य पूर्वोक्तसाङ्ख्यादेः। यदा
@@ -369,94 +303,70 @@ _________________
 निर्वेदं गन्तासि। अत्रायं भावः यावत्पर्यन्तं कर्मादिमार्गेषु
 मोहस्तावद्भक्तिमार्गफलं न भवति तस्यानन्यसाध्यत्वात्। अत एवाग्रे
 तथैवोपदेष्टव्यः। अधुनाऽधिकाराभावान्नोपदिश्यते अधिकारसम्पत्त्यर्थं च
-सूचितः।  
-  
-  
-  
-
+सूचितः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।2.52।। कदा तत्पदमहं प्राप्स्यामीत्यपेक्षायामाह **यदेति** द्वाभ्याम्।
+॥2.52॥ कदा तत्पदमहं प्राप्स्यामीत्यपेक्षायामाह **यदेति** द्वाभ्याम्।
 मोहो देहादिष्वात्मबुद्धि तदेव कलिलंकलिलं गहनं विदुः इत्यभिधानकोशस्मृतेः।
 ततश्चायमर्थः। एवं पमेश्वराराधने क्रियमाणे यदा तत्प्रसादेन तव
 बुद्धिर्देहाभिमानलक्षणं मोहमयं गहनं दुर्गं विशेषेणातितरिष्यति तदा
 श्रोतव्यस्य श्रुतस्यार्थस्य च निर्वेदं वैराग्यं गन्तासि प्राप्स्यसि।
 तयोरनुपादेयत्वेन जिज्ञासां न करिष्यसीत्यर्थः।  
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।2.52।। मोह निवृत्ति होने पर वैराग्य प्राप्ति का आश्वासन यहाँ अर्जुन को
-दिया गया है। श्रोतव्य शब्द से तात्पर्य उन सभी विषयोपभोगों से है जिनका
-प्रत्यक्ष अनुभव नहीं किया गया है तथा श्रुत शब्द से सभी ज्ञान अनुभव सूचित
-किये गये हैं। यह स्वाभाविक है कि बुद्धि के शुद्ध होने पर विषयोपभोग में
-कोई राग नहीं रह जाता।  
-  
-स्वरूप से दिव्य होते हुये भी चैतन्य आत्मा मोहावरण में फँसी हुई प्रतीत
-होती है। इस मोह का कारण है एक अनिर्वचनीय शक्ति माया। अव्यक्त विद्युत के
-समान माया भी प्रत्यक्ष दृष्टिगोचर नहीं होती परन्तु विभिन्न रूपों में
-उसकी अभिव्यक्ति से उसका अस्तित्व सिद्ध होता है।  
-सभी जीवों की संरचना में माया के कार्य के निरीक्षण एवं अध्ययन से वेदान्त
-के आचार्यों ने यह पाया कि मनुष्य के व्यक्तित्व के दो स्तरों पर माया की
-अभिव्यक्ति दो प्रकार से होती है। बुद्धि पर आत्मस्वरूप के अज्ञान के रूप
-में पड़े इस आवरण को वेदान्त में माया की आवरण शक्ति कहा गया है। बुद्धि पर
-पड़े इस अज्ञान आवरण के कारण मन अनात्म जगत् की कल्पना करता है और उस जगत्
-के विषय में उसकी दो धारणायें दृढ़ होती हैं कि (क) यह सत्य है और (ख) यह
-अनात्मा (देह आदि) ही में हूँ। मन के स्तर पर कार्य करने वाली माया की यह
-शक्ति विक्षेप शक्ति कहलाती है।  
-इस श्लोक में कहा गया है कि कर्मयोग की भावना से कर्म करते रहने पर बुद्धि
-की शुद्धि होती है और तब उसके लिये सम्भव होता है कि आवरण को हटाकर
-आत्मस्वरूप का साक्षात्कार कर सके। इस प्रकार मोह निवृति का परिणाम है
-विषयोपभोग से वैराग्य परन्तु आत्मअज्ञान के होने पर मनुष्य विषयों से ही
-सुख पाने की आशा में दिनरात परिश्रम करता रहता है।  
-शीत ऋतु में बादलों से सूर्य के आच्छादित होने पर मनुष्य अग्नि जलाकर उसके
-समीप बैठता है किन्तु धीरेधीरे बादलों के हट जाने पर सूर्य की उष्णता का
-अनुभव कर वह अग्नि के पास से उठकर धूप का आनन्द लेता है। वैसे ही
-आनन्दस्वरूप के अज्ञान के कारण विषयों को पाने के लिये चल रही मनुष्य की
-भागदौड़ स्वत समाप्त हो जाती है जब वह स्वस्वरूप को पहचान लेता है।  
-यहाँ सम्पूर्ण जगत् का निर्देश श्रुत और श्रोतव्य इन दो शब्दों से किया गया
-है। इसमें सभी इन्द्रियों द्वारा ज्ञात होने वाले विषय समाविष्ट हैं।
-कर्मयोगी की बुद्धि न तो पूर्वानुभूत विषय सुखों का स्मरण करती है और न ही
-भविष्य में प्राप्त होनेवाले अनुभवों की आशा।  
-भाष्यकार भगवान् शंकराचार्य अगले श्लोक की संगति बताते हैं कि यदि तुम्हारा
-प्रश्न हो कि मोहावरण भेदकर और विवेकजनित आत्मज्ञान को प्राप्त कर कर्मयोग
-के फल परमार्थयोग को तुम कब पाओगे तो सुनो  
-
+2.52 When your intellect has passed beyond the tangle of delusion, you will yourself feel disgusted regarding what you shall hear and what you have already heard.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।2.52।। जब तुम्हारी बुद्धि मोहरूप दलदल (कलिल) को तर जायेगी तब तुम उन सब
-वस्तुओं से निर्वेद (वैराग्य) को प्राप्त हो जाओगे; जो सुनने योग्य और सुनी
-हुई हैं।।  
-  
+<details><summary>गम्भीरानन्दः</summary>
 
+2.52 When your mind will go beyond the turbidity of delusion, then you will acire dispassion for what has to be heard and what has been heard.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+2.52 When thy reason has crossed the entanglements of illusion, then shalt thou become indifferent both to the philosophies thou hast heard and to those thou mayest yet hear.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+2.52. When your determining faculty goes beyond the impregnable thicket
+of delusion, at that time you will attain an attitude of futility
+regarding what has to be heard and what has been heard.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+2.52 When thy intellect crosses beyond the mire of delusion, then thou shalt attain to indifference as to what has been heard and what has yet to be heard.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+2.52 यदा when; ते thy; मोहकलिलम् mire of delusion; बुद्धिः intellect;
+व्यतितरिष्यति crosses beyond; तदा then; गन्तासि thou shalt attain;
+निर्वेदम् to indifference; श्रोतव्यस्य of what has to be heard; श्रुतस्य
+what has been heard; च and.Commentary The mire of delusion is the identification of the Self with the notself. The sense of discrimination between the Self and the notSelf is confounded by the mire of delusion and the mind runs towards the sensual objects and the body is takes as the pure Self. When you attain purity of mind; you will attain to indifference regarding things heard and yet to be heard. They will appear to you to be of no use. You will not care a bit for them. You will entertain disgust for them. (Cf.XVI.24).
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.52।। जिस समय तेरी बुद्धि मोहरूपी दलदलको तर जायगी, उसी समय तू सुने
 हुए और सुननेमें आनेवाले भोगोंसे वैराग्यको प्राप्त हो जायगा।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 2.52।।***व्याख्या--*** **'यदा ते मोहकलिलं
 बुद्धिर्व्यतितरिष्यति'--**शरीरमें अहंता और ममता करना तथा शरीर-सम्बन्धी
@@ -526,57 +436,52 @@ _________________
 दिनोंमें वैराग्य होगा--ऐसा कोई नियम नहीं है, प्रत्युत जिस क्षण बुद्धि
 मोहकलिलको तर जायगी, उसी क्षण **'श्रुत'** और **'श्रोतव्य'** विषयोंसे
 भोगोंसे वैराग्य हो जायगा। इसमें कोई देरीका काम नहीं है।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-2.52. When your determining faculty goes beyond the impregnable thicket
-of delusion, at that time you will attain an attitude of futility
-regarding what has to be heard and what has been heard.
-
+।।2.52।। मोह निवृत्ति होने पर वैराग्य प्राप्ति का आश्वासन यहाँ अर्जुन को
+दिया गया है। श्रोतव्य शब्द से तात्पर्य उन सभी विषयोपभोगों से है जिनका
+प्रत्यक्ष अनुभव नहीं किया गया है तथा श्रुत शब्द से सभी ज्ञान अनुभव सूचित
+किये गये हैं। यह स्वाभाविक है कि बुद्धि के शुद्ध होने पर विषयोपभोग में
+कोई राग नहीं रह जाता।  
+  
+स्वरूप से दिव्य होते हुये भी चैतन्य आत्मा मोहावरण में फँसी हुई प्रतीत
+होती है। इस मोह का कारण है एक अनिर्वचनीय शक्ति माया। अव्यक्त विद्युत के
+समान माया भी प्रत्यक्ष दृष्टिगोचर नहीं होती परन्तु विभिन्न रूपों में
+उसकी अभिव्यक्ति से उसका अस्तित्व सिद्ध होता है।  
+सभी जीवों की संरचना में माया के कार्य के निरीक्षण एवं अध्ययन से वेदान्त
+के आचार्यों ने यह पाया कि मनुष्य के व्यक्तित्व के दो स्तरों पर माया की
+अभिव्यक्ति दो प्रकार से होती है। बुद्धि पर आत्मस्वरूप के अज्ञान के रूप
+में पड़े इस आवरण को वेदान्त में माया की आवरण शक्ति कहा गया है। बुद्धि पर
+पड़े इस अज्ञान आवरण के कारण मन अनात्म जगत् की कल्पना करता है और उस जगत्
+के विषय में उसकी दो धारणायें दृढ़ होती हैं कि (क) यह सत्य है और (ख) यह
+अनात्मा (देह आदि) ही में हूँ। मन के स्तर पर कार्य करने वाली माया की यह
+शक्ति विक्षेप शक्ति कहलाती है।  
+इस श्लोक में कहा गया है कि कर्मयोग की भावना से कर्म करते रहने पर बुद्धि
+की शुद्धि होती है और तब उसके लिये सम्भव होता है कि आवरण को हटाकर
+आत्मस्वरूप का साक्षात्कार कर सके। इस प्रकार मोह निवृति का परिणाम है
+विषयोपभोग से वैराग्य परन्तु आत्मअज्ञान के होने पर मनुष्य विषयों से ही
+सुख पाने की आशा में दिनरात परिश्रम करता रहता है।  
+शीत ऋतु में बादलों से सूर्य के आच्छादित होने पर मनुष्य अग्नि जलाकर उसके
+समीप बैठता है किन्तु धीरेधीरे बादलों के हट जाने पर सूर्य की उष्णता का
+अनुभव कर वह अग्नि के पास से उठकर धूप का आनन्द लेता है। वैसे ही
+आनन्दस्वरूप के अज्ञान के कारण विषयों को पाने के लिये चल रही मनुष्य की
+भागदौड़ स्वत समाप्त हो जाती है जब वह स्वस्वरूप को पहचान लेता है।  
+यहाँ सम्पूर्ण जगत् का निर्देश श्रुत और श्रोतव्य इन दो शब्दों से किया गया
+है। इसमें सभी इन्द्रियों द्वारा ज्ञात होने वाले विषय समाविष्ट हैं।
+कर्मयोगी की बुद्धि न तो पूर्वानुभूत विषय सुखों का स्मरण करती है और न ही
+भविष्य में प्राप्त होनेवाले अनुभवों की आशा।  
+भाष्यकार भगवान् शंकराचार्य अगले श्लोक की संगति बताते हैं कि यदि तुम्हारा
+प्रश्न हो कि मोहावरण भेदकर और विवेकजनित आत्मज्ञान को प्राप्त कर कर्मयोग
+के फल परमार्थयोग को तुम कब पाओगे तो सुनो
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.52 When your mind will go beyond the turbidity of delusion, then you will acire dispassion for what has to be heard and what has been heard.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।2.52।। जब तुम्हारी बुद्धि मोहरूप दलदल (कलिल) को तर जायेगी तब तुम उन सब
+वस्तुओं से निर्वेद (वैराग्य) को प्राप्त हो जाओगे; जो सुनने योग्य और सुनी
+हुई हैं।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.52 When thy reason has crossed the entanglements of illusion, then shalt thou become indifferent both to the philosophies thou hast heard and to those thou mayest yet hear.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-2.52 When your intellect has passed beyond the tangle of delusion, you will yourself feel disgusted regarding what you shall hear and what you have already heard.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-2.52 When thy intellect crosses beyond the mire of delusion, then thou shalt attain to indifference as to what has been heard and what has yet to be heard.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-2.52 यदा when; ते thy; मोहकलिलम् mire of delusion; बुद्धिः intellect;
-व्यतितरिष्यति crosses beyond; तदा then; गन्तासि thou shalt attain;
-निर्वेदम् to indifference; श्रोतव्यस्य of what has to be heard; श्रुतस्य
-what has been heard; च and.Commentary The mire of delusion is the identification of the Self with the notself. The sense of discrimination between the Self and the notSelf is confounded by the mire of delusion and the mind runs towards the sensual objects and the body is takes as the pure Self. When you attain purity of mind; you will attain to indifference regarding things heard and yet to be heard. They will appear to you to be of no use. You will not care a bit for them. You will entertain disgust for them. (Cf.XVI.24).
-
-</details>
 </div>

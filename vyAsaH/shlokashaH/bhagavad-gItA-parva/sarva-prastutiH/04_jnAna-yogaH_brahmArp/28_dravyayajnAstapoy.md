@@ -1,203 +1,57 @@
 +++
 title = "28 द्रव्ययज्ञास्तपोयज्ञा"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **द्रव्य-यज्ञास् तपोयज्ञा**  
 **योग-यज्ञास्** तथापरे।  
 **स्वाध्याय-ज्ञान-यज्ञाश्** च  
 यतयः संशित-व्रताः॥4.28॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे।  
-स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः।।4.28।।
+स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः॥4.28॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।4.28।। केचित् कर्मयोगिनो **द्रव्ययज्ञाः** न्यायतो द्रव्याणि आदाय
-देवार्चने प्रयतन्ते केचित् च दानेषु केचित् च यागेषु केचित् च होमेषु एते
-सर्वे द्रव्ययज्ञाः। केचित्**तपोयज्ञाः** कृच्छ्रचान्द्रायणोपवासादिषु
-निष्ठां कुर्वन्ति **योगयज्ञाः** च **अपरे** पुण्यतीर्थे
-पुण्यस्थानप्राप्तिषु निष्ठां कुर्वन्ति। इह योगशब्दः
-कर्मनिष्ठाभेदप्रकरणात् तद्विषयः। केचित् **स्वाध्याय**पराः
-स्वाध्यायाभ्यासपराः केचित्तदर्थ**ज्ञाना**भ्यासपराः **यतयः** यतनशीलाः
-**शंसितव्रताः** दृढसंकल्पाः।
-
+॥4.28॥ केचित् कर्मयोगिनो **द्रव्ययज्ञाः** न्यायतो द्रव्याण्य् आदाय देवार्चने प्रयतन्ते केचिच् च दानेषु केचिच् च यागेषु केचिच् च होमेष्व् एते सर्वे द्रव्ययज्ञाः। केचित्**तपोयज्ञाः** कृच्छ्रचान्द्रायणोपवासादिषु निष्ठां कुर्वन्ति **योगयज्ञाः** च **अपरे** पुण्यतीर्थे पुण्यस्थानप्राप्तिषु निष्ठां कुर्वन्ति। इह योगशब्दः कर्मनिष्ठाभेदप्रकरणात् तद्विषयः। केचित् **स्वाध्याय**पराः स्वाध्यायाभ्यासपराः केचित्तदर्थ**ज्ञाना**भ्यासपराः **यतयः** यतनशीलाः **शंसितव्रताः** दृढसङ्कल्पाः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।4.28।। प्रत्येकं यज्ञशब्दप्रयोगाद्बहुविधकर्मयोगभेदनिष्ठा उच्यन्ते तत
-एवापरशब्दोऽपि प्रत्येकमन्वितः। तत्र द्रव्यैर्यज्ञा येषां ते
-द्रव्ययज्ञाः। यद्वा द्रव्यात्मका यज्ञा येषामिति विग्रहः।
-द्रव्यशब्दसामर्थ्यात् तत्साध्ययज्ञविशेषाः सर्वे सङ्गृहीता इति
-देवतार्चनदानयागहोमाः पृथगुक्ताः। अतःद्रव्ययज्ञाः इत्यादि बहुवचनमपि
-तत्तदवान्तरभेदविषयमिति भावः। ननु देवतार्चनयागादेः
-पूर्वमेवोक्तत्वान्निरर्थकं पुनर्वचनमिति चेत् नद्रव्यशब्दस्य साधारणत्वेन
-दानस्यापि सङ्ग्रहात् पूर्वं च तस्यानुक्तत्वेनापौनरुक्त्यात्। तर्हि
-दानयज्ञा इति विशिष्य वक्तव्यम् तदपि न अर्चनदानयोगहोमयज्ञानां चतुर्णामपि
-तपोयज्ञादिभ्यो व्यावृत्तावान्तरसङ्ग्राहकसूचनार्थतया
-न्यायार्जितद्रव्यसाध्यत्वज्ञापनार्थतया च सामान्यशब्दोपयोगात्।
-तदेतदभिप्रेत्योक्तंएते सर्वे द्रव्ययज्ञा इति। यद्वा अर्चनादिस्वरूपस्य
-यज्ञत्वं प्रागुक्तम् इह तु तदर्थद्रव्यार्जनादेरेवेत्यभिप्रायेणन्यायत
-इत्यादिप्रयतन्त इत्यन्तमुक्तम्।  
-  
-तपः शास्त्रीयो भोगसङ्कोचः तदवान्तरभेदप्रदर्शनं कृच्छ्रेत्यादि। योगयज्ञाः
-इत्यत्र योगः संयोगः प्राप्तिरित्यर्थः। सा चात्र
-पुण्यतीर्थाद्यभिगमनतन्निवासादिरूपा विवक्षितेत्यभिप्रायेणाहपुण्यतीर्थेति।
-पुण्यस्थानशब्दोऽत्र देवतास्थानाश्रमजनपदविशेषादिसङ्ग्राहकः। नन्विह
-योगशब्दः साक्षाद्योगे कर्मयोगमात्रे वा किं न वर्तते इत्यत्राह इहेति।
-कर्मनिष्ठाप्रकरणत्वात् साक्षाद्योगविषयत्वं न युक्तम् तद्भेदप्रकरणत्वात्
-तत्सामान्यविषयत्वं चानुचितम् तद्भेदेषु च पारिशेष्याद्योगशब्दसामर्थ्याच्च
-तीर्थादिप्राप्तिरेव ग्राह्या। सूचितं चैतत्सङ्ग्रहे
-परमाचार्यैःकर्मयोगस्तपस्तीर्थदानयज्ञादिसेवनम् गी.सं.23 इति भावः।
-स्वाध्यायाभ्यासतदर्थज्ञानयोः पृथग्धर्मत्वेन पृथग्यज्ञत्वनिर्देशोपपत्तेः
-द्वन्द्वस्य प्राधान्याच्च विभज्य निर्दिशतिकेचित्स्वाध्यायाभ्यासपरा इति
-स्वाध्यायसहपाठौचित्यादात्मज्ञानस्य च
-सर्वसाधारणत्वादर्थज्ञानस्यानुष्ठानेऽप्युपयोगात्केचित्तदर्थज्ञानाभ्यासपरा
-इत्युक्तम्। परशब्दोऽत्र साधारण्यव्यवच्छेदाय तन्निष्टतामाह।
-यतिशब्दस्यात्राश्रमविशेषपरत्वानौचित्यात्सर्वकर्मयोगनिष्ठसाधारणविशेषपरत्वौचित्याच्च
-प्रकृतिप्रत्ययार्थविभागेन निर्वक्तियतनशीला इति। सर्वप्रयोगानुगतः
-सर्वकर्मयोगनिष्ठसाधारणश्च सङ्कल्पोऽत्र व्रतशब्दार्थ इत्यभिप्रेत्य
-दृढसङ्कल्पा इत्युक्तम्। संशितत्वमत्राकुण्ठत्वम्। तच्च दृढत्वमेव।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥4.28॥ प्रत्येकं यज्ञशब्दप्रयोगाद्बहुविधकर्मयोगभेदनिष्ठा उच्यन्ते तत एवापरशब्दोऽपि प्रत्येकमन्वितः। तत्र द्रव्यैर्यज्ञा येषां ते द्रव्ययज्ञाः। यद्वा द्रव्यात्मका यज्ञा येषामिति विग्रहः। द्रव्यशब्दसामर्थ्यात् तत्साध्ययज्ञविशेषाः सर्वे सङ्गृहीता इति देवतार्चनदानयागहोमाः पृथगुक्ताः। अतःद्रव्ययज्ञाः इत्यादि बहुवचनमपि तत्तदवान्तरभेदविषयमिति भावः। ननु देवतार्चनयागादेः पूर्वमेवोक्तत्वान्निरर्थकं पुनर्वचनमिति चेत् नद्रव्यशब्दस्य साधारणत्वेन दानस्यापि सङ्ग्रहात् पूर्वं च तस्यानुक्तत्वेनापौनरुक्त्यात्। तर्हि दानयज्ञा इति विशिष्य वक्तव्यं तदपि न अर्चनदानयोगहोमयज्ञानां चतुर्णामपि तपोयज्ञादिभ्यो व्यावृत्तावान्तरसङ्ग्राहकसूचनार्थतया न्यायार्जितद्रव्यसाध्यत्वज्ञापनार्थतया च सामान्यशब्दोपयोगात्। तदेतदभिप्रेत्योक्तम्एते सर्वे द्रव्ययज्ञा इति। यद्वा अर्चनादिस्वरूपस्य यज्ञत्वं प्रागुक्तम् इह तु तदर्थद्रव्यार्जनादेरेवेत्यभिप्रायेणन्यायत इत्यादिप्रयतन्त इत्यन्तमुक्तम्।  
+        
+तपः शास्त्रीयो भोगसङ्कोचः तदवान्तरभेदप्रदर्शनं कृच्छ्रेत्यादि। योगयज्ञाः इत्यत्र योगः संयोगः प्राप्तिरित्यर्थः। सा चात्र पुण्यतीर्थाद्यभिगमनतन्निवासादिरूपा विवक्षितेत्यभिप्रायेणाहपुण्यतीर्थेति। पुण्यस्थानशब्दोऽत्र देवतास्थानाश्रमजनपदविशेषादिसङ्ग्राहकः। नन्विह योगशब्दः साक्षाद्योगे कर्मयोगमात्रे वा किं न वर्तते इत्यत्राह इहेति। कर्मनिष्ठाप्रकरणत्वात् साक्षाद्योगविषयत्वं न युक्तं तद्भेदप्रकरणत्वात् तत्सामान्यविषयत्वं चानुचितं तद्भेदेषु च पारिशेष्याद्योगशब्दसामर्थ्याच्च तीर्थादिप्राप्तिरेव ग्राह्या। सूचितं चैतत्सङ्ग्रहे परमाचार्यैःकर्मयोगस्तपस्तीर्थदानयज्ञादिसेवनं गी.सं.23 इति भावः। स्वाध्यायाभ्यासतदर्थज्ञानयोः पृथग्धर्मत्वेन पृथग्यज्ञत्वनिर्देशोपपत्तेः द्वन्द्वस्य प्राधान्याच्च विभज्य निर्दिशतिकेचित्स्वाध्यायाभ्यासपरा इति स्वाध्यायसहपाठौचित्यादात्मज्ञानस्य च सर्वसाधारणत्वादर्थज्ञानस्यानुष्ठानेऽप्युपयोगात्केचित्तदर्थज्ञानाभ्यासपरा इत्युक्तम्। परशब्दोऽत्र साधारण्यव्यवच्छेदाय तन्निष्टतामाह। यतिशब्दस्यात्राश्रमविशेषपरत्वानौचित्यात्सर्वकर्मयोगनिष्ठसाधारणविशेषपरत्वौचित्याच्च प्रकृतिप्रत्ययार्थविभागेन निर्वक्तियतनशीला इति। सर्वप्रयोगानुगतः सर्वकर्मयोगनिष्ठसाधारणश्च सङ्कल्पोऽत्र व्रतशब्दार्थ इत्यभिप्रेत्य दृढसङ्कल्पा इत्युक्तम्। संशितत्वमत्राकुण्ठत्वम्। तच्च दृढत्वमेव।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.28 Some Karma Yogins perform the sacrifice of material objects. Some worship the gods with materials honestly acired. Some practise charity,
-some engage themselves in sacrifices and in making oblations into the sacred fire. All these perform sacrifice with material objects. Some do the sacrifice of austerity by devoting themselves to Krcchra,
-Candrayana, fast, etc. Others perform the sacrifice of Yoga. Some devote themselves to making pilgrimages to sacred sanctuaries and holy places.
-Here the term Yoga means pilgrimages to sacred sancturaries and holy places as the context relates to aspects of Karma Yoga. Some are devoted to recitation of Vedic texts and some to learning their meaning. They are all devoted to the practice of self-control and of strict vows,
-i.e., they are men to steady resolution.
+<details><summary>आदिदेवानन्दः</summary>
 
+4.28 Some Karma Yogins perform the sacrifice of material objects. Some worship the gods with materials honestly acired. Some practise charity, some engage themselves in sacrifices and in making oblations into the sacred fire. All these perform sacrifice with material objects. Some do the sacrifice of austerity by devoting themselves to Krcchra, Candrayana, fast, etc. Others perform the sacrifice of Yoga. Some devote themselves to making pilgrimages to sacred sanctuaries and holy places. Here the term Yoga means pilgrimages to sacred sancturaries and holy places as the context relates to aspects of Karma Yoga. Some are devoted to recitation of Vedic texts and some to learning their meaning. They are all devoted to the practice of self-control and of strict vows, i.e., they are men to steady resolution.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।4.27 4.28।। सर्वाणीति। द्रव्ययज्ञा इति। ते च सर्वानिन्द्रियव्यापान्
-मानसान् व्यापारान् मुखनासिकानिर्गमनमूत्राद्यधोनयनादीन् वायवीयांश्च
-आत्मनो मनसः +++(N मनसश्च)+++ संयमहेतौ योगनाम्नि ऐकाग्र्यवह्नौ
-सम्यग्ज्ञानपरिदीपिते ( परिबोधिते) पूरयितव्ये निवेशयन्ति। गृह्यमाणं विषयं
-संकल्प्यमानं वा तदेकाग्रतयैव परित्यक्तान्यव्यापारया +++(N तत्परित्यक्तान्य
-)+++ बुद्ध्या गृह्णन्ति इति तात्पर्यम्। तदुक्तं शिवोपनिषदि भावेऽत्यक्ते +++(S
-N भावे त्यक्ते)+++ निरुद्धा चित् +++(N चेत्)+++  
-  
-नैव भावान्तरं व्रजेत्।  
-  
-तदा तन्मध्यभावेन +++(K तन्मयभावेन)+++  
-  
-विकसत्यति भावना।।4. (विज्ञानभैरव 62 ) इति।  
-  
-एवं योगयज्ञाः व्याख्यातः।
-
+॥4.28॥ **द्रव्ययज्ञाः** तीर्थेषु द्रव्यविनियोगं यज्ञबुद्ध्या कुर्वन्ति ये ते द्रव्ययज्ञाः। **तपोयज्ञाः** तपः यज्ञः येषां तपस्विनां ते तपोयज्ञाः। **योगयज्ञाः** प्राणायामप्रत्याहारादिलक्षणो योगो यज्ञो येषां ते योगयज्ञाः। **तथा अपरे स्वाध्यायज्ञानयज्ञाश्च** स्वाध्यायः यथाविधि ऋगाद्यभ्यासः यज्ञः येषां ते स्वाध्याययज्ञाः। ज्ञानयज्ञाः ज्ञानं शास्त्रार्थपरिज्ञानं यज्ञः येषां ते ज्ञानयज्ञाश्च **यतयः** यतनशीलाः **संशितव्रताः** सम्यक् शितानि तनूकृतानि तीक्ष्णीकृतानि व्रतानि येषां ते संशितव्रताः॥ किञ्च
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.27-28 Sarvani etc. Dravyayajnak etc. Again all the activities of their
-sense-organs, the activities of their mind, and the activities of their
-vital airs, such as issuing through the mouth and nose, driving down the
-urine etc., other \[seekers\] established in the fire of concentration,
-named Yoga, which is the means for subduing the self i.e., the mind, and
-which is set ablaze by i.e., to be filled with, knowledge. The idea is
-this : With their intellect that has completely abandoned all other
-activities due to their concentration on the object, they receive the
-object that is being perceived on conceived. That has been stated in the
-Sivopanisad : 'When the intellect, concentrated on a certain object, not
-rejected, would not go to another object, at that time the meditation,
-remaining in the core of the objects, blossoms very much.' Thus the
-Yoga-sacrifices are explained. So far the performers of the
-material-object-sacrifices, the austerity-sacrifices, and the
-yoga-sacrifices have been defined. Those, who are the performers of the
-svadhyaya-knowledge-sacrifices are defined now \[as\] -
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।4.28।। द्रव्यं जुह्वतीति द्रव्ययज्ञाः। तपः परमेश्वरार्पणबुद्ध्या तत्र
-जुह्वतीति तपोयज्ञा इत्यादि। इदं तपो हविः एतद्ब्रह्माग्नौ जुहोति
-तत्पूजार्थमिति होमः। तदर्पण एव होमबुद्धिः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।4.28।। ननु द्रव्यं यज्ञो न भवति तत्कथं बहुव्रीहिः तत्पुरुषत्वे च कथं
-पुरुषसामानाधिकरण्यं इत्यत आह **द्रव्यमि**ति। अनेन नायं यज्ञशब्दो
-भावार्थः किन्तु कर्त्रर्थः। तथा च द्रव्यस्य यज्ञा याजका इत्यर्थ
-इत्युक्तं भवति। एतदाशङ्कापरिहारायैव तपोयज्ञा इत्येतदप्येवं व्याचष्टे
-**तप** इति। तत्र परमेश्वरे। योगयज्ञाः इत्यादिकमप्येवमेव व्याख्येयमिति
-दर्शयति **इत्यादी**ति। तपसो होमः कथं इत्यत आह **इदमि**ति। तपश्चरणमेव
-तपोयज्ञत्वं किं न स्यात् इत्यत आह **तदर्पण एवे**ति। अनेनैव प्रकारेण
-यज्ञत्वसम्पादनं नान्यथेत्यर्थः।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।4.28।। **द्रव्ययज्ञाः** तीर्थेषु द्रव्यविनियोगं यज्ञबुद्ध्या कुर्वन्ति
-ये ते द्रव्ययज्ञाः। **तपोयज्ञाः** तपः यज्ञः येषां तपस्विनां ते
-तपोयज्ञाः। **योगयज्ञाः** प्राणायामप्रत्याहारादिलक्षणो योगो यज्ञो येषां
-ते योगयज्ञाः। **तथा अपरे स्वाध्यायज्ञानयज्ञाश्च** स्वाध्यायः यथाविधि
-ऋगाद्यभ्यासः यज्ञः येषां ते स्वाध्याययज्ञाः। ज्ञानयज्ञाः ज्ञानं
-शास्त्रार्थपरिज्ञानं यज्ञः येषां ते ज्ञानयज्ञाश्च **यतयः** यतनशीलाः
-**संशितव्रताः** सम्यक् शितानि तनूकृतानि तीक्ष्णीकृतानि व्रतानि येषां ते
-संशितव्रताः।। किञ्च
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।4.28।। जो यज्ञबुद्धिसे तीर्थादिमें द्रव्य लगाते हैं वे द्रव्ययज्ञा यानी
-द्रव्यसम्बन्धी यज्ञ करनेवाले हैं। जो तपस्वी हैं वे तपोयज्ञा यानी तपरूप
-यज्ञ करनेवाले हैं। प्राणायाम प्रत्याहाररूप योग ही जिनका यज्ञ है वे
-योगयज्ञा यानी योगरूप यज्ञ करनेवाले हैं। वैसे ही अन्य कई स्वाध्याययज्ञ और
-ज्ञानयज्ञकरनेवाले भी हैं। जिनका यथाविधि ऋग्वेद आदिका अभ्यासरूप स्वाध्याय
-ही यज्ञ है वे स्वाध्याययज्ञ करनेवाले हैं और शास्त्रोंका अर्थ जाननारूप
-ज्ञान जिनका यज्ञ है वे ज्ञानयज्ञ करनेवाले हैं। इसी तरह कई यत्नशील संशित
-व्रतवाले हैं। जिनके व्रतनियम अच्छी प्रकार तीक्ष्ण किये हुए यानी
-सूक्ष्मशुद्ध किये हुए होते हैं वे पुरुष संशितव्रत कहलाते हैं।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 4.28 Tatha, similarly; apare, others; are dravya-yajnah, perfomers of
 sacrifices through wealth-those sacrificers who spend wealth (dravya) in
@@ -215,28 +69,76 @@ deligent; samsita-vratah, in following severe vows. Those whose vows
 (vratah) have been fully sharpened (samsita), made very rigid, are
 samsita-vratah. \[Six kinds of sacrifices have been enumerated in this
 verse.\] Further,
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।4.28।। यज्ञषट्कमवतारयति **द्रव्येति।** तत्र द्रव्ययज्ञान्पुरुषानुपादाय
+<details><summary>हरिकृष्णदासः</summary>
+
+॥4.28॥ जो यज्ञबुद्धिसे तीर्थादिमें द्रव्य लगाते हैं वे द्रव्ययज्ञा यानी
+द्रव्यसम्बन्धी यज्ञ करनेवाले हैं। जो तपस्वी हैं वे तपोयज्ञा यानी तपरूप
+यज्ञ करनेवाले हैं। प्राणायाम प्रत्याहाररूप योग ही जिनका यज्ञ है वे
+योगयज्ञा यानी योगरूप यज्ञ करनेवाले हैं। वैसे ही अन्य कई स्वाध्याययज्ञ और
+ज्ञानयज्ञकरनेवाले भी हैं। जिनका यथाविधि ऋग्वेद आदिका अभ्यासरूप स्वाध्याय
+ही यज्ञ है वे स्वाध्याययज्ञ करनेवाले हैं और शास्त्रोंका अर्थ जाननारूप
+ज्ञान जिनका यज्ञ है वे ज्ञानयज्ञ करनेवाले हैं। इसी तरह कई यत्नशील संशित
+व्रतवाले हैं। जिनके व्रतनियम अच्छी प्रकार तीक्ष्ण किये हुए यानी
+सूक्ष्मशुद्ध किये हुए होते हैं वे पुरुष संशितव्रत कहलाते हैं।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥4.28॥ यज्ञषट्कमवतारयति **द्रव्येति।** तत्र द्रव्ययज्ञान्पुरुषानुपादाय
 विभजते **तीर्थेष्विति।** तपस्विनां यज्ञबुद्ध्या तपोऽनुतिष्ठन्तो नियमवन्त
 इत्यर्थः। प्रत्याहारादीत्यादिशब्देन यमनियमासनध्यानधारणासमाधयो गृह्यन्ते
 यथाविधि प्राङ्मुखत्वपवित्रपाणित्वाद्यङ्गविधिमनतिक्रम्येति यावत् व्रतानां
 तीक्ष्णीकरणमतिदृढत्वम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।4.28।। एवं त्रिभिः श्लोकैः प़ञ्चयज्ञानुक्त्वाऽधुनैकेन श्लोकेन
+<details><summary>नीलकण्ठः</summary>
+
+॥4.28॥ एवं यज्ञपञ्चकं श्लोकत्रयेणोक्तम्। अथैकेनैव श्लोकेन पञ्चयज्ञानाह
+**द्रव्येति।** द्रव्यसाध्याः वापीकूपारामाः तीर्थे बहिर्वेदिकादानं
+श्रौतयज्ञानां प्रागेव ग्रहणात् त एव यज्ञा येषां ते द्रव्ययज्ञाः। तथा
+तपःकृच्छ्रचान्द्रायणमासोपवासादि तदेव यज्ञस्थानीयं येषां ते तपोयज्ञाः।
+तथा योगयज्ञाः सङ्गफलत्यागपूर्वकं संध्योपासनादिनिर्विकल्पसमाध्यन्तानां
+कर्मणामनुष्ठानं तृतीयाध्यायोक्तं योगः स एव यज्ञो येषां ते योगयज्ञाः।
+यद्वा
+यमनियमासनप्राणायामप्रत्याहारधारणाध्यानसमाधिरूपोऽष्टाङ्गोपेतोयोगश्चित्तवृत्तिनिरोधः
+इति सूत्रितो योग एव यज्ञो येषां त इति। तथा स्वाध्याययज्ञाः नित्यं
+वेदाध्ययनरतास्ते स्वाध्याययज्ञाः। ज्ञानं स्वाध्यायार्थस्य
+पूर्वोत्तरमीमांसाविचारः स एव यज्ञो येषाम्। स्वाध्याययज्ञा
+ज्ञानयज्ञाश्चेति स्वाध्यायज्ञानयज्ञा इति समासः। यतयो यतनशीलाः
+संशितव्रताः सम्यक् शितं तीक्ष्णं व्रतमहिंसादिकं येषां ते इति सर्वेषां
+विशेषणम्।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥4.28॥ एवं त्रिभिः श्लोकैर्यज्ञपञ्चकमुक्त्वाथैकेन पञ्च यज्ञानाह
+**द्रव्ययज्ञा इति।** तीर्थेषु द्रव्यविनियोगं यज्ञबुद्य्धा ये कुर्वन्ति
+ते द्रव्ययज्ञा इति भाष्यम्। तस्यैव विवरणं द्रव्ययज्ञाः
+पूर्तदत्ताख्यस्मार्तयज्ञपराः। तथाच स्मृतिःवापीकूपतडागादिदेवतायतनानि च।
+अन्नप्रदानमारामः पूर्तमित्यभिधीयते॥ शरणागतसंत्राणं भूतानां चाप्यहिंसनम्।
+बहिर्वेदि च यद्दानं दत्तमित्यभिधीयते॥ इत्यादीति बोध्यम्। तथा
+पञ्चाग्निसेवनादि तप एव यज्ञो येषां ते तपोयज्ञाः। तथा
+यमनियमासनप्राणायमप्रत्याहारधारणाध्यानसमाधिलक्षणो योग एव यज्ञो येषां ते
+योगयज्ञाः। तथा परे स्वाध्यायो विधिवद्वेदाभ्यासो यज्ञो येषां ते
+स्वाध्याययज्ञाः। ज्ञानं पूर्वोत्तरमीमांसाविचारेण शास्त्रार्थपरिज्ञानं
+यज्ञो येषां ते ज्ञानयज्ञाश्च यतयो यत्नशीलाः सभ्यक् शितानि सूक्ष्माणि
+तीक्ष्णीकृतानि च व्रतानि येषां ते। इति सर्वेषां विशेषणमन्त्यानां वा।
+केचित्त्वनेन विशेषणेन यज्ञान्तरं वर्णयन्ति व्रतयज्ञा इत्यर्थ इति तेषां
+कृच्छ्रचान्द्रायणादि तप एव यज्ञो येषामिति तपोयज्ञा इत्यस्य
+व्याख्यानकर्तॄणां मते पौनरुक्त्यं यज्ञानां च त्रयोदशत्वं चापतति। अपान
+इत्यादिसार्धश्लोकेनैकयज्ञवर्णनं तु प्रामादिकं अपर इत्यस्य
+वारद्वयमुपलब्धेरिति ज्ञेयम्।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥4.28॥ एवं त्रिभिः श्लोकैः प़ञ्चयज्ञानुक्त्वाऽधुनैकेन श्लोकेन
 षड्यज्ञानाह द्रव्यत्याग एव यथाशास्त्रं यज्ञो येषां ते द्रव्ययज्ञाः
 पूर्तदत्ताख्यरूपस्मार्तकर्मपराः। तथाच स्मृतिःवापीकूपतडागादि देवतायतनानि
-च। अन्नप्रदानमारामः पूर्तमित्यभिधीयते।। शरणागतसंत्राणं भूतानां
-चाप्यहिंसनम्। बहिर्वेदि च यद्दानं दत्तमित्यभिधीयते।। इति। इष्टाख्यं
+च। अन्नप्रदानमारामः पूर्तमित्यभिधीयते॥ शरणागतसंत्राणं भूतानां
+चाप्यहिंसनम्। बहिर्वेदि च यद्दानं दत्तमित्यभिधीयते॥ इति। इष्टाख्यं
 श्रौतं कर्म तुदैवमेवापरे यज्ञमित्यत्रोक्तम्। अन्तर्वेदि दानमपि
 तत्रैवान्तर्भूतम्। तथा कृच्छ्रचांन्द्रायणादि तप एव यज्ञो येषां ते
 तपोयज्ञास्तपस्विनः। तथा योगश्चित्तवृत्तिनिरोधोऽष्टाङ्गो यज्ञो येषां ते
@@ -282,102 +184,149 @@ verse.\] Further,
 ब्रह्मचर्येण वस्तुविचारेण कामस्य अस्तेयापरिग्रहरूपेण संतोषेण लोभस्य
 सत्येन यथार्थज्ञानरूपेण विवेकेन मोहस्य तन्मूलानां च सर्वेषां
 निवृत्तिरिति द्रष्टव्यम्। इतराणि च फलानि सकामानां योगाशास्त्रे कथितानि।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।4.28।। एवं यज्ञपञ्चकं श्लोकत्रयेणोक्तम्। अथैकेनैव श्लोकेन पञ्चयज्ञानाह
-**द्रव्येति।** द्रव्यसाध्याः वापीकूपारामाः तीर्थे बहिर्वेदिकादानं
-श्रौतयज्ञानां प्रागेव ग्रहणात् त एव यज्ञा येषां ते द्रव्ययज्ञाः। तथा
-तपःकृच्छ्रचान्द्रायणमासोपवासादि तदेव यज्ञस्थानीयं येषां ते तपोयज्ञाः।
-तथा योगयज्ञाः सङ्गफलत्यागपूर्वकं संध्योपासनादिनिर्विकल्पसमाध्यन्तानां
-कर्मणामनुष्ठानं तृतीयाध्यायोक्तं योगः स एव यज्ञो येषां ते योगयज्ञाः।
-यद्वा
-यमनियमासनप्राणायामप्रत्याहारधारणाध्यानसमाधिरूपोऽष्टाङ्गोपेतोयोगश्चित्तवृत्तिनिरोधः
-इति सूत्रितो योग एव यज्ञो येषां त इति। तथा स्वाध्याययज्ञाः नित्यं
-वेदाध्ययनरतास्ते स्वाध्याययज्ञाः। ज्ञानं स्वाध्यायार्थस्य
-पूर्वोत्तरमीमांसाविचारः स एव यज्ञो येषाम्। स्वाध्याययज्ञा
-ज्ञानयज्ञाश्चेति स्वाध्यायज्ञानयज्ञा इति समासः। यतयो यतनशीलाः
-संशितव्रताः सम्यक् शितं तीक्ष्णं व्रतमहिंसादिकं येषां ते इति सर्वेषां
-विशेषणम्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।4.28।। एवं त्रिभिः श्लोकैर्यज्ञपञ्चकमुक्त्वाथैकेन पञ्च यज्ञानाह
-**द्रव्ययज्ञा इति।** तीर्थेषु द्रव्यविनियोगं यज्ञबुद्य्धा ये कुर्वन्ति
-ते द्रव्ययज्ञा इति भाष्यम्। तस्यैव विवरणं द्रव्ययज्ञाः
-पूर्तदत्ताख्यस्मार्तयज्ञपराः। तथाच स्मृतिःवापीकूपतडागादिदेवतायतनानि च।
-अन्नप्रदानमारामः पूर्तमित्यभिधीयते।। शरणागतसंत्राणं भूतानां चाप्यहिंसनम्।
-बहिर्वेदि च यद्दानं दत्तमित्यभिधीयते।। इत्यादीति बोध्यम्। तथा
-पञ्चाग्निसेवनादि तप एव यज्ञो येषां ते तपोयज्ञाः। तथा
-यमनियमासनप्राणायमप्रत्याहारधारणाध्यानसमाधिलक्षणो योग एव यज्ञो येषां ते
-योगयज्ञाः। तथा परे स्वाध्यायो विधिवद्वेदाभ्यासो यज्ञो येषां ते
-स्वाध्याययज्ञाः। ज्ञानं पूर्वोत्तरमीमांसाविचारेण शास्त्रार्थपरिज्ञानं
-यज्ञो येषां ते ज्ञानयज्ञाश्च यतयो यत्नशीलाः सभ्यक् शितानि सूक्ष्माणि
-तीक्ष्णीकृतानि च व्रतानि येषां ते। इति सर्वेषां विशेषणमन्त्यानां वा।
-केचित्त्वनेन विशेषणेन यज्ञान्तरं वर्णयन्ति व्रतयज्ञा इत्यर्थ इति तेषां
-कृच्छ्रचान्द्रायणादि तप एव यज्ञो येषामिति तपोयज्ञा इत्यस्य
-व्याख्यानकर्तॄणां मते पौनरुक्त्यं यज्ञानां च त्रयोदशत्वं चापतति। अपान
-इत्यादिसार्धश्लोकेनैकयज्ञवर्णनं तु प्रामादिकं अपर इत्यस्य
-वारद्वयमुपलब्धेरिति ज्ञेयम्।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।4.28।। अन्ये चद्रव्ययज्ञाः इति गृहिणो निरूपिताः तपोयज्ञा वनस्थाश्च।
+॥4.28॥ द्रव्यं जुह्वतीति द्रव्ययज्ञाः। तपः परमेश्वरार्पणबुद्ध्या तत्र
+जुह्वतीति तपोयज्ञा इत्यादि। इदं तपो हविः एतद्ब्रह्माग्नौ जुहोति
+तत्पूजार्थमिति होमः। तदर्पण एव होमबुद्धिः।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥4.28॥ ननु द्रव्यं यज्ञो न भवति तत्कथं बहुव्रीहिः तत्पुरुषत्वे च कथं
+पुरुषसामानाधिकरण्यं इत्यत आह **द्रव्यमि**ति। अनेन नायं यज्ञशब्दो
+भावार्थः किन्तु कर्त्रर्थः। तथा च द्रव्यस्य यज्ञा याजका इत्यर्थ
+इत्युक्तं भवति। एतदाशङ्कापरिहारायैव तपोयज्ञा इत्येतदप्येवं व्याचष्टे
+**तप** इति। तत्र परमेश्वरे। योगयज्ञाः इत्यादिकमप्येवमेव व्याख्येयमिति
+दर्शयति **इत्यादी**ति। तपसो होमः कथं इत्यत आह **इदमि**ति। तपश्चरणमेव
+तपोयज्ञत्वं किं न स्यात् इत्यत आह **तदर्पण एवे**ति। अनेनैव प्रकारेण
+यज्ञत्वसम्पादनं नान्यथेत्यर्थः।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
+
+<details><summary>मूलम्</summary>
+
+॥4.27 4.28॥ सर्वाणीति। द्रव्ययज्ञा इति। ते च सर्वानिन्द्रियव्यापान् मानसान् व्यापारान् मुखनासिकानिर्गमनमूत्राद्यधोनयनादीन् वायवीयांश्च आत्मनो मनसः +++(N मनसश्च)+++ संयमहेतौ योगनाम्नि ऐकाग्र्यवह्नौ सम्यग्ज्ञानपरिदीपिते ( परिबोधिते) पूरयितव्ये निवेशयन्ति। गृह्यमाणं विषयं संकल्प्यमानं वा तदेकाग्रतयैव परित्यक्तान्यव्यापारया +++(N तत्परित्यक्तान्य )+++ बुद्ध्या गृह्णन्ति इति तात्पर्यम्। तदुक्तं शिवोपनिषदि भावेऽत्यक्ते +++(S N भावे त्यक्ते)+++ निरुद्धा चित् +++(N चेत्)+++  
+  
+नैव भावान्तरं व्रजेत्।  
+  
+तदा तन्मध्यभावेन +++(K तन्मयभावेन)+++  
+  
+विकसत्यति भावना॥4. (विज्ञानभैरव 62 ) इति।  
+  
+एवं योगयज्ञाः व्याख्यातः।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+4.27-28 Sarvani etc. Dravyayajnak etc. Again all the activities of their sense-organs, the activities of their mind, and the activities of their vital airs, such as issuing through the mouth and nose, driving down the urine etc., other \[seekers\] established in the fire of concentration, named Yoga, which is the means for subduing the self i.e., the mind, and which is set ablaze by i.e., to be filled with, knowledge. The idea is this : With their intellect that has completely abandoned all other activities due to their concentration on the object, they receive the object that is being perceived on conceived. That has been stated in the Sivopanisad : 'When the intellect, concentrated on a certain object, not rejected, would not go to another object, at that time the meditation, remaining in the core of the objects, blossoms very much.' Thus the Yoga-sacrifices are explained. So far the performers of the material-object-sacrifices, the austerity-sacrifices, and the yoga-sacrifices have been defined. Those, who are the performers of the svadhyaya-knowledge-sacrifices are defined now \[as\] -
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
+
+<details><summary>मूलम्</summary>
+
+॥4.28॥ अन्ये चद्रव्ययज्ञाः इति गृहिणो निरूपिताः तपोयज्ञा वनस्थाश्च।
 योगश्चित्तवृत्तिनिरोधः। समाधिलक्षणो यज्ञो येषां ते च। स्वाध्याययज्ञा
 आत्मज्ञानयज्ञाश्चेत्येते यतयः संशितव्रता उक्ताः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।4.28।। द्रव्ययज्ञाः यज्ञनिष्क्रयद्रव्यदातारः। तपोयज्ञाः साधनाद्यभावेन
+<details><summary>पुरुषोत्तमः</summary>
+
+॥4.28॥ द्रव्ययज्ञाः यज्ञनिष्क्रयद्रव्यदातारः। तपोयज्ञाः साधनाद्यभावेन
 यज्ञजमत्प्रीत्युत्पादनार्थं तप एव यज्ञबुद्ध्या कुर्वन्ति। योगयज्ञाः
 पूर्वोक्तवत् मत्प्रीत्यर्थं यज्ञबुद्ध्या अष्टाङ्गयोगकर्तारः। अपरे तथा
 पूर्वोक्तप्रकारेण स्वाध्यायं वेदाध्ययनमेव यज्ञबुद्ध्या कर्तारः। च पुनः
 ज्ञानमेव यज्ञत्वेन ज्ञातारः। ते कीदृशाः यतयः सर्वपरित्यागिनः। पुनः
-कीदृशाः संशितव्रताः सूक्ष्मीकृतकर्मणो भगवत्स्मरणमात्रैकपराः।  
-  
-
+कीदृशाः संशितव्रताः सूक्ष्मीकृतकर्मणो भगवत्स्मरणमात्रैकपराः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।4.28।। किंच **द्रव्येति।** द्रव्यदानमेव यज्ञो येषां ते द्रव्ययज्ञाः।
+॥4.28॥ किंच **द्रव्येति।** द्रव्यदानमेव यज्ञो येषां ते द्रव्ययज्ञाः।
 कृच्छ्रचान्द्रायणादितप एव यज्ञो येषां ते तपोयज्ञाः।
 योगश्चित्तवृत्तिनिरोधलक्षणः समाधिः स एव यज्ञो येषां ते योगयज्ञाः।
 स्वाध्यायेन वेदेन श्रवणमननादिना यत्तदर्थज्ञानं तदेव यज्ञो येषां ते। अथवा
 वेदपाठयज्ञास्तदर्थज्ञानयज्ञाश्चेति द्विविधा यतयः प्रयत्नशीलाः। सम्यक्
 शितं निशितं तीक्ष्णीकृतं व्रतं येषां ते।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+4.28 Self-controlled and firm of resolve, others perform the sacrifice of material objects or austerities or Yoga; while others offer their scriptural study and knowledge.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+4.28 Similarly, others are performers of sacrifices through wealth,
+through austerity, through yoga, and through study and knowledge; others are ascetics with severe vows.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+4.28 And yet others offer as their sacrifice wealth, austerities and meditation. Monks wedded to their vows renounce their scriptural learning and even their spiritual powers.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+4.28. \[These\] are \[respectively\] the performs of sacrifices with material objects, the performers of sacrifices with penance, and the performers of sacrifices with Yoga. Likewise \[there are\] yet other ascetics with rigid vows whose sacrifices are the svadhyaya-knowledge.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+4.28 Others again offer wealth, austerity and Yoga as sacrifice, while the ascetics of self-restraint and rigid vows offer study of scriptures and knowledge as sacrifice.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+4.28 द्रव्ययज्ञाः those who offer wealth as sacrifice; तपोयज्ञाः those who offer austerity as sacrifice; योगयज्ञाः those who offer Yoga as sacrifice; तथा thus; अपरे others; स्वाध्यायज्ञानयज्ञाः those who offer study and knowledge as sacrifice; च and; यतयः ascetics or anchorites
+(persons of selfrestraint); संशितव्रताः persons of rigid vows.Commentary Some do sacrifice by distributing their wealth to the deserving as charity some offer their Tapas (austerities) as sacrifice some practise the eight limbs of Raja Yoga; viz.; Yama (the five great vows); Niyama
+(the canons of conduct); Asana (posture); Pranayama (restraint of breath); Pratyahara (withdrawal of the senses); Dharana (concentration);
+Dhyana (meditation) and Samadhi (superconscious state); and offer this Yoga as a sacrifice some study the scriptures and offer it as sacrifice.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।4.28।। दूसरे कितने ही तीक्ष्ण व्रत करनेवाले प्रयत्नशील साधक
+द्रव्य-सम्बन्धी यज्ञ करनेवाले हैं, और कितने ही तपोयज्ञ करनेवाले हैं, और
+दूसरे कितने ही योगयज्ञ करनेवाले हैं, तथा कितने ही स्वाध्यायरूप ज्ञानयज्ञ
+करनेवाले हैं।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+।।4.28।।***व्याख्या--*'यतयः संशितव्रताः'--**अहिंसा, सत्य, अस्तेय
+(चोरीका अभाव), ब्रह्मचर्य और अपरिग्रह (भोग-बुद्धिसे संग्रहका अभाव)--ये
+पाँच 'यम' हैं **(टिप्पणी प₀ 257),** जिन्हें 'महाव्रत' के नामसे कहा गया
+है। शास्त्रोंमें इन महाव्रतोंकी बहुत प्रशंसा, महिमा है। इन व्रतोंका सार
+यही है कि मनुष्य संसारसे विमुख हो जाय। इन व्रतोंका पालन करनेवाले
+साधकोंके लिये यहाँ **'संशितव्रताः'** पद आया है। इसके सिवाय इस श्लोकमें
+आये चारों यज्ञोंमें जो-जो पालनीय व्रत अर्थात् नियम हैं, उनपर दृढ़ रहकर
+उनका पालन करनेवाले भी सब **संशितव्रताः** हैं। अपने-अपने यज्ञके
+अनुष्ठानमें प्रयत्नशील होनेके कारण उन्हें **'यतयः'** कहा गया है।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।4.28।। द्रव्ययज्ञ यहां द्रव्य शब्द को उसके व्यापक अर्थ में समझना
 चाहिये। ईमानदारी से अर्जित किये धन का समाज सेवा में भक्तिभाव सहित
@@ -424,90 +373,13 @@ _________________
 से कोई प्रगति नहीं हो सकती। पूर्ण लगन से जो निरन्तर साधना का अभ्यास करते
 हैं केवल वे ही साधक अध्यात्म के मार्ग पर सफलतापूर्वक आगे बढ़ सकते
 हैं। साधनोपदेश के क्रम में अब भगवान् प्राणायाम की विधि बताते हैं
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।4.28।। कुछ (साधक) द्रव्ययज्ञ, तपयज्ञ और योगयज्ञ करने वाले होते हैं;
 और दूसरे कठिन व्रत करने वाले स्वाध्याय और ज्ञानयज्ञ करने वाले योगीजन
 होते हैं।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।4.28।। दूसरे कितने ही तीक्ष्ण व्रत करनेवाले प्रयत्नशील साधक
-द्रव्य-सम्बन्धी यज्ञ करनेवाले हैं, और कितने ही तपोयज्ञ करनेवाले हैं, और
-दूसरे कितने ही योगयज्ञ करनेवाले हैं, तथा कितने ही स्वाध्यायरूप ज्ञानयज्ञ
-करनेवाले हैं।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-।।4.28।।***व्याख्या--*'यतयः संशितव्रताः'--**अहिंसा, सत्य, अस्तेय
-(चोरीका अभाव), ब्रह्मचर्य और अपरिग्रह (भोग-बुद्धिसे संग्रहका अभाव)--ये
-पाँच 'यम' हैं **(टिप्पणी प₀ 257),** जिन्हें 'महाव्रत' के नामसे कहा गया
-है। शास्त्रोंमें इन महाव्रतोंकी बहुत प्रशंसा, महिमा है। इन व्रतोंका सार
-यही है कि मनुष्य संसारसे विमुख हो जाय। इन व्रतोंका पालन करनेवाले
-साधकोंके लिये यहाँ **'संशितव्रताः'** पद आया है। इसके सिवाय इस श्लोकमें
-आये चारों यज्ञोंमें जो-जो पालनीय व्रत अर्थात् नियम हैं, उनपर दृढ़ रहकर
-उनका पालन करनेवाले भी सब **संशितव्रताः** हैं। अपने-अपने यज्ञके
-अनुष्ठानमें प्रयत्नशील होनेके कारण उन्हें **'यतयः'** कहा गया है।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-4.28. \[These\] are \[respectively\] the performs of sacrifices with material objects, the performers of sacrifices with penance, and the performers of sacrifices with Yoga. Likewise \[there are\] yet other ascetics with rigid vows whose sacrifices are the svadhyaya-knowledge.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-4.28 Similarly, others are performers of sacrifices through wealth,
-through austerity, through yoga, and through study and knowledge; others are ascetics with severe vows.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-4.28 And yet others offer as their sacrifice wealth, austerities and meditation. Monks wedded to their vows renounce their scriptural learning and even their spiritual powers.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-4.28 Self-controlled and firm of resolve, others perform the sacrifice of material objects or austerities or Yoga; while others offer their scriptural study and knowledge.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-4.28 Others again offer wealth, austerity and Yoga as sacrifice, while the ascetics of self-restraint and rigid vows offer study of scriptures and knowledge as sacrifice.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-4.28 द्रव्ययज्ञाः those who offer wealth as sacrifice; तपोयज्ञाः those who offer austerity as sacrifice; योगयज्ञाः those who offer Yoga as sacrifice; तथा thus; अपरे others; स्वाध्यायज्ञानयज्ञाः those who offer study and knowledge as sacrifice; च and; यतयः ascetics or anchorites
-(persons of selfrestraint); संशितव्रताः persons of rigid vows.Commentary Some do sacrifice by distributing their wealth to the deserving as charity some offer their Tapas (austerities) as sacrifice some practise the eight limbs of Raja Yoga; viz.; Yama (the five great vows); Niyama
-(the canons of conduct); Asana (posture); Pranayama (restraint of breath); Pratyahara (withdrawal of the senses); Dharana (concentration);
-Dhyana (meditation) and Samadhi (superconscious state); and offer this Yoga as a sacrifice some study the scriptures and offer it as sacrifice.
-
-</details>
 </div>

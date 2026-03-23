@@ -1,90 +1,43 @@
 +++
 title = "51 बुद्ध्या विशुद्धया"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 बुद्ध्या विशुद्धया **युक्तो**  
 धृत्या **ऽऽत्मानं नियम्य** च।  
 शब्दादीन् **विषयांस् त्यक्त्वा**  
 राग-द्वेषौ व्युदस्य च …॥18.51॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 बुद्ध्या विशुद्धया युक्तो धृत्याऽऽत्मानं नियम्य च।  
-शब्दादीन् विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च।।18.51।।
+शब्दादीन् विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च॥18.51॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।18.51।।**बुद्ध्या विशुद्धया** यथावस्थितात्मतत्त्वविषयया **युक्तः;
-धृत्या आत्मानं नियम्य च**,विषयविमुखीकरणेन योगयोग्यं मनः कृत्वा;
-**शब्दादीन् विषयान् त्यक्त्वा** असन्निहितान् कृत्वा; तन्निमित्तौ **च**
-रागद्वेषौ व्युदस्य; **विविक्तसेवी** सर्वैः ध्यानविरोधिभिः विविक्ते देशे
-वर्तमानः **लघ्वाशी** अत्यशनानशनरहितः; **यतवाक्कायमानसः**
-ध्यानाभिमुखीकृतकायवाङ्मनोवृत्तिः; **ध्यानयोगपरो नित्यम्** एवं भूतः सन्
-आप्रयाणाद् अहरहः ध्यानयोगपरः; **वैराग्यं समुपाश्रितः**
-ध्येयतत्त्वव्यतिरिक्तविषयदोषावमर्शेन तत्र विरागतां वर्धयन् **अहंकारम्;**
-अनात्मनी आत्माभिमानं **बलं** तद्विवृद्धिहेतुभूतं वासनाबलं तन्निमित्तं
-**दर्पं कामं क्रोधं परिग्रहं विमुच्य; निर्ममः** सर्वेषु अनात्मीयेषु
-आत्मीयबुद्धिरहितः **शान्तः** आत्मानुभवैकसुखः; एवंभूतो ध्यानयोगं कुर्वन्
-**ब्रह्मभूयाय कल्पते** ब्रह्मभावाय कल्पते सर्वबन्धविनिर्मुक्तो
-यथावस्थितम् आत्मानम् अनुभवति इत्यर्थः।
-
+॥18.51॥**बुद्ध्या विशुद्धया** यथावस्थितात्मतत्त्वविषयया **युक्तः; धृत्या आत्मानं नियम्य च**,विषयविमुखीकरणेन योगयोग्यं मनः कृत्वा; **शब्दादीन् विषयान् त्यक्त्वा** असन्निहितान् कृत्वा; तन्निमित्तौ **च** रागद्वेषौ व्युदस्य; **विविक्तसेवी** सर्वैर् ध्यानविरोधिभिर् विविक्ते देशे वर्तमानः **लघ्वाशी** अत्यशनानशनरहितः; **यतवाक्कायमानसः** ध्यानाभिमुखीकृतकायवाङ्मनोवृत्तिः; **ध्यानयोगपरो नित्यम्** एवं भूतः सन् आप्रयाणाद् अहरहः ध्यानयोगपरः; **वैराग्यं समुपाश्रितः** ध्येयतत्त्वव्यतिरिक्तविषयदोषावमर्शेन तत्र विरागतां वर्धयन् **अहङ्कारम्;** अनात्मन्य् आत्माभिमानं **बलं** तद्विवृद्धिहेतुभूतं वासनाबलं तन्निमित्तं **दर्पं कामं क्रोधं परिग्रहं विमुच्य; निर्ममः** सर्वेष्व् अनात्मीयेष्व् आत्मीयबुद्धिरहितः **शान्तः** आत्मानुभवैकसुखः; एवम्भूतो ध्यानयोगं कुर्वन् **ब्रह्मभूयाय कल्पते** ब्रह्मभावाय कल्पते सर्वबन्धविनिर्मुक्तो यथावस्थितम् आत्मानम् अनुभवति इत्यर्थः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.51।। बुद्धिशब्दोऽत्र प्रस्तुतब्रह्मशब्दाभिप्रेतविषयबुद्धिगोचरः;
-तस्याः
-शुद्धिश्चासमग्रविषयत्वसंशयविपर्ययरूपदोषराहित्यमित्याहयथावस्थितात्मतत्त्वविषययेति। धृत्या
-इति पूर्वोक्तसप्रकारसात्त्विकधृतिपरामर्शमाहविषयविमुखीकरणेनेति। अत्र
-धृत्या मनोनियमनं कर्मोक्तम् अपि च पूर्वमेव त्यक्तविषयस्य कोऽसौ
-तदानीन्तनस्त्यागः इत्यत्राऽऽहअसन्निहितान् कृत्वेति। विषयसन्निधिर्हि
-विजितेन्द्रियमपि क्षोभयेदिति भावः। रागद्वेषौ व्युदस्य इति
-वैषयिकरागद्वेषयोर्व्युदासस्यापि तादात्विकविषयत्वायवैराग्यं समुपाश्रितः
-इत्यनेन पुनरुक्तिपरिहाराय चाऽऽहतन्निमित्ताविति। एतेन
-विषयासन्निधानफलप्रदर्शनम्। यद्वा विप्रकृष्टेष्वपि सूक्ष्मसङ्गो
-निरोद्धव्य इति भावः। ,विविक्तत्वं रहितत्वम् तत्प्रकृतोपयोगेन विशिनष्टि --
-सर्वैर्ध्यानविरोधिभिर्विविक्ते देश इति। लघ्वाशी इत्यनेन
-पूर्वोक्तंनात्यश्नतः \[6।16\] इत्यादिकं स्मार्यत
-इत्यत्राऽऽहअत्यशनानशनरहित इति। धृत्याऽऽत्मानं नियम्य च
-इत्यादिनायतवाक्कायमानसः इत्यस्य
-पुनरुक्तिपरिहारायाहध्यानाभिमुखीकृतकायवाङ्मनोवृत्तिरिति।
-कायस्याभिमुखीकरणं स्थिरासनादिपरिग्रहः वाचस्तु प्रणवादिव्यतिरिक्तवर्जनम्
-मनसस्तु शुभाश्रयालम्बनम्। उक्तानां ध्यानयोगशेषत्वमाहएवम्भूतः सन्निति।
-नित्यशब्दविवक्षितमाहआप्रयाणादहरहरितिरागद्वेषौ व्युदस्य इति
-वैषयिकरागद्वेषयोर्व्युदासोक्तेःवैराग्यं समुपाश्रितः
-इत्येतदाभिमानिकविषयम्; तत्र सम्यगुपाश्रयणं पूर्वसिद्धस्यापि
-सम्यगवस्थापनमित्यभिप्रायेणविरागतां वर्धयन्नित्युक्तम्।
-एवमहङ्कारादिविमोचनेऽपि द्रष्टव्यम्।  
-  
-शरीरमनःप्राणादिबलानां योगविरोधित्वाभावात्वासनाबलमिति विशेषितम्।
-दर्पोऽत्राहङ्कारबलहेतुकोऽङ्गीकर्तव्यानङ्गीकारः।
-योगित्वशान्तत्वादिनिमित्तोऽपि दर्पस्त्याज्यःहृष्टो दृप्यति दृप्तो
-धर्ममतिक्रामति \[आ.ध.सू.1।13।4\] इति स्मरणात्।
-मनोवाक्कायव्यापारनिवृत्त्यादेरुक्तत्वाच्छान्तशब्दोऽत्र शमहेतुविशेषपर
-इत्यत्राऽऽहआत्मानुभवैकसुख इति। इन्द्रियव्यापारोपरतिः क्रोधादिनिवृत्तिश्च
-बाह्यसुखनिस्स्पृहत्वात्; तच्च प्रभूतात्मस्वसुखलाभादिति भावः। उक्तेषु
-सर्वेषु ध्यानयोगस्याङ्गित्वमाहएवम्भूतो ध्यानयोगं कुर्वन्निति।
-ध्यानमेवात्र योगः; ध्यानेन वा योगः। अनन्तरश्लोकार्थपरामर्शेन
-ब्रह्मशब्दस्यात्र शुद्धात्मविषयतामाहसर्वबन्धेति।
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥18.51॥ बुद्धिशब्दोऽत्र प्रस्तुतब्रह्मशब्दाभिप्रेतविषयबुद्धिगोचरः; तस्याः शुद्धिश्चासमग्रविषयत्वसंशयविपर्ययरूपदोषराहित्यमित्याहयथावस्थितात्मतत्त्वविषययेति। धृत्या इति पूर्वोक्तसप्रकारसात्त्विकधृतिपरामर्शमाहविषयविमुखीकरणेनेति। अत्र धृत्या मनोनियमनं कर्मोक्तम् अपि च पूर्वमेव त्यक्तविषयस्य कोऽसौ तदानीन्तनस्त्यागः इत्यत्राऽऽहअसन्निहितान् कृत्वेति। विषयसन्निधिर्हि विजितेन्द्रियमपि क्षोभयेदिति भावः। रागद्वेषौ व्युदस्य इति वैषयिकरागद्वेषयोर्व्युदासस्यापि तादात्विकविषयत्वायवैराग्यं समुपाश्रितः इत्यनेन पुनरुक्तिपरिहाराय चाऽऽहतन्निमित्ताविति। एतेन विषयासन्निधानफलप्रदर्शनम्। यद्वा विप्रकृष्टेष्वपि सूक्ष्मसङ्गो निरोद्धव्य इति भावः। ,विविक्तत्वं रहितत्वं तत्प्रकृतोपयोगेन विशिनष्टि -- सर्वैर्ध्यानविरोधिभिर्विविक्ते देश इति। लघ्वाशी इत्यनेन पूर्वोक्तन्नात्यश्नतः \[6।16\] इत्यादिकं स्मार्यत इत्यत्राऽऽहअत्यशनानशनरहित इति। धृत्याऽऽत्मानं नियम्य च इत्यादिनायतवाक्कायमानसः इत्यस्य पुनरुक्तिपरिहारायाहध्यानाभिमुखीकृतकायवाङ्मनोवृत्तिरिति। कायस्याभिमुखीकरणं स्थिरासनादिपरिग्रहः वाचस्तु प्रणवादिव्यतिरिक्तवर्जनम् मनसस्तु शुभाश्रयालम्बनम्। उक्तानां ध्यानयोगशेषत्वमाहएवम्भूतः सन्निति। नित्यशब्दविवक्षितमाहआप्रयाणादहरहरितिरागद्वेषौ व्युदस्य इति वैषयिकरागद्वेषयोर्व्युदासोक्तेःवैराग्यं समुपाश्रितः इत्येतदाभिमानिकविषयम्; तत्र सम्यगुपाश्रयणं पूर्वसिद्धस्यापि सम्यगवस्थापनमित्यभिप्रायेणविरागतां वर्धयन्नित्युक्तम्। एवमहङ्कारादिविमोचनेऽपि द्रष्टव्यम्।  
+        
+शरीरमनःप्राणादिबलानां योगविरोधित्वाभावात्वासनाबलमिति विशेषितम्। दर्पोऽत्राहङ्कारबलहेतुकोऽङ्गीकर्तव्यानङ्गीकारः। योगित्वशान्तत्वादिनिमित्तोऽपि दर्पस्त्याज्यःहृष्टो दृप्यति दृप्तो धर्ममतिक्रामति \[आ.ध.सू.1।13।4\] इति स्मरणात्। मनोवाक्कायव्यापारनिवृत्त्यादेरुक्तत्वाच्छान्तशब्दोऽत्र शमहेतुविशेषपर इत्यत्राऽऽहआत्मानुभवैकसुख इति। इन्द्रियव्यापारोपरतिः क्रोधादिनिवृत्तिश्च बाह्यसुखनिस्स्पृहत्वात्; तच्च प्रभूतात्मस्वसुखलाभादिति भावः। उक्तेषु सर्वेषु ध्यानयोगस्याङ्गित्वमाहएवम्भूतो ध्यानयोगं कुर्वन्निति। ध्यानमेवात्र योगः; ध्यानेन वा योगः। अनन्तरश्लोकार्थपरामर्शेन ब्रह्मशब्दस्यात्र शुद्धात्मविषयतामाहसर्वबन्धेति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 18.51 - 18.53 'Endowed with a purified understanding' means endowed with the Buddhi capable of understanding the self as it is in reality;
 'subduing the mind by steadiness' means making the mind fit for meditation by turning away from external and internal objects;
@@ -92,97 +45,18 @@ _________________
 'egoism' means abandoning the tendency to consider what is other than the self, as well as neutralising the power of forcible Vasnas
 (tendencies) which nourish (egoism), and the resulting pride, desire,
 wrath and possessiveness. 'With no feeling of mine' means free from the notion that what does not belong to oneself belongs to oneself; 'Who is tranil' means, who finds sole happiness in experiencing the self. One who has become like this and performs the Yoga of meditation becomes worthy for the state of Brahman. The meaning is that, freed from all bonds, he experiences the self as It really is.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.41 -- 18.60।। एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च
-प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह
-ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
--- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
-स्वधर्मप्रवृत्त्या विज्ञानपूततया च न कर्मसंबन्धस्तव। अथैतन्नानुमन्यसे;
-तदवश्यं तव प्रवृत्त्या तावत् भाव्यम् जातेरेव तथाभावे स्थितत्वात्। यतः
-सर्वः स्वभावनियतः +++(S;;N स्वस्वभावनियतः )+++ कुतश्चिद्दोषात्
-तिरोहिततत्स्वभावः +++(S;;N -- हिततत्तत्स्वभावः )+++ कंचित्कालं भूत्वापि;
-तत्तिरोधायकविगमे स्वभावं व्यक्त्यापन्नं लभत एव। तथाहि एवंविधो वर्णनां
-स्वभावः। एवमवश्यंभाविन्यां प्रवृत्तौ ततः फलविभागिता भवेत्।। तदाह --
-ब्राह्मणेत्यादि अवशोऽपि तत् इत्यन्तम्। ब्राह्मणादीनां
-कर्मप्रविभागनिरूपणस्य स्वभावोऽश्यं नातिक्रामति,+++(S; ; N omit न and read
-अतिक्रामति )+++ इति क्षत्रियस्वभावस्य भवतोऽनिच्छतोऽपि प्रकृतिः स्वभावाख्या
-नियोक्तृताम् अव्यभिचारेण भजते। केवलं तया नियुक्तस्य पुण्यपापसंबन्धः। अतः
-मदभिहितविज्ञानप्रमाणपुरःसरीकारेण कर्माण्यनुतिष्ठ। तथा सति बन्धो
-निवर्त्स्यति। इत्यस्यार्थस्य परिकरघटनतात्पर्यं +++(S; ; N -- करबन्धघटन --
-)+++ महावाक्यार्थस्य। अवान्तरवाक्यानां स्पष्टा ( ष्टोऽ ) र्थः। समासेन +++(S
-omits समासेन )+++ ( श्लो. 50 ) संक्षेपेण। ज्ञानस्य; प्रागुक्तस्य। निष्ठां (
-ष्ठा ) वाग्जालपरिहारेण निश्चितामाह। बुद्ध्या विशुद्धया इत्यादि सर्वमेतत्
-व्याख्यातप्रायमिति न पुनरायस्यते,+++(N -- रारभ्यते )+++।
-
+॥18.51॥ --,**बुद्ध्या** अध्यवसायलक्षणया **विशुद्धया** मायारहितया **युक्तः** संपन्नः; **धृत्या** धैर्येण **आत्मानं** कार्यकरणसंघातं **नियम्य च** नियमनं कृत्वा वशीकृत्य; **शब्दादीन्** शब्दः आदिः येषां तान् **विषयान् त्यक्त्वा;** सामर्थ्यात् शरीरस्थितिमात्रहेतुभूतान् केवलान् मुक्त्वा ततः अधिकान् सुखार्थान् त्यक्त्वा इत्यर्थः; शरीरस्थित्यर्थत्वेन प्राप्तेषु **रागद्वेषौ व्युदस्य** च परित्यज्य च॥ ततः --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.51 See Comment under 18.60
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।18.51।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।18.51।। Sri Jayatirtha did not comment on this sloka.  
-  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।18.51।। --,**बुद्ध्या** अध्यवसायलक्षणया **विशुद्धया** मायारहितया
-**युक्तः** संपन्नः; **धृत्या** धैर्येण **आत्मानं** कार्यकरणसंघातं
-**नियम्य च** नियमनं कृत्वा वशीकृत्य; **शब्दादीन्** शब्दः आदिः येषां तान्
-**विषयान् त्यक्त्वा;** सामर्थ्यात् शरीरस्थितिमात्रहेतुभूतान् केवलान्
-मुक्त्वा ततः अधिकान् सुखार्थान् त्यक्त्वा इत्यर्थः; शरीरस्थित्यर्थत्वेन
-प्राप्तेषु **रागद्वेषौ व्युदस्य** च परित्यज्य च।। ततः --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।18.51।। वह ज्ञानकी परा निष्ठा किस प्रकार करनी चाहिये सो कहते हैं --,
-विशुद्ध -- कपटरहित निश्चयात्मिका बुद्धिसे संपन्न पुरुष; धैर्यसे
-कार्यकरणके संघातरूप आत्माको,( शरीरको ) संयम करके -- वशमें करके शब्दादि
-विषयोंको; अर्थात् शब्द जिनका आदि है ऐसे सभी विषयोंको छोड़कर; प्रकरणके
-अनुसार यहाँ यह अभिप्राय है कि केवल शरीरस्थितिमात्रके लिये जिन विषयोंकी
-आवश्यकता है; उनसे अतिरिक्त सुखभोगके लिये जो अधिक विषय हैं; उन सबको
-छोड़कर तथा शरीरस्थितिके निमित्त प्राप्त हुए विषयोंमें भी; रागद्वेषका
-अभाव करकेत्याग करके।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 18.51 Yuktah, being endowed; buddhya, with an intellect-which is
 identical with the faculty of determination; visuddhaya, pure, free from
@@ -194,13 +68,23 @@ objects' means rejecting all things which are meant for pleasure and are
 in excess of those meant only for the mere maintenance of the body; and
 vyudasya, eliminating; raga-dvesau, attachment and hatred with regard to
 things which come to hand for the maintenance of the body-. Therefore,
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।18.51।। ब्रह्मज्ञानस्य परां निष्ठां प्रतिष्ठापितामनूद्य
+<details><summary>हरिकृष्णदासः</summary>
+
+॥18.51॥ वह ज्ञानकी परा निष्ठा किस प्रकार करनी चाहिये सो कहते हैं --,
+विशुद्ध -- कपटरहित निश्चयात्मिका बुद्धिसे संपन्न पुरुष; धैर्यसे
+कार्यकरणके संघातरूप आत्माको,( शरीरको ) संयम करके -- वशमें करके शब्दादि
+विषयोंको; अर्थात् शब्द जिनका आदि है ऐसे सभी विषयोंको छोड़कर; प्रकरणके
+अनुसार यहाँ यह अभिप्राय है कि केवल शरीरस्थितिमात्रके लिये जिन विषयोंकी
+आवश्यकता है; उनसे अतिरिक्त सुखभोगके लिये जो अधिक विषय हैं; उन सबको
+छोड़कर तथा शरीरस्थितिके निमित्त प्राप्त हुए विषयोंमें भी; रागद्वेषका
+अभाव करकेत्याग करके।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥18.51॥ ब्रह्मज्ञानस्य परां निष्ठां प्रतिष्ठापितामनूद्य
 श्लोकान्तरमवतारयितुं पृच्छति -- **सेयमिति।** येयं ब्रह्मज्ञानस्य परा
 निष्ठा समारोपिता तद्धर्मनिवृत्तिद्वारा ब्रह्मणि
 परिसमाप्तिर्ज्ञानसंतानरूपोच्यते सा कार्या सुसंपाद्येति यदुक्तं तत्कथं
@@ -212,29 +96,11 @@ things which come to hand for the maintenance of the body-. Therefore,
 देहस्थित्यर्थत्वेनानुज्ञातेष्वर्थेषु प्राप्तं रागादि
 ज्ञाननिष्ठाप्रतिबन्धकं व्युदस्यति -- **शरीरेति।** परित्यज्य विविक्तसेवी
 स्यादिति संबन्धः। बुद्धेर्वैशारद्यं यत्नेन कार्यं करणनियमनम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।18.51।। सेयं ज्ञाननिष्ठा सप्रकारोच्यते -- बुद्ध्येति। विशुद्धया
-सर्वसंशयविपर्ययशून्यया बुद्ध्याऽहं ब्रह्मास्मीति वेदान्तवाक्यजन्यया
-बुद्धिवृत्त्या युक्तः सदा तदन्वितो धृत्या धैर्येणात्मानं
-शरीरेन्द्रियसङ्घातं नियम्योन्मार्गप्रवृत्तेर्निवार्यात्मप्रवणं कृत्वा।
-चशब्देन योगशास्त्रोक्तं साधनान्तरं समुच्चीयते।
-शब्दादीञ्शब्दस्पर्शरूपरसगन्धात् विषयान्भोगेन बन्धहेतून्
-सामर्थ्याज्ज्ञाननिष्ठार्थशरीरस्थितिमात्रप्रयोजनानुपयुक्ताननिषिद्धानपि
-त्यक्त्वा शरीरस्थितिमात्रार्थेषु च तेषु रागद्वेषौ व्युदस्य परित्यज्य
-चकारादन्यदपि ज्ञानविक्षेपकं परित्यज्य। विविक्तसेवीत्यत्र
-स्यादित्यध्याहृतेन ब्रह्मभूयाय कल्पत इत्यन्तेनान्वयः।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।18.51।। तमेव ब्रह्मप्राप्तिप्रकारमाह त्रिभिः -- **बुद्ध्येति।**
+॥18.51॥ तमेव ब्रह्मप्राप्तिप्रकारमाह त्रिभिः -- **बुद्ध्येति।**
 बुद्ध्या वेदान्तश्रवणमननपरिपाकोत्थयाऽहं ब्रह्मास्मीति परोक्षनिश्चयरूपया
 विशुद्धया सर्वभूतेषु मैत्र्यादिभावनया सम्यग्विशोधितया। धृत्या धैर्येण
 योगक्षेमादिनिमित्तवैयग्र्यराहित्येन। आत्मानं देहेन्द्रियसंघातं नियम्य।
@@ -246,13 +112,11 @@ things which come to hand for the maintenance of the body-. Therefore,
 विषयाः संकल्पकृताः इति। दोषो रागादिः। चकारादयमहमस्मीत्येतमपि भावं
 व्युदस्येति ज्ञेयम्। ततो ब्रह्मभूयाय ब्रह्मभावाय तं प्राप्तुं कल्पते
 योग्यो भवतीति तृतीयेन संबन्धः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।18.51।। ब्रह्मप्राप्तेः ब्रह्मज्ञानस्य परस्याः निष्ठायाः
+<details><summary>धनपतिः</summary>
+
+॥18.51॥ ब्रह्मप्राप्तेः ब्रह्मज्ञानस्य परस्याः निष्ठायाः
 समापोपिताऽतद्धर्मनिवृत्तिद्वारा ब्रह्मणि परिसमाप्तेः सुसंपाद्यायाः
 प्रतिज्ञातं क्रमं दर्शयति। बुद्य्धा व्यवसायात्मिकया व्यवसायश्च
 ब्रह्मात्मज्ञानादेव मोक्षः सचावश्यं संपादनीय इति निश्चयः। विशुद्धया
@@ -261,17 +125,59 @@ things which come to hand for the maintenance of the body-. Therefore,
 ततोऽधिकान्सुखार्थास्त्यक्त्वेत्यर्थः। विषयमात्रेत्यागे
 देहस्थित्यनुपपत्त्या ज्ञाननिष्ठाया असिद्धिप्रसङ्गात्। स्यादित्यध्याहृतेन
 ब्रह्मभूयाय कल्पत इत्यनेन वा संबन्धः।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥18.51॥ सेयं ज्ञाननिष्ठा सप्रकारोच्यते -- बुद्ध्येति। विशुद्धया
+सर्वसंशयविपर्ययशून्यया बुद्ध्याऽहं ब्रह्मास्मीति वेदान्तवाक्यजन्यया
+बुद्धिवृत्त्या युक्तः सदा तदन्वितो धृत्या धैर्येणात्मानं
+शरीरेन्द्रियसङ्घातं नियम्योन्मार्गप्रवृत्तेर्निवार्यात्मप्रवणं कृत्वा।
+चशब्देन योगशास्त्रोक्तं साधनान्तरं समुच्चीयते।
+शब्दादीञ्शब्दस्पर्शरूपरसगन्धात् विषयान्भोगेन बन्धहेतून्
+सामर्थ्याज्ज्ञाननिष्ठार्थशरीरस्थितिमात्रप्रयोजनानुपयुक्ताननिषिद्धानपि
+त्यक्त्वा शरीरस्थितिमात्रार्थेषु च तेषु रागद्वेषौ व्युदस्य परित्यज्य
+चकारादन्यदपि ज्ञानविक्षेपकं परित्यज्य। विविक्तसेवीत्यत्र
+स्यादित्यध्याहृतेन ब्रह्मभूयाय कल्पत इत्यन्तेनान्वयः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.51 -- 18.53।। तथा हि बुद्ध्येति त्रिभिः। बुद्ध्या
+॥18.51॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥18.51॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
+-- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
+स्वधर्मप्रवृत्त्या विज्ञानपूततया च न कर्मसंबन्धस्तव। अथैतन्नानुमन्यसे; तदवश्यं तव प्रवृत्त्या तावत् भाव्यम् जातेरेव तथाभावे स्थितत्वात्। यतः सर्वः स्वभावनियतः +++(S;;N स्वस्वभावनियतः )+++ कुतश्चिद्दोषात् तिरोहिततत्स्वभावः +++(S;;N -- हिततत्तत्स्वभावः )+++ कंचित्कालं भूत्वापि; तत्तिरोधायकविगमे स्वभावं व्यक्त्यापन्नं लभत एव। तथाहि एवंविधो वर्णनां स्वभावः। एवमवश्यंभाविन्यां प्रवृत्तौ ततः फलविभागिता भवेत्॥ तदाह -- ब्राह्मणेत्यादि अवशोऽपि तत् इत्यन्तम्। ब्राह्मणादीनां कर्मप्रविभागनिरूपणस्य स्वभावोऽश्यं नातिक्रामति,+++(S; ; N omit न and read अतिक्रामति )+++ इति क्षत्रियस्वभावस्य भवतोऽनिच्छतोऽपि प्रकृतिः स्वभावाख्या नियोक्तृताम् अव्यभिचारेण भजते। केवलं तया नियुक्तस्य पुण्यपापसंबन्धः। अतः मदभिहितविज्ञानप्रमाणपुरःसरीकारेण कर्माण्यनुतिष्ठ। तथा सति बन्धो निवर्त्स्यति। इत्यस्यार्थस्य परिकरघटनतात्पर्यं +++(S; ; N -- करबन्धघटन -- )+++ महावाक्यार्थस्य। अवान्तरवाक्यानां स्पष्टा ( ष्टोऽ ) र्थः। समासेन +++(S omits समासेन )+++ ( श्लो. 50 ) संक्षेपेण। ज्ञानस्य; प्रागुक्तस्य। निष्ठां ( ष्ठा ) वाग्जालपरिहारेण निश्चितामाह। बुद्ध्या विशुद्धया इत्यादि सर्वमेतत् व्याख्यातप्रायमिति न पुनरायस्यते,+++(N -- रारभ्यते )+++।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.51 See Comment under 18.60
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.51 -- 18.53॥ तथा हि बुद्ध्येति त्रिभिः। बुद्ध्या
 यथोक्तकर्मफलादित्यागाद्विशुद्धया साङ्ख्यमार्गीयया युक्तः
 योगेनाव्यभिचारिण्या धृत्याऽऽत्मानं नियम्य च स्वान्तर्यामिध्यानैकनिष्ठः
 सर्वत्रानात्मत्वदृष्ट्या वैराग्यं समुपाश्रितः कर्मस्वहम्ममत्वरहितः शान्त
@@ -279,73 +185,76 @@ _________________
 अक्षरब्रह्मात्मभावाय कल्पते; स्वात्मानंब्रह्माहमस्मि इति
 यथावदनुभवतीत्यर्थः। इतीयं स्वज्ञानस्य परा निष्ठा
 भगवद्गुणसाराविर्भावात्तद्व्यपदेशः प्राज्ञवदिति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.51।। तदेवाऽऽह -- बुद्ध्येति। विशुद्धया सर्वसङ्गरहितमदेकनिष्ठया
+<details><summary>पुरुषोत्तमः</summary>
+
+॥18.51॥ तदेवाऽऽह -- बुद्ध्येति। विशुद्धया सर्वसङ्गरहितमदेकनिष्ठया
 बुद्ध्या युक्तो धृत्या मदिच्छाज्ञाने दुःखाद्याभासेऽपि
 मल्लीलाज्ञानात्मकधैर्येण आत्मानं जीवं नियम्य वशीकृत्य -- चकारेणाऽचलं
 कृत्वा -- शब्दादीन् विषयान् इन्द्रियेभ्यस्त्यक्त्वा च पुनः रागद्वेषौ
 मित्रशत्रुज्ञानरूपौ व्युदस्य दूरीकृत्य ब्रह्मभूयाय कल्पत इति
-तृतीयश्लोकेनान्वयः।  
-  
-
+तृतीयश्लोकेनान्वयः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।18.51।। तदेवाह **-- बुद्ध्येति।** उक्तेन प्रकारेण विशुद्धया पूर्वोक्तया
+॥18.51॥ तदेवाह **-- बुद्ध्येति।** उक्तेन प्रकारेण विशुद्धया पूर्वोक्तया
 सात्त्विक्या बुद्ध्या युक्तः; धृत्या सात्त्विक्या आत्मानं तामेव बुद्धिं
 नियम्य निश्चलां कृत्वा; शब्दादीन्विषयांस्त्यक्त्वा तद्विषयौ रागद्वेषौ च
 व्युदस्यबुद्ध्या विशुद्धया युक्तः इत्यादीनांब्रह्मभूयाय कल्पते इति
 तृतीयेनान्वयः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।18.51।। विशुद्ध बुद्धि से युक्त अर्थात् जिसका अन्तकरण शुद्ध है।
-विषयार्जन और विषयोपभोग की वासनाओं से मुक्त अन्तकरण ही शुद्ध कहलाता है।
-विशुद्ध बुद्धि से तात्पर्य सात्त्विकी बुद्धि से भी है। ध्यानाभ्यास के समय
-साधक का आन्तरिक सामञ्जस्य और शान्ति दो कारणों से नष्ट हो सकती है। (1)
-इन्द्रियों द्वारा विषय ग्रहण से; अथवा (2) मन द्वारा पूर्वानुभूत भोगों के
-स्मरण अर्थात् भोगस्मृति से। साधक को सात्त्विकी धृति से मन को संयमित करना
-चाहिए अर्थात् ध्यान के समय विषयभोगों का स्मरण नहीं करना चाहिए। इसी
-प्रकार; शब्दस्पर्शरूपरसगन्ध इन विषयों को त्यागने का अर्थ यह है कि यदि
-इन्द्रिय द्वारा कोई विषय ग्रहण किया भी जाता है; तो उसका चिन्तन प्रारम्भ
-नहीं करना चाहिए। यह तभी संभव होगा; जब साधक अपने व्यक्तिगत रागद्वेषों से
-मुक्त होगा। इन सबको सम्पादित करने के लिए मन के चारों ओर ज्ञान की प्राचीर
-(दीवार) निर्म्ात करनी चाहिए। ज्ञान से ही मन को अपने वश में किया जा सकता
-है। मनसंयम और इन्द्रियसंयम को क्रमश शम और दम भी कहते हैं। ध्यानाभ्यास के
-साधक के विषय में; और आगे कहते हैं
-
+18.51 Endowed by a purified understanding, subduing the mind by steadiness, relinishing sound and other objectts of the senses and casting aside love and hate;
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.51।। विशुद्ध बुद्धि से युक्त, धृति से आत्मसंयम कर, शब्दादि विषयों
-को त्याग कर और राग-द्वेष का परित्याग कर....৷৷৷৷।।
+<details><summary>गम्भीरानन्दः</summary>
 
+18.51 Being endowed with a pure intellect, and controlling oneself with fortitude, rejecting the objects-beginning from sound \[Sound, touch,
+form and colour, taste and smell.-Tr.\], and eliminating attachment and hatred;
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+18.51 Guided always by pure reason, bravely restraining himself,
+renouncing the objects of sense and giving up attachment and hatred;
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.51. He, who has got a totally pure intellect by fully controlling his self (mind) with firmness, and renouncing sense-objects, sound etc., and driving out desire and hatred;
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+18.51 Endowed with a pure intellect, controlling the self by firmness,
+relinishing sound and other objects and abandoning attraction and hatred.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+18.51 बुद्ध्या with an intellect; विशुद्धया pure; युक्तः endowed; धृत्या
+by firmness; आत्मानम् the self; नियम्य controlling; च and; शब्दादीन्
+sound and other; विषयान् senseobjects; त्यक्त्वा relinishing; रागद्वेषौ
+attraction and hatred; व्युदस्य abandoning; च and.Commentary The lower self should be controlled with firmness by the Self of pure intellect.
+The turbulent senses and the mind should be subdued with the help of the pure intellect or reason. Pure reason is a great power. Whenever the senses raise their heads and hiss; they should be hammered by the powerful rod of pure intellect or reason. Reason is the faculty of determination.Pure intellect The intellect that is free from lust;
+anger; greed; pride; doubt; misconception; etc. It is like a clear mirror. A pure intellect is Brahman Itself. It can be easily merged in Brahman. When the pure intellect is merged in Brahman; the reflected intelligence; Chidabhasa or Jiva; is also absorbed in Brahman. The Jiva becomes identical with Brahman; just as the ether in the pot becomes one with the universal ether when the pot is broken.The self The aggregate of the body and the senses.The aspirant withdraws the senses from their respective objects again and again through the repeated practice of Pratyahara (abstraction) and Dama (selfrestraint). Gradually the senses are fixed in the Self. Their outgoing tendencies are totally curbed. The aspirant attains supreme control of the senses by constant meditation;
+by the practice of dispassion he coners Raga (attachment); and through the practice of pure love or cosmic love or divine Preme he coners hatred.He abandons all luxuries. He keeps only those objects which are necessary for the bare maintenance of the body. He has neither attachment nor hatred even for those objects which are necessary for that purpose.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.51।। जो विशुद्ध (सात्त्विकी) बुद्धिसे युक्त, वैराग्यके आश्रित,
 एकान्तका सेवन करनेवाला और नियमित भोजन करनेवाला साधक धैर्यपूर्वक
@@ -353,11 +262,9 @@ _________________
 त्याग करके और राग-द्वेषको छोड़कर निरन्तर ध्यानयोगके परायण हो जाता है, वह
 अहंकार, बल, दर्प, काम, क्रोध और परिग्रहका त्याग करके एवं निर्मम तथा
 शान्त होकर ब्रह्मप्राप्तिका पात्र हो जाता है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।18.51।।***व्याख्या --***  **बुद्ध्या विशुद्धया युक्तः --** जो
 साङ्ख्ययोगी साधक परमात्मतत्त्वको प्राप्त करना चाहता है; उसकी बुद्धि
@@ -460,63 +367,31 @@ _________________
 तबतक परमात्मप्राप्तिकी सामर्थ्य नहीं आती।  
   
 ***सम्बन्ध --***  उपर्युक्त साधनसामग्रीसे निष्ठा प्राप्त हो जानेपर
-क्या होता है -- इसको आगेके श्लोकमें बताते हैं।  
-  
-
+क्या होता है -- इसको आगेके श्लोकमें बताते हैं।
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-18.51. He, who has got a totally pure intellect by fully controlling his self (mind) with firmness, and renouncing sense-objects, sound etc., and driving out desire and hatred;
-
+।।18.51।। विशुद्ध बुद्धि से युक्त अर्थात् जिसका अन्तकरण शुद्ध है।
+विषयार्जन और विषयोपभोग की वासनाओं से मुक्त अन्तकरण ही शुद्ध कहलाता है।
+विशुद्ध बुद्धि से तात्पर्य सात्त्विकी बुद्धि से भी है। ध्यानाभ्यास के समय
+साधक का आन्तरिक सामञ्जस्य और शान्ति दो कारणों से नष्ट हो सकती है। (1)
+इन्द्रियों द्वारा विषय ग्रहण से; अथवा (2) मन द्वारा पूर्वानुभूत भोगों के
+स्मरण अर्थात् भोगस्मृति से। साधक को सात्त्विकी धृति से मन को संयमित करना
+चाहिए अर्थात् ध्यान के समय विषयभोगों का स्मरण नहीं करना चाहिए। इसी
+प्रकार; शब्दस्पर्शरूपरसगन्ध इन विषयों को त्यागने का अर्थ यह है कि यदि
+इन्द्रिय द्वारा कोई विषय ग्रहण किया भी जाता है; तो उसका चिन्तन प्रारम्भ
+नहीं करना चाहिए। यह तभी संभव होगा; जब साधक अपने व्यक्तिगत रागद्वेषों से
+मुक्त होगा। इन सबको सम्पादित करने के लिए मन के चारों ओर ज्ञान की प्राचीर
+(दीवार) निर्म्ात करनी चाहिए। ज्ञान से ही मन को अपने वश में किया जा सकता
+है। मनसंयम और इन्द्रियसंयम को क्रमश शम और दम भी कहते हैं। ध्यानाभ्यास के
+साधक के विषय में; और आगे कहते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.51 Being endowed with a pure intellect, and controlling oneself with fortitude, rejecting the objects-beginning from sound \[Sound, touch,
-form and colour, taste and smell.-Tr.\], and eliminating attachment and hatred;
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।18.51।। विशुद्ध बुद्धि से युक्त, धृति से आत्मसंयम कर, शब्दादि विषयों
+को त्याग कर और राग-द्वेष का परित्याग कर....৷৷৷৷।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.51 Guided always by pure reason, bravely restraining himself,
-renouncing the objects of sense and giving up attachment and hatred;
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-18.51 Endowed by a purified understanding, subduing the mind by steadiness, relinishing sound and other objectts of the senses and casting aside love and hate;
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-18.51 Endowed with a pure intellect, controlling the self by firmness,
-relinishing sound and other objects and abandoning attraction and hatred.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-18.51 बुद्ध्या with an intellect; विशुद्धया pure; युक्तः endowed; धृत्या
-by firmness; आत्मानम् the self; नियम्य controlling; च and; शब्दादीन्
-sound and other; विषयान् senseobjects; त्यक्त्वा relinishing; रागद्वेषौ
-attraction and hatred; व्युदस्य abandoning; च and.Commentary The lower self should be controlled with firmness by the Self of pure intellect.
-The turbulent senses and the mind should be subdued with the help of the pure intellect or reason. Pure reason is a great power. Whenever the senses raise their heads and hiss; they should be hammered by the powerful rod of pure intellect or reason. Reason is the faculty of determination.Pure intellect The intellect that is free from lust;
-anger; greed; pride; doubt; misconception; etc. It is like a clear mirror. A pure intellect is Brahman Itself. It can be easily merged in Brahman. When the pure intellect is merged in Brahman; the reflected intelligence; Chidabhasa or Jiva; is also absorbed in Brahman. The Jiva becomes identical with Brahman; just as the ether in the pot becomes one with the universal ether when the pot is broken.The self The aggregate of the body and the senses.The aspirant withdraws the senses from their respective objects again and again through the repeated practice of Pratyahara (abstraction) and Dama (selfrestraint). Gradually the senses are fixed in the Self. Their outgoing tendencies are totally curbed. The aspirant attains supreme control of the senses by constant meditation;
-by the practice of dispassion he coners Raga (attachment); and through the practice of pure love or cosmic love or divine Preme he coners hatred.He abandons all luxuries. He keeps only those objects which are necessary for the bare maintenance of the body. He has neither attachment nor hatred even for those objects which are necessary for that purpose.
-
-</details>
 </div>

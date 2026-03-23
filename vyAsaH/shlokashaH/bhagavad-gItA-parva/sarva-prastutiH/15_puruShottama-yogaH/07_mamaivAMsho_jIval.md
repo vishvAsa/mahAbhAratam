@@ -1,162 +1,82 @@
 +++
 title = "07 ममैवांशो जीवलोके"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **ममैवांशो** जीव-लोके  
 जीव-भूतः सनातनः।  
 **मनःषष्ठानीन्द्रियाणि**  
 प्रकृतिस्थानि **कर्षति**॥15.7॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 ममैवांशो जीवलोके जीवभूतः सनातनः।  
-मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति।।15.7।।
+मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति॥15.7॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।15.7।। इत्थम् उक्तस्वरूपः **सनातनो मम अंश एव** सन् कश्चिद्
-अनादिकर्मरूपाविद्यावेष्टनतिरोहितस्वरूपो **जीवभूतो जीवलोके** वर्तमानो
-देवमनुष्यादिप्रकृतिपरिणामविशेषशरीरस्थानि **मनःषष्ठानि इन्द्रियाणि
-कर्षति।** कश्चित् च पूर्वोक्तमार्गेण अस्या अविद्याया मुक्तः स्वेन रूपेण
-अवतिष्ठते। जीवभूतः तु अतिसंकुचितज्ञानैश्वर्यः
-कर्मलब्धप्रकृतिपरिणामविशेषरूप शरीरस्थानाम् इन्द्रियाणां मनःषष्ठानाम्
-ईश्वरः तानि कर्मानुगुणम् इतः ततः कर्षति।
-
+॥15.7॥ इत्थम् उक्तस्वरूपः **सनातनो मम अंश एव** सन् कश्चिद् अनादिकर्मरूपाविद्यावेष्टनतिरोहितस्वरूपो **जीवभूतो जीवलोके** वर्तमानो देवमनुष्यादिप्रकृतिपरिणामविशेषशरीरस्थानि **मनःषष्ठानि इन्द्रियाणि कर्षति।** कश्चिच् च पूर्वोक्तमार्गेण अस्या अविद्याया मुक्तः स्वेन रूपेण अवतिष्ठते। जीवभूतस् त्व् अतिसङ्कुचितज्ञानैश्वर्यः कर्मलब्धप्रकृतिपरिणामविशेषरूप शरीरस्थानाम् इन्द्रियाणां मनःषष्ठानाम् ईश्वरस् तानि कर्मानुगुणम् इतस् ततः कर्षति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।15.7।। यद्येवं त्वद्विभूतित्तया तवांश एव; तर्हि नित्यसूरिवर्गवदविशेषेण
-सर्वेषां परिशुद्धाकारयोगः किं न स्यात् इत्यत्र बद्धस्यापि
-स्वविभूतित्वमनूद्य बद्धमुक्तादिव्यवस्थापनंममैवांशः इत्यादिनोच्यत
-इत्यभिप्रायेणाह -- इत्थमुक्तस्वरूप इति।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥15.7॥ यद्येवं त्वद्विभूतित्तया तवांश एव; तर्हि नित्यसूरिवर्गवदविशेषेण सर्वेषां परिशुद्धाकारयोगः किं न स्यात् इत्यत्र बद्धस्यापि स्वविभूतित्वमनूद्य बद्धमुक्तादिव्यवस्थापनम्ममैवांशः इत्यादिनोच्यत इत्यभिप्रायेणाह -- इत्थमुक्तस्वरूप इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.7 That self, whose nature has been described thus, though constituting an everlasting part of Myself, becomes the bound individual self in the world of life. Covered by ignorance in the form of beginningless Karma, It attracts to Itself the five senses and the mind,
-which are located in the bodies of gods, men etc., and which are particular transformations of Prakrti. Some parts of Myself (i.e., the selves), becoming free from ignorance (Avidya) in the aforesaid manner,
-remain in their own intrinsic nature. But the bound individual self is very much contracted in power and knowledge. The individual self is the lord of the senses and the mind in bodies, and forms a bound individual in combination with a particular transformation of the Prakrti through Karma. Thus Karma attracts the selves hither and thither according to its nature.
+<details><summary>आदिदेवानन्दः</summary>
 
+15.7 That self, whose nature has been described thus, though constituting an everlasting part of Myself, becomes the bound individual self in the world of life. Covered by ignorance in the form of beginningless Karma, It attracts to Itself the five senses and the mind, which are located in the bodies of gods, men etc., and which are particular transformations of Prakrti. Some parts of Myself (i.e., the selves), becoming free from ignorance (Avidya) in the aforesaid manner, remain in their own intrinsic nature. But the bound individual self is very much contracted in power and knowledge. The individual self is the lord of the senses and the mind in bodies, and forms a bound individual in combination with a particular transformation of the Prakrti through Karma. Thus Karma attracts the selves hither and thither according to its nature.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।15.7।। ममेति। ब्रह्मण एवायमंश इति।  
-अज्ञानधर्मतया परिपूर्णस्य असंवेदनात् चेतनताऽनिवृत्तेश् च  
-अंशत्वम् उपचरितम्  
-न +++(;N omit न)+++ पुनर् वस्तुतः अंशवत्तोपपद्यते। 
+॥15.7॥ --,**ममैव** परमात्मनः नारायणस्य; **अंशः** भागः अवयवः एकदेशः इति अनर्थान्तरं  
+**जीवलोके** जीवानां लोके संसारे  
+**जीवभूतः** कर्ता भोक्ता इति प्रसिद्धः  
+**सनातनः** चिरंतनः  
+यथा जलसूर्यकः सूर्यांशः जलनिमित्तापाये  
+सूर्यमेव गत्वा न निवर्तते च  
+तेनैव आत्मना गच्छति;  
 
-प्रदेशोऽपि ब्रह्मणः सार्व-रूप्यम् अनतिक्रान्तः इति हि श्रुतिः +++(N श्रुतेः)+++।  
-एषैव च औपचारिकता यथावसरं योजनीया इति न विप्रतिपत्तव्यम्।
+एवमेव यथा घटाद्य्-उपाधिपरिच्छिन्नो घटाद्याकाशः  
+आकाशांशः सन्  
+घटादिनिमित्तापाये आकाशं प्राप्य  
+न निवर्तते।  
 
+अतः उपपन्नम् उक्तम् यद् गत्वा न निवर्तन्ते इति। 
+
+> ननु निरवयवस्य परमात्मनः  
+> कुतो ऽवयव एकदेशः अंश इति?  
+सावयवत्वे च विनाशप्रसङ्गः - अवयवविभागात्। 
+
+नैष दोषः;  
+अविद्या-कृतोपाधि-परिच्छिन्न एकदेशः अंश इव कल्पितो यतः।  
+दर्शितश्च अयमर्थः क्षेत्राध्याये विस्तरशः।  
+स च जीवो मदंशत्वेन कल्पितः  
+कथं संसरति, उत्क्रामति च इति;  
+उच्यते --  
+**मनःषष्ठानि इन्द्रियाणि** श्रोत्रादीनि  
+**प्रकृतिस्थानि** स्वस्थाने कर्णशष्कुल्यादौ प्रकृतौ स्थितानि  
+**कर्षति** आकर्षति॥ कस्मिन् काले --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-15.7 Mama etc. The individual Soul is a portion just of the Brahman only
-: Because, due to the attribute (or, nature) viz., the nescience, the
-Self does not realise Its all pervaisveness and because the
-Consciousness is also not absent, It is figuratively referred to as
-portion \[of the Brahman\]. For, a real apportioning is not possible
-\[in the Absolute\]. For the scripture also says : 'In the case of the
-Brahman (the Absolute), even the particular manifestation (or a
-particular space) does not preclude Its all-comprehensive nature'. This
-figurative usage may be resorted to wherever reired. Hence there is no
-room for any difference of opinion.
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।15.7।। Sri Madhvacharya did not comment on this sloka.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।15.7।। Sri Jayatirtha did not comment on this sloka.
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।15.7।। --,**ममैव** परमात्मनः नारायणस्य; **अंशः** भागः अवयवः एकदेशः इति
-अनर्थान्तरं **जीवलोके** जीवानां लोके संसारे **जीवभूतः** कर्ता भोक्ता इति
-प्रसिद्धः **सनातनः** चिरंतनः यथा जलसूर्यकः सूर्यांशः जलनिमित्तापाये
-सूर्यमेव गत्वा न निवर्तते च तेनैव आत्मना गच्छति; एवमेव यथा
-घटाद्युपाधिपरिच्छिन्नो घटाद्याकाशः आकाशांशः सन् घटादिनिमित्तापाये आकाशं
-प्राप्य न निवर्तते। अतः उपपन्नम् उक्तम् यद्गत्वा न निवर्तन्ते इति। ननु
-निरवयवस्य परमात्मनः कुतः अवयवः एकदेशः अंशः इति सावयवत्वे च विनाशप्रसङ्गः
-अवयवविभागात्। नैष दोषः; अविद्याकृतोपाधिपरिच्छिन्नः एकदेशः अंश इव कल्पितो
-यतः। दर्शितश्च अयमर्थः क्षेत्राध्याये विस्तरशः। स च जीवो मदंशत्वेन
-कल्पितः कथं संसरति उत्क्रामति च इति; उच्यते -- **मनःषष्ठानि
-इन्द्रियाणि** श्रोत्रादीनि **प्रकृतिस्थानि** स्वस्थाने कर्णशष्कुल्यादौ
-प्रकृतौ स्थितानि **कर्षति** आकर्षति।। कस्मिन् काले --,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।15.7।। उ₀ -- उसमें जो कारण है वह सुन --, जीवलोकमें अर्थात् संसारमें; जो
-जीवरूप शक्ति; भोक्ता; कर्ता इत्यादि नामोंसे प्रसिद्ध है; वह मुझ
-परमात्माका ही सनातन अंश है; अर्थात् अंग; भाग; एकदेश जो भी कुछ कहो; एक ही
-अभिप्राय है। जैसे जलमें प्रतीत होनेवाला सूर्यका अंश -- प्रतिबिम्ब; जलरूप
-निमित्तका नाश होनेपर; सूर्यको ही प्राप्त होकर फिर नहीं लौटता; वैसे ही उस
-परमात्माका यह अंश भी; उस परमात्मासे ही संयुक्त हो जाता है। फिर नहीं
-लौटता। अथवा जैसे घट आदि उपाधिसे परिच्छिन्न घटादिका आकाश; आकाशका ही अंश
-है और वह घट आदि निमित्तके नाश होनेपर; आकाशको ही प्राप्त होकर फिर नहीं
-लौटता; वैसे ही इसके विषयमें भी समझना चाहिये। सुतरां जहाँ जाकर नहीं लौटते
-यह कहना उचित ही है। पू₀ -- अवयवरहित परमात्माका अवयव; एकदेश अथवा अंश;
-कैसे हो सकता है और यदि उसे अवयवयुक्त मानें; तो उन अवयवोंका विभाग होनेसे
-परमात्माके नाशका प्रसङ्ग आ जायगा। उ₀ -- यह दोष नहीं है क्योंकि
-अविद्याकृत उपाधिसे परिच्छिन्न; एकदेश ही अंशकी भाँति माना गया है। यह बात
-क्षेत्राध्यायमें विस्तारपूर्वकर दिखलायी गयी है। वह मेरा अंशरूप माना हुआ
-जीव; संसारमें कैसे आता है और कैसे शरीर छोड़कर जाता है; सो बतलाते हैं --
-( यह जीवात्मा ) मन जिनमें छठा है; ऐसी कर्णछिद्रादि अपनेअपने गोलकरूप
-प्रकृतियोंमें स्थित हुई; श्रोत्रादि इन्द्रियोंको आकर्षित करता है।  
-  
-,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 15.7 It is eva, verily amsah, a part, portion, limb, fragment-these are
 all synonymous; mama, of mine, of the supreme Self; \[Here Ast. adds
@@ -183,13 +103,34 @@ indriyani, the (sense-) organs-ear etc.; manah-sasthani, which have the
 mind as their sixth; and prakrti-sthani, which abide in Nature, which
 are located in their respective spheres such as the orifice of the ear
 etc. When (does it draw the organs);
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।15.7।। उक्तमनूद्याक्षिपति -- **यद्गत्वेति।** तत्र प्रसिद्धिं प्रमाणयति
+<details><summary>हरिकृष्णदासः</summary>
+
+॥15.7॥ उ₀ -- उसमें जो कारण है वह सुन --, जीवलोकमें अर्थात् संसारमें; जो
+जीवरूप शक्ति; भोक्ता; कर्ता इत्यादि नामोंसे प्रसिद्ध है; वह मुझ
+परमात्माका ही सनातन अंश है; अर्थात् अंग; भाग; एकदेश जो भी कुछ कहो; एक ही
+अभिप्राय है। जैसे जलमें प्रतीत होनेवाला सूर्यका अंश -- प्रतिबिम्ब; जलरूप
+निमित्तका नाश होनेपर; सूर्यको ही प्राप्त होकर फिर नहीं लौटता; वैसे ही उस
+परमात्माका यह अंश भी; उस परमात्मासे ही संयुक्त हो जाता है। फिर नहीं
+लौटता। अथवा जैसे घट आदि उपाधिसे परिच्छिन्न घटादिका आकाश; आकाशका ही अंश
+है और वह घट आदि निमित्तके नाश होनेपर; आकाशको ही प्राप्त होकर फिर नहीं
+लौटता; वैसे ही इसके विषयमें भी समझना चाहिये। सुतरां जहाँ जाकर नहीं लौटते
+यह कहना उचित ही है। पू₀ -- अवयवरहित परमात्माका अवयव; एकदेश अथवा अंश;
+कैसे हो सकता है और यदि उसे अवयवयुक्त मानें; तो उन अवयवोंका विभाग होनेसे
+परमात्माके नाशका प्रसङ्ग आ जायगा। उ₀ -- यह दोष नहीं है क्योंकि
+अविद्याकृत उपाधिसे परिच्छिन्न; एकदेश ही अंशकी भाँति माना गया है। यह बात
+क्षेत्राध्यायमें विस्तारपूर्वकर दिखलायी गयी है। वह मेरा अंशरूप माना हुआ
+जीव; संसारमें कैसे आता है और कैसे शरीर छोड़कर जाता है; सो बतलाते हैं --
+( यह जीवात्मा ) मन जिनमें छठा है; ऐसी कर्णछिद्रादि अपनेअपने गोलकरूप
+प्रकृतियोंमें स्थित हुई; श्रोत्रादि इन्द्रियोंको आकर्षित करता है।  
+  
+,
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥15.7॥ उक्तमनूद्याक्षिपति -- **यद्गत्वेति।** तत्र प्रसिद्धिं प्रमाणयति
 -- **संयोगा इति।** गमनस्यागमनान्तत्वप्रसिद्धेरयुक्तं
 यद्गत्वेत्याद्युपसंहरति -- **कथमिति।** आक्षेपं परिहरति -- **शृण्विति।**
 भगवत्प्राप्तेर्निवृत्त्यन्तत्वाभावः सप्तम्यर्थः। जीवस्य परांशत्वेऽपि
@@ -203,13 +144,70 @@ etc. When (does it draw the organs);
 **दर्शितश्चेति।** यदि परस्यांशत्वेन कल्पितो जीवो वस्तुतस्तदात्मैव न
 तर्हि तस्य संसारित्वमुत्क्रान्तिर्वेति शङ्कते -- **कथमिति।** जीवस्य
 संसरणमुत्क्रमणं चोपपादयितुमुपक्रमते -- **उच्यत इति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।15.7।। ननु यद्गत्वा न निवर्तन्त इत्युक्तं यदि गच्छन्ति तर्ह्यावर्तन्त
+<details><summary>नीलकण्ठः</summary>
+
+॥15.7॥ ननु यदि सूर्याद्यभास्यज्योतीरूपस्त्वंक्षेत्रज्ञं चापि मां विद्धि
+इति स्वस्यैव क्षेत्रज्ञत्वं ब्रूषे तर्हि क्षेत्रज्ञस्य सतस्तव
+घटादिप्रकाशे किमिति सूर्याद्यपेक्षा दृश्यते। नहि स्वयं ज्योतीरूपः
+स्वविषयावभासने ज्योतिरन्तरमपेक्षते दीपादिष्वदर्शनादित्याशङ्क्याह त्रिभिः
+-- **ममैवेति।** यद्यस्मादीश्वरो जगत्स्रष्टा शरीरं अवाप्नोतिस एष इह
+प्रविष्ट आनखाग्रेभ्यःतत्सृष्ट्वा तदेवानुप्राविशत् इत्यादिश्रुतिभ्य ईश्वर
+एव शरीरधारी तथा यद्यस्माद्धेतोः। अपिशब्दोऽवधारणार्थे। चः
+समुच्चयार्थे। कस्मिन्नहमुत्क्रान्त उत्क्रान्तो भविष्यामि कस्मिन्वा
+प्रतिष्ठिते प्रतिष्ठास्यामीति स प्राणमसृजत इति श्रुतेः।
+प्राणधारणेनोपाधिना ईश्वर एव च उत्क्रामति। ततो हेतुद्वयाज्जीवलोके संसारे
+यो जीवभूतः प्राणी स सनातनः सर्वदैकरूपोऽहमेवेति वक्तव्येयथाग्नेः क्षुद्रा
+विस्फुलिङ्गा व्युच्चरन्त्येवमेवैतस्मादात्मनः सर्व एव आत्मानो
+व्युच्चरन्ति इति वह्निविस्फुलिङ्गन्यायेन स ममैवांश इत्यंशांशिभावोक्तिः।
+यद्यपि वह्नौ भेदः परिमाणं च स्वगतं न दृश्यते तथापि तूपाधिगतमेव तदुभयं
+तत्राप्युपचर्यते अयमग्निरस्मादग्नेर्भिन्नः अयमस्य स्फुलिङ्गः अयमस्मादल्प
+इति। एवमस्थूलमनण्वह्रस्वमदीर्घम् इति श्रुतेश्चतुर्विधपरिमाणशून्ये
+ब्रह्मणि ममैवांश इत्यंशांशिभावेन भेदोऽल्पत्वमहत्त्वे चोपचारादौपाधिके
+ध्येये। तथा च श्रुतिःबुद्धेर्गुणेनात्मगुणेन चैव ह्याराग्रमात्रो
+ह्यवरोऽपि दृष्टः इतिसमः प्लुषिणा समो मशकेन समो नागेन सम
+एभिस्त्रिभिर्लोकैः इति च। तथा च विस्फुलिङ्गो वह्निरेव न तु वन्ह्यंशः;
+एवं जीवोऽपि ब्रह्मैव न तु ब्रह्मांशःब्रह्मदाशा ब्रह्मदासा ब्रह्मेमे
+कितवा उत इति दाशादिष्वपि पिण्डेषु गोत्वस्येव कात्स्न्र्येन एकैकस्मिन्
+ब्रह्मभावपरिसमाप्तिदर्शनात्। निरंशेंऽशांशिकल्पनाया अयोग्यत्वाच्च स एवं
+जीवभूत ईश्वरो ममैवांश इवांशो,रूपभेदो मनः षष्ठं येषु तानि मनसा सह
+षडिन्द्रियाणि प्रकृतिस्थानि इन्द्रियाणां प्रकृतिः स्वभावो विषयप्रावण्यं
+तत्र स्थितानि। कर्षति सुप्तिप्रलयसमकालेषु संकोचयति।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥15.7॥ ननु यद्गत्वा न निवर्तन्त इति नोपपद्यते कतेरागत्यन्तत्वात्।
+तदुक्तंसर्वे क्षयान्ता निचयाः पतनान्ताः समुच्छ्रयाः। संयोगा
+विप्रयोगान्ता मरणान्तं च जीवितम् इत्याशङ्क्याह -- ममैवेति। जीवलोके
+संसारे जीवभूतो भोक्ता कर्तेति प्रसिद्धः। मम परमात्मन एवांशोऽवयवो
+नान्यस्य। अतएव सनातनः पुरातनः। एवंच यथा जलसूर्यकः सूर्यांशको
+जलनिमित्तापाये सूर्यं प्राप्य न निवर्तते; यथावा घटाद्युपाधिपरिच्छिन्नो
+घटाद्याकाश आकाशांशः सन् घटादिनिमित्तापाये आकांश प्राप्य नावर्तते
+तद्वज्जीवोऽपि मदंशः मां गत्वा पुनरावृत्तिशून्य एवेत्यतो युक्तमेव
+यद्गत्वा न निवर्तन्त इति। तथा चाविद्याकृतोपाधिपरिच्छिन्न एकदेशोंश इव
+कल्पिस्तत्त्वज्ञानेनाविद्यापागम उपाधेर्निमित्तभूतस्यापगमात्
+स्वरुपेणावतिष्ठते नतु निवयवस्य मुख्योऽवयवः संभवति सावयवत्वे च
+विनाशप्रसङ्गोऽनिष्टः स्यात्। यदि परस्यांशत्वेन कल्पितो जीवो वस्तुतः
+परमात्वैव तर्हि कथं संसरत्युत्क्रामति वेत्यपेक्षायामाह -- मन इति।
+मनःषष्ठानि श्रोत्रादीनिन्द्रियाणि प्रकृतिस्थानि स्वस्वप्रकृतौ
+कर्णशष्कुल्यातौ स्थाने स्थितानि कर्षति आकर्षति यदा
+पूर्वशरीराच्छारीरान्तरं प्राप्नोतीत्युत्तरेण संबन्धः। यत्त्वेवंभूतोऽपि
+सुषुप्ताकथमावर्तत इत्यत आह। मनः षष्ठं येषां तानि श्रोत्रादीनि
+पञ्चेन्द्रियाणि। इन्द्रस्यात्मो विषयोपलब्धिकरणताय लिङ्गानि
+जाग्रत्स्वप्नभोगजनककर्मक्षये प्रकृतिस्थानि प्रकृतावज्ञाने सूक्ष्मरुपेण
+स्थितानि पुनर्जाग्रद्भोगजनककर्मोदये भोगार्थ कर्षति। कूर्मोऽङ्गनीव
+प्रकृतेरज्ञानदाकर्षति। विषयग्रहणयोग्यतयाविर्भावयतीत्यर्थः। अतो
+ज्ञानादनावृत्तावज्ञानादनावृत्तिर्नोपपन्नेति भाव इतिव्याख्यानं तत्तु
+बह्वध्याहारसापेक्षमुत्तरश्लोकाननुबद्धम्। कस्मिन्काले कर्षतीत्यच्यत इति
+स्वग्रन्थाननुगुणं चात उपेक्ष्यमेवमन्येषामपि कुकल्पना भाष्यविरुद्धा
+नोपादेया।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥15.7॥ ननु यद्गत्वा न निवर्तन्त इत्युक्तं यदि गच्छन्ति तर्ह्यावर्तन्त
 एव स्वर्गवदथ नावर्तन्ते तर्हि न गच्छन्ति तेन गत्वेति न निवर्तन्त इति च
 परस्परविरुद्धंसर्वे क्षयान्ता निचयाः पतनान्ताः समुच्छ्रयाः। संयोगा
 विप्रयोगान्ता मरणान्तं हि जीवितम् इति हि शास्त्रे लोके च प्रसिद्धम्।
@@ -260,80 +258,49 @@ etc. When (does it draw the organs);
 स्थितानि पुनर्जाग्रद्भोगजनककर्मोदये भोगार्थं कर्षति कूर्मोऽङ्गानीव
 प्रकृतेरज्ञानादाकर्षति विषयग्रहणयोग्यतयाविर्भावयतीत्यर्थः। अतो
 ज्ञानादनावृत्तावप्यज्ञानादावृत्तिर्नानुपपन्नेति भावः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।15.7।। ननु यदि सूर्याद्यभास्यज्योतीरूपस्त्वंक्षेत्रज्ञं चापि मां विद्धि
-इति स्वस्यैव क्षेत्रज्ञत्वं ब्रूषे तर्हि क्षेत्रज्ञस्य सतस्तव
-घटादिप्रकाशे किमिति सूर्याद्यपेक्षा दृश्यते। नहि स्वयं ज्योतीरूपः
-स्वविषयावभासने ज्योतिरन्तरमपेक्षते दीपादिष्वदर्शनादित्याशङ्क्याह त्रिभिः
--- **ममैवेति।** यद्यस्मादीश्वरो जगत्स्रष्टा शरीरं अवाप्नोतिस एष इह
-प्रविष्ट आनखाग्रेभ्यःतत्सृष्ट्वा तदेवानुप्राविशत् इत्यादिश्रुतिभ्य ईश्वर
-एव शरीरधारी तथा यद्यस्माद्धेतोः। अपिशब्दोऽवधारणार्थे। चः
-समुच्चयार्थे। कस्मिन्नहमुत्क्रान्त उत्क्रान्तो भविष्यामि कस्मिन्वा
-प्रतिष्ठिते प्रतिष्ठास्यामीति स प्राणमसृजत इति श्रुतेः।
-प्राणधारणेनोपाधिना ईश्वर एव च उत्क्रामति। ततो हेतुद्वयाज्जीवलोके संसारे
-यो जीवभूतः प्राणी स सनातनः सर्वदैकरूपोऽहमेवेति वक्तव्येयथाग्नेः क्षुद्रा
-विस्फुलिङ्गा व्युच्चरन्त्येवमेवैतस्मादात्मनः सर्व एव आत्मानो
-व्युच्चरन्ति इति वह्निविस्फुलिङ्गन्यायेन स ममैवांश इत्यंशांशिभावोक्तिः।
-यद्यपि वह्नौ भेदः परिमाणं च स्वगतं न दृश्यते तथापि तूपाधिगतमेव तदुभयं
-तत्राप्युपचर्यते अयमग्निरस्मादग्नेर्भिन्नः अयमस्य स्फुलिङ्गः अयमस्मादल्प
-इति। एवमस्थूलमनण्वह्रस्वमदीर्घम् इति श्रुतेश्चतुर्विधपरिमाणशून्ये
-ब्रह्मणि ममैवांश इत्यंशांशिभावेन भेदोऽल्पत्वमहत्त्वे चोपचारादौपाधिके
-ध्येये। तथा च श्रुतिःबुद्धेर्गुणेनात्मगुणेन चैव ह्याराग्रमात्रो
-ह्यवरोऽपि दृष्टः इतिसमः प्लुषिणा समो मशकेन समो नागेन सम
-एभिस्त्रिभिर्लोकैः इति च। तथा च विस्फुलिङ्गो वह्निरेव न तु वन्ह्यंशः;
-एवं जीवोऽपि ब्रह्मैव न तु ब्रह्मांशःब्रह्मदाशा ब्रह्मदासा ब्रह्मेमे
-कितवा उत इति दाशादिष्वपि पिण्डेषु गोत्वस्येव कात्स्न्र्येन एकैकस्मिन्
-ब्रह्मभावपरिसमाप्तिदर्शनात्। निरंशेंऽशांशिकल्पनाया अयोग्यत्वाच्च स एवं
-जीवभूत ईश्वरो ममैवांश इवांशो,रूपभेदो मनः षष्ठं येषु तानि मनसा सह
-षडिन्द्रियाणि प्रकृतिस्थानि इन्द्रियाणां प्रकृतिः स्वभावो विषयप्रावण्यं
-तत्र स्थितानि। कर्षति सुप्तिप्रलयसमकालेषु संकोचयति।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।15.7।। ननु यद्गत्वा न निवर्तन्त इति नोपपद्यते कतेरागत्यन्तत्वात्।
-तदुक्तंसर्वे क्षयान्ता निचयाः पतनान्ताः समुच्छ्रयाः। संयोगा
-विप्रयोगान्ता मरणान्तं च जीवितम् इत्याशङ्क्याह -- ममैवेति। जीवलोके
-संसारे जीवभूतो भोक्ता कर्तेति प्रसिद्धः। मम परमात्मन एवांशोऽवयवो
-नान्यस्य। अतएव सनातनः पुरातनः। एवंच यथा जलसूर्यकः सूर्यांशको
-जलनिमित्तापाये सूर्यं प्राप्य न निवर्तते; यथावा घटाद्युपाधिपरिच्छिन्नो
-घटाद्याकाश आकाशांशः सन् घटादिनिमित्तापाये आकांश प्राप्य नावर्तते
-तद्वज्जीवोऽपि मदंशः मां गत्वा पुनरावृत्तिशून्य एवेत्यतो युक्तमेव
-यद्गत्वा न निवर्तन्त इति। तथा चाविद्याकृतोपाधिपरिच्छिन्न एकदेशोंश इव
-कल्पिस्तत्त्वज्ञानेनाविद्यापागम उपाधेर्निमित्तभूतस्यापगमात्
-स्वरुपेणावतिष्ठते नतु निवयवस्य मुख्योऽवयवः संभवति सावयवत्वे च
-विनाशप्रसङ्गोऽनिष्टः स्यात्। यदि परस्यांशत्वेन कल्पितो जीवो वस्तुतः
-परमात्वैव तर्हि कथं संसरत्युत्क्रामति वेत्यपेक्षायामाह -- मन इति।
-मनःषष्ठानि श्रोत्रादीनिन्द्रियाणि प्रकृतिस्थानि स्वस्वप्रकृतौ
-कर्णशष्कुल्यातौ स्थाने स्थितानि कर्षति आकर्षति यदा
-पूर्वशरीराच्छारीरान्तरं प्राप्नोतीत्युत्तरेण संबन्धः। यत्त्वेवंभूतोऽपि
-सुषुप्ताकथमावर्तत इत्यत आह। मनः षष्ठं येषां तानि श्रोत्रादीनि
-पञ्चेन्द्रियाणि। इन्द्रस्यात्मो विषयोपलब्धिकरणताय लिङ्गानि
-जाग्रत्स्वप्नभोगजनककर्मक्षये प्रकृतिस्थानि प्रकृतावज्ञाने सूक्ष्मरुपेण
-स्थितानि पुनर्जाग्रद्भोगजनककर्मोदये भोगार्थ कर्षति। कूर्मोऽङ्गनीव
-प्रकृतेरज्ञानदाकर्षति। विषयग्रहणयोग्यतयाविर्भावयतीत्यर्थः। अतो
-ज्ञानादनावृत्तावज्ञानादनावृत्तिर्नोपपन्नेति भाव इतिव्याख्यानं तत्तु
-बह्वध्याहारसापेक्षमुत्तरश्लोकाननुबद्धम्। कस्मिन्काले कर्षतीत्यच्यत इति
-स्वग्रन्थाननुगुणं चात उपेक्ष्यमेवमन्येषामपि कुकल्पना भाष्यविरुद्धा
-नोपादेया।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।15.7।। अयमपि पुरुषो मे धाम ममैव सच्चिदानन्दात्मकस्य
+॥15.7॥ Sri Madhvacharya did not comment on this sloka.
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥15.7॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+
+<details><summary>मूलम्</summary>
+
+॥15.7॥ ममेति। ब्रह्मण एवायमंश इति।  
+अज्ञानधर्मतया परिपूर्णस्य असंवेदनात् चेतनताऽनिवृत्तेश् च  
+अंशत्वम् उपचरितम्  
+न +++(;N omit न)+++ पुनर् वस्तुतः अंशवत्तोपपद्यते। 
+
+प्रदेशोऽपि ब्रह्मणः सार्व-रूप्यम् अनतिक्रान्तः इति हि श्रुतिः +++(N श्रुतेः)+++।  
+एषैव च औपचारिकता यथावसरं योजनीया इति न विप्रतिपत्तव्यम्।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+15.7 Mama etc. The individual Soul is a portion just of the Brahman only : Because, due to the attribute (or, nature) viz., the nescience, the Self does not realise Its all pervaisveness and because the Consciousness is also not absent, It is figuratively referred to as portion \[of the Brahman\]. For, a real apportioning is not possible \[in the Absolute\]. For the scripture also says : 'In the case of the Brahman (the Absolute), even the particular manifestation (or a particular space) does not preclude Its all-comprehensive nature'. This figurative usage may be resorted to wherever reired. Hence there is no room for any difference of opinion.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+
+<details><summary>मूलम्</summary>
+
+॥15.7॥ अयमपि पुरुषो मे धाम ममैव सच्चिदानन्दात्मकस्य
 पुरुषोत्तमस्यैवांशोऽणुः केवलचिदात्मा स्वेच्छया पृथग्भावितः सनातनो
 वस्तुतो नित्यस्वरूपत्वात् --
 अनादिकर्मरूपाविद्यावेष्टनतिरोहितानन्दस्वरूपो जीवभूतो जीवलोके वर्त्तमानो
@@ -352,9 +319,9 @@ _________________
 न हि ब्रह्म निरंशं सांशं वा क्वचिल्लोके सिद्धं; वेदैकसमधिगम्यत्वात्
 सत्त्वाचार्यमतोपपन्नार्थतयाऽभ्युपगन्तव्यः; न तु सर्वविप्लवः कार्यः।
 युक्तिस्त्वेषोपपद्यते -- विस्फुलिङ्गा इवाग्नेर्हि जडा जीवाश्च निर्गताः।
-सर्वतः पाणिपादान्तात्सर्वतोक्षिशिरोमुखात्।। निरिन्द्रियात्स्वरूपेण
+सर्वतः पाणिपादान्तात्सर्वतोक्षिशिरोमुखात्॥ निरिन्द्रियात्स्वरूपेण
 तादृशादिति निश्चयः। संदेशेन जडाः पूर्वं चिदंशेनेतरा
-अपि।। अन्यधर्मतिरोभावा मूलेच्छातोऽस्वतन्त्रिणः इति हि ब्रह्मवादेंऽशपक्ष
+अपि॥ अन्यधर्मतिरोभावा मूलेच्छातोऽस्वतन्त्रिणः इति हि ब्रह्मवादेंऽशपक्ष
 एव। ननु अंशत्वेन सजातीयत्वमायाति। श्रुत्यन्तरे पुनः ब्रह्म दाशा ब्रह्म
 दासा ब्रह्मेमे कितवा उत \[ \] इत्यत्र सर्वस्यापि ब्रह्मज्ञानेन
 सर्वविज्ञानप्रतिपादनात् दाशादीनामपि ब्रह्मत्वं प्रतीयते तत्कार्यत्व एव
@@ -424,15 +391,11 @@ _________________
 संसर्जनात्प्रकृतिस्थानीत्युक्तम्। अतएवोक्तंबुद्धीन्द्रियमनःप्राणान्
 जनानामसृजत्प्रभुः। मात्रार्थं च भवार्थं च स्वात्मने कल्पनाय च
 \[भाग.10।87।2\] इति तत एवायं जीवः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।15.7।। ननु पूर्वं क्षेत्रक्षेत्रज्ञप्रकृतिपुरुषजडजङ्गमादीनां
+<details><summary>पुरुषोत्तमः</summary>
+
+॥15.7॥ ननु पूर्वं क्षेत्रक्षेत्रज्ञप्रकृतिपुरुषजडजङ्गमादीनां
 स्वांशत्वक्रीडौपयिकत्वस्वक्रीडार्थोपसादितत्वमुक्तमधुना चयद्गत्वा न
 निवर्त्तन्ते \[5।6\] इत्युक्तं तत्कथं सम्भवति इत्याकाङ्क्षायामाहममैवेति
 पञ्चभिः। जीवलोके मत्क्रीडार्थप्रकटिते जीवभूतः
@@ -443,19 +406,14 @@ _________________
 -- साक्षात्स्वक्रीडानुभवार्थप्रकटितो जीवभावः सनातनः पुरुषोत्तमांश एव
 साक्षात् तद्द्वारा प्रकृत्युत्पादितभोगानुभवार्थं प्रकृटितोंऽशः सांसारिको
 जीवो मूलभूतजीवांशः स स्वांशं तत्र नयति यत्र तदिच्छा। अतएव तमुत्क्रामन्तं
-प्राणोऽनुत्क्रामति \[बृ.उ.4।4।2\] इत्यादिश्रुतिः।  
-  
-
+प्राणोऽनुत्क्रामति \[बृ.उ.4।4।2\] इत्यादिश्रुतिः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।15.7।। ननु च त्वदीयं धाम प्राप्ताः सन्तो यदि न निवर्तन्ते तर्हिसति
+॥15.7॥ ननु च त्वदीयं धाम प्राप्ताः सन्तो यदि न निवर्तन्ते तर्हिसति
 संपद्य न विदुः सति संपद्यामहे इत्यादिश्रुतेः सुषुप्तिप्रलयसमये
 त्वत्प्राप्तिः सर्वेषामस्तीति को नाम संसारी स्यादित्याशङ्क्य संसारिणं
 दर्शयति **-- ममेति पञ्चभिः।** ममैवांशो योऽयमविद्यया जीवभूतः सनातनः
@@ -469,71 +427,71 @@ _________________
 स्थितानि स्वोपाधिभूतानीन्द्रियाण्याकर्षति। विदुषां तु
 शुद्धस्वरूपप्राप्तेर्नावृत्तिरिति।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।15.7।। अनन्तवस्तु अवयव रहित होने के कारण अखण्ड और अविभाज्य है। तथापि
-उपाधियों के सम्बन्ध से उसमें खण्ड और विभाग होने का आभास निर्माण हो सकता
-है। जिस प्रकार सर्वगत आकाश का कोई आकार नहीं है; तथापि घट उपाधि से
-अवच्छिन्न होकर बना घटाकाश बाह्य महाकाश से भिन्न प्रतीत होता है। इसी
-प्रकार देहेन्द्रियादि से अवच्छिन्न (मर्यादित; सीमित) आत्मा जीव के रूप
-में आत्मा से भिन्न प्रतीत होता है। अथवा; जैसे आकाश में स्थित चन्द्रमा एक
-पात्र में स्थित जल में प्रतिबिम्बित होता है और वह प्रतिबिम्ब जल की
-स्थिति के अनुसार स्थिर या विच्छिन्न होता रहता है किन्तु प्रतिबिम्ब के
-छिन्नभिन्न होने का प्रभाव आकाशस्थ चन्द्रमा पर नहीं पड़ता। इसी प्रकार;
-मनबुद्धि रूप सूक्ष्म शरीर में व्यक्त चैतन्य जीव कहलाता है। अन्तकरण की
-वृत्तियों के अनुसार यह जीव स्वयं को सुखीदुखी; संसारी अनुभव करता है;
-किन्तु उसका शुद्ध चैतन्य स्वरूप सदा अविकारी ही रहता है; जो सनातन कहा गया
-है। उपर्युक्त विवेचन का तात्पर्य यह है कि आत्मा को प्राप्त हुआ जीवत्व
-अज्ञान के कारण है। अत वह जीवत्व आभासिक है; वास्तविक नहीं जैसे आकाश का
-एकदेशीयत्व और चन्द्रमा का प्रतिबिम्बित्व। अज्ञान का नाश हो जाने पर जीव
-स्वत आत्मस्वरूप बन जाता है। तत्पश्चात् ज्ञान की उपस्थिति में अज्ञान पुन
-नहीं लौटता; तब जीव का संसार में पुनरागमन होने का कारण ही नहीं रह जाता
-है। इसलिए; पूर्व श्लोक में कहा गया था कि भगवान् के परम धाम को प्राप्त
-हुये जीव पुन संसार को नहीं लौटते हैं। इसका पूर्व जन्म के सिद्धान्त से
-कोई विरोध नहीं है; क्योंकि जब तक अज्ञान बना रहता है; तब तक जीव का भी
-अस्तित्व बने रहने के कारण उसका पुनर्जन्म सद्ध हो सकता है। इस श्लोक की
-दूसरी पंक्ति का सम्बन्ध अगले श्लोक से है। इसमें देहत्याग के समय जीव का
-कार्य बताया गया है। यह स्थूल शरीर जड़ है और इसमें चैतन्य को व्यक्त करने
-की सार्मथ्य नहीं है। ज्ञानेन्द्रियाँ और अन्तकरण (मन और बुद्धि) सूक्ष्म
-शरीर कहलाते हैं। यद्यपि यह सूक्ष्म शरीर भी जड़ है; किन्तु इसमें चैतन्य
-व्यक्त हो सकता है। यह चेतन सूक्ष्म शरीर ही जीव है; जो किसी देह को धारण
-कर उसे चेतनता प्रदान करता है। यह जीव प्रकृतिस्थ इन्द्रियाँ तथा मन
-अर्थात् अन्तकरण को एकत्र कर लेता है। यहाँ प्रकृति का अर्थ है स्थूल शरीर
-में स्थित नेत्र; श्रोत्र आदि इन्द्रिय गोलक। यही कारण कि मृत देह में यह
-गोलक तो रह जाते हैं; परन्तु उनमें विषय ग्रहण की कोई सार्मथ्य नहीं
-होती। किस समय यह जीव इन इन्द्रियादि को अपने में समेट लेता है भगवान् कहते
-हैं
-
+15.7 An everlasting part of Myself, having become the bound self in the world of life, attracts the senses, of which the mind is the sixth, and which abide in Prakrti.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।15.7।। इस जीव लोक में मेरा ही एक सनातन अंश जीव बना है। वह प्रकृति में
-स्थित हुआ (देहत्याग के समय) पाँचो इन्द्रियों तथा मन को अपनी ओर खींच लेता
-है अर्थात् उन्हें एकत्रित कर लेता है।।  
-  
+<details><summary>गम्भीरानन्दः</summary>
 
+15.7 It is verily a part of Mine which, becoming the eternal individual soul in the region of living beings, draws (to itself) the organs which have the mind as their sixth, and which abide in Nature.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+15.7 It is only a very small part of My Eternal Self, which is the life of the universe, drawing round itself the six senses, the mind the last,
+which have their source in Nature.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+15.7. A portion just of My own Self, having become the eternal individual Soul in the world of the living ones, draws \[into service\]
+the sense organs, of which the sixth is the mind, and which rest in the Prakrti.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+15.7 An eternal portion of Myself having become a living soul in the world of life, draws to (itself) the (five) senses with the mind for the sixth, abiding in Nature.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+15.7 मम My; एव even; अंशः portion; जीवलोके in the world of life; जीवभूतः
+having become a soul; सनातनः eternal; मनःषष्ठानि with mind as the sixth;
+इन्द्रियाणि the (five) Indriyas; प्रकृतिस्थानि abiding in Prakriti;
+कर्षति draws (to itself).Commentary Now the Lord explains how the individual soul comes into being. The individual soul is a ray of the Lord. A ray of the Supreme Being enters Nature; draws to itself the five senses and the mind and becomes an embodied soul (Jiva) by assuming a body. Here is a description of how the subtle body or LingaSariria enters the gross body.Although the sun is reflected in water; it is not in any way tainted. When a crystal comes in,contact with a red cloth or red flower; it seems to be red but it is really not so. Even so the Supreme Beings is not in any way tainted by the actions of the individual soul.Ignorance is the limiting adjunct of the individual soul. On account of the limitation caused by this ignorance the soul experiences that it is the doer and the enjoyer. In essence the individual soul is identical with the Supreme Being or Brahman. When ignorance; the limiting adjunct or principle; is destroyed; the individual soul (Jiva) realises it identity with the Supreme Being
+(Brahman).Just as the ether in the pot becomes one with the universal ether when the limiting adjunct; the pot; is broken; so also the individual soul becomes one with Brahman when the limiting adjunct;
+ignorance; is annihilated. Just as there is no return of the potether after it has become one with the universal ether when the pot is destroyed; so also there is no return of the individual soul after the limiting adjunct (the Antahkarana; i.e.; mind and the other inner instruments) is destroyed. It becomes one with Brahman.Pratibimba
+(reflection) is only a portion of the Bimba (object). The reflected sun is only a portion of the real sun (the rays of the sun). When the water is removed the reflected sun goes back to the original sun; as it were.
+It does not return to the water again. Even so; when ignorance or the mind is annihilated; the Jiva (individual soul) which is a reflection of Brahman in ignorance is absorbed in the Bimba Brahman. It does not return to this world of birth and death.The individual soul is only an imaginary or fictitious portion of Brahman. It is not a real portion.
+For the Supreme Being is indivisible. It has no parts. If It has parts;
+It would be liable to destruction when the parts are disjointed or removed.The senses abide in Nature; in their respective seats such as ear; skin; tongue; eye and nose. A Sannyasi living in the caves of the Himalayas dreams that he is a married man and moves about hither and thither to get a job for his livelihood. Even so; the individual soul forgets its real divine nature; mistakes the impure; perishable body for the pure; immortal Self and imagines that it is the real actor and enjoyer by identifying itself with the body. It says; I am the Karta. I am the Bhokta. I am a soul bound by Samsara. I am happy. I am miserable.
+It becomes finite.In essence the Jiva is identical with Brahman. The difference is on account of delusion or imagination or superimposition.
+The illusion of difference is due to the limiting adjunct or principle
+(the mind) even as the illusion that the ether in the pot is different from the universal ether is caused by the limiting adjunct; viz.; the pot. Jivabrahmabhedabhranti (the delusion of the distinctior between the individual soul and the Supreme Being) is removed when the limiting adjunct (mind) is annihilated. In deep sleep the mind rests in a subtle state along with all the Samskaras (impressions) and Vasanas
+(tendencies) in its cause (primordial ignorance). Again it comes back from this state of ignorance when you return to the waking state. If the cause (ignorance) is destroyed by the knowledge of the Self; its effect
+(mind) is also annihilated.Just as the tortoise stretches out its head and feet which were in a state of Laya (absorption) in its body; so also the individual soul strecthces out its mind and senses which were in a state of absorption in primordial ignorance in deep sleep; to enjoy the sensual objects in the waking state.A ray of the Supreme Being enters Nature; draws to itself the five senses and the mind In this verse the formation of the astral body (LingaSarira or Sukshmasarira) is described.The Sruti declaresस एष इह प्रविष्टः आनखाग्रेभ्यः तत् सृष्ट्वा
+तदेवानुप्राविशत्।। That Supreme Being Itself; having created this aggregate of the body from the head to the toe; entered this body in the form of the Jiva.According to Vedanta there are nineteen principles;
+viz.; the five organs of knowledge; the five organs of action; the five vital airs (Prana; Apana; Vyana; Samana and Udana); the mind; intellect;
+Chitta (the subconscious or the unconscious mind); and egoism. We will have to conclude that the words the five senses and the mind point to the collection of the remaining thirteen principles also.Amsa This does not mean here a particle or portion which has been cut out. It is like the Amsar of the ether in the pot the ether is not cut out but still remains the whole ether. (Cf.XIV.3)
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.7।। इस संसारमें जीव बना हुआ आत्मा मेरा ही सनातन अंश है; परन्तु वह
 प्रकृतिमें स्थित मन और पाँचों इन्द्रियोंको आकर्षित करता है (अपना मान
 लेता है)।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।15.7।।***व्याख्या --***  **ममैवांशो जीवलोके जीवभूतः सनातनः --**
 जिनके साथ जीवकी तात्त्विक अथवा स्वरूपकी एकता नहीं है; ऐसे प्रकृति और
@@ -739,71 +697,49 @@ _________________
 ***सम्बन्ध --***  मनसहित इन्द्रियोंको अपना माननेके कारण जीव किस प्रकार
 उनको साथ लेकर अनेक योनियोंमें घूमता है -- इसका भगवान् दृष्टान्तसहित
 वर्णन करते हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-15.7. A portion just of My own Self, having become the eternal individual Soul in the world of the living ones, draws \[into service\]
-the sense organs, of which the sixth is the mind, and which rest in the Prakrti.
-
+।।15.7।। अनन्तवस्तु अवयव रहित होने के कारण अखण्ड और अविभाज्य है। तथापि
+उपाधियों के सम्बन्ध से उसमें खण्ड और विभाग होने का आभास निर्माण हो सकता
+है। जिस प्रकार सर्वगत आकाश का कोई आकार नहीं है; तथापि घट उपाधि से
+अवच्छिन्न होकर बना घटाकाश बाह्य महाकाश से भिन्न प्रतीत होता है। इसी
+प्रकार देहेन्द्रियादि से अवच्छिन्न (मर्यादित; सीमित) आत्मा जीव के रूप
+में आत्मा से भिन्न प्रतीत होता है। अथवा; जैसे आकाश में स्थित चन्द्रमा एक
+पात्र में स्थित जल में प्रतिबिम्बित होता है और वह प्रतिबिम्ब जल की
+स्थिति के अनुसार स्थिर या विच्छिन्न होता रहता है किन्तु प्रतिबिम्ब के
+छिन्नभिन्न होने का प्रभाव आकाशस्थ चन्द्रमा पर नहीं पड़ता। इसी प्रकार;
+मनबुद्धि रूप सूक्ष्म शरीर में व्यक्त चैतन्य जीव कहलाता है। अन्तकरण की
+वृत्तियों के अनुसार यह जीव स्वयं को सुखीदुखी; संसारी अनुभव करता है;
+किन्तु उसका शुद्ध चैतन्य स्वरूप सदा अविकारी ही रहता है; जो सनातन कहा गया
+है। उपर्युक्त विवेचन का तात्पर्य यह है कि आत्मा को प्राप्त हुआ जीवत्व
+अज्ञान के कारण है। अत वह जीवत्व आभासिक है; वास्तविक नहीं जैसे आकाश का
+एकदेशीयत्व और चन्द्रमा का प्रतिबिम्बित्व। अज्ञान का नाश हो जाने पर जीव
+स्वत आत्मस्वरूप बन जाता है। तत्पश्चात् ज्ञान की उपस्थिति में अज्ञान पुन
+नहीं लौटता; तब जीव का संसार में पुनरागमन होने का कारण ही नहीं रह जाता
+है। इसलिए; पूर्व श्लोक में कहा गया था कि भगवान् के परम धाम को प्राप्त
+हुये जीव पुन संसार को नहीं लौटते हैं। इसका पूर्व जन्म के सिद्धान्त से
+कोई विरोध नहीं है; क्योंकि जब तक अज्ञान बना रहता है; तब तक जीव का भी
+अस्तित्व बने रहने के कारण उसका पुनर्जन्म सद्ध हो सकता है। इस श्लोक की
+दूसरी पंक्ति का सम्बन्ध अगले श्लोक से है। इसमें देहत्याग के समय जीव का
+कार्य बताया गया है। यह स्थूल शरीर जड़ है और इसमें चैतन्य को व्यक्त करने
+की सार्मथ्य नहीं है। ज्ञानेन्द्रियाँ और अन्तकरण (मन और बुद्धि) सूक्ष्म
+शरीर कहलाते हैं। यद्यपि यह सूक्ष्म शरीर भी जड़ है; किन्तु इसमें चैतन्य
+व्यक्त हो सकता है। यह चेतन सूक्ष्म शरीर ही जीव है; जो किसी देह को धारण
+कर उसे चेतनता प्रदान करता है। यह जीव प्रकृतिस्थ इन्द्रियाँ तथा मन
+अर्थात् अन्तकरण को एकत्र कर लेता है। यहाँ प्रकृति का अर्थ है स्थूल शरीर
+में स्थित नेत्र; श्रोत्र आदि इन्द्रिय गोलक। यही कारण कि मृत देह में यह
+गोलक तो रह जाते हैं; परन्तु उनमें विषय ग्रहण की कोई सार्मथ्य नहीं
+होती। किस समय यह जीव इन इन्द्रियादि को अपने में समेट लेता है भगवान् कहते
+हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.7 It is verily a part of Mine which, becoming the eternal individual soul in the region of living beings, draws (to itself) the organs which have the mind as their sixth, and which abide in Nature.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।15.7।। इस जीव लोक में मेरा ही एक सनातन अंश जीव बना है। वह प्रकृति में
+स्थित हुआ (देहत्याग के समय) पाँचो इन्द्रियों तथा मन को अपनी ओर खींच लेता
+है अर्थात् उन्हें एकत्रित कर लेता है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.7 It is only a very small part of My Eternal Self, which is the life of the universe, drawing round itself the six senses, the mind the last,
-which have their source in Nature.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-15.7 An everlasting part of Myself, having become the bound self in the world of life, attracts the senses, of which the mind is the sixth, and which abide in Prakrti.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-15.7 An eternal portion of Myself having become a living soul in the world of life, draws to (itself) the (five) senses with the mind for the sixth, abiding in Nature.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-15.7 मम My; एव even; अंशः portion; जीवलोके in the world of life; जीवभूतः
-having become a soul; सनातनः eternal; मनःषष्ठानि with mind as the sixth;
-इन्द्रियाणि the (five) Indriyas; प्रकृतिस्थानि abiding in Prakriti;
-कर्षति draws (to itself).Commentary Now the Lord explains how the individual soul comes into being. The individual soul is a ray of the Lord. A ray of the Supreme Being enters Nature; draws to itself the five senses and the mind and becomes an embodied soul (Jiva) by assuming a body. Here is a description of how the subtle body or LingaSariria enters the gross body.Although the sun is reflected in water; it is not in any way tainted. When a crystal comes in,contact with a red cloth or red flower; it seems to be red but it is really not so. Even so the Supreme Beings is not in any way tainted by the actions of the individual soul.Ignorance is the limiting adjunct of the individual soul. On account of the limitation caused by this ignorance the soul experiences that it is the doer and the enjoyer. In essence the individual soul is identical with the Supreme Being or Brahman. When ignorance; the limiting adjunct or principle; is destroyed; the individual soul (Jiva) realises it identity with the Supreme Being
-(Brahman).Just as the ether in the pot becomes one with the universal ether when the limiting adjunct; the pot; is broken; so also the individual soul becomes one with Brahman when the limiting adjunct;
-ignorance; is annihilated. Just as there is no return of the potether after it has become one with the universal ether when the pot is destroyed; so also there is no return of the individual soul after the limiting adjunct (the Antahkarana; i.e.; mind and the other inner instruments) is destroyed. It becomes one with Brahman.Pratibimba
-(reflection) is only a portion of the Bimba (object). The reflected sun is only a portion of the real sun (the rays of the sun). When the water is removed the reflected sun goes back to the original sun; as it were.
-It does not return to the water again. Even so; when ignorance or the mind is annihilated; the Jiva (individual soul) which is a reflection of Brahman in ignorance is absorbed in the Bimba Brahman. It does not return to this world of birth and death.The individual soul is only an imaginary or fictitious portion of Brahman. It is not a real portion.
-For the Supreme Being is indivisible. It has no parts. If It has parts;
-It would be liable to destruction when the parts are disjointed or removed.The senses abide in Nature; in their respective seats such as ear; skin; tongue; eye and nose. A Sannyasi living in the caves of the Himalayas dreams that he is a married man and moves about hither and thither to get a job for his livelihood. Even so; the individual soul forgets its real divine nature; mistakes the impure; perishable body for the pure; immortal Self and imagines that it is the real actor and enjoyer by identifying itself with the body. It says; I am the Karta. I am the Bhokta. I am a soul bound by Samsara. I am happy. I am miserable.
-It becomes finite.In essence the Jiva is identical with Brahman. The difference is on account of delusion or imagination or superimposition.
-The illusion of difference is due to the limiting adjunct or principle
-(the mind) even as the illusion that the ether in the pot is different from the universal ether is caused by the limiting adjunct; viz.; the pot. Jivabrahmabhedabhranti (the delusion of the distinctior between the individual soul and the Supreme Being) is removed when the limiting adjunct (mind) is annihilated. In deep sleep the mind rests in a subtle state along with all the Samskaras (impressions) and Vasanas
-(tendencies) in its cause (primordial ignorance). Again it comes back from this state of ignorance when you return to the waking state. If the cause (ignorance) is destroyed by the knowledge of the Self; its effect
-(mind) is also annihilated.Just as the tortoise stretches out its head and feet which were in a state of Laya (absorption) in its body; so also the individual soul strecthces out its mind and senses which were in a state of absorption in primordial ignorance in deep sleep; to enjoy the sensual objects in the waking state.A ray of the Supreme Being enters Nature; draws to itself the five senses and the mind In this verse the formation of the astral body (LingaSarira or Sukshmasarira) is described.The Sruti declaresस एष इह प्रविष्टः आनखाग्रेभ्यः तत् सृष्ट्वा
-तदेवानुप्राविशत्।। That Supreme Being Itself; having created this aggregate of the body from the head to the toe; entered this body in the form of the Jiva.According to Vedanta there are nineteen principles;
-viz.; the five organs of knowledge; the five organs of action; the five vital airs (Prana; Apana; Vyana; Samana and Udana); the mind; intellect;
-Chitta (the subconscious or the unconscious mind); and egoism. We will have to conclude that the words the five senses and the mind point to the collection of the remaining thirteen principles also.Amsa This does not mean here a particle or portion which has been cut out. It is like the Amsar of the ether in the pot the ether is not cut out but still remains the whole ether. (Cf.XIV.3)
-
-</details>
 </div>

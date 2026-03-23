@@ -1,136 +1,120 @@
 +++
 title = "10 बीजम् माम्"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **बीजं** मां सर्व-भूतानां  
 **विद्धि** पार्थ सनातनम्।  
 बुद्धिर् बुद्धिमताम् अस्मि  
 तेजस् तेजस्विनाम् अहम्॥7.10॥+++(5)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम्।  
-बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम्।।7.10।।
+बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम्॥7.10॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।7.10।। एते सर्वे विलक्षणा भावा मत्त एव उत्पन्नाः मच्छेषभूता मच्छरीरतया
-मयि एव अवस्थिताः अतः तत्प्रकारः अहम् एव अवस्थितः।
-
+॥7.10॥ एते सर्वे विलक्षणा भावा मत्त एव उत्पन्ना मच्छेषभूता मच्छरीरतया मय्य् एव अवस्थिता अतस् तत्प्रकारो ऽहम् एव अवस्थितः।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।। 7.10 एवंभूमिरापः 7।4 इत्यादिना भेदश्रुत्यर्थ उपबृंहितःमयि सर्वम् 7।7
-इति तु घटकश्रुत्यर्थः अथ तदुभयनिर्वाहिताभेदश्रुत्यर्थोपबृंहणं क्रियत
-इत्यभिप्रायेणाह अत इति। केचित्मयि सर्वमिदम् इत्यस्य रसादिधर्मविशिष्टे
-मयि प्रोतमित्यर्थः तद्विवरणंरसोऽहम् इत्यादि इति व्याचख्युः तत्परिहारायाह
-सर्वस्य परमपुरुषशरीरत्वेनेति। परोक्ते त्वाधाराधेयभाववैपरीत्यादिदोष इति
-भावः। प्रकारवाचिशब्दानां प्रकारिणि पर्यवसानस्वाभाव्यं
-जातिगुणादिशब्देष्वपि सामान्यतः सिद्धमिति दर्शयितुं
-प्रकारत्वोपादानम्। अभिधानं मुख्यवृत्त्या बोधनम्। यद्यपि रसादिशब्दा लोके
-निष्कर्षकाः प्रयुज्यन्ते व्यधिकरणतया चात्रावादिद्रव्योपादानम् तथापि
-रसादीनां परमात्मशरीरभूतद्रव्यप्रकारत्वेन परमात्मनः
-प्रकारित्वाद्रसादिशब्दानां चात्र तत्समानाधिकरणतया प्रयोगात्तत्र
-निष्कर्षकत्वं नास्तीत्यभ्युपगन्तव्यम्। द्रव्योपादानं तु तत्रतत्र द्रव्ये
-प्रधानभूतरसगन्धादिप्रकारीभूतोऽहमिति ज्ञापनार्थम्। द्रव्यप्रकाराणां च
-तत्प्रकारत्वं काठिन्यवान् (न्येन)यो बिभर्ति वि.पु.1।14।28 इत्यादिषु
-प्रयुक्तमिति भावः। रसस्य पृथिव्यां वृत्तौ सत्यामप्यपां
-रूपादिगुणान्तरसद्भावेऽपिरसोऽहमप्सु इति विशिष्योपादानं
-तेजस्तत्त्वादब्रूपपरिणामस्य पूर्वतत्त्वानुत्पन्नरसप्रधानत्वात्। अन्यत्र
-चआत्तगन्धा तदा (ततो) भूमिः प्रलयत्वाय कल्पते वि.पु.6।4।14 इत्यादिना च
-पृथिव्यादीनां गन्धरसाद्यधीनत्वमुक्तम्। एवमुत्तरत्रापि प्राधान्यतो
-विशेषनिर्देशे यथोचितं भाव्यम्। प्रभा
-स्वाश्रयातिरिक्तप्रसारितेजोद्रव्यविशेषः। प्रभयैव चन्द्रसूर्यौ
-जगदुपकारहेतुभूताविति तौ तत्प्रधानौ। सर्वेषां वेदानां बीजत्वादिना
-तेषुप्रणवः प्रधानभूतः। पौरुषं पुरुषस्य भावः यतः पुरुषबुद्धिरित्येके
-सन्तानपरम्पराहेतुभूतं रेत इत्यपरे यद्वा पौरुषं सामर्थ्यं
-कर्तृत्वशक्तिरित्यर्थः तयैव हि कर्तुरात्मनः कारकान्तरेभ्यः प्राधान्यम्।
-नृषु जीवेष्वित्यर्थः। यद्वा पौरुषं पुंस्त्वम् स्त्रीनपुंसकव्यावृत्तः
-सत्त्वादिस्वभावविशेषः। नृशब्दश्च पुरुषपर्यायः। पुण्यो गन्धः
-तुलस्यादिगन्धः सुरभिगन्धमात्रं वा तद्योगेन हि पृथिवी सत्त्वोन्मेषस्य
-सुखस्य वा हेतुर्भवति। विभावसुरत्राग्निः। तत्र च तेजो दाहकत्वशक्तिः।
-भूतशब्देनात्र शरीरिणो गृह्यन्ते। सर्वशब्देनात्र ब्रह्मशर्वादीनामपि
-सङ्ग्रहः। तेषु जीवनं प्राणनम् प्राणस्थितिहेतुर्वा। येन सर्वाणि भूतानि
-जीवन्ति भूतेषूपजीवनीयं वा रूपम्। सर्वभूतानां सनातनं बीजं प्रकृतितत्त्वम्।
-अथवा प्रधानधर्मनिर्देशप्रकरणत्वाद्बीजशब्दोऽत्रोपादानत्वाख्यस्वभावपरः।
-सर्वेषां परिणामिद्रव्याणां स्वकार्यपरिणामसामर्थ्यमित्यर्थः। अथवा बीजं
-प्ररोहकारणं जङ्गमस्थावरभूतानां तत्तदुपादानद्रव्यम्। बुद्धिः अध्यवसायः
-ज्ञानमात्रं वा। तेजस्विनः प्रतापशीलाः तेषां तेजः अनभिभवनीयत्वं
-पराभिभवसामर्थ्यं वा। तेजोऽभिमान इति केचित् प्रागल्भ्यमित्यपरे। बलं
-धारणादिशक्तिः। कामरागवशात् स्वकार्ये प्रवृत्तस्य बलस्य
-परपीडादिहेतुत्वाद्धर्मोपयुक्तशरीरादिधारणमात्रादिविषयत्वायकामरागविवर्जितम्
-इत्युक्तम्। काम इच्छायाः काष्ठा प्राप्तदशा। राग इच्छा। यद्वा कामशब्दः
-काम्यपरः तद्विषयो रागः कामरागः भूतेषु देवमनुष्यादिरूपेणावस्थितेषु
-जन्तुषु। धर्माविरुद्धः कामः स्वदारप्रीत्यादिः। अथरसोऽहम्
-इत्यादिसामानाधिकरण्यं सहेतुकमुपपादयति एत इति। न चायं
-तदधीनसामर्थ्यप्रदर्शनार्थोराजा राष्ट्रम् इत्यादिवदारोपः मुख्यसम्भवे
-वृत्त्यन्तरायोगादिति भावः। एत
-इत्यनेनेश्वरव्यतिरिक्तैरशक्यक्रियत्वमभिप्रेतम्। सर्व इत्यनेन
-ब्रह्मरुद्रादिभिरन्यैश्च क्रियमाणानामपि
-ब्रह्मादिशरीरपरमात्माधीनसृष्टत्वम्अहं कृत्स्नस्य 7।6 इति पूर्वोक्तं
-स्मारितम्। वक्ष्यमाणराजसतामसेभ्यो वैलक्षण्यार्थमुक्तंविलक्षणा इति। मत्त
-एव पृथग्विधाः 10।5 इति च वक्ष्यते। एतेनन विलक्षणत्वादस्य ब्र.सू.2।1।4
-इत्यधिकरणार्थोऽपि स्मारितः। मत्त एवोत्पन्ना इत्यादि तत्तद्वस्त्वनुरूपं
-यथासम्भवं सामानाधिकरण्यहेतुः। गुणजातिशरीरेष्वनुगतः
-सामानाधिकरण्यहेतुरपृथक्सिद्धिरिति प्रदर्शनायोक्तंमय्येवावस्थिता इति।
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥ 7.10 एवम्भूमिरापः 7।4 इत्यादिना भेदश्रुत्यर्थ उपबृंहितःमयि सर्वम् 7।7 इति तु घटकश्रुत्यर्थः अथ तदुभयनिर्वाहिताभेदश्रुत्यर्थोपबृंहणं क्रियत इत्यभिप्रायेणाह अत इति। केचित्मयि सर्वमिदम् इत्यस्य रसादिधर्मविशिष्टे मयि प्रोतमित्यर्थः तद्विवरणंरसोऽहम् इत्यादि इति व्याचख्युः तत्परिहारायाह सर्वस्य परमपुरुषशरीरत्वेनेति। परोक्ते त्वाधाराधेयभाववैपरीत्यादिदोष इति भावः। प्रकारवाचिशब्दानां प्रकारिणि पर्यवसानस्वाभाव्यं जातिगुणादिशब्देष्वपि सामान्यतः सिद्धमिति दर्शयितुं प्रकारत्वोपादानम्। अभिधानं मुख्यवृत्त्या बोधनम्। यद्यपि रसादिशब्दा लोके निष्कर्षकाः प्रयुज्यन्ते व्यधिकरणतया चात्रावादिद्रव्योपादानं तथापि रसादीनां परमात्मशरीरभूतद्रव्यप्रकारत्वेन परमात्मनः प्रकारित्वाद्रसादिशब्दानां चात्र तत्समानाधिकरणतया प्रयोगात्तत्र निष्कर्षकत्वं नास्तीत्यभ्युपगन्तव्यम्। द्रव्योपादानं तु तत्रतत्र द्रव्ये प्रधानभूतरसगन्धादिप्रकारीभूतोऽहमिति ज्ञापनार्थम्। द्रव्यप्रकाराणां च तत्प्रकारत्वं काठिन्यवान् (न्येन)यो बिभर्ति वि.पु.1।14।28 इत्यादिषु प्रयुक्तमिति भावः। रसस्य पृथिव्यां वृत्तौ सत्यामप्यपां रूपादिगुणान्तरसद्भावेऽपिरसोऽहमप्सु इति विशिष्योपादानं तेजस्तत्त्वादब्रूपपरिणामस्य पूर्वतत्त्वानुत्पन्नरसप्रधानत्वात्। अन्यत्र चआत्तगन्धा तदा (ततो) भूमिः प्रलयत्वाय कल्पते वि.पु.6।4।14 इत्यादिना च पृथिव्यादीनां गन्धरसाद्यधीनत्वमुक्तम्। एवमुत्तरत्रापि प्राधान्यतो विशेषनिर्देशे यथोचितं भाव्यम्। प्रभा स्वाश्रयातिरिक्तप्रसारितेजोद्रव्यविशेषः। प्रभयैव चन्द्रसूर्यौ जगदुपकारहेतुभूताविति तौ तत्प्रधानौ। सर्वेषां वेदानां बीजत्वादिना तेषुप्रणवः प्रधानभूतः। पौरुषं पुरुषस्य भावः यतः पुरुषबुद्धिरित्येके सन्तानपरम्पराहेतुभूतं रेत इत्यपरे यद्वा पौरुषं सामर्थ्यं कर्तृत्वशक्तिरित्यर्थः तयैव हि कर्तुरात्मनः कारकान्तरेभ्यः प्राधान्यम्। नृषु जीवेष्वित्यर्थः। यद्वा पौरुषं पुंस्त्वं स्त्रीनपुंसकव्यावृत्तः सत्त्वादिस्वभावविशेषः। नृशब्दश्च पुरुषपर्यायः। पुण्यो गन्धः तुलस्यादिगन्धः सुरभिगन्धमात्रं वा तद्योगेन हि पृथिवी सत्त्वोन्मेषस्य सुखस्य वा हेतुर्भवति। विभावसुरत्राग्निः। तत्र च तेजो दाहकत्वशक्तिः। भूतशब्देनात्र शरीरिणो गृह्यन्ते। सर्वशब्देनात्र ब्रह्मशर्वादीनामपि सङ्ग्रहः। तेषु जीवनं प्राणनम् प्राणस्थितिहेतुर्वा। येन सर्वाणि भूतानि जीवन्ति भूतेषूपजीवनीयं वा रूपम्। सर्वभूतानां सनातनं बीजं प्रकृतितत्त्वम्। अथवा प्रधानधर्मनिर्देशप्रकरणत्वाद्बीजशब्दोऽत्रोपादानत्वाख्यस्वभावपरः। सर्वेषां परिणामिद्रव्याणां स्वकार्यपरिणामसामर्थ्यमित्यर्थः। अथवा बीजं प्ररोहकारणं जङ्गमस्थावरभूतानां तत्तदुपादानद्रव्यम्। बुद्धिः अध्यवसायः ज्ञानमात्रं वा। तेजस्विनः प्रतापशीलाः तेषां तेजः अनभिभवनीयत्वं पराभिभवसामर्थ्यं वा। तेजोऽभिमान इति केचित् प्रागल्भ्यमित्यपरे। बलं धारणादिशक्तिः। कामरागवशात् स्वकार्ये प्रवृत्तस्य बलस्य परपीडादिहेतुत्वाद्धर्मोपयुक्तशरीरादिधारणमात्रादिविषयत्वायकामरागविवर्जितम् इत्युक्तम्। काम इच्छायाः काष्ठा प्राप्तदशा। राग इच्छा। यद्वा कामशब्दः काम्यपरः तद्विषयो रागः कामरागः भूतेषु देवमनुष्यादिरूपेणावस्थितेषु जन्तुषु। धर्माविरुद्धः कामः स्वदारप्रीत्यादिः। अथरसोऽहम् इत्यादिसामानाधिकरण्यं सहेतुकमुपपादयति एत इति। न चायं तदधीनसामर्थ्यप्रदर्शनार्थोराजा राष्ट्रम् इत्यादिवदारोपः मुख्यसम्भवे वृत्त्यन्तरायोगादिति भावः। एत इत्यनेनेश्वरव्यतिरिक्तैरशक्यक्रियत्वमभिप्रेतम्। सर्व इत्यनेन ब्रह्मरुद्रादिभिरन्यैश्च क्रियमाणानामपि ब्रह्मादिशरीरपरमात्माधीनसृष्टत्वम्अहं कृत्स्नस्य 7।6 इति पूर्वोक्तं स्मारितम्। वक्ष्यमाणराजसतामसेभ्यो वैलक्षण्यार्थमुक्तंविलक्षणा इति। मत्त एव पृथग्विधाः 10।5 इति च वक्ष्यते। एतेनन विलक्षणत्वादस्य ब्र.सू.2।1।4 इत्यधिकरणार्थोऽपि स्मारितः। मत्त एवोत्पन्ना इत्यादि तत्तद्वस्त्वनुरूपं यथासम्भवं सामानाधिकरण्यहेतुः। गुणजातिशरीरेष्वनुगतः सामानाधिकरण्यहेतुरपृथक्सिद्धिरिति प्रदर्शनायोक्तम्मय्येवावस्थिता इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 7.8 - 7.11 All these entities with their peculiar characteristic are born from Me alone. They depend on Me; inasmuch as they constitute My body, they exist in Me alone. Thus I alone exist while all of them are only My modes.
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.10 7.11।। बीजमिति। बलमिति। बीजं सूक्ष्ममादिकारणम् (
-सूक्ष्मादिकारणम्)। कामरागविवर्जितं बलं सकलवस्तुधारणसमर्थम् ऊर्जोरूपम् (
-omits रूपम्)। कामः +++(S omits कामः)+++ इच्छा संविन्मात्ररूपा यस्या
-घटपटादिभिर्धर्मरूपैर्नास्ति विरोधः। इच्छा हि सर्वज्ञ भगवच्छक्तितया
-अनुयायिनी न क्वचिद्विरुध्यते धर्मैस्तु आगन्तुकैर्घटपटादिभिर्भिद्यते +++(S
-घटादिभिर्भि )+++ इति तदुपासकतया शुद्धसंवित्स्वभावत्वं ज्ञानिनः। उक्तं च
-शिवोपनिषदि इच्छायामथ वा ज्ञाने जाते चित्तं निवेशयेत् +++(V 98 )+++ इतिजाते एव
-न तु बाह्यप्रसृते इत्यर्थ। एवं व्याख्यानं त्यक्त्वा ये परस्परानुपघातकं
-त्रिवर्गं सेवेत इत्याशयेन व्याचक्षते ते संप्रदायक्रममजानानाः भगवद्रहस्यं
-च व्याचक्षणा नमस्कार्या एव।
-
+॥7.10॥ **बीजं** प्ररोहकारणं **मां विद्धि सर्वभूतानां** हे **पार्थ सनातनं** चिरन्तनम्। किञ्च **बुद्धिः** विवेकशक्तिः अन्तःकरणस्य **बुद्धिमतां** विवेकशक्तिमताम् **अस्मि तेजः** प्रागल्भ्यं तद्वतां **तेजस्विनाम् अहम्**॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.10 See Comment under 7.11
+<details><summary>गम्भीरानन्दः</summary>
 
+7.10 O Partha, viddhi, know, mam, Me; to be the sanatanam, eternal;
+bijam, seed, the source of growth; sarva-bhutanam, of all beings.
+Besides, I am the buddhih, intellect, the power of discrimination of the
+mind; buddhimatam, of the intelligent, of people having the power of
+discrimination. I am the tejah, courage; tejasvinam, of the courageous,
+of those possessed of that.
 </details>
+
+<details><summary>हरिकृष्णदासः</summary>
+
+॥7.10॥ हे पार्थ मुझे तू सब भूतोंका सनातन पुरातन बीज अर्थात् उनकी
+उत्पत्तिका मूल कारण जान। तथा मैं ही बुद्धिमानोंकी बुद्धि अर्थात्
+विवेकशक्ति और तेजस्वियों अर्थात् प्रभावशाली पुरुषोंका तेज प्रभाव हूँ।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥7.10॥ ननु सर्वाणि भूतानि स्वकारणे प्रोतानि कथं तेषां त्वयि प्रोतत्वं
+तत्राह **बीजमिति।** बीजान्तरापेक्षयानवस्थां वारयति **सनातनमिति।**
+चैतन्यस्याभिव्यञ्जकं तत्त्वनिश्चयसामर्थ्यं बुद्धिस्तद्वतां या
+बुद्धिस्तद्भूते मयि सर्वे बुद्धिमन्तः प्रोता भवन्तीत्याह **कि़ञ्चेति।**
+प्रागल्भ्यवतां यत्प्रागल्भ्यं तद्भूते मयि तद्वन्तः प्रोता इत्याह **तेज
+इति।** तद्धि प्रागल्भ्यं यत्पराभिभवसामर्थ्यं परैश्चाप्रधृष्यत्वम्।
+</details>
+
+<details><summary>नीलकण्ठः</summary>
+
+॥7.10॥ बीजं कारणम्। सर्वभूतानां पिण्डब्रह्माण्डात्मकानां बीजे मयि
+पिण्डादिकं प्रोतम्। कनके कुण्डलादिवत्। सनातनं नित्यं
+बीजान्तरादनुत्पन्नम्। बुद्धिरूपे मयि बुद्धिमन्तः प्रोताः। तेजः
+प्रागल्भ्यं तद्रूपे मयि प्रगल्भाः प्रोताः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥7.10॥ ननु सर्वाणि भूतानि स्वस्वकारणे प्रोतानि खतं तेषां त्वयि
+प्रोतत्वमित्याशङ्क्याह। बीजं जन्मादिकरणं सर्वभूतानां मां विद्धि जानीहि।
+यथा सर्वेषां पाण्डवानां युष्माकं साक्षान्माद्या मन्त्रदानेन परम्परया च
+पृथैव बीजं तथेति द्योतयन्नाह हे पार्थेति। बीजान्तरापेक्षयानवस्थां
+वारयति। सनातनं चिरन्तरनम्। बुद्धिरन्तःकरणस्य विवेकशक्तिर्बह्य सत्यं
+जगन्मिथ्येति विवेचनसामर्थ्यं तद्रूपे मयि बुद्धिमन्तः प्रोताः। तथा तेजसि
+प्रागल्म्यभूते मयि तेजस्विनः प्रोताः।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥7.10॥ सर्वाणि भूतानि स्वस्वबीजेषु प्रोतानि नतु त्वयीति चेन्नेत्याह
+यत्सर्वभूतानां स्थावरजङ्गमानामेकं बीजं कारणं सनातनं नित्यं
+बीजान्तरानपेक्षं नतु प्रतिव्यक्तिभिन्नमनित्यं वा तदव्याकृताख्यं सर्वबीजं
+मामेव विद्धि नतु मद्भिन्नं हे पार्थ अतो युक्तमेकस्मिन्नेव मयि सर्वबीजे
+प्रोतत्वं सर्वेषामित्यर्थः। किंच बुद्धिस्तत्त्वातत्त्वविवेकसामर्थ्यं
+तादृशबुद्धिमतामहमस्मि। बुद्धिरूपे मयि बुद्धिमन्तः प्रोताः। विशेषणाभावे
+विशिष्टाभावस्योक्तत्वात्। तथा तेजः प्रागल्भ्यं पराभिभवसामर्थ्यं
+परैश्चानभिभाव्यत्वं तेजस्विनां तथाविधप्रागल्भ्ययुक्तानां यत्तदहमस्मि।
+तेजोरूपे मयि तेजस्विनः प्रोता इत्यर्थः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.8 7.12।। इदं ज्ञानम्। रसोऽहमित्यादिविज्ञानम्। अबादयोऽपि तत एव। तथापि
+॥7.8 7.12॥ इदं ज्ञानम्। रसोऽहमित्यादिविज्ञानम्। अबादयोऽपि तत एव। तथापि
 रसादिस्वभावाना सागणां च स्वभावत्वे सारत्वे च विशेषतोऽपि स एव नियमाकः न
 त्वबादिनियमानुबद्धो रसादिस्तत्सारत्वादिश्चेति दर्शयति अप्सु रस
 इत्यादिविशेषशब्दैः। भोगश्च विशेषतो रसादेरिति च उपासनार्थं च। उक्तं च
@@ -157,13 +141,11 @@ _________________
 ह्यस्माच्छारीरात्पुरुषोत्तमः। अतोऽभोक्ता च भोक्ता च स्थूलाभोगात्स एव तु
 इति गीताकल्पे। न त्वहं तेष्विति तदनाधारत्वमुच्यते। उक्तं च तदाश्रितं
 जगत्सर्वं नासौ कुत्रचिदाश्रितः इति गीताकल्पे।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
-।।7.8 7.12।। भूमिः 7।4 इत्यादिनेत्यत्रावधेरनुक्तेःरसोऽहं इत्याद्यपि
+<details><summary>जयतीर्थः</summary>
+
+॥7.8 7.12॥ भूमिः 7।4 इत्यादिनेत्यत्रावधेरनुक्तेःरसोऽहं इत्याद्यपि
 ज्ञानप्रकरणमिति प्रतीतिः स्यात् तन्निरासाय तत्समाप्तिमाह **इदमि**ति।
 एतावता ग्रन्थेन ज्ञानं निरूपितमित्यर्थ। कुतोऽत्र ज्ञानप्रकरणस्य समाप्तिः
 इत्यत आह **रसोऽहमि**ति। इतिशब्दाद्यभावेऽपि प्रकरणान्तरारम्भ एव समाप्तिं
@@ -251,180 +233,100 @@ _________________
 त्वहं तेषु 7।12 इति कथमुच्यते इत्यत आह **न त्वहमि**ति। तदनाधारत्वं
 तदुपजीवनेन स्थित्यभावः। कुत एतत् इत्यत आह **उक्तं चे**ति। न केवलं
 मुक्तविरोधादिति चार्थः।
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.10।। **बीजं** प्ररोहकारणं **मां विद्धि सर्वभूतानां** हे **पार्थ
-सनातनं** चिरन्तनम्। किञ्च **बुद्धिः** विवेकशक्तिः अन्तःकरणस्य
-**बुद्धिमतां** विवेकशक्तिमताम् **अस्मि तेजः** प्रागल्भ्यं तद्वतां
-**तेजस्विनाम् अहम्**।।
-
+॥7.10 7.11॥ बीजमिति। बलमिति। बीजं सूक्ष्ममादिकारणम् ( सूक्ष्मादिकारणम्)। कामरागविवर्जितं बलं सकलवस्तुधारणसमर्थम् ऊर्जोरूपम् ( omits रूपम्)। कामः +++(S omits कामः)+++ इच्छा संविन्मात्ररूपा यस्या घटपटादिभिर्धर्मरूपैर्नास्ति विरोधः। इच्छा हि सर्वज्ञ भगवच्छक्तितया अनुयायिनी न क्वचिद्विरुध्यते धर्मैस्तु आगन्तुकैर्घटपटादिभिर्भिद्यते +++(S घटादिभिर्भि )+++ इति तदुपासकतया शुद्धसंवित्स्वभावत्वं ज्ञानिनः। उक्तं च शिवोपनिषदि इच्छायामथ वा ज्ञाने जाते चित्तं निवेशयेत् +++(V 98 )+++ इतिजाते एव न तु बाह्यप्रसृते इत्यर्थ। एवं व्याख्यानं त्यक्त्वा ये परस्परानुपघातकं त्रिवर्गं सेवेत इत्याशयेन व्याचक्षते ते संप्रदायक्रममजानानाः भगवद्रहस्यं च व्याचक्षणा नमस्कार्या एव।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।7.10।। हे पार्थ मुझे तू सब भूतोंका सनातन पुरातन बीज अर्थात् उनकी
-उत्पत्तिका मूल कारण जान। तथा मैं ही बुद्धिमानोंकी बुद्धि अर्थात्
-विवेकशक्ति और तेजस्वियों अर्थात् प्रभावशाली पुरुषोंका तेज प्रभाव हूँ।
+<details><summary>शङ्करनारायणः</summary>
 
+7.10 See Comment under 7.11
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.10 O Partha, viddhi, know, mam, Me; to be the sanatanam, eternal;
-bijam, seed, the source of growth; sarva-bhutanam, of all beings.
-Besides, I am the buddhih, intellect, the power of discrimination of the
-mind; buddhimatam, of the intelligent, of people having the power of
-discrimination. I am the tejah, courage; tejasvinam, of the courageous,
-of those possessed of that.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
-
-।।7.10।। ननु सर्वाणि भूतानि स्वकारणे प्रोतानि कथं तेषां त्वयि प्रोतत्वं
-तत्राह **बीजमिति।** बीजान्तरापेक्षयानवस्थां वारयति **सनातनमिति।**
-चैतन्यस्याभिव्यञ्जकं तत्त्वनिश्चयसामर्थ्यं बुद्धिस्तद्वतां या
-बुद्धिस्तद्भूते मयि सर्वे बुद्धिमन्तः प्रोता भवन्तीत्याह **कि़ञ्चेति।**
-प्रागल्भ्यवतां यत्प्रागल्भ्यं तद्भूते मयि तद्वन्तः प्रोता इत्याह **तेज
-इति।** तद्धि प्रागल्भ्यं यत्पराभिभवसामर्थ्यं परैश्चाप्रधृष्यत्वम्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
-
-।।7.10।। सर्वाणि भूतानि स्वस्वबीजेषु प्रोतानि नतु त्वयीति चेन्नेत्याह
-यत्सर्वभूतानां स्थावरजङ्गमानामेकं बीजं कारणं सनातनं नित्यं
-बीजान्तरानपेक्षं नतु प्रतिव्यक्तिभिन्नमनित्यं वा तदव्याकृताख्यं सर्वबीजं
-मामेव विद्धि नतु मद्भिन्नं हे पार्थ अतो युक्तमेकस्मिन्नेव मयि सर्वबीजे
-प्रोतत्वं सर्वेषामित्यर्थः। किंच बुद्धिस्तत्त्वातत्त्वविवेकसामर्थ्यं
-तादृशबुद्धिमतामहमस्मि। बुद्धिरूपे मयि बुद्धिमन्तः प्रोताः। विशेषणाभावे
-विशिष्टाभावस्योक्तत्वात्। तथा तेजः प्रागल्भ्यं पराभिभवसामर्थ्यं
-परैश्चानभिभाव्यत्वं तेजस्विनां तथाविधप्रागल्भ्ययुक्तानां यत्तदहमस्मि।
-तेजोरूपे मयि तेजस्विनः प्रोता इत्यर्थः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।7.10।। बीजं कारणम्। सर्वभूतानां पिण्डब्रह्माण्डात्मकानां बीजे मयि
-पिण्डादिकं प्रोतम्। कनके कुण्डलादिवत्। सनातनं नित्यं
-बीजान्तरादनुत्पन्नम्। बुद्धिरूपे मयि बुद्धिमन्तः प्रोताः। तेजः
-प्रागल्भ्यं तद्रूपे मयि प्रगल्भाः प्रोताः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।7.10।। ननु सर्वाणि भूतानि स्वस्वकारणे प्रोतानि खतं तेषां त्वयि
-प्रोतत्वमित्याशङ्क्याह। बीजं जन्मादिकरणं सर्वभूतानां मां विद्धि जानीहि।
-यथा सर्वेषां पाण्डवानां युष्माकं साक्षान्माद्या मन्त्रदानेन परम्परया च
-पृथैव बीजं तथेति द्योतयन्नाह हे पार्थेति। बीजान्तरापेक्षयानवस्थां
-वारयति। सनातनं चिरन्तरनम्। बुद्धिरन्तःकरणस्य विवेकशक्तिर्बह्य सत्यं
-जगन्मिथ्येति विवेचनसामर्थ्यं तद्रूपे मयि बुद्धिमन्तः प्रोताः। तथा तेजसि
-प्रागल्म्यभूते मयि तेजस्विनः प्रोताः।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।7.10।। सर्वभूतानां जीवानां सनातनं यद्बीजं कारणभूतं चैतन्यं तन्मां
+॥7.10॥ सर्वभूतानां जीवानां सनातनं यद्बीजं कारणभूतं चैतन्यं तन्मां
 विद्धि सम्मिश्ररूपमेकं निरूपितम्। बुद्धिमतां तेषां मध्ये या
 बुद्धिश्चिदात्मिका साऽहमस्मि। तेजस्विनां च तेषां मध्ये तेजोऽस्मि
 अहमात्मकमित्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।7.10।। किञ्चबीजमिति। हे पार्थ मत्कृपाश्रय सर्वभूतानां सनातनं नित्यं
+<details><summary>पुरुषोत्तमः</summary>
+
+॥7.10॥ किञ्चबीजमिति। हे पार्थ मत्कृपाश्रय सर्वभूतानां सनातनं नित्यं
 बीजं मां विद्धि। अत्रायं भावः पुरुषोत्तमलीलास्थजीवास्तदात्मका एव तदंशा
 एवात्र प्रकटीकृताः अन्यथा लीलोपयोगिनो न भवेयुः तेन तद्बीजजाता एतेऽपि
 सेवायोग्या इति सर्वेषां बीजं मां विद्धि तज्ज्ञानं स्वरूपज्ञानप्रयोजकमिति
 भावः। तथैव बुद्धिमतां मत्स्वरूपज्ञानकुशलप्रयत्नवतां बुद्धिः कौशलमस्मि।
-तेजस्विनां दुराधर्षिणां तेजो दुराधर्षता अहमस्मि।  
-  
-
+तेजस्विनां दुराधर्षिणां तेजो दुराधर्षता अहमस्मि।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।7.10।। किंच **बीजमिति।** सर्वेषां चराचराणां भूतानां बीजं
+॥7.10॥ किंच **बीजमिति।** सर्वेषां चराचराणां भूतानां बीजं
 सजातीयकार्योत्पादनसामर्थ्यं सनातनं नित्यमुत्तरोत्तरसर्वकार्येष्वनुस्यूतं
 तदेव बीजं मद्विभूतिं विद्धि नतु प्रतिव्यक्ति विनश्यत्। तथा बुद्धिमतां
 बुद्धिः प्रज्ञाहमस्मि। तेजस्विनां तेजः प्रागल्भ्यमहम्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।7.10।। परिपक्व बुद्धि के जिज्ञासुओं के लिये पूर्व के दो श्लोकों में
-दिये गये उदाहरण तत्त्व को समझने के लिए पर्याप्त हैं किन्तु मन्द बुद्धि
-के पुरुषों के लिए नहीं। अत यहाँ भगवान् श्रीकृष्ण कुछ और उदाहरण देते हैं।
-समस्त भूतों का सनातन कारण मैं हूँ। जैसे एक चित्रकार अपने चित्र को और
-अधिक स्पष्ट और सुन्दर बनाने के लिये नयेनये रंगों का प्रयोग करता है वैसे
-ही मानो अपने संक्षिप्त कथन से संतुष्ट न होकर भगवान् श्रीकृष्ण और भी अनेक
-दृष्टान्त देते हैं जिनके द्वारा हम दृश्य जड़ जगत् तथा अदृश्य चेतन
-आत्मतत्त्व के सम्बन्ध को समझ सकें। बुद्धिमानों की बुद्धि मैं हूँ एक
-बुद्धिमान व्यक्ति अपने आदर्शों तथा विचारों के माध्यम से अपने दिव्य
-स्वरूप को व्यक्त कर पाता है। उस बुद्धिमान् पुरुष के बुद्धि की वास्तविक
-सार्मथ्य आत्मा के कारण ही संभव है। उसी प्रकार तेजस्वियों का तेज भी आत्मा
-ही है। दूसरे शब्दों में कहा जा सकता है कि आत्मा ही बुद्धि उपाधि के द्वारा
-बुद्धिमान व्यक्ति के रूप में प्रकट होता है। जैसे विद्युत ही बल्ब में
-प्रकाश हीटर में उष्णता और रेडियो में संगीत के रूप में व्यक्त होती है। आगे
-कहते हैं
-
+7.10 Know Me to be, O Arjuna, the primeval seed of all beings. I am the intelligence of the discerning, and the brilliance of the brilliant.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।7.10।। हे पार्थ ! सम्पूर्ण भूतों का सनातन बीज (कारण) मुझे ही जानो; मैं
-बुद्धिमानों की बुद्धि और तेजस्वियों का तेज हूँ।।
+<details><summary>गम्भीरानन्दः</summary>
 
+7.10 O Partha, know Me to be the eternal Seed of all beings. I am the intellect of the intelligent, I am the courage of the courageous.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+7.10 Know, O Arjuna, that I am the eternal Seed of being; I am the Intelligence of the intelligent, the Splendour of the resplendent.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+7.10. O son of Prtha ! Know Me as the eternal seed of all beings; I am the intellect of the intellectuals and the brillinace of the brilliant.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+7.10 Know Me, O Arjuna, as the eternal seed of all beings; I am the intelligence of the intelligent; the splendour of the splendid objects am I.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+7.10 बीजम् seed; माम् Me; सर्वभूतानाम् of all beings; विद्धि know; पार्थ
+O Partha; सनातनम् eternal; बुद्धिः intelligence; बुद्धिमताम् of the intelligent; अस्मि am (I); तेजः splendour; तेजस्विनाम् of the splendid;
+अहम् I.Commentary Seed means cause.Tejas also means heroism or bravery.Had Arjuna asked; Who is the seed for Thee; the Lord would have replied; There is no seed for Me. There is no cause for Me. I am the source of everything. I am the causeless Cause. I am the primeval Being.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.10।। हे पृथानन्दन ! सम्पूर्ण प्राणियोंका अनादि बीज मुझे जान।
 बुद्धिमानोंमें बुद्धि और तेजस्वियोंमें तेज मैं हूँ।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।7.10।।***व्याख्या--*'बीजं मां सर्वभूतानां विद्धि** (टिप्पणी प₀ 405)
 **पार्थ सनातनम्'--**हे पार्थ ! सम्पूर्ण प्राणियोंका सनातन (अविनाशी) बीज
@@ -448,54 +350,31 @@ _________________
 होनेसे वहाँ 'बीज' शब्द जीवात्माका वाचक है। 'बीज' शब्द जीवात्माका वाचक
 तभी होता है, जब यह जडके साथ अपना सम्बन्ध मान लेता है, नहीं तो यह
 भगवान्का स्वरूप ही है।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-7.10. O son of Prtha ! Know Me as the eternal seed of all beings; I am the intellect of the intellectuals and the brillinace of the brilliant.
-
+।।7.10।। परिपक्व बुद्धि के जिज्ञासुओं के लिये पूर्व के दो श्लोकों में
+दिये गये उदाहरण तत्त्व को समझने के लिए पर्याप्त हैं किन्तु मन्द बुद्धि
+के पुरुषों के लिए नहीं। अत यहाँ भगवान् श्रीकृष्ण कुछ और उदाहरण देते हैं।
+समस्त भूतों का सनातन कारण मैं हूँ। जैसे एक चित्रकार अपने चित्र को और
+अधिक स्पष्ट और सुन्दर बनाने के लिये नयेनये रंगों का प्रयोग करता है वैसे
+ही मानो अपने संक्षिप्त कथन से संतुष्ट न होकर भगवान् श्रीकृष्ण और भी अनेक
+दृष्टान्त देते हैं जिनके द्वारा हम दृश्य जड़ जगत् तथा अदृश्य चेतन
+आत्मतत्त्व के सम्बन्ध को समझ सकें। बुद्धिमानों की बुद्धि मैं हूँ एक
+बुद्धिमान व्यक्ति अपने आदर्शों तथा विचारों के माध्यम से अपने दिव्य
+स्वरूप को व्यक्त कर पाता है। उस बुद्धिमान् पुरुष के बुद्धि की वास्तविक
+सार्मथ्य आत्मा के कारण ही संभव है। उसी प्रकार तेजस्वियों का तेज भी आत्मा
+ही है। दूसरे शब्दों में कहा जा सकता है कि आत्मा ही बुद्धि उपाधि के द्वारा
+बुद्धिमान व्यक्ति के रूप में प्रकट होता है। जैसे विद्युत ही बल्ब में
+प्रकाश हीटर में उष्णता और रेडियो में संगीत के रूप में व्यक्त होती है। आगे
+कहते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.10 O Partha, know Me to be the eternal Seed of all beings. I am the intellect of the intelligent, I am the courage of the courageous.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।7.10।। हे पार्थ ! सम्पूर्ण भूतों का सनातन बीज (कारण) मुझे ही जानो; मैं
+बुद्धिमानों की बुद्धि और तेजस्वियों का तेज हूँ।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.10 Know, O Arjuna, that I am the eternal Seed of being; I am the Intelligence of the intelligent, the Splendour of the resplendent.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-7.10 Know Me to be, O Arjuna, the primeval seed of all beings. I am the intelligence of the discerning, and the brilliance of the brilliant.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-7.10 Know Me, O Arjuna, as the eternal seed of all beings; I am the intelligence of the intelligent; the splendour of the splendid objects am I.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-7.10 बीजम् seed; माम् Me; सर्वभूतानाम् of all beings; विद्धि know; पार्थ
-O Partha; सनातनम् eternal; बुद्धिः intelligence; बुद्धिमताम् of the intelligent; अस्मि am (I); तेजः splendour; तेजस्विनाम् of the splendid;
-अहम् I.Commentary Seed means cause.Tejas also means heroism or bravery.Had Arjuna asked; Who is the seed for Thee; the Lord would have replied; There is no seed for Me. There is no cause for Me. I am the source of everything. I am the causeless Cause. I am the primeval Being.
-
-</details>
 </div>

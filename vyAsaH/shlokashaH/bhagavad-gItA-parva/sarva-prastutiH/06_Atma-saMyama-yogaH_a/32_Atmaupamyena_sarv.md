@@ -1,149 +1,55 @@
 +++
 title = "32 आत्मौपम्येन सर्वत्र"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 **आत्मौपम्येन** सर्वत्र  
 **समं पश्यति** योऽर्जुन।  
 सुखं वा यदि वा दुःखं  
 सः योगी परमो मतः॥6.32॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन।  
-सुखं वा यदि वा दुःखं सः योगी परमो मतः।।6.32।।
+सुखं वा यदि वा दुःखं सः योगी परमो मतः॥6.32॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।6.32।। आत्मनः च अन्येषां च आत्मनाम् असंकुचितज्ञानैकाकारतया **औपम्येन**
-स्वात्मनि च अन्येषु **सर्वत्र** वर्तमानं पुत्रजन्मादिरूपं **सुखं**
-तन्मरणादिरूपं च **दुःखम्** असम्बन्धसाम्यात् **समं यः पश्यति**
-परपुत्रजन्ममरणादिसमं स्वपुत्रजन्ममरणादिकं यः पश्यति इत्यर्थः। **स योगी**
-परमयोगकाष्ठं गतो **मतः।**
-
+॥6.32॥ आत्मनश् च अन्येषां च आत्मनाम् असङ्कुचितज्ञानैकाकारतया **औपम्येन** स्वात्मनि च अन्येषु **सर्वत्र** वर्तमानं पुत्रजन्मादिरूपं **सुखं** तन्मरणादिरूपं च **दुःखम्** असम्बन्धसाम्यात् **समं यः पश्यति** परपुत्रजन्ममरणादिसमं स्वपुत्रजन्ममरणादिकं यः पश्यति इत्यर्थः। **स योगी** परमयोगकाष्ठं गतो **मतः।**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।6.32।। प्रबलदुःखहेत्वागमेऽपि निर्विकारत्वापादिकां योगविपाककाष्ठाभूतां
-कर्मज्ञानतारतम्यप्रयुक्तसुखदुःखतारतम्यनिवृत्त्यनुसन्धानरूपां चतुर्थीं
-दशामाहेत्याह ततोऽपि काष्ठामाहेति। आत्मौपम्येन इत्यस्य न पश्यतिनाऽन्वयः
-सममित्यनेन पौनरुक्त्यप्रसङ्गात्। अतः सर्वत्रात्मौपम्येनेत्यन्वयः।
-उपमाशब्दस्तुल्यवचनः। तस्य भाव औपम्यं सर्वेषामात्मनां पूर्वोक्तेन
-देहविलक्षणत्वादिसाम्येनेत्यर्थः। सर्वत्र इत्येतदेव काकाक्षिन्यायेनसमं
-पश्यति इत्यत्राप्यन्वितम्।
-सर्वेषामत्यन्तविषमतयाउपलक्ष्यमाणसुखदुःखान्वयसाम्यभ्रमव्युदासेन
-व्यतिरेकसाम्यानुसन्धानं दर्शयति असम्बन्धसाम्यादिति।
-परेष्वसम्बन्धानुसन्धानस्य निष्प्रयोजनत्वादिहाभिप्रेतमाह परेति।
-परंपुत्रजन्मादेः स्वात्मनि स्वपुत्रजन्मादेश्च परेषु यथा न सम्बन्धः तथा
-स्वात्मन्यपीत्युक्तं भवति। परमशब्दाभिप्रेतमाहपरमयोगकाष्ठां गतो मत इति।
-जीवात्मयोगकाष्ठेयम् परमात्मयोगस्य परस्ताद्वक्ष्यमाणत्वात्।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥6.32॥ प्रबलदुःखहेत्वागमेऽपि निर्विकारत्वापादिकां योगविपाककाष्ठाभूतां कर्मज्ञानतारतम्यप्रयुक्तसुखदुःखतारतम्यनिवृत्त्यनुसन्धानरूपां चतुर्थीं दशामाहेत्याह ततोऽपि काष्ठामाहेति। आत्मौपम्येन इत्यस्य न पश्यतिनाऽन्वयः सममित्यनेन पौनरुक्त्यप्रसङ्गात्। अतः सर्वत्रात्मौपम्येनेत्यन्वयः। उपमाशब्दस्तुल्यवचनः। तस्य भाव औपम्यं सर्वेषामात्मनां पूर्वोक्तेन देहविलक्षणत्वादिसाम्येनेत्यर्थः। सर्वत्र इत्येतदेव काकाक्षिन्यायेनसमं पश्यति इत्यत्राप्यन्वितम्। सर्वेषामत्यन्तविषमतयाउपलक्ष्यमाणसुखदुःखान्वयसाम्यभ्रमव्युदासेन व्यतिरेकसाम्यानुसन्धानं दर्शयति असम्बन्धसाम्यादिति। परेष्वसम्बन्धानुसन्धानस्य निष्प्रयोजनत्वादिहाभिप्रेतमाह परेति। परम्पुत्रजन्मादेः स्वात्मनि स्वपुत्रजन्मादेश्च परेषु यथा न सम्बन्धः तथा स्वात्मन्यपीत्युक्तं भवति। परमशब्दाभिप्रेतमाहपरमयोगकाष्ठां गतो मत इति। जीवात्मयोगकाष्ठेयम् परमात्मयोगस्य परस्ताद्वक्ष्यमाणत्वात्।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.32 (iv) He who - because of the similarity between his own self and other selves, as they are all constituted similarly of uncontracted knowledge in their essential being - views the pleasures in the form of the birth of a son and the sorrows in the form of the death of a son of his own and of others, as eal, on the ground of their eal unrelatedness to such pleasures and pains to him. Viewing his own pleasures and pains of the above description as being not different from those of others of the same kind - tht Yogin is deemed the highest; he is judged as having reached the summit of Yoga. \[The idea is to prevent misconstruing the verse as meaning that one shares the joy and misery of all as his own.
-It means only that the highest type of yogins understand that the self is unrelated to the pain and pleasures of his own body-mind. He understands also that the same is the case with other selves.\]
+<details><summary>आदिदेवानन्दः</summary>
 
+6.32 (iv) He who - because of the similarity between his own self and other selves, as they are all constituted similarly of uncontracted knowledge in their essential being - views the pleasures in the form of the birth of a son and the sorrows in the form of the death of a son of his own and of others, as eal, on the ground of their eal unrelatedness to such pleasures and pains to him. Viewing his own pleasures and pains of the above description as being not different from those of others of the same kind - tht Yogin is deemed the highest; he is judged as having reached the summit of Yoga. \[The idea is to prevent misconstruing the verse as meaning that one shares the joy and misery of all as his own. It means only that the highest type of yogins understand that the self is unrelated to the pain and pleasures of his own body-mind. He understands also that the same is the case with other selves.\]
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।6.32।। आत्मौपम्येनेति। सर्वस्य च सुखदुःखे आत्मतुल्यतया पश्यतीति
-स्वरूपमेतदनूदितम् न पुनरेषोऽपूर्वो विधिः।
-
+॥6.32॥ आत्मौपम्येन आत्मा स्वयमेव उपमीयते अनया इत्युपमा तस्या उपमाया भावः औपम्यं तेन आत्मौपम्येन सर्वत्र सर्वभूतेषु समं तुल्यं **पश्यति यः अर्जुन** स च किं समं पश्यति इत्युच्यते यथा मम **सुखम्** इष्टं तथा सर्वप्राणिनां सुखम् अनुकूलम्। **वा**शब्दः चार्थे। **यदि वा** यच्च **दुःखं** मम प्रतिकूलम् अनिष्टं यथा तथा सर्वप्राणिनां दुःखम् अनिष्टं प्रतिकूलं इत्येवम् आत्मौपम्येन सुखदुःखे अनुकूलप्रतिकूले तुल्यतया सर्वभूतेषु समं पश्यति न कस्यचित् प्रतिकूलमाचरति अहिंसक इत्यर्थः। यः एवमहिंसकः सम्यग्दर्शननिष्ठः **स योगी परमः** उत्कृष्टः **मतः** अभिप्रेतः सर्वयोगिनां मध्ये॥ एतस्य यथोक्तस्य सम्यग्दर्शनलक्षणस्य योगस्य दुःखसंपाद्यतामालक्ष्य शुश्रूषुः ध्रुवं तत्प्राप्त्युपायम् **अर्जुन उवाच**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.32 Atma-etc. 'That he finds the pleasure and pain of all on analogy of
-himself'. This is only a statement of characteristic mark \[of the
-Yogin\]; and it is not an injunction enjoining a new action.
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।6.32।। साम्यं प्रकारान्तरेण व्याचष्टे आत्मौपम्येनेति।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।6.32।। सर्वत्र समदर्शनः 5।29 इत्यस्यान्यथाव्याख्यानमितोऽप्यसदिति
-भावेनाह **साम्यमि**ति। साम्यदर्शनम्। समदर्शन इत्युक्ते किं
-गोनवयादिवद्भवति सम्यग्दर्शनमित्याकाङ्क्षायामेकत्वमास्थित इति स्वयमेव
-व्याख्यातम्। इदानीं तु भगवदनुवर्तिविषयतयाऽपि व्याचष्ट इत्यर्थः।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।6.32।। आत्मौपम्येन आत्मा स्वयमेव उपमीयते अनया इत्युपमा तस्या उपमाया
-भावः औपम्यं तेन आत्मौपम्येन सर्वत्र सर्वभूतेषु समं तुल्यं **पश्यति यः
-अर्जुन** स च किं समं पश्यति इत्युच्यते यथा मम **सुखम्** इष्टं तथा
-सर्वप्राणिनां सुखम् अनुकूलम्। **वा**शब्दः चार्थे। **यदि वा** यच्च
-**दुःखं** मम प्रतिकूलम् अनिष्टं यथा तथा सर्वप्राणिनां दुःखम् अनिष्टं
-प्रतिकूलं इत्येवम् आत्मौपम्येन सुखदुःखे अनुकूलप्रतिकूले तुल्यतया
-सर्वभूतेषु समं पश्यति न कस्यचित् प्रतिकूलमाचरति अहिंसक इत्यर्थः। यः
-एवमहिंसकः सम्यग्दर्शननिष्ठः **स योगी परमः** उत्कृष्टः **मतः** अभिप्रेतः
-सर्वयोगिनां मध्ये।। एतस्य यथोक्तस्य सम्यग्दर्शनलक्षणस्य योगस्य
-दुःखसंपाद्यतामालक्ष्य शुश्रूषुः ध्रुवं तत्प्राप्त्युपायम् **अर्जुन
-उवाच**
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।6.32।। तथा और भी कहते हैं आत्मा अर्थात् स्वयं आप और जिसके द्वारा उपमित
-किया जाय वह उपमा उस उपमाके भावको ( सादृश्यको ) औपम्य कहते हैं। हे अर्जुन
-उस आत्मौपम्यद्वारा अर्थात् अपनी सदृशतासे जो योगी सर्वत्र सब भूतोंमें
-तुल्य देखता है। वह तुल्य क्या देखता है सो कहते हैं जैसे मुझे सुख प्रिय
-है वैसे ही सभी प्राणियोंको सुख अनुकूल है और जैसे दुःख मुझे अप्रिय
-प्रतिकूल है वैसे ही वह सब प्राणियोंको अप्रिय प्रतिकूल है। इस प्रकार जो
-सब प्राणियोंमें अपने समान ही सुख और दुःखको तुल्यभावसे अनुकूल और प्रतिकूल
-देखता है किसीके भी प्रतिकूल आचरण नहीं करता यानी अहिंसक है। यहाँ वा
-शब्दका प्रयोग च के अर्थमें हुआ है। जो इस प्रकारका अहिंसक पुरुष पूर्ण
-ज्ञानमें स्थित है वह योगी अन्य सब योगियोंमें परम उत्कृष्ट माना जाता है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 6.32 Atma-aupamyena: Atma means the self, i.e. oneself. That by which a
 comparison is made is an upama. The abstract from of that is aupamya.
@@ -163,26 +69,58 @@ paramah matah, is considered as the best among all the yogis. Noticing
 that his Yoga-as spoken of and consisting in full Illumination- is hard
 to acire, Arjuna, with a view to hearing the sure means to its
 attainment, said:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।6.32।। स्वैराचरणस्याप्रतिबन्धकत्वकथनात्परपीडनस्य योगिनः सम्यग्दर्शनं
+<details><summary>हरिकृष्णदासः</summary>
+
+॥6.32॥ तथा और भी कहते हैं आत्मा अर्थात् स्वयं आप और जिसके द्वारा उपमित
+किया जाय वह उपमा उस उपमाके भावको ( सादृश्यको ) औपम्य कहते हैं। हे अर्जुन
+उस आत्मौपम्यद्वारा अर्थात् अपनी सदृशतासे जो योगी सर्वत्र सब भूतोंमें
+तुल्य देखता है। वह तुल्य क्या देखता है सो कहते हैं जैसे मुझे सुख प्रिय
+है वैसे ही सभी प्राणियोंको सुख अनुकूल है और जैसे दुःख मुझे अप्रिय
+प्रतिकूल है वैसे ही वह सब प्राणियोंको अप्रिय प्रतिकूल है। इस प्रकार जो
+सब प्राणियोंमें अपने समान ही सुख और दुःखको तुल्यभावसे अनुकूल और प्रतिकूल
+देखता है किसीके भी प्रतिकूल आचरण नहीं करता यानी अहिंसक है। यहाँ वा
+शब्दका प्रयोग च के अर्थमें हुआ है। जो इस प्रकारका अहिंसक पुरुष पूर्ण
+ज्ञानमें स्थित है वह योगी अन्य सब योगियोंमें परम उत्कृष्ट माना जाता है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥6.32॥ स्वैराचरणस्याप्रतिबन्धकत्वकथनात्परपीडनस्य योगिनः सम्यग्दर्शनं
 प्रत्यप्रतिबन्धकत्वप्रसक्तावुक्तं **किञ्चेति।** अन्यदपि किञ्चिदुच्यते
 परमयोगिनो निर्देशद्वारा योगमाहात्म्यमित्यर्थः। उपमैवोपम्यमात्मा च
 तदौपम्यं च तेन सर्वभूतेषु यः समं पश्यतीत्युक्ते तदेव समदर्शनं
 प्रश्नपूर्वकं विवृणोति **किमित्यादिना।** विकल्पार्थत्वं वारयति **वाशब्द
 इति।** उपदर्शितसमदर्शनफलमभिलषति **न कस्यचिदिति।** किमपेक्षया तस्य
 परमत्वं तत्राह **सर्वेति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।6.32।। एवमुत्पन्नेऽपि तत्त्वबोधे
+<details><summary>नीलकण्ठः</summary>
+
+॥6.32॥ यद्यपि निषिद्धकर्मणाप्यात्मविन्न बध्यते तथापि शीलवानेव योगी
+श्रेष्ठ इत्याह **आत्मौपम्येनेति।** यथा स्वस्य सुखमिष्टं दुःखमनिष्टं
+तद्वत्परस्यापीति बुद्ध्या योऽन्यस्मै दुःखं न प्रयच्छति सोऽहिंसकः परमयोगी
+मत इत्यर्थः।
+</details>
+
+<details><summary>धनपतिः</summary>
+
+॥6.32॥ ननु सर्वथा वर्तमानोऽपीत्युक्त्या कस्यचिहुःखहेतुभूतापि तस्य
+प्रवृत्तिः प्राप्तेति चेत्तर्हि तल्लक्षणं श्रृण्वित्याशयेनाह आत्मेति।
+आत्मा स्वयमेव उपमाया भाव औपम्ायं तेन यः सर्वेषु भूतेषु। वाशब्दौ चार्थे।
+सुथं च यच्च दुःखं समं पश्यति यथा मम सुखदुःखे अनुकूलप्रतिकूले तथा
+सर्वस्यापीति तुल्यतया सर्वत्र समं पश्यति। न कस्यचित्प्रतिकुल माचरति
+अहिंसक इत्यर्थः। स सर्वेषां योगिनां मध्ये परमः श्रेष्ठो योगी मे मम मतः
+अमिमतः। तथाच महता प्रय्त्नेनापि परमयोगित्वलाभाय एतलक्षणं
+संपादनीयमित्याशयः। यद्यपि यः सर्वप्रकारेण वर्तते सोऽपि मुच्यत एव।
+तथाप्यत्र निषिद्धाद्याचरणात्सकलङ्गो भवति। अयं तु तथात्वाभावादत्रापि
+निष्कलङ्कः शुद्ध इति सूचयन्नाह अर्जुनेति।
+</details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥6.32॥ एवमुत्पन्नेऽपि तत्त्वबोधे
 कश्चिन्मनोनाशवासनाक्षययोरभावाज्जीवन्मुक्तिसुखं नानुभवति चित्तविक्षेपेण च
 दृष्टदुःखमनुभवति सोऽपरमो योगी देहपाते कैवल्यभागित्वाद्देहसद्भावपर्यन्तं
 च दृष्टदुःखानुभवात् तत्त्वज्ञानमनोनाशवासनाक्षयाणां तु
@@ -211,8 +149,8 @@ attainment, said:
 रागद्वेषादिरूपा वासना क्षीयते। क्षीणायां च वासनायां
 प्रतिबन्धाभावात्तत्त्वज्ञानोदय इति परस्परकारणत्वं दर्शनीयम्। अतएव
 भगवान्वसिष्ठ आहतत्त्वज्ञानं मनोनाशो वासनाक्षय एव च। मिथः करणतां गत्वा
-दुःसाध्यानि स्थितानि हि।। तस्माद्राघव यत्नेन पौरुषेण विवेकिना। भोगेच्छां
-दुरतस्त्यक्त्वा त्रयमेतत्समाश्रयेत।। इति। पौरुषो यत्नः
+दुःसाध्यानि स्थितानि हि॥ तस्माद्राघव यत्नेन पौरुषेण विवेकिना। भोगेच्छां
+दुरतस्त्यक्त्वा त्रयमेतत्समाश्रयेत॥ इति। पौरुषो यत्नः
 केनाप्युपायेनावश्यं संपादयिष्यामीत्येवंविधोत्साहरूपो निर्बन्धः। विवेको
 नाम विविच्य निश्चयः। तत्त्वज्ञानस्य श्रवणादिकं साधनं मनोनाशस्य योगः
 वासनाक्षयस्य प्रतिकूलवासनोत्पादनमिति। एतादृशविवेकयुक्तेन पौरुषेण
@@ -242,7 +180,7 @@ attainment, said:
 प्राक्सिद्धे तत्त्वज्ञाने न प्रयत्नापेक्षा किंतु मनोनाशवासनाक्षयौ
 प्रयत्नसाध्याविति। तत्र मनोनाशोऽसंप्रज्ञातसमाधिनिरूपणेन निरूपितः प्राक्।
 वासनाक्षयस्त्विदानीं निरूप्यते। तत्र वासनास्वरूपं वसिष्ठ आहदृढभावनया
-त्यक्तपूर्वापरविचारणम्। यदादानं पदार्थस्य वासना सा प्रकीर्तिता।। अत्रच
+त्यक्तपूर्वापरविचारणम्। यदादानं पदार्थस्य वासना सा प्रकीर्तिता॥ अत्रच
 स्वस्वदेशाचारकुलधर्मस्वभावभेदतद्गतापशब्दसुशब्दादिषु प्राणिनामभिनिवेशः
 सामान्येनोदाहरणम्। सा च वासना द्विविधा मलिना शुद्धा च। शुद्धा दैवी
 सम्पत् शास्त्रसंस्कारप्राबल्यात्तत्त्वज्ञानसाधनत्वेनैकरूपैव। मलिना तु
@@ -267,7 +205,7 @@ attainment, said:
 निरूपिता। आभ्यन्तरवासना तु कामक्रोधदम्भदर्पाद्यासुरसंपद्रूपा
 सर्वानर्थमूलं मानसी वासनेत्युच्यते। तदेवं बाह्याभ्यन्तरवासनाचतुष्टयस्य
 शुद्धवासनया क्षयः संपादनीयः। तदुक्तं वसिष्ठेनमानसीर्वासनाः पूर्वं
-त्यक्त्वा विषयवासनाः। मैत्र्यादिवासना राम गृहाणामलवासनाः।। इति। तत्र
+त्यक्त्वा विषयवासनाः। मैत्र्यादिवासना राम गृहाणामलवासनाः॥ इति। तत्र
 विषयवासनाशब्देन पूर्वोक्तास्तिस्त्रो लोकशास्त्रदेहवासना विवक्षिताः।
 मानसवासनाशब्देनकामक्रोधदम्भदर्पाद्यासुरसंपद्विवक्षिता। यद्वा
 शब्दस्पर्शरूपरसगन्धा विषयाः। तेषां भुज्यमानत्वदशाजन्यः संस्कारो
@@ -289,10 +227,10 @@ attainment, said:
 तु स्वस्येव परेषां सर्वेषामपि दुःखं माभूदिति करुणां दुःखिषु भावयेत्तदा
 वैर्यादिद्वेषनिवृत्तौ चित्तं प्रसीदति। तथाच स्मर्यतेप्राणा
 यथात्मनोऽभीष्टा भूतानामपि ते तथा। आत्मौपम्येन भूतेषु दयां कुर्वन्ति
-साधवः।। इति। एतदेवेहाप्युक्तं आत्मौपम्येन सर्वत्रेत्यादि। तथा प्राणिनः
+साधवः॥ इति। एतदेवेहाप्युक्तं आत्मौपम्येन सर्वत्रेत्यादि। तथा प्राणिनः
 स्वभावत एव पुण्यं नानुतिष्ठन्ति पापं त्वनुतिष्ठन्ति। तदाहुःपुण्यस्य
 फलमिच्छन्ति पुण्यं नेच्छन्ति मानवाः। न पापफलमिच्छन्ति पापं कुर्वन्ति
-यत्नतः।। इति। ते च पुण्यपापे अक्रियमाणक्रियमाणे पश्चात्तापं जनयतः। सच
+यत्नतः॥ इति। ते च पुण्यपापे अक्रियमाणक्रियमाणे पश्चात्तापं जनयतः। सच
 श्रुत्यानूदितःकिमहं साधु नाकरवं किमहं पापमकरवम् इति। यद्यसौ
 पुण्यपुरुषेषु मुदितां भावयेत्तदा
 तद्वासनावान्स्वयमेवाप्रमत्तोऽशुक्लकृष्णे पुण्ये प्रवर्तते।
@@ -309,94 +247,140 @@ attainment, said:
 मनोनाशो वासनाक्षयश्चेति त्रयमभ्यसनीयम्। तत्र केनापि द्वारेण
 पुनःपुनस्तत्त्वानुस्मरणं तत्त्वज्ञानाभ्यासः। तदुक्तं वासिष्ठेतच्चिन्तनं
 तत्कथनमन्योन्यं तत्प्रबोधनम्। एतदेकपरत्वं च ब्रह्माभ्यासं
-विदुर्बुधाः।। सर्गादावेव नोत्पन्नं दृश्यं नास्त्येव सर्वदा। इदं जगदहं
-चेति बोधाभ्यासं विदुः परम्।। इति। दृश्यावभासविरोधियोगाभ्यासो
+विदुर्बुधाः॥ सर्गादावेव नोत्पन्नं दृश्यं नास्त्येव सर्वदा। इदं जगदहं
+चेति बोधाभ्यासं विदुः परम्॥ इति। दृश्यावभासविरोधियोगाभ्यासो
 मनोनिरोधाभ्यासः। तदुक्तंअत्यन्ताभावसंपत्तौ ज्ञातुर्ज्ञेयस्य वस्तुनः।
-युक्त्या शास्त्रैर्यतन्ते ये तेऽप्यत्राभ्यासिनः स्थिताः।। इति।
+युक्त्या शास्त्रैर्यतन्ते ये तेऽप्यत्राभ्यासिनः स्थिताः॥ इति।
 ज्ञातृज्ञेययोर्मिथ्यात्वधीरभावसंपत्तिः।
 स्वरूपेणाप्रतीतिरत्यन्ताभावसंपत्तिस्तदर्थं युक्त्या योगेनदृश्यासंभवबोधेन
-रागद्वेषादितानवे। रतिर्घनोदिता याऽसौ ब्रह्माभ्यासः स उच्यते।। इति
+रागद्वेषादितानवे। रतिर्घनोदिता याऽसौ ब्रह्माभ्यासः स उच्यते॥ इति
 रागद्वेषादिक्षीणतारूपवासनाक्षयाभ्यास उक्तः।
 तस्मादुपपन्नेमेतत्तत्त्वज्ञानाभ्यासेन मनोनाशाभ्यासेन वासनाक्षयाभ्यासेन च
 रागद्वेषशून्यतया यः स्वपरसुखदुःखादिषु समदृष्टिः स परमो योगी मतः यस्तु
 विषमदृष्टिः स तत्त्वज्ञानवानप्यपरमो योगीति।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।6.32।। यद्यपि निषिद्धकर्मणाप्यात्मविन्न बध्यते तथापि शीलवानेव योगी
-श्रेष्ठ इत्याह **आत्मौपम्येनेति।** यथा स्वस्य सुखमिष्टं दुःखमनिष्टं
-तद्वत्परस्यापीति बुद्ध्या योऽन्यस्मै दुःखं न प्रयच्छति सोऽहिंसकः परमयोगी
-मत इत्यर्थः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
-
-।।6.32।। ननु सर्वथा वर्तमानोऽपीत्युक्त्या कस्यचिहुःखहेतुभूतापि तस्य
-प्रवृत्तिः प्राप्तेति चेत्तर्हि तल्लक्षणं श्रृण्वित्याशयेनाह आत्मेति।
-आत्मा स्वयमेव उपमाया भाव औपम्ायं तेन यः सर्वेषु भूतेषु। वाशब्दौ चार्थे।
-सुथं च यच्च दुःखं समं पश्यति यथा मम सुखदुःखे अनुकूलप्रतिकूले तथा
-सर्वस्यापीति तुल्यतया सर्वत्र समं पश्यति। न कस्यचित्प्रतिकुल माचरति
-अहिंसक इत्यर्थः। स सर्वेषां योगिनां मध्ये परमः श्रेष्ठो योगी मे मम मतः
-अमिमतः। तथाच महता प्रय्त्नेनापि परमयोगित्वलाभाय एतलक्षणं
-संपादनीयमित्याशयः। यद्यपि यः सर्वप्रकारेण वर्तते सोऽपि मुच्यत एव।
-तथाप्यत्र निषिद्धाद्याचरणात्सकलङ्गो भवति। अयं तु तथात्वाभावादत्रापि
-निष्कलङ्कः शुद्ध इति सूचयन्नाह अर्जुनेति।
-
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।6.32।। अतः स एवंविधो योगी परमो मत इत्याह आत्मौपम्येनेति। स्वसादृश्येन
+॥6.32॥ साम्यं प्रकारान्तरेण व्याचष्टे आत्मौपम्येनेति।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥6.32॥ सर्वत्र समदर्शनः 5।29 इत्यस्यान्यथाव्याख्यानमितोऽप्यसदिति
+भावेनाह **साम्यमि**ति। साम्यदर्शनम्। समदर्शन इत्युक्ते किं
+गोनवयादिवद्भवति सम्यग्दर्शनमित्याकाङ्क्षायामेकत्वमास्थित इति स्वयमेव
+व्याख्यातम्। इदानीं तु भगवदनुवर्तिविषयतयाऽपि व्याचष्ट इत्यर्थः।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+
+<details><summary>मूलम्</summary>
+
+॥6.32॥ आत्मौपम्येनेति। सर्वस्य च सुखदुःखे आत्मतुल्यतया पश्यतीति स्वरूपमेतदनूदितम् न पुनरेषोऽपूर्वो विधिः।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+6.32 Atma-etc. 'That he finds the pleasure and pain of all on analogy of himself'. This is only a statement of characteristic mark \[of the Yogin\]; and it is not an injunction enjoining a new action.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+
+<details><summary>मूलम्</summary>
+
+॥6.32॥ अतः स एवंविधो योगी परमो मत इत्याह आत्मौपम्येनेति। स्वसादृश्येन
 सर्वत्र समं दुःखादिकं पश्यन् भवति स परमो योगी मतः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।6.32।। ननु सर्वत्र कथमेकात्मत्वेन वर्तते इत्यत आह आत्मौपम्येनेति।
+<details><summary>पुरुषोत्तमः</summary>
+
+॥6.32॥ ननु सर्वत्र कथमेकात्मत्वेन वर्तते इत्यत आह आत्मौपम्येनेति।
 आत्मौपम्येन स्वसादृश्येन यथा स्वस्य कृपया संयोगरसाप्तौ सुखं वियोगरसाप्तौ
 दुःखं तथा सर्वत्र सर्वजीवेषु सुखं यदि वा दुःखं समं यः पश्यति स योगी मम
 परम उत्कृष्टो मतोऽभिमत इत्यर्थः। अत्रायं भावः
 योऽलौकिकसुखदुःखाभिनिविष्टेष्वपि जीवेषु यथा स्वस्य तदंशलेशज्ञानेन
 सुखदुःखरसानुभवो भवति तथैव सर्वेषामप्यस्ति एवं यस्य
-सर्वत्रालौकिकस्फूर्तिः स्यात् स उत्तम इति भावः।  
-  
-
+सर्वत्रालौकिकस्फूर्तिः स्यात् स उत्तम इति भावः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।6.32।। एवंच मां भजतां योगिनां मध्ये सर्वभूतानुकम्पी श्रेष्ठ इत्याह
+॥6.32॥ एवंच मां भजतां योगिनां मध्ये सर्वभूतानुकम्पी श्रेष्ठ इत्याह
 **आत्मौपम्येनेति।** आत्मौपम्येन स्वसादृश्येन यथा मम सुखं प्रियं दुःखं
 चाप्रियं तथान्येषामपीति सर्वत्र समं पश्यन् सुखमेव सर्वेषां यो वाञ्छति
 नतु कस्यापि दुःखं स योगी श्रेष्ठो ममाभिमत इत्यर्थः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
+
+6.32 He who, by reason of the similarity of selves everywhere, sees the pleasure or pain as the same everywhere - that Yogin, O Arjuna, is deemed as the nighest.
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+6.32 O Arjuna, that yogi is considered the best who judges what is happiness and sorrow in all beings by the same standard as he would apply to himself.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+6.32 O Arjuna! He is the perfect saint who, taught by the likeness within himself, sees the same Self everywhere, whether the outer form be pleasurable or painful.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+6.32. Whosoever finds pleasure or pain eally in all as in the case of himself-that person is considered to be a great man of Yoga, O Arjuna !
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+6.32 He who, through the likeness of the Self, O Arjuna, sees eality everywhere, be it pleasure or pain, he is regarded as the highest Yogi.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+6.32 आत्मौपम्येन through the likeness of the Self; सर्वत्र everywhere;
+समम् eality; पश्यति sees; यः who; अर्जुन O Arjuna; सुखम् pleasure; वा
+and; यदि if; वा or; दुःखम् pain; सः he; योगी Yogi; परमः highest; मतः is regarded.Commentary He sees that whatever is pleasure or pain to himself is also pleasure or pain to all other beings. He does not harm anyone.
+He is ite harmless. He wishes good to all. He is compassionate to all creatures. He has a very soft and large heart. He sees thus eality everywhere as he is endowed with the right knowlede of the Self; as he beholds the Self only everywhere; and as he is established in the unity of the Self. Therefore he is considered as the highest among all Yogis.
+(Cf.VI.47)
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।6.32।। हे अर्जुन ! जो (ध्यानयुक्त ज्ञानी महापुरुष) अपने शरीरकी उपमासे
+सब जगह अपनेको समान देखता है और सुख अथवा दुःखको भी समान देखता है, वह परम
+योगी माना गया है।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+।।6.32।।***व्याख्या--***\[जिसको इसी अध्यायके सत्ताईसवें श्लोकमें
+'ब्रह्मभूत' कहा है और जिसको अट्ठाईसवें श्लोकमें 'अत्यन्त सुख' की
+प्राप्ति होनेकी बात कही है, उस साङ्ख्ययोगीका प्राणियोंके साथ कैसा बर्ताव
+होता है--इसका इस श्लोकमें वर्णन किया गया है। कारण कि गीताके ब्रह्मभूत
+साङ्ख्ययोगीका सम्पूर्ण प्राणियोंके हितमें स्वाभाविक ही रति होती
+है--**'सर्वभूतहिते रताः'**(5। 25 12। 4)\]
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।6.32।। तत्त्वज्ञान और आत्मानुभव में स्थित योगीजन स्वभावत सर्वत्र
 व्याप्त आत्मा के दर्शन करते हैं। वे सभी कर्मों में आत्मा के वैभव को
@@ -425,85 +409,12 @@ _________________
 असमर्थ पाता है और वह प्रश्न के रूप में अपनी शंका को व्यक्त करता
 है। यथोक्त सम्यग्दर्शन रूप योग का संपादन दुष्कर जानकर उसकी प्राप्ति का
 निश्चयात्मक उपाय जानने की इच्छा से अर्जुन कहता है
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।6.32।। हे अर्जुन ! जो पुरुष अपने समान सर्वत्र सम देखता है, चाहे वह सुख
 हो या दु:ख, वह परम योगी माना गया है।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.32।। हे अर्जुन ! जो (ध्यानयुक्त ज्ञानी महापुरुष) अपने शरीरकी उपमासे
-सब जगह अपनेको समान देखता है और सुख अथवा दुःखको भी समान देखता है, वह परम
-योगी माना गया है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-।।6.32।।***व्याख्या--***\[जिसको इसी अध्यायके सत्ताईसवें श्लोकमें
-'ब्रह्मभूत' कहा है और जिसको अट्ठाईसवें श्लोकमें 'अत्यन्त सुख' की
-प्राप्ति होनेकी बात कही है, उस साङ्ख्ययोगीका प्राणियोंके साथ कैसा बर्ताव
-होता है--इसका इस श्लोकमें वर्णन किया गया है। कारण कि गीताके ब्रह्मभूत
-साङ्ख्ययोगीका सम्पूर्ण प्राणियोंके हितमें स्वाभाविक ही रति होती
-है--**'सर्वभूतहिते रताः'**(5। 25 12। 4)\]
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-6.32. Whosoever finds pleasure or pain eally in all as in the case of himself-that person is considered to be a great man of Yoga, O Arjuna !
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-6.32 O Arjuna, that yogi is considered the best who judges what is happiness and sorrow in all beings by the same standard as he would apply to himself.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-6.32 O Arjuna! He is the perfect saint who, taught by the likeness within himself, sees the same Self everywhere, whether the outer form be pleasurable or painful.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-6.32 He who, by reason of the similarity of selves everywhere, sees the pleasure or pain as the same everywhere - that Yogin, O Arjuna, is deemed as the nighest.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-6.32 He who, through the likeness of the Self, O Arjuna, sees eality everywhere, be it pleasure or pain, he is regarded as the highest Yogi.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-6.32 आत्मौपम्येन through the likeness of the Self; सर्वत्र everywhere;
-समम् eality; पश्यति sees; यः who; अर्जुन O Arjuna; सुखम् pleasure; वा
-and; यदि if; वा or; दुःखम् pain; सः he; योगी Yogi; परमः highest; मतः is regarded.Commentary He sees that whatever is pleasure or pain to himself is also pleasure or pain to all other beings. He does not harm anyone.
-He is ite harmless. He wishes good to all. He is compassionate to all creatures. He has a very soft and large heart. He sees thus eality everywhere as he is endowed with the right knowlede of the Self; as he beholds the Self only everywhere; and as he is established in the unity of the Self. Therefore he is considered as the highest among all Yogis.
-(Cf.VI.47)
-
-</details>
 </div>

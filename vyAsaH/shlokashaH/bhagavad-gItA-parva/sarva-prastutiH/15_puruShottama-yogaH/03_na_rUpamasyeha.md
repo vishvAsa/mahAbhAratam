@@ -1,220 +1,84 @@
 +++
 title = "03 न रूपमस्येह"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 न रूपम् अस्येह तथोपलभ्यते  
 **नान्तो न चादिर्** न च संप्रतिष्ठा।  
 अश्वत्थम् एनं सु-विरूढ-मूलम्  
 +++(कर्मानुबन्धि-मूलेषु)+++ **असङ्ग-शस्त्रेण** दृढेन **छित्त्वा** …॥15.3॥+++(5)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 न रूपमस्येह तथोपलभ्यते  
 नान्तो न चादिर्न च संप्रतिष्ठा।  
 अश्वत्थमेनं सुविरूढमूल  
-मसङ्गशस्त्रेण दृढेन छित्त्वा।।15.3।।
+मसङ्गशस्त्रेण दृढेन छित्त्वा॥15.3॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।15.3।।**अस्य** वृक्षस्य चतुर्मुखादित्वेन ऊर्ध्वमूलत्वं  
-तत्-संतान-परम्परया मनुष्याग्रत्वेन अधःशाखत्वं  
-मनुष्यत्वे कृतैः कर्ममिः मूल-भूतैः पुनः अपि अधः च ऊर्ध्वं च प्रसृतशाखत्वम्  
+॥15.3॥**अस्य** वृक्षस्य चतुर्मुखादित्वेन ऊर्ध्वमूलत्वं  
+तत्-सन्तान-परम्परया मनुष्याग्रत्वेन अधःशाखत्वं  
+मनुष्यत्वे कृतैः कर्ममिर् मूल-भूतैः पुनो ऽप्य् अधश् च ऊर्ध्वं च प्रसृतशाखत्वम्  
 इति यथा इदं **रूपं** निर्दिष्टं  
 **न** तथा, संसारिभिः **उपलभ्यते।**  
-मनुष्यः अहं देवदत्तस्य पुत्रो, यज्ञदत्तस्य पिता, तदनुरूप-परिग्रहः च  
-इति एतावन्मात्रम् उपलभ्यते।
+मनुष्यो ऽहं देवदत्तस्य पुत्रो, यज्ञदत्तस्य पिता, तदनुरूप-परिग्रहश् च  
+इत्य् एतावन्मात्रम् उपलभ्यते।
 
-तथा अस्य वृक्षस्य **अन्तो** विनाशः अपि  
-गुण-मय-भोगेषु असङ्गकृतः इति **न उपलभ्यते**  
-तथा अस्य गुणसङ्ग एव आदिः  
+तथा अस्य वृक्षस्य **अन्तो** विनाशो ऽपि  
+गुण-मय-भोगेष्व् असङ्गकृत इति **न उपलभ्यते**  
+तथा अस्य गुणसङ्ग एव आदिर्  
 इति न उपलभ्यते।
 
-तस्य **प्रतिष्ठा च** अनात्मनि
-आत्माभिमानरूपम् अज्ञानम् इति **न उपलभ्यते**  
-प्रतितिष्ठति अस्मिन् एव इति हि अज्ञानम् एव अस्य प्रतिष्ठा।
+तस्य **प्रतिष्ठा च** अनात्मन्य् आत्माभिमानरूपम् अज्ञानम् इति **न उपलभ्यते**  
+प्रतितिष्ठत्य् अस्मिन् एव इति ह्य् अज्ञानम् एवास्य प्रतिष्ठा।
 
-**एनम्** उक्तप्रकारं  **सुविरूढमूलं** सुष्ठु विविधं रूढमूलम्  **अश्वत्थं**  
+**एनम्** उक्तप्रकारं **सुविरूढमूलं** सुष्ठु विविधं रूढमूलम् **अश्वत्थं**  
 सम्यग्-ज्ञान-मूलेन **दृढेन** गुणमयभोगासङ्गाख्येन **शस्त्रेण छित्त्वा**…
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।15.3।। ननु सर्वप्रत्यक्षसम्मतेऽस्मिन् संसारेयस्तं वेद इति
-कस्यचित्तद्वेदनेन प्रशंसनमयुक्तमित्यत्रोच्यतेन रूपमस्येति। नात्र
-रूपानुपलम्भवचनस्य रूपाभावे तात्पर्यं; निर्दिष्टरूपविरोधादित्यभिप्रायेणाह
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥15.3॥ ननु सर्वप्रत्यक्षसम्मतेऽस्मिन् संसारेयस्तं वेद इति कस्यचित्तद्वेदनेन प्रशंसनमयुक्तमित्यत्रोच्यतेन रूपमस्येति। नात्र रूपानुपलम्भवचनस्य रूपाभावे तात्पर्यं; निर्दिष्टरूपविरोधादित्यभिप्रायेणाह
 -- अस्य वृक्षस्येति। सर्वेषां संसारोपलम्भे सत्यपि प्रकृताकारेण नोपलम्भ
 इति तथाशब्दाभिप्रेतं विवृणोति -- चतुर्मुखादित्वेनेत्यादिना। संसारिभिरिति
 -- अपवर्गोपयुक्तज्ञानरहितैरिति भावः। संसारिष्वेव यस्तथा वेद; स
-मुक्तप्राय इति वा। कूटस्थपितृपुत्रादिरूपेण लोकेऽपि मूलशाखापल्लवादिकं
-दृश्यत इत्यत्राह -- मनुष्योऽहमिति। तेषां हेयस्यापि
-संसारस्योपादानोपयुक्तं ज्ञानमस्ति न तु हानार्थमिति भावः। नान्तः
-इत्यादावपि तथाशब्दस्यानुषङ्गमाह -- तथाऽस्येति।
-समभिव्याहृतासङ्गशस्त्रच्छेद्यत्वानुगुणमन्तशब्दार्थमाहविनाश इति।
-आत्यन्तिकप्रलय इहासङ्गनिष्पादितान्तशब्देन विवक्षितः तस्य च स्वरूपतः
-कारणतश्चानुपलम्भः नित्यप्रलयमात्रं हि संसारिभिर्दृश्यत इत्यभिप्रायेणाह
+मुक्तप्राय इति वा। कूटस्थपितृपुत्रादिरूपेण लोकेऽपि मूलशाखापल्लवादिकं दृश्यत इत्यत्राह -- मनुष्योऽहमिति। तेषां हेयस्यापि संसारस्योपादानोपयुक्तं ज्ञानमस्ति न तु हानार्थमिति भावः। नान्तः इत्यादावपि तथाशब्दस्यानुषङ्गमाह -- तथाऽस्येति। समभिव्याहृतासङ्गशस्त्रच्छेद्यत्वानुगुणमन्तशब्दार्थमाहविनाश इति। आत्यन्तिकप्रलय इहासङ्गनिष्पादितान्तशब्देन विवक्षितः तस्य च स्वरूपतः कारणतश्चानुपलम्भः नित्यप्रलयमात्रं हि संसारिभिर्दृश्यत इत्यभिप्रायेणाह
 -- गुणमयभोगेष्वसङ्गकृत इति। भोगशब्दोऽत्र भोग्यपरः।
-प्रमाणसिद्धस्यान्तस्यादेः प्रतिष्ठायाश्च
-स्वरूपनिषेधभ्रमव्युदासायउपलभ्यते इतिपदमनुषञ्जितम्।
-गर्भादिरूपस्यावान्तरादेरुपलम्भात्प्रधानभूत आदिरिह विवक्षित इत्याह --
-गुणसङ्ग एवेति। अत्र प्रतिष्ठाशब्देन परोक्तं परमात्माभिधानमयुक्तं;
-निस्सङ्गानां सङ्गविषयस्य
-तस्यासङ्गशस्त्रच्छेद्यवृक्षप्रतिष्ठात्वनिर्देशानौचित्यात् अत आदिभूतस्य
-सङ्गस्यापि निदानं क्षेत्रादिस्थानीयमज्ञानमिह अर्थौचित्यात्प्रतिष्ठोच्यत
-इत्याह -- अनात्मन्यात्माभिमानरूपमिति। एतेन सम्प्रतिष्ठा मध्यमिति
-व्याख्याऽपि निरस्ता। अज्ञाने कथं प्रतिष्ठाशब्दवृत्तिः इत्यत्राह --
-प्रतितिष्ठतीति। अयं भावः -- मूलस्थितिभूमिः वृक्षस्य प्रतिष्ठा कर्म च
-संसारवृक्षस्य मूलत्वेनोक्तम् तच्चअविद्यासञ्चितं कर्म \[वि.पु.2।13।70\]
-इति वचनादज्ञाने स्थितं; तदधीनत्वात्तदनुष्ठानस्य; ममकारस्यापि
-कर्महेतोरहङ्कार एव कन्द इति स इह संसारवृक्षप्रतिष्ठेति।  
-  
-एनम् इति सङ्गास्पदप्रकृतिवैचित्र्यपरामर्श इत्याह -- उक्तप्रकारमिति।
-सुष्ठुत्वं दृढनिरूढवासनत्वेनान्यैः छेत्तुमशक्यत्वम्। विविधत्वं
-प्रायश्चित्तादिभिरेकैकस्य कर्माख्यमूलस्य च्छेदेऽप्यनादिकालं
-मनोवाक्कायैर्बुद्धिपूर्वकमबुद्धिपूर्वकं च
-विधिनिषेधविषयविचित्रकर्मणामनन्तप्रकारसम्भृतत्वम्। असङ्गोऽपि
-कदाचित्तादात्विकव्याध्यादिक्लेशादपि भवति स तु न दृढः
-अतःसम्यग्ज्ञानमूलेनेत्युक्तम्। विषयत्यागदशायामिव
-आत्मान्वेषणदशायामप्यसङ्गोऽनुवर्तनीय इति ज्ञापनायततश्शब्दः। अत एवततः परम्
-इति परशब्दाध्याहारेण व्याख्यान्तरमयुक्तमित्यभिप्रायेणाह -- ततो
-विषयासङ्गाद्धेतोरिति। आत्मानमन्विच्छेत् \[जा.उ.6\] इत्यादिसूचनायाह --
-अन्वेषणीयमिति। छन्दोनुरोधाय च्छान्दसंनिवर्तन्ति इति
-परस्मैपदमित्यभिप्रायेण स्वयमात्मनेपदं प्रायुङ्क्त।
-
+प्रमाणसिद्धस्यान्तस्यादेः प्रतिष्ठायाश्च स्वरूपनिषेधभ्रमव्युदासायउपलभ्यते इतिपदमनुषञ्जितम्। गर्भादिरूपस्यावान्तरादेरुपलम्भात्प्रधानभूत आदिरिह विवक्षित इत्याह -- गुणसङ्ग एवेति। अत्र प्रतिष्ठाशब्देन परोक्तं परमात्माभिधानमयुक्तं; निस्सङ्गानां सङ्गविषयस्य तस्यासङ्गशस्त्रच्छेद्यवृक्षप्रतिष्ठात्वनिर्देशानौचित्यात् अत आदिभूतस्य सङ्गस्यापि निदानं क्षेत्रादिस्थानीयमज्ञानमिह अर्थौचित्यात्प्रतिष्ठोच्यत इत्याह -- अनात्मन्यात्माभिमानरूपमिति। एतेन सम्प्रतिष्ठा मध्यमिति व्याख्याऽपि निरस्ता। अज्ञाने कथं प्रतिष्ठाशब्दवृत्तिः इत्यत्राह -- प्रतितिष्ठतीति। अयं भावः -- मूलस्थितिभूमिः वृक्षस्य प्रतिष्ठा कर्म च संसारवृक्षस्य मूलत्वेनोक्तं तच्चअविद्यासञ्चितं कर्म \[वि.पु.2।13।70\] इति वचनादज्ञाने स्थितं; तदधीनत्वात्तदनुष्ठानस्य; ममकारस्यापि कर्महेतोरहङ्कार एव कन्द इति स इह संसारवृक्षप्रतिष्ठेति।  
+        
+एनम् इति सङ्गास्पदप्रकृतिवैचित्र्यपरामर्श इत्याह -- उक्तप्रकारमिति। सुष्ठुत्वं दृढनिरूढवासनत्वेनान्यैः छेत्तुमशक्यत्वम्। विविधत्वं प्रायश्चित्तादिभिरेकैकस्य कर्माख्यमूलस्य च्छेदेऽप्यनादिकालं मनोवाक्कायैर्बुद्धिपूर्वकमबुद्धिपूर्वकं च विधिनिषेधविषयविचित्रकर्मणामनन्तप्रकारसम्भृतत्वम्। असङ्गोऽपि कदाचित्तादात्विकव्याध्यादिक्लेशादपि भवति स तु न दृढः अतःसम्यग्ज्ञानमूलेनेत्युक्तम्। विषयत्यागदशायामिव आत्मान्वेषणदशायामप्यसङ्गोऽनुवर्तनीय इति ज्ञापनायततश्शब्दः। अत एवततः परम् इति परशब्दाध्याहारेण व्याख्यान्तरमयुक्तमित्यभिप्रायेणाह -- ततो विषयासङ्गाद्धेतोरिति। आत्मानमन्विच्छेत् \[जा.उ.6\] इत्यादिसूचनायाह -- अन्वेषणीयमिति। छन्दोनुरोधाय च्छान्दसन्निवर्तन्ति इति परस्मैपदमित्यभिप्रायेण स्वयमात्मनेपदं प्रायुङ्क्त।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.3 - 15.4 The form of this tree, having its origin above, i.e., in the four-faced Brahma and branches below in the sense that man forms the crest through continual lineage therefrom, and also having its branches extended above and below by actions done in the human state and forming secondary roots - that form of the tree is not understood by people immersed in Samsara. Only this much is perceived: 'I am a man, the son of Devadatta, the father of Yajnadatta; I have property appropriate to these conditions'. Likewise, it is not understood that its destruction can be brought about by detachment from enjoyments which are based on Gunas. Similarly it is not perceived that attachment to the Gunas alone is the beginning of this (tree). Again, it is not perceived that the basis of this tree is founded on ignorance which is the misconception of self as non-self. Ignorance alone is the basis of this tree, since in it alone the tree is fixed. This Asvattha, described above, firm-rooted,
-i.e., the roots of which are firm and manifold, is to be cut off by the strong axe of detachment, namely, detachment from the sense objects composed of the three Gunas. This can be forged through perfect knowledge. As one gains detachment from sense-objects, one should seek and find out the goal from which nobody ever returns. How does this attachment to sense-objects, which consists of the Gunas and erroneous knowledge forming its cause, cease to exist; Sri Krsna now answers: One should seek 'refuge (Prapadyet) in the Primal Person' alone in order to overcome this ignorance. One should seek refuge (Prapadyeta) in Him who is primal, namely, the beginning of all entities, as stated in the following text: 'With Me as the Lord, the Prakrti gives birth to all that which moves, and that which does not move' (9.10), 'I am the origin of all; from Me proceed everything' (10.8), and 'There is nothing higher than Me, O Arjuna' (7.7). From Me, the creator of everything, has streamed forth this ancient activity, continuing from time immermorial,
-of attachment to sense-objects consisting of Gunas. This has been declared already by Me: 'For this divine Maya of Mine consisting of the Gunas is hard to break through. But those who take refuge in me alone shall pass beyond this Maya' (7.14). Or a variant of this stanza is
+<details><summary>आदिदेवानन्दः</summary>
+
+15.3 - 15.4 The form of this tree, having its origin above, i.e., in the four-faced Brahma and branches below in the sense that man forms the crest through continual lineage therefrom, and also having its branches extended above and below by actions done in the human state and forming secondary roots - that form of the tree is not understood by people immersed in Samsara. Only this much is perceived: 'I am a man, the son of Devadatta, the father of Yajnadatta; I have property appropriate to these conditions'. Likewise, it is not understood that its destruction can be brought about by detachment from enjoyments which are based on Gunas. Similarly it is not perceived that attachment to the Gunas alone is the beginning of this (tree). Again, it is not perceived that the basis of this tree is founded on ignorance which is the misconception of self as non-self. Ignorance alone is the basis of this tree, since in it alone the tree is fixed. This Asvattha, described above, firm-rooted, i.e., the roots of which are firm and manifold, is to be cut off by the strong axe of detachment, namely, detachment from the sense objects composed of the three Gunas. This can be forged through perfect knowledge. As one gains detachment from sense-objects, one should seek and find out the goal from which nobody ever returns. How does this attachment to sense-objects, which consists of the Gunas and erroneous knowledge forming its cause, cease to exist; Sri Krsna now answers: One should seek 'refuge (Prapadyet) in the Primal Person' alone in order to overcome this ignorance. One should seek refuge (Prapadyeta) in Him who is primal, namely, the beginning of all entities, as stated in the following text: 'With Me as the Lord, the Prakrti gives birth to all that which moves, and that which does not move' (9.10), 'I am the origin of all; from Me proceed everything' (10.8), and 'There is nothing higher than Me, O Arjuna' (7.7). From Me, the creator of everything, has streamed forth this ancient activity, continuing from time immermorial, of attachment to sense-objects consisting of Gunas. This has been declared already by Me: 'For this divine Maya of Mine consisting of the Gunas is hard to break through. But those who take refuge in me alone shall pass beyond this Maya' (7.14). Or a variant of this stanza is
 'prapadya iyatah pravrttih' (in place of 'prapadyet yatah pravrittih').
 This gives the sense that this discipline of taking refuge in the Supreme Person for dispelling of ignorance has continued from a distant past. The tendencies of ancient persons seeking liberation are also ancient. The purport is this: The ancient liberation-seekers, taking refuge in Me alone, were released from bondage. \[This can be taken to mean that Prapatti or taking refuge in the Lord had originated in the Bhakti tradition of the Sri-Vaisnavites from ancient sages i.e., from the Alvars who preceded Ramanuja by several centuries. It is not a creation of Ramanuja\].
-
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।15.3 -- 15.5।। न रूपमित्यादि अव्ययं तदित्यन्तम्। तं छित्त्वेति।
-विशेष्ये क्रियाऽभिधीयमाना सामर्थ्यादत्र विशेषणपदमुपादत्ते दण्डी
-प्रैष्याननुब्रूयात् इति विधिवत्। तेन अधोरूढानि मूलानि अस्य छिन्द्यादिति।
-तत् पदं प्रशान्तम् अव्ययं पदं तदेव।
-
+॥15.3॥ --,न रूपम् **अस्य इह** यथा उपवर्णितं **तथा** नैव **उपलभ्यते;** स्वप्नमरीच्युदकमायागन्धर्वनगरसमत्वात् दृष्टनष्टस्वरूपो हि स इति अत एव **न अन्तः** न पर्यन्तः निष्ठा परसमाप्तिर्वा विद्यते। तथा **न च आदिः;** इतः आरभ्य अयं प्रवृत्तः इति न केनचित् गम्यते। **न च संप्रतिष्ठा** स्थितिः मध्यम् अस्य न केनचित् उपलभ्यते। **अश्वत्थम् एनं** यथोक्तं **सुविरूढमूलं** सुष्ठु विरूढानि विरोहं गतानि सुदृढानि मूलानि यस्य तम् एनं सुविरूढमूलम्; **असङ्गशस्त्रे**ण असङ्गः पुत्रवित्तलोकैषणादिभ्यः व्युत्थानं तेन असङ्गशस्त्रेण **दृढेन** परमात्माभिमुख्यनिश्चयदृढीकृतेन पुनः पुनः विवेकाभ्यासाश्मनिशितेन **च्छित्वा** संसारवृक्षं सबीजम् उद्धृत्य॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-15.3 See Comment under 15.5
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।15.3।। यथास्थितस्तथा नोपलभ्यते। अन्तादिर्विष्णुः। त्वमादिरन्तो जगतोऽस्य
-मध्यम् इति भागवते। अनाद्यन्तं परं ब्रह्म न देवा नर्षयो विदुः इति च
-मोक्षधर्मे। असङ्गशस्त्रेण सङ्गराहित्यसहितेन ज्ञानेन। ज्ञानासिनोपासनया
-शितेन \[11।28।17\] इति भागवते। छेदश्च विमर्श एव। ततश्च तस्यैवाबन्धकं
-भवति। तथा हि मूलस्थं ब्रह्म प्रतीयते। तच्चोक्तं तच्छ्रुतावेव -- विमर्शो
-ह्यस्य छेदः स तन्न बध्नाति बध्नाति चान्यान् \[ \] इति।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।15.3।। अस्य रूपं नोपलभ्यत इत्युक्ते प्रमाणबाधः; अत उक्तम् -- **तथे**ति।
-तत्सापेक्षमित्यतः पूरयति -- **यथे**ति। विकारित्वादिनेत्यर्थः। जगतो
-देशकालाभ्यां परिच्छेदस्योपलभ्यमानत्वान्नान्त इत्याद्युक्तमयुक्तमित्यत आह
--- **अन्तादिरि**ति। संहर्तृत्वादेरिति शेषः। अत्र सम्मतिमाह --
-**त्वमि**ति। मध्यं स्थितेः कर्ता। तस्यानुपलभ्यमानत्वे प्रमाणमाह --
-**अनादी**ति। आद्यन्तरहितम्। असङ्ग एव शस्त्रमिति व्याख्यानमसदिति भावेनाह
--- **असङ्गे**ति। असङ्गः सङ्गराहित्यं तेन सहितं ज्ञानमसङ्गशस्त्रम्।
-दध्योदनादिवत्। वृत्तौ साहित्यस्यान्तर्भावादप्रयोग इति,भावः। प्रतीतार्थः
-कुतो न इत्यतो ज्ञानस्यैव तत्र कारणत्वोक्तेरित्याह --
-**ज्ञाने**ति। छित्त्वा इत्यस्यसबीजमुद्धृत्य इति (शं.) व्याख्यानमसदिति
-भावेनाह -- **छेदश्चे**ति। चस्त्वर्थः विमर्शो विवेकः।
-व्याख्यानान्तरपरित्यागेनैवं व्याख्याने को हेतुः इत्यत आह --
-**ततश्चे**ति। यतो विमर्श एव प्रकृत्यादेर्विश्वस्य छेदो न सर्वथोद्धारणम्।
-तत एव तस्यैकस्यैवेदमबन्धकं भवतीति युज्यते। अन्यथैकेन छेदे कृते
-सर्वमुक्तिः स्यादिति भावः। इतश्चायमेव छेद इत्याह -- **तथा ही**ति। अत्र
-ह्यश्वत्थमेनं छित्त्वाततः परं तत्परिमार्गितव्यं \[15।4\] इति
-विश्वच्छेदस्य ब्रह्मप्रतीतावुपायत्वमुच्यते। तथाहि। विश्वस्य
-कार्यत्वादिना विमर्शे सति कार्यस्य कारणापेक्षत्वात्
-चेतनानधिष्ठितादुपादानादुत्पत्त्यसम्भवात्परतन्त्राणां
-मुख्यतोऽधिष्ठातृत्वायोगान्मूलस्थमुपादानकारणाधिष्ठातृ ब्रह्म प्रतीयते न
-विश्वविनाशे। अतो योग्यतावशाद्विमर्श एव च्छेदो न विनाश इति गम्यत
-इत्यर्थः। विश्वमिथ्यात्वज्ञानमेव च्छेद इति चेत्; न अस्य
-मिथ्याज्ञानत्वात् श्रुतिसंवादाच्चैवमेवेत्याह -- **तच्चे**ति। तं वै
-प्रपद्ये यं वै प्रपद्ये इति तच्छुतावेव अतस्तं छेदकमेव।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।15.3।। --,न रूपम् **अस्य इह** यथा उपवर्णितं **तथा** नैव **उपलभ्यते;**
-स्वप्नमरीच्युदकमायागन्धर्वनगरसमत्वात् दृष्टनष्टस्वरूपो हि स इति अत एव
-**न अन्तः** न पर्यन्तः निष्ठा परसमाप्तिर्वा विद्यते। तथा **न च आदिः;**
-इतः आरभ्य अयं प्रवृत्तः इति न केनचित् गम्यते। **न च संप्रतिष्ठा**
-स्थितिः मध्यम् अस्य न केनचित् उपलभ्यते। **अश्वत्थम् एनं** यथोक्तं
-**सुविरूढमूलं** सुष्ठु विरूढानि विरोहं गतानि सुदृढानि मूलानि यस्य तम्
-एनं सुविरूढमूलम्; **असङ्गशस्त्रे**ण असङ्गः पुत्रवित्तलोकैषणादिभ्यः
-व्युत्थानं तेन असङ्गशस्त्रेण **दृढेन** परमात्माभिमुख्यनिश्चयदृढीकृतेन
-पुनः पुनः विवेकाभ्यासाश्मनिशितेन **च्छित्वा** संसारवृक्षं सबीजम्
-उद्धृत्य।।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।15.3।। यह जो वर्णन किया हुआ संसारवृक्ष है --, इसका स्वरूप जैसा यहाँ
-वर्णन किया गया है; वैसा उपलब्ध नहीं होता क्योंकि यह स्वप्नकी वस्तु;
-मृगतृष्णाके जल और मायारचित गन्धर्वनगरके समान होनेसे; देखतेदेखते नष्ट
-होनेवाला है। इसी कारण इसका अन्त अर्थात् अन्तिमावस्थाअवसान या समाप्ति भी
-नहीं है। तथा इसका आदि भी नहीं है; अर्थात् यहाँसे आरम्भ होकर यह संसार चला
-है; ऐसा किसीसे नहीं जाना जा सकता और इसकी संप्रतिष्ठास्थिति भी नहीं है
-यानी आदि और अन्तके बीचकी अवस्था भी किसीको उपलब्ध नहीं होती। इस उपर्युक्त
-सुविरूढमूल यानी जिसकी मूलें -- जड़ें अत्यन्त दृढ़ हो गयी हैं -- भली
-प्रकार संगठित हो चुकी हैं; ऐसे संसाररूप अश्वत्थको; असङ्गशस्त्रसे छेदन
-करके यानी पुत्रैषणा; वित्तैषणा और लोकैषणादिसे उपराम हो जाना ही असङ्ग है;
-ऐसे असङ्गशस्त्रसे जो कि परमात्माके सम्मुख होनारूप निश्चयसे दृढ़ किया हुआ
-है और बारंबार विवेकाभ्यासरूप पत्थरपर घिसकर पैना किया हुआ है; इस
-संसारवृक्षको बीजसहित उखाड़कर।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 15.3 But, asya, its-of this Tree of the World which has been described;
 rupam, form, as it has been presented; na, is not at all; upalabhyate,
@@ -233,13 +97,28 @@ and sharpened on the stone of repeated practice of discrimination;
 asanga-sastrena, sword of detachment-detachment means turn ing away from
 the desire for progeny, wealth and the worlds; with that sword of
 detachment-.
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।15.3।। पुनःपुना रागादीना प्रवृत्तत्वेनानादित्वान्न संसारवृक्षः
+<details><summary>हरिकृष्णदासः</summary>
+
+॥15.3॥ यह जो वर्णन किया हुआ संसारवृक्ष है --, इसका स्वरूप जैसा यहाँ
+वर्णन किया गया है; वैसा उपलब्ध नहीं होता क्योंकि यह स्वप्नकी वस्तु;
+मृगतृष्णाके जल और मायारचित गन्धर्वनगरके समान होनेसे; देखतेदेखते नष्ट
+होनेवाला है। इसी कारण इसका अन्त अर्थात् अन्तिमावस्थाअवसान या समाप्ति भी
+नहीं है। तथा इसका आदि भी नहीं है; अर्थात् यहाँसे आरम्भ होकर यह संसार चला
+है; ऐसा किसीसे नहीं जाना जा सकता और इसकी संप्रतिष्ठास्थिति भी नहीं है
+यानी आदि और अन्तके बीचकी अवस्था भी किसीको उपलब्ध नहीं होती। इस उपर्युक्त
+सुविरूढमूल यानी जिसकी मूलें -- जड़ें अत्यन्त दृढ़ हो गयी हैं -- भली
+प्रकार संगठित हो चुकी हैं; ऐसे संसाररूप अश्वत्थको; असङ्गशस्त्रसे छेदन
+करके यानी पुत्रैषणा; वित्तैषणा और लोकैषणादिसे उपराम हो जाना ही असङ्ग है;
+ऐसे असङ्गशस्त्रसे जो कि परमात्माके सम्मुख होनारूप निश्चयसे दृढ़ किया हुआ
+है और बारंबार विवेकाभ्यासरूप पत्थरपर घिसकर पैना किया हुआ है; इस
+संसारवृक्षको बीजसहित उखाड़कर।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥15.3॥ पुनःपुना रागादीना प्रवृत्तत्वेनानादित्वान्न संसारवृक्षः
 स्वयमुच्छिद्यते न चोच्छेत्तुं शक्यते केनापीत्याशङ्क्याह --
 **यस्त्विति।** यथा पूर्वं वर्णितं यथा च लोके प्रसिद्धं तथास्य रूपमिह
 शास्त्रादनुमीयते तथाचास्य ज्ञानापनोद्यत्वं युक्तमित्याह -- **यथेति।**
@@ -253,32 +132,11 @@ detachment-.
 स्वयमेवोच्छेदसंभवात्तदुच्छेदार्थं न प्रयतितव्यमित्याशङ्क्याह --
 **अश्वत्थमिति।** व्युत्थानं वैराग्यपूर्वकं पारिव्राज्यम्। दृढीकृतत्वमेव
 विवेकपूर्वकत्वेन स्फुटयति -- **पुनःपुनरिति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।15.3।। न रूपमिति। यस्त्वयं संसारवृक्षो वर्णित इह संसारे स्थितैः
-प्राणिभिरस्य संसारवृक्षस्य यथावर्णितमूर्ध्वमूलत्वादि तथा तेन प्रकारेण
-रूपं नोपलभ्यते स्वप्नमरीच्युदकमायागन्धर्वनगरवन्मृषात्वेन
-दृष्टनष्टस्वरूपत्वात्तस्य। अतएव तस्यान्तोऽवसानं नोपलभ्यते एतावता कालेन
-समाप्तिं गमिष्यतीत्यपर्यन्तत्वात्। न चास्यादिरुपलभ्यते इत आरभ्य प्रवृत्त
-इत्यनादित्वात्। नच संप्रतिष्ठा स्थितिर्मध्यस्योपलभ्यते
-आद्यन्तप्रतियोगिकत्वात्तस्य। यस्मादेवंभूतोऽयं संसारवृक्षो दुरुच्छेदः
-सर्वानर्थकरश्च तस्मादनाद्यज्ञानेन सुविरूढमूलमत्यन्तबद्धमूलं
-प्रागुक्तमश्वत्थमेनमसङ्गशस्त्रेण सङ्गः स्पृहा असङ्गः सङ्गविरोधि वैराग्यं
-पुत्रवित्तलोकैषणात्यागरूपं तदेव शस्त्रं रागद्वेषमयसंसारविरोधित्वात्
-तेनासङ्गशस्त्रेण दृढेन परमात्माज्ञानौत्सुक्यदृढीकृतेन पुनः
-पुनर्विवेकाभ्यासनिशितेन छित्त्वा समूलमुद्धृत्य वैराग्यशमदमादिसंपत्त्या
-सर्वकर्मसंन्यासं कृत्वेत्येतत्।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।15.3।। ननु श्वोऽपि स्थातुमनर्हश्चाव्ययश्चेत्युक्ते
+॥15.3॥ ननु श्वोऽपि स्थातुमनर्हश्चाव्ययश्चेत्युक्ते
 प्रतिक्षणविनाशिविज्ञानसंतानरूपो वा व्रीह्यादिवत्प्रवाहनित्यो वायं
 संसारस्तर्हि दुरुच्छेद्यो वासनानां कर्मणां च
 बीजाङ्कुरवदन्योन्यजन्महेतुत्वस्यावर्जनीयत्वादित्याशङ्क्य
@@ -306,13 +164,11 @@ detachment-.
 कारणशरीरस्याप्यसङ्गः साध्यः। तेन चासङ्गशस्त्रेणास्य छेदो मूलोच्छेदो
 लवणोदकवद्रज्जूरगवद्वा प्रविलापनरूपः कर्तव्यः। न तु साङ्ख्यानामिव स्वरूपेण
 सतः परिवर्जनमात्रम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।15.3।। को अद्धा वेद क इह प्रवोचत्कृत आजाता कुत इयं विसृष्टिः।
+<details><summary>धनपतिः</summary>
+
+॥15.3॥ को अद्धा वेद क इह प्रवोचत्कृत आजाता कुत इयं विसृष्टिः।
 अर्वाग्देवा अस्य विसर्जनेनाथा को वेद यत आबभूव इत्यादिश्रुतिबोधितं
 संसारस्यानिर्वचनीयत्वं वदन्नास्य ज्ञानायोद्यतत्वं युक्तमपितुच्छेदायेति
 बोधयति -- नेति। अस्य वर्णितस्य संसारवृक्षस्य रुपमिह शास्त्रे यथा र्णितं
@@ -351,17 +207,88 @@ detachment-.
 तमेवेति। यतः यत्र अपुराणी नूतनेति तन्नोषादेयम्। मत्तः परतरं
 नान्यत्किंचिदस्ति धनंजय। ब्राह्मणो हि प्रतिष्ठाहं -- शाश्वतस्यामृतस्य
 च। नान्तो न चादिः इत्यादिभगवद्वचनाननुरुपत्वात्।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥15.3॥ न रूपमिति। यस्त्वयं संसारवृक्षो वर्णित इह संसारे स्थितैः
+प्राणिभिरस्य संसारवृक्षस्य यथावर्णितमूर्ध्वमूलत्वादि तथा तेन प्रकारेण
+रूपं नोपलभ्यते स्वप्नमरीच्युदकमायागन्धर्वनगरवन्मृषात्वेन
+दृष्टनष्टस्वरूपत्वात्तस्य। अतएव तस्यान्तोऽवसानं नोपलभ्यते एतावता कालेन
+समाप्तिं गमिष्यतीत्यपर्यन्तत्वात्। न चास्यादिरुपलभ्यते इत आरभ्य प्रवृत्त
+इत्यनादित्वात्। नच संप्रतिष्ठा स्थितिर्मध्यस्योपलभ्यते
+आद्यन्तप्रतियोगिकत्वात्तस्य। यस्मादेवंभूतोऽयं संसारवृक्षो दुरुच्छेदः
+सर्वानर्थकरश्च तस्मादनाद्यज्ञानेन सुविरूढमूलमत्यन्तबद्धमूलं
+प्रागुक्तमश्वत्थमेनमसङ्गशस्त्रेण सङ्गः स्पृहा असङ्गः सङ्गविरोधि वैराग्यं
+पुत्रवित्तलोकैषणात्यागरूपं तदेव शस्त्रं रागद्वेषमयसंसारविरोधित्वात्
+तेनासङ्गशस्त्रेण दृढेन परमात्माज्ञानौत्सुक्यदृढीकृतेन पुनः
+पुनर्विवेकाभ्यासनिशितेन छित्त्वा समूलमुद्धृत्य वैराग्यशमदमादिसंपत्त्या
+सर्वकर्मसंन्यासं कृत्वेत्येतत्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।15.3।। किञ्च न रूपमिति। इह मायामोहितैर्वादिभिरस्य स्वरूपं याथात्म्यं
+॥15.3॥ यथास्थितस्तथा नोपलभ्यते। अन्तादिर्विष्णुः। त्वमादिरन्तो जगतोऽस्य
+मध्यम् इति भागवते। अनाद्यन्तं परं ब्रह्म न देवा नर्षयो विदुः इति च
+मोक्षधर्मे। असङ्गशस्त्रेण सङ्गराहित्यसहितेन ज्ञानेन। ज्ञानासिनोपासनया
+शितेन \[11।28।17\] इति भागवते। छेदश्च विमर्श एव। ततश्च तस्यैवाबन्धकं
+भवति। तथा हि मूलस्थं ब्रह्म प्रतीयते। तच्चोक्तं तच्छ्रुतावेव -- विमर्शो
+ह्यस्य छेदः स तन्न बध्नाति बध्नाति चान्यान् \[ \] इति।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥15.3॥ अस्य रूपं नोपलभ्यत इत्युक्ते प्रमाणबाधः; अत उक्तम् -- **तथे**ति।
+तत्सापेक्षमित्यतः पूरयति -- **यथे**ति। विकारित्वादिनेत्यर्थः। जगतो
+देशकालाभ्यां परिच्छेदस्योपलभ्यमानत्वान्नान्त इत्याद्युक्तमयुक्तमित्यत आह
+-- **अन्तादिरि**ति। संहर्तृत्वादेरिति शेषः। अत्र सम्मतिमाह --
+**त्वमि**ति। मध्यं स्थितेः कर्ता। तस्यानुपलभ्यमानत्वे प्रमाणमाह --
+**अनादी**ति। आद्यन्तरहितम्। असङ्ग एव शस्त्रमिति व्याख्यानमसदिति भावेनाह
+-- **असङ्गे**ति। असङ्गः सङ्गराहित्यं तेन सहितं ज्ञानमसङ्गशस्त्रम्।
+दध्योदनादिवत्। वृत्तौ साहित्यस्यान्तर्भावादप्रयोग इति,भावः। प्रतीतार्थः
+कुतो न इत्यतो ज्ञानस्यैव तत्र कारणत्वोक्तेरित्याह --
+**ज्ञाने**ति। छित्त्वा इत्यस्यसबीजमुद्धृत्य इति (शं.) व्याख्यानमसदिति
+भावेनाह -- **छेदश्चे**ति। चस्त्वर्थः विमर्शो विवेकः।
+व्याख्यानान्तरपरित्यागेनैवं व्याख्याने को हेतुः इत्यत आह --
+**ततश्चे**ति। यतो विमर्श एव प्रकृत्यादेर्विश्वस्य छेदो न सर्वथोद्धारणम्।
+तत एव तस्यैकस्यैवेदमबन्धकं भवतीति युज्यते। अन्यथैकेन छेदे कृते
+सर्वमुक्तिः स्यादिति भावः। इतश्चायमेव छेद इत्याह -- **तथा ही**ति। अत्र
+ह्यश्वत्थमेनं छित्त्वाततः परं तत्परिमार्गितव्यं \[15।4\] इति
+विश्वच्छेदस्य ब्रह्मप्रतीतावुपायत्वमुच्यते। तथाहि। विश्वस्य
+कार्यत्वादिना विमर्शे सति कार्यस्य कारणापेक्षत्वात्
+चेतनानधिष्ठितादुपादानादुत्पत्त्यसम्भवात्परतन्त्राणां
+मुख्यतोऽधिष्ठातृत्वायोगान्मूलस्थमुपादानकारणाधिष्ठातृ ब्रह्म प्रतीयते न
+विश्वविनाशे। अतो योग्यतावशाद्विमर्श एव च्छेदो न विनाश इति गम्यत
+इत्यर्थः। विश्वमिथ्यात्वज्ञानमेव च्छेद इति चेत्; न अस्य
+मिथ्याज्ञानत्वात् श्रुतिसंवादाच्चैवमेवेत्याह -- **तच्चे**ति। तं वै
+प्रपद्ये यं वै प्रपद्ये इति तच्छुतावेव अतस्तं छेदकमेव।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+
+<details><summary>मूलम्</summary>
+
+॥15.3 -- 15.5॥ न रूपमित्यादि अव्ययं तदित्यन्तम्। तं छित्त्वेति। विशेष्ये क्रियाऽभिधीयमाना सामर्थ्यादत्र विशेषणपदमुपादत्ते दण्डी प्रैष्याननुब्रूयात् इति विधिवत्। तेन अधोरूढानि मूलानि अस्य छिन्द्यादिति। तत् पदं प्रशान्तम् अव्ययं पदं तदेव।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+15.3 See Comment under 15.5
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+
+<details><summary>मूलम्</summary>
+
+॥15.3॥ किञ्च न रूपमिति। इह मायामोहितैर्वादिभिरस्य स्वरूपं याथात्म्यं
 तथा वेदोक्तप्रकारेण नोपलभ्यतेमायामात्रं तु
 कात्स्न्र्येनानभिव्यक्तस्वरूपत्वात्। \[ब्र.सू.3।2।3\] किञ्च नान्तो
 निर्णयो न चादिः न च सम्प्रतिष्ठाऽपि। तेनासम्प्रतिष्ठमसत्यं
@@ -375,15 +302,11 @@ _________________
 परिमार्गितव्यमित्यन्तरेणान्वयः। न चेह जीवकृतो जगदुच्छेद एव यथा श्रुतो
 वाच्योऽपि शिष्टत्वनिरूपणादिति वाच्यम्; उच्छेदिते दण्डे दण्डी पुरुषो
 नेतिवदविरोधात्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।15.3।। ननु कथं तैः सृष्टिः इत्यत आह -- न रूपमिति। इहाऽस्मिन् लौकिके
+<details><summary>पुरुषोत्तमः</summary>
+
+॥15.3॥ ननु कथं तैः सृष्टिः इत्यत आह -- न रूपमिति। इहाऽस्मिन् लौकिके
 संसारे कर्मासक्तानामस्य तच्छाखारूपत्वे सत्यपि तथाऽलौकिकक्रीडात्मकं रूपं
 न लभ्यते। न च अन्तः; क्रीडात्मकेन नित्यत्वात्। न च आदिः;
 पुरुषोत्तममूलकत्वेनाऽनादित्वात्। न च पुनः सम्प्रतिष्ठा स्थितिः
@@ -391,19 +314,14 @@ _________________
 अश्वत्थमिति। एनं परिदृश्यमानं लौकिकमश्वत्थं नश्वरं सुविरूढमूलं दृढं;
 दृढेन निश्चयात्मकेन असङ्गशस्त्रेण
 एतन्मध्यपातिदुष्टविषयादिदोषपर्यालोचनसङ्गाभावात्मकेन शस्त्रेणैतच्छेदपटुना
-च्छित्त्वा भिन्नं कृत्वा।  
-  
-
+च्छित्त्वा भिन्नं कृत्वा।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।15.3।। किंच **-- न रूपमस्येति।** इह संसारे स्थितैः प्राणिभिरस्य
+॥15.3॥ किंच **-- न रूपमस्येति।** इह संसारे स्थितैः प्राणिभिरस्य
 संसारवृक्षस्य तथोर्ध्वमूलत्वादिप्रकारेण रूपं नोपलभ्यते। न चान्तोऽवसानं;
 अपर्यन्तत्वात्। न चादिरनादित्वात्। नच संप्रतिष्ठा स्थितिः कथं तिष्ठतीति
 न चोपलभ्यते। यस्मादेवंभूतोऽयं संसारवृक्षो दुरुच्छेद्योऽनर्थकरश्च
@@ -412,40 +330,62 @@ _________________
 सन्तमसङ्गः सङ्गराहित्यं अहंममतात्यागस्तेन दृढेन शस्त्रेण सम्यग्विचारेण
 छित्त्वा पृथक्कृत्य।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।15.3।। See Commentary under 15.4
-
+15.3 Its form as such is not perceived here, nor its end, nor its beginning, nor its support. Having cut off this firm-rooted Asvattha with the strong axe of detachment৷৷.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।15.3।। इस (संसार वृक्ष) का स्वरूप जैसा कहा गया है वैसा यहाँ उपलब्ध
-नहीं होता है, क्योंकि इसका न आदि है और न अंत और न प्रतिष्ठा ही है। इस
-अति दृढ़ मूल वाले अश्वत्थ वृक्ष को दृढ़ असङ्ग शस्त्र से काटकर ...৷৷৷৷।।
+<details><summary>गम्भीरानन्दः</summary>
 
+15.3 Its form is not perceived here in that way; nor its end, nor beginning, nor continuance, After felling this Peepul whose roots are well developed, with the strong sword of detachment-;
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+15.3 In this world its true form is not known, neither its origin nor its end, and its strength is not understood., until the tree with its roots striking deep into the earth is hewn down by the sharp axe of non-attachment.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+15.3. The nature of this is not perceived in that manner, nor its end,
+nor its beginning and nor its centre (the middle). Cutting this holy Fig-tree-with its firmly and variedly grown roots-by means of the sharp
+(or strong) exe of non-attachment;
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+15.3 Its form is not perceived here as such, neither its end nor its origin, nor its foundation nor resting place: having cut asunder this firmly rooted peepul tree with the strong axe of non-attachment.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+15.3 न not; रूपम् form; अस्य its; इह here; तथा as such; उपलभ्यते is perceived; न not; अन्तः (its) end; न not; च and; आदिः (its) origin; न
+not; च and; संप्रतिष्ठा foundation or resting place; अश्वत्थम् Asvattha;
+एनम् this; सुविरूढमूलम् firmrooted; असङ्गशस्त्रेण with the axe of nonattachment; दृढेन strong; छित्त्वा having cut asunder.Commentary The idea is continued in the next verse.So long as one is under the sway of ignorance; he cannot understand the form of this tree; its end; origin and foundation (middle). O Arjuna Thou mayest perhaps consider that such a huge tree cannot be uprooted by any means whatever. It is not so.
+However firmly rooted it may be; it can be cut by the powerful axe of nnattachment or dispassion within the twinkling of an eye.After cutting this tree you will have to look within; meditate on the Self and behold the Supreme.Tatha As such As described above. Is it necessary to pull down castles in the air or to break the horns of a hare or to pluck a flower growing in the sky or to get butter from the milk of a tortoise or oil from stone Similarly; O Arjuna; there is no reality in this tree.
+Therefore why should you entertain any fear as to whether it may be uprooted or not Its form as such is not perceived by anybody here it is like a dream or a mirage or an imaginary city in the sky formed by the clouds or caused by a juggler. It appears and disappears. This tree has DrishtaNashtaSvarupa like the mirage. That object which is destroyed when one beholds it is DrishtaNashta. Nobody has perceived the end; the origin or the foundation of this illusory tree. No one can say that it has arisen from such and such a place or point.Samsara or the peepul tree is inveterately deeprooted. You will have to struggle hard to uproot it with its seed or the selfreproducing deep root.Asanga Dispassion; freedom from attachment to children; wealth and the world.Dridhena Strong. You will have to cut the tree with a strong axe which is sharpened again and again on the whetstone of the practice of discrimination. Further your mind should be turned towards the Supreme Being with the strong determination that you can attain eternal bliss only in Him and that He is the ony Reality.The desire for sensual pleasure is Sanga. Its opposite (dispassion) is Asanga. Renunciation of the three kinds of Eshanas (desires); viz.; children; wealth and the world (PutraVittaLokeshana) is Asanga. Just as the axe cuts the tree; so also dispassion cuts this tree of Samsara. Hence dispassion is termed an axe. Cutting the tree of Samsara is annihilation of egoism; ignorance;
+latent tendencies; and renunciation of the fruits of all actions;
+through the practice of dispassion; control of the mind and the senses;
+etc. (Cf.VII.14)
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.3।। इस संसारवृक्षका जैसा रूप देखनेमें आता है, वैसा यहाँ (विचार
 करनेपर) मिलता नहीं; क्योंकि इसका न तो आदि है, न अन्त है और न स्थिति ही
 है। इसलिये इस दृढ़ मूलोंवाले संसाररूप अश्वत्थवृक्षको दृढ़ असङ्गतारूप
 शस्त्रके द्वारा काटकर --
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।15.3।।***व्याख्या --***  **न रूपमस्येह तथोपलभ्यते --** इसी अध्यायके
 पहले श्लोकमें संसारवृक्षके विषयमें कहा गया है कि लोग इसको अव्यय
@@ -628,61 +568,18 @@ _________________
   
 ***सम्बन्ध --***  संसारवृक्षका छेदन करनेके बाद साधकको क्या करना चाहिये
 -- इसका विवेचन आगेके श्लोकमें करते हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-15.3. The nature of this is not perceived in that manner, nor its end,
-nor its beginning and nor its centre (the middle). Cutting this holy Fig-tree-with its firmly and variedly grown roots-by means of the sharp
-(or strong) exe of non-attachment;
-
+।।15.3।। See Commentary under 15.4
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.3 Its form is not perceived here in that way; nor its end, nor beginning, nor continuance, After felling this Peepul whose roots are well developed, with the strong sword of detachment-;
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।15.3।। इस (संसार वृक्ष) का स्वरूप जैसा कहा गया है वैसा यहाँ उपलब्ध
+नहीं होता है, क्योंकि इसका न आदि है और न अंत और न प्रतिष्ठा ही है। इस
+अति दृढ़ मूल वाले अश्वत्थ वृक्ष को दृढ़ असङ्ग शस्त्र से काटकर ...৷৷৷৷।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.3 In this world its true form is not known, neither its origin nor its end, and its strength is not understood., until the tree with its roots striking deep into the earth is hewn down by the sharp axe of non-attachment.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-15.3 Its form as such is not perceived here, nor its end, nor its beginning, nor its support. Having cut off this firm-rooted Asvattha with the strong axe of detachment৷৷.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-15.3 Its form is not perceived here as such, neither its end nor its origin, nor its foundation nor resting place: having cut asunder this firmly rooted peepul tree with the strong axe of non-attachment.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-15.3 न not; रूपम् form; अस्य its; इह here; तथा as such; उपलभ्यते is perceived; न not; अन्तः (its) end; न not; च and; आदिः (its) origin; न
-not; च and; संप्रतिष्ठा foundation or resting place; अश्वत्थम् Asvattha;
-एनम् this; सुविरूढमूलम् firmrooted; असङ्गशस्त्रेण with the axe of nonattachment; दृढेन strong; छित्त्वा having cut asunder.Commentary The idea is continued in the next verse.So long as one is under the sway of ignorance; he cannot understand the form of this tree; its end; origin and foundation (middle). O Arjuna Thou mayest perhaps consider that such a huge tree cannot be uprooted by any means whatever. It is not so.
-However firmly rooted it may be; it can be cut by the powerful axe of nnattachment or dispassion within the twinkling of an eye.After cutting this tree you will have to look within; meditate on the Self and behold the Supreme.Tatha As such As described above. Is it necessary to pull down castles in the air or to break the horns of a hare or to pluck a flower growing in the sky or to get butter from the milk of a tortoise or oil from stone Similarly; O Arjuna; there is no reality in this tree.
-Therefore why should you entertain any fear as to whether it may be uprooted or not Its form as such is not perceived by anybody here it is like a dream or a mirage or an imaginary city in the sky formed by the clouds or caused by a juggler. It appears and disappears. This tree has DrishtaNashtaSvarupa like the mirage. That object which is destroyed when one beholds it is DrishtaNashta. Nobody has perceived the end; the origin or the foundation of this illusory tree. No one can say that it has arisen from such and such a place or point.Samsara or the peepul tree is inveterately deeprooted. You will have to struggle hard to uproot it with its seed or the selfreproducing deep root.Asanga Dispassion; freedom from attachment to children; wealth and the world.Dridhena Strong. You will have to cut the tree with a strong axe which is sharpened again and again on the whetstone of the practice of discrimination. Further your mind should be turned towards the Supreme Being with the strong determination that you can attain eternal bliss only in Him and that He is the ony Reality.The desire for sensual pleasure is Sanga. Its opposite (dispassion) is Asanga. Renunciation of the three kinds of Eshanas (desires); viz.; children; wealth and the world (PutraVittaLokeshana) is Asanga. Just as the axe cuts the tree; so also dispassion cuts this tree of Samsara. Hence dispassion is termed an axe. Cutting the tree of Samsara is annihilation of egoism; ignorance;
-latent tendencies; and renunciation of the fruits of all actions;
-through the practice of dispassion; control of the mind and the senses;
-etc. (Cf.VII.14)
-
-</details>
 </div>

@@ -1,142 +1,55 @@
 +++
 title = "14 देवद्विजगुरुप्राज्ञपूजनं"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 देव-द्विज-गुरु-प्राज्ञ-  
 **पूजनं शौचम्** आर्जवम्।  
 **ब्रह्मचर्यम् अहिंसा** च  
 **शारीरं तप** उच्यते॥17.14॥+++(5)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम्।  
-ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते।।17.14।।
+ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते॥17.14॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।17.14।।**देवद्विजगुरुप्राज्ञानां पूजनम्; शौचं** तीर्थस्नानादिकम्;
-**आर्जवं** यथावाङ्मनःशारीरवृत्तम् **ब्रह्मचर्यं** योषित्सु
-भोग्यताबुद्धियुक्तेक्षणादिरहितत्वम्; **अहिंसा** अप्राणिपीडा; एतत्
-**शारीरं तप उच्यते।**
-
+॥17.14॥**देवद्विजगुरुप्राज्ञानां पूजनम्; शौचं** तीर्थस्नानादिकम्; **आर्जवं** यथावाङ्मनःशारीरवृत्तम् **ब्रह्मचर्यं** योषित्सु भोग्यताबुद्धियुक्तेक्षणादिरहितत्वम्; **अहिंसा** अप्राणिपीडा; एतत् **शारीरं तप उच्यते।**
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।17.14।। आहारादीनां सात्त्विकत्वादित्रैविध्ये प्रक्रान्ते तपसः करणभेदेन
-त्रैविध्योक्तिः किमर्था इत्यत्राऽऽह -- अथेति। देवद्विजगुरुप्राज्ञानां
-सन्निधौ तत्तदुचितः शास्त्रोदित आचार इह पूजनमित्युच्यते। यथा --
-प्रशस्तमङ्गल्यदेवायतनचतुष्पथादिप्रदक्षिणमावर्तेत मनसा वा तत्समग्रम्
-इत्यादि। तथा -- प्रदक्षिणं व्रजेद्विप्रान् गामश्वत्थं हुताशनम्
-इति। आसनेभ्यः समुत्तस्थुर्मानयन्तः पुरोहितम्उर्ध्वं प्राणा
-ह्युत्क्रामन्ति यूनः स्थविर आगते (आयति)। अभ्यु(प्रत्यु)त्थानाभिवादाभ्यां
-पुनस्तान्प्रतिपद्यते \[मनुः2।120\] इत्यादिना। तथा -- न हायनैर्न पलितैर्न
-वित्तैर्न (वित्तेन न) च बन्धुभिः। ऋषयश्चक्रिरे धर्मं योऽनूचानः स नो
-महान् \[मनुः2।154\] इति। शुद्धिरूपस्य फलभूतस्य शौचस्य तपस्त्वेन
-विभजनायोगात्तद्धेतुमाहतीर्थस्नानादिकमिति। आर्जवस्य शारीरतपस्त्वेन
-व्यपदेशार्थं वाङ्मनःकायानामैकरूप्यं शरीरप्रधानतया व्यपदिशतियथा
-वाङ्मनश्शारीरवृत्तमिति। ब्रह्मचर्यं च योषित्सु भोग्यताबुद्धिवर्जनम्
-इत्याद्यनुसारेणाऽऽह -- योषित्स्विति। तादृशप्रेक्षणादिकमपिस्मरणं कीर्तनं
-केलिः प्रेक्षणं गुह्यभाषणम् \[द.स्मृ.7।31\] इत्यादिना मैथुनत्वेन विभज्य
-स्मरन्तीति प्रागेव दर्शितम्। अत्रापीक्षणादिरहितत्व ग्रहणं ब्रह्मचर्यस्य
-शारीरतपस्त्वज्ञापनाय।  
-  
+<details><summary>वेदान्तदेशिकः</summary>
 
+॥17.14॥ आहारादीनां सात्त्विकत्वादित्रैविध्ये प्रक्रान्ते तपसः करणभेदेन त्रैविध्योक्तिः किमर्था इत्यत्राऽऽह -- अथेति। देवद्विजगुरुप्राज्ञानां सन्निधौ तत्तदुचितः शास्त्रोदित आचार इह पूजनमित्युच्यते। यथा -- प्रशस्तमङ्गल्यदेवायतनचतुष्पथादिप्रदक्षिणमावर्तेत मनसा वा तत्समग्रम् इत्यादि। तथा -- प्रदक्षिणं व्रजेद्विप्रान् गामश्वत्थं हुताशनम् इति। आसनेभ्यः समुत्तस्थुर्मानयन्तः पुरोहितम्उर्ध्वं प्राणा ह्युत्क्रामन्ति यूनः स्थविर आगते (आयति)। अभ्यु(प्रत्यु)त्थानाभिवादाभ्यां पुनस्तान्प्रतिपद्यते \[मनुः2।120\] इत्यादिना। तथा -- न हायनैर्न पलितैर्न वित्तैर्न (वित्तेन न) च बन्धुभिः। ऋषयश्चक्रिरे धर्मं योऽनूचानः स नो महान् \[मनुः2।154\] इति। शुद्धिरूपस्य फलभूतस्य शौचस्य तपस्त्वेन विभजनायोगात्तद्धेतुमाहतीर्थस्नानादिकमिति। आर्जवस्य शारीरतपस्त्वेन व्यपदेशार्थं वाङ्मनःकायानामैकरूप्यं शरीरप्रधानतया व्यपदिशतियथा वाङ्मनश्शारीरवृत्तमिति। ब्रह्मचर्यं च योषित्सु भोग्यताबुद्धिवर्जनम् इत्याद्यनुसारेणाऽऽह -- योषित्स्विति। तादृशप्रेक्षणादिकमपिस्मरणं कीर्तनं केलिः प्रेक्षणं गुह्यभाषणम् \[द.स्मृ.7।31\] इत्यादिना मैथुनत्वेन विभज्य स्मरन्तीति प्रागेव दर्शितम्। अत्रापीक्षणादिरहितत्व ग्रहणं ब्रह्मचर्यस्य शारीरतपस्त्वज्ञापनाय।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.14 The worship of the gods, the twice-born, preceptors and enlightened ones; purity, viz., by ablutions in sacred water;
-uprightness, viz., bodily action in accordance with the mind;
-continence, viz., absence of looking at women etc., considering them as objcts of pleasure; non-injury, viz., not hurting any being - these constitute the austerity of the body.
+<details><summary>आदिदेवानन्दः</summary>
 
+17.14 The worship of the gods, the twice-born, preceptors and enlightened ones; purity, viz., by ablutions in sacred water; uprightness, viz., bodily action in accordance with the mind; continence, viz., absence of looking at women etc., considering them as objcts of pleasure; non-injury, viz., not hurting any being - these constitute the austerity of the body.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।17.14 -- 17.16।। देवेत्यादि मानसमुच्यते इत्यन्तम्। आर्जवम् -- ऋजुता।
-अगोप्यविषया धृष्टता सत्यमिति अस्यैव स्वरूपनिरूपणं प्रियहितम् इत्यनेन
-क्रियते। प्रियं च तत्काले हितं च कालान्तरे। ईदृशं च वाक्यं
-सत्यमित्युच्यते न तु यथावृत्तकथनमात्रम् +++(N यथावद्वृत्त -- )+++। भावःआशयः;
-तस्य सम्यक् शुद्धिः भावसंशुद्धिः +++(S;;N omit भावसंशुद्धिः )+++।
-
+॥17.14॥ --,देवाश्च द्विजाश्च गुरवश्च प्राज्ञाश्च देवद्विजगुरुप्राज्ञाः तेषां पूजनं **देवद्विजगुरुप्राज्ञपूजनम्; शौचम्; आर्जवम्** ऋजुत्वम्; **ब्रह्मचर्यम् अहिंसा च** शरीरनिर्वर्त्यं **शारीरं** शरीरप्रधानैः सर्वैरेव कार्यकरणैः कर्त्रादिभिः साध्यं शारीरं **तपः उच्यते।** पञ्चैते तस्य हेतवः (गीता 18।15) इति हि वक्ष्यति॥
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.14 See Comment under 17.16
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।17.14।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।17.14।। Sri Jayatirtha did not comment on this sloka.  
-  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।17.14।। --,देवाश्च द्विजाश्च गुरवश्च प्राज्ञाश्च देवद्विजगुरुप्राज्ञाः
-तेषां पूजनं **देवद्विजगुरुप्राज्ञपूजनम्; शौचम्; आर्जवम्** ऋजुत्वम्;
-**ब्रह्मचर्यम् अहिंसा च** शरीरनिर्वर्त्यं **शारीरं** शरीरप्रधानैः
-सर्वैरेव कार्यकरणैः कर्त्रादिभिः साध्यं शारीरं **तपः उच्यते।** पञ्चैते
-तस्य हेतवः (गीता 18।15) इति हि वक्ष्यति।।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
-
-।।17.14।। अब तीन प्रकारका तप कहा जाता है --, देव; ब्राह्मण; गुरु और
-बुद्धिमान्ज्ञानी इन सबका पूजन; शौच -- पवित्रता; आर्जव -- सरलता;
-ब्रह्मचर्य और अहिंसा यह सब शरीरसम्बन्धी -- शरीरद्वारा किये जानेवाले तप
-कहे जाते हैं अर्थात् शरीर जिनमें प्रधान है; ऐसे समस्त कार्य और करणोंसे
-जो कर्ताद्वारा किये जायँ वे शरीरसम्बन्धी तप कहलाते हैं। आगे यह कहेंगे भी
-कि उन ( सबकर्मों ) के ये पाँच कारण हैं इत्यादि।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 17.14 Deva-dvija-guru-pujanam, the worship of gods, twice-borns,
 venerable persons and the wise; saucam, purity; arjavam,
@@ -146,13 +59,21 @@ accomplished through the body: that which can be performed by the agent,
 etc. \[See 18. 13-15.-Tr.\], (i.e.) with the whole group of body and
 organs, in which the body predominates; for the Lord will say, 'these
 five are its causes' (18.15).
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।17.14।। सात्त्विकादिभावं निरूपयितुं सर्वस्य तपसः स्वरूपं त्रिविधं
+<details><summary>हरिकृष्णदासः</summary>
+
+॥17.14॥ अब तीन प्रकारका तप कहा जाता है --, देव; ब्राह्मण; गुरु और
+बुद्धिमान्ज्ञानी इन सबका पूजन; शौच -- पवित्रता; आर्जव -- सरलता;
+ब्रह्मचर्य और अहिंसा यह सब शरीरसम्बन्धी -- शरीरद्वारा किये जानेवाले तप
+कहे जाते हैं अर्थात् शरीर जिनमें प्रधान है; ऐसे समस्त कार्य और करणोंसे
+जो कर्ताद्वारा किये जायँ वे शरीरसम्बन्धी तप कहलाते हैं। आगे यह कहेंगे भी
+कि उन ( सबकर्मों ) के ये पाँच कारण हैं इत्यादि।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥17.14॥ सात्त्विकादिभावं निरूपयितुं सर्वस्य तपसः स्वरूपं त्रिविधं
 निरूपयति -- **अथेति।** तत्र शारीरं तपो निर्दिशति -- **देवेति।** देवा
 ब्रह्मविष्णुशिवादयः; द्विजाः पूज्यपूज्यत्वाद्विजोत्तमाः; गुरवः
 पित्रादयः; प्राज्ञाः पण्डिता विदितवेदितव्यास्तेषां पूजनं
@@ -162,38 +83,18 @@ five are its causes' (18.15).
 संभवतीति मत्वा विशिनष्टि -- **शारीरेति।** कथं कर्त्रादिसाध्यत्वे तपसः
 शारीरत्वं शारीरत्वे वा कथं कर्त्रादिसाध्यत्वमित्याशङ्क्याह --
 **पञ्चेति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।17.14।। क्रमप्राप्तस्य तपसः सात्त्विकादिभेदं कथयितुं
-शारीरवाचिकमानसभेदेन तस्य त्रैविध्यमाह त्रिभिः -- देवद्विजेत्यादिना। देवा
-ब्रह्मविष्णुशिवसूर्याग्निदुर्गादयः; द्विजा द्विजातयो ब्राह्मणाः; गुरवः
-पितृमात्राचार्यादयः; प्राज्ञाः पण्डिता विदितवेदतदुपकरणार्थास्तेषां पूजनं
-प्रणामशुश्रूषादि यथाशास्त्रं; शौचं मृज्जलाभ्यां शरीरशोधनं;
-आर्जवमकौटिल्यं भावशुद्धिशब्देन मानसे तपसि वक्ष्यति; शारीरं त्वार्जवं
-विहितप्रतिषिद्धयोरेकरूपप्रवृत्तिनिवृत्तिशालित्वं; ब्रह्मचर्यं
-निषिद्धमैथुननिवृत्तिः; अहिंसाऽशास्त्रप्राणिपीडनाभावः।
-चकारादस्तेयापरिग्रहावपि। शारीरं शरीरप्रधानैः कर्त्रादिभिः साध्यं नतु
-केवलेन शरीरेण। पञ्चैते तस्य हेतव इति हि वक्ष्यतीत्थं शारीरं तप उच्यते।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।17.14।। देवाः विष्ण्वाद्याः; द्विजा ब्राह्मणाः; गुरवो
+॥17.14॥ देवाः विष्ण्वाद्याः; द्विजा ब्राह्मणाः; गुरवो
 मातृपित्राचार्यादयः; प्राज्ञाः ब्रह्मनिष्ठाः; तेषां पूजनम्।
 आर्जवमकौटिल्यम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।17.14।। एवं हानादानार्थ यज्ञत्रैविध्यं विभज्य तपसः सात्त्विकादिभावं
+<details><summary>धनपतिः</summary>
+
+॥17.14॥ एवं हानादानार्थ यज्ञत्रैविध्यं विभज्य तपसः सात्त्विकादिभावं
 निरुपयितुं सर्वस्य तस्य त्रिविधं स्वरुपं प्रथममाह त्रिभिः। देवाः
 ब्रह्मविष्णुशिवादयः; द्विजाः पूज्यत्वात् द्विजोत्तमाः; गुरवः
 पित्राचार्यादयः; प्राज्ञाः पण्डिताः विदितवेद्याः
@@ -203,124 +104,138 @@ five are its causes' (18.15).
 चकालोऽस्तेयादिसमुच्चयार्थः। शरीरनिर्वर्त्यं शारीरं शरीरप्रधानैः सर्वैरेव
 कर्त्रादिभिः साध्यं शारीरं तप उच्यते। अधिष्ठानं तथा कर्ता करणं च
 पृथग्विधम्। विविधाश्च पृथक्टेष्टा दैवं चैवात्र
-पञ्चमम्।। शरीरवाङ्गनोभिर्यत्कर्म प्रारभते नरः। न्याध्यं वा विपरीतं वा
+पञ्चमम्॥ शरीरवाङ्गनोभिर्यत्कर्म प्रारभते नरः। न्याध्यं वा विपरीतं वा
 पञ्चैते तस्य हेतवः इति वक्ष्यमाणत्वात्।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥17.14॥ क्रमप्राप्तस्य तपसः सात्त्विकादिभेदं कथयितुं
+शारीरवाचिकमानसभेदेन तस्य त्रैविध्यमाह त्रिभिः -- देवद्विजेत्यादिना। देवा
+ब्रह्मविष्णुशिवसूर्याग्निदुर्गादयः; द्विजा द्विजातयो ब्राह्मणाः; गुरवः
+पितृमात्राचार्यादयः; प्राज्ञाः पण्डिता विदितवेदतदुपकरणार्थास्तेषां पूजनं
+प्रणामशुश्रूषादि यथाशास्त्रं; शौचं मृज्जलाभ्यां शरीरशोधनं;
+आर्जवमकौटिल्यं भावशुद्धिशब्देन मानसे तपसि वक्ष्यति; शारीरं त्वार्जवं
+विहितप्रतिषिद्धयोरेकरूपप्रवृत्तिनिवृत्तिशालित्वं; ब्रह्मचर्यं
+निषिद्धमैथुननिवृत्तिः; अहिंसाऽशास्त्रप्राणिपीडनाभावः।
+चकारादस्तेयापरिग्रहावपि। शारीरं शरीरप्रधानैः कर्त्रादिभिः साध्यं नतु
+केवलेन शरीरेण। पञ्चैते तस्य हेतव इति हि वक्ष्यतीत्थं शारीरं तप उच्यते।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।17.14।। तपसः सात्त्विकादिभेदं दर्शयितुं प्रथमं तावच्छरीरादिभेदमाह
+॥17.14॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥17.14॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
+
+<details><summary>मूलम्</summary>
+
+॥17.14 -- 17.16॥ देवेत्यादि मानसमुच्यते इत्यन्तम्। आर्जवम् -- ऋजुता। अगोप्यविषया धृष्टता सत्यमिति अस्यैव स्वरूपनिरूपणं प्रियहितम् इत्यनेन क्रियते। प्रियं च तत्काले हितं च कालान्तरे। ईदृशं च वाक्यं सत्यमित्युच्यते न तु यथावृत्तकथनमात्रम् +++(N यथावद्वृत्त -- )+++। भावःआशयः; तस्य सम्यक् शुद्धिः भावसंशुद्धिः +++(S;;N omit भावसंशुद्धिः )+++।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+17.14 See Comment under 17.16
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
+
+<details><summary>मूलम्</summary>
+
+॥17.14॥ तपसः सात्त्विकादिभेदं दर्शयितुं प्रथमं तावच्छरीरादिभेदमाह
 त्रिभिः देवेति। देवेत्यारभ्य मानसमुच्यते इत्यन्तं सुगमम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।17.14।। अथ यज्ञानन्तरं तपसः प्रतिज्ञातत्वात् तपसस्त्रैविध्यं वक्तुं;
+<details><summary>पुरुषोत्तमः</summary>
+
+॥17.14॥ अथ यज्ञानन्तरं तपसः प्रतिज्ञातत्वात् तपसस्त्रैविध्यं वक्तुं;
 तस्य च शरीरवाङ्मनोभेदेन त्रिविधत्वात्तत्ति्रतयनिरूपणपूर्वकं
 त्रैविध्यकथनार्थं शारीरादिकत्रयमाह -- देवद्विजेति त्रयेण। देवाः
 ब्रह्माद्याः; द्विजाः वेदैकनिष्ठाः; गुरवः सरहस्यमन्त्रोपदेष्टारः;
 प्राज्ञाः पण्डिताः शास्त्रपरिनिष्ठितबुद्धयः; तेषां पूजनं यथाविधि। शौचं
 मृदादिना; आर्जवं ऋजुता; ब्रह्मचर्यं इन्द्रियनिग्रहः; अहिंसा
 परद्रोहराहित्यं; चकारेणेर्प्यादयः। एतत्सर्वं शारीरं शरीरसम्बन्धि तप
-उच्यते कथ्यते इत्यर्थः।  
-  
-
+उच्यते कथ्यते इत्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।17.14।। तपसः सात्त्विकादिभेदं दर्शयितुं प्रथमं तावच्छरीरादिभेदेन तस्य
+॥17.14॥ तपसः सात्त्विकादिभेदं दर्शयितुं प्रथमं तावच्छरीरादिभेदेन तस्य
 त्रैविध्यमाह **-- देवद्विजेति त्रिभिः।** प्राज्ञा गुरुव्यतिरिक्ता
 अन्येऽपि तत्त्वविदः। देवब्राह्मणादिपूजनं शौचादिकं शारीरं शरीरनिवर्त्यं
 तप उच्यते।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।17.14।। देव; द्विज; गुरु और ज्ञानी जनों का पूजन अपने आराध्य के साथ
-तादात्म्य बनाये रखने की साधना पूजा कहलाती है। इस पूजा के फलस्वरूप पूजक
-अपने आराध्य के गुणों से सम्पन्न हो जाता है। नैतिक विकास एवं सांस्कृतिक
-उन्नति का उपाय यह पूजन ही है। यह बहुत कुछ चुम्बकीकरण की स्पर्शविधि के
-समान ही है। जो पुरुष अपने व्यक्तित्व के प्रतिबन्धनों से मुक्त होना चाहता
-है; उसको अपने आराध्य आदर्श (देव) के प्रति श्रद्धा और भक्ति; आदर और
-सम्मान का भाव होना अत्यावश्यक है। उसी प्रकार; जिन सत्पुरुषों ने इस आदर्श
-को प्रस्तुत किया उन द्विजों (ब्राह्मणों) के प्रति तथा उपदेष्टा गुरु और
-इस आदर्श के अनुमोदक ज्ञानी जनों के प्रति भी वही भक्ति भाव होना
-चाहिए। द्विज इस शब्द का वाच्यार्थ है वह व्यक्ति जो दो बार जन्मा हो । यह
-शब्द ब्राह्मणों का सूचक है और ब्रह्मवित् पुरुष को ही ब्राह्मण कहते हैं।
-माता के गर्भ से जन्म लेने पर सभी मनुष्य एक समान ही होते हैं। यद्यपि
-सबमें बौद्धिक क्षमता और सुन्दरता होती है; परन्तु उसके साथ ही अनेक नैतिक
-दोष भी होते हैं। हम एक गर्भ से तो मुक्त होते हैं परन्तु प्रकृति की जड़
-उपाधियों के गर्भ में बन्धे ही रहते हैं इन उपाधियों के तादात्म्य से स्वयं
-को मुक्त कर अपने आत्मस्वरूप के परमानन्द में निष्ठा प्राप्त करना ही दूसरा
-जन्म माना जाता है। इसलिए आत्मानुभवी पुरुष को द्विज कहा जाता है। शौच और
-सरलता शरीर की स्वच्छता के साथसाथ आसपास के वातावरण की स्वच्छता की ओर भी
-साधक को ध्यान देना चाहिए। यह बाह्य शुद्धि ही यहाँ शौच शब्द से इंगित की
-गयी है। उसी प्रकार साधक के बाह्य व्यवहार में सरलता होनी चाहिए। कुटिलता
-के कारण व्यक्तित्व के विभाजन की आशंका बनी रहती है। ऐसे विभाजित पुरुष के
-मन का सन्तुलन; सार्मथ्य और शान्ति नष्ट हो जाती है। ब्रह्मचर्य सदैव
-ब्रह्मस्वरूप में रमने के स्वभाव को ही ब्रह्मचर्य कहते हैं। यह रमण तब तक
-संभव नहीं हो सकता जब तक हमारा शरीर और मन विषयोपभोगों से विरत नहीं होता
-है। इसलिए; इन्द्रियों व मन के संयम को भी ब्रह्मचर्य की संज्ञा प्रदान की
-गयी है। जैसे; मेडिकल कालेज में प्रवेश प्राप्त कर लेने पर ही विद्यार्थी
-को डाक्टर कहा जाने लगता है; क्योंकि उसका साध्य तब दूर नहीं रह
-जाता। अहिंसा किसी भी प्राणी को पीड़ा न पहुँचाने का नाम ही अहिंसा है। जीवन
-में; जाने या अनजाने किसी प्राणी को कदापि शारीरिक पीड़ा न पहुँचाना असम्भव
-है। परन्तु अपने मन में हिंसा का भाव कभी न आने देना चाहिए; और तब
-अपरिहार्य शारीरिक पीड़ा भी कल्याण कारक हो सकती है। उदाहरणार्थ; एक शल्य
-चिकित्सक के द्वारा रोगी को दिया गया शारीरिक कष्ट रोगी के लिए कल्याण कारक
-ही सिद्ध होता है। उस चिकित्सक की दृष्टि से यह अहिंसा ही है। उपर्युक्त
-पूजनादि साधनाओं में शरीर की प्रधानता होने से उन्हें शरीर तप कहा गया
-है। तप का अर्थ शरीर उत्पीड़न ही नहीं है। वस्तुत; तप तो वह विवेकपूर्ण जीवन
-पद्धति है; जिसके द्वारा हम अपनी समस्त शक्तियों के अपव्यय को अवरुद्ध कर
-उनका संचय कर सकते हैं। नई शक्तियों को प्राप्त कर उनका संचय करना और
-तत्पश्चात् उनका रचनात्मक कार्यों में प्रयोग करना यह सम्पूर्ण योजना तप
-शब्द के व्यापक अर्थ में समाविष्ट है। ऐसे विवेकपूर्ण तप को यहाँ वास्तविक
-शरीर तप के रूप में प्रमाणित किया गया है। अब; अगले श्लोक में वाङ्मय (वाणी
-संबंधी) तप को बताते हैं
-
+17.14 Worship of the gods, the twice-born, the preceptors, the enlightened ones, purity, uprightness, continence and non-injury, these are called austerity of the body.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।17.14।। देव, द्विज (ब्राह्मण), गुरु और ज्ञानी जनों का पूजन, शौच, आर्जव
-(सरलता), ब्रह्मचर्य और अहिंसा, यह शरीर संबंधी तप कहा जाता है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+17.14 The worship of gods, twice-borns, venerable persons and the wise;
+purity, straightforwardness, celibacy and non-injury,-are said to be bodily austerity.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+17.14 Worship of God and the Master; respect for the preacher and the philosopher; purity, rectitude, continence and harmlessness - all this is physical austerity.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+17.14. The worship to the gods, to the twice-born, to the elders and to the wise; the purity, the honesty, the state of continence, and the harmlessness-all this is said to be bodily austerity.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+17.14 Worship of the gods, the twice-born, the teachers and the wise,
+purity, straightforwardness, celibacy and non-injury are called the austerities of the body.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+17.14 देवद्विजगुरुप्राज्ञपूजनम् worship of the gods; the twicorn; the teachers and the wise; शौचम् purity; आर्जवम् straightforwardness;
+ब्रह्मचर्यम् celibacy; अहिंसा noninjury; च and; शारीरम् of the body; तपः
+austerity; उच्यते is called.Commentary Tapas Austerity or selfdiscipline.Using the feet in pilgrimage to the sacred temples using the hands in cleaning the temples; in collecting the materials of worship of God; and in performing worship prostrations to the Brahmanas;
+preceptors and the wise continence and noninjury; constitute physical austerity. The body is used in the service of the parents and preceptors; the poor and the sick. This is also bodily austerity. That austerity which is done by the body is physical austerity. The physical body is the chief agent in doing such austerity. Hence this is called physical austerity. The practice of nonstealing and noncovetousness are also included in physical austerity.He who has realised I am Brahman is a wise man (Prajna). A Sudra also may be a wise man. Though Vidura was a Sudra he was a sage. That is the reason why the Lord has made a separate mention of the wise.Brahmacharya means control but not suppression of the sexdesire or sexforce. If the mind is filled with sublime thoughts by meditation; Japa (repetition of a Mantra); prayer; study of holy scriptures; eniry of Who am I; and contemplation of the sexless; pure Self; the sexdesire will be devitalised by the withdrawal of the mind.
+The mind also will be thinned out. Suppressed sexdesire will attack you again and again and will produce wetdreams; irritability and restlessness of the mind. The mind should be rendered pure by meditation; Japa; singing of the Lords names; and prayer. The mind should be controlled first. Then it will be easy for you to control the senses. That is the reason why the practice of Sama or the control of the mind comes first and then comes Dama or the restraint of the senses
+(in the order of the sixfold virtues. The senses cannot operate without the help of the mind. So the effective remedy for lust and the best aid to celibacy is to control the mind first and then the senses.Intense musing on the objects of the senses does more harm to the inner spiritual life than actual sensegratification. If the mind is not rendered pure by Sadhana; mere mortification of the external senses will not produce the desired effect. Although the external senses are mortified; their internal counterparts which are still energetic and vigorous; revenge upon the mind; and produce intense mental disturbance and wild imagination.To control the mind is diffcult for neophytes or the beginners. It will be extremely difficult to control the mind first when the senses are allowed to run riot. That is the reason why Lord Krishna says Therefore; O Arjuna; mastering first the senses; do thou slay this thing of sin (desire); destructive of wisdom and knowledge.
+(Cf.III.41)The theory or doctrine that the mind should be controlled first is ite correct. This practice is intended for the firstclass type of spiritual aspirants. The middling type of students should control the senses first. The senses always have an outgoing tendency. The mind operates through the senses. Control of the one goes hand in hand with control of the other. Control of the senses is also control of the mind;
+because the mind is a bundle of senses only there is no mind without the senses.Just as an enemy can be easily conered if you have a twopronged attack; so also the mind can be controlled easily if you attack it on two fronts simultaneously -- an external attack on the senses and an internal attack on the mind itself by the eradication of the desires.To say; Control the mind first; you can control the senses (which is one point of view) or Control the senses first; you can control the mind easily (which is another point of view) is simply arguing in a vicious circle like Which came first -- the tree or the seed or You will get the knowledge of the Self if you control all desires -- and you can control all the desires only if you have knowledge of the Self.You need not worry yourself over this seeming paradox. Try to do either of the practices; viz.; control of the mind or control of the senses; according to your liking; capacity; taste and temperament. You can yourself find out by actual practice which is better. As you advance in your practice your doubtwill gradually disapperar and you will enjoy supreme peace and joy.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.14।। देवता, ब्राह्मण, गुरुजन और जीवन्मुक्त महापुरुषका पूजन करना,
 शुद्धि रखना, सरलता, ब्रह्मचर्यका पालन करना और हिंसा न करना -- यह
 शरीरसम्बन्धी तप कहा जाता है।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।17.14।।***व्याख्या --***  **देवद्विजगुरुप्राज्ञपूजनम् --** यहाँ देव
 शब्द मुख्यरूपसे विष्णु; शङ्कर; गणेश; शक्ति और सूर्य -- इन पाँच
@@ -457,61 +372,57 @@ _________________
 अन्तःकरणकी शुद्धिका कारण होनेसे वह तप परमात्मप्राप्तिमें सहायक हो सकता
 है। इसलिये साधकको मुख्यरूपसे यमोंका सेवन करते हुए समयसमयपर नियमोंका
 भी,पालन करते रहना चाहिये।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-17.14. The worship to the gods, to the twice-born, to the elders and to the wise; the purity, the honesty, the state of continence, and the harmlessness-all this is said to be bodily austerity.
-
+।।17.14।। देव; द्विज; गुरु और ज्ञानी जनों का पूजन अपने आराध्य के साथ
+तादात्म्य बनाये रखने की साधना पूजा कहलाती है। इस पूजा के फलस्वरूप पूजक
+अपने आराध्य के गुणों से सम्पन्न हो जाता है। नैतिक विकास एवं सांस्कृतिक
+उन्नति का उपाय यह पूजन ही है। यह बहुत कुछ चुम्बकीकरण की स्पर्शविधि के
+समान ही है। जो पुरुष अपने व्यक्तित्व के प्रतिबन्धनों से मुक्त होना चाहता
+है; उसको अपने आराध्य आदर्श (देव) के प्रति श्रद्धा और भक्ति; आदर और
+सम्मान का भाव होना अत्यावश्यक है। उसी प्रकार; जिन सत्पुरुषों ने इस आदर्श
+को प्रस्तुत किया उन द्विजों (ब्राह्मणों) के प्रति तथा उपदेष्टा गुरु और
+इस आदर्श के अनुमोदक ज्ञानी जनों के प्रति भी वही भक्ति भाव होना
+चाहिए। द्विज इस शब्द का वाच्यार्थ है वह व्यक्ति जो दो बार जन्मा हो । यह
+शब्द ब्राह्मणों का सूचक है और ब्रह्मवित् पुरुष को ही ब्राह्मण कहते हैं।
+माता के गर्भ से जन्म लेने पर सभी मनुष्य एक समान ही होते हैं। यद्यपि
+सबमें बौद्धिक क्षमता और सुन्दरता होती है; परन्तु उसके साथ ही अनेक नैतिक
+दोष भी होते हैं। हम एक गर्भ से तो मुक्त होते हैं परन्तु प्रकृति की जड़
+उपाधियों के गर्भ में बन्धे ही रहते हैं इन उपाधियों के तादात्म्य से स्वयं
+को मुक्त कर अपने आत्मस्वरूप के परमानन्द में निष्ठा प्राप्त करना ही दूसरा
+जन्म माना जाता है। इसलिए आत्मानुभवी पुरुष को द्विज कहा जाता है। शौच और
+सरलता शरीर की स्वच्छता के साथसाथ आसपास के वातावरण की स्वच्छता की ओर भी
+साधक को ध्यान देना चाहिए। यह बाह्य शुद्धि ही यहाँ शौच शब्द से इंगित की
+गयी है। उसी प्रकार साधक के बाह्य व्यवहार में सरलता होनी चाहिए। कुटिलता
+के कारण व्यक्तित्व के विभाजन की आशंका बनी रहती है। ऐसे विभाजित पुरुष के
+मन का सन्तुलन; सार्मथ्य और शान्ति नष्ट हो जाती है। ब्रह्मचर्य सदैव
+ब्रह्मस्वरूप में रमने के स्वभाव को ही ब्रह्मचर्य कहते हैं। यह रमण तब तक
+संभव नहीं हो सकता जब तक हमारा शरीर और मन विषयोपभोगों से विरत नहीं होता
+है। इसलिए; इन्द्रियों व मन के संयम को भी ब्रह्मचर्य की संज्ञा प्रदान की
+गयी है। जैसे; मेडिकल कालेज में प्रवेश प्राप्त कर लेने पर ही विद्यार्थी
+को डाक्टर कहा जाने लगता है; क्योंकि उसका साध्य तब दूर नहीं रह
+जाता। अहिंसा किसी भी प्राणी को पीड़ा न पहुँचाने का नाम ही अहिंसा है। जीवन
+में; जाने या अनजाने किसी प्राणी को कदापि शारीरिक पीड़ा न पहुँचाना असम्भव
+है। परन्तु अपने मन में हिंसा का भाव कभी न आने देना चाहिए; और तब
+अपरिहार्य शारीरिक पीड़ा भी कल्याण कारक हो सकती है। उदाहरणार्थ; एक शल्य
+चिकित्सक के द्वारा रोगी को दिया गया शारीरिक कष्ट रोगी के लिए कल्याण कारक
+ही सिद्ध होता है। उस चिकित्सक की दृष्टि से यह अहिंसा ही है। उपर्युक्त
+पूजनादि साधनाओं में शरीर की प्रधानता होने से उन्हें शरीर तप कहा गया
+है। तप का अर्थ शरीर उत्पीड़न ही नहीं है। वस्तुत; तप तो वह विवेकपूर्ण जीवन
+पद्धति है; जिसके द्वारा हम अपनी समस्त शक्तियों के अपव्यय को अवरुद्ध कर
+उनका संचय कर सकते हैं। नई शक्तियों को प्राप्त कर उनका संचय करना और
+तत्पश्चात् उनका रचनात्मक कार्यों में प्रयोग करना यह सम्पूर्ण योजना तप
+शब्द के व्यापक अर्थ में समाविष्ट है। ऐसे विवेकपूर्ण तप को यहाँ वास्तविक
+शरीर तप के रूप में प्रमाणित किया गया है। अब; अगले श्लोक में वाङ्मय (वाणी
+संबंधी) तप को बताते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.14 The worship of gods, twice-borns, venerable persons and the wise;
-purity, straightforwardness, celibacy and non-injury,-are said to be bodily austerity.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।17.14।। देव, द्विज (ब्राह्मण), गुरु और ज्ञानी जनों का पूजन, शौच, आर्जव
+(सरलता), ब्रह्मचर्य और अहिंसा, यह शरीर संबंधी तप कहा जाता है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.14 Worship of God and the Master; respect for the preacher and the philosopher; purity, rectitude, continence and harmlessness - all this is physical austerity.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-17.14 Worship of the gods, the twice-born, the preceptors, the enlightened ones, purity, uprightness, continence and non-injury, these are called austerity of the body.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-17.14 Worship of the gods, the twice-born, the teachers and the wise,
-purity, straightforwardness, celibacy and non-injury are called the austerities of the body.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-17.14 देवद्विजगुरुप्राज्ञपूजनम् worship of the gods; the twicorn; the teachers and the wise; शौचम् purity; आर्जवम् straightforwardness;
-ब्रह्मचर्यम् celibacy; अहिंसा noninjury; च and; शारीरम् of the body; तपः
-austerity; उच्यते is called.Commentary Tapas Austerity or selfdiscipline.Using the feet in pilgrimage to the sacred temples using the hands in cleaning the temples; in collecting the materials of worship of God; and in performing worship prostrations to the Brahmanas;
-preceptors and the wise continence and noninjury; constitute physical austerity. The body is used in the service of the parents and preceptors; the poor and the sick. This is also bodily austerity. That austerity which is done by the body is physical austerity. The physical body is the chief agent in doing such austerity. Hence this is called physical austerity. The practice of nonstealing and noncovetousness are also included in physical austerity.He who has realised I am Brahman is a wise man (Prajna). A Sudra also may be a wise man. Though Vidura was a Sudra he was a sage. That is the reason why the Lord has made a separate mention of the wise.Brahmacharya means control but not suppression of the sexdesire or sexforce. If the mind is filled with sublime thoughts by meditation; Japa (repetition of a Mantra); prayer; study of holy scriptures; eniry of Who am I; and contemplation of the sexless; pure Self; the sexdesire will be devitalised by the withdrawal of the mind.
-The mind also will be thinned out. Suppressed sexdesire will attack you again and again and will produce wetdreams; irritability and restlessness of the mind. The mind should be rendered pure by meditation; Japa; singing of the Lords names; and prayer. The mind should be controlled first. Then it will be easy for you to control the senses. That is the reason why the practice of Sama or the control of the mind comes first and then comes Dama or the restraint of the senses
-(in the order of the sixfold virtues. The senses cannot operate without the help of the mind. So the effective remedy for lust and the best aid to celibacy is to control the mind first and then the senses.Intense musing on the objects of the senses does more harm to the inner spiritual life than actual sensegratification. If the mind is not rendered pure by Sadhana; mere mortification of the external senses will not produce the desired effect. Although the external senses are mortified; their internal counterparts which are still energetic and vigorous; revenge upon the mind; and produce intense mental disturbance and wild imagination.To control the mind is diffcult for neophytes or the beginners. It will be extremely difficult to control the mind first when the senses are allowed to run riot. That is the reason why Lord Krishna says Therefore; O Arjuna; mastering first the senses; do thou slay this thing of sin (desire); destructive of wisdom and knowledge.
-(Cf.III.41)The theory or doctrine that the mind should be controlled first is ite correct. This practice is intended for the firstclass type of spiritual aspirants. The middling type of students should control the senses first. The senses always have an outgoing tendency. The mind operates through the senses. Control of the one goes hand in hand with control of the other. Control of the senses is also control of the mind;
-because the mind is a bundle of senses only there is no mind without the senses.Just as an enemy can be easily conered if you have a twopronged attack; so also the mind can be controlled easily if you attack it on two fronts simultaneously -- an external attack on the senses and an internal attack on the mind itself by the eradication of the desires.To say; Control the mind first; you can control the senses (which is one point of view) or Control the senses first; you can control the mind easily (which is another point of view) is simply arguing in a vicious circle like Which came first -- the tree or the seed or You will get the knowledge of the Self if you control all desires -- and you can control all the desires only if you have knowledge of the Self.You need not worry yourself over this seeming paradox. Try to do either of the practices; viz.; control of the mind or control of the senses; according to your liking; capacity; taste and temperament. You can yourself find out by actual practice which is better. As you advance in your practice your doubtwill gradually disapperar and you will enjoy supreme peace and joy.
-
-</details>
 </div>

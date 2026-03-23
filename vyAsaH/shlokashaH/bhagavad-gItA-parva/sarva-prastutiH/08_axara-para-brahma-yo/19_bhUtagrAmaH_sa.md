@@ -1,237 +1,61 @@
 +++
 title = "19 भूतग्रामः स"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 भूत-ग्रामः स एवायं  
 भूत्वा **भूत्वा प्रलीयते**।  
 रात्र्य्-आगमे, ऽवशः पार्थ  
 **प्रभवत्य्** अहर्-आगमे॥8.19॥
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते।  
-रात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे।।8.19।।
+रात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे॥8.19॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।8.19।।**स एव अयं** कर्मवश्यो **भूतग्रामः अहरागमे भूत्वा भूत्वा
-रात्र्यागमे प्रलीयते** पुनः अपि **अहरागमे प्रभवति।** तथा
-वर्षशतावसानरूपयुगसहस्रान्ते ब्रह्मलोकपर्य्यन्ता लोकाः ब्रह्मा च पृथिवी
-अप्सु प्रलीयते आपः तेजसि लीयन्ते इत्यादिक्रमेण अव्यक्ताक्षरतमःपर्यन्तं
-मयि एव प्रलीयन्ते। एवं मद्व्यतिरिक्तस्य कृत्स्नस्य कालव्यवस्थया मत्त
-उत्पत्तेः मयि प्रलयात् च उत्पत्तिविनाशयोगित्वम् अवर्जनीयम् इति
-ऐश्वर्यगतिं प्राप्तानां पुनरावृत्तिः अपरिहार्या। माम् उपेतानां तु न
-पुनरावृत्तिप्रसङ्गः। अथ कैवल्यप्राप्तानाम् अपि पुनरावृत्तिः न विद्यते इति
-आह --
-
+॥8.19॥**स एव अयं** कर्मवश्यो **भूतग्रामो ऽहरागमे भूत्वा भूत्वा रात्र्यागमे प्रलीयते** पुनो ऽपि **अहरागमे प्रभवति।** तथा वर्षशतावसानरूपयुगसहस्रान्ते ब्रह्मलोकपर्य्यन्ता लोका ब्रह्मा च पृथिव्य् अप्सु प्रलीयते आपस् तेजसि लीयन्ते इत्यादिक्रमेण अव्यक्ताक्षरतमःपर्यन्तं मय्य् एव प्रलीयन्ते। एवं मद्व्यतिरिक्तस्य कृत्स्नस्य कालव्यवस्थया मत्त उत्पत्तेर् मयि प्रलयाच् च उत्पत्तिविनाशयोगित्वम् अवर्जनीयम् इत्य् ऐश्वर्यगतिं प्राप्तानां पुनरावृत्तिर् अपरिहार्या। माम् उपेतानां तु न पुनरावृत्तिप्रसङ्गः। अथ कैवल्यप्राप्तानाम् अपि पुनरावृत्तिर् न विद्यते इत्य् आह --
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।। 8.19सहस्र -- इत्यादिश्लोकत्रयस्य पिण्डितार्थमाह --
-ब्रह्मलोकपर्यन्तानामिति।
-हिरण्यगर्भादिस्वातन्त्र्यसिद्धसत्यलोकादिस्थैर्यशङ्काव्युदासायाहपरमपुरुषसङ्कल्पकृतामिति।
-ईश्वरस्वातन्त्र्यमेव ह्यन्यूनानतिरिक्तदिनरात्र्यादिविचित्रव्यवस्थायां
-कारणम्। तथा चोच्यतेकालस्य च हि मृत्योश्च \[म.भा.5।68।13\]कालचक्रं
-जगच्चक्रं \[म.भा.5।68।12\] इत्यादिभिः। एवमेवोक्तमन्यत्रततो युगसहस्रान्ते
-संहरिष्ये जगत्पुनः। कृत्वा मत्स्थानि भूतानि चराणि स्थावराणि च इत्यादि।
-यत्तु मानवेतद्ये युगसहस्रं तु (तद्वे युगसहस्रांतं) ब्राह्मं
-पुण्यमहर्विदुः। रात्रिं च तावतीमेव तेऽहोरात्रविदो जनाः \[1।73\] इति तत्र
-य इत्येव पाठाद्यथाक्रममन्वयः। इह तुसहस्र -- इतिश्लोकेयत्
-इत्यस्याहश्शब्देनैव ह्यन्वयो घटते ततश्चते इत्यस्यये इति पदमपेक्षितम्
-तत्रापिये विदुस्तेऽहोरात्रविदो जनाः इत्यन्वये
-प्रसङ्गरहिताहोरात्रवेदिव्युत्पादनरूपं स्तुतिपरं वाक्यं प्रस्तुतासङ्गतं
-स्यात् ततश्चयेऽहोरात्रविदो जनास्त एवं विदुः इत्यन्वयः। एवं
-कालव्यवस्थायां प्रामाणिकत्वप्रतिपादनपरोऽत्र स्वीकार्य इत्यभिप्रायेणाहये
-मनुष्यादीति। अनूद्यमानमहोरात्रवेदित्वं यथाप्रसिद्धि सर्वविषयमेव
-भवितुमर्हति तेन चतुर्मुखस्यापि मनुष्यादितुल्यता द्योतिता
-स्यादित्यभिप्रायेणमनुष्यादीत्यादिकमुक्तम्। ब्रह्मशब्दस्यात्र
-परमात्मविषयत्वभ्रमव्युदासायचतुर्मुखशब्दः। तस्यैव हि
-सहस्रयुगप्रतिनियताहोरजनीविभागः प्रसिद्ध इति भावः। सविशेषणौ विधिनिषेधौ
-विशेषणमुपसङ्कामतः इति न्यायात्येऽहोरात्रविदो जनाः
-इत्यहोरात्रवेदतांशस्यानूदितत्त्वाच्च सहस्रयुगपर्यन्ततावेदनमेवात्र
-विधेयमित्यभिप्रायेणतच्चतुर्युगसहस्रावसानं विदुरित्युक्तम्। सहस्रयुगानि
-पर्यन्तं यस्य तत्सहस्रयुगपर्यन्तम्। युगशब्दश्चात्र
-प्रमाणान्तरानुसाराच्चतुर्युगपरः। अस्त्वेवं चतुर्मुखस्याहोरात्रव्यवस्था
-ततः किं प्रस्तुतस्य इत्यत्रोत्तरम् -- अव्यक्तात् इति श्लोकः। तस्यार्थमाह
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥ 8.19सहस्र -- इत्यादिश्लोकत्रयस्य पिण्डितार्थमाह -- ब्रह्मलोकपर्यन्तानामिति। हिरण्यगर्भादिस्वातन्त्र्यसिद्धसत्यलोकादिस्थैर्यशङ्काव्युदासायाहपरमपुरुषसङ्कल्पकृतामिति। ईश्वरस्वातन्त्र्यमेव ह्यन्यूनानतिरिक्तदिनरात्र्यादिविचित्रव्यवस्थायां कारणम्। तथा चोच्यतेकालस्य च हि मृत्योश्च \[म.भा.5।68।13\]कालचक्रं जगच्चक्रं \[म.भा.5।68।12\] इत्यादिभिः। एवमेवोक्तमन्यत्रततो युगसहस्रान्ते संहरिष्ये जगत्पुनः। कृत्वा मत्स्थानि भूतानि चराणि स्थावराणि च इत्यादि। यत्तु मानवेतद्ये युगसहस्रं तु (तद्वे युगसहस्रान्तं) ब्राह्मं पुण्यमहर्विदुः। रात्रिं च तावतीमेव तेऽहोरात्रविदो जनाः \[1।73\] इति तत्र य इत्येव पाठाद्यथाक्रममन्वयः। इह तुसहस्र -- इतिश्लोकेयत् इत्यस्याहश्शब्देनैव ह्यन्वयो घटते ततश्चते इत्यस्यये इति पदमपेक्षितं तत्रापिये विदुस्तेऽहोरात्रविदो जनाः इत्यन्वये प्रसङ्गरहिताहोरात्रवेदिव्युत्पादनरूपं स्तुतिपरं वाक्यं प्रस्तुतासङ्गतं स्यात् ततश्चयेऽहोरात्रविदो जनास्त एवं विदुः इत्यन्वयः। एवं कालव्यवस्थायां प्रामाणिकत्वप्रतिपादनपरोऽत्र स्वीकार्य इत्यभिप्रायेणाहये मनुष्यादीति। अनूद्यमानमहोरात्रवेदित्वं यथाप्रसिद्धि सर्वविषयमेव भवितुमर्हति तेन चतुर्मुखस्यापि मनुष्यादितुल्यता द्योतिता स्यादित्यभिप्रायेणमनुष्यादीत्यादिकमुक्तम्। ब्रह्मशब्दस्यात्र परमात्मविषयत्वभ्रमव्युदासायचतुर्मुखशब्दः। तस्यैव हि सहस्रयुगप्रतिनियताहोरजनीविभागः प्रसिद्ध इति भावः। सविशेषणौ विधिनिषेधौ विशेषणमुपसङ्कामतः इति न्यायात्येऽहोरात्रविदो जनाः इत्यहोरात्रवेदतांशस्यानूदितत्त्वाच्च सहस्रयुगपर्यन्ततावेदनमेवात्र विधेयमित्यभिप्रायेणतच्चतुर्युगसहस्रावसानं विदुरित्युक्तम्। सहस्रयुगानि पर्यन्तं यस्य तत्सहस्रयुगपर्यन्तम्। युगशब्दश्चात्र प्रमाणान्तरानुसाराच्चतुर्युगपरः। अस्त्वेवं चतुर्मुखस्याहोरात्रव्यवस्था ततः किं प्रस्तुतस्य इत्यत्रोत्तरम् -- अव्यक्तात् इति श्लोकः। तस्यार्थमाह
 -- तत्रेति। अयमभिप्रायः -- अत्र व्यक्तिशब्दस्तावन्न महदादिविषयः
-चतुर्मुखात्प्रागेव तदुत्पत्तेः। अतश्चतुर्मुखसृज्यमात्रविषय एवासौ।
-व्यज्यन्त इति व्यक्तयः। तत्रापि सत्यलोकादेः प्रतिकल्पं प्रलयाभावात्
-त्रैलोक्यान्तर्वर्त्तिदेहेन्द्रियादिवस्तुमात्रविषयत्वमेव स्वीकार्यम्।
-तेषां चोत्पत्तिः ब्रह्मशरीरादेव। ततश्चात्राव्यक्तशब्दोऽपि न
-मूलाव्यक्तविषयः अपितु तदुपादानकब्रह्मशरीरपरः। शरीरे चाव्यक्तशब्दप्रयोगः
-सूत्रेऽप्युपपादितःसूक्ष्मं तु तदर्हत्वात् \[ब्र.सू.1।4।2\]
-इति। एवंविधसृष्टिप्रलयकारणविशेषं तदनुच्छेदाच्च सृष्टिप्रलयसन्तानानुच्छेदं
-अकृताभ्यागमकृतविप्रणाशप्रसङ्गपरिहारमुक्तस्यार्थस्य सर्वेष्वपि कल्पेषु
-अभिव्याप्तिं यथापूर्वकल्पनं चभूतग्रामः इति श्लोकः
-प्रतिपादयतीत्यभिप्रायेणाह -- स एवायमिति।
-भूतशब्दोऽत्राचिद्विशिष्टक्षेत्रज्ञपरः। सृज्यत्वसंहार्यत्वहेतुभूतमवशत्वं
-कर्मनिबन्धनमेव हीत्यभिप्रायेणकर्मवश्य इत्युक्तम्। अहरागमे इति पदंभूत्वा
-इत्यत्रापि अनुवर्तनीयमित्यभिप्रायेणअहरागमे भूत्वेत्यन्वय उक्तः। इदं च
-नैमित्तिकप्रलयप्रतिपादनं श्रुत्यादिप्रसिद्धप्राकृतप्रलयस्याप्युपलक्षणम्।
-तथा सति \[तेन\] सत्यलोकविनाशसिद्धिःआब्रह्मभुवनाल्लोकाः \[8।16\] इति
-ह्युपक्रान्तमित्यभिप्रायेणाह -- तथेति। यद्वा रात्र्यागमशब्द एव
-ब्रह्मणोऽन्तिमरात्र्यागममपि शक्त्या संगृह्णातीति भावः।
-तदेतत्सूचितंवर्षशतावसानरूपयुगसहस्रान्त इति। तथा चान्यत्र स्मर्यते --
-निजेन तस्य मानेन आयुर्वर्षशतं स्मृतम् इति। एवमहरागमशब्दोऽपि प्रथममहः
-संगृह्णाति। पृथिव्यादितत्त्वानामेव विलये तदारब्धानां
-ब्रह्मलोकब्रह्मशरीरब्रह्माण्डादीनां का कथेत्यभिप्रायेण --
-पृथिवीत्यादिश्रुतिरुदाहृता। तमोवस्थाचिद्द्रव्यस्यैकीभावो हि परस्मिन्नेव
-देवे श्रूयते। अत्रापिअहं कृत्स्नस्य जगतः प्रभवः प्रलयः \[7।6\] इत्यादिकं
-ह्युच्यत इत्यभिप्रायेणमय्येवेत्युक्तम्। एवं यो ब्रह्माणं विदधाति पूर्वम्
-\[श्वे.उ.6।18\]एको ह वै नारायण आसीन्न ब्रह्मा नेशानः \[महो.1।1\] इति
-क्रमेण पुनर्ब्रह्मादिसृष्टिः पुनश्च तत्प्रलय इत्यादिकमपि भाव्यम्।
-ईदृशसृष्टिप्रलयप्रतिपादनस्य प्रकृतोपयोगं दर्शयति -- एवमिति। सर्वेषु
-सृष्टिप्रलयप्रकरणेष्विदमेव तात्पर्यं भाव्यम्। मद्व्यतिरिक्तस्य
-कृत्स्नस्येत्यनेनअहं कृत्स्नस्य \[7।6\] इति प्रागुक्तं स्मारितम्। उक्तं
-च मोक्षधर्मेऽपिनित्यं हि (च) नास्ति जगति भूतं स्थावरजङ्गमम्। ऋते तमेकं
-पुरुषं वासुदेवं सनातनम् \[म.भा.12।339।32\] इति।  
-  
-
+चतुर्मुखात्प्रागेव तदुत्पत्तेः। अतश्चतुर्मुखसृज्यमात्रविषय एवासौ। व्यज्यन्त इति व्यक्तयः। तत्रापि सत्यलोकादेः प्रतिकल्पं प्रलयाभावात् त्रैलोक्यान्तर्वर्त्तिदेहेन्द्रियादिवस्तुमात्रविषयत्वमेव स्वीकार्यम्। तेषां चोत्पत्तिः ब्रह्मशरीरादेव। ततश्चात्राव्यक्तशब्दोऽपि न मूलाव्यक्तविषयः अपितु तदुपादानकब्रह्मशरीरपरः। शरीरे चाव्यक्तशब्दप्रयोगः सूत्रेऽप्युपपादितःसूक्ष्मं तु तदर्हत्वात् \[ब्र.सू.1।4।2\] इति। एवंविधसृष्टिप्रलयकारणविशेषं तदनुच्छेदाच्च सृष्टिप्रलयसन्तानानुच्छेदम् अकृताभ्यागमकृतविप्रणाशप्रसङ्गपरिहारमुक्तस्यार्थस्य सर्वेष्वपि कल्पेषु अभिव्याप्तिं यथापूर्वकल्पनं चभूतग्रामः इति श्लोकः प्रतिपादयतीत्यभिप्रायेणाह -- स एवायमिति। भूतशब्दोऽत्राचिद्विशिष्टक्षेत्रज्ञपरः। सृज्यत्वसंहार्यत्वहेतुभूतमवशत्वं कर्मनिबन्धनमेव हीत्यभिप्रायेणकर्मवश्य इत्युक्तम्। अहरागमे इति पदम्भूत्वा इत्यत्रापि अनुवर्तनीयमित्यभिप्रायेणअहरागमे भूत्वेत्यन्वय उक्तः। इदं च नैमित्तिकप्रलयप्रतिपादनं श्रुत्यादिप्रसिद्धप्राकृतप्रलयस्याप्युपलक्षणम्। तथा सति \[तेन\] सत्यलोकविनाशसिद्धिःआब्रह्मभुवनाल्लोकाः \[8।16\] इति ह्युपक्रान्तमित्यभिप्रायेणाह -- तथेति। यद्वा रात्र्यागमशब्द एव ब्रह्मणोऽन्तिमरात्र्यागममपि शक्त्या सङ्गृह्णातीति भावः। तदेतत्सूचितंवर्षशतावसानरूपयुगसहस्रान्त इति। तथा चान्यत्र स्मर्यते -- निजेन तस्य मानेन आयुर्वर्षशतं स्मृतम् इति। एवमहरागमशब्दोऽपि प्रथममहः सङ्गृह्णाति। पृथिव्यादितत्त्वानामेव विलये तदारब्धानां ब्रह्मलोकब्रह्मशरीरब्रह्माण्डादीनां का कथेत्यभिप्रायेण -- पृथिवीत्यादिश्रुतिरुदाहृता। तमोवस्थाचिद्द्रव्यस्यैकीभावो हि परस्मिन्नेव देवे श्रूयते। अत्रापिअहं कृत्स्नस्य जगतः प्रभवः प्रलयः \[7।6\] इत्यादिकं ह्युच्यत इत्यभिप्रायेणमय्येवेत्युक्तम्। एवं यो ब्रह्माणं विदधाति पूर्वम् \[श्वे.उ.6।18\]एको ह वै नारायण आसीन्न ब्रह्मा नेशानः \[महो.1।1\] इति क्रमेण पुनर्ब्रह्मादिसृष्टिः पुनश्च तत्प्रलय इत्यादिकमपि भाव्यम्। ईदृशसृष्टिप्रलयप्रतिपादनस्य प्रकृतोपयोगं दर्शयति -- एवमिति। सर्वेषु सृष्टिप्रलयप्रकरणेष्विदमेव तात्पर्यं भाव्यम्। मद्व्यतिरिक्तस्य कृत्स्नस्येत्यनेनअहं कृत्स्नस्य \[7।6\] इति प्रागुक्तं स्मारितम्। उक्तं च मोक्षधर्मेऽपिनित्यं हि (च) नास्ति जगति भूतं स्थावरजङ्गमम्। ऋते तमेकं पुरुषं वासुदेवं सनातनम् \[म.भा.12।339।32\] इति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
+
+<details><summary>आदिदेवानन्दः</summary>
 
 8.19 The same multitude of beings, controlled by Karma, evolves again and again, undergoing dissolution at the coming of night. Again at the coming of the day it comes forth. Similarly, at the end of the life span of Brahma which consists of a hundred years of three hundred and sixty days each, each Brahma-day being a thousand Caturyugas, all the worlds including that of Brahma and Brahma himself dissolve into Me in accordance with the order thus described in the Srutis: 'The earth is dissolved into the waters, the waters are dissolved into light' etc.,
 (Su. U., 2). The process of involution ends, after passing through all the other stages of dissolution, with the Avyakta, Akasa and Tamas.
-Therefore, for every other entity except Myself, origination and annihilation are unavoidable. So for those who seek Aisvarya (prosperity and power) birth and dissolution according to the above mentioned time arrangement are unavoidable. But in the case of those who attain to Me,
-there is no return again to Samsara. \[The immense duration of time,
-according to ancient thinkers, is as follows: Catur-yuga, or a unit of the four yugas of Krta, Treta, Dvapara and Kali, has a cumulative duration of 4,320,000 human years. A thousand such periods constitute a day time of Brahma and a similar period his night. Periodic creation and dissolution of the universe take place in these two periods respectively. One year of Brahma consists of 360 such diurnal period. A Brahma has a life-span of 100 such years - i.e., 311, 040, 000,000,000 human years. At the end of it, there is a Mahapralaya, and a new Brahma comes into being. Time thus goes on endlessly\]. Now Sri Krsna teaches that there is no return to Samsara even for those who have attained Kaivalya (isolation of the self).
-
+Therefore, for every other entity except Myself, origination and annihilation are unavoidable. So for those who seek Aisvarya (prosperity and power) birth and dissolution according to the above mentioned time arrangement are unavoidable. But in the case of those who attain to Me, there is no return again to Samsara. \[The immense duration of time, according to ancient thinkers, is as follows: Catur-yuga, or a unit of the four yugas of Krta, Treta, Dvapara and Kali, has a cumulative duration of 4,320,000 human years. A thousand such periods constitute a day time of Brahma and a similar period his night. Periodic creation and dissolution of the universe take place in these two periods respectively. One year of Brahma consists of 360 such diurnal period. A Brahma has a life-span of 100 such years - i.e., 311, 040, 000,000,000 human years. At the end of it, there is a Mahapralaya, and a new Brahma comes into being. Time thus goes on endlessly\]. Now Sri Krsna teaches that there is no return to Samsara even for those who have attained Kaivalya (isolation of the self).
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।8.17 -- 8.19।। ननु क एवं जानाति यत् सर्वभुवनेभ्यः पुनरावृत्तिः।
-ब्रह्मादय एव ही तावत् चिरतरस्थायिनः श्रूयन्ते। ते एव +++(SN अत एव तावत्)+++
-कथं पुनरावर्त्तिनः पुनरावर्त्तित्वे हि तेऽपि स्युः प्रभवाप्ययधर्माणाः
-इत्या\[शङ्कया \] ह -- सहस्रेत्यादि आगम इत्यन्तम्। ये खलु दीर्घदृश्वानः
-+++(N अदीर्घ -- )+++ ते ब्रह्मणोऽपि रात्रिं दिवं \[ च \] पश्यन्ति प्रलयोदयतया।
-तथा च अहरहस्त एव विबुध्य निजां निजामेव चेष्टामनुरुध्यन्ते ( --
-मवरुध्यन्ते) प्रतिरात्रि च तेषामेव निवृत्तपरिस्पन्दानां +++(S --
-परिस्पन्दिनाम्)+++ शक्तिमात्रत्वेनावस्थानम् +++(N -- त्वेनोपस्थानम्)+++। एवं
-सृष्टौ प्रलये च पुनः पुनर्भावः +++(K [n] -- र्भवः)+++। नान्येऽन्ये उपसृज्यन्ते
-अपि तु त एव जीवाः। कालकृतस्तु चिरक्षिप्रप्रत्ययात्मा विशेषः। एष च
-परिच्छेदः प्रजापतीनामप्यस्ति। ततश्च तेऽपि प्रभवाप्ययधर्माण एवेति
-स्थितम्।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-8.17-19 Sahasra-etc., upto aharagama. Those who could see afar (great
-seers), see \[actually\] the night and day even in the case of Brahma as
-being marked \[respectively\] by the destruction and creation \[of the
-world\]. Accordingly, having risen from sleep, the same \[Selves\]
-continue their own respective activities every day; they theyselves,
-putting an end to their activities every night, remain exclusively in
-the form of Energy \[of the Absolute\]. In this manner they come to be
-again and again at the time of creation and of dissolution. No new, but
-only the self-same personal Souls are let loose. Their mutual difference
-in the form of the idea of the long and short lives is based only on the
-concept of time. This delimitation is unavoidable even in the case of
-the Prajapatis. Hence it is established that they too are cetainly of
-the nature of having evolution and dissolution. \[The Lord\] clarifies
-His \[own\] statement : 'People do return from each and every world; but
-having attained Me, the Supreme Lord, they do not do so.'
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।8.17 -- 8.19।। मां प्राप्य न पुनरावृत्तिरिति स्थापयितुं
-अव्यक्ताख्यात्मसामर्थ्यं दर्शयितुं प्रलयादि दर्शयति --
-सहस्रयुगेत्यादिना। सहस्रशब्दोऽत्रानेकवाची। ब्रह्मपरम्। सा विश्वरूपस्य
-रजनी इति श्रुतिः। द्विपरार्धप्रलय एवात्र विवक्षितः। अव्यक्ताद्व्यक्तयः
-सर्वाः \[8।18\] इत्युक्तेः। उक्तं च महाकौर्मेअनेकयुगपर्यन्तं
-महाविष्णोस्तथा निशा। रात्र्यादौ लीयते सर्वमहरादौ तु जायते इति च। यः स
-सर्वेषु भूतेषु \[8।20\] इति वाक्यशेषाच्च।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।8.17 -- 8.19।। उत्तरप्रकरणस्यासङ्गतिमाशङ्क्याह -- **मां प्राप्ये**ति।
-अवस्थितानामिति शेषः। प्रतिज्ञामात्रेण हि तदुक्तं अव्यक्तसामर्थ्यस्यात्र
-कथनात् कथमात्मेत्युच्यते इत्यत उक्तम् -- **अव्यक्ताख्ये**ति।
-**प्रलयादी**ति तत्कारणत्वमात्मनः। सृष्टिप्रलययोरिदम्पूर्वत्वाभावज्ञापनाय
-गीतामुल्लङ्घ्योक्तम्। अत्र सहस्रशब्दो दशशतवाचीतिप्रतीतिनिरासायाह --
-**सहस्रे**ति। बहुशब्दपर्यायोऽयं न तु प्रसिद्धार्थः। विरिञ्चाहोरात्रयोः
-प्रसिद्धस्य सहस्रचतुर्युगपर्यन्तत्वात् कथमेतत् इत्यत आह --
-**ब्रह्मे**ति। तथा च द्विपरार्धप्रलयस्यादिसृष्टेश्चात्र विवक्षितत्वात्
-उक्तं युक्तम्। ननु परस्य ब्रह्मणो नित्यत्वादहोरात्रे न स्तः। तत्कथं
-तत्परमेतत् इत्यत आह -- **से**ति। सा निर्व्यापारावस्था परिपूर्णरूपस्यापि
-हरेः रजनीत्यर्थः। अनेनाहरपि सिद्धम्। भवेदेतद्यद्यत्र
-द्विपरार्धप्रलयस्यादिसृष्टेश्च विवक्षेत्यत्र प्रमाणं स्यादित्यत आह --
-**द्विपरार्धे**ति। एवमादिसृष्टिश्चेत्यपि ग्राह्यम्। न
-ह्यवान्तरसृष्टिप्रलययोः सर्वकार्योत्पत्तिविनाशाविति भावः।
-आगमान्तरसम्मतेश्चैवमित्याह -- **उक्तं चे**ति। इतोऽप्येवमित्याह -- **य**
-इति। न ह्यवान्तरप्रलये सर्वेषामाकाशादीनां भूतानां नाशः नापि विरिञ्चस्य
-पञ्चभूतनाशेऽपि अविनाशित्वमिति भावः।
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।8.19।। --,**भूतग्रामः** भूतसमुदायः स्थावरजङ्गमलक्षणः यः पूर्वस्मिन्
-कल्पे आसीत् **स एव अयं** नान्यः। **भूत्वा भूत्वा** अहरागमे **प्रलीयते**
-पुनः पुनः **रात्र्यागमे** अह्नः क्षये **अवशः** अस्वतन्त्र एव हे **पार्थ
-प्रभवति** जायते अवश एव **अहरागमे**।।  
+॥8.19॥ --,**भूतग्रामः** भूतसमुदायः स्थावरजङ्गमलक्षणः यः पूर्वस्मिन् कल्पे आसीत् **स एव अयं** नान्यः। **भूत्वा भूत्वा** अहरागमे **प्रलीयते** पुनः पुनः **रात्र्यागमे** अह्नः क्षये **अवशः** अस्वतन्त्र एव हे **पार्थ प्रभवति** जायते अवश एव **अहरागमे**॥  
   
-यत् उपन्यस्तम् अक्षरम् तस्य प्राप्त्युपायो निर्दिष्टः ओमित्येकाक्षरं
-ब्रह्म (गीता 8।13) इत्यादिना। अथ इदानीम् अक्षरस्यैव स्वरूपनिर्दिदिक्षया
-इदम् उच्यते अनेन योगमार्गेण इदं गन्तव्यमिति --,
-
+यत् उपन्यस्तम् अक्षरम् तस्य प्राप्त्युपायो निर्दिष्टः ओमित्येकाक्षरं ब्रह्म (गीता 8।13) इत्यादिना। अथ इदानीम् अक्षरस्यैव स्वरूपनिर्दिदिक्षया इदम् उच्यते अनेन योगमार्गेण इदं गन्तव्यमिति --,
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।8.19।। न किये कर्मोंका फल मिलना और किये हुए कर्मोंका फल न मिलना इस
-दोषका परिहार करनेके लिये बन्धन और मुक्तिका मार्ग बतलानेवाले
-शास्त्रवाक्योंकी सफलता दिखानेके लिये और अविद्यादि पञ्चक्लेशमूलक
-कर्मसंस्कारोंके वशमें पड़कर पराधीन हुआ प्राणीसमुदाय बारंबार उत्पन्न
-होहोकर लय हो जाता है -- इस प्रकारके कथनसे संसारमें वैराग्य दिखलानेके
-लिये यह कहते हैं --, जो पहले कल्पमें था वही -- दूसरा नहीं -- यह
-स्थावरजङ्गमरूप भूतोंका समुदाय ब्रह्माके दिनके आरम्भमें बारंबार उत्पन्न
-होहोकर दिनकी समाप्ति और रात्रिका प्रवेश होनेपर पराधीन हुआ ही बारंबार लय
-होता जाता है और फिर उसी प्रकार विवश होकर दिनके प्रवेशकालमें पुनः उत्पन्न
-होता जाता है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 8.19 O son of Prtha, bhutva, after being born again and again at the
 approach of day; sah eva, that very-not any other; bhutagramah,
@@ -246,13 +70,25 @@ pointed out in, 'He who departs by leaving the body while uttering the
 single syllable, viz Om, which is Brahman, ' etc. (13). Now, with a vies
 to indicating the real nature of that very Immutable, this is being
 said-that It is to be reached through this path of yoga:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।8.19।। ननु प्रबोधकाले ब्रह्मणो यो भूतग्रामो भूत्वा तस्यैव स्वापकाले
+<details><summary>हरिकृष्णदासः</summary>
+
+॥8.19॥ न किये कर्मोंका फल मिलना और किये हुए कर्मोंका फल न मिलना इस
+दोषका परिहार करनेके लिये बन्धन और मुक्तिका मार्ग बतलानेवाले
+शास्त्रवाक्योंकी सफलता दिखानेके लिये और अविद्यादि पञ्चक्लेशमूलक
+कर्मसंस्कारोंके वशमें पड़कर पराधीन हुआ प्राणीसमुदाय बारंबार उत्पन्न
+होहोकर लय हो जाता है -- इस प्रकारके कथनसे संसारमें वैराग्य दिखलानेके
+लिये यह कहते हैं --, जो पहले कल्पमें था वही -- दूसरा नहीं -- यह
+स्थावरजङ्गमरूप भूतोंका समुदाय ब्रह्माके दिनके आरम्भमें बारंबार उत्पन्न
+होहोकर दिनकी समाप्ति और रात्रिका प्रवेश होनेपर पराधीन हुआ ही बारंबार लय
+होता जाता है और फिर उसी प्रकार विवश होकर दिनके प्रवेशकालमें पुनः उत्पन्न
+होता जाता है।
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥8.19॥ ननु प्रबोधकाले ब्रह्मणो यो भूतग्रामो भूत्वा तस्यैव स्वापकाले
 विलीयते तस्मादन्यो भूयो ब्रह्मणोऽहरागमे भूत्वा पुना रात्र्यागमे परवशो
 विनश्यति तदेवं प्रत्यवान्तरकल्पं भूतग्रामविभागो
 भवेदित्याशङ्क्यानन्तरश्लोकतात्पर्यमाह -- **अकृतेति।** प्रतिकल्पं
@@ -271,42 +107,21 @@ said-that It is to be reached through this path of yoga:
 चेद भूतानामहोरात्रमावृत्तिवचनमित्यर्थः। समनन्तरवाक्यमिदमा परामृश्यते।
 रात्र्यागमे प्रलयमनुभवतोऽहरागमे च प्रभवं प्रतिपद्यमानस्य प्राणिवर्गस्य
 तुल्यं पारवश्यमित्याशयवानाह -- **अह्न इति।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।8.19।। एवमाशुविनाशित्वेऽपि संसारस्य न निवृत्तिः क्लेशकर्मादिभिरवशतया
-पुनःपुनः प्रादुर्भावात्प्रादुर्भूतस्य च पुनः क्लेशादिवशेनैव तिरोभावात्
-संसारे विपरिवर्तमानानां सर्वेषामपि प्राणिनामस्वातन्त्र्यादवशानामेव
-जन्ममरणादिदुःखप्रबन्धसंबन्धादलमनेन संसारेणेति वैराग्योत्पत्त्यर्थं
-समाननामरूपत्वेन च पुनःपुनः प्रादुर्भावात्कृतनाशाकृताभ्यागमपरिहारार्थं
-वाह -- भूतग्रामो भूतसमुदायः स्थावरजङ्गमलक्षणो यः पूर्वस्मिन्कल्पे स्थितः
-स एवायमेतस्मिन्कल्पे जायमानोऽपि नतु प्रतिकल्पमन्योन्यश्च।
-असत्कार्यवादानभ्युपगमात्। सूर्याचन्द्रमसौ धाता यथापूर्वमकल्पयत्। दिवं च
-पृथिवीं चान्तरिक्षमथो स्वः इति श्रुतेःसमाननामरूपत्वादावृत्तावप्यविरोधो
-दर्शनात् स्मृतेश्च इति न्यायाच्च। अवश इत्यविद्याकामकर्मादिपरतन्त्रः। हे
-पार्थ स्पष्टमितरत्।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।8.19।। कृतहानाकृताभ्यागमदोषापमुक्तये बन्धमोक्षशास्त्रप्रवृत्तिसाफल्याय
+॥8.19॥ कृतहानाकृताभ्यागमदोषापमुक्तये बन्धमोक्षशास्त्रप्रवृत्तिसाफल्याय
 च अविद्यादिवशादवशोऽयं भूतग्रामः पुनःपुनर्भूत्वा पुनः पुनः प्रलीयत इत्याह
 वैराग्योत्पादनार्थम् -- **भूतग्राम इति।** अहरागमे भूत्वा भूत्वा
 रात्र्यागमे प्रलीयत इति योजना। स एव भूत्वा प्रलीयते नान्योऽभिनवो
 भवतीत्यर्थः। कुतः यतोऽवशः अविद्याकामकर्माधीनस्तस्मात्सर्वानर्थबीजभूताया
 अविद्याया विद्यया उच्छेदे जन्ममरणप्रवाहविच्छेदायावश्यं यतितव्यमित्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।8.19।। पूर्वकल्पीया एव प्रजा रात्र्यागमे अव्यक्ते प्रलीना
+<details><summary>धनपतिः</summary>
+
+॥8.19॥ पूर्वकल्पीया एव प्रजा रात्र्यागमे अव्यक्ते प्रलीना
 अहरागमेऽव्यक्तादाविर्भवन्ति नतु ता विनष्टा अन्या एवास्मिन्कल्पे
 उत्पद्यन्ते इतीममर्थं स्फुटमाह -- भूतग्राम इति। भूतसमुदायश्चराचरलक्षणो
 यः पूर्वस्मिन्कल्पे आसीत्स एवायं नान्यः अहरागमे पुनःपुनर्भूत्वा
@@ -320,57 +135,173 @@ said-that It is to be reached through this path of yoga:
 अविद्यास्मितारागद्वेषाभिनिवेशक्लेशमूलधर्माधर्माशयशाच्चावशो भूतग्रामो
 भूत्वा भूत्वा प्रलीयत इत्यतोऽलमनेन संसारेणेति विरक्तो भूत्वा ज्ञानेन
 संसारोपरमं संपादयेदिति।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥8.19॥ एवमाशुविनाशित्वेऽपि संसारस्य न निवृत्तिः क्लेशकर्मादिभिरवशतया
+पुनःपुनः प्रादुर्भावात्प्रादुर्भूतस्य च पुनः क्लेशादिवशेनैव तिरोभावात्
+संसारे विपरिवर्तमानानां सर्वेषामपि प्राणिनामस्वातन्त्र्यादवशानामेव
+जन्ममरणादिदुःखप्रबन्धसंबन्धादलमनेन संसारेणेति वैराग्योत्पत्त्यर्थं
+समाननामरूपत्वेन च पुनःपुनः प्रादुर्भावात्कृतनाशाकृताभ्यागमपरिहारार्थं
+वाह -- भूतग्रामो भूतसमुदायः स्थावरजङ्गमलक्षणो यः पूर्वस्मिन्कल्पे स्थितः
+स एवायमेतस्मिन्कल्पे जायमानोऽपि नतु प्रतिकल्पमन्योन्यश्च।
+असत्कार्यवादानभ्युपगमात्। सूर्याचन्द्रमसौ धाता यथापूर्वमकल्पयत्। दिवं च
+पृथिवीं चान्तरिक्षमथो स्वः इति श्रुतेःसमाननामरूपत्वादावृत्तावप्यविरोधो
+दर्शनात् स्मृतेश्च इति न्यायाच्च। अवश इत्यविद्याकामकर्मादिपरतन्त्रः। हे
+पार्थ स्पष्टमितरत्।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।8.19।। उत्पत्तिः प्रलयश्चापि तेषामेव व्यष्टीनां न त्वन्येषां नूतनानां
+॥8.17 -- 8.19॥ मां प्राप्य न पुनरावृत्तिरिति स्थापयितुं
+अव्यक्ताख्यात्मसामर्थ्यं दर्शयितुं प्रलयादि दर्शयति --
+सहस्रयुगेत्यादिना। सहस्रशब्दोऽत्रानेकवाची। ब्रह्मपरम्। सा विश्वरूपस्य
+रजनी इति श्रुतिः। द्विपरार्धप्रलय एवात्र विवक्षितः। अव्यक्ताद्व्यक्तयः
+सर्वाः \[8।18\] इत्युक्तेः। उक्तं च महाकौर्मेअनेकयुगपर्यन्तं
+महाविष्णोस्तथा निशा। रात्र्यादौ लीयते सर्वमहरादौ तु जायते इति च। यः स
+सर्वेषु भूतेषु \[8।20\] इति वाक्यशेषाच्च।
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥8.17 -- 8.19॥ उत्तरप्रकरणस्यासङ्गतिमाशङ्क्याह -- **मां प्राप्ये**ति।
+अवस्थितानामिति शेषः। प्रतिज्ञामात्रेण हि तदुक्तं अव्यक्तसामर्थ्यस्यात्र
+कथनात् कथमात्मेत्युच्यते इत्यत उक्तम् -- **अव्यक्ताख्ये**ति।
+**प्रलयादी**ति तत्कारणत्वमात्मनः। सृष्टिप्रलययोरिदम्पूर्वत्वाभावज्ञापनाय
+गीतामुल्लङ्घ्योक्तम्। अत्र सहस्रशब्दो दशशतवाचीतिप्रतीतिनिरासायाह --
+**सहस्रे**ति। बहुशब्दपर्यायोऽयं न तु प्रसिद्धार्थः। विरिञ्चाहोरात्रयोः
+प्रसिद्धस्य सहस्रचतुर्युगपर्यन्तत्वात् कथमेतत् इत्यत आह --
+**ब्रह्मे**ति। तथा च द्विपरार्धप्रलयस्यादिसृष्टेश्चात्र विवक्षितत्वात्
+उक्तं युक्तम्। ननु परस्य ब्रह्मणो नित्यत्वादहोरात्रे न स्तः। तत्कथं
+तत्परमेतत् इत्यत आह -- **से**ति। सा निर्व्यापारावस्था परिपूर्णरूपस्यापि
+हरेः रजनीत्यर्थः। अनेनाहरपि सिद्धम्। भवेदेतद्यद्यत्र
+द्विपरार्धप्रलयस्यादिसृष्टेश्च विवक्षेत्यत्र प्रमाणं स्यादित्यत आह --
+**द्विपरार्धे**ति। एवमादिसृष्टिश्चेत्यपि ग्राह्यम्। न
+ह्यवान्तरसृष्टिप्रलययोः सर्वकार्योत्पत्तिविनाशाविति भावः।
+आगमान्तरसम्मतेश्चैवमित्याह -- **उक्तं चे**ति। इतोऽप्येवमित्याह -- **य**
+इति। न ह्यवान्तरप्रलये सर्वेषामाकाशादीनां भूतानां नाशः नापि विरिञ्चस्य
+पञ्चभूतनाशेऽपि अविनाशित्वमिति भावः।
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+
+<details><summary>मूलम्</summary>
+
+॥8.17 -- 8.19॥ ननु क एवं जानाति यत् सर्वभुवनेभ्यः पुनरावृत्तिः। ब्रह्मादय एव ही तावत् चिरतरस्थायिनः श्रूयन्ते। ते एव +++(SN अत एव तावत्)+++ कथं पुनरावर्त्तिनः पुनरावर्त्तित्वे हि तेऽपि स्युः प्रभवाप्ययधर्माणाः इत्या\[शङ्कया \] ह -- सहस्रेत्यादि आगम इत्यन्तम्। ये खलु दीर्घदृश्वानः +++(N अदीर्घ -- )+++ ते ब्रह्मणोऽपि रात्रिं दिवं \[ च \] पश्यन्ति प्रलयोदयतया। तथा च अहरहस्त एव विबुध्य निजां निजामेव चेष्टामनुरुध्यन्ते ( -- मवरुध्यन्ते) प्रतिरात्रि च तेषामेव निवृत्तपरिस्पन्दानां +++(S -- परिस्पन्दिनाम्)+++ शक्तिमात्रत्वेनावस्थानम् +++(N -- त्वेनोपस्थानम्)+++। एवं सृष्टौ प्रलये च पुनः पुनर्भावः +++(K [n] -- र्भवः)+++। नान्येऽन्ये उपसृज्यन्ते अपि तु त एव जीवाः। कालकृतस्तु चिरक्षिप्रप्रत्ययात्मा विशेषः। एष च परिच्छेदः प्रजापतीनामप्यस्ति। ततश्च तेऽपि प्रभवाप्ययधर्माण एवेति स्थितम्।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+8.17-19 Sahasra-etc., upto aharagama. Those who could see afar (great seers), see \[actually\] the night and day even in the case of Brahma as being marked \[respectively\] by the destruction and creation \[of the world\]. Accordingly, having risen from sleep, the same \[Selves\] continue their own respective activities every day; they theyselves, putting an end to their activities every night, remain exclusively in the form of Energy \[of the Absolute\]. In this manner they come to be again and again at the time of creation and of dissolution. No new, but only the self-same personal Souls are let loose. Their mutual difference in the form of the idea of the long and short lives is based only on the concept of time. This delimitation is unavoidable even in the case of the Prajapatis. Hence it is established that they too are cetainly of the nature of having evolution and dissolution. \[The Lord\] clarifies His \[own\] statement : 'People do return from each and every world; but having attained Me, the Supreme Lord, they do not do so.'
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+
+<details><summary>मूलम्</summary>
+
+॥8.19॥ उत्पत्तिः प्रलयश्चापि तेषामेव व्यष्टीनां न त्वन्येषां नूतनानां
 मुक्तानां वेति निरूपयति -- भूतग्राम इति। यः पूर्वोक्तः स एवायं अवशः
 प्रकृतिगुणाधीनः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।8.19।। तत्र प्रलीनाश्च पुनरुत्पद्यन्त इत्याह -- भूतग्राम इति। स एव
+<details><summary>पुरुषोत्तमः</summary>
+
+॥8.19॥ तत्र प्रलीनाश्च पुनरुत्पद्यन्त इत्याह -- भूतग्राम इति। स एव
 पूर्वोक्त एवायं परिदृश्यमानो मत्सम्बन्धरहितो भूतग्रामश्चराचरसमूहो भूत्वा
 भूत्वा उत्पद्योत्पद्य रात्र्यागमे दिवसावसाने अवशः परवशः सन् प्रलीयते। हे
 पार्थेति सावधानः श्रृण्वित्यर्थः। तथैव अहरागमे दिनागमेऽवश एव प्रभवति
-उत्पद्यत इत्यर्थः।  
-  
-
+उत्पद्यत इत्यर्थः।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।8.19।। तत्र च कृतनाशाकृताभ्यागमशङ्कां वारयन्वैराग्यार्थं
+॥8.19॥ तत्र च कृतनाशाकृताभ्यागमशङ्कां वारयन्वैराग्यार्थं
 सृष्टिप्रलयप्रवाहस्याविच्छेदं दर्शयति **-- भूतेति।** भूतानां
 चराचरप्राणिनां ग्रामः समूहो यः प्रागासीत्स एवायमहरागमे भूत्वा
 रात्रेरागमे प्रलीयते। प्रलीय पुनरप्यहरागमेऽवशः कर्मादिपरतन्त्रः प्रभवति।
 नान्य इत्यर्थः।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
+
+8.19 O son of Prtha, after being born again and again, that very multitude of beings disappears in spite of itself at the approach of night. It comes to life at the approach of day.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+8.19 The same multitude of beings, which have lived on earth so often,
+all are dissolved as the night of the universe approaches, to issue forth anew when morning breaks. Thus is it ordained.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+8.19. Being born and born again, the self same multitude of beings gets dissolved while the night approaches, and issues forth willy-nilly while the day approaches, O son of Prtha !
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+8.19 This same multitude of beings, being born again and again, is dissolved, helplessly, O Arjuna (into the Unmanifested) at the coming of the night and comes forth at the coming of the day.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+8.19 भूतग्रामः multitude of beings; सः that; एव verily; अयम् this;
+भूत्वा भूत्वा being born again and again; प्रलीयते dissolves;
+रात्र्यागमे at the coming of night; अवशः helpless; पार्थ O Partha;
+प्रभवति comes forth; अहरागमे at the coming of day.Commentary Avidya
+(ignorance); Kama (desire) and Karma (action) are the three knots that bind the individual to Samsara. Desire is born of Avidya. Man exerts to attain and enjoy the objects of his desires. During this activity he favours some and injures others through the force of RagaDvesha (love and hatred or attraction and repulsion). Therefore he is caught in the wheel of Samsara or transmigration. He has to take birth again and again to reap the fruits of his own actions. He repeatedly comes forths and dissolves through the force of his own Karma.The individual souls have lost their independence as they are bound by ignorance; desire and activity. Therefore they are subject to the sorrows; miseries and pains of this Samsara. In order to create dispassion in their minds and a longing for liberation in their hearts; and to remove the fallacious belief that a man reaps the fruits of what he has not done or that he does not reap the fruits of what he has done; the Lord has said that all creatures involuntarily come into being again and again at the coming of the day and dissolve at the coming of the night (on account of the actions or Karmas caused by desire born of ignorance).
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
+
+।।8.19।। हे पार्थ ! वही यह प्राणिसमुदाय उत्पन्न हो-होकर प्रकृतिके परवश
+हुआ ब्रह्माके दिनके समय उत्पन्न होता है और ब्रह्माकी रात्रिके समय लीन
+होता है।
+</details>
+
+<details><summary>रामसुखदासः - टीका</summary>
+
+।।8.19।।***व्याख्या --*'भूतग्रामः स एवायम्'--**अनादिकालसे जन्म-मरणके
+चक्करमें पड़ा हुआ यह प्राणिसमुदाय वही है, जो कि साक्षात् मेरा अंश, मेरा
+स्वरूप है। मेरा सनातन अंश होनेसे यह नित्य है। सर्ग और प्रलय तथा महासर्ग
+और महाप्रलयमें भी यही था और आगे भी यही रहेगा। इसका न कभी अभाव हुआ है और
+न आगे कभी इसका अभाव होगा। तात्पर्य है कि यह अविनाशी है, इसका कभी विनाश
+नहीं होता। परन्तु भूलसे यह प्रकृतिके साथ अपना सम्बन्ध मान लेता है।
+प्राकृत पदार्थ (शरीर आदि) तो बदलते रहते हैं, उत्पन्न और नष्ट होते रहते
+हैं, पर यह उनके सम्बन्धको पकड़े रहता है। यह कितने आश्चर्यकी बात है कि
+सम्बन्धी (सांसारिक पदार्थ) तो नहीं रहते, पर उनका सम्बन्ध रहता है;
+क्योंकि उस सम्बन्धको स्वयंने पकड़ा है। अतः यह स्वयं जबतक उस सम्बन्धको
+नहीं छोड़ता, तबतक उसको दूसरा कोई छुड़ा नहीं सकता। उस सम्बन्धको छोड़नेमें
+यह स्वतन्त्र है, सबल है। वास्तवमें यह उस सम्बन्धको रखनेमें सदा परतन्त्र
+है; क्योंकि वे पदार्थ तो हरदम बदलते रहते हैं, पर यह नया-नया सम्बन्ध
+पकड़ता रहता है। जैसे, बालकपनको इसने नहीं छोड़ा और न छोड़ना चाहा, पर वह
+छूट गया। ऐसे ही जवानीको इसने नहीं छोड़ा, पर वह छूट गयी। और तो क्या, यह
+शरीरको भी छोड़ना नहीं चाहता, पर वह भी छूट जाता है। तात्पर्य यह हुआ कि
+प्राकृत पदार्थ तो छूटते ही रहते हैं, पर यह जीव उन पदार्थोंके साथ अपने
+सम्बन्धको बनाये रखता है, जिससे,इसको बार-बार शरीर धारण करने पड़ते हैं,
+बार-बार जन्मना-मरना पड़ता है। जबतक यह उस माने हुए सम्बन्धको नहीं छोड़ेगा
+तबतक यह जन्ममरणकी परम्परा चलती ही रहेगी, कभी मिटेगी नहीं।
+</details>
+
+<details><summary>चिन्मयानन्दः</summary>
 
 ।।8.19।। ब्रह्माजी का कार्यभार एवं कार्यप्रणाली तथा सृष्टि की उत्पत्ति
 और लय का वर्णन इन दो श्लोकों में किया गया है। यहाँ कहा गया है कि दिन में
@@ -454,94 +385,13 @@ _________________
 एक अपरिवर्तनशील नित्य अविकारी अधिष्ठान के बिना ज्ञात नहीं हो सकता। उसी
 अधिष्ठान पर इस परिवर्तन का आभास होता है। वह नित्य अधिष्ठान क्या है जिस पर
 इस सृष्टि का नाटक खेला जाता है
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
+
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।8.19।। हे पार्थ ! वही यह भूतसमुदाय, है जो पुनः पुनः उत्पन्न होकर लीन
 होता है। अवश हुआ (यह भूतग्राम) रात्रि के आगमन पर लीन तथा दिन के उदय होने
 पर व्यक्त होता है।।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
-।।8.19।। हे पार्थ ! वही यह प्राणिसमुदाय उत्पन्न हो-होकर प्रकृतिके परवश
-हुआ ब्रह्माके दिनके समय उत्पन्न होता है और ब्रह्माकी रात्रिके समय लीन
-होता है।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
-
-।।8.19।।***व्याख्या --*'भूतग्रामः स एवायम्'--**अनादिकालसे जन्म-मरणके
-चक्करमें पड़ा हुआ यह प्राणिसमुदाय वही है, जो कि साक्षात् मेरा अंश, मेरा
-स्वरूप है। मेरा सनातन अंश होनेसे यह नित्य है। सर्ग और प्रलय तथा महासर्ग
-और महाप्रलयमें भी यही था और आगे भी यही रहेगा। इसका न कभी अभाव हुआ है और
-न आगे कभी इसका अभाव होगा। तात्पर्य है कि यह अविनाशी है, इसका कभी विनाश
-नहीं होता। परन्तु भूलसे यह प्रकृतिके साथ अपना सम्बन्ध मान लेता है।
-प्राकृत पदार्थ (शरीर आदि) तो बदलते रहते हैं, उत्पन्न और नष्ट होते रहते
-हैं, पर यह उनके सम्बन्धको पकड़े रहता है। यह कितने आश्चर्यकी बात है कि
-सम्बन्धी (सांसारिक पदार्थ) तो नहीं रहते, पर उनका सम्बन्ध रहता है;
-क्योंकि उस सम्बन्धको स्वयंने पकड़ा है। अतः यह स्वयं जबतक उस सम्बन्धको
-नहीं छोड़ता, तबतक उसको दूसरा कोई छुड़ा नहीं सकता। उस सम्बन्धको छोड़नेमें
-यह स्वतन्त्र है, सबल है। वास्तवमें यह उस सम्बन्धको रखनेमें सदा परतन्त्र
-है; क्योंकि वे पदार्थ तो हरदम बदलते रहते हैं, पर यह नया-नया सम्बन्ध
-पकड़ता रहता है। जैसे, बालकपनको इसने नहीं छोड़ा और न छोड़ना चाहा, पर वह
-छूट गया। ऐसे ही जवानीको इसने नहीं छोड़ा, पर वह छूट गयी। और तो क्या, यह
-शरीरको भी छोड़ना नहीं चाहता, पर वह भी छूट जाता है। तात्पर्य यह हुआ कि
-प्राकृत पदार्थ तो छूटते ही रहते हैं, पर यह जीव उन पदार्थोंके साथ अपने
-सम्बन्धको बनाये रखता है, जिससे,इसको बार-बार शरीर धारण करने पड़ते हैं,
-बार-बार जन्मना-मरना पड़ता है। जबतक यह उस माने हुए सम्बन्धको नहीं छोड़ेगा
-तबतक यह जन्ममरणकी परम्परा चलती ही रहेगी, कभी मिटेगी नहीं।
-
-</details>
-</div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-8.19. Being born and born again, the self same multitude of beings gets dissolved while the night approaches, and issues forth willy-nilly while the day approaches, O son of Prtha !
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
-
-8.19 O son of Prtha, after being born again and again, that very multitude of beings disappears in spite of itself at the approach of night. It comes to life at the approach of day.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
-
-8.19 The same multitude of beings, which have lived on earth so often,
-all are dissolved as the night of the universe approaches, to issue forth anew when morning breaks. Thus is it ordained.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-8.19 This same multitude of beings, being born again and again, is dissolved, helplessly, O Arjuna (into the Unmanifested) at the coming of the night and comes forth at the coming of the day.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-8.19 भूतग्रामः multitude of beings; सः that; एव verily; अयम् this;
-भूत्वा भूत्वा being born again and again; प्रलीयते dissolves;
-रात्र्यागमे at the coming of night; अवशः helpless; पार्थ O Partha;
-प्रभवति comes forth; अहरागमे at the coming of day.Commentary Avidya
-(ignorance); Kama (desire) and Karma (action) are the three knots that bind the individual to Samsara. Desire is born of Avidya. Man exerts to attain and enjoy the objects of his desires. During this activity he favours some and injures others through the force of RagaDvesha (love and hatred or attraction and repulsion). Therefore he is caught in the wheel of Samsara or transmigration. He has to take birth again and again to reap the fruits of his own actions. He repeatedly comes forths and dissolves through the force of his own Karma.The individual souls have lost their independence as they are bound by ignorance; desire and activity. Therefore they are subject to the sorrows; miseries and pains of this Samsara. In order to create dispassion in their minds and a longing for liberation in their hearts; and to remove the fallacious belief that a man reaps the fruits of what he has not done or that he does not reap the fruits of what he has done; the Lord has said that all creatures involuntarily come into being again and again at the coming of the day and dissolve at the coming of the night (on account of the actions or Karmas caused by desire born of ignorance).
-
-</details>
 </div>

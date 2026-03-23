@@ -1,219 +1,62 @@
 +++
 title = "67 इदन् ते"
-
 +++
-<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
+
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
 इदं ते नातपस्काय  
 **नाभक्ताय** कदाचन।  
 न चाशुश्रूषवे **वाच्यं**  
 न च मां योऽभ्यसूयति॥18.67॥+++(5)+++
 </details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
+
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 इदं ते नातपस्काय नाभक्ताय कदाचन।  
-न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति।।18.67।।
+न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति॥18.67॥
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 
-_________________
-## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+<details><summary>रामानुजः - मूलम्</summary>
 
-।।18.67।।**इदं ते** परमं गुह्यं शास्त्रं मया आख्यातम् **अतपस्काय**
-अतप्ततपसे त्वया **न** वाच्यं त्वयि वक्तरि मयि च **अभक्ताय कदाचन न**
-वाच्यं तप्ततपसे च अभक्ताय न वाच्यम् इत्यर्थः। **न च अशुश्रूषवे** भक्ताय
-अपि अशुश्रूषवे न **वाच्यं न च मां यः अभ्यसूयति** मत्स्वरूपे मदैश्वर्ये
-मद्गुणेषु च कथितेषु यो दोषम् आविष्करोति न तस्मै वाच्यम्;
-असमानविभक्तिनिर्देशः तस्य अत्यन्तपरिहरणीयताज्ञापनाय।
-
+॥18.67॥**इदं ते** परमं गुह्यं शास्त्रं मया आख्यातम् **अतपस्काय** अतप्ततपसे त्वया **न** वाच्यं त्वयि वक्तरि मयि च **अभक्ताय कदाचन न** वाच्यं तप्ततपसे च अभक्ताय न वाच्यम् इत्यर्थः। **न च अशुश्रूषवे** भक्ताय अप्य् अशुश्रूषवे न **वाच्यं न च मां यो ऽभ्यसूयति** मत्स्वरूपे मदैश्वर्ये मद्गुणेषु च कथितेषु यो दोषम् आविष्करोति न तस्मै वाच्यम्; असमानविभक्तिनिर्देशस् तस्य अत्यन्तपरिहरणीयताज्ञापनाय।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.67।। एवं स्वोपदेशेन प्रतिष्ठिततत्त्वहितज्ञानस्य अर्जुनस्य
-कर्तव्यविशेषोपदेशव्याजेन सम्प्रदायविधिसिद्ध्यथमस्मिन्
-शास्त्रेऽनधिकारिणस्तावद्व्यनक्ति -- इदं ते इति श्लोकेन। इदम् इति
-सामान्येन निर्दिष्टं पूर्वापरग्रन्थस्थैः पदैर्विवृणोति -- इद ते परमं
-गुह्यं शास्त्रं मयाऽऽख्यातमिति। अत्र तेशब्दःइति ते ज्ञानमाख्यातम्
-\[18।63\] इति श्लोकादाकृष्टः श्लोकस्थस्य तु तेशब्दस्यत्वयेति व्याक्रिया।
-अतपस्कशब्देन तपःप्रारम्भमात्रे कृतेऽपि श्रवणानधिकारित्वं विवक्षितमित्याह
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥18.67॥ एवं स्वोपदेशेन प्रतिष्ठिततत्त्वहितज्ञानस्य अर्जुनस्य कर्तव्यविशेषोपदेशव्याजेन सम्प्रदायविधिसिद्ध्यथमस्मिन् शास्त्रेऽनधिकारिणस्तावद्व्यनक्ति -- इदं ते इति श्लोकेन। इदम् इति सामान्येन निर्दिष्टं पूर्वापरग्रन्थस्थैः पदैर्विवृणोति -- इद ते परमं गुह्यं शास्त्रं मयाऽऽख्यातमिति। अत्र तेशब्दःइति ते ज्ञानमाख्यातम् \[18।63\] इति श्लोकादाकृष्टः श्लोकस्थस्य तु तेशब्दस्यत्वयेति व्याक्रिया। अतपस्कशब्देन तपःप्रारम्भमात्रे कृतेऽपि श्रवणानधिकारित्वं विवक्षितमित्याह
 -- अतप्ततपस इति। यस्य देवे परा भक्तिर्यथा देवे तथा गुरौ
-\[श्वे.उ.6।23सुबालो.16।2यो.शि.2।22शाट्याय.37\] इति श्रुत्यनुसारेणाऽऽह --
-त्वयि वक्तरि मयि चाभक्तायेति। अभक्तत्वे
-विशेषसङ्कोचकाभावात्। मद्भक्तेष्वभिधास्यति \[18।68\] इत्यनन्तरं
-भक्तावादरदर्शनाच्च।  
-  
-कदाचन इत्यनेन तपसि सम्यगनुष्ठितेऽपीति विवक्षितमित्याह -- तप्तपसे
-चाभक्तायेति। प्रत्येकपरिहरणीयत्वाय च नञ्प्रयोगावृत्तिः।
-उत्तरोत्तरतीव्रत्वतात्पर्येण क्रमविशेष इत्यभिप्रायेणाऽऽह --
-भक्तायाप्यशुश्रूषव इति। अत्रापि सङ्कोचहेत्वभावात् पूर्ववत्। प्रब्रूहि तं
-श्रद्दधानाय मह्यम् \[कठो.1।1।13\] इति श्रुत्या च
-शुश्रूषाप्राधान्यमवगतम्; मामभ्यसूयति
-मह्यमभ्यसूयतीत्यर्थः। क्रुधदुहेर्ष्यासूयार्थानां यं प्रति कोपः
-\[अष्टा.1।4।37\] इति कर्मत्वस्यापि सिद्धत्वात् द्वितीयाऽत्रानपोदिता। मां
-प्रत्यसूयतीत्युक्तं भवति। विषयतो लक्षणतश्च असूयां व्यनक्तिमत्स्वरूप
-इत्यादिना। माम् इति सप्रकारपरामर्श इति भावः।  
-  
-प्रक्रमानुरोधेननचाभ्यसूयवे इति वक्तव्ये प्रक्रमभङ्गेन विरूपवाक्यकरणं
-केनाभिप्रायेणेत्यत्राऽऽह -- असमानेति। असूयकायानृजवे
-\[मुक्तिको.1।51\]असूयकाय मां मादाः \[मनुः2।114\] इत्यादिभिरसूयामात्रवते
-प्रवचनं निषिद्धम्। भगवत्यभ्यसूयावते तु प्रवचनमत्यन्तपरिहरणीयमिति भावः। न
-च ৷৷. वाच्यम् इत्यनेनानधिकारिषु प्रवचने प्रत्यवायः सूचितः। अत्रमेधाविने
-तपस्विने वा इत्यनयोर्विकल्पोऽन्यत्र दृष्टः; भक्तादेस्तु न तथा अतो
-भक्त्यादिरहिताय न मेधाविने नापि तपस्विने वाच्यम्। सर्वगुणयोगेऽपि
-भगवत्यभ्यसूयावते न वाच्यमित्युक्तं भवति।  
-  
-
+\[श्वे.उ.6।23सुबालो.16।2यो.शि.2।22शाट्याय.37\] इति श्रुत्यनुसारेणाऽऽह -- त्वयि वक्तरि मयि चाभक्तायेति। अभक्तत्वे विशेषसङ्कोचकाभावात्। मद्भक्तेष्वभिधास्यति \[18।68\] इत्यनन्तरं भक्तावादरदर्शनाच्च।  
+        
+कदाचन इत्यनेन तपसि सम्यगनुष्ठितेऽपीति विवक्षितमित्याह -- तप्तपसे चाभक्तायेति। प्रत्येकपरिहरणीयत्वाय च नञ्प्रयोगावृत्तिः। उत्तरोत्तरतीव्रत्वतात्पर्येण क्रमविशेष इत्यभिप्रायेणाऽऽह -- भक्तायाप्यशुश्रूषव इति। अत्रापि सङ्कोचहेत्वभावात् पूर्ववत्। प्रब्रूहि तं श्रद्दधानाय मह्यम् \[कठो.1।1।13\] इति श्रुत्या च शुश्रूषाप्राधान्यमवगतम्; मामभ्यसूयति मह्यमभ्यसूयतीत्यर्थः। क्रुधदुहेर्ष्यासूयार्थानां यं प्रति कोपः \[अष्टा.1।4।37\] इति कर्मत्वस्यापि सिद्धत्वात् द्वितीयाऽत्रानपोदिता। मां प्रत्यसूयतीत्युक्तं भवति। विषयतो लक्षणतश्च असूयां व्यनक्तिमत्स्वरूप इत्यादिना। माम् इति सप्रकारपरामर्श इति भावः।  
+        
+प्रक्रमानुरोधेननचाभ्यसूयवे इति वक्तव्ये प्रक्रमभङ्गेन विरूपवाक्यकरणं केनाभिप्रायेणेत्यत्राऽऽह -- असमानेति। असूयकायानृजवे \[मुक्तिको.1।51\]असूयकाय मां मादाः \[मनुः2।114\] इत्यादिभिरसूयामात्रवते प्रवचनं निषिद्धम्। भगवत्यभ्यसूयावते तु प्रवचनमत्यन्तपरिहरणीयमिति भावः। न च ৷৷. वाच्यम् इत्यनेनानधिकारिषु प्रवचने प्रत्यवायः सूचितः। अत्रमेधाविने तपस्विने वा इत्यनयोर्विकल्पोऽन्यत्र दृष्टः; भक्तादेस्तु न तथा अतो भक्त्यादिरहिताय न मेधाविने नापि तपस्विने वाच्यम्। सर्वगुणयोगेऽपि भगवत्यभ्यसूयावते न वाच्यमित्युक्तं भवति।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.67 I have taught you this most secret doctrine. This should not be imparted by you to someone who has not practised austere disciplines.
-Never should this be taught to someone who is not devoted to Me and to
-you, the teacher (i.e., when you have to play the role of a teacher of
-this doctrine). The meaning is that it should not be taught by you to
-someone who, though practising austerities, is not a devotee and does
-not serve Me. It is also never to be taught to one who has no wish to
-listen, even though he is a devotee. Nor should it be imparted to one
-who traduces Me, that is, who - when My nature, glories and attributes
-are described - discovers defects in them. The differences of case (from
-ablative to nominative form) is to teach that the last one is the most
-despicable character.
+<details><summary>आदिदेवानन्दः</summary>
 
+18.67 I have taught you this most secret doctrine. This should not be imparted by you to someone who has not practised austere disciplines. Never should this be taught to someone who is not devoted to Me and to you, the teacher (i.e., when you have to play the role of a teacher of this doctrine). The meaning is that it should not be taught by you to someone who, though practising austerities, is not a devotee and does not serve Me. It is also never to be taught to one who has no wish to listen, even though he is a devotee. Nor should it be imparted to one who traduces Me, that is, who - when My nature, glories and attributes are described - discovers defects in them. The differences of case (from ablative to nominative form) is to teach that the last one is the most despicable character.
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 
-_________________
-## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.67।। इदमिति। अस्य ज्ञानस्य गोप्यमानत्वं सिद्धिदम्;
-सर्वजनाविषयत्वात्। तपसा तावत् पापग्रन्थौ विशीर्णे कुशलपरिपाकोन्मुखता
-भवति; इति पूर्वं तपः तपसः श्रद्धा +++(S adds जायते after श्रद्धा )+++ ; सैव
-भक्तिः। श्रद्धापि उपजाता कदाचित् न प्ररोहति; सौदामिनीव
-क्षणदृष्टनष्टत्वात् +++(N क्षणदृष्टत्वात् )+++। ततः तत्प्ररोहे श्रोतुमिच्छा
-भवति। इयदपि च कस्यचिदनीश्वरेऽवस्तुनि शुष्कसाङ्ख्यादिज्ञाने भवति।
-सेश्वरेऽपि वा कस्यचित् फलार्थितया फलमेव प्रधानीकृत्य भगवन्तं च
-स्वात्मानं तदुपकरणपात्रीकरणेन न्यक्कृत्यं भवेत्। यदुक्तम् -- पुरुषश्च
-कर्मार्थत्वात् +++(JS; III; i; 6 )+++  
-  
-कर्माण्यपि फलार्थत्वात् +++(JS; III; i; 4 )+++ इति। एवमुभयथापि भगवति असूयैव
-अनादर इत्यर्थः।
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-18.67 Idam etc. If the secrecy of this knowledge is maintained it would
-yield success, because It is out of reach of all \[ordinary\] persons.
-When the knot of sin is cut off through observing austerities, then only
-the results of good act is ready to become ripe. Hence, austerity comes
-first. Due to austerity, faith is born. The same (faith) is devotion
-here. The faith, even if it is born, does not grow well, in case it
-becomes visible only for a moment and then perishes like lightning.
-Therefore to help its growth, the desire to listen to is \[next\]. In
-the case of certain person, even all this arises with regard to the
-useless knowledge of the dry Sankhya (reasoning) system that admits no
-Supreme Lord. Even with regard to a system that adimts the Supreme Lord,
-it may, n the case of another person-on account of his craving for fruit
-of action-emerge by raising the fruit-of-action alone to the status of
-importance and by humbling down one's own Worshipful Self to the role of
-an instrument in achieving that fruit It has been declared : 'The agent
-also \[is an auxiliary\], because he is for the action \[enjoined\].'
-(JS, III, i, 6); and 'Actions also \[are auxiliary\] because they are
-for the purpose of fruits.' (JS, III, i, 4). Thus in both the instances
-there is indignation, meaning 'disregard' with the Bhagavat (Self) -
-This is the purport.
-
-</details>
-</div>
-
-
-_________________
-## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
-
-।।18.67।। Sri Madhvacharya did not comment on this sloka.,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
-
-।।18.67।। Sri Jayatirtha did not comment on this sloka.  
-  
-
-</details>
-</div>
-
-
-_________________
-## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
-
-।।18.67।। --,**इदं** शास्त्रं **ते** तव हिताय मया उक्तं संसारविच्छित्तये
-**अतपस्काय** तपोरहिताय **न** वाच्यम् इति व्यवहितेन संबध्यते। तपस्विनेऽपि
-**अभक्ताय** गुरौ देवे च भक्तिरहिताय **कदाचन** कस्यांचिदपि अवस्थायां
-**न** वाच्यम्। भक्तः तपस्वी अपि सन् अशुश्रूषुः यो भवति तस्मै अपि न
-**वाच्यम्। न च यो मां** वासुदेवं प्राकृतं मनुष्यं मत्वा **अभ्यसूयति**
-आत्मप्रशंसादिदोषाध्यारोपणेन ईश्वरत्वं मम अजानन् न सहते; असावपि अयोग्यः;
-तस्मै अपि न वाच्यम्। भगवति अनसूयायुक्ताय तपस्विने भक्ताय शुश्रूषवे
-वाच्यं शास्त्रम् इति,सामर्थ्यात् गम्यते। तत्र मेधाविने तपस्विने वा इति
-अनयोः विकल्पदर्शनात् शुश्रूषाभक्तियुक्ताय तपस्विने तद्युक्ताय मेधाविने
-वा वाच्यम्। शुश्रूषाभक्तिवियुक्ताय न तपस्विने नापि मेधाविने वाच्यम्।
-भगवति असूयायुक्ताय समस्तगुणवतेऽपि न वाच्यम्। गुरुशुश्रूषाभक्तिमते च
-वाच्यम् इत्येषः शास्त्रसंप्रदायविधिः।। संप्रदायस्य कर्तुः फलम् इदानीम् आह
+॥18.67॥ --,**इदं** शास्त्रं **ते** तव हिताय मया उक्तं संसारविच्छित्तये **अतपस्काय** तपोरहिताय **न** वाच्यम् इति व्यवहितेन संबध्यते। तपस्विनेऽपि **अभक्ताय** गुरौ देवे च भक्तिरहिताय **कदाचन** कस्यांचिदपि अवस्थायां **न** वाच्यम्। भक्तः तपस्वी अपि सन् अशुश्रूषुः यो भवति तस्मै अपि न **वाच्यम्। न च यो मां** वासुदेवं प्राकृतं मनुष्यं मत्वा **अभ्यसूयति** आत्मप्रशंसादिदोषाध्यारोपणेन ईश्वरत्वं मम अजानन् न सहते; असावपि अयोग्यः; तस्मै अपि न वाच्यम्। भगवति अनसूयायुक्ताय तपस्विने भक्ताय शुश्रूषवे वाच्यं शास्त्रम् इति,सामर्थ्यात् गम्यते। तत्र मेधाविने तपस्विने वा इति अनयोः विकल्पदर्शनात् शुश्रूषाभक्तियुक्ताय तपस्विने तद्युक्ताय मेधाविने वा वाच्यम्। शुश्रूषाभक्तिवियुक्ताय न तपस्विने नापि मेधाविने वाच्यम्। भगवति असूयायुक्ताय समस्तगुणवतेऽपि न वाच्यम्। गुरुशुश्रूषाभक्तिमते च वाच्यम् इत्येषः शास्त्रसंप्रदायविधिः॥ संप्रदायस्य कर्तुः फलम् इदानीम् आह
 --,
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
-।।18.67।। इस अठारहवें अध्यायमें समस्त गीताशास्त्रके अर्थका उपसंहार करके
-फिर विशेषरूपसे इस अन्तिम श्लोकमें शास्त्रके अभिप्रायको दृढ़ करनेके लिये
-संक्षेपसे उपसंहार करके; अब शास्त्रसम्प्रदायकी विधि बतलाते हैं।  
-  
-तेरे हितके लिये अर्थात् संसारका उच्छेद करनेके लिये; कहा हुआ यह शास्त्र;
-तपरहित मनुष्यको नहीं सुनाना चाहिये। इस प्रकार वाच्यम् इस व्यवधानयुक्त
-पदसे न का सम्बन्ध है। तपस्वी होनेपर भी जो अभक्त हो अर्थात् गुरु या
-देवतामें भक्ति रखनेवाला न हो उसे कभीकिसी अवस्थामें भी नहीं सुनाना
-चाहिये। भक्त और तपस्वी होकर भी जो शुश्रूषु ( सुननेका इच्छुक ) न हो उसे
-भी नहीं सुनाना चाहिये। तथा जो मुझ वासुदेवको प्राकृत मनुष्य मानकर; मुझमें
-दोषदृष्टि करता हो; मुझे ईश्वर न जाननेसे; मुझमें आत्मप्रशंसादि दोषोंका
-अध्यारोप करके; मेरे ईश्वरत्वको सहन न कर सकता हो वह भी अयोग्य है; उसे
-भी,( यह शास्त्र ) नहीं सुनाना चाहिये। अथपित्तिसे यह निश्चय होता है कि यह
-शास्त्र भगवान्में भक्ति रखनेवाले; तपस्वी; शुश्रूषायुक्त और दोषदृष्टिरहित
-पुरुषको ही सुनाना चाहिये। अन्य स्मृतियोंमें मेधावीको या तपस्वीको; इस
-प्रकार इन दोनोंका विकल्प देखा जाता है; इसलिये यह समझना चाहिये कि
-शुश्रूषा और भक्तियुक्त तपस्वीको अथवा इन तीनों गुणोंसे युक्त मेधावीको यह
-शास्त्र सुनाना चाहिये। शुश्रूषा और भक्तिसे रहित तपस्वी या मेधावी किसीको
-भी नहीं सुनाना चाहिये। भगवान्में दोषदृष्टि रखनेवाला तो यदि
-सर्वगुणसम्पन्न हो; तो भी उसे नहीं सुनाना चाहिये। गुरु शुश्रूषा और
-भक्तियुक्त पुरुषको ही सुनाना चाहिये। इस प्रकार यह शास्त्रसम्प्रदायकी
-विधि है।  
-  
-,
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+<details><summary>गम्भीरानन्दः</summary>
 
 18.67 Idam, this Scripture; which has been taught by Me te, to you, for
 your good, for terminating mundane existence; an vacyam, should not be
@@ -240,13 +83,39 @@ Lord, even though he be possessed of all the good alities. And it should
 be taught to one whoserves his teacher and is devout. This is the rule
 for transmitting the Scripture. Now the Lord states the fruit derived by
 one who transmits the Scripture:
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।18.67।। पूर्वापरालोचनातो गीताशास्त्रं व्याख्यायोपसंहृत्य
+<details><summary>हरिकृष्णदासः</summary>
+
+॥18.67॥ इस अठारहवें अध्यायमें समस्त गीताशास्त्रके अर्थका उपसंहार करके
+फिर विशेषरूपसे इस अन्तिम श्लोकमें शास्त्रके अभिप्रायको दृढ़ करनेके लिये
+संक्षेपसे उपसंहार करके; अब शास्त्रसम्प्रदायकी विधि बतलाते हैं।  
+  
+तेरे हितके लिये अर्थात् संसारका उच्छेद करनेके लिये; कहा हुआ यह शास्त्र;
+तपरहित मनुष्यको नहीं सुनाना चाहिये। इस प्रकार वाच्यम् इस व्यवधानयुक्त
+पदसे न का सम्बन्ध है। तपस्वी होनेपर भी जो अभक्त हो अर्थात् गुरु या
+देवतामें भक्ति रखनेवाला न हो उसे कभीकिसी अवस्थामें भी नहीं सुनाना
+चाहिये। भक्त और तपस्वी होकर भी जो शुश्रूषु ( सुननेका इच्छुक ) न हो उसे
+भी नहीं सुनाना चाहिये। तथा जो मुझ वासुदेवको प्राकृत मनुष्य मानकर; मुझमें
+दोषदृष्टि करता हो; मुझे ईश्वर न जाननेसे; मुझमें आत्मप्रशंसादि दोषोंका
+अध्यारोप करके; मेरे ईश्वरत्वको सहन न कर सकता हो वह भी अयोग्य है; उसे
+भी,( यह शास्त्र ) नहीं सुनाना चाहिये। अथपित्तिसे यह निश्चय होता है कि यह
+शास्त्र भगवान्में भक्ति रखनेवाले; तपस्वी; शुश्रूषायुक्त और दोषदृष्टिरहित
+पुरुषको ही सुनाना चाहिये। अन्य स्मृतियोंमें मेधावीको या तपस्वीको; इस
+प्रकार इन दोनोंका विकल्प देखा जाता है; इसलिये यह समझना चाहिये कि
+शुश्रूषा और भक्तियुक्त तपस्वीको अथवा इन तीनों गुणोंसे युक्त मेधावीको यह
+शास्त्र सुनाना चाहिये। शुश्रूषा और भक्तिसे रहित तपस्वी या मेधावी किसीको
+भी नहीं सुनाना चाहिये। भगवान्में दोषदृष्टि रखनेवाला तो यदि
+सर्वगुणसम्पन्न हो; तो भी उसे नहीं सुनाना चाहिये। गुरु शुश्रूषा और
+भक्तियुक्त पुरुषको ही सुनाना चाहिये। इस प्रकार यह शास्त्रसम्प्रदायकी
+विधि है।  
+  
+,
+</details>
+
+<details><summary>आनन्दगिरिः</summary>
+
+॥18.67॥ पूर्वापरालोचनातो गीताशास्त्रं व्याख्यायोपसंहृत्य
 तत्तात्पर्यार्थं निर्धारितमपि विचारद्वारा निर्धारयितुं विचारमवतारयति --
 **अस्मिन्निति।** किंशब्दार्थमेव त्रेधा विभजते -- **ज्ञानमिति।**
 निमित्ताभावे संशयस्याभासत्वान्न निरस्येति मत्वा पृच्छति -- **कुत इति।**
@@ -671,35 +540,11 @@ one who transmits the Scripture:
 वाच्यमेतदित्याशङ्क्य पूर्वोक्तसर्वगुणसंपन्नायेत्याह --** गुरुशुश्रूषेति।
 **अनुक्तेतरविशेषणोपलक्षणार्थमुभयग्रहणम्। मेधाविनस्तपस्वित्वं
 नातीवापेक्षते सर्वमन्यद्बाधकाभावादपेक्षितमेवेति भावः।**
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
-।।18.67।। समाप्तः शास्त्रार्थः। शास्त्रसंप्रदायविधिमधुना कथयति -- इदमिति।
-इदं गीताख्यं सर्वशास्त्रार्थरहस्यं ते तव संसारविच्छित्तये मयोक्तं
-नातपस्कायासंयेतेन्द्रियाय न वाच्यम्। कदाचन कस्यामप्यवस्थायामिति
-पर्यायत्रयेऽपि संबध्यते। तपस्विनेऽप्यभक्ताय गुरौ देवे च भक्तिरहिताय न
-वाच्यं कदाचन तपस्विने भक्तायाप्यशुश्रूषवे शुश्रूषां परिचर्यामकुर्वते च न
-वाच्यम्। कदाचन चशब्दो वाच्यं कदाचनेति पदद्वयाकर्षणार्थः। नच मां
-योऽभ्यसूयति मां भगवन्तं वासुदेवं मनुष्यमसर्वज्ञत्वादिगुणकं
-मत्वाभ्यसूयत्यात्मप्रशंसादिदोषाध्यारोपणेनेश्वरत्वमसहमानो द्वेष्टि
-यस्तस्मै श्रीकृष्णोत्कर्षासहिष्णवेऽतपस्विने भक्तायाशुश्रूषवेऽपि न वाच्यं
-कदाचनेत्यनुकर्षणार्थश्चकारः। तपस्विने भक्ताय शुश्रूषवे
-श्रीकृष्णानुरक्ताय च वाच्यमित्यर्थः।
-एकैकविशेषणाभावेऽप्ययोग्यताप्रतिपादनार्थाश्चत्वारो नकाराः। मेधाविने
-तपस्विने वेत्यन्यत्र विकल्पदर्शनात्। शुश्रूषा
-गुरुभक्तिभगवदनुरक्तियुक्ताय तपस्विने तद्युक्ताय मेधाविने वा वाच्यं
-मेधातपसोः पाक्षिकत्वेऽपि भगवदनुरक्तिगुरुभक्तिशुश्रूषाणां नियम एवेति
-भाष्यकृतः।
+<details><summary>नीलकण्ठः</summary>
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
-
-।।18.67।। एवं श्लोकद्वयेनज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् इति
+॥18.67॥ एवं श्लोकद्वयेनज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् इति
 साङ्ख्ययोगौ द्वितीयाध्याये दर्शितावुपसंहृत्य विद्यासंप्रदायविधिमाह --
 **इदमिति।** अतपस्काय तप आलोचनं तद्रहिताय। अयत्नशीलायेत्यर्थः। अभक्ताय
 श्रद्धाहीनाय। अशुश्रूषवे गुरुसेवामकुर्वते। मां परमात्मानं योऽभ्यसूयति
@@ -710,13 +555,11 @@ one who transmits the Scripture:
 स्याम्। यस्य देवे परा भक्तिर्यथा देवे तथा गुरौ। तस्यैते कथिता ह्यर्थाः
 प्रकाशन्ते महात्मनः इति श्रवणादसूयारहितायार्जवोपेतायाभ्यासशीलाय
 गुरुपरमेश्वराराधनपराय च एतद्रहस्य देयं नान्यस्मा इत्यर्थः।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।18.67।। एवं सप्तदशाध्यायान्तगीताशास्त्रार्थं सर्वं
+<details><summary>धनपतिः</summary>
+
+॥18.67॥ एवं सप्तदशाध्यायान्तगीताशास्त्रार्थं सर्वं
 प्रतिपत्तिससौकर्यार्थमस्मिन्नध्याये विस्तरेणोपसंहृत्यान्ते मन्मना भवेति
 द्वाभ्यां पुनः स्वशास्त्रदार्ढ्याय संक्षेपतस्तस्योपसंहारं कृत्वाथेदानीं
 शास्त्रसंप्रदायविधिमाह -- इदमिति। इदं शास्त्रं संसारविच्छित्तिहेतुभूतं
@@ -734,134 +577,139 @@ one who transmits the Scripture:
 भगवत्यसूयायुक्ताय समस्तगुणवतेऽपि न वाच्यम्।
 गुरुशुश्रूषाभक्त्यनसूयायुक्ताय तपस्विने मेधाविने वा वाच्यमित्येष
 शास्त्रसंप्रदायविधिः।
-
 </details>
+
+<details><summary>मधुसूदन-सरस्वती</summary>
+
+॥18.67॥ समाप्तः शास्त्रार्थः। शास्त्रसंप्रदायविधिमधुना कथयति -- इदमिति।
+इदं गीताख्यं सर्वशास्त्रार्थरहस्यं ते तव संसारविच्छित्तये मयोक्तं
+नातपस्कायासंयेतेन्द्रियाय न वाच्यम्। कदाचन कस्यामप्यवस्थायामिति
+पर्यायत्रयेऽपि संबध्यते। तपस्विनेऽप्यभक्ताय गुरौ देवे च भक्तिरहिताय न
+वाच्यं कदाचन तपस्विने भक्तायाप्यशुश्रूषवे शुश्रूषां परिचर्यामकुर्वते च न
+वाच्यम्। कदाचन चशब्दो वाच्यं कदाचनेति पदद्वयाकर्षणार्थः। नच मां
+योऽभ्यसूयति मां भगवन्तं वासुदेवं मनुष्यमसर्वज्ञत्वादिगुणकं
+मत्वाभ्यसूयत्यात्मप्रशंसादिदोषाध्यारोपणेनेश्वरत्वमसहमानो द्वेष्टि
+यस्तस्मै श्रीकृष्णोत्कर्षासहिष्णवेऽतपस्विने भक्तायाशुश्रूषवेऽपि न वाच्यं
+कदाचनेत्यनुकर्षणार्थश्चकारः। तपस्विने भक्ताय शुश्रूषवे
+श्रीकृष्णानुरक्ताय च वाच्यमित्यर्थः।
+एकैकविशेषणाभावेऽप्ययोग्यताप्रतिपादनार्थाश्चत्वारो नकाराः। मेधाविने
+तपस्विने वेत्यन्यत्र विकल्पदर्शनात्। शुश्रूषा
+गुरुभक्तिभगवदनुरक्तियुक्ताय तपस्विने तद्युक्ताय मेधाविने वा वाच्यं
+मेधातपसोः पाक्षिकत्वेऽपि भगवदनुरक्तिगुरुभक्तिशुश्रूषाणां नियम एवेति
+भाष्यकृतः।
+</details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 
-_________________
-## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
+<details><summary>मूलम्</summary>
 
-।।18.67।। एवं स्वगीतार्थमुपदिश्य तत्सम्प्रदायप्रवर्तने नियमयति -- इदमिति।
+॥18.67॥ Sri Madhvacharya did not comment on this sloka.,
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥18.67॥ Sri Jayatirtha did not comment on this sloka.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.67॥ इदमिति। अस्य ज्ञानस्य गोप्यमानत्वं सिद्धिदम्; सर्वजनाविषयत्वात्। तपसा तावत् पापग्रन्थौ विशीर्णे कुशलपरिपाकोन्मुखता भवति; इति पूर्वं तपः तपसः श्रद्धा +++(S adds जायते after श्रद्धा )+++ ; सैव भक्तिः। श्रद्धापि उपजाता कदाचित् न प्ररोहति; सौदामिनीव क्षणदृष्टनष्टत्वात् +++(N क्षणदृष्टत्वात् )+++। ततः तत्प्ररोहे श्रोतुमिच्छा भवति। इयदपि च कस्यचिदनीश्वरेऽवस्तुनि शुष्कसाङ्ख्यादिज्ञाने भवति। सेश्वरेऽपि वा कस्यचित् फलार्थितया फलमेव प्रधानीकृत्य भगवन्तं च स्वात्मानं तदुपकरणपात्रीकरणेन न्यक्कृत्यं भवेत्। यदुक्तम् -- पुरुषश्च कर्मार्थत्वात् +++(JS; III; i; 6 )+++  
+  
+कर्माण्यपि फलार्थत्वात् +++(JS; III; i; 4 )+++ इति। एवमुभयथापि भगवति असूयैव अनादर इत्यर्थः।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.67 Idam etc. If the secrecy of this knowledge is maintained it would yield success, because It is out of reach of all \[ordinary\] persons. When the knot of sin is cut off through observing austerities, then only the results of good act is ready to become ripe. Hence, austerity comes first. Due to austerity, faith is born. The same (faith) is devotion here. The faith, even if it is born, does not grow well, in case it becomes visible only for a moment and then perishes like lightning. Therefore to help its growth, the desire to listen to is \[next\]. In the case of certain person, even all this arises with regard to the useless knowledge of the dry Sankhya (reasoning) system that admits no Supreme Lord. Even with regard to a system that adimts the Supreme Lord, it may, n the case of another person-on account of his craving for fruit of action-emerge by raising the fruit-of-action alone to the status of importance and by humbling down one's own Worshipful Self to the role of an instrument in achieving that fruit It has been declared : 'The agent also \[is an auxiliary\], because he is for the action \[enjoined\].' (JS, III, i, 6); and 'Actions also \[are auxiliary\] because they are for the purpose of fruits.' (JS, III, i, 4). Thus in both the instances there is indignation, meaning 'disregard' with the Bhagavat (Self) - This is the purport.
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
+
+<details><summary>मूलम्</summary>
+
+॥18.67॥ एवं स्वगीतार्थमुपदिश्य तत्सम्प्रदायप्रवर्तने नियमयति -- इदमिति।
 गीतं ज्ञानं ते त्वयाऽतपस्काय न वाच्यम्। एवमन्यत्स्पष्टम्।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
-  
-  
-।।18.67।। एवं सकलशास्त्रार्थगीतार्थतत्त्वमुपदिश्य
+<details><summary>पुरुषोत्तमः</summary>
+
+॥18.67॥ एवं सकलशास्त्रार्थगीतार्थतत्त्वमुपदिश्य
 लोकोद्धारार्थमेतदुपदेशनेन मार्गप्रवर्तनार्थमधिकारिणमाह -- इदं ते इति।
 इदं सर्वशास्त्ररहस्यं ते त्वया अतपस्काय स्वाचारहीनाय न वाच्यम्। न च
 अभक्ताय मद्भक्तिरहिताय कदाचन वाच्यम्। कदाचन इतिपदेनाभक्तसंसर्गिणे
 भक्तायाऽपि न वाच्यमिति ज्ञापितम्। न च पुनः अशुश्रूषवे श्रवणेच्छारहिताय;
 अनासक्तायेत्यर्थः। यद्वा मत्परिचर्याहीनाय च न वाच्यम्। यो मां
 पुरुषोत्तमं बाहिर्मुख्येण अभ्यसूयति दोषारोपपूर्वकं कौटिल्येन निन्दति
-तस्मै च न च वाच्यम्।  
-  
-
+तस्मै च न च वाच्यम्।
 </details>
+
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 
-_________________
-## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
-
-।।18.67।। एवं गीतार्थतत्त्वमुपदिश्य तत्संप्रदायप्रवर्तने नियममाह **--
+॥18.67॥ एवं गीतार्थतत्त्वमुपदिश्य तत्संप्रदायप्रवर्तने नियममाह **--
 इदमिति।** इदं गीतार्थतत्त्वं ते त्वयाऽतपस्काय स्वधर्मानुष्ठानहीनाय न
 वाच्यं; न चाभक्ताय गुरौ ईश्वरे च भक्तिशून्याय कदाचिदपि न वाच्यं; न
 चाशुश्रूषवे परिचर्यामकुर्वत वाच्यं; मां परमेश्वरं योऽभ्यसूयति
 मनुष्यदृष्ट्या दोषारोपेण निन्दति तस्मै च न वाच्यम्।
 
-</details>
 </div>
 
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 
-_________________
-## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
+<details><summary>आदिदेवानन्दः</summary>
 
-।।18.67।। प्राय अध्यात्मशास्त्र के समस्त ग्रन्थों के अन्तिम भाग में
-शास्त्रसंप्रदाय की विधि अर्थात् ज्ञान के अधिकारी का वर्णन किया जाता है।
-इसी महान् परम्परा का अनुसरण करते हुए; इस श्लोक में; भगवान् श्रीकृष्ण
-बताते हैं कि यह ज्ञान किसे नहीं देना चाहिए। इसी के द्वारा यहाँ इसका भी
-बोध कराया गया है कि ज्ञान के योग्य अधिकारी में कौन से गुण होने चाहिए।
-इसका अर्थ यह नहीं हुआ कि इन गुणों के उल्लेख से गीता की ज्ञान निधि के
-चारों ओर प्राचीरें खड़ी की गई हैं। कोई यह न समझे कि कतिपय लोगों की
-स्वार्थसिद्धि के लिए और उन्हें इस ज्ञाननिधि के व्यापार का एकाधिकार
-प्रदान करने के लिए इस सम्प्रदाय विधि का निर्माण किया गया है। यहाँ
-उल्लिखित गुणों के अध्ययन से ज्ञात होगा कि साधक के आन्तरिक व्यक्तित्व के
-सुगठन के लिए इन गुणों का होना आवश्यक है। साधन सम्पन्न साधक ही इस ज्ञान
-का ग्रहण; धारण एवं स्मरण करने में समर्थ होता है। वही इस ज्ञानानन्द का
-अनुभव एवं अर्जन करके उसे अपने जीवन में प्रकट कर सकता है। यह ज्ञान ऐसे
-पुरुष को नहीं देना चाहिए जो (1) तपरहित है शरीर; वाणी और मन का संयम ही तप
-है जिसके द्वारा हम समस्त शक्तियों का संचय कर सकते हैं। संयमरूपी तप से
-रहित पुरुष में इस ज्ञान को ग्रहण करने की मानसिक और बौद्धिक क्षमता ही
-नहीं होती। इसलिए; तप रहित व्यक्ति से ज्ञान नहीं कहना चाहिए; क्योंकि इससे
-उस व्यक्ति को कोई लाभ नहीं होगा। इस कथन में रंचमात्र भी पूर्वाग्रह और
-दुराग्रह नहीं है। यह कथन इसी प्रकार का है कि; कृपया चट्टानों पर बीजारोपण
-मत करो। कारण यह है कि कृषक को इससे कोई फसल प्राप्त नहीं होगी। (2) जो
-अभक्त है तपयुक्त हो किन्तु भक्त न हो; तो उस पुरुष से भी यह ज्ञान नहीं
-कहना चाहिए। जो साधक अपने लक्ष्य के साथ तादात्म्य नहीं कर सकते; उससे
-प्रेम नहीं कर सकते; वे इस ज्ञान के अधिकारी नहीं हैं। प्रेम के अभाव में
-त्याग और उत्साह संभव नहीं है। प्रेमालिंगन में अपने आदर्श को बांध लेना ही
-भक्ति है। (3) जो अशुश्रुषु (सेवा में अतत्पर) है यदि कोई पुरुष तपस्वी और
-भक्त है; परन्तु गुरुसेवा और जनसेवा करने में संकोच करता है; तो वह भी
-योग्य विद्यार्थी नहीं कहा जा सकता। भगवान् श्रीकृष्ण ने सम्पूर्ण गीता में
-निस्वार्थ सेवा पर विशेष बल दिया है; क्योंकि चित्तशुद्धि का वही
-सर्वश्रेष्ठ साधन है। स्वार्थी लोग कभी भी इस ज्ञान को ग्रहण नहीं कर पाते
-हैं और न ही उसके आनन्द का अनुभव कर सकते हैं। (4) जो मुझे से असूया अर्थात्
-मुझमें दोष देखता है गुणों में दोष देखना असूया है; जो लोग ईश्वर; गुरु और
-शास्त्रप्रमाण में भी दोष देखते हैं; वे किस प्रकार आत्मज्ञान को प्राप्त
-कर सकते हैं मुझसे असूया का अर्थ परमात्मा से असूया है। उसी प्रकार;
-तत्त्वज्ञान का अनादर करने वाले लोग भी अभ्यसूयक कहलाते हैं। बल प्रयोग के
-द्वारा कराये गये धर्म परिवर्तन से उस मत के अनुयायियों का संख्याबल तो
-बढ़ाया जा सकता है; परन्तु; ऐसे प्रयोग से आत्मविकास नहीं कराया जा सकता।
-किसी के भी ऊपर धर्म को नहीं थोपना चाहिए। यदि तत्त्वज्ञान के प्रति मन में
-तिरस्कार का भाव है; तो बुद्धि से उसे समझने पर भी हम उसे अपने जीवन म्ों
-कार्यान्वित नहीं कर सकते हैं। इसलिए; असूया युक्त पुरुष इस ज्ञान का
-अधिकारी नहीं है। इस प्रकार के श्लोकों का प्रयोजन साधकों को साधन मार्ग
-दर्शाना होता है। गीता के अध्ययन से तत्काल ही किसी लाभ की अपेक्षा नहीं
-करनी चाहिए। रातोरात व्यक्तित्व का सुगठन नहीं किया जा सकता। गीता इस
-प्रकार के चमत्कार का आश्वासन नहीं देती। इस श्लोक का अभिप्राय यह हुआ कि
-तप; भक्ति; सेवाभाव और आदर से युक्त पुरुष ही आत्मज्ञान का उत्तम अधिकारी
-है। यदि हम शास्त्र के अध्ययन से अधिक लाभान्वित नहीं होते हैं; तो; निश्चय
-ही हममें किसी आवश्यक गुण का अभाव होना चाहिए। उस स्थिति में आत्मनिरीक्षण
-के द्वारा हम आत्मशोधन करें। जैसे; दर्पण पर जमी धूल को स्वच्छ कर देने से
-प्रतिबिम्ब स्पष्ट दिखाई देता है; उसी प्रकार अन्तकरण के शुद्ध और स्थिर
-होने पर आत्मानुभव स्पष्ट होता है। अब; संप्रदाय के प्रवर्तक एवं प्रचारक को
-प्राप्त होने वाले फल को बताते हैं
-
+18.67 Never should this be told by you to one who is not austere, who is not a devotee, nor to one who has no wish to listen, nor certainly to him who traduces Me.
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.67।। यह ज्ञान ऐसे पुरुष से नहीं कहना चाहिए, जो अतपस्क (तपरहित) है,
-और न उसे जो अभक्त है; उसे भी नहीं जो अशुश्रुषु (सेवा में अतत्पर) है और
-उस पुरुष से भी नहीं कहना चाहिए, जो मुझ (ईश्वर) से असूया करता है, अर्थात्
-मुझ में दोष देखता है।।
+<details><summary>गम्भीरानन्दः</summary>
 
+18.67 This (that I have taught) you should not ever be taught to one who is devoid of austerities and to one who is not a devotee; also, neither to one who does not render service, nor as well to one who cavils at Me.
 </details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+18.67 Speak not this to one who has not practised austerities, or to him who does not love, or who will not listen, or who mocks.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.67. This \[knowledge\] is for you, and it should never be imparted to one who does not observe austerities; to him who has no devotion; to him who has no desire to listen; and to him who is indignant towards Me.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+18.67 This is never to be spoken by thee to one who is devoid of austerities or devotion, nor to one who does not render service or who does not desire to listen, nor to one who cavils at Me.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+18.67 इदम् this; ते by thee; न not; अतपस्काय to one who is devoid of austerity; न not; अभक्ताय to one who is not devoted; कदाचन never; न not;
+च and; अशुश्रूषवे to one who does not render service or who does not desire to listen; वाच्यम् to be spoken; न not; च and; माम् Me; यः who;
+अभ्यसूयति cavils at.Commentary This The scripture which has been taught to you.Service To the Guru.The scripture can be taught to him who does not speak ill of the Lord; who is a man of austerities; who is devoted;
+who is thirsting to hear and who renders service to his Guru.One who cavils at Me He who disregards Me taking Me for an ordinary man; who does not like to be told that I am the Lord.
+</details>
+
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
+
+<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
+
+<details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.67।। यह सर्वगुह्यतम वचन अतपस्वीको मत कहना; अभक्तको कभी मत कहना; जो
 सुनना नहीं चाहता, उसको मत कहना; और जो मेरेमें दोषदृष्टि करता है, उससे भी
 मत कहना।
-
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
+
+<details><summary>रामसुखदासः - टीका</summary>
 
 ।।18.67।।***व्याख्या --***  **इदं ते नातपस्काय** -- पूर्वश्लोकमें आये
 **सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज** -- इस सर्वगुह्यतम वचनके लिये
@@ -931,55 +779,68 @@ _________________
 ***सम्बन्ध --*** गीताजीका यह प्रभाव है कि जो प्रचार करेगा; उससे बढ़कर
 मेरा प्यारा कोई नहीं होगा -- यह बात भगवान् आगेको दो श्लोकोंमें बताते
 हैं।
-
 </details>
-</div>
 
+<details><summary>चिन्मयानन्दः</summary>
 
-_________________
-## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-18.67. This \[knowledge\] is for you, and it should never be imparted to one who does not observe austerities; to him who has no devotion; to him who has no desire to listen; and to him who is indignant towards Me.
-
+।।18.67।। प्राय अध्यात्मशास्त्र के समस्त ग्रन्थों के अन्तिम भाग में
+शास्त्रसंप्रदाय की विधि अर्थात् ज्ञान के अधिकारी का वर्णन किया जाता है।
+इसी महान् परम्परा का अनुसरण करते हुए; इस श्लोक में; भगवान् श्रीकृष्ण
+बताते हैं कि यह ज्ञान किसे नहीं देना चाहिए। इसी के द्वारा यहाँ इसका भी
+बोध कराया गया है कि ज्ञान के योग्य अधिकारी में कौन से गुण होने चाहिए।
+इसका अर्थ यह नहीं हुआ कि इन गुणों के उल्लेख से गीता की ज्ञान निधि के
+चारों ओर प्राचीरें खड़ी की गई हैं। कोई यह न समझे कि कतिपय लोगों की
+स्वार्थसिद्धि के लिए और उन्हें इस ज्ञाननिधि के व्यापार का एकाधिकार
+प्रदान करने के लिए इस सम्प्रदाय विधि का निर्माण किया गया है। यहाँ
+उल्लिखित गुणों के अध्ययन से ज्ञात होगा कि साधक के आन्तरिक व्यक्तित्व के
+सुगठन के लिए इन गुणों का होना आवश्यक है। साधन सम्पन्न साधक ही इस ज्ञान
+का ग्रहण; धारण एवं स्मरण करने में समर्थ होता है। वही इस ज्ञानानन्द का
+अनुभव एवं अर्जन करके उसे अपने जीवन में प्रकट कर सकता है। यह ज्ञान ऐसे
+पुरुष को नहीं देना चाहिए जो (1) तपरहित है शरीर; वाणी और मन का संयम ही तप
+है जिसके द्वारा हम समस्त शक्तियों का संचय कर सकते हैं। संयमरूपी तप से
+रहित पुरुष में इस ज्ञान को ग्रहण करने की मानसिक और बौद्धिक क्षमता ही
+नहीं होती। इसलिए; तप रहित व्यक्ति से ज्ञान नहीं कहना चाहिए; क्योंकि इससे
+उस व्यक्ति को कोई लाभ नहीं होगा। इस कथन में रंचमात्र भी पूर्वाग्रह और
+दुराग्रह नहीं है। यह कथन इसी प्रकार का है कि; कृपया चट्टानों पर बीजारोपण
+मत करो। कारण यह है कि कृषक को इससे कोई फसल प्राप्त नहीं होगी। (2) जो
+अभक्त है तपयुक्त हो किन्तु भक्त न हो; तो उस पुरुष से भी यह ज्ञान नहीं
+कहना चाहिए। जो साधक अपने लक्ष्य के साथ तादात्म्य नहीं कर सकते; उससे
+प्रेम नहीं कर सकते; वे इस ज्ञान के अधिकारी नहीं हैं। प्रेम के अभाव में
+त्याग और उत्साह संभव नहीं है। प्रेमालिंगन में अपने आदर्श को बांध लेना ही
+भक्ति है। (3) जो अशुश्रुषु (सेवा में अतत्पर) है यदि कोई पुरुष तपस्वी और
+भक्त है; परन्तु गुरुसेवा और जनसेवा करने में संकोच करता है; तो वह भी
+योग्य विद्यार्थी नहीं कहा जा सकता। भगवान् श्रीकृष्ण ने सम्पूर्ण गीता में
+निस्वार्थ सेवा पर विशेष बल दिया है; क्योंकि चित्तशुद्धि का वही
+सर्वश्रेष्ठ साधन है। स्वार्थी लोग कभी भी इस ज्ञान को ग्रहण नहीं कर पाते
+हैं और न ही उसके आनन्द का अनुभव कर सकते हैं। (4) जो मुझे से असूया अर्थात्
+मुझमें दोष देखता है गुणों में दोष देखना असूया है; जो लोग ईश्वर; गुरु और
+शास्त्रप्रमाण में भी दोष देखते हैं; वे किस प्रकार आत्मज्ञान को प्राप्त
+कर सकते हैं मुझसे असूया का अर्थ परमात्मा से असूया है। उसी प्रकार;
+तत्त्वज्ञान का अनादर करने वाले लोग भी अभ्यसूयक कहलाते हैं। बल प्रयोग के
+द्वारा कराये गये धर्म परिवर्तन से उस मत के अनुयायियों का संख्याबल तो
+बढ़ाया जा सकता है; परन्तु; ऐसे प्रयोग से आत्मविकास नहीं कराया जा सकता।
+किसी के भी ऊपर धर्म को नहीं थोपना चाहिए। यदि तत्त्वज्ञान के प्रति मन में
+तिरस्कार का भाव है; तो बुद्धि से उसे समझने पर भी हम उसे अपने जीवन म्ों
+कार्यान्वित नहीं कर सकते हैं। इसलिए; असूया युक्त पुरुष इस ज्ञान का
+अधिकारी नहीं है। इस प्रकार के श्लोकों का प्रयोजन साधकों को साधन मार्ग
+दर्शाना होता है। गीता के अध्ययन से तत्काल ही किसी लाभ की अपेक्षा नहीं
+करनी चाहिए। रातोरात व्यक्तित्व का सुगठन नहीं किया जा सकता। गीता इस
+प्रकार के चमत्कार का आश्वासन नहीं देती। इस श्लोक का अभिप्राय यह हुआ कि
+तप; भक्ति; सेवाभाव और आदर से युक्त पुरुष ही आत्मज्ञान का उत्तम अधिकारी
+है। यदि हम शास्त्र के अध्ययन से अधिक लाभान्वित नहीं होते हैं; तो; निश्चय
+ही हममें किसी आवश्यक गुण का अभाव होना चाहिए। उस स्थिति में आत्मनिरीक्षण
+के द्वारा हम आत्मशोधन करें। जैसे; दर्पण पर जमी धूल को स्वच्छ कर देने से
+प्रतिबिम्ब स्पष्ट दिखाई देता है; उसी प्रकार अन्तकरण के शुद्ध और स्थिर
+होने पर आत्मानुभव स्पष्ट होता है। अब; संप्रदाय के प्रवर्तक एवं प्रचारक को
+प्राप्त होने वाले फल को बताते हैं
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.67 This (that I have taught) you should not ever be taught to one who is devoid of austerities and to one who is not a devotee; also, neither to one who does not render service, nor as well to one who cavils at Me.
+<details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
+।।18.67।। यह ज्ञान ऐसे पुरुष से नहीं कहना चाहिए, जो अतपस्क (तपरहित) है,
+और न उसे जो अभक्त है; उसे भी नहीं जो अशुश्रुषु (सेवा में अतत्पर) है और
+उस पुरुष से भी नहीं कहना चाहिए, जो मुझ (ईश्वर) से असूया करता है, अर्थात्
+मुझ में दोष देखता है।।
 </details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.67 Speak not this to one who has not practised austerities, or to him who does not love, or who will not listen, or who mocks.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
-
-18.67 Never should this be told by you to one who is not austere, who is not a devotee, nor to one who has no wish to listen, nor certainly to him who traduces Me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
-
-18.67 This is never to be spoken by thee to one who is devoid of austerities or devotion, nor to one who does not render service or who does not desire to listen, nor to one who cavils at Me.
-
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
-<details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
-
-18.67 इदम् this; ते by thee; न not; अतपस्काय to one who is devoid of austerity; न not; अभक्ताय to one who is not devoted; कदाचन never; न not;
-च and; अशुश्रूषवे to one who does not render service or who does not desire to listen; वाच्यम् to be spoken; न not; च and; माम् Me; यः who;
-अभ्यसूयति cavils at.Commentary This The scripture which has been taught to you.Service To the Guru.The scripture can be taught to him who does not speak ill of the Lord; who is a man of austerities; who is devoted;
-who is thirsting to hear and who renders service to his Guru.One who cavils at Me He who disregards Me taking Me for an ordinary man; who does not like to be told that I am the Lord.
-
-</details>
 </div>
