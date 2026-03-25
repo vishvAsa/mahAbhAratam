@@ -23,8 +23,9 @@ title = "34 यथा प्रकाशयत्येकः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.33॥**यथा एक** आदित्यः स्वया प्रभया **कृत्स्नम् इमं लोकं प्रकाशयति;** **तथा क्षेत्रम्** अपि **क्षेत्री** मम इदं क्षेत्रम् ईदृशम् इति **कृत्स्नं** बहिर् अन्तश् च आपादतलमस्तकं स्वकीयेन ज्ञानेन प्रकाशयति। अतः प्रकाश्याद् लोकात् प्रकाशकादित्यवद् वेदितृत्वेन वेद्यभूताद् अस्मात् क्षेत्राद् अत्यन्तविलक्षणो ऽयम् उक्तलक्षण आत्मा इत्यर्थः।
@@ -39,12 +40,14 @@ title = "34 यथा प्रकाशयत्येकः"
 
 13.34 As the 'one sun' illumines 'all this world' by his radiance, so the 'knower of the body' illumines the entire Ksetra, i.e., the body, by Its own knowledge, within and without and from head to toe, by conceiving 'This my body is of this nature.' This self of the said nature is totally different from the body, because It is the knower of the body. The body is the object of Its knowledge and is therefore different from It, even as the illuminating sun is totally different from the illumined world.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.34॥ --,**यथा प्रकाशयति** अवभासयति **एकः कृत्स्नं लोकम् इमं रविः** सविता आदित्यः; **तथा** तद्वत् महाभूतादि धृत्यन्तं **क्षेत्रम्** एकः सन् **प्रकाशयति।** कः **क्षेत्री** परमात्मा इत्यर्थः। रविदृष्टान्तः अत्र आत्मनः उभयार्थोऽपि भवति -- रविवत् सर्वक्षेत्रेषु एक एव आत्मा; अलेपकश्च इति॥ समस्ताध्यायार्थोपसंहारार्थः अयं श्लोकः --,
 </details>
@@ -117,12 +120,14 @@ meant for summarizing the idea of the whole of this chapter:
 सर्वलोकस्य चक्षुर्न लिप्यते चाक्षुषैर्बाह्यदोषैः। एकस्तथा
 सर्वभूतान्तरात्मा न लिप्यते लोकदुःखेन बाह्यः इति श्रुतेः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.34॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -131,12 +136,14 @@ meant for summarizing the idea of the whole of this chapter:
 
 ॥13.34॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.34॥ यथेति। ननु एकः परमात्मा कथमनेकानि क्षेत्राणि व्याप्नोति इत्याशङ्का प्रसिद्धेन रविणा दृष्टान्तेन अपाकृता। कृत्स्नं क्षेत्रम्; चराचराणि क्षेत्राणीत्यर्थः।
 </details>
@@ -145,12 +152,14 @@ meant for summarizing the idea of the whole of this chapter:
 
 13.31-34 Yada etc. upto na upalipyate. When \[a man of Yoga\] perceives the mutual difference i.e., separateness of all beings (all mutually different beings) in the very Self on account of Its all pervasive nature and realises the said difference as having sprung up from the Self alone - even then he does not get any stain. For \[in that case\] he would be the creator (or performer) of all. For, he is none but the Supreme Self; and though residing in the body, he is not stained just as the Eather is \[not stained\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.34॥ प्रकाशकत्वं च दृष्टान्तान्तरेण स्पष्टयति -- यथेति। चैतन्यं
 ज्ञानरूपमात्मनो धर्मः न प्राकृत इति। यथा सूर्यः प्रकाशधर्मवान् सर्वं
@@ -169,18 +178,24 @@ meant for summarizing the idea of the whole of this chapter:
 भारतेतिसम्बोधनेन सैन्यमध्ये स्थितो मदंशत्वात्तद्दोषैस्त्वं यथा न लिप्यस
 इति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.34॥ असङ्गत्वाल्लेपो नास्तीत्याकाशदृष्टान्तेनोक्तम्; प्रकाशकत्वाच्च
 प्रकाश्यधर्मैर्न युज्यत इति रविदृष्टान्तेनाह **-- यथेति।** स्पष्टार्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.34 As the one sun illumines this whole world, so does the Knower of the Field (Ksetrin, the self), O Arjuna, illumine the whole Field (the body).
@@ -213,11 +228,13 @@ world; इमम् this; रविः sun; क्षेत्रम् the fiel
 भारत O descendant of Bharata (Arjuna).Commentary The Supreme Self is one. It illumines the whole matter from the Unmanifested down to the blade of grass or a lump of clay; from the great elements down to firmness or fortitude. (Cf. verses 5 and 6.) Just as the sun is one;
 just as the sun illumines the whole world; just as the sun is not tainted; so also the Self is One in all bodies; It illumines all the bodies and It is not contaminated.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.34।। हे भरतवंशोद्भव अर्जुन ! जैसे एक ही सूर्य सम्पूर्ण संसारको
@@ -285,6 +302,7 @@ just as the sun illumines the whole world; just as the sun is not tainted; so al
 ।।13.34।। हे भारत ! जिस प्रकार एक ही सूर्य इस सम्पूर्ण लोक को प्रकाशित
 करता है, उसी प्रकार एक ही क्षेत्री (क्षेत्रज्ञ) सम्पूर्ण क्षेत्र को
 प्रकाशित करता है।।
+</details>
 </details>
 
 </div>

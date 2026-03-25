@@ -23,8 +23,9 @@ title = "11 यतन्तो योगिनश्चैनम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.11॥ मत्प्रपत्तिपूर्वकं कर्मयोगादिषु यतमानास् तैर् निर्मलान्तःकरणाः **योगिनः** योगाख्येन चक्षुषा **आत्मनि** शरीरे **अवस्थितम्** अपि शरीराद् विविक्तं स्वेन रूपेण अवस्थितम् **एनं पश्यन्ति। यतमाना अपि** अकृतात्मानः **मत्प्रपत्तिविरहिणस् तत एव असंस्कृतमनसस् तत एव** अचेतसः **आत्मावलोकनसमर्थ चेतोरहिताः** न एनं पश्यन्ति।  
@@ -44,12 +45,14 @@ title = "11 यतन्तो योगिनश्चैनम्"
 Its light of knowledge illuminates even the luminaries such as the sun, moon and fire which help the senses to see by removing the darkness that prevents the contact of the senses with their objects as described (in the verses): 'That supreme light ৷৷. is Mine' (15.6) and 'An everlasting part of Myself having become the (bound) self in the world of life'
 (15.7). Now, He declares that even the lights of the sun and other luminaries, which form particular developments of Prakrti, are Vibhutis of the Lord:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.11॥ --,**यतन्तः** प्रयत्नं कुर्वन्तः **योगिनश्च** समाहितचित्ताः **एनं** प्रकृतम् आत्मानं **पश्यन्ति** अयम् अहम् अस्मि इति उपलभन्ते **आत्मनि** स्वस्यां बुद्धौ **अवस्थितम्। यतन्तोऽपि** शास्त्रादिप्रमाणैः; **अकृतात्मानः** असंस्कृतात्मानः तपसा इन्द्रियजयेन च; दुश्चरितात् अनुपरताः; अशान्तदर्पाः; प्रयत्नं कुर्वन्तोऽपि **न एनं पश्यन्ति अचेतसः** अविवेकिनः॥ यत् पदं सर्वस्य अवभासकमपि अग्न्यादित्यादिकं ज्योतिः न अवभासयते; यत् प्राप्ताश्च मुमुक्षवः पुनः संसाराभिमुखाः न निवर्तन्ते; यस्य च पदस्य उपाधिभेदम् अनुविधीयमानाः जीवाः -- घटाकाशादयः इव आकाशस्य -- अंशाः; तस्य पदस्य सर्वात्मत्वं सर्वव्यवहारास्पदत्वं च विवक्षुः चतुर्भिः श्लोकैः विभूतिसंक्षेपमाह भगवान् --,
 </details>
@@ -126,12 +129,14 @@ of limiting adjuncts, are parts, just as spaces enclosed in pot etc. are
 यज्ञादिभिरशोधितान्तःकरणा अतएवाचेतसो विवेकशून्या नैनं पश्यन्तीति मूढा
 नानुपश्यन्तीत्येतद्विवरणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.11॥ यतन्तो ज्ञानं प्राप्य। अकृतात्मानोऽशुद्धबुद्धयः।
 </details>
@@ -143,12 +148,14 @@ of limiting adjuncts, are parts, just as spaces enclosed in pot etc. are
 **अकृते**ति। आत्मा बुद्धिः; अकृतत्वं चाशुद्धत्वम्। केशान् करोतीत्यादौ
 शोधनेऽपि करोतेः प्रयोगादिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.9 -- 15.11॥ एवं सृष्टौ संहारे च एतैः साहित्यम् अस्योक्त्वा स्थिताव् अपि स्थानासन-मननादि-रूपायां +++(N ममतादि)+++ विषय-ग्रहणात्मिकायां +++(omits स्थितावपि
 -- त्मिकायाम्)+++ तत्-सहितस्यैवास्य व्यापार इति निश्चीयते -- श्रोत्रमित्यादि अचेतस इत्यन्तम्।
@@ -160,12 +167,14 @@ of limiting adjuncts, are parts, just as spaces enclosed in pot etc. are
 
 15.9-11 Srotram etc. upto asetasah. Mind : the internal organ is hery implied. Hence, due to His association of the bodily existence, when He remains \[in the body\], or rises up to seize another body, or enjoys the sense objects - at that time the deluded persons do not perceive Him, because they are not well enlightened. But, considering everything as manifestation of the \[Self\] awareness, the highly enlightened men recognize Him. Thus they are men of unbroken contemplation. Because they are engrossed in their exertion. But in the case of those who have not mastered their self (mind), even their effort does not yield any fruit, because their passion has not yet been fully decayed. Indeed the seeds of corn, sown during the autumnal season are not capable of yielding a rich harvest, even though the means like water etc., get collected together. Therefore, it (the water etc.) does not constitute a collection of means. Indeed totally different is the water sent forth by the mass of clouds that had been filled up in the month of Madhu. Altogether different is the earth that had been under the grip of the Cold-season (Sisira) and has (now) brilliance by the simple touch of the sun-rays. In the same way, the effort of the men of uncontrolled self, never gets to the stage of fulfilment of all reisities . That is why those who, even after receiving the means like the inititation etc. necessary for the realisation of the Supreme Lord, continue to have their inner vision filled with the collection of the knots (granthi) of anger, bewilderment etc., in the manner as before-in their case, even the means does never bear any fruit. This must be borne in mind. For, it is has been said : 'When anger etc., are seen, then even the initiated one never gets emancipation'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.11॥ दुर्विज्ञेयश्चायं यतो विवेकिष्वपि केचित्पश्यन्ति केचिन्न
 पश्यन्तीत्याह -- यतन्त इति। योगिनश्चित्तवृत्तिनिरोधकाः पश्यन्ति; अन्ये
@@ -180,10 +189,13 @@ of limiting adjuncts, are parts, just as spaces enclosed in pot etc. are
 ज्ञानाभावेन केवलयोगादिना यतन्तोऽप्येनं न पश्यन्ति; यतोऽचेतसः मन्दमतयः
 चैतन्यरहिता इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.11॥ दुर्ज्ञेयश्चायं यतो विवेकिष्वपि केचिदेव केचिन्न पश्यन्तीत्याह
 **-- यतन्त इति।** यतन्तः ध्यानादिभिः प्रयतमाना योगिनः केचिदेनमात्मानं
@@ -191,10 +203,13 @@ of limiting adjuncts, are parts, just as spaces enclosed in pot etc. are
 कुर्वाणा अपि अकृतात्मानोऽविशुद्धचित्ताः अतएवाचेतसो मन्दमतय एनं न
 पश्यन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.11 The striving Yogins see It established in themselves. But, though striving, those of unrefined minds, devoid of intelligence, perceive It not.
@@ -232,11 +247,13 @@ having reached which the aspirants do not return to this Samsara or the world of
 (ignorance); just as the ether in the pot appears to be limited though it is one with the,universal ether -- is the essence of all worldly experiences.Just as the ether in the pot becomes identical with the universal ether when the limiting adjunct (pot) is broken; so also the individual soul becomes identical with the Supreme Being when the limiting adjunct (ignorance) is destroyed through the knowledge of the Self or Selfrealisation born of meditation on the right significance of the great sentences of the Upanishads; viz.; TatTvamAsi (That thou art)
 or AhamBrahmaAsmi (I am the Supreme Being). Then he realises that Brahman is the essence of all and tht He is the basis of all experiences.In order to make Arjuna understand this; the Lord gives a brief summary of His manifestations in the following four verses. A description is given here of the allpervasiveness of the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.11।। यत्न करनेवाले योगीलोग अपने-आपमें स्थित इस परमात्मतत्त्वका अनुभव
@@ -470,6 +487,7 @@ or AhamBrahmaAsmi (I am the Supreme Being). Then he realises that Brahman is the
 ।।15.11।। योगीजन प्रयत्न करते हुये ही अपने हृदय में स्थित आत्मा को देखते
 हैं, जब कि अशुद्ध अन्त:करण वाले (अकृतात्मान:) और अविवेकी (अचेतस:) लोग
 यत्न करते हुये भी इसे नहीं देखते हैं।।
+</details>
 </details>
 
 </div>

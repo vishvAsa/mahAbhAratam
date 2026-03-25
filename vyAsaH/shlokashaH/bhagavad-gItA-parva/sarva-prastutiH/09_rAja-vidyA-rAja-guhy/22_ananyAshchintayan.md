@@ -23,8 +23,9 @@ title = "22 अनन्याश्चिन्तयन्तो माम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.22॥**अनन्याः** अनन्यप्रयोजना मच्चिन्तनेन विना आत्मधारणालाभान् मच्चिन्तनैकप्रयोजनाः **मां चिन्तयन्तो ये** महात्मानः **जनाः पर्युपासते** सर्वकल्याणगुणान्वितं सर्वविभूतियुक्तं मां परित उपासते अन्यूनम् उपासते **तेषां** **नित्याभियुक्तानां** मयि नित्याभियोगं काङ्क्षमाणानाम् **अहं** मत्प्राप्तिलक्षणं **योगम्** अपुनरावृत्तिरूपं **क्षेमं** च **वहामि।**
@@ -39,12 +40,14 @@ title = "22 अनन्याश्चिन्तयन्तो माम्"
 
 9.22 There are Mahatmas who, excluding everything else and having no other purpose, meditate on Me as their only purpose, because without Me they are unable to sustain themselves. They think of Me and worship Me with all my auspicious attributes and with all my glories. In the case of such devotees aspiring after eternal union with Me, I Myself undertake the responsibility of bringing them to Myself (Yoga translated as 'prosperity') and of preserving them in that state for ever (Ksema translated as 'welfare'). The meaning is that they do not return to Samsara.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.22॥ --,**अनन्याः** अपृथग्भूताः परं देवं नारायणम् आत्मत्वेन गताः सन्तः **चिन्तयन्तः मां ये जनाः** संन्यासिनः **पर्युपासते; तेषां** परमार्थदर्शिनां **नित्याभियुक्तानां** सतताभियोगिनां **योगक्षेमं** योगः अप्राप्तस्य प्रापणं क्षेमः तद्रक्षणं तदुभयं **वहामि** प्रापयामि **अहम्** ज्ञानी त्वात्मैव मे मतम् स च मम प्रियः यस्मात्; तस्मात् ते मम आत्मभूताः प्रियाश्च इति॥ ननु अन्येषामपि भक्तानां योगक्षेमं वहत्येव भगवान्। सत्यं वहत्येव किं तु अयं विशेषः -- अन्ये ये भक्ताः ते आत्मार्थं स्वयमपि योगक्षेमम् ईहन्ते अनन्यदर्शिनस्तु न आत्मार्थं योगक्षेमम् ईहन्ते न हि ते जीविते मरणे वा आत्मनः गृद्धिं कुर्वन्ति केवलमेव भगवच्छरणाः ते अतः भगवानेव तेषां योगक्षेमं वहतीति॥ ननु अन्या अपि देवताः त्वमेव चेत् तद्भक्ताश्च त्वामेव यजन्ते। सत्यमेवम् --,
 </details>
@@ -166,12 +169,14 @@ even, then do not their devotees too worship You alone;' 'Quite so!'
 सर्वेषामपि योगक्षेमं वहति भगवान् तथाप्यन्येषां प्रयत्नमुत्पाद्य
 तद्द्वारा वहति; ज्ञानिनां तु तदर्थं प्रयत्नमनुत्पाद्य वहतीति विशेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.22॥ अनन्याः अन्यदचिन्तयित्वा। तथा हि गौतमखिलेषु -- सर्वं परित्यज्य
 मनोगतं यद्विना देवं केवलं शुद्धमाद्यम्। ये चिन्तयन्तीह तमेव धीरा
@@ -193,12 +198,14 @@ even, then do not their devotees too worship You alone;' 'Quite so!'
 सर्वतः सर्वस्मिन्देशे। शरीरेन्द्रियमनोभिर्वा युक्तानां भगवति
 सेवोद्युक्तानाम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.22॥ तथा हि --,अनन्या इति। तेभ्योऽन्ये मां चिन्तयन्तः। कथम् अनन्या अविद्यमानं अन्यत् मद्व्यतिरिक्तं कामनीयं,( कमनीयं) फलं येषामिति। योगः; अप्रतिलब्धमत्स्वरूपलाभः। क्षेमम्; प्राप्तभगवत्स्वरूपप्रतिष्ठालाभपरिरक्षणम्; येन योगभ्रष्टत्वशंकाऽपि न भवेत् इत्यर्थः।
 </details>
@@ -207,12 +214,14 @@ even, then do not their devotees too worship You alone;' 'Quite so!'
 
 9.22 Ananyah etc. \[See for example\] those who are different \[from the above mentioned\] and who think of Me. How \[do they think\] ; They have nothing else : They have no other fruit apart from Me to desire for. Acisition : gaining (realising) My nature not gained (realised) earlier. Security of acisition : protection of the already achieved gain of being well established in the nature of the Bhagavat. On account of this there may not be even a doubt regarding the fall from the Yoga. This is the idea here.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.22॥ मद्भक्तास्तु मदनुग्रहेण कृतार्था भवन्तीत्याह -- अनन्या इति।
 अत्रेदमाकूतम् -- भगवता मार्गत्रयं स्वत उद्भावितम्; मनसा वाचा स्वरूपेण
@@ -258,10 +267,13 @@ even, then do not their devotees too worship You alone;' 'Quite so!'
 वहामि पालयामीत्यर्थः। वहनोक्त्या तदशक्तौ स्वशक्त्याविर्भावेन तत्करोमीति
 व्यञ्जितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.22॥ मद्भक्तास्तु मत्प्रसादेन कृतार्था भवन्तीत्याह **-- अनन्या
 इति।** अनन्या नास्ति मद्व्यतिरेकेणान्यत्काम्यं भजनीयं देवतान्तरं येषां
@@ -269,10 +281,13 @@ even, then do not their devotees too worship You alone;' 'Quite so!'
 मदेकनिष्ठानां योगं धनादिलाभं क्षेमं च तत्पालनं मोक्षं वा
 तैरप्रार्थितमप्यहमेव वहामि प्रापयामि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.22 There are those who, excluding all else, think of Me and worship Me, aspiring after eternal union with Me. Their prosperity and welfare
@@ -312,11 +327,13 @@ the Lord takes the whole burden of securing gain (Yoga) and safety
 (Kshema) for them upto Himself.Nityayuktah Those who constantly meditate on the Lord with intense devotion and onepointed mind.
 (Cf.VIII.14XVIII.66)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.22।। जो अनन्य भक्त मेरा चिन्तन करते हुए मेरी उपासना करते हैं,
@@ -416,6 +433,7 @@ the Lord takes the whole burden of securing gain (Yoga) and safety
 
 ।।9.22।। अनन्य भाव से मेरा चिन्तन करते हुए जो भक्तजन मेरी ही उपासना करते
 हैं, उन नित्ययुक्त पुरुषों का योगक्षेम मैं वहन करता हूँ।।
+</details>
 </details>
 
 </div>

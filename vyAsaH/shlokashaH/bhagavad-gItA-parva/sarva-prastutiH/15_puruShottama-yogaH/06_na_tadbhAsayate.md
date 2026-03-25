@@ -23,8 +23,9 @@ title = "06 न तद्भासयते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.6॥ **तद्** आत्मज्योतिः **न सूर्यो भासयते न शशाङ्को न पावकः** च। ज्ञानम् एव हि सर्वस्य प्रकाशकम्। बाह्यानि तु ज्योतींषि विषयेन्द्रियसम्बन्धविरोधितमोनिरसनद्वारेण उपकारकाणि। अस्य च प्रकाशको योगस् तद्विरोधि च अनादिकर्म; तन्निवर्तनं च उक्तं भगवत्प्रपत्तिमूलम् असङ्गादि**यद् गत्वा** पुनः **न निवर्तन्ते तत् परमं धाम** परमं ज्योतिः **मम** मदीयं मद्विभूतिभूतो ममांश इत्यर्थः। आदित्यादीनाम् अपि प्रकाशकत्वेन तस्य परमत्वम्। आदित्यादीनि हि ज्योतींषि न ज्ञानज्योतिषः प्रकाशकानि; ज्ञानम् एव हि सर्वस्य प्रकाशकम्।
@@ -39,12 +40,14 @@ title = "06 न तद्भासयते"
 
 15.6 The sun cannot illumine the light of the self, nor moon, nor fire. For, knowledge is indeed that which illumines them all. External lights, however, are helpful only in removing the darkness which hinders the contact between the senses and the objects. It is the intelligence of the self that reveals such external lights. What reveals this (i.e., the self) is Yoga (i.e., meditation) only. Beginningless Karma is the hindrance. It has been taught that the way for the erasing of Karma is self-surrender to the Lord through detachment etc. That supreme light, reaching which they do not return any more is the self, which is My glory (Vibhuti) and therefore belongs to Me and is a part of Myself. Such is the meaning. The supremacy of this light (i.e., individual self) consists in its capacity to illumine the light of knowledge. Knowledge alone can illuminate all things (including the light of the sun which sheds only physical light on objects.).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.6॥ -- **तत्** धाम इति व्यवहितेन धाम्ना संबध्यते। तत् धाम तेजोरूपं पदं **न भासयते सूर्यः** आदित्यः सर्वावभासनशक्तिमत्त्वेऽपि सति। तथा **न शशाङ्कः** चन्द्रः; **न पावकः** न अग्निरपि। **यत्** धाम वैष्णवं पदं **गत्वा** प्राप्य न **निवर्तन्ते;** यच्च सूर्यादिः न भासयते; **तत् धाम** पदं **परमं** विष्णोः **मम** पदम्; यत् गत्वा न निवर्तन्ते (गीता 15।6) इत्युक्तम्॥ 
 
@@ -168,12 +171,14 @@ to that Abode; Reply: As to that, listen to the reason:
 सर्वभासकत्वेन तु स्वयमपरोक्षत्वं यदादित्यगतं तेज इत्यत्र वक्ष्यति।
 एवमुभाभ्यां श्लोकाभ्यां श्रुतेर्दलद्वयं व्याख्यातमिति द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.6॥ स्वरूपं कथयति -- न तदित्यादिना।
 </details>
@@ -185,12 +190,14 @@ to that Abode; Reply: As to that, listen to the reason:
 इत्युक्तं भवति। स्वरूपमित्यनेन पदमित्युक्तस्य धामेति वक्ष्यमाणस्य
 चार्थोऽप्युक्तो भवति स्थानतेजसोरसङ्गत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.6॥ न तदिति। सूर्यादीनां तत्रानवकाशः। तेषां कालाद्यवच्छेदात्; वेद्यत्वात्; करणोपकारकत्वात्। तस्य तु दिक्कालाद्यनवच्छेदात्; वेदकत्त्वात्; करणप्रवर्तकत्वात्; तदतीतत्त्वात्।
 </details>
@@ -199,12 +206,14 @@ to that Abode; Reply: As to that, listen to the reason:
 
 15.6 Na tat etc. There is no scope for the sun etc., in \[illumining\] That. For, they are conditioned by time etc., because they are objects of knowledge, \[and\] because they are the helpers of the sense organs. On the other hand, That \[Absolute\] is unrestricted by space, time etc. It is the knower, the one inducer of the sense organs and also the one transcending them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.6॥ तदेव विशिनष्टि -- न तद्भासयत इति। तद्विष्णोः परमं पदं
 \[ऋक्सं.1।2।6।5\] अक्षरंचैद्ये च सात्वतपतेश्चरणं प्रविष्टे \[ \] इति
@@ -224,19 +233,25 @@ to that Abode; Reply: As to that, listen to the reason:
 प्रकाशयति। किञ्च यत्पदं गत्वा न निवर्तन्ते न पुनरागच्छन्ति। कुतः इत्यत
 आह। तत् मम परममुत्कृष्टं धाम गृहरूपमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.6॥ तदेव गन्तव्यं पदं विशिनष्टि **-- न तदिति।** यत्पदं सूर्यादयो न
 प्रकाशयन्ति; यत्प्राप्य न निवर्तन्ते योगिनः; तद्धाम स्वरूपं परमं मम।
 अनेन सूर्यादिप्रकाशाविषयत्वेन जडत्वशीतोष्णादिदोषप्रसङ्गो निरस्तः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.6 That supreme light (i.e. the individual self), reaching which they do not return any more, is Mine; the sun does not illumine It, nor moon,
@@ -279,11 +294,13 @@ none returns; and which the sun; moon; stars; lightning and fire do not illumine
   
 (Cf.VIII.21)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.6।। उस-(परमपद-) को न सूर्य, न चन्द्र और न अग्नि ही प्रकाशित कर सकती
@@ -421,6 +438,7 @@ none returns; and which the sun; moon; stars; lightning and fire do not illumine
 
 ।।15.6।। उसे न सूर्य प्रकाशित कर सकता है और न चन्द्रमा और न अग्नि। जिसे
 प्राप्त कर मनुष्य पुन: (संसार को) नहीं लौटते हैं, वह मेरा परम धाम है।।
+</details>
 </details>
 
 </div>

@@ -25,8 +25,9 @@ title = "18 त्वमक्षरम् परमम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.18॥ उपनिषत्सुद्वे विद्ये वेदितव्ये (मु॰ उ॰ 1।1।4) इत्यादिषु वेदितव्यतया निर्दिष्टं **परमम् अक्षरं त्वम्** एव। **अस्य विश्वस्य परं निधानं** विश्वस्य अस्य परमाधारभूतः **त्वम्** एव; **त्वम् अव्ययः** व्ययंरहितः; यत्स्वरूपो यद्गुणो यद्विभवश्च त्वं तेन एव रूपेण सर्वदा अवतिष्ठसे; **शाश्वतधर्मगोप्ता** शाश्वतस्य नित्यस्य वैदिकस्य धर्मस्य एवमादिभिर् अवतारैस् त्वम् एव गोप्ता। **सनातनस् त्वं पुरुषो मतो मे**वेदामहेतं पुरुषं महान्तम् (तै. आ. 3।12।7)परात्परं पुरुषम् (मु॰ उ॰ 3।2।8) इत्यादिषु उदितः सनातनपुरुषस् त्वम् एव इति मे मतो ज्ञातः। ,यदुकुलतिलकस् त्वम् एवम्भूत इदानीं साक्षात्कृतो मया इत्यर्थः।
@@ -43,12 +44,14 @@ title = "18 त्वमक्षरम् परमम्"
 
 11.18 You alone are the Supreme 'Imperishable Person' indicated as that which ought to be realised in such Upanisadic passages as: 'Two sciences are to be known' (Mun. U., 1.1.4). You alone are the 'Supreme Substratum' of the universe, i.e., supreme support of this universe. You are 'immutable', namely, not liable to mutation. Whatever might be your attributes and divine manifestations, You remain unchanged in Your form. You alone are the guardian of 'the eternal law' - You who protect the eternal Dharma of the Veda by incarnations like this. I know you are the everlasting Person. I know You are the eternal Person, described in such passages as, 'I know this great Purusa' (Tai. A., 3.12.7) and 'Person who is higher than the high' (Mun. U., 3.2.8). You, who were till now known to me as the most distinguished of the race of Yadu, have been realised by me now through direct perception as of this nature, i.e., of a nature unknown to me before. Such is the meaning.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.18॥ --,**त्वम् अक्षरं** न क्षरतीति; **परमं** ब्रह्म **वेदितव्यं** ज्ञातव्यं मुमुक्षुभिः। **त्वम् अस्य विश्वस्य** समस्तस्य जगतः **परं** प्रकृष्टं **निधानं** निधीयते अस्मिन्निति निधानं परः आश्रयः इत्यर्थः। किञ्च; **त्वम् अव्ययः** न तव व्ययो विद्यते इति अव्ययः; **शाश्वतधर्मगोप्ता** शश्वद्भवः शाश्वतः नित्यः धर्मः तस्य गोप्ता शाश्वतधर्मगोप्ता। **सनातनः** चिरंतनः **त्वं पुरुषः** परमः **मतः** अभिप्रेतः **मे** मम॥ किञ्च --,
 </details>
@@ -123,12 +126,14 @@ belief-what is meant by me. Moreover,
 पालयिता। शाश्वतेति संबोधनं वा। तस्मिन्पक्षेऽव्ययो विनाशरहितः। अतएव
 सनातनश्चिरन्तनः पुरुषो यः परमात्मा स एव त्वं मे मतो विदितोसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.18॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -137,12 +142,14 @@ belief-what is meant by me. Moreover,
 
 ॥11.18॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.18॥ समनन्तरेणाध्यायेन य एवार्थ उक्तस्तमेव प्रत्यक्षीकर्तुमर्जुनः पृच्छति +++(S;N;K [n] add स एव चायमुद्यमः after पृच्छति)+++। यो ह्युपदेशक्रमेणार्थोऽवगतः स एव प्रत्यक्षसंविदोपारुह्यमाणः स्फुटीभवति। तदर्थमेवेमे उक्तिप्रत्युक्ती उच्येते -- त्वमक्षरमिति। सात्वतधर्मगोप्तेति। सत् सत्यं क्रियाज्ञानयोरुभयोरपि भेदाप्रतिभासात्मकं तथा,+++(S;;N;K [n] add परमगुरौ महादेवेऽर्पणम् before तथा See Ag. XII; 11 and our note No. 13 thereon)+++ सत्तात्मकं प्रकाशरूपं +++(S;K [n] प्रकाशशीलम्)+++ तत्त्वं विद्यते येषां ते सात्वताः। तेषां धर्मः अनवरतग्रहणसंन्यासपरत्वात् सृष्टिसंहारविषयः सकलमार्गोत्तीर्णः; तं गोपायत्रे। एतदेवात्राध्याये रहस्यं प्रायशो देवीस्तोत्रविवृतौ मयप्रकाशितम्। तत् सहृदयैः सोपदेशैः स्वयमेवावगम्यते इति किं पुनः पुनः स्फुटतरप्रकाशनवाचालतया।
 </details>
@@ -151,12 +158,14 @@ belief-what is meant by me. Moreover,
 
 11.18 Tvam aksaram etc. Guardian of the pious acts of the Satvatas. Satvatas are the same as the Satvatas i.e. those who are established in the Truth that does not take cognizance of any difference between the Action (11.Spanda) and the Consciousness; the Truth which is nothing but Existentiality and is in the form of Awarenes. Their pious act is that act \[of meditation\] of theirs which - on account of its being continously engaged in the process of undertaking and rejecting \[things\] - consists of the act of emanation and absorption, and is the most superior of all the paths \[leading to salvation\]. The Lord protects that pious act. This is the secret in this chapter and it has been made almost clear by me (11.Ag.) in my (11.Ag.'s) Vivrti (11.Commentary) on the Devistotra (11.Goddess-Hymn). That is self-evident to the learned readers, with critical accuman, and initiation. Hence, why to take recourse to the verbiage of explaining again and again what is already known very clearly.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.18॥ यस्मादेवं तस्मात् -- त्वमक्षरमिति। ब्रह्मविशेषणतया व्याख्येयं
 ज्ञानिभिर्वेदितव्यं यदुक्तं तत्त्वमसि \[छा.उ.6।8।715\]सनातनः पुरुषः इति
@@ -176,10 +185,13 @@ belief-what is meant by me. Moreover,
 सर्वधर्मानुक्त्वा मुख्यं स्वनिश्चिततामाह -- सनातनः पुरुषः पुरुषोत्तमो मे
 मम मतः सम्मत इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.18॥ यस्मादेवं तवातर्क्यमैश्वर्यं तस्मात् **-- त्वमिति।**
 त्वमेवाक्षरं परमं ब्रह्म। कथंभूतम्। वेदितव्यं मुमुक्षुभिर्ज्ञातव्यम्।
@@ -187,10 +199,13 @@ belief-what is meant by me. Moreover,
 अतएव त्वमव्ययो नित्यः शाश्वतस्य नित्यस्य धर्मंस्य गोप्ता पालकः
 सनातनश्चिरंतनः पुरुषो मे मतः संमतोऽसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.18 You are the Imperishable, Supreme One to be realised. You are the Supreme Substratum of this universe. You are immutable, the guardian of the eternal law, I know You are the Supreme Person who is everlasting.
@@ -228,11 +243,13 @@ ancient; त्वम् Thou; पुरुषः Purusha; मतः thought; �
 (reflection) and Nididhyasana (meditation).Avyayah means inexhaustible;
 unchanging; undying.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.18।। आप ही जाननेयोग्य परम अक्षर (अक्षरब्रह्म) हैं, आप ही इस
@@ -294,6 +311,7 @@ unchanging; undying.
 ।।11.18।। आप ही जानने योग्य (वेदितव्यम्) परम अक्षर हैं; आप ही इस विश्व
 के परम आश्रय (निधान) हैं ! आप ही शाश्वत धर्म के रक्षक हैं और आप ही सनातन
 पुरुष हैं,ऐसा मेरा मत है।।
+</details>
 </details>
 
 </div>

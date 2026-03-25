@@ -23,8 +23,9 @@ title = "18 ऊर्ध्वङ् गच्छन्ति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.18॥ एवम् उक्तेन प्रकारेण **सत्त्वस्था ऊर्ध्वं गच्छन्ति** क्रमेण संसारबन्धान् मोक्षं गच्छन्ति। रजसः स्वर्गादिफललोभकरत्वाद् **राजसाः** फलसाधनभूतं कर्म अनुष्ठाय तत्फलम् अनुभूय पुनो ऽपि जनित्वा तदपेक्षितं कर्म अनुतिष्ठन्ति इति **मध्ये तिष्ठन्ति;** पुनरावृत्तिरूपतया दुःखप्रायम् एव तत्।**तामसास् तु जघन्यगुणवृत्तिस्था** उत्तरोत्तरनिकृष्टतमोगुणवृत्तिषु स्थिता **अधो गच्छन्ति।** अन्त्यजत्वम्; ततस् तिर्यक्त्वम्; ततः कृमिकीटादिजन्म ततः स्थावरत्वम्; ततो ऽपि गुल्मलतात्वम्; ततश् च शिलाकाष्ठलोष्टतृणादित्वं गच्छन्ति इत्यर्थः। आहारविशेषैः फलाभिसन्धिरहितसुकृतविशेषैश् च परम्परया प्रवर्धितसत्त्वानां गुणात्ययद्वारेण ऊर्ध्वगमनप्रकारम् आह --
@@ -41,12 +42,14 @@ title = "18 ऊर्ध्वङ् गच्छन्ति"
 'middle'. This is mostly suffering, as it is characterised by rirths.
 Those of Tamasic nature 'stoop down' into lower levels, as Tamas grows ever worse in them. They go 'downwards' i.e., to the lowest state among human beings, then to the condition of animals; then to that of worms; insects etc., then of immovable things, and even to the condition of shrubs and creepers, and ultimately to the condition of stones, wood, clod of earth, straw etc. Sri Krsna now teaches about the manner of those in whom the Sattva has gradually increased by adopting special holy food and performance of special disinterested deeds, and who thus rise upward by transcending the Gunas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.18॥ --,**ऊर्ध्वं गच्छन्ति** देवलोकादिषु उत्पद्यन्ते **सत्त्वस्थाः** सत्त्वगुणवृत्तस्थाः। **मध्ये तिष्ठन्ति** मनुष्येषु उत्पद्यन्ते **राजसाः।** **जघन्यगुणवृत्तस्थाः** जघन्यश्च असौ गुणश्च जघन्यगुणः तमः; तस्य वृत्तं निद्रालस्यादि; तस्मिन् स्थिताः जघन्यगुणवृत्तस्थाः मूढाः **अधः गच्छन्ति** पश्वादिषु उत्पद्यन्ते **तामसाः**॥  
   
@@ -138,12 +141,14 @@ knowledge. Hence the Lord says:
 सर्वदा तमःप्रधाना इतरेषां कदाचित्तद्वृत्तस्थत्वेऽपि न तत्प्रधानतेति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.18॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -152,12 +157,14 @@ knowledge. Hence the Lord says:
 
 ॥14.18॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.16 -- 14.20॥ कर्मण इत्यादि अश्नुते इत्यन्तम्। अत्र केचिदसंबद्धाः श्लोकाः कल्पिताः; पुनरुक्तत्वात् ( पुनरुक्तार्थत्वात्) ते त्याज्या एव। एतद्गुणातीतवृत्तिस्तु +++(N गुणातीतश्रुतिस्तु)+++ मोक्षायैव कल्पते।
 </details>
@@ -166,12 +173,14 @@ knowledge. Hence the Lord says:
 
 14.18 See Comment under 14.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.18॥ तैर्गतिभेदमाह -- ऊर्ध्वं गच्छन्तीति। ब्रह्मलोकपर्यन्तमपि मोक्षं
 च। राजसास्तु मध्ये ततोऽधरस्थाने लोभस्य च तत्र निरूपितत्वात्। जघन्योऽधमो
@@ -188,10 +197,13 @@ knowledge. Hence the Lord says:
 जघन्यगुणतामसतद्वृत्तिस्थास्तत्कर्मसु वर्तमानास्तामसा अधो नरकादिनीचयोनिषु
 गच्छन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.18॥ इदानीं सत्त्वादिवृत्तिशीलानां फलभेदमाह **-- ऊर्ध्वमिति।**
 सत्त्वस्थाः सत्त्ववृत्तिप्रधाना ऊर्ध्वं गच्छन्ति।
@@ -200,10 +212,13 @@ knowledge. Hence the Lord says:
 जघन्योऽतिनिकृष्टस्तमोगुणस्तस्य वृत्तिः प्रमादमोहादिस्तत्र स्थिता अधो
 गच्छन्ति। तमोवृत्तितारतम्यात्तामिस्रादिषु निरयेषूत्पद्यन्ते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.18 Those who rest in Sattva rise upwards; those who abide in Rajas remain in the middle; and those, abiding in the tendencies of Tamas go downwards.
@@ -238,11 +253,13 @@ abiding in the function of the lowest Guna; अधः downwards; गच्छन
 तामसाः the Tamasic.Commentary Those who abide in Sattva become the lords of heaven after giving up the physical body. The Rajasic are rorn on this earth as human beings. The Tamasic go downwards; i.e.; they will be born in the wormbs of cattle and beasts. They may take their birth amongst the lowest grades of human beings. The lowest grades of human beings are only brutes though they have assumed human form. Their actions are brutal. Therefore it is not necessary for them to enter into animal incarnation.Man identifies himself with Nature on account of the force of ignorance or illusory knowledge and gets attached to the alities of Nature. This is the cause of his birth in the wombs of high or low creatures. He feels; I am happy; miserable or deluded; on account of the attachment to the Gunas.The nature of the Gunas; their functions;
 how they bind a man to the Samsara; the effects of each Guna when it is predominant; and the plane reached by the man when he is under the influence of a particular Guna are described in the previous verses. Now the Lord describes in the following verse that liberation comes when one knows Him Who is above the three Gunas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.18।। सत्त्वगुणमें स्थित मनुष्य ऊर्ध्वलोकोंमें जाते हैं, रजोगुणमें
@@ -420,6 +437,7 @@ how they bind a man to the Samsara; the effects of each Guna when it is predomin
 ।।14.18।। सत्त्वगुण में स्थित पुरुष उच्च (लोकों को) जाते हैं; राजस पुरुष
 मध्य (मनुष्य लोक) में रहते हैं और तमोगुण की अत्यन्त हीन प्रवृत्तियों में
 स्थित तामस लोग अधोगति को प्राप्त होते हैं।।
+</details>
 </details>
 
 </div>

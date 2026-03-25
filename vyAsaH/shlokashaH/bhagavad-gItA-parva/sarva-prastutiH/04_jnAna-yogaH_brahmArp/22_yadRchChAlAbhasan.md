@@ -23,8 +23,9 @@ title = "22 यदृच्छालाभसन्तुष्टो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.22॥ यदृच्छोपनतशरीरधारणहेतुवस्तुसन्तुष्टः द्वन्द्वातीतः यावत्साधनसमाप्त्यवर्जनीयशीतोष्णादिसहः **विमत्सरः** अनिष्टोपनिपातहेतुभूतस्वकर्मनिरूपेण परेषु विगतमत्सरः **समः सिद्धौ असिद्धौ च** युद्वादिकर्मसु जयादिसिद्ध्यसिद्ध्योः समचित्तः कर्म एव **कृत्वा अपि** ज्ञाननिष्ठां विना अपि **न निबध्यते** न संसारं प्रतिपद्यते।
@@ -39,12 +40,14 @@ title = "22 यदृच्छालाभसन्तुष्टो"
 
 4.22 Content with whatever chance may bring for the maintenance of the body; 'rising above the pairs of opposites' means enduring cold, heat and such other experiences until one has completed the practice of Karma Yoga; 'free from ill-will;' i.e., free from ill-will towards others, seeing his own Karma as the cause of his adversity; 'even-minded in success and failure,' i.e., even-minded at success like victory in war, etc., and failure therein - such a person 'is not bound,' i.e., he does not fall into Samsara, though devoted to action without any exclusive practice of Jnana Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.22)**यदृच्छालाभसंतुष्टः** अप्रार्थितोपनतो लाभो यदृच्छालाभः तेन संतुष्टः संजातालंप्रत्ययः। **द्वन्द्वातीतः** द्वन्द्वैः शीतोष्णादिभिः हन्यमानोऽपि अविषण्णचित्तः द्वन्द्वातीतः उच्यते। **विमत्सरः** विगतमत्सरः निर्वैरबुद्धिः **समः** तुल्यः यदृच्छालाभस्य **सिद्धौ** **असिद्धौ च।** यः एवंभूतो यतिः अन्नादेः शरीरस्थितिहेतोः लाभालाभयोः समः हर्षविषादवर्जितः कर्मादौ अकर्मादिदर्शी यथाभूतात्मदर्शननिष्ठः सन् शरीरस्थितिमात्रप्रयोजने भिक्षाटनादिकर्मणि शरीरादिनिर्वर्त्ये नैव किञ्चित् करोम्यहम् गुणा गुणेषु वर्तन्ते (गीता 3.28) इत्येवं सदा संपरिचक्षाणः आत्मनः कर्तृत्वाभावं पश्यन्नैव किञ्चित् भिक्षाटनादिकं कर्म करोति लोकव्यवहारसामान्यदर्शनेन तु लौकिकैः आरोपितकर्तृत्वे भिक्षाटनादौ कर्मणि कर्ता भवति। स्वानुभवेन तु शास्त्रप्रमाणादिजनितेन अकर्तैव। स एवं पराध्यारोपितकर्तृत्वः शरीरस्थितिमात्रप्रयोजनं भिक्षाटनादिकं कर्म **कृत्वापि** न **निबध्यते** बन्धहेतोः कर्मणः सहेतुकस्य ज्ञानाग्निना दग्धत्वात् इति उक्तानुवाद एव एषः॥  
   
@@ -221,12 +224,14 @@ the absence of aciton-
 भिक्षाटनादिरूपं कर्म कृत्वापि न निबध्यते बन्धहेतोः सहेतुकस्य कर्मणो
 ज्ञानाग्निना दग्धत्वादिति पूर्वोक्तानुवादः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.22॥ यतचित्तात्मनो लक्षणमाह यदृच्छालाभेति। कथं द्वन्द्वातीतत्वं इति
 आह समः सिद्धाविति।
@@ -240,12 +245,14 @@ the absence of aciton-
 इति जिज्ञासायामिति शेषः। व्याख्यानव्याख्येयत्वेन न पुनरुक्तिदोष
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.22॥ यदृच्छेति। कृत्वापि न निबध्यते। कर्मकर्तरि प्रयोगः। स्वयमेव हि आत्मानं बध्नाति फलवासनाकालुष्यमुपाददानः +++(N उपाददानः गृह्णानः)+++ इत्यर्थः +++(S omits इत्यर्थः)+++। अन्यथा जडानां कर्मणां बन्धने स्वातन्त्र्यं न तथा हृदयंगमम्।
 </details>
@@ -254,12 +261,14 @@ the absence of aciton-
 
 4.22 Yadrccha-etc. He does not get bound even when he acts : Here nibadhyate 'gets bound' is a usage of transitive verb with its object functioning as the subject. \[Hence\] the meaning is : The Self binds Itself by undertaking the dirt of mental impressions for fruits \[of action\]. Otherwise \[the usage would amount to attribute\] freedom of actions to the insentient in binding \[the Self\] - a proposition which is not a very happy one.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.22॥ यतः यदृच्छेति। सिद्धावसिद्धौ च सम इति पूर्वोक्तसाङ्ख्ययोगार्थः
 प्रदर्शितः न निबद्ध्यत इति अकर्मत्वं सूचितम्।
@@ -273,10 +282,13 @@ the absence of aciton-
 फलोन्मुखत्वादानन्दरहितः च पुनः असिद्धौ फलोन्मुखत्वाद्दुःखरहितः समः कर्म
 कृत्वाऽपि तेन कर्मणा न निबद्ध्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.22॥ किंच **यदृच्छेति।** अप्रार्थितोपस्थितो लाभो यदृच्छालाभः। तेन
 संतुष्टः। द्वन्द्वानि शीतोष्णादीन्यतीतोऽतिक्रान्तः। तत्सहनशील इत्यर्थः।
@@ -284,10 +296,13 @@ the absence of aciton-
 य एवंभूतः स पूर्वोत्तरभूमिकयोर्यथायथं विहितं स्वाभाविकं वा कर्म कृत्वापि
 न बन्धं प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.22 Content with what chance may bring, rising above the pairs of opposites, free from ill-will, even-minded in success and failure,
@@ -325,11 +340,13 @@ From his own point of view and; in truth; he is not an agent at all. He really d
 Nature does or the three alities of Nature do everything.He is not affected by heat and cold; pleasure and pain; success and failure; as he always has a balanced state of mind. He is not attached even to the things which are necessary for the bare maintenance of his body. He experiences neither pleasure nor pain; whether or not he obtains food and the other things which are reired for the maintenance of his body.
 The reason is that he is resting in his essential nature as ExistenceKnowledgeBliss Absolute (SatchidanandaSvarupa) he is swimming in the ocean of bliss. So he does not care for his body and its needs.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/22_yadRchChAlAbhasan.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.22।। जो (कर्मयोगी) फल की इच्छा के बिना, अपने-आप जो कुछ मिल जाय,
@@ -392,6 +409,7 @@ The reason is that he is resting in his essential nature as ExistenceKnowledgeBl
 ।।4.22।। यदृच्छया (अपने आप) जो कुछ प्राप्त हो उसमें ही सन्तुष्ट रहने
 वाला, द्वन्द्वों से अतीत तथा मत्सर से रहित, सिद्धि व असिद्धि में समभाव
 वाला पुरुष कर्म करके भी नहीं बन्धता है।।
+</details>
 </details>
 
 </div>

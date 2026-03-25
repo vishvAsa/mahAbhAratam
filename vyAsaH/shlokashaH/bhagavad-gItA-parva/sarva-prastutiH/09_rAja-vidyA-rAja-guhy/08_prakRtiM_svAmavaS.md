@@ -23,8 +23,9 @@ title = "08 प्रकृतिं स्वामवष्टभ्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.8॥ स्वकीयां विचित्रपरिणामिनीं **प्रकृतिम् अवष्टभ्य** अष्टधा परिणमय्य **इमं** चतुर्विधं देवतिर्यङ्मनुष्यस्थावरात्मकं **भूतग्रामं** मदीयाया मोहिन्या गुणमय्याः **प्रकृतेर् वशाद् अवशं पुनः पुनः** काले काले **विसृजामि। एवं तर्हि विषमसृष्ट्यादीनि कर्माणि नैर्घृण्याद्यापादनेन भगवन्तं बध्नन्ति इति; अत्र आह --**
@@ -39,12 +40,14 @@ title = "08 प्रकृतिं स्वामवष्टभ्य"
 
 9.8 Operating My Prakrti, with its wonderfully variegated potency, I develop it eightfold and send forth this fourfold aggregate of beings, gods, animals, men and inanimate things, time after time. All these entities are helpless, being under the sway of My Prakrti comprising the three Gunas which can cause delusion. If this is so, it may be urged, inealities of creation can be said to affect the Lord with cruelty, partiality etc. To this, the Lord answers:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.8॥ --,**प्रकृतिं स्वां** स्वीयाम् **अवष्टभ्य** वशीकृत्य **विसृजामि पुनः पुनः** प्रकृतितो जातं **भूतग्रामं** भूतसमुदायम् **इमं** वर्तमानं **कृत्स्नं** समग्रम् **अवशम्** अस्वतन्त्रम्; अविद्यादिदोषैः परवशीकृतम्; **प्रकृतेः वशात्** स्वभाववशात्॥ तर्हि तस्य ते परमेश्वरस्य; भूतग्रामम् इमं विषमं विदधतः; तन्निमित्ताभ्यां धर्माधर्माभ्यां संबन्धः स्यादिति; इदम् आह भगवान् --,
 </details>
@@ -111,12 +114,14 @@ virtue and vice as a result of that act;' In aswer the Lord says this"
 पुनर्विसृजामि विविधं सृजामि। कल्पनामात्रेण स्वप्नदृगिव च
 स्वप्नप्रपञ्चम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.8॥ प्रकृत्यवष्टम्भस्तु यथा कश्चित्समर्थोऽपि पादेन गन्तुं लीलया
 दण्डमवष्टभ्य गच्छति। सर्वभूतगुणैर्युक्तं नैवं त्वं ज्ञातुमर्हसि
@@ -151,12 +156,14 @@ virtue and vice as a result of that act;' In aswer the Lord says this"
 **त्वमेवेति**। एतत्सर्जने एतस्य लोकस्य सृष्ट्याम्। अन्यस्मिन्नपि पालनादौ
 सर्वकर्मणि। तस्मान्मायावशत्वादेवावशम्; एतदेतं स्रक्ष्यसि सृजसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.8॥ प्रकृतिमिति। स्वां प्रकृतिमवष्टभ्य इत्येतावता जडोऽपि स्वतोऽयं भाव (भूत) ग्रामः परप्रकृत्यन्वयात् प्रकाशतां प्राप्तः \[इति प्रतिपादितम्\]।
 </details>
@@ -165,12 +172,14 @@ virtue and vice as a result of that act;' In aswer the Lord says this"
 
 9.8 Prakrtim etc. Taking hold of My own nature : By this much \[of statement\] it is explained that this host of Beings, though itself insentient, attains luminosity as it is linked to the Absolute nature of \[Consciousness\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.8॥ विसर्जनप्रकारमाह -- प्रकृतिमिति। भगवतो मम सदंशभूतेयं
 प्रकृतिर्योगशक्तिः गुणैर्मोहयतीति मायेत्युच्यते। प्रकृष्टा कृतिर्यया
@@ -192,10 +201,13 @@ virtue and vice as a result of that act;' In aswer the Lord says this"
 सृष्टानां पूर्वोक्तदूषणं स्यात् स्वक्रीडार्थं
 सृष्टानामत्राप्यानन्दरूपतैवेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.8॥ नन्वसङ्गो निर्विकारश्च त्वं कथं सृजसीत्यपेक्षायामाह **--
 प्रकृतिमिति द्वाभ्याम्।** स्वां स्वाधीनां प्रकृतिमवष्टभ्याधिष्ठाय प्रलये
@@ -203,10 +215,13 @@ virtue and vice as a result of that act;' In aswer the Lord says this"
 सृजामि विशेषेण सृजामीति वा। कथम्।
 प्रकृतेर्वशात्प्राचीनकर्मनिमित्ततत्स्वभावबलात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.8 Controlling the Prakrti, which is My own, I send forth again and again all this multitude of beings, helpless under the sway of Prakrti.
@@ -240,11 +255,13 @@ nature.
 इमम् this; कृत्स्नम् all; अवशम् helpless; प्रकृतेः of Nature; वशात् by force.Commentary The Lord leans on; presses or embraces Nature. He invigorates and fertilises Nature which had gone to sleep at the end of the Mahakalpa or universal dissolution and projects again and again this whole multitude of beings. He gazes at each level and plane after plane comes into being.The term Prakriti denotes or indicates the five Kleshas or afflictions; viz.; Avidya (ignorance); Asmita (egoism); Raga (likes);
 Dvesha (dislikes) and Abhinivesa (clinging to earthly life). (Cf.IV.6)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.8।। प्रकृतिके वशमें होनेसे परतन्त्र हुए इस सम्पूर्ण प्राणिसमुदायको
@@ -321,6 +338,7 @@ Dvesha (dislikes) and Abhinivesa (clinging to earthly life). (Cf.IV.6)
 ।।9.8।। प्रकृति को अपने वश में करके (अर्थात् उसे चेतनता प्रदान कर)
 स्वभाव के वश से परतन्त्र (अवश) हुए इस सम्पूर्ण भूत समुदाय को मैं
 पुन:-पुन: रचता हूँ।।
+</details>
 </details>
 
 </div>

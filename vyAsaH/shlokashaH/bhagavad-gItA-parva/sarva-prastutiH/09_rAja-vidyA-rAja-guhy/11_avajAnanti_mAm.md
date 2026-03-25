@@ -23,8 +23,9 @@ title = "11 अवजानन्ति माम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.11॥ एवं **मां भूतमहेश्वरं** सर्वज्ञं सत्यसङ्कल्पं निखिलजगदेककारणं परमकारुणिकतया सर्वसमाश्रयणीयत्वाय **मानुषीं तनुम् आश्रितं** स्वकृतैः पापकर्मभिः **मूढा अवजानन्ति** -- प्राकृतमनुष्यसमं मन्यन्ते।**भूतमहेश्वरस्य** मम अपारकारुण्यौदार्यसौशील्यवात्सल्यादिनिबन्धनं मनुष्यत्वसमाश्रयणलक्षणम् इमं **परं भावम् अजानन्तो** मनुष्यत्वसमाश्रयणमात्रेण माम् इतरसजातीयं मत्वा तिरस्कुर्वन्ति इत्यर्थः।
@@ -39,12 +40,14 @@ title = "11 अवजानन्ति माम्"
 
 9.11 Because of their evil actions (Karmas), fools disregard Me - the great Lord of all beings, the Omniscient, whose resolves are true, who is the sole cause of the entire universe, and who has taken the human body out of great compassion so that I might become the refuge of all. They consider Me to be a man like themselves. The meaning is that they disregard Me, not knowing My higher nature which is an abode of compassion, generosity, condescension and parental solicitude. This nature of mine is the cause of My resorting to the human shape. But without understanding this, the ignorant consider Me as of the same nature as others, because I have assumed the human form.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.11॥ --,**अवजानन्ति** अवज्ञां परिभवं कुर्वन्ति **मां मूढाः** अविवेकिनः **मानुषीं** मनुष्यसंबन्धिनीं **तनुं** देहम् **आश्रितम्;** मनुष्यदेहेन व्यवहरन्तमित्येतत्; **परं** प्रकृष्टं **भावं** परमात्मतत्त्वम् आकाशकल्पम् आकाशादपि अन्तरतमम् **अजानन्तो मम भूतमहेश्वरं** सर्वभूतानां महान्तम् ईश्वरं स्वात्मानम्। ततश्च तस्य मम अवज्ञानभावनेन आहताः ते वराकाः॥ कथम् --,
 </details>
@@ -126,12 +129,14 @@ wretches get ruined. How;
 आच्छादितान्तःकरणा मम परं भावं प्रकृष्टं पारमार्थिकं तत्त्वं सर्वभूतानां
 महान्तमीश्वरमजानन्तो यन्नाद्रियन्ते निन्दन्ति वा तदनुरूपमेव मूढत्वस्य।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.11॥ तर्हि केचित्कथं त्वामवजानन्ति का च तेषां गतिः इत्यत आह --
 अवजानन्तीत्यादिना। मानुषीं तनुं; मूढानां मानुषवत्प्रतीतां तनुं; न तु
@@ -177,12 +182,14 @@ wretches get ruined. How;
 ब्रह्मेति मोक्षधर्मवाक्यं प्रमाणं पुरोहितादिदेवनिकायास्त्वदधीना
 इत्यर्थः। ब्रह्मेति द्विरुक्तिरादरार्था।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.11॥ अवजानन्तीति। सोऽहं सर्वजनान्तःशायी +++(S omits सर्व -- ;N omit -- जन -- )+++ ; सर्वस्यात्मरूपतया +++(S;K -- त्मपररू -- )+++ अवज्ञास्पदम् यत् मानुषादिचतुर्दशविध +++(omits -- विध -- )+++ सर्गव्यतिरिक्त ईश्वरो नोपलभ्यते; स कथमस्ति इति।
 </details>
@@ -191,12 +198,14 @@ wretches get ruined. How;
 
 9.11 Avajananti etc. I am reclining within all that is born Being the Self of all, I become the object of disrespect. For, \[they raise the estion\] : 'Apart from the fourteen types of creation, like man etc., no Lord is found; hence how can He exist ;'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.11॥ नन्वेवंविधमहिमानं त्वां किमिति केचिन्नान्द्रियन्ते इत्यत्राह
 द्वाभ्यां -- अवजानन्तीति। मां सर्वभूतनियन्तारं सर्वज्ञं सत्यसङ्कल्पं
@@ -223,20 +232,26 @@ wretches get ruined. How;
 अवमन्यन्ते। अत्रायं भावः -- पुरुषोत्तमोऽयं येन स्वरूपेण वदति तदेव स्वरूपं
 ब्रह्मरूपमानन्दमयम्; तमेव मानुर्षी तनुमाश्रितं जानन्ति अज्ञत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.11॥ नन्वेवंभूतं परमेश्वरं त्वां किमिति केचिन्नाद्रियन्ते तत्राह **--
 अवजानन्तीति द्वाभ्याम्।** सर्वभूतमहेश्वररूपं मदीयं परं भावं
 तत्त्वमजानन्तो मूढा मूर्खा मामवजानन्त्यवमन्यन्ते। अवज्ञाने हेतुः
 शुद्धसत्वमयीमपि तनुं भक्तेच्छावशान्मनुष्याकारामाश्रितवन्तम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.11 Fools disregard Me, dwelling in a human form, not knowing My higher nature, as the Supreme Lord of all beings.
@@ -270,11 +285,13 @@ immortal; wise; the Self of all. These fools take Me for an ordinary mortal and 
 lifeforce and the senses and yet there are some miserable fools; who say that I do not exist. There is thus not a place anywhere where I am not;
 and yet these people are not able to see Me. Look at the misfortune of these people. Pitiable is their lot (Cf.IV.6VII.24)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.11।। मूर्खलोग मेरे सम्पूर्ण प्राणियोंके महान् ईश्वररूप परमभावको न
@@ -344,6 +361,7 @@ and yet these people are not able to see Me. Look at the misfortune of these peo
 
 ।।9.11।। समस्त भूतों के महान् ईश्वर रूप मेरे परम भाव को नहीं जानते हुए
 मूढ़ लोग मनुष्य शरीरधारी मुझ परमात्मा का अनादर करते हैं।।
+</details>
 </details>
 
 </div>

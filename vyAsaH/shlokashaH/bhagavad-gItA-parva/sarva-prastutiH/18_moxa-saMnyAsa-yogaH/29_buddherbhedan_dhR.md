@@ -23,8 +23,9 @@ title = "29 बुद्धेर्भेदन् धृतेश्चैव"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.29॥**बुद्धिः** विवेकपूर्वकं निश्चयरूपं ज्ञानम्; **धृतिः** आरब्धायाः क्रियाया विघ्नोपनिपतिम् अपि विधारणसामर्थ्यम्; तयोः सत्त्वादि**गुणतस् त्रिविधं भेद पृथक्त्वेन प्रोच्यमानं** यथावत् **श्रृणु।**
@@ -41,12 +42,14 @@ title = "29 बुद्धेर्भेदन् धृतेश्चैव"
 
 18.29 'Buddhi' is the knowledge in the form of discriminative determination. 'Dhrti' is the resolution to hold on with perseverance to what has been undertaken even against all obstacles. Of these two, hear now the threefold division according to Sattva and other Gunas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.29॥ --,**बुद्धेः** भेदं **धृतेश्चैव** भेदं **गुणतः** सत्त्वादिगुणतः **त्रिविधं श्रृणु** इति सूत्रोपन्यासः। **प्रोच्यमानं** कथ्यमानम् **अशेषेण** निरवशेषतः यथावत् **पृथक्त्वेन** विवेकतः **धनंजय;** दिग्विजये मानुषं दैवं **च** प्रभूतं धनं जितवान्; तेन असौ धनंजयः अर्जुनः॥
 </details>
@@ -121,12 +124,14 @@ qaurters. he won immense human and divine wealth (dhana).
 पृथगुक्तं ज्ञानशक्तिक्रियाशक्त्युपलक्षणार्थं नतु परिसंख्यार्थमिति
 रहस्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.29॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -135,12 +140,14 @@ qaurters. he won immense human and divine wealth (dhana).
 
 ॥18.29॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.29॥ बुद्धेरिति। बुद्धिः निश्चयः। धृतिः सन्तोषः। सर्वो हि सुकृतं दुष्कृतं वा कृत्वा अन्ते अवश्यं कृतं करणीयं; किमन्येन +++(S N किमनेन )+++ इति धियं गृह्णाति। अन्यथा क्रियाभ्यो व्युपरमे को हेतुः स्यात् अतः सर्वस्यैव धृतिरस्तीति तात्पर्यार्थः। पदार्थस्त्वप्रसिद्धो व्याख्याय ( स्य ) त एव।
 </details>
@@ -149,12 +156,14 @@ qaurters. he won immense human and divine wealth (dhana).
 
 18.29 Buddheh etc. Intellect : the faculty of resolving. Content : satisfaction. After having performed either good or wicked action, everyone, at the end, feels 'what is to be necessarily performed has been performed; so why furhter more ;' Or else what could be the cause for \[one's\] retiring from that action ;' Therefore in every one there is content. This is the meaning intended here. The word-meaning, that is not clearly known-that alone is certainly explained \[hereinafter\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.29॥ अथ कर्तृत्रैविध्येनैव ज्ञातुरपि त्रैविध्यमुक्तं तथा कर्मस्थले
 कर्मत्रैविध्येन च ज्ञेयस्यापि त्रैविध्यं बुद्धेः त्रैविध्येन
@@ -172,18 +181,24 @@ qaurters. he won immense human and divine wealth (dhana).
 पृथक्त्वेन भिन्नत्वेन -- मयेति शेषः -- प्रोच्यमानं अशेषेण हे धनञ्जय
 सर्वत्रोत्कर्षयुक्त शृणु।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.29॥ इदानीं बुद्धेर्धृतेश्चापि त्रैविध्यं प्रतिजानीते **--
 बुद्धिरिति।** स्पष्टार्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.29 Hear now, the threefold division of Buddhi (reason) and Dhrti
@@ -216,11 +231,13 @@ qaurters. he won immense human and divine wealth (dhana).
 even; गुणतः according to alities; त्रिविधम् threefold; श्रृणु hear;
 प्रोच्यमानम् as I declare; अशेषेण fully; पृथक्त्वेन distinctly; धनञ्जय O Dhananjaya.Commentary Dhananjaya The coneror of wealth Arjuna is so called because he acired much material and spiritual wealth during his tours of conest (Digvijaya) to the four arters of the earth.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.29।। हे धनञ्जय ! अब तू गुणोंके अनुसार बुद्धि और धृतिके भी तीन
@@ -307,6 +324,7 @@ even; गुणतः according to alities; त्रिविधम् threefol
 
 ।।18.29।। हे धनंजय ! मेरे द्वारा अशेषत: और पृथकत: कहे जाने वाले, गुणों
 के कारण उत्पन्न हुए बुद्धि और धृति के त्रिविध भेद को सुनो।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "06 ये तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.6॥**ये तु** लौकिकानि देहयात्राशेष-भूतानि देह-धारणार्थानि च अशनादीनि **कर्माणि;** वैदिकानि च याग-दान-होम-तपः-प्रभृतीनि **सर्वाणि** सकारणानि सोद्देश्यान्य् अध्यात्म-चेतसा  
@@ -42,12 +43,14 @@ title = "06 ये तु"
 
 12.6 - 12.7 But those who, with a mind 'focused on Me,' the Supreme Self, and 'intent upon Me,' namely, holding Me as their sole object, dedicating to Me all their actions - i.e., including all worldly actions like eating which are meant for supporting the body, as also Vedic rites like sacrifices, gifts, fire-offerings, austerities etc., generally done by worldly-minded people for other purposes - worship Me and meditate on Me with exclusive devotion, namely, with devotion without any other purpose, adoring Me by all such acts as meditation, worship, prostration, praises and hymns which are by themselves exceedingly dear to them and are eal to the end itself - to these I become soon their saviour from the sea of Samsara which, on account of its being antagonistic to the attainment of Myself, is deadly.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥12.6॥ --,**ये तु सर्वाणि कर्माणि मयि** ईश्वरे **संन्यस्य मत्पराः** अहं परः येषां ते मत्पराः सन्तः **अनन्येनैव** अविद्यमानम् अन्यत् आलम्बनं विश्वरूपं देवम् आत्मानं मुक्त्वा यस्य सः अनन्यः तेन अनन्येनैव केन **योगेन** समाधिना **मां ध्यायन्तः** चिन्तयन्तः **उपासते**॥ तेषां किम्
 --,
@@ -147,12 +150,14 @@ exclusively'.-Tr.\] (yoga)-. What comes to them;
 सर्वबाधावधिभूते शुद्धे ब्रह्मणि धर्ता धारयिता ज्ञानावष्टम्भदानेन भवामि
 नचिरात् क्षिप्रमेव तस्मिन्नेव जन्मनि। हे पार्थेति संबोधनमाश्वासार्थम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.6 -- 12.7॥ मदुपासकानां भक्तानां न कश्चित् क्लेश इति दर्शयति -- ये त्वित्यादिना। उक्तं च सौकरायणश्रुतौ -- उपासते ये पुरुषं
 वासुदेवमव्यक्तादेरीप्सितं किन्नु तेषाम् इति। तेषामेकान्तिनः श्रेष्ठास्ते
@@ -172,12 +177,14 @@ exclusively'.-Tr.\] (yoga)-. What comes to them;
 अत्र श्रुत्यादिसम्मतिं चाह -- **उक्तं चे**ति। तेषामार्तादीनां मध्ये गतिः
 साधनादिसम्पादकः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.6 -- 12.8॥ येत्वित्यादि आस्थित इत्यन्तम्। प्रागुक्तोपदेशेन +++(S प्रागुपदेशेन)+++ तु ये सर्वं मयि संन्यस्यन्ति; तेषामहं समुद्धर्त्ता सकलविघ्नादिक्लेशेभ्यः। चेतस आवेशनं व्याख्यातम्। तथा च एष एवोत्तमो योगः; अकृत्रिमत्त्वात्। तथा च मम स्तोत्रे -- विशिष्टकरणासनस्थितिसमाधिसंभावना  
   
@@ -204,12 +211,14 @@ exclusively'.-Tr.\] (yoga)-. What comes to them;
 
 12.6 See Comment under 12.8
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.6॥ एवमक्षरोपासकानां गतिमुक्त्वा स्वभक्तानामाह द्वाभ्याम् -- ये
 त्विति। तुशब्दः पूर्वेभ्यो भेदनिर्देशार्थः। ,मयि स्वामिनि सेव्ये स्वस्य
@@ -233,20 +242,26 @@ exclusively'.-Tr.\] (yoga)-. What comes to them;
 स**न्तोऽन**न्येनैव योगेन; नैव अन्यो भजनीयो यस्मिंस्तादृशेन भक्तियोगेन
 मां ध्यायन्तः मद्ध्यानं कुर्वन्त उपासते सेवन्ते मूर्त्यादिष्विति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/06_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/06_ye_tu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.6॥ मद्भक्तानां मत्प्रसादादनायासत एव सिद्धिर्भवतीत्याह **-- ये
 त्विति द्वाभ्याम्।** मयि परमेश्वरे सर्वाणि कर्माणि संन्यस्य समर्प्य
 मत्परा भूत्वा मां ध्यायन्त अनन्येन न विद्यतेऽन्यो भजनीयो यस्मिंस्तेनैव।
 एकान्तभक्तियोगेनोपासत इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.6 For, those who dedicate all actions to Me, hold Me as their supreme goal, intent on Me, and worship Me meditating on Me with exclusive devotion;
@@ -281,11 +296,13 @@ renouncing; मत्पराः regarding Me as the supreme goal; अनन्
 singleminded; एव even; योगेन with the Yoga; माम् Me; ध्यायन्तः
 meditating; उपासते worship.Commentary Ananya Yoga Unswerving Yoga exclusive; having no other objects of worship or support save the Lord Samadhi.Even in Bhakti Yoga one should not abandon actions. He must perform actions but he will have to dedicate the merits or the fruits to the Lord. (Cf.IX.27)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/06_ye_tu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.6।। परन्तु जो कर्मोंको मेरे अर्पण करके और मेरे परायण होकर अनन्ययोगसे
@@ -309,6 +326,7 @@ meditating; उपासते worship.Commentary Ananya Yoga Unswerving Yoga ex
 
 ।।12.6।। परन्तु जो भक्तजन मुझे ही परम लक्ष्य समझते हुए सब कर्मों को मुझे
 अर्पण करके अनन्ययोग के द्वारा मेरा (सगुण का) ही ध्यान करते हैं।।
+</details>
 </details>
 
 </div>

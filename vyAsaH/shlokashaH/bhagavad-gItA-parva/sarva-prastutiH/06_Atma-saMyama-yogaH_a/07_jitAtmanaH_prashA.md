@@ -23,8 +23,9 @@ title = "07 जितात्मनः प्रशान्तस्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.7॥**शीतोष्णसुखदुःखेषु मानापमानयोः** च **जितात्मनः** जितमनसः विकाररहितमनसः **प्रशान्तस्य** मनसि **परमात्मा समाहितः** सम्यगाहितः। स्वरूपेण अवस्थितः प्रत्यगात्मा अत्र परमात्मा इत्युच्यते तस्य एव प्रकृतत्वात् तस्य अपि पूर्वपूर्वास्थापेक्षया परमात्मत्वात्। आत्मा परं समाहित इति वा सम्बन्धः।
@@ -39,12 +40,14 @@ title = "07 जितात्मनः प्रशान्तस्य"
 
 6.7 Of him whose self is conered, i.e., whose mind is conered, whose mind is free from fluctuations and who is very calm, 'the great self' becomes well secured, i.e., exceedingly well secured in connection with heat and cold, pleasure and pain, and honour and dishonour. Here the individual self (Pratyagatman) is called 'the great self' (Paramatman), as the context justifies this only. It can also be called 'great', because it is at a higher stage relatively to previous successive stages. Or the word may be construed as follows: The self is secured greatly - Atma parma samahitah. \[In any case it should not be taken as the Supreme Being\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.7॥ **जितात्मनः** कार्यकरणसंघात आत्मा जितो येन सः जितात्मा तस्य जितात्मनः **प्रशान्तस्य** प्रसन्नान्तःकरणस्य सतः संन्यासिनः परमात्मा समाहितः साक्षादात्मभावेन वर्तते इत्यर्थः। किञ्च **शीतोष्णसुखदुःखेषु तथा** माने अपमाने च **मानापमानयोः** पूजापरिभवयोः समः स्यात्॥
 </details>
@@ -120,12 +123,14 @@ and dishonour, adoration and despise.
 योगारूढो भवति। परमिति वा छेदः। जितात्मनः प्रशान्तस्यैव परं केवलमात्मा
 समाहितो भवति नान्यस्य। तस्माज्जितात्मा प्रशान्तश्च भवेदित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.7 6.8॥ जितात्मनः फलमाह जितात्मन इति। जितात्मा हि प्रशान्तो भवति। न
 तस्य मनः प्रायो विषयेषु गच्छति। तदा च परमात्मा सम्यगाहितः हृदि सन्निहितो
@@ -179,12 +184,14 @@ and dishonour, adoration and despise.
 सामानाधिकरण्यं इत्यत आह **एवम्भूत** इति। धातुसम्बन्धे प्रत्ययाः इति
 ह्युक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.7॥ तत्र जितमनस इदं रूपम् जितेति। प्रशान्तो निरहंकारः। परेषु आत्मनि च शीतोष्णादिषु च अभेदधीः न रागद्वेषौ।
 </details>
@@ -193,12 +200,14 @@ and dishonour, adoration and despise.
 
 6.7 Jita-etc. A person with complete calmness : a person without ego. \[The thinking etc.\] ; A thinking that entertains no difference in the case of others and of himself, and of cold and heat etc., i.e., \[entertains\] no like and dislike \[for them\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.7॥ जितात्मनो बन्धुत्वं स्फुटयति जितात्मन इति। कालधर्मेषु
 शीतोष्णादिषु सत्स्वपि तस्य परं केवलमात्मा समाहितो भवतीति
@@ -213,20 +222,26 @@ and dishonour, adoration and despise.
 भगवतः सकाशान्मानापमानयोः समस्य। परमात्मा पुरुषोत्तमः समाहितस्तदर्थं
 दास्यदाने सावधानस्तिष्ठति। तद्धृदय एव समाहितस्तिष्ठतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.7॥ जितात्मनः स्वस्मिन्बन्धुत्वं स्फुटयति **जितात्मन इति।** जित आत्मा
 येन तस्य प्रशान्तस्य रागादिरहितस्यैव परं केवलमात्मा शीतोष्णादिषु
 सत्स्वपि समाहितः स्वात्मनिष्ठो भवति नान्यस्य। यद्वा तस्य हृदि परमात्मा
 समाहितः स्थितो भवति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.7 Of him whose mind is conered and who is serene, the great self is well secured in heat and cold, in pleasure and pain, and in honour and dishonour.
@@ -257,11 +272,13 @@ and dishonour, adoration and despise.
 6.7 जितात्मनः of the selfcontrolled; प्रशान्तस्य of the peaceful;
 परमात्मा the Supreem Self; समाहितः balanced; शीतोष्णसुखदुःखेषु in cold and heat; pleasure and pain; तथा as also; मानापमानयोः in honour and dishonour.Commentary The selfcontrolled Yogi who is rooted in the Self keeps poise amidst the pairs of opposites (Dvandvas) or the alternating waves of cold and heat; pleasure and pain; honour and dishonour. When the Yogi has subdued his senses; when his mind is balanced and peaceful under all conditions; when he is not in the least influenced by the pairts of opposites; when he has renounced all actions; then the Highest Self really becomes his own Self. He attains to Selfrealisation. As he rests in hiw own Self; he is ever serene or tranil he is not affected by the pairs of opposites; and he stands as adamant in the face of the changing conditions of Nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.7।। जिसने अपने-आपपर अपनी विजय कर ली है, उस शीत-उष्ण
@@ -322,6 +339,7 @@ and dishonour, adoration and despise.
 ।।6.7।। शीत-उष्ण, सुख-दु:ख तथा मान-अपमान में जो प्रशान्त रहता है, ऐसे
 जितात्मा पुरुष के लिये परमात्मा सम्यक् प्रकार से स्थित है, अर्थात्,
 आत्मरूप से विद्यमान है।।
+</details>
 </details>
 
 </div>

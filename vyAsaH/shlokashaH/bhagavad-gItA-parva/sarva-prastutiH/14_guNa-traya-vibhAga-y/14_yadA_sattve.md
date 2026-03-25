@@ -26,8 +26,9 @@ title = "14 यदा सत्त्वे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.14॥**यदा** सत्त्वं प्रवृद्धं तदा **सत्त्वे प्रवृद्धे देहभृत् प्रलयं** मरणं याति चेद् **उत्तमविदाम्** उत्तमतत्त्वविदाम् आत्मयाथात्म्यविदां **लोकान्** समूहान् **अमलान्** मलरहितान् अज्ञानरहितान् **प्रतिपद्यते** प्राप्नोति। सत्त्वे प्रवृद्धे **तु** मृत आत्मविदां कुलेषु जनित्वा आत्मयाथात्म्यज्ञानसाधनेषु पुण्यकर्मस्व् अधिकरोति इत्य् उक्तं भवति।
@@ -42,12 +43,14 @@ title = "14 यदा सत्त्वे"
 
 14.14 When the 'Sattva prevails' i.e., while the Sattva continues to be prevalent, if the embodies self meets with death, It reaches the pure worlds, i.e., regions conducive to the knowledge of the self. The purport is this: If Satva preponderates in a person at the time of death, he will be rorn in the families of those who have the knowledge of the self, and thus be alified to perform auspicious acts which are the means of attaining the true knowledge of the self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.14॥ --,**यदा सत्त्वे प्रवृद्धे** उद्भूते **तु प्रलयं** मरणं **याति** प्रतिपद्यते **देहभृत्** आत्मा; **तदा उत्तमविदां** महदादितत्त्वविदाम् इत्येतत्; **लोकान् अमलान्** मलरहितान् **प्रतिपद्यते** प्राप्नोति इत्येतत्॥
 </details>
@@ -108,12 +111,14 @@ principles-mahat and the rest.
 लोकान्देवसुखोपभोगस्थानविशेषानमलान् रजस्तमोमलरहितान्प्रतिपद्यते
 प्राप्नोति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.14॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -122,12 +127,14 @@ principles-mahat and the rest.
 
 ॥14.14॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.14 -- 14.15॥ यदेति। रजसीति। यदा समग्रेणैव जन्मना अनवरतसात्त्विकव्यापाराभ्यासात् सत्त्वं विवृद्धं भवति; तदा प्राप्तप्रलयस्य शुभलोकावाप्तिः। एवं जन्माभ्यस्तराजसकर्मणः प्रयाणात् विमिश्रोपभोगाय ( विशिष्टोपभोगाय S;N (विशिष्टोप) विमिश्रोपभोगाय) मानुष्यावाप्तिः +++(S;;N मानुष्याप्तिः)+++। तथा; तेनैव क्रमेण +++(S substitutes क्रमेण with प्रकारेण)+++ यदा समग्रेण जन्मना तामसमेव कर्म अभ्यस्यते तदा नरकतिर्यग्वृक्षादिदेहेषु उत्पद्यते। ये तु व्याचक्षते मरणकाले एव सत्त्वादौ विवृद्धे एतानि फलानि इति ते न सम्यक् शारीरेऽनुभवे प्रविष्टाः। यतः सर्वस्यैव सर्वथा अन्त्ये क्षणे मोह एवोपजायते। अस्मद्व्याख्यायां च संवादीनि इमानि; श्लोकान्तराणि,\[च\]।
 </details>
@@ -136,12 +143,14 @@ principles-mahat and the rest.
 
 14.14 See Comment under 14.15
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.14॥ मरणसमये प्रवृद्धानां सत्त्वादीनां फलं गतिभेदमाह -- यदेति
 द्वाभ्याम्। सत्त्वे प्रवृद्धे तु प्रलयं गतो देही योगिनामुत्तमोपायविदां
@@ -158,20 +167,26 @@ principles-mahat and the rest.
 मृत्युमवाप्नोति तदोत्तमविदान् उत्तमैर्ज्ञानिभिर्ये ज्ञातुं योग्यास्तान्
 लोकान् अमलान् वैष्णवब्राह्मणादीन् प्रतिपद्यते प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.14॥ मरणसमय एव वृद्धानां सत्त्वाद्रीनां फलविशेषमाह **-- यदेति
 द्वाभ्याम्**। सत्त्वे प्रवृद्धे सति यदा जीवो मृत्युं प्राप्नोति तदा
 उत्तमान् हिरण्यगर्भादीन्विदन्ति उपासत इत्युत्तमविदस्तेषां ये अमलाः
 प्रकाशमया लोकाः सुखोपभोगस्थानविशेषास्तान्प्रतिपद्यते प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.14 If the embodied self meets with dissoution when Sattva prevails,
@@ -206,11 +221,13 @@ then he attains to the spotless worlds of the knowers of the Highest.
 then; उत्तमविदाम् of the knowers of the Highest; लोकान् to the worlds;
 अमलान् of the spotless; प्रतिपद्यते (he) attains.Commentary Lokan Amalan Sptless worlds Brahmaloka and the like where Rajas and Tamas never predominate.The Highest Deities such as Hiranyagarbha.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.14।। जिस समय सत्त्वगुण बढ़ा हो, उस समय यदि देहधारी मनुष्य मर जाता
@@ -287,6 +304,7 @@ then; उत्तमविदाम् of the knowers of the Highest; लोक
 ।।14.14।। जब यह जीव (देहभृत्) सत्त्वगुण की प्रवृद्धि में मृत्यु को
 प्राप्त होता है, तब उत्तम कर्म करने वालों के निर्मल अर्थात् स्वर्गादि
 लोकों को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

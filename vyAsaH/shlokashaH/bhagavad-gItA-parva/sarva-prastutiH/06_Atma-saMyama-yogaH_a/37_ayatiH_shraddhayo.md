@@ -26,8 +26,9 @@ title = "37 अयतिः श्रद्धयोपेतो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.37॥ अर्जुन उवाच **श्रद्धया** योगे प्रवृत्तो दृढतराभ्यासरूपयत्नवैकल्येन **योगसंसिद्धिम् अप्राप्य योगाच् चलितमानसः कां गतिं गच्छति।**
@@ -42,12 +43,14 @@ title = "37 अयतिः श्रद्धयोपेतो"
 
 6.37 - 6.39 Arjuna said What way does he go, who has embarked on Yoga endowed with faith, but who by inadeacy of exertion in practice, does not gain success in Yoga and has his mind wandering from Yoga; Does he not perish like a small piece of cloud torn from a large mass of cloud - perish without reaching another large mass of cloud; Now does he not fall away from both (sides); He has no support and is confused on the path leading to the Brahman. He is without any support in the sense that Karma or rituals which constitutes the means of heaven etc., does not give support for a person who is devoid of attachment to fruits; for Karma is the means for generating its own fruits. He is also confused in the path leading to the Brahman on which he has just begun to traverse; He has lost his way. Does he then get lost by falling down from both sides, these being attainment of heaven on the one hand and liberation on the other. Does he not thus perish; You should remove this doubt altogether from my mind; for there is no other remover of this doubt than You, who always perceive directly all matters simultaneously.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.37॥ **अयतिः** अप्रयत्नवान् योगमार्गे **श्रद्धया** आस्तिक्यबुद्ध्या च **उपेतः योगात्** अन्तकाले च चलितं मानसं मनो यस्य सः **चलितमानसः** भ्रष्टस्मृतिः सः **अप्राप्य योगसंसिद्धिं** योगफलं सम्यग्दर्शनं **कां गतिं हे कृष्ण गच्छति**॥
 </details>
@@ -173,12 +176,14 @@ whose memory has been lost;
 परित्यागाज्ज्ञानस्य चानुत्पत्तेः
 शास्त्रोक्तमोक्षसाधनानुष्ठायित्वाच्छास्त्रगर्हितकर्मशून्यत्वाच्च।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.37 6.39॥ अयतिरप्रयत्नः।
 </details>
@@ -187,12 +192,14 @@ whose memory has been lost;
 
 ॥6.37 6.39॥ अचतुर्थाश्रमीति प्रतीतिनिरासायाह **अयतिरि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.37 6.39॥ अयतः इत्यादि नह्युपपद्यते इत्यन्तम्। प्राप्ताद्योगात् यदि ( N यस्य instead यदि) चलितेऽपि चित्ते श्रद्धा न हीयते। विनष्टश्रद्धौ हि सिद्धयोगोऽपि सर्वं निष्फलं कुरुते। उक्तं हि यदा प्राप्यापि विज्ञानं दूषितं चित्तविभ्रमात्।  
   
@@ -203,12 +210,14 @@ whose memory has been lost;
 
 6.37 See Comment under 6.39
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.37॥ उभयरहितो योगशीलश्च किं फलमाप्नोति इति सन्दिहानोऽर्जुन उवाच
 अयतिरिति। न यतिरसन्न्यासी अभ्यासयत्नरहितो वा कां गतिं फलं प्राप्नोति हे
@@ -225,10 +234,13 @@ whose memory has been lost;
 तदाह योगसंसिद्धिमप्राप्य कृष्ण सदानन्द त्वदुक्तिविश्वासप्रवृत्तस्य
 सिद्धिरेवोचितेति विज्ञाप्य कां गतिं गच्छतीति पृष्टवान्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.37॥ अभ्यासवैराग्याभावेन कथंचिदप्राप्तसम्यग्ज्ञानः किं
 फलमाप्नोतीत्यर्जुन उवाच **अयतिरिति।** प्रथमं श्रद्धोपेत एव योगे
@@ -237,10 +249,13 @@ whose memory has been lost;
 इत्यर्थः। एवमभ्यासवैराग्यशैथिल्याद्योगस्य संसिद्धिं फलं ज्ञानमप्राप्य
 कां गतिं प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.37 Arjuna said If a person, who is possessed of faith but has put in only inadeate effort, finds his mind wandering away from Yoga, and then fails to attain perfection - what way does he go, O Krsna;
@@ -273,11 +288,13 @@ O Krsna !
 6.37 अयतिः uncontrolled; श्रद्धया by faith; उपेतः possessed; योगात् from Yoga; चलितमानसः one whose mind wanders away; अप्राप्य not having attained; योगसंसिद्धिम् perfection in Yoga; काम् which; गतिम् end; कृष्ण
 O Krishna; गच्छति meets.Commentary He has faith in the efficacy of Yoga but he is not able to control the senses and the mind. He has no concentration of mind. His mind wanders away when the last breath departs from his body and he loses the memory also. Having failed to achieve perfection in Yoga; i.e.; Selfrealisation or the knowledge of the Self; what path will he tread; and what end will such a man,meet
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.37।। अर्जुन बोले - हे कृष्ण ! जिसकी साधनमें श्रद्धा है, पर जिसका
@@ -340,6 +357,7 @@ O Krishna; गच्छति meets.Commentary He has faith in the efficacy of Y
 ।।6.37।। अर्जुन ने कहा -- हे कृष्ण ! जिसका मन योग से चलायमान हो गया है,
 ऐसा अपूर्ण प्रयत्न वाला (अयति) श्रद्धायुक्त पुरुष योग की सिद्धि को न
 प्राप्त होकर किस गति को प्राप्त होता है;
+</details>
 </details>
 
 </div>

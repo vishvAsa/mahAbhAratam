@@ -23,8 +23,9 @@ title = "17 सत्त्वात्सञ्जायते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 तद् अधिकसत्त्वादिजनितं निर्मलादिफलं किम् इत्य् अत्र आह -- 
@@ -49,12 +50,14 @@ title = "17 सत्त्वात्सञ्जायते"
 
 14.17 From the increase of Sattva, knowledge i.e., 'true and direct knowledge' of the self arises. From Rajas develops likewise 'intense desire' for heaven etc. From Tamas similarly develops 'negligence' leading to evil deeds; and from this, delusion, i.e., erroneous knowledge; and from that still more Tamas; and thence ignorance, namely absence of knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.17॥ --,**सत्त्वात्** लब्धात्मकात् **संजायते** समुत्पद्यते **ज्ञानम्; रजसो लोभ एव च; प्रमादमोहौ** च उभौ **तमसो भवतः; अज्ञानमेव च** भवति॥ किं च --,
 </details>
@@ -112,12 +115,14 @@ discrimination.\]; eva ca, to be sure. Further,
 कर्मणस्तामसज्ञानादिप्रायमेव फलं भवतीति युक्तमेवेत्यर्थः। अत्र
 चाज्ञानमप्रकाशः प्रमादो मोहश्चाप्रकाशोऽप्रवृत्तिश्चेत्यत्र व्याख्यातौ।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.17॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -126,12 +131,14 @@ discrimination.\]; eva ca, to be sure. Further,
 
 ॥14.17॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.16 -- 14.20॥ कर्मण इत्यादि अश्नुते इत्यन्तम्। अत्र केचिदसंबद्धाः श्लोकाः कल्पिताः; पुनरुक्तत्वात् ( पुनरुक्तार्थत्वात्) ते त्याज्या एव। एतद्गुणातीतवृत्तिस्तु +++(N गुणातीतश्रुतिस्तु)+++ मोक्षायैव कल्पते।
 </details>
@@ -140,12 +147,14 @@ discrimination.\]; eva ca, to be sure. Further,
 
 14.17 See Comment under 14.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.17॥ तर्हि सत्त्वादिजनितं निर्मलादिफलं किं इत्यत्राह -- सत्त्वादिति।
 ज्ञानं वस्तुयाथात्म्यापरोक्षरूपं जायते। रजसस्तु स्वर्गादौ फले लोभः; तमसः
@@ -160,10 +169,13 @@ discrimination.\]; eva ca, to be sure. Further,
 दुःखात्मकत्वात्तदेव भवति। तमसस्तामसगुणात् प्रमादमोहौ भवतः। ततस्ताभ्यां
 चाज्ञानमेव भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.17॥ तत्रैव हेतुमाह **-- सत्त्वादिति।** सत्त्वाज्ज्ञानं संजायते।
 अतः सात्त्विकस्य कर्मणः प्रकाशबहुलं सुखं फलं भवति। रजसो लोभो जायते। तस्य
@@ -171,10 +183,13 @@ discrimination.\]; eva ca, to be sure. Further,
 प्रमादमोहाज्ञानानि भवन्ति। ततस्तामसस्य कर्मणोऽज्ञानप्रापकं फलं भवतीति
 युक्तमेवेत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.17 From the Sattva arises knowledge, and from Rajas greed, from Tamas arise negligence and delusion, and, indeed ignorance.
@@ -209,11 +224,13 @@ and.Commentary From Sattva When Sattva becomes predominant. Sattva awakesn knowl
 Greed is born of Rajas. Rajas creates insatiable desire. Rajas makes one blind to the interests and the feelings of others. A Rajasic man treats others as tools to be utilised for his own selfadvancement or selfaggrandisement.Tamas produces shortsightedness; torpor and ignorance. A Tamasic man does not think a bit of the future conseences.
 He completely identifies himself with the body and begins to fight with people if they injure his body or speak ill of him. He is ready to do any sinful act in retaliation. He has no sense of proportion and no sense of balance or poise.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.17।। सत्त्वगुणसे ज्ञान और रजोगुणसे लोभ आदि ही उत्पन्न होते हैं;
@@ -304,6 +321,7 @@ He completely identifies himself with the body and begins to fight with people i
 
 ।।14.17।। सत्त्वगुण से ज्ञान उत्पन्न होता है। रजोगुण से लोभ तथा तमोगुण
 से प्रमाद, मोह और अज्ञान उत्पन्न होता है।।
+</details>
 </details>
 
 </div>

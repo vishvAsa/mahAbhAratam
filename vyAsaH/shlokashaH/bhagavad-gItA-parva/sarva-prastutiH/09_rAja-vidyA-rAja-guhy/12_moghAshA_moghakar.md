@@ -23,8 +23,9 @@ title = "12 मोघाशा मोघकर्माणो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.12॥ मम मनुष्यत्वे परमकारुण्यादिपरत्वतिरोधानकरीं **राक्षसीम् आसुरीं च मोहिनीं प्रकृतिम् आश्रिताः; मोघाशाः** मोघवाञ्छिता निष्फलवाञ्छिताः; **मोघकर्माणः** मोघारम्भाः; **मोघज्ञानाः** सर्वेषु मदीयेषु चराचरेष्व् अर्थेषु मयि च विपरीतज्ञानतया निष्फलज्ञानाः **विचेतसः** तथा सर्वत्र विगतयाथात्म्यज्ञानाः; मां सर्वेश्वरम् इतरसमं मत्वा मयि यत् कर्तुम् इच्छन्ति; यद् उद्दिश्य आरम्भान् कुर्वते; तत् सर्वं मोघं भवति इत्यर्थः।
@@ -39,12 +40,14 @@ title = "12 मोघाशा मोघकर्माणो"
 
 9.12 Men yielding to the deluding nature characteristics of Asuras and Raksas and not aware of My higher nature like compassion etc. When I am in a human form, are possessed of vain hopes, i.e, their hopes remain fruitless, and their knowledge also is vain, i.e., is fruitless. They are so because of their erroneous understanding which fails to know that all things, mobile and immobile, belong to Me. They are ignorant on account of their being devoid of knowledge of truth everywhere. Whatever they do regarding Me, the Lord of all, is done with an attitude that I am an ordinary mortal. So their efforts go in vain. All this springs from their partaking of the nature of Raksasas and Asuras.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.12॥ --,**मोघाशाः** वृथा आशाः आशिषः येषां ते मोघाशाः; तथा **मोघकर्माणः** यानि च अग्निहोत्रादीनि तैः अनुष्ठीयमानानि कर्माणि तानि च; तेषां भगवत्परिभवात्; स्वात्मभूतस्य अवज्ञानात्; मोघान्येव निष्फलानि कर्माणि भवन्तीति मोघकर्माणः। तथा **मोघज्ञानाः** मोघं निष्फलं ज्ञानं येषां ते मोघज्ञानाः; ज्ञानमपि तेषां निष्फलमेव स्यात्। **विचेतसः** विगतविवेकाश्च ते भवन्ति इत्यभिप्रायः। किञ्च -- ते भवन्ति **राक्षसीं** रक्षसां प्रकृतिं स्वभावम् **आसुरीम्** असुराणां **च प्रकृतिं मोहिनीं** मोहकरीं देहात्मवादिनीं **श्रिताः** आश्रिताः; छिन्द्धि; भिन्द्धि; पिब; खाद; परस्वमपहर; इत्येवं वदनशीलाः क्रूरकर्माणो भवन्ति इत्यर्थः; असुर्या नाम ते लोकाः (ई0 उ₀ 3) इति श्रुतेः॥ ये पुनः श्रद्दधानाः भगवद्भक्तिलक्षणे मोक्षमार्गे प्रवृत्ताः --,
 </details>
@@ -152,12 +155,14 @@ darkness)' (Is. 3).
 ततश्चत्रिविधं नरकस्येदं द्वारं नाशनमात्मनः। कामः क्रोधस्तथा लोभः
 इत्युक्तनरकद्वारभागितया नरकयातनामेव ते सततमनुभवन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.12॥ तेषां फलमाह -- मोघाशा इति। वृथाशाः; भगवद्वेषिभिराशासितं न
 किञ्चिदाप्यते। यज्ञादिकर्माणि च वृथैव तेषां; ज्ञानं च। केनापि
@@ -263,12 +268,14 @@ darkness)' (Is. 3).
 इत्याशङ्कानिवृत्त्यर्थमिति शेषः। अन्येषामविद्यमानं मौढ्यमेव तेषां कुतः
 इत्याशङ्कानिरासार्थमिति वा। अत्र कारणमिति मूलकारणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.12॥ मोघेति। तेषां च कर्म ज्ञानम् आकांक्षाश्च सर्वं निष्फलम्; अवस्तुविषयत्त्वात्। आसुरीं राक्षसीं चेति -- उद्रिक्तरजस्तमोधर्माण इति।
 </details>
@@ -277,12 +284,14 @@ darkness)' (Is. 3).
 
 9.12 Mogha-etc. Their action, knowledge and aspirations are all futile, as these are concerned with the unreal. The demoniac and devilish nature etc. They are of the nature of excessive desire and ignorance.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.12॥ न केवलमजानन्त इत्येव वक्तव्यं सर्वस्य तथात्वात्। किञ्च ते
 मोघाशाः परमार्थतो मोघे स्वर्गादौ देवतायां च ईश्वरं विना कर्मैव फलदमिति
@@ -305,10 +314,13 @@ darkness)' (Is. 3).
 स्वभावमाश्रिताः। अतएव मां मानुषीं तनुमाश्रितं ज्ञात्वा अवमन्यन्त इति
 पूर्वेणान्वयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.12॥ किंच **-- मोघाशा** **इति।** मत्तोऽन्यद्देवतान्तरं क्षिप्रं फलं
 दास्यतीत्येवंभूता मोघा निष्फलैवाशा येषां ते। अतएव मद्विमुखत्वान्मोघानि
@@ -318,10 +330,13 @@ darkness)' (Is. 3).
 बुद्धिभ्रंशकरीं प्रकृतिं स्वभावं श्रिताः आश्रिताः सन्तो मामवजानन्तीति
 पूर्वेणान्वयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.12 Senseless men entertain a nature which is deluding and akin to that of Raksasas (fiends) and Asuras (monsters). Their hopes are vain, acts are vain and knowledge is vain.
@@ -356,11 +371,13 @@ they verily are possessed of the deceitful nature of demons and undivine beings.
 possessed of.Commentary They entertain vain hopes; for there can be no hope in perishable forms. It is vain hope because they run after transient objects and miss the Eternal. It is vain action; because it is not performed by them as sacrifice unto the Lord. The Agnihotra (a ritual) and other actions performed by them are fruitless; because they insult the Lord. They are senseless. They have no,discrimination. They have no idea of the eternal Self. They worship their body only. They behold no self beyond the body. They neglect their own Self. They do atrocious crimes and cruel actions. They rob others property and murder people. They partake of the nature of the demons and the undivine beings.The Rakshasa are Tamasic and the Asuras are Rajasic.Prakriti means here Svabhava (ones own nature).They see the external human body only. They have no knowledge of the Self that dwells within the body.
 They do not behold God in the universe. They life for eating and drinking only.He who entertains hope of getting the rewards of actions through mere Karma alone; without the grace of the Lord is one of empty hope and empty deed. Karmas are insentient. They cannot give rewards independently. The omniscient Lord Who knows the relationship between Karmas and their fruits can dispense them. He who has obtained knowledge from books which do not admit of the existence of the Self and which do not speak of the Self is one of empty knowledge. This will not give any reward. That knowledge obtained through the study of spiritual books which treat of Brahman alone can give the reward. (Cf.VII.15XVI.6;20)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.12।। जिनकी सब आशाएँ व्यर्थ होती हैं, सब शुभ-कर्म व्यर्थ होते हैं और
@@ -409,6 +426,7 @@ They do not behold God in the universe. They life for eating and drinking only.H
 
 ।।9.12।। वृथा आशा, वृथा कर्म और वृथा ज्ञान वाले अविचारीजन राक्षसों के और
 असुरों के मोहित करने वाले स्वभाव को धारण किये रहते हैं।।
+</details>
 </details>
 
 </div>

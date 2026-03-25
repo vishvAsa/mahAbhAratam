@@ -23,8 +23,9 @@ title = "37 तस्मान्नार्हा वयम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥1.37॥ अन्तिमश्लोकव्याख्या दृश्या।
@@ -39,12 +40,14 @@ title = "37 तस्मान्नार्हा वयम्"
 
 1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous. His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.37 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -103,12 +106,14 @@ starts from 2.10.
 यद्यप्येते न पश्यन्ति तथापि कथमस्माभिर्न ज्ञेयमित्युत्तरश्लोकेन
 संबन्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.37॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -119,12 +124,14 @@ starts from 2.11.
 ॥1.37॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.35 1.44॥ निहत्येत्यादि। आततायिनां हनने पापमेव कर्तृ। अतोऽयमर्थः पापेन तावदेतेऽस्मच्छत्रवो हताः परतन्त्रीकृताः। तांश्च निहत्यास्मानपि पापमाश्रयेत् +++(S omits पापम्)+++। पापमत्र लोभादिवशात् +++(S लोभवशात्)+++ कुलक्षयादिदोषादर्शनम् +++(S दोषदर्शनम्)+++। अत एव कुलादिधर्माणामुपक्षेपं +++(K कुलक्षयादि N क्षेपकम्)+++ करोति स्वजनं हि कथमित्यादिना।
 </details>
@@ -133,12 +140,14 @@ starts from 2.11.
 
 1.35 1.44 Nihatya etc. upto anususruma. Sin alone is the agent in the act of slaying these desperadoes. Therefore here the idea is this : These ememies of ours have been slain, i.e., have been take possession of, by sin. Sin would come to us also after slaying them. Sin in this context is the disregard, on account of greed etc., to the injurious conseences like the ruination of the family and the like. That is why Arjuna makes a specific mention of the \[ruin of the\] family etc., and of its duties in the passage 'How by slaying my own kinsmen etc'. The act of slaying, undertaken with an individualizing idea about its result, and with a particularizing idea about the person to be slain, is a great sin. To say this very thing precisely and to indicate the intensity of his own agony, Arjuna says only to himself \[see next sloka\]:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.34 1.37॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -154,10 +163,13 @@ starts from 2.11.
 त्वत्सम्बन्धाभावे वयं कथं सुखिनो भविष्यामः इति व्यञ्जितम्। माधवेति
 सम्बोधनेनास्माकं न लक्ष्म्याद्यपेक्षितेति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **॥1.37॥** ननु तवैतेषामपि बन्धुवधदोषे समाने सति यथैवैते
 बन्धुवधदोषमङ्गीकृत्य युद्धे प्रवर्तन्ते तथैव भवानपि प्रवर्ततां किमनेन
@@ -167,10 +179,13 @@ starts from 2.11.
 कर्तव्येत्यर्थः।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.37 Therefore, it is not befitting that we slay our kin, the sons of Dhrtarastra. For if we kill our kinsmen, O Krsna, how indeed can we be happy;
@@ -204,11 +219,13 @@ the sons of Dhritarashtra; for, my Lord, how can we be happy of we kill our kins
 to kill; धार्तराष्ट्रान् the sons of Dhritarashtra; स्वबान्धवान् our relatives; स्वजनम् kinsmen; हि indeed; कथम् how; हत्वा having killed;
 सुखिनः happy; स्याम may (we) be; माधव O Madhava.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.37।। इसलिये अपने बान्धव इन धृतराष्ट्र-सम्बन्धियों को मारने के लिये
@@ -255,6 +272,7 @@ to kill; धार्तराष्ट्रान् the sons of Dhritarashtra
 
 ।।1.37।। हे माधव ! इसलिये अपने बान्धव धृतराष्ट्र के पुत्रों को मारना
 हमारे लिए योग्य नहीं है, क्योंकि स्वजनों को मारकर हम कैसे सुखी होंगे।
+</details>
 </details>
 
 </div>

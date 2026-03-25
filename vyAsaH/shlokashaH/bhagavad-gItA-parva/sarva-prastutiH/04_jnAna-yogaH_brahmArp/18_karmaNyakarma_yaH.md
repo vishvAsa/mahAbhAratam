@@ -23,8 +23,9 @@ title = "18 कर्मण्यकर्म यः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.18॥ अकर्मशब्देन अत्र कर्मेतरत् प्रस्तुतम् आत्मज्ञानम् उच्यते। **कर्मणि** क्रियमाणे एव आत्मज्ञानं **य पश्येद् अकर्मणि च** आत्मज्ञाने वर्तमान एव **यः कर्म** पश्येत्। किम् उक्तं भवतिक्रियमाणम् एव कर्म आत्मयाथात्म्यानुसन्धानेन ज्ञानाकारं यः पश्येत् तच् च ज्ञानं कर्मण्य् अन्तर्गततया कर्माकारं यः पश्येद् इत्य् उक्तं भवति क्रियमाणे हि कर्मणि कर्तृभूतात्मयाथात्म्यानुसन्धानेन तद् उभयं सम्पन्नं भवति। एवम् आत्मयाथात्म्यानुसन्धानगर्भं कर्म यः पश्येत् **स बुद्धिमान्** कृत्स्नशास्त्रार्थविन् मनुष्येषु **स युक्तः** मोक्षार्हः स एव **कृत्स्नकर्मकृत्** कृत्स्नशास्त्रार्थकृत्। प्रत्यक्षेण क्रियमाणस्य कर्मणो ज्ञानाकारता कथम् उपपद्यते इत्यत्र आह
@@ -39,12 +40,14 @@ title = "18 कर्मण्यकर्म यः"
 
 4.18 Here by the term 'non-action', the knowledge of the self, which is distinct from action and which forms the subject under consideration, is meant. 'He who sees non-action in action and also action in non-action,' denotes him who can perceive knowledge of the self even while action is being performed and who can also perceive action while engaged in non-action, i.e., knowledge of the self. What is the import of this saying; What is taught here is this: One can perceive, by constant contemplation on the truth about the self, that the action that is being performed in itself is a form of knowledge. One can also perceive that this knowledge is also of the form of Karma because of its being contained in Karma Yoga. Both these (i.e., action in the form of knowledge and knowledge in the form of actions) are accomplished by contemplation on the true nature of the self, even while work is being performed. Thus, he who can see actions as included in contemplation on the reality of the self, is wise, i.e., he knows the full meaning of the Sastras; he is fit among men, i.e., fit to attain release. He alone has fulfilled all actions, i.e., carried out the entire purpose of the Sastras. \[The purport is that no contradiction between knowledge and action is felt by one who knows the philosophy of the self\]. How is the form of knowledge accomplished through works which are obviously activities that are being performed; Sri Krsna explains:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.18॥ **कर्मणि** क्रियते इति कर्म व्यापारमात्रम् तस्मिन् कर्मणि **अकर्म** कर्माभावं **यः पश्येत् अकर्मणि च** कर्माभावे कर्तृतन्त्रत्वात् प्रवृत्तिनिवृत्त्योः वस्तु अप्राप्यैव हि सर्व एव क्रियाकारकादिव्यवहारः अविद्याभूमौ एव **कर्म** यः पश्येत् पश्यति **सः बुद्धिमान् मनुष्येषु सः युक्तः** योगी च **कृत्स्नकर्मकृत्** समस्तकर्मकृच्च सः इति स्तूयते कर्माकर्मणोरितरेतरदर्शी॥  
   
@@ -764,12 +767,14 @@ of 'inaction in action,' etc. is being praised:
 यः पश्येदित्यादि तद्बोधकं वाक्यं प्रयुञ्जानस्य भगवतः
 प्रतारकत्वोपपत्तेरित्यादि भाष्य एव विस्तरेण व्याख्यातमित्युपरम्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.18॥ कर्मादिस्वरूपमाह कर्मणीति। कर्मणि क्रियमाणे सत्यकर्म यः पश्येत्
 विष्णोरेव कर्म नाहं चित्प्रतिबिम्बः किञ्चित्करोमीति। अकर्मणि
@@ -798,12 +803,14 @@ of 'inaction in action,' etc. is being praised:
 गौणं व्याख्याति **सर्वे**ति। सर्वस्याश्वमेधादेः। कृत्स्नकर्मणां फलस्य
 ज्ञानस्य मोक्षस्य प्राप्तप्रायत्वादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.18॥ तमेव उद्बोधयितुमाह कर्मणि इति। आत्मीयेषु कर्मसु यः अकर्तृत्वं पश्यति प्रशान्ततया अकर्मसु च परकृतेषु आत्मकृतत्वं जानाति परिपूर्णोदितरूपत्वेन स एव सर्वस्य मध्ये बुद्धिमान् कार्त्स्येन साकल्येनासौ कर्म करोति अतोऽस्य केन कर्मणा फलं दीयताम इति उदितदशायाम्। प्रशान्तत्वे तु कृत्स्नानि कर्माणि कृन्तति छिनत्ति। अतः सर्वमेव कर्म करोति न किञ्चिद्वा करोति इत्युपनिषत्।
 </details>
@@ -812,12 +819,14 @@ of 'inaction in action,' etc. is being praised:
 
 4.18 Karmani etc : He who finds the actions, \[seemingly\] of his own, to be non-actions \[of his\], on account of his being non-performer \[of any action\], because of his state of total tranility; and he who recognises the non-actions \[of his\] i.e., the actions performed by others, as actions being performed by himself (or who recognises the non-actions undertaken by others as being undertaken by himself), because of his intrinsic nature of the fully risen state; that person alone is a man of intelligence in the midst of all; and he \[alone\] performs action fully i.e., in its entirity. Therefore what fruit should be borne for him by what action ; This is at the stage of rising. But, at the stage of total tranility he injures, or cuts all actions. Thus he performs all action or performs no action. This is the secret and sacred knowledge, got by sitting near (by serving) the feet of the preceptors. Therefore -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.18॥ तस्यैव कर्मणो याथात्म्यं स्वयं दर्शयन् क्रियाद्वैतमाह
 कर्मण्यकर्मेति। वैदिकरूपे विहिते कर्मणि यज्ञकर्मणि
@@ -846,10 +855,13 @@ of 'inaction in action,' etc. is being praised:
 
 एवं ज्ञात्वा यः कृत्स्न-कर्म-कर्ता मनुष्येषु स **बुद्धिमान्** भवेत् स **ज्ञानवान्** स **युक्तः**। ममेति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.18॥ तदेवं कर्मादीनां दुर्विज्ञेयत्वं दर्शयन्नाह **कर्मण्यकर्मेति।**
 परमेश्व राराधनलक्षणे कर्मणि विषये अकर्म कर्मेदं न भवतीति यः पश्येत्तस्य
@@ -873,10 +885,13 @@ of 'inaction in action,' etc. is being praised:
 ज्ञानिनः स्वभावादापन्नं कलञ्जभक्षणादिकं न दोषाय अज्ञस्य तु रागतः कृतं
 दोषायेति विकर्मणोऽपि तत्त्वं निरूपितं द्रष्टव्यम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.18 He who sees non-action in action and also action in non-action is wise among men. He is fit for release and has carried out all actions.
@@ -912,11 +927,13 @@ no matter what work or how much of it is done; action is no action at all. This 
 But if he has the idea of agency or doership; or if he thinks that he is the doer; he is every doing action; though he is sitting ietly. This is action in inaction. The restless mind will ever be doing actions even though one sits ietly. Actions of the mind are real actions. Nor can anyone even for one moment remain really actionless; for helplessly is everyone driven to action by the alities of Nature. (Chapter III.5)Inaction also induces the feeling of egoism. The inactive man says; I sit ietly I do nothing. Inaction; like action; is wrongly attributed to the Self.He is the performer of all actions who knows this truth. He has attained the end of all actions; i.e.; freedom or knowledge or perfection.When a steamer moves; the trees on the shore which are motionless; appear to move in the opposite direction to a man who is in the steamer. Moving objects that are very far away appear to be stationary or motionless. Even so in the case of the Self inaction is mistaken for action and,action for inaction.The Self is actionless
 (Akarta or nondoer; Nishkriya or without work). The body and the senses perform action. The actions of the body and the senses are falsely and wrongly attributed by the ignorant to the actionless Self. Therefore the ignorant man thinks; I act. He thinks that the Self is the doer or the agent of the action. This is a mistake. This is ignorance.Just as motion does not really belong to the trees on the shore which appear to move in the opposite direction to a man on board the ship; so also action does not really pertain to the Self.This ignorance which is the cause of birth and death vanishes when you attain Selfrealisaion.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.18।। जो मनुष्य कर्ममें अकर्म देखता है और जो अकर्ममें कर्म देखता है,
@@ -1019,6 +1036,7 @@ But if he has the idea of agency or doership; or if he thinks that he is the doe
 
 ।।4.18।। जो पुरुष कर्म में अकर्म और अकर्म में कर्म देखता है, वह
 मनुष्यों में बुद्धिमान है, वह योगी सम्पूर्ण कर्मों को करने वाला है।।
+</details>
 </details>
 
 </div>

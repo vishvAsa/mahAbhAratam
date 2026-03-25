@@ -23,8 +23,9 @@ title = "09 कट्वम्ललवणात्युष्णतीक्�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.9॥ कटुरसा अम्लरसा लवणोत्कटा अत्युष्णा अतितीक्ष्णा रूक्षा विदाहिनश् च इति कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनो ऽतिशैत्यातितैक्ष्ण्यादिना दुरुपयोगास् तीक्ष्णाः; शोषकरा रूक्षाः; तापकरा विदाहिनः; एवंविधाः **आहारा राजसस्य इष्टाः।** ते च रजोमयत्वाद् दुःखशोकामयत्वाद् दुःखशोकामयवर्धना रजोवर्धनाश् च।
@@ -40,12 +41,14 @@ title = "09 कट्वम्ललवणात्युष्णतीक्�
 
 17.9 The foods that are bitter, sour, very salty, over-hot, very pungent, dry and burning, are those that they the taste (Rasa) of bitterness and sourness, that are inordinately salty, hot, pungent, and that are dry and burning. Pungent foods are those which are unsuitable and difficult to be taken by others because of their being ver cold, ver hot etc. Dry things are those which cause the feeling of dryness in the eater. Burning foods are those which cause burning sensation. Foods of this kind are relished by men of Rajasik nature. They promote pain, sorrow and disease.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.9॥ --,**कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः** इत्यत्र अतिशब्दः कट्वादिषु सर्वत्र योज्यः; अतिकटुः अतितीक्ष्णः इत्येवम्। कटुश्च अम्लश्च लवणश्च अत्युष्णश्च तीक्ष्णश्च रूक्षश्च विदाही च ते **आहाराः राजसस्य इष्टाः; दुःखशोकामयप्रदाः** दुःखं च शोकं च आमयं च प्रयच्छन्तीति दुःखशोकामयप्रदाः॥
 </details>
@@ -110,12 +113,14 @@ dear to one having rajas.
 धातुवैषम्यद्वारा प्रददतीति तथाविधा आहारा राजसस्येष्टाः। एतैर्लिङ्गै
 राजसा ज्ञेयाः सात्त्विकैश्चैत उपेक्षणीया इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.9॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -124,12 +129,14 @@ dear to one having rajas.
 
 ॥17.9॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.7 -- 17.10॥ आहारोऽपि सत्त्वादिभेदात् त्रिधा श्रद्धावत् +++(S omits श्रद्धावत् )+++ तथा यज्ञतपोदानानि। तदुच्यते -- आहार इत्यादि तामसप्रियम् इत्यन्तम्। याता यामाः यस्य।
 </details>
@@ -138,12 +145,14 @@ dear to one having rajas.
 
 17.9 See Comment under 17.10
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.9॥ कट्विति। राजसस्य प्रियाः।
 </details>
@@ -160,10 +169,13 @@ dear to one having rajas.
 ज्वरादिः; एतानि सर्वाणि प्रददति यच्छन्तीति तथा। एतादृगाहारकर्त्तारो
 राजसा ज्ञेया इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.9॥ तथा ***-- कट्विति।*** अतिशब्दः कट्वादिषु सप्तस्वपि संबध्यते।
 अतिकटुर्निम्बादिः। अत्यम्लोऽतिलवणोऽत्युष्णश्च प्रसिद्धः; अतितीक्ष्णो
@@ -171,10 +183,13 @@ dear to one having rajas.
 आहारा राजसस्येष्टाः प्रियाः। दुःखं तात्कालिकं हृदयसंतापादि; शोकः
 पश्चाद्भाविदौर्मनस्यं; आमयो रोगः; एतान् प्रददति प्रयच्छन्तीति तथा।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.9 Foods that are bitter, sour, very salty, exceedingly heating, very pungent, dry and burning, are all dear to Rajasika men; they produce pain, sorrow and disease.
@@ -213,11 +228,13 @@ pungent condiments; meat; fish; eggs; sweets; potato; fried bread; curd;
 brinjal; carrots; blackgram; onions; garlic; lemon; Masur; tea; coffee;
 betels; tobacco are Rajasic artciles of food.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.9।। अति कड़वे, अति खट्टे, अति नमकीन, अति गरम, अति तीखे, अति रूखे और
@@ -263,6 +280,7 @@ betels; tobacco are Rajasic artciles of food.
 ।।17.9।। कड़वे, खट्टे, लवणयुक्त, अति उष्ण, तीक्ष्ण (तीखे, मिर्च युक्त),
 रूखे. दाहकारक, दु:ख, शोक और रोग उत्पन्न कारक भोज्य पदार्थ राजस पुरुष को
 प्रिय होते हैं।।
+</details>
 </details>
 
 </div>

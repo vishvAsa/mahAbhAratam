@@ -23,8 +23,9 @@ title = "21 आदित्यानामहं"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.21॥ द्वादशसङ्ख्यासङ्ख्यातानाम् **आदित्यानां** द्वादशो य उत्कृष्टो **विष्णुः** नाम आदित्यः सः **अहम्** **ज्योतिषां** जगति प्रकाशकानां यः **अंशुमान् रविः** आदित्यगणः सो ऽहम्; **मरुताम्** उत्कृष्टो **मरीचिः** यः सो ऽहम् **अस्मि; नक्षत्राणाम् अहं शशी।** न इयं निर्धारणे षष्ठी;भूतानाम् अस्मि चेतना इतिवन् नक्षत्राणां पतिर् यश् चन्द्रः सो ऽहम् अस्मि॥
@@ -41,12 +42,14 @@ title = "21 आदित्यानामहं"
 
 10.21 Of Adityas, who are twelve in number, I am the twelfth Aditya, called Visnu, who is paramount. Of luminuous bodies, namely, among luminaries in the world, I am the sun, the most brilliant luminary. Of Maruts I am the paramount Marici. Of constellations, I am the moon. The genitive case here is not to specify one out of many included in a group. Its use is the same as what is exemplifed in the statement 'I am the consciousness in all beings' (10.22). I am the moon who is the Lord of the constellations.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.21॥ --,**आदित्यानां** द्वादशानां **विष्णुः** नाम आदित्यः **अहम्। ज्योतिषां रविः** प्रकाशयितॄणाम् **अंशुमान्** रश्मिमान्। **मरीचिः** नाम **मरुतां** मरुद्देवताभेदानाम् **अस्मि। नक्षत्राणाम् अहं शशी** चन्द्रमाः॥
 </details>
@@ -110,12 +113,14 @@ called Marici. Naksatranam, among the stars; I am sasi, the moon.
 रूपेण ध्यानविवक्षया स्वस्यापि स्वविभूतिमध्ये पाठवत्। अतः परं च
 प्रायेणायमध्यायः स्पष्टार्थ इति क्वचित्किंचिद्व्याख्यास्यामः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.21॥ विष्णुः सर्वव्यापित्वप्रवेशित्वादेः। विष्लृ व्याप्तौ; विश्
 प्रवेशने इति पठन्ति। गतिश्च सर्वभूतानां प्रजानां चापि (प्रजनश्चास्मि)
@@ -141,12 +146,14 @@ called Marici. Naksatranam, among the stars; I am sasi, the moon.
 वयतेर्वष्टेश्च पूर्ववद्रूपम्। क्रमणात् त्रिविक्रमरूपेण पादविक्षेपात्।
 पूर्ववद्वयतेर्गत्यर्थात्कर्तरि प्रत्ययः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -155,12 +162,14 @@ called Marici. Naksatranam, among the stars; I am sasi, the moon.
 
 10.21 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.21॥ इदानीं विभूतिमाह -- आदित्यानामित्यादिना। द्वादशानां मध्ये
 विष्णुनामाऽऽदित्योऽहम्। आदित्यानां देवानामेव वामन इति केचित्। ज्योतिषां
@@ -180,10 +189,13 @@ called Marici. Naksatranam, among the stars; I am sasi, the moon.
 चन्द्रोऽस्मि। शशी इति नाम्ना रोहिण्यासक्तिजलाञ्छनवत्त्वेन
 रसात्मकासक्तिधर्मरूपशृङ्गाररसात्मकत्वं व्यञ्जितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.21॥ इदानीं विभूतीः कथयति **-- आदित्यानामित्यादिना**
 यावदध्यायसमाप्ति। आदित्यानां द्वादशानां मध्ये विष्णुर्वामनोऽहम्।
@@ -197,10 +209,13 @@ called Marici. Naksatranam, among the stars; I am sasi, the moon.
 विभूतित्वेन निर्दिश्यते। अतः परं चाध्यायस्य स्पष्टार्थत्वेऽपि
 क्वचित्किंचिद्व्याख्यास्यामः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.21 Of Adityas I am Visnu, of luminous bodies I am the radiant sun. Of the Maruts I am Marici, and among the constellations I am the moon.
@@ -237,11 +252,13 @@ among lights; रविः the sun; अंशुमान् radiant; मरी�
 Pusham; Savita; Tvashta and Vishnu are the twelve Adityas. The twelve months of the year are the Adityas.The Maruts are the gods controlling the winds. Some hold that there are seven of them while others say there are fortynine.The twelve Adityas; the luminaries like Agni; lightning;
 etc.; the Maruts; the stars; etc.; are the Samanya Vibhutis (ordinary manifestations) of the Lord. Vishnu; the sun; Marichi; and the moon are His Visesha Vibhutis (special manifestations) and hence they have greater splendour in them.You can superimpose the Lord on the sun and the moon; and meditate on them as forms of the Lord. You can practise the same kind of meditation on all forms mentioned in the following verses of this chapter.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.21।। मैं अदितिके पुत्रोंमें विष्णु (वामन) और प्रकाशमान वस्तुओंमें
@@ -293,6 +310,7 @@ etc.; the Maruts; the stars; etc.; are the Samanya Vibhutis (ordinary manifestat
 ।।10.21।। मैं (बारह) आदित्यों में विष्णु और ज्योतियों में अंशुमान् सूर्य
 हूँ; मैं (उनचास) मरुतों (वायु देवताओं) में मरीचि हूँ और नक्षत्रों में
 शशी (चन्द्रमा) हूँ।।
+</details>
 </details>
 
 </div>

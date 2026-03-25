@@ -23,8 +23,9 @@ title = "22 अदेशकाले"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.22॥**अदेशकाले अपात्रेभ्यश् च यद् दानं दीयते; असत्कृतं** पादप्रक्षालनादिगौरवरहितम्; **अवज्ञातं** सावज्ञम्; अनुपचारयुक्तं यद् दीयते **तत् तामसम् उदाहृतम्। एवं वैदिकानां यज्ञतपोदानानां सत्त्वादिगुणभेदेन भेद उक्तः। इदानीं तस्य एव वैदिकस्य यज्ञादेः प्रणवसंयोगेन तत्सच्छब्दव्यपदेश्यतया च लक्षणम् उच्यते --**
@@ -39,12 +40,14 @@ title = "22 अदेशकाले"
 
 17.22 That gift which is given to unworthy recipients at wrong place and time, without due respect, viz., without showing such signs of respect as cleansing the feet; with contempt, viz., with disdain and without courtesy - that is said to be of Tamasa nature. So far, the divisions due to differences of Gunas in respect of sacrifices, austerities and gifts as enjoined by the Vedas have been portrayed. Now is given the definition of Vedic sacrifices etc., according to their association with Pranava (i.e., the syllable Om), and as signified by the terms Tat and Sat.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.22॥ --,**अदेशकाले** अदेशे अपुण्यदेशे म्लेच्छाशुच्यादिसंकीर्णे अकाले पुण्यहेतुत्वेन अप्रख्याते संक्रान्त्यादिविशेषरहिते **अपात्रेभ्यश्**च मूर्खतस्करादिभ्यः; देशादिसंपत्तौ वा असत्कृतं च प्रियवचनपादप्रक्षालनपूजादिरहितम् **अवज्ञातं** पात्रपरिभवयुक्तं च **यत् दानम्; तत् तामसम् उदाहृतम्**॥ यज्ञदानतपःप्रभृतीनां साद्गुण्यकरणाय अयम् उपदेशः उच्यते --,
 </details>
@@ -101,12 +104,14 @@ sacrifices, gifts, austerities, etc. perfect:
 देशकालपात्रसंपत्तावप्यसत्कृतं प्रियभाषणपादप्रक्षालनपूजादिसत्कारशून्यं
 अवज्ञातं पात्रपरिभवयुक्तं च तद्दानं तामसमुदाहृतम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.22॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -115,12 +120,14 @@ sacrifices, gifts, austerities, etc. perfect:
 
 ॥17.22॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.20 -- 17.22॥ दातव्यमित्यादि उदाहृतमित्यन्तम्। दातव्यमिति -- दद्यादिति नियोगमात्रं पालनीयमिति दोषाभिसंधानाय +++(S येषामभिसन्धाय; दोषासन्धाय )+++। परिक्लिष्टं मितादिदोषात्। दानस्य चासत्करणं तत्संप्रदानाद्यसत्करणात्। एवं लौकिकानां सात्त्विकादित्रिप्रकाराशयानुसारेण क्रिया व्याख्याता।
 </details>
@@ -129,12 +136,14 @@ sacrifices, gifts, austerities, etc. perfect:
 
 17.20-22 Datavyam etc. upto udahrtam. With the thought that 'One must give' : thinking that the \[scriptural\] injunction 'One must give' is to be obeyed in order to avoid sin. Very much vexed : because of the fault of \[giving\] very little. A gift is converted into a bad one by offending its recipient, and so on. Thus the activities of the worldly men are explained on the basis of their three-fold intentions born of the Sattva and so on. How do those persons perform actions, whose intellect has gone beyond the region, that is impassable because of the triad of the Strands ; Now that manner is described as -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.22॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -154,20 +163,26 @@ sacrifices, gifts, austerities, etc. perfect:
 ज्ञानरूपं वा कार्यम्। दानं च भक्तिसिद्ध्यर्थं भगवद्भक्ताय वेदविदे
 ब्राह्मणाय दातव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/22_adeshakAle.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/22_adeshakAle.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.22॥ तामसं दानमाह **-- अदेशेति।** अदेशे अशुचिस्थाने; अकाले अशौचसमये;
 अपात्रेभ्यो विटनटनर्तकादिभ्यो यद्दानं दीयते। देशकालपात्रसंपत्तावपि
 असत्कृतं पादप्रक्षालनादिसत्कारशून्यम्; अवज्ञातं तिरस्कारयुक्तं। एंवभूतं
 दानं तामसमुदाहृतम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.22 That gift which is given at the wrong place and wrong time to unworthy recipients, without due respect and with contempt, is called the gift of Tamasa nature.
@@ -202,11 +217,13 @@ without respect; अवज्ञातम् with insult; तत् that; ता
 fools; rogues; women of evil reputation and at a time which is not auspicious. But; this does not discourage giving alms or other charity to the poor and the needy. In their case these restrictions do not apply.Without respect; etc. Without pleasant speech; without the washing of feet or without worship; although the gift is made at a proper time and place.The donor does not give in good faith although he gets a worthy recipient. He never bends his head in worship. He does not offer him a seat. He treats him with contempt or disrespect.Lord Krishna says to Arjuna I have described that faith; charity; austerity; food; etc.;
 are invariably coloured by the three alities. There was no desire on My part to refer to the lower ones but to distinguish the highest purity it was necessary to point out the mark of the other two. When the two are set aside; the third is more clearly appreciated in the same way as if day and night are removed the twilight is seen better. Even so be avoiding passion and darkness; the third; viz.; purity or Sattva becomes vividly clear and purity which is the best can be easily realised. Thus in order to show thee the real nature of purity; I have described the other two; so that laying them aside; and resorting to the highest thou mayest attain the goal; viz.; Moksha.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.22।। जो दान बिना सत्कारके तथा अवज्ञापूर्वक अयोग्य देश और कालमें
@@ -378,6 +395,7 @@ are invariably coloured by the three alities. There was no desire on My part to 
 
 ।।17.22।। जो दान बिना सत्कार किये, अथवा तिरस्कारपूर्वक, अयोग्य देशकाल
 में, कुपात्रों के लिए दिया जाता है, वह दान तामस माना गया है।।
+</details>
 </details>
 
 </div>

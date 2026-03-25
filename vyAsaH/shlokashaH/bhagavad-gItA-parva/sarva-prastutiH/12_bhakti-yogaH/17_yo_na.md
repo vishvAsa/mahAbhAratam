@@ -23,8 +23,9 @@ title = "17 यो न"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.17॥**यो न हृष्यति** यद् मनुष्याणां हर्षनिमित्तं प्रियजातं तत् प्राप्य यः कर्मयोगी न हृष्यति; यत च अप्रिय तत् प्राप्य यो **न द्वेष्टि;** यच् च मनुष्याणां शोकनिमित्तं भार्यापुत्रवित्तक्षयादिकं तत् प्राप्य **न शोचति** तथाविधम् अप्राप्तं च न **काङ्क्षति;** यच् च मनुष्याणां हर्षनिमित्तभार्यावित्तादि; तद् अप्राप्तं च न काङ्क्षति इत्यर्थः। **शुभाशुभपरित्यागी** पापवत् पुण्यस्य अपि बन्धहेतुत्वाविशेषाद् उभयपरित्यागी; **यः** एवम्भूतो **भक्तिमान् स मे प्रियः।**
@@ -44,12 +45,14 @@ title = "17 यो न"
 'grieved' by common sorrows which cause grief among men, as the loss of wife, son, fortune etc.; who 'does not desire' anything like wife, son,
 fortune etc.; not already acired by him; who 'renounces good and evil,' i.e., who renounces both merit and demerit because, like demert, merit also causes bondage, there being no difference between them in this respect - he who is like this and devoted to Me is dear to Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥12.17॥ --,**यः न हृष्यति** इष्टप्राप्तौ; **न द्वेष्टि** अनिष्टप्राप्तौ; **न शोचति** प्रियवियोगे; न च अप्राप्तं **काङ्क्षति;** शुभाशुभे कर्मणी परित्यक्तुं शीलम् अस्य इति **शुभाशुभपरित्यागी भक्तिमान् यः सः मे प्रियः**॥
 </details>
@@ -113,12 +116,14 @@ who is full of devotion-he is dear to Me.
 शुभेति। शुभाशुभे सुखसाधनदुःखसाधने कर्मणी परित्यक्तुं शीलमस्येति
 शुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.17॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -127,12 +132,14 @@ who is full of devotion-he is dear to Me.
 
 ॥12.17॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.15 -- 12.20॥ यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति परमकैवल्यम् इति।  
   
@@ -143,12 +150,14 @@ who is full of devotion-he is dear to Me.
 
 12.17 See Comment under 12.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.17॥ किञ्च यो न हृष्यति न द्वेष्टि च। परस्य दुःखं सुखं वा दृष्ट्वा
 प्राकृतवत् धनादिव्ययेऽपि न शोचति। न च तत्काङ्क्षति स्वभोगार्थंभगवानेव
@@ -164,20 +173,26 @@ who is full of devotion-he is dear to Me.
 ज्ञात्वा लीलात्वेन व्यवहरतीत्यर्थः। एतादृशो यो भक्तिमान् भक्तियुक्तः स
 मे प्रियः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/17_yo_na.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/17_yo_na.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.17॥ किंच **-- येनेति।** प्रियं प्राप्य यो न हृष्यति; अप्रियं
 प्राप्य यो न द्वेष्टि; इष्टार्थनाशे सति यो न शोचति; अप्राप्तमर्थं न
 काङ्क्षति; शुभाशुभे पुण्यपापे परित्यक्तुं शीलं यस्य एवंभूतो भूत्वा यो
 मद्भक्तिमान्स मे प्रियः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.17 He who rejoices not, nor hates, nor grieves, nor desires, who renounces good and evil, who is full of devotion to me - dear to me is such a devotee.
@@ -211,11 +226,13 @@ renouncing good and evil, and who is full of devotion, is dear to Me.
 प्रियः dear.Commentary What is described in verse 13 is dealt with at length in this.He does not rejoice when he attains the desirable objects. He does not hate when he gets the undesirable objects. He does not grieve when he parts with his beloved objects. He does not desire the unattained.Subhasubhaparityagi Here is a further description of Sarvarambhaparityagi of verse 16. He who has renounced good and evil actions which produce pleasure and pain is a devotee of the Lord.Such a devotee or knower of Brahman; who is My own Self; is dear to Me.
 (Cf.VII.17IX.29)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/17_yo_na.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.17।। जो न कभी हर्षित होता है, न द्वेष करता है, न शोक करता है, न
@@ -327,6 +344,7 @@ renouncing good and evil, and who is full of devotion, is dear to Me.
 ।।12.17।। जो न हर्षित होता है और न द्वेष करता है; न शोक करता है और न
 आकांक्षा; तथा जो शुभ और अशुभ को त्याग देता है, वह भक्तिमान् पुरुष मुझे
 प्रिय है।।
+</details>
 </details>
 
 </div>

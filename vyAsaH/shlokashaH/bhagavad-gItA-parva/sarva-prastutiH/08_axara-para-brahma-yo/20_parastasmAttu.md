@@ -23,8 +23,9 @@ title = "20 परस्तस्मात्तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.20॥**तस्माद् अव्यक्ताद्** अचेतनप्रकृतिरूपात् पुरुषार्थतया **पर** उत्कृष्टो **भावो ऽन्यो** ज्ञानैकाकारतया तस्माद् विसजातीयः **अव्यक्तः** केनचित् प्रमाणेन न व्यज्यत इत्य् अव्यक्तः स्वसंवेद्यसाधारणाकार इत्यर्थः। **सनातनः** उत्पत्तिविनाशानर्हतया नित्यः। **यः सर्वेषु** वियदादिषु **भूतेषु** सकारणेषु सकार्येषु **विनश्यत्सु** तत्र तत्र स्थितो अपि **न विनश्यति।**
@@ -46,12 +47,14 @@ of a kind different from this, but also called Avyakta. It has only knowledge-fo
 (12.3) and 'The imperishable is called the unchanging' (15.16) - that being the self. It has been called the unmanifest (Avyakta) and imperishable (Aksara); when all material elements like ether, etc., with their causes and effects are annihilated, the self is not annihilated in spite of It being found alone with all the elements. \[The elements are what constitute the bodies of beings.\] The knowers of the Vedas declare It as the highest end. The meaning is that the imperishable entity which has been denoted by the term 'highest goal' in the passage, 'Whosoever abandons the body and departs (in the manner described) reaches the highest state (Dhama)' (8.13), is the self (Atman) abiding in Its essential nature free from the contact with the Prakrti. This self,
 which abides thus in Its essential nature, by attaining which It does not return, - this is My 'highest abode,' i.e., is the highest object of My control. The inanimate Prakrti is one object of My control. The animate Prakrti associated with this inanimate Prakrti is the second object of My control. The pristine nature of the freed self, free from contact with inanimate matter, is the highest object of My rule. Such is the meaning. This state is also one of non-return to Samsara. Or the term 'dhama' may signify 'luminosity'. And luminosity connotes knowledge. The essential nature of the freed self is boundless knowledge, or supreme light, which stands in contrast to the shrunken knowledge of the self, when involved in Prakrti. \[The description given above is that of Kaivalya, the state of self-luminous existence as the pure self\]. Sri Krsna now teaches that the object of attainment for the Jnanin, is totally different from this:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.20॥ --,**परः** व्यतिरिक्तः भिन्नः कुतः **तस्मात्** पूर्वोक्तात्। **तु**शब्दः अक्षरस्य विवक्षितस्य अव्यक्तात् वैलक्षण्यविशेषणार्थः। **भावः** अक्षराख्यं परं ब्रह्म। व्यतिरिक्तत्वे सत्यपि सालक्षण्यप्रसङ्गोऽस्तीति तद्विनिवृत्त्यर्थम् आह -- **अन्यः** इति। अन्यः विलक्षणः। ,स च **अव्यक्तः** अनिन्द्रियगोचरः। परस्तस्मात् इत्युक्तम् कस्मात् पुनः परः पूर्वोक्तात् भूतग्रामबीजभूतात् अविद्यालक्षणात् **अव्यक्तात्।** अन्यः विलक्षणः भावः इत्यभिप्रायः। **सनातनः** चिरन्तनः **यः सः** भावः **सर्वेषु भूतेषु** ब्रह्मादिषु **नश्यत्सु न विनश्यति**॥
 </details>
@@ -166,12 +169,14 @@ beginning from Brahma; nasyatsu, get destroyed.
 भूताभिमानित्वात्तदुत्पत्तिविनाशाभ्यां युक्तावेवोत्पत्तिविनाशौ नतु
 तदनभिमानिनोऽकार्यस्य परमेश्वरस्येति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.20 -- 8.21॥ अव्यक्तो भगवान्यं प्राप्य न निवर्तन्ते इतिमामुपेत्य
 \[8।15\] इत्यस्य परामर्शात्। अव्यक्तं परमं विष्णुं इति प्रयोगाच्च गारुडे।
@@ -187,12 +192,14 @@ beginning from Brahma; nasyatsu, get destroyed.
 भगवति नीयते। किन्तु वाचकस्य तस्येत्याह -- **अव्यक्तमि**ति। कथं तर्हि
 भगवता व्यक्तस्य स्वस्थानत्वमुच्यते इत्यत आह -- **धामे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.20 -- 8.22॥ सर्वतो लोकेभ्यः पुनरावत्तिः न तु मां परमेश्वरं +++(S K omit परमेश्वरम्)+++ प्राप्य इति स्फुटयति -- पर इत्यादि प्रतिष्ठितमित्यन्तम्। उक्तप्रकारं कालसंकलनाविवर्जितं तु वासुदेवतत्त्वम्। व्यक्तम् सर्वानुगतम् तत्त्वेऽपि अव्यक्तम् दुष्प्रापत्वात्। तच्च भक्तिलभ्यमित्यावेदितं प्राक्। तत्रस्थं च एतद्विश्वं यत्खलु अविनाशिरूपं ( स्वरूपम्) सदा तथाभूतम्। तत्र कः पुनःशब्दस्य आवृत्तिशब्दस्य चार्थः स हि मध्ये तत्स्वभावविच्छेदापेक्षः। न च सदातनविश्वोत्तीर्णविश्वाव्यतिरिक्त -- विश्वप्रतिष्ठात्मक +++(SNK n विश्वनिष्ठात्मक -- )+++ परबोधस्वातन्त्र्यस्वभावस्य श्रीपरमेश्वरस्य तद्भावप्राप्तिः +++(N -- प्राप्तस्य)+++ \[ संभवति \] येन स्वभावविच्छेदः कोऽपि कदाप्यस्ति \[इति कल्प्येत\]। अतो युक्तमुक्ततम् मामुपेत्य तु +++(VIII 16)+++ इति।
 </details>
@@ -201,12 +208,14 @@ beginning from Brahma; nasyatsu, get destroyed.
 
 8.20 See Comment under 8.22
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.20॥ व्यक्तिसम्बन्धाद्व्यक्तसंज्ञको जीव आब्रह्मपर्यन्त उक्तः।
 तस्मात्क्षरादन्योऽव्यक्तः व्यक्तिरहितः परो गुणातीतश्च सनानतः
@@ -222,10 +231,13 @@ beginning from Brahma; nasyatsu, get destroyed.
 तत्स्वरूपमाह -- यः सर्वेषु भूतेषु नश्यत्सु सत्सु न विनश्यति न
 विकारमाप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/20_parastasmAttu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/20_parastasmAttu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.20॥ लोकानामनित्यत्वं प्रपञ्चय परमेश्वरस्वरूपस्य नित्यत्वं
 प्रपञ्चयति **-- पर इति द्वाभ्याम्।** तस्माच्चराचरकारणभूतादव्यक्तात्परः
@@ -233,10 +245,13 @@ beginning from Brahma; nasyatsu, get destroyed.
 सनातनोऽनादिः स तु सर्वेषु कार्यकारणलक्षणेषु भूतेषु नश्यत्स्वपि न
 विनश्यति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.20 But distinct from that Unmanifested is the other eternal unmainfest Reality, who does not get destroyed when all beings get destroyed.
@@ -263,11 +278,13 @@ beginning from Brahma; nasyatsu, get destroyed.
 another; अव्यक्तः unmanifested; अव्यक्तात् than the unmanifested; सनातनः
 Eternal; यः who; सः that; सर्वेषु all; भूतेषु beings; नश्यत्सु when destroyed; न not; विनश्यति is destroyed.Commentary Another unmanifested in the ancient or eternal Para Brahman Who is distinct from the Unmanifested (Avyakta or Primordial Nature); Who is of ite a different nature. It is superior to Hiranyagarbha (the Cosmic Creative Intelligence) and the Unmanifested Nature because It is their cause. It is not destroyed when all the beings from Brahma down to the ants or the blade of grass are destroyed. (Cf.XV.17)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/20_parastasmAttu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.20।। परन्तु उस अव्यक्त- (ब्रह्माजीके सूक्ष्म-शरीर-) से अन्य अनादि
@@ -347,6 +364,7 @@ Eternal; यः who; सः that; सर्वेषु all; भूतेषु 
 
 ।।8.20।। परन्तु उस अव्यक्त से परे अन्य जो सनातन अव्यक्त भाव है, वह समस्त
 भूतों के नष्ट होने पर भी नष्ट नहीं होता।।
+</details>
 </details>
 
 </div>

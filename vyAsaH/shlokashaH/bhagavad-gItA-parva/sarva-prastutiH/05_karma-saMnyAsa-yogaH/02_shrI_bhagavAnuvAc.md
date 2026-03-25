@@ -26,8 +26,9 @@ title = "02 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.2॥ श्रीभगवानुवाच **सन्न्यासः** ज्ञानयोगः **कर्मयोगश् च** ज्ञानयोगशक्तस्य अपि **उभौ** निरपेक्षौ **निःश्रेयसकरौ। तयोस् तु कर्मसन्न्यासाद्** ज्ञानयोगात् **कर्मयोगः** एव **विशिष्यते। कुत इत्यत आह**
@@ -42,12 +43,14 @@ title = "02 श्री भगवानुवाच"
 
 5.2 The Lord said Even while granting that some persons are competent for the practice of Jnana Yoga exclusively, it has to be conceded that renunciation, i.e., Jnana Yoga, and Karma Yoga can be practised as independent of each other in the pursuit of the highest excellence. Still, of these two, Karma Yoga excels over the renunciation of actions, i.e., Jnana Yoga. Sri Krsna explains why this is so.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.2॥ **संन्यासः** कर्मणां परित्यागः **कर्मयोगश्च** तेषामनुष्ठानं तौ **उभौ** अपि **निःश्रेयसकरौ** मोक्षं कुर्वाते ज्ञानोत्पत्तिहेतुत्वेन। उभौ यद्यपि निःश्रेयसकरौ तथापि **तयोस्तु** निःश्रेयसहेत्वोः **कर्मसंन्यासात्** केवलात् **कर्मयोगो विशिष्यते** इति कर्मयोगं स्तौति॥ कस्मात् इति आह
 </details>
@@ -108,12 +111,14 @@ that is not based on Knowledge.\] Why; In answer the Lord says:
 ज्ञानोत्पत्तिहेतुत्वेन मोक्षोपयोगिनौ। तयोस्तु
 कर्मसंन्यासादनधिकारिकृतात्कर्मयोगो विशिष्यते श्रेयानधिकारसंपादकत्वेन।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.2॥ नायं सन्न्यासो यत्याश्रमः। द्वन्द्वत्यागात्तु सन्न्यासान्मत्पूजैव
 गरीयसी इति वचनात्। तानि वा एतान्यवराणि तपांसि न्यास एवात्यरेचयत् इति
@@ -154,12 +159,14 @@ that is not based on Knowledge.\] Why; In answer the Lord says:
 कर्मेत्याश्रमान्तरम्। यदुक्तंनायं इत्यादि तदुपसंहरति **अत** इति। अत्र
 परिहारवाक्ये।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.2॥ संन्यास इति। संन्यासः कर्म योगः च नात्र एकोऽभिहितः अपि तु उभौ। संमिलितौ तौ निश्श्रेयसं दत्तः। योगेन विना संन्यासो न संभवतीति योगस्य विशेषः।
 </details>
@@ -168,12 +175,14 @@ that is not based on Knowledge.\] Why; In answer the Lord says:
 
 5.2 Samnyasah etc. Renunciation and the Yoga of action-not only one, but two-are mentioned here. Happily joining together they yield salvation. (However), the superiority of the Yoga \[over the renunciation\] is due to the fact that but for the Yoga, renunciation does not exist.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.2॥ इति प्रश्ने भगवानर्जुनं पुष्टिनिष्ठभक्तं तदोभयकोटिसंशयापन्नं
 योगसाङ्ख्यसारं ग्राहयन् पूर्वशिष्टां कर्मयोगस्थितिमुत्तरमाह सन्न्यासः
@@ -192,10 +201,13 @@ that is not based on Knowledge.\] Why; In answer the Lord says:
 कर्मसन्न्यासात् केवलं कर्मत्यागात् मदाज्ञया फलानभिलाषेण मदर्पणधिया
 कर्मयोगः कर्मानुष्ठानं विशिष्यते उत्तममित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.2॥ अत्रोत्तरं श्रीभगवानुवाच **संन्यास इति।** अयं भावःनहि
 वेदान्तवेद्यात्मतत्त्वविदं प्रति कर्मयोगमहं ब्रवीमि यतः पूर्वोक्तेन
@@ -207,10 +219,13 @@ that is not based on Knowledge.\] Why; In answer the Lord says:
 कर्मयोगश्चेत्येतावुभावपि भूमिकाभेदेन समुच्चितावेव निःश्रेयसं साधयतः
 तथापि तु तयोर्मध्ये कर्मसंन्यासात्सकाशात्कर्मयोगो विशिष्टो भवति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.2 The Lord said Renunciation of actions and Karma Yoga, both lead to the highest excellence. But, of the two, Karma Yoga excels the renunciation of actions.
@@ -244,11 +259,13 @@ leading to the highest bliss; उभौ both; तयोः of these two; तु 
 विशिष्यते is superior.Commentary Sannyasa (renunciation of action) and Karma Yoga (performance of action) both lead to Moksha or liberation or the highest bliss. Though both lead to Moksha; yet of the two means of attaining to Moksha; Karma Yoga is better than mere Karma Sannyasa
 (renunciation of action) without the knowledge of the Self.But renunciation of actions with the knowledge of the Self is decidedly superior to Karma Yoga.Moreover; Karma Yoga is easy and is therefore suitable to all. (Cf.III.3V.5VI.46)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.2।। श्रीभगवान् बोले -- संन्यास (साङ्ख्ययोग) और कर्मयोग दोनों ही
@@ -339,6 +356,7 @@ leading to the highest bliss; उभौ both; तयोः of these two; तु 
 
 ।।5.2।। श्रीभगवान् ने कहा -- कर्मसंन्यास और कर्मयोग ये दोनों ही परम
 कल्याणकारक हैं; परन्तु उन दोनों में कर्मसंन्यास से कर्मयोग श्रेष्ठ है।।
+</details>
 </details>
 
 </div>

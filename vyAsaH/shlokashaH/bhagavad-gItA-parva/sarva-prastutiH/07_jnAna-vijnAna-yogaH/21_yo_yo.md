@@ -23,8 +23,9 @@ title = "21 यो यो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.21॥ ता अपि देवता मदीयास् तनवःय आदित्ये तिष्ठन्यमादित्यो न वेद यस्यादित्यः शरीरम् (बृ॰ उ॰ 3।7।9) इत्यादिश्रुतिभिः प्रतिपादिता मदीयास् तनवः। इत्य् अजानन् अपि **यो यो यां यां** मदीयाम् इन्द्रादिकां **तनुं भक्तः श्रद्धया अर्चितुम् इच्छति तस्य तस्य** अजानतो ऽपि मत्तनुविषया एषा श्रद्धा इत्य् अहम् एव अनुसन्धाय **ताम् एव अचलां** निर्विघ्नां **विदधामि** अहम्।
@@ -41,12 +42,14 @@ title = "21 यो यो"
 
 7.21 These divinities too constitute My body as taught in the Sruti text like: 'He who, dwelling in the sun, whom the sun does not know, whose body is the sun' (Br. U., 3.7.9). Whichever devotee seeks to worship with faith whatever form of Mine, such as the Indra, although not knowing these divinities to be My forms, I consider his faith as being directed to My bodies or manifestations, and make his faith steadfast, i.e., make it free from obstacles.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 तेषां च कामिनाम्  
 ॥7.21॥ **यः यः** कामी **यां यां** देवता**तनुं श्रद्धया** संयुक्तः **भक्त**श्च सन् **अर्चितुं** पूजयितुम् **इच्छति तस्य तस्य** कामिनः **अचलां** स्थिरां **श्रद्धां तामेव विदधामि** स्थिरीकरोमि॥ ययैव पूर्वं प्रवृत्तः स्वभावतो यः यां देवतातनुं श्रद्धया अर्चितुम् इच्छति
@@ -119,12 +122,14 @@ icchati' with the next verse.-Tr.\] vidadhami, I strengthen.
 व्याख्याने यच्छब्दानन्वयः स्पष्टस्तस्मात्प्रतिशब्दमध्याहृत्य
 व्याख्यातम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.21 7.22॥ यां यां ब्रह्मादिरूपां तनुम्। उक्तं च नारदीयेअन्तो
 ब्रह्मादिभक्तानां मद्भक्तानामनन्तता इति। मुक्तश्च कां गतिं
@@ -143,12 +148,14 @@ icchati' with the next verse.-Tr.\] vidadhami, I strengthen.
 अनन्तफलत्वं मूलरूपभक्तानामस्तु अवतारतनुभक्तानामन्तवत्फलाङ्गीकारे को
 विरोधः इत्यत आह **अवतार इति**। कुत्र चावतारे।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md"></div>
 </details>
 
@@ -156,12 +163,14 @@ icchati' with the next verse.-Tr.\] vidadhami, I strengthen.
 
 7.21 See Comment under 7.23
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.21॥ ता अपि देवता मदीयाः शरीरभूताः य आदित्ये तिष्ठन्नादित्यादन्तरो
 यमादित्यो न वेद यस्यादित्यः शरीरं बृ.उ.3।7।9
@@ -178,20 +187,26 @@ icchati' with the next verse.-Tr.\] vidadhami, I strengthen.
 तामेव श्रद्धामचलां शास्त्रज्ञानादिना वा चालयितुमयोग्यामहमेव विदधामि
 करोमि पोषयामि चेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.21॥**यो यो यां यामिति।** तेषां मध्ये यो यो भक्तः यां यां तनुं
 देवतारूपां मदीयामेव मूर्तिं श्रद्धयार्चितुमिच्छति प्रवर्तते तस्य तस्य
 भक्तस्य तत्तन्मूर्तिविषयां तामेव श्रद्धामचलां दृढामहमन्तर्यामी विदधामि
 करोमि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.21 Whichever devotee seeks to worship with faith whatever form, I make that very faith steadfast.
@@ -225,11 +240,13 @@ icchati' with the next verse.-Tr.\] vidadhami, I strengthen.
 make; अहम् I.Commentary Tanu or body is used here in the sense of a Devata (god).The Lord; the indweller of all beings; makes the faith of that devotee who worships the lesser divinities; which is born of the Samskaras of his previous birth; steady and unswerving.
 (Cf.IV.11IX.22and23)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.21।। जो-जो भक्त जिस-जिस देवताका श्रद्धापूर्वक पूजन करना चाहता है,
@@ -312,6 +329,7 @@ make; अहम् I.Commentary Tanu or body is used here in the sense of a Deva
 ।।7.21।। जो-जो (सकामी) भक्त जिस-जिस (देवता के) रूप को श्रद्धा से पूजना
 चाहता है, उस-उस (भक्त) की मैं उस ही देवता के प्रति श्रद्धा को स्थिर करता
 हूँ।।
+</details>
 </details>
 
 </div>

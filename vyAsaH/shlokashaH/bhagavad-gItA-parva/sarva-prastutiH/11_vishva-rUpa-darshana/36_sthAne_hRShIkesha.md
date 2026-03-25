@@ -28,8 +28,9 @@ title = "36 स्थाने हृषीकेश"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.36॥ अर्जुन उवाच -- **स्थाने** युक्तम्; यद् एतद् युद्धदिदृक्षया आगतम् अशेषं देवगन्धर्वसिद्धयक्षविद्याधरकिन्नरकिम्पुरुषादिकं **जगत्** त्वत्प्रसादात् त्वां सर्वेश्वरम् अवलोक्य **तव प्रकीर्त्या** सर्वं **प्रहृष्यत्य् अनुरज्यते च।** यच् च त्वाम् अवलोक्य **रक्षांसि भीतानि** सर्वा **दिशः प्रद्रवन्ति सर्वे सिद्धसङ्घाः** सिद्धाद्यनुकूलसङ्घाः **नमस्यन्ति च** तद् एतत् सर्वं युक्तम् इति पूर्वेण सम्बन्धः। युक्तताम् एव उपपादयति --
@@ -44,12 +45,14 @@ title = "36 स्थाने हृषीकेश"
 
 11.36 Arjuna said: 'Sthane' means rightly or it is but proper. It is but proper that the whole world of gods, Gandharvas, Siddhas, Yaksas, Kinnaras, Kimpurusas, etc., who have foregathered with a desire to see the battle, should be delighted with You and love You after beholding You by Your grace. You are the Lord of all. Rightly after beholding You, the Raksasas flee in fear on all sides, and rightly all the host of Siddhas, namely, the host of Siddhas who are favourable to You, pay their homage to You. The connection with what was said earlier is that all this is as it ought to be. He further proceeds to explain how all this is right:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.36॥ --,**स्थाने** युक्तम्। किं तत् **तव प्रकीर्त्या** त्वन्माहात्म्यकीर्तनेन श्रुतेन; हे **हृषीकेश;** यत् **जगत्** प्रहृष्यति प्रहर्षम् उपैति; तत् स्थाने युक्तम्; इत्यर्थः। अथवा विषयविशेषणं स्थाने इति। युक्तः हर्षादिविषयः भगवान्; यतः ईश्वरः सर्वात्मा सर्वभूतसुहृच्च इति। तथा **अनुरज्यते** अनुरागं च उपैति तच्च विषये इति व्याख्येयम्। किञ्च; **रक्षांसि भीतानि** भयाविष्टानि **दिशः द्रवन्ति** गच्छन्ति तच्च,स्थाने विषये। **सर्वे नमस्यन्ति** नमस्कुर्वन्ति च **सिद्धसंघाः** सिद्धानां समुदायाः कपिलादीनाम्; तच्च स्थाने॥ भगवतो हर्षादिविषयत्वे हेतुं दर्शयति --,
 </details>
@@ -132,12 +135,14 @@ of delight etc.:
 यत्तदपि युक्तमेव। सर्वत्र तव प्रकीर्त्येत्यस्यान्वयः स्थाने इत्यस्य च।
 अयं श्लोको रक्षोघ्नमन्त्रत्वेन मन्त्रशास्त्रे प्रसिद्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.36॥ यदेतद्वक्ष्यमाणं तत्स्थाने युक्तमेवेत्यर्थः।
 अग्नीषोमाद्यन्तर्यामितया जगद्धर्षणादेर्हृषीकेशः; केशत्वं त्वंशूनां
@@ -174,12 +179,14 @@ of delight etc.:
 उत्पद्यन्ते उदयं गच्छन्ति सूर्यकृतैश्च। अत्रापि
 पूर्ववद्बोधनादेर्हेतुहेतुमद्भावो ज्ञातव्यः। ईशानत्वादावप्युक्तो हेतुः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.36॥ स्थाने इति। प्रकीर्त्यां +++(S प्रकीर्तिः प्रकीर्तनम्)+++ ; प्रकीर्तनेन।
 </details>
@@ -188,12 +195,14 @@ of delight etc.:
 
 11.36 Sthane etc. By high glory : by highly singing the glory.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.36॥ स्थाने इत्येकादशभिः प्रार्थयन्नाह फाल्गुनः।
 षड्भिर्गुणैस्त्रिभिर्युक्तं भगवन्तं गुणातिगम्॥ स्थाने इत्यत्र
@@ -215,10 +224,13 @@ of delight etc.:
 सिद्धसङ्घाः सिद्धानां प्राप्तज्ञानानां समूहाः नमस्यन्ति
 प्रणमन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.36॥ **स्थान इत्येकादशभिरर्जुनस्योक्तिः।** स्थान इत्यव्ययं
 युक्तमित्यस्मिन्नर्थे। हे हृषीकेश; यत एवं त्वमद्भुतप्रभावो भक्तवत्सलश्च
@@ -229,10 +241,13 @@ of delight etc.:
 योगतपोमन्त्रादिसिद्धानां सङ्घा नमस्यन्ति प्रणमन्तीति यत्; एतच्च स्थाने
 युक्तमेव। न चित्रमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.36 Arjuna said Rightly it is, O Krsna, that Your praise should move the world to joy and love. The Raksasas flee in fear on all sides, and all the hosts of Siddhas bow down to You.
@@ -265,11 +280,13 @@ and; रक्षांसि the demons; भीतानि in fear; दिश�
 fly; सर्वे all; नमस्यन्ति bow (to Thee); च and; सिद्धसङ्घाः the hosts of the perfected ones.Commentary Praise description of the glory of the Lord. The Lord is the object worthy of adortion; love and delight;
 because He is the Self and friend of all beings.The Lord is the object of adoration; love and delight for the following reason also. He is the primal cause even of Brahma; the Creator of the universe.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.36।। अर्जुन बोले -- हे अन्तर्यामी भगवन् ! आपके नाम, गुण, लीलाका
@@ -319,6 +336,7 @@ because He is the Self and friend of all beings.The Lord is the object of adorat
 हर्षित होता है और अनुराग को भी प्राप्त होता है। भयभीत राक्षस लोग समस्त
 दिशाओं में भागते हैं और समस्त सिद्धगणों के समुदाय आपको नमस्कार करते
 हैं।।
+</details>
 </details>
 
 </div>

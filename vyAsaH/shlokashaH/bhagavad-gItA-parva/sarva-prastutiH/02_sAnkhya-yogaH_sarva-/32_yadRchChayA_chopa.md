@@ -23,8 +23,9 @@ title = "32 यदृच्छया चोपपन्नम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.32॥ अयत्नोपनतम् इदं निरतिशयसुखोपायभूतं निर्विघ्नम् **ईदृशं युद्धं सुखिनः** पुण्यवन्तः **क्षत्रिया लभन्ते।  
@@ -42,12 +43,14 @@ title = "32 यदृच्छया चोपपन्नम्"
 
 2.32 Only the fortunate Ksatriyas, i.e., the meritorious ones, gian such a war as this, which has come unsought, which is the means for the attainment of immeasurable bliss, and which gives an unobstructed pathway to heaven.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.32॥  
   
@@ -160,12 +163,14 @@ remaind fully engaged in their immediate duty.\]
 हानिः। तदेवं युद्धकरणे सुखोक्तेःस्वजनं हि कथं हत्वा सुखिनः स्याम माधव
 इत्यर्जुनोक्तमपाकृतम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.32॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -174,12 +179,14 @@ remaind fully engaged in their immediate duty.\]
 
 ॥2.32॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.33॥ यदृच्छयेति। अन्येऽपि ये +++(N omits ये)+++ काममयाः क्षत्रियाः तैरपीदृशं युद्धं स्वर्गहेतुत्वात् न त्याज्यम्। किं पुनर्यस्य ईदृशं ज्ञानमुपदिष्टम् इति तात्पर्यम्। न पुनः स्वर्गपर्यवसायी श्लोकः +++(N omit न पुनः श्लोकः)+++।
 </details>
@@ -188,12 +195,14 @@ remaind fully engaged in their immediate duty.\]
 
 2.32 Yadrcchaya etc. A war of this nature, because it is conducive to the heaven, should not be avoided even by other such Ksatriyas who are full of desires How much less \[it is to be avoided\] in the case of one to whom the science of knowledge of this nature has been taught ; This is what is intended to be conveyed \[here\] And the verse does not at all end with \[determining how to attain\] the heaven. The very thing (i.e. sin), fearing which you withdraw from the battle, will befall you branching off hundredfold. This \[the Lord\] says-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.32॥ तदेतदुपपादयति यदृच्छयेति। सुखिनो भाग्यवन्तः युद्धं
 स्वर्गद्वारभूतम्। द्वौ सम्मताविह मृत्यू दुरापौ इति भागवतवाक्यात्
@@ -207,10 +216,13 @@ remaind fully engaged in their immediate duty.\]
 क्षत्ति्रयाः सुखिनो भाग्यवन्तो लभन्ते। प्राप्नुवन्ति एतादृशयुद्धाप्तौ
 भाग्यवत्त्वं भगवदिच्छयानुरूपत्वाद्भगवत्सन्निधित्वाच्चेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.32॥ किंच महति श्रेयसि स्वयमेवोपगते सति कुतो विकम्पस इत्याह
 **यद्दच्छयेति।** यदृच्छयाऽप्रार्थितमेवोपपन्नं प्राप्तमीदृशं युद्धं
@@ -218,10 +230,13 @@ remaind fully engaged in their immediate duty.\]
 एवंविधं युद्धं लभन्ते त एव सुखिन इत्यर्थः। एतेनस्वजनं हि कथं हत्वा
 सुखिनः स्याम इति यदुक्तं तन्निरस्तं भवति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.32 Happy are the Ksatriyas, O Arjuna, to whom a war like this comes of its own accord; it opens the gate to heaven.
@@ -251,11 +266,13 @@ remaind fully engaged in their immediate duty.\]
 
 2.32 यदृच्छया of itself; च and; उपपन्नम् come; स्वर्गद्वारम् the gate of heaven; अपावृतम् opened; सुखिनः happy; क्षत्रियाः Kshatriyas; पार्थ O Partha; लभन्ते obtain; युद्धम् battle; ईदृशम् such.Commentary The scriptures declare that if a Kshatriya dies for a righteous cause on the battlefield; he at once goes to heaven.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.32।। अपने-आप प्राप्त हुआ युद्ध खुला हुआ स्वर्गका दरवाजा भी है। हे
@@ -306,6 +323,7 @@ remaind fully engaged in their immediate duty.\]
 
 ।।2.32।। और हे पार्थ ! अपने आप प्राप्त हुए और स्वर्ग के लिए खुले हुए
 द्वाररूप इस प्रकार के युद्ध को भाग्यवान क्षत्रिय लोग ही पाते हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "02 यं सन्न्यासमिति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.2॥ ज्ञान-योग इत्य् आत्म-याथात्म्य-ज्ञानम् **इति प्राहुः** तं कर्म-**योगम्** एव **विद्धि।** तद् उपपादयति -  
@@ -42,12 +43,14 @@ title = "02 यं सन्न्यासमिति"
 
 6.2 Know Karma Yoga only to be that which they call as Sannyasa i.e., as Jnana Yoga or knowledge of the real nature of the self. Sri Krsna substantiates this by the words, 'For no one whose delusive identification of the body with the self is not abandoned, becomes a true Karma Yogin.' 'One whose delusion is abandoned is one by whom the delusion of identifying the self with Prakrti (body), which is in reality distinct from the self, is not rejected by the contemplation of the real nature of the self. One who is not of this kind is one whose delusion is not abandoned. One who is not of this kind cannot become a Karma Yogin of the type described here. It has already been said: 'He whose every undertaking is free from desire for fruits and delusive identification of the body with the self ৷৷.' (4.19). Sri Krsna now teaches that by Karma Yoga alone one succeeds in Yoga without the risk of fall.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.2॥ **यं** सर्वकर्मतत्फलपरित्यागलक्षणं परमार्थसंन्यासं **संन्यासम् इति प्राहुः** श्रुतिस्मृतिविदः **योगं** कर्मानुष्ठानलक्षणं **तं** परमार्थसंन्यासं **विद्धि** जानीहि हे **पाण्डव।** कर्मयोगस्य प्रवृत्तिलक्षणस्य तद्विपरीतेन निवृत्तिलक्षणेन परमार्थसंन्यासेन कीदृशं सामान्यमङ्गीकृत्य तद्भाव उच्यते इत्यपेक्षायाम् इदमुच्यते अस्ति हि परमार्थसंन्यासेन सादृश्यं कर्तृद्वारकं कर्मयोगस्य। यो हि परमार्थसंन्यासी स त्यक्तसर्वकर्मसाधनतया सर्वकर्मतत्फलविषयं संकल्पं प्रवृत्तिहेतुकामकारणं संन्यस्यति। अयमपि कर्मयोगी कर्म कुर्वाण एव फलविषयं संकल्पं संन्यस्यति इत्येतमर्थं दर्शयिष्यन् आह **न हि** यस्मात् **असंन्यस्तसंकल्पः** असंन्यस्तः अपरित्यक्तः फलविषयः संकल्पः अभिसंधिः येन सः असंन्यस्तसंकल्पः **कश्चन** कश्चिदपि कर्मी **योगी** समाधानवान् **भवति** न संभवतीत्यर्थः फलसंकल्पस्य चित्तवेक्षेपहेतुत्वात्। तस्मात् यः कश्चन कर्मी संन्यस्तफलसंकल्पोभवेत् स योगी समाधानवान् अविक्षिप्तचित्तो भवेत् चित्तविक्षेपहेतोः फलसंकल्पस्य संन्यस्तत्वादित्यभिप्रायः॥ एवं परमार्थसंन्यासकर्मयोगयोः कर्तृद्वारकं संन्याससामान्यमपेक्ष्य यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव इति कर्मयोगस्य स्तुत्यर्थं संन्यासत्वम् उक्तम्। ध्यानयोगस्य फलनिरपेक्षः कर्मयोगो बहिरङ्गं साधनमिति तं संन्यासत्वेन स्तुत्वा अधुना कर्मयोगस्य ध्यानयोगसाधनत्वं दर्शयति
 </details>
@@ -211,12 +214,14 @@ Dhyana-yoga:
 फलसंकल्पस्तु रागाख्यस्तृतीयो विपर्ययभेदस्तन्निरोधमात्रमपि गौण्या
 वृत्त्या योग इति संन्यास इति चोच्यत इति न विरोधः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.2॥ सन्न्यासोऽपि योगान्तर्भूत इत्याह यं सन्न्यासमिति।
 कामसङ्कल्पाद्यपरित्यागे कथमुपायवान्स्यात् इत्याशयः।
@@ -235,12 +240,14 @@ Dhyana-yoga:
 कामाद्युपलक्षणत्वाद्योगशब्दस्य
 ज्ञानोपायरूपमुख्ययोगार्थत्वान्नानुपपत्तिरिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.1 6.2॥ एवं प्राक्तनेनाध्यायगणेन साधितोऽर्थः श्लोकद्वयेन निगद्यते अनाश्रित इति। य संन्यासमिति। कार्यं स्वजात्यादिविहितम्। संन्यासी +++(S संन्यासीति)+++ योगीति पर्यायावेतौ। अत एवाह यं संन्यासमिति। तथा च योगमन्तरेण संन्यासो नोपपद्यते। एवं संकल्पसंन्यासं विना योगो न युज्यते। तस्मात्सततसंबद्धौ योगसंन्यासौ। न निरग्निरित्यादिना अयमर्थो ध्वन्यते निरग्निश्च न भवति निष्क्रियश्च न भवति अथ च संन्यासी इत्यद्भुतम् इति।
 </details>
@@ -249,12 +256,14 @@ Dhyana-yoga:
 
 6.1-2 The subject matter that has been thus established in the series of the preceding chapters is summarised by a couple of verses. Anasritah etc. Yam etc. Bounden : Ordained \[in the law books\] according to one's caste etc. \[Thus\] man-lf-renunciation and man-of-Yoga are synonyms. That is why \[the Lord\] says, 'what \[the learned\] call renunciation' etc. Therefore, without Yoga no renunciation is possible. Similarly Yoga is not possible without renouncing the intention \[for fruit\]. Conseently, the Yoga and renunciation are ever interlinked. The idea, suggested by 'not he who remains \[simply\] without his fires etc.' is this : He remains neither without fires, nor without actions and yet he is man of renunciation, Hence this is strange. Of course, following the principle \[involved in the statement\] 'Playing dice is the kingship, without throne', and following logic it has been asserted already that renunciation is not possible for a person who remains simply without actions. Yet-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.2॥ कुत इत्यपेक्षायां साङ्ख्ययोगविषययोरत्यागात्यागयोरेवैकार्थतां
 सम्पादयन्नाह यं सन्न्यासमिति। ऋषयो यं सन्न्यासं प्राहुस्त्यागविधया तं
@@ -276,10 +285,13 @@ Dhyana-yoga:
 प्रभुसुखानुभवेच्छा नोदेति परस्परमुभयोः स्थितिरेकत्र न सम्भवति अतः
 स्वसुखानुभवरूपमानसनिश्चयत्यागवान् योगी भवतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.2॥ कुत इत्यपेक्षायां कर्मयोगस्यैव संन्यासत्वं संपादयन्नाह **यमिति।**
 यं संन्यासमिति प्राहुः प्रकर्षेण श्रेष्ठत्वेनाहुःसंन्यास एवात्यरेचयत्
@@ -289,10 +301,13 @@ Dhyana-yoga:
 फलसंकल्पत्यागसाम्यात्संन्यासात्संन्यासी च फलसंकल्पत्यागादेव
 चित्तविक्षेपाभावाद्योगी च भवत्येव स इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.2 That which is called Sannyasa (Jnana Yoga), know that to be Yoga
@@ -327,11 +342,13 @@ For, nobody who has not given up expectations can be a yogi.
 असंन्यस्तसङ्कल्पः one who has not renounced thoughts; योगी Yogi; भवति
 becomes; कश्चन anyone.Commentary Sankalpa is the working of the imagining faculty of the mind that makes plans for the future and guesses the results of plans so formed. No one can become a Karma Yogi who plans and schemes and expects fruits for his actions. No devotee of action who has not renounced the thought of the fruits of his actions can become a Yogi of steady mind. The thought of the fruits will certainly make the mind unsteady.Lord Krishna eulogises Karma Yoga here because it is the means or an external aid (Bahiranga Sadhana) to Dhyana Yoga. Karma Yoga is a steppingstone to Dhyana Yoga. It leads to the Yoga of Meditation in due course. In order to encourage the practice of Karna Yoga it is stated here that Karma Yoga is Sannyasa. (Cf.V.4)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.2।। हे अर्जुन ! लोग जिसको संन्यास कहते हैं, उसीको तुम योग समझो;
@@ -395,6 +412,7 @@ becomes; कश्चन anyone.Commentary Sankalpa is the working of the imagin
 
 ।।6.2।। हे पाण्डव ! जिसको (शास्त्रवित्) संन्यास कहते हैं, उसी को तुम योग
 समझो; क्योंकि संकल्पों को न त्यागने वाला कोई भी पुरुष योगी नहीं होता।।
+</details>
 </details>
 
 </div>

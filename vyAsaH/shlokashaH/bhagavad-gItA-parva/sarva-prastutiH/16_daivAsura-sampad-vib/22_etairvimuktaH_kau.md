@@ -23,8 +23,9 @@ title = "22 एतैर्विमुक्तः कौन्तेय"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.22॥**एतैः** कामक्रोधलोभैः **तमोद्वारैः** मद्विपरीतज्ञानहेतुभिः **विमुक्तः नर आत्मनः श्रेय आचरति।** लब्धमद्विषयज्ञानो मदानुकूल्ये प्रवर्तते **ततो** माम् एव **परां गतिं याति। शास्त्रानादरो ऽस्य नरकस्य प्रधानहेतुर् इत्य् आह --**
@@ -39,12 +40,14 @@ title = "22 एतैर्विमुक्तः कौन्तेय"
 
 16.22 One who has been 'released from these three' - from desire, wrath and greed which constitute the gates of darkness causing erroneous knowledge of Myself -, he works for the good of the self. Gaining knowledge of Myself, he endevaours to be inclined towards Me. From there, he attains the supreme goal, which is Myself. Sri Krsna now teaches that the main cause of this Kind of degeneration is lack of reverence for the Sastras:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.22॥ --,**एतैः विमुक्तः कौन्तेय तमोद्वारैः** तमसः नरकस्य दुःखमोहात्मकस्य द्वाराणि कामादयः तैः; एतैः **त्रिभिः** विमुक्तः **नरः आचरति** अनुतिष्ठति। किम् **आत्मनः श्रेयः।** यत्प्रतिबद्धः पूर्वं न आचचार; तदपगमात् आचरति। **ततः** तदाचरणात् **याति परां गतिं** मोक्षमपि इति॥ सर्वस्य एतस्य आसुरीसंपत्परिवर्जनस्य श्रेयआचरणस्य च शास्त्रं कारणम्। शास्त्रप्रमाणात् उभयं शक्यं कर्तुम्; न अन्यथा। अतः --,
 </details>
@@ -110,12 +113,14 @@ not otherwise. Hence,
 येन निरयपातः स्यात्; अधुना तत्प्रतिबन्धरहितः सन्नश्रेयो नाचरति
 श्रेयश्चाचरति तत ऐहिकं सुखमनुभूय सम्यग्धीद्वारा याति परां गतिं मोक्षम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.22॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -124,12 +129,14 @@ not otherwise. Hence,
 
 ॥16.22॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.21 -- 16.22॥ त्रिविधमिति। एतैरिति। यत कामादिकं त्रयं +++(N त्रितयम्)+++ नरकस्य द्वारं; तस्मात् एतत् त्यज़ेत्।
 </details>
@@ -138,12 +145,14 @@ not otherwise. Hence,
 
 16.21-22 Trividham etc. Etaih etc. Because the traid of desire etc., constitute the gate to the hell, therefore one should avoid that. What has been stated should not be neglected on the assumption that it is \[based on\] the human word. On the other hand, there is the authority of the eternal scripture on this subject. This is said \[here\] –
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.22॥ त्यागे च विशिष्टं फलमाह -- एतैर्नरकद्वारभूतैरित्यर्थः।
 </details>
@@ -154,19 +163,25 @@ not otherwise. Hence,
 सत्सङ्गगुणसम्पन्न तत्तत्सङ्गत्यागे एतैस्त्रिभिस्तमोद्वारैर्विमुक्तो नरः
 आत्मनः श्रेयो भजनादिकमाचरति; ततस्तेन परां गतिं याति प्राप्नोति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.22॥ त्यागे च विशिष्टफलमाह **-- एतैरिति।** तमसो नरकस्य
 द्वारभूतैरेतैस्त्रिभिः कामादिभिर्विमुक्तो नरः आत्मनः श्रेयःसाधनं
 तपोयोगादि कर्माचरति ततश्च मोक्षं प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.22 One who has been released from these threefold gates of darkness,
@@ -200,11 +215,13 @@ O Arjuna, works for the good of the self. Hence he reaches the supreme state.
 practises; आत्मनः for him; श्रेयः what is good; ततः and then; याति goes to; पराम् the Supreme; गतिम् Goal.Commentary When these gates to hell are abandoned; the path to salvation is made clear for the aspirant. He gets the company of sages; which leads to liberation. He gets spiritual instructions and practises them. He hears the scriptures; reflects;
 meditates and attains Selfrealisation.Tamodvara Gate to darkness leading to hell which is full of pain and delusion.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.22।। हे कुन्तीनन्दन ! इन नरकके तीनों दरवाजोंसे रहित हुआ जो मनुष्य
@@ -296,6 +313,7 @@ meditates and attains Selfrealisation.Tamodvara Gate to darkness leading to hell
 
 ।।16.22।। हे कौन्तेय ! नरक के इन तीनों द्वारों से विमुक्त पुरुष अपने
 कल्याण के साधन का आचरण करता है और इस प्रकार परा गति को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

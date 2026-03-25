@@ -24,8 +24,9 @@ title = "40 नेहाभिक्रमनाशोऽस्ति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 वक्ष्यमाण-बुद्धि-युक्तस्य कर्मणो माहात्म्यम् आह -  
@@ -50,12 +51,14 @@ title = "40 नेहाभिक्रमनाशोऽस्ति"
 2.40 Here, in Karma Yoga, there is no loss of 'Abhikrama' or of effort that has been put in; 'loss' means the loss of efficacy to bring about the fruits. In Karma Yoga if work is begun and left unfinished, and the continuity is broken in the middle, it does not remain fruitless, as in the case of works undertaken for their fruits. No evil result is acired if the continuity of work is broken. Even a little of this Dharma known as Karma Yoga or Niskama Karma (unselfish action without desire for any reward) gives protection from the great fear, i.e., the fear of transmigratory existence. The same purport is explained later thus:
 'Neither in this world nor the next, O Arjuna, there is annihilation for him' (6.40). But in works, Vedic and secular, when there is interruption in the middle, not only do they not yield fruits, but also there is accrual of evil. Now, Sri Krsna distinguishes the Buddhi or mental disposition concerned with those acts which constitute a means for attaining release from those which are concerned with the acts meant for gaining the desired objects:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.40॥  
   
@@ -199,12 +202,14 @@ mundance existence characterized by death, birth, etc.
 अशुद्धितारतम्यादेवानुष्ठानतारतम्योपपत्तेर्युक्तमुक्तंकर्मबन्धं
 प्रहास्यसि इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.40॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -213,12 +218,14 @@ mundance existence characterized by death, birth, etc.
 
 ॥2.40॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.41॥ नेहेति। इह +++(S K omit इह)+++ अस्यां बुद्धौ अतिक्रमेण अपराधेन प्रमादेन नाशो न भवति  
   
@@ -229,12 +236,14 @@ mundance existence characterized by death, birth, etc.
 
 2.40 Neha etc. Here in this determinate knowledge there arises no loss through transgression, an offence due to negligence; because negligence is \[itself\] absent there. And just as a burning oil in the boiler get cooled soon, due to a limited antity of sandal (put in it), in the same way due to this knowledge of Yoga-eventhough it is very little-the great danger in the form of the cycle of birth-and-death perishes completely. And this knowledge is not introduced as a new thing. Then what ;
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.40॥ सर्वतो योगे सुगमतामाह नेहाभिक्रमनाश इति। इह योगबुद्धौ धर्मस्य
 योऽभिक्रमः प्रारम्भस्तस्य नाशो नास्ति। नह्यङ्गोपक्रमे ध्वंसो
@@ -258,10 +267,13 @@ mundance existence characterized by death, birth, etc.
 कृतकर्मसाफल्यार्थं साङ्गत्वाय च भगवत्स्मरणं बोध्यतेयस्य स्मृत्या वि.पु.
 इत्यादिना तत्र साक्षाद्भगवदर्थं कृतानां कर्मणां कथं वैफल्यं भवेत्
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.40॥ ननु कृष्यादिवत्कर्मणां कदाचिद्विघ्नबाहुल्येन फले
 व्याभिचारान्मन्त्राद्यङ्गवैगुण्येन च प्रत्यवायसंभवात्कुतः कर्मयोगेन
@@ -271,10 +283,13 @@ mundance existence characterized by death, birth, etc.
 स्वल्पमप्युपक्रममात्रमपि कृतं महतो भयात्संसारान्त्रायते रक्षति नतु
 काम्यकर्मवत्किंचिदङ्गवैगुण्यादिना नैष्फल्यमस्येत्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.40 Here, there is no loss of effort, nor any accrual of evil. Even a little of this Dharma (called Karma Yoga) protects a man from the great fear.
@@ -311,11 +326,13 @@ But it is not so in the case of Karma Yoga because every action causes immediate
 The farmer may till the land; plough and sow the seed but he may not get a crop if there is no rain. This is not so in Karma Yoga. There is no uncertainty at all. Further; there is no chance of any harm coming out of it. In the case of medical treatment great harm will result from the doctors injudicious treatment if he uses a wrong medicine. But it is not so in the case of Karma Yoga. Anything done; however little it may be;
 in this path of Yoga; the Yoga of action; saves one from great fear of being caught in the wheel of birth and death. Lord Krishna here extols Karma Yoga in order to create interest in Arjuna in this Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.40।। मनुष्यलोकमें इस समबुद्धिरूप धर्मके आरम्भका नाश नहीं होता, इसके
@@ -426,6 +443,7 @@ in this path of Yoga; the Yoga of action; saves one from great fear of being cau
 
 ।।2.40।। इसमें क्रमनाश और प्रत्यवाय दोष नहीं है। इस धर्म (योग) का अल्प
 अभ्यास भी महान् भय से रक्षण करता है।।
+</details>
 </details>
 
 </div>

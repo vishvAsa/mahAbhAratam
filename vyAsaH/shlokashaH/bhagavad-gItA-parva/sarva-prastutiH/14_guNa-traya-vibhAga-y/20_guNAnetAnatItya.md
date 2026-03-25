@@ -23,8 +23,9 @@ title = "20 गुणानेतानतीत्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.20॥ अयं देही देहसमुद्भवान् देहाकारपरिणतप्रकृतिसमुद्भवान् एतान् सत्त्वादीन् त्रीन् गुणान् अतीत्य तेभ्यश् च अन्यम्; ज्ञानैकाकारम् आत्मानम् पश्यन् जन्ममृत्युजरादुःखैर् विमुक्तो ऽमृतम् आत्मानम् अनुभवत्य् एष मद्भाव इत्यर्थः। अथ गुणातीतस्य स्वरूपसूचनाचारप्रकारं गुणात्ययहेतुं च पृच्छन् अर्जुन उवाच --
@@ -39,12 +40,14 @@ title = "20 गुणानेतानतीत्य"
 
 14.20 The embodied self - 'crossing beyond these three Gunas,' the Sattva and the rest, which 'arise in the body,' i.e., spring from Prakrti transformed into the form of the body - perceives the self as different from the Gunas and as of the form of knowledge only. Released thus from birth, death, old age and sorrow, It experiences the immortal self. This is what is meant by My likeness. Arjuna now wants to know about the characteristics of one who has transcended the Gunas and the means of such transcendence:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.20॥ --,**गुणान् एतान्** यथोक्तान् **अतीत्य** जीवन्नेव अतिक्रम्य मायोपाधिभूतान् **त्रीन् देही देहसमुद्भवान्** देहोत्पत्तिबीजभूतान् **जन्ममृत्युजरादुःखैः** जन्म च मृत्युश्च जरा च दुःखानि च जन्ममृत्युजरादुःखानि तैः जीवन्नेव **विमुक्तः** सन् विद्वान् **अमृतम्** **अश्नुते;** एवं मद्भावम् अधिगच्छति इत्यर्थः॥ जीवन्नेव गुणान् अतीत्य अमृतम् अश्नुते इति प्रश्नबीजं प्रतिलभ्य; अर्जुन उवाच --,**अर्जुन उवाच
 --,**
@@ -115,12 +118,14 @@ Immortality, even in this life, by going beyond the alities-
 दुःखैश्चाध्यात्मिकादिभिर्मायामयैर्विमुक्तो जीवन्नेव तत्संबन्धशून्यः सन्
 विद्वानमृतं मोक्षं मद्भावमन्ते प्राप्नोति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.19 -- 14.20॥ परिणामिकर्त्तारं गुणेभ्योऽन्यं न पश्यति। अन्यथा यदा
 पश्यः पश्यते रुक्मवर्णं कर्तारमीशं पुरुषं ब्रह्मयोनिम् \[मुण्ड.3।1।3\]
@@ -136,12 +141,14 @@ Immortality, even in this life, by going beyond the alities-
 कर्तृत्वाभावे। मोक्षधर्मे परमेश्वरस्य कर्तृत्वमुक्तं तद्विरोधश्चेति
 वाक्यशेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.16 -- 14.20॥ कर्मण इत्यादि अश्नुते इत्यन्तम्। अत्र केचिदसंबद्धाः श्लोकाः कल्पिताः; पुनरुक्तत्वात् ( पुनरुक्तार्थत्वात्) ते त्याज्या एव। एतद्गुणातीतवृत्तिस्तु +++(N गुणातीतश्रुतिस्तु)+++ मोक्षायैव कल्पते।
 </details>
@@ -150,12 +157,14 @@ Immortality, even in this life, by going beyond the alities-
 
 14.16-20 Karmanah etc. upto asnute. Here, there are certain unconnected verses that have been concocted. They are of the nature of repetition, and hence they have to be necessarily rejected. A mode of life transcending these Strands turn to be nothing but emancipation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.19 -- 14.20॥ एवं गुणसर्गभेदोक्तौ पुरुषस्य सर्वस्य
 बन्धलीलामुपपाद्येदानीं तद्विवेकतो गुणात्ययद्वारा मोक्षलीलामाहू
@@ -178,20 +187,26 @@ Immortality, even in this life, by going beyond the alities-
 सह \[तै.उ.2।1\] इति श्रुत्युक्तरीत्या देहीतिपदादिदं व्यज्यते अन्यथा
 देहवत्पदं व्यर्थं स्यादिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.20॥ ततश्च गुणकृतसर्वानर्थनिवृत्त्या कृतार्थो भवतीत्याह **--
 गुणानिति**। देहाद्याकारः समुद्भवः परिणामो येषां ते देहसमुद्भवाः
 तानेतांस्त्रीनपि गुणानतीत्यातिक्रम्य तत्कृतैर्जन्मादिभिर्विमुक्तः
 सन्नमृतमश्नुते ब्रह्मानन्दं प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.20 The embodied self, crossing beyond these three Gunas which arise in the body, and freed from birth, death, age and pain, attains immortality.
@@ -226,11 +241,13 @@ and attains to immortality.
 अमृतम् immortality; अश्नुते attains to.Commentary Just as a river is absorbed in the ocean; so also he who has; while still alive; gone beyond the alities which form the seed from which all bodies have sprung and of which they are composed; is absorbed in Me. He ever enjoys the bliss of the Eternal. He attains release or Moksha. He attains to My Being.When the Lord said that the wise man crosses beyond the three alities and attains immortality; Arjuna became inspired with the desire of learning more about it. Just as he has asked a estion about the sage of steady wisdom in chapter II; verse 54; he now asks Lord Krishna about the characteristics of a sage who has crossed over the three alities.
 How does he act What is his conduct or behaviour How has he gone beyond the alities
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.20।। देहधारी (विवेकी मनुष्य) देहको उत्पन्न करनेवाले इन तीनों गुणोंका
@@ -359,6 +376,7 @@ How does he act What is his conduct or behaviour How has he gone beyond the alit
 ।।14.20।। यह देही पुरुष शरीर की उत्पत्ति के कारणरूप तीनों गुणों से अतीत
 होकर जन्म, मृत्यु, जरा और दु:खों से विमुक्त हुआ अमृतत्व को प्राप्त होता
 है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "29 समोऽहं सर्वभूतेषु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.29॥ देवतिर्यङ्मनुष्यस्थावरात्मना स्थितेषु जातितश् च आकारतः स्वभावतो ज्ञानतश् च अत्यन्तोत्कृष्टापकृष्टरूपेण वर्तमानेषु सर्वेषु **भूतेषु** समाश्रयणीयत्वेन **समो ऽहम्** अयं जात्याकारस्वभावज्ञानादिभिर् निकृष्ट इति समाश्रयणे **न मे द्वेष्यः** अस्त्य् उद्वेजनीयतया न त्याज्यो ऽस्ति तथा समाश्रितत्वातिरेकेण जात्यादिभिर् अत्यन्तोत्कृष्टो ऽयम् इति तद्युक्ततया समाश्रयणे **न** कश्चित् **प्रियः** अस्ति न सङ्ग्राह्यो ऽस्ति। अपि त्व् अत्यर्थमत्प्रियत्वेन मद्भजनेन विना आत्मधारणालाभान् मद्भजनैकप्रयोजना **ये मां** भजन्ते **ते** जात्यादिभिर् उत्कृष्टा अपकृष्टा वा मत्समानगुणवद्यथासुखं मय्य् एव वर्तन्ते अहम् अपि तेषु मदुत्कृष्टेष्व् इव वर्ते।
@@ -39,12 +40,14 @@ title = "29 समोऽहं सर्वभूतेषु"
 
 9.29 Being a refuge for all, I am the same to all creation, be they gods, animals, men or immovables, who exist differentiated from the highest to the lowest according to their birth, form, nature and knowledge. With regard to those seeking refuge, none is hateful because of inferiority in status by birth, form, nature, knowledge etc. No one is discarded as an object of odium. Likewise, it is not that one who has resorted to Me is dear to Me on account of any consideration like birth, status etc. That he has taken refuge in Me is the only consideration. The meaning is no one is accepted as a refuge for reasons like birth. But those who worship Me as their sole objective I like, because I am exceedingly dear to them, and because they find it impossible to sustain themselves without My worship. So they abide in Me, irrespective of whether they are exalted or humble by birth etc. They abide in Me, as if they possess alities eal to Mine. I also abide in them, as if they are My superiors. Moreover:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.29॥ --,**समः** तुल्यः **अहं सर्वभूतेषु। न मे द्वेष्यः अस्ति न प्रियः।** अग्निवत् अहम् -- दूरस्थानां यथा अग्निः शीतं **न** अपनयति; समीपम् उपसर्पतां अपनयति तथा अहं भक्तान् अनुगृह्णामि; न इतरान्। **ये भजन्ति तु माम्** ईश्वरं **भक्त्या मयि ते** -- स्वभावत एव; न मम रागनिमित्तम् मयि वर्तन्ते। **तेषु च अपि अहं** स्वभावत एव वर्ते; न इतरेषु। न एतावता तेषु द्वेषो मम्॥ श्रृणु मद्भक्तेर्माहात्म्यम् --,
 </details>
@@ -144,12 +147,14 @@ to Me:'
 कुत्रचित्। न वा द्वेष्मि कंचित्। सामग्रीमर्यादया जायमानस्य
 कार्यस्यापर्यनुयोज्यत्वात् वह्निवत्कल्पतरुवच्चावैषम्यं व्याख्येयम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.29॥ तर्हि स्नेहादिमत्त्वादल्पभक्तस्यापि कस्यचिद्बहुफलं ददासि;
 विपरीतस्यापि कस्यचिद्विपरीतमित्यत आह -- समोऽहमिति। तर्हि न
@@ -179,12 +184,14 @@ to Me:'
 भजनाभावेऽपि तद्वशत्वस्वाभाव्यादित्यत आह **तदि**ति। यद्यपीति शेषः। अत्र
 दृष्टान्तं प्रमाणं चाह -- **उद्धवादिवदि**ति। अबुद्धिपूर्वं यो वशः सः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.29 -- 9.31॥ सम इत्यादि प्रणश्यतीत्यन्तम्। प्रतिजाने इति। युक्तियुक्तोऽयमर्थो भगवत्प्रतिज्ञातत्वात् सुष्ठुतमां दृढो भवति।
 </details>
@@ -193,12 +200,14 @@ to Me:'
 
 9.29 See Comment under 9.31
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.29॥ ननु यदि भक्तेभ्य एव मुक्तिं ददासि नाभक्तेभ्यस्तर्हि तवापि किं
 रागद्वेषादिकृतवैषम्यम् नहि नहीत्याह -- समोऽहमिति। सर्वभूतेषु उच्चनीचेषु
@@ -223,10 +232,13 @@ to Me:'
 क्रीडारूपं ज्ञात्वा भजन्ति ते स्वभजनात्मकधर्मेण मयि तिष्ठन्ति; तेष्वहं
 तत्कृतितुष्टस्तिष्ठामि; तेन न वैषम्यमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.29॥ यदि भक्तेभ्य एव मोक्षं ददासि नाभक्तेभ्यश्च तर्हि तवापि किं
 रागद्वेषादिकृतं वैषम्यमस्ति; नेत्याह **-- सम इति।** समोऽहं सर्वेष्वपि
@@ -236,10 +248,13 @@ to Me:'
 कल्पवृक्षस्य; तथैव भक्तपक्षपातिनोऽपि मम न वैषम्यं किंतु मद्भक्तेरेवं
 महिमेति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.29 I am the same to all creation. There is none hateful or dear to Me.
@@ -277,11 +292,13 @@ none has He favoured. He is the enemy of none. He is the partial lover of none. 
 nearer than his hands and feet.I am like fire. Just as fire removes cold from those who draw near it but does not remove the cold from those who keep away from it; even so I bestow My grace on My devotees; but not owing to any sort of attachment on My part. Just as the light of the sun; though pervading everywhere; is reflected only in a clean mirror but not in a pot; so also I; the Supreme Lord; present everywhere;
 manifest Myself only in those persons from whose minds all kinds of impurities (which have accumulated there on account of ignorance) have been removed by their devotion.The sun has neither attachment for the mirror nor hatred for the pot. The Kalpavriksha has neither hatred nor love for people. It bestows the desired objects only on those who go near it. (Cf.VII.17XII.14and20)Now hear the glory of devotion to Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.29।। मैं सम्पूर्ण प्राणियोंमें समान हूँ। उन प्राणियोंमें न तो कोई
@@ -379,6 +396,7 @@ manifest Myself only in those persons from whose minds all kinds of impurities (
 
 ।।9.29।। मैं समस्त भूतों में सम हूँ; न कोई मुझे अप्रिय है और न प्रिय;
 परन्तु जो मुझे भक्तिपूर्वक भजते हैं, वे मुझमें और मैं भी उनमें हूँ।।
+</details>
 </details>
 
 </div>

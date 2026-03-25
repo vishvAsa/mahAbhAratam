@@ -23,8 +23,9 @@ title = "46 यदि मामप्रतीकारमशस्त्रम�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥1.46॥ अन्तिमश्लोकव्याख्या दृश्या।
@@ -39,12 +40,14 @@ title = "46 यदि मामप्रतीकारमशस्त्रम�
 
 1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous. His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.46 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -98,12 +101,14 @@ starts from 2.10.
 श्रीमत्परमहंसपरिव्राजकाचार्यविश्वेश्वरसरस्वतीपादशिष्यसूनुमधुसूदनसरस्वतीविरचितायां  
 श्रीमद्भगवद्गीतागूढार्थदीपिकायां प्रथमोऽध्यायः॥1॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.46॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -114,21 +119,25 @@ starts from 2.11.
 ॥1.46॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
-
-</div>
-
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
-
-<details><summary>मूलम्</summary>
-
-॥1.46॥ No commentary.
 </details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
+
+॥1.46॥ No commentary.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
+
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.45 1.46॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -142,11 +151,13 @@ starts from 2.11.
 पूर्वकृतव्यवसायप्रायश्चित्तरूपं भवेदित्यर्थः। अजिघांसन्तं मां हनिष्यन्ति
 चेत्तदा क्षेमरूपं भवेत् तव सन्निधौ मरणे च क्षेमतरं भवेदिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.46 If the well-armed sons of Dhrtarastra should slay me in battle,
@@ -179,11 +190,13 @@ unresisting and unarmed, that will be better for me.
 शस्त्रपाणयः with weapons in hand; धार्तराष्ट्राः the sons of Dhritarashtra; रणे in the battle हन्युः should slay; तत् that; मे of me;
 क्षेमतरम् better; भवेत् would be.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.46।। अगर ये हाथों में शस्त्र-अस्त्र लिये हुए धृतराष्ट्र के पक्षपाती
@@ -300,6 +313,7 @@ unresisting and unarmed, that will be better for me.
 
 ।।1.46।। यदि मुझ शस्त्ररहित और प्रतिकार न करने वाले को ये शस्त्रधारी कौरव
 रण में मारें, तो भी वह मेरे लिये कल्याणकारक होगा।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "07 ममैवांशो जीवलोके"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.7॥ इत्थम् उक्तस्वरूपः **सनातनो मम अंश एव** सन् कश्चिद् अनादिकर्मरूपाविद्यावेष्टनतिरोहितस्वरूपो **जीवभूतो जीवलोके** वर्तमानो देवमनुष्यादिप्रकृतिपरिणामविशेषशरीरस्थानि **मनःषष्ठानि इन्द्रियाणि कर्षति।** कश्चिच् च पूर्वोक्तमार्गेण अस्या अविद्याया मुक्तः स्वेन रूपेण अवतिष्ठते। जीवभूतस् त्व् अतिसङ्कुचितज्ञानैश्वर्यः कर्मलब्धप्रकृतिपरिणामविशेषरूप शरीरस्थानाम् इन्द्रियाणां मनःषष्ठानाम् ईश्वरस् तानि कर्मानुगुणम् इतस् ततः कर्षति।
@@ -39,12 +40,14 @@ title = "07 ममैवांशो जीवलोके"
 
 15.7 That self, whose nature has been described thus, though constituting an everlasting part of Myself, becomes the bound individual self in the world of life. Covered by ignorance in the form of beginningless Karma, It attracts to Itself the five senses and the mind, which are located in the bodies of gods, men etc., and which are particular transformations of Prakrti. Some parts of Myself (i.e., the selves), becoming free from ignorance (Avidya) in the aforesaid manner, remain in their own intrinsic nature. But the bound individual self is very much contracted in power and knowledge. The individual self is the lord of the senses and the mind in bodies, and forms a bound individual in combination with a particular transformation of the Prakrti through Karma. Thus Karma attracts the selves hither and thither according to its nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.7॥ --,**ममैव** परमात्मनः नारायणस्य; **अंशः** भागः अवयवः एकदेशः इति अनर्थान्तरं  
 **जीवलोके** जीवानां लोके संसारे  
@@ -259,12 +262,14 @@ etc. When (does it draw the organs);
 प्रकृतेरज्ञानादाकर्षति विषयग्रहणयोग्यतयाविर्भावयतीत्यर्थः। अतो
 ज्ञानादनावृत्तावप्यज्ञानादावृत्तिर्नानुपपन्नेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.7॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -273,12 +278,14 @@ etc. When (does it draw the organs);
 
 ॥15.7॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.7॥ ममेति। ब्रह्मण एवायमंश इति।  
 अज्ञानधर्मतया परिपूर्णस्य असंवेदनात् चेतनताऽनिवृत्तेश् च  
@@ -293,12 +300,14 @@ etc. When (does it draw the organs);
 
 15.7 Mama etc. The individual Soul is a portion just of the Brahman only : Because, due to the attribute (or, nature) viz., the nescience, the Self does not realise Its all pervaisveness and because the Consciousness is also not absent, It is figuratively referred to as portion \[of the Brahman\]. For, a real apportioning is not possible \[in the Absolute\]. For the scripture also says : 'In the case of the Brahman (the Absolute), even the particular manifestation (or a particular space) does not preclude Its all-comprehensive nature'. This figurative usage may be resorted to wherever reired. Hence there is no room for any difference of opinion.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.7॥ अयमपि पुरुषो मे धाम ममैव सच्चिदानन्दात्मकस्य
 पुरुषोत्तमस्यैवांशोऽणुः केवलचिदात्मा स्वेच्छया पृथग्भावितः सनातनो
@@ -408,10 +417,13 @@ etc. When (does it draw the organs);
 जीवो मूलभूतजीवांशः स स्वांशं तत्र नयति यत्र तदिच्छा। अतएव तमुत्क्रामन्तं
 प्राणोऽनुत्क्रामति \[बृ.उ.4।4।2\] इत्यादिश्रुतिः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.7॥ ननु च त्वदीयं धाम प्राप्ताः सन्तो यदि न निवर्तन्ते तर्हिसति
 संपद्य न विदुः सति संपद्यामहे इत्यादिश्रुतेः सुषुप्तिप्रलयसमये
@@ -427,10 +439,13 @@ etc. When (does it draw the organs);
 स्थितानि स्वोपाधिभूतानीन्द्रियाण्याकर्षति। विदुषां तु
 शुद्धस्वरूपप्राप्तेर्नावृत्तिरिति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.7 An everlasting part of Myself, having become the bound self in the world of life, attracts the senses, of which the mind is the sixth, and which abide in Prakrti.
@@ -479,11 +494,13 @@ The illusion of difference is due to the limiting adjunct or principle
 viz.; the five organs of knowledge; the five organs of action; the five vital airs (Prana; Apana; Vyana; Samana and Udana); the mind; intellect;
 Chitta (the subconscious or the unconscious mind); and egoism. We will have to conclude that the words the five senses and the mind point to the collection of the remaining thirteen principles also.Amsa This does not mean here a particle or portion which has been cut out. It is like the Amsar of the ether in the pot the ether is not cut out but still remains the whole ether. (Cf.XIV.3)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.7।। इस संसारमें जीव बना हुआ आत्मा मेरा ही सनातन अंश है; परन्तु वह
@@ -740,6 +757,7 @@ Chitta (the subconscious or the unconscious mind); and egoism. We will have to c
 ।।15.7।। इस जीव लोक में मेरा ही एक सनातन अंश जीव बना है। वह प्रकृति में
 स्थित हुआ (देहत्याग के समय) पाँचो इन्द्रियों तथा मन को अपनी ओर खींच लेता
 है अर्थात् उन्हें एकत्रित कर लेता है।।
+</details>
 </details>
 
 </div>

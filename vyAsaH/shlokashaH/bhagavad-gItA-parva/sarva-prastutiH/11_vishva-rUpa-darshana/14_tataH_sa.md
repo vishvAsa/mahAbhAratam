@@ -23,8 +23,9 @@ title = "14 ततः स"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.14॥**ततः धनञ्जयः** महाश्चर्यस्य कृत्स्नस्य जगतः स्वदेहैकदेशेन आश्रयभूतं कृत्स्नस्य प्रवर्तयितारं च आश्चर्यतमानन्तज्ञानादिकल्याणगुणगणं **देवं** दृष्ट्वा **विस्मयाविष्टो हृष्टरोमा शिरसा** दण्डवत् **प्रणम्य कृताञ्जल्य् अभाषत।**
@@ -39,12 +40,14 @@ title = "14 ततः स"
 
 11.14 Then Arjuna became overcome with amazement on seeing the Lord, at a point of whose being this wonderful universe in its entirely stands supported, who enables all things to act, and who is the possesor of a host of auspicious attributes like omniscience. With his hairs standing erect, he bowed down like a stick, and with folded hands, he spoke thus:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.14॥ --,**ततः** तं दृष्ट्वा **सः** विस्मयेन आविष्टः **विस्मयाविष्टः** हृष्टानि रोमाणि यस्य **सः** अयं **हृष्टरोमा** च अभवत् **धनंजयः।** **प्रणम्य** प्रकर्षेण नमनं कृत्वा प्रह्वीभूतः सन् **शिरसा देवं** विश्वरूपधरं **कृताञ्जलिः** नमस्कारार्थं संपुटीकृतहस्तः सन् **अभाषत** उक्तवान्॥ कथम् यत् त्वया दर्शितं विश्वरूपम्; तत् अहं पश्यामीति स्वानुभवमाविष्कुर्वन् अर्जुन उवाच --,**अर्जुन उवाच --,**
 </details>
@@ -117,12 +120,14 @@ You'-thus expressing his own experience,
 तादृशश्चित्तचमत्कारोऽपि तद्भेदानध्यवसायात्परिपोषं गतः
 परमानन्दास्वादरूपेणाद्भुतरसो भवतीति सूचितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.14॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -131,12 +136,14 @@ You'-thus expressing his own experience,
 
 ॥11.14॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.14॥ No commentary.
 </details>
@@ -145,12 +152,14 @@ You'-thus expressing his own experience,
 
 11.14 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.14॥ तत इति दर्शनानन्तरं धनञ्जयः अभाषत। स्पष्टमन्यत्।
 </details>
@@ -163,19 +172,25 @@ You'-thus expressing his own experience,
 मस्तकेन देवं पूज्यं नमस्करणीयं प्रणम्य नमस्कृत्य कृताञ्जलिः विनीतः सन्
 अभाषत विज्ञप्तिं कृतवान्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/14_tataH_sa.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/14_tataH_sa.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.14॥ एवं दृष्ट्वा किं कृतवानित्यत आह **-- तत इति।** ततो दर्शनानन्तरं
 विस्मयेनाविष्टो व्याप्तः सन्हृष्टान्युत्पुलकितानि रोमाणि यस्य स धनंजयो
 देवं तमेव शिरसा प्रणम्य कृताञ्जलिः संपुटीकृतहस्तो भूत्वाभाषत उक्तवान्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.14 Then he, Arjuna, overcome with amazement, his hairs standing erect, bowed his head to the Lord, and with folded hands spoke.
@@ -210,11 +225,13 @@ Dhananjaya (Arjuna) with his head bowed to the God and with folded palms spoke \
 with (his) head; देवम् the God; कृताञ्जलिः with joined palms; अभाषत
 spoke.Commentary Tatah Then; having seen the Cosmic Form.Arjuna joined his palms in order to do prostration to the Cosmic Form. The great hero had attained true humility which the bowed head and joined palms represented; and which is the essential ingredient of devotion.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/14_tataH_sa.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.14।। भगवान् के विश्वरूपको देखकर अर्जुन बहुत चकित हुए और आश्चर्यके
@@ -251,6 +268,7 @@ spoke.Commentary Tatah Then; having seen the Cosmic Form.Arjuna joined his palms
 ।।11.14।। उसके उपरान्त वह आश्चर्यचकित हुआ हर्षित रोमों वाला (जिसे रोमांच
 का अनुभव हो रहा हो) धनंजय अर्जुन विश्वरूप देव को (श्रद्धा भक्ति सहित)
 शिर से प्रणाम करके हाथ जोड़कर बोला।।
+</details>
 </details>
 
 </div>

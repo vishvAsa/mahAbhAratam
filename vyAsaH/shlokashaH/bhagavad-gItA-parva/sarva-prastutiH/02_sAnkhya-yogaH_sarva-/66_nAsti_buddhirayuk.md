@@ -23,8 +23,9 @@ title = "66 नास्ति बुद्धिरयुक्तस्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.66॥ मयि सन्न्यस्त-मनो-रहितस्य  
@@ -45,12 +46,14 @@ title = "66 नास्ति बुद्धिरयुक्तस्य"
 
 2.66 In him who does not focus his mind on Me but is engaged only in the control of senses by his own exertion, the Buddhi or the right disposition that is concerned with the pure self never arises. Therefore he fails in the practice of meditation on the self. In one who cannot think of the pure self, there arises the desire for sense objects; in him serenity does not arise. How can eternal and unsurpassed bliss be generated in him who is not serene but is attached to sense-objects; \[The idea is that without the aid of devotion to God, the effort to control the senses by one's will power alone will end in failure.\] Sri Krsna speaks again of the calamity that befalls one who does not practise the control of the senses in the way prescribed above:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.66॥  
   
@@ -163,12 +166,14 @@ wisdom:
 वेदान्तवाक्यजन्या ब्रह्मात्मैक्यसाक्षात्कृतिः।
 अशान्तस्यात्मसाक्षात्कारशून्यस्य कुतः सुखं मोक्षानन्द इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.66॥ प्रसादाभावे दोषमाहोत्तराभ्यां श्लोकाभ्याम् न हि प्रसादाभावे
 युक्तिश्चित्तनिरोधः। अयुक्तस्य च बुद्धिः सम्यग्ज्ञानं च नास्ति।
@@ -195,12 +200,14 @@ wisdom:
 संसारिभिरलभ्यं परमं सुखं चेति ज्ञापयितुं प्रसङ्गादुक्तम्। एतदेवावेक्ष्य
 भाष्यकृता ब्रह्मादिपदादित्याद्युक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.66 2.70॥ रागद्वेषेत्यादि प्रतिष्ठितेत्यन्तम्। यस्तु मनसो नियामकः स विषयान् सेवमानोऽपि न क्रोधादिकल्लोलैरभिभूयते इति स एव स्थितप्रज्ञो योगीति तात्पर्यम्।
 </details>
@@ -209,12 +216,14 @@ wisdom:
 
 2.66 See Comment under 2.68
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.66॥ मनोनिग्रहस्य स्थितप्रज्ञता साधनत्वं व्यतिरेकमुखेनोपपादयति
 नास्तीति। अयुक्तस्यासतो निरोधयोगरहितस्य बुद्धिरेका व्यवसायात्मिका न
@@ -235,10 +244,13 @@ wisdom:
 तापरहितस्य सुखं साक्षात्सम्बन्धात्मकभजनानन्दानुभवः कुतः स्यात्
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.66॥ इन्द्रियनिग्रहस्य स्थितप्रज्ञतासाधनत्वं
 व्यतिरेकमुखेनोपपादयति **नास्तीति।** अयुक्तस्यावशीकृतेन्द्रियस्य नास्ति
@@ -248,10 +260,13 @@ wisdom:
 चाभावयत आत्मध्यानमकुर्वतः शान्तिरात्मनि चित्तोपरतिः। अशान्तस्य कुतः सुखं
 मोक्षानन्द इत्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.66 There is no Buddhi for the unintegrated, nor for him is there contemplation of the self, and for him without contemplation of the self, there is no peace; and for one lacking peace, where is happiness;
@@ -284,11 +299,13 @@ and peace is not for one who does not concentrate; wherefrom could happiness com
 2.66 न not; अस्ति is; बुद्धिः knowledge (of the Self); अयुक्तस्य of the unsteady; न not; च and; अयुक्तस्य of the unsteady; भावना meditation; न
 not; च and; अभावयतः of the unmeditated; शान्तिः peace; अशान्तस्य of the peaceless; कुतः whence; सुखम् happiness.Commentary The man who cannot fix his mind in meditation cannot have knowledge of the Self. The unsteady man cannot practise meditation. He cannot have even intense devotion to Selfknowledge nor can he have burning longing for liberation or Moksha. He who does not practise meditation cannot possess peace of mind. How can the man who has no peace of mind enjoy happinessDesire or Trishna (thirsting for senseobjects) is the enemy of peace. There cannot be an iota or tinge of happiness for a man who is thirsting for sensual objects. The mind will be ever restless; and will be hankering for the objects. Only when this thirsting dies; does man enjoy peace. Only then can he meditate and rest in the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.66।। जिसके मन-इन्द्रियाँ संयमित नहीं हैं, ऐसे मनुष्यकी
@@ -329,6 +346,7 @@ not; च and; अभावयतः of the unmeditated; शान्तिः pe
 ।।2.66।। (संयमरहित) अयुक्त पुरुष को (आत्म) ज्ञान नहीं होता और अयुक्त को
 भावना और ध्यान की क्षमता नहीं होती भावना रहित पुरुष को शान्ति नहीं मिलती
 अशान्त पुरुष को सुख कहाँ
+</details>
 </details>
 
 </div>

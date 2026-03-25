@@ -23,8 +23,9 @@ title = "25 लभन्ते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.25॥**छिन्नद्वैधाः** शीतोष्णादिद्वन्द्वैर् विमुक्ताः **यतात्मानः** आत्मन्य् एव नियमितमनसः **सर्वभूतहिते रताः** आत्मवत् सर्वेषां भूतानां हितेषु निरताः **ऋषयः** द्रष्टार आत्मावलोकनपरा ये एवम्भूतास् ते **क्षीणा**शेषात्मप्राप्तिविरोधि**कल्मषा ब्रह्मनिर्वाणं लभन्ते। उक्तगुणानां ब्रह्म अत्यन्तसुलभम् इत्याह**
@@ -39,12 +40,14 @@ title = "25 लभन्ते"
 
 5.25 The sages are seers who are devoted to the vision of the self. For them the pairs of opposites are annulled; i.e., they are freed from pairs of opposites like cold and heat, etc. 'They have their minds well subdued,' i.e., their minds are directed to the self. 'They are devoted to the welfare of all beings,' i.e., they are interested in the welfare of all beings like their own selves. Those persons who are like this have all their impurities, which are incompatible with the attainment of the self, annulled, and they attain to the bliss of the Brahman. For those possessing the characteristics mentioned above, Sri Krsna now teaches that the Brahman is easy to attain.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.25॥ **लभन्ते ब्रह्मनिर्वाणं** मोक्षम् **ऋषयः** सम्यग्दर्शिनः संन्यासिनः **क्षीणकल्मषाः** क्षीणपापाः निर्दोषाः **छिन्नद्वैधाः** छिन्नसंशयाः **यतात्मानः** संयतेन्द्रियाः **सर्वभूतहिते रताः** सर्वेषां भूतानां हिते आनुकूल्ये रताः अहिंसका इत्यर्थः॥ किञ्च
 </details>
@@ -110,12 +113,14 @@ attain; brahma-nirvanam, absorption in Brahman, Liberation. Further,
 एकत्वमनुपश्यतः॥ इति श्रुतेः। बहुवचनंतद्यो यो देवानाम्
 इत्यादिश्रुत्युक्तनियमप्रदर्शनार्थम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.25॥ पापक्षयाच्चैतद्भवतीत्याह लभन्त इति। क्षीणकल्मषा भूत्वा
 छिन्नद्वैधा यतात्मानः। द्वेधा भावो द्वैधम् संशयो विपर्ययो वा। तच्चोक्तम्
@@ -145,12 +150,14 @@ attain; brahma-nirvanam, absorption in Brahman, Liberation. Further,
 क्षीणकल्मषत्वायतात्मत्वछिन्नद्वैधत्वानां हेतुहेतुमद्भावे प्रमाणमाह
 **तच्चे**ति। व्यस्ते एवैते पदे इत्याह **छिन्ने**ति नियतमनस इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.25॥ लभन्ते इति। एतच्च तैः प्राप्यं येषां भेदसंशयरूपौ ग्रन्थी विनष्टौ।
 </details>
@@ -159,12 +166,14 @@ attain; brahma-nirvanam, absorption in Brahman, Liberation. Further,
 
 5.25 Labhante etc. This \[goal\] is however possible to attain for those in whom the double knots in the form of dualism and doubt have been cut off.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.25॥ तत्र सतामाचरणं प्रमाणयति लभन्त इति। ऋषयो मन्त्रद्रष्टारः
 सर्वज्ञा भूत्वा छिन्नसंशया यतात्मानो ब्रह्मानन्दं लभन्ते।
@@ -182,19 +191,25 @@ attain; brahma-nirvanam, absorption in Brahman, Liberation. Further,
 गोपीरूपाः। यतात्मानो वृन्दावने पक्ष्यादिरूपा मुनयः। सर्वभूतहिते रताः
 पुलिन्द्यः। एवं भाववन्तः सर्वेऽपि लभन्त इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/25_labhante.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/25_labhante.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.25॥ किंच **लभन्त इति।** ऋषयः सम्यग्दर्शिनः क्षीणं कल्मषं येषां
 छिन्नं द्वैधं संशयो येषां यत संयत आत्मा चित्तं येषां सर्वेषां भूतानां
 हिते रताः कृपालवस्ते ब्रह्मनिर्वाणं मोक्षं लभन्ते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.25 The sages who are free from the pairs of opposites, whose minds are well subdued and who are devoted to the welfare of all beings, become cleansed of all impurities and attain the bliss of the Brahman.
@@ -226,11 +241,13 @@ attain; brahma-nirvanam, absorption in Brahman, Liberation. Further,
 क्षीणकल्मषाः those whose sins are destroyed; छिन्नद्वैधाः whose dualities are torn asunder; यतात्मानः those who are selfcontrolled;
 सर्वभूतहिते in the welfare of all beings; रताः rejoicing.Commentary Sins are destroyed by the performance of Agnihotra (a daily obligatoyr ritual) and other Yajnas (vide notes on verse III. 13) without expectation of their fruits and by other selfless services. The duties vanish by constant meditation on the nondual Brahman. He never hurts others in thought; word and deed; and he is devoted to the welfare of all beings as he feels that all beings are but his own Self. (Cf.XII.4)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.25।। जिनका शरीर मन-बुद्धि-इन्द्रियोंसहित वशमें है, जो सम्पूर्ण
@@ -285,6 +302,7 @@ attain; brahma-nirvanam, absorption in Brahman, Liberation. Further,
 
 ।।5.25।। वे ऋषिगण मोक्ष को प्राप्त होते हैं - जिनके पाप नष्ट हो गये हैं,
 जो छिन्नसंशय, संयमी और भूतमात्र के हित में रमने वाले हैं।।
+</details>
 </details>
 
 </div>

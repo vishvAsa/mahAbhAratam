@@ -23,8 +23,9 @@ title = "69 या निशा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.69॥**या** आत्मविषया बुद्धिः **सर्वभूतानां निशा** निशा इव अप्रकाशिका। **तस्याम्** आत्मविषयायां बुद्धौ इन्द्रिय**संयमी** प्रसन्नमना **जागर्ति** आत्मानम् अवलोकयन् **आस्ते** इत्यर्थः। **यस्यां** शब्दादिविषयायां बुद्धौ सर्वाणि **भूतानि जाग्रति** प्रबुद्धानि भवन्ति **सा** शब्दादिविषया बुद्धिर् आत्मानं **पश्यतो मुनेर् निशा** इव अप्रकाशिका भवति।
@@ -39,12 +40,14 @@ title = "69 या निशा"
 
 2.69 That Buddhi (understanding) which has the self for its object, is night to all beings, i.e., is obscure like night to all. But he, who has subdued the senses and is serene, is awake in respect of the self. The meaning is that he has the vision of the self. All beings are awake, i.e., are actively cognisant in respect of objects of the senses like sound. But such sense objects are like things enshrouded by night to the sage who is awake to the self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.69॥  
   
@@ -327,12 +330,14 @@ establishing this with the help of an illustration, the Lord says:
 महदाश्चर्यमेतत्। अतस्तत्त्वदर्शिनः कथमाविद्यकक्रियाकारकादिव्यवहारः
 स्यादिति स्वतःसिद्ध एव तस्येन्द्रियसंयम इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.69॥ उक्तं लक्षणं पिण्डीकृत्याह या निशेति। या सर्वभूतानां निशा
 परमेश्वरस्वरूपलक्षणा। यस्यां सुप्तानीव न किञ्चिज्जानन्ति
@@ -364,12 +369,14 @@ establishing this with the help of an illustration, the Lord says:
 तल्लाभ इत्याशयेनेति ब्रूमः अन्यथाप्रभाषेत
 इत्यादेरुत्तरमाहेत्यत्रैवावेक्ष्यत् किं तत्र स्थानप्रदर्शनादिना इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.71॥ योगी च सर्वव्यवहारान् कुर्वाणोऽपि +++(S omits अपि)+++ लोकोत्तर इति निरूपयता परमेश्वरेण संक्षिप्यास्य स्वरूपं कथ्यते  
 या निशेति। या सर्वेषां भूतानां निशा मोहिनी +++(K मोहनी)+++ माया तस्यां मुनिर्जागर्त्ति कथमियं हेया इति। यस्यां च दशायां लोको जगर्त्ति नानाविधां +++(S विविधां)+++ चेष्टां कुरुते सा मुनेः रात्रिः यतोऽसौ व्यवहारं प्रत्यबुद्धः।  
@@ -383,12 +390,14 @@ establishing this with the help of an illustration, the Lord says:
 
 2.69 Ya nisa etc. Infatuating is the Illusion which is night for all beings. In that , the sage is awake (vigilant) with the thought 'How It could be avoided' The stage where the worldly men keep awake i.e., perform multifarious \[worldly\] activities, that stage is the night for the sage, as he is ignorant regarding the worldly activities. It amounts to this statement : What is well-known as illusion, Its nature is indeed two-ford, viz., to delude and also to wear a deceptive appearance of spinning pleasure. Of them (the two natures), the worldly man, not considering Its former nautre, remains with a memory well teid to the second nature. On the other hand, the man of Yoga, who is contrary to the other, observes Its deluding nature in order to root It out. Thus the man of perfect knowledge, while seeing \[properly\], pays no attention to Its nature of spinning pleasure. His indifference to Its nature of spinning pleasure is due to the destruction of his false knowledge. That stage is night to him, even while he sees. Hence this is strange. The man of Yoga is awake (or understands) in the field of wisdom, where everyone else is unconscious (or totally perplexed); but in \[the field\] of ignorance he is not awake (or does not understand), where ordinary man is awake (or understands well). This is also strange. That is why-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.69॥ तस्यैवान्येभ्यो वैलक्षण्येन लक्षणमाह या निशेति। याऽऽत्मविषया
 बुद्धिः संसारिणां स्वपतामिव निशेवाऽप्रकाशिका अज्ञानतिमिरोपहतमतीनां
@@ -405,10 +414,13 @@ establishing this with the help of an illustration, the Lord says:
 भूतानि जाग्रति न सुखं प्राप्नुवन्ति सा भगवत्सुखं पश्यतो मननशीलस्य निशा
 सुखाप्तिः। तत्सुखस्य कथनायोग्यत्वान्मुनेरिति विशेषणमुक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.69॥ ननु च कश्चिदपि प्रसुप्त इव दर्शनादिव्यापारशून्यः सर्वात्मना
 निगृहीतेन्द्रियो लोके न दृश्यते अतोऽसंभावितमिदं लक्षणमित्याशङ्क्याह
@@ -421,10 +433,13 @@ establishing this with the help of an illustration, the Lord says:
 ब्रह्मज्ञस्योन्मीलिताक्षस्यापि ब्रह्मण्येव दृष्टिर्नतु विषयेषु। अतो
 नासंभावितमिदं लक्षणमिति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.69 What is night for all beings, in it the controlled one is awake;
@@ -460,11 +475,13 @@ who sees.
 जागर्ति wakes; संयमी the selfcontrolled; यस्याम् in which; जाग्रति wake;
 भूतानि all beings; सा that; निशा night; पश्यतः (of the) seeing; मुनेः of the Muni.Commentary That which is real for the wordlyminded people is illusion for the sage; and vice versa. The sage lives in the Self. This is day for him. He is unconscious of the wordly phenomena. They are night for him; as it were. The ordinary man is unconscious of his real nature. Life in the spirit is night for him. He is experiencing the objects of sensual enjoyment. This is day for him. The Self is a nonentity for him For a sage this world is a nonentity.The wordlyminded people are in utter darkness as they have no knowledge of the Self. What is darkness for them is all light for the sage. The Self; Atman or Brahman is night for the worldlyminded persons. But the sage is fully awake. He is directly cognising the supreme Reality; the Light of lights. He is full of illumination and AtmaJnana or knowledge of the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.69।। सम्पूर्ण प्राणियों की जो रात (परमात्मासे विमुखता) है, उसमें
@@ -583,6 +600,7 @@ who sees.
 ।।2.69।। सब प्रणियों के लिए जो रात्रि है; उसमें संयमी पुरुष जागता है और
 जहाँ सब प्राणी जागते हैं; वह (तत्त्व को) देखने वाले मुनि के लिए रात्रि
 है।।
+</details>
 </details>
 
 </div>

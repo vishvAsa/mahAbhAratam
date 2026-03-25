@@ -23,8 +23,9 @@ title = "16 कर्मणः सुकृतस्याहुः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.16॥  
@@ -52,12 +53,14 @@ title = "16 कर्मणः सुकृतस्याहुः"
 
 14.16 Thus, the 'fruit of a good deed,' namely, disinterested work in the form of My worship, performed by one who dies when Sattva prevails - is birth in the family of those who know the self. There he acires more Sattva than before and the self becomes more pure, namely, devoid of the slightest vestige of suffering. So say those who know about the development of Sattva. But the 'fruit of Rajas,' dominating at the time of death, is 'suffering in Samsara.' In consists in successive births in families attached to actions for the sake of fruits. Rirth of this type increases Rajas further, resulting in actions for gaining their fruits. So say those who know about the developments of this Guna. 'Ignorance' is the result of Tamas. The fruit of Tamas dominating at the time of death, is successive conditions of ignorance. What are the results derived from Sattva etc.; To this, He answers:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.16॥ --,**कर्मणः सुकृतस्य** सात्त्विकस्य इत्यर्थः; **आहुः** शिष्टाः **सात्त्विकम्** एव **निर्मलं फलम्** इति। **रजसस्तु फलं दुःखं** राजसस्य कर्मणः इत्यर्थः; कर्माधिकारात् फलम् अपि दुःखम् एव; कारणानुरूप्यात् राजसमेव। तथा **अज्ञानं तमसः** तामसस्य कर्मणः अधर्मस्य पूर्ववत्॥ किं च गुणेभ्यो भवति --,
 </details>
@@ -132,12 +135,14 @@ results from the alities;
 धान्यशब्दस्तत्प्रभवे तण्डुले; तत्र पयस्तण्डुलयोरिवात्रापि कर्मणः
 प्रकृतत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.16॥ रजसस्तु फलं दुःखमित्यल्पसुखं दुःखम्। तथा हि शार्कराक्षशाखायाम्
 -- रजसो ह्येव जायते मात्रया सुखं दुःखं तस्मात्तान्सुखिनो दुःखिन
@@ -155,12 +160,14 @@ results from the alities;
 तिष्ठन्ति राजसाः ৷৷. अधो गच्छिन्ति तामसाः। \[14।18\] इत्याद्ययुक्तं
 स्यादिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.16 -- 14.20॥ कर्मण इत्यादि अश्नुते इत्यन्तम्। अत्र केचिदसंबद्धाः श्लोकाः कल्पिताः; पुनरुक्तत्वात् ( पुनरुक्तार्थत्वात्) ते त्याज्या एव। एतद्गुणातीतवृत्तिस्तु +++(N गुणातीतश्रुतिस्तु)+++ मोक्षायैव कल्पते।
 </details>
@@ -169,12 +176,14 @@ results from the alities;
 
 14.16 See Comment under 14.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.16॥ अमरणसमये इह तु फलं सुकृतस्य सत्त्वेन कृतस्य कर्मणः पुण्यरूपस्य
 निर्मलं भवति दुःखगन्धरहितं अज्ञानादिगन्धरहितं च। रजसस्तु दुःखमज्ञानं
@@ -194,10 +203,13 @@ results from the alities;
 भगवद्वैमुख्यात्मकं फलमाहुः। कर्मस्वरूपं चाऽग्रेऽष्टादशे \[श्लो.2325\]
 वक्ष्यति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.16॥ इदानीं सत्त्वादीनां स्वानुरूपकर्मद्वारेण विचित्रफलहेतुत्वमाह
 **-- कर्मण इति**। सुकृतस्य सात्त्विककर्मणः सात्त्विकं सत्त्वप्रधानं
@@ -206,10 +218,13 @@ results from the alities;
 कर्मण इत्यर्थः। तस्याज्ञानं मूढत्वं फलमाहुः। सात्त्विकादिकर्मलक्षणं
 चनियतं सङ्गरहितं इत्यादिनाऽष्टादशे वक्ष्यति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.16 The fruits of a good deed, they say, is pure and is of the nature of Sattva. But the fruit of Rajas is pain; and the fruit of Tamas is ignorance.
@@ -242,11 +257,13 @@ Sattvic; निर्मलम् pure; फलम् the fruit; रजसः of 
 the fruit; दुःखम् pain; अज्ञानम् ignorance; तमसः of inertia; फलम् the fruit.Commentary Good action Sattvic action. The fruit of good action is both happiness and,knowledge.They The wise.Rajas means Rajasic action as this verse deals with action. The fruit of Rajasic action is bitter.
 Rajasic action brings pain; disappointment and dissatisfaction. Rajasic activity leads to greed. When the Rajasic man tries to gratify his original desires; new desires crop up. This opens the door to greed.Tamas Tamasic action; unrighteous deeds or sin (Adharma). There is no knowledge within and no foresight.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.16।। (विवेकी पुरुषोंने) शुभ-कर्मका तो सात्त्विक निर्मल फल कहा है,
@@ -360,6 +377,7 @@ Rajasic action brings pain; disappointment and dissatisfaction. Rajasic activity
 
 ।।14.16।। शुभ कर्म का फल सात्विक और निर्मल कहा गया है; रजोगुण का फल दु;ख
 और तमोगुण का फल अज्ञान है।।
+</details>
 </details>
 
 </div>

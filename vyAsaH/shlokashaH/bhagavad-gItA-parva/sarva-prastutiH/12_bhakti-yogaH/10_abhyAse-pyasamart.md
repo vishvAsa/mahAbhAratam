@@ -23,8 +23,9 @@ title = "10 अभ्यासेऽप्यसमर्थोऽसि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.10॥ अथ एवं-विध-स्मृत्य्-अभ्यासे **अप्य् असमर्थो ऽसि**
@@ -96,12 +97,14 @@ title = "10 अभ्यासेऽप्यसमर्थोऽसि"
 
 12.10 If you are incapable of practising remembrance in the above manner, then devote yourself to 'My deeds.' Such devotional acts consist in the construction of temples, laying out temple gardens, lighting up lamps therein, sweeping, sprinkling water and plastering the floor of holy shrines, gathering flowers, engaging in My worship, chanting My names, circumambulating My temples, praising Me, prostrating before Me etc. Do these with great affection. Even performing such works which are exceedingly dear to Me, you will, before long, get your mind steadily focused on Me as through the practice of repetitions, and will gain perfection through attaining Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥12.10॥ **अभ्यासे अपि असमर्थः असि** अशक्तः असि;  
 तर्हि **मत्कर्मपरमः** भव मदर्थं कर्म मत्कर्म तत्परमः मत्कर्मपरमः; मत्कर्मप्रधानः इत्यर्थः। 
@@ -161,12 +164,14 @@ gradually aciring purification of mind, concentration and Knowledge.
 भागवतधर्मसंज्ञकानि कर्माण्यपि कुर्वन्सिद्धिं ब्रह्मभावलक्षणां
 सत्त्वशुद्धिं ज्ञानोत्पत्तिद्वारेणावाप्स्यसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.10॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -175,12 +180,14 @@ gradually aciring purification of mind, concentration and Knowledge.
 
 ॥12.10॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.10॥ अभ्यासेऽपीति।  
 **अभ्यासोऽपि न** शक्यते विघ्नाद्य् अभिभवात्;  
@@ -191,12 +198,14 @@ gradually aciring purification of mind, concentration and Knowledge.
 
 12.10 Abhyase'pi etc. The constant practice too becomes impossible due to the predominance of the obstacles etc. In that case, in order to eradicate them, you should perform actions like worship, repetition \[of the Lord's name etc.\], recitation \[of scriptures\], offering oblations, etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.10॥ यदि पुनः अभ्यासेऽप्यसङ्गसाधनेऽसमर्थोऽसि तर्हि पूजायां
 मत्सेवापरो भव; सेवापूर्वं मदर्थं कर्माणि कुरु।
@@ -212,20 +221,26 @@ gradually aciring purification of mind, concentration and Knowledge.
 
 एवं **मदर्थं** मत्-प्रीत्यर्थं; न तु फल-कामनया **कर्माण्य् अपि** कुर्वन् **सिद्धिम्** अभ्यास-सिद्धिं प्राप्स्यसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.10॥ यदि पुनर्नैवं तत्राह **-- अभ्यास इति।** अभ्यासेऽति यद्यशक्तोऽसि
 तर्हि मत्प्रीत्यार्थानि यानि
 कर्माण्येकादश्युपवासव्रतचर्यानामसंकीर्तनादीनि तदनुष्ठानमेव परमं यस्य
 तादृशो भव। एवंभूतानि कर्माण्यपि मदर्थं कुर्वन्मोक्षं प्राप्स्यसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.10 If you are incapable of even this practice of repetition, then devote yourself to My deeds (service). For even by working for My sake,
@@ -264,11 +279,13 @@ perfection; अवाप्स्यसि thou shalt attain.Commentary Even if 
 (Padasevana); (5) offering flowers in worship (Archana); (6) doing prostrations to the Lord (Vandana); (7) becoming His servant (Dasya);
 (8) friendship with Him (Sakhya); and (9) doing total selfsurrender to the Lord (Atmanivedana). (Cf.III.19XI.55)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.10।। अगर तू अभ्यास-(योग-) में भी असमर्थ है, तो मेरे लिये कर्म करनेके
@@ -377,6 +394,7 @@ perfection; अवाप्स्यसि thou shalt attain.Commentary Even if 
 
 ।।12.10।। यदि तुम अभ्यास में भी असमर्थ हो तो मत्कर्म परायण बनो; इस
 प्रकार मेरे लिए कर्मों को करते हुए भी तुम सिद्धि को प्राप्त करोगे।।
+</details>
 </details>
 
 </div>

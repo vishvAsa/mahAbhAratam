@@ -23,8 +23,9 @@ title = "17 कर्मणो ह्यपि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.17॥ यस्मान् मोक्षसाधनभूते **कर्मणः** स्वरूपे **बोद्धव्यम्** अस्ति विकर्मणि च नित्यनैमित्तिककाम्यकर्मरूपेण तत्साधनद्रव्यार्जनाद्याकारेण च विविधताम् आपन्नं कर्म विकर्म। **अकर्मणि** ज्ञाने **च बोद्धव्यम्** अस्ति। **गहना** दुर्विज्ञाना मुमुक्षोः **कर्मणो गतिः।**विकर्मणि च बोद्धव्यम् **नित्यनैमित्तिककाम्यद्रव्यार्जनादौ कर्मणि फलभेदकृतं वैविध्यं परित्यज्य मोक्षैकफलतया एकशास्त्रार्थत्वानुसन्धानं तदेतद्व्यवसायात्मिका बुद्धिरेका (गीता 2।41) इत्यत्र एव उक्तम् इति न इह प्रपञ्च्यते। कर्माकर्मणोर् बोद्धव्यम् आह**
@@ -41,12 +42,14 @@ title = "17 कर्मणो ह्यपि"
 (Karma) which forms the means of attaining release. So also is the case in regard to 'multi-form or varied forms of action' (Vikarma). These are what have acired variegation as obligatory, occasional and desire-prompted works reiring numerous reisites. There is also something to be known about non-action, i.e., knowledge of the self. Therefore,
 deep, i.e., difficult to understand, is the way of action to be pursued by the seeker after release. What should be known as regards multi-form or variegated forms of Karma is that the attribution of differences leading to differences of fruits in obligatory, occasional and desire-prompted rites and acisition of things reired for their performace, etc., must be renounced, realising that the Sastras aim at only one result, i.e., release (and not several results said to accrue from these works). This has been declared in connection with the teaching, 'The resolute mind is one-pointed' (2.41) and is not elaborated here. Sri Krsna explains what must be known in regard to action and non-action.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.17॥ **कर्मणः** शास्त्रविहितस्य **हि** यस्मात् **अपि** अस्ति **बोद्धव्यम् बोद्धव्यं च** अस्त्येव **विकर्मणः** प्रतिषिद्धस्य तथा **अकर्मणश्च** तूष्णींभावस्य **बोद्धव्यम्** अस्ति इति त्रिष्वप्यध्याहारः कर्तव्यः। यस्मात् **गहना** विषमा दुर्ज्ञेया **कर्मणः** इति उपलक्षणार्थं कर्मादीनाम् कर्माकर्मविकर्मणां **गतिः** याथात्म्यं तत्त्वम् इत्यर्थः॥ किं पुनस्तत्त्वं कर्मादेः यत् बोद्धव्यं वक्ष्यामि इति प्रतिज्ञातम् उच्यते
 </details>
@@ -116,12 +119,14 @@ stated:
 तत्त्वमस्तीत्यध्याहारः। यस्मात् गहना दुर्ज्ञाना। कर्मण इत्युपलक्षण्।
 कर्माकर्मविकर्मणां गतिस्तत्त्वमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.17॥ न केवलं तज्ज्ञात्वा मोक्ष्यसे ज्ञात्वैवेत्याशयवानाह कर्मण इति।
 तच्चोक्तम् अज्ञात्वा भगवान्कस्य कर्माकर्मविकर्मकम्। दर्शनं याति हि मुने
@@ -147,12 +152,14 @@ stated:
 किमर्थमुच्यते इत्यत आह **न चे**ति। ज्ञातुं स्वभावेनेति शेषः। एतच्च
 श्रोतुरधिकादरणननार्थमिति ज्ञेयम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.16 4.17॥ अथ उच्यतेऽकरणादेव सिद्धिरिति तन्न। यतः किं कर्म इति। कर्मणो ह्यपि इति। कर्माकर्मणोर्विभागः दुष्परिज्ञानः। तथा च विहिते कर्मण्यपि +++(S N तथा च ( N omit च)+++ कर्मण्यपि ( णोऽपि) मध्ये दुष्टं कर्मास्ति अग्निष्टोमे इव पशुवधः। विरुद्धेऽपि च कर्मणि शुभमस्ति कर्म। तथाहि +++(N यथा instead of तथा हि)+++ हिंस्रप्राणिवधे प्रजोपतापाभावः। अकरणेऽपि च शुभाशुभं कर्म अस्ति वाङ्मनसकृतानां कर्मणामवश्यं भावात् +++(S श्यभावित्वात् K ( n)+++ वित्वादिति) तेषां ज्ञानमन्तरेण दुष्परिहरत्वात्। अतः कुशलैरपि गहनत्वात् कर्म न ज्ञायते अनेन +++(S तेन)+++ शुभकर्मणा शुभमस्माकं भविष्यति अनेन च कर्मणामनारंभेण मोक्षो न (नो) भविष्यति इति। तस्माद्वक्ष्यमाणो विज्ञानवह्निरेव अवश्यं सकलशुभाशुभकर्मेन्धनप्लोषसमर्थः शरणत्वेनान्वेष्य इति भगवतोऽभिप्रायः।
 </details>
@@ -161,12 +168,14 @@ stated:
 
 4.16-17 Kim karma etc. Karmanah etc. The classification of \[good\] action and non-action is difficult to comprehend. That is to say there is bad action even among the action that has been ordained \[in the scriptures\], just as the animal-slaughter in the \[pious\] Agnistoma sacrifice. Again, even in the midst of action, that goes against \[the scripture\], there is auspicious action; for example there is an end for the trouble of the people in the act of killing a murderous animal. Even in the case of non-performance of action, there do exist \[both\] the auspicious and inauspicious acts; for there will be necessarily \[some\] acts performed by the sense of speech and by the mind as they are difficult to avoid without wisdom. Therefore on account of its mysterious nature, even hte experts have not properly understood the action as : 'Prosperity would be for as by this \[particular\] auspicious action; and emancipation would be for us by that \[particular\] non-undertaking of \[certain\] actions'. Therefore, it is the fire of wisdom taught in the seel, that alone is capable of positively burning down the fuel of all the auspicious and inauspicious actions; and hence that is to be sought after as a refuge. This is what is intended by the Bhagavat. In order to calrify the same, \[the Lord\] says -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.17॥ कर्मणो ह्यपीति। यतश्च सुतरामेव कर्ममार्गो दुरत्ययः। अतोऽपि भजनं
 कार्यं भजनेन हि तादृशम्। अन्योन्यनाशकत्वं च कर्मणां भवति क्वचित्।
@@ -186,10 +195,13 @@ stated:
 अकर्मणोऽकर्तव्यस्य आसुरस्य स्वरूपं बोद्धव्यम्। कर्मणो गतिः त्रयाणां
 कर्त्तव्यस्य पर्यवसानफलाप्तिरूपा गहना दुर्विज्ञेयेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.17॥ ननु लोकप्रसिद्धमेव कर्म देहादिव्यापारात्मकम् अकर्म च
 तदव्यापारात्मकम् अतः कथमुच्यते कवयोऽप्यत्र मोहं प्राप्ता इति तत्राह
@@ -199,10 +211,13 @@ stated:
 कर्मण इत्युपलक्षणार्थम्। कर्माकर्मविकर्मणां तत्त्वं बोद्धव्यमस्ति। यतो
 दुर्विज्ञेयमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.17 For, there is what ought to be known in action. Likewise there is what ought to be known in multi-form action. And there is what ought to be understood in non-action. Thus mysterious is the way of action.
@@ -236,11 +251,13 @@ should be known, also (that) of forbidden (or unlawful) action, and of inaction;
 अकर्मणः of inaction; च and; बोद्धव्यम् should be known; गहना deep;
 कर्मणः of action; गतिः the path.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.17।। कर्मका तत्त्व भी जानना चाहिये और अकर्मका तत्त्व भी जानना चाहिये
@@ -305,6 +322,7 @@ should be known, also (that) of forbidden (or unlawful) action, and of inaction;
 ।।4.17।। कर्म का (स्वरूप) जानना चाहिये और विकर्म का (स्वरूप) भी जानना
 चाहिये ; (बोद्धव्यम्) तथा अकर्म का भी (स्वरूप) जानना चाहिये (क्योंकि)
 कर्म की गति गहन है।।
+</details>
 </details>
 
 </div>

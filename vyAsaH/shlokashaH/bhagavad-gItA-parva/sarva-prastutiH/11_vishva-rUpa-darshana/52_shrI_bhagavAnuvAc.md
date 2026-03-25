@@ -26,8 +26,9 @@ title = "52 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.52॥ श्रीभगवानुवाच -- **मम इदं** सर्वस्य प्रशासने अवस्थितं सर्वाश्रयं सर्वकारणभूतं **रूपं यद् दृष्टवान् असि;** तत् सुदुर्दर्शं न केन अपि द्रष्टुं शक्यम् **अस्य रूपस्य देवा अपि नित्यं दर्शनकाङ्क्षिणः;** न तु दृष्टवन्तः। कुत इत्यत्र आह --
@@ -42,12 +43,14 @@ title = "52 श्री भगवानुवाच"
 
 11.52 The Lord said This form of Mine which you have seen, and which has the whole universe under control, which is the foundation of all and which forms the origin of all - this cannot be beheld by any one. Even the gods ever long to see this form; but they have not seen it. Why; Sri Krsna says:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.52॥ --,**सुदुर्दर्शं** सुष्ठु दुःखेन दर्शनम् अस्य इति सुदुर्दर्शम्; **इदं रूपं दृष्टवान् असि यत् मम; देवाः अपि अस्य** मम **रूपस्य नित्यं** सर्वदा **दर्शनकाङ्क्षिणः** दर्शनेप्सवोऽपि न त्वमिव दृष्टवन्तः; न द्रक्ष्यन्ति च इति अभिप्रायः॥ कस्मात् --,
 </details>
@@ -103,12 +106,14 @@ so;
 सर्वदा दर्शनकाङ्क्षिणो नतु त्वमिव पूर्वं दृष्टवन्तो न वाऽग्रे
 द्रक्ष्यन्तीत्यभिप्रायः। दर्शनाकाङ्क्षया नित्यत्वोक्तिः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.52॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -117,12 +122,14 @@ so;
 
 ॥11.52॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.52॥ No commentary.
 </details>
@@ -131,12 +138,14 @@ so;
 
 11.52 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.52॥ ततः एवं स्थितौ स्वरूपस्य सुदुर्दर्शत्वं
 निरूपयन्प्रसङ्गादनुग्रहभक्त्यैकगम्यत्वं स्वस्य निगमयति त्रिभिः --
@@ -159,20 +168,26 @@ so;
 भजनात्तादृक्स्वरूपदर्शनमेव भवति इदं च स्वरूपं भावात्मकं वेदाद्यगम्यं
 भक्तमुखात् श्रुतत्वाच्चाकाङ्क्षिणस्तिष्ठन्तीति तथा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.52॥ स्वकृतस्यानुग्रहस्यातिदुर्लभत्वं दर्शयन् श्रीभगवानुवाच **--
 सुदुर्दर्शमिति।** यन्मम विश्वरूपं त्वं दृष्टवानसि इदं सुदुर्दर्शमत्यन्तं
 द्रष्टुमशक्यम्। अतो देवा अप्यस्य रूपस्य सर्वदा दर्शनमिच्छन्ति न केवलं
 पुनरिदं पश्यन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.52 The Lord said It it very hard to behold this form of Mine which you have seen. Even the gods ever long to behold this form.
@@ -204,11 +219,13 @@ so;
 thou hast seen; यत् which; मम My; देवाः gods; अपि also; अस्य (of) this;
 रूपस्य of form; नित्यम् ever; दर्शनकाङ्क्षिणः (are) desrious to behold.Commentary Lord Krishna says to Arjuna Though the gods long to behold the Cosmic Form yet they have not seen it as you have done. THey can never behold it.Just as the Chataka (a bird) longs for a drop of rain; eagerly turning its eyes towards the clouds; so also do gods yearn to behold the Cosmic Form but their wishes have not been gratified even in their dreams. Such is that marvellous vision which thou hast easily seen.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/52_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.52।। श्रीभगवान् बोले -- मेरा यह जो रूप तुमने देखा है, इसके दर्शन
@@ -237,6 +254,7 @@ thou hast seen; यत् which; मम My; देवाः gods; अपि also
 ।।11.52।। श्रीभगवान् ने कहा -- मेरा यह रूप देखने को मिलना अति दुर्लभ है,
 जिसको कि तुमने देखा है। देवतागण भी सदा इस रूप के दर्शन के इच्छुक रहते
 हैं।।
+</details>
 </details>
 
 </div>

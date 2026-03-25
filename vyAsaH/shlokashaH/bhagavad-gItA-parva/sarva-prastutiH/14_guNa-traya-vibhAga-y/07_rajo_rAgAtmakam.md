@@ -23,8 +23,9 @@ title = "07 रजो रागात्मकम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.7॥**रजो रागात्मकं** रागहेतुभूतम्; रागो योषितपुरुषयोर् अन्योन्यस्पृहा। **तृष्णासङ्गसमुद्भवं** तृष्णासङ्गयोर् उद्भवस्थानं तृष्णासङ्गहेतुभूतम् इत्यर्थः। तृष्णा शब्दादिसर्वविषयस्पृहा। सङ्गः पुत्रमित्रादिषु सम्बन्धिषु संश्लेषस्पृहा। तथा **देहिनं** कर्मसु क्रियासु स्पृहाजननद्वारेण निबध्नाति क्रियासु हि स्पृहया याः क्रिया आरभते देही; ताश् च पुण्यपापरूपा इति तत्फलानुभवसाधनभूतासु योनिषु जन्महेतवो भवन्ति; अतः कर्मसङ्गद्वारेण रजो देहिनं निबध्नाति। तद् एवं रजो रागतृष्णासङ्गहेतुः कर्मसङगहेतुश् च इत्य् उक्तं भवति।
@@ -42,12 +43,14 @@ title = "07 रजो रागात्मकम्"
 'Springing from thirst and attachment' means it is the source of sensuality and attachment. 'Trsna', (thirst, sensuality) is the longing for all sense-objects, such as sound etc. 'Sanga' (attachment) is the inordinate longing for union with one's sons, friends and such other relations. By creating longing for actions, it binds the embodied self.
 Whatever actions have been begun by the self from longiing for sensual enjoyments, they become the cause of births in bodies that constitute the means for experiencing such enjoyments. Therefore Rajas binds the embodied self through attachment to actions. What is said is this: Rajas is the cause of sexuality, sensuality and attachment, and of constant engagement in actions.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.7॥ --,**रजः रागात्मकं** रञ्जनात् रागः गैरिकादिवद्रागात्मकं **विद्धि** जानीहि। **तृष्णासङ्गसमुद्भवं** तृष्णा अप्राप्ताभिलाषः; आसङ्गः प्राप्ते विषये मनसः प्रीतिलक्षणः संश्लेषः; तृष्णासङ्गयोः समुद्भवं तृष्णासङ्गसमुद्भवम्। तन्निबध्नाति **तत्** रजः **निबध्नाति कौन्तेय कर्मसङ्गेन;** दृष्टादृष्टार्थेषु कर्मसु सञ्जनं तत्परता कर्मसङ्गः; तेन निबध्नाति रजः **देहिनम्**॥
 </details>
@@ -121,12 +124,14 @@ through that.
 इत्यभिनिवेशविशेषेण देहिनं वस्तुतोऽकर्तारमेव कर्तृत्वाभिमानिनम्। रजसः
 प्रवृत्तिहेतुत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.7॥ रज इति। तृष्णासङ्गयोः समुद्भवं तयोः कारणम्।
 </details>
@@ -139,12 +144,14 @@ through that.
 इत्युक्तविरोधात् समुद्भवशब्देनाविर्भावो विवक्षित इति चेत् तथापि
 गुणकार्यकथनप्रकरणविरोधात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.6 -- 14.8॥ क्रमेणैषां रूपमुच्यते -- तत्रेत्यादि भारतेत्यन्तम्। सत्त्वं निर्मलम्। तृष्णासंगस्य समुद्भवो यतः। दुर्लभस्यापि चिरतरसंचितपुण्यशतलब्धस्य अपवर्गप्राप्तावेककारणस्य मानुष्यकस्य वृथा अतिवाहनं प्रमादः। तथाह्युक्तम्,+++(;N तथाभ्युक्तम्)+++ -- आयुषः क्षण एकोऽपि सर्वरत्नैर्न लभ्यते।  
   
@@ -170,12 +177,14 @@ through that.
 
 14.7 See Comment under 14.8
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.7॥ रजसोऽप्याह -- रज इति। अनुरागात्मकंरञ्ज रागे इति धातोः स्पष्टमेव।
 कर्मसु,रञ्जनाद्बन्धकम्।
@@ -190,10 +199,13 @@ through that.
 भगवदर्थकज्ञानात्मकम्। कर्मसङ्गेन तत्स्वाभिलषितप्राप्त्यर्थं क्रियासङ्गेन
 बध्नाति लौकिकासक्तिं जनयतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.7॥ रजसो लक्षणं बन्धकत्वं चाह **-- रजोरागेति**। रजःसंज्ञकं गुणं
 रागात्मकमनुरञ्जनरूपं विद्धि। अतएव तृष्णासङ्गसमुद्भवम्। तृष्णा
@@ -202,10 +214,13 @@ through that.
 दृष्टादृष्टार्थेषु कर्मसु सङ्गेनासात्तया नितरां बध्नाति।
 तृष्णासङ्गाभ्यां हि कर्मस्वासक्तिर्भवति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.7 Know, O Arjuna, that Rajas is of the nature of passion springing from thirst and atttachment. It binds the embodied self with attachment to work.
@@ -239,11 +254,13 @@ the embodied one by attachment to action.
 निबध्नाति binds; कौन्तेय O son of Kunti (Arjuna); कर्मसङ्गेन by attachment to action; देहिनम् the embodied one.Commentary The ality of Rajas denotes activity and ambition. The Rajasic man is full of cravings and desires. The cravings force him to act for their fulfilment. He gets attached to those who help him in the fulfilment of his desire and hates those who stand in his way. He is attached to action. He enters on great undertakings. He performs various sorts of sacrifices and rituals and charitable activities. He runs after sensual pleasures and his desires become insatiable like a flame fed by oil. The Self is not the doer. It is the silent witness but Rajas creates in the man the idea; I am the doer.Rajas pleases the mind and keeps alive the passions.A Rajasic man is never contented. He is ever greedy and restless. The more he acires;
 the more passionate and greedy he becomes. Desires multiply. Nothing gives him satisfaction. If he is a millionaire; he tries to become a multimillionaire. It is like petrol poured into the fire; which inflames it further. A Rajasic man loses his understanding and power of discrimination. His understanding is clouded. He is under intoxication of the pride of wealth. His intellect is turbid. He has a perverted intellect. On account of perversion of intellect misery appears to him to be happiness pain appears to him to be pleasure sorrow appears to be joy. His goal is money and women. He worships mammon as his god.He runs after name; fame and comforts and involves himself in endless activities. Quickness has been associated with the fish; with the flash of lightning and with the glance of a woman. But Rajas is icker than these. A Rajasic man is more active than these. He thinks What will happen to me after my possessions are gone and thus worries himself unnecessarily and engages himself in endless activities. He has no peace of mind.He thirsts for what has not been attained and is attached to what has already been obtained. He wishes and tries to protect his possessions. This is Sanga. I will do such and such an action. I will get such and such a result. I will do this sacrifice. I will enjoy in heaven. This sort of clinging to action and its fruits is Karma Sanga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.7।। हे कुन्तीनन्दन ! तृष्णा और आसक्तिको पैदा करनेवाले रजोगुणको तुम
@@ -371,6 +388,7 @@ the more passionate and greedy he becomes. Desires multiply. Nothing gives him s
 
 ।।14.7।। हे कौन्तेय ! रजोगुण को रागस्वरूप जानो, जिससे तृष्णा और आसक्ति
 उत्पन्न होती है। वह देही आत्मा को कर्मों की आसक्ति से बांधता है।।
+</details>
 </details>
 
 </div>

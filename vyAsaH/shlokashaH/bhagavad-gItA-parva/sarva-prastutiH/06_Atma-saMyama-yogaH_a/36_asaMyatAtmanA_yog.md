@@ -23,8 +23,9 @@ title = "36 असंयतात्मना योगो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.36॥**असंयतात्मना** अजितमनसा महता अपि बलेन **योगो दुष्प्राप** एव। **उपायतः** तु **वश्यात्मना** पूर्वोक्तेन मदाराधनरूपेण अन्तर्गतज्ञानेन कर्मणा जितमनसा यतमानेन अयम् एव समदर्शनरूपो योगः **अवाप्तुं शक्यः।  
@@ -42,12 +43,14 @@ title = "36 असंयतात्मना योगो"
 6.36 Yoga is hard to attain even in spite of great efforts by one of unrestrained self, i.e., of unrestrained mind. But the same Yoga which is of the form of sameness of vision can be attained by proper means by one who is striving, whose 'mind is subdued,' i.e., by one whose mind is conered by works (Karma Yoga) taught before, which is of the nature of My worship and which includes within itself knowledge (Jnana). Then Arjuna puts estions in order to hear the greatness of Yoga, as it really is, which he has already heard about at the beginning of the teaching,
 'Here there is no loss of effort' (2.40). There the greatness of Karma Yoga as inclusive of knowledge of the self with Yoga as its culmination was taught. This alone is the real greatness of Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.36॥ **असंयतात्मना** अभ्यासवैराग्याभ्यामसंयतः आत्मा अन्तःकरणं यस्य सोऽयम् असंयतात्मा तेन असंयतात्मना **योगो दुष्प्रापः** दुःखेन प्राप्यत **इति मे मतिः।** यस्तु पुनः वश्यात्मा अभ्यासवैराग्याभ्यां वश्यत्वमापादितः आत्मा मनः यस्य सोऽयं वश्यात्मा तेन **वश्यात्मना तु यतता** भूयोऽपि प्रयत्नं कुर्वता **शक्यः अवाप्तुं** योगः **उपायतः** यथोक्तादुपायात्॥ तत्र योगाभ्यासाङ्गीकरणेन इहलोकपरलोकप्राप्तिनिमित्तानि कर्माणि संन्यस्तानि योगसिद्धिफलं च मोक्षसाधनं सम्यग्दर्शनं न प्राप्तमिति योगी योगमार्गात् मरणकाले चलितचित्तः इति तस्य नाशमाशङ्क्य अर्जुन उवाच **अर्जुन उवाच**
 </details>
@@ -149,12 +152,14 @@ ruined.
 योगी। चित्तवृत्तिनिरोधाभावे तु तत्त्वज्ञानवानप्यपरमो योगीति सिद्धम्।
 अवशिष्टं जीवन्मुक्तिविवेके सविस्तरमनुसंधेयम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.36॥ न च कदाचित्स्वयमेव मनो नियम्यते। शुभेच्छारहितानां च द्वेषिणां च
 रमापतौ। नास्तिकानां च वै पुंसां तदा मुक्तिर्न युज्यते इति
@@ -170,12 +175,14 @@ ruined.
 अनेनात्र शुभेच्छादिकमप्युलक्षितमिति सूचितम्। मुक्तिबीजत्वान्मनोनियमनस्य
 मुक्तिरित्युक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.36॥ अत एषा प्रतिज्ञा असंयतेति। असंयतात्मनः अविरक्तस्य न कथंचिद्योगावाप्तिः। वश्यात्मनेति वैराग्यवता। यतमानेनेति साभ्यासेन। उपायतः उपायान् अनेकसिद्धान्तादिशास्त्रविहितान् संश्रित्य।
 </details>
@@ -184,12 +191,14 @@ ruined.
 
 6.36 Asamyata - etc. In do way whatsoever, is the Yoga attainable for a man with uncontrolled self i.e., for a man without desirelessness. One, with subdued self : one, with an attitude of desirelessness. By him who exerts : by him who has practice. By means : by undertaking the means enjoined in many scriptures of the Siddanta and the rest.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.36॥ एवं मनसो निरोधे साम्येन स योगो घटते नान्यथेत्याह असंयतात्मन इति।
 स्पष्टमेतत्।
@@ -206,10 +215,13 @@ ruined.
 मदुक्तिविश्वासपूर्वकं यो यतेत तस्याऽवश्यं मया संयोगः फलदानं कर्तुं
 मनोनिग्रहः करणीय इति व्यञ्जितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.36॥ एतावांस्त्विह निश्चय इत्याह **असंयतात्मनेति।** असंयतात्मा
 उक्तप्रकारेणाभ्यासवैराग्याभ्यामसंयत आत्मा चित्तं यस्य तेन पुरुषेणायं
@@ -217,10 +229,13 @@ ruined.
 चित्तं यस्य तेन पुरुषेण पुनश्चानेनैवोपायेन प्रयत्नं कुर्वता योगः
 प्राप्तुं शक्यः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.36 In my opinion Yoga is hard to attain by a person of unrestrained mind. However, it can be attained through right means by him, who strives for it and has a subdued mind.
@@ -257,11 +272,13 @@ but the self-controlled and striving one can attain to it by the
 hard to attain; इति thus; मे My; मतिः opinion; वश्यात्मना by the selfcontrolled one; तु but; यतता by the striving one; शक्यः possible;
 अवाप्तुम् to obtain; उपायतः by (proper) means.Commentary Uncontrolled self he who has not controlled the senses and the mind by the constant practice of dispassion and meditation. Selfcontrolled he who has controlled the mind by the constant practice of dispassion and meditation. He can attain Selfrealisation by the right means and constant endeavour.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.36।। जिसका मन पूरा वशमें नहीं है, उसके द्वारा योग प्राप्त होना कठिन
@@ -363,6 +380,7 @@ hard to attain; इति thus; मे My; मतिः opinion; वश्या
 ।।6.36।। असंयत मन के पुरुष द्वारा योग प्राप्त होना कठिन है, परन्तु
 स्वाधीन मन वाले प्रयत्नशील पुरुष द्वारा उपाय से योग प्राप्त होना संभव
 है, यह मेरा मत है।।
+</details>
 </details>
 
 </div>

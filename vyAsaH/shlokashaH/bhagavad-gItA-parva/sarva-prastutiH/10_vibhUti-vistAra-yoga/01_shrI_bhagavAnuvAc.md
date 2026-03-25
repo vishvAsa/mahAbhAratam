@@ -26,8 +26,9 @@ title = "01 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 भक्तियोगः सपरिकर उक्तः । इदानीं भक्त्युत्पत्तये तद्विवृद्धये च भ्गवतो निरङ्कुशैश्वर्यादिकल्याणगुणगणानन्त्यम्, कृत्स्नस्य जगतस् तच्छरीरतया तदात्मकत्वेन तत्प्रवर्त्यत्वं च प्रपञ्च्यते
@@ -44,12 +45,14 @@ title = "01 श्री भगवानुवाच"
 
 10.1 The Lord said Listen with rapt attention to these words which I shall utter - words which are supreme and which give you a much wider understanding of My greatness. I shall speak out to you about the rise and growth of devotion to Me, as you are pleased with listening to My greatness and as I too love you.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 सप्तमे अध्याये भगवतस्तत्त्वं विभूतयश्च प्रकाशिताः, नवमे च । अथ इदानीं येषु येषु भावेषु चिन्त्यो भगवान् , ते ते भावा वक्तव्याः, तत्त्वं च भगवतो वक्तव्यम् उक्तमपि, दुर्विज्ञेयत्वात् , इत्यतः श्रीभगवानुवाच —
 
@@ -141,12 +144,14 @@ shall I speak;' In answer to this the Lord says:
 प्रीयमाणाय मद्वचनादभृतपानादिव प्रीतिमनुभवते वक्ष्याम्यहं परमाप्तस्तव
 हितकाम्ययेष्टप्राप्तीच्छया॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.1॥ म्। उपासनार्थं विभूतीः विशेषणकारणत्वं च केषाञ्चिदनेनाध्यायेनाह
 -- प्रीयमाणाय श्रुत्वा सन्तोषं प्राप्नुवते।
@@ -167,12 +172,14 @@ shall I speak;' In answer to this the Lord says:
 उक्तः; इदानीं भगवद्वचनश्रवणनिमित्तात्सन्तोषप्राप्तिः
 श्रोतृत्वसम्पत्प्रतिपादनायोच्यत इति न विरोध इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.1 -- 10.5॥ प्राक्तनैर्नवभिरध्यायैर्य एवार्थो लक्षितः; स एव प्रतिपदपाठैरस्मिन्नध्याये प्रतायते। तथा चाह -- भूय एव इति। उक्तमेवार्थं स्फुटीकर्तुं +++(;N;K विस्पष्टीकर्तुं)+++ पुनः कथ्यमानं श्रृण्विति। अर्जुनोऽपि एवमेवाभिधास्यति भूयः कथय +++(X; 18)+++ इति। इत्यध्यायतात्पर्यम्। शिष्टं निगदव्याख्यातमिति ( -- व्याख्यानमिति) किं पुनरुक्तेन सन्दिग्धं तु निर्णेष्यते। भूय इत्यादि पृथग्विधा इत्यन्तम्। असंमोहः उत्साहः।
 </details>
@@ -181,12 +188,14 @@ shall I speak;' In answer to this the Lord says:
 
 10.1 See Comment under 10.5
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.1॥ अथोक्तभक्तिवृद्ध्यर्थं स्वयोगप्रभवं हरिः। भूय एवाहानुपृष्टो
 विभूतिं चापि केशवः॥1॥  
@@ -217,10 +226,13 @@ shall I speak;' In answer to this the Lord says:
 पदेनान्येभ्योऽवक्तव्यत्वं गोप्यत्वं च ज्ञापितम्। हितकाम्यया इतिपदेन
 परमकृपा दर्शिता।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.1॥ उक्ताः संक्षेपतः पूर्वं सप्तमादौ विभूतयः। दशमे ता वितन्यन्ते
 सर्वत्रेश्वरदृष्टये॥1॥  
@@ -234,10 +246,13 @@ shall I speak;' In answer to this the Lord says:
 भूयएव पुनरपि मे वचः शृणु। कथंभूतम्। परमं परमात्मनिष्ठं मद्वचनामृतेनैव
 प्रीतिं प्राप्नुवते ते तुभ्यं हितकाम्यया हितेच्छया यदहं वक्ष्यामि तत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.1 The Lord said Further said, O Arjuna, listen to My Supreme word.
@@ -270,11 +285,13 @@ Desirous of your good, I shall speak to you who love Me.
 परमम् supreme; वचः word; यत् which; ते to thee; अहम् I; प्रीयमाणाय who art beloved; वक्ष्यामि (I) will declare; हितकाम्यया wishing (thy)
 welfare.Commentary I shall repeat what I said before (in the seventh and the ninth discourses). My essential nature and My manifestations have already been pointed out. As it is very difficult to understand the divine nature; I shall describe it once more to you; although it has been described already. I shall tell you of the divine glories and point out in which forms of being I should be thought of.I will speak to you as you are delighted to hear Me. Now your heart is taking delight in Me.The Lord wants to encourage Arjuna and cheer him up and so He Himself comes forward to give instructions to Arjuna even without his reest.Paramam Vachah supreme word. Paramam means supreme; revealing the unsurpassed truth (Niratisaya Vastu which is Brahman).O Arjuna You are immensely delighted with My speech; as if you are drinking the immortalising nectar.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.1।। श्रीभगवान् बोले -- हे महाबाहो अर्जुन ! मेरे परम वचनको तुम फिर
@@ -370,6 +387,7 @@ welfare.Commentary I shall repeat what I said before (in the seventh and the nin
 ।।10.1।। श्रीभगवान् ने कहा -- हे महाबाहो ! पुन: तुम मेरे परम वचनों का
 श्रवण करो, जो मैं तुझ अतिशय प्रेम रखने वाले के लिये हित की इच्छा से
 कहूँगा।।
+</details>
 </details>
 
 </div>

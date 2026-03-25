@@ -23,8 +23,9 @@ title = "11 मयि चानन्ययोगेन"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.10॥**मयि** सर्वेश्वरे **च** ऐकान्तिक**योगेन** स्थिरा **भक्तिः** जनवर्जितदेशवासित्वं जनसंसदि च अप्रीतिः।
@@ -39,12 +40,14 @@ title = "11 मयि चानन्ययोगेन"
 
 13.11 'Constant devotion' means devotion with a single end, namely, Myself the Lord of all; 'remaining in places free from people' means having no love for crowds of people.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.11॥ --,**मयि च** इश्वरे **अनन्ययोगेन** अपृथक्समाधिना न अन्यो भगवतो वासुदेवात् परः अस्ति; अतः स एव नः गतिः इत्येवं निश्चिता अव्यभिचारिणी बुद्धिः अनन्ययोगः; तेन भजनं **भक्तिः** न व्यभिचरणशीला **अव्यभिचारिणी।** सा च ज्ञानम्। **विविक्तदेशसेवित्वम्;** विविक्तः स्वभावतः संस्कारेण वा अशुच्यादिभिः सर्पव्याघ्रादिभिश्च रहितः अरण्यनदीपुलिनदेवगृहादिभिर्विविक्तो देशः; तं सेवितुं शीलमस्य इति विविक्तदेशसेवी; तद्भावः विवक्तदेशसेवित्वम्। विविक्तेषु हि देशेषु चित्तं प्रसीदति यतः ततः आत्मादिभावना विविक्ते उपजायते। अतः विविक्तदेशसेवित्वं ज्ञानमुच्यते। **अरतिः** अरमणं **जनसंसदि;** जनानां प्राकृतानां संस्कारशून्यानाम् अविनीतानां संसत् समवायः जनसंसत् न संस्कारवतां विनीतानां संसत् तस्याः ज्ञानोपकारकत्वात्। अतः प्राकृतजनसंसदि अरतिः ज्ञानार्थत्वात् ज्ञानम्॥ किञ्च --,
 </details>
@@ -146,12 +149,14 @@ Knowledge since it leads to Knowledge. Besides,
 तत्त्वज्ञानानुकूलायां रतिरुचितैव। तथाचोक्तम्सङ्गः सर्वात्मना हेयः स
 चेत्त्युक्तं न शक्यते। स सद्भिः सह कर्तव्यः सन्तसङ्गो हि भेषजम् इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.11॥ मयीति।
 </details>
@@ -160,24 +165,28 @@ Knowledge since it leads to Knowledge. Besides,
 
 ॥13.11॥**मयी**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md"></div>
 </details>
 
 <details><summary>शङ्करनारायणः</summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/12_adhyAtmajnAnanity.md"></div>
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.11॥ मयि चेति। अनन्ययोगेन अव्यभिचारिणी निर्हेतुकी भक्तिर्मध्ये
 हृदयरूपोक्ता।
@@ -190,20 +199,26 @@ Knowledge since it leads to Knowledge. Besides,
 भगवत्परिपन्थिरहिततद्देशसेवनशीलत्वम्; अरतिर्जनसंसदि
 जननादिक्लेशयुक्तलौकिकजीवसभायां अरतिः प्रतिष्ठाद्यनाकाङ्क्षा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.11॥ किंच **-- मयि चेति।** मयि परमेश्वरे अनन्ययोगेन सर्वात्मदृष्ट्या
 अव्यभिचारिणी एकान्तभक्तिः; विविक्तः शुद्धिचित्तप्रसादकरः तं देशं सेवितुं
 शीलं यस्य तस्य भावस्तत्त्वम्; प्राकृतानां जनानां संसदि सभायामरती
 रत्यभावः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.11 Constant devotion directed to Me alone, resort to solitary places and dislike for crowds:
@@ -237,11 +252,13 @@ devotion; अव्यभिचारिणी unswerving; विविक्त
 in caves; in the mountains; on the shores of seas or lakes and in beautiful solitary gardens where there is no fear of serpents; tigers or thieves. In solitary places the mind is ite calm. There are no disturbing elements that can distract ones attention. You can have uninterrupted meditation on the Self and can enter into Samadhi ickly.Society of men Distaste for the society of worldlyminded people;
 not of the wise; pure and holy. Satsanga or association with the wise is a means to the attainment of the knowledge of the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.11।। मेरेमें अनन्ययोगके द्वारा अव्यभिचारिणी भक्तिका होना, एकान्त
@@ -405,6 +422,7 @@ not of the wise; pure and holy. Satsanga or association with the wise is a means
 
 ।।13.11।। अनन्ययोग के द्वारा मुझमें अव्यभिचारिणी भक्ति; एकान्त स्थान में
 रहने का स्वभाव और (असंस्कृत) जनों के समुदाय में अरुचि।।
+</details>
 </details>
 
 </div>

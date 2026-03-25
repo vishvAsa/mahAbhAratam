@@ -23,8 +23,9 @@ title = "68 तस्माद्यस्य महाबाहो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.68॥**तस्माद्** उक्तेन प्रकारेण शुभाश्रये मयि निविष्टमनसो **यस्य इन्द्रियाणि इन्द्रियार्थेभ्यः सर्वशो निगृहीतानि तस्य** एव आत्मनि **प्रज्ञा प्रतिष्ठिता** भवति।  
@@ -40,12 +41,14 @@ title = "68 तस्माद्यस्य महाबाहो"
 
 2.68 Therefore, in the way described above, he whose mind is focussed on Me the auspicious object for meditation, and whose senses are thery restrained from sense-objects in everyway, in his mind alone wisdom is firmly set. Sri Krsna now speaks of the state of attainment by one whose senses are subdued and whose mind is serene.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.68॥  
   
@@ -116,12 +119,14 @@ it is opposed to Knowledge. For clarifying this idea, the Lord says:
 स्थितप्रज्ञंप्रति लक्षणत्वस्य मुमुक्षुंप्रति प्रज्ञासाधनत्वस्य
 चोपसंहरणीयत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.68॥ तस्मात्सर्वात्मना निगृहीतेन्द्रिय एव ज्ञानीति निगमयति।
 तस्मादिति।
@@ -137,12 +142,14 @@ it is opposed to Knowledge. For clarifying this idea, the Lord says:
 युक्तिमत एव श्रवणमननाभ्यां तत्त्वज्ञानं तत्त्वज्ञानवत
 एवापरोक्षज्ञानसाधनं ध्यानं नान्यथा तस्मादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.66 2.70॥ रागद्वेषेत्यादि प्रतिष्ठितेत्यन्तम्। यस्तु मनसो नियामकः स विषयान् सेवमानोऽपि न क्रोधादिकल्लोलैरभिभूयते इति स एव स्थितप्रज्ञो योगीति तात्पर्यम्।
 </details>
@@ -151,12 +158,14 @@ it is opposed to Knowledge. For clarifying this idea, the Lord says:
 
 2.64-68 Raga-dvesa-etc. upto pratisthita. Here the purport is this : He, who controls his mind, is not tossed by the waves of wrath etc., even while he is enjoying the sense-objects; hence he alone is a man of Yoga, a man-of-stabilized-intellect. Extraordinary is the man of Yoga, even while he is attending to the worldly business. While examining this point, the characteristics mark of his (man of Yoga), is briefly related by the Supreme Lord-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.68॥ उक्तमुपसंहरति तस्मादिति। हे क्रियाशक्तियुक्त यस्येन्द्रियाणि
 सर्वशः इन्द्रियार्थेभ्यो विषयेभ्यो निगृहीतानि तस्य प्रज्ञा
@@ -172,20 +181,26 @@ it is opposed to Knowledge. For clarifying this idea, the Lord says:
 प्रतिष्ठिता भवतीत्यर्थः। महाबाहो इति सम्बोधनेन तथाकरणसामर्थ्यं
 ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.68॥ इन्द्रियसंयमस्य स्थितप्रज्ञत्वसाधनत्वलक्षणत्वं प्रोक्तमुपसंहरति
 **यस्मादिति।** प्रतिष्ठिता भवतीत्यर्थः। लक्षणत्वोपसंहारे तस्य प्रज्ञा
 प्रतिष्ठिता ज्ञातव्येत्यर्थः। महाबाहो इति संबोधनं वैरिनिग्रहसमर्थस्य
 तवात्रापि सामर्थ्यं भवेदिति सूचयति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.68 Therefore, O mighty-armed, he whose senses are restrained from going after their objects on all sides, his wisdom is firmly set.
@@ -217,11 +232,13 @@ it is opposed to Knowledge. For clarifying this idea, the Lord says:
 restrained; सर्वशः completely; इन्द्रियाणि the senses; इन्द्रियार्थेभ्यः
 from the senseobjects; तस्य his; प्रज्ञा knowledge; प्रतिष्ठिता is steady.Commentary When the senses are completely controlled; the mind cannot wander wildly in the sensual grooves. It becomes steady like the lamp in a windless place. The Yogi is now established in the Self and his knowledge is steady. (Cf.III.7).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/68_tasmAdyasya_mahAb.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.68।। इसलिये हे महाबाहो ! जिस मनुष्यकी इन्द्रियाँ इन्द्रियोंके
@@ -280,6 +297,7 @@ from the senseobjects; तस्य his; प्रज्ञा knowledge; प्
 
 ।।2.68।। इसलिये; हे महाबाहो जिस पुरुष की इन्द्रियाँ सब प्रकार इन्द्रियों
 के विषयों के वश में की हुई होती हैं; उसकी बुद्धि स्थिर होती है।।
+</details>
 </details>
 
 </div>

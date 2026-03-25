@@ -23,8 +23,9 @@ title = "22 न मे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>वेङ्कटनाथः</summary>
 
@@ -128,12 +129,14 @@ title = "22 न मे"
 
 3.22 For Me, who is the Lord of all, who has all desires fulfilled, who is omniscient, whose will is always true, and who, at My own will, remains in the three worlds in the forms of gods, men and such other beings, there is nothing whatever to achieve. Therefore though there is for Me nothing 'unacired', i.e., nothing yet to be acired by work, I go on working for the protection of the world.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.22॥ न मे मम **पार्थ** न **अस्ति** न विद्यते **कर्तव्यं त्रिषु** अपि **लोकेषु किञ्चन** किञ्चिदपि। कस्मात् **न अनवाप्तम्** अप्राप्तम् **अवाप्तव्यं** प्रापणीयम् तथापि **वर्ते एव च कर्मणि** अहम्॥
 </details>
@@ -189,12 +192,14 @@ in action.
 संबोधयन् विशुद्धक्षत्रियवंशोद्भवस्त्वं शूरापत्यापत्यत्वेन चात्यन्तं
 मत्समोऽहमिव वर्तितुमर्हसीति दर्शयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.22॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -203,12 +208,14 @@ in action.
 
 ॥3.22॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.21 3.22॥ यद्यदाचरतीति। न मे इति। प्राप्तप्रापणीयस्य परिपूर्णमनसोऽपि कर्मप्रवृत्तौ लोकानुग्रहः प्रयोजनमित्यत्र श्रीभगवान् आत्मानमेव दृष्टान्तीकरोति।
 </details>
@@ -217,12 +224,14 @@ in action.
 
 3.21-22 Yad yad acarati etc. Na me etc. The Bhagavat cities Himself as an example to illustrate the idea that to favour the world is the \[only\] purpose for such a person to exert in action, eventhough he has already attained whatever is to be attained, and is fully satisfied in his mind.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.22॥ अत्र चाहमेव निदर्शनमित्याह न म इति त्रिभिः।
 </details>
@@ -233,19 +242,25 @@ in action.
 त्रिषु लोकेषु किञ्चन कर्त्तव्यं नास्ति न वा अनवाप्तं अवाप्तव्यं
 प्राप्तव्यं तथापि लोकसङ्ग्रहार्थमहं कर्मणि वर्त्ते कर्म करोमीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/22_na_me.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/22_na_me.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.22॥ अत्र चाहमेव दृष्टान्त इत्याह त्रिभिः **न मे पार्थेति।** हे पार्थ
 मे कर्तव्यं नास्ति। यतस्त्रिष्वपि लोकेष्वनवाप्तमप्राप्तं सदवाप्तव्यं
 प्राप्यं नास्ति तथापि कर्मण्यहं वर्ते। कर्म करोम्येवेत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.22 For me, Arjuna, there is nothing in all the three worlds which ought to be done, nor is there anything unacired that ought to be acired. Yet I go on working.
@@ -279,11 +294,13 @@ in action.
 अनवाप्तम् unattained; अवाप्तव्यम् to be attained; वर्ते am; एव also; च
 and; कर्मणि in action.Commentary I am the Lord of the universe and therefore I have no personal grounds to engage. Myself in action. I have nothing to achieve as I have all divine wealth; as the wealth of the universe is Mine; and yet I engage Myself in action.Why do you not follow My example Why do you not endeavour to prevent the masses from following the wrong path by setting an example yourself If you set an example; people will follow you as you are a leader with noble alities.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/22_na_me.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.22।। हे पार्थ! मुझे तीनों लोकोंमें न तो कुछ कर्तव्य है और न कोई
@@ -359,6 +376,7 @@ and; कर्मणि in action.Commentary I am the Lord of the universe and t
 ।।3.22।। यद्यपि मुझे त्रैलोक्य में कुछ भी कर्तव्य नहीं हैं तथा किंचित भी
 प्राप्त होने योग्य (अवाप्तव्यम्) वस्तु अप्राप्त नहीं है, तो भी मैं कर्म
 में ही बर्तता हूँ।।
+</details>
 </details>
 
 </div>

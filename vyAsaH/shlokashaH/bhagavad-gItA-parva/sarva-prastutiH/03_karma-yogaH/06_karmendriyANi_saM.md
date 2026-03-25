@@ -23,8 +23,9 @@ title = "06 कर्मेन्द्रियाणि संयम्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>वेङ्कटनाथः</summary>
 
@@ -100,12 +101,14 @@ title = "06 कर्मेन्द्रियाणि संयम्य"
 
 3.6 He whose inner and outer organs of senses are not conered because of his sins not being annulled but is none the less struggling for winning knowledge of the self, whose mind is forced to turn away from the self by reason of it being attached to sense objects, and who conseently lets his minds dwell on them - he is called a hypocrite, because his actions are at variance with his professions. The meaning is that by practising the knowledge of the self in this way, he becomes perverted and lost.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.6॥ **कर्मेन्द्रियाणि** हस्तादीनि **संयम्य** संहृत्य यः **आस्ते** तिष्ठति **मनसा स्मरन्** चिन्तयन् **इन्द्रियार्थान्** विषयान् **विमूढात्मा** विमूढान्तःकरणः **मिथ्याचारो** मृषाचारः पापाचारः **सः उच्यते॥**
 </details>
@@ -170,12 +173,14 @@ mithya-acarah, a hypocrite, a sinful person.
 यस्मात्तत्त्यागी पतितो भवेत्॥ इत्यादिधर्मशास्त्रेण। अत उपपन्नं नच
 संन्यसनादेवाशुद्धान्तःकरणः सिद्धिं समधिगच्छतीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.6 3.7॥ तथापि शक्तितः त्यागः कार्य इत्याह कर्मेन्द्रियाणीति। मन एव
 प्रयोजकमिति दर्शयितुमन्वयव्यतिरेकावाह मनसा स्मरन् मनसा नियम्येति।
@@ -204,12 +209,14 @@ mithya-acarah, a hypocrite, a sinful person.
 पृथगुक्तत्वात् सामान्यशब्दोऽपि विशेषो व्यवस्थापितः। न चात्र तथाविधं
 किञ्चिदस्तीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.6॥ कर्मेन्द्रियाणीति। कर्मेन्द्रियैश्चेन्न करोति अवश्यं तर्हि +++(S omits तर्हि)+++ मनसा करोति प्रत्युत सः मूढाचारः +++(The expressions मूढाचारः and मिथ्याचारः are found hereinafter interchanged in the MSS. )+++ मानसानां कर्मणामत्यन्तमपरिहार्यत्वात्।
 </details>
@@ -218,12 +225,14 @@ mithya-acarah, a hypocrite, a sinful person.
 
 3.6 Karmendriyani etc. If he does not act with his organs of action, then he necessarily acts with his mind. At the same time he is the man of deluded action; For, the mental actions can never be avoided totally.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.6॥ यश्च कर्मेन्द्रियैः कर्माकरणे नैष्कर्म्यसम्भव उक्तः सोऽपि न साधुः
 मानसक्रियानिवर्त्यत्वेनोक्तस्वरूपत्वासम्भवादित्याह
@@ -243,20 +252,26 @@ mithya-acarah, a hypocrite, a sinful person.
 लोकज्ञापनार्थं स विमूढात्मा मिथ्याचारः मिथ्याचरतीति दाम्भिक उच्यत
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/06_karmendriyANi_saM.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/06_karmendriyANi_saM.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.6॥ अतोऽज्ञं कर्मत्यागिनं निन्दति कर्मेन्द्रियाणीति। वाक्पाण्यादीनि
 कर्मेन्द्रियाण्यपि संयम्य निगृह्य यो मनसा
 भगवद्ध्यानच्छलेनेन्द्रियार्थान् विषयान् स्मरन्नास्ते अविशुद्धतया मनसा
 आत्मनि स्थैर्यभावात् स मिथ्याचारः कपटाचारो दाम्भिक उच्यत इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.6 He who, controlling the organs of action, lets his mind dwell on the objects of senses, is a deluded person and a hypocrite.
@@ -293,11 +308,13 @@ senseobjects; विमूढात्मा of deluded understanding; मिथ
 Pani from the Vayu Tanmatra (air); Padam from the Agni Tanmatra (fire);
 Upastha from the Apas Tanmatra (water); and Guda from the Prithivi Tanmatra (earth). That man who; restraining the organs of action; sits revolving in his mind thoughts regarding the objects of the senses is a man of sinful conduct. He is selfdeluded. He is a veritable hypocrite.The organs of action must be controlled. The thoughts should also be controlled. The mind should be firmly fixed on the Lord. Only then will you become a true Yogi. Only then will you attain to Selfrealisation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/06_karmendriyANi_saM.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.6।। जो कर्मेन्द्रियों- (सम्पूर्ण इन्द्रियों-) को हठपूर्वक रोककर मनसे
@@ -393,6 +410,7 @@ Upastha from the Apas Tanmatra (water); and Guda from the Prithivi Tanmatra (ear
 ।।3.6।। जो मूढ बुद्धि पुरुष कर्मेन्द्रियों का निग्रह कर इन्द्रियों के
 भोगों का मन से स्मरण (चिन्तन) करता रहता है वह मिथ्याचारी (दम्भी) कहा
 जाता है।।
+</details>
 </details>
 
 </div>

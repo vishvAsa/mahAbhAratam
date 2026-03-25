@@ -23,8 +23,9 @@ title = "18 गतिर्भर्ता प्रभुः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.18॥ गम्यत इति **गतिः;** तत्र तत्र प्राप्यस्थानम् इत्यर्थः। **भर्ता** धारयिता; **प्रभुः** शासिता; **साक्षी** साक्षाद् द्रष्टा; **निवासः** वासस्थानं च वेश्मादि; **शरणम्** इष्टस्य प्रापकतया अनिष्टस्य निवारणतया समाश्रयणीयश् चेतनः शरणम्; स च अहम् एव **सुहृत्** हितैषी; प्रभवप्रलयस्थानं यस्य कस्य यत्र कुत्रचित् प्रभवप्रलययोर् यत् स्थानं तद् अहम् एव। **निधानं** निधीयत इति निधानम् उत्पाद्यम् उपसंहार्यं च अहम् एव इत्यर्थः। **अव्ययं बीजं** तत्र तत्र व्ययरहितं यत् कारणं तद् अहम् एव।
@@ -41,12 +42,14 @@ title = "18 गतिर्भर्ता प्रभुः"
 
 9.18 'Gaith' means that which is reached. The meaning is that it is the place to be reached from everywhere. The 'supporter' is one who props. The 'ruler' is one who rules. The 'witness' is one who sees directly. The 'abode' is that where one dwells in as in a house etc. The 'refuge' is the intelligent being wh has to be sought, as he leads one to the attainment of desirable things and avoidance of evils. A 'friend' is one who wishes well. The 'base' is that place in which origin and dissolution takes place. I alone am that 'Nidhana', that which is preserved. What comes into being and is dissolved is Myself. The imperishable seed is that exhaustless cause everywhere. I alone am that.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.18॥ --,**गतिः** कर्मफलम्; **भर्ता** पोष्टा; **प्रभुः** स्वामी; **साक्षी** प्राणिनां कृताकृतस्य; **निवासः** यस्मिन् प्राणिनो निवसन्ति; **शरणम्** आर्तानाम्; प्रपन्नानामार्तिहरः। **सुहृत्** प्रत्युपकारानपेक्षः सन् उपकारी; **प्रभवः** उत्पत्तिः जगतः; **प्रलयः** प्रलीयते अस्मिन् इति; तथा **स्थानं** तिष्ठति अस्मिन् इति; **निधानं** निक्षेपः कालान्तरोपभोग्यं प्राणिनाम्; **बीजं** प्ररोहकारणं प्ररोहधर्मिणाम्; **अव्ययं** यावत्संसारभावित्वात् अव्ययम्; न हि अबीजं किञ्चित् प्ररोहति नित्यं च प्ररोहदर्शनात् बीजसंततिः न व्येति इति गम्यते॥ किञ्च --,
 </details>
@@ -145,12 +148,14 @@ continuity of the seed never ends. Further,
 अव्ययमविनाशि। नतु व्रीह्यादिवद्विनश्वरं तेनानाद्यनन्तं यत्कारणं
 तदप्यहमेवेति पूर्वेणैव संबन्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.18॥ गम्यते मुमुक्षुभिरिति गतिः। तथा हि सामवेदे वासिष्ठशाखायाम् अथ
 कस्मादुच्यते गतिरिति ब्रह्मैव गतिरिति तद्धि गम्यते पापविमुक्तैः इति।
@@ -179,12 +184,14 @@ continuity of the seed never ends. Further,
 पश्चात्तत्र निधीयन्त इत्यर्थः। तत्कुतः इत्यत आह -- **तथा ही**ति।
 विश्वकर्मणीश्वरे शुभ्रचक्षुः शुद्धदृष्टिरहम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.16 -- 9.19॥ ननु कर्म तावत् कारककलापव्याप्तभेदोद्रेकि कथमभिन्नं भगवत्पदं प्रापयतीति उच्यते -- अहं क्रतुरिति अर्जुनेत्यनन्तम्। एकस्यैव निर्भागस्य ब्रह्मतत्त्वस्य परिकल्पित \[भेदवत्\] साधनाधीनं कर्म पुनरेकत्वं निर्वर्तयति क्रियायाः सर्वकारकात्मसाक्षात्कारेणावस्थाने भगवत्पदप्राप्तिं प्रत्यविदूरत्वात्। उक्तं च -- सेयं क्रियात्मिका शक्तिः शिवस्य पशुवर्तिनी।  
   
@@ -197,12 +204,14 @@ continuity of the seed never ends. Further,
 
 9.18 See Comment under 9.19
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.18॥ किञ्च गतिः प्राप्यलोकादिरूपा ब्रह्मैव; तेन गन्तव्यमिति
 पूर्वसूत्रितत्वात्। भर्त्ता पोषकश्चाहम्। प्रभुः फलदश्च साक्षी
@@ -227,10 +236,13 @@ continuity of the seed never ends. Further,
 स्थाप्यतेऽनेनेति निधानं; रक्षक इत्यर्थः। अव्ययं बीजम्; अविनाशि बीजं
 मूलकारणमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.18॥ किंच **-- गतिरिति।** गम्यत इति गतिः। फलम्; भर्ता पोषणकर्ता;
 प्रभुः नियन्ता; साक्षी शुभाशुभद्रष्टा; निवासः भोगस्थानम्; शरणं
@@ -239,10 +251,13 @@ continuity of the seed never ends. Further,
 निधीयतेऽस्मिन्निति निधानं लयस्थानम्; बीजं कारणम्; तथाप्यव्ययमविनाशि नतु
 व्रीह्यादिबीजवन्नश्वरमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.18 I am the goal, supporter, the Lord, the witness, the abode, the refuge and the friend. I am the seat of origin and dissolution, the base for preservation and the imperishable seed.
@@ -278,11 +293,13 @@ I am the witness of the good and evil actions done by the Jivas
 (individuals). I am the abode wherein all living beings dwell. I am the shelter or refuge for the distressed. I relieve the sufferings of those who take shelter under Me. I am the friend; i.e.; I do good without expecting any return. I am the source of this universe. In Me the whole world is dissolved. I am the mainstay or the foundation of this world. I am the treasurehouse which living beings shall enjoy in the future. I am the imperishable see; i.e.; the cause of the origin of all beings.
 Therefore; take shelter under My feet.**
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.16 -- 9.18।।****क्रतु मैं हूँ, यज्ञ मैं हूँ, स्वधा मैं हूँ, औषध
@@ -398,6 +415,7 @@ Therefore; take shelter under My feet.**
 ।।9.18।। गति (लक्ष्य), भरण-पोषण करने वाला, प्रभु (स्वामी), साक्षी,
 निवास, शरणस्थान तथा मित्र और उत्पत्ति, प्रलयरूप तथा स्थान (आधार), निधान
 और अव्यय कारण भी मैं हूँ।।
+</details>
 </details>
 
 </div>

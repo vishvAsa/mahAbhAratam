@@ -23,8 +23,9 @@ title = "23 नैनञ् छिन्दन्ति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 पुनरपि  
@@ -109,12 +110,14 @@ title = "23 नैनञ् छिन्दन्ति"
 
 2.23 - 2.24 Weapons, fire, water and air are incapable of cleaving, burning, wetting and drying the self; for, the nature of the self is to pervade all elements; It is present everywhere; for, It is subtler than all the elements; It is not capable of being pervaded by them; and cleaving, burning, wetting and drying are actions which can take place only by pervading a substance. Therefore the self is eternal. It is stable, immovable and primeval. The meaning is that It is unchanging, unshakable and ancient.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.23॥  
   
@@ -198,12 +201,14 @@ svatmanam.-Tr.\]
 प्रकृतत्वादवयुत्यानुवादेनोपन्यासः पृथिव्यप्तेजोवायूनामेव
 नाशकत्वप्रसिद्धेस्तेषामेवोपन्यासो नाकाशस्य।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.23॥ स्वतः प्रायो निमित्तैश्चाविनाशिनोऽपि केनचिन्निमित्तविशेषेण
 स्यात् ककच्छेदादिवत् इत्यतो विशेषनिमित्तानि निषेधति नैनमिति।  
@@ -248,12 +253,14 @@ svatmanam.-Tr.\]
 तथेत्यर्थः। इत्यत एवं शङ्कितत्वात्। विशिष्यन्त इति विशेषाः।
 विशिष्टनिमित्तानि विनाशस्य।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.24 2.26॥ नैनमित्यादि। नास्य नाशकारणं शस्त्रादि किंचित्करम्। चिदेकस्वभावस्य अनाश्रितस्य +++(N K add निरपेक्षस्य after अनाश्रितस्य)+++ निरंशस्य +++(N omits निरंशस्य S adds निरवयवस्य after निरंशस्य)+++ स्वतन्त्रस्य स्वभावान्तरापत्त्याश्रयविनाशावयवविभाग विरोधिप्रादुर्भावादिक्रमेण +++(S प्रक्रमेण)+++ नाशयितुमशक्यत्वात्। न च देहान्तरगमनमस्य अपूर्वम् देहान्वितोऽपि +++(N अपूर्वदेहान्नित्योऽपि)+++ सततं देहान्तरं गच्छति तेन संबध्यते इत्यर्थः। देहस्य क्षणमात्रमप्यनवस्थायित्वात्। एवंभूतं विदित्वा एनमात्मानं  
   
@@ -264,12 +271,14 @@ svatmanam.-Tr.\]
 
 2.23 See Comment under 2.25
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.23॥ पुनरस्यात्मनोऽविनाशित्वमेव सुग्रहणाय श्रावयति सार्द्धाभ्यां
 नैनमित्यादिना। एतेन पृथिव्यप्तेजोवायुभिरविनाशित्वं निरूपितम्।
@@ -287,18 +296,24 @@ svatmanam.-Tr.\]
 स्वधर्मकरणे शक्तिः। अत एव श्रीभागवते 3।25।42 उक्तम् मद्भयाद्वाति
 वातोऽयम् इत्यादि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.23॥ कथं हन्तीत्यनेनोक्तं वधसाधनाभावं दर्शयन्नविनाशित्वमात्मनः
 स्फुटीकरोति नैनमिति। आपो नैनं क्लेदयन्ति मृदुकरणेन शिथिलं न कुर्वन्ति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.23 Weapons do not cleave It (the self), fire does not burn It, waters do not wet It, and wind does not dry It.
@@ -333,11 +348,13 @@ and wind dries It not.
 wet; आपः waters; न not; शोषयति dries; मारुतः wind.Commentary The Self is indivisible. It has no parts. It is extremely subtle. It is infinite.
 Therefore; sword cannot cut It fire cannot burn It water cannot wet It wind cannot dry It.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.23।। शस्त्र इस शरीरीको काट नहीं सकते, अग्नि इसको जला नहीं सकती, जल
@@ -437,6 +454,7 @@ Therefore; sword cannot cut It fire cannot burn It water cannot wet It wind cann
 
 ।।2.23।। इस आत्मा को शस्त्र काट नहीं सकते और न अग्नि इसे जला सकती है ;
 जल इसे गीला नहीं कर सकता और वायु इसे सुखा नहीं सकती।।
+</details>
 </details>
 
 </div>

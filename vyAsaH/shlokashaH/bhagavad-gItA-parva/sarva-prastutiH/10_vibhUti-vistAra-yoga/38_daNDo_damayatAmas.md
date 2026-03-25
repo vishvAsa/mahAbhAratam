@@ -23,8 +23,9 @@ title = "38 दण्डो दमयतामस्मि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.38॥ नियमातिक्रमणे दण्डं कुर्वतां **दण्डः** अहम्। विजिगीषूणां जयोपायभूता **नीतिर् अस्मि। गुह्यानां** सम्बन्धिषु गोपनेषु **मौनम् अस्मि; ज्ञानवतां ज्ञानं च अहम्।**
@@ -39,12 +40,14 @@ title = "38 दण्डो दमयतामस्मि"
 
 10.38 I am the power of punishment of those who punish, if law is transgressed. In regard to those who seek victory I am policy which is the means of getting victory. Of factors associated with secrecy. I am silence. I am the wisdon of those who are wise.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.38॥ --,**दण्डः दमयतां** दमयितॄणाम् **अस्मि** अदान्तानां दमनकारण्। **नीतिः अस्मि जिगीषतां** जेतुमिच्छताम्। **मौनं चैव अस्मि गुह्यानां** गोप्यानाम्। **ज्ञानं ज्ञानवताम् अहम्**॥
 </details>
@@ -95,12 +98,14 @@ men of knowledge.
 ज्ञानिनां यच्छ्रवणमनननिदिध्यासनपरिपाकप्रभवमद्वितीयात्मसाक्षात्काररूपं
 सर्वाज्ञानविरोधि ज्ञानं तदहमस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.38॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -109,12 +114,14 @@ men of knowledge.
 
 ॥10.38॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -123,12 +130,14 @@ men of knowledge.
 
 10.38 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.38॥ दण्ड इति। कालीयेन्द्रादिषु कृतो दण्डो भगवद्रूप उक्तः।
 स्पष्टमन्यत्।
@@ -140,10 +149,13 @@ men of knowledge.
 भावः। जिगीषतां जेतुमिच्छतां नीतिरस्मि। गुह्यानां गोप्यानां मध्ये
 मौनमवचनमस्मि। ज्ञानवतां ज्ञानिनां मध्ये ज्ञानमहमस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.38॥ **दण्ड इति।** दमयतां दमनकर्तॄणां संबन्धी दण्डोऽस्मि येनासंयता
 अपि संयता भवन्ति स दण्डो मद्विभूतिः। जेतुमिच्छतां संबन्धिनी
@@ -151,10 +163,13 @@ men of knowledge.
 नहि तूष्णींस्थितस्याभिप्रायो ज्ञायते। ज्ञानवतां तत्त्वज्ञानिनां
 यज्ज्ञानं तदहम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.38 Of those that punish, I am the principle of punishment. Of these that seek victory, I am policy. Of secrets, I am also silence. And of those who are wise, I am wisdom.
@@ -188,11 +203,13 @@ statesmanship; अस्मि (I) am; जिगीषताम् among thoese 
 मौनम् silence; च and; एव also; अस्मि (I) am; गुह्यानाम् among secrets;
 ज्ञानम् the knowledge; ज्ञानवताम् among the knowers; अहम् I.Commentary Niti Diplomacy; polity.Maunam The silence produced by constant meditation on Brahman or the Self.Jnanam Knowledge of the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.38।। दमन करनेवालोंमें दण्डनीति और विजय चाहनेवालोंमें नीति मैं हूँ।
@@ -263,6 +280,7 @@ statesmanship; अस्मि (I) am; जिगीषताम् among thoese 
 
 ।।10.38।। मैं दमन करने वालों का दण्ड हूँ और विजयेच्छुओं की नीति हूँ; मैं
 गुह्यों में मौन हूँ और ज्ञानवानों का ज्ञान हूँ।।
+</details>
 </details>
 
 </div>

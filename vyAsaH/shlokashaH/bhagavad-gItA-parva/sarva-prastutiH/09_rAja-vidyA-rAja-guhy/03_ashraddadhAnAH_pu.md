@@ -23,8 +23,9 @@ title = "03 अश्रद्दधानाः पुरुषा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.3॥**अस्य** उपासनाख्यस्य **धर्मस्य** निरतिशयप्रियमद्विषयतया स्वयं निरतिशयप्रियरूपस्य परमनिःश्रेयसस्वरूपमत्प्राप्तिसाधनस्य अव्ययस्य उपादानयोग्यदशां प्राप्य **अश्रद्दधानाः** विश्वासपूर्वकत्वारारहिताः पुरुषाः **माम् अप्राप्य** मृत्युरूपे **संसारवर्त्मनि** नितरां **वर्तन्ते।** अहो महद् इदम् आश्चर्यम् इत्यर्थः। श्रृणु तावत् प्राप्यभूतस्य मम अचिन्त्यमहिमानम् --
@@ -39,12 +40,14 @@ title = "03 अश्रद्दधानाः पुरुषा"
 
 9.3 Some men who even after attaining the state fit for the practice of this Dharma which is called Upasana (worship) - which is immensely dear inasmuch as it has for its goal Myself who am incomparably dear, and which is the means for the attainment of Myself forming the supreme good that does not perish - may still 'lack faith' in it. Such persons who lack faith which reires eagerness for realization, will not attain Me but remain in the mortal pathway of Samsara. O how strange it is - this hindrance caused by evil Karma! Such is the meaning. \[It means, that to declare that one has faith in a spiritual doctrine and yet to take no steps to put it into practice, is pure hypocrisy.\] Listen then to the inconceivable glory of Myself, who am the goal tobe attained:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.3॥ --,**अश्रद्दधानाः** श्रद्धाविरहिताः आत्मज्ञानस्य **धर्मस्य अस्य**स्वरूपे तत्फले च नास्तिकाः पापकारिणः; असुराणाम् उपनिषदं देहमात्रात्मदर्शनमेव प्रतिपन्नाः असुतृपः पापाः **पुरुषाः** अश्रद्दधानाः; **परंतप; अप्राप्य मां** परमेश्वरम्; मत्प्राप्तौ नैव आशङ्का इति मत्प्राप्तिमार्गसाधनभेदभक्तिमात्रमपि अप्राप्य इत्यर्थः। **निवर्तन्ते** निश्चयेन वर्तन्ते क्व -- **मृत्युसंसारवर्त्मनि** मृत्युयुक्तः संसारः मृत्युसंसारः तस्य वर्त्म नरकतिर्यगादिप्राप्तिमार्गः; तस्मिन्नेव वर्तन्ते इत्यर्थः॥ स्तुत्या अर्जुनमभिमुखीकृत्य आह --,
 </details>
@@ -125,12 +128,14 @@ says:
 निश्चयेन वर्तन्ते। क्व। मृत्युयुक्ते संसारवर्त्मनि। सर्वदा
 जननमरणप्रबन्धेन नारकितिर्यगादित्योनिष्वेव भ्रमन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.3॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -139,12 +144,14 @@ says:
 
 ॥9.3॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.3॥ अश्रद्दधाना इति। निवर्तन्ते +++(adds न च मत्स्था यथाकाशमें (ए)+++ वं हि सर्वभूतानि -- before निवर्तन्ते। Obviously this is to go the next verse) ; पुनः पुनर्जायन्ते म्रियन्ते च।
 </details>
@@ -153,12 +160,14 @@ says:
 
 9.3 Asraddadhanah etc. They remain eternally : Again and again they are born and they die.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.3॥ अस्य ज्ञानस्य मध्ये धर्मस्य भजनलक्षणस्य; पाठान्तरे तु धर्मस्य
 तत्सहितज्ञानस्य वा श्रद्धारहिताः पुरुषा ये ते मां पुरुषोत्तममप्राप्य
@@ -176,10 +185,13 @@ says:
 तृतीयमार्गाभिनिविष्टा भवन्तीत्यर्थः। अश्रद्दधानाः इति कथनेन
 श्रद्धामात्रेणापि संसाराभावो व्यञ्जितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.3॥ नन्वेवमस्वातिसुकरत्वे के नाम संसारिणः स्युस्तत्राह **--
 अश्रद्दधाना इति।** अस्य भक्तिलक्षणज्ञानसहितस्य धर्मस्येति कर्मणिषष्ठ्यौ।
@@ -187,10 +199,13 @@ says:
 कृतप्रयत्ना अपि मामप्राप्य मृत्युयुक्ते संसारवर्त्मनि निवर्तन्ते।
 मृत्युव्याप्ते संसारमार्गे परिभ्रमन्तीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.3 Men devoid of faith in this Dharma, O scorcher of foes, ever remain without attaining Me, in the mortal pathway of Samsara.
@@ -225,11 +240,13 @@ wrought with death.
 accordig to righteousness; very easy to perform; and imperishable. It was the strong faith of Lord Buddha that induced him to have that iron determination which he expressed in these words; I will not budge an inch from my seat till I get illumination. Faith goes hand in hand with fiery determination.The Lord has eulogies the knowledge of the Self in the first two verses by the positive method (Vidhi Mukhastuti). He has extolled it in the third verse by the negative method (Nishedha Mukhastuti). The benefits of obtaining knowledge of the Self are described in the first and the second verses. This is Vidhi Mukhastuti.
 The disastrous effects that result from not obtaining the knowledge of the Self are described in the third verse. This is Nishedha Mukhastuti.The greedy; lustful and sinful persons who are the followers of the philosophy of the flesh; who lead the life of the demons; who worship the body taking it to be the Self; and who have no faith in the knowledge of the Self; do not reach Me. They do not even possess an iota of devotion which is also one of the paths that lead men to Me. They remain in the path of the world of death which leads to hell and the lower births of animals; worms; etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.3।। हे परंतप! इस धर्मकी महिमापर श्रद्धा न रखनेवाले मनुष्य मेरे
@@ -307,6 +324,7 @@ The disastrous effects that result from not obtaining the knowledge of the Self 
 
 ।।9.3।। हे परन्तप ! इस धर्म में श्रद्धारहित पुरुष मुझे प्राप्त न होकर
 मृत्युरूपी संसार में रहते हैं (भ्रमण करते हैं)।।
+</details>
 </details>
 
 </div>

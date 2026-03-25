@@ -23,8 +23,9 @@ title = "21 वेदाविनाशिनन् नित्यम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.21॥ एवम् अविनाशित्वेन अजत्वेन व्ययानर्हत्वेन च **नित्यम् एनम्** आत्मानं **यः** पुरुषो **वेद स पुरुषो** देवमनुष्यतिर्यक्स्थावरशरीरावस्थितेष्व् आत्मसु **कम्** अप्य् आत्मानं **कथं घातयति** **कं** वा कथं **हन्ति** कथं नाशयति कथं वा तत्प्रयोजको भवति इत्यर्थः। एतान् आत्मनो घातयामि हन्मि इत्य् अनुशोचनम् आत्मस्वरूपयाथात्म्याज्ञानमूलम् एव इत्यभिप्रायः।  
@@ -42,12 +43,14 @@ title = "21 वेदाविनाशिनन् नित्यम्"
 
 2.21 He who knows the self to be eternal, as It is indestructible, unborn and changeless - how can that person be said to cause the death of the self, be it of the self existing in the bodies of gods or animals or immovables; Whom does he kill; The meaning is - how can he destroy any one or cause anyone to slay; How does he become an instrument for slaying; The meaning is this: the feeling of sorrow: 'I cause the slaying of these selves, I slay these,' has its basis solely in ignorance about the true nature of the self. Let it be granted that what is done is only separation of the bodies from the eternal selves. Even then, when the bodies, which are instruments for the experience of agreeable pleasures, perish, there still exists reason for sorrow in their separation from the bodies. To this (Sri Krsna) replies:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.21॥  
   
@@ -701,12 +704,14 @@ like; That is being said in, 'As after rejecting wornout clothes,' etc.
 भगवताभ्यनुज्ञानात् वास्तवकर्तृत्वाद्यभावस्य कर्ममात्रे समत्वादिति
 दिक्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.21॥ अतो य एवं वेद स कथं घातयति हन्ति वा अविनाशिनं
 नैमित्तिकविनाशरहितम्। नित्यं स्वाभाविकनाशरहितम्। अथवाऽविनाशिनं
@@ -728,12 +733,14 @@ like; That is being said in, 'As after rejecting wornout clothes,' etc.
 अविनाशिनं दोषयोगरहितमिति कुतो लभ्यमित्यत आह **दोषे**ति।
 अनेकार्थत्वाद्धातूनामिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.22॥ वेदेति। य एनमात्मानं प्रबुद्धत्वात् जानाति स न हन्ति न स हन्यते इति तस्य कथं बन्धः +++(N omits इति बन्धः)+++।
 </details>
@@ -742,12 +749,14 @@ like; That is being said in, 'As after rejecting wornout clothes,' etc.
 
 2.21 Veda etc. Whosoever, because of his realisation, under-stands this Self as 'This neither slays \[any one\]. nor is This slain \[by any one\] - how could there be any bondage for him ;
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.21॥ निर्विकारात्मज्ञानोत्पन्नं फलमाह वेदाविनाशिनमिति। कथमिति
 प्रकारनिषेधः। कं हन्तीति कर्मकर्तृत्वम् घातयतीति प्रयोजकत्वं च
@@ -762,10 +771,13 @@ like; That is being said in, 'As after rejecting wornout clothes,' etc.
 पुरुषः कथं केन साधनेन कं स्वयं प्रेरको भूत्वाऽन्येन घातयति न
 कमपीत्यर्थः। स्वयं च कं हन्ति न कञ्चिदित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.21॥ अतएव हन्तृत्वाभावोऽपि पूर्वोक्तः प्रसिद्ध इत्याह **वेदेति।**
 नित्यं वृद्धिशून्यम् अव्ययमपक्षयशून्यम् अजमविनाशिनं च यो वेद स पुरुषः कं
@@ -773,10 +785,13 @@ like; That is being said in, 'As after rejecting wornout clothes,' etc.
 भूत्वाऽन्येन कं घातयति। न कंचिदपि कथंचिदपीत्यर्थः। अनेन मय्यपि
 प्रयोजकत्वाद्दोषदृष्टिं मा कार्षीरित्युक्तं भवति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.21 He who knows this (self) to be indestructible, unborn, unchanging and hence eternal - how and whom, O Arjuna, does he cause to be killed,
@@ -812,11 +827,13 @@ Always-the-Same, how should he kill or cause to be killed;
 this (Self); अजम् unborn; अव्ययम् inexhaustible; कथम् how; सः he (that);
 पुरुषः man; पार्थ O Partha (son of Pritha); कम् whom; घातयति causes to be slain; हन्ति kills; कम् whom.Commentary The enlightened sage who knows the immutable and indestructible Self through direct cognition or spiritual Anubhava (experience) cannot do the act of slaying. He cannot cause another to slay also.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.21।। हे पृथानन्दन! जो मनुष्य इस शरीरीको अविनाशी, नित्य, जन्मरहित और
@@ -865,6 +882,7 @@ this (Self); अजम् unborn; अव्ययम् inexhaustible; कथम
 
 ।।2.21।। हे पार्थ ! जो पुरुष इस आत्मा को अविनाशी, नित्य और अव्ययस्वरूप
 जानता है, वह कैसे किसको मरवायेगा और कैसे किसको मारेगा;
+</details>
 </details>
 
 </div>

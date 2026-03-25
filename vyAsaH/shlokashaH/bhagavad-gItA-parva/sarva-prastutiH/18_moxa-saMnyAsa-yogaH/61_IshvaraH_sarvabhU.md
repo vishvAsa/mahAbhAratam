@@ -23,8 +23,9 @@ title = "61 ईश्वरः सर्वभूतानाम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.61॥**ईश्वरः** सर्वनियमनशीलो वासुदेवः  
@@ -61,12 +62,14 @@ title = "61 ईश्वरः सर्वभूतानाम्"
 18.61 Lord Vasudeva, who is the ruler over all, lives in 'the heart of all beings,' i.e., in the region from which arises all knowledge which is at the root of all secular and spiritual activities. How and doing what does He exist; He exists enabling, by His Maya (power), 'all beings who are mounted, as it were, on the machine Prakrti' in the form of body and senses created by Himself, to act in accordance with their Gunas of Sattva and others. It was already expressed in 'And I am seated in the hearts of all. From Me are memory, knowledge and their removal also'
 (15.15) and in 'From Me proceed everything' (10.8). The Srutis also proclaim 'He who, dwelling in the self' (Br. U. Madh., 3.7.22). He now explains the way to get rid of the Maya:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.61॥ -- **ईश्वरः** ईशनशीलः नारायणः **सर्वभूतानां** सर्वप्राणिनां **हृद्देशे** हृदयदेशे **अर्जुन** शुक्लान्तरात्मस्वभावः विशुद्धान्तःकरणः
 -- अहश्च कृष्णमहरर्जुनं च (ऋ. सं. 6।9।1) इति दर्शनात् -- **तिष्ठति**
@@ -173,12 +176,14 @@ revolving').
 दारुनिर्मितपुरुषादीन्यत्यन्तपरतन्त्राणि यथा मायावी भ्रामयति
 तद्वदित्यर्थशेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.61॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -187,12 +192,14 @@ revolving').
 
 ॥18.61॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.61 -- 18.62॥ ईश्वर इति। तमेवेति। एष ईश्वरः परमात्मा अवश्यं शरणत्वेन ग्राह्यः। तत्र हि अधिष्ठातरि कर्तरि +++(omits कर्तरि )+++ बोद्धरि स्वात्ममये विमृष्टे +++(;N विस्पष्टे )+++ ; न कर्माणि स्थतिभाञ्जि भवन्ति। न हि निशिततरनखरकोटिविदारितसमदकरिकरटगलितमुक्ताफलनिकरपरिकरप्रकाशितप्रतापमहसि ( omits -- परिकर -- ) सिंहकिशोरके गुहामधितिष्ठति चपलमनसो विद्रवणमात्रबलशालिनो हरिणपोतकाः +++(K हिरण -- )+++ स्वैरं स्वव्यापारपरिशीलनापटुभावमवलंबन्ते इति। तमेव शरणं गच्च्छइत्युपक्रम्य मत्प्रसादात् इति निर्वाहवाक्यमभिदधत् भगवान् परमात्मानम् ईश्वरं वासुदेवं च एकतया योजयति इति।
 </details>
@@ -201,12 +208,14 @@ revolving').
 
 18.61 See Comment under 18.62
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.61॥ इदानीं प्राकृतभूतजातनियन्तृरूपेण मया सर्वं भूतजातं
 प्राकृतकर्मानुगुणलीलया प्रकृत्यनुवर्त्तने नियमितं भवतीति
@@ -233,10 +242,13 @@ revolving').
 कृत्रिमभूतानि सूत्रधारश्चालयति तथा मायया भ्रामयंस्तिष्ठतीति वाऽर्थः। अत
 ईश्वरप्रेरितानेव प्रकृतिः कर्म च साधकतया प्रेरयतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.61॥ तदेवं श्लोकद्वयेन साङ्ख्यादिमतेन प्रकृतिपारतन्त्र्यं
 स्वभावपारतन्त्र्यं कर्मपारतन्त्र्यं चोक्तम्। इदानीं स्वमतमाह **-- ईश्वर
@@ -250,10 +262,13 @@ revolving').
 आत्मनि तिष्ठन्नात्मानमन्तरो यमयति यमात्मा न वेद यस्यात्मा शरीरं एष त
 आत्मान्तर्याम्यमृतः इत्यादि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.61 The Lord, O Arjuna, abides in the heart of every being, spinning them round and round, mounted on a wheel as it were, by His power.
@@ -286,11 +301,13 @@ mounted on a \[revolving\] mechanical contrivance.
 18.61 ईश्वरः the Lord; सर्वभूतानाम् of all beings; हृद्देशे in the hearts; अर्जुन O Arjuna; तिष्ठति dwells; भ्रामयन् causing to revolve;
 सर्वभूतानि all beings; यन्त्रारूढानि mounted on a machine; मायया by illusion.Commentary Isvara The Lord the Ruler of the universe Narayana.The Lord abides in the hearts of all beings. It is He Who has given a gift of this marvellous machine to you. It is by His power that all bodies move. The Lord is the real Actor within.By Maya By causing illusion.He causes all beings to revolve like wooden dolls mounted on a machine. (Cf.X.20.XIII.18)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.61।। हे अर्जुन ! ईश्वर सम्पूर्ण प्राणियोंके हृदयमें रहता है और अपनी
@@ -431,6 +448,7 @@ mounted on a \[revolving\] mechanical contrivance.
 ।।18.61।। हे अर्जुन (मानों किसी) यन्त्र पर आरूढ़ समस्त भूतों को ईश्वर
 अपनी माया से घुमाता हुआ (भ्रामयन्) भूतमात्र के हृदय में स्थित रहता
 है।।
+</details>
 </details>
 
 </div>

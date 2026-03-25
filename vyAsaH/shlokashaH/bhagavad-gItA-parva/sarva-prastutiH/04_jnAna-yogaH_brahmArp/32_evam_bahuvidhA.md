@@ -23,8 +23,9 @@ title = "32 एवम् बहुविधा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.32॥**एवं** हि **बहु**प्रकाराः कर्मयोगाः **ब्रह्मणो मुखे वितताः** आत्मयाथात्म्यावाप्तिसाधनतया स्थिताः **तान्** उक्तलक्षणानुक्तभेदान् कर्मयोगान् **सर्वान् कर्मजान् विद्धि।** अहरहो ऽनुष्ठीयमाननित्यनैमित्तिककर्मानुष्ठानजान् विद्धि। **एवं ज्ञात्वा** यथोक्तप्रकारेण अनुष्ठाय विमोक्ष्यसे। अन्तर्गतज्ञानतया कर्मणो ज्ञानाकारत्वम् उक्तं तत्र अन्तर्गतज्ञाने कर्मणि ज्ञानांशस्य एव प्राधान्यम् आह
@@ -39,12 +40,14 @@ title = "32 एवम् बहुविधा"
 
 4.32 Thus there are many kinds of Kamra Yoga, which are spread out for the attainment of the Brahman. That means, they lead to the realisaion of the true nature of the individual self. Know that all these are forms of Karma Yoga, which have been previoulsy defined and diversified, as born of actions. That means, know them as resulting from occasional and obligatory rites performed day by day. Knowing thus, observing them in the manner prescribed, you will be released. It has been stated that actions have the form of knowledge because of the inclusion of knowledge in them. Now Sri Krsna explains the predominance of the component of knowledge in such actions which include knowledge within themselves.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.32॥ **एवं** यथोक्ता **बहुविधा** बहुप्रकारा **यज्ञाः वितताः** विस्तीर्णाः **ब्रह्मणो** वेदस्य **मुखे** द्वारे वेदद्वारेण अवगम्यमानाः ब्रह्मणो मुखे वितता उच्यन्ते तद्यथा वाचि हि प्राणं जुहुमः इत्यादयः। **कर्मजान्** कायिकवाचिकमानसकर्मोद्भवान् **विद्धि तान् सर्वान्** अनात्मजान् निर्व्यापारो हि आत्मा। अत **एवं ज्ञात्वा विमोक्ष्यसे** अशुभात्। न मद्व्यापारा इमे निर्व्यापारोऽहम् उदासीन इत्येवं ज्ञात्वा अस्मात् सम्यग्दर्शनात् मोक्ष्यसे संसारबन्धनात् इत्यर्थः॥ ब्रह्मार्पणम् इत्यादिश्लोकेन सम्यग्दर्शनस्य यज्ञत्वं संपादितम्। यज्ञाश्च अनेके उपदिष्टाः। तैः सिद्धपुरुषार्थप्रयोजनैः ज्ञानं स्तूयते। कथम्
 </details>
@@ -128,12 +131,14 @@ extolled: How;
 एते किंतु निर्व्यापारोऽहमुदासीन इत्येवं ज्ञात्वा विमोक्ष्यसे।
 अस्मात्संसारबन्धनादिति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.32॥ ब्रह्मणः परमात्मनो मुखे। अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च
 9।24 इति वक्ष्यति। मानसिकवाचिककायिककर्मजा एव हि ते सर्वे। एवं ज्ञात्वा
@@ -162,12 +167,14 @@ extolled: How;
 व्यर्थमित्यत आह **एवमि**ति। कर्मजान्विद्धि इत्यनेन कथमर्जुनस्य
 शङ्कापरिहारः इत्यत आह **युद्धमि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.32॥ एवमिति। सर्वे च एते यज्ञा ब्रह्मणो मुखे द्वारा उपायत्वे कथिताः। तेषु कर्मणामनुगमोऽस्तीत्येवं ज्ञात्वा त्वमपि बन्धनान्मोक्षमेष्यसि।
 </details>
@@ -176,12 +183,14 @@ extolled: How;
 
 4.32 Evam etc. All these sacrifices have been detailed in the mouth of i.e., at the entrance to, i.e., as means to \[attain\], the Brahman. In them there lies the practice of actions as common factor. By knowing in this manner, you too shall attain liberation from bondage. The speciality here is this :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.32॥ एवं च वेदे प्रारम्भ एव बहुविधा यज्ञा वितताः तानि धर्माणि
 प्रथमान्यासन् ऋक्सं.8।6।19।6यजुस्सं.31।16 यज्ञेन यज्ञमयजन्त देवाः
@@ -201,10 +210,13 @@ extolled: How;
 वेदाद्युक्तत्वाद्यज्ञादिकर्मसु आसक्त्यभावार्थमेवं बहुप्रकारका यज्ञा
 उक्ता इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.32॥ ज्ञानयज्ञं स्तोतुमुक्तान्यज्ञानुपसंहरति **एवमिति।** ब्रह्मणो
 वेदस्य मुखे वितताः। वेदेन साक्षाद्विहिता इत्यर्थः। तथापि
@@ -212,10 +224,13 @@ extolled: How;
 आत्मनः कर्मागोचरत्वादेवं ज्ञात्वा ज्ञाननिष्ठः सन्संसाराद्विमुक्तो
 भविष्यसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.32 Thus many forms of sacrifices have been spread out as means of reaching Brahman (individual self in its own nature). Know that all these born of actions. Knowing thus, you shall be free.
@@ -249,11 +264,13 @@ at the mouth or face of Brahman). Know them all as born of action and thus knowi
 having known; विमोक्ष्यसे thou shalt be liberated.Commentary The word Brahmanah has also been interpreted to mean In the Vedas.Various kinds of sacrifices are spread out at the mouth of Brahman; i.e.; they are known from the Vedas. Know that they are born of action; because the Self is beyond action. If you realise that these actions do not concern me; they are not my actin; and I am actionless; you will surely be liberated from the bondage of Samsara by this right knowledge.
 (Cf.IX.27XIII.15)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.32।। इस प्रकार और भी बहुत तरहके यज्ञ वेदकी वाणीमें विस्तारसे कहे गये
@@ -310,6 +327,7 @@ having known; विमोक्ष्यसे thou shalt be liberated.Commenta
 ।।4.32।। ऐसे अनेक प्रकार के यज्ञों का ब्रह्मा के मुख अर्थात् वेदों में
 प्रसार है अर्थात् वर्णित हैं। उन सब को कर्मों से उत्पन्न हुए जानो; इस
 प्रकार जानकर तुम मुक्त हो जाओगे।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "53 श्रुतिविप्रतिपन्ना ते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.53॥**श्रुतिः** श्रवणम् अस्मत्तः श्रवणेन **वि**शेषतः **प्रतिपन्ना** सकलेतरविसजातीयनित्यनिरतिशयसूक्ष्मतत्त्वविषया स्वयम् **अचला** एकरूपा **बुद्धिः** असङ्गकर्मानुष्ठानेन विमलीकृते मनसि **यदा निश्चला स्थास्यति तदा योगम्** आत्मावलोकनम् **अवाप्स्यसि।** एतद् उक्तं भवति शास्त्रजन्यात्मज्ञानपूर्वककर्मयोगः स्थितप्रज्ञताख्यज्ञाननिष्ठाम् आपादयति ज्ञाननिष्ठारूपा स्थितप्रज्ञता तु योगाख्यम् आत्मावलोकनं साधयति इति।  
@@ -40,12 +41,14 @@ title = "53 श्रुतिविप्रतिपन्ना ते"
 
 2.53 Here 'Sruti' means hearing (and not the Veda). When your intellect, which, by hearing from us, has become specially enlightened, having for its object the eternal, unsurpassed and subtle self - which belongs to a class different from all other entities -, then the intellect is firmly fixed, i.e., in a single psychosis and stands unshaken. In such a concentrated mind, purified by the performance of duties without attachment, will be generated true Yoga, which consists in the vision of the self. What is said is this: Karma Yoga, which presupposes the knowledge of the real nature of the self obtained from the scriptures, leads to a firm devotion to knowledge known as the state of firm wisdom; and the state of 'firm wisdom;' which is in the form of devotion to knowledge, generates the vision of the self; this vision is here called Yoga. Arjuna, thus taught, estions about the nature of 'firm wisdom' which constitutes the means for the attainment of Yoga and which itself is attainable through Karma Yoga which consists in work with detachment, and also about the mode of behaviour of a man of 'firm wisdom.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.53॥  
   
@@ -163,12 +166,14 @@ supreme Goal.\] asked:
   
 भविष्यसीत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.53॥ तदेव स्पष्टयति श्रुतिविप्रतिपन्नेति। पूर्वं
 श्रुतिभिर्वेदैर्विप्रतिपन्ना विरुद्धा सती यदा वेदार्थानुकूलेन
@@ -196,12 +201,14 @@ supreme Goal.\] asked:
 प्राप्तफलः। योगशब्देन तत्फलमुपलक्ष्यत इति भावः।
 श्लोकद्वयेप्येतदवस्थाप्राप्तिर्योगानुष्ठानावधिरिति तात्पर्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.54 2.55॥ यदा ते इति। श्रुतीति। तत्र च योगबुद्धिप्राप्त्यबसरे तव स्फुटमेवेदमभिज्ञानम् श्रोतव्यस्य +++(S omits श्रोतव्यस्य)+++ श्रुतस्य अभिलष्यमाणस्य च +++(N वा instead of च)+++ आगमस्य उभस्यापि निर्वेदभावत्वम् +++(SK भाक्त्वम्)+++। अनेन चेदमुक्तम् अविद्यापद +++(N अविद्यमद)+++ निपतितप्रमात्रनुग्राहकशास्त्रश्रवणसंस्कारविप्रलम्भमहिमा अयं यत् तवास्थाने कुलक्षयादिदोषदर्शनम्। तत्तु तथाशासनबहुमानविगलने विगलिष्यति इति।
 </details>
@@ -210,12 +217,14 @@ supreme Goal.\] asked:
 
 2.52-53 Yada te etc. Sruti-etc. At the time, when the determining facult with regard to the Yoga is attained, the clear sign of recognizing it, is this : An attitude of futility about the revealed literature that has to be listened to, that has been listened to and that is being declared. What has been declared by the above is this : 'This present view of yours about the ruination of your race is out of place and it is due to the influence of your deceptive notion, born of mental impressions created by your listening to the teachings of those scriptures that favour the observers who are fallen deep into the course of ignorance. But, that view shall vanish when the respect for such a teaching disappears.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.52 2.53॥ कदा तत्पदमहं प्राप्स्यामि इत्यपेक्षायामाह यदेति द्वाभ्याम्।
 निश्चला विशोकधैर्यादिवती ते यदा बुद्धिर्व्यवसायात्मिकैव तदा श्रोतव्यस्य
@@ -232,10 +241,13 @@ supreme Goal.\] asked:
 ते बुद्धिर्भविष्यति समाधौ मच्चिन्तनसमये अचला स्वतो दृढा स्थास्यति तदा
 योगं मत्सान्निध्यरूपमवाप्स्यसि प्राप्स्यसीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.53॥ ततश्च   **श्रुतीति।**
 श्रुतिभिर्नानालौकिकवैदिकार्थश्रवणैर्विप्रतिपन्ना इतः पूर्वं विक्षिप्ता
@@ -245,10 +257,13 @@ supreme Goal.\] asked:
 अभ्यासपटुत्वेन तत्रैव स्थिरा लयव्याप्तिः सती तदा योगं योगफलं
 तत्त्वज्ञानमवाप्स्यपि।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.53 When your intellect, well enlightened by hearing from Me and firmly placed, stands unshaken in a concentrated mind, then you will attain the vision of the self.
@@ -283,11 +298,13 @@ steady; बुद्धिः intellect; तदा then; योगम् Selfrea
 (thou) shalt attain.Commentary When your intellect which is tossed about by the conflict of opinions regarding the Pravritti Marga (the path of action) and the Nivritti Marga (the path of retirement or renunciation)
 has become immovable without distraction and doubt and firmly established in the Self; then thou shalt attain Selfrealisation or knowledge of the Self (AtmaJnana).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.53।। जिस कालमें शास्त्रीय मतभेदोंसे विचलित हुई तेरी बुद्धि निश्चल हो
@@ -348,6 +365,7 @@ has become immovable without distraction and doubt and firmly established in the
 ।।2.53।। जब अनेक प्रकार के विषयों को सुनने से विचलित हुई तुम्हारी बुद्धि
 आत्मस्वरूप में अचल और स्थिर हो जायेगी तब तुम (परमार्थ) योग को प्राप्त
 करोगे।।
+</details>
 </details>
 
 </div>

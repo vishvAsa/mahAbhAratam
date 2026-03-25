@@ -23,8 +23,9 @@ title = "53 नाहं वेदैर्न"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.53॥ वेदैर् अध्यापनप्रवचनाध्ययनश्रवणजपविषयैर् यागदानहोमतपोभिश् च मद्भक्तिरहितैः केवलैर् यथावद् अवस्थितः **अहं द्रष्टुं न शक्यः। अनन्यया तु भक्त्या** तत्त्वतः शास्त्रैः **ज्ञातुं तत्त्वतः साक्षात्कर्तुं** तत्त्वतः **प्रवेष्टुं च शक्यः।  
@@ -43,12 +44,14 @@ title = "53 नाहं वेदैर्न"
 'This Self cannot be obtained by instruction, nor by intellect nor by much hearing. Whomsoever He chooses, by him alone is He obtained. To such a one He reveals His own form' (Ka. U., 2.2.23) and (Mun. U.,
 3.2.3).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.53॥ --,**न अहं वेदैः** ऋग्यजुःसामाथर्ववेदैः चतुर्भिरपि; **न तपसा** उग्रेण चान्द्रायणादिना; न **दानेन** गोभूहिरण्यादिना; **न च इज्यया** यज्ञेन पूजया वा **शक्यः एवंविधः** यथादर्शितप्रकारः **द्रष्टुं दृष्टवान् असि मां यथा** त्वम्॥ कथं पुनः शक्यः इति उच्यते --,
 </details>
@@ -100,12 +103,14 @@ Me. 'How again, can You be seen; This is being answered:
 मद्भक्तिशून्यत्वादित्याह -- नाहमिति। न वेदयज्ञाध्ययनैरित्यादिना। गतार्थः
 श्लोकः परमदुर्लभत्वख्यापनायाभ्यस्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.53॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -114,12 +119,14 @@ Me. 'How again, can You be seen; This is being answered:
 
 ॥11.53॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.53॥ No commentary.
 </details>
@@ -128,12 +135,14 @@ Me. 'How again, can You be seen; This is being answered:
 
 11.53 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.53॥ एवं विश्वरूपस्य सुदुर्दर्शत्वं निरूप्य तदादिदृष्टस्य स्वस्यापि
 तदाह -- नाहं वेदैरिति। निरतिशयाक्षरैश्वर्योऽहमात्मा नायमात्मा प्रवचनेन
@@ -152,17 +161,23 @@ Me. 'How again, can You be seen; This is being answered:
 \[तै.उ.2।4।12।9।1\] इत्युक्तम्। तपसा क्लेशात्मकेनाऽपि न; दानेन
 सर्वस्वदक्षिणात्मकेन न; इज्यया यागेन न द्रष्टुं शक्यः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.53॥ तत्र हेतुः **-- नाहमिति।** स्पष्टार्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.53 Sri Krsna says Not by the Vedas, nor by austerities, nor by gifts,
@@ -198,11 +213,13 @@ hast seen; माम् Me; यथा as.Commentary This Cosmic Form which thou 
 (penances); nor by charity; nor by sacrifices of various kinds.Arjuna was indeed very fortunate in seeing the Cosmic Form.How can the Lord be seen Listen The heart must be overflowing with true devotion to Him.
 (Cf.XI.48)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.53।। जिस प्रकार तुमने मुझे देखा है, इस प्रकारका (चतुर्भुजरूपवाला)
@@ -238,6 +255,7 @@ hast seen; माम् Me; यथा as.Commentary This Cosmic Form which thou 
 
 ।।11.53।। न वेदों से, न तप से, न दान से और न यज्ञ से ही मैं इस प्रकार
 देखा जा सकता हूँ, जैसा कि तुमने मुझे देखा है।।
+</details>
 </details>
 
 </div>

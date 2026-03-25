@@ -25,8 +25,9 @@ title = "42 यच्चावहासार्थमसत्कृतोऽ�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.42॥ **तव** अनन्तवीर्यत्वामितविक्रमत्वसर्वान्तरात्मत्वस्रष्टृत्वादिको यो महिमा तम् इमम् **अजानतया मया प्रमादात्** मोहात् **प्रणयेन** चिरपरिचयेन **वा सखा** इतिमम वयस्य इति **मत्वा हे कृष्ण हे यादव हे सखे इति** त्वयि **प्रसभं** विनयापेतं **यद् उक्तं यच् च** परि**हासार्थं** सर्वदा एव सत्कारार्हस् त्वम् **असत्कृतो ऽसि; विहारशय्यासनभोजनेषु** च सहकृतेष्व् एकान्ते वा **समक्षं** वा यद् असत्कृतो ऽसि; **तत्** सर्वं **त्वाम् अप्रमेयम् अहं क्षामये।**
@@ -41,12 +42,14 @@ title = "42 यच्चावहासार्थमसत्कृतोऽ�
 
 11.41 - 11.42 Infinite power, boundless valour, being the Inner Self of everything, being the creator etc., these constitute Your majesty. Being ignorant of this, and considering You only as a friend, and out of conseent love, or negligence born of life-long familiarity, whatever has been said rudely, without showing courtesy, such as 'O Krsna, O Yadava, O Comrade'; and whatever disrespect has been shown to You in jest, while playing or resting, while sitting or eating, while alone or in the sight of others - for all these I beseech forgiveness of You who are in incomprehensible.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.42॥ --,**यच्च अवहासार्थं** परिहासप्रयोजनाय **असत्कृतः** परिभूतः **असि** भवसि क्व **विहारशय्यासनभोजनेषु;** विहरणं विहारः पादव्यायामः; शयनं शय्या; आसनम् आस्थायिका; भोजनम् अदनम्; इति एतेषु विहारशय्यासनभोजनेषु; **एकः** परोक्षः सन् असत्कृतः असि परिभूतः असि **अथवापि** हे **अच्युत;** तत् **समक्षम्;** तच्छब्दः क्रियाविशेषणार्थः; प्रत्यक्षं वा असत्कृतः असि **तत्** सर्वम् अपराधजातं **क्षामये** क्षमां कारये **त्वाम् अहम् अप्रमेयं** प्रमाणातीतम्॥ यतः त्वम् --,
 </details>
@@ -123,12 +126,14 @@ knowledge. (I beg Your pardon) because,
 परमकारुणिकेन भगवता त्वन्माहात्म्यानभिज्ञस्य ममापराधाः क्षन्तव्या
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.42॥ एकस्त्वमेव कारयिता; नान्योऽस्त्यथापि।
 </details>
@@ -140,12 +145,14 @@ knowledge. (I beg Your pardon) because,
 कारयितृत्वद्योतकः। अन्तर्णीतण्यर्थात्करोतेर्डः। अथापि
 एवमसत्कारानर्होऽप्यसत्कृतोऽसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.42॥ No commentary.
 </details>
@@ -154,12 +161,14 @@ knowledge. (I beg Your pardon) because,
 
 11.42 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.42॥ किञ्च तामसकर्मसु मृगयाविहारादिषु स्थितं त्वां तमोगुणयुक्तं
 पूर्वं ज्ञात्वा मया यदसत्कृतोऽसि तदप्येकोऽहं त्वां साम्प्रतं क्षमां
@@ -175,20 +184,26 @@ knowledge. (I beg Your pardon) because,
 स्वाङ्गीकृतपरिपालक। अहं त्वामप्रमेयं प्रमातुमयोग्यं तत्सर्वं क्षामये
 क्षमां कारयामि अप्रमेयत्वेनाऽज्ञानजापराधनिवृत्तिः सूचिता।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.42॥ किंच **-- यच्चेति।** हे अच्युत; यच्च परिहासार्थं क्रीडादिषु
 तिरस्कृतोऽसि। एकः केवलः। सखीन्विना रहसि स्थित इत्यर्थः। अथवा तत्समक्षं
 तेषां परिहसतां सखीनां समक्षं पुरतोऽपि तत्सर्वमपराधजातं
 त्वामप्रमेयचिन्त्यप्रभावं क्षामये क्षमां कारयामि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.42 And whatever disrespect has been shown to You in jest, while playing, resting, while sitting or eating, while alone or in the sight of others, O Acyuta - I implore You for forgiveness, You who are incomprehensible.
@@ -224,11 +239,13 @@ disrespected; असि (Thou) art; विहारशय्यासनभो�
 while sitting or at meals; एकः (when) one; अथवा or; अपि even; अच्युत O Krishna; तत् so; समक्षम् in company; तत् that; क्षामये implore to forgive; त्वाम् Thee; अहम् I; अप्रमेयम् immeasurable.Commentary Arjuna;
 beholding the Cosmic Form of Lord Krishna; seeks forgiveness for his past familiar conduct. He says; I have been stupid. I have treated Thee with familiarity; not knowing Thy greatness. I have taken Thee as my friend on account of misconception. I have behaved badly with Thee. Thou art the origin of this universe and yet I have joked with Thee. I have taken undue liberties with Thee. Kindly forgive me; O Lord.Tat All those offences.Achyuta He who is unchanging.In company In the presence of others.Aprameyam Immeasurable. He Who has unthinkable glory and splendour.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.41 -- 11.42।। आपकी महिमा और स्वरूपको न जानते हुए 'मेरे सखा हैं'
@@ -285,6 +302,7 @@ beholding the Cosmic Form of Lord Krishna; seeks forgiveness for his past famili
 ।।11.42।। और, हे अच्युत! जो आप मेरे द्वारा हँसी के लिये बिहार, शय्या,
 आसन और भोजन के समय अकेले में अथवा अन्यों के समक्ष भी अपमानित किये गये
 हैं, उन सब के लिए अप्रमेय स्वरूप आप से मैं क्षमायाचना करता हूँ।।
+</details>
 </details>
 
 </div>

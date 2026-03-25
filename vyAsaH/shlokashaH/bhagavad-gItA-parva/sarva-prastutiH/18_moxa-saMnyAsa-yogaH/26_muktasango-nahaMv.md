@@ -23,8 +23,9 @@ title = "26 मुक्तसङ्गोऽनहंवादी"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.26॥**मुक्तसङ्गः** फलसङ्गरहितः; **अनहंवादी** कर्तृत्वाभिमानरहितः **धृत्युत्साहसमन्वितः;** आरब्धे कर्मणि यावत्कर्मसमाप्त्यवर्जनीयदुःखधारणं धृतिः; उत्साह उद्युक्तचेतस्त्वम्; ताभ्यां समन्वितः **सिद्ध्यसिद्ध्योर् निर्विकारः** युद्धादौ कर्मणि तदुपकरणभूतद्रव्यार्जनादिषु च सिद्ध्यसिद्ध्योर् अविकृचित्तः **कर्ता सात्त्विक उच्यते।**
@@ -40,12 +41,14 @@ title = "26 मुक्तसङ्गोऽनहंवादी"
 18.26 'Muktasangah' is one who is free from attachment to fruits.
 'Anahamvadi' is one who is devoid of the feeling of being the agent. He is endued with 'steadiness and zeal.' 'Steadiness' is perseverance in regard to an act that has been begun in spite of the pain that is inevitable till the completion of the work. 'Zeal' is the possession of an active mind. One who is enduded with these, and whose mind remains firm, untouched by success and failure in war etc., and also in gathering the material reisities for the work on hand - such an agent is, of Sattvika nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.26॥ --,**मुक्तसङ्गः** मुक्तः परित्यक्तः सङ्गः येन सः मुक्तसङ्गः; **अनहंवादी** न अहंवदनशीलः; **धृत्युत्साहसमन्वितः** धृतिः धारणम् उत्साहः उद्यमः ताभ्यां समन्वितः संयुक्तः धृत्युत्साहसमन्वितः; **सिद्ध्यसिद्ध्योः** क्रियमाणस्य कर्मणः फलसिद्धौ असिद्धौ च सिद्ध्यसिद्ध्योः **निर्विकारः;** केवलं शास्त्रप्रमाणेन प्रयुक्तः न फलरागादिना यः सः निर्विकारः उच्यते। एवंभूतः **कर्ता** यः सः **सात्त्विकः उच्यते**॥
 </details>
@@ -116,12 +119,14 @@ sattva.
 विकारो वदनविकासम्लानत्वादिस्तेन रहितः सिद्ध्यसिद्ध्योर्निर्विकारः केवलं
 शास्त्रप्रमाणप्रयुक्तो न फलरागेण; अत एवंभूतः कर्ता सात्त्विक उच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.26॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -130,12 +135,14 @@ sattva.
 
 ॥18.26॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.26 -- 18.28॥ मुक्तसङ्ग इत्यादि तामस उच्यते इत्यन्तम्। अहं कर्ता इति न वदन्; तच्छीलः; तद्धर्मा +++(N तद्धर्मः )+++ ; तत्साधुकारी वा यो न +++(S न यो भवति ;N;K omit न )+++ भवति इति अनहंवादी इति। अनेन णिनिना व्यवहारमात्रसंवृत्तिवशेन योगिनोऽपि अहं करोमि इति वचो न निषिद्धम्। हर्षशोकान्वितः; सिद्ध्यसिद्ध्योः। निकृतिः नैर्घृण्यम्।
 </details>
@@ -144,12 +151,14 @@ sattva.
 
 18.26 See Comment under 18.28
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.26॥ कर्तुस्त्रैविध्यमाह -- मुक्तसङ्ग इति। मुक्तः सङ्गः फलादिविषयको
 येन अनहंवादी कर्तृत्वाभिमानरहितः कर्मसिद्ध्यसिद्ध्योर्निर्विकारः
@@ -165,20 +174,26 @@ sattva.
 समन्वितो युक्तः; सिद्ध्यसिद्ध्योः कृतकर्मफलाफलयोर्निर्विकारः
 हर्षविषादरहितः; एतादृशः कर्त्ता सात्त्विक उच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.26॥ कर्तारं त्रिविधमाह **-- मुक्तसङ्ग इति त्रिभिः।**
 मुक्तसङ्गस्त्यक्ताभिनिवेशः; अनहंवादी गर्वोक्तिरहितः; धृतिर्धैर्यम्;
 उत्साह उद्यमः; ताभ्यां समन्वितः संयुक्तः; आरब्धस्य कर्मणः सिद्धावसिद्धौ
 च निर्विकारो हर्षविषादशून्यः एवंभूतः कर्ता सात्त्विक उच्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.26 That agent is said to be Sattvika who is free from attachment, who does not make much of himself, who is endued with steadiness and zeal and is untouched by success and failure.
@@ -211,11 +226,13 @@ sattva.
 सिद्ध्यसिद्ध्योः in success or failure; निर्विकारः unaffected; कर्ता an agent; सात्त्विकः Sattvic (pure); उच्यते is called.Commentary A pure agent does his actions with his whole heart without feeling proud at the performance. He looks for the proper time and place and in accordance with the behests of the scriptures determines whether such actions are worth doing or not. He develops courage and a powerful will. He never seeks physical comforts. He is ite prepared to sacrifice his life for a noble cause. He is neither elated by success nor grieved by failure. He always keeps a balanced mind when he does any action. O Arjuna; that man is a pure agent who; while working; exhibits such alities.Siddhi Success attainment of the fruit of action performed.Nirvikarah Unaffected as having been urged to act merely by the authority of the scriptures; not by a desire for the sake of the reward.Now I will tell thee; O Arjuna;
 of the characteristics of a passionate agent.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.26।। जो कर्ता रागरहित, अनहंवादी, धैर्य और उत्साहयुक्त तथा सिद्धि और
@@ -312,6 +329,7 @@ of the characteristics of a passionate agent.
 ।।18.26।। जो कर्ता संगरहित, अहंमन्यता से रहित, धैर्य और उत्साह से युक्त
 एवं कार्य की सिद्धि (सफलता) और असिद्धि (विफलता) में निर्विकार रहता है,
 वह कर्ता सात्त्विक कहा जाता है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "18 समः शत्रौ"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.18॥ अद्वेष्टा सर्वभूतानाम् (गीता 12।13) इत्यादिना शत्रुमित्रादिषु द्वेषादिरहितत्वम् उक्तम्। अत्र तेषु सन्निहितेष्व् अपि समचित्तत्वम्; ततो ऽप्य् अतिरिक्तो विशेष उच्यते। आत्मनि स्थिरमतित्वेन निकेतनादिष्व् असक्त इति **अनिकेतः;** तत एव मानापमानादिष्व् अपि समः; य एवम्भूतो **भक्तिमान्** स **मे प्रियः। अस्माद् आत्मनिष्ठान् मद्भक्तियोगनिष्ठस्य श्रैष्ठ्यं प्रतिपादयन् यथोपक्रमम् उपसंहरति --**
@@ -41,12 +42,14 @@ title = "18 समः शत्रौ"
 
 12.18 - 12.19 The absence of hate etc., towards foes, friends etc., has already been taught in the stanza beginning with, 'He who never hates any being' (11.13). What is now taught is that eanimity to be practised even when such persons mentioned above are present before one who is superior to those having a general eanimous temperament referred to earlier. Who has no 'home', namely, who is not attached to home, etc., as he possesses firmness of mind with regard to the self. Because of this, he is 'same even in honour and dishonour.' He who is devoted to Me and who is like this - he is dear to Me. Showing the superiority of Bhakti-Nistha over Atma-nistha, Sri Krsna now concludes in accordance with what is stated at the beginning of this chapter in Verse 2.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥12.18॥ --,**समः शत्रौ च मित्रे च; तथा मानापमानयोः** पूजापरिभवयोः; **शीतोष्णसुखदुःखेषु समः;** सर्वत्र च सङ्गविवर्जितः॥ किञ्च --,
 </details>
@@ -97,12 +100,14 @@ attachment to everything; Moreover,
 चेतनाचेतनसर्वविषयशोभनाध्यासरहितः। ,सर्वथा हर्षविषादशून्य इत्यर्थः।
 स्पष्टमन्यत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.18॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -111,12 +116,14 @@ attachment to everything; Moreover,
 
 ॥12.18॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.15 -- 12.20॥ यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति परमकैवल्यम् इति।  
   
@@ -127,12 +134,14 @@ attachment to everything; Moreover,
 
 12.18 See Comment under 12.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.18॥ तथा सम इति। शत्रौ मित्रे च मानापमानयोश्च शीतादिषु च स्वयं समः;
 सेव्ये स्वामिनि श्रीभगवति तु शीतादिकं प्रेम्णा
@@ -147,19 +156,25 @@ attachment to everything; Moreover,
 द्वेषानुरागरहित इत्यर्थः। तथा मानापमानयोरपि समः। शीतोष्णयोर्दैहिकयोः
 सुखदुःखयोः पुत्रजन्ममरणादिरूपयोः समः। सङ्गवर्जितः लौकिकासक्तिरहितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/18_samaH_shatrau.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/18_samaH_shatrau.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.18॥ किंच **-- सम इति।** शत्रौ च मित्रे च सम एकरूपः; मानापमानयोरपि
 तथा सम एव। हर्षविषादशून्य इत्यर्थः। शीतोष्णयोः सुखदुःखयोश्च समः
 सङ्गविवर्जितः क्वचिदप्यनासक्तः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.18 He who is same to foe and friend, honour and dishonour, who is alike to both cold and heat, pleasure and pain, and who is free from all attachments;
@@ -193,11 +208,13 @@ who is free from attachment.
 and; तथा also; मानापमानयोः in honour and dishonour; शीतोष्णसुखदुःखेषु in cold and heat; in pleasure and pain; समः the same; सङ्गविवर्जितः free from attachment.Commentary The ordinary man of the world is ruled by the pairs of opposites; honour and dishonour; cold and heat and pleasure and pain but a Yogi or a sage or a devotee (Bhagavata) has a balanced mind.
 He has poise or eanimity. He is not at all swayed by the blind forces of attraction and repulsion.He who does wrong to others is a foe. He who does good to others is a friend.The devotee or the sage has no attachment for objects of any kind.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/18_samaH_shatrau.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.18।। जो शत्रु और मित्रमें तथा मान-अपमानमें सम है और शीत-उष्ण
@@ -444,6 +461,7 @@ He has poise or eanimity. He is not at all swayed by the blind forces of attract
 
 ।।12.18।। जो पुरुष शत्रु और मित्र में तथा मान और अपमान में सम है; जो
 शीत-उष्ण व सुखदु:खादिक द्वन्द्वों में सम है और आसक्ति रहित है।।
+</details>
 </details>
 
 </div>

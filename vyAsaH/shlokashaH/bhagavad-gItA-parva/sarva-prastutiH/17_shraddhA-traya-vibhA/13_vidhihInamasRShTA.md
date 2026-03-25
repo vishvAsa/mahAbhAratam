@@ -23,8 +23,9 @@ title = "13 विधिहीनमसृष्टान्नम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.13॥**विधिहीनं** ब्राह्मणोक्तविधिहीनं सदाचारयुक्तैर् विधिविद्भिर् ब्राह्मणैर् यजस्य इत्य् उक्तिहीनम् इत्यर्थः। **असृष्टान्नम्** अचोदितद्रव्यम्। **मन्त्रहीनम् अदक्षिणं श्रद्धाविरहितं** च **यज्ञं तामसं परिचक्षते। अथ तपसो गुणतस् त्रैविध्यं वक्तुं तस्य शरीरवाङ्मनोभिर् निष्पाद्यतया तत्स्वरूपभेदं तावद् आह --**
@@ -40,12 +41,14 @@ title = "13 विधिहीनमसृष्टान्नम्"
 17.13 They say that sacrifice is Tamasa, which is bereft of the authority of injunction of Brahmanas of learning and good conduct as 'Do this sacrifice,' which is 'Asrstanna' viz., which uses offerings
 (materials) not sanctioned by the Sastras; which is performed without recitation of hymns; and which is bereft of gifts and faith. Now, to explain the threefold division of austerities according to their source in the Gunas, Sri Krsna describes their differences in respect of the body, speech and mind:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.13॥ --,**विधिहीनं** यथाचोदितविपरीतम्; **असृष्टान्नं** ब्राह्मणेभ्यो न सृष्टं न दत्तम् अन्नं यस्मिन् यज्ञे सः असृष्टान्नः तम् असृष्टान्नम्; मन्त्रहीनं मन्त्रतः स्वरतो वर्णतो वा वियुक्तं **मन्त्रहीनम्; अदक्षिणम्** उक्तदक्षिणारहितम्; **श्रद्धाविरहितं यज्ञं तामसं परिचक्षते** तमोनिर्वृत्तं कथयन्ति॥ अथ इदानीं तपः त्रिविधम् उच्यते
 --,
@@ -107,12 +110,14 @@ stated the three kinds of austerity:
 फलोत्पादकमपूर्वमस्ति यथाशास्त्रमनुष्ठानात्; तामसे
 त्वयथाशास्त्रानुष्ठानान्न किमप्यपूर्वमस्तीत्यतिशयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.13॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -121,12 +126,14 @@ stated the three kinds of austerity:
 
 ॥17.13॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.11 -- 17.13॥ अफलेत्यादि परिचक्षते इत्यन्तम्। मनः समाधाय निश्चयेनानुसंधाय। दम्भार्थमपीति -- दंभः लोको +++(N लोके )+++ मामेवं -- विधं जानीयादिति। विधिहीनमिति -- शास्त्रोक्तक्रियाविहीनम् तदेवासृष्टान्नादिभिर्विशेषणैर्वितन्यते।
 </details>
@@ -135,12 +142,14 @@ stated the three kinds of austerity:
 
 17.11-13 Aphala-etc. upto paricaksate. Stabilizing mind : by firmly believing. Also for the sake of display etc. Display : an intention 'Let the world take me to be of this natrue'. That which is devoid of scriptural injunction : that which is devoid of rituals prescribed in the scriptures. The same \[feature\] is elaborated by the attributives 'That in which no food is distributed' etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.13॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -152,20 +161,26 @@ stated the three kinds of austerity:
 वैधदक्षिणारहितं; श्रद्धया आदरेण विरहितं शून्यं यज्ञं तामसं परिचक्षते
 कथयन्ति महान्त इति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.13॥ तामसं यज्ञमाह **-- विधिहीनमिति।** विधिहीनं
 शास्त्रोक्तविधिशून्यम्। असृष्टान्नं ब्राह्मणादिभ्यो न सृष्टं न
 निष्पादितमन्नं यस्मिंस्तम्। मन्त्रहीनं यथोक्तदक्षिणारहितं च
 श्रद्धाशून्यं यज्ञं तामसं परिचक्षते कथयन्ति शिष्टाः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.13 That sacrifice which is bereft of authority, which uses offerings not sanctioned by the Sastras, which is performed without recitation of hymns and bereft of gifts and faith - that, they say, is marked by Tamas.
@@ -199,11 +214,13 @@ Vedic hymns, where no food and \[sacrifical\] fee are distributed, and which is 
 which is devoid of gifts; श्रद्धाविरहितम् which is devoid of faith;
 यज्ञम् sacrifice; तामसम् Tamasic; परिचक्षते (they) declare.Commentary A sacrifice performed by a Tamasic man is never guided by any consideration for the prescribed rites or incantation. You will find every irregularity in this sacrifice. No food is distributed. No fees which are prescribed in the scriptures are given to the priests. The Mantras are not changed properly. The hymns recited are defective in utterance and accent. Sometimes there is no recitation at all. There is no faith. A man who performs such a sacrifice does not get any merit.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.13।। शास्त्रविधिसे हीन, अन्न-दानसे रहित, बिना मन्त्रोंके, बिना
@@ -286,6 +303,7 @@ which is devoid of gifts; श्रद्धाविरहितम् which is
 
 ।।17.13।। शास्त्रविधि से रहित, अन्नदान से रहित, बिना मन्त्रों, बिना
 दक्षिणा और बिना श्रद्धा के किये हुए यज्ञ को तामस यज्ञ कहते हैं।।
+</details>
 </details>
 
 </div>

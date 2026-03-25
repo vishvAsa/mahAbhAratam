@@ -26,8 +26,9 @@ title = "01 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 उपासकभेदनिबन्धना विशेषाः प्रतिपादिताः । इदानीम् उपास्यस्य परमपुरुषस्य माहात्म्यम्, ज्ञानिनां विशेषं च विशोध्य भक्तिरूपस्योपासनस्य स्वरूपम् उच्यते ।  
@@ -46,12 +47,14 @@ title = "01 श्री भगवानुवाच"
 
 9.1 The Lord said I will declare to you, who does not cavil, this most mysterious knowledge called Upasana, which is of the nature of Bhakti, together with special knowledge, namely, the distinguishing knowledge of how it differs from other meditations. The import is this: You have heard of My eminence, which is distinct in kind from all other forms of greatness and is unlimited in its modes. You must have been convinced that it can be so only and not otherwise. To you whose mind is thus prepared, I shall declare that knowledge by aciring which, and making which your way of life, you will be emancipated from all evil that hinders you from attaining Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 अष्टमे नाडीद्वारेण धारणा-योगः सगुणः उक्तः ।  
 तस्य च फलम् अग्न्य्-अर्चिर्-आदि-क्रमेण कालान्तरे ब्रह्म-प्राप्ति-लक्षणम् एव अनावृत्तिरूपं निर्दिष्टम् ।  
@@ -215,12 +218,14 @@ bondage.
 व्याख्यातौ। पुनः कीदृशं ज्ञानम्। यज्ज्ञात्वा प्राप्य मोक्ष्यसे सद्य एव
 संसारबन्धनादशुभात्सर्वदुःखहेतोः।**
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.1॥ श्रीरङ्गनाथाय नमः। म्। सप्तमाध्यायोक्तं स्पष्टयत्यस्मिन्नध्याये।
 </details>
@@ -231,12 +236,14 @@ bondage.
 शेषः। पदार्थज्ञानपूर्वकं वाक्यार्थज्ञानमिति सप्तमोक्तपदार्थानष्टमे
 व्याख्याय नवमे तद्वाक्यार्थं स्पष्टीकरोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.1॥ इदमिति। अनसूयत्वं ज्ञानसंक्रान्तौ कारणं मुख्यम्। ज्ञानविज्ञाने प्राग्वत्।
 </details>
@@ -245,12 +252,14 @@ bondage.
 
 9.1 Idam etc. Not to entertain displeasure is an important reisite for communicating knowledge. The words Jnana and Vijnana \[mean respectively 'knowledge' and 'action'\] as above.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.1॥ नवमे स्वाक्षरैश्वर्यज्ञानं सद्भक्तिगर्भितम्। प्राह विज्ञानसहितं
 महापतितपावनः॥1॥ एवं तावत्पूर्वत्र स्वमहिमानं सर्वोत्तममुक्त्वा स्वस्य
@@ -278,10 +287,13 @@ bondage.
 भविष्यसीत्यर्थः। तुशब्देन सर्वेषामकथनीयत्वं ज्ञापितम्। ते इति कथनेन
 कृपया वक्ष्यामीति व्यञ्जितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.1॥ परेशः प्राप्यते शुद्धभक्त्येति स्थितमष्टमे। नवमे तु
 तदैश्वर्यमत्याश्चर्यं प्रपञ्च्यते॥1॥  
@@ -296,10 +308,13 @@ bondage.
 परमात्मज्ञानमतिरहस्यत्वाद्गुह्यतमम्। यज्ज्ञात्वाऽशुभात्संसारान्मोक्ष्यसे
 सद्य एव मुक्तो भविष्यति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.1 The Lord said I shall declare to you, who does not cavil, this most mysterious knowledge together with special knowledge, knowing which you would be freed from evil.
@@ -338,11 +353,13 @@ It can be realised only through direct experience or spiritual intuition. Atman 
 Knowledge can only dawn in a mind which is free from all forms of jealousy which causes great distraction of the mind and produces intense heartburning. Matsarya (malicious envy); Irshya (jealous of others prosperity or happiness) and Asuya (envious or indignant over the merits of another) are all varieties of jealousy. If you superimpose evil alities on a virtuous man who really does not possess these alities on a virtuous man who really does not possess these alities and speak ill of him; this is jealousy (Asuya). To behold evil or to look at a person with the faultfinding evil eye; and to see evil in him who is free from any kind of fault and who is virtuous is Asyua. Jealousy is only pettymindedness. This is a modification of ignorance. It can be eradicated by eniry of the nature of the Self and cultivating its opposite alities; viz.; nobility; broad and universal tolerance;
 magnanimity and largeheartedness.To thee who does not carp or cavil This implies that Arjuna was endowed with all the virtues of a disciple such as straightforwardness; selfcontrol; restraint of the senses; serenity of mind; discrmination; dispassion; etc. This is the Upalakshana (the truth alluded to where only a part is stated) and Asuya is the Upalakshaka (the hint which alludes to the Upalakshana).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.1।। श्रीभगवान् बोले -- यह अत्यन्त गोपनीय विज्ञानसहित ज्ञान
@@ -402,6 +419,7 @@ magnanimity and largeheartedness.To thee who does not carp or cavil This implies
 ।।9.1।। श्रीभगवान् ने कहा -- तुम अनसूयु (दोष दृष्टि रहित) के लिए मैं इस
 गुह्यतम ज्ञान को विज्ञान के सहित कहूँगा, जिसको जानकर तुम अशुभ (संसार
 बंधन) से मुक्त हो जाओगे।।
+</details>
 </details>
 
 </div>

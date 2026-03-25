@@ -23,8 +23,9 @@ title = "19 तपाम्यहमहं वर्षम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.19॥ अग्न्यादित्यादिरूपेण **अहम्** एव **तपामि;** ग्रीष्मादौ **अहम्** एव **वर्षं निगृह्णामि** तथा वर्षास्व् अपि **च** अहम् एव **उत्सृजामि।** **अमृतं च एव मृत्युश् च** येन जीवति लोको येन च म्रियते; तद् उभयम् अप्य् अहम् एव। किम अत्र बहुना उक्तेन **सद् असच् च** अपि **अहम्** एव। सद् यद् वर्तते; असद् यद् अतीतम् अनागतं च; सर्वावस्थावस्थितचिदचिद्वस्तुशरीरतया तत्तत्प्रकारो ऽहम् एव अवस्थित इत्यर्थः। एवं बहुधा पृथक्त्वेन विभक्तनामरूपावस्थितकृत्स्नजगच्छरीरतया तत्प्रकारो ऽहम् एव अवस्थित इत्य् एकत्वज्ञानेन अनुसन्दधानाश् च माम् उपासते ते एव महात्मानः। एवं महात्मनां ज्ञानिनां भगवदनुभवैकभोगानां वृत्तम् उक्त्वा तेषाम् एव विशेषं दर्शयितुम् अज्ञानां कामकामानां वृत्तम् आह --
@@ -39,12 +40,14 @@ title = "19 तपाम्यहमहं वर्षम्"
 
 9.19 I send out 'heat' in the form of fire, the sun etc. I 'hold back' the rain during summer. Likewise, I pour out the rains during the rainy season. I am 'immortality as well as death' - I am both these conditions through which the world lives and dies. Why say more; I am 'the being and the non-being.' Being is that which exists in the present time. Non-being is that which existed in the past and that which may exist in the future, but is not experienced now as existing. The meaning is that, I alone am existent, having all the entities for my modes, as all intelligent and inhert beings existing in all states, constitute My body. In this way, they (the wise) worship Me, contemplating, through the realisation of My essential unity, as the entire universe distinguished by names and forms and characterished by varied pluralities constituting My body. I alone exist; all the pluralities are only My modes. Thus, after depiciting the character of the noble-minded, whose enjoyment consists of only the experience of the Lord, and in order to bring into bolder relief their greatness, He describes the behaviour of ignorant men who covet the objects of desire.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.19॥ --,**तपामि अहम्** आदित्यो भूत्वा कैश्चित् रश्मिभिः उल्बणैः। **अहं वर्षं** कैश्चित् रश्मिभिः **उत्सृजामि।** उत्सृज्य पुनः **निगृह्णामि** कैश्चित् रश्मिभिः अष्टभिः मासैः पुनः उत्सृजामि प्रावृषि। **अमृतं चैव** देवानाम्; **मृत्युश्च** मर्त्यानाम्। **सत्** यस्य **यत्** संबन्धितया विद्यमानं तत्; तद्विपरीतम् **असच्च** एव **अहम् अर्जुन।** न पुनः अत्यन्तमेव असत् भगवान्; स्वयं कार्यकारणे वा सदसती॥ ये पूर्वोक्तैः निवृत्तिप्रकारैः एकत्वपृथक्त्वादिविज्ञानैः यज्ञैः मां पूजयन्तः उपासते ज्ञानविदः; ते यथाविज्ञानं मामेव प्राप्नुवन्ति। ये पुनः अज्ञाः कामकामाः
 --,
@@ -145,12 +148,14 @@ according to their conceptions.
 मां विदित्वा स्वस्वाधिकारानुसारेण बहुभिः प्रकारैर्मामेवोपासत
 इत्युपपन्नम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.19॥ सत्कार्यमसत्कारणम्। सदभिव्यक्तरूपत्वात्कार्यमित्युच्यते बुधैः।
 असदव्यक्तरूपत्वात्कारणं चापि शब्दितम् इत्यभिधानम्। असच्च सच्चैव च
@@ -165,12 +170,14 @@ according to their conceptions.
 कारणमप्यव्यक्तरूपत्वादेव असच्छब्दितम्। कार्यकारणयोः सदसच्छब्दप्रयोगं च
 दर्शयति -- **असच्चे**ति। तस्मात्सदसतोर्विश्वस्माद्ब्रह्म परम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.16 -- 9.19॥ ननु कर्म तावत् कारककलापव्याप्तभेदोद्रेकि कथमभिन्नं भगवत्पदं प्रापयतीति उच्यते -- अहं क्रतुरिति अर्जुनेत्यनन्तम्। एकस्यैव निर्भागस्य ब्रह्मतत्त्वस्य परिकल्पित \[भेदवत्\] साधनाधीनं कर्म पुनरेकत्वं निर्वर्तयति क्रियायाः सर्वकारकात्मसाक्षात्कारेणावस्थाने भगवत्पदप्राप्तिं प्रत्यविदूरत्वात्। उक्तं च -- सेयं क्रियात्मिका शक्तिः शिवस्य पशुवर्तिनी।  
   
@@ -183,12 +190,14 @@ according to their conceptions.
 
 9.16-19 Ahim kratuh etc. upto Arjuna. The Brahman-being is of course only one and admits of no parts. The action also depends only on the assumed \[or not real\] causes. Hence, it accomplishes the aloneness (or oneness) of the Brahman. For, if it is performed with the realisation that all the different causes are nothing but the Self, then the action is not far away from reaching the Bhagavat. That has also been stated - 'This self same action-power of Siva, if it exists in the ignorant, binds \[him\]; the same power, when it is realised that it is a path to his own Self \[Siva\], then it leads to the goal (the Lord).' (SpK, III, 16). I have myself (Ag.) stated elsewhere as : The intellect that confirms, in the beginning, to \[the duality of\] the beings and the non-beings; the same intellect does not conform, at the time of withdrawl, to \[the duality of\] the beings and the non-beings. This subject has been discussed in detail in different places. Hence let us stop \[the present discussion\] here. I give heat etc. This is said in the context of discussing the One that admits no duality. But if the Brahman can be attained by means of external sacrifices also, then, is a different god (different from Vasudeva) worshipped in the sacrifices like the Agnistoma ; If it is admitted, then it would lead to the doctrine of duality. If \[on the other hand\] it is Vasudeva Himself, the how is it that emancipation is not attained by the performence \[of these sacrifices\] ; Therefore it is stated -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.19॥ अतः परं सृष्ट्यादिद्वारा सृष्ट्यादिसम्पादकत्वं
 पञ्चम्यामाहुतावापः पुरुषवचसो भवन्ति \[छां.उ.5।3।3\] इति
@@ -216,10 +225,13 @@ according to their conceptions.
 परिदृश्यमानम्। असत् सूक्ष्ममदृश्यम्। हे अर्जुन एतत्सर्वं
 पूर्वोक्तमहमेवेत्यर्थः। एवं बहुधा मामुपासत इति पूर्वेणैव सम्बन्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.19॥ किंच **-- तपामीति।** आदित्यात्मना स्थितत्वान्निदाघसमये तपामि
 जगतस्तापं करोमि वृष्टिसमये च वर्षमुत्सृजामि विमुञ्चामि कदाचित्तु वर्षं
@@ -227,10 +239,13 @@ according to their conceptions.
 सूक्ष्ममदृश्यम् एतत्सर्वमहमेवेति मत्वा मामेव बहुधा उपासत इति
 पूर्वेणैवान्वयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.19 I give heat. I hold back and send forth the rain. I am immortality as well as death, O Arjuna. I am the being, as also the non-being.
@@ -266,11 +281,13 @@ viz.; the gross (Sthula); the subtle (Sukshma) and the causal (Karana).
 Mahakarana (the great causeless cause) is Para Brahman. The gross and the subtle states are the effects of Karana. What you see outside is the physical body. This physical body is moved by the astral (the subtle)
 body made up of the mind; liferoce and the senses. The causal body is the seedbody. From this seedbody have sprung the subtle and the gross bodies. Take the case of an orange. The outer skin is its physical body the inner pulp or essence is the subtle body the innermost causal body which gives rise to the pulp and the outer skin is the seed. This is only a gross illustration. The orange has got another kind of subtle and causal bodies. The worldlyminded man beholds the physical body only and takes this as the Truth. For him; the astral and the causal bodies are unreal.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.19।। हे अर्जुन ! (संसारके हितके लिये) मैं ही सूर्यरूपसे तपता हूँ,
@@ -336,6 +353,7 @@ body made up of the mind; liferoce and the senses. The causal body is the seedbo
 
 ।।9.19।। हे अर्जुन ! मैं ही (सूर्य रूप में) तपता हूँ; मैं वर्षा का
 निग्रह और उत्सर्जन करता हूँ। मैं ही अमृत और मृत्यु एवं सत् और असत् हूँ।।
+</details>
 </details>
 
 </div>

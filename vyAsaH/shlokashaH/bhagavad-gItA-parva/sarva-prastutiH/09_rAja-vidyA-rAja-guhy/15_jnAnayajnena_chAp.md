@@ -23,8 +23,9 @@ title = "15 ज्ञानयज्ञेन चाप्यन्ये"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.15॥**अन्ये अपि** महात्मानः पूर्वोक्तैः कीर्तनादिभिर् ज्ञानाख्येन **यज्ञेन च यजन्तः माम् उपासते;** कथम् **बहुधा पृथक्त्वेन** जगदाकारेण **विश्वतोमुखं** विश्वप्रकारम् अवस्थितं **माम् एकत्वेन उपासते। एतद् उक्तं भवति भगवान् वासुदेव एव नामरूपविभागानर्हातिसूक्ष्मचिदचिद्वस्तुशरीरः सन् सत्यसङ्कल्पः विविधविभक्तनामरूपस्थूलचिदचिद्वस्तुशरीरः स्याम् इति सङ्कल्प्य स एकदेव एव तिर्यङ्मनुष्यस्थावराख्यविचित्रजगच्छरीरो ऽवतिष्ठते इत्य् अनुसन्दधानाश्च माम् उपासते इति। तथा हि विश्वशरीरो ऽहम् एव अवस्थितः; इत्य् आह
@@ -40,12 +41,14 @@ title = "15 ज्ञानयज्ञेन चाप्यन्ये"
 
 9.15 Other high-minded persons worship Me by singing My names, etc., already described; and they also perform the sacrifice called knowledge. They worship Me, who, by being 'characterised by diversity in various ways' in the form of the cosmos, is a multiform, namely, having all entities as modes (Prakaras) and also as One (the Prakari). The purport is this: The Lord Vasudeva alone, having the body comprising animate and inanimate entities in an extremely subtle form (in the state of Cosmic dissolution) incapable of distinctness by name and form, resolves by His unfailing true will power: 'May I become embodied in gross animate and inanimate entities, distinguished variously by name and form.' He alone then abides, with the variegated cosmos as His body, comprising gods, animals, men and immobile things. They worship Me by contemplating on Me thus. Therefore Sri Krsna declares: 'I, having the universe for My body, alone abide'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.15॥ -- --,**ज्ञानयज्ञेन** ज्ञानमेव भगवद्विषयं यज्ञः तेन ज्ञानयज्ञेन; **यजन्तः** पूजयन्तः **माम्** ईश्वरं **च अपि अन्ये** अन्याम् उपासनां परित्यज्य **उपासते।** तच्च ज्ञानम् -- **एकत्वेन** एकमेव परं ब्रह्म इति परमार्थदर्शनेन यजन्तः उपासते। केचिच्च **पृथक्त्वेन, आदित्यचन्द्रादिभेदेन स एव भगवान् विष्णुः अवस्थितः इति उपासते। केचित्** बहुधा **अवस्थितः स एव भगवान् सर्वतोमुखः विश्वरुपः इति तं विश्वरूपं सर्वतोमुखं बहुधा बहुप्रकारेण उपासते॥ यदि बहुभिः प्रकारैः उपासते; कथं त्वामेव उपासते इति; अत आह --,**
 </details>
@@ -137,12 +140,14 @@ says:
 प्रकारैर्विश्वरूपं सर्वात्मानं मामेवोपासते तेन तेन ज्ञानयज्ञेनेति
 उत्तरोत्तराणां क्रमेण पूर्वपूर्वभूमिलाभः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.15॥ सर्वत्र एक एव नारायणः स्थितः इत्येकत्वेन; पृथक्त्वेन सर्वतो
 वैलक्षण्येन। बहुधा हि तस्य रूपं,आभाति शुक्लमिव लोहितमिवाथो नीलमथोऽर्जुनं
@@ -160,12 +165,14 @@ says:
 कथमित्यत आगमेनैव दर्शयति -- **शुक्लमिवे**ति। इवशब्दोऽप्यर्थः।
 प्रकारान्तरेण व्याख्याति -- **दैवमेवे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.15॥ No commentary.
 </details>
@@ -174,12 +181,14 @@ says:
 
 9.13-15 Mahatmanah etc., upto Visvato-mukham. Divine nature i.e., of goodness. Offering sacrifices : i.e., by means of sacrifices with the external materials. But others worship Me with knowledge-sacrifice only. Hence through knowledge some \[worship Me\] as One, while others \[worship Me\] as Many through the action-Yoga. However all conceive Me alone, as their highest goal. But, action certainly abounds in the idea of duality, because it is coextensive with hosts of different causes (karakas). So how can it lead to the Absolute state ; It is answered \[as\] :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.15॥ किञ्च ज्ञानयज्ञेन चेति। भक्योपासते इति पूर्वमुक्तम्। ज्ञानयज्ञेन
 चोपासते इत्यधुनोच्यते। अत्र यज्ञपदेनब्रह्मार्पणं ब्रह्म हविः \[4।24\]
@@ -202,10 +211,13 @@ says:
 शरणागमनरीत्या बहुधा सर्वत्र तद्रूपेण विश्वतोमुखं सर्वात्मकं माम्;
 एवमनेकप्रकारेण मामुपासते भजन्त इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.15॥ किंच **-- ज्ञानेति।** वासुदेवः सर्वमित्येवं सर्वात्मत्वदर्शनं
 ज्ञानं तदेव यज्ञस्तेन ज्ञानयज्ञेन मां यजन्तः पूजयन्तोऽन्येऽप्युपासते;
@@ -213,10 +225,13 @@ says:
 केचित्पृथक्त्वेन दासोऽहमिति पृथग्भावनया; केचित्तु विश्वतोमुखं सर्वात्मकं
 मां बहुधा ब्रह्मरुद्रादिरूपेणोपासते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.15 Others, too, besides offering the sacrifice of knowledge, worship Me as One, who, characterised by diversity in numberless ways, is multiformed (in My Cosmic aspect).
@@ -253,11 +268,13 @@ others; यजन्तः sacrificing; माम् Me;,उपासते worh
 seeing the Self in all; adore Me the One and the manifold; present everywhere. They regard all the forms they see as the forms of God; all sounds they hear as the names of God. They give all objects they eat as offerings unto the Lord in vaious ways.Some adore Him with the knowledge that there is only one Reality; the Supreme Being Who is ExistenceKnowledgeBliss. They identify themselves with the Truth or Brahman. This is the Monistic view of the Vedantins. Some worship Him making a distinction between the Lord and themselves with the attitude of master and servant. This is the view of the Dualistic School of philosophy. Some worship Him with the knowledge that He exists as the various divinities; Brahma; Vishnu; Rudra; Siva; etc.Visvatomukham Others worship Him who has assumed all the manifold forms in the world;
 Who exists in all the forms as the Allfaced (the one Lord exists in all the different forms with His face on all sides; as it were). (Cf.IV.33)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.15।। दूसरे साधक ज्ञानयज्ञके द्वारा एकीभावसे (अभेद-भावसे) मेरा पूजन
@@ -375,6 +392,7 @@ Who exists in all the forms as the Allfaced (the one Lord exists in all the diff
 ।।9.15।। कोई मुझे ज्ञानयज्ञ के द्वारा पूजन करते हुए एकत्वभाव से उपासते
 हैं, कोई पृथक भाव से, कोई बहुत प्रकार से मुझ विराट स्वरूप (विश्वतो
 मुखम्) को उपासते हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "20 कर्मणैव हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>वेङ्कटनाथः</summary>
 
@@ -137,12 +138,14 @@ title = "20 कर्मणैव हि"
 
 3.20 It is also declared that Karma Yoga alone Janaka and others reached perfection. Because, Karma Yoga is the best means for securing the vision of the self even for a person who is alified for Jnana Yoga, royal sages like Janaka and others, who are foremost among the Jnanins, preferred Karma Yoga as the means for attaining perfection. Thus, having first declared previously that Karma Yoga must be practised by an aspirant for release who is alified for Karma Yoga alone, as he is unfit for Jnana Yoga, it was next stated with reasons that, even for one who is alified for Jnana Yoga, Karma Yoga is better than Jnana Yoga Now it is going to be declared (in verses 20-26) that Karma Yoga must be performed in every way by one who is virtuous. At least for the guidance of the world, you should do work even if there is no need of it for yourself.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.20॥ **कर्मणैव हि** यस्मात् पूर्वे क्षत्रियाः विद्वांसः **संसिद्धिं** मोक्षं गन्तुम् **आस्थिताः** प्रवृत्ताः। के **जनकादयः** जनकाश्वपतिप्रभृतयः। यदि ते प्राप्तसम्यग्दर्शनाः ततः लोकसंग्रहार्थं प्रारब्धकर्मत्वात् कर्मणा सहैव असंन्यस्यैव कर्म संसिद्धिमास्थिता इत्यर्थः। अथ अप्राप्तसम्यग्दर्शनाः जनकादयः तदा कर्मणा सत्त्वशुद्धिसाधनभूतेन क्रमेण संसिद्धिमास्थिता इति व्याख्येयः श्लोकः। अथ मन्यसे पूर्वैरपि जनकादिभिः अजानद्भिरेव कर्तव्यं कर्म कृतम् तावता नावश्यमन्येन कर्तव्यं सम्यग्दर्शनवता कृतार्थेनेति तथापि प्रारब्धकर्मायत्तः **त्वं लोकसंग्रहम् एव अपि** लोकस्य उन्मार्गप्रवृत्तिनिवारणं लोकसंग्रहः तमेवापि प्रयोजनं **संपश्यन् कर्तुम् अर्हसि**॥ लोकसंग्रहः किमर्थं कर्तव्य इत्युच्यते
 </details>
@@ -277,12 +280,14 @@ follows:loka-samgrahah kimartham kartavyam iti ucyate.-Tr.\]
 प्रौढिवादमात्रेण क्षत्रियवैश्ययोरपि संन्यासोऽस्तीत्युक्तमिति
 द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.20॥ आचारोऽप्यस्तीत्याह कर्मणैवेति। कर्मणा सह कर्म कुर्वन्त
 एवेत्यर्थः। कर्म कृत्वैव ततो ज्ञानं प्राप्य वा न तु ज्ञानं विना
@@ -352,12 +357,14 @@ follows:loka-samgrahah kimartham kartavyam iti ucyate.-Tr.\]
 सङ्ग्रहः। पूर्ववदर्थः। अज्ञानां सम्यग्ज्ञानायोग्यानाम्। उपसंहरति **अत**
 इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.20॥ कर्मणैवेति। तदत्र कर्म कुर्वतामपि सिद्धौ जनकादयो दृष्टान्ताः।
 </details>
@@ -366,12 +373,14 @@ follows:loka-samgrahah kimartham kartavyam iti ucyate.-Tr.\]
 
 3.20 Karman=aiva etc. Therefore, janaka and others are examples for the fact that emancipation is even for those who perform action.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.20॥ अत्र सदाचारं प्रमाणयति कर्मणैवेति। जनकादयः कर्मणैव
 जीवन्मुक्तदशामास्थिताः। संयोगपृथक्त्वन्यायेनोभयसाधकेन कर्मणा
@@ -389,20 +398,26 @@ follows:loka-samgrahah kimartham kartavyam iti ucyate.-Tr.\]
 नावश्यकं तथापि मदाज्ञया लोकसङ्ग्राहार्थं कर्तुमेवार्हसि न तु
 तज्जनितसिद्ध्यर्थम्। अयमेवार्थ एवकारेण विविच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/20_karmaNaiva_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/20_karmaNaiva_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.20॥ अत्र सदाचारं प्रमाणयति **कर्मणैवेति।** **कर्मलोकसंग्रहमिति।**
 लोकस्य संग्रहः स्वधर्मे प्रवर्तनं मया कर्मणि कृते जनः सर्वोऽपि करिष्यति
 अन्यथा ज्ञानिदृष्टान्तेनाज्ञः कर्म त्यजेदित्येवं लोकरक्षणमपि
 तावत्प्रयोजनं पश्यन्कर्म कर्तुमेवार्हसि नतु त्यक्तुमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.20 Indeed by Karma Yoga alone did Janaka and others reach perfection.
@@ -436,11 +451,13 @@ Even for the sake of enlightening the world, it is thy duty to act;
 आस्थिताः attained; जनकादयः Janaka and others; लोकसंग्रहम् protection of the masses; एवापि only; संपश्यन् having in view; कर्तुम् to perform;
 अर्हसि thou shouldst.Commentary Samsiddhi is Moksha (perfection or liberation). Janaka; (Asvapati) and others had perfect knowledge of the Self; and yet they performed actions in order to set an example to the masses. They worked for the guidance of men.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/20_karmaNaiva_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.20।। राजा जनक-जैसे अनेक महापुरुष भी कर्मके द्वारा ही परमसिद्धिको
@@ -520,6 +537,7 @@ Even for the sake of enlightening the world, it is thy duty to act;
 
 ।।3.20।। जनकादि (ज्ञानी जन) भी कर्म द्वारा ही संसिद्धि को प्राप्त हुये
 लोक संग्रह (लोक रक्षण) को भी देखते हुये; तुम कर्म करने योग्य हो।।
+</details>
 </details>
 
 </div>

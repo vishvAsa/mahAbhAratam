@@ -23,8 +23,9 @@ title = "19 यो मामेवमसम्मूढो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.19॥**य एवम्** उक्तेन प्रकारेण **पुरुषोत्तमं माम् असम्मूढो जानाति;** क्षराक्षरपुरुषाभ्याम् अव्ययस्वभावतया व्यापनभरणैश्वर्यादियोगेन च विसजातीयं जानाति; **स सर्ववित्** मत्प्राप्त्युपायतया यद् वेदितव्यं तत् सर्वं वेद। **भजति मां सर्वभावेन** ये च मत्प्राप्त्युपायतया मद्भजनप्रकारा निर्दिष्टास् तैश् च सर्वैर् भजनप्रकारैर् मां भजते। सर्वैर् मद्विषयैर् वेदनैर् मम या प्रीतिर् या च मम सर्वैर् मद्विषयैर् भजनैर् उभयविधा सा प्रीतिर् अनेन वेदनेन मम जायते। इत्य् एतत् पुरुषोत्तमत्ववेदनं पूजयति।
@@ -41,12 +42,14 @@ title = "19 यो मामेवमसम्मूढो"
 
 15.19 He who, without delusion, knows the Supreme Person as Myself, as already stated, i.e., knows Me, as differing in kind from the perishable and the imperishable Persons, because of My being immutable and because of My being distinguished from them as pervading, supporting and ruling etc., by nature - such a devotee knows all. He knows all that is to be known as the means of attaining Me. He worships Me in 'every way,' i.e., whatever ways of worshipping Me have been prescribed as the means of attaining Me, he worships Me by all these modes of worship. Whatever love is evoked in Me towards one approaching Me by all forms of knowledge having Me for their object, and whatever love is roused up in Me towards those who practise various modes of worship having Me for their object - all that in a unified form is generatd in Me towards one who has the knowledge of Me as described. Now, Sri Krsna eulogises this knowledge of the Supreme Person:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.19॥ --,**यः माम्** ईश्वरं यथोक्तविशेषणम् **एवं** यथोक्तेन प्रकारेण **असंमूढः** संमोहवर्जितः सन् **जानाति** अयम् अहम् अस्मि इति **पुरुषोत्तमं सः सर्ववित्** सर्वात्मना सर्वं वेत्तीति सर्वज्ञः सर्वभूतस्थं **भजति मां सर्वभावेन** सर्वात्मतया हे **भारत**॥ अस्मिन् अध्याये भगवत्तत्त्वज्ञानं मोक्षफलम् उक्त्वा; अथ इदानीं तत् स्तौति --,
 </details>
@@ -114,12 +117,14 @@ its fruit, it is being euligized:
 श्रुतिगिरां व्रजस्त्रीणां हारं भवजलधिपारं कृतधियाम्। विहन्तुं भूभारं
 विदधदवतारं मुहुरहो महो वारंवारं भजत कुशलारम्भकृतिनः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.19॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -128,12 +133,14 @@ its fruit, it is being euligized:
 
 ॥15.19॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.19॥ यो मामिति। एवं जानानः सर्वमयं मामेव ब्रह्मतत्त्वमुपासीनः सर्वं मन्मयत्वेन विदन् सर्वेम भावेन मूर्तिक्रियाज्ञानात्मकेन मामेव भजते यत् पश्यति तत् भगवन्मूर्तितयेत्यादि। तथा च मयैव शिवशक्त्यविनाभावस्तोत्रे -- तव च काचन +++(N का किल)+++ न स्तुतिरम्बिके  
   
@@ -154,12 +161,14 @@ its fruit, it is being euligized:
 
 15.19 Yo mam etc. He, who knows Me thus i.e., he who meditates exclusively on Me as identical with all, and to be the very Brahman - he realises all to be identical with Me and adores (or experiences) Me alone with his entire being viz., his form, action and thought. \[That is to say\], whatever he perceives, he experiences it as the form of the Bhagavat ; and so on. Hence \[it has been said\] by myself (Ag.) in the Sivasaktyavinabhavastotra as : O Mother (Goddess) ! Our praise to You is unusual one ; all (uttering) sounds constitute Your body indeed; in my entire body and in all \[my\] mental and external activities there is Your association. O Siva, O Alleviator of what is inauspicious ! When I fully contemplate in this manner, then it has been accomplished in the world, without any effort \[of mine\], that for me there is indeed not even a small fraction of time without praise, recitation \[of hymns\], worship and contemplation \[of Yours\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.19॥ यतोऽहमेतादृशस्वरूपः सर्वोत्तमः पुरुषोत्तम इति अतः सज्ज्ञानवान्
 सर्वज्ञोऽन्यभजनरहितो मां भजतीत्याहुः -- यो मामिति। असम्मूढः
@@ -177,19 +186,25 @@ its fruit, it is being euligized:
 इत्यर्थः; सर्वविद्भवतीति वा। सर्वज्ञत्वलक्षणमाह मां सर्वभावेन भजति।
 भारतेति विश्वासाय।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.19॥ एवंभूतेश्वरस्याज्ञातुः फलमाह **-- यो मामिति।**
 एवमुक्तप्रकारेणासंमूढो निश्चितमतिः सन् यो मां पुरुषोत्तमं जानाति स
 सर्वभावेन सर्वप्रकारेण मामेव भजति ततः सर्ववित् सर्वज्ञो भवति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.19 He who, without delusion thus knows Me as the Supreme Self, knows all, O Arjuna, and worships Me in every way.
@@ -224,11 +239,13 @@ knowing all, worships Me with his whole being (heart), O Arjuna.
 worships; माम् Me; सर्वभावेन with his whole being (heart); भारत O Bharata.Commentary The glory of the knowledge of the Self is described in this verse.Asammudhah Undeluded; free from delusion. The undeluded does not identify himself with the physical body. He never looks upon the physical body; the lifeforce; senses; mind; intellect and the causal body as the Self or as belonging to himself; because he is resting in his own essential nature as ExistenceKnowledgeBliss Absolute and because he identifies himself with Brahman or the Supreme Being.That aspirant who knows that Sri Krishna is not a human being and that He is the highest Purusha or the Supreme Being is undeluded. Such an aspirant or devotee alone worships Him with his whole being. He is the Sarvavit or Sarvajna; allknower. He knows and realises that Lord Krishna; the supreme Lord; is the Inner Self of all beings. He beholds the One in the many; and the many in the One. For him there is neither high nor low;
 neither pleasure nor pain; neither virtue nor vice; neither good nor evil; neither likes nor dislikes.Me The Lord as specified above.Sarvavit One who knows everything in detail.Knows that I am He.Sarvabhavena With all his heart; with his whole being; wholeheartedly with his whole thought devoted exclusively to the Self of all with his whole mind centred on the Supreme Self alone.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.19।। हे भरतवंशी अर्जुन ! इस प्रकार जो मोहरहित मनुष्य मुझे पुरुषोत्तम
@@ -320,6 +337,7 @@ neither pleasure nor pain; neither virtue nor vice; neither good nor evil; neith
 ।।15.19।। हे भारत ! इस प्रकार, जो, संमोहरहित, पुरुष मुझ पुरुषोत्तम को
 जानता है, वह सर्वज्ञ होकर सम्पूर्ण भाव से अर्थात् पूर्ण हृदय से मेरी
 भक्ति करता है।।
+</details>
 </details>
 
 </div>

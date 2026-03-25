@@ -23,8 +23,9 @@ title = "13 समङ् कायशिरोग्रीवम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.13॥**कायशिरोग्रीवं समम् अचलं** सापाश्रयतया **स्थिरं धारयन् दिशश्च अनवलोकयन् स्वं नासिकाग्रं सम्प्रेक्ष्य प्रशान्तात्मा** अत्यन्तनिर्वृतमना विगतभीर् ब्रह्मचर्ययुक्तो **मनः संयम्य मच्चित्तो युक्तः** अवहितो **मत्पर आसीत** माम् एव चिन्तयन् आसीत।
@@ -39,12 +40,14 @@ title = "13 समङ् कायशिरोग्रीवम्"
 
 6.13 - 6.14 Keeping the trunk, head and neck erect and motionless; well seated in order to be steady; looking not in any direction but gazing at the tip of the nose; serene, i.e., holding the mind extremely peaceful; fearless; firm in the vow of celibacy; holding the mind in check; and fixing his thoughts on Me - he should sit in Yoga, i.e., remain concentrated and intent on Me, i.e., he should concentrating on Me only.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.13॥ **समं कायशिरोग्रीवं** कायश्च शिरश्च ग्रीवा च कायशिरोग्रीवं तत् समं **धारयन् अचलं** च। समं धारयतः चलनं संभवति अतः विशिनष्टि अचलमिति। **स्थिरः** स्थिरो भूत्वा इत्यर्थः। **स्वं नासिकाग्रं संप्रेक्ष्य** सम्यक् प्रेक्षणं दर्शनं कृत्वेव इति। इवशब्दो लुप्तो द्रष्टव्यः। न हि स्वनासिकाग्रसंप्रेक्षणमिह विधित्सितम्। किं तर्हि चक्षुषो दृष्टिसंनिपातः। स च अन्तःकरणसमाधानापेक्षो विवक्षितः। स्वनासिकाग्रसंप्रेक्षणमेव चेत् विवक्षितम् मनः तत्रैव समाधीयेत नात्मनि। आत्मनि हि मनसः समाधानं वक्ष्यति आत्मसंस्थं मनः कृत्वा (गीता 6।25) इति। तस्मात् इवशब्दलोपेन अक्ष्णोः दृष्टिसंनिपात एव संप्रेक्ष्य इत्युच्यते। **दिशश्च अनवलोकयन्** दिशां च अवलोकनमन्तराकुर्वन् इत्येतत्॥ किञ्च
 </details>
@@ -128,12 +131,14 @@ title = "13 समङ् कायशिरोग्रीवम्"
 दिशां चावलोकनमकुर्वन् योगप्रतिबन्धकत्वात्तस्य। एवंभूतः
 सन्नासीतेत्युत्तरेण संबन्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.12 6.14॥ योगं समाधियोगं युञ्ज्यात्।
 </details>
@@ -143,12 +148,14 @@ title = "13 समङ् कायशिरोग्रीवम्"
 ॥6.12 6.14॥ उपविश्यासन इत्यत्रापि योगशब्द एवमेव व्याख्येय इत्याह
 योगमिति। स्थानविवेकार्थं युञ्ज्यादित्युक्तम् कुर्यादिति यावत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.10 6.15॥ ननु जितात्मनः इत्युक्तम् तत्कथं तज्जय इत्याशङ्क्य आरुरुक्षोः कश्चिदुपायः कायसमत्वादिकः +++(SN कायसमुद्धारकः)+++ चित्तसंयम उपदिश्यते योगीत्यादि अधिगच्छतीत्यन्तम्। आत्मानं च चित्तं च युञ्जीत एकाग्रीकुर्यात्। सततमिति न परिमितं कालम्। एकाकित्वादिषु सत्सु एतद्युज्यते +++(N युञ्जीत)+++ नान्यथा। आसनस्थैर्यात् कालस्थैर्ये +++(S कालस्थैर्यम्)+++ चित्तस्थैर्यम्। चित्तक्रियाः संकल्पात्मनः अन्याश्चेन्द्रियक्रिया येन यताः नियमं नीताः। धारयन् यत्नेन। नासिकाग्रस्यावलोकने सति दिशामनवलोकनम्। मत्परमतया युक्त आसीत +++(N आसीत्)+++ इत्यर्थः +++(S omits इत्यर्थः)+++। एवमात्मानं युञ्जतः समादधतः शान्तिर्जायते यस्यां संस्थापर्यन्तकाष्ठा मत्प्राप्तिः+++(K प्राप्तिर्योगोऽस्तीति)+++।
 </details>
@@ -157,12 +164,14 @@ title = "13 समङ् कायशिरोग्रीवम्"
 
 6.13 See Comment under 6.15
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.10 6.13॥ एवं योगारूढस्य स्वरूपमुक्त्वाऽऽरुरुक्षोः साङ्गं योगं विदधतः
 सिद्धिमाह योगी इत्यादिनामत्संस्थामधिगच्छति 15 इत्यन्तेन। योगी युञ्जानो
@@ -177,10 +186,13 @@ title = "13 समङ् कायशिरोग्रीवम्"
 स्वनासिकाग्रं सम्प्रेक्ष्य अर्धनिमीलितनेत्रो भावस्थः दिशश्चानवलोकयन्
 दिग्भावज्ञानशून्यः सर्वत्र भगवद्दर्शनवान्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.13॥ चित्तैकाग्र्योपयोगिनीं देहादिधारणां दर्शयन्नाह **सममिति
 द्वाभ्याम्।** काय इति देहमध्यभागो विवक्षितः। कायश्च शिरश्च ग्रीवा च
@@ -189,10 +201,13 @@ title = "13 समङ् कायशिरोग्रीवम्"
 अर्धनिमीलितनेत्र इत्यर्थः। इतस्ततो
 दिशश्चानवलोकयन्नासीतेत्युत्तरेणान्वयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.13 Holding the trunk, head and neck erect, motionless and steady,
@@ -232,11 +247,13 @@ There may be distraction of the mind also. Do not strain the eyes.
 Practise gently. When you practise concentration at the tip of the nose you will experience DivyaGandha (various aromas). When you concentrate your gaze at the Ajna Chakra you will experience DivyaJyotis (perception of supraphenomenal lights). This is an experience to give you encouragement; push you up in the spiritual path and convince you of the existence of transcendental or supraphysical things. Do not stop your Sadhana. Yogins and those Bhaktas who meditate on Lord Siva concentrate on the Ajna Chakra with the Bhrumadhya Drishti. You can select whichever Drishti suits you best.Though the gaze is directed towards the tip of the nose when the eyes are halfclosed and the eyalls are steady the mind should be fixed only on the self. Therefore you will have to gaze; as it were; at the tip of the nose. In chapter VI; verse 25; the Lord says Having made the mind abide in the Self; let him not think of anything.
 Gazing at the tip of the nose will soon bring about concentration of the mind.Whichever be the point selected; visualise your own tutelary deity there and feel His Living Presence.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.13।। काया, शिर और ग्रीवाको सीधे अचल धारण करके तथा दिशाओंको न देखकर
@@ -293,6 +310,7 @@ Gazing at the tip of the nose will soon bring about concentration of the mind.Wh
 
 ।।6.13।। काया, सिर और ग्रीवा को समान और अचल धारण किये हुए स्थिर होकर
 अपनी नासिका के अग्र भाग को देखकर अन्य दिशाओं को न देखता हुआ।।
+</details>
 </details>
 
 </div>

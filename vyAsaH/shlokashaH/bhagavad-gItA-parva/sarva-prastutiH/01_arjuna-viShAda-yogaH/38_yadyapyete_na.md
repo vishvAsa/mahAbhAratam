@@ -23,8 +23,9 @@ title = "38 यद्यप्येते न"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥1.38॥ अन्तिमश्लोकव्याख्या दृश्या।
@@ -39,12 +40,14 @@ title = "38 यद्यप्येते न"
 
 1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous. His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.38 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -105,12 +108,14 @@ starts from 2.10.
 शास्त्रप्रतिपादितेऽपि श्येनादाविवास्मिन्युद्धेऽपि नास्माकं
 प्रवृत्तिरुचितेति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.38॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -121,12 +126,14 @@ starts from 2.11.
 ॥1.38॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.35 1.44॥ निहत्येत्यादि। आततायिनां हनने पापमेव कर्तृ। अतोऽयमर्थः पापेन तावदेतेऽस्मच्छत्रवो हताः परतन्त्रीकृताः। तांश्च निहत्यास्मानपि पापमाश्रयेत् +++(S omits पापम्)+++। पापमत्र लोभादिवशात् +++(S लोभवशात्)+++ कुलक्षयादिदोषादर्शनम् +++(S दोषदर्शनम्)+++। अत एव कुलादिधर्माणामुपक्षेपं +++(K कुलक्षयादि N क्षेपकम्)+++ करोति स्वजनं हि कथमित्यादिना।
 </details>
@@ -135,12 +142,14 @@ starts from 2.11.
 
 1.35 1.44 Nihatya etc. upto anususruma. Sin alone is the agent in the act of slaying these desperadoes. Therefore here the idea is this : These ememies of ours have been slain, i.e., have been take possession of, by sin. Sin would come to us also after slaying them. Sin in this context is the disregard, on account of greed etc., to the injurious conseences like the ruination of the family and the like. That is why Arjuna makes a specific mention of the \[ruin of the\] family etc., and of its duties in the passage 'How by slaying my own kinsmen etc'. The act of slaying, undertaken with an individualizing idea about its result, and with a particularizing idea about the person to be slain, is a great sin. To say this very thing precisely and to indicate the intensity of his own agony, Arjuna says only to himself \[see next sloka\]:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.38 1.39॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -154,11 +163,13 @@ starts from 2.11.
 मित्रद्रोहे च यत्पातकं तन्न पश्यन्ति तथापि पातकं तु
 भविष्यत्येवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.38 Though these people, whose minds are overpowered by greed, see no evil in the destruction of a clan and no sin in treachery to friends,
@@ -189,11 +200,13 @@ starts from 2.11.
 1.38 यद्यपि though; एते these; न not; पश्यन्ति see; लोभोपहतचेतसः with intelligence overpowered by greed; कुलक्षयकृतम् in the destruction of families; दोषम् evil; मित्रद्रोहे in hostility to friends; च and; पातकम्
 sin.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.38 -- 1.39।। यद्यपि लोभ के कारण जिनका विवेक-विचार लुप्त हो गया है,
@@ -290,6 +303,7 @@ sin.No Commentary.
 
 ।।1.38।। यद्यपि लोभ से भ्रष्टचित्त हुये ये लोग कुलनाशकृत दोष और मित्र
 द्रोह में पाप नहीं देखते हैं।
+</details>
 </details>
 
 </div>

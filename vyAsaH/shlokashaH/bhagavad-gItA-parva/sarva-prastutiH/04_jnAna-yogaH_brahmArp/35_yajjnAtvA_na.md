@@ -23,8 +23,9 @@ title = "35 यज्ज्ञात्वा न"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.35॥ यद ज्ञानं **ज्ञात्वा पुन एवं** देहाद्यात्माभिमानरूपं तत्कृतं ममताद्यास्पदं च **मोहं न यास्यसि येन** देवमनुष्याद्याकेरण अननुसंहितानि सर्वाणि **भूतानि स्वात्मनि** एव **द्रक्ष्यसि** यतस् तव अन्येषां च भूतानां प्रकृतिवियुक्तानां ज्ञानैकाकारतया साम्यम्। प्रकृतिसंसर्गदोषविनिर्मुक्तम् आत्मस्वरूपं सर्वं समम् इति च वक्ष्यते निर्दोषं हि समं ब्रह्म (गीता 5।19) इति।  
@@ -44,12 +45,14 @@ title = "35 यज्ज्ञात्वा न"
 (5.19). And then you will see all beings without any exception in Me,
 because of the similarity of nature of the pure selves with one another and with My nature. For Sri Krsna will teach later on: 'Resorting to this knowledge and partaking of My nature' (14.5). So the euality of the selves, devoid of name and form, with the nature of the Supreme, is known from the texts like: 'Then the wise, shaking off good and evil, stainless, attain supreme eality' (Mun. U., 3.1.3). Therefore all selves dissociated from Prakrti are eal in nature to one another and eal in nature to the Lord of all. \[The idea is that blissfulness is the basic nature of all selves. Blissfulness (Ananda) is the nature of the Supreme Being also. Eality contemplated is in this respect only, but not in power of creation, which belongs only to Isvara\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.35॥ **यत् ज्ञात्वा** यत् ज्ञानं तैः उपदिष्टं अधिगम्य प्राप्य **पुनः** भूयः **मोहम् एवं** यथा इदानीं मोहं गतोऽसि पुनः एवं **न यास्यसि** हे **पाण्डव।** किञ्च येन ज्ञानेन **भूतानि अशेषेण** ब्रह्मादीनि स्तम्बपर्यन्तानि **द्रक्ष्यसि** साक्षात् **आत्मनि** प्रत्यगात्मनिमत्संस्थानि इमानि भूतानि इति **अथो** अपि **मयि** वासुदेवे परमेश्वरे च इमानि इति क्षेत्रज्ञेश्वरैकत्वं सर्वोपनिषत्प्रसिद्धं द्रक्ष्यसि इत्यर्थः॥ किञ्च एतस्य ज्ञानस्य माहात्म्यम्
 </details>
@@ -135,12 +138,14 @@ known in the Upanisads.' Moreover, the greatness of this Knowledge is:
 अधिष्ठानातिरेकेण कल्पितस्याभावात्। मां भगवन्तं वासुदेवमात्मत्वेन
 साक्षात्कृत्य सर्वाज्ञाननाशे तत्कार्याणि भूतानि न स्थास्यन्तीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.35॥ येन ज्ञानेन मय्यात्मभूते सर्वभूतान्यथो तस्मादेव मोहनाशात्पश्यसि।
 </details>
@@ -152,12 +157,14 @@ known in the Upanisads.' Moreover, the greatness of this Knowledge is:
 सर्वान्तर्यामिणि। द्रक्ष्यसीत्येतत्पश्यसीति व्याख्यातं इदानीमपि
 ज्ञान्येवेति ज्ञापयितुम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.34 4.35॥ तद्विद्धीति। यज्ज्ञात्वेति। तच्च ज्ञानं प्रणिपातेन भक्त्या परिप्रश्नेन ऊहापोहतर्कवितर्कादिभिः सेवया अभ्यासेन जानीहि। यतः एवंभूतस्य तव ज्ञानिनः निजा एव संवित्तिविशेषानुगृहीता इन्द्रियविशेषाः तत्त्वम् उप समीपे देक्ष्यन्ति प्रापयिष्यन्ति। तथाहि ते तत्त्वमेव दर्शयन्तीति तत्त्वदर्शिनः। उक्तं हि योग एव योगस्योपाध्यायः इति।  
   
@@ -168,12 +175,14 @@ known in the Upanisads.' Moreover, the greatness of this Knowledge is:
 
 4.34-35 Tat etc. Yaj=jnatva etc. This : the knowledge. By prostration : by devotion. By iniry : by the consideration of pros and cons, by good reasoning etc. By service : by practice. You should learn \[this\], For, those that are endowed with knowledge i.e., your own different sense-organs, that are exceedingly favoured by consciousness, will point out nearby i.e., will lead the truth to you if you remain practising in the said manner. For this, it has been said that they (sense-organs) are capable of showing the truth i.e., they show nothing but the truth. That has been said : 'The Yoga alone is the teacher of Yoga \[practice\]' and 'On \[reaching\] that \[seeded Yoga\] \[there arises\] an insight, truth-bearing' (YS, I, 48). If 'those that are endowed with knowledge' is interpreted to mean 'other wise persons', then it would amount to say that what the Bhagavat Himself had taught is untruth. Or, the purpose of saying in this manner may be to teach a conventional rule : Other persons too should learn from the men of wisdom only by prostration etc., and not by any other means. The \[locatives\] atmani 'in your Self' and mayi 'in Me' are in the same-case-relationship, and they mean 'in your Soul that has attained (realised Its) identity with Me'. Atho is an expletive. In order to established the \[total\] sameness (identity) of the Absolute with the \[individual\] Self, a certain characteristic mark \[of the two\], is mentioned \[here\]. If the non-sameness (non-identity) \[of these two\] is intended, then the meanings 'choice' etc., \[of atho\] have no relevance here. Saying that 'the sin also perishes' in the first verse \[of following two\], in order to clarify the earlier statement 'all actions, leaving no bit, \[meet their end in knowledge' - verse 33 above\]; indicating, by 'all actions' - in the second verse-that the suggested meaning of 'leaving no bit (verse 33)' is 'not even a bit of mental impression \[of actions\] survives'; \[the Lord\] explains-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.35॥ ज्ञाने फलमाह यज्ज्ञात्वेति सार्द्धैस्त्रिभिः।
 यत्साङ्ख्ययोगयोरेकार्थरूपं सर्वं ब्रह्मात्मज्ञानं प्राप्य येन च भूतानि
@@ -191,20 +200,26 @@ known in the Upanisads.' Moreover, the greatness of this Knowledge is:
 कारणरूपाणि जीवात्मकानि च अशेषेण जगद्रूपेण आत्मनि मयि आत्मरूपे मयि
 द्रक्ष्यसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.35॥ ज्ञानफलमाह **यज्ज्ञात्वेतिसार्धैस्त्रिभिः।** यज्ज्ञानं ज्ञात्वा
 प्राप्य पुनर्बन्धुवधादिनिमित्तं मोहं न प्राप्स्यसि। तत्र हेतुः। येन
 ज्ञानेन भूतानि पितृपुत्रादीनि स्वाविद्यारचितानि स्वात्मन्येवाभेदेन
 द्रक्ष्यसि। अथो अनन्तरमात्मानं मयि परमात्मन्येवाभेदेन द्रक्ष्यसीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.35 Knowing which, O Arjuna, you will not fall again into delusion in this way - by that knowledge you will see all beings without exception in your-self and then in Me.
@@ -237,11 +252,13 @@ delusion; एवम् thus; यास्यसि will get; पाण्डव 
 भूतानि beings; अशेषेण all; द्रक्ष्यसि (thou) shalt see; आत्मनि in (thy)
 Self; अथो also; मयि in Me.Commentary That; the knowledge of the Self mentioned in the previous verse; that is to be learnt from the Brahmanishtha Guru through prostration; estioning and service. When you acire this knowledge you will not be again subject to confusion or error. You will behold that underlying basic unity. You will behold or directly cognise through internal experience or intuition that all beings from the Creator down to a blade of grass exist in your own Self and also in Me. (Cf.IX.15XVIII.20)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.35।। जिस- (तत्त्वज्ञान-) का अनुभव करनेके बाद तू फिर इस प्रकार मोहको
@@ -306,6 +323,7 @@ Self; अथो also; मयि in Me.Commentary That; the knowledge of the Self
 ।।4.35।। जिसको जानकर तुम पुन इस प्रकार मोह को नहीं प्राप्त होगे, और हे
 पाण्डव ! जिसके द्वारा तुम भूतमात्र को अपने आत्मस्वरूप में तथा मुझमें भी
 देखोगे।।
+</details>
 </details>
 
 </div>

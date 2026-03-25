@@ -23,8 +23,9 @@ title = "11 चिन्तामपरिमेयाञ् च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.11॥ अद्य श्वो वा मुमूर्षवः **चिन्ताम् अपरिमेयां च** अपरिच्छेद्यां **प्रलयान्तां** प्राकृतप्रलयावधिकालसाध्यविषयाम् **उपाश्रिताः।** तथा **कामोपभोगपरमाः** कामोपभोग एव परमपुरुषार्थः; इति मन्वानाः। **एतावद् इति निश्चिताः;** इतो ऽधिकः पुरुषार्थो न विद्यते इति सञ्जातनिश्चयाः।
@@ -39,12 +40,14 @@ title = "11 चिन्तामपरिमेयाञ् च"
 
 16.11 Those who are sure to die today or tomorrow 'obsess themselves with cares' in regard to objects the attainment of which is not possible even by the time of death. Likewise, they look upon 'enjoyment of desires' as their highest aim, viz., they regard the satisfaction of sensual enjoyments as the highest aim of human life. They are convinced that this is all, viz., they are assured that there is no value in human life greater than this.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.11॥ --,**चिन्ताम् अपरिमेयां च;** न परिमातुं शक्यते यस्याः चिन्तायाः इयत्ता सा अपरिमेया; ताम् अपरिमेयाम्; **प्रलयान्तां** मरणान्ताम् **उपाश्रिताः;** सदा चिन्तापराः इत्यर्थः। **कामोपभोगपरमाः;** काम्यन्ते इति कामाः विषयाः शब्दादयः तदुपभोगपरमाः अयमेव परमः पुरुषार्थः यः कामोपभोगः इत्येवं निश्चितात्मानः; **एतावत् इति निश्चिताः**॥
 </details>
@@ -113,12 +116,14 @@ feeling sure; iti, that; etavat, this is all-
 भोक्तुरभावादिति निश्चिता एवं निश्चयवन्तः। तथाच बार्हस्पत्यं
 सूत्रंचैतन्यविशिष्टः कामः पुरुषः; काम एवैकः पुरुषार्थः इति च।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.11॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -127,12 +132,14 @@ feeling sure; iti, that; etavat, this is all-
 
 ॥16.11॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.9 -- 16.12॥ एतामित्यादि अर्थसंचयानित्यन्तम्। चिन्ता तेषां प्रलयान्ता अवरितं (ता) संसृतिप्रलयाव्युपरमात्। एतावदितिकामोपभोग एव परं (परमं) कृत्यम् \[एषाम्\] तन्नाशाच्च परं क्रोधः। अत एवाह कामक्रोधपरायणाः इति।
 </details>
@@ -141,12 +148,14 @@ feeling sure; iti, that; etavat, this is all-
 
 16.11 See Coment under 16.12
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.11॥ चिन्तामिति। एतावदिति। कामोपभोग एव फलमिति निश्चिताः।
 </details>
@@ -158,10 +167,13 @@ feeling sure; iti, that; etavat, this is all-
 परमः फलरूपो येषां; एतावत्पुरुषार्थकामोपभोग एवेति निश्चिताः
 कृतनिश्चयाः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.11॥ किंच **-- चिन्तामिति।** प्रलयो मरणमेवान्तो यस्यास्ताम्।
 अपरिमेयां परिमातुमशक्यां चिन्तामाश्रिताः। नित्यचिन्तापरायणा इत्यर्थः।
@@ -170,10 +182,13 @@ feeling sure; iti, that; etavat, this is all-
 बार्हस्पत्यं सूत्रम् -- काम एवैकः पुरुषार्थः इति;चैतन्यविशिष्टः कामः
 पुरुषः इति च।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.11 Obsessed by unlimited cares which end with dissolution, looking upon enjoyment of desires as their highest aim, and convinced that this is all;
@@ -206,11 +221,13 @@ seeking only the gratification of desire as the highest goal; seeing nothing bey
 16.11 चिन्ताम् cares; अपरिमेयाम् immeasurable; च and; प्रलयान्तम् ending only with death; उपाश्रिताः refuged in; कामोपभोगपरमाः regarding gratification of lust as their highest aim; एतावत् that is all; इति
 thus; निश्चिताः feeling sure.Commentary They are beset with immense cares; worries and anxieties and their minds are engrossed in aciring and preserving the countless sensual objects. They have got the strong conviction that the sensual enjoyment is the highest end of a man. They are steeped in enjoying the objects of the senses. They firmly believe that that is everything. They believe that sensual enjoyment is the supreme source of happiness and there is no such thing as eternal bliss of the soul or transcendental bliss of the Self. They have no belief in the happiness in another world (or plane) or in the perennial bliss which is independent of sensual objects; which is beyond the reach of the senses. They have a dull and gross intellect; and so they cannot grasp the subtle higher truth. Sensual enjoyment is the greatest object of attainment for them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/11_chintAmaparimeyA~.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.11।। वे मृत्युपर्यन्त रहनेवाली अपार चिन्ताओंका आश्रय लेनेवाले,
@@ -313,6 +330,7 @@ thus; निश्चिताः feeling sure.Commentary They are beset with im
 ।।16.11।। मरणपर्यन्त रहने वाली अपरिमित चिन्ताओं से ग्रस्त और विषयोपभोग
 को ही परम लक्ष्य मानने वाले ये आसुरी लोग इस निश्चित मत के होते हैं कि
 "इतना ही (सत्य, आनन्द) है"।।
+</details>
 </details>
 
 </div>

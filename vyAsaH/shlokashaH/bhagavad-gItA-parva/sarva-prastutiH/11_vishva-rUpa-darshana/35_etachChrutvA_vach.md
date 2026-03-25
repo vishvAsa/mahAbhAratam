@@ -28,8 +28,9 @@ title = "35 एतच्छ्रुत्वा वचनम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.35॥ सञ्जय उवाच -- **एतद्** आश्रितवात्सल्यजलधेः **केशवस्य वचनं श्रुत्वा** अर्जुनस् तस्मै नमस्कृत्य **भीतभीतः** अतिभीतः **भूयः** तं **प्रणम्य कृताञ्जलिर् वेपमानः किरीटी सगद्गदम् आह।**
@@ -44,12 +45,14 @@ title = "35 एतच्छ्रुत्वा वचनम्"
 
 11.35 Sanjaya said Having heard the speech of Krsna, ocean of affection for the seekers of refuge in Him, Arjuna did obeisance to Him. Trembling with fear, he bowed again and again before Him. With folded palms, and trembling, Arjuna spoke in a choked voice with emotion.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.35॥ --,**एतत् श्रुत्वा वचनं केशवस्य** पूर्वोक्तं **कृताञ्जलिः** सन् **वेपमानः** कम्पमानः **किरीटी नमस्कृत्वा; भूयः** पुनः **एव आह** उक्तवान् **कृष्णं सगद्गदं** भयाविष्टस्य दुःखाभिघातात् स्नेहाविष्टस्य च हर्षोद्भवात्; अश्रुपूर्णनेत्रत्वे सति श्लेष्मणा कण्ठावरोधः ततश्च वाचः अपाटवं मन्दशब्दत्वं यत् स गद्गदः तेन सह वर्तत इति सगद्गदं वचनम् आह इति वचनक्रियाविशेषणम् एतत्। **भीतभीतः** पुनः पुनः भयाविष्टचेताः सन् **प्रणम्य** प्रह्वः भूत्वा; आह इति व्यवहितेन संबन्धः॥ अत्र अवसरे संजयवचनं साभिप्रायम्। कथम् द्रोणादिषु अर्जुनेन निहतेषु अजेयेषु चतुर्षु; निराश्रयः दुर्योधनः निहतः एव इति मत्वा धृतराष्ट्रः जयं प्रति निराशः सन् संधिं करिष्यति; ततः शान्तिः उभयेषां भविष्यति इति। तदपि न अश्रौषीत् धृतराष्ट्रः भवितव्यवशात्॥**अर्जुन उवाच --,**
 </details>
@@ -148,12 +151,14 @@ listen to that!
 स्यात्। भीतभीतः अतिशयेन भीतः सन् पूर्वं नमस्कृत्य पुनरपि
 प्रणम्यात्यन्तनम्रो भूत्वाहेति संबन्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.35॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -162,12 +167,14 @@ listen to that!
 
 ॥11.35॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.35॥ No commentary.
 </details>
@@ -176,12 +183,14 @@ listen to that!
 
 11.35 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.35॥ ततो यत् जातं तदवसन्नाय धृतराष्ट्राय सञ्जय उवाच -- एतदिति।
 श्रुत्वा अर्जुन उवाचेति।
@@ -198,10 +207,13 @@ listen to that!
 प्रेमोपरुद्धकण्ठं यथा तथा भूयः पुनः नमस्कृत्यैव अतीव दीनो भूत्वा आह
 विज्ञप्तिं कृतवानित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.35॥ ततो यद्वृत्तं तद्धृतराष्ट्रं प्रति संजय उवाच **-- एतदिति।**
 एतत्पूर्वश्लोकत्रयात्मकं केशवस्य वचनं श्रुत्वा वेपमानः कम्पमानः
@@ -209,10 +221,13 @@ listen to that!
 उक्तवान्। कथमाह भयहर्षाद्यावेशवशाद्गद्गदेन कण्ठकम्पनेन सह वर्तत इति
 सगद्गदं यथा भवति तथा। किंच भीतादपि भीतः सन्प्रणम्यावनतो भूत्वा।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.35 Sanjaya said Having heard this speech of Krsna, Arjuna did Him obeisance; and trembling with awe, he bowed down again, and with folded palms, and trembling, he spoke to Krsna in a choked voice.
@@ -248,11 +263,13 @@ with joined palms, trembling, prostrating himself, again addressed Krishna, in a
 नमस्कृत्वा prostrating (himself); भूयः again; एव even; आह addressed;
 कृष्णम् to Krishna; सगद्गदम् in a choked voice; भीतभीतः overwhelmed with fear; प्रणम्य having prostrated.Commentary When anyone is in a state of extreme terror or joy he sheds tears on account of pain or exhilaration of spirits. Then his throat is choked and he stammers or speaks indistinctly or in a dull; choked voice. Arjuna was extremely frightened when he saw the Cosmic Form and so he spoke in a stammering tone.There is great significane in Sanjayas words. He thought that Dhritarashtra might come to terms or make peace with the Pandavas when he knew that his sons would certainly be killed for want of proper support when Drona and Karna would be killed by Arjuna. He hoped that conseently there would be peace and happiness to both the parties. But Dhritarashtra was obstinate he did not listen to this suggestion on account of the force of destiny.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.35।। सञ्जय बोले -- भगवान् केशवका यह वचन सुनकर भयसे कम्पित हुए
@@ -329,6 +346,7 @@ with joined palms, trembling, prostrating himself, again addressed Krishna, in a
 ।।11.35।। संजय ने कहा -- केशव भगवान् के इस वचन को सुनकर मुकुटधारी अर्जुन
 हाथ जोड़े हुए, कांपता हुआ नमस्कार करके पुन: भयभीत हुआ श्रीकृष्ण के प्रति
 गद्गद् वाणी से बोला।।
+</details>
 </details>
 
 </div>

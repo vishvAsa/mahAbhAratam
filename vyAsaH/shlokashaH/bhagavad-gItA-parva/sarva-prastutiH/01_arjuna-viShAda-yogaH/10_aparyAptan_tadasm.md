@@ -23,8 +23,9 @@ title = "10 अपर्याप्तन् तदस्माकम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 १९-तमस्य टीका दृश्या।
@@ -39,12 +40,14 @@ title = "10 अपर्याप्तन् तदस्माकम्"
 
 1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adeacy of Bhima's forces for conering the Kaurava forces and the inadeacy of his own forces for victory against the Pandava forces. He was grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma, in order to cheer him, roared like a lion, and then blowing his conch, made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to coner the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost lost now itself.' So said Sanjaya to Dhrtarastra who was longing for their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas, who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot, directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all, superior and inferior - by saying, 'Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.10 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -131,12 +134,14 @@ starts from 2.10.
 किंचिदपि भयकारणमस्तीत्यभिप्रायः। एवंचेन्निर्भयोऽसि तर्हि किमिति बहु
 जल्पसीत्यत आह। कर्तव्यविशेषद्योती तुशब्दः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.10॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -147,12 +152,14 @@ starts from 2.11.
 ॥1.10॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.10॥ अपर्याप्तमिति। भीमसेनाभिरक्षितं पाण्डवीयं बलम् अस्माकमपर्याप्तं जेतुमशक्यम् +++(S N जेतुमसमर्थम्)+++। यदि वा +++(K अथवा)+++ अपर्याप्तम् कियत्तदस्मद्बलस्येत्येवार्थः +++(K omits एव)+++। इदं तु भीष्माभिरक्षितं बलमस्माकं सम्बन्धि एतेषां पाण्डवानां पर्याप्तम् +++(S पाण्वानां बलं पर्याप्तम् N omit पर्याप्तम्)+++ जेतुं शक्यम् +++(S शक्तम्)+++ यदि वा पर्याप्तं बहु न समरे जय्यमेतैरिति।
 </details>
@@ -161,12 +168,14 @@ starts from 2.11.
 
 1.10 Aparyaptam etc. For us, for Pandava army grauded by Bhimasena is unlimited, i.e., it is not possible to vanish; or it is not sufficient, i.e., very insignificant when compared with our army. This is the meaning. On the other hand, for these Pandavas, this army guarded by Bhisma, belonging to us, is limited i.e., it is possible to vanish; or it is sufficient i.e., too much; in other words it is not possible to be vanished in the war by these (Pandavas).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.2 1.11॥ दुर्योधनोऽपि वृकोदरादिभी रक्षितं पाण्डवानां बलं
 भीष्माभिरक्षितं स्वीयं च बलं विलोक्य आत्मजविजये तद्बलस्य पर्याप्ततां
@@ -184,10 +193,13 @@ starts from 2.11.
 अत्यधिकम्। किञ्च भीष्मेणाभितो रक्षितम्। तेषां तु बलं शूरभूयिष्ठमपि
 पर्याप्तम् अक्षौहिणीसप्तकमितत्वात्। किञ्च भीमेनाभिरक्षितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **॥1.10॥** ततः किमित्यत आह **अपर्याप्तमिति।** तत्
 तथाभूतैर्वीरैयुक्तमपि भीष्मेणाभिरक्षितमप्यस्माकं बलं सैन्यमपर्याप्तं तैः
@@ -196,10 +208,13 @@ starts from 2.11.
 प्रत्यसमर्थम्। भीमस्यैकपक्षपातित्वात्।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.10 Inadequate is this force of ours, which is guarded by Bhisma, while adequate is that force of theirs, which is guarded by Bhima.
@@ -233,11 +248,13 @@ starts from 2.11.
   
 Commentary The verse is differently interpreted by different commentators. Sridhara Swami takes the word aparyaptam to mean insufficient. Ananda Giri takes it to mean unlimited.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.10।। वह हमारी सेना पाण्डवों पर विजय करने में अपर्याप्त है, असमर्थ
@@ -316,6 +333,7 @@ Commentary The verse is differently interpreted by different commentators. Sridh
 ।।1.10।। भीष्म के द्वारा हमारी रक्षित सेना अपर्याप्त है; किन्तु भीम
 द्वारा रक्षित उनकी सेना पर्याप्त है अथवा, भीष्म के द्वारा रक्षित हमारी
 सेना अपरिमित है किन्तु भीम के द्वारा रक्षित उनकी सेना परिमित ही है।
+</details>
 </details>
 
 </div>

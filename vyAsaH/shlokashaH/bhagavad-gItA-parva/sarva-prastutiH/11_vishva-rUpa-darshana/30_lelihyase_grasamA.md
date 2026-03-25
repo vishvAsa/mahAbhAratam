@@ -25,8 +25,9 @@ title = "30 लेलिह्यसे ग्रसमानः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.30॥ राज**लोकान् समग्रान् ज्वलद्भिर् वदनैर् ग्रसमानः** कोपवेगेन तद्रुधिरावसिक्तम् ओष्ठपुटादिकं **लेलिह्यसे** पुनः पुनः लेहनं करोषि। **तव** अतिघोरा **भासो** रश्मयः **तेजोभिः** स्वकीयैः प्रकाशैः **जगत् समग्रम् आपूर्य प्रतपन्ति।  
@@ -44,12 +45,14 @@ title = "30 लेलिह्यसे ग्रसमानः"
 
 11.30 Devouring all these kings with Your flaming mouths, You lick them up, namely, lick up again and again in great anger. Your lips etc., are wet with their blood. Your fiery rays scorch the universe by the brilliant flow of radiance filling the whole universe. You have manifested Yourself in this terrible form for revealing Your limitless sovereignty as reested by me thus: 'Reveal Yourself to me completely'(11.4), so that I may realise Your limitless sovereignty.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.30॥ --,**लेलिह्यसे** आस्वादयसि **ग्रसमानः** अन्तः प्रवेशयन् समन्तात् समन्ततः **लोकान् समग्रान्** समस्तान् **वदनैः** वक्त्रैः **ज्वलद्भिः** दीप्यमानैः **तेजोभिः आपूर्य** संव्याप्य **जगत् समग्रं** सह अग्रेण समस्तम् इत्येतत्। किञ्च; **भासः** दीप्तयः **तव उग्राः** क्रूराः **प्रतपन्ति** प्रतापं कुर्वन्ति हे **विष्णो** व्यापनशील॥ यतः एवमुग्रस्वभावः; अतः --,
 </details>
@@ -115,12 +118,14 @@ Since You are of such a terrible nature, therefore-
 यस्मात्त्वं भाभिर्जगदापूरयसि तस्मात्तवोग्रास्तीव्रा भासो दीप्तयः
 प्रज्वलतो ज्वलनस्येव प्रतपन्ति संतापं जनयन्ति। हे विष्णो व्यापनशील।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.30॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -129,12 +134,14 @@ Since You are of such a terrible nature, therefore-
 
 ॥11.30॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.30॥ No commentary.
 </details>
@@ -143,12 +150,14 @@ Since You are of such a terrible nature, therefore-
 
 11.30 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.30॥ तान् लेलिह्यसे। हे विष्णो व्यापनशील अन्यत् स्पष्टम्।
 </details>
@@ -164,10 +173,13 @@ Since You are of such a terrible nature, therefore-
 विष्णुः सात्त्विकाधिष्ठाता सात्त्विकरक्षणार्थमेव दुष्टनाशं करोत्यत
 उचितमेव तथाकरणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.30॥ ततः किमत आह **-- लेलिह्यस इति।** ग्रसमानो गिलन्
 समग्रांल्लोकान्सर्वानेतान्वीरान् समन्तात्सर्वतो लेलिह्यसेऽतिशयेन
@@ -175,10 +187,13 @@ Since You are of such a terrible nature, therefore-
 दीप्तयस्तेजोभिर्विस्फुरणैः समस्तं जगद्व्याप्योग्रास्तीव्राः सत्यः
 प्रतपन्ति संतापयन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.30 Devouring all the worlds on every side with your flaming mouths,
@@ -213,11 +228,13 @@ flaming; तेजोभिः with radiance; आपूर्य filling; जग
 the whole; भासः rays; तव Thy; उग्राः fierce; प्रतपन्ति are burning;
 विष्णो O VishnuCommentary Vishnu means allpervading; Vyapanasila.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.30।। आप अपने प्रज्वलित मुखोंद्वारा सम्पूर्ण लोकोंका ग्रसन करते हुए
@@ -270,6 +287,7 @@ the whole; भासः rays; तव Thy; उग्राः fierce; प्र�
 ।।11.30।। हे विष्णो! आप प्रज्वलित मुखों के द्वारा इन समस्त लोकों का
 ग्रसन करते हुए आस्वाद ले रहे हैं, आपका उग्र प्रकाश सम्पूर्ण जगत् को तेज
 के द्वारा परिपूर्ण करके तपा रहा है।।
+</details>
 </details>
 
 </div>

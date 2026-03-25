@@ -23,8 +23,9 @@ title = "20 त्यक्त्वा कर्मफलासङ्गम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.20॥**कर्मफलासङ्गं त्यक्त्वा नित्यतृप्तो** नित्ये स्वात्मन्य् एव तृप्तः **निराश्रयः** अस्थिरप्रकृतौ आश्रयबुद्धिरहितो यः कर्माणि करोति। **स कर्मणि** आभिमुख्येन **प्रवृत्तो ऽपि न एव किञ्चित्** कर्म **करोति** कर्मापदेशेन ज्ञानाभ्यासम् एव करोति इत्यर्थः। पुनो ऽपि कर्मणा ज्ञानाकारता एव विशोध्यते
@@ -39,12 +40,14 @@ title = "20 त्यक्त्वा कर्मफलासङ्गम्"
 
 4.20 Whoever performs actions, renouncing attachment to their fruits and is satisfied with the eternal, i.e., satisfied with his own self, and dependent on none, i.e., devoid of dependence on transient Prakrti (body and external nature) - such a perosn, even though fully engaged in actions, does not act at all. He is engaged in the practice of knowledge under the form of action. Again, Karma, having the form of knowledge, is examined:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.20॥ **त्यक्त्वा** कर्मसु अभिमानं **फलासङ्गं** च यथोक्तेन ज्ञानेन **नित्यतृप्तः** निराकाङ्क्षो विषयेषु इत्यर्थः। **निराश्रयः** आश्रयरहितः आश्रयो नाम यत् आश्रित्य पुरुषार्थं सिसाधयिषति दृष्टादृष्टेष्टफलसाधनाश्रयरहित इत्यर्थः। विदुषा क्रियमाणं कर्म परमार्थतोऽकर्मैव तस्य निष्क्रियात्मदर्शनसंपन्नत्वात्। तेन एवंभूतेन स्वप्रयोजनाभावात् ससाधनं कर्म परित्यक्तव्यमेव इति प्राप्ते ततः निर्गमासंभवात् लोकसंग्रहचिकीर्षया शिष्टविगर्हणापरिजिहीर्षया वा पूर्ववत् **कर्मणि अभिप्रवृत्तोऽपि** निष्क्रियात्मदर्शनसंपन्नत्वात् **नैव किञ्चित् करोति सः**॥ यः पुनः पूर्वोक्तविपरीतः प्रागेव कर्मारम्भात् ब्रह्मणि सर्वान्तरे प्रत्यगात्मनि निष्क्रिये संजातात्मदर्शनः स दृष्टादृष्टेष्टविषयाशीर्विवर्जिततया दृष्टादृष्टार्थे कर्मणि प्रयोजनमपश्यन् ससाधनं कर्म संन्यस्य शरीरयात्रामात्रचेष्टः यतिः ज्ञाननिष्ठो मुच्यते इत्येतमर्थं दर्शयितुमाह
 </details>
@@ -183,12 +186,14 @@ express this idea the Lord says:
 स्वदृष्ट्या नैव किंचित्करोति सः। निष्क्रियात्मदर्शनेन
 बाधितत्वादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.20॥ न च कामसङ्कल्पाभावेनालम् आसङ्गं स्नेहं च त्यक्त्वा
 ज्ञानस्वरूपमाह पुनर्नित्यतृप्त इति। नित्यतृप्तनिराश्रयेश्वरसरूपोऽस्मीति
@@ -206,12 +211,14 @@ express this idea the Lord says:
 **नित्ये**ति। इति हेतोरहमपि तथाविधः किन्त्वविद्यया तथा न प्रतीयत इति
 जानन्नित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.20 4.21॥ त्यक्त्वेति। निराशीरिति। अभिप्रवृत्तोऽपि आभिमुख्येन प्रवृत्तोऽपि। शरीरोपयोगि इन्द्रियव्यापारात्मकं कर्म शारीरं यत् मनोबुद्धिभ्यां न तथा अनुरञ्जितम्।
 </details>
@@ -220,12 +227,14 @@ express this idea the Lord says:
 
 4.20 See Comment under 4.21
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.20॥ एवं कर्त्ताऽप्यकर्त्तैव स असङ्गात् ब्रह्मवत् तदाह त्यक्त्वेति।
 अत्रकर्मण्यकर्म यः पश्येत् 4।18 इत्याद्युक्तं स्वयमेव विवृणोति
@@ -245,20 +254,26 @@ express this idea the Lord says:
 किञ्चित् करोति। मदाज्ञारूपत्वात्तस्य तत्कर्म मोक्षे स्वफलभोगादिना बन्धकं
 न भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.20॥ किंच **त्यक्त्वेति।** कर्मणि तत्फले चासक्तिं त्यक्त्वा नित्येन
 निजानन्देन तृप्तः अतएव योगक्षेमार्थमाश्रयणीयरहितः एवंभूतो यः स्वाभाविके
 विहिते च कर्मण्यभितः प्रवृत्तोऽपि किंचिदपि नैव करोति। तस्य
 कर्माकर्मतामापद्यत इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.20 Having renounced attachment to the fruits of his actions, ever contented with the eternal self, and dependent on none, one does not act at all, even though engaged in action.
@@ -291,11 +306,13 @@ express this idea the Lord says:
 किञ्चित् anything; करोति does; सः he.Commentary The same idea of inaction in action is repeated here to produce a deep impression on the minds of the aspirants. He who works for the wellbeing of the world and he who performs actions without egoism and attachment for the fruits; to set an example to the masses; really does nothing at all though he is ever engaged in activity; as he possesses the knowledge of the Self which is beyond all activity and as he has realised his identity with It.As Brahman the Absolute is selfcontained; all the desires are gratified if one realises the Self. He is ever satisfied and does not depend on anything; just as a man who has the favour of the king does not depend on the minister or the government official for anything.
 (Cf.IV.41)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.20।। जो कर्म और फलकी आसक्तिका त्याग करके आश्रयसे रहित और सदा तृप्त
@@ -373,6 +390,7 @@ express this idea the Lord says:
 ।।4.20।। जो पुरुष, कर्मफलासक्ति को त्यागकर, नित्यतृप्त और सब आश्रयों
 से रहित है वह कर्म में प्रवृत्त होते हुए भी (वास्तव में) कुछ भी नहीं
 करता है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "27 प्रशान्तमनसं ह्येनम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>वेङ्कटनाथः</summary>
 
@@ -97,12 +98,14 @@ title = "27 प्रशान्तमनसं ह्येनम्"
 
 6.27 Supreme happiness, which is of the nature of experience of the self in its essential nature comes to this Yogin whose 'mind is at peace,' i.e., whose mind does not swerve from the self, whose mind abides in the self; whose impurities are thery completely burnt away; whose Rajas is thery 'wholly annulled,' i.e., in whom the ality of Rajas is destroyed; and who has thus become the Brahman, i.e., who remains steady in his essential nature as the Atman. 'Hi' (for) is added to indicate reason. The meaning is this: 'On account of the nature of the self which has the form of supreme bliss.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.27॥ **प्रशान्तमनसं** प्रकर्षेण शान्तं मनः यस्य सः प्रशान्तमनाः तं प्रशान्तमनसं **हि एनं योगिनं सुखम् उत्तमं** निरतिशयम् **उपैति** उपगच्छति **शान्तरजसं** प्रक्षीणमोहादिक्लेशरजसमित्यर्थः **ब्रह्मभूतं** जीवन्मुक्तम् ब्रह्मैव सर्वम् इत्येवं निश्चयवन्तं ब्रह्मभूतम् **अकल्मषं** धर्माधर्मादिवर्जितम्॥
 </details>
@@ -194,12 +197,14 @@ and akalmasam, who is taintless, free from vice etc.
 मनस्तद्वृत्त्योरभावे सुषुप्तौ स्वरुपसुखविर्भावप्रसिद्धिं द्योतयति
 हिशब्दः। तथाच प्राग्व्याख्यातं सुखमात्यन्तिकं यत्तत्त् इत्यत्र।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.27॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -208,12 +213,14 @@ and akalmasam, who is taintless, free from vice etc.
 
 ॥6.27॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.26 6.28॥ न च विषयव्युपरममात्रमेव प्राप्यमित्युच्यते यत इत्यादि अधिगच्छतीत्यन्तम्। यतो यतो मनो निवर्तते तन्निवर्तनसमनन्तरमेव आत्मनि शमयेत्। अन्यथा अप्रतिष्ठं चित्तं पुनरपि विषयानेवावलम्बते। तत्र आत्मनि शान्तचित्तं योगिनं कर्मभूतं सुखं कर्तृभूतम् उपैति। अनेनैव क्रमेण योगिनां सुखेन ब्रह्मावाप्तिः न तु कष्टयोगादिनेति तात्पर्यम्।
 </details>
@@ -222,12 +229,14 @@ and akalmasam, who is taintless, free from vice etc.
 
 6.27 See Comment under 6.27
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.27॥ ततश्च योगसुखाप्तिरित्याह प्रशान्तमनसमिति। प्रशान्तं मनो यस्य यतः
 शान्तं रजोविक्षेपकं यस्य तमकल्मषं ब्रह्मभावापन्नं योगिनं उत्तमं सुखं
@@ -241,20 +250,26 @@ and akalmasam, who is taintless, free from vice etc.
 विक्षेपदोषरहितमुत्तमं सुखं ब्रह्मभूतं भगवद्रसात्मकमकल्मषं
 स्वभोगादिसुखदोषरहितमुपैति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.27॥ एवं प्रत्याहारादिभिः पुनः पुनर्मनो वशीकुर्वन्तं रजोगुणक्षये सति
 योगसुखं प्राप्नोतीत्याह **प्रशान्तमनसमिति।** एवमुक्तेन प्रकारेण शान्तं
 रजो यस्य तम्। अतएव प्रशान्तं मनो यस्य तमेनं निष्कल्मषं ब्रह्मत्वं
 प्राप्तं योगिनमुत्तमं सुखं समाधिसुखं स्वयमेवोपैति प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.27 For supreme happiness comes to the Yogin whose mind is at peace,
@@ -289,11 +304,13 @@ whose passion is ieted, who has become Brahman and who is free from sin.
 Yogi; सुखम् bliss; उत्तमम् supreme; उपैति comes; शान्तरजसम् one whose passion is ieted; ब्रह्मभूतम् one who has become Brahman; अकल्मषम् one who is free from sin.Commentary In this verse and in the next also the Lord describes the benefits of Yoga.Supreme (eternal; unalloyed and uninterrupted) bliss comes to the Yogi whose mind is perfectly serene;
 who has calmed his passionate nature; who has destroyed all sorts of attachments; who has attained knowledge of the Self and thus become a Jivanmukta or one who is liberated while living; who feels that all is Brahman only; and who is taintless; i.e.; who is not affected by Dharma or Adharma (good or evil).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.27।। जिसके सब पाप नष्ट हो गये हैं, जिसका रजोगुण तथा मन सर्वथा
@@ -346,6 +363,7 @@ who has calmed his passionate nature; who has destroyed all sorts of attachments
 ।।6.27।। जिसका मन प्रशान्त है, जो पापरहित (अकल्मषम्) है और जिसका रजोगुण
 (विक्षेप) शांत हुआ है, ऐसे ब्रह्मरूप हुए इस योगी को उत्तम सुख प्राप्त
 होता है।।
+</details>
 </details>
 
 </div>

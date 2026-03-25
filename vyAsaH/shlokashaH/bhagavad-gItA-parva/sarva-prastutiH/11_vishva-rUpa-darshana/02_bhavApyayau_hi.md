@@ -23,8 +23,9 @@ title = "02 भवाप्ययौ हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.2॥ तथा सप्तमप्रभृति दशमपर्यन्तं त्वद्व्यतिरिक्तानां सर्वेषां **भूतानां** त्वत्तः परमात्मानो भवाप्ययौ उत्पत्तिप्रलयौ **विस्तरशः मया श्रुतौ।** हे **कमलपत्राक्ष** तव **अव्ययं** नित्यं सर्वचेतनाचेतनवस्तुशेषित्वं ज्ञानबलादिकल्याणगुणगणैस् तव एव परतरत्वं सर्वाधारत्वं चिन्तितनिमिषितादिसर्वप्रवृत्तिषु तव एव प्रवर्तयितृत्वम्; इत्याद्य् अपरिमितं **माहात्म्यं** च श्रुतम् **हि** शब्दो वक्ष्यमाणदिदृक्षाद्योतनार्थः।
@@ -40,12 +41,14 @@ title = "02 भवाप्ययौ हि"
 11.2 Likewise, beginning from the seventh, and ending with the tenth discourse, the origination and dissolution of all beings other than You, as issuing from You, the Supreme Self, have been heard at length by me. Your unlimited greatness, immutable and eternal, Your principalship
 (Sesitva) over all sentient and non-sentient things, Your supreme greatness consisting of the host of auspicious attributes like knowledge, strength etc., Your being the supporter of all things and actuator of all activities like thinking, blinking etc., have also been heard. Here the term, 'hi' (verily) expresses the desire to have the vision which is going to be revealed.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.2॥ --,**भवः** उत्पत्तिः **अप्ययः** प्रलयः तौ भवाप्ययौ हि **भूतानां श्रुतौ विस्तरशः मया;** न संक्षेपतः; **त्वत्तः** त्वत्सकाशात्; **कमलपत्राक्ष** कमलस्य पत्रं कमलपत्रं तद्वत् अक्षिणी यस्य तव स त्वं कमलपत्राक्षः हे कमलपत्राक्ष; महात्मनः भावः माहात्म्यमपि च **अव्ययम्** अक्षयम् श्रुतम् इति अनुवर्तते॥
 </details>
@@ -111,12 +114,14 @@ too;-has been heard-(these last words) remain understood.
 बन्धमोक्षादिविचित्रफलदातृत्वेऽप्यसङ्गौदासीन्यमन्यदपि सर्वात्मत्वादि
 सोपाधिकं निरुपाधिकमपि चाव्ययमक्षयं मया श्रुतमिति परिणतमनुवर्तते चकारात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.2॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -125,12 +130,14 @@ too;-has been heard-(these last words) remain understood.
 
 ॥11.2॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.2॥ No commentary.
 </details>
@@ -139,12 +146,14 @@ too;-has been heard-(these last words) remain understood.
 
 11.2 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.2॥ भवाप्ययाविति। जगत्कारणत्वं तव मया श्रुतं; माहात्म्यमपि च सर्वं
 तदिदं विभूतिरूपं तव मयेति।
@@ -157,10 +166,13 @@ too;-has been heard-(these last words) remain understood.
 विस्तरशः श्रुतौ। अव्ययं स्थितिरूपं पालनरूपं माहात्म्यं महत्त्वं
 नाशानन्तरपालनरूपं चापि श्रुतं;तेन मोहो नष्टः इति पूर्वेणैवान्वयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.2॥ किंच **-- भवाप्ययाविति।** भूतानां भवाप्ययौ सृष्टिप्रलयौ त्वत्तः
 सकाशादेव भवत इति श्रुतौ मयाअहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा इत्यादौ
@@ -173,10 +185,13 @@ too;-has been heard-(these last words) remain understood.
 अतस्त्वत्परतन्त्रत्वादपि जीवानामहं कर्तेत्यादिर्मदीयो मोहो विगत इति
 भावः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.2 The origination and dissolution of all beings, O Krsna, (as issuing from You) have been heard verily by me at length as also Your immutable greatness.
@@ -210,11 +225,13 @@ inexhaustible greatness.
 from Thee; कमलपत्राक्ष O lotuseyed; माहात्म्यम् greatness; अपि also; च
 and; अव्ययम् inexhaustible.Commentary Kamalapatraksha Lotuseyed or having eyes like lotuspetals. Kamalapatra also means knowledge of the Self. He who can be obtained by knowledge of the Self is Kamalapatraksha.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.2।। हे कमलनयन ! सम्पूर्ण प्राणियोंकी उत्पत्ति और प्रलय मैंने
@@ -263,6 +280,7 @@ and; अव्ययम् inexhaustible.Commentary Kamalapatraksha Lotuseyed or
 
 ।।11.2।। हे कमलनयन ! मैंने भूतों की उत्पत्ति और प्रलय आपसे विस्तारपूर्वक
 सुने हैं तथा आपका अव्यय माहात्म्य (प्रभाव) भी सुना है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "30 देही नित्यमवध्योऽयम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.30॥**सर्वस्य** देवादिदेहिनो **देहे** वध्यमाने अपि **अयं देही नित्यम् अवध्य** इति मन्तव्यः। तस्मात् **सर्वाणि** देवादिस्थावरान्तानि **भूतानि** विषमाकाराण्य् अप्य् उक्तेन स्वभावेन स्वरूपतः समानानि नित्यानि च। देहगतं तु वैषम्यम् अनित्यत्वं च। ततो देवादीनि सर्वाणि भूतान्य् उद्दिश्य **न शोचितुम् अर्हसि** न केवलं भीष्मादीन् प्रति।
@@ -39,12 +40,14 @@ title = "30 देही नित्यमवध्योऽयम्"
 
 2.30 The self within the body of everyone such as gods etc., must be considered to be eternally imperishable, though the body can be killed. Therefore, all beings from gods to immovable beings, even though they possess different forms, are all uniform and eternal in their nature as described above. The ineality and the perishableness pertain only to the bodies. Therefore, it is not fit for you to feel grief for any of the beings beginning from gods etc., and not merely for Bhisma and such others.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.30॥  
   
@@ -118,12 +121,14 @@ standpoint of the supreme Reality, but
   
 न स्थूलदेहस्य लिङ्गदेहस्यात्मनो वा शोच्यत्वं युक्तिमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.30॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -132,12 +137,14 @@ standpoint of the supreme Reality, but
 
 ॥2.30॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.31॥ देहीति। अतो नित्यमात्मनोऽविनाशित्वम्।
 </details>
@@ -146,12 +153,14 @@ standpoint of the supreme Reality, but
 
 2.30 Dehi etc. On these grounds, the permanent destruction-lessness of the Self \[is established\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.30॥ यतो देही आत्मा जीवो नित्यमवध्यः सर्वस्यानेकविधस्य देहे तस्मात्
 सर्वाणि भूतानि न शोचितुमर्हसि।
@@ -163,19 +172,25 @@ standpoint of the supreme Reality, but
 अवध्यस्तस्मात्सर्वाणि भूतानि जातदेहानि नतु देही जायत इति त्वं शोचितुं
 नार्हसि। भारतेति सम्बोधनात्तथाज्ञानभवत्वं बोध्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.30॥ तदेवं दुर्बोधमात्मतत्त्वं संक्षेपेणोपदिशन्नशोच्यत्वमुपसंहरति
 **देहीति।  
 **
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.30 The self in the body, O Arjuna, is eternal and indestructible. This is so in the case of the selves in all bodies. Therefore, it is not fit for you to feet grief for any being.
@@ -208,11 +223,13 @@ standpoint of the supreme Reality, but
 देहे in the body; सर्वस्य of all; भारत O Bharata; तस्मात् therefore;
 सर्वाणि (for) all; भूतानि creatures; न not; त्वम् thou; शोचितुम् to grieve; अर्हसि (thou) shouldst.Commentary The body of any creature may be destroyed but the Self cannot be killed. Therefore you should not grieve regarding any creature whatever; Bhishma or anybody else.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.30।। हे भरतवंशोद्भव अर्जुन! सबके देहमें यह देही नित्य ही अवध्य है।
@@ -304,6 +321,7 @@ standpoint of the supreme Reality, but
 
 ।।2.30।। हे भारत ! यह देही आत्मा सबके शरीर में सदा ही अवध्य है, इसलिए
 समस्त प्राणियों के लिए तुम्हें शोक करना उचित नहीं।।
+</details>
 </details>
 
 </div>

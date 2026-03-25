@@ -26,8 +26,9 @@ title = "01 धर्मक्षेत्रे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 यत्-पदाम्भोरुह-ध्यान-  
@@ -149,12 +150,14 @@ title = "01 धर्मक्षेत्रे"
 
 1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adeacy of Bhima's forces for conering the Kaurava forces and the inadeacy of his own forces for victory against the Pandava forces. He was grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma, in order to cheer him, roared like a lion, and then blowing his conch, made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to coner the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost lost now itself.' So said Sanjaya to Dhrtarastra who was longing for their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas, who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot, directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all, superior and inferior - by saying, 'Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.1 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -297,12 +300,14 @@ starts from 2.10.
 पाण्डवाश्चेति पृथङ्निर्दिशन्पाण्डवेषु ममकाराभावप्रदर्शनेन
 तद्द्रोहमभिव्यनक्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.1॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -313,12 +318,14 @@ starts from 2.11.
 ॥1.1॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.1॥ धर्मक्षेत्र इति। अत्र केचित् व्याख्या-विकल्पम् आहुः -  
 **कुरूणां** करणानां यत् **क्षेत्रम्** अनुग्राहकं - अत एव सांसारिक-धर्माणां +++(S सांसारिकत्वधर्माणां)+++ सर्वेषां क्षेत्रम् - उत्पत्ति-निमित्तत्वात्।+++(5)+++ 
@@ -332,12 +339,14 @@ starts from 2.11.
 
 1.1 Dharmaksetre etc. Here some \[authors\] offer a different explanation as1 :-Kuruksetra : the man's body is the ksetra i.e., the facilitator, of the kurus, i.e., the sense-organs. 2 The same is the field of all wordly duties, since it is the cuse of their birth; which is also the field of the righteous act that has been described as : 'This is the highest righteous act viz., to realise the Self by means of the Yogas'; and which is the protector4 \[of the embodied Self\] by achieving emancipation \[by means of this\], through the destruction of all duties. It is the location where there is the confrontation among all ksatras, the murderous ones-because the root ksad means 'to kill' - viz, passion and asceticism, wrath and forbearance, and others that stand in the mutual relationship of the slayer and the slain. Those that exist in it are the mamakas,-i.e., the intentions that are worthy of man of ignorance and are the products of ignorance-and those that are born of Pandu: i.e., the intentions, of which the soul is the very knowledge itself5 and which are worthy of persons of pure knowledge. What did they do; In other words, which were vanished by what; Mamaka : a man of ignorance as he utters \[always\] 'mine'6. Pandu : the pure one.7
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.1॥ धर्मक्षेत्रे इत्यारभ्यस घोषो धार्तराष्ट्राणां 1।19 इत्यन्तं
 सम्बन्धः। अत्रैतदध्यायव्याख्या श्रीविठ्ठलेशप्रभुकृता बोध्या।
@@ -364,10 +373,13 @@ starts from 2.11.
 राज्यप्राप्तिरिति निश्चित्यापि किं कृतवन्त इत्यर्थः। सञ्जयस्य
 वरप्राप्तसर्वज्ञत्वमालक्ष्य सम्बोधनम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **॥1.1॥** इह खलु सकललोकहितावतारः सकलवन्दितचरणः परमकारुणिको भगवान्
 देवकीनन्दनस्तत्त्वाज्ञानविजृम्भितशोकमोहविभ्रंशितविवेकतया
@@ -384,10 +396,13 @@ starts from 2.11.
 कृतवन्तः।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.1 Dhrtarastra said On the holy field of Kuruksetra, gathered together eager for battle, what did my people and the Pandavas do, O Sanjaya;
@@ -425,11 +440,13 @@ Commentary Dharmakshetra -- that place which protects Dharma is Dharmakshetra. B
   
 Sanjaya is one who has conered likes and dislikes and who is impartial.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.1।। धृतराष्ट्र बोले (टिप्पणी प₀ 1.2) - हे संजय! (टिप्पणी प₀ 1.3)
@@ -560,6 +577,7 @@ Sanjaya is one who has conered likes and dislikes and who is impartial.
 
 ।।1.1।। धृतराष्ट्र ने कहा -- हे संजय ! धर्मभूमि कुरुक्षेत्र में एकत्र हुए
 युद्ध के इच्छुक (युयुत्सव:) मेरे और पाण्डु के पुत्रों ने क्या किया;
+</details>
 </details>
 
 </div>

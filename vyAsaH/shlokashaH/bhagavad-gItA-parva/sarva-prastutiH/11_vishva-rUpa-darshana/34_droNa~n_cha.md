@@ -25,8 +25,9 @@ title = "34 द्रोणञ् च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.34॥ द्रोणभीष्मकर्णादीन् कृतापराधतया **मया** एव हनने विनियुक्तान् **त्वं जहि;** त्वं हन्या एतान् गुरून् बन्धून् च **अन्यान् अपि** भोगसक्तान् कथं हनिष्यामि इति **मा व्यथिष्ठाः;** तान् उद्दिश्य धर्माधर्मभयेन बन्धुस्नेहेन कारुण्येन च मा व्यथां कृथाः। यतस् ते कृतापराधाः; मया एव हनने विनियुक्ताः; अतो निर्विशङ्को **युध्यस्व; रणे सपत्नान् जेतासि;** जेष्यसि; न एतेषां वधे नृशंसतागन्धः; अपि तु जय एव लभ्यते इत्यर्थः।
@@ -41,12 +42,14 @@ title = "34 द्रोणञ् च"
 
 11.34 Say Drona, Bhisma, Karna, etc., who have ben chosen for destruction by me alone, as they have transgressed the law of righteousness. Be not distressed, considering, 'How can I slay these teachers, relations and others who are attached to enjoyments;' Do not be thus distressed by thinking about the right and wrong of it, or out of love and compassion for them. These persons are guilty of unrighteousness by siding with the evil-minded Duryodhana. They have been chosen by Me alone for destruction. Therefore fight without doubt. You shall conqer your enemies in battle. In slaying them, there is not the slighest trace of cruelty. The purport is that victory is the sure result.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.34॥ --,**द्रोणं च;** येषु येषु योधेषु अर्जुनस्य आशङ्का तांस्तान् व्यपदिशति भगवान्; मया हतानिति। तत्र द्रोणभीष्मयोः तावत् प्रसिद्धम् आशङ्काकारणम्। द्रोणस्तु धनुर्वेदाचार्यः दिव्यास्त्रसंपन्नः; आत्मनश्च विशेषतः गुरुः गरिष्ठः। भीष्मश्च स्वच्छन्दमृत्युः दिव्यास्त्रसंपन्नश्च परशुरामेण द्वन्द्वयुद्धम् अगमत्; न च पराजितः। तथा जयद्रथः; यस्य पिता तपः चरति मम पुत्रस्य शिरः भूमौ निपातयिष्यति यः; तस्यापि शिरः पतिष्यति इति। कर्णोऽपि वासवदत्तया शक्त्या त्वमोघया संपन्नः सूर्यपुत्रः कानीनः यतः; अतः तन्नाम्नैव निर्देशः। **मया हतान् त्वं जहि** निमित्तमात्रेण। **मा व्यथिष्ठाः** तेभ्यः भयं मा कार्षीः। **युध्यस्व जेतासि** दुर्योधनप्रभृतीन् **रणे** युद्धे **सपत्नान्** शत्रून्॥**संजय उवाच --,**
 </details>
@@ -147,12 +150,14 @@ others; rane, in battle.
 संख्ये द्रोणं च मधुसूदन। इषुभिः प्रतियोत्स्यामि पूजार्हौ
 इत्यत्रेवात्रापि समुदायान्वयानन्तरं प्रत्येकान्वयो द्रष्टव्यः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.34॥ योऽस्य शिरश्छिन्नं भूमौ पातयति तच्छिरो भेत्स्यतीति
 तत्पितुर्वराज्जयद्रथोऽपि विशेषेणोक्तः। प्रवरा वासवी शक्तिः इति कर्णः।
@@ -170,12 +175,14 @@ others; rane, in battle.
 तत्पितुर्जयद्रथपितुः। शक्तिरस्ति कर्णस्येति शेषः। कर्णो विशेषेणोक्त इति
 वर्तते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.33 -- 11.34॥ तस्मादिति। द्रोणमिति। तदत्र भगवता +++(S तदनु भवता ; N तदत्रभवता)+++ उत्तरं जगतो विद्याविद्यात्मनः शुद्धाशुद्धमिश्रसंविद्बलग्रासीकारात् अभिधीयते इति प्रायशः सूत्रितमत्राध्याये रहस्यम्। उट्टङ्कितमात्र +++(N -- मात्रं)+++ -- संवित्तिसमर्थेभ्योऽस्तु कियत्पङ्क्तिलेखनायासदौःस्थित्यमालम्भेमहि +++(K आलम्भेमहि)+++। अत्र च यदुक्तं मया हतेषु त्वं निमित्तं यशस्वी भव इति भगवता तत् प्रत्युक्तं यदुक्तं प्रागर्जुनेन नैतद्विद्मः,+++(;N नचैतद्विद्मः)+++ कतरन्नो वरीयः इत्यादि।
 </details>
@@ -184,12 +191,14 @@ others; rane, in battle.
 
 11.33-34 Tasmat etc. Drona etc. The world is of the nature of perfect and imperfect knowledge and it is swallowed (11.completely controlled) by the power of the perfect, imperfect and mixed Consciousness. Hence, here an answer is given accordingly by the Bhagavat. This secret is a almost indicated in this chapter. Yet for the benefit of those persons who are capable of understanding only what has been clearly marked, let us (11.Ag.) assume the misfortune of taking the trouble of writing a few lines. What is declared by the Bhagavat - viz., 'As the foes have been slain \[by Me\], be a token cause and win glory', this is by way of answering to what Arjuna has said earlier viz., 'We do not know who, amongst both of us, is more powerful than the other etc. (11.II, 6)'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.34॥ पूर्वशङ्काऽधुना न कार्येत्याह -- द्रोणमिति। येभ्यस्त्वं
 पूर्वमशङ्किथास्तानेतान् मया हतप्रायान्कालदृष्ट्या प्रारब्धकर्मणा
@@ -207,20 +216,26 @@ others; rane, in battle.
 पूर्वमुक्तं स दोषोऽत्रानुकूल्यकरणेन निवारितः। यत एते मया हता अतो
 निश्शङ्कं युद्ध्यस्वः रणे सपत्नान् शत्रून् जेतासि जेष्यसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.34॥ न चैतद्विद्मः कतरन्नो गरीयः इत्यादिर्या शङ्का सापि न
 कार्येत्याह **-- द्रोणं चोति।** येभ्यस्त्वं शङ्कसे तान्द्रोणादीन्मयैव
 हतांस्त्वं जहि घातय। मा व्यथिष्ठाः शोकं मा कार्षीः। सपत्नान् शत्रूत्रणे
 युद्धे निश्चितं जेतासि जेष्यसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.34 Slay Drona, Bhisma, Jayadratha, Karna as well as other mighty warriors, who have been doomed by Me. Do not feel distressed. Fight, You shall coner your rivals in the battle.
@@ -258,11 +273,13 @@ fight and thou shalt coner thy enemies in battle.
 inadvertently; makes it fall on the ground he too dies at once. Karna;
 the son of the Sungod; had obtained an unerring missile from Indra.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/34_droNa~n_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.34।। द्रोण, भीष्म, जयद्रथ और कर्ण तथा अन्य सभी मेरे द्वारा मारे हुए
@@ -372,6 +389,7 @@ the son of the Sungod; had obtained an unerring missile from Indra.
 ।।11.34।। द्रोण, भीष्म, जयद्रथ, कर्ण तथा और भी बहुत से मेरे द्वारा मारे
 गये वीर योद्धाओं को तुम मारो; भय मत करो; युद्ध करो; तुम युद्ध में
 शत्रुओं को जीतोगे।।
+</details>
 </details>
 
 </div>

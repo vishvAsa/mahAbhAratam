@@ -23,8 +23,9 @@ title = "23 गतसङ्गस्य मुक्तस्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.23॥ आत्मविषय**ज्ञानावस्थित**मनस्त्वेन वि**गत**तदितर**सङ्गस्य** तत एव निखिलपरिग्रहविनिर्मुक्तस्य उक्तलक्षणयज्ञादिकर्मनिर्वृत्तये वर्तमानस्य पुरुषस्य बन्धहेतुभूतं प्राचीनं **कर्म समग्रं प्रविलीयते** निःशेषं क्षीयते। प्रकृतिवियुक्तात्मस्वरूपानुसन्धानयुक्ततया कर्मणो ज्ञानाकारत्वम् उक्तम्। इदानीं सर्वस्य सपरिकरस्य कर्मणः परब्रह्मभूतपरमपुरुषात्मकत्वानुसन्धानयुक्ततया ज्ञानाकारत्वम् आह
@@ -39,12 +40,14 @@ title = "23 गतसङ्गस्य मुक्तस्य"
 
 4.23 Of a person whose attachment to all objects is gone because of his mind being established in the knowledge of the self, who is therefore liberated from accepting all worldly possessions and who is engaged in the performance of sacrifices etc., as described above - in the case of such a person his beginningless load of Karma, which is the cause of his bondgae, is completely dissolved, i.e., destroyed without leaving any residue. So far the nature of Karma as having the form of knowledge has been described as emerging from constant contemplation on the nature of the self as different from Prakrti. And now Sri Krsna says that all actions together with their ancillaries, have the form of knowledge because of constant contemplation by the aspirant on the Supreme Person who is the Supreme Brahman, as being his soul.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.23॥ **गतसङ्गस्य** सर्वतोनिवृत्तासक्तेः **मुक्तस्य** निवृत्तधर्माधर्मादिबन्धनस्य **ज्ञानावस्थितचेतसः** ज्ञाने एव अवस्थितं चेतः यस्य सोऽयं ज्ञानावस्थितचेताः तस्य **यज्ञाय** यज्ञनिर्वृत्त्यर्थम् **आचरतः** निर्वर्तयतः **कर्म समग्रं** सह अग्रेण फलेन वर्तते इति समग्रं कर्म तत् समग्रं **प्रविलीयते** विनश्यति इत्यर्थः॥ कस्मात् पुनः कारणात् क्रियमाणं कर्म स्वकार्यारम्भम् अकुर्वत् समग्रं प्रविलीयते इत्युच्यते यतः
 </details>
@@ -155,12 +158,14 @@ totally without producing its result; This is being answered: Because,
 विद्यत इति समग्रं प्रविलीयते प्रकर्षेण कारणोच्छेदेन
 तत्त्वदर्शनाद्विलीयते। विनश्यतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.23॥ उपसंहरति गतसङ्गस्येति। गतसङ्गस्य फलस्नेहरहितस्य मुक्तस्य
 शरीराद्यनभिमानिनः। ज्ञानावस्थितचेतसः परमेश्वरज्ञानिनः।
@@ -177,12 +182,14 @@ totally without producing its result; This is being answered: Because,
 व्याख्यातं भवति। ज्ञानस्य विषयसापेक्षत्वात्तं प्रदर्शयन् व्याचष्टे
 **ज्ञाने**ति आत्मज्ञानस्याप्युपलक्षणमेतत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.23॥ गतसंगस्येति। यज्ञायेति जातावेकवचनम्। यज्ञाः वक्षामाणलक्षणाः।
 </details>
@@ -191,12 +198,14 @@ totally without producing its result; This is being answered: Because,
 
 4.23 Gatasangasya etc. For sacrifice (yajnaya) : The singular number is to be construed with the class \[yajnatva\]. \[Hence the meaning is\] : 'The sacrifice' that are being defined in the seel. It has been said 'for the sake of sacrifice etc.' Now their general nature, \[the Lord\] describes :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.23॥ तथा चासावकर्मा योगी सर्वतो
 मुक्तोऽखण्डब्रह्मयाथात्म्यज्ञानेनाऽवस्थितचेताः यज्ञाय ब्रह्मणे
@@ -213,20 +222,26 @@ totally without producing its result; This is being answered: Because,
 लोकशिक्षणार्थं मदाज्ञयाऽग्रे यज्ञप्रवृत्त्यर्थमाचरतः समग्रं सफलं कर्म
 प्रविलीयते। यज्ञप्रवृत्तावेव लीनं भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.23॥ किंच **गतसङ्गस्येति।** गतसङ्गस्य निष्कामस्य रागादिभिर्मुक्तस्य।
 ज्ञानेऽवस्थितं चेतो यस्य। यज्ञायपरमेश्वरार्थं कर्माचरतः सतः समग्रं
 सवासनं कर्म प्रविलीयते अकर्मभावमापद्यते। आरूढयोगपक्षे यज्ञायेति।
 यज्ञसंरक्षणार्थं लोकसंग्रहार्थमेव कर्म कुर्वत इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.23 Of one whose attachments are gone, who is free, whose mind is established in knowledge, who works only for sacrifices, his Karma is entirely dissolved.
@@ -259,11 +274,13 @@ his actions, being done as a sacrifice, leave no trace behind.
 यज्ञाय for sacrifice; आचरतः acting; कर्म action; समग्रम् whole;
 प्रविलीयते is dissolved.Commentary One who is free from attachment; who is liberated from the bonds of Karma; whose mind is centred and rooted in wisdom; who performs actions for the sake of sacrifice; in order to please the Lord -- all his actions with their results melt away. His actions are reduced to nothing. They are; in fact; no actions at all.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.23।। जिसकी आसक्ति सर्वथा मिट गयी है, जो मुक्त हो गया है, जिसकी
@@ -350,6 +367,7 @@ his actions, being done as a sacrifice, leave no trace behind.
 
 ।।4.23।। जो आसक्तिरहित और मुक्त है, जिसका चित्त ज्ञान में स्थित है,
 यज्ञ के लिये आचरण करने वाले ऐसे पुरुष के समस्त कर्म लीन हो जाते हैं।।
+</details>
 </details>
 
 </div>

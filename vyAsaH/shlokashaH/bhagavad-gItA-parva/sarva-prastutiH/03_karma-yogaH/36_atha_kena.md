@@ -26,8 +26,9 @@ title = "36 अथ केन"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.36॥ अर्जुन उवाच **अथ अयं** ज्ञानयोगाय प्रवृत्तः **पूरुषः** स्वयं विषयान् अनुभवितुम् **अनिच्छन् अपि केन प्रयुक्तो** विषयानुभवरूपं **पापं बलान् नियोजित इव चरति।**
@@ -42,12 +43,14 @@ title = "36 अथ केन"
 
 3.36 Arjuna said Impelled by what does a man practising Jnana Yoga commit sin in the form of experiencing the objects of the senses, as if constrained by force, even against his own will not to experience the objects of the senses.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 यद्य् अपि अनर्थमूलम् ध्यायतो विषयान् पुंसः (गीता 2.62) इति रागद्वेषौ ह्यस्य परिपन्थिनौ इति च +उक्तम्,  
 विक्षिप्तम् अनवधारितं च तदुक्तम्।
@@ -157,12 +160,14 @@ of all beings' (ibid. 78).
 समुच्छेदायेत्यर्थः। हे वार्ष्णेय वृष्णिवंशे मन्मातामहकुले
 कृपयावतीर्णेतिसंबोधनेन वार्ष्णेयीसुतोऽहं त्वया नोपेक्षणीय इति सूचयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.36॥ बहवः कर्मकारणाः सन्ति क्रोधादयः कामश्च। तत्र को बलवानिति पृच्छति
 अथेति। अथेत्यर्थान्तरंतयोर्न वशमागच्छेत् 3।34 इति प्रश्नप्रापकम्।
@@ -187,12 +192,14 @@ of all beings' (ibid. 78).
 **तयोरि**ति। अत्रापि यो बलवांस्तं प्रति महान्तं प्रयत्नं करिष्यामीति
 भावेन प्रश्नो युक्त एवेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.36॥ अथेति। पापं पापतया विदन्नपि जनः कथं तत्र प्रवर्तते इति प्रशनः। अस्य प्रश्नस्योत्थापने अयमाशयः। स्वधर्मो यदि स्वहृदयादनपायि +++(S हृदयानपायि )+++ त्वादत्याज्यः कथं तर्ह्यधर्माचरणमेषाम् +++(S omits तर्हि)+++ इति कोऽयं स्वधर्मो नाम येनारिक्तो +++(S येन न रिक्तो N येनानतिरिक्तो)+++ जन्तुः इत्युक्तं भवति।
 </details>
@@ -201,12 +208,14 @@ of all beings' (ibid. 78).
 
 3.36 Atha etc. The estion is this : Eventhough a man knows a sin to be a sin, why does he proceed on it ; The idea in raising this estion is this : If one's own duty cannot be (or should not be) given up, because it does not vanish from one's own heart, then how to account for the sinful acts of these men \[of the world\] ; This amounts to say : What is one's own duty by which the creature is never deserted ; Eventhough one's own duty rests in one's heart, the confusion (or evil) is created by the interruption (or covering) of an intruder, and it is not created by the absence of that duty-with this purport in mind, an answer to the above estion-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.36॥ परधर्मकृतेः पापं पुण्यं च निजधर्मतः। इति ज्ञात्वा मतं पार्थः।
 सन्दिहानोऽथ पृच्छति अथ केनेति। तयोर्न वशमागच्छेत् 3।37 इत्यत्यशक्यं
@@ -223,10 +232,13 @@ of all beings' (ibid. 78).
 सत्कुलाविर्भूत बलान्नियोजित इव अधिष्ठात्रा प्रेरित इव केन प्रयुक्तः पापं
 चरति पापगतियुक्तो भवति तत्फलभोगं च करोति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/36_atha_kena.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/36_atha_kena.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.36॥ तयोर्न वशमागच्छेदित्युक्तं तदेतदशक्यं मन्वानोऽर्जुन उवाच **अथ
 केनेति।** वृष्णेर्वंशेऽवतीर्णो वार्ष्णेयः हे वार्ष्णेय अनर्थरूपं पापं
@@ -234,10 +246,13 @@ of all beings' (ibid. 78).
 विवेकबलेन निरुन्धतोऽपि पुरुषस्य पुनः पापे प्रवृत्तिदर्शनादन्योऽपि
 तयोर्मूलभूतः कश्चित्प्रवर्तको भवेदिति संभावनायां प्रश्नः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.36 Arjuna said But, impelled by what, O Krsna, does one (practising Jnana Yoga), commit sin even against his own will, constrained as it were, by force;
@@ -270,11 +285,13 @@ impelled by what does this man commit sin even against his wish, being constrain
 चरति does; पूरुषः man; अनिच्छन् not wishing; अपि even; वार्ष्णेय O Varshneya; बलात् by force; इव as it were; नियोजितः
 constrained.Commentary Varshneya is one born in the family of the Vrishnis; a name of Krishna.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/36_atha_kena.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.36।। अर्जुन बोले - हे वार्ष्णेय ! फिर यह मनुष्य न चाहता हुआ भी
@@ -335,6 +352,7 @@ constrained.Commentary Varshneya is one born in the family of the Vrishnis; a na
 ।।3.36।। अर्जुन ने कहा -- हे वार्ष्णेय ! फिर यह पुरुष बलपूर्वक बाध्य
 किये हुये के समान अनिच्छा होते हुये भी किसके द्वारा प्रेरित होकर पाप का
 आचरण करता है;
+</details>
 </details>
 
 </div>

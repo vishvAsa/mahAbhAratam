@@ -23,8 +23,9 @@ title = "06 अजोऽपि सन्नव्ययात्मा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.6॥ अजत्वाव्ययत्व-सर्वेश्वरत्वादि सर्वं पारमेश्वरं प्रकारम् अजहद् एव **स्वां प्रकृतिम् अधिष्ठाय आत्म-मायया सम्भवामि**।  
@@ -106,12 +107,14 @@ people: 'By Maya, He knows the good and bad of his creatures.' Hence by My own k
 
 \[All this elaboration is meant to refute the doctrine of mere apparency of incarnations as taught by the Advaitins. Ramanuja, as stated in his Introduction to the Bhasya, upholds the absolute reality of incarnations.\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.6॥ **अजोऽपि** जन्मरहितोऽपि **सन्** तथा **अव्ययात्मा** अक्षीणज्ञानशक्तिस्वभावोऽपि सन् तथा **भूतानां** ब्रह्मादिस्तम्बपर्यन्तानाम् **ईश्वरः** ईशनशीलो**ऽपि सन् प्रकृतिं** स्वां मम वैष्णवीं मायां त्रिगुणात्मिकाम् यस्या वशे सर्वं जगत् वर्तते यया मोहितं सत् स्वमात्मानं वासुदेवं न जानाति तां प्रकृतिं स्वाम् **अधिष्ठाय** वशीकृत्य **संभवामि** देहवानिव भवामि जात इव **आत्ममायया** आत्मनः मायया न परमार्थतो लोकवत्॥ तच्च जन्म कदा किमर्थं च इत्युच्यते
 </details>
@@ -405,12 +408,14 @@ when and why that birth occurs:
 नास्माभिर्विनिवार्यते इति न्यायेन नापवाद्याः। यदि संभवेत्तथैवास्तु
 किमतिपल्लवितेनेत्युपरम्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.6॥ न तर्ह्यनादिर्भवानित्यत आह अजोऽपीति। अव्यय आत्मा
 देहोऽपीत्यव्ययात्मा। अनन्तं विश्वतोमुखम् 11।11 इति
@@ -480,12 +485,14 @@ when and why that birth occurs:
 सम्भवेन शाब्दो व्याघातः अस्य तु व्याप्त्येति ज्ञापनाय क्रममुल्लङ्घ्य
 व्याख्यातम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.5 4.9॥ बहूनि इत्यादि अर्जुन इत्यन्तम्। श्रीभगवान् किल पूर्णषाड्गुण्यत्वात् शरीरसंपर्कमात्ररहितोऽपि स्थितिकारित्वात् कारुणिकतया आत्मांशं सृजति। आत्मा पूर्णषाड्गुण्यः अंशः उपकारकत्वेन अप्रधानभूतो +++(N omit अ)+++ यत्र तत् आत्मांशं शरीरं गृह्णाति इत्यर्थः। अत एवास्य जन्म दिव्यम् यत आत्ममायया योगप्रज्ञया स्वस्वातन्त्रयशक्त्या +++(omits स्व)+++ आरब्धम् न कर्मभिः। कर्मापि दिव्यम् फलदानासमर्थत्वात्। यश्चैवमेतत्तत्त्वं वेत्ति आत्मन्यप्येवमेव मन्यते सोऽवश्यं भगवद्वासुदेवतत्त्वं जानाति।
 </details>
@@ -494,12 +501,14 @@ when and why that birth occurs:
 
 4.6 See Comment under 4.9
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.6॥ नन्वनादेरविनाशिनस्तव जीववत्कथं जन्मोक्तं इत्यत आह अजोऽपीति।
 सत्यमेवं तथाप्यजोऽपि सन्नव्ययात्माऽपि सन् कर्मपारतन्त्र्यरहितोऽपि सन्
@@ -549,10 +558,13 @@ when and why that birth occurs:
 धर्मरक्षार्थमाविर्भवामि तत्सामयिकजीवेषु कर्मयोगादिजीवेषु
 लीलार्थप्रकटीकृतस्वरूपेण रसात्मकभक्तिमेव कथयामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.6॥ **नन्वनादेस्तव** कुतो जन्म अविनाशिनश्च कथं पुनर्जन्म येन बहूनि
 मे व्यतीतानीत्युच्यते ईश्व रस्य तव पुण्यपापविहीनस्य कथं जीववज्जन्मेत्यत
@@ -563,10 +575,13 @@ when and why that birth occurs:
 शुद्धसत्त्वात्मिकां प्रकृतिमधिष्ठायं स्वीकृत्य विशुद्धोर्जितसत्त्व
 मूर्त्या स्वेच्छयावतरामीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.6 Though I am birthless and of immutable nature, though I am the Lord of all beings, yet by employing My own Nature (Prakrti) I am born out of My own free will.
@@ -601,11 +616,13 @@ Nature; स्वाम् My own; अधिष्ठाय governing; संभ
 आत्ममायया by My own Maya.Commentary Man is bound by Karma. So he takes birth. He is under the clutches of Nature. He,is deluded by the three alities of Nature whereas the Lord has Maya under His perfect control.
 He rules over Nature; and so He is not under the thraldom of the alities o Nature. He appears to be born and embodied through His own Maya or illusory power; but is not so in reality. His embodiment is ; as a matter of fact; apparent; It cannot affect in the least His true divine nature. (Cf.IX.8).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.6।। मैं अजन्मा और अविनाशी-स्वरूप होते हुए भी तथा सम्पूर्ण
@@ -657,6 +674,7 @@ He rules over Nature; and so He is not under the thraldom of the alities o Natur
 ।।4.6।। यद्यपि मैं अजन्मा और अविनाशी स्वरूप हूँ और भूतमात्र का ईश्वर हूँ
 (तथापि) अपनी प्रकृति को अपने अधीन रखकर (अधिष्ठाय) मैं अपनी माया से जन्म
 लेता हूँ।।
+</details>
 </details>
 
 </div>

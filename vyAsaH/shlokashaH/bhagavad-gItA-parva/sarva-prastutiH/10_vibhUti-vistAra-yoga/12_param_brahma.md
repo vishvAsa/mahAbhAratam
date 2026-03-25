@@ -26,8 +26,9 @@ title = "12 परम् ब्रह्म"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.12॥ अर्जुन उवाच -- **परं ब्रह्म** परं धाम परमं पवित्रम् इति यं श्रुतयो वदन्ति स हि **भवान्।  
@@ -56,12 +57,14 @@ Those who know the Vedas and those who know the self declare the great-minded Kr
 (Ma. Bha. Sabha., 38.23). And you yourself say so in the passage beginning with 'Earth, water, fire, ether, mind, intellect and Ahankara
 - this Prakrti, which is divided eightfold, is Mine' (7.4) and ending with 'I am the origin of all; from Me proceed everything' (10.8).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.12॥ --,**परं ब्रह्म** परमात्मा **परं धाम** परं तेजः **पवित्रं** पावनं **परमं** प्रकृष्टं **भवान्। पुरुषं शाश्वतं** नित्यं **दिव्यं** दिवि भवम् **आदिदेवं** सर्वदेवानाम् आदौ भवम् आदिदेवम् **अजं विभुं** विभवनशीलम्॥ ईदृशम् --,
 </details>
@@ -141,12 +144,14 @@ svayam, You Yourself; eva, verily; bravisi, tell; me, me (so).
 दिव्यं सर्वप्रपञ्चातीतमादि च सर्वकारणं देवं च द्योतनात्मकं
 स्वप्रकाशमादिदेवं अतएवाजं विभुं सर्वगतं त्वामाहुरिति संबन्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.12 -- 10.15॥ ब्रह्म परिपूर्णम्। अथ कस्मादुच्यते परं ब्रह्म ৷৷.
 बृहद्बृहत्या बृंहयति \[अ.शिर.4\] इति च श्रुतिः। बृह बृहि वृद्धाविति
@@ -167,12 +172,14 @@ svayam, You Yourself; eva, verily; bravisi, tell; me, me (so).
 विभुः। सोऽकामयत इति विविधभवने श्रुत्यन्तरम्। विप्रसम्भ्यो ड्वसंज्ञायाम्
 \[अष्टा.3।2।180\] इति च स्मृतिः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.12॥ No commentary.
 </details>
@@ -181,12 +188,14 @@ svayam, You Yourself; eva, verily; bravisi, tell; me, me (so).
 
 10.12 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.12 -- 10.14॥ एवं सकलेतरविसजातीयं भगवतो योगप्रभावं
 तादृशविभूतिहेतुत्वं स्वानन्यजनकात्मत्वं च निशम्य तद्विस्तारं ज्ञातुकामो
@@ -224,10 +233,13 @@ svayam, You Yourself; eva, verily; bravisi, tell; me, me (so).
 जन्मप्रतीतिः कथं इत्यत आह -- विभुमिति। समर्थमित्यर्थः।
 तथाप्रतीतिकरणसमर्थमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/12_param_brahma.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/12_param_brahma.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.12॥ संक्षेपेणोक्ता विभूतीर्विस्तरेण जिज्ञासुर्भगवन्तं
 स्तुवन्नर्जुन उवाच **-- परं ब्रह्मेति सप्तभिः।** परं ब्रह्म च; परं धाम च
@@ -235,10 +247,13 @@ svayam, You Yourself; eva, verily; bravisi, tell; me, me (so).
 तथा दिव्यं द्योतनात्मकं स्वप्रकाशं च आदिश्चासौ देवश्च तं।
 देवानामादिभूतमित्यर्थः। तथा अजमजन्मानं विभुं व्यापकं त्वामेवाहुः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.12 - 10.13 Arjuna said You are Supreme Brahman, the Supreme Light,
@@ -279,11 +294,13 @@ purifier; परमम् supreme; भवान् Thou; पुरुषम् P
 omnipresent.Commentary Param Brahma The highest Self. The word Param indicates the pure and attributeless Absolute; free from the limiting adjuncts. It is Satchidananda Brahman. The inferior Brahman is the Brahman with alities (Saguna) or Isvara; Brahman with the limiting adjuncts or the chosen object of meditation by the devotees.Param Dhama means Param Tejah or the supreme light. From the Creator down to the blade of grass the Supreme Being is the support or substratum. Therefore He is known as the supreme abode.Adideva The primeval God or the original God Who existed before all other gods. This God is Para Brahman Itself. It is selfluminous.Pavitram Paramam Supreme purifier. The sacred rivers and holy places of pilgrimage can remove only the sins but Para Brahman can destroy all sins and ignorance; the root cause of all sins.
 Therefore Para Brahman or the Supreme Self is the supreme purifier.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.12 -- 10.12।। अर्जुन बोले -- परम ब्रह्म, परम धाम और महान् पवित्र आप
@@ -324,6 +341,7 @@ Therefore Para Brahman or the Supreme Self is the supreme purifier.
 
 ।।10.12।। अर्जुन ने कहा आप -परम ब्रह्म, परम धाम और परम पवित्र हंै; सनातन
 दिव्य पुरुष, देवों के भी आदि देव, जन्म रहित और सर्वव्यापी हैं।।
+</details>
 </details>
 
 </div>

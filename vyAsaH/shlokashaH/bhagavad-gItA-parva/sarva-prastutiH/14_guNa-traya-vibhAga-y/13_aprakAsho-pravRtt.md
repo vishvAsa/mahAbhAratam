@@ -24,8 +24,9 @@ title = "13 अप्रकाशोऽप्रवृत्तिश्च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.13॥**अप्रकाशः** ज्ञानानुदयः। **अप्रवृत्तिः** च स्तब्धता। **प्रमादः** अकार्यप्रवृत्तिफलम् अनवधानम्। **मोहः** विपरीतज्ञानम्। एतानि तमसि प्रवृद्धे जायन्ते एतैस् तमः प्रवृद्धम् इति विद्यात्।
@@ -40,12 +41,14 @@ title = "13 अप्रकाशोऽप्रवृत्तिश्च"
 
 14.13 'Non-illumination' is the absence of knowledge. 'Inactivity' is immovableness. 'Negligence' is inadvertence resulting in works that should not be done. 'Delusion' is wrong knowledge. These arise when Tamas waxes strong. By these, one should know that the Tamas has increased very much.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.13॥ --,**अप्रकाशः** अविवेकः; अत्यन्तम् **अप्रवृत्तिश्च** प्रवृत्त्यभावः तत्कार्यं **प्रमादो मोह एव च** अविवेकः मूढता इत्यर्थः। **तमसि** गुणे **विवृद्धे एतानि** लिङ्गानि **जायन्ते** हे **कुरुनन्दन**॥ मरणद्वारेणापि यत् फलं प्राप्यते; तदपि सङ्गरागहेतुकं सर्वं गौणमेव इति दर्शयन् आह --,
 </details>
@@ -106,12 +109,14 @@ certainly caused by the alities. By way of showing this the Lord says:
 विवृद्धे एतानि लिङ्गानि जायन्ते। हे कुरुनन्दन; अत
 एतैर्लिङ्गैरव्यभिचारिभिर्विवृद्धं तमो जानीयादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.13॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -120,12 +125,14 @@ certainly caused by the alities. By way of showing this the Lord says:
 
 ॥14.13॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.11 -- 14.13॥ सर्वेत्यादि कुरुनन्दनेत्यन्तम्। सर्वद्वारेषु; सर्वेन्द्रियेषु। लोभादयः +++(S लोकादिकाः)+++ क्रमेणैव रजस्युद्रिच्यमाने जायन्ते। एवमप्रकाशादय क्रमेणैव तमोविवृद्धौ ( तमोवृद्धौ) आविर्भवन्ति।
 </details>
@@ -134,12 +141,14 @@ certainly caused by the alities. By way of showing this the Lord says:
 
 14.11-13 Sarva-etc. upto kurunandana. In all the gates : in all the sense-organs. Greed etc., are born in succession when the Rajas dominates. Similarly, absence of mental illumination and so on arise in succession only at the time of the increase of the Tamas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.13॥ अप्रकाश इति। अन्धतामिस्रं तामिस्रं महामोहो मोहश्चेति चतुर्धा।
 तमः पञ्चमं प्रथममेवोक्तम्। स्वरूपाज्ञाने हि (प्रवृद्धे विलोमतः)
@@ -156,20 +165,26 @@ certainly caused by the alities. By way of showing this the Lord says:
 भगवद्भजनाननुसन्धानम्। मोहः संसारासक्तिः। हे कुरुनन्दन तमसि विवृद्धे
 सत्येतानि जायन्ते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.13॥ किंच **-- अप्रकाश इति**। अप्रकाशो विवेकभ्रंशः;
 अप्रवृत्तिरनुद्यमः; प्रमादः कर्तव्यार्थानुसंधानराहित्यं; मोहो
 मिथ्याभिनिवेशः; तमसि प्रवृद्धे एतानि लिङ्गानि चिन्हानि जायन्ते।
 एतैस्तमसो वृद्धिं जानीयादित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.13 Non-illumination, inactivity, negligence and even delusion - these arise, O Arjuna, when Tamas prevails.
@@ -202,11 +217,13 @@ non-discrimination and inactivity, inadvertence and delusion.
 heedlessness; मोहः delusion; एव even; च and; तमसि in inertia; एतानि
 these; जायन्ते arise; विवृद्धे have become prdominant; कुरुनन्दन O descendant of Kuru (Arjuna).Commentary When Tamas increases; darkness; a desire to do nothing; forgetfulness of ones duties and confusion ome into existence.Darkness Absence of discrimination.Apravritti Inertness extreme inactivity.Pramada (heedlessness) and Moha (delusion) are the effects of darkness. These are the characteristics or marks which indicate that Tamas is predominant. Tamas is a great stumbling block to spiritual progress and success in any walk of life. It must be destroyed at all costs. People mistake Tamas for Sattva or Santi (peace). They take the Tamasic man for a silent Yogi All is Prarabdha Everything is Maya There is no world Why should I work Work will bind me. I am Brahman. This is not spirituality but pure and thick Tamas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.13।। हे कुरुनन्दन ! तमोगुणके बढ़नेपर अप्रकाश, अप्रवृत्ति, प्रमाद और
@@ -355,6 +372,7 @@ these; जायन्ते arise; विवृद्धे have become prdomin
 
 ।।14.13।। हे कुरुनन्दन ! तमोगुण के प्रवृद्ध होने पर अप्रकाश, अप्रवृत्ति,
 प्रमाद और मोह ये सब उत्पन्न होते हैं।।
+</details>
 </details>
 
 </div>

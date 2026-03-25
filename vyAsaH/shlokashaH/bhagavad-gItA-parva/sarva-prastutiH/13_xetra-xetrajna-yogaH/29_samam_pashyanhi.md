@@ -23,8 +23,9 @@ title = "29 समम् पश्यन्हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.28॥**सर्वत्र** देवादिशरीरेषु तत्तच्छेषित्वेन आधारतया नियन्तृतया च **स्थितम् ईश्वरम्** आत्मानं देवादिविषमाकारवियुक्तं ज्ञानैकाकारतया **समं पश्यन् आत्मना** मनसा स्वम् **आत्मानं न हिनस्ति** रक्षति; संसारान् मोचयति। **ततः** तस्माद् ज्ञातृतया सर्वत्र समानाकारदर्शनात् **परां गतिं याति। गम्यत इति गतिः; परं गन्तव्यं यथावद् अवस्थितम् आत्मानं प्राप्नोति। देवाद्याकारयुक्ततया सर्वत्र विषमम् आत्मानं पश्यन् आत्मानं हिनस्ति; भवजलधिमध्ये प्रक्षिपति।**
@@ -43,12 +44,14 @@ title = "29 समम् पश्यन्हि"
 'himself', namely, by his mind. Therefore, as a result of seeing the sameness of the nature of the self in every place as a knower, he attains the 'highest goal.' What is to be reached is called 'goal'. He attains the supreme, namely, the self in its pure form. On the contrary,
 if he should view the self as dissimilar in every place, i.e., identifies It with the bodies, then he 'injure the self, namely, hurls It into the middle of the ocean of Samsara.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.29॥ --,**समं पश्यन्** उपलभमानः **हि** यस्मात् **सर्वत्र** सर्वभूतेषु **समवस्थितं** तुल्यतया अवस्थितम् **ईश्वरम्,अतीतानन्तरश्लोकोक्तलक्षणमित्यर्थः। समं पश्यन् किम्** न हिनस्ति **हिंसां न करोति** आत्मना **स्वेनैव स्वमा**त्मानम्**।** ततः **तदहिंसनात्** याति परां **प्रकृष्टां** गतिं **मोक्षाख्याम्**॥ ननु नैव कश्चित् प्राणी स्वयं स्वम् आत्मानं हिनस्ति। कथम् उच्यते अप्राप्तम् न हिनस्ति इति यथा न पृथिव्यामग्निश्चेतव्यो नान्तरिक्षे इत्यादि। नैष दोषः; अज्ञानाम् आत्मतिरस्करणोपपत्तेः। सर्वो हि अज्ञः अत्यन्तप्रसिद्धं साक्षात् अपरोक्षात् आत्मानं तिरस्कृत्य अनात्मानम् आत्मत्वेन परिगृह्य; तमपि धर्माधर्मौ कृत्वा उपात्तम् आत्मानं हत्वा अन्यम् आत्मानम् उपादत्ते नवं तं चैवं हत्वा अन्यमेवं तमपि हत्वा अन्यम् इत्येवम् उपात्तमुपात्तम् आत्मानं हन्ति; इति आत्महा सर्वः अज्ञः। यस्तु परमार्थात्मा; असावपि सर्वदा अविद्यया हत इव; विद्यमानफलाभावात्; इति सर्वे आत्महनः एव अविद्वांसः। यस्तु इतरः यथोक्तात्मदर्शी; सः उभयथापि आत्मना आत्मानं न हिनस्ति न हन्ति। ततः याति परां गतिम् यथोक्तं फलं तस्य भवति इत्यर्थः॥ सर्वभूतस्थम् ईश्वरं समं पश्यन् न हिनस्ति आत्मना आत्मानम् इति उक्तम्। तत् अनुपपन्नं स्वगुणकर्मवैलक्षण्यभेदभिन्नेषु आत्मसु; इत्येतत् आशङ्क्य आह --,
 </details>
@@ -191,12 +194,14 @@ and actions, the Lord says:
 अतः स्वरूपलाभान्न हिनस्त्यात्मनात्मानं ततो याति परां गतिम्। तत
 आत्महननाभावादविद्यातत्कार्यनिवृत्तिलक्षणां मुक्तिमधिगच्छतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.29॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -205,12 +210,14 @@ and actions, the Lord says:
 
 ॥13.29॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.29॥ सममिति। सर्वत्रैव समबुद्धिर्योगी आत्मानं न हिनस्ति दुस्तरे संसारार्णवे न पातयति +++(;N न हिनस्ति; न दुस्तरे संसारार्णवे पातयति)+++।
 </details>
@@ -219,12 +226,14 @@ and actions, the Lord says:
 
 13.29 Samam etc. A man of Yoga, who's thought is on what is eal in one and all, does not harm the Self i.e, does not fell the Self down in the ocean of the cycle \[of birth and death\], difficult to cross over.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.29॥ समं पश्यन् आत्मना आत्मानं न हिनस्ति नान्यथा प्रतिपद्यते; किन्तु
 याथातथ्येनावैति हीति युक्तंयोऽन्यथा सन्तमात्मानमन्यथा प्रतिपद्यते। किं
@@ -246,10 +255,13 @@ and actions, the Lord says:
 सन्तमात्मानमन्यथा प्रतिपद्यते। किं तेन न कृतं पापं चौरेणाऽऽत्मापहारिणा
 \[म.भा.1।74।27\] इति सम्पठ्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.29॥ कुत इत्यत आह **-- सममिति।** सर्वत्र भूतमात्रे समं
 सम्यगप्रच्युतस्वरूपेणावस्थितं परमात्मानं पश्यन् हि यस्मादात्मना
@@ -258,10 +270,13 @@ and actions, the Lord says:
 देहात्मदर्शी देहेन सहात्मानं हिनस्ति। तथाच श्रुतिः -- असुर्या नाम ते
 लोका अन्धेन तमसावृताः। तांस्ते प्रेत्याभिगच्छन्त्येके चात्महनो जनाः इति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.29 For, seeing the ruler (i.e., self) abiding alike in every place,
@@ -296,11 +311,13 @@ he does not injure the self by the self (mind) and therefore reaches the highest
 He destroys this body and takes another body and so on. But he who beholds the one Self in all beings does not destroy the Self by the self. Therefore he attains the Supreme Goal; i.e.; he attains release from the round of birth and death. Knowledge of the Self leads to liberation or salvation. Knowledge of the Absolute annihilates the ignorance in toto. If the ignorance is destroyed and false knowledge is also destroyed; all evils are simultaneously destroyed.Those who have realised that unity of the Self in all these diverse forms are never caught in the meshes of birth and death. They attain the state of Turiya
 (the fourth state beyond waking; dreaming and deep sleep) where form and sound do not exist.The self is everybodys friend and also his enemy as well. The idea first expressed in chapter VI; verses 5 and 6 is repeated here. (Cf.XVIII.20)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/29_samam_pashyanhi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.29।। क्योंकि सब जगह समरूपसे स्थित ईश्वरको समरूपसे देखनेवाला मनुष्य
@@ -438,6 +455,7 @@ He destroys this body and takes another body and so on. But he who beholds the o
 ।।13.29।। निश्चय ही, वह पुरुष सर्वत्र सम भाव से स्थित परमेश्वर को समान
 हुआ आत्मा (स्वयं) के द्वारा आत्मा (स्वयं) का नाश नहीं करता है, इससे वह
 परम गति को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

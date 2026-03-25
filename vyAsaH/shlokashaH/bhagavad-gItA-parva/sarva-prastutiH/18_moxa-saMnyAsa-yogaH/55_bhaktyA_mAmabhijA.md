@@ -23,8 +23,9 @@ title = "55 भक्त्या मामभिजानाति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.55॥ स्वरूपतः स्वभावतश् च **यः** अहं गुणतो विभूतितो **यावान् च** अहं तं **माम्** एवंरूपया **भक्त्या तत्त्वतो** वि**जानाति। मां तत्त्वतो ज्ञात्वा तदनन्तरं** तत्त्वज्ञानानन्तरं **ततो** भक्तितो **मां विशते** प्रविशति। तत्त्वतः स्वरूपस्वभावगुणविभूतिदर्शनोत्तरकालभाविन्या अनवधिकातिशयभक्त्या मां प्राप्नोति इत्यर्थः। अत्र तत इति प्राप्तिहेतुतया निर्दिष्टा भक्तिर् एव अभिधीयते। भक्त्या त्वनन्यया शक्यः (गीता 11।54) इति तस्या एव तत्त्वतः प्रवेशहेतुताभिधानात्। एवं वर्णाश्रमोचितनित्यनैमित्तिककर्मणां परित्यक्तफलादिकानां परमपुरुषाराधनरूपेण अनुष्ठितानां विपाक उक्तः। इदानीं काम्यानाम् अपि कर्मणाम् उक्तेन एव प्रकारेण अनुष्ठीयमानानां स एव विपाक इत्याह --
@@ -42,12 +43,14 @@ title = "55 भक्त्या मामभिजानाति"
 18.55 Through such devotion, he knows 'who I am,' i.e., knows My own essence and My nature, and 'what I am,' i.e., in My attributes and glory. Knowing Me truly, he rises to a higher level than this Bhakti, and aciring knowledge of the truth, enters into Me through devotion. The meaning is that he attains Me by means of infinite and unsurpassed Bhakti which develops subseent in time to the vision of the nature, attributes and glory of the Lord in reality. Here the term 'Tatah'
 (through) denotes that devotion is the cause of attainment; for it has been stated to be the cause of entrance n the text, 'But by singel-minded devotion it is possible ৷৷.' (11.54). In this way, the crowning development has been told starting from the disinterested performance of periodical and occasional rites suitable for the various stations and stages of life, which are to be performed to propitiate the Supreme Person. Sri Krsna now explains that even for actions meant for attaining desired objects (Kamya-karmas) the crowning stage is the same as for these described above, provided they too are done not for fulfilling one's desires but as offerings to propitiate the Supreme Person.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.55॥ -- **भक्त्या माम् अभिजानाति यावान्** अहम् उपाधिकृतविस्तरभेदः; **यश्च** अहम् अस्मि विध्वस्तसर्वोपाधिभेदः उत्तमः पुरुषः आकाशकल्पः; तं माम् अद्वैतं चैतन्यमात्रैकरसम् अजरम् अभयम् अनिधनं **तत्त्वतः** अभिजानाति। **ततः माम्** एवं **तत्त्वतः ज्ञात्वा विशते तदनन्तरं** मामेव ज्ञानानन्तरम्। नात्र ज्ञानप्रवेशक्रिये भिन्ने विवक्षिते ज्ञात्वा विशते तदनन्तरम् इति। किं तर्हि फलान्तराभावात् ज्ञानमात्रमेव; क्षेत्रज्ञं चापि मां विद्धि (गीता 13।2) इति उक्तत्वात्॥  
   
@@ -351,12 +354,14 @@ conviction with regard to it (the purport of the Scripture):
 ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः इति स्थितप्रज्ञलक्षणानि च व्याख्यातानि।
 तस्मात्साधूक्तं विशते तदनन्तरमिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.55॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -365,12 +370,14 @@ conviction with regard to it (the purport of the Scripture):
 
 ॥18.55॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -381,12 +388,14 @@ conviction with regard to it (the purport of the Scripture):
 
 18.55 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.55॥ भक्त्येति। स मदीयया भक्त्या निर्गुणया निर्गुणविषयकत्वात्परया
 मामेकं निर्गुणं पुरुषोत्तममभिजानाति तत्त्वतः यावान्यश्चास्मीति।
@@ -419,20 +428,26 @@ conviction with regard to it (the purport of the Scripture):
 **मां** लीलाकर्त्तारं **विशते**; आनन्दरूपो भवतीत्यर्थः।  
 यद्वा **मां** ज्ञात्वा **विशते** लीलास्विति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.55॥ ततश्च **-- भक्त्या मामिति।** तया च परया भक्त्या तत्त्वतो
 मामभिजानाति। कथंभूतम्; यावान् सर्वव्यापी यश्चास्मि
 सच्चिदानन्दघनस्तथाभूतम्। ततश्च मामेवं तत्त्वतो ज्ञात्वा तदनन्तरं तस्य
 ज्ञानस्याप्युपरमे सति मां विशते। परमानन्दरूपो भवतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.55 Through devotion, he comes to know Me fully - who and what I am in reality, who I am and how I am. Knowing Me thus in truth, he forthwith enters into Me.
@@ -473,11 +488,13 @@ Entering is knowing or beoming That. Entering is the attainment of Selfknowledge
 Knowing and entering are synonymous terms. It is very difficult to understand or comprehend transcendental spiritual matters. The teachers use various terms or expressions; analogies; similes; parables; stories;
 etc. to make the aspirant grasp the matter clearly and lucidly. Words are imperfect and languages are defective. They cannot fully express the inner spiritual experiences. The teacher somehow or other expresses to the students or aspirants these spiritual ideas. The aspirant himself will have to realise the Self. That is beyond the reach of words of expressions or analogies of similes. How can there be similes for that nondual Brahman These words are a sort of help or prop for the aspirants to lean upon in the beginning to understand spiritual matters. When he realises the Self; these words are of no value to him. He himself becomes an embodiment of knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.55।। उस पराभक्तिसे मेरेको, मैं जितना हूँ और जो हूँ -- इसको तत्त्वसे
@@ -649,6 +666,7 @@ etc. to make the aspirant grasp the matter clearly and lucidly. Words are imperf
 कितना (व्यापक) हूँ तथा मैं क्या हूँ। (इस प्रकार) तत्त्वत: जानने के
 पश्चात् तत्काल ही वह मुझमें प्रवेश कर जाता है, अर्थात् मत्स्वरूप बन जाता
 है।।
+</details>
 </details>
 
 </div>

@@ -26,8 +26,9 @@ title = "40 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.40॥ श्रीभगवानुवाच श्रद्धया योगे प्रक्रान्तस्य तस्मात् प्रच्युतस्य **इह** च **अमुत्र** च **विनाशः न विद्यते** प्राकृतस्वर्गादिभोगानुभवे ब्रह्मानुभवे च अभिलषितानवाप्तिरूपः प्रत्यवायाख्यो ऽनिष्टावाप्तिरूपश्च विनाशो न विद्यते इत्यर्थः। **न हि** निरतिशय**कल्याण**रूपयोग**कृत् कश्चित्** कालत्रये अपि **दुर्गतिं गच्छति। कथम् अयं भविष्यति इत्यत्राह**
@@ -42,12 +43,14 @@ title = "40 श्री भगवानुवाच"
 
 6.40 The Lord said Neither here nor there is destruction for him who has begun Yoga with faith and has then fallen away from it. The meaning is that there is no destruction either in the form of failure of attainment of desires or in the form of Pratyavaya, which means the attainment of what is undesirable because of defects in the performance of works. Therefore no one who practises this incomparably auspicious Yoga ever comes to an evil end in the present, past or future. Sri Krsna explains how this is so:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.40॥ हे **पार्थ नैव इह** लोके **नामुत्र** परस्मिन् वा लोके **विनाशः तस्य विद्यते** नास्ति। नाशो नाम पूर्वस्मात् हीनजन्मप्राप्तिः स योगभ्रष्टस्य नास्ति। **न हि** यस्मात् **कल्याणकृत्** शुभकृत् **कश्चित् दुर्गतिं** कुत्सितां गतिं हे **तात** तनोति आत्मानं पुत्ररूपेणेति पिता तात उच्यते। पितैव पुत्र इति पुत्रोऽपि तात उच्यते। शिष्योऽपि पुत्र उच्यते। यतो न **गच्छति**॥ किं तु अस्य भवति
 </details>
@@ -157,12 +160,14 @@ was his disciple.\] But what happens to him;
 समुद्धृताः स्वपितरस्त्रैलोक्यपूज्योऽप्यसौ यस्य ब्रह्मविचारणे क्षणमपि
 स्थैर्यं मनः प्राप्नुयात् इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.40॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -171,12 +176,14 @@ was his disciple.\] But what happens to him;
 
 ॥6.40॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.40॥ अत्र निर्णयम् +++(S निर्णयः)+++  
   
@@ -187,12 +194,14 @@ was his disciple.\] But what happens to him;
 
 6.40 Partha etc. The idea \[here\] is : There is no \[estion of\] destruction for the fallen-from-Yoga, either is this world or in the other; because his faith is not lost. He has indeed performed as auspicious act of seeking the Bhagavat, and that act is not of perishing nature as the Agnistoma sacrifice etc., are.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.40॥ अत्रोत्तरं श्रीभगवानुवाच पार्थेति सार्द्धैश्चतुर्भिः। इहामुत्र च
 तस्य न विनाशः। अत्रोपपत्तिमाह न हीति। कल्याणकृदयं न त्वकल्याणकर्मकृत्।
@@ -211,20 +220,26 @@ was his disciple.\] But what happens to him;
 धर्मादिबुद्ध्या फलेच्छासाधारण्येन शुभकृत् हीति निश्चयेन दुर्गतिं न
 गच्छति। तत्र श्रद्धयाऽत्र प्रवृत्तः कथं नश्येदित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.40॥ अत्रोत्तरं श्रीभगवानुवाच **पार्थेति सार्धैश्चतुर्भिः।** इह लोके
 नाश उभयभ्रंशात्पातित्यम् अमुत्र परलोके नाशो नरकप्राप्तिः तदुभयं तस्य
 नास्त्येव। यतः कल्याणकृच्छुभकारी कश्चिदपि दुर्गतिं न गच्छति। अयं च
 शुभकारी श्रद्धया योगे प्रवृत्तत्वात्। तातेति लोकरीत्योपलालयन्संबोधयति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.40 The Lord said Neither here (in this world) nor there (in the next),
@@ -256,11 +271,13 @@ Arjuna, is there destruction for him. For, no one who does good ever comes to an
 6.40 पार्थ O Partha, न not, एव verily, इह here, न not, अमुत्र in the next world, विनाशः destruction, तस्य of him, विद्यते is, न not, हि
 verily, कल्याणकृत् he who does good, कश्चित् anyone, दुर्गतिम् bad state or grief, तात O My son, गच्छति goes.Commentary He who has not succeeded in attaining to perfection in Yoga in this birth will not be destroyed in this world or in the next world. Surely he will not take a birth lower than the present one. What will he attain, then; This is described by the Lord in verses 41, 42, 43 and 44.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.40।। श्रीभगवान् बोले -- हे पृथानन्दन ! उसका न तो इस लोकमें और न
@@ -346,6 +363,7 @@ verily, कल्याणकृत् he who does good, कश्चित् a
 ।।6.40।। श्रीभगवान् ने कहा -- हे पार्थ ! उस पुरुष का, न तो इस लोक में और
 न ही परलोक में ही नाश होता है; हे तात ! कोई भी शुभ कर्म करने वाला
 दुर्गति को नहीं प्राप्त होता है।।
+</details>
 </details>
 
 </div>

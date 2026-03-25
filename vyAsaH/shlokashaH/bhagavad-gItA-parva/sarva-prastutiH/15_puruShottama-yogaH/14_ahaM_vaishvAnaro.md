@@ -23,8 +23,9 @@ title = "14 अहं वैश्वानरो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.14॥**अहं वैश्वानरो** जाठरानलो **भूत्वा** सर्वेषां **प्राणिनां देहम् आश्रितः** तैर् भुक्तं खाद्यचोष्यलेह्यपेयात्मकं **चतुर्विधम्** अन्नं **प्राणापान**वृत्तिभेद**समायुक्तः** पचामि। अत्र परमपुरुषविभूतिभूतौ सोमवैश्वानरौ अहं सोमो भूत्वा वैश्वानरो भूत्वा इति तत्सामानाधिकरण्येन निर्दिष्टौ। तयोश् च सर्वस्य भूतजातस्य च परमपुरुषसामानाधिकरण्यनिर्देशे हेतुम् आह --
@@ -39,12 +40,14 @@ title = "14 अहं वैश्वानरो"
 
 15.14 Becoming the 'digestive fire', or the fire of digestion, I function within the bodies of all living creatures. In union with various activities of 'inward and outward breaths', I digest the 'four kinds of food' eaten by individuals. These consist of foods to be chewed, sucked, licked and drunk. The Supreme Person who has the Soma, digestive fire etc., as his glory (Vibhuti) is here eated with Him by means of co-ordinate predication in the verses 'Becoming the juicy Soma' and 'Becoming the digestive fire'. He now sets forth the reason for eating these glories with Himself.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.14॥ -- **अहमे**व **वैश्वानरः** उदरस्थः अग्निः भूत्वा -- अयमग्निर्वैश्वानरो योऽयमन्तः पुरुषे येनेदमन्नं पच्यते (बृ0 उ₀ 5।9।1) इत्यादिश्रुतेः वैश्वानरः सन् प्राणिनां प्राणवतां **देहम् आश्रितः** प्रविष्टः **प्राणापानसमायुक्तः** प्राणापानाभ्यां समायुक्तः संयुक्तः **पचामि** पक्तिं करोमि अन्नम् अशनं **चतुर्विधं** चतुष्प्रकारं भोज्यं भक्ष्यं चोष्यं लेह्यं च। भोक्ता वैश्वानरः अग्निः; अग्नेः भोज्यम् अन्नं सोमः; तदेतत् उभयम् अग्नीषोमौ सर्वम् इति पश्यतः अन्नदोषलेपः न भवति॥ किं च
 --,
@@ -141,12 +144,14 @@ and Soma, is not affected by the impurity of food. Further,
 सोमस्तदेतदुभयमग्नीषोमौ सर्वमिति ध्यायतोऽन्नदोषलेपो न भवतीत्यपि
 द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.12 -- 15.14॥ पूर्वोक्तमेव ज्ञानं प्रपञ्चयति --
 यदादित्यगतमित्यादिना। गां भूमिम्।
@@ -156,12 +161,14 @@ and Soma, is not affected by the impurity of food. Further,
 
 ॥15.13 -- 15.14॥ धेनोरावेशो न भूतधारणे कारणमित्यत आह -- **गामि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.12 -- 15.14॥ यदादित्येत्यादि चतुर्विधमित्यन्तम्। अर्कादितेजस्त्रयरूपतया दशमाध्यायसूचितसृष्टिस्थितिसंहार \[कर्तृत्व\] प्रकटीकरणे श्रीगुरवः प्राहुः +++(;N श्रीगुरवस्त्त्वाहुः)+++ -- भूतपञ्चकस्य समस्तव्यस्ततया यल्लोकधारकत्वं ( लोकद्वयाधारकत्वं च) तद्भगवत एव माहेश्वर्यमित्येतदनेन \[उक्तमिति\]। तथाहि -- रवितेजसः प्रकाशकत्वं धारकत्वं च तेजोधराद्वयतादात्म्यात्। तदेतदुक्तम् यदादित्यगतम् इति गामाविश्य च इति चार्धद्वयेन। चान्द्रं तेजः प्रकाशकं पोषकं च; धराजलतेजोयोगात् +++(K. omits धरा)+++। तदुक्तम् यच्चन्द्रमसि इत्यनेन भागेन पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः +++(;N omit चौषधीः -- त्मकः)+++ इति चार्धश्लोकेन। वाह्नं तु तेजः प्रकाशनशोषणदहनस्वेदनपचनात्मकं पृथिव्यप्तेजोवायुयोगात्। तदेतदिहोक्तम् +++(N तदेवेहोक्तम्)+++ यच्चाग्नौ इत्यनेन; अहं वैश्वानरः इत्यनेन च +++(S;;N इति श्लोकेन च)+++। नभस्तु बोधावकाशरूपतया सर्वगतमेव।
 </details>
@@ -170,12 +177,14 @@ and Soma, is not affected by the impurity of food. Further,
 
 15.12-14 Yad aditya-etc. upto caturvidham. While clarifying the role \[of the Lord\] as the Creator, Sustainer and Destroyer - a role that has been indicated in the Tenth Chapter - by \[the description of Him as identical with\] the triple luminories like the sun etc., our venerable preceptor has rightly said : The present passage declares that the power, the pentad of elements has \[both\] collectively and individually, to sustain the world, is the Absolute power of the Bhagavat Himself. For instance : The sunlight has the power of illumining and sustaining, because the twin elements of the fire and the earth are one \[with the Bhagavat\]. This has been started by the twin hemistitches '\[That light\] which is found in the sun etc.' and 'And by penetrating the earth etc.' The moon-light is illumining and nourishing because of its assoication of the elements of the earth, the water and the fire \[with the Bhagavat\]. That has been stated by the portion '\[That light\] which is in the moon' and by the hemistitch 'Being the sapful moon I nourish all plants'. The light of fire is, however, of the nature of illumining, parching, burning, sweating and ripening (or cooking). It is so because of the association of the elements, the earth, the water, the fire and the wind \[with the Bhagavat\]. The same has been said here by the portion, '\[That light\] which is in the fire' and also by the \[entire verse\] 'I, being the digestive fire etc.' But the \[element\] ether is no doubt all pervaisve (inclusive), because it is of the form of room which is nothing but awareness. Therefore, having so far explained the nature \[of the Absolute Self\] as the object of knowledge, now, with a view to show the Self to be conscious of the freedom that remains as a background (or substratum) of that very nature of object of knowledge; to be of transcending nature; to be the Supreme Lord; to be independent in all knowledges; and to be the Creator of all; \[the Lord\] says -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.14॥ किञ्च अहं वैश्वानर इति। वैश्वांनरः साधारणशब्दविशेषात्
 \[ब्र.सू.1।2।24\] इति सूत्रेषु श्रौतपदनिदर्शनार्थमुक्तम्। स्वस्यैव
@@ -193,10 +202,13 @@ and Soma, is not affected by the impurity of food. Further,
 प्राणापानाभ्यां तदुद्दीपकाभ्यां युक्तश्चतुर्विधमन्नं भुक्तं भक्ष्यं
 भोज्यं लेह्यं चोष्यं पचामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.14॥ किंच **-- अहमिति।** वैश्वानरो जाठरो भूत्वा प्राणिनां
 देहस्यान्तः प्रविश्य प्राणापानाभ्यां तदुद्दीपकाभ्यां सहितः
@@ -207,10 +219,13 @@ and Soma, is not affected by the impurity of food. Further,
 दंष्ट्रादिभिर्निष्पीड्य रसांशं निगीर्यावशिष्टं त्यज्यत इक्षुदण्डादि
 तच्चोष्यमिति चतुर्विधभेदः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.14 Becoming the digestive fire, I function within the bodies of all living beings. In union with inward and outward breath, I digest the four kinds of food.
@@ -247,11 +262,13 @@ and Soma, is not affected by the impurity of food. Further,
 Water is Apyannam (watery food) for birds like the Chataka. (3) Fire is Tejasannam (hot food) for certain creatures. (4) Air is Vayvannam (air as food) for serpents.अयमग्निर्वैश्वानरो योऽयमन्तः पुरुषः येनेदमन्नं
 पच्यते।। This fire which is within man and by which the food is digested is Vaisvanara. (Brihadaranyaka Upanishad 5.9.1)He who thinks or meditates and feels that the Vaisvanara fire is the eater; that the food eaten by the fire is the Soma (moon) and that the two together form AgniSoma is not contaminated by the impurities in the food. He who meditates before he takes his food that the whole world which is in the form of eater and eaten is made up of Agni and Soma; is not tainted by the evil arising from eating bad food.Repeat this verse daily before you take your food. You will be free from all taints of impurity in food.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.14।। प्राणियोंके शरीरमें रहनेवाला मैं प्राण-अपानसे युक्त वैश्वानर
@@ -332,6 +349,7 @@ Water is Apyannam (watery food) for birds like the Chataka. (3) Fire is Tejasann
 
 ।।15.14।। मैं ही समस्त प्राणियों के देह में स्थित वैश्वानर अग्निरूप होकर
 प्राण और अपान से युक्त चार प्रकार के अन्न को पचाता हूँ।।
+</details>
 </details>
 
 </div>

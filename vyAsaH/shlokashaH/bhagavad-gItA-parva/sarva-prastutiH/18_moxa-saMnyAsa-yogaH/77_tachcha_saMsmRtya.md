@@ -23,8 +23,9 @@ title = "77 तच्च संस्मृत्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.77॥**तच् च** अर्जुनाय प्रकाशितम् ऐश्वरं **हरेर् अत्यद्भुतं रूपं** मया साक्षात्कृतं **संस्मृत्य संस्मृत्य** हृष्यतो **मे महान् विस्मयो** जायते **पुनः पुनश् च हृष्यामि। किम् अत्र बहुना उक्तेन**
@@ -39,12 +40,14 @@ title = "77 तच्च संस्मृत्य"
 
 18.77 Great amazement is caused in me, stirred by joy born of the repeated remembrance of that most marvellous and sovereign form of the Lord revealed to Arjuna and directly witnessed by me. I rejoice again and again. Why say more;
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.77॥ --,**त़च्च संस्मृत्य संस्मृत्य रूपम् अत्यद्भुतं हरेः** विश्वरूपं **विस्मयो मे महान् राजन्; हृष्यामि च पुनः पुनः**॥ किं बहुना
 --,
@@ -109,12 +112,14 @@ And hrsyami, I rejoice; punah punah, again and again.
 तदिदानीमनुसंदधानमाह -- तच्चेति। तदिति विश्वरूपं हे राजन्; मम
 महान्विस्मयोऽतएव हृष्यामि चाहं स्पष्टमन्यत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.77॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -123,12 +128,14 @@ And hrsyami, I rejoice; punah punah, again and again.
 
 ॥18.77॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.74 -- 18.78॥ इत्यहमित्यादि मतिर्ममेत्यन्तम्। संजयवचनेन संवादमुपसंहरन एतदर्थस्य गाढप्रबन्धक्रमेण निरन्तरचिन्तासन्तानोपकृतनैरन्तर्यादेव चान्ते सुपरिस्फुटनिर्विकल्पानुभवरूपतामापाद्यमानं स्मरणमात्रमेव परब्रह्मप्रदायकम् इत्युच्यते। एवं भगवदर्जुनसंवादमात्रस्मरणादेव तत्त्वावाप्त्या +++(S; तत्त्वव्याप्त्या )+++ श्रीविजयविभूतय इति।  
   
@@ -189,12 +196,14 @@ And hrsyami, I rejoice; punah punah, again and again.
 
 18.77 See Comment under 18.78
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.77॥ किञ्च तच्चेति। हे राजन् हरेः सर्वधर्माश्रयस्य
 विभोर्निरुपममहिम्नः पुरुषोत्तमस्य कृष्णस्य
@@ -216,17 +225,23 @@ And hrsyami, I rejoice; punah punah, again and again.
 पुनः हृष्यामि आनन्दं प्राप्नोमि। भगवद्दर्शने हर्षस्तवाप्यनुभवसिद्ध इति
 तज्ज्ञत्वेन महत्सम्बोधयति -- राजन्निति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.77॥ किंच **-- तच्चेति।** तदिति विश्वरूपं निर्दिशति। स्पष्टमन्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.77 And remembering over and over again that most marvellous form of Hari, great is my amazement, O King, and I rejoice again and again.
@@ -258,11 +273,13 @@ And hrsyami, I rejoice; punah punah, again and again.
 rejoice; च and; पुनः again; पुनः again.Commentary Form The Cosmic Form.
 (Cf.XI)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.77।। हे राजन् ! भगवान् श्रीकृष्णके उस अत्यन्त अद्भुत विराट्रूपको याद
@@ -321,6 +338,7 @@ rejoice; च and; पुनः again; पुनः again.Commentary Form The Cos
 
 ।।18.77।। हे राजन ! श्री हरि के अति अद्भुत रूप को भी पुन: पुन: स्मरण
 करके मुझे महान् विस्मय होता है और मैं बारम्बार हर्षित हो रहा हूँ।।
+</details>
 </details>
 
 </div>

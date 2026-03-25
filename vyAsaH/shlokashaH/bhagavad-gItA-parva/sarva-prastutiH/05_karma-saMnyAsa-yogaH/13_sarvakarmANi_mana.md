@@ -23,8 +23,9 @@ title = "13 सर्वकर्माणि मनसा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.13॥ आत्मनः प्राचीन-कर्म-मूल-देह-सम्बन्ध-प्रयुक्तम् इदं कर्मणां कर्तृत्वं, न स्वरूपप्रयुक्तम्  
@@ -41,12 +42,14 @@ title = "13 सर्वकर्माणि मनसा"
 
 5.13 The embodied self who is self-controlled, renounces all actions to the city of nine gates, i.e., the body with its sensory and motor functions which are nine in number. He discriminates that all actions are due to conjunction of the self with the body which is rooted in previous Karmas, and is not by Its own nature. \[It means that the self merely rests in the body, without any identification with bodily activities.\] Sri Krsna now teaches the natural condition of the self as It is:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.13॥ सर्वाणि कर्माणि **सर्वकर्माणि संन्यस्य** परित्यज्य नित्यं नैमित्तिकं काम्यं प्रतिषिद्धं च तानि सर्वाणि कर्माणि **मनसा** विवेकबुद्ध्या कर्मादौ अकर्मसंदर्शनेन संत्यज्येत्यर्थः **आस्ते** तिष्ठति **सुखम्।** त्यक्तवाङ्मनःकायचेष्टः निरायासः प्रसन्नचित्तः आत्मनः अन्यत्र निवृत्तसर्वबाह्यप्रयोजनः इति सुखम् आस्ते इत्युच्यते। **वशी** जितेन्द्रिय इत्यर्थः। क्व कथम् आस्ते इति आह **नवद्वारे पुरे।** सप्त शीर्षण्यानि आत्मन उपलब्धिद्वाराणि अवाग् द्वे मूत्रपुरीषविसर्गार्थे तैः द्वारैः नवद्वारं पुरम् उच्यते शरीरम् पुरमिव पुरम् आत्मैकस्वामिकम् तदर्थप्रयोजनैश्च इन्द्रियमनोबुद्धिविषयैः अनेकफलविज्ञानस्य उत्पादकैः पौरैरिव अधिष्ठितम्। तस्मिन् नवद्वारे पुरे देही सर्वं कर्म संन्यस्य आस्ते किं विशेषणेन सर्वो हि देही संन्यासी असंन्यासी वा देहे एव आस्ते तत्र अनर्थकं विशेषणमिति। उच्यते यस्तु अज्ञः देही देहेन्द्रियसंघातमात्रात्मदर्शी स सर्वोऽपि गेहे भूमौ आसने वा आसे इति मन्यते। न हि देहमात्रात्मदर्शिनः गेहे इव देहे आसे इति प्रत्ययः संभवति। देहादिसंघातव्यतिरिक्तात्मदर्शिनस्तु देहे आसे इति प्रत्ययः उपपद्यते। परकर्मणां च परस्मिन् आत्मनि अविद्यया अध्यारोपितानां विद्यया विवेकज्ञानेन मनसा संन्यास उपपद्यते। उत्पन्नविवेकज्ञानस्य सर्वकर्मसंन्यासिनोऽपि गेहे इव देहे एव नवद्वारे पुरे आसनम् प्रारब्धफलकर्मसंस्कारशेषानुवृत्त्या देह एव विशेषविज्ञानोत्पत्तेः। देहे एव आस्ते इति अस्त्येव विशेषणफलम् विद्वदविद्वत्प्रत्ययभेदापेक्षत्वात्॥  
   
@@ -313,12 +316,14 @@ were' (Br. 4.3.7).
 कर्तृत्वं देहादिव्यापारेषु कारयितृत्वं च स्यादिति नेत्याह नैव कुर्वन्न
 कारयन् आस्त इति संबन्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.13॥ पुनः सन्न्यासशब्दार्थं स्पष्टयति सर्वकर्माणीति। मनसेति
 विशेषणादभिमानत्यागः।
@@ -331,12 +336,14 @@ were' (Br. 4.3.7).
 कारयितृत्वाभिमानत्यागोऽपीति स्पष्टनम्। स्वरूपेण कर्मत्याग एवोच्यत
 इत्येतन्निराचष्टे **मनसे**ति। अन्यथा तद्व्यर्थं स्यादिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.13॥ सर्वेति। यथा वेश्मान्तर्गतस्य पुंसो न गृहगतैर्जीर्णत्वादिभिः योगः एवं मम चक्षुरादिच्छिद्रगवाक्षनवकालंकृतदेहगेहगतस्य न तद्धर्मयोगः।
 </details>
@@ -345,12 +352,14 @@ were' (Br. 4.3.7).
 
 5.13 Sarva - etc. \[He would view as\] : 'Just as for a person within a house there is no connection with dilapidation etc., that are found in the house, in the same way for me too residing in the body-house beautified with nine windows in the form of openings like the eyes etc., there is no connection with its attributes.' For -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.13॥ अतो योगे मनसैव कर्मत्यागः बाह्यतः कर्म करणं चाभिप्रेतम् अन्यथा
 मिथ्याचार इति तत्त्वं स्पष्टयति सर्वकर्माणीति। योगे समभूतेन मनसा
@@ -369,10 +378,13 @@ were' (Br. 4.3.7).
 किञ्चित्कुर्वन्। न वा ममताभावादन्येभ्यः परोपकार उपदेशादिना
 कारयन् सुखमास्त इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.13॥ एवं तावच्चित्तशुद्धिशून्यस्य संन्यासात्कर्मयोगो विशिष्यत
 इत्येतत्प्रपञ्चितम्। इदानीं शुद्धचित्तस्य संन्यासः श्रेष्ठ इत्याह
@@ -385,10 +397,13 @@ were' (Br. 4.3.7).
 अविशुद्धचित्तो हि संन्यस्य पुनः करोति कारयति च। नत्वयं तथा। अतः सुखमास्त
 इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.13 The embodied self, mentally resigning all actions as belonging to the city of nine gates (i.e., the body) and becoming self-controlled,
@@ -426,11 +441,13 @@ Sandhyavandana; etc.; belong to this category.(2) Naimittika Karmas These Karmas
 They are intended for the attainment of some special ends (for getting rain; son; etc.)(4) Nishiddha Karmas These are forbidden actions such as theft; drinking liour; etc.(5) Prayaschitta Karmas Actions performed to neutralise the effects of evil actions or sins.The man who has controlled the senses renounces all actions by discrimination; by seeing inaction in action and rests happily in this body of nine openings (the ninegated city); because he is free from cares; worries; anxieties and fear and his mind is ite calm and he enjoys the supreme peace of the Eternal. In this ninegated city the Self is the king. The senses; the mind; the subconscious mind; and the intellect are the inhabitants or subjects.The ignorant wordly man says; I am resting in the easychair.
 The man of wisdom who has realised that the Self is distinct from the body which is a product of the five elements; says; I am resting in this body. (Cf.XVIII.17;50)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.13।। जिसकी इन्द्रियाँ और मन वशमें हैं, ऐसा देहधारी पुरुष नौ
@@ -484,6 +501,7 @@ The man of wisdom who has realised that the Self is distinct from the body which
 
 ।।5.13।। सब कर्मों का मन से संन्यास करके संयमी पुरुष नवद्वार वाली शरीर
 रूप नगरी में सुख से रहता हुआ न कर्म करता है और न करवाता है।।
+</details>
 </details>
 
 </div>

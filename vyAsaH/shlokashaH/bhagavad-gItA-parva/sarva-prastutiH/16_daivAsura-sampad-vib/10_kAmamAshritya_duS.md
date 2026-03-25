@@ -23,8 +23,9 @@ title = "10 काममाश्रित्य दुष्पूरम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.10॥**दुष्पूरं** दुष्प्रापविषयं **कामम् आश्रित्य** तत्सिषाधयिषया **मोहाद्** अज्ञानात् **असद्ग्राहान्** अन्यायगृहीतान् असत्परिग्रहान् **गृहीत्वा अशुचिव्रताः** अशास्त्रविहितव्रतयुक्ताः; **दम्भमानमदान्विताः** प्रवर्तन्ते।
@@ -40,12 +41,14 @@ title = "10 काममाश्रित्य दुष्पूरम्"
 16.10 Turning to 'insatiable desires,' viz., which concern objects impossible to get; seizing through 'delusion,' viz., through ignorance that such desires can be fulfilled only with 'unjustly acired wealth,' viz., with wealth unlawfully hoarded, and following impious vows, viz., associated with the vows prohibited in the Sastras; they do actions
 'that are full of ostentation, pride and arrogance.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.10॥ --,**कामम्** इच्छाविशेषम् **आश्रित्य** अवष्टभ्य **दुष्पूरम्** अशक्यपूरणं **दम्भमानमदान्विताः** दम्भश्च मानश्च मदश्च दम्भमानमदाः तैः अन्विताः दम्भमानमदान्विताः **मोहात्** अविवेकतः **गृहीत्वा** उपादाय **असद्ग्राहान्** अशुभनिश्चयान् **प्रवर्तन्ते** लोके **अशुचिव्रताः** अशुचीनि व्रतानि येषां ते अशुचिव्रताः॥ किं च --,
 </details>
@@ -110,12 +113,14 @@ actions in the world. Further,
 क्षुद्रदेवताराधनादाविति शेषः। एतादृशाः पतन्ति
 नरकेऽशुचावित्यग्रिमेणान्वयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.10॥ दुष्पूरो हि कामः। पाताल इव दुष्पूरो मां हि क्लेशयते सदा इति
 मोक्षधर्मे।
@@ -128,12 +133,14 @@ actions in the world. Further,
 **दुष्पूरो ही**ति। विशेषणमेव किं न स्यात्। कामस्य
 दुष्पूरत्वाव्यभिचारादिति भावेनाऽऽह -- **पाताल इवे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.9 -- 16.12॥ एतामित्यादि अर्थसंचयानित्यन्तम्। चिन्ता तेषां प्रलयान्ता अवरितं (ता) संसृतिप्रलयाव्युपरमात्। एतावदितिकामोपभोग एव परं (परमं) कृत्यम् \[एषाम्\] तन्नाशाच्च परं क्रोधः। अत एवाह कामक्रोधपरायणाः इति।
 </details>
@@ -142,12 +149,14 @@ actions in the world. Further,
 
 16.10 See Coment under 16.12
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.10॥ काममिति। मोहादसद्ग्राहान् गृहीत्वा असन् ग्राह आग्रहो येषु ते
 तान् ग्रन्थान्प्रसिद्धान् प्रवर्त्तन्ते अन्तर्भावितण्यर्थोऽयं
@@ -167,10 +176,13 @@ actions in the world. Further,
 क्षुद्रदेवमन्त्रान् मोहात् भ्रमात् सकलकार्यसाधकान् ज्ञात्वा गृहीत्वा
 स्वीकृत्य अशुचिव्रताः अपेयपानादिरताः सन्तस्तदाराधनादौ प्रवर्तन्ते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.10॥ अपिच **-- काममिति।** दुष्पूरं पूरयितुमशक्यं काममाश्रित्य
 दम्भादिभिर्युक्ताः सन्तः क्षुद्रदेवताराधनादौ प्रवर्तन्ते। ,कथम्।
@@ -178,10 +190,13 @@ actions in the world. Further,
 इत्यादिदुराग्रहान्मोहमात्रेण स्वीकृत्य प्रवर्तन्ते। अशुचिव्रता अशुचीनि
 मद्यमांसादिविषयाणि व्रतानि येषां ते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.10 Turning to insatiable desires, seizing through delusion unjustly acired wealth, and following impious vows, they act, full of ostentation, pride and arrogance.
@@ -217,11 +232,13 @@ avarice, and pride; and holding evil intention, these cruel men wander with impu
 they work; अशुचिव्रताः with impure resolves.Commentary These soulless malevolent persons perform cruel and sinful actions. Their minds are saturated with vanity; conceit and arrogance. They entertain in their minds unholy resolves and unreasonable ideas. They harbour insatiable desires in their hearts. Just as a monkey becomes more and more intoxicated if wine if given to it; so also the older they grow the more and more arrogant and lustful do they become. They cause the ruin and death of those around them. They boast of their own actions and treat others with great contempt. They are very much attached to their bodies.
 They worship their bodies. Their passion is boundless. They are stupid and obstinate and so they have no firm determination.Desire is insatiable like fire. Enjoyment cannot bring about satisfaction of the desires. The more you enjoy; the stronger does the desire become. After an object is enjoyed; there springs up a desire to continue the enjoyment for ever. You take recourse to all sorts of devices to preserve the objects.Although a man is not righteous he pretends to be a man of righteousness. This is hypocrisy. Although a man is not worthy of being honoured; he claims to be so. This is Mana (pride). There is false dignity. Although a man does not possess great things he superimposes them on himself. This is Mada.These Asuras make impure resolves. I will worship such and such a deity by repeating such and such a Mantra and get hold of such and such a woman. I will repeat such and such a Mantra and kill such and such a man.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/10_kAmamAshritya_duS.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.10।। कभी पूरी न होनेवाली कामनाओंका आश्रय लेकर दम्भ, अभिमान और मदमें
@@ -324,6 +341,7 @@ They worship their bodies. Their passion is boundless. They are stupid and obsti
 ।।16.10।। दम्भ, मान और मद से युक्त कभी न पूर्ण होने वाली कामनाओं का
 आश्रय लिये, मोहवश मिथ्या धारणाओं को ग्रहण करके ये अशुद्ध संकल्पों के लोग
 जगत् में कार्य करते हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "26 कामक्रोधवियुक्तानां"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.26॥**कामक्रोधवियुक्तानां यतीनां** यतनशीलानां **यतचेतसां** नियमितमनसां **विजितात्मनां** विजितमनसां **ब्रह्मनिर्वाणम् अभितो वर्तते।** एवम्भूतानां हस्तस्थं ब्रह्मनिर्वाणम् इत्यर्थः। उक्तं कर्मयोगं स्वलक्ष्यभूतयोगशिरस्कम् उपसंहरति
@@ -39,12 +40,14 @@ title = "26 कामक्रोधवियुक्तानां"
 
 5.26 To those who are free from desire and wrath; 'who are wont to exert themselves' i.e., who are practising self-control; whose 'thought is controlled,' i.e., whose minds are subdued; 'who have conered them,' i.e., whose minds are under their control - to such persons the beatitude of the Brahman is close at hand. The beatitude of the Brahman is already in hand to persons of this type. Sri Krsna concludes the examination of Karma Yoga already stated, as reaching the highest point in the practice of mental concentration (Yoga) having for its object the vision of the self:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.26॥ **कामक्रोधवियुक्तानां** कामश्च क्रोधश्च कामक्रोधौ ताभ्यां वियुक्तानां **यतीनां** संन्यासिनां **यतचेतसां** संयतान्तःकरणानाम् **अभितः** उभयतः जीवतां मृतानां च **ब्रह्मनिर्वाणं** मोक्षो **वर्तते विदितात्मनां** विदितः ज्ञातः आत्मा येषां ते विदितात्मानः तेषां विदितात्मनां सम्यग्दर्शिनामित्यर्थः॥ सम्यग्दर्शननिष्ठानां संन्यासिनां सद्यः मुक्तिः उक्ता। कर्मयोगश्च ईश्वरार्पितसर्वभावेन ईश्वरे ब्रह्मणि आधाय क्रियमाणः सत्त्वशुद्धिज्ञानप्राप्तिसर्वकर्मसंन्यासक्रमेण मोक्षाय इति भगवान् पदे पदे अब्रवीत् वक्ष्यति च। अथ इदानीं ध्यानयोगं सम्यग्दर्शनस्य अन्तरङ्गं विस्तरेण वक्ष्यामि इति तस्य सूत्रस्थानीयान् श्लोकान् उपदिशति स्म
 </details>
@@ -113,12 +116,14 @@ the Lord gave instruction through some verses in the form of aphorisms:
 साक्षात्कृतपरमात्मनामभित उभयतो जीवतां मृतानां च तेषां ब्रह्मनिर्वाणं
 मोक्षो वर्तते नित्यत्वात् नतु भविष्यति साध्यत्वाभावात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.26॥ सुलभं च तेषां ब्रह्मेत्याह कामक्रोधेति। अभितः सर्वतः।
 </details>
@@ -130,12 +135,14 @@ the Lord gave instruction through some verses in the form of aphorisms:
 ज्ञानिलक्षणं भवत्येव। सौलभ्यवाचि किमप्यत्र न प्रतीयत इत्यतस्तदुपादाय
 व्याचष्टे **अभित** इति सर्वदेशकालेष्वित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.26॥ कामेति। तेषां सर्वतः सर्वास्ववस्थासु ब्रह्मसत्ता पारमार्थिकी न निरोधकालमपेक्षते।
 </details>
@@ -144,12 +151,14 @@ the Lord gave instruction through some verses in the form of aphorisms:
 
 5.26 Kama - etc. For them at all times i.e., at all stages, there is Brahman-Existence, the ultimately true one, and it does not look for the time of control \[of the mind (mediation)\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.26॥ किञ्च कामक्रोधवियुक्तानामिति। अभित उभयतः मृतानां जीवतां न
 देहान्तर एव तेषां ब्रह्मानन्दः अपितु जीवतामपि वर्त्तते इत्यर्थः।
@@ -164,19 +173,25 @@ the Lord gave instruction through some verses in the form of aphorisms:
 ब्रह्मनिर्वाणं लीलात्मकत्वं वर्त्तते अनुवर्तत इत्यर्थः। यथा वृन्दावने
 वृक्षेषु तन्मूलेषु परितश्च क्रीडति तथेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.26॥ किंच **कामक्रोधवियुक्तानामिति।** कामक्रोधाभ्यां वियुक्तानां
 यतीनां संन्यासिनां संयतचित्तानां ज्ञातात्मतत्त्वानां अभित उभयतो मृतानां
 जीवतां च न देहान्तर एव तेषां ब्रह्मणि लयः अपितु जीवतामपि वर्तत इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.26 To those who are free from desire and wrath, who are wont to exert themselves, whose thought is controlled, and who have conered it - the beatitude of the Brahman is close at hand.
@@ -210,11 +225,13 @@ the Lord gave instruction through some verses in the form of aphorisms:
 (meditation); who are established in Brahman or who are steadily devoted to the knowledge of the Self attain liberation or Moksha instantaneously
 (Kaivalya Moksha). Karma Yoga leads to Moksha step by step (Krama Mukti). First comes purification of the mind; then knowledge; then renunciation of all actions and eventually Moksha.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.26।। काम-क्रोधसे सर्वथा रहित, जीते हुए मनवाले और स्वरूपका
@@ -286,6 +303,7 @@ the Lord gave instruction through some verses in the form of aphorisms:
 
 ।।5.26।। काम और क्रोध से रहित, संयतचित्त वाले तथा आत्मा को जानने वाले
 यतियों के लिए सब ओर मोक्ष (या ब्रह्मानन्द) विद्यमान रहता है।।
+</details>
 </details>
 
 </div>

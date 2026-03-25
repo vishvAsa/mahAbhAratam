@@ -23,8 +23,9 @@ title = "25 अनुबन्धङ् क्षयम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.25॥ कृते कर्मण्य् अनुबद्ध्यमानं दुःखम् **अनुबन्धः; क्षयः** कर्मणि क्रियमाणे अर्थविनाशः; **हिंसा** तत्र प्राणिपीडा; **पौरुषम्** आत्मनः कर्मसमापनसामर्थ्यम्; एतानि **अनवेक्ष्य** अविमृश्य **मोहात्** परमपुरुषकर्तृत्वाज्ञानाद् **यत् कर्म आरभ्यते** क्रियते; **तत् तामसम् उच्यते।**
@@ -40,12 +41,14 @@ title = "25 अनुबन्धङ् क्षयम्"
 
 18.25 'Anubandha' or conseence is here the pain which follows when a work is performed. 'Loss' means loss of wealth involved in doing that act. 'Injury' is the pain caused to living beings when the work is carried out. 'Capacity' is the ability of completing the act. Whenever an act is begun without consideration of these and from delusion, viz., due to ignoring the agency of the Supreme Person - that act is said to be Tamasika.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.25॥ --,**अनुबन्धं** पश्चाद्भावि यत् वस्तु सः अनुबन्धः उच्यते तं च अनुबन्धम्; **क्षयं** यस्मिन् कर्मणि क्रियमाणे शक्तिक्षयः अर्थक्षयो वा स्यात् तं क्षयम्; **हिंसां** प्राणिबाधां च **अनपेक्ष्य च पौरुषं** पुरुषकारम् शक्नोमि इदं कर्म समापयितुम् इत्येवम् आत्मसामर्थ्यम्; इत्येतानि अनुबन्धादीनि अनपेक्ष्य पौरुषान्तानि **मोहात्** अविवेकतः **आरभ्यते कर्म यत्; तत् तामसं** तमोनिर्वृत्तम् **उच्यते**॥ इदानीं कर्तृभेदः उच्यते --,
 </details>
@@ -101,12 +104,14 @@ born of tamas.
 चानवेक्ष्यापर्यालोच्य मोहात्केवलाविवेकादेवारभ्यते यत्कर्म यथा दुर्योधनेन
 युद्धं तत्तामसमुच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.25॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -115,12 +120,14 @@ born of tamas.
 
 ॥18.25॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.23 -- 18.25॥ नियतमित्यादि तामसमुच्यते इत्यन्तम्। नियतम् -- कर्तव्यमिति। क्लेशैः अविद्याद्यैः बहुलं +++(S बहुलैः )+++ व्याप्तम्। मोहात् अभिनिवेशमयात्।
 </details>
@@ -129,12 +136,14 @@ born of tamas.
 
 18.23-25 Niyatam etc. : upto Tamasam ucyate. With determination : i.e., it is a thing to be acired. Abundant in offlictions : spread through by nescience etc. Due to ignorance : i.e. due to that which is born of addiction.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.25॥ अनुबन्धो दुःखं तदविचार्य मोहाद्यत्कर्म प्रारभ्यते
 तत्तामसमुदाहृतम्।
@@ -148,20 +157,26 @@ born of tamas.
 अनवेक्ष्य अपर्यालोच्य मोहात् स्वसुखभोगभ्रमात् कर्म तामसं
 विपरीतफलात्मकमुदाहृतम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.25॥ तामसं कर्माह **-- अनुबन्धमिति।** अनुबध्यत इत्यनुबन्धः
 पश्चाद्भाविशुभाशुभम्; क्षयं वित्तव्ययं; हिंसां परपीडां च; पौरुषं
 स्वसामर्थ्यं वा; अनवेक्ष्य अपर्यालोच्य केवलं मोहादेव यत्कर्मारभ्यते
 तत्तामसमुच्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.25 That act is said to be Tamasika which is undertaken through delusion, without regard to conseences, loss, injury and one's own capacity.
@@ -194,11 +209,13 @@ without regard; च and; पौरुषम् (ones own) ability; मोहा�
 आरभ्यते is undertaken; कर्म action; यत् which; तत् that; तामसम् Tamasic
 (dark); उच्यते is said.Commentary Tamasic acts cause harm to others. A Tamasic man reflects not at all whether he has the capacity to perform these useless actions; but continues to act blindly. With utter thoughtlessness he sets aside any reflection as to the difficulty of performing the action and what the result of it would be. He carries it on in his own egoistical manner. He does not discriminate between the good and the bad; or what is ones own and what belongs to another.Kshayam Loss of power and of wealth; resulting from the performance of an action.Himsa Injury to living beings.Paurusham Ones own ability or capacity to complete the work.Now listen to the characteristics that pertain to the pure agent. The Lord proceeds to deal with the distinction among the agents.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.25।। जो कर्म परिणाम, हानि, हिंसा और सामर्थ्यको न देखकर मोहपूर्वक
@@ -252,6 +269,7 @@ without regard; च and; पौरुषम् (ones own) ability; मोहा�
 
 ।।18.25।। जो कर्म परिणाम, हानि, हिंसा और सार्मथ्य (पौरुषम्) का विचार न
 करके केवल मोहवश आरम्भ किया जाता है, वह कर्म तामस कहलाता है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "21 अव्यक्तोऽक्षर"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.21॥ सः **अव्यक्तो ऽक्षर इत्य् उक्तः**ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते। (गीता 12।3)कूटस्थोऽक्षर उच्यते॥ (गीता 15।16) इत्यादिषु **तं** वेदविदः **परमां गतिम् आहुः** अयम् एवयः प्रयाति त्यजन् देहं स याति परमां गतिम्॥ इत्यत्र परमगतिशब्दनिर्दिष्टो ऽक्षरः प्रकृतिसंसर्गवियुक्तस्वरूपेण अवस्थित आत्मा इत्यर्थः।**यम्** एवम्भूतं स्वरूपेणावस्थितम् **प्राप्य न निवर्तन्ते तद् मम परमं धाम** परमं नियमनस्थानम्। अचेतनप्रकृतिर् एकं नियमनस्थानं तत्संसृष्टरूपा जीवप्रकृतिर् द्वितीयं नियमनस्थानम् अचित्संसर्गवियुक्तं स्वरूपेणावस्थितं मुक्तस्वरूपं परमं नियमनस्थानम् इत्यर्थः। तच् च अपुनरावृत्तिरूपम्। अथवा प्रकाशवाची धामशब्दः प्रकाशश् च इह ज्ञानम् अभिप्रेतं प्रकृतिसंसृष्टात् परिच्छिन्नज्ञानरूपाद् आत्मनो ऽपरिच्छिन्नज्ञानरूपतया मुक्तस्वरूपं परं धाम। ज्ञानिनः प्राप्यं तु तस्माद् अत्यन्तविभक्तम् इत्याह --
@@ -46,12 +47,14 @@ of a kind different from this, but also called Avyakta. It has only knowledge-fo
 (12.3) and 'The imperishable is called the unchanging' (15.16) - that being the self. It has been called the unmanifest (Avyakta) and imperishable (Aksara); when all material elements like ether, etc., with their causes and effects are annihilated, the self is not annihilated in spite of It being found alone with all the elements. \[The elements are what constitute the bodies of beings.\] The knowers of the Vedas declare It as the highest end. The meaning is that the imperishable entity which has been denoted by the term 'highest goal' in the passage, 'Whosoever abandons the body and departs (in the manner described) reaches the highest state (Dhama)' (8.13), is the self (Atman) abiding in Its essential nature free from the contact with the Prakrti. This self,
 which abides thus in Its essential nature, by attaining which It does not return, - this is My 'highest abode,' i.e., is the highest object of My control. The inanimate Prakrti is one object of My control. The animate Prakrti associated with this inanimate Prakrti is the second object of My control. The pristine nature of the freed self, free from contact with inanimate matter, is the highest object of My rule. Such is the meaning. This state is also one of non-return to Samsara. Or the term 'dhama' may signify 'luminosity'. And luminosity connotes knowledge. The essential nature of the freed self is boundless knowledge, or supreme light, which stands in contrast to the shrunken knowledge of the self, when involved in Prakrti. \[The description given above is that of Kaivalya, the state of self-luminous existence as the pure self\]. Sri Krsna now teaches that the object of attainment for the Jnanin, is totally different from this:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.21॥ --,योऽसौ **अव्यक्तः अक्षरः इत्युक्तः तमेव** अक्षरसंज्ञकम् अव्यक्तं भावम् **आहुः परमां** प्रकृष्टां **गतिम्। यं** परं भावं **प्राप्य** गत्वा **न** **निवर्तन्ते** संसाराय तत् **धाम** स्थानं **परमं** प्रकृष्टं **मम** विष्णोः परमं पदमित्यर्थः॥ तल्लब्धेः उपायः उच्यते --,
 </details>
@@ -120,12 +123,14 @@ gaining That is being stated:
 स्वरूपं मम विष्णोः परमं सर्वोत्कृष्टम्। मम धामेति राहोः शिर
 इतिवद्भेदकल्पनया षष्ठी। अतोऽहमेव परमा गतिरित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.20 -- 8.21॥ अव्यक्तो भगवान्यं प्राप्य न निवर्तन्ते इतिमामुपेत्य
 \[8।15\] इत्यस्य परामर्शात्। अव्यक्तं परमं विष्णुं इति प्रयोगाच्च गारुडे।
@@ -141,12 +146,14 @@ gaining That is being stated:
 भगवति नीयते। किन्तु वाचकस्य तस्येत्याह -- **अव्यक्तमि**ति। कथं तर्हि
 भगवता व्यक्तस्य स्वस्थानत्वमुच्यते इत्यत आह -- **धामे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.20 -- 8.22॥ सर्वतो लोकेभ्यः पुनरावत्तिः न तु मां परमेश्वरं +++(S K omit परमेश्वरम्)+++ प्राप्य इति स्फुटयति -- पर इत्यादि प्रतिष्ठितमित्यन्तम्। उक्तप्रकारं कालसंकलनाविवर्जितं तु वासुदेवतत्त्वम्। व्यक्तम् सर्वानुगतम् तत्त्वेऽपि अव्यक्तम् दुष्प्रापत्वात्। तच्च भक्तिलभ्यमित्यावेदितं प्राक्। तत्रस्थं च एतद्विश्वं यत्खलु अविनाशिरूपं ( स्वरूपम्) सदा तथाभूतम्। तत्र कः पुनःशब्दस्य आवृत्तिशब्दस्य चार्थः स हि मध्ये तत्स्वभावविच्छेदापेक्षः। न च सदातनविश्वोत्तीर्णविश्वाव्यतिरिक्त -- विश्वप्रतिष्ठात्मक +++(SNK [n] विश्वनिष्ठात्मक -- )+++ परबोधस्वातन्त्र्यस्वभावस्य श्रीपरमेश्वरस्य तद्भावप्राप्तिः +++(N -- प्राप्तस्य)+++ \[ संभवति \] येन स्वभावविच्छेदः कोऽपि कदाप्यस्ति \[इति कल्प्येत\]। अतो युक्तमुक्ततम् मामुपेत्य तु +++(VIII 16)+++ इति।
 </details>
@@ -155,12 +162,14 @@ gaining That is being stated:
 
 8.21 See Comment under 8.22
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.21॥ तथापि सोऽव्यक्तोऽक्षर इत्युक्तः। न चाव्यक्तशब्देन जीवः
 प्रकृतिर्वाऽभिधेयायं प्राप्य न निवर्त्तन्ते इत्युक्तत्वात् जीवादौ
@@ -188,10 +197,13 @@ gaining That is being stated:
 तदक्षरात्मकं मम परममुत्कृष्टं धाम गृहमित्यर्थः। मद्गृहत्वात्
 पुनरावृत्तिर्न भवतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/21_avyakto-xara.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/21_avyakto-xara.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.21॥ अविनाशे प्रमाणं दर्शयन्नाह **-- अव्यक्त इति।** यो भावः
 अव्यक्तोऽतीन्द्रियोऽक्षरः प्रवेशनाशशून्य इतितथाऽक्षरात्संभवतीह विश्वम्
@@ -200,10 +212,13 @@ gaining That is being stated:
 परमगतित्वमेवाह -- यं प्राप्य न निवर्तन्त इति। तच्च ममैव धाम स्वरूपम्।
 ममैवेत्युपचारे षष्ठी राहोः शिर इतिवत्। अतोऽहमेव परमा गतिरित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.21 He who has been mentioned as the Unmanifested, the Immutable, they call Him the supreme Goal. That is the supreme abode of Mine, reaching which they do not return.
@@ -232,11 +247,13 @@ That is My highest abode (place or state).
 which; प्राप्य having reached; न not; निवर्तन्ते return; तत् that; धाम
 abode (place or state); परमम् highest; मम My.Commentary Para Brahman is called the Unmanifested because It cannot be perceived by the senses. It is called the Imperishable also. It is allpervading; allpermeating and interpenetrating. Para Brahman is the highest Goal. There is nothing higher than It. This is the true nondual state free from all sorts of limiting adjuncts. The attainment of Brahmaloka (the region of the Creator) etc.; is inferior to this. Only by realising the Self is one liberated from Samsara. (Cf.XII.3;XV.6)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/21_avyakto-xara.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.21।। उसीको अव्यक्त और अक्षर कहा गया है और उसीको परमगति कहा गया है
@@ -327,6 +344,7 @@ abode (place or state); परमम् highest; मम My.Commentary Para Brahm
 
 ।।8.21।। जो अव्यक्त अक्षर कहा गया है, वही परम गति (लक्ष्य) है। जिसे
 प्राप्त होकर (साधकगण) पुनः (संसार को) नहीं लौटते, वह मेरा परम धाम है।।
+</details>
 </details>
 
 </div>

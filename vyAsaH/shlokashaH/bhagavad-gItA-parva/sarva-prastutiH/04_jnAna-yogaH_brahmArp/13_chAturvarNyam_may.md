@@ -23,8 +23,9 @@ title = "13 चातुर्वर्ण्यम् मया"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.13॥**चातुर्वर्ण्य**प्रमुखं ब्रह्मादिस्तम्बपर्यन्तं कृत्स्नं जगत् सत्त्वादिगुणविभागेन तदनुगुणशमादिकर्मविभागेन च प्रविभक्तं **मया सृष्टम्।** सृष्टिग्रहणं प्रदर्शनार्थम् मया एव रक्ष्यते मया एव च उपसंह्रियते। **तस्य** **विचित्रसृष्टयादेः कर्तारम् अप्य् अकर्तारं मां विद्धि। कथम् इत्य् अत्र आह**
@@ -39,12 +40,14 @@ title = "13 चातुर्वर्ण्यम् मया"
 
 4.13 The whole universe beginning with Brahma and ending with a cluster of grass, with the system of four stations divided according to Sattva and other Gunas and by actions like self-control corresponding to the Gunas, was created by Me. The mention of 'creation' is for illustration. The universe is protected by Me alone and is withdrawn by Me alone. Know Me to be the creator of his manifold actions of creation etc., but at the same time to be non-agent. Sri Krsna explains here how this is possible.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.13॥ चत्वार एव वर्णाः **चातुर्वर्ण्यं मया** ईश्वरेण **सृष्टम्** उत्पादितम् ब्राह्मणोऽस्य मुखमासीत् इत्यादिश्रुतेः। **गुणकर्मविभागशःगुणविभागशः कर्मविभागशश्च। गुणाः सत्त्वरजस्तमांसि। तत्र सात्त्विकस्य सत्त्वप्रधानस्य ब्राह्मणस्य शमो दमस्तपः इत्यादीनि कर्माणि सत्त्वोपसर्जनरजःप्रधानस्य क्षत्रियस्य शौर्यतेजःप्रभृतीनि कर्माणि तमउपसर्जनरजःप्रधानस्य वैश्यस्य कृष्यादीनि कर्माणि रजउपसर्जनतमःप्रधानस्य शूद्रस्य शुश्रूषैव कर्म इत्येवं गुणकर्मविभागशः चातुर्वर्ण्यं मया सृष्टम् इत्यर्थः। तच्च इदं चातुर्वर्ण्यं न अन्येषु लोकेषु अतः मानुषे लोके इति विशेषणम्। हन्त तर्हि चातुर्वर्ण्यस्य सर्गादेः कर्मणः कर्तृत्वात् तत्फलेन युज्यसे अतः न त्वं नित्यमुक्तः नित्येश्वरश्च इति उच्यते यद्यपि मायासंव्यवहारेण** तस्य **कर्मणः** कर्तारमपि **सन्तं** मां **परमार्थतः** विद्धि अकर्तारम्। **अत एव** अव्ययम् **असंसारिणं च मां विद्धि॥ येषां तु कर्मणां कर्तारं मां मन्यसे परमार्थतः तेषाम् अकर्ता एवाहम् यतः**
 </details>
@@ -201,12 +204,14 @@ I am the agent.' Because
 व्यवहारदृष्ट्या कर्तारमपि मां परमार्थदृष्ट्या विद्ध्यकर्तारमव्ययं
 निरहंकारत्वेनाक्षीणमहिमानम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.13॥ अहमेव हि कर्तेत्याह चातुर्वर्ण्यमिति चतुर्वर्णसमुदायः।
 सात्त्विको ब्राह्मणः सात्त्विकराजसः क्षत्रियः राजसतामसो वैश्यः तामसः
@@ -237,12 +242,14 @@ I am the agent.' Because
 परव्याख्यां प्रत्याख्याति **साधितं चे**ति। एतत्क्रियायाः सत्यत्वं
 पुरस्तात् द्वितीये।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.13 4.14॥ चातुर्वर्ण्यमिति। न मामिति। मम किल कथमाकाशकल्पस्य कर्मभिः लेपः आकाशप्रतिमत्वं कामनाभावात्। इति +++(S इत्यनेन)+++ ज्ञानप्रकारेण यो भगवन्तमेवाश्रयते सर्वत्र सर्वदा आनन्दघनं परमेश्वरमेव न वासुदेवात्परमस्ति किंचित् इति रीत्या +++(N K नीत्या)+++ विमृशति तस्य किं कर्मभिः बन्धः।
 </details>
@@ -251,12 +258,14 @@ I am the agent.' Because
 
 4.13 See Comment under 4.14
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.13॥ ननु केचित्सकामतया देवान्प्रपद्यन्ते केचिदतिकामितया
 देवान्प्रपद्यन्ते केचिन्निष्कामतया त्वां न सर्वे एकमेवेति कर्मवैचित्र्यं
@@ -293,10 +302,13 @@ I am the agent.' Because
 अंशैः कर्ता न तु साक्षात्स्वयं इत्यपिशब्देन बोध्यते। अतो मदंशसम्बन्धेन
 तत्र सिद्धिर्भवतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.13॥ ननु केचित्सकामतया प्रवर्तन्ते केचिन्निष्कामतयेति कर्मवैचित्र्यम्
 तत्कर्तॄणां च ब्राह्मणादीनामुत्तममध्यमादिवैचित्र्यं कुर्वतस्तव कथं
@@ -309,10 +321,13 @@ I am the agent.' Because
 तथाप्येवं तस्य कर्तारमपि फलतोऽकर्तारमेव मां विद्धि। तत्र हेतुः।
 अव्ययमासक्तिराहित्येन श्रमरहितं नाशादिरहितम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.13 The system of four stations was created by Me according to distinction of Gunas and Karma. Though I am their creator, know Me as non-agent and immutable.
@@ -350,11 +365,13 @@ splendour; firmness; dexterity; generosity and the nature of a ruler. In a Vaish
 Really Maya does everything. Maya is the real author. Society can exist in a flourishing state if the four castes do their duties properly.
 Otherwise there will be chaos; rupture and fighting. (Cf.XVIII.41).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.13 -- 4.14।। मेरे द्वारा गुणों और कर्मोंके विभागपूर्वक चारों
@@ -447,6 +464,7 @@ Otherwise there will be chaos; rupture and fighting. (Cf.XVIII.41).
 
 ।।4.13।। गुण और कर्मों के विभाग से चातुर्वण्य मेरे द्वारा रचा गया है।
 यद्यपि मैं उसका कर्ता हूँ, तथापि तुम मुझे अकर्ता और अविनाशी जानो।।
+</details>
 </details>
 
 </div>

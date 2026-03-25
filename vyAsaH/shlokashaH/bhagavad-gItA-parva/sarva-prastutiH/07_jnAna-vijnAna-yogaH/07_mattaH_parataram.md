@@ -23,8 +23,9 @@ title = "07 मत्तः परतरम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.7॥ यथा सर्वकारणस्य अपि प्रकृतिद्वयस्य कारणत्वेन सर्वाचेतनवस्तुशेषिणश् चेतनस्य अपि शेषित्वेन कारणतया शेषितया च अहं परतरस् तथा ज्ञानशक्तिबलादिगुणयोगेन च अहम् एव परतरः **मत्तो ऽन्यत्** मद्व्यतिरिक्तं **किञ्चिद्** ज्ञानबलादिगुणान्तरयोगि **परतरं न अस्ति।**सर्वम् इदं **चिदचिद्वस्तुजातं कार्यावस्थं कारणावस्थं च मच्छरीरभूतं** सूत्रे **मणिगणवदात्मतया अवस्थिते** मयि प्रोतम् **आश्रितम्।  
@@ -41,12 +42,14 @@ title = "07 मत्तः परतरम्"
 
 7.7 I am absolutely superior to all in two ways: 1) I am the cause of both the Prakrtis and I am also their controlling master (Sesin). This controllership over inanimate nature is exercised through the animate Prakrti (the Jivas) who form the inner controller (Sesin) of their bodies which are constituted of inanimate nature. 2) I am supreme to all in another sense also - as the possessor of knowledge, power, strength etc., in an infinite degree. There is no entity other than Me with such attributes of an eal or superior nature. The aggregate of all the animate and inanimate things, whether in their causal state or in the state of effect, is strung on Me who abides as their Self, as a row of gems on a thread. They depend on Me. And it is proved that the universe of inanimate and animate beings exists as the body with Brahman (i.e. the Supreme Person) as their Self as declared by the Antaryami-brahmana and other texts: 'He whose body is the earth' (Br. U., 3.7-3), 'He whose body is the self' (Br. U. Madh., 3.7.22), and 'He is the inner self of all beings, without evil, He is the Lord in the supreme heaven, He is the one Narayana' (Su. U., 7). Thus, as everything constitutes the body of the Supreme Person forming only a mode of His who is their Self, the Supreme Person alone exists, and all things (which we speak of as diversity) are only His modes. Therefore all terms used in common parlance for different things, denote Him only. Sri Krsna shows this by coordinating some important ones among these entities with Himself.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.7॥ **मत्तः** परमेश्वरात् **परतरम् अन्यत्** कारणान्तरं **किञ्चित् नास्ति न** विद्यते अहमेव जगत्कारणमित्यर्थः हे **धनञ्जय।** यस्मादेवं तस्मात् **मयि** परमेश्वरे सर्वाणि भूतानि **सर्वमिदं** जगत् **प्रोतं** अनुस्यूतम् अनुगतम् अनुविद्धं ग्रथितमित्यर्थ दीर्घतन्तुषु पटवत् सूत्रे च **मणिगणा इव**॥ केन केन धर्मेण विशिष्टे त्वयि सर्वमिदं प्रोतमित्युच्यते
 </details>
@@ -188,12 +191,14 @@ strung on You; This is being answered:
 नान्यत्र। सूत्रे मणिगणा इवेति दृष्टान्तस्तु ग्रथितत्वमात्रे नतु
 कारणत्वे। कनककुण्डलादिवदिति तु योग्यो दृष्टान्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.7॥ अहमेव परतरः मत्तोऽन्यत्परतरं न किञ्चिदपि।
 </details>
@@ -209,12 +214,14 @@ strung on You; This is being answered:
 प्रतीतेरित्यतो योजयति **मत्त** इति। अन्यथा तरपोऽन्यशब्दस्य च
 वैयर्थ्यादिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.6 7.7॥ एतद्योनीनि इति। मत्तः इति। उपधारय अभ्यासाहितानुभवक्रमेण ( अभ्यासानुभव ) आत्मसमीपे कुरु। एवं च त्वमेवोपधारय यत् अहं वासुदेवो भूतः +++(S K वासुदेवीभूतः)+++ सर्वस्य प्रभवः प्रलयश्च। अहम् +++(N omit the sentence अहं प्रदर्शितम्)+++ इत्यनेन प्रकृतिपुरुषपुरुषोत्तमेभ्यो व्यतिरिक्तोऽपि ईश्वरः सर्वथा सर्वानुगतत्वेन स्थित इति साङ्ख्ययोगयोर्नास्ति भेदवादः इति प्रदर्शितम्। सूत्रे मणिगणा इव यथा तन्तुरनवध्रियमाणरूपोऽपि अन्तर्लीनतया स्थितः एवमहं सर्वत्र।
 </details>
@@ -223,12 +230,14 @@ strung on You; This is being answered:
 
 7.6-7 Etadyonini etc. Mattah etc. Keep them nearby : You should place them in your neihbourhood following the method of experience augmented by practice. Or \[it may mean that\] You should bear in mind that I, the Vasudeva, am both the origin and destruction of all beings. What is indicated by 'I' is this : Even though \[it is viewed that\] the Absolute (Isvara) is distinct from the Prakrti, Soul and Supreme Soul, It remains by all means immanent in all; hence there is no room for the theory of dualism of the Sankhya and the Yoga schools. Just as the pearls on the string. Just as the string does exist unobserved in the interior \[in a necklace\] though its form remains undetected, in the same fashion I remain in all.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.7॥ यस्मादेवं तस्मादेव माहात्म्यं पूर्वं ज्ञातव्यं मत्तः परतरं
 नान्यदिति। अहमेव पर इत्यर्थः। किञ्चेदं सर्वं प्रोतमाश्रितं मयि तत्र
@@ -250,20 +259,26 @@ strung on You; This is being answered:
 मणिगणाः क्रीडास्थजीवाधिदैविकरूपा यथा मयि तिष्ठन्ति तथेदं जगदप्याधिदैविकं
 मयि तिष्ठतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.7॥ यस्मादेवं तस्मात् **मत्त इति।** मत्तः सकाशात्परतरं श्रेष्ठं जगतः
 सृष्टिसंहारयोः स्वतन्त्रं कारणं किंचिदपि नास्ति।
 स्थितिहेतुरप्यहमेवेत्याह **मयीति।** मयि सर्वमिदं जगत्प्रोतं ग्रथितं
 आश्रितमित्यर्थः। दृष्टान्तः स्पष्टः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.7 There is nothing higher than Myself, O Arjuna. All this is strung on Me, as rows of gems on a thread.
@@ -297,11 +312,13 @@ All this is strung on Me like pearls on a string.
 is strung; सूत्रे on a string; मणिगणाः clusters of gems; इव
 like.Commentary There is no other cause of the universe but Me. I alone am the the cause of the universe. This illustration of gems and thread illustrates only the idea that all beings and the whole world are threaded on the Lord. The thread is not the cause of the gems. As Brahman is all in all there is nothing whatever higher than It.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.7।। हे धनञ्जय ! मेरे बढ़कर (इस जगत् का) दूसरा कोई किञ्चिन्मात्र भी
@@ -399,6 +416,7 @@ like.Commentary There is no other cause of the universe but Me. I alone am the t
 
 ।।7.7।। हे धनंजय ! मुझसे श्रेष्ठ (परे) अन्य किचिन्मात्र वस्तु नहीं है।
 यह सम्पूर्ण जगत् सूत्र में मणियों के सदृश मुझमें पिरोया हुआ है।।
+</details>
 </details>
 
 </div>

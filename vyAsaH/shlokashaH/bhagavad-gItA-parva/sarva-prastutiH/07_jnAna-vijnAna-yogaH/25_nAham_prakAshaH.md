@@ -23,8 +23,9 @@ title = "25 नाहम् प्रकाशः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.25॥ क्षेत्रज्ञासाधारणमनुष्यत्वादिसंस्थानयोगाख्यमायया **समावृतो ऽहं न सर्वस्यं प्रकाशः।** मयि मनुष्यत्वादिसंस्थानदर्शनमात्रेण **मूढो ऽयं लोको माम्** अतिवाय्विन्द्रकर्माणम् अतिसूर्याग्नितेजसम् उपलभ्यमानम् अपि **अजम् अव्ययं** निखिलजगदेककारणं सर्वेश्वरं मां सर्वसमाश्रयणीयत्वाय मनुष्यत्वसंस्थानम् आस्थितं न **अभिजानाति।**
@@ -39,12 +40,14 @@ title = "25 नाहम् प्रकाशः"
 
 7.25 Concealed by the Maya called Yogamaya, I am associated with a human form and other generic structures which are special to individual selves. Because of this I am not manifest to all. The foolish, by seeing in Me merely the human or the other generic structures, do not know that My powers are greater than those of Vayu and Indra, that My lustre is more brilliant than that of sun and fire, that though visible to all, I am unborn, immutable, the cause of all the worlds, the Lord of all, and that I have assumed a human form, so that all who want can take refuge in Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.25॥ **न अहं प्रकाशः सर्वस्य** लोकस्य केषांचिदेव मद्भक्तानां प्रकाशः अहमित्यभिप्रायः। **योगमायासमावृतः** योगः गुणानां युक्तिः घटनं सैव माया योगमाया तया योगमायया समावृतः संछन्नः इत्यर्थः। अत एव **मूढो लोकः अयं न अभिजानाति माम् अजम् अव्ययम्**॥ यया योगमायया समावृतं मां लोकः नाभिजानाति नासौ योगमाया मदीया सती मम ईश्वरस्य मायाविनो ज्ञानं प्रतिबध्नाति यथा अन्यस्यापि मायाविनः मायाज्ञानं तद्वत्॥  
   
@@ -141,12 +144,14 @@ this is so, therefore-
 इत्यर्थः। विद्यमानं वस्तुस्वरूपमावृणोत्यविद्यमानं च किंचिद्दर्शयतीति
 लौकिकमायायामपि प्रसिद्धमेतत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.25॥ अज्ञानं च मदिच्छयेत्याह नाहमिति। योगेन सामर्थ्योपायेन मायया च।
 मयैव मूढो नाभिजानाति। तथाहि पाद्मे आत्मनः प्रावृतिं चैव लोकचित्तस्य
@@ -165,12 +170,14 @@ this is so, therefore-
 तद्व्याख्यानं कृतम्। इदं तात्पर्यं श्लोके न प्रतीयत इत्यत आह
 **मयैवे**ति। उक्तार्थस्थापनाय पुराणसम्मतिमाह **तथे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.25 7.26॥ नाहमिति। वेदाहमिति। सर्वेषां नाहं गोचरतां प्राप्नोमि।
 </details>
@@ -179,12 +186,14 @@ this is so, therefore-
 
 7.25 See Comment under 7.26
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.25॥ कुत एवं न प्रकाशस इत्यत्राह नाहमिति। नाहं प्रकाशः सर्वस्य
 संसृतस्य किन्तु स्वभक्तानामेव यतोऽहं योगमायासमावृतः
@@ -203,10 +212,13 @@ this is so, therefore-
 बहिर्दृष्टिर्मामजं जन्मरहितं लीलया प्रकटमव्ययं नित्यं नाभिजानाति अभितः
 सर्वभावेन न जानाति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.25॥ तेषां स्वाज्ञाने हेतुमाह **नाहमिति।** सर्वस्य लोकस्य नाहं
 प्रकाशः प्रकटो न भवामि किंतु मद्भक्तानामेव। यतो योगमायया समावृतः। योगो
@@ -214,10 +226,13 @@ this is so, therefore-
 अनया संच्छन्नः अतएव मत्स्वरूपज्ञाने मूढः सन्नयं लोकः अजमव्ययं च मां न
 जानाति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.25 Veiled by My Maya, I am not manifest to all. This deluded world does not recognize Me as the unborn and immutable.
@@ -252,11 +267,13 @@ I am not visible to those who are deluded by the three Gunas and the pairs of op
 Therefore; they are not able to know the Lord Who is unborn and immutable.This YogaMaya is under the perfect control of the Lord. Isvara is the wielder of Maya. Therefore it cannot obscure His own knowledge;
 just as the illusion created by the juggler cannot obstruct his,own knowledge or deceive him. The illusion which binds the worldly people cannot in the least affect the Lord Who has kep Maya under his perfect subjugation. (Cf.VII.13IX.5X.7XI.8)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.25।। जो मूढ़ मनुष्य मेरेको अज और अविनाशी ठीक तरहसे नहीं जानते
@@ -341,6 +358,7 @@ just as the illusion created by the juggler cannot obstruct his,own knowledge or
 
 ।।7.25।। अपनी योगमाया से आवृत्त मैं सबको प्रत्यक्ष नहीं होता हूँ। यह
 मोहित लोक (मनुष्य) मुझ जन्मरहित, अविनाशी को नहीं जानता है।।
+</details>
 </details>
 
 </div>

@@ -28,8 +28,9 @@ title = "47 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.47॥ श्रीभगवानुवाच -- **यन् मे तेजोमयं** तेजोराशिं **विश्वं** सर्वात्मभूतम् **अनन्तम्** अन्तरहितम् प्रदर्शनार्थम् इदम्; आदिमध्यान्तरहितम्; **आद्यं** मद्व्यतिरिक्तस्य कृत्स्नस्य आदिभूतं **त्वदन्येन** केन अपि **न दृष्टपूर्वं रूपं** तद् इदं **प्रसन्नेन मया** मद्भक्ताय ते **दर्शितम् आत्मयोगात्** आत्मनः सत्यसङ्कल्पत्वयोगात्। अनन्यभक्तिव्यतिरिक्तैः सर्वैर् अप्य् उपायैर् यथावद् अवस्थितो ऽहं द्रष्टुं न शक्य इत्य् आह --
@@ -45,12 +46,14 @@ title = "47 श्री भगवानुवाच"
 11.47 The Lord said The 'luminous' form of Mine is a mass of luminosity. It is 'universal' i.e., constitutes the Self of the universe. It is
 'infinite', endless. This is illustrated by describing it as having no beginning, middle or end. It is 'primeval,' namely, it constitutes the foundation of all beings other than Myself. It has nevr been seen before by any one other than you. Such a form is now revealed to you, who are My devotee, by Me who am gracious, by My own Yoga, namely, by the power of willing the truth associated with Me. Sri Krsna proceeds to say, 'It is not possible that I can be realised as I am, through any means except exclusive Bhakti.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.47॥ --,**मया प्रसन्नेन;** प्रसादो नाम त्वयि अनुग्रहबुद्धिः; तद्वता प्रसन्नेन मया **तव** हे **अर्जुन; इदं परं रूपं** विश्वरूपं **दर्शितम् आत्मयोगात्** आत्मनः ऐश्वर्यस्य सामर्थ्यात्। **तेजोमयं** तेजःप्रायं **विश्वं** समस्तम् अनन्तम् अन्तरहितं आदौ भवम् **आद्यं यत्** रूपं **मे** मम त्वदन्येन **त्वत्तः अन्येन** केनचित् **न दृष्टपूर्वम्**॥ आत्मनः मम रूपदर्शनेन कृतार्थ एव त्वं संवृत्तः इति तत् स्तौति --,
 </details>
@@ -117,12 +120,14 @@ in some editions.-Tr.\] .' Saying so, He eulogizes that (vision):
 विवृणोति। तेजोमयं तेजःप्रचुरं विश्वं समस्तमनन्तमाद्यं च यन्मम रूपं
 त्वदन्येन केनापि न दृष्टपूर्वं पूर्वं न दृष्टम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.47॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -131,12 +136,14 @@ in some editions.-Tr.\] .' Saying so, He eulogizes that (vision):
 
 ॥11.47॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.47॥ No commentary.
 </details>
@@ -145,12 +152,14 @@ in some editions.-Tr.\] .' Saying so, He eulogizes that (vision):
 
 11.47 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.47॥ श्रीभगवानुवाच -- मयेति त्रिभिः। मया सर्वमूलरूपेण स्वयं
 भगवतांऽशिना कृष्णेन स्वोपनिषत्प्रतिपाद्यस्वरूपेण द्विभुजेन लावण्यजलधिना
@@ -172,10 +181,13 @@ in some editions.-Tr.\] .' Saying so, He eulogizes that (vision):
 मे रूपं त्वदन्येन त्वां,विना केनाऽपि दृष्टपूर्वं न। तादृशं रूपं
 त्वदिच्छया दर्शितमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.47॥ एवं प्रार्थितः सन् तमाश्वासयन् श्रीभगवानुवाच **-- मयेति
 त्रिभिः।** हे अर्चुन; किमिति बिमेषि। यतो मया प्रसन्नेन कृपया तवेदं
@@ -183,10 +195,13 @@ in some editions.-Tr.\] .' Saying so, He eulogizes that (vision):
 तेजोमयं विश्वं विश्वात्मकनन्तमाद्यं च यन्मम रूपं त्वदन्येन
 त्वादृशाद्भक्तादन्येन न पूर्वं दृष्टं तत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.47 The Lord said By My grace, O Arjuna this Supreme Form, luminous,
@@ -222,11 +237,13 @@ this; रूपम् form; परम् supreme; दर्शितम् has b
 अनन्तम् endless; आद्यम् primeval; यत् which; मे of Me; त्वत् from thee;
 अन्येन by another; न not; दृष्टपूर्वम् seen before.Commentary Lord Krishna eulogises the Cosmic Form because Arjuna should be regarded to have achieved all his ends by seeing this Cosmic Form.It is also an inducement to all spiritual aspirants to strive to attain this sublime vision. What they should do is explained by the Lord in verse 53 to 55.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/47_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.47।। श्रीभगवान् बोले -- हे अर्जुन ! मैंने प्रसन्न होकर अपनी
@@ -283,6 +300,7 @@ this; रूपम् form; परम् supreme; दर्शितम् has b
 ।।11.47।। हे अर्जुन! तुम पर प्रसन्न होकर मैंने अपनी योगशक्ति
 (आत्मयोगात्) के प्रभाव से यह अपना परम तेजोमय, सबका आदि और अनन्त विश्वरूप
 तुझे दर्शाया है, जिसे तुम्हारे पूर्व किसी ने नहीं देखा है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "14 सन्तुष्टः सततम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.14॥**अद्वेष्टा सर्वभूतानां** विद्विषताम् अपकुर्वताम् अपि सर्वेषां भूतानाम् अद्वेष्टा मदपराधानुगुणम् ईश्वरप्रेरितान्य् एतानि भूतानि द्विषन्त्य् अपकुर्वन्ति च इत्य् अनुसन्दधानः; तेषु द्विषत्स्व् अपकुर्वत्सु च सर्वभूतेषु मैत्रीं मतिं कुर्वन् **मैत्रः;** तेष्व् एव दुःखितेषु करुणां कुर्वन् करुणः; निर्ममः -- देहेन्द्रियेषु तत्सम्बन्धिषु च निर्ममः; **निरहङ्कारः** -- देहात्माभिमानरहितः; तत एव **समदुःखसुखः** सुखदुःखागमयोः साङ्कल्पिकयोर् हर्षोद्वेगरहितः; **क्षमी** स्पर्शप्रभवयोर् अवर्जनीययोर् अपि तयोर् विकाररहितः; **सन्तुष्टः** यद्दच्छोपनतेन,येन केन अपि देहधारणद्रव्येन सन्तुष्टः; **सततं** योगी सततं प्रकृतिवियुक्तात्मानुसन्धानपरः; **यतात्मा** नियमितमनोवृत्तिः; **दृढनिश्चयः** -- अध्यात्मशास्त्रोदितेष्व् अर्थेषु दृढनिश्चयः; **मय्यर्पितमनोबुद्धिः** भगवान् वासुदेव एव अनभिसंहितफलेन अनुष्ठितेन कर्मणाआराध्यते आराधितश्च मम आत्मापरोक्ष्यं साधयिष्यति इति मय्यर्पितमनोबुद्धिः; एवम्भूतो **मद्भक्तः** एवम्भूतेन कर्मयोगेन मां भजमानो **यः स मे प्रियः।**
@@ -45,12 +46,14 @@ on contemplating on the self as separate from the body. He is
 'self-restrained', namely, he controls the activities of his mind. He is
 of 'firm conviction' regarding the meanings taught in the science of the self. His 'mind and reason are dedicated to Me' i.e., his mind and reason are dedicated to Me in the form 'Bhagavan Vasudeva alone is propitiated by disinterested activities, and when duly propitiated, He wil bring about for me the direct vision of the self.' Such a devotee of mine, i.e., who works in this manner as a Karma Yogin, is dear to Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥12.14॥ -- **संतुष्टः सततं** नित्यं देहस्थितिकारणस्य लाभे अलाभे च उत्पन्नालंप्रत्ययः। तथा गुणवल्लाभे विपर्यये च संतुष्टः। सततं **योगी** समाहितचित्तः। **यतात्मा** संयतस्वभावः। **दृढनिश्चयः** दृढः स्थिरः निश्चयः अध्यवसायः यस्य आत्मतत्त्वविषये स दृढनिश्चयः। **मय्यर्पितमनोबुद्धिः** संकल्पविकल्पात्मकं मनः; अध्यवसायलक्षणा बुद्धिः; ते मय्येव अर्पिते स्थापिते यस्य संन्यासिनः सः मय्यर्पितमनोबुद्धिः। **यः** ईदृशः **मद्भक्तः सः मे प्रियः।** प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः (गीता 7।17) इति सप्तमे अध्याये सूचितम्; तत् इह प्रपञ्चते॥
 </details>
@@ -134,12 +137,14 @@ elaborated here.
 अर्पितमनोबुद्धिः समर्पितान्तःकरणः ईदृशो यो मद्भक्तः
 शुद्धाक्षरब्रह्मवित्स मे प्रियः सदात्मत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.14॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -148,12 +153,14 @@ elaborated here.
 
 ॥12.14॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.13 -- 12.14॥ अद्वेष्टेति। सन्तुष्ट इति। मैत्री अमत्सरता यस्य +++(N यस्मात् for यस्य)+++ अस्तीति +++(omits इति)+++। एवं करुणः +++(S;N करुणा)+++। ममामी इत्यादिः ( ममापीत्यादि) ममकारः अहमुदारः अहं तेजस्वी अहं सहनः +++(S;;N तेजस्वी असहनः)+++ इत्यादिः अहंकारः एतौ यस्य न स्तः। क्षमा अपकारिणं शत्रुं प्रत्य \[प्य\] द्वेषबुद्धिः। सततं योगी; व्यवहारावस्थायामपि प्रशान्तान्तःकरणत्वात्।
 </details>
@@ -162,12 +169,14 @@ elaborated here.
 
 12.13-14 Advesta etc. Santustah etc. \[Friend\] : he who has friend-liness (or goodwill) i.e. unselfishness. In the same manner 'compassionate' \[is to be interpreted\]. 'These are mine' etc., is the sence of 'mine' (or sense of possessiveness); 'I am generous', 'I am powerful', 'I am victorious' etc., is the sense of 'I' (or egotism). In whom these two are absent that man is free from the senses of 'mine' and of 'I'. Forbearance : a thought that entertains no enmity even towards an enemy who has \[actually\] injured. A man of Yoga at all times : because his internal organ remains completely iet even at the stage of his mundane dealings.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.14॥ सन्तुष्ट इति। यथालब्धेन भगवत्सेवोपयोगिना द्रव्येण देहधारणेन
 सन्तुष्टः। सततं योगी यतात्मा समवृत्तिः निरुद्धचेताः। दृढो भगवदेकसेवायां
@@ -191,19 +200,25 @@ elaborated here.
 यस्य; मयि अर्पिते मनोबुद्धी येन; य एतादृशः स मद्भक्तः मे प्रियः
 मदिङ्गितकरणादिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/14_santuShTaH_satata.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/14_santuShTaH_satata.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.14॥ **संतुष्ट इति।** सततं लाभेऽलाभे च संतुष्टः प्रसन्नचित्तो
 योग्यप्रमत्तो यतात्मा संयतस्वभावः दृढो मद्विषयो निश्चयो यस्य मय्यर्पिते
 मनोबुद्धी येन एवंभूतो यो मद्भक्तः स मे प्रियः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.14 He who is content, who ever meditates and is self-restrained and who is firm in his convictions, who has his mind and reason dedicated to Me - he is dear to Me.
@@ -239,11 +254,13 @@ his heart is ever full as he has no cravings. He is ever cheerful and joyous. He
 complains or murmurs when he does not obtain food and clothing which are necessary for the maintenance of the body. His mind is ever filled with Me through constant and steady meditation.Yogi He who has evenness of mind always. He has controlled all the senses and desires. With a firm determination he has fixed his mind and intellect on Me in a spirit of perfect selfsurrender. He is endowed with a firm conviction regarding the essential nature of the Self. He who has the knowledge through Selfrealisation; I am Asanga Akarta Suddha Satchidananda Svayamprakasa Advitiya Brahman (unattached; nondoer; pure; ExistenceKnowledgeBliss Absolute; selfluminous; nondual Brahman) is a sage of firm determination. He has given to Me exclusively his mind (the faculty that wills and doubts) and the intellect (the faculty that determines). He is dear to Me as life itself. Such a comparison falls far short of the reality.The same thing which was said by Lord Krishna to Arjuna in chapter VII. 17; I am very dear to the wise and he is very dear to Me;
 is here described in detail.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.14।। सब प्राणियोंमें द्वेषभावसे रहित, सबका मित्र (प्रेमी) और दयालु,
@@ -482,6 +499,7 @@ is here described in detail.
 ।।12.14।। जो संयतात्मा, दृढ़निश्चयी योगी सदा सन्तुष्ट है, जो अपने मन और
 बुद्धि को मुझमें अर्पण किये हुए है, जो ऐसा मेरा भक्त है, वह मुझे प्रिय
 है।।
+</details>
 </details>
 
 </div>

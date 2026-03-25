@@ -23,8 +23,9 @@ title = "10 मयाऽध्यक्षेण प्रकृतिः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.10॥ तस्मात् क्षेत्रज्ञकर्मानुगुणं मदीया **प्रकृतिः** सत्यसङ्कल्पेन **मया अध्यक्षेण** ईक्षिता **सचराचरं** जगत् **सूयते; अनेन** क्षेत्रज्ञकर्मानुगुणमदीक्षणेन **हेतुना जगद् विपरिवर्तते** इति मत्स्वाम्यं सत्यसङ्कल्पत्वं नैर्घृण्यादिदोषरहितत्वम् इत्येवमादिकं मम वसुदेवसूनोर् ऐश्वरं योगं पश्य। यथा श्रुतिः -- अस्मान्मायी सृजते विश्वमेतत्तस्मिंश्वान्यो मायया सन्निरूद्धः॥ मायां तु प्रकृतिं विद्यान् मायिनं तु महेश्वरम् (श्वेता॰ 4।910) इति।
@@ -39,12 +40,14 @@ title = "10 मयाऽध्यक्षेण प्रकृतिः"
 
 9.10 Therefore, My Prakrti, looked at by Me, through My will and under My supervision creates the world with its mobile and immobile beings in accordance with the Karma of individual selves. Because of this, namely, My look at Prakrti in conformity with the Karma of individual selves, the world revolves. Behold in this wonderful phenomena the lordly power inherent to Me, the son of Vasudeva, such as My sovereignty, true resolve and being devoid of cruelty and similar blemishes! So declare the Srutis: 'The possessor of Maya projects this universe out of this. The other (i.e., individual self) is confined by Maya in the world. One should know the Maya to be the Prakrti. And the possessor of Maya to be the Mighty Lord' (Sve. U., 4.9.10).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.10॥ -- **मया** अध्यक्षेण सर्वतो दृशिमात्रस्वरुपेण अविक्रियात्मना **अध्यक्षेण** मया;  
 मम माया त्रिगुणात्मिका अविद्यालक्षणा **प्रकृतिः सूयते**  
@@ -275,12 +278,14 @@ Thery the creatures become deluded' (5.15).
 द्वैतेन्द्रजालस्य यदुपादानकारणम्। अज्ञानं तदुपाश्रित्य ब्रह्म
 कारणमुच्यते इति श्रुतिस्मृतिवादाश्चात्रार्थे सहस्रश उदाहार्याः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.10॥ उदासीनवदिति चेत्स्वयमेव प्रकृतिः सूयत इत्यत आह -- मयेति।
 प्रकृतिसूतिद्रष्टा कर्त्ता अहमेवेत्यर्थः। तथा च श्रुतिः यतः प्रसूता जगतः
@@ -303,12 +308,14 @@ Thery the creatures become deluded' (5.15).
 प्रसूता सृष्टावभिमुखीभूता प्रसूती प्रसूतिः तोयेन कर्मणा व्यससर्ज
 विससर्ज। बहुलग्रहणात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.9 -- 9.10॥ न चेति। मयेति। न च मेऽस्ति कर्मबन्धः; औदासीन्येन वर्तमानोऽहं यतः। अत एवाहं जगन्निर्माणे अनाश्रितव्यापारत्वात् हेतुः।
 </details>
@@ -317,12 +324,14 @@ Thery the creatures become deluded' (5.15).
 
 9.9-10 Na ca etc. Maya etc. There is for Me no bondage of actions, because I remain unconcerned. That is why, not resorting to any activity, I am the pirme cause in the process of world-creation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.10॥ परं प्रकृतिरपि न स्वतः कार्यकारणक्षमाऽचेतनत्वात्;
 मयाऽध्यक्षेणाधिष्ठात्रा निमित्तभूतेन पुरुषरूपेण तु सहिता सा
@@ -349,20 +358,26 @@ Thery the creatures become deluded' (5.15).
 प्रकृतिः सचराचरं जडजीवसहितं जगत् सूयते जनयति। अनेन क्रीडात्मकेन हेतुना
 कारणेन जगत् विशेषेण परिवर्त्तते जायते च। अतो योग्या भवन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.10॥ तदेवोपपादयति **-- मयेति।** मयाध्यक्षेणाधिष्ठात्रा निमित्तभूतेन
 प्रकृतिः सचराचरं विश्वं सूयते जनयति। अनेन मदधिष्ठानेन हेतुना इदं
 जगद्विपरिवर्तते पुनःपुनर्जायते।
 संनिधिमात्रेणाधिष्ठातृत्वात्कर्तृत्वमुदासीनत्वं चाविरुद्धमिति भावः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.10 Under My supervision, Prakrti gives birth to all mobile and immobile entities. Because of this, O Arjuna, does the world revolve.
@@ -398,11 +413,13 @@ revolves.Commentary The Lord presides only as a witness. Nature does everything.
 For the movable and the immovable; and for the whole universe; the root cause is Nature itself.Although all actions are done with the help of the light of the sun; yet; the sun cannot become the doer of actions.
 Even so the Lord cannot become the doer of actions even though Nature does all actions with the help of the light of the Lord.As Brahman illumines Avidya (ignorance); the material cause of this world; It is regarded as the cause of this world. The magnet is ite indifferent although it makes the iron pieces move on account of its proximity. Even so the Lord remains indifferent although He makes Nature create the world.As the Lord and the Witness; He presides over this world which consists of moving and unmoving objects the manifested and the unmanifested wheel round and round.What is the purpose of creation Why has God created this world when He has really no concern with any enjoyment whatsoever This is a transcendental estion or Atiprasna. It is therefore irrelevant to ask or to answer this estion. You cannot say that God created this world for His own enjoyment because He really does not enjoy anything. He is a mere witness only. (Cf.X.8)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.10।। प्रकृति मेरी अध्यक्षतामें सम्पूर्ण चराचर जगत् को रचती है। हे
@@ -480,6 +497,7 @@ Even so the Lord cannot become the doer of actions even though Nature does all a
 
 ।।9.10।। हे कौन्तेय ! मुझ अध्यक्ष के कारण ( अर्थात् मेरी अध्यक्षता में)
 प्रकृति चराचर जगत् को उत्पन्न करती है; इस कारण यह जगत् घूमता रहता है।।
+</details>
 </details>
 
 </div>

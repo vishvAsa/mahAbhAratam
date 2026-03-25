@@ -23,8 +23,9 @@ title = "33 सदृशञ् चेष्टते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.33॥ प्रकृतिविविक्तम् ईदृशम् आत्मस्वरूपं तदेव सर्वदानुसन्धेयम् इति च शास्त्राणि प्रतिपादयन्ति इति **ज्ञानवान् अपि स्वस्याः प्रकृतेः** प्राचीनवासनायाः **सदृशं** प्राकृतविषयेष्व् एव **चेष्टते** कुतः **प्रकृतिं यान्ति** **भूतानि** अचित्संसृष्टा जन्तवो ऽनादिकालप्रवृत्तवासनाम् एव यान्ति तानि वासनानुयायीनि भूतानि शास्त्रकृतो **निग्रहः किं करिष्यति। प्रकृत्यनुयायित्वप्रकारम् आह**
@@ -39,12 +40,14 @@ title = "33 सदृशञ् चेष्टते"
 
 3.33 Such and such is the nature of the self, which is different from the Prakrti - this has to be always contemplated upon: thus declare the Sastras. Even a person who knows this, acts in relation to material objects only according to his own nature, i.e., guided by his old subtle impressions. How is this; 'All beings follow their nature.' Beings in conjunction with non-conscient matter, all follow only subtle impressions which have continued to come from time immemorial. What can the control enjoined by Sastras, do to these beings who follow their subtle impressions; Sri Krsna expounds the way by which individuals are overpowered to follow their respective natures:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.33॥ **सदृशम्** अनुरूपं **चेष्टते** चेष्टां करोति। कस्य **स्वस्याः** स्वकीयायाः **प्रकृतेः**। प्रकृतिर्नाम पूर्वकृतधर्माधर्मादिसंस्कारः वर्तमानजन्मादौ अभिव्यक्तः सा प्रकृतिः। तस्याः सदृशमेव सर्वो जन्तुः ज्ञानवानपि चेष्टते किं पुनर्मूर्खः। तस्मात् **प्रकृतिं यान्ति** अनुगच्छन्ति **भूतानि** प्राणिनः। **निग्रहः** निषेधरूपः **किं करिष्यति** मम वा अन्यस्य वा॥ यदि सर्वो जन्तुः आत्मनः प्रकृतिसदृशमेव चेष्टते न च प्रकृतिशून्यः कश्चित् अस्ति ततः पुरुषकारस्य विषयानुपपत्तेः शास्त्रानर्थक्यप्राप्तौ इदमुच्यते
 </details>
@@ -139,12 +142,14 @@ effort, therefore the following is being stated:
 दुर्वासनाप्राबल्यात्पापेषु प्रवर्तमाना न मच्छासनातिक्रमदोषाद्बिभ्यतीति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.33॥ एवं चेत्किमिति ते मतं नानुतिष्ठन्ति लोकाः इत्यत आह सदृशमिति।
 प्रकृतिः पूर्वसंस्कारः।
@@ -157,12 +162,14 @@ effort, therefore the following is being stated:
 स्वस्या इति प्रातिस्विकत्वमुच्यते इत्यत आह **प्रकृति**रिति तत्कार्यौ
 रागद्वेषौ उपलक्ष्येते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.33॥ सदृशमिति। योऽपि च ज्ञानी न तस्य व्यवहारे भोजनादौ विपर्यासः कश्चित्। अपि तु सोऽपि सत्त्वाद्युचितमेव चेष्टते एवमेव जानन्। यतः +++(N अतः)+++ भूतानां पृथिव्यादीनां प्रकृतौ विलयः आत्मा च अकर्ता नित्यमुक्त इति कस्य जन्मादिनिग्रहः।
 </details>
@@ -171,12 +178,14 @@ effort, therefore the following is being stated:
 
 3.33 Sadrsam etc. There is hardly any difference in the wordly activities like eating etc., of him who is a man of wisdom. But he too acts only in conformity to the Sattva, etc., just knowing in this manner : 'Because the elements like the Earth etc. get absorbed into the prakrti; and the Self is also a non-doer and ever-freed; therefore the erradication of birth etc., are for whose sake ;' Then how can there be bondage at all \[for a man of worldly life\] ; That is as follows, it is said :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.33॥ ननु तर्हि सर्वे बुधा महाफलत्वात्त्वन्मतमेव किमिति नानुतिष्ठन्ति
 तत्राह सदृशमिति। कैमुत्येनाह ज्ञानवानिति। शास्त्रीयं ज्ञानं सात्विकं
@@ -199,10 +208,13 @@ effort, therefore the following is being stated:
 स्वाधिष्ठानमेव यान्ति। एतदर्थमेव नपुंसकत्वमुक्तम्। निग्रहः सत्सङ्गादीनां
 किं करिष्यति अकिञ्चित्करेष्वित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.33॥ ननु तर्हि महाफलत्वादिन्द्रियाणि निगृह्य निष्कामाः सन्तः सर्वेऽपि
 स्वधर्ममेव किं नानुतिष्ठन्ति तत्राह **सदृशमिति।** प्रकृतिः
@@ -211,10 +223,13 @@ effort, therefore the following is being stated:
 तस्माद्भूतानि सर्वेऽपि प्राणिनः प्रकृतिं यान्त्यनुवर्तन्ते। एवं सति
 इन्द्रियनिग्रहः किं करिष्यति प्रकृतेर्बलिष्ठत्वादित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.33 Even the man of knowledge acts according to his nature; all beings follow their nature. What will repression do;
@@ -246,11 +261,13 @@ effort, therefore the following is being stated:
 of nature; ज्ञानवान् a wise man; अपि even; प्रकृतिम् to nature; यान्ति
 follow; भूतानि beings; निग्रहः restraint; किम् what; करिष्यति will do.Commentary He who reads this verse will come to the conclusion that there is no scope for mans personal exertion. It is not so. Read the following verse. It clearly indicates that man can coner Nature if he rises above the sway of RagaDvesha (love and hatred).The passionate and ignorant man only comes under the sway of his natural propensities; and his lower nature. He cannot have any restraint over the senses and the two currents of likes and dislikes. The seeker after Truth who is endowed with the four means; and who is constantly practising meditation can easily control Nature. (Cf.II.60V.14XVIII.59).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.33।। सम्पूर्ण प्राणी प्रकृतिको प्राप्त होते हैं। ज्ञानी महापुरुष भी
@@ -339,6 +356,7 @@ follow; भूतानि beings; निग्रहः restraint; किम्
 ।।3.33।। ज्ञानवान् पुरुष भी अपनी प्रकृति के अनुसार चेष्टा करता है। सभी
 प्राणी अपनी प्रकृति पर ही जाते हैं, फिर इनमें (किसी का) निग्रह क्या
 करेगा।।
+</details>
 </details>
 
 </div>

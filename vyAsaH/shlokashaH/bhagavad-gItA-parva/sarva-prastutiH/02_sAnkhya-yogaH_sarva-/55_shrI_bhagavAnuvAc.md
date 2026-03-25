@@ -26,8 +26,9 @@ title = "55 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.55॥ श्री भगवानुवाच **आत्मन्य् एव आत्मना** मनसा आत्मैकावलम्बनेन **तुष्टः** तेन तोषेण तद्व्यतिरिक्तान् **सर्वान् मनोगतान्** **कामान् यदा** प्रकर्षेण जहाति **तदा** अयं **स्थितप्रज्ञ** इति **उच्यते।** ज्ञाननिष्ठाकाष्ठा इयम्।  
@@ -43,12 +44,14 @@ title = "55 श्री भगवानुवाच"
 
 2.55 The Lord said When a person is satisfied in himself with himself, i.e. when his mind depends on the self within himself; and being content with that, expels all the desires of the mind which are different from that state of mind - then he is said to be a man of firm wisdom. This is the highest form of devotion of knowledge. Then, the lower state, not far below it, of one established in firm wisdom, is described:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.55॥  
   
@@ -213,12 +216,14 @@ Self and disports in the Self.
 स्थितप्रज्ञ एवंविधैर्लक्षणवाचिभिः शब्दैर्भाष्यत इति
 प्रथमप्रश्नस्योत्तरम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.55॥ गमनादिप्रवृत्तिर्नात्यभिसन्धिपूर्विका मात्रादिप्रवृत्तिवदितिया
 निशा 2।69 इत्यादिना दर्शयिष्यल्ँ लक्षणं प्रथमत आह एवं परमानन्दतृप्तः
@@ -307,12 +312,14 @@ Self and disports in the Self.
 परमात्मपरिग्रहे सम्भवति नान्यथेत्यर्थः। कुतः इत्यत आह **विषया**निति।
 ततः किम् इत्यत आह **अत** इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.57॥ प्रजहातीति। स्थिता रूढा प्रज्ञा यस्य। रूढिश्च नित्यमात्मरूढित्वे सति विषयविक्षेपकृतस्य कामरूपस्य +++(N omits कामरूपस्य)+++ भ्रमस्य निवृत्तत्वात् योगिनो यः स्थितप्रज्ञशब्दः अन्वर्थः स च इत्थं +++(N omits इत्थं)+++ युक्तः इत्येकः प्रश्नो निर्णीतः।
 </details>
@@ -321,12 +328,14 @@ Self and disports in the Self.
 
 2.55 Prajahati etc. \[The expression 'a man-of-stabilized-intellect' denotes\] a man whose intellect has stabilized, i.e., has grown roots. Growing roots is growing roots permanently on the Self. For, if that is achieved, the agitation in the form of desire born of the distraction by sense-objects comes to an end. Therefore, the nomenclature 'a man-of-stabilized-intellect' applied to a man-of-Yoga, has an etymological sense and it is appropriate in this way. In this manner one estion has been answered.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.55॥ तत्रोत्तरम् प्रजहातीति। इदं तत्स्वरूपमुच्यत इत्यर्थः।
 </details>
@@ -346,10 +355,13 @@ Self and disports in the Self.
 एवातस्तत्त्यागे चात्मस्फूर्त्या लौकिकसन्तोषो भवत्यात्मगामीति फलम्।
 यदैतादृशः स्यात्तदा स्थितप्रज्ञो निश्चलबुद्धिः स उच्यते कथ्यत इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.55॥ अत्र च यानि साधकस्य ज्ञानसाधनानि तान्येव स्वाभाविकानि सिद्धस्य
 लक्षणानि। अतः सिद्धस्य लक्षणानि कथयन्नेवान्तरङ्गाणि ज्ञानसाधनान्याह
@@ -359,10 +371,13 @@ Self and disports in the Self.
 सन्यदा क्षुद्रविषयाभिलाषांस्त्यजति तदा तेन लक्षणेन मुनिः स्थितप्रज्ञ
 उच्यत इत्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.55 The Lord said When a man renounces all the desires of the mind, O Arjuna, when he is satisfied in himself with himself, then he is said to be of firm wisdom.
@@ -396,11 +411,13 @@ then is he said to be one of steady wisdom.
 2.55 प्रजहाति casts off; यदा when; कामान् desires; सर्वान् all; पार्थ O Partha; मनोगतान् of the mind; आत्मनि in the Self; एव only; आत्मना by the Self; तुष्टः satisfied; स्थितप्रज्ञः of steady wisdom; तदा then; उच्यते
 (he) is called.Commentary In this verse Lord Krishna gives His answer to the first part of Arjunas estion.If anyone gets sugarcandy will he crave for blacksugar Certainly not. If anyone can attain the supreme bliss of the Self; will he thirst for the sensual pleasures No; not at all. The sumtotal of all the pleasures of the world will seem worthless for the sage of steady wisdom who is satisfied in the Self. (Cf.III.17VI.7;8).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.55।। श्रीभगवान् बोले - हे पृथानन्दन ! जिस कालमें साधक मनोगत सम्पूर्ण
@@ -509,6 +526,7 @@ then is he said to be one of steady wisdom.
 ।।2.55।। श्री भगवान् ने कहा -- हे पार्थ; जिस समय पुरुष मन में स्थित सब
 कामनाओं को त्याग देता है और आत्मा से ही आत्मा में सन्तुष्ट रहता है; उस
 समय वह स्थितप्रज्ञ कहलाता है।।
+</details>
 </details>
 
 </div>

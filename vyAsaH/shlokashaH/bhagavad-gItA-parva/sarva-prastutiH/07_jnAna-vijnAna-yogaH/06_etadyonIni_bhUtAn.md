@@ -23,8 +23,9 @@ title = "06 एतद्योनीनि भूतानि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.6॥**एत**च्चेतनाचेतनसमष्टिरूपमदीयप्रकृतिद्वय**योनीनि** ब्रह्मादिस्तम्बपर्यन्तान्य् उच्चावचभावेन अवस्थितानि चिदचिन्मिश्राणि **सर्वाणि भूतानि** मदीयानि **इत्य् उपधारय** मदीयप्रकृतिद्वययोनीनि हि तानि मदीयान्य् एव। तथा प्रकृतिद्वययोनित्वेन कृत्स्नस्य जगतस् तयोर् द्वयोर् अपि मद्योनित्वेन मदीयत्वेन च **कृत्स्नस्य जगतः** अहम् एव **प्रभवः** अहम् एव **प्रलयः** अहम् एव च शेषी इत्य् उपधारय।  
@@ -41,12 +42,14 @@ title = "06 एतद्योनीनि भूतानि"
 
 7.6 Know that all beings from Brahma down to a tuft of grass, who have their origin in these two Prakrtis of Mine, are aggregated forms of the self and of inanimate matter. Irrespective of whether they are existing in a superior or inferior form, the selves and inanimate matter are mixed together in them. On account of their origination in My two Prakrtis, they are Mine. So, know that because the entire universe has its origination in these two Prakrtis which have their origination in Me, I am myself the origin and dissolution of the entire universe. For the same reason, I am its Lord (Sesin). It is proved on the basis of the Srutis and Smrtis that these two, Prakrti and Purusa (matter and the self), which form the aggregate of all animate and inanimate beings, have the Supreme Person as their cause. This is evident from Sruti and Smrti texts like the following: 'The Mahat resolves into Avyakta, Avyakta into Aksara, Aksara into Tamas, and Tamas becomes one with the Supreme Lord' (Su. U., 2); 'O sage, distinct from the form of Visnu, the Supreme Lord, the two forms, Prakrti and Purusa, arise' (V. P., 1.2.24); and 'What was described by Me as Prakrti in its dual form of the manifest and the unmanifest, and the Purusa do merge in the Supreme Self, and the Supreme Self is the support of all. He is the Supreme Lord named Visnu, exalted in the Vedas and Vedanta' (V. P., 6.4.38-39).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.6) **एतद्योनीनि** एते परापरे क्षेत्रक्षेत्रज्ञलक्षणे प्रकृती योनिः येषां भूतानां तानि एतद्योनीनि **भूतानि सर्वाणि इति** एवम् **उपधारय** जानीहि। यस्मात् मम प्रकृती योनिः कारणं सर्वभूतानाम् अतः **अहं कृत्स्नस्य** समस्तस्य **जगतः प्रभवः** उत्पत्तिः **प्रलयः** विनाशः **तथा।** प्रकृतिद्वयद्वारेण अहं सर्वज्ञः ईश्वरः जगतः कारणमित्यर्थः॥ यतः तस्मात्
 </details>
@@ -114,12 +117,14 @@ therefore-
 प्रपञ्चस्य मायिकस्य मायाश्रयत्वविषयत्वाभ्यां मायाव्यहमेवोपादानं द्रष्टा
 चेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.6॥ न केवलं ते जगत्प्रकृती मद्वशे इत्येतावन्मदैश्वर्यमित्याह अहमिति।
 प्रभवादेः सत्ताप्रतीत्यादेः कारणत्वात्तद्भोक्तृत्वाच्च प्रभव इत्यादि।
@@ -161,12 +166,14 @@ therefore-
 महिमातिशयलाभायैवं व्याख्यातम्। एतेनयस्मान्मम प्रकृती योनी सर्वभूतानां
 ततोऽहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा शां. इति व्याख्यानमपहसितं भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.6 7.7॥ एतद्योनीनि इति। मत्तः इति। उपधारय अभ्यासाहितानुभवक्रमेण ( अभ्यासानुभव ) आत्मसमीपे कुरु। एवं च त्वमेवोपधारय यत् अहं वासुदेवो भूतः +++(S K वासुदेवीभूतः)+++ सर्वस्य प्रभवः प्रलयश्च। अहम् +++(N omit the sentence अहं प्रदर्शितम्)+++ इत्यनेन प्रकृतिपुरुषपुरुषोत्तमेभ्यो व्यतिरिक्तोऽपि ईश्वरः सर्वथा सर्वानुगतत्वेन स्थित इति साङ्ख्ययोगयोर्नास्ति भेदवादः इति प्रदर्शितम्। सूत्रे मणिगणा इव यथा तन्तुरनवध्रियमाणरूपोऽपि अन्तर्लीनतया स्थितः एवमहं सर्वत्र।
 </details>
@@ -175,12 +182,14 @@ therefore-
 
 7.6 See Comment under 7.7
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.6॥ अनयोरेव प्रकृतित्वं निर्वचनेन ज्ञापयन् स्वस्य
 तद्वाराऽसाधारणकार्यकारणत्वमाह एतद्योनीनीति। यत एव प्रकृष्टा कृतिरित्यत
@@ -201,10 +210,13 @@ therefore-
 मूलकारणमित्यर्थः। तथा प्रकर्षेण लीयते अनेनेति लयस्थानं
 प्रलयकर्ताऽप्यहमेवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.6॥ अनयोः प्रकृतित्वं दर्शयन्स्वस्य तद्द्वारा सृष्ट्यादिकारणत्वमाह
 **एतदिति।** एते क्षेत्रक्षेत्रज्ञरूपे प्रकृती योनी कारणभूते येषां
@@ -215,10 +227,13 @@ therefore-
 प्रभवः। परं कारणमहमित्यर्थः। तथा प्रलीयतेऽनेनेति प्रलयः
 संहर्ताप्यहमेवेति भावः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.6 Know that all beings have these two for the source of their birth.
@@ -253,11 +268,13 @@ also.Commentary These two Natures; the inferior and the superior; are the womb o
 section 1; aphorism 2) it is said; Janmadyasya yatah meaning that Brahman is that omniscient and omnipotent cause from which proceed the origin; subsistence and dissolution of this world.Just as the mind is the material cause and also the seer (Drashta) for the objects seen in a dream; so also Isvara is the material cause of this world
 (UpadanaKarana) and also the seer (Drashta). He is also the efficient or the instrumental cause (NimittaKarana). (Cf.XIV.3)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.6।। अपरा और परा -- इन दोनों प्रकृतियोंके संयोगसे ही सम्पूर्ण प्राणी
@@ -323,6 +340,7 @@ section 1; aphorism 2) it is said; Janmadyasya yatah meaning that Brahman is tha
 
 ।।7.6।। यह जानो कि समम्पूर्ण भूत इन दोनों प्रकृतियों से उत्पत्ति वाले
 हैं। (अत:) मैं सम्पूर्ण जगत् का उत्पत्ति तथा प्रलय स्थान हूँ।।
+</details>
 </details>
 
 </div>

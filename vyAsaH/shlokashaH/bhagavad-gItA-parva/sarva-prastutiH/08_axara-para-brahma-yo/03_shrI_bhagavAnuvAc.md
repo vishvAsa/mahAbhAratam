@@ -26,8 +26,9 @@ title = "03 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.3॥ श्रीभगवानुवाच -- तद् **ब्रह्म** इति निर्दिष्टं **परमम् अक्षरं** न क्षरति इत्य् अक्षरं क्षेत्रज्ञं समष्टिरूपं तथा च श्रुतिःअव्यक्तमक्षरे लीयते अक्षरं तमसि लीयते (सुबालो॰ 2) इत्यादिका। परमम् अक्षरं प्रकृतिविनिर्मुक्तात्मस्वरूपम्। **स्वभावो ऽध्यात्मम् उच्यते** स्वभावः प्रकृतिर् अनात्मभूतम् आत्मनि सम्बद्ध्यमानं भूतसूक्ष्मतद्वासनादिकं पञ्चाग्निविद्यायां ज्ञातव्यतया उदितं तदुभयं प्राप्यतया त्याज्यतया च मुमुक्षुभिर् ज्ञातव्यम्।  
@@ -47,12 +48,14 @@ title = "03 श्री भगवानुवाच"
 8.3 The Lord said That which is the Supreme Imperishable (Aksara) has been named 'that brahman' The Aksara is that which cannot be destroyed and forms the totality of all individual selves. The Srutis say to this effect: 'The Avyakta is dissolved into the Aksara, the Aksara is dissolved into Tamas' (Su. U., 2). The supreme Aksara is the essential form of the self, separated from Prakrti. One's own material nature (the body) is spoken of as Adhyatma or that which dwells with the self. This material nature (Svabhava) is Prakrti. It does not form the self but attaches itself to the self in the form of subtle elements, impressions etc. This has been taught in the Vidya of Five Fires (Cha. U., 5). Both these (the Aksara and the Adhyatma) should be known by the aspirants for liberation (Kaivalya) - the former as what should be attained and the latter as what should be relinished. Karma is that force which produces the origination of mundane beings. 'Beings' here means beings such as the human beings. The creative force which produces their origination is contact with woman. It has been described in the Sruti passage thus:
 'The waters sacrificed in the fifth oblations become those who are named Purusas' (Cha. U., 5.3.3). That creative force is called Karma. All the acts associated with that should be considered by aspirants after release as calling for abstention. This abstention will also be inculcated immediately in the text, 'Desiring which they practise the vow of continence' (8.11).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.3॥ -- **अक्षरं** न क्षरतीति अक्षरं परमात्मा एतस्य वा अक्षरस्य प्रशासने गार्गि (बृह0 उ₀ 3।8।9 इति श्रुतेः। ओंकारस्य च ओमित्येकाक्षरं ब्रह्म (गीता 8।13) इति परेण विशेषणात् अग्रहणम्। **परमम्** इति च निरतिशये ब्रह्मणि अक्षरे उपपन्नतरम् विशेषणम्। तस्यैव परस्य ब्रह्मणः प्रतिदेहं प्रत्यगात्मभावः स्वभावः स्वो भावः **स्वभावः अध्यात्मम् उच्यते।** आत्मानं देहम् अधिकृत्य प्रत्यगात्मतया प्रवृत्तं परमार्थब्रह्मावसानं वस्तु स्वभावः अध्यात्मम् उच्यते अध्यात्मशब्देन अभिधीयते। **भूतभावोद्भवकरः** भूतानां भावः भूतभावः तस्य उद्भवः भूतभावोद्भवः तं करोतीति भूतभावोद्भवकरः भूतवस्तूत्पत्तिकर इत्यर्थः। **विसर्गः** विसर्जनं देवतोद्देशेन चरुपुरोडाशादेः द्रव्यस्य परित्यागः स एष विसर्गलक्षणो यज्ञः **कर्मसंज्ञितः** कर्मशब्दित इत्येतत्। एतस्मात् हि बीजभूतात् वृष्ट्यादिक्रमेण स्थावरजङ्गमानि भूतानि उद्भवन्ति॥
 </details>
@@ -258,12 +261,14 @@ thorugh the successive processes of railfall etc. (see 3.14-15).
 प्रास्ताहुतिः,सम्यगादित्यमुपतिष्ठते। आदित्याज्जायते वृष्टिर्वृष्टेरन्नं
 ततः प्रजाः इति स्मृतेः। ते वा एते आहुती हुते उत्क्रामतः इत्यादिश्रुतेश्च।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.3॥ परममक्षरं ब्रह्म। वेदादिशङ्काव्यावृत्त्यर्थमेतत्। आत्मन्यधि
 यत्तदध्यात्मम्। आत्माधिकारे यत्तदिति वा। तथा हि -- जैवः स्वभावः।
@@ -321,12 +326,14 @@ thorugh the successive processes of railfall etc. (see 3.14-15).
 न तु कुलालादिसम्बन्धीत्यर्थः। ननु,विसर्गशब्दस्त्यागार्थस्तत्कथमेवं
 व्याख्यानं इत्यत आह -- **विशेषेणे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.3॥ अक्षरमिति। बृहत्त्वात् बृंहत्त्वात् बृंहकत्वाच्च परं ब्रह्म। अत एव अध्यात्मशब्दवाच्यं यतः स्वः अनिवृत्तिधर्मा +++(N निवृत्तिधर्मा K अनिवृत्तधर्मा)+++ चैतान्याख्यो ( चैतन्यभावः) भावः। तस्य च चैतन्यस्वभावस्य ब्रह्मणोऽपरिच्छिन्नबाह्यलक्षणतया क्रोडीकृतविश्वशक्तेः ऐश्वर्यलक्षणात् स्वातन्त्र्यात् बहिर्भावावभासनात्मा +++(N -- भासनात्सः)+++ बहिर्भूतभावान्तरावभासनात्मा +++(S -- भावान्तरभासनात्मा यो विसर्गः)+++ च यो विसर्गः क्रमेण भूतानां ब्रह्मादिप्रमातॄणां भावानां जडानामुद्भवकारी जडाजडवैचित्र्यनिर्भासकः। तथा भूतभावस्य विगलितसकलवितथप्रपञ्चस्य सत्यत्वस्य उद्भवं करोतीति \[स कर्मसंज्ञितः\]।
 </details>
@@ -335,12 +342,14 @@ thorugh the successive processes of railfall etc. (see 3.14-15).
 
 8.3 Aksaram etc. the Supreme is \[called\] Brahman because It is big and causes everything to grow \[in It\]. On the same ground, what is termed 'as the Lord-of-self' is that thing which bears the name Consciousness which never ceases to be in It (Brahman) and which is nothing but the Brahman (svah bhavah). This Brahman, which is nothing but Consciousness, embraces the Power of \[creating\] the universe because of Its unlimited aspect of being external; and on account of Its freedom in the form of supremacy there arises the emitting (i.e. creative) activity \[in it\] in the form of manifesting Itself as the external inanimate beings and also as various external animate ones. \[These two aspects of\] this activity cause respectively the birth of the inanimate beings - i.e. the insentient beings, and the animate ones i.e. the sentient beings like Brahman etc. \[In other words\], It manifests as varigated insentient and sentient beings. Again this activity bestows on what is real, its intrinsic nature i.e. creates a reality for the one from which all that is false is excluded. this emitting activity is what is known as 'action'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.3॥ प्रश्नक्रमेणोत्तरमाह श्रीभगवान् -- अक्षरमिति त्रिभिः। अत्रवदन्ति
 तत्तत्त्वविदस्तत्त्वं यज्ज्ञानमद्वयम्। ब्रह्मेति परमात्मेति भगवानिति
@@ -371,10 +380,13 @@ thorugh the successive processes of railfall etc. (see 3.14-15).
 
 **भूतानां** जीवानां **भावस्य** भगवद्-रस-रूपस्य +**उद्भवकरः** प्रकटकारको यो **विसर्गो** भगवद्-अर्थ-द्रव्यादि-विनियोगेन सेवा-रूपः स कर्म-संज्ञितः क्रिया-रूपः कर्मशब्दवाच्य इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.3॥ प्रश्नक्रमेणोत्तरं श्रीभगवानुवाच **-- अक्षरमिति त्रिभिः।** न
 क्षरति न चलतीत्यक्षरम्। ननु जीवोऽप्यक्षरस्तत्राह -- परमं यदक्षरं जगतां
@@ -386,10 +398,13 @@ thorugh the successive processes of railfall etc. (see 3.14-15).
 करोति यः विसर्गः देवतोद्देशेन द्रव्यत्यागरूपो यज्ञः।
 सर्वकर्मणामुपलक्षणमेतत्। स कर्मशब्दवाच्यः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.3 The Blessed Lord said The Immutable is the supreme Brahman;
@@ -423,11 +438,13 @@ etc.; to the gods and which causes the genesis and support of beings is called K
 (Bhutas) live and develop on account of rice and other foodstuffs.
 Therefore Yajnas are the cause of the genesis and support of all beings.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.3।। श्रीभगवान् बोले -- परम अक्षर ब्रह्म है और जीवका अपना जो होनापन
@@ -453,6 +470,7 @@ Therefore Yajnas are the cause of the genesis and support of all beings.
 ।।8.3।। श्रीभगवान् ने कहा -- परम अक्षर (अविनाशी) तत्त्व ब्रह्म है;
 स्वभाव (अपना स्वरूप) अध्यात्म कहा जाता है; भूतों के भावों को उत्पन्न
 करने वाला विसर्ग (यज्ञ, प्रेरक बल) कर्म नाम से जाना जाता है।।
+</details>
 </details>
 
 </div>

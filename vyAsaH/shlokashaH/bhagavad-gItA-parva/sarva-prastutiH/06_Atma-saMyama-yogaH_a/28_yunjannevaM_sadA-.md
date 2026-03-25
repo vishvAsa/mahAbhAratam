@@ -23,8 +23,9 @@ title = "28 युञ्जन्नेवं सदाऽऽत्मानम�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.28॥**एवम्** उक्तप्रकारेण **आत्मानं युञ्जन्** तेन एव **विगत**प्राचीनसमस्त**कल्मषः ब्रह्मसंस्पर्शं** ब्रह्मानुभवरूपं **सुखम् अत्यन्तम्** अपरिमितं **सुखेन** अनायासेन **सदा अश्नुते। अथ योगविपाकदशा चतुष्प्रकारा उच्यते**
@@ -40,12 +41,14 @@ title = "28 युञ्जन्नेवं सदाऽऽत्मानम�
 6.28 Thus, in the above - said manner, devoting himself to the Yoga of the self and by that means expelling all old impurities, the Yogin attains 'perfect', i.e., boundless felicity at all times easily, without stress and strain. The felicity is born of the contact with the Brahman
 (Atman), meaning the joy of experience of the Brahman. Now Sri Krsna says that the mature stage of Yoga consists of four degrees, as stated in the succeeding verses from 29th to 32nd.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.28॥ **युञ्जन् एवं** यथोक्तेन क्रमेण **योगी** योगान्तरायवर्जितः **सदा सर्वदा आत्मानं विगतकल्मषः** विगतपापः **सुखेन** अनायासेन **ब्रह्मसंस्पर्शं** ब्रह्मणा परेण संस्पर्शो यस्य तत् ब्रह्मसंस्पर्शं **सुखम् अत्यन्तम्** अन्तमतीत्य वर्तत इत्यत्यन्तम् उत्कृष्टं निरतिशयम् अश्नुते व्याप्नोति॥ इदानीं योगस्य यत् फलं ब्रह्मैकत्वदर्शनं सर्वसंसारविच्छेदकारणं तत् प्रदर्श्यते
 </details>
@@ -167,12 +170,14 @@ cessation of sorrows, and attainment of unsurpassable Bliss.\]
 उपायाश्चित्तप्रसादनाय दर्शिताः। तदेतच्चित्तप्रसादनं भगवदनुग्रहेण यस्य
 जातं तं प्रत्येवैतद्वचनं सुखेनेति। अन्यथा मनःप्रशमानुपपत्तेः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.28॥ पूर्वश्लोकोक्तं प्रपञ्चयति एवं युञ्जन्निति।
 </details>
@@ -181,12 +186,14 @@ cessation of sorrows, and attainment of unsurpassable Bliss.\]
 
 ॥6.28॥ प्रशान्तमनसं इत्युक्तमेव पुनः कस्मादुच्यत इत्यत आह **पूर्वेति**।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.26 6.28॥ न च विषयव्युपरममात्रमेव प्राप्यमित्युच्यते यत इत्यादि अधिगच्छतीत्यन्तम्। यतो यतो मनो निवर्तते तन्निवर्तनसमनन्तरमेव आत्मनि शमयेत्। अन्यथा अप्रतिष्ठं चित्तं पुनरपि विषयानेवावलम्बते। तत्र आत्मनि शान्तचित्तं योगिनं कर्मभूतं सुखं कर्तृभूतम् उपैति। अनेनैव क्रमेण योगिनां सुखेन ब्रह्मावाप्तिः न तु कष्टयोगादिनेति तात्पर्यम्।
 </details>
@@ -195,12 +202,14 @@ cessation of sorrows, and attainment of unsurpassable Bliss.\]
 
 6.26-28 Yatah etc. upto adhigacchati. From whatever objects the mind returns, immediately after its return, let him ieten it on the Self. Otherwise, being not firmly established \[in the Self\], the mind would again take hold of nothing but the sense-objects. But the Bliss, assuming the roll of an agent (or subject, kartv-bhuta) comes to the object (karmabhuta), viz., the man-of-Yoga, whose mind remains ite in the Self. By this way alone the men-of-Yoga attain the Brahman easily and not by \[any\] difficult Yoga etc. This is the idea \[here\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.28॥ ततश्च कृतार्थो भवतीत्याह युञ्जन्निति। एवमनेन प्रकारेण
 सर्वदाऽऽत्मानं मनो वा ब्रह्मणि युञ्जन् एकाकी कुर्वन् वशीकुर्वन् विशेषेण
@@ -220,10 +229,13 @@ cessation of sorrows, and attainment of unsurpassable Bliss.\]
 भगवच्चरणारविन्दसंवाहनादिसेवारूपमत्यन्तं सुखं दास्यात्मकमश्नुते भुञ्जत
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.28॥ ततश्च कृतार्थो भवतीत्याह **युञ्जन्निति।** एवमनेन प्रकारेण
 सर्वदात्मानं मनो युञ्जन्वशीकुर्वन्विशेषेण सर्वात्मना गतं कल्मषं यस्य स
@@ -231,10 +243,13 @@ cessation of sorrows, and attainment of unsurpassable Bliss.\]
 साक्षात्कारस्तदेवात्यन्तं सर्वोत्तमं सुखमश्नुते। जीवन्मुक्तो
 भवतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.28 Thus devoting himself to the Yoga of the self, freed from impurities, the Yogin easily attains the supreme bliss of contact with the Brahman.
@@ -270,11 +285,13 @@ caused by contact with Brahman; अत्यन्तम् infinite; सुख�
 enjoys.Commentary By Yogic practices such as the withdrawal of the senses; concentration and meditation he loses contact with the objects of the senses and comes into contact with Brahman or the immortal Self within and thus enjoys the Infinite Bliss of Brahman.Sensual pleasures are transitory or fleeting but the bliss of Brahman is uninterrupted;
 undecaying and everlasting. That is the reason why one should attempt to realise the Self within.The Yogi removes the obstacles that stand in the way of obtaining union with the Lord and thus always keeps the mind steady in the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.28।। इस प्रकार अपने-आपको सदा परमात्मामें लगाता हुआ पापरहित योगी
@@ -337,6 +354,7 @@ undecaying and everlasting. That is the reason why one should attempt to realise
 
 ।।6.28।। इस प्रकार मन को सदा आत्मा में स्थिर करने का योग करने वाला
 पापरहित योगी सुखपूर्वक ब्रह्मसंस्पर्श का परम सुख प्राप्त करता है।।
+</details>
 </details>
 
 </div>

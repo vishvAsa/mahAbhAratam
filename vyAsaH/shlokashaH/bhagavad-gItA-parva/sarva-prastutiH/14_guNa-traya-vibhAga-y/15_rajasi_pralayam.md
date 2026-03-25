@@ -23,8 +23,9 @@ title = "15 रजसि प्रलयम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.15॥**रजसि** प्रवृद्धे मरणं प्राप्य फलार्थं कर्म कुर्वतां कुलेषु **जायते** तत्र जनित्वा स्वर्गादिफलसाधनकर्मस्व् अधिकरोति इत्यर्थः।**तथा तमसि** प्रवृद्धे मृतो **मूढयोनिषु** श्वसूकरादियोनिषु **जायते** सकलपुरुषार्थारम्भानर्हो जायते इत्यर्थः।
@@ -39,12 +40,14 @@ title = "15 रजसि प्रलयम्"
 
 14.15 (a) Meeting with death when Rajas is preponderant, one is rorn in the families of those who act for the sake of fruits for themselves. Being rorn in such families, he becomes alified to perform auspicious acts which constitute the way for attaining heaven and the like. (b) Similarly, one who dies when Tamas is preponderant is born in the wombs of beings lacking in intelligence, namely, in the wombs of dogs, pigs etc. The meaning is that he is rorn as one incapable of realising any human end.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.15॥ --,**रजसि** गुणे विवृद्धे **प्रलयं** मरणं **गत्वा** प्राप्य **कर्मसङ्गिषु** कर्मासक्तियुक्तेषु मनुष्येषु **जायते। तथा** तद्वदेव **प्रलीनः** मृतः **तमसि** विवृद्धे **मूढयोनिषु** पश्वादियोनिषु **जायते**॥ अतीतश्लोकार्थस्यैव संक्षेपः उच्यते --,
 </details>
@@ -95,12 +98,14 @@ preceding (three) verses is being stated:
 श्रुतिस्मृतिविहितप्रतिषिद्धकर्मफलाधिकारिषु मनुष्येषु जायते। तथा तद्वदेव
 तमसि प्रवृद्धे प्रलीनो मृतो मूढयोनिषु पश्वादिषु जायते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.15॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -109,12 +114,14 @@ preceding (three) verses is being stated:
 
 ॥14.15॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.14 -- 14.15॥ यदेति। रजसीति। यदा समग्रेणैव जन्मना अनवरतसात्त्विकव्यापाराभ्यासात् सत्त्वं विवृद्धं भवति; तदा प्राप्तप्रलयस्य शुभलोकावाप्तिः। एवं जन्माभ्यस्तराजसकर्मणः प्रयाणात् विमिश्रोपभोगाय ( विशिष्टोपभोगाय S;N (विशिष्टोप) विमिश्रोपभोगाय) मानुष्यावाप्तिः +++(S;;N मानुष्याप्तिः)+++। तथा; तेनैव क्रमेण +++(S substitutes क्रमेण with प्रकारेण)+++ यदा समग्रेण जन्मना तामसमेव कर्म अभ्यस्यते तदा नरकतिर्यग्वृक्षादिदेहेषु उत्पद्यते। ये तु व्याचक्षते मरणकाले एव सत्त्वादौ विवृद्धे एतानि फलानि इति ते न सम्यक् शारीरेऽनुभवे प्रविष्टाः। यतः सर्वस्यैव सर्वथा अन्त्ये क्षणे मोह एवोपजायते। अस्मद्व्याख्यायां च संवादीनि इमानि; श्लोकान्तराणि,\[च\]।
 </details>
@@ -123,12 +130,14 @@ preceding (three) verses is being stated:
 
 14.14-15 Yada etc. Rajasi etc. When the Sattva is predominantly on the increase on account of increase on account on account of incessantly practising actions of the Sattva throughout the entire life-at that \[time\] having met dissolution \[of body\], one attains the auspicious worlds. Likewise whosoever has practised throughout his life the activities of the Rajas, he, by his \[last\] journey attains manhood for mixed enjoyment. Likewise : i.e. in the same order, if one practises action of the Tamas alone by one's entire life, then \[on his death\] he is rorn in the bodies of the hell, of the animals, of the trees and so on. Those, who explain \[the passage under study to the effect\] : 'These results \[are for him in whom\] the Sattva etc., have predominantly increased only at the time of death' - these commentators have not correctly entered into (grasped) the behaviour of the embodied. For, nothing but delusion arises, by all means at the last moment, without exception in the case of one and all. However, with regard to our explanation \[given above\] these passages and other verses (Ch. VIII, 5ff) speak in one voice.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.15॥ रजसीति कर्मसङ्गिषु मध्यमलोकेषु जायते। तमसीति अधोयोनिषु
 नीचलोकेषु जायते।
@@ -140,19 +149,25 @@ preceding (three) verses is being stated:
 कर्मासक्तेषु तेषु नरेषु पुनस्तदाचरणेन तत्फलभोगार्थं जायते। तथा तमसि
 प्रवृद्धे प्रलीनो मृतो मूढयोनिष्वासुरेषु जायते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.15॥ किंच **-- रजसीति**। रजसि प्रवृद्धे सति मृत्युं प्राप्य
 कर्मासक्तेषु मनुष्येषु जायते। तथा तमसि प्रवृद्धे सति प्रलीनो मृतो
 मूढयोनिषु पश्वादिषु जायते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.15 (a) Meeting with dissolution when Rajas is prevalent, one is born among those attached to work৷৷. (b) Similarly, one who has met with dissolution when Tamas prevails, is born in the womb of beings lacking in intelligence.
@@ -184,11 +199,13 @@ he takes birth among the stupid species.
 14.15 रजसि in Rajas; प्रलयम् death; गत्वा meeting; कर्मसङ्गिषु among those attached to action; जायते (he) is born; तथा so; प्रलीनः dying;
 तमसि in inertia; मूढयोनिषु in the wombs of the senseless; जायते (he) is born.Commentary Meeting with death in Rajas If he dies when Rajas is predominant in him; he is born among men who are attached to action. If he dies when Tamas is fully predominant in him; he takes birth in ignorant species such as cattle; birds; beasts or insects.He may take his birth amongst the dull and the stupid or the lowest grades of human beings. He need not take the body of an animal. This is the view of some persons.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.15।। रजोगुणके बढ़नेपर मरनेवाला प्राणी मनुष्ययोनिमें जन्म लेता है तथा
@@ -274,6 +291,7 @@ he takes birth among the stupid species.
 ।।14.15।। रजोगुण के प्रवृद्ध काल में मृत्यु को प्राप्त होकर कर्मासक्ति
 वाले (मनुष्य) लोक में वह जन्म लेता है तथा तमोगुण के प्रवृद्धकाल में (मरण
 होने पर) मूढ़योनि में जन्म लेता है।।
+</details>
 </details>
 
 </div>

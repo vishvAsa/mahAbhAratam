@@ -23,8 +23,9 @@ title = "27 स्पर्शान्कृत्वा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.27॥ बाह्यान् विषय**स्पर्शान् बहिः कृत्वा** बाह्येन्द्रियव्यापारं सर्वम् उपसंहृत्य योगयोग्यासने ऋजुकाय उपविश्य **चक्षुर् भ्रुवोर् अन्तरे** नासाग्रे विन्यस्य **नासाभ्यन्तरचारिणौ प्राणापानौ समौ कृत्वा** उच्छवासनिः श्वासौ समगति कृत्वा आत्मावलोकनाद् अन्यत्र प्रवृत्त्यन**र्हेन्द्रियमनोबुद्धिः** तत एव **विगतेच्छाभयक्रोधो** **मोक्षपरायणो** मोक्षैकप्रयोजनो **मुनिः** आत्मावलोकनशीलो **यः सदा मुक्त एव** साध्यदशायाम् इव साधनदशायाम् अपि मुक्त एव **स** इत्यर्थः। उक्तस्य नित्यनैमित्तिककर्मेति कर्तव्यताकस्य कर्मयोगस्य योगशिरस्कस्य सुशकताम् आह
@@ -40,12 +41,14 @@ title = "27 स्पर्शान्कृत्वा"
 5.27 - 5.28 'Shutting off all contact with outside objects,' i.e., stopping the outward functioning of the senses; seated with his trunk straightened in a posture fit for meditation (Yoga); 'fixing the gaze between the eye-brows,' i.e., at the root of the nose where the eye-brows meet; 'ealising inward and outward breaths,' i.e., making exhalatory and inhalatory breath move eally: making the senses, Manas and intellect no longer capable of anything except the vision of the self, conseently being free from 'desire, fear and wrath'; 'who is intent on release as his final goal,' i.e., having release as his only aim - the sage who is thus intent on the vision of the self 'is indeed liberated for ever,' i.e., he is almost a liberated person, as he would soon be in the ultimate stage of fruition. Sri Krsna now says that Karma Yoga, described above, which is facilitated by the performance of obligatory and occasional rites and which culminates in meditation
 (Yoga), is easy to practise:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.27 5.28॥ **स्पर्शान्** शब्दादीन् **कृत्वा बहिः बाह्यान्** श्रोत्रादिद्वारेण अन्तः बुद्धौ प्रवेशिताः शब्दादयः विषयाः तान् अचिन्तयतः शब्दादयो बाह्या बहिरेव कृताः भवन्ति तान् एवं बहिः कृत्वा **चक्षुश्चैव अन्तरे भ्रुवोः** कृत्वा इति अनुषज्यते। तथा **प्राणापानौ नासाभ्यन्तरचारिणौ समौ कृत्वा यतेन्द्रियमनोबुद्धिः** यतानि संयतानि इन्द्रियाणि मनः बुद्धिश्च यस्य सः यतेन्द्रियमनोबुद्धिः मननात् **मुनिः** संन्यासी **मोक्षपरायणः** एवं देहसंस्थानात् मोक्षपरायणः मोक्ष एव परम् अयनं परा गतिः यस्य सः अयं मोक्षपरायणो मुनिः भवेत्। **विगतेच्छाभयक्रोधः** इच्छा च भयं च क्रोधश्च इच्छाभयक्रोधाः ते विगताः यस्मात् सः विगतेच्छाभयक्रोधः **यः** एवं वर्तते **सदा** संन्यासी **मुक्त एव सः** न तस्य मोक्षायान्यः कर्तव्योऽस्ति॥ एवं समाहितचित्तेन किं विज्ञेयम् इति उच्यते **भोक्तारं** यज्ञतपसां यज्ञानां तपसां च कर्तृरूपेण देवतारूपेण च **सर्वलोकमहेश्वरं** सर्वेषां लोकानां महान्तम् ईश्वरं **सुहृदं** **सर्वभूतानां** सर्वप्राणिनां प्रत्युपकारनिरपेक्षतया उपकारिणं सर्वभूतानां हृदयेशयं सर्वकर्मफलाध्यक्षं सर्वप्रत्ययसाक्षिणं मां नारायणं **ज्ञात्वा शान्तिं** सर्वसंसारोपरतिम् **ऋच्छति** प्राप्नोति॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्यश्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -204,12 +207,14 @@ one who has his mind thus concentrated; The answer this is beig stated:
 इत्यत्र व्याख्यातम्। एतादृशो यः संन्यासी सदा भवति मुक्त एव सः। नतु
 मोक्षः तस्य कर्तव्योऽस्ति। अथवा य एतादृशः स सदा जीवन्नपि मुक्त एव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.27 5.28॥ ध्यानप्रकारमाह स्पर्शानित्यादिना। बाह्यान्स्पर्शन्वहिः
 कृत्वा श्रोत्रादीनि योगेन नियम्येत्यर्थः। चक्षुर्भ्रुवोरन्तरं कृत्वा
@@ -233,12 +238,14 @@ one who has his mind thus concentrated; The answer this is beig stated:
 प्राणायामे ततश्च समौ निर्विकारौ निश्चलावित्यर्थः। इतरत्समीकरणं
 कुम्भकार्थमेवेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.27 5.28॥ स्पर्शानिति। यतेन्द्रियेति। बाह्यस्पर्शान् बहिः कृत्वा अनङ्गीकृत्य भ्रुवोः वामदक्षिणदृष्ट्योः क्रोधरागात्मकयोः अन्तरे तद्रहिते स्थानविशेषे चक्षुरुपलक्षितानि सर्वेन्द्रियाणि कृत्वा विधाय प्राणापानौ धर्माधर्मौ चित्तवृत्त्यभ्यन्तरे साम्येनावस्थाप्य आसीत +++(K omits आसीत)+++। नसते कौटिल्येन असाम्येन क्रोधादिवशात् व्यवहरति इति नासा चित्तवृत्तिः। एतदेव बाह्ये। एवंविधो योगी सर्वव्यवहारान् वर्तयन्नपि मुक्त एव।
 </details>
@@ -247,12 +254,14 @@ one who has his mind thus concentrated; The answer this is beig stated:
 
 5.27 See Comment under 5.28
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.27 5.28॥ स योगी ब्रह्मनिर्वाणं 5।24 इत्यादौ प्रोक्तं तमेव योगं
 समासेन दर्शयन्नाह द्वाभ्याम् स्पर्शानिति। ईश्वरालम्बनं योगो जनयित्वा तु
@@ -280,10 +289,13 @@ one who has his mind thus concentrated; The answer this is beig stated:
 विगतेच्छाभयक्रोधो भूत्वा यतेन्द्रियमनोबुद्धिः सन् यः सदा मुनिर्मननशीलो
 भवति स स्पर्शादिभिर्मुक्त एव स्यादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.27॥ स योगी ब्रह्मनिर्वाणमित्यादिषु योगी मोक्षमाप्नोतीत्युक्तं तमेव
 योगं संक्षेपेण दर्शयन्नाह **स्पर्शानिति द्वाभ्याम्।** बाह्या एव स्पर्शा
@@ -296,10 +308,13 @@ one who has his mind thus concentrated; The answer this is beig stated:
 प्राणो यथा बहिर्न निर्याति यथा चापानोऽन्तर्न प्रविशति किंतुनासामध्य एव
 द्वावपि यथा चरतः तथा मन्दाभ्यामुच्छ्वासनिःश्वासाभ्यां समौ कृत्वेति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.27 Shutting off outward contacts, fixing the gaze between the eye-brows, ealising inward and outward breaths moving in the nostrils;
@@ -336,11 +351,13 @@ whose chief aim is emancipation; and from whom desire, fear and wrath have depar
 Rhythmical breathing is described here. You will have to make the breath rhythmical. The mind becomes steady when the breath becomes rhythmical.
 When the breath becomes rhythmical there is perfect harmony in the mind and the whole system. (Cf.VI.10;14VIII.10)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.27 -- 5.28।। बाह्य पदार्थोंको बाहर ही छोड़कर और नेत्रोंकी दृष्टिको
@@ -380,6 +397,7 @@ When the breath becomes rhythmical there is perfect harmony in the mind and the 
 ।।5.27।। बाह्य विषयों को बाहर ही रखकर नेत्रों की दृष्टि को भृकुटि के बीच
 में स्थित करके तथा नासिका में विचरने वाले प्राण और अपानवायु को सम
 करके,।।
+</details>
 </details>
 
 </div>

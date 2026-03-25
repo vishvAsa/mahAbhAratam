@@ -23,8 +23,9 @@ title = "41 यद्यद्विभूतिमत्सत्त्वं"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.41॥**यद् यद् विभूतिमद्** ईशितव्यसम्पन्नं भूतजातं **श्रीमत्** कान्तिमद् धनधान्यसमृद्धं **वा ऊर्जितं** कल्याणारम्भेषु उद्युक्तं **तत् तद् मम तेजोऽंशसम्भवम्** इति **अवगच्छ। तेजः पराभिभवनसामर्थ्यम्; मम अचिन्त्यशक्तेर् नियमनशक्त्या एकदेशसम्भवम् इत्यर्थः।**
@@ -40,12 +41,14 @@ title = "41 यद्यद्विभूतिमत्सत्त्वं"
 10.41 Whatever host of beings has 'power', namely the capacity and means to rule over; has 'splendour', has beauty or prosperity in wealth, grains etc., has 'energy,' namely, is engaged in auspicious undertakings - know such manifestations as coming fro a fragment of My 'power'. Power
 (Tejas) is the capacity to overcome opposition. The meaning is, know them as arising from a fraction of My inconceivable power of subduing.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.41॥ --,**यद्यत्** लोके **विभूतिमत्** विभूतियुक्तं **सत्त्वं** वस्तु **श्रीमत् ऊर्जितमेव वा** श्रीर्लक्ष्मीः तया सहितम् उत्साहोपेतं वा; **तत्तदेव अवगच्छ त्वं** जानीहि मम ईश्वरस्य **तेजोंऽशसंभवं** तेजसः अंशः एकदेशः संभवः यस्य तत् तेजोंऽशसंभवमिति अवगच्छ त्वम्॥  
   
@@ -106,12 +109,14 @@ tejomsa-sambhavam, having a part (amsa) of My (mama), of God's, power
 संपत् शोभा कान्तिर्वा तया युक्तं तथा ऊर्जितं बलाद्यतिशयेन युक्तं तत्तदेव
 मम तेजसः शक्तेरंशेन संभूतं त्वमवगच्छ जानीहि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.41॥ यद्यद्विभूतमदिति विस्तरः। विष्ण्वादीनि ततस्वरूपाण्येव। अन्यानि
 तु तेजोयुक्तानि। तथा च पैङ्गिखिलेषु -- विशेषका रुद्रवैन्येन्द्रदेवा
@@ -154,12 +159,14 @@ tejomsa-sambhavam, having a part (amsa) of My (mama), of God's, power
 भावेनाह -- **न ही**ति। क्रियेति प्रकृतापेक्षयोक्तम्। ननु सन्निधेरपि
 योग्यता बलवतीति चेत्; सत्यम् सन्निधिमनतिक्रम्य योग्यान्वयस्तूक्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -168,12 +175,14 @@ tejomsa-sambhavam, having a part (amsa) of My (mama), of God's, power
 
 10.41 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.41॥ पुनश्च साकाङंक्षप्रति कथञ्चित्साकल्येन कथयन्सर्वसङ्ग्रहार्थमाह
 -- यद्यदिति। सत्त्वं चेतनाचेतनवस्तुमात्रं श्रीमत् शोभादिमच्च ऊर्जितं
@@ -191,20 +200,26 @@ tejomsa-sambhavam, having a part (amsa) of My (mama), of God's, power
 प्रकारेणोत्कृष्टतां प्राप्तं रमणीयतरं वा तत्तदेवं मम तेजोंशसम्भवं
 ममानुभावसम्भूतं अवगच्छ जानीहि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.41॥ पुनश्चा साकाङ्क्षं प्रति कथंचित्साकल्येन कथयति **--
 यद्यदिति।** विभूतिमदैश्वर्ययुक्तम् श्रीमत्संपत्तियुक्तम् ऊर्जितं
 केनचित्प्रभावबलादिना गुणेनातिशयितं यद्यत्सत्त्वं वस्तुमात्रं तत्तदेव मम
 तेजसः प्रभावस्यांशेन संभूतं जानीहि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.41 Whatever being is possessed of power, or of splendour, or of energy, know that as coming from a fragment of My power.
@@ -236,11 +251,13 @@ tejomsa-sambhavam, having a part (amsa) of My (mama), of God's, power
 prosperous; ऊर्जितम् powerful; एव also; वा or; तत् तत् that; एव only;
 अवगच्छ know; त्वम् thou; मम My; तेजोंऽशसंभवम् a manifestation of a part of My splendour.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.41।। जो-जो ऐश्वर्ययुक्त, शोभायुक्त और बलयुक्त प्राणी तथा वस्तु है,
@@ -280,6 +297,7 @@ prosperous; ऊर्जितम् powerful; एव also; वा or; तत्
 
 ।।10.41।। जो कोई भी विभूतियुक्त, कान्तियुक्त अथवा शक्तियुक्त वस्तु (या
 प्राणी) है, उसको तुम मेरे तेज के अंश से ही उत्पन्न हुई जानो।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "32 सर्गाणामादिरन्तश्च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.32॥ सृज्यन्ते इति सर्गाः; तेषाम् **आदिः** कारणं सर्वदा सृज्यमानानां सर्वेषां प्राणिनां तत्र तत्र स्रष्टारो ऽहम् **एव** इत्यर्थः। तथा **अन्तः** सर्वदा संह्रियमाणानां तत्र तत्र संहर्तारो ऽप्य् अहम् एव। तथा **च मध्यं** पालनं सर्वदा पाल्यमानानां पालयितारश्च **अहम् एव** इत्यर्थः। श्रेयःसाधनभूतानां **विद्यानां** मध्ये परमनिःश्रेयससाधनभूता **अध्यात्मविद्या** अहम् अस्मि। जल्पवितण्डादि कुर्वतां तत्त्वनिर्णयाय प्रवृत्तो **वादः** यः सः **अहम्।**
@@ -39,12 +40,14 @@ title = "32 सर्गाणामादिरन्तश्च"
 
 10.32 Those that undergo creation are 'creatures'. Their beginning is the cause. The meaning is that, of the creatures which are being created at all times, I am Myself the creator. Similarly, I am the end, namely the destroyer of everyone of those who are being destroyed at all times. Similarly I am the middle, namely, the sustentation. The meaning is, I am the sustainer of those who are being sustained at all times. Of those who indulge in Jalpa (argument) and Vitanda (perverse criticism) etc., I am the fair reasoning which determines the truth.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.32॥ --,सर्गाणां सृष्टीनाम् **आदिः अन्तश्च मध्यं चैव अहम्** उत्पत्तिस्थितिलयाः अहम् **अर्जुन।** भूतानां जीवाधिष्ठितानामेव आदिः अन्तश्च इत्याद्युक्तम् उपक्रमे; इह तु सर्वस्यैव सर्गमात्रस्य इति विशेषः। **अध्यात्मविद्या विद्यानां** मोक्षार्थत्वात् प्रधानमस्मि। **वादः** अर्थनिर्णयहेतुत्वात् **प्रवदतां** प्रधानम्; अतः सः **अहम्** अस्मि। प्रवक्तृद्वारेण वदनभेदानामेव वादजल्पवितण्डानाम् इह ग्रहणं प्रवदताम् इति॥
 </details>
@@ -168,12 +171,14 @@ this verse.\]-Tr.\]
 कथा किंतु शक्त्यतिशयज्ञानार्थं समयबन्धमात्रेण प्रवर्तत इति खण्डनकाराः।
 तत्त्वाध्यवसायपर्यवसायित्वेन तु वादस्य श्रेष्ठत्वमुक्तमेव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.32॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -182,12 +187,14 @@ this verse.\]-Tr.\]
 
 ॥10.32॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि,न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -196,12 +203,14 @@ this verse.\]-Tr.\]
 
 10.32 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.32॥ सर्गाणां पुष्टिप्रवाहमर्यादारूपाणां चाहमादिः कारणं;
 उत्तमाङ्गकायरूपः पुष्टेः प्रवाहस्यान्तरमनोरूपः मर्यादायाः मध्यं हृदयं
@@ -222,10 +231,13 @@ this verse.\]-Tr.\]
 अध्यात्मविद्याऽहमस्मि। प्रवदतां वादिनां वादः; वितण्डाजल्पपक्षत्रयमध्ये
 वादस्तत्त्वस्वरूपनिर्णयात्मकोऽहमस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.32॥**सर्गाणामिति।** सृज्यन्त इति सर्गा आकाशादयस्तेषामादिरन्तश्च
 मध्यं चैवाहम्। अहमादिश्च मध्यं चेत्यत्र सृष्ट्यादिकर्तृत्वं
@@ -239,10 +251,13 @@ this verse.\]-Tr.\]
 शक्तिपरीक्षामात्रफले; वादस्तु वीतरागयोः शिष्याचार्ययोरन्ययोर्वा
 तत्त्वनिर्णयफलश्च। अतोऽसौ श्रेष्ठत्वान्मद्विभूतिरित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.32 Of creatures, I am the beginning and the end, and also the middle,
@@ -278,11 +293,13 @@ logic; प्रवदताम् among controversialists; अहम् I.Comme
 I am the beginning; the middle and the end of the whole movable and immovable creation. Here the whole creation in general is referred to.As the knowledge of the Self leads to the attainment of the final beatitude of life or salvation; it is the chief among all branches of knowledge.Pravadatam By the word controversialists; we should here understand the various kinds of people using various kinds of argumentation in logic such as Vada; Jalpa and Vitanda. Yada is a way of arguing by which one gets at the truth of a certain estion. The aspirants who are free from RagaDvesha and jealousy raise amongst themselves estions and answers and enter into discussions on philosophical problems in order to ascertain and understand the nature of the Truth. They do not argue in order to gain victory over one another. This is Vada. Jalpa is wrangling in which one asserts his own opinion and refutes that of his opponent. Vitanda is idle carping at the arguments of ones opponents. No attempt is made to establish the other side of the estion. In Jalpa and Vitanda one tries to defeat another.
 There is desire for victory.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/32_sargANAmAdirantas.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.32।। हे अर्जुन ! सम्पूर्ण सर्गोंके आदि, मध्य तथा अन्तमें मैं ही
@@ -343,6 +360,7 @@ There is desire for victory.
 ।।10.32।। हे अर्जुन ! सृष्टियों का आदि, अन्त और मध्य भी मैं ही हूँ, मैं
 विद्याओं में अध्यात्मविद्या और विवाद करने वालों में (अर्थात् विवाद के
 प्रकारों में) मैं वाद हूँ।।
+</details>
 </details>
 
 </div>

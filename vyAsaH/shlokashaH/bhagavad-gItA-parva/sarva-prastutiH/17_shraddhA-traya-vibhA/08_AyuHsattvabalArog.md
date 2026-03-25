@@ -23,8 +23,9 @@ title = "08 आयुःसत्त्वबलारोग्यसुखप�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.8॥ सत्त्वगुणोपेतस्य सत्त्वमया आहाराः प्रिया भवन्ति। सत्त्वमयाश् च आहारा **आयु**र्विवर्धनाः पुनो ऽपि **सत्त्व**स्य विवर्धनाः। सत्त्वम् अन्तःकरणम्; अन्तःकरणकार्यं ज्ञानम् इह सत्त्वशब्देन उच्यते। सत्त्वात्सञ्जायते ज्ञानम् (गीता 14।17) इति सत्त्वस्य ज्ञानविवृद्धिहेतुवचनात्। आहारो ऽपि सत्त्वमयो ज्ञानविवृद्धिहेतुः। तथा **बलारोग्य**योर् अपि विवर्धनाः; **सुख**प्रीत्योर् अपि **विवर्धनाः।** परिणामकाले स्वयम् एव सुखस्य विवर्धनाः; तथा प्रीतिहेतुभूतकर्मारम्भद्वारेण प्रीतिवर्धनाः**रस्याः** मधुररसोपेताः; **स्निग्धाः** स्नेहयुक्ताः; **स्थिराः** स्थिरपरिणामाः; **हृद्याः** रमणीयवेषाः; एवंविधाः सत्त्वमया **आहाराः;** **सात्त्विक**स्य पुरुषस्य **प्रियाः।**
@@ -39,12 +40,14 @@ title = "08 आयुःसत्त्वबलारोग्यसुखप�
 
 17.8 To a man endowed with Sattva, foods preponderating in Sattva become dear. The foods preponderating in Sattva promote longevity. Again they promote intellectual alertness. 'Sattva', means internal organ, viz., knowledge which is the effect of the internal organ is here meant by the term Sattva. For the Sattva is the cause of growth of knowledge, as declared in: 'From Sattva arises knowledge' (14.17). Even as the food preponderant in Sattva is the cause of the growth of knowledge, likewise, they promote strength and health; they also promote pleasure and happiness. As the time of assimilation they, by themselves, promote happiness, viz, by the performance of actions which cause happiness. They are sweet, viz., abundant in sweet juices. They are mixed with oil, viz., wholly oily. They are substantial, viz., they originate substantial effects. They are agreeable viz., they appear to the eye in beautiful forms. Food of this kind, full of Sattva-guna, is dear to the person characterised by Sattva.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.8॥ --,आयुश्च सत्त्वं च बलं च आरोग्यं च सुखं च प्रीतिश्च **आयुःसत्त्वबलारोग्यसुखप्रीतयः** तासां **विवर्धनाः** आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः; ते च **रस्याः** रसोपेताः; **स्निग्धाः** स्नेहवन्तः; **स्थिराः** चिरकालस्थायिनः देहे; **हृद्याः** हृदयप्रियाः **आहाराः सात्त्विकप्रियाः** सात्त्विकस्य इष्टाः॥
 </details>
@@ -114,12 +117,14 @@ liking; are sattvika-priyah, dear to one endowed with sattva.
 आहाराश्चर्व्यचोष्यलेह्यपेयाः सात्त्विकानां प्रियाः। एतैर्लिङ्गैः
 सात्त्विका ज्ञेयाः सात्त्विकत्वमभिलषद्भिश्चैत आदेया इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.8॥ प्रीतिरनन्तरिका। हृद्यत्वं दर्शने। स्थिराश्च न तदैव पक्वा
 भवन्ति। तथा ह्याज्यादयः।
@@ -136,12 +141,14 @@ liking; are sattvika-priyah, dear to one endowed with sattva.
 निर्वृत्तपाकाश्चिरकालं देहे गुणप्रदा इत्यर्थः। असम्भवपरिहाराय तानुदाहरति
 **तथा ही**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.7 -- 17.10॥ आहारोऽपि सत्त्वादिभेदात् त्रिधा श्रद्धावत् +++(S omits श्रद्धावत् )+++ तथा यज्ञतपोदानानि। तदुच्यते -- आहार इत्यादि तामसप्रियम् इत्यन्तम्। याता यामाः यस्य।
 </details>
@@ -150,12 +157,14 @@ liking; are sattvika-priyah, dear to one endowed with sattva.
 
 17.8 See Comment under 17.10
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.8॥ तत्र प्रथममाहाराः -- आयुरिति। सत्त्वगुणोपेतस्य सत्त्वमया आहाराः
 प्रिया भवन्ति। ते चायुर्विवर्द्धनाः -- सत्त्वोपलक्षितं ज्ञानं
@@ -178,10 +187,13 @@ liking; are sattvika-priyah, dear to one endowed with sattva.
 हृदयानन्दकर्त्तारः। एतादृशा आहाराः सात्त्विकानां प्रियाः; भवन्तीति शेषः।
 एवमाहारकर्तारः सात्त्विका ज्ञेया इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.8॥ तत्राहारत्रैविध्यमाह **-- आयुरिति त्रिभिः।** आयुर्जीवितम्;
 सत्त्वमुत्साहः; बलं शक्तिः; आरोग्यं रोगराहित्यम्; सुखं चित्तप्रसादः;
@@ -190,10 +202,13 @@ liking; are sattvika-priyah, dear to one endowed with sattva.
 हृद्या दृष्टमात्रा एव हृदयंगमाः एवंभूता आहारा भक्ष्यभोज्यादयः
 सात्त्विकप्रियाः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.8 Foods which promote longevity, intellectual alertness, strength,
@@ -237,11 +252,13 @@ oleaginous; स्थिराः substantial; हृद्याः agreeable; 
 almonds; green Dal; barley; Parwal; Torai; Karela; plantains; etc.; are Sattvic. Abandon fish; meat; liors; eggs; etc.; ruthlessly if you want to increase Sattva and attain Selfrealisation. The mind is formed of the subtle portion of the food. जैसा अन्न वैसा मन As is the food so is the mind says a Hindi proverb. If you take Sattvic food; the mind also will be Sattvic. The seven elements (Dhatus) of the body (Chyle; blood;
 flesh; fat; bone; marrow and semen) are formed out of food.Ideas or concepts are generated in the mind corresponding to these seven elements. As is the constitution of these elements; so is the constitution of the mind. Just as water is rendered hot when the pot that contains it is placed over the fire; so also the nature and constitution of the mind is according to the nature and constitution of the food or the seven elements.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.8।। आयु, सत्त्वगुण, बल, आरोग्य, सुख और प्रसन्नता बढ़ानेवाले, स्थिर
@@ -294,6 +311,7 @@ flesh; fat; bone; marrow and semen) are formed out of food.Ideas or concepts are
 करने वाले एवं रसयुक्त, स्निग्ध ( घी आदि की चिकनाई से युक्त) स्थिर तथा मन
 को प्रसन्न करने वाले आहार अर्थात् भोज्य पदार्थ सात्त्विक पुरुषों को
 प्रिय होते हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "18 अव्यक्ताद्व्यक्तयः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.18॥ तत्र ब्रह्मणः **अहरागम**समये त्रैलोक्यान्तर्वर्तिन्यो देहेन्द्रियभोग्यभोगस्थानरूपा व्यक्तयश् चतुर्मुखदेहावस्थाद् **अव्यक्तात् प्रभवन्ति।** **तत्र एव** अव्यक्तावस्थाविशेषे चतुर्मुखदेहे **रात्र्यागम**समये प्रलीयन्ते।
@@ -41,12 +42,14 @@ title = "18 अव्यक्ताद्व्यक्तयः"
 
 8.18 Thus, at the dawn of a day of Brahma, the manifest entities existing in the three worlds, possessing body, senses, objects, and places of enjoyment appear from the non-manifest (Avyakta), which is the condition of Brahma's body in that state, and at the beginning of the night they are dissolved into the condition of the unevolved (Avyakta) which forms the body of Brahma then.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.18॥ --,**अव्यक्तात्** अव्यक्तं प्रजापतेः स्वापावस्था तस्मात् अव्यक्तात् **व्यक्तयः** व्यज्यन्त इति व्यक्तयः स्थावरजङ्गमलक्षणाः **सर्वाः** प्रजाः **प्रभवन्ति** अभिव्यज्यन्ते अह्नः आगमः अहरागमः तस्मिन् **अहरागमे** काले ब्रह्मणः प्रबोधकाले। तथा **रात्र्यागमे** ब्रह्मणः स्वापकाले **प्रलीयन्ते** सर्वाः व्यक्तयः **तत्रैव** पूर्वोक्ते **अव्यक्तसंज्ञके**॥ अकृताभ्यागमकृतविप्रणाशदोषपरिहारार्थम् बन्धमोक्षशास्त्रप्रवृत्तिसाफल्यप्रदर्शनार्थम् अविद्यादिक्लेशमूलकर्माशयवशाच्च अवशः भूतग्रामः भूत्वा भूत्वा प्रलीयते इत्यतः संसारे वैराग्यप्रदर्शनार्थं च इदमाह --,
 </details>
@@ -159,12 +162,14 @@ this:
 स्वापकाले पूर्वोक्ताः सर्वा अपि व्यक्तयः प्रलीयन्ते तिरोभवन्ति यत
 आविर्भूतास्तत्रैवाव्यक्तसंज्ञके कारणे प्रागुक्ते स्वापावस्थे प्रजापतौ।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.17 -- 8.19॥ मां प्राप्य न पुनरावृत्तिरिति स्थापयितुं
 अव्यक्ताख्यात्मसामर्थ्यं दर्शयितुं प्रलयादि दर्शयति --
@@ -195,12 +200,14 @@ this:
 इति। न ह्यवान्तरप्रलये सर्वेषामाकाशादीनां भूतानां नाशः नापि विरिञ्चस्य
 पञ्चभूतनाशेऽपि अविनाशित्वमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.17 -- 8.19॥ ननु क एवं जानाति यत् सर्वभुवनेभ्यः पुनरावृत्तिः। ब्रह्मादय एव ही तावत् चिरतरस्थायिनः श्रूयन्ते। ते एव +++(SN अत एव तावत्)+++ कथं पुनरावर्त्तिनः पुनरावर्त्तित्वे हि तेऽपि स्युः प्रभवाप्ययधर्माणाः इत्या\[शङ्कया \] ह -- सहस्रेत्यादि आगम इत्यन्तम्। ये खलु दीर्घदृश्वानः +++(N अदीर्घ -- )+++ ते ब्रह्मणोऽपि रात्रिं दिवं \[ च \] पश्यन्ति प्रलयोदयतया। तथा च अहरहस्त एव विबुध्य निजां निजामेव चेष्टामनुरुध्यन्ते ( -- मवरुध्यन्ते) प्रतिरात्रि च तेषामेव निवृत्तपरिस्पन्दानां +++(S -- परिस्पन्दिनाम्)+++ शक्तिमात्रत्वेनावस्थानम् +++(N -- त्वेनोपस्थानम्)+++। एवं सृष्टौ प्रलये च पुनः पुनर्भावः +++(K [n] -- र्भवः)+++। नान्येऽन्ये उपसृज्यन्ते अपि तु त एव जीवाः। कालकृतस्तु चिरक्षिप्रप्रत्ययात्मा विशेषः। एष च परिच्छेदः प्रजापतीनामप्यस्ति। ततश्च तेऽपि प्रभवाप्ययधर्माण एवेति स्थितम्।
 </details>
@@ -209,12 +216,14 @@ this:
 
 8.18 See Comment under 8.19
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.18॥ परं समष्टिभूतस्याह। पुनरागमे व्यष्टिभूतानां व्यक्तिप्रभवो
 नैमित्तिकश्च रात्र्यागमे लयस्तमाह -- अव्यक्ताद्व्यक्तय इति।
@@ -233,10 +242,13 @@ this:
 तत्रैवाव्यक्तसंज्ञके अक्षरे रात्र्यागमे रात्र्युद्गमे प्रलीयन्ते लीना
 भवन्तीति तद्विदो जनास्तत्र प्रविशन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.18॥ ततः किमत आह **-- अव्यक्तादिति।** कार्यस्याव्यक्तं रूपं
 कारणात्मकं तस्मादव्यक्तात्कारणरूपाद्व्यज्यन्तेऽभिव्यज्यन्त इति
@@ -247,10 +259,13 @@ this:
 अव्यक्ताद्व्यक्तयः प्रभवन्ति यां च रात्रिं विदुस्तस्या,रात्रेरागमे
 प्रलीयन्त इति द्वयोरन्वयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.18 With the coming of day all manifested things emerge from the Unmanifest and when night comes they merge in that itself which is called the Unmanifested.
@@ -277,11 +292,13 @@ this:
 all; प्रभवन्ति proceed; अहरागमे at the coming of day; रात्र्यागमे at the coming of night; प्रलीयन्ते dissolve; तत्र there; एव verily;
 अव्यक्तसंज्ञके in that which is called the Unmanifested.Commentary When Brahma awakes; all manifestations; moving and unmoving (animate and inanimate) stream forth at the coming of the day from the Avyakta or the Unmanifested. When Brahma goes to sleep; all the manifestations merge in the Unmanifested; for the cosmic night has set in.Coming of the day Commencement of creation.Coming of the night Commencement of dissolution. (Cf.IX.7and8)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/18_avyaktAdvyaktayaH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.18।। ब्रह्माजीके दिनके आरम्भकालमें अव्यक्त- (ब्रह्माजीके
@@ -319,6 +336,7 @@ all; प्रभवन्ति proceed; अहरागमे at the coming of
 ।।8.18।। (ब्रह्माजी के) दिन का उदय होने पर अव्यक्त से (यह) व्यक्त (चराचर
 जगत्) उत्पन्न होता है; और (ब्रह्माजी की) रात्रि के आगमन पर उसी अव्यक्त
 में लीन हो जाता है।।
+</details>
 </details>
 
 </div>

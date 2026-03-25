@@ -23,8 +23,9 @@ title = "03 सत्त्वानुरूपा सर्वस्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.3॥ सत्त्वम् अन्तःकरणम्; **सर्वस्य** पुरुषस्य अन्तःकरणानुरूपा **श्रद्धा भवति** अन्तःकरणं यादृशगुणयुक्तम्; तद्विषया श्रद्धा जायते इत्यर्थः। सत्त्वशब्दः पूर्वोक्तानां देहेन्द्रियादीनां प्रदर्शनार्थः।**श्रद्धामयो ऽयं पुरुषः;** श्रद्धामयः श्रद्धापरिणामः **यो यच्छ्रद्धः;** यः पुरुषो यादृश्या श्रद्धया युक्तः; स एव सः स तादृशश्रद्धापरिणामः। पुण्यकर्मविषये श्रद्धायुक्तश् चेत् पुण्यकर्मफलसंयुक्तः भवति इति श्रद्धाप्रधानः फलसंयोग इत्य् उक्तं भवति इति। तद् एव विवृणोति --
@@ -39,12 +40,14 @@ title = "03 सत्त्वानुरूपा सर्वस्य"
 
 17.3 'Sattva' means internal organ (i.e., mind). The faith of everyone is according to his internal organ. The meaning is that with whatever Guna his internal organ is conjoined, one's faith corresponds to that Guna (i.e., Guna as object). The term Sattva covers here body, senses etc., already mentioned. Man consists of faith, viz., is the product of his faith. Of whatever faith he is, viz., with whatever faith a man is possessed, that verily he is; he is a transformation of faith of that nature. The purport is this: If the person is associated with faith in auspicious acts he becomes associated with fruit of these auspicious acts. Conseently, attainment chiefly follows one's faith. Sri Krsna further explains the same subject:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.3॥ --,**सत्त्वानुरूपा** विशिष्टसंस्कारोपेतान्तःकरणानुरूपा **सर्वस्य** प्राणिजातस्य **श्रद्धा भवति भारत।** यदि एवं ततः किं स्यादिति; उच्यते -- **श्रद्धामयः अयं** श्रद्धाप्रायः **पुरुषः** संसारी जीवः। कथम् **यः यच्छ्रद्धः** या श्रद्धा यस्य जीवस्य सः यच्छ्रद्धः **स एव** तच्छ्रद्धानुरूप एव सः जीवः॥ ततश्च कार्येण लिङ्गेन देवादिपूजया सत्त्वादिनिष्ठा अनुमेया इत्याह --,
 </details>
@@ -138,12 +141,14 @@ of his actions such as worship of gods etc. Hence the Lord says:
 या सात्त्विकी राजसी तामसी वा श्रद्धा यस्य स एव श्रद्धानुरूप एव सः
 सात्त्विको राजसस्तामसो वा श्रद्धयैव निष्ठा व्याख्यातेत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.3॥ सत्त्वानुरूपा चित्तानुरूपा। यो यच्छ्रद्धः स एव सः;
 सात्त्विकश्रद्धः सात्विक इत्यादि।
@@ -158,12 +163,14 @@ of his actions such as worship of gods etc. Hence the Lord says:
 व्याचष्टे -- **य** इति। इत्यादि ज्ञातव्यमिति शेषः। राजसश्रद्धो राजसः;
 तामसश्रद्धस्तामस इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.3॥ सत्त्वेति। सत्त्वानुरूपा इत्यत्र सत्त्वशब्दः स्वभावपर्यायः। अयं पुरुषः आत्मा श्रद्धया अन्यव्यापारोपरि वर्तिन्या अवश्यं संबद्धः स च तन्मय एव बोद्धव्यः।
 </details>
@@ -172,12 +179,14 @@ of his actions such as worship of gods etc. Hence the Lord says:
 
 17.3 Sattva etc. The word sattva in 'corresponding to one's own sattva' is a synonym of svabhava 'primary nature'. This person i.e., Soul, is necessarily connected with a faith that dominates all \[his\] other activities. \[Hence\], he is to be deemed just to be mainly consisting of that.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.3॥ तथाहिसत्त्वानुरूपेति। अन्तःकरणधर्मत्वात्सत्त्वानुरूपा
 अन्तःकरणानुरूपा श्रद्धा भवति पूर्वसंस्कारानुगतमन्तःकरणं यादृशं तादृशी
@@ -199,10 +208,13 @@ of his actions such as worship of gods etc. Hence the Lord says:
 सात्त्विकादिभेदेन यच्छ्रद्धः यस्य श्रद्धायुक्तो भवति सः स एव तद्रूप एव
 भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.3॥ ननु च श्रद्धा सात्त्विक्येव सत्त्वकार्यत्वेन त्वयैव भगवता उद्धवं
 प्रति निर्दिष्टत्वात्। यथोक्तम -- शमो दमस्तितिक्षेज्या तपः सत्यं दया
@@ -222,10 +234,13 @@ of his actions such as worship of gods etc. Hence the Lord says:
 शास्त्रजनितविवेकज्ञानयुक्तानां तु स्वभावविजयेन सात्त्विक्येकैव श्रद्धेति
 प्रकरणार्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.3 The faith of everyone, O Arjuna, is in accordance with his internal organ (Antahkarana). Man consists of faith. Whatever his faith is, that verily is he.
@@ -262,11 +277,13 @@ His faith will indicate his Nishtha (state of being; conviction). The faith of e
 is full of faith.The man consists of his faith that which his faith is;
 he is verily that. This theory is only a repetition of the theory propounded in chapter VII; verses 20 and 23; and in chapter IX; verse 25.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/03_sattvAnurUpA_sarv.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.3।। हे भारत ! सभी मनुष्योंकी श्रद्धा अन्तःकरणके अनुरूप होती है। यह
@@ -454,6 +471,7 @@ he is verily that. This theory is only a repetition of the theory propounded in 
 के अनुरूप होती है। यह पुरुष श्रद्धामय है, इसलिए जो पुरुष जिस श्रद्धा
 वाला है वह स्वयं भी वही है अर्थात् जैसी जिसकी श्रद्धा वैसा ही उसका
 स्वरूप होता है।।
+</details>
 </details>
 
 </div>

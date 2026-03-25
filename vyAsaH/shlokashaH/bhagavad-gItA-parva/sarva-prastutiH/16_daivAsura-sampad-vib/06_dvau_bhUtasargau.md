@@ -23,8 +23,9 @@ title = "06 द्वौ भूतसर्गौ"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.6॥**अस्मिन्** कर्म**लोके** कर्मकराणां भूतानां **सर्गौ** द्वौ द्विविधौ; **दैवः** च **आसुरः** च इति। सर्ग उत्पत्तिः; प्राचीनपुण्यपापरूपकर्मवशाद् भगवदाज्ञानुवृत्तितद्विपरीतकरणाय उत्पत्तिकाले एव विभागेन भूतान्य् उत्पद्यन्ते इत्यर्थः। तत्र **दैवः** सर्गो **विस्तरशः** प्रोक्तः। देवानां मदाज्ञानुवर्तिशीलानाम् उत्पत्तिर् यदाचारकरणार्था स आचारः कर्मयोगज्ञानयोगभक्तियोगरूपो विस्तरशः प्रोक्तः। असुराणां सर्गश् च यदाचारकरणार्थस् तम् आचारं मे श्रृणु; मम सकाशाच्छृणु।
@@ -43,12 +44,14 @@ title = "06 द्वौ भूतसर्गौ"
 
 16.6 In this world of works, there are 'two tpyes' of created beings who perform actions, viz., the divine and demoniac. Creation is production. By the force of old Karma of the nature of good and evil deeds, beings are born, divided into two kinds at their very birth for working out the ;ndments of the Lord or act contrary to them. Such is the meaning. Of these, the divine destiny has been told at length. For the purpose of working out their destiny in accordance with the mode of conduct, the creation of the godly, viz., of those devoted to My ;ndments, occurs; that mode of condut, composed of Karma-jnana-and-Bhakti-Yogas has been described at length. To follow what conducts leads to the creation of demons - listen about that conduct.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.6॥ -- **द्वौ** द्विसंख्याकौ **भूतसर्गौ** भूतानां मनुष्याणां सर्गौ सृष्टी भूतसर्गौ सृज्येतेति सर्गौ भूतान्येव सृज्यमानानि दैवासुरसंपद्द्वययुक्तानि इति द्वौ भूतसर्गौ इति उच्येते; द्वया ह वै प्राजापत्या देवाश्चासुराश्च (बृह0 उ₀ 1।3।1) इति श्रुतेः। **लोके अस्मिन्;** संसारे इत्यर्थः; सर्वेषां द्वैविध्योपपत्तेः। कौ तौ भूतसर्गौ इति; उच्येते -- प्रकृतावेव **दैव आसुर एव च।** उक्तयोरेव पुनः अनुवादे प्रयोजनम् आह -- **दैवः** भूतसर्गः अभयं सत्त्वसंशुद्धिः (गीता 16।1) इत्यादिना **विस्तरशः** विस्तरप्रकारैः **प्रोक्तः** कथितः; न तु आसुरः विस्तरशः अतः तत्परिवर्जनार्थम् **आसुरं पार्थ; मे** मम वचनात् उच्यमानं विस्तरशः **श्रृणु** अवधारय॥ आ अध्यायपरिसमाप्तेः आसुरी संपत् प्राणिविशेषणत्वेन प्रदर्श्यते; प्रत्यक्षीकरणेन च शक्यते तस्याः परिवर्जनं कर्तुमिति --,
 </details>
@@ -150,12 +153,14 @@ when this is directly perceived, it becomes possible to eschew it:
 ज्ञातस्य हि परिवर्जनं शक्यते कर्तुमिति हे पार्थेति
 संबन्धसूचनेनानुपेक्षणीयतां दर्शयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.6॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -164,12 +169,14 @@ when this is directly perceived, it becomes possible to eschew it:
 
 ॥16.6॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.6॥ द्वाविति। एषा दैवी संपदुक्ता अभयम् इत्यादिना।
 </details>
@@ -178,12 +185,14 @@ when this is directly perceived, it becomes possible to eschew it:
 
 16.6 Dvau etc. This divine wealth has been described \[by the passage\] 'Fearlessness' etc. Now the demoniac \[wealth\], He describes :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.6॥ द्वौ भूतसर्गाविति। अस्मिन् लोके देवमायांशानां भूतानां द्वौ सर्गौ
 दैव आसुरश्चेति। एव च इत्यनेनाधुना तु दैवेऽप्यासुरभावोदयकाल आयात इति
@@ -206,10 +215,13 @@ when this is directly perceived, it becomes possible to eschew it:
 हे पार्थ कृपापात्र,आसुरः पूर्वं सङ्क्षेपेणोक्तोऽतो मे मत्तो
 विस्तरेणोच्यमानमासुरं सर्गं श्रृणु।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.6॥ आसुरीसंपत्सर्वात्मना वर्जयितव्येत्येतदर्थमासुरीं संपदं
 प्रपञ्चयितुमाह **--** **द्वाविति।** द्वौ द्विप्रकारौ भूतानां सर्गौ मे
@@ -217,10 +229,13 @@ when this is directly perceived, it becomes possible to eschew it:
 अतोराक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः इत्यादिना
 नवमाध्यायोक्तप्रकृतित्रैविध्येनाविरोधः। स्पष्टमन्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.6 There are two types of beings in this world - the divine and the demoniac. The divine has been described at length. Hear from Me, O Arjuna, about the demoniac.
@@ -257,11 +272,13 @@ this; दैवः the divine; आसुरः demonical; एव even; च and; 
 (I.3.1).Bhutasargau Creations of beings; types or classes of creatues.
 Creation here means what is created. The men who are created with the two kinds of nature; the divine and the demonical; are here mentioned as the two creations. Every man in this world comes under the one or the other of the two creations; the divine and the demoniacal.Lord Krishna says to Arjuna; I will now describe to thee the characteristics of those men who are endowed with the devilish alities. If you have an understanding of the demoniacal alities; you will avoid them. The demoniacal nature is described in detail to the very end of this discourse.There is some reference in chapter IX; verses 9; 11 and 12; to the demoniacal nature but as the description is incomplete it is completed in this discourse.The divine nature has been declared in detail by the blessed Lord in the previous chapters -- the state of a Sthitaprajna in chapter II; the state of a Bhagavata in chapter XII and the state of a Trigunatita in chapter XIV and in the first three verses of this discourse.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/06_dvau_bhUtasargau.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.6।। इस लोकमें दो तरहके प्राणियोंकी सृष्टि है -- दैवी और आसुरी।
@@ -456,6 +473,7 @@ Creation here means what is created. The men who are created with the two kinds 
 ।।16.6।। हे पार्थ ! इस लोक में दो प्रकार की भूतिसृष्टि है, दैवी और
 आसुरी। उनमें देवों का स्वभाव (दैवी सम्पदा) विस्तारपूर्वक कहा गया है; अब
 असुरों के स्वभाव को विस्तरश: मुझसे सुनो।।
+</details>
 </details>
 
 </div>

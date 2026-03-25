@@ -23,8 +23,9 @@ title = "04 यजन्ते सात्त्विका"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.4॥ सत्त्वगुणप्रचुराः सात्त्विक्या श्रद्धया युक्ता **देवान् यजन्ते।  
@@ -41,12 +42,14 @@ title = "04 यजन्ते सात्त्विका"
 
 17.4 'Those who have abundance of Sattva ality and are conjoined with Sattvika faith worship the gods. The meaning is this: The faith in the worship (sacrifice) of the gods which causes supreme joy unmixed with pain is of Sattvika nature. The Rajasika types worship Yaksas and Raksasas. And the others, i.e., the Tamasika types, worship the departed ancestors and hosts of Bhutas. The faith born of Rajas brings about limited joy mixed with pain, while the faith born of Tamas gives rise to extremely limited joy which verges almost on pain. Therefore, there is difference in fruits according to the Gunas regarding sacrifices etc., which are enjoined in the Sastras and associated with faith. However, no happiness whatsoever will result from penances, sacrifices etc., not enjoined in the Sastras and therefore antagonistic to My ;ndment. On the contrary, calamity results from them. Sri Krsna proceeds to explain this more fully.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.4॥ --,**यजन्ते** पूजयन्ति **सात्त्विकाः** सत्त्वनिष्ठाः **देवान्; यक्षरक्षांसि राजसाः; प्रेतान् भूतगणांश्च** सप्तमातृकादींश्च **अन्ये यजन्ते तामसाः जनाः**॥ एवं कार्यतो निर्णीताः सत्त्वादिनिष्ठाः शास्त्रविध्युत्सर्गे। तत्र कश्चिदेव सहस्रेषु देवपूजादिपरः सत्त्वनिष्ठो भवति; बाहुल्येन तु रजोनिष्ठाः तमोनिष्ठाश्चैव प्राणिनो भवन्ति। कथम् --,
 </details>
@@ -117,12 +120,14 @@ be sure, creatures are mostly rooted deeply in rajas or tamas. How;
 तेऽन्ये तामसा ज्ञेयाः। अन्य इति पदं त्रिष्वपि वैलक्षण्यद्योतनार्थं
 संबध्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.4॥ कः सात्त्विकश्रद्धः इत्यादि विभज्याऽऽह -- यजन्त इत्यादिना।
 </details>
@@ -134,12 +139,14 @@ be sure, creatures are mostly rooted deeply in rajas or tamas. How;
 श्रद्धास्वरूपम्। प्रतिज्ञातं श्रद्धात्रैविध्यमेवोच्यते अतो नासङ्गतिरिति
 भावः। एतेन सात्त्विका इत्यादेः सात्त्विकश्रद्धा इत्यादिरर्थ उक्तो भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.4 -- 17.6॥ यजन्त इत्यादि आसुरनिश्चयानित्यन्तम्। अचेतनम् अविवेकित्त्वात्। मां च कर्शयन्तः शास्त्रार्थननुष्ठानात्। अत एव ते स्वबुद्धिविरचितां +++(N स्वबुद्धिविचारिताम् )+++ तपश्चर्यां कुर्वणाः प्रत्युत तामसाः।
 </details>
@@ -148,12 +155,14 @@ be sure, creatures are mostly rooted deeply in rajas or tamas. How;
 
 17.4 See Comment under 17.6
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.4॥ तत्र प्रथमानाह -- यजन्त इति। सात्त्विका सत्त्वश्रद्धाप्रकृतयः
 प्रामाणिकान्सात्त्विकान् देवान्यजन्ते। एवमन्यत्। तदेवमुक्तं भागवते
@@ -169,10 +178,13 @@ be sure, creatures are mostly rooted deeply in rajas or tamas. How;
 प्रेतान् भूतगणांश्च यजन्ते तत्तत्पूजारुच्यैव ते तद्रूपा ज्ञातव्या
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.4॥ सात्त्विकादिभेदमेव कार्यभेदेन प्रपञ्चयति **-- यजन्त इति।**
 सात्त्विका जनाः सत्त्वप्रकृतीन्देवानेव यजन्ते पूजयन्ति। राजसास्तु
@@ -181,10 +193,13 @@ be sure, creatures are mostly rooted deeply in rajas or tamas. How;
 तत्तद्देवतानां तु पूजारुचिभिस्तत्तत्पूजकानां सात्त्विकत्वादि
 ज्ञातव्यमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.4 The Sattvika types worship the gods. The Rajasa types worship Yaksas and Raksasas. And the others, the Tamasa types, worship the departed ancestors and hosts of Bhutas.
@@ -217,11 +232,13 @@ and the men of the Tamas (Strand) perform sacrifices intending for the imps, the
 17.4 यजन्ते worship; सात्त्विकाः the Sattvic or pure men; देवान् the gods; यक्षरक्षांसि the Yakshas and the Rakshasas; राजसाः the Rajasic or the passionate; प्रेतान् ghosts; भूतगणान् the hosts of Bhutas or the naturespirits; च and; अन्ये the others; यजन्ते worship; तामसाः the Tamasic; जनाः people.Commentary Lord Krishna; after defining faith;
 tells Arjuna how this faith determines the object of worship. The nature of the faith (whether it is Sattvic; Rajasic or Tamasic) has to be inferred from its characteristic effects; viz.; the worship of the gods and the like. Each man selects his object of worship according to the ruling Guna of his being. The expression of a mans faith depends on the Guna that is predominant in him. A Sattvic man will give his faith the Sattvic expression; a Rajasic man the Rajasic expression and a Tamasic man the Tamasic expression.Sattvic persons or people with Sattvic faith who are devoted to the worship of the gods; are rare in this world.Yakshas are the brothers of Kubera; the lord of wealth gnomes; the spirits that guard wealth.Rakshasas Beings of strength and power such as Nairrita demons giants gifted with illusive powers.Bhutas Ghosts.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/04_yajante_sAttvikA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.4।। सात्त्विक मनुष्य देवताओंका पूजन करते हैं, राजस मनुष्य यक्षों और
@@ -340,6 +357,7 @@ tells Arjuna how this faith determines the object of worship. The nature of the 
 
 ।।17.4।। सात्त्विक पुरुष देवताओं को पूजते हैं और राजस लोग यक्ष और
 राक्षसों को, तथा अन्य तामसी जन प्रेत और भूतगणों को पूजते हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "02 अधियज्ञः कथम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 [[01 इति वीक्षताम्। ]]
@@ -39,12 +40,14 @@ title = "02 अधियज्ञः कथम्"
 
 8.1 8.2 Arjuna said What are that brahman, Adhyatma and Karma which have been mentioned as what should be known by those who aspire for release from old age and death while they take refuge with the Lord; What are Adhibuta and Adhidaiva, which should be known by the aspirants for wealth; Who is Adhiyajna that is to be known by the three groups as their dying hour. In what manner are You to be known by these three groups who are self-controlled;
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.1 -- 8.2॥ --,ते ब्रह्म तद्विदुः कृत्स्नम् (गीता 7।29) इत्यादिना भगवता अर्जुनस्य प्रश्नबीजानि उपदिष्टानि। अतः तत्प्रश्नार्थम् अर्जुनः उवाच -- एषां प्रश्नानां यथाक्रमं निर्णयाय श्रीभगवानुवाच
 --,**श्रीभगवानुवाच --,**
@@ -113,12 +116,14 @@ title = "02 अधियज्ञः कथम्"
 एतत्सर्वं सर्वज्ञत्वात्परमकारुणिकत्वाच्च शरणागतं मांप्रति
 कथयेत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.1 -- 8.2॥ नमः श्रीमते कृष्णाय। ँ़
 मरणकालकर्त्तव्यगत्याद्यस्मिन्नध्याय उपदिशति।
@@ -133,12 +138,14 @@ title = "02 अधियज्ञः कथम्"
 तेनानन्तर्यलक्षणाऽपि सङ्गतिः सिद्धा तत्प्रसङ्गेनैव
 मरणकालकर्तव्याद्युपदेशात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.1 -- 8.2॥ ते ब्रह्म तद्विदुः इत्यादिना यत् भगवता उपक्षिप्तं तत् प्रश्ननवकपूर्वकं +++(S पूर्वं)+++ निर्णयति ( निर्णाययति N निर्वर्णयति) -- किं तद् ब्रह्मेति। अधियज्ञ इति। अधियज्ञः कथम् \[कश्च\] कोऽत्र देहे तिष्ठति इति शेषः।
 </details>
@@ -147,12 +154,14 @@ title = "02 अधियज्ञः कथम्"
 
 8.1-2 What has been introduced by the Bhagavat by saying 'They know that Brahmn etc.,' \[at the end of the last chapter\], the same \[the Sage\] decides by raising nine estions \[as follows\] : Kim tad Brahman etc. Adhiyajnah etc. Who and how is the adhiyajna ; Who in this body ; : 'does reside' may be supplimented.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.2॥ अधियज्ञश्च कः स चाधियज्ञोऽत्र देहे कथ ज्ञेयः। प्रयाणकाले
 चैभिर्नियतात्मभिः कथं ज्ञेयोऽसि।
@@ -175,10 +184,13 @@ title = "02 अधियज्ञः कथम्"
 सेवा च कथं कार्या इत्यादिव्यञ्जितम्। मधुसूदनेति सम्बोधनेन त्वदीयानां
 मरणादिभयाभावे तत्समये त्वं कथं स्वज्ञानमुक्तवानिति ज्ञापितमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.2॥ किंच **-- अधियज्ञ इति।** अत्र देहे यो यज्ञो वर्तते
 तस्मिन्कोऽधियज्ञः। अधिष्ठाता प्रयोजकः फलदाता च क इत्यर्थः। स्वरूपं
@@ -186,10 +198,13 @@ title = "02 अधियज्ञः कथम्"
 यज्ञमधितिष्ठतीत्यर्थः। यज्ञग्रहणं सर्वकर्मणामुपलक्षणार्थम्। अन्तकाले च
 नियतचित्तैः पुरुषैः कथं केनोपायेन ज्ञेयोऽसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.2 O Madhusudana, how, and who, is the entity existing in the sacrifice here in this body; And at the time of death, how are You to be known by people of concentrated minds;
@@ -236,11 +251,13 @@ Is this the Para Brahman (Supreme Being) or any special god Is it of the same fo
 they lose their vitality) how can the man of onepointedness and of steadfast mind know the LordO Lord Madhusudana Thou art allmerciful.
 Thou hast killed Madhu and removed the miseries of the people. Even so Thou canst remove my difficulties and doubts very easily. This is nothing for Thee; the omniscient Lord. (This is the reason why Arjuna addresses the Lord by the name Madhusudana.)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.1 -- 8.2।। अर्जुन बोले -- हे पुरुषोत्तम ! वह ब्रह्म क्या है;
@@ -275,6 +292,7 @@ Thou hast killed Madhu and removed the miseries of the people. Even so Thou cans
 ।।8.2।। और हे मधुसूदन ! यहाँ अधियज्ञ कौन है; और वह इस शरीर में कैसे है;
 और संयत चित्त वाले पुरुषों द्वारा अन्त समय में आप किस प्रकार जाने जाते
 हैं,
+</details>
 </details>
 
 </div>

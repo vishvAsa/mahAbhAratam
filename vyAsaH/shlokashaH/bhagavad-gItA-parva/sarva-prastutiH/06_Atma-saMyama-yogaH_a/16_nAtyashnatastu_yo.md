@@ -23,8 +23,9 @@ title = "16 नात्यश्नतस्तु योगोऽस्ति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.16॥ अत्यशनानशने योगविरोधिन्य् अतिविहारविहारौ च तथातिमात्रस्वप्नजागर्ये तथा च अत्यायासानायासौ।
@@ -39,12 +40,14 @@ title = "16 नात्यश्नतस्तु योगोऽस्ति"
 
 6.16 Over-eating and excessive fasting are opposed to Yoga. So also are excessive recreation and non-recreation, too much of sleep and too much of vigil. So too, are overwork and idleness.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.16॥ **न अत्यश्नतः** आत्मसंमितमन्नपरिमाणमतीत्याश्नतः अत्यश्नतः न **योगः अस्ति। न च एकान्तम् अनश्नतः** योगः अस्ति। यदु ह वा आत्मसंमितमन्नं तदवति तन्न हिनस्ति यद्भूयो हिनस्ति तद्यत् कनीयोऽन्नं न तदवति (शतपथ) इति श्रुतेः। तस्मात् योगी न आत्मसंमितात् अन्नात् अधिकं न्यूनं वा अश्नीयात्। अथवा योगिनः योगशास्त्रे परिपठितात् अन्नपरिमाणात् अतिमात्रमश्नतः योगो नास्ति। उक्तं हि अधर्मशब्दस्य सव्यञ्जनान्नस्य तृतीयमुदकस्य च। वायोः संचरणार्थं तु चतुर्थमवशेषयेत् इत्यादिपरिमाणम्। तथा **न च अतिस्वप्नशीलस्य** योगो भवति **नैव च** अतिमात्रं **जाग्रतो** भवति च **अर्जुन**॥ कथं पुनः योगो भवति इत्युच्यते
 </details>
@@ -142,12 +145,14 @@ again, does Yoga become possibel; This is being stated:
 सिद्ध्यर्थमात्मनः॥ नातिशीते न चैवोष्णे न द्वन्द्वे नानिलान्विते।
 कालेष्वेतेषु युञ्जीत न योगं ध्यानतत्परः॥ इत्यादि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.16॥ अनशनादिनिषेधोऽशक्तस्य। उक्तं
 हिनिद्राशनभयश्वासचेष्टातन्त्रादिवर्जनम्। कृत्वाऽनिमीलिताक्षस्तु शक्तो
@@ -165,12 +170,14 @@ again, does Yoga become possibel; This is being stated:
 कीदृशं इत्यत आह **यावते**ति। आदिपदेनेन्द्रियोत्सेकालस्यादेः सङ्ग्रहः।
 उपायेन साहित्यं नाम तदविरोधित्वम्। तच्चैवम्भूतमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.16 6.17॥ योगोऽस्तीति। युक्ताहारेति। आहारेषु +++(N योऽपि आहारेषु)+++ आह्रियमाणेषु विषयेषु +++(omits विषयेषु)+++। विहारः उपभोगाय प्रवृत्तिः +++(SK [n] उपयोगाय प्रवृत्तिः)+++। तस्याश्च युक्तत्वं नात्यन्तासक्तिर्नात्यन्तपरिवर्जनम्। एवं सर्वत्र। शिष्टं स्पष्टम्। जागरत इत्यादि मुनेः प्रमाणत्वात्+++(N जाग्रत इति मनःप्रमाणत्वात्)+++ वेदवत्। एवमन्यत्रापि।
 </details>
@@ -179,12 +186,14 @@ again, does Yoga become possibel; This is being stated:
 
 6.16 See Comment under 6.17
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.16 6.17॥ तमेव परावृत्त्या द्रढयति नात्यश्नत इति स्पष्टम्। किन्तु
 युक्ताहारविहारस्य योगो दुःखहा भवति।
@@ -198,19 +207,25 @@ again, does Yoga become possibel; This is being stated:
 निद्राशीलस्य सर्वविस्मरणैकस्वभावस्य जाग्रतश्च न चैव योगो
 मत्संयोगोऽस्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.16॥ योगाभ्यासनिष्ठस्याहारादिनियममाह **नेति** द्वाभ्याम्।
 अत्यन्तमधिकं भुञ्जानस्य। एकान्तमत्यन्तमभुञ्जानस्यापि योगः समाधिर्न भवति।
 तथातिनिद्राशीलस्यातिजाग्रतश्च योगो नैवास्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.16 Yoga is not for him who over-eats, nor for him who fasts excessively; not for him, O Arjuna, who sleeps too much, nor for him who stays awake too long.
@@ -244,11 +259,13 @@ nor surely for one who keeps awake.
 one who is awake; न not; एव even; च and; अर्जुन O Arjuna.Commentary In this verse the Lord prescribes the diet for the students of Yoga. You must observe moderation in eating and sleeping. If you eat too much you will feel drowsy; and sleep will overpower you. You will get indigestion; flatulence; diseases of the bowels and the liver. If you eat too little you will get weakness and you will not be able to sit for a long time in meditation. You should eat neither more nor less than what is actually necessary for maintaining the body in a healthy and strong state.It may mean also that success in Yoga is not possible for him who eats more than the antity prescribed in the text books on Yoga.
 They prescribe Half the stomach must be filled with food a arter with water and the remaining fourth must be empty for the free movement of air. This is the Mitahara or moderate diest for a student of Yoga.If you sleep too much you will become lethargic. The mind will be dull and the body will be heavy. You cannot meditate. If you sleep too little you will experience drowsiness. You will sleep during meditation. Keep the golden medium. You will have rapid progress in Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.16।। हे अर्जुन ! यह योग न तो अधिक खानेवालेका और न बिलकुल न
@@ -302,6 +319,7 @@ They prescribe Half the stomach must be filled with food a arter with water and 
 ।।6.16।। परन्तु, हे अर्जुन ! यह योग उस पुरुष के लिए सम्भव नहीं होता, जो
 अधिक खाने वाला है या बिल्कुल न खाने वाला है तथा जो अधिक सोने वाला है या
 सदा जागने वाला है।।
+</details>
 </details>
 
 </div>

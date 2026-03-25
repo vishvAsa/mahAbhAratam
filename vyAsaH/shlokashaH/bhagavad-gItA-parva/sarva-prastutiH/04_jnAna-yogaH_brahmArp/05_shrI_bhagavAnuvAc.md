@@ -26,8 +26,9 @@ title = "05 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.5॥ श्रीभगवानुवाच अनेन जन्मनः सत्यत्वम् उक्तम्बहूनि मे व्यतीतानि जन्मानि इति वचनात् तव च इति दृष्टान्ततया उपादानाच्च। आत्मनो ऽवतारप्रकारं देहयाथात्म्यं जन्महेतुं च आह
@@ -42,12 +43,14 @@ title = "05 श्री भगवानुवाच"
 
 4.5 The Lord said By this, the reality of the Lord's birth is declared in the sentence, 'Many births of Mine have passed.' 'So is it with you' is added by way of illustration. The mode of incarnation, the reality of His body and the cause of His birth are explained in the following verse.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.5॥ **बहूनि मे** मम **व्यतीतानि** अतिक्रान्तानि **जन्मानि तव च** हे **अर्जुन। तानि अहं वेद** जाने **सर्वाणि न त्वं वेत्थ** न जानीषे धर्माधर्मादिप्रतिबद्धज्ञानशक्तित्वात्। अहं पुनः नित्यशुद्धबुद्धमुक्तस्वभावत्वात् अनावरणज्ञानशक्तिरिति वेद अहं हे **परंतप**॥ कथं तर्हि तव नित्येश्वरस्य धर्माधर्माभावेऽपि जन्म इति उच्यते
 </details>
@@ -122,12 +125,14 @@ are the eternal God;' That is beng answered:
 विपरीतदर्शित्वाद्भ्रान्तोऽसीति सूचयति। तदनेन संबोधनद्वयेनावरणविक्षेपौ
 द्वावप्यज्ञानधर्मौ दर्शितौ।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.5॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -137,12 +142,14 @@ are the eternal God;' That is beng answered:
 ॥4.5॥ अत एव ज्ञाताशयो भगवान्तव च न त्वं वेत्सि इति परिहरति।
 अन्यथाऽनुपयुक्तं तन्न वक्तव्यमेव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.5 4.9॥ बहूनि इत्यादि अर्जुन इत्यन्तम्। श्रीभगवान् किल पूर्णषाड्गुण्यत्वात् शरीरसंपर्कमात्ररहितोऽपि स्थितिकारित्वात् कारुणिकतया आत्मांशं सृजति। आत्मा पूर्णषाड्गुण्यः अंशः उपकारकत्वेन अप्रधानभूतो +++(N omit अ)+++ यत्र तत् आत्मांशं शरीरं गृह्णाति इत्यर्थः। अत एवास्य जन्म दिव्यम् यत आत्ममायया योगप्रज्ञया स्वस्वातन्त्रयशक्त्या +++(omits स्व)+++ आरब्धम् न कर्मभिः। कर्मापि दिव्यम् फलदानासमर्थत्वात्। यश्चैवमेतत्तत्त्वं वेत्ति आत्मन्यप्येवमेव मन्यते सोऽवश्यं भगवद्वासुदेवतत्त्वं जानाति।
 </details>
@@ -151,12 +158,14 @@ are the eternal God;' That is beng answered:
 
 4.5 See Comment under 4.9
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.5॥ रूपान्तरेणोपदिष्टवानित्यवतारस्वरूपतः संशयं परिहरन् श्रीभगवानुवाच
 बहूनीति। मे जन्मान्यवतारा बहवो व्यतीताः। अनेनावताराणां
@@ -175,20 +184,26 @@ are the eternal God;' That is beng answered:
 परन्तप उत्कृष्टतपोबलयुक्त तानि मदीयानि त्वं न वेत्थ न जानासि। परन्तपेति
 सम्बोधनेन तपोबलेन न भगवान् ज्ञायते किन्तु तत्कृपयैवेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.5॥ इति पृष्टवन्तमर्जुनं रूपान्तरेणोपदिष्टवानित्यभिप्रायेणोत्तरं
 श्रीभगवानुवाच **बहूनीति।** मम बहूनि जन्मानि तव च व्यतीतानि। तानि
 सर्वाण्यहं वेद जानामि अलुप्तविद्याशक्तित्वात्। त्वं तु न जानासि
 अविद्यावृतत्वात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.5 The Lord said Many births of Mine have passed, O Arjuna, and so is it with you also. I know them all, but you do not know them.
@@ -221,11 +236,13 @@ are the eternal God;' That is beng answered:
 thy; च and; अर्जुन O Arjuna; तानि them; अहम् I; वेद know; सर्वाणि all; न
 not; त्वम् thou; वेत्थ knowest; परन्तप O Parantapa.Commentary You have no intuitional knowledge. The eye of wisdom has not been opened in you on account of your past actions. So your power of vision is limited and therefore you do not know your previous births. But I know them because I am omniscient.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.5।। श्रीभगवान् बोले -- हे परन्तप अर्जुन ! मेरे और तेरे बहुत-से जन्म
@@ -283,6 +300,7 @@ not; त्वम् thou; वेत्थ knowest; परन्तप O Paranta
 ।।4.5।। श्रीभगवान् ने कहा -- हे अर्जुन ! मेरे और तुम्हारे बहुत से जन्म
 हो चुके हैं, (परन्तु) हे परन्तप ! उन सबको मैं जानता हूँ और तुम नहीं
 जानते।।
+</details>
 </details>
 
 </div>

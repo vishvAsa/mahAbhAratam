@@ -23,8 +23,9 @@ title = "35 क्षेत्र-क्षेत्रज्ञयोर्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.34॥**एवम्** उक्तेन प्रकारेण  
@@ -124,12 +125,14 @@ title = "35 क्षेत्र-क्षेत्रज्ञयोर्"
 
 13.35 Those who discern thus in the described manner the difference, namely, the difference between the body and the knower of the body with the eye of knowledge or discrimination, and also the means of deliverance from manifested Prakrti - they attain the highest, namely, the self. They are completely delivered from bondage. Moksa is that by which deliverance is effected. The means of deliverance as already stated consists of alities beginning with modesty (13.7). They, through the knowledge already imparted concerning the differences between the body and the self, know those differences existing between them. Then learning about modesty etc., which form the means of deliverance from Prakrti that has devleoped into material elements constituting the body, they have to practise these virtues, and they will thery be absolutely delivered from bondage and will reach the self marked by infinite knowledge abiding in Its own form.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.35॥ --,**क्षेत्रक्षेत्रज्ञयोः** यथाव्याख्यातयोः **एवं** यथाप्रदर्शितप्रकारेण **अन्तरम्** इतरेतरवैलक्षण्यविशेषं **ज्ञानचक्षुषा** शास्त्राचार्यप्रसादोपदेशजनितम् आत्मप्रत्ययिकं ज्ञानं चक्षुः; तेन ज्ञानचक्षुषा; **भूतप्रकृतिमोक्षं च**; भूतानां प्रकृतिः अविद्यालक्षणा अव्यक्ताख्या; तस्याः भूतप्रकृतेः मोक्षणम् अभावगमनं च **ये विदुः** विजानन्ति; यान्ति गच्छन्ति **ते परं** परमात्मतत्त्वं ब्रह्म; न पुनः देहं आददते इत्यर्थः॥इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये
 
@@ -176,12 +179,14 @@ MISSING
 
 MISSING
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 MISSING
 </details>
@@ -190,12 +195,14 @@ MISSING
 
 MISSING
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 MISSING
 </details>
@@ -204,12 +211,14 @@ MISSING
 
 13.35 Yatha etc. But, how is it that a single Supreme Self pervades many a Field ? This doubt has even been removed by the well known example, the sun. The entire Field : It means [all] the movable and immovable Fields.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 MISSING
 </details>
@@ -218,17 +227,22 @@ MISSING
 
 MISSING
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 MISSING
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 MISSING
@@ -258,11 +272,13 @@ MISSING
 
 13.35 क्षेत्रक्षेत्रज्ञयोः between the Kshetra and the Kshetrajna? एवम् thus? अन्तरम् distinction? ज्ञानचक्षुषा by the eye of knowledge? भूतप्रकृतिमोक्षम् the liberation from the Prakriti of being? च and? ये who? विदुः know? यान्ति go? ते they? परम् the Supreme.Commentary They who know through the eye of intuition opened by meditation and the instructions of the spiritual preceptor and the scriptures? that the field is insentient? the doer? changing and finite? and that the knower of the field (the Self) is pure consciousness? the nondoer? unchanging and infinite? and who also perceive the nonexistence of Nature? ignorance? the Unmanifested? the material cause of being -- they attain the Supreme. Through the attainment of Selfrealisation or knowledge of the Self? they are entirely liberated from the clutches or the influence of Maya (delusion) and ignorance. They do not assume any more bodies. They are not born again. They attain Kaivalya Moksha.In accordance with the doctrine of the Sankhyas? bondage and freedom do not pertain to the Self because It is always unattached and it is the nondoer and nonenjoyer and also without limbs or parts. But on account of Its union with Nature? It assumes agency through superimposition. When ignorance is annihilated through the knowledge of the Self? Nature which is conjoined with the Self is liberated. Then She gives up Her play or dance in front of the Spirit. She has discharged all Her duties well for the sake of the enjoyment and the release (Bhoga and Apavarga) of the Purusha (Spirit). Therefore the Sankhyas declare that bondage and freedom are states of Nature only. Some interpret that the Self is emancipated from the shackles of Nature and Her modifications.(This chapter is known by the name PrakritiPurushaVibhagaYoga also.)Thus in the Upanishads of the glorious Bhagavad Gita? the science of the Eternal? the scripture of Yoga? the dialogue between Sri Krishna and Arjuna? ends the thirteenth discourse entitledThe Yoga of the Distinction BetweenThe Field and the Knower of the Field.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/35_xetra-xetraJNayor.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.35।।इस प्रकार जो ज्ञानरूपी नेत्रसे क्षेत्र और क्षेत्रज्ञके अन्तर-(विभाग-) को तथा कार्य-कारणसहित प्रकृतिसे स्वयंको अलग जानते हैं, वे परमात्माको प्राप्त हो जाते हैं।
@@ -281,6 +297,7 @@ MISSING
 <details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।13.35।। इस प्रकार, जो पुरुष ज्ञानचक्षु के द्वारा क्षेत्र और क्षेत्रज्ञ के भेद को तथा प्रकृति के विकारों से मोक्ष को जानते हैं, वे परम ब्रह्म को प्राप्त होते हैं।।
+</details>
 </details>
 
 </div>

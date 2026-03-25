@@ -26,8 +26,9 @@ title = "09 एवमुक्त्वा हृषीकेशम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 [[अग्रिमम् ईक्षताम्]]
@@ -50,12 +51,14 @@ title = "09 एवमुक्त्वा हृषीकेशम्"
 2.9 - 2.10 Sanjaya said Thus, the Lord, the Supreme Person, introduced the Sastra regarding the self for the sake of Arjuna - whose natural courage was lost due to love and compassion in a misplaced situation, who thought war to be unrighteous even though it was the highest duty for warriors (Ksatriyas), and who took refuge in Sri Krsna to know what his right duty was -, thinking that Arjuna's delusion would not come to an end except by the knowledge of the real nature of the self, and that war was an ordained duty here which, when freed from attachment to fruits, is a means for self-knowledge. Thus, has it been said by Sri Yamunacarya: 'The introduction to the Sastra was begun for the sake of Arjuna, whose mind was agitated by misplaced love and compassion and by the delusion that righteousness was unrighteousness, and who took refuge in Sri Krsna.' The Supreme Person spoke these words as if smiling, and looking at Arjuna, who was thus overcome by grief resulting from ignorance about the real nature of the body and the self, but was nevertheless speaking about duty as if he had an understanding that the self is distinct from the body, and while he (Arjuna), torn between contradictory ideas, had suddenly become inactive standing between the two armies that were getting ready to fight. Sri Krsna said, as if in ridicule, to Arjuna the words beginning with, 'There never was a time when I did not exist' (II. 12), and ending with 'I will release you from all sins; grieve not!' (XVIII. 66) - which have for their contents the real nature of the self, of the Supreme Self, and of the paths of work
 (Karma), knowledge (Jnana) and devotion (Bhakti) which constitute the means for attaining the highest spiritual fulfilment.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 2.9 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -120,12 +123,14 @@ starts from 2.10.
 सर्वज्ञत्वसर्वशक्तित्वसूचकाभ्यां भगवतस्तन्मोहापनोदनमनायाससाध्यमिति
 सूचितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.9॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -136,12 +141,14 @@ starts from 2.11.
 ॥2.9॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.7 2.10॥ कार्पण्येत्यादि। सेनयोरुभयोर्मध्ये इत्यादिनेदं सूचयति संशयाविष्टोऽर्जुनो नैकपक्षेण ( नोऽनेक ) युद्धान्निवृत्तः यत एवमाह स्म शाधि मा त्वां +++(S omits त्वाम्)+++ प्रपन्नम् इति। अतः उभयोरपि ज्ञानाज्ञानयोर्मध्यगः श्रीभगवतानुशिष्यते।
 </details>
@@ -150,12 +157,14 @@ starts from 2.11.
 
 2.9 See Comment under 2.10
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.9॥ एवमुक्त्वाऽर्जुनः किं कृतवानित्यपेक्षायां सञ्जय उवाच एवमिति।
 गुडाका निद्रा तस्या ईशः तन्द्रारहितोऽपि गुडाऽलको वा।
@@ -173,18 +182,24 @@ starts from 2.11.
 त्यक्त्वा कृतार्था भविष्यन्ति इत्यभिप्रायेण। अत एवपार्थास्त्रपूताः
 पदमापुरस्य भाग.3।2।20 इति वचनं गीयते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.9॥ एवमुक्त्वाऽर्जुनः किं कृतवानित्यपेक्षायां संजय उवाच। एवमिति
 स्पष्टार्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.9 Sanjaya said Having spoken thus to Sri Krsna, Arjuna, the coneror of sleep and the scorcher of foes, said, 'I will not fight' and became silent.
@@ -220,11 +235,13 @@ and having declared 'I will not fight', Gudakesa (Arjuna), became silent
 Arjuna (the coneror of sleep); परन्तप destroyer of foes; न योत्स्ये I will not fight; इति thus; गोविन्दम् to Govinda; उक्त्वा having said;
 तूष्णीम् silent; बभूव ह became.No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.9।। संजय बोले - हे शत्रुतापन धृतराष्ट्र! ऐसा कहकर निद्राको जीतनेवाले
@@ -269,6 +286,7 @@ Arjuna (the coneror of sleep); परन्तप destroyer of foes; न यो�
 
 ।।2.9।। संजय ने कहा -- इस प्रकार गुडाकेश परंतप अर्जुन भगवान् हृषीकेश से
 यह कहकर कि हे गोविन्द "मैं युद्ध नहीं करूँगा" चुप हो गया।।
+</details>
 </details>
 
 </div>

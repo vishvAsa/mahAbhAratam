@@ -23,8 +23,9 @@ title = "34 तद्विद्धि प्रणिपातेन"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.34॥ तद् आत्मविषयं ज्ञानम्अविनाशि तु तद् विद्धि (गीता 2।17) इत्य् आरभ्यएषा तेऽभिहिता (गीता 2।39) इत्यन्तेन मया उपदिष्टम् मदुक्तकर्मणि वर्तमानस् त्वं विपाकानुगुणं काले प्रणिपातपरिप्रश्नसेवाभिर् विशदाकारं ज्ञानिभ्यो विद्धि। साक्षात्कृतात्मस्वरूपास् तु **ज्ञानिनः** प्रणिपातादिभिः सेविता ज्ञानबुभुत्सया परितः पृच्छतस् तव आशयम् आलक्ष्य **ज्ञानम् उपदेक्ष्यन्ति। आत्मयाथात्म्यविषयसाक्षात्काररूपस्य लक्षणम् आह**
@@ -41,12 +42,14 @@ title = "34 तद्विद्धि प्रणिपातेन"
 
 4.34 This is the knowledge concerning the self that has been taught by Me in the verses beginning with 'Know that to be indestructibe' (2.17) and ending with 'this has been given to you' (2.39). So engaged in appropriate actions, you can learn, according to the maturity of your competence, this wisdom from the wise, who will explain it to you, if you attend on them through prostrating and estioning and by serving them. The wise are those who have immediate apprehension (or vision) of the true nature of the self. Having been honoured by you through prostration etc., and observing your mental disposition characterised by desire for knowledge which you have evinced by your estions, they will teach you this knowledge. Sri Krsna now speaks of the characterisitcs of knowledge concerning the nature of the self, in the form of direct perception.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.34॥ **तत् विद्धि** विजानीहि येन विधिना प्राप्यते इति। आचार्यान् अभिगम्य **प्रणिपातेन** प्रकर्षेण नीचैः पतनं प्रणिपातः दीर्घनमस्कारः तेन कथं बन्धः कथं मोक्षः का विद्या का चाविद्या इति **परिप्रश्नेन सेवया** गुरुशुश्रूषया एवमादिना। प्रश्रयेण आवर्जिता आचार्या **उपदेक्ष्यन्ति** कथयिष्यन्ति **ते ज्ञानं** यथोक्तविशेषणं **ज्ञानिनः**। ज्ञानवन्तोऽपि केचित् यथावत् तत्त्वदर्शनशीलाः अपरे न अतो विशिनष्टि **तत्त्वदर्शिनः** इति। ये सम्यग्दर्शिनः तैः उपदिष्टं ज्ञानं कार्यक्षमं भवति नेतरत् इति भगवतो मतम्॥ तथा च सति इदमपि समर्थं वचनम्
 </details>
@@ -152,12 +155,14 @@ That being so, the next verse also becomes appropriate:
 बहुत्वविवक्षया। एकस्मादेव तत्त्वसाक्षात्कारवत आचार्यात्तत्त्वज्ञानोदये
 सत्याचार्यान्तरगमनस्य तदर्थमयोगादिति द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.34॥ इदानीमपि ज्ञान्येव। तथाऽप्यभिभवान्मोहः। मा तूक्ता।
 </details>
@@ -170,12 +175,14 @@ That being so, the next verse also becomes appropriate:
 अभिभवात् ज्ञानस्य। अर्जुनस्य ज्ञानित्वे सिद्धे भवेदेतत्। तत्रैव किं
 प्रमाणं इत्यत आह **मा त्वि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.34 4.35॥ तद्विद्धीति। यज्ज्ञात्वेति। तच्च ज्ञानं प्रणिपातेन भक्त्या परिप्रश्नेन ऊहापोहतर्कवितर्कादिभिः सेवया अभ्यासेन जानीहि। यतः एवंभूतस्य तव ज्ञानिनः निजा एव संवित्तिविशेषानुगृहीता इन्द्रियविशेषाः तत्त्वम् उप समीपे देक्ष्यन्ति प्रापयिष्यन्ति। तथाहि ते तत्त्वमेव दर्शयन्तीति तत्त्वदर्शिनः। उक्तं हि योग एव योगस्योपाध्यायः इति।  
   
@@ -186,12 +193,14 @@ That being so, the next verse also becomes appropriate:
 
 4.34 See Comment under 4.35
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.34॥ तत्र साधनमाहुः तद्विद्धीति। प्रथमं प्रणिपातेन
 कायिकेनामानित्वसाधनेन ततश्च वाचिकेन महदुपसदनं गत्वा प्रणयकृतेन
@@ -208,10 +217,13 @@ That being so, the next verse also becomes appropriate:
 योग्यानामुपदेशदातारमहं प्रसन्नो भवामीति पश्यन्त्यतो
 ज्ञानमुपदेक्ष्यन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.34॥ एवंभूतात्मज्ञाने साधनमाह **तद्विद्धीति।** तज्ज्ञानं विद्धि
 प्राप्नुहि। ज्ञानिनां प्रणिपातेन दण्डवन्नमस्कारेण ततः परिप्रश्नेन
@@ -219,10 +231,13 @@ That being so, the next verse also becomes appropriate:
 शास्त्रज्ञास्तत्त्वदर्शिनः अपरोक्षानुभवसंपन्नाश्च ते तुभ्यं
 ज्ञानमुपदेशेन संपादयिष्यन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.34 Know this by prostration, estioning and by service. The wise, who have realised the truth, will instruct you in knowledge.
@@ -257,11 +272,13 @@ by estion; सेवया by service; उपदेक्ष्यन्ति w
 He who has knowledge of the scriptures and who is also established in Brahman will be able to instruct thee in that knowledge and help thee in the attainment of Selfrealisation. Mere prostrations alone will not do.
 They may be tinged with hypocrisy. You must have perfect faith in your Guru and his teaching. You must serve him wholeheartedly with great devotion. Now hypocrisy is not possible.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/34_tadviddhi_praNipA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.34।। उस- (तत्त्वज्ञान-) को (तत्त्वदर्शी ज्ञानी महापुरुषोंके पास
@@ -362,6 +379,7 @@ They may be tinged with hypocrisy. You must have perfect faith in your Guru and 
 ।।4.34।। उस (ज्ञान) को (गुरु के समीप जाकर) साष्टांग प्रणिपात, प्रश्न
 तथा सेवा करके जानो; ये तत्त्वदर्शी ज्ञानी पुरुष तुम्हें ज्ञान का उपदेश
 करेंगे।।
+</details>
 </details>
 
 </div>

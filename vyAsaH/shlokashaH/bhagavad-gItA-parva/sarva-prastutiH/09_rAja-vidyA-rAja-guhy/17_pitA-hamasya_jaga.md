@@ -23,8 +23,9 @@ title = "17 पिताऽहमस्य जगतो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.17॥**अस्य** स्थावरजङ्गमात्मकस्य **जगतः** तत्र तत्र पितृत्वेन मातृत्वेन धातृत्वेन पितामहत्वेन च वर्तमानो ऽहम् एव। अत्र धातृशब्दो मातृपितृव्यतिरिक्ते उत्पत्तिप्रयोजके चेतनविशेषे वर्तते। यत् किञ्चिद् वेद **वेद्यं पवित्रं** पावनं तद् अहम् एव। वेदकश्च वेदबीजभूतः प्रणवो ऽहम् एव। **ऋक्सामयजु**रात्मको वेदश्च अहम् **एव।**
@@ -39,12 +40,14 @@ title = "17 पिताऽहमस्य जगतो"
 
 9.17 Of the world consisting of mobile and immobile entities, I alone am the father, mother, creator and grandfather. Here the term Dhatr stands for one other than the parents who helps in the birth of a particular person. Whatever is known from theVedas as purifying, I alone am that. I am the Pranava, which originates knowledge and forms the seed of the Vedas. I am the Veda comprising Rk, Saman and Yajus.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.17॥ --,**पिता** जनयिता **अहम् अस्य जगतः; माता** जनयित्री; **धाता** कर्मफलस्य प्राणिभ्यो विधाता; **पितामहः** पितुः पिता; **वेद्यं** वेदितव्यम्; **पवित्रं** पावनम् **ओंकारः; ऋक् साम यजुः एव च**॥ किञ्च --,
 </details>
@@ -102,12 +105,14 @@ also) is suggestive of the Atharva-veda.\] Moreover,
 यजुः। एतत्ति्रविधं मन्त्रजातं,कर्मोपयोगि। चकारादथर्वाङ्गिरसोपि
 गृह्यन्ते। एवकारोऽहमेवेत्यवधारणार्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.17॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -116,12 +121,14 @@ also) is suggestive of the Atharva-veda.\] Moreover,
 
 ॥9.17॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.16 -- 9.19॥ ननु कर्म तावत् कारककलापव्याप्तभेदोद्रेकि कथमभिन्नं भगवत्पदं प्रापयतीति उच्यते -- अहं क्रतुरिति अर्जुनेत्यनन्तम्। एकस्यैव निर्भागस्य ब्रह्मतत्त्वस्य परिकल्पित \[भेदवत्\] साधनाधीनं कर्म पुनरेकत्वं निर्वर्तयति क्रियायाः सर्वकारकात्मसाक्षात्कारेणावस्थाने भगवत्पदप्राप्तिं प्रत्यविदूरत्वात्। उक्तं च -- सेयं क्रियात्मिका शक्तिः शिवस्य पशुवर्तिनी।  
   
@@ -134,12 +141,14 @@ also) is suggestive of the Atharva-veda.\] Moreover,
 
 9.17 See Comment under 9.19
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.17॥ किञ्च ब्रह्मयज्ञे जगतो यजमानस्य पिताऽस्मि जनकः सोऽहम्। माता
 चाहम्। धाताऽन्वाधाता। यजमानश्चाहं ब्रह्मैव;ब्रह्मणा हुतं \[4।24\] इति
@@ -156,19 +165,25 @@ also) is suggestive of the Atharva-veda.\] Moreover,
 धाता कर्मफलदाता। पितामहो ब्रह्मा। वेद्यं सर्वज्ञानादिसाधनैर्वेद्यवस्तु।
 पवित्रं पावनम्। कारः अक्षरात्मकब्रह्मबीजम्; ऋगादिः वेदत्रयात्मा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.17॥ किंच **-- पितेति।** धाता कर्मफलविधाता; वेद्यं ज्ञेयं वस्तु;
 पवित्रं शोधकं प्रायश्चित्तात्मकं वा; ओंकारः प्रणवः; ऋग्वेदादयो वेदाश्च
 अहमेव; स्पष्टमन्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.17 I am the father, mother, creator and grandfather of the universe. I am the purifier. I am the syllable Om and also Rk, Saman and the Yajus.
@@ -203,11 +218,13 @@ the dispenser of the fruits of actions; पितामहः grandfather; व�
 Rik; साम Sama; यजुः Yajus; एव also; च and.Commentary Dhata Supporter or sustainer by dispenser of the fruits of actions.Isvara or the Saguna Brahman is the father. MulaPrakriti or the primordial Nature is the mother. The pure Satchidananda Para Brahman (ExistenceKnowledgeBliss Absolute) is the grandfather.Vedyam The one thing to be known. This is the Supreme Being.Pavitram Purifier. I am of the form of a bath in the holy river Ganga and the Gayatri Japa which purify the aspirants externally and internally.Cha and. This includes the AtharvanaVeda also.
 (Cf.XIV.3)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.16 -- 9.18।।****क्रतु मैं हूँ, यज्ञ मैं हूँ, स्वधा मैं हूँ, औषध मैं
@@ -273,6 +290,7 @@ Rik; साम Sama; यजुः Yajus; एव also; च and.Commentary Dhata S
 ।।9.17।। मैं ही इस जगत् का पिता, माता, धाता (धारण करने वाला) और पितामह
 हूँमैं वेद्य (जानने योग्य) वस्तु हूँ, पवित्र, ओंकार, ऋग्वेद, सामवेद और
 यजुर्वेद भी मैं ही हूँ।।
+</details>
 </details>
 
 </div>

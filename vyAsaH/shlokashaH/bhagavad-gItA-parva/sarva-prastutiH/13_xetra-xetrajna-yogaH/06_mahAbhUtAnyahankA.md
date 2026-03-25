@@ -23,8 +23,9 @@ title = "06 महाभूतान्यहङ्कारो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.5॥**महाभूतान्य् अहङ्कारो बुद्धिर् अव्यक्तम् एव च** इति क्षेत्रारम्भकद्रव्याणि; पृथिव्यप्तेजोवाय्वाकाशमहाभूतानि; अहङ्कारो भूतादिः; बुद्धिर् महान्; अव्यक्तं प्रकृतिः। **इन्द्रियाणि दश एकं च पञ्च च इन्द्रियगोचराः;** इति क्षेत्राश्रितानि तत्त्वानि; श्रोत्रत्वक्चक्षुर्जिह्वाघ्राणानि पञ्च ज्ञानेन्द्रियाणि वाक्पाणिपादपायूपस्थानि पञ्च कर्मेन्द्रियाणि; तानि दश; एकम् इति मनः। इन्द्रियगोचराश् च पञ्च शब्दस्पर्शरूपरसगन्धाः।
@@ -45,12 +46,14 @@ taste and smell. Desire, hatred, pleasure and pain, being the transformation of 
 'In the experience of pleasure and pain, the self is said to be the cause' (13.20). The combination of elements serves as the support
 (Adhrti) of the intelligent self. As such, the word Adhrti means substratum. The combination of material elements has arisen as the substratum for the self to experience pleasure and pain, and for aciring worldly experiences and the final release. The combination of elements is formed by substances commencing from the Prakrti and ending with the earth; it is the basis of senses which are endowed with the modifications of the nature of desire, hatred, pleasure and pain. These form a Sanghata or an association of elements. It serves as the basis of the experience of pleasure and pain by the individual self. This is what is said of the Ksetra. This Ksetra has been explained briefly with its modifications and effects. Now certain alities, the effects of the Ksetra, worthy of being acired as being the means for securing the knowledge of the self, are enumerated.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.6॥ -- **महाभूतानि** महान्ति च तानि सर्वविकारव्यापकत्वात् भूतानि च सूक्ष्माणि। स्थूलानि तु इन्द्रियगोचरशब्देन अभिधायिष्यन्ते **अहंकारः** महाभूतकारणम् अहंप्रत्ययलक्षणः। अहंकारकारणं **बुद्धिः** अध्यवसायलक्षणा। तत्कारणम् **अव्यक्तमेव च;** न व्यक्तम् अव्यक्तम् अव्याकृतम् ईश्वरशक्तिः मम माया दुरत्यया (गीता 7।14) इत्युक्तम्। एवशब्दः प्रकृत्यवधारणार्थः एतावत्येव अष्टधा भिन्ना प्रकृतिः। चशब्दः भेदसमुच्चयार्थः। **इन्द्रियाणि दश;** श्रोत्रादीनि पञ्च बुद्ध्युत्पादकत्वात् बुद्धीन्द्रियाणि; वाक्पाण्यादीनि पञ्च कर्मनिर्वर्तकत्वात् कर्मेन्द्रियाणि तानि दश। **एकं च** किं तत् मनः एकादशं संकल्पाद्यात्मकम्। **पञ्च च इन्द्रियगोचराः** शब्दादयो विषयाः। तानि एतानि साङ्ख्याः चतुर्विंशतितत्त्वानि आचक्षते॥
 </details>
@@ -200,12 +203,14 @@ field:
 बुद्धीन्द्रियाणां ज्ञाप्यत्वेन विषयः कर्मेन्द्रियाणां तु कार्यत्वेन।
 तान्येतानि साङ्ख्याश्चतुर्विंशतितत्त्वान्याचक्षते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.6॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -214,12 +219,14 @@ field:
 
 ॥13.6॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.6 -- 13.7॥ महाभूतानीति। इच्छेति। अव्यक्तम् प्रकृतिः। इन्द्रियाणि मनसा सह एकादश। इन्द्रियगोचराः रूपादयः पंच। चेतना दृक्छक्तिः पुरुषः। धृतिरिति -- अन्ते +++(;N अत्रान्ते किल)+++ किल सर्वस्य आ ब्रह्मणः क्रिमिपर्यन्तस्य प्रारब्धे निष्पन्ने वा कार्ये कामक्रोधादिषु च इयतैव मम पर्याप्तं; किमन्येन ईदृशश्चाहं नित्यमेव भूयासम् इति प्राणसन्धारिणी +++(S;N
 -- संधारणी -- साधारणी)+++ धृतिः आश्वासनात्मिका पररहस्यशासनेषु रागशब्दवाच्या
@@ -230,12 +237,14 @@ field:
 
 13.6 See Comment under 13.7
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.6॥ महाभूतेति। तत् क्षेत्रं यद्द्रव्यं तन्महाभूतद्रव्यात्मकं स्थूलं
 यादृक्च अहङ्कारबुद्धिमहतामेकादशेन्द्रियविषयाणां लिङ्गशरीरसूक्ष्मभूतानां
@@ -250,10 +259,13 @@ field:
 इन्द्रियगोचरास्तन्मात्रात्मकाः शब्दादयः पञ्च। एवं चतुर्विंशतितत्त्वानि
 प्रतिपादितानि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.6॥ तत्र क्षेत्रस्वरूपमाह **-- महाभूतानीति द्वाभ्याम्।** महाभूतानि
 भूम्यादीनि पञ्च; अहंकारस्तत्कारणभूतः; बुद्धिर्विज्ञानात्मकं महत्तत्त्वं;
@@ -262,10 +274,13 @@ field:
 इन्द्रियगोचराश्च पञ्चतन्मात्ररूपा एव शब्दादय आकाशादिविशेषगुणतया व्यक्ताः
 सन्त इन्द्रियविषयाः पञ्च; तदेवं चतुर्विंशतितत्त्वान्युक्तानि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.6 The great elements, the Ahankara, the Buddhi, the Avyakta, the ten senses and the one, besides, the five objects of the senses;
@@ -306,11 +321,13 @@ It confers force on egoism and stimultates,aspirations. Every tendency has its o
 It is this mind that has brought Brahman to the condition of the individual soul. It is the storehouse of error; cravings; doubt;
 delusion and ignorance. It is an everrevolving wheel that generates thoughts. It is a miraculous thoughtproducing machine. It creates at one moment. It destroys at the next moment.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.6।। मूल प्रकृति, समष्टि बुद्धि (महत्तत्त्व), समष्टि अहंकार, पाँच
@@ -361,6 +378,7 @@ delusion and ignorance. It is an everrevolving wheel that generates thoughts. It
 
 ।।13.6।। पंच महाभूत, अहंकार, बुद्धि, अव्यक्त (प्रकृति), दस इन्द्रियाँ,
 एक मन, इन्द्रियों के पाँच विषय।।
+</details>
 </details>
 
 </div>

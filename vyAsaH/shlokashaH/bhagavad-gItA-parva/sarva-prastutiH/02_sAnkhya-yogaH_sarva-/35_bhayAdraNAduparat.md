@@ -23,8 +23,9 @@ title = "35 भयाद्रणादुपरतम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.35॥**येषां** कर्णदुर्योधनादीनां महारथानाम् इतः पूर्वं **त्वं** शूरो वैरी इति **बहुमतो भूत्वा** इदानीं युद्धे समुपस्थिते निवृत्तव्यापारतया **लाघवं** सुग्रहतां **यास्यसि।** ते **महारथास् त्वां भयाद्** युद्धाद् **उपरतं मंस्यन्ते।** शूराणां हि वैरिणां शत्रुभयाद् ऋते बन्धुस्नेहादिना युद्धाद् उपरतिर् न उपपद्यते।  
@@ -40,12 +41,14 @@ title = "35 भयाद्रणादुपरतम्"
 
 2.35 Great warriors like Karna, Duryodhana, etc., hitherto held you in high esteem as a heroic enemy. Now by refraining from battle when it has begun, you will appear to them as despicable and easily defeatable. These great warriors will think of you as withdrawing from battle out of fear. Because turning away from battle does not happen in the case of brave enemies through affection etc., for relatives. It can happen only through fear of enemies. Moreover
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.35॥  
   
@@ -107,12 +110,14 @@ many alities.
   
 प्राग्बहुमतोऽभूस्तेषामेव तादृशो भूत्वा लाघवं यास्यसीति वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.35॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -121,12 +126,14 @@ many alities.
 
 ॥2.35॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.34 2.38॥ यद्भयाच्च भवान् युद्धात् निवर्तते +++(K निवर्तेत)+++ तदेव शतशाखमुपनिपतिष्यति भवत इत्याह  
 अथ चेत्यादि। श्लोकपञ्चकमिदम् अभ्युपगम्यवादरूपमुच्यते +++(N उपगम्य)+++ यदि लौकिकेन व्यवहारेणास्ते भवान् तथाप्यवश्यानुष्ठेयमेतत्।
@@ -136,12 +143,14 @@ many alities.
 
 2.35 See Comment under 2.37
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.35॥ यद्यपि त्वं स्वबन्धुहिंसादोषभिया न युद्धमङ्गीकरोषि तथाप्येते तु
 नैवं जानन्तीत्याह भयात् रणादुपरतमिति। महारथा एते एवमजानन्तस्त्वां
@@ -156,19 +165,25 @@ many alities.
 किं भविष्यतीत्यत आह येषां च त्वमिति सार्द्धेन। त्वं येषां बहुमतः
 सम्भावितगुण आसीस्तादृशो भूत्वा लाघवं यास्यसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.35॥ किंच **भयादिति।** येषां बहुगुणत्वेन त्वं पूर्वं संमतोऽभूस्त एव
 भयेन संग्रामात्त्वां निवृत्तं मन्येरन् ततश्च पूर्वं बहुमतो भूत्वा लाघवं
 यास्यसि।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.35 The great warriors will think that you have fled from battle in fear. These men who held you in high esteem will speak lightly of you now.
@@ -201,11 +216,13 @@ will think; त्वाम् thee; महारथाः the great carwarriors
 च and; त्वम् thou; बहुमतः much thought of; भूत्वा having been; यास्यसि
 will receive; लाघवम् lightness.Commentary Duryodhana and others will certainly think that you have fled from the battle from fear of Karna and others; but not through compassion and reverence for elders and teachers. Duryodhana and others who have shown great esteem to you on account of your chivalry; bravery and other noble alities; will think very lightly of you and treat you with contempt.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.35।। महारथीलोग तुझे भयके कारण युद्धसे उपरत (हटा) हुआ मानेंगे। जिनकी
@@ -248,6 +265,7 @@ will receive; लाघवम् lightness.Commentary Duryodhana and others will
 ।।2.35।। और जिनके लिए तुम बहुत माननीय हो उनके लिए अब तुम तुच्छता को
 प्राप्त होओगे, वे महारथी लोग तुम्हें भय के कारण युद्ध से निवृत्त हुआ
 मानेंगे।।
+</details>
 </details>
 
 </div>

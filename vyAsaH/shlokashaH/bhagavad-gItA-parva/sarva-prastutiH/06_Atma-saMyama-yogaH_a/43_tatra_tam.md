@@ -23,8 +23,9 @@ title = "43 तत्र तम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.43॥**तत्र** जन्मनि **तम्** एव **पौर्वदैहिकं** योगविषयं **बुद्धिसंयोगं लभते। ततः** सुप्तप्रबुद्धवद् **भूयः संसिद्धौ यतते।** यथा न अन्तरायहतो भवति तथा यतते।
@@ -39,12 +40,14 @@ title = "43 तत्र तम्"
 
 6.43 - 6.44 There, in that existence, he regains the mental disposition for Yoga that he had in the previous birth. Like one awakened from sleep, he strives again from where he had left before attaining complete success. He strives so as not to be defeated by impediments. This person who has fallen away from Yoga is borne on towards Yoga alone by his previous practice, i.e., by the older practice with regard to Yoga. This power of Yoga is well known. Even a person, who has not engaged in Yoga but has only been desirous of knowing Yoga, i.e., has failed to follow it up, acries once again the same desire to practise Yoga. He then practises Yoga, of which the first stage is Karma Yoga, and transcends Sabda-brahman (or Brahman which is denotable by words). The Sabda-brahman is the Brahman capable of manifesting as gods, men, earth, sky, heaven etc., namely, Prakrti. The meaning is that having been liberated from the bonds of Prakrti, he attains the self which is incapable of being named by such words as gods, men etc., and which comprises solely of knowledge and beatitude. After thus describing the glory of Yoga the verse says:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.43॥ **तत्र** योगिनां कुले **तं बुद्धिसंयोगं** बुद्ध्या संयोगं बुद्धिसंयोगं **लभते पौर्वदेहिकं** पूर्वस्मिन् देहे भवं पौर्वदेहिकम्। **यतते च** प्रयत्नं च करोति **ततः** तस्मात् पूर्वकृतात् संस्कारात् **भूयः** बहुतरं **संसिद्धौ** संसिद्धिनिमित्तं हे **कुरुनन्दन**॥ कथं पूर्वदेहबुद्धिसंयोग इति तदुच्यते
 </details>
@@ -141,12 +144,14 @@ acired in the previous body; That is being answered:
 प्रत्याशङ्केति स वसिष्ठेन नोक्तो भगवता तु परमकारुणिकेनाथवेति पक्षान्तरं
 कृत्वोक्त एव। स्पष्टमन्यत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.43॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -155,12 +160,14 @@ acired in the previous body; That is being answered:
 
 ॥6.43॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md"></div>
 </details>
 
@@ -168,12 +175,14 @@ acired in the previous body; That is being answered:
 
 6.43 See Comment under 6.45
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.43॥ ततः किं तत्राह तत्र तमिति। यतत इति प्रयत्न उक्तः।
 </details>
@@ -187,19 +196,25 @@ acired in the previous body; That is being answered:
 सिद्ध्यर्थं तथा भगवत्प्राप्त्यर्थं यतते यत्नं करोति।
 कुरुनन्दनेतिसम्बोधनं विश्वासार्थम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.43॥ ततः किमत आह **तत्रेति सार्धेन।** तत्र द्विःप्रकारेऽपि जन्मनि
 पूर्वदेहे भवं पौर्वदेहिकं तमेव ब्रह्मविषयया बुद्ध्या संयोगं लभते। ततश्च
 भूयोऽधिकं संसिद्धौ मोक्षे प्रयत्नं करोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.43 There he regains the disposition of mind which he had in his former body, O Arjuna, and from there he strives much more for success inYoga.
@@ -231,11 +246,13 @@ acired in the previous body; That is being answered:
 obtains; पौर्वदेहिकम् acired in his fomer body; यतते strives; च and; ततः
 than that; भूयः more; संसिद्धौ for perfection; कुरुनन्दन O son of the Kurus.Commentary When he takes a human body again in this world his previous exertions and practice in the path of Yoga are not wasted. They bear full fruit now; and hasten his moral and spiritual evolution.Our thoughts and actions are left in our subconscious minds in the form of subtle Samskaras or impressions. Our experiences in the shape of Samskaras; habits and tendencies are also stored up in our subconscious mind. These Samskaras of the past birth are revivified and reenergised in the next birth. The Samskaras of Yogic practices and meditation and the Yogic tendencies will compel the spiritual aspirant to strive with greater vigour than that with which he attempted in the former birth. He will endeavour more strenuously to get more spiritual experiences and to attain to higher planes of realisation than those acired in his previous birth.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.43।। हे कुरुनन्दन ! वहाँपर उसको पूर्वजन्मकृत साधन-सम्पत्ति अनायास ही
@@ -273,6 +290,7 @@ than that; भूयः more; संसिद्धौ for perfection; कुर
 
 ।।6.43।। हे कुरुनन्दन ! वह पुरुष वहाँ पूर्व देह में प्राप्त किये गये
 ज्ञान से सम्पन्न होकर योगसंसिद्धि के लिए उससे भी अधिक प्रयत्न करता है।।
+</details>
 </details>
 
 </div>

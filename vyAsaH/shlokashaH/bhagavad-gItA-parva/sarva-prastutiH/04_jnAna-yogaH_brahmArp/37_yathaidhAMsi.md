@@ -23,8 +23,9 @@ title = "37 यथैधांसि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.37॥ सम्यक् प्रवृद्ध **अग्निः** इन्धनसमुच्चयम् इव आत्मयाथात्म्यज्ञानरूपो ऽग्निर् जीवात्मगतम् अनादिकालप्रवृत्तानेककर्मसञ्चयं भस्मीकरोति।
@@ -39,12 +40,14 @@ title = "37 यथैधांसि"
 
 4.37 The fire of knowledge concerning the real nature of the self reduces to ashes the collection of endless Karmas accumulated from beginningless times, just as a well-kindled fire reduces to ashes a bundle of firewood.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.37॥ **यथा एधांसि** काष्ठानि **समिद्धः** सम्यक् इद्धः दीप्तः **अग्निः भस्मसात्** भस्मीभावं **कुरुते** हे **अर्जुन** ज्ञानमेव अग्निः **ज्ञानाग्निः** **सर्वकर्माणि भस्मसात् कुरुते तथा** निर्बीजीकरोतीत्यर्थः। न हि साक्षादेव ज्ञानाग्निः कर्माणि इन्धनवत् भस्मीकर्तुं शक्नोति। तस्मात् सम्यग्दर्शनं सर्वकर्मणां निर्बीजत्वे कारणम् इत्यभिप्रायः। सामर्थ्यात् येन कर्मणा शरीरम् आरब्धं तत् प्रवृत्तफलत्वात् उपभोगेनैव क्षीयते। अतो यानि अप्रवृत्तफलानि ज्ञानोत्पत्तेः प्राक् कृतानि ज्ञानसहभावीनि च अतीतानेकजन्मकृतानि च तान्येव सर्वाणि भस्मसात् कुरुते॥ यतः एवम् अतः
 </details>
@@ -194,12 +197,14 @@ is so, therefore,
 आरब्धफलानि तु यावद्भोगसमाप्ति तिष्ठन्ति। भोगश्चैकेन देहेनानेकेन वेति न
 विशेषः। विस्तरस्त्वाकरे द्रष्टव्यः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.37॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -208,12 +213,14 @@ is so, therefore,
 
 ॥4.37॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.36 4.37॥ सर्वं कर्माखिलम् (श्लो. 433) इति यदुक्तं तत्स्फुटयितुं प्रथमश्लोकेन अधर्मोऽपि नश्यति इति वदन् सर्वं कर्म इति द्वितीयेन संस्कारलेशोऽपि नावतिष्ठतीति सूचयन् अखिलम् इति व्याचष्टे अपि चेदिति। यथेति। सुसमिद्धोऽभ्यासजातप्रतिपत्तिदार्ढ्यबन्धेन +++(K omits सु)+++ ज्ञानाग्निर्भवति यथा तथा प्रयतनीयमिति भावः ।
 </details>
@@ -222,12 +229,14 @@ is so, therefore,
 
 4.36-37 Api cet etc. Yatha etc. The idea is this : One should exert is such a way so that the fire of knowledge remains well fuelled with the knot of firmness of conviction born of practice.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.37॥ ननु महतो वृजिनतो ज्ञानस्य
 निर्बलत्वप्लवत्वेनात्यल्पत्वादित्याशङ्क्य ज्ञानस्य
@@ -248,20 +257,26 @@ is so, therefore,
 भस्मसात्कुरुते तथा ज्ञानाग्निः ज्ञानरूपोऽग्निः सर्वकर्माणि
 भस्मसात्कुरुते भस्मरूपाण्यग्रेऽस्य फलभोगजननासमर्थानि कुरुते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.37॥ समुद्रवत्स्थितस्यैव पापस्यातिलङ्घनमात्रं नतु पापस्य नाश इति
 भ्रान्तिं दृष्टान्तेन वारयन्नाह **यथेति।** एधांसि काष्ठानि
 प्रदीप्तोऽग्निर्यथा भस्मीभावं नयति तथा आत्मज्ञानरूपोऽग्निः
 प्रारब्धकर्मव्यतिरिक्तानि सर्वाणि कर्माणि भस्मीकरोतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.37 Just as burning fire turns fuel to ashes, O Arjuna, so does the fire of knowledge turn all Karma to ashes.
@@ -297,11 +312,13 @@ so.Commentary Just as the sees that are roasted cannot germinate; so also the ac
 When the knowledge of the Self dawns; all actions with their results are burnt by the fire of that knowledge just as fuel is burnt by the fire.
 When there is no agencymentality (the idea I do this); when there is no desire for the fruits; action is no action at all. It has lost its potency. The fire of knowledge can burn all actions except the Prarabdha Karma; or the result of the past action which has brought this body into existence and which has thus already begun to bear fruits or produce effects.According to some philosophers even the Prarabdha Karma is destroyed by the fire of knowledge. Sri Sankara says in his AparokshanubhutiIn the passage his actions are destroyed when the Supreme is realised the Veda expressly speaks of actions (Karmas) in the plural; in order to signify the destruction of even the Prarabdha.There are three kinds of Karmas or reaction to or fructification of past actions (1) Prarabdha; so much of the past actions as has given rise to the present birth; (2) Sanchita; the balance of the past actions that will give rise to future births -- the storehouse of accumulated actions; and (3) Agami or Kriyamana; acts being done in the present life. If by the knowledge of the Self only the Sanchita and Agami were destroyed and not Prarabdha; the dual number would have been used and not the plural. (Sanskrit grammar has singular; dual and plural numbers). (Cf.IV.1019)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/37_yathaidhAMsi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.37।। हे अर्जुन ! जैसे प्रज्वलित अग्नि ईंधनोंको सर्वथा भस्म कर देती
@@ -343,6 +360,7 @@ When there is no agencymentality (the idea I do this); when there is no desire f
 
 ।।4.37।। जैसे प्रज्जवलित अग्नि ईन्धन को भस्मसात् कर देती है, वैसे ही,
 हे अर्जुन ! ज्ञानरूपी अग्नि सम्पूर्ण कर्मों को भस्मसात् कर देती है।।
+</details>
 </details>
 
 </div>

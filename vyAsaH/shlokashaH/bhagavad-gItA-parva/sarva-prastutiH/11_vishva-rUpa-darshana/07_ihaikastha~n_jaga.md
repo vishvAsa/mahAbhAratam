@@ -23,8 +23,9 @@ title = "07 इहैकस्थञ् जगत्कृत्स्नम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.7॥**इह माम** एकस्मिन् **देहे** तत्र अपि **एकस्थम्** एकदेशस्थं **सचराचरं कृत्स्नं जगत् पश्य। यच् च अन्यद् द्रष्टुम् इच्छसि** तद् अप्य् एकदेहैकदेशे एव पश्य।
@@ -39,12 +40,14 @@ title = "07 इहैकस्थञ् जगत्कृत्स्नम्"
 
 11.7 'Here', in this one body of Mine, and even there, gathered together in a single spot, behold the universe with all mobile and immobile entities. Whatever else you desire to see (i.e., Arjuna's chances of victory), behold that also in one part of this single body.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.7॥ -- **इह एकस्थम्** एकस्मिन्नेव स्थितं **जगत् कृत्स्नं** समस्तं **पश्य अद्य** इदानीं **सचराचरं** सह चरेण अचरेण च वर्तते **मम देहे** **गुडाकेश।** **यच्च अन्यत्** जयपराजयादि; यत् शङ्कसे; यद्वा जयेम यदि वा नो जयेयुः (गीता 2।6) इति यत् अवोचः; तदपि **द्रष्टुं** यदि **इच्छसि**॥ किन्तु --,
 </details>
@@ -101,12 +104,14 @@ icchasi, you would like; drastum, to see them.
 द्रष्टुमशक्यं अद्याधुनैव पश्य। हे गुडाकेश; यच्चान्यज्जयपराजयादिकं
 द्रष्टुमिच्छसि तदपि संदेहोच्छेदाय पश्य।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.7॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -115,12 +120,14 @@ icchasi, you would like; drastum, to see them.
 
 ॥11.7॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.7॥ No commentary.
 </details>
@@ -129,12 +136,14 @@ icchasi, you would like; drastum, to see them.
 
 11.7 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.7॥ किञ्चेहास्मिन्नक्षरस्वरूपे कृत्स्नं जगदेकस्थं
 पश्येत्यनेनविष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् \[10।42\] इति
@@ -154,10 +163,13 @@ icchasi, you would like; drastum, to see them.
 सर्वेषां विभूतित्वेन कथं मारयामीति विचारेण मरणमारणादिरूपं यत्
 द्रष्टुमिच्छसि तत्पश्य।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.7॥ किंच **-- इहेति।** तत्र तत्र परिभ्रमता वर्षकोटिभिरपि
 द्रष्टुमशक्यं कृत्स्नमपि चराचरसहितं जगदिहास्मिन्मम देहेऽवयवरूपेणैकत्रैव
@@ -165,10 +177,13 @@ icchasi, you would like; drastum, to see them.
 जगतश्चावस्थाविशेषादिकम्। जयपराजयादिकं च यदप्यन्यद्द्रष्टुमिच्छसि
 तत्सर्वं पश्य।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.7 Behold here, O Arjuna, the whole universe with its mobile and immobile things centred in My body and whatever else you desire to see.
@@ -202,11 +217,13 @@ whole; पश्य behold; अद्य now; सचराचरम् with the 
 मम My; देहे in body; गुडाकेश O Gudakesa; यत् whatever; च and; अन्यत्
 other; द्रष्टुम् to see; इच्छसि (thou) desirest.Commentary Anyat Other whatever else. Your success or defeat in the war; about which you,have entertained a doubt. (Cf.II.6)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.7।। हे नींदको जीतनेवाले अर्जुन! मेरे इस शरीरके एक देशमें चराचरसहित
@@ -256,6 +273,7 @@ other; द्रष्टुम् to see; इच्छसि (thou) desirest.Co
 ।।11.7।। हे गुडाकेश ! आज (अब) इस मेरे शरीर में एक स्थान पर स्थित हुए
 चराचर सहित सम्पूर्ण जगत् को देखो तथा और भी जो कुछ तुम देखना चाहते हो,
 उसे भी देखो।।
+</details>
 </details>
 
 </div>

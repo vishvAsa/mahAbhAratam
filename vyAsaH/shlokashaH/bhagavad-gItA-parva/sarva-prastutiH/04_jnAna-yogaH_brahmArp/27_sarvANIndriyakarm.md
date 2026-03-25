@@ -23,8 +23,9 @@ title = "27 सर्वाणीन्द्रियकर्माणि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.27॥ अन्ये **ज्ञानदीपिते** मनः**संयमयोगाग्नौ सर्वाणि इन्द्रियकर्माणि प्राणकर्माणि च जुह्वति** मनसा इन्द्रियप्राणानां कर्मप्रवणतानिवारणे प्रयतन्ते इत्यर्थः।
@@ -39,12 +40,14 @@ title = "27 सर्वाणीन्द्रियकर्माणि"
 
 4.27 Some again offer as oblations all the functions of the senses, the activities of the vital breath etc., into the fire of Yoga of restraint of the mind kindled by knowledge. They endeavour to prevent the mind from getting attached to the functions of the senses and vital breaths. That is, by contemplating on the self they sublimate these energies and overcome even the lurking subtle desires for them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.27॥ **सर्वाणि इन्द्रियकर्माणि** इन्द्रियाणां कर्माणि इन्द्रियकर्माणि तथा **प्राणकर्माणि** प्राणो वायुः आध्यात्मिकः तत्कर्माणि आकुञ्चनप्रसारणादीनि तानि **च अपरे आत्मसंयमयोगाग्नौ** आत्मनि संयमः आत्मसंयमः स एव योगाग्निः तस्मिन् आत्मसंयमयोगाग्नौ **जुह्वति** प्रक्षिपन्ति **ज्ञानदीपिते** स्नेहेनेव प्रदीपे विवेकविज्ञानेन उज्ज्वलभावम् आपादिते जुह्वति प्रविलापयन्ति इत्यर्थः॥
 </details>
@@ -171,12 +174,14 @@ knowledge, as if lighted up by oil.
 प्रविलापयन्तीत्यर्थः। अत्र च सर्वाणीति आत्मेति ज्ञानदीपित इति
 विशेषणैरग्नावित्येकवचनेन च पूर्ववैलक्षण्यं सूचितमिति न पौनरुक्त्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.27॥ आत्मसंयमाख्योपायाग्नौ।
 </details>
@@ -186,12 +191,14 @@ knowledge, as if lighted up by oil.
 ॥4.27॥ आत्मसंयमेत्येतद्दुर्गमार्थत्वाद्व्याख्याति **आत्मे**ति। आत्मनो
 मनसः। आत्मसंयमाख्योऽयमुपायः स एवाग्निः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.27 4.28॥ सर्वाणीति। द्रव्ययज्ञा इति। ते च सर्वानिन्द्रियव्यापान् मानसान् व्यापारान् मुखनासिकानिर्गमनमूत्राद्यधोनयनादीन् वायवीयांश्च आत्मनो मनसः +++(N मनसश्च)+++ संयमहेतौ योगनाम्नि ऐकाग्र्यवह्नौ सम्यग्ज्ञानपरिदीपिते ( परिबोधिते) पूरयितव्ये निवेशयन्ति। गृह्यमाणं विषयं संकल्प्यमानं वा तदेकाग्रतयैव परित्यक्तान्यव्यापारया +++(N तत्परित्यक्तान्य )+++ बुद्ध्या गृह्णन्ति इति तात्पर्यम्। तदुक्तं शिवोपनिषदि भावेऽत्यक्ते +++(S N भावे त्यक्ते)+++ निरुद्धा चित् +++(N चेत्)+++  
   
@@ -208,12 +215,14 @@ knowledge, as if lighted up by oil.
 
 4.27 See Comment under 4.28
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.27॥ अपरे ध्याननिष्ठाः ज्ञानेन ध्येयविषयकेण। एवं त्रयो यज्ञकर्त्तारः
 मध्यमजधन्योत्तमा निरूपिताः।
@@ -226,10 +235,13 @@ knowledge, as if lighted up by oil.
 ज्ञानदीपिते ज्ञानेन मत्स्वरूपाप्तितापोन्मुखीकृते आत्मनो मत्प्राप्त्यर्थं
 यः संयमो नियमनं स एवाग्निः सर्वस्यापि स्वकरणरूपस्तस्मिन् जुह्वति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.27॥**सर्वाणीति।** अपरे ध्याननिष्ठाः बुद्धीन्द्रियाणां श्रोत्रादीनां
 कर्माणि श्रवणदर्शनादीनि। कर्मेन्द्रियाणां वाक्पाण्यादीनां कर्माणि
@@ -242,10 +254,13 @@ knowledge, as if lighted up by oil.
 प्रज्वलिते ध्येयं सम्यग्ज्ञात्वा तस्मिन्मनः संयम्य तानि सर्वाणि
 कर्माण्युपरमयन्तीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.27 Some again offer as oblation the functions of the senses and the activity of the vital breaths into the fire of the Yoga of restraint of the mind kindled by knowledge.
@@ -279,11 +294,13 @@ functions of the breath (vital energy); च and; अपरे other;
 आत्मसंयमयोगाग्नौ in the fire of the Yoga of selfrestraitn; जुह्वति
 sacrifice; ज्ञानदीपिते kindled by knowledge.Commentary Just as a lamp is kindled by oil; so also the fire of the Yoga of selfcontrol is kindled by knowledge. When the Yogi concentrates or fixes his mind on Brahman or the Self; the senses and the breath cease to function. The senses and the breath are absorbed into their cause.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.27।। अन्य योगीलोग सम्पूर्ण इन्द्रियोंकी क्रियाओंको और प्राणोंकी
@@ -328,6 +345,7 @@ sacrifice; ज्ञानदीपिते kindled by knowledge.Commentary Jus
 
 ।।4.27।। दूसरे (योगीजन) सम्पूर्ण इन्द्रियों के तथा प्राणों के कर्मों को
 ज्ञान से प्रकाशित आत्मसंयमयोगरूप अग्नि में हवन करते हैं।।
+</details>
 </details>
 
 </div>

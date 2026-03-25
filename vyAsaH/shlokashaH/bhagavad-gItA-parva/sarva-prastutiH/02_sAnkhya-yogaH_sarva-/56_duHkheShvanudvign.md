@@ -23,8 +23,9 @@ title = "56 दुःखेष्वनुद्विग्नमनाः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.56॥ प्रियविश्लेषादि दुःखनिमित्तेषु उपस्थितेषु **अनुद्विग्नमनाः** न दुःखी भवति **सुखेषु विगतस्पृहः** प्रियेषु सन्निहितेष्व् अपि निःस्पृहः **वीतरागभयक्रोधः** अनागतेषु स्पृहा **रागस्तद्रवितः** प्रियविश्लेषाप्रियागमनहेतुदर्शननिमित्तिं दुःखं भयं तद्रहितः प्रियविश्लेषाप्रियागमनहेतुभूतचेतनान्तरगतो दुःखहेतुः स्वमनोविकारः क्रोधस् तद्रहित एवम्भूतो **मुनिः** आत्ममननशीलः **स्थितधीः** इति **उच्यते।  
@@ -41,12 +42,14 @@ title = "56 दुःखेष्वनुद्विग्नमनाः"
 
 2.56 Even when there are reasons for grief like separation from beloved ones, his mind is not perturbed, i.e., he is not aggrieved. He has no longing to enjoy pleasures, i.e., even though the things which he likes are near him, he has no longing for them. He is free from desire and anger; desire is longing for objects not yet obtained; he is free from this. Fear is affliction produced from the knowledge of the factors which cause separation from the beloved or from meeting with that which is not desirable; he is free from this. Anger is a disturbed state of one's own mind which produces affliction and which is aimed at another sentient being who is the cause of separation from the beloved or of confrontation with what is not desirable. He is free from this. A sage of this sort, who constantly meditates on the self, is said to be of firm wisdom. Then, the next state below this is described:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.56॥  
   
@@ -196,12 +199,14 @@ fear and anger.
 एवंचान्योऽपि मुमुक्षुर्दुःखे नोद्विजेत् सुखे न प्रहृष्येत्
 रागभयक्रोधरहितश्च भवेदित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.56॥ तदेव स्पष्टयत्युत्तरैस्त्रिभिः श्लोकैः। एतान्येव ज्ञानोपायानि
 तच्चोक्तम् तद्वै जिज्ञासुभिः साध्यं ज्ञानिनां यत्तु लक्षणम् इति।
@@ -226,12 +231,14 @@ fear and anger.
 शोभनत्वभ्रान्तिःरसो रागो रक्तिः इत्येतैः काम उच्यते तथा शोभनाध्यास
 उच्यते इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.58॥ दुःखेष्विति। सुखदुःखयोर्यस्य रागद्वेषरहिता +++(S विरहिता)+++ वृत्तिः स मुनिरेव स्थितप्रज्ञः नान्यः।
 </details>
@@ -240,12 +247,14 @@ fear and anger.
 
 2.56 Dukkhesu etc. Only that sage whose mental attitude is free from desire and hatred in the midst of pleasure and pain, and not anyone else, is a man-of-stabilized-intellect. This is also proper. For-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.56॥ यानि साधकस्य ज्ञानसाधनानि तानि तस्य स्वाभाविकान्यन्तरङ्गाणि
 चेत्याह दुःखेष्विति।
@@ -259,20 +268,26 @@ fear and anger.
 रागभयक्रोधा यस्मात्तादृशः स्यात् एतदेव फलम्। इयं परिभाषा
 स्थितप्रज्ञस्येति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.56॥ किंच **दुःखेष्विति।** दुःखेषु प्राप्तेष्वप्यनुद्विग्नमक्षुभितं
 मनो यस्य सः। सुखेषु विगता स्पृहा यस्य सः। तत्र हेतुः वीतापगता
 रागभयक्रोधा यस्मात्। तत्र रागः प्रीतिः। स मुनिः स्थितधीः स्थितप्रज्ञ
 इत्युच्यते।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.56 He whose mind is not perturbed in pain, who has no longing for pleasures, who is free from desire, fear and anger - he is called a sage of firm wisdom.
@@ -305,11 +320,13 @@ fear and anger.
 flood; etc.); and Adhibhautika (arising from scorpions; cobras; tigers;
 etc.). When he is placed in an affluent condition he does not long for sensual pleasures. (Cf.IV.10).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.56।। दुःखोंकी प्राप्ति होनेपर जिसके मनमें उद्वेग नहीं होता और
@@ -381,6 +398,7 @@ etc.). When he is placed in an affluent condition he does not long for sensual p
 ।।2.56।। दुख में जिसका मन उद्विग्न नहीं होता सुख में जिसकी स्पृहा
 निवृत्त हो गयी है; जिसके मन से राग; भय और क्रोध नष्ट हो गये हैं; वह मुनि
 स्थितप्रज्ञ कहलाता है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "14 न माम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.14॥ यत इमानि विचित्रसृष्ट्यादीनि **न मां कर्माणि लिम्पन्ति** न मां सम्बध्नन्ति। न मत्प्रयुक्तानि इमानि देवमनुष्यादिवैचित्र्याणि सृज्यानां पुण्यपापरूपकर्मविशेषप्रयुक्तानि इत्यर्थः। अतः प्राप्ताप्राप्तविवेकन विचित्रसृष्ट्यादेर् न अहं कर्ता। यतश्च सृष्टाः क्षेत्रज्ञाः सृष्टिलब्धकरणकलेवराः सृष्टिलब्धं भोग्यजातं फलसङ्गादिहेतुस्वकर्मानुगुणं भुञ्जते सृष्ट्यादि**कर्मफले** च तेषाम् एव स्पृहा इति **न मे स्पृहा।  
@@ -45,12 +46,14 @@ title = "14 न माम्"
 
 4.14 These actions of varied nature like creation etc., do not contaminate Me i.e., do not bind Me. For the distinctions of gods, men etc., are not brought about by Me, but by the particular Karmas, good and evil, of created beings. Therefore by the process of discriminating between the acired and the inherent, it will be found that I am not the author of this varied creations etc. The created or embodied selves, who are endowed with bodies and organs at the time of creation in accordance with their own Karmas springing from attachment to fruits etc., experience all enjoyments available in creation. Thus for them (embodied selves) alone there is desire for the results of creation etc., and for the results of their Karmas. There is no desire in Me for it. The Sutrakara says to the same effect: 'No partiality or cruelty on account of there being dependence (on the Karma of souls for inealities' (Br. S., 2.1.34). Bhagavan Parasara also says so: 'He (the Lord) is only the operative cause in the creation of beings. That from which the creative forces spring constitutes the material cause. Leaving aside the material cause, the being that becomes embodied does not reire the help of any other thing whatever. A thing is led into the condition in which it is, O best of ascetics, only by its own potentiality' (V. P., 1.4.51-2). The Supreme Person is only the operative cause with regard to the creation of those to be created, i.e., the selves in the bodies of gods etc. The material cause for the differences into gods etc., is the potentiality in the form of previous Karmas of the selves to be created. Therefore, leaving aside the operative cause, i.e., the Supreme Person, the creator, the embodied beings do not reire anything else for causing difference into conditions of gods etc. For these selves are led to take the forms of gods etc., by the potentiality of their own old Karma with which they are connected. Such is the meaning. He who knows Me thus to be the agent of creation etc., and still a non-agent, i.e., as one who has no desire for the results of the acts of creation etc., - such a person is not tied by previous actions, i.e., he is freed from the old Karmas which obstruct the undertaking of Karma Yoga by causing attachment to results. Such is the purport.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.14॥ **न मां** तानि **कर्माणि लिम्पन्ति** देहाद्यारम्भकत्वेन अहंकाराभावात्। **न** च तेषां कर्मणां फलेषु मे मम **स्पृहा** तृष्णा। येषां तु संसारिणाम् अहं कर्ता इत्यभिमानः कर्मसु स्पृहा तत्फलेषु च तान् कर्माणि लिम्पन्ति इति युक्तम् तदभावात् न मां कर्माणि लिम्पन्ति। **इति** एवं **यः** अन्योऽपि **माम्** आत्मत्वेन **अभिजानाति** नाहं कर्ता न मे कर्मफले स्पृहा इति **सः कर्मभिः न बध्यते** तस्यापि न देहाद्यारम्भकाणि कर्माणि भवन्ति इत्यर्थः॥ नाहं कर्ता न मे कर्मफले स्पृहा इति
 </details>
@@ -139,12 +142,14 @@ originators of body etc. This is the import.
 लिम्पन्ति इति एवं योऽन्योऽपि मामकर्तारमभोक्तारं चात्मत्वेनाभिजानाति
 कर्मभिर्न स बध्यते। अकर्त्रात्मज्ञानेन मुच्यत इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.14॥ अत एवन मां कर्माणि लिम्पन्ति 4।14 इतश्च न लिम्पन्तीत्याह न मे
 कर्मफले स्पृहेति। इच्छामात्रं त्वस्ति न तु तत्राभिनिवेशः। तच्चोक्तम्
@@ -178,12 +183,14 @@ originators of body etc. This is the import.
 कालक्षणेभ्योऽप्यतिशयेनानन्तस्तथाऽनन्ताः कुत इति होवाच इति
 श्रुत्यन्तरमिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.13 4.14॥ चातुर्वर्ण्यमिति। न मामिति। मम किल कथमाकाशकल्पस्य कर्मभिः लेपः आकाशप्रतिमत्वं कामनाभावात्। इति +++(S इत्यनेन)+++ ज्ञानप्रकारेण यो भगवन्तमेवाश्रयते सर्वत्र सर्वदाआनन्दघनं परमेश्वरमेव न वासुदेवात्परमस्ति किंचित् इति रीत्या +++(N K नीत्या)+++ विमृशति तस्य किं कर्मभिः बन्धः।
 </details>
@@ -192,12 +199,14 @@ originators of body etc. This is the import.
 
 4.13-14 Catur-varnyam etc. Na mam etc. How can there be taint of actions in Me Who remain like the ether ; The comparison with ether is due to the absence of desire \[in both\]. As such etc. : whosoever, with this sort of thought, takes refuge in the Bhagavat i.e. contemplates everywhere at all times on the Bliss-dense Supreme Lord as 'There exits nothing othe than Vasudeva \[the Absolute\]' - for him can there be any bondage by actions ;
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.14॥ तथाहि न मामिति यतो न कर्मफल स्पृहेति इदमेव मम जीवतो
 विलक्षणत्वमिति मां योऽभिजानाति सोऽपि मद्धर्मा भवति।
@@ -210,10 +219,13 @@ originators of body etc. This is the import.
 इन्द्रियादिवत् स्पृहा इच्छा न। इत्यनेन प्रकारेण मां योऽभितो जानाति स
 फलभोगैर्न बध्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.14॥ तदेव दर्शयन्नाह **न मामिति।** कर्माणि विश्व सृष्ट्यादीन्यपि मां
 न लिम्पन्ति आसक्तं न कुर्वन्ति। निरहंकारत्वात्। आप्तकामत्वेन मम कर्मफले
@@ -221,10 +233,13 @@ originators of body etc. This is the import.
 स्पृहाराहित्येन मां योऽभिजानाति सोऽपि कर्मभिर्न बध्यते। मम निर्लेपत्वे
 कारणं निरहंकारत्वनिःस्पृहत्वादिकं जानतस्तस्याप्यहंकारादिशैथिल्यात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.14 Works do not contaminate Me. In Me there is no desire for fruits of actions. He who understands Me thus is not bound by actions.
@@ -258,11 +273,13 @@ originators of body etc. This is the import.
 who; अभिजानाति knows; कर्मभिः by actions; न not; सः he; बध्यते is bound.Commentary As I have neither egoism nor desire for fruits; I am not bound by actions. Wordly people think they are the agents and they perfrom actions. They also expect fruits for their actions. So they take birth again and again. If one works without attachment; without egoism;
 without expectation of fruits; he too will not be bound by actions. He will be freed from birth and death. (Cf.IX.9).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.13 -- 4.14।। मेरे द्वारा गुणों और कर्मोंके विभागपूर्वक चारों
@@ -320,6 +337,7 @@ without expectation of fruits; he too will not be bound by actions. He will be f
 
 ।।4.14।। कर्म मुझे लिप्त नहीं करते; न मुझे कर्मफल में स्पृहा है। इस
 प्रकार मुझे जो जानता है, वह भी कर्मों से नहीं बन्धता है।।
+</details>
 </details>
 
 </div>

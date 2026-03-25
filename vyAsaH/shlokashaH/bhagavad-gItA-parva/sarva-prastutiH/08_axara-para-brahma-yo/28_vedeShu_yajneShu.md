@@ -25,8 +25,9 @@ title = "28 वेदेषु यज्ञेषु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.28॥ ऋग्यजुःसामाथर्वरूपवेदाभ्यासयज्ञतपोदानप्रभृतिषु सर्वेषु पुण्येषु **यत् फलं** निर्दिष्टम् **इदम्** अध्यायद्वयोदितं भगवन्माहात्म्यं **विदित्वा तत् सर्वम् अत्येति** एतद्वेदनसुखातिरेकेण तत् सर्वं तृणवन् मन्यते। **योगी** ज्ञानी **च** भूत्वा ज्ञानिनः प्राप्यम् **परम् आद्यं स्थानम् उपैति। ,**
@@ -43,12 +44,14 @@ title = "28 वेदेषु यज्ञेषु"
 
 8.28 Whatever fruit is said to accrue for meritorious actions in the form of the regular study of the Vedas Rg, Yajus, Saman and Atharvan as also for the performance of sacrifices, austerities, gifts - all these does not transcend on knowing this, namely the greatness of the Lord as taught in the two chapters (7 and 8). By immense joy arising from the knowledge of this, he regards all these results as negligible as straw. Be being a Yogin, viz., a Jnanin, he reaches the supreme, primal abode which is without beginning and is attainable by such a Jnanin.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.28॥ --,**वेदेषु** सम्यगधीतेषु **यज्ञेषु** च साद्गुण्येन अनुष्ठितेषु **तपःसु** च सुतप्तेषु **दानेषु** च सम्यग्दत्तेषु **यद्** एतेषु यत् **पुण्यफलं प्रदिष्टं** शास्त्रेण **अत्येति** अतीत्य गच्छति **तत् सर्वं** फलजातम् **इदं विदित्वा** सप्तप्रश्ननिर्णयद्वारेण उक्तम् अर्थं सम्यक् अवधार्य अनुष्ठाय **योगी परम्** उत्कृष्टम् ऐश्वरं **स्थानम् उपैति** च प्रतिपद्यते **आद्यम्** आदौ भवम् कारणं ब्रह्म इत्यर्थः॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -150,12 +153,14 @@ beginning, i.e. Brahman.
 प्रतिपद्यते च। सर्वकारणं ब्रह्मैव प्राप्नोतीत्यर्थः। तदनेनाध्यायेन
 ध्येयत्वेन तत्पदार्थो व्याख्यातः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.28॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -164,12 +169,14 @@ beginning, i.e. Brahman.
 
 ॥8.28॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.28॥ वेदेष्विति। अत्येति अभिभवति सर्वकर्मसंस्काराणां भगवत्स्मृत्या विफलीकरणात्। सर्वकर्मपरिक्षये च असौ सुखेनैव विन्दति परं शिवमिति।
 </details>
@@ -178,12 +185,14 @@ beginning, i.e. Brahman.
 
 8.28 Vedesu etc. He goes beyond : he humiliates, because he, by his \[constant\] remembrance of the Bhagavat, neutralizes all the mental impression of all the activities. When all the actions (their mental impressions) are destroyed, he easily attains the Supreme Siva.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.28॥ एवं मनस्समाधानार्थं वैराग्यार्थं महापुरुषचिन्तनयोग उक्तः
 तत्फलमाह -- वेदेष्विति। सर्ववेदादिषु यत्पुण्यफलं प्रदिष्टमैहिकमथ
@@ -210,10 +219,13 @@ beginning, i.e. Brahman.
   
 इति श्रीभगवद्गीतामृततरङ्गिण्यामष्टमोऽध्यायः॥8॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.28॥ अध्यायार्थमष्टप्रश्नार्थनिर्णयं सफलमुपसंहरति **-- वेदेष्विति।**
 वेदेष्वध्ययनादिभिः यज्ञेष्वनुष्ठानादिभिः तपःसु कायशोषणादिभिः दानेषु
@@ -222,10 +234,13 @@ beginning, i.e. Brahman.
 इदमष्टप्रश्नार्थनिर्णयेनोक्तं तत्त्वं विदित्वा ततश्च योगी ज्ञानी भूत्वा
 परमुत्कृष्टमाद्यं जगन्मूलभूतस्थानं विष्णोः परमं पदं प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.28 Having known this, the yogi transcends all those results of rigtheous deeds that are declared with regard to the Vedas, sacrifices,
@@ -261,11 +276,13 @@ from the performance of sacrifices properly; from the practice of austerities --
 (primeval); and is the first or ancient.Idam Viditva Having known this.
 Having known properly the answers given by the Lord to the seven estions put by Arjuna at the beginning of this chapter.(This chapter is known by the name Abhyasa Yoga also.)Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the eighth discourse entitledThe Yoga of the Imperishable Brahman. ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.28।। योगी इसको (शुक्ल और कृष्णमार्गके रहस्यको) जानकर वेदोंमें,
@@ -353,6 +370,7 @@ Having known properly the answers given by the Lord to the seven estions put by 
 ।।8.28।। योगी पुरुष यह सब (दोनों मार्गों के तत्त्व को) जानकर वेदाध्ययन,
 यज्ञ, तप और दान करने में जो पुण्य फल कहा गया है, उस सबका उल्लंघन कर जाता
 है और आद्य (सनातन), परम स्थान को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

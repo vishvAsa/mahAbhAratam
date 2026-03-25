@@ -23,8 +23,9 @@ title = "09 इन्द्रियार्थेषु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.8॥**इन्द्रियार्थेषु** **वैराग्यम्** आत्मव्यतिरिक्तेषु विषयेषु सदोषतानुसन्धानेन उद्वेजनम्। **अनहङ्कारः** अनात्मनि देहे आत्माभिमानरहितत्वम्; प्रदर्शनार्थम् इदम्; अनात्मीयेष्व् आत्मीयाभिमानरहितत्वं च अपिविवक्षितम्। **जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम्** -- सशरीरत्वे जन्ममृत्युजराव्याधिदुःखस्वरूपस्य दोषस्य अवर्जनीयत्वानुसन्धानम्।
@@ -39,12 +40,14 @@ title = "09 इन्द्रियार्थेषु"
 
 13.9 'Absence of desire' with regard to sense-objects means dispassion towards all objects different from the spiritual self by the constant awareness of the evil in them. 'Absence of egotism' means freedom from the misconception that the self is the body, which is in reality different from the self. This is only an illustration standing for other misconceptions too. It indicates freedom from the feeling of possession towards things which do not belong to one. 'Perception of evil in birth, death, old age, disease and sorrow' means the constant contemplation on the inevitable evil of birth, death, old age and sorrow while in the body.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.9॥ --,**इन्द्रियार्थेषु** शब्दादिषु दृष्टादृष्टेषु भोगेषु विरागभावो **वैराग्यम् अनहंकारः** अहंकाराभावः **एव च जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनं** जन्म च मृत्युश्च जरा च व्याधयश्च दुःखानि च तेषु जन्मादिदुःखान्तेषु प्रत्येकं दोषानुदर्शनम्। जन्मनि गर्भवासयोनिद्वारनिःसरणं दोषः; तस्य अनुदर्शनमालोचनम्। तथा मृत्यौ दोषानुदर्शनम्। तथा जरायां प्रज्ञाशक्तितेजोनिरोधदोषानुदर्शनं परिभूतता चेति। तथा व्याधिषु शिरोरोगादिषु दोषानुदर्शनम्। तथा दुःखेषु अध्यात्माधिभूताधिदैवनिमित्तेषु। अथवा दुःखान्येव दोषः दुःखदोषः तस्य जन्मादिषु पूर्ववत् अनुदर्शनम् -- दुःखं जन्म; दुःखं मृत्युः; दुःखं जरा; दुःखं व्याधयः। दुःखनिमित्तत्वात् जन्मादयः दुःखम्; न पुनः स्वरूपेणैव दुःखमिति। एवं जन्मादिषु दुःखदोषानुदर्शनात् देहेन्द्रियादिविषयभोगेषु वैराग्यमुपजायते। ततः प्रत्यगात्मनि प्रवृत्तिः करणानामात्मदर्शनाय। एवं,ज्ञानहेतुत्वात् ज्ञानमुच्यते जन्मादिदुःखदोषानुदर्शनम्॥ किञ्च --,
 </details>
@@ -203,12 +206,14 @@ Moreover,
 जन्मादिव्याध्यन्तेषु दुःखरूपदोषस्यानुदर्शनमिति वा। इदं च
 विषयवैराग्यहेतुत्वेनात्मदर्शनस्योपकरोति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.9॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -217,24 +222,28 @@ Moreover,
 
 ॥13.9॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md"></div>
 </details>
 
 <details><summary>शङ्करनारायणः</summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/12_adhyAtmajnAnanity.md"></div>
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.9॥ इन्द्रियार्थेष्विति -- विषयेषु।
 </details>
@@ -247,18 +256,24 @@ Moreover,
 योनिमलादिसम्बन्धः। मृत्युर्भगवद्विस्मरणं; जरा शक्तिह्रासः; व्याधिः
 रोगादिक्लेशः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.9॥ किंच **-- इन्द्रियार्थेष्विति।** जन्मादिषु दुःखदोषयोरनुदर्शनं
 पुनःपुनरालोचनम्। दुःखरूपस्य दोषस्यानुदर्शनमिति वा। स्पष्टमन्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.9 Absence of desire with regard to sense-objects, and also absence of egotism, the perception of evil in birth, death, old age, disease and sorrow;
@@ -296,11 +311,13 @@ Birth is misery. Death is misery. Old age is misery. Sickness is misery.
 Birth; death; etc.; are all miseries; because they produce misery or pain.By such reflection and perception of the evil in these arises indifference to the pleasures of the body and the sensual pleasures.
 Then the mind turns within towards the innermost Self to attain knowledge of the Self. As the perception of the evil of pain in birth helps to obtain knowledge of the Self; it is spoken of as knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.9।। इन्द्रियोंके विषयोंमें वैराग्यका होना, अहंकारका भी न होना और
@@ -486,6 +503,7 @@ Then the mind turns within towards the innermost Self to attain knowledge of the
 
 ।।13.9।। इन्द्रियों के विषय के प्रति वैराग्य, अहंकार का अभाव, जन्म,
 मृत्यु, वृद्धवस्था, व्याधि और दुख में दोष दर्शन...৷৷.।।
+</details>
 </details>
 
 </div>

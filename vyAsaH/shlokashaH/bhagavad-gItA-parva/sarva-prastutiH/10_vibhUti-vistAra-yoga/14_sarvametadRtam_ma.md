@@ -23,8 +23,9 @@ title = "14 सर्वमेतदृतम् मन्ये"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.14॥ अतः **सर्वम् एतद्** यथावस्थितवस्तुकथनं **मन्ये** न प्रशंसाद्यभिप्रायम्। यद् मां प्रत्य् अनन्यसाधारणम् अनवधिकातिशयं स्वाभाविकं तव ऐश्वर्यं कल्याणगुणगणानन्त्यं च वदसि। अतो भगवन् निरतिशयज्ञानशक्तिबलैश्वर्यवीर्यतेजसां निधे **ते व्यक्तिं** व्यञ्जनप्रकारं न हि परिमितज्ञाना **देवा दानवाः** च **विदुः।**
@@ -39,12 +40,14 @@ title = "14 सर्वमेतदृतम् मन्ये"
 
 10.14 Therefore, I deem all this to be a statement of facts as they are in reality, and not merely an exaggeration - all this which You tell me of Your sovereign glory and infinite auspicious attributes which are unie, unbounded, unsurpassed and natural. Therefore, O Lord, O Treasure of unsurpassed knowledge, power, strength, sovereignty, valour and radiance! - neither the gods nor the demons who possess limited knowledge know 'Your manifestation', the way in which You manifest Yourself.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.14॥ --,**सर्वमेतत्** यथोक्तम् ऋषिभिः त्वया च एतत् **ऋतं** सत्यमेव **मन्ये; यत् मां** प्रति **वदसि** भाषसे **हे केशव।** न **हि ते** तव **भगवन्,**व्यक्तिं **प्रभवं** विदुः **न** देवाः; न दानवाः**॥ यतः त्वं देवादीनाम् आदिः; अतः --,**
 </details>
@@ -102,12 +105,14 @@ the gods and others, therefore,
 -- हि यस्मात् हे भगवन् समग्रैश्वर्यादिसंपन्न; ते तव व्यक्तिं प्रभावं
 ज्ञानातिशयशालिनोऽपि देवा न विदुर्नापि दानवा न महर्षय इत्यपि द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.12 -- 10.15॥ ब्रह्म परिपूर्णम्। अथ कस्मादुच्यते परं ब्रह्म ৷৷.
 बृहद्बृहत्या बृंहयति \[अ.शिर.4\] इति च श्रुतिः। बृह बृहि वृद्धाविति
@@ -128,12 +133,14 @@ the gods and others, therefore,
 विभुः। सोऽकामयत इति विविधभवने श्रुत्यन्तरम्। विप्रसम्भ्यो ड्वसंज्ञायाम्
 \[अष्टा.3।2।180\] इति च स्मृतिः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.14॥ No commentary.
 </details>
@@ -142,12 +149,14 @@ the gods and others, therefore,
 
 10.14 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.12 -- 10.14॥ एवं सकलेतरविसजातीयं भगवतो योगप्रभावं
 तादृशविभूतिहेतुत्वं स्वानन्यजनकात्मत्वं च निशम्य तद्विस्तारं ज्ञातुकामो
@@ -176,10 +185,13 @@ the gods and others, therefore,
 स्वरूपं वा न विदुरिति। केशव दुष्टगुणव्याप्तयोरपि मोक्षदायक यत् मां वदसि
 एतत्सर्वं हि निश्चयेन ऋतं मन्ये।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.14॥ अतो ममेदानीं त्वदैश्वर्येऽसंभावना निवृत्तेत्याह **--
 सर्वमिति।** एतद्भवानेव परं ब्रह्मेत्यादि सर्वमप्यृतं सत्यं मन्ये यन्मां
@@ -188,10 +200,13 @@ the gods and others, therefore,
 अस्मदनुग्रहार्थमियमभिव्यक्तिरिति न जानन्ति। दानवाश्चास्मन्निग्रहार्थमिति
 न विदुरेवेति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.14 I deem as true all this that you say to Me, O Krsna. Verily O Lord, neither the gods nor the demons know Your manifestation.
@@ -228,11 +243,13 @@ not; दानवाः demons.Commentary Bhagavan is He; in whom ever exist the
 (dispassion); Aisvarya (lordship); Dharma (virtue); Sri (wealth) and Bala (omnipotence). Also; He Who knows the origin; dissolution and the future of all beings and Who is omniscient; is called Bhagavan.Vyakti Origin.Danavah Demons or the Titans.Arjuna addresses the Lord as Keshava
 (Lord of all) because the Lord knows what is going on in his mind; as He is omniscient. As the Lord is the source of the gods; the demons and others; they cannot comprehend His manifestation or origin. (Cf.IV.6)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.14।। हे केशव ! मेरेसे आप जो कुछ कह रहे हैं, यह सब मैं सत्य मानता
@@ -283,6 +300,7 @@ not; दानवाः demons.Commentary Bhagavan is He; in whom ever exist the
 ।।10.14।। हे केशव ! जो कुछ भी आप मेरे प्रति कहते हैं, इस सबको मैं सत्य
 मानता हूँ। हे भगवन्, आपके (वास्तविक) स्वरूप को न देवता जानते हैं और न
 दानव।।
+</details>
 </details>
 
 </div>

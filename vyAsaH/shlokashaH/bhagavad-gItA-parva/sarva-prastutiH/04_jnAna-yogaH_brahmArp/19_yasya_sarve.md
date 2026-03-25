@@ -23,8 +23,9 @@ title = "19 यस्य सर्वे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.19॥**यस्य** मुमुक्षोः **सर्वे** द्रव्यार्जनादिलौकिककर्मपूर्वकनित्यनैमित्तिककाम्यरूपकर्म**समारम्भाः काम**वर्जिताः फलसङ्गरहिताः **सङ्कल्पवर्जिताः** च। प्रकृत्या तद्गुणैश् च आत्मानम् एकीकृत्य अनुसन्धानं सङ्कल्पः। प्रकृतिवियुक्तात्मस्वरूपानुसन्धानयुक्ततया तद्रहिताः। तम् एवं कर्म कुर्वाणं **पण्डितं** कर्मान्तर्गतात्मयाथात्म्य**ज्ञानाग्निना** **दग्ध**प्राचीन**कर्माणम् आहुः** तत्त्वज्ञाः। अतः कर्मणो ज्ञानाकारत्वम् उपपद्यते। एतद् एव विवृणोति
@@ -39,12 +40,14 @@ title = "19 यस्य सर्वे"
 
 4.19 In the case of an aspirant for release, all undertakings of actions in the form of obligatory, occasional and desiderative acts accomplished through the acisition of materials for their performance as also other works, are free from desire, i.e., are devoid of attachment to fruits. They are devoid of delusive identification. If the mind identifies the self with Prakrti and its Gunas, it is Sankalpa, i.e., 'delusive identification.' Genuine Karma Yoga is free from such identification. Such identification is overcome through contemplation on the real nature of the self as different from Prakrti. Those who know the truth call him a sage, who acts in this way and whose previous Karmas are thery burnt up by the fire of knowledge of the real nature of the self generated along with his actions. He is a true Karma Yogin. Thus that knowledge is involved in true Karma Yoga, is established. Sri Krsna elaborates this point again:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.19॥ **यस्य** यथोक्तदर्शिनः **सर्वे** यावन्तः **समारम्भाः** सर्वाणि कर्माणि समारभ्यन्ते इति समारम्भाः **कामसंकल्पवर्जिताः** कामैः तत्कारणैश्च संकल्पैः वर्जिताः मुधैव चेष्टामात्रा अनुष्ठीयन्ते प्रवृत्तेन चेत् लोकसंग्रहार्थम् निवृत्तेन चेत् जीवनमात्रार्थम्। तं **ज्ञानाग्निदग्धकर्माणं** कर्मादौ अकर्मादिदर्शनं ज्ञानं तदेव अग्निः तेन ज्ञानाग्निना दग्धानि शुभाशुभलक्षणानि कर्माणि यस्य **तम् आहुः** परमार्थतः **पण्डितं बुधाः** ब्रह्मविदः॥ यस्तु अकर्मादिदर्शी सः अकर्मादिदर्शनादेव निष्कर्मा संन्यासी जीवनमात्रार्थचेष्टः सन् कर्मणि न प्रवर्तते यद्यपि प्राक् विवेकतः प्रवृत्तः। यस्तु प्रारब्धकर्मा सन् उत्तरकालमुत्पन्नात्मसम्यग्दर्शनः स्यात् सः सर्वकर्मणि प्रयोजनमपश्यन् ससाधनं कर्म परित्यजत्येव। सः कुतश्चित् निमित्तात् कर्मपरित्यागासंभवे सति कर्मणि तत्फले च सङ्गरहिततया स्वप्रयोजनाभावात् लोकसंग्रहार्थं पूर्ववत् कर्मणि प्रवृत्तोऽपि नैव किञ्चित् करोति ज्ञानाग्निदग्धकर्मत्वात् तदीयं कर्म अकर्मैव संपद्यते इत्येतमर्थं दर्शयिष्यन् आह
 </details>
@@ -155,12 +158,14 @@ of wisdom. By way of pointing out this idea, the Lord says:
 न्यायात्। ज्ञानाग्निदग्धकर्माणं तं बुधा ब्रह्मविदः परमार्थतः
 पण्डितमाहुः। सम्यग्दर्शी हि पण्डित उच्यते नतु भ्रान्त इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.19॥ एतदेव प्रपञ्चयति यस्येत्यादिना श्लोकपञ्चकेन। उक्तप्रकारेण
 ज्ञानाग्निदग्धकर्माणम्।
@@ -174,12 +179,14 @@ of wisdom. By way of pointing out this idea, the Lord says:
 व्याख्यानमसदिति भावेनाह **उक्ते**ति। परमेश्वरस्यैव कर्तृत्वं ज्ञात्वा
 स्वस्य स्वातन्त्र्येण कर्माभावज्ञानमेव ज्ञानाग्निदग्धकर्मत्वमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.19॥ अत एव यस्येति। कामेषु काम्यमानेषु फलेषु संकल्पं विहाय क्रियमाणानि कथितकथयिष्यमाणस्वरूपे ज्ञानाग्नौ अनुप्रवि(वे)श्य दह्यन्ते।
 </details>
@@ -188,12 +195,14 @@ of wisdom. By way of pointing out this idea, the Lord says:
 
 4.19 Yasya etc. The actions, performed without intention for the desirable objects, - i.e., the fruits desired for - are burnt up by putting them into the fire of wisdom, the nature of which has been earlier described , and also is to be described in the seel.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.19॥ एतस्यैव बुद्धिमत्त्वं द्रढयति यस्येति। क्रियासमारम्भाः
 कामफलेममेदं कर्म फलसाधकं इति सङ्कल्पश्च ताभ्यां वर्जिताः स एवम्भूतः
@@ -212,10 +221,13 @@ of wisdom. By way of pointing out this idea, the Lord says:
 दग्धत्वादग्रे तद्भोगवृक्षोत्पत्तिबीजभावरहितं बुधाः भक्ताः पण्डितं
 शास्त्रोक्तसर्वस्वरूपज्ञमाहुः वदन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.19॥ कर्मण्यकर्म यः पश्येत् इति श्रुत्यर्थार्थापत्तिभ्यां
 यदुक्तमर्थद्वयं तदेव स्पष्टयति **यस्येत्यादिपञ्चभिः।**सम्यगारभ्यन्त इति
@@ -225,10 +237,13 @@ of wisdom. By way of pointing out this idea, the Lord says:
 कामः फलविषयस्तदर्थमिदं कर्म कर्तव्यमिति कर्मविषयः संकल्पश्च ताभ्यां
 वर्जितः। शेषं स्पष्टम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.19 He whose every undertaking is free from desire and delusive identification (of the body with the self), whose actions are burnt up in the fire of knowledge - him the wise describe as a sage.
@@ -261,11 +276,13 @@ purposes and whose actions have been burnt by the fire of knowledge, him the wis
 4.19 यस्य whose; सर्वे all; समारम्भाः undertakings; कामसङ्कल्पवर्जिताः
 devoid of desires and purposes; ज्ञानाग्निदग्धकर्माणम् whose actions have been burnt by the fire of knowledge; तम् him; आहुः call; पण्डितम् a sage; बुधाः the wise.Commentary A sage performs actions only with a view to set an example to the masses. Though he works; he does nothing as he has no selfish interests; as his actions are burnt by the fire of wisdom which consists in the realisaion of inaction in action; through the knowledge of the Self or BrahmaJnana. BrahmaJnana is a mighty spiritual fire which consumes the results of all kinds of actions (Karmas); good and bad; and makes the enlightened sage ite free from the bonds of action. The sage who leads a life of perfect renunciation does only what is reired for the bare existence of his body. (Cf.III.19IV.10IV.37).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.19।। जिसके सम्पूर्ण कर्मोंके आरम्भ संकल्प और कामनासे रहित हैं तथा
@@ -352,6 +369,7 @@ devoid of desires and purposes; ज्ञानाग्निदग्धकर
 ।।4.19।। जिसके समस्त कार्य कामना और संकल्प से रहित हैं, ऐसे उस ज्ञानरूप
 अग्नि के द्वारा भस्म हुये कर्मों वाले पुरुष को ज्ञानीजन पण्डित कहते
 हैं।।
+</details>
 </details>
 
 </div>

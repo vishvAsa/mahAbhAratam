@@ -23,8 +23,9 @@ title = "03 एवमेतद्यथात्थ"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.3॥ हे **परमेश्वर एवम् एतद्** इत्य् अवधृतं **यथा आत्थ त्वम् आत्मानं** ब्रवीषि। **पुरुषोत्तम** आश्रितवात्सल्यजलधे तव **ऐश्वरं** त्वदसाधारणं सर्वस्य प्रशासितृत्वे पालयितृत्वे स्रष्ट्टत्वे संहर्तृत्वे भर्तृत्वे कल्याणगुणाकरत्वे परतरत्वे सकलेतरविसजातीयत्वे च अवस्थितं **रूपं द्रष्टुं** साक्षात्कर्तुम् **इच्छामि।**
@@ -39,12 +40,14 @@ title = "03 एवमेतद्यथात्थ"
 
 11.3 O Supreme Lord, it is certain that it is even as you have described Yourself. O Supreme Person, O ocean of compassion for your dependants! I, however, wish to see or wish to realise directly, Your Lordly form peculiar to you - the form as the sovereign, protector, creator, destroyer, supporter of all, the mine of auspicious attributes, supreme and distinct from all other entities.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.3॥ --,**एवमेतत्** नान्यथा **यथा** येन प्रकारेण **आत्थ** कथयसि **त्वम् आत्मानं परमेश्वर।** तथापि **द्रष्टुमिच्छामि** ते तव ज्ञानैश्वर्यशक्तिबलवीर्यतेजोभिः संपन्नम् **ऐश्वरं** वैष्णवं **रूपं पुरुषोत्तम**॥
 </details>
@@ -108,12 +111,14 @@ Knowledge, Sovereignty, Power, Strength, Valour and Formidability.
 संबोधनेन त्वद्वचस्यविश्वासो मम नास्ति दिदृक्षा च महती वर्तत इति
 सर्वज्ञत्वात्त्वं जानासि सर्वान्तर्यामित्वाच्चेति सूचयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.3॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -122,12 +127,14 @@ Knowledge, Sovereignty, Power, Strength, Valour and Formidability.
 
 ॥11.3॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.3॥ No commentary.
 </details>
@@ -136,12 +143,14 @@ Knowledge, Sovereignty, Power, Strength, Valour and Formidability.
 
 11.3 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.3॥ एवमेतदिति। सत्यमेवैतत्; अत्राविश्वासो मम नास्तीति। परं
 तादृश्यैश्वर्यं योगाख्यं यत्र तत्तवैश्वरं रूपं द्रष्टुमिच्छामि। हे
@@ -161,10 +170,13 @@ Knowledge, Sovereignty, Power, Strength, Valour and Formidability.
 ज्ञातस्वरूपस्तद्रूपं दर्शयेत्याह -- द्रष्टुमिति। हे पुरुषोत्तम ते तवैव
 तत्सम्बन्धिनामैश्वरं नानाविलासकं रूपं द्रष्टुमिच्छामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.3॥ किंच **-- एवमिति।**भवाप्ययौ हि भूतानाम् इत्यादि मया श्रुतं यथा
 चेदानीमात्मानं त्वमात्थविष्टभ्याहमिदं कृत्स्नम् इत्येवं कथयसि हे
@@ -172,10 +184,13 @@ Knowledge, Sovereignty, Power, Strength, Valour and Formidability.
 पुरुषोत्तम्; तवैश्वरं ज्ञानैश्वर्यशक्तिबलवीर्यतेजोभिः संपन्नं त्वद्रूपं
 कौतूहलादहं द्रष्टुमिच्छामि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.3 O Supreme Lord, how You described Yourself, even so are You. I wish to see Your Lordly form, O Supreme Person.
@@ -209,11 +224,13 @@ desire; ते Thy; रूपम् form; ऐश्वरम् sovereign; प�
 that of Vishnu as possessed of infinite knowledge; sovereignty; power;
 strength; prowess and splendour.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.3।। हे पुरुषोत्तम ! आप अपने-आपको जैसा कहते हैं, यह वास्तवमें ऐसा ही
@@ -252,6 +269,7 @@ strength; prowess and splendour.
 ।।11.3।। हे परमेश्वर ! आप अपने को जैसा कहते हो, यह ठीक ऐसा ही है।
 (परन्तु) हे पुरुषोत्तम ! मैं आपके ईश्वरीय रूप को प्रत्यक्ष देखना चाहता
 हूँ।।
+</details>
 </details>
 
 </div>

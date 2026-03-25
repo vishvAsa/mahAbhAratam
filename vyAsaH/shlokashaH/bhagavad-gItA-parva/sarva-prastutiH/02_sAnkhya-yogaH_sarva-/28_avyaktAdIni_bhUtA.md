@@ -23,8 +23,9 @@ title = "28 अव्यक्तादीनि भूतानि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.28॥ मनुष्यादि भूतानि सन्त्य् एव द्रव्याण्य् अनुपलब्धपूर्वावस्थान्य् उपलब्धमनुष्यत्वादिमध्यमावस्थान्य् अनुपलब्धोत्तरावस्थानि स्वेषु स्वभावेषु वर्तन्ते इति न तत्र **परिदेवना**निमित्तिम् अस्ति।  
@@ -42,12 +43,14 @@ title = "28 अव्यक्तादीनि भूतानि"
 
 2.28 Human beings etc., (i.e., bodies) exist as entities; their previous stages are unknown, their middle stages in the form of man etc., are known, and their (final) and future stages are unknown. As they thus exist in their own natural stages, there is no cause for grief. After thus saying that there is no cause for grief even according to the view which identifies the body with the self, Sri Krsna proceeds to say that it is hard to find one who can be said to have truly perceived the Atman or spoken about It or heard about It or gained a true conception of It by hearing. For the Atman, which is actually different from the body, is of a wonderful nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.28॥  
   
@@ -192,12 +195,14 @@ then) get destroyed!
   
 शास्त्रीयमर्थं प्रतिपत्तुमर्होऽसि किमिति न प्रतिपद्यस इति सूचयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.28॥ तदेव स्पष्टयति अव्यक्तादीनीति।
 </details>
@@ -206,12 +211,14 @@ then) get destroyed!
 
 ॥2.28॥ स्पष्टनं न जन्ममरणस्वरूपनिरूपणेन।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.29॥ अपि च  
 अव्यक्तादीनीति। नित्यः सन्तु अनित्या वा यस्तावदस्य शोचकस्तं प्रत्येष आदावव्यक्तः अन्ते चाव्यक्तः। मध्ये तस्य व्यक्तता विकारः +++(N omit विकारः)+++ इति। प्रत्युत विकारे शोचनीयं +++(N शोचनीयस्वभावे)+++ न स्वभावे। किं च यत् +++(N omits यत्)+++ तन्मूलकारणं किञ्चिदभिमतं तदेव यथाक्रमं +++(S तथाक्रमविचित्र)+++ विचित्रस्वभावतया स्वात्ममध्ये दर्शिततत्तदनन्तसृष्टिस्थितिसंहृतिवैचित्र्यं +++(S सृष्टिप्रतिसंहृति)+++ नित्यमेव। तथास्वभावेऽपि कास्य +++(S स्वभावमिति कास्य)+++ शोच्यता।
@@ -221,12 +228,14 @@ then) get destroyed!
 
 2.28 Avyaktadini etc. Whether beings are permanent or impermanent, this much is certain : The person, who laments over a given object - as far as that person is concerned, that object is at the beginning unmanifest and at the end also it is unmanifest. Its manifestation in between is therefore a deviation from its natural state, Rather, there may be need to lament over the deviation from natural state and nor over the natural state \[itself\]. Further, whatever has been approved as its root cause, that itself permanently exhibits, within itself, a variety of different and endless creation, sustenance and absorption as its own manifold nature, in a set pattern. Hence what is the necessity for lamenting over the same nature of this (its effect) ; And enowed with the above mentioned nature-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.28॥ पुनरपि साङ्ख्येनैवोपदिशति अव्यक्तादीनीति। भूतानि इत्यत्रैवं
 विवेचनीयम् भूतशब्देन यदि कार्यशरीराणि तदाऽव्यक्तं प्रधानं
@@ -254,10 +263,13 @@ then) get destroyed!
 इत्यर्थः। स्वस्यापि तन्मारणानन्तरं न नरकादिसम्भावना यत उत्पत्तिस्थल एव
 स्वस्यापि नाशो भविष्यति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.28॥ किंच देहादीनां च स्वभावं पर्यालोच्य तदुपाधिके आत्मनो जन्ममरणे च
 शोको न कार्य इत्याह **अव्यक्तादीनीति।** अव्यक्तं प्रधानं तदेवादिः
@@ -267,10 +279,13 @@ then) get destroyed!
 तानीमान्येवंभूतान्येव तत्र तेषु का परिदेवना कः शोकनिमित्तो विलापः।
 प्रतिबुद्धस्य स्वप्नदृष्टवस्तुष्विव शोको न युज्यत इत्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.28 O Arjuna, beings have an unknown beginning, a known middle and an unknown end. What is there to grieve over in all this;
@@ -306,11 +321,13 @@ what; परिदेवना grief.Commentary The physical body is a combinati
 (delusion). Just as planks unite and separate in a river; just as pilgrims unite and separate in a public inn; so also fathers; mothers;
 sons and brothers unite and separate in this world. This world is a very big public inn. People unite and separate.There is no pot in the beginning and in the end. Even if you see the pot in the middle; you should think and feel that it is illusory and does not really exist. So also there is no body in the beginning and in the end. That which does not exist in the beginning and in the end must be illusory in the middle also. You must think and feel that the body does not really exist in the middle as well.He who thus understands the nature of the body and all human relationships based on it; will not grieve.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.28।। हे भारत ! सभी प्राणी जन्मसे पहले अप्रकट थे और मरनेके बाद अप्रकट
@@ -375,6 +392,7 @@ sons and brothers unite and separate in this world. This world is a very big pub
 ।।2.28।। हे भारत ! समस्त प्राणी जन्म से पूर्व और मृत्यु के बाद अव्यक्त
 अवस्था में रहते हैं और बीच में व्यक्त होते हैं। फिर उसमें चिन्ता या शोक
 की क्या बात है ;
+</details>
 </details>
 
 </div>

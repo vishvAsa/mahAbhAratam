@@ -23,8 +23,9 @@ title = "16 अनेकचित्तविभ्रान्ता"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.16॥ अदृष्टेश्वरादिसहकारम् ऋते स्वेन एव सर्वं कर्तुं शक्यम् इति कृत्वा एवं कुर्याम् एतच् च कुर्याम् अन्यच् च कुर्याम् इति **अनेकचित्तविभ्रान्ताः** -- अनेकचित्ततया विभ्रान्ता एवंरूपेण मोहजालेन **समावृताः** **कामभोगेषु** प्रकर्षेण **सक्ताः** मध्ये मृताः **अशुचौ नरके पतन्ति।**
@@ -39,12 +40,14 @@ title = "16 अनेकचित्तविभ्रान्ता"
 
 16.16 As do not accept the need for the help of past Karma and the Lord for their achievements and believe them to be only due to their own efforts, they are 'bewildered' by many thoughts, 'Thus I shall do, this I shall accomplish, and still another I shall achieve.' In this way they are ensnared by the net of delusion. Highly addicted to sensual enjoyments, they die in the middle of such enjoyments and fall into foul Naraka \[Naraka is sometimes translated as hell. This is the Christian conception. In the Hindu view it is purgatory where through intense sufferings the Jiva is purged of sins\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.16॥ --,**अनेकचित्तविभ्रान्ताः** उक्तप्रकारैः अनेकैः चित्तैः विविधं भ्रान्ताः अनेकचित्तविभ्रान्ताः; **मोहजालसमावृताः** मोहः अविवेकः अज्ञानं तदेव जालमिव आवरणात्मकत्वात्; तेन समावृताः। **प्रसक्ताः कामभोगेषु** तत्रैव निषण्णाः सन्तः तेन उपचितकल्मषाः **पतन्ति नरके अशुचौ** वैतरण्यादौ॥
 </details>
@@ -111,12 +114,14 @@ Raurava, Kumbhipaka, and so on.\]
 कामभोगेषु प्रसक्ताः सर्वथा तदेकपराः प्रतिक्षणमुपचीयमानकल्मषाः पतन्ति
 नरके वैतरण्यादौ अशुचौ विण्मूत्रश्लेष्मादिपूर्णे।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.16॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -125,12 +130,14 @@ Raurava, Kumbhipaka, and so on.\]
 
 ॥16.16॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.13 -- 16.16॥ इहमद्येत्यादि अशुचौ इत्यन्तम्। अनेकचित्ता +++(A अनेकचिन्ताः N अनेकचित्तविभ्रान्ताः)+++ इतिनिश्चयाभावात्। अशुचौ निरये; अवीच्यादौ; जन्ममरणसन्ताने च।
 </details>
@@ -139,12 +146,14 @@ Raurava, Kumbhipaka, and so on.\]
 
 16.13-16 Idam adya etc. upto asucau. Endowed with many thoughts etc. For, they do not have any conviction. Into the hell and what is foul : in the \[hell\] Avici and the like and in the regular succession of birth and death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.16॥ अनेकेति। अज्ञश्चार्द्धप्रबुद्धश्च ब्रह्माहमिति यो वदेत्।
 महानरकजालेषु पच्यते नात्र संशयः इति ब्रह्माण्डोक्तेः। दुर्ज्ञाः
@@ -162,20 +171,26 @@ Raurava, Kumbhipaka, and so on.\]
 पापात्मके परमदुःखनिधाने नरके विषयसुखात्मके आसक्त्युत्पादके पतन्ति।
 पतनोक्त्या वैवश्यं ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.16॥ एवंभूता यत्प्राप्नुवन्ति तच्छृणु **-- अनेकेति।** अनेकेषु
 मनोरथेषु प्रवृत्तं चित्तमनेकचित्तं तेन विभ्रान्ताः विक्षिप्ताः मोहमयेन
 जालेन समावृताः; मत्स्या इव सूत्रमयेन जानेन यन्त्रिताः। एवं कामभोगेषु
 सक्ता अभिनिविष्टाः सन्तोऽशुचौ कश्मले नरके पतन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.16 Bewildered by many thoughts, ensnared by the net of delusion,
@@ -210,11 +225,13 @@ addicted to the gratification of lust, they fall into a foul hell.
 entangled in the snare of delusion; प्रसक्ताः addicted; कामभोगेषु to the gratification of lust; पतन्ति (they) fall; नरके into hell; अशुचौ
 foul.Commentary Just as a man utters many incoherent words when he gets delirium or high fever; so also these diabolical men prattle about their desires; sensual enjoyment; etc. They commit,countless sins and so they fall into a foul hell such as the Vaitarani. Delusion is a snare because those who are deluded are entrapped. They are caught like fish in the meshes of the net of delusion. They are enveloped by the net on four sides. They are bewildered as to what to do first and what next. As they are enveloped or covered by delusion; they are bewildered in various ways by entertaining various evil thoughts. They have no discrimination between the proper or beneficial and improper or harmful Sadhanas. The lack of the knowledge of the distinction between these two is Moha. As Mohas is a veil and a cause of bondage it is compared to a net.All the alities mentioned above lead to downfall.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.16।। कामनाओंके कारण तरह-तरहसे भ्रमित चित्तवाले, मोह-जालमें अच्छी
@@ -294,6 +311,7 @@ foul.Commentary Just as a man utters many incoherent words when he gets delirium
 
 ।।16.16।। अनेक प्रकार से भ्रमित चित्त वाले, मोह जाल में फँसे तथा
 विषयभोगों में आसक्त ये लोग घोर, अपवित्र नरक में गिरते हैं।।
+</details>
 </details>
 
 </div>

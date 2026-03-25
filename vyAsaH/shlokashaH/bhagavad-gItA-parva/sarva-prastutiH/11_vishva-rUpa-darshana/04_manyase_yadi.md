@@ -23,8 +23,9 @@ title = "04 मन्यसे यदि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.4॥**तत्** सर्वस्य स्रष्ट्ट सर्वस्य प्रशासितृ सर्वस्य आधारभूतं त्वद्रूपं **मया द्रष्टुं शक्यम् इति यदि मन्यसे; ततो योगेश्वर** योगो ज्ञानादिकल्याणगुणयोगःपश्य मे योगमैश्वरम् (गीता 11।8) इति हि वक्ष्यते। त्वद्व्यतिरिक्तस्य कस्य अप्य् असम्भावितानां ज्ञानबलैश्वर्यवीर्यशक्तितेजसां निधे **आत्मानं** त्वाम् **अव्ययं मे दर्शय त्वम्** अव्ययम् इति क्रियाविशेषणं त्वां सकलं मे दर्शय इत्यर्थः। एवं कौतूहलान्वितेन हर्षगद्गद्कण्ठेन पार्थेन प्रार्थितो भगवान् उवाच --
@@ -40,12 +41,14 @@ title = "04 मन्यसे यदि"
 11.4 If You think that Your form as all-creator, as all-ruler and as all-supporter, can be seen by me, then, O Lord of Yoga - Yoga is the property of having knowledge and other auspicious attributes, for it will be said later on: 'Behold My Lordly Yoga' (11.8) - O treasure of knowledge, strength, sovereignty, valour, power and glory which are inconceivable in any one else! Reveal Yourself to me completely.
 'Avyayam' (completely) is an adverb. The meaning is, 'Reveal everything about Yourself to me.' Thus, prayed to by Arjuna, who was desirous to know, and whose voice was therefore choked with fervour, the Lord said as follows to him:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.4॥ --,**मन्यसे** चिन्तयसि **यदि मया** अर्जुनेन **तत् शक्यं द्रष्टुम् इति प्रभो;** स्वामिन्; **योगेश्वर** योगिनो योगाः; तेषां ईश्वरः योगेश्वरः; हे योगेश्वर। यस्मात् अहम् अतीव अर्थी द्रष्टुम्; **ततः** तस्मात् मे मदर्थं **दर्शय त्वम् आत्मानम्** अव्ययम्॥ एवं चोदितः अर्जुनेन **श्री भगवान् उवाच --,**
 </details>
@@ -108,12 +111,14 @@ Self. Being thus implored by Arjuna,
 योगिनामीश्वर; ततस्त्वदिच्छावशादेव मे मह्यमत्यर्थमर्थिने त्वं परमकारुणिको
 दर्शय चाक्षुषज्ञानविषयीकारय आत्मानमैश्वररूपविशिष्टमव्ययमक्षयम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.4॥ प्रभुः समर्थःनास्ति तस्मात्परं भूतं पुरुषाद्वै सनातनात् इति
 मोक्षधर्मे ()प्रभुरीशः समर्थश्च इत्याद्यभिधानम्।
@@ -127,12 +132,14 @@ Self. Being thus implored by Arjuna,
 प्रमाणमाह -- **नास्ती**ति। भूतं समर्थम्। प्रभुशब्दस्य
 समर्थार्थत्वेऽभिधानमाह -- **प्रभुरि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.4॥ No commentary.
 </details>
@@ -141,12 +148,14 @@ Self. Being thus implored by Arjuna,
 
 11.4 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.4॥ तत्रापि न मत्कृत्या लभ्यमिदं किन्तु त्वदिच्छयैवेत्याह -- मन्यसे
 यदीति। योगेश्वरेति साधारणो यो योगी भवति सोऽपि स्वमाहात्म्यं दर्शयति;
@@ -169,20 +178,26 @@ Self. Being thus implored by Arjuna,
 एतन्मनोरथपूर्त्यनन्तरम्। अव्ययमविनाशिनं आत्मानं पुरुषोत्तममानन्दमयं
 दर्शयेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/04_manyase_yadi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/04_manyase_yadi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.4॥ न चाहं द्रष्टुमिच्छामीत्येतावतैव त्वया तद्रूपं दर्शयितव्यम्।
 किं तर्हि **-- मन्यस इति।** योगिन एव योगास्तेषामीश्वर; मयार्जुनेन
 तद्रूपं द्रष्टुं शक्यमिति यदि मन्यसे ततस्तर्हि तद्रूपवन्तमात्मानमव्ययं
 नित्यं मम दर्शय।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.4 If you think, O Lord, that it can be seen by me, then, O Lord of Yoga, reveal Yourself to me completely.
@@ -218,11 +233,13 @@ then; मे me; त्वम् Thou; दर्शय show; आत्मान�
 imperishable.Commentary Arjuna is very keen and eager to see the Cosmic Form of the Lord. He prays to Him to grant him the vision. This supreme vision can be obtained only through His grace.Yogesvara also means the Lord of Yoga. A Yogi is one who is endowed with the eight psychic powers
 (Siddhis). The Lord of the Yogins is Yogesvara. And; Yoga is identity of the individual soul with the Absolute. He who is able to bestow this realisation of identity on the deserving spiritual aspirant is Yogesvara.He Who is able to create; preserve; destroy; veil and graciously release is the Lord. (These five actions; Panchakriyas; are known respectively as Srishti; Sthiti; Samhara; Tirodhana and Anugraha.)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.4।। हे प्रभो ! मेरे द्वारा आपका वह परम ऐश्वर रूप देखा जा सकता है --
@@ -265,6 +282,7 @@ imperishable.Commentary Arjuna is very keen and eager to see the Cosmic Form of 
 
 ।।11.4।। हे प्रभो ! यदि आप मानते हैं कि मेरे द्वारा वह आपका रूप देखा
 जाना संभव है, तो हे योगेश्वर ! आप अपने अव्यय रूप का दर्शन कराइये।।
+</details>
 </details>
 
 </div>

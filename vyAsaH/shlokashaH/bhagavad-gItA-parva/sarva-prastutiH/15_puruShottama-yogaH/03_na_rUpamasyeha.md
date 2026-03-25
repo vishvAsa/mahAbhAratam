@@ -25,8 +25,9 @@ title = "03 न रूपमस्येह"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.3॥**अस्य** वृक्षस्य चतुर्मुखादित्वेन ऊर्ध्वमूलत्वं  
@@ -68,12 +69,14 @@ title = "03 न रूपमस्येह"
 'prapadya iyatah pravrttih' (in place of 'prapadyet yatah pravrittih').
 This gives the sense that this discipline of taking refuge in the Supreme Person for dispelling of ignorance has continued from a distant past. The tendencies of ancient persons seeking liberation are also ancient. The purport is this: The ancient liberation-seekers, taking refuge in Me alone, were released from bondage. \[This can be taken to mean that Prapatti or taking refuge in the Lord had originated in the Bhakti tradition of the Sri-Vaisnavites from ancient sages i.e., from the Alvars who preceded Ramanuja by several centuries. It is not a creation of Ramanuja\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.3॥ --,न रूपम् **अस्य इह** यथा उपवर्णितं **तथा** नैव **उपलभ्यते;** स्वप्नमरीच्युदकमायागन्धर्वनगरसमत्वात् दृष्टनष्टस्वरूपो हि स इति अत एव **न अन्तः** न पर्यन्तः निष्ठा परसमाप्तिर्वा विद्यते। तथा **न च आदिः;** इतः आरभ्य अयं प्रवृत्तः इति न केनचित् गम्यते। **न च संप्रतिष्ठा** स्थितिः मध्यम् अस्य न केनचित् उपलभ्यते। **अश्वत्थम् एनं** यथोक्तं **सुविरूढमूलं** सुष्ठु विरूढानि विरोहं गतानि सुदृढानि मूलानि यस्य तम् एनं सुविरूढमूलम्; **असङ्गशस्त्रे**ण असङ्गः पुत्रवित्तलोकैषणादिभ्यः व्युत्थानं तेन असङ्गशस्त्रेण **दृढेन** परमात्माभिमुख्यनिश्चयदृढीकृतेन पुनः पुनः विवेकाभ्यासाश्मनिशितेन **च्छित्वा** संसारवृक्षं सबीजम् उद्धृत्य॥
 </details>
@@ -225,12 +228,14 @@ detachment-.
 पुनर्विवेकाभ्यासनिशितेन छित्त्वा समूलमुद्धृत्य वैराग्यशमदमादिसंपत्त्या
 सर्वकर्मसंन्यासं कृत्वेत्येतत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.3॥ यथास्थितस्तथा नोपलभ्यते। अन्तादिर्विष्णुः। त्वमादिरन्तो जगतोऽस्य
 मध्यम् इति भागवते। अनाद्यन्तं परं ब्रह्म न देवा नर्षयो विदुः इति च
@@ -267,12 +272,14 @@ detachment-.
 मिथ्याज्ञानत्वात् श्रुतिसंवादाच्चैवमेवेत्याह -- **तच्चे**ति। तं वै
 प्रपद्ये यं वै प्रपद्ये इति तच्छुतावेव अतस्तं छेदकमेव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.3 -- 15.5॥ न रूपमित्यादि अव्ययं तदित्यन्तम्। तं छित्त्वेति। विशेष्ये क्रियाऽभिधीयमाना सामर्थ्यादत्र विशेषणपदमुपादत्ते दण्डी प्रैष्याननुब्रूयात् इति विधिवत्। तेन अधोरूढानि मूलानि अस्य छिन्द्यादिति। तत् पदं प्रशान्तम् अव्ययं पदं तदेव।
 </details>
@@ -281,12 +288,14 @@ detachment-.
 
 15.3 See Comment under 15.5
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.3॥ किञ्च न रूपमिति। इह मायामोहितैर्वादिभिरस्य स्वरूपं याथात्म्यं
 तथा वेदोक्तप्रकारेण नोपलभ्यतेमायामात्रं तु
@@ -316,10 +325,13 @@ detachment-.
 एतन्मध्यपातिदुष्टविषयादिदोषपर्यालोचनसङ्गाभावात्मकेन शस्त्रेणैतच्छेदपटुना
 च्छित्त्वा भिन्नं कृत्वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.3॥ किंच **-- न रूपमस्येति।** इह संसारे स्थितैः प्राणिभिरस्य
 संसारवृक्षस्य तथोर्ध्वमूलत्वादिप्रकारेण रूपं नोपलभ्यते। न चान्तोऽवसानं;
@@ -330,10 +342,13 @@ detachment-.
 सन्तमसङ्गः सङ्गराहित्यं अहंममतात्यागस्तेन दृढेन शस्त्रेण सम्यग्विचारेण
 छित्त्वा पृथक्कृत्य।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.3 Its form as such is not perceived here, nor its end, nor its beginning, nor its support. Having cut off this firm-rooted Asvattha with the strong axe of detachment৷৷.
@@ -372,11 +387,13 @@ latent tendencies; and renunciation of the fruits of all actions;
 through the practice of dispassion; control of the mind and the senses;
 etc. (Cf.VII.14)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/03_na_rUpamasyeha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.3।। इस संसारवृक्षका जैसा रूप देखनेमें आता है, वैसा यहाँ (विचार
@@ -580,6 +597,7 @@ etc. (Cf.VII.14)
 ।।15.3।। इस (संसार वृक्ष) का स्वरूप जैसा कहा गया है वैसा यहाँ उपलब्ध
 नहीं होता है, क्योंकि इसका न आदि है और न अंत और न प्रतिष्ठा ही है। इस
 अति दृढ़ मूल वाले अश्वत्थ वृक्ष को दृढ़ असङ्ग शस्त्र से काटकर ...৷৷৷৷।।
+</details>
 </details>
 
 </div>

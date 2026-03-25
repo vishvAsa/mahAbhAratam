@@ -23,8 +23,9 @@ title = "34 चञ्चलं हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.34॥ तथा ह्य् अनवरताभ्यस्तविषयेष्व् अपि स्वत एव **चञ्चलं** पुरुषेण एकत्र स्थापयितुम् अशक्यं **मनः** पुरुषं बलात् प्रमथ्य **दृढम्** अन्यत्र चरति। **तस्य** स्वाभ्यस्तविषयेष्व् अपि चञ्चलस्वभावस्य मनसस् तद्विपरीताकारात्मनि स्थापयितुं **निग्रहं** प्रतिकूलगतेर् महावातस्य व्यजनादिना **इव सुदुष्करम् अहं मन्ये।** मनोनिग्रहोपायो वक्तव्य इत्यभिप्रायः।
@@ -39,12 +40,14 @@ title = "34 चञ्चलं हि"
 
 6.34 For the mind, which is found to be fickle even in matters incessantly practised, cannot be firmly fixed by a person in one place. It agitates that person violently and flies away stubbornly elsewhere. Regarding such a mind, which by nature is fickle even in matters practised, I regard that its restraint and fixing in the self, which is of ite opposite nature, is as difficult as restraining a strong contrary gale with such things as a fragile fan etc. The meaning is that the means for the restraint of the mind should be explained.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.34॥ **चञ्चलं हि मनः कृष्ण** इति कृष्यतेः विलेखनार्थस्य रूपम्। भक्तजनपापादिदोषाकर्षणात् कृष्णः तस्य संबुद्धिः हे कृष्ण। हि यस्मात् मनः चञ्चलं न केवलमत्यर्थं चञ्चलम् **प्रमाथि** च प्रमथनशीलम् प्रमथ्नाति शरीरम् इन्द्रियाणि च विक्षिपत् सत् परवशीकरोति। किञ्च **बलवत्** प्रबलम् न केनचित् नियन्तुं शक्यम् दुर्निवारत्वात्। किञ्च **दृढं** तन्तुनागवत् अच्छेद्यम्। **तस्य** एवंभूतस्य मनसः **अहं निग्रहं** निरोधं **मन्ये वायोरिव** यथा वायोः दुष्करो निग्रहः ततोऽपि **दुष्करं** मन्ये इत्यभिप्रायः॥ श्रीभगवानुवाच एवम् एतत् यथा ब्रवीषि **श्रीभगवानुवाच**
 </details>
@@ -148,12 +151,14 @@ just as you say.'
 तस्मादनुपपन्नमेतदात्मौपम्येन सर्वत्र समदर्शी परमो योगी मत
 इत्यर्जुनस्याक्षेपः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.34॥ उक्तं च मनसश्चञ्चलत्वाद्धि स्थितिर्योगस्य वै स्थिरा।
 विनाऽभ्यासान्न शक्या स्याद्वैराग्याद्वा न संशयः इति व्यासयोगे।
@@ -164,12 +169,14 @@ just as you say.'
 ॥6.34॥ अत्रागमं चाह **उक्तं चे**ति। एतेनअसंशयं 6।35 इति परिहारवाक्यमपि
 व्याख्यातम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.33 6.34॥ योऽयमिति। चञ्चलमिति। यः अयम् इति परोक्षप्रत्यक्षवाचकाभ्यामेवं सूच्यते भगवदभिहितानन्तरोपायपरम्परया स्पुटमपि प्रत्यक्षनिर्दिष्टमपि ब्रह्म मनसः चाञ्चल्यदौरात्म्यात् सुदूरे वर्तते+++(N. सुदूरीक्रियते)+++ इति परोक्षायमाणम्। प्रमथ्नाति दृष्टादृष्टे बलवत् शक्तम्। दृढं दुष्टव्यापारात्+++(N द्रष्ट्व्यापारात्)+++ वारयितुम् अशक्यम्।
 </details>
@@ -178,12 +185,14 @@ just as you say.'
 
 6.33-34 Yo' Yam etc. Cancalam etc. By this and which, the two words denoting \[respectively\] what is actually perceived and what is not perceived, the following is indicated : Thanks to the series of methods spoken just before by the Bhagavat, the Brahman is of course clear and has been no doubt shown as if by perception. Yet, It remains at agreat distance due to the unsteadiness and wickedness of the mind, and It behaves as if It is beyond perception. \[Destructive\] : The mind destroys both the visible and invisible \[ends of man's action\]. Strong : Powerful. Obstinate : impossible to ward off from evil acts. Now the answer -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.33 6.34॥ उक्तलक्षणयोगस्यासम्भवं मन्वानोऽर्जुन उवाच द्वाभ्यां योऽयं
 योग इति। निरोधः चित्तस्य येन साम्येनोक्तः तदेव दुष्करतरं यतः चञ्चलं मन
@@ -202,10 +211,13 @@ just as you say.'
 वायोरिव निरोधनं सुदुष्करं सर्वथा कर्त्तुमशक्यमहं मन्ये। यद्वा वायोः
 प्राणवायोर्गच्छतो निरोधमशक्यं मन्य इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.34॥ एतत्स्फुटयति **चञ्चलमिति।** चञ्चलं स्वभावेनैव चपलम्। किंच
 प्रमाथि प्रमथनशीलं देहेन्द्रियक्षोभकमित्यर्थः। किंच बलवद्विचारेणापि
@@ -213,10 +225,13 @@ just as you say.'
 दोधूयमानस्य वायोः कुम्भादिषु निरोधनमशक्यं तथा तस्य मनसोऽपि निग्रहं
 निरोधं सुदुष्करं सर्वथा कर्तुमशक्यं मन्ये।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.34 For the mind is fickle, O Krsna, impetuous, powerful and stubborn.
@@ -250,11 +265,13 @@ turbulent; बलवत् strong; दृढम् unyielding; तस्य of i
 control; मन्ये think; वायोः of the wind; इव as; सुदुष्करम् difficult to do.Commentary The mind constantly changes its objects and so it is ever restless.Krishna is derived from Krish which means to scrape. He scrapes all the sins; evils; and the causes of evil from the hearts of His devotees. Therefore He is called Krishna.The mind is not only restless but also turbulent or impetuous; strong and obstinate. It produces violent agitation in the body and the senses. The mind is drawn by the objects in all directions. It works always in conjunction with the five senses. It is drawn by them to the five kinds of objects. Therefore it is ever restless. It enjoys the five kinds of sensobjects with the help of these senses and the body. Therefore it makes them subject to external influences. It is even more difficult to control it than to control the wind. The mind is born of Vayutanmatra (wind rootelement).
 That is the reason why it is as restless as the wind.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/34_chanchalaM_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.34।। क्योंकि हे कृष्ण ! मन बड़ा ही चञ्चल, प्रमथनशील, दृढ़ (जिद्दी)
@@ -339,6 +356,7 @@ That is the reason why it is as restless as the wind.
 
 ।।6.34।। क्योंकि हे कृष्ण ! यह मन चंचल और प्रमथन स्वभाव का तथा बलवान् और
 दृढ़ है; उसका निग्रह करना मैं वायु के समान अति दुष्कर मानता हूँ ।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "02 राजविद्या राजगुह्यम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.2॥**राजविद्या** विद्यानां राजा **राजगुह्यं** गुह्यानां राजा राज्ञां विद्येति वा राजविद्या; राजानो हि विस्तीर्णागाधमनसः; महामनसाम् इयं विद्या इत्यर्थः। महामनस एव गोपनीयगोपनकुशला इति तेषाम् एव गुह्यम् **इदम्। उत्तमम् पवित्रं** मत्प्राप्तिविरोध्यशेषकल्मषापहं **प्रत्यक्षावगमम्;** अवगम्यते इत्य् अवगमो विषयः; प्रत्यक्षभूतो ऽवगमो विषयो यस्य ज्ञानस्य तत् प्रत्यक्षावगमम्; भक्तिरूपेण उपासनेन उपास्यमानो ऽहं तदानीम् एव उपासितुः प्रत्यक्षताम् उपागतो भवामि इत्यर्थः। अथापि **धर्म्यं** धर्माद् अनपेतं धर्मत्वं हि निःश्रेयससाधनत्वं स्वरूपेण एव अत्यर्थप्रियत्वेन तदानीम् एव मद्दर्शनापादनतया च स्वयं निःश्रेयसरूपम् अपि निरतिशयनिःश्रेयसरूपात्यन्तिकमत्प्राप्तिसाधनम् इत्यर्थः। अत एव **सुसुखं** कर्तुं सुसुखोपादानम्; अत्यर्थप्रियत्वेन उपादेयम् **अव्ययम्** अक्षयं मत्प्राप्तिं साधयित्वा अपि स्वयं न क्षीयते। एवंरूपम् उपासनं कुर्वतो मत्प्रदाने कृते अपि न किञ्चित् कृतं मया अस्य इति मे प्रतिभाति इत्यर्थः।
@@ -43,12 +44,14 @@ title = "02 राजविद्या राजगुह्यम्"
 
 9.2 This is a 'royal science', the king among sciences; 'the royal mystery', the king among mysteries. Or royal science may also mean the science known and practised by kings. Indeed kings are those who have broad and profound minds. The meaning is that this is the science of great minds. This is a mystery, because the great-minded alone are skilled in keeping mysteries. This is 'supreme purifier'; for it removes completely all blemishes opposed to the attainment of Myself. It is realised by 'direct perception'. Avagama' is that which is apprehended - the subject of knowledge. It is that knowledge which has become direct perception, so that its object is directly apprehended. The import is that I, when worshipped in the spirit of Bhakti, become perceptible to the worshipper immediately. Even so, it is in 'accord with Dharma' or inseparable from Dharma. What is called Dharma is that which constitutes the means for the highest good. Though it is of the nature of supreme good, as it brings about the vision of Myself, yet it is also the means for completely attaining Me, which is the end unsurpassed and the final good. Because of this, it is 'pleasurable' to practise; its adoption is a matter of supreme love. It is 'abiding', imperishable. It does not perish even after leading to My attainment. That is, I give Myself up to one who performs this form of worship; even then it appears to Me that I have done nothing for him. Such is the meaning.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.2॥ --,**राजविद्या** विद्यानां राजा; दीप्त्यतिशयवत्त्वात् दीप्यते हि इयम् अतिशयेन ब्रह्मविद्या सर्वविद्यानाम्। तथा **राजगुह्यं** गुह्यानां राजा। **पवित्रं** पावनं **इदम् उत्तमं** सर्वेषां पावनानां शुद्धिकारणं ब्रह्मज्ञानम् उत्कृष्टतमम्। अनेकजन्मसहस्रसंचितमपि धर्माधर्मादि समूलं कर्म क्षणमात्रादेव भस्मीकरोति इत्यतः किं तस्य पावनत्वं वक्तव्यम्। किञ्च
 -- **प्रत्यक्षावगमं** प्रत्यक्षेण सुखादेरिव अवगमो यस्य तत्
@@ -205,12 +208,14 @@ regarded.
 तपस्तप्यते बहूनि वर्षसहस्राण्यन्तवदेवास्य तद्भवति इति श्रुतेः।
 तस्मात्सर्वोत्कृष्टत्वाच्छ्रद्धेयमेवात्मज्ञानम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.2॥ राजविद्या प्रधानविद्या। प्रत्यक्षं ब्रह्म अवगम्यते येन
 तत्प्रत्यक्षावगमम्। अक्षेष्विन्द्रियेषु प्रति प्रतिस्थित इति प्रत्यक्षः।
@@ -254,12 +259,14 @@ regarded.
 इति। इदमग्रे अस्याग्रे। अत्र पुण्यं धर्मः किं न स्यात् इति
 शङ्कानिरासार्थं सोऽध्यायदिति वाक्यशेषोदाहरणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.2॥ राजेति। राजते सर्वविद्यामध्ये वीप्यते या। इहैव ह्युच्यते -- अध्यात्मविद्या विद्यानाम् इति। राज्ञां जनकादीनाम् अत्र अधिकारः; तेषां रहस्यम् अतिगुप्तत्वात् +++(S;;N प्रति गुप्तत्वात्)+++। क्षत्रियसुलभेन वी,(धी) रभावेनाविकम्पनात् +++(S;;N -- कम्पत्वात्)+++ कर्तुमनुष्ठातुं +++(N अनुष्ठानम्)+++ सुसुखम्। \[अव्ययम्\]; न चास्य ब्रह्मोपासनात्मनः कर्मणः अन्यकर्मवदुपभोगादिना व्ययोऽस्ति।
 </details>
@@ -268,12 +275,14 @@ regarded.
 
 9.2 Raja-etc. Shines : that which illumines in the midst of all sciences. Here \[in the Gita\] itself it is said 'The science of the Self \[is the chief\] among the sciences'. Here in this science kings like Janaka etc., have a right and pervilege (adhikara) \[to learn\]. It is their secret, as it is much protected (by them) by heroism easy for the Ksatriyas. As they do not waver \[in their mind\] because of their heroic nature that is common in the members of the warring class, it is very easy to do i.e., to observe. Imperishable : Unlike other actions this action of worshipping Brahman does not perish through the enjoyment of \[its result\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.2॥ किञ्च राजविद्येति। इदं ज्ञानं खलु राज्ञां महामनसां विद्या गुह्यं
 च मन्त्ररूपं विद्यानां राजा गुह्यं च इति वा। राजदन्तादित्वादुपसर्जनस्य
@@ -295,10 +304,13 @@ regarded.
 योग्यम्; अव्ययं अविनाशि। यद्वा -- अव्ययं कर्तुं स्वसुखं सुसुखं
 परमसुखमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.2॥ किंच **-- राजविद्येति।** इदं ज्ञानं राजविद्या विद्यानां राजेति
 राजविद्या च। गुह्यानां राजेति राजगुह्यं विद्यासु गोप्येषु च रहस्यम्।
@@ -308,10 +320,13 @@ regarded.
 दृष्टफलमित्यर्थः। धर्म्यं च धर्मादनपेतं; सर्वधर्मफलत्वात्। कर्तुं सुसुखं
 च। सुखेन कर्तुं शक्यमित्यर्थः। अव्ययमक्षयफलत्वात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.2 This is the royal science, royal mystery, the supreme purifier, It is realised by direct experience. It is in accord with Dharma, it is pleasant to practise and is abiding.
@@ -351,11 +366,13 @@ The science of the Absolute is the most splendid of all sciences. It is the scie
 Further; the knowledge of the Absolute can very easily be attained. One may think that this knowledge will perish soon as it is easily obtained;
 when its effect is exhausted. It is not so. It is imperishable. It is everlasting. It shines for ever by its own Selfeffulgence. He who has tasted this nectar even once becomes immortal. Therefore the knowledge of the Absolute is certainly worth aciring. You will have to strive very hard to attain it anyhow in this birth; as it is very difficult to get a human birth. Strive hard every moment; for life is uncertain and the prize (final liberation) is great.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.2।। यह सम्पूर्ण विद्याओंका और सम्पूर्ण गोपनीयोंका राजा है। यह अति
@@ -417,6 +434,7 @@ when its effect is exhausted. It is not so. It is imperishable. It is everlastin
 ।।9.2।। यह ज्ञान राजविद्या (विद्याओं का राजा) और राजगुह्य (सब गुह्यों
 अर्थात् रहस्यों का राजा) एवं पवित्र, उत्तम, प्रत्यक्ष ज्ञानवाला और
 धर्मयुक्त है, तथा करने में सरल और अव्यय है।।
+</details>
 </details>
 
 </div>

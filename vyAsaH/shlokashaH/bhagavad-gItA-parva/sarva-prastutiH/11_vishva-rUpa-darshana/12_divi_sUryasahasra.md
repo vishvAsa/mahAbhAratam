@@ -23,8 +23,9 @@ title = "12 दिवि सूर्यसहस्रस्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.12॥ तेजसो ऽपरिमितत्वदर्शनार्थम् इदम्। अक्षयतेजःस्वरूपम् इत्यर्थः।
@@ -39,12 +40,14 @@ title = "12 दिवि सूर्यसहस्रस्य"
 
 11.12 This is for illustrating that His splendour is infinite. The meaning is that it is of the nature of inexhaustible radiance.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.12॥ --,**दिवि** अन्तरिक्षे तृतीयस्यां वा दिवि सूर्याणां सहस्रं सूर्यसहस्रं तस्य युगपदुत्थितस्य सूर्यसहस्रस्य या **युगपदुत्थिता भाः; सा यदि; सदृशी स्यात् तस्य महात्मनः** विश्वरूपस्यैव **भासः।** यदि वा न स्यात्; ततः विश्वरूपस्यैव भाः अतिरिच्यते इत्यभिप्रायः॥ किञ्च --,
 </details>
@@ -104,12 +107,14 @@ excels even this! Further,
 व्यञ्जती सर्वथा निरुपमत्वमेव व्यनक्ति। उभौ यदि व्योम्नि पृथक्प्रवाहौ
 इत्यादिवत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.12॥ सहस्रशब्दोऽनन्तवाची। तदपि पाकशासनविक्रम
 इत्यादिवत्प्रत्यायनार्थमेव। तथा हि ऋग्वेदखिलेषु -- अनन्तशक्तिः
@@ -135,12 +140,14 @@ excels even this! Further,
 सकलश्रुतिस्मृतीतिहासपुराणविरोधात्। द्वितीये त्वपरिमितस्य परिमाणोक्त्या
 किञ्चिदपि प्रयोजनं न सिध्यति। कुतो महत् इत्याह -- **न चेति**।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.12॥ No commentary.
 </details>
@@ -149,12 +156,14 @@ excels even this! Further,
 
 11.12 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.12॥ एवं सञ्जयो दर्शनं रूपं वर्णयित्वा
 तस्याऽलौकिकत्वमभूतोपमावर्णनेनाह -- दिवीत्यादि। एवमभूतोपमया
@@ -168,20 +177,26 @@ excels even this! Further,
 सा तस्य महात्मनः पुरुषोत्तमस्य अनेकात्मरूपस्य भासः सदृशी स्यात्। किन्तु
 न स्यादेवेति काकूक्तिः। एतादृशं स्वरूपम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.12॥ विश्वरूपदीप्तेर्निरुपमत्वमाह **-- दिवीति।** दिव्याकाशे
 सूर्यसहस्रस्य युगपदुत्थितस्य यदि युगपदुत्थिता भाः प्रभा भवेत् तर्हि सा
 तदा महात्मनो विश्वरूपस्य भासः प्रभायाः कथंचित्सृदशी स्यात्।
 नान्योपमास्तीत्यर्थः। तथाभूतं रूपं दर्शयामासेति पूर्वेणान्वयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.12 If a thousand suns were to rise at once in the sky, the resulting splendour may be like the splendour of that mighty One.
@@ -215,11 +230,13 @@ excels even this! Further,
 सदृशी like; सा that; स्यात् would be; भासः splendour; तस्य of that;
 महात्मनः of the mighty Being (great soul).Commentary Divi here means in the Antariksha or the sky.Mahatma here refers to the great Soul or the mighty Being; the Cosmic Form.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.12।। अगर आकाशमें एक साथ हजारों सूर्य उदित हो जायँ, तो भी उन सबका
@@ -266,6 +283,7 @@ excels even this! Further,
 
 ।।11.12।। आकाश में सहस्र सूर्यों के एक साथ उदय होने से उत्पन्न जो प्रकाश
 होगा, वह उस (विश्वरूप) परमात्मा के प्रकाश के सदृश होगा।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "06 यथाऽऽकाशस्थितो नित्यम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.6॥**यथा आकाशे** अनालम्बने **महान् वायुः स्थितः सर्वत्र** गच्छति। स तु वायुर् निरालम्बनो मदायत्तस्थितिर् इत्य् अवश्याभ्युपगमनीयो मया एव धृत इति विज्ञायते **तथा** एव **सर्वाणि भूतानि** तैर् अदृष्टे मयि स्थितानि मया एव धृतानि **इत्य् उपधारय।  
@@ -41,12 +42,14 @@ title = "06 यथाऽऽकाशस्थितो नित्यम्"
 
 9.6 The 'powerful air' remains and moves everywhere in the ether (Akasa) without any perceivable support. So it has necessarily got to be admitted that the powerful air is dependent on Me for its existence and is being upheld by Me alone. Even so know that all entities abide in Me, who am invisible to them, and that they are upheld by Me alone. The knowers of the Veda declare thus: 'The origin of clouds, the waters of the ocean remaining within bounds, the phases of the moon, the strong movements of the gale, the flash of lightning and the movements of the sun - all these are marvellous manifestations of the power of Visnu.' The meaning is that they are all the marvellous miracles which are unie to Visnu. The Srutis and other texts also declare likewise: 'Verily, O Gargi, at the ;nd of that Imperishable One, the sun and the moon stand apart' (Br. U., 3.8.9, and 'Through the fear of Him the wind blows, through the fear of Him the sun rises, through the fear of Him Agni and Indra perform their duties' (Tai. U., 2.8.1). It has been declared that the existence and acts of all beings originate by the will of the Lord, who is independent of all others. Now Sri Krsna declares that the origin and dissolution of all entities also are due to His will only:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.6॥ --,**यथा** लोके **आकाशस्थितः** आकाशे स्थितः **नित्यं** सदा **वायुः** सर्वत्र गच्छतीति **सर्वत्रगः महान्** परिमाणतः; **तथा** आकाशवत् सर्वगते मयि असंश्लेषेणैव स्थितानि इत्येवम् **उपधारय** विजानीहि॥  
 एवं वायुः आकाशे इव मयि स्थितानि सर्वभूतानि स्थितिकाले तानि --,
@@ -135,12 +138,14 @@ omnipresent like space-abide certainly without any contact.
 कदाप्याकाशेन सह संसृज्यते। तथैवासङ्गस्वभावे मयि संश्लेषमन्तरेणैव सर्वाणि
 भूतान्याकाशादीनि महान्ति सर्वत्रगाणि च स्थितानीत्युपधारय विमृश्यावधारय।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.6॥ मत्स्थानि न च मत्स्थानीत्यत्र दृष्टान्तमाह -- यथाऽऽकाशस्थित इति।
 न ह्याकाशस्थितो वायुः स्पर्शाद्याप्नोति।
@@ -153,12 +158,14 @@ omnipresent like space-abide certainly without any contact.
 स्थितत्वेऽप्यन्योन्यधर्मासंक्रान्त्यादावित्यर्थः। तदत्र न प्रतीयत इत्यतो
 व्याचष्टे -- **न ही**ति। स्पर्शादीति तद्धर्मोपलक्षणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.6॥ यथेति। एवमिति। यद्वदाकाशवाय्वोरविनाभाविन्यपि संबन्धे न जातु +++(S जातुचित्)+++ नभः स्पृश्यता श्रूयते।
 </details>
@@ -167,12 +174,14 @@ omnipresent like space-abide certainly without any contact.
 
 9.6 Yatha etc. Evam etc. In spite of the concomitant connection between the ether and the wind, the touchability of the ether is never heard of. In the same manner the Absolute pervades the entire universe and yet remains not comprehended by all men.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.6॥ असंश्लिष्टयोरप्याधाराधेयभावं दृष्टान्तेनाह -- यथाकाशस्थित इति।
 अवकाशं विनाऽवस्थानानुपपत्तेर्नित्यमाकाशाधारो वा वायुरभ्युपेयते; स च
@@ -193,20 +202,26 @@ omnipresent like space-abide certainly without any contact.
 सर्वत्रगतियुक्तानि मत्क्रीडेच्छयैव मत्स्थानीत्युपधारय जानीहि। उप समीपे
 मत्समीपे धारय पश्येत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.6॥ असंश्लिष्टयोरप्याधाराधेयभावं दृष्टान्तेनाह **-- यथेति।** अवकाशं
 विनाऽवस्थानानुपपत्तेर्नित्यमाकाशस्थितो वायुः सर्वत्रगोऽपि महानपि नाकाशेन
 संश्लिष्यते निरवयवत्वेन संश्लेषायोगात्तथा सर्वाणि भूतानि मयि स्थितानीति
 जानीहि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.6 As the powerful element air moving everywhere ever remains in the ether, know that so too all beings abide in Me.
@@ -242,11 +257,13 @@ between the leg and the man is also Samavaya Sambandha. Such relationship does n
 because Brahman is ExistenceKnowledgeBliss Absolute and allfull and perfect whereas the elements are insentient; finite and painful. How can they with ite contrary alities have Tadatmya Sambandha with BrahmanTherefore it can be admitted that the elemtns have only got Kalpita Sambandha (superimposition) with Brahman. That object which is superimposed on the substratum or support exists in name only. It does not exist in reality. Brahman is the support or the substratum for this world of names and forms. World here includes all beings and their three kinds of bodies (physical; mental and causal). Therefore; the elements or the beings in this world are not really rooted in Brahman. They do not really dwell in Brahman. It is all in name only.Vayu also means Sutratman or Hiranyagarbha. Bhuta also means the individual consciousness. Just as the ether in the pot is not distinct from the universal ether before the origin and after the destruction of the pot and even when the pot exists; and it is of the nature of the universal soul is of the nature of Brahman during the three periods of time; past;
 present and future.Just as all efects exist in a state of nondifference in their material cause before they appear; during their period of existence and after their destruction; so also the individual souls are not different from Brahman before the origin of the various limiting adjuncts like mind; intellect; etc.;,during the period of their existence and after their destruction.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.6।। जैसे सब जगह विचरनेवाली महान् वायु नित्य ही आकाशमें स्थित रहती
@@ -389,6 +406,7 @@ present and future.Just as all efects exist in a state of nondifference in their
 
 ।।9.6।। जैसे सर्वत्र विचरण करने वाली महान् वायु सदा आकाश में स्थित रहती
 हैं, वैसे ही सम्पूर्ण भूत मुझमें स्थित हैं, ऐसा तुम जानो।।
+</details>
 </details>
 
 </div>

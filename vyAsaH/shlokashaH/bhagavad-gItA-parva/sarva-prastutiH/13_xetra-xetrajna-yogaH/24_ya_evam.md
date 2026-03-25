@@ -23,8 +23,9 @@ title = "24 य एवम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.23॥**एनम्** उक्तस्वभावं **पुरुषम्** उक्तस्वभावां **च प्रकृतिं** वक्ष्यमाणस्वभावयुक्तैः सत्त्वादिभिः **गुणैः सह यो वेत्ति** यथावद् विवेकेन जानाति **स सर्वथा** देवमनुष्यादिदेहेष्व् अतिमात्रक्लिष्टप्रकारेण **वर्तमानो ऽपि न भूयो ऽभिजायते** न भूयः प्रकृत्या संसर्गमर्हति; अपरिच्छिन्नज्ञानलक्षणम्; अपहतपाप्मानम् आत्मानं तद्देहावसानसमये प्राप्नोति इत्यर्थः।
@@ -39,12 +40,14 @@ title = "24 य एवम्"
 
 13.24 He who 'understands', namely, knows truly with discrimination, the self to be thus, and also the Prakrti as having the aforesaid nature along with Sattva and other Gunas, whose nature will be later examined, is never born again, i.e., is never rorn conjointly with Prakrti again in 'whatever state he may be placed,' i.e., in whatever painful condition he may be placed in the bodies of divinities, men etc. The meaning is that at the time when the body ceases to exist, the self will attain the purified state characterised by boundless knowledge devoid of evil.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.24॥ --,**यः एवं** यथोक्तप्रकारेण **वेत्ति पुरुषं** साक्षात् अहमिति **प्रकृतिं च** यथोक्ताम् अविद्यालक्षणां **गुणैः** स्वविकारैः **सह** निवर्तिताम् अभावम् आपादितां विद्यया; **सर्वथा** सर्वप्रकारेण **वर्तमानोऽपि सः भूयः** पुनः पतिते अस्मिन् विद्वच्छरीरे देहान्तराय **न अभिजायते** न उत्पद्यते; देहान्तरं न गृह्णाति इत्यर्थः। अपिशब्दात् किमु वक्तव्यं स्ववृत्तस्थो न जायते इति अभिप्रायः॥  
   
@@ -305,12 +308,14 @@ which are the alternative means for the realization of the Self:
 न्यायात्। अपिशब्दाद्विधिमनतिक्रम्य वर्तमानः स्ववृत्तस्थो भूयो न जायत इति
 किमु वक्तव्यमित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.24॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -319,12 +324,14 @@ which are the alternative means for the realization of the Self:
 
 ॥13.24॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.24॥ तथा चाह --,य एवमिति। एवम् अनेन सर्वाभेदरूपेण ब्रह्मदर्शनेन यो योगी प्रकृतिं पुरुषं गुणांश्च तद्विकारान् जानाति; सर्वेण प्रकारेण यथा तथा वर्तमानोऽपि स +++(S; omit सः)+++ मुक्त एवेत्यर्थः।
 </details>
@@ -333,12 +340,14 @@ which are the alternative means for the realization of the Self:
 
 13.24 Ya evam etc. a men of Yoga who knows the Material Cause, the Soul, the Strands and their modifications in this manner i.e., by means of this above mentioned Brahman-perception which is in the form 'All are identical with It' - he is certainly emancipated eventhough he behaves in different ways i.e., in whatever manner \[he chooses\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.24॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -350,20 +359,26 @@ which are the alternative means for the realization of the Self:
 सर्वथा वर्तमानोऽपि तथाऽऽचरणशीलो यो भवति; स भूयो नाभिजायते संसारे
 नोत्पन्नो भवति। किन्तु मुक्त एव भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/24_ya_evam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/24_ya_evam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.24॥ एवं प्रकृतिपुरुषविवेकज्ञानिनं स्तौति **-- य एवमिति।**
 एवमुपद्रष्टृत्वादिरुपेण पुरुषं यो वेत्ति; प्रकृतिं च गुणैः
 सुखदुःखादिपरिणामैः सहितां यो वेत्ति; स पुरुषः सर्वथा विधिमतिलङ्घ्य
 वर्तमानोऽपि पुनर्नाभिजायते। मुच्यत एवेत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.24 He who understands the self and the Prakrti thus with the Gunas is not born again, in whatever state he may be placed.
@@ -405,11 +420,13 @@ Therefore it is proper to say that the liberated sage is not born again.
 He will not take another body when the body through which he attained knowledge perishes. As ignorance; the cause of this body; is destroyed by the knowledge of the Self; birth; the effect of ignorance; is also destroyed. As one takes birth through virtuous and vicious actions; a sage will not take birth as his virtuous and visiouc actions (the whole Sanchita or accumulated Karmas of his previous births) are destroyed by the knowledge of the Self. The Karmas done by him after he has attained Selfrealisation cannot touch him at all as he has neither egoism
 (agency) nor desires. (Cf.XIII.32)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.24।। इस प्रकार पुरुषको और गुणोंके सहित प्रकृतिको जो मनुष्य अलग-अलग
@@ -472,6 +489,7 @@ He will not take another body when the body through which he attained knowledge 
 
 ।।13.24।। इस प्रकार पुरुष और गुणों के सहित प्रकृति को जो मनुष्य जानता
 है, वह सब प्रकार से रहता हुआ (व्यवहार करता हुआ) भी पुन: नहीं जन्मता है।।
+</details>
 </details>
 
 </div>

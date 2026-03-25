@@ -23,8 +23,9 @@ title = "49 असक्तबुद्धिः सर्वत्र"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.49॥**सर्वत्र** फलादिषु **असक्तबुद्धिर् जितात्मा** जितमनाः परमपुरुषकर्तृत्वानुसन्धानेन आत्मकर्तृत्वे **विगतस्पृहः** एवं त्यागाद् अनन्यत्वेन निर्णीतेन **सन्न्यासेन** युक्तः कर्म कुर्वन् **परमां नैष्कर्म्यसिद्धिम् अधिगच्छति।** परमां ध्याननिष्ठां ज्ञानयोगस्य अपि फलभूताम् अधिगच्छति इत्यर्थः। वक्ष्यमाणध्यानयोगावाप्तिं सर्वेन्द्रियकर्मोपरतिरूपाम् अधिगच्छति।
@@ -39,12 +40,14 @@ title = "49 असक्तबुद्धिः सर्वत्र"
 
 18.49 He whose understanding is, on all sides, without attachments, concerning fruits etc., whose 'self is conered,' i.e., who has conered his mind; who, by contemplating on the agency of the Supreme Person, is free from the habit of attributing agency to the self; and who is thus eipped with Sannyasa which has been positively determined to be the same as Tyaga - such a man, performing actions, attains supreme perfection which is free from all activities. The meaning is that he attains devotion to Dhyana which is the consummation of even Jnana Yoga; he attains Dhyana Yoga (Yoga of meditation) consisting in the complete cessation of sensory activity, which is going to be described hereafter.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.49॥ -- **असक्तबुद्धिः** असक्ता सङ्गरहिता बुद्धिः अन्तःकरणं यस्य सः असक्तबुद्धिः **सर्वत्र** पुत्रदारादिषु आसक्तिनिमित्तेषु; **जितात्मा** जितः वशीकृतः आत्मा अन्तःकरणं यस्य सः जितात्मा; **विगतस्पृहः** विगता स्पृहा तृष्णा देहजीवितभोगेषु यस्मात् सः विगतस्पृहः; यः एवंभूतः आत्मज्ञः सः **नैष्कर्म्यसिद्धिं** निर्गतानि कर्माणि यस्मात् निष्क्रियब्रह्मात्मसंबोधात् सः निष्कर्मा तस्य भावः नैष्कर्म्यम्; नैष्कर्म्यं च तत् सिद्धिश्च सा नैष्कर्म्यसिद्धिः; निष्कर्मत्वस्य वा निष्क्रियात्मरूपावस्थानलक्षणस्य सिद्धिः निष्पत्तिः; तां नैष्कर्म्यसिद्धिं **परमां** प्रकृष्टां कर्मजसिद्धिविलक्षणां सद्योमुक्त्यवस्थानरूपां संन्यासेन सम्यग्दर्शनेन तत्पूर्वकेण वा सर्वकर्मसंन्यासेन अधिगच्छति प्राप्नोति। तथा च उक्तम् -- सर्वकर्माणि मनसा संन्यस्य नैव कुर्वन्न कारयन्नास्ते (गीता 5।13) इति॥ पूर्वोक्तेन स्वकर्मानुष्ठानेन ईश्वराभ्यर्चनरूपेण जनितां प्रागुक्तलक्षणां सिद्धिं प्राप्तस्य उत्पन्नात्मविवेकज्ञानस्य केवलात्मज्ञाननिष्ठारूपा नैष्कर्म्यलक्षणा सिद्धिः येन क्रमेण भवति; तत् वक्तव्यमिति आह --,
 </details>
@@ -176,12 +179,14 @@ stated. With this is view the Lord says:
 ब्रह्मसाक्षात्कारयोग्यतां नैर्गुण्यलक्षणां सिद्धिं परमां पूर्वस्याः
 सिद्धेः सात्त्विक्याः फलभूतामधिगच्छतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.49॥ नैष्कर्म्यसिद्धिं; नैष्कर्म्यफलां योगसिद्धिम्।
 </details>
@@ -192,12 +197,14 @@ stated. With this is view the Lord says:
 इति वाक्यशेषविरोधादिति भावेनान्यथा व्याचष्टे -- **नैष्कर्म्ये**ति।
 नैष्कर्म्यार्था सिद्धिर्नैष्कर्म्यसिद्धिः। सा च योगस्येत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -208,12 +215,14 @@ stated. With this is view the Lord says:
 
 18.49 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.49॥ पूर्वोक्तप्रकारमेव पुनरनुस्मारयति -- असक्तबुद्धिरिति।
 सर्वकर्मणां फलादिषु सक्तिरहितं चित्तं यस्येत्यर्थें साङ्ख्यमुपादेयम्।
@@ -233,10 +242,13 @@ stated. With this is view the Lord says:
 आसक्त्याद्यभिलाषान्ताभावकथनेनैतद्युक्तस्त्यागेनाऽपि सिद्धिं न प्राप्नोति
 तत्कर्मनिष्ठयैव भवतीति व्यञ्जितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.49॥ ननु कथं कर्मणि क्रियमाणे दोषांशप्रहाणेन गुणांश एव संपत्स्यत
 इत्यपेक्षायामाह **-- असक्तेति।** असक्ता सङ्गशून्या बुद्धिर्यस्य;
@@ -249,10 +261,13 @@ stated. With this is view the Lord says:
 तथाप्यनेनोक्तलक्षणेन संन्यासेन परमां नैष्कर्म्यसिद्धिम्सर्वकर्माणि मनसा
 संन्यस्यास्ते सुखं वशी इत्येवंलक्षणां पारमहंस्यापरपर्यायां प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.49 He whose understanding is on all sides unattached, whose self is conered, who is free from desires - he attains by renunciation the supreme perfection transcending all activity.
@@ -291,11 +306,13 @@ One may perform actions for the solidarity of the world and yet he will not be b
 city; neither acting nor causing others to act. (Cf.V.13)Now the Lord teaches in the next verse how a man who; having attained perfection as described above in verse 46; by doing his duty in the service of the Lord can attain perfect freedom from action. He gets discrimination;
 practises constant meditation and rests in the knowledge of the immutable Self.,(Cf.III.4and19)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.49।। जिसकी बुद्धि सब जगह आसक्तिरहित है, जिसने शरीरको वशमें कर रखा
@@ -406,6 +423,7 @@ practises constant meditation and rests in the knowledge of the immutable Self.,
 ।।18.49।। सर्वत्र आसक्ति रहित बुद्धि वाला वह पुरुष जो स्पृहारहित तथा
 जितात्मा है, संन्यास के द्वारा परम नैर्ष्कम्य सिद्धि को प्राप्त होता
 है।।
+</details>
 </details>
 
 </div>

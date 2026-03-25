@@ -23,8 +23,9 @@ title = "19 इति क्षेत्रम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.18॥ एवम्महाभूतान्यहङ्कारः (गीता 13।5) इत्यादिनासङ्घातश्चेतनाधृतिः (गीता 13।6) इत्यन्तेन क्षेत्रतत्त्वं समासेन उक्तम्। अमानित्वम् (गीता 13।7) इत्यादिनातत्त्वज्ञानार्थदर्शनम् (गीता 13।11) इत्यन्तेन ज्ञातव्यस्य आत्मतत्त्वस्य ज्ञानसाधनम् उक्तम्। अनादिमत्परम् (गीता 13।12) इत्यादिनाहृदि सर्वस्य विष्ठितम् (गीता 13।17) इत्यन्तेन ज्ञेयस्य क्षेत्रज्ञस्य याथात्म्यं च सङ्क्षेपेण **उक्तम्। मद्भक्त एतत्** क्षेत्रयाथात्म्यं क्षेत्राद् विविक्तात्मस्वरूपप्राप्त्युपाययाथात्म्यं क्षेत्रज्ञयाथात्म्यं च **विज्ञाय मद्भावाय** उपपद्यते। मम यो भावः स्वमावो ऽसंसारित्वम्; असंसारित्वप्राप्तये उपपन्नो भवति इत्यर्थः। अथ अत्यन्तविविक्तस्वभावयोः प्रकृत्यात्मनोः संसर्गस्य अनादित्वं संसृष्टयोर् द्वयोः कार्यभेदः संसर्गहेतुश् च उच्यते --
@@ -41,12 +42,14 @@ title = "19 इति क्षेत्रम्"
 'Reflection for attainment of knowledge of truth' (13.11). The nature of Ksetrajna (the self) which is the object of knowledge has also been concisely taught by the text beginning with 'The beginningless brahman having Me for the Highest' (13.12) and ending with 'present in the heart of all' (13.17). My devotee, on knowing this, i.e., the truth about the Ksetra, the truth about the means for attaining the nature of the self as distinct from the Ksetra, and the truth about the Ksetrajna, becomes worthy to attain My state of being. What is called My state of being is My own nature (Svabhava), namely, the transcendence of transmigratory existence. The meaning is that he becomes worthy to attain the state of freedom for transmigratory existence. Next (1) the beginninglessness of the conjunction between the Prakrti and the self which are completely distinct, (2) the difference in the workings of these two when they are associated with each other, and (3) the cause of this conjunction -
 these are treated:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.19॥ -- **इति** एवं **क्षेत्रं** महाभूतादि धृत्यन्तं **तथा ज्ञानम्** अमानित्वादि तत्त्वज्ञानार्थदर्शनपर्यन्तं **ज्ञेयं च** ज्ञेयं यत् तत् इत्यादि तमसः परमुच्यते (गीता 13।17) इत्येवमन्तम् **उक्तं समासतः** संक्षेपतः। एतावान् सर्वः हि वेदार्थः गीतार्थश्च उपसंहृत्य उक्तः। अस्मिन् सम्यग्दर्शने कः अधिक्रियते इति उच्यते -- **मद्भक्तः** मयि ईश्वरे सर्वज्ञे परमगुरौ वासुदेवे समर्पितसर्वात्मभावः यत् पश्यति शृणोति स्पृशति वा सर्वमेव भगवान् वासुदेवः इत्येवंग्रहाविष्टबुद्धिः मद्भक्तः। स **एतत्** यथोक्तं सम्यग्दर्शनं **विज्ञाय;** **मद्भावाय** मम भावः मद्भावः परमात्मभावः तस्मै मद्भावाय **उपपद्यते** मोक्षं गच्छति॥ तत्र सप्तमे ईश्वरस्य द्वे प्रकृती उपन्यस्ते; परापरे क्षेत्रक्षेत्रज्ञलक्षणे एतद्योनीनि भूतानि इति च उक्तम्। क्षेत्रक्षेत्रज्ञप्रकृतिद्वययोनित्वं कथं भूतानामिति अयमर्थः अधुना उच्यते --,
 </details>
@@ -148,12 +151,14 @@ being stated:
 सन्नात्मज्ञानसाधनान्येव परमपुरुषार्थलिप्सुरनुवर्तेत तुच्छविषयभोगस्पृहां
 हित्वेत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.19॥ विकारार्न्तभावाज्ज्ञानसाधनं प्रथमत उक्तम्।
 बहुत्वात्साधनात्युपयोगात् प्रभावः।
@@ -171,12 +176,14 @@ being stated:
 साधनानामत्युपयोगः; न तु तावान् लौकिकस्य प्रेरकत्वस्यानुभवारोह इति
 ज्ञापयितुं ज्ञानसाधनानन्तरमेव प्रभाव उक्तः। तत्प्रसङ्गेन चेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.19॥ एतदिति। एतत् क्षेत्रज्ञानज्ञेयात्मकं +++(;N क्षेत्रं)+++ त्रयं यो वेत्ति; स एवम मद्भक्तः। स च मद्भावमेति।
 </details>
@@ -185,12 +192,14 @@ being stated:
 
 13.19 Etat etc. He, who understands this traid of the Field, the knowledge and what is to be known-he alone is a devotee of Mine; and he atains My state. After making this definition, the same is now examined as -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.19॥ प्रकृतिः पुरुषश्चोभौ परमात्माऽभवत्पुरा। यद्रूपं समधिष्ठाय
 तदक्षरमुदीरितम् इतीति। महाभूतान्यहङ्कारः इत्यादिनासङ्घातश्चेतना धृतिः
@@ -211,10 +220,13 @@ being stated:
 विज्ञाय विशेषेण मद्विभूत्यक्षरात्मकं ज्ञात्वा मद्भक्तो मद्भजनशीलः सन्
 मद्भावाय भावात्मकस्वरूपलाभाय उपपद्यते योग्यः समर्थो वा भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.19॥ उक्तं क्षेत्रादिकमधिकारिफलसहितमुपसंहरति **-- इतीति।** इत्येवं
 क्षेत्रं महाभूतादिधृत्यन्तं तथा ज्ञानं च
@@ -223,10 +235,13 @@ being stated:
 संक्षेपेणोक्तम्। एतच्च पूर्वाध्यायोक्तलक्षणो मद्भक्तो विज्ञाय मद्भावाय
 ब्रह्मत्वायोपपद्यते योग्यो भवति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.19 Thus the Ksetra, knowledge and the object of knowledge have been briefly set forth. On knowing this, My devotee becomes fit to attain My state of being.
@@ -260,11 +275,13 @@ being stated:
 उपपद्यते enters.Commentary He whohas controlled his mind and organs; who has the knowledge of the field and the knowable; and who fixes his mind on Me becomes one with Me.Thus the field described above (beginning with the great elements and ending with firmness; verses 5 and 6); knowledge described above (beginning with humility and ending with perception of the end of true knowledge in verses 7 to 11) and the knowable described in verses 12 to 17 -- these have briefly been stated.He who has singleminded devotion unto Me; who takes Me (Vaasudeva; the Supreme Lord; the omniscient; and the supreme Guru) as the Self of everything;
 he who thinks and feels that all that he sees; hears and touches is nothing but the Lord and he who has the right knowledge described above enters into My Being or attains release from birth and death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.19।। इस प्रकार क्षेत्र, ज्ञान और ज्ञेयको संक्षेपसे कहा गया। मेरा
@@ -309,6 +326,7 @@ he who thinks and feels that all that he sees; hears and touches is nothing but 
 ।।13.19।। इस प्रकार, (मेरे द्वारा) क्षेत्र, ज्ञान और ज्ञेय को संक्षेपत:
 कहा गया। इसे तत्त्व से जानकर (विज्ञाय) मेरा भक्त मेरे स्वरूप को प्राप्त
 होता है।।
+</details>
 </details>
 
 </div>

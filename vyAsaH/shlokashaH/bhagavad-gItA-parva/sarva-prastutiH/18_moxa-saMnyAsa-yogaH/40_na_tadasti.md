@@ -23,8 +23,9 @@ title = "40 न तदस्ति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.40॥**पृथिव्यां** मनुष्यादिषु **दिवि देवेषु वा** प्रकृतिसंसृष्टेषु ब्रह्मादिस्थावरान्तेषु **प्रकृतिजैर् एभिस् त्रिभिर् गुणैर् मुक्तं यत् सत्त्वं** प्राणिजातं **न तद् अस्ति। त्यागेनैके अमृतत्वमानशुः (महाना॰ 8।14) इत्यादिषु मोक्षसाधनतया निर्दिष्टस् त्यागः सन्न्यासशब्दार्थाद् अनन्यः; स च क्रियमाणेष्व् एव कर्मसु कर्तृत्वत्यागमूलः फलकर्मणोस् त्यागः कर्तृत्वत्यागश् च परमपुरुषे कर्तृत्वानुसन्धानेन इत्य् उक्तम्। एतत् सर्वं सत्त्वगुणवृद्धिकार्यम् इति सत्त्वोपादेयताज्ञापनाय सत्त्वरजस्तमसां कार्यभेदाः प्रपञ्चिता इदानीम् एवम्भूतस्य मोक्षसाधनतया क्रियमाणस्य कर्मणः परमपुरुषाराधनवेषताम्; तथा अनुष्ठितस्य च कर्मणस् तत्प्राप्तिलक्षणं फलं प्रतिपादयितुं ब्राह्मणाद्यधिकारिणां स्वभावानुबन्धिसत्त्वादिगुणभेदभिन्नं वृत्त्या सह कर्तव्यकर्मस्वरूपम् आह --**
@@ -39,12 +40,14 @@ title = "40 न तदस्ति"
 
 18.40 There is no Sattva or creature born either among men etc., on the earth or among the gods in heaven, from Brahma down to immobile things, and having their basis in Prakrti, that is free from the dominance of the three Gunas of Prakrti. 'Tyaga', which has been determined as forming the means for release in the Sruti texts like 'By Tyaga alone do they attain immortality' (Ma. Na., 8.14), is of the same meaning as of the word 'Sannyasa'. It is rooted in the relinishment of the sense of agency in actions that are being performed. The relinishment of the results and of possessiveness in actions, and the relinguishing of agency are to be gained by ascribing the agency to the Supreme Person. As all these are the effects of the increase of Sattva-guna, the differences of the effects of Sattva, Rajas and Tamas have been described at length with a view to instruct that Sattva is to be cultivated. Now Sri Krsna, with a view to inculcate that actions done including their fruits, as a means to release and attainment of Him, must be of the nature of the worship of the Supreme Person, and that the fruit thereof is the attainment of Him - describes the actions obligatory for the alified classes of the people such as Brahmanas, differentiated by virtue of the natural alities arising from the Gunas such as Sattva, as also the occupations prescribed for those classes.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.40॥ --,**न तत् अस्ति** तत् नास्ति **पृथिव्यां वा** मनुष्यादिषु सत्त्वं प्राणिजातम् अन्यद्वा अप्राणि; **दिवि देवेषु वा पुनः सत्त्वम्; प्रकृतिजैः** प्रकृतितः जातैः **एभिः त्रिभिः गुणैः** सत्त्वादिभिः **मुक्तं** परित्यक्तं यत् स्यात्; न तत् अस्ति इति पूर्वेण संबन्धः॥  
   
@@ -134,12 +137,14 @@ Ksatriyas and the Vaisyas৷৷.', etc.
 पृथिव्यां मनुष्यादिषु दिवि देवेषु वा नास्ति। क्वापि
 गुणत्रयरहितमनात्मवस्तु नास्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.40॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -148,12 +153,14 @@ Ksatriyas and the Vaisyas৷৷.', etc.
 
 ॥18.40॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.40॥ न तदस्तीति। एवं कर्तृकर्मकरणानां +++(N -- कारणानाम् )+++ बुद्धिधृत्योः सुखस्य च सत्त्वादिभेदभिन्नानां परस्पराङ्गाङ्गिभावबाध्यबाधकत्वसमुच्चयात् वृत्तिक्रमयौगपद्यादियोगात् +++(S
 -- पद्यादिभेदात् )+++ अपरिसंख्येयभेदत्त्वात् विविधफलप्रसवसमर्थत्वम् इति।
@@ -170,12 +177,14 @@ Ksatriyas and the Vaisyas৷৷.', etc.
 
 18.40 Na tad asti etc. In this manner, the agent, the object and the instrument, the intellect and content, and happiness are classified under different heads of the Sattva etc. Because they have a mutual relationship of subordinate-and-principal or of the oppressed-and-opressor or of the togetherness; becuase they have modifications occuring either together or in a specific seence; and because they, on that account, have varieties beyond all counting; they are capable of bringing forth fruits (results) of umpteen variety. This (statement) logically demonstrates in detail the uncomprehensibility of actions (their results) which has been indicated earlier (above IV, 17ff.). All these beings, starting from the gods down to the immovables, do not transcend the relation with the traid of the Strands. Indeed it has been said - 'Commencing from Brahma (personal god) down to the \[insignificant\] worm, no one is really happy; all, without exception, having desire to live, undertake different acts of agitation (or commit different frauds to appear to be happy).' Indeed the real happiness is \[only\] to him whose mind has gone beyond the Strands and not to anyone else. This is what is intended here. So far, the three-fold nature of each of the six items and also of the content etc., has been explained. 'Among them, he who is occupied with the group of the Sattva (Strand) and who has attained the divine wealth is fit for the subject under study; and you are of that sort' - telling in this manner, Arjuna has been encouraged. Now the following is declared : If you engage yourself in the action with this reslove for correct knowledge, then because of your undertaking of your own righteous action and because of your sanctity through wisdom, there is no bondage of aciton for you. On the other hand, if you don't follow this, \[even\] then there must necessarily be some activity in you; because your birth itself stands to that effect. Since, being controlled by its own intrinsic nature, everything, though it may have, for a short while, its nature concealed due to some fault, regains its own nature that becomes perceivable when the concealing agent disappears. For example, the nature of the castes is of this nature. Thus when an effort necessarily takes place, there would be \[for its agent\] its fruit. This \[the Bhagavat\] says-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.40॥ किमन्यद्वाच्यं प्राणिषु सर्वं प्राकृतत्रिगुणमयमेवेत्याह -- न
 तदस्तीति। दिवि ब्रह्मलोकपर्यन्तं दिव्येषु प्राकृतैर्गुणैर्मुक्तं सत्त्वं
@@ -202,20 +211,26 @@ Ksatriyas and the Vaisyas৷৷.', etc.
 सात्त्विकादिष्वपि त्रैविध्यमस्तीतिवा पुनः इत्यनेन
 केवलसात्त्विकत्वाद्देवेष्वसम्भावितत्वादस्त्येवेति निर्धारितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.40॥ अनुक्तमपि संगृह्णन्प्रकरणार्थमुपसंहरति **-- न तदस्तीति।** एभिः
 प्रकृतिसंभवैः सत्त्वादिभिस्त्रिभिर्गुणैर्मुक्तं हीनं सत्त्वं
 प्राणिजातमन्यद्वा यत्स्यात्तत्पृथिव्यां मनुष्यलोकादिषु दिवि देवेषु च
 क्वापि नास्तीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.40 There is no creature, either on earth or again among the gods in heaven, that is free from these three Gunas born of Prakrti.
@@ -250,11 +265,13 @@ born of the Material-Nature.
 from these; स्यात् may be; त्रिभिः from three; गुणैः by alities.Commentary The Gunas form the warp and woof of everything as threads do in the case of cloth.Here in the world of mortals or there in the heavenworld; there is no creature that is not bound by the three alities of Nature. Can there be a cloth without threads Can there be a man without blood and bones Can there be a mountain without stones Even so there is not a single creature in the whole universe into whose composition the three alities of matter do not enter. The whole of creation is wrought of these three alities. They have given rise to the Trinity (Brahma; Vishnu and Siva). In the world of mortals the triplicity of agent; action and fruit owe their origin to them. They are the cause of the different functions of the four castes. This Samsara has been compared to the peepul tree in chapter XV.1. This Samsara is made up of the three alities and is kept up by the force of ignorance.Action; instruments of action and fruits have set the wheel of Samsara in motion and this wheel is revolving from beginningless time.
 It is only a liberated sage who has attained knowledge of the Self who puts a check to this wheel; goes beyond the cause and the effect; and breaks the bonds of Karma.Cut this mysterious tree of Samsara with the strong sword of nonattachment; transcend the three Gunas and rest in your own essential divine nature as ExistenceKnowledgeBliss Absolute.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.40।। पृथ्वीमें या स्वर्गमें अथवा देवताओंमें तथा इनके सिवाय और कहीं
@@ -389,6 +406,7 @@ It is only a liberated sage who has attained knowledge of the Self who puts a ch
 ।।18.40।। पृथ्वी पर अथवा स्वर्ग के देवताओं में ऐसा कोई प्राणी (सत्त्वं
 अर्थात् विद्यमान वस्तु) नहीं है जो प्रकृति से उत्पन्न इन तीन गुणों से
 मुक्त (रहित) हो।।
+</details>
 </details>
 
 </div>

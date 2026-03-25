@@ -23,8 +23,9 @@ title = "37 यत्तदग्रे विषमिव"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.37॥**यत् तत्** सुखम् अग्रे योगोपक्रमवेलायां बह्वायाससाध्यत्वाद् विविक्तस्वरूपस्य अननुभूतत्वाच् च **विषम्** इव दुःखम् इव भवति; **परिणामे अमृतोपमं** परिणामे विपाके अभ्यासबलेन विविक्तात्मस्वरूपाविर्भावे अमृतोपमं भवति; तच् च **आत्मबुद्धिप्रसादजम्;** आत्मविषया बुद्धिर् आत्मबुद्धिः; तस्या निवृत्तसकलेतरविषयत्वं प्रसादः; निवृत्तसकलेतरविषयबुद्ध्या विविक्तस्वभावात्मानुभवजनितं सुखम् अमृतोपमं भवति **तत् सुखं सात्त्विकं प्रोक्तम्।**
@@ -44,12 +45,14 @@ title = "37 यत्तदग्रे विषमिव"
 'Atama-buddhi.' When all objects are withdrawn from that Buddhi it becomes serene (Prasanna). The joy born of the experience of the self in its distinct nature, when all objects are withdrawn from the Buddhi,
 becomes 'like elixir'. That joy is said to be Sattvika.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.37॥ --,**यत् तत्** सुखम् **अग्रे** पूर्वं प्रथमसंनिपाते ज्ञानवैराग्यध्यानसमाध्यारम्भे अत्यन्तायासपूर्वकत्वात् **विषमिव** दुःखात्मकं भवति; **परिणामे** ज्ञानवैराग्यादिपरिपाकजं सुखम् **अमृतोपमम्; तत् सुखं सात्त्विकं प्रोक्तं** विद्वद्भिः; आत्मनः बुद्धिः आत्मबुद्धिः; आत्मबुद्धेः प्रसादः नैर्मल्यं सलिलस्य इव स्वच्छता; ततः जातं **आत्मबुद्धिप्रसादजम्।** आत्मविषया वा आत्मावलम्बना वा बुद्धिः आत्मबुद्धिः; तत्प्रसादप्रकर्षाद्वा जातमित्येतत्। तस्मात् सात्त्विकं तत्॥
 </details>
@@ -131,12 +134,14 @@ Self)'; therefore it is born of sattva.
 तत्पदाध्याहारेण पूर्णस्य श्लोकस्यान्वयः। यत्तदग्र,इत्यादिश्लोकेन तु
 सात्त्विकसुखलक्षणमिति। भाष्यकाराभिप्रायोप्येवम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.37॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -145,12 +150,14 @@ Self)'; therefore it is born of sattva.
 
 ॥18.37॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.36 -- 18.39॥ सुखमित्यादि तामसमुदाहृतमित्यन्तम्। तदात्वे; अभ्यासकाले। विषमिव; जन्मशताभ्यस्तविषयसङ्गस्य दुष्परिहारत्वात्। उक्तं च श्रुतौ -- क्षुरस्य धारा विषमा दुरत्यया इत्यादि। आत्मप्रसादात् बुद्धिप्रसादो जायते; अन्यस्यापेक्ष्यमाणस्याभावात्। विषयेन्द्रियाणां परस्परसंयोगज़ं,+++(S; -- संप्रयोगजम् )+++ सुखम्; चक्षुष इव रूपसंबन्धात्। निद्रातः आलस्येन प्रमादेन +++(S; ; N आलस्येन शठतया प्रमादेन )+++ पूर्वं व्याख्यातेन यत् सुखं तत्तामसम्।
 </details>
@@ -159,12 +166,14 @@ Self)'; therefore it is born of sattva.
 
 18.37 See Comment under 18.39
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.37॥ तदेव विशिनष्टि -- यत्तदिति। सुखं अग्रे योगोपक्रमवेलायां
 बह्वायाससाध्यत्वाद्विविक्तात्मस्वरूपानुभवाभावात् विषमिव दुःखस्वरूपमिव
@@ -180,20 +189,26 @@ Self)'; therefore it is born of sattva.
 शुद्धत्वं तज्जं तत्सुखं सात्त्विकं सत्त्वसम्बन्धजं प्रोक्तम्।
 तज्ज्ञैरिति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.37॥ कीदृशं तत् **-- यत्तदिति।** यत्तत्किमपि अग्रे प्रथमं विषमिव
 मनःसंयमाधीनत्वाद्दुःखावहमिव भवति। परिणामे त्वमृतसदृशम्। आत्मविषया
 बुद्धिरात्मबुद्धिस्तस्याः प्रसादेन रजस्तमोमलत्यागेन स्वच्छतयावस्थानं ततो
 जातं यत्सुखं तत्सात्त्विकं प्रोक्तं योगिभिः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.37 That which is like a poison at first but becomes like elixir in the end, born from the serene state of mind focusing on the self - such pleasure is said to be Sattvika.
@@ -227,11 +242,13 @@ that pleasure is Pure, for it is born of Wisdom.
 सात्त्विकम् Sattvic; प्रोक्तम् is declared (to be); आत्मबुद्धिप्रसादजम्
 born of the purity of ones own mind due to Selfrealisation.Commentary Agree vishma iva In the beginning it is attended with much pain as one has to abandon the sensual objects and comforts and practise severe austerities and rigorous Sadhana. He has to undergo a severe ordeal when he practises Yama; Niyama; Tapas and various other vows. He has to cultivate dispassion or indifference to sensual pleasures. This gives him much pain at first. The practice of concentration and meditation also gives pain the beginning. Subjugation of the senses is also very troublesome. Nux vomica is very bitter. One feels much discomfort when he takes a mixture that contains nux vomica. But he derives much pleasure in the end when he gets vigour and good appetite and when his dyspepsia is cured. Even so the aspirant drinks the nectar of immortality in the end; attains the highest knowledge; rejoices in the,Self to his hearts content and enjoys supreme peace and eternal bliss.Proktam It is declared by the wise.Atmabuddhiprasadajam Born as purity of ones own intellect or born of the direct; perfect and clear knowledge of Brahman or the immortal; selfluminous; eternal and supreme Self or the Absolute. The individual self experiences Sattvic happiness when it realises union with the highest Self.The pleasure so born is Sattvic. (Cf.VI.1;2)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.37।। हे भरतवंशियोंमें श्रेष्ठ अर्जुन ! अब तीन प्रकारके सुखको भी तुम
@@ -384,6 +401,7 @@ born of the purity of ones own mind due to Selfrealisation.Commentary Agree vish
 ।।18.37।। जो सुख प्रथम (प्रारम्भ में) विष के समान (भासता) है, परन्तु
 परिणाम में अमृत के समान है, वह आत्मबुद्धि के प्रसाद से उत्पन्न सुख
 सात्त्विक कहा गया है।।
+</details>
 </details>
 
 </div>

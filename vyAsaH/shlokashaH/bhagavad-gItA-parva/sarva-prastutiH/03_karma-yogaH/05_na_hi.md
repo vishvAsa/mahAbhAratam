@@ -23,8 +23,9 @@ title = "05 न हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 एतद् एवोपपादयति …। 
@@ -142,12 +143,14 @@ title = "05 न हि"
 
 3.5 In this world, no man can rest without doing work; for every person, even though he may have determined, 'I will not do anything,' is caused to act, i.e., is compelled to act according to the Gunas born of Prakrti. The Gunas are Sattva, Rajas and Tamas which increase in accordance with his old Karma. Conseently, Jnana Yoga can be attained only by means of a purified inner organ after annulling the old accumulation of sins by means of Karma Yoga of the aforesaid characteristics and bringing Sattva and other Gunas under control. Otherwise, one who engages oneself in Jnana Yoga becomes a hypocrite:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.5॥ **न हि** यस्मात् **क्षणमपि** कालं **जातु** कदाचित् **कश्चित् तिष्ठति अकर्मकृत्** सन्। कस्मात् **कार्यते** प्रवर्त्यते **हि** यस्मात् **अवश** एव अस्वतन्त्र एव **कर्म सर्वः** प्राणी **प्रकृतिजैः** प्रकृतितो जातैः सत्त्वरजस्तमोभिः **गुणैः**। अज्ञ इति वाक्यशेषः यतो वक्ष्यतिगुणैर्यो न विचाल्यते इति। साङ्ख्यानां पृथक्करणात् अज्ञानामेव हि कर्मयोगः न ज्ञानिनाम्। ज्ञानिनां तु गुणैरचाल्यमानानां स्वतश्चलनाभावात् कर्मयोगो नोपपद्यते। तथा च व्याख्यातम् वेदाविनाशिनम् इत्यत्र॥ यत्त्वनात्मज्ञः चोदितं कर्म नारभते इति तदसदेवेत्याह
 </details>
@@ -238,12 +241,14 @@ certainly bad. Hence the Lord says:
 सर्वदा कर्माणि कुर्वतोऽशुद्धबुद्धेः सर्वकर्मसंन्यासो न संभवतीति न
 संन्यासनिबन्धना ज्ञाननिष्ठा संभवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.5॥ न तु कर्माणि सर्वात्मना त्यक्तुं शक्यानीत्याह न हीति।
 </details>
@@ -262,12 +267,14 @@ certainly bad. Hence the Lord says:
 कर्मशब्दस्तावदसङ्कुचितार्थः परेणाप्यङ्गीकर्तुमशक्य इति प्रतिपादयितुं
 कर्माणि सर्वात्मना त्यक्तुं नैव शक्यानीत्यनेनाहेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.4 3.5॥ तथा हि न कर्मणामिति। न हीति। ज्ञानं कर्मणा रहितं न भवति कर्म च कौशलोपेतं ज्ञानरहितं न भवति इत्येकमेव वस्तु ज्ञानकर्मणी। तथाचोक्तम्। न क्रियारहितं ज्ञानं न ज्ञानरहिता क्रिया।  
   
@@ -278,12 +285,14 @@ certainly bad. Hence the Lord says:
 
 3.4-5 Na karmanam etc Na hi etc. Knowledge, deserted by action, does not exist; and the action, combined with dexterity does not exist, \[if it is\] deserted by knowledge. Therefore knowledge and action constitute one and the same thing. Hence it has been delclared : 'Knowledge is not deserted by action and action is not deserted by knowledge. \[Hence\] a teacher who is well accomplished in knowledge and action, is the cutter of the fetters of the fettered'. Therefore the action that is included within the knowledge cannot be avoided. For, the body, the organ of speech and the mind are, by nature, in a perpetual motion; and hence an individual, being simply under the control of other than himself, necessarily performs one action or the other. For, the body, the speech-organ and the mind are of the nature of throbing.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.5॥ अतोऽवशः सर्वः प्रकृतिजैर्गुणैर्वा कर्म कार्यत एव।
 </details>
@@ -298,10 +307,13 @@ certainly bad. Hence the Lord says:
 स्वरूपज्ञानानन्तरं प्राकृतकार्यतां तेषु ज्ञात्वा मद्वशो भूत्वा त्यजेदिति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/05_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/05_na_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.5॥ कर्मणां च संन्यासस्तेष्वनासक्तिमात्रं न तु स्वरुपेणा
 शक्यत्वादित्याह **नहीति।** जातु कास्यांचिदवस्थायां क्षणमात्रमपि कश्चिदपि
@@ -309,10 +321,13 @@ certainly bad. Hence the Lord says:
 प्रकृतिजैः स्वाभावप्रभवै राग्द्वेषादिगुणैः सर्वोऽपि जनः कर्म कार्यते
 कर्मणि प्रवर्तते अवशोऽस्वतन्त्रः सन्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.5 No man can, even for a moment, rest without doing work; for everyone is caused to act, in spite of himself, by the Gunas born of Nature.
@@ -346,11 +361,13 @@ For all are made to work under compulsion by the gunas born of Nature.
 are three; viz.; Sattva; Rajas and Tamas. Sattva is harmony or light or purity Rajas is passion or motion Tamas is inertia or darkness. Sattvic actions help a man to attain to Moksha. Rajasic and Tamasic actions bind a man to Samsara.These alities cannot affect a man who has knowledge of the Self. He has crossed over these alities. He has become a Gunatita
 (one who has transcended the alities of Nature). The ignorant man who has no knowledge of the Self and who is swayed by Avidya or nescience is driven helplessly to action by the Gunas. (Cf.IV.16;XVIII.11).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/05_na_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.5।। कोई भी मनुष्य किसी भी अवस्थामें क्षणमात्र भी कर्म किये बिना नहीं
@@ -444,6 +461,7 @@ are three; viz.; Sattva; Rajas and Tamas. Sattva is harmony or light or purity R
 ।।3.5।। कोई भी पुरुष कभी क्षणमात्र भी बिना कर्म किए नहीं रह सकता क्योंकि
 प्रकृति से उत्पन्न गुणों के द्वारा अवश हुए सब (पुरुषों) से कर्म करवा
 लिया जाता है।।
+</details>
 </details>
 
 </div>

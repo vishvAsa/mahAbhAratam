@@ -25,8 +25,9 @@ title = "26 अमी च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.26॥**अमी धृतराष्ट्रस्य पुत्राः** दुर्योधनादयः **सर्वे भीष्मो द्रोणः सूतपुत्रः** कर्णश्च तत्पक्षीयैर् अवनिपालसमूहैः सर्वैः **अस्मदीयैर् अपि** कैश्चिद् **योधमुख्यैः सह त्वरमाणा दंष्ट्राकरालनि भयानकानि** तव **वक्त्राणि विनाशाय विशन्ति।** तत्र **केचिच् चूर्णितैर् उत्तमाङ्गैर् दशनान्तरेषु विलग्नाः सन्दृश्यन्ते।**
@@ -52,12 +53,14 @@ title = "26 अमी च"
 
 11.26 11.27 All these sons of Dhrtarastra like Duryodhana and others like Bhisma, Drona, and Suta's son Karna together with the hosts of monarchs on their side and also the leading warriors on our side, are hastening to their destruction; they enter Your fearful mouths with terrible fangs; some, caught between the teeth are seen with their heads crushed to powder.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.26॥ --,**अमी च त्वां धृतराष्ट्रस्य** पुत्राः दुर्योधनप्रभृतयः -- त्वरमाणाः विशन्ति इति व्यवहितेन संबन्धः -- **सर्वे सहैव** सहिताः **अवनिपालसंघैः** अवनिं पृथ्वीं पालयन्तीति अवनिपालाः तेषां संघैः; किञ्च **भीष्मो द्रोणः सूतपुत्रः** कर्णः **तथा असौ सह अस्मदीयैरपि** धृष्टद्युम्नप्रभृतिभिः **योधमुख्यैः** योधानां मुख्यैः प्रधानैः सह॥ किञ्च
 --,
@@ -119,12 +122,14 @@ Moreover,
 मम विद्वेष्टा। सहास्मदीयैरपि परकीयैरिव
 धृष्टद्युम्नप्रभृतिर्योधमुख्यैस्त्वां विशन्तीत्यन्वयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.26॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -133,12 +138,14 @@ Moreover,
 
 ॥11.26॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.26॥ No commentary.
 </details>
@@ -147,12 +154,14 @@ Moreover,
 
 11.26 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.26॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -167,10 +176,13 @@ Moreover,
 द्रोणः शास्त्रविशारदः; सूतपुत्रः कर्णः अस्मदीयैरपि योधमुख्यैः
 घृष्टद्युम्नादिभिः सह।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/26_amI_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/26_amI_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.26॥ यच्चान्यद्द्रष्टुमिच्छसीत्यनेनास्मिन्संग्रामे भाविजयपराजयादिकं
 च मम देहे पश्येति यद्भगवतोक्तं तदिदानीं पश्यन्नाह **-- अमी चेति
@@ -179,10 +191,13 @@ Moreover,
 भीष्मश्च द्रोणश्चासौ सूतपुत्रः कर्णश्च। न केवलं त एव विशन्ति अपितु
 प्रतियोद्वारो येऽस्मदीया योधमुख्याः शिखण्डिधृष्टद्युम्नादयः तैः सह।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.26 All these sons of Dhrtarastra together with the hosts of monarchs,
@@ -219,11 +234,13 @@ together with the chief warriors of ours too;
 with; अस्मदीयैः with (those) of ours; अपि also; योधमुख्यैः (with)
 warrior chiefs.Commentary Karna; though he was the son of Kunti; the mother of the Pandavas; was brought up by a charioteer and hence came to be regarded as his son.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/26_amI_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.26 -- 11.27।। हमारे मुख्य योद्धाओंके सहित भीष्म, द्रोण और वह कर्ण
@@ -267,6 +284,7 @@ warrior chiefs.Commentary Karna; though he was the son of Kunti; the mother of t
 ।।11.26।। और ये समस्त धृतराष्ट्र के पुत्र राजाओं के समुदाय सहित आप में
 प्रवेश करते हैं। भीष्म, द्रोण तथा कर्ण और हमारे पक्ष के भी प्रधान
 योद्धाओं के सहित.।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "23 अन्तवत्तु फलम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.23॥**तेषाम् अल्पमेधसाम्** अल्पबुद्धीनाम् इन्द्रादिमात्रयाजिनां तदाराधन**फलं** स्वल्पम् **अन्तवत्** च **भवति।** कुतः **देवान् देवयजो यान्ति** यत इन्द्रादीन् **देवान्** तद्याजिनो **यान्ति।** इन्द्रादयो हि परिच्छिन्नभोगाः परिमितकालवर्तिनश्च। ततस् तत्सायुज्यं प्राप्तास् तैः सह प्रच्यवन्ते।  
@@ -42,12 +43,14 @@ title = "23 अन्तवत्तु फलम्"
 7.23 The men of 'small understanding' means those whose understanding is poor, who worship only Indra and other divinities. The fruit of their worship is small and finite. Why; The worshippers of divinities like Indra go to the divinities. And Indra and other divinities possess limited joy and live only for a limited time. So if they attain eality of enjoyment with them, they also fall down along with them in due course; but My devotees, knowing that their acts are of the nature of My worship, renouncing attachment for finite, fruits, reach Me, having for their purpose the pleasing of Me alone. That is, they never more return to Samsara. For Sri Krsna teaches later on: 'But on reaching Me there is no rirth, O Arjuna' (8.16). Now Sri Krsna declares: 'But these others
 (i.e., who worship Indra etc.) regard as insignificant even My incarnations among men and other beings in order to make Myself easy for all to resort to.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.23॥ **अन्तवत्** विनाशि **तु फलं तेषां तत् भवति अल्पमेधसां** अल्पप्रज्ञानाम्। **देवान्देवयजो यान्ति** देवान् यजन्त इति देवयजः ते देवान् यान्ति **मद्भक्ता यान्ति मामपि।** एवं समाने अपि आयासे मामेव न प्रपद्यन्ते अनन्तफलाय अहो खलु कष्टं वर्तन्ते इत्यनुक्रोशं दर्शयति भगवान्॥ किंनिमित्तं मामेव न प्रपद्यन्ते इत्युच्यते
 </details>
@@ -132,12 +135,14 @@ alone;' The answer is:
 समानेऽपि सकामत्वे मद्भक्तानामन्यदेवताभक्तानां च महदन्तरं
 तस्मात्साधूक्तमुदाराः सर्व एवैत इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.23॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -146,12 +151,14 @@ alone;' The answer is:
 
 ॥7.23॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.20 7.23॥ कामैरित्यादि मामपीत्यन्तम्। 
 
@@ -168,12 +175,14 @@ alone;' The answer is:
 
 7.20-23 Kamaih etc. upto man api. On the other hand, those persons, whose minds are conditioned by a variety of their own respective desires for the best and so on (or the desires that may be classified as the best and so on) - they have thier thinking faculty carried away by their desires, and worship a particular deity who possesses nothing but My intermediate body that suits only to those devotees' desires. Hence, they obtain their desired result from Me alone. But, that result has an end of its own, because it is limited by the mental impressions of their own. Therefore those who perform sacrifice etc., with the aim of becming Indra etc., (or of attaining the houses of Indra etc.) gain their desired fruit accordingly. On the other hand, those whose chief aim is to attain Me, they gain Me alone. But, while the Absolute-being is immanent in all, how is it that the fruit achieved by the worshippers of other deities is limited ; The answer is given as :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.23॥ अतो भावभेदात्फलभेद इत्याह अन्तवदिति। तुशब्दो भेदं सूचयति।
 यतोऽल्पमेधसां इन्द्रादिमात्राङ्गयाजिनां शाखाफलपत्रान्यतरसेचकानामिव तेषां
@@ -202,10 +211,13 @@ alone;' The answer is:
 हरिवंशेअपत्यं द्रविणं दारा हारा हर्म्यं हया गजाः। सुखानि स्वर्गमोक्षौ च
 न दूरे हरिभक्तितः॥ इति। इदमेवापिशब्देन व्यज्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.23॥ तदेव यद्यपि सर्वा अपि देवता ममैव मूर्तयः अतस्तदाराधनमपि वस्तुतो
 मदाराधनमेव तत्तत्फलदातापि चाहमेव तथापि साक्षान्मद्भक्तानां च तेषां
@@ -214,10 +226,13 @@ alone;' The answer is:
 देवानन्तवतो यान्ति। मद्भक्तास्तु मामनाद्यन्तं तं परमानन्दं
 प्राप्नुवन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.23 But limited is the fruit gained by these men of small understanding. The worshippers of the gods will go to the gods but My devotees will come to Me.
@@ -254,11 +269,13 @@ perishable and temporary.Yajnas (Vedic rituals); Homas (rituals in which oblatio
 Liberation from the wheel of transmigration alone will give everlasting bliss and eternal peace.Those who worship Indra and others are Sattvic devotees those who worship Yakshas and Rakshasas (demoniacal beings) are Rajasic devotees and those who worship the Bhutas and Pretas (discarnate spirits) are Tamasic devotees.The knowledge of those who worship the small deities is partial and incomplete. It cannot lead to liberation.
 (Cf.IX.25)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.23।। परन्तु उन अल्पबुद्धिवाले मनुष्योंको उन देवताओंकी आराधनाका फल
@@ -325,6 +342,7 @@ Liberation from the wheel of transmigration alone will give everlasting bliss an
 ।।7.23।। परन्तु उन अल्प बुद्धि पुरुषों का वह फल नाशवान् होता है। देवताओं
 के पूजक देवताओं को प्राप्त होते हैं और मेरे भक्त मुझे ही प्राप्त होते
 हैं।।
+</details>
 </details>
 
 </div>

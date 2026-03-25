@@ -23,8 +23,9 @@ title = "05 यत्साङ्ख्यैः प्राप्यते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.5॥**साङ्ख्यैः** ज्ञाननिष्ठैः **यद्** आत्मावलोकनरूपफलं **प्राप्यते** **तद्** एव कर्मयोगनिष्ठैः **अपि** प्राप्यते। एवम् एकफलत्वेन **एकं** वैकल्पिकं **साङ्ख्यं** **योगं च यः पश्यति स पश्यति** स एव पण्डित इत्यर्थः। इयान् विशेष इत्याह
@@ -39,12 +40,14 @@ title = "05 यत्साङ्ख्यैः प्राप्यते"
 
 5.5 The fruit in the form of the vision of the self which is attained by the Sankhyans (i.e.) Jnana Yogins, the same is attained alone by those who are Karma Yogins. He alone is wise who sees that Sankhya and the Yoga are one and the same because of their having the same result. Sri Krsna points out, if the aforesaid is the case, wherein the difference between them lies.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.5॥ **यत् साङ्ख्यैः** ज्ञाननिष्ठैः संन्यासिभिः **प्राप्यते स्थानं** मोक्षाख्यम् **तत् योगैरपि** ज्ञानप्राप्त्युपायत्वेन ईश्वरे समर्प्य कर्माणि आत्मनः फलम् अनभिसंधाय अनुतिष्ठन्ति ये ते योगाः योगिनः तैरपि परमार्थज्ञानसंन्यासप्राप्तिद्वारेण **गम्यते** इत्यभिप्रायः। अतः **एकं साख्यं च योगं च यः पश्यति** फलैकत्वात् **स सम्यक् पश्यती**त्यर्थः॥ एवं तर्हि योगात् संन्यास एव विशिष्यते कथं तर्हि इदमुक्तम् तयोस्तु कर्मसंन्यासात् कर्मयोगो विशिष्यते (गीता 5.2) इति श्रृणु तत्र कारणम् त्वया पृष्टं केवलं कर्मसंन्यासं कर्मयोगं च अभिप्रेत्य तयोः अन्यतरः कः श्रेयान् इति। तदनुरूपं प्रतिवचनं मया उक्तं कर्मसंन्यासात् कर्मयोगः विशिष्यते इति ज्ञानम् अनपेक्ष्य। ज्ञानापेक्षस्तु संन्यासः साङ्ख्यमिति मया अभिप्रेतः। परमार्थयोगश्च स एव। यस्तु कर्मयोगः वैदिकः स च तादर्थ्यात् योगः संन्यास इति च उपचर्यते। कथं तादर्थ्यम् इति उच्यते
 </details>
@@ -163,12 +166,14 @@ it lead to that; The answer is:
 कर्मयोगोऽनुष्ठेयो नतु संन्यासः। सतु वैराग्यतीव्रतायां स्वयमेव
 भविष्यतीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.5॥ एकप्नपि 5।4 इत्यस्याभिप्रायमाह यत्साङ्ख्यैरिति। योगिभिरपि
 ज्ञानद्वारा ज्ञानफलं प्राप्यत इत्यर्थः।
@@ -193,12 +198,14 @@ it lead to that; The answer is:
 च योगस्य ज्ञानसाधनत्वं सिद्धमित्यर्थः। अत्रयोगिभिः इति वदता योगशब्दो
 धर्मिणामुपलक्षकोऽयं आद्यजन्तो वेति सूचितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.4 5.5॥ साँख्ययोगाविति। यत्साङ्ख्यैरिति। इदं साङ्ख्यं +++(S साङ्ख्यज्ञानम्)+++ अयं च योगः इति न भेदः। एतौ हि नित्यसंबद्धौ। ज्ञानं न योगेन विना योगोऽपि न तेन विनेति। अत एकत्वमनयोः।
 </details>
@@ -207,12 +214,14 @@ it lead to that; The answer is:
 
 5.4-5 Samkhya-Yogau etc. Yat samkhyaih etc. There is nothing to differentiate as 'This is path of knowledge' \[and\] 'This is Yoga'. Indeed both these are ever inter-connected. Knowledge is not without Yoga; and Yoga also is not without knowledge. Hence the identity of these two.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.5॥ एतदेव स्फुटयति यत्साङ्ख्यैरिति यन्मुक्तिस्थानं साङ्ख्यनिष्ठैः
 प्राप्यते तदेव योगैरित्यत्रार्श आदित्वेन मत्वर्थीयोऽच्। योगनिष्ठयाऽपि
@@ -229,10 +238,13 @@ it lead to that; The answer is:
 भविष्यति यतस्तयोरेकमेव स्थानम् अतो यः साङ्ख्यं योगं चैकं कुण्डलात्मकं
 पश्यति स मां पश्यतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.5॥ एतदेव स्फुटयति **यत्साङ्ख्यैरिति।** साङ्ख्यैर्ज्ञाननिष्ठैः
 संन्यासिभिर्यत्स्थानं मोक्षाख्यं प्रकर्षेण साक्षादवाप्यते। योगैरित्यत्र
@@ -240,10 +252,13 @@ it lead to that; The answer is:
 ज्ञानद्वारेण गम्यते। अवाप्यत इत्यर्थः। अतः साङ्ख्यं च योगं चैकफलत्वेनैकं
 यः पश्यति स एव सम्यक्पश्यति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.5 That state which is reached by the Sankhyans, the same is reached by the Yogins, i.e., the same state is attained also by those who are Karma Yogins. He alone is wise who sees that the Sankhya and the Yoga are one and the same because of their having the same result.
@@ -278,11 +293,13 @@ sees.Commentary Those who have renounced the world and are treading the path of 
 and Nididhyasana (constant and profound meditation) they attain to Moksha or Kaivalya directly. Karma Yogis who do selfless service; who perform their duties without expectation of the fruits and who dedicate their actions as offerings unto the Lord also reach the same state as is attained by Sankhyas indirectly through the purification of their heart and renunciation and the conseent dawn of the knowledge of the Self.
 That man who sees that Sankhya and Yoga are one; as leading to the same result; sees rightly. (Cf.XIII.24;25V.2)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.5।। साङ्ख्ययोगियोंके द्वारा जो तत्त्व प्राप्त किया जाता है,
@@ -355,6 +372,7 @@ That man who sees that Sankhya and Yoga are one; as leading to the same result; 
 ।।5.5।। जो स्थान ज्ञानियों द्वारा प्राप्त किया जाता है, उसी स्थान पर
 कर्मयोगी भी पहुँचते हैं। इसलिए जो पुरुष साङ्ख्य और योग को (फलरूप से) एक
 ही देखता है, वही (वास्तव में) देखता है।।
+</details>
 </details>
 
 </div>

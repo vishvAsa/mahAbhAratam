@@ -23,8 +23,9 @@ title = "10 योगी युञ्जीत"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.10॥**योगी** उक्तप्रकारकर्मयोगनिष्ठः **सततम्** अहरहः योगकाले आत्मानं **युञ्जीत आत्मानं** युक्तं कुर्वीत स्वदर्शननिष्ठं कुर्वीत इत्यर्थः। **रहसि** जनवर्जिते निःशब्दे देशे **स्थित एकाकी** तत्रापि न सद्वितीयस् तत्रापि **यतचित्तात्मा** यतचित्तमनस्कः **निराशीः** आत्मव्यतिरिक्ते कृत्स्ने वस्तुनि निरपेक्षः **अपरिग्रहः** तद्व्यतिरिक्ते कस्मिंश्चिद् अपि ममतारहितः।
@@ -43,12 +44,14 @@ practice of Yoga, i.e., make himself engaged in the vision of the self. He must 
 'desire', i.e., he should not depend on anything except the self and be
 without the 'sense of possession,' without the idea of mineness with regard to anything other than the self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.10॥ **योगी** ध्यायी **युञ्जीत** समादध्यात् **सततं** सर्वदा **आत्मानम्** अन्तःकरणं **रहसि** एकान्ते गिरिगुहादौ **स्थितः** सन् **एकाकी** असहायः। रहसि स्थितः एकाकी च इति विशेषणात् संन्यासं कृत्वा इत्यर्थः। यतचित्तात्मा चित्तम् अन्तःकरणम् आत्मा देहश्च संयतौ यस्य सः **यतचित्तात्मा** **निराशीः** वीततृष्णः **अपरिग्रहः** परिग्रहरहितश्चेत्यर्थः। संन्यासित्वेऽपि त्यक्तसर्वपरिग्रहः सन् युञ्जीत इत्यर्थः॥ अथेदानीं योगं युञ्जतः आसनाहारविहारादीनां योगसाधनत्वेन नियमो वक्तव्यः प्राप्तयोगस्य लक्षणं तत्फलादि च इत्यत आरभ्यते। तत्र आसनमेव तावत् प्रथममुच्यते
 </details>
@@ -141,12 +144,14 @@ being first spoken of:
 निराशीर्वैराग्यदार्ढ्येन विगततृष्णः। अतएव वापरिग्रहः
 शास्त्राभ्यनुज्ञातेनापि योगप्रतिबन्धकेन परिग्रहेण शून्यः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.10 6.11॥ समाधियोगप्रकारमाह योगं युञ्जीतेत्यादिना इति। युञ्जीत
 समाधियोगयुक्तं कुर्यात्। आत्मानं मनः।
@@ -160,12 +165,14 @@ being first spoken of:
 सामान्यशब्दोऽपि प्रकरणाद्विशेषेऽवतिष्ठते इत्यर्थः। आत्मशब्दस्यात्र
 विवक्षितमर्थमाह **आत्मानमि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.10 6.15॥ ननु जितात्मनः इत्युक्तम् तत्कथं तज्जय इत्याशङ्क्य आरुरुक्षोः कश्चिदुपायः कायसमत्वादिकः +++(SN कायसमुद्धारकः)+++ चित्तसंयम उपदिश्यते योगीत्यादि अधिगच्छतीत्यन्तम्। आत्मानं च चित्तं च युञ्जीत एकाग्रीकुर्यात्। सततमिति न परिमितं कालम्। एकाकित्वादिषु सत्सु एतद्युज्यते +++(N युञ्जीत)+++ नान्यथा। आसनस्थैर्यात् कालस्थैर्ये +++(S कालस्थैर्यम्)+++ चित्तस्थैर्यम्। चित्तक्रियाः संकल्पात्मनः अन्याश्चेन्द्रियक्रिया येन यताः नियमं नीताः। धारयन् यत्नेन। नासिकाग्रस्यावलोकने सति दिशामनवलोकनम्। मत्परमतया युक्त आसीत +++(N आसीत्)+++ इत्यर्थः +++(S omits इत्यर्थः)+++। एवमात्मानं युञ्जतः समादधतः शान्तिर्जायते यस्यां संस्थापर्यन्तकाष्ठा मत्प्राप्तिः +++(K प्राप्तिर्योगोऽस्तीति)+++।
 </details>
@@ -174,12 +181,14 @@ being first spoken of:
 
 6.10 See Comment under 6.15
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.10 6.13॥ एवं योगारूढस्य स्वरूपमुक्त्वाऽऽरुरुक्षोः साङ्गं योगं विदधतः
 सिद्धिमाह योगी इत्यादिनामत्संस्थामधिगच्छति 15 इत्यन्तेन। योगी युञ्जानो
@@ -200,10 +209,13 @@ being first spoken of:
 **अपरिग्रहः** संसर्ग-दुःख-ज्ञानेन त्यक्त-परिग्रहः सर्वापेक्षा-रहितः।  
 एवं युक्तचित्तः सन् मद्ध्यानं कुर्याद् इत्य् अर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.10॥ एवं योगारूढस्य लक्षणमुक्त्वेदानीं तस्य साङ्गं योगं विधत्ते
 **योगीत्यादिना।** स योगी परमो मत इत्यन्तेन ग्रन्थेन। योगीति। योगी
@@ -211,10 +223,13 @@ being first spoken of:
 रहस्येकान्ते स्थितः सन्नेकाकी सङ्गशून्यः यतं संयतं चित्तमात्मा देहश्च
 यस्य निराशीर्निराकाङ्क्षो निराहारो वा अपरिग्रहः परिग्रहशून्यश्च।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.10 The Yogin should constantly fix his mind on Yoga, remaining in a solitary place all alone, controlling his thought and mind, free from desire and sense of possession.
@@ -254,11 +269,13 @@ You will have to break the ties gradually. Stay for a week or a month in seclusi
 to practise rigorous Japa and meditation and to develop your willpower.Those who have fixed up their sons in life and who have retired from service; and who have discharged their duties as householders can remain in seclusion for four or five years and practise intense meditation and Tapas (penance) for selfpurification and Selfrealisation. This is like entering a university for higher studies or postgraduate course of study. When the Tapas is over; and when they have attained to Selfknowledge; they should come out and share their knowledge of the Self with others through lectures; conversations;
 discourses or hearttoheart talks according to their capacity and disposition.How can sensecontrol be tested in a lonely forest where there are no temptations The Yogic student living in a cave should test himself after he has sufficiently advanced; by coming into the society of people. But he should not test himself every now and then like the man who removed the young plant daily after watering it to see whether it had struck deep root or not.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/10_yogI_yunjIta.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.10।। भोगबुद्धिसे संग्रह न करनेवाला, इच्छारहित और अन्तःकरण तथा शरीरको
@@ -315,6 +332,7 @@ discourses or hearttoheart talks according to their capacity and disposition.How
 
 ।।6.10।। शरीर और मन को संयमित किया हुआ योगी एकान्त स्थान पर अकेला रहता
 हुआ आशा और परिग्रह से मुक्त होकर निरन्तर मन को आत्मा में स्थिर करे।।
+</details>
 </details>
 
 </div>

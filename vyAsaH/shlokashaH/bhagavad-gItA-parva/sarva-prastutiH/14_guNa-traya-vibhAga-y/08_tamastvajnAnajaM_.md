@@ -23,8 +23,9 @@ title = "08 तमस्त्वज्ञानजं विद्धि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.8॥ ज्ञानाद् अन्यद् इह अज्ञानम् अभिप्रेतं ज्ञानं वस्तुयाथात्म्यावबोधः; तस्माद् अन्यत् तद्विपर्ययज्ञानं **तमस् तु** वस्तुयाथात्म्यविपरीतविषयज्ञानजं **मोहनं सर्वदेहिनाम्** मोहो विपर्ययज्ञानम्; विपर्ययज्ञानहेतुर् इत्यर्थः। **तत्** तमः**प्रमादालस्यनिद्रा**हेतुतया तद्द्वारेण देहिनं **निबध्नाति।** प्रमादः कर्तव्यात् कर्मणो ऽन्यत्र प्रवृत्तिहेतुभूतम् अनवधानम्। आलस्यं कर्मस्व् अनारम्भस्वभावः; स्तब्धता इति यावत्। पुरुषस्य इन्द्रियप्रवर्तनश्रान्त्या सर्वेन्द्रियप्रवर्तनोपरतिर् निद्रा तत्र बाह्येन्द्रियप्रवर्तनोपरमः स्वप्नः मनसो ऽप्य् उपरतिः सुषुप्तिः। सत्त्वादीनां बन्धद्वारभूतेषु प्रधानान्य् आह --
@@ -39,12 +40,14 @@ title = "08 तमस्त्वज्ञानजं विद्धि"
 
 14.8 By 'false knowledge' is here to be understood as what is other than knowledge. What is called knowledge is right perception of things. What is other than this is false knowledge. And Tamas springs from knowledge contrary to the true nature of thinngs. It deludes all embodied selves. Delusion is erroneous knowledge. The meaning is that Tamas is the cause of erroneous knowledge. Being the cause of negligence, indolence and sleep, it binds the embodied self through them. 'Negligence' is inattentiveness, which causes one to perform works other than what ought to be done. 'Indolence' is the tendency to avoid work; it may even develop into absolute inaction. 'Sleep.' is the state in which the external organs stop working due to exhaustion and seek to recover from the same. In sleep when only the outgoing actionof the senses stop, it is called dream state. When even the mind (Manas) ceases to function, it is called dreamless sleep. He states the cardinal feature forming the ways of bondage through Sattva etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.8॥ --,**तमः** तृतीयः गुणः **अज्ञानजम्** अज्ञानात् जातम् अज्ञानजं **विद्धि मोहनं** मोहकरम् अविवेककरं **सर्वदेहिनां** सर्वेषां देहवताम्। **प्रमादालस्यनिद्राभिः** प्रमादश्च आलस्यं च निद्रा च प्रमादालस्यनिद्राः ताभिः प्रमादालस्यनिद्राभिः तत् तमः **निबध्नाति भारत**॥ पुनः गुणानां व्यापारः संक्षेपतः उच्यते --,
 </details>
@@ -113,12 +116,14 @@ are again being briefly stated:
 रजःकार्यप्रवृत्तिविरोधि; उभयविरोधिनी तमोगुणालम्बना वृत्तिर्निद्रेति
 विवेकः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.8॥ अज्ञानं जायते यतस्तदज्ञानजम्। प्रमादमोहौ तमसः \[14।17\] इति
 वाक्यशेषात्।
@@ -131,12 +136,14 @@ are again being briefly stated:
 \[अष्टा.3।2।101\] इति दृशिग्रहणसामर्थ्याल्लभ्यते। कुतः प्रतीत एवार्थो न
 इत्यत आह -- **प्रमादे**ति। वाक्यशेषेऽज्ञानस्य तमःकार्यत्ववचनादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.6 -- 14.8॥ क्रमेणैषां रूपमुच्यते -- तत्रेत्यादि भारतेत्यन्तम्। सत्त्वं निर्मलम्। तृष्णासंगस्य समुद्भवो यतः। दुर्लभस्यापि चिरतरसंचितपुण्यशतलब्धस्य अपवर्गप्राप्तावेककारणस्य मानुष्यकस्य वृथा अतिवाहनं प्रमादः। तथाह्युक्तम्,+++(;N तथाभ्युक्तम्)+++ -- आयुषः क्षण एकोऽपि सर्वरत्नैर्न लभ्यते।  
   
@@ -162,12 +169,14 @@ are again being briefly stated:
 
 14.6-8 Tatra etc. upto Bharata. The Sattva is dirtless. \[Source of craving-attachment\] : that from which the attachment of craving springs up. Negligence : wasting the human birth which is difficult to get, but got by means of hundreds of merits accumulated for a very long period, and which is the sole means for attaining emancipation. That has been also said- 'Not even a single moment of life is gained by (spending\] all the gems. \[Hence\], he, who wastes it, is a man of negligence and is the lowest of men'. Laziness : i.e., in doing good deeds. Sleep : being poor totally i.e. a contemptible course.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.8॥ तमसश्चाह -- तम इति। विरुद्धज्ञानजन्यं; अविद्याजन्यमिति वा।
 </details>
@@ -181,10 +190,13 @@ are again being briefly stated:
 बध्नाति। प्रमादो भगवदनवधानता। आलस्यं भगवत्सेवानुद्यमः। निद्रा चित्तस्थ
 ज्ञाननाशः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.8॥ तमसो लक्षणं बन्धकत्वं चाह **-- तम इति**। तमस्तु अज्ञानाज्जातं
 आवरणशक्तिप्रधानात्प्रकृत्यंशादुद्भूतं विद्धीत्यर्थः। अतः सर्वेषां
@@ -192,10 +204,13 @@ are again being briefly stated:
 निबध्नाति। तत्र प्रमादोऽनवधानं; आलस्यमनुद्यमः; निद्रा चित्तस्यावसादो
 लयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.8 Know that Tamas is born of false knowledge and deludes all embodied selves. It binds, O Arjuna, with negligence, indolence and sleep.
@@ -233,11 +248,13 @@ Troubled by the wants of the body he acts under pressure to keep himself alive. 
 He forgets everything. He is negligent and indolent. He is just in a stage higher than lifeless matter.He who is under the grip of heedlessness (Pramada) is not able to discriminate between the eternal and the noneternal. This is an enemy of illumination; the effect of Sattva. He who is overpowered by laziness (Alasya) is not able to exert.
 This is an enemy of Pravritti; the effect of Rajas. Sleep (Nidra) is LayaVritti; (a state of absorption into ignorance) which is dependent on Tamas. This is the enemy of the works done by Sattva and Rajas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.8।। हे भरतवंशी अर्जुन ! सम्पूर्ण देहधारियोंको मोहित करनेवाले
@@ -333,6 +350,7 @@ This is an enemy of Pravritti; the effect of Rajas. Sleep (Nidra) is LayaVritti;
 ।।14.8।। और हे भारत ! तमोगुण को अज्ञान से उत्पन्न जानो; जो समस्त
 देहधारियों (जीवों) को मोहित करने वाला है। वह प्रमाद, आलस्य और निद्रा के
 द्वारा जीव को बांधता है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "12 अभिसन्धाय तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.12॥ फलाभिसन्धियुक्तैर् दम्भगर्भो यशःफलश् च यः यज्ञ **इज्यते; तं यज्ञं राजसं विद्धि।**
@@ -39,12 +40,14 @@ title = "12 अभिसन्धाय तु"
 
 17.12 That sacrifice, performed to gain fruits, full of ostentation and with fame as its aim, know that sacrifice to be characterised by Rajas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.12॥ --,**अभिसंधाय** तु उद्दिश्य **फलं दम्भार्थमपि चैव यत् इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम्**॥
 </details>
@@ -97,12 +100,14 @@ Bharata.
 यो यज्ञोऽनुष्ठीयते तं यज्ञं राजसं विद्धि,हानाय। हे भरतश्रेष्ठेति
 योग्यत्वसूचनम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.12॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -111,12 +116,14 @@ Bharata.
 
 ॥17.12॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.11 -- 17.13॥ अफलेत्यादि परिचक्षते इत्यन्तम्। मनः समाधाय निश्चयेनानुसंधाय। दम्भार्थमपीति -- दंभः लोको +++(N लोके )+++ मामेवं -- विधं जानीयादिति। विधिहीनमिति -- शास्त्रोक्तक्रियाविहीनम् तदेवासृष्टान्नादिभिर्विशेषणैर्वितन्यते।
 </details>
@@ -125,12 +132,14 @@ Bharata.
 
 17.12 See Comment under 17.13
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.12॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -141,19 +150,25 @@ Bharata.
 उद्दिश्य दम्भार्थं लोके स्वख्यापनार्थं चाप्येव यत्तु इज्यतेऽनुष्ठीयते तं
 यज्ञं राजसं विद्धि। तत्कर्त्तारश्च राजसा ज्ञेयाः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.12॥ राजसं यज्ञमाह **-- अभिसंधायेति।** फलमभिसंधायोद्दिश्य
 यस्त्विज्यते यज्ञः क्रियते; दम्भार्थं स्वमहत्त्वख्यापनार्थं; यज्ञं राजसं
 विद्धि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.12 But that sacrifice which is offered with the fruit in view and for the sake of ostentation, know it, O Arjuna, to be Rajasika.
@@ -185,11 +200,13 @@ Bharata.
 भरतश्रेष्ठ O best of the Bharatas; तम् that; यज्ञम् sacrifice; विद्धि
 know; राजसम् Rajasic.Commentary If anyone performs a sacrifice in order to obtain; heaven; son; wealth; or name and fame; then it is a sacrifice of a Rajasic nature. The performer of this kind of sacrifice has the motive of increasing his own importance; for popularising his own name in the world; for gaining some reward; for showing himself off as a great; pious and learned man; for making an exhibition of his riches for his own glorificaion. He has no aspiration for attaining the knowledge of the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.12।। परन्तु हे भरतश्रेष्ठ अर्जुन ! जो यज्ञ फलकी इच्छाको लेकर अथवा
@@ -242,6 +259,7 @@ know; राजसम् Rajasic.Commentary If anyone performs a sacrifice in or
 
 ।।17.12।। हे भरतश्रेष्ठ अर्जुन ! जो यज्ञ दम्भ के लिए तथा फल की आकांक्षा
 रख कर किया जाता है, उस यज्ञ को तुम राजस समझो।।
+</details>
 </details>
 
 </div>

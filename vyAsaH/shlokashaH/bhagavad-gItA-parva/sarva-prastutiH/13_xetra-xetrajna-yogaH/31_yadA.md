@@ -23,8 +23,9 @@ title = "31 यदा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.30॥ प्रकृतिपुरुषतत्त्वद्वयात्मकेषु देवादिषु सर्वेषु भूतेषु सत्सु तेषां देवत्वमनुष्यत्वह्रस्वत्वदीर्घत्वादि **पृथग्भावम् एकस्थम्** एकतत्त्वस्थं प्रकृतिस्थं **यदा पश्यति;** न आत्मस्थम्; **तत एव** प्रकृतित एव उत्तरोत्तरपुत्रपौत्रादिभेद**विस्तारं च** यदा पश्यति; **तदा** एव ब्रह्म **सम्पद्यते** अनवच्छिन्नज्ञानैकाकारम् आत्मानं प्राप्नोति इत्यर्थः।
@@ -39,12 +40,14 @@ title = "31 यदा"
 
 13.31 When he perceives that the diversified 'modes of existence' of all beings as men, divinities etc., are founded on the two principles of Prakrti and Purusa; when he perceives that their existence as divine, human, short, tall etc., is rooted in 'one' common foundation, namely, in the Prakrti, and not in the self; when he sees that 'their expansion', i.e., the successive proliferaton into sons, grandsons and such varieties of beings, is from Prakrti alone - then he reaches the brahman. The meaning is that he attains the self devoid of limitations, in Its pure form of knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.31॥ -- **यदा** यस्मिन् काले **भूतपृथग्भावं** भूतानां पृथग्भावं पृथक्त्वम् एकस्मिन् आत्मनि स्थितं **एकस्थम् अनुपश्यति** शास्त्राचार्योपदेशम्; अनु आत्मानं प्रत्यक्षत्वेन पश्यति आत्मैव इदं सर्वम् (छा0 उ₀ 7।25।2) इति; **तत एव च** तस्मादेव च **विस्तारं** उत्पत्तिं विकासम् आत्मतः प्राण आत्मत आशा आत्मतः स्मर आत्मत आकाश आत्मतस्तेज आत्मत आप आत्मत आविर्भावतिरोभावावात्मतोऽन्नम् (छा0 उ₀ 7।26।1) इत्येवमादिप्रकारैः विस्तारं यदा पश्यति; **ब्रह्म संपद्यते** भवति तदा तस्मिन् काले इत्यर्थः॥ एकस्य आत्मानः सर्वदेहात्मत्वे तद्दोषसंबन्धे प्राप्ते; इदम् उच्यते --,
 </details>
@@ -142,12 +145,14 @@ their defects. Hence this is said:
 एकत्वमनुपश्यतः इति श्रुतेः। प्रकृत्यैव चेत्यत्रात्मभेदो निराकृतः; यदा
 भूतपृथग्भावमित्यत्र त्वनात्मभेदोपीतिविशेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.31॥ एकस्थमेकस्मिन्विष्णौ स्थितम्। तत एव च विष्णोर्विस्तारम्।
 </details>
@@ -158,12 +163,14 @@ their defects. Hence this is said:
 भावेनाह -- **एकस्थमि**ति। तत एव च विस्तारं इत्यस्य स्वस्मादेव विश्वस्य
 विस्तारमिति व्याख्यानमसदिति भावेनाह -- **तत एवे**ति। ,विस्तारमुत्पत्तिम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.31 -- 13.33॥ यदि वा -- यदेत्यादि नोपलिप्यत इत्यन्तम्। विस्तीर्णत्वेन सर्वव्याप्त्या यदा भूतानां पृथक्तां भिन्नताम् +++(S चित्रताम्)+++ आत्मन्येव पश्यति; आत्मन एव च उदितां तां मन्यते; तदापि सर्वकर्तृत्त्वात् न लेपभाक् यतः असौ परमात्मैव शरीरस्थोऽपि न लिप्यते आकाशवत्।
 </details>
@@ -172,12 +179,14 @@ their defects. Hence this is said:
 
 13.31 See Comment under 13.34
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.31॥ तृतीयेऽपि फलं दर्शयति -- यदेति। प्रकृतिपुरुषतत्त्वात्मकेषु
 देवादिभूतेषु सत्सु तेषां देवत्वमनुष्यत्वादिदीर्घह्रस्वस्थूलकृशत्वादिकं
@@ -203,10 +212,13 @@ their defects. Hence this is said:
 प्रपञ्चरमणेच्छुब्रह्मण एव सृष्टिसमये विस्तारमनुपश्यति; तदा ब्रह्म
 सम्पद्यते ब्रह्मत्वमाप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/31_yadA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/31_yadA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.31॥ इदानी तु भूतानां
 प्रकृतितावन्मात्रत्वेनाभेदाद्भूतभेदकृतमप्यात्मनो
@@ -216,10 +228,13 @@ their defects. Hence this is said:
 विस्तारं सृष्टिसमयेऽनुपश्यति; तदा प्रकृतितावन्मात्रत्वेन भूतानामप्यभेदं
 पश्यन्परिपूर्णं ब्रह्म संपद्यते। ब्रह्मैव भवतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.31 When he perceives the independent modes of existence of all beings centred in one, and as also their expansion from It alone, then he attains to brahman.
@@ -261,11 +276,13 @@ Atmata akasa atmatasteja atmata apah
   
 Atmata avirbhavatirobhavavatmatonnam.From the Self is life from the Self is desire from the Self is love from the Self is ether from the Self is light from the Self are the waters from the Self is appearance and disappearance from the Self is food.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/31_yadA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.31।। जिस कालमें साधक प्राणियोंके अलग-अलग भावोंको एक प्रकृतिमें ही
@@ -350,6 +367,7 @@ Atmata avirbhavatirobhavavatmatonnam.From the Self is life from the Self is desi
 ।।13.31।। यह पुरुष जब भूतों के पृथक् भावों को एक (परमात्मा) में स्थित
 देखता है तथा उस (परमात्मा) से ही यह विस्तार हुआ जानता है, तब वह ब्रह्म
 को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

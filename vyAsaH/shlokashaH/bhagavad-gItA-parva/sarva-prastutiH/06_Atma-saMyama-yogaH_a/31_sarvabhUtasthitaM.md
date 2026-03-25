@@ -23,8 +23,9 @@ title = "31 सर्वभूतस्थितं यो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.31॥ योगदशायां **सर्वभूतस्थितं माम्** असङ्कुचितज्ञानैकाकारतया **एकत्वम् आस्थितः** प्राकृतभेदपरित्यागेन सुदृढं **यो भजते स योगी** व्युत्थानकाले **अपि** यथा तथा **वर्तमानः** स्वात्मानं सर्वभूतानि च पश्यन् **मयि वर्तते** माम् एव पश्यति। स्वात्मनि सर्वभूतेषु च सर्वदा मत्साम्यम् एव पश्यति इत्यर्थः। ततोऽपि काष्ठाम् आह
@@ -39,12 +40,14 @@ title = "31 सर्वभूतस्थितं यो"
 
 6.31 (iii) The Yogin who, fixed in the state of Yoga in oneness because he has the same form of uncontracted knowledge (as Myself), worships Me steadfastly by renouncing the differences of the Prakrti (i.e., of the body) - then that Yogin, even while coming out of Yoga, howsoever he may live, views Me only, when viewing his own self and all other beings. The meaning is that he views his similarity to Myself in his own self and in the self of all beings. Now Sri Krsna proceeds to speak of the maturest stage beyond this:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.31॥ **सर्वथा** सर्वप्रकारैः **वर्तमानोऽपि** सम्यग्दर्शी **योगी मयि** वैष्णवे परमे पदे **वर्तते** नित्यमुक्त एव सः न मोक्षं प्रति केनचित् प्रतिबध्यते इत्यर्थः॥ किञ्च अन्यत्
 </details>
@@ -143,12 +146,14 @@ Furthermore,
 निषिद्धकर्मासंभवेऽपि तदङ्गीकृत्य ज्ञानस्तुत्यर्थमिदमुक्तं सर्वथा
 वर्तमानोऽपीतिहत्वापि स इमांल्लोकान्न हन्ति न निबध्यते इतिवत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.31॥ एतदेव स्पष्टयति सर्वभूतस्थितमिति। एकत्वमास्थितः सर्वत्र एक
 एवेश्वर इति स्थितः सर्वप्रकारेण वर्तमानोऽपि मय्येव वर्तते। एवमपरोक्षं
@@ -176,12 +181,14 @@ Furthermore,
 प्रमाणमाह **आह चेति**। कियन्महदिति शेषः। कर्मणः प्रारब्धस्य बाहुल्यात्
 प्राबल्यात्। लोके प्रवृत्तिकर्मणो बाहुल्येन चित्तविक्षेपादिति वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.31॥ सर्वेति। यस्त्वेवं ज्ञानाविष्टः सोऽवश्यमेव +++(N ज्ञानाविष्टोऽसाववश्यमेव S वश्यमेकतया)+++ एकतया भगवन्तं सर्वगतं विदन् सर्वावस्थागतोऽपि न लिप्यते।
 </details>
@@ -190,12 +197,14 @@ Furthermore,
 
 6.31 Sarva - etc. Whosoever is completely possessed of the knowledge of this kind, he necessarily realises the Bhagavat as one and immanent in all and does not get stained \[by any of his actions\] is whatever condition he is.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.31॥ यश्चैवमेकत्वमास्थितोऽपि मां वासुदेवं भजति सेवते मत्प्रवणं चेतः
 करोति स योगी मयि मदाधारो भवति। मत्किङ्करः शुक इव उद्धव इव
@@ -209,19 +218,25 @@ Furthermore,
 उच्यते। अथवा सर्वथा तेषु दास्यादिभावशिक्षणार्थं वर्त्तमानो यः स मयि च
 वर्तते मत्स्वरूपे तिष्ठतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.31॥ न चैवंभूतो विधिकिंकरः स्यादित्याह **सर्वभूतस्थितमिति।** सर्वेषु
 भूतेषु स्थितं मामभेदमास्थित आश्रितो यो भजति स योगी ज्ञानी सन्सर्वथा
 कर्मत्यागेनापि वर्तमानो मय्येव वर्तते मुच्यते न तु भ्रश्यतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.31 The Yogin who, fixed in oneness, worships Me dwelling in all beings
@@ -255,11 +270,13 @@ worships; एकत्वम् unity; आस्थितः established; सर
 वर्तमानः remaining; अपि also; सः that; योगी Yogi; मयि in Me; वर्तते
 abides.Commentary He who has dissolved all duality in the underlying unity; who is thus established in unity; who worships Me; i.e.; who has realised Me as the Self of all; dwells always in Me; whatever his mode of living may be. He is ever liberated.Sadana lived in God though he was a butcher because his mind was ever fixed at the lotus feet of the Lord.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.31।। मेरेमें एकीभावसे स्थित हुआ जो योगी सम्पूर्ण प्राणियोंमें स्थित
@@ -325,6 +342,7 @@ abides.Commentary He who has dissolved all duality in the underlying unity; who 
 ।।6.31।। जो पुरुष एकत्वभाव मंे स्थित हुआ सम्पूर्ण भूतों में स्थित मुझे
 भजता है, वह योगी सब प्रकार से वर्तता हुआ (रहता हुआ) मुझमें स्थित रहता
 है।।
+</details>
 </details>
 
 </div>

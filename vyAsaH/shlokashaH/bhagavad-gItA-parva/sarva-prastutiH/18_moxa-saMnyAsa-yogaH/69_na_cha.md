@@ -23,8 +23,9 @@ title = "69 न च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.69॥ सर्वेषु **मनुष्येषु** इतः पूर्वं **तस्माद् अन्यो** मनुष्यो **मे न कश्चित् प्रियकृत्तमः** अभूत्; इत उत्तरं **च न भविता;** अयोग्यानां प्रथमम् उपादानं योग्यानाम् अकथनाद् अपि तत्कथनस्य अनिष्टतमत्वात्।
@@ -39,12 +40,14 @@ title = "69 न च"
 
 18.69 There never exists nor has existed anyone other than such a person as described, who does greater service to Me than he. In the future too, there will not be another such. The first reference is to those who are not worthy to hear the Gita. It is meant to teach that explaining it to them is more displeasing to the Lord than not teaching to those who are worthy.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.69॥ --,**न च तस्मात्** शास्त्रसंप्रदायकृतः **मनुष्येषु** मनुष्याणां मध्ये **कश्चित्** मे मम **प्रियकृत्तमः** अतिशयेन प्रियकरः; अन्यः प्रियकृत्तमः; नास्त्येव इत्यर्थः वर्तमानेषु। **न च भविता** भविष्यत्यपि काले **तस्मात्** द्वितीयः **अन्यः प्रियतरः** प्रियकृत्तरः **भुवि** लोकेऽस्मिन् न भविता॥ योऽपि --,
 </details>
@@ -112,12 +115,14 @@ possessing the aforesaid alities.\]
 प्रियतरः प्रीत्यतिशयविषयः कश्चिदप्यासीन्नाधुना च भुवि लोकेऽस्मिन्नास्ति
 नच कालान्तरे भवितेत्यावृत्त्या योज्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.69॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -126,12 +131,14 @@ possessing the aforesaid alities.\]
 
 ॥18.69॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.68 -- 18.72॥ य इदमित्यादि धनञ्जयेत्यन्तम्। भक्तिमिति -- एतदेव मयि भक्तिकरणं यत् भक्तेष्वेतन्निरूपणम् +++(;N मद्भक्तेषु )+++। अभिधास्यति +++(S;;N मद्भक्तेष्वभि -- )+++ ; आभिमुख्येन शास्त्रोक्तप्रक्रियया; धास्यति वितरिष्यति \[ यः \] स मन्मयतामेति इति विधिरेवैष नार्थवादः। एवमन्यत्र।
 </details>
@@ -140,12 +147,14 @@ possessing the aforesaid alities.\]
 
 18.69 See Comment under 18.72
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.69॥ किञ्च -- न च तस्मादिति। मे प्रियकृत्कश्चित्।
 </details>
@@ -158,20 +167,26 @@ possessing the aforesaid alities.\]
 मत्सङ्गार्थयत्नप्रर्दशकत्वादिति भावः। च पुनः तस्मात् श्रोतुः सकाशात्
 श्रुत्वा मदाज्ञप्तसेवादिकरणात् अन्यो भुवि प्रियतरो भविता नेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.69॥ किंच **-- नचेति।** तस्मान्मद्भक्तेभ्यो गीताशास्त्रव्याख्यातुः
 सकाशादन्यो मनुष्येषु मध्यें कश्चिदपि मम प्रियकृत्तमोऽत्यन्तं परितोषकर्ता
 नास्ति। नच कालातरे भविता भविष्यति। ममापि तस्मादन्यः प्रियतरोऽधुना भुवि
 तावन्नास्ति। नच कालान्तरेऽपि भविष्यतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.69 Not among men is there any one who does dearer service to Me than he. Nor shall there be another on earth dearer to Me than he.
@@ -204,11 +219,13 @@ possessing the aforesaid alities.\]
 not; च and; मे of Me; तस्मात् than he; अन्यः another; प्रियतरः dearer;
 भुवि on the earth.Commentary He who hands down this Gita to My devotees does immense service to Me. He is very dear to Me. There is none in the present generation who des dearer service to Me; nor shall there be in future also in this world.Bhuvi On earth in this world.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/69_na_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.69।। उसके समान मेरा अत्यन्त प्रिय कार्य करनेवाला मनुष्योंमें कोई भी
@@ -308,6 +325,7 @@ not; च and; मे of Me; तस्मात् than he; अन्यः anoth
 
 ।।18.69।। न तो उससे बढ़कर मेरा अतिशय प्रिय कार्य करने वाला मनुष्यों में
 कोई है और न उससे बढ़कर मेरा प्रिय इस पृथ्वी पर दूसरा कोई होगा।।
+</details>
 </details>
 
 </div>

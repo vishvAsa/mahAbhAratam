@@ -23,8 +23,9 @@ title = "33 अथ चेत् त्वमिमम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.33॥**अथ** क्षत्रियस्य स्वधर्मभूतम् **इमम्** आरब्धं **सङ्ग्रामं** मोहाद् अज्ञानात् **न करिष्यसि चेत् ततः** प्रारब्धस्यधर्मस्याकरणात् स्वधर्मफलं निरतिशयसुखं विजयेन निरतिशयां **कीर्तिं च हित्वा पापं** निरतिशयम् **अवाप्स्यसि।  
@@ -40,12 +41,14 @@ title = "33 अथ चेत् त्वमिमम्"
 
 2.33 If in delusion, you do not wage this war, which has started and which is the duty of a Ksatriya, then, owing to the non-performance of your immediate and incumbent duty, you will lose the immeasurable bliss which is the fruit of discharging your duty and the immeasurable fame which is the fruit of victory. In addition, you will incur extreme sin.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.33॥  
   
@@ -131,12 +134,14 @@ avapsyasi, you will incur; only papam, sin.
 यदुक्तम्पापमेवाश्रयेदस्मान्हत्वैतानाततायिनःएतान्न हन्तुमिच्छामि घ्नतोऽपि
 मधुसूदन इति तन्निराकृतं भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.33॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -145,12 +150,14 @@ avapsyasi, you will incur; only papam, sin.
 
 ॥2.33॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.34 2.38॥ यद्भयाच्च भवान् युद्धात् निवर्तते +++(K निवर्तेत)+++ तदेव शतशाखमुपनिपतिष्यति भवत इत्याह  
 अथ चेत्यादि। श्लोकपञ्चकमिदम् अभ्युपगम्यवादरूपमुच्यते +++(N उपगम्य)+++ यदि लौकिकेन व्यवहारेणास्ते भवान् तथाप्यवश्यानुष्ठेयमेतत्।
@@ -160,12 +167,14 @@ avapsyasi, you will incur; only papam, sin.
 
 2.33 See Comment under 2.37
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.33॥ विपक्षे बाधकमाह अथ चेदिति। धर्म्यं धर्मादनपेतं युद्धं न करिष्यसि
 तर्हि लौकिकवैदिकहानिपूर्वकं प्रत्यवायमवाप्स्यसि।
@@ -178,18 +187,24 @@ avapsyasi, you will incur; only papam, sin.
 सङ्ग्रामं चेन्न करिष्यसि तदा स्वधर्मं कीर्तिं च हित्वा
 पापमवाप्स्यसीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.33॥ विपक्षे दोषमाह **अथ चेत्त्वमिति।  
 **
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.33 But if you do not fight this righteous war, you will be turning away from your duty and honoured position, and will be incurring sin.
@@ -223,11 +238,13 @@ then, forsaking your own duty and fame, you will incur sin.
 अवाप्स्यसि shall incur.Commentary The Lord reminds Arjuna of the fame he had already earned and which he would now lose if he refused to fight.
 Arjuna had acired great fame by fighting with Lord Siva. Arjuna proceeded on a pilgrimage to the Himalayas. He fought with Siva Who appeared in the guise of a mountaineer (Kirata) and got from Him the Pasupatastra; a celestial weapon.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.33।। अब अगर तू यह धर्ममय युद्ध नहीं करेगा, तो अपने धर्म और कीर्तिका
@@ -289,6 +306,7 @@ Arjuna had acired great fame by fighting with Lord Siva. Arjuna proceeded on a p
 
 ।।2.33।। और यदि तुम इस धर्मयुद्ध को स्वीकार नहीं करोगे, तो स्वधर्म और
 कीर्ति को खोकर पाप को प्राप्त करोगे।।
+</details>
 </details>
 
 </div>

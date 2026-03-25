@@ -23,8 +23,9 @@ title = "18 अहङ्कारम् बलम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.18॥ अनन्यापेक्षो ऽहम् एव सर्वं करोमि इत्य् एवंरूपम् **अहङ्कारम्** आश्रिताः; तथा सर्वस्य करणे मद्बलम् एव पर्याप्तम् इति च **बलम्;** अतोमत्सदृशो न कश्चिद् अस्ति इति च **दर्पम्;**एवम्भूतस्य मम काममात्रेण सर्वं सम्पत्स्यते इति **कामम्;**मम ये अनिष्टकारिणस् तान् सर्वान् हनिष्यामि इति **च क्रोधम्;** एवम् एतान् **संश्रिताः** स्वदेहेषु **परदेहेषु** च अवस्थितं सर्वस्य कारयितारं पुरुषोत्तमं **माम् अभ्यसूयकाः प्रद्विषन्तः** कुयुक्तिभिर् मत्स्थितौ दोषम् आविष्कुर्वन्तो माम् असहमानाः; अहङ्कारादिकान् संश्रिताः; यागादिकं सर्वं क्रियाजातं कुर्वते इत्यर्थः।
@@ -41,12 +42,14 @@ title = "18 अहङ्कारम् बलम्"
 'Because I am so, everything is fulfilled by my mere desire.' 'Wrath consits in conceiving, 'I shall slay those who cause evil to me.' Thus,
 depending on themselves, they evince malice towards Me, the Supreme Person abiding in their own bodies as well as in the bodies of others; and they hate Me. They endeavour to invent fallacious arguments against My existence, and being unable to tolerate Me, they perform all acts like sacrifices etc., depending only on their egoism.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.18॥ --,**अहंकारं** अहंकरणम् अहंकारः; विद्यमानैः अविद्यमानैश्च गुणैः आत्मनि अध्यारोपितैः विशिष्टमात्मानमहम् इति मन्यते; सः अहंकारः अविद्याख्यः कष्टतमः; सर्वदोषाणां मूलं सर्वानर्थप्रवृत्तीनां च; तम्। तथा **बलं** पराभिभवनिमित्तं कामरागान्वितम्। **दर्पं** दर्पो नाम यस्य उद्भवे धर्मम् अतिक्रामति सः अयम् अन्तःकरणाश्रयः दोषविशेषः। **कामं** स्त्र्यादिविषयम्। **क्रोधम्** अनिष्टविषयम्। एतान् अन्यांश्च महतो दोषान् **संश्रिताः।** किं च ते **माम्** ईश्वरम् **आत्मपरदेहेषु** स्वदेहे परदेहेषु च तद्बुद्धिकर्मसाक्षिभूतं मां **प्रद्विषन्तः;** मच्छासनातिवर्तित्वं प्रद्वेषः; तं कुर्वन्तः **अभ्यसूयकाः** सन्मार्गस्थानां गुणेषु असहमानाः॥
 </details>
@@ -161,12 +164,14 @@ right path.
 प्रकृतिं मोहिनीं श्रिताः इतिअव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः
 इति चान्यत्र। तथाच भजनीयद्वेषान्न भक्त्या पूतता तेषां संभवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.18॥ मामात्मपरदेहेष्विति। न कस्यचिद्विष्णुः कारयिता। यदि
 स्यान्ममपीदानीं कारयत्वित्यादि ईश्वरो यदि सर्वस्य कारकः कारयीत माम्।
@@ -179,12 +184,14 @@ right path.
 न कारयिता यदि स्यात्तर्हीदानीमकुर्वाणं मामपि कारयतु; कुर्वाणं च
 निवारयतु; इत्यर्थः। सदाधो नित्यनरकम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.17 -- 16.20॥ आत्मसंभाविता इत्यादि गतिमित्यन्तम्। यज्ञैर्यजन्ते नाम; निष्फलमित्यर्थः। क्रोधेन हि सर्वं नश्यतीत्यर्थः। यद्वा नामयज्ञैः; संज्ञामात्रेणैव +++(S; omit एव)+++ ये यज्ञाः तैः +++(S; omit तैः)+++। अथवा -- नामार्थं प्रसिद्ध्यर्थं ये यज्ञाः +++(omits ये यज्ञाः)+++ -- येन +++(S omits येन)+++ यज्ञयाजी अयम् इति व्यपदेशो जायते -- ते दम्भपूर्वका एव; न तु फलन्ति। क्रोधादिरूषितत्वादेव लोकान् द्विषन्तो मामेव द्विषन्ति। अहं वासुदेवो हि सर्वावासः। आत्मनि च द्वेषवन्तः आत्मनो ( आत्मने) ह्यहितं निरयपातहेतुम् आचरन्ति +++(S उपाचरन्ति)+++। तांश्चाहम् आसुरीष्वेव योनिषु क्षिपामि।
 </details>
@@ -193,12 +200,14 @@ right path.
 
 16.18 See Coment under 16.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.18॥ अहङ्कारमिति। मां पुरुषोत्तमं सर्वेश्वरमिह लीलाकर्त्तारं सर्वत्र
 वर्त्तमानं चेतनात्मानं च द्विपन्तो भवन्ति इदमेव तेषु महदासुरलक्षणं
@@ -215,10 +224,13 @@ right path.
 मद्भजनादिनिन्दां कुर्वन्तः; अभ्यसूयकाः दोषरहितेषु दोषारोपकाः सन्तो यजन्त
 इति पूर्वेणैव सम्बन्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.18॥ अविधिपूर्वकत्वमेव प्रपञ्चयति **--** **अहंकारमिति।**
 अहंकारादिसंश्रिताः सन्त आत्मपरदेहेषु स्वदेहेषु परदेहेषु च चिदंशेन स्थितं
@@ -226,10 +238,13 @@ right path.
 भवति। तथा पश्वादीनामपि अविधिना हिंसायां चैतन्यद्रोहमात्रमेवावशिष्यत इति
 प्रद्विषन्त इत्युक्तम्। अभ्यसूयकाः सन्मार्गवर्तिनां गुणेषु दोषारोपकाः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.18 Depending on their egoism, power and pride, and also of desire and wrath, these malicious men hate Me in their own bodies and in those of others.
@@ -269,11 +284,13 @@ They think that they are very great persons on account of the good alities which
 nonstealing; celibacy and noncovetousness); if he has no purity of heart; if his mind is surcharged or saturated with evil tendencies; and if he gets power of any sort; he will misuse or abuse it and try to humiliate or abuse others. Powers or Siddhis are bound to come if one practises concentration of mind. If he is endowed with Yama; he will never misuse them and so he will never have a downfall. That is the reason why Patanjali Maharshi says Powers are obstacles on the path of Yoga. Shun them ruthlessly. March onwards to the goal. Climb the ladder of Yoga till you attain the highest state of superconsciousness or Godconsciousness. Do not look back. Have no memories of the past.Yama is the very foundation of Yoga. Get yourself established in Yama before you take to concentration and meditation. Many aspirants get a downfall because they do not practise Yama to begin with. They jump at once to the practice of concentration and meditation. This is sad mistake.Darpa Haughtiness. A man whose heart is filled with haughtiness becomes very insolent and unjust and assumes an overbearing and domineering attitude towards others he never respects the elders; Gurus and others. This is a peculiar vice that has its seat in the mind. When this evil ality manifests itself; one swerves from the path of virtue.Krodha Anger manifests itself when one gets something unplesant and when he comes across something disagreeable.These Asuras hate Me; the Lord Who dwells in their own bodies as the silent witness of their thoughts and actions.
 They think that I am also a human being and hate Me. They do not understand My allpervading and imperishable nature. They do not care at all to know and follow. My ;nds or the injunctions given in the Vedas and the Smritis. If anyone violates My ;nds given in the scriptures; it is surely tantamount to an act of hatred towards Me. These people are very malicious. They have evil intentions or impure motives. They are jealous of those persons who are virtuous and who tread the path of righteousness. Their hearts burn when they notice good alities in others. This is Matsarya; a form of jealousy. If a man superimposes evil alities on a virtuous man who is endowed with good alities; this is Asuya. If his heart burns when he sees a wealthy or prosperous man; this is Irshya.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.18।। वे अहङ्कार, हठ, घमण्ड, कामना और क्रोधका आश्रय लेनेवाले मनुष्य
@@ -355,6 +372,7 @@ They think that I am also a human being and hate Me. They do not understand My a
 ।।16.18।। अहंकार, बल, दर्प, काम और क्रोध के वशीभूत हुए परनिन्दा करने
 वाले ये लोग अपने और दूसरों के शरीर में स्थित मुझ (परमात्मा) से द्वेष
 करने वाले होते हैं।।
+</details>
 </details>
 
 </div>

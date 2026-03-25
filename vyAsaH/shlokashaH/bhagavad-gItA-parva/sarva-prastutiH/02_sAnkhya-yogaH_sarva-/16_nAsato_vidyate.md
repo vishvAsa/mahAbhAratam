@@ -23,8 +23,9 @@ title = "16 नासतो विद्यते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.16॥**असतो** देहस्य सद् = **भावो न विद्यते,  
@@ -92,12 +93,14 @@ title = "16 नासतो विद्यते"
 'For the dead, or for the living' (2.11). Again this poin is made clear immediately (by the words), 'Know that to be indestructible ৷৷.' (2.17)
 and 'These bodies ৷৷. are said to have an end' (2.18). How the imperishableness of the self is to be understood, Sri Krsna now teaches:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.16॥  
   
@@ -648,12 +651,14 @@ in, 'But know That', etc.
 विस्तरः। अतः सदेव वस्तु मायाकल्पिताऽसन्निवृत्त्याऽमृतत्वाय कल्पते
 सन्मात्रदृष्ट्या च तितिक्षाप्युपपद्यत इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.16॥ नित्य आत्मेत्युक्तम् किमात्मैव नित्य आहोस्विदन्यदपि अन्यदपि
 तत्किमिति आह नास इति नासतः कारणस्य सतो ब्रह्मणश्चाभावा न विद्यते
@@ -697,12 +702,14 @@ in, 'But know That', etc.
 **अन्त** इति। निर्णयोऽनादिनित्यत्वावधारणम्। अपव्याख्यानं त्वन्यत्र
 निराकृतम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 **Sanskrit Commentary By Sri Abhinavgupta**
 
@@ -716,12 +723,14 @@ in, 'But know That', etc.
 
 2.16 Nasatah etc. And then, also following the common worldly practice \[the Lord\] says this : There is no \[real\] existence for what is non-existent i.e., the body \[etc.\], that is continuously perishing; for it is changing incessantly by stages. Again, never there is destruction for the ever existing Supreme Self, because of Its unchanging nature. So says the Veda too : 'Lo ! This Soul is of unchanging nature and \[hence\] is destructions' (the Br. U, IV, v. 14). Of These two : of what is existent and what is non-existent. Finality : the point of boundary where they come to an end. But is this permanent or transient which is perceived by persons who are prone to see the truth ; Having raised this doubt, \[the Lord\] says :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.16॥ अस्तित्वरूपविकारं निराकुर्वन् अशोच्यतामाह नासत इति।
 उत्पत्यनन्तरभावित्वादस्तित्वविकारादिरिति भावः। यथा असद्वा इदमग्र आसीत्।
@@ -763,10 +772,13 @@ in, 'But know That', etc.
 तत्फलं दृष्टमित्यर्थः। त्वमपि तथा चेदिच्छसि तदा सुखदुःखादि सहस्व नैतावता
 भगवद्योग्यदेहादिनाशो भविष्यतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.16॥ ननु तथापि शीतोष्णादिकमतिदुःसहं कथं सोढव्यम् अत्यन्तं तत्सहने च
 कदाचिद्देहनाशस्यापि संभवादित्याशङ्क्य तत्त्वविचारतः सर्वं सोढुं
@@ -775,10 +787,13 @@ in, 'But know That', etc.
 विनाशो न विद्यते एवमुभयोः सदसतोरन्तो निर्णयो दृष्टः। कैः
 तत्त्वदर्शिभिर्वस्तुयाथात्म्यविद्भिः। एवंभूतविवेकेन सहस्वेत्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.16 The unreal can never come into being, the real never ceases to be.
@@ -814,11 +829,13 @@ Through his Jnanachakshus or the eye of intuition; he directly cognises the Self
 AstiBhatiPriya or Satchidananda or ExistenceKnowledgeBliss Absolute.
 Hence he is a Tattvadarshi or a knower of the Truth or the Essence.What is changing must be unreal. What is constant or permanent must be real.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.16।। (टिप्पणी प₀ 55) असत् का तो भाव (सत्ता) विद्यमान नहीं है और सत्
@@ -946,6 +963,7 @@ Hence he is a Tattvadarshi or a knower of the Truth or the Essence.What is chang
 ।।2.16।। असत् वस्तु का तो अस्तित्व नहीं है और सत् का कभी अभाव नहीं है।
 इस प्रकार इन दोनों का ही तत्त्व, तत्त्वदर्शी ज्ञानी पुरुषों के द्वारा
 देखा गया है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "50 बुद्धियुक्तो जहातीह"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.50॥ बुद्धियोगयुक्तस् तु कर्म कुर्वाण उभे सुकृतदुष्कृते अनादिकालसञ्चिते अनन्ते बन्धेहेतुभूते जहाति। तस्माद् उक्ताय बुद्धियोगाय युज्यस्व। योगः कर्मसु कौशलं कर्मसु क्रियमाणेष्व् अयं बुद्धियोगः कौशलम् अतिसामर्थ्यम् अतिसामर्थ्यसाध्य इत्यर्थः।
@@ -39,12 +40,14 @@ title = "50 बुद्धियुक्तो जहातीह"
 
 2.50 He, who is established in evenness of mind in the performance of actions, relinishes good and evil Karmas which have accumulated from time immemorial causing bondage endlessly. Therefore acire this aforesaid evenness of mind (Buddhi Yoga). Yoga is skill in action. That is, this evenness of mind when one is engaged in action, is possible through great skill, i.e., ability.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.50॥  
   
@@ -153,12 +156,14 @@ wisdom of eanimity.
 तस्मात्समत्वबुद्धियुक्ताय कर्मयोगाय युज्यस्व। यस्मात्कर्मसु मध्ये
 समत्वबुद्धियुक्तः कर्मयोगः कौशलं कुशलः। दुष्टकर्मनिवारणचतुर इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.50॥ ज्ञानफलमाह बुद्धियुक्त इति। सुकृतमप्यप्रियं मानुष्यादिफलं जहाति
 न बृहत्फलमुपासनादिनिमित्तम्। न हास्य कर्म क्षीयते बृ.उ.1।4।15
@@ -458,12 +463,14 @@ wisdom of eanimity.
 इति योगो व्याख्यातःयोगः कर्मसु कौशलम् इति पुनर्व्याख्यायते इत्यतः
 स्तुतिरियं योगस्य क्रियत इति भावेनाह **तद्धी**ति। तद्योग इति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.52॥ बुद्धियुक्त इति। उभे इति परस्परव्यभिचारं दर्शयति। तस्माद्योगायेति। यथा हि सुकृतदुष्कृते नश्यतः +++(N दुष्कृते न नश्यतः)+++ तथाकरणमेव परमं कौशलमिति भावः।
 </details>
@@ -472,12 +479,14 @@ wisdom of eanimity.
 
 2.50 Buddhiyuktah etc. Both indicates the mutual exclusion \[of the good and bad actions\]. Therefore \[strive\] for Yoga etc. : Working in that manner alone constitutes the supreme proficiency, by \[working\] in which manner the good action and the bad action perish. This is the idea here.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.50॥ एतद्बुद्धियोगयुक्त एव निर्द्वन्द्वो भवतीत्याह बुद्धियुक्त इति।
 उभे पुण्यपापे स्वर्णलोहबन्धनतुल्ये इहैव जहाति। तस्माद्योगायोक्तस्वरूपाय
@@ -501,10 +510,13 @@ wisdom of eanimity.
 चातुर्यं यत्कृत्वाऽपि भक्तिसाधने प्रवेशनीयं तादृशो योग उत्तम इति। इदानीं
 तदधिकाराभावात्तथोपदिशति। अन्यथाकर्मसु इति पदं व्यर्थं स्यात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.50॥ बुद्धियोगयुक्तस्तु श्रेष्ठ इत्याह **बुद्धीति।** सुकृतं
 स्वर्गादिप्रापकम् दुष्कृतं निरयादिप्रापकम् ते उभे इहैव जन्मनि
@@ -512,10 +524,13 @@ wisdom of eanimity.
 घटस्व। यतः कर्मसु यत्कौशलं बन्धकानामपि तेषामीश्वराराधनेन
 मोक्षपरत्वसंपादनचातुर्यं स एव योगः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.50 A man with evenness of mind discards here and now good and evil.
@@ -550,11 +565,13 @@ Therefore devote yourself to (Karma-) yoga. Yoga is skilfulness in action.
 skill.Commentary Work performed with motive towards fruits only can bind a man. It will bring the fruits and the performer of the action will have to take birth again in this mortal world to enjoy them. If work is performed with evennes of mind (the Yoga of wisdom; i.e.; united to pure Buddhi; intelligence or reason) with the mind resting in the Lord; it will not bind him it will not bring any fruit it is no work at all.
 Actions which are of a binding nature lose that nature when performed with eanimity of mind; or poised reason. The Yogi of poised reason attributes all actions to the Divine Actor within (Isvara or God).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.50।। बुद्धि-(समता) से युक्त मनुष्य यहाँ जीवित अवस्थामें ही पुण्य और
@@ -657,6 +674,7 @@ Actions which are of a binding nature lose that nature when performed with eanim
 ।।2.50।। समत्वबुद्धि युक्त पुरुष यहां (इस जीवन में) पुण्य और पाप इन
 दोनों कर्मों को त्याग देता है; इसलिये तुम योग से युक्त हो जाओ। कर्मों
 में कुशलता योग है।।
+</details>
 </details>
 
 </div>

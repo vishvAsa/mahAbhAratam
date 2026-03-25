@@ -23,8 +23,9 @@ title = "05 सत्त्वं रजस्तम"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.5॥ सत्त्वरजस्तमांसि त्रयो गुणाः प्रकृतेः स्वरूपानुबन्धिनः स्वभावविशेषाः प्रकाशादिकार्यैकनिरूपणीयाः प्रकृत्यवस्थायाम् अनुद्भूतास् तद्विकारेषु महदादिषु उद्भूता महदादिविशेषान्तैर् आरब्धदेवमनुष्यादिदेहसम्बन्धिनम् एनं **देहिनम् अव्ययं** स्वतो गुणसम्बन्धानर्हं **देहे** वर्तमानं निबध्नन्ति देहे,वर्तमानत्वोपाधिना निबध्नन्ति इत्यर्थः। सत्त्वरजस्तमसाम् आकारं बन्धनप्रकारं च आह --
@@ -39,12 +40,14 @@ title = "05 सत्त्वं रजस्तम"
 
 14.5 The three Gunas of Prakrti - Sattva, Rajas and Tamas - are inherent in the essential nature of Prakrti and are particular expressions of it. They can be known only through their effects such as 'brightness' etc. They are not apparent in the unevolved state of Prakrti but become apparent in its transformations as Mahat etc. They bind the self, which is conjoined with bodies such as those of divinities, men etc., composed of the modifications of Prakrti beginning with Mahat and ending with the elements. The self is immutable, i.e., It is not in Its pristine nature conjoined with the Gunas. But the Gunas bind It when residing in the body. The meaning is that they bind It by virtue of the limiting conditions of Its living in the body. Sri Krsna proceeds to speak of the nature of Sattva, Rajas and Tamas and their modes of binding (the self):
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.5॥ -- **सत्त्वं रजः तमः इति** एवंनामानः। **गुणाः** इति पारिभाषिकः शब्दः; न रूपादिवत् द्रव्याश्रिताः गुणाः। न च गुणगुणिनोः अन्यत्वमत्र विवक्षितम्। तस्मात् गुणा इव नित्यपरतन्त्राः क्षेत्रज्ञं प्रति अविद्यात्मकत्वात् क्षेत्रज्ञं निबध्नन्तीव। तम् आस्पदीकृत्य आत्मानं प्रतिलभन्ते इति निबध्नन्ति इति उच्यते। ते च **प्रकृतिसंभवाः** भगवन्मायासंभवाः **निबध्नन्ति** इव हे **महाबाहो;** महान्तौ समर्थतरौ आजानुप्रलम्बौ बाहू यस्य सः महाबाहुः; हे महाबाहो **देहे** शरीरे देहिनं देहवन्तम् **अव्ययम्;** अव्ययत्वं च उक्तम् अनादित्वात् (गीता 13.31) इत्यादिश्लोकेन। ननु देही न लिप्यते इत्युक्तम्। तत कथम् इह निबध्नन्ति इति अन्यथा उच्यते परिहृतम् अस्माभिः इवशब्देन निबध्नन्ति इव इति॥**तत्र** सत्त्वादीनां सत्त्वस्यैव तावत् लक्षणम् उच्यते --,
 </details>
@@ -167,12 +170,14 @@ as it were'.
 पारमार्थिको बन्धो नास्ति तथा व्याख्यातं प्राक्शरीरस्थोऽपि कौन्तेय न
 करोति न लिप्यते इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.5॥ बन्धप्रकारं दर्शयति साधनानुष्ठानाय -- सत्त्वमित्यादिना।
 </details>
@@ -185,12 +190,14 @@ as it were'.
 बन्धोच्छेदसाधनानुष्ठानाय तज्ज्ञापनार्थं जिज्ञासामुत्पादयितुं
 गुणत्रयकृतबन्धप्रकारमादौ तावद्दर्शयतीति नासङ्गतिरित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.5॥ सत्त्वमिति। देही चायं आत्मतया सत्त्वरजस्तमोभिर्धर्मैः अपवर्गपर्यन्ताय भोगाय निबद्ध्यते।
 </details>
@@ -199,12 +206,14 @@ as it were'.
 
 14.5 Sattvam etc. This embodied Soul is bound fast by Her (the Mother) by means of Her attributes of the Sattva, the Rajas and the Tamas for the former's enjoyment that continues till his emancipation. The nature of these is detailed one by one -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.5॥ अनेन स्वस्येच्छया जीवेषु
 निजप्रकृतिसम्भवसंसर्जनलीलामुपपाद्येदानीं बन्धलीलामुपपादयितुं
@@ -226,10 +235,13 @@ as it were'.
 विनाशादिधर्मरहितं भगवतश्चिदंशात्मकं देहिनं जीवं तद्रूपेण तद्द्वारा
 गुणभोगार्थमाविर्भूतं निबध्नन्ति वशीकुर्वन्ति; रसपरत्वादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.5॥ तदेवं परमेश्वराधीनाभ्यां प्रकृतिपुरुषाभ्यां सर्वभूतोत्पत्तिं
 निरूप्य इदानीं प्रकृतिसंयोगेन पुरुषस्य संसारं प्रपञ्चयति **--
@@ -239,10 +251,13 @@ as it were'.
 तादात्म्येन स्थितं देहिनं चिदंशं वस्तुतोऽव्ययं निर्विकारमेव सन्तं
 निबध्नन्ति। स्वकार्यैः सुखदुःखमोहादिभिः संयोजयन्तीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.5 Sattva, Rajas and Tamas are the Gunas that arise from the Prakrti.
@@ -281,11 +296,13 @@ Yogis and sages have such beautiful arms.These three Gunas are present in all hu
 Rajas is passion or activity. Tamas is inertia or darkness.Analyse all phenomena in terms of these three. Know their characteristics. Stand as a witness of these alities. Do not identify yourself with them. Separate yourself from them. Become a Gunatita. You will attain Supreme Peace;
 immortality and eternal bliss. (Cf.XIII.22)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.5।। हे महाबाहो ! प्रकृतिसे उत्पन्न होनेवाले सत्त्व, रज और तम -- ये
@@ -392,6 +409,7 @@ immortality and eternal bliss. (Cf.XIII.22)
 
 ।।14.5।। हे महाबाहो ! सत्त्व, रज और तम ये प्रकृति से उत्पन्न तीनों गुण
 देही आत्मा को देह के साथ बांध देते हैं।।
+</details>
 </details>
 
 </div>

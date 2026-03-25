@@ -26,8 +26,9 @@ title = "01 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 अतीतेनाध्यायत्रयेण प्रकृतिपुरुषयोर् विविक्तयोः संसृष्टयोश् च याथात्म्यं तत्संसर्गवियोगयोश् च गुणसङ्गतद्विपर्ययहेतुत्वम्, सर्वप्रकारेणावस्थितयोः प्रकृतिपुरुषयोर् भगवद्विभूतित्वम्, विभूतिमतो भगवतो विभूतिभूताद् अचिद्वस्तुनश् चिद्वस्तुनश् च बद्धमुक्तोभयरूपाद् अव्ययत्वव्यापनभरणस्वाम्यैर् अर्थान्तरतया पुरुषोत्तमत्वेन याथात्म्यञ् च वर्णितम् । अनन्तरम्, उक्तस्य कृत्स्नस्यार्थस्य स्थेम्ने शास्त्रवश्यतां वक्तुं शास्त्रवश्यतद्विपरीतयोर् देवासुरसर्गयोर् विभागम्
@@ -66,12 +67,14 @@ title = "01 श्री भगवानुवाच"
 'study of the Vedas' is devotion to the Vedic study with the conviction that all the teachings of the Vedas deal with the Lord, with His glorious nature and with the mode of worshipping Him. 'Austerity' is the practice of penances like Krchra, Candrayana, vow on the twelfth day of the lunar fortnight, etc., which foster capability for performing acts pleasing to the Lord. 'Uprightness' consists of the oneness of thought,
 word and deed in one's dealings with others.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 दैवी आसुरी राक्षसी इति प्राणिनां प्रकृतयः नवमे अध्याये सूचिताः । तासां विस्तरेण प्रदर्शनाय ‘अभयं सत्त्वसंशुद्धिः’ इत्यादिः अध्यायः आरभ्यते । तत्र संसारमोक्षाय दैवी प्रकृतिः, निबन्धाय आसुरी राक्षसी च इति दैव्याः आदानाय प्रदर्शनं क्रियते, इतरयोः परिवर्जनाय च ॥ 
 
@@ -256,12 +259,14 @@ Further,
 चतुर्णामाश्रमाणामसाधारणान्धर्मानुक्त्वा चतुर्णां वर्णानामसाधारणधर्मानाह
 -- आर्जवं अवक्रत्वं श्रद्दधानेषु श्रोतृषु स्वज्ञातार्थासंगोपनम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.1॥ साधनविघ्नहर्त्रे नमः। पुमर्थसाधनविरोधीत्यनेनाध्यायेन दर्शयति --
 तपो ब्रह्मचर्यादि। ब्रह्मचर्यादिकं तपः इति ह्यभिधानम्।
@@ -282,12 +287,14 @@ Further,
 प्रधानस्यैवोपलक्षणत्वोपपत्तेर्नोपवासादीति भावेन सप्रमाणकमाह -- **तप**
 इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.1 -- 16.5॥ एतद्बुद्ध्वा इत्युक्तम्। बोधश्च नाम श्रुतिमयज्ञानान्तरम् +++(S श्रुत -- )+++ इदमित्थम् इत्येवंभूतयुक्तिचिन्ताभावनामयज्ञानोदेयेन +++(S;;N चिन्तामयज्ञानोदयेन)+++ विचारविमर्शपरमर्शादिरूपेण विजातीयन्यक्कारविरहिततद्भावनामयस्वभ्यस्ताकारविज्ञानलाभे सति भवति। यद्वक्ष्यते +++(S तद्वक्ष्यते N तद्वक्ष्यति)+++ -- विमृश्यैतदशेषेण यथेच्छसी तथा कुरु +++(XVIII; 63)+++ इति। तत्र श्रुतिमये ज्ञाने गुरुशास्त्रे एव प्राधान्येन प्रभवतः युक्तिचिन्ताभावनामये तु विमर्शक्षमता असाधारणा शिष्यगुणसंपत् ( -- रणशिष्य -- ) प्रधानभूता। अतः अर्जुनस्यास्त्येवासौ इत्यभिप्रायेण वक्ष्यमाणं विमृश्यैतत् इति वाक्यं सविषयं कर्तुं परिकरबन्धयोजनाभिप्रायेण आह भगवान् गुरुः अभयम् इत्यादि। आसुरभागसन्नविष्टा तामसी किल अविद्या। सा प्रवृद्धया दिव्यांशग्राहित्या विद्यया बाध्यते ( प्रवृद्धाया -- विद्याया बध्यते) इति वस्तुस्वभाव एषः। त्वं च विद्यात्मानं दिव्यमंशं सात्त्विकमभिप्रपन्नः तस्मादान्तरीं मोहलक्षणामविद्यां विहाय बाह्याविद्यात्मशत्रुहननलक्षणं +++(S बाह्यविद्या)+++ शास्त्रीयव्यापारम् अनुतिष्ठ इत्यध्यायारम्भः। तथाहि -- अभयमित्यादि पाण्डवेत्यन्तम्। दिव्यांशस्य इमानि चिह्नानि तानि स्फुटमेवाभिलक्ष्यन्ते +++(S; स्फुटमेवोपलक्ष्यन्ते)+++। दमः +++(S omits दमः)+++ इन्द्रियजयः। चापलं पूर्वापरमविमृश्य यत् करणम्; तदभावः अचापलम्। तेजः आत्मनि उत्साहग्रहणेन मितत्वापाकरणम्। दैवी संपदेषा। सा च तव विमोक्षाय; कामनापरिहारात्। अतस्त्वं शोकं मा प्रापः -- यथा भ्रात्रादीन् हत्वा सुखं कथमश्नुवीय इति। शिष्टं स्पष्टम्।
 </details>
@@ -296,12 +303,14 @@ Further,
 
 16.1 See Coment under 16.5
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.1 -- 16.3॥ पूर्वाध्यायेयो मामेवमसम्मूढो जानाति पुरुषोत्तमम्
 \[15।19\] इत्युक्तं; तत्रबुद्धिर्ज्ञानमसम्मोहः इत्युक्तत्वादसम्मूढस्य
@@ -331,10 +340,13 @@ Further,
 स्वाध्यायो ब्राह्मयज्ञादिः; तपो भगवदर्थं देहादिक्लेशः; आर्जवं
 कौटिल्यराहित्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.1॥ आसुरीं संपदं त्यक्त्वा दैवीमेवाश्रिता नराः। मुच्यन्त इति
 निर्णेतुं तद्विवेकोऽथ षोडशे॥1॥  
@@ -351,10 +363,13 @@ Further,
 यथाधिकारं दर्शपूर्णमासादिः; स्वाध्यायो ब्रह्मयज्ञादिर्जपयज्ञः; तप
 उत्तराध्याये वक्ष्यमाणं शारीरादि; आर्जवमवक्रता।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.1 The Lord said Fearlessness, purity of mind, devotion to meditation on the knowledge (of the self), alms-giving, self-control, worship,
@@ -409,11 +424,13 @@ viz.; Sattvic; Rajasic and Tamasic (see chapter XVII; 20 to 22). It opens the ga
 Just as the tree gives fruit and shade without distinction; so also give to him who needs; without distinction; with a cheerful heart.Dama Selfrestraint; selfcontrol; control of the external senses. The control of the inner senses or the mind is described in the next verse.The practice of selfcontrol annihilates the union between the senses and the sensual objects. It separates the senses from their respective objects.
 The aspirant will not allow the wind of the sensual objects to blow through the gateway of his senses. He keeps the senses under the strictest restraint. He lights the fire of dispassion at all the ten gates of the body. He takes rigid vows. He observes Mauna (the vow of silence) and celibacy. He is moderate in his diet. He keeps the golden medium in everything. He checks the outgoing tendencies of the mind and the senses. He induces the mind and the senses to turn backwards towards their source. Just as an enemy is cut down by means of a weapon; so also every tendency towards sensual objects is cut down by the practice of selfcontrol. All internal promptings; cravings and Vasanas should be burnt in the fire of renunciation; at the ten gates of the senses. As householders cannot practise perfect control of the senses; even moderation or regulated and disciplined life will constitute selfrestraint for them. The practice of selfcontrol includes forgiveness; harmlessness; truth; steadiness and,patience.Yajna Sacrifice. The fireworship (Agnihotra) and the like enjoined in the Vedas and also the sacrifice to the gods (DevaYajna) or worship of the gods; PitriYajna; BhutaYajna; ManushyaYajna and BrahmaYajna enjoined in the scriptures (Smritis).Svadhyaya Study of the Vedas in order to attain the unseen fruits.Tapas Austerity; moritification of the body and other forms of penance. True Tapas is meditation on the Self. It is fixing the mind on Brahman or the Self. It is to separate oneself from the physical body and the other four sheaths and to identify oneself with the Absolute. It is to turn the mind towards the soul. The three kinds of Tapas mentioned in chapter XVII; verses 14 to 16 come under this category.Arjavam Straightforwardness. This is conducive to the attainment of knowledge. The aspirant should always be candid; upright or straightforward. Straightforwardness should be his constant attitutde. A just and truthful man alone can be straightforward. He is respected by the people. He is liked by all. He attains success in all his endeavours. He never hides facts or truth.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.1।। श्रीभगवान् बोले -- भयका सर्वथा अभाव; अन्तःकरणकी शुद्धि; ज्ञानके
@@ -726,6 +743,7 @@ The aspirant will not allow the wind of the sensual objects to blow through the 
 
 ।।16.1।। श्री भगवान् ने कहा -- अभय, अन्त:करण की शुद्धि, ज्ञानयोग में
 दृढ़ स्थिति, दान, दम, यज्ञ, स्वाध्याय, तप और आर्जव।।
+</details>
 </details>
 
 </div>

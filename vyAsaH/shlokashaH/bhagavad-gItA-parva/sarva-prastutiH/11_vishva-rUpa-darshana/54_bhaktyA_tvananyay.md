@@ -23,8 +23,9 @@ title = "54 भक्त्या त्वनन्यया"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.54॥ वेदैर् अध्यापनप्रवचनाध्ययनश्रवणजपविषयैर् यागदानहोमतपोभिश् च मद्भक्तिरहितैः केवलैर् यथावद् अवस्थितः **अहं द्रष्टुं न शक्यः। अनन्यया तु भक्त्या** तत्त्वतः शास्त्रैः **ज्ञातुं तत्त्वतः साक्षात्कर्तुं** तत्त्वतः **प्रवेष्टुं च शक्यः।  
@@ -43,12 +44,14 @@ title = "54 भक्त्या त्वनन्यया"
 'This Self cannot be obtained by instruction, nor by intellect nor by much hearing. Whomsoever He chooses, by him alone is He obtained. To such a one He reveals His own form' (Ka. U., 2.2.23) and (Mun. U.,
 3.2.3).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.54॥ --,**भक्त्या तु** किंविशिष्टया इति आह -- **अनन्यया** अपृथग्भूतया; भगवतः अन्यत्र पृथक् न कदाचिदपि या भवति सा त्वनन्या भक्तिः। सर्वैरपि करणैः वासुदेवादन्यत् न उपलभ्यते यया; सा अनन्या भक्तिः; तया भक्त्या **शक्यः अहम् एवंविधः** विश्वरूपप्रकारः हे **अर्जुन; ज्ञातुं** शास्त्रतः। न केवलं ज्ञातुं शास्त्रतः; **द्रष्टुं च** साक्षात्कर्तुं **तत्त्वेन** तत्त्वतः; **प्रवेष्टुं च** मोक्षं च गन्तुं **परंतप**॥ अधुना सर्वस्य गीताशास्त्रस्य सारभूतः अर्थः निःश्रेयसार्थः अनुष्ठेयत्वेन समुच्चित्य उच्यते --,
 </details>
@@ -134,12 +137,14 @@ is being stated by summing it up so that it may be practised:
 मद्रूपतयैवाप्तुं चाहं शक्यो हे परंतप; अज्ञानशत्रुदमनेऽतिप्रवेशयोग्यतां
 सूचयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.54॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -148,12 +153,14 @@ is being stated by summing it up so that it may be practised:
 
 ॥11.54॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.54 -- 11.55॥ भक्त्येति। मत्कर्मेति। अविद्यमानान्यज्ञेयरमणीया येषां भक्तिः परिस्फुरति तेषां \[ ज्ञानवान् \] मां प्रपद्यते +++(; N omit मां प्रपद्यते)+++। वासुदेवः सर्वम् +++(Gita VII; 19 )+++ इत्यादिपूर्वाभिहितोपदेशचमत्कारात् विश्वात्मकं वासुदेवतत्त्वम् अयत्नत एव बोधपदवीमवतरति इति।
 </details>
@@ -162,12 +169,14 @@ is being stated by summing it up so that it may be practised:
 
 11.54 See comment under 11.55
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.54॥ तादृशे जीवे स्वीयत्वेन वरणे सञ्जातया भक्त्याऽहं भगवान् ग्राह्य
 इति तदाह -- भक्त्येति। अथवा ननु तर्हि सर्वैः कथमेवं दृश्यसे इति
@@ -190,20 +199,26 @@ is being stated by summing it up so that it may be practised:
 ज्ञातुं च पुनरलौकिकभावदृष्ट्या द्रष्टुं च पुनः प्रवेष्टुं अलौकिकरूपेण
 लीलासु सेवनार्थं शक्यः; अस्मीति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.54॥ केनोपायेन तर्हि द्रष्टुं शक्य इति तत्राह **-- भक्त्येति।**
 अनन्यया मदेकनिष्ठया भक्त्या त्वेवंभूतो विश्वरूपोऽहं तत्त्वेन परमार्थतो
 ज्ञातुं शक्यः शास्त्रतो द्रष्टुं प्रत्यक्षतः प्रवेष्टुं च तादात्म्येन
 शक्यः नान्यैरुपायैः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.54 But by single-minded devotion, O Arjuna, it is possible to truly know, to see and to enter into Me, who am of this form, O harasser of foes.
@@ -234,11 +249,13 @@ is being stated by summing it up so that it may be practised:
 11.54 भक्त्या by devotion; तु indeed; अनन्यया singleminded; शक्यः (am)
 possible; अहम् I; एवंविधः of this form; अर्जुन O Arjuna; ज्ञातुम् to know; दृष्टुम् to see; च and; तत्त्वेन in reality; प्रवेष्टुम् to enter into; च and; परंतप O Parantapa (O scorcher of the foes).Commentary Devotion is the sole means to the realisation of the Cosmic Form.AnanyaBhakti Singleminded devotion. Onepointed unbroken devotion the devotion which does not seek any other object but the Lord alone. In this type of devotion no object other than the Lord is experienced by any of the senses. Egoism and dualism totally vanish.Of this form refers to the Cosmic Form.By singleminded devotion it is possible not only to know Me as declared in the scriptures but also to realise Me; i.e.; to attain liberation. The devotee realises that the Lord is all this and He alone is the ultimate Reality. When he gets this experience of illumination he gets merged in Him. (Cf.VIII.22X.10)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.54।। परन्तु हे शत्रुतापन अर्जुन ! इस प्रकार (चतुर्भुजरूपवाला) मैं
@@ -309,6 +326,7 @@ possible; अहम् I; एवंविधः of this form; अर्जुन
 ।।11.54।। परन्तु हे परन्तप अर्जुन! अनन्य भक्ति के द्वारा मैं तत्त्वत:
 'जानने', 'देखने' और 'प्रवेश' करने के लिए (एकी भाव से प्राप्त होने के
 लिए) भी, शक्य हूँ!।।
+</details>
 </details>
 
 </div>

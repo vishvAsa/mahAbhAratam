@@ -23,8 +23,9 @@ title = "07 एतां विभूतिम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.7॥ विभूतिर् ऐश्वर्यम्; **एतां** सर्वस्य मदायत्तोत्पत्तिस्थितिप्रवृत्तिरूपां **विभूतिं मम** हेयप्रत्यनीककल्याणगुणरूपं **योगं च यस् तत्त्वतो वेत्ति; सो ऽविकम्पेन अप्रकम्पेन भक्तियोगेन युज्यते; न अत्र संशयः। मद्विभूतिविषयं कल्याणगुणविषयं च ज्ञानं भक्तियोगवर्धनम् इति स्वयम् एव द्रक्ष्यसि इत्यभिप्रायः। विभूतिज्ञानविपाकरूपां भक्तिवृद्धिं दर्शयति --**
@@ -39,12 +40,14 @@ title = "07 एतां विभूतिम्"
 
 10.7 'Supernal manifestation' is the glory (Vibhuti) of the Lord. He who in truth knows this supernal manifestation that all origination, sustentation and activity depend on Me, and also that Yoga of Mine which is in the form of auspicious attributes antagonistic to all that is evil - such a person becomes united with the Yoga or Bhakti of an unshakable nature. Of this, there is no doubt. The meaning is: You yourself will see that the knowledge concerning the supernal manifestation and auspicious attributes of Mine will increase devotion. Sri Krsna now shows that the growth of devotion is of the form of the development of knowledge of His supreme state.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.7॥ --,**एतां** यथोक्तां **विभूतिं** विस्तारं **योगं च** युक्तिं च आत्मनः घटनम्; अथवा योगैश्वर्यसामर्थ्यं सर्वज्ञत्वं योगजं योगः उच्यते; **मम** मदीयं योगं **यः वेत्ति तत्त्वतः** तत्त्वेन यथावदित्येतत्; **सः अविकम्पेन** अप्रचलितेन योगेन सम्यग्दर्शनस्थैर्यलक्षणेन **युज्यते** संबध्यते। **न अत्र संशयः** न अस्मिन् अर्थे संशयः अस्ति॥ कीदृशेन अविकम्पेन योगेन युज्यते इत्युच्यते --,
 </details>
@@ -113,12 +116,14 @@ kind of unwavering Yoga does he become endued; This is being answered:
 सम्यग्ज्ञानस्थैर्यलक्षणेन समाधिना युज्यते। नात्र संशयः प्रतिबन्धः
 कश्चित्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.7॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -127,12 +132,14 @@ kind of unwavering Yoga does he become endued; This is being answered:
 
 ॥10.7॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.6 -- 10.11॥ महर्षय इत्यादि भास्वता इत्यन्तम्। परस्परबोधनया अन्योन्यबोधस्फारसंक्रमणात् सर्व एव हि प्रमातारः एक ईश्वर इति विततव्याप्त्या +++(S;;N वितत्य व्याप्त्या)+++ सुखेनैव सर्वशक्तिकसर्वगतस्वात्मरूपताधिगमेन +++(S -- ताधिशयनेन अधिगमेन)+++ माहेश्वर्यमेषामिति भावः +++(After इति भावः ;N add तेषां सततयुक्तानाम् इत्यतः प्रभृति अध्यायान्ता टीका उट्टङ्किता युगपद्धि वेद्या। तेषामेव अनु च अर्जुनप्रश्नपद्यानि षट् उल्लिखति। श्रीभगवान् अथवा बहुना इति पर्यन्तानि पद्यानि 23,वक्ति॥ These sentences are obviously of some copyist. It is to be noted however that the Mss. generally contain seven (not six)+++ verses of Arjuna and then 24 +++(not 23)+++ verses of the hagavan) ।
 </details>
@@ -141,12 +148,14 @@ kind of unwavering Yoga does he become endued; This is being answered:
 
 10.7 See Comment under 10.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.7॥ एतां विभूतिमिति। तथाविधैश्वर्यं च यो वेत्ति तत्त्वतः स
 भक्तिरूपेण योगेन युज्यते।
@@ -161,19 +170,25 @@ kind of unwavering Yoga does he become endued; This is being answered:
 युज्यते; युक्तो भवतीत्यर्थः। नात्र संशयः; अत्र सन्देहो नास्तीत्यर्थः।
 अनेन सन्देहे सति न भवतीति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.7॥ यथोक्तविभूत्यादितत्त्वज्ञानस्य फलमाह **-- एतामिति।** एतां
 भृग्वादिलक्षणां मम विभूतिं; योगं चैश्वर्यलक्षणं तत्त्वतो यो वेत्ति
 सोऽविकम्पेन निःसंशयेन योगेन सम्यग्दर्शनेन युक्तो भवति। नास्त्यत्र संशयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.7 He who in truth knows this supernal manifestation and splendour of auspicious attributes of Mine, becomes, united with the unshakable Yoga of Bhakti. Of this, there is no doubt.
@@ -208,11 +223,13 @@ Commentary Knowledge of the glory of the Lord is really conducive to Yoga. He wh
 (Vibhutis); unites with Him in firm unalterable Yoga and attains eternal bliss and perfect harmony. From the ant to the Creator there is nothing except the Lord. He who knows in reality this extensive manifestation of the Lord and His Yoga (Yoga here stands for what is born of Yoga; viz.;
 infinite Yogic powers as well as omniscience); is endowed with firm unwavering Yoga. He lives in the Eternal and is endowed with the highest knowledge of the Self. He who has realised this Truth is free from the superiority and inferiority complexes. There i real awakening of wisdom in him. He will behold the Lord in all beings and all beings in the Lord. He will never hate any creature on this earth. This is a rare living cosmic experience. The Yogi realises that the Lord and His manifestations are one. He attains the supreme goal and is absorbed in Him through his wholehearted devotion. He is perfectly aware of his oneness with the Supreme by My divine Yoga.He can keep his balance of mind now in whatever environments and circumstances he is placed and can do any action without losing his consciousness of oneness or identity with the Supreme Self. (Cf.VII.25IX.5XI.8)What is that unshaken Yoga with which they are endowedThe answer follows.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.7।। जो मनुष्य मेरी इस विभूतिको और योगको तत्त्वसे जानता है अर्थात्
@@ -266,6 +283,7 @@ infinite Yogic powers as well as omniscience); is endowed with firm unwavering Y
 ।।10.7।। जो पुरुष इस मेरी विभूति और योग को तत्त्व से जानता है, वह पुरुष
 अविकम्प योग (अर्थात् निश्चल ध्यान योग) से युक्त हो जाता है, इसमें कुछ भी
 संशय नहीं है।।
+</details>
 </details>
 
 </div>

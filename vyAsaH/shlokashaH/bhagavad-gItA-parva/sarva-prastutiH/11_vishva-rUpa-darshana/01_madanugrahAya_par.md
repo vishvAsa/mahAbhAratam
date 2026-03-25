@@ -26,8 +26,9 @@ title = "01 मदनुग्रहाय परमम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 एवं भक्तियोगनिष्पत्तये तद्विवृद्धये च सकलेतरविलक्षणेन स्वाभाविकेन भगवदसाधारणेन कल्याणगुणगणेन सह भगवतः सर्वात्मत्वं तत एव तद्व्यतिरिक्तस्य कृत्स्नस्य चिदचिदात्मकस्य वस्तुजातस्य तच्छरीरतया तदायत्तस्वरूपस्थितिप्रवृत्तित्वं चोक्तम् । तम् एतं भगवदसाधारणं स्वभावं कृत्स्नस्य तदायत्तस्वरूपस्थितिप्रवृत्तितां च भगवत्सकाशाद् उपश्रुत्य एवम् एवेति नित्यश् च तथाभूतं भगवन्तं साक्षात्कर्तुकामो ऽर्जुन उवाच । तथैव भगवत्प्रसादाद् अनन्तरं द्रक्ष्यति । "सर्वाश्चर्यमयं देवम् अनन्तं विश्वतोमुखम् ॥। तत्रैकस्थं जगत् कृत्स्नं प्रतिभक्तम् अनेकधाः" इति हि वक्ष्यते ।
@@ -48,12 +49,14 @@ title = "01 मदनुग्रहाय परमम्"
 
 11.1 Arjuna said To show favour to me, who is deluded by the misconception that the body is the self, these words of supreme mystery concerned with the self, i.e., which is a proper description of the self, have been spoken by You in words beginning from 'There was never a time when I did not exist' (2.12) and ending with, 'Therefore, O Arjuna, become a Yogin' (6.46). By that this delusion of mine about the self is entirely removed.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 भगवतो विभूतय उक्ताः । तत्र च ‘विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्’ (भ. गी. १० । ४२) इति भगवता अभिहितं श्रुत्वा, यत् जगदात्मरूपम् आद्यमैश्वरं तत् साक्षात्कर्तुमिच्छन् , अर्जुन उवाच —
 
@@ -144,12 +147,14 @@ favour for me. Further,
 मोहोऽयमनुभवसाक्षिको विगतो विनष्टो मम। तत्रासकृदात्मनः
 सर्वविक्रियाशून्यत्वोक्तेः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.1॥ म्। यथा श्रुते ध्यानं शक्यं तथा स्वरूपस्थितिरनेनाध्यायेनोच्यते।
 </details>
@@ -164,12 +169,14 @@ favour for me. Further,
 अनेनैकादशेनाध्यायेनोच्यते। स्वरूपग्रहणेन विश्वरूपस्य मायादिना तदैव
 निर्माय विसृष्टत्वं निवारयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.1॥ No commentary.
 </details>
@@ -178,12 +185,14 @@ favour for me. Further,
 
 11.1 Now Arjuna seeks to perceive, with his own sense-organ (11.eye), what has been taught in the last chapter. The subject matter, learnt through the \[teacher's\] instructions, becomes ite clear if it is grasped by the knowledge of perception. For that end only the following conversation is made -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.1॥ अथातोऽष्टभिरध्यायैर्गुणैराश्रयधर्मतः। पुष्ट्यात्मना भगवता मोचितः
 स इतीर्यते॥1॥  
@@ -214,10 +223,13 @@ favour for me. Further,
 सर्वात्मरूपं यत् त्वया वचोविष्टभ्याहं इत्युक्तं; तेन ममाऽयं रूपे मोहो
 विशेषेण गतो नष्ट इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.1॥ विभूतिवैभवं प्रोच्य कृपया परया हरिः। दिदृक्षोरर्जुनस्याथ
 विश्वरूपमदर्शयत्॥1॥  
@@ -231,10 +243,13 @@ favour for me. Further,
 मोहोऽहं हन्ता एते हन्यन्त इत्यादिलक्षणो भ्रमो विगतो विनष्टः; आत्मनः
 कर्तृत्वाद्यभावोक्तेः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.1 Arjuna said To show favour to Me, You have told me that most profound mystery concerning the self; by that, this delusion of mine is dispelled.
@@ -269,11 +284,13 @@ the secret; अध्यात्मसंज्ञितम् called Adhyatma;
 gone; मम my.Commentary After hearing the glories of the Lord; Arjuna has an intense longing to have the wonderful vision of the Cosmic Form with his own eyes. His bewilderment and delusion have now vanished.Adhyatma That which treats of the discrimination between the Self and the notSelf metaphysics.I was worried about the sin involved in killing my relations and preceptors. I had the ideas; I am the agent in killing them they are to be killed by me.This delusion has vanished now after receiving Thy most profound and valuable instructions. Thou hast dispelled this delusion of ignorance from me.The vision of the Cosmic Form is not the ultimate goal. If that were so; the Gita would have ended with this chapter. The vision of the Cosmic Form is also one more in a series of graded experiences. It is a terrible experience too. That is the reason why Arjuna said to the Lord; stammering with fear What an awful form Thou hast I have seen that which none hath seen before. My heart is glad; yet faileth me on account of fear. Show me; O God; Thine other form again. O God of gods; support of all the worlds; let me see Thy form with the diadem; and with the mace and discus in Thy hands. Again I wish to see Thee as before assume Thy fourarmed form; O Lord of thousand arms and of forms innumerable.Arjuna heard the Lords statement; viz.;
 Having pervaded this whole universe with one fragment of Myself; I remain. This induced him to have the vision of the Lords Cosmic Form. He says; O Lord of compassion; Thou hast taught me the spiritual wisdom which can hardly be found in the Vedas. Thou hast saved me. My delusion has disappeared. Thou hast disclosed to me the nature of the Supreme Self; the secrets of Nature and Thy divine glories. My greatest ambition at the present moment is that I should behold with my own eyes Thy entire Cosmic Form.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.1।।****अर्जुन बोले -- केवल मेरेपर कृपा करनेके लिये ही आपने जो परम
@@ -319,6 +336,7 @@ Having pervaded this whole universe with one fragment of Myself; I remain. This 
 ।।11.1।। अर्जुन ने कहा -- मुझ पर अनुग्रह करने के लिए जो परम गोपनीय,
 अध्यात्मविषयक वचन (उपदेश) आपके द्वारा कहा गया, उससे मेरा मोह दूर हो गया
 है।।
+</details>
 </details>
 
 </div>

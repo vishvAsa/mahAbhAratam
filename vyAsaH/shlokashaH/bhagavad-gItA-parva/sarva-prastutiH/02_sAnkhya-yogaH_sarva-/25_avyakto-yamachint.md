@@ -23,8 +23,9 @@ title = "25 अव्यक्तोऽयमचिन्त्योऽयम�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.25॥ छेदनादियोग्यानि वस्तूनि यैः प्रमाणैर् व्यज्यन्ते तैः **अयम्** आत्मा न व्यज्यते इति **अव्यक्तः।** अतश् छेद्यादिविजातीयः। **अचिन्त्यः** च सर्ववस्तुविजातीयत्वेन तत्तत्स्वभावयुक्ततया चिन्तयितुम् अपि न अर्हः। अतश् च **अविकार्यः** विकारानर्हः। **तस्माद्** उक्तलक्षणम् **एनम् आत्मानं विदित्वा** तत्कृते **न अनुशोचितुम् अर्हसि।  
@@ -40,12 +41,14 @@ title = "25 अव्यक्तोऽयमचिन्त्योऽयम�
 
 2.25 The self is not made manifest by those Pramanas (means of knowledge) by which objects susceptible of being cleft etc., are made manifest; hence It is unmanifest, being different in kind from objects susceptible to cleaving etc., It is inconceivable, being different in kind from all objects. As It does not possess the essential nature of any of them. It cannot even be conceived. Therefore, It is unchanging, incapable of modifications. So knowing this self to be possessed of the above mentioned alities, it does not become you to feel grief for Its sake.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.25॥  
   
@@ -185,12 +188,14 @@ killed by me.'
 कार्याभावस्यावश्यकत्वात्। तेनात्मानमविदित्वा यदन्वशोचस्तद्युक्तमेव।
 आत्मानं विदित्वा तु नानुशोचितुमर्हसीत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.25॥ अत एवाव्यक्तादिरूपः।
 </details>
@@ -201,12 +206,14 @@ killed by me.'
 तत्कथमुच्यतेऽव्यक्तोऽयमचिन्त्योऽयमिति तत्राऽऽह **अतएवे**ति।
 अचिन्त्यशक्तित्वादेव। यथोक्तं अतोऽनन्ते न तथाहि लिङ्गम् इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.24 2.26॥ नैनमित्यादि। नास्य नाशकारणं शस्त्रादि किंचित्करम्। चिदेकस्वभावस्य अनाश्रितस्य +++(N K add निरपेक्षस्य after अनाश्रितस्य)+++ निरंशस्य +++(N omits निरंशस्य S adds निरवयवस्य after निरंशस्य)+++ स्वतन्त्रस्य स्वभावान्तरापत्त्याश्रयविनाशावयवविभाग विरोधिप्रादुर्भावादिक्रमेण +++(S प्रक्रमेण)+++ नाशयितुमशक्यत्वात्। न च देहान्तरगमनमस्य अपूर्वम् देहान्वितोऽपि +++(N अपूर्वदेहान्नित्योऽपि)+++ सततं देहान्तरं गच्छति तेन संबध्यते इत्यर्थः। देहस्य क्षणमात्रमप्यनवस्थायित्वात्। एवंभूतं विदित्वा एनमात्मानं शोचितुं नार्हसि।
 </details>
@@ -215,12 +222,14 @@ killed by me.'
 
 2.23-25 Nainam etc. upto arhasi. The weapons etc., that cause destruction, haldly do anything to This. For, being, by nature, exclusively pure Consciousness, remaining without support, having no component parts and being independent, this cannot be destroyed through the process of either assumption of an altogether different nature, or the destruction of the support, or the mutual separation of the component parts, or the rise of an opponent, and so on. Nor the act to going to another body is a new thing for This. For, even when This is \[apparently\] with a single body, This travels always to different body; for the body does not remain the same even for a moment. By understanding this Self to be as such, you should not lament This.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.25॥ अव्यक्तोऽयमिति। अक्षरोऽयं वस्तुतोऽचिन्त्यश्च। प्रकृतिभ्यः परं
 यत्तु तदचिन्त्यस्य लक्षणम् इति वाक्यात्। नन्वेवम्भूतमव्यक्तं प्रधानं
@@ -236,20 +245,26 @@ killed by me.'
 प्रत्यक्षतयोक्तः। उच्यते वेदैस्तद्रूपश्चेत्यर्थः। यदर्थमेतदुक्तं तदाह
 तस्मादिति। तस्मादेनं पूर्वोक्तधर्मवन्तं विदित्वा अनुशोचितुं नार्हसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.25॥ किंच अव्यक्तश्चक्षुराद्यविषयः अचिन्त्यो मनसोऽप्यविषयः अविकार्यः
 कर्मेन्द्रियाणामप्यगोचर इत्यर्थः। उच्यत इति नित्यत्वादावभियुक्तोक्तिं
 प्रमाणयति। उपसंहरति **तस्मादिति।  
 **
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.25 This (self) is said to be unmanifest, inconceivable and unchanging.
@@ -285,11 +300,13 @@ therefore; एवम् thus; विदित्वा having known; एनम�
 अनुशोचितुम् to grieve; अर्हसि (thou) oughtest.Commentary The Self is not an object of perception. It can hardly be seen by the physical eyes.
 Therefore; the Self is unmanifested. That which is seen by the eyes becomes an object of thought. As the Self cannot be perceived by the eyes; It is unthinkable. Milk when mixed with buttermilk changes its form. The Self cannot change Its form like milk. Hence; It is changeless and immutable. Therefore; thus understanding the Self; thou shouldst not mourn. Thou shouldst not think also that thou art their slayer and that they are killed by thee.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.25।। यह देही प्रत्यक्ष नहीं दीखता, यह चिन्तनका विषय नहीं है और यह
@@ -362,6 +379,7 @@ Therefore; the Self is unmanifested. That which is seen by the eyes becomes an o
 
 ।।2.25।। यह आत्मा अव्यक्त, अचिन्त्य और अविकारी कहा जाता है; इसलिए इसको
 इस प्रकार जानकर तुमको शोक करना उचित नहीं है।।
+</details>
 </details>
 
 </div>

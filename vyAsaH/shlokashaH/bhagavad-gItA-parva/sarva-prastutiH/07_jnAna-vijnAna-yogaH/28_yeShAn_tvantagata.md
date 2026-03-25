@@ -23,8 +23,9 @@ title = "28 येषान् त्वन्तगतम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.28॥ येषां त्व् अनेकजन्मार्जितेन उत्कृष्टपुण्यसञ्चयेन गुणमयं द्वन्द्वेच्छाद्वेषहेतुभूतं मदौन्मुख्यविरोधि च अनादिकालप्रवृत्तं **पापम् अन्तगतं** क्षीणम् **ते** पूर्वोक्तेन सुकृततारतम्येन मां शरणम् अनुप्रपद्य गुणमयान्मोहाद् विनिर्मुक्ता जरामरणमोक्षाय प्रकृतिवियुक्तात्मस्वरूपदर्शनाय महते च ऐश्वर्याय मत्प्राप्त्ये च **दृढव्रताः** दृढसङ्कल्पा माम् एव भजन्ते। तत्र तेषां त्रयाणां भगवन्तं भजमानानां ज्ञातव्यविशेषान् उपादेयांश्च प्रस्तौति
@@ -39,12 +40,14 @@ title = "28 येषान् त्वन्तगतम्"
 
 7.28 However, there are some whose sins, accruing from beginningless time, which cause desire or hatred to the pairs of opposites and annual the tendency towards Me, have come to an end, i.e., have become weakened, through the accumulation of good actions in numerous births, They resort to Me, devoid of delusion produced by the Gunas, and worship Me alone in proportion to the excellence of their Karmas previously described. In order to attain deliverance form old age and death and for aciring the supreme consummation of reaching Me, they remain steadfast in their vows. Sri Krsna enumerates what special things are to be known and what ought to be attained by these three classes of votaries of God:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.28॥ **येषां तु** पुनः **अन्तगतं** समाप्तप्रायं क्षीणं **पापं जनानां पुण्यकर्मणां** पुण्यं कर्म येषां सत्त्वशुद्धिकारणं विद्यते ते पुण्यकर्माणः तेषां पुण्यकर्मणाम् **ते द्वन्द्वमोहनिर्मुक्ताः** यथोक्तेन द्वन्द्वमोहेन निर्मुक्ताः **भजन्ते मां** परमात्मानं **दृढव्रताः।** एवमेव परमार्थतत्त्वं नान्यथा इत्येवं सर्वपरित्यागव्रतेन निश्चितविज्ञानाः दृढव्रताः उच्यन्ते॥ ते किमर्थं भजन्ते इत्युच्यते
 </details>
@@ -124,12 +127,14 @@ mam, Me, the supreme Self. Why do they worship; This is being answered:
 अयमेवोत्सर्गः प्रागपि प्रतिपादितस्त्रिभिर्गुणमयैर्भावैरित्यत्र।
 तस्मात्सत्त्वशोधकपुण्यकर्मसंचयाय सर्वदा यतनीयमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.28॥ विपरीताश्च केचित्सन्तीत्याह येषामिति।
 </details>
@@ -142,12 +147,14 @@ mam, Me, the supreme Self. Why do they worship; This is being answered:
 यान्ति चेत् लुप्तो मुक्तिमार्ग इत्याशङ्क्याऽत्र द्वन्द्वमोहरहिताश्च
 केचित्सन्तीत्याहेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md"></div>
 </details>
 
@@ -155,12 +162,14 @@ mam, Me, the supreme Self. Why do they worship; This is being answered:
 
 7.28 See Comment under 7.30
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.28॥ येषां त्विति। सुकृतिनां जनानां पापमात्रं नष्टं पापरूपं
 प्रतिबन्धकं वा ते मां दृढव्रताः सन्तो भजन्ते। मां भजन्तो दृश्यन्त
@@ -181,19 +190,25 @@ mam, Me, the supreme Self. Why do they worship; This is being answered:
 अतएवजन्मान्तरसहस्रेषु तपोज्ञानसमाधिभिः। नराणां क्षीणपापानां कृष्णे
 भक्तिः प्रजायते पां.गी.40 इति भागवतैरुक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.28॥ कुतस्तर्हि केचन त्वां भजन्तो दृश्यन्ते तत्राह **येषामिति।**
 येषां तु पुण्याचरणशीलानां सर्वं प्रतिबन्धकं पापमन्तगतं नष्टं ते
 द्वन्द्वनिमित्तेन मोहेन निर्मुक्ताः दृढव्रता एकान्तिनः सन्तो मां भजन्ते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.28 But the doers of good deeds, whose sins have come to an end, are freed from the delusion of the pairs of opposites. They worship Me,
@@ -228,11 +243,13 @@ steadfast in their vows.
 of men; पुण्यकर्मणाम् of men of virtuous deeds; ते they;
 द्वन्द्वमोहनिर्मुक्ताः freed from the delusion of the pairs of opposites; भजन्ते worship; माम् Me; दृढव्रताः men steadfast in vows.Commentary By the performance of good deeds the heart is slowly purified Sattva increases Rajas and Tamas are gradually thinned out. The mind becomes serene and calm. The little selfarrogating personality slowly dies. You grow in spirituality. The divine flame becomes brighter and brighter. You become impersonal.Sin To forget ones identity with the Supreme Soul is the greatest sin. To see difference is sin. To take the body as the Self; to believe that this world is real is sin. Selfishness is sin. Egoism is sin. Ignorance is sin.Steadfast in vows The man steadfast in vows entertains a firm resolve I must realise the Self now I will not budge an inch from my seat till I attain Selfrealisation. He has the firm conviction that Brahman is the only Reality. This world is unreal. It is like a mirage. I can attain immortality and eternal bliss if I realise the Self only. There is not an iota of happiness in the sensual objects. Therefore the Lord says; Those persons of pure deeds worship Me steadfast in vows.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.28।। परन्तु जिन पुण्यकर्मा मनुष्योंके पाप नष्ट गये हैं, वे
@@ -297,6 +314,7 @@ of men; पुण्यकर्मणाम् of men of virtuous deeds; ते
 
 ।।7.28।। परन्तु जिन पुण्यकर्मी पुरुषों का पाप नष्ट हो गया है, वे
 द्वन्द्वमोह से निर्मुक्त और दृढ़वती पुरुष मुझे भजते हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "15 सर्वेन्द्रियगुणाभासं"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.14॥**सर्वेन्द्रियगुणाभासं** सर्वेन्द्रियगुणैर् आभासो यस्य तत् सर्वेन्द्रियगुणाभासम्।  
@@ -52,12 +53,14 @@ title = "15 सर्वेन्द्रियगुणाभासं"
 'detached', namely, It is free, by nature, from attachment to the bodies of gods etc. 'Yet supporting all,' yet capable of supporting all bodies,
 such as of gods etc., as declared in the Sruti. 'It is one, is threefold ৷৷.' (Cha. U., 7.26.2). It is devoid of Gunas, i.e., by nature It is devoid of Sattva etc., and yet It is the experiencer of the Gunas' - It has the capability to experience Sattva etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.15॥ -- **सर्वेन्द्रियगुणाभासं** सर्वाणि च तानि इन्द्रियाणि श्रोत्रादीनि बुद्धीन्द्रियकर्मेन्द्रियाख्यानि; अन्तःकरणे च बुद्धिमनसी; ज्ञेयोपाधित्वस्य तुल्यत्वात्; सर्वेन्द्रियग्रहणेन गृह्यन्ते। अपि च; अन्तःकरणोपाधिद्वारेणैव श्रोत्रादीनामपि उपाधित्वम् इत्यतः अन्तःकरणबहिष्करणोपाधिभूतैः सर्वेन्द्रियगुणैः अध्यवसायसंकल्पश्रवणवचनादिभिः अवभासते इति सर्वेन्द्रियगुणाभासं सर्वेन्द्रियव्यापारैः व्यापृतमिव तत् ज्ञेयम् इत्यर्थः ध्यायतीव लेलायतीव (बृह0 उ₀ 4।3।7) इति श्रुतेः। कस्मात् पुनः कारणात् न व्यापृतमेवेति गृह्यते इत्यतः आह -- सर्वेन्द्रियविवर्जितम्; सर्वकरणरहितमित्यर्थः। अतः न करणव्यापारैः व्यापृतं तत् ज्ञेयम्। यस्तु अयं मन्त्रः -- अपाणिपादो जवनो ग्रहीता पश्यत्यचक्षुः स श्रृणोत्यकर्णः (श्वे0 उ₀ 3।19) इत्यादिः; स सर्वेन्द्रियोपाधिगुणानुगुण्यभजनशक्तिमत् तत् ज्ञेयम् इत्येवं प्रदर्शनार्थः; न तु साक्षादेव जवनादिक्रियावत्त्वप्रदर्शनार्थः। अन्धो मणिमविन्दत् (तै0 आ0 1।11) इत्यादिमन्त्रार्थवत् तस्य मन्त्रस्य अर्थः। यस्मात् सर्वकरणवर्जितं ज्ञेयम्; तस्मात् **असक्तं** सर्वसंश्लेषवर्जितम्। यद्यपि एवम्; तथापि **सर्वभृच्च एव।** सदास्पदं हि सर्वं सर्वत्र सद्बुद्ध्यनुगमात्। न हि मृगतृष्णिकादयोऽपि निरास्पदाः भवन्ति। अतः सर्वभृत् सर्वं बिभर्ति इति।  
 स्यात् इदं च अन्यत् ज्ञेयस्य सत्त्वाधिगमद्वारम् -- **निर्गुणं** सत्त्वरजस्तमांसि गुणाः तैर् वर्जितं तत् ज्ञेयम्;  
@@ -271,12 +274,14 @@ sorrow, delusion, etc. Further,
 गुणभोक्तृ च गुणानां सत्त्वरजस्तमसां शब्दादिद्वारा सुखदुःखमोहाकारेण
 परिणतानां भोक्तृ उपलब्धं च तज्ज्ञेयं ब्रह्मेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.15॥ सर्वेन्द्रियाणि गुणांश्चाभासयतीति सर्वेन्द्रियगुणाभासम्।
 इन्द्रियवर्जितत्वाद्यर्थ उक्तः पुरस्तात्।
@@ -293,12 +298,14 @@ sorrow, delusion, etc. Further,
 निर्गुणमचरमित्याद्युक्तमित्यत आह -- **इन्द्रिये**ति। आदिशब्दात्परं
 शब्देत्यध्याहार्यम्। पुरस्तात् द्वितीये।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.13 -- 13.18॥ एतेन ज्ञानेन यत् ज्ञेयं तदुच्यते -- ज्ञेयमित्यादि विष्ठितमित्यन्तम्। अनादिमत् परं ब्रह्म इत्यादिभिर्विशेषणैः ब्रह्मस्वरूपाक्षेपानुग्राहकं,+++(S -- स्वरूपापेक्षानु -- )+++ सर्वप्रवादाभिहितविज्ञानापृथग्भावं कथयति +++(S;;N सर्वप्रवादान्तराभिहितपृथग्भावकमुच्यते)+++। एतानि च विशेषणानि पूर्वमेव व्याख्यातानि इति किं निष्फलया,पुनरुक्त्या।
 </details>
@@ -307,12 +314,14 @@ sorrow, delusion, etc. Further,
 
 13.15 See Comment under 13.18
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.15॥ सर्वत्र परिच्छेदस्य प्रयोजनं तूपपादितमेवअनन्तं
 \[11।47\]अव्यक्तं \[13।6\] इत्यत्र। एतेन
@@ -342,10 +351,13 @@ sorrow, delusion, etc. Further,
 **गुणभोक्तृ च** गुणेषु स्थित्वा तद्भोगं करोतीत्यर्थः।  
 **चकारेण** तत् पालकम् अपीति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.15॥ किंच **-- सर्वेन्द्रियेति।** सर्वेषां चक्षुरादीनामिन्द्रियाणां
 गुणेषु रूपाद्याकारासु वृत्तिषु तत्तदाकारेण भासत इति तथा।
@@ -355,10 +367,13 @@ sorrow, delusion, etc. Further,
 बिभर्तीति सर्वभृत्सर्वस्याधारभूतम्। तदेव निर्गुणं सत्त्वादिगुणरहितम्।
 गुणभोक्तृ गुणानां सत्त्वादीनां भोक्तृ च पालकम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.15 Shining by the functions of the senses, and yet devoid of the senses, detached and yet supporting all, devoid of Gunas and yet experiencing the Gunas;
@@ -393,11 +408,13 @@ Bound to nothing, It yet sustains everything. Unaffected by the Qualities, It st
 Other than Him there is no seer; no hearer; no thinker. He is the Self;
 the Inner Ruler; the Immortal. (Brihadaranyaka Upanishad III.7.23) He is free from the,alities of Nature and yet He is the enjoyer of the alities.All the senses The five organs of knowledge and the five organs of action; the inner senses; mind and intellect come under the term all the senses. The organs of action and those of knowledge perform their functions in conjunction with the mind and the intellect. They cannot function independently. Therefore; the mind and the intellect are included in the term all the senses.Brahman is transcendental and unmanifest; but It manifests Itself through the limiting adjuncts of the extrnal and the internal senses. As It is destitute of the senses It is unattached and yet It supports all. It is the support or substratum of everything. It is destitute of the alities of Nature and yet It is the enjoyer of those alities. Brahman is really mysterious.This verse is taken from the Svetasvataropanishad 3.17.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/15_sarvendriyaguNAbh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.15।। वे (परमात्मा) सम्पूर्ण इन्द्रियोंसे रहित हैं और सम्पूर्ण
@@ -496,6 +513,7 @@ the Inner Ruler; the Immortal. (Brihadaranyaka Upanishad III.7.23) He is free fr
 ।।13.15।। वह समस्त इन्द्रियों के गुणो (कार्यों) के द्वारा प्रकाशित होने
 वाला, परन्तु (वस्तुत:) समस्त इन्द्रियों से रहित है; आसक्ति रहित तथा गुण
 रहित होते हुए भी सबको धारणपोषण करने वाला और गुणों का भोक्ता है।।
+</details>
 </details>
 
 </div>

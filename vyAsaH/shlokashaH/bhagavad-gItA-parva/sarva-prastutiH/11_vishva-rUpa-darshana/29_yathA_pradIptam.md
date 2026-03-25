@@ -25,8 +25,9 @@ title = "29 यथा प्रदीप्तम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.29॥ एते राज**लोका बहवो नदीनाम्** अम्बुप्रवाहाः **समुद्रम्** इव **प्रदीप्तज्वलनम्** इव च शलभाः **तव वक्त्राण्य् अभिविज्वलन्ति** स्वयम् एव त्वरमाणा आत्म**नाशाय** विशन्ति।
@@ -41,12 +42,14 @@ title = "29 यथा प्रदीप्तम्"
 
 11.28 - 11.29 These innumerable kings rush to their destruction in Your flaming mouths, even as many torrents of rivers flow towards the ocean and moths rush into a blazing fire.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.29॥ --,**यथा प्रदीप्तं ज्वलनम्** अग्निं **पतङ्गाः** पक्षिणः **विशन्ति नाशाय** विनाशाय **समृद्धवेगाः** समृद्धः उद्भूतः वेगः गतिः येषां ते समृद्धवेगाः; **तथैव नाशाय विशन्ति लोकाः** प्राणिनः **तवापि वक्त्राणि समृद्धवेगाः**॥ त्वं पुनः --,
 </details>
@@ -100,12 +103,14 @@ You, again-
 तथैव नाशाय विशन्ति लोका एते दुर्योधनप्रभृतयः सर्वेऽपि तव वक्त्राणि
 समृद्धवेगाः बुद्धिपूर्वमनायत्या।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.29॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -114,12 +119,14 @@ You, again-
 
 ॥11.29॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.29॥ No commentary.
 </details>
@@ -128,12 +135,14 @@ You, again-
 
 11.29 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.28 -- 11.29॥ यथा नदीनामिति। अम्बुवेगाः समुद्रमिव ते
 वक्त्राण्यभिमुखं तत्रैव चेमे नरलोकवीरा नाशाय विशन्ति।
@@ -147,20 +156,26 @@ You, again-
 तथैव समृद्धवेगाः मदावलिप्ता एते लोकाः पूर्वोक्ता नाशाय मरणाय तवापि
 वक्त्राणि विशन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.29॥ अवशत्वेन प्रवेशे नदीवेगो दृष्टान्त उक्तः। बुद्धिपूर्वकप्रवेशे
 दृष्टान्तमाह **-- यथेति।** प्रदीप्तं ज्वलनमग्निं पतङ्गाः
 सूक्ष्मपक्षिविशेषाः बुद्धिपूर्वकं समृद्धो वेगो येषां ते यथा नाशाय
 मरणायैव विशन्ति तथैव लोका एते जना अपि तव मुखानि प्रविशन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.29 As moths rush swiftly into a blazing fire to their destruction, so do these men swiftly rush into Your mouths to meet their destruction.
@@ -196,11 +211,13 @@ enter; नाशाय to destruction; समृद्धवेगाः with ic
 only; नाशाय to destruction; विशन्ति enter; लोकाः creatures; तव Thy; अपि
 also; वक्त्राणि mouths; समृद्धवेगाः with ickened speed.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.29।। जैसे पतंगे मोहवश अपना नाश करनेके लिये बड़े वेगसे दौड़ते हुए
@@ -277,6 +294,7 @@ also; वक्त्राणि mouths; समृद्धवेगाः with
 ।।11.29।। जैसे पतंगे अपने नाश के लिए प्रज्वलित अग्नि में अतिवेग से
 प्रवेश करते हैं, वैसे ही ये लोग भी अपने नाश के लिए आपके मुखों में अतिवेग
 से प्रवेश करते हैं।।
+</details>
 </details>
 
 </div>

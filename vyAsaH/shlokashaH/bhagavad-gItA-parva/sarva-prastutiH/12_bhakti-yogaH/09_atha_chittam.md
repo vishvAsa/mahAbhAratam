@@ -23,8 +23,9 @@ title = "09 अथ चित्तम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.9॥**अथ** सहसा एव **मयि स्थिरं समाधातुं न शक्नोषि;** **ततो ऽभ्यासयोगेन माम् आप्तुम् इच्छ।**
@@ -45,12 +46,14 @@ title = "09 अथ चित्तम्"
 (Abhyasa Yoga)'. By the repeated practice of remembrance full of immense love, concentrate your mind on Me the ocean of manifold attributes innate to Me like, beauty, affability, friendliness, affection,
 compassion, sweetness, majesty, magnanimity, heroism, valour, might, omniscience, freedom from wants, unfailing resolves, sovereignty over all, being the cause of all etc., and being antagonistic to all that is evil. All these attributes are of unlimited excellence in the Supreme Person.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥12.9॥ --,**अथ** एवं यथा अवोचं तथा **मयि चित्तं समाधातुं** स्थापयितुं **स्थिरम्** अचलं **न शक्नोषि** चेत्; 
 
@@ -122,12 +125,14 @@ concentration of the mind, is abhyasa-yoga.
 धनमाहृतवानसि राजसूयाद्यर्थमेवं मनःशत्रुं जित्वा
 तत्त्वज्ञानधनमाहरिष्यसीति न तवाश्चर्यमिति संबोधनार्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.9॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -136,12 +141,14 @@ concentration of the mind, is abhyasa-yoga.
 
 ॥12.9॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.9॥ अथेति।  
 
@@ -154,12 +161,14 @@ concentration of the mind, is abhyasa-yoga.
 
 12.9 Atha etc. to cause the mind \[to enter into the Lord\] is hard to achieve without the descent of the Lord's Grace with greater force, and without the favour of the revered preceptors, pleased \[by services etc.\] for a considerable period of time. Hence, practice \[is prescribed\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.9॥ अथेति पक्षान्तरे। मुख्यकल्पासम्भवेऽनुकल्पमुपदिशति। चेन्मयि
 चित्तं स्थिरं समाधातुं न शक्तोऽसि अनिषिद्धो योगो न निष्पद्यते तर्हि
@@ -175,20 +184,26 @@ concentration of the mind, is abhyasa-yoga.
 तदा **अभ्यासयोगेन** मच्-छ्रवणानुस्मरणादि-रूपेण माम् **आप्तुं** प्राप्तुं **इच्छ** यतस्व।  
 विचार्य प्रयत्नपरो भवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/09_atha_chittam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/09_atha_chittam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.9॥ अत्राशक्तं प्रति सुगमोपायमाह **-- अथेति।** स्थिरं यथाभवत्येवं
 मयि चित्तं धारयितुं यदि शक्तो न भवसि तर्हि विक्षिप्तं चित्तं पुनः
 प्रत्याहृत्य ममानुस्मरणलक्षणो योगाभ्यासस्तेन मां प्राप्तुमिच्छ प्रयत्नं
 कुरु।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.9 If now you are unable to focus your mind on Me, then seek to reach Me, O Arjuna, by the practice of repetition.
@@ -221,11 +236,13 @@ then, O Dhananjaya, seek to attain Me through the Yoga of Practice.
 art able; मयि in Me; स्थिरम् steadily; अभ्यासयोगेन by the Yoga of constant practice; ततः them; माम् Me; इच्छ wish; आप्तुम् to reach;
 धनञ्जय O Arjuna.Commentary Abhyasa Yoga Abhyasa is constant practice to steady the mind and fix it on one point the practice of repeatedly withdrawing the mind from all sorts of sensual objects and fixing it again and again on one particular object or the Self. The constant effort to separate or detach oneself from the illusory five sheaths and identify oneself with the Atman is also Abhyasa. If you are not able to fix your mind and intellect wholly on the Lord all the time; then do it for some time at least. If your mind wanders much; try to fix it on the Lord through the continous practice of remembrance. Resort to the worship of the images of God; feeling His Living Presence in them. This will also help you.Why did Lord Krishna address Arjuna by the name Dhananjaya here Surely there is some significance. Arjuna conered many people and brought immense wealth for the Rajasuya Yajna performed by Yudhishthira. For such a man of great powers and splendour; it is not difficult to coner this mind; and obtain the spiritual wealth of knowledge of the Self. This is what Lord Krishna meant when He addressed Arjuna by the name Dhananjaya.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/09_atha_chittam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.9।। अगर तू मनको मेरेमें अचलभावसे स्थिर (अर्पण) करनेमें समर्थ नहीं
@@ -285,6 +302,7 @@ art able; मयि in Me; स्थिरम् steadily; अभ्यासय
 ।।12.9।। हे धनंजय ! यदि तुम अपने मन को मुझमें स्थिर करने में समर्थ नहीं
 हो, तो अभ्यासयोग के द्वारा तुम मुझे प्राप्त करने की इच्छा (अर्थात्
 प्रयत्न) करो।।
+</details>
 </details>
 
 </div>

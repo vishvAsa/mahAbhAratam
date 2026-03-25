@@ -23,8 +23,9 @@ title = "23 रुद्राणां शङ्करश्चास्मि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.23॥**रुद्राणाम्** एकादशानां **शङ्करः** अहम् **अस्मि** **यक्षरक्षसां** वैश्रवणो ऽहम्; **वसूनाम्** अष्टानां **पावकः** अहम् **शिखरिणां** शिखरशोभिनां पर्वतानां मध्ये **मेरुर् अहम्।**
@@ -39,12 +40,14 @@ title = "23 रुद्राणां शङ्करश्चास्मि"
 
 10.23 Of eleven Rudras I am Sankara. Of Yaksas and Raksasas I am Kubera, son of Visravas. Among the eight Vasus I am Agni. Of mountains, namely, of those mountains which shine with peaks, I am Meru.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.23॥ --,**रुद्राणाम्** एकादशानां **शंकरश्च अस्मि। वित्तेशः** कुबेरः **यक्षरक्षसां** यक्षाणां रक्षसां च। **वसूनाम्** अष्टानां **पावकश्च अस्मि** अग्निः। **मेरुः शिखरिणां** शिखरवताम् **अहम्**॥
 </details>
@@ -93,12 +96,14 @@ among the peaked mountains, I am Meru.
 यक्षरक्षसां यक्षाणां राक्षसानां च। वसूनामष्टानां पावकोऽग्निः। मेरुः
 सुमेरुः शिखरिणां शिखरवतामत्युच्छ्रितानां पर्वतानां च।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.23॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -107,12 +112,14 @@ among the peaked mountains, I am Meru.
 
 ॥10.23॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -121,12 +128,14 @@ among the peaked mountains, I am Meru.
 
 10.23 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.23॥ रुद्राणामिति। एकादशानां मध्ये वा मूलं शङ्करोऽस्मि वैषणवत्वेन
 माननीयः। वित्तेशो मम कोशाधिकारी। वसूनां मध्ये पावको
@@ -141,19 +150,25 @@ among the peaked mountains, I am Meru.
 \[10।8।48\] उक्तम्। च पुनः पावकः अग्निरस्मि। शिखरिणां शिखरवतामुच्चानां
 मध्ये मेरुरहमस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.23॥**रुद्राणामिति।** यक्षरक्षसामिति। राक्षसानामपि
 क्रूरत्वादिसाम्याद्यक्षैः सहैकीकृत्य निर्देशः। तेषां मध्ये वित्तेशः
 कुबेरोऽस्मि। पावकोऽग्निः। शिखरिणां शिखरवतामुच्छ्रितानां मध्ये मेरुः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.23 Of the Rudras I am Sankara. Of the Yaksas and Raksasas, I am the Lord of wealth (Kubera). Of the Vasus, I am Agni; of the mountains, I am Meru.
@@ -195,11 +210,13 @@ The ten vital airs (Pranas and the UpaPranas; which are five each) and the mind 
 Bhuvanadhisvara; Aherbhujya; Pinaki; Aparajita; Kapali; Sthanu and Bhaga. Among these Rudras; Sankara is regarded as the chief.Vasus are earth; water; fire; air; ether; sun; moon and stars. They are so called because they comprehend the whole universe within them. They have been symbolised in the Puranas as follows Apah; Dhruva; Soma; Dhara; Anila;
 Anala; Pratyusa and Prabhasa. Of these Anala or Pavaka (fire) is the chief.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.23।। रुद्रोंमें शंकर और यक्ष-राक्षसोंमें कुबेर मैं हूँ। वसुओंमें
@@ -263,6 +280,7 @@ Anala; Pratyusa and Prabhasa. Of these Anala or Pavaka (fire) is the chief.
 ।।10.23।। मैं (ग्यारह) रुद्रों में शंकर हूँ और यक्ष तथा राक्षसों में
 धनपति कुबेर (वित्तेश) हूँ; (आठ) वसुओं में अग्नि हूँ तथा शिखर वाले
 पर्वतों में मेरु हूँ।।
+</details>
 </details>
 
 </div>

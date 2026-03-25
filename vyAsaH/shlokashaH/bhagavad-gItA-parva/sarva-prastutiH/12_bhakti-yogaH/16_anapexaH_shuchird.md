@@ -23,8 +23,9 @@ title = "16 अनपेक्षः शुचिर्दक्ष"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.16॥**अनपेक्षः** -- आत्मव्यतिरिक्ते कृत्स्ने वस्तुन्य् अनपेक्षः; **शुचिः** -- शास्त्रविहितद्रव्यवर्धितकायः; **दक्षः** -- शास्त्रीयक्रियोपादानसमर्थो ऽन्यत्र **उदासीनः; गतव्यथः** -- शास्त्रीयक्रियानिर्वृत्तौ अवर्जनीयशीतोष्णपरुषस्पर्शादिदुःखेषु व्यथारहितः; सर्वारम्भपरित्यागी -- शास्त्रीयव्यतिरिक्तसर्वकर्मारम्भपरित्यागी; य एवम्भूतो मद्भक्तः स मे प्रियः।
@@ -41,12 +42,14 @@ title = "16 अनपेक्षः शुचिर्दक्ष"
 'indifferent', i.e., not interested in matters other than those enjoined by the Sastras; who is free from 'agony', i.e., of pain caused by heat,
 cold, contact with coarse things etc., which are inevitably associated with the performance of rites prescribed by the Sastras; who renounces all 'undertakings,' i.e., who renounces all undertakings except those demanded by the Sastras - the devotee who is like this is dear to Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥12.16॥ --,देहेन्द्रियविषयसंबन्धादिषु अपेक्षाविषयेषु **अनपेक्षः** निःस्पृहः। **शुचिः** बाह्येन आभ्यन्तरेण च शौचेन संपन्नः। **दक्षः** प्रत्युत्पन्नेषु कार्येषु सद्यः यथावत् प्रतिपत्तुं समर्थः। **उदासीनः** न कस्यचित् मित्रादेः पक्षं भजते यः; सः उदासीनः यतिः। **गतव्यथः** गतभयः। **सर्वारम्भपरित्यागी** आरभ्यन्त इति आरम्भाः इहामुत्रफलभोगार्थानि कामहेतूनि कर्माणि सर्वारम्भाः; तान् परित्यक्तुं शीलम् अस्येति सर्वारम्भपरित्यागी **यः मद्भक्तः सः मे प्रियः**॥ किञ्च --,
 </details>
@@ -128,12 +131,14 @@ madbhaktah, devotee of Mine; he is priyah, dear; me, to Me. Further,
 ऐहिकामुष्मिकफलानि सर्वाणि कर्माणि सर्वारम्भास्तान्परित्युक्तं शीलं यस्य
 स सर्वारम्भपरित्यागी संन्यासी यो मद्भक्तः स मे प्रियः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.16॥ सर्वारम्भपरित्यागी इत्यादेः
 सामान्यविशेषव्याख्यानव्याख्येयभावेनापुनरुक्तिः। हर्षादिभिर्मुक्त
@@ -159,12 +164,14 @@ madbhaktah, devotee of Mine; he is priyah, dear; me, to Me. Further,
 अक्षरोपासकानधिकृत्यैतदुच्यते इत्यसत्। सन्निहितसम्बन्धे सति
 व्यवहितसम्बन्धप्रहणायोगात्योमद्भक्तः स मे प्रियः इत्यादिवचनाच्च।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.15 -- 12.20॥ यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति परमकैवल्यम् इति।  
   
@@ -175,12 +182,14 @@ madbhaktah, devotee of Mine; he is priyah, dear; me, to Me. Further,
 
 12.16 See Comment under 12.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.16॥ अनपेक्ष इति। मत्सेवातिरिक्तं सालोक्यादिकमपि नापेक्षते।
 तथासालोक्यसार्ष्टिसारूप्यसामीप्यैकत्वमप्युत। दीयमानं न गृह्णन्ति विना
@@ -201,10 +210,13 @@ madbhaktah, devotee of Mine; he is priyah, dear; me, to Me. Further,
 दृष्टश्रुतफलककर्माऽनुद्यमानस्वभावः। एतादृशो मद्भक्तः मद्भजनकर्त्ता स मे
 प्रियः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/16_anapexaH_shuchird.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/16_anapexaH_shuchird.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.16॥ किंच **-- अनपेक्ष इति।** अनपेक्षो यदृच्छोपस्थितेऽप्यर्थे
 निस्पृहः; शुचिर्बाह्याभ्यन्तरशौचसंपन्नः; तक्षोऽनलसः; उदासीनः
@@ -212,10 +224,13 @@ madbhaktah, devotee of Mine; he is priyah, dear; me, to Me. Further,
 सर्वान्दृष्टादृष्टार्थानारम्भानुद्यमान्परित्यक्तुं शीलं यस्य स एवंभूतः
 सन् यो मद्भक्तः स मे प्रियः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.16 He who is free from desires, who is pure, expert, indifferent and free from agony, who has renounced every undertaking - he is dear to Me.
@@ -251,11 +266,13 @@ devoted to Me, is dear to Me.
 renouncing all undertakings or commencements; यः who; मद्भक्तः
 My,devotee; सः he; मे to Me; प्रियः dear.CommentarY He is free from dependence. He is indifferent to the body; the senses; the objects of the senses and their mutual connections. He has external and internal purity. External purity is attained through earth and water (washing and bathing). Inner purity is attained by the eradication of likes and dislikes; lust; anger; jealousy; etc.; and through the cultivation of the virtues -- friendship (towards eals); compassion (towards those who are inferior) and complacency (towards superiors).Daksha Prompt; swift and skilful in all actions expert. He is able to decide rightly and immediately in matters that demand prompt attention and action.Udasina He who does not take up the side of a friend and the like (in a controversy) he who is indifferent to whatever happens.Gatavyathah He who is free from pain. He is not troubled even if he is beaten by a wicked man. He is not pained or afflicted by any result of any action or any happening.Sarvarambhaparityagi He habitually renounces all actions calculated to secure the objects of enjoyment; whether of this world or of the next. He has abandoned all egoistic; personal and mental initiative in all actions; mental and physical. He has merged his will in the cosmic will. He allows the divine will to work through him. He has neither preference nor personal desire and so he is swift; prompt and skilful in all actions. The divine will works through him in a dynamic manner.Such a devotee is My own Self and so he is very dear to Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.16।। जो आकाङ्क्षासे रहित, बाहर-भीतरसे पवित्र, दक्ष, उदासीन, व्यथासे
@@ -497,6 +514,7 @@ My,devotee; सः he; मे to Me; प्रियः dear.CommentarY He is fr
 
 ।।12.16।। जो अपेक्षारहित, शुद्ध, दक्ष, उदासीन, व्यथारहित और सर्वकर्मों
 का संन्यास करने वाला मेरा भक्त है, वह मुझे प्रिय है।।
+</details>
 </details>
 
 </div>

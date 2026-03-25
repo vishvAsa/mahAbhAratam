@@ -23,8 +23,9 @@ title = "12 युक्तः कर्मफलम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.12॥**युक्तः** आत्मव्यतिरिक्तफलेष्व् अचपल आत्मैकप्रवणः **कर्मफलं त्यक्त्वा** केवलात्मशुद्धये कर्मानुष्ठाय **नैष्ठिकीं शान्तिम् आप्नोति** स्थिराम् आत्मानुभवरूपां निर्वृतिम् आप्नोति। **अयुक्तः** आत्मव्यतिरिक्तफलेषु चपल आत्मावलोकनविमुखः **कामकारेण फले सक्तः** कर्माणि कुर्वन् नित्यं कर्मभिः **बध्यते** नित्यसंसारी भवति। अतः फलसङ्गरहित इन्द्रियाकारेण परिणतायां प्रकृतौ कर्माणि सन्न्यस्य आत्मनो बन्धमोचनाय एव कर्माणि कुर्वीत इत्य् उक्तं भवति। अथ देहाकारपरिणतायां प्रकृतौ कर्तृत्वसन्न्यास उच्यते
@@ -39,12 +40,14 @@ title = "12 युक्तः कर्मफलम्"
 
 5.12 A Yogin is one who has no hankering for fruits other than the self, and who is exclusively devoted to the self. If a man renounces the fruits of actions and performs actions merely for the purification of himself, he attains lasting peace, i.e., he attains bliss which is of the form of lasting experience of the self. The unsteady person is one who is inclined towards fruits other than the self. He has turned himself away from the vision of the self. Being impelled by desire, he becomes attached to fruits of actions, and remains bound for ever by them. That is, he becomes a perpetual Samsarin or one involved in transmigratory cycle endlessly. What is said is this: Free of attachment for fruits and attributing one's actions to Prakrti which has developed into the form of senses, one should perform actions merely to free the self from bondage. Next, the shifting of agency to Prakrti, from which the body has come into existence, is described:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.12॥ **युक्तः** ईश्वराय कर्माणि करोमि न मम फलाय इत्येवं समाहितः सन् **कर्मफलं त्यक्त्वा** परित्यज्य शान्तिं मोक्षाख्याम् **आप्नोति नैष्ठिकीं** निष्ठायां भवां सत्त्वशुद्धिज्ञानप्राप्तिसर्वकर्मसंन्यासज्ञाननिष्ठाक्रमेणेति वाक्यशेषः। यस्तु पुनः अयुक्तः असमाहितः **कामकारेण** करणं कारः कामस्य कारः कामकारः तेन कामकारेण कामप्रेरिततयेत्यर्थः मम फलाय इदं करोमि कर्म इत्येवं **फले सक्तः निबध्यते।** अतः त्वं युक्तो भव इत्यर्थः॥ यस्तु परमार्थदर्शी सः
 </details>
@@ -124,12 +127,14 @@ supreme Reality-
 कर्मभिर्नितरां संसारबन्धं प्राप्नोति। यस्मादेवं तस्मात्त्वमपि युक्तः
 सन्कर्माणि कुर्विति वाक्यशेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.12॥ पुनर्युक्त्यादिनियमनार्थं युक्तायुक्तफलमाह युक्त इति। युक्तो
 योगयुक्तः।
@@ -145,12 +150,14 @@ supreme Reality-
 योगसन्न्यासवतस्तदुभयाभाववतश्च मुक्तिसंसारविस्तारलक्षणं फलमाहेत्यर्थः।
 युक्तशब्दस्य सहिताद्यर्थनिवारणायार्थमाह **युक्त** इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.12॥ युक्त इति। नैष्ठिकीम् अपुनरावर्तिनीम्।
 </details>
@@ -159,12 +166,14 @@ supreme Reality-
 
 5.12 Yuktah etc. Highest : that from which there is no return.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.12॥ एवं च योगेन कर्मकरणे मोक्षं विपरीते बन्धनं चाह युक्त इति।
 शान्तिः फलं तत्र च बन्धः।
@@ -181,20 +190,26 @@ supreme Reality-
 प्रवृत्तः फले सक्तः सन्निबध्यते नितरां बद्धो भवति। न भगवत्सम्बन्धं
 प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.12॥ ननु तेनैव कर्मणा कश्चिन्मुच्यते कश्चिद्बध्यत इति व्यवस्था कथमत
 आह **युक्त इति।** युक्तः परमेश्वरैकनिष्ठः सन्कर्मणां फलं त्यक्त्वा
 कर्माणि कुर्वन्नात्यन्तिकीं शान्तिं मोक्षं प्राप्नोति। अयुक्तस्तु
 बहिर्मुखः कामकारेण कामतः प्रवृत्त्या फले आसक्तो नितरां बन्धं प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.12 A Yogin, renouncing the fruits of his actions, attains lasting peace. But the unsteady man who is attached to fruits of actions, being impelled by desire, is bound.
@@ -229,11 +244,13 @@ becomes bound.
 final; अयुक्तः the nonunited one; कामकारेण impelled by desire; फले in the fruit (of action); सक्तः attached; निबध्यते is bound.Commentary Santim naishthikim is interpreted as peace born of devotion of steadfastness. The harmonious man who does actions for the sake of the Lord without expectation of the fruit and who says; I do actions for my Lord only; not for my personal gain or profit; attains to the peace born of devotion; through the following four stages; viz.; purity of mind;
 the attainment of knowledge; renunciation of actions; and steadiness in wisdom. But the unbalanced or the unharmonised man who is led by desire and who is attached to the fruits of the actions and who says; I have done such and such an action I will get such and such a fruit; is firmly bound.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.12।। कर्मयोगी कर्मफलका त्याग करके नैष्ठिकी शान्तिको प्राप्त होता है।
@@ -287,6 +304,7 @@ the attainment of knowledge; renunciation of actions; and steadiness in wisdom. 
 
 ।।5.12।। युक्त पुरुष कर्मफल का त्याग करके परम शान्ति को प्राप्त होता
 है; और अयुक्त पुरुष फल में आसक्त हुआ कामना के द्वारा बँधता है।।
+</details>
 </details>
 
 </div>

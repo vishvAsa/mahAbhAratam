@@ -23,8 +23,9 @@ title = "15 स्वयमेवात्मनाऽत्मानं"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.15॥ हे **पुरुषोत्तम आत्मना आत्मानं त्वं स्वयम् एव** स्वेन एव ज्ञानेन **वेत्थ। भूतभावन** सर्वेषां भूतानाम् उत्पादयितः; **भूतेश** सर्वेषां भूतानां नियन्तः; **देवदेव** दैवतानाम् अपि परमदैवत; यथा मनुष्यमृगपक्षिसरीसृपादीन् सौन्दर्यसौशील्यादिकल्याणगुणगणैर् दैवतान्य् अतीत्य वर्तन्ते तथा तानि सर्वाणि दैवतान्य् अपि तैस् तैर् गुणैर् अतीत्य वर्तमान; **जगत्पते** जगत्स्वामिन्।
@@ -39,12 +40,14 @@ title = "15 स्वयमेवात्मनाऽत्मानं"
 
 10.15 O Supreme Person, You Yourself know Yourself by Yourself; namely, by virtue of Your knowledge! O Creator of beings, namely, O Originator of all beings! O Lord of all beings, namely, O Controller of all beings! O God of gods, namely, O the Supreme Deity even of all divinities! Just as the gods surpass men, animals, birds, reptiles etc., in beauty, condescension and the host of auspicious alities, You, O Lord, in the same manner, transcend all these gods in all these attributes! O Ruler of the universe, O Master of the universe!
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.15॥ --,**स्वयमेव आत्मना आत्मानं वेत्थ** जानासि **त्वं** निरतिशयज्ञानैश्वर्यबलादिशक्तिमन्तम् ईश्वरं **पुरुषोत्तम।** भूतानि भावयतीति भूतभावनः; **हे भूतभावन। भूतेश** भूतानाम् ईशितः। हे **देवदेव जगत्पते**॥
 </details>
@@ -118,12 +121,14 @@ etc.; atmana, by Yourself.
 राजा अतः सर्वैः प्रकारैः सर्वेषामाराध्य इति किं वाच्यं पुरुषोत्तमत्वं
 तवेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.12 -- 10.15॥ ब्रह्म परिपूर्णम्। अथ कस्मादुच्यते परं ब्रह्म ৷৷.
 बृहद्बृहत्या बृंहयति \[अ.शिर.4\] इति च श्रुतिः। बृह बृहि वृद्धाविति
@@ -144,12 +149,14 @@ etc.; atmana, by Yourself.
 विभुः। सोऽकामयत इति विविधभवने श्रुत्यन्तरम्। विप्रसम्भ्यो ड्वसंज्ञायाम्
 \[अष्टा.3।2।180\] इति च स्मृतिः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.15॥ No commentary.
 </details>
@@ -158,12 +165,14 @@ etc.; atmana, by Yourself.
 
 10.15 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.15॥ किं तर्हि स्वयमेव वेत्थेति तदप्यात्मना; न साधनान्तरेण।
 </details>
@@ -185,10 +194,13 @@ etc.; atmana, by Yourself.
 देवेष्वेव तथोचितं; न तु सर्वेष्वित्यत आह -- जगत्पते इति। जगतः सर्वस्यैव
 पतिः पालको रक्षक इति यावत् रक्षार्थं तथा करोतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.15॥ किं तर्हि **-- स्वयमिति।** स्वयमेव त्वमात्मानं वेत्थ जानासि
 नान्यः तदप्यात्मना स्वेनैव वेत्थ न साधनान्तरेण। अत्यादरेण बहुधा संबोधयति
@@ -196,10 +208,13 @@ etc.; atmana, by Yourself.
 भूतोत्पादक भूतानामीश नियन्तः; देवानामादित्यादीनां देव प्रकाशक; जगत्पते
 विश्वपालक।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.15 O Supreme Person, O Creator of beings, O Lord of beings, O God of gods, O Ruler of the universe, You Yourself know Yourself by Yourself.
@@ -236,11 +251,13 @@ O source and Lord of beings, O God of gods, O ruler of the world!
 O source of beings; भूतेश O Lord of beings; देवदेव O God of,gods;
 जगत्पते O ruler of the world.Commentary Purushottama means the best among all Purushas. He assumes the four forms; viz.; the source of beings; the Lord of beings; God of gods and ruler of the world. Hence He is called Purushottama.Devadeva is He who is worshipped even by Indra and other gods.Jagatpati The Lord protects the world and guides the people through the instructions given in the Vedas. Hence the name ruler of the world.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.15।। हे भूतभावन ! हे भूतेश ! हे देवदेव ! हे जगत्पते ! हे पुरुषोत्तम
@@ -310,6 +327,7 @@ O source of beings; भूतेश O Lord of beings; देवदेव O God o
 
 ।।10.15।। हे पुरुषोत्तम ! हे भूतभावन ! हे भूतेश ! हे देवों के देव ! हे
 जगत् के स्वामी ! आप स्वयं ही अपने आप को जानते हैं।।
+</details>
 </details>
 
 </div>

@@ -26,8 +26,9 @@ title = "01 किन् तद्ब्रह्म"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 सप्तमे परस्य ब्रह्मणो वासुदेवस्योपास्यत्वं निखिलचेतनाचेतनवस्तुशेषित्वम्, कारणत्वम्, आधारत्वम्, सर्वशरीरतया सर्वप्रकारत्वेन सर्वशब्दवाच्यत्वम्, सर्वनियन्तृत्वम्, सर्वैश् च कल्याणगुणगणैस् तस्यैव परतरत्वम्, सत्त्वरजस्तमोमयैर् देहेन्द्रियत्वेन भोग्यत्वेन चावस्थितैर् भावैर् अनादिकालप्रवृत्तदुष्कृतप्रवाहहेतुकैस् तस्य तिरोधानम्, अत्युत्कृष्टसुकृतहेतुकभगवत्प्रपत्त्या सुकृततारतम्येन च प्रतिपत्तिवैशेष्याद् ऐश्वर्याक्षरयाथात्म्यभगवत्प्राप्त्यपेक्षयोपासकभेदम्, भगवन्तं प्रेप्सोर् नित्ययुक्ततयैकभक्तितया चात्यर्थपरमपुरुषप्रियत्वेन च श्रैष्ठ्यं दुर्लभत्वं च प्रतिपाद्य एषां त्रयाणां ज्ञातव्योपादेयभेदांश् च प्रास्तौषीत् । इदानीम् अष्टमे प्रस्तुतान् ज्ञातव्योपादेयभेदान् विविनक्ति ॥
@@ -44,12 +45,14 @@ title = "01 किन् तद्ब्रह्म"
 
 8.1 8.2 Arjuna said What are that brahman, Adhyatma and Karma which have been mentioned as what should be known by those who aspire for release from old age and death while they take refuge with the Lord; What are Adhibuta and Adhidaiva, which should be known by the aspirants for wealth; Who is Adhiyajna that is to be known by the three groups as their dying hour. In what manner are You to be known by these three groups who are self-controlled;
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ‘ते ब्रह्म तद्विदुः कृत्स्नम्’ (भ. गी. ७ । २९) इत्यादिना भगवता अर्जुनस्य प्रश्नबीजानि उपदिष्टानि । अतः तत्प्रश्नार्थम् अर्जुनः उवाच —
 </details>
@@ -139,12 +142,14 @@ title = "01 किन् तद्ब्रह्म"
 किमुच्यते देवताविषयमनुध्यानं वा सर्वदैवतेष्वादित्यमण्डलादिष्वनुस्यूतं
 चैतन्यं वां।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.1 -- 8.2॥ नमः श्रीमते कृष्णाय। ँ़
 मरणकालकर्त्तव्यगत्याद्यस्मिन्नध्याय उपदिशति।
@@ -159,12 +164,14 @@ title = "01 किन् तद्ब्रह्म"
 तेनानन्तर्यलक्षणाऽपि सङ्गतिः सिद्धा तत्प्रसङ्गेनैव
 मरणकालकर्तव्याद्युपदेशात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.1 -- 8.2॥ ते ब्रह्म तद्विदुः इत्यादिना यत् भगवता उपक्षिप्तं तत् प्रश्ननवकपूर्वकं +++(S पूर्वं)+++ निर्णयति ( निर्णाययति N निर्वर्णयति) --किं तद् ब्रह्मेति। अधियज्ञ इति। अधियज्ञः कथम् \[कश्च\] कोऽत्र देहे तिष्ठति इति शेषः।
 </details>
@@ -173,12 +180,14 @@ title = "01 किन् तद्ब्रह्म"
 
 8.1 See Comment under 8.2
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.1॥ ब्रह्मकर्मादिकं प्राज्ञैर्विज्ञेयं नास्मदादिभिः। इति जिज्ञासया
 पार्थः सन्दिहानोऽथ पृच्छति॥1॥ अर्जुन उवाच -- किं तद्ब्रह्मेति
@@ -205,10 +214,13 @@ title = "01 किन् तद्ब्रह्म"
 मधुसूदनेति सम्बोधनेन त्वदीयानां मरणादिभयाभावे तत्समये त्वं कथं
 स्वज्ञानमुक्तवानिति ज्ञापितमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.1॥ ब्रह्मकर्माधिभूतादि विदुः कृष्णैकचेतसः। इत्युक्तं ब्रह्मकर्मादि
 स्पष्टमष्टम उच्यते॥1॥  
@@ -217,10 +229,13 @@ title = "01 किन् तद्ब्रह्म"
 तत्त्वं जिज्ञासुरर्जुन उवाच **-- किं तद्ब्रह्मेति द्वाभ्याम्।**
 स्पष्टोऽर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.1 Arjuna said O supreme person, what is that Brahman; What is that which exists in the individual plane; What is action; And what is that which is said to exist in the physical plane; What is that which is said to be existing in the divine plane;
@@ -252,11 +267,13 @@ O best among men; What is declared to be Adhibhuta; And, what is Adhidaiva said 
 उच्यते is called.Commentary In the last two verses of the seventh chapter Lord Krishna had used certain philosophical and technical terms such as Adhyatma; Adhibhuta; Adhidaiva and Adhiyajna. Arjuna does not understand the meaning of these terms. So he proceeds to ask the Lord the above estions for their elucidation. Lord Krishna gives the answers succinctly to the above estions in their order.Some treat this chapter as Abhyasa Yoga because in this chapter verses 7; 8; 10; 12; 13 and 14 deal with spiritual practices. Verse 7 treats of Karma and Bhakti Yoga combined (giving the hands to the service of humanity or society and fixing the mind on the Lord). Verse 8 deals with Abhyasa Yoga. Verses 10; 12 and 13 treat of Hatha Yoga (how to raise the lifeforce t the Ajna Chakra and the Sahasrara and the Brahmarandhra). Verse 14 treats of the easy Yoga of constant Namasmarana or remembering the names of the Lord constantly. This alone will help the spiritual aspirant to approach the Lord easily.The nature of Brahman; the individual Self (Adhyatma); the nature of action; the nature of the objective universe or phenomena
 (Adhibhuta); knowledge of the shining ones (Adhidaiva); and the secret of sacrifice (Adhiyajna) are described in this discourse. The perfect sage will have perfect knowledge. He will have perfect knowledge of not only the manifested Brahman but also of the transcendental Brahman and the why of the universe; etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.1 -- 8.2।। अर्जुन बोले -- हे पुरुषोत्तम ! वह ब्रह्म क्या है;
@@ -282,6 +299,7 @@ O best among men; What is declared to be Adhibhuta; And, what is Adhidaiva said 
 ।।8.1।। अर्जुन ने कहा -हे पुरुषोत्तम ! वह ब्रह्म क्या है अध्यात्म क्या
 है; तथा कर्म क्या है; और अधिभूत नाम से क्या कहा गया है; तथा अधिदैव नाम
 से क्या कहा जाता है,
+</details>
 </details>
 
 </div>

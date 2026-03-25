@@ -23,8 +23,9 @@ title = "07 नियतस्य तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.7॥**नियतस्य** नित्यनैमित्तिकस्य महायज्ञादेः **कर्मणः सन्न्यासः** त्यागो न **उपपद्यते।** शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः॥ (गीता 3।8) इति शरीरयात्राया एव असिद्धेः। शरीरयात्रा हि यज्ञशिष्टाशनेन निर्वर्त्यमाना सम्यग् ज्ञानाय प्रभवति। अन्यथाभुञ्जते ते त्वघं पापाः (गीता 3।13) इत्य् अयज्ञशिष्टाघरूपाशनाप्यायनं मनसो विपरीतज्ञानाय भवति।  
@@ -49,12 +50,14 @@ title = "07 नियतस्य तु"
 
 18.7 Obligatory acts consist of daily, and occasional ceremonies like the five great sacrifices; their abandonment is not proper, for without actions even the sustenance of the body would be impossible, as already stated: 'From no-work, not even the body can be sustained' (3.8). The sustenance of the body by eating the sacrificial remnants produces perfect knowledge. Otherwise, as declared in the statement, 'But the sinful ones eat sin' (3.13). The satisfaction that comes by eating food which is not the remnant of sacrifice and which is therefore of the form of sin, is productive of erroneous knowledge in the mind. For, as declared in the Sruti, 'The mind consists of food' (Cha. U., 6.5.4), the mind is sustained by food. Also, there is the Sruti text, 'When the food is pure, the mind becomes pure; when the mind is pure, remembrance becomes firmly fixed; and when remembrance is acired, there is release from all knots of the heart' (Ibid., 7.26.2). It is therefore proved by the Sruti that knowledge of the form of direct perception of Brahman, is dependent on the purity of food. Hence the great sacrifices and such other obligatory and occasional rites are worthy of adoption till one's death, as they help in the knowledge of the Brahman. The renunciation of these is therefore not proper. Thus, the relinishment of these acts which produce knowledge through the delusion that they bind the self, is rooted in Tamas. Tamasika renunciation has its roots in Tamas. Since such renunciation has its roots in ignorance which is the effect of Tamas, such renunciation is said to have its roots in Tamas. For Tamas is the root of ignorance as has been stated: 'From Tamas arise negligence and delusion, and also, ignorance' (14.17). Ignorance is erroneous knowledge which is antagonistic to right knowledge. So, it will be taught, 'That reason which, enveloped in Tamas, regards wrong as right, and which reverses every value, O Arjuna, is Tamasika' (18.32). It is for this reason that the renunciation of obligatory and occasional actions are said to have their roots in erroneous knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.7॥ --,**नियतस्य तु** नित्यस्य **संन्यासः** परित्यागः **कर्मणः न उपपद्यते;** अज्ञस्य पावनत्वस्य इष्टत्वात्। **मोहात्** अज्ञानात् **तस्य** नियतस्य **परित्यागः** -- नियतं च अवश्यं कर्तव्यम्; त्यज्यते च; इति विप्रतिषिद्धम् अतः मोहनिमित्तः परित्यागः **तामसः परिकीर्तितः मोह**श्च तमः इति॥
 </details>
@@ -194,12 +197,14 @@ Besides,
 तस्मान्मोहान्नित्यस्य कर्मणो यः परित्यागः स तामसः परिकीर्तितः। मोहो हि
 तमः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.7॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -208,12 +213,14 @@ Besides,
 
 ॥18.7॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.4 -- 18.11॥ तदत्रैव विशेषनिर्णयाय मतान्युपन्यस्यति -- त्याज्यमिति। दोषवत् हिंसादिमत्त्वात् +++(S हिंसादित्त्वात ;N हिंसादिसत्त्वात् )+++ पापयुक्तम्। तत् कर्म,+++(S;;N substitutes फलं for कर्म )+++ त्याज्यम्; न सर्वं शुभफलम् इति केचित् त्यागे विशेषं मन्यन्ते साङ्ख्यगृह्या इव। अन्ये तु मीमांसककञ्चुकानुप्रविष्टाः +++(K मीमांसाकंचुक -- )+++ -- क्रत्वर्थोऽहि शास्त्रादवगम्यते +++(S. IV; i; 2 )+++ इति। तथातस्माद्या वैदिकी हिंसा -- +++(SV. I; i; 2; verse 23 )+++इत्यादिनयेन इतिकर्तव्यतांशभागिनी हिंसा +++(S;;N omit हिंसा )+++ हिंसैव न भवति। न हिंस्यात् इति सामान्यशास्त्रस्य तत्र बाधनात् श्येनाद्येव तु ( श्येन द्येव न तु ) हिंसा। फलांशे भावनायाश्च प्रत्ययोऽनुविधायकः +++(SV; I; i; 2; verse 222 )+++ इति। अ \[ तोऽ \] न्यान् हिंसादियोगिनोऽपि न त्यजेत्। शास्त्रैकशरणकार्याकार्यविभागाः पण्डिता इति मन्यन्ते॥3॥ निश्चयमित्यादि अभिधीयते इत्यन्तम्। तत्र त्वयं निश्चयः -- प्राग्लक्षितगुणस्वरूपवैचित्र्यात् त्यागस्यैव सत्त्वरजस्तमोमय्या चित्तवृत्त्या क्रियमाणस्य तद्विशिष्टस्वभावावभासित \[ त्वात् \] वस्तुस्थित्या त्यागो नाम परब्रह्मविदां +++(; N परमब्रह्म -- )+++ सिद्ध्यसिद्ध्यादिषु समतया रागद्वेषपरिहारेण फलप्रेप्साविरहेण ( फलप्रेक्षा) कर्मणां निर्वर्त्तनम्। अत एव आह -- राजसं तामसं च त्यागं कृत्वा न कश्चित् ( न किंचित् ) \[ त्याग \] फलसंबन्धः; इति। सात्त्विकस्य तु त्यागात् ( त्यागस्य )। शास्त्रार्थपालनात्मकं फलम्। त्यक्तगुणग्रामग्रहस्य पुनर्मुनेः सत्यतः त्यागवाचो युक्तिरुपपत्तिमती।
 </details>
@@ -222,12 +229,14 @@ Besides,
 
 18.7 See Comment under 18.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.7॥ कवीनां मतं दूषयति -- नियतस्येति। कामोपनिबन्धेनापि वेदेन
 नियन्त्रितस्य नियमविहितस्य तु कर्मणः स्वरूपतस्त्यागः सन्न्यासः कार्य
@@ -246,10 +255,13 @@ Besides,
 भवतीत्यर्थः। अतस्तादृशकर्मणस्त्याग एव मोक्षार्थक इति मोहात् भ्रमेण
 यस्तस्य परित्यागः स तामसः अज्ञानात्मकः परिकीर्तितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.7॥ प्रतिज्ञातं त्यागस्य त्रैविध्यमिदानीं दर्शयति **-- नियतस्येति
 त्रिभिः।** काम्यस्य कर्मणो बन्धकत्वात्संन्यासो युक्तः। नियतस्य तु
@@ -257,10 +269,13 @@ Besides,
 मोक्षहेतुत्वात्। अतस्तस्य परित्यागः उपादेयेऽपि त्याज्यमित्येवं
 लक्षणान्मोहादेव भवेत्। स च मोहस्य तामसत्वात्तामसः परिकीर्तितः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.7 But the renunciation of obligatory acts is not proper. Abandonment of these through delusion is declared to be Tamasika.
@@ -292,11 +307,13 @@ and completely relinishing it, out of ignorance is proclaimed, on all sides, as 
 18.7 नियतस्य obligatory; तु verily; संन्यासः renunciation; कर्मणः of action; न not; उपपद्यते is proper; मोहात् from delusion; तस्य of the same; परित्यागः abandonment; तामसः Tamasic; परिकीर्तितः is declared.Commentary Renunciation of obligatory action is not proper because it is purifying in the case of an ignorant man. Should a man renounce actions that he should perform as a duty; such renunciation can only be of the ality of darkness. Prescribed duties must not be abandoned and if anyone does so; he is certainly deluded by ignorance.
 Tamas is ignorance.Niyata Prescribed according to ones religion. To hold that a duty is obligatory and then to relinish it is indeed selfcontradictory.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.7।। नियत कर्मका तो त्याग करना उचित नहीं है। उसका मोहपूर्वक त्याग
@@ -384,6 +401,7 @@ Tamas is ignorance.Niyata Prescribed according to ones religion. To hold that a 
 
 ।।18.7।। नियत कर्म का त्याग उचित नहीं है; मोहवश उसका त्याग करना "तामस
 त्याग" कहा गया है।।
+</details>
 </details>
 
 </div>

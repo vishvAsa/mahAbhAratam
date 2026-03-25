@@ -26,8 +26,9 @@ title = "24 एवमुक्तो हृषीकेशो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 २५-तमस्य टीका दृश्या।
@@ -46,12 +47,14 @@ title = "24 एवमुक्तो हृषीकेशो"
 
 1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna did immediately as He had been directed, while Bhisma, Drona and others and all the kings were looking on. Such is the prospect of victory for your men.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.24 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -137,12 +140,14 @@ starts from 2.10.
 परसेनादर्शनेनेत्यर्जुनस्य धैर्यमापादयितुं पश्येत्येतावत्पर्यन्तं भगवतो
 वाक्यम् अन्यथा रथं सेनयोर्मध्ये स्थापयामासेत्येतावन्मात्रं ब्रूयात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.24॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -153,12 +158,14 @@ starts from 2.11.
 ॥1.24॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.24॥ No commentary.
 </details>
@@ -167,12 +174,14 @@ starts from 2.11.
 
 1.12 1.29 Sri Abhinavgupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.24 1.25॥ एवमुक्तः स भगवान् वासुदेवः सर्वेषां भीष्मादीनां प्रमुखतश्च
 यथोक्तं दर्शयन् चकार।
@@ -186,20 +195,26 @@ starts from 2.11.
 स्थापयित्वाऽर्जुनं प्रत्युवाच। हृषीकेशत्वात्तत्प्रेरकः स्वयमेवेति न
 विमनस्कत्वम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **॥1.24॥** ततः किं प्रवृत्तमित्यपेक्षायां संजय उवाच **एवमिति।**
 गुडाका निद्रा तस्या ईशेन जितनिद्रेणार्जुनेनैवमुक्तः सन् हे भारत
 धृतराष्ट्र सेनयोर्मध्ये रथानामुत्तमम् रथं हृषीकेशः स्थापितवान्।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.24 - 1.25 Sanjaya said: Thus addressed by Arjuna, Sri Krsna drew up that best of chariots between the two armies before the view of Bhisma and Drona and all the other kings, O Dhrtarastra, and said, 'O Arjuna,
@@ -232,11 +247,13 @@ Hrsikesa, being told so by Gudakesa (Arjuna), placed the excellent chariot betwe
 1.24 एवम् thus; उक्तः addressed; हृषीकेशः Hrishikesha; गुडाकेशेन by Gudakesha (the coneror of sleep; Arjuna); भारत O Bharata (descendant of king Bharata; Dhritarashtra); सेनयोः of the armies; उभयोः of both; मध्ये
 in the middle; स्थापयित्वा having stationed; रथोत्तमम् best of chariots.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/24_evamukto_hRShIkes.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.24 -- 1.25।। संजय बोले - हे भरतवंशी राजन्! निद्राविजयी अर्जुन के
@@ -309,6 +326,7 @@ in the middle; स्थापयित्वा having stationed; रथोत�
 
 ।।1.24।। संजय ने कहा -- हे भारत (धृतराष्ट्र) ! अर्जुन के इस प्रकार कहने
 पर भगवान् हृषीकेश ने दोनों सेनाओं के मध्य उत्तम रथ को खड़ा करके।
+</details>
 </details>
 
 </div>

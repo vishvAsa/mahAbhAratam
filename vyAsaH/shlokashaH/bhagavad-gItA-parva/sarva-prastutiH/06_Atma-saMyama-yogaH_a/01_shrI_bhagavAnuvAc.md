@@ -26,8 +26,9 @@ title = "01 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.1॥ श्रीभगवानुवाच **कर्मफल** स्वर्गादिकम् **अनाश्रितः कार्यं** कर्मानुष्ठानमेव कार्यं सर्वात्मनास्मत्सुहृद्भूतपरमपुरुषाराधनरूपतया कर्मैव मम प्रयोजनं न तत्साध्यं किञ्चिद् इति **यः कर्म करोति** **स सन्न्यासी च** ज्ञानयोगनिष्ठश्च **योगी च** कर्मयोगनिष्ठश्च। आत्मावलोकनरूपयोगसाधनभूतोभयनिष्ठ इत्यर्थः। **न निरग्निचाक्रियः** न चोदितयज्ञादिकर्मस्व् अप्रवृत्तः केवलज्ञाननिष्ठस् तस्य हि ज्ञाननिष्ठा एव कर्मयोगनिष्ठस्य तु उभयम् अस्ति इत्य् अभिप्रायः। उक्तलक्षणे कर्मयोगे ज्ञानम् अप्य् अस्ति इत्याह
@@ -42,12 +43,14 @@ title = "01 श्री भगवानुवाच"
 
 6.1 The Lord said He who, without depending on such fruits of works as heaven, etc., performs them, reflecting, 'The performance of works alone is my duty (Karya). Works themselves are my sole aim, because they are a form of worship of the Supreme Person who is our Friend in every way. There is nothing other than Him to be gained by them' - such a person is a Sannyasin, i.e., one devoted to Jnana Yoga, and also a Karma Yogin, i.e., one devoted to Karma Yoga. He is intent on both these, which is the means for attaining Yoga, which is of the nature of the vision of the self. 'And not he who maintains no sacred fires and performs no works,' i.e., not he who is disinclined to perform the enjoined works such as sacrifices, etc., nor he who is devoted to mere knowledge. The meaning is that such a person is devoted only to knowledge, whereas a person who is devoted to Karma Yoga has both knowledge and works. Now Sri Krsna teaches that there is an element of knowledge in the Karma Yoga as defined above.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.1॥ **अनाश्रितः** न आश्रितः अनाश्रितः। किम् **कर्मफलं** कर्मणां फलं कर्मफलं यत् तदनाश्रितः कर्मफलतृष्णारहित इत्यर्थः। यो हि कर्मफले तृष्णावान् सः कर्मफलमाश्रितो भवति अयं तु तद्विपरीतः अतः अनाश्रितः कर्मफलम्। एवंभूतः सन् **कार्यं** कर्तव्यंनित्यं काम्यविपरीतम् अग्निहोत्रादिकं कर्म **करोति** निर्वर्तयति **यः** कश्चित् ईदृशः कर्मी स कर्म्यन्तरेभ्यो विशिष्यते इत्येवमर्थमाह **स संन्यासी च योगी च** इति। संन्यासः परित्यागः स यस्यास्ति स संन्यासी च योगी च योगः चित्तसमाधानं स यस्यास्ति स योगी च इति एवंगुणसंपन्नः अयं मन्तव्यः न केवलं **निरग्निः अक्रिय** एव संन्यासी योगी च इति मन्तव्यः। निर्गताः अग्नयः कर्माङ्गभूताः यस्मात् स निरग्निः अक्रियश्च अनग्निसाधना अपि अविद्यमानाः क्रियाः तपोदानादिकाः यस्य असौ अक्रियः॥ ननु च निरग्नेः अक्रियस्यैव श्रुतिस्मृतियोगशास्त्रेषु संन्यासित्वं योगित्वं च प्रसिद्धम्। कथम् इह साग्नेः सक्रियस्य च संन्यासित्वं योगित्वं च अप्रसिद्धमुच्यते इति। नैष दोषः कयाचित् गुणवृत्त्या उभयस्य संपिपादयिषितत्वात्। तत् कथम् कर्मफलसंकल्पसंन्यासात् संन्यासित्वम् योगाङ्गत्वेन च कर्मानुष्ठानात् कर्मफलसंकल्पस्य च चित्तविक्षेपहेतोः परित्यागात् योगित्वं च इति गौणमुभयम् न पुनः मुख्यं संन्यासित्वं योगित्वं च अभिप्रेतमित्येतमर्थँ दर्शयितुमाह
 </details>
@@ -284,12 +287,14 @@ the Lord says:
 यथासंख्यमुभयव्यतिरेको दर्शनीयः। एंव सति नञ्द्वयमप्युपपन्नमिति
 द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.1॥ ँ़ ज्ञानान्तरङ्गं समाधियोगमाद्वानेनाध्यायेन। विवक्षितं
 सन्न्यासमाह योगेन सह अनाश्रित इति। चतुर्थाश्रमिणोऽप्यग्निः क्रिया
@@ -321,12 +326,14 @@ the Lord says:
 इत्यतो वाह**चतुर्थाश्रमिणोऽपी**त्यादि। न भवत्येवेति युक्तमिति शेषः।
 अनग्नित्वादिप्रवादश्च बाह्याग्न्याद्यभावनिबन्धन इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.1 6.2॥ एवं प्राक्तनेनाध्यायगणेन साधितोऽर्थः श्लोकद्वयेन निगद्यते अनाश्रित इति। य संन्यासमिति। कार्यं स्वजात्यादिविहितम्। संन्यासी +++(S संन्यासीति)+++ योगीति पर्यायावेतौ। अत एवाह यं संन्यासमिति। तथा च योगमन्तरेण संन्यासो नोपपद्यते। एवं संकल्पसंन्यासं विना योगो न युज्यते। तस्मात्सततसंबद्धौ योगसंन्यासौ। न निरग्निरित्यादिना अयमर्थो ध्वन्यते निरग्निश्च न भवति निष्क्रियश्च न भवति अथ च संन्यासी इत्यद्भुतम् इति।
 </details>
@@ -335,12 +342,14 @@ the Lord says:
 
 6.1 See Comment under 6.2
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.1॥ उक्तौभयैकार्थसिद्धिरात्मसंयमधर्मतः। भवत्येवमिदं वक्तुं पार्थायाह
 हरिः पुनः॥1॥ श्रीभगवानुवाच अनाश्रित इति। साङ्ख्ययोगयोरेकार्थतां तस्मै
@@ -366,10 +375,13 @@ the Lord says:
 गार्हपत्यादित्यागवान् सन्न्यासी। न च अक्रियः न सेवादिरहितो योगी
 भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.1॥ चित्ते शुद्धेऽपि न ध्यानं विना संन्यासमात्रतः। मुक्तिः स्यादिति
 षष्ठेऽस्मिन्ध्यानयोगो वितन्यते॥1॥  
@@ -383,10 +395,13 @@ the Lord says:
 संन्यासी योगी च नतु निरग्निः अग्निसाध्येष्टाख्यकर्मत्यागी न
 चाक्रियोऽनग्निसाध्यपूर्ताख्यकर्मत्यागी च।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.1 The Lord said He who performs works that ought to be done without seeking their fruits - he is a Sannyasin and Yogin, and not he who maintains no sacred fires and performs no actions.
@@ -424,11 +439,13 @@ bounden; कर्म duty; करोति performs; यः who; सः he; स
 etc.; performed without the expectation of their fruits purify the mind and become the means to Dhyana Yoga or the Yoga of Meditation.Karyam Karma bounden duty.Niragnih without fire. He who has renounced the daily rituals like Agnihotra; which are performed with the help of fire.Akriya without action. He who has renounced austerities and other meritorious acts like building resthouses; charitable dispensaries; digging wells;
 feeding the poor; etc.Sannyasi he who has renounced the fruits of his actions.Yogi he who has a steady mind. These two terms are applied to him in a secondary sense only. They are not used to denote that he is in reality a Sannyasi and a Yogi.The Sannyasi performs neither Agnihotra nor other ceremonies. But simply to omit these without genuine renunciation will not make one a real Sannyasi. (Cf.V.3)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.1।। श्रीभगवान् बोले -- कर्मफलका आश्रय न लेकर जो कर्तव्यकर्म करता है,
@@ -500,6 +517,7 @@ feeding the poor; etc.Sannyasi he who has renounced the fruits of his actions.Yo
 ।।6.1।। श्रीभगवान् ने कहा -- जो पुरुष कर्मफल पर आश्रित न होकर कर्तव्य
 कर्म करता है, वह संन्यासी और योगी है, न कि वह जिसने केवल अग्नि का और
 क्रियायों का त्याग किया है।।
+</details>
 </details>
 
 </div>

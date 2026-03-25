@@ -23,8 +23,9 @@ title = "25 तदित्यनभिसन्धाय फलम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.25॥**फलम् अनभिसन्धाय** वेदाध्ययनयज्ञतपोदानक्रियाः **मोक्षकाङ्क्षिभिः** त्रैवर्णिकैर् याः **क्रियन्ते;** ता ब्रह्मप्राप्तिसाधनतया ब्रह्मवाचिना **तद् इति**शब्दनिर्देश्याः।  
@@ -41,12 +42,14 @@ title = "25 तदित्यनभिसन्धाय फलम्"
 
 17.25 Whatever acts such as the study of the Vedas, sacrifices, austerities and gifts are done without aiming at results by those of the first three stations, seeking only final release - these are designated by the term Tat referring to the brahman, since they constitute the means for attainment of brahman. For it is well known that the term Tat signifies brahman, as in the following passage: He is Sah,Vah, Kah, Kim, Yat, Tat, Padam, Anuttamam.' (M.B., 13.254.91). Thus, the study of the Vedas, sacrifices etc., which are the means of attaining release, have been stated; the connection of Tat has been spoken of since the word Tat signifies them (i.e., the study of Vedas etc.). The connection of the term Tat with the three stations is shown because of their practising the study of the Vedas etc., in the way stated. In order to show how the term Sat is connected with these, Sri Krsna shows the etymology of the term Sat, as it is prevalent in the world:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.25॥ --,**तम् इति अनभिसंधाय;** तत् इति ब्रह्माभिधानम् उच्चार्य अनभिसंधाय च यज्ञादिकर्मणः **फलं यज्ञतपःक्रियाः** यज्ञक्रियाश्च तपःक्रियाश्च यज्ञतपःक्रियाः **दानक्रियाश्च विविधाः** क्षेत्रहिरण्यप्रदानादिलक्षणाः **क्रियन्ते** निर्वर्त्यन्ते **मोक्षकाङ्क्षिभिः** मोक्षार्थिभिः मुमुक्षुभिः॥ ओंतच्छब्दयोः विनियोगः उक्तः। अथ इदानीं सच्छब्दस्य विनियोगः कथ्यते --,
 </details>
@@ -109,12 +112,14 @@ stated. Thereafter, the use of the word sat is bieng presently stated:
 फलमनभिसंधायान्तःकरणशुद्ध्यर्थं यज्ञतपःक्रिया दानक्रियाश्च विविधा
 मोक्षकाङ्क्षिभिः क्रियन्ते तस्मादतिप्रशस्तमेतत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.25॥ तत्फलं मे स्यादित्यनभिसन्धाय।
 </details>
@@ -125,12 +130,14 @@ stated. Thereafter, the use of the word sat is bieng presently stated:
 प्रवृत्तिं प्रतिपादयतीति ज्ञापयितुं योजयति -- **तदि**ति। वेदोक्तं
 स्वर्गादिकम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.23 -- 17.27॥ इदानीं ये गुणत्रितयसंकटोत्तीर्णधियः ते क्रियां कथमाचरन्ति इति तादृक़्प्रकार उच्यते -- ओमित्यादि अभिधीयते इत्यन्तम्। ओं तत् सत् इत्येभिस्त्रिभिः शब्दैर्ब्रह्मणो निर्देशः; संमुखीकरणम्। तत्र ओम् इत्यनेन शास्त्रार्थोऽयमादेहसंबन्धमूरीकार्य इति सूच्यते। तत् इति सर्वनामपदेन सामान्यमात्राभिधायिना विशेषपरामर्शमात्रासमर्थेन फलानभिसंधानं ब्रह्मण्युच्यते अभिसंधानस्य विशेषपरिग्रहमन्तरेण अभावात् सकलविशेषानुग्राहित्वेऽपि सकलफलसंधाने सर्वकर्तृतायामपि विशिष्टफलायोगात्। सत् इत्यमुया श्रुत्या प्रशंसा अभिधीयते। क्रियमाणमपि इदं यज्ञादिकं दुष्टम् इति बुद्ध्या क्रियमाणं तामसतामेति। विशिष्टफलाभिसंधानेन च क्रियमाणं न च सत्; बन्धाधायकमेवेति। तस्मात् कर्तव्यमिदम् इति मन्वानाः \[ फलविशेषमनभिसंदधानाः \] यज्ञादि कुर्वाणा अपि न बध्यन्ते। अनेनैवाभिप्रायेण आदिपर्वण्युक्तम् -- तपो न कल्कोऽध्ययनं न कल्कः  
   
@@ -147,12 +154,14 @@ stated. Thereafter, the use of the word sat is bieng presently stated:
 
 17.25 See Comment under 17.27
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.25॥ तदिति। तत्पदवाच्यं हि ब्रह्म; तत्सवितुरितिसर्वः कः किं
 यत्तत्पदमनुत्तमं \[13।149।93\] इति भारतसहस्रनामोक्तेः ब्रह्मैव फलमिति
@@ -173,10 +182,13 @@ stated. Thereafter, the use of the word sat is bieng presently stated:
 
 तच्-छब्दोदाहणात् ताश् च सम्पन्ना भूत्वा मोक्ष-सम्पादिका भवन्तीत्य् अर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.25॥ द्वितीयं नाम प्रस्तौति **--** **तदिति।** तदित्युदाहृत्येति
 पूर्वस्यानुषङ्गः। तदित्युदाहृत्य शुद्धचित्तैर्मोक्षकाङक्षिभिपुरुषैः
@@ -184,10 +196,13 @@ stated. Thereafter, the use of the word sat is bieng presently stated:
 फलसंकल्पत्याजनेन मुमुक्षुत्वसंपादकत्वात्तच्छब्दनिर्देशः प्रशस्त
 इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.25 Acts of sacrifice, of austeritty and of various gifts are performed without aiming at reward by those who seek release, after pronouncing Tat.
@@ -224,11 +239,13 @@ They are freed from egoism and the bondage of Karma. They attain Selfrealisation
 culminate in wisdom (IV.33). He who does the actions with the spirit of sacrifice becomes Brahman eventually.Tat is symbolic of the presentation of all the fruits of all such activities to Brahman. If you utter Tat;
 it is tantamount to saying; They are nt mine. What has been begun with Om is given away to Brahman with the utterance of Tat.The use of Sat is described in the following verse.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/25_tadityanabhisandh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.25।। 'तत्' नामसे कहे जानेवाले परमात्माके लिये ही सब कुछ है -- ऐसा
@@ -304,6 +321,7 @@ it is tantamount to saying; They are nt mine. What has been begun with Om is giv
 
 ।।17.25।। 'तत्' शब्द का उच्चारण कर, फल की इच्छा नहीं रखते हुए,
 मुमुक्षुजन यज्ञ, तप, दान आदि विविध कर्म करते हैं।।
+</details>
 </details>
 
 </div>

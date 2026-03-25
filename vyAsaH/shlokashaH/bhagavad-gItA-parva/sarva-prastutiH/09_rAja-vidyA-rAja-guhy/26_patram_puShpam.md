@@ -23,8 +23,9 @@ title = "26 पत्रम् पुष्पम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.26॥ सर्वसुलभं **पत्रं** वा **पुष्पं** वा **फलं** वा तोयं वा **यो भक्त्या मे प्रयच्छति** अत्यर्थमत्प्रियतया तत्प्रदानेन विना आत्मधारणम् अलभमानतया तदेकप्रयोजनो यो मे पत्रादिकं ददाति तस्य **प्रयतात्मनः** तत्प्रदानैकप्रयोजनत्वरूपशुद्धियुक्तमनसः **तत्** तथाविध**भक्त्युपहृतम् अहं** सर्वेश्वरो निखिलजगदुदयविभवलयलीलो ऽवाप्तसमस्तकामः सत्यसङ्कल्पो ऽनवधिकातिशयासङ्ख्येकल्याणगुणगणः स्वाभाविकानवधिकातिशयानन्दस्वानुभवे वर्तमानो ऽपि; मनोरथपथदूरवर्ति प्रियं प्राप्य इव **अश्नामि।** यथा उक्तं मोक्षधर्मे -- याः क्रियाः सम्प्रयुक्ताः स्युर् एकान्तगतबुद्धिभिः। ताः सर्वाः शिरसा देवः प्रतिगृह्णाति वै स्वयम्॥ (महा॰ शा॰ 340।64) इति। यस्माद् ज्ञानिनां महात्मनां वाङ्मनसागोचरो ऽयं विशेषस् तस्मात् त्वं च ज्ञानी भूत्वा उक्तलक्षणभक्तिभारावनतात्मा आत्मीयः कीर्तनयतनार्चनप्रणामादिकं सततं कुर्वाणो लौकिकं वैदिकं च नित्यनैमित्तिकं कर्म च इत्थं कुर्व् इत्य् आह --
@@ -45,12 +46,14 @@ title = "26 पत्रम् पुष्पम्"
 
 9.26 Whoever offers to Me with true devotion a leaf, or a flower, or a fruit or water, which can be easily obtained, I accept it. That true devotion is love of such an exalted kind that the devotee cannot sustain himself without making such offering; the devotee has no extraneous purpose other than serving Me. Such an offering coming from a heart rendered pure with that singleness of purpose of considering the offering as an end in itself - I, the Lord of the universe, whose sport consists in the origin, maintenance and dissolution of the entire world, who has all desires fulfilled, whose will is always accomplished, whose auspicious attributes are unlimited and unsurpassed, who is enjoying the infinite and unsurpassed bliss that is in Myself - I accept and enjoy the aforesaid type of offering, as if I was obtaining a desired object far beyond the range of My hopes. Thus it is declared in the Moksa-dharma: "Whatever acts are consecrated by those whose intellects are concentrated in single-pointed devotion, all these, the Lord Himself accepts on His head." (Ma. Bha. Sa., 340.64) Sri Krsna proceeds to say: As there is this distinctive excellence, incomprehensible by speech and mind in respect of these great men called the Jnanins, you also, following them, become a Jnanin, i.e., have your self and all your belongings 'bent down,' i.e., dedicated, under the weight of Bhakti as prescribed earlier. Be always singing My praises, doing My services, worshipping Me and prostrating before Me; also perform your secular and Vedic duties, periodical and occasional, in this manner.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 न केवलं मद्भक्तानाम् अनावृत्तिलक्षणम् अनन्तफलम्; सुखाराधनश्च अहम्। कथम् --,
 
@@ -125,12 +128,14 @@ Since this is so, therefore-
 तेन भक्तिरेव मत्परितोषनिमित्तं नतु देवतान्तरवद्बल्युपहारादि
 बहुवित्तव्ययायाससाध्यं किंचिदिति देवतान्तरमपहाय मामेव भजेतेत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.26॥ दुर्बलैस्त्वं पूजयितुमशक्यो महत्त्वादित्याशङक्याह -- पत्रमिति। न
 त्वविहितपत्रादि; तस्यापराधत्वोक्तेर्वाराहादा। भक्त्यैवाहं तृप्य इति
@@ -148,12 +153,14 @@ Since this is so, therefore-
 नियमोऽत्राभिप्रेत इत्यत आह -- **भक्त्यैवे**ति। कुतः इत्यत आह --
 **भक्ते**ति। स्वार्थः स्वार्थसाधनोपायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.26॥ No commentary.
 </details>
@@ -162,12 +169,14 @@ Since this is so, therefore-
 
 9.23-26 Ye' pi etc. upto prayatatmanah. Even those who worship \[gods\] with other names, they too \[in fact\] worship Me alone, becaue there is nothing (no god) to be worshipped apart from the Brahman. But the difference is that \[they do so\] by non-injunction. Non-injunction : different injunctions. \[This amounts to saying that\] having the innate nature of the Absolute Brahman-Existence, I am indeed worshipped by manifold injunctions (i.e., sacrifices enjoined by injunctions). But non-injunction should not be explained as 'by defective injunction' as it has been done by others (other commentators), who acire dirts of great sins by insulting other systems of philosophy. If their view is correct then the declarations that are actually found viz., 'They offer sacrifice to Me alone', and 'I am alone the enjoyer of all sacrifices' - all would be inconsistent. Enough of talk with the sinful ones. Our preceptors, however, explain \[ye'pyanya-etc.\] as follows : Those who, following the principle of the doctrine of duality consider certain deity as different from their own Self and as devoid of the innate nature of the Brahman, and offer sacrifice to that deity only-but it is only to Me, their own Self that even those men offer their sacrifices, however by non-injunction i.e. by faulty injunction of the nature of duality-view. That is why \[the Lord\] says (in verse 25) 'They do not recognise Me, their own Self, correctly as that deity itself, i.e., as the enjoyer \[of the oblation of the sacrifice\]. Hence they move away from My nature . Why ; By being votaries of gods, they attain the gods etc. (verse 26). It amounts to say that this \[fact of attaining these gods\] is itself nothing but moving away \[from Me, the Self\]. On the other hand, those who realise My nature (i.e. Me) as being not different \[from their Self\], they offer sacrifices to Me alone, even though those sacrifices etc. are for the gods, goblins and manes.' \[The Lord\] is going to conclude \[the present topic\] as : '(Thus) offering sacrifice to Me they attain Me alone.' (IX-29,35). But that alone is called a deity which is aimed at \[according to injunction\], for offering things (i.e. oblation). Hence, how can a sacrifice be offered to one's own Self, a category that cannot be aimed at ; For example, there is the injunction: 'The oblation \[of rice\] of the rite prayana, crooked in the milk, is intended for the deity Aditi'; and hence this Aditi becomes the object intended \[in the sacrifice\], because that particular deity is an adjunct of an injunction, and because it is included in the injunction as one to be aimed at. But \[in the present case\], there is no injunction that concerns the Self. Having \[these objections\] in mind \[the Lord\] says : \[They offer sacrifice\] to Me following non-injunction. The idea is this : An injunction is reired only in the case of a deity that is different from one's own Self. For, the injunction is one of the nature of imparting the knowledge only of that particular thing which is not known \[otherwise\]. But, one's own Self, the Absolute Lord, is known, not following any injunction. For, the knowledge of the Self is not brought by injunction. Certainly no action is undertaken not aiming the Self. Therefore in all cases \[of offerings\], intended for the deities like Indra etc., this Self of one's own is certainly intended , as the Self is, by nature, the illuminator of the entire Universe; as It is like a thread in a garland; and as It is illumining \[on Its own accord\], asserting Its superiority \[over all others\] and only serving as a background (bhittih, 'a screen', or 'a wall') of the manifestations of the deity so intended by him \[in the sacrifice\]. Thus it is established by logic that even the votaries of gods offer sacrifices to Me (the Absolute) alone, becuase 'I' depends on no injunction. As far as these sacrificers are concerned, the principal effect of the sacrifice viz., attaining 'Me', is not intended by them as their own. On the other hand, they are very much satisfied with attaining the status of Indra etc., just as a priest is satisfied with limited fees. To indicate this, the parasmaipada form (yajanti) \[is used\]. For, it has been stated by myself (Ag.) \[else-where\] as : 'One, who knows the Vedas and does not know \[to intend for\] the status of (or the word) Sambhu (the Absolute), would feel afflicted in despair. \[For\], aspiring for the heaven, and \[hence\] rejecting the status of \[the actual\] performer of of sacrifice (yajamana), \[but at the same time\] performing sacrifice for others (yajan), he has become a \[mere\] priest in the sacrifice. Indeed, the divergently flowing floods of taste for action, without exception, - even though they flow from the Absolute consciousness - do not bestow \[on the performer\] the mighty ocean of Bliss of one's own Self if they do not gain a complete stability' Thus whosoever realises in the said manner, his sacrifice, though aimed at the deities like Indra, is in fact a sacrifice offered to the Absolute Lord. Whatever may be the other actions of his, they too become acts of worshipping his own Self, the Absolute Lord, as It alone is intended in all his action. This \[the Lord\] says :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.26॥ तदेवं स्वभक्तानां स्वप्राप्तिप्रकारं उक्त्वाऽधुना स्वभक्तेः
 सर्वोत्तमत्वमनायासत्वेनेतरविलक्षणत्वं च दर्शयति -- पत्रं पुष्पमिति।
@@ -191,10 +200,13 @@ Since this is so, therefore-
 स्वभोगयोग्यसर्वसामग्रीसम्पादनं व्यज्यते। अत एव सुदामार्थं स्वसम्पद्दाने
 पृथुकमुष्टिमङ्गीकृतवान्। ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.26॥ तदेवं स्वभक्तानामक्षयफलत्वमुक्तम्। अनायासत्वं स्वभक्तेर्दर्शयति
 **-- पत्रमिति।** पत्रपुष्पादिमात्रमपि मह्यं भक्त्या प्रीत्या यः
@@ -204,10 +216,13 @@ Since this is so, therefore-
 बहुवित्तसाध्ययागादिभिः परितोषः स्यात् किंतु भक्तिमात्रेण। अतो भक्तेन
 समर्पितं यत्किंचित्पत्रादिमात्रमपि तदनुग्रहार्थमेवाश्नामीति भावः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.26 Whoever offers Me with true devotion a leaf, a flower, a fruit or some water, I accept this offering made with devotion by him who is pure of heart.
@@ -241,11 +256,13 @@ Since this is so, therefore-
 भक्त्युपहृतम् offered with devotion; अश्नामि eat (accept); प्रयतात्मनः
 of the pureminded.Commentary A gift; however small; is accepted by the Lord; when it is offered with profound faith. The Lord is ite satisfied even with a leaf; a flower; a fruit or water; when it is offered with singleminded devotion and pure heart. Was He not satisfied with the little parched rice from the bundle of Sudama and the small berries offered by Sabari You need not build a golden temple for Him. Build a golden temple in your heart. Enthrone Him there. He wants only your devoted heart. But it is difficult to please Indra. You wll have to offer valuable (material) objects to him.A leaf; a flower of a fruit are merely symbols. The true means of attaining the Lord is pure unflinching devotion. All the objects of the state belong to the king. If the servants of the state offer with devotion some objects to the king he is highly satisfied. Even so all the objects of the whole world belong to Him. Yet; He is highly pleased if you offer even a little thing with devotion.Asnami; literally means eat. The indicative meaning or Lakshana Vritti is accept.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.26।। जो भक्त पत्र, पुष्प, फल, जल आदि (यथासाध्य प्राप्त वस्तु) को
@@ -345,6 +362,7 @@ of the pureminded.Commentary A gift; however small; is accepted by the Lord; whe
 ।।9.26।। जो कोई भी भक्त मेरे लिए पत्र, पुष्प, फल, जल आदि भक्ति से अर्पण
 करता है, उस शुद्ध मन के भक्त का वह भक्तिपूर्वक अर्पण किया हुआ (पत्र
 पुष्पादि) मैं भोगता हूँ अर्थात् स्वीकार करता हूँ।।
+</details>
 </details>
 
 </div>

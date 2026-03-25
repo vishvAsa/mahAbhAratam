@@ -23,8 +23,9 @@ title = "34 अकीर्तिञ् चापि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.34॥ न केवलं निरतिशयसुखकीर्तिहानिमात्रं पार्थो युद्धे प्रारब्धे पलायित इत्य् अव्ययां सर्व देशकालव्यापिनीम् **अकीर्तिं च** समर्थान्य् असमर्थानि सर्वाणि **भूतानि कथयिष्यन्ति** ततः किमिति चेत् शौर्यवीर्यपराक्रमादिभिः सर्व**सम्भावितस्य** तद्विपर्ययजा हि **अकीर्तिर् मरणाद् अतिरिच्यते।** एवंविधाया अकीर्तेर् मरणम् एव तव श्रेय इत्यर्थः।  
@@ -40,12 +41,14 @@ title = "34 अकीर्तिञ् चापि"
 
 2.34 You will then incur not merely the loss of all happiness and honour but will be the object of disrespect by all people, the alifies and even the unalified, for all time. They will ridicule you saying, 'When the battle began, Arjuna ran away.' It it be asked, 'What if it be so;", the reply is: 'To one who is honoured by all for courage, prowess, valour, etc., this kind of dishonour arising from the reverse of these attributes, is worse than death; The meaning is that itself would be better for you than this kind of dishonour. If it is said, 'How could dishonour accrue to me, who am a hero, but have withdrawn from the battle only out of love and compassion for my relatives;' the reply is as follows:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.34॥  
   
@@ -125,12 +128,14 @@ perferable to infamy.
 शक्ष्यसीत्यभिप्रायः। उदाहृतवचनं त्वर्थशास्त्रत्वात्न निवर्तेत संग्रामात्
 इत्यादिधर्मशास्त्राद्दुर्बलमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.34॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -139,12 +144,14 @@ perferable to infamy.
 
 ॥2.34॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.34 2.38॥ यद्भयाच्च भवान् युद्धात् निवर्तते +++(K निवर्तेत)+++ तदेव शतशाखमुपनिपतिष्यति भवत इत्याह  
 अथ चेत्यादि। श्लोकपञ्चकमिदम् अभ्युपगम्यवादरूपमुच्यते +++(N उपगम्य)+++ यदि लौकिकेन व्यवहारेणास्ते भवान् तथाप्यवश्यानुष्ठेयमेतत्।
@@ -154,12 +161,14 @@ perferable to infamy.
 
 2.34 See Comment under 2.37
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.34॥ किञ्च अकीर्तिमिति। भूतानि प्राणिजातानि। विजयीति सम्भावितस्य।
 </details>
@@ -173,18 +182,24 @@ perferable to infamy.
 नन्वकीर्तिकथनेन किं स्यादित्यत आह सम्भावितस्येति। सम्भावितस्य युद्धादौ
 अकीर्तिः मरणात् अतिरिच्यते अधिका भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.34॥ किंच **अकीर्तिमिति।** अव्ययां शाश्वतीम्। संभावितस्य
 बहुमानितस्याकीर्तिर्मरणादतिरिच्यतेऽधिकतरा भवति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.34 Further, people will speak ill of you for all time, and for one accustomed to be honoured, dishonour is worse than death.
@@ -217,11 +232,13 @@ will tell; ते thy; अव्ययाम् everlasting; संभावि�
 and; अकीर्तिः dishonour; मरणात् than death; अतिरिच्यते
 exceeds.Commentary The world also will ever recount thy infamy which will survive thee for a long time. Death is really preferable to disgrace to one who has been honoured as a great hero and mighty warrior with noble alities.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.34।। और सब प्राणी भी तेरी सदा रहनेवाली अपकीर्तिका कथन अर्थात निंदा
@@ -268,6 +285,7 @@ exceeds.Commentary The world also will ever recount thy infamy which will surviv
 
 ।।2.34।। और सब लोग तुम्हारी बहुत काल तक रहने वाली अपकीर्ति को भी कहते
 रहेंगे; और सम्मानित पुरुष के लिए अपकीर्ति मरण से भी अधिक होती है।।
+</details>
 </details>
 
 </div>

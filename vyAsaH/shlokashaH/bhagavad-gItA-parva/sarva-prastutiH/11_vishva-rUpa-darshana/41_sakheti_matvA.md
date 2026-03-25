@@ -25,8 +25,9 @@ title = "41 सखेति मत्वा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.41॥ **तव** अनन्तवीर्यत्वामितविक्रमत्वसर्वान्तरात्मत्वस्रष्टृत्वादिको यो महिमा तम् इमम् **अजानतया मया प्रमादात्** मोहात् **प्रणयेन** चिरपरिचयेन **वा सखा** इतिमम वयस्य इति **मत्वा हे कृष्ण हे यादव हे सखे इति** त्वयि **प्रसभं** विनयापेतं **यद् उक्तं यच् च** परि**हासार्थं** सर्वदा एव सत्कारार्हस् त्वम् **असत्कृतो ऽसि; विहारशय्यासनभोजनेषु** च सहकृतेष्व् एकान्ते वा **समक्षं** वा यद् असत्कृतो ऽसि; **तत्** सर्वं **त्वाम् अप्रमेयम् अहं क्षामये।**
@@ -41,12 +42,14 @@ title = "41 सखेति मत्वा"
 
 11.41 - 11.42 Infinite power, boundless valour, being the Inner Self of everything, being the creator etc., these constitute Your majesty. Being ignorant of this, and considering You only as a friend, and out of conseent love, or negligence born of life-long familiarity, whatever has been said rudely, without showing courtesy, such as 'O Krsna, O Yadava, O Comrade'; and whatever disrespect has been shown to You in jest, while playing or resting, while sitting or eating, while alone or in the sight of others - for all these I beseech forgiveness of You who are in incomprehensible.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.41॥ --,**सखा** समानवयाः **इति मत्वा** ज्ञात्वा विपरीतबुद्ध्या **प्रसभम्** अभिभूय प्रसह्य **यत् उक्तं हे कृष्ण हे यादव हे सखेति** च **अजानता** अज्ञानिना मूढेन किम् अजानता इति आह -- **महिमानं** माहात्म्यं **तव इदम्** ईश्वरस्य विश्वरूपम्। तव इदं महिमानम् अजानता इति वैयधिकरण्येन संबन्धः। तवेमम् इति पाठः यदि अस्ति; तदा सामानाधिकरण्यमेव। **मया प्रमादात्** विक्षिप्तचित्ततया; **प्रणयेन वापि;** प्रणयो नाम स्नेहनिमित्तः विस्रम्भः; तेनापि कारणेन यत् उक्तवान् अस्मि॥
 </details>
@@ -120,12 +123,14 @@ would be in the same gender.
 प्रमादाच्चित्तविक्षेपात्प्रणयेन स्नेहेन वापि। किमुक्तमित्याह। हे कृष्ण
 हे यादव हे सखे इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.41॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -134,12 +139,14 @@ would be in the same gender.
 
 ॥11.41॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.41॥ No commentary.
 </details>
@@ -148,12 +155,14 @@ would be in the same gender.
 
 11.41 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.41॥ अक्षरैश्वर्यादिगुणमहिमानं परमं तं दृष्ट्वा क्षमापयति -- सखेति।
 तव महिमानं अलौकिकमाहात्म्यश्रियं अतिशयेनाजानता मया यदुक्तं हे यादव हे
@@ -169,10 +178,13 @@ would be in the same gender.
 तत्कुलोद्भवत्वेन; न तु तदुद्धारार्थप्रकटत्वेन हे सखेति मित्रत्वेन
 लौकिकबुद्ध्या; न तु परमात्मत्वेन यदुक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.41॥ इदानीं भगवन्तं क्षमापयति **-- सखेति द्वाभ्याम्।** त्वां
 प्राकृतः सखेति मत्वा प्रसभं हठेन तिरस्कारेण यदुक्तं तत्क्षामये
@@ -180,10 +192,13 @@ would be in the same gender.
 संधिरार्षः। प्रसभोक्तौ हेतुःतव महिमानमिदं च विश्वरूपमजानता मया
 प्रमादात्प्रणयेन स्नेहेनापि वा यदुक्तमिति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.41 Unaware of this majesty of Yours, and either from negligence or love, or considering You to be a friend, whatever I have rudely said as
@@ -220,11 +235,13 @@ whatever; उक्तम् said; हे कृष्ण O Krishna; हे य�
 this; मया by me; प्रमादात् from carelessness; प्रणयेन due to love; वा
 or; अपि even.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.41 -- 11.42।। आपकी महिमा और स्वरूपको न जानते हुए 'मेरे सखा हैं' ऐसा
@@ -265,6 +282,7 @@ or; अपि even.No Commentary.
 ।।11.41।। हे भगवन्! आपको सखा मानकर आपकी इस महिमा को न जानते हुए मेरे
 द्वारा प्रमाद से अथवा प्रेम से भी "हे कृष्ण हे! यादव हे सखे!" इस प्रकार
 जो कुछ बलात् कहा गया है।।
+</details>
 </details>
 
 </div>

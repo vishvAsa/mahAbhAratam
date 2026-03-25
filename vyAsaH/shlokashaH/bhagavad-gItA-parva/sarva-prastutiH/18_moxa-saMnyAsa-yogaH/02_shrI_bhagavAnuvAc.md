@@ -26,8 +26,9 @@ title = "02 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 **Sanskrit Commentary By Sri Ramanuja**
@@ -59,12 +60,14 @@ title = "02 श्री भगवानुवाच"
 problem is, whether the Tyaga taught in the Sastras concern desiderative acts themselves, or fruits of all acts. Sri Krsna has used the terms Sannyasa in one place and Tyaga elsewhere. From this it is understood that Sri Krsna uses the terms Tyaga and Sannyasa as synonyms. Likewise, the decisive teaching is about Tyaga alone in the statement: 'Hear My decision, O Arjuna, about Tyaga' (18.4). That the terms are synonymously used to denote the same sense, is conclusively established from such passages as: 'But the renunciation (Sannyasa) of obligatory work is not proper. Abandonment (Tyaga) of it through delusion is declared to be Tamasika' (18.7); and 'To those who have not renounced the fruits of actions, threefold are the conseences after death - undesirable, desriable and mixed. But to those who have renounced, none whatsoever'
 (18.12).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 **Sanskrit Commentary By Sri Shankaracharya**
 
@@ -265,12 +268,14 @@ Harikrishnadas Goenka**
 किंत्वन्तःकरणशुद्ध्यर्थकर्मानुष्ठाने फलाभिसन्धित्याग इत्येक एवार्थ
 उभयोरिति निर्णीत एकः प्रश्नोऽर्जुनस्य।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 **Sanskrit Commentary By Sri Madhavacharya**
 
@@ -294,12 +299,14 @@ Harikrishnadas Goenka**
 काम्यानां स्वरूपपरित्याग एव नित्यनैमित्तिकफलस्यान्तःकरणशुद्धेः
 सर्वापेक्षितत्वेन तत्त्यागो न युक्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 **Sanskrit Commentary By Sri Abhinavgupta**
 
@@ -312,12 +319,14 @@ Harikrishnadas Goenka**
 
 18.2 Kamyanam etc. The desire-motivated actions : the Agnistoma (sacrifce) etc. All actions etc. : The relinishment is the relinishment of fruits, even while performing all actions tha are to be performed daily or occasionally. Whatever remains to be spoken in this chapter had been examined in detail even by the previous commentators like the revered Bhatta Bhaskara and others. Hence why should we take the trouble of repeating. For, our main concern is to fulfil the promise to show only the hidden purport of this \[work\]. Therefore now \[the Bhagavat\] relates different views in order to determine the best in this regard -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 **Sanskrit Commentary By Sri Vallabhacharya**
 
@@ -351,10 +360,13 @@ Harikrishnadas Goenka**
 जुहुयात् \[ \] इत्यादिषु; तथापि प्रत्यवायपरिहार एव फलमिति कल्पयन्ति।
 एतदेव विचक्षणत्वेनोक्तम्। तेऽपि तत्त्वं न जानन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **Sanskrit Commentary By Sri Sridhara Swami**
 
@@ -393,10 +405,13 @@ Harikrishnadas Goenka**
 सलिङ्गानाश्रमांस्त्यक्त्वा चरेदविधिगोचरः इत्यादि॥ अलमतिप्रसङ्गेन।
 प्रकृतमनुसरामः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.2 The Lord said The sages hold that Sannyasa is the giving up of all works which are motivated by desire. The wise declare Tyaga to be the abandonment of fruits of all works.
@@ -433,11 +448,13 @@ which are performed for the attainment of specific selfish ends. The wise men de
 In popular usage Sannyasa and Tyaga are more or less synonymous. Both mean renunciation. The two words do not mean two altogether distinct ideas as stone and fruit; or pot and cloth. They convey the same general idea with a slight distinction.An objector asks It is said that the Nitya and Naimittika actions cannot produce any fruits. Why then is the relinishment of their fruits mentioned here It is like asking for the relinishment of the barren womans sonWe say The objection is not correct. In the opinion of the Lord; ordinary and occasional duties cause their own fruits (vide XVIII.12). Sannyasins alone who have renounced the desire for the fruits of actions will not get the fruits;
 but other persons will have to reap the fruits of the ordinary and occasional actions.If one renounces all actions after the attainment of Selfrealisation and enters into the fourth order of life (Sannyasa) it is called VidvatSannyasa. If one renounces all actions and enters into the order of Sannyasa for the sake of doing VedantaVichara (or reflection on the truths of the Vedantaphilosophy and on the true significance of the great sentences of the Upanishads which reveal the identity of the individual soul with the Supreme Being) and for thus attaining Selfrealisation; it is called VividishaSannyasa.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 **Hindi Translation By Swami Ramsukhdas**
@@ -557,6 +574,7 @@ but other persons will have to reap the fruits of the ordinary and occasional ac
 ।।18.2।। श्रीभगवान् ने कहा -- (कुछ) कवि (पण्डित) जन काम्य कर्मों के
 त्याग को "संन्यास" समझते हैं और विचारशील जन समस्त कर्मों के फलों के
 त्याग को "त्याग" कहते हैं।।
+</details>
 </details>
 
 </div>

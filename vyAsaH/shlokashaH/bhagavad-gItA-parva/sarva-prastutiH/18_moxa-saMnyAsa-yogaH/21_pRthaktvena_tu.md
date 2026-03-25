@@ -23,8 +23,9 @@ title = "21 पृथक्त्वेन तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.21॥**सर्वेषु भूतेषु** ब्राह्मणादिषु ब्राह्मणाद्याकार**पृथक्त्वेन** आत्माख्यान् अपि **भावान् नाना**भूतान् सितदीर्घादिपृथक्त्वेन च **पृथग्विधान्** फलादिसंयोगयोग्यान् कर्माधिकारवेलायां **यद् ज्ञानं वेत्ति तज् ज्ञानं राजसं विद्धि।**
@@ -39,12 +40,14 @@ title = "21 पृथक्त्वेन तु"
 
 18.21 Whatever knowledge perceives in Brahmana etc., at the time of work, the entity known as the Atman as of diverse nature because the bodies of those beings are tall or fair and are fit to attain the fruits of work - know that knowledge to be Rajasika. The point is this: It is not a condemnation of the plurality of Atman. The Atman, though distinct, is uniform everywhere. The bodily attributes do not affect it. The knowledge lacking this understanding is stigmatised as Rajasa.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.21॥ --,**पृथक्त्वेन तु** भेदेन प्रतिशरीरम् अन्यत्वेन **यत् ज्ञानं नानाभावान्** भिन्नान् आत्मनः **पृथग्विधान्** पृथक्प्रकारान् भिन्नलक्षणान् इत्यर्थः; **वेत्ति** विजानाति यत् ज्ञानं **सर्वेषु भूतेषु;** ज्ञानस्य कर्तृत्वासंभवात् येन ज्ञानेन वेत्ति इत्यर्थः; **तत् ज्ञानं विद्धि राजसं** रजोगुणनिर्वृत्तम्॥
 </details>
@@ -117,12 +120,14 @@ body.
 ईश्वरादन्योन्यतश्चाचेतनवर्गस्य भेद इत्यनौपाधिकभेदपञ्चकज्ञानं
 कुतार्किकाणां राजसमेवेत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.21॥ Sri Madhvacharya did not comment on this sloka. ,
 </details>
@@ -131,12 +136,14 @@ body.
 
 ॥18.21॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.20 -- 18.22॥ तत्र +++(S adds शरीरे after तत्र )+++ सर्वभूतेषु इत्यादिना श्लोकत्रयेण ( श्लो.2022 ) ज्ञानकरणस्य त्रैरूप्यमुक्तम्। अत एव येन इति तृतीया। इयता च ज्ञानकरणसामान्यस्य +++(,; N record an alternative reading सामर्थ्यस्य for सामान्यस्य by saying सामर्थ्यस्येत्यन्यादर्शे )+++ स्वरूपमुक्तम्। नियतम् इत्यादिना श्लोकत्रयेण ( श्लो. 2325 ) कर्मणो ज्ञेयकार्यरूपस्य द्वैविध्यम् मुक्तसंगः इत्यादिना श्लोकत्रयेण ( श्लो. 2628 ) तु कर्तुर्द्विरूपस्य संक्षेपेण स्वरूपम् करणविशेषस्य स्वरूपभेदप्रतिपादनार्थ \[ प्रवृत्तिम् इत्यादिना श्लोकत्रयेण ( 3032 ) \] बुद्धेस्त्रैविध्यं निरूपितम् +++(S -- विध्यमुपलक्षितम् )+++। तद्द्वारेण करणान्तराणामपि त्रैविध्यमुपलक्षितम्। करणस्य तु इतिकर्तव्यतापेक्षित्वात् इतिकर्तव्यतायाश्च धृत्यादिपञ्चकरूपत्वेऽपि; श्रद्धायाः पूर्वमुक्तत्वात्; विविदिषाविविदिषयोश्च धृतिसुखाभ्यामाक्षेपात् तयोस्त्रैविध्यम् धृत्या यया इत्यनेन \[ श्लोकत्रयेण ( 3335 ) \] सुखं त्विदानीम् इत्यनेन \[ श्लोकत्रयेण ( 3639 ) \] चोक्तम्। तदाह -- सर्वभूतेषु इत्यादि समुदाहृतमित्यन्तम्। विभक्ततेषु; देवमनुष्यादितया। पृथक्त्वेन; इह मे प्रीतिः इह मे द्वेषः इत्यादिबुद्ध्या। अहेतुकम्; कारणमविचार्यैव अभिनिवेशावेशवशात् क्रोधरागादिग्रहणं यत् तत्तामसंज्ञम्।
 </details>
@@ -145,12 +152,14 @@ body.
 
 18.21 See Comment under 18.22
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.21॥ पृथक्त्वेनेति स्पष्टम्।
 </details>
@@ -163,20 +172,26 @@ body.
 नानाभिलाषरूपान् सुखिदुःखीत्यादिपशुपक्षिमनुजतृणस्तम्बादीन् सर्वेषु भूतेषु
 येन पश्यति तज्ज्ञानं राजसं विक्षिप्तमानसात्मकं विद्धि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.21॥ राजसं ज्ञानमाह **-- पृथक्त्वेनेति।** पृथक्त्वेन तु
 यज्ज्ञानमित्यस्यैव विवरणं सर्वेषु भूतेषु देहेषु नानाभावान्वस्तुत
 एवानेकान्क्षेत्रज्ञान् पृथग्विधान्सुखीदुःखीत्यादिरूपेण विलक्षणान् येन
 ज्ञानेन वेत्ति तज्ज्ञानं राजसं विद्धि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.21 But that knowledge which sees all beings, by reason of their individuality, as entities of distinct nature - know that knowledge to be Rajasika.
@@ -210,11 +225,13 @@ different-that is regarded to be of the Rajas (Strand).
 ज्ञानम् knowledge; विद्धि know; राजसम् Rajasic.Commentary Knowledge which sees As knowledge cannot be an agent; this should be interpreted to mean knowledge by which one sees.Entities Selves or souls.Different from one another Regarding them as different in different bodies.The knowledge that is led by the idea of separateness is passionate.
 Enveloping as it does the manifold creation with the veil of separateness; it deludes even the wise man. Owing to passionate knowledge; beings appear to be separate and the perception of unity is also lost sight of. That knowledge which beholds multiplicity in created objects and differentiates them as being small or great; according to their form and size; is of passionate nature and tainted. A man with passionate knowledge sees diversity everywhere. He beholds the many only.Now I will explain to thee; O Arjuna; knowledge that is of the ality of darkness; in order that thou mayest avoid it.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.21।। परन्तु जो ज्ञान अर्थात् जिस ज्ञानके द्वारा मनुष्य सम्पूर्ण
@@ -255,6 +272,7 @@ Enveloping as it does the manifold creation with the veil of separateness; it de
 
 ।।18.21।। जिस ज्ञान के द्वारा मनुष्य समस्त भूतों में नाना भावों को
 पृथक्-पृथक् जानता है, उस ज्ञान को तुम राजस जानो।।
+</details>
 </details>
 
 </div>

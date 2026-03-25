@@ -23,8 +23,9 @@ title = "21 यत्तु प्रत्युपकारार्थम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.21॥ प्रत्युपकारकटाक्षगर्भं **फलम् उद्दिश्य** च **परिक्लिष्टम्** अकल्याणद्रव्यकं **यद् दानं दीयते तद् राजसम् उदाहृतम्।**
@@ -39,12 +40,14 @@ title = "21 यत्तु प्रत्युपकारार्थम्"
 
 17.21 That gift which is given grudgingly, viz., gift of useless things with a sly expectation of something in return that is said to be gift of Rajasa nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.21॥ --,**यत्तु दानं प्रत्युपकारार्थं** काले तु अयं मां प्रत्युपकरिष्यति इत्येवमर्थम्; **फलं वा** अस्य दानस्य मे भविष्यति अदृष्टम् इति; तत् **उद्दिश्य पुनः दीयते च परिक्लिष्टं** खेदसंयुक्तम्; **तत्** दानं **राजसं स्मृतम्**॥
 </details>
@@ -94,12 +97,14 @@ considered to be; rajasam, born of rajas.
 दीयते परिक्लिष्टं च कथमेतावद्व्ययितमिति पश्चात्तापयुक्तं यथा भवत्येवं च
 यद्दीयते तद्दानं राजसं स्मृतम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.21॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -108,12 +113,14 @@ considered to be; rajasam, born of rajas.
 
 ॥17.21॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.20 -- 17.22॥ दातव्यमित्यादि उदाहृतमित्यन्तम्। दातव्यमिति -- दद्यादिति नियोगमात्रं पालनीयमिति दोषाभिसंधानाय +++(S येषामभिसन्धाय; दोषासन्धाय )+++। परिक्लिष्टं मितादिदोषात्। दानस्य चासत्करणं तत्संप्रदानाद्यसत्करणात्। एवं लौकिकानां सात्त्विकादित्रिप्रकाराशयानुसारेण क्रिया व्याख्याता।
 </details>
@@ -122,12 +129,14 @@ considered to be; rajasam, born of rajas.
 
 17.21 See Comment under 17.22
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.21॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -139,20 +148,26 @@ considered to be; rajasam, born of rajas.
 दानं वा पुनः फलधर्मादिचतुष्टयमुद्दिश्य परिक्लिष्टं चित्तक्लेशयुक्तं
 फलोपकारासन्देहेन दीयते तत् दानं राजसमुदाहृतं; कथितमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.21॥ राजसं दानमाह **-- यत्त्विति।** कालान्तरेऽयं मां प्रत्युपकारं
 करिष्यतीत्येवमर्थम्; फलं वा स्वर्गादिकमुद्दिश्य यत्पुनर्दानं दीयते
 परिक्लिष्टं चित्तक्लेशयुक्तं यथा भवत्येवंभूतं तद्दानं राजसमुदाहृतं
 कथितम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.21 But that which is given as a consideration for something receievd or in expectation of future reward, or grudgingly, is called Rajasika gift.
@@ -186,11 +201,13 @@ or with the hope of recompense,or grudgingly - that may truly be said to be the 
 Rajasic; स्मृतम् is held to be.Commentary Charity or gift that is given in the hope that it will be returned in the future and praised in public or that the gift will bring some unseen reward or heavenly pleasure is passionate. If a man makes a gift to a Brahmana or a Sannyasin with the hope that all his sins will be washed away; this is also a Rajasic gift.
 If a man is grieved at heart after making the gift this is also a gift of passionate nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.21।। किन्तु जो दान प्रत्युपकारके लिये अथवा फलप्राप्तिका उद्देश्य
@@ -244,6 +261,7 @@ If a man is grieved at heart after making the gift this is also a gift of passio
 
 ।।17.21।। और जो दान क्लेशपूर्वक तथा प्रत्युपकार के उद्देश्य से अथवा फल
 की कामना रखकर दिया जाता हैं, वह दान राजस माना गया है।।
+</details>
 </details>
 
 </div>

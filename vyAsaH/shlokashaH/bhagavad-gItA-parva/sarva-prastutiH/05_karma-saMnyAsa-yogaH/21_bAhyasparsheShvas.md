@@ -23,8 +23,9 @@ title = "21 बाह्यस्पर्शेष्वसक्तात्�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.21॥ एवम् उक्तेन प्रकारेण **बाह्यस्पर्शेषु** आत्मव्यतिरिक्तविषयानुभावेष्व् असक्तमना अन्त**रात्मनि** एव यः **सुखं विन्दति** लभते **स** प्रकृत्यभ्यासं विहाय **ब्रह्मयोगयुक्तात्मा** ब्रह्माभ्यासयुक्तमना ब्रह्मानुभवरूपम् **अक्षयं सुखं** प्राप्नोति। प्राकृतस्य भोगस्य सुत्यजताम् आह
@@ -40,12 +41,14 @@ title = "21 बाह्यस्पर्शेष्वसक्तात्�
 5.21 He who finds happiness in the self within himself, his mind detached from external contact in the manner already mentioned, i.e., from experience of objects other than the self - such a person abandoning the contemplation on Prakrti or bodily experiences, has his mind engaged in the contemplation on Brahman i.e., the Atman. Thus he attains everlasting bliss which consists in the experience of Brahman
 (the self). Sri Krsna speaks of the abandonment of material pleasure as easy:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.21॥ **बाह्यस्पर्शेषु** बाह्याश्च ते स्पर्शाश्च बाह्यस्पर्शाः स्पृश्यन्ते इति स्पर्शाः शब्दादयो विषयाः तेषु बाह्यस्पर्शेषु **असक्तः आत्मा** अन्तःकरणं यस्य सः अयम् असक्तात्मा विषयेषु प्रीतिवर्जितः सन् **विन्दति** लभते **आत्मनि यत् सुखं** तत् विन्दति इत्येतत्। **स ब्रह्मयोगयुक्तात्मा** ब्रह्मणि योगः समाधिः ब्रह्मयोगः तेन ब्रह्मयोगेन युक्तः समाहितः तस्मिन् व्यापृतः आत्मा अन्तःकरणं यस्य सः ब्रह्मयोगयुक्तात्मा **सुखम् अक्षयम् अश्नुते** व्याप्नोति। तस्मात् बाह्यविषयप्रीतेः क्षणिकायाः इन्द्रियाणि निवर्तयेत् आत्मनि अक्षयसुखार्थी इत्यर्थः॥ इतश्च निवर्तयेत्
 </details>
@@ -153,12 +156,14 @@ withdraw:
 महानरकानुबन्धिन्याः सकाशादिन्द्रियाणि निवर्तयेत्तावतैव च ब्रह्मणि
 स्थितिर्भवतीत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.21॥ पुनर्योगस्याधिक्यं स्पष्टयति बाह्यस्पर्शेष्विति। कामरहित आत्मनि
 यत्सुखं विन्दति स एव ब्रह्मयोगयुक्तात्मा चेत्तदेवाक्षयं सुखं विन्दति।
@@ -182,12 +187,14 @@ withdraw:
 सन्न्यासमात्रेण तिरोभावोपेतं त्वल्पत्वादफलमेवेत्युक्तमेव 5।6।
 व्याख्यानान्तरे तु बहूनां पदानां वैयर्थ्यमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.21॥ बाह्यस्पर्शे विषयात्मनि सक्तिर्यस्य नास्ति स ह्येवं मन्यते इत्याह ।
 </details>
@@ -196,12 +203,14 @@ withdraw:
 
 5.21 He, in whom there is no desire for the external touch viz., the object-he thinks says as follows the Bhagawat -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.20 5.21॥ तादृशस्य परमानन्दावाप्तिगमकं लक्षणमाह द्वाभ्यां न
 प्रहृष्येदिति। यतः स्थिरबुद्धिः सम्मोहस्यासुरत्वात्तद्रहितश्च
@@ -219,10 +228,13 @@ withdraw:
 सद्भावात्मके युक्त आत्मा यस्य तादृशो भवति। अक्षयं तद्दास्यात्मकं
 सुखमश्नुते भुङ्क्त इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.21॥ मोहनिवृत्त्या बुद्धिस्थैर्यहेतुमाह **बाह्यस्पर्शेष्विति।**
 इन्द्रियैः स्पृश्यन्त इति स्पर्शा विषयाः
@@ -231,10 +243,13 @@ withdraw:
 योगेन समाधिना युक्तस्तदैक्यं प्राप्त आत्मा यस्य सोऽक्षय्यं सुखमश्नुते
 प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.21 He whose mind is detached from external contact, and finds happiness in the self - he has his mind engaged in the contemplation of Brahman and he enjoys undecaying bliss.
@@ -269,11 +284,13 @@ happiness; सः he; ब्रह्मयोगयुक्तात्मा 
 enjoys.Commentary When the mind is not attached to external objects of the senses; when one is deeply engaged in the contemplation of Brahman;
 he finds undecaying bliss in the Self within. If you want to enjoy the imperishable happiness of the Self within; you will have to withdraw the senses from their respective objects and plunge yourself in deep meditation on the Self within. This is the gist of this verse.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.21।। बाह्यस्पर्शमें आसक्तिरहित अन्तःकरणवाला साधक आत्मामें जो सुख है,
@@ -364,6 +381,7 @@ he finds undecaying bliss in the Self within. If you want to enjoy the imperisha
 ।।5.21।। बाह्य विषयों में आसक्तिरहित अन्त:करण वाला पुरुष आत्मा में ही
 सुख प्राप्त करता है; ब्रह्म के ध्यान में समाहित चित्त वाला पुरुष अक्षय
 सुख प्राप्त करता है।।
+</details>
 </details>
 
 </div>

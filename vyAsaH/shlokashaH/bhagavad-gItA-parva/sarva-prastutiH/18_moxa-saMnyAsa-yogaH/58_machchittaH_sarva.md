@@ -23,8 +23,9 @@ title = "58 मच्चित्तः सर्वदुर्गाणि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.58॥ मच्चित्तः सर्वकर्माणि कुर्वन् सर्वाणि सांसारिकाणि **दुर्गाणि मत्प्रसादाद्** एव **तरिष्यसि। अथ त्वम् अहङ्काराद्** अहम् एव कृत्याकृत्यविषयं सर्वं जानामि इति भावान् मदुक्तं **न श्रोष्यसि चेद् विनङ्क्ष्यसि** नष्टो भविष्यसि। न हि कश्चिद् मद्व्यतिरिक्तः कृत्स्नस्य प्राणिजातस्य कृत्याकृत्ययोर् ज्ञाता शासिता वा अस्ति।
@@ -39,12 +40,14 @@ title = "58 मच्चित्तः सर्वदुर्गाणि"
 
 18.58 Thus, focusing your thought on Me, if you can perform all acts, you will, by My grace, cross over all difficulties of Samsara. If, however, out of 'self-conceit,' i.e., out of the feeling, 'I know well what is to be done and what is not to be done' - out of such a feeling, if you do not heed My words, you shall perish. Except Myself, there is none who knows what ought and what ought not to be done by all living beings; there is also none other than Myself who is in the position of a law-giver to them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.58॥ --,**मच्चितः सर्वदुर्गाणि** सर्वाणि दुस्तराणि संसारहेतुजातानि **मत्प्रसादात् तरिष्यसि** अतिक्रमिष्यसि। **अथ चेत्** यदि **त्वं** मदुक्तम् **अहंकारात्** पण्डितः अहम् इति **न श्रोष्यसि** न ग्रहीष्यसि; ततः त्वं **विनङ्क्ष्यसि** विनाशं गमिष्यसि॥ इदं च त्वया न मन्तव्यम् स्वतन्त्रः अहम्; किमर्थं परोक्तं करिष्यामि इति --,
 </details>
@@ -100,12 +103,14 @@ another's bidding;'
 श्रोष्यसि मद्वचनार्थं न करिष्यसि ततो विनङ्क्ष्यसि पुरुषार्थाद्भ्रष्टो
 भविष्यसि कामकारेण संन्यासाद्याचरन्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.58॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -114,12 +119,14 @@ another's bidding;'
 
 ॥18.58॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -130,12 +137,14 @@ another's bidding;'
 
 18.58 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.58॥ ततो यद्भावि तदवधेहि; मच्चित्तः सर्वदुर्गाणीति। सर्वकृच्छ्राणि
 सङ्कटरूपाणि तरिष्यसि। अथ चेदिति उपपत्तिः। मतान्तरस्थितिमाशङ्क्य न
@@ -150,10 +159,13 @@ another's bidding;'
 अहङ्कारात् स्वज्ञानाभिमानेनावश्यं कर्मभोगनैयत्यादकरणार्थं चेत् त्वं न
 श्रोष्यसि तदा विनङ्क्ष्यसि मत्सम्बन्धाद्भ्रश्यसीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.58॥ ततो यद्भविष्यति तच्छृणु **-- मच्चित्त इति।** मच्चित्तः सन्
 मत्प्रसादात्सर्वाण्यपि दुर्गाणि दुस्तराणि सांसारिकाणि दुःखानि तरिष्यसि।
@@ -161,10 +173,13 @@ another's bidding;'
 पुनस्त्वमहकाराज्ज्ञातृत्वाभिमानान्मदुक्तमेतन्न श्रोष्यसि तर्हि
 विनङ्क्ष्यसि पुरुषार्थाद्भश्यसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.58 Focusing your thought on Me, you shall, by My grace, cross over all difficulties. If, however, out of self-conceit, you do not heed Me,
@@ -199,11 +214,13 @@ then indeed thou shalt be lost.
 if; त्वम् thou; अहङ्कारात् from egoism; न not; श्रोष्यसि (thou) wilt hear; विनङ्क्ष्यसि (thou) shalt perish.Commentary When thy mind; O Arjuna; through onepointed devoion is fixed on Me; thou shalt by My grace cross over all difficulties and obstacles. But shouldst thou not take My teaching to heart and through pride disregard it; thou shalt be ruined.Difficulties Obstacles; snares; pitfalls; temptations on the spiritual path and various sorts of other difficulties of Samsara;
 diseases; etc.Egosim The idea that thou art a learned man. Thou shouldst not think I am independent. I know everything. I am a wise man. Why should I take the advice of another
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.58।। मेरेमें चित्तवाला होकर तू मेरी कृपासे सम्पूर्ण विघ्नोंको तर
@@ -370,6 +387,7 @@ diseases; etc.Egosim The idea that thou art a learned man. Thou shouldst not thi
 ।।18.58।। मच्चित्त होकर तुम मेरी कृपा से समस्त कठिनाइयों (सर्वदुर्गाणि)
 को पार कर जाओगे; और यदि अहंकारवश (इस उपदेश को) नहीं सुनोगे, तो तुम नष्ट
 हो जाओगे।।
+</details>
 </details>
 
 </div>

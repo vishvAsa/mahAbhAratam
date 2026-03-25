@@ -23,8 +23,9 @@ title = "02 इदञ् ज्ञानमुपाश्रित्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.2॥**इदं** वक्ष्यमाणं **ज्ञानम् उपाश्रित्य मम साधर्म्यम् आगताः** मत्साम्यं प्राप्ताः; **सर्गे अपि न उपजायन्ते न** सृजिकर्मतां भजन्ते; **प्रलये न व्यथन्ति च;** न च संहृतिकर्मतां भजन्ते।  
@@ -41,12 +42,14 @@ title = "02 इदञ् ज्ञानमुपाश्रित्य"
 
 14.2 They, 'resorting to this knowledge' which will be expounded later, come to partake of My nature, and they attain My status. 'They are not born at the time of creation,' they are not subjected to the process of creation, and they 'suffer not at the time of dissolution,' i.e. they are not subjected to the distress involved in dissolution of the universe. In order to show how the Gunas of Prakrti constitute the cause of bondage, Sri Krsna now declares that, the aggregation of beings, born from the conjunction of Purusa and Prakrti as stated already in the passages, 'Whatever being is born' (13.26), is brought about by the Lord Himself:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.2॥ --,**इदं ज्ञानं** यथोक्तमु**पाश्रित्य;** ज्ञानसाधनम् अनुष्ठाय इत्येतत्; **मम** परमेश्वरस्य **साधर्म्यं** मत्स्वरूपताम् **आगताः** प्राप्ताः इत्यर्थः। न तु समानधर्मता साधर्म्यम्; क्षेत्रज्ञेश्वरयोः भेदानभ्युपगमात् गीताशास्त्रे। फलवादश्च अयं स्तुत्यर्थम् उच्यते। **सर्गेऽपि** सृष्टिकालेऽपि न **उपजायन्ते।** न उत्पद्यन्ते। **प्रलये** ब्रह्मणोऽपि विनाशकाले न **व्यथन्ति च** व्यथां न आपद्यन्ते; न च्यवन्ति इत्यर्थः॥ क्षेत्रक्षेत्रज्ञसंयोगः ईदृशः भूतकारणम् इत्याह --,
 </details>
@@ -139,12 +142,14 @@ beings:
 हिरण्यगर्भादिषूत्पद्यमानेष्वपि नोपजायन्ते। प्रलये ब्रह्मणोऽपि विनाशकाले
 न व्यथन्ति च न व्यथन्ते। नच लीयन्त इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.2॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -153,12 +158,14 @@ beings:
 
 ॥14.2॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.2॥ इदमिति। व्ययन्ति इति छान्दसत्वात् तिङ्प्रत्ययः। एवमन्यत्रापि सुप्तिङ्प्रत्यये वाच्यम्।
 </details>
@@ -167,12 +174,14 @@ beings:
 
 14.2 Idam etc. Vyathanti : The suffix tip (Personal Termination, Third person, Singular) is due to Vedism. The same may be stated in other \[similar\] instances of the suffixes of Case Terminations and Personal Terminations. Now to begin with, \[the Bhagavat\] speaks of the seence in the cycle of birth and death. For, if what is to be abandoned is understood along with its cause then it is easy to abandon that -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.2॥ इदं वक्ष्यमाणं मम साधर्म्यं षड्गुणवत्तया साम्यं प्राप्ता एके ते
 सर्गेऽपि नोपजायन्ते; प्रलये च न व्यथन्ति किन्तु नित्यं समीपे
@@ -188,20 +197,26 @@ beings:
 नोपजायन्ते। च पुनः प्रलये सृष्टिसंहारे न व्यथन्ति; न पुनरावर्तन्त
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.2॥ किंच **-- इदमिति**। इदं वक्ष्यमाणं ज्ञानमुपाश्रित्य इदं
 ज्ञानसाधनमनुष्ठाय मम साधर्म्यं मद्रूपत्वं प्राप्ताः सन्तः सर्गेऽपि
 ब्रह्मादिषूत्पद्यमानेष्वपि नोत्पद्यन्ते तथा प्रलयेऽपि न व्यथन्ति प्रलये
 दुःखानि नानुभवन्ति। पुनर्नावर्तन्त इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.2 Resorting to this knowledge, partaking of My Nature, they are not born at the time of creation, nor do they suffer at the time of dissolution.
@@ -234,11 +249,13 @@ nor are they affected when it is dissolved.
 My; साधर्म्यम् unity; आगताः have attained to; सर्गे at the time of creation; अपि also; न not; उपजायन्ते are born; प्रलये at the time of dissolution; न not; व्यथन्ति are (they) disturbed; च and.Commentary Having resorted to this knowledge they (the sages) are assimilated into My own nature. They have attained to My Being. They have become identical with Me. They live in Me with no thought of thou or I. They go beyond birth and death. There is no birth for them when creation begins and there is no death for them at the time of dissolution. Having reached Me they attain eternity; immortality and perfection. Having become identical with Me through the attainment of the knowledge of the Self by practising the necessary means; they are neither born at the time of creation nor are they disited at the time of dissolution.
 Knowledge of the Self is eulogised by the Lord in this verse.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.2।। इस ज्ञानका आश्रय लेकर जो मनुष्य मेरी सधर्मताको प्राप्त हो गये
@@ -328,6 +345,7 @@ Knowledge of the Self is eulogised by the Lord in this verse.
 ।।14.2।। इस ज्ञान का आश्रय लेकर मेरे स्वरूप (सार्धम्यम्) को प्राप्त
 पुरुष सृष्टि के आदि में जन्म नहीं लेते और प्रलयकाल में व्याकुल भी नहीं
 होते हैं।।
+</details>
 </details>
 
 </div>

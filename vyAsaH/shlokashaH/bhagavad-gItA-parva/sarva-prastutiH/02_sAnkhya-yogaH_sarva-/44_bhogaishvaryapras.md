@@ -23,8 +23,9 @@ title = "44 भोगैश्वर्यप्रसक्तानान्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.44॥ तेषां **भोगैश्वर्य-प्रसक्तानां** **तया** वाचा भोगैश्वर्य-विषयया **अपहृता**ऽत्मज्ञानानां यथोदिता **व्यवसायात्मिका बुद्धिः समाधौ** मनसि **न विधीयते** न उत्पद्यते। समाधीयते अस्मिन् आत्म-ज्ञानम् इति **समाधिः** मनः। 
@@ -41,12 +42,14 @@ title = "44 भोगैश्वर्यप्रसक्तानान्"
 
 2.42 - 2.44 The ignorant, whose knowledge is little, and who have as their sole aim the attainment of enjoyment and power, speak the flowery language i.e., having its flowers (show) only as fruits, which look apparently beautiful at first sight. They rejoice in the letter of the Vedas i.e., they are attached to heaven and such other results (promised in the Karma-kanda of the Vedas). They say that there is nothing else, owing to their intense attachment to these results. They say that there is no fruit superior to heaven etc. They are full of worldly desires and their minds are highly attached to secular desires. They hanker for heaven, i.e. think of the enjoyment of the felicities of heaven, after which one can again have rirth which offers again the opportunity to perform varied rites devoid of true knowledge and leads towards the attainment of enjoyments and power once again. With regard to those who cling to pleasure and power and whose understanding is contaminated by that flowery speech relating to pleasure and lordly powers, the aforesaid mental disposition characterised by resolution, will not arise in their Samadhi. Samadhi here means the mind. The knowledge of the self will not arise in such minds. In the minds of these persons, there cannot arise the mental disposition that looks on all Vedic rituals as means for liberation based on the determined conviction about the real form of the self. Hence, in an aspirant for liberation, there should be no attachment to rituals out of the conviction that they are meant for the acisition of objects of desire only. It may be estioned why the Vedas, which have more of love for Jivas than thousands of parents, and which are endeavouring to save the Jivas, should prescribe in this way rites whose fruits are infinitesimal and which produce only new births. It can also be asked if it is proper to abandon what is given in the Vedas. Sri Krsna replies to these estions.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.44॥  
 ये एवं विवेक-बुद्धि-रहिताः तेषां कामात्मनां यत् फलं तदाह -
@@ -181,12 +184,14 @@ by that speech which is full of various special rites.
   
 फलवैलक्षण्यम्। विस्तरेण चैतदग्रे प्रतिपादयिष्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.44॥ तेषां सम्यण्युक्तिनिर्णयात्मिका बुद्धिः समाधौ समाध्यर्थे न
 विधीयते। सम्यङ्निर्णीतार्थानामीश्वरे मनस्समाधानं सम्यग्भवति। तद्धि
@@ -211,12 +216,14 @@ by that speech which is full of various special rites.
 हेयहानमुपादेयोपादानं च तद्धि मोक्षसाधनमित्येतत्तु
 श्रुत्यादिप्रसिद्धमेव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.43 2.45॥ तथा च यामिमामित्यादि। ये कामाभिलाषिणः, ते स्वयम् एतां वाचं वेदात्मिकां **पुष्पितां** भविष्यत्-स्वर्ग-फलेन +++(N omit भविष्यत् S reads भविष्यता)+++ व्याप्तां वदन्ति। अत एव जन्मनः कर्मैव फलम् इच्छन्ति - ते **अविपश्चितः**। ते च तयैव स्वयं कल्पितया वेद-वाचा अपहृत-चित्ताः व्यवसाय-बुद्धि-युक्ता अपि न समाधि-योग्याः - तत्र फल-निश्चयत्वात्। इति श्लोकत्रयस्य तात्पर्यम्।
 </details>
@@ -225,12 +232,14 @@ by that speech which is full of various special rites.
 
 2.42-44 Yam imam etc., upto na vidhiyate. Those, who crave for objects of desire, speak, on their own accord, of this flowery Vedic speech which is pervaded by the fruits i.e., the heaven in the future; and who, hence, desire the action itself as the fruit of their birth - these are men without insight. further, having their mind carried away by the same Vedic sentence imagined by themselves, these persons, eventhough they are endowed with the determinate knowledge, are not fit for concentration, because they do not decide this (concentration) as a fruit \[of their action\]. This is the purport of the traid of these verses.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.44॥ तथाभूतानां तेषां तया वाचाऽपहृतचेतसां काम्यकर्मपराणां
 व्यवसायात्मिकैका बुद्धिः समाधिविषयिणी न विधीयते। विशेषेण न स्थाप्यते इति
@@ -242,10 +251,13 @@ by that speech which is full of various special rites.
 ॥2.44॥ ततो भोगैश्वर्यप्रसक्तानां तेषां तया वाचा अपहृतचित्तानां समाधौ
 वैयग्र्यभावेन भगवच्चिन्तने तथा बुद्धिर्न भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.44॥ ततश्च **भोगैश्वर्यप्रसक्तानामिति।** भोगैश्वर्ययोः
 प्रसक्तानामभिनिविष्टानाम्। तया पुष्पितया वाचापहृतमाकृष्टं चेतो  
@@ -254,10 +266,13 @@ by that speech which is full of various special rites.
 तस्मिन्निश्चयात्मिका बुद्धिर्न विधीयते। कर्मकर्तरिप्रयोगः। नोत्पद्यत
 इत्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.42 - 2.44 O! Partha, the unwise, who rejoice in the letter of the Vedas, say, 'There is nothing else.' They are full only of wordly desires and they hanker for heaven. They speak flowery words which offer rirth as the fruit of work. They look upon the Vedas as consisting entirely of varied rites for the attainment of pleasure and power. Those who cling so to pleasure and power are attracted by that speech
@@ -291,11 +306,13 @@ by that speech which is full of various special rites.
 विधीयते is fixed.Commentary Those who cling to pleasure and power cannot have steadiness of mind. They cannot concentrate or meditate. They are ever busy in planning projects for the acisition of wealth and power.
 Their minds are ever restless. They have no poised understanding.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.44।। उस पुष्पित वाणीसे जिसका अन्तःकरण हर लिया गया है अर्थात् भोगोंकी
@@ -398,6 +415,7 @@ Their minds are ever restless. They have no poised understanding.
 ।।2.44।। उससे जिनका चित्त हर लिया गया है ऐसे भोग और एश्र्वर्य‌ मॆ आसक्ति
 रखने वाले पुरुषों के अन्तकरण मे निश्चयात्मक् बुद्धि नही हॊती अर्थात वे
 ध्यान का अभ्यास करने योग्य‌ नही होते।
+</details>
 </details>
 
 </div>

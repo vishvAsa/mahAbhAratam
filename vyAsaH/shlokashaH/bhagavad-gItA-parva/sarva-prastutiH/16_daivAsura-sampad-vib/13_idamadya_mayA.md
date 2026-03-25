@@ -23,8 +23,9 @@ title = "13 इदमद्य मया"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.13॥**इदं** क्षेत्रपुत्रादिकं सर्वं **मया** मत्सामर्थ्येन एव **लब्धम्;** न अदृष्टादिना; **इमं च** **मनोरथम्** अहम् एव **प्राप्स्ये;** न अदृष्टादिसहितः **इदं धनं** मत्सामर्थ्येन लब्धं मे **अस्ति; इदम् अपि पुनः मे** मत्सामर्थ्येन एव **भविष्यति।**
@@ -39,12 +40,14 @@ title = "13 इदमद्य मया"
 
 16.13 This land, sons etc., have I gained solely by my ability and not by the help of any higher force. I shall attain this desire also myself and not by good fortune or any other means. This wealth, gained solely by my ability, is with me. And this also shall be mine through my own ability.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.13॥ --,**इदं** द्रव्यं **अद्य** इदानीं **मया लब्धम्। इदं** च अन्यत् **प्राप्स्ये मनोरथं** मनस्तुष्टिकरम्। **इदं** च **अस्ति इदमपि मे भविष्यति** आगामिनि संवत्सरे **पुनः धनं** तेन अहं धनी विख्यातः भविष्यामि इति॥
 </details>
@@ -94,12 +97,14 @@ famous.
 भविष्यत्यागामिनि संवत्सरे पुनर्धनम्। एवं धनतृष्णाकुलाः पतन्ति
 नरकेऽशुचावित्यग्रिमेणान्वयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.13॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -108,12 +113,14 @@ famous.
 
 ॥16.13॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.13 -- 16.16॥ इहमद्येत्यादि अशुचौ इत्यन्तम्। अनेकचित्ता +++(A अनेकचिन्ताः N अनेकचित्तविभ्रान्ताः)+++ इतिनिश्चयाभावात्। अशुचौ निरये; अवीच्यादौ; जन्ममरणसन्ताने च।
 </details>
@@ -122,12 +129,14 @@ famous.
 
 16.13 See Coment under 16.16
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.13॥ इदमद्य मया लब्धं इति स्पष्टम्।
 </details>
@@ -140,20 +149,26 @@ famous.
 प्राप्स्ये प्राप्स्यामि। इदं भोगाद्यर्थं धनं मेऽस्ति मदिच्छया स्थास्यति;
 गमिष्यतीति न जानन्ति। इदमपि धनं मे पुनः भविष्यति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.13॥ तेषां मनोराज्यं कथयन्नरकप्राप्तिमाह **--** **इदमद्येति
 चतुर्भिः।** प्राप्स्ये प्राप्स्यामि। मनोरथं मनसः प्रियम्। शेषं स्पष्टम्।
 एषां त्रयाणां श्लोकानामित्यज्ञानविमोहिताः सन्तो नरके पतन्तीति
 चतुर्थेनान्वयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.13 'This I have gained today, and this desire I shall attain. This wealth is mine, and this also shall be mine hereaftter .
@@ -188,11 +203,13 @@ this; प्राप्स्ये (I) shall obtain; मनोरथम् des
 wealth.Commentary I will be able to acire all that the world possesses.
 Then I will be the lord of all wealth. No one will be eal to me on the surface of this earth.In future Next year this wealth also shall be mine. I will be known to the world as a man of immense wealth. People will address me as my lord.These demons (who think like this) become selfconceited on account of their wealth. Their heads are swollen with pride. They regard everyone else as worthless as straw. Pride of wealth destroyes their power of discrimination. They strive for happiness but they never obtain it. They are entangled in the meshes of Maya. They are wedded to sin and misry here and hereafter.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.13।। इतनी वस्तुएँ तो हमने आज प्राप्त कर लीं और अब इस मनोरथको प्राप्त
@@ -264,6 +281,7 @@ Then I will be the lord of all wealth. No one will be eal to me on the surface o
 
 ।।16.13।। मैंने आज यह पाया है और इस मनोरथ को भी प्राप्त करूंगा, मेरे पास
 यह इतना धन है और इससे भी अधिक धन भविष्य में होगा।।
+</details>
 </details>
 
 </div>

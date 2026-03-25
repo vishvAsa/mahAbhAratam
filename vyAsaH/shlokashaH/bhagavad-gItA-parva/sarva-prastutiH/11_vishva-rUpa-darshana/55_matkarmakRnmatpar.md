@@ -23,8 +23,9 @@ title = "55 मत्कर्मकृन्मत्परमो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.55॥ वेदाध्ययनादीनि सर्वाणि कर्माणि मदाराधनरूपाणि इति यः करोति स **मत्कर्मकृत मत्परमः** -- सर्वेषाम् आरम्भाणाम् अहम् एव परमोद्देश्यो यस्य स मत्परमः **मद्भक्तः** -- अत्यर्थमत्प्रियत्वेन मत्कीर्तनस्तुतिध्यानार्चनप्रणामादिभिर् विना आत्मधारणम् अलभमानो मदेकप्रयोजनतया यः सततं तानि करोति स मद्भक्तः।**सङ्गवर्जितः** -- मदेकप्रियत्वेन इतरसङ्गम् असहमानः **निर्वैरः सर्वभूतेषु** -- मत्संश्लेषवियोगैकसुखदुःखस्वभावत्वात् स्वदुःखस्य स्वापराधनिमित्तत्वानुसन्धानाच् च सर्वभूतानां परमपुरुषपरतन्त्रत्वानुसन्धानाच् च सर्वभूतेषु वैरनिमित्ताभावात् तेषु निर्वैरः।**यः** एवम्भूतः **स माम् एति;** मां यथावद् अवस्थितं प्राप्नोति। निरस्ताविद्याद्यशेषदोषगन्धो मदेकानुभवो भवति इत्यर्थः।
@@ -40,12 +41,14 @@ title = "55 मत्कर्मकृन्मत्परमो"
 11.55 Whosoever performs all acts like the study of the Vedas described above, considering them as several modes of worship, 'he works for Me.' He who 'looks upon Me as the highest,' namely, one to whom I alone am the highest purpose in all his enterprises, has Me as 'the highest end.' He who is 'devoted to me,' i.e., is greatly devoted to me and hence unable to sustain himself without reciting My names, praising Me, meditating upon Me, worshipping Me, saluting Me etc., he who performs these always considering Me as the supreme end - he is My devotee. He is
 'free from attachments,' as he is attached to me alone, and is therefore unable to have attachment to any other entity. He who is without hatred towards any being, is one who fulfils all the following conditions: his nature is to feel pleasure or pain solely on account of his union or separation from Me; he considers his own sins to be the cause of his sufferings (and not the work of others); he is confirmed in his faith that all beings are dependent on the Parama-purusa. For all these reasons he has no hatred for any one.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.55॥ --,**मत्कर्मकृत्** मदर्थं कर्म मत्कर्म; तत् करोतीति मत्कर्मकृत्। **मत्परमः --** करोति भृत्यः स्वामिकर्म; न तु आत्मनः परमा प्रेत्य गन्तव्या गतिरिति स्वामिनं प्रतिपद्यते अयं तु मत्कर्मकृत् मामेव परमां गतिं प्रतिपद्यते इति मत्परमः; अहं परमः परा गतिः यस्य सोऽयं मत्परमः। तथा **मद्भक्तः** मामेव सर्वप्रकारैः सर्वात्मना सर्वोत्साहेन भजते इति मद्भक्तः। **सङ्गवर्जितः** धनपुत्रमित्रकलत्रबन्धुवर्गेषु सङ्गवर्जितः सङ्गः प्रीतिः स्नेहः तद्वर्जितः। **निर्वैरः** निर्गतवैरः **सर्वभूतेषु** शत्रुभावरहितः आत्मनः अत्यन्तापकारप्रवृत्तेष्वपि। **यः** ईदृशः मद्भक्तः **सः माम् एति;** अहमेव तस्य परा गतिः; न अन्या गतिः काचित् भवति। अयं तव उपदेशः इष्टः मया उपदिष्टः हे **पाण्डव** इति॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -156,12 +159,14 @@ other goal. This is the advice for you, given by Me as desired by you.
   
 जगद्यः स्वभासा निरस्यात्मरूपं ददावादरात्काशिराजं भजे तम्॥1॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.55॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -172,12 +177,14 @@ other goal. This is the advice for you, given by Me as desired by you.
   
 ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.54 -- 11.55॥ भक्त्येति। मत्कर्मेति। अविद्यमानान्यज्ञेयरमणीया येषां भक्तिः परिस्फुरति तेषां \[ ज्ञानवान् \] मां प्रपद्यते +++(; N omit मां प्रपद्यते)+++। वासुदेवः सर्वम् +++(Gita VII; 19 )+++ इत्यादिपूर्वाभिहितोपदेशचमत्कारात् विश्वात्मकं वासुदेवतत्त्वम् अयत्नत एव बोधपदवीमवतरति इति।
 </details>
@@ -186,12 +193,14 @@ other goal. This is the advice for you, given by Me as desired by you.
 
 11.54-55 Bhaktya etc. Mat-karma etc. Those, whose devotion, charming by the absence of any other object in it, bursts forth-to the field of realisation of those persons descends the Vasudea - tattva, the Absolute being, without any effort (on their part) just on account of their appreciation of the advice given earlier as 'Having the realisation that Vasudeva is all, one takes refuge in Me. etc.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.55॥ यद्यप्येवं तथापि त्वादृशस्य
 मन्निगममर्यादायामनुगृहीतत्वान्मदाज्ञया मद्भक्तिपूर्वकमेव स्वधर्मकरणे
@@ -215,20 +224,26 @@ other goal. This is the advice for you, given by Me as desired by you.
 सोऽनन्यो ज्ञातव्य इति भावः। प्रदर्श्य विश्वरूपं स्वं दृढीकृत्याऽर्जुनाय
 वै। श्रीकृष्णः साधनासाध्यं स्वस्वरूपमदर्शयत्॥1॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.55॥ अतः सर्वशास्त्रसारं परमं रहस्यं शृण्वित्याह **--
 मत्कर्मकृदिति।** मदर्थं कर्म करोतीति मत्कर्मकृत्; अहमेव परमः पुरुषार्थो
 यस्य सः; ममैव भक्तो मामेवाश्रितः; पुत्रादिषु सङ्गवर्जितो; निर्वैरश्च
 सर्वभूतेषु एवंभूतो यः स मां प्राप्नोति नान्य इति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.55 Whosoever works for Me, looks upon Me as the highest and is devoted to Me, free from attached and without enmity towards any creature, he comes to Me, O Arjuna.
@@ -263,11 +278,13 @@ who is devoted to Me, who is free from attachment, who bears enmity towards no c
 (duties) for the sake of the Lord; who consecrates all his actions to Him; who serves the Lord with his heart and soul; who regards the Lord as his supreme goal; who lives for Him alone; who works for Him alone;
 who sees the Lord in everything; who sees the whole world as the Cosmic Form of the Lord and therefore cherishes no feeling of hatred or enmity towards any creature even when great injury has been done by others to him; who has no attachment or love to wealth; children; wife; friends and relatives; and who seeks nothing else but the Lord; realises Him and enters into His Being. He becomes one with Him.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the eleventh discourse entitledThe Yoga of the Vision of the Cosmic Form.,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.55।। हे पाण्डवन ! जो मेरे लिये ही कर्म करनेवाला, मेरे ही परायण और
@@ -340,6 +357,7 @@ who sees the Lord in everything; who sees the whole world as the Cosmic Form of 
 ।।11.55।। हे पाण्डव! जो पुरुष मेरे लिए ही कर्म करने वाला है, और मुझे ही
 परम लक्ष्य मानता है, जो मेरा भक्त है तथा संगरहित है, जो भूतमात्र के
 प्रति निर्वैर है, वह मुझे प्राप्त होता है।।
+</details>
 </details>
 
 </div>

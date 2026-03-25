@@ -23,8 +23,9 @@ title = "60 यततो ह्यपि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.60॥ आत्मदर्शनेन विना विषयरागो न निवर्तते अनिवृत्ते विषयरागे **विपश्चितो** यतमानस्य **अपि पुरुषस्य** **इन्द्रियाणि प्रमाथीनि** बलवन्ति **मनः** प्रसह्य **हरन्ति।** एवम् इन्द्रियजय आत्मदर्शनाधीन आत्मदर्शनम् इन्द्रियजयाधीनम् इति ज्ञाननिष्ठा दुष्प्राप्या।
@@ -39,12 +40,14 @@ title = "60 यततो ह्यपि"
 
 2.60 Except by the experience of the self, the hankering for objects will not go away. When the hankering for the sense-objects does not go away, the senses of even a wise man, though he is ever striving to subdue them, become refractory, i.e., become violent and carry away perforce the mind. Thus, the subduing of the senses depends on the vision of the self, and the vision of the self depends on the subduing of the senses. Conseently, i.e., because of this mutual dependence, firm devotion to knowledge is difficult to achieve.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.60॥  
   
@@ -140,12 +143,14 @@ so, therefore,
 धनरक्षकं चाभिभूय तयोः पश्यतोरेव धनं हरन्ति तथेन्द्रियाण्यपि विषयसंनिधाने
 मनो हरन्तीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.60॥ अपरोक्षज्ञानरहितज्ञानिनोऽपि साधारणयत्नवतोऽपि मनो
 हरन्तीन्द्रियाणि। पुरुषस्य शरीराभिमानिनः। को दोषस्ततः प्रमाथीनि
@@ -168,12 +173,14 @@ so, therefore,
 क्षोभणशीलानि न तेन विजितानीति भावः। पुरुषस्य इत्यनेनोभयत्रास्यान्वयं
 दर्शयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.62॥ यत्तस्यापीति। यत् यस्मात् तस्यापि तपस्विनो मन इन्द्रियैः ह्रियते। अथवा यत्तस्य सयत्नस्यापि। योगिना च मन एव जेतव्यमिति द्वितीयो निर्णीतः।
 </details>
@@ -182,12 +189,14 @@ so, therefore,
 
 2.60 Yattasyapi etc. For, the mind of that ascetic too is carried away by the sense-organs. Or, the expression yattasya api denotes 'even of one who exerts'. \[So\], it is but the mind that is to be subdued by a man of Yoga. Thus the second \[estion\] is decided.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.60 2.61॥ तेष्वेव प्रथममुपदेशे कर्त्तव्यतादृढनाय तस्यासनं सहेतुकं
 लक्षयति यततोऽपीति द्वाभ्याम्। यततोऽपि तत्तदिन्द्रियजयाभ्यास एव श्रेयान्
@@ -202,20 +211,26 @@ so, therefore,
 पुरुषस्य यततोऽपि यत्नं कुर्वाणस्यापि प्रमाथीनि प्रकर्षेण मथनशीलानि
 इन्द्रियाणि प्रसभं बलात्कारेण मनो हरन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.60॥ इन्द्रियसंयमं विना तु स्थितप्रज्ञता न संभवति। अतः साधकावस्थायां
 तत्र महान्प्रयत्नः कर्तव्य इत्याह **यततो** **ह्यपीति द्वाभ्याम्।**
 यततो मोक्षे प्रयतमानस्यापि विपश्चितो विवेकिनोऽपि मन इन्द्रियाणि प्रसभं
 बलाद्धरन्ति। यतः प्रमाथीनि प्रमथनशीलानि प्रक्षोभकाणि।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.60 The turbulent senses, O Arjuna, do carry away perforce the mind of even a wise man, though he is ever striving.
@@ -247,11 +262,13 @@ so, therefore,
 the mind.Commentary The aspirant should first bring the senses under his control. The senses are like horses. If you keep the horses under your perfect control you can reach your destinaton safely. Turbulent horses will throw you down on the way. Even so the turbulent senses will hurl you down into the objects of the senses and you cannot reach your spiritual destination; viz.; Param Dhama (the supreme abode) or the abode of eternal peace and immortality or Moksha (final liberation).
 (Cf.III.33V.14).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.60।। हे कुन्तीनन्दन! (रसबुद्धि रहनेसे) यत्न करते हुए विद्वान्
@@ -316,6 +333,7 @@ the mind.Commentary The aspirant should first bring the senses under his control
 
 ।।2.60।। हे कौन्तेय (संयम का) प्रयत्न करते हुए बुद्धिमान (विपश्चित)
 पुरुष के भी मन को ये इन्द्रियां बलपूर्वक हर लेती हैं।।
+</details>
 </details>
 
 </div>

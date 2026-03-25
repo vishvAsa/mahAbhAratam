@@ -23,8 +23,9 @@ title = "03 आरुरुक्षोर्मुनेर्योगङ्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 कर्मयोग एव अप्रमादेन योगं साधयति इत्याह - 
@@ -42,12 +43,14 @@ title = "03 आरुरुक्षोर्मुनेर्योगङ्"
 6.3 Karma Yoga is said to be the means for an aspirant for release who
 'seeks to climb the heights of Yoga,' i.e., the vision of the self. For the same person, when he has climbed the 'heights of Yoga,' i.e., when he is established in Yoga - tranility, i.e., freedom from actions is said to be the means. A man should perform actions until he has attained release (Moksa) in the form of the vision of the self. Full release comes only with the fall of the body. The 'vision of the self' referred to here is called Moksa by courtesy. When does not become established in Yoga; Sri Krsna replies:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.3॥ **आरुरुक्षोः** आरोढुम् इच्छतः अनारूढस्य ध्यानयोगे  अवस्थातुम् अशक्तस्यैवेत्यर्थः।  
 कस्य? तस्य आरुरुक्षोः **मुनेः** कर्म-फल-संन्यासिन इत्यर्थः।  
@@ -176,12 +179,14 @@ established in Yoga:
 तस्यैव पूर्वं कर्मिणोऽपि सतः शमः सर्वकर्मसंन्यासएव कारणमनुष्ठेयतया
 ज्ञानपरिपाकसाधनमुच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.3॥ कियत्कालं कर्म कर्त्तव्यं इत्यत आह आरुरुक्षोर्मुनेरिति।
 योगमारुरुक्षोपायसम्पूर्तिमिच्छोः। योगमारूढस्य सम्पूर्णोपायस्य
@@ -225,12 +230,14 @@ established in Yoga:
 तेषामेव सम्यगेव समाधिश्च जायत इति योजना। वर्तयन्ति वर्तन्ते कालं
 नयन्तीति वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.3॥ यद्यपि द्यूतम् +++(N हतम्)+++ असिंहासननं राज्यम् इति रीत्या युक्त्या च केवलस्य निष्क्रियस्य संन्यासित्वं नोपपद्यते +++(K उपपद्यते)+++ इत्युक्तम्। तथापि आरुरुक्षोरिति मुनेः ज्ञानवतः कर्म करणीयम् कारणं प्रापकम्। शमः प्राप्तभूमावुपरमः +++(NK भूमावनुपरमः)+++। कारणमत्र लक्षणम्।
 </details>
@@ -239,12 +246,14 @@ established in Yoga:
 
 6.3 Aruruksoh etc for a sage : For a man of wisdom. Action : that which requires to be performed. Cause (1st) : a means to attain. Quietude : to remain uninterrupted at the stage \[already\] achieved. Here Cause (2nd) is an indicator.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.3॥ तत्र योगेऽपि साङ्ख्यवत्कर्त्तव्यव्यवस्थामाह आरुरुक्षोरिति।
 योगमात्मसंयमनं पदमारुरुक्षोरधिकारिणस्त्वादृशस्योक्तरीत्या कर्म
@@ -264,20 +273,26 @@ established in Yoga:
 
 तस्यैव सेवादि-करणेन **योगारूढस्य** संयोग-रस-व्याप्त-मनसः **शमः** अनुकरणादि-कृति-रहित-भावना-प्रवण-स्थितिः **कारणम् उच्यते** कथ्यते तत्-प्राप्त्य्-अर्थम् इति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.3॥ तर्हि यावज्जीवं कर्मयोग एव प्राप्त इत्याशङ्क्य तस्यावधिमाह
 **आरुरुक्षोरिति।** ज्ञानयोगमारोढुं प्राप्तुमिच्छोः पुंसस्तदारोहे कारणं
 कर्मोच्यते चित्तशुद्धिकरत्वात्। ज्ञानयोगमारूढस्य तु तस्यैव ज्ञाननिष्ठस्य
 शमः समाधिश्चित्तविक्षेपकर्मोपरमो ज्ञानपरिपाके कारणमुच्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.3 Action is said to be the means for the sage who seeks to climb the heights of Yoga; but when he has climbed the heights of Yoga, tranillity is said to be the means.
@@ -313,11 +328,13 @@ the cause; उच्यते is said.Commentary For a man who cannot practise m
 Action purifies his mind and makes the mind fit for the practice of steady meditation. Action leads to steady concentration and meditation.For the sage who is enthroned in Yoga; Sama or renunciation of actions is said to be the means.The more perfectly he abstains from actions; the more steady his mind is; and the more peaceful,he is; the more easily and thoroughly does his mind get fixed in the Self. For a Brahmana there is no wealth like unto the knowledge of oneness and homogeneity (of the Self in all beings); truthfulness; good character;
 steadiness; harmlessness; straightforwardness and renunciation of all actions. (Mahabharata; Santi Parva; 175.38)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.3।। जो योग-(समता-) में आरूढ़ होना चाहता है, ऐसे मननशील योगीके लिये
@@ -404,6 +421,7 @@ steadiness; harmlessness; straightforwardness and renunciation of all actions. (
 ।।6.3।। योग में आरूढ़ होने की इच्छा वाले मुनि के लिए कर्म करना ही हेतु
 (साधन) कहा है और योगारूढ़ हो जाने पर उसी पुरुष के लिए शम को (शांति,
 संकल्पसंन्यास) साधन कहा गया है।।
+</details>
 </details>
 
 </div>

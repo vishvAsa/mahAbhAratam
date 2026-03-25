@@ -26,8 +26,9 @@ title = "01 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 त्रयोदशे प्रकृतिपुरुषयोर् अन्यान्यसंसृष्टयोः स्वरूपयाथात्मयं विज्ञाय अमानित्वादिभिर् भगवद्भक्त्यनुगृहीतैर् बन्धान् मुच्यत इत्य् उक्तम् । तत्र बन्धहेतुः पूर्वपूर्वसत्त्वादिगुणमयसुखादिसङ्ग इति चाभिहितम्, "कारणं गुणसङ्गो ऽस्य सदसद्योनिजन्मसु" इति । अथेदानीं गुणानां बन्धहेतुताप्रकारः, गुणनिवर्तनप्रकारश् चोच्यते ।
@@ -44,12 +45,14 @@ title = "01 श्री भगवानुवाच"
 
 14.1 The Lord said I shall declare again another kind of knowledge which is distinct from what was taught earlier concerning Gunas such as Sattva, falling within the sphere of Prakrti and Purusa. This knowledge going to be revealed is the best of all forms of knowledge concerning the Prakrti and the self. Having gained this knowledge, all sages, namely, those given to meditation, have attained perfection, beyond this world, the sphere of Samsara, having attained the essential and pure form of the self. He further extols this knowledge, distinguishing it by its fruits:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 सर्वम् उत्पद्यमानं क्षेत्रक्षेत्रज्ञसंयोगात् उत्पद्यते इति उक्तम् । तत् कथमिति, तत्प्रदर्शनार्थम् ‘परं भूयः’ इत्यादिः अध्यायः आरभ्यते । अथवा, ईश्वरपरतन्त्रयोः क्षेत्रक्षेत्रज्ञयोः जगत्कारणत्वं न तु साङ्ख्यानामिव स्वतन्त्रयोः इत्येवमर्थम् । प्रकृतिस्थत्वं गुणेषु च सङ्गः संसारकारणम् इति उक्तम् । कस्मिन् गुणे कथं सङ्गः ? के वा गुणाः ? कथं वा ते बध्नन्ति इति ? गुणेभ्यश्च मोक्षणं कथं स्यात् ? मुक्तस्य च लक्षणं वक्तव्यम् , इत्येवमर्थं च भगवान् उवाच —
 
@@ -180,12 +183,14 @@ Liberation. And the Lord shows the infallibility of this Perfection:
 मननशीलाः संन्यासिनः सर्वे परां सिद्धिं मोक्षाख्यां इतो देहबन्धनाद्गताः
 प्राप्ताः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.1॥ साधनकृज्ज्ञानदात्रे नमः। साधनं प्राधान्येनोत्तरैरध्यायैर्वक्ति।
 </details>
@@ -202,12 +207,14 @@ Liberation. And the Lord shows the infallibility of this Perfection:
 किञ्चित् \[13।27\] इत्युक्तविवरणपूर्वकंकारणं गुणसङ्गोऽस्य \[13।22\]
 इत्युक्तं गुणसम्बन्धं प्रपञ्च्य तदत्ययसाधनमनेनाध्यायेनोच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.1॥ परमिति। यदेव पूर्वोक्तं ज्ञानं; तदेव पुनः प्रकर्षेण प्रत्येकं गुणस्वरूपनिरूपणाय वैतत्येन +++(S अवैतत्येन)+++ वक्ष्यामि। यज्ज्ञात्वा इत्यनेन अस्य ज्ञानस्य दृष्टप्रत्ययतां प्रसिद्धिं चाह।
 </details>
@@ -216,12 +223,14 @@ Liberation. And the Lord shows the infallibility of this Perfection:
 
 14.1 Param etc. Knowledge has been described earlier; the same I shall again explain thoroughly, i.e., in detail in order to examine individually the nature of the Strands. By knowing which etc.: By this \[the Bhagavat\] proclaims the tested trustworthiness and the popularity of this knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.1॥ अनादित्वान्निर्गुणत्वात्पुरुषो विमलः स्वतः। अनादित्वेऽपि मलिना
 प्रकृतिस्त्रिगुणा यतः॥1॥  
@@ -255,10 +264,13 @@ Liberation. And the Lord shows the infallibility of this Perfection:
 तेषामनेनैवेति ज्ञापितम्। ज्ञानानामुत्तममनेन विशेषणेन
 ज्ञानेष्वेवोत्तमत्वं; न तु भक्तित इति व्यञ्जितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.1॥ पुंप्रकृत्योः स्वतन्त्रत्वं वारयन्गुणसङ्गतः। प्राह
 संसारवैचित्र्यं विस्तरेण चतुर्दशे॥1॥  
@@ -274,10 +286,13 @@ Liberation. And the Lord shows the infallibility of this Perfection:
 मोक्षहेतुत्वात्। तदेवाह। यज्ज्ञात्वा प्राप्य मुनयो मननशीलाः सर्वे इतो
 देहबन्धनात्परां सिद्धिं गताः प्राप्ताः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.1 The Lord said I shall declare again another kind of knowledge: It is the best of all forms of knowledge, by knowing which all the sages have attained the state of perfection beyond this world.
@@ -312,11 +327,13 @@ of all knowledge; ज्ञानम् knowledge; उत्तमम् the bes
 सिद्धिम् to perfection; इतः after this life; गताः gone.Commentary Further analysis of the field is made in this chapter.In chapter XIII;
 verse 21; it has been stated that attachment to the alities is the cause of Samsara or births in good and evil wombs. In this chapter the Lord gives answers to the estions What are the alities of Nature (Gunas) How do they bind a man What are the characteristics of these alities How do they operate How can one obtain freedom from them What are the characteristics of a liberated soulAll knowledge has no reference to the knowledge described in chapter XIII; verse 7 to 10; but it refers to that kind of knowledge which concerns sacrifices. That kind of knowledge which relates to sacrifices cannot give liberation. But the knowledge which is going to be imparted in this discourse will certainly lead to emancipation. The Lord eulogises this knowledge by the epithets supreme and the best in order to create great interest in Arjuna and other spiritual aspirants.Having learnt this supreme knowledge; all the sages who practised Manana or reflection (Munis) have attained perfection after being freed from bondage to the body.Itah After this life after being freed from this bondage to the body.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.1।। श्रीभगवान् बोले -- सम्पूर्ण ज्ञानोंमें उत्तम और पर ज्ञानको मैं
@@ -426,6 +443,7 @@ verse 21; it has been stated that attachment to the alities is the cause of Sams
 ।।14.1।। श्री भगवान् ने कहा -- समस्त ज्ञानों में उत्तम परम ज्ञान को मैं
 पुन: कहूंगा, जिसको जानकर सभी मुनिजन इस (लोक) से जाकर (इस जीवनोपरान्त)
 परम सिद्धि को प्राप्त हुए हैं।।
+</details>
 </details>
 
 </div>

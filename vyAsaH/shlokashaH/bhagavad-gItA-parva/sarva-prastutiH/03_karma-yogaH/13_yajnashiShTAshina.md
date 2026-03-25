@@ -23,8 +23,9 @@ title = "13 यज्ञशिष्टाशिनः सन्तो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 तद् एव विवृणोति -
@@ -54,12 +55,14 @@ title = "13 यज्ञशिष्टाशिनः सन्तो"
 
 3.13 Those persons who acire food materials solely for propitiating the Supreme Person abiding as the Self of Indra and other deities, and who, after cooking them, propitiate, through them, the Supreme Person as He is, and then sustain themselves on the remnants of oblations (made for such propitiation), they alone will be free of impurities which have resulted from beginningless evil and which are inimical to the vision of the self. But they are evil-minded, who acire for selfish use the things which the Supreme Being, abiding as the Self of Indra and other deities, has granted them for worshipping Him with, and use it all on the other hand for feeding themselves - they eat only sin. Turning away from the vision of the self, they cook only for being led to Naraka (for the expiation of the sin incurred thery). Sri Krsna says that, from the standpoint of the world as well as that of the scriptures, everything has its origin in sacrifice; and He speaks of the need for the performance of the sacrifices and of the blemish in not performing the same:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.13॥ देवयज्ञादीन् निर्वर्त्य तच्छिष्टम् अशनम् अमृताख्यम् अशितुं शीलं येषां ते **यज्ञशिष्टाशिनः सन्तः मुच्यन्ते सर्वकिल्बिषैः** सर्वपापैः चुल्ल्यादिपञ्चसूनाकृतैः प्रमादकृतहिंसादिजनितैश्च अन्यैः। ये तु आत्मंभरयः **भुञ्जते ते तु अघं** पापं स्वयमपि **पापाः** **ये पचन्ति** पाकं निर्वर्तयन्ति **आत्मकारणात्** आत्महेतोः॥ इतश्च अधिकृतेन कर्म कर्तव्यम् जगच्चक्रप्रवृत्तिहेतुर्हि कर्म। कथमिति उच्यते
 </details>
@@ -169,12 +172,14 @@ answered:
 नित्यकर्मणाम्। अधिकृतेन नित्यानि कर्माण्यवश्यमनुष्ठेयानीति
 प्रजापतिवनार्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.13॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -183,12 +188,14 @@ answered:
 
 ॥3.13॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.13॥ यज्ञशिष्टेति। अवश्यकर्तव्यतारूपशासनमहिमायातान् भोगान् येऽश्नन्ति अवान्तरव्यापारमात्रतया अत एव च पृथक्फलत्वाभावाङ्गतया अथ च इन्द्रियात्मकदेवगणतर्पणलक्षणयज्ञादवशिष्टम् अन्तःसारस्वात्मस्थित्यानन्दलक्षणविघसं येऽश्नन्ति तत्रारूढा ( तत्रामूढाः) भवन्ति तदुपादेयोपायतया+++(S तत्रोपादे )+++ तु विषयभोगं वाञ्छन्ति ते सर्वाकल्बिषैः शुभाशुभैः मुच्यन्ते। ये त्वात्मकारणादिति अविद्यावशात् स्थूलमेव विषयभोगं परत्वेन +++(S भोगपरत्वेन)+++ मन्वानाः आत्मार्थमिदं वयं कुर्म इति कुर्वते त एवाघं शुभाशुभात्मकं लभन्ते।
 </details>
@@ -197,12 +204,14 @@ answered:
 
 3.13 Yajnasista-etc. Those who enjoy the pleasures of obects that have come to them on the authority of laws enjoining what is to be necessarily performed; and who enjoy them viewing \[the enjoyment\] only as a secondary (or intermediate) action and conseently as a subsidiary having no separate purpose; and again those who enjoy the remnant of the necessary action in the form of gratifying the group of the devas of the snese-organs-that residue of food marked with bliss in being firmly established in their own Self - that is to say, those who have mounted upon the Self and are desirous of enjoying objects only as a means to achieve this end - they are freed from all faults of good and bad. Those, who for their own selves etc. : On the other hand, those who believe, under the influence of ignorance, the sheer superficial enjoyment of objects as their final goal, and act with the notion 'We perform this \[act\] for the sake of ourselves' - those persons alone gain the sin in the form of good and bad.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.13॥ यज्ञशिष्टाशिन इति। पञ्चविधयज्ञो भगवत्स्वरूपस्तच्छिष्टाशिनः
 सर्वेऽपि मुच्यन्ते गृहिणः।
@@ -219,10 +228,13 @@ answered:
 सेवाप्रतिबन्धरूपैर्मुच्यन्ते। ये तु पापाः पापरूपा आत्मकारणात् पचन्ति
 पाकादिक्रियां कुर्वन्ति ते तु अघं पापमेव भुञ्जते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/13_yajnashiShTAshina.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/13_yajnashiShTAshina.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.13॥ अतश्च यजन्त एव श्रेष्ठा नेतरा इत्याह **यज्ञशिष्टाशिन इति।**
 वैश्वदेवादियज्ञावशिष्टं येऽश्नन्ति ते पञ्चसूनाकृतैः सर्वैः
@@ -231,10 +243,13 @@ answered:
 त्वात्मनो भोजनार्थमेवान्नं पचन्ति न तु वैश्वदेवाद्यर्थ ते पापा दुराचारा
 अघमेव भुञ्जते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.13 Pious men who eat the remnants of sacrifices are freed from all sins. But the sinful ones who cook only for their own sake earn only sin.
@@ -270,11 +285,13 @@ the fireplace; (4) the place where the waterpot is kept; and (5) the broom. Thes
   
 (twicorn or the people belonging to the first three castes in Hindu society; especially the Brahmin) ought to perform1. DevaYajna Offering sacrifices to the gods which will satisfy them;2. BrahmaYajna or RishiYajna Teaching and reciting the scriptures which will satisfy Brahman and the Rishis;3. PitriYajna Offering libations of water to ones ancestors which will satisfy the manes;4. NriYajna The feeding of the hungry and the guests; and;5. BhutaYajna The feeding of the subhuman species; such as animals; birds; etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/13_yajnashiShTAshina.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.13।। यज्ञशेष- (योग-) का अनुभव करनेवाले श्रेष्ठ मनुष्य सम्पूर्ण
@@ -354,6 +371,7 @@ the fireplace; (4) the place where the waterpot is kept; and (5) the broom. Thes
 ।।3.13।। यज्ञ के अवशिष्ट अन्न को खाने वाले श्रेष्ठ पुरुष सब पापों से
 मुक्त हो जाते हैं किन्तु जो लोग केवल स्वयं के लिये ही पकाते हैं वे तो
 पापों को ही खाते हैं।।
+</details>
 </details>
 
 </div>

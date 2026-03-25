@@ -23,8 +23,9 @@ title = "64 रागद्वेषवियुक्तैस्तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.64॥ उक्तेन प्रकारेण मयि सर्वेश्वरे चेतसः शुभाश्रयभूते न्यस्तमना निर्दग्धाशेषकल्मषतया **रागद्वेषवियुक्तैर् आत्मवश्यैर् इन्द्रियैर् विषयान् चरन्** विषयान् तिरस्कृत्य वर्तमानो **विधेयात्मा** विधेयमनाः **प्रसादम् अधिगच्छति।** निर्मलान्तःकरणो भवति इत्यर्थः।
@@ -39,12 +40,14 @@ title = "64 रागद्वेषवियुक्तैस्तु"
 
 2.64 Having focussed, in the way already described, the mind on Me - the Lord of all and the auspicious object of meditation, he who goes through, i.e., considers with contempt the sense-objects, with senses under control and free from hate and attraction by reason of all impurities of mind being burnt out - such a person has a disciplined self, i.e., disciplined mind. He attains serenity. The meaning is that his mind will be free of impurities.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.64॥  
   
@@ -146,12 +149,14 @@ This is being answered:
 स्वाधीनैरिन्द्रियैर्विषयान्प्राप्नोतीति च किं व्रजेतेति
 प्रश्नस्योत्तरमुक्तं भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.64॥ इन्द्रियजयफलमाहोत्तराभ्यां श्लोकाभ्याम् विषयाननुभवन्नपि विधेय
 आत्मा यस्य सः जितात्मेत्यर्थः। प्रसादं मनःप्रसादम्।
@@ -183,12 +188,14 @@ This is being answered:
 नामात्मधर्म इति प्रतीयते तन्निवृत्त्यर्थमाह **प्रसाद**मिति।
 प्रसन्नचेतस इति वक्ष्यमाणत्वादिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.66 2.70॥ रागद्वेषेत्यादि प्रतिष्ठितेत्यन्तम्। यस्तु मनसो नियामकः स विषयान् सेवमानोऽपि न क्रोधादिकल्लोलैरभिभूयते इति स एव स्थितप्रज्ञो योगीति तात्पर्यम्।
 </details>
@@ -197,12 +204,14 @@ This is being answered:
 
 2.64 See Comment under 2.68
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.64 2.65॥ नन्विन्द्रियाणां विषयाभिमुखस्वभावानां
 निरोधस्याशक्यत्वाद्दोषो दुष्परिहर इति कथं प्रज्ञायाः प्रतिष्ठितत्वं
@@ -223,10 +232,13 @@ This is being answered:
 कार्यसिद्धिं भुञ्जतो भगवान् प्रसादं करोति। अत एव श्रीभागवते
 11।14।18बाध्यमानोऽपि इत्यारभ्यविषयैर्नाभिभूयते इत्यन्तेन तथैवोक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.64॥ नन्विन्द्रियाणां विषयप्रवणस्वभावानां विरोद्धुमशक्यत्वादयं दोषो
 दुष्परिहर इति स्थितप्रज्ञत्वं कथं स्यादित्याशङ्क्याह **रागेति**
@@ -236,10 +248,13 @@ This is being answered:
 भुञ्जीतेत्यस्य चतुर्थप्रश्नस्य
 स्वाधीनैरिन्द्रियैर्विषयानधिगच्छतीत्युत्तरमुक्तं भवति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.64 But he who goes through the sense-objects with the senses free from love and hate, disciplined and controlled, attains serenity.
@@ -273,11 +288,13 @@ attains serenity \[of disposition\].
 आत्मवश्यैः selfrestrained; विधेयात्मा the selfcontrolled; प्रसादम् to peace; अधिगच्छति attains.Commentary The mind and the senses are naturally endowed with the two currents of attraction and repulsion.
 Therefore; the mind and the senses like certain objects and dislike certain other objects. But the disciplined man moves among senseobjects with the mind and the senses free from attraction and repulsion and mastered by the Self; attains to the peace of the Eternal. The senses and the mind obey his will; as the disciplined self has a very strong will. The disciplined self takes only those objects which are ite necessary for the maintenance of the body without any love or hatred. He never takes those objects which are forbidden by the scriptures.In this verse Lord Krishna gives the answer to Arjunas fourth estion; How does a sage of steady wisdom move about (Cf.III.7.19;25XVIII.9).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.64 -- 2.65।। वशीभूत अन्तःकरणवाला कर्मयोगी साधक रागद्वेषसे रहित अपने
@@ -394,6 +411,7 @@ Therefore; the mind and the senses like certain objects and dislike certain othe
 ।।2.64।। आत्मसंयमी (विधेयात्मा) पुरुष रागद्वेष से रहित अपने वश में की
 हुई (आत्मवश्यै) इन्द्रियों द्वारा विषयों को भोगता हुआ प्रसन्नता
 (प्रस्ेााद) प्राप्त करता है।।
+</details>
 </details>
 
 </div>

@@ -28,8 +28,9 @@ title = "50 इत्यर्जुनं"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.50॥ सञ्जय उवाच -- एवं पाण्डुतनयं भगवान् वसुदेवसूनुः **उक्त्वा भूयः** स्वकीयम् एव चतुर्भुज**रूपं दर्शयामास;** अपरिचितस्वरूपदर्शनेन **भीतम् एनं पुनः** अपि परिचित**सौम्यवपुर् भूत्वा आश्वासयामास च; महात्मा** सत्यसङ्कल्पः। अस्य सर्वेश्वरस्य परमपुरुषस्य परस्य ब्रह्मणो जगदुपकृतिमर्त्यस्य वसुदेवसूनोश् चतुर्भुजम् एव स्वकीयं रूपं कंसाद् भीतवसुदेवप्रार्थनेन आकंसवधात् पूर्वं भुजद्वयम् उपसंहृतं पश्चाद् आविष्कृतं च।  
@@ -48,12 +49,14 @@ title = "50 इत्यर्जुनं"
 
 11.50 Sanjaya said Having spoken thus to Arjuna, the Lord, the son of Vasudeva, revealed His own four-armed form. And the Mahatman, i.e., one whose resolves are always treu, reassured him who was terror-stricken on seeing ann unfamiliar form, by resuming the familiar pleasant form. Possession of His own four-armed form alone is proper to this Lord of all, the Supreme Person, the Supreme Brahman, when he has assumed the human form for blessing this world as the son of Vasudeva. But in answer to the prayer of Vasudeva, who was terrified by Kamsa, the two extra arms were withdrawn till the destruction of Kamsa. These became manifest again. For He was prayed to thus: 'You are born, O Lord, O Lord of gods, withdraw this form bearing conch, discus and mace out of grace ৷৷. withdraw this form of four arms, O Self of all' (V. P., 5.3.10 and 13). Even to Sisupala, who hated Him, this form of four arms of Sri Krsna was the object of constant thought, as described in: 'Him who is of four long and robust arms, bearing the conch, discus and the mace' (V. P., 4.15.10). Hence Arjuna also exclaimed here; 'Assume again that four-armed shape' (11.46).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.50॥ --,**इति** एवम् **अर्जुनं वासुदेवः तथा**भूतं वचनम् **उक्त्वा; स्वकं** वसुदेवस्य गृहे जातं **रूपं दर्शयामास** दर्शितवान् **भूयः** पुनः। **आश्वासयामास च** आश्वासितवान् **भीतम् एनम्; भूत्वा पुनः सौम्यवपुः** प्रसन्नदेहः **महात्मा**॥**अर्जुन उवाच --,**
 </details>
@@ -114,12 +117,14 @@ saumya-vapuh, serene in form, graceful in body.
 भीतमेनमर्जुनं भूत्वा पुनः पूर्ववत्सौम्यवपुरनुग्रशरीरः महात्मा
 परमकारुणिकः सर्वेश्वरः सर्वज्ञ इत्यादिकल्याणगुणाकरः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.50॥ स्वकं रूपं तु भ्रान्तिप्रतीत्या। अन्यथा तदपि स्वकमेव। प्रमाणानि
 तूक्तानि पुरस्तात्।
@@ -133,12 +138,14 @@ saumya-vapuh, serene in form, graceful in body.
 आह -- **अन्यथे**ति। प्रमाणप्रतीत्येत्यर्थः। कानि तानि प्रमाणानि इत्यत आह
 -- **प्रमाणानी**ति। द्वितीयान्ते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.50॥ No commentary.
 </details>
@@ -147,12 +154,14 @@ saumya-vapuh, serene in form, graceful in body.
 
 11.51 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.50॥ एवं सञ्जय उवाच -- इतीति। स्वकं पूर्वं प्रदर्शितरूपं चतुर्भुजं
 दर्शयामास। तथापि सख्यसारथ्यादिकमनुचितं मत्वा रथादुत्तीर्य स्तोतुकामं
@@ -173,20 +182,26 @@ saumya-vapuh, serene in form, graceful in body.
 तेन कृपया तथा कृतवानिति भावः। यद्वा महतां भक्तानां आत्मा अतो
 भक्तत्वात्तथा कृतवानित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/50_ityarjunaM.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/50_ityarjunaM.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.50॥ एवमुक्त्वा प्राक्तनमेव रूपं दर्शितवानिति संजय उवाच **--
 इतीति।** श्रीवासुदेवोऽर्जुनमेवमुक्त्वा यथा पूर्वमासीत्तथैव
 किरीटादियुक्तं चतुर्भुजं स्वीयं रूपं पुनर्दर्शयामास। एनमर्जुनं भीतमेव
 प्रसन्नवपुर्भूत्वा पुनरप्याश्वासितवान्। महात्मा विश्वरूपः कृपालुरिति वा।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.50 Sanjaya said Having spoken thus to Arjuna, Sri Krsna revealed to him once more His own form. The Mahatman, assuming again a benign form,
@@ -223,11 +238,13 @@ having spoken; स्वकम् His own; रूपम् form; दर्शय
 आश्वासयामास consoled; च and; भीतम् who was terrified; एनम् him; भूत्वा
 having become; पुनः again; सौम्यवपुः of gentle form; महात्मा the greatsouled One.Commentary His own form His form as the son of Vasudeva.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.50।। सञ्जय बोले -- वासुदेवभगवान् ने अर्जुनसे ऐसा कहकर फिर उसी
@@ -264,6 +281,7 @@ having become; पुनः again; सौम्यवपुः of gentle form; �
 ।।11.50।। संजय ने कहा -- भगवान् वासुदेव ने अर्जुन से इस प्रकार कहकर,
 पुन: अपने (पूर्व) रूप को दर्शाया, और फिर, सौम्यरूप महात्मा श्रीकृष्ण ने
 इस भयभीत अर्जुन को आश्वस्त किया।।
+</details>
 </details>
 
 </div>

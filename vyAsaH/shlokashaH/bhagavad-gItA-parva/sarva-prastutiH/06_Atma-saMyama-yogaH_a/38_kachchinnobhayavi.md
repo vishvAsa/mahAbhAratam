@@ -23,8 +23,9 @@ title = "38 कच्चिन्नोभयविभ्रष्टश्छ�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.38॥**उभयविभ्रष्टः** अयं **छिन्नाभ्रम् इव कच्चिन् न नश्यति** यथा मेघशकलः पूर्वस्मान् महतो मेघाच् छिन्नः परं महान्तं मेघम् अप्राप्य मध्ये विनष्टो भवति तथा एव कच्चिन् न नश्यति कथम् उभयविभ्रष्टता **अप्रतिष्ठो विमूढो ब्रह्मणः पथि** इति यथावस्थितं स्वर्गादिसाधनभूतं कर्म फलाभिसन्धिरहितस्य अस्य पुरुषस्य स्वफलसाधनत्वेन प्रतिष्ठा न भवति इत्य् अप्रतिष्ठः। प्रक्रान्ते ब्रह्मणः पथि विमूढस् तस्मात् पथः प्रच्युतो ऽतउभयभ्रष्टतया किम् अयं नश्यत्य् एव उत न नश्यति।
@@ -39,12 +40,14 @@ title = "38 कच्चिन्नोभयविभ्रष्टश्छ�
 
 6.37 - 6.39 Arjuna said What way does he go, who has embarked on Yoga endowed with faith, but who by inadeacy of exertion in practice, does not gain success in Yoga and has his mind wandering from Yoga; Does he not perish like a small piece of cloud torn from a large mass of cloud - perish without reaching another large mass of cloud; Now does he not fall away from both (sides); He has no support and is confused on the path leading to the Brahman. He is without any support in the sense that Karma or rituals which constitutes the means of heaven etc., does not give support for a person who is devoid of attachment to fruits; for Karma is the means for generating its own fruits. He is also confused in the path leading to the Brahman on which he has just begun to traverse; He has lost his way. Does he then get lost by falling down from both sides, these being attainment of heaven on the one hand and liberation on the other. Does he not thus perish; You should remove this doubt altogether from my mind; for there is no other remover of this doubt than You, who always perceive directly all matters simultaneously.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.38॥ **कच्चित्** किं न **उभयविभ्रष्टः** कर्ममार्गात् योगमार्गाच्च विभ्रष्टः सन् **छिन्नाभ्रमिव नश्यति** किं वा न नश्यति **अप्रतिष्ठो** निराश्रयः हे **महाबाहो विमूढः** सन् **ब्रह्मणः पथि** ब्रह्मप्राप्तिमार्गे॥
 </details>
@@ -141,12 +144,14 @@ scattered cloud; Or is it that he does not;
 प्रतिपादितत्वात्। तस्मात्सर्वकर्मत्यागिनं प्रत्येवायं प्रश्नः।
 अनर्थप्राप्तिशङ्कायास्तत्रैव संभवात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.37 6.39॥ अयतिरप्रयत्नः।
 </details>
@@ -155,12 +160,14 @@ scattered cloud; Or is it that he does not;
 
 ॥6.37 6.39॥ अचतुर्थाश्रमीति प्रतीतिनिरासायाह **अयतिरि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.37 6.39॥ अयतः इत्यादि नह्युपपद्यते इत्यन्तम्। प्राप्ताद्योगात् यदि ( N यस्य instead यदि) चलितेऽपि चित्ते श्रद्धा न हीयते। विनष्टश्रद्धौ हि सिद्धयोगोऽपि सर्वं निष्फलं कुरुते। उक्तं हि यदा प्राप्यापि विज्ञानं दूषितं चित्तविभ्रमात्।  
   
@@ -171,12 +178,14 @@ scattered cloud; Or is it that he does not;
 
 6.38 See Comment under 6.39
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.38॥ स्वाभिप्रायं निवेदयति कच्चिदिति।
 उभाभ्यामैहिकपारलौकिकसुखभोगाभ्यां विभ्रष्टस्तु न भवति कच्चित् इति
@@ -194,10 +203,13 @@ scattered cloud; Or is it that he does not;
 पूर्वधर्मत्यागेन स्वधर्मोपार्जितमोक्षफलरहितो भगवन्मार्गस्वरूपाज्ञानात्
 स्वरूपसंयोगरहितो जीवस्वरूपाप्तिभावरहितः कच्चिन्नो नश्यति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.38॥ प्रश्नाभिप्रायं विवृणोति **कच्चिदिति।**
 कर्मणामीश्वरार्पितत्वादननुष्ठानाच्च न तावत्कर्मफलं स्वर्गादिकं
@@ -207,10 +219,13 @@ scattered cloud; Or is it that he does not;
 दृष्टान्तःयथा छिन्नमभ्रं पूर्वस्मादभ्राद्विश्लिष्टमभ्रान्तरं चाप्राप्तं
 सन्मध्य एव विलीयते तद्वदित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.38 Without any support, confused in the path leading to the Brahman,
@@ -246,11 +261,13 @@ supportless; महाबाहो O mightyarmed; विमूढः deluded; �
 पथि in the path.Commentary Both the path of Karma or the path of ritualistic activity in accordance with the Karma Kanda of the Vedas on the one hand and the path of Yoga on the other.Path of Brahman the path by which Brahman can be reached or the way that leads to Brahman.The Yoga taught by the Lord here demands onepointed devotion to its practice. The aspirant turns away from the world and spurns heaven; too.
 Some people held that if he failed to attain the goal; he would have lost everything for nothing. Hence the estion.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.38।। हे महाबाहो ! संसारके आश्रयसे रहित और परमात्मप्राप्तिके मार्गमें
@@ -287,6 +304,7 @@ Some people held that if he failed to attain the goal; he would have lost everyt
 ।।6.38।। हे महबाहो ! क्या वह ब्रह्म के मार्ग में मोहित तथा आश्रयरहित
 पुरुष छिन्न-भिन्न मेघ के समान दोनों ओर से भ्रष्ट हुआ नष्ट तो नहीं हो
 जाता है;
+</details>
 </details>
 
 </div>

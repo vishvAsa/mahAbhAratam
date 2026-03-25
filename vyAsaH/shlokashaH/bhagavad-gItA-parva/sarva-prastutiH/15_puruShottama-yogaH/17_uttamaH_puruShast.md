@@ -23,8 +23,9 @@ title = "17 उत्तमः पुरुषस्त्वन्यः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.17॥**उत्तमः पुरुषस् तु** ताभ्यां क्षराक्षरशब्दनिर्दिष्टाभ्यां बद्धमुक्तपुरुषाभ्याम् **अन्यः** अर्थान्तरभूतः  
@@ -46,12 +47,14 @@ title = "17 उत्तमः पुरुषस्त्वन्यः"
 15.17 But there is the 'Supreme Person who is other than the bound and liberated selves' expressed by the terms, the 'perishable' and the
 'imperishable'. He forms a completely different category. All Srutis call Him the Supreme Self. But by that very designation as the Supreme Self, it may be known that the Supreme Person is a category distinct from the bound and the liberated selves. How; 'Entering the threefold world,' supports it. 'Loka' (world) is that which is perceived. There are three such perceivable worlds, He enters the 'three worlds' which can be understood from the authority of the Srutis. These are the world of unconscient matter, the world of conscient selves conjoined with matter, and the world of liberated selves. As understandable from the Srutis, He enters into these three categories as their Atman and supports them. Thus, He is an entity different from the triad which He pervades and maintains. Further He is different, as He is imperishable and as He is the Lord. Being imperishable, He is different from the bound non-conscient matter whose nature is subject to decay. He is different from the bound conscient selves as the latter is subject to Prakrti and follows its laws. He is also distinguished from the liberated selves, because in their previous condition they were connected with matter and mixed with it. Similarly, He is the Lord of these 'three worlds,' a category distinct from those which have to be ruled.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.17॥ --,**उत्तमः** उत्कृष्टतमः **पुरुषस्तु अन्यः** अत्यन्तविलक्षणः आभ्यां **परमात्मा इति** परमश्च असौ देहाद्यविद्याकृतात्मभ्यः; आत्मा च सर्वभूतानां प्रत्यक्चेतनः; इत्यतः परमात्मा इति **उदाहृतः** उक्तः वेदान्तेषु। स एव विशिष्यते **यः लोकत्रयं** भूर्भुवःस्वराख्यं स्वकीयया चैतन्यबलशक्त्या **आविश्य** प्रविश्य **बिभर्ति** स्वरूपसद्भावमात्रेण बिभर्ति धारयति **अव्ययः** न अस्य व्ययः विद्यते इति अव्ययः। कः **ईश्वरः** सर्वज्ञः नारायणाख्यः ईशनशीलः॥ यथाव्याख्यातस्य ईश्वरस्य पुरुषोत्तमः इत्येतत् नाम प्रसिद्धम्। तस्य नामनिर्वचनप्रसिद्ध्या अर्थवत्त्वं नाम्नो दर्शयन् निरतिशयः अहम् ईश्वरः इति आत्मानं दर्शयति भगवान् --,
 </details>
@@ -144,12 +147,14 @@ the unsurpassable God':
 पोषयति च। कीदृशः; अव्ययः सर्वविकारशून्य ईश्वरः सर्वस्य नियन्ता नारायणः स
 उत्तमः पुरुषः परमात्मेत्युदाहृत इत्यन्वयः। स उत्तमः पुरुषः इति श्रुतेः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.16 -- 15.17॥ क्षरः भूतानि ब्रह्मादीनि। कूटस्था प्रकृतिः। तथा च
 शार्कराक्षश्रुतिः -- प्रजापतिप्रमुखाः सर्वजीवाः क्षरोऽक्षरः पुरुषो वै
@@ -169,14 +174,16 @@ the unsurpassable God':
 संसारबन्धः सोऽस्यास्तीति जालःअर्श आदिभ्योऽच् \[अष्टा.5।2।127\] इति।
 तद्रहितश्चाजालः,अभिमानाभावात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="../18_yasmAtxaramatIto-.md">
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.16 -- 15.18॥ द्वावित्यादि पुरुषोत्तम इत्यन्तम्। 
 
@@ -203,12 +210,14 @@ the unsurpassable God':
 
 15.17 See Comment under 15.18
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.17॥ तदुत्तममाश्रयभूतं मुख्यं स्वरूपमाह (तदधिदैवतम्) उत्तमः
 पुरुषस्त्वन्य इति। तुशब्दः पूर्वतो भेदं दर्शयति। एताभ्यां अन्यो
@@ -240,10 +249,13 @@ the unsurpassable God':
 इति। निर्विकार इत्यर्थः। तर्हि धारणमनुपपन्नमित्यत आह -- ईश्वर इति।
 कर्तुमन्यथाकर्तुं च समर्थः। अतस्तथेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.17॥ यदर्थमेतौ लक्षितौ तमाह **-- उत्तम इति।** एताभ्यां
 क्षराक्षराभ्यामन्यो विलक्षणस्तूत्तमः पुरुषः। वैलक्षण्यमेवाह।
@@ -252,10 +264,13 @@ the unsurpassable God':
 परमात्मत्वमेव दर्शयति यो लोकत्रयमिति। य ईश्वर ईशनशीलः; अव्ययश्च
 निर्विकार एव सन् लोकत्रयं कृत्स्नमाविश्य बिभर्ति पालयति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.17 There is the Supreme Person other than these. He is named the Supreme Self (Paramatma) in all the Vedas. He who, as the Immutable One and the Lord, entering the threefold world, supports it.
@@ -289,11 +304,13 @@ and is the imperisahble God.
 the three worlds; आविश्य pervading; बिभर्ति sustains; अव्ययः the indestructible; ईश्वरः Lord.Commentary Purushottama is beyond the universe though He pervades the three worlds. Therefore He is called the Supreme Being by the Vedas and men of this world. He pervades the three worlds and upholds them yet; He is not tainted by the world. He is above the world or worldliness.Just as the waking state is different from the dram or the deep sleep states; just as the orb of the sun is different from his rays or the mirage they casue; so also is the highest Purusha different from the perishable and the imperishable Purushas.The highest Purusha is the haven of peace. In Him all take their refuge and eternal rest. He is incomparable for He is selfcontained there is nothing like Him. He can only be compared to Himself. The imperishable Being (Akshara Brahman) Who is beyond the world and the Avyaktam (the Unmanifested) are essentially the same as the Purushottama Who transcends both the Kshara and the Akshara.The Purushottama is ite distinct from the two -- Kshara and Akshara. He is the Supreme Being. The physical body; the astral body and the causal body are also termed the Self. But these are secondary selves. Paramatma or the Supreme Self is the primary Self. Purushottama or Paramatma is the supreme or the highest when compared with the other secondary selves created by ignorance. He is the innermost consciousness of all beings. He is the support of everything. He is the Niyanta; the Inner Ruler. He is independent. Therefore He is known as the Supreme Self in the Vedanta.Anyah Another; ite distinct from the two.Lokatrayam The three worlds Bhuh (the earth); Bhuvah (the midregion) and Svah
 (heaven) are the three worlds.Purushottama is further described as follows He is the imperishable and omniscient Lord Narayana Who permeates the three worlds by His vital energy and sustains them by His mere existence in them.Avyaya Imperishable; that which is free from the modifications such as birth; death; etc. Just as the king who rules his subjects and controls them is distinct from them; so also the Supreme Being Who is the ruler of the perishable and the imperishable is distinct from them. (Cf.VIII.20)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.17।। उत्तम पुरुष तो अन्य ही है, जो परमात्मा नामसे कहा गया है। वही
@@ -384,6 +401,7 @@ the three worlds; आविश्य pervading; बिभर्ति sustains; 
 
 ।।15.17।। परन्तु उत्तम पुरुष अन्य ही है, जो परमात्मा कहलाता है और जो
 तीनों लोकों में प्रवेश करके सबका धारण करने वाला अव्यय ईश्वर है।।
+</details>
 </details>
 
 </div>

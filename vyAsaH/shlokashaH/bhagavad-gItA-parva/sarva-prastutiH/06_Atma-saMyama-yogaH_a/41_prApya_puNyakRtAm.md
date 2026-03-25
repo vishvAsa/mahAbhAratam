@@ -23,8 +23,9 @@ title = "41 प्राप्य पुण्यकृताम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.41॥ यज्जातीयभोगाभिकाङ्क्षया योगात् प्रच्युतो ऽयम् अति**पुण्यकृतां** प्राप्यान् **लोकान् प्राप्य** तज्जातीयान् अतिकल्याणभोगान् ज्ञानोपाययोगमाहात्म्याद् एव भुञ्जानो यावत् तद्भोगतृष्णावसानं **शाश्वतीः समाः** तत्र **उषित्वा** तस्मिन् भोगे वितृष्णः **शुचीनां श्रीमतां योगोप**क्रमयोग्यानां कुले योगोपक्रमे **भ्रष्टो** योगमाहात्म्याद् **जायते।**
@@ -39,12 +40,14 @@ title = "41 प्राप्य पुण्यकृताम्"
 
 6.41 This person, who had wandered away from Yoga because of desire for whatever kind of enjoyments, he will gain those very enjoyments through the excellence of Yoga alone. Having attained to the worlds of those who do meritorious acts, he will dwell there for a long time, i.e., till his desire for such enjoyments gets exhausted. Then, devoid of desire for these enjoyment, this person who has swerved from Yoga at the very beginning of Yoga, is born, by virtue of the excellence of Yoga, in a family of those who are competent to practise Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.41॥ योगमार्गे प्रवृत्तः संन्यासी सामर्थ्यात् **प्राप्य** गत्वा **पुण्यकृताम्** अश्वमेधादियाजिनां **लोकान्** तत्र च **उषित्वा** वासमनुभूय **शाश्वतीः** नित्याः **समाः** संवत्सरान् तद्भोगक्षये **शुचीनां** यथोक्तकारिणां **श्रीमतां** विभूतिमतां **गेहे** गृहे **योगभ्रष्टः अभिजायते**॥
 </details>
@@ -125,12 +128,14 @@ are prosperous.
 भोगवासनाप्राबल्याद्ब्रह्मलोकान्ते सर्वकर्मसंन्यासायोग्यो महाराजो
 भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.41॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -139,12 +144,14 @@ are prosperous.
 
 ॥6.41॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.41॥ प्राप्येति। शाश्वतस्य विष्णोः समाः वैष्णवानि त्रीणि वर्षाणि। शुचीनामिति येषां भगवदंशस्पर्शि चित्तम्।
 </details>
@@ -153,12 +160,14 @@ are prosperous.
 
 6.41 Prapya etc. Of Sasvata of Visnu (personal god). \[His\] years : three years of Visnu. Of the pure persons : of those whose mind is prone to touch (to meditate upon) the body (amsa) of the Lord.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.41॥ किन्तु पुण्यकृताल्ँ लोकान् प्राप्य यावत् कल्याणकर्मफलभोगेन
 शाश्वतीः समा वर्षानुषित्वा मध्ये भ्रंशात्पूर्वकृतादेव हेतोरिह
@@ -178,20 +187,26 @@ are prosperous.
 गृहेऽभिजायते जन्म प्राप्नोति। उपसर्गेण सरतिपूर्वकं
 प्राप्तिर्ज्ञापिता।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.41॥ तर्हि किमसा प्राप्नोतीत्यपेक्षायामाह **प्राप्येति।**
 पुण्यकारिणामश्वमेधादियाजिनां लोकान्प्राप्य तत्र शाश्वतीः समाः
 बहून्संवत्सरानुषित्वा वाससुखमनुभूय शुचीनां सदाचाराणां श्रीमतां धनिनां
 गेहे स योगभ्रष्टो जन्म प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.41 He who has fallen away from Yoga is born again in the house of the pure and prosperous after having attained to the worlds of doers of good deeds and dwelt there for many long years.
@@ -226,11 +241,13 @@ worlds; उषित्वा having dwelt; शाश्वतीः everlasting
 of the pure; श्रीमताम् of the wealty; गेहे in the house; योगभ्रष्टः one fallen from Yoga; अभिजायते is born.Commentary Yogabhrashta one who has fallen from Yoga; i.e.; one who was not able to attain perfection in Yoga; or one who climbed a certain height on the ladder of Yoga but fell down on account of lack of dispassion or slackness in the practice (by becoming a victim to Maya or his turbulent senses).The righteous Those who tread the path of truth; who do virtuous actions such as charity;
 Yajna; rituals; worship of the Lord; and who act in accordance with the prescribed rules of the scriptures.Everlasting years means only a considerably long period but not absolutely everlasting.The pure those who lead a pure; moral life those who have a pure heart (free from jealousy; hatred; pride; greed; etc.). (Cf.IX.20;21)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.41।। वह योगभ्रष्ट पुण्यकर्म करनेवालोंके लोकोंको प्राप्त होकर और वहाँ
@@ -290,6 +307,7 @@ Yajna; rituals; worship of the Lord; and who act in accordance with the prescrib
 ।।6.41।। योगभ्रष्ट पुरुष पुण्यवानों के लोकों को प्राप्त होकर वहाँ
 दीर्घकाल तक वास करके शुद्ध आचरण वाले श्रीमन्त (धनवान) पुरुषों के घर में
 जन्म लेता है।।
+</details>
 </details>
 
 </div>

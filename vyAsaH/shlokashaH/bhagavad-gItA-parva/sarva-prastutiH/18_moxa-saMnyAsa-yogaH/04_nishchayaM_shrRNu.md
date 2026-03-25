@@ -23,8 +23,9 @@ title = "04 निश्चयं श्रृणु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.4॥**तत्र** एवं वादिविप्रतिपन्ने **त्यागे** त्यागविषयं **निश्चयं मे** मत्तः **श्रृणु।** **त्यागः** क्रियमाणेष्व् एव वैदिकेषु कर्मसु फलविषयतया; कर्मविषयतया; कर्तृत्वविषयतया च पूर्वम् एव हि मया **त्रिविधःसम्प्रकीर्तितः** -- मयि सर्वाणि कर्माणि सन्न्यस्याध्यात्मचेतसा। निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः॥ (गीता 3।30) इति। कर्मजन्यं स्वर्गादिकं फलं मम न स्याद् इति फलत्यागः। मदीयफलसाधनतया मदीयम् इदं कर्म इति कर्मणि ममतायाः परित्यागः कर्मविषयस् त्यागः सर्वेश्वरे कर्तृत्वानुसन्धानेन आत्मनः कर्तृतात्यागः कर्तृत्वविषयस् त्यागः।
@@ -39,12 +40,14 @@ title = "04 निश्चयं श्रृणु"
 
 18.4 Regarding contradictory versions on Tyaga among disputants, listen from Me My decision. Tyaga has been described by Me in respect of actions prescribed by the scriptures from three points of view: (1) as referring to fruits, (2) as referring to acts themselves and, (3) as referring to agency. It is contained in the statement, 'Surrendering all your actions to Me with a mind focussed on the self,' and 'Free from desire and selfishness and cured of fever - fight' (3.30). The renunciation of fruits consists in the following manner. 'Heaven and such other results arising from acts do not belong to Me.' Renunciation of acts is complete abandonment of the sense of possession in regard to one's acts. This sense of possession is of the following nature: 'Those acts are mine on account of their being the means for fruits which are to be mine.' Renunciation referring to agency is the renunciation of agency of oneself by ascribing the agency to the Lord of all.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.4॥ --,**निश्चयं श्रृणु** अवधारय **मे** मम वचनात् **तत्र त्यागे** त्यागसंन्यासविकल्पे यथादर्शिते **भरतसत्तम** भरतानां साधुतम। **त्यागो हि;** त्यागसंन्यासशब्दवाच्यो हि यः अर्थः सः एक एवेति अभिप्रेत्य आह -- त्यागो हि इति। **पुरुषव्याघ्र; त्रिविधः** त्रिप्रकारः तामसादिप्रकारैः **संप्रकीर्तितः** शास्त्रेषु सम्यक् कथितः यस्मात् तामसादिभेदेन त्यागसंन्यासशब्दवाच्यः अर्थः अधिकृतस्य कर्मिणः अनात्मज्ञस्य त्रिविधः संभवति; न परमार्थदर्शिनः; इत्ययमर्थः दुर्ज्ञानः; तस्मात् अत्र तत्त्वं न अन्यः वक्तुं समर्थः। तस्मात् निश्चयं परमार्थशास्त्रार्थविषयम् अध्यवसायम् ऐश्वरं मे मत्तः श्रृणु॥ कः पुनः असौ निश्चयः इति; आह --,
 </details>
@@ -158,12 +161,14 @@ reply the Lord says:
 संबोधनद्वयेन कुलनिमित्तोत्कर्षः पौरुषनिमित्तोत्कर्षश्च
 योग्यतातिशयसूचनायोक्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.4॥ तत्प्रकारं चाह -- निश्चयमित्यादिना। यज्ञभेद उक्तःद्रव्ययज्ञाः
 \[4।28\] इत्यादिना। दाने त्वभयदानमन्तर्भवति। एतेषां मध्ये
@@ -193,12 +198,14 @@ reply the Lord says:
 --,अज्ञान्कर्मण्यधिकारिणोऽधिकृत्य एतत्प्रकरणं प्रवृत्तं; न
 परमहंसपरिव्राजकानिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.4 -- 18.11॥ तदत्रैव विशेषनिर्णयाय मतान्युपन्यस्यति -- त्याज्यमिति। दोषवत् हिंसादिमत्त्वात् +++(S हिंसादित्त्वात ;N हिंसादिसत्त्वात् )+++ पापयुक्तम्। तत् कर्म,+++(S;;N substitutes फलं for कर्म )+++ त्याज्यम्; न सर्वं शुभफलम् इति केचित् त्यागे विशेषं मन्यन्ते साङ्ख्यगृह्या इव। अन्ये तु मीमांसककञ्चुकानुप्रविष्टाः +++(K मीमांसाकंचुक -- )+++ -- क्रत्वर्थोऽहि शास्त्रादवगम्यते +++(S. IV; i; 2 )+++ इति। तथातस्माद्या वैदिकी हिंसा -- +++(SV. I; i; 2; verse 23 )+++इत्यादिनयेन इतिकर्तव्यतांशभागिनी हिंसा +++(S;;N omit हिंसा )+++ हिंसैव न भवति। न हिंस्यात् इति सामान्यशास्त्रस्य तत्र बाधनात् श्येनाद्येव तु ( श्येन द्येव न तु ) हिंसा। फलांशे भावनायाश्च प्रत्ययोऽनुविधायकः +++(SV; I; i; 2; verse 222 )+++ इति। अ \[ तोऽ \] न्यान् हिंसादियोगिनोऽपि न त्यजेत्। शास्त्रैकशरणकार्याकार्यविभागाः पण्डिता इति मन्यन्ते॥3॥ निश्चयमित्यादि अभिधीयते इत्यन्तम्। तत्र त्वयं निश्चयः -- प्राग्लक्षितगुणस्वरूपवैचित्र्यात् त्यागस्यैव सत्त्वरजस्तमोमय्या चित्तवृत्त्या क्रियमाणस्य तद्विशिष्टस्वभावावभासित \[ त्वात् \] वस्तुस्थित्या त्यागो नाम परब्रह्मविदां +++(; N परमब्रह्म -- )+++ सिद्ध्यसिद्ध्यादिषु समतया रागद्वेषपरिहारेण फलप्रेप्साविरहेण ( फलप्रेक्षा) कर्मणां निर्वर्त्तनम्। अत एव आह -- राजसं तामसं च त्यागं कृत्वा न कश्चित् ( न किंचित् ) \[ त्याग \] फलसंबन्धः; इति। सात्त्विकस्य तु त्यागात् ( त्यागस्य )। शास्त्रार्थपालनात्मकं फलम्। त्यक्तगुणग्रामग्रहस्य पुनर्मुनेः सत्यतः त्यागवाचो युक्तिरुपपत्तिमती।
 </details>
@@ -207,12 +214,14 @@ reply the Lord says:
 
 18.4 See Comment under 18.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.4॥ एवं हि श्रौतो निर्णयः; न तं निश्चिन्वन्तीति स्वयं निर्णयमाह --
 निश्चयं श्रृण्विति। स एव त्यागोऽन्यथाकृतश्चेद्गौणो भवेदित्याह। त्रिविधः
@@ -234,10 +243,13 @@ reply the Lord says:
 पौरुषप्रकटनसमर्थत्वं ज्ञापयित्वाऽऽह -- त्यागो हीति। त्यागो निश्चयेन
 त्रिविधः सम्प्रकीर्तितः सम्यक्प्रकारेण कथितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.4॥ एवं मदभेदमुपन्यस्य स्वमतं कथयितुमाह **-- निश्चयमिति।** तत्रैवं
 विप्रतिपन्ने त्यागे निश्चयं मे वचनाच्छृणु। त्यागस्य
@@ -246,10 +258,13 @@ reply the Lord says:
 यस्मादयं,कर्मत्यागस्तत्त्वविद्भिस्तामसादिभेदेन त्रिविधः सम्यग्विवेकेन
 प्रकीर्तितः। त्रैविध्यं चनियतस्य तु संन्यासः कर्मणः इत्यादिना वक्ष्यति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.4 Listen to My decision, O Arjuna, about abandonment; for abandonment
@@ -285,11 +300,13 @@ has been declared to be of three kinds.
 there; त्यागे about abandonment; भरतसत्तम O best of the Bharatas; त्यागः
 abandonment; हि verily; पुरुषव्याघ्र O best of men; त्रिविधः of three kinds; संप्रकीर्तितः has been declared (to be).Commentary Now the Lord gives His own decisive opinion. It is declared in the scriptures that renunciation is of three kinds; viz.; Sattvic; Rajasic and Tamasic. The Lord alone can teach the truth about the subject. Whoever wants to be liberated from the miseries of this world must understand the real nature of renunciation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.4।। हे भरतवंशियोंमें श्रेष्ठ अर्जुन ! तू संन्यास और त्याग -- इन
@@ -328,6 +345,7 @@ abandonment; हि verily; पुरुषव्याघ्र O best of men; 
 
 ।।18.4।। हे भरतसत्तम ! उस त्याग के विषय में तुम मेरे निर्णय को सुनो। हे
 पुरुष श्रेष्ठ ! वह त्याग तीन प्रकार का कहा गया है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "13 तत्रैकस्थञ्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.13॥**तत्र** अनन्तायामविस्तारे अनन्तबाहूदरवक्त्रनेत्रे अपरिमिततेजस्के अपरिमितदिव्यायुधोपेते स्वोचितापरिमितदिव्यभूषणे दिव्यमाल्याम्बरधरे दिव्यगन्धानुलेपने अनन्ताश्चर्यमये **देवदेवस्य** दिव्ये **शरीरे अनेकधा प्रविभक्तं** ब्रह्मादिविविधविचित्रदेवतिर्यङ्मनुष्यस्थावरादिभोक्तृवर्गपृथिव्यन्तरिक्षस्वर्गपातालातलवितलसुतलादिभोगस्थानभोग्यभोगोपकरणभेदभिन्नं प्रकृतिपुरुषात्मकं **कृत्स्नं जगत्**अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते। (गीता 10।8)हन्त ते कथयिष्यामि विभूतीरात्मनः शुभाः। (गीता 10।19)अहमात्मा गु़डाकेश सर्वभूताशयस्थितः। (गीता 10।20)आदित्यानामहं विष्णुः (गीता 10।21) इत्यादिनान तदस्ति विना यत्स्यान्मया भूतं चराचरम्। (गीता 10।39)विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्॥ (गीता 10।42) इत्यन्तेन उदितम् **एकस्थम्** एकदेशस्थं **पाण्डवः** भगवत्प्रसादलब्धतद्दर्शनानुगुणदिव्यचक्षुः **अपश्यत्।**
@@ -44,12 +45,14 @@ title = "13 तत्रैकस्थञ्"
 with a single fraction of Myself sustaining this whole universe'
 (10.42).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.13॥ --,**तत्र** तस्मिन् विश्वरूपे एकस्मिन् स्थितम् **एकस्थं जगत् कृत्स्नं प्रविभक्तम् अनेकधा** देवपितृमनुष्यादिभेदैः **अपश्यत्** दृष्टवान् **देवदेवस्य** हरेः **शरीरे पाण्डवः** अर्जुनः **तदा**॥
 </details>
@@ -113,12 +116,14 @@ human beings, and others; ekastham, united in the one (Consmic form).
 अपश्यद्देवदेवस्य भगवतः तत्र विश्वरूपे शरीरे पाण्डवोऽर्जुनस्तदा
 विश्वरूपाश्चर्यदर्शनदशायाम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.13॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -127,12 +132,14 @@ human beings, and others; ekastham, united in the one (Consmic form).
 
 ॥11.13॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.13॥ No commentary.
 </details>
@@ -141,12 +148,14 @@ human beings, and others; ekastham, united in the one (Consmic form).
 
 11.13 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.13॥ ततः किं वृत्तं इत्यपेक्षायामाह सञ्जयः -- तत्रेति। अनेकधा
 योनिबीजाशयेन्द्रियाकृतिभेदेन प्रविभक्तं चेतनाचेतनात्मकं चतुर्दशलोकसहितं
@@ -168,19 +177,25 @@ human beings, and others; ekastham, united in the one (Consmic form).
 पूर्वेणैवान्वयः। यदा दर्शितं तदा देवदेवस्य पूज्यानामपि पूज्यस्य शरीरे
 पूर्वप्रतीयमानसूक्ष्मरूप एव पाण्डवः अर्जुनः अपश्यत् दृष्टवान्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.13॥ ततः किं वृत्तमित्यपेक्षायामाह संजयः **-- तत्रेति।** अनेकधा
 प्रविभक्तं नानाविभागेनावस्थितं कृत्स्नं जगद्देवदेवस्य शरीरे
 तदवयवत्वेनैकत्रैव स्थितं तदा पाण्डवोऽर्जुनोऽपश्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.13 There (in that form) Arjuna beheld the whole universe, with its manifold divisions gathered together in one single spot within the body of the God of gods.
@@ -215,11 +230,13 @@ the whole; प्रविभक्तम् divided; अनेकधा in many
 देवदेवस्य of the God of gods; शरीरे in the body; पाण्डवः son of Pandu;
 तदा then.Commentary Tatra There -- in the Cosmic Form.Anekadha Many groups -- gods; manes; men and other species of beings.Arjuna beheld all forms as the forms of the Lord; all heads as His heads; all eyes as His eyes; all hands as His hands; all feet as His feet; every part of every body as the limb of the Lords divine form. Wherever he looked he beheld nothing but the Lord. He got mystic divine knowledge.Sanjaya has given a truly graphic description of the Cosmic Form. Yet; it would be futile to grasp it with the finite mind. It is a transcendental vision; beyond the reach of the mind and senses. It has to be realised in Samadhi.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.13।। उस समय अर्जुनने देवोंके देव भगवान् के उस शरीरमें एक जगह स्थित
@@ -270,6 +287,7 @@ the whole; प्रविभक्तम् divided; अनेकधा in many
 ।।11.13।। पाण्डुपुत्र अर्जुन ने उस समय अनेक प्रकार से विभक्त हुए
 सम्पूर्ण जगत् को देवों के देव श्रीकृष्ण के शरीर में एक स्थान पर स्थित
 देखा।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "07 योगयुक्तो विशुद्धात्मा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.7॥ कर्म**योगयुक्तः** तु शास्त्रीये परमपुरुषाराधनरूपे विशुद्धे कर्मणि वर्तमानस् तेन विशुद्धमनाः **विजितात्मा** स्वाभ्यस्ते कर्मणि व्याप्तमनस्त्वेन सुखेन विजितमनास् तत एवं **जितेन्द्रियः** कर्तुर् आत्मनोयाथात्म्यानुसन्धाननिष्ठतया **सर्वभूतात्मभूतात्मा। सर्वेषां देवादिभूतानाम् आत्मभूत आत्मा यस्य असौ सर्वभूतात्मभूतात्मा आत्मयाथात्म्यम् अनुसन्दधानस्य हि देवादीनां स्वस्य च एकाकार आत्मा देवादिभेदानां प्रकृतिपरिणामविशेषरूपतया आत्माकारत्वासम्भवात्।  
@@ -41,12 +42,14 @@ title = "07 योगयुक्तो विशुद्धात्मा"
 
 5.7 But a Karma Yogin remains engaged in the performance of pure actions prescribed by the Sastras, which are of the nature of propitiation of the Supreme Person. By this, he becomes purified in mind. He thus subdues his self, i.e., subdues his mind easily, because his mind is engaged in the virtuous actions he has been performing before. Therefore his senses are subdued. His self is said to have become the self of all beings. Because of his being devoted to contemplation on the true nature of the self, he finds that his self is similar to the self of all beings like gods etc. One who contemplates on the true nature of the self understands that all selves are of the same form or nature. The distinctions obtaining among gods, men etc., cannot pertain to the form of the self, because those distinctions are founded on particular modifications of Prakrti i.e., the bodies of beings. Sri Krsna will teach: 'For the Brahman (an individual self), when untainted, is the same everywhere' (5.19). The meaning of this is that when dissociated from the Prakriti, i.e., the body, the self is of the same nature everywhere, i.e., in the bodies of gods, men etc. It is of the same form of knowledge. The meaning is that one, who has become enlightened in this way, active though he be, is not tainted on account of erroneously conceiving what is other than the self (the body) as the self. He is not at all associated therewith. Therefore, he attains the self without any delay. As Karma Yoga is superior to Jnana Yoga because it is more easily pursued and is more rapidly efficacious in securing the fruits, listen to its reirement:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.7॥ योगेन युक्तः **योगयुक्तः विशुद्धात्मा** विशुद्धसत्त्वः **विजितात्मा** विजितदेहः **जितेन्द्रिय**श्च **सर्वभूतात्मभूतात्मा** सर्वेषां ब्रह्मादीनां स्तम्बपर्यन्तानां भूतानाम् आत्मभूतः आत्मा प्रत्यक्चेतनो यस्य सः सर्वभूतात्मभूतात्मा सम्यग्दर्शीत्यर्थः स तत्रैवं वर्तमानः लोकसंग्रहाय कर्म **कुर्वन्नपि न लिप्यते** न कर्मभिः बध्यते इत्यर्थः॥ न च असौ परमार्थतः करोतीत्यतः
 </details>
@@ -169,12 +172,14 @@ in the real sense. Hence,
 सर्वात्मपदयोर्जडाजडपरत्वे तु समञ्जसम्। एतादृशः परमार्थदर्शी कुर्वन्नपि
 कर्माणि परदृष्ट्या न लिप्यते तैः कर्मभिः। स्वदृष्ट्या तदभावादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.7॥ एतदेव प्रपञ्चयति योगयुक्त इति। सर्वभूतात्मभूतः परमेश्वरः।
 यच्चाप्नोतीत्यादेः। स आत्मभूतः स्वसमीपं प्रत्यादानादिकर्ता यस्य स
@@ -194,12 +199,14 @@ in the real sense. Hence,
 इत्युक्तस्यानुवादः। स्वसमीपंइत्यादिद्वितीयात्मशब्दस्यार्थः। एवं जानन्नत्र
 विवक्षितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.7 5.11॥ योगयुक्त इत्यादि आत्मसिद्धये इत्यन्तम्। सर्वभूतानामात्मभूतः आत्मा यस्य स सर्वमपि कुर्वाणो न लिप्यते अकरणप्रतिषेधारूढत्वात्। अत एव दर्शनादीनि कुर्वन्नपि असौ एवं धारयति प्रतिपत्तिदार्ढ्येन निश्चिनुते चक्षुरादीनामिन्द्रियाणां यदि स्वविषयेषु प्रवृत्तिः मम किमायातम् न हि अन्यस्य कृतेनापरस्य +++(S अन्यस्य कृतेनान्यस्य अन्यकृतेन परस्य)+++ लेपः इति। तदेव ब्रह्मणि कर्मणां समर्पणम्। अत्र चिह्नम् अस्य गतसङ्गता। अतो न लिप्यते। योगिनश्च केवलैः सङ्गरहितैः परस्परानपेक्षिभिश्च कायादिभिः कुर्वन्ति कर्माणि सङ्गाभावात्।
 </details>
@@ -208,12 +215,14 @@ in the real sense. Hence,
 
 5৷৷7 See Comment under 5.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.7॥ स्वमतस्फोरणार्थं तद्योगिनं लक्षयति त्रिभिः।
 त्रिगुणातीतत्वात्तस्येतिभावेन योगयुक्त इति।
@@ -229,10 +238,13 @@ in the real sense. Hence,
 सर्वभूतात्मरूपो भगवान् स एवात्मा स्वरूपं यस्य तादृशोमदाज्ञया
 लोकसङ्ग्रहार्थ कर्म कुर्वन्न लिप्यते तत्फलभोगेन न बध्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.7॥ कर्मयोगादिक्रमेण ब्रह्माधिगमे सत्यपि तदुपरितनेन कर्मणा बन्धः
 स्यादेवेत्याशङ्क्याह **योगयुक्त इति।** योगेन युक्तोऽतो विशुद्ध आत्मा
@@ -240,10 +252,13 @@ in the real sense. Hence,
 ततश्च सर्वेषां भूतानामात्मभूत आत्मा यस्य सः। लोकसंग्रहार्थं स्वाभाविकं
 वा कर्म कुर्वन्नपि न लिप्यते तैर्न बध्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.7 He who follows the Yoga and is pure in self (mind), who has subdued his self and has conered his senses and whose self has become the self of all beings, even while he is acting, he is untainted.
@@ -275,11 +290,13 @@ such a one, even though he acts, is not bound by his acts.
 5.7 योगयुक्तः devoted to the path of action; विशुद्धात्मा a man of purified mind; विजितात्मा one who has conered the self; जितेन्द्रियः one who has subdued his senses; सर्वभूतात्मभूतात्मा one who realises his Self as the Self in all beings; कुर्वन् acting; अपि even; न not; लिप्यते
 is tainted.Commentary He who is harmonised by Yoga; i.e.; he who has purified his mind by devotion to the performance of action; who has conered the body and who has subjugated the senses; whose Self is the Self of all beings; he will not be bound by actions although he performs actions for the wellbeing or protection of the masses in orer to set an example to them. (Cf.XVIII.17)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.7।। जिसकी इन्द्रियाँ अपने वशमें हैं, जिसका अन्तःकरण निर्मल है, जिसका
@@ -348,6 +365,7 @@ is tainted.Commentary He who is harmonised by Yoga; i.e.; he who has purified hi
 ।।5.7।। जो पुरुष योगयुक्त, विशुद्ध अन्तकरण वाला, शरीर को वश में किये
 हुए, जितेन्द्रिय तथा भूतमात्र में स्थित आत्मा के साथ एकत्व अनुभव किये
 हुए है वह कर्म करते हुए भी उनसे लिप्त नहीं होता।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "46 यतः प्रवृत्तिर्भूतानाम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.46॥**यतो भूतानाम्** उत्पत्त्यादिका प्रवृत्तिः; **येन च सर्वम् इदं ततं स्वकर्मणां तं** माम् इन्द्राद्यन्तरात्मतयावस्थितम् **अभ्यर्च्य** मत्प्रसादान् मत्प्राप्तिरूपां **सिद्धिं विन्दति मानवः। मत्त एव सर्वम् उत्पद्यते; मया च सर्वम् इदं ततम् इति पूर्वम् एव उक्तम् -- अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा॥ मत्तः परतर नान्यत्किञ्चिदस्ति धनञ्जय। (गीता 7।67)मया ततमिदं सर्वं जगदव्यक्तमूर्तिना। (गीता 9।4)मयाध्यक्षेण प्रकृतिः सूयते सचराचरम्॥ (गीता 9।10)अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते। (गीता 10।8) इत्यादिषु।**
@@ -39,12 +40,14 @@ title = "46 यतः प्रवृत्तिर्भूतानाम्"
 
 18.46 He from whom arise all activities as origination of all beings and by whom all this is pervaded, by worshipping Him, i.e., Myself, who abide in Indra and other divinites as the Inner Ruler, man attains perfection, consisting in the attainment of Myself by My grace. It has been told before that everything originates from Me and all this is pervaded by Me, in texts like the following: 'I am the origin and dissolution of the whole universe' (7.6), 'There is nothing higher than Myself, O Arjuna' (7.7), 'This entire universe is pervaded by Me in an unmanifest form' (9.4), 'Under My supervision, the Prakrti gives birth to all mobile and immobile entities' (9.10) and 'I am the origin of all; from Me proceed everything' (10.8).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.46॥ --,**यतः** यस्मात् **प्रवृत्तिः** उत्पत्तिः चेष्टा वा यस्मात् अन्तर्यामिणः ईश्वरात् **भूतानां** प्राणिनां स्यात्; **येन** ईश्वरेण **सर्वम् इदं ततं** जगत् व्याप्तम् **स्वकर्मणा** पूर्वोक्तेन प्रतिवर्णं **तम्** ईश्वरम् **अभ्यर्च्य** पूजयित्वा आराध्य केवलं ज्ञाननिष्ठायोग्यतालक्षणां **सिद्धिं विन्दति** **मानवः** मनुष्यः॥ यतः एवम्; अतः --,
 </details>
@@ -122,12 +125,14 @@ this world. Since this is so, therefore,
 तत्प्रसादादैकात्म्यज्ञाननिष्ठायोग्यतालक्षणां सिद्धिमन्तःकरणशुद्धिं
 विन्दति मानवो; देवादिस्तूपासनामात्रेणेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.46॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -136,12 +141,14 @@ this world. Since this is so, therefore,
 
 ॥18.46॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -152,12 +159,14 @@ this world. Since this is so, therefore,
 
 18.46 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.46॥ तत्प्रकारमाह सार्द्धेन -- स्वकर्मेति। स्पष्टम्। यतः प्रवृत्तिः
 प्रसृता पुराणी \[15।4\] ब्रह्मणा येनाक्षरेण भगवत्स्वरूपेणेदं ततं
@@ -173,19 +182,25 @@ this world. Since this is so, therefore,
 भगवन्तं स्वकर्मणा आत्मकर्मणा भक्त्या अभ्यच्य सम्पूज्य मानवः मनोर्जातो
 मनुष्यः सद्धर्मरूपः सिद्धिं विन्दति लभत इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.46॥ तमेवाह **-- यत इति।** यतोऽन्तर्यामिणः परमेश्वराद्भूतानां
 प्राणिनां प्रवृत्तिश्चेष्टा भवति। येन च कारणात्मना सर्वमिदं विश्वं ततं
 व्याप्तं तमीश्वरं स्वकर्मणाऽभ्यर्च्य पूजयित्वा सिद्धिं लभते मनुष्यः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.46 He from whome arise the activity of all beings and by whom all this is pervaded - by worshipping Him with his own duty man reaches perfection.
@@ -218,11 +233,13 @@ this world. Since this is so, therefore,
 attains; मानवः man.Commentary The performance by a man of his own duty is simply carrying into effect the intention of the Supreme from Whom the whole of the creation emanates. When a man worships Him; the Supreme Being; with the flowers of his action; then He is immensely pleased and being thus gratified by such worship He confers on Him; as a boon;
 dispassion and discrimination.Pravritti Evolution or activity it proceeds from the Lord; the Antaryamin; the Inner Ruler.Bhutanam Beings living creatures.Svakarmana With his own duty each according to his caste as described above.Man attains perfection by worshipping the Lord by performing his own duty; i.e.; he becomes alified for the dawn of Selfknowledge (for Jnana Yoga).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.46।। जिस परमात्मासे सम्पूर्ण प्राणियोंकी उत्पत्ति होती है और जिससे
@@ -385,6 +402,7 @@ dispassion and discrimination.Pravritti Evolution or activity it proceeds from t
 ।।18.46।। जिस (परमात्मा) से भूतमात्र की प्रवृत्ति अर्थात् उत्पत्ति हुई
 है और जिससे यह सम्पूर्ण जगत् व्याप्त है, उस (परमात्मा) की स्वकर्म द्वारा
 पूजा करके मनुष्य सिद्धि को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "37 हतो वा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.37॥ धर्मयुद्धे परैर् हतश् चेत् तत एव परमनिःश्रेयसं **प्राप्स्यसि** परान् वा हत्वा अकण्टकं राज्यं **भोक्ष्यसे।** अनभिसंहितफलस्य युद्धाख्यस्य धर्मस्य परमनिःश्रेयसोपायत्वात् तच् च परमनिःश्रेयसं प्राप्स्यसि। **तस्माद्** **युद्धाय** उद्योगः परमपुरुषार्थलक्षणमोक्षसाधनम् इति निश्चित्य तदर्थम् **उत्तिष्ठ।** कुन्तीपुत्रस्य तव एतद् एव युक्तम् इत्यभिप्रायः।  
@@ -40,12 +41,14 @@ title = "37 हतो वा"
 
 2.37 If you are slain in a righteous war by enemies, you shall thery attain supreme bliss. Or, slaying the enemies, you shall enjoy this kingdom without obstacles. As the duty called war, when done without attachment to the fruits, becomes the means for winning supreme bliss, you will attain that supreme bliss. Therefore, arise, assured that engagement in war (here the duty) is the means for attaining release, which is known as man's supreme goal. This alone is suitable for you, the son of Kunti. This is the purport. Sri Krsna then explains to the aspirant for liberation how to conduct oneself in war.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.37॥  
   
@@ -116,12 +119,14 @@ defeat the enemies or shall die.'
 युद्धकर्तव्यताया निश्चितत्वात्। एतेनन चैतद्विद्मः कतरन्नो गरीयः इत्यादि
 परिहृतम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.37॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -130,12 +135,14 @@ defeat the enemies or shall die.'
 
 ॥2.37॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.34 2.38॥ यद्भयाच्च भवान् युद्धात् निवर्तते +++(K निवर्तेत)+++ तदेव शतशाखमुपनिपतिष्यति भवत इत्याह  
 अथ चेत्यादि। श्लोकपञ्चकमिदम् अभ्युपगम्यवादरूपमुच्यते +++(N उपगम्य)+++ यदि लौकिकेन व्यवहारेणास्ते भवान् तथाप्यवश्यानुष्ठेयमेतत्।
@@ -145,12 +152,14 @@ defeat the enemies or shall die.'
 
 2.33-37 Atha ca etc., upto krta-niscavah. Accepting what the opponent has stated, this pentad of verses is narrated as an argument : 'If your goodself prefers to abide by the generally accepted practice, even then this \[fighting\] must be undertaken necessarily'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.37॥ यच्चोक्तंन चैतद्विद्मः कतरन्नो गरीयः 2।6 इति तत्राह हतो वेति।
 स्वर्गं प्राप्स्यसि जित्वा वा महीं भोक्ष्यसे। पक्षद्वयेऽपि तव लाभ इति
@@ -165,18 +174,24 @@ defeat the enemies or shall die.'
 दुःखनिवृत्तिर्भविष्यतीति भावः। तस्माद्युद्धाय कृतनिश्चयः सन्नुत्तिष्ठ
 उपस्थितो भवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.37॥ यच्चोक्तंन चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः
 इति तत्राह **हतो वेति।** पक्षद्वयेऽपि तव लाभ एवेत्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.37 If slain, you shall win heaven; or if victorious, you shall enjoy the earth. Therefore, arise, O Arjuna, resolved to fight.
@@ -210,11 +225,13 @@ resolution made in favour of \[fighting\] the battle.
 जित्वा having conered; वा or; भोक्ष्यसे (thou) wilt enjoy; महीम् the earth; तस्मात् therefore; उत्तिष्ठ stand up; कौन्तेय O son of Kunti;
 युद्धाय for fight; कृतनिश्चयः resolved.Commentary In either case you will be benefited. Therefore; stand up with the firm resolution I will coner the enemy or die.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/37_hato_vA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.37।। अगर युद्धमें तू मारा जायगा तो तुझे स्वर्गकी प्राप्ति होगी और
@@ -257,6 +274,7 @@ resolution made in favour of \[fighting\] the battle.
 
 ।।2.37।। युद्ध में मरकर तुम स्वर्ग प्राप्त करोगे या जीतकर पृथ्वी को
 भोगोगे; इसलिय, हे कौन्तेय ! युद्ध का निश्चय कर तुम खड़े हो जाओ।।
+</details>
 </details>
 
 </div>

@@ -25,8 +25,9 @@ title = "33 तस्मात्त्वमुत्तिष्ठ यशो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.33॥ **तस्मात् त्वं** तान् प्रति युद्धाय **उत्तिष्ठ;** तान् **शत्रून् जित्वा यशो लभस्व;** धर्म्यं **राज्यं** च समृद्धं भुङ्क्ष्व। **मया एव एते** कृतापराधाः **पूर्वम् एव निहताः;** हनने विनियुक्ताः; त्वं तु तेषां हनने **निमित्तमात्रं भव।** मया हन्यमानानां शस्त्रादिस्थानीयो भव; सव्यसाचिन्षच समवाये (धा॰ पा॰ 1।1022) सव्येन शरसचनशीलः सव्यसाची सव्येन अपि करेण शरसमवायकरः; करद्वयेन योद्धुं समर्थ इत्यर्थः।
@@ -41,12 +42,14 @@ title = "33 तस्मात्त्वमुत्तिष्ठ यशो"
 
 11.33 Therefore, arise for fighting against them. Conering your enemies, win glory and enjoy a prosperous and righteous kingdom. All those who have sinned have been already annihilated by Me. Be you merely an instrument (Nimitta) of Mine in destroying them - just like a weapon in my hand, O Savyasacin! The root 'Sac' means 'fastening'. A 'savyasacin' is one who is capable of fixing or fastening the arrow even with his left hand. The meaning is that he is so dexterous that he can fight with a bow in each hand.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.33॥ --,**तस्मात् त्वम् उत्तिष्ठ** भीष्मप्रभृतयः अतिरथाः अजेयाः देवैरपि; अर्जुनेन जिताः इति **यशः लभस्व** केवलं पुण्यैः हि तत् प्राप्यते। **जित्वा शत्रून्** दुर्योधनप्रभृतीन् **भुङ्क्ष्व राज्यं** समृद्धम् असपत्नम् अकण्टकम्। **मया एव एते निहताः** निश्चयेन हताः प्राणैः वियोजिताः **पूर्वमेव। निमित्तमात्रं भव** त्वं हे **सव्यसाचिन्;** सव्येन वामेनापि हस्तेन शराणां क्षेप्ता सव्यसाची इति उच्यते अर्जुनः॥
 </details>
@@ -124,12 +127,14 @@ arrows even with his left hand.
 तव भीष्मद्रोणादिजयो नासंभावितस्तस्मात्त्वद्व्यापारानन्तरं मया
 रथात्पात्यमानेष्वेतेषु तवैव कर्तृत्वं लोकाः कल्पयिष्यन्तीत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.33॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -138,12 +143,14 @@ arrows even with his left hand.
 
 ॥11.33॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.33 -- 11.34॥ तस्मादिति। द्रोणमिति। तदत्र भगवता +++(S तदनु भवता ; N तदत्रभवता)+++ उत्तरं जगतो विद्याविद्यात्मनः शुद्धाशुद्धमिश्रसंविद्बलग्रासीकारात् अभिधीयते इति प्रायशः सूत्रितमत्राध्याये रहस्यम्। उट्टङ्कितमात्र +++(N -- मात्रं)+++ -- संवित्तिसमर्थेभ्योऽस्तु कियत्पङ्क्तिलेखनायासदौःस्थित्यमालम्भेमहि +++(K आलम्भेमहि)+++। अत्र च यदुक्तं मया हतेषु त्वं निमित्तं यशस्वी भव इति भगवता तत् प्रत्युक्तं यदुक्तं प्रागर्जुनेन नैतद्विद्मः,+++(;N नचैतद्विद्मः)+++ कतरन्नो वरीयः इत्यादि।
 </details>
@@ -152,12 +159,14 @@ arrows even with his left hand.
 
 11.33 See comment under 11.34.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.33॥ तस्मात्त्वमुत्तिष्ठ निमित्तमात्रं तु भव।
 </details>
@@ -171,10 +180,13 @@ arrows even with his left hand.
 त्वन्मारणात् प्रथममेव निहताः मारिताः; अतो निमित्तमात्रं भव
 लोककथनार्थमर्जुनेन सर्वे मारिता इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.33॥ **तस्मादिति।** यस्मादेवं तस्मात्त्वं युद्धायोत्तिष्ठ। देवैरपि
 दुर्जयाः भीष्मद्रोणादयोऽर्जुनेन निर्जिता इत्येवंभूतं यशो लभस्व
@@ -183,10 +195,13 @@ arrows even with his left hand.
 निमित्तमात्रं भव। हे सव्यसाचिन् सव्येन वामहस्तेन सचितुं शरान्संधातुं
 शीलं यस्येति व्युत्पत्त्या वामेनापि बाणक्षेपात्सव्यसाचीत्युच्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.33 Therefore airse, win glory. Conering your foes, enjoy a prosperous kingdom. By Me they have been slain already. You be merely an instrument, O Arjuna, you great bowman!
@@ -221,11 +236,13 @@ obtain; जित्वा having conered; शत्रून् enemies; भु
 the kingdom; समृद्धम् the unrivalled; मया by Me; एव even; एते these;
 निहताः have been slain; पूर्वम् before; एव even; निमित्तमात्रम् a mere instrument; भव be; सव्यसाचिन् O ambidexterous one.Commentary Be thou merely an apparent or nominal cause. I have already killed them in advance. I have destroyed them long ago.Fame People will think that Bhishma; Drona and the other great warriors whom even the gods cannot kill have been defeated by you and so you will obtain great fame. Such fame is due to virtuous Karma only.Satrun Enemies such as Duryodhana.Savyasachi Arjuna who could shoot arrows even with the left hand.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.33।। इसलिये तुम युद्धके लिये खड़े हो जाओ और यशको प्राप्त करो तथा
@@ -272,6 +289,7 @@ the kingdom; समृद्धम् the unrivalled; मया by Me; एव ev
 ।।11.33।। इसलिए तुम उठ खड़े हो जाओ और यश को प्राप्त करो; शत्रुओं को
 जीतकर समृद्ध राज्य को भोगो। ये सब पहले से ही मेरे द्वारा मारे जा चुके
 हैं। हे सव्यसाचिन्! तुम केवल निमित्त ही बनो।।
+</details>
 </details>
 
 </div>

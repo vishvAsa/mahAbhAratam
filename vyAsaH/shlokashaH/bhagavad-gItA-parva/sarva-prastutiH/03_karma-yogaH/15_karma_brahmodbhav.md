@@ -23,8 +23,9 @@ title = "15 कर्म ब्रह्मोद्भवम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 **कर्म च ब्रह्मोद्भवम्।**  
@@ -60,12 +61,14 @@ title = "15 कर्म ब्रह्मोद्भवम्"
 'Brahman' teaches that activity is produced by the physical body which is of the nature of the modification of Prakrti. The 'Brahman' arises from the imperishable self. Here the term, 'imperishable', indicates the individual self. The physical body, which is inhabited by the self who is satisfied by food and drink, is fit for action; hence the physical body which constitutes the instrument of activity is said to be from the imperishable. Therefore the 'all-pervading Brahman' means here the bodies of all persons of diverse kinds which are the products of Prakrti which comprises all material entities, and is hence all-pervading. They,
 the bodies, are established in sacrifice. The meanig is that the bodies have roots in sacrifice.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.15॥ **कर्म ब्रह्मोद्भवं** ब्रह्म वेदः सः उद्भवः कारणं प्रकाशको यस्य तत् कर्म ब्रह्मोद्भवं **विद्धि** विजानीहि। **ब्रह्म** पुनः वेदाख्यम् **अक्षरसमुद्भवम्** अक्षरं ब्रह्म परमात्मा समुद्भवो यस्य तत् अक्षरसमुद्भवम्। ब्रह्म वेद इत्यर्थः। यस्मात् साक्षात् परमात्माख्यात् अक्षरात् पुरुषनिःश्वासवत् समुद्भूतं **ब्रह्म तस्मात्** सर्वार्थप्रकाशकत्वात् **सर्वगतम्** सर्वगतमपि सत् **नित्यं** सदा यज्ञविधिप्रधानत्वात् **यज्ञे प्रतिष्ठितम्**॥
 </details>
@@ -157,12 +160,14 @@ injunctions about sacrifices predominate in it.
 ब्रह्म वेदाख्यं यज्ञे धर्माख्येऽतीन्द्रिये प्रतिष्ठितं तात्पर्येण। अतः
 पाखण्डप्रतिपादितोपधर्मपरित्यागेन वेदबोधित एव धर्मोऽनुष्ठेय इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.15॥ कर्म ब्रह्मणो जायते एष ह्येव (एनं) साधु कर्म कारयति
 कौ.उ.3।9बुद्धिर्ज्ञानम् 10।4 इत्यादिभ्यः। न च मुख्ये सम्भाव्यमाने
@@ -314,12 +319,14 @@ injunctions about sacrifices predominate in it.
 परामर्शविषयाप्रतीतेस्तं दर्शयन्वाक्यं व्याख्याति। यत इति।
 प्रतिष्ठितमित्युच्यत इति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.14 3.15॥ अन्नादिति। कर्मेति। अन्नात् अविभागभोग्यस्वभावात् कथंचित् मायाविद्याकालाद्यनेकापरपर्यायात् +++(S N विद्याप्रकृतिकाला )+++ भूतानि विचित्राणि भवन्ति। तच्च अन्नं पर्जन्यात् अविच्छिन्नसंवित्स्वभावात् आत्मनः भोक्तृतन्त्रात्मलाभत्वात् भोग्यतायाः। स च पर्जन्यो भोक्ता यज्ञात् भोगक्रियात्मनः भोगक्रियायत्तत्वात् भोक्तृत्वस्य। भोगक्रिया च कर्मणः क्रियाशक्तिस्वातन्त्र्यबलात्। तच्च स्वातन्त्र्यम् अविच्छिन्नमपि +++(S अविच्छन्नमपि अविच्छन्नस्यापि अनवच्छिन्नानन्त )+++ अनवच्छिन्नानन्तस्वातन्त्र्यपूर्णसमुच्चलन्महेश्वरभावपरमात्मब्रह्मणः संस्पर्शवशात् +++(S K ब्रह्मसंस्पर्श )+++। तच्च +++(omits तच्च)+++ उच्चलदच्छानाछादितैश्वर्यं +++(N इच्छादितैश्वर्यम्)+++ ब्रह्म अक्षरात् प्रशान्ताशेषैश्वर्यतरङ्गात् संविन्मात्रात्। इत्येवं सुव्यवस्थितो +++(S स्थितोऽयम् भोगक्रियायाम्)+++ यज्ञः षडरं चक्रं वाहयन् तत्र +++(K omits तत्र S N substitute तत्तु)+++ अरात्रयसंधानादपवर्गम् अरात्रयतन्त्रणात् व्यवहारमासूत्रयति इति विद्याविद्योल्लासतरंगसुभगं ब्रह्म ( तरङ्गं ब्रह्म) यज्ञे एव प्रतिष्ठितम्। अन्ये तु अन्नं तावद्वीर्यलोहितक्रमेण भूतकारणम् अन्नं च वृष्टिद्वारेण पर्जन्यात् सोऽपि अग्नौ प्रास्ताहुतिः सम्यक् +++(S omits सम्यक् K omits the entire quotation )+++ इति आदित्यमेति। ततो वृष्टिर्यज्ञात् यज्ञः क्रियातः सा च ज्ञानपूर्विका ज्ञानमक्षरात् इति। अपरे तु अन्नं अद्यमानं विषयपञ्चकम् तत् आश्रित्य भूतानि इन्द्रियाणि विषयाश्चात्मनः स्फुरितरूपाः। अत आत्मैव विषयोपभोगेन पोष्यते। अतश्च सर्वगतं +++(S अतः सर्वगम्)+++ ब्रह्म कर्मणि प्रतिष्ठितं तन्मयत्वात् तस्य इति ।
 </details>
@@ -328,12 +335,14 @@ injunctions about sacrifices predominate in it.
 
 3.14-15 Annat etc. Karma etc. The things, that are born and are of diversified nature, arise from the food viz , the one which is of the nature of being undifferentiated objct of enjoyment, and which is somehow called by different synonyms like maya, vidya, kala etc. The said food also \[arises\] from the 'rain-cloud' i.e., the Self, which is of the nature of uninterrupted Consciousness. For, the state of being an object of enjoyment gains its existence depending on the enjoyer. That 'rain-cloud' too viz., the enjoyer, \[arises\] from the sacrifice (yajna) i.e., the act of enjoying. For, the state of being an enjoyer depends on the act of enjoying. And the act of enjoying \[arises\] from action, i.e., from the strength of freedom of action-energy (freedom in assuming any and every from). The said freedom also, though it is uninterrupted, \[arises\] due to the good touch of the Brahman Which is full of freedom and of forms that are conditioned and are many, (or which is full of freedom and of many forms and is not conditioned); and which is the Supreme Soul, Brahman assuming the beings (tattvas), viz., the mighty Isvara (or Mahesvara) \[and the Sadasiva\] skipping high on It (Brahman). That Brahman, having the rising Lord-ship (or might) that is pure and unvieled, arises from what does not stream forth viz., the pure Supreme Consciousness in which the entire waves of might and Lordship have totally calmed down. Thus, the sacrifice well established \[as an exil\] in this manner, causing a six spoked wheel to rotate , spins the \[two-fold\] yarns - the yarn of emancipation by employing that part fitted with three spokes, and the yarn of \[birth-and-death\] activity by looming with the part of the \[other\] three spokes. Thus, the Brahman Which is charming with rolling waves of wisdom and ignorance, is established on nothing but the sacrifice. But certain other commentators \[interpret the passage as \] : The food is indeed the cause of beings through its graded chages into semen verile and blood; the food arises from the rain-cloud through the rains; that rains too arises from the \[Vedic\] sacrifice according to the principle : 'The oblation offered into the \[sacrificial\] fire, pro- perly reaches the sun etc. (Manu. III, 76). The sacrifice \[arises\] from the action; the action follows the knowledge, and the knowledge is from the Imperishable. Still others \[explain\] differently : The food that is being enjoyed is the pentad of sense-objects; depending on it, the bhutas (elements) i.e., the sense-organs, act; the objects are of the nature of the sparkles of the Self. Therefore, it is only the Self that is being nourished by enjoying sense-objects. Hence the all-pervading Brahman is established in action. For It is identical with that.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.15॥ कर्म ब्रह्मोद्भवमिति। ब्रह्म वेदः प्रजापतिर्वा तस्यापि ब्रह्मतया
 निरूपणं ब्रह्मवादानुरोधात्। तदक्षरसमुद्भवं कूटस्थं प्रणवसम्भूतम्। यद्वा
@@ -357,10 +366,13 @@ injunctions about sacrifices predominate in it.
 नित्यं यद्ब्रह्म तदेव यज्ञे प्रतिष्ठितम्। तेन न पूर्वोक्तदोषसम्भावनेति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/15_karma_brahmodbhav.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/15_karma_brahmodbhav.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.15॥ तथा **कर्मब्रह्मोद्भवमिति।** तच्च यजमानादिव्यापाररुपं कर्म
 ब्रह्मोद्भवं विद्धि ब्रह्म वेदस्तस्मात्प्रवृत्तं जानीहि। तच्च ब्रह्म
@@ -374,10 +386,13 @@ injunctions about sacrifices predominate in it.
 सर्वदा यज्ञे च तात्पर्यरुपेण प्रतिष्ठितम्। अतो यज्ञादि कर्म
 कर्तव्यमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.15 Know that activity springs from 'Brahman', i.e., the physical body,
@@ -413,11 +428,13 @@ Brahma; अक्षरसमुद्भवम् arisen from the Imperishable;
 प्रतिष्ठितम् (is) established.Commentary Brahma may mean Veda. Just as the breath comes out of a man; so also the Veda is the breath of the Imperishable or the Omniscient. The Veda ever rests in the sacrifice;
 i.e.; it deals chiefly with sacrifices and the ways of their performance. (Cf.IV.24 to 32).Karma Action; Brahmodbhavam arisen from the injunctions of the Vedas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/15_karma_brahmodbhav.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.14 -- 3.15।। सम्पूर्ण प्राणी अन्नसे उत्पन्न होते हैं। अन्न वर्षासे
@@ -485,6 +502,7 @@ i.e.; it deals chiefly with sacrifices and the ways of their performance. (Cf.IV
 ।।3.15।। कर्म की उत्पत्ति ब्रह्माजी से होती है और ब्रह्माजी अक्षर तत्त्व
 से व्यक्त होते हैं। इसलिये सर्व व्यापी ब्रह्म सदा ही यज्ञ में प्रतिष्ठित
 है।।
+</details>
 </details>
 
 </div>

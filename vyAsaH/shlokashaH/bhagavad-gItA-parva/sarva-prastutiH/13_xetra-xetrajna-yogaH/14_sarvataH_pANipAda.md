@@ -23,8 +23,9 @@ title = "14 सर्वतः पाणिपादम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.13॥**सर्वतःपाणिपादं तत्** परिशुद्धात्मस्वरूपं सर्वतःपाणिपादकार्यशक्तम्; तथा **सर्वतोऽक्षिशिरोमुखं सर्वतःश्रुतिमत्** सर्वतश्चक्षुरादिकार्यकृत् --,अपाणिपादो जवनो ग्रहीता पश्यत्यचक्षुः स श्रृणोत्यकर्णः (श्वे॰ उ॰ 3।19) इति परस्य ब्रह्मणो ऽपाणिपादस्य अपि सर्वतःपाणिपादादिकार्यकर्तृत्वं श्रूयते। प्रत्यगात्मनो ऽपि परिशुद्धस्य तत्साम्यापत्त्या सर्वतःपाणिपादादिकार्यकर्तृत्वं श्रुतिसिद्धम् एव।  
@@ -41,12 +42,14 @@ title = "14 सर्वतः पाणिपादम्"
 
 13.14 Everywhere are Its hands and feet i.e., the self in Its pure form is able to perform everywhere the works of hands and feet. Its eyes, heads and mouths are everywhere; It performs everywhere the task of eyes etc. The Sruti declares; 'Without feet or hands, He moves swiftly and seizes things; He sees without eyes, He hears without ears; (Sve. U., 3.19). It may be said that it means that the Supreme Brahman performs everywhere the task of hands, feet etc., even though He is devoid of hands and feet. If 'Brahman' is taken to mean the self, it can be asked how this power of the Supreme Brahman (namely, having hand, feet, eyes, etc., everywhere) can be attributed to the self, then the answer is that it is established in the Srutis that the pure individual self has the capacity of performing the task of hands, feet etc., because It is eal to Him. Sruti also declares: 'Then, the wise seer, shaking off good and evil, stainless, attains the supreme eality with Him' (Mun. U., 3.1.3). Sri Krsna will also teach later on: 'Resorting to this knowledge, It partakes of My nature' (14.2). It exists encompassing all things, whatever aggregate of things that exist in the world; It encompasses them. The sense is that in Its pure state, It is all-pervasive, as It has no limitation of space etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.14॥ --,**सर्वतःपाणिपादं** सर्वतः पाणयः पादाश्च अस्य इति सर्वतःपाणिपादं **तत्** ज्ञेयम्। सर्वप्राणिकरणोपाधिभिः क्षेत्रज्ञस्य अस्तित्वं विभाव्यते। क्षेत्रज्ञश्च क्षेत्रोपाधितः उच्यते। क्षेत्रं च पाणिपादादिभिः अनेकधा भिन्नम्। क्षेत्रोपाधिभेदकृतं विशेषजातं मिथ्यैव क्षेत्रज्ञस्य; इति तदपनयनेन ज्ञेयत्वमुक्तम् न सत्तन्नासदुच्यते इति। उपाधिकृतं मिथ्यारूपमपि अस्तित्वाधिगमाय ज्ञेयधर्मवत् परिकल्प्य उच्यते सर्वतःपाणिपादम् इत्यादि। तथा हि संप्रदायविदां वचनम् -- अध्यारोपापवादाभ्यां निष्प्रपञ्चं प्रपञ्च्यते इति। सर्वत्र सर्वदेहावयवत्वेन गम्यमानाः पाणिपादादयः ज्ञेयशक्तिसद्भावनिमित्तस्वकार्याः इति ज्ञेयसद्भावे लिङ्गानि ज्ञेयस्य इति उपचारतः उच्यन्ते। तथा व्याख्येयम् अन्यत्। सर्वतःपाणिपादं तत् ज्ञेयम्। **सर्वतोऽक्षिशिरोमुखं** सर्वतः अक्षीणि शिरांसि मुखानि च यस्य तत् सर्वतोऽक्षिशिरोमुखम् **सर्वतःश्रुतिमत्** श्रुतिः श्रवणेन्द्रियम्; तत् यस्य तत् श्रुतिमत्; **लोके** प्राणिनिकाये; **सर्वम् आवृत्य** संव्याप्य **तिष्ठति** स्थितिं लभते॥ उपाधिभूतपाणिपादादीन्द्रियाध्यारोपणात् ज्ञेयस्य तद्वत्ताशङ्का मा भूत् इत्येवमर्थः श्लोकारम्भः --,
 </details>
@@ -221,12 +224,14 @@ misconception that the Knowable is possessed of them (adjuncts), the
 इत्यर्थः। यथाच सर्वेषु देहेष्वेकमेव चेतनं नित्यं विभु च न प्रतिदेहं
 भिन्नं तथा प्रपञ्चितं प्राक्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.14॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -235,12 +240,14 @@ misconception that the Knowable is possessed of them (adjuncts), the
 
 ॥13.14॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.13 -- 13.18॥ एतेन ज्ञानेन यत् ज्ञेयं तदुच्यते -- ज्ञेयमित्यादि विष्ठितमित्यन्तम्। अनादिमत् परं ब्रह्म इत्यादिभिर्विशेषणैः ब्रह्मस्वरूपाक्षेपानुग्राहकं,+++(S -- स्वरूपापेक्षानु -- )+++ सर्वप्रवादाभिहितविज्ञानापृथग्भावं कथयति +++(S;;N सर्वप्रवादान्तराभिहितपृथग्भावकमुच्यते)+++। एतानि च विशेषणानि पूर्वमेव व्याख्यातानि इति किं निष्फलया,पुनरुक्त्या।
 </details>
@@ -249,12 +256,14 @@ misconception that the Knowable is possessed of them (adjuncts), the
 
 13.14 See Comment under 13.18
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.14॥ तत्साकारं निराकारं वा इत्याशङ्क्याऽऽह -- सर्वतःपाणिपादान्तमिति।
 साकारमेव सर्वत्र प्रदेशे पाणयः पादा अन्ता यस्य। गतिकृतिलक्षणे क्रिये
@@ -277,10 +286,13 @@ misconception that the Knowable is possessed of them (adjuncts), the
 परिच्छिन्नं भविष्यति इत्याशङ्क्याह -- सर्वं आवृत्य व्याप्य
 सर्वेन्द्रियादियुक्तमेव तिष्ठतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.14॥ नन्वेवं ब्रह्मणः सदसद्विलक्षणत्वे सतिसर्वं खल्विदं
 ब्रह्मब्रह्मैवेदं सर्वम् इत्यादिश्रुतिभिर्विरुध्येतेत्याशङ्क्यपराऽस्य
@@ -292,10 +304,13 @@ misconception that the Knowable is possessed of them (adjuncts), the
 तिष्ठति। सर्वप्राणिप्रवृत्तिभिः पाण्यादिभिरुपाधिभिः सर्वव्यवहारास्पदत्वे
 तिष्ठतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.14 Everywhere are Its hands and feet; Its eyes, heads and mouths are everywhere; Its ears are on all sides; and It exists encompassing all things.
@@ -332,11 +347,13 @@ the Lord says in this verse that the knowable has hands and feet everywhere; etc
 (the knower of the field) is not affected by the superimposed world;
 body; senses; mind and the lifeforce. There is only one common consciousness is eternal; selfluminous and allpervading. That common consciousness is Para Brahman.The body; mind; senses and the lifeforce are by nature insentient. But they are moved by Brahman to action. They act on account of the mere presence of Brahman or the knower of the field. (The limiting adjuncts are illusory.) Hence they put on the semblance of consciousness; just as the iron piece puts on the semblance of a magnet when it is in the presence of a magnet.The whole world is superimposed on Brahman like the snake on the rope. This is called Adhyaropa. It is sublated by the method (Yukti) of Apavada (negation or denial).This verse is taken from the Svetasvataropanishad 3.16.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.14।। वे (परमात्मा) सब जगह हाथों और पैरोंवाले, सब जगह नेत्रों, सिरों
@@ -420,6 +437,7 @@ body; senses; mind and the lifeforce. There is only one common consciousness is 
 
 ।।13.14।। वह सब ओर हाथ-पैर वाला है और सब ओर से नेत्र, शिर और मुखवाला तथा
 सब ओर से श्रोत्रवाला है; वह जगत् में सबको व्याप्त करके स्थित है।।
+</details>
 </details>
 
 </div>

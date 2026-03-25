@@ -23,8 +23,9 @@ title = "07 अस्माकन् तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 १९-तमस्य टीका दृश्या।
@@ -39,12 +40,14 @@ title = "07 अस्माकन् तु"
 
 1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adeacy of Bhima's forces for conering the Kaurava forces and the inadeacy of his own forces for victory against the Pandava forces. He was grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma, in order to cheer him, roared like a lion, and then blowing his conch, made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to coner the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost lost now itself.' So said Sanjaya to Dhrtarastra who was longing for their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas, who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot, directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all, superior and inferior - by saying, 'Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.7 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -125,12 +128,14 @@ starts from 2.10.
 स्वस्मिन्भक्तिः शौर्यं युद्धोद्योगो युद्धकौशलं च दर्शितं शूरा
 इत्यादिविशेषणैः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.7॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -141,21 +146,25 @@ starts from 2.11.
 ॥1.7॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
-
-</div>
-
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
-
-<details><summary>मूलम्</summary>
-
-॥1.2 1.9॥ किं वा अनेन बहुपरिगणनेन +++(K omits बहु )+++। इदं तावद्वस्तुतत्त्वम् इत्याह ।
 </details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
+
+॥1.2 1.9॥ किं वा अनेन बहुपरिगणनेन +++(K omits बहु )+++। इदं तावद्वस्तुतत्त्वम् इत्याह ।
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
+
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.2 1.11॥ दुर्योधनोऽपि वृकोदरादिभी रक्षितं पाण्डवानां बलं
 भीष्माभिरक्षितं स्वीयं च बलं विलोक्य आत्मजविजये तद्बलस्य पर्याप्ततां
@@ -170,19 +179,25 @@ starts from 2.11.
 नेतारः तान्संज्ञानार्थं मया विशेषेण स्वरूपतो ज्ञायन्ते न वेति ते
 ब्रवीमि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **॥1.7॥ अस्माकमिति।** निबोध बुध्यस्व। नायका नेतारः। संज्ञार्थं
 सम्यग्ज्ञानार्थमित्यर्थः।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.7 Know, O best of Brahmanas, those who are important on our side -
@@ -215,11 +230,13 @@ those who are the commanders of my army. I shall name them to refresh your memor
 those; निबोध know (thou); द्विजोत्तम (O) best among the twicorn ones;
 नायकाः the leaders; मम my; सैन्यस्य of the army; संज्ञार्थम् for information; तान् them; ब्रवीमि speak; ते to thee.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/07_asmAkan_tu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.7।। हे द्विजोत्तम! हमारे पक्ष में भी जो मुख्य हैं, उनपर भी आप ध्यान
@@ -297,6 +314,7 @@ those; निबोध know (thou); द्विजोत्तम (O) best amon
 ।।1.7।। हे द्विजोत्तम ! हमारे पक्ष में भी जो विशिष्ट योद्धागण हैं , उनको
 आप जान लीजिये; आपकी जानकारी के लिये अपनी सेना के नायकों के नाम मैं आपको
 बताता हूँ।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "10 यातयामङ् गतरसम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.10॥**यातयामं** चिरकालावस्थितम्; **गतरसं** त्यक्तस्वाभाविकरसम्; **पूति**दुर्गन्धोपेतम्; **पर्युषितं** कालातिपत्त्या रसान्तरापन्नम्; **उच्छिष्टं** गुर्वादिभ्यो ऽन्येषां भुक्तशिष्टम्; **अमेध्यम्** अयज्ञार्हम्; अयज्ञशिष्टम् इत्यर्थ एवविधं तमोमयं **भोजनं तामसप्रियं** भवति। भुज्यते इत्याहार एव भोजनम्; पुनश्च तमसो वर्धनम्। अतो हितैषिभिः सत्त्ववृद्धये सात्त्विकाहार एव सेव्यः।
@@ -47,12 +48,14 @@ title = "10 यातयामङ् गतरसम्"
 
 17.10 Stale (Yatayamam) means that food which has lost its original state, being kept for a long time. Tasteless (Gatarasam) means that which has lost its natural taste. Putrid (Puti) means emitting a bad smell. Decayed (Paryusitam) means aciring a rancidity by lapse of time. Refuse (Ucchistam) means the food that has remained over after being partaken by persons other than Gurus, etc. Unclean (Amedhyam) is that which is not fit for offering in sacrifice or worship. The meaning is that, being unfit for offering in worship, they cannot become the sacrificial remainder. Foods of this kind which promote the growth of Tamas are dear to those who are characterised by Tamas. Food (Bhojana) means that which is eaten. Tamasik food promotes further increase of Tamas. Hence, those persons who care for their own welfare by the growth of Sattva, should eat food charaterised by Sattva.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.10॥ --,**यातयामं** मन्दपक्वम्; निर्वीर्यस्य गतरसशब्देन उक्तत्वात्। **गतरसं** रसवियुक्तम्; **पूति** दुर्गन्धि; **पर्युषितं च** पक्वं सत् रात्र्यन्तरितं च **यत्; उच्छिष्टमपि** च भुक्तशिष्टम् उच्छिष्टम्; **अमेध्यम्** अयज्ञार्हम्; **भोजनम्** ईदृशं **तामसप्रियम्**॥ अथ इदानीं यज्ञः त्रिविधः उच्यते --,
 </details>
@@ -135,12 +138,14 @@ stated:
 हृद्यत्वविरोधीनि; आयुःसत्त्वादिविरोधित्वं तु स्पष्टमेव राजसवर्गे
 दृष्टविरोधमात्रं; तामसवर्गे तु दृष्टादृष्टविरोध इत्यतिशयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.10॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -149,12 +154,14 @@ stated:
 
 ॥17.10॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.7 -- 17.10॥ आहारोऽपि सत्त्वादिभेदात् त्रिधा श्रद्धावत् +++(S omits श्रद्धावत् )+++ तथा यज्ञतपोदानानि। तदुच्यते -- आहार इत्यादि तामसप्रियम् इत्यन्तम्। याता यामाः यस्य।
 </details>
@@ -163,12 +170,14 @@ stated:
 
 17.7-10 Aharah etc. upto tamasapriyam. What is old : that for which \[three\] yamas have elapsed \[after cooking\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.10॥ यातयाममिति। चिरकालावस्थितं तामसप्रियम्।
 </details>
@@ -183,10 +192,13 @@ stated:
 निर्गुणाहारकैर्मदुच्छिष्टभोक्तृभिः पूर्वोक्तत्रिविधमभोजनं तद्भोजिनश्च
 त्याज्या इत्यर्थश्चैतन्निरूपणेन ज्ञापितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.10॥ तथा **-- यातयाममिति।** यातो यामः प्रहरो यस्य
 पक्वस्योदनादेस्तद्यातयामम्; शैत्यावस्थां प्राप्तमित्यर्थः। गतरसं
@@ -194,10 +206,13 @@ stated:
 उच्छिष्टमन्यभुक्तावशिष्टम्; अमेध्यमभक्ष्यं कलञ्जादि; एवंभूतं भोजनं
 भोज्यं तामसस्य प्रियम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.10 That food which is stale, tasteless, putrid, decayed, refuse,
@@ -234,11 +249,13 @@ is the food liked by the Tamasic.
 unripe or overcooked. They do not relish it; till it begins to rot and ferment. They take prohibited foods and drinks. They take liors;
 fermented toddy; etc. They are horrible people with devilish tendencies.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.10।। जो भोजन अधपका, रसरहित, दुर्गन्धित, बासी और उच्छिष्ट है तथा जो
@@ -475,6 +492,7 @@ fermented toddy; etc. They are horrible people with devilish tendencies.
 
 ।।17.10।। अर्धपक्व, रसरहित, दुर्गन्धयुक्त, बासी, उच्छिष्ट तथा अपवित्र
 (अमेध्य) अन्न तामस जनों को प्रिय होता है।।
+</details>
 </details>
 
 </div>

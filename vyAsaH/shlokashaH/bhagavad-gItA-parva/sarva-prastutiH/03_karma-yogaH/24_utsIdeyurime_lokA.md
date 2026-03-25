@@ -25,8 +25,9 @@ title = "24 उत्सीदेयुरिमे लोका"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>वेङ्कटनाथः</summary>
 
@@ -123,12 +124,14 @@ title = "24 उत्सीदेयुरिमे लोका"
 
 3.24 If I do not do the work suitable to My station in life, likewise all the virtuous men also, neglecting their duties by following My example, would be destroyed on account of not performing their duties. That is, they will become lost. Thus I would be bringing about chaos among all virtuous men on account of My failure to conduct Myself as prescribed in the scriptures. Therefore I would be destroying all these people. Even so, if you, Arjuna, a son of Pandu and a brother of Yudhisthira and the foremost of the virtuous, claim to be qualified for Jnana Yoga, then the virtuous aspirants, who do not know everything and who follow your way, without knowing their own competency, would give up practising Karma Yoga and will be lost. Therefore work should be done by one who is recognised as learned and worthy.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.24॥ **उत्सीदेयुः** विनश्येयुः **इमे** सर्वे **लोकाः** लोकस्थितिनिमित्तस्य कर्मणः अभावात् **न कुर्यां कर्म चेत् अहम्**। किञ्च **संकरस्य च कर्ता स्याम्**। तेन कारणेन **उपहन्याम् इमाः प्रजाः**। प्रजानामनुग्रहाय प्रवृत्तः उपहतिम् उपहननं कुर्याम् इत्यर्थः। मम ईश्वरस्य अननुरूपमापद्येत॥ यदि पुनः अहमिव त्वं कृतार्थबुद्धिः आत्मवित् अन्यो वा तस्यापि आत्मनः कर्तव्याभावेऽपि परानुग्रह एव कर्तव्य इत्याह
 </details>
@@ -224,12 +227,14 @@ there be no obligation on his own part.'
 स्वातन्त्र्येणान्य इत्यर्थः। कीदृशस्तवाचारो यो मयानुवर्तनीय
 इत्याकाङ्क्षायां न मे पार्थेत्यादिभिस्त्रिभिः श्लोकैस्तत्प्रदर्शनमिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.24॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -238,12 +243,14 @@ there be no obligation on his own part.'
 
 ॥3.24॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.23 3.25॥ यदीत्यादि लोकसंग्रहमित्यन्तम्। किं च विदितवेद्यः कर्म चेत् त्यजेत् तत् लोकानां दुर्भेद एव एकप्रसिद्धपक्षशिथिलितास्थाबन्धत्वेनाप्ररूढिलक्षणो जायेत +++(S K जायते)+++। यतः +++(S omits यतः)+++ कर्मवासनां च न मोक्तुं शक्नुवन्ति ज्ञानधारां च नाश्रयितुम् अथ च शिथिलीभवन्ति।
 </details>
@@ -252,12 +259,14 @@ there be no obligation on his own part.'
 
 3.24 See Comment under 3.25
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.24॥ उत्सीदेयुरिति।
 </details>
@@ -276,19 +285,25 @@ there be no obligation on his own part.'
 स्यात् फलाभावे भक्तिफलव्यभिचारोऽपि स्यात् तदापि तत्कर्त्ताऽहमेव
 स्याम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/24_utsIdeyurime_lokA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/24_utsIdeyurime_lokA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.24॥ ततः किमत आह **उत्सीदेयुरिति।** उत्सीदेयुः कर्मलोपेन नश्येयुः।
 ततश्च वर्णसंकरो भवेत्तस्याप्यहमेव कर्ता स्यां भवेयम्। एवमहमेव प्रजा
 उपहन्यां मलिनीकुर्याम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.24 If I do not do work, these men would be lost; and I will be causing chaos in life and thery ruining all these people.
@@ -322,11 +337,13 @@ would do; कर्म action; चेत् if; अहम् I; सङ्कर�
   
 these; प्रजाः beings.Commentary If I did not engage in action; people would also be inactive. They would not do their duties according to the Varnasrama Dharma (code of morals governing their own order and stage of life). Hence confusion of castes would arise. I would have to destroy these beings.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.23 -- 3.24।। हे पार्थ ! अगर मैं किसी समय सावधान होकर कर्तव्य-कर्म न
@@ -409,6 +426,7 @@ these; प्रजाः beings.Commentary If I did not engage in action; peopl
 
 ।।3.24।। यदि मैं कर्म न करूँ, तो ये समस्त लोक नष्ट हो जायेंगे; और मैं
 वर्णसंकर का कर्ता तथा इस प्रजा का हनन करने वाला होऊँगा।।
+</details>
 </details>
 
 </div>

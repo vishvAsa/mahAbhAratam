@@ -25,8 +25,9 @@ title = "31 आख्याहि मे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.31॥ अतिघोररूपः **को भवान्** किं कर्तुं प्रवृत्त इति **भवन्तं ज्ञातुम् इच्छामि। तव** अभिप्रेतां **प्रवृत्तिं न जानामि।** एतद् आख्याहि मे नमोऽस्तु ते देववर प्रसीद -- नमस् ते अस्तु सर्वेश्वर एवं कर्तुम् अनेन अभिप्रायेण इदं संहर्तृरूपम् आविष्कृतम् इत्य् उक्त्वा प्रसन्नरूपश्च भव। आश्रितवात्सल्यातिरेकेण विश्वैश्वर्यं दर्शयतो भवतो घोररूपाविष्कारे को ऽभिप्राय इति पृष्टो भगवान् पार्थसारथिः स्वाभिप्रायम् आह -- पार्थोद्योगेन विना अपि धार्तराष्ट्रप्रमुखम् अशेषं राजलोकं निहन्तुम् अहम् एव प्रवृत्तः; इति ज्ञापनाय मम घोररूपाविष्कारः; तज्ज्ञापनं च पार्थम् उद्योजयितुम् इति --
@@ -41,12 +42,14 @@ title = "31 आख्याहि मे"
 
 11.31 Who are You of this terrible form, what do You intend to do; I wish to know. For I do not know Your intended actions. Tell me this. Salutations to You, O Supreme God! Salutations to You, Lord of everything! Say with what object and for what purpose You have assumed this form of the destroyer. Assume a pleasing form. The Lord, the charioteer of Arjuna, being estioned, 'What is Your intention in assuming a terrible form when revealing Your cosmic sovereignty out of overflowing love for Your proteges;' - He spoke to the following effect: The manifestation of a terrible form by Me is to point out that I Myself am operative for the annihilation of the entire world of kings headed by the sons of Dhrtarastra, without any effort on your (Arjuna's) part. Reminding Arjuna of this, is to goad him to fight:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.31॥ --,**आख्याहि** कथय मे मह्यं **कः भवान् उग्ररूपः** क्रूराकारः; **नमः अस्तु ते** तुभ्यं हे **देववर** देवानां प्रधान; **प्रसीद** प्रसादं कुरु। **विज्ञातुं** विशेषेण ज्ञातुम् **इच्छामि भवन्तम् आद्यम्** आदौ भवम् आद्यम्; **न हि** यस्मात् **प्रजानामि तव** त्वदीयां **प्रवृत्तिं** चेष्टाम्॥**श्रीभगवानुवाच --,**
 </details>
@@ -108,12 +111,14 @@ tava, Your; pravrttim, actions!
 विशेषेण ज्ञातुमिच्छामि भवन्तमाद्यं सर्वकारणम् न हि यस्मात्तव सखापि सन्
 प्रजानामि तव प्रवृत्तिं चेष्टाम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.31॥ धर्मान्तरज्ञानार्थमेव को भवानिति पृच्छति -- आख्याहीति। यथा
 कश्चित्कञ्चिन्नामादिकं जानन्नपि जातिज्ञानार्थं पृच्छति कस्त्वमिति। यदि
@@ -138,12 +143,14 @@ tava, Your; pravrttim, actions!
 तद्धर्मांश्चाक्षरत्वादीन् ज्ञात्वा तदन्यधर्मज्ञानार्थमेव प्रश्न
 इत्येवमुक्तमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.31॥ आख्याहि इति। तव प्रवृत्तिं न वेद्मि -- केनाशयेन ईदृशी इयमुग्रता इति।
 </details>
@@ -152,12 +159,14 @@ tava, Your; pravrttim, actions!
 
 11.31 Akhyahi etc. I do not clearly comprehend Your behaviour : I.e. with what intention this terrific nature of this sort \[has been assumed by You\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.31॥ अतस्त्वमाख्याहि। को भवानुग्ररूपो दृश्यसे हे देववर प्रसीदेति
 स्वस्य भीतत्वं सूचयति। एवं च त्वामाद्यं पुरुषं भयङ्कराकारेण वर्तमानं
@@ -178,10 +187,13 @@ tava, Your; pravrttim, actions!
 तज्ज्ञानमपि भविष्यतीत्यर्थः। एवं सलीलं त्वज्ज्ञानेन भजनं करिष्याम्यतो
 विज्ञातुमिच्छामीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.31॥ यत एवं तस्मात् **-- आख्याहीति।** भवानुग्ररूपः क इत्याख्याहि
 कथय। तुभ्यं नमोऽस्तु। हे देववर; प्रसीद प्रसन्नो भव। भवन्तमाद्यं पुरुषं
@@ -189,10 +201,13 @@ tava, Your; pravrttim, actions!
 प्रवृत्तोऽसीति न जानामि। एवंभूतस्य तव प्रवृत्तिं वार्तामपि न जानामीति
 वा।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.31 Tell me who You are with this terrible form; Salutation to You, O Supreme God. Be gracious. I desire to know You, the Primal One. I do not know Your activity.
@@ -225,11 +240,13 @@ have mercy; विज्ञातुम् to know; इच्छामि (I) wi
 the original Being; न not; हि indeed; प्रजानामि (I) know; तव Thy;
 प्रवृत्तिम् doing.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.31।। मुझे यह बताइये कि उग्ररूपवाले आप कौन हैं; हे देवताओंमें
@@ -279,6 +296,7 @@ the original Being; न not; हि indeed; प्रजानामि (I) know
 में श्रेष्ठ! आपको नमस्कार है, आप प्रसन्न होइये। आदि स्वरूप आपको मैं
 (तत्त्व से) जानना चाहता हूँ, क्योंकि आपकी प्रवृत्ति (अर्थात् प्रयोजन को)
 को मैं नहीं समझ पा रहा हूँ।।
+</details>
 </details>
 
 </div>

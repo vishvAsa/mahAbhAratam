@@ -23,8 +23,9 @@ title = "28 अश्रद्धया हुतम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.28॥**अश्रद्धया कृतं** शास्त्रीयम् अपि होमादिकम् **असद् इति** उच्यते। कुतः **न च तत् प्रेत्य नो इह;** न मोक्षाय न सांसारिकाय च फलाय इति।
@@ -41,12 +42,14 @@ title = "28 अश्रद्धया हुतम्"
 
 17.28 Offerings etc., when performed without faith, are Asat (i.e., unreal, bereft of efficiency), although they might be what has been enjoined by the Sastras. Why so; Because it is naught here or hereafter; it will not lead to release nor to any desirable result in Samsara.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.28॥ --,**अश्रद्धया हुतं** हवनं कृतम्; अश्रद्धया **दत्तं** ब्राह्मणेभ्यः; अश्रद्धया **तपः तप्तम्** अनुष्ठितम्; तथा अश्रद्धयैव **कृतं यत्** स्तुतिनमस्कारादि; तत् सर्वम् **असत् इति उच्यते;** मत्प्राप्तिसाधनमार्गबाह्यत्वात् **पार्थ। न च तत्** बहुलायासमपि **प्रेत्य** फलाय **नो** अपि इहार्थम्; साधुभिः निन्दितत्वात् इति॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -165,12 +168,14 @@ being endowed with such disciplines as hearing and and thinking
 श्रद्धात्रैविध्यप्रदर्शनमुखेनाहारादित्रैविध्यप्रदर्शनेन च भगवता निर्णयः
 कृत इति सिद्धम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.28॥ तथाच ऋग्वेदखिलेषु -- यज्ञाद्या निष्फलं कर्म तत्स्यात्सद्वै
 तदर्थकं कर्म वदन्ति देवाः। तच्छब्दानां
@@ -185,12 +190,14 @@ being endowed with such disciplines as hearing and and thinking
 यज्ञादिषु सन्निधेरवगततद्रूपत्वात् तत्प्रतिमात्वात् तस्योक्तप्रकारेण
 यज्ञादीनामनुष्ठातुः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.28॥ इदानीमश्रद्धावतः तामसं कर्म सर्वथा +++(S सर्वथैव )+++ निष्फलं कारककलापसंयोजनसमुपजनितप्रयासमात्रफलमेव +++(Nसंयोजनमुपजनित -- )+++ ; इति सर्वथैव +++(S सर्वथा )+++ अश्रद्धावता न भाव्यमित्युच्यते -- अश्रद्धयेति। असदिति -- अप्रशस्तम्। तस्मात् प्रशस्ते कर्मणि यतमानानां सुखेनैव भवति शिवम् इति॥। शिवम्॥ अत्र संग्रहश्लोकः -- स एव कारकावेशः क्रिया सैवाविशेषिणी।  
   
@@ -203,12 +210,14 @@ being endowed with such disciplines as hearing and and thinking
 
 17.28 Asradhaya etc. ASAT : not praiseworthy (or inauspicious). Therefore Happiness just easily arises for those who exert in the prasieworthy (or auspicious) act.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.28॥ किञ्च यज्ञादिकं हुतादिकं च यत्कृतं अश्रद्धया
 शास्त्रीयश्रद्धाराहित्येन तदसद्व्यर्थमित्यर्थः। कुतः न च तत्प्रेत्य नो
@@ -225,10 +234,13 @@ being endowed with such disciplines as hearing and and thinking
 कर्त्तव्यमिति निरूपितम्। निष्फलं त्रिगुणं कर्म सश्रद्धमपि यत्कृतम्। सफलं
 निर्गुणं चातः कर्त्तव्यमिति रूपितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.28॥ इदानीं सर्वकर्मसु श्रद्धयैव प्रवृत्त्यर्थमश्रद्धाकृतं सर्वं
 निन्दति **--** **अश्रद्धयेति।** अश्रद्धया हुतं हवनं; दत्तं दानं; तप्तं
@@ -236,10 +248,13 @@ being endowed with such disciplines as hearing and and thinking
 यतस्तत्प्रेत्य लोकान्तरे न फलति विगुणत्वात्। नो इह न चास्मिंल्लोके फलति;
 अयशस्करत्वात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.28 Whatever offering or gift is made, whatever austerity is practised and whatever action is performed without faith, that is called Asat, O Arjuna. It is naught here or hereafter.
@@ -275,11 +290,13 @@ austerity; तप्तम् is practised; कृतम् performed; च and; 
 that; प्रेत्य hereafter (after death); न not; इह here.Commentary Asat That which changes form and has no permanent existence. It does not mean nonexistence as such.Acts of sacrifice; austerity and gift that are performed without faith; under pressure; or to prevent some sort of trouble or to gratify a craving; are Asat in their nature. They yield no permanent benefit or fruit to anybody.Any sacrifice; austerity or gift done without dedicating it to the Lord will be of no avail to the doer in this earthly life here or in the life beyond hereafter. It would be as useless as showers of rain falling on rocky ground or pouring oblations of ghee (clarified butter) on cold ashes. If you have no faith you will become egoistic and obstinate. Your heart will become hard. If you perform even hundreds of sacrifices without faith; without the spirit of selfsurrender to the Lord; even if you distribute the wealth of the whole world in charity without faith in and devotion to the Lord;
 all these would be worthless and useless. The sages will not appreciate such sacrifices or gifts. Energy; money and time are simply wasted.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the seventeenth discourse entitledThe Yoga of the Division of the Threefold Faith. ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.28।। हे पार्थ ! अश्रद्धासे किया हुआ हवन, दिया हुआ दान और तपा हुआ तप
@@ -382,6 +399,7 @@ all these would be worthless and useless. The sages will not appreciate such sac
 ।।17.28।। हे पार्थ ! जो यज्ञ, दान, तप और कर्म अश्रद्धापूर्वक किया जाता
 है, वह 'असत्' कहा जाता है; वह न इस लोक में (इह) और न मरण के पश्चात् (उस
 लोक में) लाभदायक होता है।।
+</details>
 </details>
 
 </div>

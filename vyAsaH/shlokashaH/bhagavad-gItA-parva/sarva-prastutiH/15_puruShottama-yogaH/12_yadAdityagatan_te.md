@@ -23,8 +23,9 @@ title = "12 यदादित्यगतन् तेजो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.12॥ अखिलस्य जगतो भासकम् एतेषाम् आदित्यादीनां **यत्तेजस् तत्** मदीयं **तेजः** तैस् तैर् आराधितेन मया तेभ्यो दत्तम इति **विद्धि। पृथिव्याश् च भूतधारिण्या धारकत्वशक्तिर् मदीया इत्याह --**
@@ -39,12 +40,14 @@ title = "12 यदादित्यगतन् तेजो"
 
 15.12 That brilliance of the sun and other luminaries which illumines the whole universe - that brilliance belongs to Me. Know that this capacity of illumining is granted to them by Me who have been worshipped severally by them. Sri Krsna states that the power in the earth to support all those that reside on it belongs to Him alone:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.12॥ --,**यत् आदित्यगतम्** आदित्याश्रयम्। किं तत् **तेजः** दीप्तिः प्रकाशः **जगत् भासयते** प्रकाशयति **अखिलं** समस्तम् **यत् चन्द्रमसि** शशभृति तेजः अवभासकं वर्तते; **यच्च अग्नौ** हुतवहे; **तत् तेजः विद्धि** विजानीहि **मामकं** मदीयं मम विष्णोः तत् ज्योतिः। अथवा; आदित्यगतं तेजः चैतन्यात्मकं ज्योतिः; यच्चन्द्रमसि; यच्च अग्नौ वर्ततेः तत् तेजः विद्धि मामकं मदीयं मम विष्णोः तत् ज्योतिः॥ ननु स्थावरेषु जङ्गमेषु च तत् समानं चैतन्यात्मकं ज्योतिः। तत्र कथम् इदं विशेषणम् -- यदादित्यगतम् इत्यादि। नैष दोषः; सत्त्वाधिक्यात् आविस्तरत्वोपपत्तेः। आदित्यादिषु हि सत्त्वं अत्यन्तप्रकाशम् अत्यन्तभास्वरम् अतः तत्रैव आविस्तरं ज्योतिः इति तत् विशिष्यते; न तु तत्रैव तत् अधिकमिति। यथा हि श्लोके तुल्येऽपि मुखसंस्थाने न काष्ठकुड्यादौ मुखम् आविर्भवति; आदर्शादौ तु स्वच्छे च तारतम्येन आविर्भवति तद्वत्॥ किं च --,
 </details>
@@ -172,12 +175,14 @@ transparent, so is it here. Further,
 जगदवभासकं तेजस्तन्मामकं विद्धीति कथनाय द्वितीयोऽप्यर्थो द्रष्टव्यः
 अन्यथा तन्मामकं विद्धीत्येतावद्बूयात्तेजोग्रहणमन्तरेणैवेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.12 -- 15.14॥ पूर्वोक्तमेव ज्ञानं प्रपञ्चयति --
 यदादित्यगतमित्यादिना। गां भूमिम्।
@@ -190,12 +195,14 @@ transparent, so is it here. Further,
 यत्सर्वान्तर्यामिस्वरूपं विज्ञानमुक्तं; यच्चोर्ध्वशब्देन सर्वोत्तमत्वं
 तदध्यायशेषेण प्रपञ्चयतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.12 -- 15.14॥ यदादित्येत्यादि चतुर्विधमित्यन्तम्। अर्कादितेजस्त्रयरूपतया दशमाध्यायसूचितसृष्टिस्थितिसंहार \[कर्तृत्व\] प्रकटीकरणे श्रीगुरवः प्राहुः +++(;N श्रीगुरवस्त्त्वाहुः)+++ -- भूतपञ्चकस्य समस्तव्यस्ततया यल्लोकधारकत्वं ( लोकद्वयाधारकत्वं च) तद्भगवत एव माहेश्वर्यमित्येतदनेन \[उक्तमिति\]। तथाहि -- रवितेजसः प्रकाशकत्वं धारकत्वं च तेजोधराद्वयतादात्म्यात्। तदेतदुक्तम् यदादित्यगतम् इति गामाविश्य च इति चार्धद्वयेन। चान्द्रं तेजः प्रकाशकं पोषकं च; धराजलतेजोयोगात् +++(K. omits धरा)+++। तदुक्तम् यच्चन्द्रमसि इत्यनेन भागेन पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः +++(;N omit चौषधीः -- त्मकः)+++ इति चार्धश्लोकेन। वाह्नं तु तेजः प्रकाशनशोषणदहनस्वेदनपचनात्मकं पृथिव्यप्तेजोवायुयोगात्। तदेतदिहोक्तम् +++(N तदेवेहोक्तम्)+++ यच्चाग्नौ इत्यनेन; अहं वैश्वानरः इत्यनेन च +++(S;;N इति श्लोकेन च)+++। नभस्तु बोधावकाशरूपतया सर्वगतमेव।
 </details>
@@ -204,12 +211,14 @@ transparent, so is it here. Further,
 
 15.12 See Comment under 15.14
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.12॥ तदेवं सूर्यादीनां
 इन्द्रियसन्निकर्षविरोधिसन्तमसनिरसनमुखेनेन्द्रियानुग्राहकतया प्रकाशकानां
@@ -234,10 +243,13 @@ transparent, so is it here. Further,
 ज्ञापितम्। एतेन मत्क्रीडनेच्छया तद्रूपो भूत्वा जगत्प्रकाशयतीति भावो
 बोधितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.12॥ तदेवंन तद्भासयते सूर्यः इत्यादिना पारमेश्वरं परं धामोक्तं;
 तत्प्राप्तानां चापुनरावृत्तिरुक्ता; तत्र च संसारिणोऽभावमाशङ्क्य
@@ -245,10 +257,13 @@ transparent, so is it here. Further,
 रूपमनन्तशक्तित्वेन निरूपयति **-- यदेत्यादिचतुर्भिः।** आदित्यादिषु स्थितं
 यदनेकप्रकारं तेजो विश्वं प्रकाशयति तत्सर्वं तेजो मदीयमेव जानीहि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.12 That brilliance in the sun which illumines the whole universe,
@@ -283,11 +298,13 @@ that which is in the moon and in the fire know that light to be Mine.
 मामकम् Mine.Commentary The immanence of the Lord as the allilluminating light of consciousness is described in this verse.I am the cause and the source of the light by which the sun illumines the world; as also the reflected light of the sun in the moon and that of fire.Tejah Light The light of consciousness.If that is so; an objector says The light of consciousness exists alike in all moving and unmoving objects. Then why has the Lord mentioned this special alification of light as residing in the sun; moon and fire Please explain. We say The higher manifestation of the light of consciousness in the sun; etc.; is due to a large concentration of Sattva in them. Sattva is very brilliant and luminous in them. That is the reason why there is this special alification.Here is an illustration. The face of a man is not at all reflected on a wall;
 piece of wood or a block of stone; but the same face is reflected beautifully in a very clean mirror. The degree of clearness of the reflection in the mirror is acording to the degree of transparency of the mirror. The more the transparency of the mirror; the better the reflection of the face the less the transparency; the worse the reflection. Even so Gods light shines in the sun and also in the pure heart of a devotee.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.12।। सूर्यमें आया हुआ जो तेज सम्पूर्ण जगत् को प्रकाशित करता है और जो
@@ -405,6 +422,7 @@ piece of wood or a block of stone; but the same face is reflected beautifully in
 
 ।।15.12।। जो तेज सूर्य में स्थित होकर सम्पूर्ण जगत् को प्रकाशित करता है
 तथा जो तेज चन्द्रमा में है और अग्नि में है, उस तेज को तुम मेरा ही जानो।।
+</details>
 </details>
 
 </div>

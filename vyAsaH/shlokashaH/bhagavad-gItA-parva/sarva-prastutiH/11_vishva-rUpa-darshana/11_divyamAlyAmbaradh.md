@@ -23,8 +23,9 @@ title = "11 दिव्यमाल्याम्बरधरन्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.11॥**देवं** द्योतमानम् **अनन्तं** कालत्रयवर्तिनिखिलजगदाश्रयतया देशकालपरिच्छेदानर्हं **विश्वतोमुखं** विश्वदिग्वर्तिमुखं स्वोचितदिव्याम्बरगन्धमाल्याभरणायुधान्वितम्। ताम् एव देवशब्दनिर्दिष्टां द्योतमानतां विशिनष्टि --
@@ -40,12 +41,14 @@ title = "11 दिव्यमाल्याम्बरधरन्"
 11.10 - 11.11 'Divyam' means resplendent. 'Anantam' (boundless) means that form is not limited by time and space because of its being the foundation of the entire universe in the past, present and future.
 'Visvatomukham' means facing in all directions. This form is adorned with divine raiments, perfumes, garlands, ornaments and weapons appropriate to it. He explains the same resplendence expressed by the term 'Divyam':
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.11॥ --,**दिव्यमाल्याम्बरधरं** दिव्यानि माल्यानि पुष्पाणि अम्बराणि वस्त्राणि **च** ध्रियन्ते येन ईश्वरेण तं दिव्यमाल्याम्बरधरम्; दिव्यगन्धानुलेपनं **दिव्यं गन्धानुलेपनं** यस्य तं दिव्यगन्धानुलेपनम्; **सर्वाश्चर्यमयं** सर्वाश्चर्यप्रायं **देवम् अनन्तं** न अस्य अन्तः अस्ति इति अनन्तः तम्; **विश्वतोमुखं** सर्वतोमुखं सर्वभूतात्मभूतत्वात्; तं दर्शयामास। अर्जुनः ददर्श इति वा अध्याह्रियते॥ या पुनर्भगवतः विश्वरूपस्य भाः; तस्या उपमा उच्यते --,
 </details>
@@ -104,12 +107,14 @@ more being given of the effulgence of the Cosmic form of the Lord:
 विश्वतः सर्वतो मुखानि यस्मिन् तद्रूपं दर्शयामासेति पूर्वेण संबन्धः।
 अर्जुनो ददर्शेत्यध्याहारो वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.11॥ सर्वाश्चर्यमयं सर्वाश्चर्यात्मकम्।
 </details>
@@ -120,12 +125,14 @@ more being given of the effulgence of the Cosmic form of the Lord:
 तदसत्; सर्वशब्देन गतार्थत्वादिति भावेनाह -- **सर्वे**ति।
 मयटस्तादात्म्यार्थत्वे प्रमाणमुक्तमेव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.11॥ No commentary.
 </details>
@@ -134,12 +141,14 @@ more being given of the effulgence of the Cosmic form of the Lord:
 
 11.11 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.10 -- 11.11॥ तच्च कीदृशमिति तच्छृणु -- अनेकवक्त्रनयनं
 इत्यारभ्यविश्वतोमुखं इत्यन्तं रूपविशेषणानि। इदं च
@@ -157,20 +166,26 @@ more being given of the effulgence of the Cosmic form of the Lord:
 दुर्वितर्क्यं देवं सर्वपूज्यम्; अनन्तमपरिच्छन्नम् व्यापकम्। विश्वतोमुखं
 सर्वं पश्यन्तं सर्वसन्मुखम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.11॥ किंच **-- दिव्येति।** दिव्यानि माल्याम्बराणि च धारयन्तीति तथा;
 दिव्यो गन्धो यस्य तादृशमनुलेपनं यस्य तत्;
 सर्वाश्चर्यमयमनेकाश्चर्यप्रायम्; देवं द्योतनात्मकम्; अनन्तमपरिच्छिन्नम्;
 विश्वतः सर्वतो मुखानि यस्मिंस्तत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.11 Wearing celestial garlands and raiments, anointed with divine perfumes, full of all wonders, resplendent, boundless and facing all directions.
@@ -207,11 +222,13 @@ infinite; and it has faces in all directions.
 and thing respectively) is Anantam. He is Brahman. This philosophical concept is explained below.The pot is here. This is spacelimitatio. The pot is now here. This is timelimitation. The pot is not a cloth. This is thing(material) limitation. There is saffron in Kashmir only. This is limitation of space and thing. You can have apples only in September.
 This is limitation of time and thing. But Brahman is everywhere; as It is allpervading. It exists in the past; the present and the future. It dwells in all parts. Hence It is beyond these three limitations. It is therefore endless.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.10 -- 11.11।। जिसके अनेक मुख और नेत्र हैं, अनेक तहरके अद्भुत दर्शन
@@ -257,6 +274,7 @@ This is limitation of time and thing. But Brahman is everywhere; as It is allper
 ।।11.11।। दिव्य माला और वस्त्रों को धारण किये हुये और दिव्य गन्ध का लेपन
 किये हुये एवं समस्त प्रकार के आश्चर्यों से युक्त अनन्त, विश्वतोमुख
 (विराट् स्वरूप) परम देव (को अर्जुन ने देखा)।।
+</details>
 </details>
 
 </div>

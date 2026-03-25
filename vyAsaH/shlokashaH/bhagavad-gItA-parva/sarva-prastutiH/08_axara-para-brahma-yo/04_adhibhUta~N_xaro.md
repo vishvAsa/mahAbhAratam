@@ -23,8 +23,9 @@ title = "04 अधिभूतङ् क्षरो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.4॥ ऐश्वर्यार्थिनां ज्ञातव्यतया निर्दिष्टम् **अधिभूतं क्षरो भावः**-   
@@ -63,12 +64,14 @@ title = "04 अधिभूतङ् क्षरो"
 
 8.4 The perishable existences which have been declared as fit to be known by the seekers of wealth, power etc., form the Adhibhuta. They are superior material entities that remain in ether or space and other elements. They are the evolutes of material elements and are perishable in their nature. They are also of the nature of sound, touch etc., supported by their basic subtle elements but different from, and finer than, ordinary sound etc., and are of many kinds. Sound, touch, form, taste and smell on this kind, which are manifold and rooted in their several bases, are to be gained by the seekers after prosperity and should be contemplated upon by them. Adhidaivata connotes Purusa. The Purusa is superior to divinities like Indra, Prajapati and others, and is the experiencer of sound etc., which are different from, and superior to, the multitude of enjoyments of Indra, Prajapati etc. The condition of being such an enjoyer is to be contemplated upon by the seekers after prosperity, as the end to be attained. I alone am connoted by the term Adhiyajna (sacrifice). Adhiyajna denotes one who is propitiated in sacrifices. Indra and others, to whom sacrifices are made, form My body. I dwell as their Self and I alone am the object of worship by sacrifice. In this manner the three groups of alified devotees should contemplate at the time of the practice of periodical and occasional rituals like the great sacrificies. This is also common to all the three groups of devotees.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.4॥ --, 
 
@@ -195,12 +198,14 @@ is said to be going on in the body.
 मत्संभाषणात्कृतकृत्यस्त्वमेतद्बोधयोग्योऽसीति प्रोत्साहयत्यर्जुनं भगवान्।
 अर्जुनस्य सर्वप्राणिश्रेष्ठत्वं भगवदनुग्रहातिशयभाजनत्वात्प्रसिद्धमेव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.4॥ भूतानि सशरीरान् जीवानधिकृत्य यत्तदधिभूतम्। क्षरो भावो
 विनाशिकार्यपदार्थः। अव्यक्तान्तर्भावेऽपि तस्याप्यन्यथाभावाख्यो
@@ -297,12 +302,14 @@ is said to be going on in the body.
 अत्यभिमानविषयत्वाभावात्। महाभूताधिकारगं महाभूतम्। कार्यकारणग्रहणहेतुः।
 तदन्तिकात्तत्तादात्म्यात् देवानामुपकारकृत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.4॥ अधिभूतमिति।  
 क्षरति स्रवति परिणामादि-धर्मेण इति **क्षरः** +++(S omits क्षरः)+++ - घटादिः पदार्थग्राम उच्यते।  
@@ -316,12 +323,14 @@ is said to be going on in the body.
 
 8.4 Adhibhutam etc. The world of material beings, like pot etc., is of changing nature, because it flows or gushes forth with its innate nature of changes etc. Person : Self. It is the lord of the devinities, as all deities are established in It (or all deities get their perfections in It). On the same reason it is only Myself, the Supreme Soul, Who remain lording - as an enjoyer of sacrifice in its entirty - over sacrifices i.e. actions that are to be performed inevitably; and it is I only Who dwell in the body. Thus, a pair of estions have been decided by single effort. Now, the other estion that remains to be answered viz., 'How are You to be realised at the time of departure ;', the Lord decides as :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.4॥ अग्रिमाणामाह -- अधिभूतमिति। पूर्वनिर्दिष्टमधिभूतं क्षरो भावः
 भूताधिकृतः क्षरणस्वभावो भौतिकः पदार्थः युष्मदादिविराडन्तः किञ्च पुरुषो
@@ -350,10 +359,13 @@ is said to be going on in the body.
 हे देहभृतां वर मत्सेवौपयिकसामर्थ्ययुक्त अत्र जगति देहे देहनिमित्तं
 सेवौपयिकोपचयार्थं अधियज्ञः यज्ञादिकर्मात्मकस्तत्प्रवर्तकश्चेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.4॥ किंच **-- अधिभूतमिति।** क्षरो विनश्वरो भावो देहादिपदार्थो भूतं
 प्राणिमात्रमधिकृत्य भवतीत्यधिभूतमुच्यते। पुरुषो वैराजः
@@ -368,10 +380,13 @@ is said to be going on in the body.
 देहभृतां मध्ये श्रेष्ठ इति संबोधयन् त्वमप्येवंभूतमन्तर्यामिणं
 पराधीनस्वप्रवृत्तिनिवृत्त्यन्वयव्यतिरेकाभ्यां बोद्धुमर्हसीति सूचयति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.4 The which exists in the physical plane is the mutable entity, and what exists in the divine plane is the Person. O best among the embodied beings, I Myself am the entity that exists in the sacrifice in this body.
@@ -400,11 +415,13 @@ here; देहे in the body; देहभृताम् of the embodied; व
   
 Vishnu. Lord Vishnu identifies Himself with all sacrificial acts. Yajna is verily Vishnu; says the Taittiriya Samhita of the Veda. Lord Krishna says; I am the presiding deity in all acts of sacrifice in the body. All sacrifices are done by the body and so it may be said that they rest in the body.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.4।। हे देहधारियोंमें श्रेष्ठ अर्जुन ! क्षरभाव अर्थात् नाशवान्
@@ -626,6 +643,7 @@ Vishnu. Lord Vishnu identifies Himself with all sacrificial acts. Yajna is veril
 
 ।।8.4।। हे देहधारियों में श्रेष्ठ अर्जुन ! नश्वर वस्तु (पंचमहाभूत)
 अधिभूत और पुरुष अधिदैव है; इस शरीर में मैं ही अधियज्ञ हूँ।।
+</details>
 </details>
 
 </div>

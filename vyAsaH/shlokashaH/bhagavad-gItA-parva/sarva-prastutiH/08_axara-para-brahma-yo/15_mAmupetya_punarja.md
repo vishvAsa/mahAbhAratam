@@ -23,8 +23,9 @@ title = "15 मामुपेत्य पुनर्जन्म"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.15॥**मां** प्राप्य **पुनः** निखिल**दुःखालयम्** अस्थिरं **जन्म न प्राप्नुवन्ति** यत एते **महात्मानः** महामनसो यथावस्थितमत्स्वरूपज्ञाना अत्यर्थमत्प्रियत्वेन मया विना आत्मधारणम् अलभमाना मय्य् आसक्तमनसो मदाश्रया माम् उपास्य परमसंसिद्धिरूपं मां प्राप्ताः। ऐश्वर्यगतिं प्राप्तानां भगवन्तं प्राप्तानां च पुनरावृत्तौ अपुनरावृत्तौ च हेतुम् अनन्तरम् आह --
@@ -39,12 +40,14 @@ title = "15 मामुपेत्य पुनर्जन्म"
 
 8.15 Having attained Me, they are not subject to rirth, which leads to a condition that is transient and an abode of sorrow. These great souls, i.e., men of noble minds, worship and attains Me as the sorrow object of attainment; because they possess knowledge of My essential nature as it really is; they are unable to maintain or sustain themselves without Me, as I am exceedingly dear to them. With their minds deeply attached to Me and completely dependent on Me, they reach Me as the supreme goal. Sri Krsna next teaches the reason for the return to Samsara of those aspirants for Aisvarya (prosperity) and for the non-return to Samsara of those who have reached the Lord:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.15॥ --,**माम् उपेत्य** माम् ईश्वरम् उपेत्य मद्भावमापद्य **पुनर्जन्म** पुनरुत्पत्तिं नाप्नुवन्ति न प्राप्नुवन्ति। किं विशिष्टं पुनर्जन्म न प्राप्नुवन्ति इति तद्विशेषणमाह -- **दुःखालयं** दुःखानाम् आध्यात्मिकादीनां आलयम् आश्रयम् आलीयन्ते यस्मिन् दुःखानि इति दुःखालयं जन्म। न केवलं दुःखालयम् **अशाश्वतम्** अनवस्थितस्वरूपं च। **नाप्नुवन्ति** ईदृशं पुनर्जन्म **महात्मानः** यतयः **संसिद्धिं** मोक्षाख्यां **परमां** प्रकृष्टां **गताः** प्राप्ताः। ये पुनः मां न प्राप्नुवन्ति ते पुनः आवर्तन्ते॥ किं पुनः त्वत्तः अन्यत् प्राप्ताः पुनरावर्तन्ते इति उच्यते
 --,
@@ -138,12 +141,14 @@ return;' This is being answered:
 मल्लोकभोगान्ते परमां सर्वोत्कृष्टां संसिद्धिं मुक्तिं गतास्ते। अत्र मां
 प्राप्य सिद्धिं गता इति वदतोपासकानां क्रममुक्तिर्दर्शिता।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.15॥ तत्प्राप्तिं स्तौति -- मामिति। परमां सिद्धिं गता इति हि तत्र
 हेतुः।
@@ -160,12 +165,14 @@ return;' This is being answered:
 तत्र स्वयम्प्राप्तानां जन्माभावे हेतुरयमुच्यते। न तु भगवत्प्राप्तेरन्या
 परमसंसिद्धिप्राप्तिरित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.15॥ ननु मद्भावं याति इत्युक्तम्। तत्किं +++(SN तत्र किम्)+++ प्राप्तेऽपि पुनरावृत्तिरस्ति इत्यशंक्याह -- मामुपेत्येति। अन्यतस्तु सर्वत एव पुनरावृत्तिरस्ति इति +++(omits अन्यतस्तु -- इति)+++ समनन्तरश्लोकेन प्रतिपादयिष्यते। मां तु प्राप्य न पुनर्योगिनः जन्मादित्रासमाप्नुवन्ति ( N प्राप्नुवन्ति NK [n] add न स पुनरावर्तते इति श्रुतेः। यं प्राप्य न निवर्तन्ते इत्यग्रेऽपि) ।
 </details>
@@ -174,12 +181,14 @@ return;' This is being answered:
 
 8.15 Mam upetya etc. In the next verse it is going to be asserted that from all others (other goals) one has to return back. But \[in the present verse it is declared that \] 'having attained Me, the Yogins do not again suffer from fear of rirth etc.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.15॥ स्वप्राप्तावपुनरावृत्तिं सदाचारेण दर्शयति -- मामिति। परमपुरुषं
 अन्तर्यामिणमक्षरं परं पुरुषोत्तमं मां प्राप्य पुनर्जन्म न प्राप्नुवन्ति
@@ -195,20 +204,26 @@ return;' This is being answered:
 पुनः दुःखालयं संसारात्मकं अशाश्वतमनित्यं लौकिकं जन्म न
 प्राप्नुवन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.15॥ यद्यप्येवं त्वं सुलभोऽसि ततः किमत आह **-- मामिति।** उक्तलक्षणा
 महात्मानो मद्भक्ता मां प्राप्य पुनर्दुःखाश्रयमनित्यं च जन्म न
 प्राप्नुवन्ति। यतस्ते परमां सम्यक्सिद्धिं मोक्षमेव प्राप्ताः पुनर्जन्म
 दुःखानां चालयं स्थानं ते मामुपेत्य न प्राप्नुवन्तीति वा।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.15 As a result of reaching Me, the exalted ones who have attained the highest perfection do not get rirth which is an abode of sorrows and which is impermanent.
@@ -237,11 +252,13 @@ Mahatmas or the great souls; संसिद्धिम् to perfection; प�
 गताः having reached.Commentary Birth is the home of pain or seat of sorrow arising from the body. Study the Garbhopanishad. There the nature of pain; i.e.; how the child is confined in the womb; and how it is pressed during its passage along the vaginal canal and the neck of the womb or uterus; is described. Further it is much affected by the PrasutiVayu (the vital air which is responsible for the delivery of the child).Mahatmas (great souls) are free from Rajas and Tamas.Having attained Me This denotes KramaMukti or gradual liberation. The devotees who pass along the Devayana through the force of their Upasana; attain to Brahmaloka (the world of Brahma the Creator) or Satyaloka (the world of truth; the highest of the seven worlds) and there enjoy all the divine wealth and glory of the Lord and then attain to Kaivalya Moksha
 (final liberation) through the knowledge of Brahman; along with Brahma during the cosmic dissolution.Mahatmas or great souls who have attained Moksha do not come again to birth. Those who have not attained Me; take birth again in this world.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.15।। महात्मालोग मुझे प्राप्त करके दुःखालय और अशाश्वत पुनर्जन्मको
@@ -331,6 +348,7 @@ Mahatmas or the great souls; संसिद्धिम् to perfection; प�
 
 ।।8.15।। परम सिद्धि को प्राप्त हुये महात्माजन मुझे प्राप्त कर अनित्य
 दुःख के आलयरूप (गृहरूप) पुनर्जन्म को नहीं प्राप्त होते हैं।।
+</details>
 </details>
 
 </div>

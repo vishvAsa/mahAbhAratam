@@ -23,8 +23,9 @@ title = "12 लोभः प्रवृत्तिरारम्भः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.12॥**लोभः** स्वकीयद्रव्यस्य अत्यागशीलता। **प्रवृत्तिः** प्रयोजनम् अनुद्दिश्य अपि चलनस्वभावता। **आरम्भः,**कर्मणां **फलसाधनभूतानां कर्मणाम् आरम्भे उद्योगः।** अशमः **इन्द्रियानुपरतिः।** स्पृहा **विषयेच्छा।** एतानि रजसि प्रवृद्धे जायन्ते। **यदा लोभादयो वर्तन्ते; तदा रजः प्रवृद्धम् इति विद्याद् इत्यर्थः।**
@@ -42,12 +43,14 @@ title = "12 लोभः प्रवृत्तिरारम्भः"
 'Undertaking of works' is engagement in works which yield fruits.
 'Unrest' is absence of rest of sense-activities. 'Longing' is the desire for sense objects. These predominate when Rajas has increased. The meaning is that whenever greed etc., prevail, then one should know that Rajas has very much increased.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.12॥ --,**लोभः** परद्रव्यादित्सा; **प्रवृत्तिः** प्रवर्तनं सामान्यचेष्टा; **आरम्भः** कस्य **कर्मणाम्। अशमः** अनुपशमः; हर्षरागादिप्रवृत्तिः **स्पृहा** सर्वसामान्यवस्तुविषया तृष्णा -- **रजसि** गुणे **विवृद्धे एतानि** लिङ्गानि **जायन्ते** हे **भरतर्षभ**॥
 </details>
@@ -110,12 +113,14 @@ things.
 येनकेनाप्युपायेनोपादित्सा। रजसि रागात्मके विवृद्धे एतानि रागात्मकानि
 लिङ्गानि जायन्ते। हे भरतर्षभ; एतैर्लिङ्गैर्विवृद्धं रजो जानीयादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.12॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -124,12 +129,14 @@ things.
 
 ॥14.12॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.11 -- 14.13॥ सर्वेत्यादि कुरुनन्दनेत्यन्तम्। सर्वद्वारेषु; सर्वेन्द्रियेषु। लोभादयः +++(S लोकादिकाः)+++ क्रमेणैव रजस्युद्रिच्यमाने जायन्ते। एवमप्रकाशादय क्रमेणैव तमोविवृद्धौ ( तमोवृद्धौ) आविर्भवन्ति।
 </details>
@@ -138,12 +145,14 @@ things.
 
 14.12 See Comment under 14.13
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.12॥ लोभ इति। लोभस्तु कार्पण्यम्। प्रयोजनमनुद्दिश्यापि चलस्वभावता
 प्रवृत्तिः। आरम्भ उद्योगः कर्मणाम्।
@@ -160,10 +169,13 @@ things.
 रजोविवृद्धिं विद्यादित्यर्थः। भरतर्षभ इति सम्बोधनं
 राज्याद्यर्थस्पृहाभावेनैतद्दोषराहित्याय।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.12॥ किंच **-- लोभ इति।** लोभो धनाद्यागमे बहुधा जायमानेऽपि पुनः
 पुनर्वर्धमानोऽभिलाषः; प्रवृत्तिर्नित्यं कुर्वद्रूपता; कर्मणामारम्भो
@@ -172,10 +184,13 @@ things.
 वस्तुष्वितस्ततो जिघृक्षा; रजसि प्रवृद्धे सति एतानि लिङ्गानि जायन्ते।
 एतैर्लिङ्गै रजोगुणस्य वृद्धिं विद्यादित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.12 Greed, activity, undertaking of work, unrest and longing - these arise, O Arjuna, when Rajas prevails.
@@ -210,11 +225,13 @@ these; जायन्ते arise; विवृद्धे having become predo
 is the most active man in the whole world whereas the man who runs here and there and who is always very busy does nothing at all. This may be paradoxical to you. Very few can comprehend the truth of this statement.
 Sattva is intense activity. A wheel that revolves very rapidly appears to be at rest. So is Sattva. So is a Sattvic man.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.12।। हे भरतवंशमें श्रेष्ठ अर्जुन ! रजोगुणके बढ़नेपर लोभ, प्रवृत्ति,
@@ -308,6 +325,7 @@ Sattva is intense activity. A wheel that revolves very rapidly appears to be at 
 ।।14.12।। हे भरत-श्रेष्ठ ! रजोगुण के प्रवृद्ध होने पर लोभ, प्रवृत्ति
 (सामान्य चेष्टा) कर्मों का आरम्भ, शम का अभाव तथा स्पृहा, ये सब उत्पन्न
 होते हैं।।
+</details>
 </details>
 
 </div>

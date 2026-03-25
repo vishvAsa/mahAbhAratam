@@ -23,8 +23,9 @@ title = "08 न तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.8॥ अहं मम देहैकदेशे सर्वं जगद् दर्शयिष्यामि; त्वं **त्व् अनेन** नियमितपरिमितवस्तुग्राहिणा प्राकृतेन **स्वचक्षुषा मां** तथाभूतं सकलेतरविसजातीयम् अपरिमेयं **द्रष्टुं न शक्यसे।** तव **दिव्यम्** अप्राकृतं मद्दर्शनसाधनं,**चक्षुर् ददामि। पश्य मे योगम् ऐश्वरं** मदसाधारणं योगं पश्य; मम अनन्तज्ञानादियोगम् अनन्तविभूतियोगं च पश्य इत्यर्थः।
@@ -40,12 +41,14 @@ title = "08 न तु"
 11.8 I shall reveal to you the whole universe in one part of my body. But, with your physical eye, which can see only limited and conditioned things, you cannot behold Me, such as I am, different in kind from everything else and illimitable. So I bestow on you, a divine, namely, supernatural, eye by which you may perceive Me. Behold My Lordly Yoga'
 (sovereign endowment)! Behold My unie Yoga (special power)! The meaning is, 'Behold My Yoga such as infinite knowledge and such other attributes and endless manifestations of lordly power!'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.8॥ --,**न तु मां** विश्वरूपधरं **शक्यसे द्रष्टुम् अनेनैव** प्राकृतेन **स्वचक्षुषा** स्वकीयेन चक्षुषा। येन तु शक्यसे द्रष्टुं दिव्येन; तत् **दिव्यं ददामि ते** तुभ्यं **चक्षुः।** तेन **पश्य मे योगम्** **ऐश्वरम्** ईश्वरस्य मम ऐश्वरं योगं योगशक्त्यतिशयम् इत्यर्थः॥**संजय उवाच --,**
 </details>
@@ -107,12 +110,14 @@ accomplishing the impossible.-M.S.\].
 चक्षुस्तेन दिव्येन चक्षुषा पश्य मे
 योगमघटनघटनासामर्थ्यातिशयमैश्वरमीश्वरस्य ममासाधारणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.8॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -121,12 +126,14 @@ accomplishing the impossible.-M.S.\].
 
 ॥11.8॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.8॥ No commentary.
 </details>
@@ -135,12 +142,14 @@ accomplishing the impossible.-M.S.\].
 
 11.8 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.8॥ यदुक्तमर्जुनेनमन्यसे यदि तच्छक्यं \[11।4\] इति तत्राह -- न तु
 मामिति। अनेनैव तु स्वीयेन नियमतः परिमितग्राहिणा प्राकृतेन चक्षुषा
@@ -158,20 +167,26 @@ accomplishing the impossible.-M.S.\].
 पुरुषोत्तमस्वरूपज्ञानदर्शनाभावे सर्वस्वरूपदर्शनं न स्यात्;
 पुरुषोत्तमदर्शनं चासाधारणदृष्ट्या भवेदिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/08_na_tu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/08_na_tu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.8॥ यदुक्तमर्जुनेनमन्यसे यदि तच्छक्यम् इति तत्राह **-- नत्विति।**
 अनेनैव तु स्वीयेन चर्मचक्षुषा मां द्रष्टुं न शक्यसे शक्तो न भविष्यसि।
 अतोऽहं दिव्यमलौकिकं ज्ञानात्मकं चक्षुस्तुभ्यं ददामि। ममैश्वरमसाधारणं
 योगं युक्तिमघटितघटनासामर्थ्यं पश्य।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.8 But you will not be able to see Me with your own eye. I give you a divine eye. Behold My Lordly Yoga!
@@ -205,11 +220,13 @@ give; ते (to) thee; चक्षुः the eye; पश्य behold; मे 
 ऐश्वरम् lordly.Commentary No fleshly eyes can behold Me in My Cosmic Form. One can see It through the divine eye or the eye of intuition. It should not be confused with seeing through the eye or the mind. It is an inner experience.Lord Krishna says to Arjuna I give thee the divine eye;
 by which you will be able to behold My sovereign form. By it see My marvellous power of Yoga.Anena With this the fleshly eye or the physical eye; the earthly eye. (Cf.VII.25IX.5X.7)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/08_na_tu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.8।। परन्तु तू अपनी इस आँखसे अर्थात् चर्मचक्षुसे मेरेको देख ही नहीं
@@ -266,6 +283,7 @@ by which you will be able to behold My sovereign form. By it see My marvellous p
 ।।11.8।। परन्तु तुम अपने इन्हीं (प्राकृत) नेत्रों के द्वारा मुझे देखने
 में समर्थ नहीं हो; (इसलिए) मैं तुम्हें दिव्यचक्षु देता हूँ, जिससे तुम
 मेरे ईश्वरीय 'योग'
+</details>
 </details>
 
 </div>

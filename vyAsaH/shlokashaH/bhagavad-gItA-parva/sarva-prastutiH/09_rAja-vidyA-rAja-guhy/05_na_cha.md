@@ -23,8 +23,9 @@ title = "05 न च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.5॥**न च मत्स्थानि भूतानि** न घटादीनां जलादेर् इव मम धारकत्वम्; कथम् मत्सङ्कल्पेन।**पश्य** मम **ऐश्वरं योगम्** अन्यत्र कुत्रचिद् असम्भवनीयं मदसाधारणम् आश्चर्यं योगं पश्य। को ऽसौ योगः **भूतभृन्न च भूतस्थो ममात्मा भूतभावनः।** सर्वेषां भूतानां भर्ता अहं न च तैः कश्चिद् अपि मम उपकारः। मम आत्मा एव भूतभावनः; मम मनोमयः सङ्कल्प एव भूतानां भावयिता धारयिता नियन्ता च। सर्वस्य अस्य स्वसङ्कल्पायत्तस्थितिप्रवृत्तित्वे निदर्शनम् आह --
@@ -39,12 +40,14 @@ title = "05 न च"
 
 9.5 And yet 'beings do not abide in Me,' as I do not support them as a jug or any kind of vessel supports the water contained in them. How then are they contained; By My will. Behold My divine Yoga power, namely, My wonderful divine modes, unie to Me alone and having no comparison elsewhere. What are these modes; 'I am the upholder of all beings and yet I am not in them - My will sustains all beings.' The meaning is I am the supporter of all beings, and yet I derive no help for Myself whatever from them. My will alone projects, sustains and controls all beings. He gives an illustration to show how all beings depend on His will for their being and acts:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.5॥ -- **न च मत्स्थानि भूतानि** ब्रह्मादीनि। **पश्य मे योगं** युक्तिं घटनं मे **मम ऐश्वरम्** ईश्वरस्य इमम् ऐश्वरम्; योगम् आत्मनो याथात्म्यमित्यर्थः। तथा च श्रुतिः असंसर्गित्वात् असङ्गतां दर्शयति -- असङ्गो न हि सज्जते (बृह0 उ₀ 3।9।26) इति। इदं च आश्चर्यम् अन्यत् पश्य -- भूतभृत् असङ्गोऽपि सन् भूतानि बिभर्ति **न च भूतस्थः;** यथोक्तेन न्यायेन दर्शितत्वात् भूतस्थत्वानुपपत्तेः। कथं पुनरुच्यते असौ मम आत्मा इति विभज्य देहादिसङ्घातं तस्मिन् अहंकारम् अध्यारोप्य लोकबुद्धिम् अनुसरन् व्यपदिशति **मम आत्मा** इति; न पुनः आत्मनः आत्मा अन्यः इति लोकवत् अजानन्। तथा **भूतभावनः** भूतानि भावयति उत्पादयति वर्धयतीति वा भूतभावनः॥ यथोक्तेन श्लोकद्वयेन उक्तम् अर्थं दृष्टान्तेन उपपादयन् आह --,
 </details>
@@ -164,12 +167,14 @@ says:
 परमार्थतो न भूतसंबन्धी स्वप्नदृगिव न परमार्थतः स्वकल्पितसंबन्धीत्यर्थः।
 ममात्मेति राहोः शिर इतिवत्कल्पनया षष्ठी।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.5॥ मत्स्थत्वेऽपि यथा पृथिव्यां स्पृष्ट्वा स्थितानि न तथा मयीत्याह --
 न चेति। न दृश्यश्चक्षुषा चासौ न स्पृश्यः स्पर्शनेन च \[म.भा.12।339।21\]
@@ -192,12 +197,14 @@ says:
 **भूते**ति। स्यादिदं व्याख्यानं यदि भगवद्देहस्येदं भवेत्। तदेव कुतः
 इत्यत आह -- **महाविभूते**रिति। माहात्म्यमेव शरीरं यस्यासौ तथोक्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.5॥ न चेति। न च मत्स्थानि -- अविद्यान्धानां तत्त्वादृष्टेः। न हि मूढा अविच्छिन्नसंवित्स्वभावं परमेश्वरं समस्तवस्तुपरिच्छेदप्रतिष्ठास्थानं मन्यन्ते। अपि तु कृशो देवदत्तोऽहम् इदं वेद्मि भूतले +++(S omits भूतले)+++ इदं स्थितम् इति मितमेवस्वभावं प्रतिष्ठास्थानतया +++(N प्रतिष्ठानस्थानतया)+++ पश्यन्ति। ननु कथमेतद्विरुद्धम् \[उच्यते\] इत्या \[शङ्क्या\] ह पश्य योगमैश्वरम्इति। योगः शक्तिः युज्यमानत्वात्। एतदेव ममैश्वर्यम्; यदेवं निरतिशयाद्भुतवृत्ति स्वातन्त्र्यमित्यर्थः।
 </details>
@@ -206,12 +213,14 @@ says:
 
 9.5 Na ca etc. Yet, the beings do not exist in Me : For, the persons, who are blind with nescience, do not see the reality. The ignorant do not consider the Absolute Lord - Who is of the nature of infinite Consciousness - as a basis of determinate knowledge of all objects. On the other hand conceiving \[like\] 'I, the lean Devadatta, know this, as existing here on the floor', they view \[things of\] finite nature aone as the basis \[of determination\]. But why this contradiction ; On this doubt \[the Lord\] says Look at the Sovereign Yoga of Mine. Yoga signifies the Power \[of the Absolute\], because it is being employed. This is indeed My Sovereignty, which is the Freedom of behaving in this manner in a highly strange way. This is the idea (here).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.5॥ तेन भूतानि पञ्चमहाभूतानि प्राणिजातानि च नामरूपज्ञानकर्मात्मकानि
 मत्स्थानि अस्तिभातिप्रियत्वेन रूपेण नाम्ना च प्रकाशमाने मय्येवाक्षरे
@@ -243,10 +252,13 @@ says:
 क्रीडां कुर्वन्नपि यथा ते क्रीडार्थं सृष्टास्तत्र स्थिताः स्वाभिमानेन
 भिन्नतया,तिष्ठन्ति तथाऽहं न तिष्ठामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.5॥ किंच **-- नचेति।** नच मयि स्थितानि भूतान्यसङ्गत्वादेव मम। ननु
 तर्हि व्यापकत्वमाश्रयत्वं च पूर्वोक्तं विरुद्धमित्याशङ्क्याह **--
@@ -258,10 +270,13 @@ says:
 तत्संश्लिष्टस्तिष्ठत्येवमहं भूतानि धारयन्पालयन्नपि न तेषु तिष्ठामि;
 निरहंकारत्वादिति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.5 And yet beings do not abide in Me. Behold My divine Yoga. I am the upholder of all beings and yet I am not in them. My will alone causes their existence.
@@ -298,11 +313,13 @@ bringing forth beings.Commentary Brahman or the Self no connection with any obje
 It supports all beings It is the efficient or instrumental cause It brings forth all beings but It does not dwell in them; because It is unconnected with any object. This is a great mystery. Just as the dreamer has no connection with the dream object; just as ether or air has no connection with the vessel; so also Brahman has no connection with the objects or the body. The connection between the Self and the physical body is illusory.The Adhishthana or support (Brahman) for the illusory object (Kalpitam) superimposed on,Brahman has no connection whatsoever with the alities or the defects of the objects that are superimposed on the Absolute. The snake is superimposed on a rope. The rope is the support (Adhishthana) for the illusory snake (Kalpitam).
 This is an example of superimposition or Adhyasa. (Cf.VII.25X.7.XI.8)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.4 -- 9.5।। यह सब संसार मेरे निराकार स्वरूपसे व्याप्त है। सम्पूर्ण
@@ -383,6 +400,7 @@ This is an example of superimposition or Adhyasa. (Cf.VII.25X.7.XI.8)
 ।।9.5।। और (वस्तुत:) भूतमात्र मुझ में स्थित नहीं है; मेरे ईश्वरीय योग को
 देखो कि भूतों को धारण करने वाली और भूतों को उत्पन्न करने वाली मेरी आत्मा
 उन भूतों में स्थित नहीं है।।
+</details>
 </details>
 
 </div>

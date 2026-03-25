@@ -26,8 +26,9 @@ title = "02 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.2॥ सञ्जय उवाच श्रीभगवानुवाच एवम् उपविष्टे पार्थे कुतो ऽयम् अस्थाने समुत्थितः शोक इत्य् आक्षिप्य तम् इमं विषमस्थं शोकम् अविद्वत्सेवितं परलोकविरोधिनम् अकीर्तिकरम् अतिक्षुद्रं हृदयदौर्बल्यकृतं परित्यज्य युद्धाय उत्तिष्ठ इति श्रीभगवान् उवाच।
@@ -42,12 +43,14 @@ title = "02 श्री भगवानुवाच"
 
 2.1 - 2.3 Sanjaya said - Lord said When Arjuna thus sat, the Lord, opposing his action, said: 'What is the reason for your misplaced grief; Arise for battle, abandoning this grief, which has arisen in a critical situation, which can come only in men of wrong understanding, which is an obstacle for reaching heaven, which does not confer fame on you, which is very mean, and which is caused by faint-heartedness.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 2.2 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -121,12 +124,14 @@ starts from 2.10.
 स्वर्गकामैः कीर्तिकामैश्च वर्जनीयम्। तत्काम एव त्वं सेवस इत्यहो
 अनुचितचेष्टितं तवेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.2॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -137,12 +142,14 @@ starts from 2.11.
 ॥2.2॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.2॥ कुत इति। आदो लोकव्यवहाराश्रयेणैव भगवान् अर्जुनं प्रतिबोधयति। क्रमात् तु ज्ञानं करिष्यति इत्यतः अनार्यजुष्टमित्याह।
 </details>
@@ -151,12 +158,14 @@ starts from 2.11.
 
 2.2 Kutah etc. To commence with, the Bhagavat exhorts Arjuna just by following the worldly (common) practice; but, in due course, He will impart knowledge. Hence He says 'practised by men of low birth'. Uttering words of ruke such as 'unmanliness' etc., the Bhagavat causes \[Arjuna\] to know that he misconceives demerit as meritorious :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.2 2.3॥ मोहमधुहन्ता वाक्यं वक्ष्यमाणमुवाच कुतस्त्वेति। विषमे सङ्कटे
 हे अर्जुन शुद्धस्वरूप कुत इदं च कश्मलं समुपस्थितम्।
@@ -172,19 +181,25 @@ starts from 2.11.
 अकीर्त्तिकरं कीर्तिनाशकं तेन क्षात्त्रधर्मनाशकत्वेन
 कुलधर्मप्रतिपक्षकत्वमुक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.2॥ तदेव वाक्यमाह। श्रीभगवानुवाच **कुत इति।** कुतो हेतोः त्वा
 इति त्वाम्। विषमे संकटे इदं कश्मलं समुपस्थितमयं मोहः प्राप्तः। यत
 आर्यैरसेवितम्। अस्वर्ग्यमधर्म्यमयशस्करं च।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.2 The Lord said Whence comes on you this despondency, O Arjuna, in this crisis; It is unift for a noble person. It is disgraceful and it obstructs one's attainment of heaven.
@@ -217,11 +232,13 @@ this dejection which is unworthy of you, disgraceful, and which will close the g
 (unaryanlike); अस्वर्ग्यम् heavenexcluding; अकीर्तिकरम् disgraceful;
 अर्जुन O Arjuna.No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.2।। श्रीभगवान् बोले (टिप्पणी प₀ 38.1) - हे अर्जुन! इस विषम अवसरपर
@@ -269,6 +286,7 @@ this dejection which is unworthy of you, disgraceful, and which will close the g
 ।।2.2।। श्री भगवान् ने कहा -- हे अर्जुन ! तुमको इस विषम स्थल में यह मोह
 कहाँ से उत्पन्न हुआ; यह आर्य आचरण के विपरीत न तो स्वर्ग प्राप्ति का
 साधन ही है और न कीर्ति कराने वाला ही है।।
+</details>
 </details>
 
 </div>

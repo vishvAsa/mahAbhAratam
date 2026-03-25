@@ -23,8 +23,9 @@ title = "07 यदा यदा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 जन्मकालम् आह
@@ -55,12 +56,14 @@ Sri Krsna now specifies the times of His incarnations.
 
 4.7 There is no restriction as to the time of My birth; whenever the Dharma taught by the Vedas that must be observed according to the arrangements of the four stations and the four stages of life declines, and Adharma, its opposite, increases, then I Myself, by My own will and in the manner stated, incarnate Myself. Sri Krsna gives the purpose of His birth.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.7॥ **यदा यदा हि धर्मस्य ग्लानिः** हानिः वर्णाश्रमादिलक्षणस्य प्राणिनामभ्युदयनिःश्रेयससाधनस्य **भवति भारत अभ्युत्थानम्** उद्भवः **अधर्मस्य तदा** तदा **आत्मानं सृजामि अहं** मायया॥ किमर्थम्
 </details>
@@ -129,12 +132,14 @@ manifest; atmanam, Myself, through Maya. Why;
 धर्मविरोधिनः तदा तदात्मानं देहं सृजामि नित्यसिद्धमेव सृष्टमेव दर्शयामि
 मायया।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.7॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -143,12 +148,14 @@ manifest; atmanam, Myself, through Maya. Why;
 
 ॥4.7॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.5 4.9॥ बहूनि इत्यादि अर्जुन इत्यन्तम्। श्रीभगवान् किल पूर्णषाड्गुण्यत्वात् शरीरसंपर्कमात्ररहितोऽपि स्थितिकारित्वात् कारुणिकतया आत्मांशं सृजति। आत्मा पूर्णषाड्गुण्यः अंशः उपकारकत्वेन अप्रधानभूतो +++(N omit अ)+++ यत्र तत् आत्मांशं शरीरं गृह्णाति इत्यर्थः। अत एवास्य जन्म दिव्यम् यत आत्ममायया योगप्रज्ञया स्वस्वातन्त्रयशक्त्या +++(omits स्व)+++ आरब्धम् न कर्मभिः। कर्मापि दिव्यम् फलदानासमर्थत्वात्। यश्चैवमेतत्तत्त्वं वेत्ति आत्मन्यप्येवमेव मन्यते सोऽवश्यं भगवद्वासुदेवतत्त्वं जानाति।
 </details>
@@ -157,12 +164,14 @@ manifest; atmanam, Myself, through Maya. Why;
 
 4.7 See Comment under 4.9
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.7 4.8॥ कदा किमर्थं सम्भवसीत्यपेक्षायां स्वप्रादुर्भावकालमाह
 द्वाभ्याम् यदा यदा हीति। परित्राणायेति। साधूनां धर्मवतां परित्राणाय
@@ -181,18 +190,24 @@ manifest; atmanam, Myself, through Maya. Why;
 सम्बोधनाद्यथेदानीं धर्मरक्षार्थं त्वं सृष्टोऽसीति ज्ञाप्यते। आत्मानं
 इत्यत्रैकवचनं मुख्यात्माभिप्रायेण वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.7॥ कदा संभवसीत्यपेक्षायामाह **यदा यदेति।** धर्मस्य ग्लानिर्हानिः।
 अधर्मस्याभ्युत्थानमाधिक्यम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.7 Whenever there is a decline of Dharma, O Arjuna, and uprising of Adharma, then I incarnate Myself.
@@ -225,11 +240,13 @@ that is which the Self is unimportant.
 decline; भवति is; भारत O Bharata; अभ्युत्थानम् rise; अधर्मस्य of unrighteousness; तदा then; आत्मानम् Myself; सृजामि manifest; अहम्
 I.Commentary Dharma is that which sustains and holds together. There is no proper eivalen for this term in the English language. That which helps a man to attain to Moksha or salvation is Dharma. That which makes a man irreligious or unrighteous is Adharma. That which elevates a man and helps him reach the goal of life and attain knowledge is Dharma that which drags him and hurls him down in the abyss of worldliness and ignorance is Adharma.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.7।। हे भरतवंशी अर्जुन! जब-जब धर्मकी हानि और अधर्मकी वृद्धि होती है,
@@ -274,6 +291,7 @@ I.Commentary Dharma is that which sustains and holds together. There is no prope
 
 ।।4.7।। हे भारत ! जब-जब धर्म की हानि और अधर्म की वृद्धि होती है, तब-तब
 मैं स्वयं को प्रकट करता हूँ।।
+</details>
 </details>
 
 </div>

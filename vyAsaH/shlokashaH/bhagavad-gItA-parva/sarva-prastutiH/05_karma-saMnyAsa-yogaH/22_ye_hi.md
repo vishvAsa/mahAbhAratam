@@ -23,8 +23,9 @@ title = "22 ये हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.22॥ विषयेन्द्रिय**स्पर्शजा ये भोगा दुःखयोनयस् ते** दुःखोदर्का आद्यन्तवन्तो ऽल्पकालवर्तिनो ह्य् उपलभ्यन्ते **न तेषु** तद्याथात्म्यविद् **रमते।**
@@ -39,12 +40,14 @@ title = "22 ये हि"
 
 5.22 Those pleasures which result from the contact of sense objects with the senses, are the wombs of pain, i.e., have pain as their ultimate fruit 'They have a beginning and an end,' i.e., they are seen to remain only for a brief period and the reaction that follows their cessation is painful. He who knows what they themselves are, i.e., know themselves as Atman, will not find pleasure in them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.22॥ **ये हि** यस्मात् **संस्पर्शजाः** विषयेन्द्रियसंस्पर्शेभ्यो जाताः **भोगा** भुक्तयः **दुःखयोनय एव ते** अविद्याकृतत्वात्। दृश्यन्ते हि आध्यात्मिकादीनि दुःखानि तन्निमित्तान्येव। यथा इहलोके तथा परलोकेऽपि इति गम्यते एवशब्दात्। न संसारे सुखस्य गन्धमात्रमपि अस्ति इति बुद्ध्वा विषयमृगतृष्णिकाया इन्द्रियाणि निवर्तयेत्। न केवलं दुःखयोनय एव **आद्यन्तवन्तश्च** आदिः विषयेन्द्रियसंयोगो भोगानाम् अन्तश्च तद्वियोग एव अतः आद्यन्तवन्तः अनित्याः मध्यक्षणभावित्वात् इत्यर्थः। **कौन्तेय न तेषु** भोगेषु **रमते बुधः** विवेकी अवगतपरमार्थतत्त्वः अत्यन्तमूढानामेव हि विषयेषु रतिः दृश्यते यथा पशुप्रभृतीनाम्॥ अयं च श्रेयोमार्गप्रतिपक्षी कष्टतमो दोषः सर्वानर्थप्राप्तिहेतुः दुर्निवारश्च इति तत्परिहारे यत्नाधिक्यं कर्तव्यम् इत्याह भगवान्
 </details>
@@ -271,12 +274,14 @@ says:;
 मृगतृष्णिकास्वरूपज्ञानवानिव तत्रोदकार्थी न प्रवर्तते। न संसारे सुखस्य
 गन्धमात्रमप्यस्तीति बुद्ध्वा ततः सर्वाणीन्द्रियाणि निवर्तयेदित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.22॥ सन्न्यासार्थं कामभोगं निन्दयति येहीति।
 </details>
@@ -286,12 +291,14 @@ says:;
 ॥5.22॥ ननूत्तरश्लोके सन्न्यासादित्रितयान्तर्गतं न किञ्चिदुच्यत इत्यत आह
 **सन्न्यासार्थ**मिति। निन्दयतीति स्वार्थे णिच्। सन्न्यासार्थिनेति वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.22॥ ये हीति। स ह्येवं भावयति बाह्यविषयजा भोगाः +++(N बाह्यविषयभोगाः)+++ सर्वे दुःखकारणरूपाः तथाविधा अपि अनित्याः।
 </details>
@@ -300,12 +307,14 @@ says:;
 
 5.22 Ye hi etc. He considers indeed as follows : 'All enjoyments born of the external objects are in the form of causes of misery; and even otherwise , they are impermanent'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.22॥ ननु सुखहेतुविषयाणामपि निवृत्तेः कथं श्रुतमात्रस्य मोक्षस्य
 ब्रह्मानन्दस्य पुरुषार्थता स्यात् तत्राह ये हीति।
@@ -326,20 +335,26 @@ says:;
 सर्वरसज्ञो भगवान् न रमते न रसदानं करोतीत्यर्थः। यतो भगवान् बुधः
 सर्वरसज्ञः अतस्तदिच्छया तद्भोगानुभवः सिद्ध एव भविष्यतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.22॥ ननु प्रियविषयभोगानामपि निवृत्तेः कथं मोक्षः पुरुषार्थः
 स्यात्तत्राह **ये हीति।** संस्पृश्यन्त इति संस्पर्शा विषयास्तेभ्यो जाता
 ये भोगाः सुखानि ते हि वर्तमानकालेऽपि स्पर्धासूयादिव्याप्तत्वाद्दुःखस्यैव
 योनयः कारणभूतास्तथादिमन्तोऽन्तवन्तश्च। अतो वेकी तेषु न रमते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.22 For those pleasures that are born of contact are wombs or pain.
@@ -372,11 +387,13 @@ They have a beginning and an end, O Arjuna. The wise do not rejoice in them.
 दुःखयोनयः generators of pain; एव only; ते they; आद्यन्तवन्तः having beginning and end; कौन्तेय O Kaunteya; न not; तेषु in those; रमते
 rejoices; बुधः the wise.Commentary Man goes in est of joy and searches in the external perishable objects for his happiness. He fails to get it but instead he carries a load of sorrow on his head.You should withdraw the senses from the senseobjects as there is no trace of happiness in them and fix the min on the immortal; blissful Self within. The senseobjects have a beginning and an end. Separation from the senseobjects gives you a lot of pain. During the interval between the origin and the end you experience a hollow; momentary; illusory pleasure. This fleeting pleasure is due to Avidya or ignorance. Even in the other world you will have the same experience. He who is endowed with discrimination or the knowledge of the Self will never rejoice in these sensual objects. Only ignorant persons who are passionate will rejoice in the senseobjects. (Cf.II.14;XVIII.38)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.22।। क्योंकि हे कुन्तीनन्दन ! जो इन्द्रियों और विषयोंके संयोगसे पैदा
@@ -442,6 +459,7 @@ rejoices; बुधः the wise.Commentary Man goes in est of joy and searches i
 ।।5.22।। हे कौन्तेय (इन्द्रिय तथा विषयों के) संयोग से उत्पन्न होने वाले
 जो भोग हैं वे दु:ख के ही हेतु हैं, क्योंकि वे आदि-अन्त वाले हैं।
 बुद्धिमान् पुरुष उनमें नहीं रमता।।
+</details>
 </details>
 
 </div>

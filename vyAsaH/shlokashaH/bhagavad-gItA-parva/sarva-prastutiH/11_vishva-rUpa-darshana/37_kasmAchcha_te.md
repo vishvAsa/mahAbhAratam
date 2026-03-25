@@ -25,8 +25,9 @@ title = "37 कस्माच्च ते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.37॥**महात्मन् ते** तुभ्यं **गरीयसे ब्रह्मणः** हिरण्यगर्भस्य **अप्य् आदि**भूताय **कर्त्रे;** हिरण्यगर्भादयः **कस्माद्** हेतोः **न** नमस्कुर्युः; **अनन्त देवेश जगन्निवास त्वम्** एव **अक्षरं** न क्षरति इत्य् अक्षरं जीवात्मतत्त्वम्न जायते म्रियते वा विपश्चित् (कठ॰ 1।2।18) इत्यादिश्रुतिसिद्धो जीवात्मा हि न क्षरति।**सद् असत्** च त्वम् एव; सदसच्छब्दनिर्दिष्टं कार्यकारणभावेन अवस्थितं प्रकृतितत्त्वम्; नामरूपविभागवत्तया कार्यावस्थं सच्छब्दनिर्दिष्टं तदनर्हतया कारणावस्थम् असच्छब्दनिर्दिष्टं च त्वम् एव; **तत्परं यत्** तस्मात् प्रकृतेः प्रकृतिसम्बन्धिनश् च जीवात्मनः परम् अन्यन् मुक्तात्मतत्त्वं यत् तद् अपि त्वम् एव। अतः --
@@ -45,12 +46,14 @@ title = "37 कस्माच्च ते"
 
 11.37 O Mahatman, for what reason should Brahma and others not bow down to You, who are great and are the First Being and the Creator even of Brahma, namely, Hiranyagarbha; O Infinite, O Lord of the gods, O You who have the universe for Your abode! You are the 'Aksara'. What does not perish, is the Aksara, here, the 'principle of individual self'; for the individual self does not perish as established in Sruti passages: 'The intelligent self is not born, nor dies' (Ka. U., 1.2.18). You alone are the 'existent and the non-existent,' the principle of Prakrti, in its condition as effect and in its condition as cause. This is denoted by the terms 'Sat' (existent) and 'Asat' (non-existent). You alone are the state of effect denoted by the term 'Sat', which is the state of diversification by names and forms, and also the state of cause, denoted by the tetm 'Asat', which is the state incapable of such divisions and diversities. 'What is beyond both' - what is beyond Prakrti and the individual self associated with the Prakrti, as also from the principle of liberated selves who are different from those associated with Prakrti, i.e., bound souls. You alone are that also. Therefore:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.37॥ --,**कस्माच्च** हेतोः ते तुभ्यं **न नमेरन्** नमस्कुर्युः हे **महात्मन्; गरीयसे** गुरुतराय यतः **ब्रह्मणः** हिरण्यगर्भस्य **अपि** आदिकर्ता कारणम् अतः तस्मात् **आदिकर्त्रे।** कथम् एते न नमस्कुर्युः अतः हर्षादीनां नमस्कारस्य च स्थानं त्वं अर्हः विषयः इत्यर्थः। हे **अनन्त देवेश हे जगन्निवास त्वम् अक्षरं तत् परम्;** **यत्** वेदान्तेषु श्रूयते। किं तत् **सदसत्** इति। सत् विद्यमानम्; असत् च यत्र नास्ति इति बुद्धिः ते उपधानभूते सदसती यस्य अक्षरस्य; यद्द्वारेण सदसती इति उपचर्यते। परमार्थतस्तु सदसतोः परं तत् अक्षरं यत् अक्षरं वेदविदः वदन्ति। तत् त्वमेव; न अन्यत् इति अभिप्रायः॥ पुनरपि स्तौति --,
 </details>
@@ -159,12 +162,14 @@ nothing else. This is the idea. He praises again:
 तत्परं यदित्यत्र यच्छब्दात्प्राक्चकारमपि केचित्पठन्ति।
 एतैर्हेतुभिस्त्वां सर्वे नमन्तीति न किमपि चित्रमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.37 -- 11.40॥ कथं स्थाने इति तदाह -- कस्मादित्यादिना।
 पूर्णश्चासावात्मा चेति महात्मा। आत्मशब्दश्चोक्तो भारते -- यच्चाप्नोति
@@ -187,12 +192,14 @@ nothing else. This is the idea. He praises again:
 सत्तादिप्रदत्वादेवोच्यते। नत्वन्यथा; तथा सति उत्तरवाक्यविरोधात्; इति
 भावेन तत्पठित्वा सप्रमाणकं व्याचष्टे -- **तत्परमिति**।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.37॥ कस्मादिति। सत् पदार्थत्वेन। अशत् उपलम्भं प्रत्यविषयत्वात्। अथ वा अभावोऽपि धियि निजनिजविशिष्टवाचकसंश्लेषितो +++(;N -- वाचकवचसंश्लेषितो)+++ ज्ञानाकारमश्नुवानो न +++(S; omit न)+++ परब्रह्मसत्ताव्यतिरिक्तः। सदसद्रूपाभ्यां च परम्; तदुभयबुद्धितिरोधाने तद्रूपोपलब्धेः।
 </details>
@@ -201,12 +208,14 @@ nothing else. This is the idea. He praises again:
 
 11.37 Kasmat etc. Existent (11.Sat) : i.e. as a purport of words (11.or as material object). Non-existent (11.Asat) : Because, the Absolute does not become an object of perception. Or Asat signifies negation; \[in fact\] it is also well connected with the words which denote it directly, or indicate it indirectly by denoting what contains it; it also enjoys a form (11.becomes an object) of knowledge (11.of its own); and \[hence\] is has no separate existence other than the existence of the Absolute Brahman ; (11.It is) beyond both the existent and non-existent : For, It is realised when the knowledge of both of them disappears. (11.38)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.37॥ कस्माच्चेति। ऐश्वर्यं वैराग्यं वा ब्रह्मणः
 समष्टिपुरुषजीवस्यादिकर्तृत्वेनालिप्तत्वात्सदसत्परमक्षरं इति नित्यत्वेन
@@ -223,10 +232,13 @@ nothing else. This is the idea. He praises again:
 प्रभो हे जगन्निवास सकलाश्रय अक्षरं त्वमेव; सत् असच्च सर्वं त्वमेव; यत्
 परं पुरुषोत्तमाख्यं ब्रह्मतत्त्वम् अतो नमन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.37॥ तत्र हेतुमाह **-- कस्मादिति।** हे महात्मन्; हे अनन्त; हे देवेश;
 हे जगन्निवास। कस्माद्धेतोस्ते तुभ्यं न नमेरन्नमस्कारं न कुर्युः।
@@ -234,10 +246,13 @@ nothing else. This is the idea. He praises again:
 किंच सत्। व्यक्तं असदव्यक्तं च ताभ्यां परं मूलकारणं यदक्षरं ब्रह्म तच्च
 त्वमेव। एतैर्नवभिर्हेतुभिस्त्वां सर्वे नमस्यन्तीति न चित्रमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.37 (a) And why should they not, O Mahatman, bow down to You who are great, being the first Creator, even of Brahma; (b) O Infinite, Lord of gods, O You who have the universe for Your abode! You are the imperishable individual self, the existent and the non-existent, and that which is beyond both.
@@ -279,11 +294,13 @@ This world is Asat. This body is Asat.The words Sat and Asat mean here the manif
 The word Akshara is applied in the Gita sometimes to the Unmanifest
 (Nature) and sometimes to the Supreme Being.Ananta is He Who is free from the three kinds of limitations (of time; space and thing) which have already been explained.Arjuna again praises the Lord thus
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.37।। हे महात्मन् ! गुरुओंके भी गुरु और ब्रह्माके भी आदिकर्ता आपके
@@ -344,6 +361,7 @@ The word Akshara is applied in the Gita sometimes to the Unmanifest
 ।।11.37।। हे महात्मन् ! ब्रह्मा के भी आदि कर्ता और सबसे श्रेष्ठ आपके लिए
 वे कैसे नमस्कार नहीं करें; (क्योंकि) हे अनन्त! हे देवेश! हे जगन्निवास!
 जो सत् असत् और इन दोनों से परे अक्षरतत्त्व है, वह आप ही हैं।।
+</details>
 </details>
 
 </div>

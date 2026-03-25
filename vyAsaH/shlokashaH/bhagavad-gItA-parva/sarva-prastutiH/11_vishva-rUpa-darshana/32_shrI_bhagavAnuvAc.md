@@ -28,8 +28,9 @@ title = "32 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.32॥ श्री भगवानुवाच -- कलयति गणयति इति **कालः;** सर्वेषां धार्तराष्ट्रप्रमुखानां राजलोकानाम् आयुरवसानं गणयन् अहं तत्क्षयकृद् घोररूपेण **प्रवृद्धो** राज**लोकान् समाहर्तुम्** आभिमुख्येन संहर्तुम् **इह प्रवृत्तो ऽस्मि।** अतो मत्सङ्कल्पाद् एव **त्वाम् ऋते अपि** त्वदुद्योगम् ऋतेऽप्य् एते धार्तराष्ट्रप्रमुखास् तव **प्रत्यनीकेषु ये अवस्थिता योधाः;** ते **सर्वे न भविष्यन्ति** विनङ्क्ष्यन्ति।
@@ -45,12 +46,14 @@ title = "32 श्री भगवानुवाच"
 11.32 The Lord said Kala (Time) is the calculator which calculates
 (Kalayati). Calculating the end of the lives of all those under the leadership of Dhrtarastra's sons, I am causing their destruction. Fully manifesting Myself with this fierce form, I have begun to destroy the hosts of kings. Therefore, by My will, even without you, namely, even without your effort, all these hostile warriors under the leadership of Dhrtarastra's sons, shall cease to be, i.e., will be destroyed.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.32॥ --,**कालः अस्मि लोकक्षयकृत्** लोकानां क्षयं करोतीति लोकक्षयकृत् **प्रवृद्धः** वृद्धिं गतः। यदर्थं प्रवृद्धः तत् श्रृणु -- **लोकान् समाहर्तुं** संहर्तुम् **इह** अस्मिन् काले **प्रवृत्तः। ऋतेऽपि** विनापि **त्वा** त्वां **न भविष्यन्ति** भीष्मद्रोणकर्णप्रभृतयः **सर्वे;** येभ्यः तव आशङ्का; **ये अवस्थिताः प्रत्यनीकेषु** अनीकमनीकं प्रति प्रत्यनीकेषु प्रतिपक्षभूतेषु अनीकेषु **योधाः** योद्धारः॥ यस्मात् एवम्
 --,
@@ -124,12 +127,14 @@ bhavisyanti, will cease to exist. Since this is so-
 अन्येऽपि येऽवस्थिताः प्रत्यनीकेषु प्रतिपक्षसैन्येषु योधा योद्धारः
 सर्वेऽपि मया हतत्वादेव नभविष्यन्ति। तत्र तव व्यापारोऽकिंचित्कर इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.32॥ कालशब्दो जगद्बन्धनच्छेदनज्ञानादिसर्वभगवद्धर्मवाची। कल बन्धने;
 कल च्छेदने; कल ज्ञाने;,कल कामधेनुरिति पठन्ति। प्रसिद्धश्च स शब्दो
@@ -187,12 +192,14 @@ bhavisyanti, will cease to exist. Since this is so-
 प्रत्यनीकेष्विति बहुवचनं कथं इत्यत आह -- **अक्षौहिणीति**। भेदेन
 बहुत्वेन।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.32॥ No commentary.
 </details>
@@ -201,12 +208,14 @@ bhavisyanti, will cease to exist. Since this is so-
 
 11.32 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.32॥ एवं प्रार्थितः श्रीभगवानुवाच -- कालोऽस्मीति त्रिभिः।
 योऽधुनाऽऽविर्भूतः स कालोऽहम्। चतुर्धा ह्यहं
@@ -236,10 +245,13 @@ bhavisyanti, will cease to exist. Since this is so-
 कालरूपः सर्वसंहारार्थं प्रवृत्तोऽस्मि। त्वां ऋते सर्वे न
 भविष्यन्तीत्युक्त्या त्वदर्थमेवैते मारिता इति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.32॥ एवं प्रार्थितः सन् श्रीभगवानुवाच **-- कालोऽस्मीति त्रिभिः।**
 लोकानां क्षयकर्ता प्रवृद्धोऽत्युग्रः कालोऽस्मि। लोकान्प्राणिनः
@@ -249,10 +261,13 @@ bhavisyanti, will cease to exist. Since this is so-
 अनीकान्यनीकानि प्रति भीष्मद्रोणादीनां सर्वासु सेनासु ये
 योद्धारोऽवस्थितास्ते सर्वेऽपि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.32 The Lord said I am the world-destroying Time. Manifesting Myself fully, I have begun to destroy the worlds here. Even without You, none of the warriors arrayed in the hostile ranks shall survive.
@@ -287,11 +302,13 @@ fullgrown; लोकान् the worlds; समाहर्तुम् to dest
 engaged; ऋते without; अपि also; त्वाम् thee; न not; भविष्यन्ति shall live; सर्वे all; ये these; अवस्थिताः arrayed; प्रत्यनीकेषु in hostile armies; योधाः warriors.Commentary Even without thee Even if thou; O Arjuna; wouldst not fight; these warriors are doomed to die under My dispensation. I am the alldestroying Time. I have already slain them.
 You have seen them dying. Therefore thy instrumentality is not of much importance.Such being the case; therefore; stand up and obtain fame.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.32।। श्रीभगवान् बोले -- मैं सम्पूर्ण लोकोंका क्षय करनेवाला बढ़ा हुआ
@@ -347,6 +364,7 @@ You have seen them dying. Therefore thy instrumentality is not of much importanc
 हूँ। इस समय, मैं इन लोकों का संहार करने में प्रवृत्त हूँ। जो
 प्रतिपक्षियों की सेना में स्थित योद्धा हैं, वे सब तुम्हारे बिना भी नहीं
 रहेंगे।।
+</details>
 </details>
 
 </div>

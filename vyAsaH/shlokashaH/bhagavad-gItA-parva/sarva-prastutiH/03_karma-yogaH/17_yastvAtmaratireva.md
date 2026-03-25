@@ -23,8 +23,9 @@ title = "17 यस्त्वात्मरतिरेव"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 अ-साधनायत्तात्मदर्शनस्य मुक्तस्यैव  
@@ -48,12 +49,14 @@ title = "17 यस्त्वात्मरतिरेव"
 
 3.17 But for him, who is not in need of the means of Jnana Yoga and Karma Yoga, who finds delight in the self on his own, i.e., who is established in the self, who is satisfied by the self alone and not by food, drink and other things which are other than the self, who rejoices in the self alone and not in pleasure gardens, garlands, sandalpaste, vocal and instrumental music etc., and for whom everything, his subsistence, nourishment and enjoyment, is the self alone - for him nothing remains to be performed for the vision of the self, because the essential nature of the self is perpetually in his unaided vision.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.17॥ **यस्तु** साङ्ख्यः आत्मज्ञाननिष्ठः **आत्मरतिः** आत्मन्येव रतिः न विषयेषु यस्य सः आत्मरति**रेव स्यात्** भवेत् **आत्मतृप्त**श्च आत्मनैव तृप्तः न अन्नरसादिना सः **मानवः** मनुष्यः संन्यासी **आत्मन्येव च संतुष्टः**। संतोषो हि बाह्यार्थलाभे सर्वस्य भवति तमनपेक्ष्य आत्मन्येव च संतुष्टः सर्वतो वीततृष्ण इत्येतत्। यः ईदृशः आत्मवित् **तस्य कार्यं** करणीयं **न विद्यते** नास्ति इत्यर्थः॥ किञ्च
 </details>
@@ -173,12 +176,14 @@ knower of the Self, there is no duty to undertake.
 आत्मन्येव च संतुष्ट इत्यत्र चकारः समुच्चयार्थः। य
 एवंभूतस्तस्याधिकारहेत्वभावात्किमपि कार्यं वैदिकं लौकिकं वा न विद्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.17॥ तर्ह्यतीव मनस्समाधानमपि न कार्यमित्यत आह यस्त्विति। रमणं
 परदर्शनादिनिमित्तं सुखम्। तृप्तिरन्यत्रालम्बुद्धिः। सन्तोषस्तज्जनकं
@@ -290,12 +295,14 @@ knower of the Self, there is no duty to undertake.
 आत्मशब्दस्याप्यन्यथाव्याख्यां निराकरोति **परमात्मे**ति। चशब्दोऽवधारणे। न
 स्वात्मरतिरित्यर्थः। तस्यैव इत्यवधारणादिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.17 3.19॥ यश्चेत्यादि पूरुष इत्यन्तम्। आत्मरतेस्तु कर्म इन्द्रियव्यापारतयैव कुर्वतः करणाकरणेषु समता। अत एव नासौ भूतेषु किंचिदात्मप्रयोजनमपेक्ष्य निग्रहानुग्रहौ करोति अपि तु करणीयमिदम् इत्येतावता। तस्मादसक्त एव करणीयं कर्म कुर्यात्।
 </details>
@@ -304,12 +311,14 @@ knower of the Self, there is no duty to undertake.
 
 3.17 See Comment under 3.19
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.17॥ तदेवंन कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते 3।4 इति
 योगमार्गीयपुरुषार्थसिद्ध्यर्थं कर्म विहितं विधेयमित्युक्तम्
@@ -327,10 +336,13 @@ knower of the Self, there is no duty to undertake.
 भगवत्येव सन्तुष्टः स्वभोगापेक्षारहितः तस्य कार्यं कर्त्तव्यं न विद्यते
 नास्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/17_yastvAtmaratireva.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/17_yastvAtmaratireva.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.17॥ तदेवंन कर्मणाभनारम्भान्नैष्कर्म्यं
 इत्यादिनाऽज्ञस्यान्तःकरणशुद्ध्यर्थ कर्मयोगमुक्त्वा ज्ञानिनः
@@ -338,10 +350,13 @@ knower of the Self, there is no duty to undertake.
 ततश्चात्मन्येव तृप्तः स्वानन्दानुभवेन निर्वृतः। अतएवात्मन्येव संतुष्टो
 भोगापेक्षारहितो यस्तस्य कर्तव्यं नास्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.17 But the man whose delight is only in the self, who is satisfied with the self, who rejoices in the self, for him nothing remains to be accomplished.
@@ -374,11 +389,13 @@ may be; आत्मतृप्तः satisfied in the Self; च and; मान
 in the Self; एव only; च and; सन्तुष्टः contented; तस्य his; कार्यम् work to be done; न not; विद्यते is.Commentary The sage does not depend on external objects for his happiness. He is ite satisfied with the Self.
 He finds his joy; bliss and contentment within his own Self. For such a sage who has knowledge of the Self; there is nothing to do. He has already done all actions. He has satisfied all his desires. He has complete satisfaction. (Cf.II.55).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/17_yastvAtmaratireva.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.17।। जो मनुष्य अपने-आपमें ही रमण करनेवाला और अपने-आपमें ही तृप्त
@@ -461,6 +478,7 @@ He finds his joy; bliss and contentment within his own Self. For such a sage who
 
 ।।3.17।। परन्तु जो मनुष्य आत्मा में ही रमने वाला आत्मा में ही तृप्त तथा
 आत्मा में ही सन्तुष्ट हो उसके लिये कोई कर्तव्य नहीं रहता।।
+</details>
 </details>
 
 </div>

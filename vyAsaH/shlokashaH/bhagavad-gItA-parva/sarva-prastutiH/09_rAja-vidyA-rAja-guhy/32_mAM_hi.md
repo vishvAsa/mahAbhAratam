@@ -35,8 +35,9 @@ title = "32 मां हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.32॥**स्त्रियो वैश्याः शूद्राः** च **पापयोनयो ऽपि मां व्यपाश्रित्य परां गतिं यान्ति।**
@@ -81,12 +82,14 @@ title = "32 मां हि"
 
 9.32 - 9.33 Women, Vaisyas and Sudras, and even those who are of sinful birth, can attain the supreme state by taking refuge in Me. How much more then the well-born Brahmanas and royal sages who are devoted to me! Therefore, roayl sage that you are, do worship Me, as you have come to this transient and joyless world stricken by the threefold afflictions. Sri Krsna now describes the nature of Bhakti:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.32॥ --,**मां हि** यस्मात् **पार्थ व्यपाश्रित्य** माम् आश्रयत्वेन गृहीत्वा **येऽपि स्युः** भवेयुः **पापयोनयः** पापा योनिः येषां ते पापयोनयः पापजन्मानः। के ते इति; आह -- **स्त्रियः वैश्याः तथा शूद्राः तेऽपि यान्ति** गच्छन्ति **परां** प्रकृष्टां **गतिम्**॥
 </details>
@@ -151,12 +154,14 @@ taking shelter; mam, under Me-by accepting Me as their refuge.
 तथा शूद्राः जातितोऽध्ययनाद्यभावेन च परमगत्ययोग्यास्तेऽपि यान्ति परां
 गतिं। अपिशब्दात्प्रागुक्तदुराचारा अपि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.32॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -165,12 +170,14 @@ taking shelter; mam, under Me-by accepting Me as their refuge.
 
 ॥9.32॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.32 -- 9.34॥  
 मां हि इत्यादि  
@@ -215,12 +222,14 @@ The deeds of the exceedingly compassionate Bhagavat, like the one granting liber
 Some (commentators\] declare :  
 The present sentence \[of the Lord\] intends to glorify the twice-born and members of the ruling class, and it is not uttered with the intention of speaking of the attainment of liberation in the case of the women etc. Indeed these persons \[aim to\] break into pieces the Graceous-to-all Power of the Bhagavat by foistering upon It, a limited applicability; likwise they do not tolerate the profoundly compassionate nature of the Absolute Lord; they contradict the \[Lord's own\] statements 'To Me none is hateful and none is dear (IX, 30)', 'Even a highly evil-doer etc. (IX, 31)', and other similar statements, very clearly of the same import; with all effort they \[strive to\] bring in something indicative of duality even in the Absolute-being, Whose non-dual nature has been well established firmly by the diversity of the best reasonings; they are not mindful of other contradictions \[that lurk in their theory\] with the revealed literature; when simply estioned 'How is this ;' and 'How is that ;', these persons, having their internal organ totally possessed by the mighty devil of the caste \[considerations\], concealed within, and having their tongue, face and eyes all twisted by their sense of jealously, hypocrisy and shame-they prattle evil for the entire humanity; and thus they put upon themselves the status of being an object of ridicule. Therefore the above explanation \[of ours\] does good to all.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.32॥ सर्वोद्धारकत्वमेवाह -- मां हीति। तथाहि पापयोनयः पूतनाद्याः
 स्त्रिय इतिते नाधीतश्रुतिगणा नोपासितमहत्तमाः \[11।12।7\] नासां
@@ -246,10 +255,13 @@ The present sentence \[of the Lord\] intends to glorify the twice-born and membe
 मोक्षं सायुज्यं यान्ति प्राप्नुवन्तीत्यर्थः। तत्रये इतिपदेन
 स्वसेवार्थोत्पादितातिरिक्ता इति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.32॥ आचारभ्रष्टं मद्भक्तिः पवित्रीकरोतीति किमत्र चित्रम्; यतो
 मद्भक्तिर्दुष्कुलानप्यनधिकारिणोऽपि संसारान्मोचयतीत्याह **-- मां हीति।**
@@ -257,10 +269,13 @@ The present sentence \[of the Lord\] intends to glorify the twice-born and membe
 केवलं कृष्यादिनिरताः; स्त्रियः; शूद्रादयश्चाध्ययनादिरहिताः; तेऽपि मां
 व्यपाश्रित्य संसेव्य परां गतिं यान्ति। हि निश्चितम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.32 By taking refuge in Me even men of evil birth, women, Vaisyas and also Sudras attain the supreme state.
@@ -299,11 +314,13 @@ women; वैश्याः Vaisyas; तथा also; शूद्राः Sudr
 Devotion is everything. The Gopis attained Me through their devotion.
 Kamsa and Ravana attained Me through fear. Sisupala reached Me through hatred. Narada; Dhruva; Akrura; Suka; Sanatkumara and others attined Me through their devotion. Nandan; a man of low caste but a great devotee of Lord Siva; had direct vision of the Lord in Chidambaram in South India. Raidas; a cobbler; was a great devotee. In the spiritual life or in the Adhyatmic sphere all the external distinctions of caste; colour and creed disappear altogether. Shabari; though a Bhilni (a tribe) by birth; was a great devotee of Lord Rama.Hindu scriptures are full of such instances. Hinduism does not restrict salvation to any one group or section of humanity. All can attain God if they have devotion.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/32_mAM_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.32।। हे पृथानन्दन ! जो भी पापयोनिवाले हों तथा जो भी स्त्रियाँ, वैश्य
@@ -415,6 +432,7 @@ Kamsa and Ravana attained Me through fear. Sisupala reached Me through hatred. N
 
 ।।9.32।। हे पार्थ ! स्त्री, वैश्य और शूद्र ये जो कोई पापयोनि वाले हों,
 वे भी मुझ पर आश्रित (मेरे शरण) होकर परम गति को प्राप्त होते हैं।।
+</details>
 </details>
 
 </div>

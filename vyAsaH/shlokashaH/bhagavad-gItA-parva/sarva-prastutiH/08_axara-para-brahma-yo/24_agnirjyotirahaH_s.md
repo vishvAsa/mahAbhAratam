@@ -23,8 +23,9 @@ title = "24 अग्निर्ज्योतिरहः शुक्लः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.24॥**अग्निर् ज्योतिरहः शुक्लः षण्मासा उत्तरायणम्** इति संवत्सरादीनां प्रदर्शनम्।
@@ -44,12 +45,14 @@ title = "24 अग्निर्ज्योतिरहः शुक्लः"
 
 8.23 - 8.24 Here, the term 'time' denotes a path, having many deities beginning with day and ending with year. The deities preside over divisions of time. The meaning is - I declare to you the path departing in which Yogins do not return and also the path departing in which the doers of good actions return. By the clause, 'Light in the form of fire, the day, bright fortnight, six months of the northern course,' year also is denoted.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.24॥ -- **अग्निः** कालाभिमानिनी देवता। तथा **ज्योति**रपि देवतैव कालाभिमानिनी। अथवा अग्निज्योतिषी यथा श्रुते एव देवते। भूयसा तु निर्देशो यत्र काले (गीता 8।23) तं कालम् (गीता 8।23) इति आम्रवणवत्। तथा अहः देवता अहरभिमानिनी अहः **शुक्लः** शुक्लपक्षदेवता **षण्मासा उत्तरायणम्** तत्रापि देवतैव मार्गभूता इति स्थितः अन्यत्र अयं न्यायः। **तत्र** तस्मिन् मार्गे **प्रयाताः** मृताः **गच्छन्ति ब्रह्म ब्रह्मविदो** ब्रह्मोपासकाः ब्रह्मोपासनपरा **जनाः।** क्रमेण इति वाक्यशेषः। न हि सद्योमुक्तिभाजां सम्यग्दर्शननिष्ठानां गतिः आगतिर्वा क्वचित् अस्ति न तस्य प्राणा उत्क्रामन्ति इति श्रुतेः। ब्रह्मसंलीनप्राणा एव ते ब्रह्ममया ब्रह्मभूता एव ते।
 </details>
@@ -198,12 +201,14 @@ suffused with Brahman, they are verily identified with Brahman.
 इति श्रुताविममिति विशेषणात्कल्पान्तरे केचिदावर्तन्त इति प्रतीयते।
 अतएवात्र भगवतोदासितं श्रौतमार्गकथनेनैव व्याख्यानात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.24॥ ज्योतिरर्चिः। तेऽर्चिषमभिसम्भवन्ति \[बृ.उ.6।2।15\] इति हि
 श्रुतिः। तथा च नारदीये -- अग्निं प्राप्य ततश्चार्चिस्ततश्चाप्यहरादिकम्
@@ -232,12 +237,14 @@ suffused with Brahman, they are verily identified with Brahman.
 प्राधान्यादेरविवक्षितत्वात् साह्नेत्युक्तम्। सपूर्णिमासपूर्णिमेनसुपां
 सुलुक् \[अष्टा.7।1।39\] इत्यादेः। विषुशब्दस्योवङ्यणादेशविकल्पछान्दसः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.24 -- 8.25॥ अग्निरिति। धूमेति। उत्तरेण ऊर्ध्वेन अयनं षाण्मासिकम्। तच्च प्रकाशादिधर्मकत्वात् दहनादिकैः शब्दैरुपचर्यते। अतो विपरीतं विपर्ययेण। तत्र चन्द्रमसो भोग्यांशानुप्रवेशात् भोगायावृत्तिः।
 </details>
@@ -246,12 +253,14 @@ suffused with Brahman, they are verily identified with Brahman.
 
 8.24 See Comment under 8.25
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.24॥ तत्रानावृत्तिमार्गमाह -- अग्निरिति। निष्कामानामग्निहोत्रिणां
 अग्निरित्यादिसंवत्सरदेवलोकाधिदेवतानामुपलक्षणार्थं
@@ -277,10 +286,13 @@ suffused with Brahman, they are verily identified with Brahman.
 प्राणांस्त्यक्त्वा यातास्ते प्राप्नुवन्तीत्यर्थः। एतज्ज्ञापनायैव
 ब्रह्मविद इत्युक्तम्। एतदेव तज्ज्ञापकमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.24॥ तत्रानावृत्तिमार्गमाह **-- अग्निरिति।**
 अग्निज्योतिःशब्दाभ्यांतेऽर्चिषमभिसंभवन्ति इति श्रुत्युक्तार्चिरभिमानिनी
@@ -293,10 +305,13 @@ suffused with Brahman, they are verily identified with Brahman.
 देवलोकम् इति। नहि सद्योमुक्तिभाजां सम्यग्दर्शननिष्ठानां गतिर्वा
 क्वचिदस्तिन तस्य प्राणा उत्क्रामन्ति इति श्रुतेः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.24 Fire, light, daytime, the birght forrnight, the six months of the Northern solstice-by following this Path, persons who are knowers of Brahman attain Brahman when they die.
@@ -327,11 +342,13 @@ from the waxing half of the moon to the six months when the sun goes to the nort
 He comes to the sun.From the moon to the lightning there a person that is not human leads him to Brahman.Time is here used in the sense of the path or the stage on the path. Fire and light are the deities who preside over time. Daytime is the deity who presides over the day. The bright fortnight is the deity presiding over it. The six months of the northern solstice are the deity who presides over the northern path.This is the path of illumination that leads to liberation.The lifreaths of the liberated sages who have attained knowledge of the Self do not depart. They are absorbed in Brahman. The Jivanmuktas who attain KaivalyaMoksha or immediate,salvation or liberation have no place to go to or return from. They become one with the allpervading Brahman.Each step may mean a plane or a state of consciousness or the degree of purity or illumination. The more the purity the more the divine light.
 There are bright objects throughout the course of the path. There is illumination or knowledge when one passes along this path. Hence it is called the path of light.After Bhishma was mortally wounded; he lay on the bed of arrows till the onset of the northern solstice and then departed from here to the Abode of the Lord.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.24।। जिस मार्गमें प्रकाशस्वरूप अग्निका अधिपति देवता, दिनका अधिपति
@@ -389,6 +406,7 @@ There are bright objects throughout the course of the path. There is illuminatio
 ।।8.24।। जो ब्रह्मविद् साधकजन मरणोपरान्त अग्नि, ज्योति, दिन, शुक्लपक्ष
 और उत्तरायण के छः मास वाले मार्ग से जाते हैं, वे ब्रह्म को प्राप्त होते
 हैं।।
+</details>
 </details>
 
 </div>

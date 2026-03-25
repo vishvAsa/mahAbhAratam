@@ -25,8 +25,9 @@ title = "07 कार्पण्यदोषोपहतस्वभावः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 अग्रिमम् ईक्षताम्।
@@ -41,12 +42,14 @@ title = "07 कार्पण्यदोषोपहतस्वभावः"
 
 2.6 - 2.8 If you say, 'After beginning the war, if we withdraw from the battle, the sons of Dhrtarastra will slay us all forcibly', be it so. I think that even to be killed by them, who do not know the difference between righteousness and unrighteousness, is better for us than gaining unrighteous victory by killing them. After saying so, Arjuna surrendered himself at the feet of the Lord, overcome with dejection, saying. 'Teach me, your disciple, who has taken refuge in you, what is good for me.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 2.7 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -152,12 +155,14 @@ starts from 2.10.
 वरुणं पितरमुपससार। अधीहि भगवो ब्रह्मेति इत्यादिगुरूसत्तिप्रतिपादकः
 श्रुत्यर्थो दर्शितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.7॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -168,12 +173,14 @@ starts from 2.11.
 ॥2.7॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.7 2.10॥ कार्पण्येत्यादि। सेनयोरुभयोर्मध्ये इत्यादिनेदं सूचयति संशयाविष्टोऽर्जुनो नैकपक्षेण ( नोऽनेक ) युद्धान्निवृत्तः यत एवमाह स्म शाधि मा त्वां +++(S omits त्वाम्)+++ प्रपन्नम् इति। अतः उभयोरपि ज्ञानाज्ञानयोर्मध्यगः श्रीभगवतानुशिष्यते।
 </details>
@@ -182,12 +189,14 @@ starts from 2.11.
 
 2.7 See Comment under 2.10
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.6 2.8॥ न चैतदिति प्रश्नस्त्रिभिः। स्पष्टार्थः।
 </details>
@@ -204,10 +213,13 @@ starts from 2.11.
 त्वत्प्रसादरूपं स्यात्तन्मे निश्चितं ब्रूहि। अहं ते शिष्यः न तु मित्रं
 अतस्त्वां प्रपन्नं शरणागतं धर्मजिज्ञासया मां त्वं शाधि शिक्षय।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.7॥**कार्पण्येति।** तस्मात्कार्पण्यदोषोपहतस्वभावः। एतान्हत्वा कथं
 जीविष्याम इति कार्पण्यं दोषश्च स्वकुलक्षयकृतः ताभ्यामुपहतोऽभिभूतः
@@ -217,10 +229,13 @@ starts from 2.11.
 स्यात्तद्ब्रूहि। किंच तेऽहं शिष्यः शासनार्हः। अतस्त्वां प्रपन्नं शरणागतं
 मां शाधि शिक्षय।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.7 With my heart stricken by the fault of weak compassion, with my mind perplexed about my duty, I reest you to say for certain what is good for me. I am your disciple. Teach me who have taken refuge in you.
@@ -254,11 +269,13 @@ I am your pupil; please teach me, who am taking refuge in You.
 ब्रूहि say; तत् that; मे for me; शिष्यः disciple; ते Thy; अहम् I; शाधि
 teach; माम् me; त्वाम् to Thee; प्रपन्नम् taken refuge.No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.7।। कायरतारूप
@@ -323,6 +340,7 @@ teach; माम् me; त्वाम् to Thee; प्रपन्नम् 
 ।।2.7।। करुणा के कलुष से अभिभूत और कर्तव्यपथ पर संभ्रमित हुआ मैं आपसे
 पूछता हूँ, कि मेरे लिये जो श्रेयष्कर हो, उसे आप निश्चय करके कहिये,
 क्योंकि मैं आपका शिष्य हूँ; शरण में आये मुझको आप उपदेश दीजिये।।
+</details>
 </details>
 
 </div>

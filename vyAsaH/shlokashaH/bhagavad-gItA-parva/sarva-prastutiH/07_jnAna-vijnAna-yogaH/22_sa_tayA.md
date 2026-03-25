@@ -23,8 +23,9 @@ title = "22 स तया"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.22॥**स तया** निर्विघ्नया **श्रद्धया युक्तः** **तस्य** इन्द्रादेः **आराधनं** प्रति **ईहते** चेष्टते **ततः** मत्तनुभूतेन्द्रादिदेवताराधनात् तान् एव **हि** स्वाभिलषितान् **कामान् मया एव विहितान् लभते। यद्यप्य् आराधनकाले इन्द्रादयो मदीयास् तनवस् तत एव तदर्चनं च मदाराधनम् इति न जानाति तथापि तस्य वस्तुतो मदाराधनत्वाद् आराधकाभिलषितम् अहम् एव विदधामि।**
@@ -39,12 +40,14 @@ title = "22 स तया"
 
 7.22 He, endowed with that faith without obstacles, performs the worship of Indra and other divinities. Thence, i.e., from the worship of Indra and other divinities, who constitute My body, he attains the objects of his desire, which are in reality granted by Me alone. Although he does not know at the time of worship that divinities like Indra, who are his objects of worship, are My body only, and that worship of them is My worship, still, inasmuch as this worship is, in reality, My worship, he attains his objects of desire granted by Me alone.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.22॥ **स तया** मद्विहितया **श्रद्धया युक्तः** सन् **तस्याः** देवतातन्वाः **राधनम्** आराधनम् **ईहते** चेष्टते। **लभते च ततः** तस्याः आराधितायाः देवतातन्वाः **कामान्** ईप्सितान् **मयैव** परमेश्वरेण सर्वज्ञेन कर्मफलविभागज्ञतया **विहितान्** निर्मितान् **तान् हियस्मात् ते भगवता विहिताः कामाः तस्मात् तान् अवश्यं लभते इत्यर्थः। हितान् इति पदच्छेदे हितत्वं कामानामुपचरितं कल्प्यम् न हि कामा हिताः कस्यचित्॥ यस्मात् अन्तवत्साधनव्यापारा अविवेकिनः कामिनश्च ते अतः**
 </details>
@@ -114,12 +117,14 @@ cannot be beneficial to anyone!
 निर्मितान् हितान्मनःप्रियानित्यैकपद्यं वा। अहितत्वेऽपि हिततया
 प्रतीयमानानित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.21 7.22॥ यां यां ब्रह्मादिरूपां तनुम्। उक्तं च नारदीयेअन्तो
 ब्रह्मादिभक्तानां मद्भक्तानामनन्तता इति। मुक्तश्च कां गतिं
@@ -138,12 +143,14 @@ cannot be beneficial to anyone!
 अनन्तफलत्वं मूलरूपभक्तानामस्तु अवतारतनुभक्तानामन्तवत्फलाङ्गीकारे को
 विरोधः इत्यत आह **अवतार इति**। कुत्र चावतारे।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md"></div>
 </details>
 
@@ -151,12 +158,14 @@ cannot be beneficial to anyone!
 
 7.22 See Comment under 7.23
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.22॥ ततश्च स तयेति। ततो मदङ्गभूतादुपास्यदेवात् लभते कामान्
 मयैवाङ्गिना विहितान्निर्मितान् प्राप्नोति। यद्यप्याराधनकालेऽपि
@@ -173,20 +182,26 @@ cannot be beneficial to anyone!
 अन्यया मदाज्ञां विना देवादीनां न सामर्थ्यम् अतो मयैव निश्चयेन
 विहिताल्ँ लभते प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.22॥ ततश्च **स तयेति।** स भक्तस्तया दृढया श्रद्धया
 तस्यास्तनोराराधनमीहते करोति। ततश्च ये संकल्पिताः कामास्तान्कामान् ततो
 देवताविशेषाल्लभते किंतु मयैव तत्तद्देवतान्तर्यामिणा विहितान्निर्मितान्
 हि स्फुटमेव तत्तद्देवतानामपि मदधीनत्वान्मममूर्तित्वाच्चेत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.22 Endowed with that faith, he worships that form and thence gets the objects of his desire, granted in reality by Me alone.
@@ -223,11 +238,13 @@ Unwise or undiscriminating people only take recourse to the means of getting the
 Pitiable indeed is their lot They have,no power of eniry (VicharaSakti)
 or right understanding. They get hold of pieces of glass instead of attaining the jewel of the Self; of incalculabe value.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.22।। उस (मेरे द्वारा दृढ़ की हुई) श्रद्धासे युक्त होकर वह मनुष्य
@@ -279,6 +296,7 @@ or right understanding. They get hold of pieces of glass instead of attaining th
 ।।7.22।। वह (भक्त) उस श्रद्धा से युक्त होकर उस देवता का पूजन करता है और
 उससे मेरे द्वारा विधान किये हुये इच्छित भोगों को नि:सन्देह प्राप्त करता
 है।।
+</details>
 </details>
 
 </div>

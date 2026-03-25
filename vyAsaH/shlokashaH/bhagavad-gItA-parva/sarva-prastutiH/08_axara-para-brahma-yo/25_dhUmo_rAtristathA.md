@@ -23,8 +23,9 @@ title = "25 धूमो रात्रिस्तथा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.25॥ एतच् च धूमादिमार्गस्थपितृलोकादेः प्रदर्शनम्। अत्र योगिशब्द पुण्यकर्मसम्बन्धिविषयः।
@@ -40,12 +41,14 @@ title = "25 धूमो रात्रिस्तथा"
 8.25 This denotes the world of the manes etc., described by the term
 'starting with smoke.' Here the term Yogin connotes one associated with good actions.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.25॥ --,**धूमो रात्रिः** धूमाभिमानिनी रात्र्यभिमानिनी च देवता। **तथा कृष्णः** कृष्णपक्षदेवता। **षण्मासा दक्षिणायनम्** इति च पूर्ववत् देवतैव। **तत्र** चन्द्रमसि भवं **चान्द्रमसं ज्योतिः** फलम् इष्टादिकारी **योगी** कर्मी **प्राप्य** भुक्त्वा तत्क्षयात् इह पुनः **निवर्तते**॥
 </details>
@@ -120,12 +123,14 @@ on their exhaustion.
 संपतत्यनेनेति संपातः कर्म। तस्मादेतस्मादावृत्तिमार्गादनावृत्तिमार्गः
 श्रेयानित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.25॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -134,12 +139,14 @@ on their exhaustion.
 
 ॥8.25॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.24 -- 8.25॥ अग्निरिति। धूमेति। उत्तरेण ऊर्ध्वेन अयनं षाण्मासिकम्। तच्च प्रकाशादिधर्मकत्वात् दहनादिकैः शब्दैरुपचर्यते। अतो विपरीतं विपर्ययेण। तत्र चन्द्रमसो भोग्यांशानुप्रवेशात् भोगायावृत्तिः।
 </details>
@@ -148,12 +155,14 @@ on their exhaustion.
 
 8.24-25 Agnih etc. Dhumah etc. Northern : upper (or upward). Course : the one taken \[by the sun\] during the period of six months. This course, on account of its illuminating nature, is figuratively described by the words denoting fire etc., and the course, contrary to this, by opposite terms. This course is intercepted with the lunar parts of enjoyment. Hence \[it leads to\] the return for enjoyment.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.25॥ आवृत्तिमार्गमाह सकामाग्निहोत्रिणाम्। रात्रौ कृष्णे दक्षिणायने
 मृतः। धूम इत्यादि धूममार्गपितृलोकादेः प्रदर्शनम्। अत्रापि श्रुतिः -- ते
@@ -171,10 +180,13 @@ on their exhaustion.
 प्रयातः सन् चान्द्रमसं स्वर्गादिसुखं शीतलात्मकं प्राप्य सुखभोगं कृत्वा
 निवर्तते पुनर्जन्म प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.25॥ आवृत्तिमार्गमाह -- धूम इति। धूमाभिमानिनी देवता।
 रात्र्यादिशब्दैश्च पूर्ववदेव
@@ -188,10 +200,13 @@ on their exhaustion.
 स्वर्गभोगानन्तरमावृत्तिः निषिद्धकर्मभिस्तु नरकभोगानन्तरमावृत्तिः
 क्षुद्रकर्मणां जन्तूनां त्वत्रैव पुनः पुनर्जन्मेति द्रष्टव्यम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.25 Smoke, night, as also the dark fortnight and the six months of the Southern solstice-following this Path the yogi having reached the lunar light, returns.
@@ -219,11 +234,13 @@ on their exhaustion.
 there; चान्द्रमसम् lunar; ज्योतिः light; योगी the Yogi; प्राप्य having attained; निवर्तते returns.Commentary This is the Pitriyana or the path of darkness or the path of the ancestors which leads to rirth. Those who do sacrifices to the gods and other charitable works with expectation of reward go to the Chandraloka through this path and come back to this world when the fruits of the Karmas are exhausted.Smoke; night time; the dark fortnight and the six months of the southern solstice are all deities who preside over them. They may denote the degree of ignorance;
 attachment and passion. There are smoke and darkcoloured objects throughout the course. There is no illumination when one passes along this path. It is reached by ignorance. Hence it is called the path of darkness or smoke.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.25।। जिस मार्गमें धूमका अधिपति देवता, रात्रिका अधिपति देवता,
@@ -330,6 +347,7 @@ attachment and passion. There are smoke and darkcoloured objects throughout the 
 
 ।।8.25।। धूम, रात्रि, कृष्णपक्ष और दक्षिणायन के छः मास वाले मार्ग से
 चन्द्रमा की ज्योति को प्राप्त कर, योगी (संसार को) लौटता है।।
+</details>
 </details>
 
 </div>

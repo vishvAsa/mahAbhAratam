@@ -25,8 +25,9 @@ title = "23 रूपम् महत्ते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.23॥ बह्वीभिर् दंष्ट्राभिर् अतिभीषणाकारं **लोकाः** पूर्वोक्ताः प्रतिकूलानुकूलमध्यस्थास् त्रिविधाः सर्व एव **अहं** च तव इदम् ईदृशं **रूपं दृष्ट्वा** अतीव **व्यथिता** भवामः।
@@ -41,12 +42,14 @@ title = "23 रूपम् महत्ते"
 
 11.23 Beholding Your mighty form, as described earlier, which is an exceedingly terrifying figure because of the large teeth - all the worlds, described earlier and containing three kinds of beings, friendly, antagonistic and neutral, and I myself too have become panic-stricken.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.23॥ --,**रूपं महत्** अतिप्रमाणं ते तव **बहुवक्त्रनेत्रं** बहूनि वक्त्राणि मुखानि नेत्राणि चक्षूंषि च यस्मिन् तत् रूपं बहुवक्त्रनेत्रम्; हे **महाबाहो;** **बहुबाहूरुपादं** बहवो बाहवः ऊरवः पादाश्च यस्मिन् रूपे तत् बहुबाहूरुपादम्; किञ्च; **बहूदरं** बहूनि उदराणि यस्मिन्निति बहूदरम्; **बहुदंष्ट्राकरालं** बह्वीभिः दंष्ट्राभिः करालं विकृतं तत् बहुदंष्ट्राकरालम्; **दृष्ट्वा** रूपम् ईदृशं **लोकाः** लौकिकाः प्राणिनः **प्रव्यथिताः** प्रचलिताः भयेन **तथा अहम**पि॥ तत्रेदं कारणम् --,
 </details>
@@ -108,12 +111,14 @@ even aham, I. The reason of that is this:
 यस्मिंस्तत्। बहुभिर्दंष्ट्राभिः करालमतिभयानकम्। दृष्ट्वैव मत्सहिताः
 सर्वे लोका भयेन पीडिता इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.23॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -122,12 +127,14 @@ even aham, I. The reason of that is this:
 
 ॥11.23॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.23॥ No commentary.
 </details>
@@ -136,12 +143,14 @@ even aham, I. The reason of that is this:
 
 11.23 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.23॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -160,10 +169,13 @@ even aham, I. The reason of that is this:
 त्वद्रूपस्थाश्चेल्लोकाः प्रव्यथितास्तदा मम कः सन्देह इति तथेति पदेन
 द्योतितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.23॥ किंच **-- रूपमिति।** हे महाबाहो; महदत्यूर्जितं तव रूपं दृष्ट्वा
 लोकाः सर्वे प्रव्यथिता अतिभीताः; तथाहं प्रव्यथितोऽस्मि। कीदृशं रूपं
@@ -171,10 +183,13 @@ even aham, I. The reason of that is this:
 यस्मिंस्तत्; बहूनि उदराणि यस्मिंस्तत्; बहुभिर्दंष्ट्राभिः करालं विकृतं।
 रौद्रमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.23 Beholding Your great form with many mouths and eyes, with many arms, thights, and feet, witth many stomachs and terrible with many teeth, the worlds tremble, and I too ake, O mighty-armed.
@@ -206,11 +221,13 @@ its innumerable eyes and limbs and terrible jaws, I myself and all the worlds ar
 11.23 रूपम् form; महत् immeasurable; ते Thy; बहुवक्त्रनेत्रम् with many mouths and eyes; महाबाहो O,mightyarmed; बहुबाहूरुपादम् with many arms;
 thighs and feet; बहूदरम् with many stomachs. बहुदंष्ट्राकरालम् fearful with many teeth; दृष्ट्वा having seen; लोकाः the worlds; प्रव्यथिताः are terrified; तथा also; अहम् I.Commentary Lokah The worlds -- all living beings in the world. Here is the cause of my fear. Arjuna describes below the nature of the Cosmic Form which has caused terror in his heart.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.23।। हे महाबाहो! आपके बहुत मुखों और नेत्रोंवाले, बहुत भुजाओं,
@@ -236,6 +253,7 @@ thighs and feet; बहूदरम् with many stomachs. बहुदंष्
 (जंघा) तथा पैरों वाले, बहुत-ंंसी उदरों वाले तथा बहुतसी विकराल दाढ़ों
 वाले महान् रूप को देखकर सब लोग व्यथित हो रहे हैं और उसी प्रकार मैं भी
 (व्याकुल हो रहा हूँ)।।
+</details>
 </details>
 
 </div>

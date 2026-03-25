@@ -23,8 +23,9 @@ title = "39 एषा तेऽभिहिता"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.39॥ सङ्ख्या बुद्धिः+++(5)+++। बुद्ध्यावधारणीयम् आत्मतत्त्वं साङ्ख्यम्। ज्ञातव्ये आत्मतत्त्वे तज्-ज्ञानाय या बुद्धिर् अभिधेया "न त्वेवाहम्" (गीता 2।12) इत्यारभ्य "तस्मात् सर्वाणि भूतानि" (गीता 2।30) इत्यन्तेन सा **एषा अभिहिता।**  
@@ -46,12 +47,14 @@ title = "39 एषा तेऽभिहिता"
 2.39 'Sankhya' means 'intellect,' and the truth about the Atman, which is determinable by the intellect, is 'Sankhyam'. Concerning the nature of the self which has to be known, whatever Buddhi has to be taught, has been taught to you in the passage beginning with, 'It is not that I did not exist' (II.12) and ending with the words, 'Therefore, you shall not grieve for any being' (II.30). The disposition of mind (Buddhi) which is reired for the performance of works preceded by knowledge of the self and which thus constitutes the means of attaining release, that is here called by the term Yoga. It will be clearly told later on, 'Work done with desire for fruits is far inferior to work done with evennes of mind' (II. 49). What Buddhi or attitude of mind is reired for making your act deserve the name of Yoga, listen to it now. Endowed with that knowledge, you will be able to cast away the bondage of Karma.
 'Karma-bandha' means the bondage due to Karma i.e., the bondage of Samsara. Now Sri Krsna explains the glory of works associated with the Buddhi to be described hereafter:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.39॥  
   
@@ -261,12 +264,14 @@ the attainment of Knowledge through God's grace. This is the idea.
   
 त्वध्याहारदोषः कर्मपदवैयर्थ्यं च परिहर्तव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.39॥ साङ्ख्यं ज्ञानम्। शुद्धात्मतत्त्वविज्ञानं साङ्ख्यमित्यभिधीयते इति
 भगवद्वचनाद्व्यासस्मृतौ। योग उपायःदृष्टा योगाः प्रयुक्ताश्च पुंसां
@@ -326,12 +331,14 @@ the attainment of Knowledge through God's grace. This is the idea.
 वाङ्मात्रमुक्तं किन्तु तव बोधो यथोत्पद्यते
 तथेत्यप्रसिद्धपदोपादानप्रयोजनमित्युक्तं भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.40॥ एषा त इति। एषा च तव साङ्ख्ये सम्यग्ज्ञाने बुद्धिर्निश्चयात्मिका उक्ता। एषैव च यथा योगे कर्मकौशलाय उच्यते +++(S K कौशले यो (S य)+++ ज्यते) तथैव श्रृणु यया बुद्ध्या कर्मणां बन्धकत्वं त्यक्ष्यसि। न हि कर्माणि स्वयं बध्नन्ति जडत्वात्। अतः स्वयमात्मा कर्मभिः वासनात्मकैरात्मानं बध्नाति।
 </details>
@@ -340,12 +347,14 @@ the attainment of Knowledge through God's grace. This is the idea.
 
 2.39 Esa te etc. And this knowledge in th form of determination has been declared \[to you\] for your sankhya, i.e., perfect knowledge. Now, how the self-same determinate knowledge is also taught for the Yoga i.e., dexerity in action - in that manner only you must listen to by means of which determinate knowledge you shall avoid the binding nature of the actions. Truely, the actions do not themselves bind as they are insentient. Hence, it is the Self which binds Itself by means of the actions in the form of mental impressions.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.39॥ एवमशोकार्थमुपदिष्टेऽपि साङ्ख्येऽतन्मात्ररुचिं पार्थमालक्ष्य
 आत्मयोगोपदेशेन मनस्समाधानाय तं प्रस्तौति एषा ते इति।
@@ -371,10 +380,13 @@ the attainment of Knowledge through God's grace. This is the idea.
 यया बुद्ध्या युक्तः सन् पार्थ मद्भक्तवर कर्मबन्धं कृतकर्मपापं प्रहास्यसि
 त्यक्ष्यसीत्यर्थः। त्यागे प्रकर्षः पुनस्तद्भावानुदयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.39॥ उपदिष्टं ज्ञानयोगमुपसंहरंस्तत्साधनं कर्मयोगं प्रस्तौति **एषा त
 इति।** सम्यक् ख्यायते प्रकाश्यते वस्तुतत्त्वमनयेति संख्या सम्यग्ज्ञानं
@@ -385,10 +397,13 @@ the attainment of Knowledge through God's grace. This is the idea.
 तत्प्रसादप्राप्तापरोक्षज्ञानेन कर्मात्मकं बन्धं प्रकर्षेण हास्यसि
 त्यक्ष्यसि।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.39 This Buddhi concerning the self (Sankhya) has been imparted to you.
@@ -424,11 +439,13 @@ Now listen to wisdom concerning Yoga, endowed with which, O Arjuna, thou shalt c
 बुद्ध्या with wisdom; युक्तः endowed with; यया which; पार्थ O Partha;
 कर्मबन्धम् bondage of Karma; प्रहास्यसि (thou) shalt cast off.Commentary Lord Krishna taught Jnana (knowledge) to Arjuna till now. (Sankhya Yoga is the path of Vedanta or Jnana Yoga; which treats of the nature of the Atman or the Self and the methods to attain Selfrealisation. It is not the Sankhya philosophy of sage Kapila.) He is now giving to teach Arjuna the technie or secret of Karma Yoga endowed with which he (or anybody else) can break through the bonds of Karma. The Karma Yogi should perform work without expectation of fruits of his actions; without the idea of agency (or the notin I do this); without attachment; after annihilating or going beyond all the pairs of opposites such as heat and cold; gain and loss; victoyr and defeat; etc. Dharma and Adharma; or merit and demerit will not touch that Karma Yogi who works without attachment and egoism. The Karma Yogi consecrates all his works and their fruits as offerings unto the Lord (Isvararpanam) and thus obtains the grace of the Lord (Isvaraprasada).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.39।। हे पार्थ! यह समबुद्धि तेरे लिए पहले साङ्ख्ययोगमें कही गयी, अब तू
@@ -530,6 +547,7 @@ Now listen to wisdom concerning Yoga, endowed with which, O Arjuna, thou shalt c
 ।।2.39।। हे पार्थ ! तुम्हें साङ्ख्य विषयक ज्ञान कहा गया और अब इस (कर्म)
 योग से सम्बन्धित ज्ञान को सुनो जिस ज्ञान से युक्त होकर तुम कर्मबन्ध का
 नाश कर सकोगे।।
+</details>
 </details>
 
 </div>

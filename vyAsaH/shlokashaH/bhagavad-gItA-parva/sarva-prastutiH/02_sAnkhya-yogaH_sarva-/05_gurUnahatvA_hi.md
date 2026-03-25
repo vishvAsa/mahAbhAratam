@@ -25,8 +25,9 @@ title = "05 गुरूनहत्वा हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.5॥ अर्जुन उवाच 
@@ -43,12 +44,14 @@ title = "05 गुरूनहत्वा हि"
 
 2.4 - 2.5 Arjuna said Again Arjuna, being moved by love, compassion and fear, mistaking unrighteousness for righteousness, and not understanding, i.e., not knowing the beneficial words of Sri Krsna, said as follows: 'How can I slay Bhisma, Drona and others worthy or reverence; After slaying those elders, though they are intensely attached to enjoyments, how can I enjoy those very pleasures which are now being enjoyed by them; For, it will be mixed with their blood.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 2.5 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -156,12 +159,14 @@ starts from 2.10.
 कियद्वर्णनीयमिति भावः। अथवा गुरून्हत्वार्थकामात्मकान्भोगानेव भुञ्जीय नतु
 धर्ममोक्षावित्यर्थकामपदस्य भोगविशेषणतया व्याख्यानान्तरं द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.5॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -172,12 +177,14 @@ starts from 2.11.
 ॥2.5॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.4 2.6॥ क्लैव्यादिभिर्निर्भर्त्सनमभिदधत् अधर्मे तव धर्माभिमानोऽयम् +++(N K [n] omit अयम् S omits the entire sentence)+++ इत्यादि दर्शयति  
 कथमित्यादि। कथं भीष्ममहं संख्ये द्रोणं च इत्यादिना भुञ्जीय भोगान् इत्यनेन च कर्मविशेषानुसन्धानं फलविशेषानुसन्धानं च हेयतया पूर्वपक्षे +++(N omit पूर्वपक्षे)+++ सूचयति। नैतद्विद्मः इत्यनेन च कर्मविशेषानुसन्धानमाह। निरनुसन्धानं +++(S K निरभिसन्धानं)+++ तावत् कर्म नोपपद्यते। न च पराजयमभिसन्धाय युद्धे प्रवर्तते। जयोऽपि नश्चायमनर्थ +++(S k omit नः)+++ एव। तदाह अहत्वा गुरून् भैक्षमपि चर्तुं श्रेयः। एतच्च निश्चेतुमशक्यं किं जयं कांक्षामः किं वा पराजयम् जयेऽपि बन्धूनां विनाशात्।
@@ -187,12 +194,14 @@ starts from 2.11.
 
 2.5 See Comment under 2.6
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.5॥ अतो गुर्वादिहननं लोकवेदविरुद्धमित्याह गुरूनिति।
 महानुभावान्गुरूनहत्वा भैक्ष्यं भिक्षालब्धमन्नं भोक्तुं सन्न्यासिनेव लोके
@@ -211,10 +220,13 @@ starts from 2.11.
 अर्थात्मकान् गुरून् हत्वा तु इहैव रुधिरप्रदिग्धान् रुधिरावलिप्तान्
 भोगान् भुञ्जीय अश्नीयाम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.5॥ तर्हि तव देहयात्रापि न स्यादिति चेत्तत्राह **गुरूनिति।**
 गुरून्द्रोणादीनहत्वा परलोकविरुद्धो गुरुवधस्तमकृत्वा इह लोके भिक्षान्नमपि
@@ -226,10 +238,13 @@ starts from 2.11.
 युधिष्ठिरं प्रति भीष्मेणोक्तम्अर्थस्य पुरुषो दासो दासस्त्वर्थो न
 कस्यचित्। इति सत्यं महाराज बद्धोऽस्म्यर्थेन कौरवैः॥ इति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.5 It is better even to live on a beggar's fare in this world than to slay these most venerable teachers. If I should slay my teachers, though degraded they be by desire for wealth, I would be enjoying only blood-stained pleasures here.
@@ -264,11 +279,13 @@ blood.
 desirous of wealth; तु indeed; गुरून् Gurus; इह here; एव also; भुञ्जीय
 enjoy; भोगान् enjoyments; रुधिरप्रदिग्धान् stained with blood.No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.5।। महानुभाव गुरुजनोंको न मारकर इस लोकमें मैं भिक्षाका अन्न खाना भी
@@ -387,6 +404,7 @@ enjoy; भोगान् enjoyments; रुधिरप्रदिग्धा
 ।।2.5।। इन महानुभाव गुरुजनों को मारने से इस लोक में भिक्षा का अन्न भी
 ग्रहण करना अधिक कल्याण कारक है, क्योंकि गुरुजनों को मारकर मैं इस लोक में
 रक्तरंजित अर्थ और काम रूप भोगों को ही भोगूँगा।।
+</details>
 </details>
 
 </div>

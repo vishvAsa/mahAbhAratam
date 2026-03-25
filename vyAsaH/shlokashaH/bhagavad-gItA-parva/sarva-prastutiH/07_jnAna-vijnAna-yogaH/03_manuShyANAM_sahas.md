@@ -23,8 +23,9 @@ title = "03 मनुष्याणां सहस्रेषु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.3॥ मनुष्याः शास्त्राधिकारयोग्यास् तेषां **सहस्रेषु कश्चिद्** एव सिद्धिपर्यन्तं यतते। सिद्धिपर्यन्तं यतमानानां सहस्रेषु **कश्चिद्** एव **मां** विदित्वा मत्तः सिद्धये यतते। मद्विदां सहस्रेषु **तत्त्वतो** यथावत्स्थितं **मां वेत्ति** न कश्चिद् इत्य् अभिप्रायः। स महात्मा सुदुर्लभः (गीता 7।19)मां तु वेद न कश्चन (गीता 7।26) इति हि वक्ष्यते।
@@ -39,12 +40,14 @@ title = "03 मनुष्याणां सहस्रेषु"
 
 7.3 'Men', i.e., those who are alified for observing the ;nds of the Sastras - among thousands of such men, only some one strives till the attainment of perfection. Among thousands who strive till the attainment of perfection, some one only, understanding Me, strives to attain success through Me (i.e., through My grace). Among thousands of those who might know Me, some one only knows Me in reality, as I am. In other words, there is no one who is capable of knowing Me as I am, i.e., as distinguished from all other entities, as implied in the expression Vijnana. Sri Krsna will declare later on: 'It is very hard to find such a great-souled person' (7.19), and 'But no one knows Me' (7.26).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.3॥ **मनुष्याणां** मध्ये **सहस्रेषु** अनेकेषु **कश्चित् यतति** प्रयत्नं करोति **सिद्धये** सिद्ध्यर्थम्। तेषां **यततामपि सिद्धानाम्** सिद्धा एव हि ते ये मोक्षाय यतन्ते तेषां **कश्चित्** एव हि **मां वेत्ति तत्त्वतः** यथावत्॥ श्रोतारं प्ररोचनेन अभिमुखीकृत्याह
 </details>
@@ -115,12 +118,14 @@ the Lord says:
 मनुष्येष्वात्मज्ञानसाधनानुष्ठायी परमदुर्लभः। साधनानुष्ठायिष्वपि मध्ये
 फलभागी परमदुर्लभ इति किं वक्तव्यमस्य ज्ञानस्य माहात्म्यमित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.3॥ दौर्लभ्यं ज्ञानस्याह मनुष्याणामिति।
 </details>
@@ -131,12 +136,14 @@ the Lord says:
 **दौर्लभ्यमि**ति। श्रोतुरादरजननार्थमिति शेषः। ज्ञानस्य दौर्लभ्ये
 विज्ञानस्य तत्सुतराम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.3॥ मनुष्याणामिति। अस्य च वस्तुनः सर्वो न योग्यः इत्यनेन दुर्लभत्वात् यत्नसेव्यतामाह+++(N यत्नः सेव्यतामित्याह)+++।
 </details>
@@ -145,12 +152,14 @@ the Lord says:
 
 7.3 Manusyanam etc. All \[persons\] are not fit for this subject. By this statement, \[the Bhagavat\] has declared that, as the subject is difficult to grasp, it is to be learnt with effort.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.3॥ यतः मनुष्याणामिति। आत्मतत्त्वज्ञानाय कश्चिद्यतति। तादृशानामपि
 मध्ये मां भगवन्तं परमात्मानं सर्वधर्माश्रयमीश्वरं तत्त्वतः
@@ -174,10 +183,13 @@ the Lord says:
 तत्त्वतस्तदनुग्रहैकलभ्यत्वेन वेत्ति जानाति। यत एतज्ज्ञानमतिदुर्लभम्।
 यज्ज्ञानान्तरं न किञ्चिदवशिष्यते तन्मया त्वदर्थमुच्यत इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.3॥ मद्भक्तिं विना तु मज्ज्ञानं दुर्लभमित्याह **मनुष्याणामिति।**
 असंख्यातानां जीवानां मध्ये मनुष्यव्यतिरिक्तानां श्रेयसि प्रवृत्तिरेव
@@ -187,10 +199,13 @@ the Lord says:
 कश्चिदेव मां परमात्मानं मत्प्रसादेन तत्त्वतो वेत्ति तदेवमतिदुर्लभमपि
 मज्ज्ञानं तुभ्यमहं वक्ष्यामीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.3 Among thousands of men, some one strives for perfection; even among those who strive for perfection, some one only knows Me; and among those who know Me, some one only knows Me in reality.
@@ -226,11 +241,13 @@ The liberated ones (Jivanmuktas) are rare. Real Sadhakas are also rare.
 The,knowledge of the Self bestows incalculable fruits on man; viz.;
 immortality; eternal bliss; perennial joy and everlasting peace. It is very difficult to attain to this knowledge of the Self. But a good and earnest spiritual aspirant (Sadhaka) who is endowed with a strong determination and iron resolve; and who is eipped with the four means to salvation can easily obtain the knowledge of the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.3।। हजारों मनुष्योंमें कोई एक वास्तविक सिद्धिके लिये यत्न करता है और
@@ -364,6 +381,7 @@ immortality; eternal bliss; perennial joy and everlasting peace. It is very diff
 ।।7.3।। सहस्रों मनुष्यों में कोई ही मनुष्य पूर्णत्व की सिद्धि के लिए
 प्रयत्न करता है और उन प्रयत्नशील साधकों में भी कोई ही पुरुष मुझे तत्त्व
 से जानता है।।
+</details>
 </details>
 
 </div>

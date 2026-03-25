@@ -23,8 +23,9 @@ title = "27 यत्करोषि यदश्नासि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.27॥**यत्** देहयात्रादिशेषभूतं लौकिकं कर्म **करोषि;** **यच् च** देहधारणाय **अश्नासि; यत्** च वैदिकं होमदानतपःप्रभृति नित्यनैमित्तिकं कर्म करोषि; **तत्** सर्वं **मदर्पणं कुरुष्व।** अर्प्यत इत्य् अर्पणम्; सर्वस्य लौकिकस्य वैदिकस्य च कर्मणः कर्तृत्वं भोक्तृत्वम् आराध्यत्वं च यथा मयि सर्वं समर्पितं भवति तथा कुरु। एतद् उक्तं भवति -- यागदानादिष्व् आराध्यतया प्रतीयमानानां देवादीनां कर्मकर्तुर् भोक्तुस् तव च मदीयतया मत्सङ्कल्पायत्तस्वरूपस्थितिप्रवृत्तितया च मय्य् एव परमशेषिणि परमकर्तरि त्वां च कर्तारं भोक्तारम् आराधकम् आराध्यं च देवताजातम् आराधनं च क्रियाजातं सर्वं समर्पय। तव मन्नियाम्यतापूर्वकमच्छेषतैकरसताम् आराध्यादेश् च एतत्स्वभावकगर्भताम् अत्यर्थप्रीतियुक्तो ऽनुसन्धत्स्व इति।
@@ -39,12 +40,14 @@ title = "27 यत्करोषि यदश्नासि"
 
 9.27 Whatsoever worldly work you do for the sustenance of the body, whatsoever you set aside for the sustenance of the body, whatsoever Vedic acts, obligatory and occasional, like offerings, charity and austerity you practise - do all that as an offering to Me. 'Arpana' is offering. Do all acts, secular and Vedic, as if the doer, the enjoyer and the worshipped were all offerings to Me. The import is this: The divinities etc., who are the objects of sacrificial worship, charities etc., and you, the agent and experiencer - all belong to Me and have their essence, existence and actions dependent on Me. Thus only to Me, the supreme Principal (Sesi) and supreme agent, offer everything - yourself as the agent, experiencer and worshipper, all the host of divinities who are the object of worship and the sum of actions constituting the worship. Actuated by overwhelming love, contemplate yourself and other factors such as the objects of worship, as dependent on Me as My Sesas, and hence as of a nature that finds delight only in subservience to Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.27॥ --,**यत् करोषि** स्वतः प्राप्तम्; **यत् अश्नासि; यच्च जुहोषि** हवनं निर्वर्तयसि श्रौतं स्मार्तं वा; **यत् ददासि** प्रयच्छसि ब्राह्मणादिभ्यः हिरण्यान्नाज्यादि; यत् **तपस्यसि** तपः चरसि **कौन्तेय; तत्** कुरुष्व **मदर्पणं** मत्समर्पणम्॥ एवं कुर्वतः तव यत् भवति; तत् श्रृणु --,
 </details>
@@ -116,12 +119,14 @@ when you act thus.'
 दर्शयति। अवश्यंभाविनां कर्मणां मयि परमगुरौ समर्पणमेव मद्भजनं नतु तदर्थं
 पृथग्व्यापारः कश्चित्कर्तव्य इत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.27॥ अतो यत्करोषि।
 </details>
@@ -132,12 +137,14 @@ when you act thus.'
 पूर्वमेवोक्तत्वाद्व्यर्थमुत्तरमित्यत आह -- **अत** इति। सामान्यमुक्त्वा
 विशेषे निगमनमेतदिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.27 -- 9.28॥ यदपि अन्यत् कर्म; तदपि महेश्वरस्वात्मार्चनरूपं; तस्यैव सर्वत्रोद्देशात् इत्याह -- यत् करोषीति। शुभाशुभेति। देवतान्तरयाजिनो यतो मितमनोरथाः फलं लघयन्ति; अतस्त्वं सर्वं प्रागुक्तोपदेशक्रमेण मदर्पणं मन्मयत्वेन भावन +++(S omits मन्मयत्वेन भावनम्)+++ कुरु। एष एव च संन्यासयोग इति विस्तीर्णं विस्पष्टप्रायं पुरस्तादेव।
 </details>
@@ -146,12 +153,14 @@ when you act thus.'
 
 9.27 See Comment under 9.28
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.27॥ तस्मात्त्वमपि भगवत्सेवायामुक्तलक्षणयोगभावाराधनरतात्मा मदर्पितमेव
 लौकिकं; वैदिकं नित्यं नैमित्तिकं कर्म कुरु; ततो निर्बन्धपूर्वकं
@@ -180,10 +189,13 @@ when you act thus.'
 भगवद्विनियोगप्रतिबन्धनिवृत्त्यर्थम्। तपश्च भगवतः कारुण्योदयार्थम्।
 एवमेतत्सर्वं भगवत्समर्पितं भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.27॥ नच पत्रपुष्पादिकमपि यज्ञार्थं
 पशुसोमादिद्रव्यवन्मदर्थमेवोद्यमैरापाद्य समर्पणीयम्; किं तर्हि **--
@@ -191,10 +203,13 @@ when you act thus.'
 यज्जुहोषि; यद्ददासि; यत्तपस्यसि तपः करोषि तत्सर्वं मय्यर्पितं यथा
 भवत्येवं कुरुष्व।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.27 Whatsoever you do, whatsoever you eat, whatsoever you offer,
@@ -231,11 +246,13 @@ whatever; यत् whatever; तपस्यसि thou practisest as austerity
 Gradually he ascends the spiritual path step by step. His greedy nature is slowly dissolved now. He always gives. He is not eager to take. His whole life with all its actions; thoughts and feelings; is dedicated to the service of the Lord eventually. He lives for the Lord only. He works for the Lord only. There is not a bit of egoism now. His whole nature is transformed into divinity. When actions are dedicated to the Lord; there is no rirth for you. This is the simplest method of Yoga. Do not waste your time any longer. Take it up from today.All actions; all results and all rewards will go to the Lord. There is no separte living for the individual. Just as the river joins the sea abandoning its own name and form so also the individual soul joins the Supreme Soul giving up his own name and form; his own egoistic desires and egoism. The individual will has become one with the cosmic will.Whatever thou doest of thy own sweet will; whatever thou offerest in sacrifice as enjoined in the scriptures; whatever thou givest -- such things as gold; rice; ghee;
 clothes; etc.; to the Brahmins and others -- whatever austerity such as the ChandrayanaVrata (to destroy sin); control of the senses; etc.; thou doest; do thou all these as an offering unto Me. (Cf.V.32XII.6and8)Now listen to what you will gain by doing thus.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.27।। हे कुन्तीपुत्र ! तू जो कुछ करता है, जो कुछ खाता है, जो कुछ यज्ञ
@@ -302,6 +319,7 @@ clothes; etc.; to the Brahmins and others -- whatever austerity such as the Chan
 ।।9.27।। हे कौन्तेय ! तुम जो कुछ कर्म करते हो, जो कुछ खाते हो, जो कुछ
 हवन करते हो, जो कुछ दान देते हो और जो कुछ तप करते हो, वह सब तुम मुझे
 अर्पण करो।।
+</details>
 </details>
 
 </div>

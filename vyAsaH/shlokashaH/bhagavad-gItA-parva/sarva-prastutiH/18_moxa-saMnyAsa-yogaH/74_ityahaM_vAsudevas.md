@@ -26,8 +26,9 @@ title = "74 इत्यहं वासुदेवस्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.74॥ सञ्जय उवाच -- **इति** एवं **वासुदेवस्य** वसुदेवसूनोः **पार्थस्य च** तत्पितृष्वसुः पुत्रस्य च **महात्मनो** महाबुद्धेस् तत्पदद्वन्द्वम् आश्रितस्य **इमं रोमहर्षणम् अद्भुतं संवादम् अहं** यथोक्तम् **अश्रौषं** श्रुतवान् अहम्।
@@ -42,12 +43,14 @@ title = "74 इत्यहं वासुदेवस्य"
 
 18.74 Sanjaya said Thus, in this way have I been hearing, this wondrous and thrilling dialogue, as it took place between Vasudeva, the son of Vasudeva, and His paternal aunt's son Arjuna, who is a Mahatman, one possessed of a great intelligence, and who has resorted to the feet of Sri Krsna.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.74॥ --,**इति** एवम् **अहं वासुदेवस्य पार्थस्य च महात्मनः संवादम् इमं** यथोक्तम् **अश्रौषं** श्रुतवान् अस्मि **अद्भुतम्** अत्यन्तविस्मयकरं **रोमहर्षणं** रोमाञ्चकरम्॥ तं च इमम् --,
 </details>
@@ -107,12 +110,14 @@ end.
 लोमहर्षणं शरीरस्य रोमाञ्चाख्यविकारकरं तेनातिपरिपुष्टत्वं विस्मयस्य
 दर्शितं स्पष्टमन्यत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.74॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -121,12 +126,14 @@ end.
 
 ॥18.74॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.74 -- 18.78॥ इत्यहमित्यादि मतिर्ममेत्यन्तम्। संजयवचनेन संवादमुपसंहरन एतदर्थस्य गाढप्रबन्धक्रमेण निरन्तरचिन्तासन्तानोपकृतनैरन्तर्यादेव चान्ते सुपरिस्फुटनिर्विकल्पानुभवरूपतामापाद्यमानं स्मरणमात्रमेव परब्रह्मप्रदायकम् इत्युच्यते। एवं भगवदर्जुनसंवादमात्रस्मरणादेव तत्त्वावाप्त्या +++(S; ,तत्त्वव्याप्त्या )+++ श्रीविजयविभूतय इति।  
   
@@ -187,12 +194,14 @@ end.
 
 18.74 See Comment under 18.78
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.74॥ तदेवं धृतराष्ट्रं प्रति श्रीकृष्णार्जुनसंवादमुक्त्वा
 प्रस्तुतकथामनुसन्दधानः सञ्जय उवाच --,इत्यहमिति। उभयोः संवादमिममश्रौषम्।
@@ -208,19 +217,25 @@ end.
 पूर्वोक्तं संवादम् उत्तरप्रत्युत्तररूपं अद्भुतम्; अलौकिकं रोमहर्षणं
 रोमहर्षकरम् आनन्दोद्बोधकं अश्रौषं श्रुतवानस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.74॥ तदेवं धृतराष्ट्रं प्रति श्रीकृष्णार्जुनसंवादं कथयित्वा
 प्रस्तुतां कथामनुसंदधानः संजय उवाच **-- इतीति।** रोमहर्षणं रोमाञ्चकरं
 संवादमश्रौषं श्रुतवानहम्। स्पष्टमन्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.74 Sanjaya said Thus have I heard this wondrous dialogue between Vasudeva and the great-minded Arjuna, which makes my hair stand on end.
@@ -251,11 +266,13 @@ end.
 18.74 इति thus; अहम् I; वासुदेवस्य of Krishna; पार्थस्य of Arjuna; च
 and; महात्मनः highsouled; संवादम् dialogue; इमम् this; अश्रौषम् (I) have heard; अद्भुतम् wonderful; रोमहर्षणम् which causes the hair to stand on end.Commentary Wonderful because it deals with Yoga and transcendental spiritual matters that pertain to the mysterious immortal Self.Whenever good; higher emotions manifest themselves in the heart the hair stands on end. Devotees often experience this horripilation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.74।। सञ्जय बोले -- इस प्रकार मैंने भगवान् वासुदेव और महात्मा
@@ -354,6 +371,7 @@ and; महात्मनः highsouled; संवादम् dialogue; इम
 
 ।।18.74।। संजय ने कहा -- इस प्रकार मैंने भगवान् वासुदेव और महात्मा
 अर्जुन के इस अद्भुत और रोमान्चक संवाद का वर्णन किया।।
+</details>
 </details>
 
 </div>

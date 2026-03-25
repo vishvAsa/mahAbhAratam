@@ -23,8 +23,9 @@ title = "26 सद्भावे साधुभावे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.26॥**सद्भावे** विद्यमानतायां **साधुभावे** कल्याणभावे **च** सर्ववस्तुषु **सद् इत्य् एतत्** पदं **प्रयुज्यते** लोकवेदयोः। **तथा** केनचित् पुरुषेण अनुष्ठिते लौकिके **प्रशस्ते** कल्याणे कर्मणि सत्कर्म इदम् इति **सच्छब्दो** **युज्यते** प्रयुज्यते इत्यर्थः।
@@ -41,12 +42,14 @@ title = "26 सद्भावे साधुभावे"
 (Sadhubhava). Similarly, in relation to any praiseworthy worldly act,
 viz., auspicious undertaking by someone, the word Sat is applied to express, 'This is a good act.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.26॥ --,**सद्भावे;** असतः सद्भावे यथा अविद्यमानस्य पुत्रस्य जन्मनि; तथा **साधुभावे** च असद्वृत्तस्य असाधोः सद्वृत्तता साधुभावः तस्मिन् साधुभावे **च सत् इत्येतत्** अभिधानं ब्रह्मणः **प्रयुज्यते** अभिधीयते। **प्रशस्ते कर्मणि** विवाहादौ च **तथा सच्छब्दः पार्थ; युज्यते** प्रयुज्यते इत्येतत्॥
 </details>
@@ -109,12 +112,14 @@ mirage etc.
 पार्थ;,युज्यते प्रयुज्यते तस्मादप्रतिबन्धेनाशु फलजनकत्वं वैगुण्यपरिहारेण
 यज्ञादेः समर्थमेतन्नामेति,प्रशस्ततरमेतदित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.26॥ सद्भावशब्देन प्रजननं सूचितम्। मित्युक्त्वाऽनभिसन्धाय फलं
 यज्ञदानतपआदिकृतामतिप्रीतेर्नामसाम्याद्ब्रह्मैव निष्पादितं भवतीत्याशयः।
@@ -143,12 +148,14 @@ mirage etc.
 लब्धम्। सद्भावः इत्यनेन सच्छब्दो ब्रह्मणि व्याख्यातः। तेन
 ब्रह्मज्ञानपूर्वकमिति लभ्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.23 -- 17.27॥ इदानीं ये गुणत्रितयसंकटोत्तीर्णधियः ते क्रियां कथमाचरन्ति इति तादृक़्प्रकार उच्यते -- ओमित्यादि अभिधीयते इत्यन्तम्। ओं तत् सत् इत्येभिस्त्रिभिः शब्दैर्ब्रह्मणो निर्देशः; संमुखीकरणम्। तत्र ओम् इत्यनेन शास्त्रार्थोऽयमादेहसंबन्धमूरीकार्य इति सूच्यते। तत् इति सर्वनामपदेन सामान्यमात्राभिधायिना विशेषपरामर्शमात्रासमर्थेन फलानभिसंधानं ब्रह्मण्युच्यते अभिसंधानस्य विशेषपरिग्रहमन्तरेण अभावात् सकलविशेषानुग्राहित्वेऽपि सकलफलसंधाने सर्वकर्तृतायामपि विशिष्टफलायोगात्। सत् इत्यमुया श्रुत्या प्रशंसा अभिधीयते। क्रियमाणमपि इदं यज्ञादिकं दुष्टम् इति बुद्ध्या क्रियमाणं तामसतामेति। विशिष्टफलाभिसंधानेन च क्रियमाणं न च सत्; बन्धाधायकमेवेति। तस्मात् कर्तव्यमिदम् इति मन्वानाः \[ फलविशेषमनभिसंदधानाः \] यज्ञादि कुर्वाणा अपि न बध्यन्ते। अनेनैवाभिप्रायेण आदिपर्वण्युक्तम् -- तपो न कल्कोऽध्ययनं न कल्कः  
   
@@ -165,12 +172,14 @@ mirage etc.
 
 17.26 See Comment under 17.27
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.26॥ सदित्यस्यान्वयप्रकारं लोके शब्दव्युत्पत्तिसिद्ध्या दर्शयति --
 सद्भाव इति। अस्तीति सत् तस्मिन्भावे। अत्र भावो नाम वस्तु अन्यथा
@@ -187,10 +196,13 @@ mirage etc.
 तथा प्रशस्ते कर्मणि भगवदर्थके कर्मणि हे पार्थसत् इतिशब्दो युज्यते युक्तो
 भवतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.26॥ सच्छब्दस्य प्राशस्त्यमाह **--** **सद्भाव इति द्वाभ्याम्।**
 सद्भावे अस्तित्वे देवदत्तस्य पुत्रादिकमस्तीत्यस्मिन्नर्थे; साधुभावे च
@@ -198,10 +210,13 @@ mirage etc.
 प्रयुज्यते। प्रशस्ते माङ्गलिके विवाहादिकर्मणि च सदिदं कर्मेति सच्छब्दो
 युज्यते प्रयुज्यते संगच्छत इति वा।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.26 This term Sat is used in the sense of existence and goodness. And so also, O Arjuna, the word Sat is applied to an auspicious action.
@@ -239,11 +254,13 @@ indivisible; selfluminous; immortal Brahman.The word Sat is used when you wish t
 Govindans son never exists.The word Sat which is only applied to Brahman is used also for Mr. Govindans son who is unreal or relatively real.
 Brahman alone is absolutely good and absolutely auspicious. But the,word Sat that can properly be applied to Brahman alone is applied to an act which is not auspicious or which is only relatively auspicious. The use of Sat renders the imperfectly performed actions perfect.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.26।। हे पार्थ ! परमात्माके 'सत्'--इस नामका सत्तामात्रमें और श्रेष्ठ
@@ -293,6 +310,7 @@ Brahman alone is absolutely good and absolutely auspicious. But the,word Sat tha
 ।।17.26।। हे पार्थ ! सत्य भाव व साधुभाव में 'सत्' शब्द का प्रयोग किया
 जाता है, और प्रशस्त (श्रेष्ठ, शुभ) कर्म में 'सत्' शब्द प्रयुक्त होता
 है।।
+</details>
 </details>
 
 </div>

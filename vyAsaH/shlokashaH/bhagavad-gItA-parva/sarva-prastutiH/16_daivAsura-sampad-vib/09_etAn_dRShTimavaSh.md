@@ -23,8 +23,9 @@ title = "09 एतान् दृष्टिमवष्टभ्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.9॥**एतां दृष्टिम् अवष्टभ्य** अवलम्ब्य; **नष्टात्मानः;** अदृष्टदेहातिरिक्तात्मानः; **अल्पबुद्धयः** -- घटादिवद् ज्ञेयभूते देहे ज्ञातृत्वेन देहव्यतिरिक्त आत्मा न उपलभ्यते; इति विवेकाकुशलाः। **उग्रकर्माणः** सर्वेषां हिंसकाः; **जगतः क्षयाय प्रभवन्ति।**
@@ -42,12 +43,14 @@ title = "09 एतान् दृष्टिमवष्टभ्य"
 16.9 Holding this view, viz., supporting this view, these men of lost souls do not realise that the self is different from the body. They are of 'fele understanding,' they lack the discernment that the self is to be known as different from the body, because of Its being the knower in the body which is an object of knowledge such as jars etc. These are of
 'cruel deeds' viz., they do much harm to everybody; they are born to bring ruin to the world.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.9॥ --,**एतां दृष्टिम् अवष्टभ्य** आश्रित्य **नष्टात्मानः** नष्टस्वभावाः विभ्रष्टपरलोकसाधनाः **अल्पबुद्धयः** विषयविषया अल्पैव बुद्धिः येषां ते अल्पबुद्धयः **प्रभवन्ति** उद्भवन्ति **उग्रकर्माणः** क्रूरकर्माणः हिंसात्मकाः। **क्षयाय जगतः** प्रभवन्ति इति संबन्धः॥ जगतः **अहिताः;** शत्रवः इत्यर्थः॥ ते च --,
 </details>
@@ -106,12 +109,14 @@ construction.
 प्रभवन्त्युत्पद्यन्ते। तस्मादियं दृष्टिरत्यन्ताधोगतिहेतुतया सर्वात्मना
 श्रेयोर्थिभिर्हेयैवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.9॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -120,12 +125,14 @@ construction.
 
 ॥16.9॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.9 -- 16.12॥ एतामित्यादि अर्थसंचयानित्यन्तम्। चिन्ता तेषां प्रलयान्ता अवरितं (ता) संसृतिप्रलयाव्युपरमात्। एतावदितिकामोपभोग एव परं (परमं) कृत्यम् \[एषाम्\] तन्नाशाच्च परं क्रोधः। अत एवाह कामक्रोधपरायणाः इति।
 </details>
@@ -134,12 +141,14 @@ construction.
 
 16.9 See Coment under 16.12
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.9॥ एतां दृष्टिमिति। सर्वत्र मृषात्वदृष्टिं चावष्टभ्य स्वस्य
 ब्रह्मणोऽविद्यासम्बन्धतो जीवत्वादिमताङ्गीकारान्नष्टात्मानस्ते।
@@ -157,20 +166,26 @@ construction.
 उग्रकर्माणः उग्रं हिंसाप्रधानं कर्म येषां ते; अहिताः शत्रुरूपाः; जगतः
 सर्वलोकस्य क्षयाय नरकादिपातनार्थं प्रभवन्ति उत्पद्यन्त इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.9॥ किंच **--** **एतामिति।** एतां लोकायतिकानां दृष्टिं
 दर्शनमाश्रित्य नष्टात्मानो मलिनचित्ताः सन्तोऽल्पबुद्धयो
 दृष्टार्थमात्रमतयः अतएव उग्रं हिंस्रं कर्म येषां तेऽहिता वैरिणो भूत्वा;
 जगतः क्षयाय प्रभवन्ति। उद्भवन्तीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.9 Holding this view, these men of lost souls and fele understanding do cruel deeds for the destruction of the world.
@@ -204,11 +219,13 @@ of fierce deeds; क्षयाय for the destruction; जगतः of the wor
 enemies.Commentary They rob others. They acire wealth by destroying others. They boast of their evil actions.Nashtatmanah Ruined souls They have lost all chances of attaining Selfrealisation or going to the higher world.Alpabuddhayah They have a small intellect as they identify themselves with their little bodies full of impurities; as they have no conception of the Supreme Beign; and as their intellects are concerned with the little sensual pleasures only (eating; drinking;
 etc.).Ugrakarmanah Of fierce deeds They always injure others. They murder for aciring wealth. They do any heinous crime to get money and women. They bring great confusion and destroy the peace and harmony of the world.Enemies of the world World here means people who live in the world.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.9।। उपर्युक्त (नास्तिक) दृष्टिका आश्रय लेनेवाले जो मनुष्य अपने नित्य
@@ -300,6 +317,7 @@ etc.).Ugrakarmanah Of fierce deeds They always injure others. They murder for ac
 ।।16.9।। इस दृष्टि का अवलम्बन करके नष्टस्वभाव के अल्प बुद्धि वाले, घोर
 कर्म करने वाले लोग जगत् के शत्रु (अहित चाहने वाले) के रूप में उसका नाश
 करने के लिए उत्पन्न होते हैं।।
+</details>
 </details>
 
 </div>

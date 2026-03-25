@@ -23,8 +23,9 @@ title = "08 परित्राणाय साधूनाम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -61,12 +62,14 @@ title = "08 परित्राणाय साधूनाम्"
 
 4.8 The good are those who follow the Dharma, as defined above. They are the foremost among the Vaisnavas, who have taken refuge in Me. While My name, acts and form are inaccessible to speech and thought, these devotees cannot get support, sustenance etc., for themselves without perceiving Me. They regard even a moment's time without Me as a thousand Kalpas. They become broken in every limb because of the separation from Me. So I am born from age to age in the forms of gods, men etc., for protecting them by affording them the opportunity to behold My form and acts and to converse with Me. I am born also for the destruction of those who are opposed to such devotees and for the restoration of declining Vedic Dharma, which consists of My worship. The main purpose of incarnation is the revealing of His adorable form, so that all may worship Him. The destruction of the wicked is secondary only. There is no specific restrictions of the Yugas like Krta, Treta etc., for the appearance of Divine Incarnations.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.8॥ **परित्राणाय** परिरक्षणाय **साधूनां** सन्मार्गस्थानाम् **विनाशाय च दुष्कृतां** पापकारिणाम् किञ्च **धर्मसंस्थापनार्थाय** धर्मस्य सम्यक् स्थापनं तदर्थं **संभवामि युगे युगे** प्रतियुगम्॥ तत्
 </details>
@@ -130,12 +133,14 @@ Myself; yuge yuge, in every age.
 धर्मस्य सम्यगधर्मनिवारणेन स्थापनं वेदमार्गपरिरक्षणं धर्मसंस्थापनं तदर्थं
 संभवामि पूर्ववत्। युगे युगे प्रतियुगम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.8॥ न जन्मनैव परित्राणादि कार्यमिति नियमः। तथापि लीलया स्वभावेन च
 यथेष्टचारी। तथा ह्युक्तम् देवस्यैष स्वभावोऽयम्। लोकवत्तु लीलाकैवल्यम्
@@ -155,12 +160,14 @@ Myself; yuge yuge, in every age.
 भवतीत्यत उक्तम् **स्वभावेन चे**ति। अत्रैव प्रमाणान्याह **तथा ही**ति।
 अयमेष इयमिच्छा। अत्र प्रवृत्तिषु विरुद्धेषुं लोकविपरीतेच्छुम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.5 4.9॥ बहूनि इत्यादि अर्जुन इत्यन्तम्। श्रीभगवान् किल पूर्णषाड्गुण्यत्वात् शरीरसंपर्कमात्ररहितोऽपि स्थितिकारित्वात् कारुणिकतया आत्मांशं सृजति। आत्मा पूर्णषाड्गुण्यः अंशः उपकारकत्वेन अप्रधानभूतो +++(N omit अ)+++ यत्र तत् आत्मांशं शरीरं गृह्णाति इत्यर्थः। अत एवास्य जन्मदिव्यम् यत आत्ममायया योगप्रज्ञया स्वस्वातन्त्रयशक्त्या +++(omits स्व)+++ आरब्धम् न कर्मभिः। कर्मापि दिव्यम् फलदानासमर्थत्वात्। यश्चैवमेतत्तत्त्वं वेत्ति आत्मन्यप्येवमेव मन्यते सोऽवश्यं भगवद्वासुदेवतत्त्वं जानाति।
 </details>
@@ -169,12 +176,14 @@ Myself; yuge yuge, in every age.
 
 4.8 See Comment under 4.9
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.7 4.8॥ कदा किमर्थं सम्भवसीत्यपेक्षायां स्वप्रादुर्भावकालमाह
 द्वाभ्याम् यदा यदा हीति। परित्राणायेति। साधूनां धर्मवतां परित्राणाय
@@ -192,10 +201,13 @@ Myself; yuge yuge, in every age.
 सम्यक्प्रकारेणस्थापनाय युगे युगे सम्भवामीति। सम्यक्प्रकारेण भवामि प्रकटो
 भवामि न जीववद्भवामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.8॥ किमर्थमित्यपेक्षायामाह **परित्राणायेति।** साधूनां स्वधर्मवर्तिनां
 रक्षणाय। दुष्टं कर्म कुर्वन्तीति दुष्कृतस्तेषां वधाय च। एवं धर्मस्य
@@ -204,10 +216,13 @@ Myself; yuge yuge, in every age.
 शङ्कनीयम्। यथाचाहुःलालने ताडने मातुर्नाकारुण्यं यथार्भके। तद्वदेव
 महेशस्य नियन्तुर्गुणदोषयोः॥ इति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.8 For the protection of the good and also for the destruction of the wicked, for the establishment of Dharma, am I born from age to age.
@@ -239,11 +254,13 @@ and establishing virtue, I manifest Myself in every age.
 4.8 परित्राणाय for the protection; साधूनाम् of the good; विनाशाय for the destruction; च and; दुष्कृताम् of the wicked; धर्मसंस्थापनार्थाय for the establishment of righteousness; संभवामि (I) am born; युगे युगे in every age.Commentary Sadhunam The good who lead a life of righteousness; who utiles their bodies in the service of humanity; who are free from selfishness; lust and greed; and who devote their lives to divine contemplation.Dushkritam Evildoers who lead a life of unrighteousness;
 who break the laws of the society; who are vain and are dishonest and greedy; who injure others; who take possession of the property of others by force; and who commit atrocious crimes of various sorts.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.8।। साधुओं-(भक्तों-) की रक्षा करनेके लिये, पापकर्म करनेवालोंका विनाश
@@ -310,6 +327,7 @@ who break the laws of the society; who are vain and are dishonest and greedy; wh
 
 ।।4.8।। साधु पुरुषों के रक्षण, दुष्कृत्य करने वालों के नाश, तथा धर्म
 संस्थापना के लिये, मैं प्रत्येक युग में प्रगट होता हूँ।।
+</details>
 </details>
 
 </div>

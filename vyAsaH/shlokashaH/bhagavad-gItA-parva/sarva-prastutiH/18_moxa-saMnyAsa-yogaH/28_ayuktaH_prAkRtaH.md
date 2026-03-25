@@ -23,8 +23,9 @@ title = "28 अयुक्तः प्राकृतः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.28॥**अयुक्तः** शास्त्रीयकर्मायोग्यः विकर्मस्थः; **प्राकृतः** अनधिगतविद्यः; **स्तब्धः** अनारम्भशीलः; **शठः** अभिचारादिकर्मरुचिः; **नैष्कृतिकः** वञ्चनपरः; **अलसः** आरब्धेष्व् अपि कर्मसु मन्दप्रवृत्तिः। **विषादी** अतिमात्रावसादशीलः; **दीर्घसूत्री** अभिचारादिकर्म कुर्वन् परेषु दीर्घकालवर्त्यनर्थपर्यालोचनशीलः; एवम्भूतो यः **कर्ता** स **तामसः। एवं कर्तव्यकर्मविषयज्ञाने कर्तव्ये च कर्मण्य् अनुष्ठातरि च गुणतस् त्रैविध्यम् उक्तम्; इदानीं सर्वतत्त्वसर्वपुरुषार्थनिश्चयरूपाया बुद्धेर् धृतेश् च गुणतस् त्रैविध्यम् आह --**
@@ -42,12 +43,14 @@ title = "28 अयुक्तः प्राकृतः"
 'indolent' is one who is not inclined to carry out actions undertaken;
 who is 'despondent' is one given to excessive despondency; and one who is 'dilatory', is a person who, while engaged in black magic, etc., pays malevolent attention to produce long-standing evil to others - such a doer is declared to be Tamasika. Thus, has been told the threefold division in terms of the Gunas of the knowledge about the work that ought to be performed, and about the agent of work. Now, Sri Krsna describe s the threefold division of Buddhi and Dhrti (fortitude) on the basis of Gunas. These faculties give the determinate knowledge of all realities in existence and of all ends of human life (Purusarthas).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.28॥ --,**अयुक्तः** न युक्तः असमाहितः; **प्राकृतः** अत्यन्तासंस्कृतबुद्धिः बालसमः; **स्तब्धः** दण्डवत् न नमति कस्मैचित्; **शठः** मायावी शक्तिगूहनकारी; **नैष्कृतिकः** परविभेदनपरः; **अलसः** अप्रवृत्तिशीलः कर्तव्येष्वपि; **विषादी** विषादवान् सर्वदा अवसन्नस्वभावः; **दीर्घसूत्री** च कर्तव्यानां दीर्घप्रसारणः; सर्वदा मन्दस्वभावः; यत् अद्य श्वो वा कर्तव्यं तत् मासेनापि न करोति; यश्च एवंभूतः; सः **कर्ता तामसः उच्यते**॥
 </details>
@@ -120,12 +123,14 @@ ucyate, is said to be; tamasah, possessed of tamas.
 निरन्तरशङ्कासहस्रकवलितान्तःकरणत्वेनातिमन्थरप्रवृत्तिर्यदद्यकर्तव्यं
 तन्मासेनापि करोति नवेत्येवंशीलश्च; कर्ता तामस उच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.28॥ परकृतं दोषं दीर्घकालकृतमप्यनुचितं यः सूचयति स दीर्घसूत्री। परेण
 यः कृतो दोषो दीर्घकालकृतोऽपि वा। यस्तस्य सूचको दोषाद्दीर्घसूत्री स
@@ -138,12 +143,14 @@ ucyate, is said to be; tamasah, possessed of tamas.
 -- **परे**ति। दीर्घकालकृतं चिरातीतकालकृतम्। अनुचितं वचनायोग्यं;
 परोपद्रवहेतुत्वात्। दोषान्मात्सर्यादेः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.26 -- 18.28॥ मुक्तसङ्ग इत्यादि तामस उच्यते इत्यन्तम्। अहं कर्ता इति न वदन्; तच्छीलः; तद्धर्मा +++(N तद्धर्मः )+++ ; तत्साधुकारी वा यो न +++(S न यो भवति ;N;K omit न )+++ भवति इति अनहंवादी इति। अनेन णिनिना व्यवहारमात्रसंवृत्तिवशेन योगिनोऽपि अहं करोमि इति वचो न निषिद्धम्। हर्षशोकान्वितः; सिद्ध्यसिद्ध्योः। निकृतिः नैर्घृण्यम्।
 </details>
@@ -152,12 +159,14 @@ ucyate, is said to be; tamasah, possessed of tamas.
 
 18.26-28 Muktasangah etc. upto Tamasa ucyate. He who does not make speech of egoism : He who does not claim 'I am the agent' i.e., he who is different from the one who claims so by natural inclination, or claims as such with an intention that 'I should do so', or claims so in an efficient manner. This nini (suffix employed in anahamvadi) does not prohibit for a Yogin, the speech 'I do' under the influence of the cover of the mundane life. Who is overpowered by joy and grief : i.e., at the time of success and failure \[respectively\]. Wickedness : cruelty.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.28॥ अयुक्त इति। शास्त्रीयकर्माधिकारी सन् योऽयुक्तः विकर्मस्थः
 अनधिगतविद्यः स्तब्धः आरम्भशिथिलः शठः अभिचारादिकर्मरुचिः वञ्चकः
@@ -171,10 +180,13 @@ ucyate, is said to be; tamasah, possessed of tamas.
 कृतावमानी वा; अलसः अनुद्यमी; विषादी अकार्यशोचनस्वभावः; दीर्घसूत्री
 क्षणसाध्यकार्यस्य माससम्पादनशील एतादृशः कर्त्ता तामस उच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.28॥ तामसं कर्तारमाह **-- अयुक्त इति।** अयुक्तोऽनवहितः; प्राकृतो
 विवेकशून्यः; स्तब्धोऽनम्रः; शठः शक्तिगूहनकारी; नैष्कृतिकः परावमानी;
@@ -184,10 +196,13 @@ ucyate, is said to be; tamasah, possessed of tamas.
 त्रैविध्यमुक्तं वेदितव्यम्। बुद्धेस्त्रैविध्येन करणस्यापि
 त्रैविध्यमुक्तं भविष्यति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.28 That doer is said to be Tamasika who is unalified, unrefined,
@@ -224,11 +239,13 @@ cheating; नैष्कृतिकः malicious; अलसः lazy; विष
 उच्यते is said.Commentary Owing to his vulgar nature he is not able to discriminate between proper and improper actions. His heart is filled with vanity. He will never prostrate himself before the deity or a sage.
 He is very stiff and unbending in his demeanour. He is the very embodiment of deceit; the abode of the passion for gambling and all such vices. He is ever ready to do evil actions. When an opportunity for his doing good occurs; he is utterly slothful and inactive; but he is very alert in doing evil.Prakritah Vulgar Quite uncultured in intellect one who is childish.Stabdhah Unbending (like a stick); not bowing down to anybody.Shathah Cheating concealing his real nature.Naishkritikah Creating arrels and disputes among the people.Alasah Lazy Not doing even that which ought to be done.Dirghasutri Postponing duties too long always slothful not performing even in a month what ought to be done today or tomorrow.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.28।। जो कर्ता असावधान, अशिक्षित, ऐंठ-अकड़वाला, जिद्दी, उपकारीका
@@ -362,6 +379,7 @@ He is very stiff and unbending in his demeanour. He is the very embodiment of de
 
 ।।18.28।। अयुक्त, प्राकृत, स्तब्ध, शठ, नैष्कृतिक, आलसी, विषादी और
 दीर्घसूत्री कर्ता तामस कहा जाता है।।
+</details>
 </details>
 
 </div>

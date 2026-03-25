@@ -23,8 +23,9 @@ title = "42 इन्द्रियाणि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ज्ञानविरोधिषु प्रधानम् आह -  
@@ -152,12 +153,14 @@ title = "42 इन्द्रियाणि"
 
 3.42 The senses are called the important obstacles of knowledge, because when the senses keep operating on their objects, the knowledge of the self cannot arise. 'The mind is higher than the senses': even if the senses are withdrawn, if the Manas (mind) ruminates over sense objects, knowledge of the self cannot be had. 'The intellect (Buddhi) is greater than the mind', i.e., even if the mind is indifferent to sense objects, a perverted decision by the intellect can obstruct the dawn of the knowledge of the self. But even if all of them upto the intellect are ietened from their activity, still when desire, identified with will, originating from Rajas, is operating, it by itself obstructs the knowledge of the self by inducing the senses etc., to operate in their fields. Thus it is said here: 'But what is greater than intellect is that.' What is greater than the intellect - is desire. Such is the sense of the last sentence here.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.42॥ **इन्द्रियाणि** श्रोत्रादीनि पञ्च देहं स्थूलं बाह्यं परिच्छिन्नं च अपेक्ष्य सौक्ष्म्यान्तरत्वव्यापित्वाद्यपेक्षया **पराणि** प्रकृष्टानि **आहुः** पण्डिताः। तथा **इन्द्रियेभ्यः परं मनः** संकल्पविकल्पात्मकम्। तथा **मनसः** तु **परा बुद्धिः** निश्चयात्मिका। तथा **यः** सर्वदृश्येभ्यः बुद्ध्यन्तेभ्यः आभ्यन्तरः यं देहिनम् इन्द्रियादिभिः आश्रयैः युक्तः कामः ज्ञानावरणद्वारेण मोहयति इत्युक्तम्। **बुद्धेः परतस्तु सः** **सः बुद्धेः** द्रष्टा परमात्मा॥ ततः किम्
 </details>
@@ -294,12 +297,14 @@ the portion, 'is tu, however৷৷.buddheh, to the intellect'.-Tr.\]
 गतिः। सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् इत्यादिश्रुतिप्रसिद्धा
 परा गतिरपि सैवेत्यर्थः। तदेतत्सर्वं यो बुद्धेः परतस्तु स इत्यनेनोक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.42॥ शत्रुहनने आयुधरूपं ज्ञानं वक्तुं ज्ञेयमाह
 इन्द्रियाणीति। असङ्गज्ञानासिमादाय तरातिपारं इति ह्युक्तम्।
@@ -342,12 +347,14 @@ the portion, 'is tu, however৷৷.buddheh, to the intellect'.-Tr.\]
 इत्यस्य जीवात्मानं परमात्मनैकीकृत्येतिव्याख्यानं
 शब्दबाह्यमित्याशयवानात्मशब्दद्वयं व्याख्याति **आत्मानमि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.42 3.43॥ अत्र युक्तिं श्लोकद्वयेनाह +++(S omits श्लोकद्वयेन)+++ इन्द्रियाणीति। एवमिति। यत इन्द्रियाणि शत्रुलक्षणात् विषयात् अन्यानि तेभ्यश्चान्यत् मनः तस्मादपि बुद्धेर्व्यतिरेकः बुद्धेरपि यस्यान्यस्वभावत्वं स आत्मा। एवमिन्द्रियोत्पन्नेन क्रोधेन कथं मनसः बुद्धेरात्मनो वा क्षोभ इति पर्यालोचयेत् इत्यर्थः। रहस्यविदां त्वयमाशयः +++(N ह्ययमाशयः)+++ बुद्धेः यः परत्र वर्तते परोऽहंकारः सर्वमहम् इत्यभेदात्मा स खलु परमोऽभेदः। अत एव च परिपूर्णस्य खण्डनाभावात् न क्रोधादय उत्पद्यन्ते +++(S N उदयन्ते)+++। अतः परमहंकारं परमोत्साहं संविदात्मकं +++(K परोत्साहसंवि )+++ गृहीत्वा क्रोधमविद्यत्मानं शत्रु जहि इति।  
   
@@ -358,12 +365,14 @@ the portion, 'is tu, however৷৷.buddheh, to the intellect'.-Tr.\]
 
 3.42 See Comment under 3.43
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.42॥ ज्ञानविरोधिषु प्रधानत्वेन निर्दिशन्नाह इन्द्रियाणीति। पराणीति
 अत्र परशब्दो बलवत्प्रतीपत्वसूचकः। यः कामो बुद्धेः परतः सर्वैरिति।
@@ -381,10 +390,13 @@ the portion, 'is tu, however৷৷.buddheh, to the intellect'.-Tr.\]
 लौकिकदेहेन्द्रियादिभिर्नानुभाव्यः।
 किन्त्वविकृतालौकिकभावात्मकात्मस्वरूपेण अतः स आत्मैवोत्तम इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/42_indriyANi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/42_indriyANi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.42॥ अथात्र प्रसन्नतया चित्तप्रणिधानेनेन्द्रियाणि नियन्तुं शक्यन्ते
 तदात्मस्वरूपं देहादिभ्यो विविच्य दर्शयति **इन्द्रियाणीति।** इन्द्रियाणि
@@ -395,10 +407,13 @@ the portion, 'is tu, however৷৷.buddheh, to the intellect'.-Tr.\]
 तत्साक्षित्वेनावस्थितः सर्वान्तरः स आत्मा विमोहयति देहिनमिति
 देहिशब्दोक्त आत्मा स इति परामृश्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.42 The senses are high, they say: the mind is higher than the senses;
@@ -435,11 +450,13 @@ from the sense-organs different is the mind; from the mind too the intellect is 
 When the mind is in a state of doubt; the intellect comes to its resuce.
 The Self; the Witness; is superior even to the intellect; as the intellect borrows its light from the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/42_indriyANi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.42 -- 3.43।। इन्द्रियोंको (स्थूलशरीरसे) पर (श्रेष्ठ, सबल, प्रकाशक,
@@ -709,6 +726,7 @@ The Self; the Witness; is superior even to the intellect; as the intellect borro
 ।।3.42।। (शरीर से) परे (श्रेष्ठ) इन्द्रियाँ कही जाती हैं; इन्द्रियों से
 परे मन है और मन से परे बुद्धि है, और जो बुद्धि से भी परे है, वह है
 आत्मा।।
+</details>
 </details>
 
 </div>

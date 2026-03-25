@@ -23,8 +23,9 @@ title = "16 अहङ् क्रतुरहम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.16॥**अहं क्रतुः** अहं ज्योतिष्टोमादिकक्रतुः **अहम्** एव **यज्ञः** महायज्ञः **अहम्** एव **स्वधा** पितृगणपुष्टिदायिनी **औषधं** हविश् च **अहम्** एव। **अहम्** एव च **मन्त्रो ऽहम् एव आज्यम्।** प्रदर्शनार्थम् इदम्; सोमादिकं च हविर् अहम् एव इत्यर्थः। **अहम्** आहवनीयादिकः **अग्निः** होमश्च **अहम्** एव।
@@ -39,12 +40,14 @@ title = "16 अहङ् क्रतुरहम्"
 
 9.16 I am the Kratu, namely, I am Jyotistoma and other Vedic sacrifices. I alone am the Great Sacrifice (the fivefold sacrifices). I am the Svadha, the libation offered to nourish the hosts of manes. I am the herb, namely, oblation. I am the Mantra. I alone am the clarified butter. This implies other illustrations also. I alone am the oblation of Soma etc. Such is the meaning. I am the fire such as Ahavaniya etc. I am the act of offering into fire.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.16॥ --,**अहं क्रतुः** श्रौतकर्मभेदः अहमेव। **अहं यज्ञः** स्मार्तः। किञ्च **स्वधा** अन्नम् **अहम्;** पितृभ्यो यत् दीयते। **अहम् औषधं** सर्वप्राणिभिः यत् अद्यते तत् औषधशब्दशब्दितं व्रीहियवादिसाधारणम्। अथवा स्वधा इति सर्वप्राणिसाधारणम् अन्नम्; औषधम् इति व्याध्युपशमनार्थं भेषजम्। **मन्त्रः अहम्;** येन पितृभ्यो देवताभ्यश्च हविः दीयते। **अहमेव आज्यं** हविश्च। **अहम् अग्निः;** यस्मिन् हूयते हविः सः अग्निः अहम्। **अहं हुतं** हवनकर्म च॥ किञ्च --,
 </details>
@@ -121,12 +124,14 @@ offering. Besides,
 कथयितुं प्रत्येकमहंशब्दः। क्रियाकारकफलजातं किमपि भगवदतिरिक्तं नास्तीति
 समुदायार्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.16॥ प्रतिज्ञातं विज्ञानमाह -- अहं क्रतुरित्यादिना।
 क्रतवोऽग्निष्टोमादयः। यज्ञो देवतामुद्दिश्य द्रव्यपरित्यागः। उद्दिश्य
@@ -141,12 +146,14 @@ offering. Besides,
 इत्यादेरिव द्रष्टव्यम्। क्रतवः इति क्रतुयज्ञशब्दयोरर्थभेदमाह।
 सामान्यविशेषभावेन भेद इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.16 -- 9.19॥ ननु कर्म तावत् कारककलापव्याप्तभेदोद्रेकि कथमभिन्नं भगवत्पदं प्रापयतीति उच्यते -- अहं क्रतुरिति अर्जुनेत्यनन्तम्। एकस्यैव निर्भागस्य ब्रह्मतत्त्वस्य परिकल्पित \[भेदवत्\] साधनाधीनं कर्म पुनरेकत्वं निर्वर्तयति क्रियायाः सर्वकारकात्मसाक्षात्कारेणावस्थाने भगवत्पदप्राप्तिं प्रत्यविदूरत्वात्। उक्तं च -- सेयं क्रियात्मिका शक्तिः शिवस्य पशुवर्तिनी।  
   
@@ -159,12 +166,14 @@ offering. Besides,
 
 9.16 See Comment under 9.19
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.16॥ अन्त्यपक्षमेव ज्ञानं सिद्धं विवृणोति -- अहमिति
 चतुर्भिश्चतुर्विधपुरुषार्थसिद्ध्यर्थम्। अत्र स्वस्य
@@ -192,20 +201,26 @@ offering. Besides,
 अहम्। मन्त्रः ऋगादिरहम्। आज्यं होमद्रव्यं हविः। अग्निराहवनीयादिः। हुतं
 होमः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.16॥ सर्वात्मतां प्रपञ्चयति **-- अहमिति चतुर्भिः।** क्रतुः
 श्रौतोऽग्निष्टोमादिः; यज्ञस्तु स्मार्तः पञ्चयज्ञादिः; स्वधा पित्रर्थे
 श्राद्धादिः; औषधमोषधिप्रभवमन्नं भेषजं वा; मन्त्रो याज्यापुरोनुवाक्यादिः;
 आज्यं होमादिसाधनम्; अग्निराहवनीयादिः; हुतं होमः; एतत्सर्वमहमेव।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.16 I am the Kratu. I am the sacrifice. I am the offering to the manes.
@@ -240,11 +255,13 @@ and I am the Act of offering.
 आज्यम् ghee or clarified butter; अहम् I; अग्निः the fire; अहम् I; हुतम्
 the offering.Commentary Kratu is a kind of Vedic sacrifice.Yajna is the worship enjoined in the Smriti or the holy books laying down lay and the code of conduct.I am the Mantra; the chant with which the oblation is offered to the manes or ancestors; and the shining ones (the Devatas or gods). Hutam also means the act of offering. Aushadham All plants including rice and barley or medicine that can cure diseases. (Cf.IV.24)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.16 -- 9.18।।****क्रतु मैं हूँ, यज्ञ मैं हूँ, स्वधा मैं हूँ, औषध
@@ -297,6 +314,7 @@ the offering.Commentary Kratu is a kind of Vedic sacrifice.Yajna is the worship 
 
 ।।9.16।। मैं ऋक्रतु हूँ; मैं यज्ञ हूँ; स्वधा और औषध मैं हूँ, मैं मन्त्र
 हूँ, घी हूँ, मैं अग्नि हूँ और हुतं अर्थात् हवन कर्म मैं हूँ।।
+</details>
 </details>
 
 </div>

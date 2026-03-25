@@ -23,8 +23,9 @@ title = "16 तत्रैवं सति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.16॥**एवं** वस्तुतः परमात्मानुमतिपूर्वके जीवात्मनः कर्तृत्वे **सति तत्र** कर्मणि **केवलम् आत्मानम्** एव **कर्तारं यः पश्यति; स दुर्मतिः** विपरीतमतिः; **अकृतबुद्धित्वात्** -- अनिष्पन्नयथावस्थितवस्तुबुद्धित्वात् **न पश्यति** न यथावस्थितं कर्तारं पश्यति।
@@ -40,12 +41,14 @@ title = "16 तत्रैवं सति"
 18.16 In fact, the agency of the individual self is subject to the consent of Supreme Self; such being the case, if the 'individual self regards Itself as the agent,' It is of wicked or perverse mind. For, It does not perceive the agent as It really is, since It possesses an
 'uncultivated understanding,' namely, an understanding which does not reveal the real state of affairs.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.16॥ --,तत्र इति प्रकृतेन संबध्यते। एवं सति एवं यथोक्तैः पञ्चभिः हेतुभिः निर्वर्त्ये सति कर्मणि। तत्रैवं सति इति दुर्मतित्वस्य हेतुत्वेन संबध्यते। तत्र एतेषु आत्मानन्यत्वेन अविद्यया परिकल्पितैः क्रियमाणस्य कर्मणः अहमेव कर्ता इति कर्तारम् आत्मानं केवलं शुद्धं तु यः पश्यति अविद्वान् कस्मात् वेदान्ताचार्योपदेशन्यायैः अकृतबुद्धित्वात् असंस्कृतबुद्धित्वात् योऽपि देहादिव्यतिरिक्तात्मवादी आत्मानमेव केवलं कर्तारं पश्यति; असावपि अकृतबुद्धिः अतः अकृतबुद्धित्वात् न सः पश्यति आत्मनः तत्त्वं कर्मणो वा इत्यर्थः। अतः दुर्मतिः; कुत्सिता विपरीता दुष्टा अजस्रं जननमरणप्रतिपत्तिहेतुभूता मतिः अस्य इति दुर्मतिः। सः पश्यन्नपि न पश्यति; यथा तैमिरिकः अनेकं चन्द्रम्; यथा वा अभ्रेषु धावत्सु चन्द्रं धावन्तम्; यथा वा वाहने उपविष्टः अन्येषु धावत्सु आत्मानं धावन्तम्॥ कः पुनः सुमतिः यः सम्यक् पश्यतीति; उच्यते --,
 </details>
@@ -191,12 +194,14 @@ man of right intellect who perceives correctly; This is being answered:
 स्वभावसिद्धमात्मनोऽसङ्गाद्वितीयरूपत्वमनुवदति कर्तृत्वदर्शिनो
 दुर्मतित्वहेतुत्वेनेत्यदोषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.16॥ केवलं निष्क्रियम्। एनं केवलमात्मानं निष्क्रियत्वाद्वदन्ति हीति
 तत्रैव।
@@ -211,12 +216,14 @@ man of right intellect who perceives correctly; This is being answered:
 निन्दोपपादनार्थेति भावः। केवलशब्दस्य निष्क्रियार्थत्वं कुतः इत्यत आह --
 **एनमि**ति। तत्रैवायास्यश्रुतावेवोक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.13 -- 18.17॥ अधुना व्यवहारदशायामपि पञ्चस्वपि कर्महेतुषु स्थितेषु बलादेवामी ( बलादमी ) अविद्यान्धाः पुमांसः स्वात्मन्येव सकलकर्तृभावभारमारोपयन्ति ( आरोपयन्त्येते )। अतो निजयैव धिया आत्मानं बध्नन्ति; न तु वस्तुस्थित्या अस्य बन्धः इत्युपदिश्यते -- पञ्चेत्यादि न निबद्ध्यते इत्यन्तम्। कृतः अन्तः; निश्चयः यत्रेति कृतान्तः; सिद्धान्तः। अधिष्ठानं; विषयः। दैवम्; प्रागर्जितं शुभाशुभम्। पञ्चैते अधिष्ठानादयः सामग्रीरूपतां प्राप्ताः सर्वकर्मसु हेतवः। अन्ये तु; अधिष्ठीयते अनेन सर्वं कर्म इति बुद्धिगतं रजोलब्धवृत्तिकं धृतिश्रद्धासुखविविदिषाविविदिषारूपपञ्चकपरिणामिकर्मयोगशब्दवाच्यमधिष्ठानं क्वचित् प्रयत्नशब्देन उक्तम्। कर्ता; अनुसन्धाता बुद्धिलक्षणः। करणं मनश्चक्षुरादि; बाह्यमपि च खड्गादि। चेष्टा प्राणापानादिका। दैवशब्देन धर्माधर्मौ ताभ्यां च बुद्धिगताः सर्वेऽपि भावा उपलक्षिताः \[ इति \]। अन्ये तु अधिष्ठानम् ईश्वरं मन्यन्ते। अकृतबुद्धित्वात्; अनिश्चितप्रज्ञतया। यः पुनरहंकारवियोगदार्ढ्येन प्रागुक्तयुक्तिशतशोधितेन कर्माणि करोति न स बन्धभाक् +++(; N न संबन्धभाक् )+++; कृतबुद्धित्वात् इत्याशयः।
 </details>
@@ -225,12 +232,14 @@ man of right intellect who perceives correctly; This is being answered:
 
 18.16 See Comment under 18.17
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.16॥ तत्रैवं सति पञ्चहेतुके कर्मणि सति वस्तुतः
 प्रकृतिपुरुषप्रयोजकभूतपरमात्मानुमतिपूर्वके जीवात्मनः कर्तृत्वे सति तत्र
@@ -246,19 +255,25 @@ man of right intellect who perceives correctly; This is being answered:
 स्वमौढ्येन पश्यति; स न पश्यति आत्मानं मां चेति भावः। एवं यः कर्म करोति
 तस्य तत्फलतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.16॥ ततः किमत आह **-- तत्रेति।** तत्र सर्वस्मिन्कर्मणि एते पञ्च हेतव
 इत्येवं सति केवलं निरुपाधिकमसङ्गमात्मानं तु यः कर्तारं पश्यति
 शास्त्राचार्योपदेशत्यागेनासंस्कृतबुद्धित्वाद्दुर्मतिरसौ सम्यङ्न पश्यति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.16 Such being the case, he who sees only the self as the agent on account of the uncultivated understanding - he, of wicked mind, does not see at all.
@@ -295,11 +310,13 @@ Therefore; he is a man of perverted intelligence. His intellect works or moves i
 The technie of Buddhi Yoga taught in the Gita enables one effectively to prevent this.He does not perceive or cognise the Truth though he has eyes. Though he sees; he sees the external; gross; illusory;
 everchanging; perishable objects only. He does not behold the one immortal; unchanging; allblissful essence; which is the basis or substratum of everything. He is like the man with jaundiced eyes; who sees all objects tinged with yellow colur; or like the man suffering from diplopia who beholds many moons; or like the man who thinks that the moon moves when the clouds move; or like the man who; seated in a train; imagines that the trees are moving when it is the train that is really moving. (Cf.V.15XIII.30)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.16।। परन्तु ऐसे पाँच हेतुओंके होनेपर भी जो उस (कर्मोंके) विषयमें
@@ -384,6 +401,7 @@ everchanging; perishable objects only. He does not behold the one immortal; unch
 ।।18.16।। अब इस स्थिति में जो पुरुष असंस्कृत बुद्धि होने के कारण, केवल
 शुद्ध आत्मा को कर्ता समझता हैं, वह दुर्मति पुरुष (यथार्थ) नहीं देखता
 है।।
+</details>
 </details>
 
 </div>

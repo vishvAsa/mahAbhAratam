@@ -25,8 +25,9 @@ title = "28 यथा नदीनाम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.28॥ एते राज**लोका बहवो नदीनाम्** अम्बुप्रवाहाः **समुद्रम्** इव **प्रदीप्तज्वलनम्** इव च शलभाः **तव वक्त्राण्य् अभिविज्वलन्ति** स्वयम् एव त्वरमाणा आत्म**नाशाय** विशन्ति।
@@ -41,12 +42,14 @@ title = "28 यथा नदीनाम्"
 
 11.28 - 11.29 These innumerable kings rush to their destruction in Your flaming mouths, even as many torrents of rivers flow towards the ocean and moths rush into a blazing fire.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.28॥ --,**यथा नदीनां** स्रवन्तीनां **बहवः** अनेके अम्बूनां वेगाः **अम्बुवेगाः** त्वराविशेषाः **समुद्रमेव अभिमुखाः** प्रतिमुखाः **द्रवन्ति** प्रविशन्ति; **तथा** तद्वत; **तव अमी** भीष्मादयः **नरलोकवीराः** मनुष्यलोके शूराः **विशन्ति वक्त्राणि अभिविज्वलन्ति** प्रकाशमानानि॥ ते किमर्थं प्रविशन्ति कथं च इत्याह --,
 </details>
@@ -96,12 +99,14 @@ and how; In answer Arjuna says:
 समुद्राभिमुखाः सन्तः समुद्रमेव द्रवन्ति विशन्ति तथा ते तवामी नरलोकवीरा
 विशन्ति वक्त्राण्यभितः सर्वतो ज्वलन्ति। अभिविज्वलन्ति इति वा पाठः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.28॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -110,12 +115,14 @@ and how; In answer Arjuna says:
 
 ॥11.28॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.28॥ No commentary.
 </details>
@@ -124,12 +131,14 @@ and how; In answer Arjuna says:
 
 11.28 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.28 -- 11.29॥ यथा नदीनामिति। अम्बुवेगाः समुद्रमिव ते
 वक्त्राण्यभिमुखं तत्रैव चेमे नरलोकवीरा नाशाय विशन्ति।
@@ -142,20 +151,26 @@ and how; In answer Arjuna says:
 सन्तो द्रवन्ति प्रविशन्ति तथा अमी नरलोकवीराः अभिविज्वलन्ति परितो
 दीप्यमानानि तव वक्त्राणि विशन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.28॥ प्रवेशमेव दृष्टान्तेनाह **-- यथेति।**
 नदीनामनेकमार्गप्रवृत्तानां बहवोऽम्बूनां वारीणां वेगाः प्रवाहाः
 समुद्राभिमुखाः सन्तो यथा समुद्रमेव द्रवन्ति प्रविशन्ति तथा अमी ये
 नरलोकवीरास्तेऽभिविज्वलन्ति सर्वतः प्रदीप्यमानानि वक्त्राणि प्रविशन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.28 As many torrents of rivers flow towards the ocean, so do these heroes of the world of men enter Your flaming mouths.
@@ -191,11 +206,13 @@ so; तव Thy; अमी these; नरलोकवीराः heroes in the wo
 enter; वक्त्राणि mouths; अभिविज्वलन्ति flaming.Commentary Ami These warriors such as Bhishma. Arjuna is now seeing all these warriors,whom he did not wish to kill; rushing to death. His delusion has vanished. He thinks now This battle cannot be avoided. It has the sanction of the Supreme Lord. Why should I worry about the inevitable The Lord has already destroyed these warriors. I am only an instrument in His hands.
 No sin can touch me even if I kill them. This is a just cause also.Why and how do they enter Arjuna says --
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.28।। जैसे नदियोंके बहुत-से जलके प्रवाह स्वाभाविक ही समुद्रके सम्मुख
@@ -249,6 +266,7 @@ No sin can touch me even if I kill them. This is a just cause also.Why and how d
 ।।11.28।। जैसे नदियों के बहुत से जलप्रवाह समुद्र की ओर वेग से बहते हैं,
 वैसे ही मनुष्यलोक के ये वीर योद्धागण आपके प्रज्वलित मुखों में प्रवेश
 करते हैं।।
+</details>
 </details>
 
 </div>

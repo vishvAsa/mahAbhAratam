@@ -23,8 +23,9 @@ title = "08 मय्येव मन"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.8॥ अतो ऽतिशयितपुरुषार्थत्वात् सुलभत्वाद् अचिरलभ्यत्वाच् च **मय्य् एव मन आधत्स्व** -- मयि मनः समाधानं कुरु; **मयि बुद्धिं निवेशय** -- अहम् एव परमप्राप्य इत्य् अध्यवसायं कुरु। **अत ऊर्ध्वं मय्य् एव निवसिष्यसि।** अहम् एव परमप्राप्य इत्य् अध्यवसायपूर्वकमनोनिवेशनानन्तरम् एव मयि निवसिष्यसि इत्यर्थः।
@@ -39,12 +40,14 @@ title = "08 मय्येव मन"
 
 12.8 'Focus your mind on Me alone,' on account of My being the unsurpassed end of human endeavour and on My being easily attainable without delay. Focus your mind in meditation on Me alone. Let your Buddhi 'enter into Me,' strengthened by the conviction that I alone am the supreme object to be attained. Then you will 'live in Me alone,' i.e., You will live in Me alone immediately after focusing your mind on Me by forming the conviction that I alone am the supreme object to be attained.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 यतः एवम्; तस्मात् --,
 
@@ -110,12 +113,14 @@ eva, alone.
 एतद्देहान्ते। न संशयः नात्र प्रतिबन्धशङ्का कर्तव्येत्यर्थः। एव अत
 ऊर्ध्वमित्यत्र संध्यभावः श्लोकपूरणार्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.8॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -124,12 +129,14 @@ eva, alone.
 
 ॥12.8॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.6 -- 12.8॥ येत्वित्यादि आस्थित इत्यन्तम्। प्रागुक्तोपदेशेन +++(S प्रागुपदेशेन)+++ तु ये सर्वं मयि संन्यस्यन्ति; तेषामहं समुद्धर्त्ता सकलविघ्नादिक्लेशेभ्यः। चेतस आवेशनं व्याख्यातम्। तथा च एष एवोत्तमो योगः; अकृत्रिमत्त्वात्। तथा च मम स्तोत्रे -- विशिष्टकरणासनस्थितिसमाधिसंभावना  
   
@@ -156,12 +163,14 @@ eva, alone.
 
 12.6-8 Ye tu etc. upto asthitah. Those who renounce all (all actions) in Me according to the instruction related above - of them I am the redeemer from all the afflictions like obstacles \[on the way to realisation\] etc. The act of causing the mind to enter \[into the Supreme\] has been explained (under XII, 2 above). Therefore, this alone is the highest form of Yoga, because it is natural. Hence \[I have said\] in my Hymn : 'If, during \[one's\] concentration, reflecting with high esteem and remaining in a \[particular\] posture, and the best process (karana), a person causes a certain awakening to shine forth, that is not the Consciousness of Yours (i.e. of the Goddess) that rises up perennially and flows with its own (unadulterated) taste; for, here (in the former) too the presence of the triad is distinctly felt. On the other hand, when \[glowing\] without fuel; holding to its independence; following horripilation, \[bodily\] shake and tears, \[all\] breaking forth spontaneously; and clearly assuming the indifference \[even\] to the body; the awakening fire of Consciousness suddely shines, on its own accord simultaneously; then alone, O Goddess, that body of Yours, the mightly Lord (Mahesa) is realised - a body which is devoid of \[all\] supports, and which breaks the bondage of the dependent.' And so on.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.8॥ यस्मादेवं तस्मात् मय्येवेति। असाधारणवस्तुशक्त्याश्रये येन केन च
 सम्बन्धेन मनोनिवेशमात्रेण तन्निर्गुणत्वापादके प्रकटरूपे एव पुरुषोत्तमे
@@ -183,10 +192,13 @@ eva, alone.
 अत ऊर्ध्वं बुद्धि-प्रवेशानन्तरं **मय्य् एव** पुरुषोत्तमे **निवसिष्यसि** नितरां सेवादियोग्यतया निकट एव स्थास्यसि।  
 **न संशयः** - अत्र न सन्देहः। संशयं मा कुर्य्या इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/08_mayyeva_mana.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/08_mayyeva_mana.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.8॥ यस्मादेवं तस्मात्। **मय्येवेति।** मय्येव संकल्पविकल्पात्मकं मन
 आधत्स्व स्थिरीकुरु। बुद्धिमपि व्यवसायात्मिकां मय्येव निवेशय। एवं
@@ -194,10 +206,13 @@ eva, alone.
 निवसिष्यसि निवत्स्यसि मदात्मना वासं करिष्यसि नात्र संशयः। तथाच
 श्रुतिःदेहान्ते देवस्तारकं परब्रह्म व्याचष्टे इति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.8 Focus your mind on Me alone; and let your Buddhi enter into Me.
@@ -233,11 +248,13 @@ alone; अतः ऊर्ध्वम् hereafter; न not; संशयः do
 Give up entirely all thoughts of sensual objects. Fix in Me thy intellect also -- the faculty which resolves and determines.What will be the result then Thou shalt undoubtedly live in Me as Myself. O Arjuna;
 of this there is no doubt whatsoever.The Yoga of meditation is described in this verse. (Cf.VIII.7X.9XI.34XVIII.65)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/08_mayyeva_mana.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.8।। तू मेरेमें मनको लगा और मेरेमें ही बुद्धिको लगा; इसके बाद तू
@@ -299,6 +316,7 @@ of this there is no doubt whatsoever.The Yoga of meditation is described in this
 
 ।।12.8।। तुम अपने मन और बुद्धि को मुझमें ही स्थिर करो, तदुपरान्त तुम
 मुझमें ही निवास करोगे, इसमें कोई संशय नहीं है।।
+</details>
 </details>
 
 </div>

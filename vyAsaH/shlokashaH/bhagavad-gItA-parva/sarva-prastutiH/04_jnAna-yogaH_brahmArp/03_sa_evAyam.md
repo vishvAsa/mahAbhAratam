@@ -23,8 +23,9 @@ title = "03 स एवायम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.3॥**स एव अयम्** अस्खलितस्वरूपः **पुरातनः योगः** सख्येन अतिमात्रभक्त्या च माम् एव प्रपन्नाय **ते मया प्रोक्तः** सपरिकरः सविस्तरम् उक्त इत्यर्थः। मदन्येन केन अपि ज्ञातुं वक्तुं वा न शक्यं यत इदं वेदान्तोदितम् **उत्तमं रहस्यं** ज्ञानम्। अस्मिन् प्रसङ्गे भगवदवतारयाथात्म्यं यथावद् ज्ञातुम् अर्जुन उवाच
@@ -39,12 +40,14 @@ title = "03 स एवायम्"
 
 4.3 It is the same ancient, unchanged Yoga which is now taught to you, who out of friendship and overwhelming devotion have resorted to Me whole-heartedly. The meaning is that it has been taught to you fully with all its accessories. Because it is the most mysterious knowledge declared in the Vedanta, it cannot be known or taught by anyone other than Myself. In this connection, in order to know the truth about the Lord's descent correctly, Arjuna asked:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.3॥ **स एव अयं मया** ते तुभ्यम् **अद्य** इदानीं **योगः प्रोक्तः पुरातनः भक्तः असि मे सखा च** असि **इति**। **रहस्यं हि** यस्मात् **एतत् उत्तमं** योगः ज्ञानम् इत्यर्थः॥ भगवता विप्रतिषिद्धमुक्तमिति मा भूत् कस्यचित् बुद्धिः इति परिहारार्थं चोद्यमिव कुर्वन् अर्जुन उवाच **अर्जुन उवाच**
 </details>
@@ -112,12 +115,14 @@ has said something contradictory, therefore, in order to prevent that
 सर्वदा भवसि अतस्तुभ्यमुक्त इत्यर्थः। अन्यस्मै कुतो नोच्यते तत्राहि हि
 यस्मादेतज्ज्ञानमुत्तमं रहस्यं अतिगोप्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.1 4.3॥ श्रीमदमलबोधाय नमः। हरिः ॐ। बुद्धेः परस्य माहात्म्यं कर्मभेदो
 ज्ञानमाहात्म्यं चोच्यतेऽस्मिन्नध्याये। पूर्वानुष्ठितश्चायं धर्म इत्याह
@@ -144,12 +149,14 @@ has said something contradictory, therefore, in order to prevent that
 इत्येवोक्तमिह **त्वयं धर्म** इति। लोकेऽस्मिन्द्विविधा 3।3
 इत्यत्रोक्तस्यकर्मणैव इत्युदाहरणमुक्तमिति तत्रापि न दोषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.1 4.3॥ एवमित्यादि उत्तमम् इत्यन्तम्। एतच्च गुरुपरम्पराप्राप्तमपि +++(S परम्परायातमपि K परम्परया प्राप्तमपि)+++ अद्यत्वे नष्टमित्यनेन +++(S N अद्यत्वे तन्नष्ट)+++ भगवान् अस्य ज्ञानस्य दुर्लभतां गौरवं च प्रदर्शयति। भक्तोऽसि मे सखा चेति। त्वं भक्तः मत्परमः सखा च। चशब्देन अन्वाचय उच्यते। तेन यथा भिक्षाटने भिक्षायां प्राधान्यं गवानयने त्वप्राधान्यम् एवं भक्तिरत्र गुरुं प्रति प्रधानं न सखित्वमपीति तात्पर्यार्थं।
 </details>
@@ -158,12 +165,14 @@ has said something contradictory, therefore, in order to prevent that
 
 4.1-3 Evam etc. upto uttamam. Eventhough it has come down by regular succession of teacher, it is lost now. By this \[statement\] the Bhagavat indicates the rarity (or difficulty) and respectability of this knowledge. You are My devotee and friend too : You are a devotee having nothing but Me as your final goal and you are a friend too. This 'too' indicates the secondary importance \[of the friendship\]. Hence, just as in the sentence 'wander begging food \[etc\]', the importance lies in the act of begging food, but unimportance in the act of bringing the cow; in the same way, in the present case it is devotion towards the teacher that is important and not the friendship also. This is the idea intended here.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.1 4.3॥ योगिनः कर्म कर्त्तव्यमिति पूर्वं निरूपितम्। तुरीये तु
 ततोऽध्याये प्रतीत्यर्थं परम्परा॥1॥  
@@ -192,19 +201,25 @@ has said something contradictory, therefore, in order to prevent that
 **त्वं भक्तोऽसि सखा चासीति मे** मदीयं **रहस्यम्** **एतद् उत्तमं** कर्मयोगादुत्तमम्।
 **हीति** निश्चयेन।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.3॥ **स एवायमिति।** स एवायं योगोऽद्य विच्छिन्ने संप्रदाये सति पुनश्च
 मया ते तुभ्यमुक्तः। यतस्त्वं मम भक्तोऽसि सखा चेति। अन्यस्मै मया नोच्यते।
 हि यस्मादिदमुत्तमं रहस्यम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.3 It is the same ancient Yoga which is now taught to you by Me, as you are My devotee and My friend. For, this is a supreme mystery.
@@ -237,11 +252,13 @@ has said something contradictory, therefore, in order to prevent that
 Yoga; प्रोक्तः has been taught; पुरातनः ancient; भक्तः devotee; असि thou art; मे My; सखा friend; च and; इति thus; रहस्यम् secret; हि for; एतत्
 this; उत्तमम् best.Commentary This Yoga contains profound and subtle teachings. Hence it is the supreme secret which is revealed by the Lord.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.3।। तू मेरा भक्त और प्रिय सखा है, इसलिये वही यह पुरातन योग आज मैंने
@@ -304,6 +321,7 @@ this; उत्तमम् best.Commentary This Yoga contains profound and subt
 
 ।।4.3।। वह ही यह पुरातन योग आज मैंने तुम्हें कहा (सिखाया) क्योंकि तुम
 मेरे भक्त और मित्र हो। यह उत्तम रहस्य है।।
+</details>
 </details>
 
 </div>

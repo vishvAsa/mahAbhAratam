@@ -26,8 +26,9 @@ title = "09 एवमुक्त्वा ततो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.9॥ सञ्जय उवाच -- **एवम् उक्त्वा** सारथ्ये अवस्थितः पार्थमातुलजो **महायोगेश्वरो हरिः** महाश्चर्य योगानाम् ईश्वरः परब्रह्मभूतो नारायणः **परमम् ऐश्वरं** स्वासाधारणं **रूपं पार्थाय** पितृष्वसुः पृथायाः पुत्राय **दर्शयामास** तद् विविधविचित्रनिखिलजगदाश्रयं विश्वस्य प्रशासितृ च रूपम्। तच् च ईदृशम् --
@@ -42,12 +43,14 @@ title = "09 एवमुक्त्वा ततो"
 
 11.9 Sanjaya said Having thus spoken, Sri Krsna, who is the great Lord of Yoga, namely, the Lord of supremely wonderful attributes - Sri Krsna who is Narayana, the Supreme Brahman now incarnated as the son of Arjuna's maternal uncle and seated as a charioteer in his chariot - showed Arjuna, the son of Pritha His paternal aunt, that Lordly form uniely His own, which is the ground of the entire universe, which is manifold and wonderful, and which rules over everything. And that form was like this:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.9॥ --,**एवं** यथोक्तप्रकारेण **उक्त्वा ततः** अनन्तरं **राजन्** धृतराष्ट्र; **महायोगेश्वरः** महांश्च असौ योगेश्वरश्च **हरिः** नारायणः **दर्शयामास** दर्शितवान् **पार्थाय** पृथासुताय **परमं रूपं** विश्वरूपम् **ऐश्वरम्**॥
 </details>
@@ -111,12 +114,14 @@ form:
 सर्वक्लेशापहारी भगवान् दर्शनायोग्यमपि दर्शयामास पार्थाय एकान्तभक्ताय
 परमं दिव्यं रूपमैश्वरम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.9 -- 11.10॥ हरिः सर्वयज्ञभागहारित्वात्। इडोपहूतं गेहेषु हरे भागं
 क्रतुष्वहम्। वर्णो मे हरितः श्रेष्ठस्तस्माद्धरिरिति स्मृतः इति हि
@@ -131,12 +136,14 @@ form:
 साकारस्यैवानन्तपूजास्थानेषु स्वरूपेणैव युगपत्सन्निधाने किं वक्तव्यं
 महायोगेश्वरत्वं इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.9॥ No commentary.
 </details>
@@ -145,12 +152,14 @@ form:
 
 11.9 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.9॥ एवं सञ्जय उवाच राजन्निति। एवमुक्त्वा महायोगेश्वरः सर्वसमर्थः
 परमं ऐश्वरं रूपं पार्थाय दर्शयामास।
@@ -164,20 +173,26 @@ form:
 एवमुक्त्वा अलौकिकीं दृष्टिं दत्त्वा पार्थाय स्वाङ्गीकृताय परमं रूपं
 पुरुषोत्तमरूपं दर्शयामास। ततस्तद्दर्शनानन्तरं ऐश्वरं रूपं दर्शयामास।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.9॥ एवमुक्त्वा भगवानर्जुनाय रूपं दर्शितवान्। तच्च रूपं
 दृष्ट्वार्जुनः श्रीकृष्णं विज्ञापितवानितीममर्थं एवमुक्त्वेत्यादिभिः
 ष़ड्भिः श्लोकैर्धृतराष्ट्रं प्रति संजय उवाच **-- एवमिति।** हे राजन्
 धृतराष्ट्र; महांश्चासौ योगेश्वरश्च हरिः परममैश्वरं रूपं दर्शितवान्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.9 Sanjaya said Having spoken, O King, Sri Krsna, the gread Lord of Yoga, then revealed to Arjuna the supreme Lordly Form.
@@ -212,11 +227,13 @@ hari (Krishna), showed to Arjuna His supreme form as the Lord.
 पार्थाय to Arjuna; परमम् Supreme; रूपम् form; ऐश्वरम्
 Sovereign.Commentary King This verse is addressed by Sanjaya to Dhritarashtra.Supreme Form The Cosmic Form.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.9।। सञ्जय बोले -- हे राजन् ! ऐसा कहकर फिर महायोगेश्वर भगवान्
@@ -292,6 +309,7 @@ Sovereign.Commentary King This verse is addressed by Sanjaya to Dhritarashtra.Su
 
 ।।11.9।। संजय ने कहा -- हे राजन् ! महायोगेश्वर हरि ने इस प्रकार कहकर फिर
 अर्जुन के लिए परम ऐश्वर्ययुक्त रूप को दर्शाया।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "53 अहङ्कारम् बलम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.53॥**बुद्ध्या विशुद्धया** यथावस्थितात्मतत्त्वविषयया **युक्तः; धृत्या आत्मानं नियम्य च**,विषयविमुखीकरणेन योगयोग्यं मनः कृत्वा; **शब्दादीन् विषयान् त्यक्त्वा** असन्निहितान् कृत्वा; तन्निमित्तौ **च** रागद्वेषौ व्युदस्य; **विविक्तसेवी** सर्वैर् ध्यानविरोधिभिर् विविक्ते देशे वर्तमानः **लघ्वाशी** अत्यशनानशनरहितः; **यतवाक्कायमानसः** ध्यानाभिमुखीकृतकायवाङ्मनोवृत्तिः; **ध्यानयोगपरो नित्यम्** एवं भूतः सन् आप्रयाणाद् अहरहः ध्यानयोगपरः; **वैराग्यं समुपाश्रितः** ध्येयतत्त्वव्यतिरिक्तविषयदोषावमर्शेन तत्र विरागतां वर्धयन् **अहङ्कारम्;** अनात्मन्य् आत्माभिमानं **बलं** तद्विवृद्धिहेतुभूतं वासनाबलं तन्निमित्तं **दर्पं कामं क्रोधं परिग्रहं विमुच्य; निर्ममः** सर्वेष्व् अनात्मीयेष्व् आत्मीयबुद्धिरहितः **शान्तः** आत्मानुभवैकसुखः; एवम्भूतो ध्यानयोगं कुर्वन् **ब्रह्मभूयाय कल्पते** ब्रह्मभावाय कल्पते सर्वबन्धविनिर्मुक्तो यथावस्थितम् आत्मानम् अनुभवति इत्यर्थः।
@@ -46,12 +47,14 @@ the self, as well as neutralising the power of forcible Vasnas
 (tendencies) which nourish (egoism), and the resulting pride, desire,
 wrath and possessiveness. 'With no feeling of mine' means free from the notion that what does not belong to oneself belongs to oneself; 'Who is tranil' means, who finds sole happiness in experiencing the self. One who has become like this and performs the Yoga of meditation becomes worthy for the state of Brahman. The meaning is that, freed from all bonds, he experiences the self as It really is.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.53॥ --,**अहंकारम्** अहंकरणम् अहंकारः देहादिषु तम्; **बलं** सामर्थ्यं कामरागसंयुक्तम् -- न इतरत् शरीरादिसामर्थ्यं स्वाभाविकत्वेन तत्त्यागस्य अशक्यत्वात् -- दर्पं दर्पो नाम हर्षानन्तरभावी धर्मातिक्रमहेतुः हृष्टो दृप्यति दृप्तो धर्ममतिक्रामति इति स्मरणात् तं च; **कामम्** इच्छां **क्रोधं** द्वेषं **परिग्रहम्** इन्द्रियमनोगतदोषपरित्यागेऽपि शरीरधारणप्रसङ्गेन धर्मानुष्ठाननिमित्तेन वा बाह्यः परिग्रहः; प्राप्तः तं च **विमुच्य** परित्यज्य; परमहंसपरिव्राजको भूत्वा; देहजीवनमात्रेऽपि निर्गतममभावः **निर्ममः;** अत एव **शान्तः** उपरतः; यः संहृतहर्षायासः यतिः ज्ञाननिष्ठः **ब्रह्मभूयाय** ब्रह्मभवनाय **कल्पते** समर्थो भवति॥ अनेन क्रमेण --,
 </details>
@@ -169,12 +172,14 @@ brahma-bhuyaya, for becoming Brahman.
 यतिर्ज्ञानसाधनपरिपाकक्रमेण ब्रह्मभूयाय ब्रह्मसाक्षात्काराय कल्पते समर्थो
 भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.53॥ ब्रह्मभूयाय कल्पते। ब्रह्मणि भावो ब्रह्मभूयम्; ब्रह्मणि
 स्थितिः। सर्वदा तन्मनस्कतेत्यर्थः।
@@ -187,12 +192,14 @@ brahma-bhuyaya, for becoming Brahman.
 **ब्रह्मणी**ति। इयमपि न मुक्तिर्ब्रह्मभूत इति
 पुनर्भक्त्यादिलाभश्रवणादिति भावेनाऽऽह -- **सर्वदे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -203,12 +210,14 @@ brahma-bhuyaya, for becoming Brahman.
 
 18.53 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.51 -- 18.53॥ तथा हि बुद्ध्येति त्रिभिः। बुद्ध्या
 यथोक्तकर्मफलादित्यागाद्विशुद्धया साङ्ख्यमार्गीयया युक्तः
@@ -228,10 +237,13 @@ brahma-bhuyaya, for becoming Brahman.
 भगवदनुभवाश्लिष्टो ब्रह्मभूयाय ब्रह्मात्मकस्वरूपावस्थानाय ब्राह्मेण ৷৷.
 \[ब्र.सू.4।4।5\] इत्यादिसूत्रोक्तरीत्या कल्पते समर्थो भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.53॥ किंच **-- अहंकारमिति**। ततश्च विरक्तोऽहमित्याद्यहंकारं बलं
 दुराग्रहं दर्पं योगबलादुन्मार्गप्रवृत्तिलक्षणं
@@ -239,10 +251,13 @@ brahma-bhuyaya, for becoming Brahman.
 विशेषेण त्यक्त्वा बलादापन्नेषु निर्ममः सन् शान्तः परामुपशान्तिं प्राप्तो
 ब्रह्मभूयाय ब्रह्माहमिति नैश्चल्येनावस्थानाय कल्पते योग्यो भवति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.53 Forsaking egoism, power, pride, desire, wrath and possession, with no feeling of 'mine' and tranil - he becomes worthy for the state of brahman.
@@ -279,11 +294,13 @@ without mineness; शान्तः peaceful; ब्रह्मभूयाय
 etc. This is the error of mistaking the physical body for the pure immortal Self.Balam That strength which is combined or united with passion; desire and attachment; and not the physical or other strength.
 Physical strength is natural. It is not possible to abandon this physical strength.Darpam Arrogance; insolence; selfassertive Rajasic vehemence this follows the state of exaltion.,Man becomes arrogant when he possesses wealth or much learning. When he becomes arrogant he violates Dharma and does wicked deeds.The aspirant even abandons the things which are necessary for the bare maintenance of the body. He becomes a ParamahamsaParivrajaka; a wandering or itinerant ascetic. He has no attachment to his body. He knows that even the body does not belong to him.Santa Peaceful; tranil; serene.Such an aspirant who has devotion to Selfknowledge; and who is endowed with the above virtues is fit to become Brahman.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.53।। जो विशुद्ध (सात्त्विकी) बुद्धिसे युक्त, वैराग्यके आश्रित,
@@ -430,6 +447,7 @@ Physical strength is natural. It is not possible to abandon this physical streng
 
 ।।18.53।। अहंकार, बल, दर्प, काम, क्रोध और परिग्रह को त्याग कर ममत्वभाव
 से रहित और शान्त पुरुष ब्रह्म प्राप्ति के योग्य बन जाता है।।
+</details>
 </details>
 
 </div>

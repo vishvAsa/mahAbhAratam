@@ -23,8 +23,9 @@ title = "23 उपद्रष्टाऽनुमन्ता च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.22॥**अस्मिन् देहे** अवस्थितो अयं पुरुषो देहप्रवृत्त्यनुगुणसङ्कल्पादिरूपेण देहस्य **उपद्रष्टा अनुमन्ता च** भवति तथा देहस्य **भर्ता** च भवति तथा देहप्रवृत्तिजनितसुखदुःखयोः **भोक्ता** च भवति। एवं देहनियमनेन देहभरणेन देहशेषित्वेन च देहेन्द्रियमनांसि प्रति **महेश्वरः** भवति। तथा च वक्ष्यते -- शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः। गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात्॥ (गीता 15।8) इति।  
@@ -44,12 +45,14 @@ title = "23 उपद्रष्टाऽनुमन्ता च"
 13.23 The self existing in the body becomes the 'spectator and approver' of this body by means of the will in consonance with the functioning of the body. Likewise, It is the 'supporter' of the body, Similarly, It becomes 'experiencer' of the pleasure and pain resulting from the activities of the body. Thus, by virtue of ruling and supporting the body and by making the body completely subservient, It becomes 'the great lord' (Mahesvara) in relation to the body, the senses and the mind. Sri Krsna will further declare: 'When the lord acires the body, and when he leaves it and goes on his way, he takes these as the wind carries scents from their places' (15.8). In the body, It is said to be the 'supreme self' in relation to the body, the senses and the mind. The word 'self' (Atman) is applied to the body and the mind subseently. It is said afterwards: 'Some perceive the self by means of the self through meditation' (13.24). The particle 'also' (api) indicates that the self is the 'supreme lord'; in relation to the body just as It is the supreme self. The supremacy of the self has been described in the text beginning with 'It is the beginningless brahman having Me for the Highest'
 (13.12). It is true that the self (in Its emancipated state) has limitless power knowledge. But It becomes the great lord and the supreme self only in relation to the body. Such lordship and supremacy is the result of attachment to the Gunas arising from the beginningless conjunction with Prakrti.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.23॥ --,**उपद्रष्टा** समीपस्थः सन् द्रष्टा स्वयम् अव्यापृतः। यथा ऋत्विग्यजमानेषु यज्ञकर्मव्यापृतेषु तटस्थः अन्यः अव्यापृतः यज्ञविद्याकुशलः ऋत्विग्यजमानव्यापारगुणदोषाणाम् ईक्षिता; तद्वच्च कार्यकरणव्यापारेषु अव्यापृतः अन्यः तद्विलक्षणः तेषां कार्यकरणानां सर्वव्यापाराणां सामीप्येन द्रष्टा उपद्रष्टा। अथवा; देहचक्षुर्मनोबुद्ध्यात्मानः द्रष्टारः; तेषां बाह्यः द्रष्टा देहः; ततः आरभ्य अन्तरतमश्च प्रत्यक् समीपे आत्मा द्रष्टा; यतः परः अन्तरतमः नास्ति द्रष्टा सः अतिशयसामीप्येन द्रष्ट्टत्वात् उपद्रष्टा स्यात्। यज्ञोपद्रष्ट्टवद्वा सर्वविषयीकरणात् उपद्रष्टा। **अनुमन्ता च;** अनुमोदनम् अनुमननं कुर्वत्सु तत्क्रियासु परितोषः; तत्कर्ता अनुमन्ता च। अथवा; अनुमन्ता; कार्यकरणप्रवृत्तिषु स्वयम् अप्रवृत्तोऽपि प्रवृत्त इव तदनुकूलः विभाव्यते; तेन अनुमन्ता। अथवा; प्रवृत्तान् स्वव्यापारेषु तत्साक्षिभूतः कदाचिदपि न निवारयति इति अनुमन्ता। **भर्ता;** भरणं नाम देहेन्द्रियमनोबुद्धीनां संहतानां चैतन्यात्मपारार्थ्येन निमित्तभूतेन चैतन्याभासानां यत् स्वरूपधारणम्; तत् चैतन्यात्मकृतमेव इति भर्ता आत्मा इति उच्यते। **भोक्ता;** अग्न्युष्णवत्; नित्यचैतन्यस्वरूपेण बुद्धेः सुखदुःखमोहात्मकाः प्रत्ययाः सर्वविषयविषयाः चैतन्यात्मग्रस्ता इव जायमानाः विभक्ताः विभाव्यन्ते इति भोक्ता आत्मा उच्यते। **महेश्वरः;** सर्वात्मत्वात् स्वतन्त्रत्वाच्च महान् ईश्वरश्च इति महेश्वरः। **परमात्मा;** देहादीनां बुद्ध्यन्तानां प्रत्यगात्मत्वेन कल्पितानाम् अविद्यया परमः उपद्रष्टृत्वादिलक्षणः आत्मा इति परमात्मा। सोऽन्तः परमात्मा इत्यनेन शब्देन **च अपि उक्तः** कथितः श्रुतौ। क्व असौ **अस्मिन् देहे पुरुषः** **परः** अव्यक्तात्; उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः (गीता 15।17) इति यः वक्ष्यमाणः॥  
   
@@ -263,12 +266,14 @@ been presented in, '৷৷.also understand Me to be the Knower of the field'
 इत्यनेन शब्देनाप्युक्तः कथितः श्रुतौ। चकारादुपद्रष्टेत्यादिशब्दैरपि स एव
 पुरुषः पर उत्तमः,पुरुषस्त्वन्यः परमात्मेत्युदाहृत इत्यग्रेपि वक्ष्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.23॥ यतश्च यत् \[13।4\] इत्याह -- उपद्रष्टेति। अनुमन्ता अन्वनु
 विशेषतो निरूपकः। पुरुषः सुखदुःखानामिति जीव उक्तः। पुरुषं प्रकृतिमिति
@@ -422,12 +427,14 @@ been presented in, '৷৷.also understand Me to be the Knower of the field'
 ग्राह्यम्;तदीयोऽहं इत्युक्तत्वात्। एवशब्दस्त्वैक्यस्य व्यवच्छेदार्थः।
 एतेनक्षेत्रज्ञं चापि मां विद्धि \[13।3\] इत्यादेरपव्याख्यानमपास्तं भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.20 -- 13.23॥ एतल्लक्षणं कृत्वा परीक्षा क्रियते -- प्रकृतिमित्यादि पर इत्यन्तम्। प्रकृतिरप्यनादिः +++(;N कार्यकारणप्रकृतिरप्यनादिः)+++ कारणान्तराभावात्। ,विकाराः पटादयः। प्रकृतिरिति कार्यकारणभावे हेतुः। पुरुषस्तु प्रधान्यात् भोक्ता। प्रकृतिपुरुषयोः पङ्ग्वन्धवत् किलान्योन्यापेक्षा वृत्तिः। अत एवास्य \[पुरुषस्य\] शास्त्रकृद्भिः नानाकारैर्नामभिरभिधीयते रूपम् उपद्रष्टा इत्यादिभिः। अयमत्र तात्पर्यार्थः
 -- प्रकृतिः तद्विकारः; चतुर्दशविधः सर्गः; तथा पुरुषः; एतत्सर्वम् अनादि
@@ -438,12 +445,14 @@ been presented in, '৷৷.also understand Me to be the Knower of the field'
 
 13.20-23 Prakrtim etc. upto parah. The Material Cause also is beginningless, because it has no other casue. Modifications : the cloth and the like. What is known as Material Cause is the basis for the process of cause-and-effect. But, the Soul, because of Its importance, constitutes the enjoyer. \[Thus\] the Material Cause and the Soul have verily an existence of interdependence just as that of the lame and the blind. Hence, the nature of the Soul is described by the authors of the scriptures by nomenclatures having different forms such as 'the Spectator' and so on. The meaning, intended here is this : The Material Cause, Its modifications, the fourteen types of creation and also the Soul - this is all beginningless and perennial as it is completely illuminated by the category Brahman and is identical with it. Hence \[the Bhagavat\] said :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.23॥ किञ्च -- उपद्रष्टेति। अस्मिन्वृक्षरूपके देहे द्वा सुपर्णा सयुजा
 सखाया समानं वृक्षं परिषस्वजाते। तयोरेकः पिप्पलं स्वाद्वत्ति;
@@ -476,10 +485,13 @@ been presented in, '৷৷.also understand Me to be the Knower of the field'
 ब्रह्मादीनामपि प्रभुः; तेन तादृग्वस्तुकर्त्तेत्यर्थः। तथैव परमात्मा
 तादृग्धर्मवतो मित्ररूप इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.23॥ तदनेन प्रकारेण प्रकृत्यविवेकात्पुरुषस्य संसारो न तु स्वरूपत
 इत्याशयेन तस्य स्वरूपमाह **-- उपद्रष्टेति।** अस्मिन्प्रकृतिकार्ये देहे च
@@ -491,10 +503,13 @@ been presented in, '৷৷.also understand Me to be the Knower of the field'
 परमात्मान्तर्यामीति चोक्तः श्रुत्या। तथाच श्रुतिःएष भूताधिपतिरेष
 लोकेश्वर एष लोकपालः इत्यादिः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.23 The self in the body is called spectator, approver, supporter,
@@ -527,11 +542,13 @@ experiencer, the great lord and also the supreme self in the body.
 an expert who has good experience in sacrifical matters sits by their side. He does not take any part at all in the sacrifice. He sits as a silent witness. He guides them. He points out their defects and corrects them. Even so the Supreme Self does not act. It does not take any part in the activities of the body; the mind and the senses. It is entirely distinct from them. It is a silent witness of their activities. It sits near Nature and silently watches Her actions.It may be explained in another way. The body; the eyes; the mind; the intellect and the Self are the,seers. Of these the body is the most external seer the Self is the most internal and nearest seer. Beyond the Self there is no other internal seer.Anumanta Permitter. The Supreme Self gives consent. It expresses Its approval or satisfaction regarding the actions done by the senses; the mind and the intellect. The King consents and says Yes. The Prime Minister and the other officers carry out his orders. Even so the Supreme Self consents or gives permission the body; the mind; the intellect; and the senses perform their respective functions. Or; though It Itself does not work while the senses; the mind and the intellect work; It appears to be engaged in action; it seems to cooperate with them. As It is an onlooker or mere witness; It never stands in the way of the activities of the body; the mind; the intellect and the senses.Bharta Supporter. Just as the hu**and is the supporter of his wife; so also the Self is the supporter of this body; mind; intellect;
 lifeforce and the senses. It is different from them; just as the father who supports the children is different from them.Bhokta Enjoyer the Self; of the nature of eternal intelligence. Just as heat is the inherent nature of fire; so also eternal intelligence is the inherent nature of the Self. All the states of the mind such as pleasure; pain and delusion are permeated and illumined by the intelligent Self. Just as Govindan who takes the food is different from the foo; so also the Self is different from the intellect; the mind and the senses.Mahesvarah The great Lord. As He is the soul or essence of everything and as He is independent of all; He is Mahesvara. The sky is very big. Mahesva is bigger than even the sky; and so He is called Mahesvara. Just as the king is different from his subjects; so also the Self is different from Nature and the effects or modifications of Nature.Paramatma The Supreme Self. It is supreme because It is superior to all those things; from the Unmanifested to the physical body; which are mistaken for the Self on account of ignorance. Just as an iron piece moves in the presence of a magnet so also the mind and the intellect which are insentient move and function in the presence of the Supreme Self. Just as the moon borrows its light from the sun; so also the mind and the intellect borrow their light from the Supreme Self. The Supreme Self is selfluminous. Mind and intellect have no selfluminosity. In the Vedas also He is called the Supreme Self. Lord Krishna says in verse 17 of the fifteenth chapter But distinct is the Highest Purusha spoken of as the Supreme Self.Do thou also know Me as the knower of the field in all the fields; has been described in detial and the subject is concluded in this verse.**
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.23।। यह पुरुष प्रकृति-(शरीर-) के साथ सम्बन्ध रखनेसे 'उपद्रष्टा',
@@ -608,6 +625,7 @@ lifeforce and the senses. It is different from them; just as the father who supp
 
 ।।13.23।। परम पुरुष ही इस देह में उपद्रष्टा, अनुमन्ता ,भर्ता, भोक्ता,
 महेश्वर और परमात्मा कहा जाता है।।
+</details>
 </details>
 
 </div>

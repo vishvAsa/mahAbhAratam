@@ -23,8 +23,9 @@ title = "30 साधिभूताधिदैवम् माम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.30॥ अत्र **य** इति पुनर्निर्देशात्  
@@ -53,12 +54,14 @@ title = "30 साधिभूताधिदैवम् माम्"
 those seekers of fortune who know Me as being connected with the higher material entities' (Adhibhuta) and 'with that which is higher to divinities' (Adhidaiva) i.e., the self in Its lordship - resmles a repetition, it is really an injunction on account of the meaning not being known otherwise. The statement of knowing Me as being connected with the sacrifice is also enjoined as an injunction for all the three types of differently alified aspirants (those who aspire for Kaivalya, wealth and liberation) without any difference, because of the nature of the subject matter, that being sacrificial. None of the three types of aspirants can give up the performance of the great sacrifices and other rituals in the form of periodical and occasional rituals. They know Me at the hour of death in a way corresponding with their objectivies. Because of the term ca (too) in 'they too,' those who have been mentioned before as 'striving for release from old age and death' are also to be understood along with the others as knowing Me at the hour of death. By this, even the Jnanin knows Me as being connected with the sacrifice on account of the nature of the meaning of the subject treated
 (i.e., sacrifice). They also know Me even at the hour of death in a way corresponding with their objective. The purport is that, besides the others mentioned earlier like the knower of the Self, those others who are now described as knowing Him with Adhibhuta, Adhidaiva and Adhiyajna are to be included among those who will know Him at the time of death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.30॥ **साधिभूताधिदैवम्** अधिभूतं च अधिदैवं च अधिभूताधिदैवम् सह अधिभूताधिदैवेन वर्तते इति साधिभूताधिदैवं च **मां ये विदुः** **साधियज्ञं** च सह अधियज्ञेन साधियज्ञं ये विदुः **प्रयाणकाले अपि च** मरणकाले अपि च **मां ते विदुः युक्तचेतसः** समाहितचित्ता इति॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्यश्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -144,12 +147,14 @@ of awareness, of Brahman even at the critical moment of death.\]
 प्रति च ध्येयं लक्षणया मुख्यया च वृत्त्या तत्पदप्रतिपाद्यं ब्रह्म
 निरूपितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.30॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -158,12 +163,14 @@ of awareness, of Brahman even at the critical moment of death.\]
 
 ॥7.30॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.28 7.30॥ येषाम् इत्यादि युक्त-चेतस इत्य्-अन्तम्। 
 
@@ -180,12 +187,14 @@ of awareness, of Brahman even at the critical moment of death.\]
 
 7.30 Yesam etc. upto yukta-cetasah. Those, in whom the darkness (ignorance) has totally vanished, and the Self is well secured due to the decaying of the good and bad effects of actions-they break off the canopy of their \[castle of the\] mighty delusion and realise everything as the Brahman studded (purified) with the rays of the Bhagavat, emerging out of the darkness of old age and death; and realise 'what governs the Self, the beings, the deities and the sacrifices are all My own different aspects'. They also experience Me at the time of their journey, on account of their having internal organ permanently immersed in the thought of the Bhagavat. For, those who remember the Bhagavat even earlier, since their birth-they at the last momnet would very well remember the Absolute Lord. \[Hence\] it is good to simply keep silent with regard to those who opine 'What is the use of worshiping since \[the time of\] birth ;'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.30॥ साधिभूतेति। अत्रये इति पुनर्निदेशात्पूर्वनिर्दिष्टेभ्योऽन्ये
 जिज्ञासव उक्ता इत्यवसीयते। ये च मां (साधिभूतं) साधिदैवं साधियज्ञमिति
@@ -205,10 +214,13 @@ of awareness, of Brahman even at the critical moment of death.\]
   
 भक्तानाम् एव श्रीकृष्ण-ज्ञान-विज्ञान-योग्यता। अतोऽत्र ज्ञानविज्ञानयोगं हरिर् उवाच हि॥7॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.30॥ न चैवंभूतानां योगभ्रंशशङ्कापीत्याह **साधिभूताधिदैवमिति।**
 अधिभूतादिशब्दानामर्थं भगवानेवानन्तराध्याये व्याख्यास्यति।
@@ -216,10 +228,13 @@ of awareness, of Brahman even at the critical moment of death.\]
 मय्यासक्तमनसः प्रयाणकालेऽपि मरणसमयेऽपि मां विदुर्जानन्ति नतु तदापि
 व्याकुलीभूय मां विस्मरन्ति। अतो मद्भक्तानां न योगभ्रंशशङ्केत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.30 And those who know Me with the Adhibhuta, Adhidaiva and the Adhiyajna, they too, with their minds fixed in meditation, know Me even at the hour of death.
@@ -256,11 +271,13 @@ who have taken refuge in Me; who know Me as the knowledge of elements in the phy
 They continue to keep up the consciousness of Me even at the time of their departure from this world. Those who worship Me along with these three know Me even at the time of death. (Cf.VIII.25)(This chapter is known by the names Vijnana Yoga and Jnana Yoga also.)Thus in the Upanishads of the glorious Bhagavad Gita; the Science of the Eternal;
 the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the seventh discourse entitledThe Yoga of Wisdom and Realisation. ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.30।। जो मनुष्य अधिभूत, अधिदैव और अधियज्ञके सहित मुझे जानते हैं, वे
@@ -427,6 +444,7 @@ the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the sev
 
 ।।7.30।। जो पुरुष अधिभूत और अधिदैव तथा अधियज्ञ के सहित मुझे जानते हैं,
 वे युक्तचित्त वाले पुरुष अन्तकाल में भी मुझे जानते हैं।।
+</details>
 </details>
 
 </div>

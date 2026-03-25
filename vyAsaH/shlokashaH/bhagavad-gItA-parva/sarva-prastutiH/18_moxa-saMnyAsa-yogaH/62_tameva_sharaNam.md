@@ -23,8 +23,9 @@ title = "62 तमेव शरणम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.62॥ यस्माद् एवं तस्मात् **तम् एव** सर्वस्य प्रशासितारम् आश्रितवात्सल्येन त्वत्सारथ्ये अवस्थितम्इत्थं कुर्व् इति च प्रशासितारं मां **सर्वभावेन** सर्वात्मना **शरणं गच्छ** अनुवर्तस्व। अन्यथा तन्मायाप्रेरितेन अज्ञेन त्वया युद्धादिकरणम् अवर्जनीयम्; तथा सति नष्टो भविष्यसि। अतो मदुक्तप्रकारेण युद्धादिकं कुर्व् इत्यर्थः।  
@@ -48,12 +49,14 @@ is inevitable for you who are ignorant and actuated by His Maya, but then you wi
 'He who is in the Supreme Heaven and presides over this' (Rg. S.,
 8.7.17.7); 'Now that light which shines above this Supreme Heaven' (Cha. U., 3.13.7); and 'He reaches the end of the journey, the Highest abode of Visnu' (Ka. U., 3.9).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.62॥ --,**तमेव** ईश्वरं **शरणम्** आश्रयं संसारार्तिहरणार्थं **गच्छ** आश्रय **सर्वभावेन** सर्वात्मना हे **भारत।** ततः **तत्प्रसादात्** ईश्वरानुग्रहात् **परां** प्रकृष्टां **शान्तिम्** उपरतिं **स्थानं** च मम विष्णोः परमं पदं प्राप्स्यसि **शाश्वतं** नित्यम्॥
 </details>
@@ -114,12 +117,14 @@ eternal; sthanam, Abode, the supreme State of Mine who am Visnu.
 शान्तिं सकार्याविद्यानिवृत्तिं
 स्थानमद्वितीयस्वप्रकाशपरमानन्दरूपेणावस्थानं शाश्वतं नित्यं प्राप्स्यसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.62॥ परोक्षवचनं तु द्रोणं प्रति भीमवचनवत्।
 </details>
@@ -131,12 +136,14 @@ eternal; sthanam, Abode, the supreme State of Mine who am Visnu.
 तन्निराकर्तुमाह -- **परोक्षे**ति।
 निश्चितार्थत्वाभिप्रायेणान्यथासिद्धमिति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.61 -- 18.62॥ ईश्वर इति। तमेवेति। एष ईश्वरः परमात्मा अवश्यं शरणत्वेन ग्राह्यः। तत्र हि अधिष्ठातरि कर्तरि +++(omits कर्तरि )+++ बोद्धरि स्वात्ममये विमृष्टे +++(;N विस्पष्टे )+++ ; न कर्माणि स्थतिभाञ्जि भवन्ति। न हि निशिततरनखरकोटिविदारितसमदकरिकरटगलितमुक्ताफलनिकरपरिकरप्रकाशितप्रतापमहसि ( omits -- परिकर -- ) सिंहकिशोरके गुहामधितिष्ठति चपलमनसो विद्रवणमात्रबलशालिनो हरिणपोतकाः +++(K हिरण -- )+++ स्वैरं स्वव्यापारपरिशीलनापटुभावमवलंबन्ते इति। तमेव शरणं गच्च्छइत्युपक्रम्य मत्प्रसादात् इति निर्वाहवाक्यमभिदधत् भगवान् परमात्मानम् ईश्वरं वासुदेवं च एकतया योजयति इति।
 </details>
@@ -145,12 +152,14 @@ eternal; sthanam, Abode, the supreme State of Mine who am Visnu.
 
 18.61-62 Isvarah etc. Tam eva etc. This Lord, the Supreme Self, must be taken hold of as refuge. When that Supreme Ruler, the \[real\] Agent-of-all-actions, the \[real\] Knower, the very Self of your own, is reflected upon, there (in the heart) the \[effects of\] actions do not enjoy any locus standi. Indeed, the deer-calves which are of wavering mind \[by nature\] and are noted only for their power of running away to escape, do not take recourse to their skill in pursuing freely their \[usual\] activities while there dwells in the \[nearby\] cave a loin-calf, the glory of whose valour has been made evident by the accessories in the form of the heaps of pearls scattered from the elephants' temples broken upon with the very sharp edges of his (lion-calf's) excellent claws. By the cocluding statement that commences 'To Him alone you must go for refuge' and \[runs\] as 'Through My Grace etc.', the Bhagavat indicates the Lord Supreme Self, and Vasudeva krsna to be identical.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.62॥ अतस्तमेव सर्वनियन्तारं सर्वेश्वरं शरण्यं गच्छ सर्वात्मना।
 अन्यथा मत्प्रकृतिप्रेरितेन तु त्वया युद्धकरणमनिवार्यं भविष्यत्येवेति वरं
@@ -167,20 +176,26 @@ eternal; sthanam, Abode, the supreme State of Mine who am Visnu.
 सर्वात्मना शरणं गच्छ; ततस्तत्प्रसादात् परां शान्तिं शाश्वतं नित्यं
 स्थानं पूर्वश्लोकोक्तमक्षरात्मकं प्राप्स्यसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.62॥**तमिति।** यस्मादेवं सर्वे जीवाः
 परमेश्वरपरतन्त्रास्तस्मादहंकारं परित्यज्य सर्वभावेन सर्वात्मना
 तमीश्वरमेव शरणं गच्छ। ततस्तस्यैव प्रसादात्परमामुपशान्तिं स्थानं च
 पारमेश्वरं शाश्वतं नित्यं प्राप्स्यसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.62 Seek refuge in Him alone, O Arjuna, with the whole of your being.
@@ -215,11 +230,13 @@ the eternal abode.
 शाश्वतम् eternal.Commentary Do total and perfect surrender to the Lord.
 Do not keep any secret desires for silent gratification. Desire and egoism are the two chief obstacles that stand in the way of selfsurrender. Kill them ruthlessly.Run to the Lord for shelter with all thy being for freeing thyself from the troubles; afflictions and sorrows of Samsara. Take the Lord as the sole refuge. Then by His grace; thou shalt obtain supreme peace and attain to the supreme; eternal Abode.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.62।। हे भरतवंशोद्भव अर्जुन ! तू सर्वभावसे उस ईश्वरकी ही शरणमें चला
@@ -343,6 +360,7 @@ Do not keep any secret desires for silent gratification. Desire and egoism are t
 
 ।।18.62।। हे भारत ! तुम सम्पूर्ण भाव से उसी (ईश्वर) की शरण में जाओ। उसके
 प्रसाद से तुम परम शान्ति और शाश्वत स्थान को प्राप्त करोगे।।
+</details>
 </details>
 
 </div>

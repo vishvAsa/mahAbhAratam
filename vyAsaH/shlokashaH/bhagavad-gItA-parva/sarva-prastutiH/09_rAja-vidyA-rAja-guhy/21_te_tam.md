@@ -25,8 +25,9 @@ title = "21 ते तम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.21॥**ते तं विशालं स्वर्गलोकं भुक्त्वा** तदनुभवहेतुभूते **पुण्ये क्षीणे** पुनरपि **मर्त्यलोकं विशन्ति।**एवं **त्रय्यन्तसिद्धज्ञानविधुराः काम्यस्वर्गादिकामाः केवलं** त्रयीधर्मम् अनुप्रपन्ना गतागतं लभन्ते। **अल्पास्थिरस्वर्गादीन् अनुभूय पुनः पुनः निवर्तन्ते इत्यर्थः। महात्मानस् तु निरतिशयप्रियरूपं मच्चिन्तनं कृत्वा माम् अनवधिकातिशयानन्दं प्राप्य न पुनरावर्तन्ते इति तेषां विशेषं दर्शयति --**
@@ -41,12 +42,14 @@ title = "21 ते तम्"
 
 9.21 After enjoying the spacious world of heaven, they return to the world of mortals when the meritorious Karma forming the cause of that experience is exhausted. Thus, lacking in the knowledge established in the Vedanta and desiring only the attainment of heaven etc., they who follow the teaching of the three Vedas on sacrificial rites, come and go. After enjoying the trifling and transient pleasures of heaven, they return to Samsara again and again. But the great souls meditating on Me, who am incomparably dear to them, attain boundless and unsurpassed bliss and do not return to Samsara. Sri Krsna desribes their distinguishing features:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.21॥ --,**ते तं भुक्त्वा स्वर्गलोकं विशालं** विस्तीर्णं **क्षीणे पुण्ये मर्त्यलोकं** **विशन्ति** आविशन्ति। **एवं** यथोक्तेन प्रकारेण **त्रयीधर्मं** केवलं वैदिकं कर्म **अनुप्रपन्नाः गतागतं** गतं च आगतं च गतागतं गमनागमनं **कामकामाः** कामान् कामयन्ते इति कामकामाः **लभन्ते** गतागतमेव; न तु स्वातन्त्र्यं क्वचित् लभन्ते इत्यर्थः॥ ये पुनः निष्कामाः सम्यग्दर्शनिः --,
 </details>
@@ -122,12 +125,14 @@ that of independence. This is the meaning.
 आगत्य पुनः कर्म कुर्वन्तीत्येवं गर्भवासादियातनाप्रवाहस्तेषामनिशमनुवर्तत
 इत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.20 -- 9.21॥ तथापि मद्भजनमेवान्यदेवताभजनाद्वरमिति दर्शयति --
 त्रैविद्या इत्यादिना।
@@ -143,12 +148,14 @@ that of independence. This is the meaning.
 भगवतो भोक्तृत्वेऽपि मद्भजनं भागवतैरनुष्ठितम्; देवतेति पित्राद्युपलक्षणम्
 त्रैविद्याद्यनुष्ठिताद्वरमुत्कृष्टफलम्। इत्यादिना श्लोकत्रयेण।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.20 -- 9.21॥ नन्वेवं यदि बाह्ययागादिनाऽपि ब्रह्म प्राप्तिः +++(S ब्रह्माप्तिः)+++ ; तर्हि अग्निष्टोमादिष्वपि किम्,अन्यो याज्यः अभ्युपगमे भेदवादः वासुदेव एव +++(S omits एव)+++ इति चेत्; कथं नापवर्गस्तैः \[प्राप्यते\] तदर्थमुच्यते -- त्रैविद्या इत्यादि। ते तमित्यादि। यद्यपि ते मामेव यजन्ते। तथापि स्वर्गमात्रप्रार्थनया मितं कर्म निजसत्त्वदुर्बलतया स्वर्गादिमात्रेणैव फलेनावच्छिन्दन्ति। अत एवैषां पुनरावर्तको धर्मः। एवं ते गतागतं लभन्ते; न तु यागस्य पुनरावृत्तिप्रसवधर्मा स्वभावः।
 </details>
@@ -157,12 +164,14 @@ that of independence. This is the meaning.
 
 9.20-21 Traividyah etc. Te tam etc. Of course, they worship Me (Vasudeva) alone. However, the action \[like sacrifice\] is limited (or is known \[to them\]) by their aspiration for heaven only. Hence, on account of the weakness is their own being (sattva), they condition the action solely by the result of the heaven. That is why their religious act leads to rirth and thus they attain the state of going and coming. But \[on that account\] it is not the inherent nature of the sacrifice to beget rirth. For instance :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.20 -- 9.21॥ त्रैविद्या इति। त्रिगुणात्मकत्रिवेदविद्यायां निष्णाताः;
 तथा च त्रिगुणकर्मकारिणः तथाविधैरेव यज्ञैस्तत्तद्देवताविशेषं समाराध्य
@@ -195,20 +204,26 @@ that of independence. This is the meaning.
 सन्तोऽनुप्रपन्नाः गतागतं जन्ममरणात्मकप्रवाहं लभन्ते
 प्राप्नुवन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.21॥ ततश्च **-- ते तं भुक्त्वेति।** ते स्वर्गकामास्तं प्रार्थितं
 विपुलं स्वर्गलोकं तत्सुखं भुक्त्वा भोगप्रापके पुण्ये क्षीणे
 सति,मर्त्यलोकं विशन्ति। पुनरप्येवमेव वेदत्रय्या विहितं धर्ममनुसृताः
 कामकामा भोगान्कामयमाना गतागतं यातायातं लभन्ते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.21 Having enjoyed the spacious world of heaven, they return to the world of mortals their merit is exhausted. Thus, those who follow the Vedic rituals and are drawn by desires, come and go.
@@ -245,11 +260,13 @@ heavenworld; विशालम् vast; क्षीणे at the exhaustion of
 of the three Vedas; अनुप्रपन्नाः abiding by; गतागतम् the state of goind and returning; कामकामाः desiring desires; लभन्ते attain.Commentary When the accumulated merit (the cause of heavenly pleasures) is exhausted;
 they descend to this world. They come and go. They have no independence.The Dharma of the three Mere Vedic ritual; enjoined by the three Vedas. KamaKamah The people whose minds are filled with Vasanas or worldly tendencies.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.21।। वे उस विशाल स्वर्गलोकके भोगोंको भोगकर पुण्य क्षीण होनेपर
@@ -285,6 +302,7 @@ they descend to this world. They come and go. They have no independence.The Dhar
 ।।9.21।। वे उस विशाल स्वर्गलोक को भोगकर, पुण्यक्षीण होने पर, मृत्युलोक
 को प्राप्त होते हैं। इस प्रकार तीनों वेदों में कहे गये कर्म के शरण हुए
 और भोगों की कामना वाले पुरुष आवागमन (गतागत) को प्राप्त होते हैं।।
+</details>
 </details>
 
 </div>

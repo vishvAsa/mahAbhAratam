@@ -26,8 +26,9 @@ title = "02 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.2॥ श्रीभगवानुवाच -- सर्वेषां **देहिनां श्रद्धा त्रिविधा भवति सा** च **स्वभावजा** -- स्वभावः स्वासाधारणो भावः; प्राचीनवासनानिमित्तस् तत्तद्रुचिविशेषः; यत्र रुचिस् तत्र श्रद्धा जायते। श्रद्धा हिस्वाभिमतं साधयत्य् एतद् इतिविश्वासपूर्विका साधने त्वरा। वासना रुचिश् च श्रद्धा च आत्मधर्मा गुणसंसर्गजाः। तेषाम् आत्मधर्माणां वासनादीना जनका देहेन्द्रियान्तः करणविषयगता धर्माः कार्यैकनिरूपणीयाः सत्त्वादयो गुणाः; सत्त्वादिगुणयुक्तदेहाद्यनुभवजा इत्यर्थः। ततश् च इयं श्रद्धा **सात्त्विकी राजसी तामसी च इति** त्रिविधा। **ताम्** इमां श्रद्धां **श्रृणु।** सा श्रद्धा यत्स्वभावा तं स्वभावं श्रृण्व् इत्य् अर्थः।
@@ -43,12 +44,14 @@ title = "02 श्री भगवानुवाच"
 17.2 The Lord said 'Threefold is the faith among all' embodied beings. And it arises from their 'inborn nature.' What is called Svabhava is the state unie to one's own nature. It is the special taste or predilection caused by previous subtle impressions, 'Vasanas.' To whatever one's predilection is directed, there faith is born in respect of it. For
 'faith' is zeal or eagerness about any means in the belief that it is the way of action to achieve one's own desired object. Vasana (subtle impression), Ruci (taste) and Sraddha (faith) are the alities of the self born from its association with the Gunas. The Sattva and the other Gunas are the alities of the body, the senses, the internal organs and sense-objects. They bring about their alities in the self associated with them. These are the Vasanas. These Gunas can be described only by their effects. These (i.e., Vasanas etc.) originate from experiences with the body etc., having origination in Sattva and other Gunas. Thus faith is threefold as marked by Sattva, Rajas and Tamas. Listen about this faith.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.2॥ --,**त्रिविधा** त्रिप्रकारा **भवति श्रद्धा;** यस्यां निष्ठायां त्वं पृच्छसि; **देहिनां** शरीरिणां **सा स्वभावजा** जन्मान्तरकृतः धर्मादिसंस्कारः मरणकाले अभिव्यक्तः स्वभावः उच्यते; ततो जाता स्वभावजा। **सात्त्विकी** सत्त्वनिर्वृत्ता देवपूजादिविषया **राजसी** रजोनिर्वृत्ता यक्षरक्षःपूजादिविषया **तामसी** तमोनिर्वृत्ता प्रेतपिशाचादिपूजाविषया एवं त्रिविधां **ताम्** उच्यमानां श्रद्धां **शृणु** अवधारय॥ सा इयं त्रिविधा भवति --,
 </details>
@@ -139,12 +142,14 @@ stated. That (faith) is threefold as follows:
 स्वभाववशात्ति्रधाभवन्तीं तां श्रद्धां शृणु। श्रुत्वा च देवासुरभावं
 स्वयमेवावधारयेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.2॥ अतो विभज्याऽऽह -- त्रिविधेत्यादिना।
 </details>
@@ -158,12 +163,14 @@ stated. That (faith) is threefold as follows:
 तद्विशेषणत्वेनोक्तां श्रद्धां सात्त्विकत्वादिना विभज्य तदाश्रयेण तेषां
 स्वरूपमाहेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.2॥ तदत्रोत्तरं श्रद्धानुसारेण दीयते श्रीभगवता +++(omits श्रीभगवता )+++
 -- त्रिविधेति। तत्र चायमाशयः -- शास्त्रं नाम किल
@@ -176,12 +183,14 @@ stated. That (faith) is threefold as follows:
 
 17.2 Trividha etc. Here the ideas is this :- What is termed scripture is indeed the one which is not created by the intellect soiled by any partisan spirit; further it is of the form of the firmness of the recollection; and it is firmly recollected because of the sovereign freedom of the awareness; likewise it is also of the nature of fruit etc., i.e. the nature of the Supreme Brahman, the ultimate purport of speech, a flow of the pure Self-Consciousness; because of its free course, it starts from the internal nature of awareness and goes as for as the external flow, beginning from the subtlest hymn (Om), down to the series of popular saying well-known in the worldly activities. 'What \[the sage\] says - 'Also the \[injunctions based on\] remembrance and the virtuous conduct of the knowers of that \[constitute authority\]'. (Gautamadharmasutra, I, 2). That scripture, by its own nature, distinguishes what is to be done and what is not to be done, in order to teach what is beneficial and what is not beneficial. \[Further\], he whose heart is very tender by nature, because of the excess of the Sattva (i.e., godness) - in whatever way he behaves, that has certainly a scriptural authority. But other person who is made dirty by the Rajas or the Tamas (i.e., desire and ignorance) does not act rightly, even while performing what is enjoined in the scriptures. For, he does not follow the purport (the spirit) of the scripture in its entity. The scripture (or what is enjoined in the scripture) bears fruits only in the case of men of the Sattva (goodness) This has been declared by the scripture itself as : 'He \[alone\] enjoys the fruit of the scripture (or holy bathing place) whose arms and feet and also mind, learning, austerity and conduct are controlled properly'. (MB, Aranyaka, Ch. 80, verse 30). Any other person does not enjoy \[the fruit\], because the rmains unsubdued \[in his mind\]. Therefore, what is prescribed in the scripture bears fruit in the case of those who have abandoned desire, anger and delusion. This is the purport of the present chapter; and it is being elaborated \[throughout\]. But it is not explained \[in every place by us (Ag.), because the idea is clear enough. But \[the concerned verses\] are simply written only to remove doubts regarding the readings \[of the passages concerned\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.2॥ एवं पृष्टः पुनरपि द्विविधेषु त्रिगुणविवेकेनैव
 शास्त्रीयश्रद्धादिस्वरूपमाह -- श्रीभगवानुवाच त्रिविधेति। देहाभिमान
@@ -203,10 +212,13 @@ stated. That (faith) is threefold as follows:
 त्रिविधा च भिन्ना न तत्फलसाधिकेति भिन्नत्वज्ञापनाय तां त्रिविधां
 मयोच्यमानां श्रृणु; तच्छ्रवणादेव त्वत्सन्देहनिवृत्तिर्भविष्यतीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.2॥ अत्रोत्तरं श्रीभगवानुवाच **-- त्रिविधेति।**
 अयमर्थःशास्त्रतत्त्वज्ञानतः प्रवर्तमानानां परमेश्वरपूजाविषया सात्त्विकी
@@ -217,10 +229,13 @@ stated. That (faith) is threefold as follows:
 स्वभावेनैव भवतीति श्रद्धा त्रिविधा भवति; तामिमां त्रिविधां श्रद्धां
 श्रृणु। तदुक्तम्व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन इत्यादिना।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.2 The Lord said Threefold is the faith of embodied beings, born of their own nature, constituted of Sattva, Rajas and Tamas. Listen now about it.
@@ -260,11 +275,13 @@ This process or cycle continues eternally. Even so man takes a body;
 does actions; develops tendencies; dies and puts,on a new body in accordance with the nature or tendencies. This continues till he gets knowledge of the Self by transcending the three Gunas; when ignorance;
 the root cause of birth and death; is destroyed.Faith is born of the individual nature; i.e.; the Samskaras or the latent impressions of virtuous and vicious actions which were performed in the past births and which manifested themselves at the time of death. In the subconscious mind or the Chitta there is a reservoir of past impressions which are revived through the operation of memory.Sattvic Faith in the worship of gods; which is an effect of Sattva.Rajasic Faith in the worship of the Yakshas and Rakshasas; which is an effect of Rajas.Tamasic Faith in the worship of the disembodied spirits and ghosts; which is an effect of Tamas.Faith is the main support of life. It is not mere intellectual belief or blind acceptance of pet dogmas or doctrines. You must understand clearly its characteristics; just as you recognise a tree from the fruits; the mind of a man from his speech; and the actions of previous birth from worldly pleasures and pains.Svabhavaja Inherent in their nature born of past Samskaras.Tam Of it; referring to the threefold faith.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.2।। श्रीभगवान् बोले -- मनुष्योंकी वह स्वभावसे उत्पन्न हुई श्रद्धा
@@ -323,6 +340,7 @@ the root cause of birth and death; is destroyed.Faith is born of the individual 
 ।।17.2।। श्री भगवान् ने कहा -- देहधारियों (मनुष्यों) की वह स्वाभाविक
 (ज्ञानरहित) श्रद्धा तीन प्रकार की - सात्त्विक, राजसिक और तामसिक - होती
 हैं, उसे तुम मुझसे सुनो।।
+</details>
 </details>
 
 </div>

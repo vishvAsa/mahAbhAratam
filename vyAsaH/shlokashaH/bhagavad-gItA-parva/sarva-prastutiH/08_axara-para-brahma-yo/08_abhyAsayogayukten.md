@@ -23,8 +23,9 @@ title = "08 अभ्यासयोगयुक्तेन चेतसा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.8॥ अहरहो ऽभ्यासयोगाभ्यां युक्ततया **नान्यगामिना चेतसा** अन्तकाले **परमं पुरुषं दिव्यं** मां वक्ष्यमाणप्रकारं **चिन्तयन्** माम् एव **याति** आदिभरतमृगत्वप्राप्तिवद् ऐश्वर्यविशिष्टतया मत्समानाकारो भवति। अभ्यासो नित्यनैमित्तिकाविरुद्वेषु सर्वेषु कालेषु मनसा उपास्यसंशीलनं योगस् त्व् अहरहः योगकाले अनुष्ठीयमानं यथोक्तलक्षणम् उपासनम्।
@@ -39,12 +40,14 @@ title = "08 अभ्यासयोगयुक्तेन चेतसा"
 
 8.8 Contemplating on Me, the Supreme Divine Person, in the way to be specified further, at the last moment, with a mind trained by constant practice and Yoga, and not moving towards anything else, one reaches Me alone, i.e., attains a form similar to that of Mine, by virtue of the attributes of enjoyment and the prosperity contemplated upon, like the royal sage Bharata who acired the form of a deer on account of contemplating on it at the last moment. Abhyasa is the training of the mind to be often in touch with the object of meditation at all times without obstruction to the performance of the prescribed periodical and occasional rituals. Yoga is the meditation practised day by day at the time of Yoga practice in the manner prescribed.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.8॥ --,**अभ्यासयोगयुक्तेन** मयि चित्तसमर्पणविषयभूते एकस्मिन् तुल्यप्रत्ययावृत्तिलक्षणः विलक्षणप्रत्ययानन्तरितः अभ्यासः स,चाभ्यासो योगः तेन युक्तं तत्रैव व्यापृतं योगिनः चेतः तेन **चेतसा नान्यगामिना** न अन्यत्र विषयान्तरे गन्तुं शीलम् अस्येति नान्यगामि तेन नान्यगामिना **परमं** निरतिशयं **पुरुषं दिव्यं** दिवि सूर्यमण्डले भवं **याति** गच्छति हे **पार्थ अनुचिन्तयन्** शास्त्राचार्योपदेशम् अनुध्यायन् इत्येतत्॥ किं विशिष्टं च पुरुषं याति इति उच्यते --,
 </details>
@@ -173,12 +176,14 @@ to what kind of a Person does he go; This is being stated:
 दिव्यं दिवि द्योतनात्मन्यादित्ये भवंयश्चासावादित्ये इति श्रुतेः याति
 गच्छति। हे,पार्थ अनुचिन्तयन् शास्त्राचार्योपदेशमनुध्यायन्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.8॥ सदा तद्भावभावितत्वं स्पष्टयति -- अभ्यासेति। अभ्यास एव
 योगोऽभ्यासयोगः। दिव्यं पुरुषं पुरिशयं पूर्णं च स वा अयं पुरुषः सर्वासु
@@ -201,12 +206,14 @@ to what kind of a Person does he go; This is being stated:
 भवतीति कश्चित् (शं.) अत आह -- **दिव्यमि**ति। औणादिको यक्प्रत्ययः।
 परममिति विशेषणादिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.8॥ अभ्यासेति। अनुचिन्तयन् इति -- शरीरभेदानन्तरं निवृत्तकलेवरकृतव्यथः पश्चाद्भगवन्तं चिन्तयन्निति।
 </details>
@@ -215,12 +222,14 @@ to what kind of a Person does he go; This is being stated:
 
 8.8 Abhyasa-etc., He, who is engaged in the after-reflection : he who reflects on the Bhagavat after the pain created by the body has ended following the break of \[his connection with\] the body.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.8 -- 8.9॥ एवं सप्तप्रश्नानामुत्तरं निरूप्य प्रयाणकाले योगिनां
 ज्ञानिनां भक्तानां च तत्तत्स्वरूपप्राप्त्यात्मकं फलमाह -- अभ्यासयोगेति।
@@ -243,20 +252,26 @@ to what kind of a Person does he go; This is being stated:
 चिन्तयन् स्मरन् हे पार्थ तमेव याति प्राप्नोतीत्यर्थः। पार्थेति सम्बोधनेन
 पृथासम्बन्धान्मत्कृतस्मरणानन्तरस्मरणेन यथा त्वं मामाप्नोषीति बोध्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.8॥ संततस्मरणस्य चाभ्यासोऽन्तरङ्गसाधनमिति दर्शयन्नाह **--
 अभ्यासेति।** अभ्यासः सजातीयप्रत्ययप्रवाहः स एव योग उपायस्तेन
 युक्तेनैकाग्रेण अतएव नान्यं विषयं गन्तुं शीलं यस्य तेन चेतसा दिव्यं
 द्योतनात्मकं परमं पुरुषं परमेश्वरमनुचिन्तयन् हे पार्थ तमेव यातीति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.8 O son of Prtha, by meditating with a mind which is engaged in the yoga of practice and which does not stray away to anything else, one reaches the supreme Person existing in the effulgent region.
@@ -283,11 +298,13 @@ to what kind of a Person does he go; This is being stated:
 meditating.Commentary Abhyasa means practice. Practice is the constant repetition of one idea of God. In the practice of meditation Vijatiya Vrittis (worldly thoughts or thoughts of a type different from the object of meditation) are shut out and there is Sajatiya Vrittipravaha
 (continous flow of thoughts of the Self or the Absolute alone). This is Abhyasa. Abhyasa is Yoga. This will terminate in Nirvikalpa Samadhi. The Yogi with Samahita Chitta (eanimity of mind) attains Paramatman or the Supreme Soul. Just as the rivers abandoning their names and forms because one with the ocean; so also the sage or the Vidvan; being liberated from names and forms; and virtue and vice; becomes identical with the Supreme Self.The most vital factor in this practice is regularity. Be regular in your meditation. You will soon reach the goal.Purusham Divyam The resplendent; transcendental Being or the Inner Ruler (Antaryamin) in the solar orb.He who meditates constantly without allowing the mind to wander among the sensual objects; in accordance with the instructions of the scriptures and the perceptor reaches the Supreme Purusha.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.8।। हे पृथानन्दन ! अभ्यासयोगसे युक्त और अन्यका चिन्तन न करनेवाले
@@ -343,6 +360,7 @@ meditating.Commentary Abhyasa means practice. Practice is the constant repetitio
 
 ।।8.8।। हे पार्थ ! अभ्यासयोग से युक्त अन्यत्र न जाने वाले चित्त से
 निरन्तर चिन्तन करता हुआ (साधक) परम दिव्य पुरुष को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

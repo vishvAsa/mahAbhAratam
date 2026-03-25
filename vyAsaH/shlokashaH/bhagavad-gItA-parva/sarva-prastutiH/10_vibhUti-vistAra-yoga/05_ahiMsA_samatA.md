@@ -23,8 +23,9 @@ title = "05 अहिंसा समता"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.5॥**बुद्धिः** मनसो निरूपणसामर्थ्यम्; **ज्ञानं** चिदचिद्वस्तुविशेषविषयः निश्चयः। **असम्मोहः** पूर्वगृहीताद् रजतादेर् विसजातीये शुक्तिकादिवस्तुनि सजातीयताबुद्धिनिवृत्तिः। **क्षमा** मनोविकारहेतौ सत्य् अप्य् अविकृतमनस्त्वम्। **सत्यं** यथादृष्टविषयं भूतहितरूपं वचनम्; तद्नुगणा मनोवृत्तिर् इह अभिप्रेता; मनोवृत्तिप्रकरणात्। **दमः** बाह्यकरणानाम् अनर्थविषयेभ्यो नियमनम्। **शमः** अन्तःकरणस्य तथा नियमनम्। **सुखम्** आत्मानुकूलानुभवः। **दुःखं** प्रतिकूलानुभवः। **भवो** भवनम् अनुकूलानुभवहेतुकं मनसो भवनम्। **अभावः,प्रतिकूलानुभवहेतुको मनसो ऽवसादः।** भयम् **आगामिनो दुःखस्य हेतुदर्शनजं दुःखम्; तन्निवृत्तिः** अभयम्। **अहिंसा परदुःखाहेतुत्वम्।** समता **आत्मनि सुहृत्सु विपक्षेषु च अर्थानर्थयोः सममतित्वम्।** तुष्टिः **सर्वेष्व् आत्मसु दृष्टेषु तोषस्वभावत्वम्।** तपः **शीस्त्रीयो भोगसङ्कोचरूपः कायक्लेशः।** दानं **स्वकीयभोग्यानां परस्मै प्रतिपादनम्।** यशो **गुणवत्ताप्रथा;** अयशः **नैर्गुण्यप्रथा; कीर्त्यकीर्त्यनुगुणमनोवृत्तिविशेषौ तथा उक्तौ; मनोवृत्तिप्रकरणात्। तपोदाने च तथा। एवमाद्याः सर्वेषां** भूतानां भावाः **प्रवृत्तिनिवृत्तिहेतवो मनोवृत्तयो** मत्त एव **मत्सङ्कल्पायत्ता भवन्ति। सर्वस्य भूतजातस्य सृष्टिस्थित्योः प्रवर्तयितारश् च मत्सङ्कल्पायत्तप्रवृत्तय इत्याह --**
@@ -45,12 +46,14 @@ is freedom from the delusion of perceiving as silver the mother-of-pearl etc., w
 'Infamy' is notoriety of possessing bad alities. The workings of the mind which are in accordance with fame and infamy must be understood here, because it is the subject-matter of the context. Austerity and beneficence are to be understood in the same way. All these mental faculties - these functioning of the mind - resulting either in activity or inactivity, are from Me alone, i.e., are dependent on My volition.
 Sri Krsna declares: 'Thos agents who direct the creation, sustentation etc., of all beings, have their activity dependent on My Will.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.5॥ --,**अहिंसा** अपीडा प्राणिनाम्। **समता** समचित्तता। **तुष्टिः** संतोषः पर्याप्तबुद्धिर्लाभेषु। **तपः** इन्द्रियसंयमपूर्वकं शरीरपीडनम्। **दानं** यथाशक्ति संविभागः। **यशः** धर्मनिमित्ता कीर्तिः। **अयश**स्तु अधर्मनिमित्ता अकीर्तिः। **भवन्ति भावाः** यथोक्ताः बुद्ध्यादयः **भूतानां** प्राणिनां **मत्तः एव** ईश्वरात् **पृथग्विधाः** नानाविधाः स्वकर्मानुरूपेण॥ किञ्च --,
 </details>
@@ -132,12 +135,14 @@ Self.\] from God, in accordanced with their actions. Moreover,
 परमेश्वरादेव भवन्ति नान्यस्मात्। तस्मात्किं वाच्यं मम
 लोकमहेश्वरत्वमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.5॥ तुष्टिरलम्बुद्धिः। अलम्बुद्धिस्तथा तुष्टिः इत्यभिधानात्।
 </details>
@@ -147,12 +152,14 @@ Self.\] from God, in accordanced with their actions. Moreover,
 ॥10.5॥ सुखशब्दागतार्थतया तुष्टिशब्दं सप्रमाणकं व्याचष्टे --
 **तुष्टिरि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.1 -- 10.5॥ प्राक्तनैर्नवभिरध्यायैर्य एवार्थो लक्षितः; स एव प्रतिपदपाठैरस्मिन्नध्याये प्रतायते। तथा चाह -- भूय एव इति। उक्तमेवार्थं स्फुटीकर्तुं +++(;N;K विस्पष्टीकर्तुं)+++ पुनः कथ्यमानं श्रृण्विति। अर्जुनोऽपि एवमेवाभिधास्यति भूयः कथय +++(X; 18)+++ इति। इत्यध्यायतात्पर्यम्। शिष्टं निगदव्याख्यातमिति ( -- व्याख्यानमिति) किं पुनरुक्तेन सन्दिग्धं तु निर्णेष्यते। भूय इत्यादि पृथग्विधा इत्यन्तम्। असंमोहः उत्साहः।
 </details>
@@ -161,12 +168,14 @@ Self.\] from God, in accordanced with their actions. Moreover,
 
 10.1-5 The subject-matter that has been indicated in the previous nine chapters - the same in being detailed here in this chapter by citing individual instances. That is why \[the Bhagavat\] says 'Yet again etc.' (10.X, 1). He thus indicates 'Hear the subject matter, which has already been related to you, but which once again being explained in order to make it clear'. Arjuna too says in the seel likewise 'Tell me once again etc.' (10.X, 18). This is the purport of \[this\] chapter. Other items are clear by mere reciting. Hence, why to repeat them ; However, whatever is doubtful that shall be decided \[then and there\]. Bhuyah etc. upto prthagvidhah. Steadiness is that which induces one.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.4 -- 10.5॥ किञ्च अचिन्त्यैश्वर्ययोगकल्याणगुणान्मत्त एव
 बुद्धिर्ज्ञानं च भवति। ज्ञानमित्युपलक्षणं सर्वस्य सदसद्गुणसर्गस्यमत्तः
@@ -192,10 +201,13 @@ Self.\] from God, in accordanced with their actions. Moreover,
 पृथग्विधाः भिन्नाः मत्कृपाविशिष्टमज्ज्ञानवतां बुद्ध्यादयः सर्वे भवन्ति।
 अन्येषाप्नयशस्सहितदुःखादिचतुष्टया भावा भवन्तीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.5॥ किंच **-- अहिंसेति।** अहिंसा परपीडानिवृत्तिः; समता
 रागद्वेषादिराहित्यं; मित्रामित्रतुल्यता च; तुष्टिर्दैवलब्धेन संतोषः; तपः
@@ -204,10 +216,13 @@ Self.\] from God, in accordanced with their actions. Moreover,
 बुद्धिर्ज्ञानमित्यादयस्तद्विपरीताश्चाबुद्ध्यादयो नानाविधा भावाः
 प्राणिनां मत्तः सकाशादेव भवन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.5 Non-violence, eality, cheerfulness, austerity, beneficence, fame and infamy- these different alities of beings arise from Me alone.
@@ -245,11 +260,13 @@ of different kinds. Commentary Ahimsa is noninjury to living beings in thought; 
 He is satisfied with his present acisitions. He is free from greed and so he has peace of mind. Contentment makes a man very rich. It annihilates greed. Greed makes even a rich man a beggar of beggars. A greedy man is ever restless. Tapas is restraint of the senses; with bodily mortification through the practice of fasting and slow reduction of food. The strength of the body and the senses is reduced through fasting.Danam is beneficence. It is sharing of ones own things with others according to ones own means; or distribution of rice; gold;
 cloth; etc.; to a worthy person; in a fit place and time; especially to one who can do nothign in return.Yasas is fame due to Dharma or virtuous actions.Ayasah is illfame or disgrace due to Adharma or sinful actions.All these different kinds of alities of living beings arise from Me alone; the great Lord of the worlds; according to their respective Karmas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.4 -- 10.5।। बुद्धि, ज्ञान, असम्मोह, क्षमा, सत्य, दम, शम, सुख, दुःख,
@@ -298,6 +315,7 @@ cloth; etc.; to a worthy person; in a fit place and time; especially to one who 
 
 ।।10.5।। अहिंसा, समता, सन्तोष, तप, दान. यश और अपयश ऐसे ये प्राणियों के
 नानाविध भाव मुझ से ही प्रकट होते हैं।।
+</details>
 </details>
 
 </div>

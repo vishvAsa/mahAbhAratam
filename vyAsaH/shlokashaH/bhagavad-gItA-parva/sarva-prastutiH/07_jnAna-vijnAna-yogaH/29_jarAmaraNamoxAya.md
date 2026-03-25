@@ -23,8 +23,9 @@ title = "29 जरामरणमोक्षाय"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.29॥**जरामरणमोक्षाय** प्रकृतिवियुक्तात्मस्वरूपदर्शनाय **माम् आश्रित्य ये** यतन्ते **ते तद् ब्रह्म विदुर् अध्यात्मं** च **कृत्स्नं विदुः कर्म च अखिलं** विदुः।
@@ -39,12 +40,14 @@ title = "29 जरामरणमोक्षाय"
 
 7.29 Those who take refuge in Me and strive for deliverance from old age and death, i.e., for the vision of the real nature of the self as distinct from the Prakrti, they know brahman (the pure individual self). They also know all about the individual self, and the whole of Karma. \[This attainment is known as Kaivalya, which means the aloofness of the self in absorption in Its own bliss.\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.29॥ **जरामरणमोक्षाय** जरामरणयोः मोक्षार्थं **मां** परमेश्वरम् **आश्रित्य** मत्समाहितचित्ताः सन्तः **यतन्ति** प्रयतन्ते **ये ते** यत् **ब्रह्म** परं **तत् विदुः कृत्स्नं** समस्तम् **अध्यात्मं** प्रत्यगात्मविषयं वस्तु तत् विदुः **कर्म च अखिलं** समस्तं विदुः॥
 </details>
@@ -122,12 +125,14 @@ actions.
 त्वंपदलक्ष्यं विदुः। कर्म च तदुभयवेदनसाधनं गुरूपसदनश्रवणमननाद्यखिलं
 निरवशेषं फलाव्यभिचारि विदुर्जानन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.29॥ जरामरणमोक्षाय इत्यन्यकामव्यावृत्त्यर्थं मोक्षे सक्तिस्तुत्यर्थ
 वा न विधिःमुमुक्षोरमुमुक्षुस्तु वरो ह्येकान्तभक्तिभाक् इति
@@ -167,12 +172,14 @@ actions.
 विना ज्ञानस्यान्योपायाभावः प्रमितः स्यात्। स एव कुतः इत्यत आह **यमि**ति।
 भक्तमेव च वृणुत इति च प्रसिद्धम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md"></div>
 </details>
 
@@ -180,12 +187,14 @@ actions.
 
 7.29 See Comment under 7.30
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.29॥ एवं पूर्वोक्तेषु चतुर्षु भजमानेषु ज्ञानिभक्तानामुत्कर्ष उक्तः
 आर्त्तार्थार्थिनस्तु भगवतः सकाशात्फलं प्राप्य पश्चान्मुमुक्षवो भूत्वा
@@ -206,10 +215,13 @@ actions.
 साधनरूपं विदुः। च पुनः कर्म सेवारूपं तत्साधनात्मकमखिलं भावादियुक्तं
 जानन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.29॥ एवं च मां भजन्तस्ते सर्वं विज्ञेयं विज्ञाय कृतार्था भवन्तीत्याह
 **जरामरणेति।** जरामरणयोर्निरासार्थं मामाश्रित्य ये प्रयतन्ते ते तत्परं
@@ -217,10 +229,13 @@ actions.
 देहादिव्यतिरिक्तं शुद्धमात्मानं च जानन्तीत्यर्थः। तत्साधनभूतमखिलं
 सरहस्यं कर्मं च जानन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.29 Those who take refuge in Me and strive for deliverance from old age and death, know brahman (or the self) all about the nature of that self,
@@ -255,11 +270,13 @@ and all about actions. \[They know Brahman as being all the individual entities 
 Brahman; तत् that; विदुः know; कृत्स्नम् the whole; अध्यात्मम् knowledge of the Self; कर्म action; च and; अखिलम् whole.Commentary They attain to the full knowledge of the Self or perfect knowledge of Brahman. They attain to the Bhuma or the Highest or the Unconditioned. All their doubts are totally destroyed. They fully realise now; All is Vaasudeva.
 All indeed is Brahman. There is no such thing as diversity.They are not rorn here and have thus conered old age and death. They are liberated here and now.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.29।। जरा (वृद्धावस्था) और मरण (मृत्यु) से मोक्ष पानेके लिये जो
@@ -359,6 +376,7 @@ All indeed is Brahman. There is no such thing as diversity.They are not rorn her
 ।।7.29।। जो मेरे शरणागत होकर जरा और मरण से मुक्ति पाने के लिए यत्न करते
 हैं, वे पुरुष उस ब्रह्म को, सम्पूर्ण अध्यात्म को और सम्पूर्ण कर्म को
 जानते हैं।।
+</details>
 </details>
 
 </div>

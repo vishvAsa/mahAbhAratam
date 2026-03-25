@@ -23,8 +23,9 @@ title = "41 ब्राह्मणक्षत्रियविशां"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.41॥**ब्राह्मणक्षत्रियविशां** स्वकीयो भावः स्वभावः ब्रह्मणादिजन्महेतुभूतं प्राचीनं कर्म इत्यर्थः। तत्प्रभवाः सत्त्वादयो गुणा ब्राह्मणस्य स्वभावप्रभवो रजस्तमोऽभिभवेन उद्भूतः सत्त्वगुणः; क्षत्रियस्य स्वभावप्रभवः सत्त्वतमसोर् अभिभवेन उद्भूतो रजोगुणः; वैश्यस्य स्वभावप्रभवः सत्त्वरजोऽभिभवेन अल्पोद्रिक्तस् तमोगुणः; शूद्रस्य स्वभावप्रभवस् तु रजःसत्त्वाभिभवेन अत्युद्रिक्तस् तमोगुणः। एभिः **स्वभावप्रभवैर् गुणैः सह प्रविभक्तानि कर्माणि** शास्त्रैः प्रतिपादितानि। ब्राह्मणादय एवङ्गुणकास् तेषां च तानि कर्माणि वृत्तयश् च एता इति हि विभज्य प्रतिपादयन्ति शास्त्राणि।
@@ -41,12 +42,14 @@ title = "41 ब्राह्मणक्षत्रियविशां"
 
 18.41 The nature of Brahmanas, Ksatriyas, Vaisyas, and Sudras are due to their respective inherent dispositions. The meaning is that their past Karma has been the cause of determining births as Brahmanas etc. The Sattva and other Gunas are the result of such Karma. The Sattva-guna is born from the inherent nature of the Brahmana becoming dominant by suppressing the alities of Rajas and Tamas. The ality of Rajas originates from the inherent nature of the Ksatriyas becoming dominant by suppressing alities of Sattva and Tamas. Tamoguna arises from the inherent nature of the Vaisya, becoming dominant in a little way by suppressing Sattva and Rajas. The duties and works assigned to them according to the Gunas constituting their inherent nature, are expounded and allotted by the Sastras in the order described. For the Sastras analyse that the Brahmanas etc., possess such and such attributes and such and such are their duties and occupations.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.41॥ --,ब्राह्मणाश्च क्षत्रियाश्च विशश्च ब्राह्मणक्षत्रियविशः; तेषां **ब्राह्मणक्षत्रियविशां शूद्राणां च** -- शूद्राणाम् असमासकरणम् एकजातित्वे सति वेदानधिकारात् -- हे **परंतप; कर्माणि प्रविभक्तानि** इतरेतरविभागेन व्यवस्थापितानि। केन **स्वभावप्रभवैः** **गुणैः;** स्वभावः ईश्वरस्य प्रकृतिः त्रिगुणात्मिका माया सा प्रभवः येषां गुणानां ते स्वभावप्रभवाः; तैः; शमादीनि कर्माणि प्रविभक्तानि ब्राह्मणादीनाम्। अथवा ब्राह्मणस्वभावस्य सत्त्वगुणः प्रभवः कारणम्; तथा क्षत्रियस्वभावस्य सत्त्वोपसर्जनं रजः प्रभवः; वैश्यस्वभावस्य तमउपसर्जनं रजः प्रभवः; शूद्रस्वभावस्य रजउपसर्जनं तमः प्रभवः; प्रशान्त्यैश्वर्येहामूढतास्वभावदर्शनात् चतुर्णाम्। अथवा; जन्मान्तरकृतसंस्कारः प्राणिनां वर्तमानजन्मनि स्वकार्याभिमुखत्वेन अभिव्यक्तः स्वभावः; सः प्रभवो येषां गुणानां ते स्वभावप्रभवाः गुणाः गुणप्रादुर्भावस्य निष्कारणत्वानुपपत्तेः। स्वभावः कारणम् इति च कारणविशेषोपादानम्। एवं स्वभावप्रभवैः प्रकृतिभवैः सत्त्वरजस्तमोभिः गुणैः स्वकार्यानुरूपेण शमादीनि कर्माणि प्रविभक्तानि॥ ननु शास्त्रप्रविभक्तानि शास्त्रेण विहितानि ब्राह्मणादीनां शमादीनि कर्माणि कथम् उच्यते सत्त्वादिगुणप्रविभक्तानि इति नैष दोषः शास्त्रेणापि ब्राह्मणादीनां सत्त्वादिगुणविशेषापेक्षयैव शमादीनि कर्माणि प्रविभक्तानि; न गुणानपेक्षया; इति शास्त्रप्रविभक्तान्यपि कर्माणि गुणप्रविभक्तानि इति उच्यते॥ कानि पुनः तानि कर्माणि इति; उच्यते --,
 </details>
@@ -301,12 +304,14 @@ duties; They are being spoken of:
 तु शूद्रस्य प्रभुः कर्म समादिशत्। एतेषामेव वर्णानां शुश्रूषामनसूया॥
 इति। एवं चतुर्णामपि वर्णानां गुणभेदेन कर्माणि प्रविभक्तानि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.41॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -315,12 +320,14 @@ duties; They are being spoken of:
 
 ॥18.41॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -331,12 +338,14 @@ duties; They are being spoken of:
 
 18.41 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.41॥ एवं च त्यागेनैकेऽमृतत्वमानशुः \[महाना.8।14कैव.2\] इति
 मोक्षसाधनतया निर्दिष्टः त्यागः सन्न्यासशब्दार्थः; न तदन्यः स च
@@ -364,10 +373,13 @@ duties; They are being spoken of:
 तैरेतादृशैर्गुणैः कर्माणि प्रविभक्तानि प्रकर्षेण विभागतः
 सात्त्विकादेर्विहितानीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.41॥ ननु च यद्येवं सर्वमपि क्रियाकारकफलादिकं प्राणिजातं च
 त्रिगुणात्मकमेव कथं तर्ह्यस्य मोक्ष इत्यपेक्षायां स्वस्वाधिकारविहितैः
@@ -381,10 +393,13 @@ duties; They are being spoken of:
 सत्त्वप्रधाना ब्राह्मणाः; सत्त्वोपसर्जनरजःप्रधानाः क्षत्रियाः;
 तमउपसर्जनरजःप्रधाना वैश्याः; रजउपसर्जनतमःप्रधानाः शूद्राः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.41 The duties of the Brahmanas, Ksatriyas, Vaisyas and the Sudras are clearly divided, O Arjuna, according to Gunas, born of their nature.
@@ -420,11 +435,13 @@ the duties are distributed according to the alities born of their own nature.
 they can attain Selfrealisation or knowledge of the Self. Passion
 (Rajas) slightly mingled with Tamas causes the growth of the merchant caste (the Vaisya). Rajas mixed with Tamas is the cause of the appearance of the Sudra.The one human race has been divided into four castes based upon the three alities. The duties are allotted to each according to the alities born of Nature.Nature (Svabhava) is Isvaras Prakriti (Maya) constituted of the three alities -- Sattva; Rajas and Tamas.The Brahmanas nature is Sattva. So he is serene. The nature of the Kshatriya is Rajas and Sattva. Sattva in his case is subordinate to Rajas. Rajas predominates. Therefore he possesses lordliness. The nature of the Vaisya is Rajas and Tamas. Tamas is subordinate to Rajas. So he does various sorts of activities or business to earn money. The nature of the Sudra is Tamas; with subordinate Rajas. He is dull.Karma is action arising from and fashioned by past thoughts and desires. The Gunas cannot manifest themselves without a cause. Nature is the tendency; Samskara or Vasana in living beings. This is acired by them in the past births. This manifests itself in the present birth and produces its effects. This nature is the source of the Gunas. Every man or woman is born with his or her own Svabhava (nature). The Gunas operate according to the respective natural tendencies of man which impel him to perform his own duties as their natural effects. The duties are allottted to the four classes or castes in accordance with the Gunas of individuals. (Cf.IV.13)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.41।। हे परंतप ! ब्राह्मण, क्षत्रिय, वैश्य और शूद्रोंके कर्म स्वभावसे
@@ -550,6 +567,7 @@ they can attain Selfrealisation or knowledge of the Self. Passion
 
 ।।18.41।। हे परन्तप! ब्राह्मणों, क्षत्रियों, वैश्यों और शूद्रों के
 कर्म, स्वभाव से उत्पन्न गुणों के अनुसार विभक्त किये गये हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "12 काङ्क्षन्तः कर्मणाम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.12॥ सर्व एव पुरुषाः **कर्मणां** फलं काङ्क्षमाणा इन्द्रादि**देवता** यथाशास्त्रं **यजन्ते** आराधयन्ति। न तु कश्चिद् अनभिसंहितफल इन्द्रादिदेवतात्मभूतं सर्वयज्ञानां भोक्तारं मां यजते। कुत एतद् यतः **क्षिप्रम्** अस्मिन् एव **मानुषे लोके कर्मजा** पुत्रपश्वन्नाद्या **सिद्धिर् भवति।** मनुष्यलोकशब्दः स्वर्गादिलोकप्रदर्शनार्थः। सर्व एव हि लौकिकाः पुरुषा अक्षीणानादिकालप्रवृत्तानन्तपापसञ्चयतया अविवेकिनः क्षिप्रफलाभिकाङ्क्षिणः पुत्रपश्वन्नादिस्वर्गाद्यर्थतया सर्वाणि कर्माणि इन्द्रादिदेवताराधनमात्राणि कुर्वते न तु कश्चित् संसारोद्विग्नहृदयो मुमुक्षुर् उक्तलक्षणं कर्मयोगं मदाराधनभूतम् आरभते इत्यर्थः। यथोक्तकर्मयोगारम्भविरोधिपापक्षयहेतुम् आह
@@ -39,12 +40,14 @@ title = "12 काङ्क्षन्तः कर्मणाम्"
 
 4.12 All men, desirous of the fruits of their actions, 'sacrifice', i.e., worship or propitiate Indra and other divinities only. But nobody worships Me abandoning attachment to fruits - Me, who am the Self of Indra and other divinities and the real enjoyer of all sacrifices. Why is this so; Because in this world of men, fruits in the form of sons, cattle, food etc., follow soon from their performance of such sacrificial rites. The phrase, 'the world of men' implies heaven etc., also. Because the unending accumulation of evil heaped up from beginningless time has not been exhausted, all those worldly people lack discernment. Therefore they want rapid results and perform those rituals which consist of the worship of Indra and other divinities for the sake of sons, cattle, food etc., and for the sake of heaven etc. But none with his mind anguished by Samsara and aspiring for final release, practises Karma Yoga of the kind described above. Real Karma Yoga is My worship. Sri Krsna now speaks of the cause which annuls the evil obstructing the starting of Karma Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.12॥ **काङ्क्षन्तः** अभीप्सन्तः **कर्मणां सिद्धिं** फलनिष्पत्तिं प्रार्थयन्तः **यजन्ते इह** अस्मिन् लोके **देवताः** इन्द्राग्न्याद्याः अथ योऽन्यां देवतामुपास्ते अन्योऽसावन्योऽहमस्मीति न स वेद यथा पशुरेवं स देवानाम् (बृ0 उ₀ 1.4.10) इति श्रुतेः। तेषां हि भिन्नदेवतायाजिनां फलाकाङ्क्षिणां क्षिप्रं शीघ्रं हि यस्मात् **मानुषे लोके** मनुष्यलोके हि शास्त्राधिकारः। क्षिप्रं हि मानुषे लोके इति विशेषणात् अन्येष्वपि कर्मफलसिद्धिं दर्शयति भगवान्। मानुषे लोके वर्णाश्रमादिकर्माणि इति विशेषः तेषां च वर्णाश्रमाद्यधिकारिकर्मणां फल**सिद्धिः** क्षिप्रं **भवति। कर्मजा** कर्मणो जाता॥ मानुषे एव लोके वर्णाश्रमादिकर्माधिकारः न अन्येषु लोकेषु इति नियमः किंनिमित्त इति अथवा वर्णाश्रमादिप्रविभागोपेताः मनुष्याः मम वर्त्म अनुवर्तन्ते सर्वशः इत्युक्तम्। कस्मात्पुनः कारणात् नियमेन तवैव वर्त्म अनुवर्तन्ते न अन्यस्य इति उच्यते
 </details>
@@ -160,12 +163,14 @@ alone, but not of others; This is being answered:
 यतस्तत्तत्क्षुद्रफलसिद्ध्यर्थं सकामा मोक्षविमुखाः अन्या देवता यजन्तेऽतो
 न मुमुक्षव इव मां वासुदेवं साक्षात्ते प्रपद्यन्त इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.12॥ कुतो मम वर्त्मानुवर्तन्ते क्षिप्रं हि अत एव हि फलप्राप्तिः।
 तस्मात्ते धनसनयः छां.उ.1।7।6 इति श्रुतिः।
@@ -183,12 +188,14 @@ alone, but not of others; This is being answered:
 ही**ति भगवत एव। अत्र हीति सूचितं प्रमाणमाह **तस्मादि**ति। धनसनयो
 धनलाभवन्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.11 4.12॥ यतः ये यथेति। कांक्षन्त इति। ये यथैव +++(S K ययैव)+++ बुद्ध्या मामाश्रयन्ते तान् प्रति तदेव स्वरूपमहं गृह्णन् ताननुगृह्णामि। एवमेव मदीयं मार्गं मन्मया अमन्मयाश्च सर्व एवानुवर्तन्ते। न हि ज्योतिष्टोमादिरन्यो मार्गः मदीयैव सा तथेच्छा। वक्ष्यते हि चातुर्वर्ण्य मया सृष्टमिति। अन्यस्तु आह लिङ्गर्थे लट् यथा अतिरात्रे षोडशिनं गृह्णन्ति इत्यत्र +++(S omits इत्यत्र)+++ गृह्णीयु इत्यर्थः एवमिहापि अनुवर्तन्ते +++(N omits अनुवर्तन्ते)+++ अनुवर्तेरन् इति। मानुषे एव लोके भोगापवर्गलक्षणा सिद्धिः नान्यत्रेति।
 </details>
@@ -197,12 +204,14 @@ alone, but not of others; This is being answered:
 
 4.11-12 Ye yatha etc. and Kanksantah etc. Different persons with differents forms in their mind take refuge in Me. Assuming the same \[respective\] forms for them I favour the. Only in this manner, those who are full of Me and those who are not so-all just follow my Path. For \[even the performance of sacrifices\] Jyotistoma and so on, is not a different path; that is also My own will of that nature. Indeed it is going to be declared \[by the Lord\] as 'the four-fold caste-structure has been created by Me'. Some one says : The Present Tense (anuvarttante) is in the sense of Potential. Just as in the sentence 'They take hold of the group of sixteen in the Atiratra \[sacrifce\]', the expression 'They take hold of' means 'They should take hold of' in the same way in the present sentence too 'they follow', means 'they should follow'. The success \[of the action\] viz., the enjoyment and emancipation is \[achieved\] here alone in this word of men and not anywhere else.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.12॥ ननु देवान्तरभजनमन्ये कुर्वन्ति इह किं इति तत्राह काङ्क्षन्त इति।
 हि यतः देवान्तरभजनेन कृत्वा शीघ्रं मानुषे लोके सिद्धिः फलं प्राकृतं
@@ -229,10 +238,13 @@ alone, but not of others; This is being answered:
 मत्स्वरूपत्वादत्रैव लौकिकदेहेन लौकिकफलसिद्धिर्युक्तैवेति ज्ञापनाय
 हीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.12॥ तर्हि मोक्षार्थमेव किमिति सर्वे त्वां न भजन्तीत्यत आह
 **काङ्क्षन्त इति।** कर्मणां सिद्धिं फलं काङ्क्षन्तः प्रायशः इह
@@ -240,10 +252,13 @@ alone, but not of others; This is being answered:
 सिद्धिः कर्मजं फलं शीघ्रं भवति नतु ज्ञानफलं कैवल्यम्।
 दुष्प्राप्यत्वाज्ज्ञानस्य।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.12 Those who desire the fruits of their ritualistic acts, sacrifice to the gods here; for, success born of such acts ickly accrues in the world of men.
@@ -278,11 +293,13 @@ success; यजन्ते sacrifice; इह in this world; देवताः 
 ickly; हि because; मानुषे in the human; लोके (in the) world; सिद्धिः
 success; भवति is attained; कर्मजा born of action.Commentary It is very difficult to attain to the knowledge of the Self or Selfrealisation. It demans perfect renunciation. The aspirnat should possess the four means and many other virtues; and practise constant and intense meditaion. But worldly success can be attained ickly and easily.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.12।। कर्मोंकी सिद्धि (फल) चाहनेवाले मनुष्य देवताओंकी उपासना किया
@@ -402,6 +419,7 @@ success; भवति is attained; कर्मजा born of action.Commentary 
 ।।4.12।। (सामान्य मनुष्य) यहाँ (इस लोक में) कर्मों के फल को चाहते हुये
 देवताओं को पूजते हैं; क्योंकि मनुष्य लोक में कर्मों के फल शीघ्र ही
 प्राप्त होते हैं।।
+</details>
 </details>
 
 </div>

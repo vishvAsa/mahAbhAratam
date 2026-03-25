@@ -23,8 +23,9 @@ title = "54 ब्रह्मभूतः प्रसन्नात्मा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.54॥ ब्रह्मभूत आविर्भूतापरिच्छिन्नज्ञानैकाकारमच्छेषतैकस्वभावात्मस्वरूपः। इतस्त्वन्यां प्रकृतिं विद्धि मे पराम्। (गीता 7।5) इति हि स्वशेषता उक्ता।**प्रसन्नात्मा** क्लेशकर्मादिभिर् अकलुषस्वरूपो मद्व्यतिरिक्तं **न** कञ्चन भूतविशेषं प्रति **शोचति** न कञ्चन **काङ्क्षति** अपि तु मद्व्यतिरिक्तेषु **सर्वेषु भूतेषु** अनादरणीयतायां **समो** निखिलं वस्तुजातं तृणवन् मन्यमानो **मद्भक्तिं लमते पराम्। मयि सर्वेश्वरे निखिलजगदुद्भवस्थितिप्रलयलीले निरस्तसमस्तहेयगन्धे अनवधिकातिशयासङ्ख्येयकल्याणगुणगणैकताने लावण्यामृतसागरे श्रीमति पुण्डरीकनयने स्वस्वामिन्य् अत्यर्थप्रियानुभवरूपां परां भक्तिं लभते। तत्फलम् आह --**
@@ -42,12 +43,14 @@ title = "54 ब्रह्मभूतः प्रसन्नात्मा"
 18.54 'Having realised the state of Brahman,' means having got from revelation an understanding of the nature of the self as consisting of unlimited knowledge and of being a Sesa (subservient being) to Me. Subservience to Me has been posited in, 'Know that which is other than this (Prakrti or lower Nature) to be the higher Prakrti of Mine' (7.5). One who is 'tranil' means one who is not contaminated by various forms of grief (the five Klesas of Yoga-sutras), and does not grieve about any being other than Myself, nor desires anything other than Myself. On the other hand, he becomes eally indifferent to all beings other than Myself as worthless as straw and attains supreme Bhakti for Me. He attains
 'supreme devotion' to Me, which is of the form of an experience which makes Me dear beyond all description - Me the Lord of all, to whom creation, protection and dissolution of the universe is a sport, who is devoid of the slightest trace of evil, who is the sole seat of countless hosts of auspicious attributes which are excellent and unlimited; and who is the ocean of the elixir of beauty; who is the Lord of Sri; who is Lotus-eyed; and who is the self's own Lord. Sri Krsna declares the fruits of this (devotion):
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.54॥ -- **ब्रह्मभूतः** ब्रह्मप्राप्तः **प्रसन्नात्मा** लब्धाध्यात्मप्रसादस्वभावः **न शोचति;** किञ्चित् अर्थवैकल्यम्; आत्मनः वैगुण्यं वा उद्दिश्य न शोचति न संतप्यते **न काङ्क्षति;** न हि अप्राप्तविषयाकाङ्क्षा ब्रह्मविदः उपपद्यते अतः ब्रह्मभूतस्य अयं स्वभावः अनूद्यते -- न शोचति न काङ्क्षति इति। न हृष्यति इति वा पाठान्तरम्। **समः सर्वेषु भूतेषु;** आत्मौपम्येन सर्वभूतेषु सुखं दुःखं वा सममेव पश्यति इत्यर्थः। न आत्मसमदर्शनम् इह; तस्य वक्ष्यमाणत्वात् भक्त्या मामभिजानाति (गीता 18।55) इति। एवंभूतः ज्ञाननिष्ठः; **मद्भक्तिं** मयि परमेश्वरे भक्तिं भजनं **पराम्** उत्तमां ज्ञानलक्षणां चतुर्थीं **लभते;** चतुर्विधा भजन्ते माम् (गीता 7।16) इति हि उक्तम्॥ ततः ज्ञानलक्षणया --,
 </details>
@@ -156,12 +159,14 @@ people৷৷.adore Me' (7.16). Then,
 चतुर्विधा भजन्ते मामित्यत्रोक्तस्य भक्तिचतुष्टयस्यान्त्यां
 ज्ञानलक्षणमिति वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.54॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -170,12 +175,14 @@ people৷৷.adore Me' (7.16). Then,
 
 ॥18.54॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -186,12 +193,14 @@ people৷৷.adore Me' (7.16). Then,
 
 18.54 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.54॥ स ब्रह्मभूतः सर्वनिरपेक्षः शुक इव परां ज्ञानादपि फलरूपां मम
 पुरुषोत्तमस्य क्षराक्षरातीतस्य भक्तिं नवविधां प्रेमलक्षणां लभते;
@@ -225,10 +234,13 @@ people৷৷.adore Me' (7.16). Then,
 भगवल्लीलाज्ञानेन न शोचति; प्राप्तव्यं तदिच्छां विना न काङ्क्षति। सर्वेषु
 भूतेषु कार्यात्मकस्वरूपज्ञानेन समः परां प्रेमलक्षणां मद्भक्तिं लभते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.54॥ ब्रह्माहमित्येवं नैश्चल्येनावस्थानस्य फलमाह **-- ब्रह्मभूत
 इति।** ब्रह्मभूतो ब्रह्मण्यवस्थितः प्रसन्नचित्तो नष्टं न शोचति। न
@@ -236,10 +248,13 @@ people৷৷.adore Me' (7.16). Then,
 रागद्वेषादिकृतविक्षेपाभावात्सर्वभूतेषु मद्भावनालक्षणां परां मद्भक्तिं
 लभते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.54 Having realised the state of Brahman, tranil, he neither grieves nor craves. Regarding all beings alike, he attains supreme devotion to Me.
@@ -273,11 +288,13 @@ all; भूतेषु in beings; मद्भक्तिम् devotion unto 
 supreme.Commentary Brahmabhutah Having attained to Brahman. His attainment of perfect freedom or oneness with the Supreme is described in the next verse.He is tranilminded. He is in a state of balance and eanimity. There is nothing connected with the little personality that may cause him to grieve or prompt him to feel desire. When this state is attained; the multiplicity of objects gradually disappears and he perceives only unity everywhere. The waking and dream consciousness that gives rise to false knowledge gradually passes away.He does not grieve about his bodily wants. If he fails in his attempt to fulfil them; he does not grieve either. He always keeps evenness of mind in success and failure. He has no longing for any object that is not attained.Na sochati na kankshati can also be interpreted as he neither grieves nor exults.Samah sarveshu bhuteshu may also mean he puts himself in the position of others and feels for others. If anyone is in acute agony or distress; he himself feels that he is affected. His heart is very tender and soft. He is extremely compassionate and merciful. He considers that the pleasure and pain of all beings are his own. If others rejoice he also rejoices if others are in distress; he also is distressed. His heart is so much expanded that he feels for all. Jealousy; narrowness of heart; pettymindedness; the idea of separateness; all barriers that separate man from man; prejudices of all sorts and dislike for others --
 all vanished in toto. He has cosmic love. He is a cosmic benefactor. He is the friend of all. This state of expansion is beyond description. One has to experience it for oneself. Such a devotee or aspirant attains supreme devotion to Me; the fourth or the highest of the four kinds of devotion mentioned in verse 16 of chapter VII; viz.; devotion of knowledge of the man of wisdom. (Cf.II.70)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.54।। वह ब्रह्मभूत-अवस्थाको प्राप्त प्रसन्न मनवाला साधक न तो किसीके
@@ -385,6 +402,7 @@ all vanished in toto. He has cosmic love. He is a cosmic benefactor. He is the f
 ।।18.54।। ब्रह्मभूत (जो साधक ब्रह्म बन गया है), प्रसन्न मन वाला पुरुष न
 इच्छा करता है और न शोक, समस्त भूतों के प्रति सम होकर वह मेरी परा भक्ति
 को प्राप्त करता है।।
+</details>
 </details>
 
 </div>

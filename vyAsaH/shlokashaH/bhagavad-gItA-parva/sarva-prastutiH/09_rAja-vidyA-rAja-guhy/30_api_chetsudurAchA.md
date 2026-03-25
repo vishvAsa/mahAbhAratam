@@ -23,8 +23,9 @@ title = "30 अपि चेत्सुदुराचारो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.30॥ तत्र **अपि** तत्र तत्र जातिविशेषे जातानां यः समाचार उपादेयः परिहरणीयश् च; तस्माद् अतिवृत्तो ऽप्य् उक्तप्रकारेण **माम् अनन्यभाक्** भजनैकप्रयोजनो **भजते चेत् साधुर् एव सः** वैष्णवाग्रेसर एव **मन्तव्यः;** बहुमन्तव्यः पूर्वोक्तैः सम इत्यर्थः। कुत एतत् **सम्यग् व्यवसितो हि सः;** यतो ऽस्य व्यवसायः सुसमीचीनः। भगवान् निखिलजगदेककारणभूतः परब्रह्मनारायणश् चराचरपतिर् अस्मत्स्वामी मम गुरुर् मम सुहृद् मम परं भोग्यम् इति सर्वैर् दुष्प्रापो ऽयं व्यवसायस् तेन कृतः; तत्कार्यं च अनन्यप्रयोजनं निरन्तरभजनं तस्य अस्ति; अतः साधुर् एव बहुमन्तव्यः। अस्मिन् व्यवसाये तत्कार्ये च उक्तप्रकारभजने सम्पन्ने सति तस्य **आचारव्यतिक्रमः** स्वल्पवैकल्यम् इति न तावता अनादरणीयः; अपि तु बहुमन्तव्य एव इत्यर्थः।  
@@ -45,12 +46,14 @@ title = "30 अपि चेत्सुदुराचारो"
 
 9.30 Even though he has transgressed rules that ought to be followed and has failed to avoid what a person belonging to a particular class should avoid, if he has begun to worship Me in the manner described above with undivided devotion, namely, with worship as the only purpose - such a person must be considered highly righteous. He is eminent among the worshippers of Visnu. He must be esteemed as fit for honour. The meaning is that he is eal to those Jnanins mentioned earlier. What can be the reason for this; The reason is that, he has rightly resolved, i.e., his resolve is in the proper direction. 'The Lord who forms the sole cause of the entire universe, who is the Supreme Brahman, Narayana, the Lord of all mobile and immobile beings, is our Master, our Teacher, and our Friend, highest object of enjoyment,' - such a resolve is difficult to be made by all. Its effect, unremitting worship which has no other purpose, will be found in him who makes such a resolve. Hence he is holy and is to be highly honoured. When this resolve, and unremitting worship which is its effect, are found in a person, he is not to be belittled; for, his transgression of rules is a negligible mistake compared to this kind of excellence. On the other hand he is to be regarded with high honour. Such is the meaning. No, if it be said that transgression of rules will annul the flow of worship, as declared in the Sruti passages like, 'One who has not ceased from bad conduct, is not tranil, is not composed and also not calm in mind, cannot obtain Him through intelligence' (Ka. U., 1.2.24), Sri Krsna replies:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.30॥ --,**अपि चेत्** यद्यपि **सुदुराचारः** सुष्ठु दुराचारः अतीव कुत्सिताचारोऽपि **भजते माम् अनन्यभाक्** अनन्यभक्तिः सन्; **साधुरेव** सम्यग्वृत्त एव **सः मन्तव्यः** ज्ञातव्यः **सम्यक्** यथावत् **व्यवसितो** हि सः; यस्मात् साधुनिश्चयः सः॥ उत्सृज्य च बाह्यां दुराचारताम् अन्तः सम्यग्व्यवसायसामर्थ्यात् --,
 </details>
@@ -104,12 +107,14 @@ samyakvyavasitah, has resolved rightly, has virtuous intentions.
 कुतश्चिद्भाग्योदयात्सेवते स प्रागसाधुरपि साधुरेव मन्तव्यः। हि
 यस्मात्सम्यग्व्यवसितः साधुनिश्चयवान्सः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.30॥ न भवत्येव प्रायस्तद्भक्तः सुदुराचारस्तथापि बहुपुण्येन यदि
 कथञ्चिद्भवति तर्हि साधुरेव स मन्तव्यः।
@@ -120,12 +125,14 @@ samyakvyavasitah, has resolved rightly, has virtuous intentions.
 ॥9.30॥ अपि चेत् इत्यादिना भक्तेः प्रशंसा क्रियते। तत्र विष्णुभक्तेः
 सुदुराचारेणैकत्र समावेशप्रतीतौ यथावद्व्याचष्टे -- **न भवत्येवे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.29 -- 9.31॥ सम इत्यादि प्रणश्यतीत्यन्तम्। प्रतिजाने इति। युक्तियुक्तोऽयमर्थो भगवत्प्रतिज्ञातत्वात् सुष्ठुतमां दृढो भवति।
 </details>
@@ -134,12 +141,14 @@ samyakvyavasitah, has resolved rightly, has virtuous intentions.
 
 9.30 See Comment under 9.31
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.30॥ तत्र भक्तिमत्त्वं नाधिकार(रि)विशेषणं; अन्यत्रापि दर्शनात्
 इत्यभिप्रायेणअप्रिचेत् इति भगवान् महापतितपावनत्वं च स्वस्य दर्शयति।
@@ -165,10 +174,13 @@ samyakvyavasitah, has resolved rightly, has virtuous intentions.
 सम्यगध्यवसायं निश्चयं यतः कृतवान् यन्मम महापातकनिवारकः श्रीकृष्णं विना
 नान्य इति। हीति निश्चयार्थम्। अत्र सन्देहो नास्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.30॥ अपिच मद्भक्तेरवितर्क्यः प्रभाव इति दर्शयन्नाह **-- अपिचेदिति।**
 अत्यन्तं दुराचारोऽपि यद्यप्यपृथक्त्वेन पृथग्देवता अपि वासुदेव एवेति
@@ -176,10 +188,13 @@ samyakvyavasitah, has resolved rightly, has virtuous intentions.
 श्रेष्ठ एव स मन्तव्यः। यतोऽसौ सम्यग्व्यवसितः परमेश्वरभजनेनैव कृतार्थो
 भविष्यामीति शोभनमध्यवसायं कृतवान्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.30 If even the most sinful man worships Me with undivided devotion, he must be regarded as holy, for he has rightly resolved.
@@ -214,11 +229,13 @@ verily; सः he; मन्तव्यः should be regarded; सम्यक�
 resolved; हि indeed; सः he.Commentary Even if the most sinful worships Him with undivided heart; he too must indeed be deemed righteous for he has made the holy resolution to give up the evil ways of his life. Rogue Ratnakar became Valmiki by his holy resolution. Jagai and Madhai also became righteous devotees. Mary Magdalene a woman of illfame; became a pious woman. Sin vanishes when thoughts of God arise in the mind.
 Chandrayana and Kricchra Vratas will remove only certain particular sins but the remembrance of the Lord; thoughts of the Supreme Being; Japa and meditation; and Abheda Brahma Chintana (contemplation of Brahman with a nondualistic or Aham Brahmasmi or I am the Absolute attitute) will destroy the sins committed by a person even in hundred crores of Kalpas or ages.By abandoning the evil ways in his external life and by the force of his internal right resolution; he becomes righteous and attains eternal peace. (Cf.IV.36)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.30।। अगर कोई दुराचारी-से-दुराचारी भी अनन्यभावसे मेरा भजन करता है, तो
@@ -308,6 +325,7 @@ Chandrayana and Kricchra Vratas will remove only certain particular sins but the
 
 ।।9.30।। यदि कोई अतिशय दुराचारी भी अनन्यभाव से मेरा भक्त होकर मुझे भजता
 है, वह साधु ही मानने योग्य है, क्योंकि वह यथार्थ निश्चय वाला है।।
+</details>
 </details>
 
 </div>

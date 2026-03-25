@@ -23,8 +23,9 @@ title = "22 पुरुषः स"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.22॥ मत्तः परतरं नान्यत् किञ्चिदस्ति धनञ्जय। मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव॥ (गीता 7।7)मामेभ्यः परमव्ययम् (गीता 7।13) इत्यादिना निर्दिष्टस्य **यस्यान्तःस्थानि** सर्वाणि **भूतानि** **येन च** परेण पुरुषेण **सर्वम् इदं ततं स परपुरुषो** अनन्यचेताः सततम् (गीता 8।14) इति **अनन्यया भक्त्या लभ्यः। अथ आत्मयाथात्म्यविदः परमपुरुषनिष्ठस्य च साधारणीम् अर्चिरादिकां गतिम् आह द्वयोर् अप्य् अर्चिरादिका गतिः श्रुतौ श्रुता सा च अपुनरावृत्तिलक्षणा।  
@@ -57,12 +58,14 @@ U., 5.10.1). It is taught in the Vidya (meditation) of Five Fires:
 (Tat-kratu-nyaya), the entity self, separated from the inanimate matter,
 should be constantly meditated upon as having its sole joy in absolute subservience to the Supreme Brahman who is Its self. The self's nature of finding only joy consists in absolute subservience to the Surpeme Person. This is proved from the Srutis like 'He who dwells within the self ৷৷. whose body is the self' (Sa. Bra., 14.6.5.5.30).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.22॥ --,**पुरुषः** पुरि शयनात् पूर्णत्वाद्वा **स परः पार्थ** परः निरतिशयः यस्मात् पुरुषात् न परं किञ्चित्। सः **भक्त्या लभ्यस्तु** ज्ञानलक्षणया **अनन्यया** आत्मविषयया। **यस्य** पुरुषस्य **अन्तःस्थानि** मध्यस्थानि **भूतानि** कार्यभूतानि कार्यं हि कारणस्य अन्तर्वर्ति भवति। **येन** पुरुषेण **सर्वं इदं** जगत् **ततं** व्याप्तम् आकाशेनेव घटादि॥ प्रकृतानां योगिनां प्रणवावेशितब्रह्मबुद्धीनां कालान्तरमुक्तिभाजां ब्रह्मप्रतिपत्तये उत्तरो मार्गो वक्तव्य इति यत्र काले इत्यादि विवक्षितार्थसमर्पणार्थम् उच्यते आवृत्तिमार्गोपन्यासः इतरमार्गस्तुत्यर्थः
 --,
@@ -165,12 +168,14 @@ Departure, in verse 24):
 किंचिज्जगत्सर्वं दृश्यते श्रूयतेऽपि वा। अन्तर्बहिश्च तत्सर्वं व्याप्य
 नारायणः स्थितःसपर्यगाच्छुक्रम् इत्यादिश्रुतिभ्यश्च।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.22॥ परमसाधनमाह -- पुरुष इति।
 </details>
@@ -182,12 +187,14 @@ Departure, in verse 24):
 -- **परमे**ति। अन्यैः साधनैः सहोक्तत्वेन तत्साम्यशङ्कायां साधनेषु भक्तेः
 परमत्वमनेनाह। तच्च पुनर्वचनेनैव द्योत्यमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.20 -- 8.22॥ सर्वतो लोकेभ्यः पुनरावत्तिः न तु मां परमेश्वरं +++(S K omit परमेश्वरम्)+++ प्राप्य इति स्फुटयति -- पर इत्यादि प्रतिष्ठितमित्यन्तम्। उक्तप्रकारं कालसंकलनाविवर्जितं तु वासुदेवतत्त्वम्। व्यक्तम् सर्वानुगतम् तत्त्वेऽपि अव्यक्तम् दुष्प्रापत्वात्। तच्च भक्तिलभ्यमित्यावेदितं प्राक्। तत्रस्थं च एतद्विश्वं यत्खलु अविनाशिरूपं ( स्वरूपम्) सदा तथाभूतम्। तत्र कः पुनःशब्दस्य आवृत्तिशब्दस्य चार्थः स हि मध्ये तत्स्वभावविच्छेदापेक्षः। न च सदातनविश्वोत्तीर्णविश्वाव्यतिरिक्त -- विश्वप्रतिष्ठात्मक +++(SNK [n] विश्वनिष्ठात्मक -- )+++ परबोधस्वातन्त्र्यस्वभावस्य श्रीपरमेश्वरस्य तद्भावप्राप्तिः +++(N -- प्राप्तस्य)+++ \[ संभवति \] येन स्वभावविच्छेदः कोऽपि कदाप्यस्ति \[इति कल्प्येत\]। अतो युक्तमुक्ततम् मामुपेत्य तु +++(VIII 16)+++ इति।
 </details>
@@ -196,12 +203,14 @@ Departure, in verse 24):
 
 8.22 Parah etc. upto pratisthitam. The Absolute (Vasudevatattva) of the above description is beyond the concept of Time Manifest : \[because\] It is immanent in all beings. In spite of being so, It is Unmanifest : because It is difficult to attain. That It is, however, attainable by means of devotion has also been made clear already. In This exists this universe which is \[Its\] perennial nature that remains always the same. Now, what is the meaning of the word, punah 'again' and of the word avrtti 'returning' ; This meaning certainly presupposes a conditon of disruption of one's own nature for sometime in the intervening period. The auspicious Supreme Lord's real nature is His Absolute Freedom viz., the Supreme Consciousness that transcends the universe, yet remains identical with the universe, and serves as the basis of the universe; and It is perennial. Hence, it cannot be assumed that there was some disruption at any time for this real nature and that the Supreme Lord regained that nature. Hence it is rightly said 'Having attained Me' etc. So far the behaviour of those persons who attain the Bhagavat by constant practice without much labour has been described. Now a difference that lies between those who, by departing, will (or attain) emancipation and those who will enjoyment \[of mundane life\], is described :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.22॥ पुरुषः स पर इति। अनेनाक्षरात्परस्य स्वस्य पूर्णानन्दस्य
 निर्हेतुकभक्तिलभ्यत्वमुक्तम्। तेन न ज्ञानमार्गीयाणां
@@ -239,20 +248,26 @@ Departure, in verse 24):
 लीनास्तत्रैव,मुक्ता भवन्तीत्यर्थः। येन क्रीडार्थमाविर्भूतेन
 तदधिष्ठानत्वादिदं मयि जगत् व्याप्तं सत् ततं विस्तृतं विभातीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/22_puruShaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/22_puruShaH_sa.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.22॥ तत्प्राप्तौ च भक्तिरन्तरङ्गोपाय इत्युक्तमेवाह **-- पुरुष इति।**
 स चाहं परः पुरुषोऽनन्यया न विद्यते अन्यः शरणत्वेन यस्यास्तया
 एकान्तभक्त्यैव लभ्यो नान्यथा। परत्वमेवाह। यस्य कारणभूतस्यान्तर्मध्ये
 भूतानि स्थितानि। येन च कारणभूतेन सर्वमिदं जगत्ततं व्याप्तम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.22 O son of Prtha, that supreme Person-in whom are included (all) the beings and by whom all this is pervaded-is, indeed, reached through one-pointed devotion.
@@ -282,11 +297,13 @@ Departure, in verse 24):
 pot; rests within its cause; the clay; so also all beings and the worlds rest within their cause; the Purusha. Therefore the whole world is pervaded by the Purusha.Sri Sankara explains exclusive devotion as Jnana or knowledge of the Self.Purusha is so called because everything is filled by It (derived from the Sanskrit root pur which means to fill) or because It rests in the body of all (derived from the Sanskrit root pur). None is higher than It and so It is the Supreme Person.
 (Cf.IX.4XI.38XV.6and7)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.22।। हे पृथानन्दन अर्जुन ! सम्पूर्ण प्राणी जिसके अन्तर्गत हैं और
@@ -361,6 +378,7 @@ pot; rests within its cause; the clay; so also all beings and the worlds rest wi
 ।।8.22।। हे पार्थ ! जिस (परमात्मा) के अन्तर्गत समस्त भूत हैं और जिससे यह
 सम्पूर्ण (जगत्) व्याप्त है, वह परम पुरुष अनन्य भक्ति से ही प्राप्त करने
 योग्य है।।
+</details>
 </details>
 
 </div>

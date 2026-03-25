@@ -25,8 +25,9 @@ title = "08 न हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.8॥ "एवं युद्धम् आरभ्य निवृत्त-व्यापारान् भवतो धार्तराष्ट्राः प्रसह्य हन्युर् इति चेद् अस्तु -  
@@ -48,12 +49,14 @@ title = "08 न हि"
 
 2.6 - 2.8 If you say, 'After beginning the war, if we withdraw from the battle, the sons of Dhrtarastra will slay us all forcibly', be it so. I think that even to be killed by them, who do not know the difference between righteousness and unrighteousness, is better for us than gaining unrighteous victory by killing them. After saying so, Arjuna surrendered himself at the feet of the Lord, overcome with dejection, saying. 'Teach me, your disciple, who has taken refuge in you, what is good for me.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 2.8 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -132,12 +135,14 @@ starts from 2.10.
 विच्छेदाच्छोकजनक एवेति न युद्धं शोकनिवृत्तयेऽनुष्ठेयमित्यर्थः।
 एतेनेहामुत्रभोगविरागोऽधिकारिविशेषणत्वेन दर्शितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.8॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -148,12 +153,14 @@ starts from 2.11.
 ॥2.8॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.7 2.10॥ कार्पण्येत्यादि। सेनयोरुभयोर्मध्ये इत्यादिनेदं सूचयति संशयाविष्टोऽर्जुनो नैकपक्षेण  
   
@@ -164,12 +171,14 @@ starts from 2.11.
 
 2.8 See Comment under 2.10
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.6 2.8॥ न चैतदिति प्रश्नस्त्रिभिः। स्पष्टार्थः।
 </details>
@@ -183,10 +192,13 @@ starts from 2.11.
 अतः किं विज्ञापयामीति भावः।  
 **हीति** युक्तश्चायमर्थः। यतो दुरापूराणीन्द्रियाणि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.8॥ त्वमेव विचार्य यद्युक्तं तत्कुर्विति चेत्तत्राह **नहीति।**
 इन्द्रियाणामुच्छोषणमतिशोषणकरं मदीयं शोकं यत्कर्मापनुद्यादपनयेत्तदहं न
@@ -194,10 +206,13 @@ starts from 2.11.
 सुरेन्द्रत्वमपि यदि प्राप्स्यामि। एवमभीष्टं तत्सर्वमवाप्यापि
 शोकापनोदनोपायं न प्रपश्यामीत्यन्वयः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.8 Even if I should win unchallenged sovereignty of a prosperous earth or even the kingdom on lordship over the Devas, I do not feel that it would dispel the grief than withers up my senses.
@@ -233,11 +248,13 @@ that; शोकम् grief; उच्छोषणम् drying up; इन्द
 prosperous; राज्यम् dominion; सुराणाम् over the gods; अपि even; च and;
 आधिपत्यम् lordship.No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.8।। पृथ्वीपर धन-धान्य-समृद्ध और शत्रुरहित
@@ -282,6 +299,7 @@ prosperous; राज्यम् dominion; सुराणाम् over the go
 ।।2.8।। पृथ्वी पर निष्कण्टक समृद्ध राज्य को और देवताओं के स्वामित्व को
 प्राप्त होकर भी मैं उस उपाय को नहीं देखता हूँ, जो मेरी इन्द्रियों को
 सुखाने वाले इस शोक को दूर कर सके।।
+</details>
 </details>
 
 </div>

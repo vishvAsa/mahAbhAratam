@@ -23,8 +23,9 @@ title = "16 एवम् प्रवर्तितम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.16॥**एवं** परमपुरुषेण **प्रवर्तितम्** इदं **चक्रम्**  
@@ -63,12 +64,14 @@ title = "16 एवम् प्रवर्तितम्"
 
 3.16 Thus this wheel is set in motion by the Supreme Person: From food arise embodied selves which are denoted by the word 'beings': from rain food; from sacrifice rain; sacrifice from activities which constitute the exercise of an agent; and activity from the embodied self; and again the body endowed with life from food. In this manner there is a seence which revolves like a wheel through the mutual relations of cause and effect. Hence, He who is engaged in spiritual practice - whether one is alified for Karma Yoga or Jnana Yoga - if he does not follow, i.e., does not keep in motion the wheel which revolves in a circle through mutual relation of cause and effect - that person by not maintaining his bodily subsistence by means of the 'remainder of sacrifice,' lives in sin. His life begins in sin or develops in sin, or is of both these kinds; he lives the life of sin. Thus he is a reveller in his senses and not in his self. The senses become the pleasure-gardens of one whose mind and body are not nourished by the 'remainders of sacrifices.' Rajas and Tamas preponderate in his body. Being thus turned away from the vision of the self, he rejoices only in the enjoyment of the senses. Therefore, even if he were to attempt for the vision of the self, it will be fruitless. So he lives in vain, O Arjuna. Sri Krsna now says that there is no need for the performance of the 'great sacrifices' etc., according to his station and stage of life, only in respect of a liberated person whose vision of the self does not depend on any external means.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.16॥ **एवम्** इत्थम् ईश्वरेण वेदयज्ञपूर्वक जगच्**चक्रं** **प्रवर्तितं न अनुवर्तयति इह** लोके **यः** कर्मणि अधिकृतः सन् **अघायुः** अघं पापम् आयुः जीवनं यस्य सः अघायुः पापजीवनः इति यावत्। **इन्द्रियारामः** इन्द्रियैः आरामः आरमणम् आक्रीडा विषयेषु यस्य सः इन्द्रियारामः **मोघं** वृथा **हे पार्थ स जीवति**॥ तस्मात् अज्ञेन अधिकृतेन कर्तव्यमेव कर्मेति प्रकरणार्थः। प्राक् आत्मज्ञाननिष्ठायोग्यताप्राप्तेः तादर्थ्येन कर्मयोगानुष्ठानम् अधिकृतेन अनात्मज्ञेन कर्तव्यमेवेत्येतत् न कर्मणामनारम्भात् इत्यत आरभ्य शरीरयात्रापि च ते न प्रसिध्येदकर्मणः इत्येवमन्तेन प्रतिपाद्य यज्ञार्थात् कर्मणोऽन्यत्र इत्यादिना मोघं पार्थ स जीवति इत्येवमन्तेनापि ग्रन्थेन प्रासङ्गिकम् अधिकृतस्य अनात्मविदः कर्मानुष्ठाने बहु कारणमुक्तम्। तदकरणे च दोषसंकीर्तनं कृतम्॥ एवं स्थिते किमेवं प्रवर्तितं चक्रं सर्वेणानुवर्तनीयम् आहोस्वित् पूर्वोक्तकर्मयोगानुष्ठानोपायप्राप्याम् अनात्मविदः ज्ञानयोगेनैव निष्ठाम् आत्मविद्भिः साङ्ख्यैः अनुष्ठेयामप्राप्तेनैव इत्येवमर्थम् अर्जुनस्य प्रश्नमाशङ्क्य स्वयमेव वा शास्त्रार्थस्य विवेकप्रतिपत्त्यर्थम् एतं वै तमात्मानं विदित्वा निवृत्तमिथ्याज्ञानाः सन्तः ब्राह्मणाः मिथ्याज्ञानवद्भिः अवश्यं कर्तव्येभ्यः पुत्रैषणादिभ्यो व्युत्थायाथ भिक्षाचर्यं शरीरस्थितिमात्रप्रयुक्तं चरन्ति न तेषामात्मज्ञाननिष्ठाव्यतिरेकेण अन्यत् कार्यमस्ति इत्येवं श्रुत्यर्थमिह गीताशास्त्रे प्रतिपिपादयिषितमाविष्कुर्वन् आह भगवान्
 </details>
@@ -196,12 +199,14 @@ presented here in the Gita, says:
 इन्द्रियैर्विषयेष्वारमति अतः कर्माधिकारी
 संस्तदकरणात्पापमेवाविचिन्वन्व्यर्थमेव जीवतीत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.16॥ तानि चाक्षराणि भूताभिव्यङ्ग्यानीति चक्रम्। तदेतज्जगच्चक्रं यो
 नानुवर्तयति स तद्विनाशकत्वादघायुः पापनिमित्तमेव यस्यायुः सोऽघायुः।
@@ -215,12 +220,14 @@ presented here in the Gita, says:
 आयुषोऽघत्वाभावात् कथमघायुः इत्यत आह **पापे**ति।
 तादर्थ्यात्ताच्छब्द्यमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.16॥ एवमिति। यस्तु एवं नाङ्गीकरोति स पापमयः। यतः +++(N अतः)+++ स इन्द्रियेष्वेव रमते नात्मनि।
 </details>
@@ -229,12 +236,14 @@ presented here in the Gita, says:
 
 3.16 Evam etc. On the other hand, he, who does not accept as stated above, is full of sins. For, he enjoys only in the sense-organs and not in the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.16॥ यस्मादेवं प्रजापतिना कृतोपदेशेनैव भूतानां पुरुषार्थसिद्ध्यर्थं
 कर्माज्ञप्तं प्रवर्त्तितम् तस्मात्तदननुवर्त्तयतो वृथैव जीवितमित्याह एवं
@@ -251,10 +260,13 @@ presented here in the Gita, says:
 मयि वा अतो मोघं व्यर्थं स जीवति। पार्थेति सम्बोधनात् स्वभक्तत्वात्तव तथा
 ज्ञानमनुचितमिति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/16_evam_pravartitam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/16_evam_pravartitam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.16॥ यस्मादेवं परमेश्वरेणैव भूतानां पुरुषार्थसिद्धये कर्मादिचक्रं
 प्रवर्तितं तस्मात्तदुकुर्वतो वृथैव जीवितमित्याह **एवमिति।**
@@ -264,10 +276,13 @@ presented here in the Gita, says:
 सोऽघायुः अघं पापरुपमायुर्यस्य सः। यत इन्द्रियैर्विषयेष्वेव रमति न तु
 ईश्वराराधनार्थे कर्मणि। अतो मोघं व्यर्थ स जीवति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.16 He who does not follow the wheel thus set in motion here, lives in sin, satisfying the senses, O Arjuna. He lives in vain.
@@ -300,11 +315,13 @@ presented here in the Gita, says:
 rejoicing in the senses; मोघम् in vain; पार्थ O Partha; सः he; जीवति
 lives.Commentary This is the wheel of action set in motion by the Creator on the basis of the Veda and sacrifice.He who does not follow the wheel by studying the Vedas and performing the sacrifices prescribed therein but who indulges only in sensual pleasures lives in vain. He is wasting his life. He is leading a worthless life indeed.One who does not live in accordance with this law and who is selfish commits sin. He violates the law of the Creator and that is the worst sin.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/16_evam_pravartitam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.16।। हे पार्थ! जो मनुष्य इस लोकमें इस प्रकार परम्परासे प्रचलित
@@ -371,6 +388,7 @@ lives.Commentary This is the wheel of action set in motion by the Creator on the
 ।।3.16।। जो पुरुष यहाँ इस प्रकार प्रवर्तित हुए चक्र का अनुवर्तन नहीं
 करता हे पार्थ इंन्द्रियों में रमने वाला वह पाप आयु पुरुष व्यर्थ ही जीता
 है।।
+</details>
 </details>
 
 </div>

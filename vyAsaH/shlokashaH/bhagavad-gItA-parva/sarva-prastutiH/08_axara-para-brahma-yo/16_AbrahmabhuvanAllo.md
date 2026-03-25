@@ -23,8 +23,9 @@ title = "16 आब्रह्मभुवनाल्लोकाः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.16॥ ब्रह्मलोकपर्यन्ता ब्रह्माण्डोदरवर्तिनः सर्वे **लोकाः** भोगैश्वर्यालयाः **पुनरावर्तिनः** विनाशिनः। अत ऐश्वर्यगतिं प्राप्तानां प्राप्यस्थानविनाशाद् विनाशित्वम् अवर्जनीयम्। **मां** सर्वज्ञं सत्यसङ्कल्पं निखिलजगदुत्पत्तिस्थितिलयलीलं परमकारुणिकं सदा एकरूपं प्राप्तानां विनाशप्रसङ्गाभावात् तेषां **पुनर्जन्म न विद्यते। ब्रह्मलोकपर्यन्तानां लोकानां तदन्तर्वर्तिनां च परमपुरुषसङ्कल्पकृताम् उत्पत्तिविनाशकालव्यवस्थाम् आह --**
@@ -44,12 +45,14 @@ title = "16 आब्रह्मभुवनाल्लोकाः"
 (prosperity and power) can be obtained. But they are destructible and those who attain them are subject to return. Therefore destruction,
 i.e., return is unavoidable for the aspirants for Aisvarya, as the regions where it is attained perish. On the contrary there is no rirth to those who attain Me, the Omniscient, who has true resolves, whose sport is creation, sustentation and dissolution of the entire universe, who is supremely compassionate and who is always of the same form. For these reasons there is no destruction in the case of those who attain Me. He now elucidates the time-period settled by the Supreme Person's will in regard to the evolution and dissolution of the worlds upto the cosmic sphere of Brahma and of those who are within them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.16॥ --,आ ब्रह्मभुवनात् भवन्ति अस्मिन् भूतानि इति भुवनम् ब्रह्मणो भुवनं ब्रह्मभुवनम् ब्रह्मलोक इत्यर्थः **आ ब्रह्मभुवनात्** सह ब्रह्मभुवनेन **लोकाः** सर्वे **पुनरावर्तिनः** पुनरावर्तनस्वभावाः हे **अर्जुन। माम्** एकम् **उपेत्य तु कौन्तेय पुनर्जन्म** पुनरुत्पत्तिः न विद्यते॥ ब्रह्मलोकसहिताः लोकाः कस्मात् पुनरावर्तिनः कालपरिच्छिन्नत्वात्। कथम् --,
 </details>
@@ -134,12 +137,14 @@ time. How;
 मानवमावर्तं नावर्तन्ते इतिइहेमम् इतिच विशेषणाद्गमनाधिकरणकल्पादन्यत्र
 पुनरावृत्तिः प्रतीयते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.16॥ महामेरुस्थब्रह्मसदनमारभ्य न पुनरावृत्तिः। तच्चोक्तं
 नारायणगोपालकल्पेआ मेरुब्रह्मसदनादा जनान्न जनिर्भुवि। तथाप्यभावः सर्वत्र
@@ -160,12 +165,14 @@ time. How;
 मामुपेत्यावस्थितस्य पुनर्जन्म न विद्यत इति। अन्यथा मामुपेत्य
 पुनर्जन्मेत्युक्तत्वात् उत्तरार्धवैयर्थ्यं च।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.16॥ आ ब्रह्मेति। ब्रह्मलोकप्राप्तानामपि +++(S -- काप्तानामपि)+++ पुनरावृत्तिरस्ति इति सर्वैर्व्याख्यातम्। एतद्भ्युपगमे च तदुपरितनलोकगतिर्मुक्तिः इत्यभिहितं स्यात्। तच्च न हृदयङ्गममिति संशयमहामोहकलुषीकृतान्तर्दृशामस्माकं प्रतिभाति। इयमागमाधिगत व्याख्यावर्तिः +++(S व्याख्यावृत्तिः)+++ -- आब्रह्म यावत् ब्रह्मपदं प्राप्तं तावत् यस्मात् कस्माच्चित् तिर्यगूर्ध्वादधस्ताद् भुवनात् पुनरावर्तन्ते चक्रवत् स्थानान्तरमविरतं भ्राम्यन्तो विपरिवर्तन्ते इति।
 </details>
@@ -174,12 +181,14 @@ time. How;
 
 8.16 A Brhma etc. \[This verse\] has been interpreted by all as 'There is rirth even for those who have reached the world of Brhma (the personal god).' If this interpretation is accepted, then it would amount to the proposition that going to the worlds that are higher than that \[of Brahma\], is emancipation \[from rirth\]. However according to us, with our inner sight blurred by the powerful darkness of doubt, this interpretation does not seem to touch the heart \[of the text\]. Hence, the following is the wick of the lamp brought from the Agama literature : Till Brahman : Till the status of the Supreme Brahman is attained. Till then all are subject to return (to rirth) from each and every world, whether it lies adjacently, or above or below \[the world of Brahman\]; men run round like a wheel wandering without stop from one place to another. But who knows in this manner viz., 'from all the world there is return' ; For, it is heard \[in the Puranas\] that \[the personal gods like\] Brahma etc., themselves exist indeed for a very long period. How is it that they too are subject to return again ; If they are subject to return, will they not be of the nature of having birth and death ; Expecting this objection, \[the Lord\] says :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.16॥ अनेवम्भूतानामभक्तानां संसारे पुनरावृत्तिं वदन् स्वप्राप्तानां
 तदभावमाह -- आब्रह्मेत्यादिना। हे अर्जुन अन्ये लोकाः ब्रह्मभुवनमभिव्याप्य
@@ -196,10 +205,13 @@ time. How;
 स्यादित्यर्थः। तुशब्देन मन्मार्गे प्रवृत्तस्य अत एव शङ्का न भवतीति
 ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.16॥ एतदेव सर्वेष्वपि लोकेषु पुनरावृर्त्तिं दर्शयन्निर्धारयति **--
 आब्रह्मेति।** ब्रह्मणो भुवनं वासस्थानं ब्रह्मलोकस्तमभिव्याप्य सर्वे
@@ -212,10 +224,13 @@ time. How;
 कर्मद्वारेण येषां ब्रह्मलोकप्राप्तिस्तेषां न मोक्ष इति परिनिष्ठितिः।
 मामुपेत्य वर्तमानानां तु पुनर्जन्म नास्त्येवेत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.16 O Arjuna, all the worlds together with the world of Brahma are subject to return. But, O son of Kunti, there is no rirth after reaching Me.
@@ -243,11 +258,13 @@ time. How;
 is.Commentary Those devotees who practise Daharopasana (a kind of meditation on the mystic space in the heart) and other devotees who reach Brahmaloka through the path of the gods (Devayana) and attain gradual liberation (KramaMukti) will not return again to this world. But those who reach Brahmaloka through the practice of the Panchagni Vidya
 (a ritual) will enjoy life in Brahmaloka and come back to this world.All the worlds are subjected to return because they are limited or conditioned by time.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.16।। हे अर्जुन ! ब्रह्मलोकतक सभी लोक पुनरावर्ती है; परन्तु हे
@@ -313,6 +330,7 @@ is.Commentary Those devotees who practise Daharopasana (a kind of meditation on 
 
 ।।8.16।। हे अर्जुन ! ब्रह्म लोक तक के सब लोग पुनरावर्ती स्वभाव वाले हैं।
 परन्तु, हे कौन्तेय ! मुझे प्राप्त होने पर पुनर्जन्म नहीं होता।।
+</details>
 </details>
 
 </div>

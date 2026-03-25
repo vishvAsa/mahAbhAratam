@@ -23,8 +23,9 @@ title = "27 उच्चैःश्रवसमश्वानां"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.27॥ सर्वेषाम् **अश्वानां** मध्ये **अमृतमथनोद्भवम् उच्चैःश्रवसं मां विद्धि। गजेन्द्राणां** सर्वेषां मध्येर् अमृतमथनोद्भवम् **ऐरावतं** मां विद्धि। अमृतोद्भवम् इत्य् ऐरावतस्य अपि विशेषणम्। **नराणां** मध्ये राजानं मां विद्धि।
@@ -39,12 +40,14 @@ title = "27 उच्चैःश्रवसमश्वानां"
 
 10.26 - 10.29 Of trees I am Asvattha which is worthy of worship. Of celestial seers I am Narada. Kamadhuk is the divine cow. I am Kandarpa, the cause of progeny. Sarpas are single-headed snakes while Nagas are many-headed snakes. Aatic creatures are known as Yadamsi. Of them I am Varuna. Of subdures, I am Yama, the son of the sun-god.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.27॥ --,**उच्चैःश्रवसम् अश्वानां** उच्चैःश्रवाः नाम अश्वराजः तं **मां विद्धि** विजानीहि **अमृतोद्भवम्** अमृतनिमित्तमथनोद्भवम्। **ऐरावतम्** इरावत्याः अपत्यं **गजेन्द्राणां** हस्तीश्वराणाम्; तम् मां विद्धि इति अनुवर्तते। **नराणां च** मनुष्याणां **नराधिपं** राजानं मां विद्धि जानीहि॥
 </details>
@@ -89,12 +92,14 @@ men.
 गजममृतमथनोद्भवं गजेन्द्राणां मध्ये मां विद्धि। नराणां च मध्ये नराधिपं
 राजानं मां विद्धीत्यनुषज्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.26 -- 10.27॥ सुखरूपः पाल्यते लीयते च जगदनेनेति कपिलः। प्रीतिः सुखं
 कमानन्दः इत्यभिधानात् प्राणो ब्रह्म कं ब्रह्म खं ब्रह्म \[छां.उ.4।10।5\]
@@ -115,12 +120,14 @@ men.
 चैवमागामि च जगज्ज्ञानैर्बिभर्ति जानातीति यावत्। कथं कपिलः इत्यत उक्तं --
 **सुखादि**ति। यच्छब्दद्वयस्य तमित्यनेनान्वयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -129,12 +136,14 @@ men.
 
 10.27 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.27॥ उच्चैश्श्रवसमिति। सप्तमुखाग्निरूपमश्वम्; अमृतेन समुद्भवो यस्य।
 भगवत्सेवायां क्रीडोपयोगितया विभूतिः स चिन्तनीयः। तथैरावतोऽपि तदभिषेचनेन
@@ -147,19 +156,25 @@ men.
 ॥10.27॥ अश्वानां अमृतमथने अमृतसङ्गोत्पन्नमुच्चैश्श्रवसं मदंशं विद्धि।
 गजेन्द्राणां ऐरावतं विद्धि। नराणां मध्ये पालकं नरं राजानं विद्धि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.27॥**उच्चैःश्रवसमिति।** अमृतार्थं
 क्षीराब्धिमथनादुद्भूतमुच्चैःश्रवसं नामाश्वं मद्विभूतिं विद्धि।
 अमृतोद्भवमित्येतदैरावतेऽपि संबध्यते। नराधिपं राजानं मां विद्धि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.27 Of horses know Me to be Uccaihsravas the nectar-born. Of lordly elephants, I am Airavata, and of men, I am the monarch.
@@ -193,11 +208,13 @@ men.
 माम् Me; अमृतोद्भवम् born of nectar;,ऐरावतम् Airavata; गजेन्द्राणाम्
 among lordly elephants; नराणाम् among men; च and; नराधिपम् the king.Commentary Nectar was obtained by the gods by churning the ocean of milk. Ucchaisravas is the name of the royal horse which was born in that ocean of milk when it was churned for the nectar.Airavatam The offspring of Iravati; the elephant of Indra born at the time when the ocean of milk was churned.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.27।। घोड़ोंमें अमृतके साथ समुद्रसे प्रकट होनेवाले उच्चैःश्रवा नामक
@@ -227,6 +244,7 @@ among lordly elephants; नराणाम् among men; च and; नराध�
 
 ।।10.27।। अश्वों में अमृत से उत्पन्न हुए उच्चैश्रवा नामक अश्व, हाथियों
 में ऐरावत और मनुष्यों में राजा मुझे ही जानो।।
+</details>
 </details>
 
 </div>

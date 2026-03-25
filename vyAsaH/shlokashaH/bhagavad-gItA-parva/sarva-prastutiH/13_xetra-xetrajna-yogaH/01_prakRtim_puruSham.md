@@ -26,8 +26,9 @@ title = "01 प्रकृतिम् पुरुषम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 भक्तियोगनिष्ठानां प्राप्यभूतस्य परस्य ब्रह्मणो भगवतो नारायणस्य  
@@ -63,12 +64,14 @@ title = "01 प्रकृतिम् पुरुषम्"
 
 13.1 No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 सप्तमे अध्याये सूचिते द्वे प्रकृती ईश्वरस्य — त्रिगुणात्मिका अष्टधा भिन्ना अपरा, संसारहेतुत्वात् ; परा च अन्या जीवभूता क्षेत्रज्ञलक्षणा ईश्वरात्मिका — याभ्यां प्रकृतिभ्यामीश्वरः जगदुत्पत्तिस्थितिलयहेतुत्वं प्रतिपद्यते । तत्र क्षेत्रक्षेत्रज्ञलक्षणप्रकृतिद्वयनिरूपणद्वारेण तद्वतः ईश्वरस्य तत्त्वनिर्धारणार्थं क्षेत्राध्यायः आरभ्यते । अतीतानन्तराध्याये च ‘अद्वेष्टा सर्वभूतानाम्’ (भ. गी. १२ । १३) इत्यादिना यावत् अध्यायपरिसमाप्तिः तावत् तत्त्वज्ञानिनां संन्यासिनां निष्ठा यथा ते वर्तन्ते इत्येतत् उक्तम् । केन पुनः ते तत्त्वज्ञानेन युक्ताः यथोक्तधर्माचरणात् भगवतः प्रिया भवन्तीति एवमर्थश्च अयमध्यायः आरभ्यते । प्रकृतिश्च त्रिगुणात्मिका सर्वकार्यकरणविषयाकारेण परिणता पुरुषस्य भोगापवर्गार्थकर्तव्यतया देहेन्द्रियाद्याकारेण संहन्यते । सोऽयं सङ्घातः इदं शरीरम् । तदेतत् भगवान् उवाच —
 
@@ -137,12 +140,14 @@ the total number of slokas in the Bhagavadgita is 701.
 
 ॥13.1॥ No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.1॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -151,12 +156,14 @@ the total number of slokas in the Bhagavadgita is 701.
 
 ॥13.1॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.1॥ No commentary.
 </details>
@@ -165,12 +172,14 @@ the total number of slokas in the Bhagavadgita is 701.
 
 13.1 Inclusion of this sloka, spoken by Arjuna, brings the total number of slokas in the Bhagavadgita to 701. Many versions of the Bhagavadgita, including the current commentary by Dr. S Sankaranarayan, do not include this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.1॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -186,17 +195,23 @@ the total number of slokas in the Bhagavadgita is 701.
 ज्ञानस्वरूपं; ज्ञेयं तेन ज्ञानेन प्राप्यं सर्वं हे केशव ब्रह्मशिवयोरपि
 मोक्षद अहं भक्त्यर्थं वेदितुमिच्छामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.1॥ No commentary.
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.1 There is no such translation for this sloka.
@@ -231,11 +246,13 @@ verses 4 and 5.In the previous discourse a description of the devotee who is dea
 (enjoyment) and Apavarga (liberation).The Gita is divided into three sections illustrative of the three words of the Mahavakya or Great Sentence of the Sama Veda -- TatTvamAsi (That thou art). In accordance with this view the first six chapters deal with the path of action or Karma Yoga and the nature of the thou (TvamPada). The next six chapters explain the path of devotion or Bhakti Yoga and the nature of That
 (TatPada). The last six chapters treat of the path of knowledge or Jnana Yoga and the nature of the middle term art (AsiPada) which establishes the identity of the individual and the Supreme Soul (Jiva Brahma Aikyam).Arjuna now wishes to know in detail the difference between Prakriti and Purusha (Matter and Spirit). He desires to have a discriminative knowledge of the difference between them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/01_prakRtim_puruSham.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.1।। No Translation
@@ -264,6 +281,7 @@ verses 4 and 5.In the previous discourse a description of the devotee who is dea
 
 ।।13.1।। अर्जुन ने कहा -- हे केशव ! मैं, प्रकृति और पुरुष, क्षेत्र और
 क्षेत्रज्ञ तथा ज्ञान और ज्ञेय को जानना चाहता हूँ।।
+</details>
 </details>
 
 </div>

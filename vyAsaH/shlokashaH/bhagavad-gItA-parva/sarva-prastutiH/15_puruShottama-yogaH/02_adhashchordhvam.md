@@ -26,8 +26,9 @@ title = "02 अधश्चोर्ध्वम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.2॥**अधश्च मूलान्यनुसन्ततानि कर्मानुबन्धीनि मनुष्यलोके।** ब्रह्मलोकमूलस्य अस्य वृक्षस्य मनुष्याग्रस्य अधः मनुष्यलोके मूलान्य् अनुसन्ततानि तानि च कर्मानुबन्धीनि। कर्माण्य् एव अनुबन्धीनि मूलान्य् अधो मनुष्यलोके च भवति इत्यर्थः। मनुष्यत्वावस्थायां कृतैर् हि कर्मभिर् अधो मनुष्यपश्वादय ऊर्ध्वं च देवादयो भवन्ति।
@@ -50,12 +51,14 @@ title = "02 अधश्चोर्ध्वम्"
 
 15.2 The 'secondary roots' of this tree having the main roots in the world of Brahman and its crest in men ramify below in the world of men. They bind them according to their Karma. The meaning is that the effects of acts causing bondag become roots in the world of men. For, the effect of actions done in the human state brings about the further condition of men, beasts etc., down below, and of divinities etc., up above.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.2॥ --,**अधः** मनुष्यादिभ्यो यावत् स्थावरम् **ऊर्ध्वं च** यावत् ब्रह्मणः विश्वसृजो धाम इत्येतदन्तं यथाकर्म यथाश्रुतं ज्ञानकर्मफलानि; **तस्य** वृक्षस्य शाखा इव **शाखाः प्रसृताः** प्रगताः; **गुणप्रवृद्धाः** गुणैः सत्त्वरजस्तमोभिः प्रवृद्धाः स्थूलीकृताः उपादानभूतैः; **विषयप्रवालाः** विषयाः शब्दादयः प्रवालाः इव देहादिकर्मफलेभ्यः शाखाभ्यः अङ्कुरीभवन्तीव; तेन विषयप्रवालाः शाखाः। संसारवृक्षस्य परममूलं उपादानकारणं पूर्वम् उक्तम्। अथ इदानीं कर्मफलजनितरागद्वेषादिवासनाः मूलानीव धर्माधर्मप्रवृत्तिकारणानि अवान्तरभावीनि तानि **अधश्च** देवाद्यपेक्षया **मूलानि अनुसंततानि** अनुप्रविष्टानि **कर्मानुबन्धीनि** कर्म धर्माधर्मलक्षणम् अनुबन्धः पश्चाद्भावि; येषाम् उद्भूतिम् अनु उद्भवति; तानि कर्मानुबन्धीनि **मनुष्यलोके** विशेषतः। अत्र हि मनुष्याणां कर्माधिकारः प्रसिद्धः॥ यस्तु अयं वर्णितः संसारवृक्षः --,
 </details>
@@ -174,12 +177,14 @@ succeed the rise of those (attraction, repulsion, etc.).
 लोकश्चेत्यधिकृतो ब्राह्मण्यादिविशिष्टो देहो मनुष्यलोकस्तस्मिन् बाहुल्येन
 कर्मानुबन्धीनि। मनुष्याणां हि कर्माधिकारः प्रसिद्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.2॥ अव्यक्तेऽपि सूक्ष्मरूपेण सन्ति शरीरादौ च भूतानीत्यधश्चोर्ध्वं च
 प्रसृताः गुणैः सत्त्वादिभिः प्रतीतिमात्रसुखत्वात्प्रवाला विषयाः। मूलानि
@@ -221,12 +226,14 @@ succeed the rise of those (attraction, repulsion, etc.).
 इत्यनेनाश्वत्थशब्दार्थकथनम्। तत्किं क्षणिकः न स्थीयते प्रवाहव्ययो
 नास्तीत्यर्थः। तस्योपपादनम् -- **न ही**ति। द्विरुक्तिस्तात्पर्यार्था।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.1 -- 15.2॥ ऊर्ध्वमूलमिति। अधश्चेति। अनेन शास्त्रान्तरेषु यदुच्यते अश्वत्थः सर्वं; स एवोपासनीयः इत्यादि; तस्य भगवद्ब्रह्मोपासा तात्पर्यमित्युच्यते। मूलं प्रशान्तरूपम् +++(K प्रशान्तं रूपम्)+++। तत् ऊर्ध्वं; सर्वतो हि निवृत्तस्य तदाप्तिः। छन्दांसि पर्णानि इति -- यथा वृक्षस्य मानत्वफलवत्त्वसरसतादयः +++(S; फलत्व -- )+++ पर्णैः सूच्यन्ते; एवं ब्रह्मतत्त्वस्य वेदोपलक्षितशास्त्रद्वारिका प्रतीतिरित्याख्यायते। गुणैः; सत्त्वादिभिः प्रवृद्धाः; देवादिस्थावरान्ततया। तस्य च शुभाशुभात्मकानि कर्माणि अधस्तनमूलानि +++(;N -- मूलानि यस्य)+++।
 </details>
@@ -235,12 +242,14 @@ succeed the rise of those (attraction, repulsion, etc.).
 
 15.1-2 Urdhva-mulam etc. Adhas ca etc. In other scriptural texts it is delcared 'All is the holy Fig-tree; that alone is to be meditated upon'. The present verse tells us this : What is intended by that declaration is only the religious meditation of the Brahman, the Bhagavat. Root : the one with a highly tranil nature. That is high (above) : Becasue it can be attained by him alone who has withdrawn himself from every other \[lower\] thing. The \[Vedic\] hymns are the leaves \[of it\] etc. : Just as the girth, height, the fruits and the taste etc. of a tree are indicated by its leaves, in the same fashion the idea of the Brahman-being is through the scriptures that are included in the 'Vedic hymns'. This is what is narrated here. With Strands : i.e., with the Sattva etc. Well developed : i.e., starting from gods down to the stationary ones. Of this tree, the roots, that are below, are the good and bad actions.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.2॥ किञ्च अधश्चेति। तस्य शाखास्थानीयतया सुकृतिनो
 दुष्कृतिनश्चोच्यन्ते। ताश्च सत्त्वादिभिर्गुणैः प्रवृद्धा विषयप्रवालाः
@@ -262,10 +271,13 @@ succeed the rise of those (attraction, repulsion, etc.).
 -- मनुष्यलोके कर्म अनुबन्धः पश्चाद्भवनं येषां तदर्थं तादृशानि;
 मनुष्यलोकोत्पन्नानां कर्मप्रवृत्त्या सृष्ट्याद्यर्थम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/02_adhashchordhvam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/02_adhashchordhvam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.2॥ किंच **-- अधश्चेति।** हिरण्यगर्भादयः कार्योपाधयो जीवाः
 शाखास्थानीयत्वेनोक्ताः; तेषु च ये दुष्कृतिनस्तेऽधः पश्वादियोनिषु
@@ -280,10 +292,13 @@ succeed the rise of those (attraction, repulsion, etc.).
 तत्तदनुरूपेषु कर्मसु प्रवृत्तिर्भवति। एतस्मिन्नेव हि कर्माधिकारो
 नान्येषु लोकेषु। अतो मनुष्यलोके इत्युक्तम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.2 (a) Its branches extend both above and below, nourished by the Gunas. Their shoots are sense objects ৷৷. (b) ৷৷. And their secondary roots extend downwards, resulting in acts which bind in the world of men.
@@ -321,11 +336,13 @@ colour; taste and smell. The roots; the Karmic tendencies from the past lives; g
 the planets; the manes and the sages have also come out of this wonderful tree. Above them are the branches of the worlds of Indra and the gods. Still higher are those of the sages and the men of austerities and penance. Still higher is the Satyaloka where Hiranyagarbha dwells.From man down to the immovable objects below and from him up to the realm of the Creator above; whatever regions are attained in accordance with the nature of knowledge or action; they are the ramifying branches of the tree of Samsara. They are nurtured and fattened by the three Gunas which form their material base.The senseobjects such as sound; touch; colour; taste and smell represent the buds that sprout from the branches of the physical bodies which are the products of actions.The highest root of this wondeful tree is Brahman.
 The secondary roots are the latent impressions (Samskaras) of likes and dislikes; which spread in this world of men and impel them to perform virtuus and vicious actions and bind them fast to actions.Now listen to the way by which this tree can be cut off. Only he who thus cuts his bondage to this tree of Samsara can be happy even in this world. He has the highest wisdom because he stands as a spectator of this tree and knows it as it is; without being tied to it.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/02_adhashchordhvam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.2।। उस संसारवृक्षकी गुणों-(सत्त्व, रज और तम-) के द्वारा बढ़ी हुई तथा
@@ -489,6 +506,7 @@ The secondary roots are the latent impressions (Samskaras) of likes and dislikes
 ।।15.2।। उस वृक्ष की शाखाएं गुणों से प्रवृद्ध हुईं नीचे और ऊपर फैली हुईं
 हैं; (पंच) विषय इसके अंकुर हैं; मनुष्य लोक में कर्मों का अनुसरण करने
 वाली इसकी अन्य जड़ें नीचे फैली हुईं हैं।।
+</details>
 </details>
 
 </div>

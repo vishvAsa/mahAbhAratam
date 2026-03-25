@@ -23,8 +23,9 @@ title = "25 यान्ति देवव्रता"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 अहो महद् इदं वैचित्र्यं  
@@ -44,12 +45,14 @@ title = "25 यान्ति देवव्रता"
 
 9.25 The term 'Vrata' in the text denotes will, intention or motive. Those who intend to worship gods, like Indra and others with the resolution, 'Let us worship Indra and other gods by ceremonies like the new moon and full moon sacrifices' - such worshippers go to Indra and other gods. Those who intend worshipping manes, resolving 'Let us worship the manes through sacrifices,' - such worshippers go to the manes or others resolving - 'Let us worship the Yaksas, Raksasas,' Pisacas and other evil spirits' - they go to them. But those who, with the same rites of worship, worship Me with the intention, 'Let us worship Lord Vasudeva, the Supreme Self, whose body is constituted of gods, the manes and the evil spirits' - they are My worshippers and they reach Me only. Those who intend worshipping gods etc., attain gods etc. After sharing limited enjoyment with them, they are destroyed with them when the time comes for their destruction. But My worshippers attain Me, who has no beginning or end, who is omniscient, whose will is unfailingly effective, who is a great ocean of innumerable auspicious attributes of unlimited excellence and whose bliss too is of limitless excellence. They do not return to Samsara. Such is the meaning. Sri Krsna continues to say, 'There is also another distinguishing characteristic of My worshippers.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 येऽपि अन्यदेवताभक्तिमत्त्वेन अविधिपूर्वकं यजन्ते; तेषामपि यागफलं अवश्यंभावि। कथम् --,  
 ॥9.25॥ --,**यान्ति** गच्छन्ति **देवव्रताः** देवेषु व्रतं नियमो भक्तिश्च येषां ते देवव्रताः **देवान्** यान्ति। **पितॄन्** अग्निष्वात्तादीन् **यान्ति पितृव्रताः** श्राद्धादिक्रियापराः पितृभक्ताः। **भूतानि** विनायकमातृगणचतुर्भगिन्यादीनि **यान्ति भूतेज्याः** भूतानां पूजकाः। **यान्ति मद्याजिनः** मद्यजनशीलाः वैष्णवाः **मामेव** यान्ति। समाने अपि आयासे मामेव न भजन्ते अज्ञानात्; तेन ते अल्पफलभाजः भवन्ति इत्यर्थः॥
@@ -145,12 +148,14 @@ How;
 यान्ति। समानेऽप्यज्ञानात् भगवन्तमन्तर्याणिमनन्तफलदमनाराध्य
 देवतान्तरमाराध्यान्तवत्फलं यान्तीत्यहो दुर्दैववैभवमज्ञानमित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.25॥ फलं विविच्याह -- यान्तीति।
 </details>
@@ -161,12 +166,14 @@ How;
 फलभेदस्योक्तत्वात्किं यान्तीत्यादिनेत्यत आह -- **फलमि**ति। तस्यैवायं
 प्रपञ्च इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.23 -- 9.25॥ येऽपीत्यादि प्रयतात्मनः इत्यन्तम्। येऽपि नामधेयान्तरैरुपासते तेऽपि मामेवोपासते। न हि ब्रह्मव्यतिरेकि किञ्चिदुपास्यमस्ति। किन्तु अविधिना इति विशेषः। अविधिः अन्यो विधिः। ,नानाप्रकारैर्विधभिरहमेव परब्रह्मसत्तास्वभावो याज्य इति। न तु यथा अन्यैर्दर्शनान्तरदूषणसमुपार्जितमहापातकम +++(S; omit पातक -- )+++ -- लीमसैर्व्याख्यातम् अविधिना; दुष्टविधिना इति। एवं हि सति मामेव यजन्ते; सर्वयज्ञानाञ्चाहमेव भोक्ता इति दृश्यमानमेतदसमञ्जसीभवेत् इत्यलं कल्मषकलिलैस्साकं संलापेन। अस्मद्गुरवस्तु निरूपयन्ति -- अन्या स्वात्मव्यतिरिक्ता भेदवादनयेन ब्रह्मस्वभावहीनैव काचिद्देवता इति गृहीत्वा तामेव \[ये\] यजन्ते तेऽपि वस्तुतो मामेव स्वात्मरूपं यजन्ते; किं तु अविधिना दुष्टेन विधिना भेदग्रहणरूपेण,+++(S; भेदग्रहरूपेण)+++ इति। अत एवाह -- न तु मां स्वात्मानं तत्त्वेन देवतारूपतया भोक्तृत्वेन जानन्ति; अतश्चलन्ति ते,+++(S; ; N च्यवन्ते)+++ मद्रूपात्। किम् देवव्रतत्वेन देवान् यान्ति इत्यादि। एतदेव चलनमिति,+++(S;;N च्यवन)+++ यावत्। ये तु मत्स्वरूपमभेदेन +++(;N -- स्वरूपभेदे (दं)+++ न विदुः; ते देवभूतपितृयागादिनाऽपि मामेव यजन्ते +++(N यजन्ति)+++। ते च मद्याजिनो मामेव गच्छन्ति +++(N यजन्ति)+++ इत्युपसंहरिष्यति। ननु द्रव्यत्यागार्थमुद्दिष्टा देवता इत्युच्यते। तत् कथमनुद्दिश्यस्वात्मतत्त्वस्य याज्यत्वम् आदित्यः प्रायणीयश्चरुः इति विधिशेषभूतदेवता उद्देशात्मकविध्यन्तरभावितो +++(;N प्रभावितो)+++ ह्यसौ उद्देशः (श्यः)। न च स्वात्मविषयो +++(S;;N omit विषयो)+++ विधिरस्ति इत्यभिप्रायेणाह -- अविधिपूर्वकं मामिति। स्वात्मव्यतिरिक्तायां देवतायामस्ति अपेक्ष्यो विधिः; अप्राप्तप्रापणरूपत्वात्। स्वात्मा तु परमेश्वरो न विधिपूर्वकः; विधिपरिप्रापितत्त्वाभावात् +++(S;;N -- परिप्राप्यत्वाभावात्)+++। न हि तदनुद्देशेन किञ्चित्प्रवर्तते। तेन विधिपरिप्रापितेन्द्रादिदेवतोद्देशेषु सर्वेषु स +++(S omits सः)+++ स्वात्मा विश्वावभासनस्वभावः तदुद्देश्यदेवतावभासभित्ति +++(;N substitutes -- भित्ति with मिति -- )+++ स्थानीयतयैव अहमहमिकया सततावभासमानः स्रक्सूत्रकल्पः सततोद्दिष्टः इति युक्तिसिद्धमेतत्; मामेव यजन्ति अविधिपूर्वकत्वात् \[इति\]। मुख्यभूतमत्प्राप्तिफलस्य तान्प्रति कर्त्रभिप्रायत्वं नास्ति; अपि तु परिमितदक्षिणास्थानीयेन्द्रादिपद ( -- येन्द्रपदातिमात्र N येन्द्रपदादि K [n] -- इन्द्रादिपदमात्र -- ) -- मात्रप्राप्तेरेव +++(; K [n] प्राप्तय एव N प्राप्त एव)+++ याजकवच्चरितार्थत्वमेषाम् इति प्रथयितुं परस्मैपदम्। यदुक्तं मयैव -- वेदान् वेद न वेद शाम्भवपदं दूयेत निर्वेदवान्  
   
@@ -183,12 +190,14 @@ How;
 
 9.24 See Comment under 9.26
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.25॥ तथाहि यान्ति देवव्रता इति। व्रतः सङ्कल्पः मानसं कर्मेति यावत्; स
 एव भावपदवाच्यः। दर्शपौर्णमासादिभिः कर्मभिरिन्द्रादीन् देवान् यजाम इति
@@ -212,10 +221,13 @@ How;
 अपिशब्देन कर्माङ्गत्वेन भजनेऽपि मुक्त्यात्मकस्वप्राप्तिरूपविशेषो
 व्यञ्जितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.25॥ तदेवोपपादयति **-- यान्तीति।** देवेष्विन्द्रादिषु व्रतं नियमो
 येषां ते अन्तवन्तो देवान्यान्ति अतः पुनरावर्तन्ते। पितृषु व्रतं येषां
@@ -223,10 +235,13 @@ How;
 पूजा येषां ते भूतानि यान्ति। मां यष्टुं शीलं येषां ते मद्याजिनस्ते तु
 मामक्षयं परमानन्दरूपं नारायणं यान्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.25 Devotees of gods go to the gods. The manes-worshippers go to the manes. The worshippers of Bhutas go to the Bhutas. And those who worship Me come to Me.
@@ -258,11 +273,13 @@ How;
 पितॄन् to the Pitris or ancestors; यान्ति go; पितृव्रताः worshippers of the Pitris; भूतानि to the Bhutas; यान्ति go; भूतेज्याः the worshippers of the Bhutas; यान्ति go; मद्याजिनः My worshippers; अपि also; माम् to Me.Commentary The worshippers of the manes such as the Agnisvattas who perform Sraaddha and other rites in devotion to their ancestors go to the manes. Those who worship the gods with devotion and vows go to them.Bhutas are elemental beings lower than the gods but higher than human beigns they are the Vinayakas; the hosts of Matris; the four Bhaginis and the like.Those who devote themselves to the gods attain the form of those gods at death. Similar is the fate of those who worship the manes (their own ancestors) or the Bhutas. The fruit of the worship is in accordance with the knowledge; faith; offering and nature of worship of the devotee.Though the exertion is the same; people do not worship Me on account of their ignorance. Conseently they get very little reward.My devotees obtain endless fruit. They do not come back to this mortal world. It is also easy for them to worship Me. How
 (Cf.VII.23)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.25।। (सकामभावसे) देवताओंका पूजन करनेवाले (शरीर छोड़नेपर) देवताओंको
@@ -341,6 +358,7 @@ How;
 ।।9.25।। देवताओं के पूजक देवताओं को प्राप्त होते हैं, पितरपूजक पितरों को
 जाते हैं, भूतों का यजन करने वाले भूतों को प्राप्त होते हैं और मुझे पूजने
 वाले भक्त मुझे ही प्राप्त होते हैं।।
+</details>
 </details>
 
 </div>

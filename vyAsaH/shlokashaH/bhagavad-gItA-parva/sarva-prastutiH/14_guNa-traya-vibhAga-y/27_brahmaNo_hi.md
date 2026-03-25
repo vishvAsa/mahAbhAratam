@@ -23,8 +23,9 @@ title = "27 ब्रह्मणो हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.27॥**हि** शब्दो हेतौ यस्माद् **अहम्** अव्यभिचारिभक्तियोगेन सेवितः **अमृतस्य अव्ययस्य च ब्रह्मणः** **प्रतिष्ठा;** तथा **शाश्वतस्य च धर्मस्य** अतिशयितनित्यैश्वर्यस्य **ऐकान्तिकस्य सुखस्य च**वासुदेवः सर्वम् (गीता 8॥9) इत्यादिना निर्दिष्टस्य ज्ञानिनः प्राप्यस्य सुखस्य इत्यर्थः॥ यद्यपि शाश्वतधर्मशब्दः प्रापकवचनः; तथापि पूर्वोत्तरयोः प्राप्यरूपत्वेन तत्साहचर्याद् अयम् अपि प्राप्यलक्षकः॥  
@@ -48,12 +49,14 @@ title = "27 ब्रह्मणो हि"
 14.27 The term 'hi' (for) denotes cause. I, who am to be served by unswerving Bhakti Yoga, am 'the ground of the individual self, immortal and immutable, and also of eternal Dharma,' namely, surpassing eternal prosperity and also perfect felicity, i.e., of the felicity attained by the Jnanin stated in texts such as 'Realising that Vasudeva is all'
 (7.19). I, being of such nature, devotion to Me helps the Jiva to transcend the Gunas. Although the expression 'eternal Dharma' is indicative of the conduct to be observed, in the given context, it means the goal to be attained; for, what follows and what precedes it, denote the goal and not conduct. The purport is this: It has been stated that seeking refuge with the Lord is the only means for transcending the Gunas and the attainment of self-realisation, prosperity and the Supreme Being in the earlier text beginning with, 'For this divine Maya of Mine consisting of the three Gunas is hard to break through, except for those who take refuge in Me alone ৷৷.' (7.14). Thus, seeking surrender to the Lord with one-pointed mind is the only means for transcending the Gunas and for the attainment of the state of brahman through that. \[Here Prapatti, surrender to the Lord, is mentioned as a limb of unswerving Bhakti Yoga according to some interpreters. This is however a disputable point, as some maintain that Prapatti is in itself an independent path\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.27॥ --,**ब्रह्मणः** परमात्मनः हि यस्मात् **प्रतिष्ठा अहं** प्रतितिष्ठति अस्मिन् इति प्रतिष्ठा अहं प्रत्यगात्मा। कीदृशस्य ब्रह्मणः **अमृतस्य**,अविनाशिनः **अव्ययस्य** अविकारिणः **शाश्वतस्य च** नित्यस्य **धर्मस्य** धर्मज्ञानस्य ज्ञानयोगधर्मप्राप्यस्य **सुखस्य** आनन्दरूपस्य **ऐकान्तिकस्य** अव्यभिचारिणः अमृतादिस्वभावस्य परमानन्दरूपस्य परमात्मनः प्रत्यगात्मा प्रतिष्ठा; सम्यग्ज्ञानेन परमात्मतया निश्चीयते। तदेतत् ब्रह्मभूयाय कल्पते (गीता 14।26) इति उक्तम्। यया च ईश्वरशक्त्या भक्तानुग्रहादिप्रयोजनाय ब्रह्म प्रतिष्ठते प्रवर्तते; सा शक्तिः ब्रह्मैव अहम्; शक्तिशक्तिमतोः अनन्यत्वात् इत्यभिप्रायः। अथवा; ब्रह्मशब्दवाच्यत्वात् सविकल्पकं ब्रह्म। तस्य ब्रह्मणो निर्विकल्पकः अहमेव नान्यः प्रतिष्ठा आश्रयः। किंविशिष्टस्य अमृतस्य अमरणधर्मकस्य अव्ययस्य व्ययरहितस्य। किं च; शाश्वतस्य च नित्यस्य धर्मस्य ज्ञाननिष्ठालक्षणस्य सुखस्य तज्जनितस्य ऐकान्तिकस्य एकान्तनियतस्य च; प्रतिष्ठा अहम् इति वर्तते॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -265,12 +268,14 @@ understood.
 तस्माद्युक्तमेवोक्तं मद्भक्तो ब्रह्मभूयाय कल्पत इति। पराकृतनमद्बन्धं परं
 ब्रह्म नराकृति। सौन्दर्यसारसर्वस्वं वन्दे नन्दात्मजं महः॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.27॥ ब्रह्मण इति। ब्रह्मणो मायायाः।
 </details>
@@ -282,12 +287,14 @@ understood.
 तदुपादानायोगादिति भावेनाह -- **ब्रह्मण** इति। मायेति प्रकृता
 महालक्ष्मीः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.27॥ ब्रह्मण इति। अहमेव हि ब्रह्मणः प्रतिष्ठा। मयि सेव्यमाने ब्रह्म भवति अन्यथा जडरूपतया ब्रह्म,उपास्यमानं मोक्षमपि सौषुप्तादविशिष्टमेव प्रापयेत् इति।
 </details>
@@ -296,12 +303,14 @@ understood.
 
 14.27 Brahmanah etc. It is 'I' who is the support of the Brhaman. \[For\], one becomes the \[very\] Brahman, if 'I' is served \[by him\]. Otherwise if the Brahman is contemplated on - because Its nature is like that of the insentient (i.e., simply a being)-then it leads him (the seeker) to an emancipation which would simply be undistinguished from the deep sleep stage.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.27॥ ब्रह्मभूयाय \[14।26\] इत्यादौ तत्र तत्र च निर्दिष्टानां
 ब्रह्मामृतधर्मसुखानां सर्वेषामभिन्न आश्रयोऽहमेवेत्याशयेन स्वस्य परत्वमाह
@@ -326,10 +335,13 @@ understood.
   
 द्विरूपतां च क्रीडार्थं प्रोक्तवानर्जुनं हरिः॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.27॥ तत्र हेतुमाह **-- ब्रह्मणो हीति।** हि यस्माद्ब्रह्मणोऽहं
 प्रतिष्ठा प्रतिमा; घनीभूतं ब्रह्मैवाहम्। यथा घनीभूतः प्रकाश एव
@@ -340,10 +352,13 @@ understood.
 मद्भावस्यावश्यंभावित्वाद्युक्तमेवोक्तं ब्रह्मभूयाय कल्पत इति।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.27 For I am the ground of Brahman, the immortal and immutable, of eternal Dharma and of perfect bliss.
@@ -382,11 +397,13 @@ with the eye of intuition; that the innermost Self is the very Supreme Self; thr
 I; the Absolute Brahman; transcending the attributes or alities; the unconditioned Absolute; am the abode of the Saguna (conditioned) Brahman Who is immortal and imperishable. I am also the abode of the eternal Dharma of Jnananishtha (establishment in the highest wisdom) and the abode of the unending bliss born of that unswerving devotion.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal;
 the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the fourteenth discourse entitledThe Yoga of the Division of the Three Gunas.,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.27।। क्योंकि ब्रह्म, अविनाशी अमृत, शाश्वत धर्म और ऐकान्तिक सुखका
@@ -488,6 +505,7 @@ the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the fou
 
 ।।14.27।। क्योंकि मैं अमृत, अव्यय, ब्रह्म, शाश्वत धर्म और ऐकान्तिक
 अर्थात् पारमार्थिक सुख की प्रतिष्ठा हूँ।।
+</details>
 </details>
 
 </div>

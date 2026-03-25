@@ -23,8 +23,9 @@ title = "39 आवृतञ् ज्ञानमेतेन"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.39॥ अस्य जन्तोः **ज्ञानिनो** ज्ञानस्वभावस्य आत्मविषयं **ज्ञानम्** एतेन कामकारेण विषयव्यामोहजननेन **नित्यवैरिणा आवृतं दुष्पूरेण** पूर्त्यनर्हविषयेण **अनलेन** च पर्याप्तिरहितेन। कैर् उपकरणैर् अयं काम आत्मानम् अधितिष्ठति इत्य् अत्र आह
@@ -39,12 +40,14 @@ title = "39 आवृतञ् ज्ञानमेतेन"
 
 3.39 The knowledge, having the self for its subject, of this embodied person (the Jiva) whose nature is knowledge, is enveloped by this constant enemy in the shape of desire, which brings about attachment for sense-objects. This desire is difficult to satisfy, i.e., has for its object things unworthy of attainment and is insatiable, i.e., never attains satisfaction. Now listen to what constitutes the instruments with which desire subdues the self. Sri Krsna goes on to expound this:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.39॥ **आवृतम् एतेन ज्ञानं ज्ञानिनः नित्यवैरिणा** ज्ञानी हि जानाति अनेन अहमनर्थे प्रयुक्तः इति पूर्वमेव। दुःखी च भवति नित्यमेव। अतः असौ ज्ञानिनो नित्यवैरी न तु मूर्खस्य। स हि कामं तृष्णाकाले मित्रमिव पश्यन् तत्कार्ये दुःखे प्राप्ते जानाति तृष्णया अहं दुःखित्वमापादितः इति न पूर्वमेव। अतः ज्ञानिन एव नित्यवैरी। किंरूपेण कामरूपेण कामः इच्छैव रूपमस्य इति कामरूपः तेन दुष्पूरेण दुःखेन पूरणमस्य इति दुष्पूरः तेन अनलेन न अस्य अलं पर्याप्तिः विद्यते इत्यनलः तेन च॥ किमधिष्ठानः पुनः कामः ज्ञानस्य आवरणत्वेन वैरी सर्वस्य लोकस्य इत्यपेक्षायामाह ज्ञाते हि शत्रोरधिष्ठाने सुखेन निबर्हणं कर्तुं शक्यत इति
 </details>
@@ -155,12 +158,14 @@ the enemy, therefore the Lord says:
 तत्कालमिच्छातिरोधानेऽपि पुनः प्रादुर्भावान्न विषयसिद्धिरिच्छानिवर्तिका
 किंतु विषयदोषदृष्टिरेव तथेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.39॥ शास्त्रतो जातमपि ज्ञानं परमात्मापारोक्ष्याय न प्रकाशते
 कामेनावृतं ज्ञानिनोऽपि किम्वल्पज्ञानिनः। कामरूपेण कामाख्येन नित्यवैरिणा
@@ -198,12 +203,14 @@ the enemy, therefore the Lord says:
 जीवस्य गर्भस्योल्ब इति सर्वत्र गूढोपमाएतेनेदं इत्युक्तस्य विवरणं
 द्वितीयश्लोक इति व्याख्यानमपाकृतं भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.39॥ आवृतमिति। कामरूप इच्छायां यतश्चरति। अनलेन च अग्निनेव पूरयितुमशक्येन दृष्टादृष्टद्वयदाहकत्वात्।
 </details>
@@ -212,12 +219,14 @@ the enemy, therefore the Lord says:
 
 3.39 Avrtam etc. Looks like a desired one : For it acts when there is desire. It is fire, because it is like fire impossible to satiate. For, it burns down both the visible and the invisible results \[of rightious actions\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.39॥ एतच्छब्देन निर्दिष्टं दर्शयन् वैरित्वं स्फुटयति आवृतं ज्ञानमिति
 स्पष्टम्। अनलत्वं च शोकसन्तापहेतुत्वात्।
@@ -231,10 +240,13 @@ the enemy, therefore the Lord says:
 कीदृशेनानलेन दुष्पूरेण दुःखेन पूरणं यस्य सः। अत एवजितं सर्वं जिते रसे
 इति वचनम्। कामस्यैव वा विशेषणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.39॥ इदंशब्दनिर्दिष्टं दर्शयन्वैरित्वं स्फुटयति **आवृतमिति।** इदं तु
 विवेकज्ञानमेतेनावृतम् अज्ञस्य खलु भोगसमये कामः सुखहेतुरेव परिणामे तु
@@ -242,10 +254,13 @@ the enemy, therefore the Lord says:
 नित्यवैरिणेत्युक्तम्। किंच विषयैः पूर्यमाणोऽपि दुःपूरोऽपूर्यमाणः
 शोकसंतापहेतुत्वादनलतुल्यः। अनेन सर्वान्प्रति नित्यवैरित्वमुक्तम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.39 The knowledge of the intelligent self is enveloped by this constant enemy, O Arjuna, which is of the nature of desire, and which is difficult to gratify and is insatiable.
@@ -280,11 +295,13 @@ and.Commentary Manu says; Desire can never be satiated or cooled down by the enj
 objects. But as fire blazes forth the more when fed with Ghee (melted butter) and wood; so it grows the more it feeds on the objects of enjoyment. If all the foodstuffs of the earth; all the precious metals;
 all the animals and all the beautiful women were to pass into the possession of one man endowed with desire; they would still fail to give him satisfaction.The ignorant man considers desire as his friend when he craves for objects. He welcomes desire for the gratification of the senses but the wise man knows from experience even before suffering the conseence that desire will bring only troubles and misery for him. So it is a constant enemy of the wise but not of the ignorant.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/39_AvRta~n_jnAnamete.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.39।। और हे कुन्तीनन्दन ! इस अग्निके समान कभी तृप्त न होनेवाले और
@@ -321,6 +338,7 @@ all the animals and all the beautiful women were to pass into the possession of 
 
 ।।3.39।। हे कौन्तेय ! अग्नि के समान जिसको तृप्त करना कठिन है ऐसे
 कामरूप, ज्ञानी के इस नित्य शत्रु द्वारा ज्ञान आवृत है।।
+</details>
 </details>
 
 </div>

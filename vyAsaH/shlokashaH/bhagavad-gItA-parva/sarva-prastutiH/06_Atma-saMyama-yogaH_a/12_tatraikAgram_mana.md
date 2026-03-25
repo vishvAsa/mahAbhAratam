@@ -23,8 +23,9 @@ title = "12 तत्रैकाग्रम् मनः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.12॥**शुचौ देशे** अशुचिभिः पुरुषैर् अनधिष्ठिते अपरिगृहीते च अशुचिभिर् वस्तुभिर् अस्पृष्टे च पवित्रीभूते देशे दार्वादिनिर्मितं **नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् आसनं प्रतिष्ठाय** तस्मिन् मनःप्रसादकरे सापाश्रये **उपविश्य** योगैकाग्रम् अव्याकुलम् **मनः कृत्वा यतचित्तेन्द्रियक्रियः** सर्वात्मना उपसंहृतचित्तेन्द्रियक्रियः **आत्मविशुद्धये** बन्धविमुक्तये **योगं यु़ञ्ज्यात्** आत्मावलोकनं कुर्वीत।
@@ -41,12 +42,14 @@ title = "12 तत्रैकाग्रम् मनः"
 'established a firm seat,' a seat made of wood or similar material,
 which is neither too high nor too low; which is covered with cloth, deer-skin and Kusa grass in the reverse order; seated on it in a way which promotes the serenity of mind; having the mind concentrated on Yoga; and holding the activities of the mind and senses in check in all ways - he should practise 'Yoga', i.e., practise the vision of the self for 'the purification of the self,' i.e., to end his bondage.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.12॥ **तत्र** तस्मिन् **आसने उपविश्य** योगं युञ्ज्यात्। कथम् सर्वविषयेभ्यः उपसंहृत्य **एकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः** चित्तं च इन्द्रियाणि च चित्तेन्द्रियाणि तेषां क्रियाः संयता यस्य सः यतचित्तेन्द्रियक्रियः। स किमर्थं **योगं युञ्ज्यात्** इत्याह **आत्मविशुद्धये** अन्तःकरणस्य विशुद्ध्यर्थमित्येतत्॥ बाह्यमासनमुक्तम् अधुना शरीरधारणं कथम् इत्युच्यते
 </details>
@@ -135,12 +138,14 @@ should be:
 ध्यानाभ्यासप्रकर्षं विदधे भगवान्योगी युञ्जीत
 सततंयुञ्ज्याद्योगमात्मविशुद्धयेयुक्त आसीत मत्परः इत्यादि बहुकृत्वः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.12 6.14॥ योगं समाधियोगं युञ्ज्यात्।
 </details>
@@ -150,12 +155,14 @@ should be:
 ॥6.12 6.14॥ उपविश्यासन इत्यत्रापि योगशब्द एवमेव व्याख्येय इत्याह
 योगमिति। स्थानविवेकार्थं युञ्ज्यादित्युक्तम् कुर्यादिति यावत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.10 6.15॥ ननु जितात्मनः इत्युक्तम् तत्कथं तज्जय इत्याशङ्क्य आरुरुक्षोः कश्चिदुपायः कायसमत्वादिकः +++(SN कायसमुद्धारकः)+++ चित्तसंयम उपदिश्यते योगीत्यादि अधिगच्छतीत्यन्तम्। आत्मानं च चित्तं च युञ्जीत एकाग्रीकुर्यात्। सततमिति न परिमितं कालम्। एकाकित्वादिषु सत्सु एतद्युज्यते +++(N युञ्जीत)+++ नान्यथा। आसनस्थैर्यात् कालस्थैर्ये +++(S कालस्थैर्यम्)+++ चित्तस्थैर्यम्। चित्तक्रियाः संकल्पात्मनः अन्याश्चेन्द्रियक्रिया येन यताः नियमं नीताः। धारयन् यत्नेन। नासिकाग्रस्यावलोकने सति दिशामनवलोकनम्। मत्परमतया युक्त आसीत +++(N आसीत्)+++ इत्यर्थः +++(S omits इत्यर्थः)+++। एवमात्मानं युञ्जतः समादधतः शान्तिर्जायते यस्यां संस्थापर्यन्तकाष्ठा मत्प्राप्तिः +++(K प्राप्तिर्योगोऽस्तीति)+++।
 </details>
@@ -164,12 +171,14 @@ should be:
 
 6.12 See Comment under 6.15
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.10 6.13॥ एवं योगारूढस्य स्वरूपमुक्त्वाऽऽरुरुक्षोः साङ्गं योगं विदधतः
 सिद्धिमाह योगी इत्यादिनामत्संस्थामधिगच्छति 15 इत्यन्तेन। योगी युञ्जानो
@@ -184,19 +193,25 @@ should be:
 तादृशो भूत्वा आसने उपविश्य आत्मशु द्ध्यर्थं भावस्वरूपसिद्ध्यर्थं योगं
 भगवत्संयोगं युञ्ज्यात् अभ्यसेत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.12॥ **तत्रेति।** तत्र तस्मिन्नासने उपविश्य एकाग्रं विक्षेपरहितं मनः
 कृत्वा योगं युञ्ज्यादभ्यसेत्। यताः संयताश्चित्तस्येन्द्रियाणां च क्रिया
 यस्यात्मनो मनसो विशुद्धये उपशान्तये।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.12 There, sitting on the seat, with the mind concentrated and holding the mind and senses in check, he should practise Yoga for the purification of the self.
@@ -231,11 +246,13 @@ They will subside gradually. Then try to root them out through regual silent med
 This is a stupendous task indeed. But for a Yogi of determination who has the grace of the Lord and an iron will it is nothing.Calm the bubbling emotions; sentiments; instincts and impulses gradually through silent meditation. You can give a new orientation to your feelings by gradual and systematic practice. You can entirely transmute your wordly nature into divine nature. You can exercise supreme control over the nervecurrents; muscles; the five sheaths (of the Self); emotions;
 impulses and instincts through meditation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.12।। उस आसनपर बैठकर चित्त और इन्द्रियोंकी क्रियाओंको वशमें रखते हुए
@@ -286,6 +303,7 @@ impulses and instincts through meditation.
 
 ।।6.12।। वहाँ (आसन में बैठकर) मन को एकाग्र करके, चित्त और इन्द्रियों की
 क्रियाओं को वश में किये हुये आत्मशुद्धि के लिए योग का अभ्यास करे।।
+</details>
 </details>
 
 </div>

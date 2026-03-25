@@ -23,8 +23,9 @@ title = "62 ध्यायतो विषयान्पुंसः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.62॥ अनिरस्तविषयानुरागस्य हि मय्य् अनिवेशतिमनस इन्द्रियाणि संयम्य अवस्थितस्य अप्य् अनादिपापवासनया विषयध्यानम् अवर्जनीयं स्यात्। **ध्यायतो विषयान् पुंसः** पुनरपि **सङ्गः** अतिप्रवृद्धो जायते।  
@@ -41,12 +42,14 @@ title = "62 ध्यायतो विषयान्पुंसः"
 
 2.62 Indeed, in respect of a person, whose attachment to sense-objects is expelled but whose mind is not focussed on Me, even though he controls the senses, contemplation on sense-objects is unavoidable on account of the impressions of sins from time immemorial. Again attachment increases fully in 'a man who thinks about sense-objects'. From attachment arises desire.' What is called 'desire' is the further stage of attachment. After reaching that stage, it is not possible for a man to stay without experiencing the sense-objects. 'From such desire arises anger.' When a desire exists without its object being nearby, anger arises against persons nearby under the following. 'Our desire is thwarted by these persons.' 'From anger there comes delusion'. Delusion is want of discrimination between what ought to be done and what ought not to be done. Not possessing that discrimination one does anything and everything. Then there follows the failure of memory, i.e., of the impressions of the earlier efforts of sense control, when one strives again to control the senses.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.62॥  
   
@@ -163,12 +166,14 @@ apprehension.\]
 परमानर्थप्राप्तिस्तस्मान्महता प्रयत्नेन मनो निगृह्णीयादित्यभिप्रायः। अतो
 युक्तमुक्तंतानि सर्वाणि संयम्य युक्त आसीत इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.62 2.63॥ रागादिदोषकारणमाह परिहाराय श्लोकद्वयेन। सम्मोहोऽधर्मेच्छा।
 तथा हि मोहशब्दार्थ उक्त उपगीतासुमोहसंज्ञितम्। अधर्मलक्षणं च नियतं
@@ -199,12 +204,14 @@ apprehension.\]
 तत्परिजिहीर्षायां विषयध्यानपरम्परया तत्कारणमिति ज्ञानेन
 तदकारणात्तयोरनुत्पादो भवतीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.64 2.65॥ ध्यायत इति। क्रोधादिति। तपस्विनो विषयत्याग एव विषयग्रहणे पर्यवस्यति। ध्यात्वा हि ते त्यजन्ते। ध्यानकाले एव च +++(S omits च)+++ संगादयः उपजायन्ते इति अनपायो +++(K अनुपायो)+++ विषयत्यागः स्थिरप्रज्ञस्य एव ।
 </details>
@@ -213,12 +220,14 @@ apprehension.\]
 
 2.62 See Comment under 2.63
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.62 2.63॥ एवं बाह्येन्द्रियसंयमाभावे दोष उक्तः इदानीं मनोनिरोधाभावे
 योगबुद्धिभ्रंशदोष इति कथयंस्तस्य स्थिरप्रज्ञतां दर्शयति चतुर्भिः। तत्र
@@ -236,20 +245,26 @@ apprehension.\]
 सङ्गात्कामः सञ्जायते कामाच्च क्रोधोऽभिजायते। अभितः सर्वतः
 तदयोग्येष्वपीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.62॥ बाह्येन्द्रियसंयमाभावे दोषमुक्त्वा मनःसंयमाभावे दोषमाह **ध्यायत
 इति** द्वाभ्याम्। गुणबुद्ध्या विषयान्ध्यायतः पुरुषस्य तेषु सङ्ग
 आसक्तिर्भवति। आसक्त्या त तेष्वधिकः कामो भवति। कामाच्च
 केनचित्प्रतिहतात्क्रोधो भवति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.62 To a man thinking about sense-objects, there arises attachment to them; form attachment arises desire, from desire arises anger;
@@ -282,11 +297,13 @@ anger; अभिजायते arises.Commentary When a man thinks of the beaut
 If anybody puts any obstruction in his way of obtaining the objects he hates him; fights with him and develops hostility towards hi.
 (Cf.II.64).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.62 -- 2.63।। विषयोंका चिन्तन करनेवाले मनुष्यकी उन विषयोंमें आसक्ति
@@ -350,6 +367,7 @@ If anybody puts any obstruction in his way of obtaining the objects he hates him
 
 ।।2.62।। विषयों का चिन्तन करने वाले पुरुष की उसमें आसक्ति हो जाती है;
 आसक्ति से इच्छा और इच्छा से क्रोध उत्पन्न होता है।।
+</details>
 </details>
 
 </div>

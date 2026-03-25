@@ -23,8 +23,9 @@ title = "23 उदासीनवदासीनो गुणैर्यो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.23॥**उदासीनवद् आसीनः** गुणव्यतिरिक्तात्मावलोकनतृप्त्या अन्यत्र उदासीनवद् आसीनः **गुणैः** द्वेषाकाङ्क्षाद्वारेण **यो न विचाल्यते; गुणाः** स्वेषु कार्येषु प्रकाशादिषु **वर्तन्ते इति** अनुसन्धाय **यः** तूष्णीम् अवतिष्ठते; **न इङ्गते** न गुणकार्यानुगुणं चेष्टते।
@@ -41,12 +42,14 @@ title = "23 उदासीनवदासीनो गुणैर्यो"
 'The Gunas function in their effects like illumination etc., and so
 'rests unshaken,' i.e, does not act in accordance with the effects of the Gunas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.23॥ --,**उदासीनवत्** यथा उदासीनः न कस्यचित् पक्षं भजते; तथा अयं गुणातीतत्वोपायमार्गेऽवस्थितः **आसीनः** आत्मवित् **गुणैः यः** संन्यासी **न विचाल्यते** विवेकदर्शनावस्थातः। तदेतत् स्फुटीकरोति -- **गुणाः** कार्यकरणविषयाकारपरिणताः अन्योन्यस्मिन् **वर्तन्ते इति यः अवतिष्ठति।** छन्दोभङ्गभयात् परस्मैपदप्रयोगः। योऽनुतिष्ठतीति वा पाठान्तरम्। **न इङ्गते** न चलति; स्वरूपावस्थ **एव** भवति इत्यर्थः॥ किं च --,
 </details>
@@ -132,12 +135,14 @@ ingate, move; i.e., becomes eva, surely settled in his own nature-.
 
 किंतु **गुणा एवैते** देहेन्द्रियविषायाकार-परिणताः परस्परस्मिन् वर्तन्ते ममत्व् आदित्यस्येवैतत् सर्वभासकस्य न केनापि भास्य-धर्मेण संबन्धः; स्वप्नवन् मायामात्रश् चायं भास्य-प्रपञ्चो जडः; स्वयं-ज्योतिः स्वभावस् त्व् अहं परमार्थ-सत्यो निर्विकारो द्वैतशून्यश् चेत्येवं निश्चित्य यः स्वरूपे **ऽवतिष्ठत्य्** अवतिष्ठते। यो **ऽनु तिष्ठति** इति वा पाठस् तत्र नुः पृथक् कार्यः। **नेङ्गते** नानुव्याप्रियते कुत्रचित् **गुणातीतः स उच्यत** इति तृतीयगतेनान्वयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.23॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -146,12 +151,14 @@ ingate, move; i.e., becomes eva, surely settled in his own nature-.
 
 ॥14.23॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.23 -- 14.25॥ अत एवाह -- उदासीनवदित्यादि उच्यते इत्यन्तम्। यः अज्ञो निर्विवेकस्तिष्ठति स एव ज्ञः; सम्यग्ज्ञानात्। तथा हि नेङ्गते न स्वरूपात् च्यवते। अत्र चोपायः शरीरेन्द्रियादिस्वभाव +++(S;;N चोपायः सर्वेषामारंभाणां शरीरारंभकेन्द्रियादि -- )+++ एषः; यत् प्रवर्तनम् +++(N प्रवर्तते)+++ ; न तु फलं किंचिदहमभिसन्दधे इति स्थिरा बुद्धिः +++(N स्थिरबुद्धिः)+++।
 </details>
@@ -160,12 +167,14 @@ ingate, move; i.e., becomes eva, surely settled in his own nature-.
 
 14.23 See Comment under 14.25
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.23॥ उदासीनवदिति। गुणातिरिक्तात्मावलोकनतृप्तत्वात्
 अन्यत्रानात्मवस्तुनि उदासीनवदासीनः द्वेषाकाङ्क्षाद्वारेण गुणैश्च यो न
@@ -181,10 +190,13 @@ ingate, move; i.e., becomes eva, surely settled in his own nature-.
 भगवदात्मकाः गुणेषु स्वकार्येषु वर्तन्ते स्वत एव भगवदिच्छयेत्येवं
 प्रकारेणैवावतिष्ठति; नेङ्गते न चलति पूर्वरूपात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.23॥ तदेवं स्वसंवेद्यं तस्य लक्षणमुक्त्वा परसंवेद्यं तस्य लक्षणं
 वक्तुं किमाचार इति द्वितीयप्रश्नस्योत्तरमाह **-- उदासीनवदिति त्रिभिः**।
@@ -193,10 +205,13 @@ ingate, move; i.e., becomes eva, surely settled in his own nature-.
 एतैर्मम संबन्ध एव नास्तीति विवेकज्ञानेन यस्तूष्णीमवतिष्ठति।
 परस्मैपदमार्षम्। नेङ्गते न चलति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.23 He who sits like one unconcerned, undisturbed by the Gunas; who knows, 'It is the Gunas that move,' and so rests unshaken;
@@ -230,11 +245,13 @@ and who, knowing that the alities are active, is self-centred and moves not.
 इति thus; एव even; यः who; अवतिष्ठति is selfcentred; न not; इङ्गते
 moves.Commentary He is seated as a neutral (one who inclines to neither party). He is free from likes and dislikes. He is entirely unconcerned whether the alities with their effects and the body come or go. He is like the spectator at a football or a cricket match or a drama. Just as the sky remains unconcerned when the wind blows; so also he remains ite unconcerned when the alities operate.He does not swerve from the path of Selfrealisation. He treads the path firmly. He thinks and feels The alities are modified into the body; senses and senseobjects. They act and react upon one another; remains unshaken by them. He abides in his own Self and stands firm like the mountain Meru. (Cf.III.28V.8to11)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.23।। जो उदासीनकी तरह स्थित है और जो गुणोंके द्वारा विचलित नहीं किया
@@ -322,6 +339,7 @@ moves.Commentary He is seated as a neutral (one who inclines to neither party). 
 ।।14.23।। जो उदासीन के समान आसीन होकर गुणों के द्वारा विचलित नहीं किया
 जा सकता और "गुण ही व्यवहार करते हैं" ऐसा जानकर स्थित रहता है और उस
 स्थिति से विचलित नहीं होता।।
+</details>
 </details>
 
 </div>

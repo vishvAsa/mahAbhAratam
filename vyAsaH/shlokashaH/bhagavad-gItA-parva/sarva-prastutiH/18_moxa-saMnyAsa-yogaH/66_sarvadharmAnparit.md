@@ -49,8 +49,9 @@ title = "66 सर्वधर्मान्परित्यज्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.66॥ 
@@ -1372,12 +1373,14 @@ Source: [TW](https://archive.org/details/PrasthanatrayaVishishtadvaitaBhashya/Gi
 'Completely relinishing all Dharmas, seek Me alone for refuge.'
 Expiatory rites can be taken here as what is meant by Dharma, Completely forsake these rites (Dharmas) appropriate for the removal of numerous and varied sins piled up from beginningless time and obstructing the starting of Bhakti Yoga. The expiatory rites consist of practices like Krcchra, Candrayana, Kusmanda, Vaisvanara, Vratapati, Pavitresti, Trvrit, Agnistoma etc., which are of manifold varieties, and which are difficult to perform on account of the brevity of life. So in order to succeed in commencing Bhakti Yoga, seek Me alone for refuge. I am supremely compassionate, the refuge of all without considering the differences of character among them, and am an ocean of tenderness for those dependent on Me. I will release you from all evil, the nature of which has been explained as incompatible with the commencement of Bhakti Yoga. Grieve not. \[Both these interpretations of this famous verse are said to teach only Bhakti Yoga and not Prapatti. But the estion will rise in one's mind - why should it not be so taken;\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ("मन्-मना भव" इति श्लोकेन)  
 (सर्व-)कर्म-योग-निष्ठायाः परमं रहस्यम् ईश्वर-शरणताम्  
@@ -2572,12 +2575,14 @@ that, the Lord states the rules for handing down the Scripture:
 वितनुताम्। अहं त्वेतद्बाल्यं यदिह कृतवानस्मि कथमप्यहेतुस्नेहानां तदपि
 कुतकायैव महताम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.66॥ धर्मत्यागः फलत्यागः। कथमन्यथा युद्धविधिः। यस्तु कर्मफलत्यागी स
 त्यागीत्यभिधीयते \[18।11\] इति चोक्तम्।
@@ -2591,12 +2596,14 @@ that, the Lord states the rules for handing down the Scripture:
 शेषः। अशाब्दोऽऽयमर्थ इति चेत्; न धर्मशब्दस्य स्वकार्यफलोपलक्षणत्वात्।
 एवमेव भगवता व्याख्यातत्वाच्चेत्याह -- **यस्त्वि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.66॥ आह च --,सर्वधर्मानिति। यदिदं युद्धकरणे प्रासङ्गिकबन्धुवधादि; तस्य सर्वस्य अहं कर्त्ता इत्यात्मधर्मतां परित्यज्य तथा आचार्यादिहननक्रियानिषेधे मम धर्मो +++(; N ममाधर्मो )+++ भविष्यति इति मनसा विहाय मामेवैकं सर्वकर्तारं स्वतन्त्रं +++(S omits एकं -- स्वतन्त्रम् )+++ शरणं सर्वस्वभावाधिष्ठायकतया व्रज। अत एवाहं सर्वज्ञः सर्वेभ्यः पापेभ्यस्त्वां मोक्षयिष्यामि इति। मा शुचः; किंकर्तव्यतामोहं मा गाः +++(S; मा गमः )+++।
 </details>
@@ -2605,12 +2612,14 @@ that, the Lord states the rules for handing down the Scripture:
 
 18.66 Sarvadharman etc. Abandoning all attributes : This act of slaying the kinsmen and the like that arises incidentally while fighting a war - not owning those acts as your own attribute by your thought 'I am the doer of all these'; also giving up by mind, the notion 'If the act of slaying the teacher etc., is avoided, merit will accrue to me'. come to Me: Come to Me alone, the Agent-of-all-actions, the Supreme Lord, the Sovereign. As your Refuge : as the Guardian of all your natural impulses. On that account I, the Omniscient, shall rescue you from all the sins. Don't be sorrowful : Don't get perplexed 'What to be done'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.66॥ अथैतदप्यशक्तोऽसि मुख्यं कर्तुमिह चेत्तर्हि तुभ्यं
 तदनुकल्पमेवाहमुपदिशन्नेवाऽऽह (अत इदानीं तव तु मयि मुख्यकर्तरि परदेवतायां
@@ -2666,20 +2675,26 @@ that, the Lord states the rules for handing down the Scripture:
 सर्वपापेभ्यः प्रतिबन्धकरूपेभ्यो मोक्षयिष्यामि मोचयिष्यामि;
 प्रतिबन्धकपापादिस्मरणेन मा शुचः शोकं माकार्षीः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.66॥ ततोऽपि गुह्यतममाह **-- सर्वेति।** मद्भक्त्यैव सर्वं भविष्यतीति
 दृढविश्वासेन विधिकैङ्कर्यं त्यक्त्वा मदेकशरणो भव। एवंवर्तमानः
 कर्मत्यागनिमित्तं पापं स्यादीति मा शुचः शोकं माकार्षीः। यतस्त्वा त्वां
 मदेकशरणं सर्वपापेभ्योऽहं मोक्षयिष्यामि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.66 Completely relinishing all Dharmas, seek Me alone for refuge. I will release you from all sins. Grieve not:
@@ -2716,11 +2731,13 @@ grieve.Commentary This is the answer given by the Lord to the estion put by Arju
 Serve Him in all forms. Think of Him only. Meditate on Him alone. See Him in all forms. Think of Him only. Meditate on Him alone. See Him everywhere. Worship Him in your heart. Consecrate your life; all actions; feelings and thoughts to the Lord. You will rest in Him. You will attain union with Him. You will attain immortal supreme peace and eternal bliss. This is the view of another school of thought.Sri Sankara very strongly refutes the idea that knowledge in conjunction with Karma
 (action) produces or leads to liberation. He says that Karma and knowledge may not go together in the same man; that karma helps the man to get purification of the heart; and that right knowledge of the Self alone will give him absolute freedom from Samsara. He says that work and knowledge are like darkness and light; that action is possible only in this universe of illusory phenomena which is the projection of ignorance and knowledge dispels this ignorance. (Cf.III.30IX.22)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.66।। सम्पूर्ण धर्मोंका आश्रय छोड़कर तू केवल मेरी शरणमें आ जा। मैं
@@ -3746,6 +3763,7 @@ Serve Him in all forms. Think of Him only. Meditate on Him alone. See Him in all
 
 ।।18.66।। सब धर्मों का परित्याग करके तुम एक मेरी ही शरण में आओ, मैं
 तुम्हें समस्त पापों से मुक्त कर दूँगा, तुम शोक मत करो।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "41 योगसन्न्यस्तकर्माणञ्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.41॥ यथोपदिष्टयोगेन **सन्न्यस्तकर्माणं** ज्ञानाकारतापन्नकर्माणं यथोपदिष्टेन च आत्मज्ञानेन आत्मनि **सञ्छिन्नसंशयम् आत्मवन्तं** मनस्विनम् उपदिष्टार्थे दृढावस्थितमनसं बन्धहेतुभूतप्राचीनानन्त**कर्माणि न निबध्नन्ति।**
@@ -39,12 +40,14 @@ title = "41 योगसन्न्यस्तकर्माणञ्"
 
 4.41 The countless ancient Karmas which constitute the cause of bondage, do not bind him who has renounced actions through Karma Yoga in the manner explained before, who has sundered all doubts concerning the self by the knowledge of the self in the manner explained before, and who is of steady mind, i.e., unshakable, with the mind focussed steadily on the meaning that has been forth.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.41॥ **योगसंन्यस्तकर्माणं** परमार्थदर्शनलक्षणेन योगेन संन्यस्तानि कर्माणि येन परमार्थदर्शिना धर्माधर्माख्यानि तं योगसंन्यस्तकर्माणम्। कथं योगसंन्यस्तकर्मेत्याह ज्ञानसंछिन्नसंशयं ज्ञानेन आत्मेश्वरैकत्वदर्शनलक्षणेन संछिन्नः संशयो यस्य सः ज्ञानसंछिन्नसंशयः। य एवं योगसंन्यस्तकर्मा तम् **आत्मवन्तम्** अप्रमत्तं गुणचेष्टारूपेण दृष्टानि **कर्माणि न निबध्नन्ति** अनिष्टादिरूपं फलं नारभन्ते हे **धनञ्जय**॥ यस्मात् कर्मयोगानुष्ठानात् अशुद्धिक्षयहेतुकज्ञानसंछिन्नसंशयः न निबध्यते कर्मभिः ज्ञानाग्निदग्धकर्मत्वादेव यस्माच्च ज्ञानकर्मानुष्ठानविषये संशयवान् विनश्यति
 </details>
@@ -152,12 +155,14 @@ gets ruined-
 वृथाचेष्टारूपाणि वा न निबध्नन्ति अनिष्टमिष्टं मिश्रं वा शरीरं नारभन्ते
 हे धनंजय।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.41॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -166,12 +171,14 @@ gets ruined-
 
 ॥4.41॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.41॥ सकलाध्यायविस्फारितोऽर्थः श्लोकद्वयेन संक्षिप्य उच्यते +++(K संक्षिप्यते)+++ योगेति। योगेनैव कर्मणां संन्यास उपपद्यते नान्यथा इति विचारितं विचारयिष्यते च।
 </details>
@@ -180,12 +187,14 @@ gets ruined-
 
 4.41 Yoga-etc. Renunciation of actions becomes possible only through Yoga and not otherwise. This has been discussed also \[in the seel\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.41॥ उभयोरेकार्थनिष्ठं स्तौति योगेनोक्तरूपेण
 सिद्ध्यसिद्धिसमानचित्तवृत्तिकेन बाह्यतः क्रियानिष्ठमपि
@@ -202,10 +211,13 @@ gets ruined-
 जीवस्वरूपादिरूपोऽस्य तमात्मवन्तं स्वसेवार्थमात्मा भगवान् प्रकटीकृत
 इत्याह () आत्मस्वरूपज्ञं न निबध्नन्ति। न बन्धकानि भवन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.41॥ अध्यायद्वयोक्तां पूर्वापरभूमिकाभेदेन कर्मज्ञानमयीं द्विविधां
 ब्रह्मनिष्ठामुपसंहरति **योगेति** द्वाभ्याम्। योगेनपरमेश्वराराधनरूपेण
@@ -214,10 +226,13 @@ gets ruined-
 देहाद्यभिमानलक्षणो यस्य तं चात्मवन्तमप्रमादिनं कर्माणि लोकसंग्रहार्थानि
 स्वाभाविकानि वा न निबध्नन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.41 Actions do not bind him, O Arjuna, who has renounced them through Karma Yoga and whose doubts are sundered by knowledge, and who therefore possesses a steady mind.
@@ -252,11 +267,13 @@ actions through Yoga; who has cut off his doubts by the sword of knowledge; and 
 आत्मवन्तम् possessing the self; न not; कर्माणि actions; निबध्नन्ति bind;
 धनञ्जय O Dhananjaya.Commentary Sri Madhusudana Sarasvati explains Atmavantam as always watchful.He who has attained to Selfrealisation renounces all actions by means of Yoga or the knowledge of Brahman. As he is established in the knowledge of the identity of the individual soul with the,Supreme Soul; all his doubts are cut asunder. Actions do not bind him as they are burnt in the fire of wisdom and as he is always watchful over himself. (Cf.II.48III.9IV.20)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.41।। हे धनञ्जय ! योग- (समता-) के द्वारा जिसका सम्पूर्ण कर्मोंसे
@@ -317,6 +334,7 @@ actions through Yoga; who has cut off his doubts by the sword of knowledge; and 
 ।।4.41।। जिसने योगद्वारा कर्मों का संन्यास किया है, ज्ञानद्वारा जिसके
 संशय नष्ट हो गये हैं, ऐसे आत्मवान् पुरुष को, हे धनंजय ! कर्म नहीं
 बांधते हैं।।
+</details>
 </details>
 
 </div>

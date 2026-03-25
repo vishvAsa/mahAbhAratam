@@ -25,8 +25,9 @@ title = "11 यदक्षरं वेदविदो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.11॥**यद् अक्षरम्** अस्थूलत्वादिगुणकं **वेदविदो वदन्ति वीतरागाः** च **यतयो यद्** अक्षरं **विशन्ति यद्** अक्षरं प्राप्तुम् **इच्छन्तो ब्रह्मचर्यं चरन्ति तत् ते पदं सङ्ग्रहेण प्रवक्ष्ये। पद्यते गम्यते अनेन इति पदं तद् निखिलवेदान्तवेद्यं मत्स्वरूपम् अक्षरं यथा उपास्यं तथा सङ्क्षेपेण प्रवक्ष्यामि इत्यर्थः।**
@@ -43,12 +44,14 @@ title = "11 यदक्षरं वेदविदो"
 
 8.11 I shall show you briefly that goal which the knowers of the Veda call 'the imperishable,' i.e., as endowed with attributes like non-grossness etc., - that imperishable which 'the ascetics freed from passion enter'; that imperishable 'desiring to attain which men practise continence'. What is attained by the mind as its goal is called 'pada'. I shall tell you briefly My essential nature which is beyond all description and which is explained in the whole of Vedanta and which is to be meditated upon. Such is the meaning.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.11॥ -- **यत् अक्षरं** न क्षरतीति अक्षरम् अविनाशि **वेदविदः** वेदार्थज्ञाः वदन्ति तद्वा एतदक्षरं गार्गि ब्राह्मणा अभिवदन्ति (बृ0 उ₀ 3।8।8) इति श्रुतेः सर्वविशेषनिवर्तकत्वेन अभिवदन्ति अस्थूलमनणु (बृ0 उ₀ 3।8।8) इत्यादि। किञ्च -- **विशन्ति** प्रविशन्ति सम्यग्दर्शनप्राप्तौ सत्यां यत् **यतयः** यतनशीलाः संन्यासिनः **वीतरागाः** वीतः विगतः रागः येभ्यः ते वीतरागाः। **यच्च** अक्षर**मिच्छन्तः** -- ज्ञातुम् इति वाक्यशेषः -- **ब्रह्मचर्यं** गुरौ **चरन्ति** आचरन्ति **तत् ते पदं** तत् अक्षराख्यं पदं पदनीयं ते तव **संग्रहेण** संग्रहः संक्षेपः तेन संक्षेपेण **प्रवक्ष्ये** कथयिष्यामि॥  
   
@@ -215,12 +218,14 @@ purpose the following text is begun:
 विवक्षितं भगवता। अतो योगधारणासहितमोंकारोपासनं तत्फलं स्वस्वरूपं
 ततोऽपुनरावृत्तिस्तन्मार्गश्चेत्यर्थजातमुच्यते यावदध्यायसमाप्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.11॥ तदेव ध्येयं प्रपञ्चयति -- यदक्षरमित्यादिना। प्राप्यते
 मुमुक्षुभिरिति पदम्। पद गतौ \[4।63\] इति धातोः। तद्विष्णोः परमं पदम्
@@ -236,12 +241,14 @@ purpose the following text is begun:
 विष्णोरित्यत आह -- **प्राप्यत** इति। कर्मण्यकारप्रत्ययः। पदं स्वरूपमिति
 प्रयोगप्रदर्शनम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.11॥ यदक्षरमिति। सम्यक् गृह्यते निश्चीयते अनेनेति संग्रहः उपायः। तेन उपायेन तत् +++(S उपायेनैतत)+++ पदमभिधास्ये उपायमत्र सतताभ्यासाय वक्ष्ये।
 </details>
@@ -250,12 +257,14 @@ purpose the following text is begun:
 
 8.11 Yad aksaram etc. A means is called sangraha because by using this, the end is grasped i.e., determined. That Goal, together with means I shall tell you : Let me tell you now the means for \[your\] constant practice.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.11॥ इयं त्वधियज्ञप्राप्तिरुक्तयोगिनस्त्रिधोक्ता
 अक्षरब्रह्मात्मचिन्तकानां ज्ञानिनां तु स एव च लभ्यो भवतीति
@@ -279,10 +288,13 @@ purpose the following text is begun:
 चरन्ति तत्पदं तेषां प्राप्यं ते तुभ्यं सङ्ग्रहेण सङ्क्षेपेण ज्ञानार्थं
 प्रवक्ष्ये कथयिष्यामीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.11॥ केवलादभ्यासयोगादपि प्रणवाधारमभ्यासमन्तरङ्गं विधित्सुः
 प्रतिजानीते **-- यदक्षरमिति।** यदक्षरं वेदान्तज्ञा वदन्तिएतस्य वाक्षरस्य
@@ -292,10 +304,13 @@ purpose the following text is begun:
 प्राप्यं संग्रहरेण संक्षेपेण प्रवक्ष्ये। तत्प्राप्त्युपायं
 कथयिष्यामीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.11 I shall speak to you briefly of that immutable Goal which the knowers of the Vedas declare, into which enter the deligent ones free from attachment, and aspiring for which people practise celibacy.
@@ -331,11 +346,13 @@ Satyakama the son of Sibi estioned Pippalada; O Bhagavan; if some one among men 
   
 idol (Pratika). It serves persons of dull and middling intellects as a means for realising the Supreme Self.Chant Om three times at the commencement of your meditation you will find concentration of mind easier.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.11।। वेदवेत्ता लोग जिसको अक्षर कहते हैं, वीतराग यति जिसको प्राप्त
@@ -407,6 +424,7 @@ idol (Pratika). It serves persons of dull and middling intellects as a means for
 ।।8.11।। वेद के जानने वाले विद्वान जिसे अक्षर कहते हैं; रागरहित यत्नशील
 पुरुष जिसमें प्रवेश करते हैं; जिसकी इच्छा से (साधक गण) ब्रह्मचर्य का
 पालन करते हैं - उस पद (लक्ष्य) को मैं तुम्हें संक्षेप में कहूँगा।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "12 अनिष्टमिष्टम् मिश्रम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.12॥**अनिष्टं** नरकादिफलम्; **इष्टं** स्वर्गादि; **मिश्रम्** अनिष्टसम्भिन्नं पुत्रपश्वन्नाद्य् एतत् **त्रिविधं कर्मणः फलम् अत्यागिनां** कर्तृत्वममताफलत्यागरहितानां प्रेत्य भवति प्रेत्य कर्मानुष्ठानोत्तरकालम् इत्यर्थः। **न तु सन्न्यासिनां क्वचित्** न तु कर्तृत्वादिपरित्यागिनां क्वचिद् अपि मोक्षविरोधि फलं भवति।  
@@ -47,12 +48,14 @@ title = "12 अनिष्टमिष्टम् मिश्रम्"
 (Pretya) may be understood as subseent to the performance of actions.
 But 'to those who have renounced, none whatsoever,' viz., to those who have relinished the sense of agency etc., no such results antagonistic to release accrue. Here the purport is this: Agnihotra, the great sacrifices etc. are obligatory throughout life and are reired for attaining the objects of desire; but in regard to release their application is different. Though externally they appear to be the same in their nature in both the conditions, they are different in their fruits by virtue of difference in application. Their application to release is seen in such texts as 'The Brahmanas desire to know Him by the study of the Vedas, by sacrifices, by gifts, by austerities conjoined with fasting' (Br. U., 4.4.22). Here the performance of actions without sense of agency is enforced. Such giving up agency etc., are relevant only with regard to acts that are actually performed. Thus Sannyasa or renouncing of this kind is established in the Sastras. The same is also called Tyaga or giving up. Sri Krsna now explains the manner of realising that one is non-agent, by attributing all agency to God, who is the Supreme Person and the Inner Ruler, By cultivating this attitude, an aspirant can attain the renunciation of possessiveness with regard to actions and also their fruits. For it is the Supreme Person who performs all actions through the individual selves who belong to Him. The organs, bodies and Pranas of embodied beings are His. They exist for the sake of His own sport as the only purpose. Therefore, even the appeasement of hunger etc., and such other acts which affect the life of the individual souls and their works constitute only the means for accomplishing that purpose, namely, the sport of the Highest Purusa Himself. The purport of the argument is this: The analogy of seeds producing the tree and its fruits is not applicable to the actions of release-seekers. Their actions may look like those of fruit-seekers externally. But as mentally they do not entertain any such purpose, the conseence of their actions can be ite different. The purpose served by their actions is only affording sport for the Supreme Being.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.12॥ --,**अनिष्टं** नरकतिर्गयादिलक्षणम्; **इष्टं** देवादिलक्षणम्; **मिश्रम्** इष्टानिष्टसंयुक्तं मनुष्यलक्षणं **च;** तत् **त्रिविधं** त्रिप्रकारं **कर्मणः,धर्माधर्मलक्षणस्य** फलं **बाह्यानेककारकव्यापारनिष्पन्नं सत् अविद्याकृतम् इन्द्रजालमायोपमं महामोहकरं प्रत्यगात्मोपसर्पि इव -- फल्गुतया लयम् अदर्शनं गच्छतीति फलनिर्वचनम् -- तत् एतत् एवंलक्षणं फलं** भवति अत्यागिनाम् **अज्ञानां कर्मिणां अपरमार्थसंन्यासिनां** प्रेत्य **शरीरपातात् ऊर्ध्वम्।** न तु संन्यासिनां **परमार्थसंन्यासिनां परमहंसपरिव्राजकानां केवलज्ञाननिष्ठानां** क्वचित्। **न हि केवलसम्यग्दर्शननिष्ठा अविद्यादिसंसारबीजं न उन्मूलयन्ति कदाचित् इत्यर्थः। अतः परमार्थदर्शिनः एव अशेषकर्मसंन्यासित्वं संभवति; अविद्याध्यारोपितत्वात् आत्मनि क्रियाकारकफलानाम् न तु अज्ञस्य अधिष्ठानादीनि क्रियाकर्तृकारकाणि आत्मत्वेनैव पश्यतः अशेषकर्मसंन्यासः संभवति॥ तदेतत् उत्तरैः श्लोकैः दर्शयति --,**
 </details>
@@ -259,12 +262,14 @@ shows in the following verses:
 कस्यचिज्ज्ञानानुगुणमिति विशेषः। विज्ञस्य तु संसारकारणाभावात्स्वत एव
 कैवल्यमिति द्वौ पदार्थौ सूत्रितावस्मिञ्श्लोके।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.12॥ त्यागं स्तौति -- अनिष्टमिति।
 </details>
@@ -275,12 +280,14 @@ shows in the following verses:
 इत्यत आह -- **त्याग**मिति। उपपादितमेतत्त्यागाच्छान्तिः \[12।12\]
 इत्यत्र।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.12॥ अनिष्टमिति। अत्यागिनाम् -- फलमयानाम् +++(S;;N तन्मयानाम् )+++।
 </details>
@@ -289,12 +296,14 @@ shows in the following verses:
 
 18.12 Anistam etc. To those who are not men of relinishment : to those who are full of \[desire for\] fruit. Even at the stage of mundane life, where all the five factors do exist for actions, those persons, blind with their ignorance, obstinately burden their own Self with the entire load of agency. Hence they fetter their own Self with their own thinking. But, in fact, there is no bondage for Him (the Self). This is now being taught as :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.12॥ ननु तर्हि शास्त्रेषु यज्ञादीनि कर्माणि प्राजापत्यं गृहस्थानां
 \[वि.पु.1।6।37\] इत्यादिश्रूयमाणफलसम्बन्धितया विधीयन्ते
@@ -322,10 +331,13 @@ shows in the following verses:
 कर्मफलं अत्यागिनां कर्मफलात्यागिनां प्रेत्य परत्र लोके भवति। न तु
 क्वचिदपि सन्न्यासिनां कर्मफलत्यागिनां भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.12॥ एवंभूतस्य कर्मफलत्यागस्य फलमाह **-- अनिष्टमिति।** अनिष्टं
 नारकित्वं; इष्टं देवत्वं; मिश्रं मनुष्यत्वं; एवं त्रिविधं पापस्य
@@ -337,10 +349,13 @@ shows in the following verses:
 संन्यासिशब्दप्रयोगदर्शनात्। तेषां सात्त्विकानां पापासंभवादीश्वरार्पणेन च
 पुण्यफलस्य त्यक्तत्वात्ति्रविधमपि कर्मफलं न भवतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.12 Undesirable, desirable and mixed - thus threefold is the fruit of work that accrues after death to those who have not renounced; but to those who have renounced, none whatsoever.
@@ -377,11 +392,13 @@ they are rorn into the human kingodm. These distinctions of good; evil and mixed
 after death he is not born again. The actions that are performed without any desire for the reward can bring no bondage to the man at any time.He who has surrendered the fruits of all his works to the Lord is free from the bondage of Karma. Some kind of action is inevitable and natural to all beings; but the man of renunciation abandons the fruits of actions.Phalam Fruit This is caused by the operation of various external factors. This is brought forth by Avidya (ignornace). It is like jugglery and very delusive. The term Phala denotes something that ickly passes away; something not real; not solid.Karma Action Virtue and vice.Anishtam Disagreeable or evil; such as hell; the animal kingdom;
 etc.Ishtam Wished or agreeable or good.Misram Good and evil mixed together the human birth.Only the unenlightened who have not renounced the fruits of actions reap these three sorts of fruits. The real Sannyasins who belong to the highest order of Sannyasa (Paramahamsa Parivrajakas) who are ever engaged in meditation on the pure; immortal Self; who are solely devoted to Selfknowledge; and who rest in their own essential nature as ExistenceKnowledgeBliss Absolute do not reap any fruits as the fire of Selfknowledge has burnt ignorance and its effects which are the seeds of Samsara.Only a liberated sage who has attained knowledge of the Self and who has no identification with the body can totally relinish all actions. He knows that the Self is beyond all actions and that action is attributed to the Self by ignorance. The ignorant man who identifies himself with the body cannot abandon actions. He thinks that he is the agent or the doer of all actions and expects to attain the fruits of his actions and so he is born again and again in this world to reap the fruits of these actions.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.12।। कर्मफलका त्याग न करनेवाले मनुष्योंको कर्मोंका इष्ट, अनिष्ट और
@@ -1142,6 +1159,7 @@ etc.Ishtam Wished or agreeable or good.Misram Good and evil mixed together the h
 ।।18.12।। कर्मों के शुभ, अशुभ और मिश्र ये त्रिविध फल केवल अत्यागी जनों
 को मरण के पश्चात् भी प्राप्त होते हैं; परन्तु संन्यासी पुरुषों को कदापि
 नहीं।।
+</details>
 </details>
 
 </div>

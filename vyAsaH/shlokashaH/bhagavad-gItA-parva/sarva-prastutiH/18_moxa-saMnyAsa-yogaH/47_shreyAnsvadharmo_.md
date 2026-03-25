@@ -23,8 +23,9 @@ title = "47 श्रेयान्स्वधर्मो विगुणः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.47॥ एवं त्यक्तकर्तृत्वादिको मदाराधनरूपः स्वधर्मः स्वेन एव उपादातुं योग्यो धर्मः। प्रकृतिसंसृष्टेन हि पुरुषेण इन्द्रियव्यापाररूपः कर्मयोगात्मको धर्मः सुकरो भवति। अतः कर्मयोगाख्यः **स्वधर्मो विगुणः** अपि **परधर्माद्** इन्द्रियजयनिपुणपुरुषधर्माद् ज्ञानयोगात् सकलेन्द्रियनियमनरूपतया सप्रमादात् कदाचित् **स्वनुष्ठितात् श्रेयान्। तद् एव उपपादयति -- प्रकृतिसंसृष्टस्य पुरुषस्य इन्द्रियव्यापाररूपतया** स्वभावत **एव** नियत**त्वात् कर्मणः** कर्म कुर्वन् किल्बिषं **संसारं** न आप्नोति **अप्रमादत्वात् कर्मणः। ज्ञानयोगस्य सकलेन्द्रियनियमनसाध्यतया सप्रमादत्वात्। तन्निष्ठस् तु प्रमादात् किल्बिषं प्रतिपद्येत अप्य् अतः कर्मनिष्ठा एव ज्यायसी इति तृतीयाध्यायोक्तं स्मारयति।**
@@ -41,12 +42,14 @@ title = "47 श्रेयान्स्वधर्मो विगुणः"
 
 18.47 One's proper Dharma is that which is suitable for performance by oneself, in the form of worshipping Myself, relinishing agency etc., as has been taught. For, Karma Yoga, consisting in the activities of sense organs, is easy to perform by one in association with Prakrti. Thus, Karma Yoga, even if it is defective in some respects, is better than the Dharma of another, i.e., than Jnana-yoga, even for a person capable of controlling his senses, which is an attainment liable to negligence, because it consists of control over all sense-organs; for, though this may be well performed occasionaly, one is always liable to deflection from it. He explains the same: As Karma consists of the activities of the sense-organs, it is ordained by Nature for one who is conjoined with Prakrti, i.e., the body. So by performing Karma Yoga one does not incur any stain. But Jnana Yoga is liable to negligence, because it reires the control of the senses from the very beginning for its performance. One intent on it is likely to incur stain from negligence. \[Thus we are reminded about what was mentioned in the third chapter - that Karma Yoga alone is greater.\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.47॥ --,**श्रेयान्** प्रशस्यतरः स्वो धर्मः **स्वधर्मः;** **विगुणो**ऽपि इति अपिशब्दो द्रष्टव्यः; **परधर्मात्। स्वभावनियतं** स्वभावेन नियतम्; यदुक्तं स्वभावजमिति; तदेवोक्तं स्वभावनियतम् इति यथा विषजातस्य कृमेः विषं न दोषकरम्; तथा स्वभावनियतं **कर्म कुर्वन् न आप्नोति किल्बिषं** पापम्॥  
   
@@ -134,12 +137,14 @@ cannot remain even for a moment without doing work (cf. 3.5). Hence-
 विहितज्योतिष्टोमाङ्गपशुहिंसाया इव विहितयुद्धाङ्गबन्धुहिंसाया अपि
 प्रत्यवायहेतुत्वाभावात्। तथाचोक्तमधस्तात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.47॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -148,12 +153,14 @@ cannot remain even for a moment without doing work (cf. 3.5). Hence-
 
 ॥18.47॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -164,12 +171,14 @@ cannot remain even for a moment without doing work (cf. 3.5). Hence-
 
 18.47 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.47॥ श्रेयानिति। विगुणोऽपि स्वधर्मः स्वनुष्ठितात्परधर्माच्छ्रेष्ठः;
 श्रेयस्कर इति वा स्वभावो यो यो विप्रक्षत्त्रादेस्तेन नियतं कर्म कुर्वन्
@@ -186,10 +195,13 @@ cannot remain even for a moment without doing work (cf. 3.5). Hence-
 स्वभावनियतं भगवद्भावनियमोक्तं कर्म कुर्वन् वैगुण्यजमन्यत्यागजं च
 किल्बिषं न आप्नोति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.47॥ स्वकर्मणेति विशेषणस्य फलमाह **-- श्रेयानिति।** विगुणोऽपि
 स्वधर्मः सम्यगनुष्ठितादपि परधर्माच्छ्रेयाञ्छ्रेष्ठः। नच
@@ -197,10 +209,13 @@ cannot remain even for a moment without doing work (cf. 3.5). Hence-
 मन्तव्यम्। यतः स्वभावेन पूर्वोक्तेन नियतं नयमेनोक्तं कर्म
 कुर्वन्किल्बिषं नाप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.47 Better is one's own duty, though ill done, than the duty of another, though well-performed When one does the duty ordained by his own nature, he incurs no stain.
@@ -236,11 +251,13 @@ the doer of duty, dependent on (or prescribed according to) one's own nature, do
 doing; न not; आप्नोति (he) incurs; किल्बिषम् sin.Commentary Just as a poisonous substance does not harm the worm born in that substance; so he who does his Svadharma (the duty ordained according to his own nature)
 does not incur any sin.What is poison to the whole world is sweet to a worm and yet sugarcane juice that is sweet causes its death. So a mans appointed duty which frees him from bondage must; therefore; be practised however difficult it may seem to be. If you try to do the duty of another it will bring,danger. He who has no knowledge of the Self cannot remain even for a moment without doing action. (Cf.III.35)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.47।। अच्छी तरहसे अनुष्ठान किये हुए परधर्मसे गुणरहित अपना धर्म
@@ -442,6 +459,7 @@ does not incur any sin.What is poison to the whole world is sweet to a worm and 
 ।।18.47।। सम्यक् अनुष्ठित परधर्म की अपेक्षा गुणरहित स्वधर्म श्रेष्ठ है।
 (क्योंकि) स्वभाव से नियत किये गये कर्म को करते हुए मनुष्य पाप को नहीं
 प्राप्त करता।।
+</details>
 </details>
 
 </div>

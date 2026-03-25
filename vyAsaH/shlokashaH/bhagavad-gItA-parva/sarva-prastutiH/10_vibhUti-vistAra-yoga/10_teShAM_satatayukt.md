@@ -23,8 +23,9 @@ title = "10 तेषां सततयुक्तानाम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.10॥**तेषां सततयुक्तानां** मयि सततयोगम् आशंसमानानां मां भजमानानाम् अहं **तम्** एव **बुद्धियोगं** विपाकदशापन्नं **प्रीतिपूर्वकं ददामि येन ते माम् उपयान्ति। किं च --**
@@ -39,12 +40,14 @@ title = "10 तेषां सततयुक्तानाम्"
 
 10.10 To those 'ceaselessly united with Me,' namely, those who desire ceaseless union with Me, and who are worshipping Me, I grant with love, that same 'Buddhi-yoga' or devotional attitude of a mature state. By that they come to Me. Likewise:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.10॥ --,**तेषां सततयुक्तानां** नित्याभियुक्तानां निवृत्तसर्वबाह्यैषणानां भजतां सेवमानानाम्। किम् अर्थित्वादिना कारणेन नेत्याह -- **प्रीतिपूर्वकं** प्रीतिः स्नेहः तत्पूर्वकं मां भजतामित्यर्थः। **ददामि** प्रयच्छामि **बुद्धियोगं** बुद्धिः सम्यग्दर्शनं मत्तत्त्वविषयं तेन योगः बुद्धियोगः **तं** बुद्धियोगम्; **येन** बुद्धियोगेन सम्यग्दर्शनलक्षणेन **मां** परमेश्वरम् आत्मभूतम् आत्मत्वेन **उपयान्ति** प्रतिपद्यन्ते। के **ते** ये मच्चित्तत्वादिप्रकारैः मां भजन्ते॥ किमर्थम्; कस्य वा; त्वत्प्राप्तिप्रतिबन्धहेतोः नाशकं बुद्धियोगं तेषां त्वद्भक्तानां ददासि इत्यपेक्षायामाह --,
 </details>
@@ -122,12 +125,14 @@ to such a ery the Lord says:
 मत्तत्त्वविषयसम्यग्दर्शनं ददामि उत्पादयामि। येन बुद्धियोगेन
 मामीश्वरमात्मत्वेनोपयान्ति ये मच्चित्तत्वादिप्रकारैर्मां भजन्ते ते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.8 -- 10.10॥ सन्ति च भजन्तः केचिदित्याह -- अहमित्यादिना।
 </details>
@@ -138,12 +143,14 @@ to such a ery the Lord says:
 तत्किमर्थं पुनरुच्यते इत्यतस्तात्पर्यान्तरमाह -- **सन्ति** **चे**ति।
 उक्तफले विश्वासजननार्थमिति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.6 -- 10.11॥ महर्षय इत्यादि भास्वता इत्यन्तम्। परस्परबोधनया अन्योन्यबोधस्फारसंक्रमणात् सर्व एव हि प्रमातारः एक ईश्वर इति विततव्याप्त्या +++(S;;N वितत्य व्याप्त्या)+++ सुखेनैव सर्वशक्तिकसर्वगतस्वात्मरूपताधिगमेन +++(S -- ताधिशयनेन अधिगमेन)+++ माहेश्वर्यमेषामिति भावः +++(After इति भावः ;N add तेषां सततयुक्तानाम् इत्यतः प्रभृति अध्यायान्ता टीका उट्टङ्किता युगपद्धि वेद्या। तेषामेव अनु च अर्जुनप्रश्नपद्यानि षट् उल्लिखति। श्रीभगवान् अथवा बहुना इति पर्यन्तानि पद्यानि 23,वक्ति॥ These sentences are obviously of some copyist. It is to be noted however that the Mss. generally contain seven (not six)+++ verses of Arjuna and then 24 +++(not 23)+++ verses of the hagavan) ।
 </details>
@@ -152,12 +159,14 @@ to such a ery the Lord says:
 
 10.10 See Comment under 10.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.8 -- 10.10॥ विभूतियोगज्ञानविपाकरूपभक्तिविवृद्धिं दर्शयति चतुर्भिः
 पुमर्थरूपैः अहमित्यादिभिः -- अहं सर्वस्य प्रभव इत्यादि।
@@ -189,19 +198,25 @@ to such a ery the Lord says:
 प्राप्नुवन्ति। उपसर्गेण तथा यान्ति यथा तद्भावच्युतिः कदापि न भवतीति
 ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.10॥ एवंभूतानां च सम्यग्ज्ञानमहं ददामीत्याह **-- तेषामिति।** एवं
 सततयुक्तानां मय्यासक्तानां प्रीतिपूर्वकं भजतां तेषां तं बुद्धिरूपं
 योगमुपायं ददामि। तमिति कम्। येनोपायेन ते भक्ता मां प्राप्नुवन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.10 To those, who are ceaselessly united with Me and who worship Me with immense love, I lovingly grant that mental disposition
@@ -237,11 +252,13 @@ who are ever harmonious and selfabiding; who are ever devout and who adore Him w
 obtain the divine grace. The Lord gives them wisdom or the Yoga of discrimination or understanding by which they attain the knowledge of the Self. The Lord bestows on these devotees who have fixed their thoughts on Him alone; devotion of right knowledge. (Buddhi Yoga) by which they know Him in essence. They know through the eye of intuition in deep meditaion the Supreme Lord; the One in all; the Self of all; as their own Self; destitue of all limitations. Buddhi here is the inner eye of intuition by which the magnificent experience of oneness is had.
 Buddhi Yoga is Jnana Yoga. (Cf.IV.39XII.6and7)Why does the Lord impart this Yoga of knowledge to His devotees What obstacles does the Buddhi Yoga remove on the path of the aspirant or devotee The Lord gives the answer in the following verse.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.10।। उन नित्य-निरन्तर मेरेमें लगे हुए और प्रेमपूर्वक मेरा भजन
@@ -297,6 +314,7 @@ Buddhi Yoga is Jnana Yoga. (Cf.IV.39XII.6and7)Why does the Lord impart this Yoga
 
 ।।10.10।। उन (मुझ से) नित्य युक्त हुए और प्रेमपूर्वक मेरा भजन करने वाले
 भक्तों को, मैं वह 'बुद्धियोग' देता हूँ जिससे वे मुझे प्राप्त होते हैं।।
+</details>
 </details>
 
 </div>

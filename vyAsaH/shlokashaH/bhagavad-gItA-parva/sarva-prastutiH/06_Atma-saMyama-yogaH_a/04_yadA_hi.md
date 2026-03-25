@@ -23,8 +23,9 @@ title = "04 यदा हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.4॥**यदा अयं योगी** आत्मैकानुभवस्वभावतया **इन्द्रियार्थेषु** आत्मव्यतिरिक्तप्राकृतविषयेषु तत्सम्बन्धिषु **कर्मसु** च **न अनुषज्जते** न सङ्गम् अर्हति **तदा** हि **सर्वसङ्कल्पसन्न्यासी योगारूढः** इति **उच्यते। तस्माद् आरुरुक्षोर् विषयानुभवार्हतया तदननुषङ्गाभ्यासरूपः कर्मयोग एव निष्पत्तिकारणम् अतो विषयाननुषङ्गाभ्यासरूपं कर्मयोगम् एव आरुरुक्षुः कुर्यात्। तद् एव आह**
@@ -39,12 +40,14 @@ title = "04 यदा हि"
 
 6.4 When this Yogin, because of his natural disposition to the experience of the self, loses attachment, i.e., gets detached from sense-objects, i.e., things other than the self, and actions associated with them - then he has abandoned all desires and is said to have climbed the heights of Yoga. Therefore, for one wishing to climb to Yoga, but is still disposed to the experience of the sense-objects, Karma Yoga consisting of the practice of detachment to these objects, becomes the cause for success in Yoga. Therefore one who wishes to climb to Yoga must perform Karma Yoga consisting in the practice of detachment from sense-objects. Sri Krsna further elucidates the same:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 अथेदानीं कदा योगारूढो भवति इत्युच्यते -
 
@@ -170,12 +173,14 @@ evils. Hence,
 तद्धेतोश्च संकल्पस्य योगारोहणप्रतिबन्धकस्याभावाद्योगं समाधिमारूढो
 योगारूढ इत्युच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.4॥ योगारूढस्य लक्षणमाह यदेति। सम्यगननुषङ्गस्तस्यैव भवति। उक्तं च
 स्वतो दोषलयो दृष्ट्वा त्वितरेषां प्रयत्नतः इति।
@@ -190,12 +195,14 @@ evils. Hence,
 प्रमाणमाह **उक्तंचे**ति। परमात्मानं दृष्ट्वा त्वाप्यत इति शेषः। मुख्य एव
 चाननुषङ्गोऽत्र विवक्षित इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.4॥ एष एवार्थः प्रकाश्यते यदेति। इन्द्रियार्थाः विषयाः तदर्थानि च कर्माणि विषयार्जनादीनि।
 </details>
@@ -206,12 +213,14 @@ The same idea is made clear as-
 
 6.4 Yada etc. What is desired by the senses : Objects of senses. The actions for them : actions such as earning the objects and so on. In this \[path of\] knowledge one should be necessarily attentive. This \[the Lord\] says-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.4॥ कदैवं योगारूढ इत्यपेक्षायामाह यदा हीति। स्वक्रियानिर्वर्त्येष्वपि
 कर्मसु नानुषज्जते।
@@ -226,10 +235,13 @@ The same idea is made clear as-
 मनोनिश्चयात्मकस्वभोगेच्छादित्यागवान् यो नासक्तो भवेत्तदा योगारूढः
 संयोगभावे प्रतिष्ठित उच्यते कथ्यत इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.4॥ कीदृशोऽसौ योगारूढः यस्य शमः कारणमुच्यत इत्यत्राह **यदा हीति।**
 इन्द्रियार्थेषु इन्द्रियभोग्येषु शब्दादिषु तत्साधनेषु च कर्मसु यदा
@@ -237,10 +249,13 @@ The same idea is made clear as-
 आसक्तिमूलभूतान्सर्वान्भोगविषयान्कर्मविषयांश्च संकल्पान्संन्यसितुं
 त्यक्तुं शीलं यस्य सः। तदा योगारूढ उच्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.4 For, when one loses attachment for the things of the senses and to actions, then has the abandoned all desires and is said to have climbed the heights of Yoga.
@@ -281,11 +296,13 @@ And whatever he wills; that he does.
 Mahabharata; Santi Parva; 177.25Indeed desire is born of thought
 (Sankalpa); and of thought; Yajnas are born. -- Manu Smriti; II.2
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.4।। जिस समय न इन्द्रियोंके भोगोंमें तथा न कर्मोंमें ही आसक्त होता
@@ -432,6 +449,7 @@ Mahabharata; Santi Parva; 177.25Indeed desire is born of thought
 
 ।।6.4।। जब (साधक) न इन्द्रियों के विषयों में और न कर्मों में आसक्त होता
 है तब सर्व संकल्पों के संन्यासी को योगारूढ़ कहा जाता है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "13 ज्ञेयं"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.12॥ अमानित्वादिभिः साधनैः **ज्ञेयं** प्राप्यं **यत्** प्रत्यगात्मस्वरूपं **तत् प्रवक्ष्यामि; यद् ज्ञात्वा** जन्मजरामरणादिप्राकृतधर्मरहितम् अमृतम् आत्मानं प्राप्नोति। **अनादि** आदिर्यस्य न विद्यते तद् अनादि; अस्य हि प्रत्यगात्मन उत्पत्तिर् न विद्यते तत एव अन्तो न विद्यते। श्रुतिश्च -- न जायते म्रियते वा विपश्चित् (क॰ उ॰ 1।2।18) इति।  
@@ -100,12 +101,14 @@ in the condition of effect when It has the form of gods etc. As It cannot posses
 (Tai. U., 2.7.1) and 'Verily, this (brahman) was then undifferntiated.
 It became differentiated by names and forms' (Br. U., 1.4.7). The self's conditions as effect and cause have arisen on account of veiling by Avidya or ignorant in the form of Karma. It is not an expression of Its real nature. So, the terms 'being' and 'non-being' do not signify the nature of the self, If it is argued that, in the passage 'In the beginning, verily, this (Brahman) was non-existence' (Tai. U., 2.7.1), it is the Supreme Brahman in the state of cause that is described - even then it can be pointed out that the Supreme Brahman in causal condition has, for His body, the conscient and non-conscient entities in a subtle state, incapable of being differentiated by names and forms. Such a description is therefore valid. On the same principle the nature of Ksetra (body) and Ksetrajna (individual self) in the state of cause can also be indicated by the term 'non-being'. But this condition of the individual self has arisen due to Karma and such descriptions as 'being' and 'non-being' are applicable to the self only in the state of bondage. Its pure form cannot be signified by the terms 'being' and 'non-being'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.13॥ --,**ज्ञेयं** ज्ञातव्यं **यत् तत् प्रवक्ष्यामि** प्रकर्षेण यथावत् वक्ष्यामि। किं फलं तत् इति प्ररोचनेन श्रोतुः अभिमुखीकरणाय आह -- **यत्** ज्ञेयं **ज्ञात्वा अमृतम्** अमृतत्वम् **अश्नुते;** न पुनः म्रियते इत्यर्थः। **अनादिमत्** आदिः अस्य अस्तीति आदिमत्; न आदिमत् अनादिमत् किं तत् **परं** निरतिशयं **ब्रह्म;** ज्ञेयम् इति प्रकृतम्॥ अत्र केचित् अनादि मत्परम् इति पदं छिन्दन्ति; बहुव्रीहिणा उक्ते अर्थे मतुपः आनर्थक्यम् अनिष्टं स्यात् इति। अर्थविशेषं च दर्शयन्ति -- अहं वासुदेवाख्या परा शक्तिः यस्य तत् मत्परम् इति। सत्यमेवमपुनरुक्तं स्यात्; अर्थः चेत् संभवति। न तु अर्थः संभवति; ब्रह्मणः सर्वविशेषप्रतिषेधेनैव विजिज्ञापयिषितत्वात् न सत्तन्नासदुच्यते इति। विशिष्टशक्तिमत्त्वप्रदर्शनं विशेषप्रतिषेधश्च इति विप्रतिषिद्धम्। तस्मात् मतुपः बहुव्रीहिणा समानार्थत्वेऽपि प्रयोगः श्लोकपूरणार्थः॥ अमृतत्वफलं ज्ञेयं मया उच्यते इति प्ररोचनेन अभिमुखीकृत्य आह -- **न सत् तत्** ज्ञेयमुच्यते इति न अपि **असत्** तत् उच्यते॥  
   
@@ -509,12 +512,14 @@ all creatures, the Lord says:
 प्रतिपादनादिति गृहाण। प्रतिपादनप्रकारश्चाश्चर्यवत्पश्यति
 कश्चिदेनमित्यत्र व्याख्यातः। विस्तरस्तु भाष्ये द्रष्टव्यः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.13॥ परं ब्रह्मेतिस च यः \[13।4\] इति प्रतिज्ञातमुच्यते।
 अन्यत्यत्प्रभावः \[13।4\] इति आदिमद्देहवर्जितमित्यनादिमत्।
@@ -546,12 +551,14 @@ all creatures, the Lord says:
 शब्देनाभिमतार्थप्रतिपादनसम्भवे बहुयत्नाश्रयणस्य
 दोषत्वेनोक्तत्वात्। यद्विकारि इत्यत्र गौरवाभावात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.13 -- 13.18॥ एतेन ज्ञानेन यत् ज्ञेयं तदुच्यते -- ज्ञेयमित्यादि विष्ठितमित्यन्तम्। अनादिमत् परं ब्रह्म इत्यादिभिर्विशेषणैः ब्रह्मस्वरूपाक्षेपानुग्राहकं,+++(S -- स्वरूपापेक्षानु -- )+++ सर्वप्रवादाभिहितविज्ञानापृथग्भावं कथयति +++(S;;N सर्वप्रवादान्तराभिहितपृथग्भावकमुच्यते)+++। एतानि च विशेषणानि पूर्वमेव व्याख्यातानि इति किं निष्फलया पुनरुक्त्या।
 </details>
@@ -560,12 +567,14 @@ all creatures, the Lord says:
 
 13.13 See Comment under 13.18
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.13॥ ज्ञेयस्वरूपमाह षड्भिः स्वगुणरूपैः ज्ञेयमिति। शास्त्रतः
 ज्ञानिभिरधिगम्यम्। ज्ञानस्य फलमाह अमृतमिति। ज्ञेयं नामरूपलक्षणतो
@@ -586,10 +595,13 @@ all creatures, the Lord says:
 भवति। तर्ह्यसद्भवति इति चेदित्याशङ्क्याह -- तत् असत् न उच्यते।
 सदसदनिश्चयोक्त्या दुर्ज्ञेयत्वेन ब्रह्मत्वं प्रतिपादितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/13_jneyaM.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/13_jneyaM.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.13॥ एभिः साधनैर्यज्ज्ञेयं तदाह **-- ज्ञेयमितिषड्भिः।** यज्ज्ञेयं
 तत्प्रवक्ष्यामि। श्रोतुरादरसिद्धये ज्ञानफलं दर्शयति। यद्वक्ष्यमाणं
@@ -601,10 +613,13 @@ all creatures, the Lord says:
 निषेधस्य विषयस्त्वसच्छब्देनोच्यते। इदं तु तदुभयविलक्षणं;
 अविषयत्वादित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.13 I shall declare that which is to be known, knowing which one attains the immortal self. It is beginningless brahman having Me for the Highest (Anadi matparam); it is said to be neither being nor-being.
@@ -640,11 +655,13 @@ because Brahman does not belong to any class or genus like a Brahmana;
 cow or horse. It has no ality like whiteness; blackness; etc. It has no relation or connection with anything else; because It is one without a second. It is no object of any sense. It is beyond the reach of the mind and the senses. It is actionless. It is the great transcendental and unmanifested Absolute. It is always the witnessing subject in all objects.The Vedas emphatically declare that Brahman is without attributes; activity; attachment or parts.In chapter IX. 19 it was stated that He is the being and also the nonbeing. It is now stated that He is neither being nor nonbeing. This would seem to the readers to be a contradiction in terms but it is not so. Though the manifest
 (perishable) and the unmanifest (imperishable) universe are both forms of Brahman; He is beyond both these. (Cf.VII.2XV.16;17and18)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/13_jneyaM.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.13।।****जो ज्ञेय है, उस-(परमात्मतत्त्व-) को मैं अच्छी तरहसे
@@ -748,6 +765,7 @@ cow or horse. It has no ality like whiteness; blackness; etc. It has no relation
 ।।13.13।। मैं उस ज्ञेय वस्तु को स्पष्ट कहूंगा जिसे जानकर मनुष्य अमृतत्व
 को प्राप्त करता है। वह ज्ञेय है - अनादि, परम ब्रह्म, जो न सत् और न असत्
 ही कहा जा सकता है।।
+</details>
 </details>
 
 </div>

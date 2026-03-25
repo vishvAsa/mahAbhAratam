@@ -23,8 +23,9 @@ title = "08 रसोऽहमप्सु कौन्तेय"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.8॥ एते सर्वे विलक्षणा भावा मत्त एव उत्पन्ना मच्छेषभूता मच्छरीरतया मय्य् एव अवस्थिता अतस् तत्प्रकारो ऽहम् एव अवस्थितः।
@@ -41,12 +42,14 @@ title = "08 रसोऽहमप्सु कौन्तेय"
 
 7.8 - 7.11 All these entities with their peculiar characteristic are born from Me alone. They depend on Me; inasmuch as they constitute My body, they exist in Me alone. Thus I alone exist while all of them are only My modes.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.8॥ **रसः अहम्** अपां यः सारः स रसः तस्मिन् रसभूते मयि आपः प्रोता इत्यर्थः। एवं सर्वत्र। यथा अहम् **अप्सु** रसः एवं **प्रभा अस्मि शशिसूर्ययोः। प्रणवः** ओंकारः **सर्ववेदेषु** तस्मिन् प्रणवभूते मयि सर्वे वेदाः प्रोताः। तथा **खे** आकाशे **शब्दः** सारभूतः तस्मिन् मयि खं प्रोतम्। तथा **पौरुषं** पुरुषस्य भावः पौरुषं यतः पुंबुद्धिः **नृषु** तस्मिन् मयि पुरुषाः प्रोताः॥
 </details>
@@ -140,12 +143,14 @@ such.
 तदहम्। सामान्यरूपे मयि सर्वे विशेषाः प्रोताः
 श्रौतैर्दुन्दुभ्यादिदृष्टान्तैरिति सर्वत्र द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.8 7.12॥ इदं ज्ञानम्। रसोऽहमित्यादिविज्ञानम्। अबादयोऽपि तत एव। तथापि
 रसादिस्वभावाना सागणां च स्वभावत्वे सारत्वे च विशेषतोऽपि स एव नियमाकः न
@@ -267,12 +272,14 @@ such.
 तदुपजीवनेन स्थित्यभावः। कुत एतत् इत्यत आह **उक्तं चे**ति। न केवलं
 मुक्तविरोधादिति चार्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.8॥ रसोऽहमप्स्विति। सर्वत्रास्वाद्यमानो योऽनुद्भिन्न +++(N मानयोरनुद्भिन्न )+++ मधुरादिविभागः सामान्यः सोऽहम्। एवं प्रकाशः मृदुत्वचण्डत्वादिरहितः। खे आकाशे। यः शब्द इति सर्वस्यैव शब्दस्य नभोगुणत्वात् अत्रावधारणम्। अथवा यः केवलं +++(SN केवलगगन )+++ गगनगुणया ध्वनिसंयोगविभागादिसामग्र्यन्तररहितः अवहितहृदयैः ब्रह्मगुहागगनगामी योगिगणैः संवेद्यः अनाहताख्यः सकलश्रुतिग्रामानुगामी ( श्रुतिमार्गानुगामी) तत् भगवतस्तत्त्वम्। पौरुषम् येन तेजसा पुरुषोऽह(य)मिति सार्वभौमं प्रतिपद्यते +++(N प्रतिपाद्यते)+++।
 </details>
@@ -281,12 +288,14 @@ such.
 
 7.8 Raso 'ham apsu etc. I am that \[basic\] taste which has not yet devolped as to have the classification of sweetness and so on, and which is being tasted in all waters. Similarly, the light : That \[light\] which is devoid of gentleness and fierceness etc. (The sound that exist\] in the ether in the sky. The sound that etc. Here the emphasis is on all sounds, as they are attributes of the ether. Or, the passage denotes that empty basic sound which, being exclusively an attribute of th ether; which does not depend on any other external cuases like union and partition \[of some objects\]; which exists in the ether within the cave of the Brahman; which is ite intelligible to the groups of Yogins with attentive heart (mind); which bears the name Anahata; and which pervades the entire groups of the Vedas - that sound represents the Absolute. Manly vigour ; that lusture by means of which one is identified as a man throughout the earth.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.8॥ नन्वेकस्य भगवतः कारणत्वमुपादानत्वेन निमित्तत्वादिना वा तत्रापि
 तन्मुख्यं गौणं वा इति चेत् उच्यते तस्य मुख्यमेव सर्वकारणत्वं
@@ -318,10 +327,13 @@ such.
 शब्देष्वानन्दरूपत्वं भवति। नृषु मनुष्येषु पौरुषांशत्वम् पुरुषांशानामेव
 भजनयोग्यतेति तत्सम्बन्धेनैव सर्वमनुष्याणामुत्तमत्वमुच्यत इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.8॥ जगतः स्थितिहेतुत्वं प्रपञ्चयति **रसोऽहमिति पञ्चभिः।** अप्सु
 रसोऽहम्। रसतन्मात्ररूपया विभूत्या तदाश्रयत्वेनाप्सु स्थितोऽहमित्यर्थः।
@@ -331,10 +343,13 @@ such.
 शब्दतन्मात्ररूपोऽस्मि। नृषु पुरुषेषु पौरुषमुद्यमोऽस्मि। उद्यमे हि
 पुरुषास्तिष्ठन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.8 I am the taste in the waters, O Arjuna! I am the light in the sun and the moon; the sacred syllable Om in all the Vedas; sound in the ether; and manhood in men am I.
@@ -367,11 +382,13 @@ and manhood in men.
 प्रणवः the syllable Om; सर्ववेदेषु in all the Vedas; शब्दः sound; खे in ether; पौरुषम् virility; नृषु in men.Commentary In Me all beings and the whole world are woven as a cloth in the warp. In Me as sapidity the water is woven in Me as light; the sun and the moon are woven in Me as the sacred syllable Om all the Vedas are woven in Me as virility all men are woven.The manifestations of the Lord are described in the verses 8;
 9; 10 and 11. (Cf.XV.12)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/08_raso-hamapsu_kaun.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.8।। हे कुन्तीनन्दन ! जलोंमें रस मैं हूँ, चन्द्रमा और सूर्यमें प्रभा
@@ -418,6 +435,7 @@ and manhood in men.
 ।।7.8।। हे कौन्तेय ! जल में मैं रस हूँ, चन्द्रमा और सूर्य में प्रकाश
 हूँ, सब वेदों में प्रणव (ँ़कार) हूँ तथा आकाश में शब्द और पुरुषों में
 पुरुषत्व हूँ।।
+</details>
 </details>
 
 </div>

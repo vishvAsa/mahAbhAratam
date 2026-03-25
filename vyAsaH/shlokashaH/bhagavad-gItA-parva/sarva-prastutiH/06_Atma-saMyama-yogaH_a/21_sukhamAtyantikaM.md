@@ -24,8 +24,9 @@ title = "21 सुखमात्यन्तिकं"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.21॥**यत्तद् अतीन्द्रियम्** आत्मबुद्ध्येक**ग्राह्यम् आत्यन्तिकं सुखं यत्र च** योगे **वेत्ति** अनुभवति यत्र च योगे **स्थितः** सुखातिरेकेण **तत्त्वतः** तद्भावात् **न चलति।**
@@ -42,12 +43,14 @@ title = "21 सुखमात्यन्तिकं"
 (Atman)' by 'the mind (Atman)' one is delighted by the self and indifferent to all other objects; and where, through Yoga, one 'knows',
 i.e., experiences that infinite happiness which can be grasped only by the 'intellect' contemplating on the self, but is beyond the grasp of the senses; where, remaining in that Yoga, one does not 'swerve from that state,' because of the overwhelming happiness that state confers; having gained which, he desires for it alone, even when he is awakened from Yoga, and does not hold anything else as a gain; where one is not moved even by 'the heaviest sorrow' caused by any berevaement like that of a virtuous son - let him know that disunion from all union with pain, i.e., which forms the opposite of union with pain, is called by the term Yoga. This Yoga must be practised with the determination of its nature as such from the beginning with a mind free from despondency, i.e., with zestful exaltation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.21॥ **सुखम्** आत्यन्तिकं अत्यन्तमेव भवति इत्या**त्यन्तिकम्** अनन्तमित्यर्थः **यत् तत् बुद्धिग्राह्यं** बुद्ध्यैव इन्द्रियनिरपेक्षया गृह्यते इति बुद्धिग्राह्यम् **अतीन्द्रियम्** इन्द्रियगोचरातीतम् अविषयजनितमित्यर्थः **वेत्ति** तत् ईदृशं सुखमनुभवति **यत्र** यस्मिन् काले **न च एव अयं** विद्वान् आत्मस्वरूपे **स्थितः** तस्मात् नैव **चलति तत्त्वतः** तत्त्वस्वरूपात् न प्रच्यवते इत्यर्थः॥ किञ्च
 </details>
@@ -127,12 +130,14 @@ deviate from the nature of Reality-. Further,
 स्वरूपसुखानुभवस्तैः प्रतिपादितःस्वस्थं शान्तं सनिर्वाणमकथ्यं सुखमुत्तमम्
 इति। स्पष्टं चैतदुपरिष्टात्करिष्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.21 6.22॥ तत्त्वतो भगवद्रूपत्वात्।
 </details>
@@ -142,12 +147,14 @@ deviate from the nature of Reality-. Further,
 ॥6.21 6.22॥ तत्त्वतस्तद्भावात् ब्रह्मत्वादिति प्रमाणविरुद्धं व्याख्यानं
 व्यावर्तयितुमाह **तत्त्वत** इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md"></div>
 </details>
 
@@ -155,12 +162,14 @@ deviate from the nature of Reality-. Further,
 
 6.20 See Comment under 6.23
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.21॥ आत्मसुखप्राप्तिलक्षणेन फलेन तमेव लक्षयति यत्रेति। सुखमात्यन्तिकं
 इति च आत्मरूपया बुद्ध्या ज्ञानेन ग्राह्यं इतरेन्द्रियाग्राह्यत्वात्
@@ -177,10 +186,13 @@ deviate from the nature of Reality-. Further,
 रसकोटिस्फूर्तिरहितभावेन स्थितो नैव चलतितं विद्यात् 23
 इत्य**भिभ()**श्लोकेनैव सम्बन्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.21॥ आत्मन्येव तोषे हेतुमाह **सुखमिति।** यत्र यस्मिन्नवस्थाविशेषे
 यत्तत्किमपि निरतिशयमात्यन्तिकं नित्यं सुखं वेत्ति। ननु तदा
@@ -188,10 +200,13 @@ deviate from the nature of Reality-. Further,
 विषयेन्द्रियसंबन्धातीतम्। केवलं बुद्ध्यैवात्माकारतया ग्राह्यम्। अतएव च
 यत्र स्थितः संस्तत्त्वत आत्मस्वरूपान्नैव चलति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.21 Where one knows that infinite happiness which can be grasped by the intellect but is beyond the grasp of the senses, wherein established one swerves not from that condition;
@@ -226,11 +241,13 @@ transcending the senses; वेत्ति knows; यत्र where; न not; 
 even; अयम् this; स्थितः established; चलति moves; तत्त्वतः from the Reality.Commentary The Infinite Bliss of the Self (which is beyond the reach of the senses) can be grasped (realised) by the pure intellect independently of the senses. During deep meditation the senses cease to function; as they are involved into their cause; the mind. The intellect is rendered pure by the practice of Yama (selfrestriant) and Niyama
 (observances and disciplinary practices) and constant meditation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.21।। जो सुख आत्यन्तिक, अतीन्द्रिय और बुद्धिग्राह्य है, उस सुखका जिस
@@ -263,6 +280,7 @@ even; अयम् this; स्थितः established; चलति moves; त
 ।।6.21।। जो सुख आत्यन्तिक, अतीन्द्रिय और बुध्दिग्राह्म है, उस सुखका जिस
 अवस्थामें अनुभव करता है और जिस सुखमें स्थित हुआ यह ध्यानयोगी फिर कभी
 तत्वसे विचलित नहीं होता है।।
+</details>
 </details>
 
 </div>

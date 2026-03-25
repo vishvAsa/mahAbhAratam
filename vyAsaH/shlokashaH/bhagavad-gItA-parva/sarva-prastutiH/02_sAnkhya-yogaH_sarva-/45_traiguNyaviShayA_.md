@@ -24,8 +24,9 @@ title = "45 त्रैगुण्यविषया वेदा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 एवम् अत्यन्ताल्प-फलानि पुनर्-जन्म-प्रसवानि कर्माणि माता-पितृ-सहस्रेभ्यो ऽपि वत्सल-तरतया आत्मोपजीवने प्रवृत्ता वेदाः किमर्थं वदन्ति कथं वा वेदोदितानि त्याज्यतया उच्यन्ते इत्य् अत्र आह -
@@ -54,12 +55,14 @@ title = "45 त्रैगुण्यविषया वेदा"
 (Kamya-karmas) have such persons in view. Because of their great love,
 the Vedas teach what is good to those in whom Tamas, Rajas and Sattva preponderate. If the Vedas had not explained to these persons the means for the attainment of heaven etc., according to the Gunas, then those persons who are not interested in liberation owing to absence of Sattva and preponderance of Rajas and Tamas in them, would get completely lost amidst what should not be resorted to, without knowing the means for attaining the results they desire. Hence the Vedas are concerned with the Gunas. Be you free from the three Gunas. Try to acire Sattva in abundance; increase that alone. The purport is: do not nurse the preponderance of the three Gunas in their state of inter-mixture; do not cultivate such preponderance. Be free from the pairs of opposites; be free from all the characteristics of worldly life. Abide in pure Sattva; be established in Sattva, in its state of purity without the admixture of the other two Gunas. If it is estioned how that is possible, the reply is as follows. Never care to acire things nor protect what has been acired. While abandoning the acisition of what is not reired for self-realisation, abandon also the conservation of such things already acired. You can thus be established in self-control and thery become an aspirant after the essentail nature of the self. 'Yoga' is acisition of what has not been acired; 'Ksema' is preservation of things already acired. Abandoning these is a must for an aspirant after the essential nature of the self. If you conduct yourself in this way, the preponderance of Rajas and Tamas will be annihilated, and pure Sattva will develop. Besides, all that is taught in the Vedas is not fit to be utilised by all.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.45॥ **त्रैगुण्यविषयाः** त्रैगुण्यं संसारो विषयः प्रकाशयितव्यः येषां ते **वेदाः** त्रैगुण्यविषयाः। 
 
@@ -218,12 +221,14 @@ This is the advice given to you while you are engaged in your own duty.
 संपादयिष्यतीति निश्चित्य निश्चिन्तो भवेत्यर्थः। आत्मवानप्रमत्तो भवेति
 वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.45॥ तां योगबुद्धिमाह त्रैगुण्यविषया इत्यादिना। इतरदपोद्य वेदानां
 परोक्षार्थत्वात्ति्रगुणसम्बन्धिस्वर्गादिप्रतीतितोऽर्थ इव भाति। परोक्षवादो
@@ -266,12 +271,14 @@ This is the advice given to you while you are engaged in your own duty.
 स्यात्। नचैवं प्रत्युत तदनुगुण एवेति भावः। धर्मशब्दोऽत्र
 निवृत्तिधर्मपरः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.46॥ अत एव च त्रैगुण्येति। वेदास् त्रैगुण्येन करणेन +++(N कारणेन)+++ विशेषेण सिन्वन्ति बध्नन्ति +++(N बध्नन्तीति)+++ - न +++(N omit न तु)+++ तु स्वयं बन्धका - यस्मात् सुख-दुःख-मोह-बुद्ध्या कर्माणि वैदिकानि क्रियमाणानि बन्धकानि। अतः त्रैगुण्यं कामरूपं त्याज्यम्। यदि तु वेद-दूषण-परम् एतद् अभविष्यत् - प्रकृतं युद्ध-करणं व्यघटिष्यत, वेदाद् अन्यस्य स्व-धर्म-निश्चायकत्वाऽभावात्।+++(5)+++ येषां तु फलाभिलाषो विगलितः तेषां न वेदाः बन्धकाः।+++(5)+++
 </details>
@@ -280,12 +287,14 @@ This is the advice given to you while you are engaged in your own duty.
 
 2.45 Traigunya-etc. The Vedas bind very much \[only\] by means of the three Strands and they do not bind on their own accord. For, the rituals prescribed in the Vedas, create bondage if they are performed with an intention of pleasure, or of (avoiding) pain, or with an illlusion of attachment. Hence the traid of Strands in the form of desire (or in a pleasing form) must be abandoned. If the present passage were intended to condemn the Vedas, then the act of fighting the battle in estion would be spoiled, because there is nothing other than the Vedas do not bind those, from whom the desire for fruit has completely gone. Because the Vedas alone are useful for proper knowledge in the case of those persons \[free from the Strands\] hence \[the Lord\] says-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.45॥ स्वयमेव वेदतात्पर्यमाह भगवान् त्रैगुण्यविषया वेदा इति। यत एवं
 कामात्मनां त्रैगुण्याधिकारिणां त्रैगुण्यफलविषया वेदास्त्रिकाण्डविषया अपि
@@ -324,10 +333,13 @@ This is the advice given to you while you are engaged in your own duty.
 साधनासाध्यपरमाप्तवस्त्वभिलाषो योगः स्वेच्छाप्राप्तवस्तुन्याप्तज्ञानेन
 स्वीकारो क्षेमस्तद्रहित आत्मवान् आत्मज्ञानवान् भवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.45॥ ननु च यदि स्वर्गादिकं परमं फलं न भवति तर्हि किमिति
 वेदैस्तत्साधनतया कर्माणि विधीयन्ते तत्राह **त्रैगुण्यविषया इति।**
@@ -339,10 +351,13 @@ This is the advice given to you while you are engaged in your own duty.
 आत्मवानप्रमत्तः। नहि द्वन्द्वाकुलस्य योगक्षेमव्यापृतस्य च
 प्रमादिनस्त्रैगुण्यातिक्रमः संभवतीति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.45 The Vedas have the three Gunas for their sphere, O Arjuna. You must be free from the three Gunas and be free from the pairs of opposites.
@@ -381,11 +396,13 @@ you must be free from the three Strands, free from the pairs \[of opposites\]; b
 (darkness or inertia). The pairs of opposites are heat and cold;
 pleasure and pain; gain and loss; victory and defeat; honour and dishonour; praise and censure. He who is anxious about new acuqisitions or about the preservation of his old possessions cannot have peace of mind. He is ever restless. He cannot concentrate or meditate on the Self. He cannot practise virtue. Therefore; Lord Krishna advises Arjuna that he should be free from the thought of acisition and preservation of things. (Cf.IX.20;21).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/45_traiguNyaviShayA_.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.45।। वेद तीनों गुणोंके कार्यका ही वर्णन करनेवाले हैं; हे अर्जुन! तू
@@ -474,6 +491,7 @@ pleasure and pain; gain and loss; victory and defeat; honour and dishonour; prai
 ।।2.45।। हे अर्जुन वेदों का विषय तीन गुणों से सम्बन्धित (संसार से) है
 तुम त्रिगुणातीत; निर्द्वन्द्व; नित्य सत्त्व (शुद्धता) में स्थित;
 योगक्षेम से रहित और आत्मवान् बनो।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "10 सहयज्ञाः प्रजाः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 यज्ञ-शिष्टेनैव सर्व-पुरुषार्थ-साधन-निष्ठानां शरीर-धारण-कर्तव्यताम्  
@@ -70,12 +71,14 @@ title = "10 सहयज्ञाः प्रजाः"
 
 3.10 As there is the scriptural text beginning with 'The Lord of Universe' (Tai. Na., 11.3), it is justifiable to take the term Prajapati in its wider connotation and interpret it to mean Narayana who is the Lord of all beings, the creator of the universe and the Self of the universe. In the beginning, i.e., during the creation, He, the Lord of beings, saw all beings helpless by their conjunction with beginningless non-conscient matter, bereft of the distinctions of name and form, and submerged in Himself. They were incapable of attaining the major ends of human existence, being almost one with non-conscient matter. He, the supremely compassionate, with a desire to resuscitate them, created them together with sacrifice in order that they might perform sacrifices as His worship and said: 'By this sacrifice, shall you prosper,' i.e., multiply and prosper. May this sacrifice fulfil your supreme object of desire called release (Moksa) and also the other desires that are in conformity with it. How, then, should this be done;
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.10॥ **सहयज्ञाः** यज्ञसहिताः **प्रजाः** त्रयो वर्णाः ताः **सृष्ट्वा** उत्पाद्य पुरा पूर्वं सर्गादौ **उवाच** उक्तवान् **प्रजापतिः** प्रजानां स्रष्टा **अनेन** यज्ञेन **प्रसविष्यध्वं** प्रसवः वृद्धिः उत्पत्तिः तं कुरुध्वम्। **एष** यज्ञः वः युष्माकम् **अस्तु** भवतु **इष्टकामधुक्** इष्टान् अभिप्रेतान् कामान् फलविशेषान् दोग्धीति इष्टकामधुक्॥ कथम्
 </details>
@@ -145,12 +148,14 @@ objects of desire (kama), particular results, is istakama-dhuk. How;
 तदभिसंध्यनभिसंधिभ्यां काम्यनित्ययोर्विशेषः। अनभिसंहितस्यापि
 वस्तुस्वभावादुत्पत्तौ न विशेषः। विस्तरेण चाग्रे प्रतिपादयिष्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.10 3.11॥ अत्रार्थवादमाह सहयज्ञा इति।
 </details>
@@ -161,12 +166,14 @@ objects of desire (kama), particular results, is istakama-dhuk. How;
 **अत्रे**ति। वर्णाश्रमोचितस्य कर्मणः सर्वथा कर्तव्यत्वे स्तुतिर्निन्दा
 परकृतिः पुराकल्पोऽर्थवादः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.10॥ सहेति। प्रजापतिः परमात्मा प्रजाः सहैव कर्मभिः ससर्ज। उक्तं च +++(N omits उक्तं च)+++ तेन प्रजानां कर्मभ्य एव प्रसवः सन्तानः। एतान्येव च इष्टं संसारं मोक्षं वा दास्यन्ति संगात्संसारं मुक्तसंगत्वान्मोक्षम् इति ।
 </details>
@@ -175,12 +182,14 @@ objects of desire (kama), particular results, is istakama-dhuk. How;
 
 3.10 Saha-etc. The lord of creatures, the Supreme Soul, created creatures, just together with actions. It has also been declared by Him that the procreation i.e., lineage of creatures is through actions alone; these alone would give them what is desired viz., either the cycle of birth-and-death or emancipation - the cycle of birth-and-death is due to attachment and emancipation, due to the freedom from attachment. The sense-objects deserve to be enjoyed only by those for whom emancipation is the most important. This is declared :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.10 3.11॥ किञ्च श्रुतं च सर्गप्रकरणे यज्ञोपलक्षणकर्मसहितप्रजोत्पादनं
 ब्रह्मणेति कर्मणोऽवश्यकर्त्तव्यतामाह सहेति चतुर्भिः। यज्ञाधिकृताः
@@ -204,10 +213,13 @@ objects of desire (kama), particular results, is istakama-dhuk. How;
 युष्माकं इष्टकामधुक् अभीष्टफलदोऽस्तु भगवदाज्ञया ब्रह्मवाक्यं न मृषा
 भवतीति वरमेव दत्तवान्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/10_sahayajnAH_prajAH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/10_sahayajnAH_prajAH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.10॥ प्रजापतिवचनादपि कर्मकर्तैव श्रेष्ठ इत्याह **सहयज्ञा इति**
 चतुर्भिः। यज्ञेन सह वर्तन्ते इति सहयज्ञाः यज्ञाधिकृता ब्राह्मणाद्याः
@@ -218,10 +230,13 @@ objects of desire (kama), particular results, is istakama-dhuk. How;
 काम्यकर्म प्रशंसा तु प्रकरणेऽसंगतापि सामान्यतोऽकर्मणः
 कर्मश्रेष्ठमित्येतदर्थेत्यदोषः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.10 In the beginning the Lord of all beings, creating man along with the sacrifice, said: 'By this shall you prosper; this shall be the cow of plenty granting all your wants.'
@@ -253,11 +268,13 @@ together with necessary action, the Lord of creatures declared : 'By means of th
 3.10 सहयज्ञाः together with sacrifice; प्रजाः mankind; सृष्ट्वा having created; पुरा in the beginning; उवाच said; प्रजापतिः Prajapati; अनेन by this; प्रसविष्यध्वम् shall ye propagate; एषः this; वः your; अस्तु let be; इष्टकामधुक् milch cow of desires.Commentary Prajapati is the Creator or Brahma. Kamadhuk is another name for the cow Kamadhenu. Kamadhenu is the cow of Indra from which everyone can milk whatever one desires.
 (Cf.VIII.4IX.2427X.25).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.10 -- 3.11।। प्रजापति ब्रह्माजीने सृष्टिके आदिकालमें
@@ -321,6 +338,7 @@ together with necessary action, the Lord of creatures declared : 'By means of th
 ।।3.10।। प्रजापति (सृष्टिकर्त्ता) ने (सृष्टि के) आदि में यज्ञ सहित प्रजा
 का निर्माण कर कहा इस यज्ञ द्वारा तुम वृद्धि को प्राप्त हो और यह यज्ञ
 तुम्हारे लिये इच्छित कामनाओं को पूर्ण करने वाला (इष्टकामधुक्) होवे।।
+</details>
 </details>
 
 </div>

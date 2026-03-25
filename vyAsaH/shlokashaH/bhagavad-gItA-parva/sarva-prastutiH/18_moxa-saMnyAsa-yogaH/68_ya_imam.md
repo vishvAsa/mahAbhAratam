@@ -23,8 +23,9 @@ title = "68 य इमम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.68॥**इदं परमं गुह्यं मद्भक्तेषु यो ऽभिधास्यति;** व्याख्यास्यति सः **मयि** परमां **भक्तिं कृत्वा माम् एव एष्यति** न तत्र संशयः।
@@ -39,12 +40,14 @@ title = "68 य इमम्"
 
 18.68 Whose expounds or elucidates this supreme mystery to My devotees, he, aciring supreme devotion towards Me, will reach Me only. There is no doubt about this.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.68॥ --,**यः इमं** यथोक्तं **परमं** परमनिःश्रेयसार्थं केशवार्जुनयोः संवादरूपं ग्रन्थं **गुह्यं** गोप्यतमं **मद्भक्तेषु** मयि भक्तिमत्सु **अभिधास्यति** वक्ष्यति; ग्रन्थतः अर्थतश्च स्थापयिष्यतीत्यर्थः; यथा त्वयि मया। भक्तेः पुनर्ग्रहणात् भक्तिमात्रेण केवलेन शास्त्रसंप्रदाने पात्रं भवतीति गम्यते। कथम् अभिधास्यति इति; उच्यते -- **भक्तिं मयि परां कृत्वा** भगवतः परमगुरोः अच्युतस्य शुश्रूषा मया क्रियते इत्येवं कृत्वेत्यर्थः। तस्य इदं फलम् -- **मामेव एष्यति** मुच्यते एव। असंशयः अत्र संशयः न कर्तव्यः॥ किं च --,
 </details>
@@ -144,12 +147,14 @@ taught (this) Scripture by virtue of devotion alone to Him. Besides,
 निःसंशयः सन्मामेष्यत्येवेति वा मामेवैष्यति नान्यमिति यथाश्रुतमेव
 वा,योज्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.68॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -158,12 +163,14 @@ taught (this) Scripture by virtue of devotion alone to Him. Besides,
 
 ॥18.68॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.68 -- 18.72॥ य इदमित्यादि धनञ्जयेत्यन्तम्। भक्तिमिति -- एतदेव मयि भक्तिकरणं यत् भक्तेष्वेतन्निरूपणम् +++(;N मद्भक्तेषु )+++। अभिधास्यति +++(S;;N मद्भक्तेष्वभि -- )+++ ; आभिमुख्येन शास्त्रोक्तप्रक्रियया; धास्यति वितरिष्यति \[ यः \] स मन्मयतामेति इति विधिरेवैष नार्थवादः। एवमन्यत्र।
 </details>
@@ -172,12 +179,14 @@ taught (this) Scripture by virtue of devotion alone to Him. Besides,
 
 18.68 See Comment under 18.72
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.68॥ एतद्दोषरहितास्तु मद्भक्ता एव; नान्य इति तेभ्यो दाने फलमाह -- य
 इदमिति। मद्भक्तेष्वभिधास्यति स मामेवैष्यति।
@@ -192,19 +201,25 @@ taught (this) Scripture by virtue of devotion alone to Him. Besides,
 चैतच्छ्रवणेन असंशयः सन्देहरहितः सन् परां सर्वोत्कृष्टां पूर्वोक्तां मयि
 भक्तिं कृत्वा मामेव एष्यति; प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.68॥ एतैर्दोषैर्विरहितेभ्यो मद्भक्तेभ्योगीताशास्त्रोपदेष्टुः फलमाह
 **-- य इति।** मद्भक्तेष्वभिधास्यति मद्भक्तेभ्यो यो वक्ष्यति स मयि परां
 भक्तिं करोति। ततो निःसंशयः सन् मामेव प्राप्नोतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.68 He who proclaims among My devotees this supreme mystery, shall come to Me, aciring supreme devotion towards Me. There is no doubt about this.
@@ -237,11 +252,13 @@ cultivating an utmost devotion towards Me, and not entertaining any doubt, shall
 supreme; कृत्वा having done; माम् to Me; एव even; एष्यति shall come;
 असंशयः doubtless.Commentary This supreme secret The teachings of the Gita as taught above in the form of a dialogue between Lord Krishna and Arjuna. Why is it called a supreme secret Because it helps one to attain immortality or freedom from the whell of birth and death.He alone; who has devotion; is alified to receive the teachings of the Gita.Teach with the faith that he is thus doing service to the Lord; the Supreme Teacher.Doubtless may also mean freedom from doubts.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.68।। मेरेमें पराभक्ति करके जो इस परम गोपनीय संवाद-(गीता-ग्रन्थ) को
@@ -333,6 +350,7 @@ supreme; कृत्वा having done; माम् to Me; एव even; एष
 
 ।।18.68।। जो पुरुष मुझसे परम प्रेम (परा भक्ति) करके इस परम गुह्य ज्ञान
 का उपदेश मेरे भक्तों को देता है, वह नि:सन्देह मुझे ही प्राप्त होता है।।
+</details>
 </details>
 
 </div>

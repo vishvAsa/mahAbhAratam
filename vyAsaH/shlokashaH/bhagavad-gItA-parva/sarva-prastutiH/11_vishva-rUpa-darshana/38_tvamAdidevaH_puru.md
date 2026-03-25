@@ -25,8 +25,9 @@ title = "38 त्वमादिदेवः पुरुषः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.38॥  
@@ -43,12 +44,14 @@ title = "38 त्वमादिदेवः पुरुषः"
 
 11.38 You alone are all the knowers and all that must be known. You alone, abiding thus as the Self of all, are the 'Dhaman' (abode), namely, the goal to be attained. By You, O infinite of form, is the universe pervaded. By You the universe, composed of conscient beings and non-conscient matter, is 'Tatam', pervaded. You are the Primal God, the Ancient Person. You are the supreme resting place of the universe. The meaning is that You are the supreme foundation of the universe which constitutes Your body, as You are its Self. \[It is to be noted how Ramanuja derives here the meaning of 'individual self' for the word Aksara, which helps him to explain 'Kutasth'oksara ucchyate' in 15.16\] Arjuna says: 'Therefore You alone are expressed by the terms Vayu etc.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.38॥ --,**त्वम् आदिदेवः;** जगतः स्रष्ट्टत्वात्। **पुरुषः;** पुरि शयनात् **पुराणः** चिरंतनः **त्वम्** एव **अस्य विश्वस्य परं** प्रकृष्टं **निधानं** निधीयते अस्मिन् जगत् सर्वं महाप्रलयादौ इति। किञ्च; **वेत्ता असि;** वेदिता असि सर्वस्यैव वेद्यजातस्य। यत् च **वेद्यं** वेदनार्हं तच्**च** असि **परं च धाम** परमं पदं वैष्णवम्। **त्वया ततं** व्याप्तं **विश्वं** समस्तम्; हे **अनन्तरूप** अन्तो न विद्यते तव रूपाणाम्॥ किञ्च
 --,
@@ -135,12 +138,14 @@ Further,
 सत्तास्फूर्तिशून्यं विश्वं कार्यं मायिकसंबन्धेनैव स्थितिकाले। हे
 अनन्तरूप अपरिच्छिन्नस्वरूप।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.37 -- 11.40॥ कथं स्थाने इति तदाह -- कस्मादित्यादिना।
 पूर्णश्चासावात्मा चेति महात्मा। आत्मशब्दश्चोक्तो भारते -- यच्चाप्नोति
@@ -163,12 +168,14 @@ Further,
 सत्तादिप्रदत्वादेवोच्यते। नत्वन्यथा; तथा सति उत्तरवाक्यविरोधात्; इति
 भावेन तत्पठित्वा सप्रमाणकं व्याचष्टे -- **तत्परमिति**।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.38॥ No commentary.
 </details>
@@ -177,12 +184,14 @@ Further,
 
 11.38 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.38॥ त्वमिति। ज्ञानं वेत्तासि वेद्यं चेति
 विरुद्धधर्माश्रयत्वमक्षरत्वं च पुनः स्फोटयति -- परं धामेति। तद्धाम परमं
@@ -202,10 +211,13 @@ Further,
 अनन्तरूप इदं विश्वं त्वया ततं व्याप्तं
 त्वद्रूपमेवेत्यर्थः। अनन्तरूपमिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.38॥ किंच **-- त्वमिति।** त्वमादिदेवो देवानामादिः। यतः पुराणोऽनादिः
 पुरुषवस्त्वम्। अतएव त्वमस्य विश्वस्य परं निधानं लयस्थानम्; तथा विश्वस्य
@@ -213,10 +225,13 @@ Further,
 पदं तदपि त्वमेवासि। अतएव हे अनन्तरूप; त्वयैव विश्वमिदं ततं व्याप्तम्।
 एतैश्च सप्तभिर्हेतुभिस्त्वमेव नमस्कार्य इति भावः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.38 (a) You are the Primal God and the Ancient Person. You are the Supreme resting place of the universe৷৷. (b)৷৷.You are the knower and that which must be known, and the Supreme abode. By You, O infinite of form, is this universe pervaded.
@@ -247,11 +262,13 @@ Further,
 11.38 त्वम् Thou; आदिदेवः the primal God; पुरुषः Purusha; पुराणः the ancient; त्वम् Thou; अस्य of (this); विश्वस्य of Universe; परम् the Supreme; निधानम् Refuge; वेत्ता Knower; असि (Thou) art; वेद्यम् to be known; च and; परम् the Supreme; च and; धाम abode; त्वया by Thee; ततम् is pervaded; विश्वम् the Universe; अनन्तरूप O Being of infinite forms.Commentary Primal God; because the Lord is the creator of the universe.Purusha; because the Lord lies in the body (Puri Sayanat).Nidhaanam That in which the world rests during the great deluge or cosmic dissolution.The pot comes out of the clay and gets merged in clay. Even so the world has come out of the Lord and gets dissolved or involved in the Lord. So the Lord is the material cause of the world.
 Therefore; He is the primal God and the supreme refuge also.Vetta Knower of the knowable things. As the Lord is omniscient; He knows all about the world; and He is the instrumental or the efficient cause of this world.Param Dhama Supreme Abode of Vishnu. Just as the rope (the substratum for the superimposed snake) pervades the snake; so also Brahman or Vishnu through His Nature as ExistenceKnowledgeBliss Absolute pervades the whole universe.Moreover --
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.38।। आप ही आदिदेव और पुराणपुरुष हैं तथा आप ही इस संसारके परम आश्रय
@@ -311,6 +328,7 @@ Therefore; He is the primal God and the supreme refuge also.Vetta Knower of the 
 ।।11.38।। आप आदिदेव और पुराण (सनातन) पुरुष हैं। आप इस जगत् के परम आश्रय,
 ज्ञाता, ज्ञेय, (जानने योग्य) और परम धाम हैं। हे अनन्तरूप आपसे ही यह
 विश्व व्याप्त है।।
+</details>
 </details>
 
 </div>

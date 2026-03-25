@@ -23,8 +23,9 @@ title = "14 अधिष्ठानन् तथा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ... तद् इदम् आह --
@@ -145,12 +146,14 @@ Self as established in the aphorism: 'But from the Supreme, because the scriptur
 (severally) also is responsible for it. In the same way each individual
 is answerable to Nature's law in the form of positive and negative ;ndments.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.14॥ --,**अधिष्ठानम्** इच्छाद्वेषसुखदुःखज्ञानादीनाम् अभिव्यक्तेराश्रयः अधिष्ठानं शरीरम्; **तथा कर्ता** उपाधिलक्षणः भोक्ता; **करणं च** श्रोत्रादिशब्दाद्युपलब्धये **पृथग्विधं** नानाप्रकारं तत् द्वादशसंख्यं **विविधाश्च पृथक्चेष्टाः** वायवीयाः प्राणापानाद्याः **दैवं चैव** दैवमेव च **अत्र** एतेषु चतुर्षु **पञ्चमं** पञ्चानां पूरणम् आदित्यादि चक्षुराद्यनुग्राहकम्॥
 </details>
@@ -281,12 +284,14 @@ relation to these four; pancamam, the fifth-completing the five.
 सद्योजातवामदेवाघोरतत्पुरुषेशानाः पुराणप्रसिद्धाः। भाष्ये
 दैवमादित्यादिचक्षुराद्यनुग्राहकमित्यधिष्ठानादिदेवतानामप्युपलक्षणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.14 -- 18.15॥ अधिष्ठानं देहादिः। कर्ता विष्णुः स हि
 सर्वकर्तेत्युक्तम् जीवस्य चाकर्तृत्वे प्रमाणमुक्तम्। करणमिन्द्रियादि च।
@@ -333,12 +338,14 @@ relation to these four; pancamam, the fifth-completing the five.
 देह इत्युपलक्षणम्। हेतुः कारणम्। कर्म हेत्विति क्वचित्पाठः; तत्र छान्दसो
 लिङ्गव्यत्ययः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.13 -- 18.17॥ अधुना व्यवहारदशायामपि पञ्चस्वपि कर्महेतुषु स्थितेषु बलादेवामी ( बलादमी ) अविद्यान्धाः पुमांसः स्वात्मन्येव सकलकर्तृभावभारमारोपयन्ति ( आरोपयन्त्येते )। अतो निजयैव धिया आत्मानं बध्नन्ति; न तु वस्तुस्थित्या अस्य बन्धः इत्युपदिश्यते -- पञ्चेत्यादि न निबद्ध्यते इत्यन्तम्। कृतः अन्तः; निश्चयः यत्रेति कृतान्तः; सिद्धान्तः। अधिष्ठानं; विषयः। दैवम्; प्रागर्जितं शुभाशुभम्। पञ्चैते अधिष्ठानादयः सामग्रीरूपतां प्राप्ताः सर्वकर्मसु हेतवः। अन्ये तु; अधिष्ठीयते अनेन सर्वं कर्म इति बुद्धिगतं रजोलब्धवृत्तिकं धृतिश्रद्धासुखविविदिषाविविदिषारूपपञ्चकपरिणामिकर्मयोगशब्दवाच्यमधिष्ठानं क्वचित् प्रयत्नशब्देन उक्तम्। कर्ता; अनुसन्धाता बुद्धिलक्षणः। करणं मनश्चक्षुरादि; बाह्यमपि च खड्गादि। चेष्टा प्राणापानादिका। ,दैवशब्देन धर्माधर्मौ ताभ्यां च बुद्धिगताः सर्वेऽपि भावा उपलक्षिताः \[ इति \]। अन्ये तु अधिष्ठानम् ईश्वरं मन्यन्ते। अकृतबुद्धित्वात्; अनिश्चितप्रज्ञतया। यः पुनरहंकारवियोगदार्ढ्येन प्रागुक्तयुक्तिशतशोधितेन कर्माणि करोति न स बन्धभाक् +++(; N न संबन्धभाक् )+++; कृतबुद्धित्वात् इत्याशयः।
 </details>
@@ -347,12 +354,14 @@ relation to these four; pancamam, the fifth-completing the five.
 
 18.14 See Comment under 18.17
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.14 -- 18.15॥ तथाहि अधिष्ठानमिति। शरीरवाङ्मनोभिरिति न्याय्यं
 शास्त्रीयं; विपरीतं निषिद्धं वा; अन्यत्सर्वं कर्म शारीरं वाचिकं मानसं च
@@ -401,10 +410,13 @@ relation to these four; pancamam, the fifth-completing the five.
 चेष्टा व्यापाराः। अत्र एतन्मध्य एव सर्वप्रेरकोऽन्तर्यामी दैवं पञ्चमं
 मुख्यं कारणमित्यर्थः। एवकारेण,तदविरोधेनान्येषां कारणत्वमुक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.14॥ तान्येवाह **-- अधिष्ठानमिति।** अधिष्ठानं शरीरं; कर्ता
 चिज्जडग्रन्थिरहंकारः; पृथग्विधमनेकप्रकारं करणं,चक्षुःश्रोत्रादि;
@@ -412,10 +424,13 @@ relation to these four; pancamam, the fifth-completing the five.
 व्यापाराः। अत्र चैतेष्वेव पञ्चमं दैवं च कारणं
 चक्षुराद्यनुग्राहकमादित्यादिसर्वप्रेरकोऽन्तर्यामी वा।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.14 The seat of action and likewise the agent, the various kinds of organs, the different and distinctive functions of vital air and also the fifth among these, Divinity.
@@ -449,11 +464,13 @@ different; चेष्टाः functions; दैवम् the presiding deity;
 happiness; misery; knowledge and the like. The individual soul experiences through the body the pleasure and pain that arise through contact with matter. Egoism is the agent or the doer or the enjoyer.
 Nature does actions but through delusion the individual soul takes to himself the credit of their execution and; therefore; he is called the agent.Karta The enjoyer putting on the nature or properties of the limiting adjuncts with which he comes into contact.Karanam prithagvidham Various organs such as the organ of hearing; by which the individual soul hears the sound; etc. organs of knowledge and action and the mind.Daivam The presiding deity such as the Sun and the other gods by whose help the eye and the other organs perform their respective functions destiny.Cheshta Play of energy in the organs or the senses during the action.Absence of any of these factors will make action impossible.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/14_adhiShThAnan_tath.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.14।। इसमें (कर्मोंकी सिद्धिमें) अधिष्ठान तथा कर्ता और अनेक प्रकारके
@@ -533,6 +550,7 @@ Nature does actions but through delusion the individual soul takes to himself th
 
 ।।18.14।। अधिष्ठान (शरीर), कर्ता ,विविध करण (इन्द्रियादि) ,विविध और
 पृथक्-पृथक् चेष्टाएं तथा पाँचवा हेतु दैव है।।
+</details>
 </details>
 
 </div>

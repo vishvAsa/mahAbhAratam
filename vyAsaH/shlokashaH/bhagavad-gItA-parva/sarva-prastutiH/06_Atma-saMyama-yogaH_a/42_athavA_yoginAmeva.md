@@ -23,8 +23,9 @@ title = "42 अथवा योगिनामेव"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.42॥ परिपक्वयोगश् चलितश् चेद् **योगिनां धीमतां** योगं कुर्वतां स्वयम् **एव** योगोपदेष्ट्ऋणां **कुले भवति। तद् एतद् उभयविधं योगयोग्यानां योगिनां च कुले** जन्म लोके **प्राकृतानां** दुर्लभतरम् एतत् **तु योगमाहात्म्यकृतम्।**
@@ -41,12 +42,14 @@ title = "42 अथवा योगिनामेव"
 
 6.42 If one swerves from the right path at an advanced stage of Yoga, he will be born in a family of wise Yogins who practise Yoga and are themselves capable of teaching Yoga. Thus, these two types of birth - one in the family of those who are fit to practise Yoga and the other in that of accomplished Yogins - are hardly met with among common people in this world. But Yoga is of such great potentiality that even this rare blessing is achieved through it.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.42॥ **अथवा** श्रीमतां कुलात् अन्यस्मिन् **योगिनामेव** दरिद्राणां **कुले भवति** जायते **धीमतां** बुद्धिमताम्। **एतत् हि** जन्म यत् दरिद्राणां योगिनां कुले **दुर्लभतरं** दुःखलभ्यतरं पूर्वमपेक्ष्य **लोके जन्म यत् ईदृशं** यथोक्तविशेषणे कुले॥ यस्मात्
 </details>
@@ -107,12 +110,14 @@ compared with the earlier one; loke, in the world. Becuase,
 सर्वप्रमादकारणशून्यं जन्मेति द्वितीयः स्तूयते। भोगवासनाशून्यत्वेन
 सर्वकर्मसंन्यासार्हत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.42॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -121,12 +126,14 @@ compared with the earlier one; loke, in the world. Becuase,
 
 ॥6.42॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.42॥ अथ वे ति। यदि तु तारतम्येन अस्य अपवर्गेण भवितव्यं तदा योगिकुले एव जायते। अत एवाह एतद्धि दुर्लभतरम् इति। श्रीमतां गेहे किलावश्यमेव विघ्नाः सन्ति।
 </details>
@@ -135,12 +142,14 @@ compared with the earlier one; loke, in the world. Becuase,
 
 6.42 Atha va etc. If emancipation is destined to come to him by way of difference (or in grades), then he is rorn nowhere but in a family of the men of Yoga. That is why (the Lord) says : 'For, this birth is more difficult ot get'. Indeed in the house of the rich there are necessarily many obstacles.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.42॥ अथवाऽऽरब्धच्युतस्य जन्म पुनः साधनार्थं संस्कारतो योगिनामेव कुले
 भवति। किम्भूतानां योगबुद्धिमतां यदीदृशं जन्म तदेतल्लोके दुर्लभतरम्। अत्र
@@ -158,20 +167,26 @@ compared with the earlier one; loke, in the world. Becuase,
 ज्ञानोत्पत्तिर्व्यञ्जिता। जन्म विशिनष्टि एतदिति। हीति
 निश्चयेनैतद्दुर्लभतरं यल्लोके ईदृशं भगवत्स्वरूपज्ञानात्मकं जन्म।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.42॥ अल्पकालाभ्यस्तयोगभ्रंशे गतिरियमुक्ता चिराभ्यस्तयोगभ्रंशे तु
 पक्षान्तरमाह **अथेति।** योगनिष्ठानां धीमतां ज्ञानिनामेव कुले जायते नतु
 पूर्वोक्तानामनारूढयोगानां कुले जायते एतज्जन्म स्तौति। ईदृशं यज्जन्म
 एतद्धि लोके दुर्लभतरम् मोक्षहेतुत्वात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.42 Or he is born in a family of wise Yogins. But such a birth in this world is rarer to get.
@@ -202,11 +217,13 @@ Janaka and Asvapati of olden days, and Vacaspati and the author of Khanada of re
 
 6.42 अथवा or; योगिनाम् of Yogis; एव even; कुले in the family; भवति is born; धीमताम् of the wise; एतत् this;,हि verily; दुर्लभतरम् very difficult; लोके in the world; जन्म birth; यत् which; ईदृशम् like this.Commentary A birth in a family of wise Yogis is more difficult to obtain than the one mentioned in the preceding verse.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.42।। अथवा (वैराग्यवान्) योगभ्रष्ट ज्ञानवान् योगियोंके कुलमें ही जन्म
@@ -265,6 +282,7 @@ Janaka and Asvapati of olden days, and Vacaspati and the author of Khanada of re
 
 ।।6.42।। अथवा, (साधक) ज्ञानवान् योगियों के ही कुल में जन्म लेता है,
 परन्तु इस प्रकार का जन्म इस लोक में नि:संदेह अति दुर्लभ है।।
+</details>
 </details>
 
 </div>

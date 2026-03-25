@@ -23,8 +23,9 @@ title = "20 सर्वभूतेषु येनैकम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.20॥ ब्राह्मणक्षत्रियब्रह्मचारिगृहस्थादिरूपेण विभक्तेषु सर्वेषु **भूतेषु** कर्माधिकारिषु **येन** ज्ञानेन एकाकारम् आत्माख्यं **भावं** तत्र अपि **अविभक्तं** ब्राह्मणत्वाद्यनेकाकारेष्व् अपि भूतेषु सितदीर्घादिविभागवत्सु ज्ञानैकाकारम् आत्मानं विभागरहितम्। अव्ययं व्ययस्वभावेष्व् अपि ब्राह्मणादिशरीरेष्व् अव्ययम् अविकृतं फलादिसङ्गानर्हं च कर्माधिकारखेलायाम् **ईक्षते; तज् ज्ञानं सात्त्विकं विद्धि।**
@@ -39,12 +40,14 @@ title = "20 सर्वभूतेषु येनैकम्"
 
 18.20 The self (Atman), which is of the form of knowledge, is alike and uniform, though distinct, in all beings, even though they may externally, and from the point of view of duty, be distinguished as Brahmanas, Ksatriyas, householders, celibates, fair, tall etc. The immutable selves in all these perishing forms or bodies are unaffected by the fruits of actions. Such knowledge of the immutability of the self in all changing beings, is Sattvika.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.20॥ --,**सर्वभूतेषु** अव्यक्तादिस्थावरान्तेषु भूतेषु **येन** ज्ञानेन **एकं भावं** वस्तु -- भावशब्दः वस्तुवाची; एकम् आत्मवस्तु इत्यर्थः **अव्ययं** न व्येति स्वात्मना स्वधर्मेण वा; कूटस्थम् इत्यर्थः **ईक्षते** पश्यति येन झानेन; तं च भावम् **अविभक्तं** प्रतिदेहं **विभक्तेषु** देहभेदेषु न विभक्तं तत् आत्मवस्तु; व्योमवत् निरन्तरमित्यर्थः **तत् ज्ञानं** साक्षात् सम्यग्दर्शनम् अद्वैतात्मविषयं **सात्त्विकं विद्धि** इति॥ यानि द्वैतदर्शनानि तानि असम्यग्भूतानि राजसानि तामसानि च इति न साक्षात् संसारोच्छित्तये भवन्ति --,
 </details>
@@ -129,12 +132,14 @@ themselves adeate for the eradication of worldly existence.
 ज्ञानं विद्धि। द्वैतदर्शनं तु राजसं तामसं च संसारकारणं न
 सात्त्विकमित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.20॥ एकं भावं विष्णुम्।
 </details>
@@ -144,12 +149,14 @@ themselves adeate for the eradication of worldly existence.
 ॥18.20॥ एकं भावमिति सामान्येनोक्तम् कोऽसावेको भावः इत्याकाङ्क्षायामाह
 -- **एकमि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.20 -- 18.22॥ तत्र +++(S adds शरीरे after तत्र )+++ सर्वभूतेषु इत्यादिना श्लोकत्रयेण ( श्लो.2022 ) ज्ञानकरणस्य त्रैरूप्यमुक्तम्। अत एव येन इति तृतीया। इयता च ज्ञानकरणसामान्यस्य +++(; N record an alternative reading सामर्थ्यस्य for सामान्यस्य by saying सामर्थ्यस्येत्यन्यादर्शे )+++ स्वरूपमुक्तम्। नियतम् इत्यादिना श्लोकत्रयेण ( श्लो. 2325 ) कर्मणो ज्ञेयकार्यरूपस्य द्वैविध्यम् मुक्तसंगः इत्यादिना श्लोकत्रयेण ( श्लो. 2628 ) तु कर्तुर्द्विरूपस्य संक्षेपेण स्वरूपम् करणविशेषस्य स्वरूपभेदप्रतिपादनार्थ \[ प्रवृत्तिम् इत्यादिना श्लोकत्रयेण ( 3032 ) \] बुद्धेस्त्रैविध्यं निरूपितम् +++(S -- विध्यमुपलक्षितम् )+++। तद्द्वारेण करणान्तराणामपि त्रैविध्यमुपलक्षितम्। करणस्य तु इतिकर्तव्यतापेक्षित्वात् इतिकर्तव्यतायाश्च धृत्यादिपञ्चकरूपत्वेऽपि; श्रद्धायाः पूर्वमुक्तत्वात्; विविदिषाविविदिषयोश्च धृतिसुखाभ्यामाक्षेपात् तयोस्त्रैविध्यम् धृत्या यया इत्यनेन \[ श्लोकत्रयेण ( 3335 ) \] सुखं त्विदानीम् इत्यनेन \[ श्लोकत्रयेण ( 3639 ) \] चोक्तम्। तदाह -- सर्वभूतेषु इत्यादि समुदाहृतमित्यन्तम्। विभक्ततेषु; देवमनुष्यादितया। पृथक्त्वेन; इह मे प्रीतिः इह मे द्वेषः इत्यादिबुद्ध्या। अहेतुकम्; कारणमविचार्यैव अभिनिवेशावेशवशात् क्रोधरागादिग्रहणं यत् तत्तामसंज्ञम्।
 </details>
@@ -158,12 +165,14 @@ themselves adeate for the eradication of worldly existence.
 
 18.20 See Comment under 18.22
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.20॥ सर्वभूतेष्विति। येन ज्ञानेन
 विप्रक्षत्त्रब्रह्मचारिगृह्यादिरूपेण विभक्तेष्वपि कर्माधिकारिषु
@@ -182,20 +191,26 @@ themselves adeate for the eradication of worldly existence.
 भिन्नेषु अविभक्तमनुस्यूतं एकं भावं भगवत्क्रीडारूपम्; अतएव अव्ययं
 निर्विकारम्; ईक्षते आलोचनात्मकतया पश्यति तज्ज्ञानं सात्त्विकं विद्धि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.20॥ तत्र ज्ञानस्य सात्त्विकादि त्रैविध्यमाह **-- सर्वभूतेष्विति
 त्रिभिः।** सर्वेषु भूतेषु ब्रह्मादिस्थावरान्तेषु विभक्तेषु परस्परं
 व्यावृत्तेषु अविभक्तमनुस्यूतं एकमव्ययं निर्विकारं भावं परमात्मतत्त्वं
 येन ज्ञानेनेक्षते आलोचयति तज्ज्ञानं सात्त्विकं विद्धि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.20 Know that Knowledge to be Sattvika by which one sees in all beings, one immutable existence undivided in the divided.
@@ -230,11 +245,13 @@ the One Indivisible in all separate lives, may be truly called Pure Knowledge.
 सात्त्विकम् Sattvic (pure).Commentary That knowledge that sees no difference in all objects that are perceived; is pure. The seer beholds the one allpervading imperishable substance or essence behind the seeming diversity of the objects. He beholds unity in diversity; one in many; all in one. He sees that all the diverse objects are rooted in the One.Bhavam Reality The One Self.Sarvabhuteshu In all beings From the Unmanifested down to the insentient and unmoving objects.Avyayam Indestructible inexhaustible unchangeable that which cannot be exhausted either in itself or in its properties immutable.Just as the ether is indivisible; so also the Self is indivisible. The Self is the same in all bodies. It is the common consciousness in all bodies. It is not different in different bodies. It is one homogeneous indivisible essence or substance in all bodies; in all beings. Know thou; O Arjuna; this direct and right perception of the nondual Self as Sattvic (pure).
 (Cf.IV.35VI.29XIII.16;28XVIII.30)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/20_sarvabhUteShu_yen.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.20।। जिस ज्ञानके द्वारा साधक सम्पूर्ण विभक्त प्राणियोंमें विभागरहित
@@ -336,6 +353,7 @@ the One Indivisible in all separate lives, may be truly called Pure Knowledge.
 ।।18.20।। जिस ज्ञान से मनुष्य, विभक्त रूप में स्थित समस्त भूतों में एक
 अविभक्त और अविनाशी (अव्यय) स्वरूप को देखता है, उस ज्ञान को तुम सात्त्विक
 जानो।।
+</details>
 </details>
 
 </div>

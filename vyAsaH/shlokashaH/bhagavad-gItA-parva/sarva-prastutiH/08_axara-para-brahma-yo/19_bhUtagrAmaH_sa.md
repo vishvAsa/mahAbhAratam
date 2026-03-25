@@ -23,8 +23,9 @@ title = "19 भूतग्रामः स"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.19॥**स एव अयं** कर्मवश्यो **भूतग्रामो ऽहरागमे भूत्वा भूत्वा रात्र्यागमे प्रलीयते** पुनो ऽपि **अहरागमे प्रभवति।** तथा वर्षशतावसानरूपयुगसहस्रान्ते ब्रह्मलोकपर्य्यन्ता लोका ब्रह्मा च पृथिव्य् अप्सु प्रलीयते आपस् तेजसि लीयन्ते इत्यादिक्रमेण अव्यक्ताक्षरतमःपर्यन्तं मय्य् एव प्रलीयन्ते। एवं मद्व्यतिरिक्तस्य कृत्स्नस्य कालव्यवस्थया मत्त उत्पत्तेर् मयि प्रलयाच् च उत्पत्तिविनाशयोगित्वम् अवर्जनीयम् इत्य् ऐश्वर्यगतिं प्राप्तानां पुनरावृत्तिर् अपरिहार्या। माम् उपेतानां तु न पुनरावृत्तिप्रसङ्गः। अथ कैवल्यप्राप्तानाम् अपि पुनरावृत्तिर् न विद्यते इत्य् आह --
@@ -43,12 +44,14 @@ title = "19 भूतग्रामः स"
 (Su. U., 2). The process of involution ends, after passing through all the other stages of dissolution, with the Avyakta, Akasa and Tamas.
 Therefore, for every other entity except Myself, origination and annihilation are unavoidable. So for those who seek Aisvarya (prosperity and power) birth and dissolution according to the above mentioned time arrangement are unavoidable. But in the case of those who attain to Me, there is no return again to Samsara. \[The immense duration of time, according to ancient thinkers, is as follows: Catur-yuga, or a unit of the four yugas of Krta, Treta, Dvapara and Kali, has a cumulative duration of 4,320,000 human years. A thousand such periods constitute a day time of Brahma and a similar period his night. Periodic creation and dissolution of the universe take place in these two periods respectively. One year of Brahma consists of 360 such diurnal period. A Brahma has a life-span of 100 such years - i.e., 311, 040, 000,000,000 human years. At the end of it, there is a Mahapralaya, and a new Brahma comes into being. Time thus goes on endlessly\]. Now Sri Krsna teaches that there is no return to Samsara even for those who have attained Kaivalya (isolation of the self).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.19॥ --,**भूतग्रामः** भूतसमुदायः स्थावरजङ्गमलक्षणः यः पूर्वस्मिन् कल्पे आसीत् **स एव अयं** नान्यः। **भूत्वा भूत्वा** अहरागमे **प्रलीयते** पुनः पुनः **रात्र्यागमे** अह्नः क्षये **अवशः** अस्वतन्त्र एव हे **पार्थ प्रभवति** जायते अवश एव **अहरागमे**॥  
   
@@ -151,12 +154,14 @@ said-that It is to be reached through this path of yoga:
 दर्शनात् स्मृतेश्च इति न्यायाच्च। अवश इत्यविद्याकामकर्मादिपरतन्त्रः। हे
 पार्थ स्पष्टमितरत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.17 -- 8.19॥ मां प्राप्य न पुनरावृत्तिरिति स्थापयितुं
 अव्यक्ताख्यात्मसामर्थ्यं दर्शयितुं प्रलयादि दर्शयति --
@@ -187,12 +192,14 @@ said-that It is to be reached through this path of yoga:
 इति। न ह्यवान्तरप्रलये सर्वेषामाकाशादीनां भूतानां नाशः नापि विरिञ्चस्य
 पञ्चभूतनाशेऽपि अविनाशित्वमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.17 -- 8.19॥ ननु क एवं जानाति यत् सर्वभुवनेभ्यः पुनरावृत्तिः। ब्रह्मादय एव ही तावत् चिरतरस्थायिनः श्रूयन्ते। ते एव +++(SN अत एव तावत्)+++ कथं पुनरावर्त्तिनः पुनरावर्त्तित्वे हि तेऽपि स्युः प्रभवाप्ययधर्माणाः इत्या\[शङ्कया \] ह -- सहस्रेत्यादि आगम इत्यन्तम्। ये खलु दीर्घदृश्वानः +++(N अदीर्घ -- )+++ ते ब्रह्मणोऽपि रात्रिं दिवं \[ च \] पश्यन्ति प्रलयोदयतया। तथा च अहरहस्त एव विबुध्य निजां निजामेव चेष्टामनुरुध्यन्ते ( -- मवरुध्यन्ते) प्रतिरात्रि च तेषामेव निवृत्तपरिस्पन्दानां +++(S -- परिस्पन्दिनाम्)+++ शक्तिमात्रत्वेनावस्थानम् +++(N -- त्वेनोपस्थानम्)+++। एवं सृष्टौ प्रलये च पुनः पुनर्भावः +++(K [n] -- र्भवः)+++। नान्येऽन्ये उपसृज्यन्ते अपि तु त एव जीवाः। कालकृतस्तु चिरक्षिप्रप्रत्ययात्मा विशेषः। एष च परिच्छेदः प्रजापतीनामप्यस्ति। ततश्च तेऽपि प्रभवाप्ययधर्माण एवेति स्थितम्।
 </details>
@@ -201,12 +208,14 @@ said-that It is to be reached through this path of yoga:
 
 8.17-19 Sahasra-etc., upto aharagama. Those who could see afar (great seers), see \[actually\] the night and day even in the case of Brahma as being marked \[respectively\] by the destruction and creation \[of the world\]. Accordingly, having risen from sleep, the same \[Selves\] continue their own respective activities every day; they theyselves, putting an end to their activities every night, remain exclusively in the form of Energy \[of the Absolute\]. In this manner they come to be again and again at the time of creation and of dissolution. No new, but only the self-same personal Souls are let loose. Their mutual difference in the form of the idea of the long and short lives is based only on the concept of time. This delimitation is unavoidable even in the case of the Prajapatis. Hence it is established that they too are cetainly of the nature of having evolution and dissolution. \[The Lord\] clarifies His \[own\] statement : 'People do return from each and every world; but having attained Me, the Supreme Lord, they do not do so.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.19॥ उत्पत्तिः प्रलयश्चापि तेषामेव व्यष्टीनां न त्वन्येषां नूतनानां
 मुक्तानां वेति निरूपयति -- भूतग्राम इति। यः पूर्वोक्तः स एवायं अवशः
@@ -221,10 +230,13 @@ said-that It is to be reached through this path of yoga:
 पार्थेति सावधानः श्रृण्वित्यर्थः। तथैव अहरागमे दिनागमेऽवश एव प्रभवति
 उत्पद्यत इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.19॥ तत्र च कृतनाशाकृताभ्यागमशङ्कां वारयन्वैराग्यार्थं
 सृष्टिप्रलयप्रवाहस्याविच्छेदं दर्शयति **-- भूतेति।** भूतानां
@@ -232,10 +244,13 @@ said-that It is to be reached through this path of yoga:
 रात्रेरागमे प्रलीयते। प्रलीय पुनरप्यहरागमेऽवशः कर्मादिपरतन्त्रः प्रभवति।
 नान्य इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.19 O son of Prtha, after being born again and again, that very multitude of beings disappears in spite of itself at the approach of night. It comes to life at the approach of day.
@@ -265,11 +280,13 @@ all are dissolved as the night of the universe approaches, to issue forth anew w
 प्रभवति comes forth; अहरागमे at the coming of day.Commentary Avidya
 (ignorance); Kama (desire) and Karma (action) are the three knots that bind the individual to Samsara. Desire is born of Avidya. Man exerts to attain and enjoy the objects of his desires. During this activity he favours some and injures others through the force of RagaDvesha (love and hatred or attraction and repulsion). Therefore he is caught in the wheel of Samsara or transmigration. He has to take birth again and again to reap the fruits of his own actions. He repeatedly comes forths and dissolves through the force of his own Karma.The individual souls have lost their independence as they are bound by ignorance; desire and activity. Therefore they are subject to the sorrows; miseries and pains of this Samsara. In order to create dispassion in their minds and a longing for liberation in their hearts; and to remove the fallacious belief that a man reaps the fruits of what he has not done or that he does not reap the fruits of what he has done; the Lord has said that all creatures involuntarily come into being again and again at the coming of the day and dissolve at the coming of the night (on account of the actions or Karmas caused by desire born of ignorance).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.19।। हे पार्थ ! वही यह प्राणिसमुदाय उत्पन्न हो-होकर प्रकृतिके परवश
@@ -392,6 +409,7 @@ all are dissolved as the night of the universe approaches, to issue forth anew w
 ।।8.19।। हे पार्थ ! वही यह भूतसमुदाय, है जो पुनः पुनः उत्पन्न होकर लीन
 होता है। अवश हुआ (यह भूतग्राम) रात्रि के आगमन पर लीन तथा दिन के उदय होने
 पर व्यक्त होता है।।
+</details>
 </details>
 
 </div>

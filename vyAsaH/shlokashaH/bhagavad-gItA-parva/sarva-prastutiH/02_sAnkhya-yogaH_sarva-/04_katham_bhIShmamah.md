@@ -26,8 +26,9 @@ title = "04 कथम् भीष्ममहम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.4॥ अर्जुन उवाच पुनरपि पार्थः स्नेहकारुण्यधर्माधर्मभयाकुलो भगवदुक्तं हिततमम् अजानन् इदम् उवाच। भीष्मद्रोणादिकान् बहुमन्तव्यान् गुरून् कथम् अहं हनिष्यामि कथन्तरां भोगेष्वतिमात्रसक्तान् तान् हत्वा तैर् भुज्यमानान् तान् एव भोगान् तद्रुधिरेण उपसिच्य तेष्व् आसनेषु उपविश्य भुञ्जीय।
@@ -42,12 +43,14 @@ title = "04 कथम् भीष्ममहम्"
 
 2.4 - 2.5 Arjuna said Again Arjuna, being moved by love, compassion and fear, mistaking unrighteousness for righteousness, and not understanding, i.e., not knowing the beneficial words of Sri Krsna, said as follows: 'How can I slay Bhisma, Drona and others worthy or reverence; After slaying those elders, though they are intensely attached to enjoyments, how can I enjoy those very pleasures which are now being enjoyed by them; For, it will be mixed with their blood.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 2.4 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -117,12 +120,14 @@ starts from 2.10.
 यदानिष्टफलत्वप्रदर्शनेन निषिद्धस्तदा किं वाच्यं ताभ्यां सह
 संग्रामस्याधर्मत्वे निषिद्धत्वे चेति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.4॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -133,12 +138,14 @@ starts from 2.11.
 ॥2.4॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.4 2.6॥ क्लैव्यादिभिर्निर्भर्त्सनमभिदधत् अधर्मे तव धर्माभिमानोऽयम् +++(N K [n] omit अयम् S omits the entire sentence)+++ इत्यादि दर्शयति  
 कथमित्यादि। कथं भीष्ममहं संख्ये द्रोणं च इत्यादिना भुञ्जीय भोगान् इत्यनेन च कर्मविशेषानुसन्धानं फलविशेषानुसन्धानं च हेयतया पूर्वपक्षे +++(N omit पूर्वपक्षे)+++ सूचयति। नैतद्विद्मः इत्यनेन च कर्मविशेषानुसन्धानमाह। निरनुसन्धानं +++(S K निरभिसन्धानं)+++ तावत् कर्म नोपपद्यते। न च पराजयमभिसन्धाय युद्धे प्रवर्तते। जयोऽपि नश्चायमनर्थ +++(S k omit नः)+++ एव। तदाह अहत्वा गुरून् भैक्षमपि चर्तुं श्रेयः। एतच्च निश्चेतुमशक्यं किं जयं कांक्षामः किं वा पराजयम् जयेऽपि बन्धूनां विनाशात्।
@@ -148,12 +155,14 @@ starts from 2.11.
 
 2.4 See Comment under 2.6
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.4॥ इति श्रुत्वाऽर्जुनः स्नेहकारुण्यधर्माकुलो भगवद्वाक्यं
 सम्यगजानन्नाह कथमिति। अरिसूदनेति शत्रुमारणे त्वयाऽपि क्वचिन्नैवं कृतमिति
@@ -171,10 +180,13 @@ starts from 2.11.
 पूर्वोक्तप्रकारेण। हे अरिसूदन शत्रुमारक अनेन सम्बोधनेनैतौ भक्तद्विजौ नतु
 शत्रू ततः कथं मारणार्थं मां प्रवर्त्तयसीति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.4॥ नाहं कातर्येण शुद्धादुपरतोऽस्मि किंतु
 युद्धस्यान्याय्यत्वादित्यर्जुन उवाच **कथमिति।** भीष्मद्रोणौ
@@ -182,10 +194,13 @@ starts from 2.11.
 योत्स्यामीति वक्तुमनुचितं तत्र बाणैः कथं योत्स्यामीत्यर्थः। हे अरिसूदन
 शत्रुसूदन।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.4 Arjuna said How can I, O slayer of foes, aim arrows in battle against Bhisma and Drona who are worthy of reverence;
@@ -216,11 +231,13 @@ starts from 2.11.
 2.4 कथम् how; भीष्मम् Bhishma; अहम् I; संख्ये in battle; द्रोणम् Drona;
 च and; मधुसूदन O Madhusudana; इषुभिः with arrows; प्रतियोत्स्यामि shall fight; पूजार्हौ worthy to be worshipped; अरिसूदन O destroyer of enemies.No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.4।। अर्जुन बोले - हे मधुसूदन! मैं रणभूमिमें भीष्म और द्रोणके साथ
@@ -284,6 +301,7 @@ starts from 2.11.
 
 ।।2.4।। अर्जुन ने कहा -- हे मधुसूदन ! मैं रणभूमि में किस प्रकार भीष्म और
 द्रोण के साथ बाणों से युद्ध करूँगा। हे अरिसूदन, वे दोनों ही पूजनीय हैं।।
+</details>
 </details>
 
 </div>

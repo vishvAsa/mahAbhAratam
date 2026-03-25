@@ -23,8 +23,9 @@ title = "04 भूमिरापोऽनलो वायुः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.4॥ अस्य विचित्रानन्दभोग्यभोगोपकरणभोगस्थानरूपेण अवस्थितस्य जगतः **प्रकृतिर् इयं** गन्धादिगुणकपृथिव्यप्तेजोवाय्वाकाशादिरूपेण मनःप्रभृतीन्द्रियरूपेण च महदङ्काररूपेण च **अष्टधा भिन्ना** मदीया इति विद्धि।
@@ -39,12 +40,14 @@ title = "04 भूमिरापोऽनलो वायुः"
 
 7.4 Know that Prakrti, the material cause of this universe, which consists of endless varieties of objects and means of enjoyment and places of enjoyment, is divided into eightfold substances - earth, water, fire, air and ether, having smell, taste etc., as their attributes, and Manas along with kindred sense organs and the categories Mahat and ego-sense - all belonging to Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.4॥ **भूमिः** इति पृथिवीतन्मात्रमुच्यते न स्थूला भिन्ना प्रकृतिरष्टधा इति वचनात्। तथा अबादयोऽपि तन्मात्राण्येव उच्यन्ते **आपः अनलः वायुः खम्। मनः** इति मनसः कारणमहंकारो गृह्यते। **बुद्धिः** इति अहंकारकारणं महत्तत्त्वम्। **अहंकारः** इति अविद्यासंयुक्तमव्यक्तम्। यथा विषसंयुक्तमन्नं विषमित्युच्यते एवमहंकारवासनावत् अव्यक्तं मूलकारणमहंकार इत्युच्यते प्रवर्तकत्वात् अहंकारस्य। अहंकार एव हि सर्वस्य प्रवृत्तिबीजं दृष्टं लोके। **इतीयं** यथोक्ता **प्रकृतिः मे** मम ऐश्वरी मायाशक्तिः **अष्टधा भिन्ना** भेदमागता॥
 </details>
@@ -209,12 +212,14 @@ behind all endeavour.
 मायापरिणामावेव बुद्ध्यहंकारौ। पञ्चतन्मात्राणि
 चापञ्चीकृतपञ्चमहाभूतानीत्यसकृदवोचाम।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.4॥ प्रतिज्ञातं ज्ञानमाह महतोऽहङ्कार एवान्तर्भावः।
 </details>
@@ -230,12 +235,14 @@ behind all endeavour.
 अहङ्कारेऽहङ्कारशब्दार्थेऽन्तर्भावः। कार्यवाचिनाऽहङ्कारशब्देन कारणस्य
 महतोऽप्युलक्षणमेव न त्वभाव इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.4 7.5॥ भूमिरिति। अपरेति। इयमिति प्रत्यक्षेण या संसारावस्थायां। सर्वजनपरिदृश्यमाना सा चैकैव सती प्रकाराष्टकेन भिद्यते इति एकप्रकृत्यारब्धत्वादेकमेव विश्वमिति प्रकृतिवादेऽपि अद्वैतं प्रदर्शितम्। सैव जीवत्वं पुरुषत्वं प्राप्ता परा ममैव नान्यस्य च। सा +++(S omits सा)+++ उभयरूपा वेद्यवेदकात्मकप्रपञ्चोपरचनविचित्रा तत एव स्वात्मविमलमुकुरतलकलितसकलभावभूमिः स्वस्वभावात्मिका सततमव्यभिचारिणी प्रकृतिः। इदं जगत् भूम्यादि।
 </details>
@@ -244,12 +251,14 @@ behind all endeavour.
 
 7.4 See Comment under 7.5
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.4॥ तथाविधं स्वमहिमज्ञानं ब्रह्मवादानुसारेण स्वयमेवोपदिशति
 भूमिरित्यादिना। तत्रादौ सर्वधर्माश्रयं पुरुषोत्तमापरपर्यायं ब्रह्मैव परं
@@ -277,10 +286,13 @@ behind all endeavour.
 प्रकारेण इयं मे अष्टधा प्रकृतिर्माया भिन्ना विभागं प्राप्ता।
 लौकिककार्यार्थमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.4॥ एवं श्रोतारमभिमुखीकृत्येदानीं प्रकृतिद्वारा
 सृष्ट्यादिकर्तृत्वेनेश्वरतत्त्वं प्रतिज्ञातं निरूपयिष्यन्परापरभेदेन
@@ -297,10 +309,13 @@ behind all endeavour.
 प्रपञ्चयिष्यतिमहाभूतान्यहंकारो बुद्धिरव्यक्तमेव च। इन्द्रियाणि दशैकं च
 पञ्च चेन्द्रियगोचराः इति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.4 Earth, water, fire, air, ether, Manas, Buddhi and ego-sense - thus My Prakrti is divided eightfold.
@@ -335,11 +350,13 @@ this is the eightfold division of My Manifested Nature.
 मे My; भिन्ना divided; प्रकृतिः Nature; अष्टधा eightfold.Commentary This eightfold Nature constitutes the inferior Nature or Apara Prakriti. The five gross elements are formed out of the Tanmatras or rootelements through the process of Pancikarana or fivefold mixing. Tanmatras are the subtle rootelements. In this verse; earth; water; etc.; represent the subtle or rudimentary elements out of which the five gross elements are formed.Mind stands here for its cause Ahamkara intellect for its cause the Mahat Ahamkara for the Avyaktam or the unmanifested (MulaPrakriti)
 united with Avidya which is conjoined with all kinds of Vasanas or latent tendencies. As Ahamkara (Iness) is the cause for all the actions of every individual and as Ahamkara is the most vital principle in man on which all the other Tattvas or principles depend; the Avyaktam combined with the Ahamkara is itself called here Ahamkara; just as food which is mixed with poison is itself called poison.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.4 -- 7.5।। पृथ्वी, जल, तेज, वायु, आकाश -- ये पञ्चमहाभूत और मन,
@@ -461,6 +478,7 @@ united with Avidya which is conjoined with all kinds of Vasanas or latent tenden
 
 ।।7.4।। पृथ्वी, जल, अग्नि, वायु और आकाश तथा मन, बुद्धि और अहंकार - यह आठ
 प्रकार से विभक्त हुई मेरी प्रकृति है।।
+</details>
 </details>
 
 </div>

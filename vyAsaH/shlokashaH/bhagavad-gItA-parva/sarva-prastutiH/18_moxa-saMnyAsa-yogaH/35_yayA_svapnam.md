@@ -23,8 +23,9 @@ title = "35 यया स्वप्नम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.35॥**यया** धृत्या **स्वप्नं** निद्रां **मदं** विषयानुभवजनितं मदं स्वप्नमदौ उद्दिश्य प्रवृत्ता मनःप्राणादीनां क्रियाः **दुर्मेधा न विमुञ्चति** धारयति। भयशोकविषादशब्दाश् च भयशोकादिदायिविषयपरास् तत्साधनभूताश् च भनःप्राणादिक्रिया यया धारयते; **सा धृतिस् तामसी।**
@@ -39,12 +40,14 @@ title = "35 यया स्वप्नम्"
 
 18.35 That Dhrti by which a foolish person does not give up, i.e. persists in, sleep, and sensuous indulgence through the activities of the mind, vital force etc., - that Dhrti is of the nature of Tamas. The terms fear, grief and depression indicate the objects generating fear, grief etc. That Dhrti by which one maintains the activities of the mind, the vital force etc., as a means for these, is of the nature of Tamas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.35॥ --,**यया स्वप्नं** निद्रां **भयं** त्रासं **शोकं विषादं** विषण्णतां **मदं** विषयसेवाम् आत्मनः बहुमन्यमानः मत्त इव मदम् **एव च** मनसि नित्यमेव कर्तव्यरूपतया कुर्वन् न **विमुञ्चति** धारयत्येव **दुर्मेधाः** कुत्सितमेधाः पुरुषः यः; तस्य **धृतिः** या; **सा तामसी मता**॥ गुणभेदेन क्रियाणां कारकाणां च त्रिविधो भेदः उक्तः। अथ इदानीं फलस्य सुखस्य त्रिविधो भेदः उच्यते --,
 </details>
@@ -105,12 +108,14 @@ division of results and happiness:
 मदमशास्त्रीयविषयसेवोन्मुखत्वं च यया न विमुञ्चत्येव किंतु सदैव कर्तव्यतया
 मन्यते दुर्मेधा विवेकासमर्था धृतिः सा पार्थ; तामसी।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.35॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -119,12 +124,14 @@ division of results and happiness:
 
 ॥18.35॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.33 -- 18.35॥ धृत्येत्यादि तामसी मतेत्यन्तम्। मनःप्राणेन्द्रियक्रियाः योगेन धारयति यथा किं ममोपभोगादिभिः सर्वथैवात्मारामो भूयासम्इति मन्वानः। प्रसङ्गेनेति -- न तथा अभिनिवेशेन। निद्राकलहादिष्वेव यया सन्तोषं बध्नाति तत्परतया; सा तामसी धृतिः।
 </details>
@@ -133,12 +140,14 @@ division of results and happiness:
 
 18.33-35 Dhrtya etc. upto Tamasi mata. One restrains the activities of his mind, living breath and senses, with Yoga : i.e., thinking 'What is the use for me by enjoying etc. ; Let me be delighted in the Self by all means.' Conseently : not with much indulgence. That content whery one fixes pleasure as his goal only in sleep, fight etc.-that content is of the Tamas (Strand).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.35॥ यया स्वप्नमिति। स्वप्नादीन्न विमुञ्चति तान्प्रति प्रयुक्ता
 मनःप्राणेन्द्रियक्रिया वा न विमुञ्चति।
@@ -152,19 +161,25 @@ division of results and happiness:
 -- एवकारेण मांसादिभक्षणं च -- न विमुञ्चति विशेषेण सदोषत्वज्ञानाभावेनापि
 करणम् एवं या न त्यजति हे पार्थ सा धृतिस्तामसी निष्फलेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.35॥ तामसीं धृतिमाह **-- ययेति।** दुष्टा अविवेकबहुला मेधा यस्य स
 दुर्मेधाः पुरुषः यया धृत्या स्वप्नादीन्न विमुञ्चति पुनःपुनरावर्तयति।
 स्वप्नोऽत्र निद्रा। सा धृतिस्तामसी।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.35 That Dhrti by which a foolish person does not give up sleep, fear,
@@ -203,11 +218,13 @@ despair; मदम् conceit; एव indeed; च and; न not; विमुञ�
 Tamasic (dark).Commentary The man who is an embodiment of darkness is made up of every possible kind of evil. He is very indolent and sinful.
 He is inordinately addicted to sleep. He considers these to be only proper. He experiences sorrow on account of his evil actions. As he is very much attached to the body he entertains great fear. He is ever discontented at heart. He is lustful and selfconceited. He does not know how to behave. He is rude and insolent. He indulges much in sensual pleasures.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.35।। हे पार्थ ! दुष्ट बुद्धिवाला मनुष्य जिस धृतिके द्वारा निद्रा,
@@ -301,6 +318,7 @@ He is inordinately addicted to sleep. He considers these to be only proper. He e
 
 ।।18.35।। हो पार्थ ! दुर्बुद्धि पुरुष जिस धारणा के द्वारा, स्वप्न, भय,
 शोक, विषाद और मद को नहीं त्यागता है, वह धृति तामसी है।।
+</details>
 </details>
 
 </div>

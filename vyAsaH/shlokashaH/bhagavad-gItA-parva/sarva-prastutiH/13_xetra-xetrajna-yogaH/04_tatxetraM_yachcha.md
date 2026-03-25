@@ -23,8 +23,9 @@ title = "04 तत्क्षेत्रं यच्च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.3॥**तत् क्षेत्रं यच् च** यद्द्रव्यम्; **यादृक् च** येषाम् आश्रयभूतम्; **यद्विकारि** ये च अस्य विकाराः; **यतश् च** यतो हेतोर् इदम् उत्पन्नं यस्मै प्रयोजनाय उत्पन्नम् इत्यर्थः। यद् यत्स्वरूपं च इदं **सश् च यः** स च क्षेत्रज्ञो यः यत्स्वरूपो **यत्प्रभावश् च** ये च अस्य प्रभावाः; **तत्** सर्वं **समासेन** सङ्क्षेपेण **मे** मत्तः **श्रृणु।**
@@ -41,12 +42,14 @@ title = "04 तत्क्षेत्रं यच्च"
 'like', namely, what things depend on it; what its 'modifications' are,
 namely, what its transformations are; what the 'purpose' is for which it has been originated; 'what it is,' namely, what its true nature is; 'who it is,' namely, who the individual self is and what Its nature is like; what Its 'powers', are, namely, what powers It possesses. All this, briefly learn from Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.4॥ --,यत् निर्दिष्टम् इदं शरीरम् इति तत् तच्छब्देन परामृशति। **यच्च** इदं निर्दिष्टं **क्षेत्रं तत् यादृक्** यादृशं स्वकीयैः धर्मैः। **च**शब्दः समुच्चयार्थः। **यद्विकारि** यः विकारः यस्य तत् यद्विकारि; **यतः** यस्मात् **च** **यत्;** कार्यम् उत्पद्यते इति वाक्यशेषः। **स च यः** क्षेत्रज्ञः निर्दिष्टः सः **यत्प्रभावः** ये प्रभावाः उपाधिकृताः शक्तयः यस्य सः यत्प्रभावश्**च। तत्** क्षेत्रक्षेत्रज्ञयोः याथात्म्यं यथाविशेषितं **समासेन** संक्षेपेण **मे** मम वाक्यतः **शृणु;** श्रुत्वा अवधारय इत्यर्थः॥ तत् क्षेत्रक्षेत्रज्ञयाथात्म्यं विवक्षितं स्तौति श्रोतृबुद्धिप्ररोचनार्थम् --,
 </details>
@@ -138,12 +141,14 @@ is intended to be taught:
 यस्य तत् क्षेत्रक्षेत्रज्ञयाथात्म्यं सर्वविशेषणविशिष्टं समासेन संक्षेपेण
 मे मम वचनाच्छृणु। श्रुत्वावधारयेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.4॥ यद्विकारि येन विकारेण युक्तम्। यतश्च यत् यतो याति प्रवर्तते। स च
 प्रवर्तकः। यतश्च यदित्यस्मात्प्रवर्तते क्षेत्रमिति वचनं स च य इति
@@ -174,12 +179,14 @@ is intended to be taught:
 इति वक्तुं प्रतिज्ञारूपम्। स च यः इति वचनं प्रवर्तकस्य स्वरूपमात्रं
 वक्तुं प्रतिज्ञारूपमित्यर्थभेद इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.4 -- 13.5॥ तत्क्षेत्रमिति। ऋषिभिरिति। येन विकारं गच्छति यद्विकारि। समासेनेति अविभागेनैव सर्वान्प्रश्नान् +++(S;;K एतान् (S तान्)+++ प्रश्नान्) साधारणोत्तरेण परिच्छिनत्ति। यद्यपि च ऋषिभिर्बहुधा वेदैश्चोक्तमेतत्। तथापि समासेनाहं व्याचक्षे इति।
 </details>
@@ -188,12 +195,14 @@ is intended to be taught:
 
 13.4 See Comment under 13.5
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.4॥ एतत्प्रपञ्चयिष्यन् प्रतिजानीते -- तत्क्षेत्रमिति। यच्च
 यद्द्रव्यं; यादृक् येषामाश्रयभूतं; ये चात्र विकाराः सन्ति; यतश्चेति
@@ -213,10 +222,13 @@ is intended to be taught:
 व्यापकादिसेवनयोग्याद्यचिन्त्यप्रभाववांस्तदन्यैर्याथातथ्यस्वरूपाज्ञानाद्बहुविधमुक्तं
 तत्सर्वं समासेन सङ्क्षेपतो मे मत्तः शृणु।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.4॥ अत्र यद्यपि चतुर्विंशतिभेदैर्भिन्ना प्रकृतिः
 क्षेत्रमित्यभिप्रेतं तथापि देहरूपेण परिणतायामेव तस्यामहंभावेनाविवेकः
@@ -228,10 +240,13 @@ is intended to be taught:
 स्वरूपतः; यत्प्रभावश्च अचिन्त्यैश्वर्ययोगेन यैः प्रभावैः संपन्नः
 तत्सर्वं संक्षेपतो मत्तः शृणु।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.4 Listen briefly from Me what the Field is, and what it is like, what is modifications are, what purpose it serves, what it is; and who the self is and what Its powers are.
@@ -270,11 +285,13 @@ The bulls work unceasingly day and night through the field of the objects of the
 with the help of the ox called time; She -- Primordial Nature --
 thrashes out the corn. If the individual soul does evil actions; it sows the seeds of sin; manures with evil; reaps a crop of sin; and undergoes the pains of Samsara; viz.; birth; decay; old age; sickness; and the three kinds of afflictions. If it does virtuous actions it sows the good seeds of virtue and reaps a crop of happiness.Lord Krishna now speaks very highly in the following verse of the true nature of the field and the knower of the field in order to create interest in the hearer.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/04_tatxetraM_yachcha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.4।। वह क्षेत्र जो है, जैसा है, जिन विकारोंवाला है और जिससे जो पैदा
@@ -371,6 +388,7 @@ thrashes out the corn. If the individual soul does evil actions; it sows the see
 ।।13.4।। इसलिये, वह क्षेत्र जो है और जैसा है तथा जिन विकारों वाला है, और
 जिस (कारण) से जो (कार्य) हुआ है तथा वह (क्षेत्रज्ञ) भी जो है और जिस
 प्रभाव वाला है, वह संक्षेप में मुझसे सुनो।।
+</details>
 </details>
 
 </div>

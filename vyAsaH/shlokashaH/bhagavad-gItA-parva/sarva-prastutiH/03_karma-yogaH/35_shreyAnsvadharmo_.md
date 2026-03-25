@@ -23,8 +23,9 @@ title = "35 श्रेयान्स्वधर्मो विगुणः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.35॥ अतः सुशकतया **स्वधर्म**भूतः कर्मयोगो **विगुणः** अप्य्  
@@ -51,12 +52,14 @@ title = "35 श्रेयान्स्वधर्मो विगुणः"
 
 3.35 Therefore Karma Yoga is better than Jnana Yoga. For, it forms one's own duty, since it is natural to one and easy to perform, and though defective, is free from liability to interruption and fall. Jnana Yoga, on the other hand, though performed well for some time, constitutes the duty of another, as it is difficult to practise for one conjoined with Prakrti. It is therefore liable to interruption. For a person who lives practising Karma Yoga - which is his duty because he is alified for it - even death without success in one birth does not matter. For, in the next birth with the help of the experience already gained in the previous birth, it will be possible for him to perform Karma Yoga without any impediments. Jnana Yoga is fraught with fear because of the possibility of errors for anyone who is conjoined to Prakrti. It is another's duty, on account of it being not easily adoptable by him.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.35॥ **श्रेयान्** प्रशस्यतरः स्वो धर्मः **स्वधर्मः विगुणः** अपि विगतगुणोऽपि अनुष्ठीयमानः  
 **परधर्मात् स्वनुष्ठितात्** साद्गुण्येन संपादिताद् अपि। 
@@ -151,12 +154,14 @@ etc.
 प्रकृतेर्वशवर्तित्वं रागद्वेषौ च पुष्कलौ। परधर्मरुचित्वं चेत्युक्ता
 दुर्मार्गवाहकाः इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.35॥ तथाप्युग्रं युद्धकर्मेत्यत आह श्रेयानिति।
 </details>
@@ -169,12 +174,14 @@ etc.
 स्मारितं द्वितीयमाक्षेपमाशङ्क्य परिहरतीत्यर्थः। यद्यपि कर्म कर्तव्यं
 तथापि उग्रमवर्जनीयरागद्वेषं न कुर्यामिति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.34 3.35॥ कथं तर्हि बन्धः इत्थमित्युच्यते +++(N omits इत्थम् K omits इति)+++। इन्द्रियस्येति। श्रेयानिति। संसारी च प्रतिविषयं रागं द्वेषं च गृह्णाति यतः कर्माणि आत्मकर्तृकाण्येव विमूढत्वादभिमन्यते इति सममपि भोजनादिव्यवहारं कुर्वतोः ज्ञानिसंसारिणोरस्त्ययं विशेषः। अयं नः सिद्धान्तः सर्वथा मुक्तसंगस्य स्वधर्मचारिणो नास्ति कश्चित् पुण्यपापात्मको बन्धः। स्वधर्मो हि हृदयादनपायी स्वरसनिरूढ +++(N K निगूढः)+++ एव न तेन कश्चिदपि रिक्तो जन्तुर्जायते इत्यत्याज्यः।
 </details>
@@ -183,12 +190,14 @@ etc.
 
 3.34-35 Indriyasya etc., Sreyan etc. A person living the worldly life does entertain likes or dislikes towards every sense-object. For, due to his total ignorance he imagines that actions are performed only by his Self. Thus there is this difference between a man of knowledge and a man of worldly life, eventhough they perform alike their \[respective\] worldly activities such as eating etc. The established view of ours \[in this regard\] is this : For a person, who, freed from attachment in every way, Performs his own duty, there is hardly any bond of merit or demerit. Indeed one's own duty never disappears from one's heart and it is certainly rooted there deeply as a natural taste. Not a single creature is born without that. Hence it should not be given up.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.35॥ तदेवं रागद्वेषवशेन कस्यापि नोक्तधर्मे प्रवृत्तिः
 प्राकृतत्वादित्युक्तं ततस्तौ विहाय प्राकृतेनापि स्वधर्मस्तु न हेयः
@@ -209,10 +218,13 @@ etc.
 **परधर्मो** मरणसमये पूर्वानुष्ठितः स्व-विषय-स्मारको भवत्य् एव  -  
 स तत्क्षणे यम-दूतादि-दर्शकत्वेनाऽग्रे च नरकादि-यातनायां तत्-साधकत्वेन च **भयावहः** भयकर्तेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/35_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/35_shreyAnsvadharmo_.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.35॥ तद् एवं स्वाभाविकीं पश्वादि-सदृशीं प्रकृतिं त्यक्त्वा  
 **स्वधर्मे** प्रवर्तितव्यम् इत्य् उक्तं।  
@@ -224,10 +236,13 @@ etc.
 तत्र हेतुः - **स्वधर्मे** युद्धादौ प्रवर्तमानस्य **निधनं** मरणमपि श्रेष्ठम् - स्वर्गादिप्रापकत्वात्।  
 **परधर्मस्** तु स्वस्य **भयावहः**- निषिद्धत्वेन नरकप्रापकत्वात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.35 Better is one's own duty, though ill-done, than the duty of another well-performed. Better is death in one's own duty; the duty of another is fraught with fear.
@@ -259,11 +274,13 @@ etc.
 परधर्मात् than the duty of another; स्वनुष्ठितात् than well discharged;
 स्वधर्मे in ones own duty; निधनम् death; श्रेयः better; परधर्मः anothers duty; भयावहः fraught with fear.Commentary It is indeed better for man to die discharging his own duty though destitute of merit than for him to live doing the duty of another though performed in a perfect manner. For the duty of another has its pitfalls. The duty of a Kshatriya is to fight in a righteous battle. Arjuna must fight. This is his duty. Even if he dies in the discharge of his own duty; it is better for him. He will go to heaven. He should not do the duty of another man. This will bring him peril. He should not stop from fighting and enter the path of renunciation. (Cf.XVIII.47).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.35।। अच्छी तरह आचरणमें लाये हुए दूसरेके धर्मसे गुणोंकी कमीवाला अपना
@@ -372,6 +389,7 @@ etc.
 ।।3.35।। सम्यक् प्रकार से अनुष्ठित परधर्म की अपेक्षा गुणरहित स्वधर्म का
 पालन श्रेयष्कर है; स्वधर्म में मरण कल्याणकारक है (किन्तु) परधर्म भय को
 देने वाला है।।
+</details>
 </details>
 
 </div>

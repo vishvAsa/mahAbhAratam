@@ -23,8 +23,9 @@ title = "04 मया ततमिदम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.4॥**इदं** चेतनाचेतनात्मकं कृत्स्नं **जगद् अव्यक्तमूर्तिना** अप्रकाशितस्वरूपेण **मया** अन्तर्यामिणा **ततम्।** अस्य जगतो धारणार्थं नियमनार्थं च शेषित्वेन व्याप्तम् इत्यर्थः। यथा अन्तर्यामिब्राह्मणेयः पृथिव्यां तिष्ठन् ৷৷. यं पृथिवी न वेद (ब्र् उ॰ 3।7।3)यम् आत्मनि तिष्ठन् ৷৷. यमात्मा न वेद (श॰ प॰ ब्रा॰ 14।6।5।5।30) इति चेतनाचेतनवस्तुजातैर् अदृष्टेन अन्तर्यामिणा तत्र तत्र व्याप्तिर् उक्ता।  
@@ -44,12 +45,14 @@ title = "04 मया ततमिदम्"
 9.4 This 'entire universe,' composed to sentient and non-sentient beings, is pervaded by Me, the inner controller, whose 'form is not manifest,' namely, whose essential nature is unmanifest. The meaning is that all this is pervaded by Me, the Principal (Sesi), so that I may sustain and rule this universe. This, the pervasion of all by the inner controller, who is invisible to the entire group of sentient and non-sentient beings, is taught in the following passage of the Antaryami-brahmana: 'He who dwells in the earth ৷৷. whom the earth 'does not know' (Br. U., 3.7.3) and 'He who dwells in the self ৷৷. whom the self does not know etc.,' (Br. U. Madh., 3.7.22). Therefore 'all beings abide in Me'; all beings rest in Me who am their inner controller. In the same Brahmana it is taught that their existence and control are dependent on Him, as they are subject to His control and as they constitute His body: 'He whose body is the earth ৷৷. who controls the earth from within' (Br. U., 3.7.3) and 'He whose body is the self ৷৷. He who controls the self from within' (Br. U. Madh., 3.7.22). So also His primacy over everything is taught. 'I am not in them,' namely, I do not
 'depend' on them for My existence. There is no help derived from them for My existence.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.4॥ --,**मया** मम यः परो भावः तेन **ततं** व्याप्तं **सर्वम् इदं जगत् अव्यक्तमूर्तिना** न व्यक्ता मूर्तिः स्वरूपं यस्य मम सोऽहमव्यक्तमूर्तिः तेन मया अव्यक्तमूर्तिना; करणगोचरस्वरूपेण इत्यर्थः। तस्मिन् मयि अव्यक्तमूर्तौ स्थितानि **मत्स्थानि; सर्वभूतानि** ब्रह्मादीनि स्तम्बपर्यन्तानि। न हि निरात्मकं किञ्चित् भूतं व्यवहाराय अवकल्पते। अतः मत्स्थानि मया आत्मना आत्मवत्त्वेन स्थितानि; अतः मयि स्थितानि इति उच्यन्ते। तेषां भूतानाम् अहमेव आत्मा इत्यतः तेषु स्थितः इति मूढबुद्धीनां अवभासते अतः ब्रवीमि -- **न च अहं** तेषु भूतेषु **अवस्थितः;** मूर्तवत् संश्लेषाभावेन आकाशस्यापि अन्तरतमो हि अहम्। न हि असंसर्गि वस्तु क्वचित् आधेयभावेन अवस्थितं भवति॥ अत एव असंसर्गित्वात् मम --,
 </details>
@@ -167,12 +170,14 @@ that I am not in contact with anyting-
 भूतेष्ववस्थितः। कल्पिताकल्पितयोः संबन्धायोगात्। अतएवोक्तं यत्र यदध्यस्तं
 तत्कृतेन गुणेन दोषेण वाणुमात्रेणापि न स संबध्यत इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.4॥ प्रत्यक्षावगमशब्देनापरोक्षज्ञानसाधनत्वमुक्तम्। तज्ज्ञानाद्याह --
 मयेति। तर्हि किमिति न दृश्यते इत्यत आह -- अव्यक्तमूर्तिनेति।
@@ -191,12 +196,14 @@ that I am not in contact with anyting-
 कृत्स्नाध्यायप्रतिपाद्योक्तिरियम्। विशेषणवैयर्थ्यमाशङ्क्याह --
 **तर्ही**ति। सर्वव्यापी चेदित्यर्थः। न दृश्यते सर्वत्रेति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.4॥ मयेति। मत्स्थानि सर्वभूतानीति। सुचिरमपि गत्वा अन्यस्य प्रतिष्ठाधाम्नः अविद्यमानत्वात्। भूतरूपबोध्यात्मकप्रसिद्धतदीयजडरूपपुरःसरीकारेण तदवभासे तद्विपरीतबोधस्वभाववर्तिरोधानम्,+++(N तत्तद्विपरीत -- )+++ इत्येतदाह -- न चाहं तेष्यवस्थितः इति।
 </details>
@@ -205,12 +212,14 @@ that I am not in contact with anyting-
 
 9.4 Maya etc. All beings exist in Me : Because no other abode of rest is available, even if one wanders \[in search of it\] for long. The beings (or elements) that form the objects of knowledge possess their well-known nature of insentiency. When these beings manifest with this nature foremost, their other innate nature viz., sentiency, that is opposed to this \[former nature\], remain hidden. This is what He says by I do not exist in them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.4॥ एवं ज्ञानं प्रस्तुत्याऽर्जुनमभिमुखीकृत्य स्वस्य महिमज्ञानं
 पूर्वमुपदिशतिमयेति। अव्यक्तोऽक्षरोऽविरुद्धधर्मप्रकृतिपुरुषात्मकः
@@ -238,10 +247,13 @@ that I am not in contact with anyting-
 भावः। अपरिच्छिन्नत्वात् प्रकटमपि जगन्मय्येव तिष्ठति। तेषु न च अहम्। तेषु
 परिच्छिन्नतया न तिष्ठामीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.4॥ तदेवं वक्तव्यतया प्रस्तुतस्य ज्ञानस्य स्तुत्या
 श्रोतारमभिमुखीकृत्य तदेव ज्ञानं कथयति **-- मयेति द्वाभ्याम्।** अव्यक्ता
@@ -250,10 +262,13 @@ that I am not in contact with anyting-
 तिष्ठन्तीति मत्स्थानि सर्वाणि चराचराणि भूतानि। एवमपि घटादिषु स्वकार्येषु
 मृत्तिकेव तेषु भूतेषु नाहमवस्थित आकाशवदसङ्गत्वात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.4 This entire universe is pervaded by Me, in an unmanifest form. All beings abide in Me, but I do not abide in them.
@@ -289,11 +304,13 @@ placed.Commentary Avyaktamurti is Para Brahman or the Supreme Unmanifested Being
 so also Para Brahman contains everything and yet is not touched by them.
 Even Mulaprakriti; the source or womb of this world; is supported by Brahman. Brahman has no support or root. It rests in Its own pristine glory. (Cf.VII.12;24VIII.22)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.4 -- 9.5।। यह सब संसार मेरे निराकार स्वरूपसे व्याप्त है। सम्पूर्ण
@@ -510,6 +527,7 @@ Even Mulaprakriti; the source or womb of this world; is supported by Brahman. Br
 
 ।।9.4।। यह सम्पूर्ण जगत् मुझ (परमात्मा) के अव्यक्त स्वरूप से व्याप्त है;
 भूतमात्र मुझमें स्थित है, परन्तु मैं उनमें स्थित नहीं हूं।।
+</details>
 </details>
 
 </div>

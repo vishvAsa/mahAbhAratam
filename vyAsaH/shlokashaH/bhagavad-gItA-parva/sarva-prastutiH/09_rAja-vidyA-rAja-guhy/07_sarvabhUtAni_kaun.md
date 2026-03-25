@@ -23,8 +23,9 @@ title = "07 सर्वभूतानि कौन्तेय"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.7॥ स्थावरजङ्गमात्मकानि **सर्वाणि भूतानि मामिकां** मच्छरीरभूतां **प्रकृतिं** तमःशब्दवाच्यां नामरूपविभागानर्हां **कल्पक्षये** चतुर्मुखावसानसमये मत्सङ्कल्पाद् **यान्ति। तानि** एव भूतानि **कल्पादौ पुनः विसृजाम्य् अहम्।** यथा आह मनुः -- आसीदिदं तमोभूतम् (मनु॰ 1।5)सोऽभिध्याय शरीरात् स्वात् (मनु॰ 1।8) इति श्रुतिरपि -- यस्याव्यक्तं शरीरम् (सु॰ उ॰ 7) इत्यादिकाअव्यक्तमक्षरे लीयते अक्षरं तमसि लीयते; तमः परे देवे एकीभवति (सु॰ उ॰ 2)तम आसीत्तमसा गूढमग्रेऽप्रकेतम् (ऋ॰ सं॰ 8।7।17।3) इति च।
@@ -39,12 +40,14 @@ title = "07 सर्वभूतानि कौन्तेय"
 
 9.7 All the mobile and immobile entities enter into My Prakrti at the end of a cycle, namely at the end of Brahma's life in accordance with My will. This Prakrti, constituting My body, is designated by the term Tamas, as it cannot be differentiated into name and form. I again send forth the very same beings at the beginning of a cycle. Manu declares accordingly: 'This universe became Tamas ৷৷. by an act of will. He produced it out of His body' (Manu, 1.5.8). The Srutis also declare thus: 'He whose body is Avyakta' (Su. U., 7); 'The Avyakta merges into Aksara, the Aksara into Tamas' (Ibid., 2); and also 'There was Tamas; the intelligence was concealed by Tamas' (Tai. Br., 1.8.9).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.7॥ --,**सर्वभूतानि कौन्तेय प्रकृतिं** त्रिगुणात्मिकाम् अपरां निकृष्टां **यान्ति मामिकां** मदीयां **कल्पक्षये** प्रलयकाले। **पुनः** भूयः **तानि** भूतानि उत्पत्तिकाले **कल्पादौ विसृजामि** उत्पादयामि अहं पूर्ववत्॥ एवम् अविद्यालक्षणाम् --,
 </details>
@@ -116,12 +119,14 @@ creation.
 इत्यर्थः। हे कौन्तेयेत्युक्तार्थम्। पुनस्तानि कल्पादौ सर्गकाले विसृजामि
 प्रकृतावविभागापन्नानि विभागेन व्यनज्मि। अहं सर्वज्ञः सर्वशक्तिरीश्वरः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.7॥ ज्ञानप्रदर्शनार्थं प्रलयादि प्रपञ्चयति -- सर्वभूतानीत्यादिना।
 </details>
@@ -133,12 +138,14 @@ creation.
 **ज्ञाने**ति। प्रलयादीति तत्कारणत्वम्;प्रकृतिं स्वामवष्टभ्य \[9।8\],इति
 वचनात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.7॥ सर्वेति। प्रकृतिं; अव्यक्तरूपाम्।
 </details>
@@ -147,12 +154,14 @@ creation.
 
 9.7 Sarva- etc. Nature : unmanifest form.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.7॥ तदेवमसङ्गस्यैव योगैश्वर्यशक्त्या (मायया)
 स्थितिप्रवृत्तिहेतुत्वमुक्तम्; सर्गप्रलयहेतुत्वं चाह -- सर्वेति।
@@ -172,20 +181,26 @@ creation.
 प्रपञ्चक्रीडेच्छया अहं विसृजामि विशेषेण नीचोच्चप्रकारेण वैचित्र्यार्थं
 सृजामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.7॥ तदेवमसङ्गस्य योगमायया स्थितिहेतुत्वमुक्तम् तयैव
 सृष्टिप्रलयहेतुत्वं चाहं **-- सर्वेति।** कल्पक्षये प्रलयकाले सर्वाणि
 भूतानि मदीयां प्रकृतिं यान्ति त्रिगुणात्मिकायां मायायां लीयन्ते; पुनः
 कल्पादौ सृष्टिकाले तानि विसृजामि विशेषेण सृजामि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.7 All beings, O Arjuna, enter into My Prakrti at the end of a cycle of time. Again I send these forth at the beginning of a cycle of time.
@@ -219,11 +234,13 @@ creation.
 अहम् I.Commentary Prakriti The inferior one or the lower Nature composed of the three alities; Sattva; Rajas and Tamas.Just as the grass grows from the earth and dries up in the earth; just as the ripples and waves rise from the ocean and disappear in the ocean itself; just as the dreams proceed from the mind and melt away in the mind itself when the dreamer comes back to the waking state; so also the beings which arise from Nature merge into it during dissolution or Pralaya.Pralaya is the period of dissolution. MahaUtpatti is the time of creation.
 (Cf.VIII.18;19)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.7।। हे कुन्तीनन्दन ! कल्पोंका क्षय होनेपर सम्पूर्ण प्राणी मेरी
@@ -276,6 +293,7 @@ creation.
 ।।9.7।। हे कौन्तेय ! (एक) कल्प के अन्त में समस्त भूत मेरी प्रकृति को
 प्राप्त होते हैं; और (दूसरे) कल्प के प्रारम्भ में उनको मैं फिर रचता
 हूँ।।
+</details>
 </details>
 
 </div>

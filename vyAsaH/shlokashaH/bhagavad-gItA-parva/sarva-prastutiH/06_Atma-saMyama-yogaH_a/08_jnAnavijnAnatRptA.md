@@ -23,8 +23,9 @@ title = "08 ज्ञानविज्ञानतृप्तात्मा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.8॥**ज्ञानविज्ञानतृप्तात्मा** आत्मस्वरूपविषयेण ज्ञानेन तस्य च प्रकृतिविसजातीयाकारविषयेण विज्ञानेन च तृप्तमनाः **कूटस्थः** देवाद्यवस्थास्व् अनुवर्तमानः सर्वसाधारणज्ञानैकाकारात्मनि स्थितस् तत्र एव **विजितेन्द्रियः समलोष्टाश्मकाञ्चनः** प्रकृतिविविक्तस्वरूपनिष्ठतया प्राकृतवस्तुविशेषेषु भोग्यत्वाभावाद् लोष्टाश्मकाञ्चनेषु समप्रयोजनो यः कर्मयोगी स **युक्त इत्य् उच्यते** आत्मावलोकनरूपयोगाभ्यासार्ह उच्यते। तथा च
@@ -40,12 +41,14 @@ title = "08 ज्ञानविज्ञानतृप्तात्मा"
 6.8 That Karma Yogin whose mind is content with the knowledge of the self and the knowledge of the difference, i.e., whose mind is content with the knowledge concerning the real nature of the self as well as with the knowledge of the difference of Its nature from Prakrti; 'who is established in the self' (Kutasthah), i.e., who remains as the self which is of the uniform nature of knowledge in all stages of evolution as men, gods etc. whose senses are therefore subdued; and to whom
 'earth, stone and gold are of eal value' because of his lack of interest in any material objects of enjoyment on account of his intense earnestness to know the real nature of the self as different from Prakrti - he, that Karma Yogi, is called integrated i.e., fit for the practice of Yoga which is of the nature of the vision of the self. And also.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.8॥ **ज्ञानविज्ञानतृप्तात्मा** ज्ञानं शास्त्रोक्तपदार्थानां परिज्ञानम् विज्ञानं तु शास्त्रतो ज्ञातानां तथैव स्वानुभवकरणम् ताभ्यां ज्ञानविज्ञानाभ्यां तृप्तः संजातालंप्रत्ययः आत्मा अन्तःकरणं यस्य सः ज्ञानविज्ञानतृप्तात्मा **कूटस्थः** अप्रकम्प्यः भवति इत्यर्थः **विजितेन्द्रिय**श्च। य ईदृशः **युक्तः** समाहितः **इति स उच्यते** कथ्यते। स **योगी समलोष्टाश्मकाञ्चनः** लोष्टाश्मकाञ्चनानि समानि यस्य सः समलोष्टाश्मकाञ्चनः॥ किञ्च
 </details>
@@ -124,12 +127,14 @@ a lump of earth, a stone and gold. Further,
 हेयोपादेयबुद्धिशून्यत्वेन समानि मृत्पिण्डपाषाणकाञ्चनानि यस्य सः। योगी
 परमहंसपरिव्राजकः परवैराग्ययुक्तो योगारूढ इत्युच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.7 6.8॥ जितात्मनः फलमाह जितात्मन इति। जितात्मा हि प्रशान्तो भवति। न
 तस्य मनः प्रायो विषयेषु गच्छति। तदा च परमात्मा सम्यगाहितः हृदि सन्निहितो
@@ -183,12 +188,14 @@ a lump of earth, a stone and gold. Further,
 सामानाधिकरण्यं इत्यत आह** एवम्भूत **इति। धातुसम्बन्धे प्रत्ययाः इति
 ह्युक्तम्।**
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.8॥ ज्ञानेति। ज्ञानम् अभ्रान्ता बुद्धिः। विविधं ज्ञानं यत्र तत् विज्ञानम् प्रग्युक्त्युदितं कर्म।
 </details>
@@ -197,12 +204,14 @@ a lump of earth, a stone and gold. Further,
 
 6.8 Jnana - etc. Knowledge : a knowledge which is different from the false one. What consists of varied thoughts : the action in which varied thoughts are involved, i.e. the action that is born as result of preceding thoughts of reasoning.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.8 6.9॥ योगारूढस्य स्वरूपं श्रैष्ठ्यं चोपपादयति द्वाभ्यां
 ज्ञानविज्ञानेति। ज्ञानमौपदेशिकं विज्ञानमपरोक्षानुभवः ताभ्यां तृप्त आत्मा
@@ -223,10 +232,13 @@ a lump of earth, a stone and gold. Further,
 तदभावतापात्तत्र स्निग्धभाववान् सौवर्णे चालौकिककान्तिदर्शनेन
 रसभाववांस्तथोच्यत इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.8॥ योगारूढस्य लक्षणं श्रैष्ठ्यं चोक्तम् उपपाद्योपसंहरति **ज्ञानविज्ञानतृप्तात्मेति।** 
 
@@ -237,10 +249,13 @@ a lump of earth, a stone and gold. Further,
 अतः **कूटस्थो** निर्विकारः  
 अत एव **विजितानीन्द्रियाणि** येन - अत एव **समानि लोष्टादीनि** यस्य मृत्-खण्ड-पाषाण-सुवर्णेषु हेयोपादेय-बुद्धि-शून्यः स **युक्तो** योगारूढ इत्युच्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.8 The Yogin whose mind is content with knowledge of the self and also of knowledge of the difference of the self from Prakrti, who is established in the self, whose senses are subdued and to whom earth,
@@ -272,11 +287,13 @@ The yogi treats eally a lump of earth, a stone and gold.
 
 6.8 ज्ञानविज्ञानतृप्तात्मा one who is satisfied with knowledge and wisdom (Selfrealisation); कूटस्थः unshaken; विजितेन्द्रियः who has conered the senses; युक्तः united or harmonised; इति thus; उच्यते is said; योगी Yogi; समलोष्टाश्मकाञ्चनः one to whom a lump of earth; a stone and gold are the same.Commentary Jnana is ParokshaJnana or theoretical knowledge from the study of the scriptures. Vijnana is Visesha Jnana or Aparoksha Jnana; i.e.; direct knowledge of the Self through Selfrealisation (spiritual experience or Anubhava).Kutastha means changeless like the anvil. Various kinds of iron pieces are hammered and shaped on the anvil; but the anvil remains unchanged. Even so the Yogi remains unshaken or unchanged or unaffected though he comes in contact with the senseobjects. So he is called Kutastha. Kutastha is another name of Brahman; the silent witness of the mind. (Cf.V.18VI.18)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.8।। जिसका अन्तःकरण ज्ञान-विज्ञानसे तृप्त है, जो कूटकी तरह निर्विकार
@@ -341,6 +358,7 @@ The yogi treats eally a lump of earth, a stone and gold.
 ।।6.8।। जो योगी ज्ञान और विज्ञान से तृप्त है, जो विकार रहित (कूटस्थ) और
 जितेन्द्रिय है, जिसको मिट्टी, पाषाण और कंचन समान है, वह (परमात्मा से)
 युक्त कहलाता है।।
+</details>
 </details>
 
 </div>

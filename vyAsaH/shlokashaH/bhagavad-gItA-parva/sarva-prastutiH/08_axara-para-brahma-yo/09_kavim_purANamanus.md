@@ -25,8 +25,9 @@ title = "09 कविम् पुराणमनुशासितार"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.9॥**कविं** सर्वज्ञं **पुराणं** पुरातनम् **अनुशासितारं** विश्वस्य प्रशासितारम् **अणोर् अणीयांसं** जीवाद् अपि सूक्ष्मतरं **सर्वस्य धातारं** सर्वस्य स्रष्टारम् **अचिन्त्यरूपं** सकलेतरविसजातीयस्वरूपम् **आदित्यवर्णं तमसः** **परस्तात्** अप्राकृतस्वासाधारणदिव्यरूपं तम् एवम्भूतम् अहरहो ऽभ्यस्यमानभक्तियुक्त**योगबलेन** आरूढसंस्कारतया **अचलेन मनसा प्रयाणकाले भ्रुवोर् मध्ये प्राणम् आवेश्य** संस्थाप्य तत्र भ्रुवोर्मध्ये दिव्यं **पुरुषं यो ऽनुस्मरेत् स तम् एव उपैति** तद्भावं याति तत्समानैश्वर्यो भवति इत्यर्थः। अथ कैवल्यार्थिनां स्मरणप्रकारम् आह --
@@ -41,12 +42,14 @@ title = "09 कविम् पुराणमनुशासितार"
 
 8.9 - 8.10 He who focusses his life-breath between the eyrows at the time of death with a mind rendered unswerving through its purification achieved by the strength of Yoga conjoined with Bhakti practised day after day; and he who contemplates on the 'Kavi' i.e., the Omniscient, the 'Primeval', i.e., who existed always, 'the Ruler,' i.e., who governs the universe, 'who is subtler than the subtle,' i.e., who is subtler than the individual self, 'who is the Dhata' of all, i.e., the creator of all, 'whose nature is inconceivable,' i.e., whose nature is other than everything else, 'who is sun-coloured and beyond darkness,' i.e., who possesses a divine form peculiar to Himself - he who concentrates on Him, the Divine Person described above, between the eyrows, attains Him alone. He attains His state and comes to have power and glory similar to His. Such is the meaning. Then He describes the mode of meditation to be adopted by the seeker of Kaivalya or the Jijnasu (i.e., of one who seeks to know his own self or Atman in contrast to one whose object is God-realisation).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.9॥ --,**कविं** क्रान्तदर्शिनं सर्वज्ञं **पुराणं** चिरन्तनम् **अनुशासितारं** सर्वस्य जगतः प्रशासितारम् **अणोः** सूक्ष्मादपि **अणीयांसं** सूक्ष्मतरम् **अनुस्मरेत्** अनुचिन्तयेत् **यः** कश्चित् **सर्वस्य** कर्मफलजातस्य **धातारं** विधातारं विचित्रतया प्राणिभ्यो विभक्तारम् **अचिन्त्यरूपं** न अस्य रूपं नियतं विद्यमानमपि केनचित् चिन्तयितुं शक्यते इति अचिन्त्यरूपः तम् **आदित्यवर्णम्** आदित्यस्येव नित्यचैतन्यप्रकाशो वर्णो यस्य तम् आदित्यवर्णम् **तमसः परस्तात्** अज्ञानलक्षणात् मोहान्धकारात् परं तम् अनुचिन्तयत् याति इति पूर्वेण संबन्धः॥ किञ्च --,
 </details>
@@ -234,12 +237,14 @@ verse is to be connected with the earlier itself thus: 'by meditating
 तमोविरोधिनमिति यावत्। अनुस्मरेच्चिन्तयेद्यः कश्चिदपि स तं यातीति
 पूर्वेणैव संबन्धः। स तं परं पुरुषमुपैति दिव्यमिति परेण वा संबन्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.9॥ ध्येयमाह -- कविभिति। कविं सर्वज्ञम् यः सर्वज्ञः \[मुं.उ.1।9\] इति
 श्रुतेः। त्वं कविः सर्ववेदनात् इति च ब्राह्मे। धातारं
@@ -269,12 +274,14 @@ verse is to be connected with the earlier itself thus: 'by meditating
 आदित्यादिसाधारणं इत्यतो द्वेधा सप्रमाणकं व्याचष्टे -- **तमस** इति।
 स्थितमिति शेषोक्तिः। अप्राकृतविग्रहमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.9 -- 8.10॥ कविमिति। प्रयाणेति। एवम् अनुस्मरेदिति। आदित्येति। आदित्यवर्णत्वं वासुदेवतत्त्वस्य \[न\] परिच्छेदकम्। आकृतिकल्पनादि +++(N विकल्पनादि)+++ विभ्रान्तिमयमोहतमसः अतीतत्त्वात् रवित्वेनोपमानमित्याशयः। भ्रुवोर्मध्ये इति प्राग्वत्।
 </details>
@@ -283,12 +290,14 @@ verse is to be connected with the earlier itself thus: 'by meditating
 
 8.9 See Comment under 8.10
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.8 -- 8.9॥ एवं सप्तप्रश्नानामुत्तरं निरूप्य प्रयाणकाले योगिनां
 ज्ञानिनां भक्तानां च तत्तत्स्वरूपप्राप्त्यात्मकं फलमाह -- अभ्यासयोगेति।
@@ -313,10 +322,13 @@ verse is to be connected with the earlier itself thus: 'by meditating
 -- भावात्मकप्राप्तभक्तस्वरूपं प्रकटितलीलास्वरूपात् सर्वदा रसात्मकत्वेन
 वर्तमानमेवं पुरुषं पुरुषोत्तमम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.9॥ पुनरप्यनुचिन्तनाय पुरुषं विशिनष्टि **-- कविमिति द्वाभ्याम्।**
 कविं सर्वज्ञं सर्वविद्यानिर्मातारं पुराणमनादिसिद्धं अनुशासितारं
@@ -327,10 +339,13 @@ verse is to be connected with the earlier itself thus: 'by meditating
 परस्ताद्वर्तमानंवेदाहमेतं पुरुषं महान्तम्। आदित्यवर्णं तमसः परस्तात् इति
 श्रुतिः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.9 He who meditates on the Omniscient, the Anceint, the Ruler, subtler than the subtle, the Ordainer of everything, of inconceivable form,
@@ -358,11 +373,13 @@ the Sun-coloured, and That which is beyond the darkness;
 8.9 कविम् Omniscient; पुराणम् Ancient; अनुशासितारम् the Ruler (of the whole world); अणोः than atom; अणीयांसम् minuter; अनुस्मरेत् remembers;
 यः who; सर्वस्य of all; धातारम् supporter; अचिन्त्यरूपम् one whose form is inconceivable; आदित्यवर्णम् effulgent like the sun; तमसः from the darkness (of ignorance); परस्तात् beyond.Commentary Kavim The sage; seer or poet; the omniscient.The Lord dispenses the fruits of actions of the Jivas (individual souls). He is the Ruler of the world. It is very difficult to conceive the form of the Lord. He is selfluminous and He illumies everything like the sun.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.9।। जो सर्वज्ञ, पुराण, शासन करनेवाला, सूक्ष्म-से-सूक्ष्म, सबका
@@ -502,6 +519,7 @@ the Sun-coloured, and That which is beyond the darkness;
 ।।8.9।। जो पुरुष सर्वज्ञ, प्राचीन (पुराण), सबके नियन्ता, सूक्ष्म से भी
 सूक्ष्मतर, सब के धाता, अचिन्त्यरूप, सूर्य के समान प्रकाश रूप और
 (अविद्या) अन्धकार से परे तत्त्व का अनुस्मरण करता है।।
+</details>
 </details>
 
 </div>

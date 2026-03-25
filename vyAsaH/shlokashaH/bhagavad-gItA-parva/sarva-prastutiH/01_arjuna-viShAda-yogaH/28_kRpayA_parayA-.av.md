@@ -26,8 +26,9 @@ title = "28 कृपया परयाऽऽविष्टो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥1.28॥ अन्तिमश्लोकव्याख्या दृश्या।
@@ -43,12 +44,14 @@ title = "28 कृपया परयाऽऽविष्टो"
 
 1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous. His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.28 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -100,12 +103,14 @@ starts from 2.10.
 च परिशुष्यतीति श्रमादिनिमित्तशोकापेक्षयातिशयकथनाय
 सर्वतोभाववाचिपरिशब्दप्रयोगः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.28॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -116,12 +121,14 @@ starts from 2.11.
 ॥1.28॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.28॥ No commentary.
 </details>
@@ -130,12 +137,14 @@ starts from 2.11.
 
 1.12 1.29 Sri Abhinavgupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.28 1.30॥ सीदन्ति इत्युपक्रम्यभ्रमतीव च मे मनः इत्यन्तं
 देहधर्माभिमानेन विषयदर्शनपूर्वकं स्वस्याश्रयो निवेदयतिनिमित्तानि
@@ -149,10 +158,13 @@ starts from 2.11.
 गात्राणि सर्वाङ्गानि सीदन्ति विशीर्यन्ते मुखं च परितः
 बाह्याभ्यन्तरभेदेनेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **॥1.28॥** किमब्रवीदित्यपेक्षायामाह **दृष्ट्वेममित्यादि**
 यावदध्यायसमाप्ति। हे कृष्ण योद्धुमिच्छन्तं पुरतः सम्यगवस्थितमिमं
@@ -160,10 +172,13 @@ starts from 2.11.
 मुखं परि समंताच्छुष्यति निर्द्रवीभवति।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.28 He was filled with deep compassion and said these words in despair
@@ -196,11 +211,13 @@ starts from 2.11.
 (the dark one; He who attracts); युयुत्सुम् eager to fight; समुपस्थितम्
 arrayed.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/28_kRpayA_parayA-.av.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.28 -- 1.30।। अर्जुन बोले - हे कृष्ण! युद्ध की इच्छावाले इस
@@ -271,6 +288,7 @@ arrayed.No Commentary.
 ।।1.28 1.29।। अर्जुन ने कहा -- हे कृष्ण ! युद्ध की इच्छा रखकर उपस्थित हुए
 इन स्वजनों को देखकर मेरे अंग शिथिल हुये जाते हैं, मुख भी सूख रहा है और
 मेरे शरीर में कम्प तथा रोमांच हो रहा है।।
+</details>
 </details>
 
 </div>

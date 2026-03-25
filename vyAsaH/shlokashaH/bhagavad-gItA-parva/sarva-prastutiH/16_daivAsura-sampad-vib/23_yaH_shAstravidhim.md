@@ -56,8 +56,9 @@ title = "23 यः शास्त्रविधिमुत्सृज्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.23॥**शास्त्रं** वेदाः **विधिः** अनुशासनं वेदाख्यं मदनुशासनम् **उत्सृज्य यः कामकारतो वर्तते** स्वच्छन्दानुगणमार्गेण वर्तते; **न स सिद्धिम् अवाप्नोति;** न काम् अप्य् आमुष्मिकीं सिद्धिम् अवाप्नोति। **न सुखम्** ऐहिकम् अपि किञ्चिद् अवाप्नोति। **न परां गतिं** कुतः परां गतिं प्राप्नोति इत्यर्थः।
@@ -72,12 +73,14 @@ title = "23 यः शास्त्रविधिमुत्सृज्य"
 
 16.23 Here Sastra means Vedas. Vidhi stands for injunction. He who abandons My injunction called Vedas and acts under the influence of desire, viz., takes the path according to his own wishes, does not attain perfection, He does not reach any Siddhi in the next world, nor does he find the slighest happiness in this world, let alone the attainment of the supreme state. It is not possible for him to do so. Such is the meaning.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.23॥ --,**यः शास्त्रविधिं** शास्त्रं वेदः तस्य विधिं कर्तव्याकर्तव्यज्ञानकारणं विधिप्रतिषेधाख्यम् **उत्सृज्य** त्यक्त्वा **वर्तते कामकारतः** कामप्रयुक्तः सन्; **न सः सिद्धिं** पुरुषार्थयोग्यताम् **अवाप्नोति; न** अपि अस्मिन् लोके **सुखं न** अपि **परां** प्रकृष्टां **गतिं** स्वर्गं मोक्षं वा॥
 </details>
@@ -153,12 +156,14 @@ gatim, Goal-heaven or Liberation.
 पुरुषार्थप्राप्तियोग्यामन्तःकरणशुद्धिं कर्माणि कुर्वन्नपि नाप्नोति। न
 सुखमैहिकं; नापि परां प्रकृष्टां गतिं स्वर्गं मोक्षं वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.23॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -167,12 +172,14 @@ gatim, Goal-heaven or Liberation.
 
 ॥16.23॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.23 -- 16.24॥ न चैतत् पुरुषवचनमित्यनादरणीयम्; अपि तु अनादिशास्त्रमत्र प्रमाणम् इत्युच्यते -- यः शास्त्रविधिमिति। तस्मादिति। शास्त्रविधिं त्यजत स्वमनीषयैव कार्याकार्यविचारं कुर्वतः प्रत्युत नरकपातः। तस्मात् आत्मबुद्ध्या +++(S;;N add शास्त्रमननुसृत्य after आत्मबुद्ध्या)+++ कार्याकार्यव्यवस्थां मा कार्षीः इति तात्पर्यम् \[इति\]।
 </details>
@@ -181,12 +188,14 @@ gatim, Goal-heaven or Liberation.
 
 16.23 See Coment under 16.24
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.23॥ कामादित्यागश्च शास्त्रोक्तस्वधर्माचरणां विना न भवतीत्याह -- य
 इति। सर्वःब्रह्मादयस्त्ववयवाः पुरुषोत्तमस्य इत्याज्ञाय देवयजनं हरिणा
@@ -204,20 +213,26 @@ gatim, Goal-heaven or Liberation.
 स्वमनोभिलाषं; न सुखं मनोनिर्वृतिं; न परां गतिं मोक्षं
 प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.23॥ कामादित्यागश्च स्वधर्माचरणं विना न भवतीत्याह **-- य इति।**
 शास्त्रविधिं वेदविहितं धर्ममुत्सृज्य यः कामकारतो यथेच्छं वर्तते स
 सिद्धिं तत्त्वज्ञानं न प्राप्नोति। नच सुखमुपशमं नच परां गतिं मुक्तिं
 प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.23 He who, abandoning the injunctions of the Sastras, acts under the influence of desire, attains neither perfection nor pleasure, nor the supreme state.
@@ -250,11 +265,13 @@ having cast aside; वर्तते acts; कामकारतः under the i
 not; सः he; सिद्धिम् perfection; अवाप्नोति attains; न not; सुखम्
 happiness; न not; पराम् Supreme; गतिम् Goal.Commentary He who does not care for the Self; who gives free rein to these three sins; is a traitor to the Self. He who has renounced the authority of the Vedas which; like a mother; is eally disposed and kind to all; and which; like a beaconlight; points out what is good and what is evil; does not attain perfection nor happiness nor the Supreme Goal. He who pays no attention to prescribed actions and follows the promptings of desire awakened by the senses; does not obtain God.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.23।।****जो मनुष्य शास्त्रविधिको छोड़कर अपनी इच्छासे मनमाना आचरण
@@ -346,6 +363,7 @@ happiness; न not; पराम् Supreme; गतिम् Goal.Commentary He 
 ।।16.23।। जो पुरुष शास्त्रविधि को त्यागकर अपनी कामना से प्रेरित होकर ही
 कार्य करता है, वह न पूर्णत्व की सिद्धि प्राप्त करता है, न सुख और न परा
 गति।।
+</details>
 </details>
 
 </div>

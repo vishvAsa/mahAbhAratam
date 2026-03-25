@@ -23,8 +23,9 @@ title = "31 पवनः पवतामस्मि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.31॥**पवतां** गमनस्वभावानां **पवनः** अहम्। **शस्त्रभृतां रामो ऽहम्।** शस्त्रभृत्त्वम् अत्र विभूतिः; अर्थान्तराभावात्। आदित्यादयश् च क्षेत्रज्ञा आत्मत्वेन अवस्थितस्य भगवतः शरीरतया धर्मभूता इति शस्त्रभृत्त्वस्थानीयाः।
@@ -39,12 +40,14 @@ title = "31 पवनः पवतामस्मि"
 
 10.31 Of moving things, namely, of things whose nature is to move, I am the wind. Of those who bear weapons, I am Rama. Here the ality of bearing weapons is the Vibhuti, as no other sense is possible. Aditya etc., being individual selves, constitute attributes of the Lord, who is their Self as they constitute His body. Therefore they stand in the same position of the attribute as that of bearing weapons.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.31॥ --,**पवनः** वायुः **पवतां** पावयितॄणाम् **अस्मि। रामः शस्त्रभृताम्** अहं शस्त्राणां धारयितॄणां दाशरथिः रामः **अहम्। झषाणां** मत्स्यादीनां **मकरः** नाम जातिविशेषः अहम्। **स्रोतसां** स्रवन्तीनाम् **अस्मि जाह्नवी** गङ्गा॥
 </details>
@@ -95,12 +98,14 @@ jahnavi, Ganga; srotasam, among rivers, among streams of water.
 झषाणां मत्स्यानां मकरो नाम तज्जातिविशेषः। स्रोतसां वेगेन चलज्जलानां
 नदीनां मध्ये सर्वनदीश्रेष्ठा जाह्नवी गङ्गाहमस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.31॥ आनन्दरूपत्वात्पूर्णत्वाल्लोकरमणत्वाच्च रामः। आनन्दरूपो
 निष्परिमाण एष लोकश्चैतस्माद्रमते तेन रामः इति शाण्डिल्यशाखायाम्। रश्च
@@ -116,12 +121,14 @@ jahnavi, Ganga; srotasam, among rivers, among streams of water.
 **आनन्देति**। आद्येऽर्थे विग्रहं दर्शयति -- **रश्चे**ति।
 रश्चासावमश्चेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -130,12 +137,14 @@ jahnavi, Ganga; srotasam, among rivers, among streams of water.
 
 10.31 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.31॥ पवन इति। त्रिविधगुणवान् भगवदुपयोगितया चिन्तनीयः। शस्त्रभृतां
 मध्ये रामो नाम्ना जामदग्न्योऽहंरामः शस्त्रभृतां वरः इति सर्वैः
@@ -151,19 +160,25 @@ jahnavi, Ganga; srotasam, among rivers, among streams of water.
 दशरथात्मजोऽस्मि। झषाणां मध्ये मकरः मत्स्यजातिविशेषोऽस्मि। स्रोतसां
 प्रवहज्जलानां मध्ये जाह्नवी गङ्गाऽस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.31॥ **पवन इति।** पवतां पावयितॄणां वेगवतां वा मध्ये वायुरस्मि।
 शस्त्रभृतां वीराणां रामो दाशरथिः। यद्वा परशुरामः। झषाणां मत्स्यानां मकरो
 मत्स्यविशेषस्तिमिंगिलः। स्रोतसां प्रवाहोदकानां मध्ये भागीरथी।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.31 Of moving things, I am the wind. Of those who bear weapons, I am Rama. Of fishers, I am Makara, and of rivers, I am Ganga.
@@ -197,11 +212,13 @@ am; रामः Rama; शस्त्रभृताम् among wielders of we
 I; झषाणाम् among fishes; मकरः Makara (shark); च and; अस्मि (I) am;
 स्रोतसाम् among streams; अस्मि (I) am; जाह्नवी the Ganga.Commentary The holy river Ganga (spelt Ganges in English) was swallowed by Jahnu when she was being brought down by Bhagiratha from heaven. Hence the name Jahnavi for Ganga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.31।। पवित्र करनेवालोंमें वायु और शास्त्रधारियोंमें राम मैं हूँ।
@@ -263,6 +280,7 @@ I; झषाणाम् among fishes; मकरः Makara (shark); च and; अ
 
 ।।10.31।। मैं पवित्र करने वालों में वायु हूँ और शस्त्रधारियों में राम
 हूँ; तथा मत्स्यों (जलचरों) में मैं मगरमच्छ और नदियों में मैं गंगा हूँ।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "23 तत्सदिति निर्देशो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.23॥ **तत् सद् इति त्रिविधः** अयं **निर्देशः** शब्दः **ब्रह्मणः स्मृतः;** ब्रह्मणो ऽन्वयी भवति। ब्रह्म च वेदः वेदशब्देन वैदिकं कर्म उच्यते वैदिकं यज्ञादिकं यज्ञादिकं कर्म तत् सद् इति शब्दान्वितं भवति। ओम् इति शब्दस्य अन्वयो वैदिककर्माङ्गत्वेन प्रयोगादौ प्रयुज्यमानतयातत् सद् इति शब्दयोर् अन्वयः पूज्यत्वाय वाचकतया।**तेन** त्रिविधेन शब्देन अन्विता **ब्राह्मणा** वेदान्वयिनस् त्रैवर्णिकाः **वेदाश् च यज्ञाश् च पुरा विहिताः पुरा मया** एव निर्मिता इत्यर्थः। त्रयाणां तत् सद् इति शब्दानाम् अन्वयप्रकारो वर्ण्यते। प्रथमम्ओम् इति शब्दस्य अन्वयप्रकारम् आह --
@@ -41,12 +42,14 @@ title = "23 तत्सदिति निर्देशो"
 
 17.23 Here Brahman means the Veda. It is the secondary meaning of the expression, especially of the ritualistic portion of the Veda. The three-fold expression Om Tat Sat is connected with the Brahman or the Veda. Sacrifices and similar rituals are prescribed in the Vedas. These expressions Om Tat Sat are used in these Vedic rites. The connection of Om is that it should be invariably used at the commencement of the recitation of Vedic hymns. The syllable Tat and Sat indicate that these rituals are worthy of honour. The Brahmanas are those who are to preserve Vedic study as also the Vedas and the sacrificial rites ordained in them. All these were created by Me in the past. Sri Krsna elaborates in the next verses the nature of the connection of these syllables with the Vedic rituals, beginning first with Om.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.23॥ --, **तत् सत् इति** एवं **निर्देशः;** निर्दिश्यते अनेनेति निर्देशः; **त्रिविधो** नामनिर्देशः **ब्रह्मणः स्मृतः** चिन्तितः वेदान्तेषु ब्रह्मविद्भिः। **ब्राह्मणाः तेन** निर्देशेन त्रिविधेन **वेदा**श्च **यज्ञाश्च विहिताः** निर्मिताः **पुरा** पूर्वम् इति निर्देशस्तुत्यर्थम् उच्यते॥
 </details>
@@ -135,12 +138,14 @@ Prajapati.\]-this is said by way of eulogizing the designation.
 तस्माद्यज्ञादिसृष्टिहेतुत्वेन तद्वैगुण्यपरिहारसमर्थो महाप्रभावोयं
 निर्देश इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.23॥ पुनश्च कर्मादीतिकर्तव्यताविधानार्थमर्थवादमाह -- तत्सदित्यादिना।
 परस्य ब्रह्मणो ह्येतानि नामानि। ओतं जगद्यत्र स्वयं च पूर्णो
@@ -188,12 +193,14 @@ Prajapati.\]-this is said by way of eulogizing the designation.
 तस्मात्स्वतन्त्रेण वक्त्रा भाव्यम्। न चैवं पौरुषेयत्वापत्तिः;
 अनादिसिद्धेनैव शब्दार्थसम्बन्धेन तस्य नियोक्तृत्वाभ्युपगमादिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.23 -- 17.27॥ इदानीं ये गुणत्रितयसंकटोत्तीर्णधियः ते क्रियां कथमाचरन्ति इति तादृक़्प्रकार उच्यते -- ओमित्यादि अभिधीयते इत्यन्तम्। ओं तत् सत् इत्येभिस्त्रिभिः शब्दैर्ब्रह्मणो निर्देशः; संमुखीकरणम्। तत्र ओम् इत्यनेन शास्त्रार्थोऽयमादेहसंबन्धमूरीकार्य इति सूच्यते। तत् इति सर्वनामपदेन सामान्यमात्राभिधायिना विशेषपरामर्शमात्रासमर्थेन फलानभिसंधानं ब्रह्मण्युच्यते अभिसंधानस्य विशेषपरिग्रहमन्तरेण अभावात् सकलविशेषानुग्राहित्वेऽपि सकलफलसंधाने सर्वकर्तृतायामपि विशिष्टफलायोगात्। सत् इत्यमुया श्रुत्या प्रशंसा अभिधीयते। क्रियमाणमपि इदं यज्ञादिकं दुष्टम् इति बुद्ध्या क्रियमाणं तामसतामेति। विशिष्टफलाभिसंधानेन च क्रियमाणं न च सत्; बन्धाधायकमेवेति। तस्मात् कर्तव्यमिदम् इति मन्वानाः \[ फलविशेषमनभिसंदधानाः \] यज्ञादि कुर्वाणा अपि न बध्यन्ते। अनेनैवाभिप्रायेण आदिपर्वण्युक्तम् -- तपो न कल्कोऽध्ययनं न कल्कः  
   
@@ -210,12 +217,14 @@ Prajapati.\]-this is said by way of eulogizing the designation.
 
 17.23 See Comment under 17.27
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.23॥ एवं श्रुतिसिद्धानां यागतपोदानानां सत्त्वादिगुणभेदेन भेद उक्तः
 इदानीं तस्य श्रौतस्यैव यज्ञादेर्देशकालादिसम्पत्त्यभावेऽपि
@@ -260,10 +269,13 @@ Prajapati.\]-this is said by way of eulogizing the designation.
 ज्ञानपूर्वकनामत्रयोदाहरणसंसूचनात्मकेन निर्गुणानां सर्वं सम्पत्स्यत इति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.23॥ ननु चैवं विचार्यमाणे सर्वमपि यज्ञतपोदानादि राजसतामसप्रायमेवेति
 व्यर्थो यज्ञादिप्रयास इत्याशङ्क्य तथाविधस्यापि सात्त्विकत्वापादनप्रकारं
@@ -279,10 +291,13 @@ Prajapati.\]-this is said by way of eulogizing the designation.
 परमात्मना ब्राह्मणादयः पवित्रतमाः सृष्टाः। तस्मात्तस्यायं त्रिविधो
 निर्देशोऽतिप्रशस्त इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.23 Om, Tat, Sat - thus Brahman is denoted by this threefold expression. Associated with these, Brahmanas, the Vedas and sacrifices were ordained in the past.
@@ -318,11 +333,13 @@ Brahmanas; तेन by that; वेदाः Vedas; च and; यज्ञाः
 With Om or Om Tat Sat all acts of sacrifice; study of sacred scriptures;
 spiritual discipline and meditation are commenced. If the doer of sacrifices remembers either of these Mantras all obstacles that stand in the way of success of the sacrifices are removed.Om Tat Sat has been declared to be the triple designation of Brahman in the Vedanta by the knowers of Brahman. The power of creation that lies in the Creator emanates from this Mantra. When He meditated inwardly on the meaning of this Mantra and repeated the threefold word; He acired the power to create. Then He created the Brahmanas; gave them the Vedas to be their guide and directed them to perform sacrifices and other rites.Puraa Of old At the beginning of creation by the Prajapati.Brahman here means the Veda.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.23।। ऊँ, तत् और सत् -- इन तीनों नामोंसे जिस परमात्माका निर्देश किया
@@ -383,6 +400,7 @@ spiritual discipline and meditation are commenced. If the doer of sacrifices rem
 
 ।।17.23।। 'ऊँ, तत् सत्' ऐसा यह ब्रह्म का त्रिविध निर्देश (नाम) कहा गया
 है; उसी से आदिकाल में (पुरा) ब्राहम्ण, वेद और यज्ञ निर्मित हुए हैं।।
+</details>
 </details>
 
 </div>

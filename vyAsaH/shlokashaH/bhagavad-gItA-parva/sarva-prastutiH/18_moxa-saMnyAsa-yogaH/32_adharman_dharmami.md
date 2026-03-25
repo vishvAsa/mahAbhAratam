@@ -23,8 +23,9 @@ title = "32 अधर्मन् धर्ममिति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.32॥**तामसी** तु बुद्धिः **तमसा आवृता** सती **सर्वार्थान् विपरीतान् मन्यते अधर्मं धर्मं** धर्मं च अधर्मम्; सन्तं च अर्थम् असन्तम्; असन्तं च अर्थं सन्तम्; परं च तत्त्वम् अपरम्; अपरं च तत्त्वं परम्; एवं सर्वं विपरीतं मन्यते इत्यर्थः।
@@ -39,12 +40,14 @@ title = "32 अधर्मन् धर्ममिति"
 
 18.32 That Buddhi is of the nature of Tamas which is 'enveloped in Tamas' and 'reverses every value.' The meaning is that it regards Adharma as Dharma and Dharma as Adharma, existent as non-existent, and non-existent as existent, and higher truth as the lower and the lower truth as the higher, and thus reverses every value.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.32॥ --,**अधर्मं** प्रतिषिद्धं **धर्मं** विहितम् **इति या मन्यते** जानाति **तमसा आवृता** सती; **सर्वार्थान्** सर्वानेव ज्ञेयपदार्थान् **विपरीतांश्च** विपरीतानेव विजानाति; **बुद्धिः सा पार्थ; तामसी**॥
 </details>
@@ -94,12 +97,14 @@ to what they are.
 सर्वार्थान्सर्वान्दृष्टप्रयोजनानपि ज्ञेयपदार्थान् विपरीतानेव मन्यते सा
 विपर्यवती बुद्धिस्तामसी।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.32॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -108,12 +113,14 @@ to what they are.
 
 ॥18.32॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.30 -- 18.32॥ प्रवृत्तिमित्त्यादि तामसी मतेत्यन्तम्। अयथावत् -- असम्यक्।
 </details>
@@ -122,12 +129,14 @@ to what they are.
 
 18.30-32 Pravrttim etc. upto Tamasi mata. Incorrectly ; not properly.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.32॥ अधर्ममिति। तमसा अज्ञानेनाऽऽवृता सर्वार्थान्विपरीतान्मन्यते सा
 तामसी।
@@ -140,10 +149,13 @@ to what they are.
 सर्वार्थान् अकार्यकार्याभयभयादीन् विपरीतान् मन्यते; हे पार्थ सा
 बुद्धिस्तामसी मन्तव्येत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.32॥ तामसीं बुद्धिमाह **-- अधर्ममिति।** विपरीतग्राहिणी
 बुद्धिस्तामसीत्यर्थः। बुद्धिरन्तःकरणं पूर्वोक्तम्। ज्ञानं तु तद्वृत्तिः।
@@ -152,10 +164,13 @@ to what they are.
 बहुत्वेऽपि धर्माधर्मभयाभयसाधनत्वेन प्राधान्यादेतासां त्रैविध्यमुक्तम्।
 उपलक्षणं चैतदन्यासाम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.32 That Buddhi, O Arjuna, which, enveloped in darkness, regards Adharma as Dharma and which reverses every value, is Tamasika.
@@ -188,11 +203,13 @@ to what they are.
 perverted; च and; बुद्धिः intellect; सा that; पार्थ O Partha; तामसी
 Tamasic (dark).Commentary That intellect which regards righteous acts as evil; and considers right things to be false; which treats everything in a contrary sense and looks upon virtues as if they were vices and takes everything that the scriptures declare to be good as being entirely wrong; is Tamasic. It views all things in a perverted light.Thus; O Arjuna; I have explained to thee the three aspects of the intellect. Now listen to the explanation of the characteristics of the three aspects of firmness.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.32।। हे पृथानन्दन ! तमोगुणसे घिरी हुई जो बुद्धि अधर्मको धर्म और
@@ -251,6 +268,7 @@ Tamasic (dark).Commentary That intellect which regards righteous acts as evil; a
 ।।18.32।। हे पार्थ ! तमस् (अज्ञान अन्ध:कार) से आवृत जो बुद्धि अधर्म को
 ही धर्म मानती है और सभी पदार्थों को विपरीत रूप से जानती है, वह बुद्धि
 तामसी है।।
+</details>
 </details>
 
 </div>

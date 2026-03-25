@@ -23,8 +23,9 @@ title = "23 शक्नोतीहैव यः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.23॥**शरीरविमोक्षणात् प्राग् इह एव** साधनानुष्ठानदशायाम् एव आत्मानुभवप्रीत्या **कामक्रोधोद्भवं** वेगं सोढुं निरोद्धुं **यः शक्नोति स युक्तः** आत्मानुभवाय अर्हः। शरीरमोक्षणोत्तरकालम् आत्मानुभवसुखः सम्पत्स्यते।
@@ -40,12 +41,14 @@ title = "23 शक्नोतीहैव यः"
 5.23 When a man is able to withstand, i.e., to control the impulses of emotions like desire and anger by his longing for the experience of self, he is released 'here itself from the body,' i.e., even during the state when he is practising the means for release, he gains the capacity for experiencing the self. But he becomes blessed by the experience and gets immersed in the bliss of the self only after the fall of the body
 (at the end of his Prarabdha or operative Karma). \[The implication is that in this system there is no Jivan-Mukti or complete liberation even when the body is alive. Only the state of Sthita-prajna or of 'one of steady wisdom' can be attained by an embodied Jiva.\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.23॥ **शक्नोति** उत्सहते **इहैव** जीवन्नेव **यः सोढुं** प्रसहितुं **प्राक्** पूर्वं **शरीरविमोक्षणात्** आ मरणात् इत्यर्थः। मरणसीमाकरणं जीवतोऽवश्यंभावि हि कामक्रोधोद्भवो वेगः अनन्तनिमित्तवान् हि सः इति यावत् मरणं तावत् न विश्रम्भणीय इत्यर्थः। कामः इन्द्रियगोचरप्राप्ते इष्टे विषये श्रूयमाणे स्मर्यमाणे वा अनुभूते सुखहेतौ या गर्धिः तृष्णा स कामः क्रोधश्च आत्मनः प्रतिकूलेषु दुःखहेतुषु दृश्यमानेषु श्रूयमाणेषु स्मर्यमाणेषु वा यो द्वेषः सः क्रोधः तौ कामक्रोधौ उद्भवो यस्य वेगस्य सः कामक्रोधोद्भवः वेगः। रोमाञ्चनप्रहृष्टनेत्रवदनादिलिङ्गः अन्तःकरणप्रक्षोभरूपः कामोद्भवो वेगः गात्रप्रकम्पप्रस्वेदसंदष्टोष्ठपुटरक्तनेत्रादिलिङ्गः क्रोधोद्भवो वेगः तं **कामक्रोधोद्भवं वेगं** यः उत्सहते प्रसहते सोढुं प्रसहितुम् **सः युक्तः** योगी **सुखी** च इह लोके **नरः**॥ कथंभूतश्च ब्रह्मणि स्थितः ब्रह्म प्राप्नोति इति आह **भगवान्**
 </details>
@@ -186,12 +189,14 @@ attains Brahman; The Lord says:
 तूत्पन्नयोः कामक्रोधयोर्वेगसहने प्रस्तुते तयोरनुत्पत्तिमात्रं न
 दृष्टान्त इति किमतिनिर्बन्धेन।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.23॥ तत्परित्यागं प्रशंसति शक्नोतीति। कामक्रोधोद्भवं वेगं सोढुं
 शक्नोति। शरीरविमोक्षणात्प्राक्। यथा मनुष्यशरीरे सोढुं सुशकः तथा
@@ -212,12 +217,14 @@ attains Brahman; The Lord says:
 इति सूचितम्। शरीरविमोक्षणपर्यन्तं न सकृदिति कश्चित्। तदसत् तथा
 सत्याशरीरविमोक्षणादिति स्यात्। इहैवेति च व्यर्थम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.23॥ शक्नोतीति। न चैतद्दुःशकम् शरीरान्तकालं यावत् क्रोधकामजो वेगः क्षणमात्रं यदि सह्यते तदा आत्यन्तिकी सुखप्राप्तिः।
 </details>
@@ -226,12 +233,14 @@ attains Brahman; The Lord says:
 
 5.23 Saknoti etc. It is not easy to accomplish this; \[for\], if this force of wrath and desire, hard to bear is endured till the last moment of the body, not for a moment alone-then is the total Bliss achievement.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.23॥ अतो मोक्ष एव योगिनः पुरुषार्थः तत्र सर्वप्रतिपक्षसहनेनैव तल्लाभ
 इत्याह शक्नोतीहेति। शरीरत्यागात्प्रागेव कामक्रोधोद्भवं वेगं यः सोढुं
@@ -249,10 +258,13 @@ attains Brahman; The Lord says:
 तदिच्छापूर्तिदर्शनक्षोभजं सोढुं शक्नोति स इहैव अस्मिन्नेव शरीरे युक्तो
 भावात्मरूपयुक्तः स सुखी नरः मद्भक्तः स्यादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.23॥ तस्मान्मोक्ष एव परः पुरुषार्थस्तस्य च
 कामक्रोधवेगोऽतिप्रतिपक्षोऽतस्तत्सहनसमर्थ एव मोक्षभागित्याह
@@ -266,10 +278,13 @@ attains Brahman; The Lord says:
 वसिष्ठेन प्राणे गते यथा देहः सुखं दुःखं न विन्दति। तथा
 चेत्प्राणयुक्तोऽपि स कैवल्याश्रमे वसेत्॥ इति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.23 He who is able, even here, before he is released from the body, to bear the impulse generated by desire and wrath, he is a Yogin (competent for self-realisation); he is the happy man.
@@ -305,11 +320,13 @@ to withstand; प्राक् before; शरीरविमोक्षणा
 perspiration; biting of the lips and trembling of the body. In this verse you will clearly understand that he who has controlled desire and anger is the most happy man in this world; nor he who has immense wealth; a beautiful wife and beautiful children. Therefore you must try your level best to eradicate desire and anger; the dreadful enemies of eternal bliss.Kama (desire) is longing for a pleasant and agreeable object which gives pleasure and which is seen; heard of; or remembered.
 Anger is aversion towards an unpleasant and disagreeable object which gives pain and which is seen; heard or; or remembered.A Yogi controls the impulse born of desire and anger; destroyes the currents of likes and dislikes,and attains to eanimity of the mind; by resting in the innermost Self; and so he is very happy.(Cf.VI.18)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.23।। इस मनुष्य-शरीरमें जो कोई (मनुष्य) शरीर छूटनेसे पहले ही
@@ -444,6 +461,7 @@ Anger is aversion towards an unpleasant and disagreeable object which gives pain
 ।।5.23।। जो मनुष्य इसी लोक में शरीर त्यागने के पूर्व ही काम और क्रोध से
 उत्पन्न हुए वेग को सहन करने में समर्थ है, वह योगी (युक्त) और सुखी
 मनुष्य है।।
+</details>
 </details>
 
 </div>

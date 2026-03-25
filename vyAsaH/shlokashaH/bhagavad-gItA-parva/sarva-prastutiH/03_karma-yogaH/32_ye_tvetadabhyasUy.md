@@ -23,8 +23,9 @@ title = "32 ये त्वेतदभ्यसूयन्तो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.32॥**ये त्व् एतत्** सर्वम् आत्मवस्तु मच्छरीरतया मदाधारं मच्छेषभूतं मदेकप्रवर्त्त्यम् इति **मे मतं न अनुतिष्ठन्ति** न एवम् अनुसन्धाय सर्वाणि कर्माणि कुर्वते ये च न श्रद्दधते ये च अभ्यसूयन्तो वर्तन्ते **तान्** सर्वेषु ज्ञानेषु विशेषेण मूढान् तत एव **नष्टान् अचेतसो विद्धि।** चेतःकार्यं हि वस्तुयाथात्म्यनिश्चयस् तदभावाद् अचेतसः विपरीतज्ञानाः सर्वत्र विमूढाश्च। एवं प्रकृतिसंसर्गिणस् तद्गुणोद्रेककृतं कर्तृत्वं तच्च परमपुरुषायत्तम् इत्य् अनुसन्धाय कर्मयोगयोग्येन ज्ञानयोगयोग्येन च कर्मयोगस्य सुशकत्वाद् अप्रमादत्वाद् अन्तर्गतात्मज्ञानतया निरपेक्षत्वाद् इतरस्य दुःशकत्वात् सप्रमादत्वात् शरीरधारणाद्यर्थतया कर्मापेक्षत्वात् कर्मयोग एव कर्तव्यः। व्यपदेश्यस्य तु विशेषतः स एव कर्तव्य इति च उक्तम्। अतः परम् अध्यायशेषेण ज्ञानयोगस्य दुःशकतया सप्रमादता उच्यते
@@ -39,12 +40,14 @@ title = "32 ये त्वेतदभ्यसूयन्तो"
 
 3.32 But those who do not follow this view of Mine, namely, that the self has Me for Its support, is subservient to Me and is actuated by Me only, i.e., those who do not perform all acts contemplating in this way as also those who have no faith in the meaning of the Sastras and calumniate them - know them to be extremely deluded and devoid of reasoning and knowledge and conseently completely lost. For, the function of the mind is the determination of the real nature of things, and in its absence, those mentioned above are devoid of reason, and therefore apostates in knowledge and extremely deluded in all ways. For one united with the Prakrti (body), the sense of agency results from the preponderance of the Gunas of Prakrti. But this agency really rests with the Supreme Person. Contemplating thus, Karma Yoga alone should be practised by both - those who are competent for Karma Yoga only and those who are competent for Jnana Yoga. The implied superiority of Karma Yoga has the following justifications; it is easy to perform, free from liability to lapse, and independent of anything else; it comprises the knowledge of the self also within its scope. On the other hand Jnana Yoga is difficult to practise, is not free from the liability to lapse, leaves one dependent on actions for the sustenance of the body etc. And for a distinguished perosn, this (i.e., Karma Yoga) is especially what ought to be practised. Next, till the end of this chapter, it is explained how Jnana Yoga, being difficult, is liable to lead to lapses.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.32॥ **ये तु** तद्विपरीताः **एतत्** मम मतम् **अभ्यसूयन्तः निन्दन्तः न अनुतिष्ठन्ति** नानुवर्तन्ते **मे मतम्** सर्वेषु ज्ञानेषु विविधं मूढाः ते। **सर्वज्ञानविमूढान् तान् विद्धि** जानीहि **नष्टान्** नाशं गतान् **अचेतसः** अविवेकिनः॥ कस्मात् पुनः कारणात् त्वदीयं मतं नानुतिष्ठन्ति परधर्मान् अनुतिष्ठन्ति स्वधर्मं च नानुवर्तन्ते त्वत्प्रतिकूलाः कथं न बिभ्यति त्वच्छासनातिक्रमदोषात् तत्राह
 </details>
@@ -106,12 +109,14 @@ from transgressing Your ;ndments; As to that, the Lord says:
 निर्गुणे च यज्ज्ञानं तत्र विविधं प्रमाणतः प्रमेयतः प्रयोजनतश्च मूढान्
 सर्वप्रकारेणायोग्यान्नष्टान् सर्वपुरुषार्थभ्रष्टान्विद्धि जानीहि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.31 3.32॥ फलमाह ये म इति। ये त्वेवं निवृत्तकर्मिणस्तेऽपि मुच्यन्ते
 ज्ञानद्वारा किम्वपरोक्षज्ञानिनः न तु साधनान्तरमुच्यते। निवृत्तादीनि
@@ -139,12 +144,14 @@ from transgressing Your ;ndments; As to that, the Lord says:
 द्वितीयमपि प्रकारमतिदेशेन निराचष्टे **अत एवे**ति। अपरोक्षेशदृष्टिस्तु
 मुक्तौ किञ्चिन्न मार्गते इत्युक्तत्वादेवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.31 3.32॥ ये म इति। ये त्वेतदिति। एतच्च मतमाश्रित्य यः कश्चित् यत्किंचित् करोति तत्तस्य न बन्धकम्। एतस्मिंस्तु ज्ञाने ये न श्रद्धालवः ( श्रद्धालवाः) ते विनष्टाः अविरतं जन्ममरणादि +++(S omitsआदि)+++ भयभावितत्त्वात्।
 </details>
@@ -153,12 +160,14 @@ from transgressing Your ;ndments; As to that, the Lord says:
 
 3.31-32 Ye Me etc. Ye tvetat etc. Taking shelter in this doctrine whosoever performs any action, it does not bind him. On the other hand those, who have no faith is this knowledge, are lost totally; for, they are constantly socked in the fear of birth, death etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.32॥ विपक्षे दोषमाह ये त्विति।
 </details>
@@ -171,20 +180,26 @@ from transgressing Your ;ndments; As to that, the Lord says:
 शून्यहृदयान् नष्टान् नाशं प्राप्तान् विद्धि जानीहि। मदाज्ञातिरेकं
 कर्मकर्त्तारो नश्यन्तीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.32॥ विपक्षे दोषमाह **येत्विति।** ये तु मे मतमीश्वरार्थं कर्म
 कर्तव्यमित्यनुशासनमभ्यसूयन्तो द्विषन्तो नानुतिष्ठन्ति तानचेतसो
 विवेकशून्यानतएव सर्वस्मिन्कर्मणि ब्रह्मविषये च यज्ज्ञानं तत्र
 विमूढान्नष्टान्विद्धि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.32 But those who calumniate it, and those who do not practise this teaching of Mine - know them to be absolutely senseless and devoid of all knowledge, and therefore lost.
@@ -218,11 +233,13 @@ knowledge and to be lost and brainless.
 3.32 ये those who; तु but; एतत् this; अभ्यसूयन्तः carping at; न not;
 अनुतिष्ठन्ति practise; मे My; मतम् teaching; सर्वज्ञानविमूढान् deluded of all knowledge; तान् them; विद्धि know; नष्टान् ruined; अचेतसः devoid of discrimination.Commentary The pigheaded people who are obstinate; who find fault with the teachings of the Lord and who do not practise them are certainly doomed to destruction. They are incorrigible and senseless persons indeed.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.32।। परन्तु जो मनुष्य मेरे इस मतमें दोष-दृष्टि करते हुए इसका
@@ -271,6 +288,7 @@ knowledge and to be lost and brainless.
 
 ।।3.32।। परन्तु जो दोष दृष्टि वाले मूढ़ लोग इस मेरे मत का पालन नहीं
 करते, उन सब ज्ञानों में मोहित चित्तवालों को नष्ट हुये ही तुम समझो।।
+</details>
 </details>
 
 </div>

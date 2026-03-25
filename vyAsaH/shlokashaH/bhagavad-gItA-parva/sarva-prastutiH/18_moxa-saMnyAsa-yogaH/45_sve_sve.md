@@ -23,8 +23,9 @@ title = "45 स्वे स्वे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.45॥**स्वे स्वे** यथोदिते **कर्मण्य् अभिरतो नरः संसिद्धिं** परमपदप्राप्तिं **लभते। स्वकर्मनिरतो यथा सिद्धिं** **विन्दति** परमं पदं प्राप्नोति तथा **श्रृणु।**
@@ -39,12 +40,14 @@ title = "45 स्वे स्वे"
 
 18.45 When one is devoted to his own duty in a way mentioned earlier, he attains perfection i.e., the supreme state. When a person is devoted to his duty, how he attains perfection, i.e., attains the supreme state, listen.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.45॥ --,**स्वे स्वे** यथोक्तलक्षणभेदे **कर्मणि अभिरतः** तत्परः **संसिद्धिं** स्वकर्मानुष्ठानात् अशुद्धिक्षये सति कायेन्द्रियाणां ज्ञाननिष्ठायोग्यतालक्षणां संसिद्धिं **लभते** प्राप्नोति नरः अधिकृतः पुरुषः किं स्वकर्मानुष्ठानत एव साक्षात् संसिद्धिः न कथं तर्हि **स्वकर्मनिरतः सिद्धिं यथा** येन प्रकारेण **विन्दति; तत् शृणु**॥
 </details>
@@ -202,12 +205,14 @@ devoted to his own duty; vindati, acheives; siddim, success.
 मोक्षहेतुत्वमुपासनाविशेषादित्याह -- स्वकर्मनिरतः सिद्धिमुक्तलक्षणां यथा
 येन प्रकारेण विन्दति तच्छृणु। श्रुत्वा तं प्रकारमवधारयेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.45॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -216,12 +221,14 @@ devoted to his own duty; vindati, acheives; siddim, success.
 
 ॥18.45॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -232,12 +239,14 @@ devoted to his own duty; vindati, acheives; siddim, success.
 
 18.45 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.45॥ एवंविधस्य स्वस्वकर्मणः स्वसंसिद्धिहेतुत्वमाह -- स्वे स्व
 इत्यर्द्धेन। अनेन परधर्मो व्यावर्त्तितः।
@@ -251,10 +260,13 @@ devoted to his own duty; vindati, acheives; siddim, success.
 इत्यत आह -- स्वकर्मेति सार्द्धेन। स्वकर्मनिरतः स्वविहितकर्मनिष्ठो यथा
 येन प्रकारेण सिद्धिं विन्दति जानाति तं प्रकारं शृणु।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.45॥ एवंभूतस्य ब्राह्मणादिकर्मणो ज्ञानहेतुत्वमाह **-- स्वे स्व
 इति।** स्वस्वाधिकारविहितकर्मण्यभिरतः परिनिष्ठितो नरः संसिद्धिं
@@ -262,10 +274,13 @@ devoted to his own duty; vindati, acheives; siddim, success.
 सार्धेन।** स्वकर्मपरिनिष्ठितो यथा येन प्रकारेण तत्त्वज्ञानं लभते तं
 प्रकारं श्रृणु।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.45 Devoted to his duty, man attains perfection. Hear now how one devoted to his own duty attains perfection.
@@ -300,11 +315,13 @@ Devoted to one's own action, how one attains success that you must hear from Me.
 श्रृणु hear.Commentary This is the division of labour for which each caste is fitted according to its own nature. The duty prescribed is your sole support; and the highest service you can render to the Supreme is to carry it out wholeheartedly; without expectation of fruits; with the attitutde of dedication to the Lord. This will surely lead you to the Supreme. All the impurities of the mind will be washed away by the performance of ones own duty and you will be fit for Selfknowledge.Sve sve karmani Each devoted to his own duty in accordance with his nature
 (Guna) or caste. It is impossible to attain Moksha by works alone but works purify the heart and prepare the aspirant for receiving the divine light.The attitude of worshipfulness is prescribed for work
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.45।। अपने-अपने कर्ममें तत्परतापूर्वक लगा हुआ मनुष्य सम्यक्
@@ -415,6 +432,7 @@ Devoted to one's own action, how one attains success that you must hear from Me.
 ।।18.45।। अपने-अपने स्वाभाविक कर्म में अभिरत मनुष्य संसिद्धि को प्राप्त
 कर लेता है। स्वकर्म में रत मनुष्य किस प्रकार सिद्धि प्राप्त करता है, उसे
 तुम सुनो।।
+</details>
 </details>
 
 </div>

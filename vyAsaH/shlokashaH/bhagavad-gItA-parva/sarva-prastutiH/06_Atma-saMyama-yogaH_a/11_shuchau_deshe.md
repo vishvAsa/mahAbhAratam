@@ -23,8 +23,9 @@ title = "11 शुचौ देशे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.11॥**शुचौ देशे** अशुचिभिः पुरुषैर् अनधिष्ठिते अपरिगृहीते च अशुचिभिर् वस्तुभिर् अस्पृष्टे च पवित्रीभूते देशे दार्वादिनिर्मितं **नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् आसनं प्रतिष्ठाय** तस्मिन् मनःप्रसादकरे सापाश्रये **उपविश्य** योगैकाग्रम् अव्याकुलम् **मनः कृत्वा यतचित्तेन्द्रियक्रियः** सर्वात्मना उपसंहृतचित्तेन्द्रियक्रियः **आत्मविशुद्धये** बन्धविमुक्तये **योगं यु़ञ्ज्यात्** आत्मावलोकनं कुर्वीत।
@@ -41,12 +42,14 @@ title = "11 शुचौ देशे"
 'established a firm seat,' a seat made of wood or similar material,
 which is neither too high nor too low; which is covered with cloth, deer-skin and Kusa grass in the reverse order; seated on it in a way which promotes the serenity of mind; having the mind concentrated on Yoga; and holding the activities of the mind and senses in check in all ways - he should practise 'Yoga', i.e., practise the vision of the self for 'the purification of the self,' i.e., to end his bondage.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.11॥ **शुचौ** शुद्धे विविक्ते स्वभावतः संस्कारतो वा **देशे** स्थाने **प्रतिष्ठाप्य स्थिरम्** अचलम् **आत्मनः आसनं नात्युच्छ्रितं** नातीवउच्छ्रितं न अपि **अतिनीचम्** तच्च **चैलाजिनकुशोत्तरं** चैलम् अजिनं कुशाश्च उत्तरे यस्मिन् आसने तत् आसनं चैलाजिनकुशोत्तरम्। पाठक्रमाद्विपरीतः अत्र क्रमः चैलादीनाम्॥ प्रतिष्ठाप्य किम्
 </details>
@@ -127,12 +130,14 @@ which is neither too high nor too low; which is covered with cloth, deer-skin an
 मृदुवस्त्ररूपमित्यर्थः। तथाचाह भगवान्पतञ्जलिःस्थिरसुखमासनम् इति। आत्मन
 इति परासनव्यावृत्त्यर्थं तस्यापि परेच्छानियमाभावेन योगविक्षेपकरत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.10 6.11॥ समाधियोगप्रकारमाह योगं युञ्जीतेत्यादिना इति। युञ्जीत
 समाधियोगयुक्तं कुर्यात्। आत्मानं मनः।
@@ -146,12 +151,14 @@ which is neither too high nor too low; which is covered with cloth, deer-skin an
 सामान्यशब्दोऽपि प्रकरणाद्विशेषेऽवतिष्ठते इत्यर्थः। आत्मशब्दस्यात्र
 विवक्षितमर्थमाह **आत्मानमि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.10 6.15॥ ननु जितात्मनः इत्युक्तम् तत्कथं तज्जय इत्याशङ्क्य आरुरुक्षोः कश्चिदुपायः कायसमत्वादिकः +++(SN कायसमुद्धारकः)+++ चित्तसंयम उपदिश्यते योगीत्यादि अधिगच्छतीत्यन्तम्। आत्मानं च चित्तं च युञ्जीत एकाग्रीकुर्यात्। सततमिति न परिमितं कालम्। एकाकित्वादिषु सत्सु एतद्युज्यते +++(N युञ्जीत)+++ नान्यथा। आसनस्थैर्यात् कालस्थैर्ये +++(S कालस्थैर्यम्)+++ चित्तस्थैर्यम्। चित्तक्रियाः संकल्पात्मनः अन्याश्चेन्द्रियक्रिया येन यताः नियमं नीताः। धारयन् यत्नेन। नासिकाग्रस्यावलोकने सति दिशामनवलोकनम्। मत्परमतया युक्त आसीत +++(N आसीत्)+++ इत्यर्थः +++(S omits इत्यर्थः)+++। एवमात्मानं युञ्जतः समादधतः शान्तिर्जायते यस्यां संस्थापर्यन्तकाष्ठा मत्प्राप्तिः +++(K प्राप्तिर्योगोऽस्तीति)+++।
 </details>
@@ -160,12 +167,14 @@ which is neither too high nor too low; which is covered with cloth, deer-skin an
 
 6.11 See Comment under 6.15
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.10 6.13॥ एवं योगारूढस्य स्वरूपमुक्त्वाऽऽरुरुक्षोः साङ्गं योगं विदधतः
 सिद्धिमाह योगी इत्यादिनामत्संस्थामधिगच्छति 15 इत्यन्तेन। योगी युञ्जानो
@@ -183,20 +192,26 @@ which is neither too high nor too low; which is covered with cloth, deer-skin an
 श्रीगोवर्धनादिस्थिततृणादिरूपेभ्य उत्तरे यस्मिन्। पूर्वं भावरूपतृणानि
 तदुपरि हृदयात्मकं तदुपरि भावात्मकं वस्त्रमेवं प्रतिष्ठाप्य।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.11॥ आसननियमं दर्शयन्नाह **शुचाविति द्वाभ्याम्।** शुद्धे स्थाने
 आत्मनः स्वस्यासनं स्थापयित्वा। कीदृशम्। स्थिरमचलम्। नातिचोन्नतं न
 चातिनीचं च। चैलं वस्त्रमजिनं व्याघ्रादिचर्म चैलाजिने कुशेभ्य उत्तरे
 यस्मिन्। कुशानामुपरिचर्म तदुपरि वस्त्रमास्तीर्येत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.11 Having established for himself, in a clean spot, a firm seat, which is neither too hight nor too low, and covering it with cloth, deer-skin and Kusa grass in the reverse order -
@@ -229,11 +244,13 @@ which is neither too high nor too low; which is covered with cloth, deer-skin an
 Over this spread a tigerskin or deerskin over this spread a white cloth.Sit on a naturally clean spot; such as the bank of a river. Or;
 make the place clean; wherever you want to practise meditation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.11।। शुद्ध भूमिपर, जिसपर क्रमशः कुश, मृगछाला और वस्त्र बिछे हैं, जो
@@ -300,6 +317,7 @@ make the place clean; wherever you want to practise meditation.
 
 ।।6.11।। शुद्ध (स्वच्छ) भूमि में कुश, मृगशाला और उस पर वस्त्र रखा हो ऐसे
 अपने आसन को न अति ऊँचा और न अति नीचा स्थिर स्थापित करके....৷৷.।।
+</details>
 </details>
 
 </div>

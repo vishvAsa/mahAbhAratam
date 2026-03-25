@@ -26,8 +26,9 @@ title = "01 सन्न्यासस्य महाबाहो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 अतीतेनाध्याय-द्वयेन  
@@ -60,12 +61,14 @@ title = "01 सन्न्यासस्य महाबाहो"
 
 18.1 Arjuna said Both Sannyasa and Tyaga as a means for release are enjoined in such Srutis: 'Not by rituals, nor by progeny, nor by rituals, nor by progeny, nor by wealth but by Tyaga alone do some attain immortality ৷৷.' (Ma. Na., 5.14). Ascertaining the truth about the Supreme Reality from a knowledge of Vedanta, and becoming purified in mind by the means of Sannyasa Yoga, these Yatis (ascetics), at the dissolution of their bodies, attain the Lord who is higher than the freed selves and become liberated from bondage' (Man. U., 3.2.6). I want to know separately the truth, viz., whether Tyaga and Sannyasa are synonymous or not. The import is this. Do these two terms Sannyasa and Tyaga have different meanings or do they signify the same thing; If they signify different things, I want to know their different natures. If they are synonymous, their identical nature should be elucidated. Then, in order to prove that the nature of both is identical and that it is such and such, the Lord explains, showing the disagreements among some disputants:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 सर्वस्यैव गीताशास्त्रस्य अर्थः अस्मिन् अध्याये उपसंहृत्य सर्वश्च वेदार्थो वक्तव्यः इत्येवमर्थः अयम् अध्यायः आरभ्यते । सर्वेषु हि अतीतेषु अध्यायेषु उक्तः अर्थः अस्मिन् अध्याये अवगम्यते । अर्जुनस्तु संन्यासत्यागशब्दार्थयोरेव विशेषबुभुत्सुः उवाच —
 
@@ -184,12 +187,14 @@ put the estion,-
 संन्यासत्यागशब्दयोः पर्यायत्वात्कर्मफलत्यागरूपेण च वैलक्षण्योक्तेः
 संशयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.1॥ अनन्तगुणपूर्णाय नमः। पूर्वोक्तं साधनं सर्वं
 सङ्क्षिप्योपसंहरत्यनेनाध्यायेन।
@@ -201,12 +206,14 @@ put the estion,-
 उक्तस्योक्तिर्व्यर्थेत्याशङ्कानिरासाय सङ्क्षिप्योपसंहरतीत्युक्तम्।
 अनुक्तं त्रैगुण्यं च वक्तीत्यपि ग्राह्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.1॥ संन्यासस्येति। पूर्वमुक्तं स त्यागी स च बुद्धिमान् +++(II; 50 )+++ इति। तथा स संन्यासी च योगी च न निरग्निः +++(VI; I )+++ इत्यादि। अतस्त्यागिसंन्यासासिनोर्द्वयोः श्रवणात् विशेषजिज्ञासोरयं प्रश्नः।
 </details>
@@ -215,12 +222,14 @@ put the estion,-
 
 18.1 Samnyasaya etc. It has been delcared earlier that 'He \[alone\] is a man of relinishment and is also a man of wisdom' (II, 50); and 'He \[alone\] is a man of renunciation and a man of Yoga; but not he who remains without his fires (VI, 1)', and so on. Thus, becuase a man of relinishment and a man of renunciation are both found mentioned, now arises this estion from a person (Arjuna) who is desirous of understanding their difference. Now \[by giving\] the answer -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.1॥ अष्टादशे स्वगीतार्थस्त्यागन्यासविनिर्णयात्। सर्वधर्मान्परित्यज्य
 शरणे मोक्ष उच्यते॥1॥ इह खलुसर्वकर्माणि मनसा सन्न्यस्यास्ते सुखं वशी
@@ -252,10 +261,13 @@ put the estion,-
 त्यागस्य त्वत्सेवार्थकृतत्यागस्य तत्त्वं मुख्यरूपं वेदितुं
 ज्ञातुमिच्छामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.1॥ न्यासत्यागविभागेन सर्वगीतार्थसंग्रहम्। स्पष्टमष्टादशे प्राह
 परमार्थविनिर्णये॥1॥  
@@ -272,10 +284,13 @@ put the estion,-
 निषूदितवान्। अतएव हे महाबाहो इतिसंबोधनम्। संन्यासस्य त्यागस्य च तत्त्वं
 पृथग्विवेकेन वेदितुमिच्छामि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.1 Arjuna said I desire to know the truth about renunciation
@@ -308,11 +323,13 @@ I want to know serverally the truth about sannyasa as also about tyaga.
 18.1 संन्यासस्य of renunciation; महाबाहो O mightyarmed; तत्त्वम् the essence of truth; इच्छामि (I) wish; वेदितुम् to know; त्यागस्य of Tyaga or abandonment; च and; हृषीकेशः O Krishna; पृथक् severally; केशिनिषूदन्
 slayer of Kesi.Commentary The teaching of the whole of the GitaSastra is summed up beautifully in this discourse. This last discourse is a brief masterly summary of all that is told in the previous chapters. Arjuna wishes to know the distinction between Sannyasa and Tyaga.Kesi was an Asura whom Lord Krishna slew. So Lord Krishna is addressed as Kesinishudana by Arjuna.The words Sannyasa and Tyaga have been used here and there in the preceding discourses but their connotations are not lucidly distinguished. Therefore Lord Krishna clearly explains to Arjuna the right significance of the two terms in the following verse.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.1।।****अर्जुन बोले -- हे महाबाहो ! हे हृषीकेश ! हे केशिनिषूदन !
@@ -391,6 +408,7 @@ slayer of Kesi.Commentary The teaching of the whole of the GitaSastra is summed 
 
 ।।18.1।। अर्जुन ने कहा -- हे महाबाहो ! हे हृषीकेश ! हे केशनिषूदन ! मैं
 संन्यास और त्याग के तत्त्व को पृथक्-पृथक् जानना चाहता हूँ।।
+</details>
 </details>
 
 </div>

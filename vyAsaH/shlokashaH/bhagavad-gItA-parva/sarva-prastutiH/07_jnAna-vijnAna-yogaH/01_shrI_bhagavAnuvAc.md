@@ -26,8 +26,9 @@ title = "01 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 प्रथमेनाध्यायषट्केन परमप्राप्यभूतस्य परस्य ब्रह्मणो निरवधस्य निखिलजगदेककारणस्य सर्वज्ञस्य सर्वभूतस्य सत्यसङ्कल्पस्य महाविभूतेः श्रीमतो नारायणस्य प्राप्त्युपायभूतं तदुपासनं वक्तुं तदङ्गभूतम् आत्मज्ञानपूर्वककर्मानुष्ठानसाध्यं प्राप्तुः प्रत्यगात्मनो याथात्म्यदार्शनम् उक्तम् । इदानीं मध्यमेन षट्केन परब्रह्मभूतपरमपुरुषस्वरूपं तदुपासनं च भक्तिशब्दवाच्यम् उच्यते । तद् एतद् उत्तरत्र, "यतः प्रवृत्तिर् भूतानां येन सर्वम् इदं ततम् । स्वकर्मणा तम् अभ्यर्च्य सिद्धिं विन्दति मानवः ॥ भ्ग्र्_१।" इत्य् आरभ्य, "विमुच्य निर्ममश् शान्तो ब्रह्मभूयाय कल्पते । ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति । समस् सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ॥ भ्ग्र्_१।" इति सङ्क्षिप्य वक्ष्यते ।
@@ -48,12 +49,14 @@ title = "01 श्री भगवानुवाच"
 
 7.1 The Lord said Listen attentively to My words imparting knowledge to you, by which you will understand Me indubitably and fully - Me, the object of the Yogic contemplation in which you are engaged with a mind so deeply bound to Me by virtue of overwhelming love that it would disintegrate instantaneously the moment it is out of touch with My essential nature, attributes, deeds and glories, and with your very self resting so completely on Me that it would break up when bereft of Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ‘योगिनामपि सर्वेषां मद्गतेनान्तरात्मना । श्रद्धावान्भजते यो मां स मे युक्ततमो मतः’ (भ. गी. ६ । ४७) इति प्रश्नबीजम् उपन्यस्य, स्वयमेव ‘ईदृशं मदीयं तत्त्वम् , एवं मद्गतान्तरात्मा स्यात्’ इत्येतत् विवक्षुः श्रीभगवानुवाच —
 
@@ -183,12 +186,14 @@ will.\] in their fullness.
 कुर्वन् असंशयं यथा भवत्येवं समग्रं सर्वविभूतिबलशक्त्यैश्वर्यादिसंपन्नं
 मां यथा येन प्रकारेण ज्ञास्यसि तच्छृणूच्यमानं मया।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.1॥ श्रीमद्वरदराजाय नमः। ँ़। साधनं प्राधान्येनोक्तमतीतैरध्यायैः
 उत्तरैरस्तु षड्भिर्भगवन्माहात्म्यं प्राधान्येनाह मयीति। आसक्तमना अतीव
@@ -219,12 +224,14 @@ will.\] in their fullness.
 ज्ञातुम्स्वयमेवात्मनाऽऽत्मानं वेत्थ त्वं 10।15 इति वक्ष्यमाणत्वादिति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.1 7.2॥ मय्यासक्तेति ज्ञानमिति। ज्ञानविज्ञाने ज्ञानक्रिये एव। ततो न किञ्चिदवशिष्यते सर्वस्य ज्ञेयजातस्य ज्ञानक्रियानिष्ठत्वात्।
 </details>
@@ -233,12 +240,14 @@ will.\] in their fullness.
 
 7.1 See comment under 7.2
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.1॥ पूर्वत्रात्माधिगमनं साङ्ख्ययोगकृतेः फलम्। अथातो महिमज्ञानपूर्वकं
 भक्तिरुच्यते॥1॥  
@@ -283,10 +292,13 @@ will.\] in their fullness.
 ज्ञानस्वरूपं मय्यासक्तमनाः मयि आसक्तं स्वापेक्षारहितं मत्सुखाभिलाषिमनाः
 शृणु।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.1॥ विज्ञेयमात्मनस्तत्त्वं सयोगं समुदाहृतम्। भजनीयमथेदानीमैश्वरं
 रूपमीर्यते॥1॥  
@@ -298,10 +310,13 @@ will.\] in their fullness.
 युञ्जन्नभ्यसन् असंशयं यता भवत्येवं मां समग्रं विभूतिबलैश्वर्यादिसहितं
 यथा ज्ञास्यसि तदिदं मया वक्ष्यमाणं शृणु।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.1 The Lord said With your mind focussed on Me, having Me for your support and practising Yoga - how you can without doubt know Me fully,
@@ -337,11 +352,13 @@ hear.Commentary He who wishes to attain some result or reward performs the ritua
 omniscience; omnipresence; infinite love; beauty; grace; strength;
 mercy; inexhaustible wealth; ineffable splendour; pristine glory and purity.The servant of a king; though he constantly serves the king; has not got his mind fixed on him. The mind is ever fixed on his wife and children. Unlike the servant; fix your mind on Me; (the allpervading One); and take refuge in Me alone. Practise control of the mind in accordance with the instructions given in chapter VI. Then you will know Me and My infinite attributes in full.If you sing the glory and the attributes of the Lord; you will develop love for Him and then your mind will be fixed on Him. Intense love for the Lord is real devotion. You must get full knowledge of the Self without any doubt.He who has taken refuge in the Lord; and he who is trying to fix or has fixed his mind on the Lord cannot bear the separation from the Lord even for a second.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.1।। श्रीभगवान् बोले -- हे पृथानन्दन ! मुझमें आसक्त मनवाला, मेरे
@@ -387,6 +404,7 @@ mercy; inexhaustible wealth; ineffable splendour; pristine glory and purity.The 
 ।।7.1।। हे पार्थ ! मुझमें असक्त हुए मन वाले तथा मदाश्रित होकर योग का
 अभ्यास करते हुए जिस प्रकार तुम मुझे समग्ररूप से, बिना किसी संशय के,
 जानोगे वह सुनो।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "14 सततङ् कीर्तयन्तो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.14॥ अत्यर्थं मत्प्रियत्वेन मत्कीर्तनयतननमस्कारैर् विना क्षणाणुमात्रे अप्य् आत्मधारणम् अलभमाना मद्गुणविशेषवाचीनि मन्नामानि स्मृत्वा पुलकितसर्वाङ्गाः; हर्षगद्गदकण्ठाः श्रीरामनारायणकृष्णवासुदेवेत्येवमादीनि **सततं कीर्तयन्तः** तथा एव **यतन्तः** मत्कर्मस्व् अर्चनादिकेषु वन्दनस्तवनकरणादिकेषु तदुपकारकेषु भवन--नन्दन-वन-करणादिकेषु **च** दृढसङ्कल्पा यतमानाः; भक्तिभारावनमितमनोबुद्ध्यभिमानपदद्वयकरद्वयशिरोभिर् अष्टाङ्गैर् अचिन्तितपांसुकर्द्दमशर्करादिके धरातले दण्डवत् प्रणिपतन्तः; सततं **मां नित्ययुक्ताः** नित्ययोगम् आकाङ्क्षमाणा आत्मवन्तो मद्दास्यव्यवसायिनः **उपासते।**
@@ -41,12 +42,14 @@ title = "14 सततङ् कीर्तयन्तो"
 'striving for My sake and bowing to Me in reverence.' Remembering My names connotative of My special attributes, they cry out My names -
 Narayana, Krsna, Vasudeva etc., with horripilations in every part of their bodies and with their voices tremulous and indistinct because of joy. They engage in activities for my sake, such as performing worship, and doing actions helpful to worship, lik building temples and cultivating temple gardens. They prostrate themselves on the earth like a stick, indifferent to dust, mud and the gravel, with all the eight members of their beings - the Manas, Buddhi, Ahankara, the two feet, two hands, and the head, which are bowed down under the influence of Bhakti. Aspiring for eternal communion with Me, desiring eternal union with Me, they worship Me, resolved to attain the state of servitude to Me for their entire being.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.14॥ --,**सततं** सर्वदा भगवन्तं ब्रह्मस्वरूपं **मां कीर्तयन्तः;** **यतन्तश्च** इन्द्रियोपसंहारशमदमदयाहिंसादिलक्षणैः धर्मैः प्रयतन्तश्च; **दृढव्रताः** दृढं स्थिरम् अचाल्यं व्रतं येषां ते दृढव्रताः **नमस्यन्तश्च मां** हृदयेशम् आत्मानं **भक्त्या नित्ययुक्ताः** सन्तः **उपासते** सेवन्ते॥ ते केन केन प्रकारेण उपासते इत्युच्यते --,
 </details>
@@ -168,12 +171,14 @@ adore are being stated:
 चास्याशुभान्मोक्षणं प्रागुक्तमेवेतीह पुनर्नोक्तम्। एवमत्रायं गम्भीरो
 भगवतोऽभिप्रायः; उत्तानार्थस्तु प्रकट एव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.14॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -182,12 +187,14 @@ adore are being stated:
 
 ॥9.14॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.13 -- 9.14॥ महात्मान इत्यादि विश्वतोमुखमित्यन्तम्। दैवीं; सात्विकीम्। यजन्तः; बाह्यद्रव्यादियागैः। अन्ये तु मा ज्ञानयज्ञेनैवोपासते। अतः केचित् एकतया ज्ञानतः; केचित् बहुधा; कर्मयोगात्। मत्परा एव सर्वे।
 </details>
@@ -196,12 +203,14 @@ adore are being stated:
 
 9.14 See Comment under 9.15
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.14॥ सततमित्यादि। अयमर्थः -- सच्चिदानन्दा द्विविधाः स्वरूपात्मका
 धर्मात्मकाश्च। एवं द्विविधा अपि आधिदैविकाध्यात्मिकाधिभौतिकभेदेन
@@ -239,10 +248,13 @@ adore are being stated:
 मदेकपरचित्ताः। भक्त्या स्नेहेन; न तु विहितत्वेन; मामुपासते सेवन्त
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.14॥ तेषां भजनप्रकारमाह **-- सततमिति द्वाभ्याम्।** सततं सर्वदा
 स्तोत्रमन्त्रादिभिः कीर्तयन्तः केचिन्मामुपासते सेवन्ते दृढानि व्रतानि
@@ -251,10 +263,13 @@ adore are being stated:
 नित्ययुक्ता अनवरतमवहिताः सर्वे सेवन्ते भक्त्येति नित्ययुक्ता इति च
 कीर्तनादिष्वपि द्रष्टव्यम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.14 Aspiring for eternal communion with Me, they worship Me, always singing My praises, striving with steadfast resolution and bowing down to Me in devotion.
@@ -291,11 +306,13 @@ forbearance; truthfulness; purity; etc. They control the senses and steady the m
 truthfulness and purity in thought; word and deed. They worship Me with great faith and devotion as the inner Self hidden in their heart. As a neophyte cannot see God face to face; he will have to worship his Guru
 (spiritual preceptor) firt and regard him as God or Brahman Himself.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.14।। नित्य- (मेरेमें) युक्त मनुष्य दृढ़व्रती होकर लगनपूर्वक साधनमें
@@ -372,6 +389,7 @@ truthfulness and purity in thought; word and deed. They worship Me with great fa
 
 ।।9.14।। सतत मेरा कीर्तन करते हुए, प्रयत्नशील, दढ़व्रती पुरुष मुझे
 नमस्कार करते हुए, नित्ययुक्त होकर भक्तिपूर्वक मेरी उपासना करते हैं।।
+</details>
 </details>
 
 </div>

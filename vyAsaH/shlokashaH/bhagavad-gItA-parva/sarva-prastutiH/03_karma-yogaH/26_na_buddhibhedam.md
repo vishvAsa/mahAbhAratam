@@ -23,8 +23,9 @@ title = "26 न बुद्धिभेदम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.26॥**अज्ञानाम्** आत्मन्य् अकृत्स्न-वित्तया  
@@ -91,12 +92,14 @@ title = "26 न बुद्धिभेदम्"
 
 3.26 Do not bewilder the minds of ignorant aspirants by saying that there is, besides Karma Yoga, another way to the vision of the self. They cannot practise Jnana Yoga on account of their incomplete knowledge of the self, and attachment to action. They are alified for Karma Yoga because of their being fit only for activity on account of the subtle impressions of their beginningless Karma. What then follows from this; It is this: Even though one is alified for Jnana Yoga because of the complete knowledge of the self, one should do work, holding the view as said previously, that Karma Yoga by itself without Jnana Yoga is an independent means for the vision of the self. He should thus generate love for all types of activity among those who do not know the complete truth. Sri Krsna declares (in the verses 27 to 30) the way in which the self is to be contemplated on as not being an agent as reired by Karma Yoga, after demonstrating the difference between the enlightened and unenlightened among those practising Karma Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.26॥ बुद्धेर्भेदः **बुद्धिभेदः** मया इदं कर्तव्यं भोक्तव्यं चास्य कर्मणः फलम् इति निश्चयरूपाया बुद्धेः भेदनं चालनं बुद्धिभेदः तं न **जनयेत्** न उत्पादयेत् **अज्ञानाम्** अविवेकिनां **कर्मसङ्गिनां** कर्मणि आसक्तानां आसङ्गवताम्। किं नु कुर्यात् **जोषयेत्** कारयेत् **सर्वकर्माणि विद्वान्** स्वयं तदेव अविदुषां कर्म **युक्तः** अभियुक्तः **समाचरन्**॥ अविद्वानज्ञः कथं कर्मसु सज्जते इत्याह
 </details>
@@ -166,12 +169,14 @@ be come attached to actions; In reply the Lord says:
 तथाचोक्तंअज्ञस्यार्धप्रबुद्धस्य सर्वं ब्रह्मेति यो वदेत्। महानिरयजालेषु
 स तेन विनियोजितः॥ इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.26॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -180,12 +185,14 @@ be come attached to actions; In reply the Lord says:
 
 ॥3.26॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.26॥ यतस्ते न +++(S स्ते सम्य )+++ सम्यग्ज्ञानेन पूताः अतो बुद्धेर्भेदनं विचालनं +++(N विगलनम्)+++ तेषां परमोऽयमनर्थ इत्यनुग्रहाय भेदयेन्न धियमेषाम् तदाह +++(S एतदाह)+++ न बुद्धीति। स्वयं चैवं बुद्ध्यमानः कर्माणि कुर्यात् न च लोकानां बुद्धिं भिन्द्यात्।
 </details>
@@ -194,12 +201,14 @@ be come attached to actions; In reply the Lord says:
 
 3.26 Na buddhi-etc. Himself knowing in this way, let him perform actions and let him not disturb the minds of common men. \[In the last verse\] reference is made 'of the ignorant person'. \[The Lord\] now demonstrates their ignorance -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.26॥ नन्वज्ञेषु तु सक्ततया कर्मनिष्ठेषु कृपया साङ्ख्यप्रकारभेद
 उपदेष्टुं युक्तो विदुषा नहिनहीत्याह न बुद्धिभेदमिति। प्रकारभेदोपदेशे
@@ -221,10 +230,13 @@ be come attached to actions; In reply the Lord says:
 मद्युक्तः स्वयं समाचरन् सम्यगाचरन् मत्सेवादि कुर्वन् अन्येषां
 वृत्त्यर्थं सदा कर्माणि अन्यानज्ञान् जोषयेत् कर्म कारयेदित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/26_na_buddhibhedam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/26_na_buddhibhedam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.26॥ ननु कृपया तत्त्वज्ञानमेवोपदेष्टुं युक्तं नेत्याह **नेति।**
 अज्ञानामतएव कर्मसङिगनां कर्मासक्तानामकर्तात्मोपदेशेन
@@ -233,10 +245,13 @@ be come attached to actions; In reply the Lord says:
 युक्तोऽवहितो भूत्वा स्वयं च समाचरन्। बुद्धिचालने कृते सति कर्मसु
 श्रद्धानिवृत्तेर्ज्ञानस्य चानुत्पत्तेस्तेषामुभयभ्रंशः स्यादिति भावः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.26 He should not bewilder the minds of the ignorant who are attached to work; rather himself performing work with devotion, he should cause others to do so.
@@ -268,11 +283,13 @@ be come attached to actions; In reply the Lord says:
 अज्ञानाम् of the ignorant; कर्मसङ्गिनाम् of the persons attached to actions; जोषयेत् should engage; सर्वकर्माणि all actions; विद्वान् the wise; युक्तः balanced; समाचरन् performing.Commentary An ignorant may says to himelf; I shall do this action and thery enjoy its fruit. A wise man should not unsettle his belief. On the contrary he himself should set an example by performing his duties diligently but without attachment. The wise man should also persuade the ignorant never to neglect their duties. If need be; he should place before them in vivid colours the happiness they would enjoy here and hereafter by discharging such duties. When their hearts get purified in course of time; the wise man could sow the seeds of Karma Yoga (selfless service without deire)
 in them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/26_na_buddhibhedam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.25 -- 3.26।। हे भरतवंशोद्भव अर्जुन! कर्ममें आसक्त हुए अज्ञानीजन जिस
@@ -383,6 +400,7 @@ in them.
 ।।3.26।। ज्ञानी पुरुष, कर्मों में आसक्त अज्ञानियों की बुद्धि में भ्रम
 उत्पन्न न करे, स्वयं (भक्ति से) युक्त होकर कर्मों का सम्यक् आचरण कर,
 उनसे भी वैसा ही कराये।।
+</details>
 </details>
 
 </div>

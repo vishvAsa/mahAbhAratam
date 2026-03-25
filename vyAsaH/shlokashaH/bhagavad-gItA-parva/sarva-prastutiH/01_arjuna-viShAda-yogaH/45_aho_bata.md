@@ -23,8 +23,9 @@ title = "45 अहो बत"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥1.45॥ अन्तिमश्लोकव्याख्या दृश्या।
@@ -39,12 +40,14 @@ title = "45 अहो बत"
 
 1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous. His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.45 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -94,12 +97,14 @@ starts from 2.10.
 प्रायश्चित्तान्तरहितं वा। तथाच प्राणान्तप्रायश्चित्तेनैव
 शुद्धिर्भविष्यतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.45॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -110,12 +115,14 @@ starts from 2.11.
 ॥1.45॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.45॥ विशेषफलबुद्ध्या हन्तव्यादिविशेषबुद्ध्या च हनने महापातकमित्येतदेव संक्षिप्याभिधातुं  
   
@@ -128,12 +135,14 @@ starts from 2.11.
 
 1.45 Aho bata etc. We denotes one and all who were divided \[into the opposite campus\] by the division among the Kauravas and the Pandavas. When every one is indiscriminate, what act is proper for me, while I am endowed with the faculty to discriminate; Of course, it is proper to turn back from the battle. Yet, says \[Arjuna\], what is much more proper is this \[see next sloka\]:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.45 1.46॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -147,11 +156,13 @@ starts from 2.11.
 हन्तुमुद्यताः उद्यमं कृतवन्त इत्यर्थः। अहो इत्याश्चर्यम्। यतो राज्यसुखं
 तु स्वजनैः सहैव स्वजनार्थं वा तानेव हन्तुमुद्यता इत्याश्चर्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.45 Alas! We have resolved to commit a great sin in that we are ready to slay our kith and kin out of desire for sovereignty and enjoyments.
@@ -183,11 +194,13 @@ out of greed for the joy of kingdom, we are striving to slay our own kinsfolk !
 1.45 अहो बत alas; महत् great; पापम् sin; कर्तुम् to do; व्यवसिताः
 prepared; वयम् we; यत् that; राज्यसुखलोभेन by the greed of pleasure of kingdom; हन्तुम् to kill; स्वजनम् kinsmen; उद्यताः prepared.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.45।। यह बड़े आश्चर्य और खेद की बात है कि हमलोग बड़ा भारी पाप करने का
@@ -276,6 +289,7 @@ prepared; वयम् we; यत् that; राज्यसुखलोभे�
 ।।1.45।। अहो ! शोक है कि हम लोग बड़ा भारी पाप करने का निश्चय कर बैठे
 हैं, जो कि इस राज्यसुख के लोभ से अपने कुटुम्ब का नाश करने के लिये तैयार
 हो गये हैं।
+</details>
 </details>
 
 </div>

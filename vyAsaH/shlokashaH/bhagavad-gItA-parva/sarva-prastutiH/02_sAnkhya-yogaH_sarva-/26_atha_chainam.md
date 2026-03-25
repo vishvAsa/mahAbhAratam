@@ -23,8 +23,9 @@ title = "26 अथ चैनम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.26॥**अथ नित्यजातं नित्यमृतं** देहम् एव **एनम्** आत्मानं **मनुषे** न देहातिरिक्तम् उक्तलक्षणं **तथापि** एवम् अतिमात्रं **शोचितुं न अर्हसि।** परिणामस्वभावस्य देहस्य उत्पत्तिविनाशयोर् अवर्जनीयत्वात्।
@@ -41,12 +42,14 @@ title = "26 अथ चैनम्"
 
 2.26 Besides, if you consider this self as identical with the body, which is constantly born and constantly dies - which is nothing other than these characteristics of the body mentioned above -, even then it does not become you to feel grief; because, birth and death are inevitable for the body, whose nature is modification.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.26॥  
 अथ च इति अभ्युपगमार्थः। एनं प्रकृतमात्मानं नित्यजातं लोकप्रसिद्ध्या प्रत्यनेकशरीरोत्पत्ति जातो जात इति मन्यसे तथा प्रतितत्तद्विनाशं नित्यं वा मन्यसे मृतं मृतो मृत इति तथापि तथाभावेऽपि आत्मनि त्वं महाबाहो न एवं शोचितुमर्हसि जन्मवतो नाशो नाशवतो जन्मश्चेत्येताववश्यंभाविनाविति॥  
@@ -158,12 +161,14 @@ inevitable.
 शोकमभ्यनुज्ञातुमेवकारः। दृष्टदुःखनिमित्तशोकसंभवेऽप्यदृष्टदुःखनिमित्तः
 शोकः सर्वथा नोचित इत्यर्थः प्रथमश्लोकस्य।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.26॥ अस्त्वेवमात्मनो नित्यत्वम् तथापि देहसंयोगवियोगात्मकजनिमृती स्त
 एवेत्यत आह अथ चेति।
@@ -183,12 +188,14 @@ inevitable.
 व्याख्यानं निरस्तं भवति। ध्रुवं जन्म मृतस्य च 2।27
 इत्युत्तरवाक्यविरोधात्अव्यक्तादीनि 2।28 इत्यनेनापि विरोधात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.27॥ अथ वैनमिति। अथाप्येनं देहं मन्यसे नित्यजातं प्रवाहस्याविनाशात् तथापि न शोच्यता। क्षणिकप्रक्रियया वा नित्यविनाशिनम् तथापि का शोच्यता एवं यद्यात्मनः तत्तद्देहयोगवियोगाभ्यां +++(S K तद्देहयोग (K संयोग)+++ नित्यजातत्वं नित्यमृतत्वं वा मन्यसे तथापि सर्वथा शोचनं प्रामाणिकानामयुक्तम् +++(N प्राकरणि )+++।
 </details>
@@ -197,12 +204,14 @@ inevitable.
 
 2.26 Atha va etc. On the other hand if you deam 'This' to be the body and to be born constantly,-because its stream does not stop-even then, there is no necessity to lament. Or, if, following the \[Vainasika Buddhists' ;\] doctrine of continuous decay of things, you deem This to be constantly dying, even then where is the need for lamenting ; If you, in the same manner, deem the Self to be constantly born or to be constantly dying on account of Its contacts and separations with bodies, even then it is unwarranted, on every account, on the part of the men of rational thinking, to lament. Otherwise this \[division of\] permanence and impermanence does not stand reasoning. For-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.26॥ अथेति पक्षान्तरे। लौकायतिकमते स्थित्वाऽऽत्मानं नित्यं सदा जातं
 मृतं मन्यसे तथापि न शोचितुमर्हसि।
@@ -217,10 +226,13 @@ inevitable.
 यतस्त्वं महाबाहुः। अत्रायमर्थः नित्यस्यास्य जन्ममरणज्ञानं तु
 देहाध्यासेनैव भवति। तथासति स्वबाहुबलादिनाशः क्व।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.26॥ तदेवमात्मनो जन्मविनाशाभावान्न शोकः कार्य इत्युक्तम्। इदानीं
 देहेन सहात्मनो जन्म तद्विनाशेन च विनाशमङ्गीकृत्यापि शोको न कार्य इत्याह
@@ -229,10 +241,13 @@ inevitable.
 पुण्यपापयोस्तत्फलभूतयोर्जन्ममरणयोरात्मगामित्वात् तथापि त्वं शोचितुं
 नार्हसि।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.26 Or if you hold this self as being constantly born and as constantly dying, even then, O mighty-armed one, it does not become you to feel grief.
@@ -265,11 +280,13 @@ inevitable.
 त्वम् thou; महाबाहो mightyarmed; न not; एवम् thus; शोचितुम् to grieve;
 अर्हसि (thou) oughtest.Commentary Lord Krishna here; for the sake of argument; takes up the popular supposition. Granting that the Self is again and again born whenever a body comes into being; and again and again dies whenever the body dies; O mightyarmed (O Arjuna of great valour and strength); thou shouldst not grieve thus; because birth is inevitable to want is dead and death is inevitable to what is born. This is the inexorable or unrelenting Law of Nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.26।। हे महाबाहो ! अगर तुम इस देहीको नित्य पैदा होनेवाला अथवा नित्य
@@ -318,6 +335,7 @@ inevitable.
 
 ।।2.26।। और यदि तुम आत्मा को नित्य जन्मने और नित्य मरने वाला मानो तो
 भी, हे महाबाहो ! इस प्रकार शोक करना तुम्हारे लिए उचित नहीं है।।
+</details>
 </details>
 
 </div>

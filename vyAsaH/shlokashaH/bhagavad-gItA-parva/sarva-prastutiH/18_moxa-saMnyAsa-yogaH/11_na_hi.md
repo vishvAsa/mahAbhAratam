@@ -23,8 +23,9 @@ title = "11 न हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.11॥**न हि देहभृता** ध्रियमाणशरीरेण **कर्माण्य् अशेषतस् त्यक्तुं शक्यं** देहधारणार्थानाम् अशनपानादीनां तदनुबन्धिनां च कर्मणाम् अवर्जनीयत्वात् तदर्थं च महायज्ञाद्यनुष्ठानम् अवर्जनीयम्। **यस् तु** तेषु महायज्ञादि**कर्मसु फलत्यागी स** एवत्यागेनैके अमृतत्वमानशुः (महाना॰ 8।14) इत्यादिशास्त्रेषु **त्यागी इत्य् अभिधीयते। फलत्यागी इति प्रदर्शनार्थः; फलकर्तृत्वकर्मसङ्गानां त्यागी इतित्रिविधः सम्प्रकीर्तित इति प्रक्रमात्।  
@@ -44,12 +45,14 @@ title = "11 न हि"
 'Agnihotra, the full moon and new moon sacrifices, Jyotistoma etc., and also the five great sacrifices are enjoined by the Sastras only for the attainment of their results like heaven. They are not purposeless. Even
 the injunction with regard to obligatory and occasional ceremonies is enjoined because they yield results, as implied in the following passage: "For householders, Prajapatya ceremony" (V.P., 1.6.37). Therefore, as the performance of actions has to be understood as a means for attaining their respective results, the accruing of agreeable and disagreeable results is inevitable, even though they are performed without any desire for fruits, just as a seed sown must grow into a tree and bear fruit. Hence, actions ought not to be performed by an aspirant for release, because the results are incompatible with release. Sri Krsna answers such objections:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.11॥ -- **न हि** यस्मात् **देहभृता;** देहं बिभर्तीति देहभृत्; देहात्माभिमानवान् देहभृत् उच्यते; न विवेकी स हि वेदाविनाशिनम् (गीता 2।21) इत्यादिना कर्तृत्वाधिकारात् निवर्तितः। अतः तेन देहभृता अज्ञेन न **शक्यं त्यक्तुं** संन्यसितुं **कर्माणि अशेषतः** निःशेषेण। तस्मात् **यस्तु** अज्ञः अधिकृतः नित्यानि कर्माणि कुर्वन् **कर्मफलत्यागी** कर्मफलाभिसंधिमात्रसंन्यासी **सः त्यागी इति अभिधीयते** कर्मी अपि सन् इति स्तुत्यभिप्रायेण। तस्मात् परमार्थदर्शिनैव अदेहभृता देहात्मभावरहितेन अशेषकर्मसंन्यासः शक्यते कर्तुम्॥ किं पुनः तत् प्रयोजनम्; यत् सर्वकर्मसंन्यासात् स्यादिति; उच्यते --,
 </details>
@@ -156,12 +159,14 @@ renunciation of all actions; This is being stated:
 स्तुत्यर्थमत्याग्यपि सन्। अशेषकर्मसंन्यासस्तु परमार्थदर्शित्वेनैव
 देहभृता शक्यते कर्तुमिति स एव मुख्यया वृत्त्या त्यागीत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.11॥ अन्यस्त्यागार्थो न युक्त इत्याह -- न हीति।
 </details>
@@ -173,12 +178,14 @@ renunciation of all actions; This is being stated:
 सर्वकर्मपरित्यागलक्षणस्त्यागार्थस्त्यागशब्दार्थः।
 पूर्वपक्षबीजनिरासार्थमिति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.4 -- 18.11॥ तदत्रैव विशेषनिर्णयाय मतान्युपन्यस्यति -- त्याज्यमिति। दोषवत् हिंसादिमत्त्वात् +++(S हिंसादित्त्वात ;N हिंसादिसत्त्वात् )+++ पापयुक्तम्। तत् कर्म,+++(S;;N substitutes फलं for कर्म )+++ त्याज्यम्; न सर्वं शुभफलम् इति केचित् त्यागे विशेषं मन्यन्ते साङ्ख्यगृह्या इव। अन्ये तु मीमांसककञ्चुकानुप्रविष्टाः +++(K मीमांसाकंचुक -- )+++ -- क्रत्वर्थोऽहि शास्त्रादवगम्यते +++(S. IV; i; 2 )+++ इति। तथातस्माद्या वैदिकी हिंसा -- +++(SV. I; i; 2; verse 23 )+++इत्यादिनयेन इतिकर्तव्यतांशभागिनी हिंसा +++(S;;N omit हिंसा )+++ हिंसैव न भवति। न हिंस्यात् इति,सामान्यशास्त्रस्य तत्र बाधनात् श्येनाद्येव तु ( श्येन द्येव न तु ) हिंसा। फलांशे भावनायाश्च प्रत्ययोऽनुविधायकः +++(SV; I; i; 2; verse 222 )+++ इति। अ \[ तोऽ \] न्यान् हिंसादियोगिनोऽपि न त्यजेत्। शास्त्रैकशरणकार्याकार्यविभागाः पण्डिता इति मन्यन्ते॥3॥ निश्चयमित्यादि अभिधीयते इत्यन्तम्। तत्र त्वयं निश्चयः -- प्राग्लक्षितगुणस्वरूपवैचित्र्यात् त्यागस्यैव सत्त्वरजस्तमोमय्या चित्तवृत्त्या क्रियमाणस्य तद्विशिष्टस्वभावावभासित \[ त्वात् \] वस्तुस्थित्या त्यागो नाम परब्रह्मविदां +++(; N परमब्रह्म -- )+++ सिद्ध्यसिद्ध्यादिषु समतया रागद्वेषपरिहारेण फलप्रेप्साविरहेण ( फलप्रेक्षा) कर्मणां निर्वर्त्तनम्। अत एव आह -- राजसं तामसं च त्यागं कृत्वा न कश्चित् ( न किंचित् ) \[ त्याग \] फलसंबन्धः; इति। सात्त्विकस्य तु त्यागात् ( त्यागस्य )। शास्त्रार्थपालनात्मकं फलम्। त्यक्तगुणग्रामग्रहस्य पुनर्मुनेः सत्यतः त्यागवाचो युक्तिरुपपत्तिमती।
 </details>
@@ -187,12 +194,14 @@ renunciation of all actions; This is being stated:
 
 18.4-11 Niscayam etc. upto abhidhiyate. The conclusion here is this : Due to the manifoldness of the nature of the Strands, that have been defined earlier, the act of relinishment itself is performed with a certain mental disposition which is a modification of the Sattva, the Rajas and the Tamas (the Strands). Because it reflects (is contaminated by) the nature of the person having the same (the said mental dispositon), what is called the real (unalloyed) relinishment is the performance of the actions by the knowers of the Supreme Brahman by giving up desire to achieve fruits and by avoiding the craving and hatred on account of their eanimity to \[the pairs of opposites like\] success and failure etc. That is why \[the Bhagavat\] says : 'By the act of relinishment born of the Rajas or of the Tamas (Strands), no connection with the fruit \[of relinishment\] is attained'. However, for an act of relinishing, born of the Sattva (Strand), there is the fruit in the form of honouring the purport of the scriptures. The application of the term 'relinishment' stands to reason, in fact, only in the case of a sage who has relinished his holding on the multitude of the Strands.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.10 -- 18.11॥ एवम्भूतस्य लक्षणमाह -- न द्वेष्टीति।
 सत्त्वसमाविष्टस्त्यागी बुद्धिमान् अकुशलं कर्मानिष्टफलकं; कुशले
@@ -217,10 +226,13 @@ renunciation of all actions; This is being stated:
 कर्त्तव्यः इति। यतो यस्तु यश्च पुनः कर्मफलत्यागी कृतकर्मणां फलानभिलाषी
 सत्यागी इति अभिधीयते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.11॥ नन्वेवंभूतात्कर्मफलत्यागाद्वरं सर्वकर्मत्यागस्तथा सति
 कर्मविक्षेपाभावेन ज्ञाननिष्ठा सुखं संपद्यते तत्राह **-- नेति।** देहभृता
@@ -228,10 +240,13 @@ renunciation of all actions; This is being stated:
 -- न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत इत्यादिना। तस्माद्यस्तु
 कर्माणि कुर्वन्नेव कर्मफलत्यागी स एव मुख्यत्यागीत्यभिधीयते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.11 For, it is impossible for one who bears a body to abandon actions entirely. But he who gives up the fruits of works, is called the abandoner.
@@ -265,11 +280,13 @@ renunciation of all actions; This is being stated:
 relinisher; इति thus; अभिधीयते is called.Commentary He who has assumed a human body and yet grumbles at having to perform actions is verily a fool. Can fire that is endowed with heat as its natural property ever think of getting rid of it So long as you are living in this body you cannot entirely relinish action. Lord Krishna says to Arjuna Nor can anyone; even for an instant remain actionless for helplessly is everyone driven to action by the alities born of Nature (Cf.III.5). Nature (and your own nature; too) will urge you to do actions. You will have to abandon the idea of agency and the fruits of actions. Then you are ite safe. No action will bind you.The ignorant man who identifies himself with the body and who thinks that he is himself the doer of all actions should not abandon actions. It is impossible for him to relinish actions. He will have to perform all the prescribed duties while relinishing their fruits.Dehabhrita A wearer of the body An embodied being; i.e.; he who identifies himself with the body. A man who has discrimination between the Real and the unreal; the Eternal and the transient; cannot be called a bodywearer; because he does not think that he is the doer of actions -- vide chapter II.21 (He who knows Him Who is indestructible; eternal; unborn; undiminishing -- how can that man slay;
 O Arjuna; or cause to be slain).When the ignorant man who is alified for action does the prescribed duties; relinishing the desire for the fruits of his actions; he is called a Tyagi; although he is active. This title Tyagi is given to him for the sake of courtesy.The relinishment of all actions is possible only for him who has attained Selfrealisation and who is; therefore; not a wearer of the body; i.e.; does not hink that the body is the Self. (Cf.III.5)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.11।। कारण कि देहधारी मनुष्यके द्वारा सम्पूर्ण कर्मोंका त्याग करना
@@ -372,6 +389,7 @@ O Arjuna; or cause to be slain).When the ignorant man who is alified for action 
 
 ।।18.11।। क्योंकि देहधारी पुरुष के द्वारा अशेष कर्मों का त्याग संभव नहीं
 है, इसलिए जो कर्मफल त्यागी है, वही पुरुष त्यागी कहा जाता है।।
+</details>
 </details>
 
 </div>

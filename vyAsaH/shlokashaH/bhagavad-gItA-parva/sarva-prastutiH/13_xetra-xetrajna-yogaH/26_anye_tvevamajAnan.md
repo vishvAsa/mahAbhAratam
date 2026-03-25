@@ -23,8 +23,9 @@ title = "26 अन्ये त्वेवमजानन्तः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.25॥**अन्ये तु** कर्मयोगादिष्व् आत्मावलोकनसाधनेष्व् अनधिकृताः **अन्येभ्यः** तत्त्वदर्शिभ्यो ज्ञानिभ्यः **श्रुत्वा** कर्मयोगादिभिर् आत्मानम् **उपासते; ते अपि** आत्मदर्शनेन मृत्युम् अतितरन्ति ये **श्रुतिपरायणाः** श्रवणमात्रनिष्ठाः; ते **च** श्रवणनिष्ठाः पूतपापाः क्रमेण कर्म योगादिकम् आरभ्य **अतितरन्त्य् एव मृत्युम्।** अपिशब्दाच् च पर्वभेदो ऽवगम्यते। अथ प्रकृतिसंसृष्टस्य आत्मनो विवेकानुसन्धानप्रकारं वक्तुं सर्वं स्थावरं जङ्गमं च सत्त्वं चिदचित्संसर्गजम् इत्याह --
@@ -40,12 +41,14 @@ title = "26 अन्ये त्वेवमजानन्तः"
 13.26 But some, namely, those who are not alified for Karma Yoga etc., for realising the self, listen to Jnanins who know the truth, and meditate on the self through Karma Yoga, etc. - they too pass beyond death. It means that those who are devoted to what they hear only, even they, intent on hearing and devoid of evils, begin in due course, the practice of Karma Yoga etc., and pass beyond death. By the term 'too'
 (api), the difference in levels is made out. Now, in order to teach the contemplation on the distinctness of the self conjoined with the Prakrti, he says that all entities, movables and immovables, are the product of combination between the conscient and the non-conscient:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.26॥ --,**अन्ये तु** एषु विकल्पेषु अन्यतरेणापि **एवं** यथोक्तम् आत्मानम् **अजानन्तः अन्येभ्यः** आचार्येभ्यः **श्रुत्वा** इदमेव चिन्तयत इति उक्ताः **उपासते** श्रद्दधानाः सन्तः चिन्तयन्ति। **तेऽपि च अतितरन्त्येव** अतिक्रामन्त्येव **मृत्युम्;** मृत्युयुक्तं संसारम् इत्येतत्। **श्रुतिपरायणाः** श्रुतिः श्रवणं परम् अयनं गमनं मोक्षमार्गप्रवृत्तौ परं साधनं येषां ते श्रुतिपरायणाः केवलपरोपदेशप्रमाणाः स्वयं विवेकरहिताः इत्यभिप्रायः। किमु वक्तव्यम् प्रमाणं प्रति स्वतन्त्राः विवेकिनः मृत्युम् अतितरन्ति इति अभिप्रायः॥ क्षेत्रज्ञेश्वरैकत्वविषयं ज्ञानं मोक्षसाधनम् यज्ज्ञात्वामृतमश्नुते इत्युक्तम्; तत् कस्मात् हेतोरिति; तद्धेतुप्रदर्शनार्थं श्लोकः आरभ्यते --,
 </details>
@@ -144,12 +147,14 @@ out that reason the (next) verse is begun:
 तेऽपीत्यपिशब्दाद्ये स्वयं विचारसमर्थास्ते मृत्युमतितरन्तीति किमु
 वक्तव्यमित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.25 -- 13.26॥ साङ्ख्येन वेदोक्तभगवत्स्वरूपज्ञानेन। कर्मिणामपि
 श्रुत्वा ज्ञात्वा ध्यात्वा दृष्टिः। श्रावकाणां च ज्ञात्वा ध्यात्वा।
@@ -175,12 +180,14 @@ out that reason the (next) verse is begun:
 साक्षादशक्तानामपिं तत्तदुपायज्ञानादिप्रदर्शनार्थमवस्थाभेदमाश्रित्यान्य
 इत्याद्युक्तमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.25 -- 13.26॥ ध्यानेनेति। अन्य इति। ईदृशं च ज्ञानं प्रधानम्। कैश्चित् \[आत्मा\] आत्मतया उपास्यते अन्यैः प्रागुक्तेन साङ्ख्यनयेन अपरैः कर्मणा इतरैरपि स्वयमीदृशं +++(;N ईदृग्)+++ ज्ञानमजानद्भिरपि श्रवणप्रवणैः यथाश्रुतमेवोपास्यते। तेऽपि मृत्युं संसारं तरन्ति। येन केनचिदुपायेन,भगवत्तत्त्वमुपास्यमानमुत्तारयति। अतः सर्वथा एवमासीतेत्युक्तम्।
 </details>
@@ -189,12 +196,14 @@ out that reason the (next) verse is begun:
 
 13.25-26 Dhyanena etc., Anye etc. A knowledge of this sort is the main. \[For this end\] some practise religious meditation of the Self as Self; others \[try\] by means of the Sankhya (knowledge) mentioned already (Ch. V, 5ff), while still others \[strive\] through action. Still others, bent upon hearing \[from the preceptors etc.\] practise the religious meditation as they have heard, even though they do not themselves know, (have) the knowledge of this kind. They too cross over the death, i.e., the cycyle of birth and death. What is conveyed here is this : The category Bhagavat, if mentally reflected upon by one means or the other, does transport across \[the ocean of death circle\]. Therefore , let one remain in this fashion by all means.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.26॥ अन्ये त्विति। अतिमन्दाधिकारिणोऽन्येभ्यस्तत्त्वदर्शिभ्यो
 ज्ञानिभ्यः श्रुत्वाकर्मणा \[3।20\] इत्यादिभिरात्मानमुपासते;
@@ -211,10 +220,13 @@ out that reason the (next) verse is begun:
 -- स्ववाक्यसत्यत्वाय तानपि तारयामि निर्बन्धेन; न तु स्नेहेन
 इदमेवैधकारापिशब्दाभ्यां व्यञ्जितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.26॥ अतिमन्दाधिकारिणां निस्तारोपायमाह **-- अन्य इति।** अन्ये तु
 साङ्ख्ययोगादिमार्गेणैवंभूतमुपद्रष्टृत्वादिलक्षणमात्मानं
@@ -222,10 +234,13 @@ out that reason the (next) verse is begun:
 ध्यायन्ति। ते च श्रद्धयोपदेशश्रवणपरायणाः सन्तो मृत्युं,संसारं
 शनैरतितरन्त्येव।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.26 But some, who do not know thus, having heard from others, worship accordingly - these too, who are devoted to what they hear, pass beyond death.
@@ -259,11 +274,13 @@ having heard; अन्येभ्यः from others; उपासते worshi
 च and; अतितरन्ति cross beyond; एव even; मृत्युम् death; श्रुतिपरायणाः
 regarding what they have heard as the Supreme refuge.Commentary The three paths; viz.; the Yoga of meditation; the Yoga of knowledge; and the Yoga of action to attain the knowledge of the Self were described in the previous verse. In this verse the Yoga of worship is described.Some who are ignorant of the methods described in the previous verse listen to the teachings of the spiritual preceptors regarding this great Truth or the Self with intense and unshakable faith; solely depending upon the authority of others instructions; and through constant remembrance and contemplation of them attain immortality. They are devoted to their preceptor. Some study the books written by realised seers; stick with great faith to the teachings contained therein and live according to them. They also overcome death. Whichever path one follows; one eventually attains the knowledge of the Self and final liberation from birth and death; -- salvation (Moksha). There are several paths to suit aspirants of different temperaments and eipments.Freeing oneself from ignorance with its effects through the knowledge of the Self; is crossing the Samsara or attaining immortality or overcoming death or obtaining release or salvation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.26।। दूसरे मनुष्य इस प्रकार (ध्यानयोग, साङ्ख्ययोग, कर्मयोग, आदि
@@ -342,6 +359,7 @@ regarding what they have heard as the Supreme refuge.Commentary The three paths;
 ।।13.26।। परन्तु, अन्य लोग जो स्वयं इस प्रकार न जानते हुए, दूसरों से
 (आचार्यों से) सुनकर ही उपासना करते हैं, वे श्रुतिपरायण (अर्थात् श्रवण ही
 जिनके लिए परम साधन है) लोग भी मृत्यु को नि:सन्देह तर जाते हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "52 विविक्तसेवी लघ्वाशी"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.52॥**बुद्ध्या विशुद्धया** यथावस्थितात्मतत्त्वविषयया **युक्तः; धृत्या आत्मानं नियम्य च**,विषयविमुखीकरणेन योगयोग्यं मनः कृत्वा; **शब्दादीन् विषयान् त्यक्त्वा** असन्निहितान् कृत्वा; तन्निमित्तौ **च** रागद्वेषौ व्युदस्य; **विविक्तसेवी** सर्वैर् ध्यानविरोधिभिर् विविक्ते देशे वर्तमानः **लघ्वाशी** अत्यशनानशनरहितः; **यतवाक्कायमानसः** ध्यानाभिमुखीकृतकायवाङ्मनोवृत्तिः; **ध्यानयोगपरो नित्यम्** एवं भूतः सन् आप्रयाणाद् अहरहः ध्यानयोगपरः; **वैराग्यं समुपाश्रितः** ध्येयतत्त्वव्यतिरिक्तविषयदोषावमर्शेन तत्र विरागतां वर्धयन् **अहङ्कारम्;** अनात्मन्य् आत्माभिमानं **बलं** तद्विवृद्धिहेतुभूतं वासनाबलं तन्निमित्तं **दर्पं कामं क्रोधं परिग्रहं विमुच्य; निर्ममः** सर्वेष्व् अनात्मीयेष्व् आत्मीयबुद्धिरहितः **शान्तः** आत्मानुभवैकसुखः; एवम्भूतो ध्यानयोगं कुर्वन् **ब्रह्मभूयाय कल्पते** ब्रह्मभावाय कल्पते सर्वबन्धविनिर्मुक्तो यथावस्थितम् आत्मानम् अनुभवति इत्यर्थः।
@@ -44,12 +45,14 @@ title = "52 विविक्तसेवी लघ्वाशी"
 (tendencies) which nourish (egoism), and the resulting pride, desire,
 wrath and possessiveness. 'With no feeling of mine' means free from the notion that what does not belong to oneself belongs to oneself; 'Who is tranil' means, who finds sole happiness in experiencing the self. One who has become like this and performs the Yoga of meditation becomes worthy for the state of Brahman. The meaning is that, freed from all bonds, he experiences the self as It really is.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.52॥ --,**विविक्तसेवी** अरण्यनदीपुलिनगिरिगुहादीन् विविक्तान् देशान् सेवितुं शीलम् अस्य इति विविक्तसेवी; **लघ्वाशी** लघ्वशनशीलः -- विविक्तसेवालघ्वशनयोः निद्रादिदोषनिवर्तकत्वेन चित्तप्रसादहेतुत्वात् ग्रहणम् **यतवाक्कायमानसः** वाक् च कायश्च मानसं च यतानि संयतानि यस्य ज्ञाननिष्ठस्य सः ज्ञाननिष्ठः यतिः यतवाक्कायमानसः स्यात्। एवम् उपरतसर्वकरणः सन् **ध्यानयोगपरः** ध्यानम् आत्मस्वरूपचिन्तनम्; योगः आत्मविषये एकाग्रीकरणम् तौ परत्वेन कर्तव्यौ यस्य सः ध्यानयोगपरः **नित्यं** नित्यग्रहणं मन्त्रजपाद्यन्यकर्तव्याभावप्रदर्शनार्थम्; **वैराग्यं** विरागस्य भावः दृष्टादृष्टेषु विषयेषु वैतृष्ण्यं **समुपाश्रितः** सम्यक् उपाश्रितः नित्यमेव इत्यर्थः॥ किं च --,
 </details>
@@ -148,12 +151,14 @@ longing for objects seen or unseen-. Further,
 मन्त्रजपतीर्थयात्रादिपरः कदाचिदित्यर्थः। वैराग्यं दृष्टादृष्टविषयेषु
 स्पृहाविरोधि चित्तपरिणामं समुपाश्रितः सम्यङ्निश्चलत्वेन नित्यमाश्रितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.52॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -162,12 +167,14 @@ longing for objects seen or unseen-. Further,
 
 ॥18.52॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -178,12 +185,14 @@ longing for objects seen or unseen-. Further,
 
 18.52 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.51 -- 18.53॥ तथा हि बुद्ध्येति त्रिभिः। बुद्ध्या
 यथोक्तकर्मफलादित्यागाद्विशुद्धया साङ्ख्यमार्गीयया युक्तः
@@ -205,20 +214,26 @@ longing for objects seen or unseen-. Further,
 सर्ववस्तुदोषालोचनात्मकं समुपाश्रितः सम्यक् उप समीपे आश्रितः। अनेन
 विकारसत्त्वेऽपि तद्राहित्यं निरूपितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.52॥ किंच **-- विविक्तेति।** विविक्तसेवी शुद्धदेशावस्थायी लध्वाशी
 मितभोजी एतैरुपायैर्यतवाक्कायमानसः संयतवाग्देहचित्तो भूत्वा नित्यं सर्वदा
 ध्यानेन यो योगो ब्रह्मसंस्पर्शस्तत्परः सन् ध्यानाविच्छेदार्थं पुनः
 पुनर्दृढं वैराग्यं सम्यगुपाश्रितो भूत्वा।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.52 Resorting to solitude, eating but little, restraining speech, body and mind, ever engaged in the Yoga of meditation and taking refuge in dispassion;
@@ -254,11 +269,13 @@ Meditate on the Self or on the Lord Hari with four hands; or on Lord Krishna; Ra
 Take only 3 or 4 articles of food. Take one meal only. Sleep on the floor. Observe celibacy and the vow of silence. Do not come out of the room. Speak little if you do not observe perfect silence. Do the Anushthana on the banks of the Ganga or any sacred river. Try to do one or several Purascharanas of your Ishta Mantra. If there are five letters
 (syllables in English) in the Mantra; 500;000 repetitions of the Mantra will constitute one Purascharana.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.52।। जो विशुद्ध (सात्त्विकी) बुद्धिसे युक्त, वैराग्यके आश्रित,
@@ -420,6 +437,7 @@ Take only 3 or 4 articles of food. Take one meal only. Sleep on the floor. Obser
 ।।18.52।। विविक्त सेवी, लघ्वाशी (मिताहारी) जिसने अपने शरीर, वाणी और मन
 को संयत किया है, ध्यानयोग के अभ्यास में सदैव तत्पर तथा वैराग्य पर
 समाश्रित।।
+</details>
 </details>
 
 </div>

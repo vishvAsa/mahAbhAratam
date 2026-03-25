@@ -23,8 +23,9 @@ title = "22 पुरुषः प्रकृतिस्थो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.21॥ गुणशब्दः स्वकार्येष्व् औपचारिकः; स्वतःस्वानुभवैकसुखः **पुरुषः प्रकृतिस्थः** प्रकृतिसंसृष्टः **प्रकृतिजान् गुणान्** प्रकृतिसंसर्गौपाधिकान् सत्त्वादिगुणकार्यभूतान् सुखदुःखादीन् **भुङ्क्ते** अनुभवति। प्रकृतिसंसर्गहेतुम् आह -- पूर्वपूर्वप्रकृतिपरिणामरूपदेवमनुष्यादियोनिविशेषेषु स्थितो ऽयं पुरुषस् तत्तद्योनिप्रयुक्तसत्त्वादिगुणमयेषुसुखदुःखादिषु सक्तस् तत्साधनहेतुभूतेषु पुण्यपापकर्मसु प्रवर्तते; ततस् तत्पुण्यपापफलानुभवाय सदसद्योनिषु साध्वसाधुयोनिषु जायते। ततश् च कर्म आरभते; ततश् च जायते; यावद् अमानित्वादिकान् आत्मप्राप्तिसाधनभूतान् गुणान् न सेवते; तावद् एव संसरति; तदिदम् उक्तम् -- **कारणं गुणसङ्गो ऽस्य सदसद्योनिजन्मसु।** इति।
@@ -45,12 +46,14 @@ title = "22 पुरुषः प्रकृतिस्थो"
 
 13.22 The self, settled in a series of bodies of divinities, men etc., which are modifications of Prakrti, becomes attached to happiness, pain etc., resulting from the Sattva and other alities associated with the respective wombs, and hence engages Itself in virtuous and sinful deeds, constituting the means for happiness, misery etc. In order to experience the fruits of those good and evil deeds, It is born again in good and evil wombs. Then It becomes active and conseently is born again as a result of Its activities. As long as It does not cultivate alities like modesty etc., which are the means for realising the self, so long Its entanglement in Samsara continues like this. Thus, it has been declared here that attachment causes births in good and evil wombs.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.22॥ -- **पुरुषः** भोक्ता **प्रकृतिस्थः** प्रकृतौ अविद्यालक्षणायां कार्यकरणरूपेण परिणतायां स्थितः प्रकृतिस्थः; प्रकृतिमात्मत्वेन गतः इत्येतत्; **हि** यस्मात्; तस्मात् **भुङ्क्ते** उपलभते इत्यर्थः। **प्रकृतिजान्** प्रकृतितः जातान् सुखदुःखमोहाकाराभिव्यक्तान् **गुणान्** सुखी; दुःखी; मूढः; पण्डितः अहम् इत्येवम्। सत्यामपि अविद्यायां सुखदुःखमोहेषु गुणेषु भुज्यमानेषु यः सङ्गः आत्मभावः संसारस्य सः प्रधानं कारणं जन्मनः; सः यथाकामो भवति तत्क्रतुर्भवति (बृह0 उ₀ 4।4।5) इत्यादिश्रुतेः। तदेतत् आह -- **कारणं** हेतुः **गुणसङ्गः** गुणेषु सङ्गः **अस्य** पुरुषस्य भोक्तुः **सदसद्योनिजन्मसु;** सत्यश्च असत्यश्च योनयः सदसद्योनयः तासु सदसद्योनिषु जन्मानि सदसद्योनिजन्मानि; तेषु सदसद्योनिजन्मसु विषयभूतेषु कारणं गुणसङ्गः। अथवा; सदसद्योनिजन्मसु अस्य संसारस्य कारणं गुणसङ्गः इति संसारपदमध्याहार्यम्। सद्योनयः देवादियोनयः असद्योनयः पश्वादियोनयः। सामर्थ्यात् सदसद्योनयः मनुष्ययोनयोऽपि अविरुद्धाः द्रष्टव्याः॥ एतत् उक्तं भवति -- प्रकृतिस्थत्वाख्या अविद्या; गुणेषु च सङ्गः कामः; संसारस्य कारणमिति। तच्च परिवर्जनाय उच्यते। अस्य च निवृत्तिकारणं ज्ञानवैराग्ये ससंन्यासे गीताशास्त्रे प्रसिद्धम्। तच्च ज्ञानं पुरस्तात् उपन्यस्तं क्षेत्रक्षेत्रज्ञविषयम् यज्ज्ञात्वामृतमश्नुते इति। उक्तं च अन्यापोहेन अतद्धर्माध्यारोपेण च॥ तस्यैव पुनः साक्षात् निर्देशः क्रियते --,
 </details>
@@ -228,12 +231,14 @@ belonging to others.\] A direct presentation is again being made of that
 यत्कर्म कुरुते तदभिसंपद्यते इति श्रुतेः। अस्मिन्नपि पक्षे मूलकारणत्वेन
 प्रकृतितादात्म्याभिमानो द्रष्टव्यः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.22॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -242,12 +247,14 @@ belonging to others.\] A direct presentation is again being made of that
 
 ॥13.22॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.20 -- 13.23॥ एतल्लक्षणं कृत्वा परीक्षा क्रियते -- प्रकृतिमित्यादि पर इत्यन्तम्। प्रकृतिरप्यनादिः +++(;N कार्यकारणप्रकृतिरप्यनादिः)+++ कारणान्तराभावात्। ,विकाराः पटादयः। प्रकृतिरिति कार्यकारणभावे हेतुः। पुरुषस्तु प्रधान्यात् भोक्ता। प्रकृतिपुरुषयोः पङ्ग्वन्धवत् किलान्योन्यापेक्षा वृत्तिः। अत एवास्य \[पुरुषस्य\] शास्त्रकृद्भिः नानाकारैर्नामभिरभिधीयते रूपम् उपद्रष्टा इत्यादिभिः। अयमत्र तात्पर्यार्थः
 -- प्रकृतिः तद्विकारः; चतुर्दशविधः सर्गः; तथा पुरुषः; एतत्सर्वम् अनादि
@@ -258,12 +265,14 @@ belonging to others.\] A direct presentation is again being made of that
 
 13.22 See Comment under 13.23
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.22॥ एवं कार्यभेदमुक्त्वा तद्भोक्तृत्वमपि तस्य
 प्रकृतिपरिणामक्षेत्रसंसर्गेणैव भवति; नान्यथेत्याह -- पुरुष इति।
@@ -286,10 +295,13 @@ belonging to others.\] A direct presentation is again being made of that
 इतरसम्भोगं करोतीत्वर्थः। न तु पुरुषरूपस्य सदसद्योनिदेवतिर्यगादिरूपजन्मसु
 गुणरसभोगेच्छा कारणं हेतुरित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.22॥ तथाप्यविकारिणो जन्मरहितस्य भोक्तृत्वं कथमित्यत आह **-- पुरुष
 इति।** हि यस्मात्प्रकृतिस्थः तत्कार्यदेहे तादात्म्येन स्थितः पुरुषः।
@@ -297,10 +309,13 @@ belonging to others.\] A direct presentation is again being made of that
 असतीषु तिर्यगादियोनिषु यानि जन्मानि तेषु गुणसङ्गः। गुणैः
 शुभाशुभकर्मकारिभिरिन्द्रियैः सङ्गः कारणमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.22 (a) Indeed, the self seated in Prakrti experiences the Gunas born of Prakrti৷৷. (b) ৷৷. Its attachment to these Gunas is the cause of birth in good and evil wombs.
@@ -338,11 +353,13 @@ pain and delusion is the chief cause of its birth. If you add the word Samsara t
 Avidya and Kama are the cause of Samsara.Jnana (wisdom) and Vairagya
 (dispassion) will destroy ignorance and desire. (Cf.XIV.5XV.7)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.22।। प्रकृतिमें स्थित पुरुष ही प्रकृतिजन्य गुणोंका भोक्ता बनता है और
@@ -420,6 +437,7 @@ Avidya and Kama are the cause of Samsara.Jnana (wisdom) and Vairagya
 ।।13.22।। प्रकृति में स्थित पुरुष प्रकृति से उत्पन्न गुणों को भोगता है।
 इन गुणों का संग ही इस पुरुष (जीव) के शुभ और अशुभ योनियों में जन्म लेने
 का कारण है।।
+</details>
 </details>
 
 </div>

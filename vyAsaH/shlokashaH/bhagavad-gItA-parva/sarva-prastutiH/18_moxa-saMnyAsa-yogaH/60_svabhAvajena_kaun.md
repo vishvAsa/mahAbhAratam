@@ -23,8 +23,9 @@ title = "60 स्वभावजेन कौन्तेय"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.60॥ स्वभावजं हि क्षत्रियस्य कर्म शौर्यं **स्वभावजेन** शौर्याख्येन **स्वेन कर्मणा निबद्धः** तत एव **अवशः** परैर् धर्षणम् असहमानस् त्वम् एव **तद्** युद्धं **करिष्यसि यद्** इदानीं **मोहाद्** अज्ञानात् **कर्तुं न इच्छसि। सर्वं हि भूतजातं सर्वेश्वरेण मया पूर्वकर्मानुगुण्येन प्रकृत्यनुवर्तने नियमितम्; तत् श्रृणु --**
@@ -39,12 +40,14 @@ title = "60 स्वभावजेन कौन्तेय"
 
 18.60 For, heroism is the duty of a Ksatriya born of his nature. Impelled by your own duty of heroism born of your own nature, you will lose self-control when you get the taunts of your enemies. Unable to suffer it, you will be compelled to engage them in battle, which, now, out of delusion and ignorance, you do not desire to do. All beings have been ordained by Me to follow their Prakrti acired by their previous Karmas. Listen about it:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.60॥ --,**स्वभावजेन** शौर्यादिना यथोक्तेन **कौन्तेय निबद्धः** निश्चयेन बद्धः **स्वेन** आत्मीयेन **कर्मणा कर्तुं न इच्छसि यत्** कर्म; **मोहात्** अविवेकतः **करिष्यसि अवशोऽपि** परवश एव **तत्** कर्म॥ यस्मात्
 --,
@@ -101,12 +104,14 @@ to do; mohat, owing to indiscrimination. For,
 तदवशोऽप्यनिच्छन्नपि स्वाभाविककर्मपरतन्त्रः परमेश्वरपरतन्त्रश्च
 करिष्यस्येव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.60॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -115,12 +120,14 @@ to do; mohat, owing to indiscrimination. For,
 
 ॥18.60॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -131,12 +138,14 @@ to do; mohat, owing to indiscrimination. For,
 
 18.41-60 Brahmana - etc. upto avasopitat. Surely the intrinsic nature of the Brahmanas etc., does not voilate what has been difined (above) by way of classifying their duties. Therefore, as far as you are concerned, you have the intrinsic ality of the Ksatriya (warrior), and your nature i.e., intrinsic ality, does, without fail, assume the part of the inciter of yourself, even though you don't like it. For, a person who acts simply being incited by that (natural condition), there is the strong bondage of the merit or demerit. Therefore, perform actions following the means of correct knowledge, taught by Me. In that case, the bondage would disappear. The intention of the principal sentence (statement of the entire passage under study) is to help to get this idea. The meaning of the subordinate sentences (statements) is evident. Briefly (verse 50) : in short. Knowledge : i.e. the one which has been explained earlier. Nistha conveys, avoiding verbal jugglary, the meaning 'what has been determined'. He who is endowed with intellect totally pure etc. : All this has been almost explained already. Hence, no more trouble is taken \[to comment upon it\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.60॥ तदुपपादयति -- स्वभावजेनेति। इदं च
 द्वितीयतृतीयाद्यध्यायार्थविवरणं स्वभावः प्राकृतस्तज्जेन क्षात्त्रकर्मणा
@@ -150,20 +159,26 @@ to do; mohat, owing to indiscrimination. For,
 यत् मोहात् युद्धं कर्तुं नेच्छसि; तत् अवशोऽपि करिष्यसि अतो मदाज्ञयैव
 कुर्वित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.60॥ किंच **-- स्वभावेति।** स्वभावः क्षत्रियत्वे हेतुः
 पूर्वकर्मसंस्कारस्तस्माज्जातेन स्वकीयेन कर्मणा शौर्यादिना पूर्वोक्तेन
 निबद्धो यन्त्रितस्त्वं मोहाद्यत्कर्म युद्धलक्षणं कर्तुं नेच्छसि; अवशोऽपि
 तत्कर्म करिष्यस्येव।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.60 O Arjuna, bound by your own duty born out of your own inner disposition, and having no control over your own will, you will be compelled to do that very thing which you now desire not to do through delusion.
@@ -200,11 +215,13 @@ shalt do; अवशः helpless; अपि also; तत् that.Commentary Thou 
 O Arjuna; with martial alities; prowess; valour; skill; etc. Thou art;
 therefore; bound by these innate alities. Thou wilt be forced to fight by thy own nature. Nature will constrain thee to fight; much against thy will.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.60।। हे कुन्तीनन्दन ! अपने स्वभावजन्य कर्मसे बँधा हुआ तू मोहके कारण
@@ -324,6 +341,7 @@ therefore; bound by these innate alities. Thou wilt be forced to fight by thy ow
 
 ।।18.60।। हे कौन्तेय ! तुम अपने स्वाभाविक कर्मों से बंधे हो, (अत:)
 मोहवशात् जिस कर्म को तुम करना नहीं चाहते हो, वही तुम विवश होकर करोगे।।
+</details>
 </details>
 
 </div>

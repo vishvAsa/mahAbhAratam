@@ -25,8 +25,9 @@ title = "05 निर्मानमोहा जितसङ्गदोषा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.5॥ एवं मां शरणम् उपगम्य **निर्मानमोहाः** -- निर्गतानात्मात्माभिमानरूपमोहाः; **जितसङ्गदोषाः** -- जितगुणमयभोगसङ्गाख्यदोषाः **अध्यात्मनित्याः** -- आत्मनि यद् ज्ञानं तद् अध्यात्मम् आत्मध्याननिरताः; **विनिवृत्त**तदितरकामाः **सुखदुःखसञ्ज्ञैः** **द्वन्द्वैः** च **विमुक्ता अमूढाः** आत्मानात्मस्वभावज्ञाः **तद् अव्ययं पदं गच्छन्ति** अनवच्छिन्नज्ञानाकारम् आत्मानं यथावस्थितं प्राप्नुवन्ति। **मां शरणम्** उपागतानां मत्प्रसादाद् एव ताः सर्वाः प्रवृत्तयः सुशक्याः सिद्धिपर्यन्ता भवन्ति इत्यर्थः।
@@ -43,12 +44,14 @@ title = "05 निर्मानमोहा जितसङ्गदोषा"
 
 15.5 Thus, when they have taken refute in Me, become free from 'perverse notions conerning the self', namely, become free from the delusion in the form of misconceiving the non-self (body) as the self; 'victorious over the evil of attachment', namely, victorious over the evil known as attachment to sense-objects consisting of the Gunas; 'ever devoted to self', namely completely absorbed in the knowledge of the self which is called Adhyatma or knowledge about the self; when they have 'turned away from desires' other than this self-knowledge; when they are liberated from 'dualities called pleasure and pain' - such 'undeluded souls', namely, those who are able to discern the natures of self and non-self, attain to that 'imperishable status'. They attain the self as It is, in the form of infinite knowledge. Conseently for those who seek refuge in Me, all actions become easy of performance till perfection is attained by My grace.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.5॥ --,**निर्मानमोहाः** मानश्च मोहश्च मानमोहौ; तौ निर्गतौ येभ्यः ते निर्मानमोहाः मानमोहवर्जिताः। **जितसङ्गदोषाः** सङ्ग एव दोषः सङ्गदोषः; जितः सङ्गदोषः यैः ते जितसङ्गदोषाः। **अध्यात्मनित्याः** परमात्मस्वरूपालोचननित्याः तत्पराः। **विनिवृत्तकामाः** विशेषतो निर्लेपेन निवृत्ताः कामाः येषां ते विनिवृत्तकामाः यतयः संन्यासिनः **द्वन्द्वैः** प्रियाप्रियादिभिः **विमुक्ताः सुखदुःखसंज्ञैः** परित्यक्ताः **गच्छन्ति अमूढाः** मोहवर्जिताः **पदम् अव्ययं तत्** यथोक्तम्॥ तदेव पदं पुनः विशेष्यते --,
 </details>
@@ -139,12 +142,14 @@ above. The very State is being elaborated again:
 वेदान्तप्रमाणसंजातसम्यग्ज्ञाननिवारितात्मज्ञानाः तदव्ययं यथोक्तं पदं
 गच्छन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.5॥ साधनान्तरमाह -- निर्मानेति।
 </details>
@@ -154,12 +159,14 @@ above. The very State is being elaborated again:
 ॥15.5॥ तर्हि ब्रह्मज्ञानसाधनं विश्वविमर्शस्तत्र साधनं च
 तत्प्रतिपत्तिरिति समस्तमुक्तं किमुत्तरेण इत्यत आह -- **साधनान्तरमि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.3 -- 15.5॥ न रूपमित्यादि अव्ययं तदित्यन्तम्। तं छित्त्वेति। विशेष्ये क्रियाऽभिधीयमाना सामर्थ्यादत्र विशेषणपदमुपादत्ते दण्डी प्रैष्याननुब्रूयात् इति विधिवत्। तेन अधोरूढानि मूलानि अस्य छिन्द्यादिति। तत् पदं प्रशान्तम् अव्ययं पदं तदेव।
 </details>
@@ -168,12 +175,14 @@ above. The very State is being elaborated again:
 
 15.3-5 Na rupam., upto avyayam tat. Cutting this \[tree\] etc. Here the action \[of cutting\] mentioned with regard to the alified one \[viz৷৷ the tree\] appropriates for itself, the place (or word) of alification \[viz. the root below\], just as in the case of the injunction : 'Let the man-with-stick recite the Praisa hymns. By this way \[we get the meaning\] : 'Let him cut off the roots tha are grown below. That Abode : The absolutely Tranil One. The changeless Abode is nothing but That.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.5॥ अन्यान्यपि साधनानि चाह -- निर्मानेति। मानमोहराहित्यं
 सङ्गदोषराहित्यं अध्यात्मज्ञाननित्यत्वं निवृत्तकामत्वं
@@ -195,10 +204,13 @@ above. The very State is being elaborated again:
 तद्द्वयमपि शरणातिरिक्तसाधनासाध्यं तस्मात् शरणं प्रपद्य इति
 शरणगमनमन्वेषणप्रकार इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.5॥ तत्प्राप्तौ साधनान्तराणि दर्शयन्नाह **-- निर्मानेति।** निर्गतौ
 मानमोहावहंकारमिथ्याभिनिवेशौ येभ्यस्ते; जितः पुत्रादिसङ्गरूपो दोषो
@@ -207,10 +219,13 @@ above. The very State is being elaborated again:
 तैर्विमुक्ताः; अतएवामूढाः निवृत्ताविद्याः सन्तस्तदव्ययं पदं वैष्णवं
 गच्छन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.5 Without the delusion of perverse notions (concerning the self),
@@ -245,11 +260,13 @@ the undeluded go to that imperishable status.
 known as pleasure and pain; गच्छन्ति reach; अमूढाः the undeluded; पदम्
 goal; अव्ययम् eternal; तत् That.Commentary Wherever there is pride there is stiff egoism. Absence of discrimination between the Real and the unreal is Moha. Perversion is Moha. Infatuation is Moha. Those who are free from likes and dislikes even when they attain pleasant or unpleasant objects have triumphed over the,evil of attachment. Kartritva Abhimana or the idea I am the doer is Sanga. Likes and dislikes are the Doshas or the evils. Heat and cold; pleasure and pain; honour and dishonour; censure and praise; etc.; are the pairs of opposites. Only those who have destroyed ignorance and who have attained the knowledge of the Self reach the eternal goal.Adhyatmanityah Ever engaged in the contemplation of the nature of Brahman or the Supreme Being.Vinivrittakamah All the desires vanish in toto without leaving any trace or taint behind. They who have reached this stage become Yatis or Sannyasins. In the fire of wisdom all desires are burnt. As the birds fly away from a tree which has caught fire; so do desires go away from him.Tat That (the goal) described above.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.5।। जो मान और मोहसे रहित हो गये हैं, जिन्होंने आसक्तिसे होनेवाले
@@ -501,6 +518,7 @@ goal; अव्ययम् eternal; तत् That.Commentary Wherever there is
 लिया है, जो अध्यात्म में स्थित हैं जिनकी कामनाएं निवृत्त हो चुकी हैं और
 जो सुख-दु:ख नामक द्वन्द्वों से विमुक्त हो गये हैं, ऐसे सम्मोह रहित
 ज्ञानीजन उस अव्यय पद को प्राप्त होते हैं।।
+</details>
 </details>
 
 </div>

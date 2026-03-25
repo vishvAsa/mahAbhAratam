@@ -26,8 +26,9 @@ title = "51 दृष्ट्वेदम् मानुषम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.51॥ अर्जुन उवाच -- अनवधिकातिशयसौन्दर्यसौकुमार्यलावण्यादियुक्तं तव एव असाधारणं मनुष्यत्वसंस्थानसंस्थितम् अति**सौम्यम् इदं तव रूपं दृष्ट्वा सचेताः संवृत्तो ऽस्मि; प्रकृतिं गतः** च।
@@ -42,12 +43,14 @@ title = "51 दृष्ट्वेदम् मानुषम्"
 
 11.51 Arjuna said Having beheld this pleasing and unie form of Yours, human in configuration, endowed with grace, tenderness, beauty etc., the excellence of which is infinite, I have now become composed, and I am restored to my normal nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.51॥ --,**दृष्ट्वा इदं मानुषं रूपं** मत्सखं प्रसन्नं **तव सौम्यं जनार्दन; इदानीम्;** अधुना **अस्मि संवृत्तः** संजातः। किम् **सचेताः** प्रसन्नचित्तः **प्रकृतिं** स्वभावं **गतश्च** अस्मि॥**श्रीभगवानुवाच
 --,**
@@ -97,12 +100,14 @@ mind; and gatah, restored; prakrtim, to my own nature.
 भयकृतव्यामोहाभावेनाव्याकुलचित्तः संवृत्तोऽस्मि। तथा प्रकृतिं
 भयकृतव्यथाराहित्येन स्वास्थ्यं गतोस्मि स्पष्टमन्यत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.51॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -111,12 +116,14 @@ mind; and gatah, restored; prakrtim, to my own nature.
 
 ॥11.51॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.51॥ दृष्ट्वेति। सकलोपसंहारान्ते +++(S सकलः संहारान्ते)+++ परमप्रशान्तरूपां ब्रह्म तत्त्वस्थितिं ददाति इत्युपसंहारे भगवतः सौम्यता।
 </details>
@@ -125,12 +132,14 @@ mind; and gatah, restored; prakrtim, to my own nature.
 
 11.51 Drstva etc. At the end of the act of withdrawing all, the Brahman assumes the highly tranil stage of the tattva. Hence at the stage of withdrawl, gentleness is in the Bhagavat.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.51॥ ततो यथावदवस्थितः सन् अर्जुन उवाच -- दृष्ट्वेदमिति।
 निरवधिकातिशयसौन्दर्यसौकुमार्यलावण्यसौशील्यादियुक्तं
@@ -147,19 +156,25 @@ mind; and gatah, restored; prakrtim, to my own nature.
 सावधानचित्तः संवृत्तः जातोऽस्मि। प्रकृतिं भक्तिरूपां गतः प्राप्तोऽस्मि
 (च)।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.51॥ ततो निर्भयः सन्नर्जुन उवाच **-- दृष्ट्वेति।** सचेताः
 प्रसन्नचित्त इदानीं संवृत्तः जातोऽस्मि। प्रकृतिं स्वास्थ्यं च
 प्राप्तोऽस्मि। शेषं स्पष्टम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.51 Arjuna said Having behold the human and pleasing form of Yours, O Krsna, I have now become composed in mind and I am restored to my normal nature.
@@ -193,11 +208,13 @@ Thy; सौम्यम् gentle; जनार्दन O Krishna; इदान
 restored.Commentary Arjuna says to Lord Krishna O Lord; I now behold Thy human form. Now my thoughts are collected and I am serene. I can speak.
 My senses perform their proper functions. My fear has vanished. Thou hast treated me as a mother would treat her erring child whom she embraces and nurses. Just as the calf rejoices when it beholds its mother who was missing for some days; so also I rejoice now when I behold Thy gentle form. I have drunk the nectar. Now I am alive.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.51।। अर्जुन बोले -- हे जनार्दन ! आपके इस सौम्य मनुष्यरूपको देखकर
@@ -236,6 +253,7 @@ My senses perform their proper functions. My fear has vanished. Thou hast treate
 
 ।।11.51।। अर्जुन ने कहा -- हे जनार्दन! आपके इस सौम्य मनुष्य रूप को देखकर
 अब मैं शांतचित्त हुआ अपने स्वभाव को प्राप्त हो गया हूँ।।
+</details>
 </details>
 
 </div>

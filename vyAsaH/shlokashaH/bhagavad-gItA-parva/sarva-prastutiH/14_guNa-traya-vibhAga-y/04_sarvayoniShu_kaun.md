@@ -23,8 +23,9 @@ title = "04 सर्वयोनिषु कौन्तेय"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.4॥ सर्वासु देवगन्धर्वयक्षराक्षसमनुष्यपशुमृगपक्षिसरीसृपादिषु **योनिषु** तत्तन्**मूर्तयः** **याः सम्भवन्ति** जायन्ते **तासां ब्रह्म महद् योनिः** कारणं मया संयोजितचेतनवर्गा महदादिविशेषान्तावस्था प्रकृतिः कारणम् इत्यर्थः। **अहं बीजप्रदः पिता** तत्र तत्र च तत्तत्कर्मानुगुण्येन चेतनवर्गस्य संयोजकश् च अहम् इत्यर्थः। एवं सर्गादौ प्राचीनकर्मवशाद् अचित्संसर्गेण देवादियोनिषु जातानां पुनः पुनः देवादिभावेन जन्महेतुम् आह
@@ -40,12 +41,14 @@ title = "04 सर्वयोनिषु कौन्तेय"
 
 14.4 In all wombs such as those of gods, Gandharvas, Yaksas, Raksasas, men, animals, beasts, birds, serpents etc., whatever forms are generated, the brahman (Prakrti) is the 'great womb' or cause. Beginning from Mahat and ending with the five elements, Prakrti, with the mass of conscient selves imbedded by Me in it, is the cause. I am the sowing father. The meaning is that I am the imbedder of the multiplex of conscient selves according to each one's Karma. Now, He teaches the cause of continuing births as divinities etc., of those born in this manner at the beginning of a cycle of creation. It is due to the conjunction of these beings with Prakrti, in keeping with their old Karmas:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.4॥ --,देवपितृमनुष्यपशुमृगादि**सर्वयोनिषु कौन्तेय;** मूर्तयः देहसंस्थानलक्षणाः मूर्छिताङ्गावयवाः **मूर्तयः संभवन्ति याः; तासां** मूर्तीनां **ब्रह्म महत्** सर्वावस्थं **योनिः** कारणम् **अहम्** ईश्वरः **बीजप्रदः** गर्भाधानस्य कर्ता **पिता**॥ के गुणाः कथं बध्नन्तीति; उच्यते
 --,
@@ -116,12 +119,14 @@ father; bija-pradah, who desposits the seed, the agent of impregnation.
   
 कारणान्तराणीति युक्तमुक्तं संभवः सर्वभूतानां ततो भवतीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.4॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -130,12 +135,14 @@ father; bija-pradah, who desposits the seed, the agent of impregnation.
 
 ॥14.4॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.4॥ अत एव -- सर्वयोनिष्विति। सर्वासु योनिषु आदिकारणतया +++(S; आद्यकारणतया)+++ बृंहिका भगवच्छक्तिः सकलसंसारजननस्वभावा +++(;K -- वमनस्वभावा)+++ माता। पिता त्वहं शक्तिमान् अव्यपदेश्यः।
 </details>
@@ -144,12 +151,14 @@ father; bija-pradah, who desposits the seed, the agent of impregnation.
 
 14.4 Sarvayonisu etc. In all the wombs (whatever gives birth to anything), the expansive Energy of the Bhagavat exists as the prime cause; and hence It is the Mother having the innate nature of giving birth to the entire world process. But I am the Father, the Energetic, the Inexplicable.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.4॥ एवं कार्यावस्थोऽयं चिदचित्प्रकृतिसर्गो मयैव कृत इति
 सर्वयोनिष्विति। नेदमपूर्वतरमिवोच्यते किन्तु सर्वत्रैवमेव लोके दृश्यत
@@ -167,10 +176,13 @@ father; bija-pradah, who desposits the seed, the agent of impregnation.
 पिता उत्पादकः; अहमेवेत्यर्थः। तदेव ब्रह्म मदिच्छया नानायोनिरूपेण भूत्वा
 भासते इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.4॥ न केवलं सृष्ट्युपक्रम एव मदधिष्ठिताभ्यां प्रकृतिपुरुषाभ्यामयं
 भूतोत्पत्तिप्रकारः अपितु सर्वदैवेत्याह **-- सर्वयोनिष्विति**। सर्वासु
@@ -178,10 +190,13 @@ father; bija-pradah, who desposits the seed, the agent of impregnation.
 मूर्तीनां महद्ब्रह्म प्रकृतिः योनिर्मातृस्थानीया। अहं च बीजप्रदः
 गर्भाधानादिकर्ता पिता।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.4 Whatever forms are produced in any womb, O Arjuna, the Prakrti is their great womb and I am the sowing father.
@@ -216,11 +231,13 @@ father.Commentary I am the father The Primordial Nature is the mother.
 The whole manifested world is the child Nature has produced in its association with me. Therefore I am called the father of this world.Wombs Such as the gods; the manes; men; cattle; beasts; birds;
 etc.Forms Bodies consisting of parts; limbs; organs; etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.4।। हे कुन्तीनन्दन ! सम्पूर्ण योनियोंमें प्राणियोंके जितने शरीर पैदा
@@ -315,6 +332,7 @@ etc.Forms Bodies consisting of parts; limbs; organs; etc.
 ।।14.4।। हे कौन्तेय ! समस्त योनियों में जितनी मूर्तियाँ (शरीर) उत्पन्न
 होती हैं, उन सबकी योनि अर्थात् गर्भ है महद्ब्रह्म और मैं बीज की स्थापना
 करने वाला पिता हूँ।।
+</details>
 </details>
 
 </div>

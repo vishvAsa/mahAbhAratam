@@ -23,8 +23,9 @@ title = "14 दैवी ह्येषा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 कथं स्वत एव अनवधिकातिशयानन्दे नित्ये  
@@ -51,12 +52,14 @@ title = "14 दैवी ह्येषा"
 
 7.14 (a) This Maya of Mine consists of the three Gunas, Sattva, Rajas and Tamas. Because it is created by Me, the Divine, for purpose of sport, it is divine in its power and therefore difficult to overcome. The word Maya is used for the effects of the three Gunas, because it has got the power of generating wonderful effects as in the case of the magic of Asuras and Raksasas. See the passages: 'Then the excellent discus, the flaming Sudarsana, was despatched by the Lord to defend the boy. The thousand Mayas or wonderfully created weapons of the evil-designed Sambara were foiled one after another, by that ickly moving discus, for protecting the body of the boy' (V. P., 1.19. 19-20). Here the term Maya does not signify the sense of 'false'. Even with regard to magicians, when the term, Mayavin (one who possesses Maya) is used, there is origination of real impressions with the aid of certain incantations, herbs etc., though the objects created are illusory things. Accordingly the term Maya denotes the incantations, herbs etc., which have got the power of creating real impressions. Inasmuch as the sense of the term should be invariable, following the usage in all cases, the term Maya can be applied to the illusory objects, only in a secondary sense, while its primary sense in regard to the real impressions generated in the mind. It is just like in the statement 'The cots cry.' The Maya of the Lord, which is absolutely real and which consists of the Gunas, is alone taught in the texts like, 'Know then Maya to be the Prakrti and the possessor of the Maya to be the great Lord' (Sve. U., 4.10). It not only obscures the essential nature of the Lord but also creates the condition of the mind that sees its objects as enjoyable. Therefore, the entire universe, deluded by the Lord's Maya, does not know the Lord who is of the nature of boundless beatitude. (On the other hand they feel objects set forth by Maya as enjoyable). Sri Krsna teaches the way of deliverance from Maya: (b) But those who take refuge in Me alone - Me whose resolves are always true, who has supreme compassion, and who is the refuge of all beings without exception and without consideration of their particular status - such persons shall pass beyond this Maya of Mine consisting of the three Gunas. The meaning is that they worship Me alone, renouncing the Maya. Why, then do all not take recourse to refuge in the Lord which is conducive to the worship of the Lord;
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.14॥ **दैवी** देवस्य मम ईश्वरस्य विष्णोः स्वभावभूता **हि यस्मात् एषा** यथोक्ता **गुणमयी मम माया दुरत्यया** दुःखेन अत्ययः अतिक्रमणं यस्याः सा दुरत्यया। तत्र एवं सति सर्वधर्मान् परित्यज्य **मामेव** मायाविनं स्वात्मभूतं सर्वात्मना ये **प्रपद्यन्ते ते मायाम् एतां** सर्वभूतमोहिनीं **तरन्ति** अतिक्रामन्ति ते संसारबन्धनात् मुच्यन्ते इत्यर्थः॥ यदि त्वां प्रपन्नाः मायामेतां तरन्ति कस्मात् त्वामेव सर्वे न प्रपद्यन्ते इत्युच्यते
 </details>
@@ -443,12 +446,14 @@ not all take refuge in You alone;' This is being answered:
 सन्ततमनुचिन्तयेदित्यप्यभिप्रेतं भगवतः। श्रुतयः स्मृतयश्चात्रार्थे
 प्रमाणीकर्तव्याः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.14॥ कथमनादिकाले मोहानत्ययो बहूनामित्यत आह दैवीति। अयमाशयः माया
 ह्येषा मोहिका सा च
@@ -503,12 +508,14 @@ not all take refuge in You alone;' This is being answered:
 मत्प्रतिमात्वेन। चैत्यं चित्स्थम्। स्वगतिं स्वज्ञानम्। व्यनङ्क्षि
 व्यञ्जयसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.14॥ कथं खलु सत्त्वादिमात्रस्थिता भगवतस्तत्त्वं न विदुः इत्याह दैवीति। देवः क्रीडाकरः तत्र भवा दैवी क्रीडा ममेयमित्यर्थः। तेन सत्त्वादीनां वस्तुतः संविन्मात्रपरब्रह्मानतिरिक्ततायामपि यत् तदरिक्ततावगमनं +++(N तदतिरिक्तभावगमनम्)+++ तदेव गुणत्वं भोक्तृतत्त्वपारतन्त्र्यं भोग्यत्वम्। तच्च भेदात्मकं रूपं संसारिभिरनिर्वाच्यतया तान् प्रति मायारूपम्। अतो ये परमार्थब्रह्मप्रकाशविदः ते तदनतिरिक्तं विश्वं पश्यन्तो गुणाना सत्त्वादीनां गुणतालक्षणां भेदावभासस्वभावां मायाम् अतितरन्ति इति मामेव इत्येवकारस्याशयः। ये तु यथास्थित ( यथास्थितभेद ) भेदावभासमात्रं विदुः ते मायां नातिक्रामन्ति +++(S नातिवर्तन्ते)+++ । तद्युक्तमुक्तम् न त्वहं तेषु इति।
 </details>
@@ -517,12 +524,14 @@ not all take refuge in You alone;' This is being answered:
 
 7.14 Daivi etc. Deva means 'one who plays'. What is born of (or exists in) him is daivi 'play'. Hence, the meaning is : 'This is My play'. Due to this \[play-trick\], the \[Strands\] Sattva etc., even though they are not really different from the Supreme Brahman, the Pure Consciousness, manifest as different from That. This \[differentiation\] itself accounts for their secondary nature i.e., the nature of being an object of enjoyment i.e., being dependent on the existence of the enjoyer. This peculiarity of dual-nature is inexplicable for the persons of mundane life. Hence to them it is a trick-of-Illusion. Therefore, those who have realised the light of the Brahman, the Supreme Reality, and find the universe as not distinct from that \[Brahman\], they \[alone\] cross over the trick-off-Illusion which is of the nature of manifesting in duality and is in the form of the dependent status of the Strands, Sattva etc. This is the idea indicated by 'alone' in 'Me alone'. On the other hand those who would find just the manifestation of duality as they \[appear to\] exist - they do not across over the trick-of-Illusion. Thus it is rightly said 'I am not in them (in the beings of the Sattva etc.) etc.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.13 7.14॥ परमेतदसंस्पष्टं मां वेदान्तवेद्यं न जगद्वेदेह
 गुणतन्त्रत्वादित्याह त्रिभिरिति। भावैस्त्रिभिः पदार्थैः। त्रित्व
@@ -564,10 +573,13 @@ not all take refuge in You alone;' This is being answered:
 लीलादिसहितदर्शनेन स्वरमणेच्छादिकतया। एतेन त्वमपि तथा प्रपन्नो
 भवेत्युक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.14॥ के तर्हि त्वां जानन्तीत्यत आह **दैवी हीति।** दैवी अलौकिकी
 अत्यद्भुतेत्यर्थः। गुणमयी सत्त्वादिगुणविकारात्मिका मम परमेश्वरस्य
@@ -575,10 +587,13 @@ not all take refuge in You alone;' This is being answered:
 मामेवेत्येवकारेणाव्यभिचारिण्या भक्त्या प्रपद्यन्ते भजन्ति ते मायामेतां
 दुस्तरामपि तरन्ति। ततो मां जानन्तीति भावः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.14 (a) For this divine Maya or Mine consisting of the three Gunas
@@ -615,11 +630,13 @@ illusion; दुरत्यया difficult to cross over; माम् to Me; 
 of Isvara. It is the material cause of this universe. It is inherent in the Lord. It is constituted of the three alities; viz.; Sattva; Rajas and Tamas. Those who completely devote themselves to the Lord alone after renouncing all formal religion (Dharma) cross over this illusion which deludes all beings. They attain liberation or Moksha.Isvara is the Lord of Maya (illusion). He has perfect control over it. Avidya is the Upadhi (limiting adjunct) of the Jiva (individual soul). The Jiva is a slave of this ignorance. Ignorance is the veil that has screened the Jiva from Satchidananda Brahman or the ExistenceKnowledgeBliss Absolute.
 When the veil is removed by the dawn of knowledge of the Self the Jiva loses his characteras a Jiva or an individual soul and becomes identical with Brahman. (Cf.XV.3and4)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.14।। क्योंकि मेरी यह गुणमयी दैवी माया बड़ी दुरत्यय है अर्थात् इससे
@@ -664,6 +681,7 @@ When the veil is removed by the dawn of knowledge of the Self the Jiva loses his
 
 ।।7.14।। यह दैवी त्रिगुणमयी मेरी माया बड़ी दुस्तर है। परन्तु जो मेरी शरण
 में आते हैं, वे इस माया को पार कर जाते हैं।।
+</details>
 </details>
 
 </div>

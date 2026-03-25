@@ -23,8 +23,9 @@ title = "59 यदहङ्कारमाश्रित्य न"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.59॥**यद् अहङ्कारम्** आत्मनि हिताहितज्ञाने स्वातन्त्र्याभिमानम् **आश्रित्य** मन्नियोगम् अनादृत्यन योत्स्ये **इति मन्यसे एष ते** स्वातन्त्र्य**व्यवसायो मिथ्या** भविष्यति। यतः **प्रकृतिस् त्वां** युद्धे **नियोक्ष्यति** मत्स्वातन्त्र्योद्विग्नमनसं त्वाम् अज्ञं प्रकृतिर् नियोक्ष्यति। तद् उपपादयति --
@@ -39,12 +40,14 @@ title = "59 यदहङ्कारमाश्रित्य न"
 
 18.59 If, in your 'self-conceit,' i.e., under a false sense of independence that you know what is good for you and what is not - if, not heeding My ;nd, you think, 'I will not fight,' then this resolve based on your sense of independence will be in vain. For Nature will compel you to go against your resolve - you who are ignorant and who adversely react to my sovereignty. He elucidates the same:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.59॥ --,यदि चेत् त्वम् **अहंकारम् आश्रित्य न योत्स्ये इति** न युद्धं करिष्यामि इति **मन्यसे** चिन्तयसि निश्चयं करोषि; **मिथ्या एषः व्यवसायः** निश्चयः **ते** तव यस्मात् **प्रकृतिः** क्षत्रियस्वभावः **त्वां नियोक्ष्यति**॥ यस्माच्च --,
 </details>
@@ -97,12 +100,14 @@ you!
 निष्फल एष व्यवसायो निश्चयस्ते तव। यस्मात्प्रकृतिः क्षत्रजात्यारम्भको
 रजोगुणस्वभावस्त्वां नियोक्ष्यति प्रेरयिष्यति युद्धे।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.59॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -111,12 +116,14 @@ you!
 
 ॥18.59॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -127,12 +134,14 @@ you!
 
 18.59 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.59॥ तथाहि यदिति। न योत्स्य इति मन्यसे। एष ते व्यवसायो मिथ्या व्यर्थ
 एव। तदा मदाज्ञाकारी प्रकृतिर्बहिरङ्गा शक्तिर्गौणस्वभावरूपा त्वां
@@ -149,10 +158,13 @@ you!
 मदाज्ञाविमुखस्य प्राकृतत्वेन ज्ञाते प्रकृतिनियोज्यत्वं;
 मदाज्ञाप्रवर्तमानस्य तदनियोज्यत्वम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.59॥ कामं विनङ्क्ष्यामि नतु बन्धुभिर्युद्धं करिष्यामीति चेत्तत्राह
 **-- यदिति।** मदुक्तमनादृत्य केवलमहंकारमवलम्ब्य युद्धं न करिष्यामीति
@@ -160,10 +172,13 @@ you!
 तदेवाह -- प्रकृतिस्त्वां रजोगुणरूपेण,परिणता सती नियोक्ष्यति युद्धे
 प्रवर्तयिष्यत्येव।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.59 If, in your self-conceit, you think, 'I will not fight,' your resolve is in vain. Nature will compel you.
@@ -197,11 +212,13 @@ your own natural condition will incite you \[to fight\].
 एषः this; व्यवसायः resolve; ते thy; प्रकृतिः nature; त्वाम् thee;
 नियोक्ष्यति will compel.Commentary This strong determination of thy mind will be rendered utterly futile by thy inner nature thy nature will constrain thee thy nature as a warrior will compel thee to fight. It is a mere illusion to say that thou art Arjuna; that these are thy relatives and that to kill them will be a sin.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.59।। अहंकारका आश्रय लेकर तू जो ऐसा मान रहा है कि मैं युद्ध नहीं
@@ -318,6 +335,7 @@ your own natural condition will incite you \[to fight\].
 ।।18.59।। और अहंकारवश तुम जो यह सोच रहे हो, "मैं युद्ध नहीं करूंगा", यह
 तुम्हारा निश्चय मिथ्या है, (क्योंकि) प्रकृति (तुम्हारा स्वभाव) ही
 तुम्हें (बलात् कर्म में) प्रवृत्त करेगी।।
+</details>
 </details>
 
 </div>

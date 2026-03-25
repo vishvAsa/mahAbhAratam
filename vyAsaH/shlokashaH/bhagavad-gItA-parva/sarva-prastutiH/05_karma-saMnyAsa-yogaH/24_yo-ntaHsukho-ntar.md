@@ -23,8 +23,9 @@ title = "24 योऽन्तःसुखोऽन्तरारामस्�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.24॥**यो** बाह्यविषयानुभवं सर्वं विहाय **अन्तःसुखः** आत्मानुभवैकसुखः **अन्तरारामः** आत्मैकाधीनः स्वगुणैर् आत्मा एव सुखवर्धको यस्य स तथोक्तः **तथा अन्तर्ज्योतिः** आत्मैकज्ञानो यो वर्तते **स ब्रह्मभूतो योगी ब्रह्मनिर्वाणम्** आत्मानुभवसुखं प्राप्नोति।
@@ -39,12 +40,14 @@ title = "24 योऽन्तःसुखोऽन्तरारामस्�
 
 5.24 He who, renouncing all the experiences of outside objects, 'finds joy within,' i.e., finds his sole joy in experiencing the self; 'who has his pleasure within,' i.e., whose pleasure-garden is the self; and with regard to whom the self increases his happiness by Its own alities like bliss, knowledge, sinlessness, etc.; 'whose light is within,' i.e., who lives, directing his knowledge solely on the self - a person of such a description is the Yogin, who 'having become the Brahman (the self), attains the bliss of the Brahman' i.e., the bliss of experiencing the self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.24॥ **यः अन्तःसुखः** अन्तः आत्मनि सुखं यस्य सः अन्तःसुखः तथा अन्तरेव आत्मनि आरामः आरमणं क्रीडा यस्य सः **अन्तरारामः तथा** एव अन्तः एव आत्मन्येव ज्योतिः प्रकाशो यस्य सः **अन्तर्ज्योतिरेव यः** ईदृशः **सः योगी ब्रह्मनिर्वाणं** ब्रह्मणि निर्वृतिं मोक्षम् इह जीवन्नेव **ब्रह्मभूतः** सन् **अधिगच्छति** प्राप्नोति॥ किञ्च
 </details>
@@ -138,12 +141,14 @@ Brahman-gets Liberation. Besides,
 ब्रह्मभूतो नान्यःब्रह्मैव सन्ब्रह्माप्येति इति श्रुतेःअवस्थितेरिति
 काशकृत्स्नः इति न्यायाच्च।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.24॥ ज्ञानिलक्षणं प्रपञ्चयत्युत्तरैः श्लोकैः। आरामः
 परदर्शनादिनिमित्तं सुखम्। अत्र तु परमात्मदर्शनादिनिमित्तं तत्। सुखं
@@ -196,12 +201,14 @@ Brahman-gets Liberation. Besides,
 भूतत्वं यस्य कारणं तद्वानेवंलक्षणक इत्येवं सङ्गतिसूचनार्थोऽयमनुवाद इति
 भावः। एवं चअधिगच्छति इत्यस्य जानातीत्यर्थो ज्ञातव्यः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.24॥ योऽन्तरिति। अन्तः तस्यान्तरेव बाह्यानपेक्षि +++(omits बाह्यानपेक्षि to व्यवहारे तु)+++ सुखं तत्रैव रमते तत्र चास्य प्रकाशः व्यवहारे तु मूढत्वमिव। उक्तं च जड इव विचरेदवादमतिः इति। +++(PS 71 )+++ ।
 </details>
@@ -210,12 +217,14 @@ Brahman-gets Liberation. Besides,
 
 5.24 Yo'ntah etc : Within : For him there is happiness nowhere but within and it does not depend on any external object ; there alone he rejoices; his lustre is there only. But, there is an apparent ignorance \[of him\] in his worldly dealings. That has been said as - '\[A man of realisation\] would wander, like a fool, with no inclination for discussion.' (PS, 71)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.24॥ न केवलं कामक्रोधवेगसहनमात्रेण मोक्षप्राप्तिः अपितु योऽन्तरिति।
 अन्तरात्मनि सुखादि यस्य स योगी ब्रह्मसुखं गतः जीवन्मुक्तः तस्यसंसारस्य
@@ -231,20 +240,26 @@ Brahman-gets Liberation. Besides,
 ब्रह्मभूतः अलौकिकस्वरूपः सन् ब्रह्मनिर्वाणं ब्रह्मवत् भगवन्निर्वाणं लयं
 लीलात्मकतामधिगच्छति प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.24॥ न केवलं कामक्रोधवेगसंहरणमात्रेण मोक्षं प्राप्नोति अपितु
 **योऽन्तरिति।** अन्तः आत्मन्येव सुखं यस्य न विषयेषु अन्तरेवारामः क्रीडा
 यस्य न बहिः अन्तरेव ज्योतिर्दृष्टिर्यस्य न गीतनृत्यादिषु स एव ब्रह्मणि
 भूतः स्थितः सन्ब्रह्मणि निर्वाणं लयमधिगच्छति प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.24 He whose joy is within, pleasure is within, and similarly light is within - he is a Yogin, who having become the Brahman, attains the bliss of the Brahman.
@@ -276,11 +291,13 @@ Brahman-gets Liberation. Besides,
 एव even; यः who; सः that; योगी Yogi; ब्रह्मनिर्वाणम् absolute freedom or Moksha; ब्रह्मभूतः becoming Brahman; अधिगच्छति attains.Commentary Within meansin the Self. He attains Brahmanirvanam or liberation while living.
 He becomes a Jivanmukta.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.24।। जो मनुष्य केवल परमात्मामें सुखवाला है और केवल परमात्मामें रमण
@@ -346,6 +363,7 @@ He becomes a Jivanmukta.
 ।।5.24।। जो पुरुष अन्तरात्मा में ही सुख वाला, आत्मा में ही आराम वाला
 तथा आत्मा में ही ज्ञान वाला है, वह योगी ब्रह्मरूप बनकर ब्रह्मनिर्वाण
 अर्थात् परम मोक्ष को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

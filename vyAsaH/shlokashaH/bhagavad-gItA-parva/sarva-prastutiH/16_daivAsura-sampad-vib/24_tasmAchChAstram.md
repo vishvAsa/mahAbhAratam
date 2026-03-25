@@ -23,8 +23,9 @@ title = "24 तस्माच्छास्त्रम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.24॥ तस्मात् **कार्याकार्यव्यवस्थितौ** उपादेयानुपादेयव्यवस्थायां **शास्त्रम्** एव तव **प्रमाणम्।** धर्मशास्त्रेतिहासपुराणाद्युपबृंहिता वेदा यद् एव पुरुषोत्तमाख्यं परं तत्त्वं तत्प्रीणनरूपं तत्प्राप्त्युपायभूतं च कर्म अवबोधयन्ति तत् **शास्त्रविधानोक्तं** तत्त्वं **कर्म** च **ज्ञात्वा** यथावद् अन्यूनातिरिक्तं विज्ञाय **कर्तुं** त्वं **अर्हसि** तद् एव उपादातुम् अर्हसि।
@@ -41,12 +42,14 @@ title = "24 तस्माच्छास्त्रम्"
 
 16.24 Hence, the Sastra is to be the only authority for you in determining what should be done and what should not be done, viz., in deciding what ought to be accepted and what ought not be accepted. You should know, i.e., understand, neither more nor less than what constitutes the truth and the work enjoined in the injunctions of the Sastras which the Highest Reality called the Supreme Person revealed in the Vedas. The Vedic injunctions are supplemented by the Dharma-sastras, the Itihasas and the Puranas. The acts enjoined by them are the means for reaching Him and for pleasing Him. You should perform them; you should accept them alone.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.24॥ --,**तस्मात् शास्त्रं प्रमाणं** ज्ञानसाधनं **ते** तव **कार्याकार्यव्यवस्थितौ** कर्तव्याकर्तव्यव्यवस्थायाम्। अतः **ज्ञात्वा** बुद्ध्वा **शास्त्रविधानोक्तं** विधिः विधानं शास्त्रेण विधानं शास्त्रविधानम् कुर्यात्; न कुर्यात् इत्येवंलक्षणम्; तेन उक्तं स्व**कर्म** यत् तत् **कर्तुम् इह** **अर्हसि;** इह इति कर्माधिकारभूमिप्रदर्शनार्थम् इति॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -138,12 +141,14 @@ F:gitadataR.K.GitaCHAPTER16.doc Page 1 of 1
 श्रेयोर्थिना श्रद्दधानतया शास्त्रप्रवणेन तदुपदिष्टार्थानुष्ठानपरेण
 भवितव्यमिति संपद्वयविभागप्रदर्शनमुखेन निर्धारितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.24॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -152,12 +157,14 @@ F:gitadataR.K.GitaCHAPTER16.doc Page 1 of 1
 
 ॥16.24॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.23 -- 16.24॥ न चैतत् पुरुषवचनमित्यनादरणीयम्; अपि तु अनादिशास्त्रमत्र प्रमाणम् इत्युच्यते -- यः शास्त्रविधिमिति। तस्मादिति। शास्त्रविधिं त्यजत स्वमनीषयैव कार्याकार्यविचारं कुर्वतः प्रत्युत नरकपातः। तस्मात् आत्मबुद्ध्या +++(S;;N add शास्त्रमननुसृत्य after आत्मबुद्ध्या)+++ कार्याकार्यव्यवस्थां मा कार्षीः इति तात्पर्यम् \[इति\]।
 </details>
@@ -166,12 +173,14 @@ F:gitadataR.K.GitaCHAPTER16.doc Page 1 of 1
 
 16.23-24 Yah sastravidhim etc. Tasmat etc. On the other hand, a fall into the hell is \[inevitable\] for a person who rejects the scriptural injunctions and makes, using his own intellect, an analysis as to what is to be done and what is not to be done. Therefore, don't make a decision with your intellect about what is to be done and what is not to be done.-This is what is intended to be conveyed here.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.24॥ फलितमाह -- तस्माच्छास्त्रमिति। तस्मान्मयि दत्तचित्तः कर्म
 युद्धाख्यं शास्त्रविधानोक्तं स्वधर्मं
@@ -189,20 +198,26 @@ F:gitadataR.K.GitaCHAPTER16.doc Page 1 of 1
 दैवासुरीयसम्पत्तिविवेकेन तु षोडशे। सङ्गत्यागविभागेन बन्धमोक्षौ
 विवेचितौ॥1॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.24॥ फलितमाह **-- तस्मादिति।** इदं कार्यमिदमकार्यमित्यस्यां
 व्यवस्थायां ते तव शास्त्रं श्रुतिस्मृतिपुराणादिकमेव प्रमाणम्। अतः
 शास्त्रविधानोक्तं कर्म ज्ञात्वा इह कर्माधिकारे वर्तमानो यथाऽधिकारं कर्म
 कर्तुमर्हसि। ,तन्मूलत्वात्सत्त्वशुद्धिसम्यग्ज्ञानमुक्तीनामित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.24 Therefore, let the Sastra be your authority for determining what should be done and what should not be done. Knowing what is enjoined in the injunctions of the Sastra, you should perform work here.
@@ -238,11 +253,13 @@ the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the six
   
 The Divine and the Demoniacal. ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/24_tasmAchChAstram.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.24।। अतः तेरे लिये कर्तव्य-अकर्तव्यकी व्यवस्थामें शास्त्र ही प्रमाण
@@ -327,6 +344,7 @@ The Divine and the Demoniacal. ,
 ।।16.24।। इसलिए तुम्हारे लिए कर्तव्य और अकर्तव्य की व्यवस्था (निर्णय)
 में शास्त्र ही प्रमाण है शास्त्रोक्त विधान को जानकर तुम्हें अपने कर्म
 करने चाहिए।।
+</details>
 </details>
 
 </div>

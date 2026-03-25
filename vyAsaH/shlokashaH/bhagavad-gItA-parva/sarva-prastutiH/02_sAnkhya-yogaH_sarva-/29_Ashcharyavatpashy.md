@@ -25,8 +25,9 @@ title = "29 आश्चर्यवत्पश्यति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.29॥ एवम् उक्तस्वभावं स्वेतर-समस्त-वस्तु-वि-सजातीयतया **आश्चर्यवद्** अवस्थितम् अनन्तेषु जन्तुषु महता तपसा क्षीणपाप उपचित-पुण्यः **कश्चित् पश्यति** तथाविधः कश्चित् परस्मै **वदति** एवं कश्चिद् एव **श्रृणोति, श्रुत्वा अप्य् एनं** यथावद् अवस्थितं तत्त्वतो **न कश्चिद् वेद।**
@@ -43,12 +44,14 @@ title = "29 आश्चर्यवत्पश्यति"
 
 2.29 Among innumerable beings, someone, who by great austerity has got rid of sins and has increased his merits, realises this self possessing the above mentioned nature, which is wonderful and distinct in kind from all things other than Itself. Such a one speaks of It to another. Thus, someone hears of It. And even after hearing of It, no one knows It exactly that It really exists. The term 'ca' (and) implies that even amongst the seers, the speakers and hearers, one with authentic percepetion, authentic speech and authentic hearing, is a rarity.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.29॥  
   
@@ -397,12 +400,14 @@ and delusion,from the point of view of the nature of things.\] He says,
 निगदव्याख्यातः श्लोकः। चतुर्थपादे तु दृष्ट्वोक्त्वा श्रुत्वापीति
 योजना।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.29॥ देहयोगवियोगस्य नियतत्वादात्मनश्चेश्वरसरूपत्वात् सर्वथानाशान्न
 शोकः कार्य इत्युपसंहर्तुमैश्वरं सामर्थ्यं पुनर्दर्शयति आश्चर्यवदिति।
@@ -430,12 +435,14 @@ and delusion,from the point of view of the nature of things.\] He says,
 व्याख्यातः। स्वधर्मं 2।3138 इत्यादयः श्लोका अतिरोहितार्थत्वान्न
 व्याख्याताः। एवमुत्तरत्रापि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.30॥ एवंविधं च  
 आश्चर्यवदिति। ननु यद्येवमयमात्मा अविनाशी किमिति सर्वेण तथैव नोपलभ्यते यतः अद्भुतवत्कश्चिदेव पश्यति श्रुत्वापि एनं +++(N omit एनम्)+++ न कश्चित् +++(S N न कश्चिदेव जा ( N कश्चिज्जा)+++ नाति न वेत्ति) वेत्ति न +++(K omits न)+++ जानाति।
@@ -445,12 +452,14 @@ and delusion,from the point of view of the nature of things.\] He says,
 
 2.39 Ascaryavat etc. But, if this Self is, in this manner, changeless (or destructionless), why is This not observed just as such by all ; It is so because, as if by a rare chance, only some one observes \[This\]. Even after listening, not even one understands This i.e., realises This.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.29॥ सोऽयमात्माऽव्यक्तो यत आश्चर्यवदित्याह आश्चर्यवदिति। अवितर्क्यमिव
 पश्यतीत्यादि।
@@ -468,10 +477,13 @@ and delusion,from the point of view of the nature of things.\] He says,
 यथार्थमिदमित्युक्त्वा न वेद। वै निश्चयेनैतत्ति्रतयेषु कोऽपि न वेद न
 ज्ञातवानतोऽज्ञानात्तेऽपि शोचन्तीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.29॥ कुतस्तर्हि विद्वांसोऽपि लोके शोचन्ति
 आत्माज्ञानादेवेत्याशयेनात्मनो दुर्विज्ञेयतामाह **आश्चर्यवदिति।**
@@ -481,10 +493,13 @@ and delusion,from the point of view of the nature of things.\] He says,
 शृणोति च। अन्य कश्चित्पुनर्विपरीतभावनाभिभूतः श्रुत्वापि नैव वेद।
 चशब्दादुक्त्वापि न सम्यग्वेदेति द्रष्टव्यम्।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.29 One looks upon This (self) as a wonder; likewise another speaks of It as a wonder; still another hears of It as a wonder; and even after hearing of It, one knows It not.
@@ -519,11 +534,13 @@ And some one else, indeed, does not realize It even after hearing about It.
 श्रृणोति hears; श्रुत्वा having heard; अपि even; एनम् this; वेद knows; न
 not; च and; एव also; कश्चित् any one.Commentary The verse may also be interpreted in this manner. He that sees; hears and speaks of the Self is a wonderful man. Such a man is very rare. He is one among many thousands. Thus the Self is very hard to understand.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.29।। कोई इस शरीरीको आश्चर्यकी तरह देखता है और वैसे ही अन्य कोई इसका
@@ -691,6 +708,7 @@ not; च and; एव also; कश्चित् any one.Commentary The verse ma
 ।।2.29।। कोई इसे आश्चर्य के समान देखता है; कोई इसके विषय में आश्चर्य के
 समान कहता है; और कोई अन्य पुरुष इसे आश्चर्य के समान सुनता है; और फिर
 कोई सुनकर भी नहीं जानता।।
+</details>
 </details>
 
 </div>

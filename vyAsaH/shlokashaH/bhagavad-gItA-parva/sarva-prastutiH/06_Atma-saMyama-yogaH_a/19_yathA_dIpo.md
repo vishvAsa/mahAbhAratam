@@ -23,8 +23,9 @@ title = "19 यथा दीपो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.19॥**निवातस्थो दीपो यथा न इङ्गते न चलति** अचलः सप्रभस् तिष्ठति **यतचित्तस्य** निवृत्तसकलेतरमनोवृत्तेः **योगिनः** आत्मनि **योगं युञ्जतः** आत्मस्वरूपस्य **सा उपमा। निवातस्थतया निश्चलसप्रभदीपवन्निवृत्तसकलेतरमनोवृत्तितया निश्चलो ज्ञानप्रभ आत्मा तिष्ठति इत्यर्थः।**
@@ -39,12 +40,14 @@ title = "19 यथा दीपो"
 
 6.19 As a lamp does not flicker in a windless place, i.e., does not move, but remains steady with its illumination - this is the simile used to illustrate the nature of the self of the Yogin who has subdued his mind, who has got rid of all other kinds of mental activity and who is practising Yoga concerning the self. The meaning is that the self remains with its steadily illumining light of knowledge because all other activities of the mind have ceased, just as a lamp kept in a windless place has an unflickering flame.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.19॥ **यथा दीपः** प्रदीपः **निवातस्थः** निवाते वातवर्जिते देशे स्थितः **न इङ्गते** न चलति **सा उपमा** उपमीयते अनया इत्युपमा योगज्ञैः चित्तप्रचारदर्शिभिः **स्मृता** चिन्तिता **योगिनो यतचित्तस्य** संयतान्तःकरणस्य **युञ्जतो योगम्** अनुतिष्ठतः **आत्मनः** समाधिमनुतिष्ठत इत्यर्थः॥ एवं योगाभ्यासबलादेकाग्रीभूतं निवातप्रदीपकल्पं सत्
 </details>
@@ -134,12 +137,14 @@ then-
 तस्माद्दार्ष्टान्तिकलाभप्रतिपादनार्थमेवात्मपदम्। यतचित्तस्येति भावपरो
 निर्देशः कर्मधारयो वा। यतस्य चित्तस्येत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.19॥ आत्मनो भगवद्विषयं योगम्।
 </details>
@@ -150,12 +155,14 @@ then-
 **आत्मन** इति। योगिन आत्मनः इति अन्वयनिरासाय योगमित्युक्तम् अन्यथा
 वैयर्थ्यात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.19॥ यथेति। यथा निवातस्थो +++(S omits निवातस्थो)+++ दीपो न चलति एवं योगी। चलनमस्य विषयादीनामर्जनादयः प्रयासाः।
 </details>
@@ -166,12 +173,14 @@ then-
 - Itself being Its own nature - is described indirectly with a good
 number of adjectives. This is different from the characteristics assumed in other systems -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.19॥ आत्मैक्याकारतयाऽवस्थितचित्तस्योपमानमाह यथेति। निर्गतो वातो
 यस्मिंस्तत्र देशे स्थितो यथा दीपो नेङ्गते सोपमा निदर्शनं यतचित्तस्य
@@ -187,20 +196,26 @@ number of adjectives. This is different from the characteristics assumed in othe
 चाञ्चल्यं न भवति तथा भगवद्विप्रयोगतापनिवर्तकधर्मभावेन योगं युञ्जतो
 मनश्चञ्चलं न भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.19॥ आत्मैकाकारतयावस्थितस्य चित्तस्योपमानमाह **यथेति।** वातशून्ये
 देशे स्थितो दीपो यथा नेङ्गते न विचलति सा उपमा दृष्टान्तः। कस्य आत्मविषयं
 योगं युञ्जतोऽभ्यसतो योगिनो यतं नियतं चित्तं यस्य निष्कम्पतया प्रकाशकतया
 चञ्चलं यच्चित्तं तद्वत्तिष्ठतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.19 'A lamp does not flicker in a windless place' - that is the simile employed for the subdued mind of a Yogin who practises Yoga.
@@ -233,11 +248,13 @@ practising the Yoga in the Self.
 इङ्गते flicker; सा that; उपमा simile; स्मृता is thought; योगिनः of the Yogi; यतचित्तस्य of one with controlled mind; युञ्जतः of the practising;
 योगम् the Yoga; आत्मनः of the Self.Commentary This is a beautiful simile. Yogins ote this simile very often when they talk of concentration or steadiness or onepointedness of the mind. A steady mind will serve as a powerful searchlight to find out the hidden spiritual treasures of the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.19।। जैसे स्पन्दनरहित वायुके स्थानमें स्थित दीपककी लौ चेष्टारहित हो
@@ -282,6 +299,7 @@ practising the Yoga in the Self.
 ।।6.19।। जैसे स्पन्दनरहित वायुके स्थानमें स्थित दीपककी लौ चेष्टारहित हो
 जाती है, योगका अभ्यास करते हुए यतचित्तवाले योगीके चित्तकी वैसी ही उपमा
 कही गयी है।।
+</details>
 </details>
 
 </div>

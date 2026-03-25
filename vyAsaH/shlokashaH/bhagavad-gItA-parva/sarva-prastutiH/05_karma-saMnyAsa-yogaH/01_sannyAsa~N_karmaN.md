@@ -26,8 +26,9 @@ title = "01 सन्न्यासङ् कर्मणाम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 चतुर्थे ऽध्याये कर्मयोगस्य ज्ञानाकारतापूर्वकस्वरूपभेदो ज्ञानांशस्य च प्राधान्यम् उक्तम्; ज्ञानयोगाधिकारिणो ऽपि कर्मयोगस्यान्तर्गतात्मज्ञानत्वाद् अप्रमादत्वात् सुकरत्वान् निरपेक्षत्वाच् च ज्यायस्त्वं तृतीय एवोक्तम् । इदानीं कर्मयोगस्यात्मप्राप्तिसाधनत्वे ज्ञाननिष्ठायाश् शैघ्र्यं कर्मयोगान्तर्गताकर्ट्र्त्वानुसन्धानप्रकारं च प्रतिपाद्य तन्मूलं ज्ञानं च विशोध्यते ॥  
@@ -46,12 +47,14 @@ title = "01 सन्न्यासङ् कर्मणाम्"
 
 5.1 Arjuna said 'You praise the renunciation of actions, i.e., Jnana Yoga at one time, and next Karma Yoga'. This is what is objected to: In the second chapter, you have said that Karma Yoga alone should be practised first by an aspirant for release; and that the vision of the self should be achieved by means of Jnana Yoga by one whose mind has its blemishes washed away by Karma Yoga. Again, in the third and fourth chapters, you have praised Karma Yoga or devotion to Karma as better than Jnana Yoga even for one who has attained the stage of Jnana Yoga, and that, as a means of attaining the self, it (Karma Yoga) is independent of Jnana Yoga. Therefore, of these two, Jnana Yoga and Karma Yoga - tell me precisely which by itself is superior, i.e., most excellent, being more easy to practise, and icker to confer the vision of the self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.1॥ **संन्यासं** परित्यागं **कर्मणां** शास्त्रीयाणाम् अनुष्ठेयविशेषाणां **शंससि** प्रशंससि कथयसि इत्येतत्। **पुनः योगं च** तेषामेव अनुष्ठानम् अवश्यकर्तव्यंत्वं शंससि। अतः मे कतरत् श्रेयः इति संशयः किं कर्मानुष्ठानं श्रेयः किं वा तद्धानम् इति। प्रशस्यतरं च अनुष्ठेयम्। अतश्च **यत् श्रेयः** प्रशस्यतरम् **एतयोः** कर्मसंन्यासकर्मयोगयोः यदनुष्ठानात् श्रेयोऽवाप्तिः मम स्यादिति मन्यसे **तत् एकम्** अन्यतरत् सह एकपुरुषानुष्ठेयत्वासंभवात् **मे ब्रूहि सुनिश्चितम्** अभिप्रेतं तवेति॥ स्वाभिप्रायम् आचक्षाणो निर्णयाय **श्रीभगवानुवाच**
 </details>
@@ -381,12 +384,14 @@ opinion in order to arrive at a conclusion-
 कर्मतत्त्यागयोर्मध्ये यदेकं श्रेयः प्रशस्यतरं मन्यसे कर्म वा तत्त्यागं
 वा तन्मे ब्रूहि सुनिश्चितं तव मतमनुष्ठानाय।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.1॥ तृतीयाध्यायोक्तमेव कर्मयोगं
 प्रपञ्चयत्यनेनाध्यायेनयदृच्छालाभसन्तुष्टः 4।22 इत्यादिसन्न्यासंकुरु
@@ -425,12 +430,14 @@ opinion in order to arrive at a conclusion-
 अतस्तत्यक्त्वा सन्न्यास एव कर्तव्ये किं वैगुण्यमङ्गीकृत्यापि विधीयते
 युद्धमित्याशयशेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.1॥ संन्यासमिति। संन्यासः प्रधानम् पुनः योगः इति ससंशयस्य प्रश्नः।
 </details>
@@ -439,12 +446,14 @@ opinion in order to arrive at a conclusion-
 
 5.1 Samnyasam etc. Is renunciation superior or Yoga ; this is the estion of the doubting person (Arjuna).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.1॥ साङ्ख्ययोगैकार्थमतं स्वकर्मकरणं बहिः। इत्यबुद्ध्वा
 निजश्रेयोनिश्चये पृच्छति क्षमम्॥1॥ अर्जुन उवाच सन्न्यासमिति।
@@ -466,10 +475,13 @@ opinion in order to arrive at a conclusion-
 सकाशादेकमन्यद्यच्छ्रेयः श्रेयोरूपं भक्तिरूपं भवेत् तन्मे मम त्वदीयस्य
 सुनिश्चितं संशयरूपं ब्रूहि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.1॥ निर्वाय संशयं जिष्णोः कर्मसंन्यासयोगयोः। जितेन्द्रियस्य च यतेः
 पञ्चमे मुक्तिमब्रवीत्॥1॥  
@@ -482,10 +494,13 @@ opinion in order to arrive at a conclusion-
 तस्मादेतयोर्मध्ये एकस्मिन्ननुष्ठातव्ये सति मम यच्छ्रेयः श्रेष्ठं
 सुनिश्चितं तदेकं ब्रूहि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.1 Arjuna said You praise, O Krsna, the renunciation of actions and then praise Karma Yoga also. Tell me with certainly which of these is the superior one leading to the ultimate good.
@@ -520,11 +535,13 @@ again; योगम् Yoga; च and; शंससि (Thou) praisest; यत्
 better; एतयोः of these two; एकम् one; तत् that; मे to me; ब्रूहि tell;
 सुनिश्चितम् conclusively.Commentary Thou teachest renunciation of actions and also their performance. This has confused me. Tell decisively now which is better. It is not possible for a man to resort to both of them at the same time. Yoga here means Karma Yoga. (Cf.III.2)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.1।। अर्जुन बोले -- हे कृष्ण ! आप कर्मोंका स्वरूपसे त्याग करनेकी और
@@ -584,6 +601,7 @@ better; एतयोः of these two; एकम् one; तत् that; मे t
 ।।5.1।। अर्जुन ने कहा हे -- कृष्ण ! आप कर्मों के संन्यास की और फिर योग
 (कर्म के आचरण) की प्रशंसा करते हैं। इन दोनों में एक जो निश्चय पूर्वक
 श्रेयस्कर है, उसको मेरे लिए कहिये।।
+</details>
 </details>
 
 </div>

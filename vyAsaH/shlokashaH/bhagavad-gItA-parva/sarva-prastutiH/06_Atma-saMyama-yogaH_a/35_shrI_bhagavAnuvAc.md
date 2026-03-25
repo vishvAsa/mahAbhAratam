@@ -26,8 +26,9 @@ title = "35 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.35॥ श्रीभगवानुवाच चलस्वभावतया **मनो दुर्निग्रहम् एव** इत्यत्र न संशयस् तथाप्य् आत्मनो गुणाकरत्वाभ्यासजनिताभिमुख्येन आत्मव्यतिरिक्तेषु विषयेष्व् अपि दोषाकरत्वदर्शनजनितैवतृष्ण्येन **च** कथञ्चिद् **गृह्यते।**
@@ -42,12 +43,14 @@ title = "35 श्री भगवानुवाच"
 
 6.35 The Lord said No doubt, the mind is hard to subdue on account of its fickle nature. However, it can be subdued with difficulty by cultivating favourable attitude in the direction of the self by repeated contemplation of Its being a mind of auspicious attributes (these being eternality, self-luminosity, bliss, freedom from Karma, purity etc.), and by the absence of hankering produced by seeing the host of evil alities in objects other than the self hankered for.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.35॥ **असंशयं** नास्ति संशयः **मनो दुर्निग्रहं चलम्** इत्यत्र हे **महाबाहो।** किंतु **अभ्यासेन तु** अभ्यासो नाम चित्तभूमौ कस्यांचित् समानप्रत्ययावृत्तिः चित्तस्य। वैराग्येण वैराग्यं नाम दृष्टादृष्टेष्टभोगेषु दोषदर्शनाभ्यासात् वैतृष्ण्यम्। तेन **च वैराग्येण गृह्यते** विक्षेपरूपः प्रचारः चित्तस्य। एवं तत् मनः गृह्यते निगृह्यते निरुध्यते इत्यर्थः॥ यः पुनः असंयतात्मा तेन
 </details>
@@ -219,12 +222,14 @@ controlled his mind-
 फलभूतं वैराग्यम्। तत्परिपाकनिमित्ताच्च चित्तोपशमपरिपाकादविलम्बेन
 कैवल्यमिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.35॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -238,12 +243,14 @@ controlled his mind-
 अनेनात्र शुभेच्छादिकमप्युलक्षितमिति सूचितम्। मुक्तिबीजत्वान्मनोनियमनस्य
 मुक्तिरित्युक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.35॥ अत्र उत्तरम् असंशयमिति। वैराग्येण विषयोत्सुकता विनाश्यते। अभ्यासेन मोक्षपक्षः क्रमात् क्रमं विषयीक्रियते इति द्वयोरुपादानम्। उक्तं च तत्रभवता भाष्यकृता उभयाधीनश्चित्तवृत्तिनिरोधः इति।
 </details>
@@ -252,12 +259,14 @@ controlled his mind-
 
 6.35 Asamsayam etc. Through an attitude of desirelessness, the craving for sense objects is destroyed. Through practice, stage after stage, the side of emancipation is occupied \[by the mind\]. Hence both are included. Regarding this, it has been said by the revered author of the Bhasya as : The restraint of mental modifications depends on both \[the attitude of desirelessness and practice\]. Hence is this solemn declaration :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.35॥ एवं तदुक्तमङ्गीकृत्य तन्निग्रहोपायं श्रीभगवानुवाच असंशयमिति।
 तथाप्यभ्यासवैराग्याभ्यां निग्रहो भवति।
@@ -273,10 +282,13 @@ controlled his mind-
 चाञ्चल्यानुसरणप्रकारेण गृह्यते। च पुनः। तथा ज्ञानेन
 मत्सम्बन्धातिरिक्तेषु वैराग्येण गृह्यते वशीक्रियत इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.35॥ तदुक्तं चञ्चलत्वादिकमङ्गीकृत्यैव मनोनिग्रहोपायं श्रीभगवानुवाच
 **असंशयमिति।** चञ्चलत्वादिना मनो निरोद्धुमशक्यमिति यद्वदसि
@@ -287,10 +299,13 @@ controlled his mind-
 वृत्तिशून्यस्य ब्रह्माकारतया स्थितिः। या संप्रज्ञातनामासौ
 समाधिरभिधीयते॥ इति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.35 The Lord said The mind is hard to subdue and fickle, no doubt, O mighty-armed one, but , O son of Kunti, by practice and by the exercise of dispassion it can be brought under control.
@@ -325,11 +340,13 @@ ideal; goal or object of meditation) is Abhyasa or practice. The same idea or th
 and makes it steady and onepointed.Vairagya is dispassion or indifference to senseobjects in this world or in the other; here or hereafter; seen or unseen; heard or unheard; achieved through constantly looking into the evil in them (DoshaDrishti). You will have to train the mind by constant reflection on the immortal; allblissful Self. You must make the mind realise the transitory nature of the wordly enjoyments.
 You must suggest to the mind to look for its enjoyment not in the perishable and changing external objects but in the immortal; changeless Self within. Gradually the mind will be withdrawn from the external objects.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.35।। श्रीभगवान् बोले -- हे महाबाहो ! यह मन बड़ा चञ्चल है और इसका
@@ -441,6 +458,7 @@ You must suggest to the mind to look for its enjoyment not in the perishable and
 ।।6.35।। श्रीभगवान् कहते हैं -- हे महबाहो ! नि:सन्देह मन चंचल और कठिनता
 से वश में होने वाला है; परन्तु, हे कुन्तीपुत्र ! उसे अभ्यास और वैराग्य
 के द्वारा वश में किया जा सकता है।।
+</details>
 </details>
 
 </div>

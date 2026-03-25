@@ -26,8 +26,9 @@ title = "08 अमानित्वमदम्भित्वमहिंस�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 अथ क्षेत्रकार्येष्व् आत्मज्ञान-साधनतया उपादेया गुणाः प्रोच्यन्ते --
@@ -92,12 +93,14 @@ title = "08 अमानित्वमदम्भित्वमहिंस�
 'Adambhitva': 'Dambha' is the practice of Dharma for winning fame as a virtuous person; freedom from it is Adambhitva. 'Ahima' is absence of tendency to injure others by speech, mind and body. 'Ksanti'
 is the tendency of keeping the mind unmodified even when harmed by others. 'Arjava' means having a uniform disposition towards others in speech, mind and body. 'Acaryopasana' means being intent in prostrating, estioning, performing service etc., in regard to the teacher who imparts the knowledge of the self. 'Sauca' is the competence of the mind, speech and body, as enjoined by the Sastras, for the knowledge of the self and the means of this attainment. 'Sthairya' is possessing unshakable faith in the Sastras concerning the self. 'Atma-vinigraha' means the turning away from all objects that are different in nature from the self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.8॥ --,  
 **अमानित्वं**  
@@ -262,12 +265,14 @@ strays away in all directions. Further,
 आत्मविनिग्रहः आत्मनो देहेन्द्रियसंघातस्य स्वभावप्राप्तां मोक्षप्रतिकूले
 प्रवृत्तिं निरुध्य मोक्षसाधन एव व्यवस्थापनम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.8॥ स च यो यत्प्रभावश्च इति वक्तुं तज्-ज्ञान-साधनान्य् आह --
 अमानित्वम्-इत्यादिना।  
@@ -287,12 +292,14 @@ strays away in all directions. Further,
 -- **आत्मे**ति। आर्जवं ज्ञानसाधनं यथा स्यात्तथा व्याचष्टे --
 **आर्जवमि**ति। एतच्च सन्मार्ग इति ज्ञातव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.8 -- 13.12॥ एवं क्षेत्रं व्याख्यातम्; क्षेत्रज्ञश्च।  
 इदानीं ज्ञानम् उच्यते --  
@@ -304,12 +311,14 @@ strays away in all directions. Further,
 <details><summary>शङ्करनारायणः</summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/12_adhyAtmajnAnanity.md"></div>
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.8॥ अथ तस्मिन् क्षेत्रे स्वात्मज्ञानगुणानाह -- अमानित्वमिति
 सार्धैश्चतुर्भिः। एतेऽमानित्वादयो ज्ञानगुणा उक्ताः।
@@ -329,10 +338,13 @@ strays away in all directions. Further,
 भगवत्स्मरणात्मकम्। स्थैर्यं क्लेशादिष्वपि भगवत्परतया स्थितिः।
 आत्मविनिग्रहः क्षुधाशीतादिसहनेन शरीरसंयमः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.8॥ इदानीमुक्तलक्षणात्क्षेत्राद्विविक्ततया ज्ञेयं शुद्धं क्षेत्रज्ञं
 विस्तरेण वर्णयिष्यंस्तज्ज्ञानसाधनान्याह **-- अमानित्वमिति पञ्चभिः।**
@@ -344,10 +356,13 @@ strays away in all directions. Further,
 इति। स्थैर्यं सन्मार्गे प्रवृत्तस्य तदेकनिष्ठता; आत्मविनिग्रहः
 शरीरसंयमः; एतज्ज्ञानमिति प्रोक्तमिति पञ्चमेनान्वयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.8 Modesty, absence of ostentation, non-injury, patience, sincerity,
@@ -390,11 +405,13 @@ doubledealing or crookedness. He is ite frank; candid or openhearted. He does no
 Service of the Guru enables the aspirant to attain Selfrealisation. The aspirant adores his Guru as Brahman; God Himself. He worships him as Lord Vishnu. He superimposes on him all the attributes of Brahman or Lord Vishnu. He realises Brahman in and through his Guru. This is the fruit of devotion to the Guru. For a student of Vedanta devotion to the Guru is absolutely necessary. Even for a correct understanding of the scriptures the guidance of a Guru is necessary.Purity is of two kinds;
 external and internal purity. External purity is cleansing of the physical body with earth and water. Internal purity is cleansing of the mind of the dirt of attachment; hatred and other passions; by the method of Pratipaksha Bhavana; i.e.; by cultivating the opposite positive virtues; and by the recognition of the evil in all objects of the senses.Steadfastness The aspirant never leaves his efforts on the path of salvation even though he comes across many stumbling blocks on the path. This is steadfastness or firmness. No meditation on Brahman is possible with a fickle mind.Selfcontrol is control of the aggregate of the body and the senses. The senses and the body which naturally run externally towards the sensual objects are checked and directed on to the path of salvation. No meditation is possible in a body wherein the senses are out of control and distract attention.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.8।। मानित्व-(अपनेमें श्रेष्ठताके भाव-) का न होना,
@@ -664,6 +681,7 @@ external and internal purity. External purity is cleansing of the physical body 
 
 ।।13.8।। अमानित्व, अदम्भित्व, अहिंसा, क्षमा, आर्जव, आचार्य की सेवा,
 शुद्धि, स्थिरता और आत्मसंयम।।
+</details>
 </details>
 
 </div>

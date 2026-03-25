@@ -23,8 +23,9 @@ title = "02 व्यामिश्रेणेव वाक्येन"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>वेङ्कटनाथः</summary>
 
@@ -99,12 +100,14 @@ title = "02 व्यामिश्रेणेव वाक्येन"
 
 3.2 Conseqently, it appears to me as if 'you confuse me with statements that seem to contradict each other.' For, firm devotion to knowledge which forms the means for the vision of the self and which is of the nature of stopping the operations of the senses on the one hand, and on the other exhortation to action which is of a nature opposite to it, i.e., knowledge, as a means to the same vision of that Atman - these statements are contradictory and confusing. Therefore tell me clearly the path following which I can take a determined course and win the Supreme Being.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.2॥ **व्यामिश्रेणेव** यद्यपि विविक्ताभिधायी भगवान् तथापि मम मन्दबुद्धेः व्यामिश्रमिव भगवद्वाक्यं प्रतिभाति। तेन मम **बुद्धिं मोहयसि इव** मम बुद्धिव्यामोहापनयाय हि प्रवृत्तः त्वं तु कथं मोहयसि अतः ब्रवीमि बुद्धिं मोहयसि इव मे मम इति। त्वं तु भिन्नकर्तृकयोः ज्ञानकर्मणोः एकपुरुषानुष्ठानासंभवं यदि मन्यसे तत्रैवं सति **तत्** तयोः **एकं** बुद्धिं कर्म वा इदमेव अर्जुनस्य योग्यं बुद्धिशक्त्यवस्थानुरूपमिति **निश्चित्य वद** ब्रूहि येन ज्ञानेन कर्मणा वा अन्यतरेण **श्रेयः अहम् आप्नुयां** प्राप्नुयाम् इति यदुक्तं तदपि नोपपद्यते॥ यदि हि कर्मनिष्ठायां गुणभूतमपि ज्ञानं भगवता उक्तं स्यात् तत् कथं तयोः एकं वद इति एकविषयैव अर्जुनस्य शुश्रूषा स्यात्। न हि भगवता पूर्वमुक्तम् अन्यतरदेव ज्ञानकर्मणोः वक्ष्यामि नैव द्वयम् इति येन उभयप्राप्त्यसंभवम् आत्मनो मन्यमानः एकमेव प्रार्थयेत्॥ प्रश्नानुरूपमेव प्रतिवचनं श्रीभगवानुवाच
 </details>
@@ -265,12 +268,14 @@ accordance witht the estion:
 शुद्धिहेतुत्वं नास्ति। अतः कामराहित्येनैव कर्माणि कुर्वन्नन्तःकरणशुद्ध्य
 ज्ञानाधिकारी भविष्यसीति यावदध्यायसमाप्ति वदिष्यति भगवान्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.2॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -279,12 +284,14 @@ accordance witht the estion:
 
 ॥3.2॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.1 3.2॥ ज्यायसीति। व्यामिश्रेणेति। कर्म उक्तं ज्ञानं च। तत्र न द्वयोः प्राधान्यं युक्तम् अपि तु ज्ञानस्य। तद्बलेन क्षपणीयत्वं यदि कर्मणां बुद्धियुक्तो जहातीमे +++(II 52)+++ इत्यादिनयेन मूलत एव तर्हि +++(K तत्)+++ कर्मणां +++(S K कर्मणा)+++ किं प्रयोजनमिति प्रश्नाभिप्रायः।
 </details>
@@ -293,12 +300,14 @@ accordance witht the estion:
 
 3.1-2 Jyayasi etc. and Vyamisrena etc. Action has been taught and knowledge too. Now it is proper \[to attach\] importance not to both, but only to knowledge. Now if with the strenght of knowledge the action is to be destroyed from its very root, according to the instruction 'The man of wisdom casts off \[both the good and the bad action\]', then what is the autility of action ; This is idea of \[Arjuna's\] estion. But the Bhagavat gives the answer :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.2॥ ननुधर्म्याद्धि युद्धात् 2।31 इति कर्मणः श्रेयस्त्वत्तो नोदितमिति
 चेत्तत्राह व्यामिश्रेणेति। तर्हि तव वाक्यं व्यामिश्रं नैकान्तिकं
@@ -322,10 +331,13 @@ accordance witht the estion:
 सर्वेषां न श्रेयोरूपत्वमुक्तम्। अतः पूर्वोक्तमध्येएकं निश्चित्य वद इति
 व्याख्यानं न साधु।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.2॥ ननुधर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते
 इत्यादिना कर्मणोऽपि श्रेष्ठत्वमुक्तमेवेत्याशङ्क्याह **व्यामिश्रेणेति।**
@@ -336,10 +348,13 @@ accordance witht the estion:
 इदमेव श्रेयःसाधनमिति निश्चित्य येनानुष्ठितेन श्रेयो मोक्षमहमाप्नुयां
 प्राप्स्यामि तदेवैकं निश्चित्य वदेत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.2 You confuse my mind with statements that seem to contradict each other; tell me for certain that one way by which I could reach the highest good.
@@ -374,11 +389,13 @@ understanding; मोहयसि (Thou) confusest; इव as it were; मे my
 (the good or the highest); अहम् I; आप्नुयाम् may attain.Commentary Arjuna says to Lord Krishna; Tecah me one of the two; knowledge or action; by which I may attain to the highest good or bliss or Moksha.
 (Cf.V.I).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.1 -- 3.2।। अर्जुन बोले -- हे जनार्दन! अगर आप कर्मसे बुद्धि- (ज्ञान-)
@@ -428,6 +445,7 @@ understanding; मोहयसि (Thou) confusest; इव as it were; मे my
 ।।3.2।। आप इस मिश्रित वाक्य से मेरी बुद्धि को मोहितसा करते हैं अत आप उस
 एक (मार्ग) को निश्चित रूप से कहिये जिससे मैं परम श्रेय को प्राप्त कर
 सकूँ।।
+</details>
 </details>
 
 </div>

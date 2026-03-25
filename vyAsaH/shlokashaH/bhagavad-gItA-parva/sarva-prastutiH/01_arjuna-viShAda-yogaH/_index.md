@@ -1,9 +1,10 @@
 +++
 title = "+०१ अर्जुन-विषाद-योगः"
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/_index.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/_index.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ### मङ्गलम्  
 नारायणः परोऽव्यक्ताद्  
@@ -403,6 +404,7 @@ title = "+०१ अर्जुन-विषाद-योगः"
 गुरून् अपि गरीयसः ।
 **क्रियते** शिष्य-शिक्षायै  
 गीता-भाष्य-**विवेचनम्** ॥ ३ ॥
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "19 बहूनाञ् जन्मनामन्ते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 नाल्प-सङ्ख्या-सङ्ख्यातानां पुण्य-जन्मनां फलम् इदं  
@@ -59,12 +60,14 @@ title = "19 बहूनाञ् जन्मनामन्ते"
 
 7.19 Further after passing through innumerable auspicious births, one gets the knowledge: 'I find my sole joy as a Sesa of Vasudeva. I find my essence, existence and activities to be dependent on Him. He is superior over all others on account of His innumerable auspicious attributes.' Conseent to this knowledge he resorts to Me, i.e., meditates on Me, realising, 'Vasudeva alone is my highest end and also the means for attaining it, and whatever other desire remains in the mind, He alone is all that too for me'. Such a great-souled person, i.e., great-minded man is hard to find. It is very hard to find such persons in this world. This is the only meaning of the statement that 'Vasudeva is all,' because of the topic having been begun with the statements: 'For I am very dear to the man of knowledge' (7.17) and 'For he, integrated, is devoted to Me alone as the highest end' (7.18). It is so, also because that Jnanin whose traits are given here, possesses the same alities as the man of knowledge described earlier. For, it has been said that the two Prakrtis, the animate and the inanimate, have their sole essence in being the Sesa (dependants) of the Supreme Person in the verses beginning with 'Earth, water' (7.4) and ending with, 'Ego-sense, thus My Prakrti is divided eightfold. This is my lower (Prakrti). But know that which is other than this (lower nature) and forms the life-principle to be the higher Prakrti' (7.4-5). Then take the beginning from 'I am the origin and dissolution of the whole universe. There is nothing higher than Myself, O Arjuna' (7.6-7), and ending with, 'Know that all the states of Sattva, Rajas and Tamas are from Me alone. But I am not in them. They are in Me' (7.12). It has been declared in these texts that the two Prakrtis, both in their states of cause and effect, depend upon Him for their essence, existence and activities and that the Supreme Person is superior to everything in all respects. Therefore the knower of this truth alone is here spoken of as a man of knowledge or as one knowing 'All this is Vasudeva.' \[The purpose of this explanation is to eliminate any pure monistic slant to this passage.\] Sri Krsna now explains the rarity of finding such a person of knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ज्ञानी पुनरपि स्तूयते -
 
@@ -148,12 +151,14 @@ this is verily Vasudeva, the Self, is being stated:
 मनुष्याणां सहस्रेषु दुःखेनापि लब्धुमशक्यः अतः स निरतिशयमत्प्रीतिविषय इति
 युक्तमेवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.19॥ बहूनां जन्मनामन्ते ज्ञानवान्भवति। तच्चोक्तं ब्राह्म
 बहुभिर्जन्मभिर्ज्ञात्वा ततो मां प्रतिपद्यते इति।
@@ -165,12 +170,14 @@ this is verily Vasudeva, the Self, is being stated:
 बहुजन्मव्यवधानमुच्यत इति निरासार्थमाह **बहूनामि**ति। प्रतीतमेव किं न
 स्यात् इत्यत आह **तच्चे**ति। ततस्तदैव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.16 7.19॥ चतुर्विधा इत्यादि सुदुर्लभ इत्यन्तम्। ये तु मां भजन्ते ते सुकृतिनः। ते च चत्वारः। सर्वे चैते उदाराः। यतः अन्ये कृपणबुद्धयः आर्त्तिनिवारणम् अर्थादि च तुल्यपाणिपादोदरशरीरसत्त्वेभ्योऽधिकतरं वा आत्मन्यूनेभ्यो मार्गयन्ते। ज्ञान्यपेक्षया तु ते न्यूनसत्त्वाः यतः तेषां तावत्यपि भेदोऽस्ति भगवतः इदमहमभिलष्यामि इति भेदस्य स्फुटप्रतिभासात्। ज्ञानी तु मामेवाभेदतया अवलम्बते इति +++(S omits इति)+++ ततोऽहमभिन्न एव। तस्य च अहमेव प्रियः न तु फलम्। अत एव स वासुदेव एव सर्वम् इत्येव +++(S वासुदेवः सर्वमेवम्)+++ दृढप्रतिपत्तिपवित्रीकृतहृदयः।
 </details>
@@ -179,12 +186,14 @@ this is verily Vasudeva, the Self, is being stated:
 
 7.16-19 Caturvidhah etc., upto sudurlabhah. Those who worship Me are men of good action. They are of four types. All these are noble ones. For, other persons, mean-minded as they are, beg a cure of their affliction, and money etc., from persons who have hands, feet, stomach, body and intelligence (or bodily strength) that are eal to their (the beggers) own, or even from those who are very much inferior. But, by comparison with the man of wisdom, \[the other three under estion\] are of inferior intelligence. For, they entertain, at that sage too, a sense of duality. Becuase, a sense of duality 'I seek this from the Bhagavat' is clearly discernible in them. On the other hand, the man of wisdom hangs on Me alone with a sense of identity \[of him with Me\]. Hence, I am verily indentical with him. It is I alone, and not \[any other\] gain, that is dear to him. That is why he is having a mind purified by the firm conviction 'All is nothing but Vasudeva'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.19॥ एवम्भूतोऽतिदुर्लभ इत्याह बहूनामिति। आत्मज्ञानं तु
 कदाचिदेकजन्मन्यपि सिद्धं भवति भगवज्ज्ञानं तु न तथेति ततोऽपि
@@ -210,20 +219,26 @@ this is verily Vasudeva, the Self, is being stated:
 महान् मदर्थमेव अहमेव वा आत्मा तादृशः स दुर्लभोऽप्राप्य इत्यर्थः। यद्वा
 दुःखेन क्लेशेन भगवानिव लभ्य इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.19॥ एवंभूतो मद्भक्तोऽतिदुर्लभ इत्याह **बहूनामिति।** बहूनां जन्मनां
 किंचित्किंचित्पुण्योपचयेनान्ते चरमे जन्मनि ज्ञानवान्सन्सर्वमिदं चराचरं
 वासुदेव एवेति सर्वात्मदृष्ट्या मां प्रपद्यते भजति अतः स
 महात्माऽपरिच्छिन्नदृष्टिः सुदुर्लभः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.19 At the end of many births, the man of knowledge finds refuge in Me,
@@ -259,11 +274,13 @@ is very hard to find.
 the wise; माम् to Me; प्रपद्यते approaches; वासुदेवः Vaasudeva; सर्वम्
 all; इति thus; सः he; महात्मा the great soul; सुदुर्लभः (is) very hard to find.Commentary Vaasudeva is a name of Lord Krishna as He is the son of Vasudeva. He is the allpervading Brahman.The aspirant gradually evolves through Yogic practices; selfless service; devotion and constant meditation in many births and ultimately attains the inner Self. He realises that all is Vaasudeva. It is very difficult to find such a great soul; who has attained to perfection. No one is eal to him. That is the reason why the Lord has said; One in a thousand perchance strives for perfection even among those successful strivers; only one perchance knows Me in essence. (Cf.VII.3.)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.19।। बहुत जन्मोंके अन्तमें अर्थात् मनुष्यजन्ममें 'सब कुछ परमात्मा ही
@@ -663,6 +680,7 @@ all; इति thus; सः he; महात्मा the great soul; सुद�
 ।।7.19।। बहुत जन्मों के अन्त में (किसी एक जन्म विशेष में) ज्ञान को
 प्राप्त होकर कि 'यह सब वासुदेव है' ज्ञानी भक्त मुझे प्राप्त होता है; ऐसा
 महात्मा अति दुर्लभ है।।
+</details>
 </details>
 
 </div>

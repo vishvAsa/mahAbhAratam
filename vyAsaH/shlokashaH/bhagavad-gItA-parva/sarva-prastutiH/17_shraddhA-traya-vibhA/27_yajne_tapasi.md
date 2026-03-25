@@ -23,8 +23,9 @@ title = "27 यज्ञे तपसि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.27॥ अतो वैदिकानां त्रैवर्णिकानां **यज्ञे तपसि दाने च स्थितिः** कल्याणतया **सद् इत्य् उच्यते। कर्म च** **तदर्थीयं** त्रैवर्णिकार्थीयं यज्ञदानादिकं **सद् इत्य् एव अभिधीयते। तस्माद् वेदा वैदिकानि कर्माणि ब्राह्मणशब्दनिर्दिष्टास् त्रैवर्णिकाश् चओं तत् सद् इति शब्दान्वयरूपलक्षणेन अवेदेभ्यश् च अवैदिकेभ्यश् च व्यावृत्ता वेदितव्याः।**
@@ -39,12 +40,14 @@ title = "27 यज्ञे तपसि"
 
 17.27 Therefore, devotion of persons of the first three stations who follow the Vedas in respect of sacrifices, austerities and gifts is called Sat, since it is auspicious. So the Vedas, Vedic acts and the three stations, expressed by the term 'brahmana,' since they are characterised by their connection with the words 'Om Tat Sat,' are to be distinguished from what are not the Vedas and Vedic.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.27॥ --,**यज्ञे** यज्ञकर्मणि या स्थितिः; **तपसि** च या स्थितिः; **दाने च** या **स्थितिः;** सा **सत् इति च उच्यते** विद्वद्भिः। **कर्म च एव** **तदर्थीयं** यज्ञदानतपोऽर्थीयम् अथवा; यस्य अभिधानत्रयं प्रकृतं तदर्थीयं यज्ञदानतपोऽर्थीयम् ईश्वरार्थीयम् इत्येतत् **सत् इत्येव** **अभिधीयते।** तत् एतत् यज्ञदानतपआदि कर्म असात्त्विकं विगुणमपि श्रद्धापूर्वकं ब्रह्मणः अभिधानत्रयप्रयोगेण सगुणं सात्त्विकं संपादितं भवति॥ तत्र च सर्वत्र श्रद्धाप्रधानतया सर्वं संपाद्यते यस्मात्; तस्मात्
 --,
@@ -114,12 +117,14 @@ therefore-
 यस्यैकैकोऽवयवोऽप्येतादृशः किमु वक्तव्यं तत्समुदायस्योंतत्सदिति
 निर्देशस्य माहात्म्यमिति संपिण्डितार्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.27॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -129,12 +134,14 @@ therefore-
 ॥17.27॥ यज्ञे तपसि ৷৷. कर्म चैव इत्यनेन यज्ञादिषु सच्छब्दो व्याख्यातः।
 तेन ब्रह्मविषयत्वेन निष्ठया चेति लब्धम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.23 -- 17.27॥ इदानीं ये गुणत्रितयसंकटोत्तीर्णधियः ते क्रियां कथमाचरन्ति इति तादृक़्प्रकार उच्यते -- ओमित्यादि अभिधीयते इत्यन्तम्। ओं तत् सत् इत्येभिस्त्रिभिः शब्दैर्ब्रह्मणो निर्देशः; संमुखीकरणम्। तत्र ओम् इत्यनेन शास्त्रार्थोऽयमादेहसंबन्धमूरीकार्य इति सूच्यते। तत् इति सर्वनामपदेन सामान्यमात्राभिधायिना विशेषपरामर्शमात्रासमर्थेन फलानभिसंधानं ब्रह्मण्युच्यते अभिसंधानस्य विशेषपरिग्रहमन्तरेण अभावात् सकलविशेषानुग्राहित्वेऽपि सकलफलसंधाने सर्वकर्तृतायामपि विशिष्टफलायोगात्। सत् इत्यमुया श्रुत्या प्रशंसा अभिधीयते। क्रियमाणमपि इदं यज्ञादिकं दुष्टम् इति बुद्ध्या क्रियमाणं तामसतामेति। विशिष्टफलाभिसंधानेन च क्रियमाणं न च सत्; बन्धाधायकमेवेति। तस्मात् कर्तव्यमिदम् इति मन्वानाः \[ फलविशेषमनभिसंदधानाः \] यज्ञादि कुर्वाणा अपि न बध्यन्ते। अनेनैवाभिप्रायेण आदिपर्वण्युक्तम् -- तपो न कल्कोऽध्ययनं न कल्कः  
   
@@ -151,12 +158,14 @@ therefore-
 
 17.23-27 Om etc. upto abhidhiyate. An indication of the Brahman i.e., an act of facing (or aiming at) the Brahman is made by these three words viz., OM, TAT and SAT. Of them, Om indicates that 'This purport of the scriptures is \[to be ;\] accepted as long as one has bodily connection'. The pronoun TAT, which denotes generality and which is incapable of denoting exclusively a particular, mentions, as far as the Brahman is concerned, the absence of intention for fruit. An intention is not possible without reference to something particular. No doubt \[TAT\] may denote all particulars \[in general\]. But it would lead to intending the fruits and the doer-ship with regard to all \[in general\]. Even then \[the Brahman\] cannot have connection with any particular fruit. The Vedic word SAT denotes 'prasie'. The act, like this sacrifice etc., though perormed, truns out to be an act of the Tams (evil act) if it is performed with the idea, 'It is an evil act'. Further, what is performed with an intention for a particular fruit is not praiseworthy, and it causes nothing but bondage. Therefore, those, who bear in mind, 'This is a thing to be performed' - they are not fettered, even though they perform acts like sacrifice etc. With this idea only, it has been said in the Adiparvan as - 'The austerity is not dirt, nor the \[Vedic\] study, nor the natural ritual enjoined by the Vedas, and nor the act of earning wealth by all efforts. But, if they are struck by mind, they themselves become dirt.' (MB, Adi. i, 210). \[Here in this passage\] dirt that which fetters. Natural : \[That is, ordained \], such as - 'Without expecting anything, a Brahman should learn the Vedas etc., together with their six subsidiaries' etc. By all effort : by the act that is suitable and is well known in the scriptures and in the worldly practice. By mind : by the mind that is yoked to the traid of the Strands, Sattva etc. \[Those actions that\] have been simply ruined \[by that mind\], are binding and not otherwise. This is the idea here. Therefore, the acts like sacrifice etc., and the acts, like aciring \[Wealth\] etc., for that purpose, have to be perfored as being inevitable as long as the body exists. Or, perhaps, the word OM conveys \[with regard to the Brahman\] the idea of That in Which the entire universe has been totally calmed down. TAT conveys the idea of That of the nature of Sovereign Independence of Will, which is nothing but comprehending the rising waves in the form of the universe. And the word SAT denotes the act of manifestation by the Brahman - even though It is complete in Itself - as \[the universe\] having varied nature, a manifestation that causes differences (or duality) expanding under the weight of its Sovereign Independenc of Will. Hence it has been said 'In the sense of manifesting as beings and in the sense of manifesting perfectly \[SAT is employed\].' Thus, having is front \[as a casue\] that aspect (the Soul) of highly tranil nature; and having in the centre that aspect which is well connected with desire-waves viz., the desire to make gift, the desire to perform sacrifice and the desire to observe penance; this final body radiates (or dances) filled with a group of activities, such as offering gift, performing sacrifice and observing austerity, and of what are conducive to them. This triad is indeed simultaneously the inherent nature of the Unhindered One (the Soul). So, what fruit could be there ; And to whom ; How ; Whence ; Where ; And by what means ; The act of person, with no faith, is an act of the Tamas and bears no fruit in any way and bears fruit which is nothing but the labour undertaken in bringing together the band of means \[of those acts\]. Hence one should not on any account remain faithless. This is being said now :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.27॥ किञ्च यज्ञ इति। तपसि दाने च स्थितिः सदिति चोच्यते।
 स्थादिधातुगणे भुवो व्यापकत्वं; तदनुकृञश्चेति यज्ञपत्युपाध्यायाः प्रोचुः।
@@ -174,10 +183,13 @@ therefore-
 तदर्थीयमेव कर्म यस्यैतन्नामत्रयं तस्य भगवत एव अर्थीयं सेवादिसामग्री
 सम्पादनरूपं सदित्येव अभिधीयते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.27॥ किंच **-- यज्ञ इति।** यज्ञादिषु च या स्थितिस्तात्पर्येणावस्थानं
 तदपि सदित्युच्यते। यस्य चेदं नामत्रयं स एव परमात्मा अर्थः फलं यस्य
@@ -192,10 +204,13 @@ therefore-
 तत्तुसद्भावे साधुभावे च इत्यादिषु प्राप्तार्थत्वान्न संगच्छत इति
 पूर्वोक्तक्रमेण विधिकल्पनैव ज्यायसी।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.27 Devotion to sacrifice, austerities and gifts is also called Sat;
@@ -232,11 +247,13 @@ action; च and; एव also; तदर्थीयम् in connection with the
 feeling and devotion; you will attain perfection and success in the action.Even the imperfect and nonSattvic acts of sacrifice; austerity and gift will be turned into perfect and Sattvic ones.These Sacrifice;
 austerity and gift.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.27।। यज्ञ, तप और दानरूप क्रियामें जो स्थिति (निष्ठा) है, वह भी 'सत्'
@@ -313,6 +330,7 @@ austerity and gift.
 
 ।।17.27।। यज्ञ, तप और दान में दृढ़ स्थिति भी सत् कही जाती है, और उस
 (परमात्मा) के लिए किया गया कर्म भी सत् ही कहलाता है।।
+</details>
 </details>
 
 </div>

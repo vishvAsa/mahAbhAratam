@@ -23,8 +23,9 @@ title = "33 अक्षराणामकारोऽस्मि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.33॥**अक्षराणां** मध्येअकारो वै सर्वा वाक् (ऐ॰ पू॰ 3।6) इति श्रुतिसिद्धः; सर्ववर्णानां प्रकृतिः **अकारः** अहम्; सामासिकः समासमूहः; तस्य मध्ये द्वन्द्वसमासो ऽहं स ह्य् उभयपदार्थप्रधानत्वेन उत्कृष्टः। कलामुहूर्तादिमयः **अक्षयः कालो ऽहम् एव** सर्वस्य स्रष्टा हिरण्यगर्भश् चतुर्मुखः **अहम्।**
@@ -39,12 +40,14 @@ title = "33 अक्षराणामकारोऽस्मि"
 
 10.33 Of letters I am the alphabet 'a', which is the base of all letters as established in the Sruti: 'The letter 'a' itself is all speech' (Ai. Ai., 3.2.3). Samasika means collection of compound words. In it, I am the Dvandva compound; it is eminent because the meanings of both constituent terms are important. I am Myself imperishable Time composed of (divisions like) Kala, Muhurta etc. I am the four-faced Hiranyagarbha who is the creator of all.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.33॥ --,**अक्षराणां** वर्णानाम् **अकारः** वर्णः **अस्मि। द्वन्द्वः** समासः अस्मि **सामासिकस्य** च समाससमूहस्य। किञ्च **अहमेव अक्षयः** अक्षीणः **कालः** प्रसिद्धः क्षणाद्याख्यः; अथवा परमेश्वरः कालस्यापि कालः अस्मि। **धाता अहं** कर्मफलस्य विधाता सर्वजगतः **विश्वतोमुखः** सर्वतोमुखः॥
 </details>
@@ -129,12 +132,14 @@ with faces everwhere.
 उक्तभेदः। कर्मफलविधातॄणां मध्ये विश्वतोमुखः सर्वतोमुखो धाता
 सर्वकर्मफलदातेश्वरोऽहमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.33॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -143,12 +148,14 @@ with faces everwhere.
 
 ॥10.33॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -157,12 +164,14 @@ with faces everwhere.
 
 10.33 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.33॥ अक्षराणामिति। अकारो वासुदेववाचकः। अकारो वै सर्वा वाक्
 \[ऐ.पू.3।6\] इति श्रुतेः। समासगणस्य मध्ये द्वन्द्वोऽहं
@@ -179,10 +188,13 @@ with faces everwhere.
 मध्ये विश्वतोमुखः सर्वतोमुखश्चतुर्मुखो धाता
 अलौकिकसृष्टिकर्त्ताऽहमस्मीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.33॥ **अक्षरेति।** अक्षराणां वर्णानां मध्येऽकारोऽस्मि; तस्य
 सर्ववाङ्मयत्वेन श्रेष्ठत्वात्। तथाच श्रुतिःअकारो हि सर्वा वाक्सैषा
@@ -194,10 +206,13 @@ with faces everwhere.
 इति विशेषः। कर्मफलविधातॄणां मध्ये विश्वतोमुखो धाता।
 सर्वकर्मफलविधाताहमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.33 Of letters, I am the alphabet 'a'. Of compound words, I am the Dvandva (copulative). I am Myself imperishable Time. I am the Creator,
@@ -232,11 +247,13 @@ facing on all sides.
 verily; अक्षयः the inexhaustible or everlasting; कालः time; धाता the dispenser; अहम् I; विश्वतोमुखः the Allfaced (or having faces in all directions).Commentary Among the alphabets I am the letter A. Among the various kinds of compounds used in Sanskrit language I am the Dvandva
 (union of the two); the copulative.Time here refers to the moment; the ultimate element of time or to Paramesvara; the Supreme Lord Who is the time of even time; since He is beyond time.As the Supreme Being is allpervading it is said that He has faces in all directions.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.33।। अक्षरोंमें अकार और समासोंमें द्वन्द्व समास मैं हूँ। अक्षयकाल
@@ -298,6 +315,7 @@ verily; अक्षयः the inexhaustible or everlasting; कालः time; 
 
 ।।10.33।। मैं अक्षरों (वर्णमाला) में अकार और समासों में द्वन्द्व (नामक
 समास) हूँ; मैं अक्षय काल और विश्वतोमुख (विराट् स्वरूप) धाता हूँ।।
+</details>
 </details>
 
 </div>

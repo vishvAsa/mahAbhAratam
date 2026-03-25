@@ -23,8 +23,9 @@ title = "07 तेषामहं समुद्धर्ता"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.7॥**ये तु** लौकिकानि देहयात्राशेषभूतानि देहधारणार्थानि च अशनादीनि **कर्माणि;** वैदिकानि च यागदानहोमतपःप्रभृतीनि **सर्वाणि** सकारणानि सोद्देश्यान्य् अध्यात्मचेतसा **मयि सन्न्यस्य;** **मत्पराः** मदेकप्राप्याः,**अनन्येन एव योगेन मां ध्यायन्त उपासते;** ध्यानार्चनप्रणामस्तुतिकीर्तनादीनि स्वयम् एव अत्यर्थप्रियाणि प्राप्यसमानि कुर्वन्तो माम् उपासते इत्यर्थः। **तेषां** मत्प्राप्तिविरोधितया मृत्युभूतान् **संसारा**ख्यात् **सागराद् अहम्** अचिरेण एव कालेन **समुद्धर्ता भवामि।**
@@ -39,12 +40,14 @@ title = "07 तेषामहं समुद्धर्ता"
 
 12.6 - 12.7 But those who, with a mind 'focused on Me,' the Supreme Self, and 'intent upon Me,' namely, holding Me as their sole object, dedicating to Me all their actions - i.e., including all worldly actions like eating which are meant for supporting the body, as also Vedic rites like sacrifices, gifts, fire-offerings, austerities etc., generally done by worldly-minded people for other purposes - worship Me and meditate on Me with exclusive devotion, namely, with devotion without any other purpose, adoring Me by all such acts as meditation, worship, prostration, praises and hymns which are by themselves exceedingly dear to them and are eal to the end itself - to these I become soon their saviour from the sea of Samsara which, on account of its being antagonistic to the attainment of Myself, is deadly.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥12.7॥ --,**तेषां** मदुपासनैकपराणाम् **अहम्** ईश्वरः **समुद्धर्ता।** कुतः इति आह -- **मृत्युसंसारसागरात्** मृत्युयुक्तः संसारः मृत्युसंसारः; स एव सागर इव सागरः; दुस्तरत्वात्; तस्मात् मृत्युसंसारसागरात् अहं तेषां समुद्धर्ता **भवामि न चिरात्।** किं तर्हि क्षिप्रमेव हे **पार्थ; मयि आवेशितचेतसां** मयि विश्वरूपे आवेशितं समाहितं चेतः येषां ते मय्यावेशितचेतसः तेषाम्॥
 </details>
@@ -144,12 +147,14 @@ is so, therefore,
 सर्वबाधावधिभूते शुद्धे ब्रह्मणि धर्ता धारयिता ज्ञानावष्टम्भदानेन भवामि
 नचिरात् क्षिप्रमेव तस्मिन्नेव जन्मनि। हे पार्थेति संबोधनमाश्वासार्थम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.6 -- 12.7॥ मदुपासकानां भक्तानां न कश्चित्क्लेश इति दर्शयति -- ये
 त्वित्यादिना। उक्तं च सौकरायणश्रुतौ -- उपासते ये पुरुषं
@@ -170,12 +175,14 @@ is so, therefore,
 अत्र श्रुत्यादिसम्मतिं चाह -- **उक्तं चे**ति। तेषामार्तादीनां मध्ये गतिः
 साधनादिसम्पादकः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.6 -- 12.8॥ येत्वित्यादि आस्थित इत्यन्तम्। प्रागुक्तोपदेशेन +++(S प्रागुपदेशेन)+++ तु ये सर्वं मयि संन्यस्यन्ति; तेषामहं समुद्धर्त्ता सकलविघ्नादिक्लेशेभ्यः। चेतस आवेशनं व्याख्यातम्। तथा च एष एवोत्तमो योगः; अकृत्रिमत्त्वात्। तथा च मम स्तोत्रे -- विशिष्टकरणासनस्थितिसमाधिसंभावना  
   
@@ -202,12 +209,14 @@ is so, therefore,
 
 12.7 See Comment under 12.8
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.7॥ तेषां तादृशानामहं तत्सन्बध्येवाहमित्यर्थःअहं भक्तपराधीनो
 ह्यस्वतन्त्र इव द्विज। वशे कुर्वन्ति मां भक्त्या सत्सि्त्रयः सत्पतिं यथा
@@ -231,18 +240,24 @@ is so, therefore,
 अलौकिकभजनौपयिक स्वरूपदानेन उद्धर्ता। न चिरात् शीघ्रमेवाऽहं भवामि;,ध्याने
 मूर्तौ वा प्रकटो भवामीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.7॥ **तेषामिति।** एवं मय्यावेशितं चेतो यैस्तेषां
 मृत्युयुक्तात्संसारसागरादहं सम्यगुद्धर्ता अचिरेणैव भवामि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.7 Of those whose minds are thus focused on Me, I become soon their saviour from the ocean of mortal life.
@@ -275,11 +290,13 @@ before long, a redeemer from the ocean of the death-cycle, O son of Prtha !
 out of the ocean of the mortal Samsara; भवामि (I) become; नचिरात् ere long; पार्थ O Arjuna; मयि in Me; आवेशितचेतसाम् of those whose minds are set.Commentary Mortal Samsara The round of birth and death. The devotee who does total; unconditional; and ungrudging selfsurrender to the Lord;
 who places himself completely at the mercy of the Lord; and who fixes of actions by offering them to the Lord and who thus destroys any power in the actions to bear fruit; and who has abandoned even the idea of liberation; is soon lifted by the Lord from the mortal plane to the abode of Immortality.I redeem such persons who have become Macchitta i.e.; mind united with Me; from the ocean of the mortal world or worldly life; without delay. (Cf.X.10.11XII.6and7)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.7।। हे पार्थ ! मेरेमें आविष्ट चित्तवाले उन भक्तोंका मैं मृत्युरूप
@@ -366,6 +383,7 @@ who places himself completely at the mercy of the Lord; and who fixes of actions
 
 ।।12.7।। हे पार्थ ! जिनका चित्त मुझमें ही स्थिर हुआ है ऐसे भक्तों का मैं
 शीघ्र ही मृत्युरूप संसार सागर से उद्धार करने वाला होता हूँ।।
+</details>
 </details>
 
 </div>

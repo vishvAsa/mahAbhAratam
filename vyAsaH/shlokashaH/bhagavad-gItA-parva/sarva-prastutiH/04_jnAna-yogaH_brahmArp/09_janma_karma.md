@@ -23,8 +23,9 @@ title = "09 जन्म कर्म"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.9॥ एवं कर्ममूलभूतहेयत्रिगुणप्रकृतिसंसर्गरूपजन्मरहितस्य सर्वेश्वरत्वसर्वज्ञत्वसत्यसङ्कल्पत्वादिसमस्तकल्याणगुणोपेतस्य साधुपरित्राणमत्समाश्रयणैकप्रयोजनं दिव्यम् अप्राकृतं मदसाधारणं मम **जन्म** चेष्टितं **च तत्त्वतः यो वेत्ति स** वर्तमानं **देहं** परित्यज्य **पुनः जन्म न एति माम् एव प्राप्नोति। मदीयदिव्यजन्मचेष्टितयाथात्म्यविज्ञानेन विध्वस्तसमस्तमत्समाश्रयणविरोधिपाप्मा अस्मिन् एव जन्मनि यथोदितप्रकारेण माम् आश्रित्य मदेकप्रियो मदेकचित्तो माम् एव प्राप्नोति। तद् आह**
@@ -39,12 +40,14 @@ title = "09 जन्म कर्म"
 
 4.9 He who knows truly My life and actions, super-natural and special to Me, which are intended solely for the protection of the good and to enable them to take refuge in Me, - Me who am devoid of birth, unlike ordinary beings whose birth is caused by Karma associated with Prakrti and its three Gunas producing the evil of bondage, and who is endowed with auspicious attributes such as Lordship over all, omniscience, infallible will etc., - such a person after abandoning the present body will never be born, but will reach Me only. By true knowledge of My divine birth and acts, all his sins that stand in his way of taking refuge in Me are destroyed. In this birth itself, resorting to Me in the manner already described, and loving Me and concentrating on Me alone, he reaches Me. Sri Krsna speaks of the same thing:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.9॥ **जन्म** मायारूपं **कर्म च** साधूनां परित्राणादि **मे** मम **दिव्यम्** अप्राकृतम् ऐश्वरम् **एवं** यथोक्तं **यः वेत्ति तत्त्वतः** तत्त्वेन यथावत् **त्यक्त्वा देहम्** इमं **पुनर्जन्म** पुनरुत्पत्तिं न **एति** न प्राप्नोति। **माम् एति** आगच्छति सः मुच्यते हे **अर्जुन**॥ नैष मोक्षमार्ग इदानीं प्रवृत्तः किं तर्हि पूर्वमपि
 </details>
@@ -107,12 +110,14 @@ earlier days-
 तत्त्वस्फुरणात् त्यक्त्वा देहमिमं पुनर्जन्म नैति किंतु मां भगवन्तं
 वासुदेवमेव सच्चिदानन्दघनमेति। संसारान्मुच्यत इत्यर्थः। हे अर्जुन।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.9॥ पृथङ्मुक्त्युक्तिर्हि सर्वज्ञानि(न)नियमदर्शनार्थम्। न तु
 तावन्मात्रेण मुक्तिरित्युक्तम् 3।20। वेदाद्युक्तं तु सर्वं यो
@@ -142,12 +147,14 @@ earlier days-
 अन्यत्रापिएको भावस्तत्त्वतो येन दृष्टः सर्वे भावास्तत्त्वतस्तेन दृष्टाः
 इति। सर्वत्र सार्वज्ञं यथाशक्ति विवक्षितमित्यवधेयम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.5 4.9॥ बहूनि इत्यादि अर्जुन इत्यन्तम्। श्रीभगवान् किल पूर्णषाड्गुण्यत्वात् शरीरसंपर्कमात्ररहितोऽपि स्थितिकारित्वात् कारुणिकतया आत्मांशं सृजति। आत्मा पूर्णषाड्गुण्यः अंशः उपकारकत्वेन अप्रधानभूतो +++(N omit अ)+++ यत्र तत् आत्मांशं शरीरं गृह्णाति इत्यर्थः। अत एवास्य जन्म दिव्यम् यत आत्ममायया योगप्रज्ञया स्वस्वातन्त्रयशक्त्या +++(omits स्व)+++ आरब्धम् न कर्मभिः। कर्मापि दिव्यम् फलदानासमर्थत्वात्। यश्चैवमेतत्तत्त्वं वेत्ति आत्मन्यप्येवमेव मन्यते सोऽवश्यं भगवद्वासुदेवतत्त्वं जानाति।
 </details>
@@ -156,12 +163,14 @@ earlier days-
 
 4.5-9 Bahuni etc. upto Arjuna. Indeed the Bhagavat is Himself devoid of all bodily connections on account of His having the group of the 'six attributes' in toto. Yet, out of His nature of stabilising \[the universe\], and out of compassion, He sends forth (or creates) that is which the Self is secondary. The meaning is this : He takes hold of a body, in which the Self, with the group of 'six alities' in full, remains secondary because of Its role as a helper of the body. On account of this, His birth is divine. For, it has been created not by the results of actions, but by His own Trick-of-Illusion, by the highest knowledge of Yoga, and by the energy of Freedom of His own. His action too is divine, as it is incabable of yielding fruits \[for Him\]. Whosoever knows this truth in this manner i.e., realises in his own Self also in this manner, he necessarily understands the Bhagavat Vasudeva beng.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.9॥ किञ्च उत्पत्तिस्त्रिधा। यथोक्तंवैष्णवतन्त्रेअनित्ये जननं नित्ये
 परिच्छिन्ने समागमः। नित्यापरिच्छिन्नतनौ प्राकट्यं चेति सा त्रिधा इति।
@@ -208,20 +217,26 @@ earlier days-
 मामित्युक्तं न तु मत्पदं मद्भावं वा एतादृशस्य दुर्लभत्वात्स
 इत्येकवचनमुक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.9॥ एवंविधानामीश्व रजन्मकर्मणां ज्ञाने फलमाह **जन्मकर्मेति।** मे जन्म
 स्वेच्छाकृतं कर्म च धर्मपालनरूपं दिव्यमलौकिकं तत्त्वतः
 परानुग्रहार्थमेवेति यो वेत्ति स देहाभिमानं त्यक्त्वा पुनर्जन्म नैति न
 प्राप्नोति किंतु मामेव प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.9 He who thus knows in truth My divine birth and actions does not get rirth after leaving the body; he will come to Me, O Arjuna.
@@ -256,11 +271,13 @@ who; वेत्ति knows; तत्त्वतः in true light; त्य
 देहम् the body; पुनः again; जन्म birth; नः not; एति gets; माम् to Me;
 एति comes; सः he; अर्जुन O Arjuna.Commentary The Lord; though apparently born; is always beyond birth and death though apparently active for firmly establishing righteousness; He is ever beyond all actions. He who knows this is never born again. He attains knowledge of the Self and becomes liberated while living.The birth of the Lord is an illusion. It is Aprakrita (beyond the pale of Nature). It is divine. It is peculiar to the Lord. Though He appears in human form; His body is Chinmaya (full of consciousness; not inert matter as are human bodies composed of the five elements).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.9।। हे अर्जुन ! मेरे जन्म और कर्म दिव्य हैं। इस प्रकार (मेरे जन्म और
@@ -325,6 +342,7 @@ who; वेत्ति knows; तत्त्वतः in true light; त्य
 ।।4.9।। हे अर्जुन ! मेरा जन्म और कर्म दिव्य है, इस प्रकार जो पुरुष
 तत्त्वत: जानता है, वह शरीर को त्यागकर फिर जन्म को नहीं प्राप्त होता;
 वह मुझे ही प्राप्त होता है।।
+</details>
 </details>
 
 </div>

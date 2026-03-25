@@ -23,8 +23,9 @@ title = "02 ज्ञानन् तेऽहम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.2॥**अहं ते** मद्विषयम् **इदं ज्ञानं** विज्ञानेन सह **अशेषतो वक्ष्यामि।** **विज्ञानं** हि विविक्ताकारविषयं ज्ञानं यथा अहं मद्व्यतिरिक्तात् समस्तचिदचिद्वस्तुजातान् निखिलहेयप्रत्यनीकतया अनवधिकातिशयासख्येकल्याणगुणगणानन्तमहाविभूतितया च विविक्त तेन विविक्तविषयज्ञानेन सह मत्स्वरूपविषयज्ञानं वक्ष्यामि। किं बहुना यद् ज्ञानं ज्ञात्वा मयि पुनो ऽन्यद् ज्ञातव्यं न अवशिष्यते। वक्ष्यमाणस्य ज्ञानस्य दुष्प्रापताम् आह
@@ -45,12 +46,14 @@ title = "02 ज्ञानन् तेऽहम्"
 
 7.2 I will declare to you in full this knowledge having Me for its object, along with Vijnana or distinguishing knowledge. Vijnana is that knowledge of God in which His nature is distinguished form all things. I am distinguished from all things, animate and inanimate, as the only Being opposed to all that is evil and endowed with infinitely great manifestation of countless multiples of attributes of all kinds which are auspicious, unsurpassed and without limit. I will declare to you that knowledge which has My essence as its object. Why say much; I shall declare to you that knowledge knowing which nothing else remains to be known again in relation to Myself. Sri Krsna declares that this knowledge, which will now be taught, is difficult to attain:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.2॥ **ज्ञानं ते** तुभ्यम् **अहं सविज्ञानं** विज्ञानसहितं स्वानुभवयुक्तम् **इदं वक्ष्यामि** कथयिष्यामि **अशेषतः** कात्स्न्र्येन। तत् ज्ञानं विवक्षितं स्तौति श्रोतुः अभिमुखीकरणाय **यत् ज्ञात्वा** यत् ज्ञानं ज्ञात्वा न **इह भूयः** पुनः अन्यत् **ज्ञातव्यं** पुरुषार्थसाधनम् **अवशिष्यते** नावशिष्टं भवति। इति मत्तत्त्वज्ञो यः सः सर्वज्ञो भवतीत्यर्थः। अतो विशिष्टफलत्वात् दुर्लभं ज्ञानम्॥ कथमित्युच्यते
 </details>
@@ -151,12 +154,14 @@ How so; This is being answered:
 सर्वाधिष्ठानसन्मात्रज्ञानेन कल्पितानां सर्वेषां बाधे
 सन्मात्रपरिशेषात्तन्मात्रज्ञानेनैव त्वं कृतार्थो भविष्यसीत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.2॥ इदं मद्विषयं ज्ञानम्। विज्ञानं विशेषज्ञानम्।
 </details>
@@ -169,12 +174,14 @@ How so; This is being answered:
 विज्ञानपदार्थमाह **विज्ञानमि**ति। अस्यैव वक्ष्यमाणत्वादपरस्य तदभावादिति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.1 7.2॥ मय्यासक्तेति ज्ञानमिति। ज्ञानविज्ञाने ज्ञानक्रिये एव। ततो न किञ्चिदवशिष्यते सर्वस्य ज्ञेयजातस्य ज्ञानक्रियानिष्ठत्वात्।
 </details>
@@ -183,12 +190,14 @@ How so; This is being answered:
 
 7.1-2 Mayi etc. Jnanam etc. The words jnana and vijnana mean \[respectively\] 'knowledge' and 'action'. There remains nothing apart from these \[two\]. For, all the knowables are rooted in the knowledge and action.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.2॥ वक्ष्यमाणं स्तौति ज्ञानमिति। माहात्म्यविषयकं ज्ञानं विज्ञानं
 विविधतया चिदचिद्रूपतया च तत्तद्विभूतिधर्मरूपतयाऽवान्तरविशेषैश्च
@@ -207,20 +216,26 @@ How so; This is being answered:
 अस्मिन् मद्भक्तिमार्गे भरतखण्डे अस्मिन्मनुष्यजन्मनि वा ज्ञातव्यं न
 अवशिष्यते। एतज्ज्ञानेनैव दास्यानुभवो भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.2॥ वक्ष्यमाणं स्तौति **ज्ञानमिति।** ज्ञानं शास्त्रीयं
 विज्ञानमनुभवस्तत्सहितम्। इदं मद्विषयम्। अशेषतः साकल्येन वक्ष्यामि।
 यज्ज्ञात्वेह श्रेयोमार्गे वर्तमानस्य पुनरन्यज्ज्ञातव्यमवशिष्टं न भवति।
 तेनैव कृतार्थो भवतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.2 I will declare to you in full, this knowledge (of God) along with the knowledge which makes it distinguished (Vijnana), knowing which nothing else remains to be known.
@@ -256,11 +271,13 @@ anything else; ज्ञातव्यम् what ought to be known; अवश�
 remains.Commentary Jnanam is Paroksha Jnanam or indirect knowledge of Brahman obtained through the study of the Upanishads. Vijnanam is Visesha Jnanam; i.e.; Aparoksha Jnanam obtained through direct Selfrealisation (intuitional wisdom).In this verse the Lord praises knowledge in order to make Arjuna follow His instruction closely with rapt attention; faith and interest. The Lord says I shall teach thee in full. You will attain to omniscience or perfect knowledge of the Self;
 after knowing which nothing more remains to be known here. If anyone attains the knowledge of the Self; he will know everything. That is the reason why Saunaka; the great householder; approacehd Angirasa respectfully and asked What is that; O Lord; which being known all this becomes known (Cf.XIII.11)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.2।। तेरे लिये मैं विज्ञानसहित ज्ञान सम्पूर्णतासे कहूँगा, जिसको
@@ -325,6 +342,7 @@ after knowing which nothing more remains to be known here. If anyone attains the
 ।।7.2।। मैं तुम्हारे लिए विज्ञान सहित इस ज्ञान को अशेष रूप से कहूँगा
 जिसको जानकर यहाँ (जगत् में) फिर और कुछ जानने योग्य (ज्ञातव्य) शेष नहीं
 रह जाता है।।
+</details>
 </details>
 
 </div>

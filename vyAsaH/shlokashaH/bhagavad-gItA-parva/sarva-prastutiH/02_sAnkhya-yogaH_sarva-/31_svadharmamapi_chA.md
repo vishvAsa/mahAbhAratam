@@ -25,8 +25,9 @@ title = "31 स्वधर्ममपि चावेक्ष्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.31॥ अपि च इदं प्रारब्धं युद्धं प्राणिमारणम् अप्य् अग्नीषोमीयादिवत् **स्वधर्मम् अवेक्ष्य न विकम्पितुम् अर्हसि धर्म्यात्** न्यायतः प्रवृत्तात् **युद्धाद् अन्यन् न हि क्षत्रियस्य श्रेयो विद्यते।** 
@@ -63,12 +64,14 @@ title = "31 स्वधर्ममपि चावेक्ष्य"
 
 2.31 Further, even though there is killing of life in this war which has begun, it is not fit for you to waver, considering your own duty, as in the Agnisomiya and other sacrifices involving slaughter. To a Ksatriya, there is no greater good than a righteous war, begun for a just cause. It will be declared in the Gita: 'Valour, non-defeat (by the enemies), fortitude, adroitness and also not fleeing from battle, generosity, lordliness - these are the duties of the Ksatriya born of his very nature.' (18.43). In Agnisomiya etc., no injury is caused to the animal to be immolated; for, according to the Vedic Text, the victim, a he-goat, after abandoning an inferior body, will attain heaven etc., with a beautiful body. The Text pertaining to immolation declares: 'O animal, by this (immolation) you will never die, you are not destroyed. You will pass through happy paths to the realm of the gods, where the virtuous only reach and not the sinful. May the god Savitr give you a proper place.' (Yaj. 4.6.9.46). Likewise the attainment of more beautiful bodies by those who die here in this war has been declared in the Gita, 'As a man casts off worn-out garments and takes others that are new ৷৷.' (2.22). Hence, just as lancing and such other operations of a surgeon are for curing a patient, the immolation of the sacrificial animal in the Agnisomiya etc., is only for its good.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.31॥  
   
@@ -185,12 +188,14 @@ righteous; yuddhat, battle.
   
 इत्येतदपि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.31॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -199,12 +204,14 @@ righteous; yuddhat, battle.
 
 ॥2.31॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.32॥ स्वधर्ममिति। स्वधर्मस्य च अनपहार्यत्वात् +++(S N अपरिहार्यत्त्वात्)+++ युद्धविषयः कम्पो न युक्तः।
 </details>
@@ -213,12 +220,14 @@ righteous; yuddhat, battle.
 
 2.31 Sva-Dharmam etc. Because one's duty cannot be avoided, wavering with regard to fighting the war is not proper \[on the part of Arjuna\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.31॥ किञ्च यदुक्तंवेपथुश्च शरीर मे 1।29 इत्यादिधर्मविरुद्धमात्मलक्षमं
 तदप्ययुक्तमित्याह स्वधर्ममिति। धर्मनिष्ठस्य नैतदुचितमित्याह
@@ -233,10 +242,13 @@ righteous; yuddhat, battle.
 धर्म्याद्युद्धादन्यत् क्षत्ति्रयस्य श्रेयो न विद्यते। क्षत्ति्रयाणां
 परलोकादिकं त्वनेनैव भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.31॥ यच्चोक्तमर्जुनेनवेपथुश्च शरीरे मे रोमहर्षश्च जायते इति
 तदप्ययुक्तमित्याह **स्वधर्ममिति।** आत्मनो नाशाभावादेवैतेषां हननेऽपि
@@ -244,10 +256,13 @@ righteous; yuddhat, battle.
 संबन्धः। यच्चोक्तंन च श्रेयोऽनु पश्यामि हत्वा स्वजनमाहवे इत्यादि तत्राह
 **धर्म्यादिति।** धर्मादनपेतान्न्याय्याद्युद्धादन्यत्।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.31 Further, considering also your own duty, it does not befit you to waver. For, to a Ksatriya, there is no greater good than a righteous war.
@@ -281,11 +296,13 @@ for a Ksatriya there exists no duty superior to fighting a righteous war.
 हि indeed; युद्धात् than war; श्रेयः higher; अन्यत् other; क्षत्रियस्य
 of a Kshatriya; न not; विद्यते is.Commentary Lord Krishna now gives to Arjuna wordly reasons for fighting. Up to this time; He talked to Arjuna on the immortality of the Self and gave him philosophical reasons. Now He says to Arjuna; O Arjuna Fighting is a Kshatriyas own duty. You ought not to swerve from that duty. To a Kshatriyta (one born in the warrior or ruling class) nothing is more welcome than a righteous war. A warrior should fight.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.31।। अपने स्वधर्म (क्षात्रधर्म) को देखकर भी तुम्हें विकम्पित अर्थात्
@@ -320,6 +337,7 @@ of a Kshatriya; न not; विद्यते is.Commentary Lord Krishna now gi
 ।।2.31।। और स्वधर्म को भी देखकर तुमको विचलित होना उचित नहीं है, क्योंकि
 धर्मयुक्त युद्ध से बढ़कर दूसरा कोई कल्याणकारक कर्त्तव्य क्षत्रिय के लिये
 नहीं है।।
+</details>
 </details>
 
 </div>

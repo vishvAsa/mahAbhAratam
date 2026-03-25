@@ -23,8 +23,9 @@ title = "36 अवाच्यवादांश्च बहून्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.36॥ शूराणाम् अस्माकं सन्निधौ कथम् अयं पार्थः क्षणम् अपि स्थातुं शक्नुयाद् अस्मत्सन्निधानाद् अन्यत्र ह्य् अस्य सामर्थ्यम् इति **तव सामर्थ्यं निन्दन्तः** शूराणाम् अग्रे **अवाच्यवादान् च बहून् वदिष्यन्ति** तव शत्रवो धार्तराष्ट्राः **ततः** अधिकतरं दुःखं **किं** तव एवंविधावाच्यश्रवणान् मरणम् एव श्रेय इति त्वम् एव मन्यसे।  
@@ -42,12 +43,14 @@ title = "36 अवाच्यवादांश्च बहून्"
 
 2.36 Moreover, your enemies, the sons of Dhrtarastra, will make many remarks unutterably slanderous and disparaging to heroes, saying, 'How can this Partha stand in the presence of us, who are heroes, even for a moment; His prowess is elsewhere than in our presence.' Can there be anything more painful to you than this; You yourself will understand that death is preferable to subjection to disparagement of this kind. Sri Krsna now says that for a hero, enemies being slain by oneself and oneself being slain by enemies are both conducive to supreme bliss.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.36॥  
   
@@ -114,12 +117,14 @@ is no greater pain than it.
 शक्ष्यामीत्यत आह ततः तस्मान्निन्दाप्राप्तिदुःखात्किंनु दुःखतरम्।
 ततोऽधिकं किमपि दुःखं तास्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.36॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -128,12 +133,14 @@ is no greater pain than it.
 
 ॥2.36॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.34 2.38॥ यद्भयाच्च भवान् युद्धात् निवर्तते +++(K निवर्तेत)+++ तदेव शतशाखमुपनिपतिष्यति भवत इत्याह  
 अथ चेत्यादि। श्लोकपञ्चकमिदम् अभ्युपगम्यवादरूपमुच्यते +++(N उपगम्य)+++ यदि लौकिकेन व्यवहारेणास्ते भवान् तथाप्यवश्यानुष्ठेयमेतत्।
@@ -143,12 +150,14 @@ is no greater pain than it.
 
 2.36 See Comment under 2.37
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.36॥ किञ्च अवाच्यवादानिति। स्पष्टम्।
 </details>
@@ -159,18 +168,24 @@ is no greater pain than it.
 अवाच्यवादान् कथनायायोग्यानि वाक्यानि वदिष्यन्ति। नु इति निश्चयेन। ततो
 दुःखतरं किम् न किमपीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.36॥ किंच **अवाच्येति।**
 अवाच्यान्वादान्वचनानर्हाञ्शब्दांस्तवाहितास्त्वच्छत्रवो वदिष्यन्ति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.36 Your enemies, slandering your prowess, will use words which should never be uttered. What could be more painful than that;
@@ -203,11 +218,13 @@ many; वदिष्यन्ति will say; तव thy; अहिताः en
 तव thy; सामर्थ्यम् power; ततः than this; दुःखतरम् more painful; नु
 indeed; किम् what.Commentary There is really no pain more unbearable and tormenting that that of slander thus incurred.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.36।। तेरे शत्रुलोग तेरी सार्मथ्यकी निन्दा करते हुए न कहनेयोग्य
@@ -240,6 +257,7 @@ indeed; किम् what.Commentary There is really no pain more unbearable and
 
 ।।2.36।। तुम्हारे शत्रु तुम्हारे सार्मथ्य की निन्दा करते हुए बहुत से
 अकथनीय वचनों को कहेंगे, फिर उससे अधिक दु:ख क्या होगा ;
+</details>
 </details>
 
 </div>

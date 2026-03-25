@@ -23,8 +23,9 @@ title = "02 न मे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.2॥**सुरगणा महर्षयः** च अतीन्द्रियार्थदर्शिनो ऽधिकतरज्ञाना अपि **मे प्रभवं** प्रभावं **न विदुः;** मम नामकर्मस्वरूपस्वभावादिकं न जानन्ति। यतस् तेषां **देवानां महर्षीणां च सर्वशः** अहम् आदिः; तेषां स्वरूपस्य ज्ञानशक्त्यादेश् च अहम् एव आदिःतेषां देवत्वदेवऋषित्वादिहेतुभूतपुण्यानुगुणं मया दत्तं ज्ञानं परिमितम्; अतस् ते परिमितज्ञाना मत्स्वरूपकादिकं यथावन् न जानन्ति। तद् एतद् देवाद्यचिन्त्यस्वरूपयाथात्म्यविषयज्ञानं भक्त्युत्पत्तिविरोधिपापविमोचनोपायम् आह --
@@ -39,12 +40,14 @@ title = "02 न मे"
 
 10.2 However supernatural the vision and however great the knowledge of the host of the gods and the wise seers may be, they cannot comprehend My powers. They do not know My name, actions, essence, attributes etc., for the reason that I am the source in every way of these gods and great seers. I am the source of their nature and knowledge, power etc. The knowledge given to them by Me according to their meritorious deeds constitutes the cause of their being gods, the great seers etc. That knowledge is limited. Thus, they have limited knowledge and do not know the real nature of My essence. Sri Krsna proceeds to explain that knowledge about His real nature, which is beyond the grasp of gods etc., and which is the means for release from the evil that stands in the way of the rise of devotion.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.2॥ --,**न मे विदुः** न जानन्ति **सुरगणाः** ब्रह्मादयः। किं ते न विदुः मम **प्रभवं** प्रभावं प्रभुशक्त्यतिशयम्; अथवा प्रभवं प्रभवनम् उत्पत्तिम्। नापि **महर्षयः** भृग्वादयः विदुः। कस्मात् ते न विदुरित्युच्यते -- **अहम् आदिः** कारणं हि यस्मात् **देवानां महर्षीणां च सर्वशः** सर्वप्रकारैः॥ किञ्च --,
 </details>
@@ -108,12 +111,14 @@ sages. Besides,
 प्रकारैरुत्पादकत्वेन बुद्ध्यादिप्रवर्तकत्वेन च निमित्तत्वेनोपादानत्वेन
 चेति वा कारणम्। अतो मद्विकारास्ते मत्प्रभावं न जानन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.2॥ प्रभवं प्रभावं; मदीयां जगदुत्पत्तिं वा।
 तद्वशत्वात्तस्येत्युच्यते। यद्यस्ति तर्हि देवादधोऽपि जानन्ति;
@@ -151,12 +156,14 @@ sages. Besides,
 प्रजापतिर्भगवानद्धा वेदेत्यर्थः। न तत्प्रभावमित्यत्राद्धेति द्रष्टव्यम्।
 अत एव व्युत्क्रमः। प्रमाणं प्रमा। अन्यस्त्वर्थो भगवतो जन्माभावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.1 -- 10.5॥ प्राक्तनैर्नवभिरध्यायैर्य एवार्थो लक्षितः; स एव प्रतिपदपाठैरस्मिन्नध्याये प्रतायते। तथा चाह -- भूय एव इति। उक्तमेवार्थं स्फुटीकर्तुं +++(;N;K विस्पष्टीकर्तुं)+++ पुनः कथ्यमानं श्रृण्विति। अर्जुनोऽपि एवमेवाभिधास्यति भूयः कथय +++(X; 18)+++ इति। इत्यध्यायतात्पर्यम्। शिष्टं निगदव्याख्यातमिति ( -- व्याख्यानमिति) किं पुनरुक्तेन सन्दिग्धं तु निर्णेष्यते। भूय इत्यादि पृथग्विधा इत्यन्तम्। असंमोहः उत्साहः।
 </details>
@@ -165,12 +172,14 @@ sages. Besides,
 
 10.2 See Comment under 10.5
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.2॥ उक्तस्यापि पुनः परमतया कथने दुर्विज्ञेयत्वं हेतुमाह -- न मे
 विदुरिति। प्रभवं योगवैभवं जन्मादिकं वा महर्षयः अतीन्द्रियार्थदर्शिनोऽपि
@@ -190,10 +199,13 @@ sages. Besides,
 प्रादुर्भावं जानन्ति परं यदर्थं यद्रूपश्च प्रादुर्भावस्तं मत्कृपां विना
 न जानन्तीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/02_na_me.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/02_na_me.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.2॥ उक्तस्यापि पुनर्वचने दुर्ज्ञेयत्वं हेतुमाह **-- न म इति**। मे मम
 प्रकृष्टं भवं जन्मरहितस्यापि नानाविभूतिभिराविर्भावं सुरगणा अपि महर्षयो
@@ -201,10 +213,13 @@ sages. Besides,
 सर्वशः सर्वप्रकारैरुत्पादकत्वेन बुद्ध्यादिप्रवर्तकत्वेन च। अतो मदनुग्रहं
 विना मां केऽपि न जानन्तीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.2 Neither the host of the gods nor the great seers know My power.
@@ -237,11 +252,13 @@ for in every way I am the source of all the gods and the great sages.
 
 10.2 Commentary Prabhavam Origin. It may also mean great lordly power.Maharshis great sages like Bhrigu.As I am the source of all these gods; sages and living beings; it is very difficult for them to know Me.Sarvasah In every way -- not only am I the source of all the gods and the sages but also their efficient cause; their inner ruler and the dispenser or ordainer and the guide of their intellect; etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/02_na_me.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.2।। मेरे प्रकट होनेको न देवता जानते हैं और न महर्षि; क्योंकि मैं सब
@@ -332,6 +349,7 @@ for in every way I am the source of all the gods and the great sages.
 
 ।।10.2।। मेरी उत्पत्ति (प्रभव) को न देवतागण जानते हैं और न महर्षिजन;
 क्योंकि मैं सब प्रकार से देवताओं और महर्षियों का भी आदिकारण हूँ।।
+</details>
 </details>
 
 </div>

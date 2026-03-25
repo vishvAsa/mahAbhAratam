@@ -23,8 +23,9 @@ title = "05 यज्ञदानतपःकर्म न"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.5॥**यज्ञदानतपः**प्रभृति वैदिकं **कर्म** मुमुक्षुणा न कदाचिद् अपि **त्याज्यम्** अपि त्व् आप्रयाणाद् अहरहः **कार्यम् एव** कुतः यज्ञदानतपःप्रभृतीनि वर्णाश्रमसम्बन्धीनि कर्माणि **मनीषिणां** मननशीलानां **पावनानि।** मननम् उपासनम्। मुमुक्षूणां यावज्जीवम् उपासनं कुर्वताम् उपासननिष्पत्तिविरोधिप्राचीनकर्मविनाशनानि इत्यर्थः।
@@ -41,12 +42,14 @@ title = "05 यज्ञदानतपःकर्म न"
 
 18.5 Acts such as sacrifices, gifts, austerities etc., enjoined in the Vedas should not be relinished by the aspirant for release, but should be performed day after day until his death. Why; Acts like sacrifices, gifts and austerities associated with the different stations of life, are the means of purification for the wise., i.e., for those given to contemplation. Contemplation is worship. For the aspirants who perform such worship (Upasana) throughout their lives, they (sacrifices etc.) are a help to erase the previous Karmas which stand in the way of the fulfilment of such worship.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.5॥ --,यज्ञः दानं तपः इत्येतत् त्रिविधं **कर्म न त्याज्यं** न त्यक्तव्यम्; **कार्यं** करणीयम् **एव तत्।** कस्मात् **यज्ञः दानं तपश्चैव पावनानि** विशुद्धिकराणि **मनीषिणां** फलानभिसंधीनाम् इत्येतत्॥
 </details>
@@ -114,12 +117,14 @@ wise, i.e. of those who do not seek results for themselves.
 कार्यमेवेत्युक्तम्। यस्मात्कार्यं कर्तव्यतया शास्त्रविहितं तस्मान्न
 त्याज्यमेवेति वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.5॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -128,12 +133,14 @@ wise, i.e. of those who do not seek results for themselves.
 
 ॥18.5॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.4 -- 18.11॥ तदत्रैव विशेषनिर्णयाय मतान्युपन्यस्यति -- त्याज्यमिति। दोषवत् हिंसादिमत्त्वात् +++(S हिंसादित्त्वात ;N हिंसादिसत्त्वात् )+++ पापयुक्तम्। तत् कर्म,+++(S;;N substitutes फलं for कर्म )+++ त्याज्यम्; न सर्वं शुभफलम् इति केचित् त्यागे विशेषं मन्यन्ते साङ्ख्यगृह्या इव। अन्ये तु मीमांसककञ्चुकानुप्रविष्टाः +++(K मीमांसाकंचुक -- )+++ -- क्रत्वर्थोऽहि शास्त्रादवगम्यते +++(S. IV; i; 2 )+++ इति। तथातस्माद्या वैदिकी हिंसा -- +++(SV. I; i; 2; verse 23 )+++इत्यादिनयेन इतिकर्तव्यतांशभागिनी हिंसा +++(S;;N omit हिंसा )+++ हिंसैव न भवति। न हिंस्यात् इति सामान्यशास्त्रस्य तत्र बाधनात् श्येनाद्येव तु ( श्येन द्येव न तु ) हिंसा। फलांशे भावनायाश्च प्रत्ययोऽनुविधायकः +++(SV; I; i; 2; verse 222 )+++ इति। अ \[ तोऽ \] न्यान् हिंसादियोगिनोऽपि न त्यजेत्। शास्त्रैकशरणकार्याकार्यविभागाः पण्डिता इति मन्यन्ते॥3॥ निश्चयमित्यादि अभिधीयते इत्यन्तम्। तत्र त्वयं निश्चयः -- प्राग्लक्षितगुणस्वरूपवैचित्र्यात् त्यागस्यैव सत्त्वरजस्तमोमय्या चित्तवृत्त्या क्रियमाणस्य तद्विशिष्टस्वभावावभासित \[ त्वात् \] वस्तुस्थित्या त्यागो नाम परब्रह्मविदां +++(; N परमब्रह्म -- )+++ सिद्ध्यसिद्ध्यादिषु समतया रागद्वेषपरिहारेण फलप्रेप्साविरहेण ( फलप्रेक्षा) कर्मणां निर्वर्त्तनम्। अत एव आह -- राजसं तामसं च त्यागं कृत्वा न कश्चित् ( न किंचित् ) \[ त्याग \] फलसंबन्धः; इति। सात्त्विकस्य तु त्यागात् ( त्यागस्य )। शास्त्रार्थपालनात्मकं फलम्। त्यक्तगुणग्रामग्रहस्य पुनर्मुनेः सत्यतः त्यागवाचो युक्तिरुपपत्तिमती।
 </details>
@@ -142,12 +149,14 @@ wise, i.e. of those who do not seek results for themselves.
 
 18.5 See Comment under 18.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.5॥ मीमांसकमतमेकांशतोऽङ्गीकरोति -- यज्ञेति। यज्ञो वै विष्णुः
 \[तै.सं.1।7।4शं.ब्रा.1।3।1\] इति श्रुत्या भगवत्स्वरूपो यज्ञः; दानं
@@ -171,18 +180,24 @@ wise, i.e. of those who do not seek results for themselves.
 एतत् त्रितयात्मकं कर्म कार्यम्। एवकारेण नान्यफलाभिलाषया कर्त्तव्यानीति
 व्यञ्जितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.5॥ प्रथमं तावन्निश्चयमाह **-- यज्ञदानेति द्वाभ्याम्।** मनीषिणां
 विवेकिनां पावनानि चित्तशुद्धिकराणि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.5 (a) The acts of sacrifice, gifts and austerities should not be relinished; but should be performed৷৷. (b). ৷৷.For sacrifices, gifts and austerities are the means of purification for the wise.
@@ -216,11 +231,13 @@ wise, i.e. of those who do not seek results for themselves.
 पावनानि purifiers; मनीषिणाम् of the wise.Commentary Acts of sacrifice;
 gift and austerity purify the hearts of those who have no desire for rewards. These actions are considered obligatory and ought to be performed. Actions that are skilfully performed lose their power to bind the soul and free it from earthly bondage.Now; O Arjuna; I will explain to thee that skilful way by which actions can destroye their own effect.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.5।। यज्ञ, दान और तपरूप कर्मोंका त्याग नहीं करना चाहिये, प्रत्युत
@@ -270,6 +287,7 @@ gift and austerity purify the hearts of those who have no desire for rewards. Th
 ।।18.5।। यज्ञ, दान और तपरूप कर्म त्याज्य नहीं है, किन्तु वह नि:सन्देह
 कर्तव्य है; यज्ञ, दान और तप ये मनीषियों (साधकों) को पवित्र करने वाले
 हैं।।
+</details>
 </details>
 
 </div>

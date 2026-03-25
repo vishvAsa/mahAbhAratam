@@ -23,8 +23,9 @@ title = "14 मात्रास्पर्शास्तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.14॥ शब्द-स्पर्श-रूप-रस-गन्धाः साश्रयास् तन्-मात्रा-कार्यत्वात् **मात्रा** इत्य् उच्यन्ते। 
@@ -41,12 +42,14 @@ title = "14 मात्रास्पर्शास्तु"
 
 2.14 As sound, touch, form, taste and smell with their bases, are the effects of subtle elements (Tanmatras), they are called Matras. The contact with these through the ear and other senses gives rise to feelings of pleasure and pain, in the form of heat and cold, softness and hardness. The words 'cold and heat' illustrate other sensations too. Endure these with courage till you have discharged your duties as prescribed by the scriptures. The brave must endure them patiently, as they 'come and go'. They are transient. When the Karmas, which cause bondage, are destroyed, this 'coming and going' will end. The Lord now explains the purpose of this endurance:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.14॥  
   
@@ -220,12 +223,14 @@ heart, etc., i.e. do not be happy or sorry with regard to them.
 दुःखिनं मा ज्ञासीरित्यर्थः। कौन्तेय भारतेति संबोधनद्वयेनोभयकुलविशुद्धस्य
 तवाज्ञानमनुचितमिति सूचयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.14॥ तथापि तद्दर्शनाभाविदना शोक इति चेत् न इत्याह मात्रास्पर्शा इति।
 मीयन्त इति मात्रा विषयाः तेषां स्पर्शाः सम्बन्धाः त एव
@@ -331,12 +336,14 @@ heart, etc., i.e. do not be happy or sorry with regard to them.
 परामर्शो युक्तः तत्कथं शीतोष्णादीनित्युक्तम् मैवम्। शीतोष्णहेतूनां
 मात्रास्पर्शानामेव तच्छब्देनोपलक्षणात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.15॥ मात्रेति। अधीरास्तु मात्राशब्दवाच्यैरर्थैर्ये +++(S वाच्यैरर्था ये)+++ कृताः स्पर्शा इन्द्रियद्वारेणात्मनः +++(K णात्मना)+++ सम्बन्धाः तत्कृता याः शीतोष्णसुखदुःखाद्यवस्था अनित्याः तास्वपि शोचन्ति न त्वेवं धीरा इत्याह। अथवा मात्राभिरिन्द्रियैरेषां स्पर्शा न तु साक्षात् परमात्मना +++(N परमात्मनः)+++। आगमः उत्पत्तिः अपायः विनाशः एतद्युक्तांस्तितिक्षस्व ( एतद्युक्तम्) सहस्व।
 </details>
@@ -345,12 +352,14 @@ heart, etc., i.e. do not be happy or sorry with regard to them.
 
 2.14 Matra etc. But the unwise lament even over those passing situations of cold and heat, pleasure and pain that are created by those touches i.e., the contacts of the sense-objects-referable with the term matra - with the Soul through the door of the sense-organs; but the wise do not do so. Thus says \[the Lord\]. Or, the passage may be interpreted as : The touches (contacts) of these objects are with the matras, i.e., with the sense-organs, and not directly with the Supreme Self, Coming : birth. Going : destruction, Those situations that have these two you must forbear i.e., put up with.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.14॥ ननु धैर्यमेव तन्नायाति यतो न मूढः स्यामिति
 चेत्तत्प्राप्त्युपायमाह मात्रास्पर्शा इति। मात्रा रूपादयस्तासां स्पर्शा
@@ -373,10 +382,13 @@ heart, etc., i.e. do not be happy or sorry with regard to them.
 आगमापायिन इति। आगमापायिन आगच्छन्त्यपयान्ति च अत एव अनित्याः अतस्तान्
 तितिक्षस्व सहस्व। भारत इति सम्बोधनात्तवैतदुचितमिति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.14॥ ननु गतानागतानहं न शोचामि किंतु दद्वियोगादिदुःखभाजमात्मानमेवेति
 चेत्तत्राह **मात्रास्पर्शा इति।** मीयन्ते ज्ञायन्ते विषया आभिरिति
@@ -386,10 +398,13 @@ heart, etc., i.e. do not be happy or sorry with regard to them.
 एवमिष्टसंयोगवियोगा अपि सुखदुःखादि प्रयच्छन्ति तेषां चास्थिरत्वात्सहनं तव
 धीरस्योचितं नतु तन्निमित्तहर्षविषादपारवश्यमित्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.14 The contact of senses with their objects, O Arjuna, gives rise to feelings of cold and heat, pleasure and pain. They come and go, never lasing long. Endure them, O Arjuna.
@@ -427,11 +442,13 @@ pleasure and pain come and go. Therefore; they are impermanent in nature. The ob
 viz.; skin; ear; eye; nose; etc.; and the sensations are carried by the nerves to the mind which has its seat in the brain. It is the mind that feels pleasure and pain. One should try to bear patiently heat and cold;
 pleasure and pain and develop a balanced state of mind. (Cf.V.22)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.14।। हे कुन्तीनन्दन! इन्द्रियोंके जो विषय (जड पदार्थ) हैं, वो तो शीत
@@ -564,6 +581,7 @@ pleasure and pain and develop a balanced state of mind. (Cf.V.22)
 ।।2.14।। हे कुन्तीपुत्र ! शीत और उष्ण और सुख दुख को देने वाले इन्द्रिय
 और विषयों के संयोग का प्रारम्भ और अन्त होता है; वे अनित्य हैं, इसलिए,
 हे भारत ! उनको तुम सहन करो।।
+</details>
 </details>
 
 </div>

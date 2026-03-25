@@ -23,8 +23,9 @@ title = "48 योगस्थः कुरु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 एतद् एव स्पष्टीकरोति -
@@ -48,12 +49,14 @@ Sri Krsna makes this clear in the following verse:
 2.48 Abandoning the attachment to kingdom, relatives etc., and established in Yoga, engage in war and such other activities. Perform these with eanimity as regards success and failure resulting from victory etc., which are inherent in them. This eanimity with regard to success and failure is called here by the term Yoga, in the expression
 'established in Yoga.' Yoga is eanimity of mind which takes the form of evenness in success and failure. Sri Krsna explains why this is repeatedly said:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 यदि कर्म-फल-प्रयुक्तेन न कर्तव्यं, कर्म कथं तर्हि कर्तव्यमिति उच्यते -
 
@@ -154,12 +157,14 @@ success and failure; ucyate, is called; yogah, Yoga.
 जयाजयसाम्येन युद्धमात्रकर्तव्यता प्रकृतत्वादुक्ता। इह तु
 दृष्टादृष्टसर्वफलपरित्यागेन सर्वकर्मकर्तव्यतेति विशेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.48॥ पूर्वश्लोकं स्पष्टयति योगस्थ इति। योगस्थः उपायस्थः। सङ्गं
 फलस्नेहं त्यक्त्वा। तत एव सिद्ध्यसिद्ध्योः समो भूत्वा। स एव च मयोक्तो
@@ -184,12 +189,14 @@ success and failure; ucyate, is called; yogah, Yoga.
 व्याख्यातः। मन्दास्तु पृथगेवैते विशेषणे कल्पयिष्यन्तीति तदनुजिघृक्षया
 इदमुदितमिति भावः। स एव यत्समत्वमिति शेषः। योगैकदेशे योगशब्दः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.49॥ किं तर्हि  
 योगस्थ इति। योगे स्थित्वा कर्माणि कुरु। साम्यं च योगः।
@@ -199,12 +206,14 @@ success and failure; ucyate, is called; yogah, Yoga.
 
 2.48 Yogasthah etc. Being established in Yoga you must perform actions. Evenness \[of mind\] is the Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.48॥ तर्हि कथं स्वकर्म करोमि इति चेत्तत्राह योगस्थ इति। फलस्वरूपो
 योगो मद्योगस्थ इत्यर्थः। फलेषु सङ्गं त्यक्त्वा। योगं व्याचष्टे समत्वं
@@ -228,10 +237,13 @@ success and failure; ucyate, is called; yogah, Yoga.
 मया वा भगवद्दत्तविप्रयोगस्यापि परमानन्दरूपत्वात्तद्दत्तत्वेन योगरूपतेति
 भावः। संयोगानन्तरजत्वात्तन्मध्यपातित्वादपि तथा तत्साधकत्वेनापि तथा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.48॥ किं तर्हि **योगस्थ इति।** योगः परमेश्वरैकपरता तत्र स्थितः
 कर्माणि कुरु। तथा सङ्गं कर्तृत्वाभिनिवेशं त्यक्त्वा केवलमीश्वराश्रयेणैव
@@ -239,10 +251,13 @@ success and failure; ucyate, is called; yogah, Yoga.
 केवलमीश्वरार्पणेनैव कुरु। यत एवंभूतं समत्वमेव योग उच्यते सद्भिः।
 चित्तसमाधानरूपत्वात्।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.48 Abandoning attachment and established in Yoga, perfom works,
@@ -279,11 +294,13 @@ attachment; त्यक्त्वा having abandoned; धनञ्जय O D
 सिद्ध्यसिद्ध्योः in success and failure; समः the smae; भूत्वा having become; समत्वम् evenness of mind; योगः Yoga; उच्यते is called.Commentary Dwelling in union with the Divine perform actions merely for Gods sake with a balanced mind in success and failure. Eilibrium is Yoga. The attainment of the knowledge of the Self through purity of heart obtained by doing actions without expectation of fruits is success (Siddhi).
 Failure is the nonattainment of knowledge by doing actions with expectation of fruit. (Cf.III.9IV.14IV.20).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.48।। हे धनञ्जय ! तू आसक्तिका त्याग करके सिद्धि-असिद्धिमें सम होकर
@@ -354,6 +371,7 @@ Failure is the nonattainment of knowledge by doing actions with expectation of f
 
 ।।2.48।। हे धनंजय आसक्ति को त्याग कर तथा सिद्धि और असिद्धि में समभाव
 होकर योग में स्थित हुये तुम कर्म करो। यह समभाव ही योग कहलाता है।।
+</details>
 </details>
 
 </div>

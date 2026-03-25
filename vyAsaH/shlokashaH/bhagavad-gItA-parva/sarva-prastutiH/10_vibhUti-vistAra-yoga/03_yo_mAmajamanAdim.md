@@ -23,8 +23,9 @@ title = "03 यो मामजमनादिम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.3॥ न जायते इत्य् अजः; अनेन विकारिद्रव्याद् अचेतनात् तत्संसृष्टात् संसारिचेतनाच् च विसजातीयत्वम् उक्तं संसारिचेतनस्य हि कर्मकृताचित्संसर्गो जन्म।  
@@ -48,12 +49,14 @@ title = "03 यो मामजमनादिम्"
 My nature is incompatible with association with evil which has to be given up. What is called 'delusion' is the wrong knowledge of taking Me as one among other entities of the same kind. To be bereft of this delusion is to be 'undeluded'. Such a person is released from all sins which stand against the rise of Bhakti to Me. The meaning is this: In this world, the king who rules over men is only like all those men. He has become a ruler by some good Karma. Such is not the case with the Lord of the gods (the Supreme Being). Even the lord of the cosmic egg
 (Brahma) is of the same class as other beings in Samsara, because he too is a created being coming within the threefold classification of beings according to the three innate tendencies for growth - namely Karma-bhavana, Brahma-bhavana and Ubhaya-bhavana. These three are described respectively as fitness to practise work alone, fitness to practise meditation alone and fitness to practise both together. Brahma comes under the third group. The Sruti also says, 'He who creates Brahma' (Sve. U., 6.18). The same is the case with all those who have acired the eight superhuman powers like becoming atomic etc. But I, the Supreme Being, is the great Lord of the worlds. He who is not subject to the delusion of regarding Me as of the same order as others, - such a person knows Me as distinct in kind from non-conscient matter in its states as cause and effect, from the self whether bound or free, and from everything else, on account of all of them being subject to My control. I am antagonistic to all that is evil and I am the sole centre of innumerable auspicious attributes, unsurpassed and incomparable. It is also My inherent nature to be the controller of everything. One who understands Me to be all this is released from every sin. Thus, after showing the annihilation, by meditation on His nature, of all evil impeding the rise of Bhakti, and also of the rise of devotion, through implication, by the destruction of such opposing factors, Sri Krsna now explains the way in which Bhakti develops by meditation on His sovereign power and on the multitude of His auspicious attributes:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.3॥ --,**यः माम् अजम् अनादिं** च; यस्मात् अहम् आदिः देवानां महर्षीणां च; न मम अन्यः आदिः विद्यते अतः अहम् अजः अनादिश्च अनादित्वम् अजत्वे हेतुः; तं माम् अजम् अनादिं च यः **वेत्ति** विजानाति **लोकमहेश्वरं** लोकानां महान्तम् ईश्वरं तुरीयम् अज्ञानतत्कार्यवर्जितम् **असंमूढः** संमोहवर्जितः **सः मर्त्येषु** मनुष्येषु; **सर्वपापैः** सर्वैः पापैः मतिपूर्वामतिपूर्वकृतैः **प्रमुच्यते** प्रमोक्ष्यते॥ इतश्चाहं महेश्वरो लोकानाम् --,
 </details>
@@ -124,12 +127,14 @@ Lord of the worlds:'
 असंमूढः सन्मोहवर्जितः सर्वैः पापैर्मतिपूर्वकृतैरपि प्रमुच्यते प्रकर्षेण
 कारणोच्छेदात्तत्संस्काराभावरूपेण मुच्यते मुक्तो भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.3॥ अनश्चेष्टयिता आदिश्च सर्वस्येत्यनादिः। अजत्वेन सिद्धेरितरस्य।
 </details>
@@ -143,12 +148,14 @@ Lord of the worlds:'
 मेवम् तज्ज्ञापकविभक्त्याद्यभावात्। गत्यन्तराभावे हि गमनिकैषा। चेष्ट
 कत्वं प्रागनुक्तं कथमनूद्यते इति चेत्; न प्रभावे सर्वस्यान्तर्भावात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.1 -- 10.5॥ प्राक्तनैर्नवभिरध्यायैर्य एवार्थो लक्षितः; स एव प्रतिपदपाठैरस्मिन्नध्याये प्रतायते। तथा चाह -- भूय एव इति। उक्तमेवार्थं स्फुटीकर्तुं +++(;N;K विस्पष्टीकर्तुं)+++ पुनः कथ्यमानं श्रृण्विति। अर्जुनोऽपि एवमेवाभिधास्यति भूयः कथय +++(X; 18)+++ इति। इत्यध्यायतात्पर्यम्। शिष्टं निगदव्याख्यातमिति ( -- व्याख्यानमिति) किं पुनरुक्तेन सन्दिग्धं तु निर्णेष्यते। भूय इत्यादि पृथग्विधा इत्यन्तम्। असंमोहः उत्साहः।
 </details>
@@ -157,12 +164,14 @@ Lord of the worlds:'
 
 10.3 See Comment under 10.5
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.3॥ अत एव मन्त्रद्रष्टृभिरप्यनुलभ्यमानप्रभवत्वादहमज एव
 श्रौतानुभवगम्यः; अन्यत्तु गुणप्रकृतिवियदादि जायते एवमतः तस्माद्वा
@@ -189,19 +198,25 @@ Lord of the worlds:'
 मद्भक्तिप्रतिबन्धरूपैः प्रमुच्यते प्रकर्षेण मुच्यतेः मनुष्यभावरहितो
 देवरूपो भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.3॥ एवंभूतात्मज्ञाने फलमाह **-- यो मामिति।** सर्वकारणत्वादेव न
 विद्यते आदिः कारणं यस्य तमनादिम्। अतएवाजं जन्मशून्यं लोकानां महेश्वरं च
 मां यो वेत्ति स मनुष्येष्वसंमूढः संमोहरहतिः सन्सर्वपापैः प्रमुच्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.3 He who knows Me as unborn and without a beginning and the great Lord of the worlds - he among the mortals is undeluded and is released from every sin.
@@ -236,11 +251,13 @@ Through the removal of ignorance the delusion which is of the form of mutual sup
 He is freed from all sins done consciously or unconsciously in the three periods of time.The ignorant man removes his sins through the performance of expiatory acts (Prayaschitta) and enjoyment of the results. But he is not completely freed from all sins because he continues to do sinful actions through the force of evil Samskaras or impressions because he has not eradicated ignorance; the root cause of all sins; and its effect; egoism and superimposition or the feeling of I in the physical body. As he dies; swayed by the forces of evil Samskaras; he engages himself in doing sinful actions in the next birth.
 But the sage of Selfrealisation is completely liberated from,all sins because ignorance; the root cause of all sins; and its effect; viz.; the mistaken notion that the body is the Self on account of mutual superimposition between the Self and the notSelf; is eradicated in toto along with the Samskaras and all the sins. The Samskaras are burnt completely like roasted seeds. Just as burnt seeds cannot germinate; so also the burnt Samskaras cannot generate further actions or future births.For the following reason also; I am the great Lord of the worlds.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/03_yo_mAmajamanAdim.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.3।। जो मनुष्य मुझे अजन्मा, अनादि और सम्पूर्ण लोकोंका महान् ईश्वर
@@ -332,6 +349,7 @@ But the sage of Selfrealisation is completely liberated from,all sins because ig
 ।।10.3।। जो मुझे अजन्मा, अनादि और लोकों के महान् ईश्वर के रूप में जानता
 है, र्मत्य मनुष्यों में ऐसा संमोहरहित (ज्ञानी) पुरुष सब पापों से मुक्त
 हो जाता है।।
+</details>
 </details>
 
 </div>

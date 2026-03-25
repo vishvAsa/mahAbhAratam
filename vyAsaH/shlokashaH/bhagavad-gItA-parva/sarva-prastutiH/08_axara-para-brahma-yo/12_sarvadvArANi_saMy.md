@@ -23,8 +23,9 @@ title = "12 सर्वद्वाराणि संयम्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.12॥ सर्वाणि श्रोत्रादीनि इन्द्रियाणि ज्ञानद्वारभूतानि **संयम्य** स्वव्यापारेभ्यो विनिवर्त्य हृदयकमलनिविष्टे मय्य् अक्षरे **मनो निरुध्य योगा**ख्यां **धारणाम् आस्थितः** मय्य् एव निश्चलां स्थितिम् आस्थितः।  
@@ -48,12 +49,14 @@ title = "12 सर्वद्वाराणि संयम्य"
 (Dharana) which is called concentration or Yoga,' i.e., abiding in Me alone in a steady manner; uttering the sacred 'syllable Om,' the brahman which connotes Me; remembering Me, who am expressed by the syllable Om;
 and fixing his 'life-breath within the head' - whosoever abandons the body and departs in this way reaches the highest state. He reaches the pure self freed from Prakrti, which is akin to My form. From that state there is no return. Such is the meaning. Later on Sri Krsna will elucidate: 'They describe that as the highest goal of the Atman, which is not destroyed when all things are destroyed, which is unmanifest and imperishable' (8.2021). Thus, the modes of contemplation on the Lord by the aspirants after prosperity and Kaivalya (Atmann-consciousness) have been taught according to the goal they lead to. Now, Sri Krsna teaches the way of meditation on the Lord by the Jnanin and the mode of attainment by him.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.12॥ --,**सर्वद्वाराणि** सर्वाणि च तानि द्वाराणि च सर्वद्वाराणि उपलब्धौ तानि सर्वाणि **संयम्य** संयमनं कृत्वा **मनः हृदि** हृदयपुण्डरीके **निरुध्य** निरोधं कृत्वा निष्प्रचारमापाद्य तत्र वशीकृतेन मनसा हृदयात् ऊर्ध्वगामिन्या नाड्या ऊर्ध्वमारुह्य **मूर्ध्नि आधाय** **आत्मनः प्राणम् आस्थितः** प्रवृत्तः **योगधारणां** धारयितुम्॥ तत्रैव च धारयन् --,
 </details>
@@ -165,12 +168,14 @@ while fixing it there itself,
 योगधारणामात्मविषयसमाधिरूपां धारणामास्थितः। आत्मन इति
 देवतादिव्यावृत्त्यर्थम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.12 -- 8.13॥ ब्रह्मनाडीं विना यद्यन्यत्र गच्छति तर्हि विना मोक्षं
 स्थानान्तरं प्राप्नोतीति सर्वद्वाराणि संयम्यनिर्गच्छंश्चक्षुषा सूर्यं
@@ -193,12 +198,14 @@ while fixing it there itself,
 **यत्रे**ति। आदौ हृदि निरुध्येत्यध्याहारो दोषः।
 मरणवेलायामखण्डस्मृतिर्वक्तव्या तत्कथं धारणोच्यते इत्यत आह -- **योगे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.12 -- 8.14॥ सर्वद्वाराणीत्यादि योगिन इत्यन्तम्। द्वाराणि इन्द्रियाणि। हृदि इति -- अनेन विषयसंगाभाव उच्यते न तु विष्ठास्थानाधिष्ठानम्। आत्मनः प्राणम् आत्मसारथिम् इच्छाशक्त्यात्मनि मूर्ध्नि सकलतत्त्वातीते धारयन् इति कायनियमः। ओमिति जपन् इति वाङ्नियमः। मामनुस्मरन्निति चेतसोऽनन्यगामिता +++(S चेतसाऽनन्यगामिता)+++। यः प्रयादि -- दिनाद्दिनम् +++(N दिनंदिनं)+++ अपुनरावृत्तये गच्छति। तथा च देहं त्यजन् कथं मे +++(SN omit मे)+++ पुनरिदं सकलापत्स्थानं शरीरं मा भूयात् इत्येवं यो मामनन्यचेताः स्मरति सततमेव याति जानाति +++(S omits जानाति)+++ स मद्भावम् मत्स्वरूपम्। न +++(N नन्वत्र)+++ मुनेः परब्रह्माद्वैतपदोपक्षेपविरोधी उत्क्रान्तौ ( तत् क्रान्तौ K [n] विरोधीति उत्क्रान्तौ भरः) भरः। तथाचोक्तम् -- व्यापिन्यां शिवसत्तायाम् उत्क्रान्तिर्नाम निष्फला।  
   
@@ -215,12 +222,14 @@ while fixing it there itself,
 
 8.12 See Comment under 8.14
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.12 -- 8.13॥ तत्प्राप्तौ साङ्गमुपायमाह -- सर्वद्वाराणीति द्वाभ्याम्।
 ब्रह्मवादे ममैव नामरूपात्मकत्वादिति योगी मां ँइत्येकाक्षररूपमनुस्मरन्
@@ -234,10 +243,13 @@ while fixing it there itself,
 विकल्पादिधर्मत्यागेन हृदि निरुद्ध्य मूर्ध्नि भ्रुवोर्मध्ये भाग्यस्थाने
 प्राणमाधाय आत्मनो योगधारणामास्थित आश्रितः सन्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.12॥ प्रतिज्ञातमुपायं साङ्गमाह **-- सर्वेति द्वाभ्याम्।**
 सर्वाणीन्द्रियद्वाराणि संयम्य प्रत्याहृत्य।
@@ -245,10 +257,13 @@ while fixing it there itself,
 बाह्यविषयस्मरणमकुर्वन्नित्यर्थः। मूर्ध्नि भ्रूवोर्मध्ये प्राणमाधाय
 योगस्य धारणां स्थैर्यमास्थित आश्रितवान्सन्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.12 Having controlled all the passages, having confined the mind in the heart, and having fixed his own vital force in the head, (and then)
@@ -278,11 +293,13 @@ having placed; आत्मनः of the self; प्राणम् breath; आ
 (in); योगधारणाम् practice of concentration.Commentary The gates are the senses of knowledge. Closing the gates means control of all senses by the practice of Pratyahara or withdrawal of the consciousness from them.
 Even if the senses are controlled; the mind will be dwelling on the sensual objects. Therefore the mind is confined or fixed in the lotus of the heart and thery all the thoughts or mental modifications are also controlled. The whole lifreath is now taken up and fixed at the crown of the head (Brahmarandhra or the hole of Brahman).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.12 -- 8.13।। (इन्द्रियोंके) सम्पूर्ण द्वारोंको रोककर मनका हृदयमें
@@ -310,6 +327,7 @@ Even if the senses are controlled; the mind will be dwelling on the sensual obje
 
 ।।8.12।। सब (इन्द्रियों के) द्वारों को संयमित कर मन को हृदय में स्थिर
 करके और प्राण को मस्तक में स्थापित करके योगधारणा में स्थित हुआ।।
+</details>
 </details>
 
 </div>

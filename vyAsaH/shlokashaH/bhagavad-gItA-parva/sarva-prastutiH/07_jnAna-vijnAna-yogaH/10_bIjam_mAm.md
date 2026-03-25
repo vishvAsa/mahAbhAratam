@@ -23,8 +23,9 @@ title = "10 बीजम् माम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.10॥ एते सर्वे विलक्षणा भावा मत्त एव उत्पन्ना मच्छेषभूता मच्छरीरतया मय्य् एव अवस्थिता अतस् तत्प्रकारो ऽहम् एव अवस्थितः।
@@ -39,12 +40,14 @@ title = "10 बीजम् माम्"
 
 7.8 - 7.11 All these entities with their peculiar characteristic are born from Me alone. They depend on Me; inasmuch as they constitute My body, they exist in Me alone. Thus I alone exist while all of them are only My modes.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.10॥ **बीजं** प्ररोहकारणं **मां विद्धि सर्वभूतानां** हे **पार्थ सनातनं** चिरन्तनम्। किञ्च **बुद्धिः** विवेकशक्तिः अन्तःकरणस्य **बुद्धिमतां** विवेकशक्तिमताम् **अस्मि तेजः** प्रागल्भ्यं तद्वतां **तेजस्विनाम् अहम्**॥
 </details>
@@ -107,12 +110,14 @@ of those possessed of that.
 परैश्चानभिभाव्यत्वं तेजस्विनां तथाविधप्रागल्भ्ययुक्तानां यत्तदहमस्मि।
 तेजोरूपे मयि तेजस्विनः प्रोता इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.8 7.12॥ इदं ज्ञानम्। रसोऽहमित्यादिविज्ञानम्। अबादयोऽपि तत एव। तथापि
 रसादिस्वभावाना सागणां च स्वभावत्वे सारत्वे च विशेषतोऽपि स एव नियमाकः न
@@ -234,12 +239,14 @@ of those possessed of that.
 तदुपजीवनेन स्थित्यभावः। कुत एतत् इत्यत आह **उक्तं चे**ति। न केवलं
 मुक्तविरोधादिति चार्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.10 7.11॥ बीजमिति। बलमिति। बीजं सूक्ष्ममादिकारणम् ( सूक्ष्मादिकारणम्)। कामरागविवर्जितं बलं सकलवस्तुधारणसमर्थम् ऊर्जोरूपम् ( omits रूपम्)। कामः +++(S omits कामः)+++ इच्छा संविन्मात्ररूपा यस्या घटपटादिभिर्धर्मरूपैर्नास्ति विरोधः। इच्छा हि सर्वज्ञ भगवच्छक्तितया अनुयायिनी न क्वचिद्विरुध्यते धर्मैस्तु आगन्तुकैर्घटपटादिभिर्भिद्यते +++(S घटादिभिर्भि )+++ इति तदुपासकतया शुद्धसंवित्स्वभावत्वं ज्ञानिनः। उक्तं च शिवोपनिषदि इच्छायामथ वा ज्ञाने जाते चित्तं निवेशयेत् +++(V 98 )+++ इतिजाते एव न तु बाह्यप्रसृते इत्यर्थ। एवं व्याख्यानं त्यक्त्वा ये परस्परानुपघातकं त्रिवर्गं सेवेत इत्याशयेन व्याचक्षते ते संप्रदायक्रममजानानाः भगवद्रहस्यं च व्याचक्षणा नमस्कार्या एव।
 </details>
@@ -248,12 +255,14 @@ of those possessed of that.
 
 7.10 See Comment under 7.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.10॥ सर्वभूतानां जीवानां सनातनं यद्बीजं कारणभूतं चैतन्यं तन्मां
 विद्धि सम्मिश्ररूपमेकं निरूपितम्। बुद्धिमतां तेषां मध्ये या
@@ -270,20 +279,26 @@ of those possessed of that.
 भावः। तथैव बुद्धिमतां मत्स्वरूपज्ञानकुशलप्रयत्नवतां बुद्धिः कौशलमस्मि।
 तेजस्विनां दुराधर्षिणां तेजो दुराधर्षता अहमस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.10॥ किंच **बीजमिति।** सर्वेषां चराचराणां भूतानां बीजं
 सजातीयकार्योत्पादनसामर्थ्यं सनातनं नित्यमुत्तरोत्तरसर्वकार्येष्वनुस्यूतं
 तदेव बीजं मद्विभूतिं विद्धि नतु प्रतिव्यक्ति विनश्यत्। तथा बुद्धिमतां
 बुद्धिः प्रज्ञाहमस्मि। तेजस्विनां तेजः प्रागल्भ्यमहम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.10 Know Me to be, O Arjuna, the primeval seed of all beings. I am the intelligence of the discerning, and the brilliance of the brilliant.
@@ -315,11 +330,13 @@ of those possessed of that.
 O Partha; सनातनम् eternal; बुद्धिः intelligence; बुद्धिमताम् of the intelligent; अस्मि am (I); तेजः splendour; तेजस्विनाम् of the splendid;
 अहम् I.Commentary Seed means cause.Tejas also means heroism or bravery.Had Arjuna asked; Who is the seed for Thee; the Lord would have replied; There is no seed for Me. There is no cause for Me. I am the source of everything. I am the causeless Cause. I am the primeval Being.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.10।। हे पृथानन्दन ! सम्पूर्ण प्राणियोंका अनादि बीज मुझे जान।
@@ -375,6 +392,7 @@ O Partha; सनातनम् eternal; बुद्धिः intelligence; ब
 
 ।।7.10।। हे पार्थ ! सम्पूर्ण भूतों का सनातन बीज (कारण) मुझे ही जानो; मैं
 बुद्धिमानों की बुद्धि और तेजस्वियों का तेज हूँ।।
+</details>
 </details>
 
 </div>

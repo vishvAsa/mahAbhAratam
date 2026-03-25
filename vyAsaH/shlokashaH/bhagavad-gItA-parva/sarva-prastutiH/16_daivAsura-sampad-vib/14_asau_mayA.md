@@ -23,8 +23,9 @@ title = "14 असौ मया"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.14॥**असौ मया** बलवता **हतः शत्रुः।** **अपरान् अपि** शत्रून् अहं शूरो धीरः **च हनिष्ये।** किमत्र मन्दधीभिर् दुर्बलैः परिकल्पितेन अदृष्टादिपरिकरेणतथा च **ईश्वरः** **अहं** स्वाधीनो ऽहम् अन्येषां च अहम् एव नियन्ता। **अहं भोगी** स्वत एव अहं भोगी; न अदृष्टादिभिः। **सिद्धो ऽहम्** -- स्वतः सिद्धो ऽहं न कस्माच्चिद् अदृष्टादेः। तथा स्वत एव **बलवान्** स्वत एव **सुखी।**
@@ -39,12 +40,14 @@ title = "14 असौ मया"
 
 16.14 This enemy has been slain by me, powerful as I am. I shall slay other enemies also - I who am heoric and valiant. What is the use of the conception of destiny, which is only an imagination of weak people of little understanding; Similarly: I am 'the lord,' viz., I am independent, and I am also the ruler of others. I am the 'enjoyer,' viz., I am the enjoyer through my own powers, and not through good fortune etc. I am 'successful,' viz., I am successful by myself and not through any destiny etc. Likewise, I am strong and happy by myself.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.14॥ --,**असौ** देवदत्तनामा **मया हतः** दुर्जयः **शत्रुः। हनिष्ये च अपरान्** अन्यान् वराकान् **अपि।** किम् एते करिष्यन्ति तपस्विनः सर्वथापि नास्ति मत्तुल्यः। कथम् **ईश्वरः अहम्; अहं भोगी।** सर्वप्रकारेण च **सिद्धः अहं** संपन्नः पुत्रैः नप्तृभिः; न केवलं मानुषः; **बलवान् सुखी** च अहमेव अन्ये तु भूमिभारायावितीर्णाः॥
 </details>
@@ -111,12 +114,14 @@ be but a burden to the earth!
 सर्वैर्भोगोपकरणैरुपेतः; सिद्धोऽहं पुत्रभृत्यादिभिः सहायैः संपन्नः;
 स्वतोऽपि बलवानत्योजस्वी; सुखी सर्वथा निरोगः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.14॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -125,12 +130,14 @@ be but a burden to the earth!
 
 ॥16.14॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.13 -- 16.16॥ इहमद्येत्यादि अशुचौ इत्यन्तम्। अनेकचित्ता +++(A अनेकचिन्ताः N अनेकचित्तविभ्रान्ताः)+++ इतिनिश्चयाभावात्। अशुचौ निरये; अवीच्यादौ; जन्ममरणसन्ताने च।
 </details>
@@ -139,12 +146,14 @@ be but a burden to the earth!
 
 16.14 See Coment under 16.16
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.14 -- 16.15॥ किञ्चअसौ मया हतः इति अभेदमगृह्य। ईश्वरोऽहमस्मि मोदिष्ये
 इत्यज्ञानविमोहिताः।
@@ -157,17 +166,23 @@ be but a burden to the earth!
 च; सिद्धोऽहं कृतकृत्यः; बलवान् परोपकारमर्दनसमर्थः; सुखी
 सिद्धेष्टसाधनः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/14_asau_mayA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/14_asau_mayA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.14॥ किंच **--** **असाविति।** सिद्धः कृतकृत्यः। स्पष्टमन्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.14 'This enemy is slain by me; and others also I shall slay. I am the Lord, I am the enjoyer, I am successful, I have strength, I have happiness.
@@ -199,11 +214,13 @@ be but a burden to the earth!
 the enjoyer; सिद्धः perfect; अहम् I; भोगी the enjoyer; सिद्धः perfect;
 अहम् I; बलवान् powerful; सुखी happy.Commentary I will be the lord of all I survey. I will kill everyone who will not serve me. In fact I am the lord of all creation. I will be successful in all my undertakings. I have got plenty of landed property; cattle and immense wealth. I have got plenty of children and grandchildren. Even Indra is not eal to me. I am not an ordinary man. I am very powerful; strong; healthy and happy in every respect.In this verse there is a description of the vain imaginations of the people of demoniacal nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.14।। वह शत्रु तो हमारे द्वारा मारा गया और उन दूसरे शत्रुओंको भी हम
@@ -250,6 +267,7 @@ the enjoyer; सिद्धः perfect; अहम् I; भोगी the enjoye
 ।।16.14।। "यह शत्रु मेरे द्वारा मारा गया है और दूसरे शत्रुओं को भी मैं
 मारूंगा", "मैं ईश्वर हूँ और भोगी हूँ", "मैं सिद्ध पुरुष हूँ", "मैं बलवान
 और सुखी हूँ",।।
+</details>
 </details>
 
 </div>

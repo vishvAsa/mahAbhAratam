@@ -23,8 +23,9 @@ title = "07 तस्मात्सर्वेषु कालेषु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.7॥**तस्मात् सर्वेषु कालेषु** आप्रयाणाद् अहरहः **माम् अनुस्मर** अहरहो ऽनुस्मृतिकरं युद्धादिकं वर्णाश्रमानुबन्धिश्रुतिस्मृतिचोदितनित्यनैमित्तिकं च कर्म कुरु। एतदुपायेन **मय्यर्पितमनोबुद्धिः** अन्तकाले च **माम् एव** स्मरन् यथाभिलषितप्रकारं मां प्राप्स्यसि न अत्र संशयः। एवं सामान्येन सर्वत्र स्वप्राप्यावाप्तिर् अन्त्यप्रत्ययाधीना इत्य् उक्त्वा तदर्थं त्रयाणाम् उपासनप्रकारभेदं वक्तुम् उपक्रमते। तत्र ऐश्वर्यार्थिनाम् उपासनप्रकारं यथोपासनम् अन्त्यप्रत्ययकारकं च आह --
@@ -39,12 +40,14 @@ title = "07 तस्मात्सर्वेषु कालेषु"
 
 8.7 Therefore, at all times, until your departure, remember Me, day after day. Engage yourself in actions appropriate to your station and stage in life, which would make you remember Me. These actions are prescribed by the Srutis and Smrtis and comprise the periodical and occasional rites. Thus, by this means, with your mind and intellect set on Me, you will remember Me at the time of death and thus attain to Me in the manner desired by you. There is no doubt about this. Thus, having laid down the common principle that the attainment of one's end is dependent on one's last thought, Sri Krsna proceeds to describe different modes of contemplation (Upasana) to be practised by the three groups of devotees for aciring their objectives. Of these, he first speaks about the modes of contemplation to be adopted by the seekers of enjoyments and power and the type of the last thought consistent with their contemplation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.7॥ --,**तस्मात् सर्वेषु कालेषु माम् अनुस्मर** यथाशास्त्रम्। **युध्य च** युद्धं च स्वधर्मं कुरु। मयि वासुदेवे अर्पिते मनोबुद्धी यस्य तव स त्वं **मयि अर्पितमनोबुद्धिः** सन् **मामेव** यथास्मृतम् **एष्यसि** आगमिष्यसि **असंशयः** न संशयः अत्र विद्यते॥ किञ्च --,
 </details>
@@ -127,12 +130,14 @@ Therefore no combination is involved here.\] Besides,
 ज्ञानसमकालमेवाज्ञाननिवृत्तिलक्षणाया मुक्तेः
 सिद्धत्वान्नास्त्यन्त्यभावनापेक्षेति द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.6 -- 8.7॥ स्मरन्पुरुषस्त्यजतीति भिन्नकालीनत्वेऽप्यविरोध इति मन्दमतेः
 शङ्का मा भूदित्यन्त इति विशेषणम् सुमतेनव शङ्कावकाशः। स्मरंस्त्यजति
@@ -184,12 +189,14 @@ Therefore no combination is involved here.\] Besides,
 इत्येवरूपादभिधानादित्यर्थः। वासितत्वं संस्कृतत्वम्। तस्मिन्
 भावस्तद्भावस्तेन भावित इति मनोधर्मेणात्मोपचर्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.5 -- 8.7॥ अथ योऽवशिष्टः प्रश्नः कथं प्रयाणकाले ज्ञेयोऽसि इति तं निर्णयति -- अन्तकालेऽपि इत्यादि असंशयम् इत्यन्तम्। न केवलं स्वस्थावस्थायां यावत् अन्तकालेऽपि +++(N कालेऽपीति)+++ । मामेति -- व्यवच्छिन्नसकलोपाधिकम्। कथं च अस्वस्थावस्थायां +++(K [n] अन्तावस्थायाम्)+++ विनिवत्तसकलेन्द्रियचेष्टस्य भगवान् स्मृतिपथमुपेयात् इत्युपायमपि उपदिशति तस्मादिति। सर्वावस्थासु व्यावहारिकीष्वपि यस्य भगवत्तत्त्वं न हृदयादपयाति तस्य भगवत्येव सकलकर्मसंन्यासिनः सततं भगवन्मयस्य अवश्यं स्वयमेव भगवत्तत्त्वं स्मृतिविषयतां यातीति। सदातद्भावभावितत्त्वं च अत्र हेतुः। अतः एवाह -- येनैव वस्तुना सदा भावितान्तःकरणः +++(NK [n] अन्तःकरणभावः)+++ तदेव मरणसमये स्मर्यते तद्भाव एव च प्राप्यते इति। सर्वथा मत्परम एव मत्प्रेप्सः स्यादित्यत्र तात्पर्यम्। न तु यदेवान्ते स्मर्यते तत्तत्त्वमेवावाप्यते +++(N तत्तदेवावाप्यते)+++ इति। एवं हि सति ज्ञानिनोऽपि यावच्छरीरभाविधातुदोषविकलितचिवृत्तेर्जडतां प्राप्तस्य तामसस्येव गतिः स्यात्। न च अम्युपगमोऽत्र युक्तः प्रमाणभूतश्रुतिविरोधात्। अस्ति हि -- तीर्थे श्वपचगृहे वा नष्टस्मृतिरपि परित्यजन् देहम्।  
   
@@ -200,12 +207,14 @@ Therefore no combination is involved here.\] Besides,
 
 8.5-7 Antakale etc., upto asamsayam. At the time of departure also : i.e., not only as longs as \[one is\] in the healthy and unmolested condition. Me alone : Me, with all attributes undistinguished. But at the time of unhealthy state (at the time of death) of a person, how cloud the Bhagavat enter the path of his memory, when all the activities of the senses of that person have totally ended ; Hence \[to achieve this result the Lord\] teaches also the means or device by 'Therefore' etc.: The Bhagavat surely, on His own accord, becomes \[even at the time of death\] the object of memory of that person from whose heart (mind) the Bhagavat has never gone away in any cirucumstance connected with the mundane life also; who has \[thus\] renounced all his actions to the Bhagavat alone; and who is full of (fully absorbed in) the Bhagavat. For this end, the means is to remain constantly absorbed in the thought of the Bhagavat. That is why He Says : 'With whatever object the internal organ of a person is filled up always, that object alone is remembered by him at the time of death, and the state of that being alone is attained \[by him\]. Hence, let a person, by all means, have Me alone as his goal and be desirous of attaining Me'. This is the idea here. The idea \[intended here\] is certainly not 'What is remembered, without fail, at the last moment that being alone is attained by him'. Because in that case the attainment of the man of wisdom would also be just like that of an ignorant man. For, the former too \[at the time of death\] gets \[complete\] dulness of mind that is benumbed by the disorder (or defect) of he elements existing in his entire body. Certainly it is not proper to accept this here. For, it would go agains the authority of the scriptures. For, the fact is- 'He who has attained liberation simultaneously with realisation \[of the Self\], and whose sorrows \[therefore\] have been destroyed - he attains completely unity \[with the Absolute\] even though \[at the time of death\] he has lost his memory and abandons his body in a sacred place or in the house of a dog-cooker (i.e., man of a low tribe)'. (PS, 83). Therefore the matter-of-fact statement (or explanation) and injunction \[that are meant here\] are the following : If a person's internal organ is absorbed incessantly in the thought of a particular being, the same being is attained by him at end after departure. It is immaterial whether \[at the time of departure\] that being is remembered or not. This secondary importance \[of the remembrance\] is indicated by the word api 'also'. The word va 'or' makes it clear that the rememberance does not exist in each and every case. The Sage (Vyasa) himself clarifies his idea 'Let a man always remain by all means keeping Me (the Absolute Lord) as his supreme goal'. Since the Sage says : 'Therefore at all times keep Me (the Absolute) in your mind'. Therefore, the following is the combination of words \[of the verse intended here\] : If a person, remembering always, or at the last moment - the use of or denotes 'or not remembering \[at the last moment\]' - a particular being, leaves his body, he attains that particular being alone. For, he is always absorbed in the thought of that being. But others \[interpret the verses as follows\] : When one leaves his body as the end, just at the moment of leaving the body i.e., at that moment which is not cognizable to the perceivers like relatives, sons etc. \[standing nearby\]; at that moment that comes last after the limb-movements, like \[heavy\] breathing, exertion, hiccup, convulsive utterance etc., \[have endred\]; at that fraction of time when the bondage of pleasure, pain and bewilderment is weakened as a result of the weakening of the control of the bodily strength; at that time that goes by the term dehatyajana 'the moment of casting the body off'; at that moment whatsoever being a person remembers, his nature becomes entriely identical with that being, favoured (taken as an object) by the First Consiousness. the cause for remembering \[the Lord\] at that moment is to remanin ever absorbed in the thought of Him. The word tyajati \[of verse 6\] is to be construed as the seventh case \[meaning 'at the time of abandoning'\]. Hence, the purport \[of the passage\] is only what has been said above. What is the use of such a remembrance of Him at the last moment ; But, who told that \[there\] is a use \[for it\] ; But, the remembrance is certainly brought about as a natural course at the last moment. But this \[proposition\] would lead to an undersirable conseence. For, it has been observed that a person \[usually\] remberances at the last moment either the maintenance of his children, wife and relatives, or drinking of cold water and so on. So, he would become identical with those things. It is not so. The moment, you speak of, is not the last moment. For, at that moment the existence of body is being clearly felt. Really that last moment, which we would like to speak of, can't be perceived by persons like you. In what form alone the remembrance should be there at the last moment is decided by \[its cause\], a potential mental impression certainly arising at that time - even though it is far off - according to the general principle : 'The remembrance and the potential mental impression \[that causes it\] being identical in form, there should be a seential immediacy \[between them\], even though they are removed \[from one another\] by many births, by long distance and by long passage of time'. (YS, IV, 9). Thus, depending on the potential mental impression, there arises remembrance of a particular being, and becuase of its remembrance one attains the identity of that being. However in the case of certain body the same \[process\] is accidentally indicated even at the stage of healthy body-condition. See for example, the remembrance of a deer etc., \[both in the healthy conditions and in the dying moment\] and the conseential attainment of the deerhood, as described in the Puranic literature. That is why api ca 'and also' is employed in \[the statement\] like 'and also at the time of journey.' Therefore, those who constantly think of the Bhagavat with intention 'Let us become this Being'; they attain \[in the following order\] the identity with Absolute Lord, of the exclusive nature of Consciousness : \[First\] there arises the thought (smarana) of the Lord at the moment when the bodily existence is felt; then at that unperceivable last moment the potential mental impression, born of the said thought, gives rise to the remembrance of the Lord by striking down all the other potential mental impressions, according to the principle : 'The potential mental impression, born therefrom , make all other potential mental impressions powerless (YS., I, 50). Then only at the moment of the fall of the body, because at that time the mental impression created by \[the sense of\] time has come to an end and because the differences of the objects like 'this', 'that' etc., are not felt-at that moment he attains identity with the Lord. This much of discussion is enough. Without doubt (verse 7) : one should not entertain any doubt in this regard.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.7॥ यत एवं तस्मात्त्वमपि सर्वकालेषु मामनुस्मरश्रीकृष्णः शरणं मम इति।
 एवं योगेन स्वकर्मकरणमपि तव श्रेय इत्याह -- युद्ध्य चेति। तथा
@@ -224,10 +233,13 @@ Therefore no combination is involved here.\] Besides,
 सन्देहरहितः सन् मामेव एष्यसीत्यर्थः। असंशयः अत्र च सन्देहो नास्तीति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.7॥ **तस्मादिति।** यस्मात्पूर्ववासनैवान्तकाले स्मृतिहेतुः नहि तदा
 विवशस्य स्मरणोद्यमः संभवति तस्मात्सर्वदा मामनुस्मरानुचिन्तय। संततस्मरणं
@@ -236,10 +248,13 @@ Therefore no combination is involved here.\] Besides,
 बुद्धिश्च व्यवसायात्मिका येन त्वया स त्वं मामेव प्राप्स्यसि। असंशयः
 संशयोऽत्र नास्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.7 Therefore, think of Me at all times and fight. There is no doubt that by dedicating your mind and intellect to Me, you will attain Me alone.
@@ -269,11 +284,13 @@ shalt come to; असंशयम् doubtless.Commentary The whole mental machi
 VarnashramaDharmas (the duties pertaining to the various castes and orders of life) and NityaNaimittika Karmas are the Upalakshanas (factors suggested or alluded to).The ChittaVritti which is of the form of the object meditated upon is the Bhavana. (ChittaVrittis is mental modification). The Bhavana is for those who practise Saguna Upasana.
 Bhavana at the time of separtion of the body is not necessary for a sage or a Jnani who has attained to the knowledge of the Self or Selfrealisation. (Cf.IX.34XII.8;11)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.7।। इसलिये तू सब समयमें मेरा स्मरण कर और युद्ध भी कर। मेरेमें मन और
@@ -347,6 +364,7 @@ Bhavana at the time of separtion of the body is not necessary for a sage or a Jn
 ।।8.7।। इसलिए, तुम सब काल में मेरा निरन्तर स्मरण करो; और युद्ध करो
 मुझमें अर्पण किये मन, बुद्धि से युक्त हुए निःसन्देह तुम मुझे ही प्राप्त
 होओगे।।
+</details>
 </details>
 
 </div>

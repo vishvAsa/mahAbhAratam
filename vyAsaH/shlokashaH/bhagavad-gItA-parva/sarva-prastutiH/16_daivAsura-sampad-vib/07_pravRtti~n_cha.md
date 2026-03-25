@@ -23,8 +23,9 @@ title = "07 प्रवृत्तिञ् च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.7॥**प्रवृत्तिं च निवृत्तिं च** अभ्युदयसाधनं मोक्षसाधनं च वैदिकं धर्मम् **आसुरा न विदुः** न जानन्ति।  
@@ -46,12 +47,14 @@ title = "07 प्रवृत्तिञ् च"
 (Daksha Sm., 2.23). Likewise, 'truth' is not found among them, viz.,
 that truthful speech, which is conducive to the welfare of beings and which is in accordance with one's actual knowledge, does not characterise them. Moreover:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.7॥ --,**प्रवृत्तिं च** प्रवर्तनं यस्मिन् पुरुषार्थसाधने कर्तव्ये प्रवृत्तिः ताम्; **निवृत्तिं च** एतद्विपरीतां यस्मात् अनर्थहेतोः निवर्तितव्यं सा निवृत्तिः तां च; **जनाः आसुराः न विदुः** न जानन्ति। न केवलं प्रवृत्तिनिवृत्ती एव ते न विदुः; **न शौचं नापि च आचारः न सत्यं तेषु** विद्यते अशौचाः अनाचाराः मायाविनः अनृतवादिनो हि आसुराः॥ किं च --,
 </details>
@@ -120,12 +123,14 @@ and given to speaking lies. Further,
 ब्राह्मणपरिव्राजकन्यायेन पृथगुपादानम्। अशौचा अनाचारा अनृतवादिनो ह्यसुरा
 मायाविनः प्रसिद्धाः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.7॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -134,12 +139,14 @@ and given to speaking lies. Further,
 
 ॥16.7॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.7॥ आसुरीमाह -- प्रवृत्तिमिति। प्रवृत्तिः -- कुत इदमुत्पन्नमिति। निवृत्तिः क्व प्रलीयते इति।
 </details>
@@ -148,12 +155,14 @@ and given to speaking lies. Further,
 
 16.7 Pravrttim etc. Origin : i.e. wherefrom this \[universe\] is born. Withdrawal : i.e. into what this gets dissolved.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.7॥ सर्वात्मना वर्जनार्थमासुरीं विस्तरशो निरूपयति --
 प्रवृत्तिमित्यादिद्वादशभिः। प्रवृत्तिमार्गं वेदोक्तं निवृत्तिमार्गं च न
@@ -171,19 +180,25 @@ and given to speaking lies. Further,
 बाह्याभ्यन्तरभेदेन शौचं मत्सेवानुकूलदेहशुद्धिस्तेषु न; नापि च आचारः
 आचरणं न च; न सत्यं असत्यं तेषु विद्यते सत्यं नास्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.7॥ आसुरीं विस्तरतो निरूपयति **--** **प्रवृत्तिं
 चेत्यादिद्वादशभिः।** धर्मे प्रवृत्तिं; अधर्मान्निवृत्तिं च आसुरस्वभावा
 जना न जानन्ति। अतः शौचमाचारः सत्यं च तेषु नास्त्येव।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.7 The demoniac men know neither action nor renunciation. Cleanliness is not in them, nor even right conduct, nor truth.
@@ -220,11 +235,13 @@ also; च and; आचारः (right) conduct; न not; सत्यम् trut
 unjust and impure. They do not know what actions they should do in order to attain the goal of life or end of human existence; nor from what actions they should refrain to ward off,evil.Those who are endowed with demoniacal alities are sunk in the mire of ignorance. They are totally ignorant of what is prescribed or what is prohibited action. They have not the least idea of what purity or cleanliness is. Their actions are crooked. They know neither right Pravritti nor right Nivritti. They have no idea of virtue or vice or of scriptural injunctions or prohibitions.
 They will never speak loving words. They are hypocrites and liars.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.7।। आसुरी प्रकृतिवाले मनुष्य प्रवृत्ति और निवृत्तिको नहीं जानते और
@@ -337,6 +354,7 @@ They will never speak loving words. They are hypocrites and liars.
 
 ।।16.7।। आसुरी स्वभाव के लोग न प्रवृत्ति को; जानते हैं और न निवृत्ति को
 उनमें न शुद्धि होती है, न सदाचार और न सत्य ही होता है।।
+</details>
 </details>
 
 </div>

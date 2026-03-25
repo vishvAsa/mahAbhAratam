@@ -23,8 +23,9 @@ title = "40 अज्ञश्चाश्रद्दधानश्च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.40॥**अज्ञः** एवम् उपदेशलब्धज्ञानरहित उपदिष्टज्ञानवृद्ध्युपाये **च अश्रद्दधानः** अत्वरमाण उपदिष्टे च ज्ञाने **संशयात्मा** संशयितमना **विनश्यति** नष्टो भवति। अस्मिन् उपदिष्टे आत्मयाथात्म्यविषये ज्ञाने **संशयात्मनः** **अयम्** अपि प्राकृत**लोको न अस्ति** न च परः धर्मार्थकामादिपुरुषार्थाश् च न सिद्ध्यन्ति कुतो मोक्ष इत्यर्थः। शास्त्रीयकर्मसिद्धिरूपत्वात् सर्वेषां पुरुषार्थानां शास्त्रीयकर्मजन्यसिद्धेश् च देहातिरिक्तात्मनिश्चयपूर्वकत्वाद् अतः सुखलवभागित्वम् आत्मनि **संशयात्मनो** न सम्भवति।
@@ -39,12 +40,14 @@ title = "40 अज्ञश्चाश्रद्दधानश्च"
 
 4.40 'The ignorant,' i.e., one devoid of knowledge received through instruction, 'the faithless' or one who has no faith in developing this knowledge taught to him, i.e., who does not strive to progress ickly, and 'the doubting one,' i.e., one who is full of doubts in regard to the knowledge taught - such persons perish, are lost. When this knowledge taught to him about the real nature of the self is doubted, then he loses this material world as also the next world. The meaning is that the ends of man, such as Dharma, Artha and Karma which constitute the material ends or fulfilments, are not achieved by such a doubting one. How then can man's supreme end, release be achieved by such a doubting one; For all the ends of human life can be achieved through the actions which are prescribed by the Sastras, but their performance reires the firm conviction that the self is different from the body. Therefore, even a little happiness does not come to the person who has a doubting mind concerning the self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.40॥ **अज्ञश्च** अनात्मज्ञश्च **अश्रद्दधानश्च** गुरुवाक्यशास्त्रेषु अविश्वासवांश्च **संशयात्मा** च संशयचित्तश्च **विनश्यति**। अज्ञाश्रद्दधानौ यद्यपि विनश्यतः न तथा यथा संशयात्मा। संशयात्मा तु पापिष्ठः सर्वेषाम्। कथम् **नायं** साधारणोऽपि **लोकोऽस्ति।** तथा **न परः** लोकः। **न सुखम्** तत्रापि संशयोत्पत्तेः **संशयात्मनः** संशयचित्तस्य। तस्मात् संशयो न कर्तव्यः॥ कस्मात्
 </details>
@@ -130,12 +133,14 @@ Therefore one should not entertain doubt. Why;
 मनुष्यलोके भोजनादिसुखं च वर्तते। संशयात्मा तु त्रितयहीनत्वेन सर्वतः
 पापीयानित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.40॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -144,12 +149,14 @@ Therefore one should not entertain doubt. Why;
 
 ॥4.40॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.39 4.40॥ श्रद्धावानिति। अज्ञ इति। अत्र च श्रद्धागमः तत्परव्यापारत्वं च झगित्येव आस्तिकत्वात् असंशयत्वे सति उत्पद्यते। तस्मादसंशयवता गुर्वागमादृतेन भाव्यम् संशयस्य सर्वनाशकत्वात् ससंशयो हि न किञ्चिज्जानाति अश्रद्दधानत्त्वात्। तस्मात् निःसंशयेन भाव्यम् इति वाक्यार्थः।
 </details>
@@ -158,12 +165,14 @@ Therefore one should not entertain doubt. Why;
 
 4.39-40 Sraddhavan etc. Ajnah etc. Here the idea of the passage is this : The incoming of faith and the performance of activities intending this \[knowledge\], both spring up soon no doubt, if one, being a believer, entertains no doubt. Therefore, one should remain being favoured by the preceptors and the scriptures, and not entertaining any doubt. For, the doubt is a destroyer of everything \[good\]. Indeed a person with doubt knows nothing, because he does not have faith. Hence one should remain without doubt. The subject matter that has been elaborated in this entire chapter is now summarised by a pair of the \[following\] verses :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.40॥ अश्रद्दधानस्तु नाधिकारी इत्येतावति वक्तव्ये अन्यमप्यनधिकारिणमाह।
 अज्ञ उपदिष्टार्थानभिज्ञः अनधिकारी तत्र च सत्यपि ज्ञानेऽश्रद्धावान् तथा
@@ -182,10 +191,13 @@ Therefore one should not entertain doubt. Why;
 पशुपुत्रादिरूपो न सिद्धो भवति न परः स्वर्गादिरूपसुखं
 ऐश्वर्यारोग्यादिरूपं न भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.40॥ ज्ञानाधिकारिणमुक्त्वा तद्विपरीतमनधिकारिणमाह **अज्ञश्चेति।**
 अज्ञो गुरूपदिष्टार्थानभिज्ञः कथंचिज्ज्ञाने जातेऽप्यश्रद्दधानश्च
@@ -194,10 +206,13 @@ Therefore one should not entertain doubt. Why;
 लोको नास्ति धनार्जनविवाहाद्यसिद्धेः। नच परलोकः धर्मस्यानिष्पत्तेः। नच
 सुखं संशयेनैव भोगस्याप्यसंभवात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.40 The ignorant, the faithless and the doubting one peirsh; for the doubting one there is neither this world, nor that beyond, nor happiness.
@@ -232,11 +247,13 @@ there is neither this world nor the other, nor happiness for the doubting.
 this; लोकः world; अस्ति is; न not; परः the next; न not; सुखम् happiness;
 संशयात्मनः for the doubting self.Commentary The ignorant one who has no knowledge of the Self. The man without faith one who has no faith in his own self; in the scriptures and the teachings of his Guru.A man of doubting mind is the most sinful of all. His condition is very deplorable. He is full of doubts as regards the next world. He does not rejoice in this world also; as he is very suspicious. He has no happiness.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.40।। विवेकहीन और श्रद्धारहित संशयात्मा मनुष्यका पतन हो जाता है। ऐसे
@@ -302,6 +319,7 @@ this; लोकः world; अस्ति is; न not; परः the next; न n
 
 ।।4.40।। अज्ञानी तथा श्रद्धारहित और संशययुक्त पुरुष नष्ट हो जाता है,
 (उनमें भी) संशयी पुरुष के लिये न यह लोक है, न परलोक और न सुख।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "22 वेदानां सामवेदोऽस्मि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.22॥**वेदानाम्** ऋग्यजुःसामाथर्वणां य उत्कृष्टः **सामवेदः** सो ऽहम् **देवानाम्** इन्द्रो ऽहम् **अस्मि।** एकादशानाम् **इन्द्रियाणां** यद् उत्कृष्टं **मन** इन्द्रियं तद् अहम् अस्मि। इयम् अपि न निर्धारणे -- **भूतानां,चेतनावतां या** चेतना **सा अहम्** अस्मि।
@@ -41,12 +42,14 @@ title = "22 वेदानां सामवेदोऽस्मि"
 
 10.22 Of the Vedas, namely, Of Rk, Yajus, Saman, Atharva, I am that Samaveda which is the paramount one. Of the gods, I am Indra. Of eleven sense-organs, I am the sense-organ called Manas which is most paramount. Of living beings, namely, of those with consciousness, I am that consciousness. Here too the genitive is not used for specifying.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.22॥ --,**वेदानां** मध्ये **सामवेदः अस्मि। देवानां** रुद्रादित्यादीनां **वासवः** इन्द्रः **अस्मि। इन्द्रियाणाम्** एकादशानां चक्षुरादीनां **मनश्च** **अस्मि** संकल्पविकल्पात्मकं मनश्चास्मि। **भूतानाम् अस्मि चेतना** कार्यकरणसंघाते नित्याभिव्यक्ता बुद्धिवृत्तिः चेतना॥
 </details>
@@ -96,12 +99,14 @@ aggregate of body and organs; bhtanam, in creatures.
 सर्वप्राणिसंबन्धिनां परिणामानां मध्ये चिदभिव्यञ्जिका
 बुद्धेर्वृत्तिश्चेतनाहमस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.22॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -110,12 +115,14 @@ aggregate of body and organs; bhtanam, in creatures.
 
 ॥10.22॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -124,12 +131,14 @@ aggregate of body and organs; bhtanam, in creatures.
 
 10.22 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.22॥ वेदानामिति। सामवेदोऽहं वेदानां मध्ये सामवेदोऽस्मि।
 देवानामहमिन्द्र इति यज्ञे गानमाधुर्येण भगवद्विभूतिराराध्या। इन्द्रियाणां
@@ -145,18 +154,24 @@ aggregate of body and organs; bhtanam, in creatures.
 इन्द्रियाणां आधिदैविकेन्द्रियरूपोऽस्मि। च पुनः सर्वप्रेरकत्वान्मनोऽस्मि।
 भूतानां चेतनानां चेतना ज्ञानशक्तिरस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.22॥**वेदानामिति।** वासव इन्द्रः। भूतानां संबन्धिनी चेतना
 ज्ञानशक्तिरहमस्मि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.22 Of the Vedas I am Samaveda. Of gods, I am Indra. Of sense-organs I am the Manas (mind), and of living beings I am consciousness.
@@ -192,11 +207,13 @@ among the senses I am the mind; and I am intelligence among living beings.
 viz.; ear; skin; eye; tongue and nose and the five KarmaIndriyas or organs of action; viz.; speech; hands; feet; genitals and anus. The mind is regarded as the eleventh sense. As the senses cannot function without the help of the mind; the mind is regarded as the chief among the senses.Chetana Intelligence is that state of intellect which is manifest in the aggregate of the body and the senses.That which illumines all;
 from the intellect down to the grossest object; is called Chetana.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.22।। मैं वेदोंमें सामवेद हूँ, देवताओंमें इन्द्र हूँ, इन्द्रियोंमें
@@ -243,6 +260,7 @@ from the intellect down to the grossest object; is called Chetana.
 
 ।।10.22।। मैं वेदों में सामवेद हूँ, देवों में वासव (इन्द्र) हूँ; मैं
 इन्द्रियों में मन और भूतप्राणियों में चेतना (ज्ञानशक्ति) हूँ।।
+</details>
 </details>
 
 </div>

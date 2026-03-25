@@ -23,8 +23,9 @@ title = "24 समदुःखसुखः स्वस्थः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.24 ॥**समदुःखसुखः** दुःखसुखयोः समश् चित्तः **स्वस्थः** स्वस्मिन् स्थितः स्वात्मैकप्रियत्वेन तद्व्यतिरिक्तपुत्रादिजन्ममरणादिसुखदुःखयोः समचित्त इत्यर्थः॥ तत एव **समलोष्टाश्मकाञ्चनः;** तत एव च **तुल्यप्रियाप्रियः** तुल्यप्रियाप्रियविषयः॥ **धीरः** प्रकृत्यात्मविवेककुशलः; तत एव **तुल्यनिन्दात्मसंस्तुतिः** आत्मनि मनुष्यत्वाद्य्-अभिमान-कृत-गुणागुण-निमित्त-स्तुति-निन्दयोः स्वासम्बन्धानुसन्धानेन तुल्य-चित्तः;
@@ -41,12 +42,14 @@ title = "24 समदुःखसुखः स्वस्थः"
 'intelligent,' namely, proficient in discrimination between the Prakrti and the self; who, therefore, regards blame and praise as alike, namely,
 who treats with eality praise and blame looking upon good and evil alities as born of identification with bodies such as those of men etc., and as such unconnected with his real self; who is the 'same in honour and dishonour' because these are feelings based on the misconception that the body is the self, and as a conseence of such discrimination between the body and the self, 'looks alike on friend and foe,' because he understands that ther is no connection between them and himself; and who has thus abandoned all entrprises in which embodied beings are involved - he who is like this, is said to have risen above the Gunas. Now Sri Krsna states the main method (technie) for transcending such Gunas:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.24॥ --,**समदुःखसुखः** समे दुःखसुखे यस्य सः समदुःखसुखः; **स्वस्थः** स्वे आत्मनि स्थितः प्रसन्नः; **समलोष्टाश्मकाञ्चनः** लोष्टं च अश्मा च काञ्चनं च लोष्टाश्मकाञ्चनानि समानि यस्य सः समलोष्टाश्मकाञ्चनः; **तुल्यप्रियाप्रियः** प्रियं च अप्रियं च प्रियाप्रिये तुल्ये समे यस्य सोऽयं तुल्यप्रियाप्रियः; **धीरः** धीमान्; **तुल्यनिन्दात्मसंस्तुतिः** निन्दा च आत्मसंस्तुतिश्च निन्दात्मसंस्तुती; तुल्ये निन्दात्मसंस्तुती यस्य यतेः सः तुल्यनिन्दात्मसंस्तुतिः॥ किं च --,
 </details>
@@ -117,12 +120,14 @@ to which monk, censure and his own praise are the same-.
 धीमान् धृतिमान्वा। अतएव तुल्ये निन्दात्मसंस्तुती दोषकीर्तनगुणकीर्तने
 यस्य स गुणातीत उच्यत इति द्वितीयगतेनान्वयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.24 -- 14.25॥ तुल्यत्वार्थ उक्तः पुरस्तात्।
 </details>
@@ -134,12 +139,14 @@ to which monk, censure and his own praise are the same-.
 तुल्यत्ववाचिनः शब्दस्यार्थ इत्यर्थः। प्रायः सर्वानित्याद्युक्तरीत्येति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.23 -- 14.25॥ अत एवाह -- उदासीनवदित्यादि उच्यते इत्यन्तम्। यः अज्ञो निर्विवेकस्तिष्ठति स एव ज्ञः; सम्यग्ज्ञानात्। तथा हि नेङ्गते न स्वरूपात् च्यवते। अत्र चोपायः शरीरेन्द्रियादिस्वभाव +++(S;;N चोपायः सर्वेषामारंभाणां शरीरारंभकेन्द्रियादि -- )+++ एषः; यत् प्रवर्तनम् +++(N प्रवर्तते)+++ ; न तु फलं किंचिदहमभिसन्दधे इति स्थिरा बुद्धिः +++(N स्थिरबुद्धिः)+++।
 </details>
@@ -148,12 +155,14 @@ to which monk, censure and his own praise are the same-.
 
 14.24 See Comment under 14.25
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.24॥ समेति। गुणकार्येषु हर्षद्वेषशून्यतया स लक्ष्य इत्युक्ते समत्वं
 योगो हेतुरिति साङ्ख्ययोगसारभूतमर्थं स्मारयति। समे दुःखसुखे
@@ -172,19 +181,25 @@ to which monk, censure and his own praise are the same-.
 निन्दा आत्मसंस्तुतिश्च यस्य। अयं भावः -- दुष्टकृता निन्दाऽपि भक्तत्वेन
 स्तुतिप्रायैव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.24॥ अपिच **-- समेति।** समे सुखदुःखे यस्य। यतः स्वस्थः स्वरूप एव
 स्थितः। अतएव समानि लोष्टाश्मकाञ्चनानि यस्य। तुल्ये प्रियाप्रिये
 सुखदुःखहेतुभूते यस्य। धीरो धीमान्। तुल्या निन्दा च आत्मस्तुतिश्च यस्य।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.24 He who is alike in pleasure and pain, who dwells in his self, who looks upon a clod, a stone and piece of gold as of eal value, who remains the same towards things dear and hateful and who is intelligent,
@@ -219,11 +234,13 @@ to whom a piece of clay or stone or gold are the same, who neither likes nor dis
 His mind is not perturbed by anything pleasant or unpleasant. He is the same towards agreeable and disagreeable things. Praise and censure cannot affect him. He stands adamant. He abides in his own essential state as ExistenceKnowledgeBliss Absolute. He is ever calm and serene.
 (Cf.V.18)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.24।। जो धीर मनुष्य सुख-दुःखमें सम तथा अपने स्वरूपमें स्थित रहता है;
@@ -410,6 +427,7 @@ His mind is not perturbed by anything pleasant or unpleasant. He is the same tow
 ।।14.24।। जो स्वस्थ (स्वरूप में स्थित), सुख-दु:ख में समान रहता है तथा
 मिट्टी, पत्थर और स्वर्ण में समदृष्टि रखता है; ऐसा वीर पुरुष प्रिय और
 अप्रिय को तथा निन्दा और आत्मस्तुति को तुल्य समझता है।।
+</details>
 </details>
 
 </div>

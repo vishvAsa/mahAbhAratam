@@ -23,8 +23,9 @@ title = "26 शुक्लकृष्णे गती"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.26॥ शुक्ला गतिर् अर्चिरादिका कृष्णा च धूमादिका। शुक्लया **अनावृत्तिं** यान्ति कृष्णया तु **पुनः** आवर्तन्ते। **एते शुक्लकृष्णे** गती ज्ञानिनां विविधानां पुण्यकर्मणां च श्रुतौ **शाश्वते मते।**तद्य इत्थं विदुर्ये चेमेऽरण्ये श्रद्धां तप इत्युपासते तेऽर्चिषमभिसम्भवन्ति। (छा॰ उ॰ 5।10।1)अथ य इमे ग्रामे इष्टापूर्ते दत्तमित्युपासते ते धूममभिसम्भवन्ति (छा॰ उ॰ 5।10।3) इति।
@@ -39,12 +40,14 @@ title = "26 शुक्लकृष्णे गती"
 
 8.26 The bright path is characterised by the terms 'starting with light.' The dark path is characterised by the 'terms starting with smoke.' By the bright path a man goes to the plane of no-return, but he who goes by the dark path returns again. In the Sruti both the bright and dark paths are said to be eternal in relation to Jnanis and doers of good actions of many kinds. This is corroborated in the text: 'Those who know this and those who worship with faith do Tapas in the forest etc., they go to the light' (Cha. U., 5.10.1), and 'But those who in the village perform Vedic and secular acts of a meritorious nature and the giving of alms - they pass to the smoke' (ibid., 5.10.3).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.26॥ --,**शुक्लकृष्णे** शुक्ला च कृष्णा च शुक्लकृष्णे ज्ञानप्रकाशकत्वात् शुक्ला तदभावात् कृष्णा एते शुक्लकृष्णे **हि गती जगतः** इति अधिकृतानां ज्ञानकर्मणोः न जगतः सर्वस्यैव एते गती संभवतः **शाश्वते** नित्ये संसारस्य नित्यत्वात् **मते** अभिप्रेते। तत्र **एकया** शुक्लया **याति अनावृत्तिम् अन्यया** इतरया **आवर्तते पुनः** भूयः॥
 </details>
@@ -114,12 +117,14 @@ avartate, he returns; punah, again.
 संसारस्यानादि त्वात्। तयोरेकया शुक्लया यात्यनावृत्तिं कश्चित् अन्यया
 कृष्णया पुनरावर्तते सर्वोऽपि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.26॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -128,12 +133,14 @@ avartate, he returns; punah, again.
 
 ॥8.26॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.26॥ शुक्लकृष्णे इति। अनयोर्गर्त्योर्मध्यादाद्यया अनावृत्तिः मोक्षः अन्यया भोगः।
 </details>
@@ -142,12 +149,14 @@ avartate, he returns; punah, again.
 
 8.26 Sukla-krsne etc. By the first of these two courses the non-return i.e., the liberation is attained, and by the other, the enjoyment \[of the mundane life\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.26॥ उक्तं मार्गद्वयमुपसंहरति -- शुक्लकृष्णे इति। शुक्लाऽर्चिरादिगतिः
 कृष्णा च धूमादिगतिः। उभयोः प्रकाशतमोमयत्वाद्भेदः।
@@ -161,20 +170,26 @@ avartate, he returns; punah, again.
 पूर्वोक्तया अनावृत्तिं याति अन्यया कृष्णया पुनः वर्तते आवर्त्तते। अनेन
 प्रकारेण गमनादिना स्वरूपमत्रैव ज्ञेयमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.26॥ उक्तौ मार्गावुपसंहरति **-- शुक्लेति।** शुक्लाऽर्चिरादिगतिः
 प्रकाशमयत्वात् कृष्णा धूमादिगतिस्तमोमयत्वात्। एते गती मार्गौ
 ज्ञानकर्माधिकारिणो जगतः शाश्वतेऽनादी संमते संसारस्यानादित्वात्। तयोरेकया
 शुक्लया निवृत्तिं मोक्षं याति। अन्यथा कृष्णया तु पुनरावर्तते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.26 These two courses of the world, which are white and black, are verily considered eternal. By the one a man goes to the State of Non-return; by the other he returns again.
@@ -205,11 +220,13 @@ returns.\*
 returns; पुनः again.Commentary The bright path is the path to the gods taken by the devotees. The dark path is of the manes taken by those who perform sacrifices or charitable acts with the expectation of rewards.
 These two paths are not open to the whole world. The bright path is open to the devotees and the dark one to those who are devoted to the rituals. These paths are as eternal as the Samsara.World here means devotees or people devoted to ritual.Pitriloka or Chandraloka is Svarga or heaven.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.26।। क्योंकि शुक्ल और कृष्ण -- ये दोनों गतियाँ अनादिकालसे
@@ -278,6 +295,7 @@ These two paths are not open to the whole world. The bright path is open to the 
 ।।8.26।। जगत् के ये दो प्रकार के शुक्ल और कृष्ण मार्ग सनातन माने गये हैं
 । इनमें एक (शुक्ल) के द्वारा (साधक) अपुनरावृत्ति को तथा अन्य (कृष्ण) के
 द्वारा पुनरावृत्ति को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

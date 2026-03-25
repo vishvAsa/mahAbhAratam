@@ -23,8 +23,9 @@ title = "36 द्यूतञ् छलयतामस्मि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.36॥ छलं कुर्वतां छलास्पदेष्व् अक्षादिलक्षणम् **द्यूतम्** अहम्। जेतॄणां **जयः** अस्मि; व्यवसायिनां **व्यवसायः,**अस्मि; सत्त्वतां सत्त्वं **महामनस्त्वम्।**
@@ -39,12 +40,14 @@ title = "36 द्यूतञ् छलयतामस्मि"
 
 10.36 Of those who practise fraud with a view to defeat each other, I am gambling such a dice-play etc., I am the victory of those who achieve victory. I am the effort of those who make effort. I am the magnanimity of those who possess magnanimity of mind.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.36॥ --,**द्यूतम्** अक्षदेवनादिलक्षणं **छलयतां** छलस्य कर्तॄणाम् **अस्मि। तेजस्विनां तेजः अहम्। जयः अस्मि** जेतॄणाम्; **व्यवसायः अस्मि** व्यवसायिनाम्; **सत्त्वं सत्त्ववतां** सात्त्विकानाम् **अहम्**॥
 </details>
@@ -97,12 +100,14 @@ sattvavatam, of those possessed of sattva.
 फलाव्यभिचार्युद्यमोऽहमस्मि। सत्त्ववतां सात्त्विकानां
 धर्मज्ञानवैराग्यैश्वर्यलक्षणं सत्त्वकार्यमेवात्र सत्त्वमहम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.36॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -111,12 +116,14 @@ sattvavatam, of those possessed of sattva.
 
 ॥10.36॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -125,12 +132,14 @@ sattvavatam, of those possessed of sattva.
 
 10.36 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.36॥ द्यूतमिति। छलयतां सम्बन्धि धर्मद्यूतं छलमहम् यथा युधिष्ठिरे
 भगवत्सेवोपयोगिक्रीडासाधनेष्वक्षलक्षणेषु द्यूतं वा भगवद्विभूतिः। तत्र च
@@ -148,20 +157,26 @@ sattvavatam, of those possessed of sattva.
 व्यवसायिनामुद्यमवतां निश्चयवतां वा व्यवसायः उद्यमः निश्चयो वाऽस्मि।
 सत्त्ववतां सात्त्विकानां मध्ये सत्त्वमहम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.36॥ **द्यूतमिति।** छलयतामन्योन्यवञ्चनपराणां संबन्धि द्यूतमस्मि।
 तेजस्विनां प्रभावतां तेजः प्रभावोऽस्मि। जेतॄणां जयोऽस्मि।
 व्यवसायिनामुद्यमवतां व्यवसाय उद्यमोऽस्मि। सत्त्ववतां सात्त्विकानां
 सत्त्वमहम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.36 Of the fraudulent, I am gambling. I am the brilliance of the brilliant. I am victory, I am effort. I am the magnanimity of the magnanimous.
@@ -195,11 +210,13 @@ I am Victory; I am Effort; and I am the Purity of the pure.
 (I) am; व्यवसायः determination; अस्मि (I) am; सत्त्वम् the goodness;
 सत्त्ववताम् of the good; अहम् I.Commentary Of the methods of defrauding others I am gambling such as diceplay. Gambling is My manifestation. I am the power of the powerful. I am the victoyr of the victorious. I am the effort of those who make that effort.I am Sattva which assumes the forms of Dharma (virtue); Jnana (knowledge); Vairagya (dispassion); and Aisvarya (wealth or lordship) in Sattvic persons.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.36।। छल करनेवालोंमें जूआ और तेजस्वियोंमें तेज मैं हूँ। जीतनेवालोंकी
@@ -272,6 +289,7 @@ I am Victory; I am Effort; and I am the Purity of the pure.
 ।।10.36।। मैं छल करने वालों में द्यूत हूँ और तेजस्वियों में तेज हूँ, मैं
 विजय हूँ; मैं व्यवसाय (उद्यमशीलता) हूँ और सात्विक पुरुषों का सात्विक भाव
 हूँ।।
+</details>
 </details>
 
 </div>

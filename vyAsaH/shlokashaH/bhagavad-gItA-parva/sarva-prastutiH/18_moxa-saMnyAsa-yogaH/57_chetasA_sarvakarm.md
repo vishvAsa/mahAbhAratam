@@ -23,8 +23,9 @@ title = "57 चेतसा सर्वकर्माणि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.57॥ चेतसा आत्मनो मदीयत्वमन्नियाम्यत्वबुद्ध्या उक्तं हिमयि सर्वाणि कर्माणि सन्न्यस्याध्यात्मचेतसा। (गीता 3।30) इति सर्वकर्माणि सकर्तृकाणि साराध्यानि **मयि सन्न्यस्य मत्परः**अहम् एव फलतया प्राप्य इत्य् अनुसन्दधानः कर्मामि कुर्वन् इमम् एव **बुद्धियोगम् उपाश्रित्य सततं मच्चित्तो भव। एवम्
@@ -43,12 +44,14 @@ title = "57 चेतसा सर्वकर्माणि"
 (3.30). Surrendering all acts to Me along with agentship and the object of worship and regarding 'Me as the goal,' i.e., constantly contemplating that I alone am to be attained as the goal; performing all acts; and resorting to Buddhi-Yoga - focus your mind on Me always.
 Buddhi Yoga here implies the mental attitude special to the seeker of salvation in regard to agency of works, the fruits etc. Thus
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.57॥ -- **चेतसा** विवेकबुद्ध्या **सर्वकर्माणि** दृष्टादृष्टार्थानि **मयि** ईश्वरे **संन्यस्य** यत् करोषि यदश्नासि (गीता 9।27) इति उक्तन्यायेन; **मत्परः** अहं वासुदेवः परो यस्य तव सः त्वं मत्परः सन् मय्यर्पितसर्वात्मभावः **बुद्धियोगं** समाहितबुद्धित्वं बुद्धियोगः तं बुद्धियोगम् उपाश्रित्य आश्रयः अनन्यशरणत्वं **मच्चित्तः** मय्येव चित्तं यस्य तव सः त्वं मच्चित्तः **सततं** सर्वदा **भव**॥
 </details>
@@ -118,12 +121,14 @@ Having the intellect (buddhi) concentrated on Me is buddhi-yoga.
 मोक्षहेतुत्वसंपादकमुपाश्रित्यानन्यशरणतया स्वीकृत्य मच्चित्तो मयि भगवति
 वासुदेव एव चित्तं यस्य न राजनि कामिन्यादौ वा स मच्चित्तः सततं भव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.57॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -132,12 +137,14 @@ Having the intellect (buddhi) concentrated on Me is buddhi-yoga.
 
 ॥18.57॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -148,12 +155,14 @@ Having the intellect (buddhi) concentrated on Me is buddhi-yoga.
 
 18.57 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.57॥ अतस्त्वमपि चेतसा योगभक्तिवासितेन मयि साक्षात्कर्त्तरि
 परदेवतायां सन्न्यस्यानुसन्धाय त्यागार्थकत्वेऽपिदण्डिपुरुषं त्यज
@@ -172,10 +181,13 @@ Having the intellect (buddhi) concentrated on Me is buddhi-yoga.
 यस्यैतादृशः सन् बुद्ध्या व्यवसायात्मिकया योगमुक्तप्रकारं उपाश्रित्य
 सतृतं निरन्तरं मच्चित्तः मय्येव चित्तं यस्य तादृशो भव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.57॥ यस्मादेवं तस्मात् **-- चेतसेति।** सर्वकर्माणि चेतसा मयि
 संन्यस्य समर्प्य मत्परः अहमेव परः प्राप्यः पुरुषार्थो यस्य सः
@@ -183,10 +195,13 @@ Having the intellect (buddhi) concentrated on Me is buddhi-yoga.
 कर्मानुष्ठानकालेऽपिब्रह्मार्पणं ब्रह्महविः इति न्यायेन मय्येव चित्तं
 यस्य तथाभूतो भव।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.57 Surrendering all acts to me by your mind, thinking of Me as the goal, and resorting to Buddhi-yoga, focus your thought ever on Me.
@@ -218,11 +233,13 @@ Having the intellect (buddhi) concentrated on Me is buddhi-yoga.
 resigning; मत्परः having Me as the highest goal; बुद्धियोगम् the Yoga of discrimination; उपाश्रित्य resorting to; मच्चित्तः with the mind fixed on Me; सततम् always; भव be.Commentary Do thou; O Arjuna; surrender all thy actions to Me whilst at the same time fixing thy mind on discrimination. Then through that discrimination thou wilt see thy Self as separate from the body and activity and existing in My pure Being.
 Chetasa Mentally with the discriminative faith that knowledge finally leads to liberation when the heart is purified through selfless works done with the spirit of offering to God.Sarvakarmani All actions producing visible and invisible results.Me The Lord As taught in verse 27 of chapter IX Whatever thou doest; whatever thou eatest; etc.; do thou dedicate all thy actions to Me.Matparah Taking Me; Vaasudeva; as the supreme goal; and his whole self centred in Me.Resorting to Buddhi Yoga As thy sole refuge steadymindedness.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.57।। चित्तसे सम्पूर्ण कर्म मुझमें अर्पण करके, मेरे परायण होकर तथा
@@ -425,6 +442,7 @@ Chetasa Mentally with the discriminative faith that knowledge finally leads to l
 
 ।।18.57।। मन से समस्त कर्मों का संन्यास मुझमें करके मत्परायण होकर
 बुद्धियोग का आश्रय लेकर तुम सतत मच्चित्त बनो।।
+</details>
 </details>
 
 </div>

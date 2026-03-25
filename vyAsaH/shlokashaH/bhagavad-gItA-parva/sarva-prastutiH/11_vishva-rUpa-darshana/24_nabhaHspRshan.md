@@ -25,8 +25,9 @@ title = "24 नभःस्पृशन्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.24॥ नभःशब्दःतदक्षरे परमे व्योमन् (महाना॰ 1।2)आदित्यवर्णं तमसः परस्तात् (श्वे॰ उ॰ 3।8 यजुः सं॰ 31।18)क्षयन्तमस्य रजसः पराके (ऋक्स॰ 2।6।25।5)यो अस्याध्यक्षः परमे व्योमन् (ऋक्सं॰ 8।9।17।7 इत्यादिश्रुतिसिद्धत्रिगुणप्रकृत्यतीत -- परमव्योमवाची; सविकारस्य प्रकृतितत्त्वस्य पुरुषस्य च सर्वावस्थस्य; कृत्स्नस्य आश्रयतया नभःस्पृशम् इति वचनात्। द्यावापृथिव्योरिदमन्तरं हि व्याप्तम् (गीता 11।20) इति पूर्वोक्तत्वाच् च।**दीप्तम् अनेकवर्णं व्यात्ताननं दीप्तविशालनेत्रं त्वां दृष्ट्वा प्रव्यथितान्तरात्मा** अत्यन्तभीतमना **धृतिं न विन्दामि;** देहस्य धारणं न लभे। मनसश् च इन्द्रियाणां **च शमं** न लभे।**विष्णो** व्यापिन् सर्वव्यापिनम् अतिमात्रम् अत्यद्भुतम् अतिघोरं च त्वां दृष्ट्वा प्रशिथिलसर्वावयवो व्याकुलेन्द्रियश् च भवामि इत्यर्थः।
@@ -46,12 +47,14 @@ title = "24 नभःस्पृशन्"
 (11.20). 'Beholding Your form shining, multicoloured, and with yawning mouths and large and resplendent eyes, my inner being trembles in fear.
 I am unable to find support, namely, I am unable to find support for the body. I am unable to get peace of mind and of the senses. O Visnu, namely, O Pervader, beholding You pervading everything, incomparable in magnitude, extremely wonderful and terrible, I find my limbs ivering and my senses agitated.' Such is the meaning.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.24॥ --,**नभःस्पृशं** द्युस्पर्शम् इत्यर्थः; **दीप्तं** प्रज्वलितम्; **अनेकवर्णम्** अनेके वर्णाः भयंकराः नानासंस्थानाः यस्मिन् त्वयि तं त्वाम् अनेकवर्णम्; **व्यात्ताननं** व्यात्तानि विवृतानि आननानि मुखानि यस्मिन् त्वयि तं त्वां व्यात्ताननम्; **दीप्तविशालनेत्रं** दीप्तानि प्रज्वलितानि विशालानि विस्तीर्णानि नेत्राणि यस्मिन् त्वयि तं त्वां दीप्तविशालनेत्रं **दृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा** प्रव्यथितः प्रभीतः अन्तरात्मा मनः यस्य मम सः अहं प्रव्यथितान्तरात्मा सन् **धृतिं धैर्यं न विन्दामि** न लभे **शमं च** उपशमनं मनस्तुष्टिं हे **विष्णो**॥ कस्मात् --,
 </details>
@@ -116,12 +119,14 @@ steadiness; ca, and; samam, peace, calmness of mind. Why;
 प्रज्वलितविस्तीर्णचक्षुषं त्वां दृष्ट्वा हि एव प्रव्यथितान्तरात्माहं
 धृतिं शमं च न विन्दामीत्यन्वयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.24॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -130,12 +135,14 @@ steadiness; ca, and; samam, peace, calmness of mind. Why;
 
 ॥11.24॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.24॥ No commentary.,
 </details>
@@ -144,12 +151,14 @@ steadiness; ca, and; samam, peace, calmness of mind. Why;
 
 11.24 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.24॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -166,10 +175,13 @@ steadiness; ca, and; samam, peace, calmness of mind. Why;
 अतरात्मा यस्य तादृशो हि निश्चयेन धृतिं धैर्यं शमं च शान्तिं; न विन्दामि
 न प्राप्नोमीत्यर्थः। स्वरक्षणार्थं विष्णो इति सम्बोधनम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.24॥ न केवलं भीतोऽहमित्येतावदेव अपि तु **-- नभःस्पृशमिति।** नभः
 स्पृशतीति नभःस्पृक्तं। अन्तरिक्षव्यापिनमित्यर्थः। दीप्तं तेजोयुक्तम्।
@@ -177,10 +189,13 @@ steadiness; ca, and; samam, peace, calmness of mind. Why;
 दीप्तानि विशालानि नेत्राणि यस्य तम् एवंभूतं त्वां दृष्ट्वा
 प्रव्यथितोऽन्तरात्मा मनो यस्य सोऽहम् धृतिं धैर्यमुपशमं च न लभे।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.24 When I behold You touching the Supreme Heaven, shining,
@@ -213,11 +228,13 @@ multicoloured, with yawning mouths and large resplendent eyes, my inner being tr
 प्रव्यथितान्तरात्मा terrified at heart; धृतिम् courage; न not; विन्दामि
 (I) find; शमम् peace; च and; विष्णो O Vishnu.Commentary Dhriti also means patience and strength. Sama also means control.The vision of the Cosmic Form has frightened Arjuna considerably.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.24।। हे विष्णो ! आपके अनेक देदीप्यमान वर्ण हैं, आप आकाशको स्पर्श कर
@@ -272,6 +289,7 @@ multicoloured, with yawning mouths and large resplendent eyes, my inner being tr
 ।।11.24।। हे विष्णो! आकाश के साथ स्पर्श किये हुए देदीप्यमान अनेक रूपों
 से युक्त तथा विस्तरित मुख और प्रकाशमान विशाल नेत्रों से युक्त आपको देखकर
 भयभीत हुआ मैं धैर्य और शान्ति को नहीं प्राप्त हो रहा हूँ।।
+</details>
 </details>
 
 </div>

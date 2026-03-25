@@ -23,8 +23,9 @@ title = "27 प्रकृतेः क्रियमाणानि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>वेङ्कटनाथः</summary>
 
@@ -120,12 +121,14 @@ title = "27 प्रकृतेः क्रियमाणानि"
 (Ahankara), that one who is ignorant of the real nature of the self,
 thinks, 'I am the doer' with regard to the activities that are really being done by the Gunas of Prakrti.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.27॥ **प्रकृतेः** प्रकृतिः प्रधानं सत्त्वरजस्तमसां गुणानां साम्यावस्था तस्याः प्रकृतेः **गुणैः** विकारैः कार्यकरणरूपैः **क्रियमाणानि कर्माणिलौकिकानि शास्त्रीयाणि च** सर्वशः **सर्वप्रकारैः** अहंकारविमूढात्मा **कार्यकरणसंघातात्मप्रत्ययः अहंकारः तेन विविधं नानाविधं मूढः आत्मा अन्तःकरणं यस्य सः अयं कार्यकरणधर्मा कार्यकरणाभिमानी अविद्यया कर्माणि आत्मनि मन्यमानः तत्तत्कर्मणाम्** अहं कर्ता इति मन्यते**॥ यः पुनर्विद्वान्**
 </details>
@@ -204,12 +207,14 @@ his own-, he thinks, 'I am the doer of those diverse activities.'
 करोम्यहमिति मन्यते कर्त्रध्यासेन। कर्ताहमिति तृन्प्रत्ययः। तेनन
 लोकाव्ययनिष्ठाखलर्थतृनाम् इति षष्ठीप्रतिषेधः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.27॥ विद्वदविदुषोः कर्मभेदमाह प्रकृतेरिति।
 प्रकृतेर्गुणैरिन्द्रियादिभिः। प्रकृतिमपेक्ष्य गुणभूतानि हि तानि
@@ -234,12 +239,14 @@ his own-, he thinks, 'I am the doer of those diverse activities.'
 भेदोऽत्र विवक्षितो ग्रन्थान्तरादवगन्तव्यः। गुणा गुणेष्विति पदद्वयस्य
 विवक्षितमर्थमाह **गुणा** इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.27॥ अज्ञानामित्युक्तम्। तदज्ञत्वं दर्शयति प्रकृतेरिति। प्रकृतिसंबन्धिभिः गुणैः सत्त्वाद्यैः किल कर्माणि क्रियन्ते। मूढश्च अहं कर्ता इत्यध्यवस्य+++(S omits अध्यवस्य)+++ मिथ्यैव आत्मानं बध्नाति।
 </details>
@@ -248,12 +255,14 @@ his own-, he thinks, 'I am the doer of those diverse activities.'
 
 3.27 Prakreh etc. Indeed the actions are performed by the Strands, Sattva etc., belonging to the Prakrti. But the fool unnecessarily binds himself by wrongly comprehending 'I' am the doer'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.27 3.28॥ कर्म कुर्वतोर्विद्वदविदुषोर्विशेषं स्पष्टं सन्दर्शयति
 प्रकृतेरिति द्वाभ्याम्। प्रकृते योगे साङ्खयरीत्या विशेषदर्शनमिति
@@ -277,10 +286,13 @@ his own-, he thinks, 'I am the doer of those diverse activities.'
 क्रियमाणानि कर्माणिअहमेव कर्ता इति मन्यते न तु भगवदिच्छाम्। तानि च
 भगवाल्ँ लोकव्यामोहार्थं कारयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/27_prakRteH_kriyamAN.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/27_prakRteH_kriyamAN.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.27॥ ननु विदुषापि चेत्कर्म कर्तव्यं तर्हि विद्वदविदुषोः को विशेष
 इत्याशङक्योभयोर्विशेषं दर्शयति **प्रकृतेरिति** द्वाभ्याम्।
@@ -288,10 +300,13 @@ his own-, he thinks, 'I am the doer of those diverse activities.'
 कर्माणि तान्यहमेव कर्ता करोमीति मन्यसे। तत्र हेतुः।
 अहंकारेणेन्द्रियादिष्वात्माध्यासेन विमूढ आत्मा बुद्धिर्यस्य सः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.27 Actions are being performed in every way by the Gunas of Prakrti.
@@ -328,11 +343,13 @@ senses; mind; etc.; are formed. The man who is deluded by egoism identifies the 
 He; therefore; thinks through ignorance; I am the doer. In reality the Gunas of Nature perform all actions.
 (Cf.III.29V.9IX.9;10XIII.21;24;30;32XVIII.13;14).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.27।। सम्पूर्ण कर्म सब प्रकारसे प्रकृतिके गुणोंद्वारा किये जाते हैं;
@@ -394,6 +411,7 @@ He; therefore; thinks through ignorance; I am the doer. In reality the Gunas of 
 
 ।।3.27।। सम्पूर्ण कर्म प्रकृति के गुणों द्वारा किये जाते हैं, अहंकार से
 मोहित हुआ पुरुष, "मैं कर्ता हूँ" ऐसा मान लेता है।।
+</details>
 </details>
 
 </div>

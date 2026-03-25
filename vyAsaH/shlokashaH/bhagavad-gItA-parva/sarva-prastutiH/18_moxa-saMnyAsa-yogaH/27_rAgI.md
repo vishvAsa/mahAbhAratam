@@ -23,8 +23,9 @@ title = "27 रागी"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.27॥**रागी** यशोऽर्थी; **कर्मफलप्रेप्सुः** कर्मफलाथीं; **लुब्धः** कर्मापेक्षितद्रव्यव्ययस्वभावरहितः **हिंसात्मकः** परान् पीडयित्वा तैः कर्म कुर्वाणः; **अशुचिः** कर्मापेक्षितशुद्धिरहितः; **हर्षशोकान्वितः** युद्धादौ कर्मणि जयादिसिद्ध्यसिद्ध्योर् हर्षशोकान्वितः **कर्ता राजसः परिकीर्तितः।**
@@ -41,12 +42,14 @@ title = "27 रागी"
 'greedy' is he who does not spend the wealth reired for the act; the
 'harmful' is one, who while acting, hurts others; the 'impure', is one who lacks the purity reired for the act; who is moved by 'delight and grief' in war etc., is one who is elated or depressed by success or failure in victory (or the opposite) - a doer who fulfils these conditions is declared to be Rajasika.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.27॥ --,**रागी** रागः अस्य अस्तीति रागी; **कर्मफलप्रेप्सुः** कर्मफलार्थी इत्यर्थः; **लुब्धः** परद्रव्येषु संजाततृष्णः; तीर्थादौ च स्वद्रव्यापरित्यागी वा; **हिंसात्मकः** परपीडाकरस्वभावः; **अशुचिः** बाह्याभ्यन्तरशौचवर्जितः; **हर्षशोकान्वितः** इष्टप्राप्तौ हर्षः अनिष्टप्राप्तौ इष्टवियोगे च शोकः ताभ्यां हर्षशोकाभ्याम् अन्वितः संयुक्तः; तस्यैव च कर्मणः संपत्तिविपत्तिभ्यां हर्षशोकौ स्याताम्; ताभ्यां संयुक्तो यः **कर्ता सः राजसः परिकीर्तितः**॥
 </details>
@@ -113,12 +116,14 @@ rajasah, possessed of rajas.
 स्वाभिप्रायाप्रकटने तु नैष्कृतिक इति भेदः; अशुचिः शास्त्रोक्तशौचहीनः;
 सिद्ध्यसिद्ध्योः कर्मफलस्य हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.27॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -127,12 +132,14 @@ rajasah, possessed of rajas.
 
 ॥18.27॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.26 -- 18.28॥ मुक्तसङ्ग इत्यादि तामस उच्यते इत्यन्तम्। अहं कर्ता इति न वदन्; तच्छीलः; तद्धर्मा +++(N तद्धर्मः )+++ ; तत्साधुकारी वा यो न +++(S न यो भवति ;N;K omit न )+++ भवति इति अनहंवादी इति। अनेन णिनिना व्यवहारमात्रसंवृत्तिवशेन योगिनोऽपि अहं करोमि इति वचो न निषिद्धम्। ,हर्षशोकान्वितः; सिद्ध्यसिद्ध्योः। निकृतिः नैर्घृण्यम्।
 </details>
@@ -141,12 +148,14 @@ rajasah, possessed of rajas.
 
 18.27 See Comment under 18.28
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.27॥ रागीति। कर्मफलप्रेप्सुस्तादृशः कोऽपि लुब्धो हिंसात्मकः कर्ता न
 तत्फलं राज्यस्वर्गादि लभते किन्तु हर्षशोकौ ताभ्यामन्वित इति राजसः।
@@ -161,20 +170,26 @@ rajasah, possessed of rajas.
 हर्षः असिद्धौ शोकस्ताभ्यामन्वितः; एतादृशः कर्त्ता राजसः विक्षिप्तस्वभावः
 परिकीर्तितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.27॥ राजसं कर्तारमाह **-- रागीति।** रागी पुत्रादिप्रीतिमान्;
 कर्मफलप्रेप्सुः कर्मफलकामी; लुब्धः परस्वाभिलाषी; हिंसात्मको मारकस्वभावः;
 अशुचिर्विहितशौचशून्यः; लाभालाभयोर्हर्षशोकाभ्यामन्वितः कर्ता राजसः
 परिकीर्तितः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.27 That doer is called Rajasika who is passionate, who seeks the fruits of his acts, who is greedy, harmful, impure and who is moved by delight and grief.
@@ -210,11 +225,13 @@ etc.)Harshasokanvitah Joy on the attainment of what is desirable;
 pleasant or agreeable sorrow on the attainment of what is not desirable;
 pleasant or agreeable; and on having to part with what is desirable. He will be elated with joy when he attains success he will be overcoming by grief when he fails in his undertaking.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.27।। जो कर्ता रागी, कर्मफलकी इच्छावाला, लोभी, हिंसाके स्वभाववाला,
@@ -291,6 +308,7 @@ pleasant or agreeable; and on having to part with what is desirable. He will be 
 
 ।।18.27।। रागी, कर्मफल का इच्छुक, लोभी, हिंसक स्वभाव वाला, अशुद्ध और
 हर्षशोक से युक्त कर्ता राजस कहलाता है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "13 ओमित्येकाक्षरम् ब्रह्म"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.13॥ सर्वाणि श्रोत्रादीनि इन्द्रियाणि ज्ञानद्वारभूतानि **संयम्य** स्वव्यापारेभ्यो विनिवर्त्य हृदयकमलनिविष्टे मय्य् अक्षरे **मनो निरुध्य योगा**ख्यां **धारणाम् आस्थितः** मय्य् एव निश्चलां स्थितिम् आस्थितः।  
@@ -44,12 +45,14 @@ title = "13 ओमित्येकाक्षरम् ब्रह्म"
 (Dharana) which is called concentration or Yoga,' i.e., abiding in Me alone in a steady manner; uttering the sacred 'syllable Om,' the brahman which connotes Me; remembering Me, who am expressed by the syllable Om;
 and fixing his 'life-breath within the head' - whosoever abandons the body and departs in this way reaches the highest state. He reaches the pure self freed from Prakrti, which is akin to My form. From that state there is no return. Such is the meaning. Later on Sri Krsna will elucidate: 'They describe that as the highest goal of the Atman, which is not destroyed when all things are destroyed, which is unmanifest and imperishable' (8.2021). Thus, the modes of contemplation on the Lord by the aspirants after prosperity and Kaivalya (Atmann-consciousness) have been taught according to the goal they lead to. Now, Sri Krsna teaches the way of meditation on the Lord by the Jnanin and the mode of attainment by him.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.13॥ --,**ओमिति एकाक्षरं ब्रह्म** ब्रह्मणः अभिधानभूतम् ओंकारं **व्याहरन्** उच्चारयन् तदर्थभूतं **माम्** ईश्वरम् **अनुस्मरन्** अनुचिन्तयन् **यः,**प्रयाति **म्रियते** सः त्यजन् **परित्यजन्** देहं **शरीरम् -- त्यजन् देहम् इति प्रयाणविशेषणार्थम् देहत्यागेन प्रयाणम् आत्मनः न स्वरूपनाशेनेत्यर्थः -- सः एवं** याति **गच्छति** परमां **प्रकृष्टां** गतिम्**॥ किञ्च --,**
 </details>
@@ -139,12 +142,14 @@ gatim, Goal. Further,
 व्याहरन्मामनुस्मरन्नात्मनो योगधारणामास्थित इति व्याख्येयम्।
 विचित्रफलत्वोपपत्तेर्वा न विरोधः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.12 -- 8.13॥ ब्रह्मनाडीं विना यद्यन्यत्र गच्छति तर्हि विना मोक्षं
 स्थानान्तरं प्राप्नोतीति सर्वद्वाराणि संयम्यनिर्गच्छंश्चक्षुषा सूर्यं
@@ -167,12 +172,14 @@ gatim, Goal. Further,
 **यत्रे**ति। आदौ हृदि निरुध्येत्यध्याहारो दोषः।
 मरणवेलायामखण्डस्मृतिर्वक्तव्या तत्कथं धारणोच्यते इत्यत आह -- **योगे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.12 -- 8.14॥ सर्वद्वाराणीत्यादि योगिन इत्यन्तम्। द्वाराणि इन्द्रियाणि। हृदि इति -- अनेन विषयसंगाभाव उच्यते न तु विष्ठास्थानाधिष्ठानम्। आत्मनः प्राणम् आत्मसारथिम् इच्छाशक्त्यात्मनि मूर्ध्नि सकलतत्त्वातीते धारयन् इति कायनियमः। ओमिति जपन् इति वाङ्नियमः। मामनुस्मरन्निति चेतसोऽनन्यगामिता +++(S चेतसाऽनन्यगामिता)+++। यः प्रयादि -- दिनाद्दिनम् +++(N दिनंदिनं)+++ अपुनरावृत्तये गच्छति। तथा च देहं त्यजन् कथं मे +++(SN omit मे)+++ पुनरिदं सकलापत्स्थानं शरीरं मा भूयात् इत्येवं यो मामनन्यचेताः स्मरति सततमेव याति जानाति +++(S omits जानाति)+++ स मद्भावम् मत्स्वरूपम्। न +++(N नन्वत्र)+++ मुनेः परब्रह्माद्वैतपदोपक्षेपविरोधी उत्क्रान्तौ ( तत् क्रान्तौ K [n] विरोधीति उत्क्रान्तौ भरः) भरः। तथाचोक्तम् -- व्यापिन्यां शिवसत्तायाम् उत्क्रान्तिर्नाम निष्फला।  
   
@@ -189,12 +196,14 @@ gatim, Goal. Further,
 
 8.13 See Comment under 8.14
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.12 -- 8.13॥ तत्प्राप्तौ साङ्गमुपायमाह -- सर्वद्वाराणीति द्वाभ्याम्।
 ब्रह्मवादे ममैव नामरूपात्मकत्वादिति योगी मां ँइत्येकाक्षररूपमनुस्मरन्
@@ -209,20 +218,26 @@ gatim, Goal. Further,
 गच्छति स परमां परो मीयते यया यत्र वा तां गतिं अक्षरात्मिकां याति
 प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.13॥ **ओमिति।** ओमित्येकं यदक्षरं तदेव ब्रह्मवाचकत्वाद्वा
 प्रतिमादिवद्ब्रह्मप्रतीकत्वाद्वा ब्रह्म तद्व्याहरन्नुच्चारयन् तद्वाच्यं
 च मामनुस्मरन्नेव देहं त्यजन्यः प्रकर्षेण याति अर्चिरादिमार्गेण स परमां
 श्रेष्ठां मद्गतिं याति प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.13 He who departs by leaving the body while uttering the single syllable, viz Om, which is Brahman, and thinking of Me, he attains the supreme Goal.
@@ -250,11 +265,13 @@ uttering; माम् Me; अनुस्मरन् remembering; यः who; 
 त्यजन् leaving; देहम् the body; सः he; याति attains; परमाम् supreme;
 गतिम् goal.Commentary Having controlled the thoughts the Yogi ascends by the Sushumna; the Nadi (subtle psychic nervechannel) which passes upwards from the heart. He fixes his whole Prana or lifreath in the crown of the head in the Brahmarandhra or the hole of Brahman. He utters the sacred monosyllable Om; meditates on Me and leaves the body.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.12 -- 8.13।। (इन्द्रियोंके) सम्पूर्ण द्वारोंको रोककर मनका हृदयमें
@@ -323,6 +340,7 @@ uttering; माम् Me; अनुस्मरन् remembering; यः who; 
 
 ।।8.13।। जो पुरुष ओऽम् इस एक अक्षर ब्रह्म का उच्चारण करता हुआ और मेरा
 स्मरण करता हुआ शरीर का त्याग करता है, वह परम गति को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

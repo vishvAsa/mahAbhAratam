@@ -23,8 +23,9 @@ title = "20 प्रकृतिम् पुरुषम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.19॥ प्रकृतिपुरुषौ **उभौ** अन्योन्यसंसृष्टौ **अनादी** इति **विद्धि।** बन्धहेतुभूतान् **विकारान्** इच्छाद्वेषादीन् अमानित्वादिकान् **च गुणान्** मोक्षहेतुभूतान् **प्रकृतिसम्भवान् विद्धि**। पुरुषेण संसृष्टा इयम् अनादिकालप्रवृत्ता क्षेत्राकारपरिणता प्रकृतिः स्वविकारैर् इच्छाद्वेषादिभिः पुरुषस्य बन्धहेतुर् भवति। सा एव अमानित्वादिभिः स्वविकारैः पुरुषस्यापवर्ग हेतुर् भवति इत्यर्थः। संसृष्टयोः प्रकृतिपुरुषयोः कार्यभेदम् आह --
@@ -39,12 +40,14 @@ title = "20 प्रकृतिम् पुरुषम्"
 
 13.20 Know this Prakrti and Purusa (self) are uncreated and are beginningless. Know that the modifications, desire, hatred etc., which cause bondage, and the alities of modesty etc., which cause release, originate from Prakrti. The Prakrti, having no beginning, develops into the form of the body, and conjoint with the self, causes bondage through its own transformations such as desire and hatred. The same Prakrti, through its transformations like modesty etc., causes release. Such is the meaning. The difference in the functions of Prakrti and Purusa in combination is stated -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.20॥ --,**प्रकृतिं पुरुषं चैव** ईश्वरस्य प्रकृती तौ प्रकृतिपुरुषौ **उभावपि अनादि विद्धि;** न विद्यते आदिः ययोः तौ अनादी। नित्येश्वरत्वात् ईश्वरस्य तत्प्रकृत्योरपि युक्तं नित्यत्वेन भवितुम्। प्रकृतिद्वयवत्त्वमेव हि ईश्वरस्य ईश्वरत्वम्। याभ्यां प्रकृतिभ्याम् ईश्वरः जगदुत्पत्तिस्थितिप्रलयहेतुः; ते द्वे अनादी सत्यौ संसारस्य कारणम्॥ न आदी अनादी इति तत्पुरुषसमासं केचित् वर्णयन्ति। तेन हि किल ईश्वरस्य कारणत्वं सिध्यति। यदि पुनः प्रकृतिपुरुषावेव नित्यौ स्यातां तत्कृतमेव जगत् न ईश्वरस्य जगतः कर्तृत्वम्। तत् असत् प्राक् प्रकृतिपुरुषयोः उत्पत्तेः ईशितव्याभावात् ईश्वरस्य अनीश्वरत्वप्रसङ्गात्; संसारस्य निर्निमित्तत्वे अनिर्मोक्षप्रसङ्गात् शास्त्रानर्थक्यप्रसङ्गात् बन्धमोक्षाभावप्रसङ्गाच्च। नित्यत्वे पुनः ईश्वरस्य प्रकृत्योः सर्वमेतत् उपपन्नं भवेत्। कथम् **विकारांश्च गुणांश्चैव** वक्ष्यमाणान्विकारान् बुद्ध्यादिदेहेन्द्रियान्तान् गुणांश्च सुखदुःखमोहप्रत्ययाकारपरिणतान् **विद्धि** जानीहि **प्रकृतिसंभवान्;** प्रकृतिः ईश्वरस्य विकारकारणशक्तिः त्रिगुणात्मिका माया; सा संभवो येषां विकाराणां गुणानां च तान् विकारान् गुणांश्च विद्धि प्रकृतिसंभवान् प्रकृतिपरिणामान्॥ के पुनः ते विकाराः गुणाश्च प्रकृतिसंभवाः --,
 </details>
@@ -230,12 +233,14 @@ Nature;
 सत्त्वरजस्तमोरूपान् सुखदुःखमोहान् प्रकृतिसंभवानेव प्रकृतिकारणकानेव
 विद्धि जानीहि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.20॥ यतश्च यत् \[13।4\] इति वक्तुं प्रकृतिविकारपुरुषान्
 सङ्क्षिप्याऽऽह। गुणाः सत्त्वादयः। तेषामत्यल्पो विशेषो लयात्सर्ग इति
@@ -266,12 +271,14 @@ Nature;
 इत्यर्थः। कार्याश्च तेऽकार्याश्च। तिखस्त्रयः। अनेन सुखाद्यङ्गीकारे
 विकारेभ्यः पृथग्ग्रहणमयुक्तमित्यपि सूचितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.20 -- 13.23॥ एतल्लक्षणं कृत्वा परीक्षा क्रियते -- प्रकृतिमित्यादि पर इत्यन्तम्। प्रकृतिरप्यनादिः +++(;N कार्यकारणप्रकृतिरप्यनादिः)+++ कारणान्तराभावात्। विकाराः पटादयः। प्रकृतिरिति कार्यकारणभावे हेतुः। पुरुषस्तु प्रधान्यात् भोक्ता। प्रकृतिपुरुषयोः पङ्ग्वन्धवत् किलान्योन्यापेक्षा वृत्तिः। अत एवास्य \[पुरुषस्य\] शास्त्रकृद्भिः नानाकारैर्नामभिरभिधीयते रूपम् उपद्रष्टा इत्यादिभिः। अयमत्र तात्पर्यार्थः
 -- प्रकृतिः तद्विकारः; चतुर्दशविधः सर्गः; तथा पुरुषः; एतत्सर्वम् अनादि
@@ -282,12 +289,14 @@ Nature;
 
 13.20 See Comment under 13.23
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.20॥ अथस च यो यत्प्रभावश्च \[13।4\] इत्येतत्पूर्वप्रतिज्ञातं
 पुरुषतत्त्वं कथयिष्यन् अत्यन्तविभक्तस्वभावयोः प्रकृत्यात्मनोः
@@ -335,10 +344,13 @@ Nature;
 सङ्गमसुखानुभवविरहदुःखानन्दानुभवासक्त्यात्मकानन्दमोहात्मकान् गुणानपि
 प्रकटयति; अतस्तथा विद्धि। एवं ज्ञानप्रयोजनं चाग्रे स्फुटीभविष्यति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.20॥ तदेवंतत्क्षेत्रं यच्च यादृक्च इत्येतावत्प्रपञ्चितम्। इदानीं
 तुयद्विकारि यतश्च यत्। स च यो यत्प्रभावश्च इत्येतत्पूर्वं प्रतिज्ञातमेव
@@ -351,10 +363,13 @@ Nature;
 ग्रन्थबाहुल्यान्नास्माभिः प्रतन्यते। विकारांश्च देहेन्द्रियादीन्;
 गुणांश्च गुणपरिणामान्सुखदुःखमोहादीन्प्रकृतेः संभवान्संभूतान्विद्धि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.20 Know that both Prakrti and the self (Purusa) are without beginning; know that all modifications and the attributes are born of Prakrti.
@@ -392,11 +407,13 @@ grief; fear; anger; pleasure and pain. Who taught it The impressions of the virt
 (nonfruition of actions performed) and Akritabhyagama (causeless effect)
 will creep in. Pleasure and pain which are the fruits of virtuous and vicious actions done previously will pass away without being experienced. This is the defect of Kritanasa. So also; one will have to enjoy pleasure and pain; the fruits of good and bad actions which were not done by him previously. This is the defect of Akritabhyagama. In order to get rid of these two defects we will have to accept that the individual soul is beginningless. The scriptures,also emphatically declare that the soul is beginningless.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/20_prakRtim_puruSham.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.20।। प्रकृति और पुरुष -- दोनोंको ही तुम अनादि समझो और विकारों तथा
@@ -564,6 +581,7 @@ will creep in. Pleasure and pain which are the fruits of virtuous and vicious ac
 
 ।।13.20।। प्रकृति और पुरुष इन दोनों को ही तुम अनादि जानो। और तुम यह भी
 जानो कि सभी विकार और गुण प्रकृति से ही उत्पन्न हुए हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "04 अत्र शूरा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 १९-तमस्य टीका दृश्या।
@@ -39,12 +40,14 @@ title = "04 अत्र शूरा"
 
 1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adeacy of Bhima's forces for conering the Kaurava forces and the inadeacy of his own forces for victory against the Pandava forces. He was grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma, in order to cheer him, roared like a lion, and then blowing his conch, made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to coner the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost lost now itself.' So said Sanjaya to Dhrtarastra who was longing for their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas, who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot, directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all, superior and inferior - by saying, 'Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.4 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -118,12 +121,14 @@ starts from 2.10.
 संप्रोक्तोऽतिरथस्थु सः। रथस्त्वेकेन यो योद्धा तन्नयूनोऽर्धरथः स्मृतः॥
 इति
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.4॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -134,21 +139,25 @@ starts from 2.11.
 ॥1.4॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
-
-</div>
-
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
-
-<details><summary>मूलम्</summary>
-
-॥1.2 1.9॥ किं वा अनेन बहुपरिगणनेन +++(K omits बहु )+++। इदं तावद्वस्तुतत्त्वम् इत्याह ।
 </details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
+
+॥1.2 1.9॥ किं वा अनेन बहुपरिगणनेन +++(K omits बहु )+++। इदं तावद्वस्तुतत्त्वम् इत्याह ।
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
+
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.2 1.11॥ दुर्योधनोऽपि वृकोदरादिभी रक्षितं पाण्डवानां बलं
 भीष्माभिरक्षितं स्वीयं च बलं विलोक्य आत्मजविजये तद्बलस्य पर्याप्ततां
@@ -166,10 +175,13 @@ starts from 2.11.
 विराटद्रुपदौ राजानौ धृष्टकेतुप्रभृतयो राजानोऽसंबद्धा अस्मच्छत्रवश्च।
 वीर्यवानिति प्रत्येकं सर्वेषां विशेषणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **॥1.4॥** **अत्र शूरा इति।** अत्रास्यां चम्वां इषवो बाणा अस्यन्ते
 क्षिप्यन्ते एभिरितीष्वासाः धनूंषि। महान्त इष्वासा येषां ते तथा।
@@ -177,10 +189,13 @@ starts from 2.11.
 क्षात्रधर्मेणोपेताः सन्ति। तानेव नामाभिर्निर्दिशति। युयुधानः सात्यकिः।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.4 There (in that army) are heroes, great bowmen, like Bhima and Arjuna; Yuyudhana,Virata and Drupada a mighty warrior;
@@ -214,11 +229,13 @@ Yoyudhana (Satyaki), Virata and Drupada, of the great car (mighty warriors).
 eal to Bhima and Arjuna; युधि in battle; युयुधानः Yuyudhana; विराटः
 Virata; च and; द्रुपदः Drupada; च and; महारथः of the great car.Commentary Technically; maharatha means a warrior who is proficient in the science of war and who is able to fight alone with ten thousand archers.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.4 -- 1.6।। यहाँ (पाण्डवों की सेना में) बड़े-बड़े शूरवीर हैं, जिनके
@@ -251,6 +268,7 @@ Virata; च and; द्रुपदः Drupada; च and; महारथः of t
 
 ।।1.4।। इस सेना में महान् धनुर्धारी शूर योद्धा है , जो युद्ध में भीम और
 अर्जुन के समान हैं , जैसे -- युयुधान, विराट तथा महारथी राजा द्रुपद।
+</details>
 </details>
 
 </div>

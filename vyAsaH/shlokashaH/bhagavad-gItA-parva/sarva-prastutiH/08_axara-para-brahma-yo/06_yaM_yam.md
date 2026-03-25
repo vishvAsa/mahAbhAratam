@@ -23,8 +23,9 @@ title = "06 यं यम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.6॥**अन्ते** अन्तकाले **यं यं वा अपि भावं स्मरन् कलेवरं त्यजति तं तं** भावम् **एव** मरणान्तरम् **एति।** अन्त्यप्रत्ययश्च पूर्वभावितविषय एव जायते। यस्मात् पूर्वकालाभ्यस्तविषये एव अन्त्यप्रत्ययो जायते --
@@ -41,12 +42,14 @@ title = "06 यं यम्"
 
 8.6 'At the end,' at the time of death, remembering whatsoever thought one abandones the body, to that alone one goes after death. The final thought arises only with reference to objects pervioulsy ruminated upon in one's thought. As the final thought results only about an object previously contemplated upon,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.6॥ --,**यं यं वापि** यं यं **भावं** देवताविशेषं स्मरन् चिन्तयन् **त्यजति** परित्यजति **अन्ते** अन्तकाले प्राणवियोगकाले **कलेवरं** शरीरं **तं** **तमेव** स्मृतं भावमेव **एति** नान्यं **कौन्तेय सदा** सर्वदा **तद्भावभावितः** तस्मिन् भावः तद्भावः स भावितः स्मर्यमाणतया अभ्यस्तः येन सः तद्भावभावितः सन्॥ यस्मात् एवम् अन्त्या भावना देहान्तरप्राप्तौ कारणम्
 --,
@@ -126,12 +129,14 @@ cause of aciring the next body-
 आहिताग्न्यादेराकृतिगणत्वाद्भावितपदस्य परनिपातः। तद्भावेन तच्चिन्तनेन
 भावितो वासितचित्त इति वा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.6 -- 8.7॥ स्मरन्पुरुषस्त्यजतीति भिन्नकालीनत्वेऽप्यविरोध इति मन्दमतेः
 शङ्का मा भूदित्यन्त इति विशेषणम् सुमतेनव शङ्कावकाशः। स्मरंस्त्यजति
@@ -183,12 +188,14 @@ cause of aciring the next body-
 इत्येवरूपादभिधानादित्यर्थः। वासितत्वं संस्कृतत्वम्। तस्मिन्
 भावस्तद्भावस्तेन भावित इति मनोधर्मेणात्मोपचर्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.5 -- 8.7॥ अथ योऽवशिष्टः प्रश्नः कथं प्रयाणकाले ज्ञेयोऽसि इति तं निर्णयति -- अन्तकालेऽपि इत्यादि असंशयम् इत्यन्तम्। न केवलं स्वस्थावस्थायां यावत् अन्तकालेऽपि +++(N कालेऽपीति)+++ । मामेति -- व्यवच्छिन्नसकलोपाधिकम्। कथं च अस्वस्थावस्थायां +++(K [n] अन्तावस्थायाम्)+++ विनिवत्तसकलेन्द्रियचेष्टस्य भगवान् स्मृतिपथमुपेयात् इत्युपायमपि उपदिशति तस्मादिति। सर्वावस्थासु व्यावहारिकीष्वपि यस्य भगवत्तत्त्वं न हृदयादपयाति तस्य भगवत्येव सकलकर्मसंन्यासिनः सततं भगवन्मयस्य अवश्यं स्वयमेव भगवत्तत्त्वं स्मृतिविषयतां यातीति। सदातद्भावभावितत्त्वं च अत्र हेतुः। अतः एवाह -- येनैव वस्तुना सदा भावितान्तःकरणः +++(NK [n] अन्तःकरणभावः)+++ तदेव मरणसमये स्मर्यते तद्भाव एव च प्राप्यते इति। सर्वथा मत्परम एव मत्प्रेप्सः स्यादित्यत्र तात्पर्यम्। न तु यदेवान्ते स्मर्यते तत्तत्त्वमेवावाप्यते +++(N तत्तदेवावाप्यते)+++ इति। एवं हि सति ज्ञानिनोऽपि यावच्छरीरभाविधातुदोषविकलितचिवृत्तेर्जडतां प्राप्तस्य,तामसस्येव गतिः स्यात्। न च अम्युपगमोऽत्र युक्तः प्रमाणभूतश्रुतिविरोधात्। अस्ति हि -- तीर्थे श्वपचगृहे वा नष्टस्मृतिरपि परित्यजन् देहम्।  
   
@@ -199,12 +206,14 @@ cause of aciring the next body-
 
 8.6 See Comment under 8.7
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.6॥ न केवलं मां स्मरन्मद्भावं यातीति नियमः -- यं यमिति। अन्तेऽन्तकाले
 तमेव भावं स्मर्त्तुः स्वविषयजातीयाकारत्वसम्पादकं भावं स्वरूपमेति भरतवत्।
@@ -221,20 +230,26 @@ cause of aciring the next body-
 स्वाभिलषितस्मरणं वा कथं स्यात् इत्यत आह -- सदा तद्भावभावितः
 निरन्तरं,तद्भावेन भावितो यो भवति स तमेवान्ते स्मरति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/06_yaM_yam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/06_yaM_yam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.6॥ न केवलं मां स्मरन्मद्भावं प्राप्नोतीति नियमः किं तर्हि -- **यं
 यमिति।** यं यं भावं देवतान्तरं वाऽन्यमपि वाऽन्तकाले स्मरन्देहं त्यजति तं
 तमेव स्मर्यमाणं भावं प्राप्नोति अन्तकाले भावविशेषस्मरणे हेतुः सदेति।
 सर्वदा तस्य भावो भावनानुचिन्तनं तेन भावितो वासितचित्तः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.6 O son of Kunti, thinking of any entity whichever it may be one gives up the body at the end, he attains that very one, having been always engrossed in its thought.
@@ -271,11 +286,13 @@ Therefore man cannot gratify them in one birth. At the time of death the whole s
   
 birth. This desire will become very promenent in his next birth.You yourself are the author of your own destiny. You yourself are responsible for your thoughts; character; feelings; actions and experiences. You planted certain worldly desires and Samskaras in your subconscious mind; and allowed them to germinate and grow. If you had planted spiritual aspiration; the desire for liberation and spiritual Samskaras; you would reap the fruit of immortality and eternal bliss. As you sow so shall you reap.He who practises constant and profound meditation on the Self of his own tutelary deity throughout his life will be able to meet death with an unruffled mind. He alone would go to the Supreme; thinking of It at the time of his departure from this world; too. You should have exclusive devotion to God. Your whole mind must be absorbed in Him. You should not allow any outside worldly impressions; wherein there is an iota of selfish desire; to sink into your subconscious mind. Then you can think of the Lord exclusively at the time of death and enter His very Being.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/06_yaM_yam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.6।। हे कुन्तीपुत्र अर्जुन ! मनुष्य अन्तकाल में जिस-जिस भी भावका
@@ -320,6 +337,7 @@ birth. This desire will become very promenent in his next birth.You yourself are
 ।।8.6।। हे कौन्तेय ! (यह जीव) अन्तकाल में जिस किसी भी भाव को स्मरण करता
 हुआ शरीर को त्यागता है, वह सदैव उस भाव के चिन्तन के फलस्वरूप उसी भाव को
 ही प्राप्त होता है।।
+</details>
 </details>
 
 </div>

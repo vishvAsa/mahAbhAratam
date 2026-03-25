@@ -23,8 +23,9 @@ title = "22 यत्तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.22॥**यत् तु** ज्ञानम् **एकस्मिन् कार्ये** एकस्मिन् कर्तव्ये कर्मणि प्रेतभूतगणाद्याराधनरूपे अत्यल्पफले **कृत्स्न**फल**वत् सक्तम्** **अहेतुकं** वस्तुतस् त्व् अकृत्स्नफलवत्तया तथाविधसङ्गहेतुरहितम् **अतत्त्वार्थवत्** पूर्ववद् एव आत्मनि पृथक्त्वादियुक्ततया मिथ्याभूतार्थ विषयम्; अत्यल्पफलं च प्रेतभूताद्याराधनरूपविषयत्वाद् **अल्पं च; तद्** ज्ञानं **तामसम् उदाहृतम्। एवं कर्तव्यकर्मविषयज्ञानस्य अधिकारवेलायाम् अधिकार्यं शेन गुणतस् त्रैविध्यम् उक्त्वा अनुष्ठेयस्य कर्मणो गुणतस् त्रैविध्यम् आह --**
@@ -41,12 +42,14 @@ title = "22 यत्तु"
 'insignificant', because the worship of ghosts and evil spirits yields poor results - for such reasons knowledge of this kind is declared to be
 Tamasika. After having thus classified the threefold division of knowledge relating to work according to Gunas in respect of a person who is alified for work, Sri Krsna explains the triple division of the acts that ought to be done, according to Gunas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.22॥ --,**यत्** (तु गी0 में) ज्ञानं **कृत्स्नवत्** समस्तवत् सर्वविषयमिव **एकस्मिन् कार्ये** देहे बहिर्वा प्रतिमादौ **सक्तम्** एतावानेव आत्मा ईश्वरो वा; न अतः परम् अस्ति इति; यथा नग्नक्षपणकादीनां शरीरान्तर्वर्ती देहपरिमाणो जीवः; ईश्वरो वा पाषाणदार्वादिमात्रम्; इत्येवम् एकस्मिन् कार्ये सक्तम्; **अहैतुकं** हेतुवर्जितं निर्युक्तिकम्; **अतत्त्वार्थवत्** अयथाभूतार्थवत्; यथाभूतः अर्थः तत्त्वार्थः; सः अस्य ज्ञेयभूतः अस्तीति तत्त्वार्थवत्; न तत्त्वार्थवत् अतत्त्वार्थवत् अहैतुकत्वादेव **अल्पं च;** अल्पविषयत्वात् अल्पफलत्वाद्वा। **तत् तामसम् उदाहृतम्।** तामसानां हि प्राणिनाम् अविवेकिनाम् ईदृशं ज्ञानं दृश्यते॥ अथ इदानीं कर्मणः त्रैविध्यम् उच्यते --,
 </details>
@@ -133,12 +136,14 @@ stated the threehold division of action:
 चार्वाकादीनां यज्ज्ञानं तत्तामसमुदाहृतं तामसानां
 प्राकृतजनानामीदृशज्ञानदर्शिभिः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.22॥ Sri Madhvacharya did not comment on this sloka. ,
 </details>
@@ -147,12 +152,14 @@ stated the threehold division of action:
 
 ॥18.22॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.20 -- 18.22॥ तत्र +++(S adds शरीरे after तत्र )+++ सर्वभूतेषु इत्यादिना श्लोकत्रयेण ( श्लो.2022 ) ज्ञानकरणस्य त्रैरूप्यमुक्तम्। अत एव येन इति तृतीया। इयता च ज्ञानकरणसामान्यस्य +++(; N record an alternative reading सामर्थ्यस्य for सामान्यस्य by saying सामर्थ्यस्येत्यन्यादर्शे )+++ स्वरूपमुक्तम्। नियतम् इत्यादिना श्लोकत्रयेण ( श्लो. 2325 ) कर्मणो ज्ञेयकार्यरूपस्य द्वैविध्यम् मुक्तसंगः इत्यादिना श्लोकत्रयेण ( श्लो. 2628 ) तु कर्तुर्द्विरूपस्य संक्षेपेण स्वरूपम् करणविशेषस्य स्वरूपभेदप्रतिपादनार्थ \[ प्रवृत्तिम् इत्यादिना श्लोकत्रयेण ( 3032 ) \] बुद्धेस्त्रैविध्यं निरूपितम् +++(S -- विध्यमुपलक्षितम् )+++। तद्द्वारेण करणान्तराणामपि त्रैविध्यमुपलक्षितम्। करणस्य तु इतिकर्तव्यतापेक्षित्वात् इतिकर्तव्यतायाश्च धृत्यादिपञ्चकरूपत्वेऽपि; श्रद्धायाः पूर्वमुक्तत्वात्; विविदिषाविविदिषयोश्च धृतिसुखाभ्यामाक्षेपात् तयोस्त्रैविध्यम् धृत्या यया इत्यनेन \[ श्लोकत्रयेण ( 3335 ) \] सुखं त्विदानीम् इत्यनेन \[ श्लोकत्रयेण ( 3639 ) \] चोक्तम्। तदाह -- सर्वभूतेषु इत्यादि समुदाहृतमित्यन्तम्। विभक्ततेषु; देवमनुष्यादितया। पृथक्त्वेन; इह मे प्रीतिः इह मे द्वेषः इत्यादिबुद्ध्या। अहेतुकम्; कारणमविचार्यैव अभिनिवेशावेशवशात् क्रोधरागादिग्रहणं यत् तत्तामसंज्ञम्।
 </details>
@@ -161,12 +168,14 @@ stated the threehold division of action:
 
 18-20-22 Sarvabhutesu etc. upto samudahrtam. In the classified ones : i.e., \[classified\] as gods, human beings, etc. Considers as \[really\] different : i.e., with the thought 'Here on this depends my pleasure; here in that lies my displeasure'. Without reason : To take recourse to wrath, desire etc., slavishly under the influence of one's own addiction and also without examining the cause, in named as a thing born of the Tamas (Strand).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.22॥ यत्त्विति। एकस्मिन्कार्ये कर्त्तव्ये कर्मणि
 प्रेतभूतगणाद्याराधनरूपेऽत्यल्पफले निषप्रयोजनं कृत्स्नफलवत्सक्तं
@@ -185,20 +194,26 @@ stated the threehold division of action:
 **अल्पं** परिच्छिन्नं स्वरूपतः फलतश्च  
 तज् ज्ञानं **तामसं** निष्फलं विपरीतफलं वा **उदाहृतम्**।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/22_yattu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/22_yattu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.22॥ तामसं ज्ञानमाह **-- यत्त्विति।** एकस्मिन्कार्ये देहे प्रतिमादौ
 वा कृत्स्नवत्परिपूर्णवत्सक्तमेतावानेवात्मा ईश्वरो वेत्यभिनिवेशयुक्तम्;
 अहैतुकं निरुपपत्तिकम्; अतत्त्वार्थवत्परमार्थावलम्बनशून्यम्; अतएवाल्पं
 तुच्छम् अल्पविषयत्वादल्पफलत्वाच्च। यदेवंभूतं ज्ञानं तत्तामसमुदाहृतम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.22 But that knowledge is declared to be Tamasika which clings to one single act as if it were the whole, which is not founded on reason, and which is untrue and insignificant.
@@ -232,11 +247,13 @@ one single; कार्ये to effect; सक्तम् attached; अहै
 अतत्त्वार्थवत् without foundation in Truth; अल्पम् trivial; च and; तत्
 that;,तामसम् Tamasic (dark); उदाहृतम् is declared.Commentary The knowledge which regards that each and every object or being exists by itself and is perfect by itself; is Tamasic.One single effect Such as the body; thinking it to be the Self; or an idol; taking it for God; and thinking that there is nothing higher than that.The naked Jains consider that the soul which dwells in the body is of the same size as that of the body. Some regard that Isvara is a mere piece of stone or wood. Such knowledge is really not based on reason. It does not see things in their true light. It is narrow (Alpam) as it is not founded on reason. It produces very small results too. It extends over a limited area and is not allcomprehensive. This knowledge is said to be Tamasic; as it is found in Tamasic persons who are devoid of the power of discrimination.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.22।। किंतु जो (ज्ञान) एक कार्यरूप शरीरमें ही सम्पूर्णके तरह आसक्त है
@@ -302,6 +319,7 @@ that;,तामसम् Tamasic (dark); उदाहृतम् is declared.Co
 जाता है, मानो वह (कार्य ही) पूर्ण वस्तु हो तथा जो (ज्ञान) हेतुरहित
 (अयुक्तिक), तत्त्वार्थ से रहित तथा संकुचित (अल्प) है, वह (ज्ञान) तामस
 है।।
+</details>
 </details>
 
 </div>

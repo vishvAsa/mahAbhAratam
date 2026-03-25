@@ -23,8 +23,9 @@ title = "13 गामाविश्य च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.13॥**अहं [गां]** पृथिवीम् **आविश्य** सर्वाणि **भूतान्य् ओजसा** मम अप्रतिहतसामर्थ्येन **धारयामि।** तथा अहम् अमृतरसमयः **सोमो भूत्वा सर्वौषधीः पुष्णामि।**
@@ -39,12 +40,14 @@ title = "13 गामाविश्य च"
 
 15.13 Entering the earth I uphold all beings by My strength, namely, by My irresistible power, Likewise, becoming the Soma consisting of the juice of the nectar, I nourish all herbs.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.13॥ -- **गां** पृथिवीम् **आविश्य** प्रविश्य **धारयामि भूतानि** जगत् **अहम् ओजसा** बलेन यत् बलं कामरागविवर्जितम् ऐश्वरं रूपं जगद्विधारणाय पृथिव्याम् आविष्टं येन पृथिवी गुर्वी न अधः पतति न विदीर्यते च। तथा च मन्त्रवर्णः -- येन द्यौरुग्रा पृथिवी च दृढा (तै0 सं0 4।1।8) इति; स दाधार पृथिवीम् (तै0 सं0 4।1।8) इत्यादिश्च। अतः गामाविश्य च भूतानि चराचराणि धारयामि इति युक्तमुक्तम्। किं च; पृथिव्यां जाताः **ओषधीः सर्वाः** व्रीहियवाद्याः **पुष्णामि** पुष्टिमतीः रसस्वादुमतीश्च करोमि **सोमो भूत्वा रसात्मकः** सोमः सन् रसात्मकः रसस्वभावः। सर्वरसानाम् आकरः सोमः। स हि सर्वरसात्मकः सर्वाः ओषधीः स्वात्मरसान् अनुप्रवेशयन् पुष्णाति॥ किं च --,
 </details>
@@ -127,12 +130,14 @@ by infusing its own juice into everything. Besides,
 व्रीहियवाद्याः पृथिव्यां जाता अहमेव पुष्णामि पुष्टिमतीः स्वादुमतीश्च
 करोमि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.12 -- 15.14॥ पूर्वोक्तमेव ज्ञानं प्रपञ्चयति --
 यदादित्यगतमित्यादिना। गां भूमिम्।
@@ -142,12 +147,14 @@ by infusing its own juice into everything. Besides,
 
 ॥15.13 -- 15.14॥ धेनोरावेशो न भूतधारणे कारणमित्यत आह -- **गामि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.12 -- 15.14॥ यदादित्येत्यादि चतुर्विधमित्यन्तम्। अर्कादितेजस्त्रयरूपतया दशमाध्यायसूचितसृष्टिस्थितिसंहार \[कर्तृत्व\] प्रकटीकरणे श्रीगुरवः प्राहुः +++(;N श्रीगुरवस्त्त्वाहुः)+++ -- भूतपञ्चकस्य समस्तव्यस्ततया यल्लोकधारकत्वं ( लोकद्वयाधारकत्वं च) तद्भगवत एव माहेश्वर्यमित्येतदनेन \[उक्तमिति\]। तथाहि -- रवितेजसः प्रकाशकत्वं धारकत्वं च तेजोधराद्वयतादात्म्यात्। तदेतदुक्तम् यदादित्यगतम् इति गामाविश्य च इति चार्धद्वयेन। चान्द्रं तेजः प्रकाशकं पोषकं च; धराजलतेजोयोगात् +++(K. omits धरा)+++। तदुक्तम् यच्चन्द्रमसि इत्यनेन भागेन पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः +++(;N omit चौषधीः -- त्मकः)+++ इति चार्धश्लोकेन। वाह्नं तु तेजः प्रकाशनशोषणदहनस्वेदनपचनात्मकं पृथिव्यप्तेजोवायुयोगात्। तदेतदिहोक्तम् +++(N तदेवेहोक्तम्)+++ यच्चाग्नौ इत्यनेन; अहं वैश्वानरः इत्यनेन च +++(S;;N इति श्लोकेन च)+++। नभस्तु बोधावकाशरूपतया सर्वगतमेव।
 </details>
@@ -156,12 +163,14 @@ by infusing its own juice into everything. Besides,
 
 15.13 See Comment under 15.14
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.13॥ किञ्च सूर्यादिष्विव भूम्यादिष्वपि या धारणपोषणपाचनशक्तिः साऽपि
 मदीयेत्याह -- गामिति। ओजसा भुवमाविश्य भूतानि धारयामि तत्र
@@ -177,19 +186,25 @@ by infusing its own juice into everything. Besides,
 रसमयो भूत्वा औषधीः सर्वा व्रीह्यादिकाः भूतानां पृथ्वीरूपेण धृतानां
 रसपोषार्थं पुष्णामि पुष्टाः करोमि वर्धयामीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.13॥ किंच **-- गामाविश्येति।** गां पृथ्वीमोजसा बलेनाधिष्ठाय अहमेव
 चराचराणि भूतानि धारयामि; अहमेव रसमयः सोमो भूत्वा व्रीह्याद्यौषधीः सर्वाः
 संवर्धयामि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.13 And entering the earth I uphold all beings by My strength. I nourish all herbs, becoming the juicy Soma.
@@ -228,11 +243,13 @@ It permeates the earth to support the world. This energy is destitute of passion
 and make them savoury. I feed the vegetable kingdom with My vital juice
 (Ojas) which pervades the soil and generates sweet juice or sap in herbs; plants and trees. The watery or savoury moon nourishes all herbs and plants by infusing sap or savours into them.Moreover --
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.13।। मैं ही पृथ्वीमें प्रविष्ट होकर अपनी शक्तिसे समस्त प्राणियोंको
@@ -316,6 +333,7 @@ and make them savoury. I feed the vegetable kingdom with My vital juice
 ।।15.13।। मैं ही पृथ्वी में प्रवेश करके अपने ओज से भूतमात्र को धारण करता
 हूँ और रसस्वरूप चन्द्रमा बनकर समस्त औषधियों का अर्थात् वनस्पतियों का
 पोषण करता हूँ।।
+</details>
 </details>
 
 </div>

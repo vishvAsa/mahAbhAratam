@@ -23,8 +23,9 @@ title = "26 यतो यतो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.26॥ चलस्वभावतया आत्मनि **अस्थिरं मनः यतो यतो** विषयप्रावण्यहेतोर् बहिः **निश्चरति ततस् ततो** यत्नेन मनो **नियम्य आत्मन्य् एव** अतिशयितसुखभावनया **वशं नयेत्।**
@@ -39,12 +40,14 @@ title = "26 यतो यतो"
 
 6.26 Wherever the mind, on account of its fickle and unsteady nature, wanders, because of its proclivity to sense-objects, he should, subduing the mind everywhere with effort, bring it under control in order to remain in the self alone by contemplating on the incomparable bliss therein.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.26॥ **यतो यतः** यस्माद्यस्मात् निमित्तात् शब्दादेः **निश्चरति** निर्गच्छति स्वभावदोषात् **मनः चञ्चलम्** अत्यर्थं चलम् अत एव **अस्थिरम् ततस्ततः** तस्मात्तस्मात् शब्दादेः निमित्तात् **नियम्य** तत्तन्निमित्तं याथात्म्यनिरूपणेन आभासीकृत्य वैराग्यभावनया च **एतत्** मनः **आत्मन्येव वशं नयेत्** आत्मवश्यतामापादयेत्। एवं योगाभ्यासबलात् योगिनः आत्मन्येव प्रशाम्यति मनः॥
 </details>
@@ -182,12 +185,14 @@ mind of the yogi merges in the Self Itself.
 एतन्मूलकमेव चयोगश्चित्तवृत्तिनिरोधः इति सूत्रम्। तस्माद्युक्तं ततस्ततो
 नियम्यैतदात्मन्येव वशं नयेदिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.26॥ यतो यतो यत्र यत्रयतो यतो धावति भाग.10।1।42 इत्यादिप्रयोगात्।
 आत्मन्येव वशं नयेत् आत्मविषय एव वशीकुर्यादित्यर्थः।
@@ -200,12 +205,14 @@ mind of the yogi merges in the Self Itself.
 चोक्तंआद्यादिभ्य उपसंख्यानं वार्ति. इति। अन्यथा द्वारमात्रनियमे स्मरणस्य
 को निवारयिता षष्ठ्या ह्यत्र भाव्यं सप्तमी तु कथं इत्यत आह **आत्म**नीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.26 6.28॥ न च विषयव्युपरममात्रमेव प्राप्यमित्युच्यते यत इत्यादि अधिगच्छतीत्यन्तम्। यतो यतो मनो निवर्तते तन्निवर्तनसमनन्तरमेव आत्मनि शमयेत्। अन्यथा अप्रतिष्ठं चित्तं पुनरपि विषयानेवावलम्बते। तत्र आत्मनि शान्तचित्तं योगिनं कर्मभूतं सुखं कर्तृभूतम् उपैति। अनेनैव क्रमेण योगिनां सुखेन ब्रह्मावाप्तिः न तु कष्टयोगादिनेति तात्पर्यम्।
 </details>
@@ -214,12 +221,14 @@ mind of the yogi merges in the Self Itself.
 
 6.26 See Comment under 6.28
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.26॥ सङ्कल्पेति। आत्मन्येव वशं नयेत् प्रत्याहारेण स्थिरं कुर्यादिति
 निर्बीजत्वमुक्तम्।
@@ -235,20 +244,26 @@ mind of the yogi merges in the Self Itself.
 तस्माद्भगवत्स्वरूपतोऽन्यत्रोत्तमत्वाभावान्नाग्रे चलिष्यत्यतोऽन्यतो
 वशीकृत्य भगवति स्थापयेत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.26॥ एवमपि रजोगुणवशाद्यदि मनः प्रचलेत्तर्हि पुनः प्रत्याहारेण
 वशीकुर्यादित्याह **यत इति।** स्वभावतश्चञ्चलं धार्यमाणमप्यस्थिरं मनो यं
 यं विषयं प्रति निर्गच्छति ततस्ततः प्रत्याहृत्यात्म्यन्येव स्थिरं
 कुर्यात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.26 Wherever the fickle and unsteady mind wanders, he should subdue it then and there bring it back under the control of the self alone.
@@ -282,11 +297,13 @@ from that let him restrain it and bring it under the control of the Self alone.
 control; नयेत् let (him) bring.Commentary In this verse the Lord gives the method to control the mind. Just as you drag the bull again and again to your house when it runs out; so also you will have to drag the mind to your point or centre or Lakshya again and again when it runs towards the external objects. If you give good cotton seed extract;
 sugar; plantains; etc.; to the bull; it will not turn away but will remain in your house. Even so if you make the mind taste the eternal bliss of the Self within little by little by the practice of concentration; it will gradually abide in the Self only and will not run towards the external objects of the senses. Sound and the other objects only make the mind restless and unsteady. By knowing the defects of the objects of sensual pleasure; by understanding their illusory nature; by the cultivation of discrimination between the Real and the unreal and also dispassion; and by making the mind understand the glory and the splendour of the Self you can wean the mind entirely away from sensual objects and fix it firmly on the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/26_yato_yato.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.26।। यह अस्थिर और चञ्चल मन जहाँ-जहाँ विचरण करता है, वहाँ-वहाँसे
@@ -344,6 +361,7 @@ sugar; plantains; etc.; to the bull; it will not turn away but will remain in yo
 ।।6.26।। यह चंचल और अस्थिर मन जिन कारणों से (विषयों में) विचरण करता है,
 उनसे संयमित करके उसे आत्मा के ही वश में लावे अर्थात् आत्मा में स्थिर
 करे।।
+</details>
 </details>
 
 </div>

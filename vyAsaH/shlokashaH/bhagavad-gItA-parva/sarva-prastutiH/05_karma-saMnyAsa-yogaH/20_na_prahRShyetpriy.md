@@ -23,8 +23,9 @@ title = "20 न प्रहृष्येत्प्रियम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.20॥ यादृशदेहस्थस्य यदवस्थस्य प्राचीनकर्मवासनया यत् **प्रियं** यच्च **अप्रियं** तद् उभयं **प्राप्य** हर्षोद्वेगौ **न** कुर्यात्। कथम् **स्थिरबुद्धिः** स्थिरे आत्मनि बुद्धिर् यस्य स स्थिरबुद्धिः। **असम्मूढः** अस्थिरेण शरीरेण स्थिरम् आत्मानम् एकीकृत्य मोहः सम्मोहस् तद्रहितः। तच् च कथम् **ब्रह्मविद् ब्रह्मणि स्थितः** उपदेशेन ब्रह्मवित् सन् तस्मिन् ब्रह्मण्य् अभ्यासयुक्तः। एतद् उक्तं भवति तत्त्वविदाम् उपदेशेन आत्मयाथात्म्यविद् भूत्वा तत्र एव यतमानो देहाभिमानं परित्यज्य स्थिररूपात्मावलोकनप्रियानुभवे व्यवस्थितो ऽस्थिरे प्राकृतप्रियाप्रिये प्राप्य. हर्षोद्वेगौ न कुर्याद् इति।
@@ -41,12 +42,14 @@ title = "20 न प्रहृष्येत्प्रियम्"
 'Undeluded,' i.e., one must be free from the delusion of identity of the steadfast self with the transient body. And how can this be; He who knows Brahman and abides in Brahman, i.e., by becoming a knower of Brahman by instruction by the teachers - such a person abides steadily,
 engaged in the practices towards winning Brahman. What is said is this: From the instructions received from the sages who know the truth, one should learn what has to be learnt about the self. Endeavouring to actualise the same, one does not consider the body as the sefl and remains fixed in the joyous experience of the vision of the steadfast self. Let him not rejoice and grieve when he experiences pleasant and unpleasant things, as such experiences result from the Prakrti and are transient.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.20॥ न **प्रहृष्येत्** प्रहर्षं न कुर्यात् **प्रियम्** इष्टं **प्राप्य** लब्ध्वा। न **उद्विजेत् प्राप्य** च **अप्रियम्** अनिष्टं लब्ध्वा। देहमात्रात्मदर्शिनां हि प्रियाप्रियप्राप्ती हर्षविषादौ कुर्वाते न केवलात्मदर्शिनः तस्य प्रियाप्रियप्राप्त्यसंभवात्। किञ्च सर्वभूतेषु एकः समः निर्दोषः आत्मा इति स्थिरा निर्विचिकित्सा बुद्धिः यस्य सः **स्थिरबुद्धिः असंमूढः** संमोहवर्जितश्च स्यात् यथोक्त**ब्रह्मवित् ब्रह्मणि** स्थितः अकर्मकृत् सर्वकर्मसंन्यासी इत्यर्थःकिञ्च ब्रह्मणि स्थितः
 </details>
@@ -147,12 +150,14 @@ and undesirable objects. Further, the one who is established in Brahman-
 इत्युचितमेव। साधकेन तु द्वैतदर्शने विद्यमानेऽपि विषयदोषदर्शनादिना
 प्रहर्षविषादौ त्याज्यावित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.20॥ सन्न्यासयोगज्ञानानि मिलित्वा प्रपञ्च्यत्यध्यायशेषेण।
 </details>
@@ -166,12 +171,14 @@ and undesirable objects. Further, the one who is established in Brahman-
 प्रपञ्चयतीत्युक्तम्। सन्न्यासस्यादौ ग्रहणेनन प्रहृष्येत् इति
 सन्न्यासप्रपञ्चनमिति सूचितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.20॥ तस्य च इत्थं संभावना इत्याह न प्रहृष्येदिति। एतस्य समदर्शिनः शत्रुमित्रादिविभागोऽपि व्यवहारमात्र एव नान्तः ब्रह्मनिष्ठत्वात्।
 </details>
@@ -180,12 +187,14 @@ and undesirable objects. Further, the one who is established in Brahman-
 
 5.20 Na prahrsyet etc. In the case of this person, who habitually looks \[upon all\] alike, the classification of foes and friends is at the level of mundane business alone, and not internally, as he is firmly established in the Brahman.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.20 5.21॥ तादृशस्य परमानन्दावाप्तिगमकं लक्षणमाह द्वाभ्यां न
 प्रहृष्येदिति। यतः स्थिरबुद्धिः सम्मोहस्यासुरत्वात्तद्रहितश्च
@@ -204,10 +213,13 @@ and undesirable objects. Further, the one who is established in Brahman-
 एवमवस्थाद्वये स्थिरबुद्धिः स असम्मूढः ब्रह्मवित् मोहाभावेन
 ब्रह्मस्वरूपज्ञ इति भावः। ब्रह्मणि ब्रह्मभावे स्थितः स इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.20॥ ब्रह्मप्राप्तस्य लक्षणमाह **नेति।** यो ब्रह्मविद्भूत्वा
 ब्रह्मण्येव स्थितः स प्रियं प्राप्य न प्रहृष्येन्न प्रहृष्टो
@@ -215,10 +227,13 @@ and undesirable objects. Further, the one who is established in Brahman-
 स्थिरबुद्धिः स्थिरा निश्चला बुद्धिर्यस्य। तत्कुतः। यतोऽसंमूढो
 निवृत्तमोहः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.20 He who knows Brahman (individual self) and abides in Brahman, whose mind is steadfastly on the self and undeluded by the body consciousness
@@ -250,11 +265,13 @@ and undesirable objects. Further, the one who is established in Brahman-
 5.20 न not; प्रहृष्येत् should rejoice; प्रियम् the pleasant; प्राप्य
 having obtained; न not; उद्विजेत् should be troubled; प्राप्य having obtained; च and; अप्रियम् the unpleasant; स्थिरबुद्धिः one with steady intellect; असम्मूढः undeluded; ब्रह्मवित् knower of Brahman; ब्रह्मणि in Brahman; स्थितः established.Commentary This is the state of a Jivanmukta or a liberated sage or a Brahmana who identifies himself with the Self or Atman. He always has a balanced mind. He is never deluded. He has abandoned all actions as he rests in Brahman. He who has an unbalanced mind; who identifies himself with the body and mind feels pleasure and pain; exhilaration of spirits when he gets a pleasant object and grief when he obtains an unpleasant object. (Cf.VI.21;27;28XIII.12XIV.20)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.20।। जो प्रियको प्राप्त होकर हर्षित न हो और अप्रियको प्राप्त होकर
@@ -361,6 +378,7 @@ having obtained; न not; उद्विजेत् should be troubled; प्
 ।।5.20।। जो स्थिरबुद्धि, संमोहरहित ब्रह्मवित् पुरुष ब्रह्म में स्थित
 है, वह प्रिय वस्तु को प्राप्त होकर हर्षित नहीं होता और अप्रिय को पाकर
 उद्विग्न नहीं होता।।
+</details>
 </details>
 
 </div>

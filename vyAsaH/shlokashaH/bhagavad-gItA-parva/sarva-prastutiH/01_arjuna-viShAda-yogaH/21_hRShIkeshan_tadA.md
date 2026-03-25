@@ -26,8 +26,9 @@ title = "21 हृषीकेशन् तदा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 २५-तमस्य टीका दृश्या।
@@ -42,12 +43,14 @@ title = "21 हृषीकेशन् तदा"
 
 1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna did immediately as He had been directed, while Bhisma, Drona and others and all the kings were looking on. Such is the prospect of victory for your men.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.21 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -118,12 +121,14 @@ starts from 2.10.
 देशकालवस्तुष्वच्युतं त्वां को वा च्यावयितुमर्हतीति भावः। एतेन सर्वदा
 निर्विकारत्वेन नियोगनिमित्तः कोपोऽपि परिहृतः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.21॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -134,12 +139,14 @@ starts from 2.11.
 ॥1.21॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.21॥ No commentary.
 </details>
@@ -148,12 +155,14 @@ starts from 2.11.
 
 1.12 1.29 Sri Abhinavgupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.20 1.23॥ अथ व्यवस्थितान् इत्यारभ्यभीष्मद्रोणप्रमुखतः 125 इत्यन्तम्।
 अथ युयुत्सूनवस्थितान् धार्तराष्ट्रान् वीक्ष्य कपिध्वजः स्वाश्रितजनपोषकं
@@ -174,19 +183,25 @@ starts from 2.11.
 सम्बोधनं राज्ञां तथैव धर्म इति ज्ञापनार्थम्। तद्वाक्यान्येवाह
 सेनयोरित्यादिना। हे अच्युत उभयोः सेनयोर्मध्ये रथं स्थापय।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **॥1.21॥** **हृषीकेशमिति।** तदेव वाक्यमाह **सेनयोरिति।  
   
 **
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.21 And he spoke, O lord of earth, these words to Sri Krsna... Arjuna said: ...Draw up my chariot, O Krsna, between the two armies,
@@ -222,11 +237,13 @@ and know with whom I must fight, when the battle is about to commence.
 यावत् while; एतान् these; निरीक्षे behold; अहम् I; योद्धुकामान् desirous to fight; अवस्थितान् standing; कैः with whom; मया by me; सह together;
 योद्धव्यम् must be fought; अस्मिन् in this; रणसमुद्यमे eve of battle.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.21 -- 1.22।। अर्जुन बोले - हे अच्युत! दोनों सेनाओं के मध्य में मेरे
@@ -256,6 +273,7 @@ and know with whom I must fight, when the battle is about to commence.
 
 ।।1.21।। अर्जुन ने कहा -- हे! अच्युत मेरे रथ को दोनों सेनाओं के मध्य खड़ा
 कीजिये।
+</details>
 </details>
 
 </div>

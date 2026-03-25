@@ -26,8 +26,9 @@ title = "03 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -224,12 +225,14 @@ title = "03 श्री भगवानुवाच"
 
 3.3 The Lord said You have not properly understood what I taught you before. In this world, full of people with varying degrees of alifications, I have taught in the days of yore two ways, that of knowledge (Jnana Yoga) and that of works, according to the alifications of aspirants. There is no contradiction in this. It is not possible for all people of the world in whom the desire for release has arisen, to become capable immediately for the practice of Jnana Yoga. But he who performs the worship of the Supreme Person without desire for fruits and thery gets completely rid of inner impurities and keeps his senses unagitated - he becomes competent for the path of knowledge. That all activities are for performing the worship of the Supreme Person will be taught in the Gita verse, 'He from \`whom the activities of all beings arise and by whom all this is pervaded - by worshipping Him with his duty man reaches perfection' (18.46). Earlier also performance of activities without any attachment to the fruits is enjoined by the verse beginning with. 'You have the right to work alone ৷৷.' (2.47). Next for those whose intellect has been redeemed by this kind of discipline, is enjoined Jnana Yoga by the words, 'When a man renounces all the desires ৷৷.' (2.55). Conseently, firm devotion to Jnana Yoga is taught only to the Sankhyas, i.e., those persons who are competent to follow the discipline of the knowledge of the self, and Karma Yoga to Yogins, i.e., to those competent for the path of work. Sankhya means Buddhi and those who are endowed with the Buddhi (intellectual or mental disposition) having only the self for its object, are Sankhyans. Therefore those who are not fit for this are alified for Karma Yoga. Those who are possessed of Buddhi which is agitated by objects of the senses, are the persons alified for Karma Yoga, whereas those whose Buddhi is not thus agitated, are alified for Jnana Yoga. Therefore nothing contradictory and confusing is taught. It is said in the next stanza that Jnana Yoga is difficult to practise all at once, even when the desire for release arises in any worldy person:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.3॥ **लोके अस्मिन्** शास्त्रार्थानुष्ठानाधिकृतानां त्रैवर्णिकानां **द्विविधा** द्विप्रकारा **निष्ठा** स्थितिः अनुष्ठेयतात्पर्यं **पुरा** पूर्वं सर्गादौ प्रजाः सृष्ट्वा तासाम् अभ्युदयनिःश्रेयसप्राप्तिसाधनं वेदार्थसंप्रदायमाविष्कुर्वता **प्रोक्ता मया** सर्वज्ञेन ईश्वरेण हे **अनघ** अपाप। तत्र का सा द्विविधा निष्ठा इत्याह तत्र **ज्ञानयोगेन** ज्ञानमेव योगः तेन **साङ्ख्यानाम्** अत्मानात्मविषयविवेकविज्ञानवतां ब्रह्मचर्याश्रमादेव कृतसंन्यासानां वेदान्तविज्ञानसुनिश्चितार्थानां परमहंसपरिव्राजकानां ब्रह्मण्येव अवस्थितानां निष्ठा प्रोक्ता। **कर्मयोगेन** कर्मैव योगः कर्मयोगः तेन कर्मयोगेन **योगिनां** कर्मिणां निष्ठा प्रोक्ता इत्यर्थः। यदि च एकेन पुरुषेण एकस्मै पुरुषार्थाय ज्ञानं कर्म च समुच्चित्य अनुष्ठेयं भगवता इष्टम् उक्तं वक्ष्यमाणं वा गीतासु वेदेषु चोक्तम् कथमिह अर्जुनाय उपसन्नाय प्रियाय विशिष्टभिन्नपुरुषकर्तृके एव ज्ञानकर्मनिष्ठे ब्रूयात् यदि पुनः अर्जुनः ज्ञानं कर्म च द्वयं श्रुत्वा स्वयमेवानुष्ठास्यति अन्येषां तु भिन्नपुरुषानुष्ठेयतां वक्ष्यामि इति मतं भगवतः कल्प्येत तदा रागद्वेषवान् अप्रमाणभूतो भगवान् कल्पितः स्यात्। तच्चायुक्तम्। तस्मात् कयापि युक्त्या न समुच्चयो ज्ञानकर्मणोः॥ यत् अर्जुनेन उक्तं कर्मणो ज्यायस्त्वं बुद्धेः तच्च स्थितम् अनिराकरणात्। तस्याश्च ज्ञाननिष्ठायाः संन्यासिनामेवानुष्ठेयत्वम् भिन्नपुरुषानुष्ठेयत्ववचनात्। भगवतः एवमेव अनुमतमिति गम्यते॥ मां च बन्धकारणे कर्मण्येव नियोजयसि इति विषण्णमनसमर्जुनम् कर्म नारभे इत्येवं मन्वानमालक्ष्य आह भगवान् न कर्मणामनारम्भात् इति। अथवा ज्ञानकर्मनिष्ठयोः परस्परविरोधात् एकेन पुरुषेण युगपत् अनुष्ठातुमशक्यत्वे सति इतरेतरानपेक्षयोरेव पुरुषार्थहेतुत्वे प्राप्ते कर्मनिष्ठाया ज्ञाननिष्ठाप्राप्तिहेतुत्वेन पुरुषार्थहेतुत्वम् न स्वातन्त्र्येण ज्ञाननिष्ठा तु कर्मनिष्ठोपायलब्धात्मिका सती स्वातन्त्र्येण पुरुषार्थहेतुः अन्यानपेक्षा इत्येतमर्थं प्रदर्शयिष्यन् आह भगवान्
 </details>
@@ -472,12 +475,14 @@ else-,the Lord said:
 शुद्धिहेतुत्वं नास्ति। अतः कामराहित्येनैव कर्माणि कुर्वन्नन्तःकरणशुद्ध्य
 ज्ञानाधिकारी भविष्यसीति यावदध्यायसमाप्ति वदिष्यति भगवान्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.3॥ ज्यायस्त्वेऽपि बुद्धेराधिकारिकत्वात् त्वं कर्मण्यधिकृत इति तत्र
 नियोक्ष्यामीत्याशयवान्भगवानाह लोक इति। द्विविधा अपि जनाः सन्ति
@@ -530,12 +535,14 @@ else-,the Lord said:
 गृहस्थकर्माधिकारो यस्मिन्स तथोक्तः। प्रियव्रतो हि यत्याश्रमं
 स्वीचिकीर्षुराधिकारिकत्वयुक्त्या हिरण्यगर्भेण निवारित इत्यनेनोच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.3॥ श्रीभगवांस्तूत्तरं ददाति लोकेऽस्मिन् इति। लोके एषा द्वयी गतिः प्रसिद्धा साङ्ख्यानां ज्ञानं प्रधानम् योगिनां च कर्मेति। मया तु सा एकैव निष्ठा उक्ता ज्ञानक्रियामयत्वात् संवित्तत्त्वस्येति भावः।
 </details>
@@ -544,12 +551,14 @@ else-,the Lord said:
 
 3.3 Loke etc. In the world, this twofold path is well known. Knowledge is important for men of reflection and action for men of Yoga. But that path has been declared by Me to be only one. For, the Consciousness consists predominantly of knowledg and action. This is the idea here. For this \[the Lord continues\] -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.3॥ अत्रोत्तरं श्रीभगवानुवाच लोकेऽस्मिन्निति। पूर्वोक्तं त्वया सम्यक्
 नावधृतं यतः अस्मिन् लोके द्विविधा निष्ठा मया पुरा प्रोक्ता ये तु
@@ -571,10 +580,13 @@ else-,the Lord said:
 ब्रह्मनिष्ठोक्ता। तयोः स्वरूपज्ञानार्थं निष्ठाद्वयमुक्तं न तु
 त्वदर्थमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.3॥ अत्रोत्तरं श्रीभगवानुवाच **लोकेऽस्मिन्निति।** अयमर्थः। यदि मया
 परस्परनिरपेक्षं मोक्षासाधनत्वेन कर्मज्ञानयोगरुपं निष्ठाद्वयमुक्तं
@@ -593,10 +605,13 @@ else-,the Lord said:
 चित्तशुद्ध्यशुद्धिरुपावस्थामेदेनैव द्विविधापि निष्ठोक्ताएषा तेऽभिहिता
 साङ्ख्ये बुद्धिर्योगे त्विमां शृणु इति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.3 The Lord said In this world a two-fold way was of yore laid down by Me, O sinless one: by Jnana Yoga for the Sankhyas and by Karma Yoga for the Yogins.
@@ -627,11 +642,13 @@ else-,the Lord said:
 3.3 लोके in world; अस्मिन् in this; द्विविधा twofold; निष्ठा path; पुरा
 previously; प्रोक्ता said; मया by Me; अनघ O sinless one; ज्ञानयोगेन by the path of knowledge; साङ्ख्यानाम् of the Sankhyas; कर्मयोगेन by the path of action; योगिनाम् of the Yogins.Commentary The path of knowledge of the Sankhyas (Jnana Yoga) was described by Lord Krishna in chapter II; verses 11 to 38 the path of action (Karma Yoga) from 40 to 53.Pura Prokta may also mean In the beginning of creation the twofold path was given by Me to this world.Those who are endowed with the four means and who have sharp; subtle intellect and bold understanding are fit for Jnana Yoga. Those who have a tendency or inclination for wok are fit for Karma Yoga. (The four means are discrimination; dispassion; sixfold virutes; and longing for liberation. The sixfold virtues are control of the mind; control of the senses; fortitude (endurance); turning away from the objects of the world; faith and tranillity.)It is not possible for a man to practise the two Yogas simultaneously. Karma Yoga is a means to an end. It purifies the heart and prepares the aspirant for the reception of knowledge. The Karma Yogi should take up Jnana Yoga as soon as his heart is purified. Jnana Yoga takes the aspirant directly to the goal without any extraneous help. (Cf.V.5).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.3।। श्रीभगवान् बोले - हे निष्पाप अर्जुन! इस मनुष्यलोकमें दो प्रकारसे
@@ -702,6 +719,7 @@ previously; प्रोक्ता said; मया by Me; अनघ O sinless 
 ।।3.3।। श्री भगवान् ने कहा हे निष्पाप (अनघ) अर्जुन इस श्लोक में दो
 प्रकार की निष्ठा मेरे द्वारा पहले कही गयी है ज्ञानियों की (साङ्ख्यानां)
 ज्ञानयोग से और योगियों की कर्मयोग से।।
+</details>
 </details>
 
 </div>

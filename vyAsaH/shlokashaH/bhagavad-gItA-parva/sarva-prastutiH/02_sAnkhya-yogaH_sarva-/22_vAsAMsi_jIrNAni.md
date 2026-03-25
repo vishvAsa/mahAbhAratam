@@ -26,8 +26,9 @@ title = "22 वासांसि जीर्णानि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.22॥ धर्मयुद्धे शरीरं त्यजतां त्यक्तशरीराद् अधिकतरकल्याणशरीरग्रहणं शास्त्राद् अवगम्यते इति। **जीर्णानि वासांसि विहाय नवानि** कल्याणानि वासांसि गृह्णताम् इव हर्षनिमित्तिम् एव अत्र उपलभ्यते।
@@ -42,12 +43,14 @@ title = "22 वासांसि जीर्णानि"
 
 2.22 That those who give up their bodies in a righteous war get more beauteous bodies than before, is known through the scriptures. Casting off worn-out garments and taking new and beautiful ones, can be only a cause of joy, as seen here in the world in the case of new garments. Once again Sri Krsna emphasises for easy understanding the indestructibility of the self, taught before: 'Know that to be indestructible by which all this is pervaded' (II.17) and confirms it thus:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.22॥  
   
@@ -160,12 +163,14 @@ samyati, unites with; anyani, other; navani, new ones. This is meaning.
 दृष्टान्तेनाविकृतत्वप्रतिपादनमात्मनः क्रियत इति तु प्राचां
 व्याख्यानमतिस्पष्टम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.22॥ देहात्मविवेकानुभवार्थं दृष्टान्तमाह वासांसीति।
 </details>
@@ -179,12 +184,14 @@ samyati, unites with; anyani, other; navani, new ones. This is meaning.
 पूर्वोक्ताद्विलक्षणमिति शेषः। दृष्टान्तमित्युपलक्षणं दार्ष्टान्तिकस्यापि
 कथितत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.23॥ वासांसि इति।  
 यथा वस्त्राच्छादितः तद्-वस्त्रनाशे समुचित-वस्त्रान्तरावृतो न विनश्यति +++(N omits यथा न विनश्यति)+++ एवमात्मा देहान्तरावृतः।
@@ -194,12 +201,14 @@ samyati, unites with; anyani, other; navani, new ones. This is meaning.
 
 2.22 Vasamsi etc. just as a well - dressed person, on the destruction of his garment, gets himself dressed in another more suitable garment, and he does not perish on that account, in the same way the Self, dressed with different bodies \[behaves\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.22॥ नन्वात्मनोऽविनाशेऽपि तदीयभोगसाधनदेहानां विनाशं पर्यालोच्य
 शोचामीति चेत्तत्राह वासांसीति। यथेति दृष्टान्तः। नरो जीर्णानि वासांसि
@@ -216,19 +225,25 @@ samyati, unites with; anyani, other; navani, new ones. This is meaning.
 मत्क्रीडानुपयुक्तानि शरीराणि विहाय नवानि अन्यानि मत्क्रीडार्थं
 विलक्षणरसोत्पादकानि देही संयाति मदिच्छया प्राप्नोती त्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.22॥ नन्वात्मनोऽविनाशित्वेऽपि तदीयशरीरनाशं पर्यालोच्य शोचामीति
 चेत्तत्राह **वासांसीति।** कर्मनिबन्धनभूतानां देहानामवश्यंभावित्वान्न
 जीर्णदेहनाशे शोकावकाश इत्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.22 As a man casts off worn-out garments and puts on others that are new, so does the embodied self cast off Its worn-out bodies and enter into others that are new.
@@ -263,11 +278,13 @@ rightly proceeds to other new ones.
 bodies; विहाय having cast away; जीर्णानि wornout; अन्यानि others; संयाति
 enters; नवानि new; देही the embodied (one).No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.22।। मनुष्य जैसे पुराने कपड़ोंको छोड़कर दूसरे नये कपड़े धारण कर लेता
@@ -430,6 +447,7 @@ enters; नवानि new; देही the embodied (one).No commentary.
 ।।2.22।। जैसे मनुष्य जीर्ण वस्त्रों को त्यागकर दूसरे नये वस्त्रों को
 धारण करता है, वैसे ही देही जीवात्मा पुराने शरीरों को त्याग कर दूसरे नए
 शरीरों को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

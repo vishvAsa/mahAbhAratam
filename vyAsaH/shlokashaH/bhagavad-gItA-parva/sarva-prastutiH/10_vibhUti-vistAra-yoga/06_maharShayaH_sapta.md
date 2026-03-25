@@ -23,8 +23,9 @@ title = "06 महर्षयः सप्त"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.6॥**पूर्वे सप्त महर्षयः** अतीतमन्वन्तरे ये भृग्वादयः सप्त महर्षयो नित्यसृष्टिप्रवर्तनाय ब्रह्मणो मनसः सम्भवा नित्यस्थितिप्रवर्तनाय ये च सावर्णिका नाम **चत्वारो मनवः** स्थिताः **येषां** सन्तानमये **लोके जाता इमाः** सर्वाः **प्रजाः;** प्रतिक्षणम् आप्रलयाद् अपत्यानाम् उत्पादकाः पालकाश्च भवन्ति; ते भृग्वादयो मनवश् च **मद्भावाः;** मम यो भावः स एव येषां भावस् ते मद्भावाः; मन्मते स्थिता मत्सङ्कल्पानुवर्तिन इत्यर्थः।
@@ -39,12 +40,14 @@ title = "06 महर्षयः सप्त"
 
 10.6 'The seven great Rsis of yore', namely, those seven great Rsis like Bhrgu etc., were from the mind of Brahma in the cycle of the past Manu to perpetuate the creation permanently; and the four Manas called the sons of Savarna existed for the work of eternal sustentation. All creatures in the world are their progeny. So they are the generators of this progeny as also their sustainers till the time of Pralaya. These Bhrgu etc., and the Manus, derive their mental condition from Me. Their disposition is My disposition - they subsist on My disposition. The meaning is they follow My will.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.6॥ --,**महर्षयः सप्त** भृग्वादयः **पूर्वे** अतीतकालसंबन्धिनः; **चत्वारः मनवः तथा** सावर्णा इति प्रसिद्धाः; ते च **मद्भावाः** मद्गतभावनाः वैष्णवेन सामर्थ्येन उपेताः; **मानसाः** मनसैव उत्पादिताः मया **जाताः** उत्पन्नाः; **येषां** मनूनां महर्षीणां च सृष्टिः **लोके इमाः** स्थावरजङ्गमलक्षणाः **प्रजाः**॥
 </details>
@@ -131,12 +134,14 @@ by Me through My mind itself.
 मनूनां च चतुर्दशानां अस्मिल्ँ लोके जन्मना च विद्यया च सन्ततिभूता इमा
 ब्राह्मणाद्याः सर्वाः प्रजाः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.6॥ पूर्वे सप्तर्षयः -- मरीचिरत्र्यङ्गिरसौ पुलस्त्यः पुलहः क्रतुः।
 वसिष्ठश्च महातेजाः इति मोक्षधर्मोक्ताः \[म.भा.12।335।28\]। ते हि
@@ -202,12 +207,14 @@ by Me through My mind itself.
 व्याख्येयत्वात्; तर्हि कथं न व्याहतिः इत्यत आह -- **ये त** इति। मत्त एव
 ब्रह्मान्तर्यामिणः। ब्रह्मा तु द्वारमात्रमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.6 -- 10.11॥ महर्षय इत्यादि भास्वता इत्यन्तम्। परस्परबोधनया अन्योन्यबोधस्फारसंक्रमणात् सर्व एव हि प्रमातारः एक ईश्वर इति विततव्याप्त्या +++(S;;N वितत्य व्याप्त्या)+++ सुखेनैव सर्वशक्तिकसर्वगतस्वात्मरूपताधिगमेन +++(S -- ताधिशयनेन अधिगमेन)+++ माहेश्वर्यमेषामिति भावः +++(After इति भावः ;N add तेषां सततयुक्तानाम् इत्यतः प्रभृति अध्यायान्ता टीका उट्टङ्किता युगपद्धि वेद्या। तेषामेव अनु च अर्जुनप्रश्नपद्यानि षट् उल्लिखति। श्रीभगवान् अथवा बहुना इति पर्यन्तानि पद्यानि 23 वक्ति॥ These sentences are obviously of some copyist. It is to be noted however,that the Mss. generally contain seven (not six)+++ verses of Arjuna and then 24 +++(not 23)+++ verses of the hagavan) ।
 </details>
@@ -216,12 +223,14 @@ by Me through My mind itself.
 
 10.6 See Comment under 10.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.6॥ एवं जातस्य गुणसर्गस्य हेतुरहमज एक इत्युक्त्वाअहमादिर्हि देवानां
 \[10।2\] इति व्याचष्टे -- महर्षय इति। गुणसंसर्गिण एते पूर्वे
@@ -250,10 +259,13 @@ by Me through My mind itself.
 तादृशा जाताः। येषां लोके इमाः प्रजास्तदुक्तप्रवर्तमाना भवन्तीत्यर्थः।
 अतोऽपि मत्त एव भवन्तीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.6॥ किंच **-- महर्षय इति।** सप्त महर्षयोभृग्वादयः सप्त ब्राह्मणा
 इत्येते पुराणे निश्चयं गता इत्यादि पुराणप्रसिद्धाः। तेभ्योऽपि
@@ -263,10 +275,13 @@ by Me through My mind itself.
 सनकादीनां चेमा ब्राह्मणाद्या लोके वर्धमाना यथायथं पुत्रपौत्रादिरूपाः
 शिष्यादिरूपाश्च प्रजा जाता वर्तन्ते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.6 The seven great seers of yore and similarly the four Manus, all possessing My mental disposition, were born of My mind. All these creatures of the world are descended from them.
@@ -306,11 +321,13 @@ Sanatkumara and Sanatsujata); as well as the four Manus of the past ages known a
 men; the present inhabitants of this world; are the sons of Manu. The Manus are the mindborn sons of God. These creatures which consist of the moving and the unmoving beings are born of the seven great sages and the four Manus. The great sages were original teaches of BrahmaVidya or the ancient wisdom of the Upanishads. The Manus were the rulers of men. They framed the code or rules of conduct or the laws of Dharma for the guidance and uplift of humanity.The seven great sages represent the seven planes also. In the macrocosm; Mahat or cosmic Buddhi; Ahamkara or the cosmic egoism and the five Tanmatras or the five rootelements of which the five great elements; viz.; earth; water; fire; air and ether are the gross forms; represent the seven great sages. This gross universe with the moving and the unmoving beings and the subtle inner world have come out of the above seven principles. In mythology or the Puranic terminology these seven principles have been symbolised and give human names. Bhrigu; Marichi; Atri; Pulastya; Pulaha; Kratu and Vasishtha are the seven great sages.In the microcosm; Manas (mind);
 Buddhi (intellect); Chitta (subconsciousness) and Ahamkara (egoism) have been symbolised as the four Manus and given human names. The first group forms the base of the macrocosm. The second group forms the base of the microcosm (individuals). These two groups constitute this vast universe of sentient life.Madbhava with their being in Me; of My nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.6।। सात महर्षि और उनसे भी पूर्वमें होनेवाले चार सनकादि तथा चौदह मनु
@@ -380,6 +397,7 @@ Buddhi (intellect); Chitta (subconsciousness) and Ahamkara (egoism) have been sy
 ।।10.6।। सात महर्षिजन, पूर्वकाल के चार (सनकादि) तथा (चौदह) मनु ये मेरे
 प्रभाव वाले मेरे संकल्प से उत्पन्न हुए हैं, जिनकी संसार (लोक) में यह
 प्रजा है।।
+</details>
 </details>
 
 </div>

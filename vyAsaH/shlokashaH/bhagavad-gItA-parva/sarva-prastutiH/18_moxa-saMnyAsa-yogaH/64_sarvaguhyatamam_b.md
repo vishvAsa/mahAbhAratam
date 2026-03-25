@@ -23,8 +23,9 @@ title = "64 सर्वगुह्यतमम् भूयः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.64॥  
@@ -112,12 +113,14 @@ title = "64 सर्वगुह्यतमम् भूयः"
 
 18.64 It has been said that Bhakti Yoga is the most secret of all secrets, in such texts as 'I will declare to you, who does not cavil, this most mysterious knowledge' (9.1). Hear again My supreme word concerning it (i.e., Bhakti Yoga). As you are exceedingly dear to Me, therefore, I shall declare what is good for you.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.64॥ --,**सर्वगुह्यतमं** सर्वेभ्यः गुह्येभ्यः अत्यन्तगुह्यतमम् अत्यन्तरहस्यम्; उक्तमपि असकृत् **भूयः** पुनः **श्रृणु मे** मम **परमं** प्रकृष्टं **वचः** वाक्यम्। न भयात् नापि अर्थकारणाद्वा वक्ष्याभि किं तर्हि **इष्टः** प्रियः **असि मे** मम **दृढम्** अव्यभिचारेण **इति** कृत्वा **ततः** तेन कारणेन **वक्ष्यामि** कथयिष्यामि **ते** तव **हितं** परमं ज्ञानप्राप्तिसाधनम्; तद्धि सर्वहितानां हिततमम्॥ किं तत् इति; आह --,
 </details>
@@ -194,12 +197,14 @@ the Lord says:
 इति यतस्ततस्तेनैवेष्टत्वेन वक्ष्यामि कथयिष्याम्यपृष्टोऽपि सन्नहं ते तव
 हितं परमं श्रेयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.64॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -208,12 +213,14 @@ the Lord says:
 
 ॥18.64॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.64 -- 65॥ तच्च तात्पर्यं यथावसरम् अस्माभिः श्रृङ्गग्राहिकयैव प्रकाशितं यद्यपि तथापि स्फुटम् अशेषविमर्शनं प्रदर्श्यते। उपादेयतमं ह्यदः। नास्मिन् निरूप्यमाणे श्रूयमाणे वा मतिस्तृप्यति। गुह्यतमं यदत्र निश्चितं तज्ज्ञानमिदानीं श्रृणु इत्याहि -- सर्वेति। मन्मना इति। मन्मना भव इत्यादिना शास्त्रे ब्रह्मापर्णे एव सर्वथा प्राधान्यम् इति निश्चितम् ब्रह्मार्पणकारिणः शास्त्रमिदमर्थवत् इत्युक्तम्।
 </details>
@@ -222,12 +229,14 @@ the Lord says:
 
 18.64 See Comment under 18.65
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.64॥ एतस्याशेषतो दुर्ज्ञेयत्वात् स्वयमेवातिमात्रमनुगृह्णन् स्वीयाय
 स्वतत्त्वमुपदिशति -- सर्वगुह्यतममिति। अत्रभूयः इति पदमिदं गुह्यतममिति
@@ -246,10 +255,13 @@ the Lord says:
 अप्रियकरणेऽपि अन्यथाभावरहितः इष्टः प्रियोऽसि; ततः कारणात्ते हितं
 वक्ष्यामि कथयामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.64॥ अतिगम्भीरं गीताशास्त्रमशेषतः पर्यालोचयितुमशक्नुवतः कृपया
 स्वयमेव तस्य सारं संगृह्य कथयति **-- सर्वगुह्यतममितित्रिभिः।**
@@ -259,10 +271,13 @@ the Lord says:
 मया वक्ष्यमाणं च दृढं सर्वप्रमाणोपेतमिति निश्चित्य ततस्ते
 वक्ष्यामीत्यर्थः। दृढमतिरिति केचित्पठन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.64 Hear again My supreme word, the most secret of all; as you are exceedingly loved by Me, I am telling what is good for you.
@@ -297,11 +312,13 @@ My; परमम् supreme; वचः word; इष्टः beloved; असि 
 हितम् what is good.Commentary Now listen once more with rapt attention to My words. Thou art very dear to Me. Thou art a sincere aspirant.
 Therefore I am telling thee this most mysterious truth. Hear from Me this mystery of all mysteries. I shall tell it to you again to make a deep impression on your mind; although it has been declared more than once. I do not hope to get any reward from thee. Thou art My most beloved friend and disciple. Therefore I will speak what is good for thee; the means of attaining Selfrealisation. This is the supreme good or the highest of all kinds of good for thee.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.64।। सबसे अत्यन्त गोपनीय वचन तू फिर मेरेसे सुन। तू मेरा अत्यन्त
@@ -403,6 +420,7 @@ Therefore I am telling thee this most mysterious truth. Hear from Me this myster
 ।।18.64।। पुन: एक बार तुम मुझसे समस्त गुह्यों में गुह्यतम परम वचन
 (उपदेश) को सुनो। तुम मुझे अतिशय प्रिय हो, इसलिए मैं तुम्हें तुम्हारे हित
 की बात कहूंगा।।
+</details>
 </details>
 
 </div>

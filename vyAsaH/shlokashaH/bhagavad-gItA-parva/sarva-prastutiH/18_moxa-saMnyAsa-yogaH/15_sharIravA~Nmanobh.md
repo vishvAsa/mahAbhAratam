@@ -23,8 +23,9 @@ title = "15 शरीरवाङ्मनोभिर्यत्कर्म"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.15॥ न्याय्ये शास्त्रसिद्धे विपरीते प्रतिषिद्धे **वा** सर्वस्मिन् कर्मणि शारीरे वाचिके मानसे च **पञ्च एते हेतवः। अधिष्ठानं** शरीरम्; अधिष्ठीयते जीवात्मना इति महाभूतसङ्घातरूपं शरीरम् अधिष्ठानम्। **तथा कर्ता** जीवात्मा अस्य जीवात्मनः ज्ञातृत्वं कर्तृत्वं च -- ज्ञोऽत एव (ब्र॰ सू॰ 2।3।18)कर्ता शास्त्रार्थवत्त्वात् (ब्र॰ सू॰ 2।3।33) इति च सूत्रोपपादितम्। करणं च पृथग्विधं वाक्पाणिपादादिपञ्चकं समनस्कं कर्मेन्द्रियम्; पृथग्विधं कर्मनिष्पत्तौ पृथग्व्यापारम्। **विविधाश् च पृथक् चेष्टाः** -- चेष्टाशब्देन पञ्चात्मा वायुर् अभिधीयते; तद्वृत्तिवाचिना; शरीरेन्द्रियधारकस्य प्राणापानादिभेदभिन्नस्य वायोः पञ्चात्मनो विविधा च चेष्टा विविधा वृत्तिः। **दैवं च एव अत्र पञ्चमम्;** अत्र कर्म हेतुकलापे दैवं पञ्चमम् परमात्मा अन्तर्यामी कर्मनिष्पत्तौ प्रधानहेतुर् इत्य् अर्थ उक्तं हिसर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्विज्ञानमपोहनं च। (गीता 15।15) इति। वक्ष्यति च -- ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति। भ्रामयन् सर्वभूतानि यन्त्रारूढानि मायया॥ (गीता 18।61) इति।  
@@ -51,12 +52,14 @@ Self as established in the aphorism: 'But from the Supreme, because the scriptur
 (severally) also is responsible for it. In the same way each individual
 is answerable to Nature's law in the form of positive and negative ;ndments.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.15॥ --,**शरीरवाङ्मनोभिः यत् कर्म** त्रिभिः एतैः **प्रारभते** निर्वर्तयति **नरः; न्याय्यं वा** धर्म्यं शास्त्रीयम्; **विपरीतं वा** अशास्त्रीयम् अधर्म्यं यच्चापि निमिषितचेष्टितादि जीवनहेतुः तदपि पूर्वकृतधर्माधर्मयोरेव कार्यमिति न्याय्यविपरीतयोरेव ग्रहणेन गृहीतम्; **पञ्च एते** यथोक्ताः **तस्य** सर्वस्यैव कर्मणो **हेतवः** कारणानि॥ ननु एतानि अधिष्ठानादीनि सर्वकर्मणां निर्वर्तकानि कथम् उच्यते शरीरवाङ्मनोभिः यत् कर्म प्रारभते इति नैष दोषः विधिप्रतिषेधलक्षणं सर्वं कर्म शरीरादित्रयप्रधानम् तदङ्गतया दर्शनश्रवणादि च जीवनलक्षणं त्रिधैव राशीकृतम् उच्यते शरीरादिभिः आरभते इति। फलकालेऽपि तत्प्रधानैः साधनैः भुज्यते इति पञ्चानामेव हेतुत्वं न विरुध्यते इति॥
 </details>
@@ -162,12 +165,14 @@ the causes.
 पूर्वकृतधर्माधर्मयोरेव कार्यमिति न्याय्यविपरीतयोरेवान्तर्भूतम्। पञ्चैते
 यथोक्ता अधिष्ठानादयस्तस्य सर्वस्यैव कर्मणो हेतवः कारणानि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.14 -- 18.15॥ अधिष्ठानं देहादिः। कर्ता विष्णुः स हि
 सर्वकर्तेत्युक्तम् जीवस्य चाकर्तृत्वे प्रमाणमुक्तम्। करणमिन्द्रियादि च।
@@ -214,12 +219,14 @@ the causes.
 देह इत्युपलक्षणम्। हेतुः कारणम्। कर्म हेत्विति क्वचित्पाठः; तत्र छान्दसो
 लिङ्गव्यत्ययः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.13 -- 18.17॥ अधुना व्यवहारदशायामपि पञ्चस्वपि कर्महेतुषु स्थितेषु बलादेवामी ( बलादमी ) अविद्यान्धाः पुमांसः स्वात्मन्येव सकलकर्तृभावभारमारोपयन्ति ( आरोपयन्त्येते )। अतो निजयैव धिया आत्मानं बध्नन्ति; न तु वस्तुस्थित्या अस्य बन्धः इत्युपदिश्यते -- पञ्चेत्यादि न निबद्ध्यते इत्यन्तम्। कृतः अन्तः; निश्चयः यत्रेति कृतान्तः; सिद्धान्तः। अधिष्ठानं; विषयः। दैवम्; प्रागर्जितं शुभाशुभम्। पञ्चैते अधिष्ठानादयः सामग्रीरूपतां प्राप्ताः सर्वकर्मसु हेतवः। अन्ये तु; अधिष्ठीयते अनेन सर्वं कर्म इति बुद्धिगतं रजोलब्धवृत्तिकं धृतिश्रद्धासुखविविदिषाविविदिषारूपपञ्चकपरिणामिकर्मयोगशब्दवाच्यमधिष्ठानं क्वचित् प्रयत्नशब्देन उक्तम्। कर्ता; अनुसन्धाता बुद्धिलक्षणः। करणं मनश्चक्षुरादि; बाह्यमपि च खड्गादि। चेष्टा प्राणापानादिका। दैवशब्देन धर्माधर्मौ ताभ्यां च बुद्धिगताः सर्वेऽपि भावा उपलक्षिताः \[ इति \]। अन्ये तु अधिष्ठानम् ईश्वरं मन्यन्ते। अकृतबुद्धित्वात्; अनिश्चितप्रज्ञतया। यः पुनरहंकारवियोगदार्ढ्येन प्रागुक्तयुक्तिशतशोधितेन कर्माणि करोति न स बन्धभाक् +++(; N न संबन्धभाक् )+++; कृतबुद्धित्वात् इत्याशयः।
 </details>
@@ -228,12 +235,14 @@ the causes.
 
 18.15 See Comment under 18.17
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.14 -- 18.15॥ तथाहि अधिष्ठानमिति। शरीरवाङ्मनोभिरिति न्याय्यं
 शास्त्रीयं; विपरीतं निषिद्धं वा; अन्यत्सर्वं कर्म शारीरं वाचिकं मानसं च
@@ -283,20 +292,26 @@ the causes.
 वेदोक्तत्वेनावश्यप्राप्तस्याऽपि विपरीतत्वं तज्ज्ञाने विपरीतस्याऽपि
 न्याय्यत्वमिति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.15॥ एतेषामेव सर्वकर्महेतुत्वमाह **-- शरीरेति।** यथोक्तैः पञ्चभिः
 प्रारभ्यमाणं कर्म त्रिष्वेवान्तर्भाव्यशरीरवाङ्मनोभिरित्युक्तं शारीरं
 वाचिकं मानसं च त्रिविधं कर्मेति प्रसिद्धेः। शरीरादिभिर्यद्यत्कर्म धर्म्य
 वाऽधर्म्यं वा करोति नरस्तस्य सर्वस्य कर्मण एते पञ्च हेतवः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.15 For whatever action a man undertakes by his body, speech and mind,
@@ -329,11 +344,13 @@ whether right or wrong, i.e., enjoined or forbidden by the Sastras, the followin
 action; प्रारभते performs; नरः man; न्याय्यम् right; वा or; विपरीतम् the reverse; वा or; पञ्च five; एते these; तस्य its; हेतवः causes.Commentary Nyayyam Right Not opposed to Dharma conformable to the scriptures justifiable.Viparitam The opposite What is opposite to Dharma and opposed to the scriptures unjustifiable.Even those actions; -- acts like winking and the like which are necessary conditions of life; are indicated by the term the right and the reverse; as they are effects of past Dharma and Adharma.Tasya Hetavah Its Causes The causes of every action.An objector argues In the previous verse it is said that the body; actor; various organs; etc.; are the necessary factors of every action. Why do you then make a distinction in actions by saying whatever action a man does by the body; speech and mindOur answer is In the performance of every action; one of the three -- body; speech or mind --
 has a more prominent share than the others while seeing; hearing and other activities which accompany or go along with life are subordinate to that one.Therefore all actions are classified under three groups and are spoken of as done by the body or speech or mind. The fruit of an actions also is enjoyed through the body; speech and mind and one of the three takes a more prominent share than the rest. Therefore; it is proper to say Whatever action a man performs with his body; speech and mind৷৷.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.15।। मनुष्य, शरीर वाणी और मनके द्वारा शास्त्रविहित अथवा
@@ -413,6 +430,7 @@ has a more prominent share than the others while seeing; hearing and other activ
 
 ।।18.15।। मनुष्य अपने शरीर, वाणी और मन से जो कोई न्याय्य (उचित) या
 विपरीत (अनुचित) कर्म करता है, उसके ये पाँच कारण ही हैं।।
+</details>
 </details>
 
 </div>

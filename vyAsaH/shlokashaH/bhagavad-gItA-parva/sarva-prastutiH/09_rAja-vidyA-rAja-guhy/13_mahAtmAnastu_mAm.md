@@ -23,8 +23,9 @@ title = "13 महात्मानस्तु माम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.13॥ ये **तु** स्वकृतैः पुण्यसञ्चयैर् मां शरणम् उपगम्य विध्वस्तसमस्तपापबन्धाः **दैवीं प्रकृतिम् आश्रिता महात्मानः** ते; **भूतादिम् अव्ययं** वाङ्मनसागोचरनामकर्मस्वरूपं परमकारुणिकतया साधुपरित्राणाय मनुष्यत्वेन अवतीर्णं मां **ज्ञात्वा अनन्यमनसः मां भजन्ते** मत्प्रियत्वातिरेकेण मद्भजनेन विना मनसश् च आत्मनश् च बाह्यकरणानां च धारणम् अलभमानाः; मद्भजनैकप्रयोजना भजन्ते।
@@ -39,12 +40,14 @@ title = "13 महात्मानस्तु माम्"
 
 9.13 Those who, through their multitude of good acts, have taken refuge in Me and have been thery released from the bondage of evil - they understand My divine nature. They are high-souled. Knowing Me to be the immutable source of all beings, namely, as the Lord whose name, acts and nature are beyond thought and speech, and who has descended in a human form out of supreme compassion to rescue the good, - they worship Me with un unswerving mind. As I am extremely dear to them, without worshipping Me they are unable to find support for their mind, self and external organs. Thus they become devoted to Me as their sole object.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.13॥ --,**महात्मानस्तु** अक्षुद्रचित्ताः **माम्** ईश्वरं **पार्थ दैवीं** देवानां **प्रकृतिं** शमदमदयाश्रद्धादिलक्षणाम् **आश्रिताः** सन्तः **भजन्ति** सेवन्ते **अनन्यमनसः** अनन्यचित्ताः **ज्ञात्वा भूतादिं** भूतानां वियदादीनां प्राणिनां च आदिं कारणम् **अव्ययम्**॥ कथम् -- --,
 </details>
@@ -121,12 +124,14 @@ as well as of living beings. How;
 प्रकृतिमाश्रिताः। अतएवान्यस्मिन्मद्व्यतिरिक्ते नास्ति मनो येषां ते।
 भूतादिं सर्वजगत्कारणमव्ययमविनाशिनं च,मामीश्वरं ज्ञात्वा भजन्ति सेवन्ते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.13॥ नेतरे द्विषन्तीति दर्शयितुं देवानाह -- महात्मान इति।
 </details>
@@ -138,12 +143,14 @@ as well as of living beings. How;
 **नेतर** इति। सत्यमेतत् तथापि देवानां स्वरूपकथनार्थमेतत्। तच्च
 द्वेषाभावोपपादनार्थमिति भावः। **देवा**नित्युत्तमजीवोपलक्षणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.13 -- 9.14॥ महात्मान इत्यादि विश्वतोमुखमित्यन्तम्। दैवीं; सात्विकीम्। यजन्तः; बाह्यद्रव्यादियागैः। अन्ये तु मा ज्ञानयज्ञेनैवोपासते। अतः केचित् एकतया ज्ञानतः; केचित् बहुधा; कर्मयोगात्। मत्परा एव सर्वे।
 </details>
@@ -152,12 +159,14 @@ as well as of living beings. How;
 
 9.13 See Comment under 9.15
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.13॥ महात्मान इति। महात्मानस्तु मां भजन्ते। एते भगवदीया दैवाः
 प्रतीयन्तेसात्त्विका भगवद्भक्ता ये मुक्तावधिकारिणः। भवान्तसम्भवा
@@ -181,10 +190,13 @@ as well as of living beings. How;
 विद्यते अन्यत्र मद्व्यतिरिक्ते मनो येषां ते मां भूतादिं सकलजगत्कारणं
 अव्ययं नित्यं यथार्थरूपं ज्ञात्वा भजन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.13॥ के तर्हि त्वामाराधयन्तीत्यत आह **-- महात्मानस्त्विति।**
 महात्मानः कामाद्यनभिभूतचित्ताः यतोऽभयं सत्त्वसंशुद्धिरित्यादिना
@@ -192,10 +204,13 @@ as well as of living beings. How;
 नास्त्यन्यस्मिन्मनो येषां ते भूतादिं जगत्कारणमव्ययं नित्यं च मां
 ज्ञात्वा भजन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.13 But the great-souled ones, O Arjuna, who are associated with My divine nature, worship Me with unwavering mind, knowing Me to be the immutable source of beings.
@@ -232,11 +247,13 @@ divine; प्रकृतिम् nature; आश्रिताः refuged (in
 भूतादिम् the source of beings; अव्ययम् imperishable.Commentary Jnatva Bhutadimavyayam There is another interpretation -- knowing Me to be the source or the origin of beings and imperishable.Daivim Prakritim Divine or Sattvic nature. Those who are endowed with divine nature; and who possess selfrestraint; mercy; faith; purity; etc.Mahatmanah Or; the highsouled ones are those whose pure minds have been made by Me; as My special abode. I dwell in the pure minds of the highsouled ones. They have sincere devotion to Me. Those who possess divine Sattvic nature;
 who are endowed with a pure mind; and who have knowledge of the Self are Mahatmas.Bhutas All living beings; as well as the five elements.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.13।। परन्तु हे पृथानन्दन ! दैवी प्रकृतिके आश्रित अनन्यमनवाले
@@ -294,6 +311,7 @@ who are endowed with a pure mind; and who have knowledge of the Self are Mahatma
 ।।9.13।। हे पार्थ ! परन्तु दैवी प्रकृति के आश्रित महात्मा पुरुष मुझे
 समस्त भूतों का आदिकारण और अव्ययस्वरूप जानकर अनन्यमन से युक्त होकर मुझे
 भजते हैं।।
+</details>
 </details>
 
 </div>

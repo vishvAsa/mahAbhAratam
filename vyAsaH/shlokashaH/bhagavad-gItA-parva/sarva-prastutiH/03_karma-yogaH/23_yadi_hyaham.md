@@ -23,8 +23,9 @@ title = "23 यदि ह्यहम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>वेङ्कटनाथः</summary>
 
@@ -161,12 +162,14 @@ title = "23 यदि ह्यहम्"
 
 3.23 If I, the Lord of all, whose will is always true, whose sport consists in creation, sustentation and dissolution of universe at My will, even though I am born at My pleasure as a man to help the world - if, I thus incarnating in the family of Vasudeva who is the foremost among virtuous men, did not contine to work unwearied at all times suitable to that family, then, these men with incomplete knowledge would follow My path, thinking that the way adopted by the son of virtuous Vasudeva alone is the real way. And in place of winning the self, they would go to Naraka because of their failure to do what ought to be done and also because of the sin arising from non-performance of duty.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.23॥ **यदि** हि पुनः **अहं** न **वर्तेय जातु** कदाचित् **कर्मणि अतन्द्रितः** अनलसः सन् **मम** श्रेष्ठस्य सतः वर्त्म मार्गम् **अनुवर्तन्ते मनुष्याः** हे **पार्थ सर्वशः** सर्वप्रकारैः॥
 </details>
@@ -214,12 +217,14 @@ completely.-Tr.\]
 कर्माणि तदा मम श्रेष्ठस्य सतो वर्त्म मार्गं हे पार्थ मनुष्याः
 कर्माधिकारिणः सन्तोऽनुवर्तन्तेऽनुवर्तेरन्। सर्वशः सर्वप्रकारैः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.23॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -228,12 +233,14 @@ completely.-Tr.\]
 
 ॥3.23॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.23 3.25॥ यदीत्यादि लोकसंग्रहमित्यन्तम्। किं च विदितवेद्यः कर्म चेत् त्यजेत् तत् लोकानां दुर्भेद एव एकप्रसिद्धपक्षशिथिलितास्थाबन्धत्वेनाप्ररूढिलक्षणो जायेत +++(S K जायते)+++। यतः +++(S omits यतः)+++ कर्मवासनां च न मोक्तुं शक्नुवन्ति ज्ञानधारां च नाश्रयितुम् अथ च शिथिलीभवन्ति।
 </details>
@@ -242,12 +249,14 @@ completely.-Tr.\]
 
 3.23 See Comment under 3.25
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.23॥ तथापि कर्म करोमीत्यकरणे लोकनाशं दर्शयति द्वाभ्यां यदीति।
 </details>
@@ -259,19 +268,25 @@ completely.-Tr.\]
 मम वर्त्म भक्तिमार्गमनुवर्त्तन्त इत्यर्थः। अतस्तेषां ततो निवृत्त्यर्थं
 कर्ममार्गप्रवृत्त्यर्थं कर्म करोमीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/23_yadi_hyaham.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/23_yadi_hyaham.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.23॥ अकरणे लोकस्य नाशं दर्शयति **यदीति।** जातु कदाचिदतन्द्रितोऽनलसः
 सन्यदि कर्मणि न वर्तेयं कर्म नानुतिष्ठेयं तर्हि ममैव वर्त्म मार्गं
 मनुष्या अनुवर्तन्ते। अनुवर्तेरन्नित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.23 If I did not continue to work unwearied, O Arjuna, men would follow my path.
@@ -304,11 +319,13 @@ read varteya instead of varteyam.-Tr.\] vigilantly in action, men will follow My
 जातु ever; कर्मणि in action; अतन्द्रितः unwearied; मम My; वर्त्म path;
 अनुवर्तन्ते follow; मनुष्याः men; पार्थ O Partha; सर्वशः in every way.Commentary If I remain inactive; people also will imitate Me and keep iet. They will all become Tamasic and pass into a state of inertia.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/23_yadi_hyaham.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.23 -- 3.24।। हे पार्थ! अगर मैं किसी समय सावधान होकर कर्तव्यकर्म न
@@ -351,6 +368,7 @@ read varteya instead of varteyam.-Tr.\] vigilantly in action, men will follow My
 
 ।।3.23।। यदि मैं सावधान हुआ (अतन्द्रित:) कदाचित कर्म में न लगा रहूँ तो,
 हे पार्थ ! सब प्रकार से मनुष्य मेरे मार्ग (र्वत्म) का अनुसरण करेंगे।।
+</details>
 </details>
 
 </div>

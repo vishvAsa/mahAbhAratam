@@ -23,8 +23,9 @@ title = "71 विहाय कामान्यः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.71॥ काम्यन्ते इति कामाः शब्दादयो विषयाः। **यः पुमान्** शब्दादीन् **सर्वान्** विषयान् **विहाय** तत्र **निःस्पृहः** ममतारहितश्च अनात्मनि देहे आत्माभिमानरहितः **चरति स** आत्मानं दृष्ट्वा **शान्तिम् अधिगच्छति।  
@@ -40,12 +41,14 @@ title = "71 विहाय कामान्यः"
 
 2.71 What are desired, they are called the objects of desire. These are sound and other sense-objects. The person, who wants peace must abandon all sense-objects such as sound, touch etc. He should have no longing for them. He should be without the sense of 'mineness' regarding them, as that sense arises from the misconception that the body, which is really non-self, is the self. He who lives in this way attains to peace after seeing the self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.71॥  
   
@@ -146,12 +149,14 @@ praised:
 प्राप्नोति तदेतदीदृशं व्रजनं स्थितप्रज्ञस्येति चतुर्थप्रश्नस्योत्तरं
 परिसमाप्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.71॥ एतदेव प्रपञ्चयति विहायेति। कामान् विषयान् निस्स्पृहतया विहाय
 यश्चरेति भक्षयति भक्षयामीत्यहङ्कारममकारवर्जितश्च स हि पुमान्। स एव च
@@ -170,12 +175,14 @@ praised:
 इत्यनेनैवान्वयसमाप्तिं वदता ज्ञानिन एव मुक्तिरित्येषोऽर्थो नात्र
 प्रतिपाद्यत इति दर्शितम् स्त्रीव्यावृत्त्यभावश्च।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 विहायेति । स योगी सर्वकामसंन्यासित्वात् शान्तिरूपं मोक्षमेति ॥ ७३ ॥
 </details>
@@ -184,12 +191,14 @@ praised:
 
 2.71 Vihaya etc. Because he has renounced all desires, the man of Yoga, attains emancipation in the form of peace.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.71॥ यस्मादेवं तस्मात् विहाय कामान्प्राकृतान् त्यक्त्वा
 स्वात्मारामत्वात् अन्यत्र निस्स्पृहःअहन्ताममतानाशे सर्वथा निरंहकृतौ।
@@ -204,20 +213,26 @@ praised:
 निस्स्पृहः भगवदेकपरश्चरति सर्वत्र वैकल्येन परिभ्रमति निर्ममो देहादिषु
 निरहङ्कारो भवति स शान्तिमधिगच्छति प्राप्नोति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.71॥ यस्मादेवं तस्मात् **विहायेति।** प्राप्तान्कामान्विहाय
 त्यक्त्वोपेक्ष्य अप्राप्तेषु च निःस्पृहः यतो निरहंकारः अतएव
 तद्भोगसाधनेषु निर्ममः सन्नन्तर्दृष्टिर्भूत्वा यश्चरति प्रारब्धवशेन
 भोगान्भुङ्क्ते यत्र क्वापि गच्छति वा स शान्तिमाप्नोति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.71 The man who, abandoning all desires, abides without longing and possession and the sense of 'I' and 'mine', wins peace.
@@ -250,11 +265,13 @@ without longing, without a sense of possession and without egotism-he attains pe
 चरति moves about; निःस्पृहः free from longing; निर्ममः devoid of mineness; निरहंकारः without egoism; सः he; शान्तिम् to peace; अधिगच्छति
 attains.Commentary That man who lives destitute of longing; abandoning all desires; without the senses of I and mine; who is satisfied with the bare necessities of life; who does not care even for those bare necessities of life; who has no attachment even for the bare necessities of life; attains Moksha or eternal peace. (Cf.II.55).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.71।। जो मनुष्य सम्पूर्ण कामनाओंका त्याग करके स्पृहारहित, ममतारहित और
@@ -368,6 +385,7 @@ attains.Commentary That man who lives destitute of longing; abandoning all desir
 
 ।।2.71।। जो पुरुष सब कामनाओं को त्यागकर स्पृहारहित; ममभाव रहित और
 निरहंकार हुआ विचरण करता है; वह शान्ति प्राप्त करता है।।
+</details>
 </details>
 
 </div>

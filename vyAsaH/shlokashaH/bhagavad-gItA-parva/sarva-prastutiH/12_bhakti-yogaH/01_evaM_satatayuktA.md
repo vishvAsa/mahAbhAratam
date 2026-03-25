@@ -26,8 +26,9 @@ title = "01 एवं सततयुक्ता"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 भक्तियोगनिष्ठानां प्राप्यभूतस्य परस्य ब्रह्मणो भगवतो नारायणस्य  
@@ -69,12 +70,14 @@ title = "01 एवं सततयुक्ता"
 
 12.1 Arjuna said These are two types of spiritual aspirants who are contrasted thus: (1) On the one hand there are those devotees who adore You 'thus'; namely, in the way taught in such text as 'Whosoever works for Me' (11.55), and who are desirous of being ever 'integrated' with You, namely, considering You as the supreme end. They adore You in utter devotion - You, the ocean of boundless attributes of limitless excellence like grace, affability, omniscience, true resolve etc., and endowed with all glory. (2) On the other hand there are those who meditate on the 'Imperishable', (Aksara) namely, the individual self in Its true nature, which is the same as the 'Unmanifest' (Avyakta), namely that whose nature cannot be grasped by organs such as the eye etc. The estion posed is: Which of these two classes of devotees have greater knowledge of Yoga; Who would reach their respective goals sooner; Such is the meaning of the estion. Sri Krsna clearly states later on, 'O Arjuna, I become before long their redeemer from the fatal sea of recurring births and deaths' (12.7), with reference to the speed with which the latter kind of devotees reach Him.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 द्वितीयाध्यायप्रभृतिषु विभूत्यन्तेषु अध्यायेषु  
 परमात्मनः ब्रह्मणः अक्षरस्य विध्वस्त-सर्वोपाधि-विशेषस्य  
@@ -292,12 +295,14 @@ with regard to them, we shall say later on. As for those others-
 अतिशयेन योगविदो योगं समाधिं विदन्तीति वा योगविद उभयेऽपि। तेषां मध्ये के
 श्रेष्ठा योगिनः। केषां ज्ञानं मयानुसरणीयमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.1॥ उपासनाप्रियाय नमः। । अव्यक्तोपासनाद्भगवदुपासनस्योत्तमत्वं
 प्रदर्श्य तदुपायं प्रदर्शयत्यस्मिन्नध्याये तदुपासनमपि मोक्षसाधनं
@@ -442,12 +447,14 @@ with regard to them, we shall say later on. As for those others-
 उत्तरापव्याख्याननिराकरणं तु तात्पर्यनिर्णय इत्युक्तमेव व्याख्यानमिति
 स्थितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.1॥ एवमिति। एवम् उक्तेन नयेन ये सेश्वरब्रह्मोपासका ये च +++(S omits ये च)+++ केवलं आत्ममात्रमुपासते; तेषां विशेषाख्यानाय प्रश्नः।
 </details>
@@ -456,12 +463,14 @@ with regard to them, we shall say later on. As for those others-
 
 12.1 Evam etc. The estion is for getting an explanation regarding the superiority among those who are the worshippers of the Absolute with Sovereign power, by the said method and those who worship the Self alone \[without any attribute\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.1॥ प्रमेयरूपा तद्भक्तिः प्रमेयः पुरुषोत्तमः। अतः प्रमेयमार्गे तु
 हरिः सेव्यो न चापरः॥1॥ अथ पूर्वत्रयदक्षरं वेदविदो वदन्ति \[8।11\]
@@ -492,10 +501,13 @@ with regard to them, we shall say later on. As for those others-
 पर्युपासते ध्यायन्ति तेषामुभयेषां मध्ये के योगवित्तमाः
 अतिशयितत्वत्संयोगविदः श्रेष्ठा इत्यर्थः। तान् कृपया आज्ञापयेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/01_evaM_satatayuktA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/01_evaM_satatayuktA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.1॥ निर्गुणोपासनस्यैवं सगुणोपासनस्य च। श्रेयः कतरदित्येवं निर्णेतुं
 द्वादशोद्यमः॥1॥  
@@ -510,10 +522,13 @@ with regard to them, we shall say later on. As for those others-
 पर्युपासते ध्यायन्ति; ये चाप्यक्षरं ब्रह्माव्यक्तं निर्विशेषमुपासते
 तेषामुभयेषां मध्ये अतिशयेन के योगविदः। श्रेष्ठा इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.1 Arjuna said Those devotees, who, ever integrated, thus meditate on You, and those again, who meditate on the Imperishable and the Unmanifest - which or these have greater knowledge of Yoga;
@@ -552,11 +567,13 @@ Ultimately he is led to the supreme worship of the allpervading Brahman
 transcending all limiting adjuncts. The unmanifested Brahman is beyond all limitations. That which is visible to the senses is called Vyakta or manifest.The hearts of the devotees are wholly fixed on Thee. They worship Thee with all their heart and soul.There are others who worship the unmanifested Brahman which is beyond time; space and causation;
 which is attributeless; which is eternal and indefinable; which is beyond the reach of speech and mind. These are the wise sages.Of these two; the devotees and the men of knowledge -- who are the better knowers of Yoga (Cf.XI.55)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.1।। जो भक्त इस प्रकार निरन्तर आपमें लगे रहकर आप-(सगुण भगवान्-) की
@@ -607,6 +624,7 @@ which is attributeless; which is eternal and indefinable; which is beyond the re
 ।।12.1।। अर्जुन ने कहा -- जो भक्त, सतत युक्त होकर इस (पूर्वोक्त) प्रकार
 से आपकी उपासना करते हैं और जो भक्त अक्षर, और अव्यक्त की उपासना करते हैं,
 उन दोनों में कौन उत्तम योगवित् है।।
+</details>
 </details>
 
 </div>

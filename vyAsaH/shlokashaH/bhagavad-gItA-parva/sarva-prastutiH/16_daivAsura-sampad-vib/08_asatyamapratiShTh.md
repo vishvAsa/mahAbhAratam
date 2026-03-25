@@ -23,8 +23,9 @@ title = "08 असत्यमप्रतिष्ठन् ते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.8॥**असत्यं जगत्** एतत् सत्यशब्दनिर्दिष्टब्रह्मकार्यतया ब्रह्मात्मकम् इति न आहुः। **अप्रतिष्ठं** तथा ब्रह्मणि प्रतिष्ठितम् इति न वदन्ति। ब्रह्मणा अनन्तेन धृता हि पृथिवी; सर्वान् लोकान् बिभर्ति। यथोक्तन्तेनेयं नागवर्येण शिरसा विधृता मही। बिभर्ति मालां लोकानां सदेवासुरमानुषाम्॥ (वि॰ पु॰ 2।5।27) इति।  
@@ -43,12 +44,14 @@ title = "08 असत्यमप्रतिष्ठन् ते"
 
 16.8 They maintain that the universe is 'without truth,' viz., they do not accept that this universe, which is the effect of Brahman denoted by the term Satya, has Brahman for its Self. They contend that it is bereft of any 'foundation,' viz., they do not accept that it has Brahman for its foundation. Brahman as Ananta supports the earth and bears all the worlds, as declared in 'This earth, sustained upon the head of this great serpent, supports in its turn, this garland of worlds, along with their men, demons and gods' (V.P., 2.5.27). They say that it is 'without a Lord,' viz. they don't accept that this universe is controlled by Me, the Lord of all, the Supreme Brahman, whose will is always true. It has been already averred: 'I am the origin of all; from Me proceed everything' (10.8). And they also contend thus: 'What else can exist without mutual causation;' i.e., except by the union of the male and the female among men, beasts etc. What else exists apart from this nature; The meaning is that nothing else is seen. Therefore the entire world is rooted in sexual lust.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.8॥ --,**असत्यं** यथा वयम् अनृतप्रायाः तथा इदं जगत् सर्वम् असत्यम्; **अप्रतिष्ठं** च न अस्य धर्माधर्मौ प्रतिष्ठा अतः अप्रतिष्ठं च; इति **ते** आसुराः जनाः **जगत् आहुः; अनीश्वरम्** न च धर्माधर्मसव्यपेक्षकः अस्य शासिता ईश्वरः विद्यते इति अतः अनीश्वरं जगत् आहुः। किं च; **अपरस्परसंभूतं** कामप्रयुक्तयोः स्त्रीपुरुषयोः अन्योन्यसंयोगात् जगत् सर्वं संभूतम्। **किमन्यत् कामहैतुकं** कामहेतुकमेव कामहैतुकम्। किमन्यत् जगतः कारणम् न किञ्चित् अदृष्टं धर्माधर्मादि कारणान्तरं विद्यते जगतः काम एव प्राणिनां कारणम् इति लोकायतिकदृष्टिः इयम्॥
 </details>
@@ -145,12 +148,14 @@ beings is the cause of the world. This is the view of the materialists.
 संभवत्यदृष्टकल्पनानवकाशात्। अतः कामएव प्राणिनां कारणं
 नान्यददृष्टेश्वरादीत्याहुरिति लोकायतिकदृष्टिरियम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.8॥ जगतः सत्यं; प्रतिष्ठा; ईश्वरश्च विष्णुस्तद्वैपरीत्येनाहुः।
 तस्योपनिषत्सत्यस्य सत्यमिति प्राणा वै सत्यं तेषामेव सत्यम्
@@ -183,12 +188,14 @@ beings is the cause of the world. This is the view of the materialists.
 परस्परसम्भवस्योक्तत्वात् तद्वचनं कथमासुरं इति। ईश्वराक्षेपे तात्पर्यमिति
 चेत्; न पुनरुक्तिप्रसङ्गात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.8॥ असत्यमिति। न किञ्चित् दृष्टादन्यत् कार्यं विद्यते यत्रेति अकिञ्चित्कम्।
 </details>
@@ -197,12 +204,14 @@ beings is the cause of the world. This is the view of the materialists.
 
 16.8 Asatyam etc. \[It\] has nothing beyond : Here there is no other thing beyond what is seen.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.8॥ किञ्चासत्यमिति। त्वमेक एवास्य सतः प्रसूतिःसत्यस्य सत्यं इति
 भागवतवाक्यात्,\[10।2।2826\] सदेव सोम्येदमग्र आसीत् \[छां.उ.6।2।1\]
@@ -228,10 +237,13 @@ beings is the cause of the world. This is the view of the materialists.
 परश्चेत्यपरस्परं स्त्रीपुरुषसंयोगस्ततो जातं कामहैतुकं स्त्रीपुरुषयोः काम
 एव हेतुर्यस्य तादृशम्। अन्यत् एतदतिरिक्तं किं कारणम् न किमपीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.8॥ ननु वेदोक्तयोर्धर्माधर्मयोः प्रवृत्तिं निवृत्तिं च कथं न विदुः;
 कुतो वा धर्माधर्मयोरनङगीकारे जगतः सुखदुःखादिव्यवस्था स्यात्; कथं वा
@@ -247,10 +259,13 @@ beings is the cause of the world. This is the view of the materialists.
 नास्त्यन्यत्किंचित्; किंतु कामहैतुकम्। स्त्रीपुरुषयोः काम एव प्रवाहरूपेण
 हेतुरस्येत्याहुरित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.8 They maintain: 'The universe is without truth, without any foundation and without a Lord (Isvara). What else can exist without mutual causation; It has lust for its cause.'
@@ -288,11 +303,13 @@ what else;"
 brought about by mutual union; किम् what; अन्यत else; कामहैतुकम् with lust for its cause.Commentary They hold that the universe is without any substratum or support or an undying basic reality.This is a description of the opinion of atheists like the Charvakas and other materialists.
 They do not believe in the existence of Brahman Who is the support of this world. They do not even accept the existence of an Isvara in this world. They say We are unreal. Therefore this world also is unreal; the scriptures which declare the truth are also unreal. What else but lust can be the cause of this universe Sexual passion is the sole cause of all living creatures. There is no such thing as the theory of Karma. The whole world is caused by the mutual union of man and woman under the impulse of lust. There is neither virtue nor vice. There is no Lord Who dispenses the fruits of actions of the individuals according to virtue and vice. Dharma and Adharma are not the basis of this world. Sexual desire is the sole basis for this universe. This world is a world of chance. They are not endowed with the faculty of introspection. They are ignorant of the field (Nature) and knower of the field (God).Mutual union Sexual union it may mean the union of atoms. The world arose from the combination of atoms according to the Vaiseshikas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.8।। वे कहा करते हैं कि संसार असत्य, अप्रतिष्ठित और बिना ईश्वरके
@@ -365,6 +382,7 @@ They do not believe in the existence of Brahman Who is the support of this world
 ।।16.8।। वे कहते हैं कि यह जगत् आश्रयरहित, असत्य और ईश्वर रहित है, यह
 (स्त्रीपुरुष के) परस्पर कामुक संबंध से ही उत्पन्न हुआ है, और (इसका कारण)
 क्या हो सकता है;
+</details>
 </details>
 
 </div>

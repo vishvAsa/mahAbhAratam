@@ -23,8 +23,9 @@ title = "26 वेदाहं समतीतानि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.26॥**अतीतानि वर्तमानानि** अनागतानि **च** सर्वाणि **भूतान्य् अहं वेद** जानामि **मां तु वेद न कश्चन।** मया अनुसन्धीयमानेषु कालत्रयवर्तिषु भूतेषु माम् एवंविधं वासुदेवं सर्वसमाश्रयणीयतया अवतीर्णं विदित्वा माम् एव समाश्रयं न कश्चिद् उपलभ्यत इत्यर्थः। अतो ज्ञानी सुदर्लभ एव।
@@ -39,12 +40,14 @@ title = "26 वेदाहं समतीतानि"
 
 7.26 I know all being that have passed away, those that live now and those that will hereafter. But no one knows Me. Among the beings existing in the three-fold divisions of time whom I look after, no one understands Me as of the nature described and as Vasudeva incarnated to be a refuge for all. So no one resorts to Me. Therefore, the one who knows Me really (Jnanin) is extremely difficult to be found. Such is the meaning. So also:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.26॥ **अहं** तु **वेद** जाने **समतीतानि** समतिक्रान्तानि भूतानि **वर्तमानानि** च **अर्जुन भविष्याणि** च **भूतानि** वेद अहम्। **मां तु वेद न कश्चन** मद्भक्तं मच्छरणम् एकं मुक्त्वा मत्तत्त्ववेदनाभावादेव न मां भजते॥ केन पुनः मत्तत्त्ववेदनप्रतिबन्धेन प्रतिबद्धानि सन्ति जायमानानि सर्वभूतानि मां न विदन्ति इत्यपेक्षायामिदमाह
 </details>
@@ -121,12 +124,14 @@ such a estion, the Lord says this:
 कश्चन कोऽपि मदनुग्रहभाजनं मद्भक्तं विना न वेद मन्मायामोहितत्वात्। अतो
 मत्तत्त्ववेदनाभावादेव प्रायेण प्राणिनो मां न भजन्त इत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.26॥ न मां माया बध्नातीत्याह वेदेति। न कश्चनातिसमर्थोऽपि
 स्वसामर्थ्यात्।
@@ -141,12 +146,14 @@ such a estion, the Lord says this:
 ब्रह्मादिर्ज्ञास्यतीति शङ्कानिरासार्थमेतदुक्तम्। कश्चनेति विशेषणादिति
 भावः। तर्हिज्ञानी च भरतर्षभ 7।16 इत्यादिविरोध इत्यत उक्तम् **स्वे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.25 7.26॥ नाहमिति। वेदाहमिति। सर्वेषां नाहं गोचरतां प्राप्नोमि।
 </details>
@@ -155,12 +162,14 @@ such a estion, the Lord says this:
 
 7.25-26 Naham etc. Vadaham etc. I am not perceivable to all. But the actions themselves, if performed, would beget emancipation at the time of dissolution \[of the world\]. otherwise, how does the total dissolution come to be there ; When this doubt arises, \[the Bhagavat\] commences \[to answer\] as :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.26॥ सर्वोत्तमं मत्स्वरूपं अजानन्त इत्युक्तं तदेव स्वसर्वोत्तमत्वं
 परत्वमनावृतज्ञानादिशक्तिमत्त्वेन दर्शयन्नन्येषामज्ञानमाह वेदाहमिति।
@@ -180,10 +189,13 @@ such a estion, the Lord says this:
 मज्ज्ञानानन्तरमपि कश्चन त्रिकालवर्तिषु मां प्रभुत्वेन न वेद। न
 जानातीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.26॥ सर्वोत्तमं मत्स्वरूपमजानन्त इत्युक्तम् तदेव स्वस्य
 सर्वोत्तमत्वमनावृतज्ञानशक्तित्वेन दर्शयन्नन्येषामज्ञानमेवाह **वेदेति।**
@@ -193,10 +205,13 @@ such a estion, the Lord says this:
 मन्मायामोहितत्वात्। प्रसिद्धं हि लोके मायायाः
 स्वाश्रयाधीनत्वमन्यमोहकत्वं च।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.26 I know all beings, O Arjuna, past, present and those to come; but no one knows Me.
@@ -228,11 +243,13 @@ such a estion, the Lord says this:
 अर्जुन O Arjuna; भविष्याणि the future; च and; भूतानि beings; माम् Me; तु
 verily; वेद knows; न not; कश्चन any one.Commentary Persons who are deluded by the three alities of Nature do not know the Lord. As they lack in the knowledge of His real nature; they do not adore Hi. But the Lord knows through His omniscience the beings of the past; the present and the future. He who worships the Lord with singleminded devotion knows Him in essence. He has knowledge of His real nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.26।। हे अर्जुन ! जो प्राणी भूतकालमें हो चुके हैं, तथा जो वर्तमानमें
@@ -321,6 +338,7 @@ verily; वेद knows; न not; कश्चन any one.Commentary Persons who
 ।।7.26।। हे अर्जुन ! पूर्व में व्यतीत हुए और वर्तमान में स्थित तथा
 भविष्य में होने वाले भूतमात्र को मैं जानता हूँ, परन्तु मुझे कोई भी पुरुष
 नहीं जानता हैं।।
+</details>
 </details>
 
 </div>

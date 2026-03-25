@@ -23,8 +23,9 @@ title = "34 यया तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.34॥**फलाकाङ्क्षी** पुरुषः प्रकृष्ट**सङ्गेन धर्मकामार्थान् यया धृत्या धारयते; सा राजसी** धर्मकामार्थशब्देन तत्साधनभूता मनःप्राणेन्द्रियक्रिया लक्ष्यन्तेफलाकाङ्क्षी इत्य् अत्र अपि फलशब्देन राजसत्वाद् धर्मकामार्था एव विवक्षिताः। अतो धर्मकामार्थापेक्षया मनःप्रभृतीनां क्रिया यया धृत्या धारयते; सा राजसी इत्य् उक्तं भवति।
@@ -39,12 +40,14 @@ title = "34 यया तु"
 
 18.34 That Dhrti by which a person who, desirous of fruits, i.e., through intense attachment holds fast to duty, desires, and wealth, is of the nature of Rajas. By the terms 'Dharma-kam'artha,' the activities of the mind, vital force and senses as a means for the attainment of Dharma (duty) Kama (pleasure) and Artha (wealth) are signified. Even in the expression, 'One desirous of fruits,' that term indicates duty, desire and wealth, on account of the Rajasika nature of the aspirant. Therefore, what is said amounts to this: the Dhrti by which one maintains activities of the mind etc., with the purpose of attaining duty; desire and wealth, is of the nature of Rajas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.34॥ --,**यया तु धर्मकामार्थान्** धर्मश्च कामश्च अर्थश्च धर्मकामार्थाः तान् धर्मकामार्थान् **धृत्या** यया **धारयते** मनसि नित्यमेव कर्तव्यरूपान् अवधारयति हे **अर्जुन; प्रसङ्गेन** यस्य यस्य धर्मादेः धारणप्रसङ्गः तेन तेन प्रसङ्गेन **फलाकाङ्क्षी** च भवति यः पुरुषः; तस्य **धृतिः** या; **सा पार्थ; राजसी**॥
 </details>
@@ -99,12 +102,14 @@ dhrtih, firmness; is rajasi, born of rajas.
 कर्तृत्वाद्यभिनिवेशेन फलाकाङ्क्षी सन् यया धृत्या धर्मं काममर्थं च धारयते
 नित्यं कर्तव्यतयावधारयति नतु मोक्षं कदाचिदपि। धृतिः सा पार्थ; राजसी।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.34॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -113,12 +118,14 @@ dhrtih, firmness; is rajasi, born of rajas.
 
 ॥18.34॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.33 -- 18.35॥ धृत्येत्यादि तामसी मतेत्यन्तम्। मनःप्राणेन्द्रियक्रियाः योगेन धारयति यथा किं ममोपभोगादिभिः सर्वथैवात्मारामो भूयासम्इति मन्वानः। प्रसङ्गेनेति -- न तथा अभिनिवेशेन। निद्राकलहादिष्वेव यया सन्तोषं बध्नाति तत्परतया; सा तामसी धृतिः।
 </details>
@@ -127,12 +134,14 @@ dhrtih, firmness; is rajasi, born of rajas.
 
 18.34 See Comment under 18.35
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.34॥ यया धृत्या त्रिवर्गं धारयते प्रसङ्गेन कर्तृत्वाभिनिवेशनेन
 फलाकाङ्क्षी सन् सा राजसी।
@@ -145,19 +154,25 @@ dhrtih, firmness; is rajasi, born of rajas.
 मद्भजनौपयिकत्वेन -- धर्मार्थकामान् धारयते पोषयति तद्बुद्ध्युक्तसाधनैः हे
 पार्थ सा धृतिः राजसी रजस्सम्बन्धिस्वभोगादिरूपफला; उच्यत इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.34॥ राजसीं धृतिमाह **-- यया त्विति।** यया तु धृत्या
 धर्मार्थकामान्प्राधान्येन धारयते न विमुञ्चति तत्प्रसङ्गेन फलाकाङ्क्षी च
 भवति सा राजसी धृतिः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.34 That Dhrti, O Arjuna, by which one, who is desirous of fruits,
@@ -192,11 +207,13 @@ pleasure and wealth, and conseently desiring the fruits \[of action\]-that conte
 धृतिः firmness; सा that; पार्थ O Arjuna; राजसी Rajasic
 (passionate).Commentary The man of Rajasic firmness imagines that he will achieve the threefold aim of life and clings to it passionately. He is desirous of getting the rewards of his actions. He endeavours to attain Dharma; wealth and pleasure. The firmness of such a person is Rajasic or passionate.Now listen; O Arjuna; to the third kind of firmness -- the Tamasic type.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.34।। हे पृथानन्दन अर्जुन ! फलकी इच्छावाला मनुष्य जिस धृतिके द्वारा
@@ -252,6 +269,7 @@ pleasure and wealth, and conseently desiring the fruits \[of action\]-that conte
 ।।18.34।। हे पृथापुत्र अर्जुन ! कर्मफल का इच्छुक पुरुष अति आसक्ति
 (प्रसंग) से जिस धृति के द्वारा धर्म, अर्थ और काम (इन तीन पुरुषार्थों) को
 धारण करता है, वह धृति राजसी है।।
+</details>
 </details>
 
 </div>

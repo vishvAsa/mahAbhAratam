@@ -24,8 +24,9 @@ title = "12 श्रेयो हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.12॥ अत्य्-अर्थ-प्रीति-विरहितात् कर्कश-रूपात् स्मृत्य् -**अभ्यासाद्**  
@@ -61,12 +62,14 @@ title = "12 श्रेयो हि"
 (Aksara), is conducive to the well-being of the self. Better than the imperfect knowledge of the self, is perfect meditation on the self, as it is more conducive to the well-being of the self. More conducive than imperfect meditation (i.e., meditation unaccompanied with renunciation),
 is the activity performed with renunciation of the fruits. It is only after the annihilation of sins, through the performance of works accompanied by renounciation of fruits, that peace of mind is attained. When the mind is at peace, perfect meditation on the self is possible. From meditation results the direct realisation of the self. From the direct realisation of the self results supreme devotion. It is in this way that Atmanistha or devotion to the individual self becomes useful for a person who is incapable of practising loving devotion to the Supreme Being. And for one practising the discipline for attaining the self (Jnana Yoga) without acisition of perfect tranillity of mind, disinterested activity (Karma Yoga), including in it meditation on the self, is the better path for the knowledge of the self. \[Thus the steps are performance of works without desire for fruits, eanimity of mind, meditation on the self, self-realisation, and devotion to the Lord.\] Now Sri Krsna enumerates the attributes reired of one intent on performance of disinterested activity:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 इदानीं सर्वकर्मफलत्यागं स्तौति --,
 
@@ -328,12 +331,14 @@ Lord proceeds:
 ब्राह्मणत्वसामान्यादिदानींतना अपि ब्राह्मणा अपरिमेयपराक्रमत्वेन
 स्तूयन्ते तद्वत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.12॥ अज्ञान-पूर्वाद् **अभ्यासाज् ज्ञानम्** एव विशिष्यते।  
 ज्ञानमात्रात् सज्ञानं **ध्यानम्**।  
@@ -422,12 +427,14 @@ Lord proceeds:
 केवलत्यागस्तुतिर्युक्ता। ध्यानस्य ध्यानान्तराधिक्ये तत्साहाय्यस्य
 हेतुत्वेनोक्तत्वादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.12॥ तदिदं तात्पर्यम् उपसंह्रियते -- श्रेय इति। 
 
@@ -457,12 +464,14 @@ When renunciation of fruits of actions is achieved, there arises an uninterrupte
 
 Therefore, being the root of all \[these\], the knowledge a'one, in the form of fixing the mind in the Lord is important.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.12॥ तमिमं फलादित्यागं स्तौति -- श्रेयो हीति। अभ्यासादुक्तपूर्वात्
 युक्तिसहितोपदेशपूर्वकं सर्वज्ञानं श्रेष्ठं; ततो ध्यानं निषेवणं; ततश्च
@@ -484,10 +493,13 @@ Therefore, being the root of all \[these\], the knowledge a'one, in the form of 
 
 तेन ज्ञानाभ्यास-ध्यान-सहित-मद्-अर्थक--मत्-कर्म-करणम् उत्तमम् इत्यर्थः। यत एवम् अतस् तादृश-त्यागाद् **अनन्तरं** शीघ्रमेव **शान्तिर्** मद्भक्ति-स्थिति-रूपा भवेद् इति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/12_shreyo_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/12_shreyo_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.12॥ तमिमं फलत्यागं स्तौति **-- श्रेयो हीति।**
 सम्यग्ज्ञानरहितादभ्यासाद्युक्तिसहितोपदेशपूर्वकं ज्ञानं श्रेष्ठं।
@@ -496,10 +508,13 @@ Therefore, being the root of all \[these\], the knowledge a'one, in the form of 
 तस्मादेवं,भूतात्कर्मफलत्यागात्कर्मसु तत्फलेषु चासक्तिनिवृत्त्या
 मत्प्रसादेन च समनन्तरमेव संसारशान्तिर्भवति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.12 Far better is knowledge of the self then the repeated practice (of remembrance of the Lord). Better is meditation than this knowledge;
@@ -535,11 +550,13 @@ meditation becomes pre-eminent; from meditation issues the renunciation of fruit
 immediately.Commentary Theoretical or indirect knowledge of Brahman gained from the scriptures is better than the practice (of restraining the modifications of the mind or worship of idols or selfmortification for the purpose of control of the mind and the senses) accompained with ignorance. Meditation is better than theoretical knowledge. Renunciation of the fruits of actions is bettern than meditation. Renunciation of the fruits of all actions as a means to the attainment of supreme peace or Moksha is merely eulogised here by the declaration of the superiority of one over the other to encourage Arjuna (and other spiritual aspirants)
 to practise Nishkama Karma Yoga; to create a strong desire in them to take up the Yoga of selfless action; in the same manner as by saying that the ocean was drunk by the Brahmana sage Agastya even the Brahmanas of this age are extolled because they are also Brahmanas.Desire is an enemy of peace. Desire causes restlessness of the mind. Desire is the source of all human miseries; sorrows and troubles. Stop the play of desire through discrimination; dispassion and eniry into the nature of the Self then you will enjoy supreme peace.Renunciation of the fruits of actions; is prescribed for the purification of the aspirants heart. It annihlates desire; the enemy of wisdom. The sage; too; renounces the fruits of actions. It has become natural to him to do so.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/12_shreyo_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.12।। अभ्याससे शास्त्रज्ञान श्रेष्ठ है, शास्त्रज्ञानसे ध्यान श्रेष्ठ
@@ -620,6 +637,7 @@ to practise Nishkama Karma Yoga; to create a strong desire in them to take up th
 
 ।।12.12।। अभ्यास से ज्ञान श्रेष्ठ है; ज्ञान से श्रेष्ठ ध्यान है और ध्यान
 से भी श्रेष्ठ कर्मफल त्याग है त्याग; से तत्काल ही शान्ति मिलती है।।
+</details>
 </details>
 
 </div>

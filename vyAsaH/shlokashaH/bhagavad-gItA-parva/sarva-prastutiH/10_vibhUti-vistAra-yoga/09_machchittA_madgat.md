@@ -23,8 +23,9 @@ title = "09 मच्चित्ता मद्गतप्राणा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.9॥**मच्चित्ताः** मयि निविष्टमनसः; **मद्गतप्राणाः** मद्गतजीविता मया विना आत्मधारणम् अलभमाना इत्यर्थः। स्वैः स्वैर् अनुभूतान् मदीयान् गुणान् **परस्परं बोधयन्तः;** मदीयानि दिव्यानि रमणीयानि कर्माणि च **कथयन्तस् तुष्यन्ति च रमन्ति च।** वक्तारस् तद्वचनेन अनन्यप्रयोजनेन तुष्यन्ति; श्रोतारश्च तच्छ्रवणेन अनवधिकातिशयप्रियेण रमन्ते।
@@ -40,12 +41,14 @@ title = "09 मच्चित्ता मद्गतप्राणा"
 10.9 They live with their minds 'focussed' on Me, namely, with their minds fixed on Me; with their 'Pranas', i.e., life, centred on Me - the meaning is that they are unable to sustain themselves without Me. They
 'inspire one another' by speaking about My attributes which have been experienced by them and narrating My divine and adorable deeds. They live in contentment and bliss at all times. The speakers are delighted by their own speech, because it is spontaneous, without any ulterior motive; the listeners too feel the speech to be unsurpassingly and incomparably dear to them. They thus live in bliss.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.9॥ --,**मच्चित्ताः;** मयि चित्तं येषां ते मच्चित्ताः; **मद्गतप्राणाः** मां गताः प्राप्ताः चक्षुरादयः प्राणाः येषां ते मद्गतप्राणाः; मयि उपसंहृतकरणाः इत्यर्थः। अथवा; मद्गतप्राणाः मद्गतजीवनाः इत्येतत्। **बोधयन्तः** अवगमयन्तः **परस्परम्** अन्योन्यम्; **कथयन्तश्च** ज्ञानबलवीर्यादिधर्मैः विशिष्टं **माम्; तुष्यन्ति च** परितोषम् उपयान्ति च **रमन्ति च** रतिं च प्राप्नुवन्ति प्रियसंगत्येव॥ ये यथोक्तैः प्रकारैः भजन्ते मां भक्ताः सन्तः --,
 </details>
@@ -125,12 +128,14 @@ get happiness, as by coming in contact with a dear one.
 दिव्यं महत्सुखम्। तृष्णाक्षयसुखस्यैते नार्हतः षोडशीं कलाम् इति।
 तृष्णाक्षयः संतोषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.8 -- 10.10॥ सन्ति च भजन्तः केचिदित्याह -- अहमित्यादिना।
 </details>
@@ -141,12 +146,14 @@ get happiness, as by coming in contact with a dear one.
 तत्किमर्थं पुनरुच्यते इत्यतस्तात्पर्यान्तरमाह -- **सन्ति** **चे**ति।
 उक्तफले विश्वासजननार्थमिति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.6 -- 10.11॥ महर्षय इत्यादि भास्वता इत्यन्तम्। परस्परबोधनया अन्योन्यबोधस्फारसंक्रमणात् सर्व एव हि प्रमातारः एक ईश्वर इति विततव्याप्त्या +++(S;;N वितत्य व्याप्त्या)+++ सुखेनैव सर्वशक्तिकसर्वगतस्वात्मरूपताधिगमेन +++(S -- ताधिशयनेन अधिगमेन)+++ माहेश्वर्यमेषामिति भावः +++(After इति भावः ;N add तेषां सततयुक्तानाम् इत्यतः प्रभृति अध्यायान्ता टीका उट्टङ्किता युगपद्धि वेद्या। तेषामेव अनु च अर्जुनप्रश्नपद्यानि षट् उल्लिखति। श्रीभगवान् अथवा बहुना इति पर्यन्तानि पद्यानि 23,वक्ति॥ These sentences are obviously of some copyist. It is to be noted however that the Mss. generally contain seven (not six)+++ verses of Arjuna and then 24 +++(not 23)+++ verses of the hagavan) ।
 </details>
@@ -155,12 +162,14 @@ get happiness, as by coming in contact with a dear one.
 
 10.9 See Comment under 10.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.8 -- 10.10॥ विभूतियोगज्ञानविपाकरूपभक्तिविवृद्धिं दर्शयति चतुर्भिः
 पुमर्थरूपैः अहमित्यादिभिः -- अहं सर्वस्य प्रभव इत्यादि।
@@ -196,10 +205,13 @@ get happiness, as by coming in contact with a dear one.
 प्राप्नुवन्तीति भावः। यद्वा मां विप्रयोगादिलीलावस्थासु नित्यं कथयन्तः
 सततं परस्परं बोधयन्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.9॥ प्रीतिपूर्वकं भजनमेवाह **-- मच्चित्ता इति।** मय्येव चित्तं
 येषां ते मच्चित्ताः। मामेव गताः प्राप्ताः प्राणा इन्द्रियाणि येषां ते
@@ -208,10 +220,13 @@ get happiness, as by coming in contact with a dear one.
 संकीर्तयन्तः सन्तो नित्यं तुष्यन्त्यनुमोदनेन तुष्टिं यान्ति। रमन्ति च
 निर्वृत्तिं यान्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.9 With their minds focussed on Me, with their Pranas centred in Me,
@@ -247,11 +262,13 @@ and; रमन्ति (they) are delighted; च and.Commentary The characteris
 According to another interpretation; all his senses (which function because of the Prana); such as the eye are absorbed in Him. He takes immense delight in talking about Him; about His supreme wisdom; power;
 might and other attributes. He has completely dedicated himself to the Lord.He feels intense satisfaction and is delighted as if he is in the company of his Beloved (God). The Purana says; The sum total of the sensual pleasures of this world and also all the great pleasures of the divine regions (heavens) are not worth a sixteenth part of that bliss which proceeds from the eradication of desires and cravings. (Cf.XII.8)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.9।।। मेरेमें चित्तवाले, मेरेमें प्राणोंको अर्पण करनेवाले भक्तजन
@@ -320,6 +337,7 @@ might and other attributes. He has completely dedicated himself to the Lord.He f
 ।।10.9।। मुझमें ही चित्त को स्थिर करने वाले और मुझमें ही प्राणों
 (इन्द्रियों) को अर्पित करने वाले भक्तजन, सदैव परस्पर मेरा बोध कराते हुए,
 मेरे ही विषय में कथन करते हुए सन्तुष्ट होते हैं और रमते हैं।।
+</details>
 </details>
 
 </div>

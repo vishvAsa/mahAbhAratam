@@ -23,8 +23,9 @@ title = "29 प्रकृतेर्गुणसम्मूढाः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.29॥
@@ -80,12 +81,14 @@ title = "29 प्रकृतेर्गुणसम्मूढाः"
 
 3.29 Those who 'do not know the whole truth' are those persons who are trying for the vision of the self but are deluded about the nature of the self, not knowing, on account of their involvement in Prakrti, that actions proceed from the Gunas of Prakrti. They are therefore attached to the actions of the Gunas - i.e., only to actions forming part of Karma Yoga. They are alified only for Karma Yoga. One who knows the complete truth should not, by himself remaining a practitioner of Jnana Yoga, unsettle those persons who are ignorant and who do not know the complete truth. Those, the ignorant, who tend to follow the behaviour of a great man, when they see him transcend Karma Yoga, will have their minds shaken from Karma Yoga. Thus, the great man, should himself remain established in Karma Yoga, while having the full knowledge of the true nature of the self and contemplating on the self as not being the agent. Thus he should demonstrate that Karma Yoga by itself is an autonomous means for the vision of the self. He should create in those who do not know the complete truth the love of Karma Yoga. The superiority of this Karma Yoga over Jnana Yoga even for those who are alified for Jnana Yoga has already been stated. Therefore one who is a respected person of note should follow this Karma Yoga alone for the good of the world. The method of performing actions after attributing agency to the Gunas by discerning the nature of the self as different from Prakrti, has been taught. The agency of the self is not produced by the inherent nature of the self, but by its contact with the Gunas. Hence by discriminating between what is obtained by contact and not obtained when there is no contact, it has to be understood that this agency is due to the Gunas or Prakrti. Now it is said that the agency of works, first attributed to Gunas, ultimately go to the Supreme Person who is the Self of all. It is done by discerning that the nature of the individual self is one of subservience to the Supreme Person, as they constitute His body:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.29॥ **प्रकृतेः** गुणैः सम्यक् मूढाः संमोहिताः सन्तः **सज्जन्ते** गुणानां कर्मसु **गुणकर्मसु** वयं कर्म कुर्मः फलाय इति। **तान्** कर्मसङ्गिनः **अकृत्स्नविदः** कर्मफलमात्रदर्शिनः **मन्दान्** मन्दप्रज्ञान् **कृत्स्नवित्** आत्मवित् स्वयं **न विचालयेत्** बुद्धिभेदकरणमेव चालनं तत् न कुर्यात् इत्यर्थः॥ कथं पुनः कर्मण्यधिकृतेन अज्ञेन मुमुक्षुणा कर्म कर्तव्यमिति उच्यते
 </details>
@@ -181,12 +184,14 @@ after Liberation who is not enlightened, who is alified for actions
 उच्यते कृत्स्नस्त्वद्वय आत्मैव तज्ज्ञाने कस्यचिदवशेषस्याभावादिति
 श्लोकद्वयार्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.29॥ प्रकृतेर्गुणेषु इन्द्रियादिषु सम्मूढाः। इन्द्रियाद्यभिमानाद्धि
 विषयादिषु सङ्गः। गुणकर्मसु विषयेषु कर्मसु चशब्दाद्या इन्द्रियाद्याश्च
@@ -216,12 +221,14 @@ after Liberation who is not enlightened, who is alified for actions
 भावः। तदात्मकानामिन्द्रियादीनामुपलक्षणे सति वृथा प्रयासः।
 अनयैवानुपपत्त्याऽनेकार्थग्रहणोपपत्तेः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.29॥ कर्मसंगिनामित्युक्तम्। तत् +++(N omit तत्)+++ कर्मसंगित्वं +++(S omits कर्मसंगित्वम्)+++ दर्शयति प्रकृतेरिति। प्रकृतिसंबन्धिभिर्गुणैः सत्त्वाद्यैः +++(S omit सत्त्वाद्यैः)+++ कृतेषु कर्मसु मूढाः सज्जन्ति( मज्जन्ति) सत्त्वादिगुणमाहात्म्यात्।
 </details>
@@ -230,12 +237,14 @@ after Liberation who is not enlightened, who is alified for actions
 
 3.29 Prakrteh etc. The deluded persons, under the influence of the Strands, Sattva etc., are attached to the actions performed by the Sattva etc., which are the Strands belonging to the Prakrti. In the same context (III, 26) it has been said : 'Therefore being a master of Yoga, let \[the wise\] fulfil actions'. How to do that ; \[The Lord\] clarifies :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.29॥ न बुद्धिभेदं जनयेत् 3।26 इति दृढयति प्रकृतेरिति।
 </details>
@@ -251,20 +260,26 @@ after Liberation who is not enlightened, who is alified for actions
 भगवत्प्राप्तिरूपाशेषानन्दवित् न विचालयेत् भगवन्मार्गे न प्रेरयेत्।
 ततोऽपि वा न चालयेत्। दुष्टसङ्गात् स्वस्यान्यथाभावं नयेदिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/29_prakRterguNasammU.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/29_prakRterguNasammU.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.29॥ न बुद्धिभेदं जनयेदित्युक्तमुपसंहरति **प्रकृतेरिति।** यैः
 प्रकृतेर्गुणैः सत्त्वादिभिः संमूढाः सन्तो गुणेष्विन्द्रियेषु तत्कर्मसु च
 सज्जन्ते वयं कुर्म इति तानकृत्स्नविदो मन्दमतीन्कृत्स्नवित्सर्वज्ञो न
 विचालयेत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.29 Those who are deluded by the Gunas of Prakrti are attached to the works of the Gunas. But he who knows the whole truth should not unsettle the ignorant who do not know the whole truth.
@@ -300,11 +315,13 @@ dullwitted); कृत्स्नवित् man of perfect knowledge; न not
 should unsettle.Commentary The ignorant people do action with the expectation of fruits. The wise people who have the knowledge of the Self should not distract the faith or conviction or belief of such ignorant persons. If they unsettle their minds they will give up actions and become victims of inertia. They will lead an idle life. They should be encouraged by the wise to do actions of the Sakama type (actions for the sake of their fruits) in the beginning. The wise ones should turn the minds of the ignorant by giving them gradual instructions on Karma Yoga (Yoga of selfless; desireless action) and its benefits; viz.;
 purification of the heart that leads to the attainment of Selfrealisation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/29_prakRterguNasammU.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.29।। प्रकृतिजन्य गुणोंसे अत्यन्त मोहित हुए अज्ञानी मनुष्य गुणों और
@@ -350,6 +367,7 @@ purification of the heart that leads to the attainment of Selfrealisation.
 ।।3.29।। प्रकृति के गुणों से मोहित हुए पुरुष गुण और कर्म में आसक्त होते
 हैं, उन अपूर्ण ज्ञान वाले (अकृत्स्नविद:) मंदबुद्धि पुरुषों को पूर्ण
 ज्ञान प्राप्त पुरुष विचलित न करे।।
+</details>
 </details>
 
 </div>

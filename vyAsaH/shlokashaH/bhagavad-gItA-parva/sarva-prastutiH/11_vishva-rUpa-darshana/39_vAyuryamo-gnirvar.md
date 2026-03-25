@@ -25,8 +25,9 @@ title = "39 वायुर्यमोऽग्निर्वरुणः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.39॥ सर्वेषां **प्रपितामहः** त्वम् एव; पितामहादयश् च। सर्वासां प्रजानां पितरः प्रजापतयः प्रजापतीनां पिता हिरण्यगर्भः प्रजानां पितामहः; हिरण्यगर्भस्य अपि पिता त्वं प्रजानां प्रपितामहः पितामहादीनाम् आत्मतया तत्तच्छब्दवाच्यस् त्वम् एव इत्यर्थः। अत्यद्भुताकारं भगवन्तं दृष्ट्वा हर्षोत्फुल्लनयनो ऽत्यन्तसाध्वसावनतः सर्वतो नमस्करोति --
@@ -45,12 +46,14 @@ title = "39 वायुर्यमोऽग्निर्वरुणः"
 
 11.39 You alone are the great-grandsire of all and also grandfather etc. The Prajapatis are the fathers of all creatures. Hiranyagarbha (Brahma), the father of the Prajapatis, is the grandsire of all creatures. You, being the father of even Hiranyagarbha, are great grandfather of all creatures. You alone are denoted by the several terms by which these beings are known. Such is the meaning. Beholding the Lord in a most marvellous form, Arjuna, bent with great awe, saluted Him from all sides with his eyes widely open from joy.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.39॥ --,**वायुः** त्वं **यम**श्च **अग्निः वरुणः** अपां पतिः **शशाङ्कः** चन्द्रमाः **प्रजापतिः** **त्वं** कश्यपादिः **प्रपितामहश्च** पितामहस्यापि पिता प्रपितामहः; ब्रह्मणोऽपि पिता इत्यर्थः। **नमो नमः ते** तुभ्यम् **अस्तु सहस्रकृत्वः। पुनश्च भूयोऽपि नमो नमः ते।** बहुशो नमस्कारक्रियाभ्यासावृत्तिगणनं कृत्वसुचा उच्यते। पुनश्च भूयोऽपि इति श्रद्धाभक्त्यतिशयात् अपरितोषम् आत्मनः दर्शयति॥ तथा --,
 </details>
@@ -123,12 +126,14 @@ also,
 भक्तिश्रद्धातिशयेन नमस्कारेष्वलंप्रत्ययाभावोऽनया नमस्कारवृत्त्या
 सूच्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.37 -- 11.40॥ कथं स्थाने इति तदाह -- कस्मादित्यादिना।
 पूर्णश्चासावात्मा चेति महात्मा। आत्मशब्दश्चोक्तो भारते -- यच्चाप्नोति
@@ -151,12 +156,14 @@ also,
 सत्तादिप्रदत्वादेवोच्यते। नत्वन्यथा; तथा सति उत्तरवाक्यविरोधात्; इति
 भावेन तत्पठित्वा सप्रमाणकं व्याचष्टे -- **तत्परमिति**।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.39॥ नमो नम इति। नमोनम इत्यनेन पौनःपुन्यं भक्त्यतिशयाविष्कारकम्। यदेव भगवता अतिक्रान्ताध्यायैरभ्यधायि स्वस्वरूपम्; तदेव अर्जुनः प्रत्यक्षोपलम्भविषयापन्नं स्तोत्रद्वारेण प्रकटयति इति तद्व्याख्यानं केवलं पौनरुक्त्यप्रसङ्गायेति विरम्यते।
 </details>
@@ -165,12 +172,14 @@ also,
 
 11.39 See comment under 11.40.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.39॥ वायुर्यम इति सर्वरूपत्वेऽप्येकस्याव्ययत्वमित्यैश्वर्यं वैराग्यं
 वा अतस्ते सहस्रकृत्वो नमो नम इति सभयं प्रणमति।
@@ -187,10 +196,13 @@ also,
 ज्ञापितम्। पुनश्चाङ्गीकारानन्तरमपि भूयः वारंवारं ते नमो नमः
 करोमीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.39॥ इतश्च त्वमेव सर्वैर्नमस्कार्यः सर्वदेवात्मकत्वादिति
 स्तुवन्स्वयमपि नमस्करोति **-- वायुरिति।** वाय्वादिरूपस्त्वमिति
@@ -199,10 +211,13 @@ also,
 भूयोपि पुनरपि सहस्रकृत्वो नमो नम इति भक्तिश्रद्धाभरातिरेकेण नमस्कारेषु
 तृप्तिमनधिगच्छन्बहुशः प्रणमति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.39 (a) You are Yayu, Yama, Agini, Varuna, Sasanka, Prajapati and the great-grandsire৷৷. (b) ৷৷. Hail, Hail unto You, a thousand times! Hail unto You again and yet again!
@@ -239,11 +254,13 @@ and again salutations, salutations unto Thee.
 पुनः again; च and; भूयः again; अपि also ; नमःनमः salutations; ते to Thee.Commentary Prajapati Marichi and others were the seven mindborn sons of Brahma. Kasyapa descended from Marichi and from Kasyapa came all other progeny. Therefore; Marichi; Kasyapa and others are known as Prajapatis or the gods or progeny. The word Prajapati here is interpreted by some as Kasyapa and other Prajapatis. But as the word has been used here in the singular number it is appropriate to take Brahma as Prajapati. Brahma is the grandfather (Pitamaha) of Kasyapa. Brahma or the Hiranyagarbha is the Karya Brahman (effect). Isvara is the Karana Brahman (the cause for Brahma). Therefore; Isvara is the greatgrandfather. He is the father of,even Brahma.Isvara has Maya as the limiting adjunct. Maya is His causal body. Isvara has no plane. Maya is in an undifferentiated state. She is in a state where the alities of Nature (Gunas) are in eilibrium. When the eilibrium is disturbed through the will of Isvara; the three Gunas; Brahma; Vishnu and Siva manifest.Thou art the moon alludes to and includes the sun also.Punah;
 Bhuyah Again. Salutations a thousand times and again salutations. This indicates that Arjuna had intense faith in and boundless devotion for Lord Krishna. He was not satisfied even if he prostrated himself a thousand times.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.39।। आप ही वायु, यमराज, अग्नि, वरुण, चन्द्रमा, दक्ष आदि प्रजापति और
@@ -284,6 +301,7 @@ Bhuyah Again. Salutations a thousand times and again salutations. This indicates
 ।।11.39।। आप वायु, यम, अग्नि, वरुण, चन्द्रमा, प्रजापति (ब्रह्मा) और
 प्रपितामह (ब्रह्मा के भी कारण) हैं; आपके लिए सहस्र बार नमस्कार, नमस्कार
 है, पुन: आपको बारम्बार नमस्कार, नमस्कार है।।
+</details>
 </details>
 
 </div>

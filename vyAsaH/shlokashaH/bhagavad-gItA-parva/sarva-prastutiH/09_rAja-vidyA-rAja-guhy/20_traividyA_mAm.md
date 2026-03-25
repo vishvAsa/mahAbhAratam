@@ -25,8 +25,9 @@ title = "20 त्रैविद्या माम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.20॥ ऋग्यजुः सामरूपास् तिस्रो विद्यास् त्रिविद्यम्; केवलं त्रिविद्यनिष्ठाः **त्रैविद्याः।** न तु त्रय्यन्तं निष्ठाः; त्रय्यन्तनिष्ठा हि महात्मानः पूर्वोक्तप्रकारेण अखिलवेदवेद्यं माम् एव ज्ञात्वा अतिमात्रमद्भक्तिकारितकीर्तनादिभिर् ज्ञानयज्ञेन च मदेकप्राप्या माम् एव उपासते। त्रैविद्यास् तु वेदप्रतिपाद्यकेवलेन्द्रादियागशिष्टसोमान् पिबन्तः **पूतपापाः** स्वर्गादिप्राप्तिविरोधिपापात् पूतास् तैः केवलेन्द्रादिदैवत्यतया अनुसंहितैः **यज्ञैः** वस्तुतस् तद्रूपं **माम् इष्ट्वा** तथा अवस्थितं माम् अजानन्तः **स्वर्गतिं प्रार्थयन्ते। ते पुण्यं** दुःखासम्भिन्नं **सुरेन्द्रलोकं** प्राप्य तत्र **दिव्यान् देवभोगान्** अश्नन्ति।
@@ -44,12 +45,14 @@ title = "20 त्रैविद्या माम्"
 9.20 The three Vedas consist of the Rk, Yajus and Saman. The followers of the three Vedas are called 'Trai-vidyah', but they are not devoted to Vedanta (or Trayyanta). The great souls, who rely on Vedanta, know Me, as mentioned before, to be the only object to be known from all the Vedas. Considering Me as the highest object of attainment, they worship Me through singing My names etc., caused by deep devotion to Me, and also through the sacrifice of knowledge. But the followers of the three Vedas drink the Soma beverage, forming the remainder of sacrifices in honour of Indra and other divinities, as prescribed by the Vedas. They are thery purified of evil that stand in the way of attainment of heaven. In these sacrifices, in which Indra etc., are regarded as divinties, they really worship Me in the forms of these divinities. They
 'however' do not know that I abide in them in that way, and so they pray for the way to heaven etc. After attaining the world of Indra, which is free from unhappiness, they enjoy everywhere the divine pleasures.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.20॥ --,**त्रैविद्याः** ऋग्यजुःसामविदः **मां** वस्वादिदेवरूपिणं **सोमपाः** सोमं पिबन्तीति सोमपाः; तेनैव सोमपानेन **पूतपापाः** शुद्धकिल्बिषाः; **यज्ञैः** अग्निष्टोमादिभिः **इष्ट्वा** पूजयित्वा **स्वर्गतिं** स्वर्गगमनं स्वरेव गतिः स्वर्गतिः ताम्; **प्रार्थयन्ते।** **ते** च **पुण्यं** पुण्यफलम् **आसाद्य** संप्राप्य **सुरेन्द्रलोकं** शतक्रतोः स्थानम् **अश्नन्ति** भुञ्जते **दिव्यान् दिवि** भवान् अप्राकृतान् **देवभोगान्** देवानां भोगान्॥
 </details>
@@ -136,12 +139,14 @@ supernatural;; deva-bhogan, pleasures of gods.
 सर्वोत्कृष्टं सुरेन्द्रलोकं शतक्रतोः स्थानमासाद्य
 दिव्यान्मनुष्यैरलभ्यान् देवभोगान्देवदेहोपभोग्यान्कामानश्नन्ति भुञ्जते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.20 -- 9.21॥ तथापि मद्भजनमेवान्यदेवताभजनाद्वरमिति दर्शयति --
 त्रैविद्या इत्यादिना।
@@ -157,12 +162,14 @@ supernatural;; deva-bhogan, pleasures of gods.
 भगवतो भोक्तृत्वेऽपि मद्भजनं भागवतैरनुष्ठितम्; देवतेति पित्राद्युपलक्षणम्
 त्रैविद्याद्यनुष्ठिताद्वरमुत्कृष्टफलम्। इत्यादिना श्लोकत्रयेण।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.20 -- 9.21॥ नन्वेवं यदि बाह्ययागादिनाऽपि ब्रह्म प्राप्तिः +++(S ब्रह्माप्तिः)+++ ; तर्हि अग्निष्टोमादिष्वपि किम् अन्यो याज्यः अभ्युपगमे भेदवादः वासुदेव एव +++(S omits एव)+++ इति चेत्; कथं नापवर्गस्तैः \[प्राप्यते\] तदर्थमुच्यते -- त्रैविद्या इत्यादि। ते तमित्यादि। यद्यपि ते मामेव यजन्ते। तथापि स्वर्गमात्रप्रार्थनया मितं कर्म निजसत्त्वदुर्बलतया स्वर्गादिमात्रेणैव फलेनावच्छिन्दन्ति। अत एवैषां पुनरावर्तको धर्मः। एवं ते गतागतं लभन्ते; न तु यागस्य पुनरावृत्तिप्रसवधर्मा स्वभावः।
 </details>
@@ -171,12 +178,14 @@ supernatural;; deva-bhogan, pleasures of gods.
 
 9.20 See Comment under 9.21
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.20 -- 9.21॥ त्रैविद्या इति। त्रिगुणात्मकत्रिवेदविद्यायां निष्णाताः;
 तथा च त्रिगुणकर्मकारिणः तथाविधैरेव यज्ञैस्तत्तद्देवताविशेषं समाराध्य
@@ -210,10 +219,13 @@ supernatural;; deva-bhogan, pleasures of gods.
 भक्तिप्रतिबन्धनिवर्तकत्वमज्ञात्वा तत्स्वरूपं चाज्ञात्वा स्वर्गतिं
 इन्द्रादिलोकं प्रार्थयन्ते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.20॥ तदेवम्अवजानन्ति मां मूढा इत्यादिश्लोकद्वयेन क्षिप्रफलाशया
 देवतान्तरं भजन्तो मां नाद्रियन्त इत्यभक्ता दर्शिताः। महात्मानस्तु मां
@@ -228,10 +240,13 @@ supernatural;; deva-bhogan, pleasures of gods.
 प्रार्थयन्ते ते पुण्यफलरूपं सुरेन्द्रस्य लोकं स्वर्गमासाद्य प्राप्य दिवि
 स्वर्गे दिव्यानुत्तमान्देवानां भोगानश्नन्ति भुञ्जते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.20 Those who are versed in the three Vedas, being purified from sin by drinking the Soma juice, pray for the passage to heaven and worship Me by sacrifices. Reaching the holy realm of the chief of the gods, they enjoy in heaven celestial pleasures of the gods.
@@ -271,11 +286,13 @@ Every day scientists bring out new inventions; new forms of sensual pleasures fo
 Even an abstemious man of simple habits of India becomes a changed man when he lives in America or Europe for some time. He yields to the temptations. Such is the power of Maya. Such is the influence of temptation. Such is the strength of the senses. That man who is endowed with strong discrimination; sustained dispassion; good selfanalytic power; and burning yearning for liberation; can resist temptations and he aloen can be really happy. He alone can attain the highest goal of life; the final beatitude or the sublime vision of the Infinite.Those who drink the Soma juice are purified from sin.Sacrifices Such as the Agnistoma; Jyotistoma. They worship Me as the Vasus and other deities
 (Rudras and Adityas) by sacrifices such as the Agnistoma.Indra is the Lord of the gods. He is called Satakratu because he had performed a hundred sacrifices. The divine pleasures are the supernatural pleasures of the heaven.DivyaBhoga An enjoyment that is beyond the reach of man or an enjoyment that can be had only by the celestial body of the gods or an enjoyment given by the gods in the heaven. The term Bhoga indicates sensual pleasures. Though the heavenly pleasuresare of a very subtle nature; yet,they are sensual pleasures only. (Cf.II.45)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.20।। वेदत्रयीमें कहे हुए सकाम अनुष्ठानको करनेवाले और सोमरसको
@@ -318,6 +335,7 @@ Even an abstemious man of simple habits of India becomes a changed man when he l
 करने वाले एवं पापों से पवित्र हुए पुरुष मुझे यज्ञों के द्वारा पूजकर
 स्वर्ग प्राप्ति चाहते हैं; वे पुरुष अपने पुण्यों के फलरूप इन्द्रलोक को
 प्राप्त कर स्वर्ग में दिव्य देवताओं के भोग भोगते हैं।।
+</details>
 </details>
 
 </div>

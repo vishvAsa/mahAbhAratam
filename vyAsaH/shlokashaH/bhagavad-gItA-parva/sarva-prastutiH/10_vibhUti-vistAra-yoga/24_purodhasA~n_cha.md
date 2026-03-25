@@ -23,8 +23,9 @@ title = "24 पुरोधसाञ् च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.24॥**पुरोधसाम्** उत्कृष्टो **बृहस्पतिः** यः सो ऽहम् अस्मि। **सेनानीनां** सेनापतीनां **स्कन्दो ऽहम्** अस्मि; **सरसां सागरः** अहम् **अस्मि।**
@@ -39,12 +40,14 @@ title = "24 पुरोधसाञ् च"
 
 10.24 I am that Bhraspati who is paramount among family priests. Of generals, I am Skanda. Of reservoirs of waters, O am the ocean.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.24॥ --,**पुरोधसां** च राजपुरोहितानां च **मुख्यं** प्रधानं **मां विद्धि** हे **पार्थ बृहस्पतिम्।** स हि इन्द्रस्येति मुख्यः स्यात् पुरोधाः। **सेनानीनां** सेनापतीनाम् **अहं स्कन्दः** देवसेनापतिः। **सरसां** यानि देवखातानि सरांसि तेषां सरसां सागरः अस्मि भवामि॥
 </details>
@@ -92,12 +95,14 @@ reservoirs); I am sagarah, the sea.
 जानीहि। सेनानीनां सेनापतीनां मध्ये देवसेनापतिः स्कन्दो गुहोऽहमस्मि।
 सरसां देवखातजलाशयानां मध्ये सागरः सगरपुत्रैः खातो जलाशयोऽहमस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.24॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -106,12 +111,14 @@ reservoirs); I am sagarah, the sea.
 
 ॥10.24॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -120,12 +127,14 @@ reservoirs); I am sagarah, the sea.
 
 10.24 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.24॥ पुरोधसामिति। सरसां स्थिरजलाशयानां मध्ये सागरः।
 </details>
@@ -139,19 +148,25 @@ reservoirs); I am sagarah, the sea.
 सरसां रसयुतानां स्थिरजलानां मध्ये सागरः समुद्रोऽस्मि; रत्नाकर
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.24॥**पुरोधसामिति।** पुरोधसां मध्ये देवपुरोहितत्वान्मुख्यं
 बृहस्पतिं मां विद्धि। सेनानीनां सेनापतीनां मध्ये देवसेनापतिः
 स्कन्दोऽहमस्मि। सरसां स्थिरजलाशयानां मध्ये समुद्रोऽस्मि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.24 Among family Priests, O Arjuna, know Me to be the chief Brhaspati.
@@ -185,11 +200,13 @@ Of generals, I am Skanda. Of reservoirs of water, I am the ocean.
 among generals; अहम् I; स्कन्दः Skanda; सरसाम् among lakes; अस्मि (I)
 am; सागरः the ocean.Commentary Brihaspati is the chif priest of the gods. He is the househld priest of Indra.Skanda is Kartikeya or Lord Subramanya. He is the general of the hosts of the gods.Of things holding water -- natural reservoirs or lakes -- I am the ocean.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.24।। हे पार्थ ! पुरोहितोंमें मुख्य बृहस्पतिको मेरा स्वरूप समझो।
@@ -233,6 +250,7 @@ am; सागरः the ocean.Commentary Brihaspati is the chif priest of the go
 
 ।।10.24।। हे पार्थ ! पुरोहितों में मुझे बृहस्पति जानो; मैं सेनापतियों
 में स्कन्द और जलाशयों में समुद्र हूँ।।
+</details>
 </details>
 
 </div>

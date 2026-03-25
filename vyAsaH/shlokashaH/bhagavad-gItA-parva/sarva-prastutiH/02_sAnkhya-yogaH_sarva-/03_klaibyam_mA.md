@@ -23,8 +23,9 @@ title = "03 क्लैब्यम् मा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.3॥ सञ्जय उवाच श्रीभगवानुवाच एवम् उपविष्टे पार्थे कुतो ऽयम् अस्थाने समुत्थितः शोक इत्य् आक्षिप्य तम् इमं विषमस्थं शोकम् अविद्वत्सेवितं परलोकविरोधिनम् अकीर्तिकरम् अतिक्षुद्रं हृदयदौर्बल्यकृतं परित्यज्य युद्धाय उत्तिष्ठ इति श्रीभगवान् उवाच।
@@ -39,12 +40,14 @@ title = "03 क्लैब्यम् मा"
 
 2.1 - 2.3 Sanjaya said - Lord said When Arjuna thus sat, the Lord, opposing his action, said: 'What is the reason for your misplaced grief; Arise for battle, abandoning this grief, which has arisen in a critical situation, which can come only in men of wrong understanding, which is an obstacle for reaching heaven, which does not confer fame on you, which is very mean, and which is caused by faint-heartedness.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 2.3 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -105,12 +108,14 @@ starts from 2.10.
 सुनिरसनं वा त्यक्त्वा विवेकेनापनीय उत्तिष्ठ युद्धाय सज्जो भव। हे परंतप
 परं शत्रुं तापयतीति तथा संबोध्यते। हेतुगर्भम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.3॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -121,12 +126,14 @@ starts from 2.11.
 ॥2.3॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.3॥ No commentary.
 </details>
@@ -135,12 +142,14 @@ starts from 2.11.
 
 2.3 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.2 2.3॥ मोहमधुहन्ता वाक्यं वक्ष्यमाणमुवाच कुतस्त्वेति। विषमे सङ्कटे
 हे अर्जुन शुद्धस्वरूप कुत इदं च कश्मलं समुपस्थितम्।
@@ -153,19 +162,25 @@ starts from 2.11.
 क्षुद्रं तुच्छं अक्षुद्रे न स्यात्। हे परन्तप शत्रुतापन हृदयदौर्बल्यं
 त्यक्त्वा उत्तिष्ठ सावधानो भव युद्धायेति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.3॥ तस्मात् **क्लैब्यमिति।** हे पार्थ क्लैब्यं कातर्यं मा स्म गमः न
 प्राप्नुहि। यतस्त्वय्येतन्नोपपद्यते योग्यं न भवति। क्षुद्रं तुच्छं
 हृदयदौर्बल्यं कातर्यं त्यक्त्वा युद्धायोत्तिष्ठ। हे परन्तप शत्रुतापन।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.3 Yield not to unmanliness, O Arjuna, it does not become you. Shake off this base faint-heartedness and arise, O scorcher of foes!
@@ -200,11 +215,13 @@ Shirking off the petty weakness of heart, arise, O scorcher of the foes
 हृदयदौर्बल्यम् weakness of the heart; त्यक्त्वा having abandoned;
 उत्तिष्ठ stand up; परन्तप O scorcher of the foes.No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.3।। हे पृथानन्दन अर्जुन ! इस नपुंसकताको मत प्राप्त हो; क्योंकि
@@ -299,6 +316,7 @@ Shirking off the petty weakness of heart, arise, O scorcher of the foes
 
 ।।2.3।। हे पार्थ क्लीव (कायर) मत बनो। यह तुम्हारे लिये अशोभनीय है, हे !
 परंतप हृदय की क्षुद्र दुर्बलता को त्यागकर खड़े हो जाओ।।
+</details>
 </details>
 
 </div>

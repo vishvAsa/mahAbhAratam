@@ -23,8 +23,9 @@ title = "18 ज्ञानञ् ज्ञेयम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.18॥**ज्ञानं** कर्तव्यकर्मविषयं ज्ञानम्; **ज्ञेयं** च कर्तव्यं कर्म;  
@@ -44,12 +45,14 @@ title = "18 ज्ञानञ् ज्ञेयम्"
 
 18.18 (i) 'Knowledge' means this knowledge about the acts which ought to be performed. (ii) The 'object of knowledge' is the act which ought to be performed. (iii) 'The knower' is the person who knows that act. The meaning is that the injunction to do acts, like Jyotistoma etc., is a combination of knowledge, object of knowledge, and the knower. Among these, action itself, which is the object of knowledge, is briefly described as threefold - these being the instrument, action and the agent. The instrument forms the materials etc., which are the means. The action consists of the sacrifice etc. The agent is the performer.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.18॥ --,**ज्ञानं** ज्ञायते अनेन इति सर्वविषयम् अविशेषेण उच्यते। तथा **ज्ञेयं** ज्ञातव्यम्; तदपि सामान्येनैव सर्वम् उच्यते। तथा **परिज्ञाता** उपाधिलक्षणः अविद्याकल्पितः भोक्ता। इति एतत् त्रयम् अविशेषेण सर्वकर्मणां प्रवर्तिका **त्रिविधा** त्रिप्रकारा कर्मचोदना। ज्ञानादीनां हि त्रयाणां संनिपाते हानोपादानादिप्रयोजनः सर्वकर्मारम्भः स्यात्। ततः पञ्चभिः अधिष्ठानादिभिः आरब्धं वाङ्मनःकायाश्रयभेदेन त्रिधा राशीभूतं त्रिषु करणादिषु संगृह्यते इत्येतत् उच्यते -- **करणं** क्रियते अनेन इति बाह्यं श्रोत्रादि; अन्तःस्थं बुद्ध्यादि; **कर्म** ईप्सिततमं कर्तुः क्रियया व्याप्यमानम्; **कर्ता** करणानां व्यापारयिता उपाधिलक्षणः; **इति त्रिविधः** त्रिप्रकारः **कर्मसंग्रहः;** संगृह्यते अस्मिन्निति संग्रहः; कर्मणः संग्रहः कर्मसंग्रहः; कर्म एषु हि त्रिषु समवैति; तेन अयं त्रिविधः कर्मसंग्रहः॥ अथ इदानीं क्रियाकारकफलानां सर्वेषां गुणात्मकत्वात् सत्त्वरजस्तमोगुणभेदतः त्रिविधः भेदः वक्तव्य इति आरभ्यते --,
 </details>
@@ -418,12 +421,14 @@ rajas and tamas. Hence it is begun:
 पुरुषविशेष्यकवाक्यार्थज्ञानमपास्तम्। संक्षेपेण मतं
 भाट्टमिदमत्रोपपादितम्। यद्वक्तव्यमिहान्यत्तदनुसन्धेयमाकरात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.18॥ एवं तर्हि न पुरुषमपेक्ष्य विधिः; अकर्तृत्वादित्यत आह --
 ज्ञानमिति। त्रिविधा कर्मचोदना एतत् त्रिविधमपेक्ष्य कर्मविधिरिति
@@ -505,12 +510,14 @@ rajas and tamas. Hence it is begun:
 सतीच्छोत्पत्तिरित्यादिकं अनुभवसिद्धम्। ईश्वरप्रसादात् इत्यादिकं
 तुयथानियुक्तोऽस्मि इत्याद्युदाहृतागमसिद्धम्। पृथक् पुनः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.18॥ ज्ञानमिति। कर्मणि चोदना प्रवृत्तीच्छा। तत्समये येषाम् अबोधमात्रनिष्ठत्वात् ज्ञानज्ञेयज्ञातृश्रुतिवाच्यता ( -- वाच्यतया ); तेषामेव सम्यग्ग्रहणरूपं यत् फलाभिसंधानेन आत्मीयबुद्ध्या स्वीकरणम्; अहमेतत् भोक्ष्ये; यतो मया कृतम् इत्येवं रूपम् तत्समये तथा निर्वर्त्तनावसरे करणकर्मकर्तृशब्दाभिधेयत्वम्; आविष्टत्वात्। अतो योगिनाम् आवेशो नास्तीति तान् प्रति करणादिगिरां प्रसङ्गो नास्ति; अपि तु ज्ञानादिमात्रे +++(K ज्ञानमात्र एव )+++ एव \[ इति \] तात्पर्यम्।
 </details>
@@ -519,12 +526,14 @@ rajas and tamas. Hence it is begun:
 
 18.18 Jnanam etc. Prompting-in-action : the will to exert. At that time those things which - because they exist in one's thought alone - are referable by the terms knowledge, obect-of-knowledge and knowing-subject; at the time of that will (to exert) taking the form 'I shall enjoy it; for it is caused by me' as well as at the time of executing th act, the very same things-because they are fully absorbed \[in desire for fruits\] - get the names instrument, object and agent. Therefore, because there is no such absorption \[in desire for fruits\] in the case of the men of Yoga, there is no room in their action for the expressions instrument etc.; rather they exist only as knowledge etc. This is the purport here. Now \[the Lord\] speaks to explain, in brief, the classification of all these six items, basing on the classification of the Strands :-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.18॥ ज्ञानमिति। अत उक्तमिदं सर्वं सत्त्ववृद्ध्यैव भवति सर्वस्येति
 सत्त्वस्योपादेयताज्ञापनाय सर्वत्र सत्त्वादिगुणकृतं वैचित्र्यं
@@ -549,10 +558,13 @@ rajas and tamas. Hence it is begun:
 संगृह्यतेऽस्मिन्निति कर्म सङ्ग्रहः। करणादित्रयमपि कारकं;
 क्रियाश्रयात्मकः सोऽपि त्रिविधः। अनेन निर्गुणानधिकारित्वं निरूपितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.18॥ हत्वापि न हन्ति न निबध्यते इत्येतदेवोपपादयितुं कर्मचोदनायाः
 कर्माश्रयस्य च कर्मफलादीनां च
@@ -569,10 +581,13 @@ rajas and tamas. Hence it is begun:
 संप्रदानादिकारकत्रयं तु परंपरया क्रियानिर्वर्तकमेव केवलं नतु
 साक्षात्क्रियाया आश्रयः। अतः करणादित्रितयमेव क्रियाश्रय इत्युक्तम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.18 Knowledge, object of knowledge and the knower are the threefold incitements to action. The instrument, the act and the agent are the threefold constituents of action.
@@ -610,11 +625,13 @@ speech; hands; feet; genitals and anus.Jnanam Any knowledge knowledge in general
 putting on the nature of the limiting adjuncts; a creature of ignorance.This triad forms the threefold impulse to all action; to action in general. The performance of an action in order to get a thing or to avoid an object is possible only when there is the conjunction of the three; viz.; knowledge; knowable and knower.Karanam The organ That by which something is done. The actions done by the five causes of action; viz.; the body; etc.; which are grouped under the three classes according to their respective seats; viz.; mind; speech and body; are all due to the interplay of the organ; etc.Karta The agent or the doer he who sets the organs in motion or action and puts on the nature of the limiting adjunct or vehicle in which he acts. All actions inhere in these three (the organ; the doer and the action itself) and they are;
 therefore; said to form the basis or the threefold constituents of action.As action; the various factors of action and the fruits are all made up of the Gunas; the Lord describes them in the following verses.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.18।। ज्ञान, ज्ञेय और परिज्ञाता -- इन तीनोंसे कर्मप्रेरणा होती है तथा
@@ -701,6 +718,7 @@ therefore; said to form the basis or the threefold constituents of action.As act
 
 ।।18.18।। ज्ञान, ज्ञेय और परिज्ञाता ये त्रिविध कर्म प्रेरक हैं, और, करण,
 कर्म. कर्ता ये त्रिविध कर्म संग्रह हैं।।
+</details>
 </details>
 
 </div>

@@ -25,8 +25,9 @@ title = "04 ततः पदम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.4॥ **ततः** विषयासङ्गाद् हेतोः  
@@ -82,12 +83,14 @@ title = "04 ततः पदम्"
 'prapadya iyatah pravrttih' (in place of 'prapadyet yatah pravrittih').
 This gives the sense that this discipline of taking refuge in the Supreme Person for dispelling of ignorance has continued from a distant past. The tendencies of ancient persons seeking liberation are also ancient. The purport is this: The ancient liberation-seekers, taking refuge in Me alone, were released from bondage. \[This can be taken to mean that Prapatti or taking refuge in the Lord had originated in the Bhakti tradition of the Sri-Vaisnavites from ancient sages i.e., from the Alvars who preceded Ramanuja by several centuries. It is not a creation of Ramanuja\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.4॥ --,**ततः** पश्चात् यत् **पदं** वैष्णवं **तत् परिमार्गितव्यम्;** परिमार्गणम् अन्वेषणं ज्ञातव्यमित्यर्थः। **यस्मिन्** पदे **गताः** प्रविष्टाः **न** **निवर्तन्ति** न आवर्तन्ते **भूयः** पुनः संसाराय। कथं परिमार्गितव्यमिति आह -- **तमेव च** यः पदशब्देन उक्तः **आद्यम्** आदौ भवम् आद्यं **पुरुषं प्रपद्ये** इत्येवं परिमार्गितव्यं तच्छरणतया इत्यर्थः। कः असौ पुरुषः इति; उच्यते -- **यतः** यस्मात् पुरुषात् संसारमायावृक्ष**प्रवृत्तिः प्रसृता** निःसृता; ऐन्द्रजालिकादिव माया; **पुराणी** चिरंतनी॥ कथंभूताः तत् पदं गच्छन्तीति; उच्यते --,
 </details>
@@ -161,12 +164,14 @@ that State; This is being answered:
 चिरंतन्यनादिरेषा प्रसृता निःसृतैन्द्रजालिकादिव मायाहस्त्यादि तं पुरुषं
 प्रपद्य इत्यन्वयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.4॥ तदर्थं च तमेव प्रपद्ये प्रपद्येत। तच्चोक्तं तत्रैव तं वै
 प्रपद्येत यं वै प्रपद्य न शोचति न हृष्यति न जायते न म्रियते तद्ब्रह्म
@@ -191,12 +196,14 @@ that State; This is being answered:
 प्रपद्य इत्येवं परिमार्गितव्यमिति सम्बन्धस्त्वयुक्तः; अस्य
 परिमार्गणत्वाभावात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.3 -- 15.5॥ न रूपमित्यादि अव्ययं तदित्यन्तम्। तं छित्त्वेति। विशेष्ये क्रियाऽभिधीयमाना सामर्थ्यादत्र विशेषणपदमुपादत्ते दण्डी प्रैष्याननुब्रूयात् इति विधिवत्। तेन अधोरूढानि मूलानि अस्य छिन्द्यादिति। तत् पदं प्रशान्तम् अव्ययं पदं तदेव।
 </details>
@@ -205,12 +212,14 @@ that State; This is being answered:
 
 15.4 See Comment under 15.5
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.4॥ तद्विशिनष्टि -- यस्मिन्निति। यत्र गता ज्ञानिनो भूयो न
 निवर्त्तन्ते। तत्र मुख्यं साधनं भक्तिमाह -- तमेव चाद्यं प्रपद्य इति। यतः
@@ -228,10 +237,13 @@ that State; This is being answered:
 भगवदनुप्रवृत्तिः प्रसृता विस्तृता प्रकटिता तमेव आद्यं च पुनः पुरुषं
 भावात्मतया पुरुषरूपं शरणं प्रपद्ये व्रजामीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/04_tataH_padam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/04_tataH_padam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.4॥ **तत इति।** ततस्तस्य मूलभूतं तत्पदं वस्तु वैष्णवं पदं
 परिमार्गितव्यमन्वेष्टव्यम्। कीदृशम्। यस्मिन्गता यत्पदं प्राप्ताः सन्तो
@@ -239,10 +251,13 @@ that State; This is being answered:
 चिरंतनी संसारप्रवृत्तिः प्रसृता विस्तृता तमेव चाद्यं पुरुषं प्रपद्ये
 शरणं व्रजामीत्येवमेकान्तभक्त्यान्वेष्टव्यमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.4 Then, one should seek that goal attaining which one never returns.
@@ -276,11 +291,13 @@ This is the Primal God from whence this ancient creation has sprung.
 तम् that; एव even; च and; आद्यम् primeval; पुरुषम् Purusha; प्रपद्ये I seek refuge; यतः whence; प्रवृत्तिः activity or energy; प्रसृता streamed forth; पुराणी ancient.Commentary That which fills the whole world with the form of ExistenceKnowledgeBliss is Purusha. Or; that which sleeps in this Puri (city) of the body is the Purusha.Singleminded devotion which consists of ceaselessly thinking of or meditating on the Supreme Being is the sure means of attaining Selfrealisation. Taking sole refuge in the Primeval Purusha is the means to know or realise that supreme goal goind whither the wise do not return again to this world of death.The aspirant should know the abode of Vishnu. He should struggle hard to reach it. He should seek it by taking refuge in the Primeval Purusha. If he reaches this immortal abode of Vishnu or the imperishable Brahmic seat of ineffable splendour and glory he will never return to this mortal world.The Primeval Purusha or the pure; Supreme Being Who is ExistenceKnowledgeBliss Absolute is the goal or the supreme abode or the abode of Vishnu. Just as illusory objects like elephants; horses; etc.;
 come forth through the jugglery of the magician; so also this ancient energy or the original divine power or emanation of this tree or illusory Samsara has streamed forth from that Primeval Purusha.What sort of persons reach that goal eternal Listen.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/04_tataH_padam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.4।। उसके बाद उस परमपद-(परमात्मा-) की खोज करनी चाहिये जिसको प्राप्त
@@ -496,6 +513,7 @@ come forth through the jugglery of the magician; so also this ancient energy or 
 ।।15.4।। (तदुपरान्त) उस पद का अन्वेषण करना चाहिए जिसको प्राप्त हुए पुरुष
 पुन: संसार में नहीं लौटते हैं। "मैं उस आदि पुरुष की शरण हूँ, जिससे यह
 पुरातन प्रवृत्ति प्रसृत हुई है"।।
+</details>
 </details>
 
 </div>

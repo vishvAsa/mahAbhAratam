@@ -23,8 +23,9 @@ title = "67 इन्द्रियाणां हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.67॥ **इन्द्रियाणां** विषयेषु **चरतां** विषयेषु वर्तमानानां वर्तनम् अनु **यन्मनो ऽनु विधीयते** पुरुषेण अनुवर्त्यते **तत्** मनः **अस्य** विविक्तात्मप्रवणां **प्रज्ञां हरति** विषेयप्रवणतां करोति इत्यर्थः। यथा **अम्भसि** नीयमानां **नावं** प्रतिकूलो **वायुः** प्रसह्य हरति।
@@ -39,12 +40,14 @@ title = "67 इन्द्रियाणां हि"
 
 2.67 That mind, which is allowed by a person to be submissive to, i.e., allowed to go after the senses which go on operating, i.e., experiencing sense-objects, such a mind loses its inclination towards the pure self. The meaning is that it gets inclined towards sense-objects. Just as a contrary wind forcibly carries away a ship moving on the waters, in the name manner wisdon also is carried away from such a mind. \[The idea is that the pursuit of sense pleasures dulls one's spiritual inclination, and the mind ultimately succumbs to them unresisting.\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.67॥  
   
@@ -140,12 +143,14 @@ Lord concludes thus:
   
 मनःस्थैर्य इति सूचितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.67॥ कथमयुक्तस्य भावना न भवति इत्याह इन्द्रियाणामिति। अनुविधीयते
 क्रियते नन्वीश्वरेण इन्द्रियाणामनु बुद्धिर्ज्ञानमिति वक्ष्यमाणत्वात्।
@@ -168,12 +173,14 @@ Lord concludes thus:
 **उत्पन्नस्यापी**ति। चित्तनिरोधरहितश्रवणमनने अपि न ध्यानोपयोगिनौ
 तत्त्वनिश्चयवेदार्थनियमौ कुरुत इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.66 2.70॥ रागद्वेषेत्यादि प्रतिष्ठितेत्यन्तम्। यस्तु मनसो नियामकः स विषयान् सेवमानोऽपि न क्रोधादिकल्लोलैरभिभूयते इति स एव स्थितप्रज्ञो योगीति तात्पर्यम्।
 </details>
@@ -182,12 +189,14 @@ Lord concludes thus:
 
 2.67 See Comment under 2.68
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.67॥ अत्र हेतुमाह इन्द्रियाणामिति। विषयेषु चरतामिन्द्रियाणां मध्ये
 यन्मनः कर्तृ प्रबलमेकमनुविधीयते अनेन चानुक्रियते तदस्य प्रज्ञां हरति।
@@ -204,10 +213,13 @@ Lord concludes thus:
 दृष्टान्तमाह वायुर्नावमिति। अम्भसि जले नावं तारणसाधिकां वायुरिव। यथा
 प्रबलो वायुरनवस्थितकर्णधारयुक्तां नावं मज्जयति तथेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.67॥ नास्ति बुद्धिरयुक्तस्येत्यत्र हेतुमाह **इन्द्रियाणामिति।**
 इन्द्रियाणामवशीकृतानां स्वैरं विषयेषु चरतां मध्ये यदेवैकमिन्द्रियं
@@ -216,10 +228,13 @@ Lord concludes thus:
 प्रज्ञां हरन्तीति। यथा प्रमत्तस्य कर्णधारस्य नावं वायुः समुद्रे सर्वतः
 परिभ्रामयति तद्वत्।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.67 For, when the mind follows the senses experiencing their objects,
@@ -255,11 +270,13 @@ carries away his discrimination, as the wind (carries away) a boat on the waters
 mind; अनुविधीयते follows; तत् that; अस्य his; हरति carries away;
 प्रज्ञाम् discrimination; वायुः the wind; नावम् boat; इव like; अम्भसि in the water.Commentary The mind which constantly dwells on the sensual objects and moves in company with the senses destroys altogether the discrimination of the man. Just as the wind carries away a boat from its course; so also the mind carries away the aspirant from his spiritual path and turns,him towards the objects of the senses.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.67।। अपने-अपने विषयोंमें विचरती हुई इन्द्रियोंमेंसे एक ही इन्द्रिय
@@ -337,6 +354,7 @@ mind; अनुविधीयते follows; तत् that; अस्य his; 
 ।।2.67।। जल में वायु जैसे नाव को हर लेता है वैसे ही विषयों में विरचती
 हुई इन्द्रियों के बीच में जिस इन्द्रिय का अनुकरण मन करता है; वह एक ही
 इन्द्रिय इसकी प्रज्ञा को हर लेती है।।
+</details>
 </details>
 
 </div>

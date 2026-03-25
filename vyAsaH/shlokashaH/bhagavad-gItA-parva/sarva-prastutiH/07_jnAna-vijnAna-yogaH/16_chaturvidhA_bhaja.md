@@ -23,8 +23,9 @@ title = "16 चतुर्विधा भजन्ते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.16॥**सुकृतिनः** पुण्यकर्माणो **मां** शरणम् उपगम्य माम् एव **भजन्ते।** ते चे सुकृततारतम्येन **चतुर्विधाः** सुकृतगरीयस्त्वेन प्रतिपत्तिवैशेष्याद् उत्तरोत्तराधिकतमा भवन्ति।**आर्त्तः** प्रतिष्ठाहीनो भ्रष्टैश्वर्यः पुनस्तत्प्राप्तिकामः। **अर्थार्थी** अप्राप्तैश्वर्यतया ऐश्वर्यकामस् तयोर् मुखभेदमात्रम् ऐश्वर्यविषयतया ऐक्याद् एक एव अधिकारः।
@@ -48,12 +49,14 @@ title = "16 चतुर्विधा भजन्ते"
 (subsidiary or liege) of the Lord, as taught in the text beginning with,
 'But know that which is other than this (lower nature) to be the higher Prakrti' (7.5). Without stopping with the knowledge of the self as different from the Prakrti, he desires to attain the Lord. He thinks that the Lord alone is the highest aim to reach.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.16॥ **चतुर्विधाः** चतुःप्रकाराः  
 **भजन्ते** सेवन्ते **मां  
@@ -148,12 +151,14 @@ aspires for Liberation.\] who knows the reality of Visnu.
 भेदास्तथाऽभक्तानामपि भगवद्भक्तिरसायनेऽस्माभिः सविशेषं प्रपञ्चिता
 इतीहोपरम्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.15 7.16॥ तर्हि सर्वेऽपि किमिति नात्याययन्नित्यत आह न मामिति।
 दुष्कृतित्वान्मूढाः अत एव नराधमाः। अपहृतज्ञानत्वाच्च मूढाः अत एवासुरं
@@ -188,12 +193,14 @@ aspires for Liberation.\] who knows the reality of Visnu.
 गौणविग्रहत्वज्ञानस्य कारणमुक्तम्। अत्र तु स्वदोषादेव न मां प्रपद्यन्ते।
 न तु मत्प्रपत्तेर्मायातरणोपायत्वाभावादित्यतो महान्भेदः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.16 7.19॥ चतुर्विधा इत्यादि सुदुर्लभ इत्यन्तम्। ये तु मां भजन्ते ते सुकृतिनः। ते च चत्वारः। सर्वे चैते उदाराः। यतः अन्ये कृपणबुद्धयः आर्त्तिनिवारणम् अर्थादि च तुल्यपाणिपादोदरशरीरसत्त्वेभ्योऽधिकतरं वा आत्मन्यूनेभ्यो मार्गयन्ते। ज्ञान्यपेक्षया तु ते न्यूनसत्त्वाः यतः तेषां तावत्यपि भेदोऽस्ति भगवतः इदमहमभिलष्यामि इति भेदस्य स्फुटप्रतिभासात्। ज्ञानी तु मामेवाभेदतया अवलम्बते इति +++(S omits इति)+++ ततोऽहमभिन्न एव। तस्य च अहमेव प्रियः न तु फलम्। अत एव स वासुदेव एव सर्वम् इत्येव +++(S वासुदेवः सर्वमेवम्)+++ दृढप्रतिपत्तिपवित्रीकृतहृदयः।
 </details>
@@ -202,12 +209,14 @@ aspires for Liberation.\] who knows the reality of Visnu.
 
 7.16 See Comment under 7.19
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.16॥ सुकृतिनस्तु भजन्त्येवेत्याह चतुर्विधा इति। सुकृतिरेव तत्र
 प्रवर्तिकेति सुकृतिन इत्युक्तम्। ते च सेवकाः सुकृतिनस्त एव तारतम्येन
@@ -245,10 +254,13 @@ aspires for Liberation.\] who knows the reality of Visnu.
 शास्त्रार्थज्ञानवान्न मोक्षरूपेण मां भजति। भरतर्षभ इति सम्बोधनं
 सत्कुलोत्पन्नानामेव भजनप्रवृत्तिर्भवतीति ज्ञापनार्थम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.16॥ सुकृतिनस्तु मां भजन्ति ते च सुकृततारतम्येन चतुर्विधा इत्याह
 **चतुर्विधा इति।** पूर्वजन्मसु ये कृतपुण्या जनास्ते मां भजन्ति। ते तु
@@ -257,10 +269,13 @@ aspires for Liberation.\] who knows the reality of Visnu.
 जिज्ञासुरात्मज्ञानेच्छुः अर्थार्थी अत्र वा परत्र वा
 भोगसाधनभूतार्थलिप्सुः ज्ञानी च आत्मवित्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.16 Four types of men of good deeds worship Me, O Arjuna, These are the distressed, the seekers after knowledge, the wealth-seekers, and the men of knowledge.
@@ -295,11 +310,13 @@ and; भरतर्षभ O lord of the Bharatas.Commentary The distressed is h
 wife; children; position; name and fame. Sugriva; Vibhishana; Upamanyu and Dhruva were all devotees of this type.The wise are the men of knowledge who have attained to Selfillumination. Sukadeva was a JnaniBhakta.Kamsa; Sishupala and Ravana thought of the Lord constantly on account of fear and hatred (VairaBhakti). Hence they are also regarded as devotees.Be devoted to God; whatever be your motive.
 Devotion will purify the motive in due course.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.16।। हे भरतवंशियोंमें श्रेष्ठ अर्जुनव ! पवित्र कर्म करनेवाले
@@ -392,6 +409,7 @@ Devotion will purify the motive in due course.
 
 ।।7.16।। हे भरत श्रेष्ठ अर्जुन ! उत्तम कर्म करने वाले (सुकृतिन:) आर्त,
 जिज्ञासु, अर्थार्थी और ज्ञानी ऐसे चार प्रकार के लोग मुझे भजते हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "27 नैते सृती"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.27॥ एतौ मार्गौ **जानन् योगी** प्रयाणकाले **कश्चन न मुह्यति** अपि तु स्वेन एव देवयानेन पथा याति। **तस्माद्** अहरहो ऽर्चिरादिगतिचिन्तनाख्य**योगयुक्तो** भव। अथ अध्यायद्वयोदितशास्त्रार्थवेदनफलम् आह --
@@ -39,12 +40,14 @@ title = "27 नैते सृती"
 
 8.27 Having known these two paths, no Yogin is deluded. On the contrary, he goes by the path of gods, his own path. Therefore, be integrated every day with Yoga called meditation on the path described by the terms starting with light. Next Sri Krsna speaks of the fruit of knowing the import of the Sastras, as taught in the two chapters 7 and 8.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.27॥ --,**न एते** यथोक्ते **सृती** मार्गौ **पार्थ जानन्** संसाराय एका अन्या मोक्षाय इति **योगी** न **मुह्यति कश्चन** कश्चिदपि। **तस्मात् सर्वेषु** **कालेषु योगयुक्तः** समाहितो **भव अर्जुन**॥ शृणु तस्य योगस्य माहात्म्यम् --,
 </details>
@@ -103,12 +106,14 @@ yoga:
 कश्चिदपि। तस्माद्योगस्यापुनरावृत्तिफलत्वात्सर्वेषु कालेषु योगयुक्तः
 समाहितचित्तो भवापुनरावृत्तये हे अर्जुन।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.27॥ एते सृती सोपाये ज्ञात्वाऽनुष्ठाय न मुह्यति। तच्चाह स्कान्दे --
 सृती ज्ञात्वा च सोपाये अनुष्ठाय च साधनम्। न कश्चिन्मोहमाप्नोति न चान्या
@@ -124,12 +129,14 @@ yoga:
 चानुष्ठायेत्याकारस्थाने क्वचिदीकारो लेखकदोषेण पतितः।
 मूलपुस्तकेष्वदर्शनात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.27॥ नैते इति।  
 **एते सृति** यो वेत्ति -  
@@ -146,12 +153,14 @@ yoga:
 
 8.27 Naite etc. The idea here is this : \[That Yogin does not get deluded\] who knows these two courses by adopting 'the internal method' , approved by the \[school of\] Yoga practice. This point, if explained in detain, would lengthen our treatise. Hence let us stop here. Therefore etc. Whatsoever are the \[units of\] time that are internal let one practise the Yoga that is concerned with them all. Our preceptors have however said as : So far the peculiarity in the passing away \[of the Yogins\], as indicated by the internal times, has been described, in the middle of the discourse, for the benefit of one and all. Having done this, now the chief topic, under consideration, regarding the external units of times, is being wound up by the words 'Therefore, concerned with all times etc.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.27॥ मार्गज्ञानफलं दर्शयन् योगे उक्तरूपे निवेशयति -- नैत इति। योगी
 कश्चन न मुह्यति तस्मात्किंबहुना त्वं सर्वेषु कालेषु योगी भव न
@@ -171,20 +180,26 @@ yoga:
 अर्जुन मोक्ष-जातीय-नाम-युक्त  
 **योग-युक्तो** मद्योगयुक्तो भवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/27_naite_sRtI.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/27_naite_sRtI.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.27॥ मार्गज्ञानफलं दर्शयन् भक्तियोगमुपसंहरति **-- नैते इति।** एते
 सृती मार्गौ हे पार्थ मोक्षसंसारप्रापकौ जानन्कश्चिदपि योगी न मुह्यति।
 सुखबुद्ध्या स्वर्गादिफलं न कामयते किंतु परमेश्वरनिष्ठ एव भवतीत्यर्थः।
 स्पष्टमन्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.27 O son of Prtha, no yogi \[One steadfast in meditation.) whosoever has known these two courses becomes deluded. Therefore, O Arjuna, be you steadfast in yoga at all times.
@@ -214,11 +229,13 @@ gets deluded. Therefore, O Arjuna, be practising Yoga connected with all times.
 अर्जुन O Arjuna.Commentary Knowing the nature of the two paths and the conseences they lead to; a Yogi never loses his discrimination. The Yogi who knows that the path of the gods or the path of light leads to Moksha
 (gradual liberation); and the path of darkness to Samsara or the world or region of birth and death; is no longer deluded. Knowledge of these two paths serves as a compass or a beaconlight to guide the Yogis steps at every moment. He strives to stick to the path of light.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/27_naite_sRtI.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.27।। हे पृथानन्दन ! इन दोनों मार्गोंको जाननेवाला कोई भी योगी मोहित
@@ -268,6 +285,7 @@ gets deluded. Therefore, O Arjuna, be practising Yoga connected with all times.
 
 ।।8.27।। हे पार्थ इन दो मार्गों को (तत्त्व से) जानने वाला कोई भी योगी
 मोहित नहीं होता। इसलिए, हे अर्जुन ! तुम सब काल में योगयुक्त बनो।।
+</details>
 </details>
 
 </div>

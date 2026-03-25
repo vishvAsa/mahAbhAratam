@@ -23,8 +23,9 @@ title = "18 यदा विनियतम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.18॥**यदा** प्रयोजनविषयं **चित्तम् आत्मन्य् एव विनियतं** विशेषेण नियतं निरतिशयप्रयोजनतया तत्रैव नियतन्निश्चलम् **अवतिष्ठते तदा सर्वकामेभ्यो निःस्पृहः** सन् **युक्त इत्य् उच्यते** योगार्ह इत्य् उच्यते।
@@ -39,12 +40,14 @@ title = "18 यदा विनियतम्"
 
 6.18 When the mind which usually goes after sense enjoyments, abandons such desires and 'rests on the self alone,' i.e., becomes well-settled on account of discerning unsurpassable good in the self alone and rests there alone steadily, without movement - then, being 'free of yearning for all desires,' one is said to be integrated. He is said to be fit for Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.18॥ **यदा विनियतं** चित्तं विशेषेण नियतं संयतम् एकाग्रतामापन्नं चित्तं हित्वा बाह्यार्थचिन्ताम् **आत्मन्येव** केवले **अवतिष्ठते** स्वात्मनि स्थितिं लभते इत्यर्थः। **निःस्पृहः सर्वकामेभ्यः** निर्गता दृष्टादृष्टविषयेभ्यः स्पृहा तृष्णा यस्य योगिनः सः युक्तः समाहितः **इत्युच्यते** तदा तस्मिन्काले॥ तस्य योगिनः समाहितं यत् चित्तं तस्योपमा उच्यते
 </details>
@@ -114,12 +117,14 @@ yogi which has become Self-absorbed:
 कामेभ्यः स्पृहा तृष्णा यस्येति परं वैराग्यमसंप्रज्ञातसमाधेरन्तरङ्गं
 साधनमुक्तम्। तथाच व्याख्यातं प्राक्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.18॥ आत्मनि भवति।
 </details>
@@ -129,12 +134,14 @@ yogi which has become Self-absorbed:
 ॥6.18॥ आत्मान्येवावतिष्ठते इत्यत्र स्वस्मिन्नेवेति प्रतीतिनिरासायाह
 **आत्मनी**ति। अन्यथा ज्ञात्वा मामित्यादिविरोधः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.18॥ यदेति। अस्य च योगिनश्चिह्नम् आत्मन्येव नियतमना न किंचिदपि स्पृहयते।
 </details>
@@ -143,12 +150,14 @@ yogi which has become Self-absorbed:
 
 6.18 Yada etc. The distinguishing mark of this man of Yoga is : Havnig his mind controlled in nothing but the Self, he does not crave at all \[for anything\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.18॥ कदा सिद्धयोगी पुरुषो भवतीत्यपेक्षायां
 निर्बीजयोगमसम्प्रज्ञातसमाधिमाह यदेति। आत्मन्येव चित्तं विनियतं संयतं
@@ -165,20 +174,26 @@ yogi which has become Self-absorbed:
 सर्वकामेभ्यो लौकिकेभ्यो निस्स्पृहो विगतेच्छो भवति तदा युक्त इत्युच्यते।
 सिद्धयोग उच्यत इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.18॥ कदा निष्पन्नयोगः पुरुषो भवतीत्यपेक्षायामाह **यदेति।** विनियतं
 विशेषेण निरुद्धं सच्चित्तमात्मन्येव यदा निश्चलं तिष्ठति। किंच
 सर्वकामेभ्य ऐहिकामुष्मिकभोगेभ्यो विगततृष्णो भवति तदा प्राप्तयोग
 इत्युच्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.18 When the subdued mind rests on the self alone, then, free of all yearning for objects of desire, one is said to be fit for Yoga.
@@ -211,11 +226,13 @@ yogi which has become Self-absorbed:
 उच्यते is said; तदा then.Commentary Perfectly controlled mind The mind with onepointedness.When all desires for the objects of pleasure seen or unseen die; the mind becomes very peaceful and rests steadily in the Supreme Self within. As the Yogi is perfectly harmonised; as he has attained to oneness with the Self and as he has become identical with Brahman; sense phenomena and bodily affections do not disturb him. He is conscious of his immortal; imperishable and invincible nature.Yukta means united (with the Self) or harmonised or balanced. Without union with the Self neither harmony nor balance nor Samadhi is possible.
 (Cf.V.23VI.8)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.18।। वशमें किया हुआ चित्त जिस कालमें अपने स्वरूपमें ही स्थित हो जाता
@@ -282,6 +299,7 @@ yogi which has become Self-absorbed:
 ।।6.18।। वश में किया हुआ चित्त जिस कालमें अपने स्वरुपमें ही स्थित हो
 जाता है और स्वयं सम्पूर्ण पदार्थों नि: स्पृह हो जाता है, उस कालमें वह
 योगी कहा जाता है।
+</details>
 </details>
 
 </div>

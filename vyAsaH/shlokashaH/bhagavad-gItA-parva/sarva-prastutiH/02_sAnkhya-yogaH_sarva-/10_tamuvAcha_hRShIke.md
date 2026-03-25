@@ -23,8 +23,9 @@ title = "10 तमुवाच हृषीकेशः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.10॥ सञ्जय उवाच एवम् अस्थाने समुपस्थितस्नेहकारुण्याभ्याम् अप्रकृतिं गतं क्षत्रियाणां युद्धं परमं धर्मम् अप्य् अधर्मं मन्वानं धर्मबुभुत्सया च शरणागतं पार्थम् उद्दिश्य आत्मयाथात्म्यज्ञानेन युद्धस्य फलाभिसन्धिरहितस्य स्वधर्मस्य आत्मयाथार्थ्यप्राप्त्युपायताज्ञानेन च विना अस्य मोहो न शाम्यति इति मत्वा भगवता परमपुरुषेण अध्यात्मशास्त्रावतरणं कृतम्। तदुक्तम्अस्थाने स्नेहकारुण्यधर्माधर्मधियाकुलम्। पार्थं प्रपन्नमुद्दिश्य शास्त्रावतरणं कृतम्॥ (गीतार्थसङ्ग्रह 5) इति॥  
@@ -44,12 +45,14 @@ title = "10 तमुवाच हृषीकेशः"
 2.9 - 2.10 Sanjaya said Thus, the Lord, the Supreme Person, introduced the Sastra regarding the self for the sake of Arjuna - whose natural courage was lost due to love and compassion in a misplaced situation, who thought war to be unrighteous even though it was the highest duty for warriors (Ksatriyas), and who took refuge in Sri Krsna to know what his right duty was -, thinking that Arjuna's delusion would not come to an end except by the knowledge of the real nature of the self, and that war was an ordained duty here which, when freed from attachment to fruits, is a means for self-knowledge. Thus, has it been said by Sri Yamunacarya: 'The introduction to the Sastra was begun for the sake of Arjuna, whose mind was agitated by misplaced love and compassion and by the delusion that righteousness was unrighteousness, and who took refuge in Sri Krsna.' The Supreme Person spoke these words as if smiling, and looking at Arjuna, who was thus overcome by grief resulting from ignorance about the real nature of the body and the self, but was nevertheless speaking about duty as if he had an understanding that the self is distinct from the body, and while he (Arjuna), torn between contradictory ideas, had suddenly become inactive standing between the two armies that were getting ready to fight. Sri Krsna said, as if in ridicule, to Arjuna the words beginning with, 'There never was a time when I did not exist' (II. 12), and ending with 'I will release you from all sins; grieve not!' (XVIII. 66) - which have for their contents the real nature of the self, of the Supreme Self, and of the paths of work
 (Karma), knowledge (Jnana) and devotion (Bhakti) which constitute the means for attaining the highest spiritual fulfilment.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.10॥  
   
@@ -516,12 +519,14 @@ realization this identity are stated in the relevant places.\]
 कुर्यात् महता संरम्भेण तु युद्धभूमावागत्य तदुपेक्षणमतीवानुचितमिति
 कथयितुं सेनयोरित्यादिविशेषणम्। एतच्चाशोच्यानित्यादौ स्पष्टं भविष्यति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.10॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -532,12 +537,14 @@ starts from 2.11.
 ॥2.10॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.7 2.10॥ कार्पण्येत्यादि। सेनयोरुभयोर्मध्ये इत्यादिनेदं सूचयति संशयाविष्टोऽर्जुनो नैकपक्षेण ( नोऽनेक ) युद्धान्निवृत्तः यत एवमाह स्म शाधि मा त्वां +++(S omits त्वाम्)+++ प्रपन्नम् इति। अतः उभयोरपि ज्ञानाज्ञानयोर्मध्यगः श्रीभगवतानुशिष्यते।
 </details>
@@ -546,12 +553,14 @@ starts from 2.11.
 
 2.7-10 Karpanya-etc. upto vacah. By the portion 'in between the two armies' etc., \[the Sage\] indicates this : Beings possessed by doubt, Arjuna had not abstained from the war totally; for, he says thus : 'Please teach me, who am taking refuge in you'. Therefore while he still remains just in between both knowledge and ignorance, he is taught by the glorious Bhagavat.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.10॥ ततः किं जातमिति तमुवाचेति। अहो अस्यात्मतत्त्वाज्ञानतः क्लैव्यं
 कीदृक् इति प्रहसन् धर्मिष्ठत्वादस्यैतदप्युचितमिति भावेनेत्युक्तम्।
@@ -564,18 +573,24 @@ starts from 2.11.
 वक्ष्यमाणमुवाच। स्वोक्ताकारिष्वपि स्वीयेषु भगवान् पुनर्वदति विश्वासार्थं
 सम्बोधने भारतेति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.10॥ ततः किं वृत्तमित्यपेक्षायामाह **तमुवाचेति।** प्रहसन्निव
 प्रसन्नमुखः सन्नित्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.10 O King, to him who was thus sorrowing between the two armies, Sri Krsna spoke the following words, as if smiling (by way of ridicule).
@@ -608,11 +623,13 @@ as if smiling, O Bharata, spoke these words.
 as it were; भारत O Bharata; सेनयोः of the armies; उभयोः (of) both; मध्ये
 in the middle; विषीदन्तम् despondent; इदम् this; वचः word.No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.10।। हे भरतवंशोद्भव धृतराष्ट्र! दोनों सेनाओंके मध्यभागमें विषाद करते
@@ -698,6 +715,7 @@ in the middle; विषीदन्तम् despondent; इदम् this; व
 
 ।।2.10।। हे भारत (धृतराष्ट्र) ! दोनों सेनाओं के बीच में उस शोकमग्न
 अर्जुन को भगवान् हृषीकेश ने हँसते हुए से यह वचन कहे।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "12 ये चैव"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.12॥ किं विशिष्य अभिधीयते **सात्त्विका राजसास् तामसाश् च** जगति भोग्यत्वेन देहत्वेन इन्द्रियत्वेन तत्तद्धेतुत्वेन च अवस्थिता **ये भावास् तान्** सर्वान् मत्त एव उत्पन्नान् **विद्धि ते** मच्छरीरतया **मयि** एव अवस्थिता **इति** च। **न त्व् अहं तेषु** न अहं कदाचिद् अपि तदायत्तस्थितिर् अन्यत्र आत्मायत्तस्थितित्वे अपि शरीरस्य शरीरेण आत्मनः स्थितौ अप्य् उपकारो विद्यते मम तु तैर् न कश्चित् तथाविध उपकारः केवलं लीला एव प्रयोजनम् इत्यर्थः।
@@ -40,12 +41,14 @@ title = "12 ये चैव"
 7.12 Why should this be declared with particular illustrations; The reason is as follows: Whatever entities exist in the world partaking of the alities of Sattva, Rajas and Tamas in the forms of bodies, senses, objects of enjoyment and their causes - know them all to have originated from Me alone, and they abide in Me alone, as they constitute My body.
 'But I am not in them.' That is, I do not depend for My existence on them at any time. In the case of other beings, though the body depends for its existence on the self, the body serves some purpose of the self in the matter of Its sustenance. To Me, however, there is no purpose at all of that kind served by them constituting My body. The meaning is that they merely serve the purpose of My sport.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.12॥ **ये चैव सात्त्विकाः** सत्त्वनिर्वृत्ताः **भावाः** पदार्थाः **राजसाः** रजोनिर्वृत्ताः **तामसाः** तमोनिर्वृत्ताश्**च ये** केचित् प्राणिनां स्वकर्मवशात् जायन्ते भावाः **तान् मत्त एव** जायमानान् **इति** एवं **विद्धि** सर्वान् समस्तानेव। यद्यपि ते मत्तः जायन्ते तथापि **न तु अहं तेषु** तदधीनः तद्वशः यथा संसारिणः। **ते** पुनः **मयि** मद्वशाः मदधीनाः॥ एवंभूतमपि परमेश्वरं नित्यशुद्धबुद्धमुक्तस्वभावं सर्वभूतात्मानं निर्गुणं संसारदोषबीजप्रदाहकारणं मां नाभिजानाति जगत् इति अनुक्रोशं दर्शयति भगवान्। त़च्च किंनिमित्तं जगतः अज्ञानमित्युच्यते
 </details>
@@ -140,12 +143,14 @@ being stated:
 संसारीव। ते तु भावा मयि रज्ज्वामिव सर्पादयः कल्पिता मदधीनसत्तास्फूर्तिका
 मदधीना इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.8 7.12॥ इदं ज्ञानम्। रसोऽहमित्यादिविज्ञानम्। अबादयोऽपि तत एव। तथापि
 रसादिस्वभावाना सागणां च स्वभावत्वे सारत्वे च विशेषतोऽपि स एव नियमाकः न
@@ -267,12 +272,14 @@ being stated:
 तदुपजीवनेन स्थित्यभावः। कुत एतत् इत्यत आह **उक्तं चे**ति। न केवलं
 मुक्तविरोधादिति चार्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.12 7.13॥ ये चेति। त्रिभिरिति। सत्त्वादीनि मन्मयानि न त्वहं तन्मयः। अत एव च भगवन्मयः सर्वं भगवद्भावेन संवेदयते न तु नानाविधपदार्थविज्ञाननिष्ठो भगवत्तत्त्वं प्रतिपद्यते इति सकलमानसावर्जक एष क्रमः। अनेनैव चाशयेन वक्ष्यते वासुदेवः सर्वम् इति +++(K adds another इति)+++ ज्ञानेन यो बहुजन्मोपभोगजनितकर्मसमतासमनन्तरसमुत्पन्नपरशक्तिपातानुगृहीतान्तःकरण असौ प्रतिपद्यते भगवत्तत्त्वं+++(S omits भगवत्तत्त्वम्)+++ ननु +++(K omits ननु)+++ सर्वं वासुदेवः इति बुद्ध्या स महात्मा स च दुर्लभ इति। एवं ह्यबुद्ध्यमानं +++(N हि बुद्ध्यमानम्)+++ प्रत्युत सत्त्वादिभिर्गुणैः मोहितमिदं जगत् गुणातीतं वासुदेवतत्त्वं नैवोपलभते।
 </details>
@@ -281,12 +288,14 @@ being stated:
 
 7.12 See Comment under 7.13
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.12॥ मत्तः परतरं नान्यदिति प्रागुक्तं स्पष्टयति भगवानेकेन ये चैविति।
 प्राकृता अप्येते मत्त एव मत्सत्प्रकृतिगुणकार्यत्वात् मम च
@@ -308,10 +317,13 @@ being stated:
 कुर्वन्तीति ते मयि सन्ति नत्वहं जीववत्तेषूत्पन्नेषु रसयुक्तो भवामीति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.12॥ किंच **ये चेति।** ये चान्येऽपि सात्त्विका भावाः शमदमादयः
 राजसाश्च द्वेषदर्पादयः तामसाश्च शोकमोहादयः प्राणिनां स्वकर्मवशाज्जायन्ते
@@ -319,10 +331,13 @@ being stated:
 तेष्वहं न वर्ते। जीववत्तदधीनोऽहं न भवामीत्यर्थः। ते तु मदधीनाः सन्तो मयि
 वर्तन्त इत्यर्थ।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.12 Know that all those states of Sattva, Rajas and Tamas are from Me alone. But I am not in them; they are in Me.
@@ -357,11 +372,13 @@ but I am not in them.
 viz.; Sattva (purity); Rajas (passion) and Tamas (inertia). All sentient and insentient objects are the aggregate of these three alities of Nature. One ality predominates in them and the predominant ality imparts to the object its distinctive character or definite properties.In the gods; sages milk and green gram; Sattva is predominant. In Gandharvas (a class of celestials); kings; warriors and chillies; Rajas is predominant. In demons; Sudras; garlic; onion and meat; Tamas is predominant.Though these beings and objects proceed from Me; I am not in them they are in Me. I am independent. I am the support for them they depend on Me just as the superimposed snake depends on the rope. The snake is in the rope; but the rope is never in the snake. The waves belong to the ocean but the ocean does not belong to the waves.
 (Cf.IX.4and6)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.12।। (और तो क्या कहूँ) जितने भी सात्त्विक, राजस और तामस भाव हैं, वे
@@ -452,6 +469,7 @@ viz.; Sattva (purity); Rajas (passion) and Tamas (inertia). All sentient and ins
 ।।7.12।। जो भी सात्त्विक (शुद्ध), राजसिक (क्रियाशील) और तामसिक (जड़) भाव
 हैं, उन सबको तुम मेरे से उत्पन्न हुए जानो; तथापि मैं उनमें नहीं हूँ, वे
 मुझमें हैं।।
+</details>
 </details>
 
 </div>

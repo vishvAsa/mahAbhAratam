@@ -23,8 +23,9 @@ title = "19 ज्ञानङ् कर्म"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.19॥ कर्तव्य-कर्मविषयं **ज्ञानम्;** अनुष्ठीयमानं **च कर्म** तस्यानुष्ठाता **च** सत्त्वादि**गुणभेदतः** **त्रिधा एव प्रोच्यते।** **गुण-सङ्ख्याने** गुण-कार्य-गणने **यथावत् श्रृणु तान्य् अपि** -- तानि गुणतो भिन्नानि ज्ञानादीनि यथावत् श्रृणु।
@@ -39,12 +40,14 @@ title = "19 ज्ञानङ् कर्म"
 
 18.19 The knowledge of action which ought to be done, the act to be performed, and the performer of the act are threefold, each of them being divided in accordance with Sattva etc., Listen about these, which are differentiated according to the Gunas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.19॥ --,**ज्ञानं कर्म च;** कर्म क्रिया; न कारकं पारिभाषिकम् ईप्सिततमं कर्म; **कर्ता च** निर्वर्तकः क्रियाणां **त्रिधा एव;** अवधारणं गुणव्यतिरिक्तजात्यन्तराभावप्रदर्शनार्थं **गुणभेदतः** सत्त्वादिभेदेन इत्यर्थः। **प्रोच्यते** कथ्यते **गुणसंख्याने** कापिले शास्त्रे तदपि गुणसंख्यानशास्त्रं गुणभोक्तृविषये प्रमाणमेव। परमार्थब्रह्मैकत्वविषये यद्यपि विरुध्यते; तथापि ते हि कापिलाः गुणगौणव्यापारनिरूपणे अभियुक्ताः इति तच्छास्त्रमपि वक्ष्यमाणार्थस्तुत्यर्थत्वेन उपादीयते इति न विरोधः। **यथावत्** यथान्यायं यथाशास्त्रं **श्रृणु तान्यपि** ज्ञानादीनि तद्भेदजातानि गुणभेदकृतानि श्रृणु; वक्ष्यमाणे अर्थे मनःसमाधिं कुरु इत्यर्थः॥ ज्ञानस्य तु तावत् त्रिविधत्वम् उच्यते --,
 </details>
@@ -177,12 +180,14 @@ knowledge is being stated:
 नास्तीति दर्शयितुं तेषां सर्वेषां त्रिगुणात्मकत्वमेव न रूपान्तरमस्ति
 येनात्मसंबन्धिता स्यादित्युच्यत इति विशेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.19॥ पुनः साधनप्रथनाय गुणभेदानाह -- ज्ञानमित्यादिना। गुणसङ्ख्याने
 गुणगणनप्रकरणे।
@@ -195,12 +200,14 @@ knowledge is being stated:
 गुणसङ्ख्यानशब्देन कापिलं शास्त्रमुच्यत इति भावेनाऽऽह -- **गुणे**ति। तच्च
 वैदिकमभिप्रेतम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.19॥ अथैषां षण्णामपि संक्षेपेण गुणभेदात् +++(omits गुण -- )+++ भेदं दर्शयितुमाह -- ज्ञानमिति। गुणानां संख्यानं निश्चयो यत्र; तत्र साङ्ख्यीयकृतान्ते ज्ञानादित्रिविधमुच्यते यत्; तच्छृणु इति संगतिः। ज्ञानम् इत्यनेन ज्ञाने क्रियायां च यत् करणं तत् द्विविधमुक्तम्। एवं कर्म इति ज्ञेयं कार्यं च कर्ता इति +++(; N; K omits कर्तेति )+++ ज्ञाता कर्ता चेति।
 </details>
@@ -209,12 +216,14 @@ knowledge is being stated:
 
 18.19 Jnanam etc. In enumerating the Strands : In the consdered conclusion of the Sankhya where the Strands are decided numerically, these instruments of knowledge etc., are declared to be of three types. that you must listen to. This is what is conveyed by the association of words (or ideas) here. By instrument-of-knowledge (Jnanam) the two-fold instruments viz. that of knowledge and of activity, are spoken of. Similarly object (karman) speaks of both the object of knowledge and the object of activity and agent (kartr) refers to both the knower and the performer. Now the three verses. Sarvabhutesu etc. (20-22) speak of the three-foldness of the instrument of knowledge. That is why the Instrumental Yena is employed. The nature of all the instruments of knowledge and of action is described by this much of portion. The three-foldness of object of both the types viz. the object of knowledge and the object of action is described by the tripple verses Niyatam etc. (23-25). The three-fold nature of the agent of both the categories viz. the knower and the doer is briefly explained by the three verses Muktasangah etc. (26-28). The three types of the intellect is examined by three verses, Pravrttim etc. (30-32), in order to explain the different nature of the two-fold instruments (i.e. of knowledge and of action). By this means the three-fold nature of other instrumetns is also indicated. The instrument reires technical know-how, and this technical know-how, of course, consists of the pentad that includes content and so on. However, because faith \[included in this pentad\] has already been dealt with (XVII, 2ff.), and because the desire to know and the aversion to know \[both belonging to the pentad\] are obtained by inference through the firmness and happiness \[of the pentad\], the three-fold division of the last two is explained by the verses Dhrtya yaya etc. (33-35) and Sukham tu idanim etc. (36-39). All this \[the Lord\] declares \[one by one\] ;-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.19॥ ज्ञानमिति। पूर्वोक्तं ज्ञानं कर्म चानुष्ठीयमानं कर्त्ता
 तदनुष्ठाता सत्त्वादिगुणभेदतस्त्रिधैवोच्यते। गुणसङ्ख्याने साङ्ख्य
@@ -232,10 +241,13 @@ knowledge is being stated:
 निर्गुणाधिकारसम्पादकानि कर्माणि भवन्ति; न त्वेतानीति
 स्वरूपवैजात्यज्ञानार्थं श्रोतव्यानीति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.19॥ ततः किमत आह **-- ज्ञानमिति।** गुणाः सम्यक्कार्यभेदेन ख्यायन्ते
 प्रतिपाद्यन्तेऽस्मिन्निति गुणसंख्यानं साङ्ख्यशास्त्रं तस्मिन्; ज्ञानं
@@ -249,10 +261,13 @@ knowledge is being stated:
 क्रियाकारकफलादीनामात्मसंबन्धो नास्तीति दर्शयितुं सर्वेषां
 त्रिगुणात्मकत्वमुच्यत इति विशेषो ज्ञातव्यः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.19 Knowledge, act and agent are declared in the science of Gunas to be of three kinds, according to the difference in the Gunas. Listen about them also as they are.
@@ -286,11 +301,13 @@ of three kinds; एव only; गुणभेदतः according to the distincti
 प्रोच्यते are declared; गुणसंख्याने in the science of Gunas (Sankhya philosophy); यथावत् duly; श्रृणु hear; तानि them; अपि also.Commentary The three alities overpower the whole of creation with their special nature and bring it entirely under their control. The nature of action;
 the actor and his knowledge are threefold according to the Gunas that is predominant. If all the three are Sattvic; then the action will not bind the man.Karta The doer of the actions.The science of the Gunas here referred to is Kapilas system of philosophy. Though the Sankhya system is opposed to Vedanta with reference to the Supreme Truth; viz.; the oneness or nonduality of Brahman; yet it is an authority on the science of the Gunas.I shall describe knowledge; action and actor; as also their various distinctions caused by different Gunas; scientifically and rationally. Hear My teachings; O Arjuna; with rapt attention. You will be immensely benefited.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.19।। गुणसंख्यान (गुणोंके सम्बन्धसे प्रत्येक पदार्थके भिन्न-भिन्न
@@ -395,6 +412,7 @@ the actor and his knowledge are threefold according to the Gunas that is predomi
 ।।18.19।। ज्ञान, कर्म और कर्ता भी गुणों के भेद से साङ्ख्यशास्त्र
 (गुणसंख्याने) में त्रिविध ही कहे गये हैं; उनको भी तुम मुझ से यथावत्
 श्रवण करो।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "04 दम्भो दर्पोऽभिमानश्च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.4॥**दम्भः** धार्मिकत्वख्यापनाय धर्मानुष्ठानम्। **दर्पः** कृत्याकृत्याविवेककरो विषयानुभवनिमित्तो हर्षः। ,**अतिमानः** च स्वविद्याभिजनाननुगुणोऽभिमानः। **क्रोधः** परपीडाफलचित्तविकारः। **पारुष्यं** साधूनाम् उद्वेगकरः स्वभावः। **अज्ञानं** परावरतत्त्वकृत्याकृत्याविवेकः। एते स्वभावाः **आसुरीं सम्पदम् अभिजातस्य भवन्ति।** असुरा भगवदाज्ञातिवृत्तिशीलाः।
@@ -41,12 +42,14 @@ title = "04 दम्भो दर्पोऽभिमानश्च"
 'Self-conceit' is the estimation of oneself in a measure not warranted by one's education and birth. 'Wrath' is the sense of antagonism causing injury to others. 'Rudeness' is the nature of causing grief to Sadhus.
 'Ignorance' is incapacity to discriminate between hight and low forms of conduct and principles, and also between what ought to be done and what ought not to be. These are the alities that are found in one born for a demoniac destiny. Asuras are those who rel against the ;ndments of the Lord.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.4॥ --,**दम्भः** धर्मध्वजित्वम्। **दर्पः** विद्याधनस्वजनादिनिमित्तः उत्सेकः। **अतिमानः** पूर्वोक्तः। **क्रोधश्च। पारुष्यमेव च** परुषवचनम् -- यथा काणम् चक्षुष्मान् विरूपम् रूपवान् हीनाभिजनम् उत्तमाभिजनः इत्यादि। **अज्ञानं च** अविवेकज्ञानं कर्तव्याकर्तव्यादिविषयमिथ्याप्रत्ययः। **अभिजातस्य पार्थ।** किम् अभिजातस्येति; आह -- संपदम् आसुरीम् असुराणां **संपत्** आसुरी ताम् अभिजातस्य इत्यर्थः॥ अनयोः संपदोः कार्यम् उच्यते --,
 </details>
@@ -129,12 +132,14 @@ sampadam, nature. The conseences of these natures are being stated:
 दोषा एव भवन्ति न त्वभयाद्या गुणा इत्यर्थः। हे पार्थेति
 संबोधयन्विशुद्धमातृकत्वेन तदयोग्यत्वं सूचयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.4॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -143,12 +148,14 @@ sampadam, nature. The conseences of these natures are being stated:
 
 ॥16.4॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.1 -- 16.5॥ एतद्बुद्ध्वा इत्युक्तम्। बोधश्च नाम श्रुतिमयज्ञानान्तरम् +++(S श्रुत -- )+++ इदमित्थम् इत्येवंभूतयुक्तिचिन्ताभावनामयज्ञानोदेयेन +++(S;;N चिन्तामयज्ञानोदयेन)+++ विचारविमर्शपरमर्शादिरूपेण विजातीयन्यक्कारविरहिततद्भावनामयस्वभ्यस्ताकारविज्ञानलाभे सति भवति। यद्वक्ष्यते +++(S तद्वक्ष्यते N तद्वक्ष्यति)+++ -- विमृश्यैतदशेषेण यथेच्छसी तथा कुरु +++(XVIII; 63)+++ इति। तत्र श्रुतिमये ज्ञाने गुरुशास्त्रे एव प्राधान्येन प्रभवतः युक्तिचिन्ताभावनामये तु विमर्शक्षमता असाधारणा शिष्यगुणसंपत् ( -- रणशिष्य -- ) प्रधानभूता। अतः अर्जुनस्यास्त्येवासौ इत्यभिप्रायेण वक्ष्यमाणं विमृश्यैतत् इति वाक्यं सविषयं कर्तुं परिकरबन्धयोजनाभिप्रायेण आह भगवान् गुरुः अभयम् इत्यादि। आसुरभागसन्नविष्टा तामसी किल अविद्या। सा प्रवृद्धया दिव्यांशग्राहित्या विद्यया बाध्यते ( प्रवृद्धाया -- विद्याया बध्यते) इति वस्तुस्वभाव एषः। त्वं च विद्यात्मानं दिव्यमंशं सात्त्विकमभिप्रपन्नः तस्मादान्तरीं मोहलक्षणामविद्यां विहाय बाह्याविद्यात्मशत्रुहननलक्षणं +++(S बाह्यविद्या)+++ शास्त्रीयव्यापारम् अनुतिष्ठ इत्यध्यायारम्भः। तथाहि -- अभयमित्यादि पाण्डवेत्यन्तम्। दिव्यांशस्य इमानि चिह्नानि तानि स्फुटमेवाभिलक्ष्यन्ते +++(S; स्फुटमेवोपलक्ष्यन्ते)+++। दमः +++(S omits दमः)+++ इन्द्रियजयः। चापलं पूर्वापरमविमृश्य यत् करणम्; तदभावः अचापलम्। तेजः आत्मनि उत्साहग्रहणेन मितत्वापाकरणम्। दैवी संपदेषा। सा च तव विमोक्षाय; कामनापरिहारात्। अतस्त्वं शोकं मा प्रापः -- यथा भ्रात्रादीन् हत्वा सुखं कथमश्नुवीय इति। शिष्टं स्पष्टम्।
 </details>
@@ -157,12 +164,14 @@ sampadam, nature. The conseences of these natures are being stated:
 
 16.4 See Coment under 16.5
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.4॥ आसुरीं सम्पदमाह -- दम्भ इति। दर्पः कामरूपः; अभिमानो लोभः। चकारैः
 पूर्वप्रतियोगिनो गृह्यन्ते स्पष्टमन्यत्। एते षट् दोषाः स्वभावतः
@@ -185,10 +194,13 @@ sampadam, nature. The conseences of these natures are being stated:
 पुनः अज्ञानं सर्वस्वरूपानभिज्ञता। आसुरीं सम्पदमभिजातस्य मदिच्छया
 जातस्यैतानि लक्षणानि भवन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.4॥ आसुरीं संपदमाह **--** **दम्भ इति।** दम्भो धर्मध्वजित्वम्; दर्पो
 धनविद्यादिनिमित्तश्चित्तस्योत्सेकः; अभिमानो व्याख्यातः; क्रोधः
@@ -196,10 +208,13 @@ sampadam, nature. The conseences of these natures are being stated:
 असुराणां राक्षसानां च या संपत् तामासुरीमभिलक्ष्य जातस्यैतानि दम्भादीनि
 भवन्तीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.4 Pomposity, arrogance, self-conceit, wrath, rudeness and ignorance -
@@ -237,11 +252,13 @@ state;,आसुरीम् demoniacal.Commentary Dambha Hypocrisy. To pretend 
 Pride of learning; wealth; high connection; etc. An arrogant man cannot endure to see his fellowmen happy. He is more and more enraged at the fortune of his fellowmen in the matter of learning; happiness and prosperity.Parushyam (in speech) To speak of the blind as having lotuslike eyes; of the ugly as beautiful; of a man of low birth as one of high birth and so on; usually with an ulterior; selfish or evil motive.Ajnanam Ignorance; misconception of ones duties. An ignorant man is blind as to what should be done and what should not be done. There is absence of discrimination. Just as a child will put anything it gets in its hands into its mouth; whether it is clean or dirty; so also is the condition of the ignorant man who is not able to discriminate between the Real and the unreal; the good and the evil; virtue and vice. He is on the path of destruction. He does not know the road that leads to Moskha or liberation. He is drowned in the ocean of this worldly existence.These are the six demonical alities. These evil alities constitute the satanic or demonical wealth. They are obstacles on the path of liberation.By addressing Arjuna as Partha; Lord Krishna implies that Arjuna has no demonical alities in him as he is born in a noble family and is the son of Pritha.People of Asuric nature have no faith.
 They dispute every doctrine. They deny the existence of God. They deny the cycle of the worldprocess; the Vedas and the laws of ethics. Sensual indulgence is their goal. They rob people and take away their neighbours wives. They kill people ruthlessly. They do not believe in reincarnation and in the other world. They have no idea of right conduct; purity and selfrestraint.Asuras are those persons who have waged war and who still wage war with the gods in heaven. Those who are endowed with Asuric tendencies or evil alities are Asuras or demons. They exist in abundance in this iron age. Kamsa was an Asura. Hiranyakasipu was an Asura.Even a man of university alitifactions and titles is a veritable Asura if he is endowed with evil tendencies or Asubha Vasanas.Esoterically; the war between the Asuras and the gods is the internal fight that is ever going on between the pure and the impure tendencies in man; between Sattva and RajasTamas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.4।। हे पृथानन्दन ! दम्भ करना, घमण्ड करना, अभिमान करना, क्रोध करना,
@@ -429,6 +446,7 @@ They dispute every doctrine. They deny the existence of God. They deny the cycle
 
 ।।16.4।। हे पार्थ ! दम्भ, दर्प, अभिमान, क्रोध, कठोर वाणी (पारुष्य) और
 अज्ञान यह सब आसुरी सम्पदा है।।
+</details>
 </details>
 
 </div>

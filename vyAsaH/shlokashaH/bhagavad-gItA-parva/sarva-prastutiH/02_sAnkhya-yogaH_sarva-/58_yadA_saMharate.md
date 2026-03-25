@@ -23,8 +23,9 @@ title = "58 यदा संहरते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.58॥**यदा इन्द्रियाणि** इन्द्रियार्थान् स्प्रष्टुम् उद्युक्तानि तदा एव कूर्मः **अङ्गानि इव इन्द्रियार्थेभ्यः सर्वशः** प्रतिसंहृत्य मन आत्मन्य् एव स्थापयति सोऽपि स्थितप्रज्ञः।  
@@ -42,12 +43,14 @@ title = "58 यदा संहरते"
 
 2.58 When one is able to draw the senses away from the sense-objects on every side when the senses try to contact the sense-objects, just as a tortoise draws in its limbs, and is capable of fixing his mind on the self - he too is of firm wisdom. Thus there are four stages of devotion to knowledge, each stage being perfected through the succeeding stage. Now Sri Krsna speaks of the difficulty of the attainment of firm devotion to knowledge and the means of that attainment.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.58॥  
   
@@ -129,12 +132,14 @@ withdrawn is being stated:
 सकलताभसवृत्त्यभाव उक्तः अधुना तु पुनः समाध्यवस्थायां सकलवृत्त्यभाव इति
 विशेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.57 2.58॥ सर्वत्रानभिस्नेहत्वाच्छुभाशुभं प्राप्य नाभिनन्दति न
 द्वेष्टि।
@@ -144,12 +149,14 @@ withdrawn is being stated:
 
 ॥2.58॥**यदा संहरत** इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.60॥ यदा संहरते इति। न चास्य पाचकवद्योगरूढत्वम्। यदा यदा किलायमिन्द्रियाणि संहरते आत्मन्येव कूर्म इवाङ्गानि क्रोडीकरोति विषयेभ्यः विषयान्निवार्य +++(S विषयेभ्यः विषयार्थस्यैव विषयान्निवार्य)+++ तदा तदा स्थिरप्रज्ञः। यद्वा इन्द्रियार्थेभ्यः प्रभृति इन्द्रियाणि आत्मनि संहरते विषयेन्द्रियात्मकं +++(K न्द्रियादिकम्)+++ सर्वम् +++(N आसन्नं instead सर्वम्)+++ आत्मसात्कुरुते।
 </details>
@@ -158,12 +165,14 @@ withdrawn is being stated:
 
 2.58 Yada samharate etc. the nomenclature is not an expression having a composite of both the forces of etymological and traditional meanings, like the word pankaja 'a lotus'. But it has only the etymological force like the word pacaka 'a cook'. Whenever he (the sage) withdraws just in his own self-just as a tortoise keeps its limbs in its bossom-from the sense-objects i.e., warding off from the sense-objects, then and then \[only\] he is man-of-stabilized-intellect. Or \[the passage may mean :\] Whenever he withdraws, within his own Self, \[all\], beginning from the sense-objects upto sense-organs i.e., when he approprites in his own Self all in the form of sense-objects and sense-organs. But, how is it that the nomenclature 'a man-of-stabilized-intellect' does not hold good in the case of an ascetic ; It is answered-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.58॥ किमासीत इत्यस्योत्तरमाह चतुर्भिः। यदेति विषयेभ्य इन्द्रियाणि
 संहरते प्रत्याहृत्यास्ते। अनायासेनैकत्र संहारे दृष्टान्तः अङ्गानि
@@ -179,19 +188,25 @@ withdrawn is being stated:
 भोग्यदर्शनात् स्वत एवेन्द्रियनिवृत्तिः स्वभावतः स्यात् तथा संहरणं
 कर्त्तव्यं नित्यमिन्द्रियनियमं कुर्वंस्तिष्ठेदित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.58॥ किंच **यदेति।** यदा चायं योगी इन्द्रियार्थेभ्यः
 सकाशादिन्द्रियाणि संहरते प्रत्याहरति। अनायासेन संहारे दृष्टान्तः।
 अङ्गानि करचरणादीनि कूर्मो यथा स्वभावेनैवाकर्षति तद्वत्।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.58 When one is able to draw his senses from the objects of sense on every side, as a tortoise draws in its limbs, then his wisdom is firmly set.
@@ -225,11 +240,13 @@ wisdom प्रतिष्ठिता is steadied.Commentary Withdrawal of th
 He is not disturbed by tumultuous sounds and noises of any description.
 Even on the battlefield he can rest in his centre; the Self; by withdrawing his senses. He who practises Pratyahara is dead to the world. He will not be affected by the outside vibrations. At any time by mere willing he can bring his senses under his perfect control. They are his obedient servants or instruments.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.58।। जिस तरह कछुआ अपने अङ्गोंको सब ओरसे समेट लेता है, ऐसे ही जिस
@@ -319,6 +336,7 @@ Even on the battlefield he can rest in his centre; the Self; by withdrawing his 
 ।।2.58।। कछुवा अपने अंगों को जैसे समेट लेता है वैसे ही यह पुरुष जब सब ओर
 से अपनी इन्द्रियों को इन्द्रियों के विषयों से परावृत्त कर लेता है; तब
 उसकी बुद्धि स्थिर होती है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "04 साङ्ख्ययोगौ पृथग्बालाः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.4॥ ज्ञानयोगकर्म**योगौ** फलभेदात् पृथग्भूतौ ये **प्रवदन्ति ते बालाः** अनिष्पन्नज्ञानाः **न पण्डिताः** न तु कृत्स्नविदः। कर्मयोगो ज्ञानयोगम् एव साधयति ज्ञानयोगस्त्व् एक आत्मावलोकनं साधयति इति तयोः फलभेदेन पृथक्त्वं वदन्तो न पण्डिता इत्यर्थः।**उभयोः** आत्मावलोकनैकफलयोर् एकफलत्वेन **एकम् अप्य् आस्थितः** तद् एव **फलं** लभते। एतद् एव विवृणोति
@@ -39,12 +40,14 @@ title = "04 साङ्ख्ययोगौ पृथग्बालाः"
 
 5.4 Those who say that Karma Yoga and Jnana Yoga are distinct because of the difference in results, are children, i.e., are persons with incomplete knowledge; they do not know the entire truth. The meaning is that they do not possess true knowledge, who say that Karma Yoga results in Jnana Yoga only and that Jnana Yoga alone results in the vision of the self and that the two are thus distinct because of the difference in their fruits. But on the contrary as both have only the vision of the self as the fruit, a person who is firmly set in one of them, wins that one fruit common to both. Sri Krsna further expounds the same:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.4॥ **साङ्ख्ययोगौ पृथक्** विरुद्धभिन्नफलौ **बालाः प्रवदन्ति न पण्डिताः।** पण्डितास्तु ज्ञानिन एकं फलम् अविरुद्धम् इच्छन्ति। कथम् **एकमपि** साङ्ख्ययोगयोः **सम्यक् आस्थितः** सम्यगनुष्ठितवान् इत्यर्थः **उभयोः विन्दते फलम्।** उभयोः तदेव हि निःश्रेयसं फलम् अतः न फले विरोधः अस्ति॥ ननु संन्यासकर्मयोगशब्देन प्रस्तुत्य साङ्ख्ययोगयोः फलैकत्वं कथम् इह अप्रकृतं ब्रवीति नैष दोषः यद्यपि अर्जुनेनसंन्यासं कर्मयोगं च केवलम् अभिप्रेत्य प्रश्नः कृतः भगवांस्तु तदपरित्यागेनैव स्वाभिप्रेतं च विशेषं संयोज्य शब्दान्तरवाच्यतया प्रतिवचनं ददौ साङ्ख्ययोगौ इति। तौ एव संन्यासकर्मयोगौ ज्ञानतदुपायसमबुद्धित्वादिसंयुक्तौ साङ्ख्ययोगशब्दवाच्यौ इति भगवतो मतम्। अतः न अप्रकृतप्रक्रियेति॥ एकस्यापि सम्यगनुष्ठानात् कथम् उभयोः फलं विन्दते इति उच्यते
 </details>
@@ -196,12 +199,14 @@ one; The answer is:
 सम्यगास्थितः स्वाधिकारानुरूपेण सम्यग्यथाशास्त्रं
 कृतवान्सन्नुभयोर्विन्दते फलं ज्ञानोत्पत्तिद्वारेण निःश्रेयसमेकमेव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.4॥ सन्न्यासो हि ज्ञानान्तरङ्गत्वेनोक्तःन तस्य तत्त्वग्रहणाय
 भाग.5।11।3 इत्यादौ। अतः कथं सोऽवम् इत्यत आह साङ्खयोगाविति।
@@ -233,12 +238,14 @@ one; The answer is:
 ज्ञानान्तरङ्गमिति विद्वांस एव मन्यन्त इत्यत आह **ये त्वि**ति। बाला
 अविवेकिनः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.4 5.5॥ साँख्ययोगाविति। यत्साङ्ख्यैरिति। इदं साङ्ख्यं +++(S साङ्ख्यज्ञानम्)+++ अयं च योगः इति न भेदः। एतौ हि नित्यसंबद्धौ। ज्ञानं न योगेन विना योगोऽपि न तेन विनेति। अत एकत्वमनयोः।
 </details>
@@ -247,12 +254,14 @@ one; The answer is:
 
 5.4 See Comment under 5.5
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.4॥ ननु साङ्ख्ययोगयोरेक एवार्थः कथमुत्पाद्यते शास्त्रभेदात्
 इत्याशङ्क्य एकफलविषयत्वेनाभेदमुख्यैकार्थ्यमुपदिशति साङ्ख्येति। साङ्ख्ये
@@ -273,10 +282,13 @@ one; The answer is:
 ज्ञानमज्ञानमतः सम्यगास्थितो मत्स्वरूपपरो मदाज्ञया कुर्वन्नुभयोरप्येकं
 फलं मत्प्रसादरूपं विन्दते प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.4॥ यस्मादेवमङ्गप्रधानत्वेनोभयोरवस्थाभेदेन क्रमसमुच्चयः। अतो
 विकल्पमङ्गीकृत्योभयोः कः श्रेष्ठ इति प्रश्नोऽज्ञानिनामेवोचितो न
@@ -288,10 +300,13 @@ one; The answer is:
 सम्यगास्थितोऽपि पूर्वमनुष्ठितस्य कर्मयोगस्यापि परम्परया ज्ञानद्वारा
 यदुभयोः फलं कैवल्यं तद्विन्दतीति न पृथक्फलत्वमनयोरित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.4 Children, not the learned, speak of Sankhya (Jnana Yoga) and Yoga
@@ -326,11 +341,13 @@ not the wise. If any man knows one, he enjoys the fruit of both.
 सम्यक् truly; उभयोः of both; विन्दते obtains; फलम् fruit.Commentary Children the ignorant people who have no knowledge of the Self; and who have only a theoretical knowledge of the scriptures.Children or ignorant people only say that knowledge and the performance of action are different and produce distinct and opposite results. But the wise who have the knowledge of the Self say that they produce the same result only; viz.; Moksha or liberation. He who is duly established in,one; he who truly lives in one; Sankhya or Yoga; obtains the fruits of both.
 Therefore there is no diversity in the result or the fruit. This is the gist of this verse. (Cf.VI.2)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.4।। बेसमझ लोग साङ्ख्ययोग और कर्मयोगको अलग-अलग फलवाले कहते हैं, न कि
@@ -387,6 +404,7 @@ Therefore there is no diversity in the result or the fruit. This is the gist of 
 ।।5.4।। बालक अर्थात् बालबुद्धि के लोग साङ्ख्य (संन्यास) और योग को परस्पर
 भिन्न समझते हैं; किसी एक में भी सम्यक् प्रकार से स्थित हुआ पुरुष दोनों
 के फल को प्राप्त कर लेता है।।
+</details>
 </details>
 
 </div>

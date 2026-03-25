@@ -23,8 +23,9 @@ title = "34 मृत्युः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.34॥**सर्व**प्राण**हरः मृत्युश् च अहम्** उत्पत्स्यमानानाम् उद्भवाख्यं कर्म **च** अहम्; **नारीणां श्रीः** अहं **कीर्तिः** च अहं **वाक्** च अहं **स्मृतिः** च अहं **मेधा** च अहं **धृतिः** च अहं **क्षमा** च अहम्।
@@ -41,12 +42,14 @@ title = "34 मृत्युः"
 
 10.34 I am also death which snatches away the life of all. Of those that shall be born I am that called birth. Of women (i.e., of goddesses who are the powers of the Lord) I am prosperity (Sri); I am fame (Kirti); I am speech (Vak); I am memory (Smrti); I am intelligence (Medha); I am endurance (Dhrti); and I am forgiveness (Ksama).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.34॥ --,**मृत्युः** द्विविधः धनादिहरः प्राणहरश्**च** तत्र यः प्राणहरः; स **सर्वहरः** उच्यते सः अहम् इत्यर्थः। अथवा; परः ईश्वरः प्रलये सर्वहरणात् सर्वहरः; सः **अहम्। उद्भवः** उत्कर्षः अभ्युदयः तत्प्राप्तिहेतुश्च अहम्। केषाम् **भविष्यतां** भाविकल्याणानाम्; उत्कर्षप्राप्तियोग्यानाम् इत्यर्थः। **कीर्तिः श्रीः वाक् च नारीणां स्मृतिः मेधा धृतिः क्षमा** इत्येताः उत्तमाः स्त्रीणाम् अहम् अस्मि; यासाम् आभासमात्रसंबन्धेनापि लोकः कृतार्थमात्मानं मन्यते॥
 </details>
@@ -121,12 +124,14 @@ one considers himself successful.
 यासामाभासमात्रसंबन्धेनापि जनः सर्वलोकादरणीयो भवति
 तासां,सर्वस्त्रीषूत्तमत्वमिति प्रसिद्धमेव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.34॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -135,12 +140,14 @@ one considers himself successful.
 
 ॥10.34॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -149,12 +156,14 @@ one considers himself successful.
 
 10.34 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.34॥ मृत्युरिति स्पष्टम्। भगवदीयविरोधिजनान् सर्वान् संहरति तथाभूतो
 मृत्युर्मद्विभूतिः। एवमुद्भवोऽपि। नारीणां मध्ये कीर्त्यादयः सप्ताहम्।
@@ -171,20 +180,26 @@ one considers himself successful.
 भगवद्गुणैकनिष्ठा; धृतिः आपत्सु धर्मैकनिष्ठता; क्षमा सर्वातिक्रमसहनरूपा;
 नारीणां मध्ये एता मद्विभूतिरूपाः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.34॥ **मृत्युरिति।** संहारकारिणां मध्ये सर्वहरो मृत्युरहम्।
 भविष्यतां भाविकल्याणानां प्राणिनामुद्भवोऽभ्युदयोऽहम्। नारीणां स्त्रीणां
 मध्ये कीर्त्याद्याः सप्त देवतारूपाः स्त्रियोऽहम्। यासामाभासमात्रयोगेन
 प्राणिनः श्लाघ्या भवन्ति ताः कीर्त्याद्याः स्त्रियो मद्विभूतयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.34 I am also death which snatches all away. I am the origin of all that shall be born. Among women, I am fame, prosperity, speech, memory,
@@ -224,11 +239,13 @@ forgiveness.Commentary I am also the allsnatching death that destroys everything
 the best of the feminine alities. People who have attained slight fame think that they have achieved great success in life and that they have become very big or great men. I am speech which adorns the throne of justice. I am memory which recalls objects and pleasures of the past.The power of the mind which enables one to hold the teachings of the scriptures is Medha. Firmness or Dhriti is the power to keep the body and the senses steady even amidst various kinds of sufferings. The power to keep oneself unattached even while doing actions is Dhriti. It also means courage. Kshama also means endurance.Fame; prosperity; memory;
 intelligence and firmness are the daughters of Daksha. They had been given in marriage to Dhrama and so they are all called Dharmapatnis.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/34_mRtyuH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.34।। सबका हरण करनेवाली मृत्यु और उत्पन्न होनेवालोंका उभ्दव मैं हूँ
@@ -286,6 +303,7 @@ intelligence and firmness are the daughters of Daksha. They had been given in ma
 ।।10.34।। मैं सर्वभक्षक मृत्यु और भविष्य में होने वालों की उत्पत्ति का
 कारण हूँ; स्त्रियों में कीर्ति, श्री, वाक (वाणी), स्मृति, मेधा, धृति और
 क्षमा हूँ।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "15 यं हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 तत्क्षान्तिः किम्-अर्था इत्यत आह - ॥2.15॥**यं पुरुषं** धैर्ययुक्तम् अवर्जनीयदुःखं सुखवन्मन्यमानम् अमृतत्वसाधनतया स्ववर्णोचितं युद्धादिकर्म अनभिसंहितफलं कुर्वाणं तदन्तर्गताः शस्त्रपातादिमृढुक्रूरस्पर्शा **न व्यथयन्ति** स एव अमृतत्वं साधयति न त्वादृशो दुःखासहिष्णुर् इत्यर्थः। अत आत्मनां नित्यत्वाद् एतावद् अत्र कर्तव्यम् इत्यर्थः।  
@@ -40,12 +41,14 @@ title = "15 यं हि"
 
 2.15 That person endowed with courage, who considers pain as inevitable as pleasure, and who performs war and such other acts suited to his station in life without attachment to the results and only as a means of attaining immortality - one whom the impact of weapons in war etc., which involve soft or harsh contacts, do not trouble, that person only attains immortality, not a person like you, who cannnot bear grief. As the selves are immortal, what is to be done here, is this much only. This is the meaning. Because of the immortality of the selves and the natural destructibility of the bodies, there is no cause for grief. It was told (previously): 'The wise grieve neither for the dead nor for the living' (2. 11). Now the Lord elucidates the same view.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.15॥  
   
@@ -243,12 +246,14 @@ Liberation.
 श्रुतेरिति सूचयति। अत्र पुरुषमित्येकवचनेन साङ्ख्यपक्षो निराकृतः। तैः
 पुरुषबहुत्वाभ्युपगमात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.15॥ अतः प्रयोजनमाह यं हीति। यमेते मात्रास्पर्शा न व्यथयन्ति।
 पुरिशयमेव सन्तं शरीरसम्बधाभावे सर्वेषां व्यथाभावात्पुरुषमिति विशेषणम्।
@@ -279,12 +284,14 @@ Liberation.
 दुःखे च प्राप्ते सति तत्कार्ययोरुत्सेकविषादयोः स्तम्भकेन
 प्रयत्नेनेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.16॥ ननु यत एवागमापायिनः सर्वे दशाविशेषास्तत एव शोच्यन्ते मैवम्। तथाहि कोऽयमागमो नाम उत्पत्तिरिति चेत् +++(S नामेति चेत्)+++। सापि का असत आत्मलाभः सा इति त्वसत्। असत्स्वभावता हि निःस्वभावता निरात्मता +++(N omit निरात्मता)+++ निरात्मा निःस्वभावः कथं सस्वभावीकर्तुं शक्यः अनीलं हि न नीलीकर्तुं शक्यम् स्वभावान्तरापत्तेर्दुष्टत्वात्। तथा च शास्त्रम्  
   
@@ -299,12 +306,14 @@ Liberation.
 
 2.15 But, because all these different situations are of the nature of coming and going, on that account itself are they not to be lamented on ; It is not so. As for instance : What is this which is termed 'coming' ; If it is 'birth', what is that 'birth' itself ; It is wrong to say that is the same as gaining the self by what is non-existent. For, to be of the nature of non-existence, is indeed to be devoid of every inherent nature and to be devoid of the very self. If a thing is devoid of the self and devoid of every nature, how is it possible to convert it into what has an intrinsic nature ; Surely, it is impossible to convert the non-blue into blue. For, it is faulty and undesirable to covert the non-blue into blue. For, it is faulty and undesirable to conclude that a thing with certain in nature changes to be of a different nature. Hence the scritpure goes - 'The intrinsic nature of beings would not cease to exist, e.g., the heat of the sun'. On the other hand, if the 'birth' signifies the gaining of self just by what \[really\] exists, even then, why the lamentability on its coming ; For, what has gained a self, could never be non-existent and conseently it would be eternal. Likewise, is the act of 'going' also meant for the existent or the non-existent ; What is non-existent is just non-existent \[for ever.\] How can there be a non-existence-nature even in the case of that which is of the existence-nature ; If it is said that it is of the non-existence-nature in the second moment; \[since its birth\], then it should be so even in the first moment; and so nothing would be existent. For, the intrinsic nature \[ever\] remains unabandoned. But is it not that the destruction of it (i.e., of a given thing, like a pot) is brought about by the stroke of a hammer etc.; Yet, if that destruction is altogether different \[from the existent one i.e. the pot\], then what does it matter for what is existent ; But, it is not be seen \[at that time\] ; Yet, what is actually existent (pot) may not be seen just as when it is covered with a cloth; but it has not turned to be altogether different. In fact, it has been said \[in the scriptures\] that this is not different \[from the existent\]. Summarising all these, \[the Lord\] says -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.15॥ सहनमेवाऽमृतत्वे हेतुरित्याह यं हीति। न व्यथयन्ति धीरं
 सोऽमृतत्वाय क्षमो भवति।
@@ -320,20 +329,26 @@ Liberation.
 भक्तिप्राप्तियोग्यो भवतीत्यर्थः। समदुःखत्वेन तदिच्छया
 सर्वमानन्दरूपमेवाभाति इति व्यञ्जितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.15॥ तत्प्रतीकारप्रयत्नादपि तत्सहनमेवोचितं महाफलत्वादित्याह
 **यमिति।** एते मात्रास्पर्शाः यं पुरुषं न व्यथयन्ति नाभिभवन्ति। समे सुख
 दुःखे यस्य तम्। स तैरविक्षिप्यमाणो धर्मज्ञानद्वारा अमृतत्वाय मोक्षाय
 कल्पते योग्यो भवति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.15 For, he whom these do not affect, O chief of men, and to whom pain and pleasure are the same - that steadfast man alone is worthy of immortality.
@@ -369,11 +384,13 @@ man; पुरुषर्षभ chief among men; समदुःखसुखम
 etc.)Titiksha or the power of endurance develops the willpower. Calm endurance in pleasure and pain; and heat and cold is one of the alifications of an aspirant on the path of Jnana Yoga. It is one of the Shatsampat or sixfold virtues. It is a condition of right knowledge.
 Titiksha by itself cannot give you Moksha or liberation; but still; when coupled with discrimination and dispassion; it becomes a means to the attainment of Immortality or knowledge of the Self. (Cf.XVII.53)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.15।। कारण कि हे पुरुषोंमें श्रेष्ठ अर्जुन! सुख-दुःखमें सम रहनेवाले
@@ -435,6 +452,7 @@ Titiksha by itself cannot give you Moksha or liberation; but still; when coupled
 ।।2.15।। हे पुरुषश्रेष्ठ ! दुख और सुख में समान भाव से रहने वाले जिस धीर
 पुरुष को ये व्यथित नहीं कर सकते हैं वह अमृतत्व (मोक्ष) का अधिकारी होता
 है।।
+</details>
 </details>
 
 </div>

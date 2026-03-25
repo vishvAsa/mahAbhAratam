@@ -23,8 +23,9 @@ title = "19 नान्यङ् गुणेभ्यः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.19॥ एवं सात्त्विकाहारसेवया फलाभिसन्धि-रहित-भगवद्-आराधन-रूप-कर्मानुष्ठानैश् च रजस्-तमसी सर्वात्मना अभिभूय उत्कृष्ट-सत्त्व-निष्ठो **यदा** अयं **द्रष्टा** गुणेभ्यो ऽन्यं कर्तारं **न अनुपश्यति** गुणा एव स्वानुगुण-प्रवृत्तिषु कर्तार इति पश्यति।  
@@ -44,12 +45,14 @@ title = "19 नान्यङ् गुणेभ्यः"
 
 14.19 The seer has in the first place to totally subdue his Rajas and Tamas and stay in pure Sattva. This is accomplished through nourishment by Sattvika food and the performance of disinterested actions for the propitiation of the Lord. He then perceives 'no agent of action other than the Gunas' i.e., sees that the Gunas are themselves the agents according to their nature. Further he perceives what is 'other than the Gunas,' i.e., perceives the Gunas which are agents and the self who is not an agent of action. Such a seer attains to 'My state,' i.e., gains likeness with Me in transcending the three Gunas etc. The purport is this: The self, pure in nature by Itself, gains agency through varius actions by contact with the Gunas springing from past Karmas. When one perceives the self in this way, namely, that the self by Itself is no agent of actions and is of the nature of infinite knowledge, then It attains to My likeness. It is stated that one attains to the likeness of the Lord after perceiving the self as a non-agent and as other than the Gunas. What is meant by the state of likeness to the Lord; Sri Krsna now describes it:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.19॥ --,**न अन्यं** कार्यकरणविषयाकारपरिणतेभ्यः **गुणेभ्यः कर्तारम्** अन्यं **यदा द्रष्टा** विद्वान् सन् न **अनुपश्यति;** गुणा एव सर्वावस्थाः सर्वकर्मणां कर्तारः इत्येवं पश्यति; **गुणेभ्यश्च परं** गुणव्यापारसाक्षिभूतं **वेत्ति; मद्भावं** मम भावं सः द्रष्टा **अधिगच्छति**॥ कथम् अधिगच्छति इति; उच्यते --,
 </details>
@@ -135,12 +138,14 @@ being stated:
 तद्भासकमादित्यमिव जलतत्कम्पाद्यसंस्पृष्टं निर्विकारं सर्वसाक्षिणं
 सर्वत्र समं क्षेत्रज्ञमेकं वेत्ति मद्भावं मद्रूपतां स द्रष्टाधिगच्छति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.19 -- 14.20॥ परिणामिकर्त्तारं गुणेभ्योऽन्यं न पश्यति। अन्यथा यदा
 पश्यः पश्यते रुक्मवर्णं कर्तारमीशं पुरुषं ब्रह्मयोनिम् \[मुण्ड.3।1।3\]
@@ -156,12 +161,14 @@ being stated:
 कर्तृत्वाभावे। मोक्षधर्मे परमेश्वरस्य कर्तृत्वमुक्तं तद्विरोधश्चेति
 वाक्यशेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.16 -- 14.20॥ कर्मण इत्यादि अश्नुते इत्यन्तम्। अत्र केचिदसंबद्धाः श्लोकाः कल्पिताः; पुनरुक्तत्वात् ( पुनरुक्तार्थत्वात्) ते त्याज्या एव। एतद्गुणातीतवृत्तिस्तु +++(N गुणातीतश्रुतिस्तु)+++ मोक्षायैव कल्पते।
 </details>
@@ -170,12 +177,14 @@ being stated:
 
 14.19 See Comment under 14.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.19 -- 14.20॥ एवं गुणसर्गभेदोक्तौ पुरुषस्य सर्वस्य
 बन्धलीलामुपपाद्येदानीं तद्विवेकतो गुणात्ययद्वारा मोक्षलीलामाहू
@@ -200,10 +209,13 @@ being stated:
 तद्रूपेणाऽऽविर्भूतम् अनु तद्वदेव यथा भगवान् स्वात्मकमेव पश्यति तथा
 पश्यति; नान्यं कञ्चन पश्यति स मद्भावं प्राप्नोति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.19॥ तदेवं प्रकृतिगुणसङ्गकृतं संसारं प्रपञ्चमुक्त्वा इदानीं
 तद्विवेकतो मोक्षं दर्शयति **-- नान्यमिति**। यदा तु द्रष्टा विवेकी
@@ -211,10 +223,13 @@ being stated:
 अपितु गुणा एव कर्माणि कुर्वन्तीति पश्यति; गुणेभ्यश्च परं व्यतिरिक्तं
 तत्साक्षिणमात्मानं वेत्ति स तु मद्भावं ब्रह्मत्वमधिगच्छति प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.19 When the seer beholds no agent of action other than the Gunas, and knows what transcends the Gunas, he attains to My state.
@@ -250,11 +265,13 @@ and; परम् higher; वेत्ति knows; मद्भावम् My 
 (liberation); i.e.; becomes identical with Me. He becomes a Gunatita;
 i.e.; one who has transcended the three Gunas.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.19।। जब विवेकी (विचारकुशल) मनुष्य तीनों गुणोंके सिवाय अन्य किसीको
@@ -344,6 +361,7 @@ i.e.; one who has transcended the three Gunas.
 ।।14.19।। जब द्रष्टा (साधक) पुरुष तीनों गुणों के अतिरिक्त किसी अन्य को
 कर्ता नहीं देखता, अर्थात् नहीं समझता है और तीनों गुणों से परे मेरे तत्व
 को जानता है, तब वह मेरे स्वरूप को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

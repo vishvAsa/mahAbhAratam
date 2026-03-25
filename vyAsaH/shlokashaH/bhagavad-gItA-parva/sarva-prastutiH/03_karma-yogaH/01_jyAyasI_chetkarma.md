@@ -26,8 +26,9 @@ title = "01 ज्यायसी चेत्कर्मणस्ते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.1॥ अर्जुन उवाच  
@@ -153,12 +154,14 @@ title = "01 ज्यायसी चेत्कर्मणस्ते"
 (Karma) leads to it; It was said before that this firm devotion to knowledge, which forms the means for the vision of the self, could arise by the cessation of the activities of all the senses and the mind in relation to their respective objects such as sound. If the vision of the self is to be attained, which arises by the cessation of the activities of the senses, I should be guided to engage myself solely to acire firm devotion to knowledge, which is preceded by the abandoning of all works.
 For what purpose, then, do you engage me in this terrible deed, which consists in the activities of all the senses, and is thus an obstacle for the vision of the self;
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.1॥ **ज्यायसी** श्रेयसी **चेत्** यदि **कर्मणः** सकाशात् **ते** तव **मता** अभिप्रेता **बुद्धिः** ज्ञानं हे **जनार्दन**। यदि बुद्धिकर्मणी समुच्चिते इष्टे तदा एकं श्रेयःसाधनमिति कर्मणो ज्यायसी बुद्धिः इति कर्मणः अतिरिक्तकरणं बुद्धेरनुपपन्नम् अर्जुनेन कृतं स्यात् न हि तदेव तस्मात् फलतोऽतिरिक्तं स्यात्। तथा च कर्मणः श्रेयस्करी भगवतोक्ता बुद्धिः अश्रेयस्करं च कर्म कुर्विति मां प्रतिपादयति तत् किं नु कारणमिति भगवत उपालम्भमिव कुर्वन् **तत् किं** कस्मात् **कर्मणि घोरे** क्रूरे हिंसालक्षणे **मां नियोजयसि** **केशव** इति च यदाह तच्च नोपपद्यते। अथ स्मार्तेनैव कर्मणा समुच्चयः सर्वेषां भगवता उक्तः अर्जुनेन च अवधारितश्चेत् तत्किं कर्मणि घोरे मां नियोजयसि (गीता 3.1) इत्यादि कथं युक्तं वचनम्॥ किञ्च
 </details>
@@ -514,12 +517,14 @@ you urge me to horrible action', be rational; Besides,
 सर्वेश्वर सर्वेश्वरस्य सर्वेष्टदायिनस्तव मां भक्तंशिष्यस्तेऽहं शाधि माम्
 इत्यादिना त्वदेकशरणतयोपसन्नंप्रति प्रतारणा नोचितेत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.1॥ आत्मस्वरूपं ज्ञानसाधनं चोक्तं पूर्वत्र। ज्ञानसाधनत्वेनाकर्म
 विनिन्द्य कर्म विधीयत उत्तराध्याये। कर्मणो ज्ञानमत्युत्तममित्यभिहितं
@@ -570,12 +575,14 @@ you urge me to horrible action', be rational; Besides,
 षष्ठीभ्रान्तिनिरासाय सकाशादित्युक्तम्। बुद्धिरात्मज्ञानम्। ज्यायसी
 प्रशस्ततरा।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.1 3.2॥ ज्यायसीति। व्यामिश्रेणेति। कर्म उक्तं ज्ञानं च। तत्र न द्वयोः प्राधान्यं युक्तम् अपि तु ज्ञानस्य। तद्बलेन क्षपणीयत्वं यदि कर्मणां बुद्धियुक्तो जहातीमे +++(II 52)+++ इत्यादिनयेन मूलत एव तर्हि +++(K तत्)+++ कर्मणां +++(S K कर्मणा)+++ किं प्रयोजनमिति प्रश्नाभिप्रायः।
 </details>
@@ -584,12 +591,14 @@ you urge me to horrible action', be rational; Besides,
 
 3.1 See Comment under 3.2
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.1॥ अथाष्टभिस्त्रयीधर्मो माहात्म्यज्ञानभक्तिकृत्। पार्थाय श्रीभगवता
 मर्यादा वचसोच्यते॥1॥  
@@ -624,10 +633,13 @@ you urge me to horrible action', be rational; Besides,
 कर्म कारयित्वाऽपि चेन्मोक्षं दातुमिच्छसि तदा कर्तव्यमेवेति भावो
 व्यञ्जितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/01_jyAyasI_chetkarma.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/01_jyAyasI_chetkarma.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.1॥ एवं तावत्अशोच्यानन्वशोचस्त्वम् इत्यादिना प्रथमं मोक्षसाधनत्वेन
 देहात्मविवेकबुद्धिरुक्ता। तदनन्तरंएषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे
@@ -640,10 +652,13 @@ you urge me to horrible action', be rational; Besides,
 तर्हि किमर्थं तद्युध्यस्वेति तस्मादुत्तिष्ठेति च वारंवारं वदन्घोरे
 हिंसात्मके कर्मणि मां नियोजयसि प्रवर्तयसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.1 Arjuna said If, O Krsna, you consider that Buddhi (knowledge) is superior to works, why do you engage me in this terrible deed;
@@ -676,11 +691,13 @@ thought; बुद्धिः knowledge; जनार्दन O Janardana; त
 कर्मणि in action; घोरे terrible; माम् me; नियोजयसि Thou engagest; केशव O Kesava.Commentary In verses 49; 50 and 51 of chapter II; Lord Krsihna has spoken very highly about Buddhi Yoga. He again asks Arjuna to fight.
 That is the reason why Arjuna is perplexed now.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.1 -- 3.2।। अर्जुन बोले -- हे जनार्दन! अगर आप कर्मसे बुद्धि- (ज्ञान-)
@@ -727,6 +744,7 @@ That is the reason why Arjuna is perplexed now.
 
 ।।3.1।। हे जनार्दन यदि आपको यह मान्य है कि कर्म से ज्ञान श्रेष्ठ है तो
 फिर हे केशव आप मुझे इस भयंकर कर्म में क्यों प्रवृत्त करते हैं
+</details>
 </details>
 
 </div>

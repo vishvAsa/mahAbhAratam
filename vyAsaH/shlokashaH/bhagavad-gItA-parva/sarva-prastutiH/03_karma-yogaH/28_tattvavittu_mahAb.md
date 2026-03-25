@@ -23,8 +23,9 @@ title = "28 तत्त्ववित्तु महाबाहो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.28॥**गुण-कर्म-विभागयोः** सत्त्वादि-गुण-विभागे तत्-तत्-कर्म-विभागे **च**  
@@ -69,12 +70,14 @@ title = "28 तत्त्ववित्तु महाबाहो"
 
 3.28 But he who knows the truth about the divisions of the Gunas and their actions - namely, about the division among Sattva etc., on the one hand, and the divisions among their respective functionings on the other hand - it is he who, realising that Gunas, i.e., Sattva etc., are operating on their own products, is not attached to the actions of the Gunas, being convinced, 'I am not the doer.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.28॥ **तत्त्ववित् तु महाबाहो**। कस्य तत्त्ववित् **गुणकर्मविभागयोः** गुणविभागस्य कर्मविभागस्य च तत्त्ववित् इत्यर्थः। **गुणाः** करणात्मकाः **गुणेषु** विषयात्मकेषु **वर्तन्ते** न आत्मा **इति मत्वा** **न** **सज्जते** सक्तिं न करोति॥ ये पुनः
 </details>
@@ -208,12 +211,14 @@ of the organs.'
 वा। अस्मिन्पक्षे गुणकर्मणोरित्येतावतैव निर्वाहे विभागपदस्य प्रयोजनं
 चिन्त्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.28॥ कर्मभेदस्य गुणभेदस्य च तत्त्ववित्। गुणा इन्द्रियादीनि गुणेषु
 विषयेषु।
@@ -237,12 +242,14 @@ of the organs.'
 विवक्षितो ग्रन्थान्तरादवगन्तव्यः। गुणा गुणेष्विति पदद्वयस्य
 विवक्षितमर्थमाह **गुणा** इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.28॥ तत्त्ववित्त्विति। गुणकर्मविभागवित्तु प्रकृतिः करोति मम किमायातम् इत्यात्मानं मोचयति।
 </details>
@@ -251,12 +258,14 @@ of the organs.'
 
 3.28 Tattvavit tu etc. On the other hand, the knower of the real nature of divisions of the Strands and of their actions, sets himself free by viewing 'The Prakrti acts; what comes to men ;' The ignorant men have been described as being attached to action (above III, 26). That attachment \[of theirs, the Lord\] demonstrates :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.27 3.28॥ कर्म कुर्वतोर्विद्वदविदुषोर्विशेषं स्पष्टं सन्दर्शयति
 प्रकृतेरिति द्वाभ्याम्। प्रकृते योगे साङ्खयरीत्या विशेषदर्शनमिति
@@ -282,10 +291,13 @@ of the organs.'
 अत्रायं भावः -  
 **गुणास्** तु भगवता सात्त्विकादि-भाव-भिन्न-विचित्र-स्वरस-भोगार्थं प्रकटी-कृताः। अत एव व्रज-विलासिनीषु सात्त्विकादिगुणा निरूपिताः श्रीभागवते। **कर्म** तु लोकसङ्ग्राहार्थं कार्यते। तथा चैतद्-विभाग--तत्त्व-वित् **गुणा** जीवस्था **गुणेषु** भगवद्-गुणेषु वर्त्तन्ते - प्रभुः स्वरस-भोगार्थं गुणभावैस् तद्-उपयोगि-कर्माणि कारयति। अन्यानि कर्माणि तु लोकार्थं कारयतीति मत्वा मूढवद् एवाहम् एव कर्ता, तत्फलं मम भविष्यतीति न सज्जत इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/28_tattvavittu_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/28_tattvavittu_mahAb.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.28॥ विद्वांस्तु तथा न मन्यत इत्याह **तत्त्वविदिति।** नाहं गुणात्मक
 इति गुणेभ्य आत्मनो विभागः। न मे कर्माणीति कर्मभ्योऽप्यात्मनो
@@ -293,10 +305,13 @@ of the organs.'
 कर्तृत्वाभिनिवेशं न करोति। तत्र हेतुः। गुणा इन्द्रियाणि गुणेषु विषयेषु
 वर्तन्ते नाहमिति मत्वा।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.28 But he who knows the truth about the division of the Gunas and works, O mighty-armed one, through his knowledge that 'Gunas operate on their products,' is not attached.
@@ -330,11 +345,13 @@ realises : 'The Strands are at their \[respective\] purposes' And hence he is no
 सज्जते is attached.Commentary He who knows the truth that the Self is entirely distinct from the three Gunas and actions does not become attached to the actions. He who knows the truth about the classification of the Gunas and their respective functions understands that the alities as senseorgans move amidst the alities as senseobjects. Therefore he is not attached to the actions. He knows; I am Akarta -- I am not the doer.
 (Cf.XIV.23).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.28।। हे महाबाहो! गुण-विभाग और कर्म-विभागको तत्त्वसे जाननेवाला
@@ -399,6 +416,7 @@ realises : 'The Strands are at their \[respective\] purposes' And hence he is no
 ।।3.28।। परन्तु हे महाबाहो ! गुण और कर्म के विभाग के सत्य (तत्त्व)को
 जानने वाला ज्ञानी पुरुष यह जानकर कि "गुण गुणों में बर्तते हैं" (कर्म
 में) आसक्त नहीं होता।।
+</details>
 </details>
 
 </div>

@@ -26,8 +26,9 @@ title = "37 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.37॥ श्रीभगवानुवाच अस्य उद्भवाभिभवरूपेण वर्तमानगुणमयप्रकृतिसंसृष्टस्य प्रारब्धज्ञानयोगस्य **रजोगुणसमुद्भवः** प्राचीनवासनाजनितः शब्दादिविषयो ऽयं **कामो महाशनः** शत्रुः सर्वविषयेष्व् एनम् आकर्षति। **एष** एव प्रतिहतगतिः प्रतिहननहेतुभूतचेतनान् प्रति **क्रोध**रूपेण परिणतो **महापाप्मा** परहिंसादिषु प्रवर्तयति **एनं** रजोगुणसमुद्भवं सहजं ज्ञानयोगविरोधिनं **वैरिणं विद्धि।**
@@ -42,12 +43,14 @@ title = "37 श्री भगवानुवाच"
 
 3.37 The Lord said The highly ravenous desire is born of the Guna Rajas originating from old subtle impressions. It has for its objects sound and other sense contacts. It is a foe to him who is practising Jnana Yoga, as he is joined with Prakrti constituted of the Gunas which rise and subside periodically. It attracts him towards the objects of the senses. It is this desire alone which, when hampered, develops into anger towards those persons who are the cause of such hindrance. It is a powerful cause of sin. It incites the aspirant to do harm to others. Know this, which is born of the Guna called Rajas, as the natural enemy of Jnana Yogins.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.37॥ ऐश्वर्यस्य समग्रस्य धर्मस्य यशसः श्रियः। वैराग्यस्याथ मोक्षस्य षण्णां भग इतीरणा (विष्णु पु0 6।5।74) ऐश्वर्यादिषट्कं यस्मिन् वासुदेवे नित्यमप्रतिबद्धत्वेन सामस्त्येन च वर्तते उत्पत्तिं प्रलयं चैव भूतानामागतिं गतिम्। वेत्ति विद्यामविद्यां च स वाच्यो भगवानिति (विष्णु प0 6।5।78) उत्पत्त्यादिविषयं च विज्ञानं यस्य स वासुदेवः वाच्यः भगवान् इति॥**काम एषः** सर्वलोकशत्रुः यन्निमित्ता सर्वानर्थप्राप्तिः प्राणिनाम्। स एष कामः प्रतिहतः केनचित् क्रोधत्वेन परिणमते। अतः **क्रोधः** अपि **एष** एव **रजोगुणसमुद्भवः** रजश्च तत् गुणश्च रजोगुणः सः समुद्भवः यस्य सः कामः **रजोगुणसमुद्भवः** रजोगुणस्य वा समुद्भवः। कामो हि उद्भूतः रजः प्रवर्तयन् पुरुषं प्रवर्तयति तृष्णया हि अहं कारितः इति दुःखिनां रजःकार्ये सेवादौ प्रवृत्तानां प्रलापः श्रूयते। **महाशनः** महत् अशनं अस्येति महाशनः अत एव **महापाप्मा** कामेन हि प्रेरितः जन्तुः पापं करोति। अतः **विद्धि एनं** कामम् इह संसारे **वैरिणम्**॥ कथं वैरी इति दृष्टान्तैः प्रत्याययति
 </details>
@@ -189,12 +192,14 @@ the help of examples the Lord explains how it is an enemy:
 चेष्टितम्॥ काम एष क्रोध एष इत्यादिवचनं स्मृतेः। प्रवर्तको नापरोऽतः
 कामादन्यः प्रतीयते इतिअकामतः इति मनुवचनम्। अन्यत्स्पष्टम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.37॥ यस्तु बलवान् प्रवर्तकः स एष कामः। क्रोधोऽप्येष एव
 तज्जन्यत्वात्। कामात्क्रोधोऽभिजायते 2।62 इति ह्युक्तम्। यत्रापि
@@ -227,12 +232,14 @@ the help of examples the Lord explains how it is an enemy:
 महच्छब्दात्परतः पापशब्दोऽध्याहार्यः। वधादिकर्तृत्वाभावात्कथं वैरित्वं
 इत्यत आह सर्वेति सर्वः सम्पूर्णः पुरुषार्थो मोक्षः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.37॥ अत्र उत्तरं सत्यपि धर्मे हृदिस्थे आगन्तुकावरणकृतोऽयं +++(N काचरणकृ )+++ विप्लवो न तु तदभवकृतः +++(N तदभावप्लुतः)+++ इत्याशयेन। काम एष इति। द्वाभ्यामेतच्छब्दाभ्यामनयोरत्यन्तावैषम्यं +++(S अत्यन्तवैषम्यम्)+++ सूच्यते। एतौ च कामक्रोधौ नित्यसंबन्धिनौ अन्योन्याविनाभावेन वर्तेते इत्येकरुपतयैव व्याचष्टे। एष च महस्य सुखस्य अशनः ग्रासकारकः महतः पापस्य हेतुत्त्वाच्च क्रोध एव पापदायी। एनं च वैरिणं प्राज्ञो जानीयात्।
 </details>
@@ -241,12 +248,14 @@ the help of examples the Lord explains how it is an enemy:
 
 3.37 Kama esah etc. A total absence of difference among these two (desire and wrath) is indicated by the word esah 'this' twice uttered. These desire and wrath are ever interrelated and remain in an inseparable mutual co-existence. Hence \[the Lord\] well describes them only as identical. This is a swallower i.e., a devouer of the morsel of festival i.e., the happiness. The wrath alone is a bestower of sins as it is the cause of great sins. This is man of intelligence should view to be an enemy.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.37॥ तत्रोत्तरम् काम एष इति। रागपूर्वावतारः कामः तत्तदिच्छास्वरूप
 एवात्र हेतुः प्रवर्त्तकः द्वेषपूर्वावतारश्च तत्परिणामभूतः क्रोध
@@ -273,10 +282,13 @@ the help of examples the Lord explains how it is an enemy:
 विद्धि। इह इतिपदादेतद्देहावसाने सति अलौकिकेऽयमेव कार्याय भविष्यतीति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.37॥ अत्रोत्तरं श्रीभगवानुवाच **काम एष इति।** यस्त्वया पृष्टो हेतुरेष
 काम एव। ननु क्रोधोऽपि पूर्वं त्वयोक्तःइन्द्रियस्येन्द्रियस्य इत्यत्र।
@@ -288,10 +300,13 @@ the help of examples the Lord explains how it is an enemy:
 नासौ दानेन संधातुं शक्य इत्याह। महाशनः महदशनं यस्य। दुष्पूर इत्यर्थः। न
 च साम्ना संधातुं शक्यः यतो महापाप्मा अत्युग्रः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.37 The Lord said It is desire, it is wrath, born of the Guna of Rajas;
@@ -328,11 +343,13 @@ and Bala (might). He who possesses these six attributes and who has a perfect kn
 it generates Rajas and urges the man to work in order to possess the object. Therefore; know that this desire is mans foe on this earth.
 (Cf.XVI.21).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.37।। श्रीभगवान् बोले - रजोगुणसे उत्पन्न हुआ यह काम ही क्रोध है। यह
@@ -395,6 +412,7 @@ it generates Rajas and urges the man to work in order to possess the object. The
 ।।3.37।। श्रीभगवान् ने कहा -- रजोगुण में उत्पन्न हुई यह 'कामना' है, यही
 क्रोध है; यह महाशना (जिसकी भूख बड़ी हो) और महापापी है, इसे ही तुम यहाँ
 (इस जगत् में) शत्रु जानो।।
+</details>
 </details>
 
 </div>

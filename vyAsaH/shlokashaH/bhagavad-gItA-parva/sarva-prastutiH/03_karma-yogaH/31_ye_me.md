@@ -23,8 +23,9 @@ title = "31 ये मे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 अयम् एव साक्षाद् उपनिषत्-सार-भूतो ऽर्थ इत्याह -
@@ -45,12 +46,14 @@ title = "31 ये मे"
 ('even they from Karmas'), these men are divided into three groups. The
 meaning is that those who, even if they do not act upon the meaning but still believe in this meaning of the Sastras and do not cavil at it, will be cleansed of their evil by their faith and freedom from fault-finding. For, if they have faith they will, before long, take to the practice of this very meaning of the Sastras and be freed. Sri Krsna now speaks of the evil that will befall those who do not practice this instruction of the Upanisads, i.e., those who are faithless and who cavil at it.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.31॥ **ये मे** मदीयम् **इदं मतं** नित्यम् **अनुतिष्ठन्ति** अनुवर्तन्ते **मानवाः** मनुष्याः **श्रद्धावन्तः** श्रद्दधानाः **अनसूयन्तः** असूयां च मयि परमगुरौ वासुदेवे अकुर्वन्तः **मुच्यन्ते तेऽपि** एवंभूताः **कर्मभिः** धर्माधर्माख्यैः॥
 </details>
@@ -114,12 +117,14 @@ karmabhih, from actions called the righteous and the unrighteous.
 सत्त्वशुद्धिज्ञानप्राप्तिद्वारेण सम्यक् ज्ञानिवन्मुच्यन्ते
 कर्मभिर्धर्माधर्माख्यैः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.31 3.32॥ फलमाह ये म इति। ये त्वेवं निवृत्तकर्मिणस्तेऽपि मुच्यन्ते
 ज्ञानद्वारा किम्वपरोक्षज्ञानिनः न तु साधनान्तरमुच्यते। निवृत्तादीनि
@@ -147,12 +152,14 @@ karmabhih, from actions called the righteous and the unrighteous.
 द्वितीयमपि प्रकारमतिदेशेन निराचष्टे **अत एवे**ति। अपरोक्षेशदृष्टिस्तु
 मुक्तौ किञ्चिन्न मार्गते इत्युक्तत्वादेवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.31 3.32॥ ये म इति। ये त्वेतदिति। एतच्च मतमाश्रित्य यः कश्चित् यत्किंचित् करोति तत्तस्य न बन्धकम्। एतस्मिंस्तु ज्ञाने ये न श्रद्धालवः ( श्रद्धालवाः) ते विनष्टाः अविरतं जन्ममरणादि +++(S omitsआदि)+++ भयभावितत्त्वात्।
 </details>
@@ -161,12 +168,14 @@ karmabhih, from actions called the righteous and the unrighteous.
 
 3.31 See Comment under 3.32
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.31॥ एवं कर्मानुष्ठाने गुणमाह ये मे मतमिति। तेऽपि कर्मभिरेव कृत्वा
 कर्मतो वा मुक्तिं प्राप्नुवन्तीत्यर्थः।
@@ -185,20 +194,26 @@ karmabhih, from actions called the righteous and the unrighteous.
 कर्मभिस्तज्जन्यफलभोगैर्मुच्यन्ते। मदाज्ञया
 कृतत्वान्मदुक्तिविश्वासतोऽन्यकर्माण्यपि मोक्षसाधकान्येव भवन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/31_ye_me.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/31_ye_me.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.31॥ एवं कर्मानुष्ठाने गुणमाह **ये मे मतमिति।** मद्वाक्ये
 श्रद्धावन्तः अनसूयन्तः दुःखात्मके कर्मणि प्रवर्तयतीति
 दोषदृष्टिमकुर्वन्तश्च। ये मे मदीयमिदं मतमनुतिष्ठन्ति तेऽपि शनैः
 कर्मकुर्वाणाः सम्यग्ज्ञानिवत्कर्मभिर्मुच्यन्ते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.31 Those men who, full of faith, ever practise this teaching of Mine and those who receive it without cavil - even they are released from Karma.
@@ -231,11 +246,13 @@ karmabhih, from actions called the righteous and the unrighteous.
 not cavilling; मुच्यन्ते are freed; ते they; अपि also; कर्मभिः from actions.Commentary Sraddha is a mental attitude. It means faith. It is faith in ones own Self; in the scriptures and in the teachings of the spiritual preceptor. It is compund of the higher emotion of faith;
 reverence and humility.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/31_ye_me.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.31।। जो मनुष्य दोष-दृष्टिसे रहित होकर श्रद्धापूर्वक मेरे इस
@@ -325,6 +342,7 @@ reverence and humility.
 ।।3.31।। जो मनुष्य दोष बुद्धि से रहित (अनसूयन्त:) और श्रद्धा से युक्त
 हुए सदा मेरे इस मत (उपदेश) का अनुष्ठानपूर्वक पालन करते हैं, वे कर्मों से
 (बन्धन से) मुक्त हो जाते हैं।।
+</details>
 </details>
 
 </div>

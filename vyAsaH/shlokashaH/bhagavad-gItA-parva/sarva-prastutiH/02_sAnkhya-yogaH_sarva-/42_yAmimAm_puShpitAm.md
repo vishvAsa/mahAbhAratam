@@ -24,8 +24,9 @@ title = "42 यामिमाम् पुष्पिताम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 अग्रिमे टीका दृश्या।
@@ -44,12 +45,14 @@ title = "42 यामिमाम् पुष्पिताम्"
 
 2.42 - 2.44 The ignorant, whose knowledge is little, and who have as their sole aim the attainment of enjoyment and power, speak the flowery language i.e., having its flowers (show) only as fruits, which look apparently beautiful at first sight. They rejoice in the letter of the Vedas i.e., they are attached to heaven and such other results (promised in the Karma-kanda of the Vedas). They say that there is nothing else, owing to their intense attachment to these results. They say that there is no fruit superior to heaven etc. They are full of worldly desires and their minds are highly attached to secular desires. They hanker for heaven, i.e. think of the enjoyment of the felicities of heaven, after which one can again have rirth which offers again the opportunity to perform varied rites devoid of true knowledge and leads towards the attainment of enjoyments and power once again. With regard to those who cling to pleasure and power and whose understanding is contaminated by that flowery speech relating to pleasure and lordly powers, the aforesaid mental disposition characterised by resolution, will not arise in their Samadhi. Samadhi here means the mind. The knowledge of the self will not arise in such minds. In the minds of these persons, there cannot arise the mental disposition that looks on all Vedic rituals as means for liberation based on the determined conviction about the real form of the self. Hence, in an aspirant for liberation, there should be no attachment to rituals out of the conviction that they are meant for the acisition of objects of desire only. It may be estioned why the Vedas, which have more of love for Jivas than thousands of parents, and which are endeavouring to save the Jivas, should prescribe in this way rites whose fruits are infinitesimal and which produce only new births. It can also be asked if it is proper to abandon what is given in the Vedas. Sri Krsna replies to these estions.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.42॥  
   
@@ -208,12 +211,14 @@ transmigration. This is the idea.
   
 फलवैलक्षण्यम्। विस्तरेण चैतदग्रे प्रतिपादयिष्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.42॥ स्युरवैदिकानि मतानि अव्यवसायात्मकानि न तु वैदिकानि। तेऽपि हि
 केचित्कर्माणि स्वर्गादिफलान्येवाहुरित्यत आह यामिमामिति।
@@ -245,12 +250,14 @@ transmigration. This is the idea.
 अतएव प्राय इत्याह **देवा** वेदाभिमानिनः। तत्प्रकारसूचनार्थं मां विधत्त
 इत्याद्युदाहृतम्। वदन्ति वेदाः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 2.44 इत्यत्र दृश्यताम्।
 </details>
@@ -259,12 +266,14 @@ transmigration. This is the idea.
 
 2.42 See Comment under 2.44
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.42॥ अव्यवसायिनां बुद्धिभेदं निरूपयति यामिमामिति। जैमिनीया वेदवाचं
 सर्वकाण्डरूपां सर्वां पुष्पितां प्रकर्षेण कर्तृकर्मफलभावेन युक्तां
@@ -287,10 +296,13 @@ transmigration. This is the idea.
 निष्कामतया ते तथा अत एव नान्यदस्तीति वादिनः वेदोक्तव्यतिरिक्तं कर्मफलं
 नास्तीति वदनशीलाः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.42॥ ननु कामिनोऽपिकष्टान्कामान्विहाय व्यवसायात्मिकामेव बुद्धिं किं न
 कुर्वन्ति तत्राह **यामिति।** पुष्पितां विषलतावदापातरमणीयां प्रकृष्टां
@@ -301,10 +313,13 @@ transmigration. This is the idea.
 इत्याद्यास्तेष्वेव रताः प्रीताः। अतएव अतः परमन्यदीश्वरतत्त्वं प्राप्यं
 नास्तीति वचनशीलाः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.42 - 2.44 O! Partha, the unwise, who rejoice in the letter of the Vedas, say, 'There is nothing else.' They are full only of wordly desires and they hanker for heaven. They speak flowery words which offer rirth as the fruit of work. They look upon the Vedas as consisting entirely of varied rites for the attainment of pleasure and power. Those who cling so to pleasure and power are attracted by that speech
@@ -340,11 +355,13 @@ They say that there is nothing else beyond the sensual enjoyments in Svarga (hea
 Karma Kanda (the section dealing with action) and Jnana Kanda (the section dealing with knowledge). The Karma Kanda comprises the Brahmanas and the Samhitas. This is the authority for the Purvamimamsa school founded by Jaimini. The followers of this school deal with rituals and prescribe many of them for attaining enjoyments and power here and happiness in heaven. They regard this as the ultimate object of human existence. Ordinary people are attracted by their panegyrics. The Jnana Kanda comprises the Aranyakas and the Upanishads which deal with the nature of Brahman or the Supreme Self.Life in heaven is also transitory.
 After the fruits of the good actions are exhausted; one has to come back to this earthplane. Liberatio or Moksha can only be attained by knowledge of the Self but not by performing a thousand and one sacrifices.Lord Krishna assigns a comparatively inferior position to the doctrine of the Mimamsakas of performing Vedic sacrifices for obtaining heaven; power and lordship in this world as they cannot give us final liberation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.42 -- 2.43।। हे पृथानन्दन ! जो कामनाओंमें तन्मय हो रहे हैं, स्वर्गको
@@ -410,6 +427,7 @@ After the fruits of the good actions are exhausted; one has to come back to this
 ।।2.42।। हे पार्थ अविवेकी पुरुष वेदवाद में रमते हुये जो यह पुष्पिता
 (दिखावटी शोभा की) वाणी बोलते हैं; इससे (स्वर्ग से) बढ़कर और कुछ नहीं
 है।।।
+</details>
 </details>
 
 </div>

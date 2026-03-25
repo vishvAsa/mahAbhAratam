@@ -24,8 +24,9 @@ title = "11 सर्वद्वारेषु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.11॥ सर्वेषु चक्षुरादिषु ज्ञान**द्वारेषु यदा** वस्तुयाथात्म्यप्रकाशे **ज्ञानम् उपजायते;** **तदा अस्मिन् देहे सत्त्वं प्रवृद्धम् इति विद्यात्।**
@@ -40,12 +41,14 @@ title = "11 सर्वद्वारेषु"
 
 14.11 When the light of knowledge shines revealing the truth of things emerging through all the gateways of knowledge such as the eyes etc., in the body, one should know that Sattva is prevailing.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.11॥ --,**सर्वद्वारेषु;** आत्मनः उपलब्धिद्वाराणि श्रोत्रादीनि सर्वाणि करणानि; तेषु सर्वद्वारेषु अन्तःकरणस्य बुद्धेः वृत्तिः **प्रकाशः देहे अस्मिन् उपजायते।** तदेव **ज्ञानम्। यदा** एवं प्रकाशो ज्ञानाख्यः उपजायते; **तदा** ज्ञानप्रकाशेन लिङ्गेन **विद्यात् विवृद्धम्** उद्भूतं **सत्त्वम् इति उत** अपि॥ रजसः उद्भूतस्य इदं चिह्नम् --,
 </details>
@@ -109,12 +112,14 @@ the characteristics of rajas when it has become prominent:
 प्रकाशात्मकं सत्त्वं विवृद्धमुद्भूतमिति विद्याज्जानीयात् उत अपि
 सुखादिलिङ्गेनापि जानीयादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.11॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -123,12 +128,14 @@ the characteristics of rajas when it has become prominent:
 
 ॥14.11॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.11 -- 14.13॥ सर्वेत्यादि कुरुनन्दनेत्यन्तम्। सर्वद्वारेषु; सर्वेन्द्रियेषु। लोभादयः +++(S लोकादिकाः)+++ क्रमेणैव रजस्युद्रिच्यमाने जायन्ते। एवमप्रकाशादय क्रमेणैव तमोविवृद्धौ ( तमोवृद्धौ) आविर्भवन्ति।
 </details>
@@ -137,12 +144,14 @@ the characteristics of rajas when it has become prominent:
 
 14.11 See Comment under 14.13
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.11॥ एतच्च कार्योपलब्ध्यै वाऽवगच्छेदित्याह -- सर्वद्वारेष्विति।
 श्रोत्रादिषु अस्मिन् भोगायतने शब्दादिज्ञानात्मकः प्रकाश उपपद्यते; ज्ञानं
@@ -159,10 +168,13 @@ the characteristics of rajas when it has become prominent:
 श्रोत्रद्वारेण भगवत्कथाश्रवणात्मकः; वचनद्वारेण च कीर्तनात्मकः;
 प्रसादग्रहणात्मकः; नासाद्वारेण च गन्धादिग्रहणम्। एवं सर्वत्रेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.11॥ इदानीं सत्त्वादीनां वृद्धानां लिङ्गान्याह त्रिभिः **--
 सर्वद्वारेष्विति**। अस्मिन्नात्मनो भोगायतने देहे सर्वेष्वपि द्वारेषु
@@ -170,10 +182,13 @@ the characteristics of rajas when it has become prominent:
 प्रकाशलिङ्गेन सत्त्वं विवृद्धं विद्याज्जानीयत्।
 उतशब्दात्सुखादिलिङ्गेनापि जानीयादित्युक्तम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.11 When knowledge as light illumines from all gateways (i.e., the senses), then, one should know that Sattva prevails.
@@ -214,11 +229,13 @@ inner harmony; perfect serenity and tranillity. There is clarity or clear vision
 The senses will not run towards external objects.The senses are the avenues of senseknowledge. They are the gateways of perception for the Self. When light shines in all the gates of the body; such as the eyes;
 the ears; etc. (in other words when there is the manifestation of the BuddhiVritti of the Antahkarana); then knowledge arises. You can understand by the mark of knowledge that Sattva is predominant. You can also know that Sattva is increasing by the mark of happiness. Just as the aspirant knows that Sattva is predominant in him by the marks of knowledge and happiness; so also he knows by the mark of knowledge that Rajas and Tamas are gradually decreasing.The ears shun whatever is improper to be heard. The eyes abandon what they should not look at. The tongue avoids to speak anything that is not right to speak of. The mind is not attracted by the sensual objects. Purity thus increases gradually by Japa; meditation; and selfrestraint. If there is increase of Sattva or harmony; there is also increase of knowledge. Sattva is the only sure means for the attainment of the knowledge of the Self. It lays the foundation of knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.11।। जब इस मनुष्यशरीरमें सब द्वारों-(इन्द्रियों और अन्तःकरण-) में
@@ -324,6 +341,7 @@ the ears; etc. (in other words when there is the manifestation of the BuddhiVrit
 
 ।।14.11।। जब इस देह के द्वारों अर्थात् समस्त इन्द्रियों में ज्ञानरूप
 प्रकाश उत्पन्न होता है, तब सत्त्वगुण को प्रवृद्ध हुआ जानो।।
+</details>
 </details>
 
 </div>

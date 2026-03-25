@@ -23,8 +23,9 @@ title = "03 मम योनिर्महद्ब्रह्म"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.3॥**मम** मदीयं कृत्स्नस्य जगतो **योनि**भूतं **महद् ब्रह्म** यत् **तस्मिन् गर्भं दधाम्य् अहम्।**भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च। अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टघा॥ अपेरयम् (गीता 7।45) इति निर्दिष्टा अचेतना प्रकृतिर् महदहङ्कारादिविकाराणां कारणतयामहद्ब्रह्म इत्य् उच्यते। श्रुतौ अपि क्वचित् प्रकृतिर् अपि ब्रह्म इति निर्दिश्यते। यः सर्वज्ञः सर्ववित्; यस्य ज्ञानमयं तपः; तस्मादेतद्ब्रह्म नामरूपमन्नं च जायते (मु॰ उ॰ 1।1।9) इति  
@@ -43,12 +44,14 @@ title = "03 मम योनिर्महद्ब्रह्म"
 (7.4-5). This Prakrti is designated here by the name 'the great brahman'
 by reason of its being the cause of modifications like the Mahat, the Ahankara etc. In the Srutis also, here and there, even the Prakrti is designated as brahman, as in: 'He who is all-knowing, all-wise, whose austerity consists of knowledge - from Him are produced this brahman as also food, i.e., the universe of name and form' (Mun. U., 1.1.9) The higher Prakrti, which is the mass of conscient selves, alluded to in the passage, 'Know My higher Prakrti to be distinct from this; it is the life-principle' (7.5). It is here expressed by the term 'Garbha', the source or womb in which all living beings originate. I lay the germ, constituting the mass of conscious beings, in that great brahman, which is non-conscient and forms the womb. From that conjunction between the two Prakrtis, brought about by My will is brought forth the origin of all entities from Brahma down to tuft to grass. He continues to say: 'I Myself bring about the conjunction of the conscient and unconscient Prakrtis in the manifested state of effect'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.3॥ --,**मम** स्वभूता मदीया माया त्रिगुणात्मिका प्रकृतिः **योनिः** सर्वभूतानां कारणम्। सर्वकार्येभ्यो महत्त्वात् भरणाच्च स्वविकाराणां **महत् ब्रह्म** इति योनिरेव विशिष्यते। **तस्मिन्** महति ब्रह्मणि योनौ **गर्भं** हिरण्यगर्भस्य जन्मनः बीजं सर्वभूतजन्मकारणं बीजं **दधामि** निक्षिपामि क्षेत्रक्षेत्रज्ञप्रकृतिद्वयशक्तिमान् ईश्वरः **अहम्;** अविद्याकामकर्मोपाधिस्वरूपानुविधायिनं क्षेत्रज्ञं क्षेत्रेण संयोजयामि इत्यर्थः। **संभवः** उत्पत्तिः **सर्वभूतानां** हिरण्यगर्भोत्पत्तिद्वारेण ततः तस्मात् गर्भाधानात् **भवति** हे **भारत**॥
 </details>
@@ -158,12 +161,14 @@ Hiranyagarbha.
 ततो गर्भाधानात्संभव उत्पत्तिः सर्वभूतानां हिरण्यगर्भादीनां भवति हे भारत;
 नत्वीश्वरकृतगर्भाधानं विनेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.3॥ महद्ब्रह्म प्रकृतिः; सा च श्रीर्भूर्दुर्गेति भिन्ना।
 उमासरस्वत्याद्यास्तु तदंशयुता अन्यजीवाः। तथा च काषायणश्रुतिः --
@@ -216,12 +221,14 @@ Hiranyagarbha.
 मत्स्यपुराणे। अर्थक्रमेणमम योनिर्महद्ब्रह्म इत्यत्र व्युत्क्रमेण
 व्याख्यानम्। मत्स्यपुराणोदाहरणप्रसङ्गादत्रोपपादनमिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.3॥ तत्रादौ संसृतौ क्रममाह। हातव्ये ज्ञाते तत्करणे च; सुकरं हि हानम्
 -- ममेति। मम तावत् अव्यपदेश्यपरमानन्दरूपस्य महद् ब्रह्म
@@ -232,12 +239,14 @@ Hiranyagarbha.
 
 14.3 Mama etc. For Me : \[For Me\] Who am of the nature of the inexplicable Supreme Bliss, the mighty Brahman : the Brahman that is identical with My own energy, allowing expansion \[of all in It\]. Taking hold of just My own energy of Self-consciousness, I cause the beginningless tiny \[individual\] Souls to pass through the cycle of birth and death by way of favouring them. Therefore-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.3॥ तदेवं प्रशंसया श्रोतारमभिमुखीकृत्य स्वस्याचिन्त्यशक्तिवैभवलीलां
 दर्शयति -- ममेति। तत्रसर्गेऽपि नोपजायन्ते \[14।2\] इत्यत्राभिप्रेतं
@@ -263,10 +272,13 @@ Hiranyagarbha.
 क्रीडेच्छात्मकभावं दधामि स्थापयामि। ततो गर्भाधानानन्तरं सर्वभूतानां
 सम्भव उत्पत्तिर्भवति। भारत इति सम्बोधनं विश्वासार्थम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.3॥ तदेवं प्रशंसया श्रोतारमभिमुखीकृत्य परमेश्वराधीनयोः
 प्रकृतिपुरुषयोः सर्वभूतोत्पत्तिं प्रति हेतुत्वं नतु स्वतन्त्रयोरितीमं
@@ -278,10 +290,13 @@ Hiranyagarbha.
 संयोजयामीत्यर्थः। ततो गर्भाधानात्सर्वभूतानां ब्रह्मादीनां संभव
 उत्पत्तिर्भवतीति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.3 My womb is the great brahman (i.e. Prakrti). In that I lay the germ. From that, O Arjuna, is the birth of all beings.
@@ -325,11 +340,13 @@ earth; water; fire; air; ether; mind; intellect and egoism. The first fruit of t
 Svedaja and Udbhijja. The Jarayuja is born of the placenta (viviparous).
 Human beings; cows; elephants; horses; etc.; belong to this class. In this variety the five senses of knowledge exist. The Andaja is born of eggs (oviparous). In this variety the elements of wind and ether predominate. Lice come under the category of Svedaja they are born of sweat. In this variety fire and water predominate. Trees that are born of seeds are classified under the head Udbhijja in this variety earth and water predominate. (Cf.VII.6IX.17XV.7)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.3।। हे भरतवंशोद्भव अर्जुन ! मेरी मूल प्रकृति तो उत्पत्ति-स्थान है और
@@ -428,6 +445,7 @@ Human beings; cows; elephants; horses; etc.; belong to this class. In this varie
 
 ।।14.3।। हे भारत ! मेरी महद् ब्रह्मरूप प्रकृति, (भूतों की) योनि है,
 जिसमें मैं गर्भाधान करता हूँ; इससे समस्त भूतों की उत्पत्ति होती है।।
+</details>
 </details>
 
 </div>

@@ -26,8 +26,9 @@ title = "02 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.2॥ श्रीभगवानुवाच -- अत्यर्थ-मत्-प्रियत्वेन  
@@ -50,12 +51,14 @@ title = "02 श्री भगवानुवाच"
 (i.e., among those striving for realisation) - them who worship Me focusing their minds upon Me as one exceedingly dear to them, who are endowed with supreme faith, and who are ever 'integrated' with Me,
 namely ever desirous of constant union with Me. Those who thus worship Me, focusing their minds on Me as their supreme goal, attain Me soon and easily. Such is the meaning.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 **श्रीभगवान् उवाच --**  
 ये तु अक्षरोपासकाः सम्यग्-दर्शिनः निवृत्तैषणाः;  
@@ -167,12 +170,14 @@ has to be said as regards them:'
 मदासक्तचित्ततया मामेव विषयान्तरविमुखाश्चिन्तयन्तोऽहोरात्राण्यतिवाहयन्ति।
 अतस्त एव युक्ततमा मता अभिमताः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.2॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -181,12 +186,14 @@ has to be said as regards them:'
 
 ॥12.2॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.2॥ मयीति। माहेश्वर्यविषयो येषां समावेशः अकृत्रिमस्तन्मयीभावः +++(;N तन्मयो भावः)+++ ते युक्ततमा मम +++(S omits मम)+++ मताः इत्यनेन प्रतिज्ञा क्रियते।
 </details>
@@ -195,12 +202,14 @@ has to be said as regards them:'
 
 12.2 Mayi etc. Those are considered by Me to be the best among the masters of Yoga, whose act of entering into (fixing the mind in) the Supreme Lordship is a spontaneous (unartificial) act of becoming one with Him. By this \[statement\] a solemn declaration is made \[by the Lord\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.2॥ तत्र सिद्धान्तं वदन् श्रीभगवानुवाच -- मयीति। सर्वनियन्तरि
 सकलालौकिकगुणे साक्षान्मन्मथमन्मथे निरवद्या(ध्य)नन्तनित्यलोके करुणाशीले
@@ -220,20 +229,26 @@ has to be said as regards them:'
 युक्तास्ततो मामुपासते सेवन्ते ते युक्ततमा उत्तमाः मे मताः सम्मता
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.2॥ तत्र प्रथमाः श्रेष्ठा इत्युत्तरं श्रीभगवानुवाच **-- मयीति।**
 मयि परमेश्वरे सर्वज्ञत्वादिगुणविशिष्टे मन आवेश्यैकाग्रं कृत्वा
 नित्ययुक्ता मदर्थकर्मानुष्ठानादिना मन्निष्ठाः सन्तः श्रेष्ठया श्रद्धया
 युक्ता ये मामाराधयन्ति ते युक्ततमा ममाभिमताः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.2 The Lord said Those who, ever integrated with Me and possessed of supreme faith, worship Me, focusing their minds on Me - these are considered by Me the highest among the Yogins.
@@ -266,11 +281,13 @@ who worship Me always with unwavering faith and concentration; these are the ver
 नित्ययुक्ताः ever steadfast; उपासते worship; श्रद्धया with faith; परया
 supreme; उपेताः endowed; ते those; मे of Me; युक्ततमाः the best versed in Yoga; मताः (in My) opinion.Commentary Those devotees who fix their minds on Me in the Cosmi Form; the Supreme Lord and worship Me; ever harmonised and with intense and supreme faith; regarding Me as the Lord of all the masters of Yoga; who are free from attachment and other evil passions -- these; in My opinion; are the best versed in Yoga.They spend their days and nights in worshipping Me. They have no other thoughts except those,of Myself. They live for Me only. Therefore it is indeed proper to say that they are the best Yogins.Are not the others; those who contemplate the imperishable; formless; attributeless; alityless Supreme Brahman; the best of Yogins Listen now to what I have to say regarding them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.2।। मेरेमें मनको लगाकर नित्य-निरन्तर मेरेमें लगे हुए जो भक्त परम
@@ -340,6 +357,7 @@ supreme; उपेताः endowed; ते those; मे of Me; युक्त
 ।।12.2।। श्रीभगवान् ने कहा -- मुझमें मन को एकाग्र करके नित्ययुक्त हुए जो
 भक्तजन परम श्रद्धा से युक्त होकर मेरी उपासना करते हैं, वे, मेरे मत से,
 युक्ततम हैं अर्थात् श्रेष्ठ हैं।।
+</details>
 </details>
 
 </div>

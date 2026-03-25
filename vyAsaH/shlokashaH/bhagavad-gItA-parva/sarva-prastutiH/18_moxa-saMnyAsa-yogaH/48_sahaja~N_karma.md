@@ -23,8 +23,9 @@ title = "48 सहजङ् कर्म"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.48॥ अतः सहजत्वेन सुकरम् अप्रमादं च **कर्म सदोषं** सदुःखम् **अपि न त्यजेत्।** ज्ञानयोगयोग्यो ऽपि कर्मयोगम् एव कुर्वीत इत्यर्थः। **सर्वारम्भाः** कर्मारम्भा ज्ञानारम्भाश् च **हि दोषेण** दुःखेन **धूमेन अग्निर् इव आवृताः।** इयान् तु विशेषः कर्मयोगः सुकरो ऽप्रमादश् च; ज्ञानयोगस् तद्विपरीत इति।
@@ -39,12 +40,14 @@ title = "48 सहजङ् कर्म"
 
 18.48 So, one should not relinish one's works, understanding that they are natural, are easy to perform and not liable to negligence. Such thoughts coupled with the idea that there are imperfections in them should not lead you to abandon them. The meaning is that though one is fit for Jnana Yoga, one should perform Karma Yoga only. All enterprises, be they of Karma or Jnana, are indeed enveloped by imperfections, by pain, as fire by smoke. But still there is this difference: Karma Yoga is easy and does not involve negligence, but Jnana Yoga is contrary to this.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.48॥ --,**सहजं** सह जन्मनैव उत्पन्नम्। किं तत् **कर्म कौन्तेय सदोषमपि** त्रिगुणात्मकत्वात् **न त्यजेत्। सर्वारम्भाः** आरभ्यन्त इति आरम्भाः; सर्वकर्माणि इत्येतत् प्रकरणात् ये केचित् आरम्भाः स्वधर्माः परधर्माश्च; ते सर्वे **हि** यस्मात् -- त्रिगुणात्मकत्वम् अत्र हेतुः -- त्रिगुणात्मकत्वात् **दोषेण धूमेन** सहजेन **अग्निरिव; आवृताः।** सहजस्य कर्मणः स्वधर्माख्यस्य परित्यागेन परधर्मानुष्ठानेऽपि दोषात् नैव मुच्यते भयावहश्च परधर्मः। न च शक्यते अशेषतः त्यक्तुम् अज्ञेन कर्म यतः; तस्मात् न त्यजेत् इत्यर्थः॥ किम् अशेषतः त्यक्तुम् अशक्यं कर्म इति न त्यजेत् किं वा सहजस्य कर्मणः त्यागे दोषो भवतीति किं च अतः यदि तावत् अशेषतः त्यक्तुम् अशक्यम् इति न त्याज्यं सहजं कर्म; एवं तर्हि अशेषतः त्यागे गुण एव स्यादिति सिद्धं भवति। सत्यम् एवम् अशेषतः त्याग एव न उपपद्यते इति चेत्; किं नित्यप्रचलितात्मकः पुरुषः; यथा साङ्ख्यानां गुणाः किं वा क्रियैव कारकम्; यथा बौद्धानां स्कन्धाः क्षणप्रध्वंसिनः उभयथापि कर्मणः अशेषतः त्यागः न संभवति। अथ तृतीयोऽपि पक्षः -- यदा करोति तदा सक्रियं वस्तु। यदा न करोति; तदा निष्क्रियं तदेव। तत्र एवं सति शक्यं कर्म अशेषतः त्यक्तुम्। अयं तु अस्मिन् तृतीये पक्षे विशेषः -- न नित्यप्रचलितं वस्तु; नापि क्रियैव कारकम्। किं तर्हि व्यवस्थिते द्रव्ये अविद्यमाना क्रिया उत्पद्यते; विद्यमाना च विनश्यति। शुद्धं तत् द्रव्यं शक्तिमत् अवतिष्ठते। इति एवम् आहुः काणादाः। तदेव च कारकम् इति। अस्मिन् पक्षे को दोषः इति। अयमेव तु दोषः -- यतस्तु अभागवतं मतम् इदम्। कथं ज्ञायते यतः आह भगवान् नासतो विद्यते भावः (गीता 2।16) इत्यादि। काणादानां हि असतः भावः; सतश्च अभावः; इति इदं मतम् अभागवतम्। अभागवतमपि न्यायवच्चेत् को दोषः इति चेत्; उच्यते -- दोषवत्तु इदम्; सर्वप्रमाणविरोधात्। कथम् यदि तावत् द्व्यणुकादि द्रव्यं प्राक् उत्पत्तेः अत्यन्तमेव असत्; उत्पन्नं च स्थितं कञ्चित् कालं पुनः अत्यन्तमेव असत्त्वम् आपद्यते; तथा च सति असदेव सत् जायते; सदेव असत्त्वम्; आपद्यते; अभावः भावो भवति; भावश्च अभावो भवति तत्र अभावः जायमानः प्राक् उत्पत्तेः शशविषाणकल्पः समवाय्यसमवायिनिमित्ताख्यं कारणम् अपेक्ष्य जायते इति। न च एवम्; अभावः उत्पद्यते; कारणं च अपेक्षते इति शक्यं वक्तुम्; असतां शशविषाणादीनाम् अदर्शनात्। भावात्मकाश्चेत् घटादयः उत्पद्यमानाः; किञ्चित् अभिव्यक्तिमात्रेकारणम् अपेक्ष्य उत्पद्यन्ते इति शक्यं प्रतिपत्तुम्। किं च; असतश्च सतश्च सद्भावे असद्भावे न क्वचित् प्रमाणप्रमेयव्यवहारेषु विश्वासः कस्यचित् स्यात्; सत् सदेव असत् असदेव इति निश्चयानुपपत्तेः। किं च; उत्पद्यते इति द्व्यणुकादेः द्रव्यस्य स्वकारणसत्तासंबन्धम् आहुः। प्राक् उत्पत्तेश्च असत्; पश्चात् कारणव्यापारम् अपेक्ष्य स्वकारणैः परमाणुभिः सत्तया च समवायलक्षणेन संबन्धेन संबध्यते। संबद्धं सत् कारणसमवेतं सत् भवति। तत्र वक्तव्यं कथम् असतः स्वं कारणं भवेत् संबन्धो वा केनचित् स्यात् न हि वन्ध्यापुत्रस्य स्वं कारणं संबन्धो वा केनचित् प्रमाणतः कल्पयितुं शक्यते॥ ननु नैवं वैशेषिकैः अभावस्य संबन्धः कल्प्यते। द्व्यणुकादीनां हि द्रव्याणां स्वकारणसमवायलक्षणः संबन्धः सतामेव उच्यते इति। न संबन्धात् प्राक् सत्त्वानभ्युपगमात्। न हि वैशेषिकैः कुलालदण्डचक्रादिव्यापारात् प्राक् घटादीनाम् अस्तित्वम् इष्यते। न च मृद एव घटाद्याकारप्राप्तिम् इच्छन्ति। ततश्च असत एव संबन्धः पारिशेष्यात् इष्टो भवति॥ ननु असतोऽपि समवायलक्षणः संबन्धः न विरुद्धः। न वन्ध्यापुत्रादीनाम् अदर्शनात्। घटादेरेव प्रागभावस्य स्वकारणसंबन्धो भवति न वन्ध्यापुत्रादेः; अभावस्य तुल्यत्वेऽपि इति विशेषः अभावस्य वक्तव्यः। एकस्य अभावः; द्वयोः अभावः; सर्वस्य अभावः; प्रागभावः; प्रध्वंसाभावः; इतरेतराभावः; अत्यन्ताभावः इति लक्षणतो न केनचित् विशेषो दर्शयितुं शक्यः। असति च विशेषे घटस्य प्रागभावः एव कुलालदिभिः घटभावम् आपद्यते संबध्यते च भावेन कपालाख्येन; संबद्धश्च सर्वव्यवहारयोग्यश्च भवति; न तु घटस्यैव प्रध्वंसाभावः अभावत्वे सत्यपि; इति प्रध्वंसाद्यभावानां न क्वचित् व्यवहारयोग्यत्वम्; प्रागभावस्यैव द्व्यणुकादिद्रव्याख्यस्य उत्पत्त्यादिव्यवहारार्हत्वम्; इत्येतत् असमञ्जसम् अभावत्वाविशेषात् अत्यन्तप्रध्वंसाभावयोरिव॥ ननु नैव अस्माभिः प्रागभावस्य भावापत्तिः उच्यते। भावस्यैव तर्हि भावापत्तिः यथा घटस्य घटापत्तिः; पटस्य वा पटापत्तिः। एतदपि अभावस्य भावापत्तिवदेव प्रमाणविरुद्धम्। साङ्ख्यस्यापि यः परिणामपक्षः सोऽपि अपूर्वधर्मोत्पत्तिविनाशाङ्गीकरणात् वैशेषिकपक्षात् न विशिष्यते। अभिव्यक्तितिरोभावाङ्गीकरणेऽपि अभिव्यक्तितिरोभावयोः विद्यमानत्वाविद्यमानत्वनिरूपणे पूर्ववदेव प्रमाणविरोधः। एतेन कारणस्यैव संस्थानम् उत्पत्त्यादि इत्येतदपि प्रत्युक्तम्॥  
   
@@ -502,12 +505,14 @@ duties, has to be stated. Hence the (following) verse is begun:
 विशेषेण च सदोषमपि न त्यजेत्। सर्वकर्मत्यागासमर्थत्वात्
 सर्वकर्मत्यागसमर्थस्तु शुद्धान्तःकरणस्त्यजेदेवेत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.48॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -516,12 +521,14 @@ duties, has to be stated. Hence the (following) verse is begun:
 
 ॥18.48॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -532,12 +539,14 @@ duties, has to be stated. Hence the (following) verse is begun:
 
 18.48 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.48॥ यदि पुनः साङ्ख्यदृष्ट्या स्वधर्मे हिंसालक्षणं दोषं मत्वा
 परधर्मं श्रेयांसं मन्यसे तर्हि परधर्मेऽपि सदोषत्वं तुल्यमेव भवतीत्यतः
@@ -563,10 +572,13 @@ duties, has to be stated. Hence the (following) verse is begun:
 तद्विपरीतत्वात्तथात्वं करोति; एवं मत्कर्माऽपि निर्दोषत्वान्न त्यजेदिति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.48॥ यदि पुनः साङ्ख्यदृष्ट्या स्वधर्मे हिंसालक्षणं दोषं मत्वा परधर्मं
 श्रेष्ठं मन्यसे तर्हि सदोषत्वं परधर्मेऽपि तुल्यमित्याशयेनाह **--
@@ -576,10 +588,13 @@ duties, has to be stated. Hence the (following) verse is begun:
 दोषमपाकृत्य प्रताप एव तमःशीतादिनिवृत्तये सेव्यते तथा कर्मणोऽपि दोषांशं
 विहाय गुणांश एव सत्त्वशुद्धये सेव्यत इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.48 One should not relinish one's works, O Arjuna, though it may be imperfect; for, all enterprises are enveloped by imperfections as fire by smoke.
@@ -612,11 +627,13 @@ though faulty; for, all undertakings are enveloped by evil, as fire by smoke.
 18.48 सहजम् which is born; कर्म action; कौन्तेय O Kaunteya; सदोषम् with fault; अपि even; न not; त्यजेत् (one) should abandon; सर्वारम्भाः all undertakings; हि for; दोषेण by evil; धूमेन by smoke; अग्निः fire; इव
 like; आवृताः are enveloped.Commentary Sahajam Born with oneself born with the birth of man.Sadosham Faculty for everything is constituted of the three Gunas.All undertakings Ones own as well as others duties.If a Vaisya or a Kshatriya does the duties of a Brahmana he will not in any way be benefited. Anothers duty brings in fear. Therefore it is not proper to perform anothers duty. It is not possible for any man who has no knowledge of the Self to relinish action totally therefore he should not abandon action.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.48।। हे कुन्तीनन्दन ! दोषयुक्त होनेपर भी सहज कर्मका त्याग नहीं करना
@@ -742,6 +759,7 @@ like; आवृताः are enveloped.Commentary Sahajam Born with oneself born
 
 ।।18.48।। हे कौन्तेय ! दोषयुक्त होने पर भी सहज कर्म को नहीं त्यागना
 चाहिए; क्योंकि सभी कर्म दोष से आवृत होते है, जैसे धुयें से अग्नि।।
+</details>
 </details>
 
 </div>

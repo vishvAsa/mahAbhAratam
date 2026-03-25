@@ -23,8 +23,9 @@ title = "27 यावत्सञ्जायते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.26॥**यावत्** स्थावरजङ्गमात्मना **सत्त्वं जायते** तावत् **क्षेत्रक्षेत्रज्ञ**योरितरेतर**संयोगाद्** एव जायते; संयुक्तम् एव जायते; न त्व् इतरेतरवियुक्तम् इत्यर्थः।
@@ -41,12 +42,14 @@ title = "27 यावत्सञ्जायते"
 
 13.27 Whatever being is born, whether it be movable or stationary, it is born only from the mutual combination of the Ksetra and Ksetrajna. The sense is that it is born only from this combination, i.e., is born as a compound of the two and never in their separateness.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.27॥ --,**यावत्** यत् किञ्चित् **संजायते** समुत्पद्यते **सत्त्वं** वस्तु किम् अविशेषेण नेत्याह -- **स्थावरजङ्गमं** स्थावरं जङ्गमं च **क्षेत्रक्षेत्रज्ञसंयोगात् तत्** जायते इत्येवं विद्धि जानीहि **भरतर्षभ**॥  
   
@@ -213,12 +216,14 @@ in other words:
 हे भरतर्षभ; अतः स्वरूपाज्ञाननिबन्धनः संसारः स्वरूपज्ञानाद्विनष्टुमर्हति
 स्वप्नादिवदित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.27॥ पुनश्च प्रकृतपुरुषेश्वरस्वरूपं साम्यादिधर्मयुक्तमाह --
 यावदित्यादिना।
@@ -232,12 +237,14 @@ in other words:
 साम्यग्रहणम्; तच्च प्रकृतिपुरुषधर्मकथनं यादृगिति प्रतिज्ञातेऽन्तर्भवति
 ईश्वरधर्मकथनं च यत्प्रभाव इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.27॥ यावदिति। यत्किंचित् चरम् अचरं च तत् सर्वं क्षेत्रज्ञातिरेकि न संभवतीति।
 </details>
@@ -246,12 +253,14 @@ in other words:
 
 13.27 Yavat etc. Whatever is a thing, whether moving or unmoving - all this is born not as something altogether different from the Field and the Field-sensitizer. Therefore -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.27॥ अथ साङ्ख्यरीत्या प्रकृतिसंसृष्टस्यात्मनो विवेकानुसन्धानप्रकारं
 वक्तुं स्थावरजङ्गमं च सत्त्वं सच्चित्संसर्गजमित्याह -- यावदिति। सत्त्वं
@@ -268,10 +277,13 @@ in other words:
 पूर्वोक्तस्वरूपयोगात् क्रीडार्थकमत्संयोगात् सत्त्वं सत्त्वात्मकं विद्धि
 जानीहि। भरतर्षभ इतिसम्बोधनं तदर्थज्ञानयोग्यत्वाय।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.27॥ तत्र कर्मयोगस्य तृतीयचतुर्थपञ्चमेषु प्रपञ्चितत्वात्;
 ध्यानयोगस्य च षष्ठाष्टमयोः प्रपञ्चितत्वात्; ध्यानादेश्च
@@ -279,10 +291,13 @@ in other words:
 यावदध्यायसमाप्ति। यावत्किंचिद्वस्तुमात्रं सत्त्वमुत्पद्यते तत्सर्वं
 क्षेत्रक्षेत्रज्ञयोर्योगात् अविवेककृतात्तादात्म्याध्यासाद्भवतीति जानीहि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.27 Whatever being is born, whether it is moving or stationary, know,
@@ -319,11 +334,13 @@ remember that whatever is born; unmoving or moving; know thou that to be done to
 There cannot be the inseparable connection between them like the connection that exists between the head and the neck; or the arm and the shoulder; because the field and its knower are not related to each other as cause and effect.Then; what sort of union is there between the field and its knower It is of the nature of mutual superimposition or illusion. This consists in confounding the one with the other as well as their attributes; like the union of a rope with a snake; and motherofpearl with silver; on account of lack of discrimination of their real nature. The attributes of the Self are transferred to the body and vice versa. The insentient body is mistaken for the sentient Self. The activities of the body or Nature are transferred to the silent;
 actionless Self. This sort of illusion or superimposition will disappear when one attains knowledge of the Self; when he is able to separate the field from the knower like the reed from the Munja grass; when he realises that Brahman which is free from all limiting adjuncts is his own immortal Self; and that the field is a mere appearance like the snake in the rope; silver in motherofpearl; an imaginary city in the sky; and is like an object seen in a dream or like the horses; places and forests projected by ajuggler. A sage who has the knowledge of the Self is not born again.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/27_yAvatsanjAyate.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.27।। हे भरतवंशियोंमें श्रेष्ठ अर्जुन ! स्थावर और जंगम जितने भी
@@ -400,6 +417,7 @@ actionless Self. This sort of illusion or superimposition will disappear when on
 ।।13.27।। हे भरत श्रेष्ठ ! यावन्मात्र जो कुछ भी स्थावर जंगम (चराचर)
 वस्तु उत्पन्न होती है, उस सबको तुम क्षेत्र और क्षेत्रज्ञ के संयोग से
 उत्पन्न हुई जानो।।
+</details>
 </details>
 
 </div>

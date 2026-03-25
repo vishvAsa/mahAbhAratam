@@ -23,8 +23,9 @@ title = "20 इति गुह्यतमम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.20॥ इत्थं मम पुरुषोत्तमत्वप्रतिपादनं सर्वेषां गुह्यानां **गुह्यतमम् इदं शास्त्रं** त्वम् **अनघतया** योग्यतम इति कृत्वा **मया** तव **उक्तम्। एतद् बुद्ध्वा बुद्धिमान् स्यात् कृतकृत्यश् च** मां प्रेप्सुना उपादेया या बुद्धिः सा सर्वा उपात्ता स्यात्। यच् च तेन कर्तव्यम्; तच् च सर्वं कृतं स्याद् इत्यर्थः। अनेन श्लोकेन अनन्तरोक्तं पुरुषोत्तमविषयं ज्ञानं शास्त्रजन्यम् एव एतत् सर्वं करोति न तु साक्षात्काररूपम् इत्य् उच्यते।
@@ -45,12 +46,14 @@ title = "20 इति गुह्यतमम्"
 
 15.20 Thus, this Sastra, the most mysterious of all mysteries and which teaches My aspect as the Supreme Person, has been imparted to you by Me, as you are worthy to receive it because you are sinless. By understanding this, a man will become truly wise and will have fulfilled his duty. Whatever wisdom has to be cultivated for attaining Me, all that should be taken as cultivated and that whatever duty has to be fulfilled in that connection - all that is to be taken as fulfilled by knowing this (the Purusottama Vidya). He gets all spiritual fulfilment by this knowledge, except the direct vision of Purusottama. \[Probably the idea is that direct vision comes only when the body falls at the end of the antum of Karma that has brought it into existence. Before that only the state of the Sthitaprajna can be attained. The thin veil of residual Karma still stands in the way.\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.20॥ -- **इति** एतत् **गुह्यतमं** गोप्यतमम्; अत्यन्तरहस्यं इत्येतत्। किं तत् **शास्त्रम्।** यद्यपि गीताख्यं समस्तम् शास्त्रम् उच्यते; तथापि अयमेव अध्यायः इह शास्त्रम् इति उच्यते स्तुत्यर्थं प्रकरणात्। सर्वो हि गीताशास्त्रार्थः अस्मिन् अध्याये समासेन उक्तः। न केवलं गीताशास्त्रार्थ एव; किंतु सर्वश्च वेदार्थः इह परिसमाप्तः। यस्तं वेद स वेदवित् (गीता 15।1) वेदैश्च सर्वैरहमेव वेद्यः (गीता 15।15) इति च उक्तम्। **इदम् उक्तं** कथितं **मया** हे **अनघ** अपाप। **एतत्** शास्त्रं यथादर्शितार्थं **बुद्ध्वा बुद्धिमान् स्यात्** भवेत् न अन्यथा **कृतकृत्यश्च** भारत कृतं कृत्यं कर्तव्यं येन सः कृतकृत्यः विशिष्टजन्मप्रसूतेन ब्राह्मणेन यत् कर्तव्यं तत् सर्वं भगवत्तत्त्वे विदिते कृतं भवेत् इत्यर्थः न च अन्यथा कर्तव्यं परिसमाप्यते कस्यचित् इत्यभिप्रायः। सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते (गीता 4।33) इति च उक्तम्। एतद्धि जन्मसामग्र्यं ब्राह्मणस्य विशेषतः। प्राप्यैतत्कृतकृत्यो हि द्विजो भवति नान्यथा (मनुस्मृति 12।93) इति च मानवं वचनम्। यतः एतत् परमार्थतत्त्वं मत्तः श्रुतवान् असि; अतः कृतार्थः त्वं भारत इति॥  
   
@@ -180,12 +183,14 @@ therefore, O scion of the Bharata dynasty, you have achieved your Goal!
 निर्णीतं कृष्णमाहात्म्यमद्भुतम्। न शक्नुवन्ति ये सोढुं ते मूढा निरयं
 गताः॥4॥ ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.20॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -194,12 +199,14 @@ therefore, O scion of the Bharata dynasty, you have achieved your Goal!
 
 ॥15.20॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.20॥ इतीति। गुह्यतमं; सर्वाद्वयप्रतिपादकत्वात्। एतदेव बुद्ध्वा बुद्धिमत्त्वं; न तु व्यवहारबुद्ध्या। एतेन च ज्ञातेनैव कृतकृत्यता; न तु कृतेनापि शत्रुविजयार्थाहरणस्त्र्युपभोगादिना +++(omits शत्रु)+++। चकारः अद्भुतद्योतकः। कृतेन +++(N एतेन)+++ हि कृतकृत्यता दृष्टा; एतेन तु ज्ञातेनैवेति +++(;N ज्ञानेनैवेति)+++ चित्रम्। इतिशब्देन शास्त्रस्य समाप्तिः सूचिता; वक्तव्यस्य परिपूर्णतया समाप्तत्वात्। तथा हि -- षोडशाध्यायेन शिष्यस्य अर्जुनस्य केवलं योग्यता प्रतिपाद्यते। न तु उपदिश्यते किञ्चित्। दैवी ह्येवंविधा संपत्; आसुरी चाविद्यामयी; एतादृशी +++(S; तादृशी)+++ संपत् त्वं च विद्यामयीं दैवीं संपदमभिप्राप्तः इत्येतावति हि तात्पर्यम्। यद्वक्ष्यति मा शुचः संपदं दैवीम् इति। अत एव पूर्वं विद्याविद्यासंघट्टनिरूपणावसरे ( संबद्धनिरूपण N संघध्व (र्ष) -- ) देवासुरसंग्रामच्छलेन विद्याविद्ययोः संघर्षः इति सूचितम्। एवं च शिष्यस्वरूपे प्राधान्येन निरूप्यमाणे प्रसंगतः अन्यदप्युक्तम्; इत्यध्यायद्वयं भविष्यति। उपदेशस्त्वित एव परिसमाप्तः। सर्वभावेन हि परमेश्वरभजनम् आवेशरूपं प्राप्यम् ( प्राप्तम्)। तदर्थं चान्यत् सर्वमित्युक्तं प्राक्। सर्वमाहेश्वरस्वरूपावेश एव,हि परमं शिवम् इति।
 </details>
@@ -208,12 +215,14 @@ therefore, O scion of the Bharata dynasty, you have achieved your Goal!
 
 15.20 Iti etc. The most secret \[scripture\] : Because it explains the oneness of all. One becomes a man of wisdom by knowing this only and not by the knowledge of worldly affairs. One becomes a man of success by just understanding this, and not even by the deeds like the total victory over the foes, earning wealth, enjoying women and so on. The word ca 'also' indicates a wonder. Has it not been witnessed that \[always\] one becomes a man of success by what has been accomplished ; But it is strange that \[in the present case one becomes a man of success\] by just what has been realised. The word iti 'thus' indicates the conclusion of the treatise. For, what is to be taught has come to an end completely. That is why in the Sixteenth Chapter the eligibility of the pupil, Arjuna, is exclusively dealt with; and nothing new is taught. The intention \[of that chapter\] is to say only this much : 'The divine wealth is just of that nature; but the devilish wealth born of illusion is of this nature; you (Arjuna) are however endowed with the divine wealth of wisdom'. Hence \[the Lord\] is going to say 'Don't worry. \[You are endowed\] with the divine wealth' (XVI, 5). That is why earlier in the context of explaining the clash between the wisdom and ignorance this has been indicated \[by me (Ag.)\]: 'It is the confrontation between the wisdom and ignorance that has been detailed under the pretext of \[describing\] the wars between the gods and devils.' So, while dealing essentially with the ality of a pupil, other subjects are mentioned incidentally. So also the pair of chapters (Ch. XVII & XVIII) would follow. But the teaching \[proper\] has come to an end completely here itself. For what is to be achieved is nothing but serving (attaining) the Absolute Lord-the serving, which is of the nature of total absorption into Him by one's entire being. All other things are only to achieve this end. This has been explained earlier. The Supreme Happiness is indeed nothing but a complete absorption into the Supreme Lord by one's entire being.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.20॥ अध्यायार्थमुपसंहरति -- इतीति। इत्थं पुरुषोत्तमयोगकं शास्त्रं
 सर्ववेदान्तसारत्वाद्गुह्यतमं मया सर्ववेदान्तवेद्यचरणेन वेदान्तकृता
@@ -236,10 +245,13 @@ therefore, O scion of the Bharata dynasty, you have achieved your Goal!
 इति भावो व्यञ्जितः। कृष्णः पञ्चदशेऽध्याये लोकानां हितकाम्यया।
 पुरुषोत्तमयोगं हि पार्थाय कृपयाऽऽदिशत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/20_iti_guhyatamam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/20_iti_guhyatamam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.20॥ अध्यायार्थमुपसंहरति **-- इतीति।** इत्यनेन प्रकारेण गुह्यतमं
 अतिरहस्यं संपूर्णं शास्त्रमेव मयोक्तम् न पुनर्विंशतिश्लोकमध्यायमात्रम्।
@@ -248,10 +260,13 @@ therefore, O scion of the Bharata dynasty, you have achieved your Goal!
 किं वक्तव्यमिति भावः।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.20 Thus, O sinless one, has this most mysterious doctrine been imparted by Me. By understanding this, a man will become truly wise and will have fulfilled his duty.
@@ -286,11 +301,13 @@ therefore, O scion of the Bharata dynasty, you have achieved your Goal!
 particularly of a Brahmana because the twicorn accomplishes all his duties only by attaining to this; but not otherwise; says Manu Smriti.As you have heard from Me this truth about the Supreme Being; you are a happy man and you have done all your duties you have attained Selfrealistion.By using the words Anagha and Bharata; Lord Krishna hints that even when an ordinary man who knows this fifteenth discourse can attain knowledge of the Self and become a Kritakritya; then what to say of Arjuna who was sinless and who was born in a noble family with divine attributes The Lord; by using the word Anagha; also indicates that the Guru who is a knower of Brahman should instruct the most profound secret
 (the science of the Self) only to alified persons who are free from impurities of the heart or tossing of the mind; who are calm and endowed with the four means of salvation. The man of impure mind will not be able to grasp the truth. The sinful man with his perverted intellect will distort the truth and thus pave the way for the destruction of himself and his followers.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the fifteenth discourse entitledThe Yoga of the Supreme Spirit. ,,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/20_iti_guhyatamam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.20।। हे निष्पाप अर्जुन ! इस प्रकार यह अत्यन्त गोपनीय शास्त्र मेरे
@@ -439,6 +456,7 @@ particularly of a Brahmana because the twicorn accomplishes all his duties only 
 
 ।।15.20।। हे निष्पाप भारत ! इस प्रकार यह गुह्यतम शास्त्र मेरे द्वारा कहा
 गया, इसको जानकर मनुष्य बुद्धिमान और कृतकृत्य हो जाता है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "15 यस्मान्नोद्विजते लोको"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.15॥**यस्मात्** कर्मनिष्ठात् पुरुषान्निमित्तभूतात् **लोको न उद्विजते;** यः लोकोद्वेगकरं कर्म किञ्चिद् अपि न करोति इत्यर्थः। **लोकाच् च** निमित्तभूताद् **यः न उद्विजते;** यम् उद्दिश्य सर्वलोको न उद्वेगकरं कर्म करोति; सर्वाविरोधित्वनिश्चयात्। अतएव कञ्चन प्रतिहर्षेण; कञ्चन प्रत्य् अमर्षेण; कञ्चन प्रति भयेन; कञ्चन प्रत्य् उद्वेगेन **मुक्तः** एवम्भूतः **यः सः** अपि **मे प्रियः।**
@@ -40,12 +41,14 @@ title = "15 यस्मान्नोद्विजते लोको"
 
 12.15 That person who is engaged in Karma Yoga does not become the cause of 'fear to the world'; he does nothing to cause fear to the world. He has no cause to 'fear the world,' i.e., no action on the part of others can cause him fear because of the certainty that he is not inimical to the world. Therefore he is not in the habit of showing favour towards someone and intolerance towards others; he has no fear of some or repulsion for others. Such a person is dear to Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥12.15॥ --,**यस्मात्** संन्यासिनः **न उद्विजते** न उद्वेगं गच्छति न संतप्यते न संक्षुभ्यति **लोकः;** तथा **लोकात्** न **उद्विजते च यः; हर्षामर्षभयोद्वेगैः** हर्षश्च अमर्षश्च भयं च उद्वेगश्च तैः हर्षामर्षभयोद्वेगैः **मुक्तः** हर्षः प्रियलाभे अन्तःकरणस्य उत्कर्षः रोमाञ्चनाश्रुपातादिलिङ्गः; अमर्षः असहिष्णुता; भयं त्रासः उद्वेगः उद्विग्नता; तैः मुक्तः **यः स च मे प्रियः**॥
 </details>
@@ -117,12 +120,14 @@ who is free from them-, is priyah, dear; me, to Me.
 स्वयं व्यापृत इति यावत्। तेन मद्भक्त इत्यनुकृष्यते। ईदृशो मद्भक्तो यः स
 मे प्रिय इति पूर्ववत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.15॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -131,12 +136,14 @@ who is free from them-, is priyah, dear; me, to Me.
 
 ॥12.15॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.15 -- 12.20॥ यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति परमकैवल्यम् इति।  
   
@@ -147,12 +154,14 @@ who is free from them-, is priyah, dear; me, to Me.
 
 12.15 See Comment under 12.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.15॥ किञ्च यस्मादिति।
 भगवत्सेवाकर्मनिष्ठान्मैत्र्यात्तत्तदाचारसंशोधनप्रयोगात् लोको नोद्विजते।
@@ -174,10 +183,13 @@ who is free from them-, is priyah, dear; me, to Me.
 उद्वेगश्चित्तलोभस्तेन सेवादिसमये चित्तचाञ्चल्यरहित इत्यर्थः। एतादृशो यः
 स मे प्रियः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.15॥ किंच **-- यस्मादिति।** यस्मात्सकाशाल्लोको जनो नोद्विजते
 भयशङ्कया संक्षोभं न प्राप्नोति यश्च लोकान्नोद्विजते यश्च
@@ -185,10 +197,13 @@ who is free from them-, is priyah, dear; me, to Me.
 अमर्षः परस्य लाभेऽसहनम्; भयं त्रासः;उद्वेगो भयादिनिमित्तचित्तक्षोभः
 एतैर्विमुक्तो यो मद्भक्तः स मे प्रियः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.15 He from whom the world has no cause to be frightened, who is not frightened by the world, who is free from joy and impatience, fear and repulsion - he is dear to me.
@@ -224,11 +239,13 @@ freed; यः who; सः he; च and; मे to Me; प्रियः dear.Com
 etc.Amarsha Anger. Some say that it is a mixture of jealousy and anger.Udvega Anxiety; worry; sorrow; discomfiture.The knower of Brahman or the devotee of the Lord never injures any creature in thought; word and deed. He gives security of life to all creatures. Therefore; no creature is afraid of him. The sage feels that the world is his body;
 his own Self. How can he be afraid of the world then He never hurts others and is not hurt by the words or deeds of others.The mental modifications of joy; envy; fear and anxiety leave the sage or devotee of their own accord; just as the beasts and birds leave the forest when it is on fire.Such a sage or devotee is dear to Me. How can I describe him
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.15।। जिससे किसी प्राणीको उद्वेग नहीं होता और जिसको खुद भी किसी
@@ -423,6 +440,7 @@ his own Self. How can he be afraid of the world then He never hurts others and i
 ।।12.15।। जिससे कोई लोक (अर्थात् जीव, व्यक्ति) उद्वेग को प्राप्त नहीं
 होता और जो स्वयं भी किसी व्यक्ति से उद्वेग अनुभव नहीं करता तथा जो हर्ष,
 अमर्ष (असहिष्णुता) भय और उद्वेगों से मुक्त है,वह भक्त मुझे प्रिय है।।
+</details>
 </details>
 
 </div>

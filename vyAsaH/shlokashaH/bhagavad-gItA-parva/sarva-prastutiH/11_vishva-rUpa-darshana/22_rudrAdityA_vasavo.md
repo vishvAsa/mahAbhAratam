@@ -25,8 +25,9 @@ title = "22 रुद्रादित्या वसवो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.22॥**ऊष्मपाः** पितरःऊष्मभागा हि पितरः (तै. ब्रा. 1।3।10) इति श्रुतेः। एते **सर्वे** विस्मयम् आपन्नाः **त्वां वीक्षन्ते।**
@@ -41,12 +42,14 @@ title = "22 रुद्रादित्या वसवो"
 
 11.22 Usmapa means manes, because the Sruti declares: 'Verily the manes receive the hot portions of the offerings' (Tai. Br., 1.3.10). All these, struck with amazement, behold You.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.22॥ --,**रुद्रादित्याः वसवो ये च साध्याः** रुद्रादयः गणाः **विश्वे**देवाः **अश्विनौ च** देवौ **मरुतश्च ऊष्मपाश्च** पितरः; **गन्धर्वयक्षासुरसिद्धसंघाः** गन्धर्वाः हाहाहूहूप्रभृतयः यक्षाः कुबेरप्रभृतयः असुराः विरोचनप्रभृतयः सिद्धाः कपिलादयः तेषां संघाः गन्धर्वयक्षासुरसिद्धसंघाः; ते **वीक्षन्ते** पश्यन्ति **त्वा** त्वां **विस्मिताः** विस्मयमापन्नाः सन्तः ते **एव सर्वे**॥ यस्मात् --,
 </details>
@@ -109,12 +112,14 @@ struck with wonder. For,
 त्वा त्वां। तादृशाद्भुतदर्शनात्ते सर्व एव विस्मिताश्च।
 विस्मयलौकिकचमत्कारविशेषमापद्यन्ते च।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.22॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -123,12 +128,14 @@ struck with wonder. For,
 
 ॥11.22॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.22॥ No commentary.
 </details>
@@ -137,12 +144,14 @@ struck with wonder. For,
 
 11.22 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.22॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -151,10 +160,13 @@ struck with wonder. For,
 
 ॥11.22॥ No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.22॥ किंच **-- रुद्रेति।** रुद्राश्चादित्याश्च वसवश्च ये च
 साध्यानाम देवाः; विश्वेदेवा अश्विनौ देवौ; मरुतो मरुद्गणाः; ऊष्माणं
@@ -163,10 +175,13 @@ struck with wonder. For,
 यावन्नोक्ता हविर्गुणाः॥ इति। गन्धर्वाश्च यक्षाश्चासुराश्च विरोचनादयः;
 सिद्धानां सङ्घाश्च ते सर्व एव विस्मिताः सन्तः त्वां वीक्षन्त इत्यन्वयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.22 The Rudras, the Adityas, the Vasus, the Sadhyas, the Visvas, the Asvins, the Maruts and the manes, and the hosts of Gandharvas, Yaksas,
@@ -207,11 +222,13 @@ Maruts; च and; उष्मपाः Pitris; च and; गन्धर्वय
 त्वाम् Thee; विस्मिताः astonished; च and; एव even; सर्वे all.Commentary Sadhyas are a class of gods of whom Brahma is the chief.Visvedevas are ten gods who in Vedic times were considered as protectors of human beings. They were called guardians of the world. They were givers of plenty to the human beings. Their names are Krata; Daksha; Vasu; Satya;
 Kama; Kala; Dhvani; Rochaka; Adrava and Pururava.The two Asvins; born of Prabha (light); daughter of Tushta and the Sun; are the physicians of the gods.Rudras; Adityas; Vasus and Maruts -- see tenth chapter; verses 21 and 23.Ushmapa A class of manes. They accept the food offered in the Sraaddha (anniversary) ceremony or the obseies; while it is hot. Hence they are called Ushmapas. There are seven groups of manes.Gandharvas are celestial singers such as Haha and Huhu.Yakshas such as Kubera (the god of wealth) Asuras such as Virochana perfected ones such as Kapila.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/22_rudrAdityA_vasavo.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.22।। जो ग्यारह रुद्र, बारह आदित्य, आठ वसु, बारह साध्यगण, दस
@@ -260,6 +277,7 @@ Kama; Kala; Dhvani; Rochaka; Adrava and Pururava.The two Asvins; born of Prabha 
 ।।11.22।। रुद्रगण, आदित्य, वसु और साध्यगण, विश्वेदेव तथा दो
 अश्विनीकुमार, मरुद्गण और उष्मपा, गन्धर्व, यक्ष, असुर और सिद्धगणों के
 समुदाय- ये सब ही विस्मित होते हुए आपको देखते हैं।।
+</details>
 </details>
 
 </div>

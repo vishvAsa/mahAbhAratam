@@ -23,8 +23,9 @@ title = "30 प्रवृत्तिञ् च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.30॥**प्रवृत्तिः** अभ्युदयसाधनभूतो धर्मः; **निवृत्तिः** मोक्षसाधनभूतो धर्मः; तौ उभौ यथावस्थितौ **या बुद्धिर् वेत्ति कार्याकार्ये** सर्ववर्णानां प्रवृत्तिनिवृत्तिधर्मयोः; अन्यतरनिष्ठानां देशकालावस्थाविशेषेषुइदं कार्यम् इदम् अकार्यम् इति च या वेत्ति **भयाभये** शास्त्रान् निवृत्तिर् भयस्थानं तद्नुवृत्तिर् अभयस्थानं **बन्धं मोक्षं च** संसारयाथात्म्यं तद्विगमयाथात्म्यं च **या वेत्ति; सा सात्त्विकी** बुद्धिः।
@@ -39,12 +40,14 @@ title = "30 प्रवृत्तिञ् च"
 
 18.30 'Activity' is that Dharma which is the means for wordly prosperity. 'Renunciation' is that Dharma which is the means for release. The Buddhi which knows both these as they are, is Sattviki-buddhi. Further, such a Buddhi is capable of distinguishing between what ought to be done and what ought not to be done by persons of different stations in life, having as their duty activity or renunciation at particular places or times. Such a Buddhi helps them to know 'This ought to be done and this ought not to be done.' Such a Buddhi discerns transgression of the Sastras as the cause of fear and observance of the Sastras as the cause of fearlessness. It enables one to distinguish between bondage and release, the true nature of Samsara and deliverance from it. The Buddhi that functions in these ways is Sattvika.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.30॥ --,**प्रवृत्तिं च** प्रवृत्तिः प्रवर्तनं बन्धहेतुः कर्ममार्गः शास्त्रविहितविषयः; **निवृत्तिं च** निर्वृत्तिः मोक्षहेतुः संन्यासमार्गः
 -- बन्धमोक्षसमानवाक्यत्वात् प्रवृत्तिनिवृत्ती कर्मसंन्यासमार्गौ इति
@@ -148,12 +151,14 @@ also is only a particular function of the intellect.
 वेत्ति कर्ता बुद्धिः सा प्रमाणजनितनिश्चयवती हे पार्थ; सात्त्विकी।
 बन्धमोक्षयोरन्ते कीर्तनात्तद्विषयमेव प्रवृत्त्यादि व्याख्यातम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.30॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -162,12 +167,14 @@ also is only a particular function of the intellect.
 
 ॥18.30॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.30 -- 18.32॥ प्रवृत्तिमित्त्यादि तामसी मतेत्यन्तम्। अयथावत् -- असम्यक्।
 </details>
@@ -176,12 +183,14 @@ also is only a particular function of the intellect.
 
 18.30 See Comment under 18.32
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.30॥ तथा हि प्रवृत्तिं चेति त्रिभिः। प्रवृत्तिरभ्युदयसाधनभूतो धर्मः;
 निवृत्तिर्मोक्षसाधनभूतो धर्मः; ताबुभौ यथास्थितौ बुद्धिर्वेत्ति या सा
@@ -200,10 +209,13 @@ also is only a particular function of the intellect.
 जानाति; हे पार्थ तथाज्ञानयोग्य सा बुद्धिः सात्त्विकी सत्त्वसम्बन्धिनी;
 ज्ञातव्येति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.30॥ तत्र बुद्धेस्त्रैविध्यमाह **-- प्रवृत्तिं चेति त्रिभिः।**
 प्रवृत्तिं च धर्मे निवृत्तिं चाधमें। यस्मिन् देशे काले च यत्कार्यमकार्यं
@@ -211,10 +223,13 @@ also is only a particular function of the intellect.
 बुद्धिरन्तःकरणं वेत्ति सा सात्त्विकी। यया पुमान् वेत्तीति वक्तव्ये करणे
 कर्तृत्वोपचारः काष्ठानि पचन्तीतिवत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.30 That Buddhi, O Arjuna, which knows activity and renunciation, what ought to be done and what ought not to be done, fear and fearlessness,
@@ -248,11 +263,13 @@ bondage and liberation that intellect is Sattvic (pure), O Arjuna.
 मोक्षम् liberation; च and; या which; वेत्ति knows; बुद्धिः intellect; सा
 that; पार्थ O Arjuna; सात्त्विकी Sattvic.Commentary The threefold nature of knowledge has been described already (verse 22 above). Now the threefold nature of the intellect is described. Knowledge is different from the intellect.Pravritti Action The cause of bondage the path of action. Nivritti Inaction The cause of liberation the path of renunciation the path of Sannyasa.Karyakarye The pure intellect knows what ought to be done and what ought not to be done at,particular places and times it knows the actions that produce visible or invisible results; that are enjoined or prohibited by the scriptures. It guides a man who relies on the scriptural ordinances for his daily conduct of life.Bhayabhaye Fear and fearlessness The cause of fear and fearlessness either visible or invisible.Bandham moksham Bondage and liberation together with their causes.Knowledge is a Vritti (function or state) of the intellect whereas intellect is what functions or undergoes the change of state. Even firmness is only a particular Vritti (modification or state) of the intellect. (Cf.XVIII.20)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/30_pravRtti~n_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.30।। हे पृथानन्दन ! जो बुद्धि प्रवृत्ति और निवृत्तिको, कर्तव्य और
@@ -376,6 +393,7 @@ that; पार्थ O Arjuna; सात्त्विकी Sattvic.Commentar
 
 ।।18.30।। हे पार्थ ! जो बुद्धि प्रवृत्ति और निवृत्ति, कार्य और अकार्य,
 भय और अभय तथा बन्ध और मोक्ष को तत्त्वत जानती है, वह बुद्धि सात्विकी है।।
+</details>
 </details>
 
 </div>

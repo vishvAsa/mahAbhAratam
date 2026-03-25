@@ -23,8 +23,9 @@ title = "17 कथं विद्यामहम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.17॥**अहं योगी** भक्तियोगनिष्ठः सन् भक्त्या **त्वां सदा परिचिन्तयन्** चिन्तयितुं प्रवृत्तश् चिन्तनीयं त्वां परिपूर्णैश्वर्यादिकल्याणगुणगणं **कथं विद्या** पूर्वोक्तबुद्धिज्ञानादिभाव्यतिरेक्तेष्व् अनुक्तषु **केषु केषु च भावेषु मया** नियन्तृत्वेन **चिन्त्यो ऽसि।**
@@ -41,12 +42,14 @@ title = "17 कथं विद्यामहम्"
 'constantly meditating on You' with devotion, namely, embarked on meditation on You, - how am I to know You, the object of meditation, as possessing a multitude of auspicious attributes like sovereignty etc.;
 And in what varied modes of mental dispositions, which are as yet untold and which are different from the intelligence, knowledge etc., described earlier, are You the Controller of all, to be meditated upon by me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.17॥ --,**कथं विद्यां** विजानीयाम् **अहं** हे **योगिन् त्वां सदा परिचिन्तयन्। केषु केषु च भावेषु** वस्तुषु **चिन्त्यः असि** ध्येयः असि **भगवन् मया**॥
 </details>
@@ -102,12 +105,14 @@ to be meditated on; maya, by me;
 मद्विभूतिषु मां ध्यायन्; ज्ञास्यसि तत्राह -- केषु केषु च भावेषु
 चेतनाचेतनात्मकेषु वस्तुषु त्वद्विभूतिभूतेषु मया चिन्त्योऽसि हे भगवन्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.17॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -116,12 +121,14 @@ to be meditated on; maya, by me;
 
 ॥10.17॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.17॥ No commentary.
 </details>
@@ -130,12 +137,14 @@ to be meditated on; maya, by me;
 
 10.17 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.17 -- 10.18॥ किमर्थं तत्प्रकाशनं इत्यपेक्षायामाह -- कथं विद्यामिति।
 अहं त्वया योगी विधीये तस्य च चिन्तनं युक्तमेवेति। केषुकेषूभयविधेषु
@@ -158,19 +167,25 @@ to be meditated on; maya, by me;
 केषु लोकेषु; च पुनः केषु भावेषु पदार्थेषु भगवन् षड्गुणैश्वर्य पूर्णगुणैः
 सर्वव्यापक मया चिन्तनीयोऽसि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.17॥ कथनप्रयोजनं दर्शयन्प्रार्थयते **-- कथमिति** द्वाभ्याम्। हे
 योगिन्; कथं कैर्विभूतिभेदैः सदा परिचिन्तयन्नहं त्वां विद्यां जानीयाम्।
 विभूतिभेदेन चिन्त्योऽपि त्वं केषु केषु पदार्थेषु मया चिन्तनीयोऽसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.17 How can I, Your devotee, know You by constantly meditating on You;
@@ -205,11 +220,13 @@ What are Thy various manifestations through which I am to mediate on Thee;
 Thee; सदा always; परिचिन्तयन् meditating; केषु केषु in what and what; च
 and; भावेषु aspects; चिन्त्यः to be thought of; असि (Thou) art; भगवन् O blessed Lord; मया by me.Commentary Arjuna says O Lord; how may I know Thee by constant meditation In what aspects art Thou to be thought of by me Even when I think of external objects I can meditate on Thee in Thy particular manifestations in them if I have a detailed knowledge of Thy glories. Therefore deign to tell me; without reserve; of Thy own glories. Then only can I behold oneness everywhere.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.17।। हे योगिन् ! हरदम साङ्गोपाङ्ग चिन्तन करता हुआ मैं आपको कैसे
@@ -256,6 +273,7 @@ and; भावेषु aspects; चिन्त्यः to be thought of; अ�
 ।।10.17।। हे योगेश्वर ! मैं किस प्रकार निरन्तर चिन्तन करता हुआ आपको
 जानूँ, और हे भगवन् ! आप किनकिन भावों में मेरे द्वारा चिन्तन करने योग्य
 हैं।।
+</details>
 </details>
 
 </div>

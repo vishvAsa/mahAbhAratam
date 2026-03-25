@@ -23,8 +23,9 @@ title = "08 अहं सर्वस्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.8॥**अहं सर्वस्य** विचित्रचिदचित्प्रपञ्चस्य **प्रभवः** उत्पत्तिकारणम् **सर्वं मत्त** एव **प्रवर्तते** **इति** इदं मम स्वाभाविकं निरङ्कुशैश्वर्यं सौशील्यसौन्दर्यवात्सल्यादिकल्याणगुणगणयोगं च **मत्वा** बुधा ज्ञानिनो **भावसमन्विता मां** सर्वकल्याणगुणान्वितं **भजन्ते।** भावो मनोवृत्तिविशेषः; मयि स्पृहयालवो मां भजन्त इत्यर्थः। कथम् --
@@ -41,12 +42,14 @@ title = "08 अहं सर्वस्य"
 
 10.8 I am the 'origin', namely, the cause of originating everything in this universe consisting of wonderful sentient and non-sentient beings. From Me proceed everything. Thinking thus of My sovereignty, natural and unhindered, and knowing Me as endowed with a multitude of auspicious attributes like condescension, beauty, parental affection etc., the wise or the men of knowledge worship Me with devotion endowed as I am with all auspicious attributes. 'Bhava' is a particular disposition, here a loving disposition, of the mind. The meaning is that they worship Me with intense yearning of the heart. How;
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.8॥ --,**अहं** परं ब्रह्म वासुदेवाख्यं **सर्वस्य** जगतः **प्रभवः** उत्पत्तिः। **मत्तः** एव स्थितिनाशक्रियाफलोपभोगलक्षणं विक्रियारूपं **सर्वं** जगत् **प्रवर्तते। इति** एवं **मत्वा भजन्ते** सेवन्ते **मां बुधाः** अवगतपरमार्थतत्त्वाः; **भावसमन्विताः** भावः भावना परमार्थतत्त्वाभिनिवेशः तेन समन्विताः संयुक्ताः इत्यर्थः॥ किञ्च --,
 </details>
@@ -123,12 +126,14 @@ bhajante, adore; mam, Me. Besides,
 बुधा विवेकेनावगततत्त्वाभावेन परमार्थतत्त्वग्रहणरूपेण प्रेम्णा समन्विताः
 सन्तो मां भजन्ते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.8 -- 10.10॥ सन्ति च भजन्तः केचिदित्याह -- अहमित्यादिना।
 </details>
@@ -139,12 +144,14 @@ bhajante, adore; mam, Me. Besides,
 तत्किमर्थं पुनरुच्यते इत्यतस्तात्पर्यान्तरमाह -- **सन्ति** **चे**ति।
 उक्तफले विश्वासजननार्थमिति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.6 -- 10.11॥ महर्षय इत्यादि भास्वता इत्यन्तम्। परस्परबोधनया अन्योन्यबोधस्फारसंक्रमणात् सर्व एव हि प्रमातारः एक ईश्वर इति विततव्याप्त्या +++(S;;N वितत्य व्याप्त्या)+++ सुखेनैव सर्वशक्तिकसर्वगतस्वात्मरूपताधिगमेन +++(S -- ताधिशयनेन अधिगमेन)+++ माहेश्वर्यमेषामिति भावः +++(After इति भावः ;N add तेषां सततयुक्तानाम् इत्यतः प्रभृति अध्यायान्ता टीका उट्टङ्किता युगपद्धि वेद्या। तेषामेव अनु च अर्जुनप्रश्नपद्यानि षट् उल्लिखति। श्रीभगवान् अथवा बहुना इति पर्यन्तानि पद्यानि 23,वक्ति॥ These sentences are obviously of some copyist. It is to be noted however that the Mss. generally contain seven (not six)+++ verses of Arjuna and then 24 +++(not 23)+++ verses of the hagavan) ।
 </details>
@@ -153,12 +160,14 @@ bhajante, adore; mam, Me. Besides,
 
 10.8 See Comment under 10.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.8 -- 10.10॥ विभूतियोगज्ञानविपाकरूपभक्तिविवृद्धिं दर्शयति चतुर्भिः
 पुमर्थरूपैः अहमित्यादिभिः -- अहं सर्वस्य प्रभव इत्यादि।
@@ -191,10 +200,13 @@ bhajante, adore; mam, Me. Besides,
 सन्तो बुधाः पण्डिता विवेकिनः; इति अमुना प्रकारेण क्रीडात्मकतया
 प्रकटीभूतरूपं मां भजन्ते सेवन्ते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.8॥ यथा च विभूतियोगयोर्ज्ञानेन सम्यग्ज्ञानावाप्तिस्तद्दर्शयति **--
 अहमित्यादिचतुर्भिः।** अहं सर्वस्य जगतः प्रभवो
@@ -202,10 +214,13 @@ bhajante, adore; mam, Me. Besides,
 सर्वस्यबुद्धिर्ज्ञानमसंमोहः इत्यादि सर्वं प्रवर्तत इति; एवं मत्वाऽवबुध्य
 बुधा विवेकिनो भावसमन्विताः प्रीतियुक्ता मां भजन्ते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.8 I am the origin of all; from Me proceed everything thinking thus the wise worship Me with all devotion (Bhava).
@@ -242,11 +257,13 @@ They are steadfast in Yoga. They are endowed with unshakable Yoga. They are enth
 destruction (Nasa); action (Kriya); fruit (Phala) and enjoyment (Bhoga).
 Understanding thus; the wise adore the Supreme Being and engage themselves in profound meditation on the Absolute. (Cf.IX.10)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.8।। मैं संसारमात्रका प्रभव (मूलकारण) हूँ, और मुझसे ही सारा संसार
@@ -307,6 +324,7 @@ Understanding thus; the wise adore the Supreme Being and engage themselves in pr
 ।।10.8।। मैं ही सबका प्रभव स्थान हूँ; मुझसे ही सब (जगत्) विकास को
 प्राप्त होता है, इस प्रकार जानकर बुधजन भक्ति भाव से युक्त होकर मुझे ही
 भजते हैं।।
+</details>
 </details>
 
 </div>

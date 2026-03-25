@@ -23,8 +23,9 @@ title = "15 नादत्ते कस्यचित्पापम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.15॥ **कस्यचित्** स्व-सम्बन्धितया ऽभिमतस्य पुत्रादेः  
@@ -67,12 +68,14 @@ title = "15 नादत्ते कस्यचित्पापम्"
 
 5.15 Because, It, the Atman is 'all-pervading', i.e., is not limited to particular area or space included in the bodies of gods, men etc.; It is not the relative or the enemy of any one. For this reason It does not take away or remove the evil or suffering of anyone such as a son who is related and therefore dear to one; nor does It take away, i.e., remove the happiness of anyone whom It deems with aversion. All this is the effect of Vasanas or subtle impressions of Prakrti. How does do these contrary Vasanas originte in the case of one whose intrinsic nature is a described above; In answer it is said that knowledge is enveloped by the darkness of ignorance. The Atman's knowledge is enveloped, i.e., contracted by preceding Karmas which are opposed to knowledge, so that a person may be alified to experience the fruits of his own Karma. It is by this Karma, which contracts knowledge, and can join the Jiva with the bodies of gods etc., that the misconception that the bodies are the selves is produced. Conseently there will originate the Vasanas or the unconscious subtle impressions born of such misapprehension of the self and the inclination to undertake actions corresponding to them. Sri Krsna now brings into proper seence what has been taught before in the following verses: 'You will completely cross over the sea of all your sins with the boat of knowledge' (4.36), and 'The fire of knowledge reduces all Karmas to ashes in the same way' (4.37), and 'For there is no purifier here eal to knowledge' (4.38).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.15॥ **न आदत्ते** न च गृह्णाति भक्तस्यापि **कस्यचित् पापम्।** न **चैव** आदत्ते **सुकृतं** भक्तैः प्रयुक्तं **विभुः।** किमर्थं तर्हि भक्तैः पूजादिलक्षणं यागदानहोमादिकं च सुकृतं प्रयुज्यते इत्याह **अज्ञानेन आवृतं ज्ञानं** विवेकविज्ञानम् **तेन मुह्यन्ति** करोमि कारयामि भोक्ष्ये भोजयामि इत्येवं मोहं गच्छन्ति अविवेकिनः संसारिणो **जन्तवः**॥
 </details>
@@ -194,12 +197,14 @@ deluded thus-'I do; I make others do; I eat; I make others eat.'
 मूढप्रत्ययानुवादिन्यावेते श्रुतिस्मृती वास्तवाद्वैतबोधिवाक्यशेषभूते इति
 न दोषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.15॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -208,12 +213,14 @@ deluded thus-'I do; I make others do; I eat; I make others eat.'
 
 ॥5.15॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.15॥ अत एव क्रियातत्फलयोरभावे विधिफलस्यापि नादृष्टकृतता काचित् इत्यर्धेन अभिधाय अर्धान्तरेण संसारिणः प्रति तत्समर्थनं कर्तुमाह नादत्ते इति। पापादीनि नैतत्कृतानि किं तु निजेन अज्ञानेन कृतानि शङ्कयेव अमृते विषयम् +++(omits पापादीनि विषम्)+++।
 </details>
@@ -222,12 +229,14 @@ deluded thus-'I do; I make others do; I eat; I make others eat.'
 
 5.15 Nadatte etc. The sinful acts and the like have been effected not by the Soul; but they have been effected by the Illusion belonging to It, just as a poison is effected in the nectar by a doubt. Therefore-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.15॥ यस्मादेवं तस्मान्नादत्ते न भजते पापं पुण्यं च कारयितृत्वं च
 तत्साधकतमविसर्जनादेवोपयुज्यते। बुद्धीन्द्रियमनःप्राणान् भाग.10।87।2
@@ -262,10 +271,13 @@ deluded thus-'I do; I make others do; I eat; I make others eat.'
 कर्मकारणत्वमुच्यते न तु कर्मफलत्वमागच्छति किन्तु
 विचित्रेच्छात्वमेवायातीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.15॥ यस्मादेवं तस्मात् **नादत्त इति।** प्रयोजकोऽपि सन्प्रभुः
 कस्यचित्पापं सुकृतं च नैवादत्ते न भजते। तत्र हेतुःविभुः परिपूर्णः।
@@ -277,10 +289,13 @@ deluded thus-'I do; I make others do; I eat; I make others eat.'
 ज्ञानमावृतम्। तेन हेतुना जन्तवो जीवा मुह्यन्ति। भगवति वैषम्यं मन्यन्त
 इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.15 The all-pervading One takes away neither the sin nor the merit of any one. Knowledge is enveloped by ignorance. Creatures are thery deluded.
@@ -317,11 +332,13 @@ and; एव even; सुकृतम् merit; विभुः the Lord; अज�
 जन्तवः beings.Commentary Knowledge is enveloped by ignorance. Conseently man is deluded. He thinks; I act. I enjoy. I have done such and such a meritourious act. I will get such and such a fruit. I will enjoy in heaven. I will get a birth in a rich family.Of anyone even of His devotees.Man is bound when he is identifies himself with Nature and its effects -- body; mind; Prana or the lifeforce; and senses. He attains freedom or Moksha when he identifies himself with the immortal;
 actionless Self that dwells within his heart.When I does not act how can God accept good or evil deeds (Cf.V.29)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.15।। सर्वव्यापी परमात्मा न किसीके पापकर्मको और न शुभकर्मको ही ग्रहण
@@ -452,6 +469,7 @@ actionless Self that dwells within his heart.When I does not act how can God acc
 ।।5.15।। विभु परमात्मा न किसी के पापकर्म को और न पुण्यकर्म को ही ग्रहण
 करता है; (किन्तु) अज्ञान से ज्ञान ढका हुआ है, इससे सब जीव मोहित होते
 हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "11 अफलाकाङ्क्षिभिर्यज्ञो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.11॥ फलाकाङ्क्षारहितैः पुरुषैः **विधिदृष्टः** शास्त्रदृष्टः मन्त्रद्रव्यक्रियादिभिर् युक्तः। **यष्टव्यम् एव इति** भगवदाराधनत्वेन स्वयम्प्रयोजनतया यष्टव्यम् इति **मनः समाधाय यो यज्ञ इज्यते स सात्त्विकः।**
@@ -39,12 +40,14 @@ title = "11 अफलाकाङ्क्षिभिर्यज्ञो"
 
 17.11 That sacrifice is marked by Sattva which is offered by those desiring no fruits, with the 'conviction', i.e., with the idea that it ought to be performed or that it should be offered for its own sake as worship of the Lord as enjoined in the injunctions of the Sastras, i.e., with hymns, right materials and proper rituals.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.11॥ --,**अफलाकाङ्क्षिभिः** अफलार्थिभिः **यज्ञः विधिदृष्टः** शास्त्रचोदनादृष्टो **यः** यज्ञः **इज्यते** निर्वर्त्यते; **यष्टव्यमेवेति** यज्ञस्वरूपनिर्वर्तनमेव कार्यम् इति **मनः समाधाय;** न अनेन पुरुषार्थो मम कर्तव्यः इत्येवं निश्चित्य; **सः सात्त्विकः** यज्ञः उच्यते॥
 </details>
@@ -110,12 +113,14 @@ sacrifice which is sattvikah, done through sattva.
 इज्यतेऽनुष्ठीयते स यथाशास्त्रमन्तःकरणशुद्ध्यर्थमनुष्ठीयमानो नित्यप्रयोगः
 सात्त्विको ज्ञेयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.11॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -124,12 +129,14 @@ sacrifice which is sattvikah, done through sattva.
 
 ॥17.11॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.11 -- 17.13॥ अफलेत्यादि परिचक्षते इत्यन्तम्। मनः समाधाय निश्चयेनानुसंधाय। दम्भार्थमपीति -- दंभः लोको +++(N लोके )+++ मामेवं -- विधं जानीयादिति। विधिहीनमिति -- शास्त्रोक्तक्रियाविहीनम् तदेवासृष्टान्नादिभिर्विशेषणैर्वितन्यते।
 </details>
@@ -138,12 +145,14 @@ sacrifice which is sattvikah, done through sattva.
 
 17.11 See Comment under 17.13
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.11॥ शास्त्रीययज्ञस्य च त्रैविध्यं त्रिभिः स्पष्टम् -- अफलेति।
 </details>
@@ -157,10 +166,13 @@ sacrifice which is sattvikah, done through sattva.
 समाधाय निश्चलं कृत्वा इज्यते अनुष्ठीयते स यज्ञः सात्त्विक इत्यर्थः।
 एतादृग्यज्ञकर्ता सात्त्विको ज्ञेयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.11॥ यज्ञोऽपि त्रिविधः तत्र सात्त्विकं यज्ञमाह  ***--
 अफलाकाङ्क्षिभिरिति त्रिभिः।*** फलाकाङ्क्षारहितैः पुरुषैर्विधिना दृष्ट
@@ -168,10 +180,13 @@ sacrifice which is sattvikah, done through sattva.
 यष्टव्यमेवेति यज्ञानुष्ठानमेव कार्यं नान्यत्फलं साधनीयमित्येवं मनः
 समाधाय। एकाग्रं कृत्वेत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.11 The sacrifice (worship) marked by Sattva is what is offered by those desiring no fruit, and having the conviction that it should be performed as enjoined in the Sastras.
@@ -209,11 +224,13 @@ without the least taint of desire for reward; with the mind fixed on the sacrifi
 He performs them with the firm belief that they ought to be done. He does them with the firm resolve that sacrifice is a duty.Yajna here is not limited to the ceremonial sacrifice. It is used in a broad sense.
 Any unselfish action done without attachment; without agency or egoism and without expectation of reward; as an offering unto the Lord; is a Yajna or sacrifice.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.11।। यज्ञ करना कर्तव्य है -- इस तरह मनको समाधान करके फलेच्छारहित
@@ -307,6 +324,7 @@ Any unselfish action done without attachment; without agency or egoism and witho
 ।।17.11।। जो यज्ञ शास्त्रविधि से नियन्त्रित किया हुआ तथा जिसे "यह मेरा
 कर्तव्य है" ऐसा मन का समाधान (निश्चय) कर फल की आकांक्षा नहीं रखने वाले
 लोगों के द्वारा किया जाता है, वह यज्ञ सात्त्विक है।।
+</details>
 </details>
 
 </div>

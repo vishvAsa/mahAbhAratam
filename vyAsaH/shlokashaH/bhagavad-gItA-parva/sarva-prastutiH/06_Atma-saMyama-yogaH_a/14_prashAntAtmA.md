@@ -23,8 +23,9 @@ title = "14 प्रशान्तात्मा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.14॥**कायशिरोग्रीवं समम् अचलं** सापाश्रयतया **स्थिरं धारयन् दिशश्च अनवलोकयन् स्वं नासिकाग्रं सम्प्रेक्ष्य प्रशान्तात्मा** अत्यन्तनिर्वृतमना विगतभीर् ब्रह्मचर्ययुक्तो **मनः संयम्य मच्चित्तो युक्तः** अवहितो **मत्पर आसीत** माम् एव चिन्तयन् आसीत।
@@ -39,12 +40,14 @@ title = "14 प्रशान्तात्मा"
 
 6.13 - 6.14 Keeping the trunk, head and neck erect and motionless; well seated in order to be steady; looking not in any direction but gazing at the tip of the nose; serene, i.e., holding the mind extremely peaceful; fearless; firm in the vow of celibacy; holding the mind in check; and fixing his thoughts on Me - he should sit in Yoga, i.e., remain concentrated and intent on Me, i.e., he should concentrating on Me only.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.14॥ **प्रशान्तात्मा** प्रकर्षेण शान्तः आत्मा अन्तःकरणं यस्य सोऽयं प्रशान्तात्मा **विगतभीः** विगतभयः **ब्रह्मचारिव्रते स्थितः** ब्रह्मचारिणो व्रतं ब्रह्मचर्यं गुरुशुश्रूषाभिक्षान्नभुक्त्यादि तस्मिन् स्थितः तदनुष्ठाता भवेदित्यर्थः। किञ्च **मनः संयम्य** मनसः वृत्तीः उपसंहृत्य इत्येतत् **मच्चित्तः** मयि परमेश्वरे चित्तं यस्य सोऽयं मच्चित्तः **युक्तः** समाहितः सन् **आसीत** उपविशेत्। **मत्परः** अहं परो यस्य सोऽयं मत्परो भवति। कश्चित् रागी स्त्रीचित्तः न तु स्त्रियमेव परत्वेन गृह्णाति किं तर्हि राजानं महादेवं वा। अयं तु मच्चित्तो मत्परश्च॥ अथेदानीं योगफलमुच्यते
 </details>
@@ -170,12 +173,14 @@ Yoga:
 व्याख्या॥ व्याख्यातृत्वेऽपि मे नात्र भाष्यकारेण तुल्यता। गुञ्जायाः किं
 नु हेम्नैकतुलारोहेऽपि तुल्यता।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.12 6.14॥ योगं समाधियोगं युञ्ज्यात्।
 </details>
@@ -185,12 +190,14 @@ Yoga:
 ॥6.12 6.14॥ उपविश्यासन इत्यत्रापि योगशब्द एवमेव व्याख्येय इत्याह
 योगमिति। स्थानविवेकार्थं युञ्ज्यादित्युक्तम् कुर्यादिति यावत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.10 6.15॥ ननु जितात्मनः इत्युक्तम् तत्कथं तज्जय इत्याशङ्क्य आरुरुक्षोः कश्चिदुपायः कायसमत्वादिकः +++(SN कायसमुद्धारकः)+++ चित्तसंयम उपदिश्यते योगीत्यादि अधिगच्छतीत्यन्तम्। आत्मानं च चित्तं च युञ्जीत एकाग्रीकुर्यात्। सततमिति न परिमितं कालम्। एकाकित्वादिषु सत्सु एतद्युज्यते +++(N युञ्जीत)+++ नान्यथा। आसनस्थैर्यात् कालस्थैर्ये +++(S कालस्थैर्यम्)+++ चित्तस्थैर्यम्। चित्तक्रियाः संकल्पात्मनः अन्याश्चेन्द्रियक्रिया येन यताः नियमं नीताः। धारयन् यत्नेन। नासिकाग्रस्यावलोकने सति दिशामनवलोकनम्। मत्परमतया युक्त आसीत +++(N आसीत्)+++ इत्यर्थः +++(S omits इत्यर्थः)+++। एवमात्मानं युञ्जतः समादधतः शान्तिर्जायते यस्यां संस्थापर्यन्तकाष्ठा मत्प्राप्तिः +++(K प्राप्तिर्योगोऽस्तीति)+++।
 </details>
@@ -199,12 +206,14 @@ Yoga:
 
 6.14 See Comment under 6.15
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.14॥ प्रशान्तात्मेति। मैत्र्यादिचित्तपरिकर्मवित्त्वात्
 अविद्यादिपञ्चक्लेशभयरहितः। सबीजयोगिनस्तस्य सम्प्रज्ञातसमाधिप्रकारमाह मनः
@@ -222,20 +231,26 @@ Yoga:
 कृत्वा मच्चित्तो मय्येव चित्तं यस्य। मत्परः अहमेव परः पुरुषार्थरूपो
 यस्य। एतादृशो भूत्वा युक्तः मद्योगस्थ आसीत तिष्ठेत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.14॥ **प्रशान्तेति।** प्रशान्त आत्मा चित्तं यस्य विगता भीर्भयं यस्य
 ब्रह्मचारिव्रते ब्रह्मचर्ये स्थितः सन् मनः संयम्य प्रत्याहृत्य। मय्येव
 चित्तं यस्य अहमेव परः पुरुषार्थो यस्य स मत्परः एवं युक्तो भूत्वा आसीत
 तिष्ठेत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.14 Serene and fearless, firm in the vow of celibacy, holding the mind in check and fixing the thought on Me, he should sit in Yoga, intent on Me.
@@ -272,11 +287,13 @@ A timid man or a coward is very far from Selfrealisation.A Brahmachari
 That Brahmachari who has preserved this vital force by the vow,of celibacy and sublimated it into Ojas Sakti or radiant spiritual power can practise steady meditation for a long period. Only he can ascend the ladder of Yoga. Without Brahmacharya or celibacy not an iota or spiritual progress is possible. Continence is the very foundation on which the superstructure of meditation and Samadhi can be built up. Many persons waste this vital energy -- a great spiritual treasure indeed --
 when they become blind and lose their power of reason under sexual excitement. Pitiable is their lot They cannot make substantial progress in Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.14।। जिसका अन्तःकरण शान्त है, जो भय-रहित है और जो ब्रह्मचारिव्रतमें
@@ -358,6 +375,7 @@ when they become blind and lose their power of reason under sexual excitement. P
 ।।6.14।। (साधक को) प्रशान्त अन्त:करण, निर्भय और ब्रह्मचर्य ब्रत में
 स्थित होकर, मन को संयमित करके चित्त को मुझमें लगाकर मुझे ही परम लक्ष्य
 समझकर बैठना चाहिए।।
+</details>
 </details>
 
 </div>

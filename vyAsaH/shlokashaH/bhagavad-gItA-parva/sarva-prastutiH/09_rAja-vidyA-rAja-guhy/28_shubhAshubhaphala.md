@@ -23,8 +23,9 @@ title = "28 शुभाशुभफलैरेवम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.28॥**एवं** सन्न्यासाख्ययोगयुक्तमना आत्मानं मच्छेषतामन्नियाम्यतैकरसं कर्म च सर्वं मदाराधनम् अनुसन्दधानो लौकिकं वैदिकं च कर्म कुर्वन् **शुभाशुभफलैः** अनन्तैः प्राचीनकर्माख्यैः **बन्धनैर् मत्प्राप्तिविरोधिभिः सर्वैर् मोक्ष्यसे;** तैः **विमुक्तो माम्** एव **उपैष्यसि। मम इमं परमम् अतिलोकं स्वभावं श्रृणु --**
@@ -39,12 +40,14 @@ title = "28 शुभाशुभफलैरेवम्"
 
 9.28 Thus, eipped with a mind which is firmly set in Yoga, called Sannyasa, considering yourself as one whose delight lies in being a subsidiary (Sesa) to Me and subject to My control and all acts to be My worship, and engaging yourself in secular and Vedic actions with such an attitude, you will free yourself from countless bonds, called ancient Karmas, productive of auspicious and inauspicious results which stands as a hindrance preventing you from attaining Me. Freed from them, you shall come to Me only. Listen now, to My supreme nature which transcends the world:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.28॥ --,**शुभाशुभफलैः** एवं शुभाशुभे इष्टानिष्टे फले येषां तानि शुभाशुभफलानि कर्माणि तैः शुभाशुभफलैः **कर्मबन्धनैः** कर्माण्येव बन्धनानि कर्मबन्धनानि तैः कर्मबन्धनैः एवं मदर्पणं कुर्वन् **मोक्ष्यसे।** सोऽयं संन्यासयोगो नाम; संन्यासश्च असौ मत्समर्पणतया कर्मत्वात् योगश्च असौ इति; तेन संन्यासयोगेन युक्तः आत्मा अन्तःकरणं यस्य तव सः त्वं **संन्यासयोगयुक्तात्मा** सन् **विमुक्तः** कर्मबन्धनैः जीवन्नेव पतिते चास्मिन् शरीरे **माम् उपैष्यसि** आगमिष्यसि॥ रागद्वेषवान् तर्हि भगवान्; यतो भक्तान् अनुगृह्णाति; न इतरान् इति। तत् न --,
 </details>
@@ -127,12 +130,14 @@ so:
 इदानीमपि सद्रूपः सन्सर्वोपाधिनिवृत्त्या मायिकभेदव्यवहारविषयो न
 भविष्यसीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.28॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -141,12 +146,14 @@ so:
 
 ॥9.28॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.27 -- 9.28॥ यदपि अन्यत् कर्म; तदपि महेश्वरस्वात्मार्चनरूपं; तस्यैव सर्वत्रोद्देशात् इत्याह -- यत् करोषीति। शुभाशुभेति। देवतान्तरयाजिनो यतो मितमनोरथाः फलं लघयन्ति; अतस्त्वं सर्वं प्रागुक्तोपदेशक्रमेण मदर्पणं मन्मयत्वेन भावन +++(S omits मन्मयत्वेन भावनम्)+++ कुरु। एष एव च संन्यासयोग इति विस्तीर्णं विस्पष्टप्रायं पुरस्तादेव।
 </details>
@@ -155,12 +162,14 @@ so:
 
 9.27-28 Yat karosi etc. Subhasubha - etc. Because the performers of sacrifices intending other deities have in their mind only limited purpose, and \[hence\] belitle the \[principal\] result \[of the sacrifice etc.\]; therefore all \[actions\] you should offer, by the method advised above, to Me i.e., consider them to be absorbed in Me (or to be born of Me). This is the renunciation-Yoga. Extensively it has already been made almost ite clear.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.28॥ एवं च मर्यादायामनुगृहीतस्य तव या फलसिद्धिस्तामवधेहि -- शुभेति।
 एवं सति सन्न्यासस्त्यागो भजनार्थः फलादिविषयकोमनसैवानुद्रष्टव्यं इति वा
@@ -180,10 +189,13 @@ so:
 मद्भक्त्यात्मकस्तेन युक्त आत्मा अन्तःकरणं यस्य तादृशः सन्
 कर्मबन्धनैर्विमुक्तो मामुपैष्यसि प्राप्स्यसीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.28॥ एवं च यत्फलं प्राप्स्यसि तच्छृणु **-- शुभेति।** एवं
 कुर्वन्कर्मबन्धनैः कर्मनिमित्तैरिष्टानिष्टैः फलैर्मुक्तो भविष्यसि।
@@ -191,10 +203,13 @@ so:
 सन्संन्यासयोगयुक्तात्मा संन्यासः कर्मणां मदर्पणं स एव योगस्तेन युक्त
 आत्मा चित्तं यस्य तथाभूतस्त्वं मां प्राप्स्यसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.28 Thus eipped in mind with the Yoga of renunciation, you will free yourself from the bonds of Karma, productive of auspicious as well as inauspicious fruits. Thus liberated, you will come to Me.
@@ -228,11 +243,13 @@ and liberated, thou shalt come unto Me.
 shalt be freed; कर्मबन्धनैः from the bonds of actions;
 संन्यासयोगयुक्तात्मा with the mind steadfast in the Yoga of renunciation; विमुक्तः liberated; माम् to Me; उपैष्यसि (thou) shalt come.Commentary Evam Thus -- when you thus offer everything to Me.Renunciation of the fruits of all works is Sannyasa. He who is eipped with the mind steadfast in the Yog of renunciation is Sannyasayogayuktatma. The act of offering everything unto the Lord,constitutes the Yoga of renunciation. It is also Yoga as it is an action. With the mind endowed with renunciation and Yoga thou shalt be freed from good and evil results while yet living and thou shalt come unto Me when this body falls.An objector says; Then the Lord has love and hatred as He confers His grace on His devotees only and not on others.The answer is; Not so. The Lord is impartial and is beyond love and hatred. His grace flows towards all. But the devotee recieves it freely as he has opened his heart to the reception of His grace.This is explained in the next verse.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.28।। इस प्रकार मेरे अर्पण करनेसे जिनसे कर्मबन्धन होता है, ऐसे शुभ
@@ -325,6 +342,7 @@ shalt be freed; कर्मबन्धनैः from the bonds of actions;
 ।।9.28।। इस प्रकार तुम शुभाशुभ फलस्वरूप कर्मबन्धनों से मुक्त हो जाओगे;
 और संन्यासयोग से युक्तचित्त हुए तुम विमुक्त होकर मुझे ही प्राप्त हो
 जाओगे।।
+</details>
 </details>
 
 </div>

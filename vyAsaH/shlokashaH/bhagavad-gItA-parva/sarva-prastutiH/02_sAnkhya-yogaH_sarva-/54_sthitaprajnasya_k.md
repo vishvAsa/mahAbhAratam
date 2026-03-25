@@ -26,8 +26,9 @@ title = "54 स्थितप्रज्ञस्य का"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.54॥ अर्जुन उवाच **समाधिस्थस्य स्थितप्रज्ञस्य का भाषा** को वाचकः शब्दस् तस्य स्वरूपं कीदृशम् इत्यर्थः। स्थितप्रज्ञः किं च भाषणादिकं करोति।  
@@ -45,12 +46,14 @@ title = "54 स्थितप्रज्ञस्य का"
 
 2.54 Arjuna said What is the speech of a man of firm wisdom who is abiding with the mind controlled; What words can describe his state; What is his nature; This is the meaning of 'How does a man of firm wisdom speak etc.;' His specific conduct is now described as his nature can be inferred therefrom.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.54॥  
   
@@ -176,12 +179,14 @@ this verse Arjuna asks for a description of the man of steady wisdom.
 संबोधयन्सर्वान्तर्यामितया त्वमेवैतादृशं रहस्यं वक्तुं समर्थोऽसीति
 सूचयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.54॥ स्थिता प्रज्ञा ज्ञानं यस्य स स्थितप्रज्ञः। भाष्यतेऽनयेति भाषा
 लक्षणमित्यर्थः। उक्तं लक्षणमनुवदति लक्षणानन्तरं पृच्छामीति
@@ -238,12 +243,14 @@ this verse Arjuna asks for a description of the man of steady wisdom.
 प्रकाशन्ते। न च प्रश्नाकरणे तदुपनिबन्धनं सम्भवतीति भावः।
 एतेनमोहादिस्त्वभिभवादेः इत्येतत्प्रपञ्चितं भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.56॥ स्थितप्रज्ञस्येति। यदा स्थास्यति बुद्धिः इत्यनेन वचसा समाधिस्थस्य योगिनो यः स्थितप्रज्ञशब्दः (स्थित and स्थिर are found often interchanged in CA.) +++(N omit शब्दः)+++ तत्र वाचक उक्तस्तस्य का भाषा किं प्रवृत्तिनिमित्तम् भाष्यते येन निमित्तेन शब्दैरर्थ इति कृत्वा। योगिनः स्थितप्रज्ञशब्दः +++(N omit शब्दः)+++ किं रूढ्या वाचकः अन्वर्थतया वा +++(S omits वा)+++ इत्येकः प्रश्नः। यद्यपि रूढौ शङ्कैव नास्ति तथापि अन्वर्थतां लब्धामपि स्वरूपलक्षणनिमित्तानिरूपणेन +++(N त्तरूपेण)+++ स्फुटीकर्तुमेष +++(S प्रस्फुटी)+++ प्रश्नः। स्थिरधीरिति शब्दपदार्थकः अर्थपदार्थकश्च। तत्र +++(N omit च तत्र)+++ स्थिरधीशब्दः किं प्रयोगलक्षणमेवार्थमाह आहो तपस्विनमपि इति द्वितीयः प्रश्नः। स च स्थिरधीर्योगी किमासीत किमभ्यसेत् क्वास्य स्थैर्यं स्यात् इति तृतीयः। अभ्यस्यंश्च +++(N अभ्यसंश्च)+++ किमाप्नुयात् इति चतुर्थः। एतदेव प्रश्नचतुष्टयं क्रमेण निर्णीयते भगवता +++(S इति प्रश्नचतुष्यम् अज्ञा (र्जु)+++ नेन कृतं क्रमेण निर्णीयते श्रीभगवता)।
 </details>
@@ -254,12 +261,14 @@ this verse Arjuna asks for a description of the man of steady wisdom.
 - above II, 55\]' it has been \[virtually\] stated there that the
 appellation sthita-prajna (man-of-stabilized-intellect) is a nomenclature signifying man-of-Yoga who is fixed in concentration. Now, what is the connotation of it, i.e., what is the basis for the usage of this nomenclature ; For, \[connotation is that\] basing on which a particular meaning is connoted by words. Does the appellation sthita-prajna of the man-of-Yoga speak of him through its traditional (or conventional) force of the word or through its force of etymology ; This is the first estion. Of course, regarding the traditional force of the word there is no doubt at all. \[For, it has no such force in it\]. Yet, the present estion is to make the etymological meaning-though it is already available-clear by explaining the basis for definition of special nature. The expression sthira-dhih has for its imports both the expression \[itself\] and its meaning 'the fixed-minded'. Of them, does the expression sthira-dhih denote that meaning alone which is indicated by the force of its components; or else does it denote the ascetic also ; This is the second estion. Again, where would that firm-minded man-of-Yoga abide i.e., what would he practise; or what would his firmness depend on ; This is the third \[estion\]. And what world he achieve by practising ; This is the fourth \[estion\]. These four estions are decided one by one by the Bhagavat \[in the seel\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.54॥ एवमुक्तेऽर्जुनः पूर्वश्लोकोक्तस्थिरप्रज्ञस्य
 स्वरूपमनुष्ठानप्रकारं च पृच्छति स्थितप्रज्ञस्येति। समाधिस्थस्येति
@@ -277,10 +286,13 @@ appellation sthita-prajna (man-of-stabilized-intellect) is a nomenclature signif
 किञ्चित्तदा किं ब्रूयादित्यर्थः। स्वोच्चरितवाक्यम्यापि श्रवणसम्भवात्।
 किमासीत कथमुपतिष्ठेत् किं व्रजेत कथं गच्छेत् इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.54॥ पूर्वश्लोकोक्तस्यात्मतत्त्वज्ञस्य लक्षणं जिज्ञासुः अर्जुन
 उवाच **स्थितप्रज्ञस्येति।** स्वाभाविके समाधौ स्थितस्यातएव स्थिता
@@ -288,10 +300,13 @@ appellation sthita-prajna (man-of-stabilized-intellect) is a nomenclature signif
 यावत्। केन लक्षणेन स्थितप्रज्ञ उच्यत इत्यर्थः। तथा स्थितधीः किं कथं
 भाषणमासनं व्रजनं च कुर्यादित्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.54 Arjuna said What is the mode of speech of him who is of firm wisdom, who is established in the control of the mind; What will a man of firm wisdom speaks, O Krsna; How does he sit; How does he move;
@@ -325,11 +340,13 @@ description; समाधिस्थस्य of the (man) merged in the superc
 (how); प्रभाषेत speaks; किम् what (how); आसीत sits; व्रजेत walks; किम्
 what (how).Commentary Arjuna wants to know from Lord Krishna the characteristic marks of one who is established in the Self in Samadhi how he speaks; how he sits; how he moves about.The characteristic marks of the sage of steady wisdom and the means of attaining that steady knowledge of the Self are described in the verses from 55 to 72 of this chapter.Steady wisdom is settled knowledge of ones identity with Brahman attained by direct realisation. (Cf.XIV.21; 27).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.54।। अर्जुन बोले - हे केशव ! परमात्मामें स्थित स्थिर बुद्धिवाले
@@ -387,6 +404,7 @@ what (how).Commentary Arjuna wants to know from Lord Krishna the characteristic 
 ।।2.54।। अर्जुन ने कहा -- हे केशव समाधि में स्थित स्थिर बुद्धि वाले
 पुरुष का क्या लक्षण है स्थिर बुद्धि पुरुष कैसे बोलता है कैसे बैठता है
 कैसे चलता है
+</details>
 </details>
 
 </div>

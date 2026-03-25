@@ -26,8 +26,9 @@ title = "05 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.5॥ श्री भगवानुवाच -- **पश्य मे** सर्वाश्रयाणि **रूपाण्य् अथ शतशः सहस्रशः** च **नानाविधानि** नानाप्रकाराणि **दिव्यानि** अप्राकृतानि **नानावर्णाकृतीनि** शुक्लकृष्णादिनानावर्णानि नानाकाराणि **च** पश्य।
@@ -42,12 +43,14 @@ title = "05 श्री भगवानुवाच"
 
 11.5 The Lord said Behold My forms which are the foundation of all, hundreds upon thousands, varied and possessing manifold modes. They are divine, i.e., supernatural. They are multi-formed and multi-coloured like white, black etc. And they are of varied configurations. Behold that form!
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.5॥ --,**पश्य मे पार्थ; रूपाणि शतशः** अथ सहस्रशः; अनेकशः इत्यर्थः। तानि च **नानाविधानि** अनेकप्रकाराणि दिवि भवानि **दिव्यानि** अप्राकृतानि **नानावर्णाकृतीनि** च नाना विलक्षणाः नीलपीतादिप्रकाराः वर्णाः तथा आकृतयश्च अवयवसंस्थानविशेषाः येषां रूपाणां तानि नानावर्णाकृतीनि च॥
 </details>
@@ -102,12 +105,14 @@ differently arranged.
 तानि नानावर्णाकृतीनि च मम रूपाणि पश्य। अर्हे लोट्। द्रष्टुमर्हो भव हे
 पार्थ।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.5॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -116,12 +121,14 @@ differently arranged.
 
 ॥11.5॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.5॥ No commentary.
 </details>
@@ -130,12 +137,14 @@ differently arranged.
 
 11.5 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.5॥ एवं प्रार्थितः सन्नद्भुतमक्षरस्वरूपं दर्शयिष्यन्सावधानो भव
 इत्येवं अर्जुनमभिमुखीकरोति पश्येतिचतुर्भिः। पश्य मे पार्थ रूपाणि इति
@@ -153,10 +162,13 @@ differently arranged.
 नानावर्णाकृतीनि नाना अनेके वर्णाः शुक्ललोहितादयः आकृतयः अवयवादिविशेषाश्च
 येषां तानि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.5॥ एवं प्रार्थितः सन्नत्यद्भुतं रूपं दर्शयिष्यन्सावधानो
 भवेत्येवमर्जुनमभिमुखीकरोति **-- श्रीभगवानुवाच।** **पश्येति चतुर्भिः।**
@@ -165,10 +177,13 @@ differently arranged.
 आकृतयोऽवयवसन्निवेशविशेषाः। नाना अनेकवर्णा आकृतयश्च येषां तानि
 नानावर्णाकृतीनि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.5 The Lord said Behold My forms, O Arjuna, hundreds upon thousands,
@@ -205,11 +220,13 @@ All beings and entities are there. The fat and the lean; the short and the tall;
 the noisy and the silent; those that are awake; those that are asleep;
 the beautiful and the ugly; and all grades of beings with their distinctive marks are all there. The blueness of the sky; the yellowness of the silk; the redness of the twilight; the blackness of the coal; the whiteness of the snow; and the greenness of the leaves will be seen by you. You will also behold the objects of various shapes.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/05_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.5।। श्रीभगवान् बोले -- हे पृथानन्दन ! अब मेरे अनेक तरहके, अनेक अनेक
@@ -257,6 +274,7 @@ the beautiful and the ugly; and all grades of beings with their distinctive mark
 
 ।।11.5।। श्रीभगवान् ने कहा -- हे पार्थ ! मेरे सैकड़ों तथा सहस्रों नाना
 प्रकार के और नाना वर्ण तथा आकृति वाले दिव्य रूपों को देखो।।
+</details>
 </details>
 
 </div>

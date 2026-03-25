@@ -23,8 +23,9 @@ title = "12 इष्टान्भोगान्हि वो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.12॥ **यज्ञ-भाविताः** यज्ञेन आराधिता  
@@ -63,12 +64,14 @@ title = "12 इष्टान्भोगान्हि वो"
 
 3.12 'Pleased by the sacrifice,' i.e., propitiated by the sacrifice, the gods, who have Me as their Self, will bestow on you the enjoyments you desire. Whatever objects are desired by persons keen on attaining release, the supreme end of human endeavour, all those will be granted by gods previously worshipped through many sacrifices. That is, whatever is solicited with more and more propitiation, all those enjoyments they will bestow on you. Whoever enjoys the objects of enjoyment granted by them for the purpose of worshipping them, without giving them their due share in return - he is verily a thief. What is called 'theft' is indeed taking what belongs to another as one's own and using it for oneself, when it is really designed for the purpose of another. The purport is that such a person becomes unfit not only for the supreme end of human endeavour, but also will go down towards purgatory (Naraka). Sri Krsna expands the same:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.12॥ **इष्टान्** अभिप्रेतान् **भोगान् हि वः** युष्मभ्यं **देवाः दास्यन्ते** वितरिष्यन्ति स्त्रीपशुपुत्रादीन् **यज्ञभाविताः** यज्ञैः वर्धिताः तोषिताः इत्यर्थः। **तैः** देवैः **दत्तान्** भोगान् **अप्रदाय** अदत्त्वा आनृण्यमकृत्वा इत्यर्थः **एभ्यः** देवेभ्यः **यः भुङ्क्ते** स्वदेहेन्द्रियाण्येव तर्पयति **स्तेन एव** तस्कर एव **सः** देवादिस्वापहारी॥ ये पुनः
 </details>
@@ -138,12 +141,14 @@ Unless one repays these ds, he incurs sin.\] to them.'
 देहेन्द्रियाण्येव तर्पयति स्तेन एव तस्कर एव स देवस्वापहारी
 देवर्णानपाकरणात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.12॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -152,12 +157,14 @@ Unless one repays these ds, he incurs sin.\] to them.'
 
 ॥3.12॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.12॥ न केवलमित्थमपवर्गे यावत्सिद्धिलाभेऽपि अयं मार्गः अभ्यसनीय इत्याह इष्टानिति। यज्ञतर्पितानि हि इन्द्रियाणि स्थितिं बध्नन्ति यत्रक्वापि ध्येयादौ इति। अत एव तद्व्यापारे सति तेषां विषयाणां स्मृतिसंकल्पध्यानादिना भावाः विषयाः इन्द्रियैरेव दत्ताः। यदि तेषामेवोपभोगाय विषया +++(S K omit विषयाः)+++ न दीयन्ते तर्हि स्तेनत्वं चौर्यं स्यात् छद्मचारित्वात्। उक्तं हि पूर्वमेव भगवता मूढाचारः स उच्यते +++(II 6 )+++ इति। अतो़ऽयं वाक्यार्थः यः सुखोपायं सिद्धिम् अपवर्गं वा प्रेप्सति तेन इन्द्रियकौतुकनिवृत्तिमात्रफलतयैव भोगा यथोपनतमासेव्या इति।
 </details>
@@ -166,12 +173,14 @@ Unless one repays these ds, he incurs sin.\] to them.'
 
 3.12 Istan etc. \[The deities of\] the senses, gratified by the necessry actions, bind \[the aspirant's mind\] to the state of remaining firm on some object of meditation. Therefore when they are at work, the things, i.e., the objects are granted \[to him\] by none but the \[deities of the\] senses, through recollection, resolution, meditation etc., of their objects. If these objects are not offered for the enjoyment of the deities, then it would amount to the status of a theif i.e., to an act of thief, because he is acting deceitfully. Indeed it has already been declared by the Bhagavat that 'He is called a man of deluded action'. Therefore the idea in the passage \[under study\] is this : Whosoever is desirous of attaining by easy means, the supernatural power \[like anima etc.\], or of attaining emancipation, he should enjoy the objects as and when they are brought, \[and enjoy\] just with the aim of simply alliviating the impatience of the \[deities of the\] senses.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.12॥ इष्टानिति। तैर्वृष्ट्यादिना दत्तानन्नादीन् अप्रदाय एभ्यो यो
 भुङ्क्ते स स्तेन एवेति जायमानो वै ब्राह्मणस्त्रिभिः ऋणवाञ्जायतेः ()
@@ -191,20 +200,26 @@ Unless one repays these ds, he incurs sin.\] to them.'
 एभ्यस्तद्दातृभ्योऽप्रदाय अदत्त्वा यो भुङ्क्ते भोगं करोति स स्तेन एव चोर
 एवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.12॥ एतदेव स्पष्टीकुर्वन्कर्माकरणे दोषमाह **इष्टानिति।**
 यज्ञैर्भाविताः सन्तो देवा वृष्ट्यादिद्वारेण वः युष्मभ्यं भोगान्दास्यन्ति
 हि। अतो देवैर्दत्तानन्नादीनेभ्यो देवेभ्यः पञ्चयज्ञादिभिरदत्त्वा यो
 भुङ्क्ते स तु चोर एव ज्ञेयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.12 The gods, pleased by the sacrifice, will bestow on you the enjoyments you desire. He who enjoys the bounty of the gods without giving them anything in return, is but a thief.
@@ -238,11 +253,13 @@ indeed, a robber.'
 दत्तान् give; अप्रदाय without offering; एभ्यः to them; यः who; भुङ्क्ते
 enjoys; स्तेनः thief; एव verily; सः he.Commentary When the gods are pleased with you sacrifices; they will bestow on you all the desired objects such as children; cattle; property; etc. He who enjoys what has been given to him by the gods; i.e.; he who gratifies the cravings of his own body and the senses without offering anything to the gods in return is a veritable thief. He is really a dacoit of the property of the gods.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.12।। यज्ञसे भावित (पुष्ट) हुए देवता भी तुमलोगोंको (बिना माँगे ही)
@@ -303,6 +320,7 @@ enjoys; स्तेनः thief; एव verily; सः he.Commentary When the g
 ।।3.12।। यज्ञ द्वारा पोषित देवतागण तुम्हें इष्ट भोग प्रदान करेंगे। उनके
 द्वारा दिये हुये भोगों को जो पुरुष उनको दिये बिना ही भोगता है वह निश्चय
 ही चोर है।।
+</details>
 </details>
 
 </div>

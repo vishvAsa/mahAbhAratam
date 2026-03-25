@@ -23,8 +23,9 @@ title = "33 किम् पुनर्ब्राह्मणाः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.33॥**किं पुनः** पुण्य-योनयो **ब्राह्मणा राज-र्षयः** च मद्-भक्तिम् आश्रिताः।  
@@ -94,12 +95,14 @@ title = "33 किम् पुनर्ब्राह्मणाः"
 
 9.32 - 9.33 Women, Vaisyas and Sudras, and even those who are of sinful birth, can attain the supreme state by taking refuge in Me. How much more then the well-born Brahmanas and royal sages who are devoted to me! Therefore, roayl sage that you are, do worship Me, as you have come to this transient and joyless world stricken by the threefold afflictions. Sri Krsna now describes the nature of Bhakti:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.33॥ --,**किं पुनः ब्राह्मणाः पुण्याः** पुण्ययोनयः **भक्ताः राजर्षयः तथा** राजानश्च ते ऋषयश्च इति राजर्षयः।  
 यतः एवम्; अतः **अनित्यं** क्षणभङ्गुरम् **असुखं** च सुखवर्जितम्  
@@ -169,12 +172,14 @@ How;
 विलम्बं सुखार्थमुद्यमं च मा कार्षींस्त्वं च राजर्षिरतो मद्भजनेनात्मानं
 सफलं कुरु। अन्यथा ह्येतादृशं जन्म निष्फलमेव ते स्यादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.33॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -183,12 +188,14 @@ How;
 
 ॥9.33॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.32 -- 9.34॥ मां हि इत्यादि मत्परायण इत्यन्तम्। पापयोनयः पशुपक्षिसरीसृपादयः। स्त्रिय इति अज्ञाः। वैश्या इति कृष्यादिकर्मान्तररताः। शूद्रा इति कार्त्स्येन वैदिकक्रियानधिकृताः परतन्त्रवृत्तयश्च। तेऽपि मदाश्रिता मामेव यजन्ते। गजेन्द्रमोक्षणादीनि चरितानि हि परमकारुणिकस्य भगवतः सहस्रशः श्रूयन्ते। किमङ्ग पुनरेतद्विपरीतवृत्तयः। केचिदाक्षते -- द्विजराजन्यप्रशंसापरमेतद्वाक्यम्; न तु स्त्र्यादिषु अपवर्गप्राप्तितात्पर्येण इति। ते हि भगवतः सर्वानुग्राहिकां शक्तिं मितविषयतया खण्डयन्तः तथा परमेश्वरस्य परमकृपालुत्वमसहमानाः +++(S omits तथा -- मसहमानाः)+++ न मे द्वेष्योऽस्ति न प्रियः ; अपि चेत्सुदुराचारः इत्यादीन्यन्यानि चैवंप्रकारस्फुटार्थप्रतिपादकानि वाक्यानि विरोधयन्तः निरतिशययुक्तिप्रपञ्चसाधिताद्वैतभगवत्तत्त्वे +++(S;;N भगवत्तत्त्वम्)+++ भेदलिङ्गं +++(S; भेदभङ्गम् N भेदभङ्ग -- )+++ बलादेवानयन्तः अन्यांश्च आगमविरोधानचेतयमानाः कथमिदं कथमिदम् इति पर्यनुयोज्यमाना +++(;N पर्यनुयुज्यमानः)+++ यदि; परम् अन्तर्गर्भीकृतजात्यादिमहाग्रहाविष्टान्तः +++(; N
 -- ग्रहगृहीताविष्टान्तः -- )+++ करणाः
@@ -199,12 +206,14 @@ How;
 
 See Comment under 9.32
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.33॥ यदैवं निस्साधना अधिकारसम्भावनाया अविषया अप्येते परां गतिं यान्ति
 तदा किं पुनर्वक्तव्यं वेदोक्तसाधनवत्तया पुण्याः ब्राह्मणाः राजर्षय
@@ -236,10 +245,13 @@ See Comment under 9.32
 इमं लोकमधिकरणं देहं प्राप्य अनित्यं असुखं संसारं त्यक्त्वा ज्ञात्वा वेति
 शेषः मां भजस्व।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.33॥ यदेवं तदा सत्कुलाः सदाचाराश्च मद्भक्ताः परां गतिं यान्तीति किं
 वक्तव्यमित्याह **-- किमिति।** पुण्याः सुकृतिनो ब्राह्मणाः। तथा राजानश्च
@@ -249,10 +261,13 @@ See Comment under 9.32
 प्राप्यानित्यत्वाद्विलम्बमकुर्वन्; असुखत्वाच्च सुखार्थोद्यमं हित्वा
 मामेव भजस्वेत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.33 How much more then the Brahmanas and royal sages who are pure and are My devotees! Having obtained this transient, joyless world, worship Me.
@@ -291,11 +306,13 @@ So give up the efforts for securing happiness and comfort for this body.
 If you do not aim at Selfrealisation even after attaining a human birth;
 you live in vain you are wasting your life and you are a slayer of the Self. You will again and again be caught in the wheel of birth and death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.33।। जो पवित्र आचरणवाले ब्राह्मण और ऋषिस्वरूप क्षत्रिय भगवान् के
@@ -352,6 +369,7 @@ you live in vain you are wasting your life and you are a slayer of the Self. You
 ।।9.33।। फिर क्या कहना है कि पुण्यशील ब्राह्मण और राजर्षि भक्तजन (परम
 गति को प्राप्त होते हैं); (इसलिए) इस अनित्य और सुखरहित लोक को प्राप्त
 होकर (अब) तुम भक्तिपूर्वक मेरी ही पूजा करो।।
+</details>
 </details>
 
 </div>

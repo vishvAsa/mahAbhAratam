@@ -23,8 +23,9 @@ title = "09 कार्यमित्येव यत्कर्म"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.9॥ नित्यनैमित्तिकमहायज्ञादिवर्णाश्रमविहितं **कर्म** मदाराधनरूपतया **कार्यं** स्वयम्प्रयोजनम् इति मत्वा **सङ्गं** कर्मणि ममतां **फलं च त्यक्त्वा यत् क्रियते स त्यागः सात्त्विको मतः** स सत्त्वमूलः। यथावस्थितशास्त्रार्थज्ञानमूल इत्यर्थः।  
@@ -41,12 +42,14 @@ title = "09 कार्यमित्येव यत्कर्म"
 
 18.9 When rites like obligatory and occasional ceremonies and the great sacrifices enjoined on one's station and stage in life, are practised for their own sake, as worship of Myself and as a duty, relinishing possessiveness and fruits - such abandonment is regarded as Sattvika. It is noted in Sattva. The idea is that it is rooted in the knowledge of the meaning of the Sastras as it really is. That Sattva generates the knowledge of things as they really are, has been taught in: 'From Sattva arises knowledge' (14.17), and it will be further declared: 'That reason by which one knows action and renunciation, what ought to be done and what ought not to be done, fear and fearlessness, bondage and release, O Arjuna, is Sattvika' (18.30).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.9॥ --,**कार्यं** कर्तव्यम् **इत्येव यत् कर्म नियतं** नित्यं **क्रियते** निर्वर्त्यते हे **अर्जुन; सङ्गं त्यक्त्वा फलं च एव।** एतत् नित्यानां कर्मणां फलवत्त्वे भगवद्वचनं प्रमाणम् अवोचाम। अथवा; यद्यपि फलं न श्रूयते नित्यस्य कर्मणः; तथापि नित्यं कर्म कृतम् आत्मसंस्कारं प्रत्यवायपरिहारं वा फलं करोति आत्मनः इति कल्पयत्येव अज्ञः। तत्र तामपि कल्पनां निवारयति फलं त्यक्त्वा इत्यनेन। अतः साधु उक्तम् सङ्गं त्यक्त्वा फलं च इति। **सः त्यागः** नित्यकर्मसु सङ्गफलपरित्यागः **सात्त्विकः** सत्त्वनिर्वृत्तः **मतः** अभिप्रेतः॥  
   
@@ -246,12 +249,14 @@ can become steadfast in it has to be stated, therefore the Lord says:
 विशिष्टाभावरूपेण त्यागसामान्येनैकजातीयतया प्राग्व्याख्यातत्वात्।
 तस्माद्भगवदकौशलोद्भावनमेव महदकौशलमिति द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.9॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -260,12 +265,14 @@ can become steadfast in it has to be stated, therefore the Lord says:
 
 ॥18.9॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.4 -- 18.11॥ तदत्रैव विशेषनिर्णयाय मतान्युपन्यस्यति -- त्याज्यमिति। दोषवत् हिंसादिमत्त्वात् +++(S हिंसादित्त्वात ;N हिंसादिसत्त्वात् )+++ पापयुक्तम्। तत् कर्म,+++(S;;N substitutes फलं for कर्म )+++ त्याज्यम्; न सर्वं शुभफलम् इति केचित् त्यागे विशेषं मन्यन्ते साङ्ख्यगृह्या इव। अन्ये तु मीमांसककञ्चुकानुप्रविष्टाः +++(K मीमांसाकंचुक -- )+++ -- क्रत्वर्थोऽहि शास्त्रादवगम्यते +++(S. IV; i; 2 )+++ इति। तथातस्माद्या वैदिकी हिंसा -- +++(SV. I; i; 2; verse 23 )+++इत्यादिनयेन इतिकर्तव्यतांशभागिनी हिंसा +++(S;;N omit हिंसा )+++ हिंसैव न भवति। न हिंस्यात् इति सामान्यशास्त्रस्य तत्र बाधनात् श्येनाद्येव तु ( श्येन द्येव न तु ) हिंसा। फलांशे भावनायाश्च प्रत्ययोऽनुविधायकः +++(SV; I; i; 2; verse 222 )+++ इति। अ \[ तोऽ \] न्यान् हिंसादियोगिनोऽपि न त्यजेत्। शास्त्रैकशरणकार्याकार्यविभागाः पण्डिता इति मन्यन्ते॥3॥ निश्चयमित्यादि अभिधीयते इत्यन्तम्। तत्र त्वयं निश्चयः -- प्राग्लक्षितगुणस्वरूपवैचित्र्यात् त्यागस्यैव सत्त्वरजस्तमोमय्या चित्तवृत्त्या क्रियमाणस्य तद्विशिष्टस्वभावावभासित \[ त्वात् \] वस्तुस्थित्या त्यागो नाम परब्रह्मविदां +++(; N परमब्रह्म -- )+++ सिद्ध्यसिद्ध्यादिषु समतया रागद्वेषपरिहारेण फलप्रेप्साविरहेण ( फलप्रेक्षा) कर्मणां निर्वर्त्तनम्। अत एव आह -- राजसं तामसं च त्यागं कृत्वा न कश्चित् ( न किंचित् ) \[ त्याग \],फलसंबन्धः; इति। सात्त्विकस्य तु त्यागात् ( त्यागस्य )। शास्त्रार्थपालनात्मकं फलम्। त्यक्तगुणग्रामग्रहस्य पुनर्मुनेः सत्यतः त्यागवाचो युक्तिरुपपत्तिमती।
 </details>
@@ -274,12 +281,14 @@ can become steadfast in it has to be stated, therefore the Lord says:
 
 18.9 See Comment under 18.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.9॥ विचक्षणाभिमतं त्यागं सात्त्विकतयाऽऽह -- कार्यमिति।
 नित्यनैमित्तिकमहायज्ञादिवर्णाश्रमविहितं कर्म भगवदाज्ञया तदाराधनरूपत्वात्
@@ -297,19 +306,25 @@ can become steadfast in it has to be stated, therefore the Lord says:
 त्याग एव सात्त्विकः; मदाज्ञारूपकरणेन स्वार्थफलाभावात् सात्त्विकः। अतएव
 मतः मत्सम्मत इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.9॥ सात्त्विकं त्यागमाह **-- कार्यमिति।** कार्यमित्येवं बुद्ध्वा
 नियतमवश्यकर्तव्यतया विहितं कर्म सङ्गं फलं च त्यक्त्वा क्रियत इति यत्
 तादृशस्त्यागः सात्त्विको मतः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.9 When actions are performed as what ought to be done, O Arjuna,
@@ -345,11 +360,13 @@ attachment; त्यक्त्वा abandoning; फलम् fruit; च and;
 त्यागः abandonment; सात्त्विकः Sattvic (pure); मतः is regarded.Commentary A man of pure nature performs actions that have fallen to his lot in accordance with his capacity and his inherent nature. He is not filled with the pride that he is the performer of such actions nor does he hope for any gain therefrom.An ignorant man may think that the obligatory duties may produce their fruits for the performer by causing selfpurification and preventing the sin of omission or nonperformance. This sort of thinking and expectation of rewards also must be abandoned. Abandonment of the rewards of actions is praised in this verse.When a man does obligatory duties without agency and with unselfishness and egolessness his,mind is purified; his Antahkarana is prepared for the reception of the divine light or the dawn of Selfknowledge. He gradually becomes fit for devotion to knowledge
 (JnanaNishtha).The aspirant or seeker after liberation should be prepared to undergo physical sufferings. All acts of selfdiscipline and selfsacrifice entail physical suffering.This; again; is the central teaching of the Gita -- do your duty without attachment and selfish desires.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.9।। हे अर्जुन ! 'केवल कर्तव्यमात्र करना है' -- ऐसा समझकर जो नियत
@@ -426,6 +443,7 @@ attachment; त्यक्त्वा abandoning; फलम् fruit; च and;
 
 ।।18.9।। हे अर्जुन ! "कर्म करना कर्तव्य है" ऐसा समझकर जो नियत कर्म
 आसक्ति और फल को त्यागकर किया जाता है, वही सात्त्विक त्याग माना गया है।।
+</details>
 </details>
 
 </div>

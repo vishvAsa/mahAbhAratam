@@ -25,8 +25,9 @@ title = "10 प्रयाणकाले मनसाऽचलेन"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.10॥**कविं** सर्वज्ञं **पुराणं** पुरातनम् **अनुशासितारं** विश्वस्य प्रशासितारम् **अणोर् अणीयांसं** जीवाद् अपि सूक्ष्मतरं **सर्वस्य धातारं** सर्वस्य स्रष्टारम् **अचिन्त्यरूपं** सकलेतरविसजातीयस्वरूपम् **आदित्यवर्णं तमसः** **परस्तात्** अप्राकृतस्वासाधारणदिव्यरूपं तम् एवम्भूतम् अहरहो ऽभ्यस्यमानभक्तियुक्त**योगबलेन** आरूढसंस्कारतया **अचलेन मनसा प्रयाणकाले भ्रुवोर् मध्ये प्राणम् आवेश्य** संस्थाप्य तत्र भ्रुवोर्मध्ये दिव्यं **पुरुषं यो ऽनुस्मरेत् स तम् एव उपैति** तद्भावं याति तत्समानैश्वर्यो भवति इत्यर्थः। अथ कैवल्यार्थिनां स्मरणप्रकारम् आह --
@@ -43,12 +44,14 @@ title = "10 प्रयाणकाले मनसाऽचलेन"
 
 8.9 - 8.10 He who focusses his life-breath between the eyrows at the time of death with a mind rendered unswerving through its purification achieved by the strength of Yoga conjoined with Bhakti practised day after day; and he who contemplates on the 'Kavi' i.e., the Omniscient, the 'Primeval', i.e., who existed always, 'the Ruler,' i.e., who governs the universe, 'who is subtler than the subtle,' i.e., who is subtler than the individual self, 'who is the Dhata' of all, i.e., the creator of all, 'whose nature is inconceivable,' i.e., whose nature is other than everything else, 'who is sun-coloured and beyond darkness,' i.e., who possesses a divine form peculiar to Himself - he who concentrates on Him, the Divine Person described above, between the eyrows, attains Him alone. He attains His state and comes to have power and glory similar to His. Such is the meaning. Then He describes the mode of meditation to be adopted by the seeker of Kaivalya or the Jijnasu (i.e., of one who seeks to know his own self or Atman in contrast to one whose object is God-realisation).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.10॥ --,**प्रयाणकाले** मरणकाले **मनसा अचलेन** चलनवर्जितेन **भक्त्या युक्तः** भजनं भक्तिः तया युक्तः **योगबलेन चैव** योगस्य बलं योगबलं समाधिजसंस्कारप्रचयजनितचित्तस्थैर्यलक्षणं योगबलं तेन च युक्तः इत्यर्थः पूर्वं हृदयपुण्डरीके वशीकृत्य चित्तं ततः ऊर्ध्वगामिन्या नाड्या भूमिजयक्रमेण **भ्रुवोः मध्ये प्राणम् आवेश्य** स्थापयित्वा **सम्यक्** अप्रमत्तः सन् सः एवं विद्वान् योगी,कविं पुराणम् इत्यादिलक्षणं **तं परं परतरं पुरुषम् उपैति** प्रतिपद्यते **दिव्यं** द्योतनात्मकम्॥ पुनरपि वक्ष्यमाणेन उपायेन प्रतिपित्सितस्य ब्रह्मणो वेदविद्वदनादिविशेषणविशेष्यस्य अभिधानं करोति भगवान् --,
 </details>
@@ -173,12 +176,14 @@ characteristics as, 'What is declared by the knowers of the Vedas,'etc.:
 एवमुपासकस्तंकविं पुराणमनुशासितारम् इत्यादिलक्षणं परं पुरुषं दिव्यं
 द्योतनात्मकमुपैति प्रतिपद्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.10॥ वायुजयादियोगयुक्तानां मृतिकाले कर्तव्यमाह विशेषतः -- प्रयाणकाल
 इति। वायुजयादिरहितानामपि ज्ञानभक्तिवैराग्यादिसम्पूर्णानां भवत्येव
@@ -213,12 +218,14 @@ characteristics as, 'What is declared by the knowers of the Vedas,'etc.:
 वासिताः। एतन्मुक्तिलक्षणं फलम्। तेजो नारायणाख्यम्। ईरः समीरः। ध्रुवं
 ब्रह्माप्यते तैः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.9 -- 8.10॥ कविमिति। प्रयाणेति। एवम् अनुस्मरेदिति। आदित्येति। आदित्यवर्णत्वं वासुदेवतत्त्वस्य \[न\] परिच्छेदकम्। आकृतिकल्पनादि +++(N विकल्पनादि)+++ विभ्रान्तिमयमोहतमसः अतीतत्त्वात् रवित्वेनोपमानमित्याशयः। भ्रुवोर्मध्ये इति प्राग्वत्।
 </details>
@@ -227,12 +234,14 @@ characteristics as, 'What is declared by the knowers of the Vedas,'etc.:
 
 8.9-10 Kavim etc. Prayana-etc. He who would meditate in this manner (i.e. as described in the verse) etc. The Sun-coloured. The Sun-colour does not delmit the Absolute (Vasudeva-tattva). However, a comparison with the sun is drawn because the absolute too transcends the darkness of ignorance consisting of the varied wrong notions, like fancying forms etc. This is the idea here. In between the eye-brows : \[This may be understood\] as above.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.10॥ ध्यानप्रकारं कालं चाह -- प्रयाणकाल इति। भ्रुवोर्मध्ये
 प्राणमावेश्येति। स तं परं पुरुषमुपैति तत्समाकारः सामीप्यरूपमाप्नोति।
@@ -246,20 +255,26 @@ characteristics as, 'What is declared by the knowers of the Vedas,'etc.:
 तस्मिन्नेव प्राणमावेश्य सम्यक् भावात्मकस्वरूपप्राप्त्या परं पुरुषं
 पुरुषोत्तमं दिव्यं क्रीडात्मकं उपैति समीपे दास्येन प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.10॥ सप्रपञ्चप्रकृतिं भित्त्वा यस्तिष्ठति एवंभूतं पुरुषमन्तकाले
 भक्तियुक्तो निश्चलेन विक्षेपरहितेन मनसा योऽनुस्मरेत्। मनोनैश्चल्ये हेतुः
 योगबलेन सम्यक्सुषुम्नामार्गेण भ्रुवोर्मध्ये प्राणमावेश्येति। स तं परं
 पुरुषं परात्मस्वरूपं दिव्यं द्योतनात्मकं प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.10 At the time of death, having fully fixed the Prana (vita force)
@@ -292,11 +307,13 @@ that; परम् Supreme; पुरुषम् Purusha; उपैति reach
 resplendent.Commentary The Yogi gets immense inner strength and power of concentration. His mind becomes ite steady through constant practice of concentration and meditation. He practises concentration first on the lower Chakras; viz.; Muladhara; Svadhishthana and Manipura. He then concentrates on the lotus of the heart (Anahata Chakra). Then he takes the lifreath (Prana) through the Sushumna and fixes it in the middle of the two eyrows. He eventually attains the resplendent Supreme Purusha
 (Person) by the above Yogic practice.This is possible for one who has devoted his whole life to the practice of Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.10।। वह भक्तियुक्त मनुष्य अन्तसमयमें अचल मनसे और योगबलके द्वारा
@@ -372,6 +389,7 @@ resplendent.Commentary The Yogi gets immense inner strength and power of concent
 ।।8.10।। वह (साधक) अन्तकाल में योगबल से प्राण को भ्रकुटि के मध्य सम्यक्
 प्रकार स्थापन करके निश्चल मन से भक्ति युक्त होकर उस परम दिव्य पुरुष को
 प्राप्त होता है।।
+</details>
 </details>
 
 </div>

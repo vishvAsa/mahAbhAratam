@@ -1,8 +1,9 @@
 +++
 title = "+०३ कर्म-योगः"
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/_index.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/_index.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>वेङ्कटनाथः</summary>
 
@@ -246,12 +247,14 @@ title = "+०३ कर्म-योगः"
 स-प्रयोजनत्वाय प्रपञ्चन-प्रकारम् आह स-साधनम् इति।
 </details>
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/_index.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/_index.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 शास्त्रस्य प्रवृत्तिनिवृत्तिविषयभूते द्वे बुद्धी भगवता निर्दिष्टे, साङ्‍ख्ये बुद्धिः योगे बुद्धिः इति च । तत्र ‘प्रजहाति यदा कामान्’ (भ. गी. २ । ५५) इत्यारभ्य आ अध्यायपरिसमाप्तेः साङ्‍ख्यबुद्ध्याश्रितानां संन्यासं कर्तव्यमुक्त्वा तेषां तन्निष्ठतयैव च कृतार्थता उक्ता — ‘एषा ब्राह्मी स्थितिः’ (भ. गी. २ । ७२) इति । अर्जुनाय च ‘कर्मण्येवाधिकारस्ते . . . मा ते सङ्गोऽस्त्वकर्मणि’ (भ. गी. २ । ४७) इति कर्मैव कर्तव्यमुक्तवान् योगबुद्धिमाश्रित्य, न तत एव श्रेयःप्राप्तिम् उक्तवान् । तदेतदालक्ष्य पर्याकुलीकृतबुद्धिः अर्जुनः उवाच । कथं भक्ताय श्रेयोर्थिने यत् साक्षात् श्रेयःप्राप्तिसाधनं साङ्‍ख्यबुद्धिनिष्ठां श्रावयित्वा मां कर्मणि दृष्टानेकानर्थयुक्ते पारम्पर्येणापि अनैकान्तिकश्रेयःप्राप्तिफले नियुञ्ज्यात् इति युक्तः पर्याकुलीभावः अर्जुनस्य, तदनुरूपश्च प्रश्नः ‘ज्यायसी चेत्’ (भ. गी. ३ । १) इत्यादिः, प्रश्नापाकरणवाक्यं च भगवतः युक्तं यथोक्तविभागविषये शास्त्रे ॥
 
@@ -274,6 +277,7 @@ title = "+०३ कर्म-योगः"
 यदि पुनः एकस्य पुरुषस्य ज्ञानकर्मणोर्विरोधात् युगपदनुष्ठानं न सम्भवतीति भिन्नपुरुषानुष्ठेयत्वं भगवता पूर्वमुक्तं स्यात् , ततोऽयं प्रश्न उपपन्नः ‘ज्यायसी चेत्’ इत्यादिः । अविवेकतः प्रश्नकल्पनायामपि भिन्नपुरुषानुष्ठेयत्वेन ज्ञानकर्मनिष्ठयोः भगवतः प्रतिवचनं नोपपद्यते । न च अज्ञाननिमित्तं भगवत्प्रतिवचनं कल्पनीयम् । अस्माच्च भिन्नपुरुषानुष्ठेयत्वेन ज्ञानकर्मनिष्ठयोः भगवतः प्रतिवचनदर्शनात् ज्ञानकर्मणोः समुच्चयानुपपत्तिः । तस्मात् केवलादेव ज्ञानात् मोक्ष इत्येषोऽर्थो निश्चितो गीतासु सर्वोपनिषत्सु च ॥
 
 ज्ञानकर्मणोः ‘एकं वद निश्चित्य’ (भ. गी. ३ । २) इति च एकविषयैव प्रार्थना अनुपपन्ना, उभयोः समुच्चयसम्भवे । ‘कुरु कर्मैव तस्मात्त्वम्’ (भ. गी. ४ । १५) इति च ज्ञाननिष्ठासम्भवम् अर्जुनस्य अवधारणेन दर्शयिष्यति ॥
+</details>
 </details>
 
 </div>

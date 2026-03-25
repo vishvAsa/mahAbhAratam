@@ -23,8 +23,9 @@ title = "21 निराशीर्यतचित्तात्मा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.21॥**निराशीः** निर्गतफलाभिसन्धिः **यतचित्तात्मा** यतचित्तमनाः **त्यक्तसर्वपरिग्रहः** आत्मैकप्रयोजनतया प्रकृतिप्राकृतवस्तुनि ममतारहितो यावज्जीवं **केवलं शारीरम्** एव **कर्म कुर्वन् किल्बिषं** संसारं **न आप्नोति।** ज्ञाननिष्ठाव्यवधानरहितकेवलकर्मयोगेन एवं रूपेण आत्मानं पश्यति इत्यर्थः।
@@ -39,12 +40,14 @@ title = "21 निराशीर्यतचित्तात्मा"
 
 4.21 'Free from desire' means having no attachment to the fruits of actions. 'His intellect and mind controlled' means one whose intellect and mind are under control. 'Giving up all possessions' means one who, on account of his having the self as his primary objective, is devoid of the sense of ownership in relation to Prakrti and its derivatives. One who is thus engaged in bodily work alone as long as he lives, does not incur any sin, i.e., does not get engrossed in Samsara. He gets the vision of the self by Karma Yoga of this kind itself, and need not resort to any exlusive practice of Jnana Yoga in between liberation and the practice of Karma Yoga of the alone description.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.21॥ **निराशीः** निर्गताः आशिषः यस्मात् सः निराशीः **यतचित्तात्मा** चित्तम् अन्तःकरणम् आत्मा बाह्यः कार्यकरणसंघातः तौ उभावपि यतौ संयतौ येन सः यतचित्तात्मा **त्यक्तसर्वपरिग्रहः** त्यक्तः सर्वः परिग्रहः येन सः त्यक्तसर्वपरिग्रहः **शारीरं** शरीरस्थितिमात्रप्रयोजनम् **केवलं** तत्रापि अभिमानवर्जितम् **कर्म कुर्वन्** न **आप्नोति** न प्राप्नोति **किल्बिषम्** अनिष्टरूपं पापं धर्मं च। धर्मोऽपि मुमुक्षोः किल्बिषमेव बन्धापादकत्वात्। तस्मात् ताभ्यां मुक्तः भवति संसारात् मुक्तो भवति इत्यर्थः॥ शारीरं केवलं कर्म इत्यत्र किं शरीरनिर्वर्त्यं शारीरं कर्म अभिप्रेतम् आहोस्वित् शरीरस्थितिमात्रप्रयोजनं शारीरं कर्म इति किं च अतः यदि शरीरनिर्वर्त्यं शारीरं कर्म यदि वा शरीरस्थितिमात्रप्रयोजनं शारीरम् इति उच्यते यदा शरीरनिर्वर्त्यं कर्म शारीरम् अभिप्रेतं स्यात् तदा दृष्टादृष्टप्रयोजनं कर्म प्रतिषिद्धमपि शरीरेण कुर्वन् नाप्नोति किल्बिषम् इत्यपि ब्रुवतो विरुद्धाभिधानं प्रसज्येत। शास्त्रीयं च कर्म दृष्टादृष्टप्रयोजनं शरीरेण कुर्वन् नाप्नोति किल्बिषम् इत्यपि ब्रुवतः अप्राप्तप्रतिषेधप्रसङ्गः। शारीरं कर्म कुर्वन् इति विशेषणात् केवलशब्दप्रयोगाच्च वाङ्मनसनिर्वर्त्यं कर्म विधिप्रतिषेधविषयं धर्माधर्मशब्दवाच्यं कुर्वन् प्राप्नोति किल्बिषम् इत्युक्तं स्यात्। तत्रापि वाङ्मनसाभ्यां विहितानुष्ठानपक्षे किल्बिषप्राप्तिवचनं विरुद्धम् आपद्येत। प्रतिषिद्धसेवापक्षेऽपि भूतार्थानुवादमात्रम् अनर्थकं स्यात्। यदा तु शरीरस्थितिमात्रप्रयोजनं शारीरं कर्म अभिप्रेतं भवेत् तदा दृष्टादृष्टप्रयोजनं कर्म विधिप्रतिषेधगम्यं शरीरवाङ्मनसनिर्वर्त्यम् अन्यत् अकुर्वन् तैरेव शरीरादिभिः शरीरस्थितिमात्रप्रयोजनं केवलशब्दप्रयोगात् अहं करोमि इत्यभिमानवर्जितः शरीरादिचेष्टामात्रं लोकदृष्ट्या कुर्वन् नाप्नोति किल्बिषम्। एवंभूतस्य पापशब्दवाच्यकिल्बिषप्राप्त्यसंभवात् किल्बिषं संसारं न आप्नोति ज्ञानाग्निदग्धसर्वकर्मत्वात् अप्रतिबन्धेन मुच्यत एव इति पूर्वोक्तसम्यग्दर्शनफलानुवाद एव एषः। एवम् शारीरं केवलं कर्म इत्यस्य अर्थस्य परिग्रहेनिरवद्यं भवति॥ त्यक्तसर्वपरिग्रहस्य यतेः अन्नादेः शरीरस्थितिहेतोः परिग्रहस्य अभावात् याचनादिना शरीरस्थितौ कर्तव्यतायां प्राप्तायाम् अयाचितमसंकॢप्तमुपपन्नं यदृच्छया (बोधा0 स्मृ0 21.8.12) इत्यादिना वचनेन अनुज्ञातं यतेः शरीरस्थितिहेतोः अन्नादेः प्राप्तिद्वारम् आविष्कुर्वन् आह
 </details>
@@ -262,12 +265,14 @@ devoted people.\] (Bo. Sm. 21. 8. 12) etc., the Lord says:
 शास्त्रविरुद्धमुक्तं स्यात् विहितप्रतिषिद्धसाधारण्यपरत्वेऽप्येवमेव
 व्याघात इति भाष्य एव विस्तरः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.21॥ कामादित्यागोपायमाह निराशीरिति। यतचित्तात्मा भूत्वा
 निराशीरित्यर्थः। आत्मा मनः। परिग्रहत्यागोऽनभिमानम्। नैव किञ्चित्करोति
@@ -287,12 +292,14 @@ devoted people.\] (Bo. Sm. 21. 8. 12) etc., the Lord says:
 श्लोके अन्यथा तदभिप्रायस्य वर्णितत्वादिति भावेनाह **नैवे**ति। गौण्या
 वृत्त्यैतदभिप्रायकथनमवधेयम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.20 4.21॥ त्यक्त्वेति। निराशीरिति। अभिप्रवृत्तोऽपि आभिमुख्येन प्रवृत्तोऽपि। शरीरोपयोगिइन्द्रियव्यापारात्मकं कर्म शारीरं यत् मनोबुद्धिभ्यां न तथा अनुरञ्जितम्।
 </details>
@@ -301,12 +308,14 @@ devoted people.\] (Bo. Sm. 21. 8. 12) etc., the Lord says:
 
 4.21 Tyaktva etc. Nirasih etc. Even though he sets upon : Even though he is directly exerting in. Bodily action : the action which is in the form of activity of the organs for simply maintaining the body, and which is not coloured (desired) so much by the mind and intellect.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.21॥ निराशीरिति। अपकृष्टाधिकारी स्वर्गाद्याशीःपराङ्मुखः योगेन च यतं
 चित्तं आत्मा देहश्च यस्य त्यक्तः सर्वपरिग्रहो लोकभावो येन केवलं
@@ -329,10 +338,13 @@ devoted people.\] (Bo. Sm. 21. 8. 12) etc., the Lord says:
 मलमूत्रादिशारीरकर्मवद्भगवन्नामादिग्रहणं शुद्ध्यर्थं कुर्वन् किल्बिषं
 बन्धं नाप्नोति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.21॥ किंच **निराशीरिति।** निर्गता आशिषः कामना यस्मात्। यतं नियतं
 चित्तं आत्मा च शरीरं यस्य। त्यक्ताः सर्वे परिग्रहा येन सः। शारीरं
@@ -341,10 +353,13 @@ devoted people.\] (Bo. Sm. 21. 8. 12) etc., the Lord says:
 भिक्षाटनादि कर्मं कुर्वन्नपि किल्बिषं विहिताकरणनिमित्तं दोषं न
 प्राप्नोतीति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.21 Free from desire, his intellect and mind controlled, giving up all possessions, and doing bodily work only, he is not subject to evil:
@@ -378,11 +393,13 @@ abandoning all sense of possession, and performing exclusively bodily action, he
 आप्नोति obtains; किल्बिषम् sin.Commentary The liberated sage renounces all actions except what is necessary for the bare maintenance of the body. He has abandoned all possessions. He incurs no sin which will cause evil effects. For a man who thirsts for liberation (Mumukshu) even righteous activity (Dharma) is a sin as it causes bondage to Samsara.
 Dharma is a golden fetter for him. A golden fetter is also a fetter. A sage is liberated from both Dharma and Adharma; good and evil or virtue and vice. (Cf.III.7)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.21।। जिसका शरीर और अन्तःकरण अच्छी तरहसे वशमें किया हुआ है, जिसने सब
@@ -449,6 +466,7 @@ Dharma is a golden fetter for him. A golden fetter is also a fetter. A sage is l
 ।।4.21।। जो आशा रहित है तथा जिसने चित्त और आत्मा (शरीर) को संयमित किया
 है, जिसने सब परिग्रहों का त्याग किया है, ऐसा पुरुष शारीरिक कर्म करते
 हुए भी पाप को नहीं प्राप्त होता है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "05 उद्धरेदात्मनाऽऽत्मानन्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.5॥**आत्मना** मनसा विषयाननुषक्तेन मनसा **आत्मानम् उद्धरेत्।** तद्विपरीतेन मनसा **आत्मानं न अवसादयेत्।** **आत्मा एव** मन एव **ह्य् आत्मनो बन्धुः** तद् एव **आत्मनो रिपुः।**
@@ -39,12 +40,14 @@ title = "05 उद्धरेदात्मनाऽऽत्मानन्"
 
 6.5 By the self (Atman), i.e., by the mind, which is unattached to sense-objects, one should raise the self. One should not allow the self to sink by a mind which is of the contrary kind. 'For the self alone,' i.e., the mind alone is the friend of the self; and it alone is the foe of the self. \[The figure of speech here is of Samsara as the ocean in which the individual self is like an object with liability to sink. What causes its sinking is the lingering attachments of the mind to some objects, though in the discipline of Jnana Yoga one may keep aloof from such objects. A mind with such attachments is the foe and without them, the friend.\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.5॥ **उद्धरेत्** संसारसागरे निमग्नम् **आत्मना आत्मानं** ततः उत् ऊर्ध्वं हरेत् उद्धरेत् योगारूढतामापादयेदित्यर्थः। **न आत्मानम्** **अवसादयेत्** न अधः नयेत् न अधः गमयेत्। **आत्मैव हि** यस्मात् **आत्मनः बन्धुः।** न हि अन्यः कश्चित् बन्धुः यः संसारमुक्तये भवति। बन्धुरपि तावत् मोक्षं प्रति प्रतिकूल एव स्नेहादिबन्धनायतनत्वात्। तस्मात् युक्तमवधारणम् आत्मैव ह्यात्मनो बन्धुः इति। **आत्मैव रिपुः** शत्रुः। यः अन्यः अपकारी बाह्यः शत्रुः सोऽपि आत्मप्रयुक्त एवेति युक्तमेव अवधारणम् आत्मैवरिपु**रात्मनः** इति॥ आत्मैव बन्धुः आत्मैव रिपुः आत्मनः इत्युक्तम्। तत्र किंलक्षण आत्मा आत्मनो बन्धुः किंलक्षणो वा आत्मा आत्मनो रिपुः इत्युच्यते
 </details>
@@ -165,12 +168,14 @@ answered:
 शत्रुरहितकारिविषयबन्धनागारप्रवेशात्कोशकार इवात्मनः स्वस्य। बाह्यस्यापि
 रिपोरात्मप्रयुक्तत्वाद्युक्तमवधारणमात्मैव रिपुरात्मन इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.5॥ स च योगारोहः प्रयत्नेन कर्तव्य इत्याह उद्धरेदित्यादिना।
 </details>
@@ -183,12 +188,14 @@ answered:
 यदाऽऽरोहग्रहणं कृतं तेन तावत्पर्यन्तं योगः कर्तव्यः न मध्य एव त्याज्य
 इति ज्ञापितम्। प्रयत्नेनाभियोगेन।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.5 6.6॥ अस्यां च बुद्धौ अवश्यमेवावधेयमित्याह उद्धरेदिति। बन्धुरिति। अत्र च नान्य उपायः अपि तु आत्मैव मन एवेत्यर्थः। जितं हि मनो मित्रं घोरतरसंसारोद्धरणं करोति अजितं तु तीव्रनिरयपातनात् शत्रुत्वं कुरुते।
 </details>
@@ -197,12 +204,14 @@ answered:
 
 6.5 See Comment under 6.6
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.5॥ अतो विषयेष्वननुषञ्जनं कर्म कृत्वैवात्मानमात्मना
 स्वेनोद्धरेन्नावसादयेच्च। परोपदेशस्य प्रवर्त्तकत्वमेव
@@ -222,20 +231,26 @@ answered:
 **आत्मनो** जीवस्य **आत्मैव** स एव **रिपुः** शत्रुः।  
 अत्र **आत्मना आत्मानम् उद्धरेद्** बन्धु-भावेन न रिपुभावेन **अवसादयेत्**।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.5॥ अतो विषयासक्तित्यागे मोक्षं तदासक्तौ च बन्धं पर्यालोच्य
 रागादिस्वभावं त्यजेदित्याह **उद्धरेदिति।** आत्मना विवेकयुक्तेनात्मानं
 संसारादुद्धरेन्नत्ववसादयेदधो न नयेत्। हि यस्मादात्मैव मनःसङ्गादुपरत
 आत्मनः स्वस्य बन्धुरुपकारकः रिपुरपकारकश्च।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.5 One should raise the self by his own mind and not allow the self to sink; for the mind alone is the friend of the self, and the mind alone is the foe of the slef.
@@ -270,11 +285,13 @@ For oneself is verily one's onw friend; oneself is verily one's own enemy.
 रिपुः the enemy; आत्मनः of the self.Commentary Practise Yog. Discipline the senses and the mind. Elevate yourself and become a Yogarudha. Attain to Yoga. Shine gloriously as a dynamic Yogi. Do not sink into the ocean of Samsara (transmigration). Do not become a wordlyminded man. Do not become a slave of lust; greed and anger. Rise above worldliness; become divine and attain Godhead.You alone are your friend you alone are your enemy. The socalled worldly friend is not your real friend; because he gets attached to you; wastes your time and puts obstacles on your path of Yoga. He is very selfish and keeps friendship with you only to extract something. If he is not able to get from you the object of his selfish interest; he forsakes you. Therefore he is your enemy in reality. If you are attached to your friend on account of delusion or affection; this will become a cause of your bondage to Samsara.Friends and enemies are not outside. They exist in the mind only. It is the mind that makes a friend an enemy and an enemy a friend. Therefore the Self alone is the friend of oneself; and the Self alone is the enemy of oneself. The lower mind or the Asuddha Manas (impure mind) is your real enemy because it binds you to the Samsara; and the higher mind or the Sattvic mind (Suddha Manas or the pure mind) is your real friend;
 because it helps you in the attainment of Moksha.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.5।। अपने द्वारा अपना उद्धार करे, अपना पतन न करे; क्योंकि आप ही अपना
@@ -395,6 +412,7 @@ because it helps you in the attainment of Moksha.
 ।।6.5।। मनुष्य को अपने द्वारा अपना उद्धार करना चाहिये और अपना अध: पतन
 नहीं करना चाहिये; क्योंकि आत्मा ही आत्मा का मित्र है और आत्मा (मनुष्य
 स्वयं) ही आत्मा का (अपना) शत्रु है।।
+</details>
 </details>
 
 </div>

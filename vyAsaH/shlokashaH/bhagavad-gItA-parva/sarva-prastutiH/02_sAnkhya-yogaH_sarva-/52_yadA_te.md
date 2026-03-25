@@ -23,8 +23,9 @@ title = "52 यदा ते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.52॥ उक्तप्रकारेण कर्मणि वर्तमानस्य तया वृत्त्या निर्धूतकल्मषस्य **ते बुद्धिर् यदा मोहकलिलम्** अत्यल्पफलसङ्गहेतुभूतं मोहरूपं कलुषं **व्यतितरिष्यति।** तदा अस्मत्त इतः पूर्वं त्याज्यतया श्रुतस्य फलादेर् इतः पश्चात् **श्रोतव्यस्य** च कृते स्वयम् एव निर्वेदं गन्तासि गमिष्यसि।  
@@ -41,12 +42,14 @@ title = "52 यदा ते"
 
 2.52 If you act in this manner and get freed from impurities, your intellect will pass beyond the tangle of delusion. The dense impurity of sin is the nature of that delusion which generates attachment to infinitesimal results, of which you have already heard much from us and will hear more later on. You will then immediately feel, of your own accord, renunciation or feeling of disgust for them all. Sri Krsna now teaches the goal called self-realisation (Yoga) which results from the performance of duty as taught in the passage beginning with 'Now, listen to this with regard to Karma Yoga' (2.39) which is based on the knowledge of the real nature of the self gained through the refinement of the mind.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.52॥  
   
@@ -160,12 +163,14 @@ becomes apparent.\] becomes fruitless.
 लोकान्कर्मचितान्ब्राह्मणो निर्वेदमायात् इति श्रुतेः। निर्वेदेन
 फलेनान्तःकरणशुद्धिं ज्ञास्यसीत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.52॥ कियत्पर्यन्तमवश्यं कर्तव्यानि मुमुक्षुणैवं कर्माणीत्याह यदेति।
 निर्वेदं नितरां लाभम्। प्रयोगात् तस्माद्ब्राह्मणः पाण्डित्यं निर्विद्य
@@ -264,12 +269,14 @@ becomes apparent.\] becomes fruitless.
 असच्छास्त्रादिव्युदासाय सङ्कोचः कार्य एवेत्याह **महद्भि**रिति।
 अयोग्यतयैव तन्निरासः प्रकरणाद्वेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.54 2.55॥ यदा ते इति। श्रुतीति। तत्र च योगबुद्धिप्राप्त्यबसरे तव स्फुटमेवेदमभिज्ञानम् श्रोतव्यस्य +++(S omits श्रोतव्यस्य)+++ श्रुतस्य अभिलष्यमाणस्य च +++(N वा instead of च)+++ आगमस्य उभस्यापि निर्वेदभावत्वम् +++(SK भाक्त्वम्)+++। अनेन चेदमुक्तम् अविद्यापद +++(N अविद्यमद)+++ निपतितप्रमात्रनुग्राहकशास्त्रश्रवणसंस्कारविप्रलम्भमहिमा अयं यत् तवास्थाने कुलक्षयादिदोषदर्शनम्। तत्तु तथाशासनबहुमानविगलने विगलिष्यति इति।
 </details>
@@ -278,12 +285,14 @@ becomes apparent.\] becomes fruitless.
 
 2.52 See Comment under 2.53
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.52 2.53॥ कदा तत्पदमहं प्राप्स्यामि इत्यपेक्षायामाह यदेति द्वाभ्याम्।
 निश्चला विशोकधैर्यादिवती ते यदा बुद्धिर्व्यवसायात्मिकैव तदा श्रोतव्यस्य
@@ -305,10 +314,13 @@ becomes apparent.\] becomes fruitless.
 तथैवोपदेष्टव्यः। अधुनाऽधिकाराभावान्नोपदिश्यते अधिकारसम्पत्त्यर्थं च
 सूचितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.52॥ कदा तत्पदमहं प्राप्स्यामीत्यपेक्षायामाह **यदेति** द्वाभ्याम्।
 मोहो देहादिष्वात्मबुद्धि तदेव कलिलंकलिलं गहनं विदुः इत्यभिधानकोशस्मृतेः।
@@ -317,10 +329,13 @@ becomes apparent.\] becomes fruitless.
 श्रोतव्यस्य श्रुतस्यार्थस्य च निर्वेदं वैराग्यं गन्तासि प्राप्स्यसि।
 तयोरनुपादेयत्वेन जिज्ञासां न करिष्यसीत्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.52 When your intellect has passed beyond the tangle of delusion, you will yourself feel disgusted regarding what you shall hear and what you have already heard.
@@ -355,11 +370,13 @@ regarding what has to be heard and what has been heard.
 निर्वेदम् to indifference; श्रोतव्यस्य of what has to be heard; श्रुतस्य
 what has been heard; च and.Commentary The mire of delusion is the identification of the Self with the notself. The sense of discrimination between the Self and the notSelf is confounded by the mire of delusion and the mind runs towards the sensual objects and the body is takes as the pure Self. When you attain purity of mind; you will attain to indifference regarding things heard and yet to be heard. They will appear to you to be of no use. You will not care a bit for them. You will entertain disgust for them. (Cf.XVI.24).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.52।। जिस समय तेरी बुद्धि मोहरूपी दलदलको तर जायगी, उसी समय तू सुने
@@ -482,6 +499,7 @@ what has been heard; च and.Commentary The mire of delusion is the identificati
 ।।2.52।। जब तुम्हारी बुद्धि मोहरूप दलदल (कलिल) को तर जायेगी तब तुम उन सब
 वस्तुओं से निर्वेद (वैराग्य) को प्राप्त हो जाओगे; जो सुनने योग्य और सुनी
 हुई हैं।।
+</details>
 </details>
 
 </div>

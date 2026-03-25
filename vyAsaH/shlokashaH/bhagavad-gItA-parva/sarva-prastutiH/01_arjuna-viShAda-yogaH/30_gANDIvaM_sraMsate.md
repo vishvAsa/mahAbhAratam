@@ -23,8 +23,9 @@ title = "30 गाण्डीवं स्रंसते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥1.30॥ अन्तिमश्लोकव्याख्या दृश्या।
@@ -40,12 +41,14 @@ title = "30 गाण्डीवं स्रंसते"
 
 1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous. His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.30 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -95,12 +98,14 @@ starts from 2.10.
 रूद्रः संहर्ता तौ वात्यनुकम्प्यतया गच्छतीति तद्व्युत्पत्तेः।
 भक्तदुःखकर्षित्वं वा कृष्णापदेनोक्तम्॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.30॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -111,12 +116,14 @@ starts from 2.11.
 ॥1.30॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.30 1.34॥ न च श्रेयोऽनुपश्यामीत्यादि। अमी आचार्यदयः इति विशेषबुद्ध्या +++(N शेषबुद्ध्या)+++ बुद्धौ आरोप्यमाणाः वधकर्मतया अवश्यं पापदायिनः। तथा भोगसुखादिदृष्टार्थमेतद्युद्धं क्रियते इति बुद्ध्या क्रियमाणं युद्धे +++(S युद्धेषु वध्य K युद्धेष्ववध्य )+++ वध्यहननादि तदवश्यं पातककारि इति पूर्वपक्षाभिप्रायः। अत एव स्वधर्ममात्रतयैव कर्माणि अनुतिष्ठ न विशेषधियेति उत्तरं दास्यते।
 </details>
@@ -125,12 +132,14 @@ starts from 2.11.
 
 1.30 – 1.34 Na ca sreyah, etc., upto mahikrte. Those who are wrongly conceived as object of slaying, with the individualizing idea that 'these are my teachers etc.'8 would necessarily generate sin. Similarly, the act of slaying even of those deserving to be slain in the battle-if undertaken with the idea that 'This battle is to be fought for the apparent results like pleasures, happiness etc.'- then it generates sin necessarily. This idea lurks in the objection \[of Arjuna\]. That is why a reply is going to be given \[by Bhagavat\] as 'You must undertake actions simply as your own duty, and not with an individualizing idea'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.28 1.30॥ सीदन्ति इत्युपक्रम्यभ्रमतीव च मे मनः इत्यन्तं
 देहधर्माभिमानेन विषयदर्शनपूर्वकं स्वस्याश्रयो निवेदयतिनिमित्तानि
@@ -144,19 +153,25 @@ starts from 2.11.
 युद्धं कृत्वा राज्यादिकरणरूपाणि तानि तथाभूतानि सर्वाणि पश्यामि।
 भगवदीयस्य तथात्वमनुचितमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **॥1.30॥** **अन्यच्च न चेति।** विपरीतानि निमित्तान्यनिष्टसूचकानि
 शकुनानि पश्यामि।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.30 The bow Gandiva slips from my hand and my skin is burning. I can stand no longer. My mind seems to reel.
@@ -190,11 +205,13 @@ starts from 2.11.
 शक्नोमि (I) am able; अवस्थातुम्; to stand; भ्रमति इव seems whirling; च
 and; मे my; मनः mind.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/30_gANDIvaM_sraMsate.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.28 -- 1.30।। अर्जुन बोले - हे कृष्ण! युद्ध की इच्छावाले इस
@@ -267,6 +284,7 @@ and; मे my; मनः mind.No Commentary.
 
 ।।1.30।। मेरे हाथ से गाण्डीव (धनुष) गिर रहा है और त्वचा जल रही है। मेरा
 मन भ्रमित सा हो रहा है, और मैं खड़े रहने में असमर्थ हूँ।
+</details>
 </details>
 
 </div>

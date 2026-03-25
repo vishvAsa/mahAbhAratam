@@ -23,8 +23,9 @@ title = "56 सर्वकर्माण्यपि सदा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.56॥ न केवलं नित्यनैमित्तिककर्माण्य् अपि तु काम्यानि **अपि सर्वाणि कर्माणि** **मद्व्यपाश्रयः** मयि सन्न्यस्तकर्तृत्वादिकः **कुर्वाणो मत्प्रसादात् शाश्वतं पदम् अव्ययम्** अविकलं **प्राप्नोति।** पद्यते गम्यते इति पदम् मां प्राप्नोति इत्यर्थः। यस्माद् एवं तस्मात् --
@@ -41,12 +42,14 @@ title = "56 सर्वकर्माण्यपि सदा"
 'Pada' means that which is attained. The meaning is that he attains Me.
 \[The idea is that the performance of even those ritualistic actions enjoined for those having the fulfilment of certain desires in view, even these actions, if done without any such desire but only as the worship of the Supreme Person - the have the same effect as the performance of the enjoined daily and occasional rituals to which no effect except the purification of the self is offered by the Sastras.\] Since it is so, therefore:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.56॥ --,**सर्वकर्माण्यपि** प्रतिषिद्धान्यपि **सदा कुर्वाणः** अनुतिष्ठन् **मद्व्यपाश्रयः** अहं वासुदेवः ईश्वरः व्यपाश्रयणं यस्य सः मद्व्यपाश्रयः मय्यर्पितसर्वभावः इत्यर्थः। सोऽपि **मत्प्रसादात्** मम ईश्वरस्य प्रसादात् **अवाप्नोति शाश्वतं** नित्यं वैष्णवं **पदम् अव्ययम्**॥ यस्मात् एवम् --,
 </details>
@@ -166,12 +169,14 @@ therefore,
 मोक्षभाग्भवतीति भगवदेकशरणतास्तुत्यर्थं सर्वकर्माणि सर्वदा
 कुर्वाणोऽपीत्यनूद्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.56॥ पुनरन्तरङ्गसाधनान्युक्त्वोपसंहरति -- सर्वकर्माणीत्यादिना।
 </details>
@@ -181,12 +186,14 @@ therefore,
 ॥18.56॥ उत्तरग्रन्थस्य सङ्गतिं सूचयंस्तात्पर्यमाह -- **पुनरि**ति।
 उपसंहरति; शास्त्रमिति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -197,12 +204,14 @@ therefore,
 
 18.56 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.56॥ इदानीं सर्वेषामपि कर्मणामुक्तिविधयाऽनुष्ठीयमानानां तु सतामेष एव
 विपाक इत्याह -- सर्वेति। यो भगवन्मार्गीयत्वादृशः सर्वाणि लौकिकानि
@@ -219,10 +228,13 @@ therefore,
 मदाज्ञारूपेण; न तु फलाभिलाषेण कुर्वाणो मत्प्रसादात् शाश्वतमनादि;
 अव्ययमविनाशि; एतादृशं पदमक्षरमवाप्नोति; प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.56॥ स्वकर्मभिः परमेश्वराराधनादुक्तं मोक्षप्रकारमुपसंहरति **--
 सर्वकर्माणीति।** सर्वकर्माणि नित्यनैमित्तिकानि काम्यानि च कर्माणि
@@ -230,10 +242,13 @@ therefore,
 स्वर्गादिफलं यस्य सः मत्प्रसादाच्छाश्वतमनादि अव्ययं नित्यं सर्वोत्कृष्टं
 वैष्णवं पदं प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.56 Taking refuge in Me and performing all works constantly, one, by My grace, attains the eternal and immutable realm.
@@ -272,11 +287,13 @@ so My devotee; becoming united with Me; is unaffected by these prohibited action
 with his whole self centred in Me attains the eternal abode of Vishnu;
 by the grace of the Lord.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.56।। मेरा आश्रय लेनेवाला भक्त सदा सब कर्म करता हुआ भी मेरी कृपासे
@@ -387,6 +404,7 @@ by the grace of the Lord.
 
 ।।18.56।। जो पुरुष मदाश्रित होकर सदैव समस्त कर्मों को करता है, वह मेरे
 प्रसाद (अनुग्रह) से शाश्वत, अव्यय पद को प्राप्त कर लेता है।।
+</details>
 </details>
 
 </div>

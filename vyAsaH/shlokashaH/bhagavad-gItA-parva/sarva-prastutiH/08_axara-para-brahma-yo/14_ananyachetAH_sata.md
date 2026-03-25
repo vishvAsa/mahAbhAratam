@@ -23,8 +23,9 @@ title = "14 अनन्यचेताः सततम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.14॥**नित्यशो माम्** उद्योगप्रभृति **सततं** सर्वकालम् **अनन्यचेता यः स्मरति** अत्यर्थं मत्प्रियत्वेन मत्स्मृत्या विना आत्मधारणम् अलभमानो निरतिशयप्रियां स्मृतिं यः करोति **तस्य नित्ययुक्तस्य** नित्ययोगं काङ्क्षमाणस्य योगिनः **अहं सुलभः** अहम् एव प्राप्यः न मद्भाव ऐश्वर्यादिकः।  
@@ -45,12 +46,14 @@ title = "14 अनन्यचेताः सततम्"
 (Mun. U., 3.2.3 and Ka. U., 2.22). And Sri Krsna Himself will teach: "To those, ceaselessly united, who worship Me, I bestow that discernment by which they come to Me. Out of mercy for them, I, abiding in their heart,
 dispel the darkness born of ignorance, by the brilliant lamp of knowledge" (10.10;11). In the remaining part of this chapter, He teaches that the Jnanis and the aspirants after Kaivalya do not deturn, and that the seekers after power and prosperity return.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.14॥ --,**अनन्यचेताः** न अन्यविषये चेतः यस्य सोऽयम् अनन्यचेताः योगी **सततं** सर्वदा **यः मां** परमेश्वरं **स्मरति नित्यशः।** सततम् इति नैरन्तर्यम् उच्यते नित्यशः इति दीर्घकालत्वम् उच्यते। न षण्मासं संवत्सरं वा किं तर्हि यावज्जीवं नैरन्तर्येण यः मां स्मरतीत्यर्थः। **तस्य** योगिनः **अहं सुलभः** सुखेन लभ्यः हे **पार्थ नित्ययुक्तस्य** सदा समाहितचित्तस्य **योगिनः।** यतः एवम् अतः अनन्यचेताः सन् मयि सदा समाहितः भवेत्॥ तव सौलभ्येन किं स्यात् इत्युच्यते श्रृणु तत् मम सौलभ्येन यत् भवति --,
 </details>
@@ -131,12 +134,14 @@ being answered: 'Hear what follows from My being easy of attainment.'
 विक्षेपान्तरशून्यतया भगवदनुचिन्तनमेव परमगतिहेतुर्मूर्धन्यया नाड्या तु
 स्वेच्छया प्राणोत्क्रमणं भवतु न वेति नातीवाग्रहः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.14॥ नित्ययुक्तस्य नित्योपायवतः। योगिनः परिपूर्णयोगस्य।
 </details>
@@ -146,12 +151,14 @@ being answered: 'Hear what follows from My being easy of attainment.'
 ॥8.14॥ नित्ययुक्तस्य योगिन इत्येतयोरेकार्थतानिरासार्थमाह --
 **नित्ये**ति। नित्योपायवत्त्वेन सम्पूर्णयोगस्येत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.12 -- 8.14॥ सर्वद्वाराणीत्यादि योगिन इत्यन्तम्। द्वाराणि इन्द्रियाणि। हृदि इति -- अनेन विषयसंगाभाव उच्यते न तु विष्ठास्थानाधिष्ठानम्। आत्मनः प्राणम् आत्मसारथिम् इच्छाशक्त्यात्मनि मूर्ध्नि सकलतत्त्वातीते धारयन् इति कायनियमः। ओमिति जपन् इति वाङ्नियमः। मामनुस्मरन्निति चेतसोऽनन्यगामिता +++(S चेतसाऽनन्यगामिता)+++। यः प्रयादि -- दिनाद्दिनम् +++(N दिनंदिनं)+++ अपुनरावृत्तये गच्छति। तथा च देहं त्यजन् कथं मे +++(SN omit मे)+++ पुनरिदं सकलापत्स्थानं शरीरं मा भूयात् इत्येवं यो मामनन्यचेताः स्मरति सततमेव याति जानाति +++(S omits जानाति)+++ स मद्भावम् मत्स्वरूपम्। न +++(N नन्वत्र)+++ मुनेः परब्रह्माद्वैतपदोपक्षेपविरोधी उत्क्रान्तौ ( तत् क्रान्तौ K [n] विरोधीति उत्क्रान्तौ भरः) भरः। तथाचोक्तम् -- व्यापिन्यां शिवसत्तायाम् उत्क्रान्तिर्नाम निष्फला।  
   
@@ -168,12 +175,14 @@ being answered: 'Hear what follows from My being easy of attainment.'
 
 8.12-14 Sarvadvarani etc., upto Yoginah. The gates : the sense organs, like the eyes and not the place of excrement etc. Restraining the mind in the heart : By this, only the absence of attachment towards the objects, and not any seat, is stated. One's own Prana : the driver of one's own Self (the vital air). So, the meaning is 'Fixing this Prana in the head i.e., the very Self with the Power-of-Will, lying beyond all categories. Thus the controlling of body \[has been prescribed\]. Reciting Om : This denotes the act of controlling the sense of speech. Meditating on Me : It signifies the non-wandering of the mind over other objects. Whosoever travels well : Whosoever travels day after day not to return back (i.e., for final emancipation). Therefore casting away the body i.e., longing 'How to avoid taking once again the body, a repository of all troubles', whosoever remembers Me always with his mind, that thinks nothingelse-he reaches Me i.e., he realises My state. Really the Sage (Vyasa) does not favour \[the idea of\] upward flight \[of the Soul from the body\] that may go against the pronounced intention of \[attaining\] total identity with the Absolute Brahman that admits no duality. Therefore it has been said : 'If the Siva-existence (the Absolute State) is Omnipresent, then the upward flight serves no purpose indeed. On the othe hand, if Siva (the Absolute) is not Omnipresent then the upward flight cannot yield Siva (the Auspicious one, the Absolute)'. Alternately \[the Gita passage may be interpreted as :\] If some persons have not undergone the process of constant practice, yet at the time of death there arises \[in them\] - due to some undefinable reason, like the Free Will of the Lord and the like-a condition, similar to the one mentioned above, then \[in the case of those persons\] this condition itself - characterised as 'the flight from the body' (getting oneself disassociated from the body) - is stated \[by the Sage\] as a means obstructing all the other potential mental impressions. That is why in the passage starting 'That unchanging one which the Veda-knowers speek of' and ending 'I shall tell you that', \[the Sage\] has made a solemn declaration in order to explain the astonishing nature of the reflection on the Bhagavat - even though it lasts only a moment - marked by the destruction of all the \[other\] potential mental impressions. Hence the great teachers also say : 'O Sambhu ! If You could set Your foot, atleast for the duration of a single winking of the eye, in \[my\] blemishless mind, what else would You not accomplish \[for me\]'. That is why, with a view to satisfy those who raise the estion 'But the breaking \[of body of the wise\] has been found without remembrance \[of the Lord\] at the time of departure', here it is said 'He who \[remembers Me\] constantly with the mind, not attached to any other thing.' The meaning of it is : 'He whose mind is not attached to any other result to be achieved.' For him I am easy to attain : For him there is no need to undertake the trouble of searching for a suitable time for departure; making pilgrimage to sacred places; \[waiting for\] the time of the summer solastice; taking shelter in the temples; augmenting the \[Strand\] Sattva; remaining absorbed in the thought \[of the Lord\]; \[expecting\] the auspicious moment of einox and of the day \[time\]; selecting a locality that is naturally pure; having body free from dirt of attachment (or unguent); wearing clean cloth; and similar other ones. Hence it has been stated earlier \[under VIII, 5-7 above\] 'Either in a sacred place or in the house of a dog-cooker' etc. But it has been declared that 'He attains My State.' Will there he rirth for him even after attaining that State ; Considering this doubt \[the Lord\] says :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.14॥ एवं परमात्मचिन्तकानां त्रिधा प्राप्तिमुक्त्वा स्वचिन्तकस्य
 भक्तस्य स्वप्राप्तिमाह -- अनन्येति। नान्यस्मिन्पुत्रदारादिके (किन्तु
@@ -191,10 +200,13 @@ being answered: 'Hear what follows from My being easy of attainment.'
 सुलभः सुखेन लभ्यः प्राप्यः। पार्थेति सम्बोधनेन यथा त्वन्मातृस्मरणबलेन तव
 सुलभो जातस्तथेति व्यञ्जितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.14॥ एवं चान्तकाले धारणया मत्प्राप्तिर्नित्याभ्यासवशत एव भवति
 नान्यस्येति पूर्वोक्तमेवानुस्मारयति **-- अनन्येति।**
@@ -202,10 +214,13 @@ being answered: 'Hear what follows from My being easy of attainment.'
 प्रतिदिनं स्मरति तस्य नित्ययुक्तस्य समाहितस्याहं सुखेन लभ्योऽस्मि
 नान्यस्य।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.14 O son of Prtha, to that yogi of constant concentration and single-minded attention, who remembers Me uninterruptedly and for long,
@@ -234,11 +249,13 @@ I am easy of attainment.
 constantly; यः who; माम् Me; स्मरति remembers; नित्यशः daily; तस्य of him; अहम् I; सुलभः easily attainable; पार्थ O Partha; नित्ययुक्तस्य
 eversteadfast; योगिनः of Yogi.Commentary I am easily attainable by that eversteadfast Yogi who constantly and daily remembers Me (for a long time); not thinking of anything else (with a single mind or onepointed mind); O Partha (Arjuna).Commentary Constantly remembering the Lord throughout the life is the most easy way of attaining Him.Ananyachetah He has no attachment for any other object. He will not think of any other object save his IshtaDevata or tutelary deity.Nityasah For a long time; i.e.; till the end of life.He who remembers the Lord by fits and starts or he who remembers Him for six montsh and then leaves the practice and then again remembers Him for six months and so on cannot attain Him. (Cf.IX.22;34)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.14।। हे पृथानन्दन ! अनन्यचित्तवाला जो मनुष्य मेरा नित्य-निरन्तर स्मरण
@@ -273,6 +290,7 @@ eversteadfast; योगिनः of Yogi.Commentary I am easily attainable by t
 
 ।।8.14।। हे पार्थ ! जो अनन्यचित्त वाला पुरुष मेरा स्मरण करता है, उस
 नित्ययुक्त योगी के लिए मैं सुलभ हूँ अर्थात् सहज ही प्राप्त हो जाता हूँ।।
+</details>
 </details>
 
 </div>

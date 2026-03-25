@@ -23,8 +23,9 @@ title = "26 माञ् च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.26॥ नान्यं गुणेभ्यः कर्तारम् (गीता 14॥19) इत्यादिना उक्तेन प्रकृत्यात्मविवेकानुसन्धानमात्रेण न गुणात्ययः सम्पत्स्यते; तस्य अनादिकालप्रवृत्तविपरीतवासनाबाध्यत्वसम्भवात्॥**मां** सत्यसङ्कल्पं परमकारुणिकम् आश्रितवात्सल्यजलधिम् **अव्यभिचारेण** ऐकान्त्यविशिष्टेन **भक्तियोगेन च यः सेवते; स एतान्** सत्त्वादीन् गुणान् दुरत्ययान् **अतीत्य ब्रह्मभूयाय** ब्रह्मत्वाय **कल्पते** ब्रह्मभावयोग्यो भवति; यथावस्थितम् आत्मानम् अमृतम् अव्ययं प्राप्नोति इत्यर्थः।
@@ -39,12 +40,14 @@ title = "26 माञ् च"
 
 14.26 The state of transcendence of Gunas is not attained merely by reflecting on the difference between the Prakrti and the self as declared in the text such as, 'When the seer beholds no agent of action other than the Gunas, then he transcends the Gunas, for it is liable then to be sublated by contrary subtle impressions (Vasanas) which have continued from beginningless time. He who, with unswerving Bhakti Yoga, namely, one-pointed Bhakti Yoga, serves Me of true-resolve, supremely compassionate and the ocean of parental affection for supplicants - such a man crosses over the Gunas of Sattva etc., which are otherwise invincible. He becomes worthy for brahmabhuya, the state of brahman i.e., he becomes alified for the state of brahman. The meaning is that he attains the self as It really is, immortal and immutable.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.26॥ --,**मां च** ईश्वरं नारायणं सर्वभूतहृदयाश्रितं **यो** यतिः कर्मी वा **अव्यभिचारेण** न कदाचित् यो व्यभिचरति **भक्तियोगेन** भजनं भक्तिः सैव योगः तेन भक्तियोगेन **सेवते; सः गुणान् समतीत्य एतान्** यथोक्तान् **ब्रह्मभूयाय;** भवनं भूयः; ब्रह्मभूयाय ब्रह्मभवनाय मोक्षाय **कल्पते** समर्थो भवति इत्यर्थः॥ कुत एतदिति उच्यते --,
 </details>
@@ -119,12 +122,14 @@ for Liberation. How this is so is being stated:
 ब्रह्मभूयाय ब्रह्मभवनाय मोक्षाय कल्पते समर्थो भवति। सर्वदा
 भगवच्चिन्तनमेव गुणातीतत्वोपाय इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.26॥ ब्रह्मवत्प्रकृतिवद्भगवत्प्रियत्वं ब्रह्मभूयम्। न तु
 तावत्प्रियत्वं; किन्तु प्रियत्वमात्रम्। बद्धा वापि तु मुक्ता वा न
@@ -145,12 +150,14 @@ for Liberation. How this is so is being stated:
 सुबन्तमात्रस्योपपदस्यानुवृत्तेः। वत्यर्थस्य च वृत्तावन्तर्भावात्।
 मयूरव्यंसकादिवत्। वत्यर्थश्च प्रियत्वमिति तदुक्तमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.26॥ मां चेति। अनेन मूलभूतमुपायमुपदिशति। च शब्दोऽवधारणे -- यो मामेव सेवते। अनेन फलादिसाकाङ्क्षो मामङ्गत्वेनाश्रयति; फलं प्रधानतया इति निरस्तः। अत एव न अस्याव्यभिचारिणी भक्तिः फलं प्रति ह्यसौ आस्थावान् इति। यस्तु फलं किंचिदपि अनभिलष्यन् किमेतदलीकमनुतिष्ठसि +++(;N किमिति तदलीक -- )+++ इति पर्यनुयुज्यमानोऽपि; निरन्तरभगवद्भक्तिवेधविद्रुतान्तःकरणतया कण्टकितरोमवान् +++(S उत्कण्टकित -- )+++ ; वेपमानतनुः विस्फारितनयनयुगलपरिवर्तमानसलिलसंपातः +++(;N विस्फारतरनयन -- )+++ तूष्णींभावेनैवोत्तरं प्रयच्छति; स एवाव्यभिचारिण्या भगवतो महेश्वरस्य अग्रशक्त्या +++(N उग्रशक्त्या)+++ भक्त्या पवित्रीकृतो नान्य इति ज्ञेयम्।
 </details>
@@ -159,12 +166,14 @@ for Liberation. How this is so is being stated:
 
 14.26 Mam ca etc. By this \[verse the Lord\] teaches the basic means. Here the word ca has been used in the sense of affirmation in exclusion of all other things. \[So the meaning is\] : 'He, who serves Me exclusively'. Hence, craving for fruits etc. \[of action\], whosoever takes hold of that fruit as his principal aim, but Me (the Supreme) as a subsidiary one-he is excluded by this interpretation. Because the devotion of this person is not unfailing. For, he has consideration for fruit \[alone\]. On the other hand, he who does not entertain any desire for any fruit; who, even when estioned \[by somody as\] 'Why do you under-take this desagreeable (foolish) act ;' would give reply by silence alone, shedding tears that roll on his both the eyes wide open, and having shake in body and bodily hair thrilled-\[all\] due to his internal organ, agitated on account of being struck by the incessant devotion towards the Bhagavat-it should be born in mind that this person alone, not anybody else, in purified by the unfailing devotion which is (nothing but) the foremost Energy (Grace) of the Bhagavat, the Supreme Lord.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.26॥ किञ्च भक्तिमार्गीयस्य गुणातीतत्वं केवलगुणातीतभगवद्भक्त्येति
 तथाह -- मां चेति। मां पुरुषोत्तमं अव्यभिचारेण सर्वात्मना ऐकान्तिकेन
@@ -184,20 +193,26 @@ for Liberation. How this is so is being stated:
 मां मदर्थे अव्यभिचारेण अनन्यात्मकेन भक्तियोगेन यः सेवते; स एतान् गुणान्
 समतीत्य सम्यगतिक्रम्य ब्रह्मभूयाय ब्रह्मभावाय कल्पते समर्थो भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.26॥ कथं चैतांस्त्रीन्गुणानतिवर्तत इत्यस्य प्रश्नस्योत्तरमाह **--
 मांचेति।** चशब्दोऽवधारणार्थः। मामेव परमेश्वरं
 श्रीनारायणमव्यभिचारेणैकान्तभक्तियोगेन यः सेवते स एतान्गुणान्समतीत्य
 सम्यगतिक्रम्य ब्रह्मभूयाय ब्रह्मभावाय मोक्षाय कल्पते योग्यो भवति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.26 And he who, with unswerving Bhakti Yoga, serves Me, he, crossing beyond the Gunas, becomes fit for the state of Brahman.
@@ -231,11 +246,13 @@ transcending these Strands, turns to be the Brahman.
 एतान् these; ब्रह्मभूयाय for becoming Brahman; कल्पते is fit.Commentary A Sannyasi or even a Karma Yogi who serves Him (the Isvara; Narayana Who abides in the hearts of all beings) with unswerving devotion; is endowed with the knowledge of the Self. He then goes beyond the three alities and becomes fit to become Brahman; for attaining liberation or release from birth and death.He attains to the knowledge of the Self through the grace and mercy of the Lord. To these everharmonious devotees worshipping Me in love; I give the Yoga of discrimination by which they come unto Me. Out of pure compassion for them; dwelling within their Self; I destroy the ignorancorn darkness by the shining lamp of wisdom.
 (Chapter X. 10 and 11)Avyabhicharini Bhakti The devotee constantly meditates on the Lord. He has exclusive devotion to the Lord alone. He has no other thought save that of his Lord. His mind is filled with the thoughts of the Lord. His thoughts flow towards the Lord like the continuous flow of oil from one vessel to another. There is Sajatiya Vritti Pravaha; i.e.; unbroken flow of the one thought of God. There is total abandonment of thoughts of sensual objects. Constant thinking of God is the sure means for crossing beyond the three alities of Nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.26।। जो मनुष्य अव्यभिचारी भक्तियोगके द्वारा मेरा सेवन करता है, वह इन
@@ -322,6 +339,7 @@ transcending these Strands, turns to be the Brahman.
 ।।14.26।। जो पुरुष अव्यभिचारी भक्तियोग के द्वारा मेरी सेवा अर्थात्
 उपासना करता है, वह इन तीनों गुणों के अतीत होकर ब्रह्म बनने के लिये योग्य
 हो जाता है।।
+</details>
 </details>
 
 </div>

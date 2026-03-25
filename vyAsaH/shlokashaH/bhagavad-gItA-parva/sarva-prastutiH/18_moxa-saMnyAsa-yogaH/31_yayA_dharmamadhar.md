@@ -23,8 +23,9 @@ title = "31 यया धर्ममधर्मम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.31॥**यया** पूर्वोक्तं द्विविधं **धर्मं** तद्विपरीतं **च** तन्निष्ठानां देशकालावस्थादिषु **कार्यं च अकार्यं च** यथावत् **न जानाति सा राजसी बुद्धिः।**
@@ -39,12 +40,14 @@ title = "31 यया धर्ममधर्मम्"
 
 18.31 That Buddhi by which one does not know exactly the twofold Dharma previously mentioned and its opposite, and what ought to be done and what ought not to be done by those intent on them in accordance with place, time and conditions - that Buddhi is Rajasika.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.31॥ --,**यया धर्मं** शास्त्रचोदितम् **अधर्मं च** तत्प्रतिषिद्धं **कार्यं च अकार्यमेव च** पूर्वोक्ते एव कार्याकार्ये **अयथावत्** न यथावत् सर्वतः निर्णयेन न **प्रजानाति; बुद्धिः सा पार्थ; राजसी**॥
 </details>
@@ -100,12 +103,14 @@ ought to be done; and akaryam, what ought not to be done-those very
 संशयं वा भजते यया बुद्ध्या सा राजसी बुद्धिः। अत्र
 तृतीयानिर्देशादन्यत्रापि करणत्वं व्याख्येयम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.31॥ यथार्थत्वानियमाभावे राजस्याः। अन्यथा तामस्याः; भेदाभावात्।
 </details>
@@ -119,12 +124,14 @@ ought to be done; and akaryam, what ought not to be done-those very
 **अन्यथे**ति। राजस्याः इति षष्ठ्यन्तमनुवर्तते। तामस्याः इति पञ्चमी;
 भेदाभावाद्भेदाभावप्रसङ्गात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.30 -- 18.32॥ प्रवृत्तिमित्त्यादि तामसी मतेत्यन्तम्। अयथावत् -- असम्यक्।
 </details>
@@ -133,12 +140,14 @@ ought to be done; and akaryam, what ought not to be done-those very
 
 18.31 See Comment under 18.32
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.31॥ यया धर्ममिति। पूर्वोक्तं द्विविधं धर्मं तद्विरुद्धं च
 प्रजानाति; न यथावत् सा राजसी बुद्धिः।
@@ -150,18 +159,24 @@ ought to be done; and akaryam, what ought not to be done-those very
 अनिच्छात्मकं; कार्यं भगवद्भजनम्; अकार्यं तदतिरिक्तं कर्म; अयथावत्
 सन्दिग्धम्; अन्यथा वा प्रजानाति; हे पार्थ सा बुद्धिः,राजसी।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.31॥ राजसीं बुद्धिमाह **-- ययेति।** अयथावत्संदेहास्पदत्वेनेत्यर्थः।
 स्पष्टमन्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.31 The Buddhi which gives an erroneous knowledge of Dharma and Adharma (its opposite) and also of what ought to be done and what ought not to be done, O Arjuna, is Rajasika.
@@ -195,11 +210,13 @@ and; अयथावत् wrongly; प्रजानाति understands; ब
 righteousness; virtue; law are very poor translations of the word. That which elevates you and takes you to the goal; i.e.; Brahman or the Self;
 is Dharma. That which hurls you down into the dark abyss of ignorance is Adharma. What is ordained in the scriptures is Dharma what is prohibited by them is Adharma. A Rajasic intellect is not able to distinguish between right and wrong or to understand the difference between righteous and unrighteous actions.Ayathavat Wrongly Contrary to what is determined by all authorities or men of wisdom or to the highest knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.31।। हे पार्थ ! मनुष्य जिसके द्वारा धर्म और अधर्मको, कर्तव्य और
@@ -283,6 +300,7 @@ is Dharma. That which hurls you down into the dark abyss of ignorance is Adharma
 
 ।।18.31।। हे पार्थ ! जिस बुद्धि के द्वारा मनुष्य धर्म और अधर्म को तथा
 कर्तव्य और अकर्तव्य को यथावत् नहीं जानता है, वह बुद्धि राजसी है।।
+</details>
 </details>
 
 </div>

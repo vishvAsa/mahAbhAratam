@@ -23,8 +23,9 @@ title = "15 न माम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.15॥**मां दुष्कृतिनः** पापकर्माणो दुष्कृततारतम्याच् चतुर्विधा **न प्रपद्यन्ते मूढा नराधमा मायया अपहृतज्ञाना आसुरं भावम् आश्रिताः** इति। मूढा विपरीतज्ञाना पूर्वोक्तप्रकारेण मत्स्वरूपापरिज्ञानात् प्राकृतेष्व् एव विषयेषु सक्ताः पूर्वोक्तप्रकारेण भगवच्छेषतैकरसम् आत्मानं भोग्यजातं च स्वशेषतया मन्यमानाः। नराधमाः सामान्येन ज्ञाते अपि मत्स्वरूपे मदौन्मुख्यानर्हाः। मायया अपहृतज्ञानास् तु मद्विषयं मदैश्वर्यविषयं च ज्ञानं प्रस्तुतं येषां तदसम्भावनापादिनीभिः कूटयुक्तिभिःअपहृतं ते तथोक्ताः। आसुरं भावम् आश्रितास् तु मद्विषयं मदैश्वर्यविषयं च ज्ञानं सुदृढम् उपपन्नं येषां द्वेषाय एव भवति ते आसुरं भावम् आश्रिताः। उत्तरोत्तराः पापिष्ठतमाः।
@@ -40,12 +41,14 @@ title = "15 न माम्"
 7.15 'Evil-doers', those who commit evil deeds, do not resort to Me. They are of four types, according to the degree of their evil deeds: (i) the foolish, (ii) the lowest of men, (iii) those persons deprived of knowledge by Maya, and (iv) those given to demoniac nature. 'The foolish' are those who have misconceived knowledge. True knowledge consists in understanding that the self is dependent on the Lord and exists for Him. But 'the foolish' think they are independent and also that all enjoyable things of the world are their own and for their enjoyment. 'The lowest of men' are those who are incapable of turning towards Me, even though My essential nature is known to them generally.
 'Persons who are deprived of knowledge by Maya' are those who, though possessing knowledge about Me and My manifestations, are moved by deceitful reasonings to contend that such knowledge is inconsistent and impossible. 'Those of demoniac nature' are those who have positive knowledge about Myself and My manifestation but hate Me. The intensity of sinfulness in these types in the order in which they are successively placed.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.15॥ **न मां** परमेश्वरं नारायणं **दुष्कृतिनः** पापकारिणः **मूढाः प्रपद्यन्ते नराधमाः** नराणां मध्ये अधमाः निकृष्टाः। ते च **मायया अपहृतज्ञानाः** संमुषितज्ञानाः **आसुरं भावं** हिंसानृतादिलक्षणम् **आश्रिताः**॥ ये पुनर्नरोत्तमाः पुण्यकर्माणः
 </details>
@@ -115,12 +118,14 @@ the supreme God.
 हिंसानृतादिस्वभावमाश्रिता मत्प्रतिपत्त्ययोग्याः सन्तो न मां सर्वेश्वरं
 प्रपद्यन्ते न भजन्ते। अहो दौर्भाग्यं तेषामित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.15 7.16॥ तर्हि सर्वेऽपि किमिति नात्याययन्नित्यत आह न मामिति।
 दुष्कृतित्वान्मूढाः अत एव नराधमाः। अपहृतज्ञानत्वाच्च मूढाः अत एवासुरं
@@ -155,12 +160,14 @@ the supreme God.
 गौणविग्रहत्वज्ञानस्य कारणमुक्तम्। अत्र तु स्वदोषादेव न मां प्रपद्यन्ते।
 न तु मत्प्रपत्तेर्मायातरणोपायत्वाभावादित्यतो महान्भेदः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.15॥ न मामिति। ये च मां सत्यपि +++(S omits अपि)+++ अधिकारिणि काये नाद्रियन्ते ते दुष्कृतिनः नराधमाः मूढाः आसुराः तामसाः इति मायामहिमैवायम्।
 </details>
@@ -169,12 +176,14 @@ the supreme God.
 
 7.15 Na mam etc. Those who do not take refuge with attention in Me, even while their body remains fit for the purpose, they are evil-doers and the basest of men, deluded, demoniac, i.e. given to darkness (ignorance). Hence, this is only the power of the trick-of-illusion.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.15॥ किमिति तर्हि सर्वे त्वामेव न प्रपद्यन्ते मायातारकत्वादित्याह न
 मां दुष्कृतिन इति। सत्यं तेषां दुष्कृतिरेव प्रतिबन्धिका। आसुरं
@@ -200,10 +209,13 @@ the supreme God.
 दुस्सङ्गनिषधः श्रीभागवतेन तथाऽस्य भवेन्मोहः 3।31।35सङ्गस्तेव्वपि ते
 प्रार्थ्यः 3।25।24 इत्यादिभिरुक्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.15॥ किमिति तर्हि सर्वे त्वामेव न भजन्ति तत्राह **न मामिति।** नरेषु
 येऽधमास्ते मां न प्रपद्यन्ते न भजन्ति। अधमत्वे हेतुः मूढा विवेकशून्याः।
@@ -212,10 +224,13 @@ the supreme God.
 दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च इत्यादिना वक्ष्यमाणमासुरं भावं
 स्वभावं प्राप्ताः सन्तो न मां भजन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.15 The evil-doers, the foolish, the lowest of men, those persons deprived of knowledge by delusion (Maya) and those who are dominated by demoniac nature - they do not seek refuge in Me.
@@ -251,11 +266,13 @@ deprived of knowledge; आसुरम् belonging to demons; भावम् n
 आश्रिताः having taken to.Commentary These three kinds of people have no discrimination between right and wrong; the Real and the unreal. They commit murder; robbery; theft and other kinds of atrocious actions. They speak untruth and injure others in a variety of ways. Those who follow the ways of the demons take the body as the Self like Vivochana and worship it with flowers; scents; unguents; nice clothes and palatable foods of various sorts. They are deluded souls. They try to nourish their body and do various sorts of evil actions to attain this end.
 Therefore they do not worship Me. Ignorance is the root cause of all these evils. (Cf.XVI.16and20)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.15।। मायाके द्वारा अपहृत ज्ञानवाले, आसुर भावका आश्रय लेनेवाले और
@@ -323,6 +340,7 @@ Therefore they do not worship Me. Ignorance is the root cause of all these evils
 ।।7.15।। दुष्कृत्य करने वाले, मूढ, नराधम पुरुष मुझे नहीं भजते हैं; माया
 के द्वारा जिनका ज्ञान हर लिया गया है, वे आसुरी भाव को धारण किये रहते
 हैं।।
+</details>
 </details>
 
 </div>

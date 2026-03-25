@@ -23,8 +23,9 @@ title = "65 मन्मना भव"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.65॥ वेदान्तेषु -- 
@@ -221,12 +222,14 @@ title = "65 मन्मना भव"
 'For I am inexpressibly dear to the man of knowledge and dear is he to
 Me' (7.17). He in whom there is surpassing love for Me, I hold him also as surpassingly dear to Me. Conseently, not being able to bear separation from him, I myself will enable him to attain Me. It is this truth alone that has been solemnly declared to you in the expression that 'you shall come to Me alone.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.65॥ --,**मन्मनाः भव** मच्चित्तः **भव। मद्भक्तः** भव मद्भजनो भव। **मद्याजी** मद्यजनशीलो भव। **मां नमस्कुरु** नमस्कारम् अपि ममैव कुरु। तत्र एवं वर्तमानः वासुदेवे एव समर्पितसाध्यसाधनप्रयोजनः **मामेव एष्यसि** आगमिष्यसि। **सत्यं ते** तव **प्रतिजाने;** सत्यां प्रतिज्ञां करोमि एतस्मिन् वस्तुनि इत्यर्थः यतः **प्रियः असि मे।** एवं भगवतः सत्यप्रतिज्ञत्वं बुद्ध्वा भगवद्भक्तेः अवश्यंभावि मोक्षफलम् अवधार्य भगवच्छरणैकपरायणः भवेत् इति वाक्यार्थः॥
 </details>
@@ -327,12 +330,14 @@ spoken about, the Lord says:
 तमभ्यर्च्य सिद्धिं विन्दति मानवः। इति तद्व्याख्यातं
 मच्छब्देनेश्वरत्वप्रकटनात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.65॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -341,12 +346,14 @@ spoken about, the Lord says:
 
 ॥18.65॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.64 -- 65॥ तच्च तात्पर्यं यथावसरम् अस्माभिः श्रृङ्गग्राहिकयैव प्रकाशितं यद्यपि तथापि स्फुटम् अशेषविमर्शनं प्रदर्श्यते। उपादेयतमं ह्यदः। नास्मिन् निरूप्यमाणे श्रूयमाणे वा मतिस्तृप्यति। गुह्यतमं यदत्र निश्चितं तज्ज्ञानमिदानीं श्रृणु इत्याहि -- सर्वेति। मन्मना इति। मन्मना भव इत्यादिना शास्त्रे ब्रह्मापर्णे एव सर्वथा प्राधान्यम् इति निश्चितम् ब्रह्मार्पणकारिणः शास्त्रमिदमर्थवत् इत्युक्तम्।
 </details>
@@ -355,12 +362,14 @@ spoken about, the Lord says:
 
 18.64-65 Sarva - etc. Manmanah etc, By the portion 'Be with your mind fixed in Me' etc., it is determined that in the scriptures the importance completely lies only in dedicating \[everything\] to the Brahman; and it is declared that this present scripture (the Holy Bhagavatgita) is of use \[only\] in the case of one who cultivates \[the attitude of\] dedication to the Brahman. Also He says -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.65॥ तथाहि -- मन्मना इति। हे पार्थ निस्सन्दिग्धतया सर्ववेदान्तवेद्ये
 स्वाश्रितवात्सल्यजलधौ त्वत्सारथ्यकर्मणि स्थितेमय्येव मन आधत्स्व \[12।8\]
@@ -379,10 +388,13 @@ spoken about, the Lord says:
 मामेव एष्यसि प्राप्स्यसि; नात्र सन्देहः कर्त्तव्यः यतो मे मम प्रियोऽसि
 अतस्ते तुभ्यं प्रतिजाने प्रतिज्ञां करोमि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.65॥ तदेवाह **-- मन्मना इति।** मन्मना भव; मच्चित्तो भव; ममैव भक्तो
 भव; मद्याजी मद्यजनशीलो भव; मामेव नमस्कुरु एवं वर्तमानस्त्वं
@@ -390,10 +402,13 @@ spoken about, the Lord says:
 त्वं हि मे प्रियोऽसि अतः सत्यं यथाभवत्येवं तुभ्यमहं प्रतिजाने प्रतिज्ञां
 करोमि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.65 Focus your mind on Me. Be My devotee. Be My worshipper. Prostrate before Me. You shall come to Me alone. I promise you, trully; for you are dear to Me.
@@ -429,11 +444,13 @@ promise; प्रियः dear; असि (thou) art; मे of Me.Commentary 
 through constant practice. Offer all thy actions to Me. Let thy tongue utter My name. Let thy hands work for Me. Let thy feet move for Me. Let all thy actions be for Me. Give up hatred towards any living creature.
 Bow down to Me. Then thou wilt attain Me.The Lord gives Arjuna His definite word of promise or solemn declaration. Having received My grace thou wilt gain complete knowledge of Me and that in itself will indeed lead to thy absorption into My Being.O Arjuna; looking up to Me alone as thy aim and the sole refuge; thou shalt assuredly come to,Me.Have faith in the words of the Lord and make a solemn promise. Take the Lord as your sole refuge. You will attain final emancipation.The secret of devotion is to take the Lord as your sole refuge. In the next verse the Lord proceeds to speak of the gist of selfsurrender. (Cf.IX.34XII.8)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/65_manmanA_bhava.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.65।। तू मेरा भक्त हो जा, मेरेमें मनवाला हो जा, मेरा पूजन करनेवाला हो
@@ -549,6 +566,7 @@ Bow down to Me. Then thou wilt attain Me.The Lord gives Arjuna His definite word
 ।।18.65।। तुम मच्चित, मद्भक्त और मेरे पूजक (मद्याजी) बनो और मुझे नमस्कार
 करो; (इस प्रकार) तुम मुझे ही प्राप्त होगे; यह मैं तुम्हे सत्य वचन देता
 हूँ,(क्योंकि) तुम मेरे प्रिय हो।।
+</details>
 </details>
 
 </div>

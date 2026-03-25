@@ -23,8 +23,9 @@ title = "05 अन्तकाले च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 इदमपि त्रयाणां साधारणम् --
@@ -41,12 +42,14 @@ title = "05 अन्तकाले च"
 
 8.5 He who, at the last moment, while leaving the body, departs remembering Me alone, attains My being; he attains My condition. In whatever way he meditates on Me, he attains that very form, in the same manner as the royal sage Bharata attained the form of the deer remembered by him at death. Such is the meaning. Sri Krsna further elucidates that it is the nature of one's last thought that leads to the attainment of a similar form by the meditator:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.5॥ --,**अन्तकाले च** मरणकाले च **मामेव** परमेश्वरं विष्णुं **स्मरन् मुक्त्त्वा** परित्यज्य **कलेवरं** शरीरं **यः प्रयाति** गच्छति **सः मद्भावं** वैष्णवं तत्त्वं **याति। नास्ति** न विद्यते **अत्र** अस्मिन् अर्थे **संशयः** -- याति वा न वा इति॥ न मद्विषय एव अयं नियमः। किं तर्हि
 --,
@@ -162,12 +165,14 @@ to me alone.' 'What then;'
 सर्वसंशयाः इति श्रुतेः। अत्र च कलेवरं मुक्त्वा प्रयातीति देहाद्भिन्नत्वं
 मद्भावं यातीति चेश्वरादभिन्नत्वं जीवस्योक्तमिति द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.5॥ मद्भावं मयि सत्तां निर्दुःखनिरतिशयानन्दात्मिकाम्। तच्चोक्तम् --
 मुक्तानां च (तु) गतिर्ब्रह्म क्षेत्रज्ञ इति कल्पितः \[म.भा.5।334।41\]
@@ -185,12 +190,14 @@ to me alone.' 'What then;'
 तद्भावायोगात्। तदपि कुतः इत्यत आह -- **तच्चे**ति। क्षेत्रज्ञः परमात्मा
 गतिरिति समर्थितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.5 -- 8.7॥ अथ योऽवशिष्टः प्रश्नः कथं प्रयाणकाले ज्ञेयोऽसि इति तं निर्णयति -- अन्तकालेऽपि इत्यादि असंशयम् इत्यन्तम्। न केवलं स्वस्थावस्थायां यावत् अन्तकालेऽपि +++(N कालेऽपीति)+++ । मामेति -- व्यवच्छिन्नसकलोपाधिकम्। कथं च अस्वस्थावस्थायां +++(K [n] अन्तावस्थायाम्)+++ विनिवत्तसकलेन्द्रियचेष्टस्य भगवान् स्मृतिपथमुपेयात् इत्युपायमपि उपदिशति तस्मादिति। सर्वावस्थासु व्यावहारिकीष्वपि यस्य भगवत्तत्त्वं न हृदयादपयाति तस्य भगवत्येव सकलकर्मसंन्यासिनः सततं भगवन्मयस्य अवश्यं स्वयमेव भगवत्तत्त्वं स्मृतिविषयतां यातीति। सदातद्भावभावितत्त्वं च अत्र हेतुः। अतः एवाह -- येनैव वस्तुना सदा भावितान्तःकरणः +++(NK [n] अन्तःकरणभावः)+++ तदेव मरणसमये स्मर्यते तद्भाव एव च प्राप्यते इति। सर्वथा मत्परम एव मत्प्रेप्सः स्यादित्यत्र तात्पर्यम्। न तु यदेवान्ते स्मर्यते तत्तत्त्वमेवावाप्यते +++(N तत्तदेवावाप्यते)+++ इति। एवं हि सति ज्ञानिनोऽपि यावच्छरीरभाविधातुदोषविकलितचिवृत्तेर्जडतां प्राप्तस्य तामसस्येव गतिः स्यात्। न च अम्युपगमोऽत्र युक्तः प्रमाणभूतश्रुतिविरोधात्। अस्ति हि -- तीर्थे श्वपचगृहे वा नष्टस्मृतिरपि परित्यजन् देहम्।  
   
@@ -201,12 +208,14 @@ to me alone.' 'What then;'
 
 8.5 See Comment under 8.7
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.5॥ प्रयाणकाले च कथं ज्ञेयोऽसि इत्यस्योत्तरमाह -- अन्तकाल इति।
 एवकारोऽन्यव्यवच्छेदार्थकः। मन्त्रोपासनाद्यस्पृष्टं पूर्णानन्दं मां
@@ -224,10 +233,13 @@ to me alone.' 'What then;'
 शुद्धावस्थादिकं न विचारणीयमिति ज्ञापितम्। एवकारेण कामनयाऽन्यत् किञ्चिदपि
 फलत्वेन न स्मरणीयमिति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/05_antakAle_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/05_antakAle_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.5॥ प्रयाणकाले च कथं ज्ञेयोऽसीत्यनेन पृष्टमन्तकालज्ञानोपायं तत्फलं च
 दर्शयति **-- अन्तकाल इति।** मामेवोक्तलक्षणमन्तर्यामिरूपं परमेश्वरं
@@ -235,10 +247,13 @@ to me alone.' 'What then;'
 मद्रूपतां याति। अत्र च संशयो नास्ति। स्मरणं ज्ञानोपायो मद्भावापत्तिश्च
 फलमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.5 And at the time of death, anyone who departs by giving up the body while thinking of Me alone, he attains My state. There is no doubt about this.
@@ -263,11 +278,13 @@ to me alone.' 'What then;'
 
 8.5 No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.5।। जो मनुष्य अन्तकालमें भी मेरा स्मरण करते हुए शरीर छोड़कर जाता है,
@@ -412,6 +429,7 @@ to me alone.' 'What then;'
 
 ।।8.5।। और जो कोई पुरुष अन्तकाल में मुझे ही स्मरण करता हुआ शरीर को त्याग
 कर जाता है, वह मेरे स्वरूप को प्राप्त होता है, इसमें कुछ भी संशय नहीं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "20 ये तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥12.20॥ धर्म्यं च अमृतं चइति **धर्म्यामृतं ये तु** प्राप्यसमं प्रापकं भक्तियोगं **यथोक्तम्मय्यावेश्य मनो ये माम्** (गीता 12।2) इत्यादिना उक्तेन प्रकारेण **उपासते ते भक्ता** अतितरां **मे प्रियाः। ,**
@@ -40,12 +41,14 @@ title = "20 ये तु"
 12.20 But those who follow Bhakti Yoga - 'which is a nectar of virtuous duty,' i.e., which is at once virtuous duty and nectar, and which even as a menas, is eal to its end in conferring bliss on those who follow is as stated above, i.e., in the manner taught in the stanza beginning with
 'Those who, focusing their minds on Me' (12.2) - such devotees are exceedingly dear to Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥12.20॥ --,**ये तु** संन्यासिनः **धर्म्यामृतं** धर्मादनपेतं धर्म्यं च तत् अमृतं च तत्; अमृतत्वहेतुत्वात्; **इदं यथोक्तम्;** अद्वेष्टा सर्वभूतानाम् इत्यादिना **पर्युपासते** अनुतिष्ठन्ति **श्रद्दधानाः** सन्तः **मत्परमाः** यथोक्तः अहं अक्षरात्मा परमः निरतिशया गतिः येषां ते मत्परमाः; मद्भक्ताः च उत्तमां परमार्थज्ञानलक्षणां भक्तिमाश्रिताः; **ते अतीव मे प्रियाः।** प्रियो हि ज्ञानिनोऽत्यर्थम् इति यत् सूचितं तत् व्याख्याय इह उपसंहृतम् भक्तास्तेऽतीव मे प्रियाः इति। यस्मात् धर्म्यामृतमिदं यथोक्तमनुतिष्ठन् भगवतः विष्णोः परमेश्वरस्य अतीव प्रियः भवति; तस्मात् इदं धर्म्यामृतं मुमुक्षुणा यत्नतः अनुष्ठेयं विष्णोः प्रियं परं धाम जिगमिषुणा इति वाक्यार्थः॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -190,12 +193,14 @@ meaning of that sentence, which is the means to Liberation.\]
 निष्ठोक्तातोऽजेन भक्तेर्वरिष्ठा। तत्रानन्दाब्धौ कृता मे प्रतिष्ठा
 येनातस्तं काशिराजं भजेऽहम्। ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.20॥ पिण्डीकृत्योपसंहरति -- ये तु धर्म्यामृतमिति। धर्मो
 विष्णुस्तद्विषयं धर्म्यम्। धर्म्यम्; अमृतं,मृत्यादिसंसारनाशकं चेति
@@ -215,12 +220,14 @@ meaning of that sentence, which is the means to Liberation.\]
 श्रच्छब्दस्योपसङ्ख्यानमित्युपसर्गत्वेनोपसङ्ख्यायमानस्याप्यस्य
 सत्त्ववाचित्वमविरुद्धम्; उपसर्गत्वस्य कार्यविशेषार्थत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.15 -- 12.20॥ यस्मादित्यादि मे प्रिया इत्यन्तम्। अनिकेतः -- इदमेव मया कर्तव्यम् इति यस्य नास्ति प्रतिज्ञा। यथाप्राप्तहेवाकितया सुखदुःखादिकमुपभुञ्ज्ञानः परमेश्वरविषयसमावेशितहृदयः सुखेनैव प्राप्नोति परमकैवल्यम् इति।  
   
@@ -231,12 +238,14 @@ meaning of that sentence, which is the means to Liberation.\]
 
 12.15-20 Yasmat etc. upto Me priyah. One who has no fixed thought : One who has no resolution, \[in his mundane life\] like 'This alone must be done by me'. He, who enjoys, with contentment, both pleasure and pain as they come, and has his mind completely absorbed in Supreme Lord - that person happily (or easily) attains the Supreme Isolation (Emancipation)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥12.20॥ एवं मर्यादायामक्षरात्मनिष्ठात्स्वपुष्टिभक्तियोगनिष्ठस्यातीव
 प्रियत्वं प्रतिपादयन्नुक्तमुपसंहरति -- ये त्विति। ये दैवजीवा इदमेव
@@ -258,20 +267,26 @@ meaning of that sentence, which is the means to Liberation.\]
 एवमर्जुनमासिञ्चद्भक्तियोगामृतोक्तिभिः। सर्वसंशयमाच्छिद्य लोकोद्धारपरो
 हरिः**॥1॥**
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/20_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/12_bhakti-yogaH/20_ye_tu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥12.20॥ उक्तं धर्मजातं सफलमुपसंहरति -- **ये त्विति।**
 यथोक्तमुक्तप्रकारं धर्म एवामृतममृतत्वसाधनत्वात्। धर्म्यामृतमिदमिति
 केचित्पठन्ति। तद्य उपासतेऽनुतिष्ठन्ति श्रद्धां कुर्वन्तो मत्परमाश्च
 सन्तो मद्भक्ता अतीव मे प्रिया इति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 12.20 But those devotees who follow this nectar of virtuous-duty as taught above, who are full of faith and who regard Me as the Supreme -
@@ -307,11 +322,13 @@ they, the devotees, are exceedingly dear to Me.
 यथोक्तम् as declared (above); पर्युपासते follow; श्रद्दधानाः endowed with faith; मत्परमाः regarding Me as their Supreme; भक्ताः devotees; ते
 they; अतीव exceedingly; मे to Me; प्रियाः dear.Commentary The Blessed Lord has in this verse given a description of His excellent devotee.Amrita Dharma Amrita is the lifegiving nectar. Dharma is righteousness or wisdom. Dharma is that which leads to immortality when practised. The real devotees regard Me as their final or supreme refuge.Above Beginning with verse 13.A great truth that should not go unnoticed is that the devotee; the man of wisdom and the Yogi have all the same fundamental characteristics.Priyo hi Jnaninotyartham (I am exceedingly dear to the wise man) (VII.12) has thus been explained at length and concluded here thus; Te ativa me priyah (they are exceedinlgy dear to Me).He who follows this immortal Dharma as described above becomes exceedingly dear to the Lord. Therefore; every aspirant who thirsts for salvation; and who longs to attain the Supreme Abode of the Lord should follow this immortal Dharma with zeal and intense faith.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the twelfth discourse entitledThe Yoga of Devotion.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/12_bhakti-yogaH/20_ye_tu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।12.20।। जो मेरेमें श्रद्धा रखनेवाले और मेरे परायण हुए भक्त पहले कहे हुए
@@ -497,6 +514,7 @@ they; अतीव exceedingly; मे to Me; प्रियाः dear.Comment
 ।।12.20।। जो भक्त श्रद्धावान् तथा मुझे ही परम लक्ष्य समझने वाले हैं और
 इस यथोक्त धर्ममय अमृत का अर्थात् धर्ममय जीवन का पालन करते हैं, वे मुझे
 अतिशय प्रिय हैं।।
+</details>
 </details>
 
 </div>

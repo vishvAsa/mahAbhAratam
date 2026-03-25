@@ -26,8 +26,9 @@ title = "11 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.11॥ श्रीभगवानुवाच **अशोच्यान्** प्रत्य् अनुशोचसिपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः। (गीता 1।41) इत्यादिकान् देहात्मस्वभावप्रज्ञानिमित्तवादान् **च भाषसे।** देहात्मस्वभावज्ञानवतां न अत्र किञ्चित् शोकनिमित्तम् अस्ति। **गतासून्** देहान् **अगतासून्** आत्मनश्च प्रति तयोः स्वभावयाथात्म्यविदो **न शोचन्ति।** अतस् त्वयि विप्रतिषिद्वम् इदम् उपलभ्यते यद्एतान् हनिष्यामि इत्य् अनुशोचनं यच्च देहातिरिक्तात्मज्ञानकृतं धर्माधर्मभाषणम्। अतो देहस्वभावं च न जानासि तदतिरिक्तम् आत्मानं च नित्यं तत्प्राप्त्युपायभूतं युद्धादिकं धर्मं च। इदं च युद्धं फलाभिसन्धिरहितम्। आत्मयाथात्म्यावाप्त्युपायभूतम्। आत्मा हि न जन्माधीनसद्भावो न मरणाधीनविनाशश्च तस्य जन्ममरणयोर् अभावाद् अतः स न शोकस्थानम्। देहस् त्व् अचेतनः परिणामस्वभावस् तस्य उत्पत्तिविनाशयोगः स्वाभाविक इति सोऽपि न शोकस्थानम् इत्य् अभिप्रायः।  
@@ -48,12 +49,14 @@ title = "11 श्री भगवानुवाच"
 
 2.11 The Lord said You are grieving for those who do not deserve to be grieved for. You also speak words of wisdom about the nature of the body and the self as follows: 'The ancestors fall degraded, deprived of the ritual oblations of food and water' (I. 42). There is no reason for such grief for those who possess the knowledge of the nature of the body and the self. Those who know the exact truth will not grieve for those bodies from which life has departed and for those from whome the principle of life has not departed. They do not grieve for bodies or souls. Hence, in you this contradiction is visible - your grief at the thought 'I shall slay them;' and at the same time your talk about righteousness and unrighteousness, as if it were the result of knowledge of the self as distinct from the body. Therefore you do not know the nature of the body nor of the self which is distinct from the body and is eternal. Nor do you know of duties like war etc., which (as duty) constitute the means for the attainment of the self, nor of the fact that this war (which forms a duty in the present context), if fought without any selfish desire for results, is a means for the attainment of the knowledge of the true nature of the self. The implied meaning is this: This self, verily, is not dependent on the body for Its existence, nor is It subjected to destruction on the death of the body, as there is no birth or death for It. Therefore there is no cause for grief. But the body is insentient by nature, is subject to change, and its birth and death are natural; thus it (body) too is not to be grieved for. First listen about the nature of the self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.11॥  
   
@@ -498,12 +501,14 @@ sense, and who are not to be grieved for. Hence your are a fool!.'
 निष्ठीवनादेरप्यनुष्ठानप्रसङ्गादिति दृष्टव्यम्। यस्मादेवं तस्मात्त्वमपि
 पण्डितो भूत्वा शोकं माकार्षीरित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.11॥ तत्र सेनयोर्मध्ये बान्धवादिमोहजालसंवृतं विषीदन्तमर्जुनं
 भगवानुवाच। प्रज्ञावादान् स्वमनीषोत्थवचनानि। कथमशोच्याः गतासून्।
@@ -546,12 +551,14 @@ sense, and who are not to be grieved for. Hence your are a fool!.'
 ते प्रज्ञावादाः अतो न भाषणीया इति। तथा चाशोच्याः कुतोऽवगन्तव्याः इति
 प्रश्नो वा आक्षेपो वा युज्यत एव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.12॥ अशोच्यानिति। शोचितुम् अशक्यं कलेबरं सदा नश्वरत्वात्। अशोचनार्हं च आत्मानं शोचसि। न कश्चित् गतासुः मृतः अगतासुः जीवन् वा शोच्योऽस्ति। तथाहि +++(S omits हि)+++ आत्मा तावद् अविनाशी। नानाशरीरेषु संचरतः का अस्य शोच्यता न च देहान्तरसंचारे एव शोच्यता। एवं हि +++(S omits हि)+++ यौवनादावपि शोच्यता भवेत्।
 </details>
@@ -560,12 +567,14 @@ sense, and who are not to be grieved for. Hence your are a fool!.'
 
 2.11 Asocyan etc. You lament for the body that cannot be lamented over, because it is of incessantly perishing nature; and also for the Soul that does not reire to be lamented. No one, either of departed life, i.e., the dead, or of non-departed life, i.e., the living, is to be mourned for. As for instance, the Soul is ever non-perishing. What sort of lamentability can be for It, as It is plessantly travelling in different bodies ; Nor is it right to say that Its lamentability is due only to Its travel in another body. For, in that case, It should be lamented for, even when the stage of youth etc., is attained. In this manner, the two ideas \[the Lord\] relates :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.11॥ अथ नरस्य मोहशोकनिवृत्त्यर्थं साङ्ख्यबुद्धिमाह  
 तत्र साङ्ख्यं बहुविधमत्रैकं सत्प्रमाणकम्। अष्टाविंशतितत्त्वानां स्वरूपं
@@ -622,10 +631,13 @@ sense, and who are not to be grieved for. Hence your are a fool!.'
 यमन्वानुनेषति৷৷.तं यमेभ्यो लोकेभ्यो नुनुत्सत) कौ.उ.3।9 इति। अतो
 मत्कृतेऽर्थे कथं शोकः कर्त्तव्य इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.11॥ देहात्मनोरविवेकादस्यैवं शोको भवतीति तद्विवेकप्रदर्शनार्थं
 श्रीभगवानुवाच **अशोच्यानिति।** शोकस्याविषयभूतानेव बन्धूंस्त्वमन्वशोचः
@@ -635,10 +647,13 @@ sense, and who are not to be grieved for. Hence your are a fool!.'
 भाषसे नतु पण्डितोऽसि। यतो गतासून्गतप्राणान्बन्धूनगतासूंश्च जीवतोऽपि
 बन्धुहीना एते कथं जीविष्यन्तीति नानुशोचन्ति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.11 The Lord said You grieve for those who should not be grieved for;
@@ -673,11 +688,13 @@ grieve not; पण्डिताः the wise.Commentary -- The philosophy of th
 They will not grieve for the living or for the dead because they know well that the Self is immortal and that It is unborn. They also know that there is no such a thing as death; that it is a separation of the astral body from the physical; that death is nothing more than a disintegration of matter and that the five elements of which the body is composed return to their source. Arjuna had forgotten the eternal nature of the Soul and the changing nature of the body. Because of his ignorance; he began to act as if the temporary relations with kinsmen;
 teachers; etc.; were permanent. He forgot that his relations with this world in his present life were the results of past actions. These; when exhausted; end all relationship and new ones ones crop up when one takes on another body.The result of past actions is known as karm and that portion of the karma which gave rise to the present incarnation is known as prarabdha karma.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.11।। श्रीभगवान् बोले - तुमने शोक न करनेयोग्यका शोक किया है और
@@ -868,6 +885,7 @@ teachers; etc.; were permanent. He forgot that his relations with this world in 
 है, उनके लिये तुम शोक करते हो और ज्ञानियों के से वचनों को कहते हो,
 परन्तु ज्ञानी पुरुष मृत (गतासून्) और जीवित (अगतासून्) दोनों के लिये शोक
 नहीं करते हैं।।
+</details>
 </details>
 
 </div>

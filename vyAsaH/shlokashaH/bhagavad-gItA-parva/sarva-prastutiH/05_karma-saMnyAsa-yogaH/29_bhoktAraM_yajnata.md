@@ -23,8 +23,9 @@ title = "29 भोक्तारं यज्ञतपसाम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.29॥**यज्ञतपसां भोक्तारं सर्वलोकमहेश्वरं सर्वभूतानां सुहृदं मां ज्ञात्वा शान्तिम् ऋच्छति** कर्मयोगकरण एव सुखम् ऋच्छति।  
@@ -42,12 +43,14 @@ title = "29 भोक्तारं यज्ञतपसाम्"
 5.29 Knowing Me as the enjoyer of all sacrifices and austerities, as the Supreme Lord of all the worlds, and as the Friend of every being, he attains peace, i.e., wins happiness even while performing Karma Yoga.
 'Him who is the Supreme Lord of all worlds' means 'Him who is the Lord of all the lords of the worlds.' For the Sruti says: 'Him who is the supreme mighty Lord of lords' (Sve. U., 6.7). The meaning is that knowing Me as the Supreme Lord of all the worlds and the 'friend' of all and considering Karma Yoga to be My worship, he becomes gladly engaged in it. All beings endeavour to please a 'friend'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.29॥ एवं समाहितचित्तेन किं विज्ञेयम् इति उच्यते **भोक्तारं** यज्ञतपसां यज्ञानां तपसां च कर्तृरूपेण देवतारूपेण च **सर्वलोकमहेश्वरं** सर्वेषां लोकानां महान्तम् ईश्वरं **सुहृदं** **सर्वभूतानां** सर्वप्राणिनां प्रत्युपकारनिरपेक्षतया उपकारिणं सर्वभूतानां हृदयेशयं सर्वकर्मफलाध्यक्षं सर्वप्रत्ययसाक्षिणं मां नारायणं **ज्ञात्वा शान्तिं** सर्वसंसारोपरतिम् **ऋच्छति** प्राप्नोति॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्यश्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -154,12 +157,14 @@ results of all works, who am the Witness of all perceptions.
 प्राप्नोतीत्यर्थः। त्वां पश्यन्नपि कथं नाहं मुक्त इत्याशङ्कानिराकरणाय
 विशेषणानि। उक्तरूपेणैव मम ज्ञानं मुक्तिकारणमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.29॥ ध्येयमाह भोक्तारमिति।
 </details>
@@ -170,12 +175,14 @@ results of all works, who am the Witness of all perceptions.
 **ध्येयमि**ति। ततश्च ज्ञात्वेत्यस्य ध्यात्वेत्यर्थः।
 शान्तिसाधनज्ञानत्वमपि भोक्तृत्वादिवत् ध्येयविशेषणमेवेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.29॥ भोक्तारमिति। यज्ञफलेषु भोक्ता त्यक्तफलत्वात् +++(NK ( n)+++ भोक्तात्यन्तफलत्वात्)। एवं तपस्सु। ईदृशं भगवत्तत्त्वं विदन् यथातथावस्थितोऽपि मुच्यते +++(S यथा तथा विमुच्यते)+++ इति।
 </details>
@@ -184,12 +191,14 @@ results of all works, who am the Witness of all perceptions.
 
 5.29 Bhokatram etc. \[The Lord is deemed to be\] the enjoyer in the caste of their fruit of the sacrifices. For, it is in favour of Him that the fruit is renounced. the same is with regard to the austerities. By knowing the nautre of the Lord as such, a man of Yoga is released, whatever way he may remain in.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.29॥ ननु एवमिन्द्रियादिसंयममात्रेण कथं मुक्तः त्यात् इत्याशङ्क्य न
 तावन्मात्रेण किन्तु भगवन्माहात्म्यज्ञानद्वारेणेत्याह भोक्तारमिति।
@@ -211,10 +220,13 @@ results of all works, who am the Witness of all perceptions.
 सन्न्यासरूपकथनान्मनोवैकल्पिकं भ्रमम्। नाशयामास
 कौन्तेयप्रश्नव्याजान्नतोऽस्मि तम्॥5॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.29॥ नन्वेवमिन्द्रियादिसंयममात्रेण कथं मुक्तिः स्यान्न तावन्मात्रेण
 किंतु ज्ञानद्वारेणेत्याह **भोक्तारमिति।** यज्ञानां तपसां च मद्भक्तैः
@@ -222,10 +234,13 @@ results of all works, who am the Witness of all perceptions.
 सर्वेषां भूतानां सुहृदं निरपेक्षोपकारिणमन्तर्यामिणं मां ज्ञात्वा
 मत्प्रसादेन शान्तिं मोक्षमृच्छति प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.29 Knowing Me as the enjoyer of all sacrifices and austerities, as the Supreme Lord of all the worlds, as the Friend of every being, he attains peace.
@@ -260,11 +275,13 @@ peace; ऋच्छति attains.Commentary I am the Lord of all sacrifices and
 On knowing Me; they attain peace and liberation or Moksha (deliverance from the round of birth and death and all worldly miseries and sorrows).
 (Cf.V.15IX.24)Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the fifth discourse entitledThe Yoga of Renunciation of Action.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.29।। भक्त मुझे सब यज्ञों और तपोंका भोक्ता, सम्पूर्ण लोकोंका महान्
@@ -328,6 +345,7 @@ On knowing Me; they attain peace and liberation or Moksha (deliverance from the 
 ।।5.29।। (साधक भक्त) मुझे यज्ञ और तपों का भोक्ता और सम्पूर्ण लोकों का
 महान् ईश्वर तथा भूतमात्र का सुहृद् (मित्र) जानकर शान्ति को प्राप्त होता
 है।।
+</details>
 </details>
 
 </div>

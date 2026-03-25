@@ -23,8 +23,9 @@ title = "10 असक्ितरनभिष्वङ्गः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.9॥**असक्तिः** आत्मव्यतिरिक्तविषयेषु सङ्गरहितत्वम्; **अनभिष्वङ्गःपुत्रदारगृहादिषु** तेषु शास्त्रीयकर्मोपकरणत्वातिरेकेण आश्लेषरहितत्वम् **नित्यं च समचित्तत्वम् इष्टानिष्टोपपत्तिषु** -- सङ्कल्पप्रभवेष्व् इष्टानिष्टोपनिपातेषु हर्षोद्वेगरहितत्वम्।
@@ -41,12 +42,14 @@ title = "10 असक्ितरनभिष्वङ्गः"
 
 13.10 'Non-attachment' means freedom from attachment to things other than the self. 'Absecne of clinging' to son, wife, home and the like means absence of excessive affection for these beyond the limits allowed by the Sastras. 'Constant even-mindedness' to all desirable and undesriable events means the state of freedom from joy and grief with regard to occurrences springing from desire.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.10॥ --,**असक्तिः** सक्तिः सङ्गनिमित्तेषु विषयेषु प्रीतिमात्रम्; तदभावः असक्तिः। **अनभिष्वङ्गः** अभिष्वङ्गाभावः। अभिष्वङ्गो नाम आसक्तिविशेष एव अनन्यात्मभावनालक्षणः यथा अन्यस्मिन् सुखिनि दुःखिनि वा अहमेव सुखी; दुःखी च; जीवति मृते वा अहमेव जीवामि मरिष्यामि च इति। क्व इति आह -- **पुत्रदारगृहादिषु;** पुत्रेषु दारेषु गृहेषु आदिग्रहणात् अन्येष्वपि अत्यन्तेष्टेषु दासवर्गादिषु। तच्च उभयं ज्ञानार्थत्वात् ज्ञानमुच्यते। **नित्यं च समचित्तत्वं** तुल्यचित्तता। क्व **इष्टानिष्टोपपत्तिषु** इष्टानामनिष्टानां च उपपत्तयः संप्राप्तयः तासु इष्टानिष्टोपपत्तिषु नित्यमेव तुल्यचित्तता। इष्टोपपत्तिषु न हृष्यति; न कुप्यति च अनिष्टोपपत्तिषु। तच्च एतत् नित्यं समचित्तत्वं ज्ञानम्॥ किञ्च
 --,
@@ -136,12 +139,14 @@ constant eanimity of mind which is of this kind is Knowledge Further,
 हर्षविषादशून्यमनस्त्वम्। इष्टानिष्टोपपत्तिषु उपपत्तिः प्राप्तिः।
 इष्टोपपत्तिषु हर्षाभावोऽनिष्टोपपत्तिषु विषादाभाव इत्यर्थः। चः समुच्चये।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.10॥ सक्तिः स्नेहः। स एवातिपक्वोऽभिष्वङ्गः। स्नेहः सक्तिः स
 एवातिपक्वोऽभिष्वङ्ग उच्यते इत्यभिधानम्।
@@ -151,24 +156,28 @@ constant eanimity of mind which is of this kind is Knowledge Further,
 
 ॥13.10॥ सक्त्यभिष्वङ्गशब्दयोरर्थभेदमाह -- **सक्तिरि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md"></div>
 </details>
 
 <details><summary>शङ्करनारायणः</summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/12_adhyAtmajnAnanity.md"></div>
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.10॥ असक्तिरिति अमुत्र भोगविरागः।
 </details>
@@ -180,20 +189,26 @@ constant eanimity of mind which is of this kind is Knowledge Further,
 इष्टानिष्टोपपत्तिषु इष्टानिष्टप्राप्तिषु नित्यं भगवदिच्छाविचारेण
 समचित्तत्वम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.10॥ किंच **-- असक्तिरिति।** असक्तिः पुत्रादिपदार्थेषु प्रीतित्यागः;
 अनभिष्वङ्गः पुत्रादीनां सुखे दुःखे वाऽहमेव सुखी दुःखी
 चेत्यध्यासातिरेकाभावः; इष्टानिष्टयोरुपपत्तिषु प्राप्तिषु नित्यं सर्वदा
 समचित्तत्वम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.10 Non-attachment, absence of clinging to son, wife, home and the like, and constant even-mindedness to all desirable and undesirable events;
@@ -229,11 +244,13 @@ home and the rest, and constant even-mindedness on the attainment of the desirab
 and;समचित्तत्वम् evenmindedness; इष्टानिष्टोपपत्तिषु on the attainment of the desirable and the undesirable.Commentary When a man thinks; This object is mine; the idea of mineness enters his mind. He develops Abhimana (false identification). Then he begins to love the objects. He clings to them and gets attached to them. Asakti is nonattachment to objects. There is absence of liking for the objects.Anabhishvangah There is intense attachment to wife; son or mother; etc. There is complete identification of the Self with another. He feels happy or miserable when that person is happy or miserable. Govindan feels miserable when his wife is dead because he was very much attached to her but he does not feel anything when his neighbours wife is dead. A man of wisdom has no attachment to his home. He considers his home as a public inn on the side of a public road.And the rest Others who are very dear relatives or other dependants.Constant evenmindedness or eanimity is an index of knowledge. The man of wisdom is neither elated when he gets the desirable or pleasant objects; nor grieves when he attains the undesriable or painful objects.Nonattachment; absence of affection and eanimity are all conducive to the attainment of knowledge of the Self.
 They are designated as knowledge because they are the means of attaining knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/10_asakitaranabhiShv.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.10।। आसक्तिरहित होना; पुत्र, स्त्री, घर आदिमें एकात्मता (घनिष्ठ
@@ -316,6 +333,7 @@ They are designated as knowledge because they are the means of attaining knowled
 
 ।।13.10।। आसक्ति तथा पुत्र, पत्नी, गृह आदि में अनभिष्वङ्ग (तादात्म्य का
 अभाव); और इष्ट और अनिष्ट की प्राप्ति में समचित्तता।।
+</details>
 </details>
 
 </div>

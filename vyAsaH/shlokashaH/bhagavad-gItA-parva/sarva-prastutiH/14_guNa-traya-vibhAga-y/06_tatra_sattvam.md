@@ -26,8 +26,9 @@ title = "06 तत्र सत्त्वम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.6॥**तत्र** सत्त्वरजस्तमःसु सत्त्वस्य स्वरूपम् ईदृशं **निर्मलत्वात् प्रकाशकम्** प्रकाशसुखावरणस्वभावरहितता निर्मलत्वम् प्रकाशसुखजननैकान्तस्वभावतया प्रकाशसुखहेतुभूतम् इत्यर्थः। प्रकाशो वस्तुयाथात्म्यावबोधः **अनामयम्** आमयाख्यकार्यं न विद्यते; इत्य् अनामयम् अरोगताहेतुर् इत्यर्थः। एष सत्त्वाख्यगुणो देहिनम् एनं **सुखसङ्गेन ज्ञानसङ्गेन च बध्नाति;** पुरुषस्य सुखसङ्गं ज्ञानसङ्गं च जनयति इत्यर्थः। ज्ञानसुखयोः सङ्गे हि जाते तत्साधनेषु लौकिकवैदिकेषु प्रवर्तते; ततश् च तत्फलानुभवसाधनभूतासु योनिषु जायते इति **सत्त्वं** सुखज्ञानसङ्गद्वारेण पुरुषं बध्नाति ज्ञानसुखजननं पुनो ऽपि तयोः सङ्गजननं च सत्त्वम् इत्य् उक्तं भवति।
@@ -44,12 +45,14 @@ title = "06 तत्र सत्त्वम्"
 
 14.6 Of 'these', i.e., of Sattva, Rajas and Tamas, the characteristic nature of the Sattva is this: it illuminates on account of its being pure. What is called purity is to be bereft of alities which veil light and happiness. Because its nature is solely the generation of light and happiness, it constitutes the cause of light and happiness. 'Light' or illumination is enlightenment about a thing as it is. It is 'not morbid,' i.e., an effect called morbidity (disease) does not exist in its presence. The meaning is, that Sattva is the cause of health. The Guna, called Sattva, however, binds the self by attachment to happiness and knowledge. The meaning is that it causes attachment to happiness and knowledge. When attachment to knowledge and happiness is born, one engages oneself in secular and Vedic means for securing them. Conseently, one is born in such bodies which constitute the means for realising such fruits. Hence the Sattva binds the self through attachment to happiness and knowledge. What is said is this: Sattva generates knowledge and happiness; again it generates attachment to them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.6॥ --,**निर्मलत्वात्** स्फटिकमणिरिव **प्रकाशकम् अनामयं** निरुपद्रवं **सत्त्वं** तन्निबध्नाति। कथम् **सुखसङ्गेन** सुखी अहम् इति विषयभूतस्य सुखस्य विषयिणि आत्मनि संश्लेषापादनं मृषैव सुखे सञ्जनम् इति। सैषा अविद्या। न हि विषयधर्मः विषयिणः भवति। इच्छादि च धृत्यन्तं क्षेत्रस्यैव विषयस्य धर्मः इति उक्तं भगवता। अतः अविद्ययैव स्वकीयधर्मभूतया विषयविषय्यविवेकलक्षणया अस्वात्मभूते सुखे सञ्जयति इव; आसक्तमिव करोति; असङ्गं सक्तमिव करोति; असुखिनं सुखिनमिव। तथा **ज्ञानसङ्गेन च;** ज्ञानमिति सुखसाहचर्यात् क्षेत्रस्यैव विषयस्य अन्तःकरणस्य धर्मः; न आत्मनः आत्मधर्मत्वे सङ्गानुपपत्तेः; बन्धानुपपत्तेश्च। सुखे इव ज्ञानादौ सङ्गः मन्तव्यः। हे **अनघ** अव्यसन॥
 </details>
@@ -185,12 +188,14 @@ etc. should be understood in the same sense as with happiness.
 सुखी अहं जान इति च। नहि विषयधर्मो विषयिणो भवति। तस्मादविद्यामात्रमेतदिति
 शतश उक्तं प्राक्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.6॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -199,12 +204,14 @@ etc. should be understood in the same sense as with happiness.
 
 ॥14.6॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.6 -- 14.8॥ क्रमेणैषां रूपमुच्यते -- तत्रेत्यादि भारतेत्यन्तम्। सत्त्वं निर्मलम्। तृष्णासंगस्य समुद्भवो यतः। दुर्लभस्यापि चिरतरसंचितपुण्यशतलब्धस्य अपवर्गप्राप्तावेककारणस्य मानुष्यकस्य वृथा अतिवाहनं प्रमादः। तथाह्युक्तम्,+++(;N तथाभ्युक्तम्)+++ -- आयुषः क्षण एकोऽपि सर्वरत्नैर्न लभ्यते।  
   
@@ -230,12 +237,14 @@ etc. should be understood in the same sense as with happiness.
 
 14.6 See Comment under 14.8
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.6॥ तत्र क्रमतो लक्षणं गुणानां बन्धनप्रकारं च वदन् पूर्वं सत्त्वस्य
 तदाह -- तत्रेति। सत्त्वं प्राकृतत्वात् सुखसङ्गेन ज्ञानसङ्गेन च लौकिकेन
@@ -257,10 +266,13 @@ etc. should be understood in the same sense as with happiness.
 ज्ञानोत्पत्तिसाधकत्वेन बध्नाति। अनघ इतिसम्बोधनेन मत्कृपाविशिष्टत्वात्तव
 बन्धाभाव इति ज्ञापितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.6॥ तत्र सत्त्वस्य लक्षणं बन्धकत्वप्रकारं चाह **-- तत्रेति**। तत्र
 तेषां गुणानां मध्ये सत्त्वं निर्मलत्वात्स्वच्छत्वात् स्फटिकवत् प्रकाशकं
@@ -269,10 +281,13 @@ etc. should be understood in the same sense as with happiness.
 स्वकार्येण ज्ञानेन यः सङगस्तेन च बध्नाति। हे अनघ निष्पाप; अहं सुखी
 ज्ञानी चेति मनोधर्मास्तदभिमानिनि क्षेत्रज्ञे संयोजयतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.6 Of these, Sattva, being without impurity, is luminous and free from morbidity. It binds, O Arjuna, by attachment to pleasure and to knowledge.
@@ -305,11 +320,13 @@ i.e.a revealer of Consciousness.\] is an illuminator and is harmless. O sinless 
 14.6 तत्र of these; सत्त्वम् purity; निर्मलत्वात् from its stainlessness; प्रकाशकम् luminous; अनामयम् healthy; सुखसङ्गेन by attachment to happiness; बध्नाति binds; ज्ञानसङ्गेन by attachment to knowledge; च and; अनग O sinless one.Commentary Sattva is stainless like the crystal. It lays for one the trap of happiness and knowledge. It is a golden fetter. A Sattvic man compares himself with others and rejoices in his excellence. He is puffed up with his knowledge. His heart is filled with pride when he thinks that he,has more comforts or more pleasant experiences. He thinks; I am happy I am wise; and so he is bound as it were. These ideas really belong to the field but they are transferred through superimposition to the Self on account of the force of SattvaGuna.Rajas and Tamas are pitfalls on the path of knowledge.This attachment to happiness is an illusion. This is ignorance. An attribute of the object cannot belong to the subject. All the alities from desire to firmness (Cf.XIII.6) belong to the field. From ignorance;
 nondiscrimination is born and so the individual self is not able to discriminate between the permanent and the impermanent; the subject and the object.Knowledge is an attribute of the Antahkarana (inner instrument; viz.; mind; intellect; the unconscious and the ego) but not of the Self. It if were an attribute of the Self; it could not produce attachment and bondage. Sattva binds the soul to knowledge through attachment.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.6।। हे पापरहित अर्जुन ! उन गुणोंमें सत्त्वगुण निर्मल (स्वच्छ) होनेके
@@ -440,6 +457,7 @@ nondiscrimination is born and so the individual self is not able to discriminate
 ।।14.6।। हे निष्पाप अर्जुन ! इन (तीनों) में, सत्त्वगुण निर्मल होने से
 प्रकाशक और अनामय (निरुपद्रव, निर्विकार या निरोग) है; (वह जीव को) सुख की
 आसक्ति से और ज्ञान की आसक्ति से बांध देता है।।
+</details>
 </details>
 
 </div>

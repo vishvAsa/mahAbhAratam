@@ -23,8 +23,9 @@ title = "19 तानहन् द्विषतः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.19॥ य एवं मां द्विषन्ति **तान् क्रूरान् नराधमान् अशुभान् अहम् अजस्रं संसारेषु** जन्मजरामरणादिरूपेण परिवर्तमानेषु सन्तानेषु; तत्र अपि **आसुरीष्व् एव योनिषु क्षिपामि।** मदानुकूल्यप्रत्यनीकेष्व् एव जन्मसु क्षिपामि। तत्तज्जन्मप्राप्त्यनुगुणप्रवृत्तिहेतुभूतबुद्धिषु क्रूरास्व् अहम् एव संयोजयामि इत्यर्थः।
@@ -39,12 +40,14 @@ title = "19 तानहन् द्विषतः"
 
 16.19 Those who hate Me in this manner, I hurl them, the cruel, inauspicious and the vilest of mankind into the cycle of births and deaths for ever, viz., old age, death etc., revolving again and again, and even there into demoniac wombs. I hurl them into births, antagonistic to any friendliness towards Me. The meaning is that I shall connect them to cruel minds as would impel them to actions which lead them to the attainment of cursed births.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.19॥ --,**तान् अहं** सन्मार्गप्रतिपक्षभूतान् साधुद्वेषिणः **द्विषतश्**च मां **क्रूरान् संसारेषु** एव अनेकनरकसंसरणमार्गेषु **नराधमान्** अधर्मदोषवत्त्वात् **क्षिपामि** प्रक्षिपामि **अजस्रं** संततम् **अशुभान्** अशुभकर्मकारिणः **आसुरीष्वेव** क्रूरकर्मप्रायासु व्याघ्रसिंहादि**योनिषु** क्षिपामि इत्यनेन संबन्धः॥
 </details>
@@ -120,12 +123,14 @@ verb cast is to be connected with 'into the classes'.
 तच्छ्रुतेः इति न्यायाच्चान्ततो गत्वा किंचिद्वैषम्यापादने
 माहामायत्वाददोषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.19॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -134,12 +139,14 @@ verb cast is to be connected with 'into the classes'.
 
 ॥16.19॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.17 -- 16.20॥ आत्मसंभाविता इत्यादि गतिमित्यन्तम्। यज्ञैर्यजन्ते नाम; निष्फलमित्यर्थः। क्रोधेन हि सर्वं नश्यतीत्यर्थः। यद्वा नामयज्ञैः; संज्ञामात्रेणैव +++(S; omit एव)+++ ये यज्ञाः तैः +++(S; omit तैः)+++। अथवा -- नामार्थं प्रसिद्ध्यर्थं ये यज्ञाः +++(omits ये यज्ञाः)+++ -- येन +++(S omits येन)+++ यज्ञयाजी अयम् इति व्यपदेशो जायते -- ते दम्भपूर्वका एव; न तु फलन्ति। क्रोधादिरूषितत्वादेव लोकान् द्विषन्तो मामेव द्विषन्ति। अहं वासुदेवो हि सर्वावासः। आत्मनि च द्वेषवन्तः आत्मनो ( आत्मने) ह्यहितं निरयपातहेतुम् आचरन्ति +++(S उपाचरन्ति)+++। तांश्चाहम् आसुरीष्वेव योनिषु क्षिपामि।
 </details>
@@ -148,12 +155,14 @@ verb cast is to be connected with 'into the classes'.
 
 16.19 See Coment under 16.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.19॥ तानहमिति। अतः सहजासुरान् नत्वावेशिनो मायाविन आसुरीष्वेव योनिषु
 पुनः पुनः क्षिपामि।
@@ -167,20 +176,26 @@ verb cast is to be connected with 'into the classes'.
 तेष्वप्यासुरीष्वेव मत्प्रतिपक्षरूपासु योनिषु अजस्रं निरन्तरं क्षिपामि
 पातयामीत्यर्थः। क्षिपामीत्युक्त्या क्रोधः सूचितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.19॥ तेषां कदाचिदप्यासुरस्वभावप्रच्युतिर्न भवतीत्याह **-- तानिति
 द्वाभ्याम्।** तानहं मां द्विषतः क्रूरान्संसारेषु जन्ममृत्युमार्गेषु;
 तत्रापि आसुरीष्वेवातिक्रूरासु व्याघ्रादियोनिषु अजस्रमनवरतं क्षिपामि।
 तेषां पापकर्मणां तादृशं फलं ददामीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.19 Those haters, cruel, the vilest and the most inauspicious of mankind, I hurl forever into the cycles of births and deaths, into the wombs of demons.
@@ -215,11 +230,13 @@ the vilest of human beings, verily into the demoniacla classes.
 in wombs.Commentary Now listen to the manner in which I deal with all these demoniacal persons who injure people and who take delight in killing people and animals and who hate Me; the indweller of all bodies.
 I deprive them of their human state and reduce them to a lower condition as subhuman creatures. I hurl them into the wombs of the most cruel beings such as tigers; lions; scorpions; snakes and the like. For ever only means till they purify their hearts. There is no such thing as eternal damnation.Tan Those The enemies of those who tread the path of righteousness and the haters of virtuous persons.Naradhaman Worst among men because they are guilty of the wors evil deeds and they take delight in injuring virtuous persns and in killing persons and animals ruthlessly.Asurishu yonishu Wombs of Asuras Wombs of the most cruel beings such as tigers; lions and the like.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.19।। उन द्वेष करनेवाले, क्रूर स्वभाववाले और संसारमें महान् नीच,
@@ -301,6 +318,7 @@ I deprive them of their human state and reduce them to a lower condition as subh
 ।।16.19।। ऐसे उन द्वेष करने वाले, क्रूरकर्मी और नराधमों को मैं संसार
 में बारम्बार (अजस्रम्) आसुरी योनियों में ही गिराता हूँ अर्थात् उत्पन्न
 करता हूँ।।
+</details>
 </details>
 
 </div>

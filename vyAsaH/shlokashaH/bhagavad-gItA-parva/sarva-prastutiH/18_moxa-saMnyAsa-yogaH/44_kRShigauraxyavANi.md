@@ -23,8 +23,9 @@ title = "44 कृषिगौरक्ष्यवाणिज्यं"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.44॥**कृषिः** सस्योत्पादन-कर्षणम्।  
@@ -471,12 +472,14 @@ title = "44 कृषिगौरक्ष्यवाणिज्यं"
 'cattle breeding' is the protection and rearing of cattle. 'Trade' is the activity causing the amassing of wealth through buying and selling.
 This is the duty of Vaisya born of his inherent nature. The duty of a Sudra, born of his inherent nature, is service to the three Orders mentioned earlier. All these have been described to stress that the occupational activities of the four stations are auxiliary to the performance of sacrifices etc., which are ordained by the Sastra. Sacrifices etc., are common to the first three stations. Control of the senses etc., are common to those who, among the first three stations, are anxious for release. As a Brahmana possesses preponderance of Sattva, and as the control of the senses, mind etc., can be performed by him easily and naturally, control of the senses etc., have been prescribed as his duty. As control of the mind, senses etc., can be performed only with difficulty by the Ksatriyas and the Vaisyas owing to the preponderance of Rajas and Tamas respectively in them, these have not been stated as their duty. The occupation of a Brahmana is officiating as priest in sacrifices, teaching the Vedas and receiving gifts. The occupation of a Ksatriya is protecting the people and that of the Vaisyas is farming etc., as mentioned before. The duty and occupation of the Sudra is service to the three stations.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.44॥ --,**कृषिगौरक्ष्यवाणिज्यं** कृषिश्च गौरक्ष्यं च वाणिज्यं च कृषिगौरक्ष्यवाणिज्यम्; कृषिः भूमेः विलेखनम्; गौरक्ष्यं गाः रक्षतीति गोरक्षः तस्य भावः गौरक्ष्यम्; पाशुपाल्यम् इत्यर्थः; वाणिज्यं वणिक्कर्म क्रयविक्रयादिलक्षणं **वैश्यकर्म** वैश्यजातेः कर्म वैश्यकर्म **स्वभावजम्। परिचर्यात्मकं** शुश्रूषास्वभावं **कर्म शूद्रस्यापि स्वभावजम्**॥  
   
@@ -548,12 +551,14 @@ this result that is going to be stated follows from a different cause:
 तमउपसर्जनरजोगुणस्वभावजम्। परिचर्यात्मकं द्विजातिशुश्रूषात्मकं कर्म
 शूद्रस्यापि स्वभावजं रजउपसर्जनतमोगुणस्वभावजम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.44॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -562,12 +567,14 @@ this result that is going to be stated follows from a different cause:
 
 ॥18.44॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -578,12 +585,14 @@ this result that is going to be stated follows from a different cause:
 
 18.44 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.44॥ वैश्यशूद्रयोराह -- कृषीति। कुसीदस्य वाणिज्ये निवेशनान्न
 पृथगुक्तिः द्विजपरिचर्यात्मकं शूद्रस्येति मर्यादा इयं परिचर्यां भगवति
@@ -599,20 +608,26 @@ this result that is going to be stated follows from a different cause:
 स्वभावजं स्वभावाज्जातं कर्म; यद्वा मत्परिचर्यात्मकं कर्म सर्वेषां
 पूर्वोक्तानां शूद्रस्यापीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.44॥ वैश्यशूद्रयोः कर्माह **-- कृषीति।** कृषिः कर्षणम्; गाः रक्षतीति
 गोरक्षस्तस्य भावो गौरक्ष्यं पाशुपाल्यमित्यर्थः। वाणिज्यं क्रयविक्रयादि;
 एतद्वैश्यस्य स्वभावजं कर्म। त्रैवर्णिकपरिचर्यात्मकं शूद्रस्यापि स्वभावजं
 कर्म।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.44 Agriculture, cattle-breeding and trade are the duties of the Vaisya born of his nature৷৷. And the duty of a Sudra is one of service,
@@ -648,11 +663,13 @@ consisting of service; कर्म action; शूद्रस्य of the Sudr
 स्वभावजम् born of nature.Commentary When a man performs his duties rightly according to his caste and order of life his heart is purified and he goes to heaven. Apastambha Dharma Sutra declares; Men of severla,castes and orders; each devoted to his respective duties; reap the fruits of their actions after death; and then by the residual Karma attain to births in superior Dharma; span of life; learning; conduct;
 wealth; happiness and intelligence (2;2;2;3). There is a vivid description in the Puranas also of the different results and worlds which men of the four castes and orders obtain by discharging their respective duties.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.44।। खेती करना, गायोंकी रक्षा करना और शुद्ध व्यापार करना -- ये
@@ -1095,6 +1112,7 @@ wealth; happiness and intelligence (2;2;2;3). There is a vivid description in th
 
 ।।18.44।। कृषि, गौपालन तथा वाणिज्य - ये वैश्य के स्वाभाविक कर्म हैं, और
 शूद्र का स्वाभाविक कर्म है परिचर्या अर्थात् सेवा करना।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "18 विद्याविनयसम्पन्ने"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.18॥**विद्या-विनय-सम्पन्ने ब्राह्मणे**  
@@ -43,12 +44,14 @@ title = "18 विद्याविनयसम्पन्ने"
 
 5.18 The sages are those who know the real nature of the self in all beings. They see the selves to be of the same nature, though they are perceived in extremely dissimlar embodiments such as those of one endowed with learning and humility, a mere Brahmana, a cow, an elephant, a dog, a dog-eater etc., because they all have the same form of knowledge in their nature as the Atman. The dissimilarity of the forms observed is due to Prakrti (body) and not to any dissimilarity in the self; conseently they, the wise, perceive the self as the same everywhere, because all selves, though distinct, have the same form of knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.18॥ **विद्याविनयसंपन्ने** विद्या च विनयश्च विद्याविनयौ विद्या आत्मनो बोधो विनयः उपशमः ताभ्यां विद्याविनयाभ्यां संपन्नः विद्याविनयसंपन्नः विद्वान् विनीतश्च यो ब्राह्मणः तस्मिन् **ब्राह्मणे गवि हस्तिनि शुनि चैव श्वपाके च पण्डिताः समदर्शिनः।** विद्याविनयसंपन्ने उत्तमसंस्कारवति ब्राह्मणे सात्त्विके मध्यमायां च राजस्यां गवि संस्कारहीनायाम् अत्यन्तमेव केवलतामसे हस्त्यादौ च सत्त्वादिगुणैः तज्जैश्च संस्कारैः तथा राजसैः तथा तामसैश्च संस्कारैः अत्यन्तमेव अस्पृष्टं समम् एकम् अविक्रियं तत् ब्रह्म द्रष्टुं शीलं येषां ते पण्डिताः समदर्शिनः॥  
   
@@ -163,12 +166,14 @@ eaten;Reply: They are not open to the charge.Objection: How;
 नोपाधिगतगुणदोषसंबन्ध इति प्रतिसंदधानाः सर्वत्र समदृष्ट्यैव
 रागद्वेषराहित्येन परमानन्दस्फूर्त्या जीवन्मुक्तिमनुभवन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.18॥ परमेश्वरस्वरूपाणां सर्वत्र साम्यदर्शनं
 चापरोक्षज्ञानसाधनमित्याशयवानाह विद्येति।
@@ -183,12 +188,14 @@ eaten;Reply: They are not open to the charge.Objection: How;
 अपरोक्षज्ञानसाधनता च प्रकरणगम्येत्यत आशयवानित्युक्तम्। पण्डितशब्दस्तु
 परोक्षज्ञानवचनः पाण्डित्यमागमज्ञानमिति वचनात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.18॥ अत्रापि भावयन्निति ज्ञानस्यैवेयं धारा उक्ता।
 </details>
@@ -197,12 +204,14 @@ eaten;Reply: They are not open to the charge.Objection: How;
 
 5.18 Vidya-etc. So, regarding a Brahmana these men of Yoga entertain no such veiw as 'I shall become a man of merit by serving him' and so on; regarding a cow, no \[idea\] like 'It is purifying and sacred' and so on; regarding an elephant, no thought of wealth and so on; regarding a dog, no conviction that it is impure, mischievous and so on; and with regard to a dog-cooker no opinion that he is a sinner, is impure and so on. That is why it is said that 'they look eally \[upon these\]' and not that 'they act eally \[with them\]. This has been said as - The Self, which is of the nature of pure Consciousness, \[shines\] in he bodies of all; no discriminating factor exists anywhere. Hence, the person who has conered the cycle of birth-and-death, remains consdering all as fully absorbed in That (Consciousness) (VB, verse 100). Here too nothing but this stream of thought has been mentioned by 'remains considering'. The proper mental disposition of a man of wisdom, says \[the Lord\], would be like this :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.18॥ कीदृशास्ते इति जिज्ञासायां तेषां स्वरूपमाह विद्येति। एतेषु
 विषमेषु गवादिष्वपि समं ब्रह्म द्रष्टुं शीलं येषां ते पण्डिता
@@ -215,10 +224,13 @@ eaten;Reply: They are not open to the charge.Objection: How;
 शुनो यः पचति तस्मिँश्च गवि हस्तिनि शुनि च समदर्शिनः मदंशात्मज्ञानेन ते
 पण्डिता ज्ञानिनः ज्ञेया इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.18॥ कीदृशास्ते ज्ञानिनो येऽपुनरावृत्तिं गच्छन्तीत्यपेक्षायामाह
 **विद्याविनयसंपन्न इति।** विषमेष्वपि समं ब्रह्मैव द्रष्टुं शीलं येषां
@@ -226,10 +238,13 @@ eaten;Reply: They are not open to the charge.Objection: How;
 शुनो यः पचति तस्मिञ्श्वपाके चेति कर्मणा वैषम्यम्। गवि हस्तिनि शुनि चेति
 जातितो वैषम्यं दर्शितम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.18 The sages look with an eal eye on one endowed with learning and humility, a Brahmana, a cow, an elephant, a dog and a dog-eater.
@@ -262,11 +277,13 @@ eaten;Reply: They are not open to the charge.Objection: How;
 समदर्शिनः eal seeing.Commentary The liberated sage or Jivanmukta or a Brahmana has eal vision as he beholds the Self only everywhere. This magnificent vision of a Jnani is beyond description. Atman or Brahman is not at all affected by the Upadhis or limiting adjuncts as He is extremely subtle; pure; formless and attributeless. The suns reflection falls on the river Ganga; on the ocean or on a dirty stream. The sun is not at all affected in any way. This makes no difference to the sun. So is the case with the Supreme Self. The Upadhis (limiting adjuncts)
 cannot affect Him. Just as the ether is not affected by the limiting adjuncts; viz.; a pot; the walls of a room; cloud; etc.; so also the Self is not affected by the Upadhis.The Brahmana is Sattvic. The cow is Rajasic. The elephant; the dog and the outcaste are Tamasic. The sge sees in all of them the one homogeneous immortal Self Who is not affected by the three Gunas and their tendencies. (Cf.VI.8;32XIV.24)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.18।। ज्ञानी महापुरुष विद्या-विनययुक्त ब्राह्मणमें और चाण्डालमें तथा
@@ -492,6 +509,7 @@ cannot affect Him. Just as the ether is not affected by the limiting adjuncts; v
 
 ।।5.18।। (ऐसे वे) ज्ञानीजन विद्या और विनय से सम्पन्न ब्राह्मण, तथा
 गाय, हाथी, श्वान और चाण्डाल में भी सम तत्त्व को देखते हैं।।
+</details>
 </details>
 
 </div>

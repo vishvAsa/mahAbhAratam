@@ -23,8 +23,9 @@ title = "39 एतन्मे संशयम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.39॥ तम् एनं **संशयम् अशेषतश् छेत्तुम् अर्हसि** स्वतः प्रत्यक्षेण युगपत् सर्वं सर्वदा स्वत एव पश्यतस् त्वत्तः **अन्यः संशयस्य अस्य छेत्ता न ह्य् उपपद्यते।**
@@ -39,12 +40,14 @@ title = "39 एतन्मे संशयम्"
 
 6.37 - 6.39 Arjuna said What way does he go, who has embarked on Yoga endowed with faith, but who by inadeacy of exertion in practice, does not gain success in Yoga and has his mind wandering from Yoga; Does he not perish like a small piece of cloud torn from a large mass of cloud - perish without reaching another large mass of cloud; Now does he not fall away from both (sides); He has no support and is confused on the path leading to the Brahman. He is without any support in the sense that Karma or rituals which constitutes the means of heaven etc., does not give support for a person who is devoid of attachment to fruits; for Karma is the means for generating its own fruits. He is also confused in the path leading to the Brahman on which he has just begun to traverse; He has lost his way. Does he then get lost by falling down from both sides, these being attainment of heaven on the one hand and liberation on the other. Does he not thus perish; You should remove this doubt altogether from my mind; for there is no other remover of this doubt than You, who always perceive directly all matters simultaneously.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.39॥ **एतत् मे** मम **संशयं कृष्ण** **छेत्तुम्** अपनेतुम् **अर्हसि अशेषतः। त्वदन्यः** त्वत्तः अन्यः ऋषिः देवो वा च्छेत्ता नाशयिता **संशयस्य अस्य न हि** यस्मात् **उपपद्यते** न संभवति। अतः त्वमेव छेत्तुमर्हसि इत्यर्थः॥**श्रीभगवानुवाच**
 </details>
@@ -103,12 +106,14 @@ Therefore you Yourself should dispel (the doubt). This is the meaning.
 यस्मान्नोपपद्यते न संभवति तस्मात्त्वमेव प्रत्यक्षदर्शी सर्वस्य परमगुरुः
 संशयमेतं मम छेत्तुमर्हसीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.37 6.39॥ अयतिरप्रयत्नः।
 </details>
@@ -117,12 +122,14 @@ Therefore you Yourself should dispel (the doubt). This is the meaning.
 
 ॥6.37 6.39॥ अचतुर्थाश्रमीति प्रतीतिनिरासायाह **अयतिरि**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.37 6.39॥ अयतः इत्यादि नह्युपपद्यते इत्यन्तम्। प्राप्ताद्योगात् यदि ( N यस्य instead यदि) चलितेऽपि चित्ते श्रद्धा न हीयते। विनष्टश्रद्धौ हि सिद्धयोगोऽपि सर्वं निष्फलं कुरुते। उक्तं हि यदा प्राप्यापि विज्ञानं दूषितं चित्तविभ्रमात्।  
   
@@ -134,12 +141,14 @@ Therefore you Yourself should dispel (the doubt). This is the meaning.
 6.37-39 Ayatah etc. upto na hyupapadyate. Even if his mind has moved away from the Yoga, he had reached, the faith in \[his\] mind is not lost. for, a person - even if he has achieved the Yoga - makes all \[achievements\] useless, if his faith is completely lost. That has been said :- 'Even after attaining the perfect knowledge, if it gets vitiated due to the caprices of mind, that very moment it perishes soon, just as a heap of cotton does due to fire'. If a complete success in the Yoga has not been achieved, then having come out of this \[material\] world, and having not yet got himself absorbed in the Brahman, would he get lost ; Or, because he has not yet got established in the Brahman, does he permanently get destroyed as the other world (heaven) is \[also\] ruined for him ; This is the estion. On this \[estion\], the conclusion
 -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.39॥ अत एतत्सन्देहनिवारकोऽपि त्वमेवति कथमन्नाह एनमिति। स्पष्टम्।
 </details>
@@ -153,19 +162,25 @@ Therefore you Yourself should dispel (the doubt). This is the meaning.
 त्वदेकवाक्यैकनिष्ठस्य मम संशयस्य छेत्ता त्वदन्यः त्वां विना हि निश्चयेन
 अन्यो नोपपद्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.39॥ त्वयैव सर्वज्ञेनायं मम संदेहो निरसनीयः
 त्वत्तोऽन्यस्त्वेतत्संदेहनिवर्तको नास्तीत्याह **एतन्म इति।** एतत् एनम्।
 छेत्ता निवर्तकः। स्पष्टमन्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.39 You should altogether remove this doubt of mine, O Krsna, for there is no other remover of this doubt thanYou.
@@ -197,11 +212,13 @@ Therefore you Yourself should dispel (the doubt). This is the meaning.
 another; संशयस्य of doubt; अस्य of this; छेत्ता dispeller; न not; हि
 verily; उपपद्यते is fit.Commentary There can be no better teacher than Thee for Thou art the omniscient Lord. Thou alone canst dispel this doubt. A Rishi (seer); a Deva (god); or a Muni (sage) will not be able to destroy this doubt.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.39।। हे कृष्ण! मेरे इस सन्देहका सर्वथा छेदन करनेके लिये आप ही योग्य
@@ -259,6 +276,7 @@ verily; उपपद्यते is fit.Commentary There can be no better teache
 ।।6.39।। हे कृष्ण ! मेरे इस संशय को नि:शेष रूप से छेदन (निराकरण) करने के
 लिए आप ही योग्य है; क्योंकि आपके अतिरिक्त अन्य कोई इस संशय का छेदन करन
 वाला (छेत्ता) मिलना संभव नहीं है।।
+</details>
 </details>
 
 </div>

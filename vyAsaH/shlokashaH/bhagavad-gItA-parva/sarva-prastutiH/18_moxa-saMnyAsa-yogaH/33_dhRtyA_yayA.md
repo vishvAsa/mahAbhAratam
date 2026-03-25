@@ -23,8 +23,9 @@ title = "33 धृत्या यया"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.33॥**यया धृत्या योगेन अव्यभिचारिण्या मनःप्राणेन्द्रियाणां क्रियाः** पुरुषो **धारयते** योगो मोक्षसाधनभूतं भगवदुपासनं योगेन प्रयोजनभूतेन अव्यभिचारिण्या योगोद्देशेन प्रवृत्तास् तत्साधनभूता मनःप्रभृतीनां क्रिया यया धृत्या धारयते; **सा सात्त्विकी** इत्यर्थः।
@@ -39,12 +40,14 @@ title = "33 धृत्या यया"
 
 18.33 That Dhrti by which one through unswerving Yoga sustains the activities of the mind and the vital force and the sense-organs is said to be of the nature of Sattva. 'Yoga is worship of the Lord which forms the means for release. The meaning is that the Dhrti or fortitude by means of which one sustains the activities of the mind and other organs in the practice of Yoga (worship) until one's object is accomplished, is of the nature of Sattva.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.33॥ --,**धृत्या यया** -- अव्यभिचारिण्या इति व्यवहितेन संबन्धः; **धारयते** किम् **मनःप्राणेन्द्रियक्रियाः** मनश्च प्राणाश्च इन्द्रियाणि च मनःप्राणेन्द्रियाणि; तेषां क्रियाः चेष्टाः; ताः उच्छास्त्रमार्गप्रवृत्तेः धारयते धारयति -- धृत्या हि धार्यमाणाः उच्छास्त्रमार्गविषयाः न भवन्ति -- योगेन समाधिना; अव्यभिचारिण्या; नित्यसमाध्यनुगतया इत्यर्थः। एतत् उक्तं भवति -- अव्यभिचारिण्या धृत्या मनःप्राणेन्द्रियक्रियाः धार्यमाणाः योगेन धारयतीति। या एवंलक्षणा धृतिः; सा पार्थ; सात्त्विकी॥
 </details>
@@ -122,12 +125,14 @@ concentration.
 धार्यमाणा मनआदिक्रियाः शास्त्रमतिक्रम्य नार्थान्तरमवगहान्ते धृतिः सा
 पार्थ; सात्त्विकी।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.33॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -136,12 +141,14 @@ concentration.
 
 ॥18.33॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.33 -- 18.35॥ धृत्येत्यादि तामसी मतेत्यन्तम्। मनःप्राणेन्द्रियक्रियाः योगेन धारयति यथा किं ममोपभोगादिभिः सर्वथैवात्मारामो भूयासम्इति मन्वानः। प्रसङ्गेनेति -- न तथा अभिनिवेशेन। निद्राकलहादिष्वेव यया सन्तोषं बध्नाति तत्परतया; सा तामसी धृतिः।
 </details>
@@ -150,12 +157,14 @@ concentration.
 
 18.33 See Comment under 18.35
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.33॥ धृतैस्त्रैविध्यमाह। धृतिर्नाम देहादेर्धारणक्रिया; तत्र
 सात्त्विकी धृतिः सा यया योगेनाव्यभिचारिण्या
@@ -171,19 +180,25 @@ concentration.
 विषयाभिलाषरूपाः; क्रियाः धारयते नियच्छति; हे पार्थ सा धृतिः सात्त्विकी
 उच्यत इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.33॥ इदानीं धृतेस्त्रैविध्यमाह **-- धृत्येति त्रिभिः।** योगेन
 चित्तैकाग्र्येण हेतुनाव्यभिचारिण्या विषयान्तरमधारयन्त्या यया धृत्या मनसः
 प्राणस्येन्द्रियाणां च क्रिया धारयते नियच्छति सा धृतिः सात्त्विकी।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.33 That Dhrti (fortitude or persisting perseverance) by which one maintains the unswerving activities of the mind and vital force and these sense-organs through Yoga - that Dhrti is of the nature of Sattva.
@@ -219,11 +234,13 @@ that; पार्थ O Arjuna; सात्त्विकी Sattvic (pure).Co
 they cannot run towards external sensual objects; they cannot do any mischief; they cannot move in ways which are opposed to the scriptures;
 they will be absorbed into their respective causes and their outgoing tendencies will be totally checked.This firmness is not repression or suppression; but an intelligent sublimation and inner transformation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.33।। हे पार्थ ! समतासे युक्त जिस अव्यभिचारिणी धृतिके द्वारा मनुष्य
@@ -296,6 +313,7 @@ they will be absorbed into their respective causes and their outgoing tendencies
 <details><summary>तेजोमयानन्दः - अनुवादः</summary>
 
 ।।18.33।। सात्त्विकी है।।
+</details>
 </details>
 
 </div>

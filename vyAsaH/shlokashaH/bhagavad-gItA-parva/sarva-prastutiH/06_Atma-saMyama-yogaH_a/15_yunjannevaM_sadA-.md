@@ -23,8 +23,9 @@ title = "15 युञ्जन्नेवं सदाऽऽत्मानम�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.15॥**एवं** मयि परस्मिन् ब्रह्मणि पुरुषोत्तमे मनसः शुभाश्रये **सदा आत्मानं** मनो **युञ्जन् नियतमानसः** निश्चलमानसः मत्स्पर्शपवित्रीकृतमानसतया निश्चलमानसः **मत्संस्थां निर्वाणपरमां शान्तिम् अधिगच्छति** निर्वाणकाष्ठारूपां मत्संस्थां मयि संस्थितां शान्तिम् अधिगच्छति। एवम् आत्मयोगम् आरभमाणस्य मनोनैर्मल्यहेतुभूतां मनसो भगवति शुभाश्रये स्थितिम् अभिधाय अन्यद् अपि योगोपकरणम् आह
@@ -39,12 +40,14 @@ title = "15 युञ्जन्नेवं सदाऽऽत्मानम�
 
 6.15 'Ever applying his mind on Me,' i.e., the Supreme Brahman, the Supreme Person and the holy and auspicious object of meditation, 'the Yogin of controlled mind,' i.e., one having his mind steady because of his being purified in mind through contact with Me, comes to the peace which abides in Me, which is of the highest degree of beatitude. That means he comes to the peace which is the supreme end of beatitude which abides in Me. For the person who commences Yoga of the self, Sri Krsna, after thus teaching how the mind should be fixed on the Lord, who is the holy and auspicious object of meditation, proceeds in order to effect the purification of the mind, to speak of the other side of Yoga:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.15॥ **युञ्जन्** समाधानं कुर्वन् **एवं** यथोक्तेन विधानेन **सदा आत्मानं सर्वदा योगी नियतमानसः** नियतं संयतं मानसं मनो यस्य सोऽयं नियतमानसः **शान्तिम्** उपरतिं **निर्वाणपरमां** निर्वाणं मोक्षः तत् परमा निष्ठा यस्याः शान्तेः सा निर्वाणपरमा तां निर्वाणपरमाम्. **मत्संस्थां** मदधीनाम् **अधिगच्छति** प्राप्नोति॥ इदानीं योगिनः आहारादिनियम उच्यते
 </details>
@@ -356,12 +359,14 @@ Now are bieng mentioned the rules about the yogi's food etc.:
 कैवल्यं दर्शितम्। यस्मादेवं महाफलो योगस्तस्मात्तं महता प्रयत्नेन
 संपादयेदित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.15॥ निर्वाणपरमां शरीरत्यागोत्तरकालीनाम्।
 </details>
@@ -372,12 +377,14 @@ Now are bieng mentioned the rules about the yogi's food etc.:
 शान्तेर्निर्वाणपरमत्वं इत्यत आह **निर्वाणे**ति। न
 जीवन्मुक्तिमात्रमित्यर्थः। उपशान्तेर्योगकारणत्वात् योगफलत्वमनुपपन्नम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.10 6.15॥ ननु जितात्मनः इत्युक्तम् तत्कथं तज्जय इत्याशङ्क्य आरुरुक्षोः कश्चिदुपायः कायसमत्वादिकः +++(SN कायसमुद्धारकः)+++ चित्तसंयम उपदिश्यते योगीत्यादि अधिगच्छतीत्यन्तम्। आत्मानं च चित्तं च युञ्जीत एकाग्रीकुर्यात्। सततमिति न परिमितं कालम्। एकाकित्वादिषु सत्सु एतद्युज्यते +++(N युञ्जीत)+++ नान्यथा। आसनस्थैर्यात् कालस्थैर्ये +++(S कालस्थैर्यम्)+++ चित्तस्थैर्यम्। चित्तक्रियाः संकल्पात्मनः अन्याश्चेन्द्रियक्रिया येन यताः नियमं नीताः। धारयन् यत्नेन। नासिकाग्रस्यावलोकने सति दिशामनवलोकनम्। मत्परमतया युक्त आसीत +++(N आसीत्)+++ इत्यर्थः +++(S omits इत्यर्थः)+++। एवमात्मानं युञ्जतः समादधतः शान्तिर्जायते यस्यां संस्थापर्यन्तकाष्ठा मत्प्राप्तिः +++(K प्राप्तिर्योगोऽस्तीति)+++।
 </details>
@@ -386,12 +393,14 @@ Now are bieng mentioned the rules about the yogi's food etc.:
 
 6.10-15 Yogi etc. upto adhigacchati. Self : the mind. Let him yoke it : let him make it single-pointed. Always : not for a limited period of time. If the conditions like remaining alone etc., are fulfilled, this \[controlling of mind\] is possible and not otherwise. On account of the firmness of seat, the time-nerve (or the body ;) remains firm and due to this, mind remains firm. He, by whom the mental activities i.e., those that are in the form of intention, and other activities of the sense-organs are subdued i.e., are brought under full control; \[he is the person of the subdued mental and sensual activities\]. Holding : i.e., with effort. If the nose-tip is looked at, \[it is possible\] not to look at \[different\] directions. Let him remain endowed with the state of having Me alone as supreme goal. This is the meaning \[here\]. He who yokes i.e., concentrates his self (mind) in this manner, there arises for him Peace in which the culmination - as far as the end-is the same as attaining Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.15॥ एवं सदा योगी युक्तः सिद्धः स मयि संस्थां लयं
 मोक्षादक्षरतादात्म्यरूपादपि परमं प्रवेशं प्राप्नोति।
@@ -404,20 +413,26 @@ Now are bieng mentioned the rules about the yogi's food etc.:
 योगवान् निर्वाणपरमां मोक्षाधिकां मत्संस्थां मत्स्वरूपरसात्मिकां शान्तिं
 वियोगक्लेशादिरहितभावमधिगच्छति प्राप्नोति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.15॥ योगाभ्यासफलमाह **युञ्जन्नेवमिति।** एवमुक्तप्रकारेण सदात्मानं मनो
 युञ्जन्समाहितं कुर्वन्नियतं निरुद्धं मानसं चित्तं यस्य सः। शान्तिं
 संसारोपरतिं प्राप्नोति। कथंभूताम्। निर्वाणं परमं प्राप्यं यस्यां तां
 मत्संस्थां मद्रूपेणावस्थितिम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.15 Ever applying his mind in this way, the Yogin of controlled mind,
@@ -452,11 +467,13 @@ Yogi; नियतमानसः one with the controlled mind; शान्त�
 निर्वाणपरमाम् that which culminates in Nirvana (Moksha); मत्संस्थाम्
 abiding in Me; अधिगच्छति attains.Commentary Thus in the manner prescribed in the previous verse.The Supreme Self is an embodiment of peace. It is an ocean of peace. When one attains to the supreme peace of the Eternal; by controlling the modifications of the mind and keeping it always balanced; he attains to liberation or perfection.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.15।। नियत मनवाला योगी मनको इस तरहसे सदा परमात्मामें लगाता हुआ
@@ -515,6 +532,7 @@ abiding in Me; अधिगच्छति attains.Commentary Thus in the manner
 ।।6.15।। इस प्रकार सदा मन को स्थिर करने का प्रयास करता हुआ संयमित मन का
 योगी मुझमें स्थित परम निर्वाण (मोक्ष) स्वरूप शांति को प्राप्त होता
 है।।
+</details>
 </details>
 
 </div>

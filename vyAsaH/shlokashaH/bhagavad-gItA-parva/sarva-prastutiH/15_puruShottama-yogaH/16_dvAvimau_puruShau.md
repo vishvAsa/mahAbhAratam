@@ -23,8 +23,9 @@ title = "16 द्वाविमौ पुरुषौ"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥15.16॥**क्षरश् च अक्षर एव च** इति **द्वौ इमौ पुरुषौ लोके** प्रथितौ। तत्र **क्षर**शब्दनिर्दिष्टः पुरुषो जीवशब्दाभिलपनीय ब्रह्मादिस्तम्बपर्यन्तक्षरणस्वभावाचित्संसृष्ट सर्व**भूतानि** अत्र अचित्सङ्गरूपैकोपाधिना पुरुष इत्य् एकत्वनिर्देशः।**अक्षर**शब्दनिर्दिष्टः **कूटस्थः;** अचित्संसर्गवियुक्तः; स्वेन रूपेण अवस्थितो मुक्तात्मा। स त्व् अचित्संसर्गाभावाद् अचित्परिणामविशेषब्रह्मादिदेहसाधारणो न भवति इति कूटस्थ इति **उच्यते।  
@@ -44,12 +45,14 @@ title = "16 द्वाविमौ पुरुषौ"
 It has no specific connection with particular transformations of non-conscient matter like the bodies of Brahma etc. Here also the designation of the term in singular (as expressing a generic class) denoting the totality of liberated selves, is used on account of the single condition of dissociation from non-conscient matter. It does not mean that before this, in time without beginning, there existed but a single liberated self. So it is stated: 'Purified by the austerity of knowledge, many have attained My state' (4.10); and 'They are not born at the time of creation, nor do they suffer at the time of dissolution'
 (14.2).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.16॥ --,**द्वौ इमौ** पृथग्राशीकृतौ **पुरुषौ** इति उच्येते **लोके** संसारे -- **क्षरश्च** क्षरतीति क्षरः विनाशी इति एको राशिः अपरः पुरुषः **अक्षरः** तद्विपरीतः; भगवतः मायाशक्तिः; क्षराख्यस्य पुरुषस्य उत्पत्तिबीजम् अनेकसंसारिजन्तुकामकर्मादिसंस्काराश्रयः; अक्षरः पुरुषः उच्यते। कौ तौ पुरुषौ इति आह स्वयमेव भगवान् -- **क्षरः सर्वाणि भूतानि;** समस्तं विकारजातम् इत्यर्थः। **कूटस्थः** कूटः राशी राशिरिव स्थितः। अथवा; कूटः माया वञ्चना जिह्मता कुटिलता इति पर्यायाः; अनेकमायावञ्चनादिप्रकारेण स्थितः कूटस्थः; संसारबीजानन्त्यात् न क्षरति इति **अक्षरः उच्यते**॥ आभ्यां क्षराक्षराभ्यां अन्यः विलक्षणः क्षराक्षरोपाधिद्वयदोषेण अस्पृष्टः नित्यशुद्धबुद्धमुक्तस्वभावः --,
 </details>
@@ -161,12 +164,14 @@ to the countless seeds of worldly existence, it does not perish.
 तस्मात्क्षराक्षरशब्दाभ्यां कार्यकारणोपाधी उभावपि जडावेवोच्येते
 इत्येवमुक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.16 -- 15.17॥ क्षरः भूतानि ब्रह्मादीनि। कूटस्था प्रकृतिः। तथा च
 शार्कराक्षश्रुतिः -- प्रजापतिप्रमुखाः सर्वजीवाः क्षरोऽक्षरः पुरुषो वै
@@ -186,14 +191,16 @@ to the countless seeds of worldly existence, it does not perish.
 संसारबन्धः सोऽस्यास्तीति जालःअर्श आदिभ्योऽच् \[अष्टा.5।2।127\] इति।
 तद्रहितश्चाजालः अभिमानाभावात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="../18_yasmAtxaramatIto-.md">
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.16 -- 15.18॥ द्वावित्यादि पुरुषोत्तम इत्यन्तम्। 
 
@@ -220,12 +227,14 @@ to the countless seeds of worldly existence, it does not perish.
 
 15.16 See Comment under 15.18
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.16॥ द्वाविमाविति। लोके क्षरश्चाक्षर एव चेति पुरुषौ प्रथितौ; न
 स्त्रीप्रकृतिकौ; नाप्यत्रान्यतरो स्त्रीप्रकृतिकः; केवलजडप्रकृतिकश्च
@@ -263,10 +272,13 @@ to the countless seeds of worldly existence, it does not perish.
 विनश्यत्स्वपि तत्समूहस्थः अविनाशी भोक्ता मच्चरणात्मको यः; स अक्षरः पुरुष
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.16॥ इदानींतद्धाम परमं मम इति यदुक्तं तत्स्वकीयं सर्वोत्तमत्वं
 दर्शयति **-- द्वाविमाविति त्रिभिः।** क्षरश्चाक्षरश्चेति द्वाविमौ पुरुषौ
@@ -276,10 +288,13 @@ to the countless seeds of worldly existence, it does not perish.
 निर्विकारतया तिष्ठतीति कूटस्थश्चेतनो भोक्ता। स तु अक्षरः पुरुष
 इत्युच्यते विवेकिभिः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.16 There are two kinds of Persons (Purusas) spoken of in the Sastra -
@@ -318,11 +333,13 @@ Therefore; it is said to be imperishable in the sense that it is not destroyed i
 The,illusion vanishes and everything is realised as the one Cosmic Consciousness. Only the illusory perception of matter is destroyed.Purushottama or the highest Purusha is distinct from these two
 -- the perishable and the imperishable. He is not affected by the evils of the two vehicles or limiting adjuncts of the perishable and the imperishable. He is eternal; pure; intelligent and free by nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/16_dvAvimau_puruShau.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.16।। इस संसारमें क्षर (नाशवान्) और अक्षर (अविनाशी) -- ये दो प्रकारके
@@ -423,6 +440,7 @@ The,illusion vanishes and everything is realised as the one Cosmic Consciousness
 
 ।।15.16।। इस लोक में क्षर (नश्वर) और अक्षर (अनश्वर) ये दो पुरुष हैं,
 समस्त भूत क्षर हैं और 'कूटस्थ' अक्षर कहलाता है।।
+</details>
 </details>
 
 </div>

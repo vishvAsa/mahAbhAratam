@@ -23,8 +23,9 @@ title = "17 अविभक्तञ् च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.16॥ देव-मनुष्यादि**भूतेषु** सर्वत्र स्थितम् आत्मवस्तु  
@@ -77,12 +78,14 @@ title = "17 अविभक्तञ् च"
 'man' etc. Though the self can be contemplated by way of co-ordinate predication as one with the body in such significations as, 'I am divinity, I am a man,' It can be known as being different from the body,
 because of Its being a knower. That is why it has already been pointed out at the beginning: 'He who knows It; (13.1). Now Sri Krsna says that It can be known as different also on other grounds - as the 'supporter of elements' etc. Because It supports the earth and other elements combined in the shape of the body, the self can be known as being different from the elements supported. The sense is that It can be known as a separate entity. Likewise, It is that which 'devours', namely, the consumer of physical food etc. Because, It 'devours' the food, It can be known as an entity different from the elements. It causes 'generation' - It is the cause of transformation of consumed food etc., into other forms like blood etc. As eating, generating etc., are not seen in a corpse, it is settled that the body, an aggregate of elements, cannot be the cause of devouring food, generating of species and supporting them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.17॥ --,**अविभक्तं च** प्रतिदेहं व्योमवत् तदेकम्। **भूतेषु** सर्वप्राणिषु **विभक्तमिव च स्थितं** देहेष्वेव विभाव्यमानत्वात्। **भूतभर्तृ च** भूतानि बिभर्तीति **तत् ज्ञेयं** भूतभर्तृ च स्थितिकाले। प्रलयकाले **गृसिष्णु** ग्रसनशीलम्। उत्पत्तिकाले **प्रभविष्णु च** प्रभवनशीलं यथा रज्जवादिः सर्पादेः मिथ्याकल्पितस्य॥ किञ्च; सर्वत्र विद्यमानमपि सत् न उपलभ्यते चेत्; ज्ञेयं तमः तर्हि न। किं तर्हि --,
 </details>
@@ -173,12 +176,14 @@ then;
 रज्ज्वादिः सर्पादेर्मायाकल्पितस्य; तस्माद्यज्जगतः स्थितिलयोत्पत्तिकारणं
 ब्रह्म तदेव क्षेत्रज्ञं प्रतिदेहमेकं ज्ञेयं न ततोऽन्यदित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.17॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -187,12 +192,14 @@ then;
 
 ॥13.17॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.13 -- 13.18॥ एतेन ज्ञानेन यत् ज्ञेयं तदुच्यते -- ज्ञेयमित्यादि विष्ठितमित्यन्तम्। अनादिमत् परं ब्रह्म इत्यादिभिर्विशेषणैः ब्रह्मस्वरूपाक्षेपानुग्राहकं,+++(S -- स्वरूपापेक्षानु -- )+++ सर्वप्रवादाभिहितविज्ञानापृथग्भावं कथयति +++(S;;N सर्वप्रवादान्तराभिहितपृथग्भावकमुच्यते)+++। एतानि च विशेषणानि पूर्वमेव व्याख्यातानि इति किं निष्फलया,पुनरुक्त्या।
 </details>
@@ -201,12 +208,14 @@ then;
 
 13.17 See Comment under 13.18
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.17॥ तर्हि खण्डशः स्यादित्याशङ्क्याऽऽह -- अविभक्तमिति।
 अनन्तमूर्तिष्वपि न परस्परं विभेदः; केवलमिच्छया तावन्मात्रप्रकटनार्थं
@@ -242,10 +251,13 @@ then;
 स्वस्मिन्नवरोधकमित्यर्थः। च पुनः सृष्टिकाले लीलात्मकरसदानात्मके
 प्रभविष्णु नानास्वरूपैः प्रभवनशीलम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.17॥ किंच **-- अविभक्तमिति।** भूतेषु स्थावरजङ्गमात्मकेषु अविभक्तं
 कारणात्मना अभिन्नं; कार्यात्मना विभक्तं च भिन्नमिवावस्थितं च।
@@ -253,10 +265,13 @@ then;
 ज्ञेयम्। भूतानां भर्तृ च पोषकं स्थितिकाले; प्रलयकाले च ग्रसिष्णु
 ग्रसनशीलम्; सृष्टिकाले च प्रभविष्णु नानाकार्यात्मना प्रभवनशीलम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.17 Undivided and yet remaining as if divided among beings, this self is to be known as the supporter of elements. It devours them and causes generation.
@@ -292,11 +307,13 @@ generating; च and.Commentary Brahman must be regarded as That which supports; 
 It is like ether. It is allpervding like space (Akasa). It is indivisible and the One; but It seems to divide Itself in forms and appears as all the separate existing things and beings. It is essentially unbroken. Yet; It is; as it were; divided among all beings.It devours this world during the cosmic dissolution. It generates it at the time of the origin of the next age. It supports all beings during the period of sustenance of this world.Just as fire is hidden in the wood; so also Brahman is hidden in all bodies. Just as the one space appears to be different through the limiting adjuncts (pot; house; etc.)
 so also the one indivisible Brahman appears to be different through the limiting adjuncts (the body; etc.). (Cf.XVIII.20)An objector says The knowable Brahman; the Knower of the field; is allpervading. It exists everywhere and yet It is not perceived. Therefore It must be of the nature of darkness or Tamas.The answer is No. It cannot be.What; then It is the Light of Lights.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.17।। वे परमात्मा स्वयं विभागरहित होते हुए भी सम्पूर्ण प्राणियोंमें
@@ -358,6 +375,7 @@ so also the one indivisible Brahman appears to be different through the limiting
 
 ।।13.17।। और वह अविभक्त है, तथापि वह भूतों में विभक्त के समान स्थित है।
 वह ज्ञेय ब्रह्म भूतमात्र का भर्ता, संहारकर्ता और उत्पत्ति कर्ता है।।
+</details>
 </details>
 
 </div>

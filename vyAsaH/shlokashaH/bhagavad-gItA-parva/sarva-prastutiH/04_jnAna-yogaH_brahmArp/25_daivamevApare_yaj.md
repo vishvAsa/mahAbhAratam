@@ -23,8 +23,9 @@ title = "25 दैवमेवापरे यज्ञम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 एवं कर्मणो ज्ञानाकारतां प्रतिपाद्य कर्मयोगभेदान् आह -
@@ -47,12 +48,14 @@ title = "25 दैवमेवापरे यज्ञम्"
 'sacrifice' is used in the sense of the oblation, the ladle etc., reired for performing a sacrifice and therefore they are said to constitute
 'sacrificing.' These are of the nature of Brahman. 'Offer by means of sacrifice' indicates the ladle and other implements for the accomplishment of sacrifice.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.25)**दैवमेव** देवा इज्यन्ते येन यज्ञेन असौ दैवो यज्ञः तमेव **अपरे यज्ञं योगिनः** कर्मिणः **पर्युपासते** कुर्वन्तीत्यर्थः। **ब्रह्माग्नौ** सत्यं ज्ञानमनन्तं ब्रह्म (तैत्ति0 उ₀ 2.1) विज्ञानमानन्दं ब्रह्म (बृह0 उ₀ 3.9.22) यत् साक्षादपरोक्षात् ब्रह्म य आत्मा सर्वान्तरः (बृह0 उ₀ 3.4.1) इत्यादिवचनोक्तम् अशनायादिसर्वसंसारधर्मवर्जितम् नेति नेति इति निरस्ताशेषविशेषं ब्रह्मशब्देन उच्यते। ब्रह्म च तत् अग्निश्च सः होमाधिकरणत्वविवक्षया ब्रह्माग्निः। तस्मिन् ब्रह्माग्नौ **अपरे** अन्ये ब्रह्मविदः **यज्ञम्** यज्ञशब्दवाच्य आत्मा आत्मनामसु यज्ञशब्दस्य पाठात् तम् आत्मानं यज्ञं परमार्थतः परमेव ब्रह्म सन्तं बुद्ध्याद्युपाधिसंयुक्तम् अध्यस्तसर्वोपाधिधर्मकम् आहुतिरूपं **यज्ञेनैव** आत्मनैव उक्तलक्षणेन **उपजुह्वति** प्रक्षिपन्ति सोपाधिकस्य आत्मनः निरुपाधिकेन परब्रह्मस्वरूपेणैव यद्दर्शनं स तस्मिन् होमः तं कुर्वन्ति ब्रह्मात्मैकत्वदर्शननिष्ठाः संन्यासिनः इत्यर्थः॥  
   
@@ -192,12 +195,14 @@ than the sacrifices involving (sacrificial) materials'.
 तत्साधनयज्ञमध्ये पठ्यतेश्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञ इत्यादिना
 स्तोतुम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.25॥ यज्ञभेदानाह दैवमित्यादिना। दैवं भगवन्तम् स एव तेषां यज्ञः।
 भगवदुपासनं यज्ञमिति क्रियाविशेषण्। नान्यत्तेषामस्ति यतीनां केषाञ्चित्।
@@ -232,12 +237,14 @@ than the sacrifices involving (sacrificial) materials'.
 एवं तर्ह्यग्रतो जातं तं पुरुषं यज्ञं भगवन्तं प्रति बर्हिषि
 प्रौक्षन्नित्यर्थः स्यात्। स च निर्मूल इत्यत आह **उक्तं** चेति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.25॥ दैवमेवेति। अपरे दैवानि क्रीडनशीलानि +++(K क्रीडाशीलानि)+++ इन्द्रियाणि आश्रित्य यः स्थितो यज्ञो निजविषयग्रहणलक्षणः तमेव परितः उपासते आमूलाद्विमृशन्ते स्वात्मलाभं लभन्ते। अत एव ते योगिनः सर्वावस्थासु सततमेव योगयुक्तत्वात्। नित्ययोगे ह्यत्रायं मत्वर्थीयः इनिः । एनमेव च विषयग्रहणात्मकं यज्ञं यज्ञेनैव तेनैव उक्त लक्षणेन अपरे पूरयितुमशक्ये ब्रह्माग्नौ जुह्वति इति कैश्चित् व्याख्यातम्। मुनेस्तु पौर्वापर्याविरुद्धत्वात् योऽर्थ तस्य हृदि स्थितः तं प्रकाशयामः। केचिद्योगयुक्तः सन्तो दैवं नानारूपेन्द्रादिदेवतोद्देशेनैव बाह्यद्रव्यमयं यज्ञमुपाचरन्ति। तं च क्रियमाणमेव यज्ञं यज्ञेन कर्तव्यमिदमित्येव बुद्ध्या फलानपेक्षया +++(S पेक्षितया)+++ अपरे दुष्पूरे ब्रह्माग्नौ अर्पयन्तीति द्रव्ययज्ञा अपि परं +++(omits परम)+++ ब्रह्म यान्ति। यतो वक्ष्यते सर्वेऽप्येते यज्ञविदः इति (गीता 4.30) श्रुतिरपियज्ञेन यजमयजन्त देवाः(ऋ. सं. X 164 50 ) इति।
 </details>
@@ -246,12 +253,14 @@ than the sacrifices involving (sacrificial) materials'.
 
 4.25 Daivam etc. the Devas are the sense-organs that are playful. The yajna that stands based on them is nothing but the act of receiving objects of their own. Certain persons are thoroughly devoted only to that yajna, i.e., they gain the gain of their own Self by examining this (yajna) from its root . That is why they are men of Yoga; for, they are absorbed in the Yoga permanently at all stages. Indeed in Yogin the suffix ini, a synonym of matup, here signifies 'perpetual connection'. Further, they (Yogins) pour, as an offering, the self-same yajna, above defined, into the Brhaman-fire that is insatiable i.e. that cannot be satisfied. Thus \[the verse\] has been interpreted by some. However, the Sage (the author of the Gita) does not violate the context. Hence, that meaning which exists in his heart we shall show : Certain masters of Yoga perform godly sacrifice i.e., sacrifice, consisting of external objects, and intending only deities like Indra etc., of varied forms. Further, with a single conviction that 'It is a Yajna and a thing to be performed', i.e., with no craving for fruit, they offer the same sacrifice, that is being performed, into the Brahman - fire which is insatiable i.e., difficult to satisfy. Thus even those, who perform sacrificial rites with material objects, attain the Supreme Brahman. For, it is going to be declared in the seel : 'All these persons too have understood sacrifice' (IV, 30 below). The Vedic text also \[says\] : 'The gods offered sacrifice \[just\] as sacrifice'. (RV, I, 164, 50; TS, III, v, II, 5; etc.)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.25॥ एवं तत्कर्मणो ब्रह्मभावज्ञानकारणतां प्रतिपाद्यधिकारिभेदेन
 प्रसङ्गादन्यानपि बहून् यज्ञानाह दैवमेवापरे इति। तत्तद्देवाराधनात्मकं
@@ -272,10 +281,13 @@ than the sacrifices involving (sacrificial) materials'.
 
 अपरे तत्त्व-ज्ञानानुसारिणो **ब्रह्माग्नौ** अग्निं ब्रह्म-स्वरूपं ज्ञात्वा तस्मिन् **यज्ञं** यज्ञात्मकं विष्णुं **यज्ञेनैव** यज्ञात्मक-विष्णुरूपेण हविषा **उपजुह्वति** होमं कुर्वन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.25॥ एतदेव यज्ञत्वेन संपादितं सर्वत्र ब्रह्मदर्शनलक्षणं ज्ञानं
 सर्वयज्ञोपायप्राप्यत्वात्सर्वयज्ञेभ्यः श्रेष्ठमित्यवं स्तोतुं
@@ -286,10 +298,13 @@ than the sacrifices involving (sacrificial) materials'.
 ब्रह्मार्पणमित्युक्तप्रकारेण यज्ञमुपजुह्वति। यज्ञादिसर्वकर्माणि
 प्रविलापयन्तीत्यर्थः। सोऽयं ज्ञानयज्ञः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.25 Some Yogins resort only to the sacrifice relating to gods. Others offer sacrifice into the fire of Brahman solely by means of sacrifice.
@@ -325,11 +340,13 @@ offer as sacrifice.Commentary Some Yogis who are devoted to Karma Yoga perform s
 (Aparoksha Anubhuti) that the individual soul is identical with Brahman.
 This is the highest Yajna. Those who are established in Brahman; those who have realised their oneness with the Supreme Soul or Paramatma perform this kind of sacrifice. This is superior to all other sacrifices.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/25_daivamevApare_yaj.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.25।। अन्य योगीलोग भगवदर्पणरूप यज्ञका ही अनुष्ठान करते हैं और दूसरे
@@ -400,6 +417,7 @@ This is the highest Yajna. Those who are established in Brahman; those who have 
 
 ।।4.25।। कोई योगीजन देवताओं के पूजनरूप यज्ञ को ही करते हैं ; और दूसरे
 (ज्ञानीजन) ब्रह्मरूप अग्नि में यज्ञ के द्वारा यज्ञ को हवन करते हैं।।
+</details>
 </details>
 
 </div>

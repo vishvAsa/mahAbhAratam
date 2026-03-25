@@ -23,8 +23,9 @@ title = "09 श्रोत्रञ् चक्षुः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 कानि पुनस् तानि इन्द्रियाणि इत्याह --
@@ -41,12 +42,14 @@ title = "09 श्रोत्रञ् चक्षुः"
 
 15.9 Presiding over these sense-organs, of which the mind is the sixth, the lord of the body drives the organs towards their corresponding objects like sound and the rest and enjoys them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥15.9॥ --,**श्रोत्रं चक्षुः स्पर्शनं च** त्वगिन्द्रियं **रसनं घ्राणमेव च मनश्च** षष्ठं प्रत्येकम् इन्द्रियेण सह; **अधिष्ठाय** देहस्थः **विषयान्** शब्दादीन् **उपसेवते**॥ एवं देहगतं देहात् --,
 </details>
@@ -100,12 +103,14 @@ organ.
 चकारात्कर्मेन्द्रियाणि प्राणं च मनश्च षष्ठमधिष्ठायैव आश्रित्यैव विषयान्
 शब्दादीनयं जीव उपसेवते भुंक्ते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.9॥ इन्द्रियद्वाराऽपि सोऽपि भुङ्क्ते। तद्य इमे वीणायां गायन्त्येतं
 ते गायन्ति इति च श्रुतिः। गुणान्वितमेव भुङ्क्ते। न ह वै देवान्पापं
@@ -121,14 +126,16 @@ organ.
 गुणमेवेत्यर्थः। एतद्भुञ्जानस्य विशेषणमिति केचित् तान्प्रत्याह -- **न ह
 वा** इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="../11_yatanto_yoginashc.md">
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.9 -- 15.11॥ एवं सृष्टौ संहारे च एतैः साहित्यम् अस्योक्त्वा स्थिताव् अपि स्थानासन-मननादि-रूपायां +++(N ममतादि)+++ विषय-ग्रहणात्मिकायां +++(omits स्थितावपि
 -- त्मिकायाम्)+++ तत्-सहितस्यैवास्य व्यापार इति निश्चीयते -- श्रोत्रमित्यादि अचेतस इत्यन्तम्।
@@ -147,12 +154,14 @@ organ.
 
 15.9 See Comment under 15.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.9॥ तान्येवेन्द्रियाणि सेवते इति दर्शयन्यदर्थं गृहीत्वा गच्छति तदाह
 -- श्रोत्रमिति स्पष्टम्। प्राकृताहङ्कारकार्यं स्वस्वविषयवृत्त्यनुगुणं
@@ -168,19 +177,25 @@ organ.
 अग्रे अलौकिक-तद्-अनुभवार्थं  
 **विषयान् उप** स्वांश-जीव-समीपे **सेवते** भोगं करोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.9॥ तान्येवेन्द्रियाणि दर्शयन्यदर्थं गृहीत्वा गच्छति तदाह **--
 श्रोत्रमिति।** श्रोत्रादीनि बाह्येन्द्रियाणि
 मनश्चान्तःकरणमधिष्ठायाश्रित्य शब्दादीन्विषयानयं जीव उपभुङ्क्ते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.9 Presiding over the ear, the eye, the sense of touch, the tongue and the nose, and the mind, It experiences these objects of senses.
@@ -215,11 +230,13 @@ even; च and; अधिष्ठाय presiding over; मनः the mind; च 
 indicates that we shall have to include the five organs of action; and also the fourfold inner instrument (mind; intellect; subconscious mind and egoism). In the Katha Upanishad it is said आत्मेन्द्रियमनोयुक्तं
 भोक्तेत्याहुर्मनीषिणः।। The Self; the senses and the mind united; the wise call the enjoyer.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.9।। यह जीवात्मा मनका आश्रय लेकर श्रोत्र, नेत्र, त्वचा, रसना और घ्राण
@@ -369,6 +386,7 @@ indicates that we shall have to include the five organs of action; and also the 
 ।।15.9।। (यह जीव) श्रोत्र, चक्षु, स्पर्शेन्द्रिय, रसना और घ्राण (नाक) इन
 इन्द्रियों तथा मन को आश्रय करके अर्थात् इनके द्वारा विषयों का सेवन करता
 है।।
+</details>
 </details>
 
 </div>

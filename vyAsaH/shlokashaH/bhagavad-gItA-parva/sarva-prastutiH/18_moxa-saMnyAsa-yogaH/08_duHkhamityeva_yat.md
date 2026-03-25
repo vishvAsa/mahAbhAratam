@@ -23,8 +23,9 @@ title = "08 दुःखमित्येव यत्कर्म"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.8॥ यद्यपि परम्परया मोक्षसाधनभूतं **कर्म** तथापि दुःखात्मकद्रव्यार्जनसाध्यत्वाद् बह्वायासरूपतया **कायक्लेश**करत्वाच् च मनसो ऽवसादकरम् इति तद्भीत्या योगनिष्पत्तये ज्ञानाभ्यास एव यतनीय इति यो महायज्ञाद्याश्रमकर्म परि**त्यजेत् स राजसं** रजोमूलं **त्यागं कृत्वा** तद् अयथा अवस्थितशास्त्रार्थरूपम् इति ज्ञानोत्पत्तिरूपं **त्यागफलं न लभेत्।**अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी॥ (गीता 18।31) इति हि वक्ष्यते। न हि कर्म दृष्टद्वारेण मनःप्रसादहेतुः। अपि तु भगवत्प्रसादद्वारेण।
@@ -39,12 +40,14 @@ title = "08 दुःखमित्येव यत्कर्म"
 
 18.8 Although actions constitute the indirect menas for release, yet they produce mental depression, since they can be done only by collecting materials involving painful effort and since they cause bodily strain on account of their reiring strenuous exertion. If, on account of such fear, one decides that the practice of knowledge alone should be tried for perfection in Yoga, and abandons actions like the great sacrifices applicable to one's station in life, he practises renunciation rooted in Rajas. Since that is not the meaning of the Sastras, one cannot win the fruit of renunciation in the form of the rise of knowledge. So it will be shown further one: 'That reason by which one erroneously knows, O Arjuna, is Rajasika' (18.31). In fact, actions do not directly cause purity of the mind but indirectly by winning the grace of God.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.8॥ --,**दुःखम् इति एव यत् कर्म कायक्लेशभयात्** शरीरदुःखभयात् **त्यजेत्; सः कृत्वा राजसं** रजोनिर्वर्त्यं **त्यागं** नैव **त्यागफलं** ज्ञानपूर्वकस्य सर्वकर्मत्यागस्य फलं मोक्षाख्यं न **लभेत्** नैव लभेत॥ कः पुनः सात्त्विकः त्यागः इति; आह --,
 </details>
@@ -105,12 +108,14 @@ again, is the renunciation based on sattva;
 राजसं त्यागं कृत्वा नैव त्यागफलं सात्त्विकत्यागस्य फलं ज्ञाननिष्ठालक्षणं
 नैव लभेन्न लभेत।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.8॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -119,12 +124,14 @@ again, is the renunciation based on sattva;
 
 ॥18.8॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.4 -- 18.11॥ तदत्रैव विशेषनिर्णयाय मतान्युपन्यस्यति -- त्याज्यमिति। दोषवत् हिंसादिमत्त्वात् +++(S हिंसादित्त्वात ;N हिंसादिसत्त्वात् )+++ पापयुक्तम्। तत् कर्म,+++(S;;N substitutes फलं for कर्म )+++ त्याज्यम्; न सर्वं शुभफलम् इति केचित् त्यागे विशेषं मन्यन्ते साङ्ख्यगृह्या इव। अन्ये तु मीमांसककञ्चुकानुप्रविष्टाः +++(K मीमांसाकंचुक -- )+++ -- क्रत्वर्थोऽहि शास्त्रादवगम्यते +++(S. IV; i; 2 )+++ इति। तथातस्माद्या वैदिकी हिंसा -- +++(SV. I; i; 2; verse 23 )+++इत्यादिनयेन इतिकर्तव्यतांशभागिनी हिंसा +++(S;;N omit हिंसा )+++ हिंसैव न भवति। न हिंस्यात् इति सामान्यशास्त्रस्य तत्र बाधनात् श्येनाद्येव तु ( श्येन द्येव न तु ) हिंसा। फलांशे भावनायाश्च प्रत्ययोऽनुविधायकः +++(SV; I; i; 2; verse 222 )+++ इति। अ \[ तोऽ \] न्यान् हिंसादियोगिनोऽपि न त्यजेत्। शास्त्रैकशरणकार्याकार्यविभागाः पण्डिता इति मन्यन्ते॥3॥ निश्चयमित्यादि अभिधीयते इत्यन्तम्। तत्र त्वयं निश्चयः -- प्राग्लक्षितगुणस्वरूपवैचित्र्यात् त्यागस्यैव सत्त्वरजस्तमोमय्या चित्तवृत्त्या क्रियमाणस्य तद्विशिष्टस्वभावावभासित \[ त्वात् \] वस्तुस्थित्या त्यागो नाम परब्रह्मविदां +++(; N परमब्रह्म -- )+++ सिद्ध्यसिद्ध्यादिषु समतया रागद्वेषपरिहारेण फलप्रेप्साविरहेण ( फलप्रेक्षा) कर्मणां निर्वर्त्तनम्। अत एव आह -- राजसं तामसं च त्यागं कृत्वा न कश्चित् ( न किंचित् ) \[ त्याग \] फलसंबन्धः; इति। सात्त्विकस्य तु त्यागात् ( त्यागस्य )। शास्त्रार्थपालनात्मकं फलम्। त्यक्तगुणग्रामग्रहस्य पुनर्मुनेः सत्यतः त्यागवाचो युक्तिरुपपत्तिमती।
 </details>
@@ -133,12 +140,14 @@ again, is the renunciation based on sattva;
 
 18.8 See Comment under 18.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.8॥ प्रसङ्गादेव राजसमप्याह -- दुःखमिति। नियतस्यैव यस्य परम्परया
 मोक्षसाधनभूतस्यापि दुःखात्मकद्रव्यार्जनसाध्ययज्ञात्मकतया बह्वायासरूपतया
@@ -153,20 +162,26 @@ again, is the renunciation based on sattva;
 आयाससाध्यभयेन यत्कर्म यस्त्यजेत्; स राजसं त्यागं कृत्वा त्यागफलं
 मत्प्रसादादिरूपं न लभेदेव; न प्राप्नोत्येवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.8॥ राजसं त्यागमाह **-- दुःखमिति।** अकर्त्रात्मबोधं विना केवलं
 दुःखमित्येवं ज्ञात्वा शरीरायासभयान्नित्यं कर्म त्यजेदिति
 यत्तादृशस्त्यागो राजसः; दुःखस्य राजसत्वात्। अतस्तं राजसं त्यागं कृत्वा
 राजसः पुरुषस्त्यागस्य फलं ज्ञाननिष्ठालक्षणं नैव लभत इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.8 He who renounces acts as painful from fear of bodily suffering,
@@ -202,11 +217,13 @@ just because it is painful-that person, having \[thus\] made relinishment, an ac
 कृत्वा performing; राजसम् Rajasic; त्यागम् abandonment; न not; एव even;
 त्यागफलम् the fruit of abandonment; लभेत् obtains.Commentary Phalam Fruit or reward Moksha or emancipation which is the reward of renunciation of all actions accompanied with wisdom.Determination and persistence are reired for the performance of religious duties and actions. One may begin action but may relinish it before it is completed on account of some difficulties or physical suffering. What then is Sattvic renunciation The Lord says --
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.8।। जो कुछ कर्म है, वह दुःखरूप ही है -- ऐसा समझकर कोई शारीरिक
@@ -301,6 +318,7 @@ just because it is painful-that person, having \[thus\] made relinishment, an ac
 ।।18.8।। जो मनुष्य, कर्म को दु:ख समझकर शारीरिक कष्ट के भय से त्याग देता
 है, वह पुरुष उस राजसिक त्याग को करके कदापि त्याग के फल को प्राप्त नहीं
 होता है।।
+</details>
 </details>
 
 </div>

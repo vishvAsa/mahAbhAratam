@@ -23,8 +23,9 @@ title = "17 युक्ताहारविहारस्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.17॥ मिता**हारविहारस्य** मितायासस्य मित**स्वप्नावबोधस्य** सकल**दुःखहा** बन्धनाशनो **योगः** सम्पन्नो **भवति।**
@@ -39,12 +40,14 @@ title = "17 युक्ताहारविहारस्य"
 
 6.17 The 'yoga which destroys all sorrows,' i.e., unties bondages, is successfully practised by him who is temperate in eating and recreation, temperate in exertion, and temperate in sleep and vigil.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.17॥ **युक्ताहारविहारस्य** आह्रियते इति आहारः अन्नम् विहरणं विहारः पादक्रमः तौ युक्तौ नियतपरिमाणौ यस्य सः युक्ताहारविहारः तस्य तथा **युक्तचेष्टस्य** युक्ता नियता चेष्टा यस्य **कर्मसु** तस्य तथा **युक्तस्वप्नावबोधस्य** युक्तौ स्वप्नश्च अवबोधश्च तौनियतकालौ यस्य तस्य युक्त्ताहारविहारस्य युक्त्तचेष्टस्य कर्मसु युक्त्तस्वप्नावबोधस्य योगिनो **योगो भवति दुःखहा** दुःखानि सर्वाणि हन्तीति दुःखहा सर्वसंसारदुःखक्षयकृत योगः भवतीत्यर्थः॥ अथ अधुना कदा युक्तो भवति इत्युच्यते
 </details>
@@ -125,12 +128,14 @@ stated:
 मध्ये स्वपनमिति स्वप्नावबोधयोर्नियतकालत्वम्। एवमन्येऽपि योगशास्त्रोक्ता
 नियमा द्रष्टव्याः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.17॥ युक्ताहारविहारस्य सोपायाहारादेः। यावता श्रमाद्यभावो भवति
 तावदाहारादेरित्यर्थः।
@@ -147,12 +152,14 @@ stated:
 कीदृशं इत्यत आह **यावते**ति। आदिपदेनेन्द्रियोत्सेकालस्यादेः सङ्ग्रहः।
 उपायेन साहित्यं नाम तदविरोधित्वम्। तच्चैवम्भूतमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.16 6.17॥ योगोऽस्तीति। युक्ताहारेति। आहारेषु +++(N योऽपि आहारेषु)+++ आह्रियमाणेषु विषयेषु +++(omits विषयेषु)+++। विहारः उपभोगाय प्रवृत्तिः +++(SK [n] उपयोगाय प्रवृत्तिः)+++। तस्याश्च युक्तत्वं नात्यन्तासक्तिर्नात्यन्तपरिवर्जनम्। एवं सर्वत्र। शिष्टं स्पष्टम्। जागरत इत्यादि मुनेः प्रमाणत्वात्+++(N जाग्रत इति मनःप्रमाणत्वात्)+++ वेदवत्। एवमन्यत्रापि।
 </details>
@@ -161,12 +168,14 @@ stated:
 
 6.16-17 Yogosti etc. Yuktahara etc. For foods : for sense-objects that are being brought \[by sense-organs\]. Effort : activity for enjoying \[them\]. Its appropriateness is neither to have unlimited indulgence, nor to have unlimited abstention. The same is in all cases. The rest \[of the text\] is clear. On the authority of the Sage \[Vyasa\], the form jagaratah etc. \[may be viewed correct\] as those in the Vedic literature. The same is in other similar instances also.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.16 6.17॥ तमेव परावृत्त्या द्रढयति नात्यश्नत इति स्पष्टम्। किन्तु
 युक्ताहारविहारस्य योगो दुःखहा भवति।
@@ -182,19 +191,25 @@ stated:
 सेवासामग्रीसम्पादनादिष्ववबोधः एतादृशौ तौ यस्य। तस्य योगो भावात्मको
 मत्सङ्गात्मको दुःखहा तद्भावाभावतापादिहर्ता भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.17॥ तर्हि कथंभूतस्य योगो भवतीत्यत आह **युक्तेति।** युक्तो नियत आहारो
 विहारश्च गतिर्यस्य कर्मसु कार्येषु युक्ता नियतैव चेष्टा यस्य युक्तौ
 नियतौ स्वप्नावबोधौ निद्राजागरौ यस्य तस्य दुःखनिवर्तको योगो भवति सिध्यति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.17 Yoga becomes the destroyer of sorrows to him who is temperate in food and recreation, who is temperate in actions, who is temperate in sleep and wakefulness.
@@ -227,11 +242,13 @@ stated:
 Therefore he was not able to attain to success in Yoga. Too much of austerity is not necessary for Selfrealisation. This is condemned by the Lord in chapter XVII; verses 5 and 6. Austerity should not mean selftorture. Then it becomes diabolical. The Buddi Yoga of Krishna is a wise approach to austerity. Some aspirants take asceticism as the goal it is only the means but not the end. The nervous system is extremely,sensitive. It responds even to very slight changes and causes distraction of the mind. It is; therefore; very necessary that you should lead a very regulated and disciplined life and should be moderate in food; sleep and recreation. Take measured food. Sleep and wake up at the prescribed time. Sleeo at 9 or 10 p.m. and get up at 3 or 4 a.m.
 Only then will you attain to success in Yoga which will kill all sorts or pains and sorrows of this life.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.17।। दुःखोंका नाश करनेवाला योग तो यथायोग्य आहार और विहार करनेवालेका,
@@ -290,6 +307,7 @@ Only then will you attain to success in Yoga which will kill all sorts or pains 
 ।।6.17।। उस पुरुष के लिए योग दु:खनाशक होता है, जो युक्त आहार और विहार
 करने वाला है, यथायोग्य चेष्टा करने वाला है और परिमित शयन और जागरण करने
 वाला है।।
+</details>
 </details>
 
 </div>

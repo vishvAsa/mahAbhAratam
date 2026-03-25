@@ -23,8 +23,9 @@ title = "29 अपाने जुह्वति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.29॥**अपरे** कर्मयोगिनः प्राणायामेषु निष्ठां कुर्वन्ति। ते च त्रिविधाः पूरकरेचककुम्भकभेदेन। **अपानेजुह्वति प्राणम्** इति पूरकः **प्राणे अपानम्** इति रेचकः **प्राणापानगती रुद्ध्वा प्राणान् प्राणेषु जुह्वति** इति कुम्भकः। प्राणायामपरेषु त्रिष्व् अप्य् अनुषज्यते **नियताहारा** इति। द्रव्ययज्ञप्रभृतिप्राणायामपर्यन्तेषु कर्मयोगभेदेषु स्वसमीहितेषु प्रवृत्ता एते सर्वेसहयज्ञैः प्रजाः सृष्ट्वा (गीता 3।10) इत्य् अभिहितमहायज्ञपूर्वकनित्यनैमित्तिककर्मरूपयज्ञविदस् तन्निष्ठास् तत एव क्षपितकल्मषाः।
@@ -41,12 +42,14 @@ title = "29 अपाने जुह्वति"
 (Panca-Maha-Yajna), as alluded to in 'Creating men along with the sacrifices' (3.10). Because of this only, their sins are done away with.
 Those who are engaged in Karma Yoga by sustaining their bodies only by the ambrosia of sacrificial remains will go to the eternal Brahman. 'Go to Brahman' here means realise the self which has Brahman for Its soul.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.29॥ **अपाने** अपानवृत्तौ **जुह्वति** प्रक्षिपन्ति **प्राणं** प्राणवृत्तिम् पूरकाख्यं प्राणायामं कुर्वन्तीत्यर्थः। **प्राणे अपानं तथा अपरे** जुह्वति रेचकाख्यं च प्राणायामं कुर्वन्तीत्येतत्। **प्राणापानगती** मुखनासिकाभ्यां वायोः निर्गमनं प्राणस्य गतिः तद्विपर्ययेण अधोगमनम् अपानस्य गतिः ते प्राणापानगती एते **रुद्ध्वा** निरुध्य **प्राणायामपरायणाः** प्राणायामतत्पराः कुम्भकाख्यं प्राणायामं कुर्वन्तीत्यर्थः॥ किञ्च
 </details>
@@ -178,12 +181,14 @@ Puraka.\]
 एतादृशश्चतुर्विधः प्राणायामेऽपाने जुह्वति प्राणमित्यादिना सार्धेन
 श्लोकेन दर्शितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.29॥ अपरे प्राणायामपरायणाः प्राणमपाने जुह्वति अपानं च प्राणे।
 कुम्बकस्था एव भवन्तीत्यर्थः।
@@ -197,12 +202,14 @@ Puraka.\]
 इति। परायणाः इत्यतः परंप्राणापानगती रुद्धा इति द्रष्टव्यम्। अभिप्रायमाह
 **कुम्भकस्था एवे**ति। एवशब्देनापव्याख्यानं व्यावर्तयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.29 4.30॥ एवं द्रव्ययज्ञः तपोयज्ञो योगयज्ञश्चोक्तलक्षणाः। स्वाध्यायज्ञानयज्ञाश्च ये ते संप्रति लक्ष्यन्ते अपाने इति। अपरे इति। प्राणम् उदयमानं +++(N उदीयमानम्)+++ नादं +++(S omit नादम्)+++ प्रणवादिमात्रालयान्तम् अपाने अस्तं याति स्वानन्दान्तः प्रवेशात्मनि जुह्वति इति पिण्डस्थैर्यात्मा स्वाध्यायः। शिष्यात्मना च नयानयग्रहणाय केचिदस्तं यान्तम् उदी(द) यमाने संवेश्य तदेकीकारेण अपवर्गदानात्+++(S अपवर्गात्)+++ आत्मनि शिष्यात्मनि च शोधनबोधनप्रवेशनयोजनरूपे स्वाध्याययज्ञे +++(S N स्वाध्यायज्ञाने)+++ स्वपरानन्दमये प्रतिष्ठितमनसः। अत एव पूरकः प्रथममुक्तः चरमं रेचकः। प्रथमेन च पादेन +++(N भागेन)+++ विषयभोगान्तर्मुखीकरणं द्वितीयेन महाविदेहधारणाक्रमाद्विषयग्रहणाय निस्सरणं +++(N विसारणम्)+++ ध्वन्यते। अतश्च स्वाध्याययज्ञेभ्यो न अन्ये ज्ञानयज्ञाः। एत एवोक्तव्यापारपरिशीलनावशपरिपूरितस्वात्मशिष्यात्ममनोरथाः द्वे अप्येते गती निरुध्य आहारं विषयभोगात्मकं नियम्य प्राणान् सकलचित्तवृत्त्युदयान् प्राणेषु परनिरानन्दोल्लासेषु जुह्वति कुंभकप्रशान्त्या अर्पयन्ति +++(S omits अर्पयन्ति)+++। सर्वे चैते द्रव्ययज्ञात् प्रभृति ज्ञानयज्ञान्तं यज्ञस्य तत्त्वज्ञाः तेनैव च क्षपितकल्मषाः समूलोन्मूलितभेदवासनामयमहामोहाः।
 </details>
@@ -211,12 +218,14 @@ Puraka.\]
 
 4.29 See Comment under 4.30
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.29॥ योगधारणवतामपि मध्ये केचित् प्राणायामपराः केचिन्नियताहारा
 उत्तममध्यमा इति तान्निरूपयति अपानेति। अधोवृत्तिप्राणा ऊर्द्धृवृत्तिरिति
@@ -229,20 +238,26 @@ Puraka.\]
 तथा अपरे रेचकविधिना अपानं प्राणे। कुम्भकविधिना प्राणापानयोर्गतिनिरोधं
 कृत्वा प्राणायामपराः ईश्वरचिन्तननिष्ठा भवन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.29॥ किंच **अपान इति।** अपाने अधोवृत्तौ प्राणमूर्ध्ववृत्तिं पूरकेण
 जुह्वति पूरककाले प्राणमपानेनैकीकुर्वन्ति। तथा कुम्भकेन
 प्राणापानयोरूर्ध्वाधोगती रुद्ध्वा रेचककालेऽपानं प्राणे जुह्वति। एवं
 पूरककुम्भकरेचकैः प्राणायामपरायणा अपरे इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.29 Others, with restricted diet, are devoted to the control of breath.
@@ -276,11 +291,13 @@ Some sacrifice the inward breath in the outward breath. Similarly others sacrifi
 रुद्ध्वा restraining; प्राणायामपरायणाः solely absorbed in the restraint of breath.Commentary Some Yogis practise Puraka (inhalation); some Yogis practise Rechaka (exhalation);,and some Yogis practise Kumbhaka
 (retention of breath).The five subPranas and the other Pranas are merged in the chief Prana (MukhyaPrana) by the practice of Pranayama. When the Prana is controlled; the mind also stops its wanderings and becomes steady the senses are also thinned out and merged in the Prana. It is through the vibration of Prana that the activities of the mind and the senses are kept up. If the Prana is controlled; the mind; the intellect and the senses cease to function.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.29 -- 4.30।। दूसरे कितने ही प्राणायामके परायण हुए योगीलोग अपानमें
@@ -358,6 +375,7 @@ Some sacrifice the inward breath in the outward breath. Similarly others sacrifi
 ।।4.29।। अन्य (योगीजन) अपानवायु में प्राणवायु को हवन करते हैं, तथा
 प्राण में अपान की आहुति देते हैं, प्राण और अपान की गति को रोककर, वे
 प्राणायाम के ही समलक्ष्य समझने वाले होते हैं।।
+</details>
 </details>
 
 </div>

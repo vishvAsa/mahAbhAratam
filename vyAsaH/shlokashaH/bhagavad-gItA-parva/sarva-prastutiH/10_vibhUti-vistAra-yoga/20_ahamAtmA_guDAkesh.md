@@ -23,8 +23,9 @@ title = "20 अहमात्मा गुडाकेश"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.20॥ सर्वेषां भूतानाम् मम शरीरभूतानाम् आशये हृदये **अहम्** आत्मतया अव**स्थितः। आत्मा** हि नाम शरीरस्य सर्वात्मना आधारो नियन्ता शेषी च। तथा वक्ष्यते -- सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनं च (गीता 15।15)ईश्वरः सर्वभूतानां हृद्देशोऽर्जुन तिष्ठति। भ्रामयन् सर्वभूतानि यन्त्रारूढानि मायया॥ (गीता 18।61) इति। श्रूयते च -- यः सर्वेषु भूतेषु तिष्ठन्सर्वेभ्यो भूतेभ्योऽन्तरो यं सर्वाणि भूतानि न विदुः। यस्य सर्वाणि भूतानि शरीरं यः सर्वाणि भूतायन्तरो यमयति। एष त आत्मान्तर्याम्यमृतः (बृ॰ उ॰ 3।7।15) इतिय आत्मनि तिष्ठन् आत्मनोऽन्तरो यमात्मा न वेद यस्य आत्मा शरीरं य आत्मानमन्तरो यमयति स त आत्मान्तर्याम्यमृतः (श॰ प॰ 14।5।30) इति च। एवं सर्व**भूतानाम्** आत्मतया अवस्थितः **अहं** तेषाम् **आदिर् मध्यं च अन्तश् च;** तेषाम् उत्पत्तिस्थितिप्रलयहेतुर् इत्यर्थः। एवं भगवतः स्वविभूतिभूतेषु सर्वेष्व् आत्मतया अवस्थानं तत्तच्छब्दसामानाधिकरण्यनिर्देशहेतुं प्रतिपाद्य विभूतिविशेषां सामानाधिकरण्येन व्यपदिशति भगवत्य् आत्मतया अवस्थिते हि सर्वे शब्दास् तस्मिन् एव पर्यवस्यन्ति। यथा देवो मनुष्यः पक्षी वृक्ष इत्यादयः शब्दाः शरीराणि प्रतिपादयन्तस् तत्तदात्मनि पर्यवस्यन्ति।  
@@ -48,12 +49,14 @@ immortal Self (Br. U., 3.7.15); and 'He who, dwelling in the self is within the 
 'grammatical co-ordination.' It is a context in which a number of words,
 usually having varying denotations, are used to signify an identical object. This kind of co-ordinate relation occurs in all the following verses in which Sri Krsna eates Himself with various objects having different denotations as Atman, Visnu among the Adityas, Indra, Marici, Sankara, Kubera, etc. Further explanation is given in the commentary.\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.20॥ --,**अहम् आत्मा** प्रत्यगात्मा **गुडाकेश;** गुडाका निद्रा तस्याः ईशः गुडाकेशः; जितनिद्रः इत्यर्थः घनकेश इति वा। सर्वभूताशयस्थितः सर्वेषां भूतानाम् आशये अन्तर्हृदि स्थितः अहम् आत्मा प्रत्यगात्मा नित्यं ध्येयः। तदशक्तेन च उत्तरेषु भावेषु चिन्त्यः अहम् यस्मात् **अहम् एव आदिः भूतानां** कारणं तथा **मध्यं च** स्थितिः **अन्तः** प्रलयश्**च**॥ एवं च ध्येयोऽहम् --,
 </details>
@@ -133,12 +136,14 @@ to be meditated upon thus also:'
 सर्वचेतनवर्गाणामुत्पत्तिस्थितिनाशरूपेण तत्कारणरूपेण चाहमेव ध्येय
 इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.20॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -147,12 +152,14 @@ to be meditated upon thus also:'
 
 ॥10.20॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -161,12 +168,14 @@ to be meditated upon thus also:'
 
 10.20 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.20॥ तत्र प्रथमं योगं लक्षयन्नाह -- अहमिति। गुडाका निद्रा तस्या ईशः
 नियन्ता भवेति निरालस्यतयैव चिन्तनीयमिति सम्बोधयति। अहं स्वांशभूतस्य
@@ -193,20 +202,26 @@ to be meditated upon thus also:'
 लीनानाम्। इदमेवैवकारेण द्योतितम्। अत एव निर्दोषभावेन मदंशात्मसंयोगं
 सर्वेषु चिन्तयेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.20॥ तत्र प्रथममैश्वरं रूपं कथयति **-- अहमिति।** हे गुडाकेश;
 सर्वेषां भूतानामाशयेष्वन्तःकरणेषु
 सर्वज्ञत्वादिगुणैर्नियन्तृत्वेनावस्थितः परमात्माहम्। आदिर्जन्म; मध्यं
 स्थितिः; अन्तः संहारः; सर्वभूतानां जन्मादिहेतुश्चाहमेवेत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.20 I am the Self, O Arjuna, dwelling in the hearts of all beings. I am the beginning, the middle and also the end of all beings.
@@ -242,11 +257,13 @@ even; च and.Commentary O Gudakesa I am the soul (Pratyagatma) which exists in 
 the middle or stay; and the end of all created beings. I am the birth;
 the life and the death of all beings. Meditate on Me as the innermost Self.Gudakesa means either coneror of sleep or thickhaired.He who is able to meditate on the Self with Abheda Bhavana (attitude of nonduality); is a alified aspirant (Adhikari) of the first class. He who is not able to meditate on the Self should think of the Lord in those things which are mentioned below. This type of meditation is for the aspirants of the middle class.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.20।। हे नींदको जीतनेवाले अर्जुन ! सम्पूर्ण प्राणियोंके आदि, मध्य
@@ -328,6 +345,7 @@ the life and the death of all beings. Meditate on Me as the innermost Self.Gudak
 
 ।।10.20।। हे गुडाकेश (निद्राजित्) ! मैं समस्त भूतों के हृदय में स्थित
 सबकी आत्मा हूँ तथा सम्पूर्ण भूतों का आदि, मध्य और अन्त भी मैं ही हूँ।।
+</details>
 </details>
 
 </div>

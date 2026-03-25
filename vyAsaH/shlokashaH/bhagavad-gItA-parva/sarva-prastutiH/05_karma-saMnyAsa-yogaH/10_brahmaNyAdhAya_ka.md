@@ -23,8 +23,9 @@ title = "10 ब्रह्मण्याधाय कर्माणि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.10॥ ब्रह्मशब्देन प्रकृतिर् इह उच्यतेमम योनिर्महद्ब्रह्म (गीता 14।3) इति हि वक्ष्यते। इन्द्रियाणां प्रकृतिपरिणामविशेषरूपत्वेन इन्द्रियाकारेण अवस्थितायां प्रकृतौपश्यन् श्रृण्वन् इत्यादिना उक्तप्रकारेण **कर्मण्य् आधाय** फल**सङ्गं त्यक्त्वा**नैव किञ्चित् करोमि इति **यः** कर्माणि **करोति** **स** प्रकृतिसंसृष्टतया वर्तमानो ऽपि प्रकृत्यात्माभिमानरूपेण सम्बन्धहेतुना **पापेन न लिप्यते पद्मपत्रमिवाम्भसा** यथा पद्मपत्रम् अम्भसा संसृष्टम् अपि न लिप्यते तथा न लिप्यते इत्यर्थः।
@@ -39,12 +40,14 @@ title = "10 ब्रह्मण्याधाय कर्माणि"
 
 5.10 Here the term, Brahman denotes Prakrti. Later on Sri Krsna will say: 'The great Brahman is My womb' (14.3). Since Prakrti abides in the form of senses which are particular off-shoots of Prakrti, he who, as said in the passage beginning with 'Even though he is seeing, hearing ৷৷.' (5.8), understands that all actions proceed from Brahman (Prakrti); renounces all attachment while engaging himself in all actions, reflecting, 'I am doing nothing.' Such a person, though existing in contact with Prakrti, is not contaminated by sin which is the result of the wrong identification of the Atman with Prakrti and is the cause of bondage. Just as a lotus leaf is not wetted by water, actions do not affect or defile a person with sin, if he is free from such identification with the body.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.10॥ **ब्रह्मणि** ईश्वरे **आधाय** निक्षिप्य तदर्थं कर्म करोमि इति भृत्य इव स्वाम्यर्थं सर्वाणि **कर्माणि** मोक्षेऽपि फले **सङ्गं त्यक्त्वा करोति यः** सर्वकर्माणि **लिप्यते न स पापेन** न संबध्यते **पद्मपत्रमिव अम्भसा** उदकेन। केवलं सत्त्वशुद्धिमात्रमेव फलं तस्य कर्मणः स्यात्॥ यस्मात्
 </details>
@@ -122,12 +125,14 @@ certainly accrue from such action will be the purification of the heart.
 प्रक्षिप्तेनाम्भसा न लिप्यते तद्वद्भगवदर्पणबुद्ध्यानुष्ठितं कर्म
 बुद्धिशुद्धिफलमेव स्यात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.10॥ सन्न्यासयोगयुक्त एव च कर्मणा न लिप्यत इत्याह ब्रह्मणीति।
 साधननियमस्योपचारत्वव्यावृत्त्यर्थं पुनः पुनः फलकथनम्।
@@ -145,12 +150,14 @@ certainly accrue from such action will be the purification of the heart.
 तदुक्तेरित्यर्थः। सन्न्यासयोगौ मिलितावेव फलसाधनमिति
 नियमोक्तेरुपचारत्वमपि सम्भवति लोकवत्। तन्निवृत्त्यर्थमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.7 5.11॥ योगयुक्त इत्यादि आत्मसिद्धये इत्यन्तम्। सर्वभूतानामात्मभूतः आत्मा यस्य स सर्वमपि कुर्वाणो न लिप्यते अकरणप्रतिषेधारूढत्वात्। अत एव दर्शनादीनि कुर्वन्नपि असौ एवं धारयति प्रतिपत्तिदार्ढ्येन निश्चिनुते चक्षुरादीनामिन्द्रियाणां यदि स्वविषयेषु प्रवृत्तिः मम किमायातम् न हि अन्यस्यकृतेनापरस्य +++(S अन्यस्य कृतेनान्यस्य अन्यकृतेन परस्य)+++ लेपः इति। तदेव ब्रह्मणि कर्मणां समर्पणम्। अत्र चिह्नम् अस्य गतसङ्गता। अतो न लिप्यते। योगिनश्च केवलैः सङ्गरहितैः परस्परानपेक्षिभिश्च कायादिभिः कुर्वन्ति कर्माणि सङ्गाभावात्।
 </details>
@@ -159,12 +166,14 @@ certainly accrue from such action will be the purification of the heart.
 
 5.10 See Comment under 5.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.10॥ न चायं मुनिः केवलं साङ्ख्यमार्गीयः कर्मसन्न्यासाभावात् किन्तु
 योगमार्गीयस्तत्त्ववित् कर्मकरणादिति विवेचयति ब्रह्मणीति। अत्र ब्रह्मपदं
@@ -184,10 +193,13 @@ certainly accrue from such action will be the purification of the heart.
 तत्र दृष्टान्तमाह - पद्मपत्रमिवेति।  
 **अम्भसा पद्मपत्रमिव**। जले तिष्ठन्नपि तद्यथा न लिप्तं भवति तथेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.10॥ तर्हि यस्य करोमीत्यभिमानोऽस्ति तस्य कर्मलेपो दुर्वारः
 अविशुद्धचित्तत्वात्संन्यासोऽपि नास्तीति महत्संकटमापन्नमित्याशङ्क्याह
@@ -195,10 +207,13 @@ certainly accrue from such action will be the purification of the heart.
 यः कर्माणि करोति असौ पापेन बन्धहेतुतया पापिष्ठेन पुण्यपापात्मकेन कर्मणा
 न लिप्यते। यथा पद्मपत्रमम्भसि स्थितमप्यम्भसा न लिप्यते तद्वत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.10 He who acts without attachment, reposing all actions on Brahman
@@ -231,11 +246,13 @@ certainly accrue from such action will be the purification of the heart.
 attachment; त्यक्त्वा having abandoned; करोति acts; यः who; लिप्यते is tainted; न not; सः he; पापेन by sin; पद्मपत्रम् lotusleaf; इव like;
 अम्भसा by water.Commentary Chapter IV verses 18; 20; 21; 22; 23; 37; 41 Chapter V verses 10; 11 and 12 all convey the one idea that the Yogi who does actions without egoism and attachment to results or fruits of the actions; which he regards as offerings unto the Lord; is not tainted by the actions (Karma). He has no attachment even for Moksha. He sees inaction in action. All his actions are burnt in the fire of wisdom. He escapes from the wheel of Samsara. He is freed from the round of births and deaths. He gets purity of heart and through purity of heart attains to the knowledge of the Self. Through the knowledge of the Self he is liberated. This is the gist of the above ten verses. (Cf.III.30)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.10।। जो (भक्तियोगी) सम्पूर्ण कर्मोंको भगवान् में अर्पण करके और
@@ -314,6 +331,7 @@ attachment; त्यक्त्वा having abandoned; करोति acts; 
 
 ।।5.10।। जो पुरुष सब कर्म ब्रह्म में अर्पण करके और आसक्ति को त्यागकर
 करता है, वह पुरुष कमल के पत्ते के सदृश पाप से लिप्त नहीं होता।।
+</details>
 </details>
 
 </div>

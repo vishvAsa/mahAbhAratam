@@ -23,8 +23,9 @@ title = "10 वीतरागभयक्रोधा मन्मया"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.10॥ मदीयजन्मकर्मतत्त्वज्ञानाख्येन **तपसा पूता बहव** एवं संवृत्ताः। तथा च श्रुतिस् तस्य धीराः परिजानन्ति योनिम् इति। धीरा धीमतामग्रेसरा एव तस्य जन्मप्रकारं जानन्ति इत्यर्थः। न केवलं देवमनुष्यादिरूपेण अवतीर्य मत्समाश्रयणापेक्षाणां परित्राणं करोमि। अपि तु
@@ -41,12 +42,14 @@ title = "10 वीतरागभयक्रोधा मन्मया"
 (Tai. A., 3.13.1). 'Dhiras' means the foremost among the wise. The
 meaning is the wise know the manner of His birth thus. It is not that I protect only those who resort to Me in incarnations in the shapes of gods, men etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.10॥ **वीतरागभयक्रोधाः** रागश्च भयं च क्रोधश्च वीताः विगताः येभ्यः ते वीतरागभयक्रोधाः **मन्मयाः** ब्रह्मविदः ईश्वराभेददर्शिनः **मामेव** च परमेश्वरम् **उपाश्रिताः** केवलज्ञाननिष्ठा इत्यर्थः। **बहवः** अनेके **ज्ञानतपसा** ज्ञानमेव च परमात्मविषयं तपः तेन ज्ञानतपसा **पूताः** परां शुद्धिं गताः सन्तः **मद्भावम्** ईश्वरभावं मोक्षम् **आगताः** समनुप्राप्ताः। इतरतपोनिरपेक्षज्ञाननिष्ठा इत्यस्य **लिङ्गम्** ज्ञानतपसा इति विशेषणम्॥ तव तर्हि रागद्वेषौ स्तः येन केभ्यश्चिदेव आत्मभावं प्रयच्छसि न सर्वेभ्यः इत्युच्यते
 </details>
@@ -140,12 +143,14 @@ answer is:
 जीवन्मुक्ताः सन्तो मद्भावं मद्विषयं भावं रत्याख्यं प्रेमाणमागता इति
 वा। तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते इति हि वक्ष्यति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.10॥ सन्ति च तथा मुक्ता इत्याह वीतरागेति। मन्मयाः मत्प्रचुराः सर्वत्र
 मां विना न किञ्चित्पश्यन्तीत्यर्थः।
@@ -159,12 +164,14 @@ answer is:
 भगवान् प्रचुरः को विशेषो ज्ञानिना इत्यत आह **सर्वत्रे**ति। सर्वेषु
 पदार्थेषु किञ्चित्सत्तादिकम्। मदायत्तमेव सर्वे पश्यन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.10॥ वीतेति। तथा चैवं विदन्तो मन्मयत्वात् परिपूर्णच्छत्वात् क्रोधादिरहिताः निष्फलं कर्म करणीयं कुर्वाणाः बहवो मत्स्वरूपमवाप्ताः।
 </details>
@@ -173,12 +180,14 @@ answer is:
 
 4.10 Vita-etc. Therefore many persons, who realise in this manner are free anger etc., because they have \[all\] their desires completely fulfilled, due to their being full of Me; and who perform actions which are to be performed and which do not yield any fruit \[for them\] - they have attained My own nature. For-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.10॥ किञ्च यद्यहं प्राकृतजन्मकर्मा तदा मदुपाश्रयान्न कोऽपि मुक्तः
 स्यात् दृश्यन्ते तु मुक्त्वा इत्याह वीतेति। मां
@@ -205,10 +214,13 @@ answer is:
 ज्ञानरूपेण पश्यन्तस्तत्रैव लीना भूत्वा आगताः प्राप्तजन्मानो मद्भावं
 मोक्षं प्राप्नुवन्ति। कीदृशाः वीतरागभयक्रोधा ज्ञानप्रतिपक्षरहिताः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.10॥ कथं जन्मकर्मज्ञानेन त्वत्प्राप्तिः स्यादित्यत्राह **वीतरागेति।**
 अहं शुद्धसत्त्वावतारैर्धर्मपरिपालनं करोमीति मदीयं परमकारुणिकत्वं
@@ -222,10 +234,13 @@ answer is:
 रप्रसादलब्धज्ञानेनाज्ञाननिवृत्तेः शुद्धस्य सतश्चिदंशेन तदैक्यमुक्तमिति
 द्रष्टव्यम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.10 Freed from desire, fear and wrath, absorbed in Me, depending upon Me, purified by the austerity of knowledge, many have attained My state.
@@ -262,11 +277,13 @@ attachment to senseobjects ceases. When he realises he is the constant;
 indestructible; eternal Self and that change is simply a ality of the body; then he becomes fearless. When he becomes desireless; when he is free from selfishness; when he beholds the Self only everywhere; how can anger arise in himHe who takes refuge in Brahman or the Absolute becomes firmly devoted to Him. He becomes,absorbed in Him (Brahmalina or Brahmanishtha). Jnanatapas is the fire of wisdom. Just as fire burns cotton; so also this Jnanatapas burns all the latent tendencies
 (Vasanas); cravings (Trishnas); mental impressions (Samskaras); sins and all actions; and purifies the aspirants. (Cf.II.56IV.19to37).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.10।। राग, भय और क्रोधसे सर्वथा रहित, मेरेमें ही तल्लीन, मेरे ही
@@ -345,6 +362,7 @@ indestructible; eternal Self and that change is simply a ality of the body; then
 
 ।।4.10।। राग भय और क्रोध से रहित मनमय मेरे शरण हुए बहुत से पुरुष ज्ञान
 रुप तप से पवित्र‌ हुए मेरे स्वरुप को प्राप्त हुए हैं।।
+</details>
 </details>
 
 </div>

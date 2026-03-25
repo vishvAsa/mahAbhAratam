@@ -23,8 +23,9 @@ title = "32 आत्मौपम्येन सर्वत्र"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.32॥ आत्मनश् च अन्येषां च आत्मनाम् असङ्कुचितज्ञानैकाकारतया **औपम्येन** स्वात्मनि च अन्येषु **सर्वत्र** वर्तमानं पुत्रजन्मादिरूपं **सुखं** तन्मरणादिरूपं च **दुःखम्** असम्बन्धसाम्यात् **समं यः पश्यति** परपुत्रजन्ममरणादिसमं स्वपुत्रजन्ममरणादिकं यः पश्यति इत्यर्थः। **स योगी** परमयोगकाष्ठं गतो **मतः।**
@@ -39,12 +40,14 @@ title = "32 आत्मौपम्येन सर्वत्र"
 
 6.32 (iv) He who - because of the similarity between his own self and other selves, as they are all constituted similarly of uncontracted knowledge in their essential being - views the pleasures in the form of the birth of a son and the sorrows in the form of the death of a son of his own and of others, as eal, on the ground of their eal unrelatedness to such pleasures and pains to him. Viewing his own pleasures and pains of the above description as being not different from those of others of the same kind - tht Yogin is deemed the highest; he is judged as having reached the summit of Yoga. \[The idea is to prevent misconstruing the verse as meaning that one shares the joy and misery of all as his own. It means only that the highest type of yogins understand that the self is unrelated to the pain and pleasures of his own body-mind. He understands also that the same is the case with other selves.\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.32॥ आत्मौपम्येन आत्मा स्वयमेव उपमीयते अनया इत्युपमा तस्या उपमाया भावः औपम्यं तेन आत्मौपम्येन सर्वत्र सर्वभूतेषु समं तुल्यं **पश्यति यः अर्जुन** स च किं समं पश्यति इत्युच्यते यथा मम **सुखम्** इष्टं तथा सर्वप्राणिनां सुखम् अनुकूलम्। **वा**शब्दः चार्थे। **यदि वा** यच्च **दुःखं** मम प्रतिकूलम् अनिष्टं यथा तथा सर्वप्राणिनां दुःखम् अनिष्टं प्रतिकूलं इत्येवम् आत्मौपम्येन सुखदुःखे अनुकूलप्रतिकूले तुल्यतया सर्वभूतेषु समं पश्यति न कस्यचित् प्रतिकूलमाचरति अहिंसक इत्यर्थः। यः एवमहिंसकः सम्यग्दर्शननिष्ठः **स योगी परमः** उत्कृष्टः **मतः** अभिप्रेतः सर्वयोगिनां मध्ये॥ एतस्य यथोक्तस्य सम्यग्दर्शनलक्षणस्य योगस्य दुःखसंपाद्यतामालक्ष्य शुश्रूषुः ध्रुवं तत्प्राप्त्युपायम् **अर्जुन उवाच**
 </details>
@@ -259,12 +262,14 @@ attainment, said:
 रागद्वेषशून्यतया यः स्वपरसुखदुःखादिषु समदृष्टिः स परमो योगी मतः यस्तु
 विषमदृष्टिः स तत्त्वज्ञानवानप्यपरमो योगीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.32॥ साम्यं प्रकारान्तरेण व्याचष्टे आत्मौपम्येनेति।
 </details>
@@ -276,12 +281,14 @@ attainment, said:
 गोनवयादिवद्भवति सम्यग्दर्शनमित्याकाङ्क्षायामेकत्वमास्थित इति स्वयमेव
 व्याख्यातम्। इदानीं तु भगवदनुवर्तिविषयतयाऽपि व्याचष्ट इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.32॥ आत्मौपम्येनेति। सर्वस्य च सुखदुःखे आत्मतुल्यतया पश्यतीति स्वरूपमेतदनूदितम् न पुनरेषोऽपूर्वो विधिः।
 </details>
@@ -290,12 +297,14 @@ attainment, said:
 
 6.32 Atma-etc. 'That he finds the pleasure and pain of all on analogy of himself'. This is only a statement of characteristic mark \[of the Yogin\]; and it is not an injunction enjoining a new action.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.32॥ अतः स एवंविधो योगी परमो मत इत्याह आत्मौपम्येनेति। स्वसादृश्येन
 सर्वत्र समं दुःखादिकं पश्यन् भवति स परमो योगी मतः।
@@ -311,20 +320,26 @@ attainment, said:
 सुखदुःखरसानुभवो भवति तथैव सर्वेषामप्यस्ति एवं यस्य
 सर्वत्रालौकिकस्फूर्तिः स्यात् स उत्तम इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.32॥ एवंच मां भजतां योगिनां मध्ये सर्वभूतानुकम्पी श्रेष्ठ इत्याह
 **आत्मौपम्येनेति।** आत्मौपम्येन स्वसादृश्येन यथा मम सुखं प्रियं दुःखं
 चाप्रियं तथान्येषामपीति सर्वत्र समं पश्यन् सुखमेव सर्वेषां यो वाञ्छति
 नतु कस्यापि दुःखं स योगी श्रेष्ठो ममाभिमत इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.32 He who, by reason of the similarity of selves everywhere, sees the pleasure or pain as the same everywhere - that Yogin, O Arjuna, is deemed as the nighest.
@@ -358,11 +373,13 @@ and; यदि if; वा or; दुःखम् pain; सः he; योगी Y
 He is ite harmless. He wishes good to all. He is compassionate to all creatures. He has a very soft and large heart. He sees thus eality everywhere as he is endowed with the right knowlede of the Self; as he beholds the Self only everywhere; and as he is established in the unity of the Self. Therefore he is considered as the highest among all Yogis.
 (Cf.VI.47)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.32।। हे अर्जुन ! जो (ध्यानयुक्त ज्ञानी महापुरुष) अपने शरीरकी उपमासे
@@ -415,6 +432,7 @@ He is ite harmless. He wishes good to all. He is compassionate to all creatures.
 
 ।।6.32।। हे अर्जुन ! जो पुरुष अपने समान सर्वत्र सम देखता है, चाहे वह सुख
 हो या दु:ख, वह परम योगी माना गया है।।
+</details>
 </details>
 
 </div>

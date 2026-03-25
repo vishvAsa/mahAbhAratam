@@ -23,8 +23,9 @@ title = "41 व्यवसायात्मिका"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.41॥**इह** शास्त्रीये सर्वस्मिन् कर्मणि **व्यवसायात्मिका बुद्धिर् एका।** मुमुक्षुणा अनुष्ठेये कर्मणि बुद्धिः **व्यवसायात्मिका बुद्धिः**। **व्यवसायो** निश्चयः। सा हि **बुद्धिः** आत्म-याथात्म्य-निश्चय-पूर्विका। 
@@ -62,12 +63,14 @@ title = "41 व्यवसायात्मिका"
 (Kamya-karmas) also should be performed according to one's own capacity,
 after abandoning all desire for fruits and with the conviction that they also, when performed in that way, form the means for attainment of release. They should be looked upon as eal to obligatory and occasional rites suited to one's own station and stage in life. Sri Krsna condemns those who perform acts for the attainment of objects of desire:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.41॥  
   
@@ -203,12 +206,14 @@ arising from the right source of knowledg.
 तत्फलकामानां बुद्धीनामानन्त्यप्रसिद्धिद्योतनार्थो हिशब्दः। अतः
 काम्यकर्मापेक्षया महद्वैलक्षण्यं शुद्ध्यर्थकर्मणामित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.41॥ योग इमां बुद्धिं शृण्वित्युक्तम् बह्वयो हि बुद्धयो मतभेदात्
 तत्कथमेकत्र निष्ठां करोमि इत्यत आह व्यवसायात्मिकेति।
@@ -234,12 +239,14 @@ arising from the right source of knowledg.
 कदाचिद्विप्रतिपत्तिः यतस्तवैकत्र निष्ठाभावः अप्रामाणिकेषु विद्यमानाऽपि
 विप्रतिपत्तिः किं करिष्यति इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.42॥ न चैषा बुद्धिर् अपूर्वा ऽऽनीयते। किं तर्हि व्यवसायात्मिकेति। व्यवसायात्मिका सर्वस्यैकैव +++(S सर्वस्यैव)+++। सहजा +++(N omits सहजा)+++ धीः निश्चेतव्य-वशात् तु बहुत्वं गच्छति।
 </details>
@@ -248,12 +255,14 @@ arising from the right source of knowledg.
 
 2.41 Vyavasayatmika etc. The knowledge in the form of determination is just one and natural in the case of everyone; but it suffers manifoldedness according to the objects to be determined. Therefore -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.41॥ कुत इत्यपेक्षायामाह व्यवसायेति। इह योगे बुद्धिरेका
 व्यवसायात्मिका। अफलार्थं भगवदर्थं वा कर्म किञ्चित्कर्त्तव्यमिति
@@ -275,10 +284,13 @@ arising from the right source of knowledg.
 कुर्वतां पुंसां काललोपो भवेद्यदि। तत्कर्म तस्य कुर्वन्ति तिस्रः कोट्यो
 महर्षयः इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.41॥ कुत इत्यपेक्षायामुभयोर्वैषम्यमाह **व्यवसायेति।**
 इहेश्वराराधनलक्षणे कर्मयोगे व्यवसायात्मिका परमेश्वरभक्त्यैव ध्रुवं
@@ -290,10 +302,13 @@ arising from the right source of knowledg.
 नतु तथा काम्यं कर्मअग्निहोत्रं जुहुयात्स्वर्गकामःदध्नेन्द्रियकामो
 जुहुयात् इति अतो महद्वैषम्यमिति भावः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.41 In this (Karma Yoga), O Arjuna, the resolute mind is one-pointed;
@@ -326,11 +341,13 @@ the minds of the irresolute are many-branched and endless.
 here; कुरुनन्दन O joy of the Kurus; बहुशाखाः manybranched; हि indeed;
 अनन्ताः endless; च and; बुद्धयः thoughts; अव्यवसायिनाम् of the irresoulte.Commentary Here; in this path to Bliss there is only one thought of a resolute nature there is singleminded determination. This single thought arises from the right source of knowledge. The student of Yoga collects all the dissipated rays of the mind. He gathers all of them through discrimination; dispassion and concentration. He is free from wavering or vacillation of the mind.The worldlyminded man who is suck in the mire of Samsara has no singleminded determination. He entertains countless thoughts. His mind is always unsteady and vacillating.If thoughts cease; Samsara also ceases. Mind generates endless thoughts and this world comes into being. Thoughts; and names and forms are inseparable. If the thoughts are controlled; the mind is controlled and the Yogi is liberated.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.41।। हे कुरुनन्दन! इस समबुद्धिकी प्राप्तिके विषयमें व्यवसायात्मिका
@@ -374,6 +391,7 @@ here; कुरुनन्दन O joy of the Kurus; बहुशाखाः m
 ।।2.41।। हे कुरुनन्दन ! इस (विषय) में निश्चयात्मक बुद्धि एक ही है,
 अज्ञानी पुरुषों की बुद्धियां (संकल्प) बहुत भेदों वाली और अनन्त होती
 हैं।।
+</details>
 </details>
 
 </div>

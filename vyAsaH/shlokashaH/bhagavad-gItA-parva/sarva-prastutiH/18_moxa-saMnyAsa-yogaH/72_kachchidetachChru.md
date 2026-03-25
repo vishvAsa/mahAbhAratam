@@ -23,8 +23,9 @@ title = "72 कच्चिदेतच्छ्रुतम् पार्थ"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.72॥ मया कथितम् **एतत् पार्थ त्वया** अवहितेन **चेतसा कच्चित् श्रुतं** तव **अज्ञानसम्मोहः** कच्चित् **प्रनष्टः** येन अज्ञानेन मूढो न योत्स्यामि; इत्य् उक्तवान्।
@@ -39,12 +40,14 @@ title = "72 कच्चिदेतच्छ्रुतम् पार्थ"
 
 18.72 O Arjuna, have you heard attentively all that I have taught; Has your delusion caused by ignorance, been dispelled - that ignorance deluded by which you said, 'I shall not fight';
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.72॥ --,**कच्चित्** किम् **एतत्** मया उक्तं **श्रुतं** श्रवणेन अवधारितं **पार्थ; त्वया एकाग्रेण चेतसा चित्तेन** किं वा अप्रमादतः **कच्चित्** **अज्ञानसंमोहः** अज्ञाननिमित्तः संमोहः अविविक्तभावः अविवेकः स्वाभाविकः किं **प्रणष्टः** यदर्थः अयं शास्त्रश्रवणायासः तव; मम च उपदेष्टृत्वायासः प्रवृत्तः; **ते** तुभ्यं हे **धनंजय**॥**अर्जुन उवाच
 --,**
@@ -127,12 +130,14 @@ Scripture, and on My part, the effort of being a teacher;
 विपर्ययोऽज्ञाननाशात् प्रनष्टः प्रकर्षेण पुनरुत्पत्तिविरोधित्वेन नष्टस्ते
 तव धनञ्जय; यदि स्यात्पुनरुपदेशं करिष्यामीत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.72॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -141,12 +146,14 @@ Scripture, and on My part, the effort of being a teacher;
 
 ॥18.72॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.68 -- 18.72॥ य इदमित्यादि धनञ्जयेत्यन्तम्। भक्तिमिति -- एतदेव मयि भक्तिकरणं यत् भक्तेष्वेतन्निरूपणम् +++(;N मद्भक्तेषु )+++। अभिधास्यति +++(S;;N मद्भक्तेष्वभि -- )+++ ; आभिमुख्येन शास्त्रोक्तप्रक्रियया; धास्यति वितरिष्यति \[ यः \] स मन्मयतामेति इति विधिरेवैष नार्थवादः। एवमन्यत्र।
 </details>
@@ -155,12 +162,14 @@ Scripture, and on My part, the effort of being a teacher;
 
 18.68-72 Ya idam etc. upto Dhananjaya. The very act of explaining this among My devotees is itself an act of cultivating devotion towards Me. Whosoever shall declare etc : Whosoever directs the mind \[of the devotees\] by face to face method, following the best procedure prescribed in the scriptures; i.e., he who shall impart \[this knowledge\] - he becomes one with Me. This is an injunction \[concerning the result\] and not a sentence of praise. Likewise is \[the case\] in other places also.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.72॥ कच्चिदिति प्रश्नतः सावधानं करोति। कच्चिदज्ञानसम्मोहस्ते नष्टः
 (प्रणष्टः) इति।
@@ -177,19 +186,25 @@ Scripture, and on My part, the effort of being a teacher;
 आसुरमारणजपापोत्पत्तिरूपः सम्यक्प्रकारको मोहो भ्रमो नष्टः। ते
 तवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.72॥ सम्यग्बोधानुत्पत्तौ पुनरुषदेक्ष्यामीत्याशयेनाह **--
 कच्चिदिति।** कच्चिदिति प्रश्नार्थे। अज्ञानसंमोहः तत्त्वाज्ञानकृतो
 विपर्ययः। स्पष्टमन्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.72 Have you heard this, O Arjuna, with one-pointed mind; Has your delusion, caused by ignorance, been dispelled;
@@ -224,11 +239,13 @@ whether; अज्ञानसंमोहः the delusion of ignorance; प्�
 (Moksha). If the student has not grasped the subject he will have to explain it in some other way with similes; analogies and illustrations.
 That is the reason why Lord Krishna asks Arjuna Has the delusion of thy ignorance been destroyedThis What I have told thee.Have you heard it; O Arjuna; with onepointed mind Have you grasped My teachingDelusion of ignorance The absence of discrimination which is caused by ignorance and which is natural. The destruction of delusion is the aim of all this endeavour on your part to hear the scripture and the exertion on My part as the teacher.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.72।। हे पृथानन्दन ! क्या तुमने एकाग्र-चित्तसे इसको सुना ;और हे
@@ -311,6 +328,7 @@ That is the reason why Lord Krishna asks Arjuna Has the delusion of thy ignoranc
 ।।18.72।। हे पार्थ ! क्या इसे (मेरे उपदेश को) तुमने एकाग्रचित्त होकर
 श्रवण किया ; और हे धनञ्जय ! क्या तुम्हारा अज्ञान जनित संमोह पूर्णतया
 नष्ट हुआ ;
+</details>
 </details>
 
 </div>

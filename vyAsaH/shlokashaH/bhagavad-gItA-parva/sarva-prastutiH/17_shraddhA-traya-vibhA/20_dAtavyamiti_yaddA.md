@@ -23,8 +23,9 @@ title = "20 दातव्यमिति यद्दानम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.20॥ फलाभिसन्धिरहितं **दातव्यम् इति देशे काले पात्रे च अनुपकारिणे यद् दानं दीयते तद् दानं सात्त्विकं स्मृतम्।**
@@ -39,12 +40,14 @@ title = "20 दातव्यमिति यद्दानम्"
 
 17.20 Gifts given without thought of return of favours and with the feelings, 'These gifts must be given,' at the proper places and time to a worthy person who makes no return - such gifts are said to be Sattvika.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.20॥ --,**दातव्यमिति** एवं मनः कृत्वा **यत् दानं दीयते अनुपकारिणे** प्रत्युपकारासमर्थाय; समर्थायापि निरपेक्षं दीयते; **देशे** पुण्ये कुरुक्षेत्रादौ; **काले** संक्रान्त्यादौ; **पात्रे च** षडङ्गविद्वेदपारग इत्यादौ; **तत् दानं सात्त्विकं स्मृतम्**॥
 </details>
@@ -120,12 +123,14 @@ versed in the Vedas together with their six branches, and such others.
 पात्रे रक्षकायेति वा। विद्यातपोभ्यामात्मनो दातुश्च पालनक्षम एव
 प्रतिगृह्णीयादिति शास्त्रादिति। तदेवंभूतं दानं सात्त्विकं स्मृतम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.20॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -134,12 +139,14 @@ versed in the Vedas together with their six branches, and such others.
 
 ॥17.20॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.20 -- 17.22॥ दातव्यमित्यादि उदाहृतमित्यन्तम्। दातव्यमिति -- दद्यादिति नियोगमात्रं पालनीयमिति दोषाभिसंधानाय +++(S येषामभिसन्धाय; दोषासन्धाय )+++। परिक्लिष्टं मितादिदोषात्। दानस्य चासत्करणं तत्संप्रदानाद्यसत्करणात्। एवं लौकिकानां सात्त्विकादित्रिप्रकाराशयानुसारेण क्रिया व्याख्याता।
 </details>
@@ -148,12 +155,14 @@ versed in the Vedas together with their six branches, and such others.
 
 17.20 See Comment under 17.22
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.20॥ पूर्वप्रतिज्ञातं दानस्य त्रैविध्यमाह त्रिभिः -- दातव्यमिति।
 सुबोधार्थः।
@@ -169,10 +178,13 @@ versed in the Vedas together with their six branches, and such others.
 चकारेण अकाले विवाहाद्युपस्थितौ याचमानाय पात्रे वेदविशारदाय चकारेण
 अपात्रे बुभुक्षिताय यत्तद्दानं सात्त्विकं स्मृतं प्रसिद्धमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.20॥ पूर्वं प्रतिज्ञातमेव दानस्य त्रैविध्यमाह **-- दातव्यमिति।**
 दातव्यमित्येवं निश्चयेन यद्दानं दीयते; अनुपकारिणे,प्रत्युपकारासमर्थाय।
@@ -182,10 +194,13 @@ versed in the Vedas together with their six branches, and such others.
 रक्षकायेत्यर्थः। स हि सर्वस्मादापद्गणाद्दातारं पातीति। यदेवंभूतं दानं
 तत्सात्त्विकम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.20 Gifts given with the feeling, that it is one's own duty to give to one who makes no return, at the proper place and time to the deserving person - that is said to be Sattvika.
@@ -221,11 +236,13 @@ is given; अनुपकारिणे to one who does no service (in return);
 that; दानम् gift; सात्त्विकम् Sattvic; स्मृतम् is held to be.Commentary The gift should be given to one who cannot return the good or to one from whom no such return is expected.It is necessary to be in Kurukshetra or Varanasi or any part of the world that is eally sacred when one offes gifts. The time should be during solar or lunar eclips or an eally auspicious occasion.Worthy A pious person who is a Tapasvin;
 who is well versed in the scriptures (the Vedas and the,Vedangas); who is able to protect himself and the donor; etc.At such a time and such a place there shoule be a person worthy to receive the gift; a person who is the very incarnation of purity; the very abode of good conduct. A gift may be freely given to such a highly deserving person. The donor should not boast of his charity.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/20_dAtavyamiti_yaddA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.20।। दान देना कर्तव्य है -- ऐसे भावसे जो दान देश, काल और पात्रके
@@ -295,6 +312,7 @@ who is well versed in the scriptures (the Vedas and the,Vedangas); who is able t
 ।।17.20।। "दान देना ही कर्तव्य है" - इस भाव से जो दान योग्य देश, काल को
 देखकर ऐसे (योग्य) पात्र (व्यक्ति) को दिया जाता है, जिससे प्रत्युपकार की
 अपेक्षा नहीं होती है, वह दान सात्त्विक माना गया है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "23 योत्स्यमानानवेक्षेऽहं य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 २५-तमस्य टीका दृश्या।
@@ -41,12 +42,14 @@ title = "23 योत्स्यमानानवेक्षेऽहं य"
 
 1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna did immediately as He had been directed, while Bhisma, Drona and others and all the kings were looking on. Such is the prospect of victory for your men.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.23 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -99,12 +102,14 @@ starts from 2.10.
 दुर्बुद्ध्यपनयनादौ तान् योत्स्यमानानहमवेक्षे उपलभे नतु सन्धिकामान्। अतो
 युद्धाय तत्प्रतियोग्यवलोकनमुचितमेवेति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.23॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -115,12 +120,14 @@ starts from 2.11.
 ॥1.23॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.23॥ No commentary.
 </details>
@@ -129,12 +136,14 @@ starts from 2.11.
 
 1.12 1.29 Sri Abhinavgupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.20 1.23॥ अथ व्यवस्थितान् इत्यारभ्यभीष्मद्रोणप्रमुखतः 125 इत्यन्तम्।
 अथ युयुत्सूनवस्थितान् धार्तराष्ट्रान् वीक्ष्य कपिध्वजः स्वाश्रितजनपोषकं
@@ -153,20 +162,26 @@ starts from 2.11.
 रथस्थापने मम भयं तु नास्त्येव यतस्त्वमच्युतोऽसि। एवं
 चतुर्भिर्युद्धोपमोऽप्युक्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **॥1.23॥** **योत्स्यमानानिति।** धार्तराष्ट्रस्य दुर्योधनस्य प्रियं
 कर्तुमिच्छन्तो य इह समागताः तान्यावद्द्रक्ष्यामि तावदुभयोः सेनयोर्मध्ये
 मे रथं स्थापयेत्यन्वयः।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.23 I wish to see those gathered here ready to fight in this battle in order to please the evil-minded son of Dhrtarastra.
@@ -199,11 +214,13 @@ wishing to please in battle the evil-minded Duryodhana (the son of Dhritarashtra
 ये who; एते those; अत्र here (in this Kurukshetra); समागताः assembled;
 धार्तराष्ट्रस्य of the son of Dhritarashtra; दुर्बुद्धेः of the evilminded; युद्धे in battle; प्रियचिकीर्षवः wishing to please.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.23।। दुष्टबुद्धि दुर्योधन का युद्ध में प्रिय करने की इच्छावाले जो ये
@@ -254,6 +271,7 @@ wishing to please in battle the evil-minded Duryodhana (the son of Dhritarashtra
 
 ।।1.23।। दुर्बुद्धि धार्तराष्ट्र (दुर्योधन) का युद्ध में प्रिय चाहने वाले
 जो ये राजा लोग यहाँ एकत्र हुए हैं, उन युद्ध करने वालों को मैं देखूँगा।
+</details>
 </details>
 
 </div>

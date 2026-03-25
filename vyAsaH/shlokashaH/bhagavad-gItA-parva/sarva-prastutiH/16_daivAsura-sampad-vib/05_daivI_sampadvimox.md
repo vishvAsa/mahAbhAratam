@@ -23,8 +23,9 @@ title = "05 दैवी सम्पद्विमोक्षाय"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.5॥**दैवी** मदाज्ञानुवृत्तिरूपा **सम्पद् विमोक्षाय** बन्धान् मुक्तये भवति क्रमेण मत्प्राप्तये भवति इत्यर्थः।**आसुरी** मदाज्ञातिवृत्तिरूपा सम्पद् **निबन्धाय** भवति; अधोगतिप्राप्तये भवति इत्यर्थः।  
@@ -41,12 +42,14 @@ title = "05 दैवी सम्पद्विमोक्षाय"
 
 16.5 'The divine destiny,' viz., which is of the nature of submission to My ;ndments aids liberation, viz., leads to release from bondage. The meaning is that it leads to the eventual attainment of Myself. 'The demoniac destiny' viz, which is of the nature of transgression of My ;ndments, is for bondage, i.e., takes one to degradation. To Arjuna who, on hearing this, became alarmed and anxious about the classfication of his own nature, Sri Krsna said: 'Do not be grief-ridden. Surely, you are born for a divine destiny, O son of Pandu. The purport is that you have a divine destiny, since you are a son of Pandu who was most eminent among the righteous.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.5॥ --,**दैवी संपत्** या; सा **विमोक्षाय** संसारबन्धनात्। **निबन्धाय** नियतः बन्धः निबन्धः तदर्थम् **आसुरी** संपत् **मता** अभिप्रेता। तथा,राक्षसी च। तत्र एवम् उक्ते सति अर्जुनस्य अन्तर्गतं भावम् किम् अहम् आसुरसंपद्युक्तः किं वा दैवसंपद्युक्तः इत्येवम् आलोचनारूपम् आलक्ष्य आह भगवान् -- **मा शुचः** शोकं मा कार्षीः। **संपदं दैवीम् अभिजातः असि** अभिलक्ष्य जातोऽसि; भाविकल्याणः त्वम् असि इत्यर्थः; हे **पाण्डव**॥
 </details>
@@ -117,12 +120,14 @@ future.
 प्रागर्जितकल्याणो भाविकल्याणश्च त्वमसि हे पाण्डव;
 पण्डुपुत्रेष्वन्येष्वपि दैवी संपत्प्रसिद्धा किं पुनस्त्वयीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.5॥ दैवीं सम्पदमभिजातः प्रतिजातः।
 </details>
@@ -142,12 +147,14 @@ future.
 इत्येतद्विहायेदं व्याख्यातम्। अर्जुनस्य
 देवत्वप्रसिद्धेरेतत्साहचर्यात्तत्राऽप्येतदर्थत्वोपपत्तेः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.1 -- 16.5॥ एतद्बुद्ध्वा इत्युक्तम्। बोधश्च नाम श्रुतिमयज्ञानान्तरम् +++(S श्रुत -- )+++ इदमित्थम् इत्येवंभूतयुक्तिचिन्ताभावनामयज्ञानोदेयेन +++(S;;N चिन्तामयज्ञानोदयेन)+++ विचारविमर्शपरमर्शादिरूपेण विजातीयन्यक्कारविरहिततद्भावनामयस्वभ्यस्ताकारविज्ञानलाभे सति भवति। यद्वक्ष्यते +++(S तद्वक्ष्यते N तद्वक्ष्यति)+++ -- विमृश्यैतदशेषेण यथेच्छसी तथा कुरु +++(XVIII; 63)+++ इति। तत्र श्रुतिमये ज्ञाने गुरुशास्त्रे एव प्राधान्येन प्रभवतः युक्तिचिन्ताभावनामये तु विमर्शक्षमता असाधारणा शिष्यगुणसंपत् ( -- रणशिष्य -- ) प्रधानभूता। अतः अर्जुनस्यास्त्येवासौ इत्यभिप्रायेण वक्ष्यमाणं विमृश्यैतत् इति वाक्यं सविषयं कर्तुं परिकरबन्धयोजनाभिप्रायेण आह भगवान् गुरुः अभयम् इत्यादि। आसुरभागसन्नविष्टा तामसी किल अविद्या। सा प्रवृद्धया दिव्यांशग्राहित्या विद्यया बाध्यते ( प्रवृद्धाया -- विद्याया बध्यते) इति वस्तुस्वभाव एषः। त्वं च विद्यात्मानं दिव्यमंशं सात्त्विकमभिप्रपन्नः तस्मादान्तरीं मोहलक्षणामविद्यां विहाय बाह्याविद्यात्मशत्रुहननलक्षणं +++(S बाह्यविद्या)+++ शास्त्रीयव्यापारम् अनुतिष्ठ इत्यध्यायारम्भः। तथाहि -- अभयमित्यादि पाण्डवेत्यन्तम्। दिव्यांशस्य इमानि चिह्नानि तानि स्फुटमेवाभिलक्ष्यन्ते +++(S; स्फुटमेवोपलक्ष्यन्ते)+++। दमः +++(S omits दमः)+++ इन्द्रियजयः। चापलं पूर्वापरमविमृश्य यत् करणम्; तदभावः अचापलम्। तेजः आत्मनि उत्साहग्रहणेन मितत्वापाकरणम्। दैवी संपदेषा। सा च तव विमोक्षाय; कामनापरिहारात्। अतस्त्वं शोकं मा प्रापः -- यथा भ्रात्रादीन् हत्वा सुखं कथमश्नुवीय इति। शिष्टं स्पष्टम्।
 </details>
@@ -156,12 +163,14 @@ future.
 
 16.1-5 It has been stated \[at the end of the last chapter\] that 'by understanding this' etc. The thing called 'understanding' comes to be \[in the following\] manner : After the knowledge, born from hearing \[the scriptures etc.\], there arises a thought-process consisting of the logical analysis, deliberation and deep meditation that take the form 'This (what is taught in the scriptures etc.) is like this'. The above thought-process is of the nature of investigation, critical examination and judgement. From this thought-process one gains a good knowledge of a well practised from i.e., a contemplation of that object, free from the humiliation (influence) of different category. When this is gained, understanding is achieved Hence, it will be declared : 'By critically examining in this way fully, act as you please'. (Ch. XVIII, 63). Here, only the preceptor and the scripture are mainly capable of creating the scriptural knowledge. But in producing reasoning, deliberation and meditation the main cause is the capacity to examine critically a thing and it is a special attribute of the pupil and it is an important one. Therefore, with an idea that this is in Arjuna and with an intention to add a preparatory note to the purposeful statement 'By critically examining this, \[act as you please\]'; the Bhagavat, the preceptor, says 'Fearlessness etc.' The Ignorance, born of the Tamas (Stand) occupies the devilish side. This is repelled (or removed) by the well augmented wisdom that takes hold of the divine part. This is the nature of things \[under estion\] 'You (Arjuna) have taken refuge in the divine part viz., wisdom, born of the Sattva (Strand). Therefore shirking off the internal Ignorance in the nature of delusion, you should undertake the action, that has the sanction of the scriptures and that is of the nature of eradicating the external foe having the form of ignorance.' Thus commences the \[present\] chapter. Hence - Abhayam etc., upto pandava. These are the identification marks of a person of divine parts. \[Hence\] they are clearly identified. Self-restraint : subduing the sense organs. Thought-lessness : the perfarmance of action without examining the antecedent and the seel; its absence is the absence of thought-lessness. Vital power : the act of casting away \[all\] limitations by taking hold energy in the Self. \[All\] this is the divine wealth and this is for your total emancipation, as it destroys craving. Therefore, don't get sorrow like 'Having killed brothers etc., how can I (Arjuna) enjoy pleasure ;' \[The idea of\] the rest \[of passage\] is clear.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.5॥ उभयोः कार्यं दर्शयन्नाह -- दैवी सम्पदिति। विमोक्षाय विशेषतो
 मोक्षाय पुष्टिर्मयादाभेदेन निबन्धायासुरीति नितरां
@@ -180,10 +189,13 @@ future.
 शोचन्तमर्जुनमाश्वासयति -- मा शुच इति। हे पाण्डव क्षत्रियात्मजत्वेन
 शोकानर्ह दैवीं सम्पदमभिजातोऽसि मदिच्छयाऽतो मा शुचः शोचं मा कार्षीः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.5॥ एतयोः संपदोः कार्यं दर्शयन्नाह **--** **दैवी संपदिति।** दैवी या
 संपत्तया युक्तो मयोक्ते तत्त्वज्ञानेऽधिकारी; आसुर्या संपदा युक्तस्तु
@@ -191,10 +203,13 @@ future.
 संदेहव्याकुलचित्तमर्जुनमाश्वासयति। हे पाण्डव; मा शुचः शोकं मा कार्षीः।
 यतस्त्वं दैवीं संपदमभिजातोऽसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.5 The divine destiny is deemed to lead to liberation, the demoniac to bondage. Grieve not, O Arjuna, you are born to a divine destiny.
@@ -227,11 +242,13 @@ future.
 पाण्डव O Pandava.Commentary Sampat Endowment; wealthy state; nature;
 virtue.Moksha Liberation from the bondage of Samsara; release from the round of birth and death. The,divine nature leads to salvation the demoniacl nature; to bondage.As Arjuna was already griefstricken and dejected; Lord Krishna assures him not to feel alarmed at this description of the Asuric alities which bring grief and delusion; as he was born with Sattvic tendencies; leading towards salvation. Arjuna; on hearing the words of Lord Krishna; might have thought within himself; Do I possess divine nature or demoniacal nature The Lord; in order to remove Arjunas doubt; said; Grieve not; O Arjuna; thou art born with divine alities. Thou art fortunate. Thou mayest attain to the happiness of Selfrealisation.Do not think; O Arjuna; that by engaging yourself in battle and killing people you will become an Asura. Grieve not on this score. You will establish the kingdom of righteousness by fighting this righteous battle.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.5।। दैवी-सम्पत्ति मुक्तिके लिये और आसुरी-सम्पत्ति बन्धनके लिये है।
@@ -655,6 +672,7 @@ virtue.Moksha Liberation from the bondage of Samsara; release from the round of 
 ।।16.5।। हे पाण्डव ! दैवी सम्पदा मोक्ष के लिए और आसुरी सम्पदा बन्धन के
 लिए मानी गयी है, तुम शोक मत करो, क्योंकि तुम दैवी सम्पदा को प्राप्त हुए
 हो।।
+</details>
 </details>
 
 </div>

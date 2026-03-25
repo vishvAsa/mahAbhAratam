@@ -23,8 +23,9 @@ title = "09 न च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.9॥**न च तानि** विषमसृष्ट्यादीनि **कर्माणि मां निबध्नन्ति** मयि नैर्घृण्यादिकं न आपादयन्ति; यतः क्षेत्रज्ञानां पूर्वकृत्यान्य् एव कर्माणि देवादिविषमभावहेतवो ऽहं तु तत्र वैषम्ये **असक्तः** तत्र **उदासीनवद्** **आसीनः।** यथा आह सूत्रकारः -- वैषम्यनैर्घृण्ये न सापेक्षत्वात् (ब्र॰ सू॰ 2।1।34) न कर्माविभागादिति चेन्नानादित्वात् (ब्र॰ सू॰ 2।1।35) इति।
@@ -40,12 +41,14 @@ title = "09 न च"
 
 9.9 But actions like uneal creation do not bind Me. There can be no imputation of cruelty etc., to Me, because the previous actions (Karmas) of individual selves are the causes for the ineality of conditions like that of gods etc. I am untouched by the ineality. I sit, as it were, apart from it as one unconcerned. Accordingly, the author of the Vedanta-sutras says: 'Not ineality and cruelty, on account of (creation) being dependent, for so scripture declares' (Br. Su., 2.1.34), and 'If it be said that there is no Karma on account of non-distinction, it is replied that it is not proper to say so, because it is beginningless ৷৷.' (Ibid., 2.1.35). \[The idea is this: Creation has no first beginning. It is an eternal cyclic process of creation and dissolution of the universe. So the differentiation of Karma, Jiva and Isvara even before creation has to be accepted. Only in the creative cycle the differentiation becomes patent, and in the dissolved condition it remains latent.\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.9॥ --,**न च माम्** ईश्वरं **तानि** भूतग्रामस्य विषमसर्गनिमित्तानि **कर्माणि निबध्नन्ति धनंजय।** तत्र कर्मणां असंबन्धित्वे कारणमाह -- **उदासीनवत् आसीनं** यथा उदासीनः उपेक्षकः कश्चित् तद्वत् आसीनम्; आत्मनः अविक्रियत्वात्; **असक्तं** फलासङ्गरहितम्; अभिमानवर्जितम् अहं करोमि इति **तेषु कर्मसु।** अतः अन्यस्यापि कर्तृत्वाभिमानाभावः फलासङ्गाभावश्च असंबन्धकारणम्; अन्यथा कर्मभिः बध्यते मूढः कोशकारवत् इत्यभिप्रायः॥ तत्र भूतग्राममिमं विसृजामि उदासीनवदासीनम् इति च विरुद्धम् उच्यते; इति तत्परिहारार्थम् आह --,
 </details>
@@ -146,12 +149,14 @@ this multitude of beings.' In order to dispel this doubt the Lord says:
 कर्तृत्वाभावे फलसङ्गाभावे च कर्माणि न बन्धकारणानीत्युक्तमनेन;
 तदुभयसत्त्वे तु कोशकार इव कर्मभिर्बध्यते मूढ इत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.9॥ उदासीनवत्; नतूदासीनः। तदर्थमाह -- असक्तमिति। अवाक्यनादरः
 \[छां.उ.3।34।2\] इति श्रुतिः। द्रव्यं कर्म च कालश्च स्वभावो जीव एव च।
@@ -176,12 +181,14 @@ this multitude of beings.' In order to dispel this doubt the Lord says:
 \[भ.नी.श.92\] इत्यादि तन्निरासाय श्रुत्युपपत्ती प्राह -- **न कर्मणे**ति।
 नियामयति नियच्छति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.9 -- 9.10॥ न चेति। मयेति। न च मेऽस्ति कर्मबन्धः; औदासीन्येन वर्तमानोऽहं यतः। अत एवाहं जगन्निर्माणे अनाश्रितव्यापारत्वात् हेतुः।
 </details>
@@ -190,12 +197,14 @@ this multitude of beings.' In order to dispel this doubt the Lord says:
 
 9.9 See Comment under 9.10
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.9॥ नचैवं विषमकर्मकरणे मम नैर्घृण्यादिबन्धोऽसक्तत्वादित्याह -- न च
 मामिति। असाधारणमहिमत्वद्योतकानि न मां बध्नन्ति नैर्घृण्यादिबन्धं
@@ -217,10 +226,13 @@ this multitude of beings.' In order to dispel this doubt the Lord says:
 कल्पितो येन लोको लोकनमस्कृतः। रमया प्रार्थ्यमानेन देव्या तत्प्रियकाम्यया
 \[भाग.8।5।5\] इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.9॥ ननु एवं नानाविधानि कर्माणि कुर्वतस्तव जीववद्वन्धः कथं न
 स्यादित्याशङ्क्याह **-- नचेति।** तानि सृष्ट्यादीनि कर्माणि मां न
@@ -228,10 +240,13 @@ this multitude of beings.' In order to dispel this doubt the Lord says:
 उदासीनवद्वर्तमानस्य मे बन्धनं नापादयन्ति; उदासीनत्वे
 कर्तृत्वानुपपत्तेरुदासीनवत्स्थितमित्युक्तम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.9 But these actions do not bind Me, O Arjuna, for I remain detached from them like one unconcerned.
@@ -266,11 +281,13 @@ unattached to those acts.
 Further I have not go the egoistic feeling of agency I do this. I know that the Self is actionless. Therefore the actions involved in creation and dissolution do not bind Me.As in the case of Isvara so in the case of others also the absence of the egoistic feeling of agency and the absense of attachment to the fruits of action is the cause of freedom
 (from Dharma and Adharma; virtue and evil) The ignorant man who works with egoism and who expects rewards for his action is bound by his own actions like the silkworm in the cocoon.Just as the neutral referee or umpire in a cricket or football match is not affected by the victory or defeat of the parties; so also the Lord is not affected by the creation and destruction of this world as He remains unconcerned or indifferent and as He is a silent and changeless witness. (Cf.IV.14)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.9।। हे धनञ्जय ! उन (सृष्टि-रचना आदि) कर्मोंमें अनासक्त और उदासीनकी
@@ -353,6 +370,7 @@ Further I have not go the egoistic feeling of agency I do this. I know that the 
 
 ।।9.9।। हे धनंजय ! उन कर्मों में आसक्ति रहित और उदासीन के समान स्थित मुझ
 (परमात्मा) को वे कर्म नहीं बांधते हैं।।
+</details>
 </details>
 
 </div>

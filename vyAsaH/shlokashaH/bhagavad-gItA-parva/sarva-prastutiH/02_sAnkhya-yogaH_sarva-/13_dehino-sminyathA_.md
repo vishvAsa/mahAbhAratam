@@ -23,8 +23,9 @@ title = "13 देहिनोऽस्मिन्यथा देहे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.13॥ एकस्मिन् देहे वर्तमानस्य **देहिनः** कौमारावस्थां विहाय यौवनाद्यवस्थाप्राप्तौ आत्मन स्थिरबुद्ध्या **यथा** आत्मा नष्ट इति न शोचति देहाद् **देहान्तर**प्राप्तौ अपि **तथा** एव स्थिर आत्मा इति बुद्धिमान् न शोचति। अत आत्मनां नित्यत्वाद् आत्मानो न शोकस्थानम्।  
@@ -44,12 +45,14 @@ title = "13 देहिनोऽस्मिन्यथा देहे"
 
 2.13 As the self is eternal, one does not grieve, thinking that the self is lost, when an embodied self living in a body gives up the state of childhood and attains youth and other states. Similarly, the wise men, knowing that the self is eternal, do not grieve, when the self attains a body different from the present body. Hence the selves, being eternal, are not fit objects for grief. This much has to be done here; the eternal selves because of Their being subject ot beginningless Karma become endowed with bodies suited to Their Karmas. To get rid of this bondage (of bodies), embodied beings perform duties like war appropriate to their stations in life with the help of the same bodies in an attitude of detachment from the fruits as prescribed by the scripture. Even to such aspirants, contacts with sense-objects give pleasure and pain, arising from cold, heat and such other things. But these experiences are to be endured till the acts enjoined in the scriptures come to an end. The Lord explains the significance immediately afterwards:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.13॥  
   
@@ -196,12 +199,14 @@ so; dhirah, an intelligent person; na, does not; muhyati, get deluded.
 नित्यत्वानुपपत्तेः नित्योऽणुः इत्येकदेशिनः तत्सर्वमपाकृतं भवति
 नित्यत्वविभुत्वस्थापनात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.13॥ देहिनो भावे एतद्भवति तदेवासिद्धमिति चेत् न देहिनोऽस्मिन्। यथा
 कौमारादिशरीरभेदेऽपि देही तदीक्षिता सिद्धः एवं देहान्तरप्राप्तावपि
@@ -422,12 +427,14 @@ so; dhirah, an intelligent person; na, does not; muhyati, get deluded.
 त्ववस्थावतोऽपीत्येतदनुपयुक्तं वैषम्यं निष्कप्रदानेन पटग्रहणदर्शनादिति
 भावनोक्तं **धीर** इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.13 2.14॥ एवमर्थद्वयमाह  
   
@@ -438,12 +445,14 @@ so; dhirah, an intelligent person; na, does not; muhyati, get deluded.
 
 2.12-13 Na hi etc. Dehinah etc Never indeed did I not exist, but I did exist \[always\]. Likewise are you and these kings. If there can be lamentability for one, on attaining change in physical form then why is one not lamented over when one attains the youth from the boyhood ; He, who is wise, does not lament. But, wisdom is easily attainable for him whose concern is not even for this \[present\] body. Therefore you must seek wisdom.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.13॥ एवमात्मनामशोच्यतामनुत्पत्त्योपपाद्य देहात्मादीनामशोच्यतामाह
 देहिन इति। लौकिकनिदर्शनेन यथाऽस्मिन्स्थूलदेहे
@@ -460,10 +469,13 @@ so; dhirah, an intelligent person; na, does not; muhyati, get deluded.
 देहान्तरप्राप्तिरलौकिकद्वितीयदेहप्राप्तिर्भवतीत्यर्थः। धीरो भक्तस्तत्र
 देहप्राप्त्यर्थं न मुह्यति मोहं न प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.13॥ नन्वीश्वरस्य तव जन्मादिशून्यत्वं सत्यमेव जीवानां तु जन्ममरणे
 प्रसिद्धे तत्राह **देहिन इति।** देहिनो देहाभिमानिनो जीवस्य
@@ -474,10 +486,13 @@ so; dhirah, an intelligent person; na, does not; muhyati, get deluded.
 प्रवृत्तिदर्शनात्। अतो धीरः धीमांस्तत्र तयोर्देहनाशोत्पत्त्योर्न मुह्यति
 आत्मैव मृतो जातश्चेति न मन्यते।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.13 Just as the self associated with a body passes through childhood,
@@ -513,11 +528,13 @@ youth and old age, so also does it pass into another body; the firm man does not
 देहान्तरप्राप्तिः the attaining of another body; धीरः the firm; तत्र
 thereat; न not; मुह्यति grieves.Commentary -- Just as there is no interruption in the passing of childhood into youth and youth into old age in this body; so also there is no interruption by death in the continuity of the ego. The Self is not dead at the termination of the stage; viz.; childhood. It is certainly not born again at the beginning of the second stage; viz.; youth. Just as the Self passes unchanged from childhood to youth and from yourth to old age; so also the Self passes unchanged from one body into,another. Therefore; the wise man is not at all distressed about it.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.13।। देहधारीके इस मनुष्यशरीरमें जैसे बालकपन, जवानी और वृद्धावस्था
@@ -659,6 +676,7 @@ thereat; न not; मुह्यति grieves.Commentary -- Just as there is n
 ।।2.13।। जैसे इस देह में देही जीवात्मा की कुमार, युवा और वृद्धावस्था
 होती है, वैसे ही उसको अन्य शरीर की प्राप्ति होती है; धीर पुरुष इसमें
 मोहित नहीं होता है।।
+</details>
 </details>
 
 </div>

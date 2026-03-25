@@ -23,8 +23,9 @@ title = "36 अपि चेदसि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.36॥ यदि **अपि सर्वेभ्यः पापकृत्तमो ऽसि सर्वं** पूर्वाजितं **वृजिन**रूपं समुद्रम् आत्मविषयज्ञानरूप**प्लवेन एव सन्तरिष्यसि।**
@@ -39,12 +40,14 @@ title = "36 अपि चेदसि"
 
 4.36 Even though you be the most sinful of all sinners, you will completely cross over the sea of sins previoulsy accumulated, with the boat of knowledge concerning the self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.36॥ **अपि चेत् असि पापेभ्यः** पाप**कृद्भ्यः** **सर्वेभ्यः** अतिशयेन पापकृत् **पापकृत्तमः सर्वं ज्ञानप्लवेनैव** ज्ञानमेव प्लवं कृत्वा **वृजिनं** वृजिनार्णवं पापसमुद्रं **संतरिष्यसि।** धर्मोऽपि इह मुमुक्षोः पापम् उच्यते॥ ज्ञानं कथं नाशयति पापमिति दृष्टान्त उच्यते
 </details>
@@ -110,12 +113,14 @@ Knowledge destroys sin is being told with the help of an illustration:
 तरिष्यस्यतिक्रमिष्यसि। वृजिनशब्देनात्र धर्माधर्मरूपं कर्म
 संसारफलममिभिप्रेतं मुमुक्षोः पापवत्पुण्यस्याप्यनिष्टवात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.36॥ करणभूतं ज्ञानं स्तौति पुनः श्लोकत्रयेण।
 </details>
@@ -126,12 +131,14 @@ Knowledge destroys sin is being told with the help of an illustration:
 प्रतिपाद्यमाह **करणे**ति। येनेति करणतया निर्दिष्टमित्यर्थः। श्रेयान्।
 4।33 इत्याद्यपेक्षया पुनरिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.36 4.37॥ सर्वं कर्माखिलम् (श्लो. 433) इति यदुक्तं तत्स्फुटयितुं प्रथमश्लोकेन अधर्मोऽपि नश्यति इति वदन् सर्वं कर्म इति द्वितीयेन संस्कारलेशोऽपि नावतिष्ठतीति सूचयन् अखिलम् इति व्याचष्टे अपि चेदिति। यथेति। सुसमिद्धोऽभ्यासजातप्रतिपत्तिदार्ढ्यबन्धेन +++(K omits सु)+++ ज्ञानाग्निर्भवति यथा तथा प्रयतनीयमिति भावः ।
 </details>
@@ -140,12 +147,14 @@ Knowledge destroys sin is being told with the help of an illustration:
 
 4.36 See Comment under 4.37
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.36॥ किञ्च अपि चेदिति। स्पष्टार्थः।
 </details>
@@ -162,18 +171,24 @@ Knowledge destroys sin is being told with the help of an illustration:
 सर्वपदेनार्णवरूपं सन्तरिष्यसि सम्यक्प्रकारेणानायासेन तरिष्यसि
 पापविनिर्मुक्तो भविष्यसीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.36॥ किंच **अपिचेदिति।** सर्वेभ्यः पापकारिभ्यो यद्यप्यतिशयेन पापकारी
 त्वमसि तथापि सर्वं पापसमुद्रं ज्ञानपोतेनैव सम्यगनायासेन तरिष्यसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.36 Even if you be the most sinful of all sinners, you will cross over all sins by the boat of knowledge alone.
@@ -204,11 +219,13 @@ Knowledge destroys sin is being told with the help of an illustration:
 4.36 अपि even; चेत् if; असि (thou) art; पापेभ्यः than sinners; सर्वेभ्यः
 (than) all; पापकृत्तमः most sinful; सर्वम् all; ज्ञानप्लवेन by the raft of knowledge; एव alone; वृजिनम् sin; सन्तरिष्यसि (thou) shalt cross.Commentary You can cross the ocean of sin with the boat of the knowledge of the Self. (Cf.IX.30)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.36।। अगर तू सब पापियोंसे भी अधिक पापी है, तो भी तू ज्ञानरूपी नौकाके
@@ -278,6 +295,7 @@ Knowledge destroys sin is being told with the help of an illustration:
 
 ।।4.36।। यदि तुम सब पापियों से भी अधिक पाप करने वाले हो, तो भी
 ज्ञानरूपी नौका द्वारा, निश्चय ही सम्पूर्ण पापों का तुम संतरण कर जाओगे।।
+</details>
 </details>
 
 </div>

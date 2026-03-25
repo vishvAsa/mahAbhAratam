@@ -23,8 +23,9 @@ title = "06 एतान्यपि तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.6॥ यस्मान् मनीषिणां यज्ञदानतपःप्रभृतीनि पावनानि; तस्माद् उपासनवद् **एतान्य् अपि** यज्ञादीनि **कर्माणि** मदाराधनरूपाणि **सङ्गं** कर्मणि ममतां **फलानि च त्यक्त्वा** अहरह आप्रयाणाद् उपासननिर्वृत्तये मुमुक्षुणा **कर्तव्यानि इति** मम **निश्चितम् उत्तमं मतम्।**
@@ -39,12 +40,14 @@ title = "06 एतान्यपि तु"
 
 18.6 Since sacrifices, gifts, austerities etc., are the means for the purification of the wise, therefore, it is My decided and final view that they should be performed as a part of my worship until one's death, renouncing attachment, viz., possessiveness towards actions and their fruits.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.6॥ --,**एतान्यपि तु कर्माणि** यज्ञदानतपांसि पावनानि उक्तानि सङ्गम् आसक्तिं तेषु **त्यक्त्वा फलानि च** तेषां परित्यज्य **कर्तव्यानि** **इति** अनुष्ठेयानि इति **मे** मम **निश्चितं मतम् उत्तमम्**॥  
   
@@ -190,12 +193,14 @@ bondage; and also because they are far removed from the context.
 उपसंहृतःभगवत्पूज्यपादानामभिप्रायोऽयमीरितः। अनिष्णाततया भाष्ये दुरापो
 मन्दबुद्धिभिः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.6॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -204,12 +209,14 @@ bondage; and also because they are far removed from the context.
 
 ॥18.6॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.4 -- 18.11॥ तदत्रैव विशेषनिर्णयाय मतान्युपन्यस्यति -- त्याज्यमिति। दोषवत् हिंसादिमत्त्वात् +++(S हिंसादित्त्वात ;N हिंसादिसत्त्वात् )+++ पापयुक्तम्। तत् कर्म,+++(S;;N substitutes फलं for कर्म )+++ त्याज्यम्; न सर्वं शुभफलम् इति केचित् त्यागे विशेषं मन्यन्ते साङ्ख्यगृह्या इव। अन्ये तु मीमांसककञ्चुकानुप्रविष्टाः +++(K मीमांसाकंचुक -- )+++ -- क्रत्वर्थोऽहि शास्त्रादवगम्यते +++(S. IV; i; 2 )+++ इति। तथातस्माद्या वैदिकी हिंसा -- +++(SV. I; i; 2; verse 23 )+++इत्यादिनयेन इतिकर्तव्यतांशभागिनी हिंसा +++(S;;N omit हिंसा )+++ हिंसैव न भवति। न हिंस्यात् इति सामान्यशास्त्रस्य तत्र बाधनात् श्येनाद्येव तु ( श्येन द्येव न तु ) हिंसा। फलांशे भावनायाश्च प्रत्ययोऽनुविधायकः +++(SV; I; i; 2; verse 222 )+++ इति। अ \[ तोऽ \] न्यान् हिंसादियोगिनोऽपि न त्यजेत्। शास्त्रैकशरणकार्याकार्यविभागाः पण्डिता इति मन्यन्ते॥3॥ निश्चयमित्यादि अभिधीयते इत्यन्तम्। तत्र त्वयं निश्चयः -- प्राग्लक्षितगुणस्वरूपवैचित्र्यात् त्यागस्यैव सत्त्वरजस्तमोमय्या चित्तवृत्त्या क्रियमाणस्य तद्विशिष्टस्वभावावभासित \[ त्वात् \] वस्तुस्थित्या त्यागो नाम परब्रह्मविदां +++(; N परमब्रह्म -- )+++ सिद्ध्यसिद्ध्यादिषु समतया रागद्वेषपरिहारेण फलप्रेप्साविरहेण ( फलप्रेक्षा) कर्मणां निर्वर्त्तनम्। अत एव आह -- राजसं तामसं च त्यागं कृत्वा न कश्चित् ( न किंचित् ) \[ त्याग \] फलसंबन्धः; इति। सात्त्विकस्य तु त्यागात् ( त्यागस्य )। शास्त्रार्थपालनात्मकं फलम्। त्यक्तगुणग्रामग्रहस्य पुनर्मुनेः सत्यतः त्यागवाचो युक्तिरुपपत्तिमती।
 </details>
@@ -218,12 +225,14 @@ bondage; and also because they are far removed from the context.
 
 18.6 See Comment under 18.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.6॥ एवं ब्रह्मवादिनां कर्तव्यत्वे प्राप्तेऽपि तु परन्तु सङ्गं
 स्वकर्तृत्वाभिनिवेशं गुणमयरोचनार्थानि फलानि चोक्तविधया त्यक्त्वा
@@ -238,10 +247,13 @@ bondage; and also because they are far removed from the context.
 फलानि स्वर्गसुखादीनि (त्यक्त्वा) मदाज्ञात्वेन कर्त्तव्यानि इति मे
 निश्चितं पूर्वोक्तमतेषु उत्तमं मतम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.6॥ येन प्रकारेण कृतान्येतानि पावनानि भवन्ति तं प्रकारं दर्शयन्नाह
 **-- एतानीति।** यानि यज्ञादिकर्माणि मया पावनानीत्युक्तं एतान्येव
@@ -249,10 +261,13 @@ bondage; and also because they are far removed from the context.
 कर्तव्यानीति फलानि च त्यक्त्वा कर्तव्यानीति च निश्चितं मे मम मतम्। अत
 एवोत्तमम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.6 It is My decided and final view that even these acts should be done, O Arjuna, with relinishment of attachment and the fruits thereof.
@@ -289,11 +304,13 @@ Then He said with all the force of His authority that acts of sacrifice;
 charity and austerity should not be given up as they are purifiers of the wise. Even these actions should be performed; etc.; is only the conclusion of what the Lord has stated in verse 4.The word Api (even)
 implies that the acts of sacrifice; charity and austerity should be done by an aspirant although they bind one who has attachment to the actions and a desire for their reward.Just as the seeds of trees can be rendered barren by being scorched; so the aspirant burns the fruitbearing tendency of Karma through the abandonment of the desire for the reward.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.6।। हे पार्थ ! (पूर्वोक्त यज्ञ, दान और तप -- ) इन कर्मोंको तथा दूसरे
@@ -431,6 +448,7 @@ implies that the acts of sacrifice; charity and austerity should be done by an a
 
 ।।18.6।। हे पार्थ ! इन कर्मों को भी, फल और आसक्ति को त्यागकर करना चाहिए,
 यह मेरा निश्चय किया हुआ उत्तम मत है।।
+</details>
 </details>
 
 </div>

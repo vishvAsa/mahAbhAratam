@@ -23,8 +23,9 @@ title = "44 पूर्वाभ्यासेन तेनैव"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.44॥**तेन पूर्वाभ्यासेन** पूर्वेण योग-विषयेण अभ्यासेन   
@@ -52,12 +53,14 @@ title = "44 पूर्वाभ्यासेन तेनैव"
 
 6.43 - 6.44 There, in that existence, he regains the mental disposition for Yoga that he had in the previous birth. Like one awakened from sleep, he strives again from where he had left before attaining complete success. He strives so as not to be defeated by impediments. This person who has fallen away from Yoga is borne on towards Yoga alone by his previous practice, i.e., by the older practice with regard to Yoga. This power of Yoga is well known. Even a person, who has not engaged in Yoga but has only been desirous of knowing Yoga, i.e., has failed to follow it up, acries once again the same desire to practise Yoga. He then practises Yoga, of which the first stage is Karma Yoga, and transcends Sabda-brahman (or Brahman which is denotable by words). The Sabda-brahman is the Brahman capable of manifesting as gods, men, earth, sky, heaven etc., namely, Prakrti. The meaning is that having been liberated from the bonds of Prakrti, he attains the self which is incapable of being named by such words as gods, men etc., and which comprises solely of knowledge and beatitude. After thus describing the glory of Yoga the verse says:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.44॥ यः पूर्वजन्मनि कृतः अभ्यासः सः **पूर्वाभ्यासः तेनैव** बलवता **ह्रियते** संसिद्धौ हि यस्मात् **अवशोऽपि सः** योगभ्रष्टः न कृतं चेत् योगाभ्यासजात् संस्कारात् बलवत्तरमधर्मादिलक्षणं कर्म तदा योगाभ्यासजनितेन संस्कारेण ह्रियते अधर्मश्चेत् बलवत्तरः कृतः तेन योगजोऽपि संस्कारः अभिभूयत एव तत्क्षये तु योगजः संस्कारः स्वयमेव कार्यमारभते न दीर्घकालस्थस्यापि विनाशः तस्य अस्ति इत्यर्थः। अतः **जिज्ञासुरपि योगस्य** स्वरूपं ज्ञातुमिच्छन् अपि योगमार्गे प्रवृत्तः संन्यासी योगभ्रष्टः सामर्थ्यात् सोऽपि **शब्दब्रह्म** वेदोक्तकर्मानुष्ठानफलम् **अतिवर्तते** अतिक्रामति अपाकरिष्यति किमुत बुद्ध्वा यः योगं तन्निष्ठः अभ्यासं कुर्यात्॥
 </details>
@@ -184,12 +187,14 @@ is the state of Yoga higher;
 ज्ञानाधिकारी भवतीत्यर्थः। एतेनापि ज्ञानकर्मसमुच्चयो निराकृत इति
 द्रष्टव्यम्। समुच्चये हि ज्ञानिनोऽपि कर्मकाण्डातिक्रमाभावात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.44॥ योगस्य जिज्ञासुरपि। ज्ञातव्यो मया योग इति यस्यातीवेच्छा सोऽपि
 शब्दब्रह्मातिवर्तते। परं ब्रह्म प्राप्नोतीत्यर्थः।
@@ -210,12 +215,14 @@ is the state of Yoga higher;
 शब्दब्रह्मशब्देन वैदिकविधिनिषेधावत्रोच्येते। तदतिवर्तनं
 परंब्रह्मप्राप्तस्यैवेत्यत एवमुक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md"></div>
 </details>
 
@@ -223,12 +230,14 @@ is the state of Yoga higher;
 
 6.44 See Comment under 6.45
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.44॥ पूर्वदेहकृताभ्यासेनावशोऽपि कुतश्चिदन्तरायादनिच्छन्नपि ह्रियते
 विषयेभ्यः परावृत्त्य योगनिष्ठः क्रियते। किञ्च कैमुत्येन दृढयति
@@ -255,10 +264,13 @@ is the state of Yoga higher;
 किन्तु साधारण्येन वाक्यश्रद्धयैव प्रवृत्तौ तेन सिद्धिरभूत्। अधुना
 तूत्तमकुलजन्माप्त्या तत्स्वरूपं कुरुते अतः प्राप्स्यतीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.44॥ तत्र हेतुः **पूर्वेति।** तेनैव पूर्वदेहकृताभ्यासेनावशोऽपि
 कुतश्चिदन्तरायादनिच्छन्नपि संह्रियते। विषयेभ्यः परावर्त्य ब्रह्मनिष्ठः
@@ -268,10 +280,13 @@ is the state of Yoga higher;
 पापवशाद्योगभ्रष्टोऽपि शब्दब्रह्म वेदमतिवर्तते
 वेदोक्तकर्मफलान्यतिक्रामति। तेभ्योऽधिकं फलं प्राप्य मुच्यत इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.44 By the power of his earlier practice, he is carried forward even against his will. Even though he is an enirer about Yoga, he transcends the Sabda-brahman i.e., Prakrti or matter.
@@ -304,11 +319,13 @@ Even he who merely wishes to know Yoga goes beyond the Brahmic word.
 अतिवर्तते goes beyond.Commentary The man who fell from Yoga is carried to the goal which he intended to reach in his previous birth; by the force of the Samskaras of the practice of Yoga though he may not be conscious of them and even if he may not be willing to adopt the course of Yogic discipline on account of the force of some evil Karma. If he had not done any great evil action which could overwhelm his Yogic tendencies he will certainly continue his Yogic practices in this birth very vigorously through the force of the Yogic Samskaras created by his Yogic practices in his previous birth. If the force of the evil action is stronger; the Yogic tendencies will be overpowered or suppressed for some time. As soon as the fruits of the evil actions are exhausted; the force of the Yogic Samskaras will begin to manifest itself. He will start his Yogic practices vigorously and attain the final beatitude of life.Even an enirer in whom a desire for information about Yoga is kindled goes beyond the Brahmic word; i.e.; the Vedas. He rises superior to the performer of the Vedic rituals and ceremonies. He is beyond the entanglement of forms and ceremonies. He is not satisfied with mere ritualism. He thirsts for a satisfaction higher than that given by the sensual objects. He who simply wishes to know the nature of the principles of Yoga frees himself from the SabdaBrahma; i.e.; from the effects of the Vedic rituals and ceremonies. If this be the case of a simple enirer; how much more exalted should be the condition of a real practitioner or knower of Yoga or of one who is established in Nirvikalpa Samadhi He will be absolutely free from the effects of the Vedic rituals and ceremonies. He will enjoy the eternal bliss and the everlasting peace of the Eternal.An aspirant who is desirous of obtaining Moksha alone is not affected by the sin of nonperformance of action even if he renounces all the obligatory and optional or occasional duties. He goes beyond the word of Brahman (the scripture or the Vedas).When such is the case of an aspirant who is without any spiritual inclinations or Samskaras of the previous birth; how much more exalted will be the state of that student who has done Yogic practices in his previous birth; who has fallen from Yoga in his previous birth;
 and who has taken up Yoga in this birth; renouncing all the worldly activitiesImpelled by the strong desire for liberation he practises rigorous Sadhana in this birth. He is constrained; as it were; by the force of the good Samskaras of his previous birth to take to Yogic practices in spite of himself.In this verse the Lord lays stress on the fact that no effort in the practice of Yoga goes in vain. Even the smallest effor will have its effect sooner or later in this birth or another. Therefore there is no cause for disappointment even for the dullest type of spiritual aspirant.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.44।। वह (श्रीमानोंके घरमें जन्म लेनेवाला योगभ्रष्ट मनुष्य) भोगोंके
@@ -379,6 +396,7 @@ and who has taken up Yoga in this birth; renouncing all the worldly activitiesIm
 
 ।।6.44।। उसी पूर्वाभ्यास के कारण वह अवश हुआ योग की ओर आकर्षित होता है।
 योग का जो केवल जिज्ञासु है वह शब्दब्रह्म का अतिक्रमण करता है।।
+</details>
 </details>
 
 </div>

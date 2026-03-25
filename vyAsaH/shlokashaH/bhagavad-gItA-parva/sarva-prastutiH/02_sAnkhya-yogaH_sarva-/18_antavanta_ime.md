@@ -23,8 +23,9 @@ title = "18 अन्तवन्त इमे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 देहानां तु विनाशित्वम् एव स्वभाव इत्याह - ॥2.18॥ दिह उपचये इत्य् उपचयरूपा **इमे देहा अन्तवन्तः** विनाशस्वभावा उपचयात्माका हि घटादयो ऽन्वन्तो दृष्टाः। **नित्यस्य शरीरिणः** कर्मफलभोगार्थतया भूतसङ्घातरूपा देहाःपुण्यः पुण्येन (बृ॰ उ॰ 4।4।5) इत्यादिशास्त्रैः **उक्ताः** कर्मावसानविनाशिनः। आत्मा त्व् अविनाशी कुतो ऽप्रमेयत्वात्। न ह्य् आत्मा प्रमेयतया उपलभ्यते अपि तु प्रमातृतया। तथा च वक्ष्यते एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः॥ (गीता 13।1) इति।  
@@ -62,12 +63,14 @@ Because it is not measurable. Neither can It be conceived as the object of knowl
 (elements). Because in the perception 'I am the knower' throughout the body, only something other than the body is understood as possessing an invariable form as the knower. Further, this knower cannot be dismembered and seen in different places as is the case with the body.
 Therefore the self is eternal, for (1) It is not a complex being of a single form; (2) It is the knowing subject; and (3) It pervades all. On the contrary, the body is perishable, because (1) it is complex; (2) it serves the purpose of experiencing the fruits of Karma by the embodied self; (3) it has a plurality of parts and (4) it can be pervaded. Therefore, as the body is by nature perishable and the self by nature is eternal, both are not objects fit for grief. Hence, bearing with courage the inevitable strike of weapons, sharp or hard, liable to be received by you and others, begin the action called war without being attached to the fruits but for the sake of attaining immortality.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.18॥  
   
@@ -461,12 +464,14 @@ slight verbal differences.-Tr.\]
   
 भगवद्गीतावचनविरोधेनैव निराकरिष्यामः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.18॥ भवतु देहस्यापि कस्यचिन्नित्यत्वमिति नेत्याह अन्तवन्त इति। अस्तु
 तर्हि दर्पणनाशात् प्रतिबिम्बनाशवदात्मनाश इत्यत आह नित्यस्य शरीरिण इति।
@@ -529,12 +534,14 @@ slight verbal differences.-Tr.\]
 प्रकृतेऽपि। स्व आत्मा रूपं यस्याः सा स्वरूपा। चिद्रूपत्वात् स्वरूपत्वं
 स्वरूपत्वान्नित्यत्वम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.19॥ अन्तवन्त इति। देहाः निरुपाख्याताकले +++(S निरुपाख्यकाले)+++ स्थूलविनाशयोगिनः तदन्यथानुपपत्तेरेव च विनाशिनः प्रतिक्षणमवस्थान्तरभागिनः। यदुक्तम्  
   
@@ -553,12 +560,14 @@ slight verbal differences.-Tr.\]
 
 2.18 Antavantah etc. The bodies, at the time of their attaining the unobservable stage, meet their apparent destruction. This would be impossible if they do not suffer the peculiar destruction, that it to say they undergo changes every moment. For, it has been said- 'By observing the dilapidated condition of beings at their last moment, the loss of newness is very moment is inferred' The same has been said by the Sage (Vyasa) also as- 'In every being, in every moment, there is mutual difference between its tiny parts that have different purposes. But on account of its subtlity, it is not cleary comprehended (MB, Santi., Moksa. Ch. 308, verse 121). \[In theabove passage\] having different purposes amounts to say 'because they perform different acts having their own respective special purposes.; Now, the bodies have thier end and are ever changing. On the other hand, the Self is destructionless, because It is incomprehensible. Changing nature belongs only to the insentient thing which is comprehensible, but not to what is non-insentient and is exclusively consciousness in nature. Because, it is not possible \[for one\] to gain an altogether different nature. Thus, the bodies meet permanently their end and hence they cannot be lamented for; the Self ever remains without destruction (or without changing) and hence need not be lamented for. Thus a single krtya-suffix has been employed on both the senses simultaneously by the sage in the expression asocyan.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.18॥ उक्तं सर्वं निगमयति अन्तवन्त इति। इमे देहा नित्यस्य
 शरीरिणोऽस्यान्तवन्तः अनित्याः कृतेऽप्यकृते शोकेऽस्थिरा उक्ताः। शास्त्रे
@@ -579,10 +588,13 @@ slight verbal differences.-Tr.\]
 सम्बोधनमुक्तवचनविश्वासार्थं यतः सत्कुलोत्पन्नस्यैवम्भूतभगवद्वाक्ये
 विश्वासो भवति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.18॥ आगमापायधर्मकं संदर्शयति **अन्तवन्त इति।** अन्तो विनाशो विद्यते
 येषां तेऽन्तवन्तः। नित्यस्य सर्वदैकरुपस्य शरीरिणः शरीरवतः अतएव अनाशिनो
@@ -590,10 +602,13 @@ slight verbal differences.-Tr.\]
 उक्तास्तत्त्वदर्शिभिः। यस्मादेवमात्मनो न विनाशः नच सुखदुःखादिसंबन्धः
 तस्मान्मोहजं शोकं त्यक्त्वा युध्यस्व। स्वधर्मे मा त्याक्षीरित्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.18 These bodiesof the Jiva (the embodied self) are said to have an end while the Jiva itself is eternal, indestructible and incomprehensibel.
@@ -627,11 +642,13 @@ Immeasurable Spirit inhabits are all finite. Therefore fight, O Valiant Man!
 2.18 अन्तवन्तः having an end; इमे these; देहाः bodies; नित्यस्य of the everlasting; उक्ताः are said; शरीरिणः of the embodied; अनाशिनः of the indestructible; अप्रमेयस्य of the immesaurable; तस्मात् therefore;
 युध्यस्व fight; भारत O Bharata.Commentary -- Lord Krishna explains to Arjuna the nature of the allpervading; immortal Self in a variety of ways and thus induces him to fight by removing his delusion; grief and despondency which are born of ignorance.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.18।। अविनाशी, अप्रमेय और नित्य रहनेवाले इस शरीरी के ये देह अन्तवाले
@@ -760,6 +777,7 @@ Immeasurable Spirit inhabits are all finite. Therefore fight, O Valiant Man!
 
 ।।2.18।। इस नाशरहित अप्रमेय नित्य देही आत्मा के ये सब शरीर नाशवान् कहे
 गये हैं। इसलिये हे भारत ! तुम युद्ध करो।।
+</details>
 </details>
 
 </div>

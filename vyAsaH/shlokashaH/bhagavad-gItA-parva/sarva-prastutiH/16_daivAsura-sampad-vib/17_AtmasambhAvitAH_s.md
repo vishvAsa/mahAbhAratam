@@ -23,8 +23,9 @@ title = "17 आत्मसम्भाविताः स्तब्धा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.17॥**आत्मसम्भाविताः** आत्मना एव सम्भाविता आत्मना एव आत्मानं सम्भावयन्ति इत्यर्थः। **स्तब्धाः** परिपूर्णं मन्यमाना न किञ्चित्कुर्वाणाः; कथम् **धनमानमदान्विताः** -- धनेन विद्याभिजनाभिमानेन च जनितमदान्विताः **नामयज्ञैः** नामप्रयोजनैर् यष्टा इति नाममात्रप्रयोजनैर् यज्ञैः **यजन्ते;** तद् अपि **दम्भेन** हेतुना यष्टृत्वख्यापनाय; **अविधिपूर्वकम्** अयथाचोदनं यजन्ते। ते च ईदृग्भूता यजन्ते इत्याह --
@@ -42,12 +43,14 @@ title = "17 आत्मसम्भाविताः स्तब्धा"
 'possessed of the intoxication of wealth and pride,' viz., they are intoxicated by wealth and pride of wealth, learning and descent. They perform sacrifices in name only,' viz., they perform sacrifices for the fame of it, the purpose being gaining fame as the performers of sacrifice. These are performed for ostentation acutated with the motive of becoming famous as the performers of sacrifices and not in accordance with the proper rulesof the Sastras, viz., without regard to any
 ;ndment. Sri Krsna says that they perform sacrifices in the following manner:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.17॥ --,**आत्मसंभाविताः** सर्वगुणविशिष्टतया आत्मनैव संभाविताः आत्मसंभाविताः; न साधुभिः। **स्तब्धाः** अप्रणतात्मानः। **धनमानमदान्विताः** धननिमित्तः मानः मदश्च; ताभ्यां धनमानमदाभ्याम् अन्विताः। **यजन्ते नामयज्ञैः** नाममात्रैः यज्ञैः **ते दम्भेन** धर्मध्वजितया **अविधिपूर्वकं** विधिविहिताङ्गेतिकर्तव्यतारहितम्॥
 </details>
@@ -115,12 +118,14 @@ performance as enjoined.
 विहिताङ्गेतिकर्तव्यतारहितैर्दम्भेन धर्मध्वजितया नतु श्रद्धया,यजन्ते
 अतस्तत्फलभाजो न भवन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.17॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -129,12 +134,14 @@ performance as enjoined.
 
 ॥16.17॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.17 -- 16.20॥ आत्मसंभाविता इत्यादि गतिमित्यन्तम्। यज्ञैर्यजन्ते नाम; निष्फलमित्यर्थः। क्रोधेन हि सर्वं नश्यतीत्यर्थः। यद्वा नामयज्ञैः; संज्ञामात्रेणैव +++(S; omit एव)+++ ये यज्ञाः तैः +++(S; omit तैः)+++। अथवा -- नामार्थं प्रसिद्ध्यर्थं ये यज्ञाः +++(omits ये यज्ञाः)+++ -- येन +++(S omits येन)+++ यज्ञयाजी अयम् इति व्यपदेशो जायते -- ते दम्भपूर्वका एव; न तु फलन्ति। क्रोधादिरूषितत्वादेव लोकान् द्विषन्तो मामेव द्विषन्ति। अहं वासुदेवो हि सर्वावासः। आत्मनि च द्वेषवन्तः आत्मनो ( आत्मने) ह्यहितं निरयपातहेतुम् आचरन्ति +++(S उपाचरन्ति)+++। तांश्चाहम् आसुरीष्वेव योनिषु क्षिपामि।
 </details>
@@ -143,12 +150,14 @@ performance as enjoined.
 
 16.17 See Coment under 16.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.17॥ आत्मसम्भाविता इति। नामयज्ञैर्नाममात्रयज्ञैर्यजन्ति ते दम्भेन
 तत्राप्यविधिपूर्वकम्।
@@ -164,10 +173,13 @@ performance as enjoined.
 प्रतिष्ठार्थमविधिपूर्वकं मदंशादिज्ञानाभावेन मद्भजनराहित्येन ते
 पूर्वोक्ता आसुरा यज्ञादिकं कुर्वन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.17॥ यक्ष्य इति च यस्तेषां मनोरथ उक्तः स केवलं दम्भाहंकारादिप्रधान
 एव नतु सात्त्विक इत्यभिप्रायेणाह **--** **आत्मसंभाविता इति** द्वाभ्याम्।
@@ -177,10 +189,13 @@ performance as enjoined.
 यज्ञास्तैर्यजन्ते। कथम्। दम्भेन नतु श्रद्धया। अविधिपूर्वकं च यथा भवति
 तथा।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.17 Self-conceited, self-sufficient, possessed of the intoxication of wealth and pride, they perform sacrifices in name only, with ostentation and not according to the injunctions of the Sastras.
@@ -217,11 +232,13 @@ They have a very high opinion of their own greatness. They esteem themselves as 
 intoxicated as they are with the wine of wealth. They pretend to perform Yajnas.They do not care for an altar; a sacrifical bower or a receptacle for the fire; or any of the proper materials to be used in the sacrifices. They do not pay any attention to the prescribed rules. They do sacrifices in order to increase their own fame. They will not hear even the mentioning of the name of God or Brahmana. How can God or a Brahmana attend their sacrifices They perform sacrifices without paying attention to the several parts of them and the obligations enjoined in the scriptural ordinances such as the recitation of the Mantras; worship of the gods; giving of the fees; etc. They will not do the sacrifices with reverence and faith. They want that all the people should say that they are Somayajis (performers of the Soma sacrifice). They will not attain the fruits of the sacrifice. There is no idea of service in them.
 They perform sacrifice to deceive the world; but not out of sincerity and faith.Mana Pride consists in supposing oneself worthy of a high honour (on account of ones wealth or learning; etc.).Mada On account of intoxication of wealth the wealthy man treats the Guru and other persons who are worthy of being honoured; with contempt. Wealth and learning turn their heads. This is Mada.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.17।। अपनेको सबसे अधिक पूज्य माननेवाले, अकड़ रखनेवाले तथा धन और मानके
@@ -328,6 +345,7 @@ They perform sacrifice to deceive the world; but not out of sincerity and faith.
 ।।16.17।। अपने आप को ही श्रेष्ठ मानने वाले, स्तब्ध (गर्वयुक्त), धन और
 मान के मद से युक्त लोग शास्त्रविधि से रहित केवल नाममात्र के यज्ञों
 द्वारा दम्भपूर्वक यजन करते हैं।।
+</details>
 </details>
 
 </div>

@@ -26,8 +26,9 @@ title = "47 एवमुक्त्वाऽर्जुनः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 स तु पार्थो महामनाः परमकारुणिको दीर्घबन्धुः परमधार्मिकः सभ्रातृको भवद्भिर् अतिघोरैर् मारणैर् जतुगृहादिभिर् असकृद् वञ्चितो ऽपि परमपुरुषसहायो ऽपि हनिष्यमाणान् भवदीयान् विलोक्य बन्धुस्नेहेन परमया च कृपया धर्माधर्मभयेन च अतिमात्रस्विन्नसर्वगात्रः सर्वथा अहं न योत्स्यामि इत्य् उक्त्वा बन्धुविश्लेषजनितशोकसंविग्नमानसः सशरं चापं विसृज्य रथोपस्थे उपाविशत्।
@@ -43,12 +44,14 @@ title = "47 एवमुक्त्वाऽर्जुनः"
 
 1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous. His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.47 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -76,12 +79,14 @@ starts from 2.10.
 श्रीपरमहंसपरिव्राजकाचार्यबालस्वामिश्रीपादशिष्यदत्तवंशावतंसरामकुमारसूनुधनपतिविदुषा
 विरचितायां गीताभाष्योत्कर्षदीपिकायां प्रथमोऽध्यायः॥1॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.47॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -92,21 +97,25 @@ starts from 2.11.
 ॥1.47॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
-
-</div>
-
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
-
-<details><summary>मूलम्</summary>
-
-॥1.47॥ No commentary.
 </details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
+
+॥1.47॥ No commentary.
+</details>
+</details>
+
+</div>
+
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
+
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.47॥ एवं तु पार्थो महाकरुणो लोकवेदधर्मपण्डितमानी कोमलमना वासुदेवसहायो
 निहनिष्यमाणान् विलोक्य बन्धुस्नेहेनाधमभयेन च प्रस्विन्नाङ्गः सर्वथा न
@@ -129,11 +138,13 @@ starts from 2.11.
 गीतामाहात्म्ये तस्मादध्यायमाद्यं यः पठेद्यः संस्मरेत्तथा। अभ्यासादस्य न
 भवेद्भवाम्भोधिः सुदुस्तरः श्लो.53 इति फलमुक्तं तस्मादुपोद्धातसङ्गतिः॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.47 Sanjaya said : Having spoken thus on the battle-field, Arjuna threw aside his how and arrows and sat down on the seat of the chariot, his heart overwhelmed with grief.
@@ -168,11 +179,13 @@ Arjuna, casting away his bow and arrow, sat down on the seat of the chariot with
 1.47 एवम् thus; उक्त्वा having said; अर्जुनः Arjuna; संख्ये in the battle; रथोपस्थे on the seat of the chariot; उपाविशत् sat down; विसृज्य
 having cast away; सशरम् with arrow; चापम् bow; शोकसंविग्नमानसः with a mind distressed with sorrow.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the first discourse entitledThe Yoga of the Despondency of Arjuna.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.47।। संजय बोले - ऐसा कहकर शोकाकुल मनवाले अर्जुन बाणसहित धनुष का
@@ -316,6 +329,7 @@ conclusion
 ।।1.47।। संजय ने कहा -- रणभूमि (संख्ये) में शोक से उद्विग्न मनवाला
 अर्जुन इस प्रकार कहकर बाणसहित धनुष को त्याग कर रथ के पिछले भाग में बैठ
 गया।
+</details>
 </details>
 
 </div>

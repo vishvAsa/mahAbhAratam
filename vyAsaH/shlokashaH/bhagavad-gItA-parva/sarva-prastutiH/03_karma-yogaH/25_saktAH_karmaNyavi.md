@@ -23,8 +23,9 @@ title = "25 सक्ताः कर्मण्यविद्वांसो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -122,12 +123,14 @@ title = "25 सक्ताः कर्मण्यविद्वांसो"
 
 3.25 'The ignorant' are those people who do not know the entire truth about the self; 'attached to their work' means they are inseparably yoked to work. Because of their incomplete knowledge of the self, they are not alified for Jnana Yoga which is of the nature of practising knowledge of the self. They are alified for Karma Yoga only. As they should practise Karma Yoga for the vision of the self in the same manner Karma Yoga should be practised by one who is recognised as virtuous, who is unattached to work by reason of the vision of the self, and who wishes that his conduct should give guidance to others in virtuous conduct. In this way he should protect the world from chaos by his example. Such a person, even though alified for Jnana Yoga, should practice Karma Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.25॥ **सक्ताः कर्मणि** अस्य कर्मणः फलं मम भविष्यति इति केचित् **अविद्वांसः यथा कुर्वन्ति भारत कुर्यात् विद्वान्** आत्मवित् **तथा असक्तः** सन्। तद्वत् किमर्थं करोति तत् श्रृणु **चिकीर्षुः** कर्तुमिच्छुः **लोकसंग्रहम्**॥ एवं लोकसंग्रहं चिकीर्षोः न मम आत्मविदः कर्तव्यमस्ति अन्यस्य वा लोकसंग्रहं मुक्त्वा। ततः तस्य आत्मविदः इदमुपदिश्यते
 </details>
@@ -193,12 +196,14 @@ is being given to such a knower of the Self:'
 भरतवंशोद्भवत्वेन भा ज्ञानं तस्यां रतत्वेन वा त्वं
 यथोक्तशास्त्रार्थबोधयोग्योऽसीति दर्शयति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.25॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -207,12 +212,14 @@ is being given to such a knower of the Self:'
 
 ॥3.25॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.23 3.25॥ यदीत्यादि लोकसंग्रहमित्यन्तम्। किं च विदितवेद्यः कर्म चेत् त्यजेत् तत् लोकानां दुर्भेद एव एकप्रसिद्धपक्षशिथिलितास्थाबन्धत्वेनाप्ररूढिलक्षणो जायेत +++(S K जायते)+++। यतः +++(S omits यतः)+++ कर्मवासनां च न मोक्तुं शक्नुवन्ति ज्ञानधारां च नाश्रयितुम् अथ च शिथिलीभवन्ति।
 </details>
@@ -221,12 +228,14 @@ is being given to such a knower of the Self:'
 
 3.23-25 Yadi etc. upto loka-sangraham. Further, if a well-in-formed person were to abandon action, that would create in the society, a split for bad in the form of being illrooted, becuase of the binding force - viz., the regard for a particular well-known theroy-being loosened. For, they are able neither to cast off their tendency of action nor to accupy the tradition (or stream) of wisdom. Conseently they become weak. Because these (common men) are not purified correct knowledge, therefore to break i.e., to shake their mind would be highly harmful for them. Hence, for their benefit, one should not disturb their mind. This \[the Lord\] says :
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.25॥ तस्माद्विदुषाऽपि लोकसङ्ग्रहार्थं तत्कृपया कर्म
 कर्त्तव्यमित्युपसंहरन्नाह सक्ता इति। उभयोः कर्माचरणे प्राप्ते प्रकारभेदं
@@ -242,20 +251,26 @@ is being given to such a knower of the Self:'
 विद्वान् पण्डितो मत्स्वरूपज्ञः लोकसङ्ग्रहं चिकीर्षुः
 कर्तुमिच्छरसक्तस्तन्नासक्तिरहितो मदाज्ञया कुर्यादित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/25_saktAH_karmaNyavi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/25_saktAH_karmaNyavi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.25॥ तस्मादात्मविदापि लोकसंग्रहार्थं तत्कृपया कर्म
 कार्यमेवेत्युपसंहरति **सक्ता इति।** कर्मणि सक्ता अभिनिविष्टाः
 सन्तोऽज्ञाः यथा कर्म कुर्वन्ति तथैव असक्तः सन् विद्वानपि कुर्यात्
 लोकसंग्रहं कर्तुमिच्छुः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.25 Just as the ignorant, attached to their work, act, O Arjuna, so too the learned should act without any attachment, and only for the welfare of the world.
@@ -289,11 +304,13 @@ is being given to such a knower of the Self:'
 तथा so; असक्तः unattached; चिकीर्षुः wishing; लोकसंग्रहम् the welfare of the world.Commentary The ignorant man works in expectation of fruits. He says; I will do such and such work and will get such and such fruit. But the wise man who knows the Self; serves not for his own end. He should so act that the world; following his example; would attain peace;
 harmony; purity of heart; divine light and knowledge. A wise man is one who knows the Self. (Cf.II.64III.19XVIII.49).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.25 -- 3.26।। हे भरतवंशोद्भव अर्जुन! कर्ममें आसक्त हुए अज्ञानीजन जिस
@@ -373,6 +390,7 @@ harmony; purity of heart; divine light and knowledge. A wise man is one who know
 ।।3.25।। हे भारत ! कर्म में आसक्त हुए अज्ञानीजन जैसे कर्म करते हैं वैसे
 ही विद्वान् पुरुष अनासक्त होकर, लोकसंग्रह (लोक कल्याण) की इच्छा से कर्म
 करे।।
+</details>
 </details>
 
 </div>

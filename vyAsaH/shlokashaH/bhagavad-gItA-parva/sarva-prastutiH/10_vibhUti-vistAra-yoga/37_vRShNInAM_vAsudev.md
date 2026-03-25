@@ -23,8 +23,9 @@ title = "37 वृष्णीनां वासुदेवोऽस्मि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.37॥ वसुदेवसूनुत्वम् अत्र विभूतिः; अर्थान्तराभावाद् एव। **पाण्डवानां धनञ्जयः** अर्जुनो ऽहम्; मुनयो मननेन अर्थयाथात्म्यदर्शिनः; तेषां **व्यासो ऽहं** कवयो विपश्चितः।
@@ -39,12 +40,14 @@ title = "37 वृष्णीनां वासुदेवोऽस्मि"
 
 10.37 Here the Supreme Vibhuti (manifestation) is that of being the son of Vasudeva, because no other meaning is possible. Of sons of Pandu, I am Dhananjaya or Arjuna. Of sages who perceive truth by meditation, I am Vyasa. The seers are those who are wise.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.37॥ --,**वृष्णीनां यादवानां** वासुदेवः **अस्मि** अयमेव अहं त्वत्सखा। **पाण्डवानां धनंजयः** त्वमेव। **मुनीनां** मननशीलानां सर्वपदार्थज्ञानिनाम् **अपि अहं व्यासः; कवीनां** क्रान्तदर्शिनाम् **उशना कविः** अस्मि॥
 </details>
@@ -92,12 +95,14 @@ know the past, present and future), I am the omniscient Usanas
 मुनीनां मननशीलानामपि मध्ये वेदव्यासोऽहम्। कवीनां क्रान्तदर्शिनां
 सूक्ष्मार्थविवेकिनां मध्ये उशना कविरिति ख्यातः शुक्रोऽहम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.37॥ आच्छादयति सर्वं वासयति वसति चेति सर्वत्र वासुदेवः। देवशब्दार्थ
 उक्तः पुरस्तात् -- छन्दयामि जगद्विश्वं भूत्वा सूर्य इवांशुभिः।
@@ -125,12 +130,14 @@ know the past, present and future), I am the omniscient Usanas
 इत्यर्थः; स व्यासः। कुतः वीति हेतोः। कोऽर्थः तमपोऽर्थो हि विशब्दः उत्तरत
 उपरिष्टात् यच्च किञ्चिदिति भगवतः सर्वगतत्वे प्रमाणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -139,12 +146,14 @@ know the past, present and future), I am the omniscient Usanas
 
 10.37 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.37॥ यदुष्वपि स्वस्य विभूतिव्याप्तिमाह -- वृष्णीनामिति। यादवानां
 मध्ये वासुदेवत्वधर्ममयो भगवान् चिन्त्योऽहं (जातोऽहम्)। तेन वासुदेवो मे
@@ -163,19 +172,25 @@ know the past, present and future), I am the omniscient Usanas
 व्यासः कृष्णद्वैपायनोऽस्मि। कवीनां निर्दुष्टस्वरशब्दप्रदर्शिनां मध्ये
 उशना कविः शुक्रोऽस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.37॥ **वृष्णीनामिति।** वासुदेवो योऽहं त्वामुपदिशामि। धनंजयस्त्वमेव
 मद्विभूतिः। मुनीनां वेदार्थमननशीलानां वेदव्यासोऽहमस्मि। कवीनां
 काव्यदर्शिनां मध्ये उशनानाम कविः शुक्रः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.37 Of Vrsnis I am Vasudeva. Of Pandavas, I am Arjuna. Of sages I am Vyasa and of seers, I am Usana (Sukra).
@@ -209,11 +224,13 @@ among the sages I am Vyasa; among the Poets I am Usanas, the poet.
 पाण्डवानाम् among the Pandavas; धनञ्जयः Dhananjaya; मुनीनाम् among the sages; अपि also; अहम् I; व्यासः Vyasa; कवीनाम् among poets; उशनाः
 Usanas; कविः the poet.Commentary Vrishnis are Yadavas or the descendants of Yadu. I am the foremost among them.Usanas is Sukracharya; the preceptor of the demons.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.37।। वृष्णिवंशियोंमें वासुदेव और पाण्डवोंमें धनञ्जय मैं हूँ।
@@ -272,6 +289,7 @@ Usanas; कविः the poet.Commentary Vrishnis are Yadavas or the descendants
 
 ।।10.37।। मैं वृष्णियों में वासुदेव हूँ और पाण्डवों में धनंजय, मैं
 मुनियों में व्यास और कवियों में उशना कवि हूँ।।
+</details>
 </details>
 
 </div>

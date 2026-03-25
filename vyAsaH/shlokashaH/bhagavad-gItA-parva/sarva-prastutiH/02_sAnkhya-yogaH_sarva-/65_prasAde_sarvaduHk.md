@@ -23,8 +23,9 @@ title = "65 प्रसादे सर्वदुःखानाम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.65॥ अस्य पुरुषस्य मनसः प्रसादे सति प्रकृतिसंसर्गप्रयुक्तसर्वदुःखानां हानिर् उपजायते। प्रसन्नचेतस आत्मावलोकनविरोधिदोषरहितमनसस् तदानीम् एव हि विविक्तात्मविषया बुद्धिर् मयि पर्यवतिष्ठते अतो मनःप्रसादे सर्वदुःखानां हानिर् भवत्य् एव।
@@ -39,12 +40,14 @@ title = "65 प्रसादे सर्वदुःखानाम्"
 
 2.65 When the mind of this person gets serene, he gets rid of all sorrows originating from contact with matter. For, in respect of the peson whose mind is serene, i.e., is free from the evil which is antagonistic to the vision of the self, the Buddhi, having the pure self for its object, becomes established immediately. Thus, when the mind is serene, the loss of all sorrow surely arises.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.65॥  
   
@@ -134,12 +137,14 @@ hatred. That same serenity is being eulogized:
   
 सर्वदुःखहानिकरत्वकथनमिति न विरोधः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.65॥ कथं प्रसादमात्रेण सर्वदुःखहानिः प्रसन्नचेतसो हि बुद्धिः
 पर्यवतिष्ठते ब्रह्मापरोक्ष्येण सम्यक्स्थितिं करोति। प्रसादो नाम स्वतः
@@ -163,12 +168,14 @@ hatred. That same serenity is being eulogized:
 **प्रसाद** इति। अत्र विवक्षितेति शेषः। स्वतोऽपि प्रयत्नं विनाऽपि
 विषयागतिर्विषयान्प्रत्यप्रवृत्तिः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.66 2.70॥ रागद्वेषेत्यादि प्रतिष्ठितेत्यन्तम्। यस्तु मनसो नियामकः स विषयान् सेवमानोऽपि न क्रोधादिकल्लोलैरभिभूयते इति स एव स्थितप्रज्ञो योगीति तात्पर्यम्।
 </details>
@@ -177,12 +184,14 @@ hatred. That same serenity is being eulogized:
 
 2.65 See Comment under 2.68
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.64 2.65॥ नन्विन्द्रियाणां विषयाभिमुखस्वभावानां
 निरोधस्याशक्यत्वाद्दोषो दुष्परिहर इति कथं प्रज्ञायाः प्रतिष्ठितत्वं
@@ -200,18 +209,24 @@ hatred. That same serenity is being eulogized:
 प्रसन्नचेतस इति। दुःखहानौ प्रसन्नं चेतो यस्य तादृशो भवति। ततस्तस्य अनु
 शीघ्रमेव बुद्धिः पर्यवतिष्ठते। मयीति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.65॥ प्रसादे सति किं स्यादित्यत्राह **प्रसाद इति।** प्रसादे सति
 सर्वदुःखनाशस्ततश्च प्रसन्नचेतसो बुद्धिः प्रतिष्ठिता भवतीत्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.65 In that serenity there is loss of all sorrow; for in the case of the person with a serene mind, the Buddhi soon becomes well established.
@@ -243,11 +258,13 @@ hatred. That same serenity is being eulogized:
 अस्य of him; उपजायते arises (or happens); प्रसन्नचेतसः of the tranilminded; हि because; आशु soon; बुद्धिः intellect (or reason);
 पर्यवतिष्ठते becomes steady.Commentary When the mental peace is attained; there is no hankering after senseobjects. The Yogi has perfect mastery over his reason. The intellect abides in the Self. It is ite steady. The miseries of the body and the mind come to an end.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.64 -- 2.65।। वशीभूत अन्तःकरणवाला कर्मयोगी साधक रागद्वेषसे रहित अपने
@@ -306,6 +323,7 @@ hatred. That same serenity is being eulogized:
 
 ।।2.65।। प्रसाद के होने पर सम्पूर्ण दुखों का अन्त हो जाता है और
 प्रसन्नचित्त पुरुष की बुद्धि ही शीघ्र ही स्थिर हो जाती है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "43 शौर्यन् तेजो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.43॥**शौर्यं** युद्धे निर्भयप्रवेशसामर्थ्यम्। **तेजः** परैर् अनभिभवनीयता। **धृतिः** आरब्धे कर्मणि विघ्नोपनिपाते अपि तत्समापनसामर्थ्यम्। **दाक्ष्यं** सर्वक्रियानिवृत्तिसामर्थ्यम्। **युद्धे च अप्य् अपलायनं** युद्धे च आत्ममरणनिश्चये अप्य् अनिवर्तनम् **दानम्** आत्मीयस्य द्रव्यस्य परस्वत्वापादानपर्यन्तस् त्यागः; **ईश्वरभावः** स्वव्यतिरिक्तसकलजननियमनसामर्थ्यम्; एतत् क्षत्रियस्य **स्वभावजं कर्म।**
@@ -42,12 +43,14 @@ title = "43 शौर्यन् तेजो"
 'Steadiness' is the capacity to complete a work that has been started despite obstacles. 'Adroitness' is the ability in executing all works.
 'Apalayana' is not fleeing in a battle though one is convinced of one's death. 'Generosity' is parting with one's own possessions to others even to its entirety. 'Lordliness' is the capacity to govern all others. This is the duty of a Ksatriya born of his inherent nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.43॥ --,**शौर्यं** शूरस्य भावः; **तेजः** प्रागल्भ्यम्; **धृतिः** धारणम्; सर्वावस्थासु अनवसादः भवति यया धृत्या उत्तम्भितस्य; **दाक्ष्यं** दक्षस्य भावः; सहसा प्रत्युत्पन्नेषु कार्येषु अव्यामोहेन प्रवृत्तिः; **युद्धे चापि अपलायनम्** अपराङ्मुखीभावः शत्रुभ्यः; **दानं** देयद्रव्येषु मुक्तहस्तता; **ईश्वरभावश्च** ईश्वरस्य भावः; प्रभुशक्तिप्रकटीकरणम् ईशितव्यान् प्रति; **क्षात्रं कर्म** क्षत्रियजातेः विहितं कर्म क्षात्रं कर्म **स्वभावजम्**॥
 </details>
@@ -118,12 +121,14 @@ who have to be ruled.
 प्रजापालनार्थमीशितव्येष्वर्थेषु प्रभुशक्तिप्रकटीकरणं च क्षत्रकर्म
 क्षत्रियजातेर्विहितं कर्म स्वभावजं सत्त्वोपसर्जनरजोगुणस्वभावजम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.43॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -132,12 +137,14 @@ who have to be ruled.
 
 ॥18.43॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.41 -- 18.60॥ एवमियता षण्णां प्रत्येकं त्रिस्वरूपत्वं धृत्यादीनां च प्रतिपादितम्। तन्मध्यात् सात्त्विके राशौ वर्तमानो दैवीं संपदं प्राप्त इह ज्ञाने योग्यः; त्वं च तथाविधः इत्यर्जुनः प्रोत्साहितः। अधुना तु इदमुच्यते
 -- यदि तावदनया ज्ञानबुद्ध्या कर्मणि भवान् प्रवर्तते तदा
@@ -148,12 +155,14 @@ who have to be ruled.
 
 18.43 See Comment under 18.60
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.43॥ क्षत्ति्रयस्य तदाह -- शौर्यमिति। धृतिर्धैर्यमक्लैब्यमिति यावत्।
 युद्धे दाक्ष्यम्। ईश्वरभाव ऐश्वर्यम्।
@@ -167,20 +176,26 @@ who have to be ruled.
 दानशीलता; च पुनः ईश्वरभावः नियमनैकस्वभावत्वम्; एतत् क्षात्त्रं कर्म
 क्षत्ति्रयस्य स्वभावजं स्वस्वभावाज्जातं कर्म।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.43॥ क्षत्रियस्य स्वाभाविकानि कर्माण्याह **-- शौर्यमिति।** शौर्यं
 पराक्रमः; तेजः प्रागल्भ्यम्; धृतिर्धैर्यम्; दाक्ष्यं कौशलं; युद्धे
 चाप्यपलायनपराङ्मुखता; दानमौदार्यम्; ईश्वरभावो नियमनशक्तिः;
 एतत्क्षत्रियस्य स्वभावजं कर्म।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.43 Valour, invincibility, steadiness, adroitness and non-fleeing in battle, generosity and lordliness are the duties of a Ksatriya born of his inherent nature.
@@ -214,11 +229,13 @@ dexterity; युद्धे in battle; च and; अपि also; अपला�
 दानम् generosity; ईश्वरभावः lordliness; च and; क्षात्रम् of Kshatriyas;
 कर्म action; स्वभावजम् born of nature.Commentary It is the first duty of Kshatriya (man of the warrior class or of royal blood) to be brave and chivalrous. Bravery is that sublime virtue through which one is naturally strong; vigorous and courageous. In the face of the most terrible calamity the mind will not be in the least perturbed. The Kshatriya is firm under any unfavourable or trying conditions or circumstances. He does not get the least depression of spirit even when he is in adverse circumstances. It is the skill by which the reason finds out its path amidst all untoward circumstances and eventually attains its goal. This is firmness; fortitude or courage.Dakshya Promptness He is able to decide rightly on the spot in matters that deman prompt attention doing without confusion; of duties which present themselves all of a sudden and demand prompt action.As the sunflower always turns its face towards the sun so does he always face his enemies. He will ever avoid turning his back to them on the field of battle. He is absolutely fearless. Just as a tree gives away its flowers and fruits freely to whoever desires them; as the jasmine sends out its sweet fragrace in every direction; so will a Kshatriya generously give to another whatever may be asked of him. His charity is boundless.Lordliness A Kshatriya king enjoys sovereignty over his subjects owing to the sure protection he grants them; exercises ruling power over his subjects who are to be ruled; and raises the rod of chastisement to punish the unrighteous or the wicked.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.43।। शूरवीरता, तेज, धैर्य, प्रजाके संचालन आदिकी विशेष चतुरता,
@@ -312,6 +329,7 @@ dexterity; युद्धे in battle; च and; अपि also; अपला�
 
 ।।18.43।। शौर्य, तेज, धृति, दाक्ष्य (दक्षता), युद्ध से पलायन न करना, दान
 और ईश्वर भाव (स्वामी भाव) - ये सब क्षत्रिय के स्वाभाविक कर्म हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "24 यत्तु कामेप्सुना"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.24॥**यत् तु पुनः कामेप्सुना** फलप्रेप्सुना **साहङ्कारेण वा;** वाशब्दश् चार्थे; कर्तृत्वाभिमानयुक्तेन च; **बहुलायासं** यत् **कर्म क्रियते; तद् राजसम्** -- बहुलायासम् इदं कर्म मया एव क्रियते इत्येवंरूपाभिमानयुक्तेन यत् कर्म क्रियते तद् राजसम् इत्यर्थः।
@@ -39,12 +40,14 @@ title = "24 यत्तु कामेप्सुना"
 
 18.24 But whatever act is performed by one who seeks to gratify his desires, viz., by one who desires the results of his action and with the feeling of egoism, viz., has the misconceived notion that oneself is the agent; and with a great deal of effort - such an act is of the nature of Rajas. Here va (or) is used in the sense of ca (and). Whatever action is performed by one who possesses the misconceived notion, 'This action demanding enormous effort is performed entirely by me' - it is said to be Rajasika.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.24॥ --,**यत्तु कामेप्सुना** कर्मफलप्रेप्सुना इत्यर्थः; **कर्म साहंकारेण** (वा गी0) इति न तत्त्वज्ञानापेक्षया। किं तर्हि लौकिकश्रोत्रियनिरहंकारापेक्षया। यो हि परमार्थनिरहंकारः आत्मवित्; न तस्य कामेप्सुत्वबहुलायासकर्तृत्वप्राप्तिः अस्ति। सात्त्विकस्यापि कर्मणः अनात्मवित् साहंकारः कर्ता; किमुत राजसतामसयोः। लोके अनात्मविदपि श्रोत्रियो निरहंकारः उच्यते निरहंकारः अयं ब्राह्मणः इति। तस्मात् तदपेक्षयैव साहंकारेण वा इति उक्तम्। **पुनः**शब्दः पादपूरणार्थः। **क्रियते** **बहुलायासं** कर्त्रा महता आयासेन निर्वर्त्यते; **तत्** कर्म **राजसम् उदाहृतम्**॥
 </details>
@@ -131,12 +134,14 @@ Punah (again) is used to complete the meter.
 क्लेशावहं यत्काम्यं कर्म क्रियते तद्राजसमुदाहृतम्। अत्र संर्वैर्विशेषणैः
 सात्त्विकसर्वविशेषणव्यतिरेको दर्शितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.24॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -145,12 +150,14 @@ Punah (again) is used to complete the meter.
 
 ॥18.24॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.23 -- 18.25॥ नियतमित्यादि तामसमुच्यते इत्यन्तम्। नियतम् -- कर्तव्यमिति। क्लेशैः अविद्याद्यैः बहुलं +++(S बहुलैः )+++ व्याप्तम्। मोहात् अभिनिवेशमयात्।
 </details>
@@ -159,12 +166,14 @@ Punah (again) is used to complete the meter.
 
 18.24 See Comment under 18.25
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.24॥ यत्त्विति। कामेप्सुना फलेप्सुना कर्तृत्वाद्यहङ्कारपूर्वकेन
 वाममेदं फलजनकं कर्म इति बहुल आयासो यत्र तद्राजसम्।
@@ -177,20 +186,26 @@ Punah (again) is used to complete the meter.
 स्वमहत्त्वख्यापनाय पुनः बहुलायासं अतिक्लेशयुक्तं शारीरोपद्रवसहितं
 क्रियते तत् कर्म राजस मुदाहृतम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.24॥ राजसं कर्माह **-- यत्त्विति।** यत्तु कर्म कामेप्सुना फलं
 प्राप्तुमिच्छता; साहंकारेण वा मत्समः कोऽन्यः श्रोत्रियोऽस्तीत्येवं
 निरूढाहंकारयुक्तेन च क्रियते; यच्च पुनर्बहुलायासमतिक्लेशयुक्तं तत्कर्म
 राजसमुदाहृतम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.24 But that act is said to be Rajasika which is performed with great effort by one who seeks to gratify his desires and under the prompting of egoism.
@@ -228,11 +243,13 @@ phalepsuna The Rajasic or passionate man expects pleasures as fruits of action. 
 If such be the case; the Rajasic and Tamasic workers are much more egoistic. In worldly parlance we speak of a learned Pundit This Pundit is a very modest; unassuming; and egoless Brahmana.Now listen; O Arjuna;
 to the characteristics of action that is of darkness.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.24।। परन्तु जो कर्म भोगोंको चाहनेवाले मनुष्यके द्वारा अहंकार अथवा
@@ -292,6 +309,7 @@ to the characteristics of action that is of darkness.
 
 ।।18.24।। और जो कर्म बहुत परिश्रम से युक्त है तथा फल की कामना वाले,
 अहंकारयुक्त पुरुष के द्वारा किया जाता है, वह कर्म राजस कहा गया है।।
+</details>
 </details>
 
 </div>

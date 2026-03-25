@@ -25,8 +25,9 @@ title = "17 किरीटिनङ् गदिनम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.17॥**तेजोराशिं सर्वतो दीप्तिमन्तं समन्ताद् दुर्निरीक्ष्यं दीप्तानलार्कद्युतिम् अप्रमेयं त्वां किरीटिनं गदिनं चक्रिणं च पश्यामि।**
@@ -41,12 +42,14 @@ title = "17 किरीटिनङ् गदिनम्"
 
 11.17 I behold you a mass of light shining everywhere, hard to look at, blazing like a burning fire and the sun. You, who are identifiable with Your divine diadem, mace and discus, are indefinable and immeasurable.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.17॥ --,**किरीटिनं** किरीटं नाम शिरोभूषणविशेषः तत् यस्य अस्ति सः किरीटी तं किरीटिनम्; तथा गदिनं गदा अस्य विद्यते इति गदी तं गदिनम्; तथा **चक्रिणं** चक्रम् अस्य अस्तीति चक्री तं चक्रिणं **च; तेजोराशिं** तेजःपुञ्जं **सर्वतोदीप्तिमन्तं** सर्वतोदीप्तिः अस्य अस्तीति सर्वतोदीप्तिमान्; तं सर्वतोदीप्तिमन्तं **पश्यामि त्वां दुर्निरीक्ष्यं** दुःखेन निरीक्ष्यः दुर्निरीक्ष्यः तं दुर्निरीक्ष्यं **समन्तात्** समन्ततः सर्वत्र **दीप्तानलार्कद्युतिम्** अनलश्च अर्कश्च अनलार्कौ दीप्तौ अनलार्कौ दीप्तानलार्कौ तयोः दीप्तानलार्कयोः द्युतिरिव द्युतिः तेजः यस्य तव स त्वं दीप्तानलार्कद्युतिः; तं त्वां दीप्तानलार्कद्युतिम् **अप्रमेयं** न प्रमेयम् अशक्यपरिच्छेदम् इत्येतत्॥ इत एव ते योगशक्तिदर्शनात् अनुमिनोमि
 --,
@@ -114,12 +117,14 @@ seeing Your power of Yoga, I infer' that-
 तमप्रमेयमित्थमयमिति परिच्छेत्तुमशक्यं त्वां समन्तात्सर्वतः पश्यामि
 दिव्येन चक्षुषा। अतोऽधिकारिभेदाद्दुर्निरीक्ष्यं पश्यामीति न विरोधः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.17॥ अनलार्कद्युतिमित्युक्ते मितत्वशङ्कामपाकरोति -- अप्रमेयमिति।
 </details>
@@ -132,12 +137,14 @@ seeing Your power of Yoga, I infer' that-
 स्वयमेवोक्तत्वादित्याह -- **अनलेति**। इत्युक्ते जातां द्युतेर्मित
 त्वशङ्काम्। एतच्च सविशेषणविशेषत्वात् द्युत्या सम्बध्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.17॥ No commentary.
 </details>
@@ -146,12 +153,14 @@ seeing Your power of Yoga, I infer' that-
 
 11.17 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.17॥ किरीटिनमिति। अत्र बहव एव पारमेष्ठ्यपदभूताः किरीटादयो ज्ञेयाः;
 नैकाङ्गत्वात्।
@@ -167,20 +176,26 @@ seeing Your power of Yoga, I infer' that-
 दीप्तौ यावनलार्कौ तयोर्द्युतिरिव द्युतिर्यस्य तादृशम्। अप्रमेयं
 प्रमातुमयोग्यं त्वां समन्तात् दुर्निरीक्ष्यं पश्यामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.17॥ किंच **-- किरीटिनमिति।** किरीटिनं मुकुटवन्तं गदिनं गदावन्तं
 चक्रिणं चक्रवन्तं सर्वतो दीप्तिमन्तं तेजःपुञ्जरूपम्; तथा दुर्निरीक्ष्यं
 द्रष्टुमशक्यम्। तत्र हेतुःदीप्तयोरनलार्कयोर्द्युतिरिव द्युतिस्तेजो यस्य
 तम्। अत एवाप्रमेयमेवंभूत इति निश्चेतुमशक्यं त्वां समंततः पश्यामि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.17 I behold You as a mass of light shining everywhere, with diadem,
@@ -214,11 +229,13 @@ mace and discus, hard to behold, blazing like a burning fire and the sun, and im
 shining; पश्यामि (I) see; त्वाम् Thee; दुर्निरीक्ष्यम् very hard to look at; समन्तात् all round; दीप्तानलार्कद्युतिम् blazing like burning fire and sun; अप्रमेयम् immeasurable.Commentary Kiritam is a special ornament for the head; the crown.Arjuna had worshipped the Lord as having a crown; club and discus and the Lord showed him the same form now. He is in all forms and He is beyond all forms as the transcendental Reality.
 Who can comprehend His GloryTejorasim A mass of splendour that cannot be perceived without the inner divine eye of intuition.Aprameyam Immeasurable; whose limits cannot be fixed.I infer from this vision of Thy power of Yoga that Thu art the Imperishable; etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.17।। मैं आपको किरीट, गदा, चक्र (तथा शङ्ख और पद्म) धारण किये हुए देख
@@ -309,6 +326,7 @@ Who can comprehend His GloryTejorasim A mass of splendour that cannot be perceiv
 ।।11.17।। मैं आपका मुकुटयुक्त, गदायुक्त और चक्रधारण किये हुये तथा सब ओर
 से प्रकाशमान् तेज का पुंज, दीप्त अग्नि और सूर्य के समान ज्योतिर्मय,
 देखने में अति कठिन और अप्रमेयस्वरूप सब ओर से देखता हूँ।।
+</details>
 </details>
 
 </div>

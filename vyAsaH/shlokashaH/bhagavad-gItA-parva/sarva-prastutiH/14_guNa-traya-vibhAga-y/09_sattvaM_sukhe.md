@@ -23,8 +23,9 @@ title = "09 सत्त्वं सुखे"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥14.9॥ सत्त्वं सुखसङ्गप्रधानम्; रजः कर्मसङ्गप्रधानम्; तमस् तु वस्तुयाथात्म्यज्ञानम् आवृत्य विपरीतज्ञानहेतुतया कर्तव्यविपरीतप्रवृत्तिसङ्गप्रधानम्। देहकारपरिणतायाः प्रकृतेः स्वरूपानुबन्धिनः सत्त्वादयो गुणाः। ते च स्वरूपानुसम्बन्धित्वेन सर्वदा सर्वे वर्तन्ते इति परस्परविरुद्धं कार्यं कथं जनयन्ति इत्यत्राह --
@@ -39,12 +40,14 @@ title = "09 सत्त्वं सुखे"
 
 14.9 Sattva mainly attaches one to pleasure. Rajas mainly attaches one to actions. But Tamas, veiling knowledge of true things and being the cause of false knowledge, mainly attaches one to actions which are contrary to those which ought to be done. The Sattva and other alities evolve from the nature of Prakrti, developed into the form of the body. Owing to this fact that they have evolved out of the nature of Prakrti, they always co-exist in bodies at all time. How, then, can they cause effects which are mutually contrary; He replies:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥14.9॥ --,**सत्त्वं सुखे सञ्जयति** संश्लेषयति; **रजः कर्मणि** हे **भारत** सञ्जयति इति अनुवर्तते। **ज्ञानं** सत्त्वकृतं विवेकम् **आवृत्य** आच्छाद्य **तु तमः** स्वेन आवरणात्मना **प्रमादे सञ्जयति** उत प्रमादः नाम प्राप्तकर्तव्याकरणम्॥ उक्तं कार्यं कदा कुर्वन्ति गुणा इति उच्यते --,
 </details>
@@ -107,12 +110,14 @@ is being answered:
 अपि प्राप्तकर्तव्यताकस्याप्यकरणे आलस्ये तामस्यां च निद्रायां
 संजयतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.9॥ सत्त्वमिति।
 </details>
@@ -121,12 +126,14 @@ is being answered:
 
 ॥14.9॥**सत्त्व**मिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥14.9 -- 14.10॥ सत्त्वमिति। रज इति। संजयति योजयति। रजस्तमसी अभिभूय सत्त्वं वर्धते रस्तु सत्त्वतमसी; तमः सत्त्वरजसी। उक्तं हि
 --,अन्योन्याभिभवेन गुणवृद्धिः इति।
@@ -136,12 +143,14 @@ is being answered:
 
 14.9 See Comment under 14.10
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥14.9॥ सत्त्वादाना स्वभावमाह -- सत्त्वमिति। सुखादिसञ्जनस्वभावमित्यर्थः।
 एवमन्यदपि ज्ञेयं तत्र हेतुमाह -- ज्ञानमिति।
@@ -158,10 +167,13 @@ is being answered:
 एतद्वैचित्र्यार्थमेवोत्पादितास्तेषां तत्कृतकार्यदर्शनेन सन्तुष्यति
 प्रभुस्तेनैव तदुत्कर्षः सिद्ध्यतीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥14.9॥ सत्त्वादीनामेवं स्वकार्यकरणे सामर्थ्यातिशयमाह **-- सत्त्वमिति**।
 सत्त्वं सुखे संजयति संश्लेषयति। दुःखशोकादिकारणे सत्यपि सुखाभिमुखमेव
@@ -170,10 +182,13 @@ is being answered:
 महद्भिरुपदिश्यमानस्यार्थस्यानवधाने योजयति। उत अपि आलस्यादावपि
 संयोजयतीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 14.9 Sattva generates attachment to pleasure, Rajas to action, O Arjuna.
@@ -207,11 +222,13 @@ rajas to action, while tamas, covering up knowledge, leads to inadvertence also.
 shrouding; तु verily; तमः inertia; प्रमादे to heedlessness; सञ्जयति
 attaches; उत but.Commentary Just as a dark cloud enshrouds the sun; so also Tamas envelops knowledge or the light of the Self. Tamas creates an attachment for heedlessness; that is; ignorance or forgetfulness of duty or the nonperformance of necessary (obligatory) duties.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।14.9।। हे भरतवंशोद्भव अर्जुन ! सत्त्वगुण सुखमें और रजोगुण कर्ममें लगाकर
@@ -285,6 +302,7 @@ attaches; उत but.Commentary Just as a dark cloud enshrouds the sun; so also 
 ।।14.9।। हे भारत ! सत्त्वगुण सुख में आसक्त कर देता है और रजोगुण कर्म
 में, किन्तु तमोगुण ज्ञान को आवृत्त करके जीव को प्रमाद से युक्त कर देता
 है।।
+</details>
 </details>
 
 </div>

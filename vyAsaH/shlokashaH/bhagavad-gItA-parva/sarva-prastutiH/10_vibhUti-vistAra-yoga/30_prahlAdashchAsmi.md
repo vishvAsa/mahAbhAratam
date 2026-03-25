@@ -23,8 +23,9 @@ title = "30 प्रह्लादश्चास्मि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.30॥ अनर्थप्रेप्सुतया गणयतां मध्ये **कालः** मृत्युर् अहम्।
@@ -39,12 +40,14 @@ title = "30 प्रह्लादश्चास्मि"
 
 10.30 Of those who reckon with the desire to cause evil, I am the god of death - (here an emissary of his who records the time of death of creatures is meant).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.30॥ --,**प्रह्लादो** नाम **च अस्मि दैत्याना** दितिवंश्यानाम्। **कालः कलयतां** कलनं गणनं कुर्वताम् **अहम्। मृगाणां च मृगेन्द्रः** सिंहो व्याघ्रो वा **अहम्। वैनतेयश्च** गरुत्मान् विनतासुतः **पक्षिणां** पतत्रिणाम्॥
 </details>
@@ -89,12 +92,14 @@ vainateyah, Garuda, the son of Vinata.
 कुर्वतां मध्ये कालोऽहम्। भृगेन्द्रः सिंहः मृगाणां पशूनां मध्येऽहम्।
 वैनतेयश्च पक्षिणां विनतापुत्रो गरुडः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.30॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -103,12 +108,14 @@ vainateyah, Garuda, the son of Vinata.
 
 ॥10.30॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -117,12 +124,14 @@ vainateyah, Garuda, the son of Vinata.
 
 10.30 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.30॥ प्रह्लादश्चास्मीति महाभागवततया चिन्तनीयः। अनिमिषतया
 भूतानामायुगेणयतां संवत्सरादीनां मध्ये कालोऽहं भगवदुपयोगित्वाच्चिन्तनीयः।
@@ -138,18 +147,24 @@ vainateyah, Garuda, the son of Vinata.
 प्रह्लादोऽस्मि। कलयतां व्याकुर्वतां,कालोऽहमस्मि। मृगाणां मृगेन्द्रः
 सिंहः। पक्षिणां पक्षवतां मध्ये वैनतेयस्तेषां राजा गरुडोऽस्मि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.30॥**प्रह्लाद इति।** कलयतां वशीकुर्वतां गणयतां वा मध्ये कालोऽहम्।
 मृगेन्द्रः सिंहः। पक्षिणां मध्ये गरुडोऽस्मि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.30 Of Daityas, I am Prahlada. Of reckoners, I am Death. Of beasts, I am the lion, and of birds I am Garuda the son of Vinata.
@@ -183,11 +198,13 @@ And among animals I am the loin, and among birds I am Garuda.
 and; मृगेन्द्रः lion; अहम् I; वैनतेयः son of Vinata (Garuda); च and;
 पक्षिणाम् among birds.Commentary Prahlada; though he was the son of a demon (Hiranyakasipu); was a great devotee of the Lord.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.30।। दैत्योंमें प्रह्लाद और गणना करनेवालोंमें काल मैं हूँ ।
@@ -234,6 +251,7 @@ and; मृगेन्द्रः lion; अहम् I; वैनतेयः 
 
 ।।10.30।। मैं दैत्यों में प्रह्लाद और गणना करने वालों में काल हूँ, मैं
 'पशुओं' में सिंह (मृगेन्द्र) और पक्षियों में गरुड़ हूँ।।
+</details>
 </details>
 
 </div>

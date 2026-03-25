@@ -23,8 +23,9 @@ title = "24 तस्मादोमित्युदाहृत्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.24॥**तस्माद् ब्रह्मवादिनां** वेदवादिनां त्रैवर्णिकानां **यज्ञदानतपःक्रिया विधानोक्ताः** वेदविधानोक्ता आदौ **ओम् इत्य् उदाहृत्य सततं** सर्वदा **प्रवर्तन्ते।** वेदाश् चओम् इत्य् उदाहृत्य आरभ्यन्ते। एवं वेदानां वैदिकानां च यज्ञादीनां कर्मणाम् इति शब्दान्वयो वर्णितः। ओम् इतिशब्दान्वितवेदधारणात् तदन्वितयज्ञादिकर्मकरणाच् च ब्राह्मणशब्दनिर्दिष्टानां त्रैवर्णिकानाम् अपिओम् इति शब्दान्वयो वर्णितः। अथ एतेषान्तद् इतिशब्दान्वयप्रकारम् आह --
@@ -41,12 +42,14 @@ title = "24 तस्मादोमित्युदाहृत्य"
 
 17.24 After pronouncing Om, the Vedas are recited. Thus the connection of the syllable Om with the Vedas and the rituals enjoined in the Vedas such as sacrifices has been described. As the Vedas are connected with the word Om, all belonging to the three stations of life who memorise the Vedas and perform the rituals inculcated in them, are included in the expression, 'expounders of the Vedas.' Now, He describes the manner by which the word Tat is connected with them:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.24॥ --,**तस्मात् ओम् इति उदाहृत्य** उच्चार्य **यज्ञदानतपःक्रियाः** यज्ञादिस्वरूपाः क्रियाः **प्रवर्तन्ते विधानोक्ताः** शास्त्रचोदिताः **सततं** सर्वदा **ब्रह्मवादिनां** ब्रह्मवदनशीलानाम्॥
 </details>
@@ -104,12 +107,14 @@ syllable Om.
 वैगुण्यराहित्येन वर्तन्ते। यस्यैकावयवोच्चारणादप्यवैगुण्यं किं पुनस्तस्य
 सर्वस्योच्चारणादिति स्तुत्यतिशयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.24॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -118,12 +123,14 @@ syllable Om.
 
 ॥17.24॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.23 -- 17.27॥ इदानीं ये गुणत्रितयसंकटोत्तीर्णधियः ते क्रियां कथमाचरन्ति इति तादृक़्प्रकार उच्यते -- ओमित्यादि अभिधीयते इत्यन्तम्। ओं तत् सत् इत्येभिस्त्रिभिः शब्दैर्ब्रह्मणो निर्देशः; संमुखीकरणम्। तत्र ओम् इत्यनेन शास्त्रार्थोऽयमादेहसंबन्धमूरीकार्य इति सूच्यते। तत् इति सर्वनामपदेन सामान्यमात्राभिधायिना विशेषपरामर्शमात्रासमर्थेन फलानभिसंधानं ब्रह्मण्युच्यते अभिसंधानस्य विशेषपरिग्रहमन्तरेण अभावात् सकलविशेषानुग्राहित्वेऽपि सकलफलसंधाने सर्वकर्तृतायामपि विशिष्टफलायोगात्। सत् इत्यमुया श्रुत्या प्रशंसा अभिधीयते। क्रियमाणमपि इदं यज्ञादिकं दुष्टम् इति बुद्ध्या क्रियमाणं तामसतामेति। विशिष्टफलाभिसंधानेन च क्रियमाणं न च सत्; बन्धाधायकमेवेति। तस्मात् कर्तव्यमिदम् इति मन्वानाः \[ फलविशेषमनभिसंदधानाः \] यज्ञादि कुर्वाणा अपि न बध्यन्ते। अनेनैवाभिप्रायेण आदिपर्वण्युक्तम् -- तपो न कल्कोऽध्ययनं न कल्कः  
   
@@ -140,12 +147,14 @@ syllable Om.
 
 17.24 See Comment under 17.27
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.24॥ त्रयाणामन्वयप्रकारं वदन्प्रथमंओं इत्यस्यान्वयप्रकारमाह --
 तस्मादिति। स्पष्टम्।
@@ -159,10 +168,13 @@ syllable Om.
 भगवदर्थिकाःओम् इत्युदाहृत्य ताः सततं निरन्तरं विधानोक्ताः
 भगवत्प्रीत्यर्थं प्रवर्त्तन्ते प्रकर्षेण वर्त्तन्ते भवन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.24॥ इदानीं प्रत्येकमोंकारादीनां प्राशस्त्यं दर्शयिष्यन्नोंकारस्य
 तदेवाह **--** **तस्मादिति।** यस्मादेवं ब्रह्मणो निर्देशः
@@ -170,10 +182,13 @@ syllable Om.
 शास्त्रोक्ताः क्रियाः सततं सर्वदा अङ्गवैकल्येऽपि प्रकर्षेण वर्तन्ते।
 सगुणा भवन्तीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.24 Therefore, the Veda-enjoined sacrificial acts, gifts and austerity by these expounders of the Veda, or those belonging to the first three stations are always and at all times begun after pronouncing Om at the beginning.
@@ -208,11 +223,13 @@ gift and austerity as enjoined in the scriptures, always begun by the students o
 begin; विधानोक्ताः as enjoined in the scriptures; सततम् always;
 ब्रह्मवादिनाम् of the students of Brahman. Commentary Those who are knowers of the scriptures have a vivid impression of Om in their minds by means of meditation and then they will utter the Pranava with the proper attitude and feeling. Then meditating on Om and uttering it; they perform the sacrifices. Just as a hillstick is very useful in climbing a hill; just as a boat is very useful in crossing a river; so also Om is very useful and important at the commencement of an action or sacrifice.It is not desirable to renounce actions or sacrifices to attain union with the Lord. What is wanted is total and perfect surrender of all actions to God. Sacrifice; charity and austerity are not hindrances to the attainment of Selfrealisation on the contrary the attainment of liberation is rendered easy by their performance without any selfish desires or egoism.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.24।। इसलिये वैदिक सिद्धान्तोंको माननेवाले पुरुषोंकी शास्त्रविधिसे
@@ -249,6 +266,7 @@ begin; विधानोक्ताः as enjoined in the scriptures; सत�
 
 ।।17.24।। इसलिए, ब्रह्मवादियों की शास्त्र प्रतिपादित यज्ञ, दान और तप की
 क्रियायें सदैव ओंकार के उच्चारण के साथ प्रारम्भ होती हैं।।
+</details>
 </details>
 
 </div>

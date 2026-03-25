@@ -25,8 +25,9 @@ title = "43 कामात्मानः स्वर्गपरा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.43॥अथ काम्यकर्माधिकृतान् निन्दति।
@@ -43,12 +44,14 @@ title = "43 कामात्मानः स्वर्गपरा"
 
 2.42 - 2.44 The ignorant, whose knowledge is little, and who have as their sole aim the attainment of enjoyment and power, speak the flowery language i.e., having its flowers (show) only as fruits, which look apparently beautiful at first sight. They rejoice in the letter of the Vedas i.e., they are attached to heaven and such other results (promised in the Karma-kanda of the Vedas). They say that there is nothing else, owing to their intense attachment to these results. They say that there is no fruit superior to heaven etc. They are full of worldly desires and their minds are highly attached to secular desires. They hanker for heaven, i.e. think of the enjoyment of the felicities of heaven, after which one can again have rirth which offers again the opportunity to perform varied rites devoid of true knowledge and leads towards the attainment of enjoyments and power once again. With regard to those who cling to pleasure and power and whose understanding is contaminated by that flowery speech relating to pleasure and lordly powers, the aforesaid mental disposition characterised by resolution, will not arise in their Samadhi. Samadhi here means the mind. The knowledge of the self will not arise in such minds. In the minds of these persons, there cannot arise the mental disposition that looks on all Vedic rituals as means for liberation based on the determined conviction about the real form of the self. Hence, in an aspirant for liberation, there should be no attachment to rituals out of the conviction that they are meant for the acisition of objects of desire only. It may be estioned why the Vedas, which have more of love for Jivas than thousands of parents, and which are endeavouring to save the Jivas, should prescribe in this way rites whose fruits are infinitesimal and which produce only new births. It can also be asked if it is proper to abandon what is given in the Vedas. Sri Krsna replies to these estions.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.43॥  
   
@@ -223,12 +226,14 @@ transmigration. This is the idea.
   
 फलवैलक्षण्यम्। विस्तरेण चैतदग्रे प्रतिपादयिष्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.43॥ भोगैश्वर्यमतिं तत्प्राप्तिं प्रति। तत्प्राप्तिफला एव वेदा इति
 वदन्तीत्यर्थः।
@@ -240,12 +245,14 @@ transmigration. This is the idea.
 अन्यथाऽसदनुवादप्रसङ्गादिति भावः। एषाऽपि कथं निन्दा इत्यत आह
 **तत्प्राप्ती**ति। मोक्षं वेदफलं न मन्यत इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 2.44 इत्यत्र दृश्यताम्।
 </details>
@@ -254,12 +261,14 @@ transmigration. This is the idea.
 
 2.43 See Comment under 2.44
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.43॥ किम्भूतास्तेऽविपश्चितः वेदवादतात्पर्यानभिज्ञाः। भोगैश्वर्यगतिं
 प्रति कामात्मानः कामयते आत्मा येषाम्। तथा स्वर्गलोक एव परः प्राप्यं फलं
@@ -277,20 +286,26 @@ transmigration. This is the idea.
 भोगैश्वर्यप्राप्तिं प्रति क्रियाविशेषा बहुला यस्यां तां तथा फलरूपां
 वदन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.43॥ अतएव **कामात्मान इति।** कामात्मानः कामाकुलचित्ताः। अतः स्वर्ग
 एव परः पुरुषार्थो येषां ते। जन्म च तत्र कर्माणि च तत्फलानि च प्रददातीति
 तथा ताम्। भोगैश्वर्ययोर्गतिं प्राप्तिं प्रति साधनभूता ये
 क्रियाविशेषास्ते बहुला यस्यां तां प्रवदन्तीत्यनुषङ्गः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.42 - 2.44 O! Partha, the unwise, who rejoice in the letter of the Vedas, say, 'There is nothing else.' They are full only of wordly desires and they hanker for heaven. They speak flowery words which offer rirth as the fruit of work. They look upon the Vedas as consisting entirely of varied rites for the attainment of pleasure and power. Those who cling so to pleasure and power are attracted by that speech
@@ -323,11 +338,13 @@ devising arduous and complex rites to secure their own pleasure and their own po
 2.43 कामात्मानः full of desires; स्वर्गपराः with heaven as their highest goal; जन्मकर्मफलप्रदाम् leading to (new) births as the result of their works; क्रियाविशेषबहुलाम् exuberant with various specifi actions;
 भोगैश्वर्यगतिम् प्रति for the attainment of pleasure and lordship.No commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.42 -- 2.43।। हे पृथानन्दन ! जो कामनाओंमें तन्मय हो रहे हैं, स्वर्गको
@@ -386,6 +403,7 @@ devising arduous and complex rites to secure their own pleasure and their own po
 ।।2.43।। कामनाओं से युक्त; स्वर्ग को ही श्रेष्ठ मानने वाले लोग भोग और
 ऐश्वर्य को प्राप्त कराने वाली अनेक क्रियाओं को बताते हैं जो (वास्तव में)
 जन्मरूप कर्मफल को देने वाली होती हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "11 ये यथा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.11। **ये** मत्-समाश्रयणापेक्षा  
@@ -80,12 +81,14 @@ title = "11 ये यथा"
 
 4.11 Whoever desirous of resorting to Me, in whatever manner they think of Me according to their inclinations and take refuge in Me, i.e., resort to Me - I favour them in the same manner as desired by them; I reveal Myself to them. Why say much here! All men who are intent on following Me do experience, with their own eyes and other organs of sense in all ways, i.e., in every way wished by them, My form (including images), however inaccessible it might be to speech and thought of the Yogins. Now, after completing the incidental topic (with regard to divine incarnations), in order to teach the mode in which Karma Yoga itself acires the form of Jnana, He begins to speak of the difficulty in finding persons who are alified for Karma Yoga of this kind.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.11॥ **ये यथा** येन प्रकारेण येन प्रयोजनेन यत्फलार्थितया **मां प्रपद्यन्ते तान् तथैव** तत्फलदानेन **भजामि** अनुगृह्णामि **अहम्** इत्येतत्। तेषां मोक्षं प्रति अनर्थित्वात्। न हि एकस्य मुमुक्षुत्वं फलार्थित्वं च युगपत् संभवति। अतः ये फलार्थिनः तान् फलप्रदानेन ये यथोक्तकारिणस्तु अफलार्थिनः मुमुक्षवश्च तान् ज्ञानप्रदानेन ये ज्ञानिनः संन्यासिनः मुमुक्षवश्च तान् मोक्षप्रदानेन तथा आर्तान् आर्तिहरणेन इत्येवं यथा प्रपद्यन्ते ये तान् तथैव भजामि इत्यर्थः। न पुनः रागद्वेषनिमित्तं मोहनिमित्तं वा कञ्चित् भजामि। सर्वथापि सर्वावस्थस्य **मम** ईश्वरस्य **वर्त्म** मार्गम् **अनुवर्तन्ते मनुष्याः** यत्फलार्थितया यस्मिन् कर्मणि अधिकृताः ये प्रयतन्ते ते मनुष्या अत्र उच्यन्ते हे **पार्थ सर्वशः** सर्वप्रकारैः॥ यदि तव ईश्वरस्य रागादिदोषाभावात् सर्वप्राणिषु अनुजिघृक्षायां तुल्यायां सर्वफलप्रदानसमर्थे च त्वयि सति वासुदेवःसर्वम् इति ज्ञानेनैव मुमुक्षवः सन्तः कस्मात् त्वामेव सर्वे न प्रतिपद्यन्ते इति शृणु तत्र कारणम्
 </details>
@@ -223,12 +226,14 @@ Vasudeva is everything;' As to that, hear the reason for this:
 सर्वरूपेणापि फलदाता भगवानेक एवेत्यर्थः। तथाच वक्ष्यतियेऽप्यन्यदेवताभक्ता
 इत्यादि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.11॥ न च मद्भजनमात्रेण मुक्तिर्भवत्यन्यदेवतारूपेण तथापि
 सर्वेषामानुरूप्येण फलं ददामीत्याह येयथेति। सेवयामि फलदानेन न तु
@@ -270,12 +275,14 @@ Vasudeva is everything;' As to that, hear the reason for this:
 विश्वकर्मैवमुच्यत इत्यत आह **भगवानेवे**ति। तत्र चेति सम्बन्धः। अनेन
 भगवतः सर्वयज्ञादिभोक्तृत्वे बाधकं परिहृतम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.11 4.12॥ यतः ये यथेति। कांक्षन्त इति। ये यथैव +++(S K ययैव)+++ बुद्ध्या मामाश्रयन्ते तान् प्रति तदेव स्वरूपमहं गृह्णन् ताननुगृह्णामि। एवमेव मदीयं मार्गं मन्मया अमन्मयाश्च सर्व एवानुवर्तन्ते। न हि ज्योतिष्टोमादिरन्यो मार्गः मदीयैव सा तथेच्छा। वक्ष्यते हि चातुर्वर्ण्य मया सृष्टमिति। अन्यस्तु आह लिङ्गर्थे लट् यथा अतिरात्रे षोडशिनं गृह्णन्ति इत्यत्र +++(S omits इत्यत्र)+++ गृह्णीयु इत्यर्थः एवमिहापि अनुवर्तन्ते +++(N omits अनुवर्तन्ते)+++ अनुवर्तेरन् इति। मानुषे एव लोके भोगापवर्गलक्षणा सिद्धिः नान्यत्रेति।
 </details>
@@ -284,12 +291,14 @@ Vasudeva is everything;' As to that, hear the reason for this:
 
 4.11 See Comment under 4.12
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.11॥ ननु तर्हि त्वय्यपि वैषम्यं यस्मादेवमुपाश्रितानामेवात्मभावं ददासि
 नान्येषामिति तत्राह ये यथेति। ये यादृशा अधिकारिणः
@@ -318,10 +327,13 @@ Vasudeva is everything;' As to that, hear the reason for this:
 ये मनुष्या मम वर्त्म मदुक्तमार्गं पुष्टिमार्गमनुवर्तन्ते मदुक्तप्रकारेण
 अनु पश्चाद्वर्तन्ते तान् सर्वप्रकारैरहं भजामि व्रजरीत्येति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.11॥ ननु तर्हि किं त्वय्यपि वैषम्यमस्ति यस्मादेवं
 त्वदेकशरणानामेवात्मभावं ददासि नान्येषां सकामानामित्यत आह **ये**
@@ -331,10 +343,13 @@ Vasudeva is everything;' As to that, hear the reason for this:
 सर्वप्रकारैरिन्द्रादिसेवका अपि ममैव वर्त्म भजनमार्गमनुवर्तन्ते।
 इन्द्रादिरूपेणापि ममैव सेव्यत्वात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.11 Whoever resortt to Me in any manner, in the same manner do I favour them; men experience Me alone in different ways, O Arjuna.
@@ -367,11 +382,13 @@ O son of Prtha, all sorts of men follow the path of Mine.
 them; तथा so; एव even; भजामि reward; अहम् I; मम My; वर्त्म path;
 अनुवर्तन्ते follow; मनुष्याः men; पार्थ O Partha; सर्वशः in all ways.Commentary I reward men by bestowing on them the objects they desire in accordance with their ways and the motives with which they seek Me. If anyone worships Me with selfish motives I grant him the objects he desires. If he worships Me unselfishly for attaining knowledge of the Self; I grant him Moksha or final liberation. I am not at all partial to anyone. (Cf.VII.21andIX.23).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.11।। हे पृथानन्दन ! जो भक्त जिस प्रकार मेरी शरण लेते हैं, मैं उन्हें
@@ -477,6 +494,7 @@ them; तथा so; एव even; भजामि reward; अहम् I; मम 
 
 ।।4.11।। जो मुझे जैसे भजते हैं, मैं उन पर वैसे ही अनुग्रह करता हूँ; हे
 पार्थ सभी मनुष्य सब प्रकार से, मेरे ही मार्ग का अनुवर्तन करते हैं।।
+</details>
 </details>
 
 </div>

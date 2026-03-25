@@ -23,8 +23,9 @@ title = "17 तेषाञ् ज्ञानी"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.17॥**तेषां ज्ञानी विशिष्यते** कुतः **नित्ययुक्त एकभक्तिः** इति च। तस्य हि मदेकप्राप्यस्य मया योगो नित्यः। इतरयोस्तु यावत्स्वाभिलषितप्राप्ति मया योगः। तथा ज्ञानिनो मय्य् एकस्मिन् एव भक्तिर् इतरयोस् तु स्वाभिलषिते तत्साधनत्वेन मयि च। अतः स एव विशिष्यते।  
@@ -41,12 +42,14 @@ title = "17 तेषाञ् ज्ञानी"
 
 7.17 Of these four, 'the man of knowledge' is the foremost. Why; Because of being ever with Me in Yoga and devoted to the One only. To the man of knowledge the attainment of Myself being the only end in view, he is ever with Me. As for the others, they contemplate on Me only until the fulfilment of their desires. But to the man of knowledge, there is single-minded devotion to Me only. Unlike him, the others, want only the objects of their desire and they are devoted to Me only as a means for gaining them. Hence he, the man of knowledge, alone is the foremost. Further I am very dear to the man of knowledge. Here the term 'artha' in relation to the expression 'athyartham' denotes 'what cannot be expressed adeately.' That is, even I, the omniscient and omnipotent, is unable to express how much I am dear to the Jnanin, since there is no such limit as 'this much' for this love. Such is the meaning. As in the case of Prahlada, the foremost among men of knowledge, it is said: 'But he with his thoughts firmly fixed on Krsna while being bitten by the great serpents, felt no pain from the wounds, being immersed in rapturous recollections of Him' (V. P., 1.17.39). I reciprocate this love infinitely.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.17॥ **तेषां** चतुर्णां मध्ये  
 **ज्ञानी** तत्त्ववित् तत्त्ववित्त्वात्  
@@ -147,12 +150,14 @@ not dear to Vasudeva;' 'This is not so!' 'What then;'
 परमात्मा सच तस्मादत्यर्थं मम परमेश्ववरस्य प्रियः। आत्मा प्रियोऽतिशयेन
 भवतीति श्रुतिलोकयोः प्रसिद्धमेवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.17॥ एकस्मिन्नेव भक्तिरित्येकभक्तिः। तच्चोक्तं गारुडे मय्येव
 भक्तिर्नान्यत्र एकभक्तिः स उच्यते इति।
@@ -166,12 +171,14 @@ not dear to Vasudeva;' 'This is not so!' 'What then;'
 बहुव्रीहिर्न सिद्ध्यतीति चेत् न आगमसिद्धत्वाच्चेत्याह **तच्चे**ति।
 यस्येत्युपस्कर्तव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.16 7.19॥ चतुर्विधा इत्यादि सुदुर्लभ इत्यन्तम्। ये तु मां भजन्ते ते सुकृतिनः। ते च चत्वारः। सर्वे चैते उदाराः। यतः अन्ये कृपणबुद्धयः आर्त्तिनिवारणम् अर्थादि च तुल्यपाणिपादोदरशरीरसत्त्वेभ्योऽधिकतरं वा आत्मन्यूनेभ्यो मार्गयन्ते। ज्ञान्यपेक्षया तु ते न्यूनसत्त्वाः यतः तेषां तावत्यपि भेदोऽस्ति भगवतः इदमहमभिलष्यामि इति भेदस्य स्फुटप्रतिभासात्। ज्ञानी तु मामेवाभेदतया अवलम्बते इति +++(S omits इति)+++ ततोऽहमभिन्न एव। तस्य च अहमेव प्रियः न तु फलम्। अत एव स वासुदेव एव सर्वम् इत्येव +++(S वासुदेवः सर्वमेवम्)+++ दृढप्रतिपत्तिपवित्रीकृतहृदयः।
 </details>
@@ -180,12 +187,14 @@ not dear to Vasudeva;' 'This is not so!' 'What then;'
 
 7.17 See Comment under 7.19
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.17॥ एतेषां मध्ये मुमुक्षुः मम ज्ञानी श्रेष्ठो मत इत्याह तेषां
 ज्ञानीति। नित्यं योग उक्तलक्षणस्तद्वान् नित्ययुक्तः। तादृशश्च
@@ -208,10 +217,13 @@ not dear to Vasudeva;' 'This is not so!' 'What then;'
 सर्वभावे अहमेव तस्य प्रियः। अतएव श्रीभागवते भगवद्वाक्यंमदन्यत्ते न
 जानन्ति नाहं तेभ्यो मनागपि इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.17॥ एतेषां मध्ये ज्ञानी श्रेष्ठ इत्याह **तेषामिति।** तेषां मध्ये
 ज्ञानी विशिष्टः। तत्र हेतवः नित्ययुक्तः। सदा मन्निष्ठः एकस्मिन्मय्येव
@@ -220,10 +232,13 @@ not dear to Vasudeva;' 'This is not so!' 'What then;'
 हि तस्याहमत्यन्तं प्रियः स च मम।
 तस्मादेतैर्नित्ययुक्तत्वादिभिश्चतुर्भिर्हेतुभिः स उत्तम इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.17 Of these, the man of knowledge, being ever with Me in Yoga and devoted to the One only, is the foremost; for I am very dear to the man of knowledge and he too is dear to Me.
@@ -257,11 +272,13 @@ verily; ज्ञानिनः of the wise; अत्यर्थम् exceed
 and; मम of Me; प्रियः dear.Commentary Ekabhaktih means unswerving;
 singleminded devotion to the Supreme Being.The JnaniBhakta is beyond all cults or creeds or formal religion or rules of society. As the wise man is constantly harmonised and as he is devoted to the One; he is regarded as superior to all the other devotees. As I am his very Self or Antaratma; I am extremely dear to him. Everybody loves his own Self most. The Self is very dear to everybody. The wise man is My very Self and he is ear to Me also. (Cf.II.49IX.29XII.14;17and19)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.17।। उन चार भक्तोंमें मेरेमें निरन्तर लगा हुआ, अनन्यभक्तिवाला ज्ञानी
@@ -321,6 +338,7 @@ singleminded devotion to the Supreme Being.The JnaniBhakta is beyond all cults o
 
 ।।7.17।। उनमें भी मुझ से नित्ययुक्त, अनन्य भक्ति वाला ज्ञानी श्रेष्ठ है,
 क्योंकि ज्ञानी को मैं अत्यन्त प्रिय हूँ और वह मुझे अत्यन्त प्रिय है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "23 येऽप्यन्यदेवता भक्ता"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥9.23॥**ये अप्य् अन्यदेवताभक्ताः** ये त्व् इन्द्रादिदेवताभक्ताः केवलत्रयीनिष्ठाः **श्रद्धया अन्विताः** इन्द्रादीन् **यजन्ते; तेऽपि** पूर्वोक्तेन न्यायेन सर्वस्य मच्छरीरतया मदात्मत्वेन इन्द्रादिशब्दानां च मद्वाचित्वाद् वस्तुतो **माम् एव यजन्ते** अपि तु **अविधिपूर्वकं** यजन्ते। इन्द्रादीनां देवतानां कर्मस्व् आराध्यतया अन्वयं यथा वेदान्तवाक्यानिचतुर्होतारो यत्र सम्पदं गच्छन्ति देवैः (तै॰ आ॰ 4) इत्यादीनि विदधति; न तत्पूर्वकं यजन्ते। वेदान्तवाक्यजातं हि परमपुरुषशरीरतया अवस्थितानाम् इन्द्रादीनाम् आराध्यत्वं विदधद् आत्मभूतस्य परमपुरुषस्य एव साक्षाद् आराध्यत्वं विदधाति। चतुर्होतारो ऽग्निहोत्रदर्शपौर्णमासादीनि कर्माणि कुर्वाणा यत्र परमात्मन्य् आत्मतया अवस्थिते सत्य् एव तच्छरीरभूतैर् इन्द्रादिदेवैः सम्पदं गच्छन्ति; इन्द्रादिदेवानाम् आराधनान्य् एतानि कर्माणि मद्विषयाणि इति मां सम्पदं गच्छन्ति इत्यर्थः। अतस् त्रैविद्या इन्द्रादिशरीरस्य परमपुरुषस्य आराधनान्य् एतानि कर्माणि; आराध्यश् च स एव; इति न जानन्ति; ते च परिमितफलभागिनश् च्यवनस्वभावाश् च भवन्ति; तद् आह --
@@ -39,12 +40,14 @@ title = "23 येऽप्यन्यदेवता भक्ता"
 
 9.23 Those, however, who are devoted to Indra and other divinities, who rely on the three Vedas alone, and who, possessed of faith, worship Indra and other divinities - they too worship Me actually in the light of the truth that all existing things constitute My body and have Me for their selves. In the light of this principle, terms like Indra denote Me only. The worshippers of Indra and other deities therefore worship Me only, in ways not sanctioned by the Sastras. They do not worship Indra and other divinities with a proper understanding of the place of these deities in the light of the Vedanta texts. An example is 'Wherein (i.e., in the Supreme Self) the sacrifices known as the Caturhotri attain their fulfilment through the divinities' (Tai. Ar., 4) etc. These texts say in what way these forms of worship apply to these divinties. For all Vedanta texts lay down that the Supreme Person alone is to be worshipped directly when they enjoin the worship of Indra and other divinities, as they form the body of the Supreme Person. The meaning is that in the Caturhotri sacrifice like Agnihotra, the full moon and the new moon sacrifices etc., it is the Supreme Self only that is worshipped, as He abides as the self in Indra etc., who are the ostensible objects worshipped in these sacrifices by which these worshippers obtain their fulfilment through them. Therefore, the votaries of the three Vedas do not understand that these rituals form the worship of the Supreme Person and that He alone is to be worshipped. As they do not do so, they become experiencers of limited results, and they are again liable to fall into Samsara. Sri Krsna gives expressions to this:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.23॥ --,**येऽपि अन्यदेवताभक्ताः** अन्यासु देवतासु भक्ताः अन्यदेवताभक्ताः सन्तः **यजन्ते** पूजयन्ति **श्रद्धया** आस्तिक्यबुद्ध्या **अन्विताः** अनुगताः; **तेऽपि मामेव कौन्तेय यजन्ति अविधिपूर्वकम्** अविधिः अज्ञानं तत्पूर्वकं यजन्ते इत्यर्थः॥
 </details>
@@ -110,12 +113,14 @@ the estion of their ignorance arise;\] This is being answered: Because-
 सर्वात्मत्वेन मामज्ञात्वा मद्भिन्नत्वेन वस्वादीन्कल्पयित्वा
 यजन्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.23॥ तर्हिअहं क्रतुः \[9।16\] इत्यादि असत्यमित्यत आह -- येऽपीति।
 </details>
@@ -128,12 +133,14 @@ the estion of their ignorance arise;\] This is being answered: Because-
 भाव्यम्। तदभावश्चेत्तर्हिअहं क्रतुः \[9।16\] इत्युक्तं सर्वत्र भगवतो
 भोक्तृत्वमप्यसत्यमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.23 -- 9.25॥ येऽपीत्यादि प्रयतात्मनः इत्यन्तम्। येऽपि नामधेयान्तरैरुपासते तेऽपि मामेवोपासते। न हि ब्रह्मव्यतिरेकि किञ्चिदुपास्यमस्ति। किन्तु अविधिना इति विशेषः। अविधिः अन्यो विधिः। नानाप्रकारैर्विधभिरहमेव परब्रह्मसत्तास्वभावो याज्य इति। न तु यथा अन्यैर्दर्शनान्तरदूषणसमुपार्जितमहापातकम +++(S; omit पातक -- )+++ -- लीमसैर्व्याख्यातम् अविधिना; दुष्टविधिना इति। एवं हि सति मामेव यजन्ते; सर्वयज्ञानाञ्चाहमेव भोक्ता इति दृश्यमानमेतदसमञ्जसीभवेत् इत्यलं कल्मषकलिलैस्साकं संलापेन। अस्मद्गुरवस्तु निरूपयन्ति -- अन्या स्वात्मव्यतिरिक्ता भेदवादनयेन ब्रह्मस्वभावहीनैव काचिद्देवता इति गृहीत्वा तामेव \[ये\] यजन्ते तेऽपि वस्तुतो मामेव स्वात्मरूपं यजन्ते; किं तु अविधिना दुष्टेन विधिना भेदग्रहणरूपेण,+++(S; भेदग्रहरूपेण)+++ इति। अत एवाह -- न तु मां स्वात्मानं तत्त्वेन देवतारूपतया भोक्तृत्वेन जानन्ति; अतश्चलन्ति ते,+++(S; ; N च्यवन्ते)+++ मद्रूपात्। किम् देवव्रतत्वेन देवान् यान्ति इत्यादि। एतदेव चलनमिति,+++(S;;N च्यवन)+++ यावत्। ये तु मत्स्वरूपमभेदेन +++(;N -- स्वरूपभेदे (दं)+++ न विदुः; ते देवभूतपितृयागादिनाऽपि मामेव यजन्ते +++(N यजन्ति)+++। ते च मद्याजिनो मामेव गच्छन्ति +++(N यजन्ति)+++ इत्युपसंहरिष्यति। ननु द्रव्यत्यागार्थमुद्दिष्टा देवता इत्युच्यते। तत् कथमनुद्दिश्यस्वात्मतत्त्वस्य याज्यत्वम् आदित्यः प्रायणीयश्चरुः इति विधिशेषभूतदेवता उद्देशात्मकविध्यन्तरभावितो +++(;N प्रभावितो)+++ ह्यसौ उद्देशः (श्यः)। न च स्वात्मविषयो +++(S;;N omit विषयो)+++ विधिरस्ति इत्यभिप्रायेणाह -- अविधिपूर्वकं मामिति। स्वात्मव्यतिरिक्तायां देवतायामस्ति अपेक्ष्यो विधिः; अप्राप्तप्रापणरूपत्वात्। स्वात्मा तु परमेश्वरो न विधिपूर्वकः; विधिपरिप्रापितत्त्वाभावात् +++(S;;N -- परिप्राप्यत्वाभावात्)+++। न हि तदनुद्देशेन किञ्चित्प्रवर्तते। तेन विधिपरिप्रापितेन्द्रादिदेवतोद्देशेषु सर्वेषु स +++(S omits सः)+++ स्वात्मा विश्वावभासनस्वभावः तदुद्देश्यदेवतावभासभित्ति +++(;N substitutes -- भित्ति with मिति -- )+++ स्थानीयतयैव अहमहमिकया सततावभासमानः स्रक्सूत्रकल्पः सततोद्दिष्टः इति युक्तिसिद्धमेतत्; मामेव यजन्ति अविधिपूर्वकत्वात् \[इति\]। मुख्यभूतमत्प्राप्तिफलस्य तान्प्रति कर्त्रभिप्रायत्वं नास्ति; अपि तु परिमितदक्षिणास्थानीयेन्द्रादिपद ( -- येन्द्रपदातिमात्र N येन्द्रपदादि K [n] -- इन्द्रादिपदमात्र -- ) -- मात्रप्राप्तेरेव +++(; K [n] प्राप्तय एव N प्राप्त एव)+++ याजकवच्चरितार्थत्वमेषाम् इति प्रथयितुं परस्मैपदम्। यदुक्तं मयैव -- वेदान् वेद न वेद शाम्भवपदं दूयेत निर्वेदवान्  
   
@@ -150,12 +157,14 @@ the estion of their ignorance arise;\] This is being answered: Because-
 
 9.23 See Comment under 9.26
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.23॥ ननु ब्रह्मवादे तव सर्वात्मत्वाद्देवान्तरभजनेऽपि त्वद्भजनमेव
 भवति; तर्हि किमिति ते गतागतं लभन्ते इति चेत्तत्राह -- येऽपीति।
@@ -184,10 +193,13 @@ the estion of their ignorance arise;\] This is being answered: Because-
 स्मृतिष्वविधिकरणनिषेधःविधिहीनं भावदुष्टं कृतमश्रद्धया च यत्।
 तद्धरन्त्यसुरास्तस्य सुमूढस्याऽकृतात्मनः इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.23॥ ननु च त्वद्व्यतिरेकेण वस्तुतो
 देवतान्तरस्याभावादिन्द्रादिसेविनोऽपि त्वद्भक्ता एवेति कथं ते गतागतं
@@ -195,10 +207,13 @@ the estion of their ignorance arise;\] This is being answered: Because-
 यज्ञेनान्यदेवता इन्द्रादिरूपा यजन्ते तेऽपि मामेव यजन्तीति सत्यम्;
 किंत्वविधिपूर्वकं मोक्षप्रापकं विधिं विना यजन्त्यतस्ते पुनरावर्तन्ते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.23 Even those who are devoted to other divinities with faith in their hearts, worship Me alone, O Arjuna, though not as sanctioned by the Sastras.
@@ -234,11 +249,13 @@ worship; श्रद्धया with faith; अन्विताः endowed; 
 Me; एव alone; कौन्तेय O Kaunteya; यजन्ति worship; अविधिपूर्वकम् by the wrong method.Commentary They worship Me in ignorance. Their mode of worship is contrary to the ancient,rule. Hence they return to this world.People worship Agni; Indra; Surya; Varuna; the Vasus; etc. Even they attain Me; because I am everywhere. But their devotion is not pure.
 It is vicarious. Water should be given to the root and not to the branches. If the root is satisfied; the whole tree must be and is satisfied. Even so; if I (the root of this world and all the gods) am satisfied; all the gods must be and are satisfied. Though the messages from the five organs of knowledge reach the one consciousness; will it be right and useful to place a sweetmeat in the ear and a flower in the eyes The function of eating must be done by the mouth alone and the function of smelling by the nose alone. Therefore I should be worshipped in My own nature. They should know Me as the Self in all beings. They should recognise Me in other worship. I am the root. I am the source of all the gods and of this whole world. (Cf.IV.11VII.20)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.23।। हे कुन्तीनन्दन! जो भी भक्त (मनुष्य) श्रद्धापूर्वक अन्य
@@ -332,6 +349,7 @@ It is vicarious. Water should be given to the root and not to the branches. If t
 
 ।।9.23।। हे कौन्तेय ! श्रद्धा से युक्त जो भक्त अन्य देवताओं को पूजते
 हैं, वे भी मुझे ही अविधिपूर्वक पूजते हैं।।
+</details>
 </details>
 
 </div>

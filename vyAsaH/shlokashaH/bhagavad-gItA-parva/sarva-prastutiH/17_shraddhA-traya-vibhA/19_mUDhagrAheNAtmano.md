@@ -23,8 +23,9 @@ title = "19 मूढग्राहेणात्मनो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.19॥ मूढाः -- अविवेकिनः **मूढग्राहेण** मूढैः कृतेन अभिनिविशेन आत्मनः शक्त्यादिकम् अपरीक्ष्य आत्म**पीडया यत् तपः क्रियते परस्य उत्सादनार्थं** च यत् तपः क्रियते; तत् **तामसम् उदाहृतम्।**
@@ -39,12 +40,14 @@ title = "19 मूढग्राहेणात्मनो"
 
 17.19 Deluded persons are those who lack correct understanding. That austerity which is practised from deluded notion, viz., from the obstinate determination by deluded persons, by self-torture regardless of one's own capacity or which is performed for causing sufferings to others - that is said to be Tamasika.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.19॥ --,**मूढग्राहेण** अविवेकनिश्चयेन **आत्मनः पीडया यत् क्रियते तपः परस्य उत्सादनार्थं** विनाशार्थं **वा; तत् तामसं** तपः **उदाहृतम्**॥ इदानीं दानत्रैविध्यम् उच्यते --,
 </details>
@@ -95,12 +98,14 @@ of tamas. Now the classification of charity is being spoken of:
 देहेन्द्रियसंघातस्य पीडया यत्तपः क्रियते परस्योत्सादनार्थं वान्यस्य
 विनाशार्थमभिचाररूपं वा तत्तामसमुदाहृतं शिष्टैः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.19॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -109,12 +114,14 @@ of tamas. Now the classification of charity is being spoken of:
 
 ॥17.19॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.17 -- 17.19॥ श्रद्धयेत्यादि तामसमुदाहृतम् इत्यन्तम्। त्रिविधेऽपि तपसि श्रद्धा। सात्त्विकस्य हि तन्मयी एव श्रद्धा। राजसस्य तु रजसि दम्भादावेव श्रद्धा। तमोनिष्ठस्य पुनः परोत्सादनादावेव श्रद्धा। इति त्रिविधमपि तपः श्रद्धयोपेतमिति मुनिराह।
 </details>
@@ -123,12 +130,14 @@ of tamas. Now the classification of charity is being spoken of:
 
 17.17-19 Sraddhaya etc. upto tamasam udahrtam. There is faith in all the three-fold austerity. the faith of a man of the Sattva is full of austerity itself. The faith of a man of the Rajas is in the Rajas i.e, showing (or hyprocricy) etc. But, the faith (or desire) of a man well established in the Tamas is merely in ruining others. Thus the sage speaks of all the three-fold austerity practised with faith.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.19॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -139,19 +148,25 @@ of tamas. Now the classification of charity is being spoken of:
 जीवस्य पीडया यत्तपः क्रियते; वा परस्योत्सादनार्थं अन्यस्य विनाशार्थं
 तत्तामसमुदाहृतं; सम्यक् न युक्तमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.19॥ तामसं तप आह **-- मूढेति।** मूढग्राहेणाविवेककृतेन
 दुराग्रहेणात्मनः पीडया यत्तपः क्रियते परस्योत्सादनार्थं वाऽन्यस्य
 विनाशार्थमभिचाररूपं तत्तामसमुदाहृतं कथितम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.19 That austerity which is practised from deluded notions by means of self-torture or in order to injure another is said to be Tamasika.
@@ -183,11 +198,13 @@ of tamas. Now the classification of charity is being spoken of:
 पीडया with torture; क्रियते is practised; तपः austerity; परस्य of another; उत्सादनार्थम् for the purpose of destroying; वा or; तत् that;
 तामसम् Tamasic; उदाहृतम् is declared.Commentary Some burn sulphur in a pot and place it on their head. Some thrust hooks of iron into their flesh. Some hang themselves with their head downwards over fire and swallow smoke. Some stand in cold water immersed up to the neck. Some torture the body by lighting fires on the four sides (with the sun as the fifth fire -- this is known as the Panchagni Tapas). Some sit in the centre of a circle of fire. Such austerities are Tamasic. These will not help one to attain knowledge of the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.19।। जो तप मूढ़तापूर्वक हठसे अपनेको पीड़ा देकर अथवा दूसरोंको कष्ट
@@ -236,6 +253,7 @@ of tamas. Now the classification of charity is being spoken of:
 
 ।।17.19।। जो तप मूढ़तापूर्वक स्वयं को पीड़ित करते हुए अथवा अन्य लोगों के
 नाश के लिए किया जाता है, वह तप तामस कहा गया है।।
+</details>
 </details>
 
 </div>

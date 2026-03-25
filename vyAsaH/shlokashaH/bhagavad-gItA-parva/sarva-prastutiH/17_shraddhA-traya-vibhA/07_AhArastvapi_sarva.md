@@ -23,8 +23,9 @@ title = "07 आहारस्त्वपि सर्वस्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.7॥**आहारो ऽपि सर्वस्य** प्राणिजातस्य सत्त्वादिगुणत्रयान्वयेन **त्रिविधः प्रियो भवति।** तथा एव यज्ञो ऽपि त्रिविधः; **तथा तपो दानं च। तेषां भेदम् इमं श्रृणु** -- तेषाम् आहारयज्ञतपोदानानां सत्त्वादिगुणभेदेन इमम् उच्यमानं भेदं श्रृणु।
@@ -39,12 +40,14 @@ title = "07 आहारस्त्वपि सर्वस्य"
 
 17.7 Even the food which is dear to the host of all beings is of three kinds because of the association of the three Gunas consisting of Sattva etc. Similarly, sacrifices also are of three kinds. So too austerity and charity. Listen about this distinction, which is being described, about foods, sacrifices, austerities and gifts according to differences of Sattva etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.7॥ --,**आहारस्त्वपि सर्वस्य** भोक्तुः प्राणिनः **त्रिविधो भवति प्रियः** इष्टः; तथा **यज्ञः** तथा **तपः; तथा दानम्। तेषाम्** आहारादीनां **भेदम् इमं** वक्ष्यमाणं श्रृणु॥
 </details>
@@ -120,12 +123,14 @@ be stated.
 परस्वत्वापत्तिफलकः स्वस्वत्वत्यागस्तेषामाहारयज्ञतपोदानानां
 सात्त्विकराजसतामसभेदं मया व्याख्यायमानमिमं शृणु।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.7॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -134,12 +139,14 @@ be stated.
 
 ॥17.7॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.7 -- 17.10॥ आहारोऽपि सत्त्वादिभेदात् त्रिधा श्रद्धावत् +++(S omits श्रद्धावत् )+++ तथा,यज्ञतपोदानानि। तदुच्यते -- आहार इत्यादि तामसप्रियम् इत्यन्तम्। याता यामाः यस्य।
 </details>
@@ -148,12 +155,14 @@ be stated.
 
 17.7 See Comment under 17.10
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.7॥ अथ पुनरपि प्रकृतमेव शास्त्रीयेषु वैदिकेषु यागादिषु गुणभेदतोऽपि
 विशेषं प्रपञ्चयति लौकिकेषु त्वाहारमूलत्वात्सत्त्वादिवृद्धेरित्याह --
@@ -168,10 +177,13 @@ be stated.
 सात्त्विकादिरूपः प्रियो भवति। तथा यज्ञो यजनं; तपः देहादिक्लेशः; दानं;
 तेषां भेदं अग्रे मया प्रोच्यमानमिमं शृणु।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.7॥ आहारादिभेदादपि सात्त्विकादिभेदं दर्शयितुमाह **--
 आहारस्त्वित्यादित्रयोदशभिः।** सर्वस्यापि जनस्य य,आहारोऽन्नादिः स तु
@@ -179,10 +191,13 @@ be stated.
 तेषां च वक्ष्यमाणमिमं भेदं श्रृणु। एतच्च राजसतामसाहारयज्ञादिपरित्यागेन
 सात्त्विकाहारयज्ञादिसेवया सत्त्ववृद्धौ यत्नः कर्तव्य इत्येतदर्थं कथ्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.7 Even the food which is dear to all is threefold. So are sacrifices,
@@ -221,11 +236,13 @@ Man feels a desire for particular foods according to his Guna or temperament.The
 The body is a mould prepared by the mind for its activities. There is an intimate connection between the body and the mind. The nature and condition of the body has a vital effect upon the mind and activities.
 Therefore the materials or foods that build the body and the mind should be pure; wholesome; nutritious; substantial and bland.Everything in this world is threefold. The food is either Sattvic; Rajasic or Tamasic according to its,character and effect upon the body and the mind. You can find out the nature or temperament of a man from the nature of the food he takes. You can find out your own nature; whether you are Sattvic; Rajasic or Tamasic; from your predilection to particular food and then abandon the Rajasic and the Tamasic foodstuffs and take to the Sattvic diet.Why is there also a triple division in sacrifice; austerity and charity Because this threefold division is according to the nature of the Gunas. You can find out and abandon the Rajasic and the Tamasic ones and take recourse exclusively to the Sattvic ones.The practice of Krichhra and Chandrayana Vratas that produce emaciation of the body and the senses is austerity. Tapas means meditation also. It produces Brahmatejas or divine splendour and glow on the face.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/07_AhArastvapi_sarva.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.7।। आहार भी सबको तीन प्रकारका प्रिय होता है और वैसे ही यज्ञ, दान और
@@ -309,6 +326,7 @@ Therefore the materials or foods that build the body and the mind should be pure
 ।।17.7।। (अपनीअपनी प्रकृति के अनुसार) सब का प्रिय भोजन भी तीन प्रकार का
 होता है; उसी प्रकार यज्ञ; तप और दान भी तीन प्रकार के होते हैं; उनके भेद
 को तुम मुझसे सुनो।।
+</details>
 </details>
 
 </div>

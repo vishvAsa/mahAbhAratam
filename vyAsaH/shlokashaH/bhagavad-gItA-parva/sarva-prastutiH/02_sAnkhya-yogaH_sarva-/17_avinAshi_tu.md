@@ -23,8 +23,9 @@ title = "17 अविनाशि तु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 आत्मनस् त्व् अविनाशित्वं कथम् उपपद्यते इत्य् अत्र आह
@@ -193,12 +194,14 @@ title = "17 अविनाशि तु"
 
 2.17 Know that the self in its essential nature is imperishable. The whole of insentient matter, which is different (from the self), is pervaded by the self. Because of pervasiveness and extreme subtlety, the self cannot be destroyed; for every entity other than the self is capable of being pervaded by the self, and hence they are grosser than It. Destructive agents like weapons, water, wind, fire etc., pervade the substances to be destroyed and disintegrate them. Even hammers and such other instruments rouse wind through violent contact with the objects and thery destroy their objects. So, the essential nature of the self being subtler than anything else, It is imperishable. (The Lord) now says that the bodies are perishable:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.17॥ **अविनाशि** न विनष्टुं शीलं यस्येति। तु शब्दः असतो विशेषणार्थः। **तत् विद्धि** विजानीहि। किम् **येन सर्वम् इदं** जगत् **ततं** व्याप्तं सदाख्येन ब्रह्मणा साकाशम् आकाशेनेव घटादयः। **विनाशम्** अदर्शनम् अभावम्। अव्ययस्य न व्येति उपचयापचयौ न याति इति अव्ययं तस्य अव्ययस्य। नैतत् सदाख्यं ब्रह्म स्वेन रूपेण व्येति व्यभिचरति निरवयवत्वात् देहादिवत्। नाप्यात्मीयेन आत्मीयाभावात्।  
 यथा देवदत्तो धनहान्या व्येति न तु एवं ब्रह्म व्येति। अतः अव्ययस्य **अस्य** ब्रह्मणः विनाशं **न कश्चित् कर्तुमर्हति** न कश्चित् अत्मानं विनाशयितुं शक्नोति ईश्वरोऽपि। आत्मा हि ब्रह्म स्वात्मनि च क्रियाविरोधात्॥  
@@ -406,12 +409,14 @@ regard to one's Self is self-contradictory. Which, again, is that
   
 सर्वप्रकारपरिच्छेदशून्यत्वादुपपन्नं नाभावो विद्यते सत इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 **Sanskrit Commentary By Sri Madhavacharya**
 
@@ -441,12 +446,14 @@ regard to one's Self is self-contradictory. Which, again, is that
 **अव्ययमि**ति। विधानमेवेदं कैमुत्येन शापादिना विनाशस्याभावं
 साधयितुमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.18॥ यस्तत्त्वदर्शिभिर्दृष्टः स खलु नित्योऽनित्यो वा इत्याशङ्क्याह  
 अविनाशि इति। तुश्चार्थे। आत्मा त्वविनाशी।
@@ -456,12 +463,14 @@ regard to one's Self is self-contradictory. Which, again, is that
 
 2.17 Avinasi etc \[Here\] tu is in the sense of ca 'and'. So, 'and' the Soul is not of perishing nature.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 **Sanskrit Commentary By Sri Vallabhacharya**
 
@@ -482,10 +491,13 @@ regard to one's Self is self-contradictory. Which, again, is that
 स्वरूपस्य विनाशं कश्चित् पापाद्युपाधिजन्यकालादिः कर्तुं नार्हति न
 समर्थोऽस्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **Sanskrit Commentary By Sri Sridhara Swami**
 
@@ -494,10 +506,13 @@ regard to one's Self is self-contradictory. Which, again, is that
 व्याप्तम्। तत्तु आत्मस्वरूपमविनाशि विनाशशून्यं विद्धि जानीहि। तत्र
 हेतुमाह **विनाशमिति।**  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.17 Know That to be indestructible by which all this is pervaded. None can cause the destruction of This Immutable.
@@ -535,11 +550,13 @@ is pervaded; no one is capable of causing destruction to this changeless One.
 destruction; अव्ययस्य अस्य of this Imperishable; न not; कश्चित् anyone;
 कर्तुम् to do; अर्हति is able.Commentary -- Brahman or Atman pervades all the objects like ether. Even if the pot is broken; the ether that is within and without the pot cannot be destroyed. Even so; if the bodies and all other objects perish; Brahman or the Self that pervades them cannot perish. It is the living Truth; Sat.Brahman has no parts. There cannot be either increase or diminution in Brahman. People are ruined by loss of wealth. But Brahman does not suffer any loss in that way. It is inexhaustible. Therefore; none can bring about the disappearance or destruction of the Self. It always exists. It is always allfull and selfcontained. It is Existence Absolute. It is immutable.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.17।। अविनाशी तो उसको जान, जिससे यह सम्पूर्ण संसार व्याप्त है। इस
@@ -596,6 +613,7 @@ destruction; अव्ययस्य अस्य of this Imperishable; न not
 
 ।।2.17।। उस वस्तु को तुम अविनाशी जानों, जिससे यह सम्पूर्ण जगत् व्याप्त
 है। इस अव्यय का नाश करने में कोई भी समर्थ नहीं है।।
+</details>
 </details>
 
 </div>

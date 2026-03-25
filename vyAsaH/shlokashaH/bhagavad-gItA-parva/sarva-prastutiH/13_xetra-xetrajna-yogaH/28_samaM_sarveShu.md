@@ -23,8 +23,9 @@ title = "28 समं सर्वेषु"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.27॥ एवम् इतरेतरयुक्तेषु **सर्वेषु भूतेषु** देवादिविषमाकाराद् वियुक्तं तत्र तत्र तत्तद्देहेन्द्रियमनांसि प्रति परमेश्वरत्वेन स्थितम् आत्मानं ज्ञातृत्वेन समानाकारं तेषु देहादिषु **विनश्यत्सु** विनाशानर्हस्वभावेन **अविनश्यन्तं** **यः पश्यति; स पश्यति;** स आत्मानं यथावद् अवस्थितं पश्यति। यस्तु देवादिविषमाकारेण आत्मानम् अपि विषमाकारं जन्मविनाशादियुक्तं च पश्यति स नित्यम् एव संसरति इत्य् अभिप्रायः।
@@ -43,12 +44,14 @@ title = "28 समं सर्वेषु"
 
 13.28 He who sees the Atman as It really is - he is the one who sees the Atman as a distinct entity in all embodied beings that are composed of Prakrti and Purusa, even in bodies of diverse nature of gods, men etc. The true seer is one who sees the Atman as the supreme ruler in all these bodies as the imperishable self, though the bodies are subject to destruction. Conversely the purport is that he who sees the Atman, only as characterised by the uneal forms of the bodies as men, gods etc., and as possessed of birth, death etc. - such a person is perpetually caught up in transmigratory existence.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.28॥ --,**समं** निर्विशेषं **तिष्ठन्तं** स्थितिं कुर्वन्तम् क्व **सर्वेषु** समस्तेषु **भूतेषु** ब्रह्मादिस्थावरान्तेषु प्राणिषु कम् **परमेश्वरं** देहेन्द्रियमनोबुद्ध्यव्यक्तात्मनः अपेक्ष्य परमेश्वरः; तं सर्वेषु भूतेषु समं तिष्ठन्तम्। तानि विशिनष्टि विनश्यत्सु इति; तं च परमेश्वरम् **अविनश्यन्तम्** इति; भूतानां परमेश्वरस्य च अत्यन्तवैलक्षण्यप्रदर्शनार्थम्। कथम् सर्वेषां हि भावविकाराणां जनिलक्षणः भावविकारो मूलम् जन्मोत्तरकालभाविनः अन्ये सर्वे भावविकाराः विनाशान्ताः विनाशात् परो न कश्चित् अस्ति भावविकारः; भावाभावात्। सति हि धर्मिणि धर्माः भवन्ति। अतः अन्त्यभावविकाराभावानुवादेन पूर्वभाविनः सर्वे भावविकाराः प्रतिषिद्धाः भवन्ति सह कार्यैः। तस्मात् सर्वभूतैः वैलक्षण्यम् अत्यन्तमेव परमेश्वरस्य सिद्धम्; निर्विशेषत्वम् एकत्वं च। **यः** एवं यथोक्तं परमेश्वरं **पश्यति; सः पश्यति**॥ ननु सर्वोऽपि लोकः पश्यति; किं विशेषणेन इति। सत्यं पश्यति किं तु विपरीतं पश्यति। अतः विशिनष्टि -- स एव पश्यतीति। यथा तिमिरदृष्टिः अनेकं चन्द्रं पश्यति; तमपेक्ष्य एकचन्द्रदर्शी विशिष्यते -- स एव पश्यतीति तथा इहापि एकम् अविभक्तं यथोक्तं आत्मानं यः पश्यति; सः विभक्तानेकात्मविपरीतदर्शिभ्यः विशिष्यते -- स एव पश्यतीति। इतरे पश्यन्तोऽपि न पश्यन्ति; विपरीतदर्शित्वात् अनेकचन्द्रदर्शिवत् इत्यर्थः॥ यथोक्तस्य सम्यग्दर्शनस्य फलवचनेन स्तुतिः कर्तव्या इति श्लोकः आरभ्यते --,
 </details>
@@ -207,12 +210,14 @@ praised by stating its result. Hence the verse begins:
 समत्वतिष्ठत्त्वपरमेश्वरत्वरूपात्मविशेषणवशादर्थात्प्राप्तम्।
 अन्यत्कण्ठोक्तमिति विवेकः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.28॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -221,12 +226,14 @@ praised by stating its result. Hence the verse begins:
 
 ॥13.28॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.28॥ अत एव -- ।
 </details>
@@ -235,12 +242,14 @@ praised by stating its result. Hence the verse begins:
 
 13.28 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.28॥ अथ पुनरपि सुग्रहणायात्मदर्शनमाह -- तत्रात्मा त्रिविधोऽन्तर्यामी
 पुरुषोऽव्यक्तश्च। तत्र प्रथमस्य दर्शने फलमाह -- द्वाभ्यां सममिति। तत्र
@@ -258,20 +267,26 @@ praised by stating its result. Hence the verse begins:
 क्रोधादिराहित्येन तथैव लीलानुभवं कुर्वन्तं यः पश्यति; स परमेश्वरं
 पश्यति। अत एवंदर्शनाभावे सापराधो भवत्येव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.28॥ अविवेककृतं संसारोद्भवमुक्त्वा तन्निवृत्तये विविक्तात्मविषयं
 सम्यग्दर्शनमाह **-- सममिति।** स्थावरजङ्गमात्मकेषु भूतेषु निर्विशेषं
 सद्रूपेण समं यथा भवत्येवं तिष्ठन्तं परमात्मानं यः पश्यति; अतएव तेषु
 विनश्यत्स्वप्यविनश्यन्तं यः पश्यति स एव सम्यवपश्यति नान्यः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.28 Who sees the supreme ruler dwelling alike in all bodies and nevr perishing when they perish, he sees indeed.
@@ -310,11 +325,13 @@ mind; intellect; the Unmanifested Nature and the individual soul.Birth is the ro
 change; growth; decay and death. The other changes of state manifest themselves after the birth of the body.The Supreme Lord is one and changeless as He is birthless; decayless and deathless. He is the one common consciousness in all beings. He sees rightly who sees the Supreme Lord as now described. He is a Jivanmukta. He has knowledge of the knower of the field or the immortal Self. He is the real seer or a liberated sage.The sage alone sees properly on account of knowledge. The whole world sees erroneously on account of ignorance. He who is suffering from defective vision beholds many moons. He sees erroneously.
 But he who sees one moon only sees in the proper manner; correctly. Even so he who beholds the one immortal indivisible Self in all beings really sees the Truth. He alone sees. He who sees many distinct selves erroneously does not really see though he sees. He is like the man who beholds many moons. (Cf.VIII.20
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/28_samaM_sarveShu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.28।। जो नष्ट होते हुए सम्पूर्ण प्राणियोंमें परमात्माको नाशरहित और
@@ -399,6 +416,7 @@ But he who sees one moon only sees in the proper manner; correctly. Even so he w
 
 ।।13.28।। जो पुरुष समस्त नश्वर भूतों में अनश्वर परमेश्वर को समभाव से
 स्थित देखता है, वही (वास्तव में) देखता है।।
+</details>
 </details>
 
 </div>

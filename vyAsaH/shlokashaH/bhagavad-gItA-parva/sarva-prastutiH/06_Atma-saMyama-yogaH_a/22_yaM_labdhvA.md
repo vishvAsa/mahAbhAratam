@@ -24,8 +24,9 @@ title = "22 यं लब्ध्वा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.22॥**यं** योगं **लब्ध्वा** योगाद् विरतस् तम् एव काङ्क्षमाणो **न अपरं लाभं मन्यते यस्मिन् च** योगे **स्थितः** अविरतो ऽपि गुणवत्पुत्रवियोगादिना **गुरुणा अपि दुःखेन न विचाल्यते।**
@@ -42,12 +43,14 @@ title = "22 यं लब्ध्वा"
 (Atman)' by 'the mind (Atman)' one is delighted by the self and indifferent to all other objects; and where, through Yoga, one 'knows',
 i.e., experiences that infinite happiness which can be grasped only by the 'intellect' contemplating on the self, but is beyond the grasp of the senses; where, remaining in that Yoga, one does not 'swerve from that state,' because of the overwhelming happiness that state confers; having gained which, he desires for it alone, even when he is awakened from Yoga, and does not hold anything else as a gain; where one is not moved even by 'the heaviest sorrow' caused by any berevaement like that of a virtuous son - let him know that disunion from all union with pain, i.e., which forms the opposite of union with pain, is called by the term Yoga. This Yoga must be practised with the determination of its nature as such from the beginning with a mind free from despondency, i.e., with zestful exaltation.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.22॥ **यं लब्ध्वा**यम् आत्मलाभं लब्ध्वा प्राप्य **च अपरम्** अन्यत् लाभं लाभान्तरं **ततः अधिकम्** अस्तीति न **मन्यते** न चिन्तयति। किञ्च यस्मिन् आत्मतत्त्वे **स्थितः दुःखेन** शस्त्रनिपातादिलक्षणेन **गुरुणा** महता **अपि न विचाल्यते**॥  
   
@@ -111,12 +114,14 @@ gets withdrawn,' (20) etc.-
 शास्त्रनिपातादिनिमित्तेन महतापि दुःखेन न विचाल्यते किमुत
 क्षुद्रेणेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.21 6.22॥ तत्त्वतो भगवद्रूपत्वात्।
 </details>
@@ -126,12 +131,14 @@ gets withdrawn,' (20) etc.-
 ॥6.21 6.22॥ तत्त्वतस्तद्भावात् ब्रह्मत्वादिति प्रमाणविरुद्धं व्याख्यानं
 व्यावर्तयितुमाह **तत्त्वत** इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md"></div>
 </details>
 
@@ -139,12 +146,14 @@ gets withdrawn,' (20) etc.-
 
 6.20 See Comment under 6.23
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.22 6.25॥ तदेव विशिनष्टि यं लब्ध्वेति।
 एतेनेष्टप्राप्त्यनिष्टनिवृत्तिफलको योगः समन्वितःतं विद्यात् ৷৷.
@@ -159,20 +168,26 @@ gets withdrawn,' (20) etc.-
 सुखं लब्ध्वाततोऽधिकमपरं लाभं न मन्यते तत उत्तमत्वाभावात्। यस्मिन् स्थितो
 गुरुणाऽपि दुःखेन अधिकरणात्मकविप्रयोगादिना न विचाल्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.22॥ अचलत्वमेवोपपादयति **यमिति।** यमात्मसुखरूपलाभं लब्ध्वा
 ततोऽधिकमपरं लाभं न मन्यते न चिन्तयति तस्यैव निरतिशयसुखत्वात् यस्मिंश्च
 स्थितो महतापि शीतोष्णादिदुःखेन न विचाल्यते नाभिभूयते।
 एतेनेष्टनिवृत्तिफलेनापि योगलक्षणमुक्तं द्रष्टव्यम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.22 Which, having gained, one holds there is no greater gain beyond it;
@@ -207,11 +222,13 @@ wherein established, one is not moved even by the heaviest sorrow -
 even; विचाल्यते is moved.Commentary Which the gain or the realisation of the Self or the immortal Soul.Wherein in the allblissful Self which is free from delusion and sorrow. The Self is allfull and selfcontained.
 All the desires are fulfilled when one attains Selfrealisation. That is the reason why the Lord says There is no other acisition superior to Selfrealisation. If one gets himself established in the Supreme Self within; he cannot be shaken every by heavy sorrow and pain; because he is mindless and he is identifying himself with the sorrowless and painless Brahman. One can experience pain and sorrow when he identifies himself with the body and the mind. If there is no mind there cannot be any pain. When one is under chloroform he feels no pian even when his hand is amputated; because the mind is withdrawn from the body.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.22।। जिस लाभकी प्राप्ति होनेपर उससे अधिक कोई दूसरा लाभ उसके माननेमें
@@ -247,6 +264,7 @@ All the desires are fulfilled when one attains Selfrealisation. That is the reas
 ।।6.22।। जिस लाभकी प्राप्ति होनेपर उससे अधिक कोई दूसरा लाभ उसके माननेमें
 भी नहीं आता और जिसमें स्थित होनेपर वह बड़े भारी दु:ख से भी विचलित नहीं
 होता है।।
+</details>
 </details>
 
 </div>

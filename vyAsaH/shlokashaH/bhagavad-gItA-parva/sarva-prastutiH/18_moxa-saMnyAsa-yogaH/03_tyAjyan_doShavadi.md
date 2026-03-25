@@ -23,8 +23,9 @@ title = "03 त्याज्यन् दोषवदित्येके"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.3॥ एके मनीषिणः कापिला वैदिकाश् च तन्मतानुसारिणो रागादि**दोषवद्** बन्धकत्वात् सर्वं यज्ञादिकं कर्म मुमुक्षुणा **त्याज्यम्** इत्य् आहुः। **अपरे** पण्डिता यज्ञादिकं **कर्म न त्याज्यम्** इति प्राहुः।
@@ -39,12 +40,14 @@ title = "03 त्याज्यन् दोषवदित्येके"
 
 18.3 Some sages, viz., the adherents of Kapila and those Vaidikas who agree with his creed, contend that all acts such as sacrifices etc., should be renounced by aspirants for release, as they bind even as desires and other similar defects tend to bind. Other learned men say that acts like sacrifices etc., should not be renounced.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.3॥ --,**त्याज्यं** त्यक्तव्यं **दोषवत्** दोषः अस्य अस्तीति दोषवत्। किं तत् **कर्म** बन्धहेतुत्वात् सर्वमेव। अथवा; दोषः यथा रागादिः त्यज्यते; तथा त्याज्यम् **इति एके कर्म** प्राहुः **मनीषिणः** पण्डिताः साङ्ख्यादिदृष्टिम् आश्रिताः; अधिकृतानां कर्मिणामपि इति। तत्रैव **यज्ञदानतपःकर्म ऩ त्याज्यम् इति च अपरे**॥ कर्मिणः एव अधिकृताः; तान् अपेक्ष्य एते विकल्पाः; न तु ज्ञाननिष्ठान् व्युत्थायिनः संन्यासिनः अपेक्ष्य। ज्ञानयोगेन साङ्ख्यानां निष्ठा मया पुरा प्रोक्ता इति कर्माधिकारात् अपोद्धृताः ये; न तान् प्रति चिन्ता॥  
   
@@ -308,12 +311,14 @@ chapter.
 अत्र द्वितीयः पक्षः कर्माधिकारिभिरन्तःकरणशुद्धिद्वारा
 विविदिषोत्पत्त्यर्थं यज्ञदानतपःकर्म न त्याज्यमिति चापरे मनीषिणः प्राहुः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.3॥ मनीषिण इत्युक्तत्वात्पूर्वपक्षोऽपि ग्राह्य एव। फलत्यागेन त्यागो
 विवक्षितः। यज्ञादेस्तत्पक्षे। यस्तु कर्मफलत्यागी \[18।11\] इति च
@@ -334,12 +339,14 @@ chapter.
 किन्त्वापापप्रतीतिमपेक्ष्य सन्देहबीजत्वेन विप्रतिपत्तिरियमुद्भावितेति
 भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.3॥ No commentary.
 </details>
@@ -348,12 +355,14 @@ chapter.
 
 18.3 Tyajyam etc. The harmful : that which is connected with sin, becuase it consists of act of injury etc. Such an action must be relinished and not all aciton that has auspicious result. In this way certain persons-as if they are attached (as domesticated animals do ) to the house of the Sankhyas - think of a distinction is relinishing. But there are other learned persons who put on the coat of the Mimamsakas and who, basing exclusively the scriptures, classify what action to be performed and what action not to be performed . They opine : The act of killing that constitutes the technical aspect of execution of a sacrifice is \[in fact\] not an act of injury at all in view of the principles, like 'The action intended for sacrifice is indeed known from the scripture only' - (SB, IV, i, 2) and 'Therefore the act of injury known from the Vedas' etc. - (SV, I, i, 2.23) For, the general rule 'Don't injure' is annulled in this case. But, at the same time the Syena-sacrifice etc., is an act of killing. Becuase, 'The injunctive suffix does not prescribe what falls within the purveiw of fruit of an action of the injunction.' \[SV, I, i, 2.222). Therefore other \[Vedic\] sacrifices one should not relinish eventhough they are connected with an act of injury.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.3॥ एके त्वाहुस्त्याज्यं दोषवदिति। कर्ममात्रं
 हिंसादिदोषवत्त्वात्त्याज्यमित्येके साङ्ख्याः मनीषिण इति युक्तिदर्शनात्
@@ -375,10 +384,13 @@ chapter.
 वदन्ति \[महाना.17।5\] इति च तस्मात्तपः परमं वदन्ति \[महाना.17।5\] इति च।
 एतेन ते कर्मण एव ईश्वरत्वं वदन्त्यतस्तेऽपि न जानन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.3॥ अविदुषः फलत्यागमात्रमेव त्यागशब्दार्थो न कर्मत्याग इत्येतदेव
 मतान्तरनिरासेन दृढीकर्तुं मतभेदं दर्शयति **--** **त्याज्यमिति।**
@@ -402,10 +414,13 @@ chapter.
 त्याज्यमिति अनेन विधिनिषेधयोः समानबलता वार्यते सामान्यविशेषन्यायं
 संप्रादयितुम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.3 Some sages say that all actions should be given up as evil; others declare that works such as sacrifices, gifts and austerities should not be given up.
@@ -441,11 +456,13 @@ thus; एके some; कर्म action; प्राहुः declare; मन
 यज्ञदानतपःकर्म acts of sacrifice; gift and austerity; न not; त्याज्यम्
 should be relinished; इति thus; च and; अपरे others.Commentary Some philosophers who follow the doctrine of the Sankhyas declare that all actions,should be abandoned as evil; even by those who are fit for Karma Yoga.Doshavat As an evil All Karmas should be abandoned as involving evil because they cause bondage or that they should be relinished like passion and other such evil tendencies.Others declare that the acts of sacrifice; gifts and austerities should not be given up by those who are fit for Karma Yoga. These are the opinions of some; who are of great understanding.Now listen to Me. I will settle this matter and will tell thee how renunciation should be practised.The subject of the discourse here is about the Karma Yogins only and not about those persons who have gone beyond the path of Karma. It is with reference to the Karma Yogins that these conflicting opinions are held and not with reference to the Jnana Yogins or the Sannyasins who have risen above all worldly concerns.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/03_tyAjyan_doShavadi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.3।। श्रीभगवान् बोले -- कई विद्वान् काम्य-कर्मोंके त्यागको संन्यास
@@ -542,6 +559,7 @@ should be relinished; इति thus; च and; अपरे others.Commentary So
 ।।18.3।। कुछ मनीषी जन कहते हैं कि समस्त कर्म दोषयुक्त होने के कारण
 त्याज्य हैं; और अन्य जन कहते हैं कि यज्ञ, दान और तपरूप कर्म त्याज्य नहीं
 हैं।।
+</details>
 </details>
 
 </div>

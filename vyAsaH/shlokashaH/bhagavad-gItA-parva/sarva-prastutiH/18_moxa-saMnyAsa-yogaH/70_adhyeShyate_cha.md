@@ -23,8 +23,9 @@ title = "70 अध्येष्यते च"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.70॥**य इमम् आवयोर् धर्म्यं संवादम् अध्येष्यते; तेन ज्ञानयज्ञेन अहम् इष्टः स्याम् इति मे मतिः।** अस्मिन् यो ज्ञानयज्ञो ऽभिधीयते; तेन अहम् एतद् अध्ययनमात्रेण इष्टः स्याम् इत्यर्थः।
@@ -40,12 +41,14 @@ title = "70 अध्येष्यते च"
 
 18.70 He who will study the dialogue between us, which is consistent with the path to realisation, by him I shall be worshipped through the sacrifice of knowledge. Such is My view. The meaning is that whateve sacrifice of knowledge is taught herein, by that I shall become worshipped by the mere fact of its study.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.70॥ --,**अध्येष्यते च** पठिष्यति **यः इमं धर्म्यं** धर्मादनपेतं संवादरूपं ग्रन्थं **आवयोः;** तेन इदं कृतं स्यात्। **ज्ञानयज्ञेन** -- विधिजपोपांशुमानसानां यज्ञानां ज्ञानयज्ञः मानसत्वात् विशिष्टतमः इत्यतः **तेन** ज्ञानयज्ञेन गीताशास्त्रस्य अध्ययनं स्तूयते फलविधिरेव वा; देवतादिविषयज्ञानयज्ञफलतुल्यम् अस्य फलं भवतीति -- तेन अध्ययनेन **अहम् इष्टः** पूजितः **स्यां** भवेयम् **इति मे** मम **मतिः** निश्चयः॥ अथ श्रोतुः इदं फलम् --,
 </details>
@@ -131,12 +134,14 @@ others. Now, this is the reward for the hearer:
 साक्षादेव मोक्ष इति किमु वक्तव्यमिति फलविधिरेवायं
 नार्थवादः। श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परंतप इति प्रागुक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.70॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -145,12 +150,14 @@ others. Now, this is the reward for the hearer:
 
 ॥18.70॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.68 -- 18.72॥ य इदमित्यादि धनञ्जयेत्यन्तम्। भक्तिमिति -- एतदेव मयि भक्तिकरणं यत् भक्तेष्वेतन्निरूपणम् +++(;N मद्भक्तेषु )+++। अभिधास्यति +++(S;;N मद्भक्तेष्वभि -- )+++ ; आभिमुख्येन शास्त्रोक्तप्रक्रियया; धास्यति वितरिष्यति \[ यः \] स मन्मयतामेति इति विधिरेवैष नार्थवादः। एवमन्यत्र।
 </details>
@@ -159,12 +166,14 @@ others. Now, this is the reward for the hearer:
 
 18.70 See Comment under 18.72
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.70॥ अध्येतुः फलं निर्दिशति -- अध्येष्यत इति। अर्थमजानतोऽपि पुंसो
 नामवत्पाठमात्रात् फलदोऽयं संवाद इति भावः।
@@ -181,10 +190,13 @@ others. Now, this is the reward for the hearer:
 स्वमतित्वकथनेनैतत्पाठस्याऽऽवश्यकत्वं करणे च स्वप्रसादावश्यकत्वं
 ज्ञापितमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.70॥ पठतः फलमाह **-- अध्येष्यत इति।** आवयोः कृष्णार्जुनयोः इमं
 धर्म्यं धर्मादनपेतं संवादं योऽध्येष्यते जपरूपेण पठिष्यति तेन पुंसा
@@ -196,10 +208,13 @@ others. Now, this is the reward for the hearer:
 कथंचिन्नामोच्चारणमात्रेण प्रसन्नोऽस्मि; तथैवास्यापि प्रसन्नो
 भवेयमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.70 And he who will study his dialogue of ours which is consistent with Dharma, by him I shall be worshipped through the sacrifice of knowledge; such is My view.
@@ -235,11 +250,13 @@ he shall thereby worship Me at the altar of Wisdom.
 thus; मे My; मतिः conviction. Commentary There are four kinds of sacrifice -- Vidhi; Japa; Upamsu and Manasa. Vidhi is ritual. Japa is recitation of a Mantra. Upamsu is Japa done in a whisper. Of the four kinds; JnanaYajna or the wisdomsacrifice comes under Manasa and is;
 therefore; the highest. The Gita is eulogised as a JnanaYajna. He who studies this scripture with faith and devotion will attain the fruit that is eal to that of performing JnanaYajna or meditation on a deity and the like.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.70।। जो मनुष्य हम दोनोंके इस धर्ममय संवादका अध्ययन करेगा, उसके
@@ -386,6 +403,7 @@ therefore; the highest. The Gita is eulogised as a JnanaYajna. He who studies th
 
 ।।18.70।। जो पुरुष, हम दोनों के इस धर्ममय संवाद का पठन करेगा, उसके
 द्वारा मैं ज्ञानयज्ञ से पूजित होऊँगा - ऐसा मेरा मत है।।
+</details>
 </details>
 
 </div>

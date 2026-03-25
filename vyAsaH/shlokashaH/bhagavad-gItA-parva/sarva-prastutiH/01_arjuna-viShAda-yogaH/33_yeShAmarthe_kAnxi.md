@@ -23,8 +23,9 @@ title = "33 येषामर्थे काङ्क्षितम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥1.33॥ अन्तिमश्लोकव्याख्या दृश्या।
@@ -39,12 +40,14 @@ title = "33 येषामर्थे काङ्क्षितम्"
 
 1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous. His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.33 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>
@@ -86,12 +89,14 @@ starts from 2.10.
 ॥1.33॥ प्राणधनशब्दौ तु तदाशालक्षकौ। स्वप्राणत्यागेऽपि
 स्वबन्धूनामुपभोगाय धनाशा संभवेदिति तद्वारणाय पृथग्धनग्रहणम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.33॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.
@@ -102,12 +107,14 @@ starts from 2.11.
 ॥1.33॥ Sri Jayatirtha did not comment on this sloka. The commentary
 starts from 2.11.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.30 1.34॥ न च श्रेयोऽनुपश्यामीत्यादि। अमी आचार्यदयः इति विशेषबुद्ध्या +++(N शेषबुद्ध्या)+++ बुद्धौ आरोप्यमाणाः वधकर्मतया अवश्यं पापदायिनः। तथा भोगसुखादिदृष्टार्थमेतद्युद्धं क्रियते इति बुद्ध्या क्रियमाणं युद्धे +++(S युद्धेषु वध्य K युद्धेष्ववध्य )+++ वध्यहननादि तदवश्यं पातककारि इति पूर्वपक्षाभिप्रायः। अत एव स्वधर्ममात्रतयैव कर्माणि अनुतिष्ठ न विशेषधियेति उत्तरं दास्यते।
 </details>
@@ -116,12 +123,14 @@ starts from 2.11.
 
 1.30 1.34 Na ca sreyah, etc., upto mahikrte. Those who are wrongly conceived as object of slaying, with the individualizing idea that 'these are my teachers etc.'8 would necessarily generate sin. Similarly, the act of slaying even of those deserving to be slain in the battle-if undertaken with the idea that 'This battle is to be fought for the apparent results like pleasures, happiness etc.'- then it generates sin necessarily. This idea lurks in the objection \[of Arjuna\]. That is why a reply is going to be given \[by Bhagavat\] as 'You must undertake actions simply as your own duty, and not with an individualizing idea'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.31 1.33॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -135,10 +144,13 @@ starts from 2.11.
 इमे प्राणान् धनानि च त्यक्त्वा युद्धे सङ्ग्रामे **मर()**णार्थमवस्थिता
 इत्यर्थः। तस्मादेतन्मारणेन लौकिकसिद्धिरपि नास्माकमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 **॥ 1.33** विजयादिकं फलं किं न पश्यसीति चेत्तत्राह **न काङ्क्ष
 इति।** एतदेव प्रपञ्चयति **किं न इति** सार्धाभ्याम्। यदर्थमस्माकं
@@ -147,10 +159,13 @@ starts from 2.11.
   
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 1.33 Those for whose sake we do desire empire, enjoyment and pleasures,
@@ -188,11 +203,13 @@ stand here in battle, having renounced life and wealth.
 these; अवस्थिताः stand; युद्धे in battle; प्राणान् life; त्यक्त्वा
 having abandoned; धनानि wealth; च and.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/01_arjuna-viShAda-yogaH/33_yeShAmarthe_kAnxi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।1.33।। जिनके लिये हमारी राज्य, भोग और सुखकी इच्छा है, वे ही ये सब अपने
@@ -230,6 +247,7 @@ having abandoned; धनानि wealth; च and.No Commentary.
 
 ।।1.33।। हमें जिनके लिये राज्य, भोग और सुखादि की इच्छा है, वे ही लोग धन
 और जीवन की आशा को त्यागकर युद्ध में खड़े हैं।
+</details>
 </details>
 
 </div>

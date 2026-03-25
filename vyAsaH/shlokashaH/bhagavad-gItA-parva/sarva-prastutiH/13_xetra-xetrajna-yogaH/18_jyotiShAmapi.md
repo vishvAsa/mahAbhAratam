@@ -23,8 +23,9 @@ title = "18 ज्योतिषामपि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.17॥**ज्योतिषां** दीपादित्यमणिप्रभृतीनाम् अपि तद् एव **ज्योतिः** प्रकाशकं दीपादित्यादीनाम् अप्य् आत्मप्रभारूपं ज्ञानम् एव प्रकाशकम्। दीपादयस् तु विषयेन्द्रियसन्निकर्षविरोधिसन्तमसनिरसनमात्रं कुर्वते; तावन्मात्रेण एव तेषां प्रकाशकत्वम्। तमसः परम् उच्यते -- तमः शब्दः सूक्ष्मावस्थप्रकृतिवचनः; प्रकृतेः परम् उच्यते इत्यर्थः। अतो **ज्ञानं ज्ञेयं** ज्ञानैकाकारम् इति ज्ञेयं तच् च **ज्ञानगम्यम्** अमानित्वादिभिर् उक्तैर् ज्ञानसाधनैः प्राप्यम् इत्यर्थः। **हृदि सर्वस्य विष्ठितं** सर्वस्य मनुष्यादेर् हृदि विशेषेण अवस्थितं सन्निहितम्।
@@ -41,12 +42,14 @@ title = "18 ज्योतिषामपि"
 
 13.18 This (self) alone is the 'light' which illuminates things like the sun, a lamp, a gem etc. It is knowledge alone in the form of the effulgence of the self which illuminates a lamp, the sun etc. But a lamp etc., dispel the darkness that intervenes between the sense of sight and its subject. Their illuminating power is limited to this extent. This is said to be beyond Tamas (darkness). The term Tamas denotes Prakrti in its subtle state. The meaning is that the self transcends Prakrti. Therefore, It is to be comprehended as knowledge, i.e., to be understood as of the form of knowledge. It is attainable by means of knowledge - such as modesty etc., already described. It is present in the heart of all, i.e., It is specially settled, or present in the heart of all beings like men etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 (13.18॥ -- **ज्योतिषाम्** आदित्यादीनाम**पि** तत् ज्ञेयं **ज्योतिः।** आत्मचैतन्यज्योतिषा इद्धानि हि आदित्यादीनि ज्योतींषि दीप्यन्ते; येन सूर्यस्तपति तेजसेद्धः तस्य भासा सर्वमिदं विभाति (श्वे0 उ₀ 6।14) इत्यादिश्रुतिभ्यः स्मृतेश्च इहैव -- यदादित्यगतं तेजः इत्यादेः। **तमसः** अज्ञानात् **परम्** अस्पृष्टम् **उच्यते।** ज्ञानादेः दुःसंपादनबुद्ध्या प्राप्तावसादस्य उत्तम्भनार्थमाह -- **ज्ञानम्** अमानित्वादि **ज्ञेयम्** ज्ञेयं यत् तत् प्रवक्ष्यामि (गीता 13।12) इत्यादिना उक्तम् **ज्ञानगम्यम्** ज्ञेयमेव ज्ञातं सत् ज्ञानफलमिति ज्ञानगम्यमुच्यते ज्ञायमानं तु ज्ञेयम्। तत् एतत् त्रयमपि **हृदि** बुद्धौ **सर्वस्य** प्राणिजातस्य **विष्ठितं** विशेषेण स्थिम्। तत्रैव हि त्रयं विभाव्यते॥ यथोक्तार्थोपसंहारार्थः अयं श्लोकः आरभ्यते --,
 </details>
@@ -188,12 +191,14 @@ discussion:
 इवादर्शसूर्यकान्तादौ अव्यवहितमेव वस्तुतो भ्रान्त्या व्यवहितमिव
 सर्वभ्रमकारणाज्ञाननिवृत्त्या प्राप्यत इवेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.18॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -202,12 +207,14 @@ discussion:
 
 ॥13.18॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.13 -- 13.18॥ एतेन ज्ञानेन यत् ज्ञेयं तदुच्यते -- ज्ञेयमित्यादि विष्ठितमित्यन्तम्। अनादिमत् परं ब्रह्म इत्यादिभिर्विशेषणैः ब्रह्मस्वरूपाक्षेपानुग्राहकं,+++(S -- स्वरूपापेक्षानु -- )+++ सर्वप्रवादाभिहितविज्ञानापृथग्भावं कथयति +++(S;;N सर्वप्रवादान्तराभिहितपृथग्भावकमुच्यते)+++। एतानि च विशेषणानि पूर्वमेव व्याख्यातानि इति किं निष्फलया,पुनरुक्त्या।
 </details>
@@ -216,12 +223,14 @@ discussion:
 
 13.13-18 Jneyam etc. upto visthitam. Beginningless is the Supreme Brahman : by means of the attributes (descriptions) like these, \[the Bhagavat\] describes the Brahman as being not separate from the Supreme Consciousness (or action) expressed in every utterance and \[thus\] gracing \[the seeker\] to infer his \[or Its\] own nature. These attributes however have already been explained. Hence what is the use of a fruitless repetition ;
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.18॥ ज्योतिषामिति। प्रकाशकानां चेतनानां च तन्मूलं ज्योतिरध्यात्मरूपं
 प्रकाशकं। अतएवोक्तं -- चैत्त्यस्य तत्त्वममलं मणिमस्य कण्ठे
@@ -253,10 +262,13 @@ discussion:
 सर्वप्रेरकत्वेन स्थितं तेन यत्र तथेच्छा तत्र ज्ञानरूपेणाविर्भवति; यत्र न
 ज्ञापनेच्छा तत्राऽऽच्छादकत्वेन भवतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.18॥ किंच **-- ज्योतिषामिति।** ज्योतिषां चन्द्रादित्यादीनामपि
 तज्ज्योतिः प्रकाशकं ततोयेन सूर्यस्तपति तेजसेद्धःन तत्र सूर्यो भाति न
@@ -269,10 +281,13 @@ discussion:
 विष्ठितं विशेषेणाप्रच्युतस्वरूपेण नियन्तृतया स्थितम्। धिष्ठितमिति
 पाठेऽधिष्ठाय स्थितमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.18 The light of all lights, this is said to be beyond Tamas
@@ -310,11 +325,13 @@ fire and lightning. It is selfluminous; The sun does not shine there;
 nor do the moon and the stars; nor do these lightnings shine and much less this fire. When It shines; everything shines after It all these shine by Its Light. (Kathopanishad 5.15 also Svetasvataropanishad 6.14)Knowledge Such as humility. (Cf.XIII.7to11)The knowable As described in verses 12 to 7.The goal of knowledge; i.e.; capable of being understood by wisdom.These three are installed in the heart
 (Buddhi) of every living being. Though the light of the sun shines in all objects; yet the suns light shines more brilliantly in all bright and clean objects such as a mirror. Even so; though Brahman is present in all objects; the intellect shines with special effulgence received from Brahman. (Cf.X.20XIII.3XVIII.61)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.18।। वह परमात्मा सम्पूर्ण ज्योतियोंका भी ज्योति और अज्ञानसे अत्यन्त
@@ -473,6 +490,7 @@ nor do the moon and the stars; nor do these lightnings shine and much less this 
 ।।13.18।। (वह ब्रह्म) ज्योतियों की भी ज्योति और (अज्ञान) अन्धकार से परे
 कहा जाता है। वह ज्ञान (चैतन्यस्वरूप) ज्ञेय और ज्ञान के द्वारा जानने
 योग्य (ज्ञानगम्य) है। वह सभी के हृदय में स्थित है।।
+</details>
 </details>
 
 </div>

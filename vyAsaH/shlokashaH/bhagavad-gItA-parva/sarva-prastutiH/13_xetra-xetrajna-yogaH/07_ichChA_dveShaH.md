@@ -23,8 +23,9 @@ title = "07 इच्छा द्वेषः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.6॥**इच्छा द्वेषः सुखं दुःखम्** इति क्षेत्रकार्याणि क्षेत्रविकारा उच्यन्ते।  
@@ -65,12 +66,14 @@ taste and smell. Desire, hatred, pleasure and pain, being the transformation of 
 'In the experience of pleasure and pain, the self is said to be the cause' (13.20). The combination of elements serves as the support
 (Adhrti) of the intelligent self. As such, the word Adhrti means substratum. The combination of material elements has arisen as the substratum for the self to experience pleasure and pain, and for aciring worldly experiences and the final release. The combination of elements is formed by substances commencing from the Prakrti and ending with the earth; it is the basis of senses which are endowed with the modifications of the nature of desire, hatred, pleasure and pain. These form a Sanghata or an association of elements. It serves as the basis of the experience of pleasure and pain by the individual self. This is what is said of the Ksetra. This Ksetra has been explained briefly with its modifications and effects. Now certain alities, the effects of the Ksetra, worthy of being acired as being the means for securing the knowledge of the self, are enumerated.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.7॥ --,**इच्छा;** यज्जातीयं सुखहेतुमर्थम्; उपलब्धवान् पूर्वम्; पुनः तज्जातीयमुपलभमानः तमादातुमिच्छति सुखहेतुरिति सा इयं इच्छा अन्तःकरणधर्मः ज्ञेयत्वात् क्षेत्रम्। तथा **द्वेषः;** यज्जातीयमर्थं दुःखहेतुत्वेन अनुभूतवान्; पुनः तज्जातीयमर्थमुपलभमानः तं द्वेष्टि सोऽयं द्वेषः ज्ञेयत्वात् क्षेत्रमेव। तथा **सुखम्** अनुकूलं प्रसन्नसत्त्वात्मकं ज्ञेयत्वात् क्षेत्रमेव। दुःखं प्रतिकूलात्मकम् ज्ञेयत्वात् तदपि क्षेत्रम्। **संघातः** देहेन्द्रियाणां संहतिः। तस्यामभिव्यक्तान्तःकरणवृत्तिः; तप्त इव लोहपिण्डे अग्निः आत्मचैतन्याभासरसविद्धा **चेतना** सा च क्षेत्रं ज्ञेयत्वात्। **धृतिः** यया अवसादप्राप्तानि देहेन्द्रियाणि ध्रियन्ते सा च ज्ञेयत्वात् क्षेत्रम्। सर्वान्तःकरणधर्मोपलक्षणार्थम् इच्छादिग्रहणम्। यत उक्तमुपसंहरति **एतत् क्षेत्रं समासेन सविकारं** सह विकारेण महदादिना **उदाहृतम्** उक्तम्॥  
   
@@ -231,12 +234,14 @@ which a monk is said to be steadfast in Knowledge:
 साक्ष्यतोऽहमविक्रियः॥ इति। तेन विकारित्वमेव क्षेत्रचिह्नं नतु
 परिगणनमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.7॥ इच्छादयो विकाराः।
 </details>
@@ -247,12 +252,14 @@ which a monk is said to be steadfast in Knowledge:
 इत्युक्तम्; तत्र न ज्ञायते किं क्षेत्रं के च तद्विकारा इत्यत आह --
 **इच्छादय** इति। पूर्वं क्षेत्रमिति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.6 -- 13.7॥ महाभूतानीति। इच्छेति। अव्यक्तम् प्रकृतिः। इन्द्रियाणि मनसा सह एकादश। ,इन्द्रियगोचराः रूपादयः पंच। चेतना दृक्छक्तिः पुरुषः। धृतिरिति -- अन्ते +++(;N अत्रान्ते किल)+++ किल सर्वस्य आ ब्रह्मणः क्रिमिपर्यन्तस्य प्रारब्धे निष्पन्ने वा कार्ये कामक्रोधादिषु च इयतैव मम पर्याप्तं; किमन्येन ईदृशश्चाहं नित्यमेव भूयासम् इति प्राणसन्धारिणी +++(S;N
 -- संधारणी -- साधारणी)+++ धृतिः आश्वासनात्मिका पररहस्यशासनेषु रागशब्दवाच्या
@@ -263,12 +270,14 @@ which a monk is said to be steadfast in Knowledge:
 
 13.6-7 Mahabhutani etc. Iccha etc. The Unmanifest : the \[prime\] material cause. The organs : together with the mind, they are eleven in number. The object of the snese - organs : the colour etc., that are five in number. Sensibility : the perceiving energy i.e. the Individual Soul. Feeling of satisfaction (or self-;nd) : It is well known that at the last moment, when a given action is \[just\] begun or accomplished and desire, anger etc. (come up and accomplished) there arises - in the case of everone from Brahma (personal god) down to the worm-a feeling of satisfaction (or self-;nd) as 'This much is ite sufficient for me; what is the use of another one ; Let me always be in this manner',-a feeling which upholds one's life, and is in the form of consolation and which is called by the expression raga in the highly secret ;ndments. (5-6) The Field has been explained as above; so also the Field-sensitizer. Now \[what conduces to the true\] knowledge is mentioned as-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.7॥ तस्य यद्विकारितामाह -- इच्छेत्यादि।
 यद्यपीच्छाद्वेषसुखदुःखान्यात्मधर्मभूतानि तथाप्यात्मनश्चिदंशभूतस्य
@@ -291,10 +300,13 @@ which a monk is said to be steadfast in Knowledge:
 इन्द्रियादिविकारसहितं क्षेत्रं सर्वोत्पत्तिस्थानं सङ्क्षेपेण
 सम्यक्प्रकारेण उदाहृतं लीलार्थं प्रकटितमिति ज्ञानार्थं कथितमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.7॥**इच्छेति।** इच्छादयः प्रसिद्धाः; संघातः शरीरं; चेतना
 ज्ञानात्मिका मनोवृत्तिः; धृतिर्धैर्यम्; एतइच्छादयो दृश्यत्वान्नात्मधर्मा
@@ -305,10 +317,13 @@ which a monk is said to be steadfast in Knowledge:
 सविकारमिन्द्रियादिविकारसहितं संक्षेपेण तुभ्यं मयोक्तमिति
 क्षेत्रोपसंहारः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.7 Desire, hatred, pleasure and pain and the combination that constitutes the basis of consciousness (or the individual self). Thus this Ksetra has been briefly described with its modifications.
@@ -349,11 +364,13 @@ Hatred also is field because it is knowable. The modification that arises in the
 The body; the senses and the mind are sustained by firmness when they are depressed and agitated. The five elements are antagonistic to each other. Water destroys earth. Fire dries up water. Water puts out fire.
 Wind puts out a lamp (fire). Ether absorbs the wind. The five elements fight amongst themselves and yet they (that have a natural dislike for one another) dwell together ite amicably in the same body. Each element beautifully cooperates with the others in carrying on the common functions of the body harmoniously. Each element nourishes the other elements also with its own alities. Dhriti is firmness or the power by which these fighting elements are held in union and harmony and kept in a state of steadiness and balance. This is also the field because it is knowable.Desire and the other alities that are spoken of in this verse stand for all the alities of the mind. The field that is mentioned in the first verse has been dealth with in all its different forms in the fifth and the sixth verses.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.7।। इच्छा, द्वेष, सुख, दुःख, संघात, चेतना (प्राणशक्ति) और धृति -- इन
@@ -501,6 +518,7 @@ Wind puts out a lamp (fire). Ether absorbs the wind. The five elements fight amo
 ।।13.7।। इच्छा, द्वेष, सुख, दुख, संघात (स्थूलदेह), चेतना (अन्त:करण की
 चेतन वृत्ति) तथा धृति - इस प्रकार यह क्षेत्र विकारों के सहित संक्षेप
 में कहा गया है।।
+</details>
 </details>
 
 </div>

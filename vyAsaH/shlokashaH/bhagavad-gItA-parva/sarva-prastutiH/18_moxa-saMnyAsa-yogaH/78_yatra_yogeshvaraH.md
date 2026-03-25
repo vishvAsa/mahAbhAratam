@@ -23,8 +23,9 @@ title = "78 यत्र योगेश्वरः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.78॥**यत्र योगेश्वरः** कृत्स्नस्य उच्चावचरूपेण अवस्थितस्य चेतनस्य अचेतनस्य च वस्तुनो ये ये स्वभावयोगास् तेषां सर्वेषां योगानाम् ईश्वरः स्वसङ्कल्पायत्तस्वेतरसमस्तवस्तुस्वरूपस्थितिप्रवृत्तिभेदः **कृष्णो** वसुदेवसूनुः **यत्र** च **पार्थो धनुर्धरः** तत्पितृष्वसुः पुत्रस् तत्पदद्वन्द्वैकाश्रयः **तत्र श्रीर् विजयो भूतिर् नीतिः** च **ध्रुवा** निश्चला इति **मतिर् मम** इति। ,
@@ -41,12 +42,14 @@ title = "78 यत्र योगेश्वरः"
 
 18.78 Wherever there is Sri Krsna, the son of Vasudeva, the 'Yogesvara' who is the ruler of the various manifestations of Nature pertaining to all intelligent and non-intelligent entities that have high and low forms, and on whose volition depend the differences in the essential natures, existences and the activities of all things other than Himself, and wherever there is Arjuna, the archer, who is his paternal aunt's son and who took sole refuge at His feet - in such places there always will be present fortune, victory, wealth and sound morality. Such is my firm conviction.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.78॥ --,**यत्र** यस्मिन् पक्षे **योगेश्वरः** सर्वयोगानाम् ईश्वरः; तत्प्रभवत्वात् सर्वयोगबीजस्य; **कृष्णः; यत्र पार्थः** यस्मिन् पक्षे **धनुर्धरः** गाण्डीवधन्वा; **तत्र श्रीः** तस्मिन् पाण्डवानां पक्षे श्रीः **विजयः;** तत्रैव **भूतिः** श्रियो विशेषः विस्तारः भूतिः; **ध्रुवा** अव्यभिचारिणी **नीतिः** नयः; इत्येवं **मतिः मम** इति॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -153,12 +156,14 @@ nitih, prudence. Such is me, my ; matih, conviction.
 श्रीरामविश्वेश्वरमाधवानां प्रसादमासाद्य मया गुरूणाम्।
 व्याख्यानमेतद्विहितं सुबोधं समर्पितं तच्चरणाम्बुजेषु॥ ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.78॥ पूर्णादोषमहाविष्णोर्गीतामाश्रित्य लेशतः।  
   
@@ -182,12 +187,14 @@ nitih, prudence. Such is me, my ; matih, conviction.
 अक्षोभ्यतीर्थगुरुणा शुकवच्छिक्षितस्य मे। वचोभिरमृतप्रायैः प्रीयन्तां
 सततं बुधाः॥3॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.74 -- 18.78॥ इत्यहमित्यादि मतिर्ममेत्यन्तम्। संजयवचनेन संवादमुपसंहरन एतदर्थस्य गाढप्रबन्धक्रमेण निरन्तरचिन्तासन्तानोपकृतनैरन्तर्यादेव चान्ते सुपरिस्फुटनिर्विकल्पानुभवरूपतामापाद्यमानं स्मरणमात्रमेव परब्रह्मप्रदायकम् इत्युच्यते। एवं भगवदर्जुनसंवादमात्रस्मरणादेव तत्त्वावाप्त्या +++(S; तत्त्वव्याप्त्या )+++ श्रीविजयविभूतय इति।  
   
@@ -248,12 +255,14 @@ nitih, prudence. Such is me, my ; matih, conviction.
 
 18.74-78 Ityaham etc. upto matir mama While concluding the \[Krsna-Arjuna\] dialogue with Sanjaya's speech, the \[sage Vyasa\] teaches this : What leads to the Absolute Brahman is nothing but the recollection of the purport of the dialoguea recollection that is led finally to the status of the highly vivid, direct cognition admitting no differentiation \[between its subject and object\], resulting from the continuity helped by the series of incessant contemplations \[on the purport of the dialogue\] according to the method of firmly fixing. Thus, only through the recollection of the dialogue of the Bhagavat and Arjuna, the Reality could be reached and due to that come fortunes, voctories and prosperity.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.78॥ अतो राजंस्त्वमेवं सर्वमालोच्य निस्संशयो भव; किंबहुना यत्रेति।
 यत्र योगेश्वरः कृष्णः; यत्र पार्थो धनुर्धरः; तत्र श्रीः राज्यलक्ष्मीः;
@@ -329,10 +338,13 @@ nitih, prudence. Such is me, my ; matih, conviction.
 जलधरश्यामो बभौ राजीवलोचनः। श्यामाऽपि यस्य वामांसे विद्युल्लेखेव
 राजते॥10॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.78॥ अतस्त्वं पुत्राणां राज्यादिशङ्कां परित्यजेत्याशयेनाह **--
 यत्रेति।** यत्र येषां पाण्डवानां पक्षे योगेश्वरः श्रीकृष्णो वर्तते; यत्र
@@ -370,10 +382,13 @@ nitih, prudence. Such is me, my ; matih, conviction.
 जनः सत्कर्णधारं विना॥3॥  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.78 Wherever there is Sri Krsna, the Lord of Yoga, and Arjuna the archer, there are ever fortune, victory, wealth and sound morality. This is my firm conviction.
@@ -407,11 +422,13 @@ prosperity; विजयः victory; भूतिः happiness; ध्रुव�
 मतिः conviction; मम my.Commentary This verse is called the Ekasloki Gita; i.e.; Bhagavad Gita in one verse. Repetition of even this one verse bestows the benefits of reading the whole of the scripture.Wherever On that side on which.Yogesvarah The Lord of Yoga.
 Krishna is called the Lord of Yogas as the seed of all Yogas comes forth from Him.Dhanurdharah The wielder of the bow called the Gandiva. There On the side of the Pandavas.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the eighteenth discourse entitledThe Yoga of Liberation by Renunciation.OM SHANTIH SHANTIH SHANTIH ,,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.78।। जहाँ योगेश्वर भगवान् श्रीकृष्ण हैं और जहाँ गाण्डीवधनुषधारी
@@ -573,6 +590,7 @@ Krishna is called the Lord of Yogas as the seed of all Yogas comes forth from Hi
 
 ।।18.78।। जहाँ योगेश्वर श्रीकृष्ण हैं और जहाँ धनुर्धारी अर्जुन है वहीं
 पर श्री, विजय, विभूति और ध्रुव नीति है, ऐसा मेरा मत है।।
+</details>
 </details>
 
 </div>

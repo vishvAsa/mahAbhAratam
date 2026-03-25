@@ -23,8 +23,9 @@ title = "13 पञ्चैतानि महाबाहो"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.13॥ सङ्ख्या बुद्धिः;  
@@ -62,12 +63,14 @@ title = "13 पञ्चैतानि महाबाहो"
 
 18.13 'Sankhya' means Buddhi (reasoning). 'Sankhya-krtanta' means that which is determined after due deliberations by the Buddhi in accordance with the Vedas on the nature of the things as they are. Learn them from Me. There are five causes for the accomplishment of all actions. But the understanding according to the Vedas (Vaidiki-buddhi) is that the Supreme Self alone is the agent working through body, senses, Pranas and the individual self, as asserted in the following Srutis: 'He who, dwelling in the self, who rules the self from within your self, the Inner Ruler, immortal' (Br. U. Madh., 3.7.22), and 'He who has penetrated the interior, is the Ruler of all creatures and the Self of all' (Tai. A., 3.11.3). Sri Krsna nows sets forth the five causes:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.13॥ -- **पञ्च एतानि** वक्ष्यमाणानि हे **महाबाहो; कारणानि** निर्वर्तकानि **निबोध मे** मम इति। उत्तरत्र चेतःसमाधानार्थम्; वस्तुवैषम्यप्रदर्शनार्थं च। तानि च कारणानि ज्ञातव्यतया स्तौति -- **साङ्ख्ये** ज्ञातव्याः पदार्थाः संख्यायन्ते यस्मिन् शास्त्रे तत् साङ्ख्यं वेदान्तः। **कृतान्ते** इति तस्यैव विशेषणम्। कृतम् इति कर्म उच्यते; तस्य अन्तः परिसमाप्तिः यत्र सः कृतान्तः; कर्मान्तः इत्येतत्। यावानर्थ उदपाने (गीता 2।46) सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते (गीता 4।33) इति आत्मज्ञाने सञ्जाते सर्वकर्मणां निवृत्तिं दर्शयति। अतः तस्मिन् आत्मज्ञानार्थे साङ्ख्ये कृतान्ते वेदान्ते **प्रोक्तानि** कथितानि **सिद्धये** निष्पत्त्यर्थं **सर्वकर्मणाम्**॥ कानि तानीति; उच्यते --,
 </details>
@@ -218,12 +221,14 @@ they; This is being answered:
 प्रतिपादितंसर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते इति।
 तस्माज्ज्ञानशास्त्रस्य कर्मान्तत्वमुपपन्नम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.13॥ पुनः सन्न्यासं प्रपञ्चयितुं कर्मकारणान्याह -- पञ्चेत्यादिना।
 साङ्क्ष्ये कृतान्ते ज्ञानसिद्धान्ते।
@@ -242,12 +247,14 @@ they; This is being answered:
 ज्ञानार्थः सिद्धान्तो ज्ञानसिद्धान्तः सिद्धान्त इति शास्त्रं लक्ष्यते;
 कापिलतन्त्रस्य निन्दितत्वात् उपनिषत्स्वपि कर्मत्यागाप्रतिपादनात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.13 -- 18.17॥ अधुना व्यवहारदशायामपि पञ्चस्वपि कर्महेतुषु स्थितेषु बलादेवामी ( बलादमी ) अविद्यान्धाः पुमांसः स्वात्मन्येव सकलकर्तृभावभारमारोपयन्ति ( आरोपयन्त्येते )। अतो निजयैव धिया आत्मानं बध्नन्ति; न तु वस्तुस्थित्या अस्य बन्धः इत्युपदिश्यते -- पञ्चेत्यादि न निबद्ध्यते इत्यन्तम्। कृतः अन्तः; निश्चयः यत्रेति कृतान्तः; सिद्धान्तः। अधिष्ठानं; विषयः। दैवम्; प्रागर्जितं शुभाशुभम्। पञ्चैते अधिष्ठानादयः सामग्रीरूपतां प्राप्ताः सर्वकर्मसु हेतवः। अन्ये तु; अधिष्ठीयते अनेन सर्वं कर्म इति बुद्धिगतं रजोलब्धवृत्तिकं धृतिश्रद्धासुखविविदिषाविविदिषारूपपञ्चकपरिणामिकर्मयोगशब्दवाच्यमधिष्ठानं क्वचित् प्रयत्नशब्देन उक्तम्। कर्ता; अनुसन्धाता बुद्धिलक्षणः। करणं मनश्चक्षुरादि; बाह्यमपि च खड्गादि। चेष्टा प्राणापानादिका। दैवशब्देन धर्माधर्मौ ताभ्यां च बुद्धिगताः सर्वेऽपि भावा उपलक्षिताः \[ इति \]। अन्ये तु अधिष्ठानम् ईश्वरं मन्यन्ते। अकृतबुद्धित्वात्; अनिश्चितप्रज्ञतया। यः पुनरहंकारवियोगदार्ढ्येन प्रागुक्तयुक्तिशतशोधितेन कर्माणि करोति न स बन्धभाक् +++(; N न संबन्धभाक् )+++; कृतबुद्धित्वात् इत्याशयः।
 </details>
@@ -256,12 +263,14 @@ they; This is being answered:
 
 18.13 See Comment under 18.17
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.13॥ इदानीं भगवत्कर्तृत्वानुसन्धानपूर्वकम्।
 स्वकर्तृत्वानुसन्धानपरिहार उदीर्यते॥1॥ कर्तृत्वं स्वस्य मनुते सत्सु
@@ -300,10 +309,13 @@ they; This is being answered:
 
 एतान्य् अग्रे प्रोच्यमानानि **पञ्च कारणानि मे** मत्तो **निबोध** जानीहि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.13॥ ननु कर्म कुर्वतः कर्मफलं कथं न भवेदित्याशङ्क्य सङ्गत्यागिनो
 निरहंकारस्य सतः कर्मफलेन लेपो नास्तीत्युपपादयितुमाह **-- पञ्चैतानीति
@@ -316,10 +328,13 @@ they; This is being answered:
 तत्त्वानि यस्मिन्निति साङ्ख्यं; कृतः अन्तो निर्णयो यस्मिन्निति कृतान्तं
 साङ्ख्यशास्त्रमेव तस्मिन्प्रोक्तानि अतः सम्यङ्निबोधेत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.13 Learn from Me, O Arjuna, these five causes for the accomplishment of all acts, as described in Sankhya-krtanta - the science of the exact understanding of things for the accomplishment of works.
@@ -354,11 +369,13 @@ according to the final decision of philosophy, must concur before an action can 
 verse 46 To the Brahman who has known the Self al the Vedas are of so much use as is a reservoir of water in a place where there is a flood everywhere. Again; in verse 33 of chapter IV; it is said All actions in their entirety; O Arjuna; culminate in knowledge. Vedanta; therefore;
 which imparts knowledge of the Self; is the end of action. A liberated sage who has attained the knowledge of the Self in accordance with the instructions laid down in the Vedanta becomes a Kritakritya (one who has done everything and has nothing more to do).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/13_panchaitAni_mahAb.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.13।। हे महाबाहो ! कर्मोंका अन्त करनेवाले साङ्ख्यसिद्धान्तमें सम्पूर्ण
@@ -445,6 +462,7 @@ which imparts knowledge of the Self; is the end of action. A liberated sage who 
 
 ।।18.13।। हे महाबाहो ! समस्त कर्मों की सिद्धि के लिए ये पांच कारण साङ्ख्य
 सिद्धांत में कहे गये हैं, जिनको तुम मुझसे भलीभांति जानो।।
+</details>
 </details>
 
 </div>

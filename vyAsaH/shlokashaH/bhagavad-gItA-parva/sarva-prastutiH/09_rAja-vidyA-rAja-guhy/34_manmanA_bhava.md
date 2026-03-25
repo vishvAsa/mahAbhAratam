@@ -23,8 +23,9 @@ title = "34 मन्मना भव"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 भक्तिस्वरूपम् आह --
@@ -53,12 +54,14 @@ title = "34 मन्मना भव"
 
 9.34 Focus your mind on Me; fix your mind on Me uninterruptedly like a continous stream of oil - on Me the Ruler of rulers, antagonistic to all that is evil, the sole abode of auspiciousness, omniscient, whose resolve is always true, the sole cause of the entire universe, the Supreme Brahman, the Supreme Person; on Me, of long large eyes like a lotus petal; who has the complexion of a clear blue cloud; whose shining lustre is like that of a thousand suns simultaneously risen; on Me, the great ocean of the nectar of beauty; of four arms, noble and strong, and of brilliant yellow raiment; on Me, adorned with a pure crown, fish-shaped ear-rings, garlands, bracelet on the arms and bangles at the wrist; on Me, the ocean of infinite mercy, affability, beauty, sweetness, majesty, magnanimity and parental affection; on Me, the refuge of all without exception and without regard to their differences; on Me the Lord of all. Sri Krsna again makes the same clear. Be My devotee. Be one whose mind is focussed on Me by contemplating on Me as exceedingly dear. Such is the meaning. He makes thie yet clearer. Be My worshipper, namely, become engaged in My worship, which you have begun to practise by your experience of Me as supremely dear and unlimited and unsurpassed. What is called worship is the conduct of one who realises that he is absolutely a subsidiary - (Sesa) of God. Worship consists also in offering all things of enjoyment such as waving of lights etc., all those things which come into bodily contact like garlands, sandal paste etc., and those meant for offering like food preparations and other edibles. The meaning is this: Let your mind be focussed on Me so as to be engaged in My worship, resulting from love which is unlimited and unsurpassed and which is born from the experience of Myself. Again Sri Krsna expounds the same: Bow down to Me. Do not be satisfied only with services of one who is absolutely subsidiary to me. Do services which are incomparably dear and animated by an experience of Myself who is dear and unlimited and unsurpassed. Also bow down to Me in utter humility, regarding Me as the supreme goal, i.e., He who is the supreme abode and the supreme goal. The meaning is that having resorted to Me, it is impossible for you to live without Me. Having disciplined the mind in this way and considering Me as the supreme goal, you will thus, through love which is unsurpassed and incomparable, obtain a mind which is fit for experiencing Me. You will then reach Me alone. Here the term Atman stands for the mind. The import is that, holding Me as the sole support, possesing a mind of this kind, meditating on Me, experiencing Me, worshipping Me and bowing down to Me - you will reach Me alone. Thus, with such a turn of mind you carry on, for pleasing Me alone, your secular works for bodily sustenance and Vedic activities like obligatory and occasional rites, regarding them as actuated by Me and finding sole joy in absolute subservience to Me. You shall ever engage yourself in praising My names with love and in endeavouring to serve Me and bowing down to Me etc. You shall contemplate on the entire universe as being under My rule and being subsidiary (Sesa) to Me. Contemplating on the multitudes of My attributes, which are exceedingly dear to you, and practising every day this worship as described, you will reach Me alone.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥9.34॥ --,मयि वासुदेवे मनः यस्य स त्वं **मन्मनाः भव** तथा **मद्भक्तः** भव **मद्याजी** मद्यजनशीलः भव।  
 **माम्** एव च **नमस्कुरु।**  
@@ -150,12 +153,14 @@ mam (Me). This is the purport.
 वेदान्तैरवधारयन्ति परमं श्रेयस्त्यजन्ति भ्रमं द्वैतं स्वप्नसमं विदन्ति
 विमलां विन्दन्ति चानन्दताम्॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.34॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -164,12 +169,14 @@ mam (Me). This is the purport.
 
 ॥9.34॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.32 -- 9.34॥ मां हि इत्यादि मत्परायण इत्यन्तम्। पापयोनयः पशुपक्षिसरीसृपादयः। स्त्रिय इति अज्ञाः। वैश्या इति कृष्यादिकर्मान्तररताः। शूद्रा इति कार्त्स्येन वैदिकक्रियानधिकृताः परतन्त्रवृत्तयश्च। तेऽपि मदाश्रिता मामेव यजन्ते। गजेन्द्रमोक्षणादीनि चरितानि हि परमकारुणिकस्य भगवतः सहस्रशः श्रूयन्ते। किमङ्ग पुनरेतद्विपरीतवृत्तयः। केचिदाक्षते -- द्विजराजन्यप्रशंसापरमेतद्वाक्यम्; न तु स्त्र्यादिषु अपवर्गप्राप्तितात्पर्येण इति। ते हि भगवतः सर्वानुग्राहिकां शक्तिं मितविषयतया खण्डयन्तः तथा परमेश्वरस्य परमकृपालुत्वमसहमानाः +++(S omits तथा -- मसहमानाः)+++ न मे द्वेष्योऽस्ति न प्रियः ; अपि चेत्सुदुराचारः इत्यादीन्यन्यानि चैवंप्रकारस्फुटार्थप्रतिपादकानि वाक्यानि विरोधयन्तः निरतिशययुक्तिप्रपञ्चसाधिताद्वैतभगवत्तत्त्वे +++(S;;N भगवत्तत्त्वम्)+++ भेदलिङ्गं +++(S; भेदभङ्गम् N भेदभङ्ग -- )+++ बलादेवानयन्तः अन्यांश्च आगमविरोधानचेतयमानाः कथमिदं कथमिदम् इति पर्यनुयोज्यमाना +++(;N पर्यनुयुज्यमानः)+++ यदि; परम् अन्तर्गर्भीकृतजात्यादिमहाग्रहाविष्टान्तः +++(; N
 -- ग्रहगृहीताविष्टान्तः -- )+++ करणाः
@@ -180,12 +187,14 @@ mam (Me). This is the purport.
 
 See Comment under 9.32
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥9.34॥ इदं मुख्यं भजनस्वरूपमाह -- मन्मना इति। मय्येव श्रीपुरुषोत्तमे
 नीलव्योममूर्त्तिमति सर्वज्ञे सर्वशक्तिमति परमानन्दमात्रकरपादमुखोदरादिके
@@ -222,20 +231,26 @@ See Comment under 9.32
 एवकारेणाक्षरांशादिप्राप्तिर्निवारिता। एवं स्वभक्तिमाहात्म्यं भजनार्थं
 ससाधनम्। प्रोवाच नवमेऽध्याये श्रीकृष्णो ह्यर्जुनाय तु॥9॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥9.34॥ भजनप्रकारं दर्शयन्नुपसंहरति **-- मन्मना इति।** मय्येव मनो यस्य
 स मन्मनास्त्वं भव। तथैव ममैव भक्तः मत्सेवको भव। मद्याजी मद्यजनशीलो भव।
 मामेव च नमस्कुरु। एवमेभिः प्रकारैर्मत्परायणः सन्नात्मानं मनो मयि
 युक्त्वा समाधाय मामेव परमानन्दरूपमेष्यसि प्राप्स्यसि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 9.34 Focus your mind on Me, be My devotee, be my worshipper. Bow down to Me. Engaging your mind in this manner and regarding Me as the supreme goal, you will come to Me.
@@ -271,11 +286,13 @@ surrender to Me, make Me the object of thy aspirations, and thou shalt assuredly
 आत्मानम् the self; मत्परायणः taking Me as the Supreme Goal.Commentary Fill thy mind with Me. Fix your head; heart and hands on Me. Get your heart in tune with Me. Become a true worshipper. You will secure eternal bliss. Having known Me; you will cross beyond death.The whole being of man should be surrendered to the Lord without reservation. Then the whole life will undergo a wonderful transformation. You will have the vision of God everywhere. All sorrows and pains will vanish. Your mind will be one with the divine consciousness.Just as the potether becomes one with the universal ether when the limiting adjunct (pot) is broken;
 just as the Ganga and the Yamuna; leaving their names and forms become one with the ocean; so also the sage gets rid of Avidya and all sorts of limiting adjuncts through the direct realisation of the Self and becomes identical with Para Brahman.Yukta means steadied in thought; having thus fixed the mind on the Lord; knowing that I am the Self of all beings and the highest goal. (Cf.V.17VII.7;14XVIII.65)(This chapter is known by the name Adhyatma Yoga also.)Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the ninth discourse entitledThe Yoga of the Kingly Science and the Kingly Secret.,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।9.34।। तू मेरा भक्त हो जा, मेरेमें मनवाला हो जा, मेरा पूजन करनेवाला हो
@@ -531,6 +548,7 @@ just as the Ganga and the Yamuna; leaving their names and forms become one with 
 वाले बनो; मुझे नमस्कार करो; इस प्रकार मत्परायण (अर्थात् मैं ही जिसका परम
 लक्ष्य हूँ ऐसे) होकर आत्मा को मुझसे युक्त करके तुम मुझे ही प्राप्त
 होओगे।।
+</details>
 </details>
 
 </div>

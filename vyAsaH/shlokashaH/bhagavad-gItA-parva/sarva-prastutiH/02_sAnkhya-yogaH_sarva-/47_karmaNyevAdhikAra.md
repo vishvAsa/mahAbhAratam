@@ -24,8 +24,9 @@ title = "47 कर्मण्येवाधिकारस्ते मा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 अतः सत्त्वस्थस्य मुमुक्षोर् एतावद् एव उपादेयम् इत्य् आह -
@@ -70,12 +71,14 @@ title = "47 कर्मण्येवाधिकारस्ते मा"
 
 Likewise, it is necessary to contemplate yourself as not being the cause of even appeasing hunger and such other bodily necessities. Later on it will be said that both of these, agency of action and desire for fruits, should be considered as belonging to Gunas, or in the alternative to Me who am the Lord of all. Thinking thus, do work. With regard to inaction, i.e., abstaining from performance of duties, as when you said, 'I will not fight,' let there be no attachment to such inaction in you. The meaning is let your interest be only in the discharge of such obligatory duties like this war in the manner described above.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.47॥  
 
@@ -177,12 +180,14 @@ pain;'
 सङ्गोऽस्त्वकर्मणि। यदि फलं नेष्यते किं कर्मणा दुःखरूपेणेत्यकरणे तव
 प्रीतिर्माभूत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.47॥ कामात्मनां निन्दा कृता। कथं एषां स्वर्गकामो यजेत
 आप.श्रौ.10।1।2।1 इत्यादौ कामस्यापि विहितत्वात् इत्यत आह कर्मण्येवेति। त
@@ -336,12 +341,14 @@ pain;'
 विचारस्योपलक्षकः सत्यम् तथापि तत्पूर्वको विचारो लक्ष्यते अन्यथा
 सम्बन्धाभावात् लोकसिद्धन्यायात् लोकसिद्धव्याप्तिकानुमानात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.48॥ अतश्च  
 कर्मणीति। कर्ममात्रे त्वं व्यापृतो भव न तु कर्मफलेषु। ननु कर्मणि कृते ( omits कृते N substitutes जाते) नान्तरीयकतयैव फलमापततीति मैवम्। तत्र हि यदि त्वं फलकामनाकालुष्यव्याप्तो भवसि तदा कर्मणां फलं प्रति हेतुत्वम्। यत् अप्रार्थ्यमानं फलं तत् +++(S N omit तत्)+++ ज्ञानं नानिच्छोस्तत् इति। कर्माभावेन यः संगः स एव गाढग्रहरूपो मिथ्याज्ञानस्वरूपः इति त्याज्य एव ( N इत्यत्याज्य एव)।
@@ -351,12 +358,14 @@ pain;'
 
 2.47 Karmani etc. You should be concerned in the action alone, but not in the fruits of actions. But, if an action has been performed, then will not its fruit just inevitably befall \[to the performer\] ; No. It is not so. For, in that case, if you are covered with the dirt of desire for fruits, then you become a cuase for the fruit of action. What is prayed for is known to be the fruit; and it does not befall him who does not desire it. Thus, what attachment a person entertains with regard to the negation of action, that alone is like a firm seizure, and is of the nature of false conception, and hence it must be abandoned. Then what ;-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.47॥ एवं सति मम वेदोदन्वति किमुपादेयमित्याकाङ्क्षायामाह
 कर्मण्येवाधिकारस्ते इति। कर्मैवोपादेयं तत्रैव तत्राधिकार इति। परन्तु
@@ -377,10 +386,13 @@ pain;'
 भविष्यसीत्यर्थः। मदाज्ञयेति भावः। किञ्च ते अकर्मणि सकामकर्त्तरि सङ्गः
 सम्बन्धो मास्तु। एवं वरमेव ददामीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.47॥ तर्हि सर्वकर्मफलानि परमेश्वराराधनादेव भविष्यन्तीत्यभिसंधाय
 प्रवर्तेत किं कर्मणेत्याशङ्क्य तद्वारयन्नाह **कर्मण्येवेति।** ते तव
@@ -391,10 +403,13 @@ pain;'
 भावः। अतएव फलं बन्धकं भविष्यतीति भयादकर्मणि कर्माकरणेऽपि तव सङ्गो निष्ठा
 मास्तु।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.47 To work alone you have the right, and not to the fruits. Do not be impelled by the fruits of work. Nor have attachment to inaction.
@@ -426,11 +441,13 @@ pain;'
 let (there) be; अकर्मणि in inaction.Commentary When you perform actions have no desire for the fruits thereof under any circumstances. If you thirst for the fruits of your actions; you will have to take birth again and again to enjoy them. Action done with expectation of fruits
 (rewards) brings bondage. If you do not thirst for them; you get purification of heart and you will get knowledge of the Self through purity of heart and through the knowledge of the Self you will be freed from the round of births and deaths.Neither let thy attachment be towards inaction thinking what is the use of doing actions when I cannot get any reward for themIn a broad sense Karma means action. It also means duty which one has to perform according to his caste or station of life. According to the followers of the Karma Kanda of the Vedas (the Mimamsakas) Karma means the rituals and sacrifices prescribed in the Vedas. It has a deep meaning also. It signifies the destiny or the storehouse of tendencies of a man which give rise to his future birth.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.47।। कर्तव्य-कर्म करनेमें ही तेरा अधिकार है, फलोंमें कभी नहीं। अतः
@@ -556,6 +573,7 @@ let (there) be; अकर्मणि in inaction.Commentary When you perform ac
 
 ।।2.47।। कर्म करने मात्र में तुम्हारा अधिकार है; फल में कभी नहीं। तुम
 कर्मफल के हेतु वाले मत होना और अकर्म में भी तुम्हारी आसक्ति न हो।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "08 नैव किञ्चित्करोमीति"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.8॥ एवम् आत्म**तत्त्ववित्** श्रोत्रादीनि ज्ञानेन्द्रियाणि वागादीनि कर्मेन्द्रियाणि प्राणाश् च स्वस्य विषयेषु **वर्तन्ते इति धारयन्** अनुसन्दधानो न अहं **किञ्चित् करोमि इति मन्येत।** ज्ञानैकस्वभावस्य मम कर्ममूलेन्द्रियप्राणसम्बन्धकृतम् ईदृशं कर्तृत्वं न स्वरूपप्रयुक्तम् इति मन्येत इत्यर्थः।
@@ -41,12 +42,14 @@ title = "08 नैव किञ्चित्करोमीति"
 
 5.8 - 5.9 Thus he who knows the truth concerning the self should reflect in mind that the ear and the other organs of sensation (Jnanendriyas) as also organs of action (Karmendriyas) and the vital currents (the Pranas) are occupied with their own respective objects. Thus he should know, 'I do not do anything at all.' He should reflect, 'My intrinsic nature is one of knowledge. The sense of agency comes because of the association of the self with the senses and the Pranas which are rooted in Karma. It does not spring from my essential nature.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.8 5.9॥ **नैव किञ्चित् करोमीति युक्तः** समाहितः सन् **मन्येत** चिन्तयेत् **तत्त्ववित्** आत्मनो याथात्म्यं तत्त्वं वेत्तीति तत्त्ववित् परमार्थदर्शीत्यर्थः॥ कदा कथं वा तत्त्वमवधारयन् मन्येत इति उच्यते पश्यन्निति। मन्येत इति पूर्वेण संबन्धः। यस्य एवं तत्त्वविदः सर्वकार्यकरणचेष्टासु कर्मसु अकर्मैव पश्यतः सम्यग्दर्शिनः तस्य सर्वकर्मसंन्यासे एव अधिकारः कर्मणः अभावदर्शनात्। न हि मृगतृष्णिकायाम् उदकबुद्ध्या पानाय प्रवृत्तः उदकाभावज्ञानेऽपि तत्रैव पानप्रयोजनाय प्रवर्तते॥  
   
@@ -137,12 +140,14 @@ even after knowing that no water exists there!
 पश्चादन्तःकरणशुद्धिद्वारेण तत्त्वविद्भूत्वा नैव किंचित्करोमीति मन्यत इति
 संबन्धः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.8 5.9॥ सन्न्यासं स्पष्टयति पुनः श्लोकद्वयेन।
 </details>
@@ -153,12 +158,14 @@ even after knowing that no water exists there!
 इत्यादिनाविशुद्धात्मा इत्यादिना च स्पष्टीकृतत्वात् **पुनरि**ति। स्पष्टं
 च प्रागनुक्तसङ्कल्पत्यागस्याभिधानात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.7 5.11॥ योगयुक्त इत्यादि आत्मसिद्धये इत्यन्तम्। सर्वभूतानामात्मभूतः आत्मा यस्य स सर्वमपि कुर्वाणो न लिप्यते अकरणप्रतिषेधारूढत्वात्। अत एव दर्शनादीनि कुर्वन्नपि असौ एवं धारयति प्रतिपत्तिदार्ढ्येन निश्चिनुते चक्षुरादीनामिन्द्रियाणां यदि स्वविषयेषु प्रवृत्तिः मम किमायातम् न हि अन्यस्य कृतेनापरस्य +++(S अन्यस्य कृतेनान्यस्य अन्यकृतेन परस्य)+++ लेपः इति। तदेव ब्रह्मणि कर्मणां समर्पणम्। अत्र चिह्नम् अस्य गतसङ्गता। अतो न लिप्यते। योगिनश्च केवलैः सङ्गरहितैः परस्परानपेक्षिभिश्च कायादिभिः कुर्वन्ति कर्माणि सङ्गाभावात्।
 </details>
@@ -167,12 +174,14 @@ even after knowing that no water exists there!
 
 5.8 See Comment under 5.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.8 5.9॥ कुर्वन्नपि न लिप्यते इत्येतद्विरुद्धमित्याशङ्क्य
 सर्वेन्द्रियव्यापारसत्वेऽपि कर्तृत्त्वाद्यभिमानाभावेन
@@ -201,10 +210,13 @@ even after knowing that no water exists there!
 नेत्रनिमीलनं कुर्वन् इन्द्रियाणि इन्द्रियार्थेषु भगवदवयवेषु वर्तन्त इति
 धारयन्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.8 5.9॥ कर्म कुर्वन्नपि न लिप्यत इत्येतद्विरुद्धमित्याशङ्क्य
 कर्तृत्वाभिमानाभावान्न विरुद्धमित्याह **नैवेति** द्वाभ्याम्। कर्मयोगेन
@@ -217,10 +229,13 @@ even after knowing that no water exists there!
 कुर्वन्नप्यनभिमानाद्ब्रह्मविन्न लिप्यते। तथाच पारमर्षं सूत्रं तदधिगम
 उत्तरपूर्वाघयोरश्लेषविनाशौ तद्व्यपदेशात इति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.8 The knower of the truth, who is devoted to Yoga should think, 'I do not at all do anything' even though he is seeing, hearing, touching,
@@ -258,11 +273,13 @@ centred (in the Self); मन्येत should think; तत्त्ववि
 smelling; अश्नन् eating; गच्छन् going; स्वपन् sleeping; श्वसन्
 breathing.No Commentary.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.8 -- 5.9।। तत्त्वको जाननेवाला साङ्ख्ययोगी देखता, सुनता, छूता, सूँघता,
@@ -359,6 +376,7 @@ breathing.No Commentary.
 ।।5.8।। तत्त्ववित् युक्त पुरुष यह सोचेगा (अर्थात् जानता है) कि "मैं
 किंचित् मात्र कर्म नहीं करता हूँ" देखता हुआ, सुनता हुआ, स्पर्श करता
 हुआ, सूंघता हुआ, खाता हुआ, चलता हुआ, सोता हुआ, श्वास लेता हुआ,।।
+</details>
 </details>
 
 </div>

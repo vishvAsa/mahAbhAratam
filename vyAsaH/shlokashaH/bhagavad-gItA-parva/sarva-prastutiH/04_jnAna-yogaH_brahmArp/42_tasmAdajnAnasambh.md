@@ -23,8 +23,9 @@ title = "42 तस्मादज्ञानसम्भूतं"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.42॥**तस्माद्** अनाद्य**ज्ञानसम्भूतं हृत्स्थम्** आत्मविषयं **संशयं** मया उपदिष्टेन आत्म**ज्ञानासिना छित्त्वा** मया उपदिष्टं कर्म**योगम् आतिष्ठ** तदर्थम् **उत्तिष्ठ भारत** इति।
@@ -39,12 +40,14 @@ title = "42 तस्मादज्ञानसम्भूतं"
 
 4.42 Therefore, after sundering this doubt concerning the self, born of beginningless ignorance and present in the heart, by the sword of the knowledge of the self in the manner explained before, practise the Karma Yoga taught by Me. For that, rise up, O Arjuna.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.42) **तस्मात्** पापिष्ठम् **अज्ञानसंभूतम्** अज्ञानात् अविवेकात् जातं **हृत्स्थं** हृदि बुद्धौ स्थितं **ज्ञानासिना** शोकमोहादिदोषहरं सम्यग्दर्शनं ज्ञानं तदेव असिः खङ्गः तेन ज्ञानासिना **आत्मनः** स्वस्य आत्मविषयत्वात् संशयस्य। न हि परस्य संशयः परेण च्छेत्तव्यतां प्राप्तः येन स्वस्येति विशेष्येत। अतः आत्मविषयोऽपि स्वस्यैव भवति। **छित्त्वा एनं संशयं** स्वविनाशहेतुभूतम् **योगं** सम्यग्दर्शनोपायं कर्मानुष्ठानम् **आतिष्ठ** कुर्वित्यर्थः। **उत्तिष्ठ** च इदानीं युद्धाय **भारत** इति॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रोगोविन्दभगवत्पूज्यपादशिष्यस्यश्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -154,12 +157,14 @@ with regard to the Self, it is really one's own.
 निष्फल इति भावः। स्वस्यानीशत्वाबाधेन भक्तिश्रद्धे दृढीकृते। धीहेतुः
 कर्मनिष्ठा च हरिणेहोपसंहृता।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.42॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -168,12 +173,14 @@ with regard to the Self, it is really one's own.
 
 ॥4.42॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.42॥ यत एवम् +++(S omits यत एवम्)+++ तस्मादिति। संशयं छित्त्वा योगं कर्मसु कौशलम् उक्तक्रमेण आतिष्ठ। ततश्च उत्तिष्ठ त्वं स्वव्यापारं कर्तव्यतामात्रेण कुर्विति।
 </details>
@@ -182,12 +189,14 @@ with regard to the Self, it is really one's own.
 
 4.42 Tasmat etc. Cutting asunder the doubt, you must practise, by the said method, the Yoga, the dexterity in action; and then stand up i.e., perform your activities simply with the idea that they are to be performed.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.42॥ तस्मात्त्वमपि साङख्यबुद्ध्याऽनात्मभूतं संशयं छित्त्वोक्तं
 योगमातिष्ठ युद्धाय च स्वकर्मणे उद्युक्तो भव तदापि निर्बन्धनतेति भावः।
@@ -202,10 +211,13 @@ with regard to the Self, it is really one's own.
 मद्वचनेष्वविश्वासात्मकं संशयं ज्ञानासिना ज्ञानात्मकखङ्गेन छित्त्वा योगं
 मदात्मकं मत्प्राप्त्यर्थं आतिष्ठ कुरु उत्तिष्ठ सावधानो भव।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.42॥**तस्मादिति।** यस्मादेवं तस्मादात्मनोऽज्ञानेन संभूतं हृदि
 स्थितमेनं संशयं शोकादिनिमित्तं देहात्मविवेकज्ञानखङ्गेन छित्त्वा
@@ -214,10 +226,13 @@ with regard to the Self, it is really one's own.
 दर्शितम्।  
   
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.42 Therefore, sunder, with the sword of knowledge, this doubt present in your heart resulting from ignorance concerning the self. Practise this Yoga, O Arjuna, and rise up.
@@ -251,11 +266,13 @@ residing in the heart; ज्ञानासिना by the sword of knowledge;
 आत्तिष्ठ take refuge; उत्तिष्ठ arise; भारत O Bharata.Commentary Doubt causes a great deal of mental torment. It is most sinful. It is born of ignorance. Kill it ruthlessly with the knowledge of the Self. Now stand up and fight; O Arjuna.(This chapter is known by the names Jnana Yoga;
 Abhyasa Yoga and jnanakarmasannyasa Yoga also.)Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the fourth discourse entitledThe Yoga of the Division of Wisdom. ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.42।। इसलिये हे भरतवंशी अर्जुन ! हृदयमें स्थित इस अज्ञानसे उत्पन्न
@@ -346,6 +363,7 @@ Abhyasa Yoga and jnanakarmasannyasa Yoga also.)Thus in the Upanishads of the glo
 
 ।।4.42।। इसलिये अपने हृदय में स्थित अज्ञान से उत्पन्न आत्मविषयक संशय को
 ज्ञान खड्ग से काटकर, हे भारत ! योग का आश्रय लेकर खड़े हो जाओ।।
+</details>
 </details>
 
 </div>

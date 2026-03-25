@@ -23,8 +23,9 @@ title = "02 अहिंसा"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 16.01 इति वीक्षताम्।
@@ -39,12 +40,14 @@ title = "02 अहिंसा"
 
 16.2 'Non-injury' is abstaining from injury to others. 'Truth' is communication by words of what one knows for certain and what is conducive to the good of others. 'Freedom from anger' is the absence in oneself of the mental state, which, if permitted, leads to injury to others. 'Renunciation' is the abandonment of everything that is contrary to the good of the self. 'Tranillity' is practice of controlling the senses from their propensity towards sense-objects. 'Not-slandering others' means refraining oneself from speech that may cause evil to others. 'Compassion to all beings' means one's incapacity to stand the suffering of others. 'Aloluptvam' means freedom from desire for sense-objects. 'Gentleness' means absence of harshness, and being worthy of associating with the good. 'Sense of shame' is shrinking from doing what should not be done. 'Acapalam' means being unattracted by objects enjoyable by the senses even when they are at hand.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.2॥ --,**अहिंसा** अहिंसनं प्राणिनां पीडावर्जनम्। **सत्यम्** अप्रियानृतवर्जितं यथाभूतार्थवचनम्। **अक्रोधः** परैः आक्रुष्टस्य अभिहतस्य वा प्राप्तस्य क्रोधस्य उपशमनम्। **त्यागः** संन्यासः; पूर्वं दानस्य उक्तत्वात्। **शान्तिः** अन्तःकरणस्य उपशमः। **अपैशुनं** अपिशुनता परस्मै पररन्ध्रप्रकटीकरणं पैशुनम्; तदभावः अपैशुनम्। **दया** कृपा **भूतेषु** दुःखितेषु। **अलोलुप्त्वम्** इन्द्रियाणां विषयसंनिधौ अविक्रिया। **मार्दवं** मृदुता अक्रौर्यम्। **ह्रीः** लज्जा। **अचापलम्** असति प्रयोजने वाक्पाणिपादादीनाम् अव्यापारयितृत्वम्॥ किं च --,
 </details>
@@ -122,12 +125,14 @@ use of organs such as speech, hands and feet-. Besides,
 अचापलं,प्रयोजनंविनापि वाक्पाण्यादिव्यापारयितृत्वं चापलं तदभावः।
 आर्जवादयोऽचापलान्ता ब्राह्मणस्यासाधारणा धर्माः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.2॥ पैशुनं परोपद्रवनिमित्तदोषाणां राजादेः कथनम्। परोपद्रवहेतूनां
 दोषाणां पेशुनं वचः। राजादेस्तु मदाद्भीतेरदृष्टिर्दर्प उच्यते
@@ -147,12 +152,14 @@ use of organs such as speech, hands and feet-. Besides,
 अलोलुप्त्वाचापलत्वयोर्भेदं क्रमेण सप्रमाणकं दर्शयति -- **लौल्यमि**ति।
 लोलुप्त्वपर्यायोऽयमिति अतएवमुक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.1 -- 16.5॥ एतद्बुद्ध्वा इत्युक्तम्। बोधश्च नाम श्रुतिमयज्ञानान्तरम् +++(S श्रुत -- )+++ इदमित्थम् इत्येवंभूतयुक्तिचिन्ताभावनामयज्ञानोदेयेन +++(S;;N चिन्तामयज्ञानोदयेन)+++ विचारविमर्शपरमर्शादिरूपेण विजातीयन्यक्कारविरहिततद्भावनामयस्वभ्यस्ताकारविज्ञानलाभे सति भवति। यद्वक्ष्यते +++(S तद्वक्ष्यते N तद्वक्ष्यति)+++ -- विमृश्यैतदशेषेण यथेच्छसी तथा कुरु +++(XVIII; 63)+++ इति। तत्र श्रुतिमये ज्ञाने गुरुशास्त्रे एव प्राधान्येन प्रभवतः युक्तिचिन्ताभावनामये तु विमर्शक्षमता असाधारणा शिष्यगुणसंपत् ( -- रणशिष्य -- ) प्रधानभूता। अतः अर्जुनस्यास्त्येवासौ इत्यभिप्रायेण वक्ष्यमाणं विमृश्यैतत् इति वाक्यं सविषयं कर्तुं परिकरबन्धयोजनाभिप्रायेण आह भगवान् गुरुः अभयम् इत्यादि। आसुरभागसन्नविष्टा तामसी किल अविद्या। सा प्रवृद्धया दिव्यांशग्राहित्या विद्यया बाध्यते ( प्रवृद्धाया -- विद्याया बध्यते) इति वस्तुस्वभाव एषः। त्वं च विद्यात्मानं दिव्यमंशं सात्त्विकमभिप्रपन्नः तस्मादान्तरीं मोहलक्षणामविद्यां विहाय बाह्याविद्यात्मशत्रुहननलक्षणं +++(S बाह्यविद्या)+++ शास्त्रीयव्यापारम् अनुतिष्ठ इत्यध्यायारम्भः। तथाहि -- अभयमित्यादि पाण्डवेत्यन्तम्। दिव्यांशस्य इमानि चिह्नानि तानि स्फुटमेवाभिलक्ष्यन्ते +++(S; स्फुटमेवोपलक्ष्यन्ते)+++। दमः +++(S omits दमः)+++ इन्द्रियजयः। चापलं पूर्वापरमविमृश्य यत् करणम्; तदभावः अचापलम्। तेजः आत्मनि उत्साहग्रहणेन मितत्वापाकरणम्। दैवी संपदेषा। सा च तव विमोक्षाय; कामनापरिहारात्। अतस्त्वं शोकं मा प्रापः -- यथा भ्रात्रादीन् हत्वा सुखं कथमश्नुवीय इति। शिष्टं स्पष्टम्।
 </details>
@@ -161,12 +168,14 @@ use of organs such as speech, hands and feet-. Besides,
 
 16.2 See Coment under 16.5
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.1 -- 16.3॥ पूर्वाध्यायेयो मामेवमसम्मूढो जानाति पुरुषोत्तमम्
 \[15।19\] इत्युक्तं; तत्रबुद्धिर्ज्ञानमसम्मोहः इत्युक्तत्वादसम्मूढस्य
@@ -188,10 +197,13 @@ use of organs such as speech, hands and feet-. Besides,
 लौकिकप्रवृत्तौ च; अचापलं लौकिकक्रियासक्त्या भगवत्क्रियादिषु
 शैघ्र्याभावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/02_ahiMsA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/02_ahiMsA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.2॥ किंच **--** **अहिंसेति।** अहिंसा परपीडावर्जनम्; सत्यं
 यथार्थभाषणम्; अक्रोधस्ताडितस्यापि चित्ते क्षोभानुत्पत्तिः; त्याग
@@ -200,10 +212,13 @@ use of organs such as speech, hands and feet-. Besides,
 आर्षः। मार्दवं मृदुत्वमक्रूरता; ह्रीः अकार्यप्रवृत्तौ लोकलज्जा; अचापलं
 व्यर्थक्रियाराहित्यम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.2 Non-injury, truth, freedom from anger, renunciation, tranillity,
@@ -245,11 +260,13 @@ gentleness; ह्रीः modesty; अचापलम् absence of fickleness
 even under the gravest provocation.Tyagah Renunciation -- literally;
 giving up giving up of Vasanas; egoism and the fruits of action. Charity is also Tyaga. This has already been mentioned in the previous verse.Santih Serenity of the mind.Apaisunam Absence of narrowmindedness.Daya Compassion to those who are in distress. A man of compassion has a tender heart. He lives only for the benefit of the world. Compassion indicates realisation of unity or oneness with other creatures.Aloluptvam Noncovetousness. The senses are not affected or excited when they come in contact with their respective objects the senses are withdrawn from the objects of the senses; just as the limbs of the tortoise are withdrawn by it into its own shell.Hrih It is shame felt in the performance of actions contrary to the rules of the Vedas or of society.Achapalam Not to speak or move the hands and legs in vain avoidance of useless action.Straightforwardness; noninjury; absence of anger; etc.; are special alities of the Brahmanas. They are the Sattvic virtues which belong to them.Moreover --
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/02_ahiMsA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.2।। अहिंसा, सत्यभाषण; क्रोध न करना; संसारकी कामनाका त्याग;
@@ -568,6 +585,7 @@ giving up giving up of Vasanas; egoism and the fruits of action. Charity is also
 ।।16.2।। अहिंसा, सत्य, क्रोध का अभाव, त्याग, शान्ति, अपैशुनम् (किसी की
 निन्दा न करना), भूतमात्र के प्रति दया, अलोलुपता , मार्दव (कोमलता),
 लज्जा, अचंचलता।।
+</details>
 </details>
 
 </div>

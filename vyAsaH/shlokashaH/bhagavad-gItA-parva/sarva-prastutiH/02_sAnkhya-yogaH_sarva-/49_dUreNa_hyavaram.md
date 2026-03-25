@@ -23,8 +23,9 @@ title = "49 दूरेण ह्यवरम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.49॥ यो ऽयं प्रधान-फल-त्याग-विषयः,  
@@ -47,12 +48,14 @@ _बुद्धि-योगः_।
 2.49 All other kinds of action are far inferior to those done with evenness of mind, which consists in the renunciation of the main result and with eanimity towards success or failure in respect of the secondary results. Between the two kinds of actions, the one with eanimity and the other with attachment, the former associated with eanimity removes all the sufferings of Samsara and leads to release which is the highest object of human existence. The latter type of actions, which is pursued with an eye on results, leads one to Samsara whose character is endless suffering. Thus when an act is being done, take refuge in Buddhi
 (evenness of mind). Refuge means abode. Live in that Buddhi, is the meaning. 'Miserable are they who act with a motive for results': it means, 'Those who act with attachment to the results, etc., are miserable, as they will continue in Samsara.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.49॥  
   
@@ -169,12 +172,14 @@ this Immutable, is pitiable' (Br. 3.8.10). \[See note under 2.7.-Tr.\]
 क्षुद्रफलमात्रलोभेन परमानन्दानुभवेन वञ्चिता इत्यहो दौर्भाग्यं मौढ्यं च
 तेषामिति कृपणपदेन ध्वनितम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.49॥ इतश्च योगाय युज्यस्वेत्यत आह दूरेणेति।
 बुद्धियोगाज्ज्ञानलक्षणादुपायात्। दूरेणातीव। अतो बुद्धौ शरणं ज्ञाने
@@ -195,12 +200,14 @@ this Immutable, is pitiable' (Br. 3.8.10). \[See note under 2.7.-Tr.\]
 **अत** इति। ज्ञाने स्थितिं तदुपाययोगानुष्ठानलक्षणाम्। फलहेतूनां
 कृपणत्ववर्णनमनुपयुक्तमित्यत आह **फल**मिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.51॥ दूरेण हीति। बुद्धियोगात्किल हेतोः अवरं दुष्टफलयुक्तं +++(K omits युक्तं)+++ रिक्तं +++(omits रिक्तं)+++ कर्म दूरीभवति। अतस्तादृश्यां बुद्धौ शरणमन्विच्छ प्रार्थयस्व येन सा बुद्धिः लभ्यते।
 </details>
@@ -209,12 +216,14 @@ this Immutable, is pitiable' (Br. 3.8.10). \[See note under 2.7.-Tr.\]
 
 2.49 Durena etc. Due to the contact (one has) with determining faculty \[one's\] inferior action i.e., the action that bears bad fruits and is empty, remains far away \[from him\]. Therefore seek i.e., pray for a refuge in the determining faculty of that nature, on account of which that determining faculty is gained.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.49॥ अयुक्तं कर्म व्यवसायबुद्धियोगादवरमपकृष्टं हि यतः अतो बुद्धौ
 बुद्धिनिमित्तं बुद्धिविषये वा शरणं कञ्चिदन्वेषय बुद्धावाश्रयं वाऽन्विच्छ
@@ -241,10 +250,13 @@ this Immutable, is pitiable' (Br. 3.8.10). \[See note under 2.7.-Tr.\]
 **कृपणा** लुब्धा दीना इत्यर्थः।  
 नहि लुब्धैर् अहं प्राप्तः। अत एव श्रुतौ ब्रह्मभूतस्यैव ब्रह्मप्राप्तिर्निरूपिता ब्रह्मैव सन् ब्रह्माप्नोति ब्रह्माप्येति बृ.उ.4।4।6।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.49॥ काम्यं तु कर्मातिनिकृष्टमित्याह **दूरेणेति।** बुद्ध्या
 व्यवसायात्मिकया कृतः कर्मयोगो बुद्धियोगः। बुद्धिसाधनभूतो वा
@@ -253,10 +265,13 @@ this Immutable, is pitiable' (Br. 3.8.10). \[See note under 2.7.-Tr.\]
 शरणं त्रातारमीश्वरमाश्रयेत्यर्थः। फलहेतवस्तु सकामा नराः कृपणा दीनाः। यो
 वा एतदक्षरं गार्ग्यविदित्वास्माल्लोकात्प्रैति स कृपणः इति श्रुतेः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.49 Action with attachment is far inferior, O Arjuna, to action done with evenness of mind. Seek refuge in evenness of mind. Miserable are they who act with a motive for results.
@@ -289,11 +304,13 @@ Take resort to wisdom. Those who thirst for rewards are pitiable.
 बुद्धियोगात् than the Yoga of wisdom; धनञ्जय O Dhananjaya; बुद्धौ in wisdom; शरणम् refuge; अन्विच्छ seek; कृपणाः wretched; फलहेतवः seekers after fruits.Commentary Action done with evenness of mind is Yoga of wisdom. The yogi who is established in the Yoga of widdom is not affected by success or failure. He does not seek fruits of his actions.
 He has poised reason. His reason is rooted in the Self. Action performed by one who expects fruits for his actions; is far inferior to the Yoga of wisdom wherein the seeker does not seek fruits because the former leads to bondage and is the cause of birth and death. (Cf.VIII.18).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.49।। बुद्धियोग-(समता) की अपेक्षा सकामकर्म दूरसे (अत्यन्त) ही निकृष्ट
@@ -349,6 +366,7 @@ He has poised reason. His reason is rooted in the Self. Action performed by one 
 ।।2.49।। इस बुद्धियोग की तुलना में(सकाम) कर्म अत्यन्त निकृष्ट हैं;
 इसलिये हे धनंजय तुम बद्धि की शरण लो फल की इच्छा करनेवाले कृपण (दीन)
 हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "19 इहैव तैर्जितः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥5.19॥**इह एव** साधनानुष्ठानदशायाम् एव **तैः सर्गो जितः** संसारो जितः **येषाम्** उक्तरीत्या सर्वेष्व् आत्मसु **साम्ये स्थितं मनः निर्दोषं हि समं ब्रह्म** प्रकृतिसंसर्गदोषवियुक्ततया समम् आत्मवस्तु हि ब्रह्म आत्मसाम्ये स्थिताश् चेद् **ब्रह्मणि स्थिता** एव **ते।** ब्रह्मणि स्थितिर् एव हि संसारजयः। आत्मसु ज्ञानैकाकारतया साम्यम् एव अनुसन्दधाना मुक्ता एव इत्यर्थः। येन प्रकारेण अवस्थितस्य कर्मयोगिनः समदर्शनरूपो ज्ञानविपाको भवति तं प्रकारम् उपदिशति
@@ -39,12 +40,14 @@ title = "19 इहैव तैर्जितः"
 
 5.19 By those whose minds rest in ealness with regard to all selves in the aforesaid manner, even here, i.e., even at the stage of executing the means, Samsara is overcome. For the Brahman is of the same nature everywhere when uncontaminated. The meaning is that the substance of self, when free from the contaminations resulting from contact with the Prakrti (body), is the same everywhere i.e., as the Brahman (the Atman). If they are fixed in the eality of all selves, they verily abide in Brahman. The abidance in the Brahman is verily the conest of Samsara. Those who contemplate on the sameness of all selves, because of their having the form of knowledge, they are liberated. Sri Krsna now teaches that mode of life by following which the maturity of knowledge in the form of sameness of vision comes to a Karma Yogin.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥5.19॥ **इह एव** जीवद्भिरेव **तैः** समदर्शिभिः पण्डितैः **जितः** वशीकृतः **सर्गः** जन्म **येषां साम्ये** सर्वभूतेषु ब्रह्मणि समभावे **स्थितं** निश्चलीभूतं **मनः** अन्तःकरणम्। **निर्दोषं** यद्यपि दोषवत्सु श्वपाकादिषु मूढैः तद्दोषैः दोषवत् इव विभाव्यते तथापि तद्दोषैः अस्पृष्टम् इति निर्दोषं दोषवर्जितं हि यस्मात् नापि स्वगुणभेदभिन्नम् निर्गुणत्वात् चैतन्यस्य। वक्ष्यति च भगवान् इच्छादीनां क्षेत्रधर्मत्वम् अनादित्वान्निर्गुणत्वात् (गीता 13.31) इति च। नापि अन्त्या विशेषाः आत्मनो भेदकाः सन्ति प्रतिशरीरं तेषां सत्त्वे प्रमाणानुपपत्तेः। अतः **समं ब्रह्म** एकं च। **तस्मात् ब्रह्मणि** एव **ते स्थिताः।** तस्मात् न दोषगन्धमात्रमपि तान् स्पृशति देहादिसंघातात्मदर्शनाभिमानाभावात् तेषाम्। देहादिसंघातात्मदर्शनाभिमानवद्विषयं तु तत् सूत्रम् समासमाभ्यां विषमसमे पूजातः (गौ0 स्मृ0 17.20) इति पूजाविषयत्वेन विशेषणात्। दृश्यते हि ब्रह्मवित् षडङ्गवित् चतुर्वेदवित् इति पूजादानादौ गुणविशेषसंबन्धः कारणम्। ब्रह्म तु सर्वगुणदोषसंबन्धवर्जितमित्यतः ब्रह्मणि ते स्थिताः इति युक्तम्। कर्मविषयं च समासमाभ्याम् इत्यादि। इदं तु सर्वकर्मसंन्यासविषयं प्रस्तुतम् सर्वकर्माणि मनसा (गीता 5.13) इत्यारभ्य आध्यायपरिसमाप्तेः॥ यस्मात् निर्दोषं समं ब्रह्म आत्मा तस्मात्
 </details>
@@ -246,12 +249,14 @@ same (in all), therefore-
 स्मृतिस्त्वविद्वद्गृहस्थविषयैवतस्यान्नमभोज्यम् इत्युपक्रमात् पूजात इति
 मध्ये निर्देशात्धनाद्धर्माच्च हीयते इत्युपसंहाराच्चेति द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.19॥ तदैव स्तौति इहैवेति।
 </details>
@@ -263,12 +268,14 @@ same (in all), therefore-
 तत्कथमिहैवेति तद्देह एव मुक्तिरुक्तेत्यत आह **तदेवे**ति।
 स्तुतावधिकोक्तिः सम्भवतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥5.19॥ No commentary.
 </details>
@@ -277,12 +284,14 @@ same (in all), therefore-
 
 5.19 This sloka does not exit in Gitartha sangraha of Abhinavagupta.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥5.19॥ अतो यद्यत्समं तद्ब्रह्मरूपमिति मन्तव्यं यदि मनोऽपि निरोधे समं
 स्यात्तदा ब्रह्मैव तादात्म्यात्सिद्ध्यसिद्धयो ৷৷. समत्वं योगः 2।48
@@ -309,10 +318,13 @@ same (in all), therefore-
 समानाद्यवस्थासु। निर्दोषं यथा रासे। यतो ब्रह्म तादृशं तस्मात् ते
 ब्रह्मणि ब्रह्मभावे निरोधरूपे स्थिता इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥5.19॥ ननु विषमेषु समदर्शनं निषिद्धं कुर्वन्तोऽपि कथं ते पण्डिताः।
 यथाह गौतमःसमासमाभ्यां विषमसमे पूजातः इति। अस्यार्थःसमाय पूजाया विषमे
@@ -323,10 +335,13 @@ same (in all), therefore-
 ब्रह्मभावं प्राप्ता इत्यर्थः। गौतमोक्तस्तु दोषो ब्रह्मभावप्राप्तेः
 पूर्वमेव। पूजात इति पूजकावस्थाश्रवणात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 5.19 Here itself Samsara is overcome by those whose minds rest in ealness. For the Brahman (individual self), when uncontaminated by Prakrti, is the same everywhere. Therefore they abide in Brahman.
@@ -360,11 +375,13 @@ mind; निर्दोषम् spotless; हि indeed; समम् eal; ब
 therefore; ब्रह्मणि in Brahman; ते they; स्थिताः are established.Commentary When the mind gets rooted in eanimity or evenness or eality; when it is always in a balanced state; one coners birth and death. Bondage is annihilated and freedom is attained by him. When the mind is in a perfectly balanced state he overcomes Brahman Himself;
 i.e.; realises Brahman.Brahman is ever pure and attributeless and so He is not affected even though He dwells in an outcaste; dog; etc. So He is spotless. He is homogeneous and one; as He dwells eally in all beings.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।5.19।। जिनका अन्तःकरण समतामें स्थित है, उन्होंने इस जीवित-अवस्थामें ही
@@ -443,6 +460,7 @@ i.e.; realises Brahman.Brahman is ever pure and attributeless and so He is not a
 ।।5.19।। जिनका मन समत्वभाव में स्थित है, उनके द्वारा यहीं पर यह सर्ग
 जीत लिया जाता है; क्योंकि ब्रह्म निर्दोष और सम है इसलिये वे ब्रह्म में
 ही स्थित हैं।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "18 विस्तरेणात्मनो योगम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.18॥ अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते (गीता 10।8) इति सङ्क्षेपेण उक्तं तव स्रष्टृत्वादि**योगं विभूतिं** नियमनं **च भूयः विस्तरेण कथय।** त्वया उच्यमानं त्वन्माहात्म्यामृतं **श्रृण्वतो मे तृप्तिर् न अस्ति हि** -- मम अतृप्तिस् त्वया एव विदिता इत्य् अभिप्रायः।
@@ -39,12 +40,14 @@ title = "18 विस्तरेणात्मनो योगम्"
 
 10.18 Speak to me again in full, your association with the alities of being the creator etc., and Your sovereignty, Your rulership, which have been briefly described in 'I am the origin of all; from Me proceed everything' (10.8). For I am not satiated by hearing Your ambrosial words. The meaning is, 'My enthusiasm to know more and more of your ambrosial teachings is known to You.'
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.18॥ --,**विस्तरेण आत्मनः योगं** योगैश्वर्यशक्तिविशेषं **विभूतिं च** विस्तरं ध्येयपदार्थानां हे **जनार्दन;** अर्दतेः गतिकर्मणः रूपम्; असुराणां देवप्रतिपक्षभूतानां जनानां नरकादिगमयितृत्वात् जनार्दनः अभ्युदयनिःश्रेयसपुरुषार्थप्रयोजनं सर्वैः जनैः याच्यते इति वा। **भूयः** पूर्वम् उक्तमपि **कथय तृप्तिः** परितोषः **हि** यस्मात् **नास्ति मे** मम **शृण्वतः** त्वन्मुखनिःसृतवाक्या**मृतम्**॥**श्रीभगवानुवाच --,**
 </details>
@@ -119,12 +122,14 @@ mouth; na asti, there is no; trptih, satiety; me, in me.
 त्वद्वाक्यमित्यनुक्तेरपह्नुत्यतिशयोक्तिरूपकसंकरोऽयं
 माधुर्यातिशयानुभवेनोत्कण्ठातिशयं व्यनक्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.18॥ न जायतेऽर्दयति च संसारमिति जनार्दनः। तथा च बाभ्रव्यशाखायाम् --
 स भूतः स जनार्दनः इति। स ह्यासीत्स नासीत्सोऽर्दयत् इति।
@@ -139,12 +144,14 @@ mouth; na asti, there is no; trptih, satiety; me, in me.
 गमयति। **स ह्यासीदि**ति। भूतः। अनादितः सत्तावानित्यर्थः। स नासीन्न स
 जन्मवान्सोऽर्दयतीति जनार्दनः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.18॥ No commentary.
 </details>
@@ -153,12 +160,14 @@ mouth; na asti, there is no; trptih, satiety; me, in me.
 
 10.18 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.17 -- 10.18॥ किमर्थं तत्प्रकाशनं इत्यपेक्षायामाह -- कथं विद्यामिति।
 अहं त्वया योगी विधीये तस्य च चिन्तनं युक्तमेवेति। केषुकेषूभयविधेषु
@@ -176,20 +185,26 @@ mouth; na asti, there is no; trptih, satiety; me, in me.
 अमृतं मोक्षात्मकं मरणनिवर्तकमानन्दरूपं त्वद्वाक्यं शृण्वतो मे तृप्तिः
 अलम्भावो न भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.18॥ तदेवं बहिर्मुखेऽपि चित्ते तत्र तत्र विभूतिभेदेन त्वच्चिन्तैव
 यथा भवेत्तथा विस्तरेण कथयेत्याह **-- विस्तरेणेति।** आत्मनस्तव योगं
 सर्वज्ञत्वसर्वशक्तित्वादिलक्षणं योगैश्वर्यं विभूतिं च विस्तरेण पुनः कथय।
 हि यस्मात्त्वद्वाक्यममृतरूपं शृण्वतो मम तृप्तिरलंबुद्धिर्नास्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.18 Speak to me again in full, O Krsna, about Your attributes and glories. For I am not satiated by hearing Your ambrosial words.
@@ -228,11 +243,13 @@ and sovereignty (Aisvarya) and the various things to be meditated upon.
 Tell me again though You have described earlier in the seventh and the ninth chapters succinctly for there is no satiety in hearing Thy ambrosial speech or nectarlike conversation. However much of it I hear;
 I am not satisfied surely it is nectar of immortality for me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.18।। हे जनार्दन ! आप अपने योग (सामर्थ्य) को और विभूतियोंको
@@ -283,6 +300,7 @@ I am not satisfied surely it is nectar of immortality for me.
 
 ।।10.18।। हे जनार्दन ! अपनी योग शक्ति और विभूति को पुन: विस्तारपूर्वक
 कहिए, क्योंकि आपके अमृतमय वचनों को सुनते हुए मुझे तृप्ति नहीं होती।।
+</details>
 </details>
 
 </div>

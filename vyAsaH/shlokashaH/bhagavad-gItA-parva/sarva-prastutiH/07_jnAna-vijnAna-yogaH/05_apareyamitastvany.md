@@ -23,8 +23,9 @@ title = "05 अपरेयमितस्त्वन्याम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥7.5॥**इयं** मम **अपरा** प्रकृतिः **इतस् त्व् अन्याम्** इतो ऽचेतनायाश् चेतनभोग्यभूतायाः प्रकृतेर् विसजातीयाकारां **जीवभूतां परं** तस्या भोक्तृत्वेन प्रधानभूतां चेतनरूपां मदीयां **प्रकृतिं विद्धि यया इदम्** अचेतनं कृत्स्नं **जगद् धार्यते।**
@@ -40,12 +41,14 @@ title = "05 अपरेयमितस्त्वन्याम्"
 7.5 This is My lower Prakrti. But know My higher Prakrti which is different from this, i.e., whose nature is different from this inanimate Prakrti constituting the objects of enjoyment to animate beings. It is
 'higher', i.e., is more pre-eminent compared to the lower Prakrti which is constituted only of inanimate substances. This higher Nature of Mine is the individual self. Know this as My higher Prakrti through which the whole inanimate universe is sustained.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥7.5॥ **अपरा** न परा निकृष्टा अशुद्धा अनर्थकरी संसारबन्धनात्मिका **इयम्। इतः** अस्याः यथोक्तायाः **तु अन्यां** विशुद्धां **प्रकृतिं** मम आत्मभूतां **विद्धि** **मे परां** प्रकृष्टां **जीवभूतां** क्षेत्रज्ञलक्षणां प्राणधारणनिमित्तभूतां हे **महाबाहो यया** प्रकृत्या **इदं धार्यते जगत्** अन्तः प्रविष्टया॥
 </details>
@@ -273,12 +276,14 @@ jagat, world; dharyate, is upheld, by permeating it.
 भाव्यते स्वतो विशीर्य उत्तभ्यतेअनेन जीवेनात्मनानुप्रविश्य नामरूपे
 व्याकरवाणि इति श्रुतेः। नहि जीवरहितं धारयितुं शक्यमित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.5॥ अपराऽनुत्तमा। वक्ष्यमाणामपेक्ष्य जीवभूता श्रीः जीवानां
 प्राणधारिणी चिद्रूपभूता सर्वदा सती एतन्महइदं महद्भूतम् बृ.उ.2।4।12 इति
@@ -312,12 +317,14 @@ jagat, world; dharyate, is upheld, by permeating it.
 जडेत्यवरत्वोपपादनम्। श्रीः परा इत्यस्योपपादनमियं धार्यते तयेत्यादि।
 अनन्ता देशतः गुणतश्च। परा मुख्या। अनादिनिधना नत्वव्यक्तवद्विक्रियावती।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.4 7.5॥ भूमिरिति। अपरेति। इयमिति प्रत्यक्षेण या संसारावस्थायां। सर्वजनपरिदृश्यमाना सा चैकैव सती प्रकाराष्टकेन भिद्यते इति एकप्रकृत्यारब्धत्वादेकमेव विश्वमिति प्रकृतिवादेऽपि अद्वैतं प्रदर्शितम्। सैव जीवत्वं पुरुषत्वं प्राप्ता परा ममैव नान्यस्य च। सा +++(S omits सा)+++ उभयरूपा वेद्यवेदकात्मकप्रपञ्चोपरचनविचित्रा तत एव स्वात्मविमलमुकुरतलकलितसकलभावभूमिः स्वस्वभावात्मिका सततमव्यभिचारिणी प्रकृतिः। इदं जगत् भूम्यादि।
 </details>
@@ -326,12 +333,14 @@ jagat, world; dharyate, is upheld, by permeating it.
 
 7.4-5 Bhumih etc. Apard etc. \[The demonstrative\] 'this' denotes what is being perceived \[as objects\] through sense-organs by all men at the stage of mundane life. This is only one and at the same time is divided eigth-fold. Therefore the universe is one and unitary, because it is made of one single material cause. By this statement, monism is demonstrated even while following the Prakrti theory. The selfsame Prakrti has become the living one i.e., the personal Soul. Hence it is superior \[to what has become eight-fold\]. It also belongs to Me alone and not to anybody else. This Prakrti is \[thus\] two-fold and varied in the form of the universe consisting of the knowables and the knower. That is why this Prakrti (the basic material nature), being the substratum of all beings reflected on the surface of the clean mirror, viz., the Self , is nothing but Self's own nature and \[hence\] never leaves Him. This world : the Earth etc. \[mentioned in the 4th verse\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥7.5॥ अपरेति इतस्त्वन्यामजडां चित्स्वरूपां परां भोक्तृत्वेन प्रधानभूतां
 पुरुषत्वेन निर्दिष्टामत्र जीवभूतां मे प्रकृतिं चिदंशभूतां विद्धि। अत्र
@@ -401,20 +410,26 @@ jagat, world; dharyate, is upheld, by permeating it.
 उत्कृष्टरूपतामेवाह यया इदं जडात्मकं जगद्धार्यते जीवप्राकट्यानन्तरं
 तद्भावेन सर्वं क्रीडौपयिकत्वेन पोष्यत इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥7.5॥ अपरामिमां प्रकृतिमुपसंहरन्परां प्रकृतिमाह **अपरेति।** अष्टधोक्ता
 या प्रकृतिरियमपरा निकृष्टा जडत्वात्परार्थत्वाच्च इतः सकाशात्परां
 प्रकृष्टामन्यां जीवस्वरूपां मे प्रकृतिं विद्धि जानीहि। परत्वे हेतुः यया
 चेतनया क्षेत्रज्ञरूपया स्वकर्मद्वारेणेदं जगद्धार्यते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 7.5 This is My lower Prakrti. But, O mighty-armed One, know that My higher nature is another. It is the life-principle (Jiva-bhuta), by which this universe is sustained.
@@ -446,11 +461,13 @@ know thou that my Superior Nature is the very Life which sustains the universe.
 7.5 अपरा lower; इयम् this; इतः from this; तु but; अन्याम् different;
 प्रकृतिम् nature; विद्धि know; मे My; पराम् higher; जीवभूताम् the very lifeelement; महाबाहो O mightyarmed; यया by which; इदम् this; धार्यते is upheld; जगत् world.Commentary The eightfold Nature described in the previous verse is the inferior Nature. It constitutes the Kshetra or the field or matter. It is impure. It generates evil and causes bondage. But the superior Nature is pure. It is My very Self; Kshetrajna (knower of the field or Spirit) by which life is sustained; and that which enters within the whole world and upholds it. It is the very lifeelement or the principle of Selfconsciousness; by which this universe is sustained.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।7.4 -- 7.5।। पृथ्वी, जल, तेज, वायु, आकाश -- ये पञ्चमहाभूत और मन,
@@ -508,6 +525,7 @@ know thou that my Superior Nature is the very Life which sustains the universe.
 
 ।।7.5।। हे महाबाहो ! यह अपरा प्रकृति है। इससे भिन्न मेरी जीवरूपी
 पराप्रकृति को जानो, जिससे यह जगत् धारण किया जाता है।।
+</details>
 </details>
 
 </div>

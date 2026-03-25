@@ -23,8 +23,9 @@ title = "03 क्षेत्रज्ञञ् चापि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.2॥ देवमनुष्यादि-**सर्वक्षेत्रेषु**  
@@ -140,12 +141,14 @@ The object of this long polemical passage is to refute the Advaitic interpretati
 and its substratum (Prakari). The relation between the body and soul of an ordinary being is, however, separable at death. But it is inseparable in the case of Isvara and this Jiva-cum-Prakrti body. In this sense Isvara is the Field-knower (Ksetrajna) of the Field (Ksetra) constituted of all individual entities conscient and inconscient, just as in each individual personality the Jiva and the body are the field-knower and the field respectively. \[Being in co-ordinate predication
 (Samanadhikaranya), Brahman is an inseparable but mutually distinct complex of Prakrti, Jiva and Isvara. The cosmic mode of body constituted of Prakrti and Purusa is at intervals in alternate states of latency and patency (Pralaya and Srsti or dissolution and manifestation). As the soul of a complex whole, He can be denoed by any of the terms entering into it - Isvara, Prakrti or Jiva. Brahan is sometimes mentioned in the Srutis as Asat when everything is in latency in Pralaya, and as Sat when all entities are in manifestations (Srsti). All these expressions denote Him only. He is described in some texts as attributeless. It means only that He is without any undesriable evil alities. He is on the other hand endowed with countless auspicious attributes. All these contentions are supported by numerous Vedic passages, which are oted in the commentary.\]
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.3॥ --,**क्षेत्रज्ञं** यथोक्तलक्षणं **चापि मां** परमेश्वरम् असंसारिणं **विद्धि** जानीहि। **सर्वक्षेत्रेषु** यः क्षेत्रज्ञः ब्रह्मादिस्तम्बपर्यन्तानेक-क्षेत्रोपाधि-प्रविभक्तः;  
 तं निरस्तसर्वोपाधिभेदं सद्-असद्-आदि-शब्द-प्रत्ययागोचरं विद्धि इति अभिप्रायः।  
@@ -174,7 +177,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 > ननु एवं सति  
 संसार-संसारित्वाभावे शास्त्रानर्थक्यादि-दोषः स्याद् 
@@ -197,7 +200,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 सर्वैर् हि आत्मवादिभिर् अभ्युपगतः दोषः  
 न +एकेन परिहर्तव्यः भवति।  
@@ -220,7 +223,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 कथम् अभ्युपगतः इति?  
 
@@ -238,7 +241,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 परंतु ( इससे ) उनके मतमें शास्त्रकी अनर्थकता आदि दोषोंकी प्राप्ति नहीं मानी गयी। 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 न च तेषां शास्त्रानर्थक्य्-आदि-दोष-प्राप्तिः अभ्युपगता।  
 </details>
@@ -262,7 +265,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 यदि शास्त्रकी व्यर्थता होती हो तो हो; अविद्यावस्थामें तो उसकी सार्थकता है ही। 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 तथा नः क्षेत्रज्ञानामीश्वरैकत्वे सति;  
 शास्त्रानर्थक्यं भवतु  अविद्याविषये च अर्थवत्त्वम्यथा द्वैतिनां सर्वेषां बन्धावस्थायामेव शास्त्राद्यर्थवत्त्वम्;  
@@ -280,7 +283,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 > ननु आत्मनः बन्ध-मुक्तावस्थे परमार्थत एव वस्तुभूते द्वैतिनां सर्वेषाम्।  
 </details>
@@ -297,7 +300,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 इस कारण शास्त्रकी सार्थकता हो सकती है।
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 > अतः हेयोपादेय--तत्-साधन--सद्-भावे शास्त्राद्य्-अर्थवत्त्वं स्यात्।  
 </details>
@@ -319,7 +322,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 शास्त्र आदिकी व्यर्थताका दोष आता है। 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 अद्वैतिनां पुनः; द्वैतस्य अपरमार्थत्वात्; अविद्या-कृतत्वात्,  
 बन्धावस्थायाश् च आत्मनः अपरमार्थत्वे +++(सति)+++ निर्विषयत्वात्;  
@@ -341,7 +344,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 तो आत्माकी ये बन्ध और मुक्त दोनों अवस्थाएँ एक साथ होनी चाहिये या क्रमसे
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 इति चेत्; न -  
 आत्मनः अवस्था-भेदानुपपत्तेः -  
@@ -359,7 +362,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 स्थिति और गतिकी भाँति परस्परविरोध होनेके कारण दोनों अवस्थाएँ एक साथ तो एकमें हो नहीं सकतीं। 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 युगपत् तावत् विरोधात् न संभवतः -  
 स्थितिगती इव एकस्मिन्।  
@@ -386,7 +389,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 क्रमभावित्वे च - 
 
@@ -405,7 +408,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 ऐसा होनेपर स्वीकार किया हुआ सिद्धान्त कट जाता है।  
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 तथा च सति अभ्युपगम-हानिः। 
 </details>
@@ -426,7 +429,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 किञ्च; बन्ध-मुक्तावस्थयोः पौर्वापर्य-निरूपणायां  
 बन्धावस्था पूर्वं प्रकल्प्या;  
@@ -444,7 +447,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 ऐसे ही मुक्तावस्थाको भी आदियुक्त और अन्तरहित प्रमाणविरुद्ध ही मानना पड़ेगा। 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 तथा मोक्षावस्था आदिमती अनन्ता च प्रमाणविरुद्धैव अभ्युपगम्यते। 
 </details>
@@ -460,7 +463,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 तथा आत्माकी अवस्थावाला और एक अवस्थासे दूसरी अवस्थामें जानेवाला मानकर उसका नित्यत्व सिद्ध करना भी सम्भव नहीं है।
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 न च अवस्थावतः अवस्थान्तरं गच्छतः  
 नित्यत्वम् उपपादयितुं शक्यम्।  
@@ -478,7 +481,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 अथ अनित्यत्वदोषपरिहाराय  
 बन्धमुक्तावस्थाभेदो न कल्प्यते।  
@@ -500,7 +503,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 अतः द्वैतिनामपि शास्त्रानर्थक्यादि-दोषः अ-परिहार्य एव  
 इति समानत्वात्  
@@ -521,7 +524,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 न च शास्त्रानर्थक्यम्;  
 यथा-प्रसिद्धाविद्वत्-पुरुष-विषयत्वात् शास्त्रस्य।  
@@ -545,7 +548,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 अविदुषां हि फल-हेत्वोः अनात्मनोः आत्म-दर्शनम्;  
 न विदुषाम् - विदुषां हि फलहेतुभ्याम् आत्मनः अन्यत्व-दर्शने सति;  
@@ -566,7 +569,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 न हि अत्यन्तमूढः उन्मत्तादिरपि जलाग्न्योः छायाप्रकाशयोर्वा ऐकात्म्यं पश्यति  
 किमुत विवेकी।
@@ -589,7 +592,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 फिर विवेकीकी तो बात ही क्या है सुतरां फल और हेतुसे आत्माको भिन्न समझ लेनेवाले ज्ञानीके लिये विधिनिषेधविषयक शास्त्र नहीं है। 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 तस्मात् न विधि-प्रतिषेध-शास्त्रं तावत्  
 फल-हेतुभ्याम् आत्मनः अन्यत्व-दर्शिनः भवति।  
@@ -608,7 +611,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 जैसे हे देवदत्त तू अमुक कार्य कर इस प्रकार किसी कर्ममें ( देवदत्तके ) नियुक्त किये जानेपर वहीं खड़ा हुआ विष्णुमित्र उस नियुक्तिको सुनकर भी; यह नहीं समझता कि मैं नियुक्त किया गया हूँ। 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 न हि "देवदत्त; त्वम् इदं कुरु" इति कस्मिंश्चित् कर्मणि नियुक्ते;  
 विष्णुमित्रः "अहं नियुक्तः" इति तत्रस्थः  
@@ -626,7 +629,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 हाँ; नियुक्तिविषयक विवेकका स्पष्ट ग्रहण न होनेसे तो ऐसा समझना ठीक हो सकता है; इसी प्रकार फल और,हेतुमें भी ( अज्ञानियोंकी आत्मबुद्धि हो सकती है )
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 वियोग-विषय-विवेकाग्रहणात् तु उपपद्यते  
 प्रतिपत्तिः तथा फलहेत्वोर् अपि॥  
@@ -657,7 +660,7 @@ and its substratum (Prakari). The relation between the body and soul of an ordin
 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ननु प्राकृत-संबन्धापेक्षया युक्तैव प्रतिपत्तिः शास्त्रार्थविषया --  
 फल-हेतुभ्याम् अन्यात्म-विषय-दर्शनेऽपि सति --  
@@ -1901,12 +1904,14 @@ be explained.
 पारमार्थिकस्त्वभेद इत्यत्र युक्तयो भाष्यकृद्भिर्वर्णिताः। अस्माभिस्तु
 ग्रन्थविस्तरभयात्प्रागेव बहुधोक्तत्वाच्च नोपन्यस्ताः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.3॥ क्षेत्रज्ञमिति।
 </details>
@@ -1915,12 +1920,14 @@ be explained.
 
 ॥13.3॥ क्षेत्रज्ञमिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.2 -- 13.3॥ क्वचित् श्रुतौ क्षेत्रज्ञ उपास्यः इति श्रूयते। स च किमात्मा; उत ईश्वरः अथ तृतीयः कश्चिदन्य एव इति प्रश्नाशङ्कायाम् -- श्रीभगवानादिशतिं -- इदमिति; क्षेत्रज्ञमिति। संसारिणां शरीरं क्षेत्रम्; यत्र कर्मबीजप्ररोहः। अत एव तेषामात्मा आगन्तुककालुष्यरूषितः क्षेत्रज्ञ उच्यते। प्रबुद्धानां तदेव क्षेत्रम्। अन्वर्थभेदस्तु तद्यथा -- क्षिणोति कर्मबन्धमुपभोगेन; त्रायते जन्ममरणभयात् इति। तांश्च प्रति परमात्मा वासुदेवः +++(S; वासुदेवाख्यः)+++ क्षेत्रज्ञः। एतत्क्षेत्रं +++(S;N यो वेदयति। वेदेत्यन्तर्भा यो वेदयति अन्तर्भा -- )+++ यो वेद; वेदयति इत्यन्तर्भावितण्यर्थो +++(N -- ण्यर्थोऽत्र)+++ विदिः। तेन यत्प्रसादादचेतनमिदं चेतनीभावमायाति स एव क्षेत्रज्ञो नान्यः कश्चित्। विशेषस्तु परिमितव्याप्तिकं रूपमालम्ब्य आत्मेति भण्यते अपरिच्छिन्नसर्वक्षेत्रव्याप्त्या परमात्मा भगवान् वासुदेवः। ममेति कर्मणि षष्ठी अहमनेन ज्ञानेन ज्ञेयः इत्यर्थः।
 </details>
@@ -1929,12 +1936,14 @@ be explained.
 
 13.2-3 Somewhere in the scriputures it is heard that 'The Field-sensitizer must be worshipped'. Is He the same as the Soul, or the Lord or an altogether different third entity ; On a doubt regarding this problem - The Bhagavat instructs-Idam etc. Ksetrajnam etc. For persons of wordly life their body is the Ksetra 'Field' where the seeds of action grow. That is why their personal Soul covered with incoming (or foreign, not-natural) dirt, is called Field-sensitizer. In the case of the enlightened persons, the self-same body is \[again\] the Ksetra, But there is difference in etimological meaning viz : It decays the fetters of the result of action by means of consuming \[it\]; and it protects \[them\] from the fear of birth-and-death \[cycle\]. With reference to these persons, the Supreme Soul, Vasudeva is the Field-sensitizer. He who sensitizes this Field : He who causes it to know. Here the root vid includes within itself, the meaning of the causal suffix ni. Therefore \[the meaning is :\] He, on account of Whose grace this insentient \[body\] attains the status of being sentient, He alone, an no one else, is the Field-sensitizer. But, the \[only\] difference is this : Taking into consideration th aspect of limited pervaisveness, He is taken to be Soul; and on account of \[His\] unlimited pervasiveness in all the Fields, \[He is called\] the Supreme Soul, the Bhagavat Vasudeva. Of Me : the Sixth Case here is in the objective sense. Hence the idea is : I may be known by means of this knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.3॥ यस्य च भवति स क्षेत्रज्ञ इह मत्स्वभावापन्न इत्याह -- क्षेत्रज्ञं
 चापि मां विद्धीति। नहि क्षेत्रिभावेन संसृष्टो जीवः क्षेत्रं स्वतो
@@ -1955,10 +1964,13 @@ be explained.
 कर्मादिजन्यत्वं तज्ज्ञानवत्त्वं जीवस्य क्षेत्रज्ञत्वं असम्बद्धमित्यर्थः
 स्वमतोक्त्या ज्ञापितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.3॥ तदेवं संसारिणः स्वरूपमुक्तं; इदानीं तस्यैव
 पारमार्थिकमसंसारिस्वरूपमाह **-- क्षेत्रज्ञमिति**। तं च क्षेत्रज्ञं
@@ -1969,10 +1981,13 @@ be explained.
 बन्धहेतुत्वादित्यर्थः। तदुक्तं -- तत्कर्म यन्न बन्धाय सा विद्या या
 विमुक्तये। आयासायापरं कर्म विद्यान्याशिल्पनैपुणम् इति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.3 And know Me also as the Field-Knower in all Fields, O Arjuna. The knowledge of the Field and its knower is, in My view, the true knowledge.
@@ -2018,11 +2033,13 @@ and not in the Self.Ignorance born of Tamas acts as a veil and prevents man from
 Any disease of the eye cannot in any way effect the sun (the dity presiding over the eye). The breaking of the pot will not in any way affect the ether or space in the pot. The water of the mirage cannot render the earth moist. Even so ignorance and its effecs cannot in the least affect the pure; subtle; attributeless; formless; limbless;
 partless and selfluminous Kshetrajna or the Self. Ignorance does not touch the Self. (Cf.X.20XIII.32XVIII.61)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/03_xetrajna~n_chApi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.3।। हे भरतवंशोद्भव अर्जुन ! तू सम्पूर्ण क्षेत्रोंमें क्षेत्रज्ञ
@@ -2126,6 +2143,7 @@ partless and selfluminous Kshetrajna or the Self. Ignorance does not touch the S
 ।।13.3।। हे भारत ! तुम समस्त क्षेत्रों में क्षेत्रज्ञ मुझे ही जानो।
 क्षेत्र और क्षेत्रज्ञ का जो ज्ञान है, वही (वास्तव में) ज्ञान है , ऐसा
 मेरा मत है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "19 य एनम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.19॥**एनम्** उक्तस्वभावम् आत्मानं प्रति**हन्तारं** हननहेतुकम् अपि **यो** मन्यते **यश् च एनं** केन अपि हेतुना **हतं मन्यते उभौ तौ न विजानीतः।** उक्तैर् हेतुभिर् अस्य नित्यत्वाद् एव **अयं** हननहेतुर् न भवत्य् अत एव च अयम् आत्मा **न हन्यते।** हन्तिधातुर् अप्य् आत्मकर्मकःशरीरवियोगकरणवाची। न हिंस्यात् सर्वा भूतानिब्राह्मणो न हन्तव्यः (क॰ स्मृ॰ 8।2) इत्यादीन्य् अपि शास्त्राण्य् अविहितशरीरवियोगकरणविषयाणि।
@@ -41,12 +42,14 @@ title = "19 य एनम्"
 
 2.19 With regard to "This" viz., the self, whose nature has been described above, he who thinks of It as the slayer, i.e., as the cause of slaying, and he who thinks 'This' (self) as slain by some cause or other - both of them do not know. As this self is eternal for the reasons mentioned above, no possible cause of destruction can slay It and for the same reason, It cannot be slain. Though the root 'han' (to slay) has the self for its object, it signifies causing the separation of the body from the self and not destruction of the self. Scriptural texts like 'You shall not cause injury to beings' and 'The Brahmana shall not be killed'; (K. Sm. 8.2) indicate unsanctioned actions, causing separation of the body from the self. \[In the above otes, slaughter in an ethical sense is referred to, while the text refers to killing or separating the self from the body in a metaphsyical sense. This is made explicit in the following verse\].
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.19॥  
   
@@ -199,12 +202,14 @@ second verse is to show how the Self is changeless:
 वादिभेदख्यापनाय पृथगुपन्यासः। अतिशूरातिकातरविषयतया वा पृथगुपदेशः। हन्ता
 चेन्मन्यते हन्तुं हतश्चेन्मन्यते हतम् इति पूर्वार्धे श्रौतः पाठः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.19॥ व्यवहारस्तु भ्रान्त इत्याह य एनमिति। कुतः उक्तहेतुभ्यो नायं
 हन्ति न हन्यते। न हि प्रतिबिम्बस्य क्रिया। स हि बिम्बक्रिययैव
@@ -239,12 +244,14 @@ second verse is to show how the Self is changeless:
 पृथगुपाध्यभावाच्च। जीवस्येश्वराधीनक्रियत्वे श्रुतिं चाह
 **ध्यायती**वेति। ईश्वरो जीवं ध्यायतीत्यर्थः। इवशब्दोऽल्पार्थे।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.20॥ य एनमिति। एनमात्मानं देहं च यो हन्तारं हतं च वेत्ति तस्याज्ञानम्। अत एव स बद्धः +++(S सम्बन्धः)+++।
 </details>
@@ -253,12 +260,14 @@ second verse is to show how the Self is changeless:
 
 2.19 Ya enam etc. Whosoever veiws This i.e., the Self and the body, to be the slayer and the slain, ignorance is in him. That is why he is in bondage. The same \[point the Lord\] clarifies -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.19॥ आत्मनो हन्तिकर्तृकर्मत्वज्ञानिनं निन्दति। य एनमिति हन्तेः
 सावयवशरीरवियोगकरणवाचित्वान्नायमात्मा हन्ति न हन्यते। न हिंस्यात्
@@ -271,20 +280,26 @@ second verse is to show how the Self is changeless:
 वेत्ति यश्च एनं हतं मन्यते तावुभावपि न विजानीतः। अयं न हन्ति न वा
 हन्यते। मदिच्छयैव सर्वं भवतीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.19॥ तदेवं भीष्मादिमृत्युनिमित्तः शोको निवारितः। यच्चात्मनो
 हन्तृत्वनिमित्तं दुःखमुक्तंएतान्न हन्तुमिच्छामि इत्यादिना तदपि तद्वदेव
 निर्निमित्तमित्याह **य एनमिति।** एनमात्मानम्। आत्मनो हननक्रियायां
 कर्मत्वं कर्तृत्वमपि नास्तीत्यर्थः। तत्र हेतुर्नायमिति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.19 He who deems It (the self) a slayer, and he who thinks of It as slain - both are ignorant. For, the self neither slays nor is slain.
@@ -319,11 +334,13 @@ not; विजानीतः know; न not; अयम् this; हन्ति 
 It is neither the agent nor the object of the act of slaying. He who thinks I slay or I am slain with the body or the Ahamkara (ego); he does not really comprehend the true nature of the Self. The Self is indestructible. It exists in the three periods of time. It is Sat
 (Existence). When the body is destroyed; the Self is not destroyed. The body has to undergo change in any case. It is inevitable. But the Self is not at all affected by it. Verses 19; 20; 21; 23 and 24 speak of the immortality of the Self or Atman. (Cf.XVIII.17)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.19।। जो मनुष्य इस अविनाशी शरीरीको मारनेवाला मानता है और जो मनुष्य
@@ -380,6 +397,7 @@ It is neither the agent nor the object of the act of slaying. He who thinks I sl
 
 ।।2.19।। जो इस आत्मा को मारने वाला समझता है और जो इसको मरा समझता है वे
 दोनों ही नहीं जानते हैं, क्योंकि यह आत्मा न मरता है और न मारा जाता है।।
+</details>
 </details>
 
 </div>

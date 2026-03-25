@@ -26,8 +26,9 @@ title = "01 ये शास्त्रविधिमुत्सृज्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 देवासुरविभागोक्तिमुखेन प्राप्यतत्त्वज्ञानं तत्प्राप्त्युपायज्ञानं च वेदैकमूलम् इत्युक्तम् । इदानीम् अशास्त्रविहितस्यासुरत्वेनाफलत्वम्, शास्त्रविहितस्य च गुणतस् त्रैविध्यम्, शास्त्रसिद्धस्य लक्षणं चोच्यते । तत्राशास्त्रविहितस्य निष्फलत्वम् अजानन् अशास्त्रविहिते श्रद्धासंयुक्ते यागादौ सत्त्वादिनिमित्तफलभेदबुभुत्सया अर्जुनः पृच्छति
@@ -46,12 +47,14 @@ title = "01 ये शास्त्रविधिमुत्सृज्य"
 
 17.1 Arjuna said Those who, 'filled with faith but laying aside the injunctions of the Sastras,' engage themselves in sacrifices etc., what is their 'position or basis'; It is Sattva, Rajas or Tamas; Nistha means Sthiti. What is called Sthiti is that state in which one abides, has one's position or basis. Do they abide in Sattva, in Rajas or in Tamas; Such is the meaning of the estion. Thus estioned, the Lord, for affirming the futility of faith and of sacrifices not enjoined in the Sastras, and in order to show that the triple division in accordance with the Gunas refers only to sacrifices etc., enjoined in the Sastras - expounds here the threefold nature of faith enjoined in the Sastras:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ‘तस्माच्छास्त्रं प्रमाणं ते’ (भ. गी. १६ । २४) इति भगवद्वाक्यात् लब्धप्रश्नबीजः अर्जुन उवाच —
   
@@ -197,12 +200,14 @@ topic cannot be given without splitting it up. Hence,-
 तथा सति राजसत्वात्तामसत्वादसुरास्ते सत्त्वमित्येका कोटी रजस्तम इत्यपरा
 कोटिरिति विभागज्ञापनायाहोशब्दः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.1॥ सर्वगुणपूर्णाय नमः। श्रीः। गुणभेदान् प्रपञ्चयत्यनेनाध्यायेन
 शास्त्रविधिमुत्सृज्य अज्ञात्वैव। वेदः कृत्स्नोऽधिगन्तव्यः सरहस्यो
@@ -243,12 +248,14 @@ topic cannot be given without splitting it up. Hence,-
 इत्याद्यापद्येत तच्चानुपपन्नमित्याह -- **न ही**ति। कुतो न इत्यात आह --
 **वेद** इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.1॥ ये शास्त्रेति। शास्त्रविधिमनालंब्य ये व्यवहारमाचरन्ति \[ श्रद्धया \]; तेषां का गतिरिति प्रश्नः।
 </details>
@@ -257,12 +264,14 @@ topic cannot be given without splitting it up. Hence,-
 
 17.1 Ye sastra - etc. The estion is this : What is the goal \[to be reached\] by those persons who faithfully perform their worldly actions by not adhering to the scripural injunction ; Now in this regard the answer, basing on the faith, is given by the Bhagavat -
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.1॥ पूर्वाध्यायान्तेयः शास्त्रविधिमुत्सृज्य वर्त्तते कामकारतः। न स
 सिद्धिमवाप्नोति न सुखं न परां गतिम् \[16।23\] इत्यनेन
@@ -291,10 +300,13 @@ topic cannot be given without splitting it up. Hence,-
 व्यर्थमेव तदाचारादिप्रामाण्यं निष्प्रयोजनकमतस्तेषामाश्रय स्वरूपं
 वक्तव्यमिति भावो व्यञ्जितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.1॥ उक्ताधिकारहेतूनां श्रद्धा मुख्या तु सात्त्विकी। इति सप्तदशे
 गौणश्रद्धाभेदस्त्रिधोच्यते॥1॥  
@@ -319,10 +331,13 @@ topic cannot be given without splitting it up. Hence,-
 सत्त्वभावसंश्रितास्तर्हि तेषामपि सात्त्विकत्वाद्यथोक्तात्मज्ञानेऽधिकारः
 स्यात् अन्यथा नेति प्रश्नतात्पर्यार्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.1 Arjuna said Now what, O Krsna, is the position or basis of those who leave aside the injunction of the Sastra, yet worship with faith; Is it Sattva, Rajas or Tamas;
@@ -359,11 +374,13 @@ Facilities for learning are not always available.There are conflicting statement
 An ordinary man; though ignorant of or unable to follow this teaching;
 does charity; performs rituals; worships the Lord with faith; tries to follow the footsteps of sages and saints just as a child copies letters that have been written out for him as a model; or as a blind man makes hiw way by the aid of another who possesses sight. What faith is his How should the state of such a man be described -- Sattvic; Rajasic or Tamasic What is the fate of the believers who have no knowledge of the scriptures
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.1।। अर्जुन बोले -- हे कृष्ण ! जो मनुष्य शास्त्र-विधिका त्याग करके
@@ -461,6 +478,7 @@ does charity; performs rituals; worships the Lord with faith; tries to follow th
 ।।17.1।। अर्जुन ने कहा -- हे कृष्ण ! जो लोग शास्त्रविधि को त्यागकर
 (केवल) श्रद्धा युक्त यज्ञ (पूजा) करते हैं, उनकी स्थिति (निष्ठा) कौन सी
 है ;क्या वह सात्त्विक है अथवा राजसिक या तामसिक ;
+</details>
 </details>
 
 </div>

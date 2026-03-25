@@ -28,8 +28,9 @@ title = "15 पश्यामि देवांस्तव"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.15॥  
@@ -49,12 +50,14 @@ title = "15 पश्यामि देवांस्तव"
 
 11.15 Arjuna said O Lord! I behold in Your body all gods and all classes of living beings as also Brahma, the four-faced ruler of the cosmic egg. So too Siva (Isa) who is seated in the lotus-seated Brahma, meaning that Siva abides by the directions of Brahma. So also all the seers of whom the divine seers are the foremost; and lustrous snakes like Vasuki, Taksaka etc.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.15॥ --
 
@@ -131,12 +134,14 @@ serpents-Vasuki and others.
 सर्वान्वसिष्ठादीन्ब्रह्मपुत्रान्। उरगांश्च
 दिव्यानप्राकृतान्वासुकिप्रभृतीन्पश्यामीति सर्वत्रान्वयः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.15॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -145,12 +150,14 @@ serpents-Vasuki and others.
 
 ॥11.15॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.15॥ No commentary.
 </details>
@@ -159,12 +166,14 @@ serpents-Vasuki and others.
 
 11.15 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.15॥ तदेवाह पश्यामीति सप्तदशभिः षोडशकलारूपैः एकेन प्रार्थनं च। हे
 देव श्रीकृष्णेन्दो तव देहे एतस्मिन्विश्वरूपे सर्वान्पश्यामि।
@@ -179,10 +188,13 @@ serpents-Vasuki and others.
 ऋषीन् नारदादीन्; पुनस्तामसान् उरगान् शेषादीन्; तन्मूलभूतं कमलासनस्थं
 नाभिपद्मस्थं; ब्रह्माणम्; ईशं महादेवम्; एवमेतान् सर्वान् पश्यामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.15॥ भाषणमेवाह **-- पश्यामीति सप्तदशभिः।** हे देव; तव देहे;
 देवानादित्यादीन्पश्यामि। तथा सर्वान्भूतविशेषाणां जरायुजाण्डजादीनां
@@ -190,10 +202,13 @@ serpents-Vasuki and others.
 देवानामीशं स्वामिनं ब्रह्माणं च। कथंभूतम्। कमलासनस्थं
 पृथ्वीपद्मकर्णिकायां मेरौ स्थितम्; यद्वा त्वन्नाभिपद्मासनस्थम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.15 Arjuna said I behold, O Lord, in Your body all the gods and all the diverse hosts of beings. Brahma, Siva (Isa) who is in Brahma, the seers and the lustrous snakes.
@@ -230,11 +245,13 @@ divine.Commentary Arjuna describes his own experience of the Cosmic Form in this
 the fourfaced; the Lord of all creatures; is seated in the centre of the earthlotus on the Meru which forms the thalamus as it were of the earthlotus.Sages; such as Vasishtha. Serpents; such as Vasuki.Moreover
 --
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.15।। अर्जुन बोले -- हे देव ! मैं आपके शरीरमें सम्पूर्ण देवताओंको,
@@ -283,6 +300,7 @@ the fourfaced; the Lord of all creatures; is seated in the centre of the earthlo
 ।।11.15।। अर्जुन ने कहा -- हे देव! मैं आपके शरीर में समस्त देवों को तथा
 अनेक भूतविशेषों के समुदायों को और कमलासन पर स्थित सृष्टि के स्वामी
 ब्रह्माजी को, ऋषियों को और दिव्य सर्पों को देख रहा हूँ।।
+</details>
 </details>
 
 </div>

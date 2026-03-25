@@ -23,8 +23,9 @@ title = "24 ब्रह्मार्पणम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥4.24॥ **हविः** विशेष्यते।  
@@ -53,12 +54,14 @@ title = "24 ब्रह्मार्पणम्"
 (Prakrti) as His body in inseparable union with the Whole. So the word
 'Brahman' can, according to the needs of each context, be used to indicate the Supreme Being, the Atman, or Prakrti; In verse 24 it has been used in all these senses. We have therefore put it in italics. See Introduction.) is adjectival to 'the oblation'. That by which an offering is given, such as a ladle, is an Arpana. It is called Brahman because it is an effect of Brahman, Brahman being the material cause of the universe. 'Brahmaarpanam' is the oblation, of which the instrument is Brahman. The oblation, just like the instrument with which it is offered, is also Brahman. It is offered by the agent Brahman into the fire of Brahman. He is the Brahma-karma-samadhi who contemplates thus on all acts as filled with the Supreme Brahman or as having the Supreme Brahman as the Self. He who contemplates on Brahman as the Soul of all actions, reaches Brahman alone, as his own self has the Supreme Brahman as Its Self. The meaning is that the individual self - which is Brahman because of Its having Brahman as Its Self - has to realise Its own real nature. All actions performed by an aspirant for release have the form of knowledge because of their association with the contemplation of the Supreme Brahman as their self. They are a direct means for the vision of the self without the meditation of Jnana Yoga. Thus, Sri Krsna, after explaining how Karma takes the form of knowledge, now speaks of the various kinds of Karma Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥4.24)**ब्रह्म अर्पणं** येन करणेन ब्रह्मवित् हविः अग्नौ अर्पयति तत् ब्रह्मैव इति पश्यति तस्य आत्मव्यतिरेकेण अभावं पश्यति यथा शुक्तिकायां रजताभावं पश्यति तदुच्यते ब्रह्मैव अर्पणमिति यथा यद्रजतं तत् शुक्तिकैवेति। ब्रह्म अर्पणम् इति असमस्ते पदे। यत् अर्पणबुद्ध्या गृह्यते लोके तत् अस्य ब्रह्मविदः ब्रह्मैव इत्यर्थः। **ब्रह्म हविः** तथा यत् हविर्बुद्ध्या गृह्यमाणं तत् ब्रह्मैव अस्य। तथा **ब्रह्माग्नौ** इति समस्तं पदम्। अग्निरपि ब्रह्मैव यत्र हूयते **ब्रह्मणा** कर्त्रा ब्रह्मैव कर्तेत्यर्थः। यत् तेन हुतं हवनक्रिया तत् ब्रह्मैव। यत् **तेन गन्तव्यं** फलं तदपि **ब्रह्मैव ब्रह्मकर्मसमाधिना** ब्रह्मैव कर्म ब्रह्मकर्म तस्मिन् समाधिः यस्य सः ब्रह्मकर्मसमाधिः तेन ब्रह्मकर्मसमाधिना ब्रह्मैव गन्तव्यम्॥ एवं लोकसंग्रहं चिकीर्षुणापि क्रियमाणं कर्म परमार्थतः अकर्म ब्रह्मबुद्ध्युपमृदितत्वात्। एवं सति निवृत्तकर्मणोऽपि सर्वकर्मसंन्यासिनः सम्यग्दर्शनस्तुत्यर्थं यज्ञत्वसंपादनं ज्ञानस्य सुतरामुपपद्यते यत् अर्पणादि अधियज्ञे प्रसिद्धं तत् अस्य अध्यात्मं ब्रह्मैव परमार्थदर्शिन इति। अन्यथा सर्वस्य ब्रह्मत्वे अर्पणादीनामेव विशेषतो ब्रह्मत्वाभिधानम् अनर्थकं स्यात्। तस्मात् ब्रह्मैव इदं सर्वमिति अभिजानतः विदुषः कर्माभावः। कारकबुद्ध्यभावाच्च। न हि कारकबुद्धिरहितं यज्ञाख्यं कर्म दृष्टम्। सर्वमेव अग्निहोत्रादिकं कर्म शब्दसमर्पितदेवताविशेषसंप्रदानादिकारकबुद्धिमत् कर्त्रभिमानफलाभिसंधिमच्च दृष्टम् न उपमृदितक्रियाकारकफलभेदबुद्धिमत् कर्तृत्वाभिमानफलाभिसंधिरहितं वा। इदं तु ब्रह्मबुद्ध्युपमृदितार्पणादिकारकक्रियाफलभेदबुद्धि कर्म। अतः अकर्मैव तत्। तथा च दर्शितम् कर्मण्यकर्म यः पश्येत् कर्मण्यभिप्रवृत्तोऽपि नैव किंचित्करोति सः गुणा गुणेषु वर्तन्ते नैव किंचित्करोमीति युक्तो मन्येत तत्त्ववित् इत्यादिभिः। तथा च दर्शयन् तत्र तत्र क्रियाकारकफलभेदबुद्ध्युपमर्दं करोति। दृष्टा च काम्याग्निहोत्रादौ कामोपमर्देन काम्याग्निहोत्रादिहानिः। तथा मतिपूर्वकामतिपूर्वकादीनां कर्मणां कार्यविशेषस्य आरम्भकत्वं दृष्टम्। तथा इहापि ब्रह्मबुद्ध्युपमृदितार्पणादिकारकक्रियाफलभेदबुद्धेः बाह्यचेष्टामात्रेण कर्मापि विदुषः अकर्म संपद्यते। अतः उक्तम् समग्रं प्रविलीयते इति॥ अत्र केचिदाहुः यत् ब्रह्म तत् अर्पणादीनि ब्रह्मैव किल अर्पणादिना पञ्चविधेन कारकात्मना व्यवस्थितं सत् तदेव कर्म करोति। तत्र न अर्पणादिबुद्धिः निवर्त्यते किं तु अर्पणादिषु ब्रह्मबुद्धिः आधीयते यथा प्रतिमादौ विष्ण्वादिबुद्धिः यथा वा नामादौ ब्रह्मबुद्धिरिति॥  
   
@@ -455,12 +458,14 @@ gods alone,' etc., for eulogizing that Knowledge:
 निराकृतमुपक्रमादिविरोधाद्ब्रह्मविद्याप्रकरणे
 संपन्मात्रस्याप्रसक्तत्वादित्यादियुक्तिभिः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.24॥ ज्ञानावस्थितचेतस्त्वं स्पष्टयति ब्रह्मार्पणमिति।
 सर्वमेतद्ब्रह्मेत्युच्यते तदधीनसत्ताप्रवृत्तिमत्त्वात् न तु
@@ -482,12 +487,14 @@ gods alone,' etc., for eulogizing that Knowledge:
 समाधिर्यस्यासौ तथोक्त इति व्याख्यानं प्रक्रमविरुद्धमिति भावेनान्यथा
 व्याख्याति **समाधिने**ति। समाधिरपि ब्रह्मेत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.24॥ यज्ञायेत्युक्तम् तत्स्वरूपसामान्यं तावदाह ब्रह्मार्पणमिति। ब्रह्मणि अर्पणं तत एव प्रवृत्तस्य पुनस्तत्रैव अनुप्रवेशनं यस्य तत्। ब्रह्म समग्रं विश्वात्माकं यदेतत् हविः तत् ब्रह्मणि परमबोधे प्रशान्ते अग्नौ ब्रह्मणा येन केनचित् कर्मणा हुतं तद्दीप्त्यभिवृद्धये समर्पितम् इति ईदृशं ब्रह्मकर्मैव समाधिः यस्य योगिनः तेन ब्रह्मैव गन्तव्यं ज्ञेय नान्यत् ( नान्यदपि) किञ्चित् अन्याभावात्। यदि वा तदर्थेन यदर्थाक्षेपात् एवं संबन्धः यत् खलु ब्रह्मस्वरूपेण यजमानेन ब्रह्माग्नौ ब्रह्महविर्हुतं ब्रह्मणि(णे) ब्रह्मस्वभावदेवतोद्देशेन अर्पणं यस्य तत् एवंभूतं यत् ब्रह्मकर्म तदेव समाधिः आत्मस्वरूप +++(omits स्वरूप)+++ लाभोपायत्वात् तेन ब्रह्मकर्मसमाधिना नान्यत् फलमवाप्यते अपि तु ब्रह्मैव इति। ये यथा मा प्रपद्यन्ते इति निर्वाहितम्। मितस्वरूपीकृतमदात्मकयज्ञस्वभावा इति तादृशफलभागिन इत्यन्यत् +++(K इत्युक्तम्)+++। अपरिमितपरिपूर्णमदात्मकयज्ञस्वरूपवेदिनस्तु कथं परिमितफललवलापट्यभागिनो भवेयुरिति तात्पर्यम् इति। अनेन श्लोकेन वक्ष्यमाणैश्च श्लोकैः परमं रहस्यमुपनिबद्धम्। तच्चास्माभिर्मितबुद्धिभिरपि यथाबुद्धि यथागुर्वाम्नायं च विवृतम्। मुखसंप्रदायक्रममन्तरेण नैतन्नभश्चित्रमिव चित्तमुपारोहति इति न वयमुपालम्भनीयाः। अत्र कैश्चित् हविषः अग्नेः करणानां च स्रुगादीनां क्रियायाश्च ब्रह्मविशेषणत्वमित्युक्तम् +++(S अत्र हविषः मिति कैश्चिदुक्तम्)+++ तदुपेक्ष्यमेव। तेषां रहस्यसप्रदायक्रमे +++(S संप्रदाये)+++ अक्षुण्णत्वात्।
 </details>
@@ -496,12 +503,14 @@ gods alone,' etc., for eulogizing that Knowledge:
 
 4.24 Brahmarpanam etc. That is to be offered to the Brahman (list) : that, the offering of which is in the Brahman i.e., the reentrance of which is only into That, just from which it has originated. The Brahman (2nd) : That which is the same as the entire universe what we see - this is that very oblation. Into the Brahman-fire : into the fire which is the same as the Brahman, the highly tranil Supreme Consciousness. By the Brahman : by one or the other action. Is poured : is offered for the augmentation of It's lumination. Hence, a man of Yoga, whose Brahman-action of this sort is itself a deep concentration - by him, the Brahman alone is \[a goal\] to be attained i.e., to be realised, not anything else; for there is no other thing. Alternatively \[in the verse\] the meaning 'by him' brings in, by implication, the meaning 'by whom'. So the following is the alignment \[of words\] : The action, in which the Brahman-oblation, intended to be an offering to a deity of the Brahman-nature, has been indeed poured into the Brahman-fire by the sacrificer, identical with the Brahman - that very Brahman-action of this sort is itself a deep contemplaiton, because it is the means to gain the innate nature of the Self. And what is attained by this Brahman-action-contemplation is the very Brahman Itself and not any other fruit. Indeed it has been maintained \[by the Lord\] as : 'The way in which men resort to Me, \[in the same way I favour them\]'. (IV, II) 'Those, who have cultivated the nature of performing sacrifice which is nothing but Me, but of the delimited nature - they attain, therefore, the fruit of similar \[limited\] nature. This is different matter. But, with regard to those who have realised the nature of the sacrifice identical with Me ( the Supreme Consciousness), the Unlimited and complete; how could they be entertaining a craving for a bit of limited fruit ;' This is the idea here. Thus, a top secret is furnished by this and by the succeeding verses. that has been also detailed by us (Ag.) - even though our intelligence is limited - as far as our intelligence permits, by not transgressing the instructions of our preceptors. Maybe, for a person without a regular course of the oral tradition \[of the system\], this looks like a picture painted on the sky and does not appeal to his mind. On that account we should not be blamed. It has been declared by some, in this context, that \[here in this verse\] the oblation, the fire and the instruments like sruk \[used for offering the oblation into the fire in the sacrifice\] and also the act \[of offering\] are all adjectives alifying the Brahmam. This \[explanation\] deserves to be ignored. For, these commentators have not troden on the path of the secret tradition.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.24॥ प्रविलयस्वरूपमाह ब्रह्मार्पणमिति। भावाद्वैतं क्रियाद्वैतं
 द्रव्याद्वैतं उच्यते भगवता स्वमुखेन अग्निहोत्रं तथा दर्शपूर्णमासः
@@ -662,10 +671,13 @@ gods alone,' etc., for eulogizing that Knowledge:
 गन्तव्यं प्राप्तव्यम्। अतो ब्रह्मात्मकत्वात्तत्र लीयत इत्यर्थः। अत एव
 श्रुतिरपि सर्वं खल्विदं ब्रह्म इति ब्रह्मात्मकत्वं सर्वस्याह।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.24॥ तदेवं परमेश्व राराधनलक्षणं कर्म ज्ञानहेतुत्वेन
 बन्धकत्वाभावादकर्मैव। आरूढावस्थायां त्वकर्त्रात्मज्ञानेन
@@ -678,10 +690,13 @@ gods alone,' etc., for eulogizing that Knowledge:
 समाधिश्चित्तैकाग्र्यं यस्य तेन ब्रह्मैव गन्तव्यं प्राप्यं नतु
 फलान्तरमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.24 Brahman is the instrument to offer with; Brahman is the oblation.
@@ -715,11 +730,13 @@ etc.-Tr.\], the oblations is Brahman, the offering is poured by Brahman in the f
 4.24 ब्रह्म Brahman; अर्पणम् the oblation; ब्रह्म Brahman; हविः the clarified butter; ब्रह्माग्नौ in the fire of Brahman; ब्रह्मणा by Brahman; हुतम् is offered; ब्रह्म Brahman; एव only; तेन by him;
 गन्तव्यम् shall be reached; ब्रह्मकर्मसमाधिना by the man who is absorbed in action which is Brahman.Commentary This is JnanaYajna or wisdomsacrifice wherein the idea of Brahman is substituted for the ideas of the instrument and other accessories of action; the idea of action itself and of its results. By entertaining such an idea the whole action melts away; as stated in the previous verse (No.23).When one attains to the knowledge of the Self or Selfrealisation his whole life becomes a wisdomsacrifice in which the oblation; the melted butter or the offering; the performer of the sacrifice; the action and the goal are all Brahman. He who meditates thus wholly upon Brahman shall verily attain to Brahman.The sage who has the knowledge of the Self knows that the oblation; the fire; the instrument by which the melted butter is poured into the fire and himself have no existence apart from that of Brahman. He who has realised through direct cognitio (Anubhava) that all is Brahman; does no action even if he performs actions. (Cf.III.15)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.24।। जिस यज्ञमें अर्पण भी ब्रह्म है, हवी भी ब्रह्म है और ब्रह्मरूप
@@ -797,6 +814,7 @@ etc.-Tr.\], the oblations is Brahman, the offering is poured by Brahman in the f
 (शाकल्य अथवा हवन करने योग्य द्रव्य) भी ब्रह्म है; ब्रह्मरूप अग्नि में
 ब्रह्मरूप कर्ता के द्वारा जो हवन किया गया है, वह भी ब्रह्म ही है। इस
 प्रकार ब्रह्मरूप कर्म में समाधिस्थ पुरुष का गन्तव्य भी ब्रह्म ही है।।
+</details>
 </details>
 
 </div>

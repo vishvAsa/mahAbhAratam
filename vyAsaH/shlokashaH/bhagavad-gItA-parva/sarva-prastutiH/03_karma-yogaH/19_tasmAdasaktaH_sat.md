@@ -32,8 +32,9 @@ title = "19 तस्मादसक्तः सततम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 यस्माद् अ--साधनायत्तात्मदर्शनस्यैव साधन-+अप्रवृत्तिर्,  
@@ -61,12 +62,14 @@ title = "19 तस्मादसक्तः सततम्"
 
 3.19 Therefore, considering that work has to be performed with detachment, you perform it, considering yourself a non-agent. This will be declared in the words 'with detachment' and 'which ought to be done,' meaning that one attains the Supreme by Karma Yoga itself.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.19॥ **तस्मात् असक्तः** सङ्गवर्जितः **सततं** सर्वदा **कार्यं** कर्तव्यं नित्यं **कर्म समाचर** निर्वर्तय। **असक्तो हि** यस्मात् समाचरन् ईश्वरार्थं**कर्म** कुर्वन् **परं** मोक्षम् **आप्नोति पूरुषः** सत्त्वशुद्धिद्वारेण इत्यर्थः॥ यस्माच्च
 </details>
@@ -122,12 +125,14 @@ duty) for the following reason also:
 कुर्वन्सत्त्वशुद्धिज्ञानप्राप्तिद्वारेण परं मोक्षमाप्नोति पूरुषः पुरुषः
 स एव सत्पुरुषो नान्य इत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.19॥ यतोऽसम्प्रज्ञातसमाधेरेव कार्याभावः तस्मात्कर्म समाचर।
 </details>
@@ -141,12 +146,14 @@ duty) for the following reason also:
 परिचोदनायामसम्प्रज्ञातसमाधिस्थविलोपप्रतिबन्दीं मोचयितुं तस्य
 वैलक्षण्यमुक्त्वा तत्फलमिदमुच्यत इति नासङ्गतिः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.17 3.19॥ यश्चेत्यादि पूरुष इत्यन्तम्। आत्मरतेस्तु कर्म इन्द्रियव्यापारतयैव कुर्वतः करणाकरणेषु समता। अत एव नासौ भूतेषु किंचिदात्मप्रयोजनमपेक्ष्य निग्रहानुग्रहौ करोति अपि तु करणीयमिदम् इत्येतावता। तस्मादसक्त एव करणीयं कर्म कुर्यात्।
 </details>
@@ -155,12 +162,14 @@ duty) for the following reason also:
 
 3.17-19 Yas ca etc. upto purusah. However, for a person who rejoices in the Self and performs action simply as a \[routine\] business of organs of action, there is no difference between (his) action and nonaciton. That is why he inflicts punishment on, or does favour to, every being, not with desire for any gain for himself, but with a conviction that it a is thing that deserves to be performed. Therefore, just unattached, one should perform action that is to be performed.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.19॥ त्वं तु न साङ्ख्यज्ञानवान्। यतः तस्मादसक्तः कार्यं कर्म कुरु।
 त्वमिति साङ्ख्ययोगतत्त्वम्। यस्ययद्विहितं नित्यं नैमित्तिकं तदाचरन्
@@ -182,10 +191,13 @@ duty) for the following reason also:
 पुरुषः पुरुषांशो भोक्ताधिकारी। हीति निश्चयेन असक्तः न तु कापट्येन कर्म
 आचरन् परं मोक्षं प्राप्नोतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.19॥ यस्मादेवंभूतस्य ज्ञानिन एव कर्मानुपयोगो नान्यस्य तस्मात्त्वं
 कर्म कुर्विल्याह **तस्मादिति।** असक्तः फलसङ्गरहितः
@@ -193,10 +205,13 @@ duty) for the following reason also:
 यस्मादसक्तः कर्माचरन्पुरुषः परं मोक्षं चित्तशुद्धिं ज्ञानद्वारा
 प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.19 Therefore without attachment do your work which ought to be done.
@@ -230,11 +245,13 @@ attains the Supreme.
 which should be done; कर्म action; समाचर perform; असक्तः without attachment; हि because; आचरन् performing; कर्म action; परम् the Supreme;
 आप्नोति attains; पूरुषः man.Commentary If you perform actions without attachment; for the sake of the Lord; you will attain to Selfrealisation through purity of heart. (Cf.II.64IV.19;23XVIII.49).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.19।। इसलिये तू निरन्तर आसक्तिरहित होकर कर्तव्य-कर्मका भलीभाँति आचरण
@@ -410,6 +427,7 @@ which should be done; कर्म action; समाचर perform; असक्
 
 ।।3.19।। इसलिए, तुम अनासक्त होकर सदैव कर्तव्य कर्म का सम्यक् आचरण करो;
 क्योकि, अनासक्त पुरुष कर्म करता हुआ परमात्मा को प्राप्त होता है।।
+</details>
 </details>
 
 </div>

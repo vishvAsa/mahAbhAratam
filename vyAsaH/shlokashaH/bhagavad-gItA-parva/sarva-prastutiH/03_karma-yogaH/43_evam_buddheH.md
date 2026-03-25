@@ -23,8 +23,9 @@ title = "43 एवम् बुद्धेः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.43॥**एवं बुद्धेः** अपि **परं** कामं ज्ञानविरोधिनं वैरिणं **बुद्ध्वा**  
@@ -43,12 +44,14 @@ title = "43 एवम् बुद्धेः"
 
 3.43 Thus, understanding desire, which is higher than even the intellect, to be the fore antagonistic to Jnana Yoga, and establishing the mind by means of the intellect in Karma Yoga, slay, i.e., destroy this foe, in the shape of desire which is difficult to overcome.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.43॥ **एवं बुद्धेः परम् आत्मानं बुद्ध्वा** ज्ञात्वा **संस्तभ्य** सम्यक् स्तम्भनं कृत्वा आत्मानं स्वेनैव **आत्मना** संस्कृतेन मनसा सम्यक् समाधायेत्यर्थः। **जहि** एनं **शत्रुं** हे **महाबाहो कामरूपं दुरासदं** दुःखेन आसदः आसादनं प्राप्तिः यस्य तं दुरासदं दुर्विज्ञेयानेकविशेषमिति॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्यश्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्येतृतीयोऽध्यायः॥
 </details>
@@ -126,12 +129,14 @@ characteristics.
 उपायः कर्मनिष्ठात्र प्राधान्येनोपसंहृता। उपेया ज्ञाननिष्ठा तु
 तद्गुणत्वेनं कीर्तिता।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.43॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -140,12 +145,14 @@ characteristics.
 
 ॥3.43॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.42 3.43॥ अत्र युक्तिं श्लोकद्वयेनाह +++(S omits श्लोकद्वयेन)+++ इन्द्रियाणीति। एवमिति। यत इन्द्रियाणि शत्रुलक्षणात् विषयात् अन्यानि तेभ्यश्चान्यत् मनः तस्मादपि बुद्धेर्व्यतिरेकः बुद्धेरपि यस्यान्यस्वभावत्वं स आत्मा। एवमिन्द्रियोत्पन्नेन क्रोधेन कथं मनसः बुद्धेरात्मनो वा क्षोभ इति पर्यालोचयेत् इत्यर्थः। रहस्यविदां त्वयमाशयः +++(N ह्ययमाशयः)+++ बुद्धेः यः परत्र वर्तते परोऽहंकारः सर्वमहम् इत्यभेदात्मा स खलु परमोऽभेदः। अत एव च परिपूर्णस्य खण्डनाभावात् न क्रोधादय उत्पद्यन्ते +++(S N उदयन्ते)+++। अतः परमहंकारं परमोत्साहं संविदात्मकं +++(K परोत्साहसंवि )+++ गृहीत्वा क्रोधमविद्यत्मानं शत्रु जहि इति।  
   
@@ -156,12 +163,14 @@ characteristics.
 
 3.42-43 Indriyani etc. Evam etc. 'Because the sense-organs are different from the sense-objects that indicate the foe \[in estion\]; from them the mind is different; from that too different is the intellect; what is instrinsically different from the intellect also is the Self; so due to wrath, risen at the sense-organs, how can there be a disturbance in the mind, in the intellect or in the Self ;' Let one contemplate in this manner. This is what is meant here. This is intention of the experts of the Rahasya \[literature\] : The Supreme I-consciousness viz., the awareness 'All I am', which remains beyond the intellect, and the essence of which allows no difference-that is indeed the highest identity. Therefore no furstration (or cut) can be for That which is complete all around; hence wrath etc., do not rise \[in It\]. Therefore, taking hold of the Supreme Energy which in essence is Consciousness, you must slay the foe, the wrath which is ignorance in essence.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.43॥ एवं बुद्धेः परमवशभूतं तं बुद्ध्वा आत्मना योगशुद्धेनात्मानं मनः
 बुद्धेः परं आत्मानं पुरुषं बुद्ध्वेति केचित्। महाबाहो कामरूपशत्रुं नाशय।
@@ -189,10 +198,13 @@ characteristics.
 त्यजेत्यर्थः। कृतानां कर्मणां योगो यथा सम्भवतीश्वरे॥ श्रीकृष्णेन तथा चायं
 कर्मयोगो निरूपितः॥3॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/43_evam_buddheH.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/43_evam_buddheH.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.43॥ उपसंहरति **एवमिति।** बुद्धेरेव विषयेन्द्रियादिजन्याः
 कामादिविक्रियाः आत्मा तु निर्विकारस्तत्साक्षीत्येवं बुद्धेः परमात्मानं
@@ -200,10 +212,13 @@ characteristics.
 कृत्वा कामरूपं शत्रुं जहि मारय। दुरासदं दुःखेनासादनीयम्।
 दुर्विज्ञेयगतिमित्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.43 Thus, knowing that which is higher than the intellect and fixing the mind with the help of the intellect in Karma Yoga, O Arjuna, slay this enemy which wears the form of desire, and which is difficult to overcome.
@@ -241,11 +256,13 @@ of the form of desire; दुरासदम् hard to coner.Commentary Restrai
 It is difficult to coner desire because it is of a highly complex and incomprehensible nature. But a man of discrimination and dispassion who does constant and intense Sadhana can coner it ite easily. Desire is the ality of Rajas. If you increase the Sattvic ality in you; you can coner desire. Rajas cannot stand before Sattva.Even though desire is hard to coner; it is not impossible. The simple and direct method is to appeal to the Indwelling Presence (God) through prayer and Japa.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal;
 the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the third discourse entitledThe Yoga of Action.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/43_evam_buddheH.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.42 -- 3.43।। इन्द्रियोंको (स्थूलशरीरसे) पर (श्रेष्ठ, सबल, प्रकाशक,
@@ -306,6 +323,7 @@ the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the thi
 ।।3.43।। इस प्रकार बुद्धि से परे (शुद्ध) आत्मा को जानकर आत्मा (बुद्धि)
 के द्वारा आत्मा (मन) को वश में करके, हे महाबाहो ! तुम इस दुर्जेय
 (दुरासदम्) कामरूप शत्रु को मारो।।
+</details>
 </details>
 
 </div>

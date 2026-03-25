@@ -23,8 +23,9 @@ title = "38 धूमेनाव्रियते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.38॥**यथा धूमेन वह्निर् आव्रियते यथा च आदर्शो मलेन यथा** च **उल्बेन आवृतो गर्भस् तथा तेन** कामेन **इदं** जन्तुजातम् **आवृतम्। आवरणप्रकारम् आह**
@@ -39,12 +40,14 @@ title = "38 धूमेनाव्रियते"
 
 3.38 As a fire is enveloped by smoke, as a mirror by dust and as an embryo by the membrance, so are the embodied beings covered by this desire. Sri Krsna teaches the mode of this envelopement:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.38॥ **धूमेन** सहजेन **आव्रियते वह्निः** प्रकाशात्मकः अप्रकाशात्मकेन **यथा** वा **आदर्शो मलेन च यथा उल्बेन** च जरायुणा गर्भवेष्टनेन **आवृतः** आच्छादितः **गर्भः तथा तेन इदम् आवृतम्**॥ किं पुनस्तत् इदंशब्दवाच्यं यत् कामेनावृतमित्युच्यते
 </details>
@@ -110,12 +113,14 @@ and which is covered by desire; The answer is:
 स्वरूपतस्तूपलभ्यतएव। उल्बेनावृतस्तु गर्भो न हस्तपादादिप्रसारणरूपं
 स्वकार्यं करोति न वा स्वरूपत उपलभ्यत इति विशेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.38॥ कथं विरोधी सः इदमनेनावृतम्। यथा धूमेनाग्निरावृतः
 प्रकाशरूपोऽप्यन्येषां न सम्यग्दर्शनाय तथा परमात्मा। यथाऽऽदर्शो
@@ -136,12 +141,14 @@ and which is covered by desire; The answer is:
 सङ्कुचितो व्यापाराक्षम इति यावत्। उल्बो गर्भवेष्टनम्। कामेनावृतो जीवो
 नेश्वरादिज्ञाने क्षम इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.38॥ धूमेनेति। दृष्टान्तत्रयेण दुरुपसर्गत्वम् +++(K दुरुपसर्पत्वम्)+++ अकार्यकरत्वं जुगुप्सास्पदत्वं च उक्तम्। अयमिति आत्मा।
 </details>
@@ -150,12 +157,14 @@ and which is covered by desire; The answer is:
 
 3.38 Dhumena etc. \[The foe's tripple nature viz.\] being a mischivous appendage, himself creating mischieves, and being an object of disgust, is explained by the triad of these similes. He : the Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.38॥ कामस्य वैरित्वमाह धूमेनेति। आर्द्रेन्धनसंयोगजोपधिभूतेनैव सहजेन
 मलेनागन्तुकेन वा उल्बेन सर्वत आच्छादकेन गर्भवेष्टनचर्मणा गर्भ इवावृतं
@@ -171,20 +180,26 @@ and which is covered by desire; The answer is:
 भगवत्तापात्मकं ज्ञानं व्यज्यते द्वितीयेन सेवायोग्यस्वस्वरूपप्राप्तिरूपं
 ज्ञानं व्यज्यते तृतीयेन बीजभावोत्पत्त्यात्मकज्ञानं व्यज्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/38_dhUmenAvriyate.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/38_dhUmenAvriyate.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.38॥ कामस्य वैरित्वं दर्शयति **धूमेनेति।** यथा धूमेन सहजेन
 वह्निराव्रियत आच्छाद्यते यथा वाऽऽदर्शो मलेनागन्तुकेन यथा चोल्बेन
 गर्भवेष्टनचर्मणा गर्भः सर्वतो निरुध्यावृतः तथा प्रकारत्रयेणापि तेन
 कामेनावृतमिदम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.38 As a fire is enveloped by smoke, as a mirror is covered by dust,
@@ -221,11 +236,13 @@ enveloped; गर्भः embryo; तथा so; तेन by it; इदम् t
 enveloped.Commentary This means the universe. This also means knowledge.
 That means desire.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/38_dhUmenAvriyate.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.38।। जैसे धुएँसे अग्नि और मैलसे दर्पण ढक जाता है तथा जैसे जेरसे गर्भ
@@ -305,6 +322,7 @@ That means desire.
 ।।3.38।। जैसे धुयें से अग्नि और धूलि से दर्पण ढक जाता है तथा जैसे भ्रूण
 गर्भाशय से ढका रहता है, वैसे उस (काम) के द्वारा यह (ज्ञान) आवृत होता
 है।।
+</details>
 </details>
 
 </div>

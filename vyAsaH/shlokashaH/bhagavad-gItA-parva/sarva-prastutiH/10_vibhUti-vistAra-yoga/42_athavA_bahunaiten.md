@@ -23,8 +23,9 @@ title = "42 अथवा बहुनैतेन"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.42॥**बहुना ऐतेन** उच्यमानेन **ज्ञानेन किं** प्रयोजनम् **इदं** चिदचिदात्मकं **कृत्स्नं जगत्** कार्यावस्थं कारणावस्थं स्थूलं सूक्ष्मं च स्वरूपसद्भावे स्थितौ प्रवृत्तिभेदे च यथा मत्सङ्कल्पं न अतिवर्तेत तथा मम महिम्नो ऽयुतायुतांशेन **विष्टभ्य अहम् अवस्थितः।** यथा उक्तं भगवता पराशरेण -- यस्यायुतायुतांशांशे विश्वशक्तिरियं स्थिता। (वि॰ पु॰ 1।9।53) इति।
@@ -39,12 +40,14 @@ title = "42 अथवा बहुनैतेन"
 
 10.42 What is the use to you of this detailed knowledge taught by Me; I sustain this universe with an infinitesimal fraction of My power - this universe consisting of sentient and non-sentient entities, whether in effect or causal condition, whether gross or subtle - in such a manner that it does not violate My will in preserving its proper form, existence and various activities. As said by Bhagavan Parasara: 'On an infinitesimal fraction of this energy, this universe rests' (V. P., 1.9.53).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.42॥ --,**अथवा बहुना एतेन** एवमादिना **किं ज्ञातेन तव अर्जुन** स्यात् सावशेषेण। अशेषतः त्वम् उच्यमानम् अर्थं श्रृणु -- **विष्टभ्य** विशेषतः स्तम्भनं दृढं कृत्वा **इदं कृत्स्नं जगत् एकांशेन** एकावयवेन एकपादेन; सर्वभूतस्वरूपेण इत्येतत् तथा च मन्त्रवर्णः -- पादोऽस्य विश्वा भूतानि (तै0 आर0 3।12) **इति स्थितः** अहम् इति॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य,श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
   
@@ -133,12 +136,14 @@ established.\]
   
 त्वत्पादपद्मविगलन्मकरन्दबिन्दुमास्वाद्य माद्यति मुहुर्मधुभिन्मनो मे॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.42॥ किमिति वक्ष्यमाणप्राधान्यज्ञापनार्थं; न तूक्तनिष्फलत्वज्ञानाय।
 तथा सति नोच्येत। अज्ञात्वैनं सविशेषयुक्तं देवं वरं को विमुच्येत बन्धात्
@@ -174,12 +179,14 @@ established.\]
 इत्यत आह -- **प्राधान्यं चे**ति। यो मां इति विशिष्टफलकथनात्।
 न्यायसिद्धोऽप्यर्थो वाक्यसम्मत्या दृढो भवतीत्येतदुक्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -188,12 +195,14 @@ established.\]
 
 10.19-42 Hanta te etc. upto jagat sthitah. I am the Soul etc. (verse 20) : By this \[the Bhagavat\] wards off the exclusion \[of any being as different form Him\]. Otherwise the sentences like 'Of the immovable \[I am\] the the Himalayas' (verse 25) etc., would amount to the exclusive statement that the Himalayan range is the Bhagavat and not any other one. In that case, the indiscriminateness of the Brahman is not established and hence the realisation of the Brahman would be a partial (or conditioned) one. For, the \[present\] text of exposition is intended for that seeker whose mind cannot contemplate on the all-pervasiveness \[of the Brahman\], but who \[at the same time\] is desirous of realising that \[all-pervasiveness\]. Hence, while concluding, \[the Bhagavat\] teaches the theory of duality-cumunity by saying 'whatsoever being exists with the manifesting power' etc., and then concludes the topic with the theory of absolute unity, as 'Or what is the use of this elaboration;I remain pervading this \[universe\] by a single fraction \[of Myself\] This has been declared indeed \[in the scriptures\] as : 'All beings constitute \[only\] His one-fourth; His \[other\] immortal three-forths are in the heaven.' (Rgveda, X, xc, 3). Thus, all this and the prime cause of creatures, are nothing but the Bhagavat (Absolute). And hence, He Himself becomes the object of knowledge of all, but being comprehended with the different strange alities.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.42॥ एवं विभूतिप्रक्रियां योगे निपात्योसंहरति -- अथवेति। अथवा
 बहुनैतेनोच्यमानेनेह ज्ञातेन विशेषेण तव किं अहं पुरुषोत्तमोऽधिदेव
@@ -216,20 +225,26 @@ established.\]
   
 इति श्रीभगवद्गीतामृततरङ्गिण्यां दशमोऽध्यायः॥10॥
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.42॥ अथवा किमनेन परिच्छिन्नज्ञानेन सर्वत्र समदृष्टिमेव कुर्वित्याह
 **-- अथवेति।** बहुना पृथग्ज्ञातेन किं तव कार्यं। यदिदं सर्वं
 जगदेकांशेनैकदेशमात्रेण विष्टभ्य धृत्वा व्याप्येति वाहमेव स्थितः न
 मद्व्यतिरिक्तं किंचिदस्तिपादोऽस्य विश्वा भूतानि इति श्रुतेः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.42 But of what use to you is all this extensive knowledge O Arjuna; I stand sustaining this whole universe with a fragment of Mine (of My power).
@@ -265,11 +280,13 @@ or by one foot. One part of Myself constitutes all beings.All beings form His fo
   
 ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.42।। अथवा हे अर्जुन ! तुम्हें इस प्रकार बहुत-सी बातें जाननेकी क्या
@@ -320,6 +337,7 @@ or by one foot. One part of Myself constitutes all beings.All beings form His fo
 
 ।।10.42।। अथवा हे अर्जुन ! बहुत जानने से तुम्हारा क्या प्रयोजन है; मैं
 इस सम्पूर्ण जगत् को अपने एक अंश मात्र से धारण करके स्थित हूँ।।
+</details>
 </details>
 
 </div>

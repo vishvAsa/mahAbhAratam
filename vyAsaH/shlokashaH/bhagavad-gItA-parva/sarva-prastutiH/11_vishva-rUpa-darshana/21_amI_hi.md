@@ -25,8 +25,9 @@ title = "21 अमी हि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.21॥**अमी सुरसङ्घा उत्कृष्टास् त्वां** विश्वाश्रयम् अवलोक्य हृष्टमनसस् त्वत्समीपं **विशन्ति।** तेष्व् एव **केचिद्** अत्य् उग्रम् अत्य् अद्भुतं च तव आकारम् आलोक्य **भीताः प्राञ्जलयः** स्वज्ञानानुगुणं स्तुतिरूपाणि वाक्यानि **गृणन्ति** उच्चारयन्ति। अपरे महर्षिसङ्घाः सिद्धसङ्घाश् चपरावरतत्त्वयाथात्म्यविदः **स्वस्ति इत्य् उक्त्वा पुष्कलाभिः** भगवदनुरूपाभिः **स्तुतिभिः स्तुवन्ति।**
@@ -41,12 +42,14 @@ title = "21 अमी हि"
 
 11.21 These hosts of superior Devas beholding You as the foundation of the universe, rejoice and move towards You. Among them, some in fear, on seeing Your extremely terrible and wonderful form, 'extol,' namely pronounce sentences in the form of praise, according to their knowledge. Others, the bands of seers and Siddhas, knowers of the truth, higher and lower, saying 'Hail,' glorify You in hymns of abounding praise which are suitable to the Lord.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.21॥ --,**अमी हि** युध्यमाना योद्धारः **त्वा** त्वां **सुरसंघाः** ये अत्र भूभारावताराय अवतीर्णाः वस्वादिदेवसंघाः मनुष्यसंस्थानाः त्वां **विशन्ति** प्रविशन्तः दृश्यन्ते। तत्र **केचित् भीताः प्राञ्जलयः** सन्तो **गृणन्ति** स्तुवन्ति त्वाम् अन्ये पलायनेऽपि अशक्ताः सन्तः। युद्धे प्रत्युपस्थिते उत्पातादिनिमित्तानि उपलक्ष्य **स्वस्ति** अस्तु जगतः **इति उक्त्त्वा महर्षिसिद्धसंघाः** महर्षीणां सिद्धानां च संघाः **स्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः** संपूर्णाभिः॥ किं चान्यत् --,
 </details>
@@ -130,12 +133,14 @@ further,
 स्तुवन्ति त्वां स्तुतिभिर्गुणोत्कर्षप्रतिपादिकाभिर्वाग्भिः पुष्कलाभिः
 परिपूर्णार्थाभिः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.21॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -144,12 +149,14 @@ further,
 
 ॥11.21॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.21॥ No commentary.
 </details>
@@ -158,12 +165,14 @@ further,
 
 11.21 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.21॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -177,20 +186,26 @@ further,
 समूहाःस्वस्ति अस्माकमस्तु इत्युक्त्वा पुष्कलाभिः पूर्णाभिः
 स्तुतिभिस्त्वां स्तुवन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/21_amI_hi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/21_amI_hi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.21॥ किंच **-- अमी हीति।** अमी सुरसङ्घा भीताः सन्तः त्वां विशन्ति
 शरणं प्रविशन्ति। तेषां मध्ये केचिदतिभीताः दूरत एव स्थित्वा
 कृतसंपुटकरयुगुलाः सन्तो गृणन्ति जयजय रक्षरक्षेति प्रार्थयन्ते।
 स्पष्टमन्यत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.21 Verily into You the hosts of Devas enter. Some in fear extol You with clasped hands. Crying 'Hail' the bands of great seers and Siddhas praise You with meaningful hymns.
@@ -225,11 +240,13 @@ further,
 महर्षिसिद्धसङ्घाः bands of great Rishis and Siddhas; स्तुवन्ति paise;
 त्वाम् Thee; स्तुतिभिः with hymns; पुष्कलाभिः complete.Commentary Pushkalabhih means complete or wellworded praises or praises full of deep meanings.Great sages like Narada and perfected ones like Kapila praise Thee with inspiring hymns.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/21_amI_hi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.21।। वे ही देवताओंके समुदाय आपमें प्रविष्ट हो रहे हैं। उनमेंसे कई
@@ -298,6 +315,7 @@ further,
 भयभीत होकर हाथ जोड़े हुए आप की स्तुति करते हैं; महर्षि और सिद्धों के
 समुदाय 'कल्याण होवे' (स्वस्तिवाचन करते हुए) ऐसा कहकर, उत्तम (या
 सम्पूर्ण) स्रोतों द्वारा आपकी स्तुति करते हैं।।
+</details>
 </details>
 
 </div>

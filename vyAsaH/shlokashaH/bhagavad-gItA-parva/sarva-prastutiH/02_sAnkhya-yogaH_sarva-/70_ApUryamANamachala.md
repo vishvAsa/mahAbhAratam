@@ -25,8 +25,9 @@ title = "70 आपूर्यमाणमचलप्रतिष्ठं"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.70॥ यथा आत्मना एव **आपूर्यमाणम्** एकरूपं **समुद्रं** नादेया **आपः प्रविशन्ति** आसाम् अपां प्रवेशे अप्य् अप्रवेशे वा समुद्रो न कञ्चन विशेषम् आपद्यते। एवं **सर्वे कामाः** शब्दादिविषया **यं** संयमिनं **प्रविशन्ति** इन्द्रियगोचरतां यान्ति **स शान्तिम् आप्नोति।** शब्दादिष्व् इन्द्रियगोचरताम् आपन्नेष्व् अनापन्नेषु च स्वात्मावलोकनतृप्त्या एव यो न विकारम् आप्नोति स एव शान्तिम् आप्नोति इत्यर्थः **न कामकामी** यः शब्दादिभिर्विक्रियते स कदाचिद् अपि न शान्तिम् आप्नोति।
@@ -43,12 +44,14 @@ title = "70 आपूर्यमाणमचलप्रतिष्ठं"
 
 2.70 The river waters enter into the sea which is full by itself and is thus the same, i.e., unchanging in shape. The sea exhibits no special increase or decrease, whether the waters or rivers enter it or not. Even so do all objects of desire, i.e., objects of sense perception like sound etc., enter into a self-controlled one, i.e., they produce only sensorial impressions but no reaction from him. Such a person will attain peace. The meaning is that he alone attains to peace, who by reason of the contentment coming from the vision of the self, feels no disturbance when objects of sense like sound, etc., come within the ken of the senses or when they do not come. This is not the case with one who runs after desires. Whoever is agitated by sound and other objects, never attains to peace.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.70॥  
   
@@ -196,12 +199,14 @@ is so, therefore.
 ज्ञानिन एव फलभूतो विद्वत्संन्यासस्तस्यैव च सर्वविक्षेपनिवृत्तिरूपा
 जीवन्मुक्तिर्दैवाधीनविषयभोगेऽपि निर्विकारतेत्यादिकमुक्तं वेदितव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.70॥ तेन विषयानुभवप्रकारमाह आपूर्यमाणमिति। यो
 विषयैरापूर्यमाणोऽप्यचलप्रतिष्ठो भवति नोत्सेकं प्राप्नोति न च प्रयत्नं
@@ -224,12 +229,14 @@ is so, therefore.
 इत्यस्यार्थमाह **स** इति। ज्ञानिप्रशंसार्थमेतत्। एतद्दृष्ट्वा
 केचिज्ज्ञानिन एव मुक्तिरित्यनेनाहेत्याहुः तदसत् गतार्थत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.72॥ अत एव  
 आपूर्यमाणमिति। योगी न कामार्थ बहिर्धावति अपि तु इन्द्रियधर्मतया तं +++(N omit तं and read विषयानुप्रविशन्तो)+++ नतरां यान्ति ( न तरंगयन्ति) विषया अनुप्रविशन्तो न तरङ्गयन्ति नदीवेगा इवोदधिम्। एवं तृतीयो निर्णीतः।
@@ -239,12 +246,14 @@ is so, therefore.
 
 2.70 Apuryamanam etc. the man of Yoga does not run out for the sake of pleasure; but, rather just as the floods of the rivers enter into the sea, the objects of pleasure \[themselves\] continuously enter into him on account of their being peculiar attributes of the sense-organs; and they do not create in him waves \[of agitation\]. thus the third estion is decided.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.70॥ अन्यच्च। यथा समुद्रो न कं प्रतियाति किन्तु तं प्रत्येवापः सर्वा
 यान्ति तथा कामाः सर्वे तमेव विशन्ति तत आप्तकामः स शानतिमाप्नोति
@@ -265,10 +274,13 @@ is so, therefore.
 तम्। योऽदृष्ट्वापि कामयते तदर्थं वा स शान्तिं परमानन्दमाप्नोति न तु
 स्वार्थं कामाभिलाषीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.70॥ ननु विषयेषु दृष्ट्यभावे कथमसौ तान्भुङ्क्त इत्यपेक्षायामाह
 **आपूर्यमाणमिति।** नानानदीभिरापूर्यमाणमपि
@@ -277,10 +289,13 @@ is so, therefore.
 प्रारब्धकर्मभिराक्षिप्ताः सन्तः प्रविशन्ति स शान्तिं कैवल्यं प्राप्नोति
 नतु कामकामी भोगकामनाशीलः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.70 He into whom all desires enter as the waters enter the full and undisturbed sea, attains to peace, and not he who longs after objects of desire.
@@ -315,11 +330,13 @@ he into whom all objects of desire enter-he attains peace; not he who longs for 
 शान्तिम् peace; आप्नोति attains; न not; कामकामी desirer of desires.Commentary Just as the ocean filled with waters from all sides remains unmoved; so also the sage who is resting in his own Svarupa or the Self is not a bit affected though desires of all sorts enter from all sides. The sage attains peace or liberation but not he who longs for objects of sensual enjoyment and entertains various desires.
 (Cf.XVIII.53;54).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.70।। जैसे सम्पूर्ण नदियोंका जल चारों ओरसे जलद्वारा परिपूर्ण
@@ -434,6 +451,7 @@ he into whom all objects of desire enter-he attains peace; not he who longs for 
 नदियों के) जल (उसे विचलित किये बिना) समा जाते हैं; वैसे ही जिस पुरुष के
 प्रति कामनाओं के विषय उसमें (विकार उत्पन्न किये बिना) समा जाते हैं; वह
 पुरुष शान्ति प्राप्त करता है; न कि भोगों की कामना करने वाला पुरुष।।
+</details>
 </details>
 
 </div>

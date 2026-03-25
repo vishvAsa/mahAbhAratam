@@ -23,8 +23,9 @@ title = "10 न द्वेष्ट्यकुशलम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.10॥ एवं **सत्त्वसमाविष्टो मेधावी** यथावस्थिततत्त्वज्ञानस् तत एव **छिन्नसंशयः** कर्मणि सङ्गफलकर्तृत्व**त्यागी न द्वेष्ट्य् अकुशलं कर्म कुशले च** कर्मणि **न अनुषज्जते। अकुशलं कर्म अनिष्टफलम्; कुशलं च कर्म इष्टरूपस्वर्गपुत्रपश्वन्नादिफलं सर्वस्मिन् कर्मणि ममतारहितत्वात् त्यक्तब्रह्मव्यतिरिक्तसर्वफलत्वात्; त्यक्तकर्तृत्वाच् च तयोः क्रियमाणयोः प्रीतिद्वेषौ न करोति। अनिष्टफलं पापं कर्म अत्र प्रामादिकम् अभिप्रेतम्;नाविरतो दुश्चरितान्नाशान्तो नासमाहितः। नाशान्तमानसो वापि प्रज्ञानेनैनमाप्नुयात्॥ (कठ॰ उ॰ 1।2।24) इति दुश्चरिताविरतेर् ज्ञानोत्पत्तिविरोधित्वश्रवणात्। अतः कर्मणि कर्तृत्वसङ्गफलानां त्यागः शास्त्रीयस् त्यागः न कर्मस्वरूपत्यागः। तद् आह --**
@@ -41,12 +42,14 @@ title = "10 न द्वेष्ट्यकुशलम्"
 'having all doubts shattered' - he alone becomes a renouncer of
 attachment to work and the fruits of work. He 'neither hates works productive of harmful effects,' nor 'loves others productive of worldly prosperity.' Disagreeable acts are fraught with undesirable fruits; and agreeable acts bring about desirable results such as heaven, sons, cows, food etc. On account of his renouncing all results other than the Brahman and on account of his renouncing the sense of agency, he shows neither love nor hatred for above-mentioned types of works. Here 'sinful acts having undesirable fruits' are only such acts as are inadvertently performed. For it has been taught in the Srutis that nor turning away from bad conduct is antagonistic to the production of knowledge. 'But one who has not ceased from bad conduct, who is not tranil, is not composed, is not of peaceful mind, cannot obtain Him by knowledge' (Ka. U., 1.2.24). Thus, 'the abandonment' according to the Sastras is renunciation of the sense of agency, attachment and fruits of actions, and not total relinishment of actions as such. He explains this further:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.10॥ --,**न द्वेष्टि अकुशलम्** अशोभनं काम्यं **कर्म;** शरीरारम्भद्वारेण संसारकारणम्; किमनेन इत्येवम्। **कुशले** शोभने नित्ये कर्मणि सत्त्वशुद्धिज्ञानोत्पत्तितन्निष्ठाहेतुत्वेन मोक्षकारणम् इदम् इत्येवं न **अनुषज्जते** अनुषङ्गं प्रीतिं न करोति इत्येतत्। कः पुनः असौ त्यागी पूर्वोक्तेन सङ्गफलत्यागेन तद्वान् **त्यागी;** यः कर्मणि सङ्गं त्यक्त्वा तत्फलं च नित्यकर्मानुष्ठायी सः त्यागी। कदा पुनः असौ अकुशलं कर्म न द्वेष्टि; कुशले च न अनुषज्जते इति; उच्यते -- **सत्त्वसमाविष्टः** यदा सत्त्वेन आत्मानात्मविवेकविज्ञानहेतुना समाविष्टः संव्याप्तः; संयुक्त इत्येतत्। अत एव च **मेधावी** मेधया आत्मज्ञानलक्षणया प्रज्ञया संयुक्तः तद्वान् मेधावी। मेधावित्वादेव **च्छिन्नसंशयः** छिन्नः अविद्याकृतः संशयः यस्य आत्मस्वरूपावस्थानमेव परं निःश्रेयससाधनम्; न अन्यत् किञ्चित् इत्येवं निश्चयेन च्छिन्नसंशयः॥  
   
@@ -281,12 +284,14 @@ says:
 परावरे इति। यस्मादेवं सात्त्विकस्य त्यागस्य फलं तस्मान्महतापि यत्नेन स
 एवोपादेय इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.10॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -295,12 +300,14 @@ says:
 
 ॥18.10॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.4 -- 18.11॥ तदत्रैव विशेषनिर्णयाय मतान्युपन्यस्यति -- त्याज्यमिति। दोषवत् हिंसादिमत्त्वात् +++(S हिंसादित्त्वात ;N हिंसादिसत्त्वात् )+++ पापयुक्तम्। तत् कर्म,+++(S;;N substitutes फलं for कर्म )+++ त्याज्यम्; न सर्वं शुभफलम् इति केचित् त्यागे विशेषं मन्यन्ते साङ्ख्यगृह्या इव। अन्ये तु मीमांसककञ्चुकानुप्रविष्टाः +++(K मीमांसाकंचुक -- )+++ -- क्रत्वर्थोऽहि शास्त्रादवगम्यते +++(S. IV; i; 2 )+++ इति। तथातस्माद्या वैदिकी हिंसा -- +++(SV. I; i; 2; verse 23 )+++इत्यादिनयेन इतिकर्तव्यतांशभागिनी हिंसा +++(S;;N omit हिंसा )+++ हिंसैव न भवति। न हिंस्यात् इति सामान्यशास्त्रस्य तत्र बाधनात् श्येनाद्येव तु ( श्येन द्येव न तु ) हिंसा। फलांशे भावनायाश्च प्रत्ययोऽनुविधायकः +++(SV; I; i; 2; verse 222 )+++ इति। अ \[ तोऽ \] न्यान् हिंसादियोगिनोऽपि न त्यजेत्। शास्त्रैकशरणकार्याकार्यविभागाः पण्डिता इति मन्यन्ते॥3॥ निश्चयमित्यादि अभिधीयते इत्यन्तम्। तत्र त्वयं निश्चयः -- प्राग्लक्षितगुणस्वरूपवैचित्र्यात् त्यागस्यैव सत्त्वरजस्तमोमय्या चित्तवृत्त्या क्रियमाणस्य तद्विशिष्टस्वभावावभासित \[ त्वात् \] वस्तुस्थित्या त्यागो नाम परब्रह्मविदां +++(; N परमब्रह्म -- )+++ सिद्ध्यसिद्ध्यादिषु समतया रागद्वेषपरिहारेण फलप्रेप्साविरहेण ( फलप्रेक्षा) कर्मणां निर्वर्त्तनम्। अत एव आह -- राजसं तामसं च त्यागं कृत्वा न कश्चित् ( न किंचित् ) \[ त्याग \] फलसंबन्धः; इति। सात्त्विकस्य तु त्यागात् ( त्यागस्य )। शास्त्रार्थपालनात्मकं फलम्। त्यक्तगुणग्रामग्रहस्य पुनर्मुनेः सत्यतः त्यागवाचो युक्तिरुपपत्तिमती।
 </details>
@@ -309,12 +316,14 @@ says:
 
 18.10 See Comment under 18.11
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.10 -- 18.11॥ एवम्भूतस्य लक्षणमाह -- न द्वेष्टीति।
 सत्त्वसमाविष्टस्त्यागी बुद्धिमान् अकुशलं कर्मानिष्टफलकं; कुशले
@@ -342,10 +351,13 @@ says:
 छिन्नसन्देहः मदिच्छयैव सुखदुःखादिज्ञानेन कर्मसु द्वेषासक्तिरहितो यः स
 त्यागी इति ज्ञातव्य इत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.10॥ एवंभूतसात्त्विकत्यागपरिनिष्ठितस्य लक्षणमाह **-- न द्वेष्टीति।**
 सत्त्वसमाविष्टः सत्त्वेन संव्याप्तः सात्त्विकत्यागी अकुशलं दुःखावहं
@@ -356,10 +368,13 @@ says:
 अतएव छिन्नः संशयो मिथ्याज्ञानं दैहिकसुखदुःखयोरुपादित्सापरिजिहीर्षालक्षणं
 यस्य सः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.10 One who has abandoned, who is imbued with Sattva, who is wise,
@@ -397,11 +412,13 @@ Sanchita and Agami) affect me Does this Samsara whose nature is the feelings I d
 he feels that he is a Kritakritya; one who has accomplished all actions.This does not mean that he will do wrong actions. As his will is one with the cosmic will; whatever action he performs will be in accordance with the scriptures. He will never deviate even a fraction of an inch from the rules of the scriptures. The Lord alone works through his mind and senses as he has no individual will.RagaDvesha (likes and dislikes) are the motives that induce a worldly man to actions. As they are absent in a sage or a Medhavi; he can renounce the fruits of all actions and actions as well.As the ocean remains calm amidst stormy waves; even so a Sattvic man remains calm amidst adverse or stormy conditions of life. He recognises that the happenings of life are inevitable. He acts in a variety of ways but is not disturbed as he has a balanced and disciplined mind.There must be no hatred for unpleasant or disagreeable action that brings physical suffering; danger or unlucky results or untoward conseences; when it is the work that should be done.
 You will have to accept such work also with a willing heart and work with hear and soul. You must have a profound and comprehensive understanding of its need and meaning also. Arjuna failed to understand in the beginning the deep significance and need of the work given by the Lord. He brought in his own foolish philosophy. He failed to do his bounden duty because; due to ignorance; he thought it was an unpleasant or disagreeable action to kill people but in the end when his eyes were opened by the valuable teachings of the Lord; he understood the need and the meaning of the work although it appeared to him as disagreeable and unpleasant in the beginning; and said My illusion is destroyed. I have gained knowledge through Thy grace; O Krishna. I am firm; my doubts are gone. I will act according to Thy instructions.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.10।। जो अकुशल कर्मसे द्वेष नहीं करता और कुशल कर्ममें आसक्त नहीं
@@ -502,6 +519,7 @@ You will have to accept such work also with a willing heart and work with hear a
 ।।18.10।। जो पुरुष अकुशल (अशुभ) कर्म से द्वेष नहीं करता और कुशल (शुभ)
 कर्म में आसक्त नहीं होता, वह सत्त्वगुण से सम्पन्न पुरुष संशयरहित, मेधावी
 (ज्ञानी) और त्यागी है।।
+</details>
 </details>
 
 </div>

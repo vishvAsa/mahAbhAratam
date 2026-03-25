@@ -26,8 +26,9 @@ title = "19 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.19॥ श्रीभगवानुवाच -- हे **कुरुश्रेष्ठ** मदीयाः कल्याणीः **विभूतीः प्राधान्यतस् ते कथयिष्यामि।** प्राधान्यशब्देन उत्कर्षो विवक्षितः;पुरोधसां च मुख्यं माम् (गीता 10।24) इति हि वक्ष्यते। जगत्य् उत्कृष्टाः काश्चन विभूतीर् वक्ष्यामि; विस्तरेण वक्तुं श्रोतुं च न शक्यते; तासाम् आनन्त्यात्। विभूतित्वं नाम नियाम्यत्वम्; सर्वेषां भूतानां बुद्ध्यादयः पृथग्विधा भावा मत्त एव भवन्ति इत्य् उक्त्वाएतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः। (गीता 10।7) इति प्रतिपादनात्। तथा तत्र योगशब्दनिर्दिष्टं स्रष्टृत्वादिकं विभूतिशब्दनिर्दिष्टं तत्प्रवर्त्यत्वम् इति युक्तम्। पुनश्चअहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते। इति मत्वा भजन्ते मां बुधा भावसमन्विताः॥ (गीता 10।8) इत्य् उक्तम्। तत्र सर्वभूतानां प्रवर्तनरूपं नियमनम् आत्मतया अवस्थाय इति इमम् अर्थं योगशब्दनिर्दिष्टं सर्वस्य स्रष्टृत्वं पालयितृत्वं संहर्तृत्वं च इति सुस्पष्टम् आह --
@@ -44,12 +45,14 @@ title = "19 श्री भगवानुवाच"
 'Pradhanya' connotes pre-eminence. For it will be said, 'Know Me to be the chief among family priests' (10.24). I shall declare to you those that are prominent in the world. For it would not be possible to tell or listen to them in detail, because there is no limit to them. To be a Vibhuti, the manifestation referred to should be under the control of the Lord; because it is stated: 'He who in truth knows this supernal manifestation and the seat of auspicious attributes' (10.7), after listing the various kinds of mental dispositions like intelligence etc.,
 of all beings. Similarly it has been stated there that 'being the creator etc.,' is meant by the term Yoga, and that their 'being actuated,' meant by the term Vibhuti. Again it is stated: 'I am the origin of all; from me proceed everything; thinking thus, the wise worship Me with all devotion' (10.8). Sri Krsna clearly declares that he rules over all creatures by actuating them from within as their Self. He also declares His being the creator, sustainer and destroyer of everything, as connected by the term Yoga.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.19॥ --,**हन्त** इदानीं **ते** तव **दिव्याः** दिवि भवाः **आत्मविभूतयः** आत्मनः मम विभूतयः याः ताः **कथयिष्यामि** इत्येतत्। **प्राधान्यतः** यत्र यत्र प्रधाना या या विभूतिः तां तां प्रधानां प्राधान्यतः कथयिष्यामि अहं **कुरुश्रेष्ठ।** अशेषतस्तु वर्षशतेनापि न शक्या वक्तुम्; यतः **नास्ति अन्तः विस्तरस्य मे** मम विभूतीनाम् इत्यर्थः॥ तत्र प्रथममेव तावत् श्रृणु --,
 </details>
@@ -114,12 +117,14 @@ those, now listen to the foremost:'
 नास्त्यन्तो विस्तरस्य मे विभूतीनां; अतः प्रधानभूताः,काश्चिदेव
 विभूतीर्वक्ष्यामीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.19॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -128,12 +133,14 @@ those, now listen to the foremost:'
 
 ॥10.19॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.19 -- 10.42॥ हन्त ते कथयिष्यामीत्यादि जगत्स्थित इत्यन्तम्। अहमात्मा (श्लो. 20) इत्यनेन व्यवच्छेदं वारयति। अन्यथा स्थावराणां हिमालय इत्यादिवाक्येषु हिमालय एव भगवान् नान्य इति व्यवच्छेदेन; निर्विभागत्वाभावात् ब्रह्मदर्शनं खण्डितम् अभविष्यत्। यतो यस्याखण्डाकारा व्याप्तिस्तथा चेतसि न उपारोहति; तां च \[यो\] जिज्ञासति तस्यायमुपदेशग्रन्थः। तथाहि उपसंहारे ( उपसंहारेण) भेदाभेदवादं,यद्यद्विभूतिमत्सत्त्वम् (श्लो -- 41) इत्यनेनाभिधाय; पश्चादभेदमेवोपसंहरति अथवा बहुनैतेन -- विष्टभ्याहमिदं -- एकांशेन जगत् स्थितः (श्लो -- 42) इति। उक्तं हि -- पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि॥ इति -- RV; X; 90; 3प्रजानां सृष्टिहेतुः सर्वमिदं भगवत्तत्त्वमेव तैस्तेर्विचित्रै रूपैर्भाव्यमानं +++(S तत्त्वमेतैस्तैर्विचित्रैः रूपैः ; N -- विचित्ररूपै -- )+++ सकलस्य +++(S;N सकलमस्य)+++ विषयतां यातीति।
 </details>
@@ -142,12 +149,14 @@ those, now listen to the foremost:'
 
 10.19 See Comment under 10.42
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.19॥ एवं प्रार्थितः श्रीभगवानुवाच -- हन्तेति। अनुकम्पा सम्बोधने। या
 दिव्या ममात्मविभूतयस्ता वक्ष्यामि। तत्रापि प्राधान्यतः; न तु सामस्त्येन
@@ -169,20 +178,26 @@ those, now listen to the foremost:'
 इत्यत आह -- नास्तीति। मे विभूतीनां विस्तरस्य अन्तो नास्ति।
 अतस्त्वत्पृष्टत्वाद्योग्या एव कथयिष्यामीति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.19॥ एवं प्रार्थितः सन् श्रीभगवानुवाच **-- हन्तेति।**
 हन्तेत्यनुकम्पासंबोधनम्। दिव्या या मम विभूतयस्ताः प्राधान्येन तुभ्यं
 कथयिष्यामि। यतोऽवान्तरस्य विभूतिविस्तरस्य मदीयस्यान्तो नास्त्यतः
 प्रधानभूताः कतिचिद्वर्णयिष्यामि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.19 The Lord said Indeed I shall tell you, O Arjuna, My auspicious manifestations (Vibhutis) - those that are prominent among these. There is no end to their extent.
@@ -215,11 +230,13 @@ For, there would be no end to My details.
 दिव्याः divine; हि indeed; आत्मविभूतयः My glories; प्राधान्यतः in their prominence; कुरुश्रेष्ठ O best of the Kurus; न not; अस्ति is; अन्तः end;
 विस्तरस्य of detail; मे of Me.Commentary Now I will tell you of My most prominent divine glories. My glories are illimitable it is not possible to describe all of them.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.19।। श्रीभगवान् बोले -- हाँ, ठीक है। मैं अपनी दिव्य विभूतियोंको
@@ -283,6 +300,7 @@ For, there would be no end to My details.
 
 ।।10.19।। श्रीभगवान् ने कहा -हन्त अब मैं तुम्हें अपनी दिव्य विभूतियों को
 प्रधानता से कहूँगा। हे कुरुश्रेष्ठ मेरे विस्तार का अन्त नहीं है।।
+</details>
 </details>
 
 </div>

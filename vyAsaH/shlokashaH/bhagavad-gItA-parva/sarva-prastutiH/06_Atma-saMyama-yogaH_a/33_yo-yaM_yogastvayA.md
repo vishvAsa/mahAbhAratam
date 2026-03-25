@@ -26,8 +26,9 @@ title = "33 योऽयं योगस्त्वया"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.33॥ अर्जुन उवाच **यो ऽयं** देवमनुष्यादिभेदेन जीवेश्वरभेदेन च अत्यन्तभिन्नतया एतावन्तं कालम् अनुभूतेषु सर्वेष्व् आत्मसु ज्ञानैकाकारतया परस्परसाम्येन अकर्मवश्यतया च ईश्वर**साम्येन सर्वत्र** समदर्शनरूपो **योगस् त्वया उक्त एतस्य** योगस्य **स्थिरां स्थितिं न पश्यामि** मनसः **चञ्चलत्वात्।**
@@ -42,12 +43,14 @@ title = "33 योऽयं योगस्त्वया"
 
 6.33 Arjuna said This Yoga as explained by you consists in maintaining eality of vision everywhere, viz., i) among themselves which have been so far known to be of different kinds such as gods and men, and ii) between the individual selves and the Supreme, in so far as (a) all the selves are of the same form of knowledge, and (b) in so far as the individual self (i.e., the released soul) and the Supreme are alike free from Karma. I do not see how this Yoga can be steadily established in my mind, fickle as the mind is.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.33॥ **यः अयं योगः त्वया प्रोक्तः साम्येन** समत्वेन हे **मधुसूदन एतस्य** योगस्य **अहं न पश्यामि** नोपलभे **चञ्चलत्वात्** मनसः। **किम्** **स्थिराम्** अचलां **स्थितिम्**॥ प्रसिद्धमेतत्
 </details>
@@ -103,12 +106,14 @@ mind, which is well known.
 संभावयामि अहमस्मद्विधोऽन्यो वा योगाभ्यासनिपुणः। कस्मान्न संभावयसि तत्राह
 चञ्चलत्वात् मनस इति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.33॥ एतस्य योगस्य स्थिरां स्थितिं न पश्यामि मनसश्चञ्चलत्वात्।
 </details>
@@ -121,12 +126,14 @@ mind, which is well known.
 चञ्चलत्वादित्यस्यान्यो धर्मी न प्रतीयतेऽतो योग एव सम्बध्यते। तथा च
 साध्याविशिष्टतेत्यत आह **मनस** इति। एतच्चोत्तरवाक्यादवगम्यत इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.33 6.34॥ योऽयमिति। चञ्चलमिति। यः अयम् इति परोक्षप्रत्यक्षवाचकाभ्यामेवं सूच्यते भगवदभिहितानन्तरोपायपरम्परया स्पुटमपि प्रत्यक्षनिर्दिष्टमपि ब्रह्म मनसः चाञ्चल्यदौरात्म्यात् सुदूरे वर्तते+++(N. सुदूरीक्रियते)+++ इति परोक्षायमाणम्। प्रमथ्नाति दृष्टादृष्टे बलवत् शक्तम्। दृढं दुष्टव्यापारात्+++(N द्रष्ट्व्यापारात्)+++ वारयितुम् अशक्यम्।
 </details>
@@ -135,12 +142,14 @@ mind, which is well known.
 
 6.33 See Comment under 6.34
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.33 6.34॥ उक्तलक्षणयोगस्यासम्भवं मन्वानोऽर्जुन उवाच द्वाभ्यां योऽयं
 योग इति। निरोधः चित्तस्य येन साम्येनोक्तः तदेव दुष्करतरं यतः चञ्चलं मन
@@ -155,20 +164,26 @@ mind, which is well known.
 स्वसाम्येन सर्वेषु प्रोक्तः। एतस्य योगस्याऽहं
 अभिमानयुक्तत्वान्मनसश्चञ्चलत्वात् स्थितिं स्थिरां निश्चलां न पश्यामि।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.33॥ उक्तलक्षणस्य योगस्यासंभवं मन्वानोऽर्जुन उवाच **योऽयमिति।**
 साम्येन मनसो लयविक्षेपशून्यतया केवलात्माकारावस्थानेन योऽयं योगस्त्वया
 प्रोक्त एतस्य योगस्य स्थिरां दीर्घकालं स्थितिं न पश्यामि।
 मनसश्चञ्चलत्वात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.33 Arjuna said This Yoga of eality, which has been declared by You, O Krsna, I do not see that it can be steady because of the fickleness of the mind.
@@ -201,11 +216,13 @@ mind, which is well known.
 not; पश्यामि see; चञ्चलत्वात् from restlessness; स्थितिम् continuance;
 स्थिराम् steady.Commentary As the mind is restless; impetuous and unsteady I find it difficult to practise this Yoga of eanimity declared by Thee. O my Lord; I cannot have steady concentration of the mind; as it wanders here and there in the twinkling of an eye.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.33।। अर्जुन बोले -- हे मधुसूदन ! आपने समतापूर्वक जो यह योग कहा है,
@@ -266,6 +283,7 @@ not; पश्यामि see; चञ्चलत्वात् from restlessn
 
 ।।6.33।। अर्जुन ने कहा -- हे मधुसूदन ! जो यह साम्य योग आपने कहा, मैं मन
 के चंचल होने से इसकी चिरस्थायी स्थिति को नहीं देखता हूं।।
+</details>
 </details>
 
 </div>

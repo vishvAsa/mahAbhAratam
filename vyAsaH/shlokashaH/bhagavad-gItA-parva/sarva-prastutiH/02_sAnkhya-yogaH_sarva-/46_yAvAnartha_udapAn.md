@@ -32,8 +32,9 @@ title = "46 यावानर्थ उदपाने"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.46॥ यथा सर्वार्थ-परिकल्पिते **सर्वतः सम्प्लुतोदके उदपाने** पिपासोः **यावान् अर्थः** = यावद् एव प्रयोजनं पानीयम्, तावद् एव तेन उपादीयते न सर्वम्, एवम् **सर्वेषु वेदेषु ब्राह्मणस्य विजानतः** वैदिकस्य मुमुक्षोर् यद् एव मोक्षसाधनं, तद् एव उपादेयं न अन्यत्।
@@ -48,12 +49,14 @@ title = "46 यावानर्थ उदपाने"
 
 2.46 Whatever use, a thirsty person has for a reservoir, which is flooded with water on all sides and which has been constructed for all kinds of purposes like irrigation, only to that extent of it, i.e., enough to drink will be of use to the thirsty person and not all the water. Likewise, whatever in all the Vedas from the means for release to a knowing Brahmana, i.e., one who is established in the study of the Vedas and who aspires for release only to that extent is it to be accepted by him and not anything else. Sri Krsna now says that this much alone is to be accepted by an aspirant, established in Sattva:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 "सर्वेषु वेदोक्तेषु कर्मसु यान्य् उक्तान्य् अनन्तानि फलानि, तानि नापेक्ष्यन्ते चेत्, किमर्थं तानि ईश्वरायेत्य् अनुष्ठीयन्ते?" इत्य् उच्यते, श्रृणु -  
 
@@ -220,12 +223,14 @@ by one who is fit for rites and duties.
 यथातथाभवतीति पदत्रयाध्याहारो यावान्तावानिति पदद्वयानुषङ्गश्च
 दार्ष्टान्तिके द्रष्टव्यः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.46॥ तथापि काम्यकर्मिणां फलं ज्ञानिनां न भवतीति साम्यमेवेत्यत आह
 यावानर्थ इति। यथा यावानर्थः प्रयोजनमुदपाने कूपे भवति तावान्सर्वतः
@@ -260,12 +265,14 @@ by one who is fit for rites and duties.
 चाल्पास्थिरकर्मनिन्दया महानन्तफलज्ञानसाधने योगे प्रेरणं युक्तमेवेति
 भावः। अपव्याख्यानं तूक्तवक्ष्यमाणन्यायनिरस्तम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.47॥ यतो वेदाः, परं तेषां सम्यग्-ज्ञानोपयोगिनः। अत एवाह +++(K omits एव)+++ यावानिति। यस्य स्वधर्म-मात्रे +++(N omits स्व )+++ ज्ञाने वा प्राधान्यं तस्य परिमिताद् अपि वेदभाषितात् कार्यं सम्पद्यते ।+++(4)+++
 </details>
@@ -274,12 +281,14 @@ by one who is fit for rites and duties.
 
 2.46 Yavan etc. He, according to whom the importance lies in his own duty alone or in the knowledge - for him the purpose is served even from a limited portion of the Vedic teaching Therefore-
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.46॥ न चोक्तरूपं वेदोदितं सर्वं सगुणस्यागुणस्य सर्वस्योपादेयं युगपत्
 किन्तु यावदर्थमित्याह निदर्शनेन यावानर्थ इति। सर्वार्थपरिकल्पके सर्वतः
@@ -299,10 +308,13 @@ by one who is fit for rites and duties.
 भवतीत्यर्थः। नैवं च श्रुतिविरोधः। अत एव श्रुतिराह आनन्दं ब्रह्मणो
 विद्वान् तै.उ.2।4।1 तमेव विदित्वाऽतिमृत्युमेति श्वे.उ.3।86।15।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.46॥ ननु वेदोक्तनानाफलपरित्यागेन निष्कामतयेश्वराराधनविषया
 व्यवसायात्मिका बुद्धिस्तु कुबुद्धिरेवेत्याशङ्क्याह **यावानिति।** उदकं
@@ -314,10 +326,13 @@ by one who is fit for rites and duties.
 ब्रह्मानन्दे क्षुद्रानन्दानामन्तर्भूतत्वात्एतस्यैवानन्दस्यान्यानि भूतानि
 मात्रामुपजीवन्ति इति श्रुतेः। तस्मादियमेव बुद्धिः सुबुद्धिरित्यर्थः।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.46 What use a thirsty person has for a water reservoir when all sides of it are flooded - that much alone is the use of all the Vedas for a Brahmana who knows.
@@ -348,11 +363,13 @@ by one who is fit for rites and duties.
 2.46 यावान् as much; अर्थः use; उदपाने in a reservoir; सर्वतः
 everywhere; संप्लुतोदके being flooded; तावान्,so much (use); सर्वेषु in all; वेदेषु in the Vedas; ब्राह्मणस्य of the Brahmana; विजानतः of the knowing.Commentary Only for a sage who has realised the Self; the Vedas are of no use; because he is in possession of the infinite knowledge of the Self. This does not; however; mean that the Vedas are useless. They are useful for the neophytes or the aspirants who have just started on the spiritual path.All the transient pleasures derivable from the proper performance of all actions enjoined in the Vedas are comprehended in the infinite bliss of Selfknowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.46।। सब तरफसे परिपूर्ण महान् जलाशयके प्राप्त होनेपर छोटे गड्ढों में
@@ -426,6 +443,7 @@ everywhere; संप्लुतोदके being flooded; तावान्,
 ।।2.46।। सब ओर से परिपूर्ण जलराशि के होने पर मनुष्य का छोटे जलाशय में
 जितना प्रयोजन रहता है; आत्मज्ञानी ब्राह्मण का सभी वेदों में उतना ही
 प्रयोजन रहता है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "12 आशापाशशतैर्बद्धाः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥16.12॥**आशापाशशतैः** आशाख्यपाशशतैः **बद्धाः कामक्रोधपरायणाः** कामक्रोधैकनिष्ठाः। **कामभोगार्थम्** **अन्यायेन अर्थसञ्चयान्** प्रति **ईहन्ते।**
@@ -39,12 +40,14 @@ title = "12 आशापाशशतैर्बद्धाः"
 
 16.12 They are 'bound by hundreds of fetters of hope,' viz., bound by hundreds of fetters in the form of hope. They are given over to 'desire and anger,' viz., they are intent solely on desire and anger. To satisfy their sensual desires, they endeavour for wealth through immortal means.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.12॥ --,**आशापाशशतैः** आशा एव पाशाः तच्छतैः **बद्धाः** नियन्त्रिताः सन्तः सर्वतः आकृष्यमाणाः; **कामक्रोधपरायणाः** कामक्रोधौ परम्,अयनम् आश्रयः येषां ते कामक्रोधपरायणाः; **ईहन्ते** चेष्टन्ते **कामभोगार्थं** कामभोगप्रयोजनाय न धर्मार्थम्; **अन्यायेन** परस्वापहरणादिना इत्यर्थः किम् **अर्थसंचयान्** अर्थप्रचयान्॥ ईदृशश्च तेषाम् अभिप्रायः --,
 </details>
@@ -107,12 +110,14 @@ for righteous acts. Their intentions, too, are of this kind:
 परस्वहरणादिनार्तसंचयान्धनराशीन्। संचयानिति बहुवचनेन धनप्राप्तावपि
 तत्तृष्णानुवृत्तेर्विषयप्राप्तिवर्धमानतृष्णत्वरूपो लोभो दर्शितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.12॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -121,12 +126,14 @@ for righteous acts. Their intentions, too, are of this kind:
 
 ॥16.12॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.9 -- 16.12॥ एतामित्यादि अर्थसंचयानित्यन्तम्। चिन्ता तेषां प्रलयान्ता अवरितं (ता) संसृतिप्रलयाव्युपरमात्। एतावदितिकामोपभोग एव परं (परमं) कृत्यम् \[एषाम्\] तन्नाशाच्च परं क्रोधः। अत,एवाह कामक्रोधपरायणाः इति।
 </details>
@@ -135,12 +142,14 @@ for righteous acts. Their intentions, too, are of this kind:
 
 16.9-12 Etam etc. upto arthasancayam : Their anxiety ends only at the time of dissolution i.e. never ceases, becaue the rise and dissolution never end. This much alone : For them the highest goal to be achieved is but the gratification of desires, and when this (aim) is just ruined, there arises anger. Hence the Lord says 'Devoted to their craving and anger'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.12॥ अतएव आशापाशशतैरिति।
 </details>
@@ -152,19 +161,25 @@ for righteous acts. Their intentions, too, are of this kind:
 आश्रयणं येषां तादृशाः। कामोपभोगस्य कृतपुरुषार्थनिश्चयत्वेन
 कामभोगार्थमन्यायेन चौर्यापहारहिंसादिना अर्थसञ्चयान् ईहन्ते इच्छन्ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.12॥ अतएव **-- आशेति।** आशा एव पाशास्तेषां शतानि तैर्बद्धा इतस्तत
 आकृष्यमाणाः; कामक्रोधौ परमयनमाश्रयो येषां ते; कामभोगार्थमन्यायेन
 चौर्यादिनाऽर्थानां संचयाव्राशीनीहन्ते इच्छन्ति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.12 Bound by hundreds of fetters of hopes, given over to desire and anger, they strive unjustly to gather wealth for the gratification of their desires.
@@ -198,11 +213,13 @@ they strive to obtain by unlawful means hoards to wealth for sensual enjoyments.
 कामक्रोधपरायणाः given over to lust and anger; ईहन्ते (they) strive (to attain); कामभोगार्थम् for sensual enjoyment; अन्यायेन by unlawful means;
 अर्थसञ्चयान् hoards of wealth.Commentary They murder people and rob them of their wealth in order to have sensual enjoyments. They amass wealth for sensepleasure only; but not for doing righteous actions. They have no mercy. They are very cruel. They are held in bondage by a hundred ties of expectation. They harbour in their hearts a craving for all kinds of sensual objects. Various sorts of desires crop up in their mind. When their desires are not gratified they become furious. They acire wealth by unjust means. Hope or expectation binds a man to the wheel of Samsara.,Therefore hope is likened to a cord or a rope. There is no end to their cravings. Though they possess enormous wealth their cravings are not appeased. They multiply daily. These people become hopeless victims of greed.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.12।। वे आशाकी सैकड़ों फाँसियोंसे बँधे हुए मनुष्य काम-क्रोधके परायण
@@ -303,6 +320,7 @@ they strive to obtain by unlawful means hoards to wealth for sensual enjoyments.
 ।।16.12।। सैकड़ों आशापाशों से बन्धे हुये, काम और क्रोध के वश में ये लोग
 विषयभोगों की पूर्ति के लिये अन्यायपूर्वक धन का संग्रह करने के लिये
 चेष्टा करते हैं।।
+</details>
 </details>
 
 </div>

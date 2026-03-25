@@ -23,8 +23,9 @@ title = "11 तेषामेवानुकम्पार्थमहमज�
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥10.11॥**तेषाम्** एव अनुग्रहार्थम् अहम् **आत्मभावस्थः** तेषां मनोवृत्तौ विषयतया अवस्थितो मदीयान् कल्याणगुणगणान् च आविष्कुर्वन् मद्विषयज्ञानाख्येन **भास्वता दीपेन** ज्ञानविरोधिप्राचीनकर्मरूपाज्ञानजं मद्व्यतिरिक्तविषयप्रावण्यरूपं पूर्वाभ्यस्तं **तमः नाशयामि। एवं सकलेतरविसजातीयं भगवदसाधारणं श्रृण्वतां निरतिशयानन्दजनकं कल्याणगुणगणयोगं तदैश्वर्यविततिं च श्रुत्वा तद्विस्तारं श्रोतुकामो ऽर्जुन उवाच --**
@@ -39,12 +40,14 @@ title = "11 तेषामेवानुकम्पार्थमहमज�
 
 10.11 To show favour to them alone, abiding in their mental activity, i.e., established as the object of thought in their mind, and manifesting the host of My auspicious attributes by the brillinat lamp called knowledge relating to Me, - I dispel the darkness incompatible with knowledge. This darkness is born of ignorance in the form of old Karma consisting of attachment to objects other than Myself, to which they were previously habituated. Thus having heard of the Lord as having a host of auspicious attributes, and of the extent of His sovereign glories which are unie and different from all others and which generate unsurpassed bliss in listeners, - Arjuna desired to listen to the details about them and said:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥10.11॥ --,**तेषामेव** कथं नु नाम श्रेयः स्यात् इति **अनुकम्पार्थं** दयाहेतोः **अहम् अज्ञानजम्** अविवेकतः जातं मिथ्याप्रत्ययलक्षणं मोहान्धकारं **तमः नाशयामि; आत्मभावस्थः** आत्मनः भावः अन्तःकरणाशयः तस्मिन्नेव स्थितः सन् **ज्ञानदीपेन** विवेकप्रत्ययरूपेण भक्तिप्रसादस्नेहाभिषिक्तेन मद्भावनाभिनिवेशवातेरितेन ब्रह्मचर्यादिसाधनसंस्कारवत्प्रज्ञावर्तिना विरक्तान्तःकरणाधारेण विषयव्यावृत्तचित्तरागद्वेषाकलुषितनिवातापवरकस्थेन नित्यप्रवृत्तैकाग्र्यध्यानजनितसम्यग्दर्शन**भास्वता** ज्ञानदीपेनेत्यर्थः॥ यथोक्तां भगवतः विभूतिं योगं च श्रुत्वा अर्जन उवाच
 --,**अर्जन उवाच --,**
@@ -170,12 +173,14 @@ Lord,
 सजातीयपरानपेक्षत्वं स्वोत्पत्त्यतिरिक्तसहकार्यनपेक्षत्वमित्यादिरूपकबीजं
 द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.11॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -184,12 +189,14 @@ Lord,
 
 ॥10.11॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.6 -- 10.11॥ महर्षय इत्यादि भास्वता इत्यन्तम्। परस्परबोधनया अन्योन्यबोधस्फारसंक्रमणात् सर्व एव हि प्रमातारः एक ईश्वर इति विततव्याप्त्या +++(S;;N वितत्य व्याप्त्या)+++ सुखेनैव सर्वशक्तिकसर्वगतस्वात्मरूपताधिगमेन +++(S -- ताधिशयनेन अधिगमेन)+++ माहेश्वर्यमेषामिति भावः +++(After इति भावः ;N add तेषां सततयुक्तानाम् इत्यतः प्रभृति अध्यायान्ता टीका उट्टङ्किता युगपद्धि वेद्या। ,तेषामेव अनु च अर्जुनप्रश्नपद्यानि षट् उल्लिखति। श्रीभगवान् अथवा बहुना इति पर्यन्तानि पद्यानि 23,वक्ति॥ These sentences are obviously of some copyist. It is to be noted however that the Mss. generally contain seven (not six)+++ verses of Arjuna and then 24 +++(not 23)+++ verses of the hagavan) ।
 </details>
@@ -198,12 +205,14 @@ Lord,
 
 10.9-11 Maharsaya etc., upto bhasvata. Through the process of mutual enlightening, the wisdom-shock is transmitted to each other. On account of that, they get the all-inclusive \[knowledge\] 'Indeed all sentient subjects are only a single Absolute Lord'. By means of this extensive pervasion, they easily come to realise their own Self as Omnipotent and omnipresent and by that they attain the Absolute Lordship. This is the idea here.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.11॥ आत्मज्ञानमपि तेषां मयैव सम्पाद्यते इत्याह --
 तेषामेवानुकम्पार्थमिति। जनो वै लोक एतस्मिन्नविद्याकामकर्मभिः। उच्चावचासु
@@ -223,10 +232,13 @@ Lord,
 ज्ञानदीपेन नाशयामि। ततः संसाराज्ञानविमुक्तानां शीघ्रं स्वरूपबोधात् पुनः
 परस्परं मद्गुणकथनेन परमानन्द एव भवति; न तु क्लेश इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥10.11॥ बुद्धियोगं दत्त्वा च तस्यानुभवपर्यन्तं तमापाद्याविद्याकृतं
 संसारं नाशयामीत्याह **-- तेषामिति।**
@@ -234,10 +246,13 @@ Lord,
 वा स्थितः सन्केन साधनेन तमो नाशयसीत्यत,आह। आत्मभावस्थः बुद्धिवृत्तौ
 स्थितः सन् भास्वता विस्फुरता ज्ञानलक्षणेन दीपेन नाशयामि।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 10.11 Out of compassion for them alone, I, abiding in their mental activity as its object, dispel the darkness born of ignorance by the brilliant lamp of knowledge.
@@ -273,11 +288,13 @@ destroy the darkness born of ignorance by the luminous lamp of knowledge.
 provided with the wick of right intuition; generated by the constant cultivation of celibacy; piety and other divine virtues held in the chambers of the heart free from worldliness; placed in the innermost recesses of the mind free from the wind of senseattractions (withdrawn from the objects of the senses) and untainted by likes and dislikes; and shining with the light of knowledge of the Self caused by the constant practice of meditation.The lamp is not in need of an instrument or means or any sort of practice for the removal of darkness. The generation of the light itself is ite sufficient to remove the darkness. As soon as the darkness is removed by the light; the pot; the chair and the other articles are seen. Even so the dawn of knowledge of the Self itself is ite sufficient to remove ignorance. No other Karma or,practice is necessary. After the ignorance is removed by the knowledge of the Self;
 Brahman alone shines in Its pristine glory.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।10.11।। उन भक्तोंपर कृपा करनेके लिये ही उनके स्वरूप (होनेपन) में
@@ -368,6 +385,7 @@ Brahman alone shines in Its pristine glory.
 
 ।।10.11।। उनके ऊपर अनुग्रह करने के लिए मैं उनके अन्त:करण में स्थित होकर,
 अज्ञानजनित अन्धकार को प्रकाशमय ज्ञान के दीपक द्वारा नष्ट करता हूँ।।
+</details>
 </details>
 
 </div>

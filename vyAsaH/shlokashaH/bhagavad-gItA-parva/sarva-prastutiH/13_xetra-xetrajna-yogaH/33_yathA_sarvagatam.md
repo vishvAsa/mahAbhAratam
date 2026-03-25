@@ -23,8 +23,9 @@ title = "33 यथा सर्वगतम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥13.32॥ यथा **आकाशं सर्वगतम्** अपि सर्वैर् वस्तुभिः संयुक्तम् अपि **सौक्ष्म्यात्** सर्ववस्तुस्वभावैः **न लिप्यते;** **तथा आत्मा** अतिसौक्ष्म्यात् **सर्वत्र** देवमनुष्यादौ **देहे अवस्थितः** अति तत्तद्देहस्वमावैः **न लिप्यते।**
@@ -39,12 +40,14 @@ title = "33 यथा सर्वगतम्"
 
 13.33 As the 'all-pervading ether,' though in contact with all substances, is 'not tainted' by the alities of all these substances, as it is 'subtle' - even so the self, though 'present in all the bodies,' everywhere, namely, in divinities, men etc., is not contaminated by these bodies by reason of Its extreme subtleness.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.33॥ --,**यथा सर्वगतं** व्यापि अपि सत् **सौक्ष्म्यात्** सूक्ष्मभावात् **आकाशं** खं न **उपलिप्यते** न संबध्यते; **सर्वत्र अवस्थितः देहे तथा आत्मा,**न उपलिप्यते**॥ किञ्च --,**
 </details>
@@ -93,12 +96,14 @@ is not; upalipyate, defiled. Further,
 दृष्टान्तमाह -- यथेति। सौक्ष्म्यादसङ्गस्वभावत्वात् आकाशं सर्वगतमपि
 नोपलिप्यते पङ्कादिभिर्यथेति दृष्टान्तार्थः। स्पष्टमितरत्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.33॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -107,12 +112,14 @@ is not; upalipyate, defiled. Further,
 
 ॥13.33॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.31 -- 13.33॥ यदि वा -- यदेत्यादि नोपलिप्यत इत्यन्तम्। विस्तीर्णत्वेन सर्वव्याप्त्या यदा भूतानां पृथक्तां भिन्नताम् +++(S चित्रताम्)+++ आत्मन्येव पश्यति; आत्मन एव च उदितां तां मन्यते; तदापि सर्वकर्तृत्त्वात् न लेपभाक् यतः असौ परमात्मैव शरीरस्थोऽपि न लिप्यते आकाशवत्।
 </details>
@@ -121,12 +128,14 @@ is not; upalipyate, defiled. Further,
 
 13.33 See Comment under 13.34
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.33॥ यद्यपि निर्गुणत्वान्न करोति तथापि नित्यसंयुक्तैर्देहस्वभावैः
 कथं न लिप्यते इत्यत्राह दृष्टान्तेन -- यथा सर्वगतमिति।
@@ -141,20 +150,26 @@ is not; upalipyate, defiled. Further,
 जडजीवान्तर्गतमाकाशं सौक्ष्म्यात् स्वरूपाभावात् सङ्गरहितं तेन सह
 नोपलिप्यते; तथा सर्वत्र उच्चनीचोऽपि देहावस्थितोऽप्यात्मा न लिप्यते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥13.33॥ तत्र दृष्टान्तमाह **-- यथेति।** यथा सर्वत्र पङ्कादिष्वपि
 स्थितमाकाशं सौक्ष्यादसङ्गत्वात्पङ्कादिभिर्नोपलिप्यते तथा सर्वत्र उत्तमे
 मध्यमेऽधमे वा देहेऽवस्थितोऽप्यात्मा नोपलिप्यते। दैहिकैर्गुणदोषैर्न
 युज्यत इत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 13.33 As the all-pervading etther is not tainted because of its subtlety, even so, the self abiding in the body everywhere, is not tainted.
@@ -186,11 +201,13 @@ is not; upalipyate, defiled. Further,
 अवस्थितः seated; देहे in the body; तथा so; आत्मा the Self; न not;
 उपलिप्यते is tainted.Commentary Ether pervades everything. All are immersed in it. There is no point whereunto ether does not penetrate and pervade and yet it is not tainted by anything. Even so the Self pervades the whole body and the whole world. Being subtler than the body the Self is never tainted by it or anything else. It is unattached and actionless. It has no parts or limbs. So virtuous and vicious actions cannot contaminate the Self. It is ever pure and stainless.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।13.33।। जैसे सब जगह व्याप्त आकाश अत्यन्त सूक्ष्म होनेसे कहीं भी लिप्त
@@ -251,6 +268,7 @@ is not; upalipyate, defiled. Further,
 
 ।।13.33।। जिस प्रकार सर्वगत आकाश सूक्ष्म होने के कारण लिप्त नहीं होता,
 उसी प्रकार सर्वत्र देह में स्थित आत्मा लिप्त नहीं होता।।
+</details>
 </details>
 
 </div>

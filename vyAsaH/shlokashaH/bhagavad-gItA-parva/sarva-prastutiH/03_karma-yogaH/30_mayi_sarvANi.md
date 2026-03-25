@@ -23,8 +23,9 @@ title = "30 मयि सर्वाणि"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 इदानीम् आत्मनां परम-पुरुष-शरीरतया  
@@ -251,12 +252,14 @@ title = "30 मयि सर्वाणि"
 'Him who is the supreme and great Lord of lords, Him the Supreme
 Divinity of divinities' (Sve. U., 6.7), 'The Lord of the Universe' (Tai. Na., 11.3), 'The Supreme Ruler of rulers' (Sve. U., 6.6-7). Isvaratva is the same as Sesitva, which means controllership. Sri Krsna declares that this alone is the essential meaning of the Upanisads:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.30॥ **मयि** वासुदेवे परमेश्वरे सर्वज्ञे सर्वात्मनि **सर्वाणि कर्माणि संन्यस्य** निक्षिप्य **अध्यात्मचेतसा** विवेकबुद्ध्या अहं कर्ता ईश्वराय भृत्यवत् करोमि इत्यनया बुद्ध्या। किञ्च **निराशीः** त्यक्ताशीः **निर्ममः** ममभावश्च निर्गतः यस्य तव स त्वं निर्ममो **भूत्वा युध्यस्व विगतज्वरः** विगतसंतापः विगतशोकः सन्नित्यर्थः॥ यदेतन्मम मतं कर्म कर्तव्यम् इति सप्रमाणमुक्तं तत् तथा
 </details>
@@ -339,12 +342,14 @@ nirmamah.
 निष्कामत्वं च सर्वकर्मसाधारणं मुमुक्षोः। निर्ममत्वं त्यक्तशोकत्वं च
 युद्धमात्रे प्रकृते इति द्रष्टव्यम्। अन्यत्र ममताशोकयोरप्रसक्तत्वात्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.30॥ अतः सर्वाणि कर्माणि मय्येव सन्न्यस्य भ्रान्त्या
 जीवेऽध्यारोपितानि मय्येव विसृज्य भगवानेव सर्वाणि कर्माणि करोतीति
@@ -368,12 +373,14 @@ nirmamah.
 सन्तीति ज्ञानम्। तच्चमयि सर्वाणि कर्माणि सन्न्यस्य इत्यनेन गतार्थमतो
 द्वयोर्भेदमाह **सन्न्यासस्त्वि**ति। उभयत्रेतिशब्दात्परं ज्ञानमिति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.30॥ तस्माद्युक्तः सन् जुषेत कर्माणि इत्युक्तं तत्र तत् कथमिति स्फुटयति मयीति। मयि सर्वाणि +++(S मयि स्थित्वा सर्वाणि)+++ कर्माणि नाहं कर्ता इति सन्यस्य सर्वतन्त्रः परमेश्वर एव सर्वकर्ता नाहं कश्चित् इति निश्चित्य लोकानुग्रहं चिकीर्षुः लोकाचारं युद्धात्मकम् अनुतिष्ठ।
 </details>
@@ -382,12 +389,14 @@ nirmamah.
 
 3.30 Mayi etc. You should perform the worldly act of fighting a war, being desirous of doing favour for the world; renouncing all actions in Me with the thought 'I am not the doer \[of any act\]'; and being convinced 'None but the Sovereign Supreme Lord is the doer of all acts, and I am nobody'.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.30॥ स्वमतमुपदिशति मयीति। साङ्ख्यचेतसा सर्वकर्माणि मयि मुख्ये
 साक्षात्कर्त्तरि परदेवतायां सन्न्यस्य समर्प्यानुसन्धाय वा युद्ध्यस्व।
@@ -411,10 +420,13 @@ nirmamah.
 त्वामुद्दिश्य तु क्षात्त्रं कर्म युद्धरूपं मयोच्यते न तु
 पूर्वोक्तमन्यत्कर्म। अतो युद्धमेव कुर्वित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/30_mayi_sarvANi.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/30_mayi_sarvANi.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.30॥ तदेवं तत्त्वविदापि कर्म कर्तव्यं त्वं तु नाद्यापि तत्त्ववित् अतः
 कर्मैव कुर्वित्याह **मयीति।** सर्वाणि कर्माणि मयि संन्यस्य
@@ -422,10 +434,13 @@ nirmamah.
 निराशीर्निष्कामोऽतएव मत्फलसाधनं मदर्थमिदं कर्मेत्येवं ममताशून्यश्च
 भूत्वा विगतज्वरस्त्यक्तशोकश्च भूत्वा युध्यस्व।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.30 Surrendering all your actions to Me with a mind focussed on the self, free from desire and selfishness, fight with the heat of excitement abated.
@@ -459,11 +474,13 @@ free from hope and egoism, and from (mental) fever, do thou fight.
 निर्ममः free from egoism; भूत्वा having become युध्यस्व fight (thou);
 विगतज्वरः free from (mental) fever.Commentary Surrender all the actions to Me with the thought; I perform all actions for the sake of the Lord.Fever means grief; sorrow. (Cf.V.10XVIII.66).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/30_mayi_sarvANi.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.30।। तू विवेकवती बुद्धिके द्वारा सम्पूर्ण कर्तव्य-कर्मोंको मेरे
@@ -578,6 +595,7 @@ free from hope and egoism, and from (mental) fever, do thou fight.
 
 ।।3.30।। सम्पूर्ण कर्मों का मुझ में संन्यास करके, आशा और ममता से रहित
 होकर, संतापरहित हुए तुम युद्ध करो।।
+</details>
 </details>
 
 </div>

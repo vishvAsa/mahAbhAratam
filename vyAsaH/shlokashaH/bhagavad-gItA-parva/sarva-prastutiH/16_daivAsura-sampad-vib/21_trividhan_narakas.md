@@ -23,8 +23,9 @@ title = "21 त्रिविधन् नरकस्येदम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 अस्य आसुरस्वभावस्य आत्मनाशस्य मूलहेतुम् आह --
@@ -41,12 +42,14 @@ title = "21 त्रिविधन् नरकस्येदम्"
 
 16.21 Those three which constitute the 'gateway of this hell' in the shape of demoniac nature, and are destructive of the self (Atman) - are known as desire, wrath and greed. The nature of these has already been explained. 'Gateway' (Dvara) means the path, the cause. Therefore, one should renounce these three. Therefore, since they constitute the cause of the extremely dreadful Naraka, one should wholly renounce this triad - desire, wrath and greed.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥16.21॥ --,**त्रिविधं** त्रिप्रकारं **नरकस्य** प्राप्तौ **इदं द्वारं नाशनम् आत्मनः;** यत् द्वारं प्रविशन्नेव नश्यति आत्मा कस्मैचित् पुरुषार्थाय योग्यो न भवति इत्येतत्; अतः उच्यते द्वारं नाशनमात्मनः इति। किं तत् **कामः क्रोधः तथा लोभः। तस्मात् एतत् त्रयं त्यजेत्।** यतः एतत् द्वारं नाशनम् आत्मनः तस्मात् कामादित्रयमेतत् त्यजेत्॥ त्यागस्तुतिरियम्
 --,
@@ -119,12 +122,14 @@ this group of three-passion etc. This is a eulogy of renunciation.
 एतत्त्रयत्यागेनैव सर्वाप्यासुरीसंपत्त्यक्ता भवति। एतत्त्रयत्यागश्च
 उत्पन्नस्य विवेकेन कार्यप्रतिबन्धस्ततः परं चानुत्पत्तिरिति द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.21॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -133,12 +138,14 @@ this group of three-passion etc. This is a eulogy of renunciation.
 
 ॥16.21॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.21 -- 16.22॥ त्रिविधमिति। एतैरिति। यत कामादिकं त्रयं +++(N त्रितयम्)+++ नरकस्य द्वारं; तस्मात् एतत्,त्यज़ेत्।
 </details>
@@ -147,12 +154,14 @@ this group of three-passion etc. This is a eulogy of renunciation.
 
 16.21 See Coment under 16.22
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.21॥ एतदासुरभावत आत्मनाशे मूलं हेतुमाह -- त्रिविधमिति। अस्यासुरस्य
 भावस्य नारकस्य त्रिधा मतं द्वारं कामश्च लोभश्च क्रोधः; तस्मादेतत्त्रयं
@@ -170,20 +179,26 @@ this group of three-passion etc. This is a eulogy of renunciation.
 लोभः सर्वगुणनाशकपरस्वप्राप्तीच्छारूपः; तस्मात् असुरात् () एतत् त्रितयं
 स्यादतस्त्यजेत् तत्सङ्गमिति शेषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥16.21॥ उक्तानामासुरदोषाणां मध्ये सकलदोषमूलभूतं दोषत्रयं सर्वथा
 वर्जनीयमित्याह **-- त्रिविधमिति।** कामः क्रोधो लोभश्चेतीदं त्रिविधं
 नरकस्य द्वारम्। अतएवात्मनो नाशनं नीचयोनिप्रापकम्। तस्मादेतत्त्रयं
 सर्वात्मना त्यजेत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 16.21 Desire, wrath and greed - this is the triple gateway to Naraka,
@@ -219,11 +234,13 @@ greed; तस्मात् therefore; एतत् this; त्रयम् th
 devotion and knowledge. When these evil modifications of the mind arise in it; man loses his balance or poise and discrimination and commits various evil actions.Lust; anger and greed denote selfblindness and ignorance; for there are no Vasanas; wants; anger; or greed in Brahman or the pure immortal Self.Narakasya dvaram The gate to hell The gate leading to hell. The self is destroyed by merely entering at the gate;
 i.e.; it is not fit to do any right exertion to attain the goal of life.As this gate causes selfdestruction; let everyone renounce these three. (Cf.III.47)In the next verse the man who has abandoned these three evils is highyl eulogised.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।16.21।। काम, क्रोध और लोभ -- ये तीन प्रकारके नरकके दरवाजे जीवात्माका
@@ -301,6 +318,7 @@ i.e.; it is not fit to do any right exertion to attain the goal of life.As this 
 
 ।।16.21।। काम, क्रोध और लोभ ये आत्मनाश के त्रिविध द्वार हैं, इसलिए इन
 तीनों को त्याग देना चाहिए।।
+</details>
 </details>
 
 </div>

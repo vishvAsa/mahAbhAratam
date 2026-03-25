@@ -23,8 +23,9 @@ title = "05 अशास्त्रविहितङ् घोरम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥17.5॥**अशास्त्रविहितम्** अति **घोरम्** अपि **तपो ये जनास् तप्यन्ते;** प्रदर्शनार्थम् इदम्; अशास्त्रविहितं बह्वायासं यागादिकं ये कुर्वते; **ते दम्भाहङ्कारसंयुक्ताः कामरागबलान्विताः शरीरस्थं** पृथिव्यादिभूतसमूहं **कर्शयन्तो** मदंशभूतं जीवं **च अन्तःशरीरस्थं** कर्शयन्तो ये तप्यन्ते यागादिकं च कुर्वते; **तान् आसुरनिश्चयान् विद्धि।**
@@ -39,12 +40,14 @@ title = "05 अशास्त्रविहितङ् घोरम्"
 
 17.5 - 17.6 'Those men who perform terrible pernances not enjoined by the Sastras' - this is illustrative of sacrifices etc., of a similar nature. Those who perform sacrifices, etc., sacrifices which are not enjoined by the Sastras and demand much exertion, those who are possessed of 'ostentation and conceit and are goaded by sensual desire, attachment and passion' - they torture the group of elements such as earth etc., in their bodies. They also torture the individual self which is a part of Myself and is within their bodies. Those who perform such sacrifices etc., know them to be demoniacal in their resolves. The resolve of demons is demoniac resolve. The demons are those who act contrary to My ;ndments. Since they act contrary to My ;ndments, they do not have even a iota of joy, but as stated earlier, they fall a prey to a multitude of calamities. 'They fall into a foul Naraka' (16.16). Now, Sri Krsna, resuming the subject, details the differences according to the Gunas with reference to sacrifice, etc., enjoined by the Sastras. To begin with, he describes three kinds of food, since the growth of Sattva etc., has its source in food, as Srutis declare thus: 'For my dear, the mind consists of food' (Cha. U., 6.5.4) and 'when the food is pure, the man becomes pure' (Cha. U., 7.26.2).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥17.5॥ --,**अशास्त्रविहितं** न शास्त्रविहितम् अशास्त्रविहितं **घोरं** पीडाकरं प्राणिनाम् आत्मनश्च तपः **तप्यन्ते** निर्वर्तयन्ति **ये तपो जनाः** ते च **दम्भाहंकारसंयुक्ताः;** दम्भश्च अहंकारश्च दम्भाहंकारौ; ताभ्यां संयुक्ताः दम्भाहंकारसंयुक्ताः; **कामरागबलान्विताः** कामश्च रागश्च कामरागौ तत्कृतं बलं कामरागबलं तेन अन्विताः कामरागबलान्विताः॥
 </details>
@@ -136,12 +139,14 @@ can also mean desirable objects and the desire to enjoy them.\]-.
 सर्वासामन्तःकरणवृत्तीनामासुरत्वमसुरत्वजातिरहितानां च मनुष्याणां
 कर्मणैवासुरत्वात्तानसुरान्विद्धीति साक्षान्नोक्तमिति च द्रष्टव्यम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.5॥ Sri Madhvacharya did not comment on this sloka.
 </details>
@@ -150,12 +155,14 @@ can also mean desirable objects and the desire to enjoy them.\]-.
 
 ॥17.5॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥17.4 -- 17.6॥ यजन्त इत्यादि आसुरनिश्चयानित्यन्तम्। अचेतनम् अविवेकित्त्वात्। मां च कर्शयन्तः शास्त्रार्थननुष्ठानात्। अत एव ते स्वबुद्धिविरचितां +++(N स्वबुद्धिविचारिताम् )+++ तपश्चर्यां कुर्वणाः प्रत्युत तामसाः।
 </details>
@@ -164,12 +171,14 @@ can also mean desirable objects and the desire to enjoy them.\]-.
 
 17.5 See Comment under 17.6
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.5॥ तेष्वपि पूर्ववद्विशेषमाह -- अशास्त्रविहितमिति द्वाभ्याम्।
 शास्त्रीयं पूर्वमुक्तम्। ये तु जना शास्त्रविधिमुत्सृज्य कामकारतः येषां
@@ -188,10 +197,13 @@ can also mean desirable objects and the desire to enjoy them.\]-.
 कुर्वन्ति। कामरागबलान्विताः; कामो विषयाभिलाषः; रागो भोगासक्तिः;
 बलमाग्रहस्तैरन्विताः प्रेरिताः सन्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥17.5॥ राजसतामसेषु पुनर्विशेषान्तरमाह **-- अशास्त्रविहितमिति
 द्वाभ्याम्।** शास्त्रविधिमजानन्तोऽपि केचित्प्राचीनपुण्यसंस्कारेणोत्तमाः
@@ -202,10 +214,13 @@ can also mean desirable objects and the desire to enjoy them.\]-.
 आसक्तिः; बलमाग्रहः; एतैरन्विताः सन्तः;
 तानासुरनिश्चयान्विद्धीत्युत्तरेणान्वयः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 17.5 Those men who practise terrible austerity not enjoined by the Sastras, given to ostentation and conceit, and prompted by the force of sensual desires and passion;
@@ -239,11 +254,13 @@ given to hypocrisy and egoism; कामरागबलान्विताः 
 This is Tamasic Tapas. Bodily torture will not bring emancipation. These men are not acainted with even the first elements of the scriptures.
 They mock at the religious practices of the wise; elderly persons and jeer at learned men. They are puffed up with the vanity of their own greatness. They are proud of their wealth. They perform unauthorised austerities. These persons do severe austerities contrary to the scriptures on the strength of desire and attachment.They take even the lives of children to propitiate their deity. Instead of killing their egoism; they kill many innocent animals in the name of sacrifice but in reality they kill them to satisfy their own palate. Most horrible indeed They speak ill of the scriptures and wander about in the forest of delusion and infatuation. They follow the dictates of passion. They inflict pain on themselves and on others. They practise austerities which cause pain to themselves and to other living beings. Pitiable indeed is their lot. They are doomed to destruction.Kamaragabalanvitah may also be interpreted as possessed of lust; attachment and power.Dambha Ostentation The man of Dambha is desirous that all people should take him for a virtuous man and so he expresses to others his righteous nature. In reality he is not virtuous. He pretends to be what he is not.Ahankara Egoism The egoistic man thinks and feels that he is superior to others in the possession of all virtuous alities.Raga Extreme attachment to sensual objects.Bala Great power of enduring severe pain on account of Raga for sensual objects (pain that accrues from exertion in attaining and preserving the objects).Kama Lust Desire for any object.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।17.5।। जो मनुष्य शास्त्रविधिसे रहित घोर तप करते हैं; जो दम्भ और
@@ -335,6 +352,7 @@ They mock at the religious practices of the wise; elderly persons and jeer at le
 
 ।।17.5।। जो लोग शास्त्रविधि से रहित घोर तप करते हैं तथा दम्भ, अहंकार,
 काम और राग से भी युक्त होते हैं।।
+</details>
 </details>
 
 </div>

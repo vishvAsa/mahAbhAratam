@@ -23,8 +23,9 @@ title = "18 नैव तस्य"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥3.18॥ अत **एव तस्य** आत्म-दर्शनाय **कृतेन** तत्-साधनेन  
@@ -58,12 +59,14 @@ and because even for a Jnana Yogin the performance of minimum activity is necess
 
 For these reasons, Karma Yoga is better as a means for the vision of the Atman.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥3.18॥ **नैव तस्य** परमात्मरतेः **कृतेन** कर्मणा **अर्थः** प्रयोजनमस्ति। अस्तु तर्हि अकृतेन अकरणेन प्रत्यवायाख्यः अनर्थः **न अकृतेन इह** लोके **कश्चन** कश्चिदपि प्रत्यवायप्राप्तिरूपः आत्महानिलक्षणो वा नैव अस्ति। **न च अस्य सर्वभूतेषु** ब्रह्मादिस्थावरान्तेषु भूतेषु कश्चित् **अर्थव्यपाश्रयः** प्रयोजननिमित्तक्रियासाध्यः व्यपाश्रयः व्यपाश्रयणम् आलम्बनं कञ्चित् भूतविशेषमाश्रित्य न साध्यः कश्चिदर्थः अस्ति येन तदर्था क्रिया अनुष्ठेया स्यात्। न त्वम् एतस्मिन् सर्वतःसंप्लुतोदकस्थानीये सम्यग्दर्शने वर्तसे॥ यतः एवम्
 </details>
@@ -212,12 +215,14 @@ fullest realization which is comparable to a flood all around.'
 प्रथमभूमित्रयमारूढोऽज्ञोऽपि न कर्माधिकारी किं पुनस्तत्त्वज्ञानी
 तद्विशिष्टो जीवन्मुक्तो वेत्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.18॥ तस्य कर्मकाले वक्तव्योऽहमिति कञ्चित्प्रत्युक्त्वा
 तत्कृतावात्मरत्यधिकः प्तमो वाऽर्थो नास्ति। न च सन्ध्याद्यकृतौ
@@ -269,12 +274,14 @@ fullest realization which is comparable to a flood all around.'
 (पुनश्च) मुक्तावानन्दह्रास इति श्रीनिवासतीर्थः। उपलक्षणमिति
 कृष्णाचार्यटिप्पणी। तथा विहितकरणे नानन्दवृद्धिरपीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥3.17 3.19॥ यश्चेत्यादि पूरुष इत्यन्तम्। आत्मरतेस्तु कर्म इन्द्रियव्यापारतयैव कुर्वतः करणाकरणेषु समता। अत एव नासौ भूतेषु किंचिदात्मप्रयोजनमपेक्ष्य निग्रहानुग्रहौ करोति अपि तु करणीयमिदम् इत्येतावता। तस्मादसक्त एव करणीयं कर्म कुर्यात्।
 </details>
@@ -283,12 +290,14 @@ fullest realization which is comparable to a flood all around.'
 
 3.18 See Comment under 3.19
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.18॥ नैवेति। तस्य कृतेन निषिद्धेन चार्थः फलं सुखदुःखादि नास्ति।
 किञ्चार्थार्थमाश्रयः कश्चिन्नास्ति।
@@ -301,10 +310,13 @@ fullest realization which is comparable to a flood all around.'
 नास्तीत्यर्थः। अस्य भक्तस्य सर्वभूतेषु देवादिषु अर्थार्थं
 मोक्षभक्त्याद्यर्थं च व्यपाश्रय आश्रयो नास्तीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/18_naiva_tasya.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/03_karma-yogaH/18_naiva_tasya.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥3.18॥ तत्र हेतुमाह **नैव तस्येति।** कृतेन कर्मणा तस्यार्थः पुण्यं
 नैवास्ति। न चाकृतेन कश्चन कोऽपि प्रत्यवायोऽस्ति। निरहंकारत्वेन
@@ -319,10 +331,13 @@ fullest realization which is comparable to a flood all around.'
 प्रागेवयदेतद्ब्रह्म मनुष्या विदुस्तदेषां देवानां न प्रियम् इति श्रुत्या
 ब्रह्मज्ञानस्यैवाप्रियत्वोक्त्या तत्रैव विघ्नकर्तृत्वस्य सूचितत्वात्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 3.18 He has no purpose to gain by work done or left undone, nor has he to rely on any end.
@@ -354,11 +369,13 @@ fullest realization which is comparable to a flood all around.'
 अकृतेन by actions not done; इह here; कश्चन् any; न not; च and; अस्य of this man; सर्वभूतेषु in all beings; कश्चित् any; अर्थव्यपाश्रयः
 depending for any object.Commentary The sage who is thus rejoicing in the Self does not gain anything by doing any action. For him really no purpose is served by an action. No evil (Pratyavaya Dosha) can touch him from inaction. He does not lose anything from inaction. He need not depend upon anybody to gain a particular object. He need not exert himself to get the favour of anybody.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/03_karma-yogaH/18_naiva_tasya.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।3.18।। उस (कर्मयोगसे सिद्ध हुए) महापुरुषका इस संसारमें न तो कर्म
@@ -532,6 +549,7 @@ depending for any object.Commentary The sage who is thus rejoicing in the Self d
 
 ।।3.18।। इस जगत् में उस पुरुष का कृत और अकृत से कोई प्रयोजन नहीं है और न
 वह किसी वस्तु के लिये भूतमात्र पर आश्रित होता है।।
+</details>
 </details>
 
 </div>

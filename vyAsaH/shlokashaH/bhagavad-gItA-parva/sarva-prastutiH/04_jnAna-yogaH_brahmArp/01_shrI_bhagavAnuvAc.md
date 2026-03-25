@@ -26,8 +26,9 @@ title = "01 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 तृतीये ऽध्याये प्रकृतिसंसृष्टस्य मुमुक्षोः सहसा ज्ञानयोगे ऽनधिकारात् कर्मयोग एव कार्यः, ज्ञानयोगाधिकारिणो ऽप्य् अकर्तृत्वानुसन्धानपूर्वककर्मयोग एव श्रेयान् इति सहेतुकम् उक्तम्; शिष्टतया व्यपदेश्यस्य तु विशेषतः कर्मयोग एव कार्य इति चोक्तम् । चतुर्थेनेदानीम् अस्यैव कर्मयोगस्य निखिलजगदुद्धरणाय मन्वन्तरादाव् एवोपदिष्टतया कर्तव्यतां द्रढयित्वा अन्तर्गतज्ञानतयास्यैव ज्ञानयोगाकरतां प्रदर्श्य, कर्मयोगस्वरूपम्, तद्भेदाः, कर्मयोगे ज्ञानांशस्यैव प्राधान्यं चोच्यते । प्रसङ्गाच् च भगवदवतारयाथात्म्यम् उच्यते ।
@@ -44,12 +45,14 @@ title = "01 श्री भगवानुवाच"
 
 4.1 - 4.2 The Lord said This Karma Yoga declared to you should not be considered as having been taught now merely, for creating encouragement in you for war. I Myself had taught this Yoga to Vivasvan at the commencement of Manu's age as a means for all beings to attain release, which is man's supreme end. Vivasvan taught it to Manu, and Manu to Iksvaku. The royal sages of old knew this Yoga transmitted by tradition. Because of long lapse of time and because of the dullness of the intellect of those who heard it, it has been almost lost.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 यो ऽयं योगो ऽध्यायद्वयेनोक्तो ज्ञान-निष्ठा-लक्षणः,  
 स-संन्यासः कर्म-योगोपायः,  
@@ -195,12 +198,14 @@ dynasty, otherwise known as the Solar dynasty.\]
 स्वायंभुवमन्वादिसाधारणोऽयं भगवदुपदेशस्तथापि
 सांप्रतिकवैवस्वतमन्वन्तराभिप्रायेणादित्यमारभ्य संप्रदायो गणितः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.1 4.3॥ श्रीमदमलबोधाय नमः। हरिः ॐ। बुद्धेः परस्य माहात्म्यं कर्मभेदो
 ज्ञानमाहात्म्यं चोच्यतेऽस्मिन्नध्याये। पूर्वानुष्ठितश्चायं धर्म इत्याह
@@ -227,12 +232,14 @@ dynasty, otherwise known as the Solar dynasty.\]
 इत्येवोक्तमिह **त्वयं धर्म** इति। लोकेऽस्मिन्द्विविधा 3।3
 इत्यत्रोक्तस्यकर्मणैव इत्युदाहरणमुक्तमिति तत्रापि न दोषः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥4.1 4.3॥ एवमित्यादि उत्तमम् इत्यन्तम्। एतच्च गुरुपरम्पराप्राप्तमपि +++(S परम्परायातमपि K परम्परया प्राप्तमपि)+++ अद्यत्वे नष्टमित्यनेन +++(S N अद्यत्वे तन्नष्ट)+++ भगवान् अस्य ज्ञानस्य दुर्लभतां गौरवं च प्रदर्शयति। भक्तोऽसि मे सखा चेति। त्वं भक्तः मत्परमः सखा च। चशब्देन अन्वाचय उच्यते। तेन यथा भिक्षाटने भिक्षायां प्राधान्यं गवानयने त्वप्राधान्यम् एवं भक्तिरत्र गुरुं प्रति प्रधानं न सखित्वमपीति तात्पर्यार्थं।
 </details>
@@ -241,12 +248,14 @@ dynasty, otherwise known as the Solar dynasty.\]
 
 4.1 See Comment under 4.3
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.1 4.3॥ योगिनः कर्म कर्त्तव्यमिति पूर्वं निरूपितम्। तुरीये तु
 ततोऽध्याये प्रतीत्यर्थं परम्परा॥1॥  
@@ -282,10 +291,13 @@ dynasty, otherwise known as the Solar dynasty.\]
 **अहम् इमं योगं** पूर्वोक्तं अव्ययं सफलं मत्सम्बन्ध-जनकत्वात् **विवस्वते प्रोक्तवान्**।  
 लोकानुग्रहार्थं सोऽपि लोक एतत् प्राकट्यार्थं **मनवे** **प्राह**, **मनुर् इक्ष्वाकवेऽब्रवीत्**।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥4.1॥ आविर्भावतिरोभावावाविष्कर्तुं स्वयं हरिः। तत्त्वंपदविवेकार्थं
 कर्मयोगं प्रशंसति॥1॥  
@@ -297,10 +309,13 @@ dynasty, otherwise known as the Solar dynasty.\]
 स्वपुत्राय मनवे श्राद्धदेवाय प्राह स च मनुः
 स्वपुत्रायेक्ष्वाकवेऽब्रवीत्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 4.1 The Lord said I taught this imperishable Yoga to Vivasvan; Vivasvan taught it to Manu; Manu declared it to Iksvaku.
@@ -334,11 +349,13 @@ he told it to Manu; Manu proclaimed it to Ikshvaku.
 अहम् I; अव्ययम् imperishable; विवस्वान् Vivasvan; मनवे to Manu; प्राह
 taught; मनुः Manu; इक्ष्वाकवे to Ikshvaku; अब्रवीत् taught.Commentary Vivasvan means the sun. Ikshvaku was the son of Manu. Ikshvaku was the reputed ancestor of the solar dynasty of Kshatriyas.This Yoga is said to be imperishable because the result or fruit; i.e.; Moksha; that can be attained through it is imperishable.If the rulers of dominions possess a knowledge of the Yoga taught by Me in the preceding two discourses; they can protect the Brahmanas and rule their kingdom with justice. So I taught this Yoga to the Sungod in the beginning of evolution.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।4.1।। श्रीभगवान् बोले - मैंने इस अविनाशी योगको सूर्यसे कहा था। फिर
@@ -453,6 +470,7 @@ taught; मनुः Manu; इक्ष्वाकवे to Ikshvaku; अब्
 ।।4.1।। श्रीभगवान् ने कहा --- मैंने इस अविनाशी योग को विवस्वान् (सूर्य
 देवता) से कहा (सिखाया); विवस्वान् ने मनु से कहा; मनु ने इक्ष्वाकु से
 कहा।।
+</details>
 </details>
 
 </div>

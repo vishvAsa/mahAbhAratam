@@ -23,8 +23,9 @@ title = "63 क्रोधाद्भवति सम्मोहः"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.63॥**क्रोधाद् भवति सम्मोहः।** सम्मोहः कृत्याकृत्यविवेकशून्यता तया सर्वं करोति। ततश्च प्रारब्धे इन्द्रियजयादिके प्रयत्ने स्मृतिभ्रंशो भवति। **स्मृतिभ्रंशाद् बुद्धिनाशः** आत्मज्ञाने यो व्यवसायः कृतस् तस्य नाशः स्यात्। **बुद्धिनाशाद्** पुनरपि संसारे निमग्नो नष्टो भवति।
@@ -39,12 +40,14 @@ title = "63 क्रोधाद्भवति सम्मोहः"
 
 2.63 'From the loss of memory there comes the destruction of discrimination.' The meaning is that there will be destruction of the effect of efforts made earlier to attain the knowledge of the self. From the destruction of discrimination, one becomes lost, i.e., is sunk in Samsara or worldliness.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.63॥  
   
@@ -169,12 +172,14 @@ apprehension.\]
 परमानर्थप्राप्तिस्तस्मान्महता प्रयत्नेन मनो निगृह्णीयादित्यभिप्रायः। अतो
 युक्तमुक्तंतानि सर्वाणि संयम्य युक्त आसीत इति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.62 2.63॥ रागादिदोषकारणमाह परिहाराय श्लोकद्वयेन। सम्मोहोऽधर्मेच्छा।
 तथा हि मोहशब्दार्थ उक्त उपगीतासुमोहसंज्ञितम्। अधर्मलक्षणं च नियतं
@@ -206,12 +211,14 @@ apprehension.\]
 तत्परिजिहीर्षायां विषयध्यानपरम्परया तत्कारणमिति ज्ञानेन
 तदकारणात्तयोरनुत्पादो भवतीति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.64 2.65॥ ध्यायत इति। क्रोधादिति। तपस्विनो विषयत्याग एव विषयग्रहणे पर्यवस्यति। ध्यात्वा हि ते त्यजन्ते। ध्यानकाले एव च +++(S omits च)+++ संगादयः उपजायन्ते इति अनपायो +++(K अनुपायो)+++ विषयत्यागः स्थिरप्रज्ञस्य एव ।
 </details>
@@ -220,12 +227,14 @@ apprehension.\]
 
 2.63 Dhyayatah etc. krodhat etc. In the case of an ascetic, the very act of abandoning sense-objects itself resutls in undertaking the sense-objects. For, they abandon indeed by meditating \[on them\], and at the very time of such a meditation, attachment etc., are born in regular succession. Hence the act of abandoning objects is harmless only in the case of a man-of-stabilized-intellect. (65)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.62 2.63॥ एवं बाह्येन्द्रियसंयमाभावे दोष उक्तः इदानीं मनोनिरोधाभावे
 योगबुद्धिभ्रंशदोष इति कथयंस्तस्य स्थिरप्रज्ञतां दर्शयति चतुर्भिः। तत्र
@@ -246,19 +255,25 @@ apprehension.\]
 बुद्धिनाशात्प्रणश्यति। पुनस्तत्साधनप्रवृत्तिराहित्यं नाशे प्रकर्षः।
 विषयध्यानसङ्गरहितो व्रजेति भावः ()।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.63॥ किंच **क्रोधादिति।** क्रोधात्संमोहः कार्याकार्यविवेकाभावः। ततः
 शास्त्राचार्योपदिष्टार्थस्मृतेर्विभ्रमो विचलनम्। ततो बुद्धेश्चेतनाया
 विनाशो वृक्षादिष्विवाभिभवः। ततः प्रणश्यति मृततुल्यो भवति।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.63 From anger there comes delusion; from delusion, the loss of memory;
@@ -289,11 +304,13 @@ from the loss of memory, the destruction of discrimination; and with the destruc
 
 2.63 क्रोधात् from anger; भवति comes; संमोहः delusion; संमोहात् from delusion; स्मृतिविभ्रमः loss of memory; स्मृतिभ्रंशात् from loss of memory; बुद्धिनाशः the destruction of discriminatio; बुद्धिनाशात् from the,destruction of discrimination; प्रणश्यति (he) perishes.Commentary From anger arises delusion. When a man becomes angry he loses his power of discrimination between right and wrong. He will speak and do anything he likes. He will be swept away by the impulse of passion and emotion and will act irrationally.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.62 -- 2.63।। विषयोंका चिन्तन करनेवाले मनुष्यकी उन विषयोंमें आसक्ति
@@ -402,6 +419,7 @@ from the loss of memory, the destruction of discrimination; and with the destruc
 ।।2.63।। क्रोध से उत्पन्न होता है मोह और मोह से स्मृति विभ्रम। स्मृति के
 भ्रमित होने पर बुद्धि का नाश होता है और बुद्धि के नाश होने से वह मनुष्य
 नष्ट हो जाता है।।
+</details>
 </details>
 
 </div>

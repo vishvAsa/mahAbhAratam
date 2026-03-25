@@ -26,8 +26,9 @@ title = "01 श्री भगवानुवाच"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 क्षेत्राध्याये क्षेत्रक्षेत्रज्ञभूतयोः प्रकृतिपुरुषयोः स्वरूपं विशोध्य विशुद्धस्यापरिच्छिन्नज्ञानैकाकारस्यैव पुरुषस्य प्राकृतगुणसङ्गप्रवाहनिमित्तो देवाद्याकारपरिणतप्रकृतिसम्बन्धो ऽनादिर् इत्य् उक्तम् । अनन्तरे चाध्याये पुरुषस्य कार्यकारणोभयावस्थप्रकृतिसम्बन्धो गुणसङ्गमूलो भगवतैव कृत इत्य् उक्त्वा गुणसङ्गप्रकारं सविस्तरं प्रतिपाद्य गुणसङ्गनिवृत्तिपूर्वकात्मयाथात्म्यावाप्तिश् च भगवद्भक्तिमूलेत्य् उक्तम् । इदानीं भजनीयस्य भगवतः क्षराक्षरात्मकबद्धमुक्तविभूतिमत्ताम्, विभूतिभूतात् क्षराक्षरपुरुषद्वयान् निखिलहेयप्रत्यनीककल्याणैक्तानतया अत्यन्तोत्कर्षेण विसजातीयस्य भगवतः पुरुषोत्तमत्वं च वक्तुम् आरभते । तत्र तावद् असङ्गरूपशस्त्रच्छिन्नबन्धाम् अक्षराख्यविभूतिं वक्तुं छेद्यरूपबन्धाकारेण विततम् अचित्परिणामविशेषम् अश्वत्थवृक्षाकारं कल्पयन्
@@ -50,12 +51,14 @@ title = "01 श्री भगवानुवाच"
 'branches below' ending with denizens like men, animals, beasts, worms,
 insects, birds and immovables. It is 'immutable' since it cannot be felled, being of the form of a continual flow. It can be felled only at the dawn of perfect knowledge which causes detachment. They say that the leaves of this Asvattha tree constitute the Vedas. 'The Vedas are said to be the leaves', since this tree of Samsara increases by actions prompted by worldly desires as taught in certain Srutis as, 'He who desires prosperity should sacrifice a white animal to Vayu' (Taitt. Sam., 2.1.1) and 'The desirer of offspring shall offer to Indra and Agni a sacrifice with eleven cups of rice-cakes' (Ibid., 2.2.1). Indeed the tree flourishes with the help of leaves. He who knows the Asvattha of such a nature 'knows the Vedas'. The Vedas also set forth the means of felling this tree of Samsara. He who understands this is called the knower of the Vedas, since knowledge of the nature of the tree to be cut off is helpful to the knowledge concerning the means of felling the tree. This tree spreads downward with men etc., who are the products of their Karma, as branches. It again spreads above into Gandharvas, Yaksas, gods, etc. They are nourished by the Gunas of Sattva etc. They have tender shoots augmented by sense-objects. How does this happen; Sri Krsna explains:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 यस्मात् मदधीनं कर्मिणां कर्मफलं ज्ञानिनां च ज्ञानफलम् , अतः भक्तियोगेन मां ये सेवंते ते मम प्रसादात् ज्ञानप्राप्तिक्रमेण गुणातीताः मोक्षं गच्छन्ति । किमु वक्तव्यम् आत्मनः तत्त्वमेव सम्यक् विजानन्तः इति अतः भगवान् अर्जुनेन अपृष्टोऽपि आत्मनः तत्त्वं विवक्षुः उवाच ‘ऊर्ध्वमूलम्’ इत्यादिना । तत्र तावत् वृक्षरूपककल्पनया वैराग्यहेतोः संसारस्वरूपं वर्णयति — विरक्तस्य हि संसारात् भगवत्तत्त्वज्ञाने अधिकारः, न अन्यस्येति ॥
 
@@ -356,12 +359,14 @@ presented:
 छिद्यत इत्येतावानेव हि वेदार्थः। यश्च वेदार्थवित्स एव सर्वविदिति
 समूलवृक्षज्ञानं स्तौति स वेदविदिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.1॥ संसारच्छेत्रे नमः। संसारस्वरूपतदत्ययोपायविज्ञानान्यस्मिन्नध्याये
 दर्शयति। ऊर्ध्वो विष्णुः ऊर्ध्वपवित्रो वाजिनीवस्वमृतमस्मि। द्रविण ्ँ
@@ -405,12 +410,14 @@ presented:
 अन्वयव्यतिरेकाभ्यामित्याह -- **न ही**ति। किन्तु जात एवेत्यन्वयोऽपि
 वाच्यः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥15.1 -- 15.2॥ ऊर्ध्वमूलमिति। अधश्चेति। अनेन शास्त्रान्तरेषु यदुच्यते अश्वत्थः सर्वं; स एवोपासनीयः इत्यादि; तस्य भगवद्ब्रह्मोपासा तात्पर्यमित्युच्यते। मूलं प्रशान्तरूपम् +++(K प्रशान्तं रूपम्)+++। तत् ऊर्ध्वं; सर्वतो हि निवृत्तस्य तदाप्तिः। छन्दांसि पर्णानि इति -- यथा वृक्षस्य मानत्वफलवत्त्वसरसतादयः +++(S; फलत्व -- )+++ पर्णैः सूच्यन्ते; एवं ब्रह्मतत्त्वस्य वेदोपलक्षितशास्त्रद्वारिका प्रतीतिरित्याख्यायते। गुणैः; सत्त्वादिभिः प्रवृद्धाः; देवादिस्थावरान्ततया। तस्य च शुभाशुभात्मकानि कर्माणि अधस्तनमूलानि +++(;N -- मूलानि यस्य)+++।
 </details>
@@ -419,12 +426,14 @@ presented:
 
 15.1 See Comment under 15.2
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥15.1॥ एवं पूर्वाध्याये पुरुषस्य प्रकृतिसम्बन्धो गुणसङ्गतो लीलार्थं
 भगवतैव कृतस्तारतम्यत इति पूर्वोक्तं साङ्ख्यं विवृतं;
@@ -481,10 +490,13 @@ presented:
 दुर्लभाधिकारित्वम्। वेदं वेत्ति जानाति स वेदवित्;
 वेदार्थज्ञानवानित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥15.1॥ वैराग्येण विना ज्ञानं न च भक्तिरतः स्फुटम्। वैराग्योपस्कृतं
 ज्ञानमीशः पञ्चदशेऽदिशत्॥1॥  
@@ -506,10 +518,13 @@ presented:
 प्रवाहरूपेण नित्यश्च वेदोक्तैः कर्मभिः सेव्यतामापादितश्चेत्येतावानेव हि
 वेदार्थः। अतएव विद्वान्वेदविदिति स्तूयते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 15.1 The Lord said They speak of an immutable Asvattha tree with its roots above and branches below. Its leaves are the Vedas. He who knows it knows the Vedas.
@@ -555,11 +570,13 @@ Then comes sound which stimulates the ears to hear sweet music. Then comes touch
 the animal kingdom and the human kingdom are all branches of this tree of Samsara. Man does good and evil actions with the help of the body and takes births to experience the fruits thereof. The human body is the water for this tree of Samsara.The body itself is the peepul tree. The root is the cerrospinal nervous system (brain). The various nerves are the branches that ramify downwards to the various organs distributed over the body.Avyaya Eternal; because this tree rests on an unbroken seires of births without beginning and end it is thus eternal. It can be cut down by the sword of knowledge of Brahman. Just as the leaves of a tree protect it; so also the Vedas protect this tree of Samsara;
 treating of virtue and vice; with their causes and fruits.He who knows this tree of Samsara and its roots as described above is a knower of the Vedas. He is a knower of the teachings of the Vedas. Not even an iota remains to be known beyond this tree of Samsara and its root. He who knows it is omniscient. The Lord has eulogised the knowledge of the tree of Samsara and its root in order to encourage aspirants to acire this knowledge.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/15_puruShottama-yogaH/01_shrI_bhagavAnuvAc.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।15.1।। श्रीभगवान् बोले -- ऊपरकी ओर मूलवाले तथा नीचेकी ओर शाखावाले जिस
@@ -793,6 +810,7 @@ treating of virtue and vice; with their causes and fruits.He who knows this tree
 ।।15.1।। श्री भगवान् ने कहा -- (ज्ञानी पुरुष इस संसार वृक्ष को)
 ऊर्ध्वमूल और अध:शाखा वाला अश्वत्थ और अव्यय कहते हैं; जिसके पर्ण छन्द
 अर्थात् वेद हैं, ऐसे (संसार वृक्ष) को जो जानता है, वह वेदवित् है।।
+</details>
 </details>
 
 </div>

@@ -23,8 +23,9 @@ title = "30 यो माम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥6.30॥ ततो विपाकदशाम् आपन्नो मम साधर्म्यम् उपागतःनिरञ्जनः परमं साम्यमुपैति (मु॰ उ॰ 3।1।3) इत्युच्यमानं सर्वस्य आत्मवस्तुनो विधूतपुण्यपापस्य स्वरूपेण अवस्थितस्य मत्साम्यं पश्यन् **यः सर्वत्र** आत्मवस्तुनि **मां पश्यति सर्वम्** आत्मवस्तु **च मयि पश्यति** अन्योन्यसाम्याद् अन्यतरदर्शनेन अन्यतरद् अपि ईदृशम् इति पश्यति **तस्य** स्वात्मस्वरूपं पश्यतः **अहं** तत्साम्यात् **न प्रणश्यामि** न अदर्शनम् उपयामि मम अपि मां पश्यतः मत्साम्यात् स्वात्मानं मत्समम् अवलोकयन् **स** न अदर्शनम् उपयाति। ततो विपाकदशाम् आह
@@ -41,12 +42,14 @@ title = "30 यो माम्"
 
 6.30 (ii) He who, having reached the highest stage of maturity, views similarity of nature with Me, i.e., sees similarity of all selves to Myself when They are freed from good and evil and when they remain in Their own essence, as declared in the Sruti, 'Stainless he attains supreme degree of eality' (Mun. U., 3.1.3); and 'sees Me in all selves and sees all selves in Me.' That is, on viewing one of Them (selves), one views another also to be the same, because of their similarity to one another. To him who perceives the nature of his own self, I am not lost on account of My similarity to him i.e., I do not become invisible to him. He (the Yogin) viewing his own self as similar to Me, always remains within My sight when I am viewing Myself, because of similarity of his self with Me. Sri Krsna describes a still more mature steps (of Yoga):
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥6.30॥ **यो मां पश्यति** वासुदेवं सर्वस्य आत्मानं **सर्वत्र** सर्वेषु भूतेषु **सर्वं च** ब्रह्मादिभूतजातं **मयि** सर्वात्मनि **पश्यति तस्य** एवं आत्मैकत्वदर्शिनः अहम् ईश्वरो न **प्रणश्यामि** न परोक्षतां गमिष्यामि। **स च मे न प्रणश्यति** स च विद्वान् मम वासुदेवस्य न प्रणश्यति न परोक्षो भवति तस्य च मम च एकात्मकत्वात् स्वात्मा हि नाम आत्मनः प्रिय एव भवति यस्माच्च अहमेव सर्वात्मैकत्वदर्शी॥ इत्येतत् पूर्वश्लोकार्थं सम्यग्दर्शनमनूद्य तत्फलं मोक्षः अभिधीयते
 </details>
@@ -156,12 +159,14 @@ of the Self in all.
 भगवान् पश्यन्नपि तं न पश्यति। स एनमविदितो न भुनक्ति इति श्रुतेः।
 विद्वांस्तु सदैव संनिहितो भगवतोऽनुग्रहभाजनमित्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.30॥ फलमाह यो मामिति। तस्याहं न प्रणश्यामीति सर्वदा योगक्षेमवहः
 स्यामित्यर्थः। स च मे न प्रणश्यति सर्वदा मद्भक्तो भवति। सत्यपि
@@ -182,12 +187,14 @@ of the Self in all.
 तथात्वाभावात्न प्रणश्यामि इत्यादिरूढोपचारश्चायम्। अतो न
 प्रयोजनान्वेषणमिति। अत्र पुराणसम्मतिमाह **उक्तं चे**ति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.30॥ एष एवार्थः स्पष्टीक्रियते +++(K omits this sentence )+++ यो मामिति। प्रणाशः अकार्यकारित्वात् +++(S कारकत्वात्)+++। तथाहि परमात्मनः सर्वगतं रूपं यो न पश्यति तस्य परमात्मा पलायितः स्वरूपप्रकटीकाराभावात्। यच्चेदं +++(N यश्चेदम्)+++ वस्तुजातं तत् तद्भासनात्मनि परमात्मनि +++(omits परमात्मनि)+++ निर्विष्टं भाति +++(SK विनिविष्टं भाति ( K भवति)+++ तथाविधं यो न पश्यति स परमात्मस्वरूपात् प्रणष्टः तद्व्यतिरेके सति अनिर्भासनात्। यस्तु सर्वगतं मां पश्यति तस्याहं न प्रणष्टः स्वरूपेण भासनात्। भावांश्च मयि पश्यति तत् तेषां भासनोपपत्तौ द्रष्टृतायां परिपूर्णायां स न प्रणष्टः परमात्मनः।
 </details>
@@ -196,12 +203,14 @@ of the Self in all.
 
 6.30 Yo Mam etc. Loss : i.e., on account of serving no purpose \[on the part of a thing\]. For example : He who does not see the all-pervasive nature of the Supreme Self, from him the Supreme Self has fled away, because It does not reveal Its own nature. Further, this aggregate of objects, which is being perceived, remains settled down in the Supreme Self, which is the very nature of their illumination (being known). Now, whosoever fails to veiw the object as such, he gets lost from the naute of that Supreme Self. For, nothing shines without It. On the other hand, he who finds Me (the Supreme Consciousness) as immanent in all - for him I am not lost; because I appear \[to him\] in my own nature. \[Again\], when he perceives objects in Me-when his perceiverhood is complete on account of the possibility of illumination and manifestation of these objects due to This - then he is not lost for the Supreme Self.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.29 6.30॥ एतादृशस्य योगिनो ब्रह्मसुखाविर्भावो वामदेववत्सर्वात्मभावे
 भवतीत्याह। गुह्यः असम्प्रज्ञातसमाधिर्द्विविधः अक्षरब्रह्मविषयको
@@ -226,10 +235,13 @@ of the Self in all.
 कदाचिदपि वियुक्तो भवामि। स च मे मत्तः न प्रणश्यति न वियुक्तो
 भवतीत्यर्थः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥6.30॥ एवंभूतात्मज्ञानस्य सर्वभूतात्मतया मदुपासनं मुख्यं कारणमित्याह
 **य इति।** मां परमेश्वरं सर्वत्र भूतमात्रे यः पश्यति सर्वं च
@@ -237,10 +249,13 @@ of the Self in all.
 ममादृश्यो न भवति। प्रत्यक्षो भूत्वा कृपादृष्ट्या तं
 विलोक्यानुगृह्णामीत्यर्थः।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 6.30 To him who sees Me in every self and sees every self in Me - I am not lost to him and he is not lost to Me.
@@ -272,11 +287,13 @@ of the Self in all.
 and; मयि in Me; पश्यति sees; तस्य of him; अहम् I; न not; प्रणश्यामि
 vanish; सः he; च and; मे to Me; न not; प्रणश्यति vanishes.Commentary In this verse the Lord describes the effect of the vision of the unity of the Self or oneness.He who sees Me; the Self of all; in all beings; and everything (from Brahma the Creator down to the blade of grass) in Me; I am not lost to him; nor is he lost to Me. I and the sage or seer of unity of the Self become identical or one and the same. I never leave his presence nor does he leave My presence. I never lose hold of him nor does he lose hold of Me. I dwell in him and he dwells in Me.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।6.30।। जो सबमें मुझे देखता है और सबको मुझमें देखता है, उसके लिये मैं
@@ -366,6 +383,7 @@ vanish; सः he; च and; मे to Me; न not; प्रणश्यति v
 ।।6.30।। जो पुरुष मुझे सर्वत्र देखता है और सबको मुझमें देखता है, उसके
 लिए मैं नष्ट नहीं होता (अर्थात् उसके लिए मैं दूर नहीं होता) और वह मुझसे
 वियुक्त नहीं होता।।
+</details>
 </details>
 
 </div>

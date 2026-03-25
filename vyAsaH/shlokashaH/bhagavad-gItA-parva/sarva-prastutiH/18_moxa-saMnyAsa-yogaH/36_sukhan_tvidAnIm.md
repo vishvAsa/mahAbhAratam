@@ -23,8 +23,9 @@ title = "36 सुखन् त्विदानीम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥18.36॥ पूर्वोक्ताः सर्वे ज्ञानकर्मकर्त्रादयो यच्छेषभूताः; तच् च सुखं गुणतः **त्रिविधम् इदानीं श्रृणु।** यस्मिन् सुखे चिरकालाभ्यासात् क्रमेण निरतिशयां रतिं प्राप्नोति **दुःखान्तं च निगच्छति;** निखिलस्य सांसारिकस्य दुःखस्य अन्तं निगच्छति। तद् एव विशिनष्टि --
@@ -39,12 +40,14 @@ title = "36 सुखन् त्विदानीम्"
 
 18.36 Now, hear about the pleasure to which the knowledge, action, agent etc., already mentioned are all subservient and which is threefold according to the Gunas. ৷৷. That pleasure in which a person, through long practice extending over a long time, gradually attains to incomparable joy and never again is engulfed by the pain of life in Samsara. Sri Krsna explains the same:
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥18.36॥ --,**सुखं तु इदानीं त्रिविधं शृणु;** समाधानं कुरु इत्येतत्; **मे** मम **भरतर्षभ। अभ्यासात्** परिचयात् आवृत्तेः **रमते** रतिं प्रतिपद्यते **यत्र** यस्मिन् सुखानुभवे **दुःखान्तं च** दुःखावसानं दुःखोपशमं च **निगच्छति** निश्चयेन प्राप्नोति॥
 </details>
@@ -113,12 +116,14 @@ duhkhantam, the cessation of sorrow-.
 सद्यएव यस्मिन् रममाणश्च दुःखस्य सर्वस्याप्यन्तमवसानं नितरां गच्छति नतु
 विषयसुख इवान्ते महद्दुःखम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.36॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -127,12 +132,14 @@ duhkhantam, the cessation of sorrow-.
 
 ॥18.36॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.36 -- 18.39॥ सुखमित्यादि तामसमुदाहृतमित्यन्तम्। तदात्वे; अभ्यासकाले। विषमिव; जन्मशताभ्यस्तविषयसङ्गस्य दुष्परिहारत्वात्। उक्तं च श्रुतौ -- क्षुरस्य धारा विषमा दुरत्यया इत्यादि। आत्मप्रसादात् बुद्धिप्रसादो जायते; अन्यस्यापेक्ष्यमाणस्याभावात्। विषयेन्द्रियाणां परस्परसंयोगज़ं,+++(S; -- संप्रयोगजम् )+++ सुखम्; चक्षुष इव रूपसंबन्धात्। निद्रातः आलस्येन प्रमादेन +++(S; ; N आलस्येन शठतया प्रमादेन )+++ पूर्वं व्याख्यातेन यत् सुखं तत्तामसम्।
 </details>
@@ -141,12 +148,14 @@ duhkhantam, the cessation of sorrow-.
 
 18.36 See Comment under 18.39
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.36॥ सुखस्य त्रैविध्यं प्रतिजानन्नाह -- सुखमिति। यत्र सुखे
 चिरकालाभ्यासात्क्रमेण निरतिशयां रतिं मन्यते सांसर्गिकदुःखस्य चान्तं च
@@ -163,20 +172,26 @@ duhkhantam, the cessation of sorrow-.
 क्षणमात्रानुभवमाप्नोति; च पुनः यदनुशीलने दुःखान्तं संसारान्तं नितरां
 गच्छति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥18.36॥ सुखस्य त्रैविध्यं प्रतिजानीते अर्धेन **-- सुखमिति।**
 स्पष्टार्थः। तत्र सात्त्विकं सुखमाह -- अभ्यासादिति सार्धेन। यत्र
 यस्मिन्सुखे अभ्यासादतिपरिचयाद्रमते नतु विषयसुख इव सहसा रतिं प्राप्नोति।
 यस्मिन् रममाणश्च दुःखस्यान्तमवसानं नितरां गच्छति प्राप्नोति।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 18.36 Now hear from Me, O Arjuna, the threefold division of pleasure৷৷.
@@ -209,11 +224,13 @@ that in which a man rejoices by long practice and in which he comes to the end o
 श्रृणु hear; मे of Me; भरतर्षभ O lord of the Bharatas; अभ्यासात् from practice; रमते rejoices; यत्र in which; दुःखान्तम् the end of pain; च
 and; निगच्छति (he) attains to.Commentary A little of this pleasure experienced by the Self must result in the cessation of pain. This pleasure is threefold in its nature and I will describe its aspects in turn; O Arjuna. (Cf.VI.20;30).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।18.36।। हे भरतवंशियोंमें श्रेष्ठ अर्जुन ! अब तीन प्रकारके सुखको भी तुम
@@ -371,6 +388,7 @@ and; निगच्छति (he) attains to.Commentary A little of this pleasu
 ।।18.36।। हे भरतश्रेष्ठ ! अब तुम त्रिविध सुख को मुझसे सुनो, जिसमें (साधक
 पुरुष) अभ्यास से रमता है और दु:खों के अन्त को प्राप्त होता है (जहाँ उसके
 दु:खों का अन्त हो जाता है। )।।
+</details>
 </details>
 
 </div>

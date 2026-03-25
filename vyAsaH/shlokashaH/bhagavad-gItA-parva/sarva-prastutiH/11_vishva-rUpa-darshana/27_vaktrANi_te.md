@@ -25,8 +25,9 @@ title = "27 वक्त्राणि ते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥11.27॥**अमी धृतराष्ट्रस्य पुत्राः** दुर्योधनादयः **सर्वे भीष्मो द्रोणः सूतपुत्रः** कर्णश्च तत्पक्षीयैर् अवनिपालसमूहैः सर्वैः **अस्मदीयैर् अपि** कैश्चिद् **योधमुख्यैः सह त्वरमाणा दंष्ट्राकरालनि भयानकानि** तव **वक्त्राणि विनाशाय विशन्ति।** तत्र **केचिच् चूर्णितैर् उत्तमाङ्गैर् दशनान्तरेषु विलग्नाः सन्दृश्यन्ते।**
@@ -45,12 +46,14 @@ title = "27 वक्त्राणि ते"
 
 11.26 11.27 All these sons of Dhrtarastra like Duryodhana and others like Bhisma, Drona, and Suta's son Karna together with the hosts of monarchs on their side and also the leading warriors on our side, are hastening to their destruction; they enter Your fearful mouths with terrible fangs; some, caught between the teeth are seen with their heads crushed to powder.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.27॥ --,**वक्त्राणि** मुखानि ते तव **त्वरमाणाः** त्वरायुक्ताः सन्तः **विशन्ति;** किंविशिष्टानि मुखानि **दंष्ट्राकरालानि भयानकानि** भयंकराणि। किञ्च; **केचित्** मुखानि प्रविष्टानां मध्ये **विलग्नाः दशनान्तरेषु** मांसमिव भक्षितं **संदृश्यन्ते** उपलभ्यन्ते **चूर्णितैः** चूर्णीकृतैः **उत्तमाङ्गैः** शिरोभिः॥ कथं प्रविशन्ति मुखानि इत्याह --,
 </details>
@@ -104,12 +107,14 @@ he says:
 केचिच्चूर्णितैरुत्तमाङ्गैः शिरोभिर्विशिष्टा दशनान्तरेषु विलग्ना विशेषेण
 संलग्ना दृश्यन्ते मया सम्यगसंदेहेन।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.27॥ Sri Madhvacharya did not comment on this sloka.,
 </details>
@@ -118,12 +123,14 @@ he says:
 
 ॥11.27॥ Sri Jayatirtha did not comment on this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.27॥ No commentary.
 </details>
@@ -132,12 +139,14 @@ he says:
 
 11.27 Sri Abhinavagupta did not comment upon this sloka.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.27॥ Sri Vallabhacharya did not comment on this sloka.
 </details>
@@ -149,20 +158,26 @@ he says:
 दन्तच्छिद्रेषु विलग्ना लम्बमानाः चूर्णितैः चूर्णीकृतैः उत्तमाङ्गैः
 सन्दृश्यन्ते।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥11.27॥**वक्त्राणीति।** एते सर्वे त्वरमाणा धावन्त इव दंष्ट्राभिः
 करालानि भयंकराणि वक्त्राणि विशन्ति। तेषां मध्ये
 केचिच्चूर्णीकृतैरुत्तमाङ्गैः शिरोभिरुपलक्षिता दन्तसंधिषु संश्लिष्टाः
 संदृश्यन्ते।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 11.27 Hasten to enter Your fearful mouths with terrible fangs. Some,
@@ -198,11 +213,13 @@ some; विलग्नाः sticking; दशनान्तरेषु in th
 संदृश्यन्ते are found; चूर्णितैः crushed to powder; उत्तमाङ्गैः with
 (their) heads.Commentary How do they enter into the mouth Arjuna continues
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।11.26 -- 11.27।। हमारे मुख्य योद्धाओंके सहित भीष्म, द्रोण और वह कर्ण
@@ -294,6 +311,7 @@ some; विलग्नाः sticking; दशनान्तरेषु in th
 ।।11.27।। तीव्र वेग से आपके विकराल दाढ़ों वाले भयानक मुखों में प्रवेश
 करते हैं और कई एक चूर्णित शिरों सहित आपके दांतों के बीच में फँसे हुए दिख
 रहे हैं।।
+</details>
 </details>
 
 </div>

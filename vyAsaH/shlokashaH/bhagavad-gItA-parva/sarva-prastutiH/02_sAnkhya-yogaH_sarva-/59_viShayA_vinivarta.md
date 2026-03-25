@@ -23,8 +23,9 @@ title = "59 विषया विनिवर्तन्ते"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥2.59॥ इन्द्रियाणाम् आहारो विषयाः **निराहारस्य** विषयेभ्यः प्रत्याहृतेन्द्रियस्य **देहिनो विषयाः** विनिवर्तमाना **रसवर्जं विनिवर्तन्ते। रसो** रागः विषयरागो न निवर्तते इत्यर्थः। रागः **अपि** आत्मस्वरूपं विषयेभ्यः **परं** सुखतरं **दृष्ट्वा** विनिवर्तते।
@@ -41,12 +42,14 @@ title = "59 विषया विनिवर्तन्ते"
 
 2.59 The sense objects are the food of the senses. From the abstinent embodied being, i.e., from one who has withdrawn his senses from objects, these sense-objects, being rejected by him, turn away, but not the relish for them. Relish means hankering. The meaning is that the hankering for the sense-objects does not go away by abstinence alone. But even this hankering will go away, when one sees that the essential nature of the self is superior to the sense-objects and that the realisation of this self gives greater happiness than the enjoyment of sense-objects.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.59॥  
   
@@ -182,12 +185,14 @@ control:
 सरागविषयोच्छेदस्तस्मात्सरागविषयोच्छेदिकायाः सम्यग्दर्शनात्मिकायाः
 प्रज्ञायाः स्थैर्यं महता यत्नेन संपादयेदित्यभिप्रायः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.59॥ न चैतल्लक्षणं ज्ञानमयत्नतो भवतीत्याहोत्तरश्लोकैः। निराहारत्वेन
 विषयभोगसामर्थ्याभाव एव भवति इतरविषयाकाङ्क्षाभावो वा रसाकाङ्क्षादिर्न
@@ -234,12 +239,14 @@ control:
 निराहारत्वब्रह्मसाक्षात्काराभ्यां भवतीत्येवमिन्द्रियजयस्य
 महाप्रयत्नसाध्यत्वमिति।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.61॥ ननु तपस्विनोऽपि कथं स्थितप्रज्ञशब्दो न प्रवर्तते उच्यते  
 विषया इति। यद्यपि आह्ार्यैः रूपादिभिर्विषयैः संबन्धोऽस्य नास्ति तथापि तस्य विषया अन्तःकरणगतमुपरागलक्षणं रसं वर्जयित्वा एव निवर्तन्ते। अतो नासौ स्थिरप्रज्ञः। रसं केचिदास्वाद्यं मधुरादिकमाहुः +++(K omits this entire sentence )+++। योगिनस्तु परमेश्वरदर्शनात् उपरागो न +++(N omits न)+++ भवति। अन्यस्य तु तपस्विनो नासौ निवर्तते।
@@ -249,12 +256,14 @@ control:
 
 2.59 Visayah etc. Of course, in his (ascetic's) case there is no contact with sense-objects, colour and the rest that are enjoyable. Yet, the sense-obects retreat \[from him\] leaving a taste in the form of longing that exists in his internal organ. Hence he is not a man-of-stabilized-intellect. Some (commentators) say that 'taste' denotes the sweetness etc., of the objects of experience. But, in the case of a man of Yoga there exists no longing as he has seen the Supreme Lord. On the other hand, in the case of the other, i.e. an ascetic, this does not retreat (disappear).
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.59॥ यतो निराहारस्य विषयेभ्यः प्रत्याहृतेन्द्रियस्य सतः विषया
 विनिवर्त्तन्ते नान्यस्य निराहारस्य रसवर्जं विषया वा निवर्त्तन्ते न तु
@@ -273,10 +282,13 @@ control:
 अस्य स्थितप्रज्ञस्य **रसोऽपि** तद्-अभिलाषोऽपि परमुत्कृष्टं भगवदीय-रसं दृष्ट्वा निवर्त्तते।  
 एतावद् वैलक्षण्यम् इति भावः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥2.59॥ ननु नेन्द्रियाणां विषयेष्वप्रवृत्तिः स्थितप्रज्ञस्य लक्षणं
 भवितुमर्हति। जडानामातुराणामुपवासपराणां च
@@ -289,10 +301,13 @@ control:
 क्षुधासंतप्तस्य शब्दस्पर्शाद्यपेक्षाभावात्। परंतु रसवर्जम्। रसापेक्षा तु
 न निवर्तत इत्यर्थः। शेषं समानम्।  
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>आदिदेवानन्दः</summary>
 
 2.59 The objects of senses, excepting relish for the objects, turn away from the abstinent dweller in the body. Even the relish turns aswy from him when what is supreme over the senses i.e., the self, is seen.
@@ -325,11 +340,13 @@ abstinent; देहिनः of the man; रसवर्जम् leaving the l
 (taste); अपि even; अस्य of his; परम् the Supreme; दृष्ट्वा having seen;
 निवर्तते turns away.Commentary Knowledge of the Self alone can destroy in toto the subtle Vasanas (latent tendencies) and all the subtle desires; all subtle attachments and even the longing for objects. By practising severe austerities; by abandoning the sensual objects; the objects of the senses may turn away from the ascetic but the relish or taste or longing for the objects will still remain.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।2.59।। निराहारी (इन्द्रियोंको विषयोंसे हटानेवाले) मनुष्यके भी विषय तो
@@ -411,6 +428,7 @@ abstinent; देहिनः of the man; रसवर्जम् leaving the l
 ।।2.59।। निराहारी देही पुरुष से विषय तो निवृत्त (दूर) हो जाते हैं;
 परन्तु (उनके प्रति) राग नहीं परम तत्व को देखने पर इस (पुरुष) का राग भी
 निवृत्त हो जाता है।।
+</details>
 </details>
 
 </div>

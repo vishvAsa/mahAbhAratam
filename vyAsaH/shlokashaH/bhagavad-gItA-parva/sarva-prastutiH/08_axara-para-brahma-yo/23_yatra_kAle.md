@@ -23,8 +23,9 @@ title = "23 यत्र काले"
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
+<div class="js_include" newlevelforh1="2" title="रामानुजः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
 
+<details open><summary><h2>रामानुजः …{Loading}…</h2></summary>
 <details><summary>रामानुजः - मूलम्</summary>
 
 ॥8.23॥ अत्र कालशब्दो मार्गस्य अहःप्रभृतिसंवत्सरान्तकालाभिमानिदेवताभूयस्तया मार्गोपलक्षणार्थः यस्मिन् मार्गे **प्रयाता योगिनो अनावृत्तिं** पुण्यकर्माणश् च **आवृत्तिं यान्ति तं** मार्गं **वक्ष्यामि** इत्यर्थः।
@@ -55,12 +56,14 @@ title = "23 यत्र काले"
 
 8.23 - 8.24 Here, the term 'time' denotes a path, having many deities beginning with day and ending with year. The deities preside over divisions of time. The meaning is - I declare to you the path departing in which Yogins do not return and also the path departing in which the doers of good actions return. By the clause, 'Light in the form of fire, the day, bright fortnight, six months of the northern course,' year also is denoted.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
+<div class="js_include" newlevelforh1="2" title="शङ्करः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>शङ्करः …{Loading}…</h2></summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.23॥ -- यत्र काले प्रयाताः इति व्यवहितेन संबन्धः। **यत्र** यस्मिन् **काले तु अनावृत्तिम्** अपुनर्जन्म **आवृत्तिं** तद्विपरीतां **चैव। योगिनः** इति योगिनः कर्मिणश्च उच्यन्ते कर्मिणस्तु गुणतः -- कर्मयोगेन योगिनाम् (गीता 3।3) इति विशेषणात् -- योगिनः। यत्र काले **प्रयाताः** मृताः योगिनः अनावृत्तिं यान्ति यत्र काले च प्रयाताः आवृत्तिं यान्ति **तं कालं वक्ष्यामि भरतर्षभ**॥ तं कालमाह --,
 </details>
@@ -171,12 +174,14 @@ that time: \[This is Ast.'s reading.-Tr.\]
 प्रातरग्निदेवताया अभावात्तत्प्रख्यं चान्यशास्त्रमित्यनेन तस्य नामधेयता न
 स्यात्। आम्रवणमिति च लौकिकों दृष्टान्तः।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
+<div class="js_include" newlevelforh1="2" title="मध्वः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>मध्वः …{Loading}…</h2></summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.23॥ यत्कालाद्यभिमानिदेवता गता आवृत्त्यनावृत्ती गच्छन्ति ता आह --
 यत्रेत्यादिना। काल इत्युपलक्षणं अग्न्यादेरपि वक्ष्यमाणत्वात्।
@@ -191,12 +196,14 @@ that time: \[This is Ast.'s reading.-Tr.\]
 व्याख्यानं इत्यत आह -- **काल** इति। कुतः इत्यत आह -- **अग्न्यादेरि**ति।
 अग्निर्ज्योतिर्धूमानाम्।
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
+<div class="js_include" newlevelforh1="2" title="अभिनव-गुप्तः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>अभिनव-गुप्तः …{Loading}…</h2></summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.23॥ एवं च सतताभ्यासेन येषां क्लेशं विनैव भगवदाप्तिः तेषां वृत्तमुक्तम्। इदानीम् +++(NK [n] इदानीं पुनः)+++ उत्क्रान्त्या येऽपवर्गं भोगं चेच्छन्ति तेषां कश्चिद्विशेष उच्यते -- यत्रेति। अनावृत्तिः मोक्षः। आवृत्तिः भोगाय।
 </details>
@@ -205,12 +212,14 @@ that time: \[This is Ast.'s reading.-Tr.\]
 
 8.23 Yatra etc. The non-return : emancipation. The return : i.e., for enjoying \[worldly life\]. (23)
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
+<div class="js_include" newlevelforh1="2" title="वल्लभः" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
 
-<details><summary>मूलम्</summary>
+<details open><summary><h2>वल्लभः …{Loading}…</h2></summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥8.23॥ अथ कदा केन मार्गेण गता नावर्त्तन्ते केन वा गताश्चावर्त्तन्ते
 इत्यपेक्षायामाह -- यत्रेति। अत्र कालशब्दोऽपि
@@ -232,10 +241,13 @@ that time: \[This is Ast.'s reading.-Tr.\]
 प्राप्नुवन्ति हे भरतर्षभ ज्ञानयोग्यकुलोत्पन्न तं कालं वक्ष्यामि
 कथयामीत्यर्थः। ,
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/23_yatra_kAle.md">
+<div class="js_include" newlevelforh1="2" title="श्रीधर-स्वामी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/08_axara-para-brahma-yo/23_yatra_kAle.md">
+
+<details open><summary><h2>श्रीधर-स्वामी …{Loading}…</h2></summary>
 
 ॥8.23॥ तदेवं परमेश्वरोपासकाः तत्पदं प्राप्य न निवर्तन्ते अन्ये
 त्वावर्तन्त इत्युक्तम्। तत्र केन मार्गेण गता नावर्तन्ते केन वा
@@ -250,10 +262,13 @@ that time: \[This is Ast.'s reading.-Tr.\]
 कालाभिमानित्वाभावेऽपि भूयसामहरादिशब्दोक्तानां
 कालाभिमानित्वात्तत्साहचर्यादाम्रवनमित्यादिवत्कालशब्देनोपलक्षणमविरुद्धम्।
 
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
+<div class="js_include" newlevelforh1="2" title="English" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/english/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
 
+<details open><summary><h2>English …{Loading}…</h2></summary>
 <details><summary>गम्भीरानन्दः</summary>
 
 8.23 O best of the Bharata dynasty, I shall now speak of that time by departing at which the yogis attain the State of Non-return, and also
@@ -282,11 +297,13 @@ that time: \[This is Ast.'s reading.-Tr.\]
 आवृत्तिम् return; च and; एव even; योगिनः Yogis; प्रयाताः departing;
 यान्ति go to; तम् that; कालम् time; वक्ष्यामि (I) will tell; भरतर्षभ O chief of Bharatas.Commentary I shall declare to you; O Prince of the Bharatas; the time at which if the Yogis leave their body they will not be born again and also when if they die they will be born again.To return means to be born again.
 </details>
+</details>
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
+<div class="js_include" newlevelforh1="2" title="हिन्दी" unfilled url="/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/sarvASh_TIkAH/08_axara-para-brahma-yo/23_yatra_kAle.md">
 
+<details open><summary><h2>हिन्दी …{Loading}…</h2></summary>
 <details><summary>रामसुखदासः - अनुवादः</summary>
 
 ।।8.23।। हे भरतवंशियोंमें श्रेष्ठ अर्जुन ! जिस काल अर्थात् मार्गमें शरीर
@@ -336,6 +353,7 @@ that time: \[This is Ast.'s reading.-Tr.\]
 ।।8.23।। हे भरतश्रेष्ठ ! जिस काल में (मार्ग में) शरीर त्याग कर गये हुए
 योगीजन अपुनरावृत्ति को, और (या) पुनरावृत्ति को प्राप्त होते हैं, वह काल
 (मार्ग) मैं तुम्हें बताऊँगा।।
+</details>
 </details>
 
 </div>
