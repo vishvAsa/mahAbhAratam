@@ -2,7 +2,7 @@
 title = "16 अनेकबाहूदरवक्त्रनेत्रम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.16॥ अनेकेति। कूटस्थत्वात्।
 </details>

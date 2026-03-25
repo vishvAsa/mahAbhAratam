@@ -2,7 +2,7 @@
 title = "05 गुरूनहत्वा हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.5॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.

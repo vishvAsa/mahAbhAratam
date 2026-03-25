@@ -2,7 +2,7 @@
 title = "22 पुरुषः स"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.22॥ परमसाधनमाह -- पुरुष इति।
 </details>

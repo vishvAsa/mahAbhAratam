@@ -2,7 +2,7 @@
 title = "11 मयि चानन्ययोगेन"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.11॥ मयीति।
 </details>

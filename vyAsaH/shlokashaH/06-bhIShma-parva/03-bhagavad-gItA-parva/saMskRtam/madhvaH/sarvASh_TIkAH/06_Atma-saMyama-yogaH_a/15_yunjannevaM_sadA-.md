@@ -2,7 +2,7 @@
 title = "15 युञ्जन्नेवं सदाऽऽत्मानम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.15॥ निर्वाणपरमां शरीरत्यागोत्तरकालीनाम्।
 </details>

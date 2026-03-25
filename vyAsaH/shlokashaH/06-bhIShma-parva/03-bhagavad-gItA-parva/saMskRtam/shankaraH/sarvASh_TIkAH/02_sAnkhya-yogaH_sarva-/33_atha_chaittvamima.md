@@ -2,7 +2,7 @@
 title = "33 अथ चैत्त्वमिमम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.33॥  
   

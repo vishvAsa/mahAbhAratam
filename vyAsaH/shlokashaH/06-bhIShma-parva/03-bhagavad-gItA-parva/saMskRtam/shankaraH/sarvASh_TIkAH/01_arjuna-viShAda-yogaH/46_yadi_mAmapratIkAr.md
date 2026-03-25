@@ -2,7 +2,7 @@
 title = "46 यदि मामप्रतीकारमशस्त्रम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.46 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>

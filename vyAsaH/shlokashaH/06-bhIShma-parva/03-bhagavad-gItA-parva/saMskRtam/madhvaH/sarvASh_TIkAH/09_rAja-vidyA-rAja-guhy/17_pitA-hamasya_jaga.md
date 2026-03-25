@@ -2,7 +2,7 @@
 title = "17 पिताऽहमस्य जगतो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.17॥ Sri Madhvacharya did not comment on this sloka.
 </details>

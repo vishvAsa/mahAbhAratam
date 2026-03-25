@@ -2,7 +2,7 @@
 title = "31 निमित्तानि च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.31 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>

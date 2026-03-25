@@ -2,7 +2,7 @@
 title = "04 यदा हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 अथेदानीं कदा योगारूढो भवति इत्युच्यते -
 

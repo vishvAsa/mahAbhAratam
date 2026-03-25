@@ -2,7 +2,7 @@
 title = "13 इदमद्य मया"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.13॥ इदमद्य मया लब्धं इति स्पष्टम्।
 </details>

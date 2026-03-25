@@ -2,7 +2,7 @@
 title = "07 मत्तः परतरम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.7॥ अहमेव परतरः मत्तोऽन्यत्परतरं न किञ्चिदपि।
 </details>

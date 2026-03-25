@@ -2,7 +2,7 @@
 title = "13 यज्ञशिष्टाशिनः सन्तो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.13॥ Sri Madhvacharya did not comment on this sloka.
 </details>

@@ -2,7 +2,7 @@
 title = "39 यदग्रे चानुबन्धे"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.39॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

@@ -2,7 +2,7 @@
 title = "07 यदा यदा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.7॥ Sri Madhvacharya did not comment on this sloka.
 </details>

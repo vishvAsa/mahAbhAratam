@@ -2,7 +2,7 @@
 title = "41 सखेति मत्वा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.41॥ No commentary.
 </details>

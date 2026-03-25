@@ -2,7 +2,7 @@
 title = "08 मय्येव मन"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 यतः एवम्; तस्मात् --,
 

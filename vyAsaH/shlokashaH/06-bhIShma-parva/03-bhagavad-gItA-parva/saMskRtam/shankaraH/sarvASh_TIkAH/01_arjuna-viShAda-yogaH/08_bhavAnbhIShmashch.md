@@ -2,7 +2,7 @@
 title = "08 भवान्भीष्मश्च कर्णश्च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.8 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>

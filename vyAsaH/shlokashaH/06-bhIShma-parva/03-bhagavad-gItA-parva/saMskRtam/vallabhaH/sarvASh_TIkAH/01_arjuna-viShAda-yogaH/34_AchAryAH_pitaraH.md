@@ -2,7 +2,7 @@
 title = "34 आचार्याः पितरः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.34 1.37॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

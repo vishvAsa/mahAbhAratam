@@ -2,7 +2,7 @@
 title = "16 मनःप्रसादः सौम्यत्वम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.16॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

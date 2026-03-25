@@ -2,7 +2,7 @@
 title = "06 द्वौ भूतसर्गौ"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥16.6॥ द्वाविति। एषा दैवी संपदुक्ता अभयम् इत्यादिना।
 </details>

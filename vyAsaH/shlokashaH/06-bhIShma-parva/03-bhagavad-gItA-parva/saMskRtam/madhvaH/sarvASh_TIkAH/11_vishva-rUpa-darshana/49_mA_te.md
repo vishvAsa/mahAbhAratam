@@ -2,7 +2,7 @@
 title = "49 मा ते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.49॥ Sri Madhvacharya did not comment on this sloka.
 </details>

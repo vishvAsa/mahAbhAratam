@@ -2,7 +2,7 @@
 title = "14 ततः स"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.14॥ तत इति दर्शनानन्तरं धनञ्जयः अभाषत। स्पष्टमन्यत्।
 </details>

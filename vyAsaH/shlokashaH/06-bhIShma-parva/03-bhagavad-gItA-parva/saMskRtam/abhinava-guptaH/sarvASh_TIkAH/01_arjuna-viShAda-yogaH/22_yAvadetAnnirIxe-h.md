@@ -2,7 +2,7 @@
 title = "22 यावदेतान्निरीक्षेऽहं"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.22॥ No commentary.
 </details>

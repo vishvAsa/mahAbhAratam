@@ -2,7 +2,7 @@
 title = "53 नाहं वेदैर्न"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.53॥ No commentary.
 </details>

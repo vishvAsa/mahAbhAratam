@@ -2,7 +2,7 @@
 title = "46 यतः प्रवृत्तिर्भूतानाम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.46॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

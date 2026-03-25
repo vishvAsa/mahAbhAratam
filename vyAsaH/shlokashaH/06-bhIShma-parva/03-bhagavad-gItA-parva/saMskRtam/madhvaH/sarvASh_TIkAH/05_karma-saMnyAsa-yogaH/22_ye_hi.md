@@ -2,7 +2,7 @@
 title = "22 ये हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.22॥ सन्न्यासार्थं कामभोगं निन्दयति येहीति।
 </details>

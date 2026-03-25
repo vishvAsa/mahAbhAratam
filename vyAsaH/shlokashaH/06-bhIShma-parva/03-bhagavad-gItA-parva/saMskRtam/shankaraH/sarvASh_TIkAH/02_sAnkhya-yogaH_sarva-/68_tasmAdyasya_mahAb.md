@@ -2,7 +2,7 @@
 title = "68 तस्माद्यस्य महाबाहो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.68॥  
   

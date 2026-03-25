@@ -2,7 +2,7 @@
 title = "21 पृथक्त्वेन तु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.21॥ Sri Madhvacharya did not comment on this sloka. ,
 </details>

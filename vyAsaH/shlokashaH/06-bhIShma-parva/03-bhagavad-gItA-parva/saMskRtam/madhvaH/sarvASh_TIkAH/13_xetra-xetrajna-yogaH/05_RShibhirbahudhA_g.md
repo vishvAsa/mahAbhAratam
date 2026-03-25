@@ -2,7 +2,7 @@
 title = "05 ऋषिभिर्बहुधा गीतम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.5॥ ब्रह्मसूत्राणि शारीरकम्।
 </details>

@@ -2,7 +2,7 @@
 title = "15 अनुद्वेगकरं वाक्यम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.15॥ Sri Madhvacharya did not comment on this sloka.
 </details>

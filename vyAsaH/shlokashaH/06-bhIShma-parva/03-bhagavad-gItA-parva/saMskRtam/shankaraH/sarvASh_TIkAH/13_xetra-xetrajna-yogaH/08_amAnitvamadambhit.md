@@ -2,7 +2,7 @@
 title = "08 अमानित्वमदम्भित्वमहिंसा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥13.8॥ --,  
 **अमानित्वं**  

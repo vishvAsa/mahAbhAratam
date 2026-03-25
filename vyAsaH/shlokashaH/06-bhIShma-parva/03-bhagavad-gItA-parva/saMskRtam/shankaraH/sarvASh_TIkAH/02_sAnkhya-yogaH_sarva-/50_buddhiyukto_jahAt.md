@@ -2,7 +2,7 @@
 title = "50 बुद्धियुक्तो जहातीह"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.50॥  
   

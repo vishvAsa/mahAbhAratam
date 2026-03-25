@@ -2,7 +2,7 @@
 title = "28 यथा नदीनाम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.28॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

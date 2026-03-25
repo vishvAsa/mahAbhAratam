@@ -2,7 +2,7 @@
 title = "42 यामिमाम् पुष्पिताम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 2.44 इत्यत्र दृश्यताम्।
 </details>

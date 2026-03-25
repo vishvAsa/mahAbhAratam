@@ -2,7 +2,7 @@
 title = "17 किरीटिनङ् गदिनम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.17॥ No commentary.
 </details>

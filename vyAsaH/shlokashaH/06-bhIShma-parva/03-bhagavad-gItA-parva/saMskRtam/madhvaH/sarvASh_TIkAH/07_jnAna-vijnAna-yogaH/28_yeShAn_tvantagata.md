@@ -2,7 +2,7 @@
 title = "28 येषान् त्वन्तगतम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.28॥ विपरीताश्च केचित्सन्तीत्याह येषामिति।
 </details>

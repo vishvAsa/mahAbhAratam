@@ -2,7 +2,7 @@
 title = "28 यथा नदीनाम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.28॥ No commentary.
 </details>

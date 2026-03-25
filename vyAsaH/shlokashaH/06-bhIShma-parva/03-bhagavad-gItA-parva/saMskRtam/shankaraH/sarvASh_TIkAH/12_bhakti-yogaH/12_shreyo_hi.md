@@ -2,7 +2,7 @@
 title = "12 श्रेयो हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 इदानीं सर्वकर्मफलत्यागं स्तौति --,
 

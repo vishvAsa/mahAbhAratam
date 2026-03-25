@@ -2,7 +2,7 @@
 title = "19 तानहन् द्विषतः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.19॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

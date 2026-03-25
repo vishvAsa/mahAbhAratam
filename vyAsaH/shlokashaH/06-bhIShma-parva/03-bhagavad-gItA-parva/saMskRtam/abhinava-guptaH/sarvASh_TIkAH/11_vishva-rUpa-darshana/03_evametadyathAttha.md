@@ -2,7 +2,7 @@
 title = "03 एवमेतद्यथात्थ"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.3॥ No commentary.
 </details>

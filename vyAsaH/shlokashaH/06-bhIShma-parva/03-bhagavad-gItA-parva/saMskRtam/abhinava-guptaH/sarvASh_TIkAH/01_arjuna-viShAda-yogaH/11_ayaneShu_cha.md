@@ -2,7 +2,7 @@
 title = "11 अयनेषु च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.11॥ अयनेषु इति अयनानि वीययः।
 </details>

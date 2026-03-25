@@ -2,7 +2,7 @@
 title = "38 कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.37 6.39॥ अयतिरप्रयत्नः।
 </details>

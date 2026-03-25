@@ -2,7 +2,7 @@
 title = "24 नभःस्पृशन्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.24॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

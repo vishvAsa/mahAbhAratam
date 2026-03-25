@@ -2,7 +2,7 @@
 title = "32 ये त्वेतदभ्यसूयन्तो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.32॥ विपक्षे दोषमाह ये त्विति।
 </details>

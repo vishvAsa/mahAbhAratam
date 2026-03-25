@@ -2,7 +2,7 @@
 title = "08 मय्येव मन"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.8॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

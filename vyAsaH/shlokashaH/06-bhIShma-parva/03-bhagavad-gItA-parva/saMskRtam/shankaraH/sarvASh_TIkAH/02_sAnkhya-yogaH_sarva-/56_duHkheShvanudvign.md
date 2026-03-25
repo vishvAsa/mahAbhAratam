@@ -2,7 +2,7 @@
 title = "56 दुःखेष्वनुद्विग्नमनाः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.56॥  
   

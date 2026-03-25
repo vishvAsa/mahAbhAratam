@@ -2,7 +2,7 @@
 title = "27 सर्वाणीन्द्रियकर्माणि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.27॥ आत्मसंयमाख्योपायाग्नौ।
 </details>

@@ -2,7 +2,7 @@
 title = "44 तस्मात्प्रणम्य प्रणिधाय"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.44॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

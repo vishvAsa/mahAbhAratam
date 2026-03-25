@@ -2,7 +2,7 @@
 title = "31 यदा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.31॥ एकस्थमेकस्मिन्विष्णौ स्थितम्। तत एव च विष्णोर्विस्तारम्।
 </details>

@@ -2,7 +2,7 @@
 title = "15 ज्ञानयज्ञेन चाप्यन्ये"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.15॥ No commentary.
 </details>

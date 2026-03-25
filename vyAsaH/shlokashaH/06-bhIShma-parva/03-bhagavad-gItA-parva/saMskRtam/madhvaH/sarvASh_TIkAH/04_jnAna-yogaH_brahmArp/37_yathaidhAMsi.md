@@ -2,7 +2,7 @@
 title = "37 यथैधांसि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.37॥ Sri Madhvacharya did not comment on this sloka.
 </details>

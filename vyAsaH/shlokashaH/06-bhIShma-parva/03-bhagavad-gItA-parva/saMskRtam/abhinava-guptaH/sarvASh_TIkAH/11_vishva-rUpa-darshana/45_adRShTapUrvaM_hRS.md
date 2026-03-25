@@ -2,7 +2,7 @@
 title = "45 अदृष्टपूर्वं हृषितोऽस्मि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.45॥ No commentary.
 </details>

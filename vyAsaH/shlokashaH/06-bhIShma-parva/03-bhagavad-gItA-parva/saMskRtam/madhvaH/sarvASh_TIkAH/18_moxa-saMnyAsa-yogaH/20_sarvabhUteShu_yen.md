@@ -2,7 +2,7 @@
 title = "20 सर्वभूतेषु येनैकम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.20॥ एकं भावं विष्णुम्।
 </details>

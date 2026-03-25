@@ -2,7 +2,7 @@
 title = "22 पुरुषः प्रकृतिस्थो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.22॥ Sri Madhvacharya did not comment on this sloka.
 </details>

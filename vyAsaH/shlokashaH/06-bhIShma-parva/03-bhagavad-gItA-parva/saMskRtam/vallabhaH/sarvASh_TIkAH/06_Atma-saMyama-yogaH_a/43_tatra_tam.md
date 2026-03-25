@@ -2,7 +2,7 @@
 title = "43 तत्र तम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥6.43॥ ततः किं तत्राह तत्र तमिति। यतत इति प्रयत्न उक्तः।
 </details>

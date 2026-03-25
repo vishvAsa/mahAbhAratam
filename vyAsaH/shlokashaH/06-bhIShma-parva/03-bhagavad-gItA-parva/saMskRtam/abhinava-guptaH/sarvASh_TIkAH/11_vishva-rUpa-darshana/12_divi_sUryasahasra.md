@@ -2,7 +2,7 @@
 title = "12 दिवि सूर्यसहस्रस्य"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.12॥ No commentary.
 </details>

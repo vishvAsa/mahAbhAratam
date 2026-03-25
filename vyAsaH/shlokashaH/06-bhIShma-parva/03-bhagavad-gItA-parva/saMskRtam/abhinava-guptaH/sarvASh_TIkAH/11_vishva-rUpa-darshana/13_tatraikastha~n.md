@@ -2,7 +2,7 @@
 title = "13 तत्रैकस्थञ्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.13॥ No commentary.
 </details>

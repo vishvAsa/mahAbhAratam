@@ -2,7 +2,7 @@
 title = "23 यदि ह्यहम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.23॥ तथापि कर्म करोमीत्यकरणे लोकनाशं दर्शयति द्वाभ्यां यदीति।
 </details>

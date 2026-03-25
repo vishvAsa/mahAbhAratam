@@ -2,7 +2,7 @@
 title = "09 अथ चित्तम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥12.9॥ अथेति।  
 

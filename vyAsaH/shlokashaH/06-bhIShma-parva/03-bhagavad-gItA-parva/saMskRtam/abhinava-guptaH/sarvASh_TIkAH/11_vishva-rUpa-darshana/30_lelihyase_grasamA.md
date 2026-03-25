@@ -2,7 +2,7 @@
 title = "30 लेलिह्यसे ग्रसमानः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.30॥ No commentary.
 </details>

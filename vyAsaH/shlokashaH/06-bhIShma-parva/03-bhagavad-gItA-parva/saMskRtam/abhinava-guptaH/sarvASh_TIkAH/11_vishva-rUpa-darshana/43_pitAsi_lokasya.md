@@ -2,7 +2,7 @@
 title = "43 पितासि लोकस्य"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.43॥ No commentary.
 </details>

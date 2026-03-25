@@ -2,7 +2,7 @@
 title = "43 दोषैरेतैः कुलघ्नानाम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.43॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.

@@ -2,7 +2,7 @@
 title = "08 न तु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.8॥ No commentary.
 </details>

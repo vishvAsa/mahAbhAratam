@@ -2,7 +2,7 @@
 title = "26 अमी च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.26॥ No commentary.
 </details>

@@ -2,7 +2,7 @@
 title = "11 दिव्यमाल्याम्बरधरन्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.11॥ No commentary.
 </details>

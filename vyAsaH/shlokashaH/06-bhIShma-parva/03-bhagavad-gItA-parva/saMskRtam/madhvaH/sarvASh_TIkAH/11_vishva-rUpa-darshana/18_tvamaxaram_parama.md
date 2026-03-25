@@ -2,7 +2,7 @@
 title = "18 त्वमक्षरम् परमम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.18॥ Sri Madhvacharya did not comment on this sloka.
 </details>

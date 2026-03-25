@@ -2,7 +2,7 @@
 title = "14 मात्रास्पर्शास्तु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.14॥  
   

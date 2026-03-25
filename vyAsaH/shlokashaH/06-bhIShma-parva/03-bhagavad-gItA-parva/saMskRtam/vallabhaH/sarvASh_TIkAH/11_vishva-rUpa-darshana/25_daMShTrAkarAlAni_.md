@@ -2,7 +2,7 @@
 title = "25 दंष्ट्राकरालानि च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.25॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

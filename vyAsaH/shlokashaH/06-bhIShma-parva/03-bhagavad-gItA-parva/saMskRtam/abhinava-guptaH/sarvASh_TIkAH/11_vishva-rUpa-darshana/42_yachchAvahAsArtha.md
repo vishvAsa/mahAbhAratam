@@ -2,7 +2,7 @@
 title = "42 यच्चावहासार्थमसत्कृतोऽसि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.42॥ No commentary.
 </details>

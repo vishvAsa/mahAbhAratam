@@ -2,7 +2,7 @@
 title = "26 अमी च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.26॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

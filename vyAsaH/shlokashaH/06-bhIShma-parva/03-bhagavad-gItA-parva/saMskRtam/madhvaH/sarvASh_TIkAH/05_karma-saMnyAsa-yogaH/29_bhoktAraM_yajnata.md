@@ -2,7 +2,7 @@
 title = "29 भोक्तारं यज्ञतपसाम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.29॥ ध्येयमाह भोक्तारमिति।
 </details>

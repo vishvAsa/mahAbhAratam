@@ -2,7 +2,7 @@
 title = "33 अथ चैत्त्वमिमम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.33॥ Sri Madhvacharya did not comment on this sloka.
 </details>

@@ -2,7 +2,7 @@
 title = "23 अन्तवत्तु फलम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥7.20 7.23॥ कामैरित्यादि मामपीत्यन्तम्। 
 

@@ -2,7 +2,7 @@
 title = "13 आहुस्त्वामृषयः सर्वे"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.13॥ No commentary.
 </details>

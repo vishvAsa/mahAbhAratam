@@ -2,7 +2,7 @@
 title = "54 भक्त्या त्वनन्यया"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.54॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

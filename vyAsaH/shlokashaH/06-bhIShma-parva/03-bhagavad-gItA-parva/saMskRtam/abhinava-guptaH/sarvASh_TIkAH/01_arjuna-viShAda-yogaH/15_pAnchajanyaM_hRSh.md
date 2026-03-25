@@ -2,7 +2,7 @@
 title = "15 पाञ्चजन्यं हृषीकेशो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.15॥ No commentary.
 </details>

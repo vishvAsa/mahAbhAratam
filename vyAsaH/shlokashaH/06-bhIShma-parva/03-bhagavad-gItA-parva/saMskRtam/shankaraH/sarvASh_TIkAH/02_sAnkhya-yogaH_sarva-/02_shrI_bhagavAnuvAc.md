@@ -2,7 +2,7 @@
 title = "02 श्री भगवानुवाच"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 2.2 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>

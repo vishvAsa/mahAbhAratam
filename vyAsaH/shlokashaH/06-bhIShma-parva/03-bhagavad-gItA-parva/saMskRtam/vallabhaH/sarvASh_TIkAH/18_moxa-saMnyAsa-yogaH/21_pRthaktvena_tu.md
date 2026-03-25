@@ -2,7 +2,7 @@
 title = "21 पृथक्त्वेन तु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.21॥ पृथक्त्वेनेति स्पष्टम्।
 </details>

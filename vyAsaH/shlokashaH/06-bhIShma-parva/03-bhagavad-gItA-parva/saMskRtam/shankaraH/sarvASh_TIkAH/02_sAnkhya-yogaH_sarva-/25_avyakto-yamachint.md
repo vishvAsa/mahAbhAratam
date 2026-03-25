@@ -2,7 +2,7 @@
 title = "25 अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.25॥  
   

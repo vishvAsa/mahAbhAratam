@@ -2,7 +2,7 @@
 title = "16 अनेकबाहूदरवक्त्रनेत्रम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.16॥ No commentary.
 </details>

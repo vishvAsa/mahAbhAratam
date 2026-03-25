@@ -2,7 +2,7 @@
 title = "53 श्रुतिविप्रतिपन्ना ते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.53॥  
   

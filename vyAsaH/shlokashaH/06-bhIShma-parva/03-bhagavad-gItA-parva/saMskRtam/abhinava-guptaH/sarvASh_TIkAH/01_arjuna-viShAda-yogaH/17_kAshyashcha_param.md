@@ -2,7 +2,7 @@
 title = "17 काश्यश्च परमेष्वासः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.17॥ No commentary.
 </details>

@@ -2,7 +2,7 @@
 title = "23 उदासीनवदासीनो गुणैर्यो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.23॥ Sri Madhvacharya did not comment on this sloka.
 </details>

@@ -2,7 +2,7 @@
 title = "41 अधर्माभिभवात्कृष्ण"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.41 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>

@@ -2,7 +2,7 @@
 title = "39 कथन् न"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.39॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.

@@ -2,7 +2,7 @@
 title = "36 अपि चेदसि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.36॥ करणभूतं ज्ञानं स्तौति पुनः श्लोकत्रयेण।
 </details>

@@ -2,7 +2,7 @@
 title = "29 सीदन्ति मम"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.29॥ No commentary.
 </details>

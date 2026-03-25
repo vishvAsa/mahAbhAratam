@@ -2,7 +2,7 @@
 title = "03 त्याज्यन् दोषवदित्येके"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥18.3॥ No commentary.
 </details>

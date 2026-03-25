@@ -2,7 +2,7 @@
 title = "38 दण्डो दमयतामस्मि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.38॥ Sri Madhvacharya did not comment on this sloka.
 </details>

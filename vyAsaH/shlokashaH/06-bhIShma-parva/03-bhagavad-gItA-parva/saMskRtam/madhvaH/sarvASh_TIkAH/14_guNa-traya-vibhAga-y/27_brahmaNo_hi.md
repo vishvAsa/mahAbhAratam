@@ -2,7 +2,7 @@
 title = "27 ब्रह्मणो हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.27॥ ब्रह्मण इति। ब्रह्मणो मायायाः।
 </details>

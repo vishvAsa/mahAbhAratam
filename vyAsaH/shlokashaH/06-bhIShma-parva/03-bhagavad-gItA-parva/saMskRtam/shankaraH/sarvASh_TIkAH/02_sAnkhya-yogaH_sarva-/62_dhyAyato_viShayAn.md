@@ -2,7 +2,7 @@
 title = "62 ध्यायतो विषयान्पुंसः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.62॥  
   

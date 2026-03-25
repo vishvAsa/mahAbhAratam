@@ -2,7 +2,7 @@
 title = "29 सीदन्ति मम"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.29 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>

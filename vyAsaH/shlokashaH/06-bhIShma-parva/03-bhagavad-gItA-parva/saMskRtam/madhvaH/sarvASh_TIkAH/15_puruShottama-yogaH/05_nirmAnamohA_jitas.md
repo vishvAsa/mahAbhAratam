@@ -2,7 +2,7 @@
 title = "05 निर्मानमोहा जितसङ्गदोषा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.5॥ साधनान्तरमाह -- निर्मानेति।
 </details>

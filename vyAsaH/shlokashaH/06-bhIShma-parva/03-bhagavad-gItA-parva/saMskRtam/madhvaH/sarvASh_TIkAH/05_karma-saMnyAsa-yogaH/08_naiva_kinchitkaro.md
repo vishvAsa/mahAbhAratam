@@ -2,7 +2,7 @@
 title = "08 नैव किञ्चित्करोमीति"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.8 5.9॥ सन्न्यासं स्पष्टयति पुनः श्लोकद्वयेन।
 </details>

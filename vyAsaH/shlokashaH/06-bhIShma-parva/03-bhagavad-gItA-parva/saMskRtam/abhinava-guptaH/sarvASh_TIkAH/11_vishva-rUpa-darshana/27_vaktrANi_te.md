@@ -2,7 +2,7 @@
 title = "27 वक्त्राणि ते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.27॥ No commentary.
 </details>

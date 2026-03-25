@@ -2,7 +2,7 @@
 title = "11 सर्वद्वारेषु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.11॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

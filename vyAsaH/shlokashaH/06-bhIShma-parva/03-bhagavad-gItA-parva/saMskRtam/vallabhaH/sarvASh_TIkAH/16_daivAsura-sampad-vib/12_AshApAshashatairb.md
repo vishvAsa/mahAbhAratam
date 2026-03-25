@@ -2,7 +2,7 @@
 title = "12 आशापाशशतैर्बद्धाः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥16.12॥ अतएव आशापाशशतैरिति।
 </details>

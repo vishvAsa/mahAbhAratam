@@ -2,7 +2,7 @@
 title = "43 तत्र तम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.43॥ Sri Madhvacharya did not comment on this sloka.
 </details>

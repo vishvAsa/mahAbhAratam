@@ -2,7 +2,7 @@
 title = "01 प्रकृतिम् पुरुषम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.1॥ Sri Madhvacharya did not comment on this sloka.
 </details>

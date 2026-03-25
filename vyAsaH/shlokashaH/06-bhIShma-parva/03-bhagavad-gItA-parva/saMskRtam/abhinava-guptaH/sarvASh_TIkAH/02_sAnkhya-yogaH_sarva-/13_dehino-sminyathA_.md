@@ -2,7 +2,7 @@
 title = "13 देहिनोऽस्मिन्यथा देहे"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.13 2.14॥ एवमर्थद्वयमाह  
   

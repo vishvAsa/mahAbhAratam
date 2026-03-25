@@ -2,7 +2,7 @@
 title = "13 ततः शङ्खाश्च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.13॥ No commentary.
 </details>

@@ -2,7 +2,7 @@
 title = "55 श्री भगवानुवाच"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.55॥ तत्रोत्तरम् प्रजहातीति। इदं तत्स्वरूपमुच्यत इत्यर्थः।
 </details>

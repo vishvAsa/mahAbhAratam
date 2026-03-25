@@ -2,7 +2,7 @@
 title = "12 अनिष्टमिष्टम् मिश्रम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.12॥ त्यागं स्तौति -- अनिष्टमिति।
 </details>

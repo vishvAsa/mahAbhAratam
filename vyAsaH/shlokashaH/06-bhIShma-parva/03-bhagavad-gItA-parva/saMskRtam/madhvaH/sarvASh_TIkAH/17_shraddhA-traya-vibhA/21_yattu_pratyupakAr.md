@@ -2,7 +2,7 @@
 title = "21 यत्तु प्रत्युपकारार्थम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.21॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

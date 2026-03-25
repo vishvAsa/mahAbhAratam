@@ -2,7 +2,7 @@
 title = "23 योत्स्यमानानवेक्षेऽहं य"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.23॥ No commentary.
 </details>

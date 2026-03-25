@@ -2,7 +2,7 @@
 title = "27 श्वशुरान्सुहृदश्चैव"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.27॥ No commentary.
 </details>

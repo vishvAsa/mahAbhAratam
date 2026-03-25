@@ -2,7 +2,7 @@
 title = "49 मा ते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.49॥ No commentary.
 </details>

@@ -2,7 +2,7 @@
 title = "13 विधिहीनमसृष्टान्नम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.13॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

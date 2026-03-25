@@ -2,7 +2,7 @@
 title = "35 यया स्वप्नम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.35॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

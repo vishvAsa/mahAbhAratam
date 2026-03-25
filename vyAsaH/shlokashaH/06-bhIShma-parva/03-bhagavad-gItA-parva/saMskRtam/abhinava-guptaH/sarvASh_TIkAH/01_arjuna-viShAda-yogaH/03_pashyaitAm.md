@@ -2,7 +2,7 @@
 title = "03 पश्यैताम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.2 1.9॥ किं वा अनेन बहुपरिगणनेन +++(K omits बहु )+++। इदं तावद्वस्तुतत्त्वम् इत्याह ।
 </details>

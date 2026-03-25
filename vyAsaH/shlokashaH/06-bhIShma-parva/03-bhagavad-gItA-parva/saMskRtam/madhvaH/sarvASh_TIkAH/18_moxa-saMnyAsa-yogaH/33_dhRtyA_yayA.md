@@ -2,7 +2,7 @@
 title = "33 धृत्या यया"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.33॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

@@ -2,7 +2,7 @@
 title = "10 यातयामङ् गतरसम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.10॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

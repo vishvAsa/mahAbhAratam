@@ -2,7 +2,7 @@
 title = "15 अनुद्वेगकरं वाक्यम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.15॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

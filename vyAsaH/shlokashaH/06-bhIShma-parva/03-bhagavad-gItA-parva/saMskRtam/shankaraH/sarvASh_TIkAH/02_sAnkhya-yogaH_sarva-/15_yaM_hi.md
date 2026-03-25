@@ -2,7 +2,7 @@
 title = "15 यं हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.15॥  
   

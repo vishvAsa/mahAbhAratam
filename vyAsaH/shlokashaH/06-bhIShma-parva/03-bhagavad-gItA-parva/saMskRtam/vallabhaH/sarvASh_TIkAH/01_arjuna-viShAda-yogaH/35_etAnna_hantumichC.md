@@ -2,7 +2,7 @@
 title = "35 एतान्न हन्तुमिच्छामि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.34 1.37॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

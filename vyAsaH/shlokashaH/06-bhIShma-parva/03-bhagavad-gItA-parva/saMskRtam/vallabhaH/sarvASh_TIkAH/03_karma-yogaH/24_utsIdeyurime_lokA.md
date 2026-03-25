@@ -2,7 +2,7 @@
 title = "24 उत्सीदेयुरिमे लोका"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.24॥ उत्सीदेयुरिति।
 </details>

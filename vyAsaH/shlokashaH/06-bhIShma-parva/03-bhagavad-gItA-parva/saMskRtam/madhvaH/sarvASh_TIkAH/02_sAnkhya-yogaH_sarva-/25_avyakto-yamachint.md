@@ -2,7 +2,7 @@
 title = "25 अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.25॥ अत एवाव्यक्तादिरूपः।
 </details>

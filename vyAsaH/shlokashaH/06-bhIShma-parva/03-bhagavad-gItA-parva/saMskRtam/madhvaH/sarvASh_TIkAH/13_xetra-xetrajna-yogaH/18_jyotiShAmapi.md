@@ -2,7 +2,7 @@
 title = "18 ज्योतिषामपि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.18॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

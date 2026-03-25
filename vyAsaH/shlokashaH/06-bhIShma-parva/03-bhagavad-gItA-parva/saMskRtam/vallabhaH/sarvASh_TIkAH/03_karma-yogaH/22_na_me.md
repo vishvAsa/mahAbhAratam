@@ -2,7 +2,7 @@
 title = "22 न मे"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.22॥ अत्र चाहमेव निदर्शनमित्याह न म इति त्रिभिः।
 </details>

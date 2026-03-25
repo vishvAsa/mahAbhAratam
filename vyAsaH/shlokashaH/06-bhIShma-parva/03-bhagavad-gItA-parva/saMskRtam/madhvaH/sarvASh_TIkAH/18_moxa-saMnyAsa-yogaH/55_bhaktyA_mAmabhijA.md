@@ -2,7 +2,7 @@
 title = "55 भक्त्या मामभिजानाति"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.55॥ Sri Madhvacharya did not comment on this sloka.
 </details>

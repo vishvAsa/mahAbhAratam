@@ -2,7 +2,7 @@
 title = "29 आश्चर्यवत्पश्यति"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.29॥  
   

@@ -2,7 +2,7 @@
 title = "47 कर्मण्येवाधिकारस्ते मा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.47॥  
 

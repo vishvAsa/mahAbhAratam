@@ -2,7 +2,7 @@
 title = "45 प्रयत्नाद्यतमानस्तु योगी"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 कुतश्च योगित्वं श्रेयः इति -
 

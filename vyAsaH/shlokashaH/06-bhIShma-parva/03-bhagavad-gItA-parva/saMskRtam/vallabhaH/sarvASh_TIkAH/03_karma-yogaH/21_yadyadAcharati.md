@@ -2,7 +2,7 @@
 title = "21 यद्यदाचरति"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.21॥ यतः यद्यदिति।
 </details>

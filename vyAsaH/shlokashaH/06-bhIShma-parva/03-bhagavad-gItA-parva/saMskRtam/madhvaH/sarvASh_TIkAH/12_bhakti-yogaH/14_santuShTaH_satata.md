@@ -2,7 +2,7 @@
 title = "14 सन्तुष्टः सततम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.14॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

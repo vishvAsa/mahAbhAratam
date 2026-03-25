@@ -2,7 +2,7 @@
 title = "03 क्लैब्यम् मा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.3॥ No commentary.
 </details>

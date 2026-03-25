@@ -2,7 +2,7 @@
 title = "22 रुद्रादित्या वसवो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.22॥ No commentary.
 </details>

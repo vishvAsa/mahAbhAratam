@@ -2,7 +2,7 @@
 title = "25 दंष्ट्राकरालानि च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.25॥ No commentary.
 </details>

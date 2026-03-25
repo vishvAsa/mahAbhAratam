@@ -2,7 +2,7 @@
 title = "21 हृषीकेशन् तदा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.21॥ No commentary.
 </details>

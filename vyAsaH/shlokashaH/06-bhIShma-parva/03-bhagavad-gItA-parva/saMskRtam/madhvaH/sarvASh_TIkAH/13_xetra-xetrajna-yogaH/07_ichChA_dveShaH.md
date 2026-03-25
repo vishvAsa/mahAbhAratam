@@ -2,7 +2,7 @@
 title = "07 इच्छा द्वेषः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.7॥ इच्छादयो विकाराः।
 </details>

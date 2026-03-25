@@ -2,7 +2,7 @@
 title = "05 न हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.5॥ न तु कर्माणि सर्वात्मना त्यक्तुं शक्यानीत्याह न हीति।
 </details>

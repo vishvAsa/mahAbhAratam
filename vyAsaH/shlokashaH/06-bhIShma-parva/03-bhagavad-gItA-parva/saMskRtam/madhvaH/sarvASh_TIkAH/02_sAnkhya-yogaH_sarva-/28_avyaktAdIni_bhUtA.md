@@ -2,7 +2,7 @@
 title = "28 अव्यक्तादीनि भूतानि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.28॥ तदेव स्पष्टयति अव्यक्तादीनीति।
 </details>

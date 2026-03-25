@@ -2,7 +2,7 @@
 title = "18 द्रुपदो द्रौपदेयाश्च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.18॥ No commentary.
 </details>

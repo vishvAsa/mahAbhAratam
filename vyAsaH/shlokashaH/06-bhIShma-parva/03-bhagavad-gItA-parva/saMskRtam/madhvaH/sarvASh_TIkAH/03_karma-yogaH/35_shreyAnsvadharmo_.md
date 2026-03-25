@@ -2,7 +2,7 @@
 title = "35 श्रेयान्स्वधर्मो विगुणः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.35॥ तथाप्युग्रं युद्धकर्मेत्यत आह श्रेयानिति।
 </details>

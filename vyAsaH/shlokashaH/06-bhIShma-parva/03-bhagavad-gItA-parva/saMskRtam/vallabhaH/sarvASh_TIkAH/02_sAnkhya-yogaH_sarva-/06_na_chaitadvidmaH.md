@@ -2,7 +2,7 @@
 title = "06 न चैतद्विद्मः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.6 2.8॥ न चैतदिति प्रश्नस्त्रिभिः। स्पष्टार्थः।
 </details>

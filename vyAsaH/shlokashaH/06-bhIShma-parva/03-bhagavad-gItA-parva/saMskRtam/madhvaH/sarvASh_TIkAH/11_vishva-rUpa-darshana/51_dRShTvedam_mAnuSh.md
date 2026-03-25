@@ -2,7 +2,7 @@
 title = "51 दृष्ट्वेदम् मानुषम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.51॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

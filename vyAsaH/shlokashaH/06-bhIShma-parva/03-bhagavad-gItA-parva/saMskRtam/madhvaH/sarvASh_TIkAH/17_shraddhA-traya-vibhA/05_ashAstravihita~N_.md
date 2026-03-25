@@ -2,7 +2,7 @@
 title = "05 अशास्त्रविहितङ् घोरम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.5॥ Sri Madhvacharya did not comment on this sloka.
 </details>

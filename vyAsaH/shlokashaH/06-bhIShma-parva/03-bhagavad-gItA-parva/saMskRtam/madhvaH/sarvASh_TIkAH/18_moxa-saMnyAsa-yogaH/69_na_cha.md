@@ -2,7 +2,7 @@
 title = "69 न च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.69॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

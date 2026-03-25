@@ -2,7 +2,7 @@
 title = "31 स्वधर्ममपि चावेक्ष्य"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.31॥ Sri Madhvacharya did not comment on this sloka.
 </details>

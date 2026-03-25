@@ -2,7 +2,7 @@
 title = "38 सुखदुःखे समे"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.38॥  
   

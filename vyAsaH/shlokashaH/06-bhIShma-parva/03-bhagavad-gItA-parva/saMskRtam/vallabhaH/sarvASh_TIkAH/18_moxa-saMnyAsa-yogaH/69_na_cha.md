@@ -2,7 +2,7 @@
 title = "69 न च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.69॥ किञ्च -- न च तस्मादिति। मे प्रियकृत्कश्चित्।
 </details>

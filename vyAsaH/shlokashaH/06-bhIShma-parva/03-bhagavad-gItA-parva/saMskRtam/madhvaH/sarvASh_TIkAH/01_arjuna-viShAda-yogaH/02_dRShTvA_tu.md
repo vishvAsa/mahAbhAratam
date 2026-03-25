@@ -2,7 +2,7 @@
 title = "02 दृष्ट्वा तु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.2॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.

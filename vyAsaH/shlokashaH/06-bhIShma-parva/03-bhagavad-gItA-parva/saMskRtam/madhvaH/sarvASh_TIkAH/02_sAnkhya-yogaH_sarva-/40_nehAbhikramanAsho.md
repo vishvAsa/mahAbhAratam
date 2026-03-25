@@ -2,7 +2,7 @@
 title = "40 नेहाभिक्रमनाशोऽस्ति"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.40॥ Sri Madhvacharya did not comment on this sloka.
 </details>

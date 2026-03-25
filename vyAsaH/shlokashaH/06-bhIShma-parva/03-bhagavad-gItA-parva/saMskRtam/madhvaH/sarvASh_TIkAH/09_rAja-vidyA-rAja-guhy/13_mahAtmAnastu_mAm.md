@@ -2,7 +2,7 @@
 title = "13 महात्मानस्तु माम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.13॥ नेतरे द्विषन्तीति दर्शयितुं देवानाह -- महात्मान इति।
 </details>

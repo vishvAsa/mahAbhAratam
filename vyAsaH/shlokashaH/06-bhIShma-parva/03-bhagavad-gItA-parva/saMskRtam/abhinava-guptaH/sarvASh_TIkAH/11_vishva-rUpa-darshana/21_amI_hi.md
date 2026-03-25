@@ -2,7 +2,7 @@
 title = "21 अमी हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.21॥ No commentary.
 </details>

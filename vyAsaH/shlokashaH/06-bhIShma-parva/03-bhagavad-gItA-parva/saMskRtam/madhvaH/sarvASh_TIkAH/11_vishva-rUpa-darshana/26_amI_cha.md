@@ -2,7 +2,7 @@
 title = "26 अमी च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.26॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

@@ -2,7 +2,7 @@
 title = "19 इहैव तैर्जितः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.19॥ तदैव स्तौति इहैवेति।
 </details>

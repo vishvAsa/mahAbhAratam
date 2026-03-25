@@ -2,7 +2,7 @@
 title = "27 जातस्य हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.27॥ कुतोऽशोकः नियतत्वदित्याह जातस्येति।
 </details>

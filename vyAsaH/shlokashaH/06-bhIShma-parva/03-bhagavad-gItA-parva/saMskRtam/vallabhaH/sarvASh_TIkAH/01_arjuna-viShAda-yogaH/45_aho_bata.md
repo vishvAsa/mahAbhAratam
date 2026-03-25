@@ -2,7 +2,7 @@
 title = "45 अहो बत"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.45 1.46॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

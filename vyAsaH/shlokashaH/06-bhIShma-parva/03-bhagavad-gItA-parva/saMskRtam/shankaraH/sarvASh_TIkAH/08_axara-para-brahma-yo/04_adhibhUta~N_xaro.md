@@ -2,7 +2,7 @@
 title = "04 अधिभूतङ् क्षरो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥8.4॥ --, 
 

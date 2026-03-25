@@ -2,7 +2,7 @@
 title = "28 समं सर्वेषु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.28॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

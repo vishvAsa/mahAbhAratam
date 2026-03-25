@@ -2,7 +2,7 @@
 title = "22 यं लब्ध्वा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.21 6.22॥ तत्त्वतो भगवद्रूपत्वात्।
 </details>

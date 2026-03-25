@@ -2,7 +2,7 @@
 title = "13 इदमद्य मया"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.13॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

@@ -2,7 +2,7 @@
 title = "28 आयुधानामहं वज्रम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.28॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

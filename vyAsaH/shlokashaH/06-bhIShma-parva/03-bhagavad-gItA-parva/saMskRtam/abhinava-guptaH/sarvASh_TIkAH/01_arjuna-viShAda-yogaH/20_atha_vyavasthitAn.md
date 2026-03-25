@@ -2,7 +2,7 @@
 title = "20 अथ व्यवस्थितान्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.20॥ No commentary.
 </details>

@@ -2,7 +2,7 @@
 title = "08 नियतङ् कुरु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.8॥ अतो नियतं वर्णाश्रमोचितं कर्म कुरु।
 </details>

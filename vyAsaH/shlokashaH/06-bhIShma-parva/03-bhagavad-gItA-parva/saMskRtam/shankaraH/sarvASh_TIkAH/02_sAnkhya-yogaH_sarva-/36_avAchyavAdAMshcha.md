@@ -2,7 +2,7 @@
 title = "36 अवाच्यवादांश्च बहून्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.36॥  
   

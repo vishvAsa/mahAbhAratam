@@ -2,7 +2,7 @@
 title = "29 प्रकृतेर्गुणसम्मूढाः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.29॥ न बुद्धिभेदं जनयेत् 3।26 इति दृढयति प्रकृतेरिति।
 </details>

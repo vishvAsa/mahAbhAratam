@@ -2,7 +2,7 @@
 title = "17 श्रद्धया परया"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.17॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

@@ -2,7 +2,7 @@
 title = "35 बृहत्साम तथा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.35॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

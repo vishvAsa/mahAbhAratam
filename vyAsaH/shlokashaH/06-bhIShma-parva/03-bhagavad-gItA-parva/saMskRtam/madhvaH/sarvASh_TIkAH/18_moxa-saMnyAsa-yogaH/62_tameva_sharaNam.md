@@ -2,7 +2,7 @@
 title = "62 तमेव शरणम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.62॥ परोक्षवचनं तु द्रोणं प्रति भीमवचनवत्।
 </details>

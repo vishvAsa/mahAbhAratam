@@ -2,7 +2,7 @@
 title = "12 आशापाशशतैर्बद्धाः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.12॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

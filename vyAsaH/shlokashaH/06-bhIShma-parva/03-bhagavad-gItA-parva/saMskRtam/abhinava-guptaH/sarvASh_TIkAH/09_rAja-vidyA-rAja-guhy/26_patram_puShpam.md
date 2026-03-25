@@ -2,7 +2,7 @@
 title = "26 पत्रम् पुष्पम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.26॥ No commentary.
 </details>

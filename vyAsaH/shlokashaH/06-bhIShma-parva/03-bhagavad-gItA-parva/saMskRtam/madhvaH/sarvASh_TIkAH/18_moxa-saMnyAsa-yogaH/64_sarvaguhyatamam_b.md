@@ -2,7 +2,7 @@
 title = "64 सर्वगुह्यतमम् भूयः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.64॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

@@ -2,7 +2,7 @@
 title = "16 वक्तुमर्हस्यशेषेण दिव्या"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.16॥ विभूतयो विविधभूतयः।
 </details>

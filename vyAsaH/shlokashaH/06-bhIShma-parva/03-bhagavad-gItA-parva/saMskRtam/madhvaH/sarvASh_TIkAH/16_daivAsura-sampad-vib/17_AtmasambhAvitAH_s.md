@@ -2,7 +2,7 @@
 title = "17 आत्मसम्भाविताः स्तब्धा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.17॥ Sri Madhvacharya did not comment on this sloka.
 </details>

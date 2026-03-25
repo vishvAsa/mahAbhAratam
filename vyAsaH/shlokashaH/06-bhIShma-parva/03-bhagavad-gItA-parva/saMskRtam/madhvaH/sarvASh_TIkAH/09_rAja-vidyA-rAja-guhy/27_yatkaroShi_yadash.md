@@ -2,7 +2,7 @@
 title = "27 यत्करोषि यदश्नासि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.27॥ अतो यत्करोषि।
 </details>

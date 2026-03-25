@@ -2,7 +2,7 @@
 title = "20 इति गुह्यतमम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.20॥ Sri Madhvacharya did not comment on this sloka.
 </details>

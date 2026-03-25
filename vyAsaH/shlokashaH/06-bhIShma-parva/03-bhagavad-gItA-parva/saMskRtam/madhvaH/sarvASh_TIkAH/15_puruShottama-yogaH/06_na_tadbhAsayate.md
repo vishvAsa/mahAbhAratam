@@ -2,7 +2,7 @@
 title = "06 न तद्भासयते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.6॥ स्वरूपं कथयति -- न तदित्यादिना।
 </details>

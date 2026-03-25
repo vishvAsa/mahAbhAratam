@@ -2,7 +2,7 @@
 title = "50 इत्यर्जुनं"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.50॥ No commentary.
 </details>

@@ -2,7 +2,7 @@
 title = "14 प्रशान्तात्मा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.12 6.14॥ योगं समाधियोगं युञ्ज्यात्।
 </details>

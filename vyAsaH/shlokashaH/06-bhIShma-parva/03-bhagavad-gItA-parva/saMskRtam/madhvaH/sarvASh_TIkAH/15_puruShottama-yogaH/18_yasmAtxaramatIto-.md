@@ -2,7 +2,7 @@
 title = "18 यस्मात्क्षरमतीतोऽहमक्षरादपि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥15.18॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

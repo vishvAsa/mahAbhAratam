@@ -2,7 +2,7 @@
 title = "17 यो न"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.17॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

@@ -2,7 +2,7 @@
 title = "02 श्री भगवानुवाच"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.2॥ अतो विभज्याऽऽह -- त्रिविधेत्यादिना।
 </details>

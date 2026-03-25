@@ -2,7 +2,7 @@
 title = "05 न हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥3.5॥ अतोऽवशः सर्वः प्रकृतिजैर्गुणैर्वा कर्म कार्यत एव।
 </details>

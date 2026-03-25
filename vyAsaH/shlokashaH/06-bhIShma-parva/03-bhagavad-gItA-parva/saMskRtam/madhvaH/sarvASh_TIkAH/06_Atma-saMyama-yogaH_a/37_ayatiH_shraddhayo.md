@@ -2,7 +2,7 @@
 title = "37 अयतिः श्रद्धयोपेतो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.37 6.39॥ अयतिरप्रयत्नः।
 </details>

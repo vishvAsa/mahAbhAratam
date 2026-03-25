@@ -2,7 +2,7 @@
 title = "30 साधिभूताधिदैवम् माम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.30॥ Sri Madhvacharya did not comment on this sloka.
 </details>

@@ -2,7 +2,7 @@
 title = "17 कथं विद्यामहम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.17॥ No commentary.
 </details>

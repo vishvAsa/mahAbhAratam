@@ -2,7 +2,7 @@
 title = "34 अकीर्तिञ् चापि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.34॥ Sri Madhvacharya did not comment on this sloka.
 </details>

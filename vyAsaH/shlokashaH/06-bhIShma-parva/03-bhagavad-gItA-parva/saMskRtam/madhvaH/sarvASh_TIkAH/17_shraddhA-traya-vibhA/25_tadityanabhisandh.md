@@ -2,7 +2,7 @@
 title = "25 तदित्यनभिसन्धाय फलम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥17.25॥ तत्फलं मे स्यादित्यनभिसन्धाय।
 </details>

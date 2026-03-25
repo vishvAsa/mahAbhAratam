@@ -2,7 +2,7 @@
 title = "10 यातयामङ् गतरसम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.10॥ यातयाममिति। चिरकालावस्थितं तामसप्रियम्।
 </details>

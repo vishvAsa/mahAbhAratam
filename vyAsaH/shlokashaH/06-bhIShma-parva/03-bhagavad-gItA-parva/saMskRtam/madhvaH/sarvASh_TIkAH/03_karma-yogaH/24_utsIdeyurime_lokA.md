@@ -2,7 +2,7 @@
 title = "24 उत्सीदेयुरिमे लोका"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.24॥ Sri Madhvacharya did not comment on this sloka.
 </details>

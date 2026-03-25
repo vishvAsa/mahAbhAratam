@@ -2,7 +2,7 @@
 title = "22 रुद्रादित्या वसवो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.22॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

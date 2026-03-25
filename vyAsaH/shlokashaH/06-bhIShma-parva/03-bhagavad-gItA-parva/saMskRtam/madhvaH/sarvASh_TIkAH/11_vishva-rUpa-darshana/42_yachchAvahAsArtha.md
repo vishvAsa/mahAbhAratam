@@ -2,7 +2,7 @@
 title = "42 यच्चावहासार्थमसत्कृतोऽसि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.42॥ एकस्त्वमेव कारयिता; नान्योऽस्त्यथापि।
 </details>

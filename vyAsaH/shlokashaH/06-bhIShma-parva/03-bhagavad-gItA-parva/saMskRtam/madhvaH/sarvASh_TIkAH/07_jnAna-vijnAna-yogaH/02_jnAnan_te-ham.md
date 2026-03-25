@@ -2,7 +2,7 @@
 title = "02 ज्ञानन् तेऽहम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.2॥ इदं मद्विषयं ज्ञानम्। विज्ञानं विशेषज्ञानम्।
 </details>

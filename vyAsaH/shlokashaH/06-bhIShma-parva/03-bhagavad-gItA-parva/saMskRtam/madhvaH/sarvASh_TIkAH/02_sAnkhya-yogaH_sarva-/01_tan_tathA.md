@@ -2,7 +2,7 @@
 title = "01 तन् तथा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.1॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.

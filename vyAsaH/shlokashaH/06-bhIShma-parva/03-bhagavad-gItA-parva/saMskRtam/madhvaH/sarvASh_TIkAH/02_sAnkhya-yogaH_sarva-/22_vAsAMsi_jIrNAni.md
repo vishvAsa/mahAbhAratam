@@ -2,7 +2,7 @@
 title = "22 वासांसि जीर्णानि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥2.22॥ देहात्मविवेकानुभवार्थं दृष्टान्तमाह वासांसीति।
 </details>

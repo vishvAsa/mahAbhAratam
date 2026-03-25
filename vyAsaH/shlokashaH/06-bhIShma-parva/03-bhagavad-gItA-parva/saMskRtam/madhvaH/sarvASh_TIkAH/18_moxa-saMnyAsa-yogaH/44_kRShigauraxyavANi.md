@@ -2,7 +2,7 @@
 title = "44 कृषिगौरक्ष्यवाणिज्यं"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.44॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

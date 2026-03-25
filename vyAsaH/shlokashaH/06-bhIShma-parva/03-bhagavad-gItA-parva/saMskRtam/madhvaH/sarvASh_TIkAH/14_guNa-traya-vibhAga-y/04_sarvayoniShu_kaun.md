@@ -2,7 +2,7 @@
 title = "04 सर्वयोनिषु कौन्तेय"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.4॥ Sri Madhvacharya did not comment on this sloka.
 </details>

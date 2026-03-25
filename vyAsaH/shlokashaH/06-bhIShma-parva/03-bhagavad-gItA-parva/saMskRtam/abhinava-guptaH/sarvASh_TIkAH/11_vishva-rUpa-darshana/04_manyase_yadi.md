@@ -2,7 +2,7 @@
 title = "04 मन्यसे यदि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.4॥ No commentary.
 </details>

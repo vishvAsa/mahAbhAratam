@@ -2,7 +2,7 @@
 title = "24 एवमुक्तो हृषीकेशो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.24॥ No commentary.
 </details>

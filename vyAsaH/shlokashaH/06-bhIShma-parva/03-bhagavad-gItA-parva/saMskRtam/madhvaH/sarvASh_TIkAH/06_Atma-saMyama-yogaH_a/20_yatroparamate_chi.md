@@ -2,7 +2,7 @@
 title = "20 यत्रोपरमते चित्तम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.20॥ आत्मना मनसा आत्मनि देहे आत्मानं भगवन्तं पश्यन्।
 </details>

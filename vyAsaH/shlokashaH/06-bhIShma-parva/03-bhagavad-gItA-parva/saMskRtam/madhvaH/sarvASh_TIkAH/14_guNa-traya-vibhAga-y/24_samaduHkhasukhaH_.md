@@ -2,7 +2,7 @@
 title = "24 समदुःखसुखः स्वस्थः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.24 -- 14.25॥ तुल्यत्वार्थ उक्तः पुरस्तात्।
 </details>

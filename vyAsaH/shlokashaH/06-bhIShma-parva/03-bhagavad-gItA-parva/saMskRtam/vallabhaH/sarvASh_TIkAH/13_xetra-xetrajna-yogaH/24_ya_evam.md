@@ -2,7 +2,7 @@
 title = "24 य एवम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.24॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

@@ -2,7 +2,7 @@
 title = "16 अनन्तविजयं राजा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.16॥ No commentary.
 </details>

@@ -2,7 +2,7 @@
 title = "40 न तदस्ति"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.40॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

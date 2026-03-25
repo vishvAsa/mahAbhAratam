@@ -2,7 +2,7 @@
 title = "28 वेदेषु यज्ञेषु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.28॥ Sri Madhvacharya did not comment on this sloka.
 </details>

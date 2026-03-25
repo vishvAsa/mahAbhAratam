@@ -2,7 +2,7 @@
 title = "10 रजस्तमश्चाभिभूय सत्त्वम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.10॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

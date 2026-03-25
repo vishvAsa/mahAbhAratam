@@ -2,7 +2,7 @@
 title = "19 स घोषो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.19॥ No commentary.
 </details>

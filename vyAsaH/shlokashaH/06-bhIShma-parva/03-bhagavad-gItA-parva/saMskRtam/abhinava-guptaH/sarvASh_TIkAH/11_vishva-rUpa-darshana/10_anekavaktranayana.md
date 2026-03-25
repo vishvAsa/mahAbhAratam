@@ -2,7 +2,7 @@
 title = "10 अनेकवक्त्रनयनमनेकाद्भुतदर्शनम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.10॥ No commentary.
 </details>

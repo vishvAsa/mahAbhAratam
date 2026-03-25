@@ -2,7 +2,7 @@
 title = "29 यथा प्रदीप्तम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.29॥ No commentary.
 </details>

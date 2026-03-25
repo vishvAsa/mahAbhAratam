@@ -2,7 +2,7 @@
 title = "15 पश्यामि देवांस्तव"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥11.15॥ --
 

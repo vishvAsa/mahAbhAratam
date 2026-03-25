@@ -2,7 +2,7 @@
 title = "02 भवाप्ययौ हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.2॥ No commentary.
 </details>

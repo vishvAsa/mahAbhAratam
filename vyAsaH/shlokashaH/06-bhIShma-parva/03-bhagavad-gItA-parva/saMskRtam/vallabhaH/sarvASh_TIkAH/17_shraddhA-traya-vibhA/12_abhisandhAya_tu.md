@@ -2,7 +2,7 @@
 title = "12 अभिसन्धाय तु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.12॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

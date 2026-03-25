@@ -2,7 +2,7 @@
 title = "40 श्री भगवानुवाच"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥6.40॥ अत्र निर्णयम् +++(S निर्णयः)+++  
   

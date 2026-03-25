@@ -2,7 +2,7 @@
 title = "28 समं सर्वेषु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.28॥ अत एव -- ।
 </details>

@@ -2,7 +2,7 @@
 title = "43 कामात्मानः स्वर्गपरा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.43॥  
   

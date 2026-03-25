@@ -2,7 +2,7 @@
 title = "72 कच्चिदेतच्छ्रुतम् पार्थ"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.72॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

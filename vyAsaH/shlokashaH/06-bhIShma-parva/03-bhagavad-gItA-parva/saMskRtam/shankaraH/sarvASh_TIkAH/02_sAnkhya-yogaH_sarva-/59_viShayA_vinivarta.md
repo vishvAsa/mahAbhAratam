@@ -2,7 +2,7 @@
 title = "59 विषया विनिवर्तन्ते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.59॥  
   

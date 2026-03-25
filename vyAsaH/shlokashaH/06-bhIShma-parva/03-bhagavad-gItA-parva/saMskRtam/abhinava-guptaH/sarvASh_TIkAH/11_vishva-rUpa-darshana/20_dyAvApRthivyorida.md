@@ -2,7 +2,7 @@
 title = "20 द्यावापृथिव्योरिदमन्तरं"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.20॥ No commentary.
 </details>

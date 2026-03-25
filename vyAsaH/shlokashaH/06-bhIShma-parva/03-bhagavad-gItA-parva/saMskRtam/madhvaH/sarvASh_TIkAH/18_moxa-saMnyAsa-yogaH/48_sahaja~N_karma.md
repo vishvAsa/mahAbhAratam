@@ -2,7 +2,7 @@
 title = "48 सहजङ् कर्म"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.48॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

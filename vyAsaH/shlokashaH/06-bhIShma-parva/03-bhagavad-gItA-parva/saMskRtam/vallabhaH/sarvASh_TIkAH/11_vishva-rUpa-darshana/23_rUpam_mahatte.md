@@ -2,7 +2,7 @@
 title = "23 रूपम् महत्ते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.23॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

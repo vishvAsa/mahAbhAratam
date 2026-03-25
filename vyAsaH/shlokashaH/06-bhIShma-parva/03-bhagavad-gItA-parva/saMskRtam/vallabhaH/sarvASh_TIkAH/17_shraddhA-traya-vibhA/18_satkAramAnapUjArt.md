@@ -2,7 +2,7 @@
 title = "18 सत्कारमानपूजार्थन् तपो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.18॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

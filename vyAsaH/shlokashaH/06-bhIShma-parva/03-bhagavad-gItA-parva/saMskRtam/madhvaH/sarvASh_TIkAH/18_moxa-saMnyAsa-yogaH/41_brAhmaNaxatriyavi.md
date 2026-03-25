@@ -2,7 +2,7 @@
 title = "41 ब्राह्मणक्षत्रियविशां"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.41॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

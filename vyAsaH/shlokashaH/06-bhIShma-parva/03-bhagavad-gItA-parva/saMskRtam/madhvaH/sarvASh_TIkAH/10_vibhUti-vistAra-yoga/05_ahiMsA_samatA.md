@@ -2,7 +2,7 @@
 title = "05 अहिंसा समता"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.5॥ तुष्टिरलम्बुद्धिः। अलम्बुद्धिस्तथा तुष्टिः इत्यभिधानात्।
 </details>

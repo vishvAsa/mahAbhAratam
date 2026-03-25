@@ -2,7 +2,7 @@
 title = "10 सहयज्ञाः प्रजाः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.10 3.11॥ अत्रार्थवादमाह सहयज्ञा इति।
 </details>

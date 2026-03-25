@@ -2,7 +2,7 @@
 title = "12 इष्टान्भोगान्हि वो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.12॥ Sri Madhvacharya did not comment on this sloka.
 </details>

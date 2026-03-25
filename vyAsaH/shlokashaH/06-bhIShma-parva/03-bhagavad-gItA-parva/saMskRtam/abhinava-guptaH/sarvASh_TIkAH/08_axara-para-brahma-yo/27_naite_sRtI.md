@@ -2,7 +2,7 @@
 title = "27 नैते सृती"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥8.27॥ नैते इति।  
 **एते सृति** यो वेत्ति -  

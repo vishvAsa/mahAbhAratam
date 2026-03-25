@@ -2,7 +2,7 @@
 title = "15 पश्यामि देवांस्तव"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.15॥ Sri Madhvacharya did not comment on this sloka.
 </details>

@@ -2,7 +2,7 @@
 title = "66 नास्ति बुद्धिरयुक्तस्य"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.66॥  
   

@@ -2,7 +2,7 @@
 title = "33 अक्षराणामकारोऽस्मि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.33॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

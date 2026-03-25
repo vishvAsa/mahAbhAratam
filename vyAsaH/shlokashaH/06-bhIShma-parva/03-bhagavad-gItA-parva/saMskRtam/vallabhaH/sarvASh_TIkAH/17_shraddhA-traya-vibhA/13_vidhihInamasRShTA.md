@@ -2,7 +2,7 @@
 title = "13 विधिहीनमसृष्टान्नम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.13॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

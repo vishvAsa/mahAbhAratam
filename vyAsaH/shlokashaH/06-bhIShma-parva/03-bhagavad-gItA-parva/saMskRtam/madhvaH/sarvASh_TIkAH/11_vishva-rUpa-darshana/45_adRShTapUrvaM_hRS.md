@@ -2,7 +2,7 @@
 title = "45 अदृष्टपूर्वं हृषितोऽस्मि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.45॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

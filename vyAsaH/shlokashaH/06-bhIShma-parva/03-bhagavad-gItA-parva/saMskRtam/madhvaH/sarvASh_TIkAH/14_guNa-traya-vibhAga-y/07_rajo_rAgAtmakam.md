@@ -2,7 +2,7 @@
 title = "07 रजो रागात्मकम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.7॥ रज इति। तृष्णासङ्गयोः समुद्भवं तयोः कारणम्।
 </details>

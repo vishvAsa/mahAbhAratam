@@ -2,7 +2,7 @@
 title = "09 इन्द्रियार्थेषु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.9॥ इन्द्रियार्थेष्विति -- विषयेषु।
 </details>

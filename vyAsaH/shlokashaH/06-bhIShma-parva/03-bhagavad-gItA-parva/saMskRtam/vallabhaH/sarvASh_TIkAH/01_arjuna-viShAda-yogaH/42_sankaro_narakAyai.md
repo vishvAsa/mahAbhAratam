@@ -2,7 +2,7 @@
 title = "42 सङ्करो नरकायैव"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.40 1.42॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

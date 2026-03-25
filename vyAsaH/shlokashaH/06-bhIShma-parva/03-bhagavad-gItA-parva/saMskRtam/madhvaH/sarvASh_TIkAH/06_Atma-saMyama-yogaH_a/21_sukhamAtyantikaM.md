@@ -2,7 +2,7 @@
 title = "21 सुखमात्यन्तिकं"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.21 6.22॥ तत्त्वतो भगवद्रूपत्वात्।
 </details>

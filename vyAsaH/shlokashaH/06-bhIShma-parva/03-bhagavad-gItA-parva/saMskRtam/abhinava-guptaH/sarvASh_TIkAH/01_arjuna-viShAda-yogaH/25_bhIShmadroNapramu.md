@@ -2,7 +2,7 @@
 title = "25 भीष्मद्रोणप्रमुखतः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.25॥ No commentary.
 </details>

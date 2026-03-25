@@ -2,7 +2,7 @@
 title = "06 द्वौ भूतसर्गौ"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.6॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

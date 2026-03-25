@@ -2,7 +2,7 @@
 title = "40 नेहाभिक्रमनाशोऽस्ति"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.40॥  
   

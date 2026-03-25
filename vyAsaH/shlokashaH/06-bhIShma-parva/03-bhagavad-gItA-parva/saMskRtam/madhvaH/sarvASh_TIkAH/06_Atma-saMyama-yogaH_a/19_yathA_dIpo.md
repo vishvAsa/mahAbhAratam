@@ -2,7 +2,7 @@
 title = "19 यथा दीपो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.19॥ आत्मनो भगवद्विषयं योगम्।
 </details>

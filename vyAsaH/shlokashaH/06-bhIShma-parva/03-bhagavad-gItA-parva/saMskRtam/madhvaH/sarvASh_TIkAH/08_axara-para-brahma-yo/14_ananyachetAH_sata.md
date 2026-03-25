@@ -2,7 +2,7 @@
 title = "14 अनन्यचेताः सततम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.14॥ नित्ययुक्तस्य नित्योपायवतः। योगिनः परिपूर्णयोगस्य।
 </details>

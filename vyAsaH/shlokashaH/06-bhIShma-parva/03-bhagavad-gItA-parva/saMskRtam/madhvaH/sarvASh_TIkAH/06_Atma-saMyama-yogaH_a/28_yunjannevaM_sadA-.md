@@ -2,7 +2,7 @@
 title = "28 युञ्जन्नेवं सदाऽऽत्मानम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.28॥ पूर्वश्लोकोक्तं प्रपञ्चयति एवं युञ्जन्निति।
 </details>

@@ -2,7 +2,7 @@
 title = "10 असक्तिरनभिष्वङ्गः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥13.10॥ असक्तिरिति अमुत्र भोगविरागः।
 </details>

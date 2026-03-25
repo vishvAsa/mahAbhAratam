@@ -2,7 +2,7 @@
 title = "36 अवाच्यवादांश्च बहून्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥2.36॥ किञ्च अवाच्यवादानिति। स्पष्टम्।
 </details>

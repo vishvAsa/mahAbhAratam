@@ -2,7 +2,7 @@
 title = "33 तस्मात्त्वमुत्तिष्ठ यशो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.33॥ Sri Madhvacharya did not comment on this sloka.
 </details>

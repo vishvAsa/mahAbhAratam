@@ -2,7 +2,7 @@
 title = "03 मनुष्याणां सहस्रेषु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.3॥ दौर्लभ्यं ज्ञानस्याह मनुष्याणामिति।
 </details>

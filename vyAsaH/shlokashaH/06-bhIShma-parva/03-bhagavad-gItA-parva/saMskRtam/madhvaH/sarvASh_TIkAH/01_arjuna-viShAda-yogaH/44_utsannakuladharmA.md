@@ -2,7 +2,7 @@
 title = "44 उत्सन्नकुलधर्माणाम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.44॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.

@@ -2,7 +2,7 @@
 title = "27 वक्त्राणि ते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥11.27॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

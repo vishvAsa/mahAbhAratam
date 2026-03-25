@@ -2,7 +2,7 @@
 title = "70 आपूर्यमाणमचलप्रतिष्ठं"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.70॥  
   

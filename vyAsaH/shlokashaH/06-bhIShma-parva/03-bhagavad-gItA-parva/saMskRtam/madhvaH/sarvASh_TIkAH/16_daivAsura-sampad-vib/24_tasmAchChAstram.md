@@ -2,7 +2,7 @@
 title = "24 तस्माच्छास्त्रम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.24॥ Sri Madhvacharya did not comment on this sloka.
 </details>

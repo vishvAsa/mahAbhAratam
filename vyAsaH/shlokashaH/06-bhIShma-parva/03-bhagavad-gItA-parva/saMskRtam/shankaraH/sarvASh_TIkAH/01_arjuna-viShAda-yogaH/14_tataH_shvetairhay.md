@@ -2,7 +2,7 @@
 title = "14 ततः श्वेतैर्हयैर्युक्ते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.14 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>

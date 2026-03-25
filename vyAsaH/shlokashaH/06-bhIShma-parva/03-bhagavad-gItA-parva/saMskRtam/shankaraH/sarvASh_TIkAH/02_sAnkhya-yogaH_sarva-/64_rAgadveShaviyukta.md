@@ -2,7 +2,7 @@
 title = "64 रागद्वेषवियुक्तैस्तु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.64॥  
   

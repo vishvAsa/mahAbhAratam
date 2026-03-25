@@ -2,7 +2,7 @@
 title = "10 अभ्यासेऽप्यसमर्थोऽसि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥12.10॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

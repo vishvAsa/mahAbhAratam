@@ -2,7 +2,7 @@
 title = "11 कायेन मनसा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥5.11॥ एवं चाचार इत्याह कायेनेति।
 </details>

@@ -2,7 +2,7 @@
 title = "71 श्रद्धावाननसूयश्च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥18.71॥ श्रद्धावानिति। स्पष्टार्थः।
 </details>

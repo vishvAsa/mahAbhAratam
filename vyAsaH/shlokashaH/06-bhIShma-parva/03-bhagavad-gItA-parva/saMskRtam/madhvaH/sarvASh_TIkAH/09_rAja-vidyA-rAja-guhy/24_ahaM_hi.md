@@ -2,7 +2,7 @@
 title = "24 अहं हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.24॥ कारणमाह विधिपूर्वकत्वे -- अहं हीति।
 </details>

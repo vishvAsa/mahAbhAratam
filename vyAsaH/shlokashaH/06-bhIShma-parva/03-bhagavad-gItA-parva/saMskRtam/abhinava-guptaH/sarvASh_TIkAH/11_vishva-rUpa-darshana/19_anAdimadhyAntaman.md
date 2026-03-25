@@ -2,7 +2,7 @@
 title = "19 अनादिमध्यान्तमनन्तवीर्य"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.19॥ No commentary.
 </details>

@@ -2,7 +2,7 @@
 title = "26 तत्रापश्यत्स्थितान्पार्थः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.26॥ No commentary.
 </details>

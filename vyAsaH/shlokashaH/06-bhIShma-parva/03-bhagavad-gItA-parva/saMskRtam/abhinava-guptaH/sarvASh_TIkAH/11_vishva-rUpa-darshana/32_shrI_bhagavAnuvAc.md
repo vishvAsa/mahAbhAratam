@@ -2,7 +2,7 @@
 title = "32 श्री भगवानुवाच"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.32॥ No commentary.
 </details>

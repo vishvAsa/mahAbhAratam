@@ -2,7 +2,7 @@
 title = "33 यथा सर्वगतम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.33॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

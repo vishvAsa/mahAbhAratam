@@ -2,7 +2,7 @@
 title = "38 न हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥4.38 4.39॥ तत्साधनं विरोधिफलं च तदुत्तरैरुक्त्वोपसंहरति।
 </details>

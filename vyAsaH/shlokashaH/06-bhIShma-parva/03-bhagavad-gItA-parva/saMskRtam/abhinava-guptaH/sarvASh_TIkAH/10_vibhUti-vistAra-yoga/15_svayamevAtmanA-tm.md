@@ -2,7 +2,7 @@
 title = "15 स्वयमेवात्मनाऽत्मानं"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.15॥ No commentary.
 </details>

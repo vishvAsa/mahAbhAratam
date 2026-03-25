@@ -2,7 +2,7 @@
 title = "18 विस्तरेणात्मनो योगम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥10.18॥ No commentary.
 </details>

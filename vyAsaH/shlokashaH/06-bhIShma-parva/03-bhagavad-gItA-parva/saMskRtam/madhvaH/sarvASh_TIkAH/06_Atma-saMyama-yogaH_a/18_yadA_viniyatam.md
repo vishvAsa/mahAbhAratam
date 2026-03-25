@@ -2,7 +2,7 @@
 title = "18 यदा विनियतम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.18॥ आत्मनि भवति।
 </details>

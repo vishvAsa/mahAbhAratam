@@ -2,7 +2,7 @@
 title = "03 एवमेतद्यथात्थ"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.3॥ Sri Madhvacharya did not comment on this sloka.
 </details>

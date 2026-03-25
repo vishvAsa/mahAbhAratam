@@ -2,7 +2,7 @@
 title = "25 शनैः शनैरुपरमेद्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.25॥ बुद्धेः कारणत्वं मनोनिग्रहे आत्मरमणे च।
 </details>

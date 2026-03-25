@@ -2,7 +2,7 @@
 title = "25 यान्ति देवव्रता"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.25॥ फलं विविच्याह -- यान्तीति।
 </details>

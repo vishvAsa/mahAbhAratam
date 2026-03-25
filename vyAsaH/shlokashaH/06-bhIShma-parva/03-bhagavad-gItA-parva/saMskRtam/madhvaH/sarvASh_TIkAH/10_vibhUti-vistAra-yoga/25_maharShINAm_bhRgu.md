@@ -2,7 +2,7 @@
 title = "25 महर्षीणाम् भृगुरहम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.25॥ Sri Madhvacharya did not comment on this sloka.
 </details>

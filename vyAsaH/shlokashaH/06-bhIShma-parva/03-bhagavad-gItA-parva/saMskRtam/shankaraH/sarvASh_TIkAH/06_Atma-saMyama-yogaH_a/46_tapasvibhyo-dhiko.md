@@ -2,7 +2,7 @@
 title = "46 तपस्विभ्योऽधिको योगी"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 यस्मादेवं तस्मात् -
 

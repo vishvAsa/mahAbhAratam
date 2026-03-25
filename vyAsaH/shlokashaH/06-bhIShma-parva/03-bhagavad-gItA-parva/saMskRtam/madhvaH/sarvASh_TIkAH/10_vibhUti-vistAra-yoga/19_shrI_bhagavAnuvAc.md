@@ -2,7 +2,7 @@
 title = "19 श्री भगवानुवाच"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.19॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

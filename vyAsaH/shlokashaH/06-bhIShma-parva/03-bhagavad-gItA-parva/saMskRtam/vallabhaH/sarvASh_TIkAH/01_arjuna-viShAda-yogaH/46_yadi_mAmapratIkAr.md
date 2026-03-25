@@ -2,7 +2,7 @@
 title = "46 यदि मामप्रतीकारमशस्त्रम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.45 1.46॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

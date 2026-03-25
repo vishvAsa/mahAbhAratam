@@ -2,7 +2,7 @@
 title = "38 यद्यप्येते न"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥1.38 1.39॥ Sri Vallabhacharya did not comment on this sloka.
 </details>

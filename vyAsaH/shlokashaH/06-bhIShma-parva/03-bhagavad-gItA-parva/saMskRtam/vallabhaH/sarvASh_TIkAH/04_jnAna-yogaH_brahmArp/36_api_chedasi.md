@@ -2,7 +2,7 @@
 title = "36 अपि चेदसि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥4.36॥ किञ्च अपि चेदिति। स्पष्टार्थः।
 </details>

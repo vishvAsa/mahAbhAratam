@@ -2,7 +2,7 @@
 title = "10 तेषां सततयुक्तानाम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.8 -- 10.10॥ सन्ति च भजन्तः केचिदित्याह -- अहमित्यादिना।
 </details>

@@ -2,7 +2,7 @@
 title = "15 पश्यामि देवांस्तव"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.15॥ No commentary.
 </details>

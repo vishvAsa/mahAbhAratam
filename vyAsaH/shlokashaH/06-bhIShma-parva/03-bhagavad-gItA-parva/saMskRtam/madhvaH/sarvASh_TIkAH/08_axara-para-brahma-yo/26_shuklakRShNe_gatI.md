@@ -2,7 +2,7 @@
 title = "26 शुक्लकृष्णे गती"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥8.26॥ Sri Madhvacharya did not comment on this sloka.
 </details>

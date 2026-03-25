@@ -2,7 +2,7 @@
 title = "60 स्वभावजेन कौन्तेय"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.60॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

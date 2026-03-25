@@ -2,7 +2,7 @@
 title = "34 अकीर्तिञ् चापि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.34॥  
   

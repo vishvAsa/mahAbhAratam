@@ -2,7 +2,7 @@
 title = "01 तन् तथा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥2.1॥ No commentary.
 </details>

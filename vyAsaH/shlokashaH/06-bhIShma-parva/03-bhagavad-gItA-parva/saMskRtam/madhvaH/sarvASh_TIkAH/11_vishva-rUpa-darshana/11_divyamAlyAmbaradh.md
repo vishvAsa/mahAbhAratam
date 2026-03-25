@@ -2,7 +2,7 @@
 title = "11 दिव्यमाल्याम्बरधरन्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.11॥ सर्वाश्चर्यमयं सर्वाश्चर्यात्मकम्।
 </details>

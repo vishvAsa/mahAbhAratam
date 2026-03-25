@@ -2,7 +2,7 @@
 title = "23 नियतं"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.23॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

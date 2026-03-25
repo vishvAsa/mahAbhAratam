@@ -2,7 +2,7 @@
 title = "63 क्रोधाद्भवति सम्मोहः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.63॥  
   

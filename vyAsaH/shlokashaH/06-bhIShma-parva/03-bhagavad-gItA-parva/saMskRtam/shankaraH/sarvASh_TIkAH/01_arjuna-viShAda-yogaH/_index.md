@@ -2,7 +2,7 @@
 title = "_index"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ## मङ्गलम्  
 नारायणः परोऽव्यक्ताद्  

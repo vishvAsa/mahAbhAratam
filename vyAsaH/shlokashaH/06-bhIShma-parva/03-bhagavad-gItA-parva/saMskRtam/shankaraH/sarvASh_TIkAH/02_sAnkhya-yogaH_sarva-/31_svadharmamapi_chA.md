@@ -2,7 +2,7 @@
 title = "31 स्वधर्ममपि चावेक्ष्य"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.31॥  
   

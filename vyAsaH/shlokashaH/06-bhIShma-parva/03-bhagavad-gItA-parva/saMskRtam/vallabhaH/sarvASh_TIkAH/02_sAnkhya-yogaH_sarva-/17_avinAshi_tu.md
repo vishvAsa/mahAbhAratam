@@ -2,7 +2,7 @@
 title = "17 अविनाशि तु"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 **Sanskrit Commentary By Sri Vallabhacharya**
 

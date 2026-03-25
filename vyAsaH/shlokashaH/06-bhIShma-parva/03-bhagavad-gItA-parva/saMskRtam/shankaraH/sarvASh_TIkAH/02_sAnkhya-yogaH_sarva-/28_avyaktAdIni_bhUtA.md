@@ -2,7 +2,7 @@
 title = "28 अव्यक्तादीनि भूतानि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.28॥  
   

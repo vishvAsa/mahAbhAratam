@@ -2,7 +2,7 @@
 title = "42 यामिमाम् पुष्पिताम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.42॥  
   

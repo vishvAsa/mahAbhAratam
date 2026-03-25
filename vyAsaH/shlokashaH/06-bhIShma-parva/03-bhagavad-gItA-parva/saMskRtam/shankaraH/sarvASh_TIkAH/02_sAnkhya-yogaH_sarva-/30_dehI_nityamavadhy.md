@@ -2,7 +2,7 @@
 title = "30 देही नित्यमवध्योऽयम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.30॥  
   

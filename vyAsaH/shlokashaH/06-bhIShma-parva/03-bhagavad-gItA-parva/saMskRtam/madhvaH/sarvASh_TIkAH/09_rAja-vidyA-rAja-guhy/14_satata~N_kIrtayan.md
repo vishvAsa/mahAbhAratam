@@ -2,7 +2,7 @@
 title = "14 सततङ् कीर्तयन्तो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.14॥ Sri Madhvacharya did not comment on this sloka.
 </details>

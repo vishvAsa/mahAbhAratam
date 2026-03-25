@@ -2,7 +2,7 @@
 title = "21 वेदाविनाशिनन् नित्यम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.21॥  
   

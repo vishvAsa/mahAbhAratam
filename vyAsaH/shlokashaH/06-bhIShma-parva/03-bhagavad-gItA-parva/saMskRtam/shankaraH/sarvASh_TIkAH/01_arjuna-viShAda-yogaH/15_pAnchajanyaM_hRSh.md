@@ -2,7 +2,7 @@
 title = "15 पाञ्चजन्यं हृषीकेशो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 1.15 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
 </details>

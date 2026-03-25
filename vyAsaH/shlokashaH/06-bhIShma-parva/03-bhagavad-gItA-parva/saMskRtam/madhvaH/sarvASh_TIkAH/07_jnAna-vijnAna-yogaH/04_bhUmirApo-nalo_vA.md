@@ -2,7 +2,7 @@
 title = "04 भूमिरापोऽनलो वायुः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥7.4॥ प्रतिज्ञातं ज्ञानमाह महतोऽहङ्कार एवान्तर्भावः।
 </details>

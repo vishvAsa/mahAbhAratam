@@ -2,7 +2,7 @@
 title = "01 प्रकृतिम् पुरुषम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥13.1॥ No commentary.
 </details>

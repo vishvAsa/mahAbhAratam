@@ -2,7 +2,7 @@
 title = "09 कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥17.9॥ कट्विति। राजसस्य प्रियाः।
 </details>

@@ -2,7 +2,7 @@
 title = "54 स्थितप्रज्ञस्य का"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.54॥  
   

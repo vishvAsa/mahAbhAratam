@@ -2,7 +2,7 @@
 title = "23 रूपम् महत्ते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.23॥ No commentary.
 </details>

@@ -2,7 +2,7 @@
 title = "11 न हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.11॥ अन्यस्त्यागार्थो न युक्त इत्याह -- न हीति।
 </details>

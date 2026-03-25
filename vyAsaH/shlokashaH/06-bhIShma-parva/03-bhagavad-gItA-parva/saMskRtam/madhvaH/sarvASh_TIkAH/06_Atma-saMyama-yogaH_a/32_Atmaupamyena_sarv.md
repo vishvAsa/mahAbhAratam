@@ -2,7 +2,7 @@
 title = "32 आत्मौपम्येन सर्वत्र"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.32॥ साम्यं प्रकारान्तरेण व्याचष्टे आत्मौपम्येनेति।
 </details>

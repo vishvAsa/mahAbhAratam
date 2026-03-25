@@ -2,7 +2,7 @@
 title = "19 बहूनाञ् जन्मनामन्ते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ज्ञानी पुनरपि स्तूयते -
 

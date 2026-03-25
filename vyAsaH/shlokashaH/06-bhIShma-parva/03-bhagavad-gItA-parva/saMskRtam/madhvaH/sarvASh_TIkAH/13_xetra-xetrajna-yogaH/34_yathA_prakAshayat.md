@@ -2,7 +2,7 @@
 title = "34 यथा प्रकाशयत्येकः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.34॥ Sri Madhvacharya did not comment on this sloka.
 </details>

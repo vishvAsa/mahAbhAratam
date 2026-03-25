@@ -2,7 +2,7 @@
 title = "42 शमो दमस्तपः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.42॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

@@ -2,7 +2,7 @@
 title = "68 य इमम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.68॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

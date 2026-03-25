@@ -2,7 +2,7 @@
 title = "28 कृपया परयाऽऽविष्टो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥1.28॥ No commentary.
 </details>

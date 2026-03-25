@@ -2,7 +2,7 @@
 title = "27 प्रशान्तमनसं ह्येनम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥6.27॥ Sri Madhvacharya did not comment on this sloka.
 </details>

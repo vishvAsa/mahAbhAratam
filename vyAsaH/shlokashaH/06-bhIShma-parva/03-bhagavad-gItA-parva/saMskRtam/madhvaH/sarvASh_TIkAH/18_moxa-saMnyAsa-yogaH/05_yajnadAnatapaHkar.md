@@ -2,7 +2,7 @@
 title = "05 यज्ञदानतपःकर्म न"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.5॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

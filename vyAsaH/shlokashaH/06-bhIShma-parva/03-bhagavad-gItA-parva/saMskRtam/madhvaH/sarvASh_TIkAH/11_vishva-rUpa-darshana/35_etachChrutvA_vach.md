@@ -2,7 +2,7 @@
 title = "35 एतच्छ्रुत्वा वचनम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥11.35॥ Sri Madhvacharya did not comment on this sloka.
 </details>

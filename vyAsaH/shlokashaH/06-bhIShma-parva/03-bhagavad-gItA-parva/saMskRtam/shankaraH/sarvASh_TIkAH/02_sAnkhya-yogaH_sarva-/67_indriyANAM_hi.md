@@ -2,7 +2,7 @@
 title = "67 इन्द्रियाणां हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.67॥  
   

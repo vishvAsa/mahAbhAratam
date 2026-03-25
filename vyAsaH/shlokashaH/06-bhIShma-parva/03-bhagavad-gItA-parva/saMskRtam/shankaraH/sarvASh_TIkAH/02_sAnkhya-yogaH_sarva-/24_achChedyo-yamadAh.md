@@ -2,7 +2,7 @@
 title = "24 अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.24॥  
   

@@ -2,7 +2,7 @@
 title = "05 दैवी सम्पद्विमोक्षाय"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.5॥ दैवीं सम्पदमभिजातः प्रतिजातः।
 </details>

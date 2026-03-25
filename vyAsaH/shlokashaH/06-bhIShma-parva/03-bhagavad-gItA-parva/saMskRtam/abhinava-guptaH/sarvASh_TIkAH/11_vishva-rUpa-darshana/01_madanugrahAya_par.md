@@ -2,7 +2,7 @@
 title = "01 मदनुग्रहाय परमम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.1॥ No commentary.
 </details>

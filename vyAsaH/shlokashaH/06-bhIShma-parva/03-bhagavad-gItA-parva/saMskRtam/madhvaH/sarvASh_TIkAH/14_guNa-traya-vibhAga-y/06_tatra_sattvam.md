@@ -2,7 +2,7 @@
 title = "06 तत्र सत्त्वम्"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥14.6॥ Sri Madhvacharya did not comment on this sloka.
 </details>

@@ -2,7 +2,7 @@
 title = "02 श्री भगवानुवाच"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 **Sanskrit Commentary By Sri Vallabhacharya**
 

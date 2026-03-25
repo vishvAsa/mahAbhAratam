@@ -2,7 +2,7 @@
 title = "36 निहत्य धार्तराष्ट्रान्नः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥1.36॥ Sri Madhvacharya did not comment on this sloka. The commentary
 starts from 2.11.

@@ -2,7 +2,7 @@
 title = "43 शौर्यन् तेजो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥18.43॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

@@ -2,7 +2,7 @@
 title = "10 तमुवाच हृषीकेशः"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>शङ्करः - मूलम्</summary>
 
 ॥2.10॥  
   

@@ -2,7 +2,7 @@
 title = "02 व्यामिश्रेणेव वाक्येन"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥3.2॥ Sri Madhvacharya did not comment on this sloka.
 </details>

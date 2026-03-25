@@ -2,7 +2,7 @@
 title = "32 मां हि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥9.32 -- 9.34॥  
 मां हि इत्यादि  

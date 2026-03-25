@@ -2,7 +2,7 @@
 title = "40 नमः पुरस्तादथ"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.40॥ No commentary.
 </details>

@@ -2,7 +2,7 @@
 title = "09 एवमुक्त्वा ततो"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 ॥11.9॥ No commentary.
 </details>

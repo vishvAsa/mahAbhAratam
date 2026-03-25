@@ -2,7 +2,7 @@
 title = "03 अश्रद्दधानाः पुरुषा"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥9.3॥ Sri Madhvacharya did not comment on this sloka.
 </details>

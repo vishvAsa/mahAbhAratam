@@ -2,7 +2,7 @@
 title = "22 एतैर्विमुक्तः कौन्तेय"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥16.22॥ Sri Madhvacharya did not comment on this sloka.,
 </details>

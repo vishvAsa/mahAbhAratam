@@ -2,7 +2,7 @@
 title = "16 नासतो विद्यते"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
 
 **Sanskrit Commentary By Sri Abhinavgupta**
 

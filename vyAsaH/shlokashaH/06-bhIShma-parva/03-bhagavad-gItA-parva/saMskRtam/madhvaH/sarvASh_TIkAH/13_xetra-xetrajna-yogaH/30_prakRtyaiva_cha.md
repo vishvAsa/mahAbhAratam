@@ -2,7 +2,7 @@
 title = "30 प्रकृत्यैव च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥13.30॥ आत्मानं चाकर्त्तारं पश्यति स पश्यति।
 </details>

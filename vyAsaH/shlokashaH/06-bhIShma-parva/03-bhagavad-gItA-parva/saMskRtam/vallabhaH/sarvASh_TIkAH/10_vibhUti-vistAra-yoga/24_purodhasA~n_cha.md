@@ -2,7 +2,7 @@
 title = "24 पुरोधसाञ् च"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>वल्लभः - मूलम्</summary>
 
 ॥10.24॥ पुरोधसामिति। सरसां स्थिरजलाशयानां मध्ये सागरः।
 </details>

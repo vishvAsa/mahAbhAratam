@@ -2,7 +2,7 @@
 title = "30 प्रह्लादश्चास्मि"
 +++
 
-<details><summary>मूलम्</summary>
+<details><summary>मध्वः - मूलम्</summary>
 
 ॥10.30॥ Sri Madhvacharya did not comment on this sloka.
 </details>
