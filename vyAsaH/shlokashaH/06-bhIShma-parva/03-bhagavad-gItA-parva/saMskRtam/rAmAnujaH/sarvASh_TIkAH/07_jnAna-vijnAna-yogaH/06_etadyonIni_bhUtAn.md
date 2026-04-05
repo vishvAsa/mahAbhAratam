@@ -1,0 +1,20 @@
++++
+title = "06 एतद्योनीनि भूतानि"
++++
+
+<details><summary>रामानुजः - मूलम्</summary>
+
+॥7.6॥**एत**च्चेतनाचेतनसमष्टिरूपमदीयप्रकृतिद्वय**योनीनि** ब्रह्मादिस्तम्बपर्यन्तान्य् उच्चावचभावेन अवस्थितानि चिदचिन्मिश्राणि **सर्वाणि भूतानि** मदीयानि **इत्य् उपधारय** मदीयप्रकृतिद्वययोनीनि हि तानि मदीयान्य् एव। तथा प्रकृतिद्वययोनित्वेन कृत्स्नस्य जगतस् तयोर् द्वयोर् अपि मद्योनित्वेन मदीयत्वेन च **कृत्स्नस्य जगतः** अहम् एव **प्रभवः** अहम् एव **प्रलयः** अहम् एव च शेषी इत्य् उपधारय।  
+        
+तयोश् चिदचित्समष्टिभूतयोः प्रकृतिपुरुषयोर् अपि परमपुरुषयोनित्वं श्रुतिस्मृतिसिद्धम्। महानव्यक्ते लीयते अव्यक्तमक्षरे अक्षरं तमसि लीयते तमः परे देवे एकीभवति (सु॰ उ॰ 2)विष्णोः स्वरूपात्परतोदिते द्वे रूपे प्रधानं पुरुषश्च (वि॰ पु॰ 1।2।24)प्रकृतिर्या मया ख्याता व्यक्ताव्यक्तस्वरूपिणी। पुरुषश्चाप्युभावेतौ लीयेते परमात्मनि॥ परमात्मा च सर्वेषामाधारः परमेश्वरः। विष्णुनामा स वेदेषु वेदान्तेषु च गीयते॥ (वि॰ पु॰ 6।4।38 39) इत्यादिका हि श्रुतिस्मृतयः।
+</details>
+
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥7.6॥ एवं समष्टिदशोक्ताएतद्योनीनि इत्यर्धेन तु व्यष्टिरुच्यते। अहं कृत्स्नस्य इति तु समष्टिव्यष्ट्योः सङ्कलितयोः कार्यत्वादिकथनम्सर्वाणि भूतानि इति चिदचिन्मयकार्यनिर्देशात्। एतच्छब्दः प्रस्तुतप्रकारप्रकृतिपुरुषपरामर्शी न तु प्रकृतिमात्रपर इति दर्शयति एतच्चेतनेत्यादिना। एतेन स्वरूपतो निर्विकारस्यापि चेतनस्य देवादिशरीरेन्द्रियतदधीनज्ञानक्रियाभोगादिविशिष्टवेषापेक्षया तत्पूर्वाचित्कल्पावस्थस्य प्रकृतित्वमुपपन्नमिति सूचितम्। व्याख्येये मदीयानीत्येतन्न दृश्यते तत्कथमत्र निर्दिश्यते इत्यत्राह मदीयप्रकृतिद्वययोनीनीति। शब्दाप्रयोगेऽपि वाक्यार्थसिद्धावितिशब्दः स्वकीयत्वपरामर्शार्थ इति भावः। भगवदभिप्रायस्थवचनरूपत्वादत्र मदीयशब्दोक्तिः। तथेत्यस्य तथासतीत्यर्थः। तस्यैव विवरणम्प्रकृतिद्वयेत्यादि। पूर्वोक्तशेषित्वादिसमुच्चयार्थो वा तथाशब्दः। प्रभवप्रलयशब्दावत्रोत्पत्तिलयस्थानपरौ। ननु अजामेकां श्वे.उ.4।5 नित्यो नित्यानां श्वे.उ.6।13प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि 13।19 इत्यादिषु सत्सु कार्यविषये कृत्स्नशब्देन प्रकृतिद्वयस्यापि सङ्ग्रहः कथमवगम्यते इत्यत्राह चिदचित्समष्टीति। प्रकृतिपुरुषयोः परमात्मनि प्रलयश्रुतिबलात्तयोस्तस्मादुत्पत्तिरपि श्रुतिसिद्धैव स्यादित्यभिप्रायेणोपादत्ते महानिति। प्रकृतिपुरुषयोः परमात्मनि लयो नाम क्षीरे नीरस्येव विभागानर्हः संश्लेषविशेषः। तेन द्रव्यस्वरूपस्य नित्यत्वात्अजाम् इत्यादेरविरोधः। उक्तार्थे स्मृतिमुदाहरति विष्णोरिति। परतोदिते परत उदित इत्यर्थः। आर्षः सन्धिभेदः यद्वा स्मृतिरपीयं प्रलयपरैव तत्प्रकरणस्थत्वात्। दो अवखण्डने इत्यत्र दिते इति निष्ठान्तं पदम् पृथग्भूते इत्यर्थः। तेन प्रलयदशायामपि प्रधानपुरुषेश्वराणां मिथः स्वरूपभेदोऽस्त्येवेत्युक्तं भवति। अदिते वा इति पदच्छेदः अपृथग्भूते इत्यर्थः। तेन विभागानर्हः संश्लेष उक्तो भवति प्रलयप्रकरणस्थत्वादत्रापि पूर्वोत्तरोपादीयमानस्मृतिसमानार्थत्वाभिप्रायाच्च। स्वाभिमतार्थे स्फुटार्थं वचनमुदाहरति प्रकृतिरिति।
+</details>
+
+<details><summary>आदिदेवानन्दः</summary>
+
+7.6 Know that all beings from Brahma down to a tuft of grass, who have their origin in these two Prakrtis of Mine, are aggregated forms of the self and of inanimate matter. Irrespective of whether they are existing in a superior or inferior form, the selves and inanimate matter are mixed together in them. On account of their origination in My two Prakrtis, they are Mine. So, know that because the entire universe has its origination in these two Prakrtis which have their origination in Me, I am myself the origin and dissolution of the entire universe. For the same reason, I am its Lord (Sesin). It is proved on the basis of the Srutis and Smrtis that these two, Prakrti and Purusa (matter and the self), which form the aggregate of all animate and inanimate beings, have the Supreme Person as their cause. This is evident from Sruti and Smrti texts like the following: 'The Mahat resolves into Avyakta, Avyakta into Aksara, Aksara into Tamas, and Tamas becomes one with the Supreme Lord' (Su. U., 2); 'O sage, distinct from the form of Visnu, the Supreme Lord, the two forms, Prakrti and Purusa, arise' (V. P., 1.2.24); and 'What was described by Me as Prakrti in its dual form of the manifest and the unmanifest, and the Purusa do merge in the Supreme Self, and the Supreme Self is the support of all. He is the Supreme Lord named Visnu, exalted in the Vedas and Vedanta' (V. P., 6.4.38-39).
+</details>

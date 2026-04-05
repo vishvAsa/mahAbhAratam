@@ -1,0 +1,33 @@
++++
+title = "19 भूतग्रामः स"
++++
+
+<details><summary>गम्भीरानन्दः</summary>
+
+8.19 O son of Prtha, after being born again and again, that very multitude of beings disappears in spite of itself at the approach of night. It comes to life at the approach of day.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+8.19 The same multitude of beings, which have lived on earth so often,
+all are dissolved as the night of the universe approaches, to issue forth anew when morning breaks. Thus is it ordained.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+8.19. Being born and born again, the self same multitude of beings gets dissolved while the night approaches, and issues forth willy-nilly while the day approaches, O son of Prtha !
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+8.19 This same multitude of beings, being born again and again, is dissolved, helplessly, O Arjuna (into the Unmanifested) at the coming of the night and comes forth at the coming of the day.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+8.19 भूतग्रामः multitude of beings; सः that; एव verily; अयम् this;
+भूत्वा भूत्वा being born again and again; प्रलीयते dissolves;
+रात्र्यागमे at the coming of night; अवशः helpless; पार्थ O Partha;
+प्रभवति comes forth; अहरागमे at the coming of day.Commentary Avidya
+(ignorance); Kama (desire) and Karma (action) are the three knots that bind the individual to Samsara. Desire is born of Avidya. Man exerts to attain and enjoy the objects of his desires. During this activity he favours some and injures others through the force of RagaDvesha (love and hatred or attraction and repulsion). Therefore he is caught in the wheel of Samsara or transmigration. He has to take birth again and again to reap the fruits of his own actions. He repeatedly comes forths and dissolves through the force of his own Karma.The individual souls have lost their independence as they are bound by ignorance; desire and activity. Therefore they are subject to the sorrows; miseries and pains of this Samsara. In order to create dispassion in their minds and a longing for liberation in their hearts; and to remove the fallacious belief that a man reaps the fruits of what he has not done or that he does not reap the fruits of what he has done; the Lord has said that all creatures involuntarily come into being again and again at the coming of the day and dissolve at the coming of the night (on account of the actions or Karmas caused by desire born of ignorance).
+</details>

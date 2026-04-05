@@ -1,0 +1,17 @@
++++
+title = "08 अमानित्वमदम्भित्वमहिंसा"
++++
+
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
+
+॥13.8 -- 13.12॥ एवं क्षेत्रं व्याख्यातम्; क्षेत्रज्ञश्च।  
+इदानीं ज्ञानम् उच्यते --  
+अमानित्वम्-इत्यादि अन्यथा इत्यन्तम्। 
+
+अनन्य-योगेनेति -- परमात्मनो महेश्वारत् अन्यत् अपरं न किंचिदस्ति इत्यनन्यरूपो यो निश्चयः; स एव योगः तेन निश्चयेन मयि भक्तिः। अत एव सा न कदाचित् व्यभिचरति; व्यभिचारहेतुत्वाभिमतानां +++(S;;N -- त्वाभिगतानाम्)+++ कामनानामभावात्; तासामपि वा चित्तवृत्त्यन्तररूपाणां तदेकमयत्त्वात्। एवं सर्वत्रानुसन्धेयम्। एतद्विपरीतम् अज्ञानम् यथा मानित्वादीनि।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+<div class="js_include" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/12_adhyAtmajnAnanity.md"  newLevelForH1="5" includeTitle="false"> </div>
+</details>
