@@ -104,6 +104,11 @@ anyone else in the human world. Not only this much,-
 अदृष्टपूर्वाणीति दिव्यानीत्यस्य; आश्चर्याणीति नानावर्णाकृतीनीत्यस्येति
 द्रष्टव्यम्।
 </details>
+
+<details><summary>रामरायः - ६</summary>
+
+पश्येति। तत्र कानिचिद् रूपाणि नामभिर्निर्दिशति— पश्यादित्यानिति॥६॥
+</details>
 </details>
 
 </div>
