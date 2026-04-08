@@ -177,3 +177,9 @@ transmigration. This is the idea.
   
 फलवैलक्षण्यम्। विस्तरेण चैतदग्रे प्रतिपादयिष्यते।
 </details>
+
+
+<details><summary>रामरायः - ४३</summary>
+
+(पूर्वतने व्याख्यातम्।)
+</details>
