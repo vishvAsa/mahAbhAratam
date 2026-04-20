@@ -34,3 +34,24 @@ yathA divi mahAghorau rAjan budha-shanaishcharau || Mbh 6.100.20
 Here we have the conjunctions of Mercury with Mars and Saturn, respectively. While these might happen once or more in a year in principle, visible conjunctions of these planets are quite rare. Hence, it is notable that the national epic chooses these conjunctions for similes. 
 
 While in the pre-modern skies over open spaces, these conjunctions might have been quite striking just after sunset or before sunrise, for most modern city dwellers, they are a difficult proposition. In any case, given the relative rarity of good visible versions of these conjunctions, we wonder if there was a special reason why they were chosen by the epic authors.
+
+## mArtANDa meets Mercury
+The myth of mArtANDa, viz., the sun as the dead egg, is first attested in the R^igveda (RV 10.72.8-9). There, the first 7 sons of aditi (dakSha, aryaman, mitra, varuNa, bhaga, aMsha and indra) become immortal gods, while the eighth, mArtANDa (the dead egg; identified with vivasvAn), is the one from which mortals emerge. 
+
+The myth is further elaborated in three yajurvedic brAhmaNa passages (shatapatha brAhmaNa of the shuklayajurveda and the taittirIya AraNyaka and maitrAyaNIya saMhitA of the kR^iShNayajurveda). The mahAbhArata preserves a peculiar brAhmaNa-like passage that furnishes a further version of the mArtANDa myth. 
+
+It shares the motif of the cooking of food by aditi with the version found in the maitrAyaNIya saMhitA. However, it peculiarly introduces the archon of the planet Mercury (Budha) into the story, something which is not seen in any of the extant vedic brAhmaNa-s. We believe it encodes an astronomical allegory (you can see if you can arrive at that). It is also good to see that our ancestors instinctively arrived at the belief that we are born of the non-luminous stellar material.+++(5)+++
+
+> अदितिर् वै देवानाम् अन्नम् अपचद्  
+> एतद् भुक्त्व+असुरान् हनिष्यन्ति+इति ।  
+> तत्र बुधो व्रतचर्यासमाप्ताव् आगच्छत् ।  
+> अदितिं चावोचद् - भिक्षां देहि+इति ।  
+> तत्र देवैः पूर्वम् एतत् प्राश्यं नान्येनेत्य् अदितिर् भिक्षां नादात् ।  
+> अथ भिक्षाप्रत्याख्यान-रुषितेन बुधेन ब्रह्मभूतेन  
+> विवस्वतो द्वितीये जन्मन्य्  
+> अण्डसंज्ञितस्याण्डं मारितम् अदित्याः ।  
+> स मार्तण्डो विवस्वान् अभवच् छ्राद्धदेवः ।  
+> अदितिः शप्ता अदितेर् उदरे भविष्यति व्यथा ॥  
+> १२.३२९.४४
+
+> aditi verily cooked food for the gods, [thinking] that by eating this, they would slay the asuras. At that time, budha (Mercury), having completed his ritual observance, arrived there. He said to aditi, 'Give me alms.' aditi did not give him alms, saying, 'This is to be eaten first by the gods, and not by anyone else.' Then, angered by the refusal of alms, budha – who had become identified with brahman – killed the egg (aNDa) of aditi during the second birth of vivasvAn (the Aditya) from the egg. That [still birth of] vivasvAn became mArtANDa (the dead egg), who is shrAddhadeva (the deity invoked in shrAddha-s). aditi was thus cursed: "There shall be loss in aditi's womb."
