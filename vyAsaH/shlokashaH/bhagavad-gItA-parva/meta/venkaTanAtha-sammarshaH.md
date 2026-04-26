@@ -573,4 +573,3 @@ Source: [TW](https://archive.org/details/PrasthanatrayaVishishtadvaitaBhashya/Gi
 > अनन्य-शरणैर् यथाधिकारं तद्-एकाश्रयणं परम-धर्मः 
 
 इति।  
-  
