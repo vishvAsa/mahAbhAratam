@@ -6,3 +6,8 @@ title = "19 इहैव तैर्जितः"
 इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः।  
 निर्दोषं हि समं ब्रह्म तस्माद्ब्रह्मणि ते स्थिताः॥5.19॥
 </details>
+
+<details><summary>मूलम् - अभिनवगुप्तः</summary>
+
+Between these verses the Vulgate reads the 10th verse of Ch. VI of the present edition.
+</details>
