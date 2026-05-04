@@ -9,6 +9,5 @@ title = "10 योगी युञ्जीत"
 
 <details><summary>मूलम् - अभिनवगुप्तः</summary>
 
-This verse is the same as Ch. V, verse 19 of the
-Vulgate. See above.
+This verse is the same as Ch. V, verse 19 of the Vulgate. See above.
 </details>
