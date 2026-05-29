@@ -4,8 +4,6 @@ title = "21 यो यो"
 
 <details><summary>अभिनवगुप्तः - मूलम्</summary>
 
-<div class="js_include" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md"  newLevelForH1="2" includeTitle="false"> </div>
-
 [[अग्रे व्याख्यातम्]]
 </details>
 
