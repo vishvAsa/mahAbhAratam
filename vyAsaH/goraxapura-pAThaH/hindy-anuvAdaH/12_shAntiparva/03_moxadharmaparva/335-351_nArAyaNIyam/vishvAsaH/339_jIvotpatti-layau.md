@@ -32,7 +32,7 @@ title = "३३९ जीवोत्पत्ति-लयौ"
 > 
 > यो **वासुदेवो** भगवान्  
 क्षेत्र-ज्ञो निर्गुणात्मकः ।  
-3 ज्ञेयस् स एव राजेन्द्र  
+ज्ञेयस् स एव राजेन्द्र  
 **जीवः सङ्कर्षणः** प्रभुः ॥ ३९ ॥  
 सङ्कर्षणाच् च **प्रद्युम्नो**  
 मनो-भूतः स उच्यते ।  
@@ -190,7 +190,7 @@ He further notes:
 > in the Vaikhānasa literature and, as we will see presently, in the Pāñcarātra scriptures, different types of Pāñcarātrika are distinguished from one another not on account of opposing philosophical positions, but rather because of such factors as their different religious goals, liturgical practices, social class \( *varṇa*\), customs, everyday habits, and religious insignia. 
 
 ### Notice by others
-shankara's mischaracterization was supposedly later admitted by madhusUdana sarasvatI.
+shankara's mischaracterization was supposedly later admitted by madhusUdana sarasvatI. (Where??)
 
 ## दोष-मात्रा-मूले
 These authors were likely mistaken and prejudiced,  
