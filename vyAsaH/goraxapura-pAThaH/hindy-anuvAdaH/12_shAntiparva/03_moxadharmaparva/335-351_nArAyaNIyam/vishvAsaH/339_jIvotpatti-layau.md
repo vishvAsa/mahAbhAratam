@@ -152,6 +152,7 @@ Some have adjusted for it in [various ways](/AgamaH_brAhmaH/shAnkara-darshanam/t
 
 "मनो-बुद्ध्य्-अहङ्कारात्मकम् अन्तःकरणम् एवात्मे"ति वदतां तत्रोक्तानां **साङ्कर्षण**-पाञ्चरात्राणाम् अभिप्राये  
 तस्यान्तःकरणस्य का मुक्तिर् इति नैव किम् अप्य् उक्तम्।  
+
 किञ्च तत्र भगवद्-अपेक्षया नारायणीयाद्य्-उक्तः शरीरि-शरीर-भावः शाश्वतः स्पष्ट एव -  
 ततो नात्राप्य् अन्तःकरणोत्पत्ति-लय-प्रसङ्गौ।  
 अन्यथा तत्रैवोक्तया रीत्या तेषाम् मूढत्वं सिद्धम् - 
@@ -161,12 +162,24 @@ Some have adjusted for it in [various ways](/AgamaH_brAhmaH/shAnkara-darshanam/t
 
 No rule that mano-buddhy-ahankAra combo should be accidental. Likely to be karma-bound. Moreover likely eternal (as evolutes of eternal prakRti).
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>भास्कर-शाङ्कर-ज्ञानम्</summary>
 
+> Basing on this fact, it can be safely inferred that Ag. knew also the bhāsya of Sankarācārya who is refuted quite often by Bhāskarācārya in his BG commentary. In the GS itself we have instances that seem to corroborate this surmise. Besides, there is the Sarvatobhadra, a commentary on the BG by another Kashmirian writer by name Rājānaka Rāmakaṇṭha. This author is assigned to a date earlier than that of Ag. If this is acceptable then it is not improbable that Ag. knew Rāmakaṇṭha's commentary also. ...   
 > It is also probable that Rāmakaṇṭha who follows Bhāskara knows Śaṅkara's bhāṣya. -  
 > S. SANKARANARAYANAN in his translation of abhinavagupta's gItArthasangraha.
 
-This Rājānaka Rāmakaṇṭha (pre-abhinava), and a separate gItA-commentator supposedly post-Rāmānuja (c. 12th–14th century) per others.
+This Rājānaka Rāmakaṇṭha (pre-abhinava), and a separate gItA-commentator supposedly post-Rāmānuja (c. 12th–14th century) per others are different.
+
+This shows however that bhAskara and shankara had reached the spatio-temporal-intellectual milieu by then.
+
+Anyway, here is direct proof of him knowing either bhedAbheda or shAnkara "vedAnta" (likely both) - 
+
+> > मूढानां ज्येष्ठ-मल्लास् ते  
+> येषां स्वात्मा विनश्यति ।
+>
+> इति ।
+>
+> एष च प्रसङ्गो वेदान्तविदां पाञ्चरात्राणां च समानः ।
 </details>
 
 

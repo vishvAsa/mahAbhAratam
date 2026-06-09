@@ -52,9 +52,6 @@ Distinction from Other Rāmakaṇṭhas
   - Authored a standalone *Bhagavad Gītā* commentary.
   - Distinct from Śaiva Siddhānta scholasticism.
   - Likely part of Kashmir’s broader intellectual milieu, where Vedānta, Śaiva, and Buddhist traditions interacted.
-
-
-
 </details>
 
 
