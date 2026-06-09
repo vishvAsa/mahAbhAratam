@@ -161,6 +161,13 @@ Some have adjusted for it in [various ways](/AgamaH_brAhmaH/shAnkara-darshanam/t
 
 No rule that mano-buddhy-ahankAra combo should be accidental. Likely to be karma-bound. Moreover likely eternal (as evolutes of eternal prakRti).
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> It is also probable that Rāmakaṇṭha who follows Bhāskara knows Śaṅkara's bhāṣya. -  
+> S. SANKARANARAYANAN in his translation of abhinavagupta's gItArthasangraha.
+
+This Rājānaka Rāmakaṇṭha (pre-abhinava), and a separate gItA-commentator supposedly post-Rāmānuja (c. 12th–14th century) per others.
+</details>
 
 
 ## प्रत्याख्यानम्
@@ -204,11 +211,8 @@ which still amounts to a misrepresentation of pAncharAtra.
 
 In the case of shankara and imitators (bhAskara, rAmakaNTha) vs pAncharAtra, it was pure incompetence (imitators) and/ or crookedness (shankara).
 
-bhAskara's commentary criticises shankara. And rAmakaNTha follows him - 
+bhAskara's commentary criticises shankara - so likely copied his error. 
 
-
-> It is also probable that Rāmakaṇṭha who follows Bhāskara knows Śaṅkara's bhāṣya. -  
-> S. SANKARANARAYANAN in his translation of abhinavagupta's gItArthasangraha.
 
 
 ### पूर्वपक्ष-ग्रन्थ-मात्रस्याश्रद्धेयता

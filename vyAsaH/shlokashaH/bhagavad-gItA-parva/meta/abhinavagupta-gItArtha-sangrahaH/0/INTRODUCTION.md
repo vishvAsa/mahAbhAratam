@@ -33,7 +33,32 @@ Ag speaks of the numerous commentaries of earlier authors available with him. Wh
 - 3. Ch. XVIII, 2. Of course Bhāskara's commentary, as we have now, is an incomplete one breaking off at the penulti mate verse in chapter IX. However, Ag.'s present reference appears to remove the doubt whether Bhāskara had commented upon the entire text of the BG. Cf. Bhagavad gita Bhīsya by Bhāskarācārya : Ed. Subhadropadhyaya (Varanasi 1965) : Sanskrit intro page (). It is to be noted that the BG text commented upon by Bhāskara is largely Kashmirian text. 
 - 4. See e.g. ch. IX, 33-35: Hereinafter the references to the BG chapters and verses include the Tippani and also the Notes on those verses in pt. II. 
 
-Basing on this fact, it can be safely inferred that Ag. knew also the bhāsya of Sankarācārya who is refuted quite often by Bhāskarācārya in his BG commentary. In the GS itself we have instances that seem to corroborate this surmise. Besides, there is the Sarvatobhadra, a commentary on the BG by another Kashmirian writer by name Rājānaka Rāmakaṇṭha. This author is assigned to a date earlier than that of Ag. If this is acceptable then it is not improbable that Ag. knew Rāmakaṇṭha's commentary also. Further Ag. refers to his preceptor's views on certain verses of the BG. All these seem to indicate that in the Kashmir valley of Ag.'s time there were heated discussions on the purport and philosophy of the BG. It is to be borne in mind that Śaṅkara's bhāsya roused sharp criticism first among these who followed the Kashmirian text of the BG, viz. Bhāskara.\* Its reaction from the South came later in the form of the Visiṣtādvaita commentary by Ramānujācārya (c. 1100 A. D). 
+Basing on this fact, it can be safely inferred that Ag. knew also the bhāsya of Sankarācārya who is refuted quite often by Bhāskarācārya in his BG commentary. In the GS itself we have instances that seem to corroborate this surmise. Besides, there is the Sarvatobhadra, a commentary on the BG by another Kashmirian writer by name Rājānaka Rāmakaṇṭha. This author is assigned to a date earlier than that of Ag. If this is acceptable then it is not improbable that Ag. knew Rāmakaṇṭha's commentary also. 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Distinction from Other Rāmakaṇṭhas
+
+1. **Śaiva Siddhānta Rāmakaṇṭha (9th–10th c.)**
+  - Wrote commentaries on Śaiva tantras (*Kiraṇavr̥tti*, *Mr̥gendrabhāṣya*).
+  - Focus: ritual orthodoxy, dualist Śaiva theology.
+  - Not connected to the *Bhagavad Gītā*.
+
+2. **Vedānta Rāmakaṇṭha (12th–14th c.)**
+  - Commented on Rāmānuja’s *Gītābhāṣya*.
+  - Focus: bhakti and prapatti in Viśiṣṭādvaita Vedānta.
+
+3. **Rājānaka Rāmakaṇṭha (Kashmirian, *Sarvatobhadra*)**
+  - Authored a standalone *Bhagavad Gītā* commentary.
+  - Distinct from Śaiva Siddhānta scholasticism.
+  - Likely part of Kashmir’s broader intellectual milieu, where Vedānta, Śaiva, and Buddhist traditions interacted.
+
+
+
+</details>
+
+
+Further Ag. refers to his preceptor's views on certain verses of the BG. All these seem to indicate that in the Kashmir valley of Ag.'s time there were heated discussions on the purport and philosophy of the BG. It is to be borne in mind that Śaṅkara's bhāsya roused sharp criticism first among these who followed the Kashmirian text of the BG, viz. Bhāskara.\* Its reaction from the South came later in the form of the Visiṣtādvaita commentary by Ramānujācārya (c. 1100 A. D). 
 
 - 1. See e.g. pt. II, pp. 14, 15, 73, 92, 94, 117, 173, 181, 252-54 etc. 
 - 2. I.e. to the end of the ninth century A. D. See Śrīmad Bhagavadgita with Sarvatobhadra : Ed. T. R. Chintamani : Madras, 1941 : intro. p. xl. Madhusudan Kaul also seems to suggest more or less the same period for the author. See his edition : Bhagavadg ta with Sarvatobhadra : Kashmir Series of Texts and Studies, No. LXIV (1949): intro p. 10. V 
@@ -267,7 +292,7 @@ The above change of attitude does not mean that the Kashmirian scholars had revo
 
 Thus in the Kashmir tradition the caste system seems to have continued in the social level eventhough it had lost its ground in the spiritual plane. The Kashmir revolution seems to have been only to this extent. Rāmakaṇṭha makes the point clear under the said verse of the BG. He says: 
 
-> The wise would observe the Supreme Brahman that is equal in a Brāhmaṇa, a Gandāla, a cow, an elephant and a dog. [[xxxix]] This does not mean that the wise would make use of them equally and do away the social structure created by the Supreme Lord.1 
+> The wise would observe the Supreme Brahman that is equal in a Brāhmaṇa, a Candāla, a cow, an elephant and a dog. [[xxxix]] This does not mean that the wise would make use of them equally and do away the social structure created by the Supreme Lord.1 
 
 - 1. See Rāmakaṇṭha under ch.V,18. For Sivopādhyāya's similar idea see pt. II, p. 116. Ag. too accepts that the Four caste system is the creation of the Supreme. See ch. IV, 11-13; XVIII, 41-46 ff.
 
