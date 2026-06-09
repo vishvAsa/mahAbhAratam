@@ -152,6 +152,14 @@ Some have adjusted for it in [various ways](/AgamaH_brAhmaH/shAnkara-darshanam/t
 
 "मनो-बुद्ध्य्-अहङ्कारात्मकम् अन्तःकरणम् एवात्मे"ति वदतां तत्रोक्तानां **साङ्कर्षण**-पाञ्चरात्राणाम् अभिप्राये  
 तस्यान्तःकरणस्य का मुक्तिर् इति नैव किम् अप्य् उक्तम्।  
+प्रत्युतैवम् एव निर्विशेषं वदति - 
+
+> > मूढानां ज्येष्ठ-मल्लास् ते  
+> येषां स्वात्मा विनश्यति ।
+>
+> इति ।
+>
+> एष च प्रसङ्गो वेदान्तविदां पाञ्चरात्राणां च समानः ।
 
 किञ्च तत्र भगवद्-अपेक्षया नारायणीयाद्य्-उक्तः शरीरि-शरीर-भावः शाश्वतः स्पष्ट एव -  
 ततो नात्राप्य् अन्तःकरणोत्पत्ति-लय-प्रसङ्गौ।  
@@ -164,6 +172,20 @@ No rule that mano-buddhy-ahankAra combo should be accidental. Likely to be karma
 
 <details><summary>भास्कर-शाङ्कर-ज्ञानम्</summary>
 
+
+Sadyojyoti knows Bhedabheda already through Bhartrprapancha. Ramakantha knows Kevaladvaita through Mandana Mishra (whom he quotes). So, likely knew shankara's brahma-sUtra-bhAShya.
+
+There is direct proof of him knowing either bhedAbheda or shAnkara "vedAnta" (likely both) -
+
+> > मूढानां ज्येष्ठ-मल्लास् ते  
+> येषां स्वात्मा विनश्यति ।
+>
+> इति ।
+>
+> एष च प्रसङ्गो वेदान्तविदां पाञ्चरात्राणां च समानः ।
+
+Contemporaries were well aware of shAnkara bhAShyas as well.
+
 > Basing on this fact, it can be safely inferred that Ag. knew also the bhāsya of Sankarācārya who is refuted quite often by Bhāskarācārya in his BG commentary. In the GS itself we have instances that seem to corroborate this surmise. Besides, there is the Sarvatobhadra, a commentary on the BG by another Kashmirian writer by name Rājānaka Rāmakaṇṭha. This author is assigned to a date earlier than that of Ag. If this is acceptable then it is not improbable that Ag. knew Rāmakaṇṭha's commentary also. ...   
 > It is also probable that Rāmakaṇṭha who follows Bhāskara knows Śaṅkara's bhāṣya. -  
 > S. SANKARANARAYANAN in his translation of abhinavagupta's gItArthasangraha.
@@ -172,14 +194,6 @@ This Rājānaka Rāmakaṇṭha (pre-abhinava), and a separate gItA-commentator 
 
 This shows however that bhAskara and shankara had reached the spatio-temporal-intellectual milieu by then.
 
-Anyway, here is direct proof of him knowing either bhedAbheda or shAnkara "vedAnta" (likely both) - 
-
-> > मूढानां ज्येष्ठ-मल्लास् ते  
-> येषां स्वात्मा विनश्यति ।
->
-> इति ।
->
-> एष च प्रसङ्गो वेदान्तविदां पाञ्चरात्राणां च समानः ।
 </details>
 
 
