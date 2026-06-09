@@ -117,6 +117,17 @@ Most shAnkara-s have uncritically followed suit. तद्-अनुयायि
 Some have adjusted for it in [various ways](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/misadvertisement/kas_saguNam_brahma). 
 
 
+### भास्करः
+भास्करोऽपि शङ्करम् एवानुसरति -
+
+> **पञ्चरात्र**-सिद्धान्तः परीक्ष्यते …
+>> वासुदेवः परा प्रकृतिः परमात्मा,  
+ततः सङ्कर्षणो नाम जीवो जायते,  
+सङ्कर्षणात् प्रद्युम्नः सृज्यमानो जायते,  
+ततो ऽनिरुद्धो नामाहङ्कारो जायते
+>
+> इति **भागवता** मन्यन्ते ।
+
 ### रामकण्ठः
 सद्योज्योतिषः कृतेर् व्याख्याने रामकण्ठः - 
 
@@ -150,16 +161,6 @@ Some have adjusted for it in [various ways](/AgamaH_brAhmaH/shAnkara-darshanam/t
 
 No rule that mano-buddhy-ahankAra combo should be accidental. Likely to be karma-bound. Moreover likely eternal (as evolutes of eternal prakRti).
 
-### भास्करः
-भास्करोऽपि शङ्करम् एवानुसरति -  
-
-> **पञ्चरात्र**-सिद्धान्तः परीक्ष्यते … 
->> वासुदेवः परा प्रकृतिः परमात्मा,  
-ततः सङ्कर्षणो नाम जीवो जायते,  
-सङ्कर्षणात् प्रद्युम्नः सृज्यमानो जायते,  
-ततो ऽनिरुद्धो नामाहङ्कारो जायते 
->
-> इति **भागवता** मन्यन्ते ।  
 
 
 ## प्रत्याख्यानम्
@@ -169,6 +170,7 @@ No rule that mano-buddhy-ahankAra combo should be accidental. Likely to be karma
 > अ-विद्यमान-जीवोत्पत्ति-प्रतिपादनाध्यारोपेण  
 तन्-निराकरण-परतया सूत्रं व्याख्यायमानं  
 व्याख्यातॄणाम् एवाख्यातिं ख्यापयतीत्यलं प्रबन्धेन ।
+
 
 ### आपाततो ऽसम्भाव्यम्
 This seems obvious-
@@ -197,6 +199,15 @@ These authors were likely mistaken and prejudiced,
 if not deliberately fraudulent.  
 Or, in the best case, they were referring to some obscure non-mainstream cult unclearly;  
 which still amounts to a misrepresentation of pAncharAtra.
+
+In the case of shankara and imitators (bhAskara, rAmakaNTha) vs pAncharAtra, it was pure incompetence (imitators) and/ or crookedness (shankara).
+
+bhAskara's commentary criticises shankara. And rAmakaNTha follows him - 
+
+
+> It is also probable that Rāmakaṇṭha who follows Bhāskara knows Śaṅkara's bhāṣya. -  
+> S. SANKARANARAYANAN in his translation of abhinavagupta's gItArthasangraha.
+
 
 ### पूर्वपक्ष-ग्रन्थ-मात्रस्याश्रद्धेयता
 Relying on pUrvapaxa-s alone is risky. 
