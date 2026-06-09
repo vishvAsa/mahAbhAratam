@@ -192,7 +192,7 @@ He further notes:
 > in the Vaikhānasa literature and, as we will see presently, in the Pāñcarātra scriptures, different types of Pāñcarātrika are distinguished from one another not on account of opposing philosophical positions, but rather because of such factors as their different religious goals, liturgical practices, social class \( *varṇa*\), customs, everyday habits, and religious insignia. 
 
 ### Notice by others
-shankara's mischaracterization was supposedly later admitted by madhusUdana sarasvatI. (Where??)
+vaikhAnasa shrInivAsa makhI, shrIvaiShNava yAmuna, rAmAnuja have all noted shankara's error here. 
 
 ## दोष-मात्रा-मूले
 These authors were likely mistaken and prejudiced,  
