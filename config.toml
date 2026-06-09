@@ -13,9 +13,10 @@ disablePathToLower = true
   env = "production"  
   # disqusShortcode = "vvasuki-site"
 
+# Disabling RSS to avoid large xml file production which overcomes github 100MB limit.
 [outputs]
-  home = ["HTML", "RSS", "JSON", "CSV"]
-  section = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "JSON", "CSV"]
+  section = ["HTML", "JSON"]
 
 [markup.goldmark.renderer]
   unsafe = true
