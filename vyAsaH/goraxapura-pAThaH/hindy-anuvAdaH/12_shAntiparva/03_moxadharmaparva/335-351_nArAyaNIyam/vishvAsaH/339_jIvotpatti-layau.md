@@ -194,6 +194,7 @@ This Rājānaka Rāmakaṇṭha (pre-abhinava), and a separate gItA-commentator 
 
 This shows however that bhAskara and shankara had reached the spatio-temporal-intellectual milieu by then.
 
+Hm - if he (being well aware like others of bhAskara's criticism of shankara) did not know shankara's bs bhAShya, he must've been the strawman propper whom the pAncharAtrin uttara-mImAMsaka authors of brahma-sUtra had to themselves dismiss.
 </details>
 
 

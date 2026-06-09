@@ -334,11 +334,16 @@ We hope that the descriptions and examples given above have shown convincingly t
 
 ## Appendix: Bhāskara on the Kashmirian Gītā: A New Hypothesis
 
-## Bhāskara’s Testimony
+### Bhāskara’s Testimony
 
-Bhāskara is a very important witness for our edition, no matter how his exact identity and date are determined, for, as shown by his readings, he comments on the Kashmirian Gītā or on a version of what can be identified as the Kashmirian Gītā, and gives a detailed commentary which allows us to reconstruct his *mūla*. It is generally taken for granted that he was a Vedāntin who also composed a *Brahmasūtrabhāṣya* [BSBh][^47_62] and that therefore he must have preceded Abhinavagupta, who may even refer to him in his GAS as a previous commentator of the Gītā (GAS on 18.2).[^47_63]
+Bhāskara is a very important witness for our edition, no matter how his exact identity and date are determined, for, as shown by his readings, he comments on the Kashmirian Gītā or on a version of what can be identified as the Kashmirian Gītā, and gives a detailed commentary which allows us to reconstruct his *mūla*. 
 
-Indeed, it is obvious from the edition of Bhāskara’s *Bhagavadgītābhāṣya* [GBh] also entitled *Bhagavadāśayānusaraṇa* (Subhadra Jha 1965, see also van Buitenen 1965, which is a preliminary text published as an article,[^47_64] and Raghavan 1968) that it has Kashmirian variants from the very first verse, in which Bhāskara reads, with Abhinavagupta and Rāmakaṇṭha, *sarvakṣatrasamāgame* for the Vulgate’s *samavetā yuyutsavaḥ* (1.1b). Note also Bhāskara’s reading of 6.7 (after Jayatīrtha’s testimony, since the verse is missing in the MSS), which again agrees with that of Rāmakaṇṭha, Abhinavagupta and Ānandavardhana. Moreover, he also includes the ‘additional’ verse starting with *tvaṃ mānuṣenopahatāntarātmā* after Vulgate 2.10, characteristic of the Kashmirian recension.
+It is generally taken for granted that he was a Vedāntin who also composed a *Brahmasūtrabhāṣya* [BSBh][^47_62] and that therefore he must have preceded Abhinavagupta, who may even refer to him in his GAS as a previous commentator of the Gītā (GAS on 18.2).[^47_63]
+
+#### bhAskara's gItA
+Indeed, it is obvious from the edition of Bhāskara’s *Bhagavadgītābhāṣya* [GBh] also entitled *Bhagavadāśayānusaraṇa* (Subhadra Jha 1965, see also van Buitenen 1965, which is a preliminary text published as an article,[^47_64] and Raghavan 1968) that it has Kashmirian variants from the very first verse, in which Bhāskara reads, with Abhinavagupta and Rāmakaṇṭha, *sarvakṣatrasamāgame* for the Vulgate’s *samavetā yuyutsavaḥ* (1.1b).+++(4)+++ 
+
+Note also Bhāskara’s reading of 6.7 (after Jayatīrtha’s testimony, since the verse is missing in the MSS), which again agrees with that of Rāmakaṇṭha, Abhinavagupta and Ānandavardhana. Moreover, he also includes the ‘additional’ verse starting with *tvaṃ mānuṣenopahatāntarātmā* after Vulgate 2.10, characteristic of the Kashmirian recension.
 
 Van Buitenen (1965), Subhadra Jha (1965), Raghavan (1968) and Kato (2011, 2014) have dealt with Bhāskara’s so-called Kashmirian version, which appears (see, notably, van Buitenen’s study, 1965) to be an ‘extremist’ version of the Kashmirian Gītā,[^47_65] and, most probably, the most ancient evidence of its existence.
 
@@ -350,19 +355,28 @@ Van Buitenen (1965), Subhadra Jha (1965), Raghavan (1968) and Kato (2011, 2014) 
 
 [[P48]]
 
-## Which Bhāskara?
+### Which Bhāskara?
 
 Yet, the very identity of this Bhāskara has been much debated, especially because the question of Bhāskara’s identity is tightly linked with the question of the Gītā’s two recensions, the Kashmirian Gītā and the Vulgate, as we shall see. The rediscovery of Bhāskara’s GBh and its tentative reconstruction from two fragmented MSS were a milestone in this debate.
 
+#### References
 As pointed out by previous scholars,[^48_66] the name Bhāskara appears three times in the tradition as a commentator of the Gītā, mainly in a Vedāntin context, with the notable exception of Abhinavagupta’s GAS. In the GAS, Bhāskara is merely mentioned as a previous eminent (*tatrabhavant*) exegete,[^48_67] whereas in Vedāntin literature his name occurs in discussions of arguments proper to the Vedānta.
 
 One of the two Vedāntin references is found in Vedāntadeśika’s (1268–1370) commentary on the Gītā, the *Tātparyacandrikā*, which discusses several interpretations of Bhāskara’s GBh from the perspective of the Viśiṣṭādvaita. These include his understanding of BhG 18.64 (66 in editions of Vedāntadeśika’s text), from which we may infer that Bhāskara’s GBh was complete.[^48_68]
 
-The second one occurs in Jayatīrtha’s work (14th century), whose *Prameyadīpikā*, dvaita subcommentary on Madhva’s *Gītābhāṣya*, criticizes Bhāskara’s interpretations and even refutes Bhāskara’s reading of 6.7b (*parātmasu samā matiḥ*) as a ‘conjecture’ (*kṛtrimaḥ pāṭhaḥ*). To do so, he uses two main arguments: 1. that Bhāskara rejects the traditional reading (*saṃpradāyagataṃ pāṭhaṃ visṛjya*), which has *paramātmā samāhitaḥ* (that of the Vulgate commented upon by Madhva), and 2. that Bhāskara’s reading creates redundancy (*punarukti*) with verses 9 and 32 of the chapter.[^48_69] A *kṛtrimaḥ pāṭhaḥ* for which, unfortunately, there is no direct evidence from Bhāskara’s GBh lacunary MSS, but which has proved, nevertheless, to be a Kashmirian reading: that of Rāmakaṇṭha (all editions) and that of Abhinavagupta (all editions). For here, Abhinavagupta does not only quote the *pratīka* as he usually does, but the first three pādas, ‘as though to ensure the correct reading of pāda 2,’ as Schrader (1930, p. 16) observes, before he rightly concludes: ‘There seems to have been an early dispute on this śloka.’[^48_70]
+The second one occurs in Jayatīrtha’s work (14th century), whose *Prameyadīpikā*, dvaita subcommentary on Madhva’s *Gītābhāṣya*, criticizes Bhāskara’s interpretations and even refutes Bhāskara’s reading of 6.7b (*parātmasu samā matiḥ*) as a ‘conjecture’ (*kṛtrimaḥ pāṭhaḥ*). 
 
+To do so, he uses two main arguments: 
+
+1. that Bhāskara rejects the traditional reading (*saṃpradāyagataṃ pāṭhaṃ visṛjya*), which has *paramātmā samāhitaḥ* (that of the Vulgate commented upon by Madhva), and 
+2. that Bhāskara’s reading creates redundancy (*punarukti*) with verses 9 and 32 of the chapter.[^48_69] A *kṛtrimaḥ pāṭhaḥ* for which, unfortunately, there is no direct evidence from Bhāskara’s GBh lacunary MSS, but which has proved, nevertheless, to be a Kashmirian reading: that of Rāmakaṇṭha (all editions) and that of Abhinavagupta (all editions). For here, Abhinavagupta does not only quote the *pratīka* as he usually does, but the first three pādas, ‘as though to ensure the correct reading of pāda 2,’ as Schrader (1930, p. 16) observes, before he rightly concludes: ‘There seems to have been an early dispute on this śloka.’[^48_70]
+
+#### bhAShya discovery
 The discovery of Bhāskara’s GBh confirmed the existence of a Bhāskara, author of a commentary on the Gītā, who is attested by the Vedāntin tradition (and perhaps by Abhinavagupta, a question which we examine below), and who is also the author of a BSBh.
 
-The discovery was made by V. Raghavan, who first found a fragmentary MS in the Banaras Sarasvati Bhavan in the forties, which preserved chapter 1 to chapter 7, although with a few lacunae. In 1953–4, the same scholar found another fragment in Śāradā in the Wellcome Library, London, which ran from ch. 4 to ch. 9, ‘with a gap in chapter 6 coinciding more or less with the one in this chapter in the Banares ms.’ (Raghavan 1968, pp. 281–2). This rediscovered but incomplete text was then published in Subhadra Jha (1965), by collating both fragmentary MSS.[^48_71]
+The discovery was made by V. Raghavan, who first found a fragmentary MS in the Banaras Sarasvati Bhavan in the forties, which preserved chapter 1 to chapter 7, although with a few lacunae. 
+
+In 1953–4, the same scholar found another fragment in Śāradā in the Wellcome Library, London, which ran from ch. 4 to ch. 9, ‘with a gap in chapter 6 coinciding more or less with the one in this chapter in the Banares ms.’ (Raghavan 1968, pp. 281–2). This rediscovered but incomplete text was then published in Subhadra Jha (1965), by collating both fragmentary MSS.[^48_71]
 
 It should be noted, however, that Bhāskara’s commentary on the Gītā had already been known to Chintamani (1941, p. xxviii),[^48_72] the editor of Rāmakaṇṭha’s commentary on the Kashmirian Gītā. In his edition, he speaks of a ‘fragmentary copy,’ breaking off after chapter 7 verse 16, which is undoubtedly the same incomplete manuscript that was found by Raghavan (1968, p. 281) in the Sarasvati Bhavan, Banares, and was later used by Subhadra Jha along with the newly discovered MS of the Wellcome library, London.
 
@@ -378,11 +392,18 @@ It should be noted, however, that Bhāskara’s commentary on the Gītā had alr
 
 Chintamani (xliii–lxi) even establishes a comparative chart of the Kashmirian readings, which includes Bhāskara’s readings up to the place where the MS breaks off.[^49_73] He also compares parallel passages of Bhāskara’s and Śaṅkara’s commentaries on the Gītā (xxviii–xxx). This comparison is later completed by Raghavan’s examination of the edited text (1968, pp. 283–292), which shows the way in which Bhāskara’s and Śaṅkara’s commentaries interact.
 
+#### Philosophy
 From the references Vedāntadeśika and Jayatīrtha make to Bhāskara’s GBh, it was natural to infer that Bhāskara was most probably a *jñānakarmasamuccayavādin* (see Sarma 1933, p. 669; Chintamani 1941, pp. xxvii, xxx). The discovery of the actual text, albeit lacunary, confirmed the hypothesis.
 
+#### Bhaṭṭabhāskara
 Nevertheless, there remains a riddle: Abhinavagupta also mentions in the GAS (ad 18.2, see above) a previous eminent exegete, named Bhaṭṭabhāskara. Who is he? Is he Bhāskara, the Vedāntin, or another Bhāskara, the Kashmirian Śaiva, son of Divākara (hence his other name of Divākaravatsa), well-known as the author of the *Śivasūtravārttika* (published in the KSTS 4), of the lost *Kakṣyāstotra* (a hymn to the Goddess only known from citations),[^49_74] and of the lost *Vivekāñjana* (also known by a citation in the *Īśvarapratyabhijñāvimarśinī*, vol. I, p. 10, saying: *yad āha bhaṭṭadivākaravatso vivekāñjane*).
 
-At a time when nothing was known of the fragmentary MSS of Bhāskara’s GBh, Schrader (1935, pp. 351–2) asserted that the Bhāskara Abhinavagupta speaks of must undoubtedly be a Kashmirian. Schrader’s demonstration is based on four main arguments: 1. Abhinavagupta cannot have referred, especially with such reverence, to a scholar who was not Kashmirian, to an ‘outsider’;[^49_75] 2. the title ‘Bhaṭṭa,’ which Abhinavagupta adds to Bhāskara’s name,[^49_76] is hereditary in Kallaṭa’s line of pupils (and nowhere is the Vedāntin Bhāskara thus designated); 3. Abhinavagupta cannot have explicitly referred to a Vedāntin, since he clearly makes the point in the *avataraṇikā* of 1.1 that the Gītā is not meant to teach *jñānakarmasamuccaya*;[^49_77] 4. moreover, it is impossible that Abhinavagupta ‘recommended a commentator whose authorities (*Brahmasūtra* and Vedas) ignore, if not reject, his own sources of inspiration (*Śivasūtra* and Āgamas).’
+At a time when nothing was known of the fragmentary MSS of Bhāskara’s GBh, Schrader (1935, pp. 351–2) asserted that the Bhāskara Abhinavagupta speaks of must undoubtedly be a Kashmirian. Schrader’s demonstration is based on four main arguments: 
+
+1. Abhinavagupta cannot have referred, especially with such reverence, to a scholar who was not Kashmirian, to an ‘outsider’;[^49_75] 
+2. the title ‘Bhaṭṭa,’ which Abhinavagupta adds to Bhāskara’s name,[^49_76] is hereditary in Kallaṭa’s line of pupils (and nowhere is the Vedāntin Bhāskara thus designated); 
+3. Abhinavagupta cannot have explicitly referred to a Vedāntin, since he clearly makes the point in the *avataraṇikā* of 1.1 that the Gītā is not meant to teach *jñānakarmasamuccaya*;[^49_77] 
+4. moreover, it is impossible that Abhinavagupta ‘recommended a commentator whose authorities (*Brahmasūtra* and Vedas) ignore, if not reject, his own sources of inspiration (*Śivasūtra* and Āgamas).’
 
 [^49_73]: Editing the *Ānandavardhinī*, Belvalkar (1941) also gives Bhāskara’s Kashmirian readings, probably from Chintamani’s table.
 [^49_74]: The title *Kakṣyāstotra* is referred to in *Īśvarapratyabhijñāvivṛtivimarśinī*, vol. 2, pp. 301, 328, and vol. 3, p. 388 and in Yogarāja’s commentary ad *Paramārthasāra* 51.
@@ -410,7 +431,7 @@ Furthermore, it is beyond doubt that Bhāskara’s two commentaries support the 
 
 Finally, as pointed out by Kato, the BSBh itself offers an additional clue: BhG 18.61ab, as quoted in the BSBh 1.2.6, has the Kashmirian reading which is attested in Rāmakaṇṭha’s and Abhinavagupta’s commentaries on the Gītā, and which can be considered to be also the reading of Bhāskara, in spite of the absence of the actual passage in the MSS of his GBh (Kato 2011, p. xxviii [with a typo: xiii for xvii] and 2014, p. 1148).[^50_83]
 
-## Date
+### Date
 
 Since Bhāskara criticizes Śaṅkara’s interpretations of both the Gītā and the BS, it is reasonable to consider Bhāskara posterior to Śaṅkara but anterior to Vācaspatimiśra (second half of the 9th century), whose Bhāmatī on 1.1.4 and elsewhere criticizes the views of Bhāskara’s BSBh (see Schrader 1935, p. 348, van Buitenen 1961, pp. 268–273 and 1965, p. 105 and Raghavan 1968, p. 292).[^50_84] Alternatively, one may assume that the debate is reciprocal between the two Vedāntin thinkers, and that Bhāskara could have been more or less contemporary with Śaṅkara.[^50_85] In that case, Bhāskara’s *mūla* would be the earliest evidence (c. 9th century) of the Kashmirian Gītā, Rāmakaṇṭha (or Rāma or Rāmakavi) being tentatively dated in the second half of the tenth century (ca. 950–1000 CE, see Sanderson 2007, p. 411),[^50_86] Abhinavagupta at the turn of the tenth and eleventh centuries (c. 975–1025 CE, see Sanderson 2007, p. 303) and Ānandavardhana (not to be confused with the author of the *Dhvanyāloka*) in the 17th century.
 
@@ -421,7 +442,7 @@ Since Bhāskara criticizes Śaṅkara’s interpretations of both the Gītā and
 
 [[P51]]
 
-## Provenance: Is Bhāskara from the South?
+### Provenance: Is Bhāskara from the South?
 
 Bhāskara’s provenance seems to be at least as controversial as his date.
 
@@ -441,7 +462,9 @@ In his edition of Rāmakaṇṭha’s commentary, Chintamani (1941, pp. xxxi ff.
 
 This was further shown in detail by van Buitenen (1965), although in a rather twisted way, as we shall see.
 
-For, in order to reconciliate, we suspect, Bhāskara’s alleged Southern origin and the Kashmirian character of his Gītā, van Buitenen proposes an ingenious yet contrived thesis. He takes it for granted that the author of the GBh is a Vedāntin from the South, who lived in the 9th century, and that he commented on a Gītā different from Śaṅkara’s Vulgate but of equal authority, while also having Śaṅkara’s Vulgate before him. This hypothesis was already made by Schrader, although in a very limited context, that is on the sole basis of Jayatīrtha’s remark, since Bhāskara’s GBh was still unknown (1930, p. 16, n. 1 and 1934, p. 350, n. 5; see above). It was then also confirmed by Raghavan (1968, pp. 283ff.), through a meticulous examination of parallel passages in Śaṅkara’s and Bhāskara’s commentaries.
+For, in order to reconciliate, we suspect, Bhāskara’s alleged Southern origin and the Kashmirian character of his Gītā, van Buitenen proposes an ingenious yet contrived thesis. He takes it for granted that the author of the GBh is a Vedāntin from the South, who lived in the 9th century, and that he commented on a Gītā different from Śaṅkara’s Vulgate but of equal authority, while also having Śaṅkara’s Vulgate before him. 
+
+This hypothesis was already made by Schrader, although in a very limited context, that is on the sole basis of Jayatīrtha’s remark, since Bhāskara’s GBh was still unknown (1930, p. 16, n. 1 and 1934, p. 350, n. 5; see above). It was then also confirmed by Raghavan (1968, pp. 283ff.), through a meticulous examination of parallel passages in Śaṅkara’s and Bhāskara’s commentaries.
 
 In the context, van Buitenen’s conclusion (1965, pp. 104–5) is quite audacious and surprising: Bhāskara’s Gītā would have thus been the ‘prototype’ of the Kashmirian Gītā, in other words, van Buitenen considers it to predate the so-called Kashmirian Gītā:
 
@@ -465,4 +488,205 @@ There may be at least two possibilities:
 1. either Bhāskara remained in Kashmir and Śaṅkara’s Vulgate somehow reached him there,
 2. or Bhāskara came from Kashmir (hence his attachment to the Kashmirian readings), but may have travelled to the South or at least somewhere considerably south of Kashmir. This may be attested by the geographical origin of some of the BSBh MSS (see Kato 2011, and below). He could have become acquainted there with both Śaṅkara’s GBh and BSBh, therefore he had both the Kashmirian Gītā as his main text before him and Śaṅkara’s GBh with its own *mūla* (hence his quotations or *anuvāda* from Śaṅkara, see Raghavan 1968, pp. 283ff.). Then Bhāskara himself or his text may have gone back to Kashmir.
 
-Our hypothesis is almost identical with van Buitenen’s scenario, according to which Bhāskara had two texts before him, the so-called prototype of the Kashmirian Gītā and Śaṅkara’s Vulgate. Nevertheless, in our hypothesis there is no need to postulate Bhāskara’s Gītā as the prototype of a third, Kashmirian one. Bhāskara had the Kashmirian Gītā in one particular form and 
+Our hypothesis is almost identical with van Buitenen's scenario, according to which Bhāskara had two texts before him, the so-called prototype of the Kashmirian Gītā and Śaṅkara's Vulgate. Nevertheless, in our hypothesis there is no need to postulate Bhāskara's Gītā as the prototype of a third, Kashmirian one. Bhāskara had the Kashmirian Gītā in one particular form and Śaṅkara's Vulgate before him. We thus consider the Kashmirian character of Bhāskara's Gītā to be original. 
+
+Note that the hypothesis that he travelled to the South, or at least somewhere considerably south of Kashmir, could be corroborated by the fact that he is well-known in the South, as witnessed by Jayatīrtha and Ānandānubhava, and that for his BSBh, there are MSS from every part of India. While van Buitenen mainly used BSBh MSS in Southern scripts (perhaps because he assumed that it was a text from the South), Kato (2011, pp. xiii–xviii) discovered one MS from Bengal and one from the North (nāgarī). The existence of Bhāskara's BSBh MSS from the North may throw a different light on the question of Bhāskara's origin, even if no firm conclusion can be drawn from the mere distribution of manuscripts. 
+
+[[P59]]
+
+In any case, it is easier to imagine such a scenario rather than that the whole of Kashmir came to adopt a Gītā from the South (as implied by van Buitenen's thesis), only to replace it later by the Vulgate. 
+
+It is obvious that Bhāskara knew Śaṅkara's Vulgate of the Gītā. Nevertheless, due to much uncertainty about the author and his text, the question raised by Schrader (1930, p. 8 and 1934, p. 352), namely whether the Vulgate was known or not in Kashmir by the time of Abhinavagupta, unanswered."[^59_91]
+
+[^59_91]: According to Schrader (1930, p. 2 and 1935, p. 352), there was no sign of acquaintance with the Vulgate in Kashmir before the decline of the Pratyabhijñā school. Schrader's position is contested by Chintamani 1941, pp. xxii–xxiii, saying that Abhinavagupta usually adopts Rāmakaṇṭha's readings but sometimes also agrees with the Vulgate. Chintamani then states: 'So the vulgate must have been current in Kashmir in the days of Abhinavagupta.' He subsequently adds two arguments: 
+
+1. the traditional accounts of Śaṅkara's travels to the North: 'for the tradition is persistent that Śaṅkara travelled up to Nepal. And one of the traditions refers to the visit of Śaṅkara to Kashmir itself. However much we may discountenance these traditions, there is nothing inherently against the spread of the works and fame of Śaṅkara in Kashmir' (xxii–xxiv); 
+2. the fact that some passages of Rāmakaṇṭha's commentary seem to refer to Śaṅkara's interpretations of the Gītā (xxv–xxvii). Finally, Chintamani concludes (xxviii): 'It will be therefore difficult to regard Rāmakaṇṭha as unacquainted with Śaṅkara and authors of his school of thought.' The first argument is based on a legend, which does not need to be taken for a fact. Now the question of Rāmakaṇṭha's alleged references to Śaṅkara is difficult to confirm or refute without examining them in great detail, which would be beyond the scope of this study. Let us note, however, that Tadpatrikar (1939, p. 5), who edited Rāmakaṇṭha's commentary, did not find any explicit mention of the two Gītā recensions, which suggests that Śaṅkara and his commentary were not known in Kashmir.
+
+Here again, several assumptions are possible. Either Bhāskara's Gītā commentary criticizing Śaṅkara and his Vulgate never came back to Kashmir, or it came back to Kashmir but for some reason Abhinavagupta did not refer to Śaṅkara's Vulgate thus criticized. It may have been because he did not accept this line of transmission or because it was not yet wide-spread or well-known (and let us not forget that Abhinavagupta wrote his GAS when he was still something of a fresher, see Sanderson 2007, p. 359) or perhaps because he did not intend to argue with it at length in a short commentary (samgraha). 
+
+Yet, it can also be assumed that, although Bhāskara's Gītā and his commentary must have come back to Kashmir (after all, we have a MS of his GBh from Kashmir), his criticism of Śaṅkara and Śaṅkara's variants were simply not known or wide-spread in Abhinavagupta's time and even thereafter. It must have taken some time for the Vulgate to become the dominant version of the Gītā in India in general, and perhaps even more time to usurp the place of the Kashmirian Gītā in Kashmir. It follows that, if Bhāskara, author of the GBh entitled Bhagavadāśayānusaraṇa in its colophon, is identified as a Kashmirian Vedāntin, he is not Bhāskara, the Kashmirian Śaiva, author of the Śivasūtravārttika, the Vivekāñjana and the Kakṣyāstotra. 
+
+Thus, provided our hypothesis is admitted, Bhāskara would represent a unique example of a pandit being acquainted with both traditions of transmission of the Gītā. Although the Kashmirian tradition seems to have had a fairly independent life, Bhāskara would have provided a rare example of a point of contact. 
+
+Acknowledgements We are extremely grateful to a number of people who all helped us in one way or another to have access to or copies of manuscripts, in particular to Prof. Bettina Bäumer, Prof. K.D. Tripathi and his very helpful student Dr Narendra Dutt Tiwari, to his Highness the Mahārāja of Jammu [[P60]] and Kashmir Dr Karan Singh and his secretary Mr S.K. Vohra, to Prof. Françoise Nalini Delvoye and to Prof. Ganesh U. Thite. We would also like to thank the various institutions whose manuscripts we have been able to use, namely the Banaras Hindu University, the Bhandarkar Oriental Research Institute in Pune, the Oriental Research Library of Shrinagar and the Shri Ranbir Sanskrit Research Library, Jammu, as well as the Indira Gandhi National Centre for the Arts. Special thanks are due to all the librarians in these institutions for their invaluable help. We are also indebted to Prof. Jürgen Hanneder, Marburg, and to Ms Nicole Merkel-Hilf, South Asia Institute, Heidelberg, for their help with bibliographical data. 
+
+## Abbreviations and Bibliography
+
+### Authors and works
+* **BhG:** Bhagavadgītā 
+* **GBh:** Bhagavadgītābhāṣya 
+* **BS:** Brahmasūtra 
+* **BSBh:** BSBh: Brahmasūtrabhāṣya
+* **GAS:** Gītārthasamgraha 
+
+### Institutions, journals and series
+* **ABORI:** Annals of the BORI 
+* **ALS:** Adyar Library Series 
+* **ĀSS:** Ānandāśrama Sanskrit Series 
+* **BORI:** Bhandarkar Oriental Research Institute 
+* **CSS:** Chowkhamba Sanskrit Series 
+* **EFEO:** École française d'Extrême-Orient 
+* **HOS:** Harvard Oriental Series 
+* **IFP:** Institut français de Pondichery 
+* **IHQ:** Indian Historical Quarterly 
+* **JAOS:** Journal of the American Oriental Society 
+* **JRAS: Journal of the Royal Asiatic Society [of Great Britain and Ireland, London**
+* **KSTS:** Kashmir Series of Texts and Studies 
+* **TSS:** Trivandrum Sanskrit Series 
+* **WZKS:** Wiener Zeitschrift für die Kunde Südasiens 
+
+### A. Sources (Texts and translations)
+
+#### Bhagavadgītā [BhG]
+
+##### Text
+
+###### Vulgate editions
+1. **Poona edition** (Kinjawadekar, with Nilakantha's commentary): Kinjawadekar, Ramachandrashastri (1929-1936): Shriman Mahâbhâratam, with Bhârata Bhawadeepa par Nilakantha, 8 vols. Poona, Citrashala Press. 
+2. **Śaṅkara's mūla:**
+   * Āpaṭe, V.G. (1936): ānandagirikṛtaṭīkāsaṃvalitaśaṅkarabhāṣyasametā. Benares, Ānandāśrama Press (ASS 34); 
+   * Gokhale, D.V. (1950): Śrīmadbhagavadgītā Śrīśaṅkarabhagavatpādācāryaviracitena bhāṣyeṇa sahitā. Poona, Oriental Book Agency (Poona Oriental Series 1). 
+3. **Critical edition:** Belvalkar, S.K. (1945): The Bhagavadgītā, being reprint of relevant parts of Bhismaparvan from BOR Institute's edition of the Mahābhārata. For the first time critically edited by Shripad Krishna Belvalkar. Poona, BORI [Extract from the MBh C. Ed, Poona, BORI, 1933-1972 by Sukthankar, Belvalkar & Vaidya]. 
+4. Belvalkar, S.K. (1947): [Critical edition of the] Bhismaparvan [of the Mahabharata]. Mahābhārata vol. VII. Poona, BORI. 
+
+[[P61]]
+
+###### Kashmirian Gītā editions
+1. Belvalkar, S.K. (1941): Śrīmad-Bhagavad-Gītā with the Jñānakarmasamuccaya Commentary of Ānanda[vardhana]. Edited from an unique Śāradā Ms. Poona, Bilvakuñja Publishing House. 
+2. Chintamani, T.R. (1941): Śrīmadbhagavadgītā with Sarvatobhadra of Rājānaka Rāmakaṇṭha. Madras, University of Madras (Madras University Sanskrit Series 14). 
+3. Jha, S. [Subhadropādhyāya] (1965): Bhagavadgītā Bhāṣya by Bhāskarācārya [Śrīmadbhagavadgītāyāḥ : bhagavadāśayānusaraṇābhidhānabhāṣyam bhagavadbhāskaraviracitam]. Benares, Varanaseya Sanskrit Vishvavidyalaya (Sarasvati Bhavana Granthamālā 94). 
+4. Kaul Shastri, M. (1943): The Bhagavadgītā with the Commentary called Sarvatobhadra by Rājānaka Rāmakaṇṭha. Srinagar, Research Department, Jammu & Kashmir Government (KSTS 64). 
+5. See Lakshman Raina [Lakshman Joo] (1933) at GAS below. 
+6. Schrader, F.O. (1930): The Kashmir Recension of the Bhagavadgītā. Stuttgart, Kohlhammer (Contributions to Indian Philology and History of Religion 3). 
+7. Tāḍapatrīkara, S.N. [Tatpatrikar] (1939): Rājānakarāmakavikṛta-sarvatobhadrakhyaṭīkāyutā kāśmir-apāṭhānusāriņī śrīmadbhagavadgītā. Poona, Ānandāśrama Press (ASS 112). 
+
+##### Text & Translation (Vulgate)
+van Buitenen, J.A.B. (1981): The Bhagavadgītā in the Mahābhārata: a bilingual edition. Chicago, Chicago University Press. [Claims (p. xii) to follow Belvalkar's critical edition and to have added 'occasional variants readings' and 'appended a list of readings based on the early commentary of Bhāskara' (although, vB only refers to his 1965 paper: 'A Contribution to the Critical Edition of the Bhagavadgītā', on p. 161)]. 
+
+#### Gītārthasamgraha [GAS]
+
+##### Text [BhG + GAS]
+1. Lakshman Raina [Lakshman Joo] (1933): Śrīmad Bhagavad Gītā with Commentary by Mahāmaheśvara Rājānaka Abhinavagupta. Srinagar, Kashmir Pratap Steam Press. 
+2. Pansikar, W.L. Shastri (1912): The Bhagavadgītā with the Śaṅkarabhāṣya comm. and the subcomm. of Anandagiri, the Nīlakaṇṭhī comm., the Bhāṣyotkarṣadīpikā comm. of Dhanapati, the Śrīdhari comm., the Gītārthasaṃgraha comm. of Abhinavagupta, and the Guḍārthadīpikā comm. of Madhusudana with the Guḍārthatattvāloka subcomm. of Dharmadatta (Bacchāśarman). Bombay, Nirnaya Sagar Press. [The Sanskrit text of the Gītā proves to be that of the Vulgate.]
+3. Sankaranarayanan, S. (1985): Śrīmadbhagavadgītā with Gītārthasaṃgraha of Abhinavagupta. Tirupati, Śrī Venkateswara University, Oriental Research Institute (S.V. University Oriental Series 11). Pt 1: Text. [Follows mainly Lakshman Joo's edition]. 
+
+##### Translation (BhG + GAS)
+1. Gnoli, R. (1976): Il Canto del Beato (Bhagavadgītā). Turin, Unione Tipografico-Editrice Torinese. [From both the Introductory Note and the translation, it is not clear what Sanskrit text Gnoli follows for the GAS: that of Pansikar or that of Lakshman Joo? Probably that of Pansikar] 
+
+[[P62]]
+
+2. Marjanovic, B. (2002): Abhinavagupta's Commentary on the Bhagavad Gītā. Gītārthasaṃgraha. Translated from Sanskrit with Introduction and Notes by Boris Marjanovic. Delhi, Indica. 
+3. Sankaranarayanan, S. (1985): Śrīmadbhagavadgītā with Gītārthasaṃgraha of Abhinavagupta. Tirupati, Śrī Venkateswara University, Oriental Research Institute (S.V. University Oriental Series 11). Pt 2: Translation. 
+
+##### Translation (GAS only)
+Sharma, A. (1983): Gītārthasaṃgraha, Translated with an Introductory Study. Leiden, Brill. [Seems to follow Pansikar's edition]. 
+
+#### Other Sources
+
+##### Bhāmatī
+Shastri, J.L. (1980): Brahmasūtra-Śaṅkarabhāṣyam, with the Commentaries Bhāṣyaratnaprabhā of Govindānanda, Bhāmatī of Vācaspatimiśra, Nyāyanirṇaya of Ānandagiri. Delhi, Motilal Banarsidass. 
+
+##### Bhāratamañjarī
+Śivadatta, P.-Parab, K.P. (1898): The Bhāratamañjarī of Kṣemendra. Bombay, Nirṇaya-Sâgara Press. 
+
+##### Brahmasūtrabhāṣya (Śārīrakamīmāṇsābhāṣya) by Bhāskara [BSBh]
+Dvivedin, V.P. (1915): Brahmasūtra with a Commentary by Bhāskarācārya. Varanasi, Chowkhamba Sanskrit Series Office (CSS 20). 
+
+Kato, T. (2011): The First Two Chapters of Bhāskara's Śārīrakamīmāṃsābhāṣya: Critically Edited with an Introduction, Notes and an Appendix. Online Publication, ULB Sachsen-Anhalt, 2011, URN: http://nbn-resolving.de/urn:nbn:de:gbv:3:4-9304 (last access February 2015). 
+
+##### Īśvarapratyabhijñāvimarśinī
+Subramanya Iyer, K.A.-Pandey, K.C. [Dwivedi, R.C. (gen. ed.)] (1986): Īśvara-Pratyabhijñā-Vimarśinī of Abhinavagupta: Doctrine of Divine Recognition. Vol. 1 and 2: Sanskrit text with the Commentary Bhāskarī (Subramanya Iyer, K.A.-Pandey, K.C.); vol. 3: English Translation (Pandey, K.C.). Delhi, Motilal Banarsidass. [1st ed. Allahabad, Lucknow, 1930-1954 (The Princess of Wales Saraswati Bhavana Texts 70, 83, 84)]. 
+
+##### Īśvarapratyabhijñāvivṛtivimarśinī
+Shastri, M. Kaul (1938-1943): Īśvarapratyabhijñāvivṛtivimarśinī by Abhinavagupta. 3 vols. Srinagar, Research Department, Jammu & Kashmir Government (KSTS 60, 62, 65). 
+
+##### Mahārthamañjarī
+Ganapati Śāstrī, T. (1919): The Mahārthamañjarī with the Commentary Parimala of Maheśvarānanda. Trivandrum, Government of His Highness the Maharajah of Travancore (TSS 66). 
+
+##### Mokṣopāya
+Anonymus Casmiriensis Mokṣopāya. Textedition Teil 1 Das Erste und Zweite Buch Vairāgyaprakaraṇa, Mumukṣuvyavahāraprakaraṇa. Kritische Edition von Suzanne Krause-Stinner. Wiesbaden: Harrassowitz Verlag. 2011. 
+
+Anonymus Casmiriensis Mokṣopāya. Textedition Teil 2 Das Dritte Buch Utpattiprakaraṇa. Kritische Edition von Jürgen Hanneder, Peter Stephan und Stanislav Jager. Wiesbaden: Harrassowitz Verlag. 2011. 
+
+##### Paramārthasāra
+Bansat-Boudon, L.-Tripathi, K.D. (2011): An Introduction to Tantric Philosophy: The Paramārthasāra of Abhinavagupta with the Commentary of Yogarāja. [translated by Lyne Bansat-Boudon and Kamaleshadatta Tripathi. Introduction, notes, critically revised Sanskrit text, appendix, indices by Lyne Bansat-Boudon]. Londres/New York, Routledge (Routledge Studies in Tantric Traditions 3). 
+
+##### Prameyadīpikā
+Sadhale, S.J.S. (1935-38): The Bhagavad-Gītā with eleven Commentaries. First Collection. 3 vols. (vol. 1: chap. 1-6; vol. 2: chap. 7-12; vol. 3: chap. 13-18). Bombay, Gujarati Printing Press [2nd ed.]. 
+
+##### Śivasūtravārttika
+Chatterji, J.C. (1916): Shiva Sūtra Värttika by Bhāskara along with the Shiva-Sutra-Vṛtti by Kṣemarāja [an extract from Śivasūtravimarśinī (cf. Preface)], and the Spanda Kārikās with the vṛtti by Kallata. Srinagar, Research Department, Kashmir State (KSTS 4-5). 
+
+##### Spandakārikāvivṛti
+
+[[P63]]
+
+Chatterji, J.C. (1913): The Spanda Kārikās with the Vivṛti of Rāmakaṇṭha. Srinagar, Research Department, Jammu & Kashmir State (KSTS 6). 
+
+##### Stavacintāmaṇi
+Rāma Shāstrī, M. (1918): The Stavacintāmaṇi of Bhaṭṭa Nārāyaṇa, with Commentary by Kshemarāja. Srinagar, Research Department, Jammu & Kashmir State (KSTS 10). 
+
+##### Tantrāloka
+Kaul Shastrī, M. (1918-1938): The Tantrāloka of Abhinavagupta with Commentary by Rājānaka Jayaratha. 12 vols. Srinagar, Research Department, Jammu & Kashmir State (KSTS 23, 28, 29, 30, 35, 36, 41, 47, 52, 57, 58, 59). 
+
+##### Tātparyacandrikā
+See Sadhale, S.J.S. (1935-38). 
+
+### B. Studies
+
+Adluri, V.-Bagchee, J. (2016): 'Who's Zoomin' Who? Bhagavadgītā Recensions in India and Germany’, International Journal of Dharma Studies, 4,4: 4-41. 
+
+Bansat-Boudon, L. (2015): 'Le Gītārthasaṃgraha: une lecture śivaïte de la Bhagavadgītā (2010-2014)', Annuaire de l'École pratique des hautes études, Section des sciences religieuses. Résumé des conférences et travaux (2013-2014). t. 122. Paris, EPHE, Ve, 2015: 89–104. 
+
+Belvalkar, S.K. (1939): 'The so-called Kashmir Recension of the Bhagavad-Gītā', New Indian Antiquary, 2, 4: 211-251. 
+
+Biardeau, M. (2002): Le Mahābhārata. Un récit fondateur du brahmanisme et son interprétation. Paris, Seuil, 2002, 2 vols. 
+
+van Buitenen, J.A.B. (1961): 'The Relative dates of Śaṅkara and Bhāskara', Adyar Library Bulletin, 25: 268-273 [reprint in L. Rocher (ed.), Studies in Indian Literature and Philosophy. Collected Articles of J.A.B. van Buitenen. Delhi, Motilal Banarsidass, 1988: 187-190]. 
+
+van Buitenen, J.A.B. (1965): ‘A Contribution to the Critical Edition of the Bhagavadgītā', JAOS, 85,1: 99-109. 
+
+Chatterji, J.C. (1914): Kashmir Shaivism (being a brief Introduction to the History, Literature and Doctrines of the Advaita Shaiva Philosophy of Kashmir, Specifically called Trika System). Srinagar, Research Department, Jammu & Kashmir State (KSTS 2). 
+
+Edgerton, F. (1932): 'The Kashmir Recension of the Bhagavad Gītā by F. Otto Schrader', JAOS, 52,1: 68-75. 
+
+Ingalls, D.H.H. (1967): 'Bhāskara the Vedāntin', Philosophy East and West, 17, 1-4: 61–67. 
+
+Ježić, M. (1979): 'The First Yoga Layer in the Bhagavadgītā'. In Sinha, J.P. (ed.) Ludwik Sternbach Felicitation Volume, Part One. Lucknow, Akhila Bharatiya Sanskrit Pariṣad, 1979: 545-557. 
+
+Ježić, M. (1986): 'Textual Layers of the Bhagavadgītā as Traces of Indian Cultural History'. In Morgenroth, W. (ed.), Sanskrit and World Culture: Proceedings of the Fourth World Sanskrit Conference (Schriften zur Geschichte und Kultur des Alten Orients 18). Berlin, Akademie-Verlag, 1986: 628-638. 
+
+Ježić, M. (2009): 'The Triṣṭubh Hymn in the Bhagavadgītā'. In Koskikallio, P. (ed.) [gen. ed.: Ježić, M.], Parallels and Comparisons. Proceedings of the Fourth Dubrovnik International Conference on the Sanskrit Epics and Purāņas, September 2005. Zagreb, Croatian Academy of Sciences and Arts, 2009: 31-66. 
+
+Kato, T. (2010): 'Bhāskara's Brahmasūtrabhāṣya--An Unpublished Edition by J.A.B van Buitenen', WZKS, 52-3: 295-305. 
+
+Kato, T. (2014): 'A Note on the Kashmirian Recension of the Bhagavadgītā: Gītā Passages Quoted in Bhāskara's Gītābhāṣya and Brahmasūtrabhāṣya', Journal of Indian and Buddhist Studies, 62,3: 1144-1150. 
+
+Malinar, A. (2007): The Bhagavadgītā: Doctrines and Contexts. Cambridge, Cambridge University Press. 
+
+Mayeda, S. (1965): 'The Authenticity of the Bhagavadgītābhāṣya Ascribed to Śaṅkara', WZKS, 9: 155-197. 
+
+Oberlies, Th. (2003): A Grammar of Epic Sanskrit. Berlin/New York: De Gruyter. 
+
+[[P64]]
+
+Raghavan, V. (1967): 'The Upadeśasahasrī of Śaṅkarācārya and the Mutual Chronology of Śaṅkarācārya and Bhāskara'', WZKS, 11: 137-139. 
+
+Raghavan, V. (1968): 'Bhāskara's Gītābhāṣya', WZKS, 12-13: 281-294. 
+
+Sanderson, A. (2007): 'The Śaiva exegesis of Kashmir'. In D. Goodall–A. Padoux (eds), Mélanges tantriques à la mémoire d'Hélène Brunner. Pondicherry, IFP-EFEO (Indologie 106): 231-442. 
+
+Sarma, B.N.K. (1933): 'Bhāskara: a forgotten commentator on the Gītā', IHQ, 9: 663–677. 
+
+Sarma, B.N.K. (1933a): 'Śaṅkara's Authorship of the Gītā-Bhāṣya', ABORI, 15: 39–60. 
+
+Schrader, F.O. (1933): 'Rezensionen der Bhagavadgītā'. In Stein, O.–Gampert, W. (eds): Festschrift Moriz Winternitz. Leipzig, Otto Harrassowitz: 40-51. 
+
+Schrader, F.O. (1934): 'Ancient Gītā commentaries', IHQ, 10.2: 348-357. 
+
+Schrader, F.O. (1935): 'On the Form of the Bhagavadgītā Contained in the Kashmirian Mahābhārata', JRAS, 1: 146-149. 
+
+Stein, M.A. (1894): Catalogue of Sanskrit manuscripts in the Raghunātha temple Library of the Mahārāja of Jammu and Kashmir. Bombay: Nirnaya-Sagara Press/ London: Luzac & Co./ Leipzig: O. Harrassowitz. 
+
+Tripathi, R.S. (1971): Descriptive Catalogue of Sanskrit manuscripts in Gaekwada Library, Bharat Kalā Bhavana Library and Samskrit Mahā-Vidyalaya Library, Banaras Hindu University. Banaras: Banaras Hindu University.
