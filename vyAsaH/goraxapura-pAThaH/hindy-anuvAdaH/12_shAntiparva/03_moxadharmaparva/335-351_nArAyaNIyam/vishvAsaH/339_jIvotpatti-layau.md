@@ -177,6 +177,8 @@ This seems obvious-
 
 > yajurveda says "विष्णोः परमं पदम्", and describes it's attainment (which was not dissolution of the jIva). pAncharAtra continues shukla-yajurveda ([MT](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%e1%b9%a3%e1%b9%87avam-a-view-from-the-numerology-of-vedic-texts/)). So, PN had such a notion.
 
+The weird story that mainstream pAncharAtra, with it's vedic roots (https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%e1%b9%a3%e1%b9%87avam-a-view-from-the-numerology-of-vedic-texts/) and stem (Mbh), "vedAntified" rather than being the author of vedAnta should be dismissed separately someday.
+
 By contrast this is ridiculous -
 
 > Early pAncharAtra vaiShNavism had no non-dissolution-type mukti,  
