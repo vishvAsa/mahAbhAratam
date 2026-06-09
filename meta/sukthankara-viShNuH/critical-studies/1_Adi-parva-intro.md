@@ -1,5 +1,5 @@
 +++
-title = "Sukthankar intro"
+title = "1 Adi-parva intro"
 +++
 
 Prolegomena
@@ -1821,6 +1821,289 @@ Last but not least, I must express my profound gratitude to my revered Guru Gehe
 
 August, 1933. V. S. SUKTHANKAR
 
+## FOREWORD (Fascicule I)
+[Adiparvan, Fascicule I, 1927.]
+
+An elaborate introduction containing a comprehensive account of the manuscript material as also a detailed discussion of the principles of Mahabharata textual criticism will be published with the last fascicule of the Adiparvan. The following cursory remarks are intended merely to guide the reader meanwhile through the labyrinth of a very complicated *apparatus criticus.*
+
+#### GENERAL OBSERVATIONS
+
+In the Mahabharata manuscript tradition, perhaps as much as in any literary tradition, the textual critic is faced with a bewildering profusion of versions as well as an amazing mixture of versions. Divers elements have been working from the earliest times in favour of the development of different types, on the one hand; on the other hand, there were not wanting elements that operated against the evolution of sharply differentiated types. To understand the phenomenon of this luxuriant growth and indiscriminate fusion of versions, one must appreciate clearly certain details of historical moment, certain special factors in the transmission of the Mahabharata—traits which distinguish our work from every other known text except the Rāmāyaṇa and possibly the Homeric epopees. Notwithstanding the fact that we know so little that is certain and definite about the early history of the text, we may, it seems to me, with confidence assume that after its composition the great epic was for centuries handed down (in differing forms and sizes) from bard to bard merely by word of mouth. It is moreover extremely probable that even after the text had been written down, large portions of it, especially such portions as were popular, continued to be committed to memory, by itinerant *raconteurs* for purposes of recitation. It is further easy to believe that no great care was lavished on the text by these custodians of the tradition to guard it against partial corruption and elaboration or against arbitrary emendation and normalization: to reproduce the received text with any great precision would be neither attempted by these bards nor required of them. It was then inevitable that the protean oral tradition should in one form or another react on the written tradition and *vice versa.* One important and necessary consequence of such antecedents as these is the impossibility of retracing all extant versions to any fixed and authentic archetype; since some of the modern editions could not but be descendants of fluctuating oral versions reduced to writing in some distant past, independently of each other, at different epochs and in different circumstances. In other words, even in its early phases [[P2]] the Mahabharata text tradition must have been not uniform and singular, but multiple and polygenous. To complicate matters further there appears to have followed a period in which there was a free comparison of manuscripts and extensive mutual borrowings, operations which in the course of indiscriminate crossing and re-crossing have completely confused the *differentia* and produced a perfect wilderness of hybrid types. These are, at least in part, still mere surmises. But the assumption of some such complicated derangements, beyond the normal vicissitudes of transmission, is necessary, to account for the strange vagaries of the Mahabharata manuscript tradition—to explain why in the best manuscripts one comes across at every step readings that are manifestly inferior and additional lines that are incontestably spurious—to elucidate how textual alterations, especially interpolations, starting from the most inconspicuous source of diaskeuasis, could extend over large areas with comparative ease and rapidity.
+
+This state of things, if true, would make it impossible to apply to the Mahabharata the special canons of textual criticism which are derived from a study of classical (Greek and Latin) texts and which depend ultimately upon there being a more or less complete concatenation of copies and exemplars reaching finally back to a single authentic (written) archetype. The conflation of codices may, moreover, have been carried to such an extreme that we may even have to renounce all pretensions to disentangle completely, by means of purely objective criteria, their intricate mutual relationships. It would, therefore, be well not to ignore entirely the possibility that a wholly satisfactory restoration of the text to its pristine form—even the late so-called śatasahasri samhita form—may be a task now beyond the powers of criticism.
+
+Even though the problem be insoluble on the ideal plane, yet a partial solution of it is by no means impracticable and may with considerable gain be attempted. This fascicule will, I hope, demonstrate that a considerable portion of the inherited text can be incontestably proved to be authentic and unimpeachable: and that on the other hand certain portions of the "vulgate" can, equally indisputably, be shewn to be spurious. In other words, we seem entitled to assert that notwithstanding the existence of what may be termed "original doublets" (fluctuations inherited from a period of purely oral transmission), as well as a vast number of secondary variants (brought in through corruption and emendation during the period of mainly written transmission), —that despite the vagaries which surround a small part of the poem with a haze of uncertainty, the unification of the tradition could in regard to the major part of the epic be carried to a degree of approximation which may be deemed sufficient for all intents and purposes.
+
+Ordinarily in text reconstruction a safe expedient is to take as basis the oldest of the "best family" of manuscripts and to authenticate it in the critical edition. This expedient, though unquestionably safe and in most cases indubitably effective, fails totally in the present instance, assuming what has been said above about the fusion of types to be true: because by following any manuscript, even the oldest and the best, we shall be authenticating just that arbitrary mixture of versions which it should be the aim of criticism to avoid. The peculiar conditions of the transmission of the epic force upon us an eclectic but cautious utilization of all manuscript classes. Since all categories of manuscripts have their strong points and their weak points, each variant has to be judged on its own merits. When the criteria at our disposal fail to give a positive result, we have to content [[P3]] ourselves with a stop-gap that will give the required sense or at least complete the metrical line. A text prepared, with due circumspection, on eclectic principles will, I am fully persuaded, present a more faithful picture of the elusive "original" than any single extant codex could do. That in these circumstances the editor will occasionally make mistakes—at times perhaps gross mistakes—is as certain as inevitable; for it is to be feared that there is no royal road to success in this incomparably difficult field. The method of Mahabharata textual criticism can be evolved only from a special study of the Mahabharata manuscripts and of the Mahabharata manuscript tradition. More than one attempt will probably have to be made before the ideal is attained. It will, therefore, be prudent not to expect too much from the *first* critical edition, nor to claim too much for it.
+
+#### MANUSCRIPT MATERIAL
+
+The manuscripts utilized for this edition of the first two adhyāyas of the Adiparvan are as follows:
+
+##### I. N(ORTHERN) RECENSION
+
+**Kāśmiri (or North-western) Version in Devanagari transcript (K).**
+*   K₀ = Poona, Govt. MSS. Collection, MS. No. 229 of 1895–1902.
+*   K₁ = London, India Office Library, MS. No. 2137.
+*   K₂ = Poona, Govt. MSS. Collection, MS. No. 182 of 1891–95. Dated V. Sam. 1694 (ca. 1637 A.D.).
+*   K₃ = Baroda, Central Library, MS. No. 632. Dated V. Sam. 1575 (ca. 1518 A.D.).
+*   K₄ = Poona, Govt. MSS. Collection, MS. No. 565 of 1882–83.
+*   K₅ = Lahore, Dayanand Anglo-Vedic College, MS. No. 1.
+*   K₆ = Poona, Govt. MSS. Collection, MS. No. 209 of 1887–91.
+
+**Maithili Version (V).**
+*   V₁ = Nepal, Darbar Library, MS. No. 1364. Dated La. Sam. 411 (ca. 1530 A.D.).
+
+**Bangali Version (B).**
+*   B₁ = Bolpur, Viśvabhārati Library, MS. No. 1.
+*   B₂ = Bolpur, Viśvabhārati Library, MS. No. 258.
+*   B₃ = Bolpur, Viśvabhārati Library, MS. No. 264.
+*   B₄ = Bolpur, Viśvabhārati Library, MS. No. 415.
+
+**Devanagari Versions (D).**
+
+*Devanagari Version of Arjunamiśra (Da).*
+*   Da₁ = Poona, Govt. MSS. Collection, MS. No. 30 of A 1879–80.
+*   Da₂ = Poona, Govt. MSS. Collection, Viśrambag Coll. I, MS. No. 468.
+
+*Devanagari Version of Nilakantha (Dn).*
+*   Dn₁ = MS. belonging to Sardar Kibe of Indore.
+*   Dn₂ = Mysore, Oriental Library, MS. No. 1064.
+*   Dn₃ = Poona, Govt. MSS. Collection, MS. No. 234 of 1892–1902.
+
+*Devanagari Version of Ratnagarbha (Dr).*
+*   Dr₁ = Tanjore, Palace Library, MS. No. 1264.
+*   Dr₂ = Tanjore, Palace Library, MS. No. 1199.
+*   Dr₃ = Tanjore, Palace Library, MS. No. 1313.
+*   Dr₄ = Tanjore, Palace Library, MS. No. 1339.
+
+*Devanagari Mixed Versions.*
+*   D₁ = Poona, Govt. MSS. Collection, MS. No. 29 of A 1879–80.
+*   D₂ = Tanjore, Palace Library, MS. No. 1152.
+*   D₃ = Tanjore, Palace Library, MS. No. 1360.
+*   D₄ = Tanjore, Palace Library, MS. No. 1126.
+
+[[P4]]
+
+*   D₅ = Lahore, Dayanand Anglo-Vedic College, MS. No. 4.
+*   D₆ = Tanjore, Palace Library, MS. No. 1223.
+*   D₇ = Tanjore, Palace Library, MS. No. 1269.
+*   D₈ = Tanjore, Palace Library, MS. No. 1329.
+*   D₉ = Tanjore, Palace Library, MS. No. 1176.
+*   [[|D₁₀]] = Tanjore, Palace Library, MS. No. 1293.
+*   D₁₁ = Tanjore, Palace Library, MS. No. 1340.
+*   [[|D₁₂]] = Tanjore, Palace Library, MS. No. 1373.
+*   D₁₃ = Poona, Govt. MSS. Collection, Viśrambāg Coll. II, MS. No. 191.
+*   D₁₄ = Poona, Govt. MSS. Collection, Viśrambag Coll. II, MS. No. 266.
+
+##### II. S(OUTHERN) RECENSION
+
+**Telugu Version (T).**
+*   T₁ = Yadu Math Collection MS. (without No.)
+*   T₂ = Tanjore, Palace Library, MS. No. 11865.
+
+**Grantha Version (G).**
+*   G₁ = Yadu Math Collection MS. (without No.)
+*   G₂ = Yadu Math Collection MS. (without No.)
+*   G₃ = Tanjore, Palace Library, MS. No. 11823.
+*   G₄ = Tanjore, Palace Library, MS. No. 11838.
+*   G₅ = Tanjore, Palace Library, MS. No. 11851.
+*   G₆ = Tanjore, Palace Library, MS. No. 11860.
+*   G₇ = Yadu Math Collection MS. (without No.)
+
+**Malayalam Version (M).**
+*   M₁ = MS. belonging to Chief of Idapillai, Cochin.
+*   M₂ = Cochin, State Library, MS. No. 5.
+*   M₃ = Cochin, State Library, MS. No. 1.
+*   M₄ = MS. belonging to Kallenkara Pisharam of Cochin.
+
+In addition to the above, two Baroda Library MSS. of the commentary by Devabodha (*without* the epic text) were collated; the important readings found in this commentary have been cited with the symbol Cd.
+
+***
+
+#### GENERAL CHARACTERISTICS OF THE MANUSCRIPTS AND THEIR MUTUAL RELATIONSHIP
+
+An important advance made in the classification of the manuscripts is the separation of archetype K (which represents Devanagari transcripts of the Kāśmiri or North-western version) from other so-called Devanagari versions. The affinity of K is documented by the following agreements :
+
+1. 1. 1. 2ᵈ : K (except K₁); D₁₄; the rest (inclusive of K₁) ब्रह्मर्षीन्.
+2. 1. 1. 8 : K लोमहर्षणिरुवाच ; V₁ लोमहर्षण उ; the rest सौतिरु; सूत उ' or सूतः.
+3. 1. 1. 49ᵈ : K V₁ B₁_m संक्षेपतोब्रवीत् ; the rest संक्षेपमत्र or संक्षिप्य चात्र ..
+4. 1. 1. 51 : K विचक्षणाः; V₁ विशेषतः; the rest मनीषिणः,
+5. 1. 1. 192: K (except K₆) गिरः; the rest (incl. K₆) गिरः.
+6. 1. 2. 23ᵈ : K (except K_1,6); the rest (incl. K_1,6) विदिताः.
+7. 1. 2. 76ᵈ : K (K₆ missing) यक्षाणामथ रक्षसां; Ñ₂ दैत्यानामथ र ; the rest यक्षाणां च महौजसां.
+
+Only Ko.1 represent archetype K in a *comparatively* pure form. Next to these in purity stands K2; while K3.6 are nothing but misch-codices, K being conflated with the "vulgate" and K4-6 with some Southern version (cf. 1. 1. 26 and 22\*, 25\*). Ko.1 contains a text which is shorter and more archaic than either the Bangali or the [[P5]] "vulgate." It is worthy of note that while these two manuscripts (Ko.1) have more readings in common with manuscripts of the Southern recension than either of the two latter groups, yet they contain not a single "additional" line which could be considered as a characteristic Southern interpolation.—V₁ stands, as is to be expected, nearest to the Bangali version, but it is noteworthy that in a few cases V₁ and K agree in opposition to all other manuscripts, where it is impossible to consider the agreement as purely accidental (cf. 1. 1. 8, 49ᵈ).—The Bangali version is slightly superior to the "vulgate," in so far that it is not interpolated quite so heavily as the latter. Bangālī omits (like K) not only the Brahma-Gaṇeśa episode in the first adhyaya, but (unlike K) also the short dialogue between Parasurama and his ancestors in the second, both unquestionably spurious and both found in the "vulgate." Occasionally Bangali manuscripts agree with Southern manuscripts in opposition to K and the "vulgate" (cf. 1. 1. 22, 42d). In these cases I have adopted as authentic the concordant readings of the Bangali and Southern manuscripts in preference to those of K. Bangali alone has in a few cases preserved the correct reading as compared with all the other manuscripts (cf. 1. 1. 62).—Closely connected with the Bangali is the version of Arjunamiśra. It not only agrees with the Bangāli in the omission of the Brahma-Gaṇeśa episode and of the dialogue mentioned above, but it shares with the Bangali quite a number of isolated readings against all other manuscripts. The (epic) text in the Arjunamiśra codices is frequently contaminated from the "vulgate" and has to be corrected with the help of Arjunamiśra's commentary (cf. 1. 1. 17", 22").—Ratnagarbha's text is eclectic, standing palpably under the influence of the Southern recension (cf. 24\*, 25\*, 27\*). —Nilakantha's version (which may conveniently be styled the "vulgate") presents a smooth text, with an inconsiderable amount of Southern element. It may be noted that in rare cases the Bombay edition (of Ganpat Kṛṣṇāji) contains readings which have no manuscript support at all or have at best very weak manuscript support.—Next we have the mixed Devanagari group represented by D₁₋₁₄, misch-codices of small trustworthiness and of no special value for critical purposes. D₂₋₁ contain a very large number of old readings in common with manuscripts of the K group, but D₁₄ shows at the same time some Southern readings and some unique readings not found elsewhere (cf. 1. 1. 50, 63cd; 2. 101). D₉₋₁₂ are palpably under the influence of the Southern tradition. Telugu manuscripts have been placed in the Southern recension, but they belong in a sense to both recensions; they are eclectic on no recognizable principles.—It is difficult to define precisely the relationship between the Grantha and the Malayalam versions, which are very closely allied; each of them exhibits nevertheless certain features not found in the other (cf. 1. 1. 184). On the whole the Grantha version produces the impression of being less interpolated and more archaic than the other. This version has two sub-groups, G₁₋₃ and G₄₋₆; numerous cross-agreements between the two sub-groups show that our manuscripts are conflated. G₇ does not belong to either of these groups; in point of fact, it is a misch-codex contaminated from the Northern tradition and closely allied to T₁ (cf. 1. 1. 63, 64).—M₁ often stands in antagonism to M₂₋₄, sometimes agreeing with manuscripts of the Northern recension (cf. 1. 1. 32cd, 41cd, 71", 128). The Southern recension, as already remarked, agrees with archetype K more closely than with any other Northern version.
+
+[[P6]]
+
+The Southern version of the first two adhyāyas is on the whole shorter than the "vulgate"; but the shortest version of these two adhyāyas is that preserved by Ko.1, Ko being probably even shorter than K₁. The naïve Brahma-Gaṇeśa episode, the longest as well as the most obvious interpolation in the text of the "vulgate", has been relegated to the Appendix (cf. 1. 1. 26, 53, 60, 62, 64). Its spuriousness has now been placed beyond the domain of sane criticism through its absence in Ko. V₁ B Da D_1 M₁. In the Southern manuscripts (and in some conflated Devanagari manuscripts) Brahmā alone is introduced; in these there is no talk of Gaṇeśa, who is unquestionably a late Northern intruder. The *yadaśrauşam* section is also evidently an interpolation, but a considerably older one. Being merely a string of stanzas summarizing some of the most important incidents and episodes of the epic, it lent itself easily to being further interpolated by revisers who wanted to supply the omissions and thus make the summary as complete as possible. To present the oldest form of this section now recoverable, I have deemed it sufficient to accept as genuine only such stanzas as are found verbatim in both the recensions. Here again Ko. have the fewest interpolations. The "table of contents" in the second adhyaya is preserved in two versions, a longer and a shorter. Ko.1 S (except G₇) have the shorter version, which has been adopted in the constituted text as the authentic one.
+
+Since I have not been able to discover any traces of "secondary interrelationship" between archetypes K and S, I consider the agreement between these two archetypes as "primitive", that is depending upon their primitive connection through the Ur-Mahabharata. This concord is a factor of supreme importance for the reconstruction of the text. The originality of the agreement is established, in my opinion, by the following considerations. The concordant readings of K and S represent as often as not a *lectio difficilior* (cf. 1. 1. 19, 94, 158). Frequently such a reading best explains the other variants (cf. 1. 1. 1. 2, 14). Furthermore the "additional" stanzas which are found in the "vulgate" but are missing in K and S have all the appearance of being interpolations, lengthening and weakening the text (cf. 19\*, 29\*, 35\*–38); the same remark applies to the additional stanzas that are found in the Southern recension but are missing in K and the "vulgate" (cf. 21\*, 22\*, 27\*). The high position of K seems confirmed by its being the shortest of the known versions.
+
+#### THE CONSTITUTED TEXT
+
+In preparing the constituted text of the first two adhyāyas, I have endeavoured to balance the eclecticism advocated in certain matters with a rigid conservatism insisted on in others. I have been most averse to reject or correct the readings of good manuscripts. Interpretation has throughout been given precedence over emendation; in the first two adhyāyas, no emendation seemed absolutely necessary, nor any absolutely certain. Solecisms, when shewn to be original by a clear agreement on this point between (what appeared to be) independent versions, have been allowed to stand uncorrected (cf. 1. 1. 5., 170d). As a general rule, preference is given to a reading which best suggests how other readings might have arisen. When such a reading was not available the choice fell upon one which is common to (what *prima facie* appeared to be) more or less independent versions and which is supported by intrinsic probability; the presumption of originality in such cases is frequently confirmed by a lack of definite agreement between the dis[[P7]]cordant versions. Occasionally one comes across variants where the matter is identical but the wording of a large part or of the whole of the line is different; one and the same primitive reading cannot in these cases account for the divergence. In the presence of such alternatives, neither of which can have come from the other and which have equal extrinsic support and equal intrinsic merit, the criteria mentioned above fail to give a positive result. A particular instance of the variation contemplated here is that of a puzzling form of a cross-agreement between the Northern and Southern versions; when, for instance, some Kaśmiri and Malayalam manuscripts agree in opposition to say, Bangali and Grantha (cf. 1. 1. 60). In such cases, I have, owing to the much greater correctness of the K version, mostly adopted, as stopgaps, the readings of Ko.1, the manuscripts which present the archetype K in a relatively pure form.
+
+I have given in the constituted text whatever in each case appeared to be supported by the balance of probabilities, indicating all the important elements—lines, phrases, significant words and word-parts—of the text that are less than certain by a wavy line printed below them. Insignificant differences of spelling (e.g. Naimișa-Naimisa) are ignored for this purpose.
+
+Doubt which cannot be resolved by a consideration of the documentary or intrinsic probability, entailing the use of the wavy line, arises in the following cases: (a) when the transmitted readings appear to be corrupt and no satisfactory emendation can be suggested; (b) when there are several readings of equal merit ; in particular where the Northern and the Southern recensions offer two different readings of equal value; lastly (c) when the evidence *pro* et *contra* of documentary and intrinsic probability is equally balanced.
+
+As regards interpolations, the additional lines are so ingeniously fashioned and cunningly fitted in, that in any given case the intrinsic evidence is generally inconclusive. In other words, if we leave out of account the documentary evidence, no convincing proof can in general be brought forward to establish either the originality or the spuriousness of the added lines. We cannot, however, entirely ignore the evidence of tradition. Everything points to the fact that what the epic has suffered from is inflation and elaboration, and not depletion or curtailment. On principle, therefore, lines that are peculiar to one recension, *having nothing whatsoever corresponding* to *them, at the* same *point*, in the *other recension*, are to be viewed with grave suspicion. Unless there is overwhelming evidence to prove their originality, they should be treated as spurious; because, the probability of error is far greater in admitting as authentic such one-recension lines on insufficient evidence of originality (both recensions being placed on an equal footing and treated with impartiality) than in rejecting them on insufficient evidence of spuriousness. It may be added that the presumption of unauthenticity is frequently confirmed by the fact that in the recension in which such lines do occur, they are found inserted in different manuscripts (or different versions) at different points of the text.
+
+I am greatly indebted to Shrimant Balasaheb Pant Pratinidhi, Chief of Aundh, for uniform kindness and courtesy; but still more for the absolute confidence he is pleased to repose in me. I must also record my thanks, for help of various kinds, to my colleagues on the Mahabharata [[P8]] Editorial Board: Prof. Vaijnath K. RAJVADE, M.A.; Mr. Vishwanath P. VAIDYA, BAR-AT-LAW; Prof. Dr. R. ZIMMERMANN, S.J., PH.D.; Prof. Dr. V. G. PARANJPE, M.A., D. LITT.; and Mr. N. B. UTGIKAR, M.A. But I desire to make a special mention of my indebtedness to Mr. VAIDYA and to Rev. Fr. ZIMMERMANN, whose advice and ready help have accompanied my labours from the time I first accepted the responsibilities of the work. Nothing has encouraged me more in this arduous and fascinating task than the unwavering interest with which they have followed it.
+
+In connection with the help the Editorial Board has received from collaborators outside the Institute, I have to record the indebtedness of the Board to: Pandit Vidhushekhar BHATTACHARYA, M.A., Principal of the Viśvabhārati, Bolpur; Rajaguru Pandit HEMRAJ, Director of Public Instruction, Nepal; M. R. Ry. Sambamurti Row, Honorary Secretary, Palace Library, Tanjore ; and Prof. K. Rama PISHAROTI, M.A., Principal of the Sanskrit College, Trippunittura, Cochin. These gentlemen have been good enough to supply the Institute with carefully prepared collations of manuscripts which are in their charge or which were kindly procured for the purpose by them. The Nirnaya Sagar Press has rendered ungrudgingly every assistance in carrying out the typographical arrangements which appeared to me best suited for the purposes of the work. The illustration accompanying this fascicule is prepared from a water-colour painting kindly supplied by the Chief of Aundh.
+
+In conclusion, I may be permitted to remark that the renown of the Bharatavarṣa, of its Princes and its People, is for all time inseparably linked with the Mahabharata, which is, in more senses than one the greatest epic the world has produced. It must be manifest to anyone who bestows a thought on the subject that the monumental work of preparing the first critical edition of this colossal encyclopædia of ancient India could be carried on and completed by the young Institute by which it has been undertaken only if it can count upon substantial aid from other sources and upon co-operation on a much wider scale. If the Princes and the People of India were to associate themselves with this imposing enterprise, they would indeed be supporting a *national* work. On behalf of the Institute which I represent, I appeal to all true Indians to ally themselves with the Institute in supporting the publication of a work which is in a unique manner bound up with the history of the Indian people and the prestige of Indian scholarship.
+
+*January 1927*.  
+V. S. SUKTHANKAR.
+
+### POSTSCRIPT
+
+Since the manuscript of this fascicule was sent to the press, I was able to make arrangements for securing collations of Śāradā and Nepāli manuscripts of the Adiparvan. These collations will be published later. Here it may just be remarked that the collations so far received wholly support the constituted text, especially as regards the interpolated stanzas, proving the correctness of the method adopted in setting the text.
+
+*May 1927*.  
+V. S. S.
+
+***
+
+
+
+## CONCORDANCE OF THE SCHEME OF ADHYAYAS
+
+in the following three editions: the Critical Edition, the Bombay Edition (Ganpat Krishnaji, Saka 1799), and the Madras Edition (Southern Recension, 1931)
+
+| Crit. Ed. | Bom. Ed. | Mad. Ed. | Crit. Ed. | Bom. Ed. | Mad. Ed. |
+|---|---|---|---|---|---|
+| 1 | 1 | 1 | 39 | 43 | 35 |
+| 2 | 2 | 2 | 40 | 44 | 36 |
+| 3 | 3 | 3 | 41 | 45 | 37 |
+| 4 | 4 | 4 | 42 | 46 | 38 |
+| 5 | 5 | 5 | 43 | 47 | 39 |
+| 6 | 6 | 6 | 44 | 48 | 40 |
+| 7 | 7 | 7 | 45 | 49 | 41 |
+| 8 | 8 | 8 | 46 | 50 | 42 |
+| 9 | 9 | 10 | 47 | 51-52 | 43 |
+| 10 | 10 | 8 | 48 | 53 | 44 |
+| 11 | 11 | 49 | 54 | 45 | |
+| 12 | 12 | 50 | 55 | 46 | |
+| 13 | 13-15 | 9-10 | 51 | 56 | 46 |
+| 14 | 16 | 11 | 52 | 57 | 47 |
+| 15 | 17 | 12 | 53 | 58-59 | 48-49. 1-10 |
+| 16 | 18 | 13 | 54 | 60 | 49. 11-34 |
+| 17 | 19 | 14 | 55 | 61 | 50 |
+| 18 | 20 | 15 | 56 | 62 | 51 |
+| 19 | 21 | 16 | 57 | 63 | 53-54 |
+| — | 22 | 58 | 64 | 55 | |
+| 20 | 23 | 17 | 59 | 65 | 56 |
+| — | 24 | — | 60 | 66 | 57 |
+| 21 | 25 | 18 | 61 | 67 | 58 |
+| 22 | 26 | 19 | 62 | 68 | 79 |
+| 23 | 27 | 20 | 69 | 80 | |
+| 24 | 28 | 64 | 70 | 81 | |
+| 25 | 29 | 21 | 65 | 71 | 82 |
+| 26 | 30 | 22 | 66 | 72 | 83 |
+| 27 | 31 | 23 | 67 | 73 | 84 |
+| 28 | 32 | 24 | 68-69 | 74 | 85-88 |
+| 29 | 33 | 25 | 70 | 75 | 1-46 |
+| 30 | 34 | 26 | 103-105 | 59 | |
+| 31 | 35 | 27 | 71 | 76 | 60 |
+| 32 | 36 | 28 | 72 | 77 | 61 |
+| 33 | 37 | 29 | 73 | 78 | 62 |
+| 34 | 38 | 30 | 74 | 79 | 63 |
+| 35 | 39 | 31 | [[P116]] 75 | 80 | 64 |
+| 36 | 40 | 32 | 76 | 81 | 65 |
+| 37 | 41 | 33 | 77 | 82 | 66 |
+| 38 | 42 | 34 | 78 | 83 | 67 |
+
+[[P117]]
+
+| Crit. Ed. | Bom. Ed. | Mad. Ed. | Crit. Ed. | Bom. Ed. | Mad. Ed. |
+|---|---|---|---|---|---|
+| 79 | 84 | 68 | 118 | 127 | 117 |
+| 80 | 85 | 69 | 119 | 128-129 | 118-120 |
+| 81 | 86 | 70 | 120 | 130 | 121 |
+| 82 | 87 | 71 | 121 | 131-132.12 | 122 |
+| 83 | 88 | 72 | 122 | 132.4-28 | 123-124 |
+| 84 | 89 | 73 | 123 | 133 | 125-126 |
+| 85 | 90 | 74 | 124 | 134 | 127 |
+| 86 | 91 | 75 | 125 | 135 | 128 |
+| 87 | 92 | 76 | 126 | 136 | 129 |
+| 88 | 93 | 77 | 127 | 137 | 130 |
+| 89 | 94 | 78 | 128 | 138 | 131 |
+| 90 | 95 | 88 | 132-133 | 47-94 | 132-133 |
+| 91 | 96 | 52 | 139 | 134 | 134 |
+| 92 | 97-98 | 89-91 | 140 | 135 | 135 |
+| 93 | 99 | 92 | 141 | 136 | 136 |
+| 94 | 100 | 93-94 | 142 | 137 | 137 |
+| 95 | 101 | 95 | 143 | 138 | 138 |
+| 96 | 102 | 96-98.9 | 144 | 139 | 139 |
+| 97 | 103 | 98.18-99.4 | 145 | 140 | 140 |
+| 98 | 104 | 99.5-50 | 146 | 141 | 141 |
+| 99 | 105 | 100-101 | 147 | 142 | 142 |
+| 100 | 106 | 102 | 148 | 143 | 143 |
+| 101 | 107-108 | 103 | 149 | 145.2-21 | 144 |
+| 102 | 109 | 103 | 150 | 145.1, 145.22-28 | 145 |
+| 103 | 110 | 104 | 151 | 146 | 146 |
+| 104 | 111 | 105 | 152 | 147 | 147 |
+| 105 | 112-113 | 106.1-30 | 153 | 148 | 148 |
+| 106 | 114 | 106.31-41, 107 | 154 | 149 | 149 |
+| 107 | 115 | 108.1-7, 110.24-40 | 155 | 150 | 150 |
+| 108 | 116 | 110.1-23, 110.41-66 | 156 | 151-153.40 | 151-152 |
+| 109 | 117 | 111 | 157 | 153.41-58, 154 | 153 |
+| 110 | 118 | 112 | 158 | 155 | 154 |
+| 111 | 119 | 106.42-72, 107.3-20 | 159 | 156 | 155 |
+| 112 | 120 | 107.21-36, 108.8-13 | 160 | 157 | 156 |
+| 113 | 121 | 108.14-23 | 161 | 158 | 157 |
+| 114 | 122 | 109-110.13 | 162-163 | 1-51 | 158 |
+| 115 | 123 | 110.14-23 | 164 | 52-72 | 159.1-29 |
+| 116 | 124 | 114 | 165 | 159.30-160.36 | 160 |
+| 117 | 125 | 115 | 166 | 164.37-71 | 161 |
+| 118 | 126 | 116 | 167 | 165 | 162 |
+| 119 | 127 | 117 | 168 | 166-168 | 163 |
+
+[[P139]]
+
+| Crit. Ed. | Bom. Ed. | Mad. Ed. | Crit. Ed. | Bom. Ed. | Mad. Ed. |
+|---|---|---|---|---|---|
+| 160 | 171 | 169 | 193 | 201 | 195.28-95 |
+| 161 | 172 | 170 | 194 | 202 | 196 |
+| 162 | 173 | 171 | 195 | 203 | 197 |
+| 163 | 172 | 172 | 196 | 204 | 198 |
+| 164 | 174 | 173 | 197 | 205 | 199 |
+| 165 | 175 | 174 | 198 | 206 | 200 |
+| 166 | 176 | 175 | 199 | 207 | 201 |
+| 167 | 177 | 176 | 200 | 208 | 202 |
+| 168 | 176 | 177 | 201 | 209 | 203 |
+| 169 | 178 | 178 | 202 | 210 | 204 |
+| 170 | 179 | 179 | 203 | 211 | 205 |
+| 171 | 180 | 180 | 204 | 212 | 206 |
+| 172 | 181 | 181 | 205 | 213 | 207-209 |
+| 173 | 182 | 182 | 206 | 214 | 210-212 |
+| 174 | 183 | 183 | 207 | 215 | 213-214.17 |
+| 175 | 184 | 184 | 208 | 216 | 214.18-146 |
+| 176 | 185 | 185 | 209 | 217 | 215 |
+| 177 | 186 | 186 | 210 | 218 | 216 |
+| 178 | 187 | 187 | 211 | 219 | 217 |
+| 179 | 188 | 188 | 212 | 220 | 218 |
+| 180 | 189 | 189 | 213 | 221 | 219 |
+| 181 | 190 | 190 | 214 | 222 | 220 |
+| 182-183 | 191 | 191 | 215-216 | 223-225 | 221 |
+| 184 | 192 | 192 | 217 | 226 | 222 |
+| 185 | 193 | 193 | 218 | 227 | 223 |
+| 186 | 194 | 194 | 219 | 228 | 224 |
+| 187 | 195 | 195.1-27 | 220 | 229 | 225 |
+| 188 | 196 | 196 | 221 | 230 | 225 |
+| 189 | 197 | 197 | 222 | 231 | 226 |
+| 190 | 198 | 198 | 223 | 232 | 227 |
+| 191 | 199 | 199 | 224 | 233 | 228 |
+| 192.1-7 | 200.1-7 | 200.1-10 | 225 | 234 | 229 |
+
+[[P140]]
+[[P142]]
+
 ## Editorial Note (Fascicule 2)
 
 In this fascicule the following additional MSS. have been used:
@@ -1898,6 +2181,7 @@ March 1930. V. S. SUKTHANKAR.
 The section of the Ādiparvan dealt with in this fascicule (5) corresponds roughly to adhy. 96–161 of the Vulgate text, and includes among other things the early life history of the Pāṇḍavas : the circumstances of their mysterious birth in a forest retreat, their life at the Kaurava court in Hāstina- pura, their subsequent exciting experiences and perilous adventures, ending with their encounters with two Rākṣasas, Hiḍimba and Baka.
 
 The constituted text, which closely follows the Kāśmīrī version, is here also con- siderably shorter than the Vulgate, not to speak of the Southern recension, and con- tains some notable omissions. Important among these are the following passages, cited here according to the Bombay text: 
+
 adhyāya 116 
 {128. 34 to end 
 {129. 1-35 
