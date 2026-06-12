@@ -67,16 +67,42 @@ The Ahobila Math was founded in 1398 A.D. by Śrī Ādivaṇ Śaṭhakopa Yatind
 [^11_1]: *śrīvīrarāghavamuneḥ varivasyāikajīvanam / samāśrayāmahi śrīmannārāyaṇamunīśvaram* (See *Acaryavaibhava*, p. 287)
 [^11_2]: *śrīśaṭhāriyatīśānapadapaṅkajasatpadam / śrīmannārāyaṇamuniṃ śraye śrībhāṣyadeśikam* (ibid., p. 269)
 
-It is interesting to note that the 2nd Pontiff is ascribed with the authorship of the present commentary by one of the writers.[^11_3] The reason for this may be the identity in the names of these Pontiffs. However, the colophon of the commentary contains the taniyan verse of the 14th Pontiff, and this points to him as the author of the commentary *Gītārthasaṅgrahavibhāga*. There is a remote possibility that the work was composed by the 2nd Pontiff himself, and that a disciple of [[P12]] the 14th Pontiff copied the text, thereby paying obeisance to his own preceptor. However, this is unlikely to be the case, as it was a customary practice in the tradition for a writer to pay obeisance to his preceptor by mentioning the taniyan or composing another maṅgala śloka in his honour.
+It is interesting to note that the 2nd Pontiff is ascribed with the authorship of the present commentary by one of the writers.[^11_3] The reason for this may be the identity in the names of these Pontiffs. However, the colophon of the commentary contains the taniyan verse of the 14th Pontiff, and this points to him as the author of the commentary *Gītārthasaṅgrahavibhāga*. 
+
+There is a remote possibility that the work was composed by the 2nd Pontiff himself, and that a disciple of [[P12]] the 14th Pontiff copied the text, thereby paying obeisance to his own preceptor.  
+
+However, this is unlikely to be the case, as it was a customary practice in the tradition for a writer to pay obeisance to his preceptor by mentioning the taniyan or composing another maṅgala śloka in his honour.
 
 [^11_3]: See *History of Visistadvaita Literature*, p. 54.
 
-Another reason indicating that the commentary *Gītārthasaṅgrahavibhāga* was composed by the 14th Pontiff is: in the beginning of the commentary on the *Aṣṭaślokī* (written by the 2nd Pontiff), the author's taniyan is clearly mentioned, and towards the end, the author refers to himself[^12_1] as Śrīvatsāṅkamuni. Similarly, the concluding verse of the *sandhyāvandanabhāṣya* of the 2nd Pontiff contains obeisance to his preceptor Śrī Ādivaṇ Śaṭhakopa and also mentions that he was the author of sixty (*ṣaṣṭi*)[^12_2] prabandhas. But the *Gītārthasaṅgraharakṣāvibhāga* [[P13]] contains no such mentions anywhere in the text.
+Another reason indicating that the commentary *Gītārthasaṅgrahavibhāga* was composed by the 14th Pontiff is:  
+in the beginning of the commentary on the *Aṣṭaślokī* (written by the 2nd Pontiff), the author's taniyan is clearly mentioned, and towards the end, the author +++(nowhere)+++ refers to himself[^12_1] as Śrīvatsāṅkamuni.
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Flaw corrected here. Poor slop.
+</details>
+
+
+
+Similarly, the concluding verse of the *sandhyāvandanabhāṣya* of the 2nd Pontiff contains obeisance to his preceptor Śrī Ādivaṇ Śaṭhakopa and also mentions that he was the author of sixty (*ṣaṣṭi*)[^12_2] prabandhas.  
+But the *Gītārthasaṅgraharakṣāvibhāga* [[P13]] contains no such mentions anywhere in the text.
 
 [^12_1]: See *Aṣṭaślokī* commentary beginning and concluding verses.
 [^12_2]: Cf. *Sandhyavandanabhaṣya*, p. 53.
 
-Apart from the above works, there are several other works attributed to Nārāyaṇamuni noticed by scholars. They include *Jijñāsāsūtrabhāṣyabhāvaprakāśikā*, *Rahasyatrayajīvātu*, *Stotraratnabhāṣya*, *Nyāsadoṣavyākhyā*, *Pūrvapakṣamīmāṃsā*, *Siddhāntamīmāṃsā*, *Puruṣārthasudhānidhi*, and *Gītārthasaṅgrahasāra*. Of these, except for the *Gītārthasaṅgrahasāra*[^13_1] and barring the *Stotraratnabhāṣya*, all the other works seem to be the creations of the 2nd Pontiff, Śrīvatsāṅka Śrīman Nārāyaṇamuni. The *Gītārthasaṅgrahasāra*[^13_2] is definitely by the same author as the *Gītārthasaṅgraharakṣāvibhāga*, as the author mentions the former in the latter work. The exact authorship of the *Stotraratnabhāṣya* has not yet been proved.
+Apart from the above works, there are several other works attributed to Nārāyaṇamuni noticed by scholars. They include *Jijñāsāsūtrabhāṣyabhāvaprakāśikā*, *Rahasyatrayajīvātu*, *Stotraratnabhāṣya*, *Nyāsadoṣavyākhyā*, *Pūrvapakṣamīmāṃsā*, *Siddhāntamīmāṃsā*, *Puruṣārthasudhānidhi*, and *Gītārthasaṅgrahasāra*. Of these, except for the *Gītārthasaṅgrahasāra*[^13_1] and barring the *Stotraratnabhāṣya*, all the other works seem to be the creations of the 2nd Pontiff, ~~Śrīvatsāṅka~~ Śrīman Nārāyaṇamuni. 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+This is utterly bizarre!
+
+Her own text starts with श्री-श्रीवत्साङ्क-नारायणमुनिना अनुगृहीता
+भगवद्गीतार्थसंग्रह-विभागः.
+</details>
+
+
+The *Gītārthasaṅgrahasāra*[^13_2] is definitely by the same author as the *Gītārthasaṅgraharakṣāvibhāga*, as the author mentions the former in the latter work. The exact authorship of the *Stotraratnabhāṣya* has not yet been proved.
 
 [^13_1]: See *History of Visistadvaita Literature*, pp. 54–55.
 [^13_2]: See p. [Page number blank in MS] of this dissertation.
