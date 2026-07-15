@@ -1,7 +1,7 @@
-+++
-title = "En"
-+++
 
+title = "अनन्त-कृष्ण-शास्त्री"
+
+Source: [TW](https://archive.org/details/Vishnu.Sahasranama.with.the.Bhasya.of.Sankaracharya/page/n3/mode/2up)
 
 THE 
 VISHNU SAHASRANAMA 
@@ -119,7 +119,7 @@ Yudhishthira said:
 VISHNU SAHASRANAMA 
 In the world: who is declared in the Vidyas that form the source of our knowledge? This is the first ques- tion. 
 +4 
-* 
+
 Supreme Goal: He whose orders all obey, realising whom the fetters of the heart break off, as said in the Sruti (Ma. Up., 4-8). The fetters of the heart are broken, all doubts are solved, all his actions perish when he is seen, who is the cause and effect," by merely knowing whom one attains Moksha, which is of the nature of bliss, knowing which one fears nothing, entering whom there is no re- birth, knowing whom only, one becomes himself as said in the Sruti (Ma. Up., 6-9). He who knows Brahman becomes even Brahman," and leaving whom there is no other path, as said in the Sruti (Sve. Up., 3-8), There is no other path to go," That is called the sole Supreme goal. This is the second question. Praise: reciting his attributes. This is the third question. and internal, in various ways. Good: Svarga (heaven), Moksha, etc. question. 
 Men 
 64 
@@ -154,9 +154,9 @@ VISHNU SAHASRANAMA
 Dharma: as defined by the Vedas. Lotus eyed: Vasudeva shining (aksha) in the lotus of the heart. With hymns: praises describing his attributes. The worship: 
 with reverence. 
 Query. What is the reason for giving pre-eminence to the hymning of this praise ? 
-* 
+
 Answer. The reason for such pre-eminence consists in its having no necessity to do harm, etc. (to other creatures), in its not requiring the help of other persons or money, and in its not having strict rules as to place, time, etc. The Vishnu Purana (6-2-17) says: That which one obtains in Kritayuga by meditation, by performing sacrifice in the Treta, by worship in Dvapara, he receives in the Kaliyuga, by reciting (the names) of Kesava." The Mann Smriti (2-87) says: But, undoubtedly, a Brahmana reaches the highest goal by Japa only; never mind if he performs other rites or neglects them; he who befriends (all creatures) is declared to be a (true) Brahmana." The Mahabharata says: "The Japa is said to be the best of all Dharmas, and also Japa begins with non-injury to beings." The Bh. Gita (10-25) says: Of sacrifices, I am the Japa sacrifice." Hence it is said to be the greatest Dharma. 
-+ 
+
 44 
 The second question is answered : 
 9. (He who is) the Supreme and great Light, who is the Supreme and great Ruler, who is the Supreme and great Brahman, is the Supreme and highest Goal. 
@@ -179,13 +179,13 @@ VISHNU SAHASRANAMA
 44 
 7 
 heinous crimes, if he but concentrates his mind upon Achyuta, he becomes a holy man, purifying (even) the assembly of pure men." Having thoroughly ransacked all the Sastras and having inquired into the matter over and over again, the final conclusion arrived at is that Narayana should be the only object of constant meditation.” (Hari. Va. 280th chap. says): "You should, centred in your Satvika aspect, meditate upon Hari alone for ever; always recite, O Brahmanas, the sacred mono-syllable Oм and meditate upon Kesava." (Mu. Up., 4-8, says): “The fetters of the heart are broken, all doubts vanish, and (all) actions are destroyed, when He is seen who is the cause and effect." (The Vish. Pr., 6-8, says): "The repetition of his name with devotion is the best purifier of all sins, as the fire purifies, O, Maitreya 1, the metals. By the repeti- tion even unconsciously of His name, man is undoubtedly liberated from all sins which fly like wolves frightened by lion." (Vish. Pr., 6, 2) : Whatever is obtained by medit- ation in Kritayuga, by performing sacrifices in Treta, by worshipping in Dvipara, is obtained by repeating the names of Kesava in Kali," ** Hari destroys the sins when meditated upon even by the evil-minded; fire, touched even unawares, surely burns." Recitation of the name of Vasudeva, knowingly or unknowingly, destroys all sins, as water dissolves salt." (The Vish. Pr., 6-8, says): "The man who fixes his mind on Vishnu goes not to hell; he who meditates upon Him regards (even) heavenly enjoy- ments only as an impediment; and he whose mind and soul are penetrated by Him, thinks little even of the world of Brahma; for, when present in the minds of those with unsullied intellects, he confers upon them eternal freedom. What marvel, therefore, is it that the sins of one who, repeats the name of Achyuta should be wiped away!" (The Vishnu Dha. Utt., 66-74, says): "Water is enough to extinguish fire; sunshine is enough to dispel darkness; during Kaliyuga, recitation of the names of Hari is enough 
-* 
+
 VISHNU SAHASRANAMA 
 to remove the accumulated sins of men. 
 Hari's name, 
 the name, and name only is my life; in Kaliyuga, there is no other means, no, certainly, no.' A person becomes free from sins by praising (the names) of Vasudeva, the Omnipresent; by daily worshipping Him, all sins are destroyed." "They in whose hearts resides Hari, the fountain of all good, never meet with evil at any time, in any of their undertakings." Centred in yoga, one should daily meditate upon the Divine Janardana; this I consider to be the most powerful talisman; for, who would dare to harm the followers of Achyuta ?" Directing one's thoughts to Hari, removes as much sin as is washed by thousands of baths in the Ganga and millions of baths in Pushkara."* "If one attains the accomplishment of his wishes by concentrating his thoughts for one Muhurta (34 Indian hours) on the undecaying Narayana, what to say of one who is ever devoted to Him!" (Vish. Pr., 2-6, says): “The remembrance of Krishna is far better than any such expiatory acts as religious austerities or the like." (6-8.) The stain of Kali age, which insures to men sharp punishment in hell, is at once effaced by a single invocation of Hari." Govinda, if remembered once, quickly destroys the sins of men, accumulated in hundreds of births, as fire burns up cotton." (Ibid., Pr., 6-7, says) : Just as the blazing fire, with the wind, burns dry grass, so Vishnu seated in the heart consumes the sins of the sages." 
 If one Muhurta is allowed to pass by without meditation (upon Hari), one must weep loud as if he was robbed by thieves." O great sage, man, by always re- membering Janardana, the Lord of beings, the World- teacher, destroys all his sins, and accomplishes whatever he wants." "Thus meditating with concentrated mind upon Madhusudana, one crosses the ocean of Samsāra, teeming with such alligators as birth, death and old age.” "Even in this sinful Kaliyuga, a worldly man, though guilty of all sins, becomes pure by meditating upon 
-++ 
+
 VISHNU SAHASRANAMA 
 Govinda." (Vish. Pr., 2-6, says). "To him whose mind is devoted to Vasudeva in his Japa, oblations to fire, worship and the like, O Maitreya, even the glory of the King of Gods is an impediment." 
 "One's sins are speedily destroyed, even though they might have been accumulating through many past lives, Pralayas, and Kalpas, if he but bow down his head, even slightly before the Ruler of the three worlds, unequalled in prowess, the Director of all.” A single prostration to Krishna, well-made, is equal in merit to ten horse-sacrifices duly completed; the sacrificer returns to birth, but he who prostrates before Krishna does not." There is no fear to them, who bow down to Govinda, resembling in hue the atasi flower, dressed in white and of unswerving greatness." "Prostration to 
@@ -208,7 +208,7 @@ But there is a difference between that which entered and the one that followed a
 As 
 The Taittiriyaka (Samhita, 4-1-8) has eight mantras from Hiranya garbha to Kasmai Devaya which also sup- port the above point. Kath. Up. (5-9 to 13) says : the one fire, after it has entered the world, assumes different forms according to whatever it enters, so the one Self within all things assumes different forms according to whatever it enters, and exists also without. 
 As the one air, after it has entered the world, assumes different forms according to whatever it enters, so the one Self within all assumes different forms according to whatever it enters and exists also without. As the sun, the eye of the whole world, is not contaminated by the external impurities seen by the eyes, so the one Self within all creatures is never contaminated by the misery of the world, being himself without." "There is one Ruler, the Self within all crea- tures, who makes one form manifold. The wise who perceive him within their Self, to them belongs eternal happiness, not to others. There is one eternal thinker, thinking non-eternal thoughts, who, though one, fulfils the desires of many. The wise who perceive him within their Self to them belongs eternal peace, not to others." Br. Úp. (3-4-11) says: Verily, in the beginning this was 
-* 
+
 44 
 VISHNU SAHASRANAMA 
 11 
@@ -234,7 +234,7 @@ VISHNU SAHASRANAMA
 other Upanishads acknowledging Åtman (as Para- matman); again the Vedantic axioms make us compre- hend Ätman as the Isvara (Paramatman). (Br. Up., 5-7) : "This is thyself, the indweller, the immortal." (Kena. Up., 1-6): That which does not think by mind, and by which, they say, mind is enabled to think, that alone know as Brahman, not that which people here adore.” (Cheha. Up., 6-8-7) It is the Truth. It is the Self, and 
 thou art It." 
 This is like worshipping the image, on the score that it represents Vishnu. 
-* 
+
 That is unreasonable being unimportant and opposed to authorities on the point. For, where a symbol is meant, mention is made of it only once. (Cheha. Up., 3-18 and 19) Mind is Brahman, and the Sun is Brahman.” But here it is said Thou art myself and I, indeed, am Thyself," so, because there is an inconsistency with the Vedic sayings on symbol, the absence of difference is estab- lished. Again we find (in different places) the idea of difference is refuted. (Br. Up., 3-4-10) says: "Now if a man worship another deity, thinking the deity is one and he another, he does not know. He is like a beast." (Kath. Up., 4-10 and 14 says): He who sees any difference here (between Brahman and the world) goes from death to death," 
 As the water rained down on elevated ground, runs down scattered off in the valleys, even so runs after difference a person who beholds attributes different from the Soul." (Br. Up., 3-4-2) says: "Verily fear arises from a second only." (Tai. Up.. 2-7) says : If he makes but the smallest distinction in it, there is fear for him. But that fear exists only for one who thinks himself wise.” (Br. Up., 4-4-6) says: "Whosoever looks for anything elsewhere than in the Self, is abandoned by everything." These and many other passages in the Sruti refute the idea of difference. Again the Sruti (Br. Up., 4-4 and 5-5) says: All this is Self only when Self is known, 
 66 
@@ -258,7 +258,7 @@ That He only, by this divine eye, the mind, perceiving all the objects, enjoys."
 "He entered thither," 
 46 
 • 
-+ 
+
 One should worship Him as the Self," (IV-5-19) “That this Brahman is without cause. ...' 11 (V-7-23) "There is no other seer but He,... there is no other knower but He," (VI-4-22) ** And He is that great unborn Self, who consists of Knowledge," (III-4-10) He who worships other deities (Chcha. Up. (VI-8-7) All this is Atman." (Bh. Gita, XIII-L) says: Understand Me as the knower of the field (Kshetra),” Yoga Yajnavalkya says: Just as the sparks fly out from the heated iron-ball, so the worlds pro- ceed from the Atman." Brahma Purana says: 
 The un- born is said to be born when he takes a form." Again, as a piece of rope lying on the floor on a dark night appears as a serpent to the eye affected by the darkness, and as the one moon seems as two, so Paramatman, the Supreme Purusha, ever-existing, self-radiant, and all- pervading, seems as many in the various vehicles; and one imagines himself as the actor through ignorance due to egotism." The Srutis again (Br. Up., 6-3-21) say : 
 "Thus this person, when embraced by the Intelligent Self.. (Cheha. Up. VI-8-1) He becomes united with the True." Another saying is: "Deluding Himself by His own Maya of duality, Hari subjects Himself to the influence of attributes." (Bh. Gita, 15-10) says: The deluded do not perceive Him when He departeth or stayeth," (5-15) “The knowledge is veiled by ignorance." In another place it is said: Avidya consists of (all objects ranging) from Avyakta (unmanifested Prakriti) down to Visesha (to particular species); This was darkness before." (Chcha. Up.. VI-1-4) “The difference being only a name." Again 
@@ -292,7 +292,7 @@ VISHNU SAHASRANAMA
 he does, that he will reap." The Smriti (Manu, 2-4) also says: Not a single act here below appears even to have been done by a man free from desire; for whatever man does, it is (the result of) the impulse of desire." 
 (Bh. G., 3-37) says: "It is desire, it is wrath." 
 The authoritative character of Arthavada or explanatory passages pertaining to Mantras should be accepted, in as much as they convey a different idea (and as they go to sup- port the Mantra passages of the Vedas). By declaring them (Arthavada passages) unauthoritative, the king Nahusha became a serpent. How it was, is explained in the Maha- bharata: (Udyoga, 17 Ch.) **The Rishis, when they were ordered to be his Palanquin-bearers by the evil-minded one (Nahusha), they, the divine Rishis and also the pure Brahma Rishis questioned Nahusha, whose mind was bent upon evil, concerning a doubtful point thus: O Vasava (officiating Indra) are the Brahmana portions (of the Vedas) that refer to the purification of the sacrificial cows, authoritative or not?' Nahusha, confused in mind, replied, that they, undoubtedly are not (authoritative). Then the Rishis said: 'thou art inclined to evil and abandoneth the Dharma; they (the Brahmana portions) having been promulgated by the ancient Maharishis are authoritative to us. Agastya said: Thereupon the king (Nahusha), falling out with the Rishis and being propelled by vice, placed his foot on my head. Then, O Lord of Sachi, he became deprived of sense and devoid of glory. Thereupon I addressed him (Nahusha), who was then trembling with fear, thus: Thou hast gone out of the sacred path chalked out by the ancients and followed by the Rishis; thou hast placed thy foot on my head; and thou hast also, O fool, made palanquin-bearers of the Rishis, who are like unto Brahman and who are unapproachable; therefore, fall down from the heaven, bereft of all glory, degraded by thine own sin and deprived of virtues, O king of Earth; remain ten thousand years on the Earth assuming the form 
-** 
+
 20 
 20 
 41 
@@ -322,7 +322,7 @@ Of such :
 13. I shall for the good (of all) recite those names of the great Soul that are expressive of His attributes and that are famous and much praised by the Rishis. 
 Rishis Mantras and their seers. Praised in the episodes about the Supreme Lord. Soul : Since he realises, receives and enjoys the objects here, and since he is eternally existing, He is named Atman." He (Vishnu) only is the great Atman who possesses unimagin- able powers. For the Good: of those who desire the four kinds of human aspirations in order to enable them to attain the same. 
 Amongst these thousand names, the words Sun, etc.. having individual connotations as the (visible) Sun," etc., really mean Himself and are His praises, since they are only His manifestations and are not distinct from Him. Vis. 
-* 
+
 Pr. (2-12) says: Thou art the elemental self (Bhātātman), the sensuous Self (Indriyātman), the primordial Self (Pradhanatman) the Self and the Supreme Self. Thus thou, the only one, art in five forms. The stars are Vishnu, the worlds are Vishnu, the forests are Vishnu, the mountains and regions are Vishnu, also the rivers and oceans; he is all that is, all that is not, O best of Brahmans." Bh. G. from verses (10-21) ** Of Ådityas I am Vishnu " to the end (10-41). Having pervaded this whole universe with a 
 44 
 VISHNU SAHASRANAMA 
@@ -332,7 +332,7 @@ Such words as Vishnu and the like, though repeated (in this hymn) are not tautal
 The thousand Names consist of words in the mas- culine, feminine and neuter genders, Those in the masculine gender qualify Vishnu, those in the feminine qualify Devata and those in the neuter qualify Brahman. 
 THE THOUSAND NAMES 
 1 The universe. (Visvam.) 
-++ 
+
 Beginning from the stanza from whom all beings, etc. (verse 11) up to the last Verse. Brahman, the cause of origin, preservation, and destruction of the Universe, has been spoken of as a Single Deity. The twofold Brahman (conditioned and unconditioned) is termed in the beginning as Universe' (Visva). Brahman is spoken of as Visva being the cause of the entire manifested Universe. The word, Universe, as being the effect of a cause is used in the beginning to show that Vishnu could be praised by the names of Brahmâ, etc., who are also effects. 
 Or this Universe is in reality not different from the Supreme Purusha. Hence, Brahman is spoken of as Visva'. The Srutis say: (Mun. Up., 3-10 and 4-11) : 
 'Before repeating the names, Anganyasa, Karanyása, and Dhyana Slokas should be gone through; and they do not belong to the Text, I have not translated them into English. They are added in the Text. 
@@ -363,8 +363,8 @@ through the likeness of the Self, O Arjuna seeth identity, whether pleasant or p
 " 
 VISHNU SAHASRANAMA 
 knowledge that Hari is all things 
-+ 
-+ 
+
+
 27 
 It is said that 
 conciliation, gifts, punishment and sowing seeds of dissen- sions are the means of securing friends (or overcoming foes). But O, father ! be not angry-I know neither friends nor foes; and where no object is to be accomplished, the means of effecting it are superfluous. It were idle to talk of friend or foe in Govinda, who is the supreme Soul, who is the Universe itself, as well as its Lord, and who is identical with all beings 
@@ -381,14 +381,14 @@ From the above quotations and from the fact that the qualifications of a devotee
 VISHNU SAHASRANAMA 
 29 
 Whatever oblation, gift, austerity, deed, is wrought with- out faith, is called Asad, O Partha; it is naught, here or hereafter." From the above quotations of Smritis, we see that prayers, worship, etc., ought to be performed with earnestness and without indifference. 
-* 
+
 According to Lord (Bh. G., 17-23) *** 
  ́ ́Om, Tat, Sat,' this has been declared to be the threefold designation of Brahman." Though the prayer, Namaskāra, etc., are not effective and Sätvic, yet if performed with earnestness, and preceded by the three names of Brahman, become effective and Satvic. Imagining himself as Vishnu, he should pray and worship. The Karma Kanda portions of the Maha- bharata say: He who imagines himself as Avishnu (not Vishnu) should not praise. He who imagines himself as Avishnu should not worship Him, he who imagines himself as Avishnu should not meditate upon Him and he who imagines himself as Avishnu will not reach Him." 
 We read in the Vishnu Dharma: All these are the names of the Supreme Brahman; so one should recite the names of the God of gods. Whatever one desires, that, he surely obtains. The worship of the Teacher of the Universe enables one to realise all his desires. O Dalbhya, one should imagine himself as being identical with Govinda and never otherwise; having identified himself accordingly, he has all his prayers answered and he reaches the (Supreme) Abode." The Bh. G. (6-31) says : "The Yogin' who, established in unity, worshippeth me, abiding in all beings, dwelleth in me, whatever may be his mode of existence." The Vish. Pr. says: I am Hari, all this is Janardana; except Him there is nothing else, be it cause or effect; he that has such a mind suffers not from pains caused by the pairs of opposites, and those produced by transmigratory life." 
 (Manu Smr., 2-200) says: Where there is detraction or even blame of his Guru, he must stop both ears, or go from thence elsewhere." Vyasa Smriti says: Brahman 
 30 
 VISHNU SAHASRANAMA 
-* 
+
 itself manifests as the teacher." Katyayana says: Rather remain in the centre of a glowing fire, than among men who are indifferent to meditation upon Sauri (Vishnu),” Hence, one should avoid places where people speak insult- ingly of Vasudeva. The Sve. Up. (6-23) says: If these truths be told to a high-minded man who feels the highest devotion for God, and for his Guru as of God, then they will shine forth." So the conclusion is that we must culti- vate supreme devotion to Hari and the Guru. (Vish. Pr., 6-8) says: By repeating His name even unconsciously, a person is instantly freed from all sins (which run away from him) just as wolves do from fear of lion." Whether knowingly or unknowingly the repetition of the names of Vasudeva is made, it dissolves all sins as water, the salt. If He is remembered even once, the terrible sins of Kali that inflict pains on men in hell, vanish then and there. Govinda, once remembered, burns quickly the accumulated sins of men committed during hundred births, just as the fire, bales of cotton. That tongue which does not speak out Govinda! Govinda! Govinda!, is a serpent in the cavity of the mouth. That tongue which does not recite day and night the glorious attributes of Govinda, is a creeper of sin planted in his mouth in the form of tongue. He who pronounces the two letters forming the word Hari, once, has prepared himself to proceed on his tour to Moksha. One salutation to Krishna well made is equal to ten horse sacrifices duly completed; even the sacrificer is reborn, while the worshipper of Krishna is not.' From the above we see that even in the absence of devotion and earnestness, the recitation of the names (of Vishnu) des- troys all sin; more so if the recitation is accompanied by devotion and earnestness. 
 The Sruti says: First one thinks out by the mind and next he argues by the tongue; (Tai. Sam., 6-1-7): Whatever one thinks out by the mind, that he gives out by the tongue." From the above Srutis we find, that 
 16 
@@ -407,7 +407,7 @@ VISHNU SAHASRANAMA
 +4 
 C 
 Six questions beginning with which is the only Deity" and ending with " by reciting which one is freed " were asked (in Verses 2 and 3 above) and the word Brahman involved in the answers to those questions as contained in the verses beginning with that from whom " (Verse 1) has been commented upon by us as representing the word Visva. Anticipating a question as to what is Visva, the word Vishnu is introduced. The Rigveda (1-156-3) says: Cognizant of his greatness, celebrate his name; may we, O Vishnu, enjoy thy favour." This and many similar passages show that the recitation of the names of Vishnu confers right knowledge. The derivative meaning is, He that pervades as from the root Fish, to per- vade. Hence it means that He is unlimited by Space, Time, and Substance. The Sruti (Nara. Up., 1-13) says: "Nārāyana pervades the whole (Universe) externally and internally." 
-** 
+
 Or the word Vishnu,' takes its derivation from the root Vis to enter or permeate. The Vish. Pr. (3-1) says: "Because this whole world has been pervaded by the energy of the great Soul, he is named Vishnu, from the root Vis to enter' or 'pervade "." As I have pervaded the horizons, my glory stands foremost, and as I have measured by steps (the three worlds), O Partha, I am named Vishnu '." So says the Mahabharata (Santi Parva 342). 
 2. Vyd. Vishnu; his nature is omnipresence, or his rays are spread everywhere, or he stepped the earth and heaven (in his dwarf incarnation), or he, after creating. entered into them.' 
 small Vyakhyās, and made his glossary especially with the view of explaining the grammatical forms of the names, which were not dealt with by his predecessors. 
@@ -417,7 +417,7 @@ VISHNU SAHASRANAMA
 3. Vashatkarah (a technical word through which oblations are offered in fire to Gods). 
 He on whose account Vashatkāra is offered; or that sacrifice in which Vashatkara is offered. 
 The Sruti (Tai. Sam., 1-7-4) says: Sacrifice indeed is Vishnu.” 
-* 
+
 46 
 Or because He pleases the gods by himself being the Soul of Vashatkara and other Mantras; or Vashatkara is the name of a deity." The Sruti says : The Lord Prajapati and Vashatkāra." The Smriti also (Vishnu Smriti, verse 35 and Yajurveda Sam., I, 5, 10): "He who is in- voked in sacrifices by such Mantras as the four syllabled A-Sra-va-ya, the four syllabled A-Stu-sran-shat, the two syllabled Yaja, the five syllabled Ye-ya-ja-ma-he, and the two syllabled Vau-shat, let that Vishnu be pleased with me." 
 4. The Lord of the past, present and future. (Bhūta bhavya bhavat prabhuh.) 
@@ -590,16 +590,16 @@ Vya. He is the cause of the expansion of the grossest matter.
 Old The Rigveda (7-100-3) says: For illustrious is the name of the old one.' Or Sthavira' means age. (A man aged 70 is called Sthavira); and Dhruva means stable. 
 (Slo. 19) 
 56. He who cannot be grasped (Agrähyah). 
-** 
+
 9 
 By the organs of action. The Sruti (Tai. Up., 2-4) says: From whence all speech, with mind, turns away unable to reach it." 
 Vya. He is not to be grasped like clay by the potters, as the Sruti declares : There is none over Him." 
 57. 
-* 
+
 Ever-existing (Sasvatah). 
 Because He exists at all times. The Sruti (Nara. Up., 13) says: He is ever-existing, Siva, and Achyuta," 
 58. 
-* 
+
 Krishnah. 
 'Krishna' means existence, Vyasa (Maha. Udyoga,, 70-5) says: existence, and 'na' means bliss. 
 6 
@@ -681,7 +681,7 @@ L
 The Sruti (Nara. Up., 12) says: There is nothing, above or below, equal to Him.' (Bh. G., 11-43) also says: 
 "" 
 'Here ma stands for Mauns, dha for meditation and va for Yoga. 
-++ 
+
 VISHNU SAHASRANAMA 
 45 
 For Thy equal exists not, whence another superior to Thee ? "* 
@@ -720,7 +720,7 @@ Vya. Difficult to control as a rogue Elephant Fi-a-la. He identifies himself spe
 Ka. He is the chief destroyer of the Universe. 
 93. 
 Consciousness (Pratyayah). 
-** 
+
 The Sruti (Ait. Up., 3-3) says: Consciousness (Praj- nana) is Brahman.” 
 94. Omnispective (Sarvadarsanah). 
 Because he is omnipresent. The Sruti (Nārā. Up., 1 and 13) says: **Having eyes on all sides; He that has a universal eye.". 
@@ -794,7 +794,7 @@ resolve."
 111. Pervading the lotus in the heart (Pundarıkāk- shah). 
 'Pundarika' means the lotus in the heart, and ‘aksha'; to pervade through it, or seen in it. The Srati (Nară. Up., 10) says: 
 'There is a lotus in the centre of the city (body)," or with lotus-like eyes. 
-** 
+
 112. Of righteous action (Vrishakarma). 
 • 
 'Vrisha' means Dharma and Karma' action. 
@@ -805,7 +805,7 @@ Lord (Bh. Gita. 4-8) says: "For the sake of estab lishing Dharma, I am born in e
 (Slo. 25) Vya. We see from the Smritis that Rama was in the form of Dharma personified. 
 114. 
 Rudrah. 
-As he causes beings to ery (Rud to cry ') when he destroys them at the time of involution. Rudra may mean he confers (Ra' to give) good ('Rud"), or he destroys (Dra) the misery and its cause (Ru). 
+As he causes beings to cry (Rud to cry ') when he destroys them at the time of involution. Rudra may mean he confers ('Ra' to give) good ('Rud"), or he destroys (Dra) the misery and its cause (Ru). 
 115. Myriad-headed (Bahusirah). 
 44 
 The Sruti (Tai. Ar., 3-12) says: He is thousand- headed." 
@@ -855,17 +855,17 @@ Vya. Vishvake on all sides, Sena : Ina-Lord, i.e., he is always with his devotee
 Men: wicked men. Or he who sends to hell; or he whom men (Jana) pray (ardana) for all kinds of prosperity and eternal happiness." 
 Vya. He is the promulgator of the Vedas. 
 127. Scriptures (Vedah). 
-* 
+
 Lord (Bh. G., 10-11) says: Out of mere compassion for them, I, abiding in their Self, destroy the darkness born of ignorance, by the luminous lamp of wisdom." 
 128. The knower of Vedas (Vedavid). 
 s' 
-++ 
+
 As they are. Lord (Bh. G., 15-15) says: I am the author of the Vedinta, as well as the knower of the Vedas.' The Mahabharata says: All the Vedas, all the Vidyas, all the Sastras, all the Yajnas, and all offerings, are Krishna; those Brahmanas that know Krishna in reality, have per- formed all the sacrifices." 
 129. The perfect (Avyangah). 
 In his wisdom, etc.; or it means the unmanifested. Lord (Bb. G., 2-15) says: He is unmanifested." 
 130. With the Vedas as his parts (Vedängah). 
 44 
-+ 
+
 Vya. The Sruti (Tai. Br., 3-55) says: The one who does not know the Vedas knows not the omnipresent one.' 
 131. Spreading the knowledge of the Vedas (Veda- vid). 
 Fya. He understands by the Vedas hundreds of Dharmas, which are to be learned. 
@@ -879,7 +879,7 @@ There is no seer
 except Him." (Isa. Up., 8): The Seer, Intelligent . . . 
 133. The Lord of the worlds (Lokadhyakshah). 
 He is mainly the witness of all worlds. 
-* 
+
 (Slo. 27) 
 Vya. He is the Superintendent of the administration of justice. 
 134. The Lord of the Devas (Suradhyakshah). 
@@ -891,7 +891,7 @@ As He directly perceives virtue and vice with the view of bestowing appropriate 
 Cause and effect (Kritakritah). 
 Vya. He investigates, whether one deserves or not, to be bestowed with the corresponding results. 
 137. Fourfold in his nature (Chaturatma). 
-** 
+
 (769) 
 He has four manifestations during evolution. The Vishnu Pr. (1-22) says: Brahma, Daksha, and others, time, and all creatures are the (four) energies of Hari which are the causes of creation. Vishnu, Manu and others, time, and all creatures are the (four) energies of Vishnu for protection. Rudra, the destroying fire, death, and all crea- tures are the four energies of Janardana for universal dissolution," 
 138. Of four manifestations (Chaturvyühah). 
@@ -925,7 +925,7 @@ Vya. He endures all dieregards shown by the devotees
 As He manifests himself as Hiranyagarbha in the beginning of the Universe. 
 146. The sinless (Anaghah). 
 sin." 
-+ 
+
 (831) 
 The Sruti (Chcha. Up., 8-1-5) says: He is free from 
 Vya. He is untainted by sin though he resides in the centre of the Samsara (in his incarnations). 
@@ -948,7 +948,7 @@ You
 So the 
 But 
 Because he begged of Bali in the form of a dwarf. according to the gloss, he checked (Vamayati) the pride of Bali, hence he is called (‘Vamana '). Vamana is to be worshipped in that form. The Sruti (Kath, Up., 5-3) says: Him, the dwarf, sitting in the middle (of the heart) all gods adore." 
-* 
+
 153. The tall (Prämsub). 
 As the very same (dwarf) instantly became taller than the three worlds. The Harivamsa (262-263) says: When the water (accompanying the gift) was poured into his hands, the dwarf was no longer a dwarf. The Lord manifested His Universal form; the earth was his feet, the sky, his head and the sun and moon his eyes." Having thus manifested His Cosmic form, He traversed the earth. Then (when he rose up high) the sun and moon came up to his chost. When he walked up the middle region, they (the sun and moon) reached his navel; and when he was in the world of gods they were below his knees," 
 154. Fruitful (Amoghab). 
@@ -996,7 +996,7 @@ Ka: Madhava; Ma, meditation; dha, introspection; and va, uniting.
 168. The honey (Madhuh). 
 Causing great happiness like honey. 
 169. Transcending all senses (Atındriyah), 
-** 
+
 As he is not sound, etc., that are the objects of senses. The Sruti (Kath. Up., 3-15) says: He is soundless, untouched." 
 170. The great illusionist (Mahāmāyah). 
 As he subjects even the greatest illusionist to illusion. Lord (Bh. Gita, 7-14) says: My Maya is very difficult to 
@@ -1085,7 +1085,7 @@ Hamsah.
 As He removes the fear of Samsara of those that medi- tate upon Him as 'I am He'. Or the root 'Han' means to go (to move). Hence, he that moves in all bodies. The Srati (Kath. Up., 5-2) says: "He is Hamsa dwelling in Heaven." 
 192. Of beautiful wings (Supurnah). 
 etc. 
-* 
+
 (855) 
 The Sruti (Sve. Up., 4-6) says: There are two birds, 
 Vya. He leads (the devotees) to the other shore of the ocean of Samsara. 
@@ -1433,7 +1433,7 @@ The Lord (natha); He is sought (náth) by all beings, or he burns them, or he is
 291. The purifier (Pavanah). 
 Lord (Bh. G., 10-31) says: Of purifiers I am the wind." 
 Vya. The mover. 
-* 
+
 292. He who causes motion (in wind, etc.) (Pavanah). The Sruti (Tai. Up., 2-7) says: From fear of Him the wind blowɛ.** 
 293. The fire (Analah). 
 (711) 
@@ -1493,7 +1493,7 @@ Being the highest Bliss. Or He who is worshipped in the Yajnas (sacrifices).
 309. The permeated (Avisishtah). 
 As Antaryamin (indweller) in all. 
 Vya. Even the ignorant ones equally wish (to see Him). 310. Loved by the learned (Sishteshtah). 
-* 
+
 Or He loves the learned. Lord (Bh. G., 7-17) says: For, excessively dear am I to the Jnani, and he is dear to me ; or beloved of the wise. 
 311. The peacock-feathered (Sikhandi). 
 As Krishna in his aspect of a cowherd boy. 
@@ -1534,7 +1534,7 @@ As he was born to Kasyapa by Aditi.
 Vya. In the Karma incarnation concerning the chur- ning of the ocean. 
 323. The ocean (Apām nidhih). 
 tion. 
-* 
+
 Lord (Bh. G., 10-24) says: Of lakes I am the ocean. Vya. This refers also to the previous Kūṛma incarna- 
 324. The mainstay (Adhishthanam). 
 Of Beings as the material cause of the Universe. Lord (Bh. Gita, 9-4) says: All beings are in me." 
@@ -1818,7 +1818,7 @@ As it brings the smell. Lord (Bh. G., 7-9) says: am the agreeable odour in the E
 I 
 Vya. He himself approaches all the places irres- pectively. 
 415. Adhokshajah. 
-++ 
+
 The Udyoga Parva (Maha., 71-10) says: At no time my vitality flows downward, hence I am named Adhoksbaja.” Or Adhah: the Earth; aksha: heaven; ja: born, as he was born as Vairaja in the middle region between the earth and heaven. 
 (Slo. 57) 
 416. Seasons (Rituh), 
@@ -1904,7 +1904,7 @@ As the sacrificial animals are bound to the Yapa, He is the resting place of all
 Because the sacrifices dedicated to him confer Nir- vana or salvation. 
 Vya. He is to be worshipped by yajna as it is his. 
 440. Nave of the stars (Nakshatranemih). 
-* 
+
 According to the stanza, The planets, sun, moon, etc., the stars moving and fixed, are bound to Dhruva by the bonds of Vayu." Dhruva regulates the motions of the sys- tems and resides at the tail of the starry Simsumara-wheel. At the heart of the wheel of the luminaries is Vishnu like a nave, regulating the whole. The Svadhyaya Brahmana (Tai. Ar., 2-19) in describing the Sims'amāra says: ** Vishnu is the heart." 
 441. The Moon (Nakshatri). 
 The Bh. G. (10-21) says: 
@@ -2065,7 +2065,7 @@ VISHNU SAHASRANAMA
 97 
 490. 
 The first Deity (Adidevab). 
-+ 
+
 through whom all the beings came 
 He is the first 
 to exist. 
@@ -2315,7 +2315,7 @@ The bow named Sarnga which He wields symbolises the senses and the rest.
 568. With a punishing axe (Khandaparasuh or Akhandaparusuh). 
 Punishing the foes with his axe during the incarnation of Parasurama, the son of Jamadagni ; or the name may be taken as Akhandaparasuh,' meaning wielding. 
 569. 
-* 
+
 Merciless (Darunah). 
 Towards the evil-doers. 
 570. The giver of wealth (Dravinapradab). 
@@ -2444,7 +2444,7 @@ Like the lotus.
 Beautiful-limbed (Svangah). 
 $17. Of infinite bliss (Satānandah). 
 (Slo. 78) 
-** 
+
 The One Supreme Bliss becomes many through variety of vehicles. The Sruti (Br. Up., 6-3-32) says: Of this bliss, all other beings enjoy only a part.” 
 618. The Supreme Bliss (Nandih), 
 Fyd. He is worshipped by the independent Lakshmi. 619. The Lord of the hosts of luminarios (Jyotir- ganesvarab). 
@@ -2452,7 +2452,7 @@ Fyd. He is worshipped by the independent Lakshmi. 619. The Lord of the hosts of 
 The Sruti (Kath., 5-15) says: When He shines all 
 others shine after Him." The Smriti also (Bh. G., 15-12) says: That light which is in the Sun. 
 620. 
-** 
+
 Of conquered mind (Vijitātmā). 
 Vya. His mind was inclined towards Sita. 
 621. Of unfathomed nature (Avidheyātmā.) (Vidhe- 
@@ -2538,7 +2538,7 @@ As He is the indweller (Antaryamin) of the three worlds; or as the three worlds 
 647. The ruler of the three worlds (Trilokesah). 
 The three worlds, ordained by him, attend to their respective functions. 
 648. Kesavab. 
-* 
+
 Kesas are the rays which are in the Sun and the rest; as he is the possessor of them he is named Kesava. Mahabharata (Sin. Par., 342-49) says: 'The rays of mine which illuminate (the sun, etc.), are called Kesas. The wise Brahmanas call me therefore by the name Kesava " or, the Saktis or energies called Brahma, Vishnu and Rudra are named Kesas; as he rules over them he is Kesava. The 
 There are three Kesins.. Sruti (Rig, 1-164-44) says : 
 要看 
@@ -2632,7 +2632,7 @@ VISHNU SAHASRANAMA
 He, by whose light the sun and other luminaries have become possessed of light, is of great radiance. Lord (Bh. G., 15-12) says: The light which is in the sun. . ." 
 Vya. He possesses the qualities of valour, etc. 
 674. The great serpent (Mahoragah). 
-** 
+
 Lord (Bh. G., 10-21) says: Of serpents I am Vasuki." Vya. The great Sesha and other serpents are his vibhutis (manifestations). 
 675. The great sacrifice (Mahākratuh). 
 Manu (11-260) says: 
@@ -2840,7 +2840,7 @@ them under his control.
 The Sruti (Mun. Up., 5-3) says: When the beholder beholds the golden-coloured. 
 738. 
 With limbs like gold (Hemangab). 
-+ 
+
 The Sruti (Chcha. Up., 1-6-6) says: That this golden 
 person seen in the disc of the sun. 
 739. 
@@ -3180,7 +3180,7 @@ Vya. He increases the progeny according to His own liking.
 (Slo. 103), 
 He that bears the weight of the Earth in the form of Ananta or Adisesba, etc. 
 Vya. He bears the weight of bondage and freedom of the Muktas, the liberated ones. 
-++ 
+
 848. He that is described (Kathitah). 
 He alone is declared as Supreme by Veda, etc.; or He that is described by all the Vedas. The Sruti (Kath. Up.. 2-15) says: "All the Vedas describe of whom. . . 
 " The Smriti (Bh. G., 15-15) says: "I am that which is to be known by all the Vedas." (Harivamsa, 323-93) says: Vishnu is sung everywhere at the beginning, middle, and at the end of the Vedas, Ramāyana, holy Bhārata, ◊ best of Bharata race." The Sruti (Kath. Up., 3-9) says: ** He obtains the goal of the road, the highest place of Vishnu.". In answer to the doubt as to what is the nature of the highest goal, the highest place of the all-pervading Vishnu, it is described as being above all senses and the rest. He is called Kathita' (declared) who has been described in the passages beginning with (Kath. Up., 3-10) “Higher indeed than the senses are their objects,” and ending with (3-11) Higher than the Purusha is nought; this is the last limit and the highest goal ". 
@@ -3316,7 +3316,7 @@ Because the three worlds rest on Him, who wants no support, being Brahman.
 The Sruti (Kath. Up., 2-7) says: Who cannot be attained by many even by hearing; whom, many though hearing, do not know; the expounder of him is a wonder and able is he who obtains him; wonderful is the knower instructed by the able." The Lord (Bh. G., 2-29) says: One sees him like a wonder." Or wonderful; because of his form, power, transaction, etc. 
 (Sto. 108) 
 896. Of long duration (Sanat). 
-* 
+
 Time is the manifestation of the supreme One. The Vishnu Purana (1-2-15) says: The first emanation, O Dvija, of Parabrahman is Purusha. 
 Vyakta and Avyakta. The last is Time." 
 Vya. Sanat means worship. 
@@ -3360,7 +3360,7 @@ He holds in his hand the chakra called Sudarsana which represents the principle 
 Vishnu holds in his hand the chakra which represents the mind, which is unsteady, and which is swifter than the wind." 
 909. Endowed with prowess (Vikramı). 
 Or the movement of his feet; these two being so pecu- liar to him as distinguished from all other persons, he is called Vikrami. 
-++ 
+
 910. Of powerful commands (Urjitasasanah). 
 In the shape of Sruti and Smriti. The Lord says: ' The Sruti and Smriti are my commands and he who overrides them is a violator of law and my hater. Such a man though he may be my devotee is not a Vaishnava.” 
 911. Transcending speech (Sabdatigal:). 
@@ -3505,7 +3505,7 @@ Is the monosyllable 'Om' denoting Paramātman. He is called Pranava itself as bo
 He, the wise, remains 
 The Sruti (Tai. År., 3-12) says: creating various forms and giving names to each." Or the word 'Pana' indirectly gives the following meaning: he who awards, to those that are entitled, the collective virtues of their good Karmas. 
 959. Wisdom (Pramānam). 
-+ 
+
 (Slo. 115) 
 Which is self-shining in him. The Sruti (Ai. Up., 3-3) says: The wisdom is Brahman." The Vishnu Pr. (1-2-6) says: The nature of knowledge is in reality extremely pure. Through illusionary understanding of it, it appears as objects." 
 960. 
