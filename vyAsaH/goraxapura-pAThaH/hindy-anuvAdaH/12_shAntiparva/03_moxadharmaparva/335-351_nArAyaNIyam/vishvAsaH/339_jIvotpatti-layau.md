@@ -122,6 +122,11 @@ Most shAnkara-s have uncritically followed suit. तद्-अनुयायि
 
 Some have adjusted for it in [various ways](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/misadvertisement/kas_saguNam_brahma). 
 
+If one claims that shankara represented pAncharAtra accurately, more than current pAncharAtra practice does, given that it does not include some fringe sects like that of vAmanadatta he should consider this argument as misleading as the following claim -  
+
+> "There was a dwarf in our village 10 generations ago. We have none. So, our current population is not representative of our population in the past - that weird description by some rival from that time is likely to be true."
+
+And no surprise that ratnAkara of haravijaya follows rAmakaNTha.
 
 ### भास्करः
 भास्करोऽपि शङ्करम् एवानुसरति -
