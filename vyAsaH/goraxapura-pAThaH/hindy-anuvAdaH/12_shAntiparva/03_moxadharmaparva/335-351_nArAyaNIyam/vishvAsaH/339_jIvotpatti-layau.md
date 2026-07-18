@@ -237,7 +237,7 @@ because some shaivas don't mention it.
 
 He further notes:
 
-> in the Vaikhānasa literature and, as we will see presently, in the Pāñcarātra scriptures, different types of Pāñcarātrika are distinguished from one another not on account of opposing philosophical positions, but rather because of such factors as their different religious goals, liturgical practices, social class \( *varṇa*\), customs, everyday habits, and religious insignia. 
+> in the Vaikhānasa literature and, as we will see presently, in the Pāñcarātra scriptures, different types of Pāñcarātrika are distinguished from one another not on account of opposing philosophical positions, but rather because of such factors as their different religious goals, liturgical practices, social class \( *varṇa*\), customs, everyday habits, and religious insignia.
 
 ### Notice by others
 vaikhAnasa shrInivAsa makhI, shrIvaiShNava yAmuna, rAmAnuja have all noted shankara's error here. 
@@ -259,3 +259,12 @@ Relying on pUrvapaxa-s alone is risky.
 
 Example - You can go by early shrIvaiShNava-s and "deduce" that shaivas are anti-varNa. They (eg. yAmuna) discussed pAshupatas, kAlAmukhas and kApAlikas; and some of their tenets (similar to what one sees in kAshmIri shaiva texts). Yet, reading that would give you no clue about the sadyojyotiSh type varNa-conforming sect.
 
+### उत्पत्ति-शब्दाज्ञानम्
+Some people use jIva-gosvAmi's viShNu-dharmottara quote to claim that jIvotpatti was found in pAncharAtra. But the quote does not say so - only mentions sRShTi:
+
+> जीवस्यान्यस्य सर्गेण नरे मुक्तिम् उपागते ।  
+> अचिन्त्य-शक्तिर् भगवान् जगत् पूरयते सदा ॥  
+> ब्रह्मणा सह मुच्यन्ते ब्रह्म-लोकम् उपागताः ।  
+> सृज्यन्ते च महा-कल्पे तद्-विधाश् चापरे जनाः ॥ [वि।ध।पु। १.८१.११-१४] इति ।
+
+This confusion arises from inability to distinguish सृज्यन्ते (→सृष्टि) from उत्पत्ति. The former (entry into the universe) is well known and accepted, the latter (meaning de-novo creation) is not in vedAnta or pAncharAtra or viShNu-dharmottara.
