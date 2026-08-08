@@ -158,4 +158,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/3499/295/sharam/1-shar
 
 डाम्भिकत्वादीति ॥ आदिपदान् महाभक्त्यभावसङ्ग्रहः ।
 
-[Load More](javaऽcriptःvoid(0))

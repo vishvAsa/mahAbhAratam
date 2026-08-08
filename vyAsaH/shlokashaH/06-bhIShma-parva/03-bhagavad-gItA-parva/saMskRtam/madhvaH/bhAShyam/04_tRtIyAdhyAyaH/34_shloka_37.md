@@ -48,4 +48,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2908/295/sharam/1-shar
 
 ॥ निन्दकाय क्रुद्ध्यतीति ॥‘क्रुध-द्रुह-ईर्ष्या-असूयार्थानां यं प्रति कोपः’ इति सम्प्रदानत्वाच्चतुर्थी ॥ ३६ ॥
 
-[Load More](javaऽcriptःvoid(0))

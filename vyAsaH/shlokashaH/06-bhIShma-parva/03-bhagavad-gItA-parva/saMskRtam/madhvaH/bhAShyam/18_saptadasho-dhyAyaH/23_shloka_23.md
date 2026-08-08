@@ -166,4 +166,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/3776/295/sharam/1-shar
 
 ॥ भूतोक्तीति ॥ परब्रह्मार्थत्वे तथाभूतोक्तिसम्भवेनेत्यर्थः । नन्वात्मपूजार्थमित्ययुक्तम् । भगवत आप्तकामत्वादित्यत आह– आत्मपूजयेति ॥
 
-[Load More](javaऽcriptःvoid(0))

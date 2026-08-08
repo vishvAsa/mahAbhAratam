@@ -70,4 +70,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/3504/295/sharam/1-shar
 
 यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥ १ ॥
 
-[Load More](javaऽcriptःvoid(0))

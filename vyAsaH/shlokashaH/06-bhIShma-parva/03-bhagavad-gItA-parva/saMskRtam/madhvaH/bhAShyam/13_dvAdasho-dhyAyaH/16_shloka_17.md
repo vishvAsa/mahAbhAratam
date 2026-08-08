@@ -46,4 +46,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/3628/295/sharam/1-shar
 
 ॥ १६ ॥
 
-[Load More](javaऽcriptःvoid(0))

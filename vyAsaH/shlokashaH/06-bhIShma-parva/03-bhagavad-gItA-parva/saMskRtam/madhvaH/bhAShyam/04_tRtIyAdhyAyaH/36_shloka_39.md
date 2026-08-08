@@ -94,4 +94,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2910/295/sharam/1-shar
 
 ॥ रूप्यतेऽनयेति रूपमिति ॥ करणे घञ् ॥
 
-[Load More](javaऽcriptःvoid(0))
