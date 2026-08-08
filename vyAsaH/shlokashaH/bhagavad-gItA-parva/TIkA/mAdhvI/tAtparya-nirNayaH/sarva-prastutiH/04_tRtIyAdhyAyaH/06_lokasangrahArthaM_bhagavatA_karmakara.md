@@ -40,4 +40,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2177/567/sharam/2-shar
 
 प्रयोजनमात्ररहितेनेति । स्वसंबन्धिप्रयोजनमात्ररहितेनेत्यर्थः । प्रवृत्यगादिति ॥ प्रयोजनमनुद्दिश्य न मन्दोपि प्रवर्तते इत्युक्तत्वादिति भावः ॥ २२ ॥
 
-[Load More](javaऽcriptःvoid(0))

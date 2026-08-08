@@ -52,4 +52,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2475/567/sharam/2-shar
 
 लक्ष्मीति श्रीरुच्यत इति । मूलरूपस्याबन्धकत्वाद् लक्ष्मिशब्देन श्रियो ग्रहणमिति भावः ॥ २६ ॥
 
-[Load More](javaऽcriptःvoid(0))

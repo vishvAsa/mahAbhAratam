@@ -64,4 +64,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2483/567/sharam/2-shar
 
 न्यायदीपिकाव्याख्याने वाक्यविवेके पञ्चदशोऽध्यायः ॥
 
-[Load More](javaऽcriptःvoid(0))
