@@ -10,6 +10,22 @@ Can VS can be recited by V4s and women?
 
 > Interestingly about MS singing vishnu sahasranama apparently MP justified it telling she is some avatara or some brahmajnAni in her past life so she can. Atleast thats what I heard. -SV
 
+Narasiṃha Vājapeyī (Nityācārapradīpa) disagrees with Ādi Śaṅkarācārya on the issue of Śūdra's adhikāra for chanting Viṣṇusahasranāma.
+
+> "य इदं शृणुयान्नित्यं यश्चापि परिकीर्त्तयेत् ।"
+इति विधिः । परिकीर्त्तनं जपः । स च त्रिविधः । मानस-
+वाचिकोपांशुभेदात् ।  
+कुत एवं “किं जपन् मुच्यते जन्तुः” इत्युपक्रमे ऽभिधानात् ।  
+“शूद्रः सुखमवाप्नुयात् श्रवणेन” इति शङ्कराचार्याः ।  
+>
+> वस्तुतः “स्तवैर् अर्चेन् नरः सदा ।”  
+“किं जपन् मुच्यते जन्तुर्” इत्य् उपक्रमे ऽभिधानात्  
+स्तोत्रजपे शूद्रस्याप्य् अधिकार-प्रतीतिः ।+++(4)+++  
+किञ्च “श्रावयेच् चतुरो वर्णान्” इति विधेः  
+“शृणुयात्” इति पर्यवसानात्  
+श्रवणस्य चानुष्ठानार्थत्वात्  
+स्तोत्रपाठानुष्ठानेऽपि शूद्रस्याधिकारः ।
+
 ## श्रीवैष्णवाः
 पराशर-भट्टः - 
 

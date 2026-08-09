@@ -35,6 +35,12 @@ However, this advice was conveniently ignored and has infact been the source of 
 After Adi Shankara who followed Perumal's advice in the Varaha purana to confuse human beings, the Paramacharya has been faithful to Adi Sankara to letter and spirit.+++(5)+++ The relevant shloka is as follows: "Tvam hi Rudra Mahaabhaago moha shaastraani kaaraya, Darshayitvaa alpamaayaasam phalam sheegram pradarshaya".  
 Meaning - hey great Rudra, compose shastras that confuse people so that you can show them that with minimal effort they can attain the fruits quickly. 
 
-This could also be one of the reasons why the Paramacharya asked MS to recite the Vishnu Sahasranamam. He has also made a very vain attempt in asking Ananthakrishna Shastri to write a book Shatabhooshani trying to repulse Swami Desika's attacks on Advaitam through his masterpiece Shatadooshani. However, it was a tremendous failure after Kozhialam Swami's 'Para matha niraakrithi' and Uttamoor Swami's 'Paramaartha Bhooshanam' running to more than a thousand pages in chaste Sanskrit. It is ideal for the Sri Vaishnava Sampradayam to take a leaf out of its own Acharyas than resort to the likes of MS, Paramacharya, Ramana Maharishi, Ramakrishna Paramahamsa, Vivekananda and the like. Adiyen Ramanuja Dasan, Shrimathey Ramanujaaya NamahaShrimathey Nigamaantha Maha Deshikaya Namaha Ram Anbil 
+This could also be one of the reasons why the Paramacharya asked MS to recite the Vishnu Sahasranamam. 
+
+He has also made a very vain attempt in asking Ananthakrishna Shastri to write a book Shatabhooshani trying to repulse Swami Desika's attacks on Advaitam through his masterpiece Shatadooshani. However, it was a tremendous failure after Kozhialam Swami's 'Para matha niraakrithi' and Uttamoor Swami's 'Paramaartha Bhooshanam' running to more than a thousand pages in chaste Sanskrit. 
+
+It is ideal for the Sri Vaishnava Sampradayam to take a leaf out of its own Acharyas than resort to the likes of MS, Paramacharya, Ramana Maharishi, Ramakrishna Paramahamsa, Vivekananda and the like. 
+
+Adiyen Ramanuja Dasan, Shrimathey Ramanujaaya NamahaShrimathey Nigamaantha Maha Deshikaya Namaha Ram Anbil 
 
 
