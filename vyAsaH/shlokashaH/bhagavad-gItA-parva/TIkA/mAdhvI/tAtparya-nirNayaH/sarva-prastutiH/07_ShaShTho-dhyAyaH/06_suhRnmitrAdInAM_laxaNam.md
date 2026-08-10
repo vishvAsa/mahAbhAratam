@@ -110,4 +110,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2257/567/sharam/2-shar
 
 प्रतीत एवार्थः किं न स्याद् इत्यत आह ॥ अन्यथा तोषायोगादिति । आत्मनि तुष्यतीत्युक्ततोषायोगादित्यर्थः ॥ २० ॥
 
-[Load More](javaऽcriptःvoid(0))

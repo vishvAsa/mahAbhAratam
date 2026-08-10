@@ -106,4 +106,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2203/567/sharam/2-shar
 
 विशेषणं प्रयुक्तमिति । मामित्यस्य स्वत्वव्यावर्त्तकत्त्वाद् विशेषणत्वमिति बोध्यम् ॥ १४ ॥
 
-[Load More](javaऽcriptःvoid(0))

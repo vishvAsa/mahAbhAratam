@@ -74,4 +74,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2415/567/sharam/2-shar
 
 तात्पर्यनिर्णयन्यायदीपिकाभावप्रकाशे द्वादशोऽध्यायः ॥
 
-[Load More](javaऽcriptःvoid(0))

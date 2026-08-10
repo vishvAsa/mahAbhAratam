@@ -60,4 +60,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2176/567/sharam/2-shar
 
 एतेनासंप्रज्ञातसमाधिस्थज्ञानिपरतया भाष्ये व्याख्यातत्त्वात् तन्मतदूषणे भाष्यमेव दूषितं स्यादिति परास्तम् ॥ १९ ॥
 
-[Load More](javaऽcriptःvoid(0))
