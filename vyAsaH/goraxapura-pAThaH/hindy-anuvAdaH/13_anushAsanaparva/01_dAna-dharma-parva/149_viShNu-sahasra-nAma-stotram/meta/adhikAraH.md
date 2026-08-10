@@ -41,3 +41,5 @@ Narasiṃha Vājapeyī (Nityācārapradīpa) disagrees with Ādi Śaṅkarācār
 इतिहासपुराणपठने तेषां नाधिकारः इति । And in particular male SVs shouldnt learn VS pre pancasamskAra(itihAsa purANas are taught only after 5S in our sampradAya). (Recalled an incident where swamy learnt VS before his 5S and was scolded.)
 
 इति करुणाकराचार्यः शब्दान्तरैः। 
+
+> Mahamahopadhyaya NCH raghunathacharya(Warangal) in his telugu commentary on BhagavadGunadarpanam gives eloborate explanation on why adhikara on recitation for all and who is anadhikari(deaf, stutter, Old etc)
