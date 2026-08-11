@@ -8,6 +8,28 @@ Can VS can be recited by V4s and women?
 
 > शूद्रः सुखमवाप्नुयात् श्रवणेनैव, न तु जपयज्ञेन, 'तस्माच्छूद्रो यज्ञेऽनवक्लृप्तः' इति श्रुतेः।
 
+इति शाङ्कर-विस्णु-सहस्र-नाम-भाष्ये। 
+
+
+Appayya Dīkṣita's (Source: Nyāyarakṣāmaṇi (1.3.38)) input on Viṣṇusahasranāma
+
+> तथा च  
+>
+> > 'श्रावयेच्चतुरो वर्णान्  
+कृत्वा ब्राह्मणम् अग्रतः'  
+>
+> > ‘शूद्रस्सुखमवाप्नुयात्' 
+>
+> इत्य्-आदि-वचनैर् इतिहास-पुराण-श्रवण-पठनाधिकारित्वेनावगतस्य शूद्रस्य  
+तच्-छ्रवण-नियम-संपाद्यम् अदृष्टं विना  
+लिखित-पाठ-गृहीत-वेदान्तादिभिः कथम् अप्रतिबद्ध-ब्रह्मावगति-सम्भवः ।
+
+यदि स्तोत्रपाठस्योद्देशो मनोरञ्जनम्, तर्हि पठनाधिकारः प्रयुज्यताम्।  
+यदि तु (भगवत्-प्रीत्या) ऽदृष्टम् इष्टम्, तर्हि श्रवण-नियमोऽभिप्रेतः।
+अदृष्टस्य कबन्धमीमांसककल्पितपदार्थस्य राहुमीमांसकपरिगृहीतस्य फलेषु  
+ब्रह्मावगतिर् अन्तर्भूता,  
+किञ्च पुरुषार्थान्तराण्य् अपि वर्तन्ते। 
+
 > Interestingly about MS singing vishnu sahasranama apparently MP justified it telling she is some avatara or some brahmajnAni in her past life so she can. Atleast thats what I heard. -SV
 
 Narasiṃha Vājapeyī (Nityācārapradīpa) disagrees with Ādi Śaṅkarācārya on the issue of Śūdra's adhikāra for chanting Viṣṇusahasranāma.
@@ -25,6 +47,7 @@ Narasiṃha Vājapeyī (Nityācārapradīpa) disagrees with Ādi Śaṅkarācār
 “शृणुयात्” इति पर्यवसानात्  
 श्रवणस्य चानुष्ठानार्थत्वात्  
 स्तोत्रपाठानुष्ठानेऽपि शूद्रस्याधिकारः ।
+
 
 ## श्रीवैष्णवाः
 पराशर-भट्टः - 
