@@ -344,4 +344,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2357/567/sharam/2-shar
 
 ॥ ४१ ॥
 
-[Load More](javaऽcriptःvoid(0))

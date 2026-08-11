@@ -190,4 +190,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2234/567/sharam/2-shar
 
 विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः ॥ २८ ॥
 
-[Load More](javaऽcriptःvoid(0))

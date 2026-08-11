@@ -34,4 +34,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2092/567/sharam/2-shar
 
 आश्चर्यपदार्थमाह । स्वातन्त्र्येति ॥ २७ ॥
 
-[Load More](javaऽcriptःvoid(0))

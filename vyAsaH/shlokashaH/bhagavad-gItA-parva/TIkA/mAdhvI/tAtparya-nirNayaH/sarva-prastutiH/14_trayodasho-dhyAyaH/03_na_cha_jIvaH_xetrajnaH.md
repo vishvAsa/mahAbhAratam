@@ -138,4 +138,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2423/567/sharam/2-shar
 
 सङ्घातस्य तत्कार्यत्वं कथमुच्यत इति ॥ सङ्घातस्य क्षेत्ररूपत्वातु सङ्घातस्य क्षेत्रकार्यत्वं कथमुच्यत इत्याशङ्कामित्यर्थः ॥ ७ ॥
 
-[Load More](javaऽcriptःvoid(0))

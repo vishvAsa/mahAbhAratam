@@ -24,4 +24,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2086/567/sharam/2-shar
 
 नैनं छिन्दन्तीति श्लोकानुसारेणान्यथात्वमित्येतद्व्याचष्टे । च्छेदादीति ॥ २३ ॥
 
-[Load More](javaऽcriptःvoid(0))

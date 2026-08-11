@@ -48,4 +48,3 @@ upstream_url = "https://dvaitavedanta.in/category-details/2531/567/sharam/2-shar
 
 अव्यभिचारि शब्दस्यास्खलनमर्थ इति मत्वा शङ्कते । धृतिश्चेदिति ॥ ३३,३४ ॥
 
-[Load More](javaऽcriptःvoid(0))
