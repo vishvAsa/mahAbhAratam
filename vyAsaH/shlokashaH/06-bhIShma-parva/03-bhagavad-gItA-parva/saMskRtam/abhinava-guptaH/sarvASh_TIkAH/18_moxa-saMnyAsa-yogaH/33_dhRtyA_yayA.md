@@ -1,0 +1,13 @@
++++
+title = "33 धृत्या यया"
++++
+
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
+
+[[अग्रे व्याख्यातम्]]
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.33 See Comment under 18.35
+</details>

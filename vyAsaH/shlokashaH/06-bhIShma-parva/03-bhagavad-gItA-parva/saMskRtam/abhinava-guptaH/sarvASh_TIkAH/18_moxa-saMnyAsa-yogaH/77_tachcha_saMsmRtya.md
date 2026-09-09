@@ -1,0 +1,13 @@
++++
+title = "77 तच्च संस्मृत्य"
++++
+
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
+
+[[अग्रे व्याख्यातम्]]
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+18.77 See Comment under 18.78
+</details>

@@ -1,0 +1,25 @@
++++
+title = "51 बुद्ध्या विशुद्धया"
++++
+
+<details><summary>रामानुजः - मूलम्</summary>
+
+॥18.51॥**बुद्ध्या विशुद्धया** यथावस्थितात्मतत्त्वविषयया **युक्तः; धृत्या आत्मानं नियम्य च**,विषयविमुखीकरणेन योगयोग्यं मनः कृत्वा; **शब्दादीन् विषयान् त्यक्त्वा** असन्निहितान् कृत्वा; तन्निमित्तौ **च** रागद्वेषौ व्युदस्य; **विविक्तसेवी** सर्वैर् ध्यानविरोधिभिर् विविक्ते देशे वर्तमानः **लघ्वाशी** अत्यशनानशनरहितः; **यतवाक्कायमानसः** ध्यानाभिमुखीकृतकायवाङ्मनोवृत्तिः; **ध्यानयोगपरो नित्यम्** एवं भूतः सन् आप्रयाणाद् अहरहः ध्यानयोगपरः; **वैराग्यं समुपाश्रितः** ध्येयतत्त्वव्यतिरिक्तविषयदोषावमर्शेन तत्र विरागतां वर्धयन् **अहङ्कारम्;** अनात्मन्य् आत्माभिमानं **बलं** तद्विवृद्धिहेतुभूतं वासनाबलं तन्निमित्तं **दर्पं कामं क्रोधं परिग्रहं विमुच्य; निर्ममः** सर्वेष्व् अनात्मीयेष्व् आत्मीयबुद्धिरहितः **शान्तः** आत्मानुभवैकसुखः; एवम्भूतो ध्यानयोगं कुर्वन् **ब्रह्मभूयाय कल्पते** ब्रह्मभावाय कल्पते सर्वबन्धविनिर्मुक्तो यथावस्थितम् आत्मानम् अनुभवति इत्यर्थः।
+</details>
+
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥18.51॥ बुद्धिशब्दोऽत्र प्रस्तुतब्रह्मशब्दाभिप्रेतविषयबुद्धिगोचरः; तस्याः शुद्धिश्चासमग्रविषयत्वसंशयविपर्ययरूपदोषराहित्यमित्याहयथावस्थितात्मतत्त्वविषययेति। धृत्या इति पूर्वोक्तसप्रकारसात्त्विकधृतिपरामर्शमाहविषयविमुखीकरणेनेति। अत्र धृत्या मनोनियमनं कर्मोक्तम् अपि च पूर्वमेव त्यक्तविषयस्य कोऽसौ तदानीन्तनस्त्यागः इत्यत्राऽऽहअसन्निहितान् कृत्वेति। विषयसन्निधिर्हि विजितेन्द्रियमपि क्षोभयेदिति भावः। रागद्वेषौ व्युदस्य इति वैषयिकरागद्वेषयोर्व्युदासस्यापि तादात्विकविषयत्वायवैराग्यं समुपाश्रितः इत्यनेन पुनरुक्तिपरिहाराय चाऽऽहतन्निमित्ताविति। एतेन विषयासन्निधानफलप्रदर्शनम्। यद्वा विप्रकृष्टेष्वपि सूक्ष्मसङ्गो निरोद्धव्य इति भावः। ,विविक्तत्वं रहितत्वं तत्प्रकृतोपयोगेन विशिनष्टि -- सर्वैर्ध्यानविरोधिभिर्विविक्ते देश इति। लघ्वाशी इत्यनेन पूर्वोक्तन्नात्यश्नतः \[6।16\] इत्यादिकं स्मार्यत इत्यत्राऽऽहअत्यशनानशनरहित इति। धृत्याऽऽत्मानं नियम्य च इत्यादिनायतवाक्कायमानसः इत्यस्य पुनरुक्तिपरिहारायाहध्यानाभिमुखीकृतकायवाङ्मनोवृत्तिरिति। कायस्याभिमुखीकरणं स्थिरासनादिपरिग्रहः वाचस्तु प्रणवादिव्यतिरिक्तवर्जनम् मनसस्तु शुभाश्रयालम्बनम्। उक्तानां ध्यानयोगशेषत्वमाहएवम्भूतः सन्निति। नित्यशब्दविवक्षितमाहआप्रयाणादहरहरितिरागद्वेषौ व्युदस्य इति वैषयिकरागद्वेषयोर्व्युदासोक्तेःवैराग्यं समुपाश्रितः इत्येतदाभिमानिकविषयम्; तत्र सम्यगुपाश्रयणं पूर्वसिद्धस्यापि सम्यगवस्थापनमित्यभिप्रायेणविरागतां वर्धयन्नित्युक्तम्। एवमहङ्कारादिविमोचनेऽपि द्रष्टव्यम्।  
+        
+शरीरमनःप्राणादिबलानां योगविरोधित्वाभावात्वासनाबलमिति विशेषितम्। दर्पोऽत्राहङ्कारबलहेतुकोऽङ्गीकर्तव्यानङ्गीकारः। योगित्वशान्तत्वादिनिमित्तोऽपि दर्पस्त्याज्यःहृष्टो दृप्यति दृप्तो धर्ममतिक्रामति \[आ.ध.सू.1।13।4\] इति स्मरणात्। मनोवाक्कायव्यापारनिवृत्त्यादेरुक्तत्वाच्छान्तशब्दोऽत्र शमहेतुविशेषपर इत्यत्राऽऽहआत्मानुभवैकसुख इति। इन्द्रियव्यापारोपरतिः क्रोधादिनिवृत्तिश्च बाह्यसुखनिस्स्पृहत्वात्; तच्च प्रभूतात्मस्वसुखलाभादिति भावः। उक्तेषु सर्वेषु ध्यानयोगस्याङ्गित्वमाहएवम्भूतो ध्यानयोगं कुर्वन्निति। ध्यानमेवात्र योगः; ध्यानेन वा योगः। अनन्तरश्लोकार्थपरामर्शेन ब्रह्मशब्दस्यात्र शुद्धात्मविषयतामाहसर्वबन्धेति।
+</details>
+
+<details><summary>आदिदेवानन्दः</summary>
+
+18.51 - 18.53 'Endowed with a purified understanding' means endowed with the Buddhi capable of understanding the self as it is in reality;
+'subduing the mind by steadiness' means making the mind fit for meditation by turning away from external and internal objects;
+'relinishing sound and other objects of senses' means keeping them far away, casting aside love and hate occasioned by them (i.e., the sense objects). 'Resorting to solitude' means living in a lonely place free from hindrances to meditation; 'eat but little' means eating neither too much nor too little; 'restraining speech, body and mind' means directing the operations of body, speech and mind to meditation; 'ever engaged in the Yoga of meditation' means being like this, i.e., constantly engaged in the Yoga of meditation day after day until death; 'taking refuge in dispassion' means developing aversion to all objects except the one entity to be meditated upon, by considering the imperfections of all objects and thus cultivating detachment to everything. Forsaking
+'egoism' means abandoning the tendency to consider what is other than the self, as well as neutralising the power of forcible Vasnas
+(tendencies) which nourish (egoism), and the resulting pride, desire,
+wrath and possessiveness. 'With no feeling of mine' means free from the notion that what does not belong to oneself belongs to oneself; 'Who is tranil' means, who finds sole happiness in experiencing the self. One who has become like this and performs the Yoga of meditation becomes worthy for the state of Brahman. The meaning is that, freed from all bonds, he experiences the self as It really is.
+</details>
