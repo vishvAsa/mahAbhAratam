@@ -1,0 +1,13 @@
++++
+title = "06 कर्मेन्द्रियाणि संयम्य"
++++
+
+<details><summary>अभिनवगुप्तः - मूलम्</summary>
+
+॥3.6॥ कर्मेन्द्रियाणीति। कर्मेन्द्रियैश्चेन्न करोति अवश्यं तर्हि +++(S omits तर्हि)+++ मनसा करोति प्रत्युत सः मूढाचारः +++(The expressions मूढाचारः and मिथ्याचारः are found hereinafter interchanged in the MSS. )+++ मानसानां कर्मणामत्यन्तमपरिहार्यत्वात्।
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+3.6 Karmendriyani etc. If he does not act with his organs of action, then he necessarily acts with his mind. At the same time he is the man of deluded action; For, the mental actions can never be avoided totally.
+</details>
