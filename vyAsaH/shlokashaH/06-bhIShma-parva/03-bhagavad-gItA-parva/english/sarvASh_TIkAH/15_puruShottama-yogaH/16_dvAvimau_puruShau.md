@@ -1,0 +1,42 @@
++++
+title = "16 द्वाविमौ पुरुषौ"
++++
+
+<details><summary>आदिदेवानन्दः</summary>
+
+15.16 There are two kinds of Persons (Purusas) spoken of in the Sastra -
+the perishable (Ksara) and the imperishable (Aksara). The perishable is all beings and the imperishable is called the unchanging (Kutastha).
+</details>
+
+<details><summary>गम्भीरानन्दः</summary>
+
+15.16 There are these two persons in the world-the mutable and the immutable. The mutable consists of all things; the one existing as Maya is called the immutable.
+</details>
+
+<details><summary>पुरोहितस्वामी</summary>
+
+15.16 There are two aspects in Nature: the perishable and the imperishable. All life in this world belongs to the former, the unchanging element belongs to the latter.
+</details>
+
+<details><summary>शङ्करनारायणः</summary>
+
+15.16. There are two persons in the world, the perishing and the nonperishing : the perishing is all elements \[and\] the speak-like One is called the nonperishing.
+</details>
+
+<details><summary>शिवानन्दः - अनुवादः</summary>
+
+15.16 Two Purushas there are in this world, the perishable and the imperishable. All beings are the perishable and the Kutastha the unchanging is called the imperishable.
+</details>
+
+<details><summary>शिवानन्दः - टीका</summary>
+
+15.16 द्वौ two; इमौ these; पुरुषौ Purushas (beings); लोके in the world;
+क्षरः the perishable; च and; अक्षरः the imperishable; एव even; च and;
+क्षरः the perishable; सर्वाणि all; भूतानि beings; कूटस्थः the immutable
+(unchanging); अक्षरः the imperishable; उच्यते is called.Commentary Now the Lord describes the three aspects of the divine existence. One is the individual soul called the perishable; the second is the imperishable or the Maya Sakti of the Lord and the third is the Purushottama or the Supreme Being.The perishable comprises the whole world of changing forms. From Brahma down to the tiny blade of grass; all movable and immovable objects; all that can be thought of by the mind; all that is made up of the five elements; all that is changing; all that has names and forms; all that appears to the naked eye and what is described as the body and the modifications of the field; in the thirteenth chapter;
+are Kshara or the perishable. Kshara is the changing one. It is the everchanging form of matter which is inert or insentient. Akshara is the changeless.In Samsara there are two categories arranged in two separate groups of beings; called Purushas; as they are the limiting adjuncts of the Purusha. Maya Sakti; the illusory power of the Lord; is the seed from which the perishable being takes its birth. It is the seat of all the latent impressions of desires; actions; etc.; of various perishable creatures. Maya Sakti is the Akshara Purusha. The unmanifest condition is generally described as deep ignorance or sleep for there is neither consciousness nor unconsciousness. It is only a potential state. It is the condition in which all forms of life with its accompanying limitations lie latent; just as the tree lies latent in the seed of the fruit. In this state matter and energy are one. In this state sound;
+matter and energy exist in an undifferentiated state. In this state the Gunas exist in a state of eilibrium.The imperishable is known as the Kutastha; i.e.; that which remains immovable like a heap. That which is at the root (Kuta) of all these beings is the Kutastha. Or; Kuta also means illusion; and Kutastha means that which manifests itself in diverse forms of illusion. That which conceals the Truth and shows the false thing and deceives the worldyminded people is Maya or Kuta. That which is of the form of the AvaranaVikshepa Sakti (veiling and vacillating power) is Kutastha. As this Maya Sakti cannot be destroyed except by the knowledge of the Self; it is said to be endless. That is the reason why this is called Akshara. That seed of Samsara has no end.
+Therefore; it is said to be imperishable in the sense that it is not destroyed in the absence of knowledge of the Self. But the seed is scorched or destroyed in toto when one gets the knowledge of Brahman.
+The,illusion vanishes and everything is realised as the one Cosmic Consciousness. Only the illusory perception of matter is destroyed.Purushottama or the highest Purusha is distinct from these two
+-- the perishable and the imperishable. He is not affected by the evils of the two vehicles or limiting adjuncts of the perishable and the imperishable. He is eternal; pure; intelligent and free by nature.
+</details>
