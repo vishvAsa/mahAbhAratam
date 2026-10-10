@@ -4,6 +4,8 @@ title = "१८५ शरीराग्निवायुवर्णनम्"
 
 +++
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भागसूचना</summary>
 
 पञ्चाशीत्यधिकशततमोऽध्यायः
@@ -23,6 +25,7 @@ title = "१८५ शरीराग्निवायुवर्णनम्"
 
 Bharadvāja asked: 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -32,6 +35,8 @@ Bharadvāja asked:
 अवकाश-विशेषेण  
 **कथं वर्तयतेऽनिलः** ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -49,7 +54,6 @@ _भरद्वाजने पूछा—_ प्रभो! शरीरक�
 How in the body does the solid element present itself and what becomes of the heat? How also does space manifest itself, and how does the gaseous element circulate in the body?
 </details>
 
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 भृगुर् उवाच
@@ -58,6 +62,7 @@ How in the body does the solid element present itself and what becomes of the he
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bhṛgu said: 
+</details>
 </details>
 
 
@@ -68,6 +73,8 @@ Bhṛgu said:
 प्राणिनाम् अनिलो देहान्  
 यथा चेष्टयते बली ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -84,6 +91,7 @@ _भृगुने कहा—_ ब्रह्मन्! निष्पा�
 
 I shall, O sage, speak to you of the path by which  the gaseous element moves, and how, O sinless one, that mighty substance causes the bodies of organisms to move. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -93,6 +101,8 @@ I shall, O sage, speak to you of the path by which  the gaseous element moves, a
 प्राणो मूर्धनि चाग्नौ च  
 वर्तमानो विचेष्टते ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,6 +120,7 @@ I shall, O sage, speak to you of the path by which  the gaseous element moves, a
 Heat resides within the brain and takes care of the entire body.  
 The metabolic activity, Prāṇa, residing within the head, along with the heat, causes movements and actions. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +130,8 @@ The metabolic activity, Prāṇa, residing within the head, along with the heat,
 मनो बुद्धिर् अहङ्कारो  
 भूतानि विषयश् च सः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -135,6 +148,7 @@ The metabolic activity, Prāṇa, residing within the head, along with the heat,
 
 That is mark of life, the core of all life forms also known as the eternal puruṣa, basis of the mind, intelligence, and consciousness, as also sensory apparatus of of all organisms. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -144,6 +158,8 @@ That is mark of life, the core of all life forms also known as the eternal puru�
 पृष्ठतस् तु समानेन  
 स्वां स्वां गतिम् उपाश्रितः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,6 +176,7 @@ That is mark of life, the core of all life forms also known as the eternal puru�
 
 Thus the organism is, in every respect, controlled by the metabolic activities. At the basis of every activity is the metabolic process called Samāna, which makes every muscular activity run. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -169,6 +186,8 @@ Thus the organism is, in every respect, controlled by the metabolic activities. 
 वहन् मूत्रं पुरीषं चाप्य्  
 अपानः परिवर्तते ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -185,6 +204,7 @@ Thus the organism is, in every respect, controlled by the metabolic activities. 
 
 The metabolic process Apāna, depending on the metabolic energy that is in the urethra and the colon, acts, and is involved in excreting urine and feces. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +214,8 @@ The metabolic process Apāna, depending on the metabolic energy that is in the u
 उदान इति तं प्राहुर्  
 अध्यात्म-विदुषो जनाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,6 +232,7 @@ The metabolic process Apāna, depending on the metabolic energy that is in the u
 
 That unifying metabolic process, which operates in these three, is called Udāna by those that are conversant with science. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +242,8 @@ That unifying metabolic process, which operates in these three, is called Udāna
 शरीरेषु मनुष्याणां  
 व्यान इत्य् उपदिश्यते ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,6 +260,7 @@ That unifying metabolic process, which operates in these three, is called Udāna
 
 That metabolic process, which operates, residing in all the joints and nerves of beings’ bodies, is called Vyāna.  
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,6 +270,8 @@ That metabolic process, which operates, residing in all the joints and nerves of
 रसान् धातूंश् च दोषांश् च  
 **वर्तयन्न् अवतिष्ठते** ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -260,6 +288,7 @@ That metabolic process, which operates, residing in all the joints and nerves of
 
 The metabolic energy in the bodies of organisms is circulated all over by Samāna. Situated thus in the body, that process cause the circulation of different kinds of fluids, humors and substances through the body. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -269,6 +298,8 @@ The metabolic energy in the bodies of organisms is circulated all over by Samān
 समन्वितस् त्व् अधिष्ठानं  
 सम्यक् पचति पावकः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -286,6 +317,7 @@ The metabolic energy in the bodies of organisms is circulated all over by Samān
 That metabolic process, residing between Apāna and Prāṇa, combining Apāna and Prāṇa, in the region of the Svādiṣṭhāna ganglion,  
 with the aid of those two processes, causes digestion. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,6 +327,8 @@ with the aid of those two processes, causes digestion.
 स्रोतस् तस्मात् प्रजायन्ते  
 सर्वस्रोतांसि देहिनाम् ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,6 +345,7 @@ with the aid of those two processes, causes digestion.
 
 There is a tube from the mouth down to the anus, with the colon at its extremity. Associated with it is a vessel that from which numerous subsidiary ones branch out into the body.  
 </details>
+</details>
 
 
 
@@ -321,6 +356,8 @@ There is a tube from the mouth down to the anus, with the colon at its extremity
 ऊष्मा चाग्निर् इति ज्ञेयो  
 यो ऽन्नं पचति देहिनाम् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,6 +375,7 @@ There is a tube from the mouth down to the anus, with the colon at its extremity
 Due the combined flow of many metabolic processes the mixed flows are born.  
 One such is the metabolic process called Uṣmān, the energy that causes digestion of food in bodies. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,6 +385,8 @@ One such is the metabolic process called Uṣmān, the energy that causes digest
 स ऊर्ध्वम् आगम्य पुनः  
 समुत्क्षिपति पावकम् ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,6 +403,7 @@ One such is the metabolic process called Uṣmān, the energy that causes digest
 
 The metabolic process bearing the swift energy, descends to the extremity of the anal canal and thence is sent upwards once more. Having gone this energy is circulated back downwards. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -372,6 +413,8 @@ The metabolic process bearing the swift energy, descends to the extremity of the
 नाभिमध्ये शरीरस्य  
 सर्वे प्राणाश् च संस्थिताः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,6 +431,7 @@ The metabolic process bearing the swift energy, descends to the extremity of the
 
 Below the navel is the region of digested matter. Above it is that for the food which is ingested. In the navel region, the various metabolic processes of the body act together.  
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +441,8 @@ Below the navel is the region of digested matter. Above it is that for the food 
 **वहन्त्य्** अन्न-रसात् **नाड्यो**  
 दश प्राण-प्रचोदिताः ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,6 +459,7 @@ Below the navel is the region of digested matter. Above it is that for the food 
 
 Impelled by the ten metabolic process, the [ducts], branching out from the heart, convey the food substances that food yields, upwards, downwards, and in transverse directions.  
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -422,6 +469,8 @@ Impelled by the ten metabolic process, the [ducts], branching out from the heart
 जित-क्लमाः समा धीरा  
 मूर्धन्य् आत्मानम् आदधन् ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,6 +487,7 @@ Impelled by the ten metabolic process, the [ducts], branching out from the heart
 
 Through this duct the Yogīs, vanquishers of fatigue, undisturbed and intelligent, attain that state,  by holding the Ātmā within the brain. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,6 +497,8 @@ Through this duct the Yogīs, vanquishers of fatigue, undisturbed and intelligen
 तस्मिन् समिध्यते नित्यम्  
 अग्निः स्थाल्यामिवाहितः ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -464,7 +516,6 @@ Through this duct the Yogīs, vanquishers of fatigue, undisturbed and intelligen
 Thus dispersed are the Prāṇa, Apāna and others in bodies of organisms. There in the metabolic heat is always burning, like a fire placed in a vessel. 
 </details>
 
-
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि पञ्चाशीत्यधिकशततमोऽध्यायः ॥ १८५ ॥
@@ -478,6 +529,7 @@ Thus dispersed are the Prāṇa, Apāna and others in bodies of organisms. There
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Here ends the section of the Bhṛgu Smṛti pertaining to the early scientific ideas of the Hindus
+</details>
 </details>
 
 

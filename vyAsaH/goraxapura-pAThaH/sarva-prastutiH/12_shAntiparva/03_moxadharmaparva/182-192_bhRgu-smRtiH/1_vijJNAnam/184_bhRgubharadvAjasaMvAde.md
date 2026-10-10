@@ -4,6 +4,8 @@ title = "१८४ भृगुभरद्वाजसंवादे"
 
 +++
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भागसूचना</summary>
 
 चतुरशीत्यधिकशततमोऽध्यायः
@@ -23,6 +25,7 @@ title = "१८४ भृगुभरद्वाजसंवादे"
 
 Bharadvāja asked: 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -32,6 +35,8 @@ Bharadvāja asked:
 आवृता यैर् इमे लोका  
 महाभूताभि-संज्ञिताः ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -50,6 +55,7 @@ These five substances emerged first from Brahmā,
 and they constitute the universe  
 and are known as the Mahābhūtas. 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -58,6 +64,8 @@ and are known as the Mahābhūtas.
 पञ्चानाम् एव भूतत्वं  
 कथं समुपपद्यते ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -75,7 +83,6 @@ and are known as the Mahābhūtas.
 Thousands of substances emerged from the great [Brahmā] but why are only these 5  considered the primary Bhūta?
 </details>
 
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 भृगुरुवाच
@@ -84,6 +91,7 @@ Thousands of substances emerged from the great [Brahmā] but why are only these 
 <details><summary>मूलम्</summary>
 
 Bhṛgu said: 
+</details>
 </details>
 
 
@@ -94,6 +102,8 @@ Bhṛgu said:
 ततस् तेषां महाभूत-  
 शब्दो ऽयम् उपपद्यते ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,6 +120,7 @@ _भृगुजीने कहा—_ मुने! ये पाँच भू
 
 Those elements which are further undefinable are known as “Mahā”, hence these elements are known as Mahābhūtas. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,6 +130,8 @@ Those elements which are further undefinable are known as “Mahā”, hence the
 पृथिवी चात्र संघातः,  
 शरीरं पाञ्च-भौतिकम् ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -135,6 +148,7 @@ Those elements which are further undefinable are known as “Mahā”, hence the
 
 Activity is in gas, vacuum is in space, vapor is due to heat, viscosity is in liquid and conjoint structure is in solid. So the bodies are made of the five Bhūtas. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -144,6 +158,8 @@ Activity is in gas, vacuum is in space, vapor is due to heat, viscosity is in li
 श्रोत्रं घ्राणं रसः स्पर्शो  
 दृष्टिश् चेन्द्रिय-संज्ञिताः ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,7 +177,6 @@ Activity is in gas, vacuum is in space, vapor is due to heat, viscosity is in li
 Thus are all objects mobile and immobile made of the the five Bhūtas. [The five Bhūtas] are also perceived the ears, nose, taste organs, touch organs and eyes.
 </details>
 
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 भरद्वाज उवाच
@@ -170,6 +185,7 @@ Thus are all objects mobile and immobile made of the the five Bhūtas. [The five
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bharadvāja asked: 
+</details>
 </details>
 
 
@@ -180,6 +196,8 @@ Bharadvāja asked:
 स्थावराणां न दृश्यन्ते  
 शरीरे पञ्च धातवः ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -196,6 +214,7 @@ _भरद्वाजने पूछा—_ भगवन्! आपके क�
 
 If all bodies mobile and immobile are made of these five Bhūtas, then why do we not see these 5 substances in the bodies of the immobile? 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,6 +224,8 @@ If all bodies mobile and immobile are made of these five Bhūtas, then why do we
 वृक्षाणां नोपलभ्यन्ते  
 शरीरे पञ्च धातवः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -221,6 +242,7 @@ If all bodies mobile and immobile are made of these five Bhūtas, then why do we
 
 The trees have no heat and they do not seem to have [their own] motion or solid particles. So they are not made of the 5 substances. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,6 +252,8 @@ The trees have no heat and they do not seem to have [their own] motion or solid 
 न च स्पर्शं विजानन्ति  
 ते कथं पाञ्चभौतिकाः ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,6 +273,7 @@ they do not perceive smell or taste and
 they do not perceive touch.  
 So how can they sense the 5 Bhūtas. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -258,6 +283,8 @@ So how can they sense the 5 Bhūtas.
 आकाशस्याप्रमेयत्वाद्  
 वृक्षाणां नास्ति भौतिकम् ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,10 +302,10 @@ So how can they sense the 5 Bhūtas.
 It seems to me that as they lack any liquid material, and heat, any solidity, any gas and space, plants cannot be considered as conglomerates of Bhūtas.
 </details>
 
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 भृगुरुवाच
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -288,6 +315,8 @@ It seems to me that as they lack any liquid material, and heat, any solidity, an
 तेषां पुष्प-फल-व्यक्तिर्  
 नित्यं समुपपद्यते ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -304,6 +333,7 @@ _भृगुजीने कहा—_ मुने! यद्यपि वृ�
 
 Without doubt the plants have space and solidity contained within them. It is due to this these put forth flowers and fruits from within them. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -313,6 +343,8 @@ Without doubt the plants have space and solidity contained within them. It is du
 **म्लायते शीर्यते** चापि  
 स्पर्शस् तेनात्र विद्यते ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,6 +361,7 @@ Without doubt the plants have space and solidity contained within them. It is du
 
 They heat within them hence the leaf, bark, fruit and flowers ripen. They sicken and dry up suggesting that they have a sence of touch. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -338,6 +371,8 @@ They heat within them hence the leaf, bark, fruit and flowers ripen. They sicken
 श्रोत्रेण गृह्यते शब्दस्  
 तस्माच् छृण्वन्ति पादपाः ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,6 +389,7 @@ They heat within them hence the leaf, bark, fruit and flowers ripen. They sicken
 
 Under the sounds of wind, fire and thunder, fruits fall off and flowers close. This suggests that they have organs by which they sense sound. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -363,6 +399,8 @@ Under the sounds of wind, fire and thunder, fruits fall off and flowers close. T
 न ह्य् अदृष्टेश् च मार्गोऽस्ति  
 तस्मात् पश्यन्ति पादपाः ॥ १३ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -379,6 +417,7 @@ Under the sounds of wind, fire and thunder, fruits fall off and flowers close. T
 
 The creepers winds on trees moving all around. One cannot sense path without seeing, so they have the sense of light. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,6 +427,8 @@ The creepers winds on trees moving all around. One cannot sense path without see
 अरोगाः पुष्पिताः सन्ति  
 तस्माज् जिघ्रन्ति पादपाः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,6 +445,7 @@ The creepers winds on trees moving all around. One cannot sense path without see
 
 They have diverse smells, good and bad, and perfumes. They sense these scents to recover from disease and put out flowers. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +455,8 @@ They have diverse smells, good and bad, and perfumes. They sense these scents to
 व्याधिप्रतिक्रियत्वाच् च  
 विद्यते रसनं द्रुमे ॥ १५ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,6 +473,7 @@ They have diverse smells, good and bad, and perfumes. They sense these scents to
 
 With their roots [plants] drink water and they are also seen to acquire diseases. These diseases can be cured with medicines, and this suggests that the plants have a sense of taste. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -438,6 +483,8 @@ With their roots [plants] drink water and they are also seen to acquire diseases
 तथा पवन-संयुक्तः  
 पादैः पिबति पादपः ॥ १६ ॥ +++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,6 +501,7 @@ With their roots [plants] drink water and they are also seen to acquire diseases
 
 Just as one can suck water through tubes in a bent lotus stalk, thus plants, by means of the force of the gaseous element suck water with their roots. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -463,6 +511,8 @@ Just as one can suck water through tubes in a bent lotus stalk, thus plants, by 
 जीवं पश्यामि वृक्षाणाम्  
 अचैतन्यं न विद्यते ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,6 +529,7 @@ Just as one can suck water through tubes in a bent lotus stalk, thus plants, by 
 
 They are affected by pleasures and pains and regenerate when cut up. Hence, I conclude that plants have have life and are capable of sensory perception.   
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -488,6 +539,8 @@ They are affected by pleasures and pains and regenerate when cut up. Hence, I co
 आहार-परिणामाच् च  
 स्नेहो+++(=sap)+++ वृद्धिश् च जायते ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -504,6 +557,7 @@ They are affected by pleasures and pains and regenerate when cut up. Hence, I co
 
 The action of heat and the gaseous element cause the sap that has been thus sucked to be digested. Depending on the amount of sap that has been consumed there is an advance in [the plant’s] growth. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -513,6 +567,8 @@ The action of heat and the gaseous element cause the sap that has been thus suck
 प्रत्येकशः प्रभिद्यन्ते  
 यैः शरीरं विचेष्टते ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -531,6 +587,7 @@ All animals are similarly composed of 5 primary substances,
 in each the [5 substances] occur in different proportions  
 and are responsible for the activities of their bodies. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,6 +597,8 @@ and are responsible for the activities of their bodies.
 इत्य् एतद् इह सं-घातं  
 शरीरे पृथिवीमयम् ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -556,6 +615,7 @@ and are responsible for the activities of their bodies.
 
 Integument, muscles, skeleton, marrow, sinews, these five combine together in the body and are dominated by the solid element. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -565,6 +625,8 @@ Integument, muscles, skeleton, marrow, sinews, these five combine together in th
 अग्निर् जरयते यश् च  
 पञ्चाग्नेयाः शरीरिणः ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,6 +643,7 @@ Integument, muscles, skeleton, marrow, sinews, these five combine together in th
 
 Metabolic energy, anger, sight, internal heat, and also the digestive fire are the five fires in all organisms. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -590,6 +653,8 @@ Metabolic energy, anger, sight, internal heat, and also the digestive fire are t
 **आकाशात्** प्राणिनाम् एते  
 शरीरे **पञ्च धातवः** ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -606,6 +671,7 @@ Metabolic energy, anger, sight, internal heat, and also the digestive fire are t
 
 Hearing and smelling organs, mouth, heart and the gut comprise the 5 representations of space in the body of animal. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,6 +681,8 @@ Hearing and smelling organs, mouth, heart and the gut comprise the 5 representat
 इत्य् आपः पञ्च-धा देहे  
 भवन्ति प्राणिनां सदा ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -631,6 +699,7 @@ Hearing and smelling organs, mouth, heart and the gut comprise the 5 representat
 
 Lymph, digestive secretions, excretory secretions, fats and blood are the five derivatives of the liquid element tha always occur in animals. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -644,6 +713,8 @@ Lymph, digestive secretions, excretory secretions, fats and blood are the five d
 इत्येते वायवः पञ्च  
 चेष्टयन्तीह देहिनम् ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -664,6 +735,7 @@ The Prāṇa runs the bodily metabolism of animals; through Vyāna they show mus
 
 Udāna erupts upwards and causes speech. These are the 5 winds that drive metabolic activity in bodies.
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -673,6 +745,8 @@ Udāna erupts upwards and causes speech. These are the 5 winds that drive metabo
 ज्योतिषा चक्षुषा रूपं  
 स्पर्शं वेत्ति च वाहिना ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,6 +763,7 @@ Udāna erupts upwards and causes speech. These are the 5 winds that drive metabo
 
 An animal sense scents with solid element, tastes with the liquid element, light through the eyes allows sensing forms, and though the gaseous element it senses touch. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -698,6 +773,8 @@ An animal sense scents with solid element, tastes with the liquid element, light
 तस्य गन्धस्य वक्ष्यामि  
 विस्तराभिहितान् गुणात् ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -714,6 +791,7 @@ An animal sense scents with solid element, tastes with the liquid element, light
 
 I shall describe the general properties of sense of smell and the other senses that are common to both animal and plants. ...
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +803,8 @@ I shall describe the general properties of sense of smell and the other senses t
 एवं नवविधो ज्ञेयः  
 पार्थिवो गन्धविस्तरः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -743,6 +823,7 @@ I shall describe the general properties of sense of smell and the other senses t
 The smells sensed are “attractive”, “unattractive”, sweet and pungent.  
 There are also [smells] like “far-reaching”, “complex”, “moist”, “dry” and “sulfurous stench”. These nine varieties of smell are all derived from the solid element.
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -754,6 +835,8 @@ There are also [smells] like “far-reaching”, “complex”, “moist”, “
 रसज्ञानं तु वक्ष्यामि  
 तन्मे निगदतः शृणु ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -771,6 +854,7 @@ There are also [smells] like “far-reaching”, “complex”, “moist”, “
 
 .... Sound, touch, visual form and taste are the properties of water. I shall now expound the perception of taste; listen to me. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -782,6 +866,8 @@ There are also [smells] like “far-reaching”, “complex”, “moist”, “
 एष षड्‌विधविस्तारो  
 रसो वारिमयः स्मृतः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,6 +885,7 @@ There are also [smells] like “far-reaching”, “complex”, “moist”, “
 
 The learned scholars have identified many varieties of tastes, namely sweet, salty, tingling, bitter, sour and pungent. These six are the types of tastes emanating from the liquid element.  
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -808,6 +895,8 @@ The learned scholars have identified many varieties of tastes, namely sweet, sal
 **ज्योतिः पश्यति** रूपाणि  
 रूपं च बहुधा स्मृतम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -825,6 +914,7 @@ The learned scholars have identified many varieties of tastes, namely sweet, sal
 The heat and light element has properties of sound, touch and form.  
 Form is sensed via light and forms are known to be of many types. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -838,6 +928,8 @@ Form is sensed via light and forms are known to be of many types.
 एवं षोडश-विस्तारो  
 ज्योती-रूप-गुणः स्मृतः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -872,6 +964,7 @@ these twelve different types [12] constitute the property of light (vision).
 
 [12] The terminal stiche is incorrect in the critical edition properties (it mentions 12 properties and only eleven are listed). The verse is only corrected by following traditional Bhārgava version. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -881,6 +974,8 @@ these twelve different types [12] constitute the property of light (vision).
 वायव्यस् तु गुणः स्पर्शः  
 स्पर्शश् च बहुधा स्मृतः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -897,6 +992,7 @@ these twelve different types [12] constitute the property of light (vision).
 
 Both sound and touch are the known to be two properties of the gaseous element.The property of the wind-element is touch and its known to be of many kinds 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -908,6 +1004,8 @@ Both sound and touch are the known to be two properties of the gaseous element.T
 एवं द्वादशधा स्पर्शो  
 वायव्यो गुण उच्यते ॥ ३७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -925,6 +1023,7 @@ Both sound and touch are the known to be two properties of the gaseous element.T
 
 Hard, soft, agreeable, disagreeable, smooth, rough, hot, cool, pleasurable, painful, viscous and fluid are said to be the twelve types of properties of the gaseous element. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -940,6 +1039,8 @@ Hard, soft, agreeable, disagreeable, smooth, rough, hot, cool, pleasurable, pain
 एष सप्तविधः प्रोक्तो  
 गुण आकाश-सम्भवः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -961,6 +1062,7 @@ Space has only one property; it is known as sound. I shall now tell you the diff
 They are ṣaḍja, ṛṣabha, gāndhāra, madhyama, pañcama, dhaivata and niṣādaka.  
 These are the seven kinds of properties that are related to space.
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -974,6 +1076,8 @@ These are the seven kinds of properties that are related to space.
 एतेषाम् एव सर्वेषां  
 विषये सम्प्रकीर्तितः ॥ ४१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -998,6 +1102,7 @@ Whatever sound is heard from a mṛdaṅga (drum), bherī (pipe), conch, thunder
 
 [13] The critical edition is flawed after this verse and misses several necessary verses, without which the reading loses continuity.
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1007,6 +1112,8 @@ Whatever sound is heard from a mṛdaṅga (drum), bherī (pipe), conch, thunder
 आकाशजं शब्दम् आहुर्  
 एभिर् वायुगुणैः सह ॥ ४२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1023,6 +1130,7 @@ Whatever sound is heard from a mṛdaṅga (drum), bherī (pipe), conch, thunder
 
 Thus sound of various kinds, emerges due to space. It is said that sound emerges in space in combination with the gaseous element. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1032,6 +1140,8 @@ Thus sound of various kinds, emerges due to space. It is said that sound emerges
 आप्याय्यन्ते च ते नित्यं  
 धातवस् तैस् तु धातुभिः ॥ ४३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1049,6 +1159,7 @@ Thus sound of various kinds, emerges due to space. It is said that sound emerges
 When induced by impact it propogates, but cannot be propogated otherwise.  
 The element combining with the other elements [in the body] constantly grow the compounds.
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1058,6 +1169,8 @@ The element combining with the other elements [in the body] constantly grow the 
 मूलम् एते शरीरस्य  
 व्याप्य प्राणान् इह स्थिताः ॥ ४४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1075,7 +1188,6 @@ The element combining with the other elements [in the body] constantly grow the 
 The liquid, heat and gaseous elements are constantly active in the bodies. They are the roots of the body and pervading the metabolic processes they constitute the bodies. 
 </details>
 
-
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि भृगुभरद्वाजसंवादे चतुरशीत्यधिकशततमोऽध्यायः ॥ १८४ ॥
@@ -1084,4 +1196,5 @@ The liquid, heat and gaseous elements are constantly active in the bodies. They 
 <details open><summary>मूलम् (वचनम्)</summary>
 
 इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु-भरद्वाजसंवादविषयक एक सौ चौरासीवाँ अध्याय पूरा हुआ॥१८४॥
+</details>
 </details>

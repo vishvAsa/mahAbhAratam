@@ -4,6 +4,8 @@ title = "१८३ मानसभूतोत्पत्तिकथने"
 
 +++
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भागसूचना</summary>
 
 त्र्यशीत्यधिकशततमोऽध्यायः
@@ -18,6 +20,7 @@ title = "१८३ मानसभूतोत्पत्तिकथने"
 
 भरद्वाज उवाच
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -26,6 +29,8 @@ title = "१८३ मानसभूतोत्पत्तिकथने"
 मेरुमध्ये स्थितो ब्रह्मा  
 तद् ब्रूहि द्विजसत्तम ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -43,7 +48,6 @@ _भरद्वाजने पूछा—_ द्विजश्रेष्�
 Bharadvāja asked: “O best of the twice-born, tell me how did the mighty Brahmā, seated in the midst of Meru, give rise to various objects and emanations?” 
 </details>
 
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 भृगुरुवाच
@@ -52,6 +56,7 @@ Bharadvāja asked: “O best of the twice-born, tell me how did the mighty Brahm
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bhṛgu said: 
+</details>
 </details>
 
 
@@ -62,6 +67,8 @@ Bhṛgu said:
 संरक्षणार्थं भूतानां  
 सृष्टं प्रथमतो जलम् ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -83,6 +90,7 @@ Mānasa generated the diverse emanations through Manasa [9]. The liquid element,
 
 [9] One may interpret Manasa as the sell-will of Mānasa 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -92,6 +100,8 @@ Mānasa generated the diverse emanations through Manasa [9]. The liquid element,
 परित्यक्ताश् च **नश्यन्ति**  
 तेनेदं सर्वमावृतम् ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,6 +118,7 @@ Mānasa generated the diverse emanations through Manasa [9]. The liquid element,
 
 It is the metabolism of all living beings; they grow and reproduce due to it. If it were not there all life would have perished. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +128,8 @@ It is the metabolism of all living beings; they grow and reproduce due to it. If
 सर्वं तद् वारुणं ज्ञेयम्  
 आपस् **तस्तम्भिरे** यतः ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -135,7 +148,6 @@ The Earth, the mountains, the coulds, their forms are pervade from within and wi
 All is that element Varuṇa, know them to be condensations thereof.
 </details>
 
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 भरद्वाज उवाच
@@ -144,6 +156,7 @@ All is that element Varuṇa, know them to be condensations thereof.
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bharadvāja spoke:
+</details>
 </details>
 
 
@@ -154,6 +167,8 @@ Bharadvāja spoke:
 कथं वा मेदिनी **सृष्टा** +  
 +इत्यत्र मे संशयो महान् ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,7 +186,6 @@ _भरद्वाजने पूछा—_ भगवन्! जलकी उ�
 “How did the liquid element arise? How did heat and gas emerge? How did the solid element arise? I have great doubts in this regard.” 
 </details>
 
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 भृगुरुवाच
@@ -180,6 +194,7 @@ _भरद्वाजने पूछा—_ भगवन्! जलकी उ�
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bhṛgu said:
+</details>
 </details>
 
 
@@ -190,6 +205,8 @@ Bhṛgu said:
 लोक-सम्भव-संदेहः  
 समुत्पन्नो महात्मनाम् ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,6 +225,7 @@ In the ancient epoch of the Brahmakalpa,
 when the Brahmaṛṣis endued with Brahma assembled together,  
 the great ones developed this same question regarding the origin of the universe. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -217,6 +235,8 @@ the great ones developed this same question regarding the origin of the universe
 त्यक्ताहाराः पवन-पा  
 दिव्यं वर्षशतं द्विजाः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,6 +253,7 @@ the great ones developed this same question regarding the origin of the universe
 
 These twice-born ones remained silent and unmoved in contemplation [on this problem], staying away from food and merely subsisting on air for a hundred divine years. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +263,8 @@ These twice-born ones remained silent and unmoved in contemplation [on this prob
 दिव्या सरस्वती +++(→आकाशगङ्गारूपा!)+++ तत्र  
 सम्बभूव नभस्तलात् ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,6 +286,7 @@ Thereafter, [the below] Dharma-filled words reached the ears of all of them. Ind
 
 [10] The heavenly Sarasvatī is an allusion to the Milky Way 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,6 +296,8 @@ Thereafter, [the below] Dharma-filled words reached the ears of all of them. Ind
 नष्टचन्द्रार्कपवनं  
 प्रसुप्तम् इव सम्बभौ ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -288,6 +314,7 @@ Thereafter, [the below] Dharma-filled words reached the ears of all of them. Ind
 
 In the beginning there was only the motionless and immovable space. Without bodies like the sun or moon or the gaseous element it was as though in a state of dormancy. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -297,6 +324,8 @@ In the beginning there was only the motionless and immovable space. Without bodi
 तस्माच् च सलिलोत्पीडाद्  
 उदतिष्ठत मारुतः ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,6 +342,7 @@ In the beginning there was only the motionless and immovable space. Without bodi
 
 Then the liquid element emerged, like something denser than the existing emptiness ([11] Literally something darker that existing darkness. ).  From the outward pressure in the liquid element arose the gaseous element.  
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +352,8 @@ Then the liquid element emerged, like something denser than the existing emptine
 तच् चाम्भसा पूर्यमाणं  
 सशब्दं कुरुतेऽनिलः ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,6 +370,7 @@ Then the liquid element emerged, like something denser than the existing emptine
 
 Like a vessel without a fissure the universe was without sound. But when filled with the liquid element sound was transmitted gaseous element. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,6 +380,8 @@ Like a vessel without a fissure the universe was without sound. But when filled 
 भित्त्वार्णव-तलं वायुः  
 **समुत्पतति** घोषवान् ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,6 +398,7 @@ Like a vessel without a fissure the universe was without sound. But when filled 
 
 Thus the space permeated throughout by the liquid element, and from it [liquid element] penetrated by waves arose the vibrating gaseous element. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -372,6 +408,8 @@ Thus the space permeated throughout by the liquid element, and from it [liquid e
 आकाशस्थानम् आसाद्य  
 प्रशान्तिं नाधिगच्छति ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,6 +426,7 @@ Thus the space permeated throughout by the liquid element, and from it [liquid e
 
 The gas thus by the pressure of the waves in water keeps moving. In the midst of space where there is no countering force it never stops. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,6 +436,8 @@ The gas thus by the pressure of the waves in water keeps moving. In the midst of
 प्रादुरभूद् ऊर्ध्वशिखः  
 कृत्वा निस्तिमिरं नभः ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,6 +454,7 @@ The gas thus by the pressure of the waves in water keeps moving. In the midst of
 
 Where the gas encountered the liquid element, there was friction and this gave rise the light and heat filled with energy. These radiated forth with upward- directed rays and dispelled the darkness from the space. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -422,6 +464,8 @@ Where the gas encountered the liquid element, there was friction and this gave r
 सोऽग्नि-मारुत-संयोगाद्  
 घनत्वम् उपपद्यते ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,6 +482,7 @@ Where the gas encountered the liquid element, there was friction and this gave r
 
 The heat acting on the gaseous element spread the liquid element into space. Through the combination with heat and the gaseous element it [the liquid element] gave rise to dense structures. 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,6 +492,8 @@ The heat acting on the gaseous element spread the liquid element into space. Thr
 स संघातत्वम् आपन्नो  
 **भूमित्वम् अनुगच्छति** ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,11 +506,11 @@ The heat acting on the gaseous element spread the liquid element into space. Thr
 ‘उसका जो वह गीलापन आकाशमें गिरा, वही घनीभूत होकर पृथ्वीके रूपमें परिणत हो गया॥१६॥
 </details>
 
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 These condensates of the liquid element fell of from the sky  
 and solidified to give rise to the solid element.
+</details>
 </details>
 
 
@@ -474,6 +521,8 @@ and solidified to give rise to the solid element.
 **भूमिर् योनिर्** इह **ज्ञेया**  
 यस्यां सर्वं प्रसूयते ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,7 +540,6 @@ and solidified to give rise to the solid element.
 This solid element as the earth is known to be the source from which all liquids, substances, smells and living beings originated. ॥ 
 </details>
 
-
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि भृगुभरद्वाजसंवादे मानसभूतोत्पत्तिकथने त्र्यशीत्यधिकशततमोऽध्यायः ॥ १८३ ॥
@@ -500,4 +548,5 @@ This solid element as the earth is known to be the source from which all liquids
 <details open><summary>मूलम् (वचनम्)</summary>
 
 इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु और भरद्वाजसंवादके प्रसंगमें मानसभूतोंकी उत्पत्तिका वर्णनविषयक एक सौ तिरासीवाँ अध्याय पूरा हुआ॥१८३॥
+</details>
 </details>
