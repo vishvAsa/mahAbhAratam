@@ -1,8 +1,13 @@
 +++
-title_full = "183 आकाशसे अन्य चार स्थूल भूतोंकी उत्पत्तिका वर्णन"
 title = "१८३ मानसभूतोत्पत्तिकथने"
-
+title_full = "183 आकाशसे अन्य चार स्थूल भूतोंकी उत्पत्तिका वर्णन"
 +++
+
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
+</details>
 
 <details><summary>सर्वाष् टीकाः</summary>
 
@@ -15,11 +20,6 @@ title = "१८३ मानसभूतोत्पत्तिकथने"
 
 आकाशसे अन्य चार स्थूल भूतोंकी उत्पत्तिका वर्णन
 </details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -28,6 +28,11 @@ title = "१८३ मानसभूतोत्पत्तिकथने"
 कथं स सृजते प्रभुः।  
 मेरुमध्ये स्थितो ब्रह्मा  
 तद् ब्रूहि द्विजसत्तम ॥ १ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -48,17 +53,11 @@ _भरद्वाजने पूछा—_ द्विजश्रेष्�
 Bharadvāja asked: “O best of the twice-born, tell me how did the mighty Brahmā, seated in the midst of Meru, give rise to various objects and emanations?” 
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
-</details>
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bhṛgu said: 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -92,7 +91,6 @@ Mānasa generated the diverse emanations through Manasa [9]. The liquid element,
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् +++(→जलम्)+++ प्राणः सर्वभूतानां  
@@ -120,13 +118,17 @@ It is the metabolism of all living beings; they grow and reproduce due to it. If
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवी पर्वता मेघा  
 मूर्तिमन्तश् च ये परे।  
 सर्वं तद् वारुणं ज्ञेयम्  
 आपस् **तस्तम्भिरे** यतः ॥ ४ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -148,17 +150,11 @@ The Earth, the mountains, the coulds, their forms are pervade from within and wi
 All is that element Varuṇa, know them to be condensations thereof.
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bharadvāja spoke:
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -166,6 +162,11 @@ Bharadvāja spoke:
 कथं चैवाग्निमारुतौ।  
 कथं वा मेदिनी **सृष्टा** +  
 +इत्यत्र मे संशयो महान् ॥ ५ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -186,17 +187,11 @@ _भरद्वाजने पूछा—_ भगवन्! जलकी उ�
 “How did the liquid element arise? How did heat and gas emerge? How did the solid element arise? I have great doubts in this regard.” 
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
-</details>
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bhṛgu said:
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -227,7 +222,6 @@ the great ones developed this same question regarding the origin of the universe
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽतिष्ठन् ध्यानम् आलम्ब्य  
@@ -255,7 +249,6 @@ These twice-born ones remained silent and unmoved in contemplation [on this prob
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां ब्रह्ममयी **वाणी**  
@@ -274,7 +267,7 @@ These twice-born ones remained silent and unmoved in contemplation [on this prob
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-उस ध्यानावस्थामें उन सबके कानोंमें ब्रह्ममयी वाणी सुनायी पड़ी। उस समय वहाँ आकाशसे दिव्य सरस्वती प्रकट हुई थी॥८॥
+उस ध्यानावस्थामें उन सबके कानोंमें ब्रह्ममयी वाणी सुनायी पड़ी। उस समय वहाँ आकाशसे दिव्य सरस्वती प्रकट हुई थी॥८॥
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -287,7 +280,6 @@ Thereafter, [the below] Dharma-filled words reached the ears of all of them. Ind
 [10] The heavenly Sarasvatī is an allusion to the Milky Way 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,7 +299,7 @@ Thereafter, [the below] Dharma-filled words reached the ears of all of them. Ind
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-वह आकाशवाणी इस प्रकार है—‘पूर्वकालमें अनन्त आकाश पर्वतके समान निश्चल था। उसमें चन्द्रमा, सूर्य अथवा वायु किसीके दर्शन नहीं होते थे। वह सोया हुआ-सा जान पड़ता था॥९॥
+वह आकाशवाणी इस प्रकार है—‘पूर्वकालमें अनन्त आकाश पर्वतके समान निश्चल था। उसमें चन्द्रमा, सूर्य अथवा वायु किसीके दर्शन नहीं होते थे। वह सोया हुआ-सा जान पड़ता था॥९॥
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -315,7 +307,6 @@ Thereafter, [the below] Dharma-filled words reached the ears of all of them. Ind
 In the beginning there was only the motionless and immovable space. Without bodies like the sun or moon or the gaseous element it was as though in a state of dormancy. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -344,7 +335,6 @@ Then the liquid element emerged, like something denser than the existing emptine
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा भाजनम् अच्छिद्रं  
@@ -372,7 +362,6 @@ Like a vessel without a fissure the universe was without sound. But when filled 
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा सलिल-संरुद्धे  
@@ -391,7 +380,7 @@ Like a vessel without a fissure the universe was without sound. But when filled 
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-‘इसी प्रकार जलसे आकाशका सारा प्रान्त ऐसा अवरुद्ध हो गया था कि उसमें कहीं थोड़ा-सा भी अवकाश नहीं था। तब उस एकार्णवके तलप्रदेशका भेदन करके बड़ी भारी आवाजके साथ वायुका प्राकट्य हुआ॥१२॥
+‘इसी प्रकार जलसे आकाशका सारा प्रान्त ऐसा अवरुद्ध हो गया था कि उसमें कहीं थोड़ा-सा भी अवकाश नहीं था। तब उस एकार्णवके तलप्रदेशका भेदन करके बड़ी भारी आवाजके साथ वायुका प्राकट्य हुआ॥१२॥
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -399,7 +388,6 @@ Like a vessel without a fissure the universe was without sound. But when filled 
 Thus the space permeated throughout by the liquid element, and from it [liquid element] penetrated by waves arose the vibrating gaseous element. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -428,7 +416,6 @@ The gas thus by the pressure of the waves in water keeps moving. In the midst of
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् वाय्व्-अम्बु-संघर्षे  
@@ -456,7 +443,6 @@ Where the gas encountered the liquid element, there was friction and this gave r
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निः पवन-संयुक्तः  
@@ -483,7 +469,6 @@ Where the gas encountered the liquid element, there was friction and this gave r
 The heat acting on the gaseous element spread the liquid element into space. Through the combination with heat and the gaseous element it [the liquid element] gave rise to dense structures. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -513,13 +498,17 @@ and solidified to give rise to the solid element.
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रसानां सर्वगन्धानां  
 स्नेहानां प्राणिनां तथा।  
 **भूमिर् योनिर्** इह **ज्ञेया**  
 यस्यां सर्वं प्रसूयते ॥ १७ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु और भरद्वाजसंवादके प्रसंगमें मानसभूतोंकी उत्पत्तिका वर्णनविषयक एक सौ तिरासीवाँ अध्याय पूरा हुआ॥१८३॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -543,10 +532,5 @@ This solid element as the earth is known to be the source from which all liquids
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि भृगुभरद्वाजसंवादे मानसभूतोत्पत्तिकथने त्र्यशीत्यधिकशततमोऽध्यायः ॥ १८३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु और भरद्वाजसंवादके प्रसंगमें मानसभूतोंकी उत्पत्तिका वर्णनविषयक एक सौ तिरासीवाँ अध्याय पूरा हुआ॥१८३॥
 </details>
 </details>

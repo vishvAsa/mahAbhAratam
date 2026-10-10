@@ -1,8 +1,13 @@
 +++
-title_full = "185 शरीरके भीतर जठरानल तथा प्राण-अपान आदि वायुओंकी स्थिति आदिका वर्णन"
 title = "१८५ शरीराग्निवायुवर्णनम्"
-
+title_full = "185 शरीरके भीतर जठरानल तथा प्राण-अपान आदि वायुओंकी स्थिति आदिका वर्णन"
 +++
+
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
+</details>
 
 <details><summary>सर्वाष् टीकाः</summary>
 
@@ -16,17 +21,11 @@ title = "१८५ शरीराग्निवायुवर्णनम्"
 शरीरके भीतर जठरानल तथा प्राण-अपान आदि वायुओंकी स्थिति आदिका वर्णन
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bharadvāja asked: 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -34,6 +33,11 @@ Bharadvāja asked:
 शारीरो **ऽग्निः कथं** प्रभो।  
 अवकाश-विशेषेण  
 **कथं वर्तयतेऽनिलः** ॥ १ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुर् उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -54,17 +58,11 @@ _भरद्वाजने पूछा—_ प्रभो! शरीरक�
 How in the body does the solid element present itself and what becomes of the heat? How also does space manifest itself, and how does the gaseous element circulate in the body?
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुर् उवाच
-</details>
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bhṛgu said: 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -92,7 +90,6 @@ _भृगुने कहा—_ ब्रह्मन्! निष्पा�
 I shall, O sage, speak to you of the path by which  the gaseous element moves, and how, O sinless one, that mighty substance causes the bodies of organisms to move. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -122,7 +119,6 @@ The metabolic activity, Prāṇa, residing within the head, along with the heat,
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स जन्तुः सर्वभूतात्मा  
@@ -149,7 +145,6 @@ The metabolic activity, Prāṇa, residing within the head, along with the heat,
 That is mark of life, the core of all life forms also known as the eternal puruṣa, basis of the mind, intelligence, and consciousness, as also sensory apparatus of of all organisms. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -178,7 +173,6 @@ Thus the organism is, in every respect, controlled by the metabolic activities. 
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बस्ति-मूलं गुदं चैव  
@@ -205,7 +199,6 @@ Thus the organism is, in every respect, controlled by the metabolic activities. 
 The metabolic process Apāna, depending on the metabolic energy that is in the urethra and the colon, acts, and is involved in excreting urine and feces. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -234,7 +227,6 @@ That unifying metabolic process, which operates in these three, is called Udāna
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संधिष्व् अपि च सर्वेषु  
@@ -262,7 +254,6 @@ That metabolic process, which operates, residing in all the joints and nerves of
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धातुष्व् **अग्निस्** तु **विततः**  
@@ -289,7 +280,6 @@ That metabolic process, which operates, residing in all the joints and nerves of
 The metabolic energy in the bodies of organisms is circulated all over by Samāna. Situated thus in the body, that process cause the circulation of different kinds of fluids, humors and substances through the body. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -319,7 +309,6 @@ with the aid of those two processes, causes digestion.
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आस्यं हि पायु-पर्यन्तम्  
@@ -346,8 +335,6 @@ with the aid of those two processes, causes digestion.
 There is a tube from the mouth down to the anus, with the colon at its extremity. Associated with it is a vessel that from which numerous subsidiary ones branch out into the body.  
 </details>
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -377,7 +364,6 @@ One such is the metabolic process called Uṣmān, the energy that causes digest
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि-वेग-वहः प्राणो  
@@ -404,7 +390,6 @@ One such is the metabolic process called Uṣmān, the energy that causes digest
 The metabolic process bearing the swift energy, descends to the extremity of the anal canal and thence is sent upwards once more. Having gone this energy is circulated back downwards. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -433,7 +418,6 @@ Below the navel is the region of digested matter. Above it is that for the food 
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रस्थिता** हृदयात् सर्वे  
@@ -452,7 +436,7 @@ Below the navel is the region of digested matter. Above it is that for the food 
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-वे समस्त प्राण हृदयसे इधर-उधर और ऊपर-नीचे प्रस्थान करते हैं; इसलिये दस[^*] प्राणोंसे परिचालित होकर सारी नाड़ियाँ अन्नका रस वहन करती हैं॥१५॥
+वे समस्त प्राण हृदयसे इधर-उधर और ऊपर-नीचे प्रस्थान करते हैं; इसलिये दस[^*] प्राणोंसे परिचालित होकर सारी नाड़ियाँ अन्नका रस वहन करती हैं॥१५॥
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -460,7 +444,6 @@ Below the navel is the region of digested matter. Above it is that for the food 
 Impelled by the ten metabolic process, the [ducts], branching out from the heart, convey the food substances that food yields, upwards, downwards, and in transverse directions.  
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -480,7 +463,7 @@ Impelled by the ten metabolic process, the [ducts], branching out from the heart
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-यह मुखसे लेकर गुदातकका जो महान् स्रोत है, वह योगियोंका मार्ग है। उससे वे योगी परमपदको प्राप्त होते हैं, जिन्होंने सारे क्लेशोंको जीत लिया है, जो सर्वत्र समदर्शी और धीर हैं तथा जिन महात्माओंने सुषुम्णा नाड़ीके द्वारा मस्तकमें पहुँचकर वहीं अपने-आपको स्थित कर दिया है॥१६॥
+यह मुखसे लेकर गुदातकका जो महान् स्रोत है, वह योगियोंका मार्ग है। उससे वे योगी परमपदको प्राप्त होते हैं, जिन्होंने सारे क्लेशोंको जीत लिया है, जो सर्वत्र समदर्शी और धीर हैं तथा जिन महात्माओंने सुषुम्णा नाड़ीके द्वारा मस्तकमें पहुँचकर वहीं अपने-आपको स्थित कर दिया है॥१६॥
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -489,13 +472,17 @@ Through this duct the Yogīs, vanquishers of fatigue, undisturbed and intelligen
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सर्वेषु विहितः  
 प्राणापानेषु देहिनाम्।  
 तस्मिन् समिध्यते नित्यम्  
 अग्निः स्थाल्यामिवाहितः ॥ १७ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें एक सौ पचासीवाँ अध्याय पूरा हुआ॥१८५॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -521,16 +508,10 @@ Thus dispersed are the Prāṇa, Apāna and others in bodies of organisms. There
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि पञ्चाशीत्यधिकशततमोऽध्यायः ॥ १८५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें एक सौ पचासीवाँ अध्याय पूरा हुआ॥१८५॥
-</details>
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Here ends the section of the Bhṛgu Smṛti pertaining to the early scientific ideas of the Hindus
 </details>
 </details>
-
 
 [^*]: प्राणवायुके दस भेद इस प्रकार हैं—प्राण, अपान, व्यान, उदान और समान तथा नाग, कूर्म, कृकल, देवदत्त और धनंजय।

@@ -1,18 +1,26 @@
 +++
-title_full = "011 ब्रह्माजीकी सभाका वर्णन"
 title = "०११ ब्रह्म-सभा"
-
+title_full = "011 ब्रह्माजीकी सभाका वर्णन"
 +++
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
 <div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-011p01.mp3"></div>
+
 <div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-011p02.mp3"></div>
+
 <div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-011p03.mp3"></div>
+
 <div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-011p04.mp3"></div>
+
 <div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-011p05.mp3"></div>
 </details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
 
@@ -22,11 +30,6 @@ title = "०११ ब्रह्म-सभा"
 <details><summary>सूचना (हिन्दी)</summary>
 
 ब्रह्माजीकी सभाका वर्णन
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 </details>
 
@@ -218,7 +221,7 @@ _नारदजी कहते हैं—_ तात भारत! अब �
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-भारत! उसकी लंबाई-चौड़ाई कितनी है अथवा उसकी स्थिति क्या है, यह सब मैं कुछ नहीं जानता। मैंने किसी भी सभाका वैसा स्वरूप पहले कभी नहीं देखा था॥१२॥
+भारत! उसकी लंबाई-चौड़ाई कितनी है अथवा उसकी स्थिति क्या है, यह सब मैं कुछ नहीं जानता। मैंने किसी भी सभाका वैसा स्वरूप पहले कभी नहीं देखा था॥१२॥
 </details>
 </details>
 
@@ -948,7 +951,7 @@ _नारदजी कहते हैं—_ तात भारत! अब �
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-तात भारत! इस प्रकार वहाँ आने-जानेवाले लोगोंसे भरी हुई वह सभा बड़ी सुखदायिनी जान पड़ती है॥५९॥
+तात भारत! इस प्रकार वहाँ आने-जानेवाले लोगोंसे भरी हुई वह सभा बड़ी सुखदायिनी जान पड़ती है॥५९॥
 </details>
 </details>
 
@@ -982,6 +985,11 @@ _नारदजी कहते हैं—_ तात भारत! अब �
 सभेयं मानुषे लोके सर्वश्रेष्ठतमा तव ॥ ६२ ॥
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें ब्रह्मसभा-वर्णन नामक ग्यारहवाँ अध्याय पूरा हुआ॥११॥
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -998,11 +1006,6 @@ _नारदजी कहते हैं—_ तात भारत! अब �
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि लोकपालसभाख्यानपर्वणि ब्रह्मसभावर्णनं नामैकादशोऽध्यायः ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें ब्रह्मसभा-वर्णन नामक ग्यारहवाँ अध्याय पूरा हुआ॥११॥
 </details>
 </details>
 

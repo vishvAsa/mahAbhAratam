@@ -1,8 +1,13 @@
 +++
-title_full = "182 भरद्वाज और भृगुके संवादमें जगत्\u200cकी उत्पत्तिका और विभिन्न तत्त्वोंका वर्णन"
 title = "१८२ भृगुभरद्वाजसंवादे"
-
+title_full = "182 भरद्वाज और भृगुके संवादमें जगत्\u200cकी उत्पत्तिका और विभिन्न तत्त्वोंका वर्णन"
 +++
+
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
 
 <details><summary>सर्वाष् टीकाः</summary>
 
@@ -14,11 +19,6 @@ title = "१८२ भृगुभरद्वाजसंवादे"
 <details><summary>सूचना (हिन्दी)</summary>
 
 भरद्वाज और भृगुके संवादमें जगत्‌की उत्पत्तिका और विभिन्न तत्त्वोंका वर्णन
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 </details>
 
@@ -80,7 +80,6 @@ How has the universe, with all its oceans, its firmament, its mountains, its clo
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं सृष्टानि भूतानि  
@@ -108,13 +107,17 @@ How did the elements come into being and how did the distinction into various ca
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कीदृशो जीवतां जीवः  
 क्व वा गच्छन्ति ये मृताः।  
 अस्माल् लोकाद् अमुं लोकं  
 सर्वं शंसतु नो भवान् ॥ ४ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -135,17 +138,11 @@ How did the elements come into being and how did the distinction into various ca
 What is the nature of life of the living beings and what happens upon their death? Tell us every thing about this world and the other world.
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bhīṣma said: 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -179,7 +176,6 @@ Now in this connection is cited an old narrative of the famed words of Bhṛgu w
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैलासशिखरे दृष्ट्‌वा  
@@ -207,7 +203,6 @@ Beholding the great Ŗṣi Bhṛgu, seated atop the Kailāśa peak, blazing with
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ससागरः सगगनः  
@@ -234,7 +229,6 @@ Beholding the great Ŗṣi Bhṛgu, seated atop the Kailāśa peak, blazing with
 How has the universe, with all its oceans, its firmament, its mountains, its clouds, its lands, its fire, its wind come into being? 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -295,13 +289,17 @@ A direct repeat of the opening verses. This device of repetition, with these ver
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स भगवान् पृष्टो  
 भरद्वाजेन संशयम्।  
 ब्रह्मर्षिर् ब्रह्मसंकाशः  
 सर्वं तस्मै ततोऽब्रवीत् ॥ १० ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -320,11 +318,6 @@ A direct repeat of the opening verses. This device of repetition, with these ver
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Thus, the great one was questioned by Bharadvāja regarding his doubts; the great Ŗṣi endowed with brahman power, replied him thus:  
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
 </details>
 </details>
 
@@ -372,7 +365,6 @@ There is a primeval entity known to the great Ŗṣis as Mānasa [4]. It is with
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव्यक्त इति विख्यातः  
@@ -400,7 +392,6 @@ It is said to be unmanifest, eternal, undecaying and unchanging. From it the ele
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽसृजत् प्रथमं देवो  
@@ -427,7 +418,6 @@ It is said to be unmanifest, eternal, undecaying and unchanging. From it the ele
 It first gave rise to the great entity Mahat; …
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -465,7 +455,6 @@ This concept is development of what is expressed in the Taittirīya āraṇyaka,
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस् तेजोमयं दिव्यं  
@@ -492,7 +481,6 @@ This concept is development of what is expressed in the Taittirīya āraṇyaka,
 That self-born [solid element] opened as lotus filled with energy. From the lotus emerged Brahmā, the object of the Veda.  
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -526,7 +514,6 @@ Ahañkāra: translated as individuality. This is a peculiar term used in Hindu o
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलास् **तस्यास्थि**-संज्ञास् तु  
@@ -559,7 +546,6 @@ The mountains are its bones[7], its fat and flesh is the soil, the oceans are it
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पवनश् चैव **निःश्वासस्**  
@@ -578,7 +564,7 @@ The mountains are its bones[7], its fat and flesh is the soil, the oceans are it
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-वायु निःश्वास है, अग्नि तेज है, नदियाँ नाड़ियाँ हैं, सूर्य और चन्द्रमा जिन्हें अग्नि और सोम भी कहते हैं, ब्रह्माजीके नेत्रोंके रूपमें प्रसिद्ध हैं॥१८॥
+वायु निःश्वास है, अग्नि तेज है, नदियाँ नाड़ियाँ हैं, सूर्य और चन्द्रमा जिन्हें अग्नि और सोम भी कहते हैं, ब्रह्माजीके नेत्रोंके रूपमें प्रसिद्ध हैं॥१८॥
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -586,7 +572,6 @@ The mountains are its bones[7], its fat and flesh is the soil, the oceans are it
 Air is its breath, fire its energy, rivers are its blood vessels. Agni and Soma, the sun and moon are known to be its eyes. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -615,7 +600,6 @@ The nebulous heights are its head, the earth its feet, and the directions the ar
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एष भगवान् +++(व्यापकत्वाद्)+++ विष्णुर्  
@@ -643,13 +627,17 @@ It is thus the one which is worshiped, all pervasive, and known to be endless. I
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहंकारस्य यः स्रष्टा  
 सर्व-भूत-भवाय वै।  
 यतः समभवद् विश्वं  
 पृष्टोऽहं यद् इह त्वया ॥ २१ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -670,17 +658,11 @@ It is thus the one which is worshiped, all pervasive, and known to be endless. I
 That, which is the cause of individuality, verily for the generation of all elements; asked by you I have now told you of it from which the universe has emerged.
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bharadvāja asked:
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -688,6 +670,11 @@ Bharadvāja asked:
 भूतलस्यानिलस्य वा।  
 कान्य् अत्र परिमाणानि  
 संशयं छिन्धि तत्त्वतः ॥ २२ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -708,17 +695,11 @@ _भरद्वाजने पूछा—_ प्रभो! आकाश, द
 What is the extent of the firmament’s directions, and the extant of the earth and the atmosphere? By telling me the truth, shred my doubts. 
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
-</details>
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bhṛgu said:
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -738,7 +719,7 @@ Bhṛgu said:
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-_भृगुजीने कहा—_ मुने! यह आकाश तो अनन्त है, इसमें अनेकानेक सिद्ध और देवता निवास करते हैं। इसमें उनके भिन्न-भिन्न लोक भी स्थित हैं। यह बड़ा ही रमणीय है और इतना महान् है कि कहीं इसका अन्त नहीं मिलता॥२३॥
+_भृगुजीने कहा—_ मुने! यह आकाश तो अनन्त है, इसमें अनेकानेक सिद्ध और देवता निवास करते हैं। इसमें उनके भिन्न-भिन्न लोक भी स्थित हैं। यह बड़ा ही रमणीय है और इतना महान् है कि कहीं इसका अन्त नहीं मिलता॥२३॥
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -746,7 +727,6 @@ _भृगुजीने कहा—_ मुने! यह आकाश तो
 This sky is limitless, served by siddhas and Caraṇas, it is delightful and contains various regions, and neither its end nor its beginning can be reached. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -775,7 +755,6 @@ Above and below the range of their rays the sun and moon cannot ~~see~~ be seen.
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते चाप्यन्तं न पश्यन्ति  
@@ -802,7 +781,6 @@ Above and below the range of their rays the sun and moon cannot ~~see~~ be seen.
 Even the above [celestial bodies] of great luminosity do not illuminate the limits of the nebulous sky, due its inaccessibility and infinity. It is so, O giver of respect. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -831,7 +809,6 @@ Arrayed after the other are the blazing self-luminous bodies which fill space wh
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्यन्ते समुद्रास् तु  
@@ -858,7 +835,6 @@ Arrayed after the other are the blazing self-luminous bodies which fill space wh
 At the end of the land there is sea, at the end of sea there is the the dark space. At the end of that darkness there is [the world of] water and the end of the the watery world there is the fire.  
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -887,7 +863,6 @@ Beyond the nether-most region there is the water, and at the end of the watery w
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम् अन्तं भगवतः  
@@ -915,7 +890,6 @@ Thus are the limits of the great substance of water. The celestial find it diffi
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि-मारुत-तोयानां  
@@ -942,7 +916,6 @@ Thus are the limits of the great substance of water. The celestial find it diffi
 The nature of heat, gas, liquid and solid is actually like that of space, with their divisions known through knowledge of substance. 
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -974,7 +947,6 @@ Sages read in diverse Śāstras about the limits that have have been proposed fo
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धानां देवतानां च  
@@ -1002,12 +974,10 @@ Sages read in diverse Śāstras about the limits that have have been proposed fo
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-
 Even if one were to establish the extants of the path of he celestials and luminaries,  
 it is not possible to set the limits to that which is known by the name infinite. That great entity is given the name Mānasa.
 </details>
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1027,7 +997,7 @@ it is not possible to set the limits to that which is known by the name infinite
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-जब उन परमात्माका वह दिव्यरूप उनकी मायासे कभी बहुत छोटा हो जाता है और कभी बहुत बढ़ जाता है, तब कोई उनसे भिन्न दूसरा उन्हींके समान प्रतिभाशाली कौन है, जो कि उस स्वरूपका यथार्थ परिमाण जान सके अर्थात् ऐसा कोई नहीं है॥३४॥
+जब उन परमात्माका वह दिव्यरूप उनकी मायासे कभी बहुत छोटा हो जाता है और कभी बहुत बढ़ जाता है, तब कोई उनसे भिन्न दूसरा उन्हींके समान प्रतिभाशाली कौन है, जो कि उस स्वरूपका यथार्थ परिमाण जान सके अर्थात् ऐसा कोई नहीं है॥३४॥
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -1036,13 +1006,17 @@ When again its great form is sometimes contracted and sometimes expanded, how ca
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पुष्करतः सृष्टः  
 सर्वज्ञो मूर्तिमान् प्रभुः।  
 ब्रह्मा धर्ममयः पूर्वः  
 प्रजापतिरनुत्तमः ॥ ३५ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1067,11 +1041,6 @@ From that lotus-like form[8] emerged the all-knowing primal being- Brahmā the e
 
 [8] Refer to verse 15 of this chapter for the idea of the primal lotus. 
 </details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1080,6 +1049,11 @@ From that lotus-like form[8] emerged the all-knowing primal being- Brahmā the e
 ज्येष्ठं भवति पुष्करम्।  
 ब्रह्माणं पूर्वजं चाह  
 भवान्, संदेह एव मे ॥ ३६ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1098,11 +1072,6 @@ _भरद्वाजने पूछा—_ प्रभो! यदि ब्�
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Bharadvāja asked: “If the lotus-like form emerged first, then that become primary, yet why is Brahmā called the progenitor? This is my doubt” 
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
 </details>
 </details>
 
@@ -1133,13 +1102,17 @@ A form of Mānasa became Brahmā. The lotus like form is the solid element which
 </details>
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्णिका तस्य पद्मस्य  
 मेरुर् गगनम् उच्छ्रितः।  
 तस्य मध्ये स्थितो लोकान्  
 सृजते जगतः प्रभुः ॥ ३८ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु और भरद्वाजका संवादविषयक एक सौ बयासीवाँ अध्याय पूरा हुआ॥१८२॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1163,11 +1136,6 @@ The pericarp of the lotus became Meru, which formed the axis of the world. Resid
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि भृगुभरद्वाजसंवादे द्व्यशीत्यधिकशततमोऽध्यायः ॥ १८२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु और भरद्वाजका संवादविषयक एक सौ बयासीवाँ अध्याय पूरा हुआ॥१८२॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

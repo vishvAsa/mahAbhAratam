@@ -1,16 +1,22 @@
 +++
-title_full = "008 यमराजकी सभाका वर्णन"
 title = "००८ यम-सभा"
-
+title_full = "008 यमराजकी सभाका वर्णन"
 +++
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
 <div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-008p01.mp3"></div>
+
 <div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-008p02.mp3"></div>
+
 <div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-008p03.mp3"></div>
 </details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
 
@@ -20,11 +26,6 @@ title = "००८ यम-सभा"
 <details><summary>सूचना (हिन्दी)</summary>
 
 यमराजकी सभाका वर्णन
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 </details>
 
@@ -64,7 +65,7 @@ _नारदजी कहते हैं—_ कुन्तीनन्दन
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-राजन्! वह तेजोमयी विशाल सभा लम्बाई और चौड़ाईमें भी सौ योजन है तथा पाण्डुनन्दन! सम्भव है, इससे भी कुछ बड़ी हो॥२॥
+राजन्! वह तेजोमयी विशाल सभा लम्बाई और चौड़ाईमें भी सौ योजन है तथा पाण्डुनन्दन! सम्भव है, इससे भी कुछ बड़ी हो॥२॥
 </details>
 </details>
 
@@ -442,7 +443,7 @@ _नारदजी कहते हैं—_ कुन्तीनन्दन
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-सुन्दर रूप धारण करनेवाले एक करोड़ धर्मात्मा एवं मनस्वी पुरुष महात्मा यमकी उपासना करते हैं॥४०॥
+सुन्दर रूप धारण करनेवाले एक करोड़ धर्मात्मा एवं मनस्वी पुरुष महात्मा यमकी उपासना करते हैं॥४०॥
 </details>
 </details>
 
@@ -450,6 +451,11 @@ _नारदजी कहते हैं—_ कुन्तीनन्दन
 
 ईदृशी सा सभा राजन् पितृराज्ञो महात्मनः।  
 वरुणस्यापि वक्ष्यामि सभां पुष्करमालिनीम् ॥ ४१ ॥
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें यमसभा-वर्णन नामक आठवाँ अध्याय पूरा हुआ॥८॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -468,11 +474,6 @@ _नारदजी कहते हैं—_ कुन्तीनन्दन
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि लोकपालसभाख्यानपर्वणि यमसभावर्णनं नामाष्टमोऽध्यायः ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें यमसभा-वर्णन नामक आठवाँ अध्याय पूरा हुआ॥८॥
 </details>
 </details>
 

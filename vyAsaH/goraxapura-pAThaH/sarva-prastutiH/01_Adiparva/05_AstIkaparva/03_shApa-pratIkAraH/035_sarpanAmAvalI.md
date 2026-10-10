@@ -1,14 +1,18 @@
 +++
-title_full = "035 मुख्य-मुख्य नागोंके नाम"
 title = "०३५ सर्पनामावली"
-
+title_full = "035 मुख्य-मुख्य नागोंके नाम"
 +++
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
 <div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-035.mp3"></div>
 </details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
 
@@ -18,11 +22,6 @@ title = "०३५ सर्पनामावली"
 <details><summary>सूचना (हिन्दी)</summary>
 
 मुख्य-मुख्य नागोंके नाम
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
 </details>
 </details>
 
@@ -72,6 +71,11 @@ _शौनकजीने कहा—_ सूतनन्दन! सर्प�
 प्राधान्येनापि नामानि श्रोतुमिच्छामहे वयम् ॥ ३ ॥
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -83,11 +87,6 @@ _शौनकजीने कहा—_ सूतनन्दन! सर्प�
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 किंतु सूतपुत्र! आप सर्पोंके नाम नहीं बता रहे हैं। यदि सबका नाम बताना सम्भव न हो, तो उनमें जो मुख्य-मुख्य सर्प हैं, उन्हींके नाम हम सुनना चाहते हैं॥३॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 </details>
 
@@ -221,6 +220,11 @@ _उग्रश्रवाजीने कहा—_ तपोधन! सर�
 अशक्यान्येव संख्यातुं पन्नगानां तपोधन ॥ १९ ॥
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पनामकथनविषयक पैंतीसवाँ अध्याय पूरा हुआ॥३५॥
+</details>
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -237,10 +241,5 @@ _उग्रश्रवाजीने कहा—_ तपोधन! सर�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सर्पनामकथने पञ्चत्रिंशोऽध्यायः ॥ ३५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पनामकथनविषयक पैंतीसवाँ अध्याय पूरा हुआ॥३५॥
 </details>
 </details>
