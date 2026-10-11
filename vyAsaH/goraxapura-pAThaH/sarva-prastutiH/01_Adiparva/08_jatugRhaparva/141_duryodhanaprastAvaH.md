@@ -4,12 +4,7 @@ title_full = "141 दुर्योधनका धृतराष्ट्र�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="मालती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-141.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="मालती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-141.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "141 दुर्योधनका धृतराष्ट्र�
 
 दुर्योधनका धृतराष्ट्रसे पाण्डवोंको वारणावत भेज देनेका प्रस्ताव
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -79,11 +79,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 मुहूर्तमिव संचिन्त्य दुर्योधनमथाब्रवीत् ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -96,6 +91,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 अपने पुत्रकी कही हुई यह बात सुनकर धृतराष्ट्र दो घड़ीतक भारी चिन्तामें पड़े रहे; फिर दुर्योधनसे बोले॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -204,11 +204,6 @@ _धृतराष्ट्रने कहा—_ बेटा! पाण्�
 कथं युधिष्ठिरस्यार्थे न नो हन्युः सबान्धवान् ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -221,6 +216,11 @@ _धृतराष्ट्रने कहा—_ बेटा! पाण्�
 
 तात! पाण्डुने पहले नागरिकोंके साथ बड़ा ही सद्भावपूर्ण व्यवहार किया है। अब वे विद्रोही होकर युधिष्ठिरके हितके लिये भाई-बन्धुओंके साथ हम सब लोगोंकी हत्या क्यों न कर डालेंगे?॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -289,11 +289,6 @@ _दुर्योधन बोला—_ पिताजी! मैंने �
 तदा कुन्ती सहापत्या पुनरेष्यति भारत ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -306,6 +301,11 @@ _दुर्योधन बोला—_ पिताजी! मैंने �
 
 भरतवंशके महाराज! जब यह राज्य पूरी तरहसे मेरे अधिकारमें आ जायगा, उस समय कुन्तीदेवी अपने पुत्रोंके साथ पुनः यहाँ आकर रह सकती हैं॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -374,11 +374,6 @@ _धृतराष्ट्र बोले—_ दुर्योधन! म�
 कथं न वध्यतां तात गच्छाम जगतस्तथा ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -391,6 +386,11 @@ _धृतराष्ट्र बोले—_ दुर्योधन! म�
 
 दुर्योधन! यदि हम पाण्डवोंके साथ विषम व्यवहार करेंगे तो सम्पूर्ण कुरुवंशी और ये (भीष्म, द्रोण आदि) महात्मा एवं सम्पूर्ण जगत्‌के लोग हमें वध करनेयोग्य क्यों न समझेंगे॥१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -479,11 +479,6 @@ _दुर्योधन बोला—_ पिताजी! भीष्म �
 शोकपावकमुद्भूतं कर्मणैतेन नाशय ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें दुर्योधनपरामर्शविषयक एक सौ इकतालीसवाँ अध्याय पूरा हुआ॥१४१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -501,4 +496,10 @@ _दुर्योधन बोला—_ पिताजी! भीष्म �
 
 इति श्रीमहाभारते आदिपर्वणि जतुगृहपर्वणि दुर्योधनपरामर्शे एकचत्वारिंशदधिकशततमोऽध्यायः ॥ १४१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें दुर्योधनपरामर्शविषयक एक सौ इकतालीसवाँ अध्याय पूरा हुआ॥१४१॥
 </details>
+</details>
+

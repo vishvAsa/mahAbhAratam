@@ -4,14 +4,9 @@ title_full = "219 यादवोंकी युद्धके लिये �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-219p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-219p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-219p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-219p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "219 यादवोंकी युद्धके लिये �
 
 यादवोंकी युद्धके लिये तैयारी और अर्जुनके प्रति बलरामजीके क्रोधपूर्ण उद्‌गार
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -575,11 +575,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अन्वपद्यन्त ते सर्वे भोजवृष्ण्यन्धकास्तदा ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सुभद्राहरणपर्वमें बलदेवक्रोधविषयक दो सौ उन्नीसवाँ अध्याय पूरा हुआ॥२१९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -597,4 +592,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि सुभद्राहरणपर्वणि बलदेवक्रोधे एकोनविंशत्यधिकद्विशततमोऽध्यायः ॥ २१९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सुभद्राहरणपर्वमें बलदेवक्रोधविषयक दो सौ उन्नीसवाँ अध्याय पूरा हुआ॥२१९॥
 </details>
+</details>
+

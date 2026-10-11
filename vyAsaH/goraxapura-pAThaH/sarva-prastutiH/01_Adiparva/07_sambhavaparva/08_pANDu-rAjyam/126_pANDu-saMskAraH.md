@@ -4,16 +4,11 @@ title_full = "126 पाण्डु और माद्रीकी अस्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-126p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-126p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-126p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-126p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-126p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-126p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "126 पाण्डु और माद्रीकी अस्�
 
 पाण्डु और माद्रीकी अस्थियोंका दाह-संस्कार तथा भाई-बन्धुओंद्वारा उनके लिये जलांजलिदान
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -79,11 +79,6 @@ _धृतराष्ट्र बोले—_ विदुर! राजा�
 यस्य पञ्च सुता वीरा जाताः सुरसुतोपमाः ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -96,6 +91,11 @@ _धृतराष्ट्र बोले—_ विदुर! राजा�
 
 निष्पाप राजा पाण्डु शोचनीय नहीं, प्रशंसनीय हैं, जिन्हें देवकुमारोंके समान पाँच वीर पुत्र प्राप्त हुए हैं॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -566,11 +566,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 बभूव पाण्डवैः सार्धं नगरं द्वादश क्षपाः ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डुके दाहसंस्कारसे सम्बन्ध रखनेवाला एक सौ छब्बीसवाँ अध्याय पूरा हुआ॥१२६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -591,8 +586,14 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि पाण्डुदाहे षड्विंशत्यधिकशततमोऽध्यायः ॥ १२६ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डुके दाहसंस्कारसे सम्बन्ध रखनेवाला एक सौ छब्बीसवाँ अध्याय पूरा हुआ॥१२६॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलाकर कुल ३३ श्लोक हैं)
 </details>
 </details>
+

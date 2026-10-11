@@ -4,18 +4,13 @@ title_full = "232 मन्दपालका अपने बाल-बच्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-232-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-232-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-232-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-232-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-232-p03.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-232-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-232-p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-232-p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "232 मन्दपालका अपने बाल-बच्�
 
 मन्दपालका अपने बाल-बच्चोंसे मिलना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -277,11 +277,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 चरिष्याम्यहमप्येका यथा कुपुरुषाश्रिता ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मन्दपाल उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -294,6 +289,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘अतः अब तुम उस जरिताके ही पास जाओ, जिसके लिये तुम इतने संतप्त हो रहे हो। मैं भी दुष्ट पुरुषके आश्रयमें पड़ी हुई स्त्रीकी भाँति अकेली ही विचरूँगी’॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मन्दपाल उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -342,11 +342,6 @@ _मन्दपालने कहा—_ अरी! तू जैसा सम
 आविग्ने हृदि संतापं जनयत्यशिवं मम ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -359,6 +354,11 @@ _मन्दपालने कहा—_ अरी! तू जैसा सम
 
 यह प्रज्वलित आग सारे वृक्षोंको अपनी लपटोंमें लपेटती हुई मेरे उद्विग्न हृदयमें अमंगलसूचक संताप उत्पन्न कर रही है॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,11 +447,6 @@ _वैशम्पायनजी कहते हैं—_ जब अग्�
 न चैवोचुस्तदा किंचित् तमृषिं साध्वसाधु वा ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मन्दपाल उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -464,6 +459,11 @@ _वैशम्पायनजी कहते हैं—_ जब अग्�
 
 वे एक-एक बच्चेसे बोलते और जरिताको भी बारबार बुलाते, परंतु वे लोग उन मुनिसे भला या बुरा कुछ भी नहीं बोले॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मन्दपाल उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -492,11 +492,6 @@ _मन्दपालने पूछा—_ प्रिये! तुम्�
 कृतवानपि हि त्यागं नैव शान्तिमितो लभे ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरितोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -509,6 +504,11 @@ _मन्दपालने पूछा—_ प्रिये! तुम्�
 
 मैं इस प्रकार दुःखसे आतुर होकर तुमसे पूछ रहा हूँ, तुम मुझे उत्तर क्यों नहीं देती? यद्यपि मैंने तुम्हें त्याग दिया था, तो भी यहाँसे जानेपर मुझे शान्ति नहीं मिलती थी॥२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरितोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -537,11 +537,6 @@ _जरिता बोली—_ तुम्हें ज्येष्ठ �
 तामेव लपितां गच्छ तरुणीं चारुहासिनीम् ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मन्दपाल उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -554,6 +549,11 @@ _जरिता बोली—_ तुम्हें ज्येष्ठ �
 
 पहले तुम मुझे सबसे हीन समझकर त्यागकर जिसके पास चले गये थे, उसी मनोहर मुसकानवाली तरुणी लपिताके पास जाओ॥२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मन्दपाल उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -632,11 +632,6 @@ _मन्दपालने कहा—_ परलोकमें स्त्
 न हि कार्यमनुध्याति नारी पुत्रवती सती ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -651,15 +646,15 @@ _मन्दपालने कहा—_ परलोकमें स्त्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते सर्व एवैनं पुत्राः सम्यगुपासते।  
 स च तानात्मजान् सर्वानाश्वासयितुमुद्यतः ॥ ३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें शार्ङ्गकोपाख्यानविषयक दो सौ बत्तीसवाँ अध्याय पूरा हुआ॥२३२॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -679,4 +674,10 @@ _वैशम्पायनजी कहते हैं—_ तदनन्त
 
 इति श्रीमहाभारते आदिपर्वणि मयदर्शनपर्वणि शार्ङ्गकोपाख्याने द्वात्रिंशदधिकद्विशततमोऽध्यायः ॥ २३२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें शार्ङ्गकोपाख्यानविषयक दो सौ बत्तीसवाँ अध्याय पूरा हुआ॥२३२॥
 </details>
+</details>
+

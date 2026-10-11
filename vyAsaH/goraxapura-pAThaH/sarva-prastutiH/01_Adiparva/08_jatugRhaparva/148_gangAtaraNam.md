@@ -4,12 +4,7 @@ title_full = "148 विदुरजीके भेजे हुए नाव�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-148.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-148.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "148 विदुरजीके भेजे हुए नाव�
 
 विदुरजीके भेजे हुए नाविकका पाण्डवोंको गंगाजीके पार उतारना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,11 +268,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 गङ्गामुत्तीर्य वेगेन जग्मुर्गूढमलक्षिताः ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें पाण्डवोंके गंगापार होनेसे सम्बन्ध रखनेवाला एक सौ अड़तालीसवाँ अध्याय पूरा हुआ॥१४८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -290,4 +285,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि जतुगृहपर्वणि गङ्गोत्तरणे अष्टचत्वारिंशदधिकशततमोऽध्यायः ॥ १४८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें पाण्डवोंके गंगापार होनेसे सम्बन्ध रखनेवाला एक सौ अड़तालीसवाँ अध्याय पूरा हुआ॥१४८॥
 </details>
+</details>
+

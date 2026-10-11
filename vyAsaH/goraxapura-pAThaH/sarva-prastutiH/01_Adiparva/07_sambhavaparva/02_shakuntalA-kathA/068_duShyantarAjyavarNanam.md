@@ -4,12 +4,7 @@ title_full = "068 राजा दुष्यन्तकी अद्भुत
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-068.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-068.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "068 राजा दुष्यन्तकी अद्भुत
 
 राजा दुष्यन्तकी अद्‌भुत शक्ति तथा राज्यशासनकी क्षमताका वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,11 +51,6 @@ _जनमेजय बोले—_ ब्रह्मन्! मैंने �
 कथ्यमानं त्वया विप्र विप्रर्षिगणसंनिधौ ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -68,6 +63,11 @@ _जनमेजय बोले—_ ब्रह्मन्! मैंने �
 
 विप्रवर! अब इन ब्रह्मर्षियोंके समीप आपके द्वारा वर्णित कुरुवंशका वृत्तान्त पुनः आदिसे ही सुनना चाहता हूँ॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -249,11 +249,6 @@ _वैशम्पायनजीने कहा—_ भरतवंशशि�
 भूयो धर्मपरैर्भावैर्मुदितं जनमादिशत् ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक अड़सठवाँ अध्याय पूरा हुआ॥६८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -271,6 +266,11 @@ _वैशम्पायनजीने कहा—_ भरतवंशशि�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि शकुन्तलोपाख्याने अष्टषष्टितमोऽध्यायः ॥ ६८ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक अड़सठवाँ अध्याय पूरा हुआ॥६८॥
 </details>
 </details>
 

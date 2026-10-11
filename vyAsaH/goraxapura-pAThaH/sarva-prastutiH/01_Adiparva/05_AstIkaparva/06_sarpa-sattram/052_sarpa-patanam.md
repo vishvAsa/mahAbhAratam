@@ -4,12 +4,7 @@ title_full = "052 सर्पसत्रका आरम्भ और उस�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-052.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-052.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "052 सर्पसत्रका आरम्भ और उस�
 
 सर्पसत्रका आरम्भ और उसमें सर्पोंका विनाश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -212,11 +212,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! त�
 प्रपेतुरग्नावुरगा मातृवाग्दण्डपीडिताः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पसत्रोपक्रमविषयक बावनवाँ अध्याय पूरा हुआ॥५२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -235,4 +230,10 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! त�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सर्पसत्रोपक्रमे द्विपञ्चाशत्तमोऽध्यायः ॥ ५२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पसत्रोपक्रमविषयक बावनवाँ अध्याय पूरा हुआ॥५२॥
 </details>
+</details>
+

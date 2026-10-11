@@ -4,16 +4,11 @@ title_full = "214 अर्जुनका पूर्वदिशाके त
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-214-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-214-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-214-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-214-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-214-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-214-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "214 अर्जुनका पूर्वदिशाके त
 
 अर्जुनका पूर्वदिशाके तीर्थोंमें भ्रमण करते हुए मणिपूरमें जाकर चित्रांगदाका पाणिग्रहण करके उसके गर्भसे एक पुत्र उत्पन्न करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,11 +493,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 आमन्त्र्य नृपतिं तं तु जगाम परिवर्तितुम् ॥ २७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अर्जुनवनवासपर्वमें चित्रांगदासमागमविषयक दो सौ चौदहवाँ अध्याय पूरा हुआ॥२१४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -515,4 +510,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि अर्जुनवनवासपर्वणि चित्राङ्गदासङ्गमे चतुर्दशाधिकद्विशततमोऽध्यायः ॥ २१४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अर्जुनवनवासपर्वमें चित्रांगदासमागमविषयक दो सौ चौदहवाँ अध्याय पूरा हुआ॥२१४॥
 </details>
+</details>
+

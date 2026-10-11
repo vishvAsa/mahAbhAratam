@@ -4,16 +4,11 @@ title_full = "015 जरासंधके विषयमें राजा �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-015p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-015p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-015p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-015p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-015p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-015p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "015 जरासंधके विषयमें राजा �
 
 जरासंधके विषयमें राजा युधिष्ठिर, भीम और श्रीकृष्णकी बातचीत
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -201,11 +201,6 @@ _युधिष्ठिर बोले—_ श्रीकृष्ण! आ�
 तच्छ्रुत्वा चाब्रवीद् भीमो वाक्यं वाक्यविशारदः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीम उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -218,6 +213,11 @@ _युधिष्ठिर बोले—_ श्रीकृष्ण! आ�
 
 केशव! मेरे लिये सभी कार्योंमें आप ही प्रमाण हैं। युधिष्ठिरका यह वचन सुनकर बोलनेमें चतुर भीमसेनने यह वचन कहा॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीम उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -286,11 +286,6 @@ _भीमसेन बोले—_ महाराज! जो राजा उ
 जयोऽस्माकं हि गोविन्द येषां नाथो भवान् सदा॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कृष्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -303,6 +298,11 @@ _भीमसेन बोले—_ महाराज! जो राजा उ
 
 गोविन्द! आपके बुद्धिबलका आश्रय लेकर धर्मराज युधिष्ठिर सब कुछ पा सकते हैं। जिनकी सदा रक्षा करनेवाले आप हैं, उनकी—हम पाण्डवोंकी विजय निश्चित है।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कृष्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -499,11 +499,6 @@ _श्रीकृष्णने कहा—_ राजन्! अज्ञ�
 जयेद् यश्च जरासंधं स सम्राण्नियतं भवेत् ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें श्रीकृष्णवाक्य-विषयक पंद्रहवाँ अध्याय पूरा हुआ॥१५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -522,8 +517,14 @@ _श्रीकृष्णने कहा—_ राजन्! अज्ञ�
 इति श्रीमहाभारते सभापर्वणि राजसूयारम्भपर्वणि कृष्णवाक्ये पञ्चदशोऽध्यायः ॥ १५ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें श्रीकृष्णवाक्य-विषयक पंद्रहवाँ अध्याय पूरा हुआ॥१५॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलाकर कुल २६ श्लोक हैं)
 </details>
 </details>
+

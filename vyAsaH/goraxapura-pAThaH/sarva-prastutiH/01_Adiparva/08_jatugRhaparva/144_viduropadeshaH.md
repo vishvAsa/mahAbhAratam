@@ -4,16 +4,11 @@ title_full = "144 पाण्डवोंकी वारणावत-यात
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-144p01.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-144p01.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-144p02.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-144p02.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-144p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-144p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "144 पाण्डवोंकी वारणावत-यात
 
 पाण्डवोंकी वारणावत-यात्रा तथा उनको विदुरका गुप्त-उपदेश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -571,11 +571,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 श्रोतुमिच्छामि तत् सर्वं संवादं तव तस्य च ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -588,6 +583,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘यदि उसे हम भी समझ सकें और हमारे जाननेसे कोई दोष न आता हो तो तुम्हारी और उनकी सारी बातचीतका रहस्य मैं सुनना चाहती हूँ’॥३१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -616,11 +616,6 @@ _युधिष्ठिरने कहा—_ माँ! जिनकी ब�
 विज्ञातमिति तत् सर्वं प्रत्युक्तो विदुरो मया ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -635,15 +630,15 @@ _युधिष्ठिरने कहा—_ माँ! जिनकी ब�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टमेऽहनि रोहिण्यां प्रयाताः फाल्गुनस्य ते।  
 वारणावतमासाद्य ददृशुर्नागरं जनम् ॥ ३४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें पाण्डवोंकी वारणावतयात्राविषयक एक सौ चौवालीसवाँ अध्याय पूरा हुआ॥१४४॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -662,6 +657,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि जतुगृहपर्वणि वारणावतगमने चतुश्चत्वारिंशदधिकशततमोऽध्यायः ॥ १४४ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें पाण्डवोंकी वारणावतयात्राविषयक एक सौ चौवालीसवाँ अध्याय पूरा हुआ॥१४४॥
 </details>
 </details>
 

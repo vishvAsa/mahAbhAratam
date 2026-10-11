@@ -4,14 +4,9 @@ title_full = "041 शृंगी ऋषिका राजा परीक्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-041p01.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-041p01.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-041p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-041p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "041 शृंगी ऋषिका राजा परीक्�
 
 शृंगी ऋषिका राजा परीक्षित्‌को शाप देना और शमीकका अपने पुत्रको शान्त करते हुए शापको अनुचित बताना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -53,11 +53,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 अपृच्छत् तं कथं तातः स मेऽद्य मृतधारकः ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कृश उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -72,15 +67,15 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कृश उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ञा परिक्षिता तात मृगयां परिधावता।  
 अवसक्तः पितुस्तेऽद्य मृतः स्कन्धे भुजङ्गमः ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शृंग्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -97,15 +92,15 @@ _कृशने कहा—_ तात! आज राजा परीक्ष
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शृंग्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं मे पित्रा कृतं तस्य राज्ञोऽनिष्टं दुरात्मनः।  
 ब्रूहि तत् कृश तत्त्वेन पश्य मे तपसो बलम्॥४॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कृश उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -120,6 +115,11 @@ _कृशने कहा—_ तात! आज राजा परीक्ष
 
 _शृंगी बोला—_ कृश! ठीक-ठीक बताओ, मेरे पिताने उस दुरात्मा राजाका क्या अपराध किया था? फिर मेरी तपस्याका बल देखना॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कृश उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -176,11 +176,6 @@ _कृशने कहा—_ अभिमन्युपुत्र राज
 सोऽपि राजा स्वनगरं प्रस्थितो गजसाह्वयम् ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -193,6 +188,11 @@ _कृशने कहा—_ अभिमन्युपुत्र राज
 
 शृंगिन्! संयमपूर्वक व्रतका पालन करनेवाले तुम्हारे पिता अभी उसी अवस्थामें बैठे हैं और वे राजा परीक्षित् अपनी राजधानी हस्तिनापुरको चले गये हैं॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -221,11 +221,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 वार्युपस्पृश्य तेजस्वी क्रोधवेगबलात्कृतः ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शृंग्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -240,6 +235,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शृंग्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योऽसौ वृद्धस्य तातस्य तथा कृच्छ्रगतस्य ह।  
@@ -248,11 +248,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 आशीविषस्तिग्मतेजा मद्वाक्यबलचोदितः ॥ १३ ॥  
 सप्तरात्रादितो नेता यमस्य सदनं प्रति।  
 द्विजानामवमन्तारं कुरूणामयशस्करम् ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -271,6 +266,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 
 _शृंगी बोला—_ जिस पापात्मा नरेशने वैसे धर्म-संकटमें पड़े हुए मेरे बूढ़े पिताके कंधेपर मरा साँप रख दिया है, ब्राह्मणोंका अपमान करनेवाले उस कुरुकुलकलंक पापी परीक्षित्‌को आजसे सात रातके बाद प्रचण्ड तेजस्वी पन्नगोत्तम तक्षक नामक विषैला नाग अत्यन्त कोपमें भरकर मेरे वाक्यबलसे प्रेरित हो यमलोक पहुँचा देगा॥१२—१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -324,11 +324,6 @@ _उग्रश्रवाजी कहते हैं—_ इस प्र�
 तमब्रवीत् पिता ब्रह्मंस्तथा कोपसमन्वितम् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शमीक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -346,6 +341,11 @@ _उग्रश्रवाजी कहते हैं—_ इस प्र�
 
 वह दुःखसे आँसू बहाने लगा। उसने पितासे कहा—‘तात! उस दुरात्मा राजा परीक्षित्‌के द्वारा आपके इस अपमानकी बात सुनकर मैंने उसे क्रोधपूर्वक जैसा शाप दिया है, वह कुरुकुलाधम वैसे ही भयंकर शापके योग्य है। आजके सातवें दिन नागराज तक्षक उस पापीको अत्यन्त भयंकर यमलोकमें पहुँचा देगा।’ ब्रह्मन्! इस प्रकार क्रोधमें भरे हुए पुत्रसे उसके पिता शमीकने कहा॥१७—१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शमीक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -550,11 +550,6 @@ _शमीक बोले—_ वत्स! तुमने शाप देक
 न ह्यर्हति नृपः शापमस्मत्तः पुत्र सर्वथा ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें परीक्षित्‌-शापविषयक इकतालीसवाँ अध्याय पूरा हुआ॥४१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -572,4 +567,10 @@ _शमीक बोले—_ वत्स! तुमने शाप देक
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि परिक्षिच्छापे एकचत्वारिंशोऽध्यायः ॥ ४१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें परीक्षित्‌-शापविषयक इकतालीसवाँ अध्याय पूरा हुआ॥४१॥
 </details>
+</details>
+

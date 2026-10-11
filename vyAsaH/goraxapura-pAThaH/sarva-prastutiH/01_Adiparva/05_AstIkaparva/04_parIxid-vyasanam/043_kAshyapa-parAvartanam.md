@@ -4,12 +4,7 @@ title_full = "043 तक्षकका धन देकर काश्यप�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-043.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-तक्षक उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-043.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "043 तक्षकका धन देकर काश्यप�
 
 तक्षकका धन देकर काश्यपको लौटा देना और छलसे राजा परीक्षित्‌के समीप पहुँचकर उन्हें डँसना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+तक्षक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,11 +51,6 @@ _तक्षक बोला—_ काश्यप! यदि इस जगत
 न्यग्रोधमेनं धक्ष्यामि पश्यतस्ते द्विजोत्तम ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-काश्यप उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -70,15 +65,15 @@ _तक्षक बोला—_ काश्यप! यदि इस जगत
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+काश्यप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दश नागेन्द्र वृक्षं त्वं यद्येतदभिमन्यसे।  
 अहमेनं त्वया दष्टं जीवयिष्ये भुजङ्गम ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -93,6 +88,11 @@ _तक्षक बोला—_ काश्यप! यदि इस जगत
 
 _काश्यपने कहा—_ नागराज! यदि तुम्हें इतना अभिमान है तो इस वृक्षको डँसो। भुजंगम! तुम्हारे डँसे हुए इस वृक्षको मैं अभी जीवित कर दूँगा॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -141,11 +141,6 @@ _उग्रश्रवाजी कहते हैं—_ महात्म
 कुरु यत्नं द्विजश्रेष्ठ जीवयैनं वनस्पतिम् ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -158,6 +153,11 @@ _उग्रश्रवाजी कहते हैं—_ महात्म
 
 इस प्रकार उस वृक्षको जलाकर नागराज पुनः काश्यपसे बोला—‘द्विजश्रेष्ठ! अब तुम यत्न करो और इस वृक्षको जिला दो’॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -326,11 +326,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 निरंशुरिव घर्मांशुरन्तर्धानमितो व्रजेत् ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-काश्यप उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -345,15 +340,15 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+काश्यप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनार्थी याम्यहं तत्र तन्मे देहि भुजङ्गम।  
 ततोऽहं विनिवर्तिष्ये स्वापतेयं प्रगृह्य वै ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-तक्षक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -370,15 +365,15 @@ _काश्यपने कहा—_ नागराज तक्षक! म�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+तक्षक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावद्धनं प्रार्थयसे तस्माद् राज्ञस्ततोऽधिकम्।  
 अहमेव प्रदास्यामि निवर्तस्व द्विजोत्तम ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -393,6 +388,11 @@ _काश्यपने कहा—_ नागराज तक्षक! म�
 
 _तक्षक बोला—_ द्विजश्रेष्ठ! तुम राजा परीक्षित्‌से जितना धन पाना चाहते हो, उससे अधिक मैं ही दे दूँगा, अतः लौट जाओ॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -426,11 +426,6 @@ _उग्रश्रवाजी कहते हैं—_ तक्षकक
 मन्त्रैर्गदैर्विषहरै रक्ष्यमाणं प्रयत्नतः ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -450,17 +445,17 @@ _उग्रश्रवाजी कहते हैं—_ तक्षकक
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चिन्तयामास तदा मायायोगेन पार्थिवः ॥ २२ ॥  
 मया वञ्चयितव्योऽसौ क उपायो भवेदिति।  
 ततस्तापसरूपेण प्राहिणोत् स भुजङ्गमान् ॥ २३ ॥  
 फलदर्भोदकं गृह्य राज्ञे नागोऽथ तक्षकः।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-तक्षक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -479,15 +474,15 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+तक्षक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छध्वं यूयमव्यग्रा राजानं कार्यवत्तया ॥ २४ ॥  
 फलपुष्पोदकं नाम प्रतिग्राहयितुं नृपम्।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -502,6 +497,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 
 _तक्षकने कहा—_ तुमलोग कार्यकी सफलताके लिये राजाके पास जाओ, किंतु तनिक भी व्यग्र न होना। तुम्हारे जानेका उद्देश्य है—महाराजको फल, फूल और जल भेंट करना॥२४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -661,11 +661,6 @@ _उग्रश्रवाजी कहते हैं—_ तक्षकक
 अदशत् पृथिवीपालं तक्षकः पन्नगेश्वरः ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें तक्षक-दंशनविषयक तैंतालीसवाँ अध्याय पूरा हुआ॥४३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -688,4 +683,10 @@ _उग्रश्रवाजी कहते हैं—_ तक्षकक
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि तक्षकदंशे त्रिचत्वारिंशोऽध्यायः ॥ ४३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें तक्षक-दंशनविषयक तैंतालीसवाँ अध्याय पूरा हुआ॥४३॥
 </details>
+</details>
+

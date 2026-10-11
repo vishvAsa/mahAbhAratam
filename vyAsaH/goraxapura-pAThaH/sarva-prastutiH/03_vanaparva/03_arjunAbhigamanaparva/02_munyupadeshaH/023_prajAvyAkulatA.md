@@ -4,16 +4,11 @@ title_full = "023 पाण्डवोंका द्वैतवनमें 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-023-p01.mp3"></div>
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-023-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-023-p02.mp3"></div>
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-023-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-023-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-023-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "023 पाण्डवोंका द्वैतवनमें 
 
 पाण्डवोंका द्वैतवनमें जानेके लिये उद्यत होना और प्रजावर्गकी व्याकुलता
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,11 +365,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 युधिष्ठिरेणानुमता यथास्वम् ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्वैतवनप्रवेशविषयक तेईसवाँ अध्याय पूरा हुआ॥२३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -389,4 +384,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि द्वैतवनप्रवेशे त्रयोविंशोऽध्यायः ॥ २३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्वैतवनप्रवेशविषयक तेईसवाँ अध्याय पूरा हुआ॥२३॥
 </details>
+</details>
+

@@ -4,28 +4,23 @@ title_full = "005 नारदजीका युधिष्ठिरकी स
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p05.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p06.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p06.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p07.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p07.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p08.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p08.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p09.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-005p09.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -40,6 +35,11 @@ title_full = "005 नारदजीका युधिष्ठिरकी स
 
 नारदजीका युधिष्ठिरकी सभामें आगमन और प्रश्नके रूपमें युधिष्ठिरको शिक्षा देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -157,11 +157,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 धर्मकामार्थसंयुक्तं पप्रच्छेदं युधिष्ठिरम् ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -175,6 +170,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 राजा युधिष्ठिरसे यथोचित पूजा पाकर नारदजी भी बहुत प्रसन्न हुए। इस प्रकार सम्पूर्ण पाण्डवोंसे पूजित होकर उन वेदवेत्ता महर्षिने युधिष्ठिरसे धर्म, काम और अर्थ तीनोंके उपदेशपूर्वक ये बातें पूछीं॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2023,11 +2023,6 @@ _युधिष्ठिर!_  तुम नास्तिकता, झूठ
 कच्चित् ते सफला दाराः कच्चित् ते सफलं श्रुतम्॥१११॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2042,15 +2037,15 @@ _युधिष्ठिर!_  तुम नास्तिकता, झूठ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं वै सफला वेदाः कथं वै सफलं धनम्।  
 कथं वै सफला दाराः कथं वै सफलं श्रुतम्॥११२॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2067,15 +2062,15 @@ _युधिष्ठिरने पूछा—_ देवर्षे! व�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निहोत्रफला वेदा दत्तभुक्तफलं धनम्।  
 रतिपुत्रफला दाराः शीलवृत्तफलं श्रुतम् ॥ ११३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2092,15 +2087,15 @@ _नारदजीने कहा—_ राजन्! वेदोंकी �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदाख्याय स मुनिर्नारदो वै महातपाः।  
 पप्रच्छानन्तरमिदं धर्मात्मानं युधिष्ठिरम् ॥ ११४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2115,6 +2110,11 @@ _नारदजीने कहा—_ राजन्! वेदोंकी �
 
 _वैशम्पायनजी कहते हैं—_ राजन्! यह कहकर महातपस्वी नारद मुनिने धर्मात्मा युधिष्ठिरसे पुनः इस प्रकार प्रश्न किया॥११४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2343,11 +2343,6 @@ _नारदजीने पूछा—_ राजन्! कर वसूल�
 निद्राऽऽलस्यं भयं क्रोधोऽमार्दवं दीर्घसूत्रता ॥ १२६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2362,17 +2357,17 @@ _नारदजीने पूछा—_ राजन्! कर वसूल�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कुरूणामृषभो महात्मा  
 श्रुत्वा गिरो ब्राह्मणसत्तमस्य ।  
 प्रणम्य पादावभिवाद्य तुष्टो  
 राजाब्रवीन्नारदं देवरूपम् ॥ १२७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2391,17 +2386,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं करिष्यामि यथा त्वयोक्तं  
 प्रज्ञा हि मे भूय एवाभिवृद्धा।  
 उक्त्वा तथा चैव चकार राजा  
 लेभे महीं सागरमेखलां च ॥ १२८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2420,15 +2415,15 @@ _युधिष्ठिर बोले—_ देवर्षे! आपन�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं यो वर्तते राजा चातुर्वर्ण्यस्य रक्षणे।  
 स विहृत्येह सुसुखी शक्रस्यैति सलोकताम् ॥ १२९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें नारदजीके द्वारा प्रश्नके व्याजसे राजधर्मका उपदेशविषयक पाँचवाँ अध्याय पूरा हुआ॥५॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2447,6 +2442,11 @@ _नारदजीने कहा—_ जो राजा इस प्रक�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि लोकपालसभाख्यानपर्वणि नारदप्रश्नमुखेन राजधर्मानुशासने पञ्चमोऽध्यायः ॥ ५ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें नारदजीके द्वारा प्रश्नके व्याजसे राजधर्मका उपदेशविषयक पाँचवाँ अध्याय पूरा हुआ॥५॥
 </details>
 </details>
 

@@ -3,12 +3,6 @@ title = "०४३ भीष्पादिसम्मानने"
 title_full = "043 गीताका माहात्म्य तथा युधिष्ठिरका भीष्म, द्रोण कृप और शल्यसे अनुमति लेकर युद्धके लिये तैयार होना"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -21,6 +15,11 @@ title_full = "043 गीताका माहात्म्य तथा य�
 
 गीताका माहात्म्य तथा युधिष्ठिरका भीष्म, द्रोण, कृप और शल्यसे अनुमति लेकर युद्धके लिये तैयार होना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,11 +110,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सारमुद्‌धृत्य कृष्णेन अर्जुनस्य मुखे हुतम् ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -128,6 +122,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 भारतरूपी अमृतराशिके सर्वस्व सारभूत गीताका मन्थन करके उसका सार निकालकर श्रीकृष्णने अर्जुनके मुखमें (कानोंद्वारा मन-बुद्धिमें) डाल दिया है॥५॥[^*]
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,11 +233,6 @@ _संजय कहते हैं—_ राजन्! तदनन्तर 
 तथा मुख्याश्च राजानस्तच्चित्ता जग्मुरुत्सुकाः ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -255,15 +249,15 @@ _संजय कहते हैं—_ राजन्! तदनन्तर 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं ते व्यवसितं राजन् यदस्मानपहाय वै।  
 पद्भ्यामेव प्रयातोऽसि प्राङ्‌मुखो रिपुवाहिनीम् ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -280,15 +274,15 @@ _अर्जुनने पूछा—_ राजन्! आपने क्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व गमिष्यसि राजेन्द्र निक्षिप्तकवचायुधः।  
 दंशितेष्वरिसैन्येषु भ्रातॄनुत्सृज्य पार्थिव ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नकुल उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -305,15 +299,15 @@ _भीमसेनने पूछा—_ महाराज! पृथ्व�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नकुल उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं गते त्वयि ज्येष्ठे मम भ्रातरि भारत।  
 भीर्मे दुनोति हृदयं ब्रूहि गन्ता भवान् क्व नु॥१८॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सहदेव उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -330,15 +324,15 @@ _नकुलने पूछा—_ भारत! आप मेरे बड़
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सहदेव उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन् रणसमूहे वै वर्तमाने महाभये।  
 उत्सृज्य क्व नु गन्तासि शत्रूनभिमुखो नृप ॥ १९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -353,6 +347,11 @@ _नकुलने पूछा—_ भारत! आप मेरे बड़
 
 _सहदेवने पूछा—_ नरेश्वर! इस रणक्षेत्रमें जहाँ शत्रु-सेनाका समूह जुटा हुआ है और महान् भय उपस्थित है, आप हमें छोड़कर शत्रुओंकी ओर कहाँ जायँगे?॥१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -683,11 +682,6 @@ _संजय कहते हैं—_ राजन्! भाइयोंक�
 भीष्मं शान्तनवं राजा युद्धाय समुपस्थितम् ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -702,15 +696,15 @@ _संजय कहते हैं—_ राजन्! भाइयोंक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आमन्त्रये त्वां दुर्धर्ष त्वया योत्स्यामहे सह।  
 अनुजानीहि मां तात आशिषश्च प्रयोजय ॥ ३७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -725,6 +719,11 @@ _संजय कहते हैं—_ राजन्! भाइयोंक�
 
 _युधिष्ठिर बोले—_ दुर्धर्ष वीर पितामह! मैं आपसे आज्ञा चाहता हूँ, मुझे आपके साथ युद्ध करना है। तात! इसके लिये आप मुझे आज्ञा और आशीर्वाद प्रदान करें॥३७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -813,11 +812,6 @@ _भीष्मजी बोले—_ पृथ्वीपते! भरत�
 भृतोऽस्म्यर्थेन कौरव्य युद्धादन्यत्‌ किमिच्छसि ॥ ४२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -832,15 +826,15 @@ _भीष्मजी बोले—_ पृथ्वीपते! भरत�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रयस्व महाबाहो हितैषी मम नित्यशः।  
 युध्यस्व कौरवस्यार्थे ममैष सततं वरः ॥ ४३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -857,15 +851,15 @@ _युधिष्ठिर बोले—_ महाबाहो! आप स�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् किमत्र साह्यं ते करोमि कुरुनन्दन।  
 कामं योत्स्ये परस्यार्थे ब्रूहि यत्‌ ते विवक्षितम् ॥ ४४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -882,15 +876,15 @@ _भीष्म बोले—_ राजन्! कुरुनन्दन! 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं जयेयं संग्रामे भवन्तमपराजितम्।  
 एतन्मे मन्त्रय हितं यदि श्रेयः प्रपश्यसि ॥ ४५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -907,15 +901,15 @@ _युधिष्ठिर बोले—_ पितामह! आप तो 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैनं पश्यामि कौन्तेय यो मां युध्यन्तमाहवे।  
 विजयेत पुमान् कश्चित् साक्षादपि शतक्रतुः ॥ ४६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -932,15 +926,15 @@ _भीष्मने कहा—_ कुन्तीनन्दन! मै�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त पृच्छामि तस्मात् त्वां पितामह नमोऽस्तु ते।  
 वधोपायं ब्रवीहि त्वमात्मनः समरे परैः ॥ ४७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -957,15 +951,15 @@ _युधिष्ठिर बोले—_ पितामह! आपको �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न स्म तं तात पश्यामि समरे यो जयेत माम्।  
 न तावन्मृत्युकालोऽपि पुनरागमनं कुरु ॥ ४८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -980,6 +974,11 @@ _युधिष्ठिर बोले—_ पितामह! आपको �
 
 _भीष्म बोले—_ बेटा! जो समरभूमिमें मुझे जीत ले, ऐसे किसी वीरको मैं नहीं देखता हूँ। अभी मेरा मृत्युकाल भी नहीं आया है; अतः अपने इस प्रश्नका उत्तर लेनेके लिये फिर कभी आना॥४८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1016,11 +1015,6 @@ _संजय बोले—_ कुरुनन्दन! तदनन्त�
 कथं जये रिपून् सर्वाननुज्ञातस्त्वया द्विज ॥ ५२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1033,6 +1027,11 @@ _संजय बोले—_ कुरुनन्दन! तदनन्त�
 
 ‘भगवन्! मैं सलाह पूछता हूँ, किस प्रकार आपके साथ निरपराध एवं पापरहित होकर युद्ध करूँगा? विप्रवर! आपकी आज्ञासे मैं समस्त शत्रुओंको किस प्रकार जीतूँ?’॥५२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1121,11 +1120,6 @@ _द्रोणाचार्य बोले—_ महाराज! यद�
 योत्स्येऽहं कौरवस्यार्थे तवाशास्यो जयो मया ॥ ५७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1140,15 +1134,15 @@ _द्रोणाचार्य बोले—_ महाराज! यद�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जयमाशास्व मे ब्रह्मन् मन्त्रयस्व च मद्धितम्।  
 युद्ध्यस्व कौरवस्यार्थे वर एष वृतो मया ॥ ५८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1163,6 +1157,11 @@ _द्रोणाचार्य बोले—_ महाराज! यद�
 
 _युधिष्ठिर बोले—_ ब्रह्मन्! आप मेरी विजय चाहें और मेरे हितकी सलाह देते रहें; युद्ध दुर्योधनकी ओरसे ही करें। यही वर मैंने आपसे माँगा है॥५८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1191,11 +1190,6 @@ _द्रोणाचार्यने कहा—_ राजन्! तु�
 युद्ध्यस्व गच्छ कौन्तेय पृच्छ मां किं ब्रवीमि ते॥६०॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1210,15 +1204,15 @@ _द्रोणाचार्यने कहा—_ राजन्! तु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृच्छामि त्वां द्विजश्रेष्ठ शृणु यन्मेऽभिकाङ्‌क्षितम्।  
 कथं जयेयं संग्रामे भवन्तमपराजितम् ॥ ६१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1235,15 +1229,15 @@ _युधिष्ठिर बोले—_ द्विजश्रेष्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तेऽस्ति विजयस्तावद्‌ यावत् युद्ध्याम्यहं रणे।  
 ममाशु निधने राजन् यतस्व सह सोदरैः ॥ ६२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1260,15 +1254,15 @@ _द्रोणाचार्य बोले—_ राजन्! मैं �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त तस्मान्महाबाहो वधोपायं वदात्मनः।  
 आचार्य प्रणिपत्यैष पृच्छामि त्वां नमोऽस्तु ते ॥ ६३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1283,6 +1277,11 @@ _द्रोणाचार्य बोले—_ राजन्! मैं �
 
 _युधिष्ठिर बोले—_ महाबाहु आचार्य! इसलिये अब आप अपने वधका उपाय मुझे बताइये। आपको नमस्कार है। मैं आपके चरणोंमें प्रणाम करके यह प्रश्न कर रहा हूँ॥६३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1331,11 +1330,6 @@ _द्रोणाचार्य बोले—_ तात! जब मैं 
 श्रद्धेयवाक्यात् पुरुषादेतत् सत्यं ब्रवीमि ते ॥ ६६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1348,6 +1342,11 @@ _द्रोणाचार्य बोले—_ तात! जब मैं 
 
 यदि मैं किसी विश्वसनीय पुरुषसे युद्ध-भूमिमें कोई अत्यन्त अप्रिय समाचार सुन लूँ तो हथियार नीचे डाल दूँगा। यह मैं तुमसे सच्ची बात कह रहा हूँ॥६६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1396,11 +1395,6 @@ _संजय कहते हैं—_ महाराज! परम बुद
 जयेयं च रिपून् सर्वाननुज्ञातस्त्वयानघ ॥ ६९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कृप उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1413,6 +1407,11 @@ _संजय कहते हैं—_ महाराज! परम बुद
 
 ‘निष्पाप गुरुदेव! मैं पापरहित रहकर आपके साथ युद्ध कर सकूँ, इसके लिये आपकी अनुमति चाहता हूँ। आपका आदेश पाकर मैं समस्त शत्रुओंको संग्राममें जीत सकता हूँ’॥६९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कृप उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1461,11 +1460,6 @@ _कृपाचार्य बोले—_ महाराज! यदि य�
 अतस्त्वां क्लीबवद् ब्रूयां युद्धादन्यत्‌ किमिच्छसि ॥ ७२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1480,15 +1474,15 @@ _कृपाचार्य बोले—_ महाराज! यदि य�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त पृच्छामि ते तस्मादाचार्य शृणु मे वचः।  
 इत्युक्त्वा व्यथितो राजा नोवाच गतचेतनः ॥ ७३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1503,6 +1497,11 @@ _कृपाचार्य बोले—_ महाराज! यदि य�
 
 _युधिष्ठिर बोले—_ आचार्य! इसलिये अब मैं आपसे पूछता हूँ। आप मेरी बात सुनिये। इतना कहकर राजा युधिष्ठिर व्यथित और अचेत-से होकर उनसे कुछ भी बोल न सके॥७३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1591,11 +1590,6 @@ _संजय कहते हैं—_ पृथ्वीपते! कृप�
 जयेयं नु परान् राजन्ननुज्ञातस्त्वया रिपून् ॥ ७८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शल्य उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1608,6 +1602,11 @@ _संजय कहते हैं—_ पृथ्वीपते! कृप�
 
 ‘दुर्धर्ष वीर! मैं पापरहित एवं निरपराध रहकर आपके साथ युद्ध करूँगा; इसके लिये आपकी अनुमति चाहता हूँ। राजन्! आपकी आज्ञा पाकर मैं समस्त शत्रुओंको युद्धमें परास्त कर सकता हूँ’॥७८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शल्य उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1696,11 +1695,6 @@ _शल्य बोले—_ महाराज! यदि युद्धक�
 ब्रवीम्यतः क्लीबवत् त्वां युद्धादन्यत्‌ किमिच्छसि ॥ ८३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1715,15 +1709,15 @@ _शल्य बोले—_ महाराज! यदि युद्धक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रयस्व महाराज नित्यं मद्धितमुत्तमम्।  
 कामं युद्ध्य परस्यार्थे वरमेतं वृणोम्यहम् ॥ ८४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शल्य उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1740,15 +1734,15 @@ _युधिष्ठिर बोले—_ महाराज! मैं आ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शल्य उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमत्र ब्रूहि साह्यं ते करोमि नृपसत्तम।  
 कामं योत्स्ये परस्यार्थे बद्धोऽस्म्यर्थेन कौरवैः ॥ ८५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1765,17 +1759,17 @@ _शल्य बोले—_ नृपश्रेष्ठ! बताओ, इ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एव मे वरः शल्य उद्योगे यस्त्वया कृतः।  
 सूतपुत्रस्य संग्रामे कार्यस्तेजोवधस्त्वया ॥ ८६ ॥  
 (त्वां हि योक्ष्यति सूतत्वे सूतपुत्रस्य मातुल।  
 दुर्योधनो रणे शूरमिति मे नैष्ठिकी मतिः॥)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शल्य उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1794,15 +1788,15 @@ _युधिष्ठिर बोले—_ मामाजी! जब यु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शल्य उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पत्स्यत्येष ते कामः कुन्तीपुत्र यथेप्सितम्।  
 गच्छ युध्यस्व विश्रब्धः प्रतिजाने वचस्तव ॥ ८७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1817,6 +1811,11 @@ _युधिष्ठिर बोले—_ मामाजी! जब यु�
 
 _शल्य बोले—_ कुन्तीनन्दन! तुम्हारा यह अभीष्ट मनोरथ अवश्य पूर्ण होगा। जाओ, निश्चिन्त होकर युद्ध करो। मैं तुम्हारे वचनका पालन करनेकी प्रतिज्ञा करता हूँ॥८७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1885,11 +1884,6 @@ _संजय कहते हैं—_ राजन्! इस प्रका
 धार्तराष्ट्रस्य साहाय्यं यदि पश्यसि चेत् समम् ॥ ९१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1904,15 +1898,15 @@ _संजय कहते हैं—_ राजन्! इस प्रका
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न विप्रियं करिष्यामि धार्तराष्ट्रस्य केशव।  
 त्यक्तप्राणं हि मां विद्धि दुर्योधनहितैषिणम् ॥ ९२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1927,6 +1921,11 @@ _संजय कहते हैं—_ राजन्! इस प्रका
 
 _कर्ण बोला—_ केशव! आपको मालूम होना चाहिये कि मैं दुर्योधनका हितैषी हूँ। उसके लिये अपने प्राणोंको निछावर किये बैठा हूँ; अतः मैं उसका अप्रिय कदापि नहीं करूँगा॥९२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1995,11 +1994,6 @@ _संजय कहते हैं—_ भारत! कर्णकी यह
 युष्मदर्थं महाराज यदि मां वृणुषेऽनघ ॥ ९६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2012,6 +2006,11 @@ _संजय कहते हैं—_ भारत! कर्णकी यह
 
 ‘महाराज! निष्पाप नरेश! यदि आप मुझे स्वीकार करें तो मैं आपलोगोंके लिये युद्धमें धृतराष्ट्रके पुत्रोंसे युद्ध करूँगा’॥९६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2060,11 +2059,6 @@ _युधिष्ठिर बोले—_ युयुत्सो! आओ, 
 न भविष्यति दुर्बुद्धिर्धार्तराष्ट्रोऽत्यमर्षणः ॥ ९९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2077,6 +2071,11 @@ _युधिष्ठिर बोले—_ युयुत्सो! आओ, 
 
 महातेजस्वी राजकुमार! हम तुम्हें अपनाते हैं। तुम भी हमें स्वीकार करो। अत्यन्त क्रोधी दुर्बुद्धि दुर्योधन अब इस संसारमें जीवित नहीं रहेगा॥९९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2287,11 +2286,6 @@ _संजय कहते हैं—_ राजन्! तदनन्तर 
 शङ्‌खांश्च गोक्षीरनिभान्‌ दध्मुर्हृष्टा मनस्विनः ॥ १०९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत भीष्मपर्वके अन्तर्गत भीष्मवधपर्वमें भीष्म आदिका समादरविषयक तैंतालीसवाँ अध्याय पूरा हुआ॥४३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2308,6 +2302,11 @@ _संजय कहते हैं—_ राजन्! तदनन्तर 
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते भीष्मपर्वणि भीष्मवधपर्वणि भीष्पादिसम्मानने त्रिचत्वारिंशोऽध्यायः ॥ ४३ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत भीष्मपर्वके अन्तर्गत भीष्मवधपर्वमें भीष्म आदिका समादरविषयक तैंतालीसवाँ अध्याय पूरा हुआ॥४३॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

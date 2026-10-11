@@ -4,16 +4,11 @@ title_full = "130 द्रोणका द्रुपदसे तिरस्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-130p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-130p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-130p02.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-130p02.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-130p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-130p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "130 द्रोणका द्रुपदसे तिरस्
 
 द्रोणका द्रुपदसे तिरस्कृत हो हस्तिनापुरमें आना, राजकुमारोंसे उनकी भेंट, उनकी बीटा* और अँगूठीको कुएँमेंसे निकालना एवं भीष्मका उन्हें अपने यहाँ सम्मानपूर्वक रखना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -75,11 +75,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ऐश्वर्यमदसम्पन्नो द्रोणं राजाब्रवीदिदम् ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -92,6 +87,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 क्रोध और अमर्षसे उनकी भौंहें टेढ़ी हो गयीं, आँखोंमें लाली छा गयी; धन और ऐश्वर्यके मदसे उन्मत्त होकर वे राजा द्रोणसे यों बोले॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,11 +240,6 @@ _द्रुपदने कहा—_ ब्रह्मन्! तुम्�
 नाराजा पार्थिवस्यापि सखिपूर्वं किमिष्यते ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -257,6 +252,11 @@ _द्रुपदने कहा—_ ब्रह्मन्! तुम्�
 
 जो श्रोत्रिय नहीं है, वह श्रोत्रिय (वेदवेत्ता)-का मित्र नहीं हो सकता। जो रथी नहीं है, वह रथीका सखा नहीं हो सकता। इसी प्रकार जो राजा नहीं है, वह किसी राजाका मित्र कदापि नहीं हो सकता। फिर तुम पुरानी मित्रताका क्यों स्मरण करते हो?॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -512,11 +512,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ततोऽब्रवीत् तदा द्रोणं कुन्तीपुत्रो युधिष्ठिरः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -530,15 +525,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृपस्यानुमते ब्रह्मन् भिक्षामाप्नुहि शाश्वतीम् ॥ २६ ॥  
 एवमुक्तः प्रत्युवाच प्रहस्य भरतानिदम्।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -554,6 +549,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 _युधिष्ठिर बोले—_ ब्रह्मन्! आप कृपाचार्यकी अनुमति ले सदा यहीं रहकर भिक्षा प्राप्त करें।  
 उनके यों कहनेपर द्रोणने हँसकर उन भरतवंशी राजकुमारोंसे कहा॥२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -599,11 +599,6 @@ _द्रोण बोले—_ ये मुट्ठीभर सींक�
 तामन्यया समायोगे वीटाया ग्रहणं मम।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -615,6 +610,11 @@ _द्रोण बोले—_ ये मुट्ठीभर सींक�
 
 इसी प्रकार दूसरीको तीसरीसे बींधते हुए अनेक सींकोंका संयोग होनेपर मुझे गुल्ली मिल जायगी॥२८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -641,11 +641,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 आश्चर्यमिदमत्यन्तमिति मत्वा वचोऽब्रुवन् ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुमारा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -660,14 +655,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुमारा ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुद्रिकामपि विप्रर्षे शीघ्रमेतां समुद्धर।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -683,6 +678,11 @@ _कुमारोंने कहा—_ ब्रह्मर्षे! अ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शरं समादाय धनुर्द्रोणो महायशाः ॥ ३१ ॥  
@@ -690,11 +690,6 @@ _कुमारोंने कहा—_ ब्रह्मर्षे! अ�
 सशरं समुपादाय कूपादङ्गुलिवेष्टनम् ॥ ३२ ॥  
 ददौ ततः कुमाराणां विस्मितानामविस्मितः।  
 मुद्रिकामुद्‌धृतां दृष्ट्वा तमाहुस्ते कुमारकाः ॥ ३३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुमारा ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -714,15 +709,15 @@ _वैशम्पायनजी कहते हैं—_ तब महा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुमारा ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवादयामहे ब्रह्मन् नैतदन्येषु विद्यते।  
 कोऽसि कस्यासि जानीमो वयं किं करवामहे ॥ ३४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -739,14 +734,14 @@ _कुमार बोले—_ ब्रह्मन्! हम आपको 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्ततो द्रोणः प्रत्युवाच कुमारकान्।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -762,15 +757,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आचक्षध्वं च भीष्माय रूपेण च गुणैश्च माम् ॥ ३५ ॥  
 स एव सुमहातेजाः साम्प्रतं प्रतिपत्स्यते।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -785,6 +780,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _द्रोण बोले—_ तुम सब लोग भीष्मजीके पास जाकर मेरे रूप और गुणोंका परिचय दो। वे महातेजस्वी भीष्मजी ही मुझे इस समय पहचान सकते हैं॥३५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -817,11 +817,6 @@ _वैशम्पायनजी कहते हैं—_ ‘बहुत �
 हेतुमागमने तच्च द्रोणः सर्वं न्यवेदयत् ॥ ३९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -836,6 +831,11 @@ _वैशम्पायनजी कहते हैं—_ ‘बहुत �
 
 फिर यह सोचकर कि द्रोणाचार्य ही इन कुमारोंके उपयुक्त गुरु हो सकते हैं, भीष्मजी स्वयं ही आकर उन्हें सत्कारपूर्वक घर ले गये। वहाँ शस्त्रधारियोंमें श्रेष्ठ भीष्मने बड़ी बुद्धिमत्ताके साथ द्रोणाचार्यसे उनके आगमनका कारण पूछा और द्रोणने वह सब कारण इस प्रकार निवेदन किया॥३८-३९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1371,11 +1371,6 @@ _द्रोणाचार्यने कहा—_ अपनी प्रत
 इदं नागपुरं रम्यं ब्रूहि किं करवाणि ते।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1391,14 +1386,14 @@ _द्रोणाचार्यने कहा—_ अपनी प्रत
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तदा भीष्मो भारद्वाजमभाषत ॥ ७६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1412,6 +1407,11 @@ _द्रोणाचार्यने कहा—_ अपनी प्रत
 
 _वैशम्पायनजी कहते हैं—_ द्रोणाचार्यके यों कहनेपर भीष्मने उनसे कहा॥७६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1460,11 +1460,6 @@ _भीष्मजी बोले—_ विप्रवर! अब आप अ
 दिष्ट्या प्राप्तोऽसि विप्रर्षे महान् मेऽनुग्रहः कृतः ॥ ७९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें भीष्म-द्रोण-समागमविषयक एक सौ तीसवाँ अध्याय पूरा हुआ॥१३०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1481,6 +1476,11 @@ _भीष्मजी बोले—_ विप्रवर! अब आप अ
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि भीष्मद्रोणसमागमे त्रिंशदधिकशततमोऽध्यायः ॥ १३० ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें भीष्म-द्रोण-समागमविषयक एक सौ तीसवाँ अध्याय पूरा हुआ॥१३०॥
 </details>
 </details>
 

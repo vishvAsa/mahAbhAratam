@@ -4,14 +4,9 @@ title_full = "182 पाण्डवोंका धौम्यको अपन
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-182p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-182p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-182p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-182p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,15 +22,15 @@ title_full = "182 पाण्डवोंका धौम्यको अपन
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्माकमनुरूपो वै यः स्याद् गन्धर्व वेदवित्।  
 पुरोहितस्तमाचक्ष्व सर्वं हि विदितं तव ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -52,15 +47,15 @@ _अर्जुनने कहा—_ गन्धर्वराज! हम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यवीयान् देवलस्यैष वने भ्राता तपस्यति।  
 धौम्य उत्कोचके तीर्थे तं वृणुध्वं यदीच्छथ ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -75,6 +70,11 @@ _अर्जुनने कहा—_ गन्धर्वराज! हम�
 
 _गन्धर्व बोला—_ कुन्तीनन्दन! इसी वनके उत्कोचक तीर्थमें महर्षि देवलके छोटे भाई धौम्य मुनि तपस्या करते हैं। यदि आपलोग चाहें तो उन्हींका पुरोहितके पदपर वरण करें॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,11 +247,6 @@ _वैशम्पायनजी कहते हैं—_ तब अर्�
 मेनिरे सहिता गन्तुं पाञ्चाल्यास्तं स्वयंवरम् ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें धौम्यको पुरोहित बनानेसे सम्बन्ध रखनेवाला एक सौ बयासीवाँ अध्याय पूरा हुआ॥१८२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -269,4 +264,10 @@ _वैशम्पायनजी कहते हैं—_ तब अर्�
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि धौम्यपुरोहितकरणे द्व‌्यशीत्यधिकशततमोऽध्यायः ॥ १८२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें धौम्यको पुरोहित बनानेसे सम्बन्ध रखनेवाला एक सौ बयासीवाँ अध्याय पूरा हुआ॥१८२॥
 </details>
+</details>
+

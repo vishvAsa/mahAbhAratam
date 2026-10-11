@@ -4,14 +4,9 @@ title_full = "042 शिशुपालकी बातोंपर भीमस
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-042-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-042-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-042-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शिशुपाल उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-042-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "042 शिशुपालकी बातोंपर भीमस
 
 शिशुपालकी बातोंपर भीमसेनका क्रोध और भीष्मजीका उन्हें शान्त करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शिशुपाल उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,11 +173,6 @@ _शिशुपाल बोला—_ महाबली राजा जर�
 स्त्रीसधर्मा च वृद्धश्च सर्वार्थानां प्रदर्शकः ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -190,6 +185,11 @@ _शिशुपाल बोला—_ महाबली राजा जर�
 
 अथवा भारत! स्त्रीके समान धर्मवाले (नपुंसक) और बूढ़े तुम-जैसे लोग जिनके सभी कार्योंमें पथ-प्रदर्शन करते हैं, उनका ऐसा समझना कोई आश्चर्यकी बात नहीं है॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,11 +418,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भीमसेनमुवाचेदं भीष्मो मतिमतां वरः ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत शिशुपालवधपर्वमें भीमक्रोधविषयक बयालीसवाँ अध्याय पूरा हुआ॥४२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -440,4 +435,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि शिशुपालवधपर्वणि भीमक्रोधे द्विचत्वारिंशोऽध्यायः ॥ ४२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत शिशुपालवधपर्वमें भीमक्रोधविषयक बयालीसवाँ अध्याय पूरा हुआ॥४२॥
 </details>
+</details>
+

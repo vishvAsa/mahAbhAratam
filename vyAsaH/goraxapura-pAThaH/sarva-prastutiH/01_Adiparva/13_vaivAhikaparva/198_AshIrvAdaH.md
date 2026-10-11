@@ -4,14 +4,9 @@ title_full = "198 कुन्तीका द्रौपदीको उपद
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-198p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-198p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-198p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-198p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "198 कुन्तीका द्रौपदीको उपद
 
 कुन्तीका द्रौपदीको उपदेश और आशीर्वाद तथा भगवान् श्रीकृष्णका पाण्डवोंके लिये उपहार भेजना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,11 +237,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तथा भूयोऽभिनन्दिष्ये जातपुत्रां गुणान्विताम् ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -254,6 +249,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘बहू! आज तुम्हें वैवाहिक रेशमी वस्त्रोंसे सुशोभित देखकर जिस प्रकार मैं तुम्हारा अभिनन्दन करती हूँ, उसी प्रकार जब तुम पुत्रवती होओगी, उस समय भी अभिनन्दन करूँगी; तुम सद्‌गुणसम्पन्न हो’॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -334,11 +334,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 मुदा परमया युक्तो गोविन्दप्रियकाम्यया ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें एक सौ अट्ठानबेवाँ अध्याय पूरा हुआ॥१९८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -356,4 +351,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि वैवाहिकपर्वणि अष्टनवत्यधिकशततमोऽध्यायः ॥ १९८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें एक सौ अट्ठानबेवाँ अध्याय पूरा हुआ॥१९८॥
 </details>
+</details>
+

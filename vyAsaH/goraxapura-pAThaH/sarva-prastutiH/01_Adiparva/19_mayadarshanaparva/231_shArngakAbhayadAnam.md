@@ -4,14 +4,9 @@ title_full = "231 शार्ङ्गकोंके स्तवनसे प
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-231p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-231p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-231p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरितारिरुवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-231p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "231 शार्ङ्गकोंके स्तवनसे प
 
 शार्ङ्गकोंके स्तवनसे प्रसन्न होकर अग्निदेवका उन्हें अभय देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरितारिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -53,11 +53,6 @@ _जरितारि बोला—_ बुद्धिमान् पुर
 स कृच्छ्रकाले व्यथितो न श्रेयो विन्दते महत् ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सारिसृक्क उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -72,15 +67,15 @@ _जरितारि बोला—_ बुद्धिमान् पुर
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सारिसृक्क उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धीरस्त्वमसि मेधावी प्राणकृच्छ्रमिदं च नः।  
 प्राज्ञः शूरो बहूनां हि भवत्येको न संशयः ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-स्तम्बमित्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -97,15 +92,15 @@ _सारिसृक्कने कहा—_ भैया! तुम धी�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+स्तम्बमित्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठस्तातो भवति वै ज्येष्ठो मुञ्चति कृच्छ्रतः।  
 ज्येष्ठश्चेन्न प्रजानाति कनीयान् किं करिष्यति ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -122,15 +117,15 @@ _स्तम्बमित्र बोला—_ बड़ा भाई प�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हिरण्यरेतास्त्वरितो ज्वलन्नायाति नः क्षयम्।  
 सप्तजिह्वाननः क्रूरो लेलिहानो विसर्पति ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -147,15 +142,15 @@ _द्रोणने कहा—_ यह जाज्वल्यमान �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सम्भाष्य तेऽन्योन्यं मन्दपालस्य पुत्रकाः।  
 तुष्टुवुः प्रयता भूत्वा यथाग्निं शृणु पार्थिव ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरितारिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -170,6 +165,11 @@ _द्रोणने कहा—_ यह जाज्वल्यमान �
 
 _वैशम्पायनजी कहते हैं—_ राजन्! इस प्रकार आपसमें बातें करके मन्दपालके वे पुत्र एकाग्रचित्त हो अग्निदेवकी स्तुति करने लगे; वह स्तुति सुनो॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरितारिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -198,11 +198,6 @@ _जरितारिने कहा—_ अग्निदेव! आप व�
 अर्चिषस्ते महावीर्य रश्मयः सवितुर्यथा ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सारिसृक्क उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -215,6 +210,11 @@ _जरितारिने कहा—_ अग्निदेव! आप व�
 
 महावीर्य! आपकी ज्वालाएँ सूर्यकी किरणोंके समान ऊपर-नीचे, आगे-पीछे तथा अगल-बगल सब ओर फैल रही हैं॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सारिसृक्क उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -269,11 +269,6 @@ _सारिसृक्क बोला—_ धूममयी ध्वजा
 परेणास्मान् प्रेहि वै हव्यवाह ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-स्तम्बमित्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -288,6 +283,11 @@ _सारिसृक्क बोला—_ धूममयी ध्वजा
 
 जातवेदा! एकमात्र आप ही सर्वत्र तपते हैं। देव! सूर्यकी किरणोंमें तपनेवाला पुरुष भी आपसे भिन्न नहीं है। हव्यवाहन! हम बालक ऋषि हैं; हमारी रक्षा कीजिये। हमसे दूर चले जाइये॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+स्तम्बमित्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -338,11 +338,6 @@ _स्तम्बमित्रने कहा—_ अग्ने! एक�
 स्त्वमेवाग्ने भवसि पुनः प्रतिष्ठा ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -357,6 +352,11 @@ _स्तम्बमित्रने कहा—_ अग्ने! एक�
 
 हव्यवाह! आप इन तीनों लोकोंकी सृष्टि करके प्रलयकाल आनेपर पुनः प्रज्वलित हो इन सबका संहार कर देते हैं। अतः अग्ने! आप सम्पूर्ण जगत्‌के उत्पत्तिस्थान हैं और आप ही इसके लयस्थान भी हैं॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -449,11 +449,6 @@ _द्रोण बोला—_ जगत्पते! आप ही शरी
 परेण प्रेहि मुञ्चास्मान् सागरस्य गृहानिव ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -468,15 +463,15 @@ _द्रोण बोला—_ जगत्पते! आप ही शरी
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो जातवेदा द्रोणेन ब्रह्मवादिना।  
 द्रोणमाह प्रतीतात्मा मन्दपालप्रतिज्ञया ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अग्निरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -491,6 +486,11 @@ _द्रोण बोला—_ जगत्पते! आप ही शरी
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! ब्रह्मवादी द्रोणके द्वारा इस प्रकार प्रार्थना की जानेपर प्रसन्नचित्त हुए अग्निने मन्दपालसे की हुई प्रतिज्ञाका स्मरण करके द्रोणसे कहा॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अग्निरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,11 +540,6 @@ _अग्नि बोले—_ जान पड़ता है, तुम �
 भृशं प्रीतोऽस्मि भद्रं ते ब्रह्मन् स्तोत्रेण सत्तम ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -560,15 +555,15 @@ _अग्नि बोले—_ जान पड़ता है, तुम �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे मार्जारकाः शुक्र नित्यमुद्वेजयन्ति नः।  
 एतान् कुरुष्व दग्धांस्त्वं हुताशन सबान्धवान् ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -585,15 +580,15 @@ _द्रोणने कहा—_ शुक्लस्वरूप अग्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तत् कृतवानग्निरभ्यनुज्ञाय शाङ्‌र्गकान्।  
 ददाह खाण्डवं दावं समिद्धो जनमेजय ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें शार्ङ्गकोपाख्यानविषयक दो सौ इकतीसवाँ अध्याय पूरा हुआ॥२३१॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -613,4 +608,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि मयदर्शनपर्वणि शार्ङ्गकोपाख्याने एकत्रिंशदधिकद्विशततमोऽध्यायः ॥ २३१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें शार्ङ्गकोपाख्यानविषयक दो सौ इकतीसवाँ अध्याय पूरा हुआ॥२३१॥
 </details>
+</details>
+

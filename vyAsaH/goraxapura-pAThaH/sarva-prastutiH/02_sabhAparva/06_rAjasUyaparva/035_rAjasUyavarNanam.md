@@ -4,14 +4,9 @@ title_full = "035 राजसूययज्ञका वर्णन"
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-035p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-035p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-035p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-035p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "035 राजसूययज्ञका वर्णन"
 
 राजसूययज्ञका वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -335,11 +335,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ततृपुः सर्ववर्णाश्च तस्मिन् यज्ञे मुदान्विताः ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयपर्वमें यज्ञकरणविषयक पैंतीसवाँ अध्याय पूरा हुआ॥३५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -356,6 +351,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि राजसूयपर्वणि यज्ञकरणे पञ्चत्रिंशोऽध्यायः ॥ ३५ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयपर्वमें यज्ञकरणविषयक पैंतीसवाँ अध्याय पूरा हुआ॥३५॥
 </details>
 </details>
 

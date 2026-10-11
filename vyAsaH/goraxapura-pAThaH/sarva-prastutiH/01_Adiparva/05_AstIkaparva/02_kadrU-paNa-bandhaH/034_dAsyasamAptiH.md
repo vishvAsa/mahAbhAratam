@@ -4,12 +4,7 @@ title_full = "034 इन्द्र और गरुडकी मित्र�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-034.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गरुड उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-034.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "034 इन्द्र और गरुडकी मित्र�
 
 इन्द्र और गरुडकी मित्रता, गरुडका अमृत लेकर नागोंके पास आना और विनताको दासीभावसे छुड़ाना तथा इन्द्रद्वारा अमृतका अपहरण
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गरुड उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,11 +111,6 @@ _गरुडने कहा—_ देव पुरन्दर! जैसी 
 वहेयमपरिश्रान्तो विद्धीदं मे महद् बलम् ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -128,6 +123,11 @@ _गरुडने कहा—_ देव पुरन्दर! जैसी 
 
 अथवा सम्पूर्ण चराचर लोकोंको एकत्र करके यदि मेरे ऊपर रख दिया जाय तो मैं सबको बिना परिश्रमके ढो सकता हूँ। इससे तुम मेरे महान् बलको समझ लो॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,11 +160,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! व�
 अस्मांस्ते हि प्रबाधेयुर्येभ्यो दद्याद् भवानिमम् ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गरुड उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -179,17 +174,17 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! व�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गरुड उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किंचित् कारणमुद्दिश्य सोमोऽयं नीयते मया।  
 न दास्यामि समादातुं सोमं कस्मैचिदप्यहम् ॥ ९ ॥  
 यत्रेमं तु सहस्राक्ष निक्षिपेयमहं स्वयम्।  
 त्वमादाय ततस्तूर्णं हरेथास्त्रिदिवेश्वर ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -208,15 +203,15 @@ _गरुडने कहा—_ स्वर्गके सम्राट्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाक्येनानेन तुष्टोऽहं यत् त्वयोक्तमिहाण्डज।  
 यमिच्छसि वरं मत्तस्तं गृहाण खगोत्तम ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -231,6 +226,11 @@ _गरुडने कहा—_ स्वर्गके सम्राट्
 
 _इन्द्र बोले—_ पक्षिराज! तुमने यहाँ जो बात कही है, उससे मैं बहुत संतुष्ट हूँ। खगश्रेष्ठ! तुम मुझसे जो चाहो, वर माँग लो॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,11 +447,6 @@ _उग्रश्रवाजी कहते हैं—_ इन्द्र
 महात्मनः पतगपतेः प्रकीर्तनात् ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक चौंतीसवाँ अध्याय पूरा हुआ॥३४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -471,4 +466,10 @@ _उग्रश्रवाजी कहते हैं—_ इन्द्र
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे चतुस्त्रिंशोऽध्यायः ॥ ३४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक चौंतीसवाँ अध्याय पूरा हुआ॥३४॥
 </details>
+</details>
+

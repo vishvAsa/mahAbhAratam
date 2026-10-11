@@ -4,12 +4,7 @@ title_full = "006 महर्षि च्यवनका जन्म, उन�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-006.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-006.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "006 महर्षि च्यवनका जन्म, उन�
 
 महर्षि च्यवनका जन्म, उनके तेजसे पुलोमा राक्षसका भस्म होना तथा भृगुका अग्निदेवको शाप देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,11 +160,6 @@ _उग्रश्रवाजी कहते हैं—_ ब्रह्म
 स पुलोमां ततो भार्यां पप्रच्छ कुपितो भृगुः ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -178,6 +173,11 @@ _उग्रश्रवाजी कहते हैं—_ ब्रह्म
 
 इस प्रकार भृगुपुत्र प्रतापी च्यवनका जन्म हुआ। तदनन्तर पिता भृगुने वहाँ अपने पुत्र च्यवन तथा पत्नी पुलोमाको देखा और सब बातें जानकर उन्होंने अपनी भार्या पुलोमासे कुपित होकर पूछा—॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,11 +206,6 @@ _भृगु बोले—_ कल्याणी! तुम्हें ह�
 बिभेति को न शापान्मे कस्य चायं व्यतिक्रमः ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पुलोमोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -223,6 +218,11 @@ _भृगु बोले—_ कल्याणी! तुम्हें ह�
 
 प्रिये! ठीक-ठीक बताओ। आज मैं कुपित होकर अपने उस अपराधीको शाप देना चाहता हूँ। कौन मेरे शापसे नहीं डरता है? किसके द्वारा यह अपराध हुआ है?॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पुलोमोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,11 +251,6 @@ _पुलोमा बोली—_ भगवन्! अग्निदेव�
 भस्मीभूतं च तद् रक्षो मामुत्सृज्य पपात वै ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -270,15 +265,15 @@ _पुलोमा बोली—_ भगवन्! अग्निदेव�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति श्रुत्वा पुलोमाया भृगुः परममन्युमान्।  
 शशापाग्निमतिक्रुद्धः सर्वभक्षो भविष्यसि ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें अग्निशापविषयक छठा अध्याय पूरा हुआ॥६॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -298,4 +293,10 @@ _उग्रश्रवाजी कहते हैं—_ पुलोमा
 
 इति श्रीमहाभारते आदिपर्वणि पौलोमपर्वणि अग्निशापे षष्ठोऽध्यायः ॥ ६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें अग्निशापविषयक छठा अध्याय पूरा हुआ॥६॥
 </details>
+</details>
+

@@ -4,16 +4,11 @@ title_full = "227 देवताओंकी पराजय, खाण्ड�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-227p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-227p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-227p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-227p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-227p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-227p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -28,6 +23,11 @@ title_full = "227 देवताओंकी पराजय, खाण्ड�
 
 देवताओंकी पराजय, खाण्डववनका विनाश और मयासुरकी रक्षा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -836,11 +836,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 न हन्तुमैच्छद् दाशार्हः पावको न ददाह च ॥ ४५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -853,6 +848,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 अर्जुनके अभयदान देनेपर भगवान् श्रीकृष्णने नमुचिके भ्राता मयासुरको मारनेकी इच्छा त्याग दी और अग्निदेवने भी उसे नहीं जलाया॥४५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -881,11 +881,6 @@ _वैशम्पायनजी कहते हैं—_ परम बु�
 अश्वसेनं मयं चैव चतुरः शार्ङ्गकांस्तथा ॥ ४७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें मयदानवकी रक्षाविषयक दो सौ सत्ताईसवाँ अध्याय पूरा हुआ॥२२७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -903,4 +898,10 @@ _वैशम्पायनजी कहते हैं—_ परम बु�
 
 इति श्रीमहाभारते आदिपर्वणि मयदर्शनपर्वणि मयदानवत्राणे सप्तविंशत्यधिकद्विशततमोऽध्यायः ॥ २२७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें मयदानवकी रक्षाविषयक दो सौ सत्ताईसवाँ अध्याय पूरा हुआ॥२२७॥
 </details>
+</details>
+

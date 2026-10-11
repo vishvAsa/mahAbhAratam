@@ -3,12 +3,6 @@ title = "०५७ उत्तङ्कोपाख्याने"
 title_full = "057 उत्तंकका सौदाससे उनकी रानीके कुण्डल माँगना और सौदासके कहनेसे रानी मदयन्तीके पास जाना"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -20,6 +14,11 @@ title_full = "057 उत्तंकका सौदाससे उनकी �
 
 उत्तंकका सौदाससे उनकी रानीके कुण्डल माँगना और सौदासके कहनेसे रानी मदयन्तीके पास जाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -68,11 +67,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भक्ष्यं मृगयमाणस्य सम्प्राप्तो द्विजसत्तम ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उत्तङ्क उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -87,15 +81,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उत्तङ्क उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् गुर्वर्थिनं विद्धि चरन्तं मामिहागतम्।  
 न च गुर्वर्थमुद्युक्तं हिंस्यमाहुर्मनीषिणः ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -112,15 +106,15 @@ _उत्तंक बोले—_ राजन्! आपको मालू�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षष्ठे काले ममाहारो विहितो द्विजसत्तम।  
 न शक्यस्त्वं समुत्स्रष्टुं क्षुधितेन मयाद्य वै ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उत्तङ्क उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -135,6 +129,11 @@ _उत्तंक बोले—_ राजन्! आपको मालू�
 
 _राजाने कहा—_ द्विजश्रेष्ठ! दिनके छठे भागमें मेरे लिये आहारका विधान किया गया है। यह वही समय है। मैं भूखसे पीड़ित हो रहा हूँ। इसलिये मेरे हाथोंसे तुम छूट नहीं सकते॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उत्तङ्क उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -225,11 +224,6 @@ _उत्तंकने कहा—_ महाराज! ऐसा ही स
 अनृतं नोक्तपूर्वं मे स्वैरेष्वपि कुतोऽन्यथा ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौदास उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -244,15 +238,15 @@ _उत्तंकने कहा—_ महाराज! ऐसा ही स
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौदास उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मत्तस्तवायत्तो गुर्वर्थः कृत एव सः।  
 यदि चास्मि प्रतिग्राह्यः साम्प्रतं तद् वदस्व मे ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उत्तङ्क उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -269,15 +263,15 @@ _सौदासने कहा—_ ब्रह्मन्! यदि आप�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उत्तङ्क उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिग्राह्यो मतो मे त्वं सदैव पुरुषर्षभ।  
 सोऽहं त्वामनुसम्प्राप्तो भिक्षितुं मणिकुण्डले ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौदास उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -294,15 +288,15 @@ _उत्तंकने कहा—_ पुरुषप्रवर! आप�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौदास उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पत्न्यास्ते मम विप्रर्षे उचिते मणिकुण्डले।  
 वरयार्थं त्वमन्यं वै तं ते दास्यामि सुव्रत ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उत्तङ्क उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -319,15 +313,15 @@ _सौदासने कहा—_ ब्रह्मर्षे! वे म�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उत्तङ्क उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलं ते व्यपदेशेन प्रमाणा यदि ते वयम्।  
 प्रयच्छ कुण्डले मह्यं सत्यवाग् भव पार्थिव ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -342,6 +336,11 @@ _सौदासने कहा—_ ब्रह्मर्षे! वे म�
 
 _उत्तंकने कहा—_ पृथ्वीनाथ! अब बहाना करना व्यर्थ है। यदि आप मुझपर विश्वास करते हैं तो वे दोनों मणिमय कुण्डल आप मुझे दे दें और सत्यवादी बनें॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,11 +369,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 प्रदास्यति द्विजश्रेष्ठ कुण्डले ते न संशयः ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उत्तङ्क उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -389,15 +383,15 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उत्तङ्क उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व पत्नी भवतः शक्या मया द्रष्टुं नरेश्वर।  
 स्वयं वापि भवान् पत्नीं किमर्थं नोपसर्पति ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौदास उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -414,15 +408,15 @@ _उत्तंक बोले—_ नरेश्वर! मैं कहा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौदास उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां द्रक्ष्यति भवानद्य कस्मिंश्चिद् वननिर्झरे।  
 षष्ठे काले न हि मया सा शक्या द्रष्टुमद्य वै॥१८॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -437,6 +431,11 @@ _उत्तंक बोले—_ नरेश्वर! मैं कहा�
 
 _सौदासने कहा—_ ब्रह्मन्! उन्हें आज आप वनमें किसी झरनेके पास देखेंगे। यह दिनका छठा भाग है (मैं आहारकी खोजमें हूँ), अतः इस समय मैं उनसे नहीं मिल सकता॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -633,11 +632,6 @@ _वैशम्पायनजी कहते हैं—_ भरतभूष
 त्रिषु लोकेषु विज्ञाते तदभिज्ञानमानय ॥ २८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आश्वमेधिकपर्वके अन्तर्गत अनुगीतापर्वमें उत्तंक मुनिका उपाख्यानविषयक सत्तावनवाँ अध्याय पूरा हुआ॥५७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -655,4 +649,10 @@ _वैशम्पायनजी कहते हैं—_ भरतभूष
 
 इति श्रीमहाभारते आश्वमेधिके पर्वणि अनुगीतापर्वणि उत्तङ्कोपाख्याने सप्तपञ्चाशत्तमोऽध्यायः ॥ ५७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आश्वमेधिकपर्वके अन्तर्गत अनुगीतापर्वमें उत्तंक मुनिका उपाख्यानविषयक सत्तावनवाँ अध्याय पूरा हुआ॥५७॥
 </details>
+</details>
+

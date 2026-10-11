@@ -4,14 +4,9 @@ title_full = "055 दुर्योधनका धृतराष्ट्र�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-055-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-055-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-055-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-055-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "055 दुर्योधनका धृतराष्ट्र�
 
 दुर्योधनका धृतराष्ट्रको उकसाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -417,11 +417,6 @@ _दुर्योधन बोला—_ पिताजी! जिसके �
 वर्धन्ते पाण्डवा नित्यं वयं त्वस्थिरवृद्धयः ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें दुर्योधनसंतापविषयक पचपनवाँ अध्याय पूरा हुआ॥५५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -439,4 +434,10 @@ _दुर्योधन बोला—_ पिताजी! जिसके �
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि दुर्योधनसंतापे पञ्चपञ्चाशत्तमोऽध्यायः ॥ ५५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें दुर्योधनसंतापविषयक पचपनवाँ अध्याय पूरा हुआ॥५५॥
 </details>
+</details>
+

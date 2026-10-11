@@ -4,12 +4,7 @@ title_full = "025 सूर्यके तापसे मूर्च्छि
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="विनायक-रजतः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-025.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="विनायक-रजतः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-025.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "025 सूर्यके तापसे मूर्च्छि
 
 सूर्यके तापसे मूर्च्छित हुए सर्पोंकी रक्षाके लिये कद्रूद्वारा इन्द्रदेवकी स्तुति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -363,11 +363,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकाद
 वेदाङ्गान्यभिगमयन्ति सर्वयत्नैः ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक पचीसवाँ अध्याय पूरा हुआ॥२५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -387,4 +382,10 @@ _उग्रश्रवाजी कहते हैं—_ शौनकाद
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे पञ्चविंशोऽध्यायः ॥ २५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक पचीसवाँ अध्याय पूरा हुआ॥२५॥
 </details>
+</details>
+

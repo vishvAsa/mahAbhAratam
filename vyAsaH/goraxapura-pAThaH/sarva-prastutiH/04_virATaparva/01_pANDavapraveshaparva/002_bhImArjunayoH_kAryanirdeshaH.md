@@ -4,16 +4,11 @@ title_full = "002 भीमसेन और अर्जुनद्वारा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-002p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-002p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-002p2.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-002p2.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-002p3.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-002p3.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "002 भीमसेन और अर्जुनद्वारा
 
 भीमसेन और अर्जुनद्वारा विराटनगरमें किये जानेवाले अपने अनुकूल कार्योंका निर्देश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -199,11 +199,6 @@ _भीमसेनने कहा—_ भरतवंशशिरोमणे!
 इत्येतत् प्रतिजानामि विहरिष्याम्यहं यथा ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -216,6 +211,11 @@ _भीमसेनने कहा—_ भरतवंशशिरोमणे!
 
 राजन्! अपने-आप अपनी रक्षा करते हुए मैं विराटके नगरमें विचरूँगा। मुझे विश्वास है कि इस प्रकार मैं वहाँ सुखपूर्वक रह सकूँगा॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -392,11 +392,6 @@ _युधिष्ठिर बोले—_ जो मनुष्योंम
 वरः संनह्यमानानां सोऽर्जुनः किं करिष्यति ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -411,6 +406,11 @@ _युधिष्ठिर बोले—_ जो मनुष्योंम
 
 जैसे पर्वतोंमें हिमालय, सरिताओंमें समुद्र, देवताओंमें इन्द्र, वसुओंमें हव्यवाहक अग्नि, मृगोंमें सिंह तथा पक्षियोंमें गरुड़ श्रेष्ठ हैं, उसी प्रकार कवचधारी वीरोंमें जिसका स्थान सबसे ऊँचा है, वह अर्जुन विराटनगरमें जाकर क्या काम करेगा?॥२३-२४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -543,11 +543,6 @@ _अर्जुनने कहा—_ महाराज! मैं राज�
 विहरिष्यामि राजेन्द्र विराटभवने सुखम् ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें युधिष्ठिर आदिकी मन्त्रणाविषयक दूसरा अध्याय पूरा हुआ॥२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -564,6 +559,11 @@ _अर्जुनने कहा—_ महाराज! मैं राज�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते विराटपर्वणि पाण्डवप्रवेशपर्वणि युधिष्ठिरादिमन्त्रणे द्वितीयोऽध्यायः ॥ २ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें युधिष्ठिर आदिकी मन्त्रणाविषयक दूसरा अध्याय पूरा हुआ॥२॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

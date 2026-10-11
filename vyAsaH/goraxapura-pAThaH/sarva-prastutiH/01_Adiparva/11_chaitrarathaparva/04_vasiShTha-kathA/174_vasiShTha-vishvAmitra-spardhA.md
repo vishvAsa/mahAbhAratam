@@ -4,20 +4,15 @@ title_full = "174 वसिष्ठजीके अद्भुत क्षम
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-174p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-174p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-174p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-174p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-174p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-174p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-174p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-174p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-174p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-174p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -33,15 +28,15 @@ title_full = "174 वसिष्ठजीके अद्भुत क्षम
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किंनिमित्तमभूद् वैरं विश्वामित्रवसिष्ठयोः ।  
 वसतोराश्रमे दिव्ये शंस नः सर्वमेव तत् ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -56,6 +51,11 @@ title_full = "174 वसिष्ठजीके अद्भुत क्षम
 
 _अर्जुनने पूछा—_ गन्धर्वराज! विश्वामित्र और वसिष्ठ मुनि तो अपने-अपने दिव्य आश्रममें निवास करते हैं, फिर उनमें वैर किस कारण हुआ? ये सब बातें मुझसे कहो॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,11 +281,6 @@ _गन्धर्वने कहा—_ पार्थ! वसिष्ठ�
 नन्दिनीं सम्प्रयच्छस्व भुङ्‌क्ष्व राज्यं महामुने।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -301,15 +296,15 @@ _गन्धर्वने कहा—_ पार्थ! वसिष्ठ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवतातिथिपित्रर्थं याज्यार्थं च पयस्विनी ॥ १७ ॥  
 अदेया नन्दिनीयं वै राज्येनापि तवानघ।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विश्वामित्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -324,6 +319,11 @@ _गन्धर्वने कहा—_ पार्थ! वसिष्ठ�
 
 _वसिष्ठजीने कहा—_ अनघ! देवता, अतिथि और पितरोंकी पूजा एवं यज्ञके हविष्य आदिके लिये यह दुधारू गाय नन्दिनी अपने यहाँ रहती है, इसे तुम्हारा राज्य लेकर भी नहीं दिया जा सकता॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विश्वामित्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,11 +353,6 @@ _विश्वामित्रजी बोले—_ मैं क्षत
 तस्माद् भुजबलेनेमां हरिष्यामीह पश्यतः॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -375,15 +370,15 @@ _विश्वामित्रजी बोले—_ मैं क्षत
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलस्थश्चासि राजा च बाहुवीर्यश्च क्षत्रियः ॥ २० ॥  
 यथेच्छसि तथा क्षिप्रं कुरु मा त्वं विचारय।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -398,6 +393,11 @@ _विश्वामित्रजी बोले—_ मैं क्षत
 
 _वसिष्ठजीने कहा—_ तुम सेनाके साथ हो, राजा हो और अपने बाहुबलका भरोसा रखनेवाले क्षत्रिय हो। जैसी तुम्हारी इच्छा हो वैसा शीघ्र कर डालो, विचार न करो॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -429,11 +429,6 @@ _गन्धर्व कहता है—_ अर्जुन! वसिष�
 भृशं च ताड्यमाना वै न जगामाश्रमात् ततः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -449,16 +444,16 @@ _गन्धर्व कहता है—_ अर्जुन! वसिष�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृणोमि ते रवं भद्रे विनदन्त्याः पुनः पुनः ॥ २४ ॥  
 ह्रियसे त्वं बलाद् भद्रे विश्वामित्रेण नन्दिनि।  
 किं कर्तव्यं मया तत्र क्षमावान् ब्राह्मणो ह्यहम् ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -476,15 +471,15 @@ _वसिष्ठजी बोले—_ भद्रे! तुम बार-
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा भयान्नन्दिनी तेषां बलानां भरतर्षभ।  
 विश्वामित्रभयोद्विग्ना वसिष्ठं समुपागमत् ॥ २६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गौरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -501,15 +496,15 @@ _गन्धर्व कहता है—_ भरतवंशशिरोम
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गौरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कशाग्रदण्डाभिहतां क्रोशन्तीं मामनाथवत् ।  
 विश्वामित्रबलैर्घोरैर्भगवन् किमुपेक्षसे ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -526,15 +521,15 @@ _गौने कहा—_ भगवन्! विश्वामित्र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नन्दिन्यामेवं क्रन्दन्त्यां धर्षितायां महामुनिः।  
 न चुक्षुभे तदा धैर्यान्न चचाल धृतव्रतः ॥ २८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -551,15 +546,15 @@ _गन्धर्व कहता है—_ अर्जुन! नन्द�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रियाणां बलं तेजो ब्राह्मणानां क्षमा बलम्।  
 क्षमा मां भजते यस्माद् गम्यतां यदि रोचते ॥ २९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नन्दिन्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -576,15 +571,15 @@ _वसिष्ठजी बोले—_ भद्रे! क्षत्र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नन्दिन्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु त्यक्तास्मि भगवन् यदेवं त्वं प्रभाषसे।  
 अत्यक्ताहं त्वया ब्रह्मन् नेतुं शक्या न वै बलात्॥३०॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -601,15 +596,15 @@ _नन्दिनीने कहा—_ भगवन्! क्या आप�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वां त्यजामि कल्याणि स्थीयतां यदि शक्यते।  
 दृढेन दाम्ना बद्ध्वैष वत्सस्ते ह्रियते बलात् ॥ ३१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -624,6 +619,11 @@ _नन्दिनीने कहा—_ भगवन्! क्या आप�
 
 _वसिष्ठजी बोले—_ कल्याणि! मैं तुम्हारा त्याग नहीं करता। तुम यदि रह सको तो यहीं रहो। यह तुम्हारा बछड़ा मजबूत रस्सीसे बाँधकर बलपूर्वक ले जाया जा रहा है॥३१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -855,11 +855,6 @@ _गन्धर्व कहता है—_ अर्जुन! ‘यही�
 अपोह्य दिव्यान्यस्त्राणि वसिष्ठो वाक्यमब्रवीत्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -887,15 +882,15 @@ _गन्धर्व कहता है—_ अर्जुन! ‘यही�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्जितोऽसि महाराज दुरात्मन् गाधिनन्दन।  
 यदि तेऽस्ति परं शौर्यं तद् दर्शय मयि स्थिते॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -910,6 +905,11 @@ _गन्धर्व कहता है—_ अर्जुन! ‘यही�
 
 _वसिष्ठजी बोले—_ महाराज दुरात्मा गाधिनन्दन! अब तू परास्त हो चुका है। यदि तुझमें और भी उत्तम पराक्रम है तो मेरे ऊपर दिखा। मैं तेरे सामने डटकर खड़ा हूँ।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -964,11 +964,6 @@ _गन्धर्व कहता है—_ राजन्! विश्व�
 अपिबच्च ततः सोममिन्द्रेण सह कौशिकः ॥ ४८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें वसिष्ठजीके चरित्रके प्रसंगमें विश्वामित्र-पराभवविषयक एक सौ चौहत्तरवाँ अध्याय पूरा हुआ॥१७४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -994,6 +989,11 @@ _गन्धर्व कहता है—_ राजन्! विश्व�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 (दाक्षिणात्य अधिक पाठके १० श्लोक मिलाकर कुल ५८ श्लोक हैं)
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें वसिष्ठजीके चरित्रके प्रसंगमें विश्वामित्र-पराभवविषयक एक सौ चौहत्तरवाँ अध्याय पूरा हुआ॥१७४॥
 </details>
 </details>
 

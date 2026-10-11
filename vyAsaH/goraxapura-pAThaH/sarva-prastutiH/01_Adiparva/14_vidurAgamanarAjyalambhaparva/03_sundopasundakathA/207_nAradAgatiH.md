@@ -4,16 +4,11 @@ title_full = "207 पाण्डवोंके यहाँ नारदजी
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-207p01.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-207p01.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-207p02.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-207p02.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-207p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-207p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "207 पाण्डवोंके यहाँ नारदजी
 
 पाण्डवोंके यहाँ नारदजीका आगमन और उनमें फूट न हो, इसके लिये कुछ नियम बनानेके लिये प्रेरणा करके सुन्द और उपसुन्दकी कथाको प्रस्तावित करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -95,11 +95,6 @@ _जनमेजयने पूछा—_ तपोधन! इस प्रक�
 तेषां चेष्टितमन्योन्यं युक्तानां कृष्णया सह ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -112,6 +107,11 @@ _जनमेजयने पूछा—_ तपोधन! इस प्रक�
 
 तपोधन! द्रौपदीसे सम्बन्ध रखनेवाले उन पाण्डवोंका आपसमें कैसा बर्ताव था, यह सब मैं विस्तारके साथ सुनना चाहता हूँ॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -436,11 +436,6 @@ _वैशम्पायनजीने कहा—_ राजन्! धृ�
 विविक्ते पाण्डवान् सर्वानुवाच भगवानृषिः ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -463,6 +458,11 @@ _वैशम्पायनजीने कहा—_ राजन्! धृ�
 
 फिर आशीर्वादसूचक वचनोंद्वारा उनके अभ्युदयकी कामना करके बोले—‘तुम भी बैठो।’ नारदकी आज्ञा पाकर राजा युधिष्ठिर बैठे और कृष्णाको कहला दिया कि स्वयं भगवान् नारदजी पधारे हैं। यह सुनकर द्रौपदी भी पवित्र एवं एकाग्रचित हो उसी स्थानपर गयी, जहाँ पाण्डवोंके साथ नारदजी विराजमान थे। धर्मका आचरण करनेवाली कृष्णा देवर्षिके चरणोंमें प्रणाम करके अपने अंगोंको ढके हुए हाथ जोड़कर खड़ी हो गयी। धर्मात्मा एवं सत्यवादी मुनिश्रेष्ठ भगवान् नारदने राजकुमारी द्रौपदीको नाना प्रकारके आशीर्वाद देकर उस सती-साध्वी देवीसे कहा, ‘अब तुम भीतर जाओ।’ कृष्णाके चले जानेपर भगवान् देवर्षिने एकान्तमें युधिष्ठिर आदि समस्त पाण्डवोंसे कहा॥१२—१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -531,11 +531,6 @@ _नारदजी बोले—_ पाण्डवो! यशस्वि�
 यथा वो नात्र भेदः स्यात् तत् कुरुष्व युधिष्ठिर॥२१॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -548,6 +543,11 @@ _नारदजी बोले—_ पाण्डवो! यशस्वि�
 
 युधिष्ठिर! इसलिये आपसकी प्रीतिको बढ़ानेवाले सौहार्दकी रक्षा करो और ऐसा कोई नियम बनाओ, जिससे यहाँ तुमलोगोंमें वैर-विरोध न हो॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,11 +596,6 @@ _युधिष्ठिरने पूछा—_ महामुने! स�
 श्रोतुमिच्छामहे ब्रह्मन् परं कौतूहलं हि नः ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें युधिष्ठिर-नारद-संवादविषयक दो सौ सातवाँ अध्याय पूरा हुआ॥२०७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -617,6 +612,11 @@ _युधिष्ठिरने पूछा—_ महामुने! स�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि युधिष्ठिरनारदसंवादे सप्ताधिकद्विशततमोऽध्यायः ॥ २०७ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें युधिष्ठिर-नारद-संवादविषयक दो सौ सातवाँ अध्याय पूरा हुआ॥२०७॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

@@ -4,14 +4,9 @@ title_full = "072 मेनका-विश्वामित्र-मिलन
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-072p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-072p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-072p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कण्व उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-072p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "072 मेनका-विश्वामित्र-मिलन
 
 मेनका-विश्वामित्र-मिलन, कन्याकी उत्पत्ति, शकुन्त पक्षियोंके द्वारा उसकी रक्षा और कण्वका उसे अपने आश्रमपर लाकर शकुन्तला नाम रखकर पालन करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कण्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -204,11 +204,6 @@ _(शकुन्तला दुष्यन्तसे कहती है—
 अब्रुवञ्छकुनाः सर्वे कलं मधुरभाषिणः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्विजा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -226,16 +221,16 @@ _(शकुन्तला दुष्यन्तसे कहती है—
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्विजा ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रसुतां ब्रह्मन् न्यासभूतां भरस्व वै।  
 कामक्रोधावजितवान् सखा ते कौशिकीं गतः॥  
 तस्मात् पोषय तत्पुत्रीं दयावानिति तेऽब्रुवन्।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कण्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -251,6 +246,11 @@ _(शकुन्तला दुष्यन्तसे कहती है—
 
 _पक्षी बोले—_ ब्रह्मन्! यह विश्वामित्रकी कन्या आपके यहाँ धरोहरके रूपमें आयी है। आप इसका पालन-पोषण कीजिये। कौशिकीके तटपर गये हुए आपके सखा विश्वामित्र काम और क्रोधको नहीं जीत सके थे। आप दयालु हैं; इसलिये उनकी पुत्रीका पालन कीजिये। इस प्रकार पक्षियोंने कहा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कण्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,11 +321,6 @@ _कण्व मुनि कहते हैं—_ ब्रह्मन्! 
 शकुन्तला च पितरं मन्यते मामनिन्दिता ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुन्तलोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -340,17 +335,17 @@ _कण्व मुनि कहते हैं—_ ब्रह्मन्! 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुन्तलोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदाचष्ट पृष्टः सन् मम जन्म महर्षये।  
 सुतां कण्वस्य मामेवं विद्धि त्वं मनुजाधिप ॥ १८ ॥  
 कण्वं हि पितरं मन्ये पितरं स्वमजानती।  
 इति ते कथितं राजन् यथावृत्तं श्रुतं मया ॥ १९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक बहत्तरवाँ अध्याय पूरा हुआ॥७२॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -373,8 +368,14 @@ _शकुन्तला कहती है—_ राजन्! उन मह
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि शकुन्तलोपाख्याने द्विसप्ततितमोऽध्यायः ॥ ७२ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक बहत्तरवाँ अध्याय पूरा हुआ॥७२॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ५ श्लोक मिलाकर कुल २४ श्लोक हैं)
 </details>
 </details>
+

@@ -4,12 +4,7 @@ title_full = "143 दुर्योधनके आदेशसे पुरो
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-143.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-143.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "143 दुर्योधनके आदेशसे पुरो
 
 दुर्योधनके आदेशसे पुरोचनका वारणावत नगरमें लाक्षागृह बनाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,11 +295,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 यथोक्तं राजपुत्रेण सर्वं चक्रे पुरोचनः ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें पुरोचनके प्रति दुर्योधनकृत उपदेशविषयक एक सौ तैंतालीसवाँ अध्याय पूरा हुआ॥१४३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -317,4 +312,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि जतुगृहपर्वणि पुरोचनोपदेशे त्रिचत्वारिंशदधिकशततमोऽध्यायः ॥ १४३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें पुरोचनके प्रति दुर्योधनकृत उपदेशविषयक एक सौ तैंतालीसवाँ अध्याय पूरा हुआ॥१४३॥
 </details>
+</details>
+

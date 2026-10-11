@@ -3,12 +3,6 @@ title = "१८३ मानसभूतोत्पत्तिकथने"
 title_full = "183 आकाशसे अन्य चार स्थूल भूतोंकी उत्पत्तिका वर्णन"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -22,17 +16,17 @@ title_full = "183 आकाशसे अन्य चार स्थूल भ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजाविसर्गं विविधं  
 कथं स सृजते प्रभुः।  
 मेरुमध्ये स्थितो ब्रह्मा  
 तद् ब्रूहि द्विजसत्तम ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -57,6 +51,11 @@ Bharadvāja asked: “O best of the twice-born, tell me how did the mighty Brahm
 
 Bhṛgu said: 
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,11 +125,6 @@ It is the metabolism of all living beings; they grow and reproduce due to it. If
 आपस् **तस्तम्भिरे** यतः ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -156,17 +150,17 @@ Bharadvāja spoke:
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **कथं** सलिलम् **उत्पन्नं**  
 कथं चैवाग्निमारुतौ।  
 कथं वा मेदिनी **सृष्टा** +  
 +इत्यत्र मे संशयो महान् ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -191,6 +185,11 @@ _भरद्वाजने पूछा—_ भगवन्! जलकी उ�
 
 Bhṛgu said:
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -506,11 +505,6 @@ and solidified to give rise to the solid element.
 यस्यां सर्वं प्रसूयते ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु और भरद्वाजसंवादके प्रसंगमें मानसभूतोंकी उत्पत्तिका वर्णनविषयक एक सौ तिरासीवाँ अध्याय पूरा हुआ॥१८३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -533,4 +527,10 @@ This solid element as the earth is known to be the source from which all liquids
 
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि भृगुभरद्वाजसंवादे मानसभूतोत्पत्तिकथने त्र्यशीत्यधिकशततमोऽध्यायः ॥ १८३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु और भरद्वाजसंवादके प्रसंगमें मानसभूतोंकी उत्पत्तिका वर्णनविषयक एक सौ तिरासीवाँ अध्याय पूरा हुआ॥१८३॥
 </details>
+</details>
+

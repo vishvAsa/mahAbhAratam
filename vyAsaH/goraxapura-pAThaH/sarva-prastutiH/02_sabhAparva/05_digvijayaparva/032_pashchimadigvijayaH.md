@@ -4,14 +4,9 @@ title_full = "032 नकुलके द्वारा पश्चिम द�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-032-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-032-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-032-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-032-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "032 नकुलके द्वारा पश्चिम द�
 
 नकुलके द्वारा पश्चिम दिशाकी विजय
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -351,11 +351,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 प्रतीचीं वासुदेवेन निर्जितां भरतर्षभ ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें नकुलके द्वारा पश्चिम दिशाकी विजयसे सम्बन्ध रखनेवाला बत्तीसवाँ अध्याय पूरा हुआ॥३२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -372,6 +367,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि दिग्विजयपर्वणि नकुलप्रतीचीविजये द्वात्रिंशोऽध्यायः ॥ ३२ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें नकुलके द्वारा पश्चिम दिशाकी विजयसे सम्बन्ध रखनेवाला बत्तीसवाँ अध्याय पूरा हुआ॥३२॥
 </details>
 </details>
 

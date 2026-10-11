@@ -3,12 +3,6 @@ title = "०९४ शपथविधिः"
 title_full = "094 ब्रह्मसर तीर्थमें अगस्त्यजीके कमलोंकी चोरी होनेपर ब्रह्मर्षियों और राजर्षियोंकी धर्मोपदेशपूर्ण शपथ तथा धर्मज्ञानके उद्देश्यसे चुराये हुए कमलोंका वापस देना"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -20,6 +14,11 @@ title_full = "094 ब्रह्मसर तीर्थमें अगस्
 
 ब्रह्मसरतीर्थमें अगस्त्यजीके कमलोंकी चोरी होनेपर ब्रह्मर्षियों और राजर्षियोंकी धर्मोपदेशपूर्ण शपथ तथा धर्मज्ञानके उद्देश्यसे चुराये हुए कमलोंका वापस देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -326,11 +325,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 सहैव ते पार्थिव पुत्रपौत्रैः ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -347,15 +341,15 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्याक्रोशेदिहाक्रुष्टस्ताडितः प्रतिताडयेत् ।  
 खादेच्च पृष्ठमांसानि यस्ते हरति पुष्करम् ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -372,15 +366,15 @@ _भृगु बोले—_ मुने! जिसने आपके कम
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्वाध्यायपरो लोके श्वानं च परिकर्षतु।  
 पुरे च भिक्षुर्भवतु यस्ते हरति पुष्करम् ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कश्यप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -397,15 +391,15 @@ _वसिष्ठने कहा—_ जिसने आपके कमल �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कश्यप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वत्र सर्वं पणतु न्यासे लोभं करोतु च।  
 कूटसाक्षित्वमभ्येतु यस्ते हरति पुष्करम् ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गौतम उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -422,15 +416,15 @@ _कश्यपने कहा—_ जो आपका कमल चुरा 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गौतम उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवत्वहंकृतो बुद्‌ध्या विषमेणासमेन सः।  
 कर्षको मत्सरी चास्तु यस्ते हरति पुष्करम् ॥ १९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अंगिरा उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -447,15 +441,15 @@ _गौतम बोले—_ जिसने आपके कमलकी च�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अंगिरा उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशुचिर्ब्रह्मकूटोऽस्तु श्वानं च परिकर्षतु।  
 ब्रह्महानिकृतिश्चास्तु यस्ते हरति पुष्करम् ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धुन्धुमार उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -472,15 +466,15 @@ _अंगिराने कहा—_ जो आपका कमल ले ग
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धुन्धुमार उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकृतज्ञस्तु मित्राणां शूद्रायां च प्रजायतु।  
 एकः सम्पन्नमश्नातु यस्ते हरति पुष्करम् ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पूरुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -497,15 +491,15 @@ _धुन्धुमारने कहा—_ जिसने आपके �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पूरुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिकित्सायां प्रचरतु भार्यया चैव पुष्यतु।  
 श्वशुरात्तस्य वृत्तिः स्याद् यस्ते हरति पुष्करम् ॥ २२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दिलीप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -522,15 +516,15 @@ _पूरु बोले—_ जों आपका कमल चुरा ल
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दिलीप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदपानप्लवे ग्रामे ब्राह्मणो वृषलीपतिः।  
 तस्य लोकान् स व्रजतु यस्ते हरति पुष्करम् ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शुक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -547,15 +541,15 @@ _दिलीप बोले—_ जो आपका कमल चुराक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शुक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृथामांसं समश्नातु दिवा गच्छतु मैथुनम्।  
 प्रेष्यो भवतु राज्ञश्च यस्ते हरति पुष्करम् ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जमदग्निरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -572,15 +566,15 @@ _शुक्रने कहा—_ जो आपका कमल चुरा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जमदग्निरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनध्यायेष्वधीयीत मित्रं श्राद्धे च भोजयेत्।  
 श्राद्धे शूद्रस्य चाश्नीयाद् यस्ते हरति पुष्करम् ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शिबिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -597,15 +591,15 @@ _जमदग्नि बोले—_ जिसने आपके कमल �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शिबिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाहिताग्निर्म्रियतां यज्ञे विघ्नं करोतु च।  
 तपस्विभिर्विरुध्येच्च यस्ते हरति पुष्करम् ॥ २६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -622,15 +616,15 @@ _शिबिने कहा—_ जो आपका कमल चुरा ल
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनृतौ च व्रती चैव भार्यायां स प्रजायतु।  
 निराकरोतु वेदांश्च यस्ते हरति पुष्करम् ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नहुष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -647,15 +641,15 @@ _ययातिने कहा—_ जिसने आपके कमलो�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नहुष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिथिर्गृहसंस्थोऽस्तु कामवृत्तस्तु दीक्षितः ।  
 विद्यां प्रयच्छतु भृतो यस्ते हरति पुष्करम् ॥ २८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अम्बरीष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -672,15 +666,15 @@ _नहुष बोले—_ जिसने आपके कमलोंक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अम्बरीष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृशंसस्त्यक्तधर्मोऽस्तु स्त्रीषु ज्ञातिषु गोषु च।  
 निहन्तु ब्राह्मणं चापि यस्ते हरति पुष्करम् ॥ २९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -697,15 +691,15 @@ _अम्बरीषने कहा—_ जो आपका कमल ले 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहज्ञानी बहिःशास्त्रं पठतां विस्वरं पदम्।  
 गरीयसोऽवजानातु यस्ते हरति पुष्करम् ॥ ३० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नाभाग उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -727,15 +721,15 @@ _नारदजीने कहा—_ जिसने आपके कमल�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नाभाग उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनृतं भाषतु सदा सद्‌भिश्चैव विरुध्यतु।  
 शुल्केन तु ददत्कन्यां यस्ते हरति पुष्करम् ॥ ३१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कविरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -752,15 +746,15 @@ _नाभाग बोले—_ जिसने आपके कमल चु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कविरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्‌भ्यां स गां ताडयतु सूर्यं च प्रतिमेहतु।  
 शरणागतं संत्यजतु यस्ते हरति पुष्करम् ॥ ३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विश्वामित्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -777,15 +771,15 @@ _कविने कहा—_ जिसने आपका कमल लिय�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विश्वामित्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 करोतु भृतकोऽवर्षां राज्ञश्चास्तु पुरोहितः।  
 ऋत्विगस्तु ह्ययाज्यस्य यस्ते हरति पुष्करम् ॥ ३३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पर्वत उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -802,15 +796,15 @@ _विश्वामित्र बोले—_ जो आपका कम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पर्वत उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्रामे चाधिकृतः सोऽस्तु खरयानेन गच्छतु।  
 शुनः कर्षतु वृत्त्यर्थे यस्ते हरति पुष्करम् ॥ ३४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -827,15 +821,15 @@ _पर्वतने कहा—_ जो आपका कमल ले गय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वपापसमादानं नृशंसे चानृते च यत्।  
 तत् तस्यास्तु सदा पापं यस्ते हरति पुष्करम् ॥ ३५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -852,15 +846,15 @@ _भरद्वाजने कहा—_ जिसने आपके कम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजास्त्वकृतप्रज्ञः कामवृत्तश्च पापकृत्।  
 अधर्मेणाभिशास्तूर्वीं यस्ते हरति पुष्करम् ॥ ३६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गालव उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -877,15 +871,15 @@ _अष्टक बोले—_ जो आपका कमल ले गया
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गालव उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पापिष्ठेभ्यो ह्यनर्घार्हः स नरोऽस्तु स्वपापकृत्।  
 दत्त्वा दानं कीर्तयतु यस्ते हरति पुष्करम् ॥ ३७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अरुन्धत्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -902,15 +896,15 @@ _गालव बोले—_ जो आपका कमल चुरा ले
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अरुन्धत्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वश्र्वापवादं मदतु भर्तुर्भवतु दुर्मनाः।  
 एका स्वादु समश्नातु या ते हरति पुष्करम् ॥ ३८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वालखिल्या ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -927,15 +921,15 @@ _अरुन्धती बोलीं—_ जिस स्त्रीने
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वालखिल्या ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकपादेन वृत्त्यर्थं ग्रामद्वारे स तिष्ठतु।  
 धर्मज्ञस्त्यक्तधर्मास्तु यस्ते हरति पुष्करम् ॥ ३९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शुनःसख उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -952,15 +946,15 @@ _बालखिल्य बोले—_ जो आपका कमल ले 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शुनःसख उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निहोत्रमनादृत्य स सुखं स्वपतु द्विजः।  
 परिव्राट् कामवृत्तोऽस्तु यस्ते हरति पुष्करम् ॥ ४० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुरभ्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -977,15 +971,15 @@ _शुनःसख बोले—_ जो आपका कमल ले गय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुरभ्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालजेन निदानेन कांस्यं भवतु दोहनम्।  
 दुह्येत परवत्सेन या ते हरति पुष्करम् ॥ ४१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1000,6 +994,11 @@ _शुनःसख बोले—_ जो आपका कमल ले गय
 
 _सुरभि बोली—_ जो गाय आपका कमल ले गयी हो, उसके पैर बालोंकी रस्सीसे बाँधे जायँ, उसके दूधके लिये ताँबे मिले हुए धातुका दोहनपात्र हो और वह दूसरे गायके बछड़ेसे दुही जाय॥४१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1034,11 +1033,6 @@ _भीष्मजी कहते हैं—_ कौरवेन्द्र
 यं तं निबोधेह ममाद्य राजन् ॥ ४३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1053,6 +1047,11 @@ _भीष्मजी कहते हैं—_ कौरवेन्द्र
 
 राजन्! ब्रह्मर्षियों, देवर्षियों तथा राजर्षियोंके बीचमें कुपित हुए महर्षि अगस्त्यको सम्बोधित करके देवराज इन्द्रने जो अपना अभिप्राय व्यक्त किया, उसे आज तुम मेरे मुखसे यहाँ सुनो॥४३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1085,11 +1084,6 @@ _इन्द्र बोले—_ ब्रह्मन्! जो आपक�
 ब्रह्मणः सदनं यातु यस्ते हरति पुष्करम् ॥ ४५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अगस्त्य उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1104,15 +1098,15 @@ _इन्द्र बोले—_ ब्रह्मन्! जो आपक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अगस्त्य उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आशीर्वादस्त्वया प्रोक्तः शपथो बलसूदन।  
 दीयतां पुष्करं मह्यमेष धर्मः सनातनः ॥ ४६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1127,6 +1121,11 @@ _इन्द्र बोले—_ ब्रह्मन्! जो आपक�
 
 _अगस्त्यने कहा—_ बलसूदन! आपने जो शपथ की है, वह तो आशीर्वादस्वरूप है। अतः आपने ही मेरे कमल लिये हैं, कृपया उन्हें मुझे दे दीजिये। यही सनातन धर्म है॥४६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1275,11 +1274,6 @@ _इन्द्र बोले—_ भगवन्! मैंने लोभ�
 स गच्छेद् ब्रह्मणो लोकमव्ययं च नरोत्तम ॥ ५४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत अनुशासनपर्वके अन्तर्गत दानधर्मपर्वमें शपथविधिनामक चौरानबेवाँ अध्याय पूरा हुआ॥९४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1297,4 +1291,10 @@ _इन्द्र बोले—_ भगवन्! मैंने लोभ�
 
 इति श्रीमहाभारते अनुशासनपर्वणि दानधर्मपर्वणि शपथविधिर्नाम चतुर्नवतितमोऽध्यायः ॥ ९४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत अनुशासनपर्वके अन्तर्गत दानधर्मपर्वमें शपथविधिनामक चौरानबेवाँ अध्याय पूरा हुआ॥९४॥
 </details>
+</details>
+

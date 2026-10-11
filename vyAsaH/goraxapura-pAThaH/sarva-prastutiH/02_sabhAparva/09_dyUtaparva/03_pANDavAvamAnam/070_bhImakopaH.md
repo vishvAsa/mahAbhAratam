@@ -4,18 +4,13 @@ title_full = "070 दुर्योधनके छल-कपटयुक्त
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-070p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-070p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-070p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-070p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-070p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-070p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-070p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-070p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "070 दुर्योधनके छल-कपटयुक्त
 
 दुर्योधनके छल-कपटयुक्त वचन और भीमसेनका रोषपूर्ण उद्‌गार
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,11 +63,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पाञ्चालराजस्य सुतां तदानीम् ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -82,6 +77,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 राजाओंके बेटों और पोतोंको मौन देखकर धृतराष्ट्रपुत्र दुर्योधनने उस समय मुसकराते हुए पांचालराजकुमारी द्रौपदीसे यह बात कही॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -164,11 +164,6 @@ _दुर्योधन बोला—_ द्रौपदी! तुम्�
 पतींश्च ते समवेक्ष्याल्पभाग्यान् ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -183,6 +178,11 @@ _दुर्योधन बोला—_ द्रौपदी! तुम्�
 
 द्रौपदी! ये सभी उत्तम स्वभाववाले कुरुवंशी इस सभामें तुम्हारे लिये ही दुःखी हैं और तुम्हारे मन्दभाग्य पतियोंको देखकर तुम्हारे प्रश्नका ठीक-ठीक उत्तर नहीं दे पाते हैं॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -279,11 +279,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 प्रगृह्य रुचिरं दिव्यं भुजं चन्दनचर्चितम् ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -296,6 +291,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 वह कोलाहल शान्त होनेपर भीमसेन अपनी चन्दनचर्चित सुन्दर दिव्य भुजा उठाकर इस प्रकार बोले॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -372,11 +372,6 @@ _भीमसेनने कहा—_ यदि ये महामना ध�
 धार्तराष्ट्रानिमान् पापान् निष्पिषेयं तलासिभिः ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -391,15 +386,15 @@ _भीमसेनने कहा—_ यदि ये महामना ध�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच तदा भीष्मो द्रोणो विदुर एव च।  
 क्षम्यतामिदमित्येवं सर्वं सम्भाव्यते त्वयि ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें भीमवाक्यविषयक सत्तरवाँ अध्याय पूरा हुआ॥७०॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -419,4 +414,10 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि भीमवाक्ये सप्ततितमोऽध्यायः ॥ ७० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें भीमवाक्यविषयक सत्तरवाँ अध्याय पूरा हुआ॥७०॥
 </details>
+</details>
+

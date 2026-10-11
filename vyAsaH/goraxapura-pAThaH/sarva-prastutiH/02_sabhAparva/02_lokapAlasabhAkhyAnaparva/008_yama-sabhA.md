@@ -4,16 +4,11 @@ title_full = "008 यमराजकी सभाका वर्णन"
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-008p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-008p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-008p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-008p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-008p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-008p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "008 यमराजकी सभाका वर्णन"
 
 यमराजकी सभाका वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -453,11 +453,6 @@ _नारदजी कहते हैं—_ कुन्तीनन्दन
 वरुणस्यापि वक्ष्यामि सभां पुष्करमालिनीम् ॥ ४१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें यमसभा-वर्णन नामक आठवाँ अध्याय पूरा हुआ॥८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -474,6 +469,11 @@ _नारदजी कहते हैं—_ कुन्तीनन्दन
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि लोकपालसभाख्यानपर्वणि यमसभावर्णनं नामाष्टमोऽध्यायः ॥ ८ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें यमसभा-वर्णन नामक आठवाँ अध्याय पूरा हुआ॥८॥
 </details>
 </details>
 

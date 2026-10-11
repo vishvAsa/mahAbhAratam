@@ -4,16 +4,11 @@ title_full = "205 धृतराष्ट्रकी आज्ञासे व
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-205p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-205p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-205p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-205p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-205p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-205p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "205 धृतराष्ट्रकी आज्ञासे व
 
 धृतराष्ट्रकी आज्ञासे विदुरका द्रुपदके यहाँ जाना और पाण्डवोंको हस्तिनापुर भेजनेका प्रस्ताव करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,11 +135,6 @@ _धृतराष्ट्र बोले—_ विदुर! शंतन�
 दिष्ट्या मम परं दुःखमपनीतं महाद्युते ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -152,6 +147,11 @@ _धृतराष्ट्र बोले—_ विदुर! शंतन�
 
 महाद्युते! सौभाग्यसे हम सबकी वृद्धि हो रही है। भाग्यकी बात है कि पापी पुरोचन शान्त हो गया और सौभाग्यसे ही मेरा महान् दुःख मिट गया॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,11 +272,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 द्रुपदं पाण्डुपुत्राणां संनिधौ केशवस्य च ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -289,6 +284,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 अगाध बुद्धिवाले विदुरजी पाण्डवों तथा भगवान् श्रीकृष्णके समीप विनीतभावसे नम्रतापूर्वक बोले—॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,11 +482,6 @@ _विदुरने कहा—_ राजन्! आप अपने मन
 आगमिष्यन्ति कौन्तेयाः कुन्ती च सह कृष्णया ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें विदुर-द्रुपदसंवादविषयक दो सौ पाँचवाँ अध्याय पूरा हुआ॥२०५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -505,4 +500,10 @@ _विदुरने कहा—_ राजन्! आप अपने मन
 
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि विदुरद्रुपदसंवादे पञ्चाधिकद्विशततमोऽध्यायः ॥ २०५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें विदुर-द्रुपदसंवादविषयक दो सौ पाँचवाँ अध्याय पूरा हुआ॥२०५॥
 </details>
+</details>
+

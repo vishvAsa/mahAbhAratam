@@ -4,20 +4,15 @@ title_full = "224 अग्निदेवका अर्जुन और श�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-224p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-224p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-224p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-224p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-224p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-224p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-224p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-224p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-224p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-224p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "224 अग्निदेवका अर्जुन और श�
 
 अग्निदेवका अर्जुन और श्रीकृष्णको दिव्य धनुष, अक्षय तरकस, दिव्य रथ और चक्र आदि प्रदान करना तथा उन दोनोंकी सहायतासे खाण्डववनको जलाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -441,11 +441,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 किं पुनर्वज्रिणैकेन पन्नगार्थे युयुत्सता ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -460,6 +455,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इसके बाद अस्त्रविद्याके ज्ञाता एवं शस्त्रसम्पन्न अर्जुन और श्रीकृष्णने प्रसन्न होकर अग्निदेवसे कहा—‘भगवन्! अब हम दोनों रथ और ध्वजासे युक्त हो सम्पूर्ण देवताओं तथा असुरोंसे भी युद्ध करनेमें समर्थ हो गये हैं; फिर तक्षक नागके लिये युद्धकी इच्छा रखनेवाले अकेले वज्रधारी इन्द्रसे युद्ध करना क्या बड़ी बात है?’॥२९-३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,11 +510,6 @@ _अर्जुन बोले—_ अग्निदेव! सबकी इ�
 कामं सम्प्रज्वलाद्यैव कल्यौ स्वः साह्यकर्मणि ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -527,6 +522,11 @@ _अर्जुन बोले—_ अग्निदेव! सबकी इ�
 
 महाप्रभो! अब आप इस सम्पूर्ण वनको चारों ओरसे घेरकर आज ही इच्छानुसार जलाइये। हम आपकी सहायताके लिये तैयार हैं॥३३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -595,11 +595,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 मेरोरिव नगेन्द्रस्य कीर्णस्यांशुमतोंऽशुभिः ॥ ३७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत खाण्डवदाहपर्वमें गाण्डीवादिदानविषयक दो सौ चौबीसवाँ अध्याय पूरा हुआ॥२२४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -617,4 +612,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि खाण्डवदाहपर्वणि गाण्डीवादिदाने चतुर्विंशत्यधिकद्विशततमोऽध्यायः ॥ २२४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत खाण्डवदाहपर्वमें गाण्डीवादिदानविषयक दो सौ चौबीसवाँ अध्याय पूरा हुआ॥२२४॥
 </details>
+</details>
+

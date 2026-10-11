@@ -4,12 +4,7 @@ title_full = "060 जनमेजयके यज्ञमें व्यास
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-060sheela.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-060sheela.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "060 जनमेजयके यज्ञमें व्यास
 
 जनमेजयके यज्ञमें व्यासजीका आगमन, सत्कार तथा राजाकी प्रार्थनासे व्यासजीका वैशम्पायनजीसे महाभारत-कथा सुनानेके लिये कहना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -335,11 +335,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! ज�
 इदं पश्चाद् द्विजश्रेष्ठं पर्यपृच्छत् कृताञ्जलिः ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -352,6 +347,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! ज�
 
 तदनन्तर सब सदस्योंसहित राजा जनमेजयने हाथ जोड़कर द्विजश्रेष्ठ व्यासजीसे इस प्रकार प्रश्न किया॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -400,11 +400,6 @@ _जनमेजयने कहा—_ ब्रह्मन्! आप कौ�
 कार्त्स्न्येनैतन्ममाचक्ष्व यथावृत्तं द्विजोत्तम ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -419,15 +414,15 @@ _जनमेजयने कहा—_ ब्रह्मन्! आप कौ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा कृष्णद्वैपायनस्तदा।  
 शशास शिष्यमासीनं वैशम्पायनमन्तिके ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -442,6 +437,11 @@ _जनमेजयने कहा—_ ब्रह्मन्! आप कौ�
 
 _उग्रश्रवाजी कहते हैं—_ जनमेजयकी यह बात सुनकर श्रीकृष्णद्वैपायन व्यासने पास ही बैठे हुए अपने शिष्य वैशम्पायनको उस समय इस प्रकार आदेश दिया॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -472,11 +472,6 @@ _व्यासजी बोले—_ वैशम्पायन! पूर�
 भेदं सर्वविनाशं च कुरुपाण्डवयोस्तदा ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अंशावतरणपर्वमें कथानुबन्धविषयक साठवाँ अध्याय पूरा हुआ॥६०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -496,4 +491,10 @@ _व्यासजी बोले—_ वैशम्पायन! पूर�
 
 इति श्रीमहाभारते आदिपर्वणि अंशावतरणपर्वणि कथानुबन्धे षष्टितमोऽध्यायः ॥ ६० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अंशावतरणपर्वमें कथानुबन्धविषयक साठवाँ अध्याय पूरा हुआ॥६०॥
 </details>
+</details>
+

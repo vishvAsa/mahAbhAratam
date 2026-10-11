@@ -4,16 +4,11 @@ title_full = "118 पाण्डुका अनुताप, संन्य�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-118p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-118p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-118p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-118p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-118p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-118p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,15 +24,15 @@ title_full = "118 पाण्डुका अनुताप, संन्य�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं व्यतीतमतिक्रम्य राजा स्वमिव बान्धवम्।  
 सभार्यः शोकदुःखार्तः पर्यदेवयदातुरः ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पाण्डुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -52,6 +47,11 @@ title_full = "118 पाण्डुका अनुताप, संन्य�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! उन मृगरूपधारी मुनिको मरा हुआ छोड़कर राजा पाण्डु जब आगे बढ़े, तब पत्नीसहित शोक और दुःखसे आतुर हो अपने सगे भाई-बन्धुकी भाँति उनके लिये विलाप करने लगे तथा अपनी भूलपर पश्चात्ताप करते हुए कहने लगे॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पाण्डुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -396,11 +396,6 @@ _पाण्डु बोले—_ खेदकी बात है कि श
 उपैति वृत्तिं कामात्मा स शुनां वर्तते पथि ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -413,6 +408,11 @@ _पाण्डु बोले—_ खेदकी बात है कि श
 
 जो सत्कार या तिरस्कार पाकर दीनतापूर्ण दृष्टिसे देखता हुआ किसी दूसरे पुरुषके पास जीविकाकी आशासे जाता है, वह कामात्मा मनुष्य तो कुत्तोंके मार्गपर चलता है॥२२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,11 +547,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अद्यैवावां प्रहास्यावो जीवितं नात्र संशयः ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पाण्डुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -564,6 +559,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘महाप्राज्ञ नरेश्वर! यदि आप हम दोनोंको त्याग देंगे तो आज ही हम अपने प्राणोंका परित्याग कर देंगी, इसमें संशय नहीं है’॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पाण्डुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -676,11 +676,6 @@ _पाण्डुने कहा—_ देवियो! यदि तुम 
 काङ्क्षमाणोऽहमास्थास्ये देहस्यास्या समापनात् ॥ ३७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -693,6 +688,11 @@ _पाण्डुने कहा—_ देवियो! यदि तुम 
 
 इस प्रकार मैं वानप्रस्थ-आश्रमसम्बन्धी शास्त्रोंकी कठोर-से-कठोर विधियोंके पालनकी आकांक्षा करता हुआ तबतक वानप्रस्थ-आश्रममें स्थित रहूँगा जबतक कि शरीरका अन्त न हो जाय॥३७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -891,11 +891,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 शतशृङ्गे महाराज तापसः समतप्यत ॥ ५० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डुचरितविषयक एक सौ अठारहवाँ अध्याय पूरा हुआ॥११८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -915,4 +910,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि पाण्डुचरितेऽष्टादशाधिकशततमोऽध्यायः ॥ ११८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डुचरितविषयक एक सौ अठारहवाँ अध्याय पूरा हुआ॥११८॥
 </details>
+</details>
+

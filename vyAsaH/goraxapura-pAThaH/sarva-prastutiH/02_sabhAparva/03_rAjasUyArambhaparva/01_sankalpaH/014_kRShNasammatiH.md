@@ -4,20 +4,15 @@ title_full = "014 श्रीकृष्णकी राजसूययज्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-014p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-014p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-014p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-014p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-014p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-014p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-014p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-014p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-014p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीकृष्ण उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-014p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "014 श्रीकृष्णकी राजसूययज्�
 
 श्रीकृष्णकी राजसूययज्ञके लिये सम्मति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीकृष्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1269,11 +1269,6 @@ _श्रीकृष्णने कहा—_ महाराज! आपम�
 एवंगते ममाचक्ष्व स्वयं निश्चित्य हेतुभिः ॥ ७० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें श्रीकृष्णवाक्य-विषयक चौदहवाँ अध्याय पूरा हुआ॥१४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1292,8 +1287,14 @@ _श्रीकृष्णने कहा—_ महाराज! आपम�
 इति श्रीमहाभारते सभापर्वणि राजसूयारम्भपर्वणि कृष्णवाक्ये चतुर्दशोऽध्यायः ॥ १४ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें श्रीकृष्णवाक्य-विषयक चौदहवाँ अध्याय पूरा हुआ॥१४॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ५ श्लोक मिलाकर कुल ७५ श्लोक हैं)
 </details>
 </details>
+

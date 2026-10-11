@@ -4,22 +4,17 @@ title_full = "046 उर्वशीका कामपीड़ित होक
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p05.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p06.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-046p06.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -33,6 +28,11 @@ title_full = "046 उर्वशीका कामपीड़ित होक
 
 उर्वशीका कामपीड़ित होकर अर्जुनके पास जाना और उनके अस्वीकार करनेपर उन्हें शाप देकर लौट आना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,11 +321,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तदाभिवादनं कृत्वा गुरुपूजां प्रयुक्तवान् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -338,6 +333,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 उर्वशीको आयी देख अर्जुनके नेत्र लज्जासे मुँद गये। उस समय उन्होंने उसके चरणोंमें प्रणाम करके उसका गुरुजनोचित सत्कार किया॥१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -366,11 +366,6 @@ _अर्जुन बोले—_ देवि! श्रेष्ठ अप�
 गन्धर्ववचनं सर्वं श्रावयामास तं तदा ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उर्वश्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -383,6 +378,11 @@ _अर्जुन बोले—_ देवि! श्रेष्ठ अप�
 
 अर्जुनकी यह बात सुनकर उर्वशीके होश-हवास गुम हो गये, उस समय उसने गन्धर्वराज चित्रसेनकी कही हुई सारी बातें कह सुनायीं॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उर्वश्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -555,11 +555,6 @@ _उर्वशीने कहा—_ पुरुषोत्तम! चि�
 चिराभिलषितो वीर ममाप्येष मनोरथः ॥ ३५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -572,6 +567,11 @@ _उर्वशीने कहा—_ पुरुषोत्तम! चि�
 
 तुम्हारे गुणोंने मेरे चित्तको अपनी ओर खींच लिया है। मैं कामदेवके वशमें हो गयी हूँ। वीर! मेरे हृदयमें भी चिरकालसे यह मनोरथ चला आ रहा था॥३५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -662,11 +662,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 गुरोर्गुरुतरा मे त्वं मम त्वं वंशवर्धिनी ॥ ४१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उर्वश्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -681,6 +676,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘यह आनन्दमयी उर्वशी ही पूरुवंशकी जननी है, ऐसा समझकर मेरे नेत्र खिल उठे और इस पूज्य भावको लेकर ही मैंने तुम्हें वहाँ देखा था। कल्याणमयी अप्सरा! तुम मेरे विषयमें कोई अन्यथा भाव मनमें न लाओ। तुम मेरे वंशकी वृद्धि करनेवाली हो, अतः गुरुसे भी अधिक गौरवशालिनी हो’॥४०-४१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उर्वश्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -711,11 +711,6 @@ _उर्वशीने कहा—_ वीर देवराजनन्द
 हृच्छयेन च संतप्तं भक्तां च भज मानद ॥ ४४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -730,6 +725,11 @@ _उर्वशीने कहा—_ वीर देवराजनन्द
 
 पूरुवंशके कितने ही पोते-नाती तपस्या करके यहाँ आते हैं और वे हम सब अप्सराओंके साथ रमण करते हैं। इसमें उनका कोई अपराध नहीं समझा जाता। मानद! मुझपर प्रसन्न होओ। मैं कामवेदनासे पीड़ित हूँ, मेरा त्याग न करो। मैं तुम्हारी भक्त हूँ और मदनाग्निसे दग्ध हो रही हूँ; अतः मुझे अंगीकार करो॥४३-४४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -778,11 +778,6 @@ _अर्जुनने कहा—_ वरारोहे! अनिन्�
 त्वं हि मे मातृवत् पूज्या रक्ष्योऽहं पुत्रवत् त्वया॥४७॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -797,15 +792,15 @@ _अर्जुनने कहा—_ वरारोहे! अनिन्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु पार्थेन उर्वशी क्रोधमूर्च्छिता।  
 वेपन्ती भ्रुकुटीवक्रा शशापाथ धनंजयम् ॥ ४८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उर्वश्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -820,6 +815,11 @@ _अर्जुनने कहा—_ वरारोहे! अनिन्�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! कुन्तीकुमार अर्जुनके ऐसा कहनेपर उर्वशी क्रोधसे व्याकुल हो उठी। उसका शरीर काँपने लगा और भौंहें टेढ़ी हो गयीं। उसने अर्जुनको शाप देते हुए कहा॥४८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उर्वश्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1028,11 +1028,6 @@ _उर्वशी बोली—_ अर्जुन! तुम्हार�
 स्त्रिदिवगता विरमन्ति मानवेन्द्राः ॥ ६३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत इन्द्रलोकाभिगमनपर्वमें उर्वशीशाप नामक छियालीसवाँ अध्याय पूरा हुआ॥४६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1052,4 +1047,10 @@ _उर्वशी बोली—_ अर्जुन! तुम्हार�
 
 इति श्रीमहाभारते वनपर्वणि इन्द्रलोकाभिगमनपर्वणि उर्वशीशापो नाम षट्‌चत्वारिंशोऽध्यायः ॥ ४६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत इन्द्रलोकाभिगमनपर्वमें उर्वशीशाप नामक छियालीसवाँ अध्याय पूरा हुआ॥४६॥
 </details>
+</details>
+

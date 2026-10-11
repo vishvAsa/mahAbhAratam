@@ -4,12 +4,7 @@ title_full = "108 धृतराष्ट्र आदिके जन्म �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-108.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-108.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "108 धृतराष्ट्र आदिके जन्म �
 
 धृतराष्ट्र आदिके जन्म तथा भीष्मजीके धर्मपूर्ण शासनसे कुरुदेशकी सर्वांगीण उन्नतिका दिग्दर्शन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -519,11 +519,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 विदुरं धर्मतत्त्वज्ञं वाक्यमाह यथोचितम् ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डुराज्याभिषेकविषयक एक सौ आठवाँ अध्याय पूरा हुआ॥१०८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -540,6 +535,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि पाण्डुराज्याभिषेकेऽष्टाधिकशततमोऽध्यायः ॥ १०८ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डुराज्याभिषेकविषयक एक सौ आठवाँ अध्याय पूरा हुआ॥१०८॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

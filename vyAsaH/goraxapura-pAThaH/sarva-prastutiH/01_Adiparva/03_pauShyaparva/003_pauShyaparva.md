@@ -4,11 +4,11 @@ title_full = "003 जनमेजयको सरमाका शाप, जन�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-003p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-003p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-003p02.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-003p02.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-003p03.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-003p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -3080,11 +3080,6 @@ _उग्रश्रवाजी कहते हैं—_ परीक्ष
 उवाचैनं वचः काले शब्दसम्पन्नया गिरा ॥ १७३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उत्तङ्क उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -3101,15 +3096,15 @@ _उग्रश्रवाजी कहते हैं—_ परीक्ष
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उत्तङ्क उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यस्मिन् करणीये तु कार्ये पार्थिवसत्तम।  
 बाल्यादिवान्यदेव त्वं कुरुषे नृपसत्तम ॥ १७४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -3126,15 +3121,15 @@ _उत्तंक बोले—_ नृपश्रेष्ठ! जहा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु विप्रेण स राजा जनमेजयः।  
 अर्चयित्वा यथान्यायं प्रत्युवाच द्विजोत्तमम् ॥ १७५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -3151,17 +3146,17 @@ _उग्रश्रवाजी कहते हैं—_ विप्रव
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसां प्रजानां परिपालनेन  
 स्वं क्षत्रधर्मं परिपालयामि ।  
 प्रब्रूहि मे किं करणीयमद्य  
 येनासि कार्येण समागतस्त्वम् ॥ १७६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -3180,17 +3175,17 @@ _जनमेजय बोले—_ ब्रह्मन्! मैं इन 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एवमुक्तस्तु नृपोत्तमेन  
 द्विजोत्तमः पुण्यकृतां वरिष्ठः ।  
 उवाच राजानमदीनसत्त्वं  
 स्वमेव कार्यं नृपते कुरुष्व ॥ १७७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उत्तङ्क उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -3207,6 +3202,11 @@ _जनमेजय बोले—_ ब्रह्मन्! मैं इन 
 
 _उग्रश्रवाजी कहते हैं—_ राजाओंमें श्रेष्ठ जनमेजयके इस प्रकार कहनेपर पुण्यात्माओंमें अग्रगण्य विप्रवर उत्तंकने उन उदार हृदयवाले नरेशसे कहा—‘महाराज! वह कार्य मेरा नहीं, आपका ही है, आप उसे अवश्य कीजिये’॥१७७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उत्तङ्क उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3337,11 +3337,6 @@ _इतना कहकर उत्तंक फिर बोले—_ भू�
 विघ्नः कृतो महाराज गुर्वर्थं चरतोऽनघ ॥ १८५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -3356,6 +3351,11 @@ _इतना कहकर उत्तंक फिर बोले—_ भू�
 
 ऐसा करके आप अपने पिताकी मृत्युका बदला चुका सकेंगे एवं मेरा भी अत्यन्त प्रिय कार्य सम्पन्न हो जायगा। समूची पृथ्वीका पालन करनेवाले नरेश! तक्षक बड़ा दुरात्मा है। पापरहित महाराज! मैं गुरुजीके लिये एक कार्य करने जा रहा था, जिसमें उस दुष्टने बहुत बड़ा विघ्न डाल दिया था॥१८४-१८५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3404,11 +3404,6 @@ _उग्रश्रवाजी कहते हैं—_ महर्षि
 यदैव वृत्तं पितरमुत्तङ्कादशृणोत् तदा ॥ १८८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौष्यपर्वमें (पौष्याख्यानविषयक) तीसरा अध्याय पूरा हुआ॥३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -3426,4 +3421,10 @@ _उग्रश्रवाजी कहते हैं—_ महर्षि
 
 इति श्रीमहाभारते आदिपर्वणि पौष्यपर्वणि तृतीयोऽध्यायः ॥ ३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौष्यपर्वमें (पौष्याख्यानविषयक) तीसरा अध्याय पूरा हुआ॥३॥
 </details>
+</details>
+

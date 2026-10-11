@@ -4,14 +4,9 @@ title_full = "142 धृतराष्ट्रके आदेशसे पा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-142-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-142-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-142-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-142-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "142 धृतराष्ट्रके आदेशसे पा
 
 धृतराष्ट्रके आदेशसे पाण्डवोंकी वारणावत-यात्रा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -171,11 +171,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इदं वै हास्तिनपुरं सुखिनः पुनरेष्यथ ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -190,6 +185,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘ब्राह्मणों और गायकोंको विशेषरूपसे रत्न एवं धन दो तथा अत्यन्त तेजस्वी देवताओंके समान कुछ कालतक वहाँ इच्छानुसार विहार करते हुए परम सुख प्राप्त करो। तत्पश्चात् पुनः सुखपूर्वक इस हस्तिनापुर नगरमें ही चले आना’॥९-१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -310,11 +310,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कृत्वा सर्वाणि कार्याणि प्रययुर्वारणावतम् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें वारणावतयात्राविषयक एक सौ बयालीसवाँ अध्याय पूरा हुआ॥१४२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -333,8 +328,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि जतुगृहपर्वणि वारणावतयात्रायां द्विचत्वारिंशदधिकशततमोऽध्यायः ॥ १४२ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें वारणावतयात्राविषयक एक सौ बयालीसवाँ अध्याय पूरा हुआ॥१४२॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २ श्लोक मिलाकर कुल २१ श्लोक हैं)
 </details>
 </details>
+

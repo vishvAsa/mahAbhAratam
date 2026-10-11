@@ -3,12 +3,6 @@ title = "१८५ शरीराग्निवायुवर्णनम्"
 title_full = "185 शरीरके भीतर जठरानल तथा प्राण-अपान आदि वायुओंकी स्थिति आदिका वर्णन"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -27,17 +21,17 @@ Bharadvāja asked:
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पार्थिवं धातुम् **आसाद्य**  
 शारीरो **ऽग्निः कथं** प्रभो।  
 अवकाश-विशेषेण  
 **कथं वर्तयतेऽनिलः** ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुर् उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -62,6 +56,11 @@ How in the body does the solid element present itself and what becomes of the he
 
 Bhṛgu said: 
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुर् उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -480,11 +479,6 @@ Through this duct the Yogīs, vanquishers of fatigue, undisturbed and intelligen
 अग्निः स्थाल्यामिवाहितः ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें एक सौ पचासीवाँ अध्याय पूरा हुआ॥१८५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -506,6 +500,11 @@ Thus dispersed are the Prāṇa, Apāna and others in bodies of organisms. There
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि पञ्चाशीत्यधिकशततमोऽध्यायः ॥ १८५ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें एक सौ पचासीवाँ अध्याय पूरा हुआ॥१८५॥
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>

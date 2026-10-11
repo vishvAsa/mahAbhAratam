@@ -4,24 +4,19 @@ title_full = "127 पाण्डवों तथा धृतराष्ट्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p05.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p06.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p06.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p07.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-127p07.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -35,6 +30,11 @@ title_full = "127 पाण्डवों तथा धृतराष्ट्
 
 पाण्डवों तथा धृतराष्ट्रपुत्रोंकी बालक्रीड़ा, दुर्योधनका भीमसेनको विष खिलाना तथा गंगामें ढकेलना और भीमका नागलोकमें पहुँचकर आठ कुण्डोंके दिव्य रसका पान करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -283,11 +283,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 देहं त्यक्त्वा महाराज गतिमिष्टां ययुस्तदा ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -300,6 +295,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 भरतवंशशिरोमणि महाराज जनमेजय! तब वे देवियाँ वनमें अत्यन्त घोर तपस्या करके शरीर त्यागकर अभीष्ट गतिको प्राप्त हो गयीं॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1231,11 +1231,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 अशेत भीमसेनस्तु यथासुखमरिंदमः ॥ ७२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें भीमसेनके रसपानसे सम्बन्ध रखनेवाला एक सौ सत्ताईसवाँ अध्याय पूरा हुआ॥१२७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1252,6 +1247,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि भीमसेनरसपाने सप्तविंशत्यधिकशततमोऽध्यायः ॥ १२७ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें भीमसेनके रसपानसे सम्बन्ध रखनेवाला एक सौ सत्ताईसवाँ अध्याय पूरा हुआ॥१२७॥
 </details>
 </details>
 

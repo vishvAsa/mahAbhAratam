@@ -4,14 +4,9 @@ title_full = "216 वर्गाकी प्रार्थनासे अर
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-216p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-216p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-216p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वर्गोवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-216p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "216 वर्गाकी प्रार्थनासे अर
 
 वर्गाकी प्रार्थनासे अर्जुनका शेष चारों अप्सराओंको भी शापमुक्त करके मणिपूर जाना और चित्रांगदासे मिलकर गोकर्णतीर्थको प्रस्थान करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वर्गोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,11 +133,6 @@ _वर्गा बोली—_ भरतवंशके महापुरु
 शरणं त्वां प्रपन्नाः स्मस्तस्मात् त्वं क्षन्तुमर्हसि ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -152,15 +147,15 @@ _वर्गा बोली—_ भरतवंशके महापुरु
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः स धर्मात्मा ब्राह्मणः शुभकर्मकृत्।  
 प्रसादं कृतवान् वीर रविसोमसमप्रभः ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -175,6 +170,11 @@ _वर्गा बोली—_ भरतवंशके महापुरु
 
 _वैशम्पायनजी कहते हैं—_ वीरवर! उनके ऐसा कहनेपर सूर्य और चन्द्रमाके समान तेजस्वी तथा शुभ कर्म करनेवाले उन धर्मात्मा ब्राह्मणने उन सबपर कृपा की॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,11 +228,6 @@ _ब्राह्मण बोले—_ ‘शत’ और ‘शतसह�
 पुण्यानि च भविष्यन्ति पावनानि मनीषिणाम् ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वर्गोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -246,6 +241,11 @@ _ब्राह्मण बोले—_ ‘शत’ और ‘शतसह�
 
 तुमलोगोंका उद्धार हो जानेके बाद वे सभी तीर्थ इस जगत्‌में नारीतीर्थके नामसे विख्यात होंगे और मनीषी पुरुषोंको भी पवित्र करनेवाले पुण्यतीर्थ बन जायँगे॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वर्गोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -382,11 +382,6 @@ _वर्गा कहती है—_ भारत! तदनन्तर उ
 कुरु कर्म शुभं वीर एताः सर्वा विमोक्षय ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -399,6 +394,11 @@ _वर्गा कहती है—_ भारत! तदनन्तर उ
 
 ये मेरी चार सखियाँ और हैं, जो अभी जलमें ही पड़ी हैं। वीरवर! आप यह पुण्य कर्म कीजिये; इन सबको शापसे छुड़ा दीजिये॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -671,11 +671,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 यत्र पापोऽपि मनुजः प्राप्नोत्यभयदं पदम् ॥ ३५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अर्जुनवनवासपर्वमें अर्जुनकी तीर्थयात्रासे सम्बन्ध रखनेवाला दो सौ सोलहवाँ अध्याय पूरा हुआ॥२१६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -693,4 +688,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वण्यर्जुनवनवासपर्वण्यर्जुनतीर्थयात्रायां षोडशाधिकद्विशततमोऽध्यायः ॥ २१६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अर्जुनवनवासपर्वमें अर्जुनकी तीर्थयात्रासे सम्बन्ध रखनेवाला दो सौ सोलहवाँ अध्याय पूरा हुआ॥२१६॥
 </details>
+</details>
+

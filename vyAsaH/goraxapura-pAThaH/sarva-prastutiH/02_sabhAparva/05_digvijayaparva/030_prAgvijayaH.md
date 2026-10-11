@@ -4,16 +4,11 @@ title_full = "030 भीमका पूर्व दिशाके अने�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-030-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-030-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-030-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-030-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-030-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-030-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "030 भीमका पूर्व दिशाके अने�
 
 भीमका पूर्व दिशाके अनेक देशों तथा राजाओंको जीतकर भारी धन-सम्पत्तिके साथ इन्द्रप्रस्थमें लौटना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,11 +439,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 निवेदयामास तदा धर्मराजाय तद् धनम् ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें भीमके द्वारा पूर्व दिशाकी विजयसे सम्बन्ध रखनेवाला तीसवाँ अध्याय पूरा हुआ॥३०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -461,4 +456,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि दिग्विजयपर्वणि भीमप्राचीदिग्विजये त्रिंशोऽध्यायः ॥ ३० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें भीमके द्वारा पूर्व दिशाकी विजयसे सम्बन्ध रखनेवाला तीसवाँ अध्याय पूरा हुआ॥३०॥
 </details>
+</details>
+

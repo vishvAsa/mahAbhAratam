@@ -4,20 +4,15 @@ title_full = "175 शक्तिके शापसे कल्माषपा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-175p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-175p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-175p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-175p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-175p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-175p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-175p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-175p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-175p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-175p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "175 शक्तिके शापसे कल्माषपा
 
 शक्तिके शापसे कल्माषपादका राक्षस होना, विश्वामित्रकी प्रेरणासे राक्षसद्वारा वसिष्ठके पुत्रोंका भक्षण और वसिष्ठका शोक
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -536,11 +536,6 @@ _गन्धर्व कहता है—_ अर्जुन! इक्ष�
 अन्नार्थी तं त्वमन्नेन समांसेनोपपादय ॥ २९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -555,6 +550,11 @@ _गन्धर्व कहता है—_ अर्जुन! इक्ष�
 
 वहाँ आधी रातके समय उन्हें ब्राह्मणको भोजन देनेकी प्रतिज्ञाका स्मरण हुआ। फिर तो वे उठ बैठे और तुरंत रसोइयेको बुलाकर बोले—‘जाओ, वनके अमुक प्रदेशमें एक ब्राह्मण भोजनके लिये मेरी प्रतीक्षा करता है। उसे तुम मांसयुक्त भोजनसे तृप्त करो’॥२८-२९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,11 +643,6 @@ _गन्धर्व कहता है—_ उनके यों कहन�
 अभोज्यमिदमित्याह क्रोधपर्याकुलेक्षणः ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -660,6 +655,11 @@ _गन्धर्व कहता है—_ उनके यों कहन�
 
 तब उस श्रेष्ठ ब्राह्मणने तपःसिद्ध दृष्टिसे उस अन्नको देखा और ‘यह खानेयोग्य नहीं है’ यों समझकर क्रोधपूर्ण नेत्रोंसे देखते हुए कहा॥३४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -949,11 +949,6 @@ _ब्राह्मणने कहा—_ वह नीच राजा म�
 जगाम स ततः खिन्नः पुनरेवाश्रमं प्रति ॥ ४९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें वसिष्ठचरित्रके प्रसंगमें वसिष्ठशोकविषयक एक सौ पचहत्तरवाँ अध्याय पूरा हुआ॥१७५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -972,4 +967,10 @@ _ब्राह्मणने कहा—_ वह नीच राजा म�
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि वासिष्ठे वसिष्ठशोके पञ्चसप्तत्यधिकशततमोऽध्यायः ॥ १७५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें वसिष्ठचरित्रके प्रसंगमें वसिष्ठशोकविषयक एक सौ पचहत्तरवाँ अध्याय पूरा हुआ॥१७५॥
 </details>
+</details>
+

@@ -4,16 +4,11 @@ title_full = "210 तिलोत्तमाकी उत्पत्ति, �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-210p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-210p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-210p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-210p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-210p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-210p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "210 तिलोत्तमाकी उत्पत्ति, �
 
 तिलोत्तमाकी उत्पत्ति, उसके रूपका आकर्षण तथा सुन्दोप-सुन्दको मोहित करनेके लिये उसका प्रस्थान
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -299,11 +299,6 @@ _नारदजी कहते हैं—_ युधिष्ठिर! त�
 किं कार्यं मयि भूतेश येनास्म्यद्येह निर्मिता ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पितामह उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -316,6 +311,11 @@ _नारदजी कहते हैं—_ युधिष्ठिर! त�
 
 तदनन्तर तिलोत्तमा ब्रह्माजीको नमस्कार करके हाथ जोड़कर बोली—‘प्रजापते! मुझपर किस कार्यका भार रखा गया है? जिसके लिये आज मेरे शरीरका निर्माण किया गया है’॥१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पितामह उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -344,11 +344,6 @@ _ब्रह्माजीने कहा—_ भद्रे तिलोत
 विरोधः स्याद् यथा ताभ्यामन्योन्येन तथा कुरु ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -361,6 +356,11 @@ _ब्रह्माजीने कहा—_ भद्रे तिलोत
 
 तुझे देखते ही तेरे लिये—तेरी रूपसम्पत्तिके लिये उन दोनों दैत्योंमें परस्पर विरोध हो जाय, ऐसा प्रयत्न कर॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -574,11 +574,6 @@ _नारदजी कहते हैं—_ युधिष्ठिर! त�
 सर्वान् विसर्जयामास देवानृषिगणांश्च तान् ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें सुन्दोपसुन्दोपाख्यानके प्रसंगमें तिलोत्तमाप्रस्थापनविषयक दो सौ दसवाँ अध्याय पूरा हुआ॥२१०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -596,4 +591,10 @@ _नारदजी कहते हैं—_ युधिष्ठिर! त�
 
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि सुन्दोपसुन्दोपाख्याने तिलोत्तमाप्रस्थापने दशाधिकद्विशततमोऽध्यायः ॥ २१० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें सुन्दोपसुन्दोपाख्यानके प्रसंगमें तिलोत्तमाप्रस्थापनविषयक दो सौ दसवाँ अध्याय पूरा हुआ॥२१०॥
 </details>
+</details>
+

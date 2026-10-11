@@ -4,16 +4,11 @@ title_full = "192 धृष्टद्युम्नके द्वारा 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-192p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-192p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-192p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-192p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-192p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-192p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -30,17 +25,17 @@ title_full = "192 धृष्टद्युम्नके द्वारा 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तथोक्तः परिहृष्टरूपः  
 पित्रे शशंसाथ स राजपुत्रः।  
 धृष्टद्युम्नः सोमकानां प्रबर्हो  
 वृत्तं यथा येन हृता च कृष्णा ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृष्टद्युम्न उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -57,6 +52,11 @@ title_full = "192 धृष्टद्युम्नके द्वारा 
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! राजा द्रुपदके यों कहनेपर सोमकशिरोमणि राजकुमार धृष्टद्युम्न अत्यन्त हर्षमें भरकर वहाँ जो वृत्तान्त हुआ था एवं जो कृष्णाको ले गया, वह कौन था, वह सब समाचार कहने लगे॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृष्टद्युम्न उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,11 +667,6 @@ _धृष्टद्युम्न बोले—_ महाराज! ज�
 निवेदयिष्यन्निह सिद्धमन्नम् ॥ २९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें पुरोहितयुधिष्ठिरविषयक एक सौ बानबेवाँ अध्याय पूरा हुआ॥१९२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -691,4 +686,10 @@ _धृष्टद्युम्न बोले—_ महाराज! ज�
 
 इति श्रीमहाभारते आदिपर्वणि वैवाहिकपर्वणि पुरोहितयुधिष्ठिरसंवादे द्विनवत्यधिकशततमोऽध्यायः ॥ १९२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें पुरोहितयुधिष्ठिरविषयक एक सौ बानबेवाँ अध्याय पूरा हुआ॥१९२॥
 </details>
+</details>
+

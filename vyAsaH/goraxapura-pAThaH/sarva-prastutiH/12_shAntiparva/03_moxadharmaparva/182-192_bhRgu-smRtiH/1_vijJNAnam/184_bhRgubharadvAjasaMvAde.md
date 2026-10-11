@@ -3,12 +3,6 @@ title = "१८४ भृगुभरद्वाजसंवादे"
 title_full = "184 पंचमहाभूतोंके गुणोंका विस्तारपूर्वक वर्णन"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -25,6 +19,11 @@ title_full = "184 पंचमहाभूतोंके गुणोंका 
 
 Bharadvāja asked: 
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -64,11 +63,6 @@ and are known as the Mahābhūtas.
 कथं समुपपद्यते ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -91,6 +85,11 @@ Thousands of substances emerged from the great [Brahmā] but why are only these 
 
 Bhṛgu said: 
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -155,11 +154,6 @@ Activity is in gas, vacuum is in space, vapor is due to heat, viscosity is in li
 दृष्टिश् चेन्द्रिय-संज्ञिताः ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -182,6 +176,11 @@ Thus are all objects mobile and immobile made of the the five Bhūtas. [The five
 
 Bharadvāja asked: 
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -276,11 +275,6 @@ So how can they sense the 5 Bhūtas.
 वृक्षाणां नास्ति भौतिकम् ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -298,6 +292,11 @@ So how can they sense the 5 Bhūtas.
 
 It seems to me that as they lack any liquid material, and heat, any solidity, any gas and space, plants cannot be considered as conglomerates of Bhūtas.
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1134,11 +1133,6 @@ The element combining with the other elements [in the body] constantly grow the 
 व्याप्य प्राणान् इह स्थिताः ॥ ४४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु-भरद्वाजसंवादविषयक एक सौ चौरासीवाँ अध्याय पूरा हुआ॥१८४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1161,4 +1155,10 @@ The liquid, heat and gaseous elements are constantly active in the bodies. They 
 
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि भृगुभरद्वाजसंवादे चतुरशीत्यधिकशततमोऽध्यायः ॥ १८४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु-भरद्वाजसंवादविषयक एक सौ चौरासीवाँ अध्याय पूरा हुआ॥१८४॥
 </details>
+</details>
+

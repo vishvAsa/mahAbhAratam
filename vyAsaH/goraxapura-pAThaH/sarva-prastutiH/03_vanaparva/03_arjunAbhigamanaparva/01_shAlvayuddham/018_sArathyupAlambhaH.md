@@ -4,12 +4,7 @@ title_full = "018 मूर्च्छावस्थामें सारथ�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-018.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-018.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "018 मूर्च्छावस्थामें सारथ�
 
 मूर्च्छावस्थामें सारथिके द्वारा रणभूमिसे बाहर लाये जानेपर प्रद्युम्नका अनुताप और इसके लिये सारथिको उपालम्भ देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,11 +131,6 @@ _भगवान् श्रीकृष्ण कहते हैं—_ ब�
 विषादो वा रणं दृष्ट्वा ब्रूहि मे त्वं यथातथम्॥६॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -148,6 +143,11 @@ _भगवान् श्रीकृष्ण कहते हैं—_ ब�
 
 ‘सूतनन्दन! इस महासंग्राममें राजा शाल्वको देखकर तुझे मोह तो नहीं हो गया है? अथवा युद्ध देखकर तुझे विषाद तो नहीं होता है? मुझसे ठीक-ठीक बता (तेरे इस प्रकार भागनेका क्या कारण है?)’॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -660,11 +660,6 @@ _सूतपुत्रने कहा—_ जनार्दनकुमा�
 मयि युद्धार्थिनि भृशं स त्वं याहि यतो रणम्॥३३॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक अठारहवाँ अध्याय पूरा हुआ॥१८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -682,4 +677,10 @@ _सूतपुत्रने कहा—_ जनार्दनकुमा�
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि सौभवधोपाख्याने अष्टादशोऽध्यायः ॥ १८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक अठारहवाँ अध्याय पूरा हुआ॥१८॥
 </details>
+</details>
+

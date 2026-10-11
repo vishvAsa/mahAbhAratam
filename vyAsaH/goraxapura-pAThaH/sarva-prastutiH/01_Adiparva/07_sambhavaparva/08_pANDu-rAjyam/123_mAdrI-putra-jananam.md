@@ -4,12 +4,7 @@ title_full = "123 नकुल और सहदेवकी उत्पत्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-123.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-123.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "123 नकुल और सहदेवकी उत्पत्�
 
 नकुल और सहदेवकी उत्पत्ति तथा पाण्डु-पुत्रोंके नामकरण-संस्कार
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,11 +115,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 यदि तु त्वं प्रसन्नो मे स्वयमेनां प्रचोदय ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पाण्डुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -132,6 +127,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘सौत होनेके कारण मेरे मनमें एक अभिमान है, जो कुन्तीदेवीसे कुछ निवेदन करनेमें बाधक हो रहा है; अतः यदि आप मुझपर प्रसन्न हों तो आप स्वयं ही मेरे लिये कुन्तीदेवीको प्रेरित कीजिये’॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पाण्डुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,11 +160,6 @@ _पाण्डु बोले—_ माद्री! यह बात मे
 मन्ये ध्रुवं मयोक्ता सा वचनं प्रतिपत्स्यते ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -177,6 +172,11 @@ _पाण्डु बोले—_ माद्री! यह बात मे
 
 परंतु आज इस विषयमें तुम्हारी सम्मति जानकर अब मैं इसके लिये प्रयत्न करूँगा। मुझे विश्वास है, मेरे कहनेपर कुन्तीदेवी निश्चय ही मेरी बात मान लेंगी॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -269,11 +269,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अपत्यसंविभागेन परां कीर्तिमवाप्नुहि ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -286,6 +281,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘अनिन्दिते! इसी प्रकार तुम भी इस माद्रीको नौकापर बिठाकर पार लगा दो; इसे भी संतति देकर उत्तम यश प्राप्त करो’॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -564,11 +564,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सभाजयन्तस्तेऽन्योन्यं वसुदेवं वचोऽब्रुवन् ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वृष्णय ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -593,15 +588,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वृष्णय ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न भवेरन् क्रियाहीनाः पाण्डोः पुत्रा महायशः।  
 पाण्डोः प्रियहितान्वेषी प्रेषय त्वं पुरोहितम्॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -616,6 +611,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _वृष्णियोंने कहा—_ महायशस्वी वसुदेवजी! हम चाहते हैं कि राजा पाण्डुके पुत्र संस्कारहीन न हों; अतः आप पाण्डुके प्रिय और हितकी इच्छा रखकर उनके पास किसी पुरोहितको भेजिये।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -784,11 +784,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सर्वे ववृधुरल्पेन कालेनाप्स्विव नीरजाः ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डवोंकी उत्पत्तिविषयक एक सौ तेईसवाँ अध्याय पूरा हुआ॥१२३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -807,8 +802,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि पाण्डवोत्पत्तौ त्रयोविंशत्यधिकशततमोऽध्यायः ॥ १२३ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डवोंकी उत्पत्तिविषयक एक सौ तेईसवाँ अध्याय पूरा हुआ॥१२३॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २३ श्लोक मिलाकर कुल ५५ श्लोक हैं)
 </details>
 </details>
+

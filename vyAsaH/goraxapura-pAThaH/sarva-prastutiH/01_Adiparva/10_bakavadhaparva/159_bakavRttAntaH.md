@@ -4,14 +4,9 @@ title_full = "159 कुन्तीके पूछनेपर ब्राह
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-159p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-159p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-159p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-159p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,15 +22,15 @@ title_full = "159 कुन्तीके पूछनेपर ब्राह
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुतोमूलमिदं दुःखं ज्ञातुमिच्छामि तत्त्वतः।  
 विदित्वाप्यपकर्षेयं शक्यं चेदपकर्षितुम् ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -50,6 +45,11 @@ title_full = "159 कुन्तीके पूछनेपर ब्राह
 
 _कुन्तीने पूछा—_ ब्रह्मन्! आपलोगोंके इस दुःखका कारण क्या है? मैं यह ठीक-ठीक जानना चाहती हूँ। उसे जानकर यदि मिटाया जा सकेगा तो मिटानेकी चेष्टा करूँगी॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -336,11 +336,6 @@ _ब्राह्मणने कहा—_ तपोधने! आप जो 
 ततो नः सहितान् क्षुद्रः सर्वानेवोपभोक्ष्यति ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें कुन्तीप्रश्नविषयक एक सौ उनसठवाँ अध्याय पूरा हुआ॥१५९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -359,8 +354,14 @@ _ब्राह्मणने कहा—_ तपोधने! आप जो 
 इति श्रीमहाभारते आदिपर्वणि बकवधपर्वणि कुन्तीप्रश्ने एकोनषष्ट्यधिकशततमोऽध्यायः ॥ १५९ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें कुन्तीप्रश्नविषयक एक सौ उनसठवाँ अध्याय पूरा हुआ॥१५९॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २ श्लोक मिलाकर कुल १९ श्लोक हैं)
 </details>
 </details>
+

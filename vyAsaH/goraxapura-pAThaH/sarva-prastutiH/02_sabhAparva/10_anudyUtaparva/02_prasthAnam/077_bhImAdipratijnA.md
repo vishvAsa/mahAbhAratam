@@ -4,20 +4,15 @@ title_full = "077 दुःशासनद्वारा पाण्डवो�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-077p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-077p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-077p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-077p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-077p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-077p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-077p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-077p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-077p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-077p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "077 दुःशासनद्वारा पाण्डवो�
 
 दुःशासनद्वारा पाण्डवोंका उपहास एवं भीम, अर्जुन, नकुल और सहदेवकी शत्रुओंको मारनेके लिये भीषण प्रतिज्ञा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -334,11 +334,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 सिंहो यथा हैमवतः शृगालम् ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -353,6 +348,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 यह सब सुनकर भीमसेनको बड़ा क्रोध हुआ। जैसे हिमालयकी गुफामें रहनेवाला सिंह गीदड़के पास जाय, उसी प्रकार वे सहसा दुःशासनके पास जा पहुँचे और रोषपूर्वक उसे रोककर जोर-जोरसे फटकारते हुए बोले॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -401,11 +401,6 @@ _भीमसेनने कहा—_ क्रूर एवं नीच द�
 गोप्तारः सानुबन्धांस्तान् नेतास्मि यमसादनम् ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -420,17 +415,17 @@ _भीमसेनने कहा—_ क्रूर एवं नीच द�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणमजिनैर्विवासितं  
 दुःशासनस्तं परिनृत्यति स्म ।  
 मध्ये कुरूणां धर्मनिबद्धमार्गं  
 गौर्गौरिति स्माह्वयन् मुक्तलज्जः ॥ १९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -447,6 +442,11 @@ _भीमसेनने कहा—_ क्रूर एवं नीच द�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! मृगचर्म धारण किये भीमसेनको ऐसी बातें करते देख निर्लज्ज दुःशासन कौरवोंके बीचमें उनकी हँसी उड़ाते हुए नाचने लगा और ‘ओ बैल! ओ बैल’ कहकर उन्हें पुकारने लगा। उस समय भीमका मार्ग धर्मराज युधिष्ठिरने रोक रखा था (अन्यथा वे दुःशासनको जीता न छोड़ते)॥१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -495,11 +495,6 @@ _भीमसेन बोले—_ ओ नृशंस दुःशासन! 
 शमं गन्तास्मि नचिरात् सत्यमेतद् ब्रवीमि ते ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -512,6 +507,11 @@ _भीमसेन बोले—_ ओ नृशंस दुःशासन! 
 
 मैं तुझसे सच्ची बात कह रहा हूँ, शीघ्र ही वह समय आनेवाला है, जब कि समस्त धनुर्धरोंके देखते-देखते मैं युद्धमें धृतराष्ट्रके सभी पुत्रोंका वध करके शान्ति प्राप्त करूँगा॥२२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -570,11 +570,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 विनिष्क्रामन् वाक्यमुवाच भीमः ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -589,6 +584,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इस प्रकार अपना अपमान होता देख बलवान् एवं मानी भीमसेन क्रोधको किसी प्रकार रोककर राजा युधिष्ठिरके पीछे कौरवसभासे निकलते हुए इस प्रकार बोले॥२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -641,11 +641,6 @@ _भीमसेनने कहा—_ मैं दुर्योधनका
 दुःशासनस्य रुधिरं पातास्मि मृगराडिव ॥ २९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -660,15 +655,15 @@ _भीमसेनने कहा—_ मैं दुर्योधनका
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवं वाचा व्यवसितं भीम विज्ञायते सताम्।  
 इतश्चतुर्दशे वर्षे द्रष्टारो यद् भविष्यति ॥ ३० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -685,15 +680,15 @@ _अर्जुनने कहा—_ आर्य भीमसेन! सा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुर्योधनस्य कर्णस्य शकुनेश्च दुरात्मनः।  
 दुःशासनचतुर्थानां भूमिः पास्यति शोणितम् ॥ ३१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -708,6 +703,11 @@ _अर्जुनने कहा—_ आर्य भीमसेन! सा�
 
 _भीमसेन बोले—_ यह भूमि दुर्योधन, कर्ण, दुरात्मा शकुनि तथा चौथे दुःशासनके रक्तका निश्चय ही पान करेगी॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -796,11 +796,6 @@ _अर्जुनने कहा—_ भैया भीमसेन! जो 
 दुर्योधनोऽभिसत्कृत्य सत्यमेतद् भविष्यति ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -815,17 +810,17 @@ _अर्जुनने कहा—_ भैया भीमसेन! जो 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तवति पार्थे तु श्रीमान् माद्रवतीसुतः।  
 प्रगृह्य विपुलं बाहुं सहदेवः प्रतापवान् ॥ ३७ ॥  
 सौबलस्य वधं प्रेप्सुरिदं वचनमब्रवीत्।  
 क्रोधसंरक्तनयनो निःश्वसन्निव पन्नगः ॥ ३८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सहदेव उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -842,6 +837,11 @@ _अर्जुनने कहा—_ भैया भीमसेन! जो 
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! अर्जुनके ऐसा कहनेपर परम सुन्दर प्रतापी वीर माद्रीनन्दन सहदेवने अपनी विशाल भुजा ऊपर उठाकर शकुनिके वधकी इच्छासे इस प्रकार कहा; उस समय उनके नेत्र क्रोधसे लाल हो रहे थे और वे फुँफकारते हुए सर्पकी भाँति उच्छ्‌वास ले रहे थे॥३७-३८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सहदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -910,11 +910,6 @@ _सहदेवने कहा—_ ओ गान्धारनिवासी
 दर्शनीयतमो नॄणामिदं वचनमब्रवीत् ॥ ४२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नकुल उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -927,6 +922,11 @@ _सहदेवने कहा—_ ओ गान्धारनिवासी
 
 राजन्! सहदेवकी बात सुनकर मनुष्योंमें परम दर्शनीय रूपवाले नकुलने भी यह बात कही॥४२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नकुल उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -959,11 +959,6 @@ _नकुल बोले—_ दुर्योधनके प्रियस
 निर्धार्तराष्ट्रां पृथिवीं कर्तास्मि नचिरादिव ॥ ४५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -978,15 +973,15 @@ _नकुल बोले—_ दुर्योधनके प्रियस
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ते पुरुषव्याघ्राः सर्वे व्यायतबाहवः।  
 प्रतिज्ञा बहुलाः कृत्वा धृतराष्ट्रमुपागमन् ॥ ४६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें पाण्डवोंकी प्रतिज्ञासे सम्बन्ध रखनेवाला सतहत्तरवाँ अध्याय पूरा हुआ॥७७॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1006,4 +1001,10 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 इति श्रीमहाभारते सभापर्वणि अनुद्यूतपर्वणि पाण्डवप्रतिज्ञाकरणे सप्तसप्ततितमोध्यायः ॥ ७७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें पाण्डवोंकी प्रतिज्ञासे सम्बन्ध रखनेवाला सतहत्तरवाँ अध्याय पूरा हुआ॥७७॥
 </details>
+</details>
+

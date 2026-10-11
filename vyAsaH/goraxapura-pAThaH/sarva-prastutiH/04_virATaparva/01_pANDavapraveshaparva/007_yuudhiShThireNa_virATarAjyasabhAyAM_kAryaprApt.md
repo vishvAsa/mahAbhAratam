@@ -4,16 +4,11 @@ title_full = "007 युधिष्ठिरका राजसभामें 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-007p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-007p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-007p2.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-007p2.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-007p3.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-007p3.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "007 युधिष्ठिरका राजसभामें 
 
 युधिष्ठिरका राजसभामें जाकर विराटसे मिलना और वहाँ आदरपूर्वक निवास पाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,11 +61,6 @@ _वैशम्पायनजी कहते है—_ राजन्! त�
 कृताञ्जलिर्धर्ममुपाह्वयच्छनैः ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -80,6 +75,11 @@ _वैशम्पायनजी कहते है—_ राजन्! त�
 
 तत्पश्चात् राजा युधिष्ठिर अग्निहोत्र, जप और मंगलपाठ करके धर्मराजके दिये हुए वरदानका चिन्तन करते हुए पूर्व दिशाकी ओर चले और हाथ जोड़कर धीरे-धीरे धर्मराजका स्मरण करने लगे।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,11 +186,6 @@ _युधिष्ठिर बोले—_ मेरे पिता प्�
 न तन्मृषा देववरो यदब्रवीत्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -205,6 +200,11 @@ _युधिष्ठिर बोले—_ मेरे पिता प्�
 
 ‘हमलोगोंमें इच्छानुसार क्षमा और कीर्ति हो और हम अपने सत्यव्रतको पूर्ण कर लें; यही वर हमें प्राप्त होना चाहिये।’ जैसा कि मैंने बताया, वैसा ही वर उन्होंने दिया। देवेश्वर धर्मने जैसा कहा है, वह कभी मिथ्या नहीं हो सकता।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,11 +489,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 किं चापि शिल्पं तव विद्यते कृतम् ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -508,17 +503,17 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युधिष्ठिरस्यासमहं पुरा सखा  
 वैयाघ्रपद्यः पुनरस्मि विप्रः ।  
 अक्षान् प्रयोक्तुं कुशलोऽस्मि देविनां  
 कङ्केति नाम्नास्मि विराट विश्रुतः ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विराट उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -537,17 +532,17 @@ _युधिष्ठिरने कहा—_ महाराज विरा
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विराट उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददामि ते हन्त वरं यमिच्छसि  
 प्रशाधि मत्स्यान् वशगो ह्यहं तव।  
 प्रियाश्च धूर्ता मम देविनः सदा  
 भवांश्च देवोपम राज्यमर्हति ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -566,17 +561,17 @@ _विराट बोले—_ ब्रह्मन्! मैं आपक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तो विवादः प्रथमं विशाम्पते  
 न विद्यते कं च न मत्स्य हीनतः।  
 न मे जितः कश्चन धारयेद् धनं  
 वरो ममैषोऽस्तु तव प्रसादजः ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विराट उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -593,6 +588,11 @@ _विराट बोले—_ ब्रह्मन्! मैं आपक�
 
 _युधिष्ठिरने कहा—_ मत्स्यराज! नरनाथ! मुझे किसी हीन वर्णके मनुष्यसे विवाद न करना पड़े, यह मैं पहला वर माँगता हूँ तथा मुझसे पराजित होनेवाला कोई भी मनुष्य हारे हुए धनको अपने पास न रखे (मुझे दे दे)। आपकी कृपासे यह दूसरा वर मुझे प्राप्त हो जाय, तो मैं रह सकता हूँ॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विराट उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -651,11 +651,6 @@ _विराट बोले—_ ब्रह्मन्! यदि कोई 
 न ते भयं विद्यति संनिधौ मम ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -670,6 +665,11 @@ _विराट बोले—_ ब्रह्मन्! यदि कोई 
 
 जो लोग जीविकाके अभावमें कष्ट पा रहे हों और अनुवादके लिये अर्थात् पहलेके स्थायी तौरपर दिये हुए खेत और बगीचे आदिको पुनः उपयोगमें लानेके निमित्त नूतन राजाज्ञा प्राप्त करनेके लिये आपके पास आवें, उनके अनुरोधपूर्ण वचनसे आप सदा उनकी प्रार्थना मुझे सुना सकते हैं। विश्वास रखिये, आपके कथनानुसार उन याचकोंको मैं सब कुछ दूँगा; इसमें संशय नहीं है। आपको मेरे पास आने या कुछ कहनेमें भयभीत होनेकी आवश्यकता नहीं है॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -728,11 +728,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 न चापि कश्चिच्चरितं बुबोध तत् ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें युधिष्ठिरप्रवेशविषयक सातवाँ अध्याय पूरा हुआ॥७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -753,8 +748,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते विराटपर्वणि पाण्डवप्रवेशपर्वणि युधिष्ठिरप्रवेशो नाम सप्तमोऽध्यायः ॥ ७ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें युधिष्ठिरप्रवेशविषयक सातवाँ अध्याय पूरा हुआ॥७॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके १२ श्लोक मिलाकर कुल ३० श्लोक हैं।)
 </details>
 </details>
+

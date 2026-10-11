@@ -4,12 +4,7 @@ title_full = "173 गन्धर्वका वसिष्ठजीकी म
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="भट्टमधुसूदनः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-173.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="भट्टमधुसूदनः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-173.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "173 गन्धर्वका वसिष्ठजीकी म
 
 गन्धर्वका वसिष्ठजीकी महत्ता बताते हुए किसी श्रेष्ठ ब्राह्मणको पुरोहित बनानेके लिये आग्रह करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -91,11 +91,6 @@ _वैशम्पायनजी कहते हैं—_ भरतश्र
 आसीदेतन्ममाचक्ष्व क एष भगवानृषिः ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -108,6 +103,11 @@ _वैशम्पायनजी कहते हैं—_ भरतश्र
 
 ‘गन्धर्वराज! ये जो हमारे पूर्वजोंके पुरोहित थे, वे भगवान् वसिष्ठ मुनि कौन हैं? यह मुझसे कहो’॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -301,11 +301,6 @@ _गन्धर्वने कहा—_ वसिष्ठजी ब्रह
 विद्वान् भवतु वो विप्रो धर्मकामार्थतत्त्ववित् ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें पुरोहित बनानेके लिये कथनसम्बन्धी एक सौ तिहत्तरवाँ अध्याय पूरा हुआ॥१७३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -324,4 +319,10 @@ _गन्धर्वने कहा—_ वसिष्ठजी ब्रह
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि पुरोहितकरणकथने त्रिसप्तत्यधिकशततमोऽध्यायः ॥ १७३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें पुरोहित बनानेके लिये कथनसम्बन्धी एक सौ तिहत्तरवाँ अध्याय पूरा हुआ॥१७३॥
 </details>
+</details>
+

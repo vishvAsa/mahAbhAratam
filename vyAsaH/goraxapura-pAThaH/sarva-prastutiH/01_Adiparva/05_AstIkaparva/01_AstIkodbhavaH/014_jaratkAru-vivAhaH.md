@@ -4,12 +4,7 @@ title_full = "014 जरत्कारुद्वारा वासुकि�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="श्रीदेवी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-014-sridevi.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="श्रीदेवी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-014-sridevi.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "014 जरत्कारुद्वारा वासुकि�
 
 जरत्कारुद्वारा वासुकिकी बहिनका पाणिग्रहण
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,11 +111,6 @@ _उग्रश्रवाजी कहते हैं—_ तदनन्त
 किंनाम्नी भगिनीयं ते ब्रूहि सत्यं भुजंगम ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुकिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -128,6 +123,11 @@ _उग्रश्रवाजी कहते हैं—_ तदनन्त
 
 ऐसा निश्चय करके परम बुद्धिमान् एवं महान् तपस्वी जरत्कारुने पूछा—‘नागराज! सच-सच बताओ, तुम्हारी इस बहिनका क्या नाम है?’॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुकिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -158,11 +158,6 @@ _वासुकिने कहा—_ जरत्कारो! यह मे�
 स च तां प्रतिजग्राह विधिदृष्टेन कर्मणा ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें वासुकिकी बहिनके वरणसे सम्बन्ध रखनेवाला चौदहवाँ अध्याय पूरा हुआ॥१४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -180,4 +175,10 @@ _वासुकिने कहा—_ जरत्कारो! यह मे�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि वासुकिस्वसृवरणे चतुर्दशोऽध्यायः ॥ १४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें वासुकिकी बहिनके वरणसे सम्बन्ध रखनेवाला चौदहवाँ अध्याय पूरा हुआ॥१४॥
 </details>
+</details>
+

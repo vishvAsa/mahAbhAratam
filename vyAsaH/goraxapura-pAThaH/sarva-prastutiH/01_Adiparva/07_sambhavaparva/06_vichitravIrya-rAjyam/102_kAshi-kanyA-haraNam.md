@@ -4,14 +4,9 @@ title_full = "102 भीष्मके द्वारा स्वयंवर
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-102p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-102p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-102p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-102p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "102 भीष्मके द्वारा स्वयंवर
 
 भीष्मके द्वारा स्वयंवरसे काशिराजकी कन्याओंका हरण, युद्धमें सब राजाओं तथा शाल्वकी पराजय, अम्बिका और अम्बालिकाके साथ विचित्रवीर्यका विवाह तथा निधन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,11 +160,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इत्येवं प्रब्रुवन्तस्ते हसन्ति स्म नृपाधमाः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -180,6 +175,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 वहाँ जो नीच स्वभावके नरेश एकत्र थे, वे आपसमें ये बातें कहते हुए उनकी हँसी उड़ाने लगे—‘भरतवंशियोंमें श्रेष्ठ भीष्म तो बड़े धर्मात्मा सुने जाते थे। ये बूढ़े हो गये हैं, शरीरमें झुर्रियाँ पड़ गयी हैं, सिरके बाल सफेद हो चुके हैं; फिर क्या कारण है कि यहाँ आये हैं? ये तो बड़े निर्लज्ज जान पड़ते हैं। अपनी प्रतिज्ञा झूठी करके ये लोगोंमें क्या कहेंगे—कैसे मुँह दिखायेंगे? भूमण्डलमें व्यर्थ ही यह बात फैल गयी है कि भीष्मजी ब्रह्मचारी हैं’॥८-९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1048,11 +1048,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ऋत्विग्भिः सहितो भीष्मः सर्वैश्च कुरुपुङ्गवैः ॥ ७३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें विचित्रवीर्यका निधनविषयक एक सौ दोवाँ अध्याय पूरा हुआ॥१०२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1072,4 +1067,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि विचित्रवीर्योपरमे द्व्यधिकशततमोऽध्यायः ॥ १०२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें विचित्रवीर्यका निधनविषयक एक सौ दोवाँ अध्याय पूरा हुआ॥१०२॥
 </details>
+</details>
+

@@ -4,14 +4,9 @@ title_full = "217 अर्जुनका प्रभासतीर्थम�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-217p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-217p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-217p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-217p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "217 अर्जुनका प्रभासतीर्थम�
 
 अर्जुनका प्रभासतीर्थमें श्रीकृष्णसे मिलना और उन्हींके साथ उनका रैवतक पर्वत एवं द्वारकापुरीमें आना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,11 +403,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 उवास सह कृष्णेन बहुलास्तत्र शर्वरीः ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अर्जुनवनवासपर्वमें अर्जुनका द्वारकागमनविषयक दो सौ सत्रहवाँ अध्याय पूरा हुआ॥२१७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -425,4 +420,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि अर्जुनवनवासपर्वणि अर्जुनद्वारकागमने सप्तदशाधिकद्विशततमोऽध्यायः ॥ २१७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अर्जुनवनवासपर्वमें अर्जुनका द्वारकागमनविषयक दो सौ सत्रहवाँ अध्याय पूरा हुआ॥२१७॥
 </details>
+</details>
+

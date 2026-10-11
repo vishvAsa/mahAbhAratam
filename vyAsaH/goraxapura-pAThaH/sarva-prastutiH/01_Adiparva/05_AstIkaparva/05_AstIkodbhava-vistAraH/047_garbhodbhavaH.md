@@ -4,18 +4,13 @@ title_full = "047 जरत्कारु मुनिका नागकन्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-047-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-047-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-047-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-047-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-047-p03.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-047-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-047-p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-047-p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "047 जरत्कारु मुनिका नागकन्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वासुकिस्त्वब्रवीद् वाक्यं जरत्कारुमृषिं तदा।  
@@ -38,11 +38,6 @@ title_full = "047 जरत्कारु मुनिका नागकन्
 भरिष्यामि च ते भार्यां प्रतीच्छेमां द्विजोत्तम।  
 रक्षणं च करिष्येऽस्याः सर्वशक्त्या तपोधन।  
 त्वदर्थं रक्ष्यते चैषा मया मुनिवरोत्तम ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋषिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -62,15 +57,15 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! उ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋषिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न भरिष्येऽहमेतां वै एष मे समयः कृतः।  
 अप्रियं च न कर्तव्यं कृते चैनां त्यजाम्यहम् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -85,6 +80,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! उ�
 
 _ऋषिने कहा—_ नागराज! मैं इसका भरण-पोषण नहीं करूँगा, मेरी यह शर्त तो तय हो गयी। अब दूसरी शर्त यह है कि तुम्हारी इस बहिनको कभी ऐसा कार्य नहीं करना चाहिये, जो मुझे अप्रिय लगे। यदि अप्रिय कार्य कर बैठेगी तो उसी समय मैं इसे त्याग दूँगा॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -633,11 +633,6 @@ _उग्रश्रवाजी कहते हैं—_ नागराज
 उग्राय तपसे भूयो जगाम कृतनिश्चयः ॥ ४३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जरत्कारुका तपस्याके लिये निष्क्रमणविषयक सैंतालीसवाँ अध्याय पूरा हुआ॥४७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -654,6 +649,11 @@ _उग्रश्रवाजी कहते हैं—_ नागराज
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि जरत्कारुनिर्गमे सप्तचत्वारिंशोऽध्यायः ॥ ४७ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जरत्कारुका तपस्याके लिये निष्क्रमणविषयक सैंतालीसवाँ अध्याय पूरा हुआ॥४७॥
 </details>
 </details>
 

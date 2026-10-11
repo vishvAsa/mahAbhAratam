@@ -4,14 +4,9 @@ title_full = "062 धृतराष्ट्रको विदुरकी च
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-062-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-062-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-062-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-062-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,15 +22,15 @@ title_full = "062 धृतराष्ट्रको विदुरकी च
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्रवर्तिते द्यूते घोरे सर्वापहारिणि।  
 सर्वसंशयनिर्मोक्ता विदुरो वाक्यमब्रवीत् ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -50,6 +45,11 @@ title_full = "062 धृतराष्ट्रको विदुरकी च
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! इस प्रकार जब सर्वस्वका अपहरण करनेवाली वह भयानक द्यूतक्रीड़ा चल रही थी, उसी समय समस्त संशयोंका निवारण करनेवाले विदुरजी बोल उठे॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -370,11 +370,6 @@ _विदुरजीने कहा—_ भरतकुलतिलक मह
 मरुद्भिः सहितो राजन्नपि साक्षान्मरुत्पतिः ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें विदुरके हितकारक वचनसम्बन्धी बासठवाँ अध्याय पूरा हुआ॥६२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -393,8 +388,14 @@ _विदुरजीने कहा—_ भरतकुलतिलक मह
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि विदुरहितवाक्ये द्विषष्टितमोऽध्यायः ॥ ६२ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें विदुरके हितकारक वचनसम्बन्धी बासठवाँ अध्याय पूरा हुआ॥६२॥
+</details>
+
 <details><summary>Misc Detail</summary>
 
 _(दाक्षिणात्य अधिक पाठका_   _श्लोक मिलाकर कुल १७_  _श्लोक हैं)_
 </details>
 </details>
+

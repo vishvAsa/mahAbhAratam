@@ -4,14 +4,9 @@ title_full = "165 द्रोणके द्वारा द्रुपदक
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-165p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-165p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-165p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-165p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "165 द्रोणके द्वारा द्रुपदक
 
 द्रोणके द्वारा द्रुपदके अपमानित होनेका वृत्तान्त
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,11 +175,6 @@ _आगन्तुक ब्राह्मणने कहा—_ गंगा
 आगतं वित्तकामं मां विद्धि द्रोणं द्विजोत्तम ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राम उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -196,15 +191,15 @@ _आगन्तुक ब्राह्मणने कहा—_ गंगा
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राम उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरीरमात्रमेवाद्य मया समवशेषितम् ।  
 अस्त्राणि वा शरीरं वा ब्रह्मन्नेकतमं वृणु ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -221,15 +216,15 @@ _परशुरामजीने कहा—_ ब्रह्मन्! अ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्त्राणि चैव सर्वाणि तेषां संहारमेव च।  
 प्रयोगं चैव सर्वेषां दातुमर्हति मे भवान् ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -244,6 +239,11 @@ _परशुरामजीने कहा—_ ब्रह्मन्! अ�
 
 _द्रोण बोले—_ भगवन्! आप मुझे सम्पूर्ण अस्त्र तथा उन सबके प्रयोग और उपसंहारकी विधि भी प्रदान करें॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,11 +292,6 @@ _आगन्तुक ब्राह्मणने कहा—_ तब भ�
 अब्रवीत् पुरुषव्याघ्रः सखायं विद्धि मामिति ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -311,15 +306,15 @@ _आगन्तुक ब्राह्मणने कहा—_ तब भ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाश्रोत्रियः श्रोत्रियस्य नारथी रथिनः सखा।  
 नाराजा पार्थिवस्यापि सखिपूर्वं किमिष्यते ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -334,6 +329,11 @@ _आगन्तुक ब्राह्मणने कहा—_ तब भ�
 
 _द्रुपदने कहा—_ जो श्रोत्रिय नहीं है, वह श्रोत्रियका; जो रथी नहीं है, वह रथी वीरका और इसी प्रकार जो राजा नहीं है, वह किसी राजाका मित्र होनेयोग्य नहीं है; फिर तुम पहलेकी मित्रताकी अभिलाषा क्यों करते हो?॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,11 +493,6 @@ _आगन्तुक ब्राह्मणने कहा—_ बुद्
 नास्त्यर्जुनसमो वीर्ये राजपुत्र इति ब्रुवन्॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -515,17 +510,17 @@ _आगन्तुक ब्राह्मणने कहा—_ बुद्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रार्थयामि त्वया सख्यं पुनरेव नराधिप।  
 अराजा किल नो राज्ञः सखा भवितुमर्हति ॥ २३ ॥  
 अतः प्रयतितं राज्ये यज्ञसेन त्वया सह।  
 राजासि दक्षिणे कूले भागीरथ्याहमुत्तरे ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -542,6 +537,11 @@ _आगन्तुक ब्राह्मणने कहा—_ बुद्
 
 _द्रोणाचार्य बोले—_ राजन्! मैं फिर भी तुमसे मित्रताके लिये प्रार्थना करता हूँ। यज्ञसेन! तुमने कहा था, जो राजा नहीं है, वह राजाका मित्र नहीं हो सकता; अतः मैंने राज्यप्राप्तिके लिये तुम्हारे साथ युद्धका प्रयास किया है। तुम गंगाके दक्षिणतटके राजा रहो और मैं उत्तरतटका॥२३-२४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

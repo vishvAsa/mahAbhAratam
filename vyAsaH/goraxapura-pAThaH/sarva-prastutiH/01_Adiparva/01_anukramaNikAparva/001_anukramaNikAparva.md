@@ -4,21 +4,21 @@ title_full = "001 ग्रन्थका उपक्रम, ग्रन्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p02.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p02.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p03.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p03.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p04.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p04.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p05.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p05.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p06.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p06.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p07.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p07.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p08.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-001p08.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -227,11 +227,6 @@ title_full = "001 ग्रन्थका उपक्रम, ग्रन्�
 मुनीनां भावितात्मनाम्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -245,6 +240,11 @@ title_full = "001 ग्रन्थका उपक्रम, ग्रन्�
 
 उग्रश्रवाजी एक कुशल वक्ता थे। इस प्रकार प्रश्न किये जानेपर वे शुद्ध अन्तःकरणवाले मुनियोंकी उस विशाल सभामें ऋषियों तथा राजाओंसे सम्बन्ध रखनेवाली उत्तम एवं यथार्थ कथा कहने लगे॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -344,11 +344,6 @@ _उग्रश्रवाजीने कहा—_ महर्षियो!
 ऋषीणां च महात्मनाम् ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋषय ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -363,6 +358,11 @@ _उग्रश्रवाजीने कहा—_ महर्षियो!
 
 इस समय आप सभी स्नान, संध्या-वन्दन, जप और अग्निहोत्र आदि करके शुद्ध हो अपने-अपने आसनपर स्वस्थचित्तसे विराजमान हैं। आज्ञा कीजिये, मैं आपलोगोंको क्या सुनाऊँ? क्या मैं आपलोगोंको धर्म और अर्थके गूढ़ रहस्यसे युक्त, अन्तःकरणको शुद्ध करनेवाली भिन्न-भिन्न पुराणोंकी कथा सुनाऊँ अथवा उदारचरित महानुभाव ऋषियों एवं सम्राटोंके पवित्र इतिहास?॥१५-१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋषय ऊचुः
 </details>
 
 ## कथाप्रस्तावः
@@ -391,11 +391,6 @@ _उग्रश्रवाजीने कहा—_ महर्षियो!
 पुण्यां पापभयापहाम् ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -416,6 +411,11 @@ _उग्रश्रवाजीने कहा—_ महर्षियो!
 
 _ऋषियोंने कहा—_ उग्रश्रवाजी! परमर्षि श्रीकृष्ण-द्वैपायनने जिस प्राचीन इतिहासरूप पुराणका वर्णन किया है और देवताओं तथा ऋषियोंने अपने-अपने लोकमें श्रवण करके जिसकी भूरि-भूरि प्रशंसा की है, जो आख्यानोंमें सर्वश्रेष्ठ है, जिसका एक-एक पद, वाक्य एवं पर्व विचित्र शब्दविन्यास और रमणीय अर्थसे परिपूर्ण है, जिसमें आत्मा-परमात्माके सूक्ष्म स्वरूपका निर्णय एवं उनके अनुभवके लिये अनुकूल युक्तियाँ भरी हुई हैं और जो सम्पूर्ण वेदोंके तात्पर्यानुकूल अर्थसे अलंकृत है, उस भारत-इतिहासकी परम पुण्यमयी, ग्रन्थके गुप्त भावोंको स्पष्ट करनेवाली, पदों-वाक्योंकी व्युत्पत्तिसे युक्त, सब शास्त्रोंके अभिप्रायके अनुकूल और उनसे समर्थित जो अद्‌भुतकर्मा व्यासकी संहिता है, उसे हम सुनना चाहते हैं। अवश्य ही वह चारों वेदोंके अर्थोंसे भरी हुई तथा पुण्यस्वरूपा है। पाप और भयका नाश करनेवाली है। भगवान् वेदव्यासकी आज्ञासे राजा जनमेजयके यज्ञमें प्रसिद्ध ऋषि वैशम्पायनने आनन्दमें भरकर भलीभाँति इसका निरूपण किया है॥१७—२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1349,11 +1349,6 @@ _उग्रश्रवाजीने कहा—_ जो सबका आ�
 एतस्य भुवि **विद्यते** ॥ ७० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1368,6 +1363,11 @@ _उग्रश्रवाजीने कहा—_ जो सबका आ�
 
 दिव्य नगर एवं दुर्गोंके निर्माणका कौशल तथा युद्धकी निपुणताका भी वर्णन है। भिन्न-भिन्न भाषाओं और जातियोंकी जो विशेषताएँ हैं, लोकव्यवहारकी सिद्धिके लिये जो कुछ आवश्यक है तथा और भी जितने लोकोपयोगी पदार्थ हो सकते हैं, उन सबका इसमें प्रतिपादन किया गया है; परंतु मुझे इस बातकी चिन्ता है कि पृथ्वीमें इस ग्रन्थको लिख सके ऐसा कोई नहीं है’॥६९-७०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1426,11 +1426,6 @@ _ब्रह्माजीने कहा—_ व्यासजी! सं�
 **गणेशः स्मर्यतां** मुने।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1444,6 +1439,11 @@ _ब्रह्माजीने कहा—_ व्यासजी! सं�
 
 संसारके बड़े-से-बड़े कवि भी इस काव्यसे बढ़कर कोई रचना नहीं कर सकेंगे। ठीक वैसे ही, जैसे ब्रह्मचर्य, वानप्रस्थ और संन्यास तीनों आश्रम अपनी विशेषताओंद्वारा गृहस्थाश्रमसे आगे नहीं बढ़ सकते। मुनिवर! अपने काव्यको लिखवानेके लिये तुम गणेशजीका स्मरण करो॥७३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1817,11 +1817,6 @@ _उग्रश्रवाजी कहते हैं—_ महात्म
 अक्षयो **भारत-द्रुमः** ॥ ९२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1834,6 +1829,11 @@ _उग्रश्रवाजी कहते हैं—_ महात्म
 
 संसारमें जितने भी श्रेष्ठ कवि होंगे उनके काव्यके लिये यह मूल आश्रय होगा। जैसे मेघ सम्पूर्ण प्राणियोंके लिये जीवनदाता है, वैसे ही यह अक्षय भारत-वृक्ष है॥९२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4559,11 +4559,6 @@ _उग्रश्रवाजी कहते हैं—_ यह भार�
 **मनो विह्वलतीव** मे ॥ २१८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -4578,17 +4573,17 @@ _उग्रश्रवाजी कहते हैं—_ यह भार�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा धृतराष्ट्रोऽथ  
 विलप्य बहुदुःखितः।  
 मूर्च्छितः पुनर् आश्वस्तः  
 संजयं **वाक्यम् अब्रवीत्** ॥ २१९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -4605,17 +4600,17 @@ _उग्रश्रवाजी कहते हैं—_ धृतराष
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संजयैवं गते **प्राणांस्**  
 **त्यक्तुम् इच्छामि** मा चिरम्।  
 स्तोकं ह्य् अपि न पश्यामि  
 फलं जीवितधारणे ॥ २२० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -4630,6 +4625,11 @@ _उग्रश्रवाजी कहते हैं—_ धृतराष
 
 _धृतराष्ट्रने कहा—_ संजय! युद्धका यह परिणाम निकलनेपर अब मैं अविलम्ब अपने प्राण छोड़ना चाहता हूँ। अब जीवन-धारण करनेका कुछ भी फल मुझे दिखलायी नहीं देता॥२२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5019,11 +5019,6 @@ _संजयने कहा—_ महाराज! आपने परम ज
 बुद्‌ध्वा **न संज्ञां हातुम् अर्हसि** ॥ २५१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -5038,6 +5033,11 @@ _संजयने कहा—_ महाराज! आपने परम ज
 
 जब सुषुप्ति-अवस्थामें सब इन्द्रियाँ और मनोवृतियाँ लीन हो जाती हैं, तब भी यह काल जागता रहता है। कालकी गतिका कोई उल्लंघन नहीं कर सकता। वह सम्पूर्ण प्राणियोंमें समानरूपसे बेरोक-टोक अपनी क्रिया करता रहता है। इस सृष्टिमें जितने पदार्थ हो चुके, भविष्यमें होंगे और इस समय वर्तमान हैं, वे सब कालकी रचना हैं; ऐसा समझकर आपको अपने विवेकका परित्याग नहीं करना चाहिये॥२५०-२५१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5450,11 +5450,6 @@ _उग्रश्रवाजी कहते हैं—_ सूतवंश
 **तान्य् एव भावोपहतानि कल्कः** ॥ २७५ ॥+++(5)+++
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अनुक्रमणिकापर्वमें पहला अध्याय पूरा हुआ॥१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -5478,6 +5473,11 @@ _उग्रश्रवाजी कहते हैं—_ सूतवंश
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 [दाक्षिणात्य अधिक पाठके ७ श्लोक मिलाकर कुल २८२ श्लोक हैं]
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अनुक्रमणिकापर्वमें पहला अध्याय पूरा हुआ॥१॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

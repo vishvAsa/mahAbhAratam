@@ -4,18 +4,13 @@ title_full = "005 पाण्डवोंका विराटनगरके 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-005p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-005p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-005p2.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-005p2.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-005p3.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-005p3.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-005p4.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-005p4.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "005 पाण्डवोंका विराटनगरके 
 
 पाण्डवोंका विराटनगरके समीप पहुँचकर श्मशानमें एक शमीवृक्षपर अपने अस्त्र-शस्त्र रखना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,11 +108,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 वसामेहापरां रात्रिं बलवान् मे परिश्रमः ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -128,15 +123,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनंजय समुद्यम्य पाञ्चालीं वह भारत।  
 राजधान्यां निवत्स्यामो विमुक्ताश्च वनादितः ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -151,6 +146,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _युधिष्ठिर बोले—_ धनंजय! तुम द्रौपदीको कंधेपर उठाकर ले चलो। भारत! इस वनसे निकलकर अब हमलोग राजधानीमें ही निवास करेंगे॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,11 +241,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 एकस्मिन्नपि विज्ञाते प्रतिज्ञातं हि नस्तथा ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -258,6 +253,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 ‘यदि हममेंसे एक भी पहचान लिया गया, तो हमें दुबारा बारह वर्षोंके लिये वनमें प्रवेश करना पड़ेगा; क्योंकि हमने ऐसी ही प्रतिज्ञा कर रखी है’॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -308,11 +308,6 @@ _अर्जुनने कहा—_ राजन्! श्मशानभ�
 एवमत्र यथायोगं विहरिष्याम भारत ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -327,6 +322,11 @@ _अर्जुनने कहा—_ राजन्! श्मशानभ�
 
 यह वृक्ष रास्तेसे बहुत दूर जंगलमें है। इसके आसपास हिंसक जीव और सर्प आदि रहते हैं। विशेषतः यह दुर्गम श्मशानभूमिके निकट है; (अतः यहाँतक किसीके आने या वृक्षपर चढ़नेकी सम्भावना नहीं है;) इसलिये इसी शमीवृक्षपर हम अपने अस्त्र-शस्त्र रखकर नगरमें चलें। भारत! ऐसा करके हम यहाँ जैसा सुयोग होगा, उसके अनुसार विचरण करेंगे॥१५-१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -471,11 +471,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 विपाठान् क्षुरधारांश्च धनुर्भिर्निदधुः सह ॥ २७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -488,6 +483,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 धनुषोंके साथ-साथ पाण्डवोंने बड़े-बड़े एवं चमकीले खड्ग, बहुमूल्य तूणीर, छुरेके समान तीखी धारवाले क्षुरधार और विपाठ नामक बाण भी रख दिये॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -608,11 +608,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 अज्ञातचर्यां वत्स्यन्तो राष्ट्रे वर्षं त्रयोदशम् ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें नगरप्रवेशके लिये अस्त्रस्थापनविषयक पाँचवाँ अध्याय पूरा हुआ॥५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -629,6 +624,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते विराटपर्वणि पाण्डवप्रवेशपर्वणि पुरप्रवेशे अस्त्रसंस्थापने पञ्चमोऽध्यायः ॥ ५ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें नगरप्रवेशके लिये अस्त्रस्थापनविषयक पाँचवाँ अध्याय पूरा हुआ॥५॥
 </details>
 </details>
 

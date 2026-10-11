@@ -4,12 +4,7 @@ title_full = "063 विदुरजीके द्वारा जूएका
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-063.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-063.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "063 विदुरजीके द्वारा जूएका
 
 विदुरजीके द्वारा जूएका घोर विरोध
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,11 +241,6 @@ _विदुरजी बोले—_ महाराज! जूआ खेल�
 मा यूयुधो भारत पाण्डवेयान् ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें विदुरवाक्यविषयक तिरसठवाँ अध्याय पूरा हुआ॥६३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -264,6 +259,11 @@ _विदुरजी बोले—_ महाराज! जूआ खेल�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि विदुरवाक्ये त्रिषष्टितमोऽध्यायः ॥ ६३ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें विदुरवाक्यविषयक तिरसठवाँ अध्याय पूरा हुआ॥६३॥
 </details>
 </details>
 

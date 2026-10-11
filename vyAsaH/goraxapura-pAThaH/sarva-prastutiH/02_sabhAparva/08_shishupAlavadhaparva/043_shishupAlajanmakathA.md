@@ -4,16 +4,11 @@ title_full = "043 भीष्मजीके द्वारा शिशुप
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-043-P01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-043-P01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-043-P02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-043-P02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-043-P03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-043-P03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "043 भीष्मजीके द्वारा शिशुप
 
 भीष्मजीके द्वारा शिशुपालके जन्मके वृत्तान्तका वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -427,11 +427,6 @@ _भीष्मजी बोले—_ भीमसेन! सुनो, चे
 मत्कृते यदुशार्दूल विद्ध्येनं मे वरं प्रभो ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीकृष्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -446,15 +441,15 @@ _भीष्मजी बोले—_ भीमसेन! सुनो, चे
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीकृष्ण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपराधशतं क्षाम्यं मया ह्यस्य पितृष्वसः।  
 पुत्रस्य ते वधार्हस्य मा त्वं शोके मनः कृथाः॥२४॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -471,15 +466,15 @@ _श्रीकृष्णने कहा—_ बुआ! तुम्हा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेष नृपः पापः शिशुपालः सुमन्दधीः।  
 त्वां समाह्वयते वीर गोविन्दवरदर्पितः ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत शिशुपालवधपर्वमें शिशुपालवृत्तान्तवर्णनविषयक तैंतालीसवाँ अध्याय पूरा हुआ॥४३॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -499,4 +494,10 @@ _भीष्मजी कहते हैं—_ वीरवर भीमस�
 
 इति श्रीमहाभारते सभापर्वणि शिशुपालवधपर्वणि शिशुपालवृत्तान्तकथने त्रिचत्वारिंशोऽध्यायः ॥ ४३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत शिशुपालवधपर्वमें शिशुपालवृत्तान्तवर्णनविषयक तैंतालीसवाँ अध्याय पूरा हुआ॥४३॥
 </details>
+</details>
+

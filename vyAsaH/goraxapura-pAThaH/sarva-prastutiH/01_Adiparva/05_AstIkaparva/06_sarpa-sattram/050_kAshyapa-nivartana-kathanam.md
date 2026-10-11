@@ -4,14 +4,9 @@ title_full = "050 शृंगी ऋषिका परीक्षित्\u2
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-050p01.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-050p01.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-050p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मन्त्रिण ऊचुः
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-050p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "050 शृंगी ऋषिका परीक्षित्\u2
 
 शृंगी ऋषिका परीक्षित्‌को शाप, तक्षकका काश्यपको लौटाकर छलसे परीक्षित्‌को डँसना और पिताकी मृत्युका वृत्तान्त सुनकर जनमेजयकी तक्षकसे बदला लेनेकी प्रतिज्ञा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मन्त्रिण ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -231,11 +231,6 @@ _मन्त्री बोले—_ राजेन्द्र! उस स�
 क्व भवांस्त्वरितो याति किं च कार्यं चिकीर्षति ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-काश्यप उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -250,17 +245,17 @@ _मन्त्री बोले—_ राजेन्द्र! उस स�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+काश्यप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्र राजा कुरुश्रेष्ठः परिक्षिन्नाम वै द्विज।  
 तक्षकेण भुजङ्गेन धक्ष्यते किल सोऽद्य वै ॥ १९ ॥  
 गच्छाम्यहं तं त्वरितः सद्यः कर्तुमपज्वरम्।  
 मयाभिपन्नं तं चापि न सर्पो धर्षयिष्यति ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-तक्षक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -277,6 +272,11 @@ _मन्त्री बोले—_ राजेन्द्र! उस स�
 
 _काश्यपने कहा—_ ब्रह्मन्! मैं वहाँ जाता हूँ जहाँ कुरुकुलके श्रेष्ठ राजा परीक्षित् रहते हैं। सुना है कि आज ही तक्षक नाग उन्हें डँसेगा। अतः मैं तत्काल ही उन्हें नीरोग करनेके लिये जल्दी-जल्दी वहाँ जा रहा हूँ। मेरे द्वारा सुरक्षित नरेशको वह सर्प नष्ट नहीं कर सकेगा॥१९-२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+तक्षक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -437,11 +437,6 @@ _तक्षकने कहा—_ ब्रह्मन्! मेरे ड�
 अस्य चर्षेरुतंकस्य विधत्स्व यदनन्तरम् ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -456,15 +451,15 @@ _तक्षकने कहा—_ ब्रह्मन्! मेरे ड�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नेव काले तु स राजा जनमेजयः।  
 उवाच मन्त्रिणः सर्वानिदं वाक्यमरिन्दमः ॥ ३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -479,6 +474,11 @@ _तक्षकने कहा—_ ब्रह्मन्! मेरे ड�
 
 _उग्रश्रवाजी कहते हैं—_ शौनक! उस समय शत्रुओंका दमन करनेवाले राजा जनमेजय अपने सम्पूर्ण मन्त्रियोंसे इस प्रकार बोले॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -538,11 +538,6 @@ _जनमेजयने कहा—_ उस वृक्षके डँस�
 श्रुत्वा तस्य विधास्येऽहं पन्नगान्तकरीं मतिम् ॥ ३८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मन्त्रिण ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -558,6 +553,11 @@ _जनमेजयने कहा—_ उस वृक्षके डँस�
 
 अच्छा, भविष्यमें प्रयत्नपूर्वक कोई-न-कोई उपाय करके तक्षकको इसके लिये दण्ड दूँगा। परंतु एक बात मैं सुनना चाहता हूँ। नागराज तक्षक और काश्यप ब्राह्मणका वह संवाद तो निर्जन वनमें हुआ होगा। यह सब वृत्तान्त किसने देखा और सुना था? आपलोगोंतक यह बात कैसे आयी? यह सब सुनकर मैं सर्पोंके नाशका विचार करूँगा॥३७-३८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मन्त्रिण ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -631,11 +631,6 @@ _मन्त्री बोले—_ राजन्! सुनो, विप
 श्रुत्वा च नृपशार्दूल विधत्स्व यदनन्तरम् ॥ ४३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -649,6 +644,11 @@ _मन्त्री बोले—_ राजन्! सुनो, विप
 
 राजन्! इस प्रकार हमने जो कुछ सुना और देखा है, वह सब तुम्हें कह सुनाया। भूपालशिरोमणे! यह सुनकर अब तुम्हें जैसा उचित जान पड़े, वह करो॥४३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -699,11 +699,6 @@ _उग्रश्रवाजी कहते हैं—_ मन्त्र
 अमर्षी मन्त्रिणः सर्वानिदं वचनमब्रवीत् ॥ ४७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -718,6 +713,11 @@ _उग्रश्रवाजी कहते हैं—_ मन्त्र
 
 राजाने दो घड़ीतक ध्यान करके मन-ही-मन कुछ निश्चय किया, फिर दुःख-शोक और अमर्षमें डूबे हुए नरेश न थमनेवाले आँसुओंकी अविच्छिन्न धारा बहाते हुए विधिपूर्वक जलका स्पर्श करके सम्पूर्ण मन्त्रियोंसे इस प्रकार बोले—॥४६-४७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -832,11 +832,6 @@ _जनमेजयने कहा—_ मन्त्रियो! मेर�
 भवतां चैव सर्वेषां गच्छाम्यपचितिं पितुः ॥ ५४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जनमेजय और मन्त्रियोंका संवादविषयक पचासवाँ अध्याय पूरा हुआ॥५०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -854,4 +849,10 @@ _जनमेजयने कहा—_ मन्त्रियो! मेर�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि पारिक्षिन्मन्त्रिसंवादे पञ्चाशत्तमोऽध्यायः ॥ ५० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जनमेजय और मन्त्रियोंका संवादविषयक पचासवाँ अध्याय पूरा हुआ॥५०॥
 </details>
+</details>
+

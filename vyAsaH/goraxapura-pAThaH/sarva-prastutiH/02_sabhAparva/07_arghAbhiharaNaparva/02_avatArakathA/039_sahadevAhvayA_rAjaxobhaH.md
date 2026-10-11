@@ -4,14 +4,9 @@ title_full = "039 सहदेवकी राजाओंको चुनौत
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-039-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-039-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-039-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-039-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "039 सहदेवकी राजाओंको चुनौत
 
 सहदेवकी राजाओंको चुनौती तथा क्षुब्ध हुए शिशुपाल आदि नरेशोंका युद्धके लिये उद्यत होना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -161,11 +161,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 जीवन्मृतास्तु ते ज्ञेया न सम्भाष्याः कदाचन ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -178,6 +173,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘जो मानव कमलनयन भगवान् श्रीकृष्णकी पूजा नहीं करेंगे, वे जीते-जी ही मृतक-तुल्य समझे जायँगे। ऐसे लोगोंसे कभी बातचीत नहीं करनी चाहिये’॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -330,11 +330,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कुर्वाणं समयं कृष्णो युद्धाय बुबुधे तदा ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अर्घाभिहरणपर्वमें राजाओंकी मन्त्रणाविषयक उन्तालीसवाँ अध्याय पूरा हुआ॥३९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -352,4 +347,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि अर्घाभिहरणपर्वणि राजमन्त्रणे एकोनचत्वारिंशोऽध्यायः ॥ ३९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अर्घाभिहरणपर्वमें राजाओंकी मन्त्रणाविषयक उन्तालीसवाँ अध्याय पूरा हुआ॥३९॥
 </details>
+</details>
+

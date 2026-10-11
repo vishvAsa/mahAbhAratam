@@ -4,12 +4,7 @@ title_full = "140 पाण्डवोंके प्रति पुरवा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="मालती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-140.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="मालती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-140.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -24,6 +19,11 @@ title_full = "140 पाण्डवोंके प्रति पुरवा
 
 पाण्डवोंके प्रति पुरवासियोंका अनुराग देखकर दुर्योधनकी चिन्ता
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -284,11 +284,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पाण्डवानां तथा क्षत्ता भीष्मश्च कुरुसत्तमः ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -301,6 +296,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 उन्होंने, विदुरजीने तथा कुरुकुलशिरोमणि भीष्मजीने भी भाई-बन्धुओंके साथ (पुत्तल-विधिसे) पाण्डवोंके प्रेतकार्य (दाह और श्राद्ध आदि) सम्पन्न किये॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,11 +329,6 @@ _जनमेजय बोले—_ विप्रवर! मैं लाक�
 कीर्तयस्व यथावृत्तं परं कौतूहलं मम ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -346,6 +341,11 @@ _जनमेजय बोले—_ विप्रवर! मैं लाक�
 
 क्रूर कणिकके उपदेशसे किया हुआ कौरवोंका यह कर्म अत्यन्त निर्दयतापूर्ण था। आप उसका ठीक-ठीक वर्णन कीजिये। मुझे यह सब सुननेके लिये बड़ी उत्कण्ठा हो रही है॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -594,11 +594,6 @@ _वैशम्पायनजीने कहा—_ शत्रुओंक�
 पौरानुरागसंतप्तः पश्चादिदमभाषत ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -611,6 +606,11 @@ _वैशम्पायनजीने कहा—_ शत्रुओंक�
 
 वहाँ अपने पिताको अकेला पाकर पुरवासियोंके युधिष्ठिरविषयक अनुरागसे दुःखी हुए दुर्योधनने पहले पिताके प्रति आदर प्रदर्शित किया। तत्पश्चात् इस प्रकार कहा॥३१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -739,11 +739,6 @@ _दुर्योधन बोला—_ ‘पिताजी! मैंन�
 ध्रुवं प्राप्स्याम च वयं राज्यमप्यवशे जने ॥ ३८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें दुर्योधनकी ईर्ष्याविषयक एक सौ चालीसवाँ अध्याय पूरा हुआ॥१४०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -760,6 +755,11 @@ _दुर्योधन बोला—_ ‘पिताजी! मैंन�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि जतुगृहपर्वणि दुर्योधनेर्ष्यायां चत्वारिंशदधिकशततमोऽध्यायः ॥ १४० ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें दुर्योधनकी ईर्ष्याविषयक एक सौ चालीसवाँ अध्याय पूरा हुआ॥१४०॥
 </details>
 </details>
 

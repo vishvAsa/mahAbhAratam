@@ -4,22 +4,17 @@ title_full = "199 पाण्डवोंके विवाहसे दुर
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p05.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p06.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-199p06.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -34,6 +29,11 @@ title_full = "199 पाण्डवोंके विवाहसे दुर
 
 पाण्डवोंके विवाहसे दुर्योधन आदिकी चिन्ता, धृतराष्ट्रका पाण्डवोंके प्रति प्रेमका दिखावा और दुर्योधनकी कुमन्त्रणा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,11 +186,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 मन्त्रयन्ते ततः सर्वे कर्णसौबलदूषिताः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -203,6 +198,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 जनमेजय! उधर स्वयंवर समाप्त होनेपर धृतराष्ट्रके सभी पुत्र, जिन्हें कर्ण और शकुनिने बिगाड़ रखा था, इस प्रकार सलाह करने लगे।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -393,11 +393,6 @@ _शकुनि बोला—_ संसारमें कोई शत्�
 एतदत्र परं मन्ये प्राप्तकालं नरर्षभाः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -414,15 +409,15 @@ _शकुनि बोला—_ संसारमें कोई शत्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शकुनेर्वचनं श्रुत्वा भाषमाणस्य दुर्मतेः।  
 सौमदत्तिरिदं वाक्यं जगाद परमं ततः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौमदत्तिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -437,6 +432,11 @@ _शकुनि बोला—_ संसारमें कोई शत्�
 
 _वैशम्पायनजी कहते हैं—_ दुर्बुद्धि शकुनिका यह प्रस्ताव सुनकर सोमदतकुमार भूरिश्रवाने यह उत्तम बात कही।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौमदत्तिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1071,11 +1071,6 @@ _भूरिश्रवा बोले—_ अपने पक्षकी �
 आकारच्छादनार्थं तु दिष्ट्या दिष्ट्येति चाब्रवीत्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1088,6 +1083,11 @@ _भूरिश्रवा बोले—_ अपने पक्षकी �
 
 विदुरका यह कथन सुनकर राजा धृतराष्ट्रने अपनी बदली हुई आकृतिको छिपानेके लिये कहा—‘अहोभाग्य! अहोभाग्य!’
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1164,11 +1164,6 @@ _धृतराष्ट्र (फिर) बोले—_ विदुर! �
 न बुभूषेद् भवेनार्थी गतश्रीरपि पार्थिवः ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1181,6 +1176,11 @@ _धृतराष्ट्र (फिर) बोले—_ विदुर! �
 
 विदुर! कौन ऐसा राजा है, जिसकी सम्पत्ति नष्ट हो जानेपर भी बन्धु-बान्धवोंसहित द्रुपदको मित्रके रूपमें पाकर जीना नहीं चाहेगा॥२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1275,11 +1275,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 यथा नो न ग्रसेयुस्ते सपुत्रबलबान्धवान् ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें दुर्योधनवचनविषयक एक सौ निन्यानबेवाँ अध्याय पूरा हुआ॥१९९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1296,6 +1291,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि दुर्योधनवाक्ये नवनवत्यधिकशततमोऽध्यायः ॥ १९९ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें दुर्योधनवचनविषयक एक सौ निन्यानबेवाँ अध्याय पूरा हुआ॥१९९॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

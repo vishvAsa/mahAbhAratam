@@ -4,20 +4,15 @@ title_full = "029 युधिष्ठिरके द्वारा क्र
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-029-p01.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-029-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-029-p02.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-029-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-029-p03.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-029-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-029-p04.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-029-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-029-p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-029-p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "029 युधिष्ठिरके द्वारा क्र
 
 युधिष्ठिरके द्वारा क्रोधकी निन्दा और क्षमाभावकी विशेष प्रशंसा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1047,11 +1047,6 @@ _युधिष्ठिर बोले—_ परम बुद्धिमत
 क्षमा चैवानृशंस्यं च तत् कर्तास्म्यहमञ्जसा ॥ ५२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्रौपदी-युधिष्ठिरसंवादविषयक उनतीसवाँ अध्याय पूरा हुआ॥२९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1069,4 +1064,10 @@ _युधिष्ठिर बोले—_ परम बुद्धिमत
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि द्रौपदीयुधिष्ठिरसंवादे एकोनत्रिंशोऽध्यायः ॥ २९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्रौपदी-युधिष्ठिरसंवादविषयक उनतीसवाँ अध्याय पूरा हुआ॥२९॥
 </details>
+</details>
+

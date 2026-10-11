@@ -4,16 +4,11 @@ title_full = "201 पाण्डवोंको पराक्रमसे द
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-201p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-201p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-201p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-201p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-201p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-201p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "201 पाण्डवोंको पराक्रमसे द
 
 पाण्डवोंको पराक्रमसे दबानेके लिये कर्णकी सम्मति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -405,11 +405,6 @@ _कर्णने कहा—_ दुर्योधन! मेरे वि�
 अतो नान्यं प्रपश्यामि कार्योपायं जनाधिप ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -422,6 +417,11 @@ _कर्णने कहा—_ दुर्योधन! मेरे वि�
 
 पराक्रमसे पाण्डवोंको जीतकर इस सारी पृथ्वीका राज्य भोगो। नरेश्वर! इसके सिवा दूसरा कोई कार्यसिद्धिका उपाय मैं नहीं देखता॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -490,11 +490,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 धृतराष्ट्रो महाराज मन्त्रयामास वै तदा ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें धृतराष्ट्रमन्त्रणासम्बन्धी दो सौ पहला अध्याय पूरा हुआ॥२०१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -512,4 +507,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि धृतराष्ट्रमन्त्रणे एकाधिकद्विशततमोऽध्यायः ॥ २०१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें धृतराष्ट्रमन्त्रणासम्बन्धी दो सौ पहला अध्याय पूरा हुआ॥२०१॥
 </details>
+</details>
+

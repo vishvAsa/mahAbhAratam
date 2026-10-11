@@ -4,12 +4,7 @@ title_full = "044 जनमेजयका राज्याभिषेक औ
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="मङ्गळूरु-विश्वासः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-044.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="मङ्गळूरु-विश्वासः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-044.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "044 जनमेजयका राज्याभिषेक औ
 
 जनमेजयका राज्याभिषेक और विवाह
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -229,11 +229,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 विहारकालेष्ववरोधसुन्दरी ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जनमेजयराज्याभिषेकसम्बन्धी चौवालीसवाँ अध्याय पूरा हुआ॥४४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -253,4 +248,10 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि जनमेजयराज्याभिषेके चतुश्चत्वारिंशोऽध्यायः ॥ ४४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जनमेजयराज्याभिषेकसम्बन्धी चौवालीसवाँ अध्याय पूरा हुआ॥४४॥
 </details>
+</details>
+

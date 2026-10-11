@@ -4,12 +4,7 @@ title_full = "013 जरत्कारुका अपने पितरों
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वैष्णवी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-013-vaishnavi.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
+<div caption="वैष्णवी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-013-vaishnavi.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -26,6 +21,11 @@ title_full = "013 जरत्कारुका अपने पितरों
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं राजशार्दूलः स राजा जनमेजयः।  
@@ -35,11 +35,6 @@ title_full = "013 जरत्कारुका अपने पितरों
 मोक्षयामास भुजगान् प्रदीप्ताद् वसुरेतसः।  
 कस्य पुत्रः स राजासीत् सर्पसत्रं य आहरत् ॥ ३ ॥  
 स च द्विजातिप्रवरः कस्य पुत्रोऽभिधत्स्व मे।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -61,15 +56,15 @@ _शौनकजीने पूछा—_ सूतजी! राजाओं�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महदाख्यानमास्तीकं यथैतत् प्रोच्यते द्विज ॥ ४ ॥  
 सर्वमेतदशेषेण शृणु मे वदतां वर।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -86,15 +81,15 @@ _उग्रश्रवाजीने कहा—_ ब्रह्मन्!
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रोतुमिच्छाम्यशेषेण कथामेतां मनोरमाम् ॥ ५ ॥  
 आस्तीकस्य पुराणर्षेर्ब्राह्मणस्य यशस्विनः ।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -109,6 +104,11 @@ _उग्रश्रवाजीने कहा—_ ब्रह्मन्!
 
 _शौनकजीने कहा—_ सूतनन्दन! पुरातन ऋषि एवं यशस्वी ब्राह्मण आस्तीककी इस मनोरम कथाको मैं पूर्णरूपसे सुनना चाहता हूँ॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -271,11 +271,6 @@ _उग्रश्रवाजीने कहा—_ शौनकजी! ब�
 मूषकेन निगूढेन गर्तेऽस्मिन् नित्यवासिना ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पितर ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -288,6 +283,11 @@ _उग्रश्रवाजीने कहा—_ शौनकजी! ब�
 
 ‘आप जिस वीरणस्तम्ब (खस नामक तिनकोंके समूह) -को पकड़कर लटक रहे हैं, उसे इस गड्‌ढेमें गुप्तरूपसे नित्य निवास करनेवाले चूहेने सब ओरसे प्रायः खा लिया है’॥१७॥[^२]
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पितर ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -340,11 +340,6 @@ _पितर बोले—_ ब्रह्मन्! हमलोग कठ�
 किमर्थं चैव नः शोच्याननुशोचसि सत्तम ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरत्कारुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -363,15 +358,15 @@ _पितर बोले—_ ब्रह्मन्! हमलोग कठ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरत्कारुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम पूर्वे भवन्तो वै पितरः सपितामहाः।  
 ब्रूत किं करवाण्यद्य जरत्कारुरहं स्वयम् ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पितर ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -386,6 +381,11 @@ _पितर बोले—_ ब्रह्मन्! हमलोग कठ�
 
 _जरत्कारुने कहा—_ महात्माओ! आपलोग मेरे ही पितामह और पूर्वज पितृगण हैं। स्वयं मैं ही जरत्कारु हूँ। बताइये, आज आपकी क्या सेवा करूँ?॥२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पितर ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -434,11 +434,6 @@ _पितर बोले—_ तात! तुम हमारे कुलक
 पुत्रकास्मन्नियोगात् त्वमेतन्नः परमं हितम् ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरत्कारुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -451,6 +446,11 @@ _पितर बोले—_ तात! तुम हमारे कुलक
 
 अतः बेटा! तुम हमारी आज्ञासे विवाह करनेका प्रयत्न करो और संतानोत्पादनकी ओर ध्यान दो। यही हमारे लिये सर्वोत्तम हितकी बात होगी॥२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरत्कारुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,11 +559,6 @@ _जरत्कारुने कहा—_ पितामहगण! मै�
 शाश्वतं स्थानमासाद्य मोदन्तां पितरो मम ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जरत्कारु तथा उनके पितरोंका संवाद नामक तेरहवाँ अध्याय पूरा हुआ॥१३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -580,6 +575,11 @@ _जरत्कारुने कहा—_ पितामहगण! मै�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि जरत्कारुतत्पितृसंवादे त्रयोदशोऽध्यायः ॥ १३ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जरत्कारु तथा उनके पितरोंका संवाद नामक तेरहवाँ अध्याय पूरा हुआ॥१३॥
 </details>
 </details>
 

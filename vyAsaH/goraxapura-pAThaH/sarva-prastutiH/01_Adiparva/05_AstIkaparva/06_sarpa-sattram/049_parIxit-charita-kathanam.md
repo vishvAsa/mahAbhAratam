@@ -4,12 +4,7 @@ title_full = "049 राजा परीक्षित्\u200cके धर्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="मालती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-049.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
+<div caption="मालती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-049.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,15 +20,15 @@ title_full = "049 राजा परीक्षित्\u200cके धर्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदपृच्छत् तदा राजा मन्त्रिणो जनमेजयः।  
 पितुः स्वर्गगतिं तन्मे विस्तरेण पुनर्वद ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -50,15 +45,15 @@ _शौनकजी बोले—_ सूतनन्दन! राजा ज�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृणु ब्रह्मन् यथापृच्छन्मन्त्रिणो नृपतिस्तदा।  
 यथा चाख्यातवन्तस्ते निधनं तत् परीक्षितः ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -73,6 +68,11 @@ _शौनकजी बोले—_ सूतनन्दन! राजा ज�
 
 _उग्रश्रवाजीने कहा—_ ब्रह्मन्! सुनिये, उस समय राजाने मन्त्रियोंसे जो कुछ पूछा और उन्होंने परीक्षित्‌की मृत्युके सम्बन्धमें जैसी बातें बतायीं, वह सब मैं सुना रहा हूँ॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -101,11 +101,6 @@ _जनमेजयने पूछा—_ आपलोग यह जानत�
 कल्याणं प्रतिपत्स्यामि विपरीतं न जातुचित् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -120,15 +115,15 @@ _जनमेजयने पूछा—_ आपलोग यह जानत�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रिणोऽथाब्रुवन् वाक्यं पृष्टास्तेन महात्मना।  
 सर्वे धर्मविदः प्राज्ञा राजानं जनमेजयम् ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मन्त्रिण ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -143,6 +138,11 @@ _जनमेजयने पूछा—_ आपलोग यह जानत�
 
 _उग्रश्रवाजी कहते हैं—_ राजाके सब मन्त्री धर्मज्ञ और बुद्धिमान् थे। उन महात्मा राजा जनमेजयके इस प्रकार पूछनेपर वे सभी उनसे यों बोले॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मन्त्रिण ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -342,11 +342,6 @@ _मन्त्रियोंने कहा—_ भूपाल! तुम �
 बाल एवाभिषिक्तस्त्वं सर्वभूतानुपालकः ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -362,6 +357,11 @@ _मन्त्रियोंने कहा—_ भूपाल! तुम �
 
 तुम्हारे पिताने साठ वर्षकी आयुतक इन समस्त प्रजाजनोंका पालन किया था। तदनन्तर हम सबको दुःख देकर उन्होंने विदेह-कैवल्य प्राप्त किया। पुरुषश्रेष्ठ! पिताके देहावसानके बाद तुमने धर्मपूर्वक इस राज्यको ग्रहण किया है, जो सहस्रों वर्षोंसे कुरुकुलके अधीन चला आ रहा है। बाल्यावस्थामें ही तुम्हारा राज्याभिषेक हुआ था। तबसे तुम्हीं इस राज्यके समस्त प्राणियोंका पालन करते हो॥१७-१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -394,11 +394,6 @@ _जनमेजयने पूछा—_ मन्त्रियो! हम�
 आचक्षध्वं यथावन्मे श्रोतुमिच्छामि तत्त्वतः ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -413,15 +408,15 @@ _जनमेजयने पूछा—_ मन्त्रियो! हम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं संचोदिता राज्ञा मन्त्रिणस्ते नराधिपम्।  
 ऊचुः सर्वे यथावृत्तं राज्ञः प्रियहितैषिणः ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मन्त्रिण ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -436,6 +431,11 @@ _जनमेजयने पूछा—_ मन्त्रियो! हम�
 
 _उग्रश्रवाजी कहते हैं—_ शौनक! राजा जनमेजयके इस प्रकार पूछनेपर उन मन्त्रियोंने महाराजसे सब वृत्तान्त ठीक-ठीक बताया; क्योंकि वे सभी राजाका प्रिय चाहनेवाले और हितैषी थे॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मन्त्रिण ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -576,11 +576,6 @@ _मन्त्री बोले—_ राजन्! समस्त शस�
 तस्थौ तथैव चाक्रुद्धः सर्पं स्कन्धेन धारयन् ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें परीक्षित्-चरित्रविषयक उनचासवाँ अध्याय पूरा हुआ॥४९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -598,4 +593,10 @@ _मन्त्री बोले—_ राजन्! समस्त शस�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि पारीक्षितीये एकोनपञ्चाशत्तमोऽध्यायः ॥ ४९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें परीक्षित्-चरित्रविषयक उनचासवाँ अध्याय पूरा हुआ॥४९॥
 </details>
+</details>
+

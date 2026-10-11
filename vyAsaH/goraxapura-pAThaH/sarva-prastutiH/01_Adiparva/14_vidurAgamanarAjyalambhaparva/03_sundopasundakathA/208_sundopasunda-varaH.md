@@ -4,14 +4,9 @@ title_full = "208 सुन्द-उपसुन्दकी तपस्या
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-208p01.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-208p01.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-208p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-208p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "208 सुन्द-उपसुन्दकी तपस्या
 
 सुन्द-उपसुन्दकी तपस्या, ब्रह्माजीके द्वारा उन्हें वर प्राप्त होना और दैत्योंके यहाँ आनन्दोत्सव
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -347,11 +347,6 @@ _नारदजीने कहा—_ कुन्तीनन्दन यु
 उभावप्यमरौ स्यावः प्रसन्नो यदि नौ प्रभुः ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -368,6 +363,11 @@ _नारदजीने कहा—_ कुन्तीनन्दन यु
 
 तदनन्तर सुदृढ़ पराक्रमी दोनों भाई सुन्द और उपसुन्द भगवान् ब्रह्माको उपस्थित देख हाथ जोड़कर खड़े हो गये और एक साथ भगवान् ब्रह्मासे बोले—‘भगवन्! यदि आप हमारी तपस्यासे प्रसन्न हैं तो हम दोनों सम्पूर्ण मायाओंके ज्ञाता, अस्त्र-शस्त्रोंके विद्वान्, बलवान्, इच्छानुसार रूप धारण करनेवाले और अमर हो जायँ’॥१८—२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -416,11 +416,6 @@ _ब्रह्माजीने कहा—_ अमरत्वके सि
 हेतुनानेन दैत्येन्द्रौ न वा कामं करोम्यहम् ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुन्दोपसुन्दावूचतुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -435,15 +430,15 @@ _ब्रह्माजीने कहा—_ अमरत्वके सि
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुन्दोपसुन्दावूचतुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिषु लोकेषु यद् भूतं किंचित् स्थावरजङ्गमम्।  
 सर्वस्मान्नो भयं न स्यादृतेऽन्योन्यं पितामह ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पितामह उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -460,15 +455,15 @@ _सुन्द और उपसुन्द बोले—_ पिताम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पितामह उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् प्रार्थितं यथोक्तं च काममेतद् ददानि वाम्।  
 मृत्योर्विधानमेतच्च यथावद् वा भविष्यति ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -483,6 +478,11 @@ _सुन्द और उपसुन्द बोले—_ पिताम�
 
 _ब्रह्माजीने कहा—_ तुमने जैसी प्रार्थना की है, तुम्हारी वह मुँहमाँगी वस्तु तुम्हें अवश्य दूँगा। तुम्हारी मृत्युका विधान ठीक इसी प्रकार होगा॥२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,11 +615,6 @@ _नारदजी कहते हैं—_ युधिष्ठिर! उ�
 समाः संक्रीडतां तेषामहरेकमिवाभवत् ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें सुन्दोपसुन्दोपाख्यानविषयक दो सौ आठवाँ अध्याय पूरा हुआ॥२०८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -637,4 +632,10 @@ _नारदजी कहते हैं—_ युधिष्ठिर! उ�
 
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि सुन्दोपसुन्दोपाख्यानेऽष्टाधिकद्विशततमोऽध्यायः ॥ २०८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें सुन्दोपसुन्दोपाख्यानविषयक दो सौ आठवाँ अध्याय पूरा हुआ॥२०८॥
 </details>
+</details>
+

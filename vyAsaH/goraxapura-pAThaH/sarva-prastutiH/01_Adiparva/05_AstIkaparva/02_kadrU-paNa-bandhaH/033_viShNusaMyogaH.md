@@ -4,12 +4,7 @@ title_full = "033 गरुडका अमृत लेकर लौटना, 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-033.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-033.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "033 गरुडका अमृत लेकर लौटना, 
 
 गरुडका अमृत लेकर लौटना, मार्गमें भगवान् विष्णुसे वर पाना एवं उनपर इन्द्रके द्वारा वज्र-प्रहार
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -412,11 +412,6 @@ _उग्रश्रवाजी कहते हैं—_ तदनन्त
 खगो महदिदं भूतमिति मत्वाभ्यभाषत ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -432,15 +427,15 @@ _उग्रश्रवाजी कहते हैं—_ तदनन्त
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलं विज्ञातुमिच्छामि यत् ते परमनुत्तमम्।  
 सख्यं चानन्तमिच्छामि त्वया सह खगोत्तम ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक तैंतीसवाँ अध्याय पूरा हुआ॥३३॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -460,4 +455,10 @@ _इन्द्रने कहा—_ विहंगप्रवर! मै�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे त्रयस्त्रिंशोऽध्यायः ॥ ३३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक तैंतीसवाँ अध्याय पूरा हुआ॥३३॥
 </details>
+</details>
+

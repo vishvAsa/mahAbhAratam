@@ -4,12 +4,7 @@ title_full = "023 पराजित विनताका कद्रूकी
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="विनायक-रजतः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-023.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="विनायक-रजतः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-023.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "023 पराजित विनताका कद्रूकी
 
 पराजित विनताका कद्रूकी दासी होना, गरुडकी उत्पत्ति तथा देवताओंद्वारा उनकी स्तुति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -195,11 +195,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! त�
 असौ हि राशिः सुमहान् समिद्धस्तव सर्पति ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अग्निरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -212,6 +207,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! त�
 
 ‘अग्ने! आप इस प्रकार न बढ़ें। आप हमलोगोंको जलाकर भस्म तो नहीं कर डालना चाहते हैं? देखिये, वह आपका महान्, प्रज्वलित तेजःपुंज इधर ही फैलता आ रहा है’॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अग्निरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,11 +281,6 @@ _अग्निदेवने कहा—_ असुरविनाशक द
 ते दूसदभ्युपेत्यैनं देवाः सर्षिगणास्तदा।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -299,6 +294,11 @@ _अग्निदेवने कहा—_ असुरविनाशक द
 
 इनसे किसी प्रकारका भय नहीं करना चाहिये। तुम मेरे साथ चलकर इनका दर्शन करो। अग्निदेवके ऐसा कहनेपर उस समय देवताओं तथा ऋषियोंने गरुडके पास जाकर अपनी वाणीद्वारा उनका इस प्रकार स्तवन किया (यहाँ परमात्माके रूपमें गरुडकी स्तुति की गयी है)॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -565,11 +565,6 @@ _देवता बोले—_ प्रभो! आप मन्त्रद�
 तेजसः प्रतिसंहारमात्मनः स चकार ह ॥ २७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक तेईसवाँ अध्याय पूरा हुआ॥२३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -587,4 +582,10 @@ _देवता बोले—_ प्रभो! आप मन्त्रद�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे त्रयोविंशोऽध्यायः ॥ २३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक तेईसवाँ अध्याय पूरा हुआ॥२३॥
 </details>
+</details>
+

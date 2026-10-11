@@ -4,16 +4,11 @@ title_full = "043 अर्जुनद्वारा देवराज इन
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-043p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-043p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-043p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-043p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-043p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-043p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "043 अर्जुनद्वारा देवराज इन
 
 अर्जुनद्वारा देवराज इन्द्रका दर्शन तथा इन्द्रसभामें उनका स्वागत
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -553,11 +553,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 कटाक्षहावमाधुर्यैश्चेतोबुद्धिमनोहरैः ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत इन्द्रलोकाभिगमनपर्वमें इन्द्रसभादर्शनविषयक तैंतालीसवाँ अध्याय पूरा हुआ॥४३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -581,4 +576,10 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 इति श्रीमहाभारते वनपर्वणि इन्द्रलोकाभिगमनपर्वणि इन्द्रसभादर्शने त्रिचत्वारिंशोऽध्यायः ॥ ४३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत इन्द्रलोकाभिगमनपर्वमें इन्द्रसभादर्शनविषयक तैंतालीसवाँ अध्याय पूरा हुआ॥४३॥
 </details>
+</details>
+

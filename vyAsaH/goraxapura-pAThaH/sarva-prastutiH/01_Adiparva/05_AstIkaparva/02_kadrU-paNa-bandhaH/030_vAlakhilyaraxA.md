@@ -4,12 +4,7 @@ title_full = "030 गरुडका कश्यपजीसे मिलना
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-030.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-030.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "030 गरुडका कश्यपजीसे मिलना
 
 गरुडका कश्यपजीसे मिलना, उनकी प्रार्थनासे वालखिल्य ऋषियोंका शाखा छोड़कर तपके लिये प्रस्थान और गरुडका निर्जन पर्वतपर उस शाखाको छोड़ना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,11 +244,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकाद
 विदित्वा चास्य संकल्पमिदं वचनमब्रवीत् ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कश्यप उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -264,15 +259,15 @@ _उग्रश्रवाजी कहते हैं—_ शौनकाद
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कश्यप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्र मा साहसं कार्षीर्मा सद्यो लप्स्यसे व्यथाम्।  
 मा त्वां दहेयुः संक्रुद्धा वालखिल्या मरीचिपाः ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -289,15 +284,15 @@ _कश्यपजी बोले—_ बेटा! कहीं दुःस�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रसादयामास कश्यपः पुत्रकारणात्।  
 वालखिल्यान् महाभागांस्तपसा हतकल्मषान् ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कश्यप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -314,15 +309,15 @@ _उग्रश्रवाजी कहते हैं—_ तदनन्त
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कश्यप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजाहितार्थमारम्भो गरुडस्य तपोधनाः ।  
 चिकीर्षति महत्कर्म तदनुज्ञातुमर्हथ ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -337,6 +332,11 @@ _उग्रश्रवाजी कहते हैं—_ तदनन्त
 
 _कश्यपजी बोले—_ तपोधनो! गरुडका यह उद्योग प्रजाके हितके लिये हो रहा है। ये महान् पराक्रम करना चाहते हैं, आपलोग इन्हें आज्ञा दें॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -714,11 +714,6 @@ _उग्रश्रवाजी कहते हैं—_ भगवान्
 उत्पातान् दारुणान् पश्यन्नित्युवाच बृहस्पतिम् ॥ ३८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -734,15 +729,15 @@ _उग्रश्रवाजी कहते हैं—_ भगवान्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं भगवन् घोरा उत्पाताः सहसोत्थिताः।  
 न च शत्रुं प्रपश्यामि युधि यो नः प्रधर्षयेत्॥३९॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-बृहस्पतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -757,6 +752,11 @@ _उग्रश्रवाजी कहते हैं—_ भगवान्
 
 _इन्द्रने पूछा—_ भगवन्! सहसा ये भयंकर उत्पात क्यों होने लगे हैं? मैं ऐसा कोई शुत्र नहीं देखता, जो युद्धमें हम देवताओंका तिरस्कार कर सके॥३९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+बृहस्पतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -789,11 +789,6 @@ _बृहस्पतिजीने कहा—_ देवराज इन्
 सर्वं सम्भावयाम्यस्मिन्नसाध्यमपि साधयेत् ॥ ४२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -806,6 +801,11 @@ _बृहस्पतिजीने कहा—_ देवराज इन्
 
 बलवानोंमें श्रेष्ठ आकाशचारी गरुड अमृत हर ले जानेमें समर्थ हैं। मैं उनमें सब प्रकारकी शक्तियोंके होनेकी सम्भावना करता हूँ। वे असाध्य कार्य भी सिद्ध कर सकते हैं॥४२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -970,11 +970,6 @@ _उग्रश्रवाजी कहते हैं—_ बृहस्प
 तपनमरीचिविकाशितं बभासे ॥ ५२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक तीसवाँ अध्याय पूरा हुआ॥३०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -994,4 +989,10 @@ _उग्रश्रवाजी कहते हैं—_ बृहस्प
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे त्रिंशोऽध्यायः ॥ ३० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक तीसवाँ अध्याय पूरा हुआ॥३०॥
 </details>
+</details>
+

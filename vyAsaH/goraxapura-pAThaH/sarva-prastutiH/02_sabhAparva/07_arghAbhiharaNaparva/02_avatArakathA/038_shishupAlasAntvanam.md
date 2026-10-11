@@ -4,138 +4,133 @@ title_full = "038 युधिष्ठिरका शिशुपालको 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p05.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p05.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p06.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p06.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p07.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p07.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p08.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p08.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p09.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p09.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p10.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p10.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p11.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p11.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p12.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p12.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p13.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p13.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p14.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p14.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p15.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p15.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p16.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p16.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p17.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p17.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p18.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p18.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p19.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p19.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p20.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p20.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p21.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p21.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p22.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p22.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p23.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p23.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p24.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p24.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p25.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p25.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p26.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p26.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p27.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p27.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p28.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p28.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p29.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p29.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p30.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p30.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p31.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p31.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p32.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p32.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p33.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p33.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p34.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p34.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p35.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p35.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p36.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p36.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p37.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p37.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p38.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p38.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p39.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p39.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p40.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p40.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p41.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p41.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p42.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p42.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p43.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p43.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p44.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p44.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p45.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p45.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p46.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p46.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p47.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p47.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p48.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p48.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p49.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p49.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p50.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p50.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p51.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p51.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p52.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p52.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p53.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p53.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p54.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p54.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p55.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p55.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p56.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p56.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p57.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p57.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p58.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p58.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p59.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p59.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p60.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p60.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p61.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p61.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p62.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p62.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p63.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p63.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p64.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-038p64.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -149,6 +144,11 @@ title_full = "038 युधिष्ठिरका शिशुपालको 
 
 युधिष्ठिरका शिशुपालको समझाना और भीष्मजीका उसके आक्षेपोंका उत्तर देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,11 +237,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 न ह्येनं त्वं तथा वेत्थ यथैनं वेद कौरवः॥५॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -254,6 +249,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘चेदिराज! भगवान् श्रीकृष्णको यथार्थरूपसे हमारे पितामह भीष्मजी ही जानते हैं। कुरुनन्दन भीष्मजीको उनके तत्त्वका जैसा ज्ञान है, वैसा तुम्हें नहीं है’॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -652,11 +652,6 @@ _भीष्मजीने कहा—_ धर्मराज! भगवा�
 सदेवकेषु लोकेषु भगवान् केशवो मुखम् ॥ २९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -682,15 +677,15 @@ _भीष्मजीने कहा—_ धर्मराज! भगवा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो भीष्मस्य तच्छ्रुत्वा वचः काले युधिष्ठिरः।  
 उवाच मतिमान् भीष्मं ततः कौरवनन्दनः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -707,17 +702,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विस्तरेणास्य देवस्य कर्माणीच्छामि सर्वशः।  
 श्रोतुं भगवतस्तानि प्रब्रवीहि पितामह॥  
 कर्मणामानुपूर्व्यं च प्रादुर्भावांश्च मे विभोः।  
 यथा च प्रकृतिः कृष्णे तन्मे ब्रूहि पितामह॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -734,6 +729,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _युधिष्ठिर बोले—_ पितामह! मैं इन भगवान् श्रीकृष्णके सम्पूर्ण चरित्रोंको विस्तारपूर्वक सुनना चाहता हूँ। आप उन्हें कृपापूर्वक बतावें। पितामह! भगवान्‌के अवतारों और चरित्रोंका क्रमशः वर्णन कीजिये। साथ ही मुझे यह भी बताइये कि श्रीकृष्णका शील-स्वभाव कैसा है?
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -769,11 +769,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कुरूणां चापि राजानं युधिष्ठिरमुवाच ह।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -789,6 +784,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 धर्मराजके समीप बैठे हुए सम्पूर्ण नरेश उनकी यह बात सुन रहे थे। राजन्! बुद्धिमानोंमें श्रेष्ठ भीमकर्मा भीष्मने शत्रुदमन चेदिराज शिशुपालको सान्त्वनापूर्ण शब्दोंमें ही समझाकर कुरुराज युधिष्ठिरसे पुनः इस प्रकार कहना आरम्भ किया।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1562,11 +1562,6 @@ _भीष्म बोले—_ राजा युधिष्ठिर! प�
 प्रभावात् पद्मनाभस्य शाश्वती च कृता नृणाम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1594,6 +1589,11 @@ _भीष्म बोले—_ राजा युधिष्ठिर! प�
 
 [वराह, नृसिंह, वामन, दत्तात्रेय, परशुराम, श्रीराम, श्रीकृष्ण तथा कल्कि अवतारोंकी संक्षिप्त कथा]
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2022,11 +2022,6 @@ _भीष्मजी कहते हैं—_ कुरुनन्दन! �
 ब्रह्मा ब्रह्मविदां श्रेष्ठो दैत्यमागम्य चाब्रवीत्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2041,15 +2036,15 @@ _भीष्मजी कहते हैं—_ कुरुनन्दन! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रीतोऽस्मि तव भक्तस्य तपसानेन सुव्रत।  
 वरं वरय भद्रं ते यथेष्टं काममाप्नुहि॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-हिरण्यकशिपुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2064,6 +2059,11 @@ _भीष्मजी कहते हैं—_ कुरुनन्दन! �
 
 _ब्रह्माजीने कहा—_ उत्तम व्रतका पालन करनेवाले दैत्यराज! तुम मेरे भक्त हो। तुम्हारी इस तपस्यासे मैं बहुत प्रसन्न हूँ। तुम्हारा भला हो। तुम कोई वर माँगो और मनोवांछित वस्तु प्राप्त करो।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+हिरण्यकशिपुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2152,11 +2152,6 @@ _हिरण्यकशिपु बोला—_ सुरश्रेष्�
 ददासि चेद् वरानेतान् देवदेव वृणोम्यहम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2171,15 +2166,15 @@ _हिरण्यकशिपु बोला—_ सुरश्रेष्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते देव्या वरास्तात मया दत्तास्तवाद्भुताः।  
 सर्वकामान् वरांस्तात प्राप्स्यसे त्वं न संशयः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2194,6 +2189,11 @@ _हिरण्यकशिपु बोला—_ सुरश्रेष्�
 
 _ब्रह्माजीने कहा—_ तात! ये दिव्य और अद्भुत वर मैंने तुम्हें दे दिये। वत्स! इसमें संशय नहीं कि सम्पूर्ण कामनाओंसहित इन मनोवांछित वरोंको तुम अवश्य प्राप्त कर लोगे।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2222,11 +2222,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 वरप्रदानं श्रुत्वा ते ब्रह्माणमुपतस्थिरे॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2239,6 +2234,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 तदनन्तर देवता, नाग, गन्धर्व और मुनि उस वरदानका समाचार सुनकर ब्रह्माजीकी सभामें उपस्थित हुए।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2267,11 +2267,6 @@ _देवता बोले—_ भगवन्! इस वरके प्र
 स्रष्टा च हव्यकव्यानामव्यक्तप्रकृतिर्ध्रुवः ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2286,15 +2281,15 @@ _देवता बोले—_ भगवन्! इस वरके प्र
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो लोकहितं वाक्यं श्रुत्वा देवः प्रजापतिः।  
 प्रोवाच भगवान् वाक्यं सर्वदेवगणांस्तदा॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2311,15 +2306,15 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यं त्रिदशास्तेन प्राप्तव्यं तपसः फलम्।  
 तपसोऽन्तेऽस्य भगवान् वधं कृष्णः करिष्यति॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2334,6 +2329,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर �
 
 _ब्रह्माजीने कहा—_ देवताओ! उस असुरको अपनी तपस्याका फल अवश्य प्राप्त होगा। फलभोगके द्वारा जब तपस्याकी समाप्ति हो जायगी, तब भगवान् विष्णु स्वयं ही उसका वध करेंगे।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2544,11 +2544,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर �
 पितामहं समासाद्य खिन्नाः प्राञ्जलयोऽब्रुवन्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2562,6 +2557,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर �
 
 महाबली दैत्यराज हिरण्यकशिपुके द्वारा अत्यन्त पीड़ित हो इन्द्र आदि सब देवता ब्रह्मलोकमें गये और ब्रह्माजीके पास पहुँचकर खेदग्रस्त हो हाथ जोड़कर बोले।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2590,11 +2590,6 @@ _देवताओंने कहा—_ भूत, वर्तमान औ�
 स्रष्टा त्वं हव्यकव्यानामव्यक्तप्रकृतिर्ध्रुवः ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2607,6 +2602,11 @@ _देवताओंने कहा—_ भूत, वर्तमान औ�
 
 भगवन्! आप सम्पूर्ण भूतोंके आदिस्रष्टा, स्वयम्भू, सर्वव्यापी, हव्य-कव्योंके निर्माता, अव्यक्त प्रकृति एवं नित्यस्वरूप हैं।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2660,11 +2660,6 @@ _ब्रह्माजी बोले—_ देवताओ! सुनो, 
 तस्य नास्ति ह्यशक्यं च तस्माद् व्रजत मा चिरम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2680,6 +2675,11 @@ _ब्रह्माजी बोले—_ देवताओ! सुनो, 
 
 मुझसे समस्त प्रजा, सम्पूर्ण लोक तथा देवता और असुर भी उत्पन्न हुए हैं। देवताओ! जैसे मैं तुमलोगोंका जनक हूँ, उसी प्रकार भगवान् नारायण मेरे जनक हैं। मैं सबका पितामह हूँ और वे भगवान् विष्णु प्रपितामह हैं। देवताओ! इस हिरण्यकशिपु नामक दैत्यका वे विष्णु ही संहार करेंगे। उनके लिये कुछ भी असम्भव नहीं है, अतः सब लोग उन्हींकी शरणमें जाओ, विलम्ब न करो।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2736,11 +2736,6 @@ _भीष्मजी कहते हैं—_ भरतश्रेष्ठ
 नारायणं विभुं देवं शरण्यं शरणं गताः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2757,6 +2752,11 @@ _भीष्मजी कहते हैं—_ भरतश्रेष्ठ
 
 क्षीरसमुद्रके तटपर पहुँचकर सब देवता अनन्त नामक शेषनागकी शय्यापर शयन करनेवाले अनन्त एवं उद्दीप्त तेजसे प्रकाशमान उन शरणागतवत्सल सनातन देवता श्रीविष्णुके सम्मुख उपस्थित हुए, जो सबके सनातन परम गति हैं। वे प्रभु देवस्वरूप, वेदमय, यज्ञरूप, ब्राह्मणको देवता माननेवाले, महान् बल और पराक्रमके आश्रय, भूत, वर्तमान और भविष्यरूप, सर्वसमर्थ, विश्ववन्दित, सर्वव्यापी, दिव्यशक्तिसम्पन्न तथा शरणागतरक्षक हैं। वे सब देवता उन्हीं भगवान् नारायणकी शरणमें गये।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2785,11 +2785,6 @@ _देवता बोले—_ देवेश्वर! आज आप हि
 क्षयाय दितिवंशस्य शरण्यस्त्वं भवाद्य नः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2804,15 +2799,15 @@ _देवता बोले—_ देवेश्वर! आज आप हि
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवानां वचनं श्रुत्वा तदा विष्णुः शुचिश्रवाः।  
 अदृश्यः सर्वभूतानां वक्तुमेवोपचक्रमे ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीभगवानुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2827,6 +2822,11 @@ _देवता बोले—_ देवेश्वर! आज आप हि
 
 _भीष्मजी कहते हैं—_ युधिष्ठिर! देवताओंकी यह बात सुनकर पवित्र कीर्तिवाले भगवान् विष्णुने उस समय सम्पूर्ण भूतोंसे अदृश्य रहकर बोलना आरम्भ किया।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीभगवानुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2855,11 +2855,6 @@ _श्रीभगवान् बोले—_ देवताओ! भय छ�
 अवध्यममरेन्द्राणां दानवेन्द्रं निहन्म्यहम् ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2874,15 +2869,15 @@ _श्रीभगवान् बोले—_ देवताओ! भय छ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवन् भूतभव्येश खिन्ना ह्येते भृशं सुराः।  
 तस्मात् त्वं जहि दैत्येन्द्रं क्षिप्रं कालोऽस्य मा चिरम्॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीभगवानुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2899,15 +2894,15 @@ _ब्रह्माजीने कहा—_ भूत, भविष्य �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीभगवानुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रं देवाः करिष्यामि त्वरया दैत्यनाशनम्।  
 तस्मात् त्वं विबुधाश्चैव प्रतिपद्यत वै दिवम्॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2922,6 +2917,11 @@ _ब्रह्माजीने कहा—_ भूत, भविष्य �
 
 _श्रीभगवान् बोले—_ ब्रह्मा तथा देवताओ! मैं शीघ्र ही उस दैत्यका नाश करूँगा, अतः तुम सब लोग अपने-अपने दिव्यलोकमें जाओ।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4962,11 +4962,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 प्रादुर्भावाः पुराणेषु गीयन्ते ब्रह्मवादिभिः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -4991,15 +4986,15 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तोऽथ कौन्तेयस्ततः पौरवनन्दनः ।  
 आबभाषे पुनर्भीष्मं धर्मराजो युधिष्ठिरः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -5014,6 +5009,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! भीष्मजीके इस प्रकार कहनेपर पूरुवंशको आनन्दित करनेवाले कुन्तीकुमार धर्मराज युधिष्ठिरने पुनः उनसे कहा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5082,11 +5082,6 @@ _युधिष्ठिर बोले—_ वक्ताओंमें श
 तदा मतिमतां श्रेष्ठ तन्मे ब्रूहि पितामह॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -5101,15 +5096,15 @@ _युधिष्ठिर बोले—_ वक्ताओंमें श
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्ततो भीष्मः केशवस्य महात्मनः।  
 माधवेषु तदा जन्म कथयामास वीर्यवान्॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -5124,6 +5119,11 @@ _युधिष्ठिर बोले—_ वक्ताओंमें श
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! राजा युधिष्ठिरके इस प्रकार पूछनेपर महापराक्रमी भीष्मने मधुवंशमें भगवान् केशवके अवतार लेनेकी कथा कहनी प्रारम्भ की।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5272,11 +5272,6 @@ _भीष्मजी बोले—_ कुरुरत्न युधिष
 अभ्यभाषत तेजस्वी महर्षीन् पूजयंस्तदा॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -5291,15 +5286,15 @@ _भीष्मजी बोले—_ कुरुरत्न युधिष
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्यानि देवकार्याणि कृत्वा लोकहिताय च।  
 स्वलोकं लोककृद् देव पुनर्गच्छ स्वतेजसा॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -5314,6 +5309,11 @@ _भीष्मजी बोले—_ कुरुरत्न युधिष
 
 _इन्द्रने कहा—_ देव! आप सम्पूर्ण जगत्‌के स्रष्टा हैं। देवताओंके जो कर्तव्य कार्य हैं, उन सबको सम्पूर्ण जगत्‌के हितके लिये सिद्ध करके आप अपने तेजसहित पुनः परमधामको पधारिये।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5712,11 +5712,6 @@ _भीष्मजी कहते हैं—_ ऐसा कहकर स्�
 गोव्रजं तत्र कौन्तेय चारयन्तौ विजह्रतुः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -5739,6 +5734,11 @@ _भीष्मजी कहते हैं—_ ऐसा कहकर स्�
 
 [कालियमर्दन एवं धेनुकासुर, अरिष्टासुर और कंस आदिका वध, श्रीकृष्ण और बलरामका विद्याभ्यास तथा गुरुदक्षिणारूपसे गुरुजीको उनके मरे हुए पुत्रको जीवित करके देना]
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6453,11 +6453,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 अयाचतार्थं गोविन्दं ततः सान्दीपनिर्विभुः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सान्दीपनिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -6472,15 +6467,15 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सान्दीपनिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम पुत्रः समुद्रेऽस्मिंस्तिमिना चापवाहितः॥  
 पुत्रमानय भद्रं ते भक्षितं तिमिना मम।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -6495,6 +6490,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 _सान्दीपनिजी बोले—_ मेरा पुत्र इस समुद्रमें नहा रहा था, उस समय ‘तिमि’ नामक जलजन्तु उसे पकड़कर भीतर ले गया और उसके शरीरको खा गया। तुम दोनोंका भला हो। मेरे उस मरे हुए पुत्रको जीवित करके यहाँ ला दो।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6991,11 +6991,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 सरस्वत्यां जरासंधमजयत् पुरुषोत्तमः ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -7018,6 +7013,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 [नरकासुरका सैनिकोंसहित वध, देवता आदिकी सोलह हजार कन्याओंको पत्नीरूपमें स्वीकार करके श्रीकृष्णका उन्हें द्वारका भेजना तथा इन्द्रलोकमें जाकर अदितिको कुण्डल अर्पणकर द्वारकापुरीमें वापस आना]
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7146,11 +7146,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 नष्टशोकभयाबाधः प्राग्ज्योतिषपतिस्तदा ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नरक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -7165,17 +7160,17 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नरक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानि देवमनुष्येषु रत्नानि विविधानि च।  
 बिभर्ति च मही कृत्स्ना सागरेषु च यद् वसु॥  
 अद्यप्रभृति तद् देवि सहिताः सर्वनैर्ऋताः।  
 तवैवोपहरिष्यन्ति दैत्याश्च सह दानवैः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -7192,6 +7187,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 _नरकासुर बोला—_ देवि! देवताओं और मनुष्योंके पास जो नाना प्रकारके रत्न हैं, सारी पृथ्वी जिन रत्नोंको धारण करती है तथा समुद्रोंमें जो रत्न संचित हैं, उन सबको आजसे सभी राक्षस ला-लाकर तुम्हें ही अर्पित किया करेंगे। दैत्य और दानव भी तुम्हें उत्तमोत्तम रत्नोंकी भेंट देंगे।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7626,11 +7626,6 @@ _भीष्मजी कहते हैं—_ भारत! इस प्र
 प्रगृह्य पूजां तैर्दत्तामुवाचावनताननः ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -7643,6 +7638,11 @@ _भीष्मजी कहते हैं—_ भारत! इस प्र
 
 इस प्रकार उन्होंने वृष्णि और अन्धकवंशके प्रधान व्यक्तियोंको हृदयसे लगाकर उनकी दी हुई पूजा ग्रहण की तथा मुखको नीचेकी ओर झुकाकर वे इस प्रकार बोले—
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7671,11 +7671,6 @@ _इन्द्रने कहा—_ भैया कृष्ण! तुम�
 तस्माज्जहि महाभाग भूमिपुत्रं नरेश्वर।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -7688,6 +7683,11 @@ _इन्द्रने कहा—_ भैया कृष्ण! तुम�
 
 मधुसूदन! इस लोकमें माताका आदेश सुननेके पात्र केवल तुम्हीं हो। अतः महाभाग नरेश्वर! तुम भौमासुरको मार डालो।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7990,11 +7990,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 प्रदाय च महाबाहुमिदं वचनमब्रवीत्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भूमिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -8009,15 +8004,15 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भूमिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सृष्टस्त्वयैव मधुहंस्त्वयैव निहतः प्रभो।  
 यथेच्छसि तथा क्रीडन् प्रजास्तस्यानुपालय॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीभगवानुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -8032,6 +8027,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 _भूमि बोली—_ प्रभो मधुसूदन! आपने ही इसे जन्म दिया था और आपने ही इसे मारा है। आपकी जैसी इच्छा हो, वैसी ही लीला करते हुए नरकासुरकी संतानका पालन कीजिये।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीभगवानुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8083,11 +8083,6 @@ _श्रीभगवान्‌ने कहा—_ भामिनि! त�
 तस्माद् गच्छ महाभागे भारावतरणं कृतम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -8101,6 +8096,11 @@ _श्रीभगवान्‌ने कहा—_ भामिनि! त�
 
 भामिनि! मैंने इस समय जो कुछ किया है, उसके लिये तुम्हें मुझपर क्षोभ नहीं करना चाहिये। महाभागे! तुम्हारे पुत्रने मेरे प्रभावसे अत्यन्त उत्तम गति प्राप्त की है; इसलिये जाओ, मैंने तुम्हारा भार उतार दिया है।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8191,11 +8191,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 दृष्टपूर्वः पुरा साक्षान्महेन्द्रसदनेष्वपि ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -8210,6 +8205,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 नरकासुरका भीतरी भवन सुवर्णके समान सुन्दर, कान्तिमान् एवं उज्ज्वल था। उसके घरमें जो असंख्य एवं अक्षय धन दिखायी दिया, उतनी धनराशि राजा कुबेरके घरमें भी नहीं है। देवराज इन्द्रके भवनमें भी पहले कभी उतना वैभव नहीं देखा गया था।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8266,11 +8266,6 @@ _इन्द्र बोले—_ जनार्दन! ये जो ना
 एतत् ते प्रापयिष्यामि वृष्ण्यावासमरिंदम॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -8285,6 +8280,11 @@ _इन्द्र बोले—_ जनार्दन! ये जो ना
 
 शत्रुदमन! ये महीन ऊनी वस्त्र, अनेक प्रकारकी शय्याएँ, बहुत-से आसन, इच्छानुसार बोली बोलनेवाले देखनेमें सुन्दर पक्षी, चन्दन और अगुरुमिश्रित नाना प्रकारके रथ—ये सब वस्तुएँ मैं आपके लिये वृष्णियोंके निवासस्थान द्वारकामें पहुँचा दूँगा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8463,11 +8463,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 ऊचुश्चैनं हृषीकेशं सर्वास्ताः कमलेक्षणाः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कन्यका ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -8482,6 +8477,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 उस समय व्रत और संतापजनित शोक उनमेंसे किसीको पीड़ा नहीं दे सका। वे निर्मल रेशमी वस्त्र पहने हुए यदुवीर श्रीकृष्णके पास जा उनके सामने हाथ जोड़कर खड़ी हो गयीं। उन कमलनयनी कामिनियोंने अपनी सम्पूर्ण इन्द्रियोंके स्वामी श्रीहरिसे इस प्रकार कहा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कन्यका ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8593,11 +8593,6 @@ _कन्याएँ बोलीं—_ पुरुषोत्तम! द�
 यथोक्तं नारदेनाद्य न चिरात् तद् भविष्यति॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -8611,6 +8606,11 @@ _कन्याएँ बोलीं—_ पुरुषोत्तम! द�
 
 भगवन्! आप गान्धर्व विवाहकी रीतिसे हमारे साथ विवाह करके हमारा प्रिय करें। हमारे पूर्वोक्त मनोरथको जानकर भगवान् वायुदेवने भी हम सबके प्रिय मनोरथकी सिद्धिके लिये कहा था कि ‘देवर्षि नारदजीने जो कहा है, वह शीघ्र ही पूर्ण होगा’।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8639,11 +8639,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 सम्प्रहृष्टा महाबाहुमिदं वचनमब्रुवन् ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कन्यका ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -8656,6 +8651,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 भगवान्‌के मुखचन्द्रको देखकर उन सबकी इन्द्रियाँ उल्लसित हो उठीं और वे हर्षमें भरकर महाबाहु श्रीकृष्णसे पुनः इस प्रकार बोलीं।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कन्यका ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8724,11 +8724,6 @@ _कन्याओंने कहा—_ बड़े हर्षकी ब�
 दर्शनेन कृतार्थाः स्मो वयमद्य महात्मनः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -8743,14 +8738,14 @@ _कन्याओंने कहा—_ बड़े हर्षकी ब�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उवाच स यदुश्रेष्ठः सर्वास्ता जातमन्मथाः।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीभगवानुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -8766,14 +8761,14 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीभगवानुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा ब्रूत विशालाक्ष्यस्तत् सर्वं वो भविष्यति॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -8787,6 +8782,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 _श्रीभगवान् बोले—_ विशाल नेत्रोंवाली सुन्दरियो! जैसा तुम कहती हो, उसके अनुसार तुम्हारी सारी अभिलाषा पूर्ण हो जायगी।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9037,11 +9037,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 वरं प्रादाद् देवमाता सत्यायै विगतज्वरा।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अदितिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -9056,15 +9051,15 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अदितिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जरां न यास्यसि वधूर्यावद् वै कृष्णमानुषम्॥  
 सर्वगन्धगुणोपेता भविष्यसि वरानने ।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -9079,6 +9074,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 _अदिति बोलीं—_ सुन्दर मुखवाली बहू! जबतक श्रीकृष्ण मानव-शरीरमें रहेंगे, तबतक तू वृद्धावस्थाको प्राप्त न होगी और सब प्रकारकी दिव्य सुगन्ध एवं उत्तम गुणोंसे सुशोभित होती रहेगी।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9127,11 +9127,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 वर्धमानपुरद्वारमाससाद पुरोत्तमम् ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -9154,6 +9149,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 [द्वारकापुरी एवं रुक्मिणी आदि रानियोंके महलोंका वर्णन, श्रीबलराम और श्रीकृष्णका द्वारकामें प्रवेश]
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10869,11 +10869,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 कुकुरान्धकमुख्यांश्च तं च राजानमाहुकम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -10887,6 +10882,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 जब सभी यदुवंशी अपने-अपने आसनोंपर बैठ गये, उस समय देवताओंके स्वामी महायशस्वी महेन्द्र अपनी कल्याणमयी वाणीद्वारा कुकुर और अन्धक आदि यादवों तथा राजा उग्रसेनका हर्ष बढ़ाते हुए बोले।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11001,11 +11001,6 @@ _इन्द्रने कहा—_ यदुवंशी वीरो! प�
 मन्मुखा हि गमिष्यन्ति साध्याश्च मधुसूदनम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -11018,6 +11013,11 @@ _इन्द्रने कहा—_ यदुवंशी वीरो! प�
 
 अब पुनः बाणासुरके वधका अवसर उपस्थित होनेपर मैं तथा सब देवता, वसु और साध्यगण मधुसूदन श्रीकृष्णकी सेवामें उपस्थित होंगे।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11548,11 +11548,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 एतदर्थं च जन्माहुर्मानुषेषु महात्मनः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -11575,6 +11570,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 [भगवान् श्रीकृष्णके द्वारा बाणासुरपर विजय और भीष्मके द्वारा श्रीकृष्ण-माहात्म्यका उपसंहार]
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11807,11 +11807,6 @@ _भीष्मजी कहते हैं—_ महाराज युध�
 द्वारकां प्राप्य कौन्तेय कृष्णं दृष्ट्वा वचोऽब्रवीत्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -11826,16 +11821,16 @@ _भीष्मजी कहते हैं—_ महाराज युध�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्ण कृष्ण महाबाहो यदूनां कीर्तिवर्धन।  
 त्वत्पौत्रो बाध्यमानोऽथ बाणेनामिततेजसा ॥  
 कृच्छ्रं प्राप्तोऽनिरुद्धो वै शेते कारागृहे सदा।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -11851,6 +11846,11 @@ _भीष्मजी कहते हैं—_ महाराज युध�
 
 _नारदजीने कहा—_ महाबाहु श्रीकृष्ण! आप यदुवंशियोंकी कीर्ति बढ़ानेवाले हैं। इस समय अमित-तेजस्वी बाणासुर आपके पौत्र अनिरुद्धको बहुत कष्ट दे रहा है। वे संकटमें पड़े हैं और सदा कारागारमें निवास कर रहे हैं।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13027,11 +13027,6 @@ _भीष्मजी कहते हैं—_ राजन्! ऐसा क
 दुष्कृतायां यथान्यायं तथायं कर्तुमर्हति ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अर्घाभिहरणपर्वमें भीष्मवाक्य नामक अड़तीसवाँ अध्याय पूरा हुआ॥३८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -13048,6 +13043,11 @@ _भीष्मजी कहते हैं—_ राजन्! ऐसा क
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि अर्घाभिहरणपर्वणि भीष्मवाक्ये अष्टात्रिंशोऽध्यायः ॥ ३८ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अर्घाभिहरणपर्वमें भीष्मवाक्य नामक अड़तीसवाँ अध्याय पूरा हुआ॥३८॥
 </details>
 
 <details><summary>Misc Detail</summary>

@@ -4,14 +4,9 @@ title_full = "037 माताके शापसे बचनेके लि�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="मालती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-037p01.mp3"></div>
+<div caption="मालती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-037p01.mp3"></div>
 
-<div class="audioEmbed"  caption="मालती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-037p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="मालती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-037p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "037 माताके शापसे बचनेके लि�
 
 माताके शापसे बचनेके लिये वासुकि आदि नागोंका परस्पर परामर्श
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -53,11 +53,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! म�
 ऐरावतप्रभृतिभिः सर्वधर्मपरायणैः ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुकिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -70,6 +65,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! म�
 
 तदनन्तर उन्होंने ऐरावत आदि सर्वधर्मपरायण बन्धुओंके साथ उस शापके विषयमें विचार किया॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुकिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,11 +168,6 @@ _वासुकि बोले—_ निष्पाप नागगण! म�
 जनमेजयस्य सर्पाणां विनाशकरणाय वै ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -185,6 +180,11 @@ _वासुकि बोले—_ निष्पाप नागगण! म�
 
 सर्पोंके विनाशके लिये आरम्भ होनेवाला जनमेजयका यज्ञ जिस प्रकार टल जाय अथवा जिस तरह उसमें विघ्न पड़ जाय, वह उपाय हमें सोचना चाहिये॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -641,11 +641,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! व�
 अनेनाहं भृशं तप्ये गुणदोषौ मदाश्रयौ ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें वासुकि आदि नागोंकी मन्त्रणा नामक सैंतीसवाँ अध्याय पूरा हुआ॥३७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -663,4 +658,10 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! व�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि वासुक्यादिमन्त्रणे सप्तत्रिंशोऽध्यायः ॥ ३७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें वासुकि आदि नागोंकी मन्त्रणा नामक सैंतीसवाँ अध्याय पूरा हुआ॥३७॥
 </details>
+</details>
+

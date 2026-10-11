@@ -4,18 +4,13 @@ title_full = "074 शकुन्तलाके पुत्रका जन्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-074p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-074p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-074p02.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-074p02.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-074p03.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-074p03.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-074p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-074p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -34,6 +29,11 @@ title_full = "074 शकुन्तलाके पुत्रका जन्
 आकाशवाणीद्वारा शकुन्तलाकी शुद्धिका समर्थन  
 और भरतका राज्याभिषेक
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -97,11 +97,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 गायन्त्यो मधुरं तत्र देवैः शक्रोऽभ्युवाच ह।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -117,6 +112,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शकुन्तले तव सुतश्चक्रवर्ती भविष्यति॥  
@@ -124,11 +124,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 आहर्ता वाजिमेधस्य शतसंख्यस्य पौरवः॥  
 अनेकानि सहस्राणि राजसूयादिभिर्मखैः ।  
 स्वार्थं ब्राह्मणसात्‌ कृत्वा दक्षिणाममितां ददात्॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -146,6 +141,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _इन्द्र बोले—_ शकुन्तले! तुम्हारा यह पुत्र चक्रवर्ती सम्राट् होगा। पृथ्वीपर कोई भी इसके बल, तेज तथा रूपकी समानता नहीं कर सकता। यह पूरुवंशका रत्न सौ अश्वमेध यज्ञोंका अनुष्ठान करेगा। राजसूय आदि यज्ञोंद्वारा सहस्रों बार अपना सारा धन ब्राह्मणोंके अधीन करके उन्हें अपरिमित दक्षिणा देगा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -409,11 +409,6 @@ _वैशम्पायनजी कहते हैं—_ इन्द्र
 प्रतिवाक्यं न दद्यास्त्वं शापिता मम पादयोः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -431,15 +426,15 @@ _वैशम्पायनजी कहते हैं—_ इन्द्र
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा सुतां तत्र पौत्रं कण्वोऽभ्यभाषत।  
 परिष्वज्य च बाहुभ्यां मूर्ध्न्युपाघ्राय पौरवम्॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कण्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -454,6 +449,11 @@ _वैशम्पायनजी कहते हैं—_ इन्द्र
 
 _वैशम्पायनजी कहते हैं—_ पुत्रीसे ऐसा कहकर महर्षि कण्वने उसके पुत्र भरतको दोनों बाँहोंसे पकड़कर अंकमें भर लिया और उसका मस्तक सूँघकर कहा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कण्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,11 +540,6 @@ _कण्व बोले—_ वत्स! चन्द्रवंशमे�
 कीर्तिचारित्रधर्मघ्नस्तस्मान्नयत मा चिरम् ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -557,6 +552,11 @@ _कण्व बोले—_ वत्स! चन्द्रवंशमे�
 
 ‘स्त्रियोंका अपने भाई-बन्धुओंके यहाँ अधिक दिनोंतक रहना अच्छा नहीं होता। वह उनकी कीर्ति, शील तथा पातिव्रत्य धर्मका नाश करनेवाला होता है। अतः इसे अविलम्ब पतिके घरमें पहुँचा दो’॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -801,11 +801,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 दुष्यन्तो धर्मबुद्ध्या तु चिन्तयन्नेव सोऽब्रवीत्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुष्यन्त उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -824,15 +819,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुष्यन्त उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमागमनकार्यं ते ब्रूहि त्वं वरवर्णिनि।  
 करिष्यामि न संदेहः सपुत्राया विशेषतः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुन्तलोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -847,6 +842,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _दुष्यन्त बोले—_ सुन्दरि! यहाँ तुम्हारे आगमनका क्या उद्देश्य है? बताओ। विशेषतः उस दशामें, जबकि तुम पुत्रके साथ आयी हो, मैं तुम्हारा कार्य अवश्य सिद्ध करूँगा; इसमें संदेह नहीं।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुन्तलोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2121,11 +2121,6 @@ _शकुन्तलाने कहा—_ महाराज! आप प्�
 इमं तु बालं संत्यक्तुं नार्हस्यात्मजमात्मनः ॥ ७२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुष्यन्त उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2138,6 +2133,11 @@ _शकुन्तलाने कहा—_ महाराज! आप प्�
 
 ‘महाराज! आपके द्वारा स्वेच्छासे त्याग दी जानेपर मैं पुनः अपने आश्रमको लौट जाऊँगी, किंतु अपने इस नन्हे-से पुत्रका त्याग आपको नहीं करना चाहिये’॥७२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुष्यन्त उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2290,11 +2290,6 @@ _दुष्यन्त बोले—_ शकुन्तले! मैं �
 नाहं त्वामभिजानामि यथेष्टं गम्यतां त्वया ॥ ८१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुन्तलोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2307,6 +2302,11 @@ _दुष्यन्त बोले—_ शकुन्तले! मैं �
 
 तुम जो कुछ कहती हो, वह सब मेरी आँखोंके सामने नहीं हुआ है। तापसी! मैं तुम्हें नहीं पहचानता। तुम्हारी जहाँ इच्छा हो, वहीं चली जाओ॥८१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुन्तलोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2872,11 +2872,6 @@ _शकुन्तलाने कहा—_ राजन्! आप दूस�
 असाक्षिणी मन्दभाग्या गमिष्यामि यथाऽऽगतम्।)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2892,6 +2887,11 @@ _शकुन्तलाने कहा—_ राजन्! आप दूस�
 
 देवराज इन्द्रका वचन है—‘शकुन्तले! तुम्हारा पुत्र चक्रवर्ती सम्राट् होगा।’ यह कभी मिथ्या नहीं हो सकता। यद्यपि देवदूत आदि बहुत-से साक्षी बताये गये हैं, तथापि इस समय वे क्या सत्य है और क्या असत्य—इसके विषयमें कुछ नहीं कह रहे हैं। अतः साक्षीके अभावमें यह भाग्यहीन शकुन्तला जैसे आयी है, वैसे ही लौट जायगी।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3029,11 +3029,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भवेद्धि शङ्क्यो लोकस्य नैव शुद्धो भवेदयम्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -3047,6 +3042,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘मैं भी अपने इस पुत्रको इसी रूपमें जानता हूँ। यदि केवल शकुन्तलाके कहनेसे मैं इसे ग्रहण कर लेता, तो सब लोग इसपर संदेह करते और यह बालक विशुद्ध नहीं माना जाता’॥११७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3454,11 +3454,6 @@ _वैशम्पायनजी कहते हैं—_ भारत! इ�
 महाभागान् देवकल्पान् सत्यार्जवपरायणान् ॥ १३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक चौहत्तरवाँ अध्याय पूरा हुआ॥७४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -3478,6 +3473,11 @@ _वैशम्पायनजी कहते हैं—_ भारत! इ�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि शकुन्तलोपाख्याने चतुःसप्ततितमोऽध्यायः ॥ ७४ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक चौहत्तरवाँ अध्याय पूरा हुआ॥७४॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

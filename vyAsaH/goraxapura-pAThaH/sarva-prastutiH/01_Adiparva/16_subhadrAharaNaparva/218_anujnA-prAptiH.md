@@ -4,16 +4,11 @@ title_full = "218 रैवतक पर्वतके उत्सवमें
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-218-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-218-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-218-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-218-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-218-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-218-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -28,6 +23,11 @@ title_full = "218 रैवतक पर्वतके उत्सवमें
 
 रैवतक पर्वतके उत्सवमें अर्जुनका सुभद्रापर आसक्त होना और श्रीकृष्ण तथा युधिष्ठिरकी अनुमतिसे उसे हर ले जानेका निश्चय करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -309,11 +309,6 @@ _वैशम्पायनजी कहते हैं—_ नृपश्र
 यदि ते वर्तते बुद्धिर्वक्ष्यामि पितरं स्वयम् ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -327,6 +322,11 @@ _वैशम्पायनजी कहते हैं—_ नृपश्र
 
 ‘कुन्तीनन्दन! यह मेरी बहिन और सारणकी सगी बहिन है, तुम्हारा कल्याण हो, इसका नाम सुभद्रा है। यह मेरे पिताकी बड़ी लाड़िली कन्या है। यदि तुम्हारा विचार इससे ब्याह करनेका हो तो मैं पितासे स्वयं कहूँगा’॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,11 +375,6 @@ _अर्जुनने कहा—_ यह वसुदेवजीकी �
 आस्थास्यामि तदा सर्वं यदि शक्यं नरेण तत् ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -392,6 +387,11 @@ _अर्जुनने कहा—_ यह वसुदेवजीकी �
 
 जनार्दन! बताइये, इसे प्राप्त करनेका क्या उपाय हो सकता है? यदि मनुष्यके द्वारा कर सकने योग्य होगा तो वह सारा प्रयत्न मैं अवश्य करूँगा॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,11 +484,6 @@ _भगवान् श्रीकृष्ण बोले—_ नरश्र
 इत्येवं मनुजैः सार्धमुक्त्वा प्रीतिमुपेयिवान्॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सुभद्राहरणपर्वमें युधिष्ठिरकी आज्ञासम्बन्धी दो सौ अठारहवाँ अध्याय पूरा हुआ॥२१८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -507,8 +502,14 @@ _भगवान् श्रीकृष्ण बोले—_ नरश्र
 इति श्रीमहाभारते आदिपर्वणि सुभद्राहरणपर्वणि युधिष्ठिरानुज्ञायामष्टादशाधिकद्विशततमोऽध्यायः ॥ २१८ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सुभद्राहरणपर्वमें युधिष्ठिरकी आज्ञासम्बन्धी दो सौ अठारहवाँ अध्याय पूरा हुआ॥२१८॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलाकर कुल २६ श्लोक हैं)
 </details>
 </details>
+

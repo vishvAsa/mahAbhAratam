@@ -4,12 +4,7 @@ title_full = "013 श्रीकृष्णका जूएके दोष �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-013.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-013.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "013 श्रीकृष्णका जूएके दोष �
 
 श्रीकृष्णका जूएके दोष बताते हुए पाण्डवोंपर आयी हुई विपत्तिमें अपनी अनुपस्थितिको कारण मानना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -303,11 +303,6 @@ _भगवान् श्रीकृष्ण बोले—_ राजन्
 सोऽहं त्वां व्यसने मग्नं पश्यामि सह सोदरैः ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें वासुदेववाक्यविषयक तेरहवाँ अध्याय पूरा हुआ॥१३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -325,4 +320,10 @@ _भगवान् श्रीकृष्ण बोले—_ राजन्
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि वासुदेववाक्ये त्रयोदशोऽध्यायः ॥ १३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें वासुदेववाक्यविषयक तेरहवाँ अध्याय पूरा हुआ॥१३॥
 </details>
+</details>
+

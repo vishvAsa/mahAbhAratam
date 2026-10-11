@@ -4,9 +4,9 @@ title_full = "004 कथा-प्रवेश"
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बॆङ्गळूरु-विश्वासः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-004p1.mp3"></div>
+<div caption="बॆङ्गळूरु-विश्वासः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-004p1.mp3"></div>
 
-<div class="audioEmbed"  caption="बॆङ्गळूरु-विश्वासः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-004p2.mp3"></div>
+<div caption="बॆङ्गळूरु-विश्वासः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-004p2.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -161,11 +161,6 @@ title_full = "004 कथा-प्रवेश"
 ततो वक्ष्यसि यत्त्वां स प्रक्ष्यति द्विजसत्तमः ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -178,6 +173,11 @@ title_full = "004 कथा-प्रवेश"
 
 गुरुदेव शौनक जब यहाँ उत्तम आसनपर विराजमान हो जायँ, उस समय वे द्विजश्रेष्ठ आपसे जो कुछ पूछें, उसी प्रसंगको लेकर आप बोलियेगा॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,11 +230,6 @@ _उग्रश्रवाजीने कहा—_ एवमस्तु (�
 उपविष्टेषूपविष्टः शौनकोऽथाब्रवीदिदम् ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें कथा-प्रवेश नामक चौथा अध्याय पूरा हुआ॥४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -252,4 +247,10 @@ _उग्रश्रवाजीने कहा—_ एवमस्तु (�
 
 इति श्रीमहाभारते आदिपर्वणि पौलोमपर्वणि कथाप्रवेशो नाम चतुर्थोऽध्यायः ॥ ४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें कथा-प्रवेश नामक चौथा अध्याय पूरा हुआ॥४॥
 </details>
+</details>
+

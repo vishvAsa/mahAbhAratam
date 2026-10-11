@@ -4,14 +4,9 @@ title_full = "197 द्रौपदीका पाँचों पाण्ड
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-197p01.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-197p01.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-197p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-197p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "197 द्रौपदीका पाँचों पाण्ड
 
 द्रौपदीका पाँचों पाण्डवोंके साथ विवाह
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,11 +107,6 @@ _द्रुपद बोले—_ ‘ब्रह्मर्षे! आप�
 यथोपजोषं विहितैषां हि कृष्णा ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -126,6 +121,11 @@ _द्रुपद बोले—_ ‘ब्रह्मर्षे! आप�
 
 यदि साक्षात् शंकरने ऐसा विधान किया है तो यह धर्म हो या अधर्म, इसमें मेरा कोई अपराध नहीं है। ये पाण्डवलोग विधिपूर्वक प्रसन्नतासे इसका पाणिग्रहण करें; विधाताने ही कृष्णाको इन पाण्डवोंकी पत्नी बनाया है॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -472,11 +472,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 विवर्धयामास मुदं स्वसुव्रतैः ॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें द्रौपदीविवाहविषयक एक सौ सत्तानबेवाँ अध्याय पूरा हुआ॥१९७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -497,8 +492,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि वैवाहिकपर्वणि द्रौपदीविवाहे सप्तनवत्यधिकशततमोऽध्यायः ॥ १९७ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें द्रौपदीविवाहविषयक एक सौ सत्तानबेवाँ अध्याय पूरा हुआ॥१९७॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलाकर कुल १९ श्लोक हैं)
 </details>
 </details>
+

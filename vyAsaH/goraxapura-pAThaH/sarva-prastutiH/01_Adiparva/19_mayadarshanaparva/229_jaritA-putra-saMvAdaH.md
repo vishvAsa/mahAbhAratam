@@ -4,14 +4,9 @@ title_full = "229 जरिताका अपने बच्चोंकी �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-229p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-229p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-229p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-229p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "229 जरिताका अपने बच्चोंकी �
 
 जरिताका अपने बच्चोंकी रक्षाके लिये चिन्तित होकर विलाप करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -53,11 +53,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 जरिता शोकदुःखार्ता विललाप सुदुःखिता ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरितोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -70,6 +65,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 उन बच्चोंको छोटे जानकर उनकी तपस्विनी माता शोक और दुःखसे आतुर हुई जरिता बहुत दुःखी होकर विलाप करने लगी॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरितोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -223,11 +223,6 @@ _जरिता बोली—_ यह भयानक आग इस वनक
 नापश्यत् स्वधिया मोक्षं स्वसुतानां तदानलात् ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -242,6 +237,11 @@ _जरिता बोली—_ यह भयानक आग इस वनक
 हाय! मुझपर बड़ी भारी कष्टदायिनी आपत्ति आ पड़ी। इन चारों बच्चोंमेंसे किसको लेकर मैं इस आगको पार कर सकूँगी। क्या करनेसे मेरा कार्य सिद्ध हो सकता है?  
 इस प्रकार विचार करते-करते जरिता अत्यन्त विह्वल हो गयी; परंतु अपने पुत्रोंको उस आगसे बचानेका कोई उपाय उस समय उसके ध्यानमें नहीं आया॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -310,11 +310,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 न हीदं कर्म मोघं स्याल्लोककामस्य नः पितुः ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरितोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -327,6 +322,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘तुम हम सब पुत्रोंपर ऐसा स्नेह न करो, जिससे सबका विनाश हो जाय। उत्तम लोककी इच्छा रखनेवाले मेरे पिताका यह कर्म व्यर्थ न हो जाय’॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरितोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,11 +375,6 @@ _जरिता बोली—_ मेरे बच्चो! इस वृक
 रोचतामेष वो वादो मोक्षार्थं च हुताशनात् ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शाङ्‌र्गका ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -392,6 +387,11 @@ _जरिता बोली—_ मेरे बच्चो! इस वृक
 
 फिर आग बुझ जानेपर मैं धूल हटानेके लिये यहाँ आ जाऊँगी। आगसे बचनेके लिये मेरी यह बात तुमलोगोंको पसंद आनी चाहिये॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शाङ्‌र्गका ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -460,11 +460,6 @@ _शाङ्‌र्गक बोले—_ अभी हम बिना प�
 शिष्टादिष्टः परित्यागः शरीरस्य हुताशनात् ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें जरिताविलापविषयक दो सौ उन्तीसवाँ अध्याय पूरा हुआ॥२२९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -482,4 +477,10 @@ _शाङ्‌र्गक बोले—_ अभी हम बिना प�
 
 इति श्रीमहाभारते आदिपर्वणि मयदर्शनपर्वणि जरिताविलापे एकोनत्रिंशदधिकद्विशततमोऽध्यायः ॥ २२९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें जरिताविलापविषयक दो सौ उन्तीसवाँ अध्याय पूरा हुआ॥२२९॥
 </details>
+</details>
+

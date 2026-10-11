@@ -4,14 +4,9 @@ title_full = "009 वरुणकी सभाका वर्णन"
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-009p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-009p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-009p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-009p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "009 वरुणकी सभाका वर्णन"
 
 वरुणकी सभाका वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -519,11 +519,6 @@ _नारदजी कहते हैं—_ युधिष्ठिर! व�
 दृष्टपूर्वा सभा रम्या कुबेरस्य सभां शृणु ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें वरुणसभा-वर्णनविषयक नवाँ अध्याय पूरा हुआ॥९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -542,8 +537,14 @@ _नारदजी कहते हैं—_ युधिष्ठिर! व�
 इति श्रीमहाभारते सभापर्वणि लोकपालसभाख्यानपर्वणि वरुणसभावर्णने नवमोऽध्यायः ॥ ९ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें वरुणसभा-वर्णनविषयक नवाँ अध्याय पूरा हुआ॥९॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ४ श्लोक मिलाकर कुल ३४ श्लोक हैं)
 </details>
 </details>
+

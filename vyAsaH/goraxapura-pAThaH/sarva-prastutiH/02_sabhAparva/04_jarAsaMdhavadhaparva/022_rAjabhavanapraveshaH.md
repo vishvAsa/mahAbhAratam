@@ -4,22 +4,17 @@ title_full = "022 जरासंध और श्रीकृष्णका �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p05.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p06.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरासंध उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-022p06.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -33,6 +28,11 @@ title_full = "022 जरासंध और श्रीकृष्णका �
 
 जरासंध और श्रीकृष्णका संवाद तथा जरासंधकी युद्धके लिये तैयारी एवं जरासंधका श्रीकृष्णके साथ वैर होनेके कारणका वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरासंध उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -125,11 +125,6 @@ _जरासंध बोला—_ ब्राह्मणो! मुझे �
 अनागसं प्रजानां च प्रमादादिव जल्पथ ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीकृष्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -142,6 +137,11 @@ _जरासंध बोला—_ ब्राह्मणो! मुझे �
 
 मैं अपने मनको वशमें रखकर सदा स्वधर्म (क्षत्रियधर्म)-में स्थित रहता हूँ। प्रजाओंका भी कोई अपराध नहीं करता, ऐसी दशामें भी आपलोग प्रमादसे ही मुझे शत्रु या अपराधी बता रहे हैं॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीकृष्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -516,11 +516,6 @@ _श्रीकृष्णने कहा—_ महाबाहो! सम�
 मुञ्च वा नृपतीन् सर्वान् गच्छ वा त्वं यमक्षयम्॥२६॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरासंध उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -533,6 +528,11 @@ _श्रीकृष्णने कहा—_ महाबाहो! सम�
 
 मगधनरेश! हम तुम्हें युद्धके लिये ललकारते हैं। तुम डटकर युद्ध करो। तुम या तो समस्त राजाओंको छोड़ दो अथवा यमलोककी राह लो॥२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरासंध उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -601,11 +601,6 @@ _जरासंधने कहा—_ श्रीकृष्ण! मैं �
 द्वाभ्यां त्रिभिर्वा योत्स्येऽहं युगपत् पृथगेव वा ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -618,6 +613,11 @@ _जरासंधने कहा—_ श्रीकृष्ण! मैं �
 
 तुम्हारी सेना मेरी व्यूहरचनायुक्त सेनाके साथ लड़ ले अथवा तुममेंसे कोई एक मुझ अकेलेके साथ युद्ध करे अथवा मैं अकेला ही तुममेंसे दो या तीनोंके साथ बारी-बारीसे या एक ही साथ युद्ध कर सकता हूँ॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -690,11 +690,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ब्राह्मीमाज्ञां पुरस्कृत्य हन्तुं हलधरानुजः ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -711,6 +706,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 जनमेजय! मनस्वी पुरुषोंमें सर्वश्रेष्ठ, सत्यप्रतिज्ञ, मनुष्योंमें सिंहके समान पराक्रमी, वसुदेवपुत्र एवं बलरामके छोटे भाई भगवान् मधुसूदनने दिव्य दृष्टिसे स्मरण करके यह जान लिया था कि सिंहके समान पराक्रमी, बलवानोंमें श्रेष्ठ और भयानक पुरुषार्थ प्रकट करनेवाला यह राजा जरासंध युद्धमें दूसरे वीरका भाग (वध्य) नियत किया गया है। यदुवंशियोंमेंसे किसीके हाथसे उसकी मृत्यु नहीं हो सकती, अतः ब्रह्माजीके आदेशकी रक्षा करनेके लिये उन्होंने स्वयं उसे मारनेकी इच्छा नहीं की॥३४—३६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -739,11 +739,6 @@ _जनमेजयने पूछा—_ मुने! भगवान् श�
 एतदाचक्ष्व मे सर्वं वैशम्पायन तत्त्वतः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -756,6 +751,11 @@ _जनमेजयने पूछा—_ मुने! भगवान् श�
 
 कंस मगधराज जरासंधका कौन था, जिसके लिये उसने भगवान्‌से वैर ठान लिया। वैशम्पायनजी! ये सब बातें मुझे यथार्थरूपसे बताइये।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1353,11 +1353,6 @@ _वैशम्पायनजीने कहा—_ राजन्! यद�
 यथा तु स हतो राजा भीमसेनेन तच्छृणु।)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत जरासंधवधपर्वमें जरासंधका युद्धके लिये उद्योगविषयक बाईसवाँ अध्याय पूरा हुआ॥२२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1379,8 +1374,14 @@ _वैशम्पायनजीने कहा—_ राजन्! यद�
 इति श्रीमहाभारते सभापर्वणि जरासंधवधपर्वणि जरासंधयुद्धोद्योगे द्वाविंशोऽध्यायः ॥ २२ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत जरासंधवधपर्वमें जरासंधका युद्धके लिये उद्योगविषयक बाईसवाँ अध्याय पूरा हुआ॥२२॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ३९ श्लोक मिलाकर कुल ७५ श्लोक हैं)
 </details>
 </details>
+

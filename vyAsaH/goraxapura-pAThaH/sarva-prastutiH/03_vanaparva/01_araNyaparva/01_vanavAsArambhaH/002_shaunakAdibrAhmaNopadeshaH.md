@@ -4,28 +4,23 @@ title_full = "002 धनके दोष, अतिथि-सत्कारक�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p01.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p02.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p03.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p04.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p05.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p05.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p06.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p06.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p07.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p07.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p08.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p08.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p09.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-002-p09.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -39,6 +34,11 @@ title_full = "002 धनके दोष, अतिथि-सत्कारक�
 
 धनके दोष, अतिथिसत्कारकी महत्ता तथा कल्याणके उपायोंके विषयमें धर्मराज युधिष्ठिरसे ब्राह्मणों तथा शौनकजीकी बातचीत
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -92,11 +92,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 किं पुनर्मामितो विप्रा निवर्तध्वं यथेष्टतः ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मणा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -110,6 +105,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 ‘मैं समझता हूँ, वहाँ आपलोगोंको अवश्य ही महान् कष्टका सामना करना पड़ेगा। ब्राह्मणोंको दिया हुआ क्लेश तो देवताओंका भी विनाश कर सकता है, फिर मेरी तो बात ही क्या है? अतः ब्राह्मणो! आपलोग यहाँसे अपने अभीष्ट स्थानको लौट जायँ’॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मणा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,11 +138,6 @@ _ब्राह्मणोंने कहा—_ राजन्! आपक�
 विशेषतो ब्राह्मणेषु सदाचारावलम्बिषु ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -155,6 +150,11 @@ _ब्राह्मणोंने कहा—_ राजन्! आपक�
 
 देवता भी अपने भक्तोंपर विशेषतः सदाचारपरायण ब्राह्मणोंपर तो अवश्य ही दया करते हैं॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -187,11 +187,6 @@ _युधिष्ठिर बोले—_ विप्रगण! मेर�
 दुःखार्दितानिमान् क्लेशैर्नाहं योक्तुमिहोत्सहे ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मणा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -204,6 +199,11 @@ _युधिष्ठिर बोले—_ विप्रगण! मेर�
 
 द्रौपदीके अपमान तथा राज्यके अपहरणके कारण ये दुःखसे पीडित हो रहे हैं, अतः मैं इन्हें (आहार जुटानेका आदेश देकर) अधिक क्लेशमें नहीं डालना चाहता॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मणा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -232,11 +232,6 @@ _ब्राह्मण बोले—_ पृथ्वीनाथ! आप�
 कथाभिश्चाभिरम्याभिः सह रंस्यामहे वयम् ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -249,6 +244,11 @@ _ब्राह्मण बोले—_ पृथ्वीनाथ! आप�
 
 हम आपके अभीष्टचिन्तन और जपके द्वारा आपका कल्याण करेंगे तथा आपको सुन्दर-सुन्दर कथाएँ सुनाकर आपके साथ ही प्रसन्नतापूर्वक वनमें विचरेंगे॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -277,11 +277,6 @@ _युधिष्ठिरने कहा—_ महात्माओ! आ�
 मद्भक्त्या क्लिश्यतोऽनर्हान् धिक् पापान् धृतराष्ट्रजान् ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -294,6 +289,11 @@ _युधिष्ठिरने कहा—_ महात्माओ! आ�
 
 आप सब लोग स्वयं ही आहार जुटाकर भोजन करें, यह मैं कैसे देख सकूँगा? आपलोग कष्ट भोगनेके योग्य नहीं हैं, तो भी मेरे प्रति स्नेह होनेके कारण इतना क्लेश उठा रहे हैं। धृतराष्ट्रके पापी पुत्रोंको धिक्कार है॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -942,11 +942,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 धर्मेण यदि ते कार्यं विमुक्तेच्छो भवार्थतः ॥ ५० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -959,6 +954,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 ‘युधिष्ठिर! इस प्रकार आपके लिये किसी भी वस्तुकी अभिलाषा करनी उचित नहीं है। यदि आपको धर्मसे ही प्रयोजन हो तो धनकी इच्छाका सर्वथा त्याग कर दें’॥५०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1209,11 +1209,6 @@ _युधिष्ठिरने कहा—_ ब्रह्मन्! म�
 तस्य धर्मं परं प्राहुः कथं वा विप्र मन्यसे॥६३॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1226,6 +1221,11 @@ _युधिष्ठिरने कहा—_ ब्रह्मन्! म�
 
 ब्रह्मन्! जो गृहस्थ इस वृत्तिसे रहता है, उसके लिये उत्तम धर्मकी प्राप्ति बतायी गयी है, अथवा इस विषयमें आपकी क्या सम्मति है?॥६३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1618,11 +1618,6 @@ _शौनकजीने कहा—_ अहो! बहुत दुःखक�
 तस्मात्तपः समास्थाय कुरुष्वात्ममनोरथम् ॥ ८४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें पाण्डवोंका प्रव्रजन (वनगमन)-विषयक दूसरा अध्याय पूरा हुआ॥२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1639,6 +1634,11 @@ _शौनकजीने कहा—_ अहो! बहुत दुःखक�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते वनपर्वणि अरण्यपर्वणि पाण्डवानां प्रव्रजने द्वितीयोऽध्यायः ॥ २ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें पाण्डवोंका प्रव्रजन (वनगमन)-विषयक दूसरा अध्याय पूरा हुआ॥२॥
 </details>
 </details>
 

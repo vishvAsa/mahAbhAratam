@@ -4,20 +4,15 @@ title_full = "137 द्रोणका शिष्योंद्वारा 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-137p01.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-137p01.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-137p02.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-137p02.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-137p03.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-137p03.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-137p04.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-137p04.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-137p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-137p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "137 द्रोणका शिष्योंद्वारा 
 
 द्रोणका शिष्योंद्वारा द्रुपदपर आक्रमण करवाना, अर्जुनका द्रुपदको बंदी बनाकर लाना और द्रोणद्वारा द्रुपदको आधा राज्य देकर मुक्त कर देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,11 +207,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 यज्ञसेनः शरान् घोरान् ववर्ष युधि दुर्जयः ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -224,6 +219,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 राजा द्रुपदको युद्धमें जीतना बहुत कठिन था। वे चमकीले रथपर सवार हो कौरवोंके सामने जा पहुँचे और भयानक बाणोंकी वर्षा करने लगे॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -531,11 +531,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 चालयन् रथनागांश्च संचचाल वृकोदरः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -553,6 +548,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 भीमसेनकी गदासे मस्तक फट जानेके कारण वे पर्वतोंके समान विशालकाय गजराज लोहूके झरने बहाते हुए वज्रके आघातसे (पंख कटे हुए) पहाड़ोंकी भाँति पृथ्वीपर गिर पड़ते थे। अर्जुनके बड़े भाई पाण्डुनन्दन भीमने हाथियों, घोड़ों एवं रथोंको धराशायी कर दिया। पैदलों तथा रथियोंका संहार कर डाला। जैसे ग्वाला वनमें डंडेसे पशुओंको हाँकता है, उसी प्रकार भीमसेन रथियों और हाथियोंको खदेड़ते हुए उनका पीछा करने लगे॥३२—३४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -953,11 +953,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 ममृदुस्तस्य नगरं द्रुपदस्य महात्मनः ॥ ६० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -972,15 +967,15 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्बन्धी कुरुवीराणां द्रुपदो राजसत्तमः।  
 मा वधीस्तद्बलं भीम गुरुदानं प्रदीयताम् ॥ ६१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -995,6 +990,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 _तब अर्जुनने कहा—_ भैया भीमसेन! राजाओंमें श्रेष्ठ द्रुपद कौरववीरोंके सम्बन्धी हैं, अतः इनकी सेनाका संहार न करो; केवल गुरुदक्षिणाके रूपमें द्रोणके प्रति महाराज द्रुपदको ही दे दो॥६१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1163,11 +1163,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सखायं मां विजानीहि पाञ्चाल यदि मन्यसे ॥ ७० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1182,15 +1177,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाश्चर्यमिदं ब्रह्मन् विक्रान्तेषु महात्मसु।  
 प्रीये त्वयाहं त्वत्तश्च प्रीतिमिच्छामि शाश्वतीम् ॥ ७१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1205,6 +1200,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _द्रुपदने कहा—_ ब्रह्मन्! आप-जैसे पराक्रमी महात्माओंमें ऐसी उदारताका होना आश्चर्यकी बात नहीं है। मैं आपसे बहुत प्रसन्न हूँ और आपके साथ सदा बनी रहनेवाली मैत्री एवं प्रेम चाहता हूँ॥७१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1281,11 +1281,6 @@ _वैशम्पायनजी कहते हैं—_ भारत! द�
 युधि निर्जित्य पार्थेन द्रोणाय प्रतिपादिता ॥ ७७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें द्रुपदपर द्रोणके शासनका वर्णन करनेवाला एक सौ सैंतीसवाँ अध्याय पूरा हुआ॥१३७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1304,8 +1299,14 @@ _वैशम्पायनजी कहते हैं—_ भारत! द�
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि द्रुपदशासने सप्तत्रिंशदधिकशततमोऽध्यायः ॥ १३७ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें द्रुपदपर द्रोणके शासनका वर्णन करनेवाला एक सौ सैंतीसवाँ अध्याय पूरा हुआ॥१३७॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ७ श्लोक मिलाकर कुल ८४ श्लोक हैं)
 </details>
 </details>
+

@@ -4,14 +4,9 @@ title_full = "061 कौरव-पाण्डवोंमें फूट औ�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-061a_sheela.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-061a_sheela.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-061b_sheela.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-061b_sheela.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "061 कौरव-पाण्डवोंमें फूट औ�
 
 कौरव-पाण्डवोंमें फूट और युद्ध होनेके वृत्तान्तका सूत्ररूपमें निर्देश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -744,11 +744,6 @@ _वैशम्पायनजीने कहा—_ राजन्! मै�
 भेदो राज्यविनाशाय जयश्च जयतां वर ॥ ५३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अंशावतरणपर्वमें भारतसूत्र नामक इकसठवाँ अध्याय पूरा हुआ॥६१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -770,8 +765,14 @@ _वैशम्पायनजीने कहा—_ राजन्! मै�
 इति श्रीमहाभारते आदिपर्वणि अंशावतरणपर्वणि भारतसूत्रं नामैकषष्टितमोऽध्यायः ॥ ६१ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अंशावतरणपर्वमें भारतसूत्र नामक इकसठवाँ अध्याय पूरा हुआ॥६१॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २ श्लोक मिलाकर कुल ५५ श्लोक हैं)
 </details>
 </details>
+

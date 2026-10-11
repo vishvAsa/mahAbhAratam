@@ -4,18 +4,13 @@ title_full = "153 हिडिम्बाका कुन्ती आदिस
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-153p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-153p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-153p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-153p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-153p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-153p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-153p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-153p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "153 हिडिम्बाका कुन्ती आदिस
 
 हिडिम्बाका कुन्ती आदिसे अपना मनोभाव प्रकट करना तथा भीमसेनके द्वारा हिडिम्बासुरका वध
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -81,11 +81,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 आचक्ष्व मम तत् सर्वं किमर्थं चेह तिष्ठसि ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-हिडिम्बोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -98,6 +93,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘यदि तुम इस वनकी देवी अथवा अप्सरा हो तो वह सब मुझे ठीक-ठीक बता दो; साथ ही यह भी कहो कि किस कामके लिये यहाँ खड़ी हो?’॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+हिडिम्बोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,11 +246,6 @@ _हिडिम्बा बोली—_ देवि! यह जो नील
 पश्यैवं युधि विक्रान्तावेतौ च नरराक्षसौ ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -263,6 +258,11 @@ _हिडिम्बा बोली—_ देवि! यह जो नील
 
 देखिये, युद्धमें पराक्रम दिखानेवाले वे दोनों मनुष्य और राक्षस जोर-जोरसे गर्ज रहे हैं और बड़े वेगसे गुत्थम-गुत्थ होकर एक-दूसरेको अपनी ओर खींच रहे हैं॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,11 +391,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 नकुलः सहदेवश्च मातरं गोपयिष्यतः ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीम उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -410,15 +405,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीम उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदासीनो निरीक्षस्व न कार्यः सम्भ्रमस्त्वया।  
 न जात्वयं पुनर्जीवेन्मद्बाह्वन्तरमागतः ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -433,6 +428,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _भीमसेनने कहा—_ अर्जुन! तटस्थ होकर चुपचाप देखते रहो। तुम्हें घबरानेकी आवश्यकता नहीं। मेरी दोनों भुजाओंके बीचमें आकर अब यह राक्षस कदापि जीवित नहीं रह सकता॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -481,11 +481,6 @@ _अर्जुनने कहा—_ शत्रुओंका दमन �
 पुरा विकुरुते मायां भुजयोः सारमर्पय ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -498,6 +493,11 @@ _अर्जुनने कहा—_ शत्रुओंका दमन �
 
 अतः भीमसेन! जल्दी करो। इसके साथ खिलवाड़ न करो। इस भयानक राक्षसको मार डालो। यह अपनी माया फैलाये, इसके पहले ही इसपर अपनी भुजाओंकी शक्तिका प्रयोग करो॥२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -526,11 +526,6 @@ _वैशम्पायनजी कहते हैं—_ अर्जुन
 उत्क्षिप्याभ्रामयद् देहं तूर्णं शतगुणं तदा ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीम उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -548,6 +543,11 @@ _वैशम्पायनजी कहते हैं—_ अर्जुन
 
 तत्पश्चात् काले मेघके समान उस राक्षसके शरीरको भीमने क्रोधपूर्वक तुरंत ऊपर उठा लिया और उसे सौ बार घुमाया॥२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीम उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -576,11 +576,6 @@ _इसके बाद भीम उस राक्षससे बोले�
 न पुनर्मानुषान् हत्वा भक्षयिष्यसि राक्षस ॥ २७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -593,6 +588,11 @@ _इसके बाद भीम उस राक्षससे बोले�
 
 राक्षस! आज तुझे मारकर मैं इस वनको निष्कण्टक एवं मंगलमय बना दूँगा, जिससे फिर तू मनुष्योंको मारकर नहीं खा सकेगा॥२७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -621,11 +621,6 @@ _अर्जुन बोले—_ भैया! यदि तुम युद
 कृतकर्मा परिश्रान्तः साधु तावदुपारम ॥ २९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -638,6 +633,11 @@ _अर्जुन बोले—_ भैया! यदि तुम युद
 
 वृकोदर! अथवा मैं ही इसे मार डालूँगा। तुम अधिक युद्ध करके थक गये हो। अतः कुछ देर अच्छी तरह विश्राम कर लो॥२९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -766,11 +766,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 प्रययुः पुरुषव्याघ्रा हिडिम्बा चैव राक्षसी ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत हिडिम्बवधपर्वमें हिडिम्बासुरके वधसे सम्बन्ध रखनेवाला एक सौ तिरपनवाँ अध्याय पूरा हुआ॥१५३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -788,4 +783,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि हिडिम्बवधपर्वणि हिडिम्बवधे त्रिपञ्चाशदधिकशततमोऽध्यायः ॥ १५३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत हिडिम्बवधपर्वमें हिडिम्बासुरके वधसे सम्बन्ध रखनेवाला एक सौ तिरपनवाँ अध्याय पूरा हुआ॥१५३॥
 </details>
+</details>
+

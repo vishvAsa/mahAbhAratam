@@ -4,12 +4,7 @@ title_full = "170 सूर्यकन्या तपतीको देखक
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-170.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-170.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "170 सूर्यकन्या तपतीको देखक
 
 सूर्यकन्या तपतीको देखकर राजा संवरणका मोहित होना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,11 +51,6 @@ _अर्जुनने कहा—_ गन्धर्व! तुमने �
 कौन्तेया हि वयं साधो तत्त्वमिच्छामि वेदितुम् ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -70,15 +65,15 @@ _अर्जुनने कहा—_ गन्धर्व! तुमने �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः स गन्धर्वः कुन्तीपुत्रं धनंजयम्।  
 विश्रुतां त्रिषु लोकेषु श्रावयामास वै कथाम् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -93,6 +88,11 @@ _अर्जुनने कहा—_ गन्धर्व! तुमने �
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! उनके यों कहनेपर गन्धर्वने कुन्तीनन्दन धनंजयको वह कथा सुनानी प्रारम्भ की, जो तीनों लोकोंमें विख्यात है॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -837,11 +837,6 @@ _गन्धर्व बोला—_ समस्त बुद्धिमा
 निश्चेष्टः पार्थिवश्रेष्ठो मुहूर्तं स व्यतिष्ठत ॥ ४४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें तपती-उपाख्यानविषयक एक सौ सत्तरवाँ अध्याय पूरा हुआ॥१७०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -859,4 +854,10 @@ _गन्धर्व बोला—_ समस्त बुद्धिमा
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि तपत्युपाख्याने सप्तत्यधिकशततमोऽध्यायः ॥ १७० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें तपती-उपाख्यानविषयक एक सौ सत्तरवाँ अध्याय पूरा हुआ॥१७०॥
 </details>
+</details>
+

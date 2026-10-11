@@ -4,18 +4,13 @@ title_full = "081 सखियोंसहित देवयानी और �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-081p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-081p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-081p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-081p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-081p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-081p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-081p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-081p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "081 सखियोंसहित देवयानी और �
 
 सखियोंसहित देवयानी और शर्मिष्ठाका वन-विहार, राजा ययातिका आगमन, देवयानीकी उनके साथ बातचीत तथा विवाह
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,11 +111,6 @@ _वैशम्पायनजी कहते हैं—_ नृपश्र
 शर्मिष्ठया सेव्यमानां पादसंवाहनादिभिः ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -130,15 +125,15 @@ _वैशम्पायनजी कहते हैं—_ नृपश्र
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वाभ्यां कन्यासहस्राभ्यां द्वे कन्ये परिवारिते।  
 गोत्रे च नामनी चैव द्वयोः पृच्छाम्यहं शुभे ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -153,6 +148,11 @@ _वैशम्पायनजी कहते हैं—_ नृपश्र
 
 _ययातिने पूछा—_ दो हजार[^*] कुमारी सखियोंसे घिरी हुई कन्याओ! मैं आप दोनोंके गोत्र और नाम पूछ रहा हूँ। शुभे! आप दोनों अपना परिचय दें॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -181,11 +181,6 @@ _देवयानी बोली—_ महाराज! मैं स्व�
 दुहिता दानवेन्द्रस्य शर्मिष्ठा वृषपर्वणः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -200,15 +195,15 @@ _देवयानी बोली—_ महाराज! मैं स्व�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं तु ते सखी दासी कन्येयं वरवर्णिनी।  
 असुरेन्द्रसुता सुभ्रूः परं कौतूहलं हि मे ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -223,6 +218,11 @@ _देवयानी बोली—_ महाराज! मैं स्व�
 
 _ययाति बोले—_ सुन्दरी! यह असुरराजकी रूपवती कन्या सुन्दर भौंहोंवाली शर्मिष्ठा आपकी सखी और दासी किस प्रकार हुई? यह बताइये। इसे सुननेके लिये मेरे मनमें बड़ी उत्कण्ठा है॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,11 +251,6 @@ _देवयानी बोली—_ नरश्रेष्ठ! सब ल�
 को नाम त्वं कुतश्चासि कस्य पुत्रश्च शंस मे॥१३॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -270,15 +265,15 @@ _देवयानी बोली—_ नरश्रेष्ठ! सब ल�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मचर्येण वेदो मे कृत्स्नः श्रुतिपथं गतः।  
 राजाहं राजपुत्रश्च ययातिरिति विश्रुतः ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -295,15 +290,15 @@ _ययातिने कहा—_ मैंने ब्रह्मचर्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केनास्यर्थेन नृपते इमं देशमुपागतः।  
 जिघृक्षुर्वारिजं किंचिदथवा मृगलिप्सया ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -320,15 +315,15 @@ _देवयानीने पूछा—_ महाराज! आप कि�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगलिप्सुरहं भद्रे पानीयार्थमुपागतः ।  
 बहुधाप्यनुयुक्तोऽस्मि तदनुज्ञातुमर्हसि ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -345,15 +340,15 @@ _ययातिने कहा—_ भद्रे! मैं एक हिं
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वाभ्यां कन्यासहस्राभ्यां दास्या शर्मिष्ठया सह।  
 त्वदधीनास्मि भद्रं ते सखा भर्ता च मे भव॥१७॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -370,15 +365,15 @@ _देवयानीने कहा—_ राजन्! आपका कल�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्ध्यौशनसि भद्रं ते न त्वामर्होऽस्मि भाविनि।  
 अविवाह्या हि राजानो देवयानि पितुस्तव ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -395,15 +390,15 @@ _ययाति बोले—_ शुक्रनन्दिनी देव
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संसृष्टं ब्रह्मणा क्षत्रं क्षत्रेण ब्रह्म संहितम्।  
 ऋषिश्चाप्यृषिपुत्रश्च नाहुषाङ्ग वहस्व माम् ॥ १९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -420,15 +415,15 @@ _देवयानीने कहा—_ नहुषनन्दन! ब्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकदेहोद्भवा वर्णाश्चत्वारोऽपि वराङ्गने ।  
 पृथग्धर्माः पृथक्छौचास्तेषां तु ब्राह्मणो वरः ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -443,6 +438,11 @@ _देवयानीने कहा—_ नहुषनन्दन! ब्�
 
 _ययाति बोले—_ वरांगने! एक ही परमेश्वरके शरीरसे चारों वर्णोंकी उत्पत्ति हुई है; परंतु सबके धर्म और शौचाचार अलग-अलग हैं। ब्राह्मण उन सब वर्णोंमें श्रेष्ठ हैं॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -471,11 +471,6 @@ _देवयानीने कहा—_ नहुषकुमार! ना�
 गृहीतमृषिपुत्रेण स्वयं वाप्यृषिणा त्वया ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -490,15 +485,15 @@ _देवयानीने कहा—_ नहुषकुमार! ना�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रुद्धादाशीविषात्‌ सर्पाज्ज्वलनात्‌ सर्वतोमुखात् ।  
 दुराधर्षतरो विप्रो ज्ञेयः पुंसा विजानता ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -515,15 +510,15 @@ _ययाति बोले—_ देवि! विज्ञ पुरुष�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथमाशीविषात्‌ सर्पाज्ज्वलनात्‌ सर्वतोमुखात् ।  
 दुराधर्षतरो विप्र इत्यात्थ पुरुषर्षभ ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -540,17 +535,17 @@ _देवयानीने कहा—_ पुरुषप्रवर! ब�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकमाशीविषो हन्ति शस्त्रेणैकश्च वध्यते।  
 हन्ति विप्रः सराष्ट्राणि पुराण्यपि हि कोपितः ॥ २५ ॥  
 दुराधर्षतरो विप्रस्तस्माद् भीरु मतो मम।  
 अतोऽदत्तां च पित्रा त्वां भद्रे न विवहाम्यहम् ॥ २६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -567,6 +562,11 @@ _देवयानीने कहा—_ पुरुषप्रवर! ब�
 
 _ययाति बोले—_ भद्रे! सर्प एकको ही मारता है, शस्त्रसे भी एक ही व्यक्तिका वध होता है; परंतु क्रोधमें भरा हुआ ब्राह्मण समस्त राष्ट्र और नगरका भी नाश कर देता है। भीरु! इसलिये मैं ब्राह्मणको अधिक दुर्धर्ष मानता हूँ। अतः जबतक आपके पिता आपको मेरे हवाले न कर दें, तबतक मैं आपसे विवाह नहीं करूँगा॥२५-२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -597,11 +597,6 @@ _देवयानीने कहा—_ राजन्! मैंने आ�
 स्वयंवरे वृतं शीघ्रं निवेदय च नाहुषम्॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -614,6 +609,11 @@ _देवयानीने कहा—_ राजन्! मैंने आ�
 
 धाय! शीघ्र जाओ और मेरे ब्रह्मतुल्य पिताको यहाँ बुला ले आओ। उनसे यह भी कह देना कि देवयानीने स्वयंवरकी विधिसे नहुषनन्दन राजा ययातिका पतिरूपमें वरण किया है।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,11 +643,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 ववन्दे ब्राह्मणं काव्यं प्राञ्जलिः प्रणतः स्थितः ॥ २९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -663,15 +658,15 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजायं नाहुषस्तात दुर्गमे पाणिमग्रहीत्।  
 नमस्ते देहि मामस्मै लोके नान्यं पतिं वृणे ॥ ३० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शुक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -688,15 +683,15 @@ _देवयानी बोली—_ तात! ये नहुषपुत�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शुक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृतोऽनया पतिर्वीर सुतया त्वं ममेष्टया।  
 गृहाणेमां मया दत्तां महिषीं नहुषात्मज ॥ ३१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -713,15 +708,15 @@ _शुक्राचार्यने कहा—_ वीर नहुषन
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधर्मो न स्पृशेदेष महान् मामिह भार्गव।  
 वर्णसंकरजो ब्रह्मन्निति त्वां प्रवृणोम्यहम् ॥ ३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शुक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -736,6 +731,11 @@ _शुक्राचार्यने कहा—_ वीर नहुषन
 
 _ययाति बोले—_ भार्गव ब्रह्मन्! मैं आपसे यह वर माँगता हूँ कि इस विवाहमें यह प्रत्यक्ष दीखनेवाला वर्णसंकरजनित महान् अधर्म मेरा स्पर्श न करे॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शुक्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -804,11 +804,6 @@ _शुक्राचार्यने कहा—_ राजन्! मै�
 वहस्व भार्यां भद्रं ते यथाकाममवाप्स्यसि॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -821,6 +816,11 @@ _शुक्राचार्यने कहा—_ राजन्! मै�
 
 तुम्हारा कल्याण हो। इस शर्मिष्ठाको एकान्तमें बुलाकर न तो इससे बात करना और न इसके शरीरका स्पर्श ही करना। अब तुम विवाह करके इसे अपनी पत्नी बनाओ। इससे तुम्हें इच्छानुसार फलकी प्राप्ति होगी।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -851,11 +851,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 जगाम स्वपुरं हृष्टोऽनुज्ञातोऽथ महात्मना ॥ ३८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत ययात्युपाख्यानविषयक इक्यासीवाँ अध्याय पूरा हुआ॥८१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -874,6 +869,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि ययात्युपाख्याने एकाशीतितमोऽध्यायः ॥ ८१ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत ययात्युपाख्यानविषयक इक्यासीवाँ अध्याय पूरा हुआ॥८१॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

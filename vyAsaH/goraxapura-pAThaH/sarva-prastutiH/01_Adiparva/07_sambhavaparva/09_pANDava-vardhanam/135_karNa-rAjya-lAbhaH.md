@@ -4,18 +4,13 @@ title_full = "135 कर्णका रंगभूमिमें प्रव
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-135p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-135p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-135p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-135p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-135p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-135p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-135p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-135p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "135 कर्णका रंगभूमिमें प्रव
 
 कर्णका रंगभूमिमें प्रवेश तथा राज्याभिषेक
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -277,11 +277,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कर्णं परिष्वज्य मुदा ततो वचनमब्रवीत् ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -296,15 +291,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वागतं ते महाबाहो दिष्ट्या प्राप्तोऽसि मानद।  
 अहं च कुरुराज्यं च यथेष्टमुपभुज्यताम् ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -321,15 +316,15 @@ _दुर्योधन बोला—_ महाबाहो! तुम्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतं सर्वमहं मन्ये सखित्वं च त्वया वृणे।  
 द्वन्द्वयुद्धं च पार्थेन कर्तुमिच्छाम्यहं प्रभो ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -346,15 +341,15 @@ _कर्णने कहा—_ प्रभो! आपने जो कुछ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भुङ्क्ष्व भोगान् मया सार्धं बन्धूनां पियकृद् भव।  
 दुर्हृदां कुरु सर्वेषां मूर्ध्नि पादमरिंदम ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -371,15 +366,15 @@ _दुर्योधन बोला—_ शत्रुदमन! तुम �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्षिप्तमिवात्मानं मत्वा पार्थोऽभ्यभाषत।  
 कर्णं भ्रातृसमूहस्य मध्येऽचलमिव स्थितम् ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -396,15 +391,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाहूतोपसृष्टानामनाहूतोपजल्पिनाम् ।  
 ये लोकास्तान् हतः कर्ण मया त्वं प्रतिपत्स्यसे ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -419,6 +414,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _अर्जुन बोले—_ कर्ण! बिना बुलाये आनेवालों और बिना बुलाये बोलनेवालोंको जो (निन्दनीय) लोक प्राप्त होते हैं, मेरे द्वारा मारे जानेपर तुम उन्हीं लोकोंमें जाओगे॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,11 +447,6 @@ _कर्णने कहा—_ अर्जुन! यह रंगमण्�
 गुरोः समक्षं यावत् ते हराम्यद्य शिरः शरैः ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -464,6 +459,11 @@ _कर्णने कहा—_ अर्जुन! यह रंगमण्�
 
 भारत! आक्षेप करना तो दुर्बलोंका प्रयास है। इससे क्या लाभ है? साहस हो तो बाणोंसे बातचीत करो। मैं आज तुम्हारे गुरुके सामने ही बाणोंद्वारा तुम्हारा सिर धड़से अलग किये देता हूँ॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -696,11 +696,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 वृथाकुलसमाचारैर्न युध्यन्ते नृपात्मजाः ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -715,15 +710,15 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्य कर्णस्य व्रीडावनतमाननम् ।  
 बभौ वर्षाम्बुविक्लिन्नं पद्ममागलितं यथा ॥ ३४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -738,6 +733,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! कृपाचार्यके यों कहनेपर कर्णका मुख लज्जासे नीचेको झुक गया। जैसे वर्षाके पानीसे भींगकर कमल मुरझा जाता है, उसी प्रकार कर्णका मुँह म्लान हो गया॥३४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -766,11 +766,6 @@ _तब दुर्योधनने कहा—_ आचार्य! शा�
 तस्मादेषोऽङ्गविषये मया राज्येऽभिषिच्यते ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -783,6 +778,11 @@ _तब दुर्योधनने कहा—_ आचार्य! शा�
 
 यदि ये अर्जुन राजासे भिन्न पुरुषके साथ रणभूमिमें लड़ना नहीं चाहते तो मैं कर्णको इसी समय अंगदेशके राज्यपर अभिषिक्त करता हूँ॥३६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -849,11 +849,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 हर्षाच्चोभौ समाश्लिष्य परां मुदमवापतुः ॥ ४१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें कर्णके राज्याभिषेकसे सम्बन्ध रखनेवाला एक सौ पैंतीसवाँ अध्याय पूरा हुआ॥१३५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -872,8 +867,14 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि कर्णाभिषेके पञ्चत्रिंशदधिकशततमोऽध्यायः ॥ १३५ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें कर्णके राज्याभिषेकसे सम्बन्ध रखनेवाला एक सौ पैंतीसवाँ अध्याय पूरा हुआ॥१३५॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २ श्लोक मिलाकर कुल ४३ श्लोक हैं)
 </details>
 </details>
+

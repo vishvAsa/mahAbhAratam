@@ -4,12 +4,7 @@ title_full = "036 शेषनागकी तपस्या, ब्रह्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-036.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-036.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,15 +20,15 @@ title_full = "036 शेषनागकी तपस्या, ब्रह्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आख्याता भुजगास्तात वीर्यवन्तो दुरासदाः।  
 शापं तं तेऽभिविज्ञाय कृतवन्तः किमुत्तरम् ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -48,6 +43,11 @@ title_full = "036 शेषनागकी तपस्या, ब्रह्�
 
 _शौनकजीने पूछा—_ तात सूतनन्दन! आपने महापराक्रमी और दुर्धर्ष नागोंका वर्णन किया। अब यह बताइये कि माता कद्रूके उस शापकी बात मालूम हो जानेपर उन्होंने उसके निवारणके लिये आगे चलकर कौन-सा कार्य किया?॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -124,11 +124,6 @@ _उग्रश्रवाजीने कहा—_ शौनक! उन न�
 ब्रूहि कामं च मे शेष यस्ते हृदि व्यवस्थितः॥७॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शेष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -141,6 +136,11 @@ _उग्रश्रवाजीने कहा—_ शौनक! उन न�
 
 ‘अनघ! इस तीव्र तपस्याके द्वारा तुम सम्पूर्ण प्रजावर्गको संतप्त कर रहे हो। शेषनाग! तुम्हारे हृदयमें जो कामना हो वह मुझसे कहो’॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शेष उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -310,11 +310,6 @@ _शेषनाग बोले—_ भगवन्! मेरे सब सह
 भूयो भूयश्च ते बुद्धिर्धर्मे भवतु सुस्थिरा ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शेष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -330,15 +325,15 @@ _शेषनाग बोले—_ भगवन्! मेरे सब सह
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शेष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष एव वरो देव काङ्क्षितो मे पितामह।  
 धर्मे मे रमतां बुद्धिः शमे तपसि चेश्वर ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -353,6 +348,11 @@ _शेषनाग बोले—_ भगवन्! मेरे सब सह
 
 _शेषजीने कहा—_ देव! पितामह! परमेश्वर! मेरे लिये यही अभीष्ट वर है कि मेरी बुद्धि सदा धर्म, मनोनिग्रह तथा तपस्यामें लगी रहे॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -383,11 +383,6 @@ _ब्रह्माजी बोले—_ शेष! तुम्हार�
 संगृह्य तिष्ठस्व यथाचला स्यात् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शेष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -404,17 +399,17 @@ _ब्रह्माजी बोले—_ शेष! तुम्हार�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शेष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाह देवो वरदः प्रजापति-  
 र्महीपतिर्भूतपतिर्जगत्पतिः ।  
 तथा महीं धारयितास्मि निश्चलां  
 प्रयच्छतां मे शिरसि प्रजापते ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -433,17 +428,17 @@ _शेषनागने कहा—_ प्रजापते! आप वर�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधो महीं गच्छ भुजङ्गमोत्तम  
 स्वयं तवैषा विवरं प्रदास्यति।  
 इमां धरां धारयता त्वया हि मे  
 महत् प्रियं शेष कृतं भविष्यति ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -462,17 +457,17 @@ _ब्रह्माजीने कहा—_ नागराज शेष! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथैव कृत्वा विवरं प्रविश्य स  
 प्रभुर्भुवो भुजगवराग्रजः स्थितः ।  
 बिभर्ति देवीं शिरसा महीमिमां  
 समुद्रनेमिं परिगृह्य सर्वतः ॥ २२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -491,17 +486,17 @@ _उग्रश्रवाजी कहते हैं—_ नागराज
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शेषोऽसि नागोत्तम धर्मदेवो  
 महीमिमां धारयसे यदेकः ।  
 अनन्तभोगैः परिगृह्य सर्वां  
 यथाहमेवं बलभिद् यथा वा ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -518,6 +513,11 @@ _उग्रश्रवाजी कहते हैं—_ नागराज
 
 _तदनन्तर ब्रह्माजी बोले—_ नागोत्तम! तुम शेष हो, धर्म ही तुम्हारा आराध्यदेव है, तुम अकेले अपने अनन्त फणोंसे इस सारी पृथ्वीको पकड़कर उसी प्रकार धारण करते हो, जैसे मैं अथवा इन्द्र॥२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -566,11 +566,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! इ�
 अभ्यषिच्यत नागैस्तु दैवतैरिव वासवः॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें शेषनागवृत्तान्त-कथनविषयक छत्तीसवाँ अध्याय पूरा हुआ॥३६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -589,8 +584,14 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! इ�
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि शेषवृत्तकथने षट्त्रिंशोऽध्यायः ॥ ३६ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें शेषनागवृत्तान्त-कथनविषयक छत्तीसवाँ अध्याय पूरा हुआ॥३६॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके १ श्लोक मिलाकर कुल २६ श्लोक हैं)
 </details>
 </details>
+

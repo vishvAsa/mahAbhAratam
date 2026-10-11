@@ -4,18 +4,13 @@ title_full = "120 कुन्तीका पाण्डुको व्यु
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-120p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-120p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-120p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-120p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-120p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-120p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-120p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-120p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "120 कुन्तीका पाण्डुको व्यु
 
 कुन्तीका पाण्डुको व्युषिताश्वके मृत शरीरसे उसकी पतिव्रता पत्नी भद्राके द्वारा पुत्र-प्राप्तिका कथन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,11 +353,6 @@ _वैशम्पायनजी कहते हैं—_ महाराज
 भद्रा परमदुःखार्ता तन्निबोध जनाधिप ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भद्रोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -370,6 +365,11 @@ _वैशम्पायनजी कहते हैं—_ महाराज
 
 ‘नरव्याघ्र जनेश्वर! हमने सुना है कि भद्राके तबतक कोई पुत्र नहीं हुआ था। इस कारण वह अत्यन्त दुःखसे आतुर होकर विलाप करने लगी; वह विलाप सुनिये’॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भद्रोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -548,11 +548,6 @@ _भद्रा बोली—_ परमधर्मज्ञ महारा
 कृपणां चाथ करुणं विलपन्तीं नरेश्वर ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -565,6 +560,11 @@ _भद्रा बोली—_ परमधर्मज्ञ महारा
 
 नरश्रेष्ठ नरेश्वर! करुण विलाप करती हुई मुझ दीन-दुःखिया अबलाको आज अपना दर्शन और कर्तव्यका आदेश दीजिये॥३१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -673,11 +673,6 @@ _कुन्तीने कहा—_ महाराज! इस प्रक�
 शक्तो जनयितुं पुत्रांस्तपोयोगबलान्वितः ॥ ३७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें व्युषिताश्वोपाख्यानविषयक एक सौ बीसवाँ अध्याय पूरा हुआ॥१२०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -695,4 +690,10 @@ _कुन्तीने कहा—_ महाराज! इस प्रक�
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि व्युषिताश्वोपाख्याने विंशत्यधिकशततमोऽध्यायः ॥ १२० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें व्युषिताश्वोपाख्यानविषयक एक सौ बीसवाँ अध्याय पूरा हुआ॥१२०॥
 </details>
+</details>
+

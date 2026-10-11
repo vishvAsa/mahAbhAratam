@@ -3,12 +3,6 @@ title = "०३५ विदुरनीतिवाक्ये"
 title_full = "035 विदुरके द्वारा केशिनीके लिये सुधन्वाके साथ विरोचनके विवादका वर्णन करते हुए धृतराष्ट्रको धर्मोपदेश"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -22,15 +16,15 @@ title_full = "035 विदुरके द्वारा केशिनीक
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रूहि भूयो महाबुद्धे धर्मार्थसहितं वचः।  
 शृण्वतो नास्ति मे तृप्तिर्विचित्राणीह भाषसे ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -45,6 +39,11 @@ title_full = "035 विदुरके द्वारा केशिनीक
 
 _धृतराष्ट्रने कहा—_ महाबुद्धे! तुम पुनः धर्म और अर्थसे युक्त बातें कहो। इन्हें सुनकर मुझे तृप्ति नहीं होती। इस विषयमें तुम विलक्षण बातें कह रहे हो॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -153,11 +152,6 @@ _विदुरजी बोले—_ राजन्! सब तीर्थ�
 प्राप्तुमिच्छंस्ततस्तत्र दैत्येन्द्रं प्राह केशिनी ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-केशिन्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -172,15 +166,15 @@ _विदुरजी बोले—_ राजन्! सब तीर्थ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+केशिन्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं ब्राह्मणाः स्विच्छ्रेयांसो दितिजाः स्विद् विरोचन।  
 अथ केन स्म पर्यङ्कं सुधन्वा नाधिरोहति ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विरोचन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -197,15 +191,15 @@ _केशिनी बोली—_ विरोचन! ब्राह्म�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विरोचन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राजापत्यास्तु वै श्रेष्ठा वयं केशिनि सत्तमाः।  
 अस्माकं खल्विमे लोकाः के देवाः के द्विजातयः ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-केशिन्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -222,15 +216,15 @@ _विरोचनने कहा—_ केशिनी! हम प्रज�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+केशिन्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैवावां प्रतीक्षाव उपस्थाने विरोचन।  
 सुधन्वा प्रातरागन्ता पश्येयं वां समागतौ ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विरोचन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -247,15 +241,15 @@ _केशिनी बोली—_ विरोचन! इसी जगह ह
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विरोचन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा भद्रे करिष्यामि यथा त्वं भीरु भाषसे।  
 सुधन्वानं च मां चैव प्रातर्द्रष्टासि संगतौ ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -270,6 +264,11 @@ _केशिनी बोली—_ विरोचन! इसी जगह ह
 
 _विरोचन बोला—_ कल्याणी! तुम जैसा कहती हो, वही करूँगा। भीरु! प्रातःकाल तुम मुझे और सुधन्वाको एक साथ उपस्थित देखोगी॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -301,11 +300,6 @@ _विदुरजी कहते हैं—_ राजाओंमें �
 प्रत्युत्थायासनं तस्मै पाद्यमर्घ्यं ददौ पुनः ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुधन्वोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -321,15 +315,15 @@ _विदुरजी कहते हैं—_ राजाओंमें �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुधन्वोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्वालभे हिरण्मयं प्राह्रादे ते वरासनम्।  
 एकत्वमुपसम्पन्नो न त्वासेऽहं त्वया सह ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विरोचन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -346,15 +340,15 @@ _सुधन्वा बोला—_ प्रह्लादनन्दन!
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विरोचन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तवार्हते तु फलकं कूर्चं वाप्यथवा बृसी।  
 सुधन्वन् न त्वमर्होऽसि मया सह समासनम् ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुधन्वोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -369,6 +363,11 @@ _सुधन्वा बोला—_ प्रह्लादनन्दन!
 
 _विरोचनने कहा—_ सुधन्वन्! तुम्हारे लिये तो पीढ़ा, चटाई या कुशका आसन उचित है; तुम मेरे साथ बराबरके आसनपर बैठनेयोग्य हो ही नहीं॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुधन्वोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,11 +396,6 @@ _सुधन्वाने कहा—_ विरोचन! पिता औ�
 बालः सुखैधितो गेहे न त्वं किंचन बुध्यसे ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विरोचन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -416,15 +410,15 @@ _सुधन्वाने कहा—_ विरोचन! पिता औ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विरोचन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हिरण्यं च गवाश्वं च यद् वित्तमसुरेषु नः।  
 सुधन्वन् विपणे तेन प्रश्नं पृच्छाव ये विदुः ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुधन्वोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -441,15 +435,15 @@ _विरोचन बोला—_ सुधन्वन्! हम असु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुधन्वोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हिरण्यं च गवाश्वं च तवैवास्तु विरोचन।  
 प्राणयोस्तु पणं कृत्वा प्रश्नं पृच्छाव ये विदुः ॥ १९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विरोचन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -466,15 +460,15 @@ _सुधन्वा बोला—_ विरोचन! सुवर्ण, 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विरोचन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आवां कुत्र गमिष्यावः प्राणयोर्विपणे कृते।  
 न तु देवेष्वहं स्थाता न मनुष्येषु कर्हिचित् ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुधन्वोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -491,15 +485,15 @@ _विरोचनने कहा—_ अच्छा, प्राणों�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुधन्वोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितरं ते गमिष्यावः प्राणयोर्विपणे कृते।  
 पुत्रस्यापि स हेतोर्हि प्रह्रादो नानृतं वदेत् ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -516,15 +510,15 @@ _सुधन्वा बोला—_ प्राणोंकी बाजी
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं कृतपणौ क्रुद्धौ तत्राभिजग्मतुस्तदा।  
 विरोचनसुधन्वानौ प्रह्रादो यत्र तिष्ठति ॥ २२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रह्राद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -539,6 +533,11 @@ _सुधन्वा बोला—_ प्राणोंकी बाजी
 
 _विदुरजी कहते हैं—_ राजन्! इस तरह बाजी लगाकर परस्पर क्रुद्ध हो विरोचन और सुधन्वा दोनों उस समय वहाँ गये, जहाँ प्रह्लाद थे॥२२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रह्राद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -567,11 +566,6 @@ _प्रह्लादने (मन-ही-मन) कहा—_ जो क�
 विरोचनैतत् पृच्छामि किं ते सख्यं सुधन्वना ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विरोचन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -586,15 +580,15 @@ _प्रह्लादने (मन-ही-मन) कहा—_ जो क�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विरोचन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मे सुधन्वना सख्यं प्राणयोर्विपणावहे।  
 प्रह्राद तत्त्वं पृच्छामि मा प्रश्नमनृतं वदेः ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रह्राद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -611,15 +605,15 @@ _विरोचन बोला—_ पिताजी! सुधन्वा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रह्राद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदकं मधुपर्कं वाप्यानयन्तु सुधन्वने।  
 ब्रह्मन्नभ्यर्चनीयोऽसि श्वेता गौः पीवरी कृता ॥ २६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुधन्वोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -636,16 +630,16 @@ _प्रह्लादने कहा—_ सेवको! सुधन्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुधन्वोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदकं मधुपर्कं च पथिष्वेवार्पितं मम।  
 प्रह्राद त्वं तु मे तथ्यं प्रश्नं प्रब्रूहि पृच्छतः।  
 किं ब्राह्मणाः स्विच्छ्रेयांस उताहो स्विद्‌ विरोचनः ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रह्राद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -663,15 +657,15 @@ _सुधन्वा बोला—_ प्रह्लाद! जल और 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रह्राद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्र एको मम ब्रह्मंस्त्वं च साक्षादिहास्थितः।  
 तयोर्विवदतोः प्रश्नं कथमस्मद्विधो वदेत् ॥ २८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुधन्वोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -688,15 +682,15 @@ _प्रह्लाद बोले—_ ब्रह्मन्! मेर�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुधन्वोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गां प्रदद्यास्त्वौरसाय यद्वान्यत् स्यात् प्रियं धनम्।  
 द्वयोर्विवदतोस्तथ्यं वाच्यं च मतिमंस्त्वया ॥ २९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रह्राद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -713,15 +707,15 @@ _सुधन्वा बोला—_ मतिमन्! तुम्हा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रह्राद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ यो नैव प्रब्रूयात् सत्यं वा यदि वानृतम्।  
 एतत्‌ सुधन्वन्‌ पृच्छामि दुर्विवक्ता स्म किं वसेत् ॥ ३० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुधन्वोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -736,6 +730,11 @@ _सुधन्वा बोला—_ मतिमन्! तुम्हा�
 
 _प्रह्लादने कहा—_ सुधन्वन्! अब मैं तुमसे यह बात पूछता हूँ—जो सत्य न बोले अथवा असत्य निर्णय करे, ऐसे दुष्ट वक्ताकी क्या स्थिति होती है?॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुधन्वोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -804,11 +803,6 @@ _सुधन्वा बोला—_ सौतवाली स्त्री
 सर्वं भूम्यनृते हन्ति मा स्म भूम्यनृतं वदेः ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रह्राद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -821,6 +815,11 @@ _सुधन्वा बोला—_ सौतवाली स्त्री
 
 सुवर्णके लिये झूठ बोलनेवाला अपनी भूत और भविष्य सभी पीढ़ियोंको नरकमें गिराता है। पृथ्वी तथा स्त्रीके लिये झूठ कहनेवाला तो अपना सर्वनाश ही कर लेता है; इसलिये तुम भूमि या स्त्रीके लिये कभी झूठ न बोलना॥३४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रह्राद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -849,11 +848,6 @@ _प्रह्लादने कहा—_ विरोचन! सुधन�
 सुधन्वन् पुनरिच्छामि त्वया दत्तं विरोचनम् ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुधन्वोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -866,6 +860,11 @@ _प्रह्लादने कहा—_ विरोचन! सुधन�
 
 विरोचन! अब सुधन्वा तुम्हारे प्राणोंका स्वामी है। सुधन्वन्! अब यदि तुम दे दो तो मैं विरोचनको पाना चाहता हूँ॥३६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुधन्वोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -894,11 +893,6 @@ _सुधन्वा बोला—_ प्रह्लाद! तुमन�
 पादप्रक्षालनं कुर्यात् कुमार्याः संनिधौ मम ॥ ३८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -911,6 +905,11 @@ _सुधन्वा बोला—_ प्रह्लाद! तुमन�
 
 प्रह्लाद! तुम्हारे इस पुत्र विरोचनको मैंने पुनः तुम्हें दे दिया; किंतु अब यह कुमारी केशिनीके निकट चलकर मेरे पैर धोवे॥३८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1698,11 +1697,6 @@ _विदुरजी कहते हैं—_ इसलिये राज�
 पितृवत् त्वयि वर्तन्ते तेषु वर्तस्व पुत्रवत् ॥ ७७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत उद्योगपर्वके अन्तर्गत प्रजागरपर्वमें विदुर-नीतिवाक्यविषयक पैंतीसवाँ अध्याय पूरा हुआ॥३५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1719,6 +1713,11 @@ _विदुरजी कहते हैं—_ इसलिये राज�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते उद्योगपर्वणि प्रजागरपर्वणि विदुरनीतिवाक्ये पञ्चत्रिंशोऽध्यायः ॥ ३५ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत उद्योगपर्वके अन्तर्गत प्रजागरपर्वमें विदुर-नीतिवाक्यविषयक पैंतीसवाँ अध्याय पूरा हुआ॥३५॥
 </details>
 </details>
 

@@ -4,20 +4,15 @@ title_full = "212 अर्जुनके द्वारा ब्राह्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-212p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-212p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-212p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-212p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-212p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-212p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-212p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-212p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-212p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-212p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -32,6 +27,11 @@ title_full = "212 अर्जुनके द्वारा ब्राह्
 
 अर्जुनके द्वारा ब्राह्मणके गोधनकी रक्षाके लिये नियमभंग और वनकी ओर प्रस्थान
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,11 +220,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 रोरूयमाणे च मयि क्रियतामस्त्रधारणम् ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -237,6 +232,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘मुझ ब्राह्मणका धन चोर लिये जा रहे हैं, मेरे गौके न रहनेपर दुग्ध आदि हविष्यके अभावसे धर्म और अर्थका लोप हो रहा है तथा मैं यहाँ आकर रो रहा हूँ। पाण्डवो! (चोरोंको दण्ड देनेके लिये) अस्त्र धारण करो’॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -605,11 +605,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 न हि ते धर्मलोपोऽस्ति न च ते धर्षणा कृता॥३३॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -622,6 +617,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘अतः महाबाहो! मेरी बात मानो; वनवासका विचार छोड़ दो। न तो तुम्हारे धर्मका लोप हुआ है और न तुम्हारे द्वारा मेरा तिरस्कार ही किया गया है’॥३३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -650,11 +650,6 @@ _अर्जुन बोले—_ प्रभो! मैंने आपक�
 भवदाज्ञामृते किंचिन्न कार्यमिति निश्चितम्॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -669,15 +664,15 @@ _अर्जुन बोले—_ प्रभो! मैंने आपक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभ्यनुज्ञाय राजानं वनचर्याय दीक्षितः।  
 वने द्वादश वर्षाणि वासायानुजगाम ह ॥ ३५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अर्जुनवनवासपर्वमें अर्जुनतीर्थयात्राविषयक दो सौ बारहवाँ अध्याय पूरा हुआ॥२१२॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -698,8 +693,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि अर्जुनवनवासपर्वणि अर्जुनतीर्थयात्रायां द्वादशाधिकद्विशततमोऽध्यायः ॥ २१२ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अर्जुनवनवासपर्वमें अर्जुनतीर्थयात्राविषयक दो सौ बारहवाँ अध्याय पूरा हुआ॥२१२॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलकर कुल ३६ श्लोक हैं)
 </details>
 </details>
+

@@ -4,16 +4,11 @@ title_full = "117 राजा पाण्डुके द्वारा म�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-117p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-117p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-117p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-117p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-117p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-117p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "117 राजा पाण्डुके द्वारा म�
 
 राजा पाण्डुके द्वारा मृगरूपधारी मुनिका वध तथा उनसे शापकी प्राप्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -95,11 +95,6 @@ _जनमेजयने कहा—_ भगवन्! आपने धृत�
 तेषामाजननं सर्वं वैशम्पायन कीर्तय ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -112,6 +107,11 @@ _जनमेजयने कहा—_ भगवन्! आपने धृत�
 
 वैशम्पायनजी! वे ऐसे पराक्रम कर दिखाते थे, जो मनुष्योंकी शक्तिके परे हैं; अतः मैं उनके जन्म-सम्बन्धी वृत्तान्तको सम्पूर्णतासे सुनना चाहता हूँ; कृपा करके कहिये॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,11 +180,6 @@ _वैशम्पायनजी बोले—_ जनमेजय! एक �
 क्षणेन पतितो भूमौ विललापाकुलेन्द्रियः ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मृग उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -197,6 +192,11 @@ _वैशम्पायनजी बोले—_ जनमेजय! एक �
 
 वे उस मृगीसे सटे हुए ही मनुष्योंकी-सी बोली बोलते हुए क्षणभरमें पृथ्वीपर गिर पड़े। उनकी इन्द्रियाँ व्याकुल हो गयीं और वे विलाप करने लगे॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मृग उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -229,11 +229,6 @@ _मृगने कहा—_ राजन्! जो मनुष्य का
 कामलोभाभिभूतस्य कथं ते चलिता मतिः ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पाण्डुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -246,6 +241,11 @@ _मृगने कहा—_ राजन्! जो मनुष्य का
 
 भारत! सदा धर्ममें मन लगानेवाले क्षत्रियोंके प्रधान कुलमें तुम्हारा जन्म हुआ है, तो भी काम और लोभके वशीभूत होकर तुम्हारी बुद्धि धर्मसे कैसे विचलित हुई?॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पाण्डुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -296,11 +296,6 @@ _पाण्डु बोले—_ शत्रुओंके वधमें
 अगस्त्यस्याभिचारेण युष्माकं विहितो वधः ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मृग उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -317,15 +312,15 @@ _पाण्डु बोले—_ शत्रुओंके वधमें
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मृग उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न रिपून् वै समुद्दिश्य विमुञ्चन्ति नराः शरान्।  
 रन्ध्र एषां विशेषेण वधः काले प्रशस्यते ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पाण्डुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -342,15 +337,15 @@ _मृगने कहा—_ मनुष्य अपने शत्रु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पाण्डुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमत्तमप्रमत्तं वा विवृत्तं घ्नन्ति चौजसा।  
 उपायैर्विविधैस्तीक्ष्णैः कस्मान्मृग विगर्हसे ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मृग उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -365,6 +360,11 @@ _मृगने कहा—_ मनुष्य अपने शत्रु�
 
 _पाण्डु बोले—_ मृग! राजालोग नाना प्रकारके तीक्ष्ण उपायोंद्वारा बलपूर्वक खुले-आम मृगका वध करते हैं; चाहे वह सावधान हो या असावधान। फिर तुम मेरी निन्दा क्यों करते हो?॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मृग उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,11 +643,6 @@ _मृगने कहा—_ राजन्! मैं अपने मार
 तथा त्वां च सुखं प्राप्तं दुःखमभ्यागमिष्यति ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -662,15 +657,15 @@ _मृगने कहा—_ राजन्! मैं अपने मार
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा सुदुःखार्तो जीवितात् स व्यमुच्यत।  
 मृगः पाण्डुश्च दुःखार्तः क्षणेन समपद्यत ॥ ३४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डुको मृगका शाप नामक एक सौ सत्रहवाँ अध्याय पूरा हुआ॥११७॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -690,4 +685,10 @@ _वैशम्पायनजी कहते हैं—_ यों कह�
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि पाण्डुमृगशापे सप्तदशाधिकशततमोऽध्यायः ॥ ११७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डुको मृगका शाप नामक एक सौ सत्रहवाँ अध्याय पूरा हुआ॥११७॥
 </details>
+</details>
+

@@ -4,22 +4,17 @@ title_full = "058 विदुर और युधिष्ठिरकी ब�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p05.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p05.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p06.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-058p06.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -33,6 +28,11 @@ title_full = "058 विदुर और युधिष्ठिरकी ब�
 
 विदुर और युधिष्ठिरकी बातचीत तथा युधिष्ठिरका हस्तिनापुरमें जाकर सबसे मिलना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -89,11 +89,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 स्ततोऽपृच्छद् धृतराष्ट्रं सपुत्रम् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -112,17 +107,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञायते ते मनसोऽप्रहर्षः  
 कच्चित् क्षत्तः कुशलेनागतोऽसि ।  
 कच्चित् पुत्राः स्थविरस्यानुलोमा  
 वशानुगाश्चापि विशोऽथ कच्चित् ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -139,6 +134,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _युधिष्ठिर बोले—_ विदुरजी! आपका मन प्रसन्न नहीं जान पड़ता। आप कुशलसे तो आये हैं? बूढ़े राजा धृतराष्ट्रके पुत्र उनके अनुकूल चलते हैं न? तथा सारी प्रजा उनके वशमें है न?॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,11 +205,6 @@ _विदुरने कहा—_ राजन्! इन्द्रके �
 नित्यागतोऽहं नृपते तज्जुषस्व ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -226,17 +221,17 @@ _विदुरने कहा—_ राजन्! इन्द्रके �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यूते क्षत्तः कलहो विद्यते नः  
 को वै द्यूतं रोचयेद् बुध्यमानः।  
 किं वा भवान् मन्यते युक्तरूपं  
 भवद्वाक्ये सर्व एव स्थिताः स्म ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -255,17 +250,17 @@ _युधिष्ठिरने पूछा—_ विदुरजी! ज�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानाम्यहं द्यूतमनर्थमूलं  
 कृतश्च यत्नोऽस्य मया निवारणे।  
 राजा च मां प्राहिणोत् त्वत्सकाशं  
 श्रुत्वा विद्वञ्छ्रेय इहाचरस्व ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -284,17 +279,17 @@ _विदुरजीने कहा—_ विद्वन्! मैं ज�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 के तत्रान्ये कितवा दीव्यमाना  
 विना राज्ञो धृतराष्ट्रस्य पुत्रैः।  
 पृच्छामि त्वां विदुर ब्रूहि नस्तान्  
 यैर्दीव्यामः शतशः संनिपत्य ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -313,17 +308,17 @@ _युधिष्ठिरने पूछा—_ विदुरजी! व�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गान्धारराजः शकुनिर्विशाम्पते  
 राजातिदेवी कृतहस्तो मताक्षः ।  
 विविंशतिश्चित्रसेनश्च राजा  
 सत्यव्रतः पुरुमित्रो जयश्च ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -340,6 +335,11 @@ _युधिष्ठिरने पूछा—_ विदुरजी! व�
 
 _विदुरने कहा—_ राजन्! वहाँ गान्धारराज शकुनि है, जो जुएका बहुत बड़ा खिलाड़ी है। वह अपनी इच्छाके अनुसार पासे फेंकनेमें सिद्धहस्त है। उसे द्यूतविद्याके रहस्यका ज्ञान है। उसके सिवा राजा विविंशति, चित्रसेन, राजा सत्यव्रत, पुरुमित्र और जय भी रहेंगे॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -398,11 +398,6 @@ _युधिष्ठिर बोले—_ तब तो वहाँ बड�
 तदाहितं शाश्वतं वै व्रतं मे ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -417,6 +412,11 @@ _युधिष्ठिर बोले—_ तब तो वहाँ बड�
 
 मेरे मनमें जूआ खेलनेकी इच्छा नहीं है। यदि मुझे विजयशील राजा धृतराष्ट्र सभामें न बुलाते, तो मैं शकुनिसे कभी जुआ न खेलता; किंतु बुलानेपर मैं कभी पीछे नहीं हटूँगा। यह मेरा सदाका नियम है॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1117,11 +1117,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सभां रम्यां प्रविविशुः कितवैरभिनन्दिताः ॥ ३८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें युधिष्ठिरसभागमनविषयक अट्ठावनवाँ अध्याय पूरा हुआ॥५८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1140,8 +1135,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि युधिष्ठिरसभागमनेऽष्टपञ्चाशत्तमोऽध्यायः ॥ ५८ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें युधिष्ठिरसभागमनविषयक अट्ठावनवाँ अध्याय पूरा हुआ॥५८॥
+</details>
+
 <details><summary>Misc Detail</summary>
 
 _(दाक्षिणात्य अधिक पाठके २३_  _श्लोक मिलाकर कुल ६१_  _श्लोक हैं)_
 </details>
 </details>
+

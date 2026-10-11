@@ -4,14 +4,9 @@ title_full = "202 भीष्मकी दुर्योधनसे पाण
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-202p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-202p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-202p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-202p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "202 भीष्मकी दुर्योधनसे पाण
 
 भीष्मकी दुर्योधनसे पाण्डवोंको आधा राज्य देनेकी सलाह
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -383,11 +383,6 @@ _भीष्मजी बोले—_ मुझे पाण्डवोंक
 क्षेमं च यदि कर्तव्यं तेषामर्धं प्रदीयताम् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें भीष्मवाक्यविषयक दो सौ दूसरा अध्याय पूरा हुआ॥२०२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -405,4 +400,10 @@ _भीष्मजी बोले—_ मुझे पाण्डवोंक
 
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि भीष्मवाक्ये द्व्यधिकद्विशततमोऽध्यायः ॥ २०२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें भीष्मवाक्यविषयक दो सौ दूसरा अध्याय पूरा हुआ॥२०२॥
 </details>
+</details>
+

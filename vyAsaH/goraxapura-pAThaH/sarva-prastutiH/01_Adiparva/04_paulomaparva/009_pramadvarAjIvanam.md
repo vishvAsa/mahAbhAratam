@@ -4,12 +4,7 @@ title_full = "009 रुरुकी आधी आयुसे प्रमद�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-009.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-009.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "009 रुरुकी आधी आयुसे प्रमद�
 
 रुरुकी आधी आयुसे प्रमद्वराका जीवित होना, रुरुके साथ उसका विवाह, रुरुका सर्पोंको मारनेका निश्चय तथा रुरु-डुण्डुभ-संवाद
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,11 +119,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 देवदूतस्तदाभ्येत्य वाक्यमाह रुरुं वने ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवदूत उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -136,6 +131,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 
 इस प्रकार जब रुरु पत्नीके लिये दुःखित हो अत्यन्त विलाप कर रहा था, उस समय एक देवदूत उसके पास आया और वनमें रुरुसे बोला॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवदूत उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,11 +168,6 @@ _देवदूतने कहा—_ धर्मात्मा रुरु
 तं यदीच्छसि कर्तुं त्वं प्राप्स्यसीह प्रमद्वराम् ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-रुरुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -187,15 +182,15 @@ _देवदूतने कहा—_ धर्मात्मा रुरु
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+रुरुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क उपायः कृतो देवैर्ब्रूहि तत्त्वेन खेचर।  
 करिष्येऽहं तथा श्रुत्वा त्रातुमर्हति मां भवान् ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवदूत उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -212,15 +207,15 @@ _रुरु बोला—_ आकाशचारी देवदूत! द�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवदूत उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयुषोउर्धं प्रयच्छ त्वं कन्यायै भृगुनन्दन।  
 एवमुत्थास्यति रुरो तव भार्या प्रमद्वरा ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-रुरुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -237,15 +232,15 @@ _देवदूतने कहा—_ भृगुनन्दन रुरु
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+रुरुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयुषोऽर्धं प्रयच्छामि कन्यायै खेचरोत्तम।  
 शृङ्गाररूपाभरणा समुत्तिष्ठतु मे प्रिया ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -260,6 +255,11 @@ _देवदूतने कहा—_ भृगुनन्दन रुरु
 
 _रुरु बोला—_ देवश्रेष्ठ! मैं उस कन्याको अपनी आधी आयु देता हूँ। मेरी प्रिया अपने शृंगार, सुन्दर रूप और आभूषणोंके साथ जीवित हो उठे॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -288,11 +288,6 @@ _उग्रश्रवाजी कहते हैं—_ तब गन्�
 समुत्तिष्ठतु कल्याणी मृतैवं यदि मन्यसे ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धर्मराज उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -307,15 +302,15 @@ _उग्रश्रवाजी कहते हैं—_ तब गन्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धर्मराज उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमद्वरां रुरोर्भार्यां देवदूत यदीच्छसि।  
 उत्तिष्ठत्वायुषोऽर्धेन रुरोरेव समन्विता ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -330,6 +325,11 @@ _उग्रश्रवाजी कहते हैं—_ तब गन्�
 
 _धर्मराज बोले—_ देवदूत! यदि तुम रुरुकी भार्या प्रमद्वराको जिलाना चाहते हो तो वह रुरुकी ही आधी आयुसे संयुक्त होकर जीवित हो उठे॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -462,11 +462,6 @@ _उग्रश्रवाजी कहते हैं—_ धर्मरा
 संरम्भाच्च किमर्थं मामभिहंसि रुषान्वितः ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें प्रमद्वराके जीवित होनेसे सम्बन्ध रखनेवाला नवाँ अध्याय पूरा हुआ॥९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -485,8 +480,14 @@ _उग्रश्रवाजी कहते हैं—_ धर्मरा
 इति श्रीमहाभारते आदिपर्वणि पौलोमपर्वणि प्रमद्वराजीवने नवमोऽध्यायः ॥ ९ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें प्रमद्वराके जीवित होनेसे सम्बन्ध रखनेवाला नवाँ अध्याय पूरा हुआ॥९॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलाकर कुल २४ श्लोक हैं)
 </details>
 </details>
+

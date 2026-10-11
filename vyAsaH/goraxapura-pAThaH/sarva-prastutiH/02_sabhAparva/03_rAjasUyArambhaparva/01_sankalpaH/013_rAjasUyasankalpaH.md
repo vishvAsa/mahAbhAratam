@@ -4,20 +4,15 @@ title_full = "013 युधिष्ठिरका राजसूयविष�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-013p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-013p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-013p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-013p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-013p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-013p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-013p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-013p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-013p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-013p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -32,6 +27,11 @@ title_full = "013 युधिष्ठिरका राजसूयविष�
 
 युधिष्ठिरका राजसूयविषयक संकल्प और उसके विषयमें भाइयों, मन्त्रियों, मुनियों तथा श्रीकृष्णसे सलाह लेना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,11 +319,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अनुरक्ताः प्रजा आसन्नागोपाला द्विजातयः ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -337,6 +332,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 राजन्! दसों दिशाओंमें प्रकाशित होनेवाले वे महायशस्वी सम्राट् जिस देशपर अधिकार जमाते, वहाँ ग्वालोंसे लेकर ब्राह्मणोंतक सारी प्रजा उनके प्रति पिता-माताके समान भाव रखकर प्रेम करने लगती थी॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -546,11 +546,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 धौम्यद्वैपायनाद्यैश्च मन्त्रयामास मन्त्रवित् ॥ २९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -566,15 +561,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं या राजसूयस्य सम्राडर्हस्य सुक्रतोः।  
 श्रद्दधानस्य वदतः स्पृहा मे सा कथं भवेत् ॥ ३० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -589,6 +584,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _युधिष्ठिरने कहा—_ महात्माओ! राजसूय नामक उत्तम यज्ञ किसी सम्राट्‌के ही योग्य है, तो भी मैं उसके प्रति श्रद्धा रखने लगा हूँ; अतः आपलोग बताइये, मेरे मनमें जो यह राजसूययज्ञ करनेकी अभिलाषा हुई है, कैसी है?॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -718,11 +718,6 @@ _वैशम्पायनजी कहते हैं—_ कमलनयन
 (स प्रह्वः प्राञ्जलिर्भूत्वा व्यज्ञापयत माधवम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दूत उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -736,16 +731,16 @@ _वैशम्पायनजी कहते हैं—_ कमलनयन
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दूत उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मराजो हृषीकेश धौम्यव्यासादिभिः सह।  
 पाञ्चालमात्स्यसहितैर्भ्रातृभिश्चैव सर्वशः ॥  
 त्वद्दर्शनं महाबाहो काङ्क्षते स युधिष्ठिरः।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -761,6 +756,11 @@ _वैशम्पायनजी कहते हैं—_ कमलनयन
 
 _दूतने कहा—_ महाबाहु हृषीकेश! धर्मराज युधिष्ठिर धौम्य एवं व्यास आदि महर्षियों, द्रुपद और विराट आदि नरेशों तथा अपने समस्त भाइयोंके साथ आपका दर्शन करना चाहते हैं।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -851,11 +851,6 @@ _वैशम्पायनजी कहते हैं—_ दूत इन�
 धर्मराजः समागम्याज्ञापयत् स्वप्रयोजनम् ॥ ४५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -868,6 +863,11 @@ _वैशम्पायनजी कहते हैं—_ दूत इन�
 
 इसके बाद उन्होंने एक उत्तम भवनमें विश्राम किया। थोड़ी देर बाद जब वे मिलनेके योग्य हुए और इसके लिये उन्होंने अवसर निकाल लिया, तब धर्मराज युधिष्ठिरने आकर उनसे अपना सारा प्रयोजन बतलाया॥४५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -976,11 +976,6 @@ _युधिष्ठिर बोले—_ श्रीकृष्ण! म�
 परमं यत् क्षमं लोके यथावद् वक्तुमर्हसि ॥ ५१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें वासुदेवागमनविषयक तेरहवाँ अध्याय पूरा हुआ॥१३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -999,8 +994,14 @@ _युधिष्ठिर बोले—_ श्रीकृष्ण! म�
 इति श्रीमहाभारते सभापर्वणि राजसूयारम्भपर्वणि वासुदेवागमने त्रयोदशोऽध्यायः ॥ १३ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें वासुदेवागमनविषयक तेरहवाँ अध्याय पूरा हुआ॥१३॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २ श्लोक मिलाकर कुल ५३ श्लोक हैं)
 </details>
 </details>
+

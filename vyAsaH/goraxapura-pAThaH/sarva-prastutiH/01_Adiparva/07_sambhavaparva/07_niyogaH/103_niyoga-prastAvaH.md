@@ -4,12 +4,7 @@ title_full = "103 सत्यवतीका भीष्मसे राज्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-103.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-103.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "103 सत्यवतीका भीष्मसे राज्
 
 सत्यवतीका भीष्मसे राज्यग्रहण और संतानोत्पादनके लिये आग्रह तथा भीष्मके द्वारा अपनी प्रतिज्ञा बतलाते हुए उसकी अस्वीकृति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -169,11 +169,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 दारांश्च कुरु धर्मेण मा निमज्जीः पितामहान् ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -186,6 +181,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘राज्यपर अपना अभिषेक करो और भारतीय प्रजाका पालन करते रहो। धर्मके अनुसार विवाह कर लो; पितरोंको नरकमें न गिरने दो’॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,11 +432,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 आपद्धर्मार्थकुशलैर्लोकतन्त्रमवेक्ष्य च ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें भीष्म-सत्यवती-संवादविषयक एक सौ तीनवाँ अध्याय पूरा हुआ॥१०३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -454,4 +449,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि भीष्मसत्यवतीसंवादे त्र्यधिकशततमोऽध्यायः ॥ १०३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें भीष्म-सत्यवती-संवादविषयक एक सौ तीनवाँ अध्याय पूरा हुआ॥१०३॥
 </details>
+</details>
+

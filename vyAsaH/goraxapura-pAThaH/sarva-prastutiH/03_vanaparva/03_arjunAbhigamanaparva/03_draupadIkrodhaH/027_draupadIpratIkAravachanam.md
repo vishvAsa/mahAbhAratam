@@ -4,18 +4,13 @@ title_full = "027 द्रौपदीका युधिष्ठिरसे 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-027-p01.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-027-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-027-p02.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-027-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-027-p03.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-027-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-027-p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-027-p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "027 द्रौपदीका युधिष्ठिरसे 
 
 द्रौपदीका युधिष्ठिरसे उनके शत्रुविषयक क्रोधको उभाड़नेके लिये संतापपूर्ण वचन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -57,11 +57,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अथ कृष्णा धर्मराजमिदं वचनमब्रवीत् ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -74,6 +69,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 पतिव्रता द्रौपदी पाण्डवोंकी प्रिया, दर्शनीया और विदुषी थी। उसने धर्मराजसे इस प्रकार कहा॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -726,11 +726,6 @@ _द्रौपदी बोली—_ राजन्! मैं समझत�
 अप्रियः सर्वभूतानां सोऽमुत्रेह च नश्यति ॥ ४० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्रौपदीके अनुतापपूर्णवचनविषयक सत्ताईसवाँ अध्याय पूरा हुआ॥२७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -747,6 +742,11 @@ _द्रौपदी बोली—_ राजन्! मैं समझत�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि द्रौपदीपरितापवाक्ये सप्तविंशोऽध्यायः ॥ २७ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्रौपदीके अनुतापपूर्णवचनविषयक सत्ताईसवाँ अध्याय पूरा हुआ॥२७॥
 </details>
 </details>
 

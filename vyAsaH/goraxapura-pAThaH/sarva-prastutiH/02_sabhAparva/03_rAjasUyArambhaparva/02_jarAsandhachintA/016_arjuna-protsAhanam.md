@@ -4,12 +4,7 @@ title_full = "016 जरासंधको जीतनेके विषयम
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-016.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-016.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "016 जरासंधको जीतनेके विषयम
 
 जरासंधको जीतनेके विषयमें युधिष्ठिरके उत्साहहीन होनेपर अर्जुनका उत्साहपूर्ण उद्‌गार
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,11 +114,6 @@ _युधिष्ठिर बोले—_ श्रीकृष्ण! म�
 प्रतिहन्ति मनो मेऽद्य राजसूयो दुराहरः ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -134,15 +129,15 @@ _युधिष्ठिर बोले—_ श्रीकृष्ण! म�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पार्थः प्राप्य धनुः श्रेष्ठमक्षय्ये च महेषुधी।  
 रथं ध्वजं सभां चैव युधिष्ठिरमभाषत ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -157,6 +152,11 @@ _युधिष्ठिर बोले—_ श्रीकृष्ण! म�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! कुन्तीनन्दन अर्जुन उत्तम गाण्डीव धनुष, दो अक्षय तूणीर, दिव्य रथ, ध्वजा और सभा प्राप्त कर चुके थे; इससे उत्साहित होकर वे युधिष्ठिरसे बोले॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -363,11 +363,6 @@ _अर्जुनने कहा—_ राजन्! धनुष, शस्
 साम्राज्यं तु भवेच्छक्यं वयं योत्स्यामहे परान् ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें जरासंधवधके लिये मन्त्रणाविषयक सोलहवाँ अध्याय पूरा हुआ॥१६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -385,4 +380,10 @@ _अर्जुनने कहा—_ राजन्! धनुष, शस्
 
 इति श्रीमहाभारते सभापर्वणि राजसूयारम्भपर्वणि जरासंधवधमन्त्रणे षोडशोऽध्यायः ॥ १६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें जरासंधवधके लिये मन्त्रणाविषयक सोलहवाँ अध्याय पूरा हुआ॥१६॥
 </details>
+</details>
+

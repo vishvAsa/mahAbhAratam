@@ -4,16 +4,11 @@ title_full = "036 युधिष्ठिरका भीमसेनको स
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-036p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-036p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-036p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-036p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-036p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-036p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "036 युधिष्ठिरका भीमसेनको स
 
 युधिष्ठिरका भीमसेनको समझाना, व्यासजीका आगमन और युधिष्ठिरको प्रतिस्मृतिविद्याप्रदान तथा पाण्डवोंका पुनः काम्यकवनगमन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -79,11 +79,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भीमसेनमिदं वाक्यमपदान्तरमब्रवीत् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -96,6 +91,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इस प्रकार दो घड़ीतक विचार करनेके पश्चात् अपनेको क्या करना है, इसका निश्चय करके युधिष्ठिरने भीमसेनसे अविलम्ब यह बात कही॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -356,11 +356,6 @@ _युधिष्ठिर बोले—_ महाबाहु भरतक
 अतिसर्वान् धनुर्ग्राहान् सूतपुत्रस्य लाघवम् ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -373,6 +368,11 @@ _युधिष्ठिर बोले—_ महाबाहु भरतक
 
 वृकोदर! सूतपुत्र कर्णके हाथोंकी फुर्ती समस्त धनुर्धरोंसे बढ़-चढ़कर है। उसका स्मरण करके मुझे अच्छी तरह नींद नहीं आती है॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -421,11 +421,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 युधिष्ठिरमिदं वाक्यमुवाच वदतां वरः ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -438,6 +433,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 पाण्डवोंने उठकर उनकी अगवानी की और यथायोग्य पूजन किया। तत्पश्चात् वक्ताओंमें श्रेष्ठ व्यासजी युधिष्ठिरसे इस प्रकार बोले—॥२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,11 +658,6 @@ _व्यासजीने कहा—_ नरश्रेष्ठ महा
 बिभर्षि च बहून् विप्रान् वेदवेदाङ्गपारगान् ॥ ३७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -675,6 +670,11 @@ _व्यासजीने कहा—_ नरश्रेष्ठ महा
 
 ‘यहाँके हिंसक पशुओंके उपयोग—मारनेका काम हो चुका है तथा तुम बहुत-से वेद-वेदांगोंके पारगामी विद्वान् ब्राह्मणोंका भरण-पोषण करते हो (और हवन करते हो), इसलिये यहाँ लता-गुल्म और ओषधियोंका क्षय हो गया है’॥३७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -807,11 +807,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पितृदैवतविप्रेभ्यो निर्वपन्तो यथाविधि ॥ ४५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें काम्यकवनगमनविषयक छत्तीसवाँ अध्याय पूरा हुआ॥३६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -829,4 +824,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि काम्यकवनगमने षट्त्रिंशोऽध्यायः ॥ ३६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें काम्यकवनगमनविषयक छत्तीसवाँ अध्याय पूरा हुआ॥३६॥
 </details>
+</details>
+

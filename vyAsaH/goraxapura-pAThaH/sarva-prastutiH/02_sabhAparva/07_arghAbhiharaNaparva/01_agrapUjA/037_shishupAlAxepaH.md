@@ -4,18 +4,13 @@ title_full = "037 शिशुपालके आक्षेपपूर्ण 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-037-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-037-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-037-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-037-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-037-p03.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-037-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-037-p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शिशुपाल उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-037-p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "037 शिशुपालके आक्षेपपूर्ण 
 
 शिशुपालके आक्षेपपूर्ण वचन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शिशुपाल उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -546,11 +546,6 @@ _शिशुपाल बोला—_ कौरव्य! यहाँ इन 
 निर्ययौ सदसस्तस्मात् सहितो राजभिस्तदा ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अर्घाभिहरणपर्वमें शिशुपालका क्रोधविषयक सैंतीसवाँ अध्याय पूरा हुआ॥३७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -568,4 +563,10 @@ _शिशुपाल बोला—_ कौरव्य! यहाँ इन 
 
 इति श्रीमहाभारते सभापर्वणि अर्घाभिहरणपर्वणि शिशुपालक्रोधे सप्तत्रिंशोऽध्यायः ॥ ३७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अर्घाभिहरणपर्वमें शिशुपालका क्रोधविषयक सैंतीसवाँ अध्याय पूरा हुआ॥३७॥
 </details>
+</details>
+

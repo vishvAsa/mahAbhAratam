@@ -4,14 +4,9 @@ title_full = "010 सहदेवका राजा विराटके स�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-010p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-010p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-010p2.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-010p2.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "010 सहदेवका राजा विराटके स�
 
 सहदेवका राजा विराटके साथ वार्तालाप और गौओंकी देखभालके लिये उनकी नियुक्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -119,11 +119,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 न च त्वदन्यो मम रोचते नृपः ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विराट उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -142,6 +137,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 शत्रुओंको संताप देनेवाले राजा विराटके निकट पहुँचकर सहदेव मेघोंकी घनघोर घटाके समान गम्भीर स्वरमें बोले—‘महाराज! मैं वैश्य हूँ। मेरा नाम अरिष्टनेमि है। नृपश्रेष्ठ! मैं कुरुवंशशिरोमणि पाण्डवोंके यहाँ गौओंकी गणना तथा देखभाल करता रहा हूँ। अब आपके यहाँ रहना चाहता हूँ; क्योंकि राजाओंमें सिंहके समान पाण्डव कहाँ हैं? यह मैं नहीं जानता। बिना काम किये जीविका चल नहीं सकती और आपके सिवा दूसरा कोई राजा मुझे पसंद नहीं है’॥५-६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विराट उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -176,11 +176,6 @@ _विराटने कहा—_ शत्रुतापन! मुझे �
 वदस्व किं चापि तवेह वेतनम् ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सहदेव उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -195,6 +190,11 @@ _विराटने कहा—_ शत्रुतापन! मुझे �
 
 तुम किस राजाके राज्यसे यहाँ आये हो? और तुमने किस कलाकी शिक्षा प्राप्त की है? बोलो, हमारे यहाँ कैसे सदा रह सकोगे? और यहाँ तुम्हारा वेतन क्या होगा?॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सहदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,11 +253,6 @@ _सहदेव बोले—_ राजन्! पाँचों पाण�
 येषां मूत्रमुपाघ्राय अपि वन्ध्या प्रसूयते ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विराट उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -278,17 +273,17 @@ _सहदेव बोले—_ राजन्! पाँचों पाण�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विराट उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतं सहस्राणि समाहितानि  
 सवर्णवर्णस्य विमिश्रितान् गुणैः ।  
 पशून् सपालान् भवते ददाम्यहं  
 त्वदाश्रया मे पशवो भवन्त्विह ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशाम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -307,17 +302,17 @@ _विराटने कहा—_ तन्तिपाल! मेरे य�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशाम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा स राज्ञोऽविदितो विशाम्पते-  
 रुवास तत्रैव सुखं नरोत्तमः।  
 न चैनमन्येऽपि विदुः कथंचन  
 प्रादाच्च तस्मै भरणं यथेप्सितम् ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें सहदेवप्रवेशविषयक दसवाँ अध्याय पूरा हुआ॥१०॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -339,4 +334,10 @@ _वैशम्पायनजी कहते हैं—_ इस प्र�
 
 इति श्रीमहाभारते विराटपर्वणि पाण्डवप्रवेशपर्वणि सहदेवप्रवेशे दशमोऽध्यायः ॥ १० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें सहदेवप्रवेशविषयक दसवाँ अध्याय पूरा हुआ॥१०॥
 </details>
+</details>
+

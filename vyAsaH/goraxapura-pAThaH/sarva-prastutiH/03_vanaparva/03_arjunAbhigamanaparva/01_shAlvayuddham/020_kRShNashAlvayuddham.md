@@ -4,14 +4,9 @@ title_full = "020 श्रीकृष्ण और शाल्वका भ�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-020-p1.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-020-p1.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-020-p2.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-020-p2.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "020 श्रीकृष्ण और शाल्वका भ�
 
 श्रीकृष्ण और शाल्वका भीषण युद्ध
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -722,11 +722,6 @@ _भगवान् श्रीकृष्ण कहते हैं—_ र�
 लब्धालोकस्तु राजेन्द्र पुनः शत्रुमयोधयम् ॥ ४१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक बीसवाँ अध्याय पूरा हुआ॥२०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -745,4 +740,10 @@ _भगवान् श्रीकृष्ण कहते हैं—_ र�
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि सौभवधोपाख्याने विंशोऽध्यायः ॥ २० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक बीसवाँ अध्याय पूरा हुआ॥२०॥
 </details>
+</details>
+

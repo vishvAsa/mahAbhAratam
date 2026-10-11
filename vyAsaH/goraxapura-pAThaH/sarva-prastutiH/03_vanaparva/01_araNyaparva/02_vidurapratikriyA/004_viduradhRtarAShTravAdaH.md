@@ -4,14 +4,9 @@ title_full = "004 विदुरजीका धृतराष्ट्रक�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-004-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-004-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-004-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-004-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,17 +22,17 @@ title_full = "004 विदुरजीका धृतराष्ट्रक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनं प्रविष्टेष्वथ पाण्डवेषु  
 प्रज्ञाचक्षुस्तप्यमानोऽम्बिकेयः ।  
 धर्मात्मानं विदुरमगाधबुद्धिं  
 सुखासीनो वाक्यमुवाच राजा ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -54,6 +49,11 @@ title_full = "004 विदुरजीका धृतराष्ट्रक�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! जब पाण्डव वनमें चले गये, तब प्रज्ञाचक्षु अम्बिकानन्दन राजा धृतराष्ट्र मन-ही-मन संतप्त हो उठे। उन्होंने अगाधबुद्धि धर्मात्मा विदुरको बुलाकर स्वयं सुखद आसनपर बैठे हुए उनसे इस प्रकार कहा॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,11 +88,6 @@ _धृतराष्ट्र बोले—_ विदुर! तुम्�
 स्तत्त्वं ब्रूयाः साधुकार्याणि वेत्सि ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -107,6 +102,11 @@ _धृतराष्ट्र बोले—_ विदुर! तुम्�
 
 विदुर! ऐसी दशामें अब हमारा जो कर्तव्य हो वह बताओ। ये पुरवासी कैसे हमलोगोंसे प्रेम करेंगे। तुम ऐसा कोई उपाय बताओ जिससे वे पाण्डव हमलोगोंको जड़-मूलसहित उखाड़ न फेंके। तुम अच्छे कार्योंको जानते हो। अतः हमें ठीक-ठीक कर्तव्यका निर्देश करो॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -411,11 +411,6 @@ _विदुरजीने कहा—_ नरेन्द्र! धर्�
 मेतत्‌ कृत्वा कृतकृत्योऽसि राजन् ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -428,6 +423,11 @@ _विदुरजीने कहा—_ नरेन्द्र! धर्�
 
 कुरुराज! आपने हितकी बात पूछी है तो मैं इसके सिवा और क्या बताऊँ। यह सब कर लेनेपर आप कृतकृत्य हो जायँगे॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,11 +510,6 @@ _धृतराष्ट्रने कहा—_ विदुर! तुम�
 सुसान्त्व्यमानाप्यसती स्त्री जहाति ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -531,17 +526,17 @@ _धृतराष्ट्रने कहा—_ विदुर! तुम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतावदुक्त्वा धृतराष्ट्रोऽन्वपद्य-  
 दन्तर्वेश्म सहसोत्थाय राजन् ।  
 नेदमस्तीत्यथ विदुरो भाषमाणः  
 सम्प्राद्रवद् यत्र पार्था बभूवुः ॥ २२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें विदुरवाक्यप्रत्याख्यान-विषयक चौथा अध्याय पूरा हुआ॥४॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -563,4 +558,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि अरण्यपर्वणि विदुरवाक्यप्रत्याख्याने चतुर्थोऽध्यायः ॥ ४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें विदुरवाक्यप्रत्याख्यान-विषयक चौथा अध्याय पूरा हुआ॥४॥
 </details>
+</details>
+

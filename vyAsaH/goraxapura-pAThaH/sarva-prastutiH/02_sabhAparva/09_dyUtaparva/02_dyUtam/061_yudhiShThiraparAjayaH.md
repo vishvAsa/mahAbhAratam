@@ -4,16 +4,11 @@ title_full = "061 जूएमें शकुनिके छलसे प्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-061-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-061-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-061-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-061-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-061-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-061-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "061 जूएमें शकुनिके छलसे प्�
 
 जूएमें शकुनिके छलसे प्रत्येक दाँवपर युधिष्ठिरकी हार
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -56,11 +56,6 @@ _युधिष्ठिरने कहा—_ शकुने! तुमन�
 एतद् राजन् मम धनं तेन दीव्याम्यहं त्वया ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -76,15 +71,15 @@ _युधिष्ठिरने कहा—_ शकुने! तुमन�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौरवाणां कुलकरं ज्येष्ठं पाण्डवमच्युतम्।  
 इत्युक्तः शकुनिः प्राह जितमित्येव तं नृपम् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -101,6 +96,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं सहस्रसमितो वैयाघ्रः सुप्रतिष्ठितः।  
@@ -110,11 +110,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अष्टौ यं कुररच्छायाः सदश्वा राष्ट्रसम्मताः ॥ ५ ॥  
 वहन्ति नैषां मुच्येत पदाद् भूमिमुपस्पृशन्।  
 एतद् राजन् धनं मह्यं तेन दीव्याम्यहं त्वया ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -136,15 +131,15 @@ _युधिष्ठिरने कहा—_ यह जो परमान�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं श्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -161,6 +156,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतं दासीसहस्राणि तरुण्यो हेमभद्रिकाः।  
@@ -170,11 +170,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अनुसेवां चरन्तीमाः कुशला नृत्यसामसु।  
 स्नातकानाममात्यानां राज्ञां च मम शासनात्।  
 एतद् राजन् मम धनं तेन दीव्याम्यहं त्वया ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -196,15 +191,15 @@ _युधिष्ठिरने कहा—_ मेरे पास एक �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -219,6 +214,11 @@ _युधिष्ठिरने कहा—_ मेरे पास एक �
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! यह सुनकर कपटी शकुनिने पुनः जीतका निश्चय करके पासे फेंके और युधिष्ठिरसे कहा—‘यह दाँव भी मैंने ही जीता’॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,11 +248,6 @@ _युधिष्ठिरने कहा—_ दासियोंकी त
 एतद् राजन् मम धनं तेन दीव्याम्यहं त्वया ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -268,15 +263,15 @@ _युधिष्ठिरने कहा—_ दासियोंकी त
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -291,6 +286,11 @@ _युधिष्ठिरने कहा—_ दासियोंकी त
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! यह सुनकर पुनः शठताका आश्रय लेनेवाले शकुनिने अपनी ही जीतका निश्चय करके युधिष्ठिरसे कहा—‘लो, यह दाँव भी मैंने जीत लिया’॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,11 +339,6 @@ _युधिष्ठिरने कहा—_ सुबलकुमार! �
 एतद् राजन् मम धनं तेन दीव्याम्यहं त्वया ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -358,15 +353,15 @@ _युधिष्ठिरने कहा—_ सुबलकुमार! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवंवादिनं पार्थं प्रहसन्निव सौबलः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -383,6 +378,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथास्तावन्त एवेमे हेमदण्डाः पताकिनः।  
@@ -390,11 +390,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 एकैको ह्यत्र लभते सहस्रपरमां भृतिम्।  
 युध्यतोऽयुध्यतो वापि वेतनं मासकालिकम्।  
 एतद् राजन् मम धनं तेन दीव्याम्यहं त्वया ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -414,15 +409,15 @@ _युधिष्ठिरने कहा—_ मेरे पास उत�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्ते वचने कृतवैरो दुरात्मवान्।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -439,17 +434,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वांस्तित्तिरिकल्माषान् गान्धर्वान् हेममालिनः ।  
 ददौ चित्ररथस्तुष्टो यांस्तान् गाण्डीवधन्वने ॥ २२ ॥  
 युद्धे जितः पराभूतः प्रीतिपूर्वमरिंदमः।  
 एतद् राजन् मम धनं तेन दीव्याम्यहं त्वया ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -468,15 +463,15 @@ _युधिष्ठिरने कहा—_ मेरे यहाँ त�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -491,6 +486,11 @@ _युधिष्ठिरने कहा—_ मेरे यहाँ त�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! यह सुनकर छलका आश्रय लेनेवाले शकुनिने पुनः अपनी ही जीतका निश्चय करके युधिष्ठिरसे कहा—‘यह दाँव भी मैंने ही जीता है’॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,11 +540,6 @@ _युधिष्ठिरने कहा—_ मेरे पास दस �
 एतद् राजन् मम धनं तेन दीव्याम्यहं त्वया ॥ २७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -560,15 +555,15 @@ _युधिष्ठिरने कहा—_ मेरे पास दस �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ २८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -585,17 +580,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताम्रलोहैः परिवृता निधयो ये चतुःशताः।  
 पञ्चद्रौणिक एकैकः सुवर्णस्याहतस्य वै ॥ २९ ॥  
 जातरूपस्य मुख्यस्य अनर्घेयस्य भारत।  
 एतद् राजन् मम धनं तेन दीव्याम्यहं त्वया ॥ ३० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -614,15 +609,15 @@ _युधिष्ठिरने कहा—_ मेरे पास ता�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ ३१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें द्यूतक्रीड़ाविषयक इकसठवाँ अध्याय पूरा हुआ॥६१॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -641,6 +636,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि देवने एकषष्टितमोऽध्यायः ॥ ६१ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें द्यूतक्रीड़ाविषयक इकसठवाँ अध्याय पूरा हुआ॥६१॥
 </details>
 </details>
 

@@ -4,22 +4,17 @@ title_full = "037 अर्जुनका सब भाई आदिसे म�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p05.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p06.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-037p06.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -35,6 +30,11 @@ title_full = "037 अर्जुनका सब भाई आदिसे म�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यचित् त्वथ कालस्य धर्मराजो युधिष्ठिरः।  
@@ -43,11 +43,6 @@ title_full = "037 अर्जुनका सब भाई आदिसे म�
 सान्त्वपूर्वं स्मितं कृत्वा पाणिना परिसंस्पृशन् ॥ २ ॥  
 स मुहूर्तमिव ध्यात्वा वनवासमरिंदमः।  
 धनंजयं धर्मराजो रहसीदमुवाच ह ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -66,6 +61,11 @@ title_full = "037 अर्जुनका सब भाई आदिसे म�
 
 _वैशम्पायनजी कहते हैं—_ नरश्रेष्ठ जनमेजय! कुछ कालके अनन्तर धर्मराज युधिष्ठिरको व्यासजीके संदेशका स्मरण हो आया। तब उन्होंने परम बुद्धिमान् अर्जुनसे एकान्तमें वार्तालाप किया। शत्रुओंका दमन करनेवाले धर्मराज युधिष्ठिरने दो घड़ीतक वनवासके विषयमें चिन्तन करके किंचित् मुसकराते हुए अर्जुनके शरीरको हाथसे स्पर्श किया और एकान्तमें उन्हें सान्त्वना देते हुए इस प्रकार कहा॥१—३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,11 +247,6 @@ _युधिष्ठिरने कहा—_ भारत! आजकल प�
 दीक्षितोऽद्यैव गच्छ त्वं द्रष्टुं देव पुरंदरम्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -265,6 +260,11 @@ _युधिष्ठिरने कहा—_ भारत! आजकल प�
 
 वे सब दिव्यास्त्र एक ही स्थानमें हैं, तुम उन्हें वहींसे प्राप्त कर लोगे; अतः तुम इन्द्रकी ही शरण लो। वही तुम्हें सब अस्त्र प्रदान करेंगे। आज ही दीक्षा ग्रहण करके तुम देवराज इन्द्रके दर्शनकी इच्छासे यात्रा करो॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,11 +365,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 मनांस्यादाय सर्वेषां कृष्णा वचनमब्रवीत्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कृष्णोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -382,6 +377,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 शालवृक्षके समान कंधे और जाँघोंसे सुशोभित वीर अर्जुनको इस प्रकार सबके चित्तको चुराकर प्रस्थान करते देख द्रौपदी इस प्रकार बोली॥२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कृष्णोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -545,11 +545,6 @@ _द्रौपदीने कहा—_ कुन्तीकुमार म
 दिव्येभ्यश्चैव भूतेभ्यो ये चान्ये परिपन्थिनः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -565,6 +560,11 @@ _द्रौपदीने कहा—_ कुन्तीकुमार म
 
 आप बड़े भाईका आदर करनेवाले हैं, उनकी आज्ञाके पालक हैं। भरतश्रेष्ठ! मैं आपकी शान्तिके लिये वसु, रुद्र, आदित्य, मरुद्‌गण, विश्वेदेव तथा साध्य देवताओंकी शरण लेती हूँ। भारत! भौम, आन्तरिक्ष तथा दिव्य भूतोंसे और दूसरे भी जो मार्गमें विघ्न डालनेवाले प्राणी हैं, उन सबसे आपका कल्याण हो॥३४-३५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -969,11 +969,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 अर्जुनोऽप्यथ तत्रैव तस्थौ योगसमन्वितः ॥ ५९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें इन्द्रदर्शनविषयक सैंतीसवाँ अध्याय पूरा हुआ॥३७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -991,4 +986,10 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि इन्द्रदर्शने सप्तत्रिंशोऽध्यायः ॥ ३७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें इन्द्रदर्शनविषयक सैंतीसवाँ अध्याय पूरा हुआ॥३७॥
 </details>
+</details>
+

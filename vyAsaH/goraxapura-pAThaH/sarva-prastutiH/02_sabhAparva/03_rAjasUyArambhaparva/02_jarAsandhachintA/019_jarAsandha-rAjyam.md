@@ -4,12 +4,7 @@ title_full = "019 चण्डकौशिक मुनिके द्वार
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-019.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीकृष्ण उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-019.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "019 चण्डकौशिक मुनिके द्वार
 
 चण्डकौशिक मुनिके द्वारा जरासंधका भविष्यकथन तथा पिताके द्वारा उसका राज्याभिषेक करके वनमें जाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीकृष्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -345,11 +345,6 @@ _श्रीकृष्ण कहते हैं—_ राजन्! कु�
 जरासंधः स्ववीर्येण पार्थिवानकरोद् वशे ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -362,6 +357,11 @@ _श्रीकृष्ण कहते हैं—_ राजन्! कु�
 
 महाराज! दोनों माताओं और पिताके वनवासी हो जानेपर जरासंधने अपने पराक्रमसे समस्त राजाओंको वशमें कर लिया॥१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,11 +514,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 वृष्णिभिश्च महाराज नीतिहेतोरुपेक्षितः ॥ २८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें जरासंधप्रशंसाविषयक उन्नीसवाँ अध्याय पूरा हुआ॥१९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -536,4 +531,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि राजसूयारम्भपर्वणि जरासंधप्रशंसायामेकोनविंशतितमोऽध्यायः ॥ १९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें जरासंधप्रशंसाविषयक उन्नीसवाँ अध्याय पूरा हुआ॥१९॥
 </details>
+</details>
+

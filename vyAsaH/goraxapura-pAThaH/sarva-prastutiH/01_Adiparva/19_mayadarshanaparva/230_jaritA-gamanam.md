@@ -4,14 +4,9 @@ title_full = "230 जरिता और उसके बच्चोंका �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-230p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-230p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-230p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरितोवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-230p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,15 +22,15 @@ title_full = "230 जरिता और उसके बच्चोंका �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरितोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्माद् बिलान्निष्पतितमाखुं श्येनो जहार तम्।  
 क्षुद्रं पद्भ्यां गृहीत्वा च यातो नात्र भयं हि वः॥१॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शाङ्‌र्गका ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -50,6 +45,11 @@ title_full = "230 जरिता और उसके बच्चोंका �
 
 _जरिताने कहा—_ बच्चो! चूहा इस बिलसे निकला था, उस समय उसे बाज उठा ले गया; उस छोटेसे चूहेको वह अपने दोनों पंजोंसे पकड़कर उड़ गया। अतः अब इस बिलमें तुम्हारे लिये भय नहीं है॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शाङ्‌र्गका ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -98,11 +98,6 @@ _शाङ्‌र्गक बोले—_ हम किसी तरह य�
 चर खे त्वं यथान्यायं पुत्रानाप्स्यसि शोभनान् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरितोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -115,6 +110,11 @@ _शाङ्‌र्गक बोले—_ हम किसी तरह य�
 
 माँ! संशयरहित मृत्युसे संशययुक्त मृत्यु अच्छी है (क्योंकि उसमें बच जानेकी भी आशा होती है); अतः तुम आकाशमें उड़ जाओ। तुम्हें फिर (धर्मानुकूल रीतिसे) सुन्दर पुत्रोंकी प्राप्ति हो जायगी॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरितोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -187,11 +187,6 @@ _जरिताने कहा—_ बच्चो! जब पक्षिय�
 श्येनेन मम पश्यन्त्या हृत आखुर्महात्मना ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शाङ्‌र्गका ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -206,15 +201,15 @@ _जरिताने कहा—_ बच्चो! जब पक्षिय�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शाङ्‌र्गका ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न विद्महे हृतं मातः श्येनेनाखुं कथंचन।  
 अविज्ञाय न शक्यामः प्रवेष्टुं विवरं भुवः ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरितोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -231,15 +226,15 @@ _शाङ्‌र्गका बोले—_ माँ! बाजने च�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरितोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं तमभिजानामि हृतं श्येनेन मूषिकम्।  
 नास्ति वोऽत्र भयं पुत्राः क्रियतां वचनं मम ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शाङ्‌र्गका ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -254,6 +249,11 @@ _शाङ्‌र्गका बोले—_ माँ! बाजने च�
 
 _जरिताने कहा—_ बेटो! मैं जानती हूँ, बाजने अवश्य चूहेको पकड़ लिया। तुमलोग मेरी बात मानो। इस बिलमें तुम्हें कोई भय नहीं है॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शाङ्‌र्गका ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,11 +322,6 @@ _शाङ्‌र्गका बोले—_ माँ! तुम झूठ�
 अथास्मान् न दहेदग्निरायास्त्वं पुनरेव नः ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -339,6 +334,11 @@ _शाङ्‌र्गका बोले—_ माँ! तुम झूठ�
 
 हम आगमें जलकर उत्तम लोक प्राप्त करेंगे और यदि अग्निने हमें नहीं जलाया तो तुम फिर हमारे पास चली आना॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -387,11 +387,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 जरितारिस्ततो वाक्यं श्रावयामास पावकम् ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें शाङ्‌र्गकोपाख्यानविषयक दो सौ तीसवाँ अध्याय पूरा हुआ॥२३०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -409,4 +404,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि मयदर्शनपर्वणि शार्ङ्गकोपाख्याने त्रिंशदधिकद्विशततमोऽध्यायः ॥ २३० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें शाङ्‌र्गकोपाख्यानविषयक दो सौ तीसवाँ अध्याय पूरा हुआ॥२३०॥
 </details>
+</details>
+

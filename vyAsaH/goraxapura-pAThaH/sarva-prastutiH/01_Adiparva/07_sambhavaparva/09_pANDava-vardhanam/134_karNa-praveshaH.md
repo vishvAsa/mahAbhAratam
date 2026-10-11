@@ -4,20 +4,15 @@ title_full = "134 भीमसेन, दुर्योधन तथा अर�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-134p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-134p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-134p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-134p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-134p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-134p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-134p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-134p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-134p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-134p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "134 भीमसेन, दुर्योधन तथा अर�
 
 भीमसेन, दुर्योधन तथा अर्जुनके द्वारा अस्त्र-कौशलका प्रदर्शन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -79,11 +79,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भारद्वाजः प्रियं पुत्रमश्वत्थामानमब्रवीत् ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -98,15 +93,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारयैतौ महावीर्यौ कृतयोग्यावुभावपि ।  
 मा भूद् रङ्गप्रकोपोऽयं भीमदुर्योधनोद्भवः ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -121,6 +116,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _द्रोण बोले—_ वत्स! ये दोनों महापराक्रमी वीर अस्त्र-विद्यामें अत्यन्त अभ्यस्त हैं। तुम इन दोनोंको युद्धसे रोको, जिससे भीमसेन और दुर्योधनको लेकर रंगभूमिमें सब ओर क्रोध न फैल जाय॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -287,11 +287,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सहसैवोत्थितो रङ्गे भिन्दन्निव नभस्तलम् ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -306,15 +301,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष पार्थो महाराज फाल्गुनः पाण्डुनन्दनः।  
 अवतीर्णः सकवचस्तत्रैष सुमहास्वनः ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -331,15 +326,15 @@ _विदुरने कहा—_ महाराज! ये पाण्ड�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्योऽस्म्यनुगृहीतोऽस्मि रक्षितोऽस्मि महामते ।  
 पृथारणिसमुद्भूतैस्त्रिभिः पाण्डववह्निभिः ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -354,6 +349,11 @@ _विदुरने कहा—_ महाराज! ये पाण्ड�
 
 _धृतराष्ट्र बोले—_ महामते! कुन्तीरूपी अरणिसे प्रकट हुए इन तीनों पाण्डवरूपी अग्नियोंसे मैं धन्य हो गया। इन तीनोंके द्वारा मैं सर्वथा अनुगृहीत और सुरक्षित हूँ॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -594,11 +594,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पुरन्दरो देवगणैः समावृतः ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें अस्त्रदर्शनविषयक एक सौ चौंतीसवाँ अध्याय पूरा हुआ॥१३४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -621,8 +616,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि अस्त्रदर्शने चतुस्त्रिंशदधिकशततमोऽध्यायः ॥ १३४ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें अस्त्रदर्शनविषयक एक सौ चौंतीसवाँ अध्याय पूरा हुआ॥१३४॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके १ श्लोक मिलाकर कुल ३३ श्लोक हैं)
 </details>
 </details>
+

@@ -4,12 +4,7 @@ title_full = "044 अर्जुनको अस्त्र और संग�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-044.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-044.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "044 अर्जुनको अस्त्र और संग�
 
 अर्जुनको अस्त्र और संगीतकी शिक्षा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -235,11 +235,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भ्रातॄन् स्मरन् मातरं चैव कुन्तीम् ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत इन्द्रलोकाभिगमनपर्वमें अर्जुनकी अस्त्रादिशिक्षासे सम्बन्ध रखनेवाला चौवालीसवाँ अध्याय पूरा हुआ॥४४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -259,4 +254,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि इन्द्रलोकाभिगमनपर्वणि चतुश्चत्वारिंशोऽध्यायः ॥ ४४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत इन्द्रलोकाभिगमनपर्वमें अर्जुनकी अस्त्रादिशिक्षासे सम्बन्ध रखनेवाला चौवालीसवाँ अध्याय पूरा हुआ॥४४॥
 </details>
+</details>
+

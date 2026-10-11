@@ -4,12 +4,7 @@ title_full = "021 समुद्रका विस्तारसे वर्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सुदर्शनः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-021.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="सुदर्शनः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-021.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "021 समुद्रका विस्तारसे वर्
 
 समुद्रका विस्तारसे वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -359,11 +359,6 @@ _उग्रश्रवाजी कहते हैं—_ तपोधन! �
 तेऽगाधं निधिमुरुमम्भसामनन्तम् ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरितके प्रसंगमें इक्कीसवाँ अध्याय पूरा हुआ॥२१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -383,4 +378,10 @@ _उग्रश्रवाजी कहते हैं—_ तपोधन! �
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे एकविंशोऽध्यायः ॥ २१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरितके प्रसंगमें इक्कीसवाँ अध्याय पूरा हुआ॥२१॥
 </details>
+</details>
+

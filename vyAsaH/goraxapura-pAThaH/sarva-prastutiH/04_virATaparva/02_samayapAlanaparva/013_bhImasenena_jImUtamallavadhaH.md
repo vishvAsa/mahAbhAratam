@@ -4,14 +4,9 @@ title_full = "013 भीमसेनके द्वारा जीमूत �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-013p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-013p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-013p2.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-013p2.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -28,15 +23,15 @@ title_full = "013 भीमसेनके द्वारा जीमूत �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ते मत्स्यनगरे प्रच्छन्नाः कुरुनन्दनाः।  
 अत ऊर्ध्वं महावीर्याः किमकुर्वत वै द्विज ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -51,6 +46,11 @@ title_full = "013 भीमसेनके द्वारा जीमूत �
 
 _जनमेजयने पूछा—_ ब्रह्मन्! इस प्रकार मत्स्यदेशकी राजधानीमें गुप्तरूपसे निवास करनेवाले महापराक्रमी पाण्डुपुत्रोंने इसके बाद क्या किया?॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -801,11 +801,6 @@ _प्रकर्षणाकर्षणयोरभ्याकर्षव�
 कर्माणि तस्य कुर्वाणा विराटनृपतेस्तदा ॥ ४६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत समयपालनपर्वमें जीमूतवधसम्बन्धी तेरहवाँ अध्याय पूरा हुआ॥१३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -822,6 +817,11 @@ _प्रकर्षणाकर्षणयोरभ्याकर्षव�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते विराटपर्वणि समयपालनपर्वणि जीमूतवधे त्रयोदशोऽध्यायः ॥ १३ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत समयपालनपर्वमें जीमूतवधसम्बन्धी तेरहवाँ अध्याय पूरा हुआ॥१३॥
 </details>
 </details>
 

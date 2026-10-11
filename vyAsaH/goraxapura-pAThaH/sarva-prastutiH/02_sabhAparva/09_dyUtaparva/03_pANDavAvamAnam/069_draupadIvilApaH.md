@@ -4,16 +4,11 @@ title_full = "069 द्रौपदीका चेतावनीयुक्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-069-p01.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-069-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-069-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-069-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "069 द्रौपदीका चेतावनीयुक्�
 
 द्रौपदीका चेतावनीयुक्त विलाप एवं भीष्मका वचन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -55,11 +55,6 @@ _द्रौपदी बोली—_ हाय! मेरा जो कार
 न मे स्यादपराधोऽयं यदिदं न कृतं मया ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -74,15 +69,15 @@ _द्रौपदी बोली—_ हाय! मेरा जो कार
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तेन च समाधूता दुःखेन च तपस्विनी।  
 पतिता विललापेदं सभायामतथोचिता ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -97,6 +92,11 @@ _द्रौपदी बोली—_ हाय! मेरा जो कार
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! दुशासनके बार-बार खींचनेसे तपस्विनी द्रौपदी पृथ्वीपर गिर पड़ी और उस सभामें अत्यन्त दुःखित हो विलाप करने लगी। वह जिस दुरवस्थामें पड़ी थी, उसके योग्य कदापि न थी॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,11 +285,6 @@ _द्रौपदीने कहा—_ हा! मैं स्वयंव�
 तथा प्रत्युक्तमिच्छामि तत् करिष्यामि कौरवाः ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -302,6 +297,11 @@ _द्रौपदीने कहा—_ हा! मैं स्वयंव�
 
 कुरुवंशियो! आप क्या मानते हैं? मैं जीती गयी हूँ या नहीं। मैं आपके मुँहसे इसका ठीक-ठीक उत्तर सुनना चाहती हूँ। फिर उसीके अनुसार कार्य करूँगी॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,11 +432,6 @@ _भीष्मजीने कहा—_ कल्याणि! मैं प�
 अजितां वा जितां वेति स्वयं व्याहर्तुमर्हति ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें भीष्मवाक्यविषयक उनहत्तरवाँ अध्याय पूरा हुआ॥६९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -456,4 +451,10 @@ _भीष्मजीने कहा—_ कल्याणि! मैं प�
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि भीष्मवाक्ये एकोनसप्ततितमोऽध्यायः ॥ ६९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें भीष्मवाक्यविषयक उनहत्तरवाँ अध्याय पूरा हुआ॥६९॥
 </details>
+</details>
+

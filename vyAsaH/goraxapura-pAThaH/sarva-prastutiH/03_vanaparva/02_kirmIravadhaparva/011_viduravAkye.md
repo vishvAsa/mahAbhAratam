@@ -4,16 +4,11 @@ title_full = "011 भीमसेनके द्वारा किर्मी
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-011-p1.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-011-p1.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-011-p2.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-011-p2.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-011-p3.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-011-p3.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -30,15 +25,15 @@ title_full = "011 भीमसेनके द्वारा किर्मी
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किर्मीरस्य वधं क्षत्तः श्रोतुमिच्छामि कथ्यताम्।  
 रक्षसा भीमसेनस्य कथमासीत् समागमः ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -53,6 +48,11 @@ title_full = "011 भीमसेनके द्वारा किर्मी
 
 _धृतराष्ट्रने पूछा—_ विदुर! मैं किर्मीरवधका वृत्तान्त सुनना चाहता हूँ, कहो। उस राक्षसके साथ भीमसेनकी मुठभेड़ कैसे हुई?॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -454,11 +454,6 @@ _विदुरजीने कहा—_ राजन्! मानवशक�
 युधि निर्जित्य वः सर्वान् भक्षयिष्ये गतज्वरः ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -474,15 +469,15 @@ _विदुरजीने कहा—_ राजन्! मानवशक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युधिष्ठिरस्तु तच्छ्रुत्वा वचस्तस्य दुरात्मनः।  
 आचचक्षे ततः सर्वं गोत्रनामादि भारत ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -499,17 +494,17 @@ _वैशम्पायनजी कहते हैं—_ भारत! उ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डवो धर्मराजोऽहं यदि ते श्रोत्रमागतः।  
 सहितो भ्रातृभिः सर्वैर्भीमसेनार्जुनादिभिः ॥ २६ ॥  
 हृतराज्यो वने वासं वस्तुं कृतमतिस्ततः।  
 वनमभ्यागतो घोरमिदं तव परिग्रहम् ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -526,6 +521,11 @@ _वैशम्पायनजी कहते हैं—_ भारत! उ�
 
 _युधिष्ठिर बोले—_ मैं पाण्डुपुत्र युधिष्ठिर हूँ। सम्भव है, मेरा नाम तुम्हारे कानोंमें भी पड़ा हो। इस समय मेरा राज्य शत्रुओंने जूएमें हरण कर लिया है। अतः मैं भीमसेन, अर्जुन आदि सब भाइयोंके साथ वनमें रहनेका निश्चय करके तुम्हारे निवासस्थान इस घोर काम्यकवनमें आया हूँ॥२६-२७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1230,11 +1230,6 @@ _विदुरजी कहते हैं—_ राजन्! तब कि
 र्हृष्टास्ततो द्वैतवनाय जग्मुः ॥ ६८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1249,6 +1244,11 @@ _विदुरजी कहते हैं—_ राजन्! तब कि
 
 उस राक्षसका रूप-रंग मेघके समान काला था। उसके मारे जानेपर राजकुमार पाण्डव बड़े प्रसन्न हुए और भीमसेनके अनेक गुणोंकी प्रशंसा करते हुए द्रौपदीको आगे करके वहाँसे द्वैतवनकी ओर चल दिये॥६८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1357,11 +1357,6 @@ _विदुरजी कहते हैं—_ नरेश्वर! इस 
 ब्राह्मणानां कथयतां ये तत्रासन् समागताः ॥ ७४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1376,15 +1371,15 @@ _विदुरजी कहते हैं—_ नरेश्वर! इस 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विनिहतं संख्ये किर्मीरं रक्षसां वरम्।  
 श्रुत्वा ध्यानपरो राजा निशश्वासार्तवत् तदा ॥ ७५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत किर्मीरवधपर्वमें विदुरवाक्यसम्बन्धी ग्यारहवाँ अध्याय पूरा हुआ॥११॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1403,6 +1398,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते वनपर्वणि किर्मीरवधपर्वणि विदुरवाक्ये एकादशोऽध्यायः ॥ ११ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत किर्मीरवधपर्वमें विदुरवाक्यसम्बन्धी ग्यारहवाँ अध्याय पूरा हुआ॥११॥
 </details>
 </details>
 

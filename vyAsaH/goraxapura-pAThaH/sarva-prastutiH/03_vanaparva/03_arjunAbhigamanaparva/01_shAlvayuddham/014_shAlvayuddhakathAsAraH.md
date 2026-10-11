@@ -4,14 +4,9 @@ title_full = "014 द्यूतके समय न पहुँचनेम�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-014p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-014p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-014p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-014p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,15 +22,15 @@ title_full = "014 द्यूतके समय न पहुँचनेम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असांनिध्यं कथं कृष्ण तवासीद् वृष्णिनन्दन।  
 क्व चासीद् विप्रवासस्ते किं चाकार्षीः प्रवासतः ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीकृष्ण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -50,6 +45,11 @@ title_full = "014 द्यूतके समय न पहुँचनेम�
 
 _युधिष्ठिरने कहा—_ वृष्णिकुलको आनन्दित करनेवाले श्रीकृष्ण! जब यहाँ द्यूतक्रीडाका आयोजन हो रहा था, उस समय तुम द्वारकामें क्यों अनुपस्थित रहे? उन दिनों तुम्हारा निवास कहाँ था और उस प्रवासके द्वारा तुमने कौन-सा कार्य सिद्ध किया?॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीकृष्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -363,11 +363,6 @@ _श्रीकृष्णने कहा—_ भरतवंशशिरो�
 द्रुतमागतवान् युष्मान् द्रष्टुकामः सुदुःखितान् ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक चौदहवाँ अध्याय पूरा हुआ॥१४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -386,4 +381,10 @@ _श्रीकृष्णने कहा—_ भरतवंशशिरो�
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि सौभवधोपाख्याने चतुर्दशोऽध्यायः ॥ १४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक चौदहवाँ अध्याय पूरा हुआ॥१४॥
 </details>
+</details>
+

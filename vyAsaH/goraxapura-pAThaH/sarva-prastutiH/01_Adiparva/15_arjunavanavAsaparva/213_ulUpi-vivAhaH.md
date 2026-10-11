@@ -4,18 +4,13 @@ title_full = "213 अर्जुनका गंगाद्वारमें 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-213-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-213-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-213-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-213-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-213-p03.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-213-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-213-p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-213-p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "213 अर्जुनका गंगाद्वारमें 
 
 अर्जुनका गंगाद्वारमें ठहरना और वहाँ उनका उलूपीके साथ मिलन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,11 +293,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कश्चायं सुभगे देशः का च त्वं कस्य वाऽऽत्मजा॥१७॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उलूप्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -310,6 +305,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘भीरु! तुमने ऐसा साहस क्यों किया है? भाविनि! यह कौन-सा देश है? सुभगे! तुम कौन हो? किसकी पुत्री हो?’॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उलूप्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,11 +358,6 @@ _उलूपीने कहा—_ राजन्! ऐरावत नाग�
 अनन्यां नन्दयस्वाद्य प्रदानेनात्मनोऽनघ ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -375,6 +370,11 @@ _उलूपीने कहा—_ राजन्! ऐरावत नाग�
 
 निष्पाप कुरुनन्दन! मैं आपके ही लिये कामदेवके तापसे जली जा रही हूँ। मैंने आपके सिवा दूसरेको अपना हृदय अर्पण नहीं किया है। अतः मुझे आत्मदान देकर आनन्दित कीजिये॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,11 +423,6 @@ _अर्जुन बोले—_ भद्रे! यह मेरे बा
 न च पीड्येत मे धर्मस्तथा कुर्या भुजङ्गमे ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-उलूप्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -440,6 +435,11 @@ _अर्जुन बोले—_ भद्रे! यह मेरे बा
 
 नागकन्ये! तुम ऐसा कोई उपाय करो, जिससे मुझे झूठका दोष न लगे, तुम्हारा भी प्रिय हो और मेरे धर्मको भी हानि न पहुँचे॥२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+उलूप्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -577,11 +577,6 @@ _उलूपीने कहा—_ पाण्डुनन्दन! आप �
 स त्वमात्मप्रदानेन सकामां कर्तुमर्हसि ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -595,6 +590,11 @@ _उलूपीने कहा—_ पाण्डुनन्दन! आप �
 
 मैं भी यही आशा लेकर शरणमें आयी हूँ और बार-बार दुःखी होकर रोती-गिड़गिड़ाती हूँ। मैं आपके प्रति अनुरक्त हूँ और आपसे समागमकी याचना करती हूँ। अतः मेरा प्रिय मनोरथ पूर्ण कीजिये। मुझे आत्मदान देकर मेरी कामना सफल कीजिये॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -665,11 +665,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इरावन्तं महाभागं महाबलपराक्रमम् ॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अर्जुनवनवासपर्वमें उलूपी-समागमविषयक दो सौ तेरहवाँ अध्याय पूरा हुआ॥२१३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -690,8 +685,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि अर्जुनवनवासपर्वण्युलूपीसङ्गमे च त्रयोदशाधिकद्विशततमोऽध्यायः ॥ २१३ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अर्जुनवनवासपर्वमें उलूपी-समागमविषयक दो सौ तेरहवाँ अध्याय पूरा हुआ॥२१३॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलाकर कुल ३७ श्लोक हैं)
 </details>
 </details>
+

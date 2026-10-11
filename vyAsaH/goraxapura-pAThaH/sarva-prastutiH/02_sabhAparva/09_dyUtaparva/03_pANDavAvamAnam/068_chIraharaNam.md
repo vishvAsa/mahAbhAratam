@@ -4,37 +4,32 @@ title_full = "068 भीमसेनका क्रोध एवं अर्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p01.mp3"></div>
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p02.mp3"></div>
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p03.mp3"></div>
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p04.mp3"></div>
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p05.mp3"></div>
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p06.mp3"></div>
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p06.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p07.mp3"></div>
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p07.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p08.mp3"></div>
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p08.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p09.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीम उवाच
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-068-p09.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -48,6 +43,11 @@ title_full = "068 भीमसेनका क्रोध एवं अर्�
 
 भीमसेनका क्रोध एवं अर्जुनका उन्हें शान्त करना, विकर्णकी धर्मसंगत बातका कर्णके द्वारा विरोध, द्रौपदीका चीरहरण एवं भगवान्‌द्वारा उसकी लज्जारक्षा तथा विदुरके द्वारा प्रह्लादका उदाहरण देकर सभासदोंको विरोधके लिये प्रेरित करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीम उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,11 +140,6 @@ _भीमसेन बोले—_ भैया युधिष्ठिर! �
 बाहू ते सम्प्रधक्ष्यामि सहदेवाग्निमानय ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -157,6 +152,11 @@ _भीमसेन बोले—_ भैया युधिष्ठिर! �
 
 राजन्! द्रौपदीकी इस दुर्दशाके लिये मैं आपपर ही अपना क्रोध छोड़ता हूँ। आपकी दोनों बाहें जला डालूँगा। सहदेव! आग ले आओ॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,11 +205,6 @@ _अर्जुन बोले—_ भैया भीमसेन! तुम�
 दीव्यते परकामेन तन्नः कीर्तिकरं महत् ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -224,15 +219,15 @@ _अर्जुन बोले—_ भैया भीमसेन! तुम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमस्मिन् कृतं विद्यां यदि नाहं धनंजय।  
 दीप्तेऽग्नौ सहितौ बाहू निर्दहेयं बलादिव ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -247,6 +242,11 @@ _अर्जुन बोले—_ भैया भीमसेन! तुम�
 
 _भीमसेनने कहा—_ अर्जुन! यदि मैं इस विषयमें यह न जानता कि इनका यह कार्य क्षत्रियधर्मके अनुकूल ही है, तो बलपूर्वक प्रज्वलित अग्निमें इनकी दोनों बाँहोंको एक साथ ही जलाकर राख कर डालता॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -555,11 +555,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 प्रगृह्य रुचिरं बाहुमिदं वचनमब्रवीत् ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -572,6 +567,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 उस कोलाहलके शान्त होनेपर राधानन्दन कर्ण क्रोधसे मूर्च्छित हो उसकी सुन्दर बाँह पकड़कर इस प्रकार बोला॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -850,11 +850,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सभामध्ये समाक्षिप्य व्यपाक्रष्टुं प्रचक्रमे ॥ ४० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -869,14 +864,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकृष्यमाणे वसने द्रौपद्याश्चिन्तितो हरिः।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(द्रौपद्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -892,17 +887,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(द्रौपद्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञातं मया वसिष्ठेन  
 पुरा गीतं महात्मना।  
 महत्यापदि सम्प्राप्ते  
 स्मर्तव्यो भगवान् हरिः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -917,6 +912,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _द्रौपदीने मन-ही-मन कहा—_ मैंने पूर्वकालमें महात्मा वसिष्ठजीकी बतायी हुई इस बातको अच्छी तरह समझा है कि भारी विपत्ति पड़नेपर भगवान् श्रीहरिका स्मरण करना चाहिये।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1093,11 +1093,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 क्रोधाद् विस्फुरमाणौष्ठो विनिष्पिष्य करे करम् ॥ ५० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीम उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1113,6 +1108,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 उस समय वहाँ बड़ा भयंकर कोलाहल मच गया। जगत्‌में यह अद्भुत दृश्य देखकर सब राजा द्रौपदीकी प्रशंसा और दुःशासनकी निन्दा करने लगे। उस समय वहाँ समस्त राजाओंके बीच हाथ-पर-हाथ मलते हुए भीमसेनने क्रोधसे फड़कते हुए ओठोंद्वारा भयंकर गर्जनाके साथ यह शाप दिया (प्रतिज्ञा की)॥४९-५०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीम उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1143,11 +1143,6 @@ _भीमसेनने कहा—_ देश-देशान्तरके
 न पिबेयं बलाद् वक्षो भित्त्वा चेद् रुधिरं युधि॥५३॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1162,6 +1157,11 @@ _भीमसेनने कहा—_ देश-देशान्तरके
 
 भूमिपालो! यह खोटी बुद्धिवाला दुःशासन भरतवंशके लिये कलंक है। मैं युद्धमें बलपूर्वक इस पापीकी छाती फाड़कर इसका रक्त पीऊँगा। यदि न पीऊँ अर्थात्—अपनी कही हुई उस बातको पूरा न करूँ, तो मुझे अपने पूर्वज बाप-दादोंकी श्रेष्ठ गति न मिले॥५२-५३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1250,11 +1250,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 विदुरः सर्वधर्मज्ञ इदं वचनमब्रवीत् ॥ ५८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1267,6 +1262,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 तब सम्पूर्ण धर्मोंके ज्ञाता विदुरजीने अपनी दोनों भुजाएँ ऊपर उठाकर सभासदोंको चुप कराया और इस प्रकार कहा॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1516,11 +1516,6 @@ _विदुरजी बोले—_ इस सभामें पधार�
 सुधन्वाके ऐसा कहनेपर प्रह्लाद व्यथित हो पीपलके पत्तेकी तरह काँपने लगे और इसके विषयमें कुछ पूछनेके लिये वे महातेजस्वी कश्यपजीके पास गये॥७१॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रह्लाद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1529,6 +1524,11 @@ _विदुरजी बोले—_ इस सभामें पधार�
 जगाम कश्यपं दैत्यः परिप्रष्टुं महौजसम् ॥ ७१ ॥  
 सुधन्वाके ऐसा कहनेपर प्रह्लाद व्यथित हो पीपलके पत्तेकी तरह काँपने लगे और इसके विषयमें कुछ पूछनेके लिये वे महातेजस्वी कश्यपजीके पास गये॥७१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रह्लाद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1557,11 +1557,6 @@ _प्रह्लाद बोले—_ महाभाग! आप देव�
 के वै तस्य परे लोकास्तन्ममाचक्ष्व पृच्छतः ॥ ७३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कश्यप उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1574,6 +1569,11 @@ _प्रह्लाद बोले—_ महाभाग! आप देव�
 
 मैं पूछता हूँ कि जो प्रश्नका उत्तर ही न दे अथवा असत्य उत्तर दे दे, उसे परलोकमें कौन-से लोक प्राप्त होते हैं? यह मुझे बताइये॥७३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कश्यप उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1791,11 +1791,6 @@ _कश्यपजीने कहा—_ जो जानते हुए भ�
 विरोचन सुधन्वायं प्राणानामीश्वरस्तव ॥ ८६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुधन्वोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1811,15 +1806,15 @@ _कश्यपजीने कहा—_ जो जानते हुए भ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुधन्वोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रस्नेहं परित्यज्य यस्त्वं धर्मे व्यवस्थितः।  
 अनुजानामि ते पुत्रं जीवत्वेष शतं समाः ॥ ८७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1836,15 +1831,15 @@ _सुधन्वाने कहा—_ दैत्यराज! तुम �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं वै परमं धर्मं श्रुत्वा सर्वे सभासदः।  
 यथाप्रश्नं तु कृष्णाया मन्यध्वं तत्र किं परम् ॥ ८८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1859,6 +1854,11 @@ _सुधन्वाने कहा—_ दैत्यराज! तुम �
 
 _विदुरजी कहते हैं—_ सभासदो! इस प्रकार इस उत्तम धर्ममय प्रसंगको सुनकर आप सब लोग द्रौपदीके प्रश्नके अनुसार यह बतावें कि उसके सम्बन्धमें आपकी क्या मान्यता है?॥८८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1887,11 +1887,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 दुःशासनः सभामध्ये विचकर्ष तपस्विनीम् ॥ ९० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें ‘द्रौपदीको भरी सभामें खींचना’ इस विषयसे सम्बन्ध रखनेवाला अड़सठवाँ अध्याय पूरा हुआ॥६८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1910,8 +1905,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि द्रौपद्याकर्षणेऽष्टषष्टितमोऽध्यायः ॥ ६८ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें ‘द्रौपदीको भरी सभामें खींचना’ इस विषयसे सम्बन्ध रखनेवाला अड़सठवाँ अध्याय पूरा हुआ॥६८॥
+</details>
+
 <details><summary>Misc Detail</summary>
 
 _(दाक्षिणात्य अधिक पाठके ४_  _श्लोक मिलाकर कुल ९४_  _श्लोक हैं)_
 </details>
 </details>
+

@@ -3,12 +3,6 @@ title = "०८० अर्जुनस्वप्ने"
 title_full = "080 अर्जुनका स्वप्नमें भगवान् श्रीकृष्णके साथ शिवजीके समीप जाना और उनकी स्तुति करना"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -20,6 +14,11 @@ title_full = "080 अर्जुनका स्वप्नमें भगव
 
 अर्जुनका स्वप्नमें भगवान् श्रीकृष्णके साथ शिवजीके समीप जाना और उनकी स्तुति करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -941,11 +940,6 @@ _संजय कहते हैं—_ राजन्! इधर अचिन
 भक्त्या स्तवेन दिव्येन महात्मानावनिन्दितौ ॥ ५४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कृष्णार्जुनावूचतुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -959,6 +953,11 @@ _संजय कहते हैं—_ राजन्! इधर अचिन
 
 भगवान् शंकरकी यह बात सुनकर अनिन्दित महात्मा परम बुद्धिमान् श्रीकृष्ण और अर्जुन हाथ जोड़कर खड़े हो गये और दिव्य स्तोत्रद्वारा भक्तिभावसे उन भगवान् शिवकी स्तुति करने लगे॥५३-५४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कृष्णार्जुनावूचतुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1122,11 +1121,6 @@ _श्रीकृष्ण और अर्जुन बोले—_ भव (
 सिध्यतां नो वरः प्रभो ॥ ६४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1200,15 +1194,15 @@ Finally we also suggest that the term brahma-vaktra is not so much a reference t
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स्तुत्वा महादेवं वासुदेवः सहार्जुनः।  
 प्रसादयामास भवं तदा ह्यस्त्रोपलब्धये ॥ ६५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत द्रोणपर्वके अन्तर्गत प्रतिज्ञापर्वमें अर्जुनस्वप्नविषयक अस्सीवाँ अध्याय पूरा हुआ॥८०॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1227,6 +1221,11 @@ _संजय कहते हैं—_ इस प्रकार महाद�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते द्रोणपर्वणि प्रतिज्ञापर्वणि अर्जुनस्वप्ने अशीतितमोऽध्यायः ॥ ८० ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत द्रोणपर्वके अन्तर्गत प्रतिज्ञापर्वमें अर्जुनस्वप्नविषयक अस्सीवाँ अध्याय पूरा हुआ॥८०॥
 </details>
 </details>
 

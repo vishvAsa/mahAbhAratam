@@ -4,14 +4,9 @@ title_full = "023 जरासंधका भीमसेनके साथ �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-023p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-023p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-023p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-023p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,15 +22,15 @@ title_full = "023 जरासंधका भीमसेनके साथ �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तं निश्चितात्मानं युद्धाय यदुनन्दनः।  
 उवाच वाग्मी राजानं जरासंधमधोक्षजः ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीकृष्ण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -50,6 +45,11 @@ title_full = "023 जरासंधका भीमसेनके साथ �
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! राजा जरासंधने अपने मनमें युद्धका निश्चय कर लिया है, यह देख बोलनेमें कुशल यदुनन्दन भगवान् श्रीकृष्णने उससे कहा॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीकृष्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -704,11 +704,6 @@ _श्रीकृष्णने पूछा—_ राजन्! हम त�
 संरम्भं बलिनां श्रेष्ठो जग्राह कुरुनन्दनः ॥ ३५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत जरासंधवधपर्वमें जरासंधकी थकावटसे सम्बन्ध रखनेवाला तेईसवाँ अध्याय पूरा हुआ॥२३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -725,6 +720,11 @@ _श्रीकृष्णने पूछा—_ राजन्! हम त�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि जरासंधवधपर्वणि जरासंधक्लान्तौ त्रयोविंशोऽध्यायः ॥ २३ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत जरासंधवधपर्वमें जरासंधकी थकावटसे सम्बन्ध रखनेवाला तेईसवाँ अध्याय पूरा हुआ॥२३॥
 </details>
 </details>
 

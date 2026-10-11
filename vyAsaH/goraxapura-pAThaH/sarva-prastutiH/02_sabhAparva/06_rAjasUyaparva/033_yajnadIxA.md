@@ -4,20 +4,15 @@ title_full = "033 युधिष्ठिरके शासनकी विश
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-033p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-033p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-033p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-033p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-033p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-033p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-033p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-033p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-033p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-033p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -32,6 +27,11 @@ title_full = "033 युधिष्ठिरके शासनकी विश
 
 युधिष्ठिरके शासनकी विशेषता, श्रीकृष्णकी आज्ञासे युधिष्ठिरका राजसूययज्ञकी दीक्षा लेना तथा राजाओं, ब्राह्मणों एवं सगे-सम्बन्धियोंको बुलानेके लिये निमन्त्रण भेजना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -410,11 +410,6 @@ _वैशम्पायनजी कहते हैं—_ कुशनन्
 भीमार्जुनयमैश्चैव सहितः कृष्णमब्रवीत् ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -429,6 +424,11 @@ _वैशम्पायनजी कहते हैं—_ कुशनन्
 
 नरश्रेष्ठ जनमेजय! राजा युधिष्ठिर बड़े प्रसन्न होकर उनसे मिले। उनका विधिपूर्वक स्वागत-सत्कार करके कुशलमंगल पूछा और जब वे सुखपूर्वक बैठ गये, तब धौम्य, द्वैपायन आदि ऋत्विजों तथा भीम, अर्जुन, नकुल, सहदेव—चारों भाइयोंके साथ निकट जाकर युधिष्ठिरने श्रीकृष्णसे कहा॥१६-१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -517,11 +517,6 @@ _युधिष्ठिरने कहा—_ श्रीकृष्ण! �
 अनुज्ञातस्त्वया कृष्ण प्राप्नुयां क्रतुमुत्तमम् ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -534,6 +529,11 @@ _युधिष्ठिरने कहा—_ श्रीकृष्ण! �
 
 प्रभो! अथवा मुझे अपने इन छोटे भाइयोंके साथ दीक्षा ग्रहण करनेकी आज्ञा दीजिये। श्रीकृष्ण! आपकी अनुज्ञा मिलनेपर ही मैं उस उत्तम यज्ञकी दीक्षा ग्रहण करूँगा॥२२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -564,11 +564,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 नियुङ्क्ष्व त्वं च मां कृत्ये सर्वं कर्तास्मि ते वचः॥२४॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -583,15 +578,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सफलः कृष्ण संकल्पः सिद्धिश्च नियता मम।  
 यस्य मे त्वं हृषीकेश यथेप्सितमुपस्थितः ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -606,6 +601,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _युधिष्ठिर बोले—_ श्रीकृष्ण मेरा संकल्प सफल हो गया, मेरी सिद्धि सुनिश्चित है; क्योंकि हृषीकेश! आप मेरी इच्छाके अनुसार स्वयं ही यहाँ उपस्थित हो गये हैं॥२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -882,11 +882,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 विशश्च मान्यान् शूद्रांश्च सर्वानानयतेति च ॥ ४१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -899,6 +894,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘तुमलोग सभी राज्योंमें घूम-घूमकर वहाँके राजाओं, ब्राह्मणों, वैश्यों तथा सब माननीय शूद्रोंको निमन्त्रित कर दो और बुला ले आओ’॥४१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1135,11 +1135,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 भ्रातॄणां चैव सर्वेषां येऽनुरक्ता युधिष्ठिरे ॥ ५५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयपर्वमें राजसूयदीक्षाविषयक तैंतीसवाँ अध्याय पूरा हुआ॥३३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1160,8 +1155,14 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 इति श्रीमहाभारते सभापर्वणि राजसूयपर्वणि राजसूयदीक्षायां त्रयस्त्रिंशोऽध्यायः ॥ ३३ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयपर्वमें राजसूयदीक्षाविषयक तैंतीसवाँ अध्याय पूरा हुआ॥३३॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ४ श्लोक मिलाकर कुल ५९ श्लोक हैं)
 </details>
 </details>
+

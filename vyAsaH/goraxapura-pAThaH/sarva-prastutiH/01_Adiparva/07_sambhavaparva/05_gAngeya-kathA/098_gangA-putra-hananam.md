@@ -4,12 +4,7 @@ title_full = "098 शान्तनु और गंगाका कुछ श�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-098.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-098.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "098 शान्तनु और गंगाका कुछ श�
 
 शान्तनु और गंगाका कुछ शर्तोंके साथ सम्बन्ध, वसुओंका जन्म और शापसे उद्धार तथा भीष्मकी उत्पत्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,11 +329,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पुत्रघ्नि सुमहत् पापं सम्प्राप्तं ते सुगर्हितम् ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-स्त्र्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -346,6 +341,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘अरी! इस बालकका वध न कर, तू किसकी कन्या है? कौन है? क्यों अपने ही बेटोंको मारे डालती है। पुत्रघातिनि! तुझे पुत्रहत्याका यह अत्यन्त निन्दित और भारी पाप लगा है’॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+स्त्र्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,11 +514,6 @@ _स्त्री बोली—_ पुत्रकी इच्छा र�
 मत्प्रसूतिं विजानीहि गङ्गादत्तमिमं सुतम् ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें भीष्मोत्पत्तिविषयक अट्ठानबेवाँ अध्याय पूरा हुआ॥९८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -537,8 +532,14 @@ _स्त्री बोली—_ पुत्रकी इच्छा र�
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि भीष्मोत्पत्तावष्टनवतितमोऽध्यायः ॥ ९८ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें भीष्मोत्पत्तिविषयक अट्ठानबेवाँ अध्याय पूरा हुआ॥९८॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ४ श्लोक मिलाकर कुल २८ श्लोक हैं)
 </details>
 </details>
+

@@ -4,20 +4,15 @@ title_full = "067 प्रातिकामीके बुलानेसे 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-067-p1.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-067-p1.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-067-p2.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-067-p2.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-067-p3.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-067-p3.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-067-p4.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-067-p4.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-067-p5.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-067-p5.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -33,17 +28,17 @@ title_full = "067 प्रातिकामीके बुलानेसे 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धिगस्तु क्षत्तारमिति ब्रुवाणो  
 दर्पेण मत्तो धृतराष्ट्रस्य पुत्रः।  
 अवैक्षत प्रातिकामीं सभाया-  
 मुवाच चैनं परमार्यमध्ये ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -62,17 +57,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रातिकामिन् द्रौपदीमानयस्व  
 न ते भयं विद्यते पाण्डवेभ्यः।  
 क्षत्ता ह्ययं विवदत्येव भीतो  
 न चास्माकं वृद्धिकामः सदैव ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -91,17 +86,17 @@ _दुर्योधन बोला—_ प्रातिकामिन्!
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः प्रातिकामी स सूतः  
 प्रायाच्छीघ्रं राजवचो निशम्य ।  
 प्रविश्य च श्वेव हि सिंहगोष्ठं  
 समासदन्महिषीं पाण्डवानाम् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रातिकाम्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -120,17 +115,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रातिकाम्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युधिष्ठिरो द्यूतमदेन मत्तो  
 दुर्योधनो द्रौपदि त्वामजैषीत् ।  
 सा त्वं प्रपद्यस्व धृतराष्ट्रस्य वेश्म  
 नयामि त्वां कर्मणे याज्ञसेनि ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -149,17 +144,17 @@ _प्रातिकामी बोला—_ द्रुपदकुमा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं त्वेवं वदसि प्रातिकामिन्  
 को हि दीव्येद् भार्यया राजपुत्रः।  
 मूढो राजा द्यूतमदेन मत्तो  
 ह्यभून्नान्यत् कैतवमस्य किंचित् ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रातिकाम्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -178,17 +173,17 @@ _द्रौपदीने कहा—_ प्रातिकामिन्!
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रातिकाम्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा नाभूत् कैतवमन्यदस्य  
 तदादेवीत् पाण्डवोऽजातशत्रुः ।  
 न्यस्ताः पूर्वं भ्रातरस्तेन राज्ञा  
 स्वयं चात्मा त्वमथो राजपुत्रि ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -205,6 +200,11 @@ _द्रौपदीने कहा—_ प्रातिकामिन्!
 
 _प्रातिकामी बोला—_ राजकुमारी! जब जुआरियोंको देनेके लिये दूसरा कोई धन नहीं रह गया, तब अजातशत्रु पाण्डुनन्दन युधिष्ठिर इस प्रकार जूआ खेलने लगे। पहले तो उन्होंने अपने भाइयोंको दाँवपर लगाया, उसके बाद अपनेको और अन्तमें आपको भी दाँवपर रख दिया॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -233,11 +233,6 @@ _द्रौपदीने कहा—_ सूतपुत्र! तुम �
 ज्ञात्वा चिकीर्षितमहं राज्ञो यास्यामि दुःखिता ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -250,6 +245,11 @@ _द्रौपदीने कहा—_ सूतपुत्र! तुम �
 
 सूतनन्दन! यह जानकर आओ। तब मुझे ले चलो। राजा क्या करना चाहते हैं? यह जानकर ही मैं दुःखिनी अबला उस सभामें चलूँगी॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -282,11 +282,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 न तं सूतं प्रत्युवाच वचनं साध्वसाधु वा ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -301,15 +296,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैवागत्य पाञ्चाली प्रश्नमेनं प्रभाषताम्।  
 इहैव सर्वे शृण्वन्तु तस्याश्चैतस्य यद् वचः ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -326,15 +321,15 @@ _तब दुर्योधन बोला—_ सूतपुत्र! ज�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा राजभवनं दुर्योधनवशानुगः।  
 उवाच द्रौपदीं सूतः प्रातिकामी व्यथान्वितः ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रातिकाम्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -351,17 +346,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रातिकाम्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सभ्यास्त्वमी राजपुत्र्याह्वयन्ति  
 मन्ये प्राप्तः संक्षयः कौरवाणाम्।  
 न वै समृद्धिं पालयते लघीयान्  
 यस्त्वां सभां नेष्यति राजपुत्रि ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -378,6 +373,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _प्रातिकामीने कहा—_ राजकुमारी! वे (दुर्योधन आदि) सभासद् तुम्हें सभामें ही बुला रहे हैं। मुझे तो ऐसा जान पड़ता है, अब कौरवोंके विनाशका समय आ गया है। जो (दुर्योधन) इतना गिर गया है कि तुम्हें सभामें बुलानेका साहस करता है, वह कभी अपने धन-वैभवकी रक्षा नहीं कर सकता॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -436,11 +436,6 @@ _द्रौपदीने कहा—_ सूतपुत्र! निश�
 र्निर्बन्धं तं धार्तराष्ट्रस्य बुद्ध्वा ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -455,6 +450,11 @@ _द्रौपदीने कहा—_ सूतपुत्र! निश�
 
 द्रौपदीका यह कथन सुनकर सूत प्रातिकामीने पुनः सभामें जाकर द्रौपदीके प्रश्नको दुहराया; किंतु उस समय दुर्योधनके उस दुराग्रहको जानकर सभी नीचे मुँह किये बैठे रहे, कोई कुछ भी नहीं बोला॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -573,11 +573,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 नुवाच कृष्णां किमहं ब्रवीमि ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -592,6 +587,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 तदनन्तर दुर्योधनके वशमें रहनेवाले प्रातिकामीने द्रौपदीके क्रोधसे डरते हुए अपने मान-सम्मानकी परवा न करके पुनः सभासदोंसे पूछा—‘मैं द्रौपदीको क्या उत्तर दूँ?’॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -794,11 +794,6 @@ _दुर्योधन बोला—_ दुःशासन! यह मे�
 त्राणाय विक्रोशति याज्ञसेनी ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुःशासन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -815,17 +810,17 @@ _दुर्योधन बोला—_ दुःशासन! यह मे�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुःशासन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजस्वला वा भव याज्ञसेनि  
 एकाम्बरा वाप्यथवा विवस्त्रा ।  
 द्यूते जिता चासि कृतासि दासी  
 दासीषु वासश्च यथोपजोषम् ॥ ३४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -844,17 +839,17 @@ _दुःशासन बोला—_ द्रौपदी! तू रजस�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकीर्णकेशी पतितार्धवस्त्रा  
 दुःशासनेन व्यवधूयमाना ।  
 ह्रीमत्यमर्षेण च दह्यमाना  
 शनैरिदं वाक्यमुवाच कृष्णा ॥ ३५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -871,6 +866,11 @@ _दुःशासन बोला—_ द्रौपदी! तू रजस�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! उस समय द्रौपदीके केश बिखर गये थे। दुःशासनके झकझोरनेसे उसका आधा वस्त्र भी खिसककर गिर गया था। वह लाजसे गड़ी जाती थी और भीतर-ही-भीतर क्रोधसे दग्ध हो रही थी। उसी दशामें वह धीरेसे इस प्रकार बोली॥३५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1023,11 +1023,6 @@ _द्रौपदीने कहा—_ अरे दुष्ट! ये स
 जितां वाप्यजितां वा मां मन्यध्वे सर्वभूमिपाः॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1040,6 +1035,11 @@ _द्रौपदीने कहा—_ अरे दुष्ट! ये स
 
 मेरे इस प्रश्नका सभी सभासद् उत्तर दें। राजाओ! आपलोग क्या समझते हैं? धर्मके अनुसार मैं जीती गयी हूँ या नहीं?
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1146,11 +1146,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 दृष्ट्वा सभायां परिकृष्यमाणाम् ॥ ४६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1165,6 +1160,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 उस समय वहाँ जितने सभासद् उपस्थित थे, उनमेंसे कर्ण, शकुनि और दुर्योधनको छोड़कर अन्य सब लोगोंको सभामें इस प्रकार घसीटी जाती हुई द्रौपदीकी दुर्दशा देखकर बड़ा दुःख हुआ॥४६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1223,11 +1223,6 @@ _उस समय भीष्मने कहा—_ सौभाग्यश�
 स्तस्मान्न ते प्रश्नमिमं ब्रवीमि ॥ ४९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1242,6 +1237,11 @@ _उस समय भीष्मने कहा—_ सौभाग्यश�
 
 यह शकुनि मनुष्योंमें द्यूतविद्याका अद्वितीय जानकार है। इसीने कुन्तीनन्दन युधिष्ठिरको प्रेरित करके उनके मनमें तुम्हें दाँवपर रखनेकी इच्छा उत्पन्न की है, परंतु युधिष्ठिर इसे शकुनिका छल नहीं मानते; इसीलिये मैं तुम्हारे इस प्रश्नका विवेचन नहीं कर पाता हूँ॥४९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1324,11 +1324,6 @@ _द्रौपदीने कहा—_ जूआ खेलनेमें �
 न तत् सत्यं यच्छलेनानुविद्धम्॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1343,6 +1338,11 @@ _द्रौपदीने कहा—_ जूआ खेलनेमें �
 
 वह सभा नहीं है जहाँ वृद्ध पुरुष न हों, वे वृद्ध नहीं हैं जो धर्मकी बात न बतावें, वह धर्म नहीं है जिसमें सत्य न हो और वह सत्य नहीं है जो छलसे युक्त हो।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1377,11 +1377,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 चकार कोपं परमार्तरूपः ॥ ५४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें द्रौपदीप्रश्नविषयक सरसठवाँ अध्याय पूरा हुआ॥६७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1402,8 +1397,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि द्रौपदीप्रश्ने सप्तषष्टितमोऽध्यायः ॥ ६७ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें द्रौपदीप्रश्नविषयक सरसठवाँ अध्याय पूरा हुआ॥६७॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २ श्लोक मिलाकर कुल ५६ श्लोक हैं)
 </details>
 </details>
+

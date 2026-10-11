@@ -4,14 +4,9 @@ title_full = "048 पाण्डवोंपर विजय प्राप्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-048p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-048p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-048p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-048p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "048 पाण्डवोंपर विजय प्राप्
 
 पाण्डवोंपर विजय प्राप्त करनेके लिये शकुनि और दुर्योधनकी बातचीत
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,11 +207,6 @@ _शकुनि बोला—_ दुर्योधन! तुम्हे�
 एतैस्त्वं सहितः सर्वैर्जय कृत्स्नां वसुन्धराम् ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -228,17 +223,17 @@ _शकुनि बोला—_ दुर्योधन! तुम्हे�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वया च सहितो राजन्नेतैश्चान्यैर्महारथैः।  
 एतानेव विजेष्यामि यदि त्वमनुमन्यसे ॥ १३ ॥  
 एतेषु विजितेष्वद्य भविष्यति मही मम।  
 सर्वे च पृथिवीपालाः सभा सा च महाधना ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -255,6 +250,11 @@ _शकुनि बोला—_ दुर्योधन! तुम्हे�
 
 _दुर्योधनने कहा—_ राजन्! यदि तुम्हारी अनुमति हो, तो तुम्हारे और इन द्रोण आदि अन्य महारथियोंके साथ इन पाण्डवोंको ही युद्धमें जीत लूँ। इनके पराजित हो जाने-पर अभी यह सारी पृथ्वी, समस्त भूपाल और वह महाधन-सम्पन्न सभा भी हमारे अधीन हो जायगी॥१३-१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -287,11 +287,6 @@ _शकुनि बोला—_ राजन्! अर्जुन, श्र
 युधिष्ठिरं स्वयं राजंस्तन्निबोध जुषस्व च ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -306,15 +301,15 @@ _शकुनि बोला—_ राजन्! अर्जुन, श्र
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमादेन सुहृदामन्येषां च महात्मनाम्।  
 यदि शक्या विजेतुं ते तन्ममाचक्ष्व मातुल ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -329,6 +324,11 @@ _शकुनि बोला—_ राजन्! अर्जुन, श्र
 
 _दुर्योधनने कहा—_ मामाजी! यदि मेरे सगे-सम्बन्धियों तथा अन्य महात्माओंकी सतत सावधानीसे किसी उपायद्वारा पाण्डवोंको जीता जा सके तो वह मुझे बताइये॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,11 +397,6 @@ _शकुनि बोला—_ राजन्! कुन्तीनन्�
 अनुज्ञातस्तु ते पित्रा विजेष्ये तान् न संशयः ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -416,15 +411,15 @@ _शकुनि बोला—_ राजन्! कुन्तीनन्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वमेव कुरुमुख्याय धृतराष्ट्राय सौबल।  
 निवेदय यथान्यायं नाहं शक्ष्ये निवेदितुम् ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें दुर्योधनसंतापविषयक अड़तालीसवाँ अध्याय पूरा हुआ॥४८॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -445,8 +440,14 @@ _दुर्योधनने कहा—_ सुबलनन्दन! आ�
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि दुर्योधनसंतापे अष्टचत्वारिंशोऽध्यायः ॥ ४८ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें दुर्योधनसंतापविषयक अड़तालीसवाँ अध्याय पूरा हुआ॥४८॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलाकर कुल २४ श्लोक हैं)
 </details>
 </details>
+

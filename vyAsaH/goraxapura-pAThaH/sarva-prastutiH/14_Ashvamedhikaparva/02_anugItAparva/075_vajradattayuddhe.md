@@ -4,11 +4,6 @@ title_full = "075 अर्जुनका प्राग्ज्योति�
 +++
 
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -20,6 +15,11 @@ title_full = "075 अर्जुनका प्राग्ज्योति�
 
 अर्जुनका प्राग्ज्योतिषपुरके राजा वज्रदत्तके साथ युद्ध
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

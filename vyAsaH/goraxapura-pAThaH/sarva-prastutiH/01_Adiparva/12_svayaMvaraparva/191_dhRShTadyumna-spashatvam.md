@@ -4,14 +4,9 @@ title_full = "191 धृष्टद्युम्नका गुप्तर�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="श्रेयान्" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-191_p01.mp3"></div>
+<div caption="श्रेयान्" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-191_p01.mp3"></div>
 
-<div class="audioEmbed"  caption="श्रेयान्" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-191_p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="श्रेयान्" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-191_p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "191 धृष्टद्युम्नका गुप्तर�
 
 धृष्टद्युम्नका गुप्तरूपसे वहाँका सब हाल देखकर राजा द्रुपदके पास आना तथा द्रौपदीके विषयमें द्रुपदका प्रश्न
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -419,11 +419,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 धनुर्गृहीतं निहतं च लक्ष्यम् ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें धृष्टद्युम्नका प्रत्यागमनविषयक एक सौ इक्यानबेवाँ अध्याय पूरा हुआ॥१९१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -443,4 +438,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि स्वयंवरपर्वणि धृष्टद्युम्नप्रत्यागमने एकनवत्यधिकशततमोऽध्यायः ॥ १९१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें धृष्टद्युम्नका प्रत्यागमनविषयक एक सौ इक्यानबेवाँ अध्याय पूरा हुआ॥१९१॥
 </details>
+</details>
+

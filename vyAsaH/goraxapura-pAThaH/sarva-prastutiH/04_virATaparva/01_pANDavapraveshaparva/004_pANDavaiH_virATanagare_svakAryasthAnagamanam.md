@@ -4,22 +4,17 @@ title_full = "004 धौम्यका पाण्डवोंको राज
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p2.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p2.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p3.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p3.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p4.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p4.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p5.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p5.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p6.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-004p6.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -33,6 +28,11 @@ title_full = "004 धौम्यका पाण्डवोंको राज
 
 धौम्यका पाण्डवोंको राजाके यहाँ रहनेका ढंग बताना और सबका अपने-अपने अभीष्ट स्थानोंको जाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,11 +105,6 @@ _युधिष्ठिर बोले—_ विराटके यहाँ
 गता ह्यस्मानपाहाय सर्वे द्वैतवनादिति ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -124,15 +119,15 @@ _युधिष्ठिर बोले—_ विराटके यहाँ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तेऽन्योन्यमामन्त्र्य कर्माण्युक्त्वा पृथक् पृथक्।  
 धौम्यमामन्त्रयामासुः स च तान् मन्त्रमब्रवीत् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धौम्य उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -147,6 +142,11 @@ _युधिष्ठिर बोले—_ विराटके यहाँ
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! इस प्रकार आपसमें एक-दूसरेकी सलाह लेकर और अपने पृथक्-पृथक् कर्म बतलाकर पाण्डवोंने पुरोहित धौम्यकी भी सम्मति ली। तब पुरोहित धौम्यने उन्हें इस प्रकार सलाह दी॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धौम्य उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -972,11 +972,6 @@ _धौम्यजी बोले—_ पाण्डवो! ब्राह�
 अथ स्वविषयं प्राप्य यथाकामं करिष्यथ ॥ ५१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -990,6 +985,11 @@ _धौम्यजी बोले—_ पाण्डवो! ब्राह�
 
 तात युधिष्ठिर एवं पाण्डवो! इस प्रकार प्रयत्न-पूर्वक अपने मनको वशमें रखकर पूर्वोक्त रीतिसे उत्तम बर्ताव करते हुए इस तेरहवें वर्षको व्यतीत करो और इसी रूपमें रहकर ऐश्वर्य पानेकी इच्छा करो। तदनन्तर अपने राज्यमें आकर इच्छानुसार व्यवहार करना॥५१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1018,11 +1018,6 @@ _युधिष्ठिर बोले—_ ब्रह्मन्! आप�
 तारणायास्य दुःखस्य प्रस्थानाय जयाय च ॥ ५३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1035,6 +1030,11 @@ _युधिष्ठिर बोले—_ ब्रह्मन्! आप�
 
 अब हमें इस दुःखसागरसे पार होने, यहाँसे प्रस्थान करने और विजय पानेके लिये जो कर्तव्य आवश्यक हो, उसे आप पूर्ण करें॥५३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1123,11 +1123,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 रथानश्वांश्च रक्षन्तः सुखमूषुः सुसंवृताः ॥ ५८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें धौम्योपदेशसम्बन्धी चौथा अध्याय पूरा हुआ॥४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1145,4 +1140,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते विराटपर्वणि पाण्डवप्रवेशपर्वणि धौम्योपदेशे चतुर्थोऽध्यायः ॥ ४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें धौम्योपदेशसम्बन्धी चौथा अध्याय पूरा हुआ॥४॥
 </details>
+</details>
+

@@ -4,12 +4,7 @@ title_full = "057 सर्पयज्ञमें दग्ध हुए प�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="श्रीदेवी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-057-sridevi.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
+<div caption="श्रीदेवी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-057-sridevi.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,15 +20,15 @@ title_full = "057 सर्पयज्ञमें दग्ध हुए प�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये सर्पाः सर्पसत्रेऽस्मिन् पतिता हव्यवाहने।  
 तेषां नामानि सर्वेषां श्रोतुमिच्छामि सूतज ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -48,6 +43,11 @@ title_full = "057 सर्पयज्ञमें दग्ध हुए प�
 
 _शौनकजीने पूछा—_ सूतनन्दन! इस सर्पसत्रकी धधकती हुई आगमें जो-जो सर्प गिरे थे, उन सबके नाम मैं सुनना चाहता हूँ॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,11 +319,6 @@ _उग्रश्रवाजीने कहा—_ द्विजश्र�
 दग्धास्तत्र महासत्रे ब्रह्मदण्डनिपीडिताः ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पनामकथनविषयक सत्तावनवाँ अध्याय पूरा हुआ॥५७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -342,4 +337,10 @@ _उग्रश्रवाजीने कहा—_ द्विजश्र�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सर्पनामकथने सप्तपञ्चाशत्तमोऽध्यायः ॥ ५७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पनामकथनविषयक सत्तावनवाँ अध्याय पूरा हुआ॥५७॥
 </details>
+</details>
+

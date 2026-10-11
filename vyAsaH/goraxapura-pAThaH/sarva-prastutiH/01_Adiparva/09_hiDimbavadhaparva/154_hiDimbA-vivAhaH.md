@@ -4,22 +4,17 @@ title_full = "154 युधिष्ठिरका भीमसेनको ह
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p05.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p06.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-154p06.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -35,17 +30,17 @@ title_full = "154 युधिष्ठिरका भीमसेनको ह
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तानेवापतत् तूर्णं भगिनी तस्य रक्षसः।  
 अब्रुवाणा हिडिम्बा तु राक्षसी पाण्डवान् प्रति॥  
 अभिवाद्य ततः कुन्तीं धर्मराजं च पाण्डवम्।  
 अभिपूज्य च तान् सर्वान् भीमसेनमभाषत॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-हिडिम्बोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -64,17 +59,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+हिडिम्बोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं ते दर्शनादेव मन्मथस्य वशं गता।  
 क्रूरं भ्रातृवचो हित्वा सा त्वामेवानुरुन्धती॥  
 राक्षसे रौद्रसंकाशे तवापश्यं विचेष्टितम्।  
 अहं शुश्रूषुरिच्छेयं तव गात्रं निषेवितुम्॥)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -93,15 +88,15 @@ _हिडिम्बाने कहा—_ (आर्यपुत्र!) आ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मरन्ति वैरं रक्षांसि मायामाश्रित्य मोहिनीम्।  
 हिडिम्बे व्रज पन्थानं त्वमिमं भ्रातृसेवितम् ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -116,6 +111,11 @@ _हिडिम्बाने कहा—_ (आर्यपुत्र!) आ
 
 _भीमसेन बोले—_ हिडिम्बे! राक्षस मोहिनी मायाका आश्रय लेकर बहुत दिनोंतक वैरका स्मरण रखते हैं, अतः तू भी अपने भाईके ही मार्गपर चली जा॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -144,11 +144,6 @@ _यह सुनकर युधिष्ठिरने कहा—_ पु�
 रक्षसस्तस्य भगिनी किं नः क्रुद्धा करिष्यति ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -161,6 +156,11 @@ _यह सुनकर युधिष्ठिरने कहा—_ पु�
 
 महाबली हिडिम्ब हमलोगोंको मारनेके अभिप्रायसे आ रहा था। अतः तुमने जो उसका वध किया, वह उचित ही है। उस राक्षसकी बहिन हिडिम्बा यदि क्रोध भी करे तो हमारा क्या कर लेगी?॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,11 +418,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 रुवन्ति मधुरं गीतं गान्धर्वस्वनमिश्रितम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -450,15 +445,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा कुन्ती वचनमब्रवीत्।  
 युधिष्ठिरं महाप्राज्ञं सर्वशास्त्रविशारदम् ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -475,17 +470,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं हि धर्मभृतां श्रेष्ठ मयोक्तं शृणु भारत।  
 राक्षस्येषा हि वाक्येन धर्मं वदति साधु वै॥  
 भावेन दुष्टा भीमं सा किं करिष्यति राक्षसी।  
 भजतां पाण्डवं वीरमपत्यार्थं यदीच्छसि॥)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -502,6 +497,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _कुन्ती बोली—_ धर्मात्माओंमें श्रेष्ठ भारत! मैं जो कहती हूँ, उसे तुम सुनो; यह राक्षसी अपनी वाणीद्वारा तो उत्तम धर्मका ही प्रतिपादन करती है। यदि इसकी हार्दिक भावना भीमसेनके प्रति दूषित हो, तो भी यह उनका क्या बिगाड़ लेगी? अतः यदि तुम्हारी सम्मति हो तो यह संतानके लिये कुछ कालतक मेरे वीर पुत्र पाण्डुनन्दन भीमसेनकी सेवामें रहे।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -608,11 +608,6 @@ _युधिष्ठिर बोले—_ हिडिम्बे! तु�
 कुन्तिराजसुता वाक्यं भीमसेनमथाब्रवीत् ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -641,6 +636,11 @@ _युधिष्ठिर बोले—_ हिडिम्बे! तु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा पाण्डुस्तथा मान्यस्तव ज्येष्ठो युधिष्ठिरः।  
@@ -655,11 +655,6 @@ _युधिष्ठिर बोले—_ हिडिम्बे! तु�
 युधिष्ठिरं च मां चैव वरयामास धर्मतः॥  
 धर्मार्थं देहि पुत्रं त्वं स नः श्रेयः करिष्यति।  
 प्रतिवाक्यं तु नेच्छामि ह्यावाभ्यां वचनं कुरु॥)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -684,6 +679,11 @@ _युधिष्ठिर बोले—_ हिडिम्बे! तु�
 
 _कुन्ती बोली—_ युवराज! तुम्हारे लिये जैसे महाराज पाण्डु माननीय थे, वैसे ही बड़े भाई युधिष्ठिर भी हैं। धर्मशास्त्रकी दृष्टिसे मैं उनकी अपेक्षा भी अधिक गौरवकी पात्र तथा सम्माननीय हूँ। अतः तुम महाराज पाण्डुके हितके लिये मेरी एक हितकर आज्ञाका पालन करो। वृकोदर! अपवित्र बुद्धिवाले पापात्मा दुर्योधनने हमारे साथ जो दुष्टता की है, उसके प्रतिशोधका उपाय मुझे कोई नहीं दिखायी देता। अतः कुछ दिनोंके बाद भले ही हमारा योगक्षेम सिद्ध हो। यह निवासस्थान अत्यन्त दुर्गम होनेके कारण हमारे लिये कल्याणकारी सिद्ध होगा। हम यहाँ सुखपूर्वक रहेंगे। महाप्राज्ञ भीमसेन! आज यह हमारे सामने अत्यन्त दुःखद धर्मसंकट उपस्थित हुआ है कि हिडिम्बा तुम्हें देखते ही कामसे प्रेरित हो मेरे और युधिष्ठिरके पास आकर धर्मतः तुम्हें पतिके रूपमें वरण कर चुकी है। मेरी आज्ञा है कि तुम उसे धर्मके लिये एक पुत्र प्रदान करो। वह हमारे लिये कल्याणकारी होगा। मैं इस विषयमें तुम्हारा कोई प्रतिवाद नहीं सुनना चाहती। तुम हम दोनोंके सामने प्रतिज्ञा करो।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -712,11 +712,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तावत् कालं गमिष्यामि त्वया सह सुमध्यमे ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -729,6 +724,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘शुभे! सुमध्यमे! जबतक तुम्हें पुत्रकी उत्पत्ति न हो जाय तभीतक मैं तुम्हारे साथ विहारके लिये चलूँगा’॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1017,11 +1017,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ज्येष्ठः पुत्रोऽसि पञ्चानां साहाय्यं कुरु पुत्रक ॥ ४३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1034,6 +1029,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘बेटा! तुम्हारा जन्म कुरुकुलमें हुआ है। तुम मेरे लिये साक्षात् भीमसेनके समान हो। पाँचों पाण्डवोंके ज्येष्ठ पुत्र हो, अतः हमारी सहायता करो’॥४३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1089,11 +1089,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कर्णस्याप्रतिवीर्यस्य प्रतियोद्धा महारथः ॥ ४६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत हिडिम्बवधपर्वमें घटोत्कचकी उत्पत्तिविषयक एक सौ चौवनवाँ अध्याय पूरा हुआ॥१५४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1110,6 +1105,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि हिडिम्बवधपर्वणि घटोत्कचोत्पत्तौ चतुष्पञ्चाशदधिकशततमोऽध्यायः ॥ १५४ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत हिडिम्बवधपर्वमें घटोत्कचकी उत्पत्तिविषयक एक सौ चौवनवाँ अध्याय पूरा हुआ॥१५४॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

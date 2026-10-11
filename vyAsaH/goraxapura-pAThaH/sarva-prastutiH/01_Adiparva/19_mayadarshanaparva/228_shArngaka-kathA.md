@@ -4,16 +4,11 @@ title_full = "228 शार्ङ्गकोपाख्यान—मन्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-228p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-228p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-228p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-228p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-228p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-228p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "228 शार्ङ्गकोपाख्यान—मन्�
 
 शार्ङ्गकोपाख्यान—मन्दपाल मुनिके द्वारा जरिता-शार्ङ्गिकासे पुत्रोंकी उत्पत्ति और उन्हें बचानेके लिये मुनिका अग्निदेवकी स्तुति करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -75,11 +75,6 @@ _जनमेजयने पूछा—_ ब्रह्मन्! इस प�
 कीर्तयस्वाग्निसम्मर्दे कथं ते न विनाशिताः ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -92,6 +87,11 @@ _जनमेजयने पूछा—_ ब्रह्मन्! इस प�
 
 ब्रह्मन्! उस भयानक अग्निकाण्डमें उन शाङ्‌र्गकोंका सकुशल बच जाना, यह बड़े आश्चर्यकी बात है। कृपया बताइये, उनका नाश कैसे नहीं हुआ?॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,11 +180,6 @@ _वैशम्पायनजी कहते हैं—_ शत्रुद
 पप्रच्छ धर्मराजस्य समीपस्थान् दिवौकसः ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मन्दपाल उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -197,6 +192,11 @@ _वैशम्पायनजी कहते हैं—_ शत्रुद
 
 उन्होंने तपस्याद्वारा वशमें किये हुए लोकोंको भी निष्फल देखकर धर्मराजके पास बैठे हुए देवताओंसे पूछा॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मन्दपाल उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -225,11 +225,6 @@ _मन्दपाल बोले—_ देवताओ! मेरी तप�
 फलमेतस्य तपसः कथयध्वं दिवौकसः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -242,6 +237,11 @@ _मन्दपाल बोले—_ देवताओ! मेरी तप�
 
 जिसके लिये इस तपस्याका फल ढका हुआ है, मैं उस लोकमें जाकर वह कर्म करूँगा। आपलोग मुझसे उसको बताइये॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,11 +294,6 @@ _देवताओंने कहा—_ ब्रह्मन्! मनु�
 तस्मादपत्यसंताने यतस्व ब्रह्मसत्तम ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -311,6 +306,11 @@ _देवताओंने कहा—_ ब्रह्मन्! मनु�
 
 श्रुतिका कथन है कि पुत्र ‘पुत्’ नामक नरकसे पिताका उद्धार करता है। अतः विप्रवर! आप अपनी वंशपरम्पराको अविच्छिन्न बनानेका प्रयत्न कीजिये॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -444,11 +444,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पुत्रान् प्रति वदन् भीतो लोकपालं महौजसम्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मन्दपाल उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -462,6 +457,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 अग्निदेवके संकल्पको जानकर और अपने पुत्रोंकी बाल्यावस्थाका विचार करके ब्रह्मर्षि मन्दपाल भयभीत होकर महातेजस्वी लोकपाल अग्निसे अपने पुत्रोंकी रक्षाके लिये निवेदन करते हुए (ईश्वरकी भाँति) उनकी स्तुति करने लगे॥२२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मन्दपाल उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -609,11 +609,6 @@ _मन्दपालने कहा—_ अग्निदेव! आप स�
 त्वमश्विनौ यमौ मित्रः सोमस्त्वमसि चानिलः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -627,6 +622,11 @@ _मन्दपालने कहा—_ अग्निदेव! आप स�
 
 आपहीमें हव्य और कव्य यथावत् प्रतिष्ठित हैं। देव! आप ही दग्ध करनेवाले अग्नि, धारण-पोषण करनेवाले धाता और बुद्धिके स्वामी बृहस्पति हैं। आप ही युगल अश्विनीकुमार, मित्र (सूर्य), चन्द्रमा और वायु हैं॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -677,11 +677,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 खाण्डवे तेन कालेन प्रजज्वाल दिधक्षया ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें शार्ङ्गकोपाख्यानविषयक दो सौ अट्ठाईसवाँ अध्याय पूरा हुआ॥२२८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -699,4 +694,10 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 इति श्रीमहाभारते आदिपर्वणि मयदर्शनपर्वणि शार्ङ्गकोपाख्यानेऽष्टाविंशत्यधिकद्विशततमोऽध्यायः ॥ २२८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत मयदर्शनपर्वमें शार्ङ्गकोपाख्यानविषयक दो सौ अट्ठाईसवाँ अध्याय पूरा हुआ॥२२८॥
 </details>
+</details>
+

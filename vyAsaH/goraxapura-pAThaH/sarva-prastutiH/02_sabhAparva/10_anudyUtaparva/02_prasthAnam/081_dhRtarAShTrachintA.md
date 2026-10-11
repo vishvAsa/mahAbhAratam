@@ -4,18 +4,13 @@ title_full = "081 धृतराष्ट्रकी चिन्ता और
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-081-p01.mp3"></div>
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-081-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-081-p02.mp3"></div>
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-081-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-081-p03.mp3"></div>
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-081-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-081-p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-081-p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "081 धृतराष्ट्रकी चिन्ता और
 
 धृतराष्ट्रकी चिन्ता और उनका संजयके साथ वार्तालाप
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -57,11 +57,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 निःश्वसन्तमनेकाग्रमिति होवाच संजयः ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -76,15 +71,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवाप्य वसुसम्पूर्णां वसुधां वसुधाधिप।  
 प्रव्राज्य पाण्डवान् राज्याद् राजन् किमनुशोचसि ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -101,15 +96,15 @@ _संजय बोले—_ पृथ्वीनाथ! यह धन-रत
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोच्यत्वं कुतस्तेषां येषां वैरं भविष्यति।  
 पाण्डवैर्युद्धशौण्डैर्हि बलवद्भिर्महारथैः ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -124,6 +119,11 @@ _संजय बोले—_ पृथ्वीनाथ! यह धन-रत
 
 _धृतराष्ट्रने कहा—_ जिन लोगोंका युद्धकुशल बलवान् महारथी पाण्डवोंसे वैर होगा, वे शोकमग्न हुए बिना कैसे रह सकते हैं?॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,11 +295,6 @@ _संजय बोले—_ राजन्! यह आपकी अपनी
 इति सर्वमिदं राजन्नाकुलं प्रतिभाति मे।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -311,6 +306,11 @@ _संजय बोले—_ राजन्! यह आपकी अपनी
 
 राजन्! ये सारी बातें मुझे महान् दुःखको निमन्त्रण देनेवाली जान पड़ती हैं॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -638,11 +638,6 @@ _धृतराष्ट्रने कहा—_ संजय! द्रौ�
 उक्तवान् न गृहीतं वै मया पुत्रहितैषिणा ॥ ३९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार व्यासनिर्मित श्रीमहाभारतनामक एक लाख श्लोकोंकी संहितामें सभापर्वके अन्तर्गत अनुद्यूतपर्वमें धृतराष्ट्रसंजयसंवादविषयक इक्यासीवाँ अध्याय पूरा हुआ॥८१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -662,8 +657,14 @@ _धृतराष्ट्रने कहा—_ संजय! द्रौ�
 इति श्रीमहाभारते शतसाहस्र्यां संहितायां वैयासिक्यां सभापर्वणि अनुद्यूतपर्वणि धृतराष्ट्रसंजयसंवादे एकाशीतितमोऽध्यायः॥८१॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार व्यासनिर्मित श्रीमहाभारतनामक एक लाख श्लोकोंकी संहितामें सभापर्वके अन्तर्गत अनुद्यूतपर्वमें धृतराष्ट्रसंजयसंवादविषयक इक्यासीवाँ अध्याय पूरा हुआ॥८१॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (सभापर्व सम्पूर्णम्)
 </details>
 </details>
+

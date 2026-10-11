@@ -4,20 +4,15 @@ title_full = "065 युधिष्ठिरका धन, राज्य, भ
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-065p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-065p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-065p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-065p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-065p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-065p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-065p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-065p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-065p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-065p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -33,15 +28,15 @@ title_full = "065 युधिष्ठिरका धन, राज्य, भ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहु वित्तं पराजैषीः पाण्डवानां युधिष्ठिर।  
 आचक्ष्व वित्तं कौन्तेय यदि तेऽस्त्यपराजितम् ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -56,6 +51,11 @@ title_full = "065 युधिष्ठिरका धन, राज्य, भ
 
 _शकुनि बोला—_ कुन्तीनन्दन युधिष्ठिर! आप अबतक पाण्डवोंका बहुत-सा धन हार चुके। यदि आपके पास बिना हारा हुआ कोई धन शेष हो तो बताइये॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -86,11 +86,6 @@ _युधिष्ठिर बोले—_ सुबलपुत्र! म�
 एतन्मम धनं राजंस्तेन दीव्याम्यहं त्वया ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -107,15 +102,15 @@ _युधिष्ठिर बोले—_ सुबलपुत्र! म�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -132,16 +127,16 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गवाश्वं बहुधेनूकमसंख्येयमजाविकम् ।  
 यत् किंचिदनुपर्णाशां प्राक् सिन्धोरपि सौबल।  
 एतन्मम धनं सर्वं तेन दीव्याम्यहं त्वया ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -159,15 +154,15 @@ _युधिष्ठिर बोले—_ सुबलपुत्र! म�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -184,16 +179,16 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरं जनपदो भूमिरब्राह्मणधनैः सह।  
 अब्राह्मणाश्च पुरुषा राजञ्छिष्टं धनं मम।  
 एतद् राजन् मम धनं तेन दीव्याम्यहं त्वया ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -211,15 +206,15 @@ _युधिष्ठिर बोले—_ राजन्! ब्राह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -236,16 +231,16 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजपुत्रा इमे राजञ्छोभन्ते यैर्विभूषिताः।  
 कुण्डलानि च निष्काश्च सर्वं राजविभूषणम्।  
 एतन्मम धनं राजंस्तेन दीव्याम्यहं त्वया ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -263,15 +258,15 @@ _युधिष्ठिर बोले—_ राजन्! ये राज�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -288,15 +283,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्यामो युवा लोहिताक्षः सिंहस्कन्धो महाभुजः।  
 नकुलो ग्लह एवैको विद्ध्येतन्मम तद्धनम् ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -313,15 +308,15 @@ _युधिष्ठिर बोले—_ श्यामवर्ण, त�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियस्ते नकुलो राजन् राजपुत्रो युधिष्ठिर।  
 अस्माकं वशतां प्राप्तो भूयः केनेह दीव्यसे ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -338,15 +333,15 @@ _शकुनि बोला—_ धर्मराज युधिष्ठि
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु तानक्षाञ्छकुनिः प्रत्यदीव्यत।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -363,17 +358,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं धर्मान् सहदेवोऽनुशास्ति  
 लोके ह्यस्मिन् पण्डिताख्यां गतश्च।  
 अनर्हता राजपुत्रेण तेन  
 दीव्याम्यहं चाप्रियवत् प्रियेण ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -392,15 +387,15 @@ _युधिष्ठिर बोले—_ ये सहदेव धर्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -417,15 +412,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 माद्रीपुत्रौ प्रियौ राजंस्तवेमौ विजितौ मया।  
 गरीयांसौ तु ते मन्ये भीमसेनधनंजयौ ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -442,15 +437,15 @@ _शकुनि बोला—_ राजन्! आपके ये दोन
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधर्मं चरसे नूनं यो नावेक्षसि वै नयम्।  
 यो नः सुमनसां मूढ विभेदं कर्तुमिच्छसि ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -465,6 +460,11 @@ _शकुनि बोला—_ राजन्! आपके ये दोन
 
 _युधिष्ठिर बोले—_ ओ मूढ़! तू निश्चय ही अधर्मका आचरण कर रहा है, जो न्यायकी ओर नहीं देखता। तू शुद्ध हृदयवाले हमारे भाइयोंमें फूट डालना चाहता है॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,11 +493,6 @@ _शकुनि बोला—_ राजन्! धनके लोभसे 
 कितवा यानि दीव्यन्तः प्रलपन्त्युत्कटा इव ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -512,17 +507,17 @@ _शकुनि बोला—_ राजन्! धनके लोभसे 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो नः संख्ये नौरिव पारनेता  
 जेता रिपूणां राजपुत्रस्तरस्वी ।  
 अनर्हता लोकवीरेण तेन  
 दीव्याम्यहं शकुने फाल्गुनेन ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -541,15 +536,15 @@ _युधिष्ठिरने कहा—_ शकुने! जो यु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ २२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -566,17 +561,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं मया पाण्डवानां धनुर्धरः  
 पराजितः पाण्डवः सव्यसाची ।  
 भीमेन राजन् दयितेन दीव्य  
 यत् कैतवं पाण्डव तेऽवशिष्टम् ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -595,6 +590,11 @@ _शकुनि फिर बोला—_ राजन्! ये पाण्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो नो नेता युधि नः प्रणेता  
@@ -605,11 +605,6 @@ _शकुनि फिर बोला—_ राजन्! ये पाण्
 गदाभृतामग्र्य इहारिमर्दनः ।  
 अनर्हता राजपुत्रेण तेन  
 दीव्याम्यहं भीमसेनेन राजन् ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -632,15 +627,15 @@ _युधिष्ठिरने कहा—_ राजन्! जो यु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ २६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -657,15 +652,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहु वित्तं पराजैषीर्भ्रातॄंश्च सहयद्विपान्।  
 आचक्ष्व वित्तं कौन्तेय यदि तेऽस्त्यपराजितम् ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -682,15 +677,15 @@ _शकुनि बोला—_ कुन्तीनन्दन! आप अ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं विशिष्टः सर्वेषां भ्रातॄणां दयितस्तथा।  
 कुर्यामहं जितः कर्म स्वयमात्मन्युपप्लुते ॥ २८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -707,15 +702,15 @@ _युधिष्ठिरने कहा—_ मैं अपने सब �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा व्यवसितो निकृतिं समुपाश्रितः।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ २९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -732,15 +727,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् पापिष्ठमकरोर्यदात्मानमहारयः ।  
 शिष्टे सति धने राजन् पाप आत्मपराजयः ॥ ३० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -757,15 +752,15 @@ _शकुनि फिर बोला—_ राजन्! आप अपने
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा मताक्षस्तान् ग्लहे सर्वानवस्थितान्।  
 पराजयं लोकवीरानुक्त्वा राज्ञां पृथक्-पृथक् ॥ ३१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -782,15 +777,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्ति ते वै प्रिया राजन् ग्लह एकोऽपराजितः।  
 पणस्व कृष्णां पाञ्चालीं तयाऽऽत्मानं पुनर्जय ॥ ३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -805,6 +800,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _तत्पश्चात् शकुनिने फिर कहा—_ राजन्! आपकी प्रियतमा द्रौपदी एक ऐसा दाँव है, जिसे आप अबतक नहीं हारे हैं; अतः पांचालराजकुमारी कृष्णाको आप दाँवपर रखिये और उसके द्वारा फिर अपनेको जीत लीजिये॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -933,11 +933,6 @@ _युधिष्ठिरने कहा—_ जो न नाटी है 
 ग्लहं दीव्यामि चार्वङ्ग्या द्रौपद्या हन्त सौबल ॥ ३९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -950,6 +945,11 @@ _युधिष्ठिरने कहा—_ जो न नाटी है 
 
 सुबलपुत्र! ऐसी सर्वांगसुन्दरी सुमध्यमा पांचाल-राजकुमारी द्रौपदीको दाँवपर रखकर मैं तुम्हारे साथ जूआ खेलता हूँ; यद्यपि ऐसा करते हुए मुझे महान् कष्ट हो रहा है॥३९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1080,11 +1080,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 जितमित्येव तानक्षान् पुनरेवान्वपद्यत ॥ ४५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें द्रौपदीपराजयविषयक पैंसठवाँ अध्याय पूरा हुआ॥६५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1103,8 +1098,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि द्रौपदीपराजये पञ्चषष्टितमोऽध्यायः ॥ ६५ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें द्रौपदीपराजयविषयक पैंसठवाँ अध्याय पूरा हुआ॥६५॥
+</details>
+
 <details><summary>Misc Detail</summary>
 
 _(दाक्षिणात्य अधिक पाठके १_  _श्लोक मिलाकर कुल ४६_  _श्लोक हैं)_
 </details>
 </details>
+

@@ -4,14 +4,9 @@ title_full = "073 धृतराष्ट्रका युधिष्ठि�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-073-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-073-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-073-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-073-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,15 +22,15 @@ title_full = "073 धृतराष्ट्रका युधिष्ठि�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् किं करवामस्ते प्रशाध्यस्मांस्त्वमीश्वरः।  
 नित्यं हि स्थातुमिच्छामस्तव भारत शासने ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -50,6 +45,11 @@ title_full = "073 धृतराष्ट्रका युधिष्ठि�
 
 _युधिष्ठिर बोले—_ राजन्! आप हमारे स्वामी हैं। आज्ञा दीजिये, हम क्या करें। भारत! हमलोग सदा आपकी आज्ञाके अधीन रहना चाहते हैं॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -274,11 +274,6 @@ _धृतराष्ट्रने कहा—_ अजातशत्रो!
 भ्रातृभिस्तेऽस्तु सौभ्रात्रं धर्मे ते धीयतां मनः ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -293,6 +288,11 @@ _धृतराष्ट्रने कहा—_ अजातशत्रो!
 
 तुममें धर्म है, अर्जुनमें धैर्य है, भीमसेनमें पराक्रम है और नरश्रेष्ठ नकुल-सहदेवमें श्रद्धा एवं विशुद्ध गुरुसेवाका भाव है। अजातशत्रो! तुम्हारा भला हो। अब तुम खाण्डवप्रस्थको जाओ। दुर्योधन आदि बन्धुओंके प्रति तुम्हें अच्छे भाईका-सा स्नेहभाव रहे और तुम्हारा मन सदा धर्ममें लगा रहे॥१५-१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -321,11 +321,6 @@ _वैशम्पायनजी कहते हैं—_ भरतश्र
 प्रययुर्हृष्टमनस इन्द्रप्रस्थं पुरोत्तमम् ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें धृतराष्ट्रवरदानपूर्वक युधिष्ठिरका इन्द्रप्रस्थगमनविषयक तिहत्तरवाँ अध्याय पूरा हुआ॥७३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -343,4 +338,10 @@ _वैशम्पायनजी कहते हैं—_ भरतश्र
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि धृतराष्ट्रवरप्रदानपूर्वकमिन्द्रप्रस्थं प्रति युधिष्ठिरगमने त्रिसप्ततितमोऽध्यायः॥७३॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें धृतराष्ट्रवरदानपूर्वक युधिष्ठिरका इन्द्रप्रस्थगमनविषयक तिहत्तरवाँ अध्याय पूरा हुआ॥७३॥
 </details>
+</details>
+

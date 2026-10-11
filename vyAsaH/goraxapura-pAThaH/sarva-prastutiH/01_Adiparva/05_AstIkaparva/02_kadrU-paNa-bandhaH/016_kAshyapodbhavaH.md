@@ -4,12 +4,7 @@ title_full = "016 कद्रू और विनताको कश्यप�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वैष्णवी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-016vaishnavi.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
+<div caption="वैष्णवी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-016vaishnavi.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "016 कद्रू और विनताको कश्यप�
 
 कद्रू और विनताको कश्यपजीके वरदानसे अभीष्ट पुत्रोंकी प्राप्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -71,11 +71,6 @@ _शौनकजी बोले—_ सूतनन्दन! आप ज्ञ�
 आचष्टैतद् यथाख्यानं पिता ते त्वं तथा वद ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -88,6 +83,11 @@ _शौनकजी बोले—_ सूतनन्दन! आप ज्ञ�
 
 आपके पिता सदा हमलोगोंकी सेवामें लगे रहते थे। उन्होंने इस उपाख्यानको जिस प्रकार कहा है, उसी रूपमें आप भी कहिये॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,11 +209,6 @@ _उग्रश्रवाजीने कहा—_ आयुष्मन्!
 ते भार्ये वरसंतुष्टे कश्यपो वनमाविशत्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -227,6 +222,11 @@ _उग्रश्रवाजीने कहा—_ आयुष्मन्!
 
 समान तेजस्वी एक हजार पुत्र होनेका वर पाकर कद्रू भी अपना मनोरथ सिद्ध हुआ समझने लगी। वरदान पाकर संतुष्ट हुई अपनी उन धर्मपत्नियोंसे यह कहकर कि ‘तुम दोनों यत्नपूर्वक अपने-अपने गर्भकी रक्षा करना’ महातपस्वी कश्यपजी वनमें चले गये॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,11 +391,6 @@ _उग्रश्रवाजीने कहा—_ ब्रह्मन्!
 विधात्रा भृगुशार्दूल क्षुधितः पतगेश्वरः ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्प आदिकी उत्पत्तिसे सम्बन्ध रखनेवाला सोलहवाँ अध्याय पूरा हुआ॥१६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -415,4 +410,10 @@ _उग्रश्रवाजीने कहा—_ ब्रह्मन्!
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सर्पादीनामुत्पत्तौ षोडशोऽध्यायः ॥ १६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्प आदिकी उत्पत्तिसे सम्बन्ध रखनेवाला सोलहवाँ अध्याय पूरा हुआ॥१६॥
 </details>
+</details>
+

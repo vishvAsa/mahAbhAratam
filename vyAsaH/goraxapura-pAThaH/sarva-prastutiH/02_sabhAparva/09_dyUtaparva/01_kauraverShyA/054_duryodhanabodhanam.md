@@ -4,12 +4,7 @@ title_full = "054 धृतराष्ट्रका दुर्योधन�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-054.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-054.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "054 धृतराष्ट्रका दुर्योधन�
 
 धृतराष्ट्रका दुर्योधनको समझाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,11 +241,6 @@ _धृतराष्ट्र बोले—_ दुर्योधन! त�
 क्रीडन् स्त्रीभिर्निरातङ्कः प्रशाम्य भरतर्षभ ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें दुर्योधनसंतापविषयक चौवनवाँ अध्याय पूरा हुआ॥५४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -264,8 +259,14 @@ _धृतराष्ट्र बोले—_ दुर्योधन! त�
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि दुर्योधनसंतापे चतुःपञ्चाशत्तमोऽध्यायः ॥ ५४ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें दुर्योधनसंतापविषयक चौवनवाँ अध्याय पूरा हुआ॥५४॥
+</details>
+
 <details><summary>Misc Detail</summary>
 
 _(दाक्षिणात्य अधिक पाठके १_  _श्लोक मिलाकर कुल १२_  _श्लोक हैं)_
 </details>
 </details>
+

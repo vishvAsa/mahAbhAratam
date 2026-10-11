@@ -4,16 +4,11 @@ title_full = "200 धृतराष्ट्र और दुर्योधन
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-200p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-200p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-200p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-200p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-200p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-200p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "200 धृतराष्ट्र और दुर्योधन
 
 धृतराष्ट्र और दुर्योधनकी बातचीत, शत्रुओंको वशमें करनेके उपाय
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -75,11 +75,6 @@ _धृतराष्ट्रने कहा—_ बेटा! मैं भ�
 राधेय मन्यसे यच्च प्राप्तकालं वदाशु मे ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -92,6 +87,11 @@ _धृतराष्ट्रने कहा—_ बेटा! मैं भ�
 
 सुयोधन और कर्ण! तुम दोनों समयके अनुसार जो कार्य करना आवश्यक समझते हो वह शीघ्र मुझे बताओ॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,11 +388,6 @@ _दुर्योधन बोला—_ पिताजी! आज अत्�
 साध्वी वा यदि वासाध्वी किं वा राधेय मन्यसे॥२०॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें दुर्योधनवाक्यविषयक दो सौवाँ अध्याय पूरा हुआ॥२००॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -410,4 +405,10 @@ _दुर्योधन बोला—_ पिताजी! आज अत्�
 
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि दुर्योधनवाक्ये द्विशततमोऽध्यायः ॥ २०० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें दुर्योधनवाक्यविषयक दो सौवाँ अध्याय पूरा हुआ॥२००॥
 </details>
+</details>
+

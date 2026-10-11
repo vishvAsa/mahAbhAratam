@@ -4,14 +4,9 @@ title_full = "185 धृष्टद्युम्नका द्रौपद�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-185p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-185p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-185p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृष्टद्युम्न उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-185p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "185 धृष्टद्युम्नका द्रौपद�
 
 धृष्टद्युम्नका द्रौपदीको स्वयंवरमें आये हुए राजाओंका परिचय देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृष्टद्युम्न उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,11 +168,6 @@ _धृष्टद्युम्नने कहा—_ बहिन! यह �
 विध्येत य इदं लक्ष्यं वरयेथाः शुभेऽद्य तम् ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत, आदिपर्वके अन्तर्गत स्वयंवरपर्वमें राजाओंके नामका परिचयविषयक एक सौ पचासीवाँ अध्याय पूरा हुआ॥१८५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -197,4 +192,10 @@ _धृष्टद्युम्नने कहा—_ बहिन! यह �
 
 इति श्रीमहाभारते आदिपर्वणि स्वयंवरपर्वणि राजनामकीर्तने पञ्चाशीत्यधिकशततमोऽध्यायः ॥ १८५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत, आदिपर्वके अन्तर्गत स्वयंवरपर्वमें राजाओंके नामका परिचयविषयक एक सौ पचासीवाँ अध्याय पूरा हुआ॥१८५॥
 </details>
+</details>
+

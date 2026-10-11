@@ -4,12 +4,7 @@ title_full = "026 इन्द्रद्वारा की हुई वर�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="विनायक-रजतः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-026.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="विनायक-रजतः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-026.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "026 इन्द्रद्वारा की हुई वर�
 
 इन्द्रद्वारा की हुई वर्षासे सर्पोंकी प्रसन्नता
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,11 +139,6 @@ _उग्रश्रवाजी कहते हैं—_ नागमात
 रामणीयकमागच्छन् मात्रा सह भुजङ्गमाः ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक छब्बीसवाँ अध्याय पूरा हुआ॥२६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -161,4 +156,10 @@ _उग्रश्रवाजी कहते हैं—_ नागमात
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे षड्विंशोऽध्यायः ॥ २६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक छब्बीसवाँ अध्याय पूरा हुआ॥२६॥
 </details>
+</details>
+

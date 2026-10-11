@@ -3,12 +3,6 @@ title = "२९४ सावित्र्युपाख्याने"
 title_full = "294 सावित्रीका सत्यवान्\u200cके साथ विवाह करनेका दृढ़ निश्चय"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -20,6 +14,11 @@ title_full = "294 सावित्रीका सत्यवान्\u200c�
 
 सावित्रीका सत्यवान्‌के साथ विवाह करनेका दृढ़ निश्चय
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -68,11 +67,6 @@ _मार्कण्डेयजी कहते हैं—_ भरतनन
 उभयोरेव शिरसा चक्रे पादाभिवादनम् ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -87,15 +81,15 @@ _मार्कण्डेयजी कहते हैं—_ भरतनन
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व गताभूत् सुतेयं ते कुतश्चैवागता नृप।  
 किमर्थं युवतीं भर्त्रे न चैनां सम्प्रयच्छसि ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अश्वपतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -112,15 +106,15 @@ _नारदजीने पूछा—_ राजन्! आपकी यह 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अश्वपतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्येण खल्वनेनैव प्रेषिताद्यैव चागता।  
 एतस्याः शृणु देवर्षे भर्तारं योऽनया वृतः ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -137,15 +131,15 @@ _अश्वपतिने कहा—_ देवर्षे! इसे म�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा ब्रूहि विस्तरेणेति पित्रा संचोदिता शुभा।  
 तदैव तस्य वचनं प्रतिगृह्येदमब्रवीत् ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सावित्र्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -160,6 +154,11 @@ _अश्वपतिने कहा—_ देवर्षे! इसे म�
 
 _मार्कण्डेयजी कहते हैं—_ युधिष्ठिर! पिताके यह कहनेपर कि ‘बेटी! तू अपनी यात्राका वृतान्त विस्तारके साथ बतला’ शुभलक्षणा सावित्री उनकी आज्ञा मानकर उस समय इस प्रकार बोली॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सावित्र्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -210,11 +209,6 @@ _सावित्रीने कहा—_ पिताजी! शाल्�
 सत्यवाननुरूपो मे भर्तेति मनसा वृतः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -229,6 +223,11 @@ _सावित्रीने कहा—_ पिताजी! शाल्�
 
 तब अपनी छोटी अवस्थाके पुत्रवाली पत्नीके साथ वे वनमें चले आये और विशाल वनके भीतर रहकर बड़े-बड़े व्रतोंका पालन करते हुए तपस्या करने लगे। उनके एक पुत्र हैं सत्यवान्, जो पैदा तो नगरमें हुए हैं, परंतु उनका पालन-पोषण एवं संवर्धन तपोवनमें हुआ है। वे ही मेरे योग्य पति हैं। उन्हींका मैंने मन-ही-मन वरण किया है॥९-१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -277,11 +276,6 @@ _(यह सुनकर) नारदजी बोल उठे—_ अहो! 
 चित्रेऽपि विलिखत्यश्वांश्चित्राश्व इति चोच्यते ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -296,15 +290,15 @@ _(यह सुनकर) नारदजी बोल उठे—_ अहो! 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपीदानीं स तेजस्वी बुद्धिमान् वा नृपात्मजः।  
 क्षमावानपि वा शूरः सत्यवान् पितृवत्सलः ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -321,15 +315,15 @@ _राजाने पूछा—_ देवर्षे! इस समय प
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विवस्वानिव तेजस्वी बृहस्पतिसमो मतौ।  
 महेन्द्र इव वीरश्च वसुधेव समन्वितः ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अश्वपतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -346,15 +340,15 @@ _नारदजीने कहा—_ वह राजकुमार सू�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अश्वपतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि राजात्मजो दाता ब्रह्मण्यश्चापि सत्यवान्।  
 रूपवानप्युदारो वाप्यथवा प्रियदर्शनः ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -369,6 +363,11 @@ _नारदजीने कहा—_ वह राजकुमार सू�
 
 _अश्वपतिने पूछा—_ क्या राजपुत्र सत्यवान् दानी, ब्राह्मणभक्त, रूपवान्, उदार अथवा प्रियदर्शन भी है?॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -437,11 +436,6 @@ _नारदजीने कहा—_ सत्यवान् अपनी �
 संक्षेपतस्तपोवृद्धैः शीलवृद्धैश्च कथ्यते ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अश्वपतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -456,15 +450,15 @@ _नारदजीने कहा—_ सत्यवान् अपनी �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अश्वपतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुणैरुपेतं सर्वैस्तं भगवन् प्रब्रवीषि मे।  
 दोषानप्यस्य मे ब्रूहि यदि सन्तीह केचन ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -479,6 +473,11 @@ _नारदजीने कहा—_ सत्यवान् अपनी �
 
 _अश्वपति बोले—_ भगवन्! आप तो उसे सभी गुणोंसे सम्पन्न ही बता रहे हैं, यदि उसमें कोई दोष हों तो उन्हें भी बतलाइये॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -507,11 +506,6 @@ _नारदजीने कहा—_ दोष तो एक ही है, �
 संवत्सरेण क्षीणायुर्देहन्यासं करिष्यति ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -524,6 +518,11 @@ _नारदजीने कहा—_ दोष तो एक ही है, �
 
 आजसे लेकर एक वर्ष पूर्ण होनेतक सत्यवान्‌की आयु पूर्ण हो जायगी और वह शरीर त्याग देगा। केवल यही दोष उसमें है, दूसरा नहीं॥२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,11 +551,6 @@ _राजा बोले—_ बेटी सावित्री! यहा�
 संवत्सरेण सोऽल्पायुर्देहन्यासं करिष्यति ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सावित्र्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -569,6 +563,11 @@ _राजा बोले—_ बेटी सावित्री! यहा�
 
 जैसा कि देववदिन्त भगवान् नारदजी कह रहे हैं, सत्यवान्‌की आयु बहुत थोड़ी है और वह एक ही वर्षमें देहत्याग कर देगा॥२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सावित्र्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -601,11 +600,6 @@ _सावित्री बोली—_ भाइयोंमें धनक
 क्रियते कर्मणा पश्चात् प्रमाणं मे मनस्ततः ॥ २८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -618,6 +612,11 @@ _सावित्री बोली—_ भाइयोंमें धनक
 
 पहले मनसे निश्चय करके फिर वाणीद्वारा कहा जाता है। तत्पश्चात् उसे कार्यरूपमें परिणत किया जाता है, अतः इस विषयमें मेरा मन ही प्रमाण है॥२८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -646,11 +645,6 @@ _नारदजी बोले—_ नरश्रेष्ठ! आपकी �
 प्रदानमेव तस्मान्मे रोचते दुहितुस्तव ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -665,15 +659,15 @@ _नारदजी बोले—_ नरश्रेष्ठ! आपकी �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अविचाल्यं तदुक्तं यत् तथ्यं भगवता वचः।  
 करिष्याम्येतदेवं च गुरुर्हि भगवान् मम ॥ ३१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -690,15 +684,15 @@ _राजा बोले—_ देवर्षे! आपने जो बा
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अविघ्नमस्तु सावित्र्याः प्रदाने दुहितुस्तव।  
 साधयिष्याम्यहं तावत् सर्वेषां भद्रमस्तु वः ॥ ३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -715,15 +709,15 @@ _नारदजीने कहा—_ राजन्! आपकी पुत�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा समुत्पत्य नारदस्त्रिदिवं गतः।  
 राजापि दुहितुः सज्जं वैवाहिकमकारयत् ॥ ३३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत पतिव्रतामाहात्म्यपर्वमें सावित्री-उपाख्यानविषयक दो सौ चौरानबेवाँ अध्याय पूरा हुआ॥२९४॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -743,4 +737,10 @@ _मार्कण्डेयजी कहते हैं—_ युधिष
 
 इति श्रीमहाभारते वनपर्वणि पतिव्रतामाहात्म्यपर्वणि सावित्र्युपाख्याने चतुर्नवत्यधिकद्विशततमोऽध्यायः ॥ २९४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत पतिव्रतामाहात्म्यपर्वमें सावित्री-उपाख्यानविषयक दो सौ चौरानबेवाँ अध्याय पूरा हुआ॥२९४॥
 </details>
+</details>
+

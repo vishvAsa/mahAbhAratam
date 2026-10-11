@@ -4,18 +4,13 @@ title_full = "064 ब्राह्मणोंद्वारा क्षत�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-064p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-064p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-064p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-064p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-064p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-064p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-064p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-064p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "064 ब्राह्मणोंद्वारा क्षत�
 
 ब्राह्मणोंद्वारा क्षत्रियवंशकी उत्पत्ति और वृद्धि तथा उस समयके धार्मिक राज्यका वर्णन; असुरोंका जन्म और उनके भारसे पीड़ित पृथ्वीका ब्रह्माजीकी शरणमें जाना तथा ब्रह्माजीका देवताओंको अपने अंशसे पृथ्वीपर जन्म लेनेका आदेश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -57,11 +57,6 @@ _जनमेजय बोले—_ ब्रह्मन्! आपने य�
 भुवि तन्मे महाभाग सम्यगाख्यातुमर्हसि ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -74,6 +69,11 @@ _जनमेजय बोले—_ ब्रह्मन्! आपने य�
 
 महाभाग! वे देवतुल्य महारथी इस पृथ्वीपर जिस उद्देश्यकी सिद्धिके लिये उत्पन्न हुए थे, उसका यथावत् वर्णन कीजिये॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -778,11 +778,6 @@ _वैशम्पायनजीने कहा—_ राजन्! यह �
 प्रभवः सर्वभूतानामीशः शम्भुः प्रजापतिः ॥ ४५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -797,15 +792,15 @@ _वैशम्पायनजीने कहा—_ राजन्! यह �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदर्थमभिसम्प्राप्ता मत्सकाशं वसुन्धरे ।  
 तदर्थं संनियोक्ष्यामि सर्वानेव दिवौकसः ॥ ४६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -820,6 +815,11 @@ _वैशम्पायनजीने कहा—_ राजन्! यह �
 
 _ब्रह्माजीने कहा—_ वसुन्धरे! तुम जिस उद्देश्यसे मेरे पास आयी हो, उसकी सिद्धिके लिये मैं सम्पूर्ण देवताओंको नियुक्त कर रहा हूँ॥४६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -852,11 +852,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 उवाच भगवान् सर्वानिदं वचनमर्थवत् ॥ ४९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -869,6 +864,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 इसी प्रकार भगवान् ब्रह्माने सम्पूर्ण गन्धर्वों और अप्सराओंको भी बुलाकर यह अर्थसाधक वचन कहा॥४९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -959,11 +959,6 @@ _ब्रह्माजी बोले—_ तुम सब लोग अप�
 अंशेनावतरेत्येवं तथेत्याह च तं हरिः ॥ ५४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अंशावतरणपर्वमें चौंसठवाँ अध्याय पूरा हुआ॥६४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -980,6 +975,11 @@ _ब्रह्माजी बोले—_ तुम सब लोग अप�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि अंशावतरणपर्वणि चतुःषष्टितमोऽध्यायः ॥ ६४ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अंशावतरणपर्वमें चौंसठवाँ अध्याय पूरा हुआ॥६४॥
 </details>
 </details>
 

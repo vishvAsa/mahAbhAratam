@@ -4,12 +4,7 @@ title_full = "020 कद्रू और विनताकी होड़, क
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-020.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-020.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,17 +20,17 @@ title_full = "020 कद्रू और विनताकी होड़, क
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् ते कथितं सर्वममृतं मथितं यथा।  
 यत्र सोऽश्वः समुत्पन्नः श्रीमानतुलविक्रमः ॥ १ ॥  
 यं निशम्य तदा कद्रूर्विनतामिदमब्रवीत्।  
 उच्चैःश्रवा हि किं वर्णो भद्रे प्रब्रूहि माचिरम् ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विनतोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -54,15 +49,15 @@ _उग्रश्रवाजी कहते हैं—_ शौनकाद
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विनतोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वेत एवाश्वराजोऽयं किं वा त्वं मन्यसे शुभे।  
 ब्रूहि वर्णं त्वमप्यस्य ततोऽत्र विपणावहे ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कद्रूरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -79,15 +74,15 @@ _विनता बोली—_ शुभे! यह अश्वराज श
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कद्रूरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्णवालमहं मन्ये हयमेनं शुचिस्मिते।  
 एहि सार्धं मया दीव्य दासीभावाय भामिनि ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -102,6 +97,11 @@ _विनता बोली—_ शुभे! यह अश्वराज श
 
 _कद्रूने कहा—_ पवित्र मुसकानवाली बहन! इस घोड़े (का रंग तो अवश्य सफेद है, किंतु इस)-की पूँछको मैं काले रंगकी ही मानती हूँ। भामिनि! आओ, दासी होनेकी शर्त रखकर मेरे साथ बाजी लगाओ (यदि तुम्हारी बात ठीक हुई तो मैं दासी बनकर रहूँगी; अन्यथा तुम्हें मेरी दासी बनना होगा)॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -244,11 +244,6 @@ _उग्रश्रवाजी कहते हैं—_ इस प्र�
 एवमस्त्विति तं पुत्रं प्रत्युवाच यशस्विनी॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरितविषयक बीसवाँ अध्याय पूरा हुआ॥२०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -271,8 +266,14 @@ _उग्रश्रवाजी कहते हैं—_ इस प्र�
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे विंशोऽध्यायः ॥ २० ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरितविषयक बीसवाँ अध्याय पूरा हुआ॥२०॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ३ श्लोक मिलाकर कुल १९ श्लोक हैं)
 </details>
 </details>
+

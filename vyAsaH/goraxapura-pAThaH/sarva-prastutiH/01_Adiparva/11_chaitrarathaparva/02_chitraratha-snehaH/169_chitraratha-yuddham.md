@@ -4,26 +4,21 @@ title_full = "169 पाण्डवोंकी पंचाल-यात्र
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p03.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p04.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p05.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p06.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p06.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p07.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p07.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p08.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-169-p08.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -37,6 +32,11 @@ title_full = "169 पाण्डवोंकी पंचाल-यात्र
 
 पाण्डवोंकी पंचाल-यात्रा और अर्जुनके द्वारा चित्ररथ गन्धर्वकी पराजय एवं उन दोनोंकी मित्रता
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,11 +293,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इदं समुपसर्पन्ति तत् किं समनुसर्पथ ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -310,6 +305,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘मेरी उपस्थितिमें यहाँ राक्षस, यक्ष, देवता अथवा मनुष्य—कोई भी नहीं आने पाते; फिर तुमलोग कैसे आ रहे हो?’॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,11 +432,6 @@ _अर्जुन बोले—_ दुर्मते! समुद्र, 
 न स्पृशेम यथाकामं पुण्यं भागीरथीजलम् ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -449,6 +444,11 @@ _अर्जुन बोले—_ दुर्मते! समुद्र, 
 
 जिसे कोई रोक नहीं सकता, जहाँ पहुँचनेमें कोई बाधा नहीं है, भागीरथीके उस पावन जलका तुम्हारे कहनेसे हम अपने इच्छानुसार स्पर्श क्यों न करें?॥२४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -477,11 +477,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 व्यपोहत शरांस्तस्य सर्वानेव धनंजयः ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -494,6 +489,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 यह देख पाण्डुनन्दन धनंजयने तुरंत ही मशाल घुमाकर और उत्तम ढालसे रोककर उसके सभी बाण व्यर्थ कर दिये॥२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -562,11 +562,6 @@ _अर्जुनने कहा—_ गन्धर्व! जो अस्�
 साध्विदं मह्यमददद् द्रोणो ब्राह्मणसत्तमः ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -579,6 +574,11 @@ _अर्जुनने कहा—_ गन्धर्व! जो अस्�
 
 भरद्वाजसे इसे अग्निवेश्यने और अग्निवेश्यसे मेरे गुरु द्रोणाचार्यने प्राप्त किया है। फिर विप्रवर द्रोणाचार्यने यह उत्तम अस्त्र मुझे प्रदान किया॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,11 +615,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 नाम्ना कुम्भीनसी नाम पतित्राणमभीप्सती ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -634,15 +629,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रायस्व मां महाभाग पतिं चेमं विमुञ्च मे।  
 गन्धर्वी शरणं प्राप्ता नाम्ना कुम्भीनसी प्रभो ॥ ३५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -659,15 +654,15 @@ _गन्धर्वी बोली—_ महाभाग! मेरी र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युद्धे जितं यशोहीनं स्त्रीनाथमपराक्रमम्।  
 को निहन्याद् रिपुं तात मुञ्चेमं रिपुसूदन ॥ ३६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -684,15 +679,15 @@ _युधिष्ठिरने कहा—_ तात! शत्रुस�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवितं प्रतिपद्यस्व गच्छ गन्धर्व मा शुचः।  
 प्रदिशत्यभयं तेऽद्य कुरुराजो युधिष्ठिरः ॥ ३७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -707,6 +702,11 @@ _युधिष्ठिरने कहा—_ तात! शत्रुस�
 
 _अर्जुन बोले—_ गन्धर्व! जीवन धारण करो। जाओ, अब शोक न करो। इस समय कुरुराज युधिष्ठिर तुम्हें अभयदान दे रहे हैं॥३७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1035,11 +1035,6 @@ _गन्धर्वने कहा—_ अर्जुन! मैं पर�
 इति गन्धर्वजाः कामं पूरयिष्यन्ति मे हयाः ॥ ५४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1054,15 +1049,15 @@ _गन्धर्वने कहा—_ अर्जुन! मैं पर�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि प्रीतेन मे दत्तं संशये जीवितस्य वा।  
 विद्याधनं श्रुतं वापि न तद् गन्धर्व रोचये ॥ ५५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1077,6 +1072,11 @@ _गन्धर्वने कहा—_ अर्जुन! मैं पर�
 
 _अर्जुनने कहा—_ गन्धर्व! यदि तुमने प्रसन्न होकर अथवा प्राणसंकटसे बचानेके कारण मुझे विद्या, धन अथवा शास्त्र प्रदान किया है तो मैं इस तरहका दान लेना पसंद नहीं करता॥५५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1105,11 +1105,6 @@ _गन्धर्व बोला—_ महापुरुषोंके स
 तथैव योग्यं बीभत्सो चिराय भरतर्षभ ॥ ५७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1122,6 +1117,11 @@ _गन्धर्व बोला—_ महापुरुषोंके स
 
 साथ ही आपसे भी मैं उत्तम आग्नेयास्त्र ग्रहण करूँगा। भरतकुलभूषण अर्जुन! ऐसा करनेसे ही हम दोनोंमें दीर्घकालतक समुचित सौहार्द बना रहेगा॥५७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1150,11 +1150,6 @@ _अर्जुनने कहा—_ ठीक है, मैं यह अ�
 यान्तो वेदविदः सर्वे सन्तो रात्रावरिंदमाः ॥ ५९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1167,6 +1162,11 @@ _अर्जुनने कहा—_ ठीक है, मैं यह अ�
 
 गन्धर्व! हम सब लोग वेदवेत्ता हैं और शत्रुओंका दमन करनेकी शक्ति रखते हैं; फिर भी रातमें यात्रा करते समय जो तुमने हमलोगोंपर आक्रमण किया है, इसका क्या कारण है? इसपर भी प्रकाश डालो॥५९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1585,11 +1585,6 @@ _गन्धर्व बोला—_ पाण्डुकुमारो! �
 ब्राह्मणप्रमुखं राज्यं शक्यं पालयितुं चिरम् ॥ ८० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें गन्धर्वपराभवविषयक एक सौ उनहत्तरवाँ अध्याय पूरा हुआ॥१६९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1608,8 +1603,14 @@ _गन्धर्व बोला—_ पाण्डुकुमारो! �
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि गन्धर्वपराभवे एकोनसप्तत्यधिकशततमोऽध्यायः ॥ १६९ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें गन्धर्वपराभवविषयक एक सौ उनहत्तरवाँ अध्याय पूरा हुआ॥१६९॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २ श्लोक मिलाकर कुल ८२ श्लोक हैं)
 </details>
 </details>
+

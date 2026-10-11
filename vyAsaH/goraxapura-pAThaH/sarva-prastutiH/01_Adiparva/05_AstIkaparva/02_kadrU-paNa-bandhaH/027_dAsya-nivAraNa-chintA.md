@@ -4,12 +4,7 @@ title_full = "027 रामणीयक द्वीपके मनोरम �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-027.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-027.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "027 रामणीयक द्वीपके मनोरम �
 
 रामणीयक द्वीपके मनोरम वनका वर्णन तथा गरुडका दास्यभावसे छूटनेके लिये सर्पोंसे उपाय पूछना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,11 +251,6 @@ _उग्रश्रवाजी कहते हैं—_ गरुडपर
 किं कारणं मया मातः कर्तव्यं सर्पभाषितम् ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विनतोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -268,6 +263,11 @@ _उग्रश्रवाजी कहते हैं—_ गरुडपर
 
 गरुडने कुछ सोचकर अपनी माता विनतासे पूछा—‘माँ! क्या कारण है कि मुझे सर्पोंकी आज्ञाका पालन करना पड़ता है?’॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विनतोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -316,11 +316,6 @@ _विनता बोली—_ बेटा पक्षिराज! मै�
 दास्याद् वो विप्रमुच्येयं तथ्यं वदत लेलिहाः ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -335,15 +330,15 @@ _विनता बोली—_ बेटा पक्षिराज! मै�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तमब्रुवन् सर्पा आहरामृतमोजसा।  
 ततो दास्याद् विप्रमोक्षो भविता तव खेचर ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक सत्ताईसवाँ अध्याय पूरा हुआ॥२७॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -363,4 +358,10 @@ _उग्रश्रवाजी कहते हैं—_ गरुडकी
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे सप्तविंशोऽध्यायः ॥ २७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक सत्ताईसवाँ अध्याय पूरा हुआ॥२७॥
 </details>
+</details>
+

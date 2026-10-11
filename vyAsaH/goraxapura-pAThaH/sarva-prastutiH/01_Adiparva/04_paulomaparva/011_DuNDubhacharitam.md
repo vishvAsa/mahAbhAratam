@@ -4,12 +4,7 @@ title_full = "011 डुण्डुभकी आत्मकथा तथा �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-011.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-डुण्डुभ उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-011.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "011 डुण्डुभकी आत्मकथा तथा �
 
 डुण्डुभकी आत्मकथा तथा उसके द्वारा रुरुको अहिंसाका उपदेश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+डुण्डुभ उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -259,11 +259,6 @@ _डुण्डुभने कहा—_ तात! पूर्वकाल�
 आस्तीकाद् द्विजमुख्याद् वै सर्पसत्रे द्विजोत्तम ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें डुण्डुभशापमोक्षविषयक ग्यारहवाँ अध्याय पूरा हुआ॥११॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -285,4 +280,10 @@ _डुण्डुभने कहा—_ तात! पूर्वकाल�
 
 इति श्रीमहाभारते आदिपर्वणि पौलोमपर्वणि डुण्डुभशापमोक्षे एकादशोऽध्यायः ॥ ११ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें डुण्डुभशापमोक्षविषयक ग्यारहवाँ अध्याय पूरा हुआ॥११॥
 </details>
+</details>
+

@@ -4,32 +4,27 @@ title_full = "031 सहदेवके द्वारा दक्षिण �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p05.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p06.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p06.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p07.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p07.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p08.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p08.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p09.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p09.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p10.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p10.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p11.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-031p11.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -43,6 +38,11 @@ title_full = "031 सहदेवके द्वारा दक्षिण �
 
 सहदेवके द्वारा दक्षिण दिशाकी विजय
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,11 +469,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 नोत्तरं प्रतिवक्तुं च शक्तोऽभूज्जनमेजय ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -488,15 +483,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं भगवान् वह्निः प्रत्यमित्रोऽभवद् युधि।  
 सहदेवस्य यज्ञार्थं घटमानस्य वै द्विज ॥ २६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -511,6 +506,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _जनमेजयने पूछा—_ ब्रह्मन्! सहदेव तो यज्ञके लिये ही चेष्टा कर रहे थे, फिर भगवान् अग्निदेव उस युद्धमें उनके विरोधी कैसे हो गये?॥२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -766,11 +766,6 @@ _वैशम्पायनजीने कहा—_ जनमेजय! स�
 उपस्पृश्य शुचिर्भूत्वा सोऽब्रवीत् पावकं ततः ॥ ४० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सहदेव उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -784,6 +779,11 @@ _वैशम्पायनजीने कहा—_ जनमेजय! स�
 
 राजन्! धर्मात्मा सहदेव अग्निसे व्याप्त हुई अपनी सेनाको भयसे पीड़ित देख पर्वतकी भाँति अविचल भावसे खड़े रहे, भयसे कम्पित नहीं हुए। उन्होंने आचमन करके पवित्र हो अग्निदेवसे इस प्रकार कहा॥४०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सहदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -952,11 +952,6 @@ _सहदेव बोले—_ कृष्णवर्त्मन्! ह�
 तुष्टिं पुष्टिं श्रुतिं चैव प्रीतिं चाग्ने प्रयच्छ मे॥४९॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -971,15 +966,15 @@ _सहदेव बोले—_ कृष्णवर्त्मन्! ह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं मन्त्रमाग्नेयं पठन् यो जुहुयाद् विभुम्।  
 ऋद्धिमान् सततं दान्तः सर्वपापैः प्रमुच्यते ॥ ५० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सहदेव उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -994,6 +989,11 @@ _सहदेव बोले—_ कृष्णवर्त्मन्! ह�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! जो द्विज इस प्रकार इन श्लोकरूप आग्नेय मन्त्रोंका पाठ करते हुए (अन्तमें ‘स्वाहा’ बोलकर) भगवान् अग्निदेवको आहुति समर्पित करता है, वह सदा समृद्धिशाली और जितेन्द्रिय होकर सब पापोंसे मुक्त हो जाता है॥५०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सहदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1463,11 +1463,6 @@ _सहदेव बोले—_ हव्यवाहन! आपको यज�
 पूजयित्वा सहामात्यः प्रीतो वाक्यमुवाच ह॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सहदेव उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1481,6 +1476,11 @@ _सहदेव बोले—_ हव्यवाहन! आपको यज�
 
 घटोत्कच मेरुपर्वतके शिखर-जैसा जान पड़ता था। उसको आया देख पाण्डुनन्दन सहदेवने दोनों भुजाओंमें भरकर उसे हृदयसे लगा लिया और बार-बार उसका मस्तक सूँघा। तत्पश्चात् उसका स्वागत-सत्कार करके मन्त्रियोंसहित सहदेव बड़े प्रसन्न हुए और इस प्रकार बोले।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सहदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1516,11 +1516,6 @@ _सहदेवने कहा—_ वत्स! तुम मेरी आज
 इत्युक्त्वा शीघ्रमागच्छ मा भूत् कालस्य पर्ययः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1536,6 +1531,11 @@ _सहदेवने कहा—_ वत्स! तुम मेरी आज
 
 बेटा! यदि विभीषण तुम्हें भेंट न दें, तो उन्हें अपनी शक्तिका परिचय देते हुए इस प्रकार कहना—‘कुबेरके छोटे भाई लंकेश्वर! कुन्तीकुमार युधिष्ठिरने भगवान् श्रीकृष्णके बाहुबलको देखकर भाइयोंसहित राजसूययज्ञ आरम्भ किया है। आप इस समय इन बातोंको अच्छी तरह जान लें। आपका कल्याण हो, अब मैं यहाँसे चला जाऊँगा।’ इतना कहकर तुम शीघ्र लौट आना; अधिक विलम्ब मत करना।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1790,11 +1790,6 @@ _वैशम्पायनजी कहते हैं—_ महाराज
 स द्वारपालमासाद्य वाक्यमेतदुवाच ह॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-घटोत्कच उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1807,6 +1802,11 @@ _वैशम्पायनजी कहते हैं—_ महाराज
 
 इधर घटोत्कच इत्रभवनके समान मनोहर राजमहलके द्वारपर जा पहुँचा और द्वारपालसे इस प्रकार बोला।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+घटोत्कच उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1854,11 +1854,6 @@ _घटोत्कचने कहा—_ कुरुकुलमें एक
 द्रष्टुमिच्छामि पौलस्त्यं त्वं क्षिप्रं मां निवेदय।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1870,6 +1865,11 @@ _घटोत्कचने कहा—_ कुरुकुलमें एक
 
 मैं पुलस्त्यनन्दन महाराज विभीषणसे मिलना चाहता हूँ। तुम शीघ्र जाकर उन्हें मेरे आगमनकी सूचना दो।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2211,11 +2211,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पूजयित्वा यथान्यायं सान्त्वपूर्वं वचोऽब्रवीत्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विभीषण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2231,17 +2226,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विभीषण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्य वंशे तु संजातः करमिच्छन् महीपतिः॥  
 तस्यानुजान् समस्तांश्च पुरं देशं च तस्य वै।  
 त्वां च कार्यं च तत् सर्वं श्रोतुमिच्छामि तत्त्वतः॥  
 विस्तरेण मम ब्रूहि सर्वानेतान् पृथक्-पृथक्।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2260,15 +2255,15 @@ _विभीषणने पूछा—_ दूत! जो महाराज 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु हैडिम्बः पौलस्त्येन महात्मना॥  
 कृताञ्जलिरुवाचाथ सान्त्वयन् राक्षसाधिपम् ।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-घटोत्कच उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2283,6 +2278,11 @@ _विभीषणने पूछा—_ दूत! जो महाराज 
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! महात्मा विभीषणके इस प्रकार पूछनेपर हिडिम्बाकुमार घटोत्कचने हाथ जोड़कर राक्षसराजको आश्वासन देते हुए कहा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+घटोत्कच उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2724,11 +2724,6 @@ _घटोत्कच बोला—_ महाराज! चन्द्र�
 एतानवेक्ष्य धर्मज्ञ करं त्वं दातुमर्हसि॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2742,6 +2737,11 @@ _घटोत्कच बोला—_ महाराज! चन्द्र�
 
 आप धर्मराज युधिष्ठिरकी ओर देखिये, पवित्र करनेवाले राजसूययज्ञ तथा जगदीश्वर भगवान् श्रीहरिकी ओर भी ध्यान दीजिये। धर्मज्ञ नरेश! इन सबकी ओर दृष्टि रखते हुए आपको मुझे कर देना चाहिये।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3168,11 +3168,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कृतकर्मा सुखं राजन्नुवास जनमेजय ॥ ७८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें सहदेवके द्वारा दक्षिण दिशाकी विजयसे सम्बन्ध रखनेवाला इकतीसवाँ अध्याय पूरा हुआ॥३१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -3191,6 +3186,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि दिग्विजयपर्वणि सहदेवदक्षिणदिग्विजये एकत्रिंशोऽध्यायः ॥ ३१ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें सहदेवके द्वारा दक्षिण दिशाकी विजयसे सम्बन्ध रखनेवाला इकतीसवाँ अध्याय पूरा हुआ॥३१॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

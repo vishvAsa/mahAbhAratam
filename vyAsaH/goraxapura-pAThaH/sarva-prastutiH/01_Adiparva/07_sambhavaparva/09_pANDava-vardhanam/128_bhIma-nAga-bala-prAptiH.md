@@ -4,16 +4,11 @@ title_full = "128 भीमसेनके न आनेसे कुन्त�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-128p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-128p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-128p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-128p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-128p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-128p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "128 भीमसेनके न आनेसे कुन्त�
 
 भीमसेनके न आनेसे कुन्ती आदिकी चिन्ता, नागलोकसे भीमसेनका आगमन तथा उनके प्रति दुर्योधनकी कुचेष्टा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,11 +272,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तेन मे व्याकुलं चित्तं हृदयं दह्यतीव च ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -289,6 +284,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘अतः सम्भव है, वह क्रोधमें वीर भीमसेनको धोखा देकर मार भी डाले। इसी चिन्तासे मेरा चित्त व्याकुल हो उठा है, हृदय दग्ध-सा हो रहा है’॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,11 +317,6 @@ _विदुरजीने कहा—_ कल्याणी! ऐसी ब�
 आगमिष्यति ते पुत्रः प्रीतिं चोत्पादयिष्यति ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -334,6 +329,11 @@ _विदुरजीने कहा—_ कल्याणी! ऐसी ब�
 
 महामुनि व्यासने पहले जैसा कहा है, उसके अनुसार तुम्हारे ये सभी पुत्र दीर्घजीवी हैं, अतः तुम्हारा पुत्र भीमसेन कहीं भी क्यों न गया हो, अवश्य लौटेगा और तुम्हें आनन्द प्रदान करेगा॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -756,11 +756,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अधिजग्मुश्च कुरवो धनुर्वेदं कृपात् तु ते ॥ ४३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें भीमसेनके लौटनेसे सम्बन्ध रखनेवाला एक सौ अट्ठाईसवाँ अध्याय पूरा हुआ॥१२८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -780,4 +775,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि भीमप्रत्यागमने अष्टाविंशत्यधिकशततमोऽध्यायः ॥ १२८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें भीमसेनके लौटनेसे सम्बन्ध रखनेवाला एक सौ अट्ठाईसवाँ अध्याय पूरा हुआ॥१२८॥
 </details>
+</details>
+

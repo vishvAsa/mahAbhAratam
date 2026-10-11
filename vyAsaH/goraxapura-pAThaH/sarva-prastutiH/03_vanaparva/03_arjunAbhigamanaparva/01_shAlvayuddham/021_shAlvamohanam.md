@@ -4,12 +4,7 @@ title_full = "021 श्रीकृष्णका शाल्वकी मा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-021.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-021.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "021 श्रीकृष्णका शाल्वकी मा
 
 श्रीकृष्णका शाल्वकी मायासे मोहित होकर पुनः सजग होना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,11 +547,6 @@ _(दूत बोला—)_  ‘वीर! द्वारकानरेश �
 प्रबुद्धोऽस्मि ततो भूयः शतशोऽवाकिरं शरान् ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक इक्कीसवाँ अध्याय पूरा हुआ॥२१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -569,4 +564,10 @@ _(दूत बोला—)_  ‘वीर! द्वारकानरेश �
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि सौभवधोपाख्याने एकविंशोऽध्यायः ॥ २१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक इक्कीसवाँ अध्याय पूरा हुआ॥२१॥
 </details>
+</details>
+

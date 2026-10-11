@@ -4,12 +4,7 @@ title_full = "029 कश्यपजीका गरुडको हाथी �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-029.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-029.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "029 कश्यपजीका गरुडको हाथी �
 
 कश्यपजीका गरुडको हाथी और कछुएके पूर्वजन्मकी कथा सुनाना, गरुडका उन दोनोंको पकड़कर एक दिव्य वटवृक्षकी शाखापर ले जाना और उस शाखाका टूटना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -55,11 +55,6 @@ _उग्रश्रवाजी कहते हैं—_ निषादो
 निषादी मम भार्येयं निर्गच्छतु मया सह ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गरुड उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -74,15 +69,15 @@ _उग्रश्रवाजी कहते हैं—_ निषादो
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गरुड उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतामपि निषादीं त्वं परिगृह्याशु निष्पत।  
 तूर्णं सम्भावयात्मानमजीर्णं मम तेजसा ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -97,6 +92,11 @@ _उग्रश्रवाजी कहते हैं—_ निषादो
 
 _गरुडने कहा—_ ब्राह्मण! तुम इस निषादीको भी लेकर जल्दी निकल जाओ। तुम अभीतक मेरी जठराग्निके तेजसे पचे नहीं हो; अतः शीघ्र अपने जीवनकी रक्षा करो॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -145,11 +145,6 @@ _उग्रश्रवाजी कहते हैं—_ उनके ऐ�
 यथान्यायममेयात्मा तं चोवाच महानृषिः ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कश्यप उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -164,15 +159,15 @@ _उग्रश्रवाजी कहते हैं—_ उनके ऐ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कश्यप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् वः कुशलं नित्यं भोजने बहुलं सुत।  
 कच्चिच्च मानुषे लोके तवान्नं विद्यते बहु ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गरुड उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -187,6 +182,11 @@ _उग्रश्रवाजी कहते हैं—_ उनके ऐ�
 
 _कश्यपजीने पूछा—_ बेटा! तुमलोग कुशलसे तो हो न? विशेषतः प्रतिदिन भोजनके सम्बन्धमें तुम्हें विशेष सुविधा है न? क्या मनुष्यलोकमें तुम्हारे लिये पर्याप्त अन्न मिल जाता है॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गरुड उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -256,11 +256,6 @@ _गरुडने कहा—_ मेरी माता सदा कुश�
 क्षुत्पिपासाविघातार्थं भक्ष्यमाख्यातु मे भवान्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कश्यप उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -274,6 +269,11 @@ _गरुडने कहा—_ मेरी माता सदा कुश�
 
 अतः भगवन्! आप मेरे लिये कोई दूसरा भोजन बताइये। प्रभो! वह भोजन ऐसा हो जिसे खाकर मैं अमृत लानेमें समर्थ हो सकूँ। मेरी भूख-प्यासको मिटा देनेके लिये आप पर्याप्त भोजन बताइये॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कश्यप उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,11 +596,6 @@ _कश्यपजी बोले—_ बेटा! यह महान् प
 महागिरिसमप्रख्यं घोररूपं च हस्तिनम् ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -613,6 +608,11 @@ _कश्यपजी बोले—_ बेटा! यह महान् प
 
 कछुआ महान् मेघ-खण्डके समान है और हाथी भी महान् पर्वतके समान भयंकर है। उन्हीं दोनोंको खाकर अमृत ले आओ॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -739,11 +739,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 अतिप्रवृद्धः सुमहानापतन्तं मनोजवम् ॥ ४२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-रौहिण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -756,6 +751,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 
 वहीं एक बहुत बड़ा विशाल वटवृक्ष था। उसने मनके समान तीव्र-वेगसे आते हुए पक्षियोंके सरदार गरुडसे कहा॥४२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+रौहिण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -786,11 +786,6 @@ _वटवृक्ष बोला—_ पक्षिराज! यह जो 
 बभञ्ज तामविरलपत्रसंचयाम् ॥ ४४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्र-विषयक उनतीसवाँ अध्याय पूरा हुआ॥२९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -809,6 +804,11 @@ _वटवृक्ष बोला—_ पक्षिराज! यह जो 
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे एकोनत्रिंशोऽध्यायः ॥ २९ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्र-विषयक उनतीसवाँ अध्याय पूरा हुआ॥२९॥
 </details>
 </details>
 

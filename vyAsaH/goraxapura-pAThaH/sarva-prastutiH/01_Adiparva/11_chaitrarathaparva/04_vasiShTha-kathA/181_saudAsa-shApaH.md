@@ -4,16 +4,11 @@ title_full = "181 राजा कल्माषपादको ब्राह
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-181-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-181-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-181-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-181-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-181-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-181-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "181 राजा कल्माषपादको ब्राह
 
 राजा कल्माषपादको ब्राह्मणी आंगिरसीका शाप
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -75,11 +75,6 @@ _अर्जुनने पूछा—_ गन्धर्वराज! क�
 एतन्मे संशयं सर्वं छेत्तुमर्हसि पृच्छतः ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -92,6 +87,11 @@ _अर्जुनने पूछा—_ गन्धर्वराज! क�
 
 सखे! पूर्वकालमें महर्षि वसिष्ठने जो यह अधर्म-कार्य किया, उसका क्या कारण है? यह मेरा संशय है, जिसे मैं पूछता हूँ। आप मेरे इन सारे संशयोंका निवारण कीजिये॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -429,11 +429,6 @@ _गन्धर्वने कहा—_ दुर्धर्ष वीर �
 स्वदारेषु नरश्रेष्ठ शापदोषसमन्वितः ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें वसिष्ठोपाख्यानविषयक एक सौ इक्यासीवाँ अध्याय पूरा हुआ॥१८१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -452,4 +447,10 @@ _गन्धर्वने कहा—_ दुर्धर्ष वीर �
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि वसिष्ठोपाख्याने एकाशीत्यधिकशततमोऽध्यायः ॥ १८१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें वसिष्ठोपाख्यानविषयक एक सौ इक्यासीवाँ अध्याय पूरा हुआ॥१८१॥
 </details>
+</details>
+

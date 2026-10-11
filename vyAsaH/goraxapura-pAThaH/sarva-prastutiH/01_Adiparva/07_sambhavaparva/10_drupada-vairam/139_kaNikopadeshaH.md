@@ -4,16 +4,11 @@ title_full = "139 कणिकका धृतराष्ट्रको कू
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-139p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-139p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-139p02.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-139p02.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-139p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-139p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "139 कणिकका धृतराष्ट्रको कू
 
 कणिकका धृतराष्ट्रको कूटनीतिका उपदेश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -55,11 +55,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कणिकं मन्त्रिणां श्रेष्ठं धृतराष्ट्रोऽब्रवीद् वचः ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -74,16 +69,16 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्सिक्ताः पाण्डवा नित्यं तेभ्योऽसूये द्विजोत्तम।  
 तत्र मे निश्चिततमं संधिविग्रहकारणम्।  
 कणिक त्वं ममाचक्ष्व करिष्ये वचनं तव ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -99,6 +94,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _धृतराष्ट्र बोले—_ द्विजश्रेष्ठ! पाण्डवोंकी दिनोंदिन उन्नति और सर्वत्र ख्याति हो रही है। इस कारण मैं उनसे डाह रखने लगा हूँ। कणिक! तुम भलीभाँति निश्चय करके बतलाओ, मुझे उनके साथ संधि करनी चाहिये या विग्रह? मैं तुम्हारी बात मानूँगा॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -438,11 +438,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 तथैव भेददण्डाभ्यां सर्वोपायैः प्रशातयेत्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -460,15 +455,15 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं सान्त्वेन दानेन भेदैर्दण्डेन वा पुनः ॥ २४ ॥  
 अमित्रः शक्यते हन्तुं तन्मे ब्रूहि यथातथम्।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कणिक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -483,6 +478,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 _धृतराष्ट्रने पूछा—_ कणिक! साम, दान, भेद अथवा दण्डके द्वारा शत्रुका नाश कैसे किया जा सकता है, यह मुझे यथार्थरूपसे बताइये॥२४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कणिक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -513,11 +513,6 @@ _कणिकने कहा—_ महाराज! इस विषयमे�
 अशक्ता ग्रहणे तस्य ततो मन्त्रममन्त्रयन्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जम्बुक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -532,6 +527,11 @@ _कणिकने कहा—_ महाराज! इस विषयमे�
 
 एक वनमें कोई बड़ा बुद्धिमान् और स्वार्थ साधनेमें कुशल गीदड़ अपने चार मित्रों—बाघ, चूहा, भेड़िया और नेवलेके साथ निवास करता था। एक दिन उन सबने हरिणोंके एक सरदारको देखा, जो बड़ा बलवान् था। वे सब उसे पकड़नेमें सफल न हो सके, अतः सबने मिलकर यह सलाह की॥२६-२७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जम्बुक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -626,11 +626,6 @@ _गीदड़ने कहा—_ भाई बाघ! तुमने वन
 ददर्श जम्बुकं चैव चिन्ताकुलितमानसम् ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्याघ्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -645,15 +640,15 @@ _गीदड़ने कहा—_ भाई बाघ! तुमने वन
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्याघ्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं शोचसि महाप्राज्ञ त्वं नो बुद्धिमतां वरः।  
 अशित्वा पिशितान्यद्य विहरिष्यामहे वयम् ॥ ३५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जम्बुक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -668,6 +663,11 @@ _गीदड़ने कहा—_ भाई बाघ! तुमने वन
 
 _तब बाघने पूछा—_ महामते! क्यों सोचमें पड़े हो? हमलोगोंमें तुम्हीं सबसे बड़े बुद्धिमान् हो। आज इस हरिणका मांस खाकर हमलोग मौजसे घूमें-फिरेंगे॥३५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जम्बुक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -696,11 +696,6 @@ _गीदड़ बोला—_ महाबाहो! चूहेने (त
 गर्जमानस्य तस्यैवमतो भक्ष्यं न रोचये ॥ ३७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्याघ्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -715,6 +710,11 @@ _गीदड़ बोला—_ महाबाहो! चूहेने (त
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्याघ्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रवीति यदि स ह्येवं काले ह्यस्मिन् प्रबोधितः।  
@@ -722,11 +722,6 @@ _गीदड़ बोला—_ महाबाहो! चूहेने (त
 खादिष्ये तत्र मांसानि इत्युक्त्वा प्रस्थितो वनम्।  
 एतस्मिन्नेव काले तु मूषिकोऽप्याजगाम ह ॥ ३९ ॥  
 तमागतमभिप्रेत्य शृगालोऽप्यब्रवीद् वचः ।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जम्बुक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -745,6 +740,11 @@ _गीदड़ बोला—_ महाबाहो! चूहेने (त
 _बाघने कहा—_ यदि वह ऐसी बात कहता है, तब तो उसने इस समय मेरी आँखें खोल दीं—मुझे सचेत कर दिया। आजसे मैं अपने ही बाहुबलके भरोसे वन-जन्तुओंका वध किया करूँगा और उन्हींका मांस खाऊँगा।  
 यों कहकर बाघ वनमें चला गया। इसी समय चूहा भी (नहा-धोकर) वहाँ आ पहुँचा। उसे आया देख गीदड़ने कहा॥३८-३९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जम्बुक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -840,11 +840,6 @@ _गीदड़ बोला—_ चूहा भाई! तुम्हार�
 मम दत्त्वा नियुद्धं त्वं भुङ्क्ष्व मांसं यथेप्सितम्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नकुल उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -860,16 +855,16 @@ _गीदड़ बोला—_ चूहा भाई! तुम्हार�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नकुल उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगराजो वृकश्चैव बुद्धिमानपि मूषिकः ॥ ४७ ॥  
 निर्जिता यत् त्वया वीरास्तस्माद् वीरतरो भवान्।  
 न त्वयाप्युत्सहे योद्धुमित्युक्त्वा सोऽप्युपागमत् ॥ ४८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कणिक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -885,6 +880,11 @@ _गीदड़ बोला—_ चूहा भाई! तुम्हार�
 
 _नेवलेने कहा—_ जब बाघ, भेड़िया और बुद्धिमान् चूहा—ये सभी वीर तुमसे परास्त हो गये, तब तो तुम वीरशिरोमणि हो। मैं भी तुम्हारे साथ युद्ध नहीं कर सकता। यों कहकर नेवला भी चला गया॥४७-४८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कणिक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1709,11 +1709,6 @@ _कणिक कहते हैं—_ इस प्रकार उन सब
 पश्चात्तापो यथा न स्यात् तथा नीतिर्विधीयताम् ॥ ९२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1728,15 +1723,15 @@ _कणिक कहते हैं—_ इस प्रकार उन सब
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा सम्प्रतस्थे कणिकः स्वगृहं ततः।  
 धृतराष्ट्रोऽपि कौरव्यः शोकार्तः समपद्यत ॥ ९३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें कणिकवाक्यविषयक एक सौ उन्तालीसवाँ अध्याय पूरा हुआ॥१३९॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1755,6 +1750,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि कणिकवाक्ये एकोनचत्वारिंशदधिकशततमोऽध्यायः ॥ १३९ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें कणिकवाक्यविषयक एक सौ उन्तालीसवाँ अध्याय पूरा हुआ॥१३९॥
 </details>
 </details>
 

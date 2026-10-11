@@ -4,18 +4,13 @@ title_full = "030 दुःखसे मोहित द्रौपदीका
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-030-p01.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-030-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-030-p02.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-030-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-030-p03.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-030-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-030-p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-030-p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "030 दुःखसे मोहित द्रौपदीका
 
 दुःखसे मोहित द्रौपदीका युधिष्ठिरकी बुद्धि, धर्म एवं ईश्वरके न्यायपर आक्षेप
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -815,11 +815,6 @@ _द्रौपदीने कहा—_ राजन्! उस धाता 
 कारणं बलमेवेह जनाञ्छोचामि दुर्बलान् ॥ ४३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्रौपदीवाक्यविषयक तीसवाँ अध्याय पूरा हुआ॥३०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -837,4 +832,10 @@ _द्रौपदीने कहा—_ राजन्! उस धाता 
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि द्रौपदीवाक्ये त्रिंशोऽध्यायः ॥ ३० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्रौपदीवाक्यविषयक तीसवाँ अध्याय पूरा हुआ॥३०॥
 </details>
+</details>
+

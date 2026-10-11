@@ -3,12 +3,6 @@ title = "१९९ जापकोपाख्याने"
 title_full = "199 जापकको सावित्रीका वरदान, उसके पास धर्म, यम और काल आदिका आगमन, राजा इक्ष्वाकु और जापक ब्राह्मणका संवाद, सत्यकी महिमा तथा जापककी परमगतिका वर्णन"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -22,15 +16,15 @@ title_full = "199 जापकको सावित्रीका वरदा
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालमृत्युयमानां ते इक्ष्वाकोर्ब्राह्मणस्य च।  
 विवादो व्याहृतः पूर्वं तद् भवान् वक्तुमर्हति ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -45,6 +39,11 @@ title_full = "199 जापकको सावित्रीका वरदा
 
 _युधिष्ठिरने पूछा—_ पितामह! आपने काल, मृत्यु, यम, इक्ष्वाकु और ब्राह्मणके विवादकी पहले चर्चा की थी; अतः उसे बतानेकी कृपा करें॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -181,11 +180,6 @@ _भीष्मजीने कहा—_ युधिष्ठिर! इस�
 यदि चापि प्रसन्नासि जप्ये मे रमतां मनः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सावित्र्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -198,6 +192,11 @@ _भीष्मजीने कहा—_ युधिष्ठिर! इस�
 
 ‘देवि! आज मेरा अहोभाग्य है कि आपने प्रसन्न होकर मुझे दर्शन दिया। यदि वास्तवमें आप मुझपर संतुष्ट हैं तो ऐसी कृपा कीजिये जिससे मेरा मन जपमें लगा रहे’॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सावित्र्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -254,11 +253,6 @@ _सावित्रीने कहा—_ ब्रह्मर्षे! �
 भविता च विवादोऽत्र तव तेषां च धर्मतः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -277,6 +271,11 @@ _सावित्रीने कहा—_ ब्रह्मर्षे! �
 
 तब सावित्रीदेवीने मधुर वाणीमें ‘तथास्तु’ कहा। इसके बाद देवीने ब्राह्मणका प्रिय करनेकी इच्छासे यह दूसरा वचन और कहा—‘विप्रवर! जहाँ दूसरे श्रेष्ठ ब्राह्मण गये हैं, उन स्वर्गादि निम्नश्रेणीके लोकोंमें तुम नहीं जाओगे। तुम्हें स्वभावसिद्ध एवं निर्दोष ब्रह्मपदकी प्राप्ति होगी। तुमने मुझसे जो यहाँ प्रार्थना की है, वह पूरी होगी। मैं उसे पूर्ण करनेकी चेष्टा करूँगी। तुम नियमपूर्वक एकाग्रचित्त होकर जप करो। धर्म स्वयं तुम्हारी सेवामें उपस्थित होगा। काल, मृत्यु और यम भी तुम्हारे निकट पधारेंगे, तुम्हारा उन सबके साथ यहाँ धर्मानुकूल वाद-विवाद भी होगा॥१३—१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -306,11 +305,6 @@ _भीष्मजी कहते हैं—_ राजन्! ऐसा क
 साक्षात् प्रीतस्तदा धर्मो दर्शयामास तं द्विजम् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धर्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -324,6 +318,11 @@ _भीष्मजी कहते हैं—_ राजन्! ऐसा क
 
 वह सदा मन और इन्द्रियोंको संयममें रखता था, क्रोधको जीत चुका था। अपनी की हुई प्रतिज्ञाका सचाईके साथ पालन करता था और किसीके दोष नहीं देखता था। बुद्धिमान् ब्राह्मणका वह नियम पूर्ण होनेपर साक्षात् भगवान् धर्म उस समय उसपर बहुत प्रसन्न हुए और उन्होंने उसे प्रत्यक्ष दर्शन दिया॥१८-१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धर्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -372,11 +371,6 @@ _धर्म बोले—_ विप्रवर! तुम मेरी ओ
 त्यक्त्वाऽऽत्मनः शरीरं च ततो लोकानवाप्स्यसि ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -391,15 +385,15 @@ _धर्म बोले—_ विप्रवर! तुम मेरी ओ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु लोकैर्हि मे धर्म गच्छ त्वं च यथासुखम्।  
 बहुदुःखसुखं देहं नोत्सृजेयमहं विभो ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धर्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -416,15 +410,15 @@ _ब्राह्मणने कहा—_ धर्म! मुझे उन 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धर्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यं भोः शरीरं ते त्यक्तव्यं मुनिपुङ्गव।  
 स्वर्गमारोह भो विप्र किं वा वै रोचतेऽनघ ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -441,15 +435,15 @@ _धर्म बोले—_ निष्पाप मुनिश्रेष
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न रोचये स्वर्गवासं विना देहमहं विभो।  
 गच्छ धर्म न मे श्रद्धा स्वर्गं गन्तुं विनाऽऽत्मना॥२५॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धर्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -466,15 +460,15 @@ _ब्राह्मणने कहा—_ प्रभो! मैं इस 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धर्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलं देहे मनः कृत्वा त्यक्त्वा देहं सुखी भव।  
 गच्छ लोकानरजसो यत्र गत्वा न शोचसि ॥ २६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -491,15 +485,15 @@ _धर्म बोले—_ मुने! शरीरमें मनको 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रमे जपन् महाभाग किं नु लोकैः सनातनैः।  
 सशरीरेण गन्तव्यं मया स्वर्गं न वा विभो ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धर्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -516,15 +510,15 @@ _ब्राह्मणने कहा—_ महाभाग! मैं त�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धर्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि त्वं नेच्छसे त्यक्तुं शरीरं पश्य वै द्विज।  
 एष कालस्तथा मृत्युर्यमश्च त्वामुपागताः ॥ २८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -541,15 +535,15 @@ _धर्म बोले—_ ब्रह्मन्! यदि तुम श
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वैवस्वतः कालो मृत्युश्च त्रितयं विभो।  
 ब्राह्मणं तं महाभागमुपगम्येदमब्रुवन् ॥ २९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यम उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -566,15 +560,15 @@ _भीष्मजी कहते हैं—_ राजन्! तदनन�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यम उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपसोऽस्य सुतप्तस्य तथा सुचरितस्य च।  
 फलप्राप्तिस्तव श्रेष्ठा यमोऽहं त्वामुपब्रुवे ॥ ३० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-काल उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -591,15 +585,15 @@ _यमराज बोले—_ ब्रह्मन्! तुम्हा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+काल उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथावदस्य जप्यस्य फलं प्राप्तमनुत्तमम्।  
 कालस्ते स्वर्गमारोढुं कालोऽहं त्वामुपागतः ॥ ३१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मृत्युरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -616,15 +610,15 @@ _कालने कहा—_ विप्रवर! तुम्हारे �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मृत्युरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृत्युं मां विद्धि धर्मज्ञ रूपिणं स्वयमागतम्।  
 कालेन चोदितो विप्र त्वामितो नेतुमद्य वै ॥ ३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -641,15 +635,15 @@ _मृत्युने कहा—_ धर्मज्ञ ब्राह्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वागतं सूर्यपुत्राय कालाय च महात्मने।  
 मृत्यवे चाथ धर्माय किं कार्यं करवाणि वः ॥ ३३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -664,6 +658,11 @@ _मृत्युने कहा—_ धर्मज्ञ ब्राह्
 
 _ब्राह्मणने कहा—_ सूर्यपुत्र यम, महामना काल, मृत्यु तथा धर्म—इन सबका स्वागत है। बताइये, मैं आपलोगोंका कौन-सा कार्य करूँ?॥३३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -752,11 +751,6 @@ _भीष्मजी कहते हैं—_ राजन्! वहाँ 
 स्वशक्त्या किं करोमीह तद् भवान् प्रब्रवीतु माम् ॥ ३८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -771,15 +765,15 @@ _भीष्मजी कहते हैं—_ राजन्! वहाँ 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजाहं ब्राह्मणश्च त्वं यदा षट्‌कर्मसंस्थितः।  
 ददानि वसु किंचित्ते प्रथितं तद् वदस्व मे ॥ ३९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -794,6 +788,11 @@ _भीष्मजी कहते हैं—_ राजन्! वहाँ 
 
 _राजाने कहा—_ विप्रवर! मैं क्षत्रिय राजा हूँ और आप छः कर्मोंमें स्थित रहनेवाले ब्राह्मण। अतः मैं आपको कुछ धन देना चाहता हूँ। आप प्रसिद्ध धनरत्न मुझसे माँगिये॥३९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,11 +822,6 @@ _ब्राह्मणने कहा—_ राजन्! ब्राह�
 ब्रूहि त्वं नृपतिश्रेष्ठ तपसा साधयामि किम् ॥ ४१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -843,15 +837,15 @@ _ब्राह्मणने कहा—_ राजन्! ब्राह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रियोऽहं न जानामि देहीति वचनं क्वचित्।  
 प्रयच्छ युद्धमित्येवंवादिनः स्मो द्विजोत्तम ॥ ४२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्यण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -868,15 +862,15 @@ _राजा बोले—_ द्विजश्रेष्ठ! मैं �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्यण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुष्यसि त्वं स्वधर्मेण तथा तुष्टा वयं नृप।  
 अन्योन्यस्यान्तरं नास्ति यदिष्टं तत् समाचर ॥ ४३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -893,15 +887,15 @@ _ब्राह्मणने कहा—_ नरेश्वर! जैस�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वशक्त्याहं ददानीति त्वया पूर्वमुदाहृतम्।  
 याचे त्वां दीयतां मह्यं जप्यस्यास्य फलं द्विज ॥ ४४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -918,15 +912,15 @@ _राजाने कहा—_ ब्रह्मन्! आपने मु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युद्धं मम सदा वाणी याचतीति विकत्थसे।  
 न च युद्धं मया सार्धं किमर्थं याचसे पुनः॥४५॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -943,15 +937,15 @@ _ब्राह्मणने कहा—_ राजन्! आप तो ब
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाग्वज्रा ब्राह्मणाः प्रोक्ताः क्षत्रिया बाहुजीविनः।  
 वाग्युद्धं तदिदं तीव्रं मम विप्र त्वया सह ॥ ४६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्यण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -968,15 +962,15 @@ _राजाने कहा—_ विप्रवर! ब्राह्म�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्यण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सैवाद्यापि प्रतिज्ञा मे स्वशक्त्या किं प्रदीयताम्।  
 ब्रूहि दास्यामि राजेन्द्र विभवे सति मा चिरम् ॥ ४७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -993,15 +987,15 @@ _ब्राह्मणने कहा—_ राजेन्द्र! म�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्तद् वर्षशतं पूर्णं जप्यं वै जपता त्वया।  
 फलं प्राप्तं तत् प्रयच्छ मम दित्सुर्भवान् यदि ॥ ४८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1018,17 +1012,17 @@ _राजाने कहा—_ मुने! यदि आप देना �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परमं गृह्यतां तस्य फलं यज्जपितं मया।  
 अर्धं त्वमविचारेण फलं तस्य ह्यवाप्नुहि ॥ ४९ ॥  
 अथवा सर्वमेवेह मामकं जापकं फलम्।  
 राजन् प्राप्नुहि कामं त्वं यदि सर्वमिहेच्छसि ॥ ५० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1047,15 +1041,15 @@ _ब्राह्मणने कहा—_ राजन्! मैंने �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतं सर्वेण भद्रं ते जप्यं यद् याचितं मया।  
 स्वस्ति तेऽस्तु गमिष्यामि किञ्च तस्य फलं वद ॥ ५१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1072,15 +1066,15 @@ _राजाने कहा—_ ब्रह्मन्! मैंने ज�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 फलप्राप्तिं न जानामि दत्तं यज्जपितं मया।  
 अयं धर्मश्च कालश्च यमो मृत्युश्च साक्षिणः ॥ ५२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1097,16 +1091,16 @@ _ब्राह्मणने कहा—_ राजन्! इस जपक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अज्ञातमस्य धर्मस्य फलं किं मे करिष्यति।  
 फलं ब्रवीषि धर्मस्य न चेज्जप्यकृतस्य माम्।  
 प्राप्नोतु तत् फलं विप्रो नाहमिच्छे ससंशयम् ॥ ५३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1122,6 +1116,11 @@ _ब्राह्मणने कहा—_ राजन्! इस जपक�
 
 _राजाने कहा—_ ब्रह्मन्! यदि आप मुझे अपने जपजनित धर्मका फल नहीं बता रहे हैं तो इस धर्मका अज्ञात फल मेरे किस काम आयेगा? वह सारा फल आपहीके पास रहे। मैं संदिग्ध फल नहीं चाहता॥५३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1510,11 +1509,6 @@ _ब्राह्मणने कहा—_ राजर्षे! अब त�
 उभावानृतिकावेतौ न मृषा कर्तुमर्हसि ॥ ७३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1529,15 +1523,15 @@ _ब्राह्मणने कहा—_ राजर्षे! अब त�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योद्धव्यं रक्षितव्यं च क्षत्रधर्मः किल द्विज।  
 दातारः क्षत्रियाः प्रोक्ता गृह्णीयां भवतः कथम् ॥ ७४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1554,15 +1548,15 @@ _राजाने कहा—_ ब्रह्मन्! क्षत्र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च्छन्दयामि ते राजन्नापि ते गृहमाव्रजम्।  
 इहागम्य तु याचित्वा न गृह्णीषे पुनः कथम् ॥ ७५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धर्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1579,15 +1573,15 @@ _ब्राह्मणने कहा—_ राजन्! दान ले�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धर्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अविवादोऽस्तु युवयोर्वित्त मां धर्ममागतम्।  
 द्विजो दानफलैर्युक्तो राजा सत्यफलेन च ॥ ७६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-स्वर्ग उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1604,15 +1598,15 @@ _धर्म बोले—_ आप दोनोंमें विवाद �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+स्वर्ग उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वर्गं मां विद्धि राजेन्द्र रूपिणं स्वयमागतम्।  
 अविवादोऽस्तु युवयोरुभौ तुल्यफलौ युवाम् ॥ ७७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1629,15 +1623,15 @@ _स्वर्ग बोला—_ राजेन्द्र! आपको �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतं स्वर्गेण मे कार्यं गच्छ स्वर्ग यथागतम्।  
 विप्रो यदीच्छते गन्तुं चीर्णं गृह्णातु मे फलम् ॥ ७८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1652,6 +1646,11 @@ _स्वर्ग बोला—_ राजेन्द्र! आपको �
 
 _राजाने कहा—_ मुझे स्वर्गकी कोई आवश्यकता नहीं है। स्वर्ग! तुम जैसे आये थे, वैसे ही लौट जाओ। यदि ये ब्राह्मणदेवता स्वर्गमें जाना चाहते हों तो मेरे किये हुए पुण्यफलको ग्रहण करें॥७८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1681,11 +1680,6 @@ _ब्राह्मणने कहा—_ यदि बाल्यावस
 तपःस्वाध्यायशीलोऽहं निवृत्तश्च प्रतिग्रहात् ॥ ८० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1699,6 +1693,11 @@ _ब्राह्मणने कहा—_ यदि बाल्यावस
 
 राजन्! मैं निवृत्तिमार्गका पथिक हूँ, आप बहुत देरसे मुझे लुभानेका प्रयत्न क्यों करते हैं? नरेश्वर! मैं स्वयं ही अपना कर्तव्य करूँगा, आपसे कोई फल नहीं लेना चाहता। मैं प्रतिग्रहसे निवृत्त होकर तप और स्वाध्यायमें लगा हुआ हूँ॥८०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1747,11 +1746,6 @@ _राजाने कहा—_ विप्रवर! यदि आपने 
 प्रतीच्छ मत्कृतं धर्मं यदि ते मय्यनुग्रहः ॥ ८३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1764,6 +1758,11 @@ _राजाने कहा—_ विप्रवर! यदि आपने 
 
 अथवा यदि आपकी इच्छा न हो तो हमें साथ रहकर कर्मफल भोगनेकी आवश्यकता नहीं है। उस अवस्थामें मैं यही प्रार्थना करूँगा कि यदि आपका मुझपर अनुग्रह हो तो आप ही मेरे शुभकर्मोंका पूरा-पूरा फल ग्रहण कर लें। मैंने जो कुछ भी धर्म किया है, वह सब आप स्वीकार कर लें॥८३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1832,11 +1831,6 @@ _भीष्मजी कहते हैं—_ राजन्! इसी स
 परीक्ष्य त्वं यथा स्यावो नावामिह विगर्हितौ ॥ ८७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विरूप उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1851,15 +1845,15 @@ _भीष्मजी कहते हैं—_ राजन्! इसी स
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विरूप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धारयामि नरव्याघ्र विकृतस्येह गोः फलम्।  
 ददतश्च न गृह्णाति विकृतो मे महीपते ॥ ८८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विकृत उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1876,15 +1870,15 @@ _विरूप बोला—_ पुरुषसिंह! मैं वि�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विकृत उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मे धारयते किञ्चिद् विरूपोऽयं नराधिप।  
 मिथ्या ब्रवीत्ययं हि त्वां सत्याभासं नराधिप ॥ ८९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1901,15 +1895,15 @@ _विकृतने कहा—_ नरेश्वर! इस विरू�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरूप किं धारयते भवानस्य ब्रवीतु मे।  
 श्रुत्वा तथा करिष्येऽहमिति मे धीयते मनः ॥ ९० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विरूप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1924,6 +1918,11 @@ _विकृतने कहा—_ नरेश्वर! इस विरू�
 
 _राजा बोले—_ विरूप! तुम्हारे ऊपर विकृतका कौन-सा ऋण है। बताओ, मैं उसे सुनकर कोई निर्णय करूँगा। मेरे मनका ऐसा ही निश्चय है॥९०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विरूप उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2056,11 +2055,6 @@ _विरूप बोला—_ राजन्! नरेश्वर! आप
 भवानत्र स्थिरो भूत्वा मार्गे स्थापयिताद्य नौ ॥ ९८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2075,15 +2069,15 @@ _विरूप बोला—_ राजन्! नरेश्वर! आप
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीयमानं न गृह्णासि ऋणं कस्मात् त्वमद्य वै।  
 यथैव तेऽभ्यनुज्ञातं तथा गृह्णीष्व मा चिरम् ॥ ९९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विकृत उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2100,15 +2094,15 @@ _राजाने कहा—_ विकृत! जब विरूप तु
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विकृत उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धारयामीत्यनेनोक्तं ददानीति तथा मया।  
 नायं मे धारयत्यद्य गच्छतां यत्र वाञ्छति ॥ १०० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2125,15 +2119,15 @@ _विकृत बोला—_ राजन्! विरूपने अभ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददतोऽस्य न गृह्णासि विषमं प्रतिभाति मे।  
 दण्ड्यो हि त्वं मम मतो नास्त्यत्र खलु संशयः॥१०१॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विकृत उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2148,6 +2142,11 @@ _विकृत बोला—_ राजन्! विरूपने अभ�
 
 _राजाने कहा—_ विकृत! यह तुम्हें तुम्हारी वस्तु दे रहा है और तुम लेते नहीं हो। यह मुझे अनुचित जान पड़ता है; अतः मेरे मतमें तुम दण्डनीय हो; इसमें कोई संशय नहीं है॥१०१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विकृत उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2181,11 +2180,6 @@ _विकृत बोला—_ राजर्षे! मैंने इस�
 नियंस्यति त्वां नृपतिरयं धर्मानुशासकः ॥ १०३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विकृत उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2200,15 +2194,15 @@ _विरूपने कहा—_ विकृत! यदि तुम मे
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विकृत उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वं मया याचितेनेह दत्तं कथमिहाद्य तत्।  
 गृह्णीयां गच्छतु भवानभ्यनुज्ञां ददानि ते ॥ १०४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2225,15 +2219,15 @@ _विकृत बोला—_ तुम्हारे माँगनेप
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुतमेतत्त्वया राजन्ननयोः कथितं द्वयोः।  
 प्रतिज्ञातं मया यत्ते तद् गृहाणाविचारितम् ॥ १०५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2248,6 +2242,11 @@ _विकृत बोला—_ तुम्हारे माँगनेप
 
 _इसी बीचमें जापक ब्राह्मण बोल उठा—_ राजन्! आपने इन दोनोंकी बातें सुन लीं। मैंने आपको देनेके लिये जो प्रतिज्ञा की है, उसके अनुसार आप मेरा दान बिना विचारे ग्रहण करें॥१०५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2316,11 +2315,6 @@ _राजाने मन-ही-मन कहा—_ इन दोनोंक
 विप्रधर्मश्च गहनो मामनात्मानमाविशत् ॥ १०९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2335,15 +2329,15 @@ _राजाने मन-ही-मन कहा—_ इन दोनोंक
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहाण धारयेऽहं च याचितं संश्रुतं मया।  
 न चेद् ग्रहीष्यसे राजन् शपिष्ये त्वां न संशयः॥११०॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2358,6 +2352,11 @@ _राजाने मन-ही-मन कहा—_ इन दोनोंक
 
 _ब्राह्मणने कहा—_ राजन्! आपने जो वस्तु माँगी थी और जिसे देनेकी मैंने प्रतिज्ञा कर ली थी, उसे मैं आपकी धरोहरके रूपमें अपने पास रखता हूँ; अतः शीघ्र उसे ले लें। यदि नहीं लेंगे तो निस्संदेह मैं आपको शाप दे दूँगा॥११०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2386,11 +2385,6 @@ _राजाने कहा—_ धिक्कार है राजधर�
 यन्मे धारयसे विप्र तदिदानीं प्रदीयताम् ॥ ११२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2405,15 +2399,15 @@ _राजाने कहा—_ धिक्कार है राजधर�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संहितां जपता यावान् गुणः कश्चित् कृतो मया।  
 तत् सर्वं प्रतिगृह्णीष्व यदि किञ्चिदिहास्ति मे ॥ ११३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2430,15 +2424,15 @@ _ब्राह्मणने कहा—_ राजन्! मैंने �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जलमेतन्निपतितं मम पाणौ द्विजोत्तम।  
 सममस्तु सहैवास्तु प्रतिगृह्णातु वै भवान् ॥ ११४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विरूप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2453,6 +2447,11 @@ _ब्राह्मणने कहा—_ राजन्! मैंने �
 
 _राजाने कहा—_ द्विजश्रेष्ठ! मेरे हाथपर यह संकल्पका जल पड़ा हुआ है। मेरा और आपका सारा पुण्य हम दोनों के लिये समान हो और हम साथ-साथ उसका उपभोग करें; इस उद्देश्यसे आप मेरा दिया हुआ दान भी ग्रहण करें॥११४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विरूप उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2705,11 +2704,6 @@ _भीष्मजी कहते हैं—_ राजन्! जापक�
 एतत्‌ ते सर्वमाख्यातं किं भूयः श्रोतुमिच्छसि ॥ १२८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें जापकका उपाख्यानविषयक एक सौ निन्यानबेवाँ अध्याय पूरा हुआ॥१९९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2727,4 +2721,10 @@ _भीष्मजी कहते हैं—_ राजन्! जापक�
 
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि जापकोपाख्याने नवनवत्यधिकशततमोऽध्यायः ॥ १९९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें जापकका उपाख्यानविषयक एक सौ निन्यानबेवाँ अध्याय पूरा हुआ॥१९९॥
 </details>
+</details>
+

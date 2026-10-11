@@ -4,12 +4,7 @@ title_full = "110 कुन्तीको दुर्वासासे मन
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-110.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-110.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "110 कुन्तीको दुर्वासासे मन
 
 कुन्तीको दुर्वासासे मन्त्रकी प्राप्ति, सूर्यदेवका आवाहन तथा उनके संयोगसे कर्णका जन्म एवं कर्णके द्वारा इन्द्रको कवच और कुण्डलोंका दान
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -215,11 +215,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 विद्धि मां पुत्रलाभाय देवमर्कं शुचिस्मिते॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -232,6 +227,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 ‘भद्रे! मैं दुर्वासा ऋषिके दिये हुए मन्त्रसे प्रेरित हो तुम्हारे बुलाते ही तुम्हें पुत्रकी प्राप्ति करानेके लिये उपस्थित हुआ हूँ। पवित्र मुसकानवाली कुन्ती! तुम मुझे सूर्यदेव समझो।’
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,11 +260,6 @@ _कुन्तीने कहा—_ शत्रुओंका नाश �
 योषितो हि सदा रक्ष्याः स्वापराद्धापि नित्यशः ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सूर्य उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -277,6 +272,11 @@ _कुन्तीने कहा—_ शत्रुओंका नाश �
 
 यद्यपि मुझसे यह अपराध हुआ है, तो भी इसके लिये आपके चरणोंमें मस्तक रखकर मैं यह प्रार्थना करती हूँ कि आप क्षमापूर्वक प्रसन्न हो जाइये। स्त्रियोंसे अपना अपराध हो जाय, तो भी श्रेष्ठ पुरुषोंको सदा उनकी रक्षा ही करनी चाहिये॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सूर्य उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -305,11 +305,6 @@ _सूर्यदेव बोले—_ शुभे! मैं यह सब
 वृथाह्वानेऽपि ते भीरु दोषः स्वान्नात्र संशयः ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -322,6 +317,11 @@ _सूर्यदेव बोले—_ शुभे! मैं यह सब
 
 शुभे! मेरा दर्शन अमोघ है और तुमने मेरा आवाहन किया है। भीरु! यदि यह आवाहन व्यर्थ हुआ, तो भी निःसंदेह तुम्हें बड़ा दोष लगेगा॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -588,11 +588,6 @@ _वैशम्पायनजी कहते हैं—_ भारत! भ�
 अतस्त्वां बोधयाम्येष स्मर्तासि वचनं मम॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -611,17 +606,17 @@ _वैशम्पायनजी कहते हैं—_ भारत! भ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्रो मां विप्ररूपेण यदि वै याचते द्विज।  
 कथं चास्मै न दास्यामि यथा चास्म्यवबोधितः॥  
 विप्राः पूज्यास्तु देवानां सततं प्रियमिच्छताम्।  
 तं देवदेवं जानन् वै न शक्नोम्यवमन्त्रणे॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सूर्य उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -640,15 +635,15 @@ _कर्णने कहा—_ ब्रह्मन्! इन्द्र �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सूर्य उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्येवं शृणु मे वीर वरं ते सोऽपि दास्यति।  
 शक्तिं त्वमपि याचेथाः सर्वशस्त्रविबाधिनीम्॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -663,6 +658,11 @@ _कर्णने कहा—_ ब्रह्मन्! इन्द्र �
 
 _सूर्य बोले—_ वीर! यदि ऐसी बात है तो सुनो, बदलेमें इन्द्र भी तुम्हें वर देंगे। उस समय तुम उनसे सम्पूर्ण अस्त्र-शस्त्रोंका निराकरण करनेवाली बरछी माँग लेना।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -734,11 +734,6 @@ _वैशम्पायनजी कहते हैं—_ स्वप्न
 प्रीतोऽस्मि कर्मणा तेन वरं वृणु यमिच्छसि॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -756,14 +751,14 @@ _वैशम्पायनजी कहते हैं—_ स्वप्न
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इच्छामि भगवहत्तां शक्तिं शत्रुनिबर्हणीम्।)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -777,6 +772,11 @@ _वैशम्पायनजी कहते हैं—_ स्वप्न
 
 _कर्णने कहा—_ भगवन्! मैं आपकी दी हुई वह अमोघ बरछी चाहता हूँ, जो शत्रुओंका संहार करनेवाली है।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,11 +823,6 @@ _वैशम्पायनजी कहते हैं—_ तब देव�
 कर्णो वैकर्तनश्चैव कर्मणा तेन सोऽभवत् ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें कर्णकी उत्पत्तिसे सम्बन्ध रखनेवाला एक सौ दसवाँ अध्याय पूरा हुआ॥११०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -846,8 +841,14 @@ _वैशम्पायनजी कहते हैं—_ तब देव�
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि कर्णसम्भवे दशाधिकशततमोऽध्यायः ॥ ११० ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें कर्णकी उत्पत्तिसे सम्बन्ध रखनेवाला एक सौ दसवाँ अध्याय पूरा हुआ॥११०॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके १३ श्लोक मिलाकर कुल ४४ श्लोक हैं)
 </details>
 </details>
+

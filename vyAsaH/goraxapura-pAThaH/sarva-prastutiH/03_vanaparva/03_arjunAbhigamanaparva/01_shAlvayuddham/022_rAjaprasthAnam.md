@@ -4,22 +4,17 @@ title_full = "022 शाल्ववधोपाख्यानकी समा�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p03.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p04.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p05.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p06.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-022-p06.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -33,6 +28,11 @@ title_full = "022 शाल्ववधोपाख्यानकी समा�
 
 शाल्ववधोपाख्यानकी समाप्ति और युधिष्ठिरकी आज्ञा लेकर श्रीकृष्ण, धृष्टद्युम्न तथा अन्य सब राजाओंका अपने-अपने नगरको प्रस्थान
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -783,11 +783,6 @@ _भगवान् श्रीकृष्ण कहते हैं—_ भ�
 अद्याहं किं करिष्यामि भिन्नसेतुरिवोदकम् ॥ ४३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -802,6 +797,11 @@ _भगवान् श्रीकृष्ण कहते हैं—_ भ�
 
 राजन्! यही कारण है, जिससे मैं उन दिनों हस्तिनापुरमें न आ सका। शत्रुवीरोंका नाश करनेवाले धर्मराज! मेरे आनेपर या तो जूआ नहीं होता या दुर्योधन जीवित नहीं रह पाता। जैसे बाँध टूट जानेपर पानीको कोई नहीं रोक सकता, उसी प्रकार आज जबकि सब कुछ बिगड़ चुका है, तब मैं क्या कर सकूँगा॥४२-४३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1010,11 +1010,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 शशास पुरुषान् काले रथान् योजयतेति वै ॥ ५४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक बाईसवाँ अध्याय पूरा हुआ॥२२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1032,4 +1027,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि सौभवधोपाख्याने द्वाविंशोऽध्यायः ॥ २२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक बाईसवाँ अध्याय पूरा हुआ॥२२॥
 </details>
+</details>
+

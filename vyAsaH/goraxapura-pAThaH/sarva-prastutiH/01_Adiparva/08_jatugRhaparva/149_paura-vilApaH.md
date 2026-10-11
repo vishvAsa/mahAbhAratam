@@ -4,16 +4,11 @@ title_full = "149 धृतराष्ट्र आदिके द्वार
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-149p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-149p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-149p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-149p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-149p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-149p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "149 धृतराष्ट्र आदिके द्वार
 
 धृतराष्ट्र आदिके द्वारा पाण्डवोंके लिये शोकप्रकाश एवं जलांजलिदान तथा पाण्डवोंका वनमें प्रवेश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,11 +403,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सह मात्रेति तच्छ्रुत्वा विललाप रुरोद च॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -415,6 +410,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 (ततः प्रव्यथितो भीष्मः पाण्डुराजसुतान् मृतान्।  
 सह मात्रेति तच्छ्रुत्वा विललाप रुरोद च॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,11 +447,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पुरन्दरसमो जिष्णुः कथं कालवशं गतः॥  
 कथं तावृषभस्कन्धौ सिंहविक्रान्तगामिनौ ।  
 मर्त्यधर्ममनुप्राप्तौ यमावरिनिबर्हणौ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -495,6 +490,11 @@ _भीष्मजी बोले—_ वे दोनों भाई भी�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य विक्रन्दितं श्रुत्वा उदकं च प्रसिञ्चतः।  
@@ -504,11 +504,6 @@ _भीष्मजी बोले—_ वे दोनों भाई भी�
 एतच्च तेभ्य उदकं विप्रसिञ्च न भारत॥  
 सोऽब्रवीत् किंचिदुत्सार्य कौरवाणामशृण्वताम् ।  
 क्षत्तारमुपसंगृह्य बाष्पोत्पीडकलस्वरः ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -530,17 +525,17 @@ _वैशम्पायनजी कहते हैं—_ जलांजल
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं ते तात जीवन्ति पाण्डोः पुत्रा महारथाः।  
 कथमस्मत्कृते पक्षः पाण्डोर्न हि निपातितः॥  
 कथं मत्प्रमुखाः सर्वे प्रमुक्ता महतो भयात्।  
 जननी गरुडेनेव कुमारास्ते समुद्‌धृताः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -559,15 +554,15 @@ _भीष्मजीने कहा—_ तात! पाण्डुके �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु कौरव्य कौरवाणामशृण्वताम् ।  
 आचचक्षे स धर्मात्मा भीष्मायाद्भुतकर्मणे॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -582,6 +577,11 @@ _भीष्मजीने कहा—_ तात! पाण्डुके �
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! इस प्रकार पूछे जानेपर धर्मात्मा विदुरने कौरवोंके न सुनते हुए अद्भुत कर्म करनेवाले भीष्मजीसे इस प्रकार कहा—
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -756,11 +756,6 @@ _विदुर बोले—_ धृतराष्ट्र, शकुन�
 आदाय कुन्तीं भ्रातॄंश्च जगामाशु महाबलः ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें पाण्डवोंका वनमें प्रवेशविषयक एक सौ उनचासवाँ अध्याय पूरा हुआ॥१४९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -779,8 +774,14 @@ _विदुर बोले—_ धृतराष्ट्र, शकुन�
 इति श्रीमहाभारते आदिपर्वणि जतुगृहपर्वणि पाण्डववनप्रवेशे एकोनपञ्चाशदधिकशततमोऽध्यायः ॥ १४९ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें पाण्डवोंका वनमें प्रवेशविषयक एक सौ उनचासवाँ अध्याय पूरा हुआ॥१४९॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २९ श्लोक मिलाकर कुल ५५ श्लोक हैं)
 </details>
 </details>
+

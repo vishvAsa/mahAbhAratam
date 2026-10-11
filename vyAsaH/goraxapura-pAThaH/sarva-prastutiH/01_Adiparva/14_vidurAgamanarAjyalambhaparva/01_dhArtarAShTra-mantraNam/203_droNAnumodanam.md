@@ -4,12 +4,7 @@ title_full = "203 द्रोणाचार्यकी पाण्डवो�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-203.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-203.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "203 द्रोणाचार्यकी पाण्डवो�
 
 द्रोणाचार्यकी पाण्डवोंको उपहार भेजने और बुलानेकी सम्मति तथा कर्णके द्वारा उनकी सम्मतिका विरोध करनेपर द्रोणाचार्यकी फटकार
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -235,11 +235,6 @@ _द्रोणाचार्यने कहा—_ राजा धृतर
 वृत्तमौपयिकं मन्ये भीष्मेण सह भारत ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -252,6 +247,11 @@ _द्रोणाचार्यने कहा—_ राजा धृतर
 
 भरतवंशी महाराज! आपको अपने पुत्रों और पाण्डवोंके प्रति उपर्युक्त व्यवहार ही करना चाहिये—भीष्मजीके साथ मैं भी यही उचित समझता हूँ॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -484,11 +484,6 @@ _कर्ण बोला—_ महाराज! भीष्मजी और 
 दुष्टानां चैव बोद्धव्यमदुष्टानां च भाषितम् ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -501,6 +496,11 @@ _कर्ण बोला—_ महाराज! भीष्मजी और 
 
 राजन्! आप समझदार हैं, अतः इसी प्रकार विचार करके अपने मन्त्रियोंकी साधुता और असाधुताको समझ लीजिये। किसने दूषित हृदयसे सलाह दी है और किसने दोषशून्य हृदयसे, इसे भी जान लेना चाहिये॥२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -549,11 +549,6 @@ _द्रोणाचार्यने कहा—_ ओ दुष्ट! त�
 कुरवो वै विनङ्‌क्ष्यक्ष्यन्ति नचिरेणैव मे मतिः ॥ २८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें द्रोणवाक्यविषयक दो सौ तीसरा अध्याय पूरा हुआ॥२०३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -571,4 +566,10 @@ _द्रोणाचार्यने कहा—_ ओ दुष्ट! त�
 
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि द्रोणवाक्ये त्र्यधिकद्विशततमोऽध्यायः ॥ २०३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें द्रोणवाक्यविषयक दो सौ तीसरा अध्याय पूरा हुआ॥२०३॥
 </details>
+</details>
+

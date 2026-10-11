@@ -4,12 +4,7 @@ title_full = "167 कुन्तीकी अपने पुत्रोंस
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-167.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-167.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "167 कुन्तीकी अपने पुत्रोंस
 
 कुन्तीकी अपने पुत्रोंसे पूछकर पंचालदेशमें जानेकी तैयारी
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -55,11 +55,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 वचनं सत्यवादिनी ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -72,6 +67,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 तब सत्यवादिनी कुन्तीने अपने सभी पुत्रोंका मन उस स्वयंवरकी ओर आकृष्ट देख युधिष्ठिरसे इस प्रकार कहा॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -192,11 +192,6 @@ _कुन्ती बोली—_ बेटा! हमलोग यहाँ 
 यदि त्वं पुत्र मन्यसे॥८॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -211,17 +206,17 @@ _कुन्ती बोली—_ बेटा! हमलोग यहाँ 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवत्या यन्मतं कार्यं  
 तदस्माकं परं हितम्।  
 अनुजांस्तु न जानामि  
 गच्छेयुर्नेति वा पुनः ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -236,6 +231,11 @@ _कुन्ती बोली—_ बेटा! हमलोग यहाँ 
 
 _युधिष्ठिरने कहा—_ माँ! आप जिस कार्यको ठीक समझती हैं, वह हमारे लिये परम हितकर है; परंतु अपने छोटे भाइयोंके सम्बन्धमें मैं नहीं जानता कि वे जानेके लिये उद्यत हैं या नहीं॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,11 +268,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 द्रुपदस्य महात्मनः ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें पंचालदेशकी यात्राविषयक एक सौ सरसठवाँ अध्याय पूरा हुआ॥१६७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -290,4 +285,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि पञ्चालदेशयात्रायां सप्तषष्ट्यधिकशततमोऽध्यायः ॥ १६७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें पंचालदेशकी यात्राविषयक एक सौ सरसठवाँ अध्याय पूरा हुआ॥१६७॥
 </details>
+</details>
+

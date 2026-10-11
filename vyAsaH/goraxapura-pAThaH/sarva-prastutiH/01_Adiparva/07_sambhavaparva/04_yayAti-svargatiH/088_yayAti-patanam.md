@@ -4,12 +4,7 @@ title_full = "088 ययातिका स्वर्गसे पतन औ�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="अमोघः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-088.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
+<div caption="अमोघः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-088.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,17 +20,17 @@ title_full = "088 ययातिका स्वर्गसे पतन औ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वाणि कर्माणि समाप्य राजन्  
 गृहं परित्यज्य वनं गतोऽसि।  
 तत् त्वां पृच्छामि नहुषस्य पुत्र  
 केनासि तुल्यस्तपसा ययाते ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -54,15 +49,15 @@ _इन्द्रने कहा—_ राजन्! तुम सम्प�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाहं देवमनुष्येषु गन्धर्वेषु महर्षिषु।  
 आत्मनस्तपसा तुल्यं कंचित् पश्यामि वासव ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -79,17 +74,17 @@ _ययातिने कहा—_ इन्द्र! मैं देवत�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदावमंस्थाः सदृशः श्रेयसश्च  
 अल्पीयसश्चाविदितप्रभावः ।  
 तस्माल्लोकास्त्वन्तवन्तस्तवेमे  
 क्षीणे पुण्ये पतितास्यद्य राजन् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -108,17 +103,17 @@ _इन्द्र बोले—_ राजन्! तुमने अपन�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरर्षिगन्धर्वनरावमानात्  
 क्षयं गता मे यदि शक्र लोकाः।  
 इच्छाम्यहं सुरलोकाद् विहीनः  
 सतां मध्ये पतितुं देवराज ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -137,17 +132,17 @@ _ययातिने कहा—_ देवराज इन्द्र! द�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सतां सकाशे पतितासि राजं-  
 श्च्युतः प्रतिष्ठां यत्र लब्धासि भूयः।  
 एतद् विदित्वा च पुनर्ययाते  
 त्वं मावमंस्थाः सदृशः श्रेयसश्च ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -166,17 +161,17 @@ _इन्द्र बोले—_ राजा ययाति! तुम य
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहायामरराजजुष्टान्  
 पुण्याल्ँलोकान् पतमानं ययातिम् ।  
 सम्प्रेक्ष्य राजर्षिवरोऽष्टकस्त-  
 मुवाच सद्धर्मविधानगोप्ता ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -198,6 +193,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ययातिका पतन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,11 +350,6 @@ _अष्टकने पूछा—_ इन्द्रके समान �
 प्रभुः सूर्यः प्रकाशित्वे सतां चाभ्यागतः प्रभुः ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक अट्ठासीवाँ अध्याय पूरा हुआ॥८८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -372,4 +367,10 @@ _अष्टकने पूछा—_ इन्द्रके समान �
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि उत्तरयायाते अष्टाशीतितमोऽध्यायः ॥ ८८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक अट्ठासीवाँ अध्याय पूरा हुआ॥८८॥
 </details>
+</details>
+

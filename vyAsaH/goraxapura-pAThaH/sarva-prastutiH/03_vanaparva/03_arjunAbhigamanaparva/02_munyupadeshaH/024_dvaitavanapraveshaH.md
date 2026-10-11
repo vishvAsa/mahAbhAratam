@@ -4,16 +4,11 @@ title_full = "024 पाण्डवोंका द्वैतवनमें 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-024-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-024-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-024-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-024-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-024-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-024-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "024 पाण्डवोंका द्वैतवनमें 
 
 पाण्डवोंका द्वैतवनमें जाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -95,11 +95,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 गुरुवन्मानवगुरुं मानयित्वा मनस्विनम् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -112,6 +107,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 धर्मराजके ऐसा कहनेपर अर्जुनने उन मनस्वी मानवगुरु युधिष्ठिरका गुरुतुल्य सम्मान करके उनसे इस प्रकार कहा॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,11 +240,6 @@ _अर्जुन बोले—_ आर्य! आप स्वयं ही
 यदि तेऽनुमतं राजन् किमन्यन्मन्यते भवान् ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -259,15 +254,15 @@ _अर्जुन बोले—_ आर्य! आप स्वयं ही
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममाप्येतन्मतं पार्थ त्वया यत् समुदाहृतम्।  
 गच्छामः पुण्यविख्यातं महद् द्वैतवनं सरः ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -282,6 +277,11 @@ _अर्जुन बोले—_ आर्य! आप स्वयं ही
 
 _युधिष्ठिरने कहा—_ पार्थ! तुमने जैसा बताया है, वही मेरा भी मत है। हमलोग पवित्र जलके कारण प्रसिद्ध द्वैतवन नामक विशाल सरोवरके समीप चलें॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -572,11 +572,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 र्महागिरिर्वारणयूथपैरिव ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्वैतवनप्रवेशविषयक चौबीसवाँ अध्याय पूरा हुआ॥२४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -596,4 +591,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि द्वैतवनप्रवेशे चतुर्विंशोऽध्यायः ॥ २४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्वैतवनप्रवेशविषयक चौबीसवाँ अध्याय पूरा हुआ॥२४॥
 </details>
+</details>
+

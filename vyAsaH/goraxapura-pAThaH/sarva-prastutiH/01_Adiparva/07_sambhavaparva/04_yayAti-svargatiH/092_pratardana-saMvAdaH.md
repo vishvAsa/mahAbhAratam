@@ -4,12 +4,7 @@ title_full = "092 अष्टक-ययाति-संवाद और यय�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-092.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-092.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,15 +20,15 @@ title_full = "092 अष्टक-ययाति-संवाद और यय�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कतरस्त्वनयोः पूर्वं देवानामेति सात्मताम्।  
 उभयोर्धावतो राजन् सूर्याचन्द्रमसोरिव ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -48,6 +43,11 @@ title_full = "092 अष्टक-ययाति-संवाद और यय�
 
 _अष्टकने पूछा—_ राजन्! सूर्य और चन्द्रमाकी तरह अपने-अपने लक्ष्यकी ओर दौड़ते हुए वानप्रस्थ और संन्यासी इन दोनोंमेंसे पहले कौन-सा देवताओंके आत्मभाव (ब्रह्म)-को प्राप्त होता है?॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,11 +118,6 @@ _ययाति बोले—_ कामवृत्तिवाले गृ
 स्तदार्जवं स समाधिस्तदार्यम् ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -139,17 +134,17 @@ _ययाति बोले—_ कामवृत्तिवाले गृ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केनासि हूतः प्रहितोऽसि राजन्  
 युवा स्रग्वी दर्शनीयः सुवर्चाः।  
 कुत आयातः कतरस्यां दिशि त्व-  
 मुताहोस्वित् पार्थिवं स्थानमस्ति ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -166,6 +161,11 @@ _ययाति बोले—_ कामवृत्तिवाले गृ
 
 _अष्टकने पूछा—_ राजन्! आपको यहाँ किसने बुलाया? किसने भेजा है? आप अवस्थामें तरुण, फूलोंकी मालासे सुशोभित, दर्शनीय तथा उत्तम तेजसे उद्भासित जान पड़ते हैं। आप कहाँसे आये हैं? किस दिशामें भेजे गये हैं? अथवा क्या आपके लिये इस पृथ्वीपर कोई उत्तम स्थान है?॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -200,11 +200,6 @@ _ययातिने कहा—_ मैं अपने पुण्यक�
 पतिष्यता भूमितलं नरेन्द्र ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -221,17 +216,17 @@ _ययातिने कहा—_ मैं अपने पुण्यक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृच्छामि त्वां मा प्रपत प्रपातं  
 यदि लोकाः पार्थिव सन्ति मेऽत्र।  
 यद्यन्तरिक्षे यदि वा दिवि स्थिताः  
 क्षेत्रज्ञं त्वां तस्य धर्मस्य मन्ये ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -250,17 +245,17 @@ _अष्टक बोले—_ महाराज! मेरा विश्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावत् पृथिव्यां विहितं गवाश्वं  
 सहारण्यैः पशुभिः पार्वतैश्च ।  
 तावल्लोका दिवि ते संस्थिता वै  
 तथा विजानीहि नरेन्द्रसिंह ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -279,17 +274,17 @@ _ययातिने कहा—_ नरेन्द्रसिंह! इ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्ते ददामि मा प्रपत प्रपातं  
 ये मे लोका दिवि राजेन्द्र सन्ति।  
 यद्यन्तरिक्षे यदि वा दिवि श्रिता-  
 स्तानाक्रम क्षिप्रमपेतमोहः ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -306,6 +301,11 @@ _ययातिने कहा—_ नरेन्द्रसिंह! इ�
 
 _अष्टक बोले—_ राजेन्द्र! स्वर्गमें मेरे लिये जो लोक विद्यमान हैं, वे सब आपको देता हूँ; परंतु आपका पतन न हो। अन्तरिक्ष या द्युलोकमें मेरे लिये जो स्थान हैं, उनमें आप शीघ्र ही मोहरहित होकर चले जायँ॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -340,11 +340,6 @@ _ययातिने कहा—_ नृपश्रेष्ठ! ब्र�
 विधित्समानः किमु तत्र साधु ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रतर्दन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -361,17 +356,17 @@ _ययातिने कहा—_ नृपश्रेष्ठ! ब्र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रतर्दन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृच्छामि त्वां स्पृहणीयरूप  
 प्रतर्दनोऽहं यदि मे सन्ति लोकाः।  
 यद्यन्तरिक्षे यदि वा दिवि श्रिताः  
 क्षेत्रज्ञं त्वां तस्य धर्मस्य मन्ये ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -390,17 +385,17 @@ _प्रतर्दन बोले—_ वांछनीय रूपवा
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्ति लोका बहवस्ते नरेन्द्र  
 अप्येकैकः सप्तसप्ताप्यहानि ।  
 मधुच्युतो घृतपृक्ता विशोका-  
 स्ते नान्तवन्तः प्रतिपालयन्ति ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रतर्दन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -419,17 +414,17 @@ _ययातिने कहा—_ नरेन्द्र! आपके त�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रतर्दन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्ते ददानि मा प्रपत प्रपातं  
 ये मे लोकास्तव ते वै भवन्तु।  
 यद्यन्तरिक्षे यदि वा दिवि श्रिता-  
 स्तानाक्रम क्षिप्रमपेतमोहः ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -446,6 +441,11 @@ _ययातिने कहा—_ नरेन्द्र! आपके त�
 
 _प्रतर्दन बोले—_ महाराज! वे सभी लोक मैं आपको देता हूँ, आप नीचे न गिरें। जो मेरे लोक हैं वे सब आपके हो जायँ। वे अन्तरिक्षमें हों या स्वर्गमें, आप शीघ्र मोहरहित होकर उनमें चले जाइये॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -512,11 +512,6 @@ _ययातिने कहा—_ राजन्! कोई भी राज
 नृपोत्तमो वसुमानब्रवीत् तम् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक बानबेवाँ अध्याय पूरा हुआ॥९२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -545,8 +540,14 @@ _ययातिने कहा—_ राजन्! कोई भी राज
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि उत्तरयायाते द्विनवतितमोऽध्यायः ॥ ९२ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक बानबेवाँ अध्याय पूरा हुआ॥९२॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २ श्लोक मिलाकर कुल २१ श्लोक हैं)
 </details>
 </details>
+

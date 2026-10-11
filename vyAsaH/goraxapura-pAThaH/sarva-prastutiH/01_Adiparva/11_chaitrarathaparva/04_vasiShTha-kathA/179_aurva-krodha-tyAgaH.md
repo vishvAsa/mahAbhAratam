@@ -4,16 +4,11 @@ title_full = "179 और्व और पितरोंकी बातची�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-179p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-179p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-179p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-179p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-179p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-और्व उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-179p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "179 और्व और पितरोंकी बातची�
 
 और्व और पितरोंकी बातचीत तथा और्वका अपनी क्रोधाग्निको बडवानलरूपसे समुद्रमें त्यागना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+और्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,11 +319,6 @@ _और्वने कहा—_ पितरो! मैंने क्रो�
 तस्माद् विधध्वं यच्छ्रेयो लोकानां मम चेश्वराः ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पितर ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -336,6 +331,11 @@ _और्वने कहा—_ पितरो! मैंने क्रो�
 
 मैं यह भी जानता हूँ कि आपलोग समस्त जगत्‌का हित चाहनेवाले हैं। अतः शक्तिशाली पितरो! आपलोग ऐसा करें, जिससे इन लोकोंका और मेरा भी कल्याण हो॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पितर ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -404,11 +404,6 @@ _पितर बोले—_ और्व! तुम्हारे क्र�
 न चैवं सामरा लोका गमिष्यन्ति पराभवम् ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -421,6 +416,11 @@ _पितर बोले—_ और्व! तुम्हारे क्र�
 
 अनघ! ऐसा करनेसे तुम्हारी प्रतिज्ञा भी सच्ची हो जायगी और देवताओंसहित समस्त लोक भी नष्ट नहीं होंगे॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -453,11 +453,6 @@ _वसिष्ठजी कहते हैं—_ पराशर! तब औ
 पराशर पराल्ँलोकान् जानञ्ज्ञानवतां वर ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें और्वोपाख्यानविषयक एक सौ उनासीवाँ अध्याय पूरा हुआ॥१७९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -475,4 +470,10 @@ _वसिष्ठजी कहते हैं—_ पराशर! तब औ
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वण्यौर्वोपाख्याने एकोनाशीत्यधिकशततमोऽध्यायः ॥ १७९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें और्वोपाख्यानविषयक एक सौ उनासीवाँ अध्याय पूरा हुआ॥१७९॥
 </details>
+</details>
+

@@ -4,30 +4,25 @@ title_full = "074 दुर्योधनका धृतराष्ट्र�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p03.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p04.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p05.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p06.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p06.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p07.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p07.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p08.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p08.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p09.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p09.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p10.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-074-p10.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -44,15 +39,15 @@ title_full = "074 दुर्योधनका धृतराष्ट्र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुज्ञातांस्तान् विदित्वा सरत्नधनसंचयान् ।  
 पाण्डवान् धार्तराष्ट्राणां कथमासीन्मनस्तदा ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -69,17 +64,17 @@ _जनमेजयने पूछा—_ ब्रह्मन्! जब क�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुज्ञातांस्तान् विदित्वा धृतराष्ट्रेण धीमता।  
 राजन् दुःशासनः क्षिप्रं जगाम भ्रातरं प्रति ॥ २ ॥  
 दुर्योधनं समासाद्य सामात्यं भरतर्षभ।  
 दुःखार्तो भरतश्रेष्ठमिदं वचनमब्रवीत् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुःशासन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -96,6 +91,11 @@ _जनमेजयने पूछा—_ ब्रह्मन्! जब क�
 
 _वैशम्पायनजीने कहा—_ भरतकुलभूषण जनमेजय! परम बुद्धिमान् राजा धृतराष्ट्रने पाण्डवोंको जानेकी आज्ञा दे दी, यह जानकर दुःशासन शीघ्र ही अपने भाई भरतश्रेष्ठ दुर्योधनके पास, जो अपने मन्त्रियों (कर्ण एवं शकुनि)-के साथ बैठा था, गया और दुःखसे पीड़ित होकर इस प्रकार बोला॥२-३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुःशासन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,11 +126,6 @@ _दुःशासनने कहा—_ महारथियो! आपल�
 अभिगम्य त्वरायुक्ताः श्लक्ष्णं वचनमब्रुवन् ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -145,6 +140,11 @@ _दुःशासनने कहा—_ महारथियो! आपल�
 
 यह सुनकर दुर्योधन, कर्ण और सुबलपुत्र शकुनि, जो बड़े ही अभिमानी थे, पाण्डवोंसे बदला लेनेके लिये परस्पर मिलकर सलाह करने लगे। फिर उन सबने बड़ी उतावलीके साथ विचित्रवीर्यनन्दन मनीषी राजा धृतराष्ट्रके पास जाकर मधुर वाणीमें कहा॥५-६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -959,11 +959,6 @@ _दुर्योधन बोला—_ पिताजी! संसार�
 भवेद् रामे महावीर्ये तथा पार्थे भयं मम॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -978,6 +973,11 @@ _दुर्योधन बोला—_ पिताजी! संसार�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानाम्येव महद् वीर्यं जिष्णोरेतद् दुरासदम्।  
@@ -988,11 +988,6 @@ _दुर्योधन बोला—_ पिताजी! संसार�
 यश्च पार्थेन सम्बन्धाद् वर्तते च नरो भुवि।  
 तस्य नास्ति भयं किंचित् त्रिषु लोकेषु भारत॥  
 तस्मात् त्वं जिष्णुना वत्स नित्यं स्नेहेन वर्तय॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1015,15 +1010,15 @@ _धृतराष्ट्र बोले—_ बेटा! अर्जु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यूते पार्थस्य कौरव्य मायया निकृतिः कृता।  
 तस्माद्धि तं जहि सदा त्वन्योपायेन नो भवेत्॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1040,6 +1035,11 @@ _दुर्योधन बोला—_ कुरुश्रेष्ठ! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपायश्च न कर्तव्यः पाण्डवान् प्रति भारत।  
@@ -1048,11 +1048,6 @@ _दुर्योधन बोला—_ कुरुश्रेष्ठ! �
 तस्माद्धितं जीविताय नः कुलस्य जनस्य च।  
 त्वं चिकीर्षसि चेद् वत्स समित्रः सहबान्धवः।  
 सभ्रातृकस्त्वं पार्थेन नित्यं स्नेहेन वर्तय॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1073,15 +1068,15 @@ _धृतराष्ट्रने कहा—_ भारत! पाण्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धृतराष्ट्रवचः श्रुत्वा राजा दुर्योधनस्तदा।  
 चिन्तयित्वा मुहूर्तं तु विधिना चोदितोऽब्रवीत्॥)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1096,6 +1091,11 @@ _धृतराष्ट्रने कहा—_ भारत! पाण्�
 
 _वैशम्पायनजी कहते हैं—_ धृतराष्ट्रकी यह बात सुनकर राजा दुर्योधन दो घड़ीतक कुछ सोच-विचार करके विधातासे प्रेरित हो इस प्रकार बोला।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1392,11 +1392,6 @@ _दुर्योधन बोला—_ राजन्! देवगुर�
 जेष्यामस्तान् वयं राजन् रोचतां ते परंतप ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1411,15 +1406,15 @@ _दुर्योधन बोला—_ राजन्! देवगुर�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तूर्णं प्रत्यानयस्वैतान् कामं व्यध्वगतानपि।  
 आगच्छन्तु पुनर्द्यूतमिदं कुर्वन्तु पाण्डवाः ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1434,6 +1429,11 @@ _दुर्योधन बोला—_ राजन्! देवगुर�
 
 _धृतराष्ट्रने कहा—_ बेटा! पाण्डवलोग दूर चले गये हों, तो भी तुम्हारी इच्छा हो, तो उन्हें तुरंत बुला लो। समस्त पाण्डव यहाँ आयें और इस नये दाँवपर फिर जूआ खेलें॥२४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1466,11 +1466,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अकरोत् पाण्डवाह्वानं धृतराष्ट्रः सुतप्रियः ॥ २७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें युधिष्ठिरप्रत्यानयनविषयक चौहत्तरवाँ अध्याय पूरा हुआ॥७४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1489,8 +1484,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते सभापर्वणि अनुद्यूतपर्वणि युधिष्ठिरप्रत्यानयने चतुःसप्ततितमोऽध्यायः ॥ ७४ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें युधिष्ठिरप्रत्यानयनविषयक चौहत्तरवाँ अध्याय पूरा हुआ॥७४॥
+</details>
+
 <details><summary>Misc Detail</summary>
 
 _[दाक्षिणात्य अधिक पाठके ६७_  _श्लोक मिलाकर कुल ९४_  _श्लोक हैं।]_
 </details>
 </details>
+

@@ -4,12 +4,7 @@ title_full = "116 धृतराष्ट्रके सौ पुत्रो
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="भट्टमधुसूदनः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-116-msbhat.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="भट्टमधुसूदनः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-116-msbhat.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,15 +20,15 @@ title_full = "116 धृतराष्ट्रके सौ पुत्रो
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठानुज्येष्ठतां तेषां नामानि च पृथक् पृथक्।  
 धृतराष्ट्रस्य पुत्राणामानुपूर्व्यात् प्रकीर्तय ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -48,6 +43,11 @@ title_full = "116 धृतराष्ट्रके सौ पुत्रो
 
 _जनमेजयने पूछा—_ ब्रह्मन्! धृतराष्ट्रके पुत्रोंमें सबसे ज्येष्ठ कौन था? फिर उससे छोटा और उससे भी छोटा कौन था? उन सबके अलग-अलग नाम क्या थे? इन सब बातोंका क्रमशः वर्णन कीजिये॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -166,11 +166,6 @@ _वैशम्पायनजीने कहा—_ (जनमेजय! ध�
 जयद्रथाय प्रददौ विधिना भरतर्षभ ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें धृतराष्ट्रपुत्रनामवर्णनविषयक एक सौ सोलहवाँ अध्याय पूरा हुआ॥११६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -189,6 +184,11 @@ _वैशम्पायनजीने कहा—_ (जनमेजय! ध�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि धृतराष्ट्रपुत्रनामकथने षोडशाधिकशततमोऽध्यायः ॥ ११६ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें धृतराष्ट्रपुत्रनामवर्णनविषयक एक सौ सोलहवाँ अध्याय पूरा हुआ॥११६॥
 </details>
 </details>
 

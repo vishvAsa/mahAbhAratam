@@ -4,14 +4,9 @@ title_full = "095 दक्ष प्रजापतिसे लेकर प�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-095_mamatha_part1.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-095_mamatha_part1.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-095_mamatha_part2.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-095_mamatha_part2.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "095 दक्ष प्रजापतिसे लेकर प�
 
 दक्ष प्रजापतिसे लेकर पूरुवंश, भरतवंश एवं पाण्डुवंशकी परम्पराका वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -97,11 +97,6 @@ _जनमेजय बोले—_ ब्रह्मन्! मैंने �
 न तृप्यामि कथां शृण्वन्नमृतास्वादसम्मिताम् ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -114,6 +109,11 @@ _जनमेजय बोले—_ ब्रह्मन्! मैंने �
 
 ये सभी नरेश उत्तम गुण, प्रभाव, बल-पराक्रम, ओज, सत्त्व (धैर्य) और उत्साहसे सम्पन्न थे। इनकी कथा अमृतके समान मधुर है, उसे सुनते-सुनते मुझे तृप्ति नहीं हो रही है॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1595,11 +1595,6 @@ _वैशम्पायनजीने कहा—_ राजन्! पू�
 धन्यं यशस्यमायुष्यं श्रोतव्यं नियतात्मभिः ॥ ९० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पूरुवंशानुवर्णनविषयक पंचानबेवाँ अध्याय पूरा हुआ॥९५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1619,4 +1614,10 @@ _वैशम्पायनजीने कहा—_ राजन्! पू�
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि पूरुवंशानुकीर्तने पञ्चनवतितमोऽध्यायः ॥ ९५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पूरुवंशानुवर्णनविषयक पंचानबेवाँ अध्याय पूरा हुआ॥९५॥
 </details>
+</details>
+

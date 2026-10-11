@@ -4,12 +4,7 @@ title_full = "017 मेरुपर्वतपर अमृतके लिय
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-017.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-017.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "017 मेरुपर्वतपर अमृतके लिय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नेव काले तु भगिन्यौ ते तपोधन।  
@@ -33,11 +33,6 @@ title_full = "017 मेरुपर्वतपर अमृतके लिय
 मध्यमानेऽमृते जातमश्वरत्नमनुत्तमम् ॥ २ ॥  
 अमोघबलमश्वानामुत्तमं जगतां वरम् ।  
 श्रीमन्तमजरं दिव्यं सर्वलक्षणपूजितम् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -58,15 +53,15 @@ _उग्रश्रवाजी कहते हैं—_ तपोधन! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं तदमृतं देवैर्मथितं क्व च शंस मे।  
 यत्र जज्ञे महावीर्यः सोऽश्वराजो महाद्युतिः ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -81,6 +76,11 @@ _उग्रश्रवाजी कहते हैं—_ तपोधन! �
 
 _शौनकजीने पूछा—_ सूतनन्दन! अब मुझे यह बताइये कि देवताओंने अमृत-मन्थन किस प्रकार और किस स्थानपर किया था, जिसमें वह महान् बल-पराक्रमसे सम्पन्न और अत्यन्त तेजस्वी अश्वराज उच्चैःश्रवा प्रकट हुआ?॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -169,11 +169,6 @@ _उग्रश्रवाजीने कहा—_ शौनकजी! म�
 मन्थध्वमुदधिं देवा वेत्स्यध्वममृतं ततः ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें अमृतमन्थनविषयक सत्रहवाँ अध्याय पूरा हुआ॥१७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -191,4 +186,10 @@ _उग्रश्रवाजीने कहा—_ शौनकजी! म�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि अमृतमन्थने सप्तदशोऽध्यायः ॥ १७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें अमृतमन्थनविषयक सत्रहवाँ अध्याय पूरा हुआ॥१७॥
 </details>
+</details>
+

@@ -4,12 +4,7 @@ title_full = "101 सत्यवतीके गर्भसे चित्र
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-101.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-101.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "101 सत्यवतीके गर्भसे चित्र
 
 सत्यवतीके गर्भसे चित्रांगद और विचित्रवीर्यकी उत्पत्ति, शान्तनु और चित्रांगदका निधन तथा विचित्रवीर्यका राज्याभिषेक
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -155,11 +155,6 @@ _वैशम्पायनजी कहते हैं—_ सत्यवत
 गन्धर्वराजो बलवांस्तुल्यनामाभ्ययात् तदा ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(गन्धर्व उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -172,6 +167,11 @@ _वैशम्पायनजी कहते हैं—_ सत्यवत
 
 मनुष्योंपर ही नहीं, वे देवताओं तथा असुरोंपर भी आक्षेप करते थे। तब एक दिन उन्हींके समान नामवाला महाबली गन्धर्वराज चित्रांगद उनके पास आया॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -310,11 +310,6 @@ _गन्धर्वने कहा—_ राजकुमार! तुम �
 पूजयामास धर्मेण स चैनं प्रत्यपालयत् ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें चित्रांगदोपाख्यानविषयक एक सौ एकवाँ अध्याय पूरा हुआ॥१०१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -333,8 +328,14 @@ _गन्धर्वने कहा—_ राजकुमार! तुम �
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि चित्राङ्गदोपाख्याने एकाधिकशततमोऽध्यायः ॥ १०१ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें चित्रांगदोपाख्यानविषयक एक सौ एकवाँ अध्याय पूरा हुआ॥१०१॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ३ श्लोक मिलाकर कुल १७ श्लोक हैं)
 </details>
 </details>
+

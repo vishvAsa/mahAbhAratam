@@ -4,24 +4,19 @@ title_full = "049 धृतराष्ट्रके पूछनेपर द
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p05.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p05.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p06.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p06.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p07.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-049p07.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -37,6 +32,11 @@ title_full = "049 धृतराष्ट्रके पूछनेपर द
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुभूय तु राज्ञस्तं राजसूयं महाक्रतुम्।  
@@ -45,11 +45,6 @@ title_full = "049 धृतराष्ट्रके पूछनेपर द
 प्रज्ञाचक्षुषमासीनं शकुनिः सौबलस्तदा ॥ २ ॥  
 दुर्योधनवचः श्रुत्वा धृतराष्ट्रं जनाधिपम्।  
 उपगम्य महाप्राज्ञं शकुनिर्वाक्यमब्रवीत् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -68,6 +63,11 @@ title_full = "049 धृतराष्ट्रके पूछनेपर द
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! गान्धारीपुत्र दुर्योधनके सहित सुबलनन्दन शकुनि राजा युधिष्ठिरके राजसूय महायज्ञका उत्सव देखकर जब लौटा, तब पहले दुर्योधनके अपने अनुकूल मतको जानकर और उसकी पूरी बातें सुनकर सिंहासनपर बैठे हुए प्रज्ञाचक्षु महाप्राज्ञ राजा धृतराष्ट्रके पास जाकर इस प्रकार बोला॥१—३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -96,11 +96,6 @@ _शकुनिने कहा—_ महाराज! दुर्योध�
 ज्येष्ठपुत्रस्य हृच्छोकं किमर्थं नावबुध्यसे ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -113,6 +108,11 @@ _शकुनिने कहा—_ महाराज! दुर्योध�
 
 उसे शत्रुओंकी ओरसे कोई असह्य कष्ट प्राप्त हुआ है। आप उसकी अच्छी तरह परीक्षा क्यों नहीं करते? दुर्योधन आपका ज्येष्ठ पुत्र है। उसके हृदयमें महान् शोक व्याप्त है। आप उसका पता क्यों नहीं लगाते?॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -267,11 +267,6 @@ _धृतराष्ट्र दुर्योधनके पास जा�
 लोकेऽस्मिञ्ज्येष्ठभागी त्वं तन्ममाचक्ष्व पुत्रक॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -288,15 +283,15 @@ _धृतराष्ट्र दुर्योधनके पास जा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा मन्दः क्रोधवशानुगः।  
 पितरं प्रत्युवाचेदं स्वमतिं सम्प्रकाशयन्॥)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -311,6 +306,11 @@ _धृतराष्ट्र दुर्योधनके पास जा�
 
 _वैशम्पायनजी कहते हैं—_ पिताका यह कथन सुनकर क्रोधके वशीभूत हुए मूढ़ दुर्योधनने उन्हें अपना विचार बताते हुए इस प्रकार उत्तर दिया।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -811,11 +811,6 @@ _दुर्योधन बोला—_ पिताजी! मैं अच�
 वर्धन्ते पाण्डवा राजन् वयं हि स्थितवृद्धयः॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -830,6 +825,11 @@ _दुर्योधन बोला—_ पिताजी! मैं अच�
 
 पाण्डवोंका ऐश्वर्य यदि मुझे नहीं प्राप्त हुआ तो मेरे मनको शान्ति नहीं मिलेगी। या तो मैं बाणोंद्वारा रण-भूमिमें उपस्थित होकर शत्रुओंकी सम्पत्तिपर अधिकार प्राप्त करूँगा या शत्रुओंद्वारा मारा जाकर संग्राममें सदाके लिये सो जाऊँगा। परंतप! ऐसी स्थितिमें मेरे इस जीवनसे क्या लाभ? पाण्डव दिनों-दिन बढ़ रहे हैं और हमारी उन्नति रुक गयी है।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -914,11 +914,6 @@ _शकुनिने दुर्योधनसे पुनः कहा—_
 आनयामि समृद्धिं तां दिव्यां चोपाह्वयस्व तम् ॥ ४० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -933,17 +928,17 @@ _शकुनिने दुर्योधनसे पुनः कहा—_
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः शकुनिना राजा दुर्योधनस्ततः।  
 धृतराष्ट्रमिदं वाक्यमपदान्तरमब्रवीत् ॥ ४१ ॥  
 अयमुत्सहते राजञ्छ्रियमाहर्तुमक्षवित् ।  
 द्यूतेन पाण्डुपुत्रस्य तदनुज्ञातुमर्हसि ॥ ४२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -960,6 +955,11 @@ _शकुनिने दुर्योधनसे पुनः कहा—_
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! शकुनिके ऐसा कहनेपर राजा दुर्योधनने तुरंत ही धृतराष्ट्रसे इस प्रकार कहा—‘राजन्! ये अक्षविद्याका मर्म जाननेवाले हैं और जूएके द्वारा पाण्डुपुत्र युधिष्ठिरकी राजलक्ष्मीका अपहरण कर लेनेका उत्साह रखते हैं; अतः इसके लिये इन्हें आज्ञा दीजिये’॥४१-४२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -988,11 +988,6 @@ _धृतराष्ट्र बोले—_ महाबुद्धिम�
 उभयोः पक्षयोर्युक्तं वक्ष्यत्यर्थविनिश्चयम् ॥ ४४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1005,6 +1000,11 @@ _धृतराष्ट्र बोले—_ महाबुद्धिम�
 
 विदुर दूरदर्शी हैं, वे धर्मको सामने रखकर दोनों पक्षोंके लिये उचित और परम हितकी बात सोचकर उसके अनुकूल ही कार्यका निश्चय बतायेंगे॥४४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1033,11 +1033,6 @@ _दुर्योधनने कहा—_ विदुरजी जब आ�
 भोक्ष्यसे पृथिवीं कृत्स्नां किं मया त्वं करिष्यसि ॥ ४६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1050,6 +1045,11 @@ _दुर्योधनने कहा—_ विदुरजी जब आ�
 
 राजन्! मेरी मृत्यु हो जानेपर आप विदुरके साथ सुखसे रहियेगा और सारी पृथ्वीका राज्य भोगियेगा। मेरे जीवित रहनेसे आप क्या प्रयोजन सिद्ध करेंगे?॥४६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1178,11 +1178,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 मूर्ध्ना प्रणम्य चरणाविदं वचनमब्रवीत् ॥ ५३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1197,15 +1192,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाभिनन्दामि ते राजन् व्यवसायमिमं प्रभो।  
 पुत्रैर्भेदो यथा न स्याद् द्यूतहेतोस्तथा कुरु ॥ ५४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1220,6 +1215,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _विदुर बोले—_ राजन्! मैं आपके इस निश्चयको पसंद नहीं करता। प्रभो! आप ऐसा प्रयत्न कीजिये, जिससे जूएके लिये आपके और पाण्डुके पुत्रोंमें भेदभाव न हो॥५४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1328,11 +1328,6 @@ _धृतराष्ट्रने कहा—_ विदुर! यदि �
 आपगेयं महाप्राज्ञमभ्यगच्छत् सुदुःखितः ॥ ६० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें दुर्योधनसंतापविषयक उनचासवाँ अध्याय पूरा हुआ॥४९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1351,8 +1346,14 @@ _धृतराष्ट्रने कहा—_ विदुर! यदि �
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि दुर्योधनसंतापे एकोनपञ्चाशत्तमोऽध्यायः ॥ ४९ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें दुर्योधनसंतापविषयक उनचासवाँ अध्याय पूरा हुआ॥४९॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ७ श्लोक मिलाकर कुल ६७ श्लोक हैं)
 </details>
 </details>
+

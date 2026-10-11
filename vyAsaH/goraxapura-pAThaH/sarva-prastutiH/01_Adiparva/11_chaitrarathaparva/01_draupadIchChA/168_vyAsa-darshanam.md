@@ -4,12 +4,7 @@ title_full = "168 व्यासजीका पाण्डवोंको द
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-168.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-168.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "168 व्यासजीका पाण्डवोंको द
 
 व्यासजीका पाण्डवोंको द्रौपदीके पूर्वजन्मका वृत्तान्त सुनाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,11 +105,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पुनरेवेदमब्रवीत् ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -122,6 +117,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 तदनन्तर महर्षि भगवान् व्यासने उनसे धर्म और अर्थयुक्त बातें कहीं। फिर विचित्र-विचित्र कथाएँ सुनाकर वे पुनः उनसे इस प्रकार बोले॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -354,11 +354,6 @@ _व्यासजीने कहा—_ पहलेकी बात है, 
 प्रातिष्ठत महातपाः ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें द्रौपदीजन्मान्तरकथनविषयक एक सौ अड़सठवाँ अध्याय पूरा हुआ॥१६८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -376,4 +371,10 @@ _व्यासजीने कहा—_ पहलेकी बात है, 
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि द्रौपदीजन्मान्तरकथने अष्टषष्ट्यधिकशततमोऽध्यायः ॥ १६८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें द्रौपदीजन्मान्तरकथनविषयक एक सौ अड़सठवाँ अध्याय पूरा हुआ॥१६८॥
 </details>
+</details>
+

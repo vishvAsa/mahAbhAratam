@@ -4,14 +4,9 @@ title_full = "007 इन्द्रसभाका वर्णन"
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-007p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-007p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-007p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-007p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "007 इन्द्रसभाका वर्णन"
 
 इन्द्रसभाका वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,11 +397,6 @@ _नारदजी कहते हैं—_ कुरुनन्दन! इ�
 शतक्रतोर्महाबाहो याम्यामपि सभां शृणु ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें इन्द्रसभा-वर्णन नामक सातवाँ अध्याय पूरा हुआ॥७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -420,8 +415,14 @@ _नारदजी कहते हैं—_ कुरुनन्दन! इ�
 इति श्रीमहाभारते सभापर्वणि लोकसभाख्यानपर्वणि इन्द्रसभावर्णनं नाम सप्तमोऽध्यायः ॥ ७ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें इन्द्रसभा-वर्णन नामक सातवाँ अध्याय पूरा हुआ॥७॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २ श्लोक मिलाकर कुल ३२ श्लोक हैं)
 </details>
 </details>
+

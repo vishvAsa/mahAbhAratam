@@ -4,12 +4,7 @@ title_full = "112 माद्रीके साथ पाण्डुका �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-112.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-112.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "112 माद्रीके साथ पाण्डुका �
 
 माद्रीके साथ पाण्डुका विवाह तथा राजा पाण्डुकी दिग्विजय
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -819,11 +819,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 हर्षयन् सर्वशः पौरान् विवेश गजसाह्वयम् ॥ ४५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डुदिग्विजयविषयक एक सौ बारहवाँ अध्याय पूरा हुआ॥११२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -840,6 +835,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि पाण्डुदिग्विजये द्वादशाधिकशततमोऽध्यायः ॥ ११२ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डुदिग्विजयविषयक एक सौ बारहवाँ अध्याय पूरा हुआ॥११२॥
 </details>
 </details>
 

@@ -4,37 +4,32 @@ title_full = "033 भीमसेनका पुरुषार्थकी प
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p01.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p02.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p03.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p04.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p05.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p05.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p06.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p06.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p07.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p07.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p08.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p08.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p09.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-033-p09.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -48,6 +43,11 @@ title_full = "033 भीमसेनका पुरुषार्थकी प
 
 भीमसेनका पुरुषार्थकी प्रशंसा करना और युधिष्ठिरको उत्तेजित करते हुए क्षत्रिय-धर्मके अनुसार युद्ध छेड़नेका अनुरोध
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1758,11 +1758,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इह यत्नमुपाहृत्य बलेन महतान्वितः ॥ ९० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें भीमवाक्यविषयक तैंतीसवाँ अध्याय पूरा हुआ॥३३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1780,4 +1775,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि भीमवाक्ये त्रयस्त्रिंशोऽध्यायः ॥ ३३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें भीमवाक्यविषयक तैंतीसवाँ अध्याय पूरा हुआ॥३३॥
 </details>
+</details>
+

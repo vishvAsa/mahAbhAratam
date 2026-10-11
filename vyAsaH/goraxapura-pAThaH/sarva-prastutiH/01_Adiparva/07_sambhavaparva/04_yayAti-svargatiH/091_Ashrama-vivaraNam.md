@@ -4,12 +4,7 @@ title_full = "091 ययाति और अष्टकका आश्रम�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-091.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-091.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,17 +20,17 @@ title_full = "091 ययाति और अष्टकका आश्रम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चरन् गृहस्थः कथमेति धर्मान्  
 कथं भिक्षुः कथमाचार्यकर्मा ।  
 वानप्रस्थः सत्पथे संनिविष्टो  
 बहून्यस्मिन् सम्प्रति वेदयन्ति ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -52,6 +47,11 @@ title_full = "091 ययाति और अष्टकका आश्रम�
 
 _अष्टकने पूछा—_ महाराज! वेदज्ञ विद्वान् इस धर्मके अन्तर्गत बहुत-से कर्मोंको उत्तम लोकोंकी प्राप्तिका द्वार बताते हैं; अतः मैं पूछता हूँ, आचार्यकी सेवा करनेवाला ब्रह्मचारी, गृहस्थ, सन्मार्गमें स्थित वानप्रस्थ और संन्यासी किस प्रकार धर्माचरण करके उत्तम लोकमें जाता है?॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -182,11 +182,6 @@ _ययाति बोले—_ शिष्यको उचित है क�
 विमुच्यारण्ये स्वशरीरधातून् ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -203,15 +198,15 @@ _ययाति बोले—_ शिष्यको उचित है क�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कतिस्विदेव मुनयः कति मौनानि चाप्युत।  
 भवन्तीति तदाचक्ष्व श्रोतुमिच्छामहे वयम् ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -228,15 +223,15 @@ _अष्टकने पूछा—_ राजन्! मुनि कित�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरण्ये वसतो यस्य ग्रामो भवति पृष्ठतः।  
 ग्रामे वा वसतोऽरण्यं स मुनिः स्याज्जनाधिप ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -253,15 +248,15 @@ _ययातिने कहा—_ जनेश्वर! अरण्यम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथंस्विद् वसतोऽरण्ये ग्रामो भवति पृष्ठतः।  
 ग्रामे वा वसतोऽरण्यं कथं भवति पृष्ठतः ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -276,6 +271,11 @@ _ययातिने कहा—_ जनेश्वर! अरण्यम�
 
 _अष्टकने पूछा—_ अरण्यमें निवास करनेवालेके लिये ग्राम और ग्राममें निवास करनेवालेके लिये अरण्य पीछे कैसे है?॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -408,11 +408,6 @@ _ययातिने कहा—_ जो मुनि वनमें नि�
 अथास्य लोकः सर्वोऽयं सोऽमृतत्वाय कल्पते ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक इक्यानबेवाँ अध्याय पूरा हुआ॥९१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -430,4 +425,10 @@ _ययातिने कहा—_ जो मुनि वनमें नि�
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि उत्तरयायाते एकनवतितमोऽध्यायः ॥ ९१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक इक्यानबेवाँ अध्याय पूरा हुआ॥९१॥
 </details>
+</details>
+

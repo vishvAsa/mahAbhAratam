@@ -4,16 +4,11 @@ title_full = "178 पितरोंद्वारा और्कके क्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-178p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-178p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-178p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-178p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-178p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण्युवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-178p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "178 पितरोंद्वारा और्कके क्
 
 पितरोंद्वारा और्वके क्रोधका निवारण
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,11 +135,6 @@ _ब्राह्मणीने कहा—_ पुत्रो! मैं�
 अयं वः प्रणिपातेन तुष्टो दृष्टीः प्रमोक्ष्यति ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -152,6 +147,11 @@ _ब्राह्मणीने कहा—_ पुत्रो! मैं�
 
 इसलिये तुमलोग मेरे इस उत्तम पुत्र और्वसे ही याचना करो। यह तुमलोगोंके नतमस्तक होनेसे संतुष्ट होकर पुनः तुम्हारी खोयी हुई नेत्रोंकी ज्योति दे देगा॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,11 +280,6 @@ _वसिष्ठजी कहते हैं—_ पराशर! ब्र�
 पितृलोकादुपागम्य सर्व ऊचुरिदं वचः ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पितर ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -297,6 +292,11 @@ _वसिष्ठजी कहते हैं—_ पराशर! ब्र�
 
 तात! तदनन्तर सभी पितरोंने अपने कुलका आनन्द बढ़ानेवाले और्व मुनिका वह निश्चय जानकर पितृलोकसे आकर यह बात कही॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पितर ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -465,11 +465,6 @@ _पितर बोले—_ बेटा और्व! तुम्हार�
 दूषयन्तं तपस्तेजः क्रोधमुत्पतितं जहि ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें और्वक्रोधनिवारण-विषयक एक सौ अठहत्तरवाँ अध्याय पूरा हुआ॥१७८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -487,4 +482,10 @@ _पितर बोले—_ बेटा और्व! तुम्हार�
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वण्यौर्ववारणे अष्टसप्तत्यधिकशततमोऽध्यायः ॥ १७८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें और्वक्रोधनिवारण-विषयक एक सौ अठहत्तरवाँ अध्याय पूरा हुआ॥१७८॥
 </details>
+</details>
+

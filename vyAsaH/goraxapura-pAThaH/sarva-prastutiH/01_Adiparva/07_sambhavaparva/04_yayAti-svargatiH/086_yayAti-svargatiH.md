@@ -4,12 +4,7 @@ title_full = "086 वनमें राजा ययातिकी तपस�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-086.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-086.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "086 वनमें राजा ययातिकी तपस�
 
 वनमें राजा ययातिकी तपस्या और उन्हें स्वर्गलोककी प्राप्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -96,11 +96,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 प्रतर्दनेन शिबिना समेत्य किल संसदि।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -114,6 +109,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 फिर यह भी सुननेमें आया है कि वे पराक्रमी राजा ययाति मुनिसमाजमें राजा वसुमान्, अष्टक, प्रतर्दन और शिबिसे मिलकर पुनः वहींसे साधु पुरुषोंके संगके प्रभावसे स्वर्गलोकमें चले गये॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,11 +180,6 @@ _जनमेजयने पूछा—_ मुने! किस कर्म�
 चरितं श्रोतुमिच्छामि दिवि चेह च सर्वशः ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -197,6 +192,11 @@ _जनमेजयने पूछा—_ मुने! किस कर्म�
 
 उनका यश चारों ओर फैला था। मैं उन सत्यकीर्ति महात्मा ययातिका चरित्र, जो इहलोक और स्वर्गलोकमें सर्वत्र प्रसिद्ध है, सुनना चाहता हूँ॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,11 +329,6 @@ _वैशम्पायनजी बोले—_ जनमेजय! यय�
 पुण्यकीर्तिस्ततः स्वर्गे जगामावृत्य रोदसी ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक छियासीवाँ अध्याय पूरा हुआ॥८६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -351,4 +346,10 @@ _वैशम्पायनजी बोले—_ जनमेजय! यय�
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि उत्तरयायाते षडशीतितमोऽध्यायः ॥ ८६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक छियासीवाँ अध्याय पूरा हुआ॥८६॥
 </details>
+</details>
+

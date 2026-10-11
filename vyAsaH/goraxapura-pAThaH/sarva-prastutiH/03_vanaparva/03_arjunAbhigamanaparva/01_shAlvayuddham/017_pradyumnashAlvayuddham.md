@@ -4,12 +4,7 @@ title_full = "017 प्रद्युम्न और शाल्वका �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-017.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-017.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "017 प्रद्युम्न और शाल्वका �
 
 प्रद्युम्न और शाल्वका घोर युद्ध
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -487,11 +487,6 @@ _भगवान् श्रीकृष्ण कहते हैं—_ भ�
 निश्चेष्टः कौरवश्रेष्ठ प्रद्युम्नोऽभूद् रणाजिरे ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक सत्रहवाँ अध्याय पूरा हुआ॥१७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -508,6 +503,11 @@ _भगवान् श्रीकृष्ण कहते हैं—_ भ�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि सौभवधोपाख्याने सप्तदशोऽध्यायः ॥ १७ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक सत्रहवाँ अध्याय पूरा हुआ॥१७॥
 </details>
 </details>
 

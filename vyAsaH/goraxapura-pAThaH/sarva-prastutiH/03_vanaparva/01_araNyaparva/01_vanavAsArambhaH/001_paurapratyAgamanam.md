@@ -4,15 +4,15 @@ title_full = "001 पाण्डवोंका वनगमन, पुरव�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p01.mp3"></div>
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p02.mp3"></div>
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p03.mp3"></div>
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p04.mp3"></div>
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p05.mp3"></div>
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-001-p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -46,11 +46,6 @@ title_full = "001 पाण्डवोंका वनगमन, पुरव�
 देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -63,6 +58,11 @@ title_full = "001 पाण्डवोंका वनगमन, पुरव�
 
 ‘अन्तर्यामी नारायणस्वरूप भगवान् श्रीकृष्ण, (उनके नित्यसखा) नरस्वरूप नरश्रेष्ठ अर्जुन, (उनकी लीला प्रकट करनेवाली) भगवती सरस्वती और (उन लीलाओंका संकलन करनेवाले) महर्षि वेदव्यासको नमस्कार करके जय (महाभारत)-का पाठ करना चाहिये।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -179,11 +179,6 @@ _जनमेजयने पूछा—_ विप्रवर! मन्त�
 कथ्यमानं त्वया विप्र परं कौतूहलं हि मे ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -196,6 +191,11 @@ _जनमेजयने पूछा—_ विप्रवर! मन्त�
 
 ब्रह्मन्! मैं आपके द्वारा कहे जाते हुए महान् पराक्रम और तेजसे सम्पन्न पाण्डवोंके चरित्रको सुनना चाहता हूँ। इसके लिये मेरे मनमें अत्यन्त कौतूहल हो रहा है॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,11 +265,6 @@ _वैशम्पायनजीने कहा—_ राजन्! इस �
 ऊचुर्विगतसंत्रासाः समागम्य परस्परम् ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पौरा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -283,6 +278,11 @@ _वैशम्पायनजीने कहा—_ राजन्! इस �
 
 पाण्डव वनकी ओर गये हैं, यह जानकर हस्तिनापुरके निवासी शोकसे पीडित हो बिना किसी भयके भीष्म, विदुर, द्रोण और कृपाचार्यकी बारंबार निन्दा करते हुए एक-दूसरेसे मिलकर इस प्रकार कहने लगे॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पौरा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -373,11 +373,6 @@ _पुरवासी बोले—_ अहो! हमारा यह सम
 ह्रीमन्तः कीर्तिमन्तश्च धर्माचारपरायणाः ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -390,6 +385,11 @@ _पुरवासी बोले—_ अहो! हमारा यह सम
 
 पाण्डवगण दयालु, महात्मा, जितेन्द्रिय, शत्रुविजयी, लज्जाशील, यशस्वी, धर्मात्मा तथा सदाचारपरायण हैं॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -628,11 +628,6 @@ _वैशम्पायनजी कहते हैं—_ ऐसा कह�
 इच्छामो गुणवन्मध्ये वस्तुं श्रेयोऽभिकाङ्क्षिणः ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -645,6 +640,11 @@ _वैशम्पायनजी कहते हैं—_ ऐसा कह�
 
 ‘वे सभी सद्‌गुण पृथक्-पृथक् और एक साथ आपलोगोंमें विद्यमान हैं, अतः हमलोग कल्याणकी इच्छासे आप-जैसे गुणवान् पुरुषोंके बीचमें रहना चाहते हैं’॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -753,11 +753,6 @@ _युधिष्ठिरने कहा—_ हमलोग धन्य �
 कृता तेन तु तुष्टिर्मे सत्कारश्च भविष्यति ॥ ३८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -770,6 +765,11 @@ _युधिष्ठिरने कहा—_ हमलोग धन्य �
 
 मेरे हृदयमें स्थित सब कार्योंमें यही कार्य सबसे उत्तम है, आपके द्वारा इसके किये जानेपर मुझे महान् संतोष प्राप्त होगा और इसीसे मेरा सत्कार भी हो जायगा॥३८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -918,11 +918,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 आश्वासयन्तो विप्राग्र्याः क्षपां सर्वां व्यनोदयन् ॥ ४६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें पुरवासियोंके लौटनेसे सम्बन्ध रखनेवाला पहला अध्याय पूरा हुआ॥१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -940,4 +935,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि अरण्यपर्वणि पौरप्रत्यागमने प्रथमोऽध्यायः ॥ १ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें पुरवासियोंके लौटनेसे सम्बन्ध रखनेवाला पहला अध्याय पूरा हुआ॥१॥
 </details>
+</details>
+

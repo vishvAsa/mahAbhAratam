@@ -4,20 +4,15 @@ title_full = "032 द्रौपदीका पुरुषार्थको 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-032-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-032-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-032-p03.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-032-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-032-p04.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-032-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-032-p05.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-032-p05.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-032-p06.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-032-p06.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "032 द्रौपदीका पुरुषार्थको 
 
 द्रौपदीका पुरुषार्थको प्रधान मानकर पुरुषार्थ करनेके लिये जोर देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1179,11 +1179,6 @@ _द्रौपदी बोली—_ कुन्तीनन्दन! म�
 शुश्रूषमाणामासीनां पितुरङ्के युधिष्ठिर ॥ ६२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्रौपदीवाक्यविषयक बत्तीसवाँ अध्याय पूरा हुआ॥३२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1201,4 +1196,10 @@ _द्रौपदी बोली—_ कुन्तीनन्दन! म�
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि द्रौपदीवाक्ये द्वात्रिंशोऽध्यायः ॥ ३२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्रौपदीवाक्यविषयक बत्तीसवाँ अध्याय पूरा हुआ॥३२॥
 </details>
+</details>
+

@@ -4,24 +4,19 @@ title_full = "079 द्रौपदीका कुन्तीसे विद
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P05.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P05.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P06.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P06.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P07.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-079P07.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -35,6 +30,11 @@ title_full = "079 द्रौपदीका कुन्तीसे विद
 
 द्रौपदीका कुन्तीसे विदा लेना तथा कुन्तीका विलाप एवं नगरके नर-नारियोंका शोकातुर होना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,11 +247,6 @@ _वैशम्पायनजी कहते हैं—_ युधिष्
 स्वजमानावदच्छोकात् तत्तद् विलपती बहु ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -264,6 +259,11 @@ _वैशम्पायनजी कहते हैं—_ युधिष्
 
 उस अवस्थामें उन सभी पुत्रोंके निकट पहुँचकर कुन्तीके हृदयमें अत्यन्त वात्सल्य उमड़ आया। वे उन्हें हृदयसे लगाकर शोकवश बहुत विलाप करती हुई बोलीं॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -560,11 +560,6 @@ _कुन्तीने कहा—_ पुत्रो! तुम उत्�
 मत्परित्राणजं धर्ममिहैव त्वमवाप्नुहि ॥ २९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -577,6 +572,11 @@ _कुन्तीने कहा—_ पुत्रो! तुम उत्�
 
 तुम्हारे ये भाई यदि सत्यधर्मके पालनका आग्रह रखकर वनमें जा रहे हैं तो जायँ; तुम यहीं रहकर मेरी रक्षाजनित धर्मका लाभ लो॥२९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -672,11 +672,6 @@ _वैशम्पायनजी कहते हैं—_ इस प्र�
 ऊचुर्बहुविधा वाचो भृशोपहतचेतसः ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जना ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -690,6 +685,11 @@ _वैशम्पायनजी कहते हैं—_ इस प्र�
 
 कुन्तीनन्दन युधिष्ठिर छत्ररहित एवं पैदल ही चल रहे थे। उनके शरीरपर राजोचित वस्त्रों और आभूषणोंका भी अभाव था। वे वल्कल और मृगचर्म पहने हुए थे। उन्हें इस दशामें देखकर लोगोंके हृदयमें गहरी चोट पहुँची और वे सब लोग नाना प्रकारकी बातें करने लगे।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जना ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -961,11 +961,6 @@ _नगरनिवासी मनुष्य बोले—_ अहो! य�
 वयं पार्थैर्वने सम्यक् सह वत्स्याम निर्वृताः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -979,6 +974,11 @@ _नगरनिवासी मनुष्य बोले—_ अहो! य�
 
 हमलोग तृण (साग-पात), अन्न और फलका उपयोग करनेवाले हैं। जंगलके हिंसक पशु और पक्षी हमारे रहनेके स्थानोंको छोड़कर चले जायँ। वे ऐसे स्थानका आश्रय लें, जहाँ हम न जायँ और वे उन स्थानोंको छोड़ दें, जिनका हम सेवन करें। हमलोग वनमें कुन्तीपुत्रोंके साथ बड़े सुखसे रहेंगे।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1105,11 +1105,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तं पर्यपृच्छत् संविग्नो धृतराष्ट्रो जनाधिपः ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें द्रौपदीकुन्तीसंवादविषयक उनासीवाँ अध्याय पूरा हुआ॥७९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1128,8 +1123,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते सभापर्वणि अनुद्यूतपर्वणि द्रौपदीकुन्तीसंवादे एकोनाशीतितमोऽध्यायः ॥ ७९ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें द्रौपदीकुन्तीसंवादविषयक उनासीवाँ अध्याय पूरा हुआ॥७९॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २९ श्लोक मिलाकर कुल ६५ श्लोक हैं)
 </details>
 </details>
+

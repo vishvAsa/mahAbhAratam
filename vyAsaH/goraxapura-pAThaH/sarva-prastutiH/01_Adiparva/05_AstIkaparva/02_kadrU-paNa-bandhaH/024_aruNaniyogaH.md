@@ -4,12 +4,7 @@ title_full = "024 गरुडके द्वारा अपने तेज �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="विनायक-रजतः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-024.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="विनायक-रजतः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-024.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,15 +20,15 @@ title_full = "024 गरुडके द्वारा अपने तेज �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स श्रुत्वाथात्मनो देहं सुपर्णः प्रेक्ष्य च स्वयम्।  
 शरीरप्रतिसंहारमात्मनः सम्प्रचक्रमे ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुपर्ण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -50,15 +45,15 @@ _उग्रश्रवाजी कहते हैं—_ शौनकाद
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुपर्ण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मे सर्वाणि भूतानि विभियुर्देहदर्शनात्।  
 भीमरूपात् समुद्विग्नास्तस्मात् तेजस्तु संहरे ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -73,6 +68,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनकाद
 
 _गरुडजीने कहा—_ देवताओ! मेरे इस शरीरको देखनेसे संसारके समस्त प्राणी उस भयानक स्वरूपसे उद्विग्न होकर डर न जायँ इसलिये मैं अपने तेजको समेट लेता हूँ॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,11 +103,6 @@ _उग्रश्रवाजी कहते हैं—_ तदनन्त
 सूर्यस्तेजोभिरत्युग्रैर्लोकान् दग्धुमना यदा ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-रुरुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -122,15 +117,15 @@ _उग्रश्रवाजी कहते हैं—_ तदनन्त
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+रुरुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं भगवान् सूर्यो लोकान् दग्धुमनास्तदा ॥ ५ ॥  
 किमस्यापहृतं देवैर्येनेमं मन्युराविशत् ।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रमतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -145,6 +140,11 @@ _उग्रश्रवाजी कहते हैं—_ तदनन्त
 
 _रुरुने पूछा—_ पिताजी! भगवान् सूर्यने उस समय सम्पूर्ण लोकोंको दग्ध कर डालनेका विचार क्यों किया? देवताओंने उनका क्या हड़प लिया था, जिससे उनके मनमें क्रोधका संचार हो गया?॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रमतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -277,11 +277,6 @@ _प्रमतिने कहा—_ अनघ! जब राहु अमृ
 उदिते भगवन् भानौ कथमेतद् भविष्यति ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पितामह उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -296,6 +291,11 @@ _प्रमतिने कहा—_ अनघ! जब राहु अमृ
 
 तदनन्तर देवता ऋषियोंको साथ ले ब्रह्माजीके पास जाकर बोले—‘भगवन्! आज यह कैसा महान् दाहजनित भय उपस्थित होना चाहता है? अभी सूर्य नहीं दिखायी देते तो भी ऐसी गरमी प्रतीत होती है मानो जगत्‌का विनाश हो जायगा। फिर सूर्योदय होनेपर गरमी कैसी तीव्र होगी, यह कौन कह सकता है?’॥१३-१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पितामह उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -345,11 +345,6 @@ _ब्रह्माजीने कहा—_ ये सूर्यदेव
 लोकानां स्वस्ति चैवं स्वाद् ऋषीणां च दिवौकसाम्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रमतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -363,6 +358,11 @@ _ब्रह्माजीने कहा—_ ये सूर्यदेव
 
 उनका शरीर विशाल है। वे महान् तेजस्वी हैं। वे ही सूर्यके आगे रथपर बैठेंगे। उनके सारथिका कार्य करेंगे और उनके तेजका भी अपहरण करेंगे। ऐसा करनेसे सम्पूर्ण लोकों, ऋषि-महर्षियों तथा देवताओंका भी कल्याण होगा॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रमतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -393,11 +393,6 @@ _प्रमति कहते हैं—_ तत्पश्चात् �
 भूय एवापरं प्रश्नं शृणु पूर्वमुदाहृतम् ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक चौबीसवाँ अध्याय पूरा हुआ॥२४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -415,4 +410,10 @@ _प्रमति कहते हैं—_ तत्पश्चात् �
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे चतुर्विंशोऽध्यायः ॥ २४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक चौबीसवाँ अध्याय पूरा हुआ॥२४॥
 </details>
+</details>
+

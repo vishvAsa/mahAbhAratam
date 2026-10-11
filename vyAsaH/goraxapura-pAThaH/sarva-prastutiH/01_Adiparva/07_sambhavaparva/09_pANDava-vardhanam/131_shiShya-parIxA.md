@@ -4,16 +4,11 @@ title_full = "131 द्रोणाचार्यद्वारा राज�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-131p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-131p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-131p02.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-131p02.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-131p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-131p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "131 द्रोणाचार्यद्वारा राज�
 
 द्रोणाचार्यद्वारा राजकुमारोंकी शिक्षा, एकलव्यकी गुरुभक्ति तथा आचार्यद्वारा शिष्योंकी परीक्षा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -99,11 +99,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 रहस्येकः प्रतीतात्मा कृतोपसदनांस्तथा ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -118,15 +113,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्यं मे काङ्क्षितं किंचिद्‌धृदि सम्परिवर्तते।  
 कृतास्त्रैस्तत् प्रदेयं मे तदेतद् वदतानघाः ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -141,6 +136,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _द्रोण बोले—_ निष्पाप राजकुमारो! मेरे मनमें एक कार्य करनेकी इच्छा है। अस्त्रशिक्षा प्राप्त कर लेनेके पश्चात् तुमलोगोंको मेरी वह इच्छा पूर्ण करनी होगी। इस विषयमें तुम्हारे क्या विचार हैं, बतलाओ॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -451,11 +451,6 @@ _वैशम्पायनजी कहते हैं—_ शत्रुओ
 उपेत्य चैनमुत्थाय परिष्वज्येदमब्रवीत् ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -470,15 +465,15 @@ _वैशम्पायनजी कहते हैं—_ शत्रुओ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयतिष्ये तथा कर्तुं यथा नान्यो धनुर्धरः।  
 त्वत्समो भविता लोके सत्यमेतद् ब्रवीमि ते ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -493,6 +488,11 @@ _वैशम्पायनजी कहते हैं—_ शत्रुओ
 
 _द्रोणने कहा—_ अर्जुन! मैं ऐसा करनेका प्रयत्न करूँगा, जिससे इस संसारमें दूसरा कोई धनुर्धर तुम्हारे समान न हो। मैं तुमसे यह सच्ची बात कहता हूँ॥२७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -805,11 +805,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 अथैनं परिपप्रच्छुः को भवान् कस्य वेत्युत ॥ ४४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-एकलव्य उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -824,15 +819,15 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+एकलव्य उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निषादाधिपतेर्वीरा हिरण्यधनुषः सुतम् ।  
 द्रोणशिष्यं च मां वित्त धनुर्वेदकृतश्रमम् ॥ ४५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -847,6 +842,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 _एकलव्यने कहा—_ वीरो! आपलोग मुझे निषादराज हिरण्यधनुका पुत्र तथा द्रोणाचार्यका शिष्य जानें। मैंने धनुर्वेदमें विशेष परिश्रम किया है॥४५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -875,11 +875,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 रहो द्रोणं समासाद्य प्रणयादिदमब्रवीत् ॥ ४७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -892,6 +887,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 जनमेजय! कुन्तीनन्दन अर्जुन बार-बार एकलव्यका स्मरण करते हुए एकान्तमें द्रोणसे मिलकर प्रेमपूर्वक यों बोले॥४७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -920,11 +920,6 @@ _अर्जुनने कहा—_ आचार्य! उस दिन त
 अन्योऽस्ति भवतः शिष्यो निषादाधिपतेः सुतः ॥ ४९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -937,6 +932,11 @@ _अर्जुनने कहा—_ आचार्य! उस दिन त
 
 फिर आपका यह अन्य शिष्य निषादराजका पुत्र अस्त्र-विद्यामें मुझसे बढ़कर कुशल और सम्पूर्ण लोकसे भी अधिक पराक्रमी कैसे हुआ?॥४९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1026,11 +1026,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 एकलव्यस्तु तच्छ्रुत्वा प्रीयमाणोऽब्रवीदिदम् ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-एकलव्य उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1047,15 +1042,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+एकलव्य उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं प्रयच्छामि भगवन्नाज्ञापयतु मां गुरुः ॥ ५५ ॥  
 न हि किंचिददेयं मे गुरवे ब्रह्मवित्तम।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1070,6 +1065,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _एकलव्यने कहा—_ भगवन्! मैं आपको क्या दूँ? स्वयं गुरुदेव ही मुझे इसके लिये आज्ञा दें। ब्रह्मवेत्ताओंमें श्रेष्ठ आचार्य! मेरे पास कोई ऐसी वस्तु नहीं, जो गुरुके लिये अदेय हो॥५५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1304,11 +1304,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अविज्ञातं कुमाराणां लक्ष्यभूतमुपादिशत् ॥ ६८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1321,6 +1316,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 उन्होंने कारीगरोंसे एक नकली गीध बनवाकर वृक्षके अग्रभागपर रखवा दिया। राजकुमारोंको इसका पता नहीं था। आचार्यने उसी गीधको बींधनेयोग्य लक्ष्य बताया॥६८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1349,11 +1349,6 @@ _द्रोण बोले—_ तुम सब लोग इस गीधक
 एकैकशो नियोक्ष्यामि तथा कुरुत पुत्रकाः ॥ ७० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1366,6 +1361,11 @@ _द्रोण बोले—_ तुम सब लोग इस गीधक
 
 फिर मेरी आज्ञा मिलनेके साथ ही इसका सिर काट गिराओ। पुत्रो! मैं एक-एकको बारी-बारीसे इस कार्यमें नियुक्त करूँगा; तुमलोग मेरे बताये अनुसार कार्य करो॥७०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1453,11 +1453,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 स मुहूर्तादिव पुनर्द्रोणस्तं प्रत्यभाषत।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1469,6 +1464,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 मानो दो घड़ी और बिताकर द्रोणाचार्य फिर उनसे बोले॥७४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1555,11 +1555,6 @@ _द्रोणने कहा—_ क्या तुम इस वृक्�
 तथा च सर्वे तत् सर्वं पश्याम इति कुत्सिताः॥७९॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें आचार्य द्रोणके द्वारा शिष्योंकी परीक्षासे सम्बन्ध रखनेवाला एक सौ इकतीसवाँ अध्याय पूरा हुआ॥१३१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1578,8 +1573,14 @@ _द्रोणने कहा—_ क्या तुम इस वृक्�
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि द्रोणशिष्यपरीक्षायामेकत्रिंशदधिकशततमोऽध्यायः ॥ १३१ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें आचार्य द्रोणके द्वारा शिष्योंकी परीक्षासे सम्बन्ध रखनेवाला एक सौ इकतीसवाँ अध्याय पूरा हुआ॥१३१॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलाकर कुल ८० श्लोक हैं।)
 </details>
 </details>
+

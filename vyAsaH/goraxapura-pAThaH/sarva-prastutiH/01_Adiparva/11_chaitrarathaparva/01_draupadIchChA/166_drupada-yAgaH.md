@@ -4,22 +4,17 @@ title_full = "166 द्रुपदके यज्ञसे धृष्टद
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p01.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p01.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p02.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p02.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p03.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p03.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p04.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p04.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p05.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p05.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p06.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-166p06.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -33,6 +28,11 @@ title_full = "166 द्रुपदके यज्ञसे धृष्टद
 
 द्रुपदके यज्ञसे धृष्टद्युम्न और द्रौपदीकी उत्पत्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,11 +585,6 @@ _आगन्तुक ब्राह्मण कहता है—_ रा�
 (कुमारश्च कुमारी च पितृवंशविवृद्धये।)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राज्ञ्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -605,15 +600,15 @@ _आगन्तुक ब्राह्मण कहता है—_ रा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राज्ञ्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवलिप्तं मुखं ब्रह्मन् दिव्यान् गन्धान् बिभर्मि च।  
 सुतार्थे नोपलब्धास्मि तिष्ठ याज मम प्रिये ॥ ३७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-याज उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -630,15 +625,15 @@ _रानी बोली—_ ब्रह्मन्! अभी मेरे 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+याज उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याजेन श्रपितं हव्यमुपयाजाभिमन्त्रितम् ।  
 कथं कामं न संदध्यात् सा त्वं विप्रेहि तिष्ठ वा॥३८॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -653,6 +648,11 @@ _रानी बोली—_ ब्रह्मन्! अभी मेरे 
 
 _याजने कहा—_ इस हविष्यको स्वयं याजने पकाकर तैयार किया है और उपयाजने इसे अभिमन्त्रित किया है; अतः तुम आओ या वहीं खड़ी रहो, यह हविष्य यजमानकी कामनाको पूर्ण कैसे नहीं करेगा?॥३८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -967,11 +967,6 @@ _ब्राह्मण कहता है—_ यों कहकर या�
 तथा तत् कृतवान् द्रोण आत्मकीर्त्यनुरक्षणात् ॥ ५६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(ब्राह्मण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -986,6 +981,11 @@ _ब्राह्मण कहता है—_ यों कहकर या�
 
 परम बुद्धिमान् प्रतापी भरद्वाजनन्दन द्रोण यह सोचकर कि प्रारब्धके भावी विधानको टालना असम्भव है, पांचालराजकुमार धृष्टद्युम्नको अपने घर ले आये और उन्होंने उसे अस्त्र-विद्याकी शिक्षा देकर उसका बहुत बड़ा उपकार किया। द्रोणाचार्यने अपनी कीर्तिकी रक्षाके लिये वह उदारतापूर्ण कार्य किया॥५५-५६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1017,11 +1017,6 @@ _ब्राह्मण कहता है—_ यों कहकर या�
 तथातप्यत पाञ्चालः पाण्डवानां विनाशने॥  
 समाहूय प्रकृतयः सहिताः सह बान्धवैः।  
 कारुण्यादेव पाञ्चालः प्रोवाचेदं वचस्तदा॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1064,6 +1059,11 @@ _आगन्तुक ब्राह्मण कहता है—_ ला�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो रूपमहो धैर्यमहो वीर्यं च शिक्षितम्।  
@@ -1078,11 +1078,6 @@ _आगन्तुक ब्राह्मण कहता है—_ ला�
 याजेन पुत्रकामीयं हुत्वा चोत्पादितावुभौ।  
 धृष्टद्युम्नश्च कृष्णा च मम तुष्टिकरावुभौ॥  
 किं करिष्यामि ते नष्टाः पाण्डवाः पृथया सह।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1109,16 +1104,16 @@ _द्रुपद बोले—_ बन्धुओ! अर्जुनक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्त्वा पाञ्चालः शुशोच परमातुरः॥  
 दृष्ट्वा शोचन्तमत्यर्थं पाञ्चालगुरुरब्रवीत् ।  
 पुरोधाः सत्त्वसम्पन्नः सम्यग्‌विद्याशेषवान् ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गुरुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1134,6 +1129,11 @@ _द्रुपद बोले—_ बन्धुओ! अर्जुनक�
 
 _आगन्तुक ब्राह्मण कहता है—_ ऐसा कहकर पांचालराज द्रुपद अत्यन्त दुःखी एवं शोकातुर हो गये। पांचालराजके गुरु बड़े सात्त्विक और विशिष्ट विद्वान् थे। उन्होंने राजाको भारी शोकमें डूबा देखकर कहा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गुरुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1180,11 +1180,6 @@ _गुरु बोले—_ महाराज! पाण्डवलोग �
 तस्मात् स्वयंवरो राजन् घुष्यतां मा चिरं कृथाः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1205,6 +1200,11 @@ _गुरु बोले—_ महाराज! पाण्डवलोग �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा पुरोहितेनोक्तं पाञ्चालः प्रीतिमांस्तदा।  
@@ -1223,11 +1223,6 @@ _गुरु बोले—_ महाराज! पाण्डवलोग �
 नित्यकालं प्रदास्यन्ति आमन्त्रणमयाचितम् ॥  
 अहं च तत्र गच्छामि ममैभिः सह शिष्यकैः।  
 एकसार्थाः प्रयाताः स्मो ब्राह्मण्यै यदि रोचते॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1258,14 +1253,14 @@ _आगन्तुक ब्राह्मण कहता है—_ पु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतावदुक्त्वा वचनं ब्राह्मणो विरराम ह।)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें द्रौपदीप्रादुर्भावविषयक एक सौ छाछठवाँ अध्याय पूरा हुआ॥१६६॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1285,8 +1280,14 @@ _वैशम्पायनजी कहते हैं—_ इतना क�
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि द्रौपदीसम्भवे षट्‌षष्ट्यधिकशततमोऽध्यायः ॥ १६६ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें द्रौपदीप्रादुर्भावविषयक एक सौ छाछठवाँ अध्याय पूरा हुआ॥१६६॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ३८ श्लोक मिलाकर कुल ९४ श्लोक हैं)
 </details>
 </details>
+

@@ -4,12 +4,7 @@ title_full = "019 प्रद्युम्नके द्वारा शा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-019.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-019.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "019 प्रद्युम्नके द्वारा शा
 
 प्रद्युम्नके द्वारा शाल्वकी पराजय
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,11 +131,6 @@ _भगवान् श्रीकृष्ण कहते हैं—_ क�
 वीतभीः प्रविशाम्येतां शाल्वस्य प्रथितां चमूम् ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -148,6 +143,11 @@ _भगवान् श्रीकृष्ण कहते हैं—_ क�
 
 ‘मैं दारुकका पुत्र हूँ और उन्होंने ही मुझे सारथ्यकर्मकी यथावत् शिक्षा दी है। देखिये! अब मैं निर्भय होकर राजा शाल्वकी इस विख्यात सेनामें प्रवेश करता हूँ’॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -512,11 +512,6 @@ _भगवान् श्रीकृष्ण कहते हैं—_ व�
 सौभमास्थाय राजेन्द्र दिवमाचक्रमे तदा ॥ २७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक उन्नीसवाँ अध्याय पूरा हुआ॥१९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -534,4 +529,10 @@ _भगवान् श्रीकृष्ण कहते हैं—_ व�
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि सौभवधोपाख्याने एकोनविंशोऽध्यायः ॥ १९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक उन्नीसवाँ अध्याय पूरा हुआ॥१९॥
 </details>
+</details>
+

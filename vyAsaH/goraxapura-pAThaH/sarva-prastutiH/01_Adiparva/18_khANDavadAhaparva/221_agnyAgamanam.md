@@ -4,14 +4,9 @@ title_full = "221 युधिष्ठिरके राज्यकी वि
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-221p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-221p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-221p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-221p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -26,6 +21,11 @@ title_full = "221 युधिष्ठिरके राज्यकी वि
 
 युधिष्ठिरके राज्यकी विशेषता, कृष्ण और अर्जुनका खाण्डववनमें जाना तथा उन दोनोंके पास ब्राह्मणवेशधारी अग्निदेवका आगमन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -314,11 +314,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सायाह्ने पुनरेष्यावो रोचतां ते जनार्दन ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -333,15 +328,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुन्तीमातर्ममाप्येतद् रोचते यद् वयं जले।  
 सुहृज्जनवृताः पार्थ विहरेम यथासुखम् ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -356,6 +351,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _वासुदेव बोले—_ कुन्तीनन्दन! मेरी भी ऐसी ही इच्छा हो रही है कि हमलोग सुहृदोंके साथ वहाँ चलकर सुखपूर्वक जलविहार करें॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -636,11 +636,6 @@ _वैशम्पायनजी कहते हैं—_ भारत! य�
 अर्जुनो वासुदेवश्च तूर्णमुत्पत्य तस्थतुः ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत खाण्डवदाहपर्वमें ब्राह्मणरूपी अग्निदेवके आगमनसे सम्बन्ध रखनेवाला दो सौ इक्कीसवाँ अध्याय पूरा हुआ॥२२१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -658,4 +653,10 @@ _वैशम्पायनजी कहते हैं—_ भारत! य�
 
 इति श्रीमहाभारते आदिपर्वणि खाण्डवदाहपर्वणि ब्राह्मणरूप्यनलागमने एकविंशत्यधिकद्विशततमोऽध्यायः ॥ २२१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत खाण्डवदाहपर्वमें ब्राह्मणरूपी अग्निदेवके आगमनसे सम्बन्ध रखनेवाला दो सौ इक्कीसवाँ अध्याय पूरा हुआ॥२२१॥
 </details>
+</details>
+

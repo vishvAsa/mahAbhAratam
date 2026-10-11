@@ -4,14 +4,9 @@ title_full = "072 शत्रुओंको मारनेके लिये
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-072-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-072-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-072-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-072-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "072 शत्रुओंको मारनेके लिये
 
 शत्रुओंको मारनेके लिये उद्यत हुए भीमको युधिष्ठिरका शान्त करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,11 +73,6 @@ _कर्ण बोला—_ मैंने मनुष्योंमें
 पाञ्चाली पाण्डुपुत्राणां नौरेषा पारगाभवत् ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -92,15 +87,15 @@ _कर्ण बोला—_ मैंने मनुष्योंमें
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् वै श्रुत्वा भीमसेनः कुरुमध्येऽत्यमर्षणः।  
 स्त्रीगतिः पाण्डुपुत्राणामित्युवाच सुदुर्मनाः ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीम उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -115,6 +110,11 @@ _कर्ण बोला—_ मैंने मनुष्योंमें
 
 _वैशम्पायनजी कहते हैं—_ राजन्! कौरवोंके बीचमें कर्णकी वह बात सुनकर अत्यन्त असहनशील भीमसेन मन-ही-मन बहुत दुःखी होकर बोले—‘हाय! पाण्डवोंको उबारनेवाली एक स्त्री हुई’॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीम उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,11 +163,6 @@ _भीमसेनने कहा—_ महर्षि देवलका �
 धनंजय कथंस्वित् स्यादपत्यमभिमृष्टजम् ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -180,6 +175,11 @@ _भीमसेनने कहा—_ महर्षि देवलका �
 
 धनंजय! हमारी धर्मपत्नी द्रौपदीके शरीरका बल-पूर्वक स्पर्श करके दुःशासनने उसे अपवित्र कर दिया है, इससे हमारी संतानरूप ज्योति नष्ट हो गयी। जो पराये पुरुषसे छू गयी, उस स्त्रीसे उत्पन्न संतान किस कामकी होगी?॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -208,11 +208,6 @@ _अर्जुन बोले—_ भारत! (द्रौपदी सत
 सन्तः प्रतिविजानन्तो लब्धसम्भावनाः स्वयम् ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीम उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -225,6 +220,11 @@ _अर्जुन बोले—_ भारत! (द्रौपदी सत
 
 प्रतिशोधका उपाय जानते हुए भी सत्पुरुष दूसरोंके उपकारोंको ही याद रखते हैं, उनके द्वारा किये हुए वैरको नहीं। उन साधु पुरुषोंको स्वयं सबसे सम्मान प्राप्त होता रहता है॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीम उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -373,11 +373,6 @@ _भीमसेनने (राजा युधिष्ठिरसे) क�
 पितरं समुपातिष्ठद् धृतराष्ट्रं कृताञ्जलिः ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें भीमसेनका क्रोधविषयक बहत्तरवाँ अध्याय पूरा हुआ॥७२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -395,4 +390,10 @@ _भीमसेनने (राजा युधिष्ठिरसे) क�
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि भीमक्रोधे द्विसप्ततितमोऽध्यायः ॥ ७२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें भीमसेनका क्रोधविषयक बहत्तरवाँ अध्याय पूरा हुआ॥७२॥
 </details>
+</details>
+

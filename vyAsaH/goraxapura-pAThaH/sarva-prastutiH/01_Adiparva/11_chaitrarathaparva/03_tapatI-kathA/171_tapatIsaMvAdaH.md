@@ -4,12 +4,7 @@ title_full = "171 तपती और संवरणकी बातचीत"
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-171.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-171.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "171 तपती और संवरणकी बातचीत"
 
 तपती और संवरणकी बातचीत
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,11 +247,6 @@ _गन्धर्व कहता है—_ अर्जुन! जब तप
 विवाहानां हि रम्भोरु गान्धर्वः श्रेष्ठ उच्यते ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-तपत्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -264,6 +259,11 @@ _गन्धर्व कहता है—_ अर्जुन! जब तप
 
 ‘वरांगने! गान्धर्व विवाहद्वारा तुम मुझे प्राप्त होओ। सब विवाहोंमें गान्धर्व विवाह ही श्रेष्ठ बतलाया जाता है’॥१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+तपत्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -376,11 +376,6 @@ _तपतीने कहा—_ राजन्! मैं ऐसी कन्
 अस्य लोकप्रदीपस्य सवितुः क्षत्रियर्षभ ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें तपती-उपाख्यानविषयक एक सौ इकहत्तरवाँ अध्याय पूरा हुआ॥१७१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -398,4 +393,10 @@ _तपतीने कहा—_ राजन्! मैं ऐसी कन्
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि तपत्युपाख्याने एकसप्तत्यधिकशततमोऽध्यायः ॥ १७१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें तपती-उपाख्यानविषयक एक सौ इकहत्तरवाँ अध्याय पूरा हुआ॥१७१॥
 </details>
+</details>
+

@@ -4,16 +4,11 @@ title_full = "097 राजा प्रतीपका गंगाको प�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-097a-sheela.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-097a-sheela.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-097b-sheela.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-097b-sheela.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-097c-sheela.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-097c-sheela.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "097 राजा प्रतीपका गंगाको प�
 
 राजा प्रतीपका गंगाको पुत्रवधूके रूपमें स्वीकार करना और शान्तनुका जन्म, राज्याभिषेक तथा गंगासे मिलना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -79,11 +79,6 @@ _वैशम्पायनजी कहते हैं—_ तदनन्त
 करोमि किं ते कल्याणि प्रियं यत्‌ तेऽभिकाङ्क्षितम् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-स्त्र्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -98,15 +93,15 @@ _वैशम्पायनजी कहते हैं—_ तदनन्त
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+स्त्र्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वामहं कामये राजन् भजमानां भजस्व माम्।  
 त्यागः कामवतीनां हि स्त्रीणां सद्भिर्विगर्हितः ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रतीप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -123,15 +118,15 @@ _स्त्री बोली—_ राजन्! मैं आपको ह
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रतीप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाहं परस्त्रियं कामाद् गच्छेयं वरवर्णिनि।  
 न चासवर्णां कल्याणि धर्म्यमेतद्धि मे व्रतम् ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-स्त्र्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -148,15 +143,15 @@ _प्रतीपने कहा—_ सुन्दरी! मैं का�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+स्त्र्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाश्रेयस्यस्मि नागम्या न वक्तव्या च कर्हिचित्।  
 भजन्तीं भज मां राजन् दिव्यां कन्यां वरस्त्रियम् ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-प्रतीप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -171,6 +166,11 @@ _प्रतीपने कहा—_ सुन्दरी! मैं का�
 
 _स्त्री बोली—_ राजन्! मैं अशुभ या अमंगल करनेवाली नहीं हूँ, समागमके अयोग्य भी नहीं हूँ और ऐसी भी नहीं हूँ कि कभी कोई मुझपर कलंक लगावे। मैं आपके प्रति अनुरक्त होकर आयी हुई दिव्य कन्या एवं सुन्दरी स्त्री हूँ। अतः आप मुझे स्वीकार करें॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+प्रतीप उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -239,11 +239,6 @@ _प्रतीपने कहा—_ सुन्दरी! तुम जि�
 स्नुषापक्षं हि वामोरु त्वमागम्य समाश्रिता ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-स्त्र्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -256,6 +251,11 @@ _प्रतीपने कहा—_ सुन्दरी! तुम जि�
 
 सुश्रोणि! तुम मेरी पुत्रवधू हो जाओ। मैं अपने पुत्रके लिये तुम्हारा वरण करता हूँ; क्योंकि वामोरु! तुमने यहाँ आकर मेरी उसी जाँघका आश्रय लिया है, जो पुत्रवधूके पक्षकी है॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+स्त्र्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,11 +307,6 @@ _स्त्री बोली—_ धर्मज्ञ नरेश! आप 
 पुत्रैः पुण्यैः प्रियैश्चैव स्वर्गं प्राप्स्यति ते सुतः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -327,6 +322,11 @@ _स्त्री बोली—_ धर्मज्ञ नरेश! आप 
 
 आपके कुलमें जो विख्यात राजा हो गये हैं, उनकी साधुता सर्वोपरि है। धर्मज्ञ! मैं एक शर्तके साथ आपके पुत्रसे विवाह करूँगी। प्रभो! मैं जो कुछ भी आचरण करूँ, वह सब आपके पुत्रको स्वीकार होना चाहिये। वे उसके विषयमें कभी कुछ विचार न करें। इस शर्तपर रहती हुई मैं आपके पुत्रके प्रति अपना प्रेम बढ़ाऊँगी। मुझसे जो पुण्यात्मा एवं प्रिय पुत्र उत्पन्न होंगे, उनके द्वारा आपके पुत्रको स्वर्गलोककी प्राप्ति होगी॥१४-१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -529,11 +529,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 मन्नियोगाद् भजन्तीं तां भजेथा इत्युवाच तम् ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -546,6 +541,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘अनघ! वह जो कार्य करे, उसके विषयमें भी तुम्हें कुछ पूछताछ नहीं करनी चाहिये। यदि वह तुम्हें चाहे, तो मेरी आज्ञासे उसे अपनी पत्नी बना लेना।’ ये बातें राजा प्रतीपने अपने पुत्रसे कहीं॥२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -696,11 +696,6 @@ _वैशम्पायनजी कहते हैं—_ अपने प�
 याचे त्वां सुरगर्भाभे भार्या मे भव शोभने ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शान्तनूपाख्यानविषयक सत्तानबेवाँ अध्याय पूरा हुआ॥९७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -721,8 +716,14 @@ _वैशम्पायनजी कहते हैं—_ अपने प�
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि शान्तनूपाख्याने सप्तनवतितमोऽध्यायः ॥ ९७ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शान्तनूपाख्यानविषयक सत्तानबेवाँ अध्याय पूरा हुआ॥९७॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ६ श्लोक मिलाकर कुल ३८ श्लोक हैं)
 </details>
 </details>
+

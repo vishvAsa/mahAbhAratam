@@ -4,16 +4,11 @@ title_full = "002 श्रीकृष्णकी द्वारकाया�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-002p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-002p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-002p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-002p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-002p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-002p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "002 श्रीकृष्णकी द्वारकाया�
 
 श्रीकृष्णकी द्वाराकायात्रा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,11 +514,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 स गतो द्वारकां विष्णुर्गरुत्मानिव वेगवान् ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -532,6 +527,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 सात्वतवंशी वीर सात्यकि भगवान् श्रीकृष्णके पीछे बैठकर यात्रा कर रहे थे और सारथि दारुक आगे था। उन दोनोंके साथ देवकीनन्दन भगवान् श्रीकृष्ण वेगशाली गरुडकी भाँति द्वारकामें पहुँच गये॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -642,11 +642,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 विधिवत् कल्पयामास सभां धर्मसुताय वै ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत सभाक्रियापर्वमें भगवान् श्रीकृष्णकी द्वारकायात्राविषयक दूसरा अध्याय पूरा हुआ॥२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -664,4 +659,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि सभाक्रियापर्वणि भगवद्याने द्वितीयोऽध्यायः ॥ २ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत सभाक्रियापर्वमें भगवान् श्रीकृष्णकी द्वारकायात्राविषयक दूसरा अध्याय पूरा हुआ॥२॥
 </details>
+</details>
+

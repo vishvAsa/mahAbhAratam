@@ -4,12 +4,7 @@ title_full = "057 विदुर और धृतराष्ट्रकी �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-057.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-057.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "057 विदुर और धृतराष्ट्रकी �
 
 विदुर और धृतराष्ट्रकी बातचीत
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,11 +51,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 नाभ्यनन्दद् वचो भ्रातुर्वचनं चेदमब्रवीत् ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -70,17 +65,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाभिनन्दे नृपते प्रैषमेतं  
 मैवं कृथाः कुलनाशाद् बिभेमि।  
 पुत्रैर्भिन्नैः कलहस्ते ध्रुवं स्या-  
 देतच्छङ्के द्यूतकृते नरेन्द्र ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -97,6 +92,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _विदुर बोले—_ महराज! मैं आपके इस आदेशका अभिनन्दन नहीं करता, आप ऐसा काम मत कीजिये। इससे मुझे समस्त कुलके विनाशका भय है। नरेन्द्र! पुत्रोंमें भेद होनेपर निश्चय ही आपको कलहका सामना करना पड़ेगा। इस जूएके कारण मुझे ऐसी आशंका हो रही है॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -129,11 +129,6 @@ _धृतराष्ट्रने कहा—_ विदुर! यदि �
 क्षिप्रमानय दुर्धर्षं कुन्तीपुत्रं युधिष्ठिरम् ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें युधिष्ठिरके बुलानेसे सम्बन्ध रखनेवाला सत्तावनवाँ अध्याय पूरा हुआ॥५७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -151,4 +146,10 @@ _धृतराष्ट्रने कहा—_ विदुर! यदि �
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि युधिष्ठिरानयने सप्तपञ्चाशत्तमोऽध्यायः ॥ ५७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें युधिष्ठिरके बुलानेसे सम्बन्ध रखनेवाला सत्तावनवाँ अध्याय पूरा हुआ॥५७॥
 </details>
+</details>
+

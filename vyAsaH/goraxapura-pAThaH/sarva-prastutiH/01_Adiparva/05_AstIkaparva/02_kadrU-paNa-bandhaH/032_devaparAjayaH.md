@@ -4,12 +4,7 @@ title_full = "032 गरुडका देवताओंके साथ य�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-032.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-032.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "032 गरुडका देवताओंके साथ य�
 
 गरुडका देवताओंके साथ युद्ध और देवताओंकी पराजय
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -451,11 +451,6 @@ _उग्रश्रवाजी कहते हैं—_ द्विजश
 प्रवेष्टुकामोऽग्निमभिप्रशाम्य ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक बत्तीसवाँ अध्याय पूरा हुआ॥३२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -479,4 +474,10 @@ _उग्रश्रवाजी कहते हैं—_ द्विजश
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे द्वात्रिंशोऽध्यायः ॥ ३२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक बत्तीसवाँ अध्याय पूरा हुआ॥३२॥
 </details>
+</details>
+

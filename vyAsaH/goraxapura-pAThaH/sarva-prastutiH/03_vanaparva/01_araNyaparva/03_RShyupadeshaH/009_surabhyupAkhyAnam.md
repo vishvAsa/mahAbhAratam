@@ -4,12 +4,7 @@ title_full = "009 व्यासजीके द्वारा सुरभि
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-009.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-009.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "009 व्यासजीके द्वारा सुरभि
 
 व्यासजीके द्वारा सुरभि और इन्द्रके उपाख्यानका वर्णन तथा उनका पाण्डवोंके प्रति दया दिखलाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -71,11 +71,6 @@ _धृतराष्ट्रने कहा—_ भगवन्! यह ज�
 पुत्रस्नेहेन भगवन् जानन्नपि प्रियव्रत ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -88,6 +83,11 @@ _धृतराष्ट्रने कहा—_ भगवन्! यह ज�
 
 भगवन्! प्रियव्रत! मैं यह जानता हूँ कि दुर्योधन अविवेकी है, तो भी पुत्रस्नेहके कारण मैं उसका त्याग नहीं कर सकता॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -156,11 +156,6 @@ _व्यासजी बोले—_ राजन्! विचित्र�
 गवां माता पुरा तात तामिन्द्रोऽन्वकृपायत ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -175,15 +170,15 @@ _व्यासजी बोले—_ राजन्! विचित्र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमिदं रोदिषि शुभे कच्चित् क्षेमं दिवौकसाम्।  
 मानुषेष्वथ वा गोषु नैतदल्पं भविष्यति ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुरभिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -198,6 +193,11 @@ _व्यासजी बोले—_ राजन्! विचित्र�
 
 _इन्द्रने पूछा—_ शुभे! तुम क्यों इस तरह रो रही हो? देवलोकवासियोंकी कुशल तो है न? मनुष्यों तथा गौओंमें तो सब लोग कुशलसे हैं न? तुम्हारा यह रोदन किसी अल्प कारणसे नहीं हो सकता?॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुरभिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -276,11 +276,6 @@ _सुरभिने कहा—_ देवेश्वर! आपलोग�
 अश्रूण्यावर्तयन्ती च नेत्राभ्यां करुणायती ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -295,15 +290,15 @@ _सुरभिने कहा—_ देवेश्वर! आपलोग�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव पुत्रसहस्रेषु पीड्यमानेषु शोभने।  
 किं कृपायितवत्यत्र पुत्र एकत्र हन्यति ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुरभिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -320,15 +315,15 @@ _इन्द्रने कहा—_ कल्याणी! तुम्ह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुरभिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि पुत्रसहस्राणि सर्वत्र समतैव मे।  
 दीनस्य तु सतः शक्र पुत्रस्याभ्यधिका कृपा ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -343,6 +338,11 @@ _इन्द्रने कहा—_ कल्याणी! तुम्ह�
 
 _सुरभि बोली—_ देवेन्द्र! यदि मेरे सहस्रों पुत्र हैं, तो मैं उन सबके प्रति समानभाव ही रखती हूँ; परंतु दीन-दुःखी पुत्रके प्रति अधिक दया उमड़ आती है॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -471,11 +471,6 @@ _व्यासजी कहते हैं—_ कुरुराज! सु�
 दुर्योधनस्तव सुतः शमं गच्छतु पाण्डवैः ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें सुरभि-उपाख्यानविषयक नवाँ अध्याय पूरा हुआ॥९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -493,4 +488,10 @@ _व्यासजी कहते हैं—_ कुरुराज! सु�
 
 इति श्रीमहाभारते वनपर्वणि अरण्यपर्वणि सुरभ्युपाख्याने नवमोऽध्यायः ॥ ९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें सुरभि-उपाख्यानविषयक नवाँ अध्याय पूरा हुआ॥९॥
 </details>
+</details>
+

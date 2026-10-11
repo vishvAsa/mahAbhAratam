@@ -4,14 +4,9 @@ title_full = "172 वसिष्ठजीकी सहायतासे रा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-172p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-172p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-172p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-172p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "172 वसिष्ठजीकी सहायतासे रा
 
 वसिष्ठजीकी सहायतासे राजा संवरणको तपतीकी प्राप्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,11 +341,6 @@ _गन्धर्व कहता है—_ अर्जुन! यों क
 वसिष्ठोऽहमिति प्रीत्या स चात्मानं न्यवेदयत् ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -358,6 +353,11 @@ _गन्धर्व कहता है—_ अर्जुन! यों क
 
 ब्रह्मर्षि वसिष्ठ दोनों हाथ जोड़कर सहस्रों किरणोंसे सुशोभित भगवान् सूर्यदेवके समीप गये और ‘मैं वसिष्ठ हूँ’ यों कहकर उन्होंने बड़ी प्रसन्नतासे अपना समाचार निवेदित किया॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(वसिष्ठ उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,11 +466,6 @@ _फिर वसिष्ठजी बोले—_ जो अजन्मा, 
 प्रणिपत्य विवस्वन्तं भानुमन्तं महातपाः ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -483,6 +478,11 @@ _फिर वसिष्ठजी बोले—_ जो अजन्मा, 
 
 उनके यों कहनेपर महातपस्वी मुनिवर वसिष्ठ मरीचि-माली भगवान् भास्करको प्रणाम करके इस प्रकार बोले॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -981,11 +981,6 @@ _वसिष्ठजीने कहा—_ विभावसो! यह ज�
 तपत्या सहितः पत्न्या यथा शच्या मरुत्पतिः ॥ ४८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -998,6 +993,11 @@ _वसिष्ठजीने कहा—_ विभावसो! यह ज�
 
 तदनन्तर तपतीके सहित महाराज संवरणने शचीके साथ इन्द्रके समान सुशोभित होते हुए बारह वर्षोंतक यज्ञ किया॥४८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1048,11 +1048,6 @@ _गन्धर्व कहता है—_ कुन्तीनन्दन
 पुरोहितमुखा यूयं भुङ्‌ग्ध्वं वै पृथिवीमिमाम्॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें तपती-उपाख्यानकी समाप्तिसे सम्बन्ध रखनेवाला एक सौ बहत्तरवाँ अध्याय पूरा हुआ॥१७२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1072,4 +1067,10 @@ _गन्धर्व कहता है—_ कुन्तीनन्दन
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि तपत्युपाख्यानसमाप्तौ द्विसप्तत्यधिकशततमोऽध्यायः ॥ १७२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें तपती-उपाख्यानकी समाप्तिसे सम्बन्ध रखनेवाला एक सौ बहत्तरवाँ अध्याय पूरा हुआ॥१७२॥
 </details>
+</details>
+

@@ -4,16 +4,11 @@ title_full = "009 द्रौपदीका सैरन्ध्रीके 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-009p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-009p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-009p2.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-009p2.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-009p3.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-009p3.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "009 द्रौपदीका सैरन्ध्रीके 
 
 द्रौपदीका सैरन्ध्रीके वेशमें विराटके रनिवासमें जाकर रानी सुदेष्णासे वार्तालाप करना और वहाँ निवास पाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -145,11 +145,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कर्म चेच्छाम्यहं कर्तुं तस्य यो मां युयुक्षति ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुदेष्णोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -162,6 +157,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 राजेन्द्र! तब द्रौपदीने रानी सुदेष्णासे कहा—‘मैं सैरन्ध्री हूँ। जो मुझे अपने यहाँ नियुक्त करना चाहे, उसके यहाँ रहकर मैं सैरन्ध्रीका कार्य करना चाहती हूँ और इसीलिये यहाँ आयी हूँ’॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुदेष्णोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -263,11 +263,6 @@ _सुदेष्णाने कहा—_ भामिनि! तुम ज�
 देव्यो देवेषु विख्यातास्तासां त्वं कतमा शुभे ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -281,6 +276,11 @@ _सुदेष्णाने कहा—_ भामिनि! तुम ज�
 
 तुम अलम्बुषा, मिश्रकेशी, पुण्डरीका अथवा मालिनी नामकी अप्सरा तो नहीं हो? क्या तुम इन्द्राणी, वारुणी देवी, विश्वकर्माकी पत्नी अथवा प्रजापति ब्रह्माकी शक्ति सावित्री हो? शुभे! देवताओंके यहाँ जो प्रसिद्ध देवियाँ हैं, उनमेंसे तुम कौन हो?॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,11 +353,6 @@ _द्रौपदी बोली—_ रानीजी! मैं न तो
 साहमद्यागता देवि सुदेष्णे त्वन्निवेशनम् ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुदेष्णोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -372,6 +367,11 @@ _द्रौपदी बोली—_ रानीजी! मैं न तो
 
 मैं भिन्न-भिन्न स्थानोंमें सेवा करके उत्तम भोजन पाती हुई विचरती हूँ। मुझे जितने वस्त्र मिल जाते हैं, उतनोंमें ही मैं प्रसन्न रहती हूँ। स्वयं देवी द्रौपदीने मेरा नाम ‘मालिनी’ रख दिया था। देवि सुदेष्णे! आज वही मैं सैरन्ध्री आपके महलमें आयी हूँ॥२०-२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुदेष्णोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -520,11 +520,6 @@ _सुदेष्णाने कहा—_ सुन्दरी! यदि �
 तथाविधमहं मन्ये वासं तव शुचिस्मिते ॥ २९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -537,6 +532,11 @@ _सुदेष्णाने कहा—_ सुन्दरी! यदि �
 
 शुचिस्मिते! जैसे केंकड़ेकी मादा अपने मृत्युके लिये ही गर्भ धारण करती है, उसी प्रकार तुम्हें इस घरमें ठहराना मैं अपने लिये मरणके तुल्य मानती हूँ॥२९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -626,11 +626,6 @@ _द्रौपदी बोली—_ भामिनि! मुझे रा�
 प्रच्छन्नाश्चापि रक्षन्ति ते मां नित्यं शुचिस्मिते।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सुदेष्णोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -646,15 +641,15 @@ _द्रौपदी बोली—_ भामिनि! मुझे रा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सुदेष्णोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं त्वां वासयिष्यामि यथा त्वं नन्दिनीच्छसि ॥ ३५ ॥  
 न च पादौ न चोच्छिष्टं स्प्रक्ष्यसि त्वं कथंचन।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -671,16 +666,16 @@ _सुदेष्णाने कहा—_ आनन्ददायिनी 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं कृष्णा विराटस्य भार्यया परिसान्त्विता ॥ ३६ ॥  
 उवास नगरे तस्मिन् पतिधर्मवती सती।  
 न चैनां वेद तत्रान्यस्तत्त्वेन जनमेजय ॥ ३७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें द्रौपदीप्रवेशसम्बन्धी नवाँ अध्याय पूरा हुआ॥९॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -700,6 +695,11 @@ _वैशम्पायनजी कहते हैं—_ विराटक
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते विराटपर्वणि पाण्डवप्रवेशपर्वणि द्रौपदीप्रवेशे नवमोऽध्यायः ॥ ९ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें द्रौपदीप्रवेशसम्बन्धी नवाँ अध्याय पूरा हुआ॥९॥
 </details>
 </details>
 

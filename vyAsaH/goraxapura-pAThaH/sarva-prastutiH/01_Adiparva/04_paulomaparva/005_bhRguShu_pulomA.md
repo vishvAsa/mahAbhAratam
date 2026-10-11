@@ -4,12 +4,7 @@ title_full = "005 भृगुके आश्रमपर पुलोमा �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="हरिः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-005.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
+<div caption="हरिः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-005.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "005 भृगुके आश्रमपर पुलोमा �
 
 भृगुके आश्रमपर पुलोमा दानवका आगमन और उसकी अग्निदेवके साथ बातचीत
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -71,11 +71,6 @@ _शौनकजीने कहा—_ तात लोमहर्षणकु
 कथयस्व कथामेतां कल्याः स्म श्रवणे तव ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -88,6 +83,11 @@ _शौनकजीने कहा—_ तात लोमहर्षणकु
 
 उनमेंसे प्रथम तो मैं भृगुवंशका ही वर्णन सुनना चाहता हूँ। अतः आप इसीसे सम्बन्ध रखनेवाली कथा कहिये। हम सब लोग आपकी कथा सुननेके लिये सर्वथा उद्यत हैं॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,11 +188,6 @@ _सूतपुत्र उग्रश्रवाने कहा—_ भृ
 धार्मिकः सत्यवादी च नियतो नियताशनः ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -207,15 +202,15 @@ _सूतपुत्र उग्रश्रवाने कहा—_ भृ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूतपुत्र यथा तस्य भार्गवस्य महात्मनः।  
 च्यवनत्वं परिख्यातं तन्ममाचक्ष्व पृच्छतः ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -230,6 +225,11 @@ _सूतपुत्र उग्रश्रवाने कहा—_ भृ
 
 _शौनकजी बोले—_ सूतपुत्र! मैं पूछता हूँ कि महात्मा भार्गवका नाम च्यवन कैसे प्रसिद्ध हुआ? यह मुझे बताइये॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,11 +445,6 @@ _उग्रश्रवाजीने कहा—_ महामुने! �
 मत्पूर्वभार्यां यदिमां भृगुराप सुमध्यमाम् ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -465,6 +460,11 @@ _उग्रश्रवाजीने कहा—_ महामुने! �
 
 ‘किंतु बादमें असत्य व्यवहार करनेवाले इसके पिताने भृगुके साथ इसका विवाह कर दिया। यदि यह एकान्तमें मिली हुई सुन्दरी भृगुकी भार्या है तो वैसी बात सच-सच बता दो; क्योंकि मैं इसे इस आश्रमसे हर ले जाना चाहता हूँ। वह क्रोध आज मेरे हृदयको दग्ध-सा कर रहा है; इस सुमध्यमाको, जो पहले मेरी भार्या थी, भृगुने अन्यायपूर्वक हड़प लिया है’॥२४-२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,11 +533,6 @@ _उग्रश्रवाजी कहते हैं—_ इस प्र�
 जातवेदः पश्यतस्ते वद सत्यां गिरं मम ॥ २९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -552,15 +547,15 @@ _उग्रश्रवाजी कहते हैं—_ इस प्र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैतद् वचनं श्रुत्वा सप्तार्चिर्दुःखितोऽभवत्।  
 भीतोऽनृताच्च शापाच्च भृगोरित्यब्रवीच्छनैः ॥ ३० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अग्निनरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -575,6 +570,11 @@ _उग्रश्रवाजी कहते हैं—_ इस प्र�
 
 _उग्रश्रवाजी कहते हैं—_ राक्षसकी यह बात सुनकर ज्वालामयी सात जिह्वाओंवाले अग्निदेव बहुत दुःखी हुए। एक ओर वे झूठसे डरते थे तो दूसरी ओर भृगुके शापसे; अतः धीरेसे इस प्रकार बोले॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अग्निनरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,11 +643,6 @@ _अग्निदेव बोले—_ दानवनन्दन! इस�
 नानृतं हि सदा लोके पूज्यते दानवोत्तम ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें पुलोमा-अग्निसंवादविषयक पाँचवाँ अध्याय पूरा हुआ॥५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -664,6 +659,11 @@ _अग्निदेव बोले—_ दानवनन्दन! इस�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि पौलोमपर्वणि पुलोमाग्निसंवादे पञ्चमोऽध्यायः ॥ ५ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें पुलोमा-अग्निसंवादविषयक पाँचवाँ अध्याय पूरा हुआ॥५॥
 </details>
 </details>
 

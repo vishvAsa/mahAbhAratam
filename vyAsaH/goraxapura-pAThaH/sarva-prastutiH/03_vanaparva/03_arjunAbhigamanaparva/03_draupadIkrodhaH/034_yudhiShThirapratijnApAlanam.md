@@ -4,16 +4,11 @@ title_full = "034 धर्म और नीतिकी बात कहते 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-034-p01.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-034-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-034-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-034-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,17 +24,17 @@ title_full = "034 धर्म और नीतिकी बात कहते 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एवमुक्तस्तु महानुभावः  
 सत्यव्रतो भीमसेनेन राजा ।  
 अजातशत्रुस्तदनन्तरं वै  
 धैर्यान्वितो वाक्यमिदं बभाषे ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -56,6 +51,11 @@ title_full = "034 धर्म और नीतिकी बात कहते 
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! भीमसेन जब इस प्रकार अपनी बात पूरी कर चुके, तब महानुभाव, सत्यप्रतिज्ञ एवं अजातशत्रु राजा युधिष्ठिरने धैर्यपूर्वक उनसे यह बात कही—॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,11 +530,6 @@ _युधिष्ठिर बोले—_ भरतकुलनन्दन!
 सर्वं न सत्यस्य कलामुपैति ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें युधिष्ठिरवाक्यविषयक चौंतीसवाँ अध्याय पूरा हुआ॥३४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -554,4 +549,10 @@ _युधिष्ठिर बोले—_ भरतकुलनन्दन!
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि युधिष्ठिरवाक्ये चतुस्त्रिंशोऽध्यायः ॥ ३४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें युधिष्ठिरवाक्यविषयक चौंतीसवाँ अध्याय पूरा हुआ॥३४॥
 </details>
+</details>
+

@@ -4,12 +4,7 @@ title_full = "053 सर्पयज्ञके ऋत्विजोंकी 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-053.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-053.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "053 सर्पयज्ञके ऋत्विजोंकी 
 
 सर्पयज्ञके ऋत्विजोंकी नामावली, सर्पोंका भयंकर विनाश, तक्षकका इन्द्रकी शरणमें जाना तथा वासुकिका अपनी बहिनसे आस्तीकको यज्ञमें भेजनेके लिये कहना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -71,11 +71,6 @@ _शौनकजीने पूछा—_ सूतनन्दन! पाण�
 सर्पसत्रविधानज्ञविज्ञेयाः के च सूतज ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -88,6 +83,11 @@ _शौनकजीने पूछा—_ सूतनन्दन! पाण�
 
 तात! ये सब बातें आप विस्तारपूर्वक बताइये। सूतपुत्र! यह भी सूचित कीजिये कि सर्पसत्रकी विधिको जाननेवाले विद्वानोंमें श्रेष्ठ समझे जानेयोग्य कौन-कौनसे महर्षि वहाँ उपस्थित थे॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -276,11 +276,6 @@ _उग्रश्रवाजीने कहा—_ शौनकजी! म�
 तस्मात् तव भयं नास्ति व्येतु ते मानसो ज्वरः॥१७॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -293,6 +288,11 @@ _उग्रश्रवाजीने कहा—_ शौनकजी! म�
 
 तुम्हारे लिये मैंने पहलेसे ही पितामह ब्रह्माजीको प्रसन्न कर लिया है, अतः तुम्हें कुछ भी भय नहीं है। तुम्हारी मानसिक चिन्ता दूर हो जानी चाहिये’॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,11 +445,6 @@ _उग्रश्रवाजी कहते हैं—_ इन्द्र
 ममाद्य त्वं सभृत्यस्य मोक्षार्थं वेदवित्तमम् ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पसत्रके विषयमें वासुकिवचनसम्बन्धी तिरपनवाँ अध्याय पूरा हुआ॥५३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -467,4 +462,10 @@ _उग्रश्रवाजी कहते हैं—_ इन्द्र
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सर्पसत्रे वासुकिवाक्ये त्रिपञ्चाशत्तमोऽध्यायः ॥ ५३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पसत्रके विषयमें वासुकिवचनसम्बन्धी तिरपनवाँ अध्याय पूरा हुआ॥५३॥
 </details>
+</details>
+

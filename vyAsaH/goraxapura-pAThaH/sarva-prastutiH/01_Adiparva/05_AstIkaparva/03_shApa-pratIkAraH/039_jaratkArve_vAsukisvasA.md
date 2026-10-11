@@ -4,12 +4,7 @@ title_full = "039 ब्रह्माजीकी आज्ञासे वा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-039.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-039.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "039 ब्रह्माजीकी आज्ञासे वा
 
 ब्रह्माजीकी आज्ञासे वासुकिका जरत्कारु मुनिके साथ अपनी बहिनको ब्याहनेके लिये प्रयत्नशील होना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,11 +103,6 @@ _उग्रश्रवाजी कहते हैं—_ द्विजश
 प्रसादं कुरु देवेश शमयास्य मनोज्वरम् ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्रह्मोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -120,6 +115,11 @@ _उग्रश्रवाजी कहते हैं—_ द्विजश
 
 ‘देवेश्वर! नागराज वासुकि हमारे हितैषी हैं और सदा हमलोगोंके प्रिय कार्यमें लगे रहते हैं; अतः आप इनपर कृपा करें और इनके मनमें जो चिन्ताकी आग जल रही है, उसे बुझा दें’॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्रह्मोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,11 +188,6 @@ _ब्रह्माजीने कहा—_ ‘देवताओ! एल�
 पन्नगानां हितं देवास्तत् तथा न तदन्यथा ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -205,6 +200,11 @@ _ब्रह्माजीने कहा—_ ‘देवताओ! एल�
 
 देवताओ! एलापत्र नागने जो बात कही है, वही सर्पोंके लिये हितकर है। वही बात होनेवाली है। उससे विपरीत कुछ भी नहीं हो सकता॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,11 +237,6 @@ _उग्रश्रवाजी कहते हैं—_ ब्रह्म
 शीघ्रमेत्य तदाख्येयं तन्नः श्रेयो भविष्यति ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जरत्कारु मुनिका अन्वेषणविषयक उनतालीसवाँ अध्याय पूरा हुआ॥३९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -259,4 +254,10 @@ _उग्रश्रवाजी कहते हैं—_ ब्रह्म
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि जरत्कार्वन्वेषणे एकोनचत्वारिंशोऽध्यायः ॥ ३९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जरत्कारु मुनिका अन्वेषणविषयक उनतालीसवाँ अध्याय पूरा हुआ॥३९॥
 </details>
+</details>
+

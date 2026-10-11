@@ -4,20 +4,15 @@ title_full = "129 कृपाचार्य, द्रोण और अश्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-129p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-129p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-129p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-129p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-129p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-129p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-129p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-129p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-129p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-129p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -33,15 +28,15 @@ title_full = "129 कृपाचार्य, द्रोण और अश्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृपस्यापि मम ब्रह्मन् सम्भवं वक्तुमर्हसि।  
 शरस्तम्बात् कथं जज्ञे कथं वास्त्राण्यवाप्तवान् ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -56,6 +51,11 @@ title_full = "129 कृपाचार्य, द्रोण और अश्�
 
 _जनमेजयने पूछा—_ ब्रह्मन्! कृपाचार्यका जन्म किस प्रकार हुआ? यह मुझे बतानेकी कृपा करें। वे सरकंडेके समूहसे किस तरह उत्पन्न हुए एवं उन्होंने किस प्रकार अस्त्र-शस्त्रोंकी शिक्षा प्राप्त की?॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -391,11 +391,6 @@ _वैशम्पायनजीने कहा—_ महाराज! म�
 वृष्णयश्च नृपाश्चान्ये नानादेशसमागताः ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -407,6 +402,11 @@ _वैशम्पायनजीने कहा—_ महाराज! म�
 
 वृष्णिवंशी तथा भिन्न-भिन्न देशोंसे आये हुए अन्य नरेश भी उनसे धनुर्वेदकी शिक्षा लेते थे॥२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -485,11 +485,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 बभूवुः कौरवा राजन् पाण्डवाश्चामितौजसः ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -502,6 +497,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 राजन्! अमिततेजस्वी पाण्डव तथा कौरव—सभी थोड़े ही समयमें सम्पूर्ण शस्त्र-विद्यामें परम प्रवीण हो गये॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -530,11 +530,6 @@ _जनमेजयने पूछा—_ ब्रह्मन्! द्र�
 एतदिच्छाम्यहं श्रोतुं विस्तरेण प्रकीर्तय ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -547,6 +542,11 @@ _जनमेजयने पूछा—_ ब्रह्मन्! द्र�
 
 साथ ही अस्त्र-शस्त्रके विद्वानोंमें श्रेष्ठ अश्वत्थामा, जो द्रोणका पुत्र था, कैसे उत्पन्न हुआ? यह सब मैं सुनना चाहता हूँ। आप विस्तारपूर्वक कहिये॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -965,11 +965,6 @@ _वैशम्पायनजीने कहा—_ जनमेजय! ग�
 अहं धनमनन्तं हि प्रार्थये विपुलव्रत ॥ ६० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राम उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -984,6 +979,11 @@ _वैशम्पायनजीने कहा—_ जनमेजय! ग�
 
 ‘द्विजश्रेष्ठ! तुम्हारा स्वागत है। तुम जो कुछ भी चाहते हो, मुझसे कहो।’ उनके इस प्रकार पूछनेपर भरद्वाजकुमार द्रोणने नाना प्रकारके धन-रत्नोंका दान करनेकी इच्छावाले, योद्धाओंमें श्रेष्ठ परशुरामसे कहा—‘महान् व्रतका पालन करनेवाले महर्षे! मैं आपसे ऐसे धनकी याचना करता हूँ, जिसका कभी अन्त न हो’॥५९-६०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राम उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1036,11 +1036,6 @@ _परशुरामजी बोले—_ तपोधन! मेरे प�
 वृणीष्व किं प्रयच्छामि तुभ्यं द्रोण वदाशु तत् ॥ ६४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रोण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1053,6 +1048,11 @@ _परशुरामजी बोले—_ तपोधन! मेरे प�
 
 अतः तुम अस्त्र-शस्त्रोंका ज्ञान अथवा यह शरीर माँग लो। इसे देनेके लिये मैं सदा प्रस्तुत हूँ। द्रोण! बोलो, मैं तुम्हें क्या दूँ? शीघ्र उसे कहो॥६४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रोण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1101,11 +1101,6 @@ _द्रोणने कहा—_ भृगुनन्दन! आप मु�
 प्रियं सखायं सुप्रीतो जगाम द्रुपदं प्रति ॥ ६७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें द्रोणको परशुरामजीसे अस्त्र-विद्याकी प्राप्तिविषयक एक सौ उन्तीसवाँ अध्याय पूरा हुआ॥१२९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1122,6 +1117,11 @@ _द्रोणने कहा—_ भृगुनन्दन! आप मु�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि द्रोणस्य भार्गवादस्त्रप्राप्तौ ऊनत्रिंशदधिकशततमोऽध्यायः ॥ १२९ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें द्रोणको परशुरामजीसे अस्त्र-विद्याकी प्राप्तिविषयक एक सौ उन्तीसवाँ अध्याय पूरा हुआ॥१२९॥
 </details>
 </details>
 

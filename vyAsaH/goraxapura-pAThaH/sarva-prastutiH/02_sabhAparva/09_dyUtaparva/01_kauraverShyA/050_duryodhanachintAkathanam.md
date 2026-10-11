@@ -4,18 +4,13 @@ title_full = "050 दुर्योधनका धृतराष्ट्र�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-050p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-050p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-050p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-050p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-050p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-050p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-050p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-050p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "050 दुर्योधनका धृतराष्ट्र�
 
 दुर्योधनका धृतराष्ट्रको अपने दुःख और चिन्ताका कारण बताना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -77,11 +77,6 @@ _जनमेजयने पूछा—_ मुने! भाइयोंम�
 मूलं ह्येतद् विनाशस्य पृथिव्या द्विजसत्तम ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -96,15 +91,15 @@ _जनमेजयने पूछा—_ मुने! भाइयोंम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्ततो राज्ञा व्यासशिष्यः प्रतापवान्।  
 आचचक्षेऽथ यद् वृत्तं तत् सर्वं वेदतत्त्ववित् ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -119,6 +114,11 @@ _जनमेजयने पूछा—_ मुने! भाइयोंम�
 
 _सौति कहते हैं—_ राजाके इस प्रकार पूछनेपर व्यासजीके प्रतापी शिष्य वेदतत्त्वज्ञ वैशम्पायनजी वह सब प्रसंग सुनाने लगे॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,11 +302,6 @@ _वैशम्पायनजीने कहा—_ भरतवंशशि�
 समुत्थितं दुःखकरं यन्मे शंसितुमर्हसि ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -320,6 +315,11 @@ _वैशम्पायनजीने कहा—_ भरतवंशशि�
 
 ‘स्वर्गमें देवराज इन्द्रकी भाँति तुम इस लोकमें सदा सबपर शासन करते हुए शोभा पाते हो। तुम्हारी उत्तम बुद्धि प्रसिद्ध है। फिर तुम्हें शोककी कारणभूत यह दुःखदायिनी चिन्ता कैसे प्राप्त हुई है? यह मुझसे बताओ’॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,11 +678,6 @@ _दुर्योधन बोला—_ मैं अच्छा खात�
 यानि दृष्टानि मे तस्यां मनस्तपति तच्च मे ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें दुर्योधनसंतापविषयक पचासवाँ अध्याय पूरा हुआ॥५०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -700,4 +695,10 @@ _दुर्योधन बोला—_ मैं अच्छा खात�
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि दुर्योधनसंतापे पञ्चाशत्तमोऽध्यायः ॥ ५० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें दुर्योधनसंतापविषयक पचासवाँ अध्याय पूरा हुआ॥५०॥
 </details>
+</details>
+

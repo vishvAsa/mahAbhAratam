@@ -4,16 +4,11 @@ title_full = "119 पाण्डुका कुन्तीको पुत्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-119a-sheela.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-119a-sheela.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-119b-sheela.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-119b-sheela.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-119c-sheela.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-119c-sheela.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "119 पाण्डुका कुन्तीको पुत्
 
 पाण्डुका कुन्तीको पुत्र-प्राप्तिके लिये प्रयत्न करनेका आदेश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,11 +135,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भवन्तः क्व गमिष्यन्ति ब्रूत मे वदतां वराः ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋषय ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -154,16 +149,16 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋषय ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समवायो महानद्य ब्रह्मलोके महात्मनाम्।  
 देवानां च ऋषीणां च पितॄणां च महात्मनाम्।  
 वयं तत्र गमिष्यामो द्रष्टुकामाः स्वयम्भुवम् ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -179,6 +174,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _ऋषि बोले—_ राजन्! आज ब्रह्मलोकमें महात्मा देवताओं, ऋषि-मुनियों तथा महामना पितरोंका बहुत बड़ा समूह एकत्र होनेवाला है। अतः हम वहीं स्वयम्भू ब्रह्माजीका दर्शन करनेके लिये जायँगे॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -276,11 +276,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 न सीदेतामदुःखार्हे मा गमो भरतर्षभ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पाण्डुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -294,6 +289,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 ‘इस मार्गपर केवल वायु चल सकती है तथा सिद्ध महर्षि भी जा सकते हैं। इस पर्वतराजपर चलती हुई ये दोनों राजकुमारियाँ कैसे कष्ट न पायेंगी? भरतवंशशिरोमणे! ये दोनों रानियाँ दुःख सहन करनेके योग्य नहीं हैं; अतः आप न चलिये’॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पाण्डुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -393,11 +393,6 @@ _पाण्डुने कहा—_ महाभाग महर्षिग
 तथैवास्मिन् मम क्षेत्रे कथं वै सम्भवेत् प्रजा।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋषय ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -411,6 +406,11 @@ _पाण्डुने कहा—_ महाभाग महर्षिग
 
 इस लोकमें श्रेष्ठ पुरुष पितृ-ऋणसे मुक्त होनेके लिये संतानोत्पत्तिका प्रयत्न करते और स्वयं ही पुत्ररूपमें जन्म लेते हैं। जैसे मैं अपने पिताके क्षेत्रमें महर्षि व्यासद्वारा उत्पन्न हुआ हूँ, उसी प्रकार मेरे इस क्षेत्रमें भी कैसे संतानकी उत्पत्ति हो सकती है?॥२२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋषय ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -442,11 +442,6 @@ _ऋषि बोले—_ धर्मात्मा नरेश! तुम�
 अपत्यं गुणसम्पन्नं लब्धा प्रीतिकरं ह्यसि।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -460,6 +455,11 @@ _ऋषि बोले—_ धर्मात्मा नरेश! तुम�
 
 बुद्धिमान् मनुष्य व्यग्रता छड़कर बिना क्लेशके ही अभीष्ट फलको प्राप्त कर लेता है। राजन्! आपको उस दृष्ट फलके लिये प्रयत्न करना चाहिये। आप निश्चय ही गुणवान् और हर्षोत्पादक संतान प्राप्त करेंगे॥२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -672,11 +672,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सदृशाच्छ्रेयसो वा त्वं विद्ध्यपत्यं यशस्विनि ॥ ३७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डु-पृथा-संवादविषयक एक सौ उन्नीसवाँ अध्याय पूरा हुआ॥११९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -693,6 +688,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि पाण्डुपृथासंवादे ऊनविंशत्यधिकशततमोऽध्यायः ॥ ११९ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डु-पृथा-संवादविषयक एक सौ उन्नीसवाँ अध्याय पूरा हुआ॥११९॥
 </details>
 </details>
 

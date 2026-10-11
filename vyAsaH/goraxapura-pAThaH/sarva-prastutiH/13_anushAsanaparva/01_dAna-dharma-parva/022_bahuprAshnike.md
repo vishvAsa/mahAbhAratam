@@ -3,12 +3,6 @@ title = "०२२ बहुप्राश्निके"
 title_full = "022 युधिष्ठिरके विविध धर्मयुक्त प्रश्नोंका उत्तर तथा श्राद्ध और दानके उत्तम पात्रोंका लक्षण"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -23,15 +17,15 @@ title_full = "022 युधिष्ठिरके विविध धर्म
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रैः कथं महाराज पुरुषस्तरितो भवेत्।  
 यावन्न लब्धवान् पुत्रमफलः पुरुषो नृप॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -46,6 +40,11 @@ title_full = "022 युधिष्ठिरके विविध धर्म
 
 _युधिष्ठिरने पूछा—_ नरेश्वर! महाराज! पुत्रोंद्वारा पुरुषका कैसे उद्धार होता है? जबतक पुत्रकी प्राप्ति न हो तबतक पुरुषका जीवन निष्फल क्यों माना जाता है?॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -98,11 +97,6 @@ _भीष्मजीने कहा—_ राजन्! इस विषय�
 अर्चयित्वार्हतो विप्रं किं कुर्म इति चाब्रुवन्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -115,6 +109,11 @@ _भीष्मजीने कहा—_ राजन्! इस विषय�
 
 ऋषियोंने जब मुनिको आते देखा, तब वे सब-के-सब उठकर उनकी ओर मुख करके खड़े हो गये और उन ब्रह्मर्षिकी उनके योग्य पूजा करके सबने पूछा—‘हम आपकी क्या सेवा करें?’॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,11 +142,6 @@ _मार्कण्डेयजीने कहा—_ मैंने बड
 युगे युगे महर्षिभ्यो धर्ममिच्छामि वेदितुम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -160,6 +154,11 @@ _मार्कण्डेयजीने कहा—_ मैंने बड
 
 सत्ययुगमें धर्मका अनुष्ठान सरल होता है। उस युगके समाप्त हो जानेपर धर्मका स्वरूप मनुष्योंके मोहसे आच्छन्न हो जाता है; अतः प्रत्येक युगके धर्मका क्या स्वरूप है? इसे मैं आप सब महर्षियोंसे जानना चाहता हूँ॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,11 +187,6 @@ _भीष्मजी कहते हैं—_ राजन्! तब सब
 सर्वधर्मार्थतत्त्वज्ञं मार्कण्डेयं ततोऽब्रवीत् ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -205,6 +199,11 @@ _भीष्मजी कहते हैं—_ राजन्! तब सब
 
 ऋषियोंकी यह अनुमति और आदेश पाकर नारदजीने सम्पूर्ण धर्म और अर्थके तत्त्वको जाननेवाले मार्कण्डेयजीसे पूछा॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -233,11 +232,6 @@ _नारदजी बोले—_ तपस्यासे प्रकाश
 तदहं कथयिष्यामि ब्रूहि त्वं सुमहातपाः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -252,15 +246,15 @@ _नारदजी बोले—_ तपस्यासे प्रकाश
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युगे युगे व्यतीतेऽस्मिन् धर्मसेतुः प्रणश्यति।  
 कथं धर्मच्छलेनाहं प्राप्नुयामिति मे मतिः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -275,6 +269,11 @@ _नारदजी बोले—_ तपस्यासे प्रकाश
 
 _मार्कण्डेयजी बोले—_ प्रत्येक युगके बीत जानेपर धर्मकी मर्यादा नष्ट हो जाती है। फिर धर्मके बहानेसे अधर्म करनेपर मैं उस धर्मका फल कैसे प्राप्त कर सकता हूँ? मेरे मनमें यही प्रश्न उठता है॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,11 +345,6 @@ _नारदजीने कहा—_ विप्रवर! पहले स�
 क्षीणप्राणधना लोके धर्माचारबहिष्कृताः ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -366,15 +360,15 @@ _नारदजीने कहा—_ विप्रवर! पहले स�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विलुलिते धर्मे लोके चाधर्मसंयुते।  
 किं चतुर्वर्णनियतं हव्यं कव्यं न नश्यति॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -389,6 +383,11 @@ _नारदजीने कहा—_ विप्रवर! पहले स�
 
 _मार्कण्डेयजीने पूछा—_ जब इस प्रकार धर्मका लोप होकर जगत्‌में अधर्म छा जाता है तब चारों वर्णोंके लिये नियत हव्य और कव्यका नाश क्यों नहीं हो जाता है?॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -417,11 +416,6 @@ _नारदजीने कहा—_ वेदमन्त्रसे सद
 अवाप्तकामः स्वर्गे च महीयेत यथेप्सितम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -436,15 +430,15 @@ _नारदजीने कहा—_ वेदमन्त्रसे सद
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चत्वारो ह्यथ ये वर्णा हव्यं कव्यं प्रदास्यते।  
 मन्त्रहीनमवज्ञातं तेषां दत्तं क्व गच्छति॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -461,15 +455,15 @@ _मार्कण्डेयजीने पूछा—_ यहाँ जो
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असुरान् गच्छते दत्तं विप्रै रक्षांसि क्षत्रियैः।  
 वैश्यैः प्रेतानि वै दत्तं शूद्रैर्भूतानि गच्छति॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -486,15 +480,15 @@ _नारदजीने कहा—_ यदि ब्राह्मणों
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वर्णावरे जाताश्चातुर्वर्ण्योपदेशिनः ।  
 दास्यन्ति हव्यकव्यानि तेषां दत्तं क्व गच्छति॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -509,6 +503,11 @@ _नारदजीने कहा—_ यदि ब्राह्मणों
 
 _मार्कण्डेयजीने पूछा—_ जो नीच वर्णमें उत्पन्न होकर चारों वर्णोंको उपदेश देते और हव्य-कव्यका दान देते हैं, उनका दिया हुआ दान कहाँ जाता है?॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -557,11 +556,6 @@ _नारदजीने कहा—_ जब नीच वर्णके ल�
 यत् प्रयच्छन्ति विधिवत्‌ तद्‌ वै भुञ्जन्ति देवताः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -576,15 +570,15 @@ _नारदजीने कहा—_ जब नीच वर्णके ल�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुतं वर्णावरैर्दत्तं हव्यं कव्यं च नारद।  
 सम्प्रयोगे च पुत्राणां कन्यानां च ब्रवीहि मे॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -599,6 +593,11 @@ _नारदजीने कहा—_ जब नीच वर्णके ल�
 
 _मार्कण्डेयजीने पूछा—_ नारदजी! नीच वर्णके दिये हुए हव्य और कव्योंकी जो दशा होती है, उसे मैंने सुन ली। अब पुत्रों और कन्याओंके विषयमें एवं इनके संयोगके विषयमें मुझे कुछ बातें बताइये॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,11 +666,6 @@ _नारदजीने कहा—_ अब मैं कन्या-वि�
 अवध्यातः स कन्याया बन्धुः प्राप्नोति भ्रूणहाम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -686,15 +680,15 @@ _नारदजीने कहा—_ अब मैं कन्या-वि�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केन मङ्गलकृत्येषु विनियुज्यन्ति कन्यकाः।  
 एतदिच्छामि विज्ञातुं तत्त्वेनेह महामुने॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -709,6 +703,11 @@ _नारदजीने कहा—_ अब मैं कन्या-वि�
 
 _मार्कण्डेयजीने पूछा—_ महामुने! किस कारणसे कन्याओंको मांगलिक कर्मोंमें नियुक्त किया जाता है? मैं इस बातको यथार्थरूपसे जानना चाहता हूँ॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -797,11 +796,6 @@ _नारदजीने कहा—_ कन्याओंमें सदा
 साध्वी लक्ष्मी रतिः साक्षात् प्रतिष्ठा संततिस्तथा॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -816,15 +810,15 @@ _नारदजीने कहा—_ कन्याओंमें सदा
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कानि तीर्थानि भगवन् नृणां देहाश्रितानि वै।  
 तानि वै शंस भगवन् याथातथ्येन पृच्छतः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -839,6 +833,11 @@ _नारदजीने कहा—_ कन्याओंमें सदा
 
 _मार्कण्डेयजीने पूछा—_ भगवन्! मनुष्योंके शरीरमें कौन-कौन-से तीर्थ हैं? मैं यह जानना चाहता हूँ। अतः आप यथार्थरूपसे मुझे बताइये॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -868,11 +867,6 @@ _नारदजीने कहा—_ मनीषी पुरुष कह�
 पितृदैवतकार्याणि वर्धन्ते प्रेत्य चेह च।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -888,15 +882,15 @@ _नारदजीने कहा—_ मनीषी पुरुष कह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मेष्वधिकृतानां तु नराणां मुह्यते मनः।  
 कथं न विघ्नं भवति एतदिच्छामि वेदितुम्॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -911,6 +905,11 @@ _नारदजीने कहा—_ मनीषी पुरुष कह�
 
 _मार्कण्डेयजीने पूछा—_ जो धर्मके अधिकारी हैं, ऐसे मनुष्योंका मन कभी-कभी धर्मके विषयमें संशयापन्न हो जाता है। क्या करनेसे उनके धर्माचरणमें विघ्न न पड़े? यह मैं जानना चाहता हूँ॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -943,11 +942,6 @@ _नारदजीने कहा—_ धन और नारी दोनो�
 दत्तं हि श्रोत्रिये साधौ ज्वलिताग्नाविवाहुतिः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -960,6 +954,11 @@ _नारदजीने कहा—_ धन और नारी दोनो�
 
 धर्मात्मा श्रोत्रिय ब्राह्मण समस्त हव्य और कव्यको पानेका अधिकारी है। श्रेष्ठ श्रोत्रियको दिया हुआ हव्य-कव्य प्रज्वलित अग्निमें डाली हुई आहुतिके समान सफल होता है॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -988,11 +987,6 @@ _भीष्मजी कहते हैं—_ इस प्रकार ऋ�
 ऋषयश्चापि तीर्थानां परिचर्यां प्रचक्रमुः॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1012,15 +1006,15 @@ _भीष्मजी कहते हैं—_ इस प्रकार ऋ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमाहुर्भरतश्रेष्ठ पात्रं विप्राः सनातनाः।  
 ब्राह्मणं लिङ्गिनं चैव ब्राह्मणं वाप्यलिङ्गिनम् ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1037,15 +1031,15 @@ _युधिष्ठिरने पूछा—_ भरतश्रेष्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्ववृत्तिमभिपन्नाय लिङ्गिने चेतराय च।  
 देयमाहुर्महाराज उभावेतौ तपस्विनौ ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1062,15 +1056,15 @@ _भीष्मजीने कहा—_ महाराज! जीवन-र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रद्धया परया पूतो यः प्रयच्छेद् द्विजातये।  
 हव्यं कव्यं तथा दानं को दोषः स्यात् पितामह॥३॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1087,15 +1081,15 @@ _युधिष्ठिरने पूछा—_ पितामह! जो �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रद्धापूतो नरस्तात दुर्दान्तोऽपि न संशयः।  
 पूतो भवति सर्वत्र किमुत त्वं महाद्युते ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1112,15 +1106,15 @@ _भीष्मजीने कहा—_ तात! मनुष्य जि�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ब्राह्मणं परीक्षेत दैवेषु सततं नरः।  
 कव्यप्रदाने तु बुधाः परीक्ष्यं ब्राह्मणं विदुः ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1135,6 +1129,11 @@ _भीष्मजीने कहा—_ तात! मनुष्य जि�
 
 _युधिष्ठिरने पूछा—_ पितामह! विद्वानोंका कहना है कि देवकार्यमें कभी ब्राह्मणकी परीक्षा न करे, किंतु श्राद्धमें अवश्य उसकी परीक्षा करे; इसका क्या कारण है?॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1163,11 +1162,6 @@ _भीष्मजीने कहा—_ बेटा! यज्ञ-होम 
 मार्कण्डेयः पुरा प्राह इति लोकेषु बुद्धिमान् ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1182,15 +1176,15 @@ _भीष्मजीने कहा—_ बेटा! यज्ञ-होम 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपूर्वोऽप्यथवा विद्वान् सम्बन्धी वा यथा भवेत्।  
 तपस्वी यज्ञशीलो वा कथं पात्रं भवेत् तु सः॥८॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1205,6 +1199,11 @@ _भीष्मजीने कहा—_ बेटा! यज्ञ-होम 
 
 _युधिष्ठिरने पूछा—_ जो अपरिचित, विद्वान्, सम्बन्धी, तपस्वी अथवा यज्ञशील हों, इनमेंसे कौन किस प्रकारके गुणोंसे सम्पन्न होनेपर श्राद्ध एवं दानका उत्तम पात्र हो सकता है?॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1233,11 +1232,6 @@ _भीष्मजीने कहा—_ कुलीन, कर्मठ, व
 पृथिव्याः काश्यपस्याग्नेर्मार्कण्डेयस्य चैव हि ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पृथिव्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1252,15 +1246,15 @@ _भीष्मजीने कहा—_ कुलीन, कर्मठ, व
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पृथिव्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा महार्णवे क्षिप्तः क्षिप्रं लेष्टुर्विनश्यति।  
 तथा दुश्चरितं सर्वं त्रिवृत्यां च निमज्जति ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-काश्यप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1277,17 +1271,17 @@ _पृथ्वी कहती है—_ जिस प्रकार मह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+काश्यप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे च वेदाः सह षड्भिरङ्गैः  
 सांख्यं पुराणं च कुले च जन्म।  
 नैतानि सर्वाणि गतिर्भवन्ति  
 शीलव्यपेतस्य नृप द्विजस्य ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अग्निरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1306,17 +1300,17 @@ _काश्यप कहते हैं—_ नरेश्वर! जो ब
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अग्निरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधीयानः पण्डितं मन्यमानो  
 यो विद्यया हन्ति यशः परेषाम्।  
 प्रभ्रश्यतेऽसौ चरते न सत्यं  
 लोकास्तस्य ह्यन्तवन्तो भवन्ति ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1335,15 +1329,15 @@ _अग्नि कहते हैं—_ जो ब्राह्मण अ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वमेधसहस्रं च सत्यं च तुलया धृतम्।  
 नाभिजानामि यद्यस्य सत्यस्यार्धमवाप्नुयात् ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1360,15 +1354,15 @@ _मार्कण्डेयजी कहते हैं—_ यदि त�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा ते जग्मुराशु चत्वारोऽमिततेजसः।  
 पृथिवी काश्यपोऽग्निश्च प्रकृष्टायुश्च भार्गवः ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1385,15 +1379,15 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि ते ब्राह्मणा लोके व्रतिनो भुञ्जते हविः।  
 दत्तं ब्राह्मणकामाय कथं तत् सुकृतं भवेत् ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1410,15 +1404,15 @@ _युधिष्ठिरने पूछा—_ पितामह! यद�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदिष्टिनो ये राजेन्द्र ब्राह्मणा वेदपारगाः।  
 भुञ्जते ब्रह्मकामाय व्रतलुप्ता भवन्ति ते ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1435,15 +1429,15 @@ _भीष्मजीने कहा—_ राजेन्द्र! (जि�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेकान्तं बहुद्वारं धर्ममाहुर्मनीषिणः ।  
 किंनिमित्तं भवेदत्र तन्मे ब्रूहि पितामह ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1458,6 +1452,11 @@ _भीष्मजीने कहा—_ राजेन्द्र! (जि�
 
 _युधिष्ठिरने पूछा—_ पितामह! विद्वानोंका कहना है कि धर्मके साधन और फल अनेक प्रकारके हैं। पात्रके कौन-से गुण उसकी दानपात्रतामें कारण होते हैं? यह मुझे बताइये॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1546,11 +1545,6 @@ _भीष्मजीने कहा—_ राजेन्द्र! अह�
 ददते नेह राजेन्द्र ते लोकान् भुञ्जतेऽशुभान् ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1565,15 +1559,15 @@ _भीष्मजीने कहा—_ राजेन्द्र! अह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं परं ब्रह्मचर्यं च किं परं धर्मलक्षणम्।  
 किं च श्रेष्ठतमं शौचं तन्मे ब्रूहि पितामह ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1590,15 +1584,15 @@ _युधिष्ठिरने पूछा—_ पितामह! उत�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मचर्यात् परं तात मधुमांसस्य वर्जनम्।  
 मर्यादायां स्थितो धर्मः शमश्चैवास्य लक्षणम् ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1615,15 +1609,15 @@ _भीष्मजीने कहा—_ तात! मांस और मद
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्मिन्‌ काले चरेद् धर्मं कस्मिन् कालेऽर्थमाचरेत्।  
 कस्मिन्‌ काले सुखी च स्यात्‌ तन्मे ब्रूहि पितामह॥२६॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1638,6 +1632,11 @@ _भीष्मजीने कहा—_ तात! मांस और मद
 
 _युधिष्ठिरने पूछा—_ पितामह! मनुष्य किस समय धर्मका आचरण करे? कब अर्थोपार्जनमें लगे तथा किस समय सुखभोगमें प्रवृत्त हो? यह मुझे बताइये॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1726,11 +1725,6 @@ _भीष्मजीने कहा—_ राजन्! पूर्वा�
 न च ब्राह्मणमाक्रोशेत् समं तद् ब्रह्महत्यया ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1745,15 +1739,15 @@ _भीष्मजीने कहा—_ राजन्! पूर्वा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कीदृशाः साधवो विप्राः केभ्यो दत्तं महाफलम्।  
 कीदृशानां च भोक्तव्यं तन्मे ब्रूहि पितामह ॥ ३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1768,6 +1762,11 @@ _भीष्मजीने कहा—_ राजन्! पूर्वा�
 
 _युधिष्ठिरने पूछा—_ पितामह! कैसे ब्राह्मणोंको श्रेष्ठ समझना चाहिये? किनको दिया हुआ दान महान् फल देनेवाला होता है? तथा कैसे ब्राह्मणोंको भोजन कराना चाहिये? यह मुझे बताइये॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1938,11 +1937,6 @@ _भीष्मजीने कहा—_ राजन्! जो क्रो�
 दूरादानाय्य सत्कृत्य सर्वतश्चापि पूजयेत् ॥ ४१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत अनुशासनपर्वके अन्तर्गत दानधर्मपर्वमें बहुत-से प्रश्नोंका निर्णयविषयक बाईसवाँ अध्याय पूरा हुआ॥२२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1959,6 +1953,11 @@ _भीष्मजीने कहा—_ राजन्! जो क्रो�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते अनुशासनपर्वणि दानधर्मपर्वणि बहुप्राश्निके द्वाविंशोऽध्यायः ॥ २२ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत अनुशासनपर्वके अन्तर्गत दानधर्मपर्वमें बहुत-से प्रश्नोंका निर्णयविषयक बाईसवाँ अध्याय पूरा हुआ॥२२॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

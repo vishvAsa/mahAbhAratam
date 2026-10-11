@@ -4,14 +4,9 @@ title_full = "016 शाल्वकी विशाल सेनाके आ�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-016-p1.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-016-p1.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-016-p2.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-016-p2.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "016 शाल्वकी विशाल सेनाके आ�
 
 शाल्वकी विशाल सेनाके आक्रमणका यादवसेनाद्वारा प्रतिरोध, साम्बद्वारा क्षेमवृद्धिकी पराजय, वेगवान्‌का वध तथा चारुदेष्णद्वारा विविन्ध्य दैत्यका वध एवं प्रद्युम्नद्वारा सेनाको आश्वासन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -609,11 +609,6 @@ _भगवान् श्रीकृष्ण कहते हैं—_ र�
 विष्ठितं तद् बलं वीर युयुधे च यथासुखम् ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक सोलहवाँ अध्याय पूरा हुआ॥१६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -630,6 +625,11 @@ _भगवान् श्रीकृष्ण कहते हैं—_ र�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि सौभवधोपाख्याने षोडशोऽध्यायः ॥ १६ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधोपाख्यानविषयक सोलहवाँ अध्याय पूरा हुआ॥१६॥
 </details>
 </details>
 

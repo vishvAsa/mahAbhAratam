@@ -4,18 +4,13 @@ title_full = "046 व्यासजीकी भविष्यवाणीस�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-046p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-046p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-046p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-046p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-046p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-046p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-046p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-046p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -30,6 +25,11 @@ title_full = "046 व्यासजीकी भविष्यवाणीस�
 
 व्यासजीकी भविष्यवाणीसे युधिष्ठिरकी चिन्ता और समत्वपूर्ण बर्ताव करनेकी प्रतिज्ञा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,11 +139,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अभिवाद्योपसंगृह्य पितामहमथाब्रवीत् ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -157,6 +152,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘राजन्! अब मैं जाऊँगा। इसके लिये तुम्हारी अनुमति चाहता हूँ। तुमने मेरा अच्छी तरह सम्मान किया है।’ महात्मा कृष्णद्वैपायन व्यासके ऐसा कहनेपर धर्मराज युधिष्ठिरने उन पितामहके दोनों चरणोंको पकड़कर प्रणाम किया और कहा॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,11 +186,6 @@ _युधिष्ठिर बोले—_ नरश्रेष्ठ! म�
 अपि चैद्यस्य पतनाच्छन्नमौत्पातिकं महत् ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -204,6 +199,11 @@ _युधिष्ठिर बोले—_ नरश्रेष्ठ! म�
 
 पितामह! देवर्षि भगवान् नारदने स्वर्ग, अन्तरिक्ष और पृथ्वीविषयक तीन प्रकारके उत्पात बताये हैं। क्या शिशुपालके मारे जानेसे वे महान् उत्पात शान्त हो गये?॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -338,11 +338,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अप्रमत्तः स्थितो दान्तः पृथिवीं परिपालय ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -355,6 +350,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘तुम्हारा कल्याण हो, अब मैं कैलासपर्वतपर जाऊँगा। तुम सावधान एवं जितेन्द्रिय होकर पृथ्वीका पालन करो’॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -598,11 +598,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सभायां रमणीयायां तत्रैवास्ते नराधिप ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें युधिष्ठिर-प्रतिज्ञाविषयक छियालीसवाँ अध्याय पूरा हुआ॥४६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -623,4 +618,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि युधिष्ठिरसमये षट्‌चत्वारिंशोऽध्यायः ॥ ४६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें युधिष्ठिर-प्रतिज्ञाविषयक छियालीसवाँ अध्याय पूरा हुआ॥४६॥
 </details>
+</details>
+

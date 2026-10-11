@@ -4,7 +4,7 @@ title_full = "183 पाण्डवोंकी पंचालयात्र�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-183p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-183p01.mp3"></div>
 
 <details><summary>भागसूचना</summary>
 
@@ -266,7 +266,7 @@ _ब्राह्मणोंने कहा—_ आज ही पंचा�
 (वहाँ) कितने ही प्रचुर दक्षिणा देनेवाले, यज्ञ करनेवाले, स्वाध्यायशील, पवित्र, नियमपूर्वक व्रतका पालन करनेवाले, महात्मा एवं तरुण अवस्थावाले दर्शनीय राजा और राजकुमार अनेक देशोंसे पधारेंगे। अस्त्रविद्यामें निपुण महारथी भूमिपाल भी वहाँ आयेंगे॥१२-१३॥
 </details>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-183p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-183p02.mp3"></div>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,11 +389,6 @@ _ब्राह्मणोंने कहा—_ आज ही पंचा�
 प्रीतिं वो **वर्धयिष्यति** ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -409,17 +404,17 @@ _ब्राह्मणोंने कहा—_ आज ही पंचा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परमं भो गमिष्यामो  
 द्रष्टुं चैव महोत्सवम्।  
 भवद्भिः सहिताः सर्वे  
 कन्यायास्तं स्वयंवरम् ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें पाण्डवागमनविषयक एक सौ तिरासीवाँ अध्याय पूरा हुआ॥१८३॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -439,4 +434,10 @@ _युधिष्ठिर बोले—_ ब्राह्मणो! ह�
 
 इति श्रीमहाभारते आदिपर्वणि स्वयंवरपर्वणि पाण्डवागमने त्र्यशीत्यधिकशततमोऽध्यायः ॥ १८३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें पाण्डवागमनविषयक एक सौ तिरासीवाँ अध्याय पूरा हुआ॥१८३॥
 </details>
+</details>
+

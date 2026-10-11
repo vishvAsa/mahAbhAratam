@@ -4,14 +4,9 @@ title_full = "010 व्यासजीका जाना, मैत्रे�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-010-p1.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-010-p1.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-010-p2.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-010-p2.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "010 व्यासजीका जाना, मैत्रे�
 
 व्यासजीका जाना, मैत्रेयजीका धृतराष्ट्र और दुर्योधनसे पाण्डवोंके प्रति सद्भावका अनुरोध तथा दुर्योधनके अशिष्ट व्यवहारसे रुष्ट होकर उसे शाप देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,11 +73,6 @@ _धृतराष्ट्र बोले—_ महाप्राज्ञ 
 अन्वशाधि दुरात्मानं पुत्रं दुर्योधनं मम ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -90,6 +85,11 @@ _धृतराष्ट्र बोले—_ महाप्राज्ञ 
 
 यदि आपका मुझपर अनुग्रह है और यदि कौरव-कुलपर आपकी दया है तो आप मेरे दुरात्मा पुत्र दुर्योधनको स्वयं ही शिक्षा दीजिये॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,11 +138,6 @@ _व्यासजीने कहा—_ राजन्! ये महर्�
 अक्रियायां तु कार्यस्य पुत्रं ते शप्स्यते रुषा ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -155,6 +150,11 @@ _व्यासजीने कहा—_ राजन्! ये महर्�
 
 कुरुनन्दन! मैत्रेय जो कुछ कहें, उसे निःशंक होकर करना चाहिये। यदि उनके बताये हुए कार्यकी अवहेलना की गयी तो वे कुपित होकर तुम्हारे पुत्रको शाप दे देंगे॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -223,11 +223,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कच्चित्‌ कुरूणां सौभ्रात्रमव्युच्छिन्नं भविष्यति ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मैत्रेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -240,6 +235,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘क्या वे भरतश्रेष्ठ पाण्डव अपनी प्रतिज्ञापर स्थिर रहना चाहते हैं? क्या कौरवोंमें उत्तम भ्रातृभाव अखण्ड बना रहेगा?’॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मैत्रेय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -368,11 +368,6 @@ _मैत्रेयजीने कहा—_ राजन्! मैं त�
 तेन न भ्राजसे राजंस्तापसानां समागमे ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -387,15 +382,15 @@ _मैत्रेयजीने कहा—_ राजन्! मैं त�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो व्यावृत्य राजानं दुर्योधनममर्षणम्।  
 उवाच श्लक्ष्णया वाचा मैत्रेयो भगवानृषिः ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मैत्रेय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -410,6 +405,11 @@ _मैत्रेयजीने कहा—_ राजन्! मैं त�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! तदनन्तर महर्षि भगवान् मैत्रेय अमर्षशील राजा दुर्योधनकी ओर मुड़कर उससे मधुर वाणीमें इस प्रकार बोले॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मैत्रेय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -549,11 +549,6 @@ _मैत्रेयजीने कहा—_ महाबाहु दुर
 कुरु मे वचनं राजन् मा मन्युवशमन्वगाः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -565,6 +560,11 @@ _मैत्रेयजीने कहा—_ महाबाहु दुर
 
 राजन्! तुम मेरी बात मानो; क्रोधके वशमें न होओ॥२७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -681,11 +681,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 प्रसादयामास मुनिं नैतदेवं भवेदिति ॥ ३५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मैत्रेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -700,15 +695,15 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मैत्रेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शमं यास्यति चेत् पुत्रस्तव राजन् यदा तदा।  
 शापो न भविता तात विपरीते भविष्यति ॥ ३६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -725,15 +720,15 @@ _मैत्रेयजीने कहा—_ राजन्! जब तु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विलक्षयंस्तु राजेन्द्रो दुर्योधनपिता तदा।  
 मैत्रेयं प्राह किर्मीरः कथं भीमेन पातितः ॥ ३७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मैत्रेय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -750,15 +745,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मैत्रेय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाहं वक्ष्यामि ते भूयो न ते शुश्रूषते सुतः।  
 एष ते विदुरः सर्वमाख्यास्यति गते मयि ॥ ३८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -775,15 +770,15 @@ _मैत्रेयजीने कहा—_ राजन्! तुम्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्त्वा मैत्रेयः प्रातिष्ठत यथाऽऽगतम्।  
 किर्मीरवधसंविग्नो बहिर्दुर्योधनो ययौ ॥ ३९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें मैत्रेयशापविषयक दसवाँ अध्याय पूरा हुआ॥१०॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -803,4 +798,10 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 इति श्रीमहाभारते वनपर्वणि अरण्यपर्वणि मैत्रेयशापे दशमोऽध्यायः ॥ १० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें मैत्रेयशापविषयक दसवाँ अध्याय पूरा हुआ॥१०॥
 </details>
+</details>
+

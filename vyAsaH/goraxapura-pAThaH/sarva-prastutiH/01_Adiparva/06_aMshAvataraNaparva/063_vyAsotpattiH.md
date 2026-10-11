@@ -4,26 +4,21 @@ title_full = "063 राजा उपरिचरका चरित्र त�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p05.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p05.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p06.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p06.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p07.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p07.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p08.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-063p08.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -37,6 +32,11 @@ title_full = "063 राजा उपरिचरका चरित्र त�
 
 राजा उपरिचरका चरित्र तथा सत्यवती, व्यासादि प्रमुख पात्रोंकी संक्षिप्त जन्मकथा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -87,11 +87,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तं सान्त्वेन नृपं साक्षात् तपसः संन्यवर्तयन् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -108,15 +103,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवा ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न संकीर्येत धर्मोऽयं पृथिव्यां पृथिवीपते।  
 त्वया हि धर्मो विधृतः कृत्स्नं धारयते जगत् ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -131,6 +126,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _देवता बोले—_ पृथ्वीपते! तुम्हें ऐसी चेष्टा रखनी चाहिये जिससे इस भूमिपर वर्णसंकरता न फैलने पावे (तुम्हारे न रहनेसे अराजकता फैलनेका भय है, जिससे प्रजा स्वधर्ममें स्थित नहीं रह सकेगी। अतः तुम्हें तपस्या न करके इस वसुधाका संरक्षण करना चाहिये)। राजन्! तुम्हारे द्वारा सुरक्षित धर्म ही सम्पूर्ण जगत्‌को धारण कर रहा है॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1100,11 +1100,6 @@ _इन्द्रने कहा—_ राजन्! तुम इस लो
 विस्मिता साभवत् कन्या व्रीडिता च तपस्विनी।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सत्यवत्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1118,6 +1113,11 @@ _इन्द्रने कहा—_ राजन्! तुम इस लो
 
 जिससे वहाँका सारा प्रदेश अन्धकारसे आच्छादित-सा हो गया। महर्षिद्वारा कुहरेकी सृष्टि देखकर वह तपस्विनी कन्या आश्चर्यचकित एवं लज्जित हो गयी॥७४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सत्यवत्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1301,11 +1301,6 @@ _सत्यवतीने कहा—_ भगवन्! आपको मा�
 दाशराजस्तु तद्‌गन्धमाजिघ्रन् प्रीतिमावहत् ।)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दाश उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1321,15 +1316,15 @@ _सत्यवतीने कहा—_ भगवन्! आपको मा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दाश उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (त्वामाहुर्मत्स्यगन्धेति कथं बाले सुगन्धता।  
 अपास्य मत्स्यगन्धत्वं केन दत्ता सुगन्धता॥)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सत्यवत्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1344,6 +1339,11 @@ _सत्यवतीने कहा—_ भगवन्! आपको मा�
 
 _दाशराजने पूछा—_ बेटी! तेरे शरीरसे मछलीकी-सी दुर्गन्ध आनेके कारण लोग तुझे ‘मत्स्यगन्धा’ कहा करते थे, फिर तुझमें यह सुगन्ध कहाँसे आ गयी? किसने यह मछलीकी दुर्गन्ध दूर कर तेरे शरीरको सुगन्ध प्रदान की है?
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सत्यवत्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1967,11 +1967,6 @@ _सत्यवती बोली—_ पिताजी! महर्षि �
 एते तु कीर्तिता मुख्या यैराख्यानमिदं ततम् ॥ १२७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अंशावतरणपर्वमें व्यास आदिकी उत्पत्तिसे सम्बन्ध रखनेवाला तिरसठवाँ अध्याय पूरा हुआ॥६३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1993,8 +1988,14 @@ _सत्यवती बोली—_ पिताजी! महर्षि �
 इति श्रीमहाभारते आदिपर्वणि अंशावतरणपर्वणि व्यासाद्युत्पत्तौ त्रिषष्टितमोऽध्यायः ॥ ६३ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अंशावतरणपर्वमें व्यास आदिकी उत्पत्तिसे सम्बन्ध रखनेवाला तिरसठवाँ अध्याय पूरा हुआ॥६३॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ४ श्लोक मिलाकर कुल १३१ श्लोक हैं)
 </details>
 </details>
+

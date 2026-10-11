@@ -4,20 +4,15 @@ title_full = "189 अर्जुन और भीमसेनके द्व�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-189p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-189p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-189p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-189p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-189p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-189p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-189p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-189p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-189p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-189p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "189 अर्जुन और भीमसेनके द्व�
 
 अर्जुन और भीमसेनके द्वारा कर्ण तथा शल्यकी पराजय और द्रौपदीसहित भीम-अर्जुनका अपने डेरेपर जाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,11 +319,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 प्रतिहत्य ननादोच्चैः सैन्यानि तदपूजयन् ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -336,6 +331,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 उस समय अर्जुनद्वारा चलाये हुए उन सभी वेगशाली बाणोंको काटकर कर्ण बड़े जोरसे सिंहनाद करने लगा। समस्त सैनिकोंने उसके इस अद्भुत कार्यकी सराहना की॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,11 +445,6 @@ _कर्ण बोला—_ विप्रवर! युद्धमें �
 स्थितोऽस्म्यद्य रणे जेतुं त्वां वै वीर स्थिरो भव।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -463,6 +458,11 @@ _कर्ण बोला—_ विप्रवर! युद्धमें �
 
 मैं तो सम्पूर्ण शस्त्रधारियोंमें उत्तम और योद्धाओंमें श्रेष्ठ एक ब्राह्मण हूँ। गुरुका उपदेश पाकर ब्रह्मास्त्र तथा इन्द्रास्त्र दोनोंमें पारंगत हो गया हूँ। वीर! आज मैं तुम्हें युद्धमें जीतनेके लिये खड़ा हूँ, तुम भी स्थिरतापूर्वक खड़े रहो॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -721,11 +721,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अथान्यान् पुरुषांश्चापि कृत्वा तत्‌ कर्म संयुगे ॥ ३७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -738,6 +733,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 उन सब राजाओं तथा अन्य लोगोंको ऐसी बातें करते देख और युद्धमें वह महान् पराक्रम दिखाकर भीमसेन और अर्जुन बड़े प्रसन्न थे॥३७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -880,11 +880,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ब्राह्मणैः प्राविशत् तत्र जिष्णुर्भार्गववेश्म तत् ॥ ४७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें पाण्डवप्रत्यागमनविषयक एक सौ नवासीवाँ अध्याय पूरा हुआ॥१८९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -904,4 +899,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि स्वयंवरपर्वणि पाण्डवप्रत्यागमने एकोननवत्यधिकशततमोऽध्यायः ॥ १८९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें पाण्डवप्रत्यागमनविषयक एक सौ नवासीवाँ अध्याय पूरा हुआ॥१८९॥
 </details>
+</details>
+

@@ -4,12 +4,7 @@ title_full = "096 महाभिषको ब्रह्माजीका श
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-096.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-096.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "096 महाभिषको ब्रह्माजीका श
 
 महाभिषको ब्रह्माजीका शाप तथा शापग्रस्त वसुओंके साथ गंगाकी बातचीत
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,11 +138,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 यदा ते भविता मन्युस्तदा शापाद् विमोक्ष्यसे।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -154,6 +149,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘जब तुम्हें गंगापर क्रोध आ जायगा, तब तुम भी शापसे छूट जाओगे।’
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,11 +240,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इत्युक्ता तैश्च वसुभिस्तथेत्युक्त्वाब्रवीदिदम् ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गङ्गोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -259,14 +254,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गङ्गोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मर्त्येषु पुरुषश्रेष्ठः को वः कर्ता भविष्यति।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसव ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -282,15 +277,15 @@ _गंगाजीने कहा—_ वसुओ! मर्त्यलो�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसव ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतीपस्य सुतो राजा शान्तनुर्लोकविश्रुतः।  
 भविता मानुषे लोके स नः कर्ता भविष्यति ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गङ्गोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -307,15 +302,15 @@ _वसुगण बोले—_ प्रतीपके पुत्र र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गङ्गोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममाप्येवं मतं देवा यथा मां वदतानघाः।  
 प्रियं तस्य करिष्यामि युष्माकं चैतदीप्सितम् ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसव ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -332,15 +327,15 @@ _गंगाजीने कहा—_ निष्पाप देवताओ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसव ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जातान् कुमारान् स्वानप्सु प्रक्षेप्तुं वै त्वमर्हसि।  
 यथा न चिरकालं नो निष्कृतिः स्यात् त्रिलोकगे ॥ १९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गङ्गोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -357,15 +352,15 @@ _वसुगण बोले—_ तीनों लोकोंमें प�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गङ्गोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेतत् करिष्यामि पुत्रस्तस्य विधीयताम्।  
 नास्य मोघः संगमः स्यात् पुत्रहेतोर्मया सह ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसव ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -380,6 +375,11 @@ _वसुगण बोले—_ तीनों लोकोंमें प�
 
 _गंगाजीने कहा—_ ठीक है, मैं ऐसा ही करूँगी; परंतु उस राजाका मेरे साथ पुत्रके लिये किया हुआ सम्बन्ध व्यर्थ न हो जाय, इसलिये उनके लिये एक पुत्रकी भी व्यवस्था होनी चाहिये॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसव ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -428,11 +428,6 @@ _वसुगण बोले—_ हम सब लोग अपने तेज
 जग्मुः संहृष्टमनसो यथासंकल्पमञ्जसा ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें महाभिषोपाख्यानविषयक छानबेवाँ अध्याय पूरा हुआ॥९६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -450,4 +445,10 @@ _वसुगण बोले—_ हम सब लोग अपने तेज
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि महाभिषोपाख्याने षण्णवतितमोऽध्यायः ॥ ९६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें महाभिषोपाख्यानविषयक छानबेवाँ अध्याय पूरा हुआ॥९६॥
 </details>
+</details>
+

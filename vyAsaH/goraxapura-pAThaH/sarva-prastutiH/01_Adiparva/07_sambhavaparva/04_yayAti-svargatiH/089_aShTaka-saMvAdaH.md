@@ -4,12 +4,7 @@ title_full = "089 ययाति और अष्टकका संवाद"
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="श्रीदेवी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-089-sridevi.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
+<div caption="श्रीदेवी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-089-sridevi.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "089 ययाति और अष्टकका संवाद"
 
 ययाति और अष्टकका संवाद
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -57,11 +57,6 @@ _ययातिने कहा—_ महात्मन्! मैं नह�
 वृद्धः स पूज्यो भवति द्विजानाम् ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -78,17 +73,17 @@ _ययातिने कहा—_ महात्मन्! मैं नह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवादीस्त्वं वयसा यः प्रवृद्धः  
 स वै राजन् नाभ्यधिकः कथ्यते च।  
 यो विद्यया तपसा सम्प्रवृद्धः  
 स एव पूज्यो भवति द्विजानाम् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -105,6 +100,11 @@ _ययातिने कहा—_ महात्मन्! मैं नह�
 
 _अष्टक बोले—_ राजन्! आपने कहा है कि जो अवस्थामें बड़ा हो, वही अधिक सम्माननीय कहा जाता है। परंतु द्विजोंमें तो जो विद्या और तपस्यामें बढ़ा-चढ़ा हो, वही पूज्य होता है॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -335,11 +335,6 @@ _ययातिने कहा—_ पापको पुण्यकर्म
 न सज्जते चात्र भृशं मनुष्यः॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -356,17 +351,17 @@ _ययातिने कहा—_ पापको पुण्यकर्म
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणं नृपतिं ययाति-  
 मथाष्टकः पुनरेवान्वपृच्छत् ।  
 मातामहं सर्वगुणोपपन्नं  
 तत्र स्थितं स्वर्गलोके यथावत् ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -385,17 +380,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये ये लोकाः पार्थिवेन्द्र प्रधाना-  
 स्त्वया भुक्ता यं च कालं यथावत्।  
 तान् मे राजन् ब्रूहि सर्वान् यथावत्  
 क्षेत्रज्ञवद् भाषसे त्वं हि धर्मान् ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -412,6 +407,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _अष्टक बोले—_ महाराज! आपने जिन-जिन प्रधान लोकोंमें रहकर जितने समयतक वहाँके सुखोंका भलीभाँति उपभोग किया है, उन सबका मुझे यथार्थ परिचय दीजिये। राजन्! आप तो महात्माओंकी भाँति धर्मोंका उपदेश कर रहे हैं॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -614,11 +614,6 @@ _ययातिने कहा—_ अष्टक! मैं पहले स
 र्धूमापाङ्गं प्रतिगृह्य प्रतीतः ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक नवासीवाँ अध्याय पूरा हुआ॥८९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -639,8 +634,14 @@ _ययातिने कहा—_ अष्टक! मैं पहले स
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि उत्तरयायाते एकोननवतितमोऽध्यायः ॥ ८९ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक नवासीवाँ अध्याय पूरा हुआ॥८९॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके १ श्लोक मिलाकर कुल २४ श्लोक हैं)
 </details>
 </details>
+

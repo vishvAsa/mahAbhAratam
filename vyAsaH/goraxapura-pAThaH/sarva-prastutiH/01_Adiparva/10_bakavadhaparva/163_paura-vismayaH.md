@@ -4,14 +4,9 @@ title_full = "163 बकासुरके वधसे राक्षसों
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-163p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-163p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-163p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-163p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "163 बकासुरके वधसे राक्षसों
 
 बकासुरके वधसे राक्षसोंका भयभीत होकर पलायन और नगरनिवासियोंकी प्रसन्नता
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -387,11 +387,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 तदद्भुततमं द्रष्टुं पार्थास्तत्रैव चावसन् ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें बकासुरवधविषयक एक सौ तिरसठवाँ अध्याय पूरा हुआ॥१६३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -409,4 +404,10 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 इति श्रीमहाभारते आदिपर्वणि बकवधपर्वणि बकवधे त्रिषष्ट्यधिकशततमोऽध्यायः ॥ १६३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें बकासुरवधविषयक एक सौ तिरसठवाँ अध्याय पूरा हुआ॥१६३॥
 </details>
+</details>
+

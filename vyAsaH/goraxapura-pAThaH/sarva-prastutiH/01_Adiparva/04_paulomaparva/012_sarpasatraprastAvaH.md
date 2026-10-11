@@ -4,12 +4,7 @@ title_full = "012 जनमेजयके सर्पसत्रके वि
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="श्रेयान्" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-012.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-रुरुरुवाच
+<div caption="श्रेयान्" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-012.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "012 जनमेजयके सर्पसत्रके वि
 
 जनमेजयके सर्पसत्रके विषयमें रुरुकी जिज्ञासा और पिताद्वारा उसकी पूर्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+रुरुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,11 +51,6 @@ _रुरुने पूछा—_ द्विजश्रेष्ठ! र�
 आस्तीकेन द्विजश्रेष्ठ श्रोतुमिच्छाम्यशेषतः ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋषिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -70,15 +65,15 @@ _रुरुने पूछा—_ द्विजश्रेष्ठ! र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋषिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रोष्यसि त्वं रुरो सर्वमास्तीकचरितं महत्।  
 ब्राह्मणानां कथयतामित्युक्त्वान्तरधीयत ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -93,6 +88,11 @@ _रुरुने पूछा—_ द्विजश्रेष्ठ! र�
 
 _ऋषिने कहा—_ ‘रुरो! तुम कथावाचक ब्राह्मणोंके मुखसे आस्तीकका महान् चरित्र सुनोगे।’ ऐसा कहकर सहस्रपाद मुनि अन्तर्धान हो गये॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,11 +123,6 @@ _उग्रश्रवाजी कहते हैं—_ तदनन्त
 पिता चास्य तदाख्यानं पृष्टः सर्वं न्यवेदयत् ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें सर्पसत्रप्रस्तावनाविषयक बारहवाँ अध्याय पूरा हुआ॥१२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -147,4 +142,10 @@ _उग्रश्रवाजी कहते हैं—_ तदनन्त
 
 इति श्रीमहाभारते आदिपर्वणि पौलोमपर्वणि सर्पसत्रप्रस्तावनायां द्वादशोऽध्यायः ॥ १२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें सर्पसत्रप्रस्तावनाविषयक बारहवाँ अध्याय पूरा हुआ॥१२॥
 </details>
+</details>
+

@@ -4,20 +4,15 @@ title_full = "152 हिडिम्बका आना, हिडिम्ब�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-152p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-152p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-152p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-152p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-152p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-152p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-152p04.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-152p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-152p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-152p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "152 हिडिम्बका आना, हिडिम्ब�
 
 हिडिम्बका आना, हिडिम्बाका उससे भयभीत होना और भीम तथा हिडिम्बासुरका युद्ध
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,11 +139,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सर्वानेव गमिष्यामि गृहीत्वा वो विहायसा ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीम उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -156,6 +151,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘परंतप! आप इन सोये हुए भाइयों और माताजीको भी जगा दीजिये। मैं आप सब लोगोंको लेकर आकाशमार्गसे उड़ चलूँगी’॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीम उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,11 +224,6 @@ _भीमसेन बोले—_ सुन्दरी! तुम डरो 
 मावमंस्थाः पृथुश्रोणि मत्वा मामिह मानुषम् ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-हिडिम्बोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -243,15 +238,15 @@ _भीमसेन बोले—_ सुन्दरी! तुम डरो 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+हिडिम्बोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नावमन्ये नरव्याघ्र त्वामहं देवरूपिणम्।  
 दृष्टप्रभावस्तु मया मानुषेष्वेव राक्षसः ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -266,6 +261,11 @@ _भीमसेन बोले—_ सुन्दरी! तुम डरो 
 
 _हिडिम्बाने कहा—_ नरश्रेष्ठ! आपका स्वरूप तो देवताओंके समान है ही। मैं आपका तिरस्कार नहीं करती। मैं तो इसलिये कहती थी कि मनुष्योंपर ही इस राक्षसका प्रभाव मैं (कई बार) देख चुकी हूँ॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -438,11 +438,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भर्त्सयामास तेजस्वी तिष्ठ तिष्ठेति चाब्रवीत् ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -455,6 +450,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 योद्धाओंमें श्रेष्ठ तेजस्वी भीम उसे इस प्रकार हिडिम्बापर टूटते देख उसकी भर्त्सना करते हुए बोले—‘अरे खड़ा रह, खड़ा रह’॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -669,11 +669,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 वनमेतच्चरिष्यन्ति पुरुषा वनचारिणः ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-हिडिम्ब उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -686,6 +681,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘राक्षसकुलांगार! मेरे द्वारा तेरे मारे जानेपर वनवासी मनुष्य बिना किसी विघ्न-बाधाके इस वनमें विचरण करेंगे’॥३३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+हिडिम्ब उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -718,11 +718,6 @@ _हिडिम्ब बोला—_ अरे ओ मनुष्य! व्
 हनिष्यामि ततः पश्चादिमां विप्रियकारिणीम् ॥ ३७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -739,6 +734,11 @@ _हिडिम्ब बोला—_ अरे ओ मनुष्य! व्
 
 तू अपने-आपको जो बड़ा बलवान् और पराक्रमी समझ रहा है, उसकी सच्चाईका पता तो तब लगेगा, जब आज मेरे साथ भिड़ेगा। तभी तू जान सकेगा कि मुझसे तुझमें कितना अधिक बल है। दुर्बुद्धे! मैं पहले इन सबकी हिंसा नहीं करूँगा। ये थोड़ी देरतक सुखपूर्वक सो लें। तू मुझे बड़ी कड़वी बातें सुना रहा है, अतः सबसे पहले तुझे ही अभी मारे देता हूँ। पहले तेरे अंगोंका ताजा खून पीकर उसके बाद तेरे इन भाइयोंका भी वध करूँगा। तदनन्तर अपना अप्रिय करनेवाली इस हिडिम्बाको भी मार डालूँगा॥३५—३७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -921,11 +921,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 सह मात्रा च ददृशुर्हिडिम्बामग्रतः स्थिताम् ॥ ४५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत हिडिम्बवधपर्वमें हिडिम्ब-युद्धविषयक एक सौ बावनवाँ अध्याय पूरा हुआ॥१५२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -944,8 +939,14 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 इति श्रीमहाभारते आदिपर्वणि हिडिम्बवधपर्वणि हिडिम्बयुद्धे द्विपञ्चाशदधिकशततमोऽध्यायः ॥ १५२ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत हिडिम्बवधपर्वमें हिडिम्ब-युद्धविषयक एक सौ बावनवाँ अध्याय पूरा हुआ॥१५२॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ५ श्लोक मिलाकर कुल ५० श्लोक हैं)
 </details>
 </details>
+

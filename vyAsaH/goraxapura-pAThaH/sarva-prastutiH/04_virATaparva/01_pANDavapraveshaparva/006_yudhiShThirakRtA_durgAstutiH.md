@@ -4,18 +4,13 @@ title_full = "006 युधिष्ठिरद्वारा दुर्ग�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-006p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-006p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-006p2.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-006p2.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-006p3.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-006p3.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-006p4.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-006p4.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "006 युधिष्ठिरद्वारा दुर्ग�
 
 युधिष्ठिरद्वारा दुर्गादेवीकी स्तुति और देवीका प्रत्यक्ष प्रकट होकर उन्हें वर देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,11 +350,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 उपगम्य तु राजानमिदं वचनमब्रवीत्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देव्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -368,6 +363,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 ‘शरणागतोंकी रक्षा करनेवाली भक्तवत्सले दुर्गे! मुझे शरण दो।’ इस प्रकार स्तुति करनेपर देवी दुर्गाने पाण्डुनन्दन युधिष्ठिरको प्रत्यक्ष दर्शन दिया तथा राजाके पास आकर यह बात कही॥२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देव्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,11 +413,6 @@ _देवी बोली—_ महाबाहु राजा युधि�
 रक्षां कृत्वा च पाण्डूनां तत्रैवान्तरधीयत ॥ ३५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें दुर्गास्तोत्रविषयक छठा अध्याय पूरा हुआ॥६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -446,4 +441,10 @@ _देवी बोली—_ महाबाहु राजा युधि�
 
 इति श्रीमहाभारते विराटपर्वणि पाण्डवप्रवेशपर्वणि दुर्गास्तवे षष्ठोऽध्यायः ॥ ६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें दुर्गास्तोत्रविषयक छठा अध्याय पूरा हुआ॥६॥
 </details>
+</details>
+

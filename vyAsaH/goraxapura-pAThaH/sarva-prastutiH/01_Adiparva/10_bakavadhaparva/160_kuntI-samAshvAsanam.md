@@ -4,14 +4,9 @@ title_full = "160 कुन्ती और ब्राह्मणकी ब�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-160p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-160p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-160p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-160p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "160 कुन्ती और ब्राह्मणकी ब�
 
 कुन्ती और ब्राह्मणकी बातचीत
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,11 +73,6 @@ _कुन्ती बोली—_ ब्रह्मन्! आपको अ�
 त्वदर्थं बलिमादाय तस्य पापस्य रक्षसः ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -95,6 +90,11 @@ _कुन्ती बोली—_ ब्रह्मन्! आपको अ�
 
 विप्रवर! मेरे पाँच पुत्र हैं, उनमेंसे एक आपके लिये उस पापी राक्षसकी बलि-सामग्री लेकर चला जायगा॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -213,11 +213,6 @@ _ब्राह्मणने कहा—_ मैं अपने जीव�
 ब्राह्मणस्य वधं नाहमनुमंस्ये कदाचन ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -232,6 +227,11 @@ _ब्राह्मणने कहा—_ मैं अपने जीव�
 
 आपद्धर्मके ज्ञाता प्राचीन महात्माओंने कहा है कि किसी प्रकार भी क्रूर एवं निन्दित कर्म नहीं करना चाहिये। अतः आज अपनी पत्नीके साथ स्वयं मेरा विनाश हो जाय, यह श्रेष्ठ है; किंतु ब्राह्मणवधकी अनुमति मैं कदापि नहीं दे सकता॥११-१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -364,11 +364,6 @@ _कुन्ती बोली—_ ब्रह्मन्! मेरा भ�
 तमब्रूतां कुरुष्वेति स तथेत्यब्रवीच्च तौ ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें भीमके द्वारा बकवधकी स्वीकृतिविषयक एक सौ साठवाँ अध्याय पूरा हुआ॥१६०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -386,4 +381,10 @@ _कुन्ती बोली—_ ब्रह्मन्! मेरा भ�
 
 इति श्रीमहाभारते आदिपर्वणि बकवधपर्वणि भीमबकवधाङ्गीकारे षष्ट्यधिकशततमोऽध्यायः ॥ १६० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें भीमके द्वारा बकवधकी स्वीकृतिविषयक एक सौ साठवाँ अध्याय पूरा हुआ॥१६०॥
 </details>
+</details>
+

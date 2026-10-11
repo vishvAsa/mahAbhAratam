@@ -4,26 +4,21 @@ title_full = "017 श्रीकृष्णके द्वारा अर्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p1.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p1.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p2.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p2.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p3.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p3.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p4.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p4.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p5.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p5.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p6.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p6.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p7.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p7.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p8.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-017-p8.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -37,6 +32,11 @@ title_full = "017 श्रीकृष्णके द्वारा अर्
 
 श्रीकृष्णके द्वारा अर्जुनकी बातका अनुमोदन तथा युधिष्ठिरको जरासंधकी उत्पत्तिका प्रसंग सुनाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -227,11 +227,6 @@ _भगवान् श्रीकृष्णने कहा—_ राजन
 प्राप्नुयाम ततः स्वर्गं ज्ञातित्राणपरायणाः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -246,15 +241,15 @@ _भगवान् श्रीकृष्णने कहा—_ राजन
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्ण कोऽयं जरासंधः किंवीर्यः किम्पराक्रमः।  
 यस्त्वां स्पृष्ट्वाग्निसदृशं न दग्धः शलभो यथा ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कृष्ण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -269,6 +264,11 @@ _भगवान् श्रीकृष्णने कहा—_ राजन
 
 _युधिष्ठिरने पूछा—_ श्रीकृष्ण! यह जरासंध कौन है? उसका बल और पराक्रम कैसा है जो प्रज्वलित अग्निके समान आपका स्पर्श करके भी पतंगके समान जलकर भस्म नहीं हो गया?॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कृष्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,11 +559,6 @@ _श्रीकृष्णने कहा—_ राजन्! जरास�
 पुत्रदर्शननैराश्याद् वाष्पसंदिग्धया गिरा ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -580,15 +575,15 @@ _श्रीकृष्णने कहा—_ राजन्! जरास�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवन् राज्यमुत्सृज्य प्रस्थितोऽहं तपोवनम्।  
 किं वरेणाल्पभाग्यस्य किं राज्येनाप्रजस्य मे ॥ २६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीकृष्ण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -603,6 +598,11 @@ _श्रीकृष्णने कहा—_ राजन्! जरास�
 
 _राजाने कहा—_ भगवन्! मैं तो अब राज्य छोड़कर तपोवनकी ओर चल पड़ा हूँ। मुझ अभागे और संतानहीनको वर अथवा राज्यकी क्या आवश्यकता?॥२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीकृष्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1081,11 +1081,6 @@ _श्रीकृष्ण कहते हैं—_ राजाका य�
 कृत्वा च मानुषं रूपमुवाच वसुधाधिपम् ॥ ४८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राक्षस्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1100,16 +1095,16 @@ _श्रीकृष्ण कहते हैं—_ राजाका य�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राक्षस्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृहद्रथ सुतस्तेऽयं मया दत्तः प्रगृह्यताम्।  
 तव पत्नीद्वये जातो द्विजातिवरशासनात्।  
 धात्रीजनपरित्यक्तो मयायं परिरक्षितः ॥ ४९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीकृष्ण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1125,6 +1120,11 @@ _श्रीकृष्ण कहते हैं—_ राजाका य�
 
 _राक्षसीने कहा—_ बृहद्रथ! यह तुम्हारा पुत्र है, जिसे मैंने तुम्हें दिया है। तुम इसे ग्रहण करो। ब्रह्मर्षिके वरदान एवं आशीर्वादसे तुम्हारी पत्नियोंके गर्भसे इसका जन्म हुआ है। धायोंने इसे घरके बाहर लाकर डाल दिया था; किंतु मैंने इसकी रक्षा की है॥४९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीकृष्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1153,11 +1153,6 @@ _श्रीकृष्ण कहते हैं—_ भरतकुलभू
 अपृच्छद्धेमगर्भाभां राक्षसीं तामराक्षसीम् ॥ ५१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1172,15 +1167,15 @@ _श्रीकृष्ण कहते हैं—_ भरतकुलभू
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का त्वं कमलगर्भाभे मम पुत्रप्रदायिनी।  
 कामया ब्रूहि कल्याणि देवता प्रतिभासि मे ॥ ५२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें जरासंधकी उत्पत्तिविषयक सत्रहवाँ अध्याय पूरा हुआ॥१७॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1201,8 +1196,14 @@ _राजाने कहा—_ कमलके भीतरी भागक�
 इति श्रीमहाभारते सभापर्वणि राजसूयारम्भपर्वणि जरासंधोत्पत्तौ सप्तदशोऽध्यायः ॥ १७ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें जरासंधकी उत्पत्तिविषयक सत्रहवाँ अध्याय पूरा हुआ॥१७॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ९ श्लोक मिलाकर कुल ६१ श्लोक हैं)
 </details>
 </details>
+

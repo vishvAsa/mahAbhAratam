@@ -4,14 +4,9 @@ title_full = "004 मयद्वारा निर्मित सभाभव
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-004p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-004p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-004p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-004p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,14 +22,14 @@ title_full = "004 मयद्वारा निर्मित सभाभव
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु कृत्वा सभां श्रेष्ठां मयश्चार्जुनमब्रवीत्।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -48,6 +43,11 @@ title_full = "004 मयद्वारा निर्मित सभाभव
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! उस श्रेष्ठ सभाभवनका निर्माण करके मयासुरने अर्जुनसे कहा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -137,11 +137,6 @@ _मयासुर बोला—_ सव्यसाचिन्! यह ह�
 इत्युक्त्वाऽऽलिङ्ग्य बीभत्सुं विसृष्टः प्रययौ मयः।)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -153,6 +148,11 @@ _मयासुर बोला—_ सव्यसाचिन्! यह ह�
 
 ऐसा कहकर मयासुरने अर्जुनको हृदयसे लगा लिया और उनसे विदा लेकर (अभीष्ट स्थानको) चला गया।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -581,11 +581,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 दिवीव देवा ब्रह्माणं युधिष्ठिरमुपासते ॥ ४० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत सभाक्रियापर्वमें सभाप्रवेश नामक चौथा अध्याय पूरा हुआ॥४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -602,6 +597,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि सभाक्रियापर्वणि सभाप्रवेशो नाम चतुर्थोऽध्यायः ॥ ४ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत सभाक्रियापर्वमें सभाप्रवेश नामक चौथा अध्याय पूरा हुआ॥४॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

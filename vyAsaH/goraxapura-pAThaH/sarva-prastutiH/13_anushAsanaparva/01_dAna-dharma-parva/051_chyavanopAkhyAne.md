@@ -3,12 +3,6 @@ title = "०५१ च्यवनोपाख्याने"
 title_full = "051 राजा नहुषका एक गौके मोलपर च्यवन मुनिको खरीदना, मुनिके द्वारा गौओंका माहात्म्य-कथन तथा मत्स्यों और मल्लाहोंकी सद्\u200cगति"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -20,6 +14,11 @@ title_full = "051 राजा नहुषका एक गौके मोल�
 
 राजा नहुषका एक गौके मोलपर च्यवन मुनिको खरीदना, मुनिके द्वारा गौओंका माहात्म्य-कथन तथा मत्स्यों और मल्लाहोंकी सद्‌गति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -68,11 +67,6 @@ _भीष्मजी कहते हैं—_ भरतनन्दन! च�
 सत्यव्रतं महात्मानं देवकल्पं विशाम्पते ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नहुष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -87,15 +81,15 @@ _भीष्मजी कहते हैं—_ भरतनन्दन! च�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नहुष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 करवाणि प्रियं किं ते तन्मे ब्रूहि द्विजोत्तम।  
 सर्वं कर्तास्मि भगवन् यद्यपि स्यात् सुदुष्करम् ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-च्यवन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -112,15 +106,15 @@ _तत्पश्चात् राजा नहुष बोले—_ द�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+च्यवन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रमेण महता युक्ताः कैवर्ता मत्स्यजीविनः।  
 मम मूल्यं प्रयच्छैभ्यो मत्स्यानां विक्रयैः सह ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नहुष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -137,15 +131,15 @@ _च्यवनने कहा—_ राजन्! मछलियोंस�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नहुष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहस्रं दीयतां मूल्यं निषादेभ्यः पुरोहित।  
 निष्क्रयार्थे भगवतो यथाऽऽह भृगुनन्दनः ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-च्यवन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -162,15 +156,15 @@ _तब नहुषने अपने पुरोहितसे कहा—
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+च्यवन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहस्रं नाहमर्हामि किं वा त्वं मन्यसे नृप।  
 सदृशं दीयतां मूल्यं स्वबुद्‌ध्या निश्चयं कुरु ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नहुष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -187,15 +181,15 @@ _च्यवनने कहा—_ नरेश्वर! मैं एक ह
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नहुष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहस्राणां शतं विप्र निषादेभ्यः प्रदीयताम्।  
 स्यादिदं भगवन् मूल्यं किं वान्यन्मन्यते भवान् ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-च्यवन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -212,15 +206,15 @@ _नहुष बोले—_ विप्रवर! इन निषादो�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+च्यवन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाहं शतसहस्रेण निमेयः पार्थिवर्षभ।  
 दीयतां सदृशं मूल्यममात्यैः सह चिन्तय ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नहुष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -237,15 +231,15 @@ _च्यवनने कहा—_ नृपश्रेष्ठ! मुझ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नहुष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोटिः प्रदीयतां मूल्यं निषादेभ्यः पुरोहित।  
 यदेतदपि नो मूल्यमतो भूयः प्रदीयताम् ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-च्यवन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -262,15 +256,15 @@ _नहुषने कहा—_ पुरोहितजी! आप इन न
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+च्यवन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् नार्हाम्यहं कोटिं भूयो वापि महाद्युते।  
 सदृशं दीयतां मूल्यं ब्राह्मणैः सह चिन्तय ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नहुष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -287,15 +281,15 @@ _च्यवनने कहा—_ महातेजस्वी नरेश
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नहुष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्धं राज्यं समग्रं वा निषादेभ्यः प्रदीयताम्।  
 एतन्मूल्यमहं मन्ये किं वान्यन्मन्यसे द्विज ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-च्यवन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -312,15 +306,15 @@ _नहुष बोले—_ ब्रह्मन्! यदि ऐसी ब
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+च्यवन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्धं राज्यं समग्रं च मूल्यं नार्हामि पार्थिव।  
 सदृशं दीयतां मूल्यमृषिभिः सह चिन्त्यताम् ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -335,6 +329,11 @@ _नहुष बोले—_ ब्रह्मन्! यदि ऐसी ब
 
 _च्यवनने कहा—_ पृथ्वीनाथ! आपका आधा या सारा राज्य भी मेरा उचित मूल्य नहीं है। आप उचित मूल्य दीजिये और वह मूल्य आपके ध्यानमें न आता हो तो ऋषियोंके साथ विचार कीजिये॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -386,11 +385,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 भवतो यदहं ब्रूयां तत्कार्यमविशंकया ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नहुष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -404,6 +398,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 ‘राजन्! ये मुनि कैसे संतुष्ट होंगे—इस बातको मैं जानता हूँ। मैं इन्हें शीघ्र संतुष्ट कर दूँगा। मैंने कभी हँसी-परिहासमें भी झूठ नहीं कहा है; फिर ऐसे समयमें असत्य कैसे बोल सकता हूँ? मैं आपसे जो कहूँ, वह आपको निःशंक होकर करना चाहिये’॥१६-१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नहुष उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -452,11 +451,6 @@ _नहुषने कहा—_ भगवन्! आप मुझे भृग
 प्लवो भव महर्षे त्वं कुरु मूल्यविनिश्चयम् ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -469,6 +463,11 @@ _नहुषने कहा—_ भगवन्! आप मुझे भृग
 
 महर्षे! मैं अपने मन्त्री और पुरोहितके साथ संकटके अगाध महासागरमें डूब रहा हूँ। आप नौका बनकर मुझे पार लगाइये। इनके योग्य मूल्यका निर्णय कर दीजिये॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -541,11 +540,6 @@ _भीष्मजी कहते हैं—_ राजन्! नहुष�
 इदं प्रोवाच नृपते वाचा संतर्पयन्निव ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नहुष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -560,15 +554,15 @@ _भीष्मजी कहते हैं—_ राजन्! नहुष�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नहुष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठोत्तिष्ठ विप्रर्षे गवा क्रीतोऽसि भार्गव।  
 एतन्मूल्यमहं मन्ये तव धर्मभृतां वर ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-च्यवन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -583,6 +577,11 @@ _भीष्मजी कहते हैं—_ राजन्! नहुष�
 
 _नहुषने कहा—_ धर्मात्माओंमें श्रेष्ठ ब्रह्मर्षे! भृगुनन्दन! मैंने एक गौ देकर आपको खरीद लिया; अतः उठिये, उठिये, मैं यही आपका उचित मूल्य मानता हूँ॥२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+च्यवन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -751,11 +750,6 @@ _च्यवनने कहा—_ निष्पाप राजेन्द
 गुणैकदेशवचनं शक्यं पारायणं न तु ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-निषादा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -768,6 +762,11 @@ _च्यवनने कहा—_ निष्पाप राजेन्द
 
 भरतश्रेष्ठ! यह मैंने गौओंका माहात्म्य बताया है। इसमें उनके गुणोंका दिग्दर्शन मात्र कराया गया है। गौओंके सम्पूर्ण गुणोंका वर्णन तो कोई कर ही नहीं सकता॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+निषादा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -836,11 +835,6 @@ _इसके बाद निषादोंने कहा—_ मुने! 
 या गतिर्विदिता त्वद्य नरके शरणं भवान्॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-च्यवन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -853,6 +847,11 @@ _इसके बाद निषादोंने कहा—_ मुने! 
 
 अत्यन्त आपत्तिमें डूबे हुए जीवोंका उद्धार करनेवाले पुरुषोंको जो उत्तम गति प्राप्त होती है, वह आपको विदित है। हमलोग नरकमें डूबे हुए हैं। आज आप ही हमें शरण देनेवाले हैं॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+च्यवन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -881,11 +880,6 @@ _च्यवन बोले—_ निषादगण! किसी दीन-
 दिवं गच्छत वै क्षिप्रं मत्स्यैः सह जलोद्भवैः ॥ ३९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -898,6 +892,11 @@ _च्यवन बोले—_ निषादगण! किसी दीन-
 
 मल्लाहो! मैं तुम्हारी दी हुई गौ स्वीकार करता हूँ। इस गोदानके प्रभावसे तुम्हारे सारे पाप दूर हो गये। अब तुमलोग जलमें पैदा हुई इन मछलियोंके साथ ही शीघ्र स्वर्गको जाओ॥३९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1048,11 +1047,6 @@ _भीष्मजी कहते हैं—_ भारत! तदनन्�
 किं भूयः कथ्यतां वीर किं ते हृदि विवक्षितम्॥४८॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत अनुशासनपर्वके अन्तर्गत दानधर्मपर्वमें च्यवनका उपाख्यानविषयक इक्यावनवाँ अध्याय पूरा हुआ॥५१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1073,8 +1067,14 @@ _भीष्मजी कहते हैं—_ भारत! तदनन्�
 इति श्रीमहाभारते अनुशासनपर्वणि दानधर्मपर्वणि च्यवनोपाख्याने एकपञ्चाशत्तमोऽध्यायः ॥ ५१ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत अनुशासनपर्वके अन्तर्गत दानधर्मपर्वमें च्यवनका उपाख्यानविषयक इक्यावनवाँ अध्याय पूरा हुआ॥५१॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २ श्लोक मिलाकर कुल ५० श्लोक हैं)
 </details>
 </details>
+

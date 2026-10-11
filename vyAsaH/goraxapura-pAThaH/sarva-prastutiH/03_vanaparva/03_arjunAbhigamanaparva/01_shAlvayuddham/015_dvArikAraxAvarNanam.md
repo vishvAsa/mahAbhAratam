@@ -4,14 +4,9 @@ title_full = "015 सौभनाशकी विस्तृत कथाके
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-015p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-015p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-015p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-015p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,15 +22,15 @@ title_full = "015 सौभनाशकी विस्तृत कथाके
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वासुदेव महाबाहो विस्तरेण महामते।  
 सौभस्य वधमाचक्ष्व न हि तृप्यामि कथ्यतः ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -50,6 +45,11 @@ title_full = "015 सौभनाशकी विस्तृत कथाके
 
 _युधिष्ठिरने कहा—_ महाबाहो! वसुदेवनन्दन! महामते! तुम सौभ-विमानके नष्ट होनेका समाचार विस्तारपूर्वक कहो। मैं तुम्हारे मुखसे इस प्रसंगको सुनते-सुनते तृप्त नहीं हो रहा हूँ॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -414,11 +414,6 @@ _भगवान् श्रीकृष्ण बोले—_ महाबा
 आहुकेन सुगुप्ता च राज्ञा राजीवलोचन ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधविषयक पंद्रहवाँ अध्याय पूरा हुआ॥१५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -435,6 +430,11 @@ _भगवान् श्रीकृष्ण बोले—_ महाबा
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि सौभवधोपाख्याने पञ्चदशोऽध्यायः ॥ १५ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें सौभवधविषयक पंद्रहवाँ अध्याय पूरा हुआ॥१५॥
 </details>
 </details>
 

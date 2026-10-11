@@ -4,14 +4,9 @@ title_full = "155 पाण्डवोंको व्यासजीका द
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-155-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-155-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-155-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-155-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "155 पाण्डवोंको व्यासजीका द
 
 पाण्डवोंको व्यासजीका दर्शन और उनका एकचक्रा नगरीमें प्रवेश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,11 +117,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 तस्थुः प्राञ्जलयः सर्वे सह मात्रा परंतपाः ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -134,6 +129,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 शत्रुओंको संताप देनेवाले पाण्डवोंने उस समय महात्मा श्रीकृष्णद्वैपायनको प्रणाम किया और अपनी माताके साथ वे सब लोग उनके आगे हाथ जोड़कर खड़े हो गये॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,11 +189,6 @@ _तब व्यासजीने कहा—_ भरतश्रेष्ठ
 वसतेह प्रतिच्छन्ना ममागमनकाङ्क्षिणः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -209,15 +204,15 @@ _तब व्यासजीने कहा—_ भरतश्रेष्ठ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स तान् समाश्वास्य व्यासः सत्यवतीसुतः।  
 एकचक्रामभिगतः कुन्तीमाश्वासयत् प्रभुः ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -232,6 +227,11 @@ _तब व्यासजीने कहा—_ भरतश्रेष्ठ
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! इस प्रकार पाण्डवोंको भलीभाँति आश्वासन देकर सत्यवतीनन्दन भगवान् व्यास उन सबके साथ एकचक्रा नगरीके निकट गये। वहाँ उन्होंने कुन्तीको इस प्रकार सान्त्वना दी॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,11 +322,6 @@ _व्यासजी बोले—_ जीवित पुत्रोंव
 पितृपैतामहं राज्यमिमे भोक्ष्यन्ति ते सुताः ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -339,6 +334,11 @@ _व्यासजी बोले—_ जीवित पुत्रोंव
 
 तुम्हारे ये पुत्र अपने सुहृदोंके समुदायको उत्तम भोग एवं ऐश्वर्य-सुखके द्वारा अनुगृहीत करके बाप-दादोंके राज्यका पालन एवं उपभोग करेंगे॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -387,11 +387,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 जगाम भगवान् व्यासो यथागतमृषिः प्रभुः ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत हिडिम्बवधपर्वमें पाण्डवोंका एकचक्रानगरीमें प्रवेश और व्यासजीका दर्शनविषयक एक सौ पचपनवाँ अध्याय पूरा हुआ॥१५५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -409,4 +404,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि हिडिम्बवधपर्वणि एकचक्राप्रवेशे व्यासदर्शने पञ्चपञ्चाशदधिकशततमोऽध्यायः ॥ १५५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत हिडिम्बवधपर्वमें पाण्डवोंका एकचक्रानगरीमें प्रवेश और व्यासजीका दर्शनविषयक एक सौ पचपनवाँ अध्याय पूरा हुआ॥१५५॥
 </details>
+</details>
+

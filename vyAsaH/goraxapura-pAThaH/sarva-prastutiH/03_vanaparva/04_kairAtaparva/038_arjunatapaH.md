@@ -4,22 +4,17 @@ title_full = "038 अर्जुनकी उग्र तपस्या औ�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-038-p01.mp3"></div>
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-038-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-038-p02.mp3"></div>
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-038-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-038-p03.mp3"></div>
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-038-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-038-p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="शशी
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-038-p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -34,6 +29,11 @@ title_full = "038 अर्जुनकी उग्र तपस्या औ�
 
 अर्जुनकी उग्र तपस्या और उसके विषयमें ऋषियोंका भगवान् शंकरके साथ वार्तालाप
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,11 +150,6 @@ _जनमेजय बोले—_ भगवन्! अनायास ही 
 चरितं तस्य शूरस्य तन्मे सर्वं प्रकीर्तय ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -167,6 +162,11 @@ _जनमेजय बोले—_ भगवन्! अनायास ही 
 
 शूरवीर अर्जुनका अत्यन्त सूक्ष्म चरित्र भी ऐसा नहीं दिखायी देता है, जिसमें थोड़ी-सी भी निन्दाके लिये स्थान हो; अतः वह सब मुझसे कहिये॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -536,11 +536,6 @@ _वैशम्पायनजीने कहा—_ तात! पौरव�
 उमापतिर्भूतपतिर्वाक्यमेतदुवाच ह ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-महादेव उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -554,6 +549,11 @@ _वैशम्पायनजीने कहा—_ तात! पौरव�
 
 ‘वे अपनी तपस्याके संतापसे हम सब महर्षियोंको संतप्त कर रहे हैं। अतः आप उन्हें तपस्यासे सद्भावपूर्वक निवृत्त कीजिये।’ पवित्र चित्तवाले उन महर्षियोंका यह वचन सुनकर भूतनाथ भगवान् शंकर इस प्रकार बोले—॥३१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+महादेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -584,11 +584,6 @@ _महादेवजीने कहा—_ महर्षियो! तु�
 यत् तस्य काङ्क्षितं सर्वं तत् करिष्येऽहमद्य वै ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -603,15 +598,15 @@ _महादेवजीने कहा—_ महर्षियो! तु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा शर्ववचनमृषयः सत्यवादिनः ।  
 प्रहृष्टमनसो जग्मुर्यथा स्वान् पुनरालयान् ॥ ३५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत कैरातपर्वमें महर्षियों तथा भगवान् शंकरके संवादसे सम्बन्ध रखनेवाला अड़तीसवाँ अध्याय पूरा हुआ॥३८॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -631,4 +626,10 @@ _वैशम्पायनजी कहते हैं—_ भगवान्
 
 इति श्रीमहाभारते वनपर्वणि कैरातपर्वणि मुनिशङ्करसंवादे अष्टात्रिंशोऽध्यायः ॥ ३८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत कैरातपर्वमें महर्षियों तथा भगवान् शंकरके संवादसे सम्बन्ध रखनेवाला अड़तीसवाँ अध्याय पूरा हुआ॥३८॥
 </details>
+</details>
+

@@ -4,14 +4,9 @@ title_full = "195 व्यासजीके सामने द्रौपद
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="भट्टमधुसूदनः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-195p01.mp3"></div>
+<div caption="भट्टमधुसूदनः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-195p01.mp3"></div>
 
-<div class="audioEmbed"  caption="भट्टमधुसूदनः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-195p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="भट्टमधुसूदनः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-195p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "195 व्यासजीके सामने द्रौपद
 
 व्यासजीके सामने द्रौपदीका पाँच पुरुषोंसे विवाह होनेके विषयमें द्रुपद, धृष्टद्युम्न और युधिष्ठिरका अपने-अपने विचार व्यक्त करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -95,11 +95,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 एतन्मे भगवान् सर्वं प्रब्रवीतु यथातथम् ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -116,15 +111,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन् धर्मे विप्रलब्धे लोकवेदविरोधके।  
 यस्य यस्य मतं यद् यच्छ्रोतुमिच्छामि तस्य तत् ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -139,6 +134,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _व्यासजीने कहा—_ अत्यन्त गहन होनेके कारण शास्त्रीय आवरणके द्वारा ढके हुए अतएव इस लोक-वेद-विरुद्ध धर्मके सम्बन्धमें तुममेंसे जिसका-जिसका जो-जो मत हो, उसे मैं सुनना चाहता हूँ॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -187,11 +187,6 @@ _द्रुपद बोले—_ द्विजश्रेष्ठ! म�
 धर्मः सदैव संदिग्धः प्रतिभाति हि मे त्वयम् ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृष्टद्युम्न उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -204,6 +199,11 @@ _द्रुपद बोले—_ द्विजश्रेष्ठ! म�
 
 इसलिये मैं इस धर्मविरोधी आचारको काममें नहीं लाना चाहता। मुझे तो इस कार्यके धर्मसंगत होनेमें सदा ही संदेह जान पड़ता है॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृष्टद्युम्न उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,11 +234,6 @@ _धृष्टद्युम्न बोले—_ द्विजश्र�
 पञ्चानां महिषी कृष्णा भवत्विति कथंचन ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -253,6 +248,11 @@ _धृष्टद्युम्न बोले—_ द्विजश्र�
 
 धर्मका स्वरूप अत्यन्त सूक्ष्म होनेके कारण हम उसकी गतिको सर्वथा नहीं जानते; अतः यह कार्य अधर्म है या धर्म, इसका निश्चय करना हम-जैसे लोगोंके लिये असम्भव है। ब्रह्मन्! इसीलिये हम किसी तरह भी ऐसी सम्मति नहीं दे सकते कि राजकुमारी कृष्णा पाँच पुरुषोंकी धर्मपत्नी हो॥११-१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,11 +325,6 @@ _युधिष्ठिरने कहा—_ मेरी वाणी क�
 तस्मादेतदहं मन्ये परं धर्मं द्विजोत्तम ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -344,15 +339,15 @@ _युधिष्ठिरने कहा—_ मेरी वाणी क�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेतद् यथा प्राह धर्मचारी युधिष्ठिरः।  
 अनृतान्मे भयं तीव्रं मुच्येऽहमनृतात् कथम् ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -367,6 +362,11 @@ _युधिष्ठिरने कहा—_ मेरी वाणी क�
 
 _कुन्तीने कहा—_ धर्मका आचरण करनेवाले युधिष्ठिरने जैसा कहा है, वह ठीक है। (अवश्य मैंने द्रौपदीके साथ पाँचों भाइयोंके विवाहसम्बन्धकी आज्ञा दे दी है।) मुझे झूठसे बहुत भय लगता है; बताइये, मैं झूठके पापसे कैसे बच सकूँगी?॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -395,11 +395,6 @@ _व्यासजी बोले—_ भद्रे! तुम झूठस�
 यथा च प्राह कौन्तेयस्तथा धर्मो न संशयः ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -412,6 +407,11 @@ _व्यासजी बोले—_ भद्रे! तुम झूठस�
 
 जिस प्रकार और जिस कारणसे यह सनातन धर्मके अनुकूल कहा गया है और कुन्तीनन्दन युधिष्ठिरने जिस प्रकार इसकी धर्मानुकूलताका प्रतिपादन किया है, उसपर विचार करनेसे निस्संदेह यही सिद्ध होता है कि यह विवाह धर्मसम्मत है॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -479,15 +479,16 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि वैवाहिकपर्वणि व्यासवाक्ये पञ्चनवत्यधिकशततमोऽध्यायः ॥ १९५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें व्यास-वाक्यविषयक एक सौ पंचानबेवाँ अध्याय पूरा हुआ॥१९५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 इति श्रीमहाभारते आदिपर्वणि वैवाहिकपर्वणि व्यासवाक्ये पञ्चनवत्यधिकशततमोऽध्यायः ॥ १९५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें व्यास-वाक्यविषयक एक सौ पंचानबेवाँ अध्याय पूरा हुआ॥१९५॥
 </details>
+</details>
+

@@ -4,16 +4,11 @@ title_full = "180 पुलस्त्य आदि महर्षियों
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-180-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-180-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-180-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-180-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-180-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-180-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "180 पुलस्त्य आदि महर्षियों
 
 पुलस्त्य आदि महर्षियोंके समझानेसे पराशरजीके द्वारा राक्षससत्रकी समाप्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,11 +397,6 @@ _गन्धर्व कहता है—_ अर्जुन! महात�
 तत् सत्रं मुञ्च भद्रं ते समाप्तमिदमस्तु ते ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -416,6 +411,11 @@ _गन्धर्व कहता है—_ अर्जुन! महात�
 
 ‘महर्षे! तुम्हारे पितामह वसिष्ठजीको ये सब बातें विदित हैं। तात शक्तिनन्दन! तेजस्वी राक्षसोंके विनाशके लिये आयोजित इस यज्ञमें तुम भी निमित्तमात्र ही बने हो (वास्तवमें यह सब उन्हींके पूर्वकर्मोंका फल है)। अतः अब इस यज्ञको छोड़ दो। तुम्हारा कल्याण हो, तुम्हारे इस सत्रकी समाप्ति हो जानी चाहिये’॥१९-२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,11 +464,6 @@ _गन्धर्व कहता है—_ अर्जुन! पुलस�
 भक्षयन् दृश्यते वह्निः सदा पर्वणि पर्वणि ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें और्वोपाख्यानविषयक एक सौ अस्सीवाँ अध्याय पूरा हुआ॥१८०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -486,4 +481,10 @@ _गन्धर्व कहता है—_ अर्जुन! पुलस�
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वण्यौर्वोपाख्याने अशीत्यधिकशततमोऽध्यायः ॥ १८० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें और्वोपाख्यानविषयक एक सौ अस्सीवाँ अध्याय पूरा हुआ॥१८०॥
 </details>
+</details>
+

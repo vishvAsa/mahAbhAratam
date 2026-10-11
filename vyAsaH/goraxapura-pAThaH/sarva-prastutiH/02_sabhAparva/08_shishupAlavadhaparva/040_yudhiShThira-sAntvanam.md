@@ -4,12 +4,7 @@ title_full = "040 युधिष्ठिरकी चिन्ता और �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रियदर्शिनी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-040.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="प्रियदर्शिनी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-040.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -24,6 +19,11 @@ title_full = "040 युधिष्ठिरकी चिन्ता और �
 
 युधिष्ठिरकी चिन्ता और भीष्मजीका उन्हें सान्त्वना देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,11 +246,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 प्रभवश्चैव सर्वेषां निधनं च युधिष्ठिरः ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -265,15 +260,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति तस्य वचः श्रुत्वा ततश्चेदिपतिर्नृपः।  
 भीष्मं रूक्षाक्षरा वाचः श्रावयामास भारत ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत शिशुपालवधपर्वमें युधिष्ठिरको आश्वासन नामक चालीसवाँ अध्याय पूरा हुआ॥४०॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -293,4 +288,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि शिशुपालवधपर्वणि युधिष्ठिराश्वासने चत्वारिंशोऽध्यायः ॥ ४० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत शिशुपालवधपर्वमें युधिष्ठिरको आश्वासन नामक चालीसवाँ अध्याय पूरा हुआ॥४०॥
 </details>
+</details>
+

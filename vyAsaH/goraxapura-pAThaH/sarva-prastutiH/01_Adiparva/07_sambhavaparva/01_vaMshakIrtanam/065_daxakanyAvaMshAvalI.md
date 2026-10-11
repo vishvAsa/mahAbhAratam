@@ -4,24 +4,19 @@ title_full = "065 मरीचि आदि महर्षियों तथ�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p05.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p05.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p06.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p06.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p07.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-065p07.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -36,6 +31,11 @@ title_full = "065 मरीचि आदि महर्षियों तथ�
 
 मरीचि आदि महर्षियों तथा अदिति आदि दक्षकन्याओंके वंशका विवरण
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,11 +126,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 न तान् बलस्थान् बाल्येऽपि जघ्नुर्भरतसत्तम ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -147,17 +142,17 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवसङ्घानां गन्धर्वाप्सरसां तथा ।  
 मानवानां च सर्वेषां तथा वै यक्षरक्षसाम् ॥ ७ ॥  
 श्रोतुमिच्छामि तत्त्वेन सम्भवं कृत्स्नमादितः।  
 प्राणिनां चैव सर्वेषां सम्भवं वक्तुमर्हसि ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -174,6 +169,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 _जनमेजय बोले—_ भगवन्! मैं देवता, दानवसमुदाय, गन्धर्व, अप्सरा, मनुष्य, यक्ष, राक्षस तथा सम्पूर्ण प्राणियोंकी उत्पत्ति यथार्थरूपसे सुनना चाहता हूँ। आप कृपा करके आरम्भसे ही इन सबकी उत्पत्तिका यथावत् वर्णन कीजिये॥७-८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -856,11 +856,6 @@ _वैशम्पायनजीने कहा—_ अच्छा, मै�
 श्रियं यशः प्रेत्य च शोभनां गतिम् ॥ ५६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें आदित्यादिवंशकथनविषयक पैंसठवाँ अध्याय पूरा हुआ॥६५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -880,4 +875,10 @@ _वैशम्पायनजीने कहा—_ अच्छा, मै�
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि आदित्यादिवंशकथने पञ्चषष्टितमोऽध्यायः ॥ ६५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें आदित्यादिवंशकथनविषयक पैंसठवाँ अध्याय पूरा हुआ॥६५॥
 </details>
+</details>
+

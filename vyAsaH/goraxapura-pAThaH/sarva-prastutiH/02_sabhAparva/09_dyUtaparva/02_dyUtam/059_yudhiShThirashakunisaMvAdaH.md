@@ -4,16 +4,11 @@ title_full = "059 जूएके अनौचित्यके सम्बन
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-059p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-059p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-059p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-059p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-059p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-059p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "059 जूएके अनौचित्यके सम्बन
 
 जूएके अनौचित्यके सम्बन्धमें युधिष्ठिर और शकुनिका संवाद
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -59,11 +59,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 शकुनिः सौबलस्तत्र युधिष्ठिरमभाषत ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -78,15 +73,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपस्तीर्णा सभा राजन् सर्वे त्वयि कृतक्षणाः।  
 अक्षानुप्त्वा देवनस्य समयोऽस्तु युधिष्ठिर ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -101,6 +96,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _शकुनि बोला—_ महाराज युधिष्ठिर! सभामें पासे फेंकनेवाला वस्त्र बिछा दिया गया है, सब आपकी ही प्रतीक्षा कर रहे हैं। अब पासे फेंककर जूआ खेलनेका अवसर मिलना चाहिये॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -129,11 +129,6 @@ _युधिष्ठिरने कहा—_ राजन्! जूआ त�
 शकुने मैव नो जैषीरमार्गेण नृशंसवत् ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -146,6 +141,11 @@ _युधिष्ठिरने कहा—_ राजन्! जूआ त�
 
 शकुने! जुआरियोंका छल-कपटमें ही सम्मान होता है; सज्जन पुरुष वैसे सम्मानकी प्रशंसा नहीं करते। अतः तुम क्रूर मनुष्यकी भाँति अनुचित मार्गसे हमें जीतनेकी चेष्टा न करो॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,11 +180,6 @@ _शकुनि बोला—_ जिस अंकपर पासा पड�
 कुरुष्य पाणं च चिरं च मा कृथाः ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -199,6 +194,11 @@ _शकुनि बोला—_ जिस अंकपर पासा पड�
 
 कुन्तीनन्दन! यदि पासा विपरीत पड़ जाय तो हम खिलाड़ियोंमेंसे एक पक्षको पराजित कर सकता है; अतः जय-पराजय दैवाधीन पासोंके ही आश्रित है। उसीसे पराजयरूप दोषकी प्राप्ति होती है। हारनेकी शंका तो हमें भी है, फिर भी हम खेलते हैं। अतः भूमिपाल! आप शंका न कीजिये, दाँव लगाइये, अब विलम्ब न कीजिये॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -271,11 +271,6 @@ _युधिष्ठिरने कहा—_ मुनिश्रेष्�
 कितवस्येह कृतिनो वृत्तमेतन्न पूज्यते ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -288,6 +283,11 @@ _युधिष्ठिरने कहा—_ मुनिश्रेष्�
 
 मैं धूर्ततापूर्ण बर्तावके द्वारा सुख अथवा धन पानेकी इच्छा नहीं करता; क्योंकि जुआरीके कार्यको विद्वान् पुरुष अच्छा नहीं समझते॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,11 +358,6 @@ _शकुनि बोला—_ युधिष्ठिर! श्रोत�
 देवनाद् विनिवर्तस्व यदि ते विद्यते भयम् ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -375,6 +370,11 @@ _शकुनि बोला—_ युधिष्ठिर! श्रोत�
 
 इसी प्रकार आप यदि मेरे पास आकर यह मानते हैं कि आपके साथ शठता की जायगी एवं यदि आपको भय मालूम होता है तो इस जूएके खेलसे निवृत्त हो जाइये॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,11 +403,6 @@ _युधिष्ठिरने कहा—_ राजन्! मैं ब�
 प्रतिपाणश्च कोऽन्योऽस्ति ततो द्यूतं प्रवर्तताम् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -422,15 +417,15 @@ _युधिष्ठिरने कहा—_ राजन्! मैं ब�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं दातास्मि रत्नानां धनानां च विशाम्पते ॥ २० ॥  
 मदर्थे देविता चायं शकुनिर्मातुलो मम।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -447,15 +442,15 @@ _दुर्योधन बोला—_ महाराज! दाँवप�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्येनान्यस्य वै द्यूतं विषमं प्रतिभाति मे।  
 एतद् विद्वन्नुपादत्स्व काममेवं प्रवर्तताम् ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें युधिष्ठिरशकुनिसंवादविषयक उनसठवाँ अध्याय पूरा हुआ॥५९॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -475,4 +470,10 @@ _युधिष्ठिरने कहा—_ दूसरेके लिय
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि युधिष्ठिरशकुनिसंवादे एकोनषष्टितमोऽध्यायः ॥ ५९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें युधिष्ठिरशकुनिसंवादविषयक उनसठवाँ अध्याय पूरा हुआ॥५९॥
 </details>
+</details>
+

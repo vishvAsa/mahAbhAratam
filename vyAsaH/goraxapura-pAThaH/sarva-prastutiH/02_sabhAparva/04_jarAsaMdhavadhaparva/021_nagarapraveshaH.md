@@ -4,24 +4,19 @@ title_full = "021 श्रीकृष्णद्वारा मगधकी 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p1.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p1.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p2.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p2.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p3.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p3.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p4.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p4.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p5.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p5.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p6.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p6.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p7.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-021-p7.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -35,6 +30,11 @@ title_full = "021 श्रीकृष्णद्वारा मगधकी 
 
 श्रीकृष्णद्वारा मगधकी राजधानीकी प्रशंसा, चैत्यक पर्वतशिखर और नगाड़ोंको तोड़-फोड़-कर तीनोंका नगर एवं राजभवनमें प्रवेश तथा श्रीकृष्ण और जरासंधका संवाद
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,11 +290,6 @@ _श्रीकृष्ण बोले—_ कुन्तीनन्दन!
 वयमासादने तस्य दर्पमद्य हरेमहि।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -306,6 +301,11 @@ _श्रीकृष्ण बोले—_ कुन्तीनन्दन!
 
 आज हमलोग उसके घरपर ही चलकर उसका सारा घमंड हर लेंगे॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -903,11 +903,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 स्निग्धगम्भीरया वाचा वाक्यं वाक्यविशारदः ॥ ४८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीकृष्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -920,6 +915,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 जरासंधके ऐसा कहनेपर बोलनेमें चतुर महामना श्रीकृष्ण स्निग्ध एवं गम्भीर वाणीमें इस प्रकार बोले॥४८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीकृष्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1030,11 +1030,6 @@ _श्रीकृष्णने कहा—_ राजन्! तुम ह�
 प्रतिगृह्णीम तद् विद्धि एतन्नः शाश्वतं व्रतम् ॥ ५४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत जरासंधवधपर्वमें श्रीकृष्णजरासंधसंवादविषयक इक्कीसवाँ अध्याय पूरा हुआ॥२१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1053,8 +1048,14 @@ _श्रीकृष्णने कहा—_ राजन्! तुम ह�
 इति श्रीमहाभारते सभापर्वणि जरासंधवधपर्वणि कृष्णजरासंधसंवादे एकविंशोऽध्यायः ॥ २१ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत जरासंधवधपर्वमें श्रीकृष्णजरासंधसंवादविषयक इक्कीसवाँ अध्याय पूरा हुआ॥२१॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ३ श्लोक मिलाकर कुल ५७ श्लोक हैं)
 </details>
 </details>
+

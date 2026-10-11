@@ -4,12 +4,7 @@ title_full = "031 इन्द्रके द्वारा वालखिल
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-031.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-031.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "031 इन्द्रके द्वारा वालखिल
 
 इन्द्रके द्वारा वालखिल्योंका अपमान और उनकी तपस्याके प्रभावसे अरुण एवं गरुडकी उत्पत्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -71,11 +71,6 @@ _शौनकजीने पूछा—_ सूतनन्दन! इन्�
 एतदिच्छाम्यहं श्रोतुं पुराणे यदि पठ्यते ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -88,6 +83,11 @@ _शौनकजीने पूछा—_ सूतनन्दन! इन्�
 
 उस पक्षीमें इच्छानुसार चलने तथा रुचिके अनुसार पराक्रम करनेकी शक्ति कैसे आ गयी? मैं यह सब सुनना चाहता हूँ। यदि पुराणमें कहीं इसका वर्णन हो तो सुनाइये॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -436,11 +436,6 @@ _उग्रश्रवाजीने कहा—_ ब्रह्मन्!
 प्रत्यूचुरभिसम्पूज्य मुनिश्रेष्ठं प्रजापतिम् ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वालखिल्या ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -455,17 +450,17 @@ _उग्रश्रवाजीने कहा—_ ब्रह्मन्!
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वालखिल्या ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रार्थोऽयं समारम्भः सर्वेषां नः प्रजापते।  
 अपत्यार्थं समारम्भो भवतश्चायमीप्सितः ॥ २२ ॥  
 तदिदं सफलं कर्म त्वयैव प्रतिगृह्यताम्।  
 तथा चैवं विधत्स्वात्र यथा श्रेयोऽनुपश्यसि ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -482,6 +477,11 @@ _उग्रश्रवाजीने कहा—_ ब्रह्मन्!
 
 _वालखिल्योंने कहा—_ प्रजापते! हम सब लोगोंका यह अनुष्ठान इन्द्रके लिये हुआ था और आपका यह यज्ञसमारोह संतानके लिये अभीष्ट था। अतः इस फलसहित कर्मको आप ही स्वीकार करें और जिसमें सबकी भलाई दिखायी दे, वैसा ही करें॥२२-२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,11 +678,6 @@ _उग्रश्रवाजी कहते हैं—_ इसी सम�
 तस्यैतत् कर्म सुमहच्छ्रूयतां भृगुनन्दन ॥ ३५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक इकतीसवाँ अध्याय पूरा हुआ॥३१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -700,4 +695,10 @@ _उग्रश्रवाजी कहते हैं—_ इसी सम�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सौपर्णे एकत्रिंशोऽध्यायः ॥ ३१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें गरुडचरित्रविषयक इकतीसवाँ अध्याय पूरा हुआ॥३१॥
 </details>
+</details>
+

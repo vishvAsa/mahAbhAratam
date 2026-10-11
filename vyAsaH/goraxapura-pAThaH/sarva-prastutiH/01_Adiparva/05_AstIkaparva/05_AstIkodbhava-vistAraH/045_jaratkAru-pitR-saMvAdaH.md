@@ -4,18 +4,13 @@ title_full = "045 जरत्कारुको अपने पितरों
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="मालती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-045.mp3"></div>
+<div caption="मालती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-045.mp3"></div>
 
-<div class="audioEmbed"  caption="मालती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-045p1.mp3"></div>
+<div caption="मालती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-045p1.mp3"></div>
 
-<div class="audioEmbed"  caption="मालती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-045p2.mp3"></div>
+<div caption="मालती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-045p2.mp3"></div>
 
-<div class="audioEmbed"  caption="मालती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-045p3.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="मालती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-045p3.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "045 जरत्कारुको अपने पितरों
 
 जरत्कारुको अपने पितरोंका दर्शन और उनसे वार्तालाप
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,11 +205,6 @@ _उग्रश्रवाजी कहते हैं—_ इन्हीं
 भवन्तः सर्व एवेह काममेवं विधीयताम् ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पितर ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -222,6 +217,11 @@ _उग्रश्रवाजी कहते हैं—_ इन्हीं
 
 ‘अथवा मेरी सारी तपस्याके द्वारा भी यदि आप सभी लोग यहाँ इस संकटसे पार हो सकें तो भले ही ऐसा कर लें’॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पितर ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -498,11 +498,6 @@ _पितरोंने कहा—_ विप्रवर! आप बूढ�
 श्रोतुमिच्छाम सर्वेषां को भवानिह तिष्ठति ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जरत्कारुके पितृदर्शनविषयक पैंतालीसवाँ अध्याय पूरा हुआ॥४५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -532,4 +527,10 @@ _पितरोंने कहा—_ विप्रवर! आप बूढ�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि जरत्कारुपितृदर्शने पञ्चचत्वारिंशोऽध्यायः ॥ ४५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें जरत्कारुके पितृदर्शनविषयक पैंतालीसवाँ अध्याय पूरा हुआ॥४५॥
 </details>
+</details>
+

@@ -4,14 +4,9 @@ title_full = "064 दुर्योधनका विदुरको फटक
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-064-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-064-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-064-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-064-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "064 दुर्योधनका विदुरको फटक
 
 दुर्योधनका विदुरको फटकारना और विदुरका उसे चेतावनी देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -271,11 +271,6 @@ _दुर्योधन बोला—_ विदुर! तुम सदा 
 सुसान्त्विता ह्यसती स्त्री जहाति ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -290,6 +285,11 @@ _दुर्योधन बोला—_ विदुर! तुम सदा 
 
 विदुर! जो शत्रुका पक्षपाती हो, अपनेसे द्वेष रखता हो और अहित करनेवाला हो, ऐसे मनुष्यको घरमें नहीं रहने देना चाहिये। अतः तुम्हारी जहाँ इच्छा हो, चले जाओ। कुलटा स्त्रीको मीठी-मीठी बातोंद्वारा कितनी ही सान्त्वना दी जाय, वह पतिको छोड़ ही देती है॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,11 +482,6 @@ _विदुरने कहा—_ राजन्! जो इस प्रक
 एवं तेऽहं वदामीदं प्रयतः कुरुनन्दन ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें विदुरके हितकारक वचनविषयक चौसठवाँ अध्याय पूरा हुआ॥६४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -504,4 +499,10 @@ _विदुरने कहा—_ राजन्! जो इस प्रक
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि विदुरहितवाक्ये चतुष्षष्टितमोऽध्यायः ॥ ६४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें विदुरके हितकारक वचनविषयक चौसठवाँ अध्याय पूरा हुआ॥६४॥
 </details>
+</details>
+

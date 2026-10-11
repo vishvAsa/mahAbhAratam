@@ -4,18 +4,13 @@ title_full = "100 शान्तनुके रूप, गुण और सद
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-100p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-100p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-100p02.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-100p02.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-100p03.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-100p03.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-100p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-100p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "100 शान्तनुके रूप, गुण और सद
 
 शान्तनुके रूप, गुण और सदाचारकी प्रशंसा, गंगाजीके द्वारा सुशिक्षित पुत्रकी प्राप्ति तथा देवव्रतकी भीष्म-प्रतिज्ञा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,11 +643,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 दृष्टपूर्वामपि स तां नाभ्यजानात् स शान्तनुः ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गङ्गोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -660,6 +655,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 गंगा दिव्य आभूषणोंसे अलंकृत हो स्वच्छ सुन्दर साड़ी पहने हुई थीं। इससे उनका अनुपम सौन्दर्य इतना बढ़ गया था कि पहलेकी देखी होनेपर भी राजा शान्तनु उन्हें पहचान न सके॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गङ्गोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -753,11 +753,6 @@ _गंगाजीने कहा—_ महाराज! पूर्वक�
 मया दत्तं निजं पुत्रं वीरं वीर गृहं नय।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -775,6 +770,11 @@ _गंगाजीने कहा—_ महाराज! पूर्वक�
 
 इसी प्रकार अंगिराके पुत्र देव-दानव-वन्दित बृहस्पति जिस शास्त्रको जानते हैं, वह भी आपके इस महाबाहु महात्मा पुत्रमें अंग और उपांगोंसहित पूर्णरूपसे प्रतिष्ठित है। जो दूसरोंसे परास्त नहीं होते, वे प्रतापी महर्षि जमदग्निनन्दन परशुराम जिस अस्त्र-विद्याको जानते हैं, वह भी मेरे इस पुत्रमें प्रतिष्ठित है। वीरवर महाराज! यह कुमार राजधर्म तथा अर्थशास्त्रका महान् पण्डित है। मेरे दिये हुए इस महाधनुर्धर वीर पुत्रको आप घर ले जाइये॥३७—३९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -951,11 +951,6 @@ _वैशम्पायनजी कहते हैं—_ ऐसा कह�
 न हि मे त्वत्समः कश्चिद् वरो जातु भविष्यति॥५४॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शान्तनुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -970,15 +965,15 @@ _वैशम्पायनजी कहते हैं—_ ऐसा कह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शान्तनुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तव वरं दाश व्यवस्येयमहं तव।  
 दातव्यं चेत् प्रदास्यामि न त्वदेयं कथंचन ॥ ५५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दाश उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -995,15 +990,15 @@ _शान्तनुने कहा—_ निषाद! पहले तु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दाश उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्यां जायेत यः पुत्रः स राजा पृथिवीपते।  
 त्वदूर्ध्वमभिषेक्तव्यो नान्यः कश्चन पार्थिव ॥ ५६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1018,6 +1013,11 @@ _शान्तनुने कहा—_ निषाद! पहले तु�
 
 _निषाद बोला—_ पृथ्वीपते! इसके गर्भसे जो पुत्र उत्पन्न हो, आपके बाद उसीका राजाके पदपर अभिषेक किया जाय, अन्य किसी राजकुमारका नहीं॥५६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1314,11 +1314,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति ते कारणं तात दुःखस्योक्तमशेषतः ॥ ७१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1331,6 +1326,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘इसीलिये मैं इस संदेहमें पड़ा हूँ कि तुम्हारे शान्त हो जानेपर इस वंशपरम्पराका निर्वाह कैसे होगा? तात! यही मेरे दुःखका कारण है; वह सब-का-सब तुम्हें बता दिया’॥७१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1400,11 +1400,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तमुवाच महाप्राज्ञो भीष्मो वै सारथिं पितुः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1420,16 +1415,16 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं सारथे पितुर्मह्यं सखासि रथयुग् यतः।  
 अपि जानासि यदि वै कस्यां भावो नृपस्य तु॥  
 यथा वक्ष्यसि मे पृष्टः करिष्ये न तदन्यथा।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सूत उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1445,6 +1440,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _भीष्म बोले—_ सारथे! तुम मेरे पिताके सखा हो, क्योंकि उनका रथ जोतनेवाले हो। क्या तुम जानते हो कि महाराजका अनुराग किस स्त्रीमें है? मेरे पूछनेपर तुम जैसा कहोगे, वैसा ही करूँगा, उसके विपरीत नहीं करूँगा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सूत उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1501,11 +1501,6 @@ _सूत बोला—_ नरश्रेष्ठ! एक धीवरक�
 अब्रवीच्चैनमासीनं राजसंसदि भारत ॥ ७६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दाश उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1518,6 +1513,11 @@ _सूत बोला—_ नरश्रेष्ठ! एक धीवरक�
 
 भारत! उस समय निषादने उनका बड़ा सत्कार किया और विधिपूर्वक पूजा करके आसनपर बैठनेके पश्चात् साथ आये हुए क्षत्रियोंकी मण्डलीमें दाशराजने उनसे कहा॥७६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दाश उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1670,11 +1670,6 @@ _दाशराज बोला—_ याचकोंमें श्रेष
 एतज्जानीहि भद्रं ते दानादाने परंतप ॥ ८४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1687,6 +1682,11 @@ _दाशराज बोला—_ याचकोंमें श्रेष
 
 पृथ्वीनाथ! बस, इस विवाहमें इतना ही दोष है, दूसरा कोई नहीं। परंतप! आपका कल्याण हो, कन्याको देने या न देनेमें केवल यही दोष विचारणीय है; इस बातको आप अच्छी तरह समझ लें॥८४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1835,11 +1835,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तवापत्यं भवेद् यत् तु तत्र नः संशयो महान्॥९२॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1854,15 +1849,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैतन्मतमाज्ञाय सत्यधर्मपरायणः ।  
 प्रत्यजानात् तदा राजन् पितुः प्रियचिकीर्षया ॥ ९३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गाङ्गेय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1877,6 +1872,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _वैशम्पायनजी कहते हैं—_ राजन्! निषादराजके इस अभिप्रायको समझकर सत्यधर्ममें तत्पर रहनेवाले कुमार देवव्रतने उस समय पिताका प्रिय करनेकी इच्छासे यह कठोर प्रतिज्ञा की॥९३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गाङ्गेय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1954,11 +1954,6 @@ _भीष्मने कहा—_ नरश्रेष्ठ निषाद
 ऊर्ध्वरेता भविष्यामि दाश सत्यं ब्रवीमि ते।)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1974,6 +1969,11 @@ _भीष्मने कहा—_ नरश्रेष्ठ निषाद
 
 मैंने जन्मसे लेकर अबतक कोई झूठ बात नहीं कही है। जबतक मेरे शरीरमें प्राण रहेंगे, तबतक मैं संतान नहीं उत्पन्न करूँगा। तुम पिताजीके लिये अपनी कन्या दे दो। दाश! मैं राज्य तथा मैथुनका सर्वथा परित्याग करूँगा और ऊर्ध्वरेता (नैष्ठिक ब्रह्मचारी) होकर रहूँगा—यह मैं तुमसे सत्य कहता हूँ।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2022,11 +2022,6 @@ _वैशम्पायनजी कहते हैं—_ देवव्र
 अधिरोह रथं मातर्गच्छावः स्वगृहानिति ॥ ९९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2039,6 +2034,11 @@ _वैशम्पायनजी कहते हैं—_ देवव्र
 
 तत्पश्चात् भीष्म पिताके मनोरथकी सिद्धिके लिये उस यशस्विनी निषादकन्यासे बोले—‘माताजी! इस रथपर बैठिये। अब हमलोग अपने घर चलें’॥९९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2107,11 +2107,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 त्वत्तो ह्यनुज्ञां सम्प्राप्य मृत्युः प्रभवितानघ ॥ १०३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें सत्यवतीलाभोपाख्यानविषयक सौवाँ अध्याय पूरा हुआ॥१००॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2130,8 +2125,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि सत्यवतीलाभोपाख्याने शततमोऽध्यायः ॥ १०० ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें सत्यवतीलाभोपाख्यानविषयक सौवाँ अध्याय पूरा हुआ॥१००॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके १३ श्लोक मिलाकर कुल ११६ श्लोक हैं)
 </details>
 </details>
+

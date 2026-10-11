@@ -4,14 +4,9 @@ title_full = "209 सुन्द और उपसुन्दद्वारा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-209p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-209p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-209p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-209p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "209 सुन्द और उपसुन्दद्वारा
 
 सुन्द और उपसुन्दद्वारा क्रूरतापूर्ण कर्मोंसे त्रिलोकीपर विजय प्राप्त करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -521,11 +521,6 @@ _नारदजी कहते हैं—_ युधिष्ठिर! उ�
 निःसपत्नौ कुरुक्षेत्रे निवेशमभिचक्रतुः ॥ २७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें सुन्दोपसुन्दोपाख्यानविषयक दो सौ नौवाँ अध्याय पूरा हुआ॥२०९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -543,4 +538,10 @@ _नारदजी कहते हैं—_ युधिष्ठिर! उ�
 
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि सुन्दोपसुन्दोपाख्याने नवाधिकद्विशततमोऽध्यायः ॥ २०९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें सुन्दोपसुन्दोपाख्यानविषयक दो सौ नौवाँ अध्याय पूरा हुआ॥२०९॥
 </details>
+</details>
+

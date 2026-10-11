@@ -4,14 +4,9 @@ title_full = "036 राजसूययज्ञमें ब्राह्म�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-036p01.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-036p01.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-036p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-036p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -26,6 +21,11 @@ title_full = "036 राजसूययज्ञमें ब्राह्म�
 
 राजसूययज्ञमें ब्राह्मणों तथा राजाओंका समागम, श्रीनारदजीके द्वारा श्रीकृष्ण-महिमाका वर्णन और भीष्मजीकी अनुमतिसे श्रीकृष्णकी अग्रपूजा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,11 +466,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अथ चैषां वरिष्ठाय समर्थायोपनीयताम् ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -485,15 +480,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्मै भवान् मन्यतेऽर्घ्यमेकस्मै कुरुनन्दन।  
 उपनीयमानं युक्तं च तन्मे ब्रूहि पितामह ॥ २६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -510,15 +505,15 @@ _युधिष्ठिरने पूछा—_ कुरुनन्दन 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो भीष्मः शान्तनवो बुद्ध्या निश्चित्य वीर्यवान्।  
 अमन्यत तदा कृष्णमर्हणीयतमं भुवि ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -533,6 +528,11 @@ _युधिष्ठिरने पूछा—_ कुरुनन्दन 
 
 _वैशम्पायनजी कहते हैं—_ तब महापराक्रमी शान्तनुनन्दन भीष्मने अपनी बुद्धिसे निश्चय करके भगवान् श्रीकृष्णको ही भूमण्डलमें सबसे अधिक पूजनीय माना॥२७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -605,11 +605,6 @@ _भीष्मने कहा—_ कुन्तीनन्दन! ये �
 अपाक्षिपद् वासुदेवं चेदिराजो महाबलः ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अर्घाभिहरणपर्वमें श्रीकृष्णको अर्घ्यदानविषयक छत्तीसवाँ अध्याय पूरा हुआ॥३६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -626,6 +621,11 @@ _भीष्मने कहा—_ कुन्तीनन्दन! ये �
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि अर्घाभिहरणपर्वणि श्रीकृष्णार्घ्यदाने षट्त्रिंशोऽध्यायः ॥ ३६ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अर्घाभिहरणपर्वमें श्रीकृष्णको अर्घ्यदानविषयक छत्तीसवाँ अध्याय पूरा हुआ॥३६॥
 </details>
 </details>
 

@@ -4,14 +4,9 @@ title_full = "058 यज्ञकी समाप्ति एवं आस्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-058a-sheela.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-058a-sheela.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-058b-sheela.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-058b-sheela.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "058 यज्ञकी समाप्ति एवं आस्�
 
 यज्ञकी समाप्ति एवं आस्तीकका सर्पोंसे वर प्राप्त करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -57,11 +57,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! आ�
 न स्म स प्रापतद् वह्नौ तक्षको भयपीडितः ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -76,15 +71,15 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! आ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं सूत तेषां विप्राणां मन्त्रग्रामो मनीषिणाम्।  
 न प्रत्यभात् तदाग्नौ यत् स पपात न तक्षकः॥४॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -99,6 +94,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! आ�
 
 _शौनकजीने पूछा—_ सूत! उस यज्ञमें बड़े-बड़े मनीषी ब्राह्मण उपस्थित थे। क्या उन्हें ऐसे मन्त्र नहीं सूझे, जिनसे तक्षक शीघ्र अग्निमें आ गिरे? क्या कारण था जो तक्षक अग्निकुण्डमें न गिरा?॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -303,11 +303,6 @@ _उग्रश्रवाजीने कहा—_ शौनक! इन्�
 अभिगम्योपसंगृह्य तथावृत्तं न्यवेदयत् ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -320,6 +315,11 @@ _उग्रश्रवाजीने कहा—_ शौनक! इन्�
 
 वे अत्यन्त प्रसन्न हो घर जाकर मामा और मातासे मिले और उनके चरणोंमें प्रणाम करके वहाँका सब समाचार सुनाया॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -354,11 +354,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! स�
 कामं किं ते करवामाद्य वत्स ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-आस्तीक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -373,6 +368,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! स�
 
 वे सब-के-सब बार-बार यह कहने लगे—‘विद्वान्! आज हम तुम्हारा कौन-सा प्रिय कार्य करें? वत्स! तुमने हमें मृत्युके मुखसे बचाया है; अतः हम सब लोग तुमसे बहुत प्रसन्न हैं। बोलो, तुम्हारा कौन-सा मनोरथ पूर्ण करें?’॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+आस्तीक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -491,11 +491,6 @@ _आस्तीकने कहा—_ नागगण! लोकमें ज�
 शतधा भिद्यते मूर्ध्नि शिंशवृक्षफलं यथा ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -508,6 +503,11 @@ _आस्तीकने कहा—_ नागगण! लोकमें ज�
 
 ‘जो सर्प आस्तीकके वचनकी शपथ सुनकर भी नहीं लौटेगा, उसके फनके शीशमके फलके समान सैकड़ों टुकड़े हो जायँगे’॥२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -589,11 +589,6 @@ _उग्रश्रवाजी कहते हैं—_ विप्रव
 व्येतु ते सुमहद् ब्रह्मन् कौतूहलमरिन्दम ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पसत्रविषयक अट्ठावनवाँ अध्याय पूरा हुआ॥५८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -612,4 +607,10 @@ _उग्रश्रवाजी कहते हैं—_ विप्रव
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सर्पसत्रे अष्टपञ्चाशत्तमोऽध्यायः ॥ ५८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पसत्रविषयक अट्ठावनवाँ अध्याय पूरा हुआ॥५८॥
 </details>
+</details>
+

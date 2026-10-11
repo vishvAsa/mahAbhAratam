@@ -4,22 +4,17 @@ title_full = "035 दुःखित भीमसेनका युधिष्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-035-p01.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-035-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-035-p02.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-035-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-035-p03.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-035-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-035-p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-035-p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -33,6 +28,11 @@ title_full = "035 दुःखित भीमसेनका युधिष्
 
 दुःखित भीमसेनका युधिष्ठिरको युद्धके लिये उत्साहित करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -675,11 +675,6 @@ _भीमसेन बोले—_ महाराज! आप फेनके 
 क्षत्रियस्य हि सर्वस्य नान्यो धर्मोऽस्ति संयुगात् ॥ ३५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें भीमवाक्यविषयक पैंतीसवाँ अध्याय पूरा हुआ॥३५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -697,4 +692,10 @@ _भीमसेन बोले—_ महाराज! आप फेनके 
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि भीमवाक्ये पञ्चत्रिंशोऽध्यायः ॥ ३५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें भीमवाक्यविषयक पैंतीसवाँ अध्याय पूरा हुआ॥३५॥
 </details>
+</details>
+

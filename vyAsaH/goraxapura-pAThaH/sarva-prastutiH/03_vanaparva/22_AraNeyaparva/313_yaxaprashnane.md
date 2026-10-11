@@ -3,12 +3,6 @@ title = "३१३ यक्षप्रश्नने"
 title_full = "313 यक्ष और युधिष्ठिरका प्रश्नोत्तर तथा युधिष्ठिरके उत्तरसे संतुष्ट हुए यक्षका चारों भाइयोंके जीवित होनेका वरदान देना"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -20,6 +14,11 @@ title_full = "313 यक्ष और युधिष्ठिरका प्�
 
 यक्ष और युधिष्ठिरका प्रश्नोत्तर तथा युधिष्ठिरके उत्तरसे संतुष्ट हुए यक्षका चारों भाइयोंके जीवित होनेका वरदान देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -438,11 +437,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 गाहमानश्च तत् तोयमन्तरिक्षात् स शुश्रुवे ॥ २८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -455,6 +449,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इस प्रकार निश्चय करके युधिष्ठिर जलमें उतरे। पानीमें प्रवेश करते ही उनके कानोंमें आकाशवाणी सुनायी दी॥२८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -487,11 +486,6 @@ _यक्ष बोला—_ राजकुमार! मैं सेवा�
 प्रश्नानुक्त्वा तु कौन्तेय ततः पिब हरस्व च ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -504,6 +498,11 @@ _यक्ष बोला—_ राजकुमार! मैं सेवा�
 
 तात! जल पीनेका साहस न करना। इसपर मेरा पहलेसे ही अधिकार हो गया है। कुन्तीकुमार! मेरे प्रश्नोंका उत्तर दो और तब जल पीओ और ले भी जाओ॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -577,11 +576,6 @@ _युधिष्ठिर बोले—_ मैं पूछता हू�
 पृच्छामि भगवंस्तस्मात् को भवानिह तिष्ठति।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -597,15 +591,15 @@ _युधिष्ठिर बोले—_ मैं पूछता हू�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यक्षोऽहमस्मि भद्रं ते नास्मि पक्षी जलेचरः ॥ ३६ ॥  
 मयैते निहताः सर्वे भ्रातरस्ते महौजसः।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -622,6 +616,11 @@ _यक्षने कहा—_ तुम्हारा कल्याण �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तामशिवां श्रुत्वा वाचं स परुषाक्षराम् ॥ ३७ ॥  
@@ -630,11 +629,6 @@ _यक्षने कहा—_ तुम्हारा कल्याण �
 ज्वलनार्कप्रतीकाशमधृष्यं पर्वतोपमम् ।  
 वृक्षमाश्रित्य तिष्ठन्तं ददर्श भरतर्षभः ॥ ३९ ॥  
 मेघगम्भीरनादेन तर्जयन्तं महास्वनम् ।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -655,6 +649,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे ते भ्रातरो राजन् वार्यमाणा मयासकृत् ॥ ४० ॥  
@@ -662,11 +661,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 न पेयमुदकं राजन् प्राणानिह परीप्सता ॥ ४१ ॥  
 पार्थ मा साहसं कार्षीर्मम पूर्वपरिग्रहः।  
 प्रश्नानुक्त्वा तु कौन्तेय ततः पिब हरस्व च ॥ ४२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -686,17 +680,17 @@ _यक्षने कहा—_ राजन्! तुम्हारे इ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चाहं कामये यक्ष तव पूर्वपरिग्रहम्।  
 कामं नैतत् प्रशंसन्ति सन्तो हि पुरुषाः सदा ॥ ४३ ॥  
 यदात्मना स्वमात्मानं प्रशंसे पुरुषर्षभ।  
 यथाप्रज्ञं तु ते प्रश्नान् प्रतिवक्ष्यामि पृच्छ माम् ॥ ४४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -715,15 +709,15 @@ _युधिष्ठिरने कहा—_ यक्ष! मैं तु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं स्विदादित्यमुन्नयति के च तस्याभितश्चराः।  
 कश्चैनमस्तं नयति कस्मिंश्च प्रतितिष्ठति ॥ ४५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -740,15 +734,15 @@ _यक्षने पूछा—_ सूर्यको कौन ऊपर �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मादित्यमुन्नयति देवास्तस्याभितश्चराः ।  
 धर्मश्चास्तं नयति च सत्ये च प्रतितिष्ठति ॥ ४६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -765,15 +759,15 @@ _युधिष्ठिर बोले—_ ब्रह्म सूर्य
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केनस्विच्छ्रोत्रियो भवति केनस्विद्‌ विन्दते महत्।  
 केनस्विद् द्वितीयवान् भवति राजन् केन च बुद्धिमान् ॥ ४७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -790,15 +784,15 @@ _यक्षने पूछा—_ राजन्! मनुष्य श्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुतेन श्रोत्रियो भवति तपसा विन्दते महत्।  
 धृत्या द्वितीयवान् भवति बुद्धिमान् वृद्धसेवया ॥ ४८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -815,15 +809,15 @@ _युधिष्ठिर बोले—_ वेदाध्ययनके 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं ब्राह्मणानां देवत्वं कश्च धर्मः सतामिव।  
 कश्चैषां मानुषो भावः किमेषामसतामिव ॥ ४९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -840,15 +834,15 @@ _यक्षने पूछा—_ ब्राह्मणोंमें द
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाध्याय एषां देवत्वं तप एषां सतामिव।  
 मरणं मानुषो भावः परिवादोऽसतामिव ॥ ५० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -865,15 +859,15 @@ _युधिष्ठिर बोले—_ वेदोंका स्वा
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं क्षत्रियाणां देवत्वं कश्च धर्मः सतामिव।  
 कश्चैषां मानुषो भावः किमेषामसतामिव ॥ ५१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -890,15 +884,15 @@ _यक्षने पूछा—_ क्षत्रियोंमें द
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्वस्त्रमेषां देवत्वं यज्ञ एषां सतामिव।  
 भयं वै मानुषो भावः परित्यागोऽसतामिव ॥ ५२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -915,15 +909,15 @@ _युधिष्ठिर बोले—_ बाणविद्या क्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमेकं यज्ञियं साम किमेकं यज्ञियं यजुः।  
 का चैषां वृणुते यज्ञं कां यज्ञो नातिवर्तते ॥ ५३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -940,15 +934,15 @@ _यक्षने पूछा—_ कौन एक वस्तु यज्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणो वै यज्ञियं साम मनो वै यज्ञियं यजुः।  
 ऋगेका वृणुते यज्ञं तां यज्ञो नातिवर्तते ॥ ५४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -965,15 +959,15 @@ _युधिष्ठिर बोले—_ प्राण ही यज्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किंस्विदावपतां श्रेष्ठं किंस्विन्निवपतां वरम्।  
 किंस्वित् प्रतिष्ठमानानां किंस्वित् प्रसवतां वरम् ॥ ५५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -990,15 +984,15 @@ _यक्षने पूछा—_ खेती करनेवालोंक
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्षमावपतां श्रेष्ठं बीजं निवपतां वरम्।  
 गावः प्रतिष्ठमानानां पुत्रः प्रसवतां वरः ॥ ५६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1015,15 +1009,15 @@ _युधिष्ठिर बोले—_ खेती करनेवाल
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रियार्थाननुभवन् बुद्धिमाल्ँलोकपूजितः ।  
 सम्मतः सर्वभूतानामुच्छ्‌वसन् को न जीवति ॥ ५७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1040,15 +1034,15 @@ _यक्षने पूछा—_ ऐसा कौन पुरुष है,
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवतातिथिभृत्यानां पितॄणामात्मनश्च यः ।  
 न निर्वपति पञ्चानामुच्छ्‌वसन् न स जीवति ॥ ५८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1065,15 +1059,15 @@ _युधिष्ठिरने कहा—_ जो देवता, अत�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किंस्विद् गुरुतरं भूमेः किंस्विदुच्चतरं च खात्।  
 किंस्विच्छीघ्रतरं वायोः किंस्विद्‌ बहुतरं तृणात् ॥ ५९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1090,15 +1084,15 @@ _यक्षने पूछा—_ पृथ्वीसे भी भार�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 माता गुरुतरा भूमेः खात् पितोच्चतरस्तथा।  
 मनः शीघ्रतरं वाताच्चिन्ता बहुतरी तृणात् ॥ ६० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1115,15 +1109,15 @@ _युधिष्ठिर बोले—_ माताका गौरव �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किंस्वित्‌ सुप्तं न निमिषति किंस्विज्जातं न चोपति।  
 कस्यस्विद्‌धृदयं नास्ति किंस्विद्‌ वेगेन वर्धते ॥ ६१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1140,15 +1134,15 @@ _यक्षने पूछा—_ कौन सोनेपर भी आँ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्स्यः सुप्तो न निमिषत्यण्डं जातं न चोपति।  
 अश्मनो हृदयं नास्ति नदी वेगेन वर्धते ॥ ६२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1165,15 +1159,15 @@ _युधिष्ठिर बोले—_ मछली सोनेपर �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किंस्वित् प्रवसतो मित्रं किंस्विन्मित्रं गृहे सतः।  
 आतुरस्य च किं मित्रं किंस्विन्मित्रं मरिष्यतः ॥ ६३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1190,15 +1184,15 @@ _यक्षने पूछा—_ प्रवासी (परदेशक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सार्थः प्रवसतो मित्रं भार्या मित्रं गृहे सतः।  
 आतुरस्य भिषङ्‌मित्रं दानं मित्रं मरिष्यतः ॥ ६४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1215,15 +1209,15 @@ _युधिष्ठिर बोले—_ सहयात्रियों�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोऽतिथिः सर्वभूतानां किंस्विद् धर्मं सनातनम्।  
 अमृतं किंस्विद् राजेन्द्र किंस्वित् सर्वमिदं जगत् ॥ ६५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1240,15 +1234,15 @@ _यक्षने पूछा—_ राजेन्द्र! समस्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिथिः सर्वभूतानामग्निः सोमो गवामृतम्।  
 सनातनोऽमृतो धर्मो वायुः सर्वमिदं जगत् ॥ ६६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1265,15 +1259,15 @@ _युधिष्ठिर बोले—_ अग्नि समस्त �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किंस्विदेको विचरते जातः को जायते पुनः।  
 किंस्विद्धिमस्य भैषज्यं किंस्विदावपनं महत् ॥ ६७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1290,15 +1284,15 @@ _यक्षने पूछा—_ अकेला कौन विचरत�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूर्य एको विचरते चन्द्रमा जायते पुनः।  
 अग्निर्हिमस्य भैषज्यं भूमिरावपनं महत् ॥ ६८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1315,15 +1309,15 @@ _युधिष्ठिर बोले—_ सूर्य अकेला �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किंस्विदेकपदं धर्म्यं किंस्विदेकपदं यशः।  
 किंस्विदेकपदं स्वर्ग्यं किंस्विदेकपदं सुखम् ॥ ६९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1340,15 +1334,15 @@ _यक्षने पूछा—_ धर्मका मुख्य स्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दाक्ष्यमेकपदं धर्म्यं दानमेकपदं यशः।  
 सत्यमेकपदं स्वर्ग्यं शीलमेकपदं सुखम् ॥ ७० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1365,15 +1359,15 @@ _युधिष्ठिर बोले—_ धर्मका मुख्य
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किंस्विदात्मा मनुष्यस्य किंस्विद्‌ दैवकृतः सखा।  
 उपजीवनं किंस्विदस्य किंस्विदस्य परायणम् ॥ ७१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1390,15 +1384,15 @@ _यक्षने पूछा—_ मनुष्यकी आत्मा �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्र आत्मा मनुष्यस्य भार्या दैवकृतः सखा।  
 उपजीवनं च पर्जन्यो दानमस्य परायणम् ॥ ७२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1415,15 +1409,15 @@ _युधिष्ठिर बोले—_ पुत्र मनुष्य
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्यानामुत्तमं किंस्विद् धनानां स्यात्‌ किमुत्तमम्।  
 लाभानामुत्तमं किं स्यात्‌ सुखानां स्यात्‌ किमुत्तमम् ॥ ७३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1440,15 +1434,15 @@ _यक्षने पूछा—_ धन्यवादके योग्य
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्यानामुत्तमं दाक्ष्यं धनानामुत्तमं श्रुतम्।  
 लाभानां श्रेय आरोग्यं सुखानां तुष्टिरुत्तमा ॥ ७४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1465,15 +1459,15 @@ _युधिष्ठिर बोले—_ धन्य पुरुषों
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कश्च धर्मः परो लोके कश्च धर्मः सदाफलः।  
 किं नयम्य न शोचन्ति कैश्च संधिर्न जीर्यते ॥ ७५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1490,15 +1484,15 @@ _यक्षने पूछा—_ लोकमें श्रेष्ठ �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनृशंस्यं परो धर्मस्त्रयीधर्मः सदाफलः।  
 मनो यम्य न शोचन्ति संधिः सद्‌भिर्न जीर्यते ॥ ७६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1515,17 +1509,17 @@ _युधिष्ठिर बोले—_ लोकमें दया श�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु हित्वा प्रियो भवति  
 किं नु हित्वा न शोचति।  
 किं नु हित्वार्थवान् भवति  
 किं नु हित्वा सुखी भवेत् ॥ ७७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1544,17 +1538,17 @@ _यक्षने पूछा—_ किस वस्तुको त्य�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानं हित्वा प्रियो भवति  
 क्रोधं हित्वा न शोचति।  
 कामं हित्वार्थवान् भवति  
 लोभं हित्वा सुखी भवेत् ॥ ७८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1573,15 +1567,15 @@ _युधिष्ठिर बोले—_ मानको त्याग �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं ब्राह्मणे दानं किमर्थं नटनर्तके।  
 किमर्थं चैव भृत्येषु किमर्थं चैव राजसु ॥ ७९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1598,15 +1592,15 @@ _यक्षने पूछा—_ ब्राह्मणको किसल
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मार्थं ब्राह्मणे दानं यशोऽर्थं नटनर्तके।  
 भृत्येषु भरणार्थं वै भयार्थं चैव राजसु ॥ ८० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1623,15 +1617,15 @@ _युधिष्ठिर बोले—_ ब्राह्मणको ध
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केनस्विदावृतो लोकः केनस्विन्न प्रकाशते।  
 केन त्यजति मित्राणि केन स्वर्गं न गच्छति ॥ ८१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1648,15 +1642,15 @@ _यक्षने पूछा—_ जगत् किस वस्तुस�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अज्ञानेनावृतो लोकस्तमसा न प्रकाशते।  
 लोभात् त्यजति मित्राणि संगात् स्वर्गं न गच्छति ॥ ८२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1673,15 +1667,15 @@ _युधिष्ठिर बोले—_ जगत् अज्ञानस
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृतः कथं स्यात् पुरुषः कथं राष्ट्रं मृतं भवेत्।  
 श्राद्धं मृतं कथं वा स्यात् कथं यज्ञो मृतो भवेत्॥८३॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1698,15 +1692,15 @@ _यक्षने पूछा—_ पुरुष किस प्रका�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृतो दरिद्रः पुरुषो मृतं राष्ट्रमराजकम्।  
 मृतमश्रोत्रियं श्राद्धं मृतो यज्ञस्त्वदक्षिणः ॥ ८४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1723,15 +1717,15 @@ _युधिष्ठिर बोले—_ दरिद्र पुरुष
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का दिक् किमुदकं प्रोक्तं किमन्नं किं च वै विषम्।  
 श्राद्धस्य कालमाख्याहि ततः पिब हरस्व च ॥ ८५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1748,15 +1742,15 @@ _यक्षने पूछा—_ दिशा क्या है? जल �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्तो दिग् जलमाकाशं गौरन्नं प्रार्थना विषम्।  
 श्राद्धस्य ब्राह्मणः कालः कथं वा यक्ष मन्यसे ॥ ८६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1773,15 +1767,15 @@ _युधिष्ठिर बोले—_ सत्पुरुष दिश
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपः किं लक्षणं प्रोक्तं को दमश्च प्रकीर्तितः।  
 क्षमा च का परा प्रोक्ता का च ह्रीः परिकीर्तिता॥८७॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1798,15 +1792,15 @@ _यक्षने पूछा—_ तपका क्या लक्षण �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपः स्वधर्मवर्तित्वं मनसो दमनं दमः।  
 क्षमा द्वन्द्वसहिष्णुत्वं ह्रीरकार्यनिवर्तनम् ॥ ८८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1823,15 +1817,15 @@ _युधिष्ठिर बोले—_ अपने धर्ममें
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं ज्ञानं प्रोच्यते राजन् कः शमश्च प्रकीर्तितः।  
 दया च का परा प्रोक्ता किं चार्जवमुदाहृतम् ॥ ८९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1848,15 +1842,15 @@ _यक्षने पूछा—_ राजन्! ज्ञान किस�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञानं तत्त्वार्थसम्बोधः शमश्चित्तप्रशान्तता ।  
 दया सर्वसुखैषित्वमार्जवं समचित्तता ॥ ९० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1873,15 +1867,15 @@ _युधिष्ठिर बोले—_ परमात्मतत्त�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कः शत्रुर्दुर्जयः पुंसां कश्च व्याधिरनन्तकः।  
 कीदृशश्च स्मृतः साधुरसाधुः कीदृशः स्मृतः ॥ ९१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1898,15 +1892,15 @@ _यक्षने पूछा—_ मनुष्योंका दुर्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधः सुदुर्जयः शत्रुर्लोभो व्याधिरनन्तकः।  
 सर्वभूतहितः साधुरसाधुर्निर्दयः स्मृतः ॥ ९२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1923,15 +1917,15 @@ _युधिष्ठिर बोले—_ क्रोध दुर्जय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को मोहः प्रोच्यते राजन् कश्च मानः प्रकीर्तितः।  
 किमालस्यं च विज्ञेयं कश्च शोकः प्रकीर्तितः ॥ ९३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1948,15 +1942,15 @@ _यक्षने पूछा—_ राजन्! मोह किसे क
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोहो हि धर्ममूढत्वं मानस्त्वात्माभिमानिता।  
 धर्मनिष्क्रियताऽऽलस्यं शोकस्त्वज्ञानमुच्यते ॥ ९४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1973,15 +1967,15 @@ _युधिष्ठिर बोले—_ धर्ममूढ़ता ह
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं स्थैर्यमृषिभिः प्रोक्तं किं च धैर्यमुदाहृतम्।  
 स्नानं च किं परं प्रोक्तं दानं च किमिहोच्यते॥९५॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1998,15 +1992,15 @@ _यक्षने पूछा—_ ऋषियोंने स्थिरत
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वधर्मे स्थिरता स्थैर्यं धैर्यमिन्द्रियनिग्रहः।  
 स्नानं मनोमलत्यागो दानं वै भूतरक्षणम् ॥ ९६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2023,15 +2017,15 @@ _युधिष्ठिर बोले—_ अपने धर्ममें
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कः पण्डितः पुमान् ज्ञेयो नास्तिकः कश्च उच्यते।  
 को मूर्खः कश्च कामः स्यात् को मत्सर इति स्मृतः॥९७॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2048,15 +2042,15 @@ _यक्षने पूछा—_ किस पुरुषको पण्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मज्ञः पण्डितो ज्ञेयो नास्तिको मूर्ख उच्यते।  
 कामः संसारहेतुश्च हृत्तापो मत्सरः स्मृतः ॥ ९८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2073,15 +2067,15 @@ _युधिष्ठिर बोले—_ धर्मज्ञको पण
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोऽहङ्कार इति प्रोक्तः कश्च दम्भः प्रकीर्तितः।  
 किं तद् दैवं परं प्रोक्तं किं तत् पैशुन्यमुच्यते॥९९॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2098,15 +2092,15 @@ _यक्षने पूछा—_ अहंकार किसे कहत�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाज्ञानमहङ्कारो दम्भो धर्मो ध्वजोच्छ्रयः।  
 दैवं दानफलं प्रोक्तं पैशुन्यं परदूषणम् ॥ १०० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2123,15 +2117,15 @@ _युधिष्ठिर बोले—_ महान् अज्ञान
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मश्चार्थश्च कामश्च परस्परविरोधिनः ।  
 एषां नित्यविरुद्धानां कथमेकत्र संगमः ॥ १०१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2148,15 +2142,15 @@ _यक्षने पूछा—_ धर्म, अर्थ और काम
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा धर्मश्च भार्या च परस्परवशानुगौ।  
 तदा धर्मार्थकामानां त्रयाणामपि संगमः ॥ १०२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2173,15 +2167,15 @@ _युधिष्ठिर बोले—_ जब धर्म और भा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षयो नरकः केन प्राप्यते भरतर्षभ।  
 एतन्मे मृच्छतः प्रश्ननं तच्छीघ्रं वक्तुमर्हसि ॥ १०३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2196,6 +2190,11 @@ _युधिष्ठिर बोले—_ जब धर्म और भा�
 
 _यक्षने पूछा—_ भरतश्रेष्ठ! अक्षय नरक किस पुरुषको प्राप्त होता है? मेरे इस प्रश्नका शीघ्र ही उत्तर दो॥१०३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2244,11 +2243,6 @@ _युधिष्ठिर बोले—_ जो पुरुष भिक�
 पश्चान्नास्तीति यो ब्रूयात् सोऽक्षयं नरकं व्रजेत् ॥ १०६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2263,15 +2257,15 @@ _युधिष्ठिर बोले—_ जो पुरुष भिक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् कुलेन वृत्तेन स्वाध्यायेन श्रुतेन वा।  
 ब्राह्मण्यं केन भवति प्रब्रूह्येतत् सुनिश्चितम् ॥ १०७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2286,6 +2280,11 @@ _युधिष्ठिर बोले—_ जो पुरुष भिक�
 
 _यक्षने पूछा—_ राजन्! कुल, आचार, स्वाध्याय और शास्त्रश्रवण—इनमेंसे किसके द्वारा ब्राह्मणत्व सिद्ध होता है? यह बात निश्चय करके बताओ॥१०७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2354,11 +2353,6 @@ _युधिष्ठिर बोले—_ तात यक्ष! सुन�
 योऽग्निहोत्रपरो दान्तः स ब्राह्मण इति स्मृतः ॥ १११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2373,17 +2367,17 @@ _युधिष्ठिर बोले—_ तात यक्ष! सुन�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियवचनवादी किं लभते  
 विमृशितकार्यकरः किं लभते ।  
 बहुमित्रकरः किं लभते  
 धर्मरतः किं लभते कथय ॥ ११२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2402,17 +2396,17 @@ _यक्षने पूछा—_ बताओ; मधुर वचन बो
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियवचनवादी प्रियो भवति  
 विमृशितकार्यकरोऽधिकं जयति ।  
 बहुमित्रकरः सुखं वसते  
 यश्च धर्मरतः स गतिं लभते ॥ ११३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2431,15 +2425,15 @@ _युधिष्ठिर बोले—_ मधुर वचन बोल�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को मोदते किमाश्चर्यं कः पन्थाः का च वार्तिका।  
 ममैतांश्चतुरः प्रश्नान् कथयित्वा जलं पिब ॥ ११४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2454,6 +2448,11 @@ _युधिष्ठिर बोले—_ मधुर वचन बोल�
 
 _यक्षने पूछा—_ सुखी कौन है? आश्चर्य क्या है? मार्ग क्या है और वार्ता क्या है? मेरे इन चार प्रश्नोंका उत्तर देकर जल पीओ॥११४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2528,11 +2527,6 @@ _युधिष्ठिर बोले—_ जलचर यक्ष! जि�
 भूतानि कालः पचतीति वार्ता ॥ ११८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2549,15 +2543,15 @@ _युधिष्ठिर बोले—_ जलचर यक्ष! जि�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याख्याता मे त्वया प्रश्ना याथातथ्यं परंतप।  
 पुरुषं त्विदानीं व्याख्याहि यश्च सर्वधनी नरः ॥ ११९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2572,6 +2566,11 @@ _युधिष्ठिर बोले—_ जलचर यक्ष! जि�
 
 _यक्षने पूछा—_ परंतप! तुमने मेरे सब प्रश्नोंके उत्तर ठीक-ठीक दे दिये, अब तुम पुरुषकी भी व्याख्या कर दो और यह बताओ कि सबसे बड़ा धनी कौन है?॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2620,11 +2619,6 @@ _युधिष्ठिर बोले—_ जिस व्यक्तिक
 सुप्रसन्नः सदा योगी स वै सर्वधनीश्वरः॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2639,15 +2633,15 @@ _युधिष्ठिर बोले—_ जिस व्यक्तिक
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याख्यातः पुरुषो राजन् यश्च सर्वधनी नरः।  
 तस्मात् त्वमेकं भ्रातॄणां यमिच्छसि स जीवतु ॥ १२२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2664,15 +2658,15 @@ _यक्षने कहा—_ राजन्! जो सबसे बढ़
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्यामो य एष रक्ताक्षो बृहच्छाल इवोत्थितः।  
 व्यूढोरस्को महाबाहुर्नकुलो यक्ष जीवतु ॥ १२३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2687,6 +2681,11 @@ _यक्षने कहा—_ राजन्! जो सबसे बढ़
 
 _युधिष्ठिर बोले—_ यक्ष! यह जो श्यामवर्ण, अरुणनयन, सुविशाल शालवृक्षके समान ऊँचा और चौड़ी छातीवाला महाबाहु नकुल है, वही जीवित हो जाय॥१२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2755,11 +2754,6 @@ _यक्षने कहा—_ राजन्! यह तुम्हार�
 अर्जुनं तमपाहाय नकुलं जीवमिच्छसि ॥ १२७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2772,6 +2766,11 @@ _यक्षने कहा—_ राजन्! यह तुम्हार�
 
 जिसके बाहुबलका सभी पाण्डवोंको पूरा भरोसा है, उस अर्जुनको भी छोड़कर तुम्हें नकुलको जिला देनेकी इच्छा क्यों है?॥१२७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2860,11 +2859,6 @@ _युधिष्ठिर बोले—_ यदि धर्मका न�
 मातृभ्यां सममिच्छामि नकुलो यक्ष जीवतु ॥ १३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यक्ष उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2879,15 +2873,15 @@ _युधिष्ठिर बोले—_ यदि धर्मका न�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यक्ष उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तेऽर्थाच्च कामाच्च आनृशंस्यं परं मतम्।  
 तस्मात् ते भ्रातरः सर्वे जीवन्तु भरतर्षभ ॥ १३३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत आरणेयपर्वमें यक्षप्रश्नविषयक तीन सौ तेरहवाँ अध्याय पूरा हुआ॥३१३॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2906,6 +2900,11 @@ _यक्षने कहा—_ भरतश्रेष्ठ! तुमन�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते वनपर्वणि आरणेयपर्वणि यक्षप्रश्नने त्रयोदशाधिकत्रिशततमोऽध्यायः ॥ ३१३ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत आरणेयपर्वमें यक्षप्रश्नविषयक तीन सौ तेरहवाँ अध्याय पूरा हुआ॥३१३॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

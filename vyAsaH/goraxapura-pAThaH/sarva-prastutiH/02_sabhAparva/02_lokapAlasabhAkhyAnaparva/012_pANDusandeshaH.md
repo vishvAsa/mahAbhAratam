@@ -4,18 +4,13 @@ title_full = "012 राजा हरिश्चन्द्रका माह
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-012p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-012p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-012p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-012p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-012p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-012p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-012p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-012p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "012 राजा हरिश्चन्द्रका माह
 
 राजा हरिश्चन्द्रका माहात्म्य तथा युधिष्ठिरके प्रति राजा पाण्डुका संदेश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -179,11 +179,6 @@ _युधिष्ठिर बोले—_ वक्ताओंमें श
 त्वत्तः श्रोतुं सर्वमिदं परं कौतूहलं हि मे ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -198,6 +193,11 @@ _युधिष्ठिर बोले—_ वक्ताओंमें श
 
 विप्रवर! आपने पितृलोकमें जाकर मेरे पिता महाभाग पाण्डुको भी देखा था, किस प्रकार वे आपसे मिले थे? भगवन्! उन्होंने आपसे क्या कहा? यह मुझे बताइये। सुव्रत! आपसे यह सब कुछ सुननेके लिये मेरे मनमें बड़ी उत्कण्ठा है॥८-९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -679,11 +679,6 @@ _नारदजीने कहा—_ शक्तिशाली राजे
 आपृच्छे त्वां गमिष्यामि दाशार्हनगरीं प्रति ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -697,6 +692,11 @@ _नारदजीने कहा—_ शक्तिशाली राजे
 
 संसारमें तुम्हारा अभ्युदय हो, तुम आनन्दित रहो और धनसे ब्राह्मणोंको तृप्त करो। तुमने मुझसे जो कुछ पूछा था, वह सब मैंने विस्तारपूर्वक बता दिया। अब मैं यहाँसे द्वारका जाऊँगा, इसके लिये तुमसे अनुमति चाहता हूँ॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,11 +725,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 राजसूयं क्रतुश्रेष्ठं चिन्तयामास पार्थिवः ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें पाण्डु-संदेश-कथनविषयक बारहवाँ अध्याय पूरा हुआ॥१२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -748,8 +743,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते सभापर्वणि लोकपालसभाख्यान पर्वणि पाण्डुसंदेशकथने द्वादशोऽध्यायः ॥ १२ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत लोकपालसभाख्यानपर्वमें पाण्डु-संदेश-कथनविषयक बारहवाँ अध्याय पूरा हुआ॥१२॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ३ श्लोक मिलाकर कुल ३७ श्लोक हैं)
 </details>
 </details>
+

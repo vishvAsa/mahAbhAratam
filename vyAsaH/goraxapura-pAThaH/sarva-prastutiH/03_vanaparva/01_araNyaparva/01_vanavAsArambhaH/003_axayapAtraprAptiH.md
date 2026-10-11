@@ -4,28 +4,23 @@ title_full = "003 युधिष्ठिरके द्वारा अन्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p01.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p02.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p03.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p04.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p05.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p05.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p06.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p06.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p07.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p07.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p08.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p08.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p09.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-003-p09.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -39,6 +34,11 @@ title_full = "003 युधिष्ठिरके द्वारा अन्
 
 युधिष्ठिरके द्वारा अन्नके लिये भगवान् सूर्यकी उपासना और उनसे अक्षयपात्रकी प्राप्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -87,11 +87,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कथमत्र मया कार्यं तद् ब्रूहि भगवन् मम ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -106,15 +101,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुहूर्तमिव स ध्यात्वा धर्मेणान्विष्य तां गतिम्।  
 युधिष्ठिरमुवाचेदं धौम्यो धर्मभृतां वरः ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धौम्य उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -129,6 +124,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! धर्मात्माओंमें श्रेष्ठ धौम्य मुनिने युधिष्ठिरका प्रश्न सुनकर दो घड़ीतक ध्यान-सा लगाया और धर्मपूर्वक उस उपायका अन्वेषण करनेके पश्चात् उनसे इस प्रकार कहा॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धौम्य उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,11 +261,6 @@ _धौम्य बोले—_ राजन्! सृष्टिके प�
 तप आस्थाय धर्मेण द्विजातीन् भर भारत ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -280,15 +275,15 @@ _धौम्य बोले—_ राजन्! सृष्टिके प�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं कुरूणामृषभः स तु राजा युधिष्ठिरः।  
 विप्रार्थमाराधितवान् सूर्यमद्भुतदर्शनम् ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -303,6 +298,11 @@ _धौम्य बोले—_ राजन्! सृष्टिके प�
 
 _जनमेजयने पूछा—_ भगवन्! पुरुषश्रेष्ठ राजा युधिष्ठिरने ब्राह्मणोंके भरण-पोषणके लिये, जिनका दर्शन अत्यन्त अद्‌भुत है, उन भगवान् सूर्यकी आराधना किस प्रकार की?॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -331,11 +331,6 @@ _वैशम्पायनजीने कहा—_ राजेन्द्�
 नामाष्टशतमाख्यातं तच्छृणुष्व महामते ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धौम्य उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -348,6 +343,11 @@ _वैशम्पायनजीने कहा—_ राजेन्द्�
 
 महामते! धौम्यने जिस प्रकार महात्मा युधिष्ठिरको पहले भगवान् सूर्यके एक सौ आठ नाम बताये थे, उनका वर्णन करता हूँ, सुनो॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धौम्य उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -474,11 +474,6 @@ _धौम्य बोले—_ १ सूर्य, २ अर्यमा, �
 ल्लभेत कामान् मनसा यथेप्सितान् ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -493,6 +488,11 @@ _धौम्य बोले—_ १ सूर्य, २ अर्यमा, �
 
 जो मानव स्नान आदि करके पवित्र, शुद्धचित्त एवं एकाग्र हो देवेश्वर ‘भगवान्’ सूर्यके इस नामात्मक स्तोत्रका कीर्तन करता है वह शोकरूपी दावानलसे युक्त दुस्तर संसारसागरसे मुक्त हो मनचाही वस्तुओंको प्राप्त कर लेता है॥३१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -529,11 +529,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 शुचिः प्रयतवाग् भूत्वा स्तोत्रमारब्धवांस्ततः ॥ ३५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -546,6 +541,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 गंगाजलका आचमन करके पवित्र हो वाणीको वशमें रखकर तथा प्राणायामपूर्वक स्थित रहकर उन्होंने पूर्वोक्त अष्टोत्तरशतनामात्मक स्तोत्रका जप किया॥३५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1102,11 +1102,6 @@ _युधिष्ठिर बोले—_ सूर्यदेव! आप �
 ताश्च सर्वा नमस्यामि पान्तु मां शरणागतम् ॥ ६९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1121,16 +1116,16 @@ _युधिष्ठिर बोले—_ सूर्यदेव! आप �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स्तुतो महाराज भास्करो लोकभावनः।  
 ततो दिवाकरः प्रीतो दर्शयामास पाण्डवम्।  
 दीप्यमानः स्ववपुषा ज्वलन्निव हुताशनः ॥ ७० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विवस्वानुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1146,6 +1141,11 @@ _युधिष्ठिर बोले—_ सूर्यदेव! आप �
 
 _वैशम्पायनजी कहते हैं—_ महाराज! जब युधिष्ठिरने लोकभावन भगवान् भास्करका इस प्रकार स्तवन किया, तब दिवाकरने प्रसन्न होकर उन पाण्डुकुमारको दर्शन दिया। उस समय उनके श्रीअंग प्रज्वलित अग्निके समान उद्‌भासित हो रहे थे॥७०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विवस्वानुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1197,11 +1197,6 @@ _भगवान् सूर्य बोले—_ धर्मराज! त�
 इतश्चतुर्दशे वर्षे भूयो राज्यमवाप्स्यसि।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1213,6 +1208,11 @@ _भगवान् सूर्य बोले—_ धर्मराज! त�
 
 आजसे चौदहवें वर्षमें तुम अपना राज्य पुनः प्राप्त कर लोगे॥७३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1327,11 +1327,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 मुच्यते सर्वपापेभ्यः सूर्यलोकं स गच्छति ॥ ७९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1344,6 +1339,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 जो इसका अनुष्ठान करता है वह सदा संग्राममें विजयी होता है, बहुत धन पाता है, सब पापोंसे मुक्त होता और अन्तमें सूर्यलोकको जाता है॥७९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1460,11 +1460,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 द्विजसङ्घैः परिवृताः प्रययुः काम्यकं वनम् ॥ ८६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें काम्यकवनप्रवेशविषयक तीसरा अध्याय पूरा हुआ॥३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1481,6 +1476,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते वनपर्वणि अरण्यपर्वणि काम्यकवनप्रवेशे तृतीयोऽध्यायः ॥ ३ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें काम्यकवनप्रवेशविषयक तीसरा अध्याय पूरा हुआ॥३॥
 </details>
 </details>
 

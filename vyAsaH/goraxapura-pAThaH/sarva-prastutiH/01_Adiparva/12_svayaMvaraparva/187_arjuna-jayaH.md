@@ -4,16 +4,11 @@ title_full = "187 अर्जुनका लक्ष्यवेध करक
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-187-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-187-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-187-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-187-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-187-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-187-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "187 अर्जुनका लक्ष्यवेध करक
 
 अर्जुनका लक्ष्यवेध करके द्रौपदीको प्राप्त करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,11 +139,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 प्रस्थितो धनुरायन्तुं वार्यतां साधु मा गमत् ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मणा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -156,6 +151,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘यदि यह अभिमान, हर्ष अथवा ब्राह्मणसुलभ चंचलताके कारण धनुषपर डोरी चढ़ानेके लिये आगे बढ़ा है तो इसे रोक देना चाहिये; अच्छा तो यही होगा कि यह जाय ही नहीं’॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मणा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -528,11 +528,6 @@ _ब्राह्मण बोले—_ (भाइयो!) हमारी �
 पत्न्या तया चाप्यनुगम्यमानः ॥ २८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें लक्ष्यछेदनविषयक एक सौ सतासीवाँ अध्याय पूरा हुआ॥१८७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -553,8 +548,14 @@ _ब्राह्मण बोले—_ (भाइयो!) हमारी �
 इति श्रीमहाभारते आदिपर्वणि स्वयंवरपर्वणि लक्ष्यच्छेदने सप्ताशीत्यधिकशततमोऽध्यायः ॥ १८७ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें लक्ष्यछेदनविषयक एक सौ सतासीवाँ अध्याय पूरा हुआ॥१८७॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ५ श्लोक मिलाकर कुल ३३ श्लोक हैं)
 </details>
 </details>
+

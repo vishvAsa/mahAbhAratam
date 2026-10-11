@@ -4,16 +4,11 @@ title_full = "158 ब्राह्मण-कन्याके त्याग
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-158-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-158-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-158-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-158-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-158-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-158-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "158 ब्राह्मण-कन्याके त्याग
 
 ब्राह्मण-कन्याके त्याग और विवेकपूर्ण वचन तथा कुन्तीका उन सबके पास जाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,11 +361,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 त्वया दत्तेन तोयेन भविष्यन्ति हिताय वै ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -378,6 +373,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘यद्यपि ऐसे दानसे देवता और पितर प्रसन्न नहीं होते, ऐसा मैंने सुन रखा है, तथापि आपके द्वारा दी हुई जलांजलिसे वे प्रसन्न होकर अवश्य हमारा हित-साधन करनेवाले होंगे’॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -470,11 +470,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 गतासूनमृतेनेव जीवयन्तीदमब्रवीत् ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें ब्राह्मणकी कन्या और पुत्रके वचन-सम्बन्धी एक सौ अट्ठावनवाँ अध्याय पूरा हुआ॥१५८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -492,4 +487,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि बकवधपर्वणि ब्राह्मणकन्यापुत्रवाक्ये अष्टपञ्चशदधिकशततमोऽध्यायः ॥ १५८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें ब्राह्मणकी कन्या और पुत्रके वचन-सम्बन्धी एक सौ अट्ठावनवाँ अध्याय पूरा हुआ॥१५८॥
 </details>
+</details>
+

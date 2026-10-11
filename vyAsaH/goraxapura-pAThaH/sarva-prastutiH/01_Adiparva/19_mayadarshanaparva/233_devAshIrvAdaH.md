@@ -4,14 +4,9 @@ title_full = "233 इन्द्रदेवका श्रीकृष्ण 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-233-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-233-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-233-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मन्दपाल उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-233-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "233 इन्द्रदेवका श्रीकृष्ण 
 
 इन्द्रदेवका श्रीकृष्ण और अर्जुनको वरदान तथा श्रीकृष्ण, अर्जुन और मयासुरका अग्निसे विदा लेकर एक साथ यमुनातटपर बैठना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मन्दपाल उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,11 +73,6 @@ _मन्दपाल बोले—_ मैंने अग्निदेव
 ऋषीन् वेद हुताशोऽपि ब्रह्म तद् विदितं च वः॥३॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -90,6 +85,11 @@ _मन्दपाल बोले—_ मैंने अग्निदेव
 
 बच्चो! तुम्हें मेरे प्रति अपने हृदयमें संताप नहीं करना चाहिये। तुमलोग ऋषि हो, यह बात अग्निदेव भी जानते हैं; क्योंकि तुम्हें ब्रह्मतत्त्वका बोध हो चुका है॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -364,11 +364,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 रमणीये नदीकूले सहिताः समुपाविशन् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारतमें व्यासनिर्मित एक लाख श्लोकोंकी संहिताके अंतर्गत आदिपर्वके मयदर्शनपर्वमें इन्द्रवरदानविषयक दो सौ तैंतीसवाँ अध्याय पूरा हुआ॥२३३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -389,8 +384,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते शतसाहस्र्यां संहितायां वैयासिक्यामादिपर्वणि मयदर्शनपर्वणि वरप्रदाने त्रयस्त्रिंशदधिकद्विशततमोऽध्यायः॥२३३॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारतमें व्यासनिर्मित एक लाख श्लोकोंकी संहिताके अंतर्गत आदिपर्वके मयदर्शनपर्वमें इन्द्रवरदानविषयक दो सौ तैंतीसवाँ अध्याय पूरा हुआ॥२३३॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (आदिपर्व सम्पूर्णम्)
 </details>
 </details>
+

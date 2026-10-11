@@ -4,14 +4,9 @@ title_full = "025 महर्षि मार्कण्डेयका पा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-025p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-025p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-025p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-025p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "025 महर्षि मार्कण्डेयका पा
 
 महर्षि मार्कण्डेयका पाण्डवोंको धर्मका आदेश देकर उत्तर दिशाकी ओर प्रस्थान
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,11 +163,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 स्तपस्विनां पश्यतां मामुदीक्ष्य ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मार्कण्डेय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -182,6 +177,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 तब धर्मराज युधिष्ठिरने उदासीन-से होकर पूछा—‘मुने! ये सब तपस्वी तो मेरी अवस्था देखकर कुछ संकुचित-से हो रहे हैं, परंतु क्या कारण है कि आप इन सब महात्माओंके सामने मेरी ओर देखकर प्रसन्नतापूर्वक यों मुसकराते-से दिखायी देते हैं?’॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मार्कण्डेय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,11 +432,6 @@ _मार्कण्डेयजी बोले—_ तात! न तो म
 मादास्यसे पार्थिव कौरवेभ्यः ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -453,17 +448,17 @@ _मार्कण्डेयजी बोले—_ तात! न तो म
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवमुक्त्वा वचनं महर्षि-  
 स्तपस्विमध्ये सहितं सुहृद्भिः ।  
 आमन्त्र्य धौम्यं सहितांश्च पार्थां-  
 स्ततः प्रतस्थे दिशमुत्तरां सः ॥ १९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्वैतवनप्रवेशविषयक पचीसवाँ अध्याय पूरा हुआ॥२५॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -485,4 +480,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि द्वैतवनप्रवेशे पञ्चविंशोऽध्यायः ॥ २५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्वैतवनप्रवेशविषयक पचीसवाँ अध्याय पूरा हुआ॥२५॥
 </details>
+</details>
+

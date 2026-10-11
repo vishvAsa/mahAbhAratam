@@ -4,14 +4,9 @@ title_full = "029 भीमसेनका पूर्व दिशाको �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-029-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-029-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-029-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-029-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "029 भीमसेनका पूर्व दिशाको �
 
 भीमसेनका पूर्व दिशाको जीतनेके लिये प्रस्थान और विभिन्न देशोंपर विजय पाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -303,11 +303,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सत्कृतः शिशुपालेन ययौ सबलवाहनः ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें भीमदिग्विजयविषयक उन्तीसवाँ अध्याय पूरा हुआ॥२९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -325,4 +320,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि दिग्विजयपर्वणि भीमदिग्विजये एकोनत्रिंशोऽध्यायः ॥ २९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें भीमदिग्विजयविषयक उन्तीसवाँ अध्याय पूरा हुआ॥२९॥
 </details>
+</details>
+

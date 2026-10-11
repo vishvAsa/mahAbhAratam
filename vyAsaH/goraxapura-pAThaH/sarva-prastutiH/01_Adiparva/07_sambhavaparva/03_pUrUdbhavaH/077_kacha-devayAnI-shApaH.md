@@ -4,12 +4,7 @@ title_full = "077 देवयानीका कचसे पाणिग्र
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-077.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-077.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "077 देवयानीका कचसे पाणिग्र
 
 देवयानीका कचसे पाणिग्रहणके लिये अनुरोध, कचकी अस्वीकृति तथा दोनोंका एक-दूसरेको शाप देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -95,11 +95,6 @@ _वैशम्पायनजी कहते हैं—_ जब कचक�
 गृहाण पाणिं विधिवन्मम मन्त्रपुरस्कृतम् ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कच उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -112,6 +107,11 @@ _वैशम्पायनजी कहते हैं—_ जब कचक�
 
 ‘अब आप व्रत समाप्त करके अपनी अभीष्ट विद्या प्राप्त कर चुके हैं। मैं आपसे प्रेम करती हूँ, आप मुझे स्वीकार करें; वैदिक मन्त्रोंके उच्चारणपूर्वक विधिवत् मेरा पाणिग्रहण कीजिये’॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कच उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,11 +160,6 @@ _कचने कहा—_ निर्दोष अंगोंवाली �
 देवयानि तथैव त्वं नैवं मां वक्तुमर्हसि ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -177,6 +172,11 @@ _कचने कहा—_ निर्दोष अंगोंवाली �
 
 देवयानी! जैसे मेरे गुरुदेव तुम्हारे पिता शुक्राचार्य सदा मेरे माननीय हैं, उसी प्रकार तुम हो; अतः तुम्हें मुझसे ऐसी बात नहीं कहनी चाहिये॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,11 +209,6 @@ _देवयानी बोली—_ द्विजोत्तम! आप �
 न मामर्हसि धर्मज्ञ त्यक्तुं भक्तामनागसम् ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कच उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -226,6 +221,11 @@ _देवयानी बोली—_ द्विजोत्तम! आप �
 
 सौहार्द और अनुरागके अवसरपर मेरी उत्तम भक्तिका परिचय आपको मिल चुका है। आप धर्मके ज्ञाता हैं। मैं आपके प्रति भक्ति रखनेवाली निरपराध अबला हूँ। आपको मेरा त्याग करना उचित नहीं है॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कच उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -263,11 +263,6 @@ _कचने कहा—_ उत्तम व्रतका आचरण क�
 अप्रमत्तोत्थिता नित्यमाराधय गुरुं मम ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -283,15 +278,15 @@ _कचने कहा—_ उत्तम व्रतका आचरण क�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मां धर्मकामार्थे प्रत्याख्यास्यसि याचितः।  
 ततः कच न ते विद्या सिद्धिमेषा गमिष्यति ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कच उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -306,6 +301,11 @@ _कचने कहा—_ उत्तम व्रतका आचरण क�
 
 _देवयानी बोली—_ कच! मैंने धर्मानुकूल कामके लिये आपसे प्रार्थना की है। यदि आप मुझे ठुकरा देंगे, तो आपकी यह संजीवनी विद्या सिद्ध नहीं हो सकेगी॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कच उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,11 +358,6 @@ _कचने कहा—_ देवयानी! गुरुपुत्र�
 अध्यापयिष्यामि तु यं तस्य विद्या फलिष्यति ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -375,6 +370,11 @@ _कचने कहा—_ देवयानी! गुरुपुत्र�
 
 तुमने जो मुझे यह कहा कि तुम्हारी विद्या सफल नहीं होगी, सो ठीक है; किंतु मैं जिसे यह विद्या पढ़ा दूँगा, उसकी विद्या तो सफल होगी ही॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,11 +403,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 बृहस्पतिं सभाज्येदं कचं वचनमब्रुवन् ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -422,15 +417,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवा ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् त्वयास्मद्धितं कर्म कृतं वै परमाद्भुतम्।  
 न ते यशः प्रणशिता भागभाक् च भविष्यसि ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें ययात्युपाख्यानविषयक सतहत्तरवाँ अध्याय पूरा हुआ॥७७॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -450,4 +445,10 @@ _देवता बोले—_ ब्रह्मन्! तुमने ह�
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि ययात्युपाख्याने सप्तसप्ततितमोऽध्यायः ॥ ७७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें ययात्युपाख्यानविषयक सतहत्तरवाँ अध्याय पूरा हुआ॥७७॥
 </details>
+</details>
+

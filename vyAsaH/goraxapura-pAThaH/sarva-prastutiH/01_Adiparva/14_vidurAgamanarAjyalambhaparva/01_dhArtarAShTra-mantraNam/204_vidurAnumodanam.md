@@ -4,12 +4,7 @@ title_full = "204 विदुरजीकी सम्मति—द्रो�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-204.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-204.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "204 विदुरजीकी सम्मति—द्रो�
 
 विदुरजीकी सम्मति—द्रोण और भीष्मके वचनोंका ही समर्थन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -549,11 +549,6 @@ _विदुरजी बोले—_ राजन्! आपके (हित
 दुर्योधनापराधेन प्रजेयं वै विनङ्‌क्ष्यति ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें विदुरवाक्यविषयक दो सौ चौथा अध्याय पूरा हुआ॥२०४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -571,4 +566,10 @@ _विदुरजी बोले—_ राजन्! आपके (हित
 
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि विदुरवाक्ये चतुरधिकद्विशततमोऽध्यायः ॥ २०४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमन-राज्यलम्भपर्वमें विदुरवाक्यविषयक दो सौ चौथा अध्याय पूरा हुआ॥२०४॥
 </details>
+</details>
+

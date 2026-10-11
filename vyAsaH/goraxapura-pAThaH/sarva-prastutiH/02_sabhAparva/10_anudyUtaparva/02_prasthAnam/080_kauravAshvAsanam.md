@@ -4,24 +4,19 @@ title_full = "080 वनगमनके समय पाण्डवोंकी
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p01.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p02.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p03.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p04.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p05.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p05.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p06.mp3"></div>
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p06.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p07.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="वासन्ती" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-080-p07.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -37,15 +32,15 @@ title_full = "080 वनगमनके समय पाण्डवोंकी
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमागतमथो राजा विदुरं दीर्घदर्शिनम्।  
 साशङ्क इव पप्रच्छ धृतराष्ट्रोऽम्बिकासुतः ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -60,6 +55,11 @@ title_full = "080 वनगमनके समय पाण्डवोंकी
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! दूरदर्शी विदुरजीके आनेपर अम्बिकानन्दन राजा धृतराष्ट्रने शंकित-सा होकर पूछा॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,11 +88,6 @@ _धृतराष्ट्र बोले—_ विदुर! कुन्�
 श्रोतुमिच्छाम्यहं सर्वं तेषां शंस विचेष्टितम् ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -105,6 +100,11 @@ _धृतराष्ट्र बोले—_ विदुर! कुन्�
 
 पुरोहित धौम्य तथा यशस्विनी द्रौपदी भी कैसे जा रही है? मैं उन सबकी पृथक्-पृथक् चेष्टाओंको सुनना चाहता हूँ, तुम मुझसे कहो॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -193,11 +193,6 @@ _विदुर बोले—_ कुन्तीनन्दन युधि
 गायन् गच्छति मार्गेषु कुशानादाय पाणिना ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -212,15 +207,15 @@ _विदुर बोले—_ कुन्तीनन्दन युधि
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विविधानीह रूपाणि कृत्वा गच्छन्ति पाण्डवाः।  
 तन्ममाचक्ष्व विदुर कस्मादेवं व्रजन्ति ते ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -235,6 +230,11 @@ _विदुर बोले—_ कुन्तीनन्दन युधि
 
 _धृतराष्ट्रने पूछा—_ विदुर! पाण्डवलोग यहाँ जो भिन्न-भिन्न प्रकारकी चेष्टाएँ करते हुए यात्रा कर रहे हैं, उसका क्या रहस्य है, यह बताओ। वे क्यों इस प्रकार जा रहे हैं?॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,11 +585,6 @@ _विदुर बोले—_ महाराज! यद्यपि आप�
 भरतानामभावाय राजन् दुर्मन्त्रिते तव ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -602,6 +597,11 @@ _विदुर बोले—_ महाराज! यद्यपि आप�
 
 राजन्! इस प्रकार आपकी दुर्मन्त्रणाके कारण ऐसे-ऐसे अपशकुनरूप दुर्दम्य एवं महान् उत्पात प्रकट हुए हैं, जो भरतवंशियोंके विनाशकी सूचना दे रहे हैं॥३१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -654,11 +654,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ब्राह्मीं श्रियं सुविपुलां बिभ्रद् देवर्षिसत्तमः ॥ ३५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -673,15 +668,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमब्रुवन् नागरिकाः किं वै जानपदा जनाः।  
 मह्यं तत्त्वेन चाचक्ष्व क्षत्तः सर्वमशेषतः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -696,6 +691,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _धृतराष्ट्रने पूछा—_ विदुर! जब पाण्डव वनको जाने लगे, उस समय नगर और देशके लोग क्या कह रहे थे, ये सब बातें मुझे पूर्णरूपसे ठीक-ठीक बताओ।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -806,11 +806,6 @@ _विदुर बोले—_ महाराज! ब्राह्मण, 
 कुर्वाणाश्च कथास्तत्र ब्राह्मणाः पार्थिवं प्रति॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मणा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -825,16 +820,16 @@ _विदुर बोले—_ महाराज! ब्राह्मण, 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मणा ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं नु राजा धर्मात्मा वने वसति निर्जने।  
 तस्यानुजाश्च ते नित्यं कृष्णा च द्रुपदात्मजा॥  
 सुखार्हापि च दुःखार्ता कथं वसति सा वने॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -850,6 +845,11 @@ _विदुर बोले—_ महाराज! ब्राह्मण, 
 
 _ब्राह्मणोंने कहा—_ हाय! धर्मात्मा राजा युधिष्ठिर और उनके भाई निर्जन वनमें कैसे रहेंगे? तथा द्रुपदकुमारी कृष्णा तो सुख भोगनेके ही योग्य है, वह दुःखसे आतुर हो वनमें कैसे रहेगी।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -920,11 +920,6 @@ _विदुरजी कहते हैं—_ राजन्! इस प्
 गते पार्थे वनं दुःखाद्‌धृतराज्ये सहानुजैः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -939,6 +934,11 @@ _विदुरजी कहते हैं—_ राजन्! इस प्
 
 जैसे त्रेतायुगमें राज्यका अपहरण हो जानेपर लक्ष्मणसहित श्रीरामचन्द्रजीके वनमें चले जानेके बाद अयोध्या नगरी दुःखसे अत्यन्त आतुर हो बड़ी दुरवस्थाको पहुँच गयी थी, वही दशा राज्यके अपहरण हो जानेपर भाइयोंसहित युधिष्ठिरके वनमें चले जानेसे आज हमारे इस हस्तिनापुरकी हो गयी है।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1256,11 +1256,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सशस्त्ररथपादाता भोगवन्तश्च पुत्रकाः ॥ ५२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें विदुर, धृतराष्ट्र और द्रोणके वचनविषयक अस्सीवाँ अध्याय पूरा हुआ॥८०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1280,8 +1275,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते सभापर्वणि अनुद्यूतपर्वणि विदुरधृतराष्ट्रद्रोणवाक्ये अशीतितमोऽध्यायः ॥ ८० ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें विदुर, धृतराष्ट्र और द्रोणके वचनविषयक अस्सीवाँ अध्याय पूरा हुआ॥८०॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके १५ श्लोक मिलाकर कुल ६७ श्लोक हैं)
 </details>
 </details>
+

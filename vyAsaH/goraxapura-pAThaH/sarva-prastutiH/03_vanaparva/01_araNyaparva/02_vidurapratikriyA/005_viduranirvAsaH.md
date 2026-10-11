@@ -4,14 +4,9 @@ title_full = "005 पाण्डवोंका काम्यकवनमे�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-005p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-005p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-005p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-005p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "005 पाण्डवोंका काम्यकवनमे�
 
 पाण्डवोंका काम्यकवनमें प्रवेश और विदुरजीका वहाँ जाकर उनसे मिलना और बातचीत करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -207,11 +207,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 राज्यप्राप्तिः संशयिता भवेन्नः ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -226,6 +221,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘भीमसेन! आओ, कहकर यदि कोई मुझे (युद्ध या द्यूतके लिये) बुलावे तो मैं पीछे नहीं हट सकता। ऐसी दशामें यदि हम गाण्डीव धनुष किसी तरह जूएमें हार गये तो हमारी राज्य-प्राप्ति संशयमें पड़ जायगी’॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -260,11 +260,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 यथावृत्तो धृतराष्ट्रोऽम्बिकेयः ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -279,6 +274,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 विदुरजीके आदर-सत्कार पानेपर नरश्रेष्ठ पाण्डवोंने उनसे वनमें आनेका कारण पूछा। उनके पूछनेपर विदुरने भी अम्बिकानन्दन राजा धृतराष्ट्रने जैसा बर्ताव किया था, वह सब विस्तारपूर्वक कह सुनाया॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -505,11 +505,6 @@ _विदुरजी बोले—_ अजातशत्रो! राज�
 एवंवृत्तिर्वर्धते भूमिपालः ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -526,17 +521,17 @@ _विदुरजी बोले—_ अजातशत्रो! राज�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं करिष्यामि यथा ब्रवीषि  
 परां बुद्धिमुपगम्याप्रमत्तः ।  
 यच्चाप्यन्यद्देशकालोपपन्नं  
 तद् वै वाच्यं तत् करिष्यामि कृत्स्नम् ॥ २२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें विदुरनिर्वासनविषयक पाँचवाँ अध्याय पूरा हुआ॥५॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -558,4 +553,10 @@ _युधिष्ठिर बोले—_ विदुरजी! मैं �
 
 इति श्रीमहाभारते वनपर्वणि अरण्यपर्वणि विदुरनिर्वासे पञ्चमोऽध्यायः ॥ ५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें विदुरनिर्वासनविषयक पाँचवाँ अध्याय पूरा हुआ॥५॥
 </details>
+</details>
+

@@ -4,18 +4,13 @@ title_full = "125 ऋषियोंका कुन्ती और पाण�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-125-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-125-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-125-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-125-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-125-p03.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-125-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-125-p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-125-p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,15 +26,15 @@ title_full = "125 ऋषियोंका कुन्ती और पाण�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डोरुपरमं दृष्ट्वा देवकल्पा महर्षयः।  
 ततो मन्त्रविदः सर्वे मन्त्रयांचक्रिरे मिथः ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-तापसा ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -54,6 +49,11 @@ title_full = "125 ऋषियोंका कुन्ती और पाण�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! राजा पाण्डुकी मृत्यु हुई देख वहाँ रहनेवाले, देवताओंके समान तेजस्वी सम्पूर्ण मन्त्रज्ञ महर्षियोंने आपसमें सलाह की॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+तापसा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -102,11 +102,6 @@ _तपस्वी बोले—_ महान् यशस्वी मह�
 स्वराष्ट्रं गृह्य गच्छामो धर्म एष हि नः स्मृतः॥४॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -119,6 +114,11 @@ _तपस्वी बोले—_ महान् यशस्वी मह�
 
 उनके इन पुत्रोंको, पाण्डु और माद्रीके शरीरोंकी अस्थियोंको तथा उन महात्मा नरेशकी महारानी कुन्तीको लेकर हमलोग उनकी राजधानीमें चलें। इस समय हमारे लिये यही धर्म प्रतीत होता है॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -657,11 +657,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 लभतां सर्वधर्मज्ञः पाण्डुः कुरुकुलोद्वहः ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -674,6 +669,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 ‘सपिण्डीकरणपर्यन्त प्रेतकार्य निवृत्त हो जानेपर कुरुवंशके श्रेष्ठ पुरुष महायशस्वी एवं सम्पूर्ण धर्मोंके ज्ञाता पाण्डुको पितृमेध (यज्ञ)-का भी लाभ मिलना चाहिये’॥३३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -703,11 +703,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 (कौरवाः सहसोत्पत्य साधु साध्विति विस्मिताः॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें ऋषिसंवादविषयक एक सौ पचीसवाँ अध्याय पूरा हुआ॥१२५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -727,8 +722,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि ऋषिसंवादे पञ्चविंशत्यधिकशततमोऽध्यायः ॥ १२५ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें ऋषिसंवादविषयक एक सौ पचीसवाँ अध्याय पूरा हुआ॥१२५॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ४ श्लोक मिलाकर कुल ३९ श्लोक हैं)
 </details>
 </details>
+

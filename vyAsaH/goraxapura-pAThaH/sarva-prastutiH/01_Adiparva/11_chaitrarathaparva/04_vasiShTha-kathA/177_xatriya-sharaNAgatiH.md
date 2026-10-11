@@ -4,16 +4,11 @@ title_full = "177 शक्तिपुत्र पराशरका जन्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-177-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-177-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-177-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-177-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-177-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-177-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "177 शक्तिपुत्र पराशरका जन्
 
 शक्तिपुत्र पराशरका जन्म और पिताकी मृत्युका हाल सुनकर कुपित हुए पराशरको शान्त करनेके लिये वसिष्ठजीका उन्हें और्वोपाख्यान सुनाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,11 +216,6 @@ _गन्धर्व कहता है—_ अर्जुन! तदनन�
 वसिष्ठो वारयामास हेतुना येन तच्छृणु।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -234,6 +229,11 @@ _गन्धर्व कहता है—_ अर्जुन! तदनन�
 
 उनके मनका ऐसा निश्चय जान ब्रह्मवेत्ताओंमें श्रेष्ठ महातपस्वी, महात्मा एवं तात्त्विक बुद्धिवाले मित्रावरुणनन्दन वसिष्ठजीने पराशरको ऐसा करनेसे रोक दिया। जिस हेतु और युक्तिसे वे उन्हें रोकनेमें सफल हुए, वह (बताता हूँ,) सुनिये॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,11 +456,6 @@ _वसिष्ठजीने (पराशरसे) कहा—_ वत्�
 पुनर्दृष्टिप्रदानेन राज्ञः संत्रातुमर्हसि ॥ २९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें और्वोपाख्यानविषयक एक सौ सतहत्तरवाँ अध्याय पूरा हुआ॥१७७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -478,4 +473,10 @@ _वसिष्ठजीने (पराशरसे) कहा—_ वत्�
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वण्यौर्वोपाख्याने सप्तसप्तत्यधिकशततमोऽध्यायः ॥ १७७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें और्वोपाख्यानविषयक एक सौ सतहत्तरवाँ अध्याय पूरा हुआ॥१७७॥
 </details>
+</details>
+

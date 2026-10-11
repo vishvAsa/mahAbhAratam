@@ -4,14 +4,9 @@ title_full = "034 युधिष्ठिरके यज्ञमें सब
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-034p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-034p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-034p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-034p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "034 युधिष्ठिरके यज्ञमें सब
 
 युधिष्ठिरके यज्ञमें सब देशके राजाओं, कौरवों तथा यादवोंका आगमन और उन सबके भोजन-विश्राम आदिकी सुव्यवस्था
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -337,11 +337,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भ्राजते स्म तदा राजन् नाकपृष्ठं यथामरैः ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयपर्वमें निमन्त्रित राजाओंका आगमनविषयक चौंतीसवाँ अध्याय पूरा हुआ॥३४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -361,4 +356,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि राजसूयपर्वणि निमन्त्रितराजागमने चतुस्त्रिंशोऽध्यायः ॥ ३४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयपर्वमें निमन्त्रित राजाओंका आगमनविषयक चौंतीसवाँ अध्याय पूरा हुआ॥३४॥
 </details>
+</details>
+

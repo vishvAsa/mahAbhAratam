@@ -4,14 +4,9 @@ title_full = "122 युधिष्ठिर, भीम और अर्जु�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-122p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-122p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-122p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-122p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "122 युधिष्ठिर, भीम और अर्जु�
 
 युधिष्ठिर, भीम और अर्जुनकी उत्पत्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -473,11 +473,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तं तु कालेन महता वासवः प्रत्यपद्यत।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -494,6 +489,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 और भारत! वे महाबाहु धर्मात्मा पाण्डु स्वयं देवताओंके ईश्वर इन्द्रदेवकी आराधना करनेके लिये चित्तवृत्तियोंको अत्यन्त एकाग्र करके एक पैरसे खड़े हो सूर्यके साथ-साथ उग्र तप करने लगे अर्थात् सूर्योदय होनेके समय एक पैरसे खड़े होते और सूर्यास्ततक उसी रूपमें खड़े रहते।  
 इस तरह दीर्घकाल व्यतीत हो जानेपर इन्द्रदेव उनपर प्रसन्न हो उनके समीप आये और इस प्रकार बोले—॥२६-२७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -572,11 +572,6 @@ _इन्द्रने कहा—_ राजन्! मैं तुम्�
 लब्धः प्रसादो देवेन्द्रात् तमाह्वय शुचिस्मिते ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -589,6 +584,11 @@ _इन्द्रने कहा—_ राजन्! मैं तुम्�
 
 ‘सुश्रोणि! अब ऐसे पुत्रको जन्म दो, जो क्षत्रियोचित तेजका भंडार हो। पवित्र मुसकानवाली कुन्ती! मैंने देवेन्द्रकी कृपा प्राप्त कर ली है। अब तुम उन्हींका आवाहन करो’॥३४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1233,11 +1233,6 @@ _वैशम्पायनजी कहते हैं—_ महाराज
 अपत्यार्थं समुत्क्रम्य प्रमादादिव भाषसे ॥ ७८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(पाण्डुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1252,14 +1247,14 @@ _वैशम्पायनजी कहते हैं—_ महाराज
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(पाण्डुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेतद् धर्मशास्त्रं यथा वदसि तत् तथा।)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डवोंकी उत्पत्तिविषयक एक सौ बाईसवाँ अध्याय पूरा हुआ॥१२२॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1277,6 +1272,11 @@ _पाण्डुने कहा—_ प्रिये! वास्तव�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि पाण्डवोत्पत्तौ द्वाविंशत्यधिकशततमोऽध्यायः ॥ १२२ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पाण्डवोंकी उत्पत्तिविषयक एक सौ बाईसवाँ अध्याय पूरा हुआ॥१२२॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

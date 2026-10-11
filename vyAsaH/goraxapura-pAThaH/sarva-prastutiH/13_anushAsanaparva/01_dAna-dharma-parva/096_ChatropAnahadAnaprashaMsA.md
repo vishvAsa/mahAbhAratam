@@ -3,12 +3,6 @@ title = "०९६ छत्रोपानहदानप्रशंसा"
 title_full = "096 छत्र और उपानहकी उत्पत्ति एवं दानकी प्रशंसा"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -22,15 +16,15 @@ title_full = "096 छत्र और उपानहकी उत्पत्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्रयाचति तथा भास्करे मुनिसत्तमः।  
 जमदग्निर्महातेजाः किं कार्यं प्रत्यपद्यत ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -45,6 +39,11 @@ title_full = "096 छत्र और उपानहकी उत्पत्�
 
 _युधिष्ठिरने पूछा—_ पितामह! जब सूर्यदेव इस प्रकार याचना कर रहे थे, उस समय महातेजस्वी मुनिश्रेष्ठ जमदग्निने कौन-सा कार्य किया?॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -93,11 +92,6 @@ _भीष्मजीने कहा—_ कुरुनन्दन! सू�
 कथं चलं भेत्स्यसि त्वं सदा यान्तं दिवाकरम् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जमदग्निरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -110,6 +104,11 @@ _भीष्मजीने कहा—_ कुरुनन्दन! सू�
 
 ‘विप्रर्षे! आपका लक्ष्य तो चल है, सूर्य भी सदा चलते रहते हैं। अतः निरन्तर यात्रा करते हुए सूर्यरूपी चंचल लक्ष्यका आप किस प्रकार भेदन करेंगे?’॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जमदग्निरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,11 +137,6 @@ _जमदग्नि बोले—_ हमारा लक्ष्य च�
 तत्र भेत्स्यामि सूर्य त्वां न मेऽत्रास्ति विचारणा ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सूर्य उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -157,15 +151,15 @@ _जमदग्नि बोले—_ हमारा लक्ष्य च�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सूर्य उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असंशयं मां विप्रर्षे भेत्स्यसे धन्विनां वर।  
 अपकारिणं मां विद्धि भगवन् शरणागतम् ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -180,6 +174,11 @@ _जमदग्नि बोले—_ हमारा लक्ष्य च�
 
 _सूर्य बोले—_ धनुर्धरोंमें श्रेष्ठ विप्रर्षे! निस्संदेह आप मेरे शरीरका भेदन कर सकते हैं। भगवन्! यद्यपि मैं आपका अपराधी हूँ तो भी आप मुझे अपना शरणागत समझिये॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -252,11 +251,6 @@ _भीष्मजी कहते हैं—_ राजन्! सूर्�
 यथा सुखगमः पन्था भवेत् त्वद्रश्मिभावितः ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -271,15 +265,15 @@ _भीष्मजी कहते हैं—_ राजन्! सूर्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतावदुक्त्वा स तदा तूष्णीमासीद् भृगूत्तमः।  
 अथ सूर्योऽददत् तस्मै छत्रोपानहमाशु वै ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सूर्य उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -294,6 +288,11 @@ _भीष्मजी कहते हैं—_ राजन्! सूर्�
 
 _भीष्मजी कहते हैं—_ राजन्! इतना कहकर भृगुश्रेष्ठ जमदग्नि मुनि चुप हो गये। तब भगवान् सूर्यने उन्हें शीघ्र ही छत्र और उपानह दोनों वस्तुएँ प्रदान कीं॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सूर्य उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,11 +321,6 @@ _सूर्यदेवने कहा—_ महर्षे! यह छत�
 पुण्यकेषु च सर्वेषु परमक्षय्यमेव च ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -339,6 +333,11 @@ _सूर्यदेवने कहा—_ महर्षे! यह छत�
 
 आजसे इस जगत्‌में इन दोनों वस्तुओंका प्रचार होगा और पुण्यके सभी अवसरोंपर इनका दान उत्तम एवं अक्षय फल देनेवाला होगा॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -451,11 +450,6 @@ _भीष्मजी कहते हैं—_ भारत! छाता औ
 छत्रोपानहदानस्य फलं भरतसत्तम ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -473,6 +467,11 @@ _भीष्मजी कहते हैं—_ भारत! छाता औ
 
 [सेवासे शूद्रोंकी परम गति, शौचाचार, सदाचार तथा वर्णधर्मका कथन एवं संन्यासियोंके धर्मोंका वर्णन और उससे उनको परम गतिकी प्राप्ति]
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -501,11 +500,6 @@ _युधिष्ठिरने पूछा—_ पितामह! इस �
 शूद्राणां भरतश्रेष्ठ ब्रूहि मे धर्मलक्षणम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -518,6 +512,11 @@ _युधिष्ठिरने पूछा—_ पितामह! इस �
 
 भरतभूषण! भरतरत्न! शूद्रोंको द्विजोंकी सेवासे किन लोकोंकी प्राप्ति बतायी गयी है? मुझे धर्मका लक्षण बताइये॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -566,11 +565,6 @@ _भीष्मजीने कहा—_ राजन्! इस विषय�
 शिष्यानध्यापयामास शास्त्रमर्थवदर्थवित् ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पराशर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -583,6 +577,11 @@ _भीष्मजीने कहा—_ राजन्! इस विषय�
 
 तत्त्वज्ञ पराशर मुनिने अपने सारे धर्मोपदेशको ठीक-ठीक आनुपूर्वीसहित अपने शिष्योंको पढ़ाया। वह एक सार्थक धर्मशास्त्र था॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पराशर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2719,11 +2718,6 @@ _पराशरने कहा—_ मनुष्यको चाहिये
 न्नीलः खगो मेरुमिवाश्रयन् वै॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2740,17 +2734,17 @@ _पराशरने कहा—_ मनुष्यको चाहिये
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमाख्याय महामुनिस्तदा  
 चतुर्षु वर्णेषु विधानमर्थवित् ।  
 शुश्रूषया वृत्तगतिं समाधिना  
 समाधियुक्तः प्रययौ स्वमाश्रमम् ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2775,15 +2769,15 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केषां देवा महाभागाः संनमन्ते महात्मनाम्।  
 लोकेऽस्मिंस्तानृषीन् सर्वान् श्रोतुमिच्छामि तत्त्वतः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2798,6 +2792,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 
 _युधिष्ठिरने पूछा—_ पितामह! इस लोकमें महाभाग देवता किन महात्माओंको मस्तक झुकाते हैं? मैं उन समस्त ऋषियोंका यथार्थ परिचय सुनना चाहता हूँ॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2828,11 +2827,6 @@ _भीष्मजीने कहा—_ युधिष्ठिर! इस �
 मातलिः प्राञ्जलिर्भूत्वा देवमिन्द्रमुवाच ह॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मातलिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2849,15 +2843,15 @@ _भीष्मजीने कहा—_ युधिष्ठिर! इस �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मातलिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमस्कृतानां सर्वेषां भगवंस्त्वं पुरस्कृतः।  
 येषां लोके नमस्कुर्यात्‌ तान् ब्रवीतु भवान् मम॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2874,15 +2868,15 @@ _मातलि बोले—_ भगवन्! जो सबके द्व
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा देवराजः शचीपतिः।  
 यन्तारं परिपृच्छन्तं तमिन्द्रः प्रत्युवाच ह॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इन्द्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2897,6 +2891,11 @@ _मातलि बोले—_ भगवन्! जो सबके द्व
 
 _भीष्मजी कहते हैं—_ राजन्! मातलिकी वह बात सुनकर शचीपति देवराज इन्द्रने उपर्युक्त प्रश्न पूछनेवाले अपने सारथिसे इस प्रकार कहा॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+इन्द्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3085,11 +3084,6 @@ _इन्द्र बोले—_ मातले! धर्म, अर्थ
 परैः कीर्तितशौचानां मातले तान् नमाम्यहम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -3110,15 +3104,15 @@ _इन्द्र बोले—_ मातले! धर्म, अर्थ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संस्कृतानां तटाकानां यत् फल कुरुपुंगव।  
 तदहं श्रोतुमिच्छामि त्वत्तोऽद्य भरतर्षभ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -3133,6 +3127,11 @@ _इन्द्र बोले—_ मातले! धर्म, अर्थ
 
 _युधिष्ठिरने कहा—_ कुरुपुंगव! भरतश्रेष्ठ! सरोवरोंके बनानेका जो फल है, उसे आज मैं आपके मुखसे सुनना चाहता हूँ॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3615,11 +3614,6 @@ _भीष्मजीने कहा—_ राजन्! जो ताला�
 यजेच्च विविधैर्यज्ञैः सत्यं च विधिवद् वदेत्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत अनुशासनपर्वके अन्तर्गत दानधर्मपर्वमें छत्रदान और उपानहदानकी प्रशंसानामक छानबेवाँ अध्याय पूरा हुआ॥९६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -3643,8 +3637,14 @@ _भीष्मजीने कहा—_ राजन्! जो ताला�
 इति श्रीमहाभारते अनुशासनपर्वणि दानधर्मपर्वणि छत्रोपानहदानप्रशंसा नाम षण्णवतितमोऽध्यायः ॥ ९६ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत अनुशासनपर्वके अन्तर्गत दानधर्मपर्वमें छत्रदान और उपानहदानकी प्रशंसानामक छानबेवाँ अध्याय पूरा हुआ॥९६॥
+</details>
+
 <details><summary>Misc Detail</summary>
 
 _(दाक्षिणात्य अधिक पाठका १७५_  _श्लोक मिलाकर कुल १९७_  _श्लोक हैं)_
 </details>
 </details>
+

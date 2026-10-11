@@ -4,12 +4,7 @@ title_full = "010 रुरु मुनि और डुण्डुभका �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-010.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-रुरुरुवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-010.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,17 +20,17 @@ title_full = "010 रुरु मुनि और डुण्डुभका �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+रुरुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम प्राणसमा भार्या दष्टासीद् भुजगेन ह।  
 तत्र मे समयो घोर आत्मनोरग वै कृतः ॥ १ ॥  
 भुजङ्गं वै सदा हन्यां यं यं पश्येयमित्युत।  
 ततोऽहं त्वां जिघांसामि जीवितेनाद्य मोक्ष्यसे ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-डुण्डुभ उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -52,6 +47,11 @@ title_full = "010 रुरु मुनि और डुण्डुभका �
 
 _रुरु बोला—_ सर्प! मेरी प्राणोंके समान प्यारी पत्नीको एक साँपने डँस लिया था। उसी समय मैंने यह घोर प्रतिज्ञा कर ली कि जिस-जिस सर्पको देख लूँगा, उसे-उसे अवश्य मार डालूँगा। उसी प्रतिज्ञाके अनुसार मैं तुम्हें मार डालना चाहता हूँ। अतः आज तुम्हें अपने प्राणोंसे हाथ धोना पड़ेगा॥१-२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+डुण्डुभ उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -80,11 +80,6 @@ _डुण्डुभने कहा—_ ब्रह्मन्! वे द�
 डुण्डुभान् धर्मविद् भूत्वा न त्वं हिंसितुमर्हसि ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -97,6 +92,11 @@ _डुण्डुभने कहा—_ ब्रह्मन्! वे द�
 
 अहो! आश्चर्य है, बेचारे डुण्डुभ अनर्थ भोगनेमें सब सर्पोंके साथ एक हैं; परंतु उनका स्वभाव दूसरे सर्पोंसे भिन्न है तथा दुःख भोगनेमें तो वे सब सर्पोंके साथ एक हैं; किंतु सुख सबका अलग-अलग है। तुम धर्मज्ञ हो, अतः तुम्हें डुण्डुभोंकी हिंसा नहीं करनी चाहिये॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -125,11 +125,6 @@ _उग्रश्रवाजी कहते हैं—_ डुण्डु
 कामं मां भुजग ब्रूहि कोऽसीमां विक्रियां गतः ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-डुण्डुभ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -144,15 +139,15 @@ _उग्रश्रवाजी कहते हैं—_ डुण्डु
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+डुण्डुभ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं पुरा रुरो नाम्ना ऋषिरासं सहस्रपात्।  
 सोऽहं शापेन विप्रस्य भुजगत्वमुपागतः ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-रुरुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -169,15 +164,15 @@ _डुण्डुभने कहा—_ रुरो! मैं पूर्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+रुरुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं शप्तवान् क्रुद्धो द्विजस्त्वां भुजगोत्तम।  
 कियन्तं चैव कालं ते वपुरेतद् भविष्यति ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें रुरु-डुण्डुभसंवादविषयक दसवाँ अध्याय पूरा हुआ॥१०॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -197,4 +192,10 @@ _रुरुने पूछा—_ भुजगोत्तम! उस ब्�
 
 इति श्रीमहाभारते आदिपर्वणि पौलोमपर्वणि रुरुडुण्डुभसंवादे दशमोऽध्यायः ॥ १० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें रुरु-डुण्डुभसंवादविषयक दसवाँ अध्याय पूरा हुआ॥१०॥
 </details>
+</details>
+

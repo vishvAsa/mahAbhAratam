@@ -4,14 +4,9 @@ title_full = "019 देवताओंका अमृतपान, देव�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-019p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-019p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-019p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-019p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "019 देवताओंका अमृतपान, देव�
 
 देवताओंका अमृतपान, देवासुरसंग्राम तथा देवताओंकी विजय
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,11 +643,6 @@ _उग्रश्रवाजी कहते हैं—_ अमृत ह�
 किरीटिने बलभिदथामरैः सह ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें अमृतमन्थन-समाप्ति नामक उन्नीसवाँ अध्याय पूरा हुआ॥१९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -667,4 +662,10 @@ _उग्रश्रवाजी कहते हैं—_ अमृत ह�
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि अमृतमन्थनसमाप्तिर्नामैकोनविंशोऽध्यायः ॥ १९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें अमृतमन्थन-समाप्ति नामक उन्नीसवाँ अध्याय पूरा हुआ॥१९॥
 </details>
+</details>
+

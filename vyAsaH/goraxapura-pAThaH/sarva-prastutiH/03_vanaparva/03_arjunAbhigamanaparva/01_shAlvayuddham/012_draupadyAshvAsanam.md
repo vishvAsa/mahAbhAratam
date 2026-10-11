@@ -4,24 +4,19 @@ title_full = "012 अर्जुन और द्रौपदीके द्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p1.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p1.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p2.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p2.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p3.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p3.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p4.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p4.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p5.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p5.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p6.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p6.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p7.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-012-p7.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -36,6 +31,11 @@ title_full = "012 अर्जुन और द्रौपदीके द्�
 
 अर्जुन और द्रौपदीके द्वारा भगवान् श्रीकृष्णकी स्तुति, द्रौपदीका भगवान् श्रीकृष्णसे अपने प्रति किये गये अपमान और दुःखका वर्णन और भगवान् श्रीकृष्ण, अर्जुन एवं धृष्टद्युम्नका उसे आश्वासन देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -89,11 +89,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अभिवाद्य कुरुश्रेष्ठं विषण्णः केशवोऽब्रवीत् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -107,6 +102,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 भगवान् श्रीकृष्णको आगे करके वे सभी क्षत्रियशिरोमणि धर्मराज युधिष्ठिरको चारों ओरसे घेरकर बैठे। उस समय भगवान् श्रीकृष्ण विषादग्रस्त हो कुरुप्रवर युधिष्ठिरको नमस्कार करके इस प्रकार बोले॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -137,11 +137,6 @@ _श्रीकृष्णने कहा—_ राजाओ! जान प�
 निकृत्योपचरन् वध्य एष धर्मः सनातनः ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -156,6 +151,11 @@ _श्रीकृष्णने कहा—_ राजाओ! जान प�
 
 युद्धमें इनको और इनके सब सेवकोंको अन्य राजाओंसहित परास्त करके हम सब लोग धर्मराज युधिष्ठिरको पुनः चक्रवर्ती नरेशके पदपर अभिषिक्त करें। जो दूसरेके साथ छल-कपट अथवा धोखा करके सुख भोग रहा हो उसे मार डालना चाहिये, यह सनातन धर्म है॥६-७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,11 +188,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 प्रजापतिपतेर्विष्णोर्लोकनाथस्य धीमतः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -205,6 +200,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 भगवान् श्रीकृष्ण अन्तर्यामी, अप्रमेय, सत्यस्वरूप, अमिततेजस्वी, प्रजापतियोंके भी पति, सम्पूर्ण लोकोंके रक्षक तथा परम बुद्धिमान् श्रीविष्णु ही हैं (अर्जुनने उनकी इस प्रकार स्तुति की)॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -756,11 +756,6 @@ _अर्जुन बोले—_ श्रीकृष्ण! पूर्�
 कैलासभवने चापि ब्राह्मणैर्न्यवसः सह ॥ ४३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -778,6 +773,11 @@ _अर्जुन बोले—_ श्रीकृष्ण! पूर्�
 
 वे दोनों आपकी ही आज्ञाका पालन करनेवाले हैं, यह बात मुझे नारदजीने बतलायी थी। नारायण श्रीकृष्ण! इसी प्रकार पूर्वकालमें चैत्ररथवनके भीतर आपने प्रचुर दक्षिणाओंसे सम्पन्न अनेक यज्ञों तथा महासत्रका अनुष्ठान किया था। भगवान् पुण्डरीकाक्ष! आप महान् बलवान् हैं। बलदेवजी आपके नित्य सहायक हैं। आपने बचपनमें ही जो-जो महान् कर्म किये हैं, उन्हें पूर्ववर्ती अथवा परवर्ती पुरुषोंने न तो किया है और न करेंगे। आप ब्राह्मणोंके साथ कुछ कालतक कैलास पर्वतपर भी रहे हैं॥४१—४३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -846,11 +846,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 नावयोरन्तरं शक्यं वेदितुं भरतर्षभ ॥ ४७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -865,6 +860,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ते तु वचने केशवेन महात्मना।  
@@ -872,11 +872,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 धृष्टद्युम्नमुखैर्वीरैर्भ्रातृभिः परिवारिता ।  
 पाञ्चाली पुण्डरीकाक्षमासीनं भ्रातृभिः सह।  
 अभिगम्याब्रवीत् क्रुद्धा शरण्यं शरणैषिणी ॥ ४९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -894,6 +889,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! रोषावेशसे भरे हुए राजाओंकी मण्डलीमें उस वीरसमुदायके मध्य महात्मा केशवके ऐसा कहनेपर धृष्टद्युम्न आदि भाइयोंसे घिरी और कुपित हुई पांचालराजकुमारी द्रौपदी भाइयोंके साथ बैठे हुए शरणागतवत्सल श्रीकृष्णके पास जा उनकी शरणकी इच्छा रखती हुई उनसे बोली॥४८-४९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1876,11 +1876,6 @@ _द्रौपदीने कहा—_ प्रभो! ऋषिलोग �
 भीमरूपो महानादान् विसृजन् भीमदर्शनः ॥ १०१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राक्षस उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1893,6 +1888,11 @@ _द्रौपदीने कहा—_ प्रभो! ऋषिलोग �
 
 उन दोनोंकी बातचीत सुनकर वह भीमरूपधारी भयंकर एवं नीच राक्षस बड़े जोरसे गर्जना करता हुआ वहाँ आ पहुँचा॥१०१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राक्षस उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2385,11 +2385,6 @@ _राक्षस बोला—_ हिडिम्बे! ‘तू कि�
 सम्बन्धाद् गौरवात्‌ सख्यात् प्रभुत्वेनैव केशव ॥ १२७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2404,14 +2399,14 @@ _राक्षस बोला—_ हिडिम्बे! ‘तू कि�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तामब्रवीत् कृष्णस्तस्मिन् वीरसमागमे।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2425,6 +2420,11 @@ _राक्षस बोला—_ हिडिम्बे! ‘तू कि�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! यह सुनकर भगवान् श्रीकृष्णने वीरोंके उस समुदायमें द्रौपदीसे इस प्रकार कहा॥१२७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2485,11 +2485,6 @@ _श्रीकृष्ण बोले—_ भाविनि! तुम ज�
 तथा तद् भविता देवि नान्यथा वरवर्णिनि ॥ १३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृष्टद्युम्न उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2504,17 +2499,17 @@ _श्रीकृष्ण बोले—_ भाविनि! तुम ज�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृष्टद्युम्न उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं द्रोणं हनिष्यामि शिखण्डी तु पितामहम्।  
 दुर्योधनं भीमसेनः कर्णं हन्ता धनंजयः ॥ १३४ ॥  
 रामकृष्णौ व्यपाश्रित्य अजेयाः स्म रणे स्वसः।  
 अपि वृत्रहणा युद्धे किं पुनर्धृतराष्ट्रजे ॥ १३५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2533,15 +2528,15 @@ _धृष्टद्युम्नने कहा—_ बहिन! मै�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तेऽभिमुखा वीरा वासुदेवमुपास्थिताः ।  
 तेषां मध्ये महाबाहुः केशवो वाक्यमब्रवीत् ॥ १३६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्रौपदी-आश्वासनविषयक बारहवाँ अध्याय पूरा हुआ॥१२॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2560,6 +2555,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि द्रौपद्याश्वासने द्वादशोऽध्यायः ॥ १२ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें द्रौपदी-आश्वासनविषयक बारहवाँ अध्याय पूरा हुआ॥१२॥
 </details>
 </details>
 

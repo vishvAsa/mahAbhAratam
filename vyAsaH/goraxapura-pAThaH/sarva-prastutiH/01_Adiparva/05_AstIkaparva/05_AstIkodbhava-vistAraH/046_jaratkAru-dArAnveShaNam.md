@@ -4,16 +4,11 @@ title_full = "046 जरत्कारुका शर्तके साथ �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-046-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-046-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-046-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-046-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-046-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-046-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,15 +24,15 @@ title_full = "046 जरत्कारुका शर्तके साथ �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा जरत्कारुर्भृशं शोकपरायणः ।  
 उवाच तान् पितॄन् दुःखाद् वाष्पसंदिग्धया गिरा ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरत्कारुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -54,17 +49,17 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरत्कारुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम पूर्वे भवन्तो वै पितरः सपितामहाः।  
 तद् ब्रूत यन्मया कार्यं भवतां प्रियकाम्यया ॥ २ ॥  
 अहमेव जरत्कारुः किल्बिषी भवतां सुतः।  
 ते दण्डं धारयत मे दुष्कृतेरकृतात्मनः ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पितर ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -83,15 +78,15 @@ _जरत्कारुने कहा—_ आप मेरे ही पू�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पितर ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्र दिष्ट्यासि सम्प्राप्त इमं देशं यदृच्छया।  
 किमर्थं च त्वया ब्रह्मन् न कृतो दारसंग्रहः ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जरत्कारुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -106,6 +101,11 @@ _जरत्कारुने कहा—_ आप मेरे ही पू�
 
 _पितर बोले—_ पुत्र! बड़े सौभाग्यकी बात है जो तुम अकस्मात् इस स्थानपर आ गये। ब्रह्मन्! तुमने अबतक विवाह क्यों नहीं किया?॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जरत्कारुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -184,11 +184,6 @@ _जरत्कारुने कहा—_ पितृगण! मेरे �
 शाश्वताश्चाव्ययाश्चैव तिष्ठन्तु पितरो मम ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -201,6 +196,11 @@ _जरत्कारुने कहा—_ पितृगण! मेरे �
 
 वैसे विवाहसे जो पत्नी मिलेगी, उसीके गर्भसे आपलोगोंको तारनेके लिये कोई प्राणी उत्पन्न होगा। मैं चाहता हूँ मेरे पितर नित्य शाश्वत लोकोंमें बने रहें, वहाँ वे अक्षय सुखके भागी हों॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -431,11 +431,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 वासुकिं भरणं चास्या न कुर्यामित्युवाच ह ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें वासुकि-जरत्कारु-समागमसम्बन्धी छियालीसवाँ अध्याय पूरा हुआ॥४६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -455,4 +450,10 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि वासुकिजरत्कारुसमागमे षट्‌चत्वारिंशोऽध्यायः ॥ ४६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें वासुकि-जरत्कारु-समागमसम्बन्धी छियालीसवाँ अध्याय पूरा हुआ॥४६॥
 </details>
+</details>
+

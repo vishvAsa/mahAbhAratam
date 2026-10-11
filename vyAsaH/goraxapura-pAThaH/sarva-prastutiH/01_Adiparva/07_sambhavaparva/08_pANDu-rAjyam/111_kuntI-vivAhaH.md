@@ -4,12 +4,7 @@ title_full = "111 कुन्तीद्वारा स्वयंवरम�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-111.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-111.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "111 कुन्तीद्वारा स्वयंवरम�
 
 कुन्तीद्वारा स्वयंवरमें पाण्डुका वरण और उनके साथ विवाह
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -204,11 +204,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 न्यवेशयत तां भार्यां कुन्तीं स्वभवने प्रभुः ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें कुन्तीविवाहविषयक एक सौ ग्यारहवाँ अध्याय पूरा हुआ॥१११॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -231,4 +226,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि कुन्तीविवाहे एकादशाधिकशततमोऽध्यायः ॥ १११ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें कुन्तीविवाहविषयक एक सौ ग्यारहवाँ अध्याय पूरा हुआ॥१११॥
 </details>
+</details>
+

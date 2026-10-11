@@ -4,20 +4,15 @@ title_full = "176 कल्माषपादका शापसे उद्ध
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-176p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-176p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-176p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-176p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-176p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-176p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-176p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-176p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-176p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-176p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "176 कल्माषपादका शापसे उद्ध
 
 कल्माषपादका शापसे उद्धार और वसिष्ठजीके द्वारा उन्हें अश्मक नामक पुत्रकी प्राप्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,11 +280,6 @@ _गन्धर्व कहता है—_ अर्जुन! तदनन�
 शक्तेर्भार्या महाभाग तपोयुक्ता तपस्विनी ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -300,15 +295,15 @@ _गन्धर्व कहता है—_ अर्जुन! तदनन�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रि कस्यैष साङ्गस्य वेदस्याध्ययनस्वनः।  
 पुरा साङ्गस्य वेदस्य शक्तेरिव मया श्रुतः ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अदृश्यन्त्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -325,15 +320,15 @@ _वसिष्ठजीने पूछा—_ बेटी! पहले श�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अदृश्यन्त्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं कुक्षौ समुत्पन्नः शक्तेर्गर्भः सुतस्य ते।  
 समा द्वादश तस्येह वेदानभ्यस्यतो मुने ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -348,6 +343,11 @@ _वसिष्ठजीने पूछा—_ बेटी! पहले श�
 
 _अदृश्यन्ती बोली—_ भगवन्! यह मेरे उदरमें उत्पन्न हुआ आपके पुत्र शक्तिका बालक है। मुने! उसे मेरे गर्भमें ही वेदाभ्यास करते बारह वर्ष हो गये हैं॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -476,11 +476,6 @@ _गन्धर्व कहता है—_ अर्जुन! अदृश�
 राक्षसोऽयमिहात्तुं वै नूनमावां समीहते ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -493,6 +488,11 @@ _गन्धर्व कहता है—_ अर्जुन! अदृश�
 
 ‘भगवन्! देखनेमें अत्यन्त भयंकर इस पापीसे मेरी रक्षा कीजिये। निश्चय ही यह राक्षस यहाँ हम दोनोंको खा जानेकी घातमें लगा है’॥२२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -521,11 +521,6 @@ _वसिष्ठजीने कहा—_ बेटी! भयभीत न 
 स एषोऽस्मिन् वनोद्देशे निवसत्यतिभीषणः ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -538,6 +533,11 @@ _वसिष्ठजीने कहा—_ बेटी! भयभीत न 
 
 ये भूमण्डलमें विख्यात पराक्रमी राजा कल्माषपाद हैं। ये ही इस वनमें अत्यन्त भीषण रूप धारण करके रहते हैं॥२४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -646,11 +646,6 @@ _गन्धर्व कहता है—_ भारत! उस राक्
 अस्मिन् काले यदिष्टं ते ब्रूहि किं करवाणि ते॥३०॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -665,15 +660,15 @@ _गन्धर्व कहता है—_ भारत! उस राक्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृत्तमेतद् यथाकालं गच्छ राज्यं प्रशाधि वै।  
 ब्राह्मणं तु मनुष्येन्द्र मावमंस्थाः कदाचन ॥ ३१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राजोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -688,6 +683,11 @@ _गन्धर्व कहता है—_ भारत! उस राक्
 
 _वसिष्ठजीने कहा—_ नरेन्द्र! मेरी जो अभिलाषा थी, वह समयानुसार सिद्ध हो गयी। अब जाओ, अपना राज्य सँभालो। (आजसे फिर) कभी ब्राह्मणका अपमान न करना॥३१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राजोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -736,11 +736,6 @@ _राजा बोले—_ महाभाग! मैं कभी ब्र
 शीलरूपगुणोपेतमिक्ष्वाकुकुलवृद्धये ॥ ३४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गन्धर्व उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -753,6 +748,11 @@ _राजा बोले—_ महाभाग! मैं कभी ब्र
 
 साधुशिरोमणे! इक्ष्वाकुवंशकी वृद्धिके लिये आप मुझे ऐसी अभीष्ट संतान दीजिये, जो उत्तम स्वभाव, सुन्दर रूप और श्रेष्ठ गुणोंसे सम्पन्न हो॥३४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गन्धर्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -985,11 +985,6 @@ _गन्धर्व कहता है—_ कुन्तीनन्दन
 अश्मको नाम राजर्षिः पौदन्यं यो न्यवेशयत् ॥ ४७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें वसिष्ठचरित्रके प्रसंगमें सौदासको पुत्र-प्राप्तिविषयक एक सौ छिहत्तरवाँ अध्याय पूरा हुआ॥१७६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1007,4 +1002,10 @@ _गन्धर्व कहता है—_ कुन्तीनन्दन
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि वासिष्ठे सौदाससुतोत्पत्तौ षट्‌सप्तत्यधिकशततमोऽध्यायः ॥ १७६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें वसिष्ठचरित्रके प्रसंगमें सौदासको पुत्र-प्राप्तिविषयक एक सौ छिहत्तरवाँ अध्याय पूरा हुआ॥१७६॥
 </details>
+</details>
+

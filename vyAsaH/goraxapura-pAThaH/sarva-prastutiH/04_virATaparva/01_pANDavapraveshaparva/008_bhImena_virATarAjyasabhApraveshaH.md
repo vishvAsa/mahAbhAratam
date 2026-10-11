@@ -4,14 +4,9 @@ title_full = "008 भीमसेनका राजा विराटकी �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-008p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-008p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-008p2.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-008p2.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "008 भीमसेनका राजा विराटकी �
 
 भीमसेनका राजा विराटकी सभामें प्रवेश और राजाके द्वारा आश्वासन पाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -179,11 +179,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भजस्व मां व्यञ्जनकारमुत्तमम् ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विराट उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -200,17 +195,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विराट उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न सूदतां बल्लव श्रद्दधामि ते  
 सहस्रनेत्रप्रतिमो विराजसे ।  
 श्रिया च रूपेण च विक्रमेण च  
 प्रभाससे त्वं नृवरो नरेष्विव ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीम उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -227,6 +222,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _विराट बोले—_ बल्लव! तुम रसोइये हो, इस बातपर मुझे विश्वास नहीं होता। तुम तो इन्द्रके समान तेजस्वी दिखायी देते हो। अपने अद्‌भुत रूप, दिव्य शोभा और महान् पराक्रमसे तुम मनुष्योंमें कोई श्रेष्ठ पुरुष अथवा राजा प्रतीत होते हो॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीम उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,11 +261,6 @@ _भीमसेनने कहा—_ महाराज! मैं रसो�
 सदा करिष्यामि तवानघ प्रियम् ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विराट उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -280,6 +275,11 @@ _भीमसेनने कहा—_ महाराज! मैं रसो�
 
 इसके सिवा शारीरिक बलमें भी मेरी समता करनेवाला दूसरा कोई नहीं है। भूपाल! मैं सदा कुश्ती लड़नेवाला पहलवान हूँ; हाथियों और सिंहोंसे भी भिड़ जाता हूँ। अनघ! मैं सदा आपको प्रिय लगनेवाला कार्य करूँगा॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विराट उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,11 +325,6 @@ _विराट बोले—_ बल्लव! मैं प्रसन्�
 भवांश्च तेषामधिपो मया कृतः ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -346,17 +341,17 @@ _विराट बोले—_ बल्लव! मैं प्रसन्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा स भीमो विहितो महानसे  
 विराटराज्ञो दयितोऽभवद् दृढम् ।  
 उवास राज्ये न च तं पृथग् जनो  
 बुबोध तत्रानुचराश्च केचन ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें भीमप्रवेशसम्बन्धी आठवाँ अध्याय पूरा हुआ॥८॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -378,4 +373,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते विराटपर्वणि पाण्डवप्रवेशपर्वणि भीमप्रवेशे अष्टमोऽध्यायः ॥ ८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें भीमप्रवेशसम्बन्धी आठवाँ अध्याय पूरा हुआ॥८॥
 </details>
+</details>
+

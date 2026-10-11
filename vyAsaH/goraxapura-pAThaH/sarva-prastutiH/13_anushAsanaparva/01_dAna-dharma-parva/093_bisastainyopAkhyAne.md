@@ -3,12 +3,6 @@ title = "०९३ बिसस्तैन्योपाख्याने"
 title_full = "093 गृहस्थके धर्मोंका रहस्य, प्रतिग्रहके दोष बतानेके लिये वृषादर्भि और सप्तर्षियोंकी कथा, भिक्षुरूपधारी इन्द्रके द्वारा कृत्याका वध करके सप्तर्षियोंकी रक्षा तथा कमलोंकी चोरीके विषयमें शपथ खानेके बहानेसे धर्मपालनका संकेत"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -22,15 +16,15 @@ title_full = "093 गृहस्थके धर्मोंका रहस्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्विजातयो व्रतोपेता हविस्ते यदि भुञ्जते।  
 अन्नं ब्राह्मणकामाय कथमेतत् पितामह ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -47,15 +41,15 @@ _युधिष्ठिरने पूछा—_ पितामह! यद�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवेदोक्तव्रताश्चैव भुञ्जानाः कामकारणे ।  
 वेदोक्तेषु तु भुञ्जाना व्रतलुप्ता युधिष्ठिर ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -72,15 +66,15 @@ _भीष्मजीने कहा—_ युधिष्ठिर! जो �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदिदं तप इत्याहुरुपवासं पृथग्जनाः।  
 तपः स्यादेतदेवेह तपोऽन्यद् वापि किं भवेत् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -95,6 +89,11 @@ _भीष्मजीने कहा—_ युधिष्ठिर! जो �
 
 _युधिष्ठिरने पूछा—_ पितामह! साधारण लोग जो उपवासको ही तप कहा करते हैं, उसके सम्बन्धमें आपकी क्या धारणा है? मैं यह जानना चाहता हूँ कि वास्तवमें उपवास ही तप है या उसका और कोई स्वरूप है॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -148,11 +147,6 @@ _भीष्मजीने कहा—_ राजन्! जो लोग प
 अमृताशी सदा च स्यात् पवित्री च सदा भवेत्॥८॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -170,15 +164,15 @@ _भीष्मजीने कहा—_ राजन्! जो लोग प
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं सदोपवासी स्याद् ब्रह्मचारी च पार्थिव।  
 विघसाशी कथं च स्यात् कथं चैवातिथिप्रियः ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -193,6 +187,11 @@ _भीष्मजीने कहा—_ राजन्! जो लोग प
 
 _युधिष्ठिरने पूछा—_ पृथ्वीनाथ! ब्राह्मण कैसे सदा उपवासी और ब्रह्मचारी होवे? तथा किस प्रकार वह विघसाशी एवं अतिथिप्रिय हो सकता है?॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,11 +324,6 @@ _भीष्मजीने कहा—_ युधिष्ठिर! जो �
 रमन्ते पुत्रपौत्रेण तेषां गतिरनुत्तमा ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -344,15 +338,15 @@ _भीष्मजीने कहा—_ युधिष्ठिर! जो �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणेभ्यः प्रयच्छन्ति दानानि विविधानि च।  
 दातृप्रतिग्रहीत्रोर्वै को विशेषः पितामह ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -367,6 +361,11 @@ _भीष्मजीने कहा—_ युधिष्ठिर! जो �
 
 _युधिष्ठिरने पूछा—_ पितामह! लोग ब्राह्मणोंको नाना प्रकारकी वस्तुएँ दान करते हैं। दान देने और दान लेनेवाले पुरुषोंमें क्या विशेषता होती है?॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -483,11 +482,6 @@ _भीष्मजीने कहा—_ राजन्! जो ब्रा�
 ते तं क्षुधाभिसंतप्ताः परिवार्योपतस्थिरे ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वृषादर्भिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -500,6 +494,11 @@ _भीष्मजीने कहा—_ राजन्! जो ब्रा�
 
 उस दुर्भिक्षके समय वह अल्पायु राजकुमार मृत्युको प्राप्त हो गया। वे सप्तर्षि भूखसे पीड़ित थे, इसलिये उस मरे हुए बालकको चारों ओरसे घेरकर खड़े हो गये॥२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वृषादर्भिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -580,11 +579,6 @@ _तब वृषादर्भि बोले—_ प्रतिग्रह
 पुष्ट्‌यर्थं वः किं प्रयच्छाम्यहं वै ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋषय ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -599,6 +593,11 @@ _तब वृषादर्भि बोले—_ प्रतिग्रह
 
 इनके सिवा अच्छे-अच्छे गाँव, धान, रस, जौ, रत्न तथा और भी अनेक दुर्लभ वस्तुएँ प्रदान कर सकता हूँ। बतलाइये, मैं आपको क्या दूँ? आप इस अभक्ष्य वस्तुके भक्षणमें मन न लगावें। कहिये, आपके शरीरकी पुष्टिके लिये मैं क्या दूँ॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋषय ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -730,11 +729,6 @@ _ऋषि बोले—_ राजन्! राजाका दिया ह
 अप्रतिग्राह्यमेवैतत् प्रेत्येह च सुखेप्सुना ॥ ३८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -752,15 +746,15 @@ _ऋषि बोले—_ राजन्! राजाका दिया ह
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतेन निष्कगणितं सहस्रेण च सम्मितम्।  
 तथा बहु प्रतीच्छन् वै पापिष्ठां पतते गतिम् ॥ ३९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कश्यप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -777,15 +771,15 @@ _वसिष्ठ बोले—_ एक निष्क (स्वर्ण�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कश्यप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्पृथिव्यां व्रीहियवं हिरण्यं पशवः स्त्रियः।  
 सर्वं तन्नालमेकस्य तस्माद् विद्वान् शमं चरेत् ॥ ४० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -802,15 +796,15 @@ _कश्यपने कहा—_ इस पृथ्वीपर जित�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पन्नस्य रुरोः शृंगं वर्धमानस्य वर्धते।  
 प्रार्थना पुरुषस्येव तस्य मात्रा न विद्यते ॥ ४१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गौतम उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -827,15 +821,15 @@ _भरद्वाज बोले—_ जैसे उत्पन्न ह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गौतम उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तल्लोके द्रव्यमस्ति यल्लोकं प्रतिपूरयेत्।  
 समुद्रकल्पः पुरुषो न कदाचन पूर्यते ॥ ४२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विश्वामित्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -852,15 +846,15 @@ _गौतमने कहा—_ संसारमें ऐसा कोई �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विश्वामित्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं कामयमानस्य यदा कामः समृध्यते।  
 अथैनमपरः कामस्तृष्णाविध्यति बाणवत् ॥ ४३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(अत्रिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -877,15 +871,15 @@ _विश्वामित्र बोले—_ किसी वस्तु
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(अत्रिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न जातु कामः कामनामुपभोगेन शाम्यति।  
 हविषा कृष्णवर्त्मेव भूय एवाभिवर्धते॥)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जमदग्निरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -902,15 +896,15 @@ _अत्रि बोले—_ भोगोंकी कामना उन�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जमदग्निरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिग्रहे संयमो वै तपो धारयते ध्रुवम्।  
 तद् धनं ब्राह्मणस्येह लुभ्यमानस्य विस्रवेत् ॥ ४४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अरुन्धत्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -927,15 +921,15 @@ _जमदग्निने कहा—_ प्रतिग्रह न ल�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अरुन्धत्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मार्थं संचयो यो वै द्रव्याणां पक्षसम्मतः।  
 तपःसंचय एवेह विशिष्टो द्रव्यसंचयात् ॥ ४५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गण्डोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -952,15 +946,15 @@ _अरुन्धती बोलीं—_ संसारमें एक �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गण्डोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उग्रादितो भयाद् यस्माद् बिभ्यतीमे ममेश्वराः।  
 बलीयांसो दुर्बलवद् बिभेम्यहमतः परम् ॥ ४६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पशुसख उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -977,15 +971,15 @@ _गण्डाने कहा—_ मेरे ये मालिक लो�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पशुसख उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् वै धर्मे परं नास्ति ब्राह्मणास्तद्धनं विदुः।  
 विनयार्थं सुविद्वांसमुपासेयं यथातथम् ॥ ४७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋषय ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1002,15 +996,15 @@ _पशुसखने कहा—_ धर्मका पालन करन�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋषय ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशलं सह दानेन तस्मै यस्य प्रजा इमाः।  
 फलान्युपधियुक्तानि य एवं नः प्रयच्छति ॥ ४८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1027,15 +1021,15 @@ _ऋषियोंने कहा—_ जिसकी प्रजा ये �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा हेमगर्भाणि हित्वा तानि फलानि वै।  
 ऋषयो जग्मुरन्यत्र सर्व एव धृतव्रताः ॥ ४९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मन्त्रिण ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1050,6 +1044,11 @@ _ऋषियोंने कहा—_ जिसकी प्रजा ये �
 
 _भीष्मजी कहते हैं—_ युधिष्ठिर! यह कहकर उन सुवर्णयुक्त फलोंका परित्याग करके वे समस्त व्रतधारी महर्षि वहाँसे अन्यत्र चले गये॥४९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मन्त्रिण ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1138,11 +1137,6 @@ _तब मन्त्रियोंने शैव्यके पास ज
 वृषादर्भिं नरपतिं किं करोमीति चाब्रवीत् ॥ ५४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वृषादर्भिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1155,6 +1149,11 @@ _तब मन्त्रियोंने शैव्यके पास ज
 
 कालरात्रिके समान विकराल रूप धारण करनेवाली वह कृत्या हाथ जोड़कर राजाके पास उपस्थित हुई और बोली—‘महाराज! मैं आपकी किस आज्ञाका पालन करूँ?’॥५४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वृषादर्भिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1187,11 +1186,6 @@ _वृषादर्भिने कहा—_ यातुधानी! त�
 जगाम तद् वनं यत्र विचेरुस्ते महर्षयः ॥ ५७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1204,6 +1198,11 @@ _वृषादर्भिने कहा—_ यातुधानी! त�
 
 राजाकी यह आज्ञा पाकर यातुधानीने ‘तथास्तु’ कहकर इसे स्वीकार किया और जहाँ वे महर्षि विचरा करते थे, उस वनमें चली गयी॥५७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1252,11 +1251,6 @@ _भीष्मजी कहते हैं—_ राजन्! उन दि
 भवितारो भवन्तो वै नैवमित्यब्रवीदृषीन् ॥ ६० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1271,15 +1265,15 @@ _भीष्मजी कहते हैं—_ राजन्! उन दि
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतस्येह यथास्माकमग्निहोत्रमनिर्हुतम् ।  
 सायं प्रातश्च होतव्यं तेन पीवाञ्छुना सह ॥ ६१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अत्रिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1296,15 +1290,15 @@ _वसिष्ठजीने कहा—_ हमलोगोंकी तर
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अत्रिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतस्येह यथास्माकं क्षुधा वीर्यं समाहतम्।  
 कृच्छ्राधीतं प्रणष्टं च तेन पीवाञ्छुना सह ॥ ६२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विश्वामित्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1321,15 +1315,15 @@ _अत्रि बोले—_ हमलोगोंकी तरह भू�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विश्वामित्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतस्येह यथास्माकं शश्वच्छास्त्रं जरद्‌गवः।  
 अलसः क्षुत्परो मूर्खस्तेन पीवाञ्छुना सह ॥ ६३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जमदग्निरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1346,15 +1340,15 @@ _विश्वामित्रने कहा—_ हमलोगोंक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जमदग्निरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतस्येह यथास्माकं भक्तमिन्धनमेव च।  
 संचिन्त्यं वार्षिकं चित्ते तेन पीवाञ्छुना सह ॥ ६४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कश्यप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1371,15 +1365,15 @@ _जमदग्नि बोले—_ हमारी तरह इसके �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कश्यप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतस्येह यथास्माकं चत्वारश्च सहोदराः।  
 देहि देहीति भिक्षन्ति तेन पीवाञ्छुना सह ॥ ६५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1396,15 +1390,15 @@ _कश्यपने कहा—_ हमलोगोंके चार भ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतस्येह यथास्माकं ब्रह्मबन्धोरचेतसः ।  
 शोको भार्यापवादेन तेन पीवाञ्छुना सह ॥ ६६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गौतम उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1421,15 +1415,15 @@ _भरद्वाज बोले—_ इस विवेकशून्य �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गौतम उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतस्येह यथास्माकं त्रिकौशेयं च रांकवम्।  
 एकैकं वै त्रिवर्षीयं तेन पीवाञ्छुना सह ॥ ६७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1444,6 +1438,11 @@ _भरद्वाज बोले—_ इस विवेकशून्य �
 
 _गौतम बोले—_ हमलोगोंकी तरह इसे तीन-तीन वर्षोंतक कुशकी रस्सीकी बनी हुई तीन लरवाली मेखला और मृगचर्म धारण करके नहीं रहना पड़ता है। इसीलिये यह कुत्तेके साथ मोटा हो गया है॥६७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1632,11 +1631,6 @@ _भीष्मजी कहते हैं—_ राजन्! कुत्�
 पद्‌मिनीतीरमाश्रित्य ब्रूहि त्वं किं चिकीर्षसि ॥ ७७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1651,15 +1645,15 @@ _भीष्मजी कहते हैं—_ राजन्! कुत्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यास्मि सास्म्यनुयोगो मे न कर्तव्यः कथंचन।  
 आरक्षिणीं मां पद्‌मिन्या वित्त सर्वे तपोधनाः ॥ ७८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋषय ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1676,15 +1670,15 @@ _यातुधानी बोली—_ तपस्वियो! मैं �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋषय ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व एव क्षुधार्ताः स्म न चान्यत् किंचिदस्ति नः।  
 भवत्याः सम्मते सर्वे गृह्णीयाम बिसान्युत ॥ ७९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1701,15 +1695,15 @@ _ऋषि बोले—_ भद्रे! इस समय हमलोग �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समयेन बिसानीतो गृह्णीध्वं कामकारतः।  
 एकैको नाम मे प्रोक्त्वा ततो गृह्णीत माचिरम् ॥ ८० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1726,15 +1720,15 @@ _यातुधानीने कहा—_ ऋषियो! एक शर्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञाय यातुधानीं तां कृत्यामृषिवधैषिणीम्।  
 अत्रिः क्षुधापरीतात्मा ततो वचनमब्रवीत् ॥ ८१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अत्रिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1751,15 +1745,15 @@ _भीष्मजी कहते हैं—_ राजन्! उसकी 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अत्रिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरात्रिरत्रिः सा रात्रिर्यां नाधीते त्रिरद्य वै।  
 अरात्रिरत्रिरित्येव नाम मे विद्धि शोभने ॥ ८२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1776,15 +1770,15 @@ _अत्रि बोले—_ कल्याणी! काम आदि श
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथोदाहृतमेतत् ते मयि नाम महाद्युते।  
 दुर्धार्यमेतन्मनसा गच्छावतर पद्‌मिनीम् ॥ ८३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1801,15 +1795,15 @@ _यातुधानीने कहा—_ तेजस्वी महर्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठोऽस्मि वरिष्ठोऽस्मि वसे वासगृहेष्वपि।  
 वसिष्ठत्वाच्च वासाच्च वसिष्ठ इति विद्धि माम् ॥ ८४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1826,15 +1820,15 @@ _वसिष्ठ बोले—_ मेरा नाम वसिष्ठ �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामनैरुक्तमेतत् ते दुःखव्याभाषिताक्षरम् ।  
 नैतद् धारयितुं शक्यं गच्छावतर पद्‌मिनीम् ॥ ८५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कश्यप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1851,15 +1845,15 @@ _यातुधानी बोली—_ मुने! आपने जो अ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कश्यप उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुलं कुलं च कुवमः कुवमः कश्यपो द्विजः।  
 काश्यः काशनिकाशत्वादेतन्मे नाम धारय ॥ ८६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1876,15 +1870,15 @@ _कश्यपने कहा—_ यातुधानी! कश्य न�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथोदाहृतमेतत् ते मयि नाम महाद्युते।  
 दुर्धार्यमेतन्मनसा गच्छावतर पद्‌मिनीम् ॥ ८७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1901,15 +1895,15 @@ _यातुधानी बोली—_ महर्षे! आपके न�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरेऽसुतान् भरेऽशिष्यान् भरे देवान् भरे द्विजान्।  
 भरे भार्यां भरे द्वाजं भरद्वाजोऽस्मि शोभने ॥ ८८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1926,15 +1920,15 @@ _भरद्वाजने कहा—_ कल्याणी! जो मे�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामनैरुक्तमेतत् ते दुःखव्याभाषिताक्षरम् ।  
 नैतद् धारयितुं शक्यं गच्छावतर पद्‌मिनीम् ॥ ८९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गौतम उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1951,15 +1945,15 @@ _यातुधानी बोली—_ मुनिवर! आपके न�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गौतम उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोदमो दमतोऽधूमोऽदमस्ते समदर्शनात् ।  
 विद्धि मां गौतमं कृत्ये यातुधानि निबोध माम् ॥ ९० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1976,15 +1970,15 @@ _गौतमने कहा—_ कृत्ये! मैंने गो न
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथोदाहृतमेतत् ते मयि नाम महामुने।  
 नैतद् धारयितुं शक्यं गच्छावतर पद्‌मिनीम् ॥ ९१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विश्वामित्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2001,15 +1995,15 @@ _यातुधानी बोली—_ महामुने! आपके �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विश्वामित्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वे देवाश्च मे मित्रं मित्रमस्मि गवां तथा।  
 विश्वामित्रमिति ख्यातं यातुधानि निबोध माम् ॥ ९२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2026,15 +2020,15 @@ _विश्वामित्रने कहा—_ यातुधानी!
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामनैरुक्तमेतत् ते दुःखव्याभाषिताक्षरम् ।  
 नैतद् धारयितुं शक्यं गच्छावतर पद्‌मिनीम् ॥ ९३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जमदग्निरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2051,15 +2045,15 @@ _यातुधानी बोली—_ महर्षे! आपके न�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जमदग्निरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाजमद्यजजानेऽहं जिजाहीह जिजायिषि ।  
 जमदग्निरिति ख्यातस्ततो मां विद्धि शोभने ॥ ९४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2076,15 +2070,15 @@ _जमदग्निने कहा—_ कल्याणी! मैं ज�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथोदाहृतमेतत् ते मयि नाम महामुने।  
 नैतद् धारयितुं शक्यं गच्छावतर पद्‌मिनीम् ॥ ९५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अरुन्धत्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2101,15 +2095,15 @@ _यातुधानी बोली—_ महामुने! आपने �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अरुन्धत्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धरान् धरित्रीं वसुधां भर्तुस्तिष्ठाम्यनन्तरम्।  
 मनोऽनुरुन्धती भर्तुरिति मां विद्ध्यारुन्धतीम् ॥ ९६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2126,15 +2120,15 @@ _अरुन्धतीने कहा—_ यातुधानी! मै�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामनैरुक्तमेतत् ते दुःखव्याभाषिताक्षरम् ।  
 नैतद् धारयितुं शक्यं गच्छावतर पद्‌मिनीम् ॥ ९७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गण्डोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2151,15 +2145,15 @@ _यातुधानी बोली—_ देवि! आपने जो अ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गण्डोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वक्त्रैकदेशे गण्डेति धातुमेतं प्रचक्षते।  
 तेनोन्नतेन गण्डेति विद्धि मानलसम्भवे ॥ ९८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2176,15 +2170,15 @@ _गण्डाने कहा—_ अग्निसे उत्पन्न
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामनैरुक्तमेतत् ते दुःखव्याभाषिताक्षरम् ।  
 नैतद् धारयितुं शक्यं गच्छावतर पद्‌मिनीम् ॥ ९९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पशुसख उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2201,15 +2195,15 @@ _यातुधानी बोली—_ तुम्हारे नामक
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पशुसख उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशून् रञ्जामि दृष्ट्वाहं पशूनां च सदा सखा।  
 गौणं पशुसखेत्येवं विद्धि मामग्निसम्भवे ॥ १०० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2226,15 +2220,15 @@ _पशुसखने कहा—_ आगसे पैदा हुई कृ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामनैरुक्तमेतत् ते दुःखव्याभाषिताक्षरम् ।  
 नैतद् धारयितुं शक्यं गच्छावतर पद्‌मिनीम् ॥ १०१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शुनःसख उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2251,15 +2245,15 @@ _यातुधानी बोली—_ तुमने जो अपने �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शुनःसख उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एभिरुक्तं यथा नाम नाहं वक्तुमिहोत्सहे।  
 शुनःसखसखायं मां यातुधान्युपधारय ॥ १०२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-यातुधान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2276,15 +2270,15 @@ _शुनःसख (संन्यासी) ने कहा—_ यातु
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+यातुधान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामनैरुक्तमेतत् ते वाक्यं संदिग्धया गिरा।  
 तस्मात् पुनरिदानीं त्वं ब्रूहि यन्नाम ते द्विज ॥ १०३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शुनःसख उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2299,6 +2293,11 @@ _शुनःसख (संन्यासी) ने कहा—_ यातु
 
 _यातुधानी बोली—_ विप्रवर! आपने संदिग्धवाणीमें अपना नाम बताया है। अतः अब फिर स्पष्टरूपसे अपने नामकी व्याख्या कीजिये॥१०३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शुनःसख उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2407,11 +2406,6 @@ _शुनःसखने कहा—_ मैंने एक बार अप�
 नापश्यंश्चापि ते तानि बिसानि पुरुषर्षभाः ॥ १०९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋषय ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2424,6 +2418,11 @@ _शुनःसखने कहा—_ मैंने एक बार अप�
 
 थोड़ी देर बाद जब वे पुरुषप्रवर पानीसे बाहर निकले तो उन्हें रखे हुए अपने वे मृणाल नहीं दिखायी पड़े॥१०९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋषय ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2472,11 +2471,6 @@ _तब वे ऋषि एक दूसरेसे कहने लगे—_
 क्षुधार्ताः सुपरिश्रान्ताः शपथायोपचक्रमुः ॥ ११२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अत्रिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2491,15 +2485,15 @@ _तब वे ऋषि एक दूसरेसे कहने लगे—_
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अत्रिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गां स्पृशतु पादेन सूर्यं च प्रतिमेहतु।  
 अनध्यायेष्वधीयीत बिसस्तैन्यं करोति यः ॥ ११३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसिष्ठ उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2516,17 +2510,17 @@ _अत्रि बोले—_ जो मृणालकी चोरी क�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसिष्ठ उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनध्याये पठेल्लोके शुनः सः परिकर्षतु।  
 परिव्राट् कामवृत्तस्तु बिसस्तैन्यं करोति यः ॥ ११४ ॥  
 शरणागतं हन्तु स वै स्वसुतां चोपजीवतु।  
 अर्थान्‌ कांक्षतु कीनाशाद् बिसस्तैन्यं करोति यः ॥ ११५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कश्यप उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2543,6 +2537,11 @@ _अत्रि बोले—_ जो मृणालकी चोरी क�
 
 _वसिष्ठ बोले—_ जिसने मृणाल चुराये हों उसे निषिद्ध समयमें वेद पढ़ने, कुत्ते लेकर शिकार खेलने, संन्यासी होकर मनमाना बर्ताव करने, शरणागतको मारने, अपनी कन्या बेचकर जीविका चलाने तथा किसानके धन छीन लेनेका पाप लगे॥११४-११५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कश्यप उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2571,11 +2570,6 @@ _कश्यपने कहा—_ जिसने मृणालोंकी
 यातु स्त्रियं दिवा चैव बिसस्तैन्यं करोति यः ॥ ११७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2588,6 +2582,11 @@ _कश्यपने कहा—_ जिसने मृणालोंकी
 
 जो मृणालोंकी चोरी करता हो उसे मांसाहारका पाप लगे। उसका दान व्यर्थ चला जाय तथा उसे दिनमें स्त्रीके साथ समागम करनेका पाप लगे॥११७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2616,11 +2615,6 @@ _भरद्वाज बोले—_ जिसने मृणाल चु�
 जुहोतु च स कक्षाग्नौ बिसस्तैन्यं करोति यः ॥ ११९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जमदग्निरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2633,6 +2627,11 @@ _भरद्वाज बोले—_ जिसने मृणाल चु�
 
 जो मृणालकी चोरी करता हो, उसे उपाध्याय (अध्यापक या गुरु) को नीचे बैठाकर उनसे ऋग्वेद और यजुर्वेदका अध्ययन करने और घास-फूसकी आगमें आहुति डालनेका पाप लगे॥११९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जमदग्निरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2661,11 +2660,6 @@ _जमदग्नि बोले—_ जिसने मृणालोंक
 अन्योन्यस्यातिथिश्चास्तु बिसस्तैन्यं करोति यः ॥ १२१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गौतम उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2678,6 +2672,11 @@ _जमदग्नि बोले—_ जिसने मृणालोंक
 
 जिसने मृणाल चुराये हों उसे सबके साथ द्वेष करनेका, स्त्रीकी कमाईपर जीविका चलानेका, भाई-बन्धुओंसे दूर रहनेका, सबसे वैर करनेका और एक-दूसरेके घर अतिथि होनेका पाप लगे॥१२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गौतम उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2706,11 +2705,6 @@ _गौतम बोले—_ जिसने मृणाल चुराय�
 तस्य सालोक्यतां यातु बिसस्तैन्यं करोति यः ॥ १२३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विश्वामित्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2723,6 +2717,11 @@ _गौतम बोले—_ जिसने मृणाल चुराय�
 
 जिसने मृणालोंकी चोरी की हो उसे वही लोक मिले, जो एक ही कूपमें पानी भरनेवाले, गाँवमें निवास करनेवाले और शूद्रकी पत्नीसे संसर्ग रखनेवाले ब्राह्मणको मिलता है॥१२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विश्वामित्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2771,11 +2770,6 @@ _विश्वामित्र बोले—_ जो इन मृणा�
 अयाज्यस्य भवेदृत्विग् बिसस्तैन्यं करोति यः ॥ १२६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अरुन्धत्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2788,6 +2782,11 @@ _विश्वामित्र बोले—_ जो इन मृणा�
 
 जिसने मृणाल चुराये हों, उसे वर्षाकालमें परदेशकी यात्रा करनेका, ब्राह्मण होकर वेतन लेकर काम करनेका, राजाके पुरोहित तथा यज्ञके अनधिकारीसे भी यज्ञ करानेका पाप लगे॥१२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अरुन्धत्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2816,11 +2815,6 @@ _अरुन्धती बोलीं—_ जो स्त्री मृ�
 अभोग्या वीरसूरस्तु बिसस्तैन्यं करोति या ॥ १२८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गण्डोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2833,6 +2827,11 @@ _अरुन्धती बोलीं—_ जो स्त्री मृ�
 
 जिसने मृणालोंकी चोरी की हो, उस स्त्रीको कुटुम्बीजनोंका अपमान करके घरमें रहनेका, दिन बीत जानेपर सत्तू खानेका, कलंकिनी होनेके कारण पतिके उपभोगमें न आनेका और ब्राह्मणी होकर भी क्षत्राणियोंके समान उग्र स्वभाववाले वीर पुत्रकी जननी होनेका पाप लगे॥१२८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गण्डोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2861,11 +2860,6 @@ _गण्डा बोली—_ जिस स्त्रीने मृण�
 विकर्मणा प्रमीयेत बिसस्तैन्यं करोति या ॥ १३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पशुसख उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2880,15 +2874,15 @@ _गण्डा बोली—_ जिस स्त्रीने मृण�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पशुसख उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दास एव प्रजायेतामप्रसूतिरकिंचनः ।  
 दैवतेष्वनमस्कारो बिसस्तैन्यं करोति यः ॥ १३१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शुनःसख उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2905,17 +2899,17 @@ _पशुसख बोला—_ जिसने मृणालोंकी �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शुनःसख उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अध्वर्यवे दुहितरं वा ददातु  
 च्छन्दोगे वा चरितब्रह्मचर्ये ।  
 आथर्वणं वेदमधीत्य विप्रः  
 स्नायीत वा यो हरते बिसानि ॥ १३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋषय ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2934,15 +2928,15 @@ _शुनःसखने कहा—_ जिसने मृणालोंक
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋषय ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्टमेतद् द्विजातीनां योऽयं ते शपथः कृतः।  
 त्वया कृतं बिसस्तैन्यं सर्वेषां नः शुनःसख ॥ १३३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शुनःसख उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -2957,6 +2951,11 @@ _शुनःसखने कहा—_ जिसने मृणालोंक
 
 _ऋषियोंने कहा—_ शुनःसख! तुमने जो शपथ की है, वह तो ब्राह्मणोंको अभीष्ट ही है। अतः जान पड़ता है, हमारे मृणालोंकी चोरी तुमने ही की है॥१३३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शुनःसख उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3028,11 +3027,6 @@ _शुनःसखने कहा—_ मुनिवरो! आपका क�
 उत्तिष्ठध्वमितः क्षिप्रं तानवाप्नुत वै द्विजाः ॥ १३९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -3048,6 +3042,11 @@ _शुनःसखने कहा—_ मुनिवरो! आपका क�
 
 तपोधनो! राजा वृषादर्भिने इसे भेजा था, किंन्तु यह मेरे द्वारा मारी गयी। ब्राह्मणो! मैंने सोचा कि अग्निसे उत्पन्न यह दुष्ट पापिनी कृत्या कहीं आप-लोगोंकी हिंसा न कर डाले; इसलिये मैं यहाँ आ गया। आपलोग मुझे इन्द्र समझें। आपलोगोंने जो लोभका परित्याग किया है, इससे आपको वे अक्षयलोक प्राप्त हुए हैं, जो सम्पूर्ण कामनाओंको देनेवाले हैं। अतः ब्राह्मणो! अब आपलोग यहाँसे उठें और शीघ्र उन लोकोंमें पदार्पण करें॥१३७—१३९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3138,11 +3137,6 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 यशोधर्मार्थभागी च भवति प्रेत्य मानवः ॥ १४५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत अनुशासनपर्वके अन्तर्गत दानधर्मपर्वमें मृणालकी चोरीका उपाख्यानविषयक तिरानबेवाँ अध्याय पूरा हुआ॥९३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -3159,6 +3153,11 @@ _भीष्मजी कहते हैं—_ युधिष्ठिर! �
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते अनुशासनपर्वणि दानधर्मपर्वणि बिसस्तैन्योपाख्याने त्रिनवतितमोऽध्यायः ॥ ९३ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत अनुशासनपर्वके अन्तर्गत दानधर्मपर्वमें मृणालकी चोरीका उपाख्यानविषयक तिरानबेवाँ अध्याय पूरा हुआ॥९३॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

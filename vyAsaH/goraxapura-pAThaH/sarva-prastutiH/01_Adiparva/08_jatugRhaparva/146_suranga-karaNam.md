@@ -4,14 +4,9 @@ title_full = "146 विदुरके भेजे हुए खनकद्�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-146p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-146p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-146p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-146p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "146 विदुरके भेजे हुए खनकद्�
 
 विदुरके भेजे हुए खनकद्वारा लाक्षागृहमें सुरंगका निर्माण
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,11 +353,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अन्यत्र विदुरामात्यात् तस्मात् खनकसत्तमात् ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें जतुगृहवासविषयक एक सौ छियालीसवाँ अध्याय पूरा हुआ॥१४६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -375,4 +370,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि जतुगृहपर्वणि जतुगृहवासे षट्‌चत्वारिंशदधिकशततमोऽध्यायः ॥ १४६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें जतुगृहवासविषयक एक सौ छियालीसवाँ अध्याय पूरा हुआ॥१४६॥
 </details>
+</details>
+

@@ -4,12 +4,7 @@ title_full = "080 शुक्राचार्यका वृषपर्व�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="अमोघः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-080.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="अमोघः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-080.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "080 शुक्राचार्यका वृषपर्व�
 
 शुक्राचार्यका वृषपर्वाको फटकारना तथा उसे छोड़कर जानेके लिये उद्यत होना और वृषपर्वाके आदेशसे शर्मिष्ठाका देवयानीकी दासी बनकर शुक्राचार्य तथा देवयानीको संतुष्ट करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,11 +135,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 यथेममात्मनो दोषं न नियच्छस्युपेक्षसे ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वृषपर्वोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -152,6 +147,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘दैत्यराज! बड़े आश्चर्यकी बात है कि तुमने मुझे मिथ्यावादी समझ लिया। तभी तो तुम अपने इस दोषको दूर नहीं करते और लापरवाही दिखाते हो’॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वृषपर्वोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -204,11 +204,6 @@ _वृषपर्वा बोले—_ ब्रह्मन्! यदि �
 सर्वत्यागं ततः कृत्वा प्रविशामि हुताशनम्॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शुक्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -221,6 +216,11 @@ _वृषपर्वा बोले—_ ब्रह्मन्! यदि �
 
 ग्रहेश्वर! यदि आप मुझे छोड़कर देवताओंके पक्षमें चले जायँगे तो मैं भी सर्वस्व त्याग कर जलती आगमें कूद पड़ूँगा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शुक्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -249,11 +249,6 @@ _शुक्राचार्यने कहा—_ असुरो! तु�
 योगक्षेमकरस्तेऽहमिन्द्रस्येव बृहस्पतिः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वृषपर्वोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -268,15 +263,15 @@ _शुक्राचार्यने कहा—_ असुरो! तु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वृषपर्वोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् किंचिदसुरेन्द्राणां विद्यते वसु भार्गव।  
 भुवि हस्तिगवाश्वं च तस्य त्वं मम चेश्वरः ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शुक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -293,15 +288,15 @@ _वृषपर्वा बोले—_ भृगुनन्दन! अस�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शुक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् किंचिदस्ति द्रविणं दैत्येन्द्राणां महासुर।  
 तस्येश्वरोऽस्मि यद्येषा देवयानी प्रसाद्यताम् ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -318,15 +313,15 @@ _शुक्राचार्यने कहा—_ महान् असु
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तथेत्याह वृषपर्वा महाकविः ।  
 देवयान्यन्तिकं गत्वा तमर्थं प्राह भार्गवः ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -343,15 +338,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि त्वमीश्वरस्तात राज्ञो वित्तस्य भार्गव।  
 नाभिजानामि तत् तेऽहं राजा तु वदतु स्वयम् ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वृषपर्वोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -368,15 +363,15 @@ _तब देवयानीने कहा—_ तात! यदि आप �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वृषपर्वोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यं काममभिकामासि देवयानि शुचिस्मिते।  
 तत् तेऽहं सम्प्रदास्यामि यदि वापि हि दुर्लभम् ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -393,15 +388,15 @@ _वृषपर्वा बोले—_ पवित्र मुसकान
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दासीं कन्यासहस्रेण शर्मिष्ठामभिकामये ।  
 अनु मां तत्र गच्छेत् सा यत्र दद्याच्च मे पिता॥१६॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वृषपर्वोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -416,6 +411,11 @@ _वृषपर्वा बोले—_ पवित्र मुसकान
 
 _देवयानीने कहा—_ मैं चाहती हूँ, शर्मिष्ठा एक हजार कन्याओंके साथ मेरी दासी होकर रहे और पिताजी जहाँ मेरा विवाह करें, वहाँ भी वह मेरे साथ जाय॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वृषपर्वोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -444,11 +444,6 @@ _यह सुनकर वृषपर्वाने धायसे कहा
 ग्रामं जनपदस्यार्थे आत्मार्थे पृथिवीं त्यजेत्॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -461,6 +456,11 @@ _यह सुनकर वृषपर्वाने धायसे कहा
 
 कुलके हितके लिये एक मनुष्यको त्याग दे। गाँवके भलेके लिये एक कुलको छोड़ दे। जनपदके लिये एक गाँवकी उपेक्षा कर दे और आत्मकल्याणके लिये सारी पृथ्वीको त्याग दे।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,11 +489,6 @@ _वैशम्पायनजी कहते हैं—_ तब धाय�
 सा यं कामयते कामं स कार्योऽद्य त्वयानघे ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शर्मिष्ठोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -508,16 +503,16 @@ _वैशम्पायनजी कहते हैं—_ तब धाय�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शर्मिष्ठोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यं सा कामयते कामं करवाण्यहमद्य तम्।  
 यद्येवमाह्वयेच्छुक्रो देवयानीकृते हि माम्।  
 मद्दोषान्मा गमच्छुक्रो देवयानी च मत्कृते ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -535,15 +530,15 @@ _शर्मिष्ठा बोली—_ यदि इस प्रका�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कन्यासहस्रेण वृता शिबिकया तदा।  
 पितुर्नियोगात् त्वरिता निश्चक्राम पुरोत्तमात् ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शर्मिष्ठोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -560,15 +555,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शर्मिष्ठोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं दासीसहस्रेण दासी ते परिचारिका।  
 अनु त्वां तत्र यास्यामि यत्र दास्यति ते पिता॥२२॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -585,15 +580,15 @@ _शर्मिष्ठा बोली—_ देवयानी! मैं �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तुवतो दुहिताहं ते याचतः प्रतिगृह्णतः।  
 स्तूयमानस्य दुहिता कथं दासी भविष्यसि ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शर्मिष्ठोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -610,15 +605,15 @@ _देवयानीने कहा—_ अरी! मैं तो स्त
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शर्मिष्ठोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन केनचिदार्तानां ज्ञातीनां सुखमावहेत्।  
 अतस्त्वामनुयास्यामि यत्र दास्यति ते पिता ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -635,15 +630,15 @@ _शर्मिष्ठा बोली—_ जिस किसी उपा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिश्रुते दासभावे दुहित्रा वृषपर्वणः।  
 देवयानी नृपश्रेष्ठ पितरं वाक्यमब्रवीत् ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवयान्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -660,15 +655,15 @@ _वैशम्पायनजी कहते हैं—_ नृपश्र
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवयान्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविशामि पुरं तात तुष्टास्मि द्विजसत्तम।  
 अमोघं तव विज्ञानमस्ति विद्याबलं च ते ॥ २६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -685,15 +680,15 @@ _देवयानी बोली—_ पिताजी! अब मैं न
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो दुहित्रा स द्विजश्रेष्ठो महायशाः।  
 प्रविवेश पुरं हृष्टः पूजितः सर्वदानवैः ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें ययात्युपाख्यानविषयक अस्सीवाँ अध्याय पूरा हुआ॥८०॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -714,8 +709,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि ययात्युपाख्यानेऽशीतितमोऽध्यायः ॥ ८० ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें ययात्युपाख्यानविषयक अस्सीवाँ अध्याय पूरा हुआ॥८०॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ५ श्लोक मिलाकर कुल ३२ श्लोक हैं)
 </details>
 </details>
+

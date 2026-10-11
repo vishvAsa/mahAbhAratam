@@ -4,12 +4,7 @@ title_full = "008 व्यासजीका धृतराष्ट्रस�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-008.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-008.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "008 व्यासजीका धृतराष्ट्रस�
 
 व्यासजीका धृतराष्ट्रसे दुर्योधनके अन्यायको रोकनेके लिये अनुरोध
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -233,11 +233,6 @@ _व्यासजीने कहा—_ महाप्राज्ञ धृ
 भवान् वात्र क्षमं कार्यं पुरा वोऽर्थोऽभिवर्धते ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें व्यासवाक्यविषयक आठवाँ अध्याय पूरा हुआ॥८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -257,4 +252,10 @@ _व्यासजीने कहा—_ महाप्राज्ञ धृ
 
 इति श्रीमहाभारते वनपर्वणि अरण्यपर्वणि व्यासवाक्ये अष्टमोऽध्यायः ॥ ८ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें व्यासवाक्यविषयक आठवाँ अध्याय पूरा हुआ॥८॥
 </details>
+</details>
+

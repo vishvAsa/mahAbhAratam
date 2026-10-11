@@ -4,24 +4,19 @@ title_full = "222 अग्निदेवका खाण्डववनको 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p05.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p05.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p06.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p06.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p07.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-222p07.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -35,6 +30,11 @@ title_full = "222 अग्निदेवका खाण्डववनको 
 
 अग्निदेवका खाण्डववनको जलानेके लिये श्रीकृष्ण और अर्जुनसे सहायताकी याचना करना, अग्निदेव उस वनको क्यों जलाना चाहते थे, इसे बतानेके प्रसंगमें राजा श्वेतकिकी कथा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,11 +103,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भाषमाणौ तदा वीरौ किमन्नं क्रियतामिति ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -120,6 +115,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 जब वे दोनों वीर ‘आपके लिये किस अन्नकी व्यवस्था की जाय?’ इसी बातको बार-बार दुहराने लगे, तब उनके ऐसा कहनेपर भगवान् अग्निदेव उन दोनोंसे इस प्रकार बोले॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,11 +248,6 @@ _ब्राह्मणदेवताने कहा—_ वीरो! म�
 उत्तमास्त्रविदौ सम्यक् सर्वतो वारयिष्यथः ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -265,6 +260,11 @@ _ब्राह्मणदेवताने कहा—_ वीरो! म�
 
 आप दोनों उत्तम अस्त्रोंके ज्ञाता हैं, अतः जब मैं इस वनको जलाने लगूँ, उस समय आपलोग ऊपरसे बरसती हुई जलकी धाराओं तथा इस वनसे निकलकर चारों ओर भागनेवाले प्राणियोंको रोकियेगा॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -313,11 +313,6 @@ _जनमेजयने पूछा—_ ब्रह्मन्! भगव�
 खाण्डवस्य पुरा दाहो यथा समभवन्मुने ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -330,6 +325,11 @@ _जनमेजयने पूछा—_ ब्रह्मन्! भगव�
 
 ब्रह्मन्! मुने! पूर्वकालमें खाण्डववनका दाह जिस प्रकार हुआ, वह सब विस्तारके साथ मैं ठीक-ठीक सुनना चाहता हूँ॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -829,11 +829,6 @@ _वैशम्पायनजीने कहा—_ महाराज जन
 याजयिष्यामि राजंस्त्वां समयेन परंतप ॥ ४६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-रुद्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -847,6 +842,11 @@ _वैशम्पायनजीने कहा—_ महाराज जन
 
 ‘राजन्! यज्ञ कराना हमारा काम नहीं है; परंतु तुमने यही वर माँगनेके लिये भारी तपस्या की है, अतः परंतप नरेश! मैं एक शर्तपर तुम्हारा यज्ञ कराऊँगा’॥४५-४६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+रुद्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1385,11 +1385,6 @@ _रुद्र बोले—_ राजेन्द्र! यदि तु�
 सप्तकृत्वः प्रशमितः खाण्डवे हव्यवाहनः ॥ ८३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत खाण्डवदाहपर्वमें अग्निपराभवविषयक दो सौ बाईसवाँ अध्याय पूरा हुआ॥२२२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1407,4 +1402,10 @@ _रुद्र बोले—_ राजेन्द्र! यदि तु�
 
 इति श्रीमहाभारते आदिपर्वणि खाण्डवदाहपर्वणि अग्निपराभवे द्वाविंशत्यधिकद्विशततमोऽध्यायः ॥ २२२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत खाण्डवदाहपर्वमें अग्निपराभवविषयक दो सौ बाईसवाँ अध्याय पूरा हुआ॥२२२॥
 </details>
+</details>
+

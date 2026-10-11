@@ -4,12 +4,7 @@ title_full = "008 प्रमद्वराका जन्म, रुरु�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-008.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-008.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "008 प्रमद्वराका जन्म, रुरु�
 
 प्रमद्वराका जन्म, रुरुके साथ उसका वाग्दान तथा विवाहके पहले ही साँपके काटनेसे प्रमद्वराकी मृत्यु
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,11 +456,6 @@ _उग्रश्रवाजी कहते हैं—_ ब्रह्म
 ते च सर्वे द्विजश्रेष्ठास्तत्रैवोपाविशंस्तदा ॥ २७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें प्रमद्वराके सर्पदंशनसे सम्बन्ध रखनेवाला आठवाँ अध्याय पूरा हुआ॥८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -480,8 +475,14 @@ _उग्रश्रवाजी कहते हैं—_ ब्रह्म
 इति श्रीमहाभारते आदिपर्वणि पौलोमपर्वणि प्रमद्वरासर्पदंशेऽष्टमोऽध्यायः ॥ ८ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत पौलोमपर्वमें प्रमद्वराके सर्पदंशनसे सम्बन्ध रखनेवाला आठवाँ अध्याय पूरा हुआ॥८॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका  श्लोक मिलाकर कुल २७ श्लोक हैं)
 </details>
 </details>
+

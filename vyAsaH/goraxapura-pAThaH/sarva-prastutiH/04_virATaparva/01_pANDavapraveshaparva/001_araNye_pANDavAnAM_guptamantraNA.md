@@ -4,13 +4,13 @@ title_full = "001 विराटनगरमें अज्ञातवास 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-001p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-001p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-001p2.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-001p2.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-001p3.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-001p3.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-001p4.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-001p4.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -44,11 +44,6 @@ title_full = "001 विराटनगरमें अज्ञातवास 
 देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत् ॥ १ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -63,17 +58,17 @@ title_full = "001 विराटनगरमें अज्ञातवास 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं विराटनगरे मम पूर्वपितामहाः।  
 अज्ञातवासमुषिता दुर्योधनभयार्दिताः ॥ २ ॥  
 पतिव्रता महाभागा सततं ब्रह्मवादिनी।  
 द्रौपदी च कथं ब्रह्मन्नज्ञाता दुःखितावसत् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -90,6 +85,11 @@ title_full = "001 विराटनगरमें अज्ञातवास 
 
 _जनमेजयने पूछा—_ ब्रह्मन्! मेरे प्रपितामह पाण्डवोंने दुर्योधनके भयसे कष्ट उठाते हुए विराटनगरमें अपने अज्ञातवासका समय किस प्रकार व्यतीत किया तथा दुःखमें पड़ी हुई सदा ब्रह्मस्वरूप श्रीकृष्णका नामकीर्तन करनेवाली परम सौभाग्यवती पतिव्रता द्रौपदी वहाँ अपनेको अज्ञात रखकर कैसे निवास कर सकी?॥२-३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -182,11 +182,6 @@ _वैशम्पायनजीने कहा—_ राजन्! तु�
 संवत्सरमिमं यत्र वसेमाविदिताः परैः ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -199,6 +194,11 @@ _वैशम्पायनजीने कहा—_ राजन्! तु�
 
 ‘कुन्तीनन्दन अर्जुन! तुम अपनी रुचिके अनुसार कोई उत्तम निवासस्थान चुनो, जहाँ यहाँसे चलकर हम एक वर्षतक इस प्रकार रहें कि शत्रुओंको हमारा पता न चल सके’॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -255,11 +255,6 @@ _अर्जुन बोले—_ नरेश्वर! इसमें स�
 यत्र वत्स्यामहे राजन् संवत्सरमिमं वयम् ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -272,6 +267,11 @@ _अर्जुन बोले—_ नरेश्वर! इसमें स�
 
 राजन्! इनमेंसे कौन-सा राष्ट्र आपको निवास करनेके लिये पसंद है? जिसमें हम सब लोग इस वर्ष निवास करें॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -360,11 +360,6 @@ _युधिष्ठिरने कहा—_ महाबाहो! तु�
 आसाद्य मत्स्यं तत् कर्म प्रब्रूत कुरुनन्दनाः ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -377,6 +372,11 @@ _युधिष्ठिरने कहा—_ महाबाहो! तु�
 
 किंतु कुरुनन्दनो! तुमलोग यह तो बताओ कि हम मत्स्यराजके पास पहुँचकर किन-किन कार्योंका भार सँभाल सकेंगे?॥१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -425,11 +425,6 @@ _अर्जुनने पूछा—_ नरदेव! आप उनके 
 स इमामापदं प्राप्य कथं घोरां तरिष्यसि ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -442,6 +437,11 @@ _अर्जुनने पूछा—_ नरदेव! आप उनके 
 
 राजन्! साधारण मनुष्योंकी भाँति आपको किसी प्रकारके दुःखका अनुभव हो, यह उचित नहीं है; अतः इस घोर आपत्तिमें पड़कर आप कैसे इसके पार होंगे?॥२२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,11 +533,6 @@ _युधिष्ठिरने कहा—_ नरश्रेष्ठ क
 इत्येतद् वो मयाऽऽख्यातं विहरिष्याम्यहं यथा।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -551,14 +546,14 @@ _युधिष्ठिरने कहा—_ नरश्रेष्ठ क
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं निर्दिश्य चात्मानं भीमसेनमुवाच ह॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -572,6 +567,11 @@ _युधिष्ठिरने कहा—_ नरश्रेष्ठ क
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! इस प्रकार अज्ञातवासमें अपने द्वारा किये जानेवाले कार्यको बतलाकर युधिष्ठिर भीमसेनसे बोले।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -648,11 +648,6 @@ _युधिष्ठिरने पूछा—_ भीमसेन! तु�
 वृकोदर विराटे त्वं रंस्यसे केन हेतुना ॥ २८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें युधिष्ठिर आदिकी परस्पर मन्त्रणासे सम्बन्ध रखनेवाला पहला अध्याय पूरा हुआ॥१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -671,6 +666,11 @@ _युधिष्ठिरने पूछा—_ भीमसेन! तु�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते विराटपर्वणि पाण्डवप्रवेशपर्वणि युधिष्ठिरादिमन्त्रणे प्रथमोऽध्यायः ॥ १ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें युधिष्ठिर आदिकी परस्पर मन्त्रणासे सम्बन्ध रखनेवाला पहला अध्याय पूरा हुआ॥१॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

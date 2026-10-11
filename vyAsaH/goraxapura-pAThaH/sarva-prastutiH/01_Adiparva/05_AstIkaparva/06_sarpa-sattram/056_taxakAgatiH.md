@@ -4,16 +4,11 @@ title_full = "056 राजाका आस्तीकको वर देन�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-056p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-056p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-056p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-056p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-056p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-056p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,17 +24,17 @@ title_full = "056 राजाका आस्तीकको वर देन�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालोऽप्ययं स्थविर इवावभाषते  
 नायं बालः स्थविरोऽयं मतो मे।  
 इच्छाम्यहं वरमस्मै प्रदातुं  
 तन्मे विप्राः संविदध्वं यथावत् ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सदस्या ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -58,17 +53,17 @@ _जनमेजयने कहा—_ ब्राह्मणो! यह ब�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सदस्या ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालोऽपि विप्रो मान्य एवेह राज्ञां  
 विद्वान् यो वै स पुनर्वै यथावत्।  
 सर्वान् कामांस्त्वत्त एवार्हतेऽद्य  
 यथा च नस्तक्षक एति शीघ्रम् ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -87,17 +82,17 @@ _सदस्योंने कहा—_ ब्राह्मण यदि �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याहर्तुकामे वरदे नृपे द्विजं  
 वरं वृणीष्वेति ततोऽभ्युवाच ।  
 होता वाक्यं नातिहृष्टान्तरात्मा  
 कर्मण्यस्मिंस्तक्षको नैति तावत् ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -116,17 +111,17 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! त�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा चेदं कर्म समाप्यते मे  
 यथा च वै तक्षक एति शीघ्रम्।  
 तथा भवन्तः प्रयतन्तु सर्वे  
 परं शक्त्या स हि मे विद्विषाणः ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋत्विज ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -143,6 +138,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनक! त�
 
 _जनमेजयने कहा—_ ब्राह्मणो! जैसे भी यह कर्म पूरा हो जाय और जिस प्रकार भी तक्षक नाग शीघ्र यहाँ आ जाय, आपलोग पूरी शक्ति लगाकर वैसा ही प्रयत्न कीजिये; क्योंकि मेरा असली शत्रु तो वही है॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋत्विज ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,11 +253,6 @@ _ऋत्विज बोले—_ राजन्! हमारे शास�
 क्रुद्धो वाक्यं तक्षकस्यान्तमिच्छन् ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -274,15 +269,15 @@ _ऋत्विज बोले—_ राजन्! हमारे शास�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रस्य भवने विप्रा यदि नागः स तक्षकः।  
 तमिन्द्रेणैव सहितं पातयध्वं विभावसौ ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -297,6 +292,11 @@ _ऋत्विज बोले—_ राजन्! हमारे शास�
 
 _जनमेजयने कहा—_ विप्रगण! यदि तक्षक नाग इन्द्रके विमानमें छिपा हुआ है तो उसे इन्द्रके साथ ही अग्निमें गिरा दो॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,11 +365,6 @@ _उग्रश्रवाजी कहते हैं—_ राजा ज�
 मन्त्रशक्त्या पावकार्चिः समीपमवशो गतः ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋत्विज ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -384,15 +379,15 @@ _उग्रश्रवाजी कहते हैं—_ राजा ज�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋत्विज ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्तते तव राजेन्द्र कर्मैतद् विधिवत् प्रभो।  
 अस्मै तु द्विजमुख्याय वरं त्वं दातुमर्हसि ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -409,17 +404,17 @@ _ऋत्विजोंने कहा—_ राजेन्द्र! आ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालाभिरूपस्य तवाप्रमेय  
 वरं प्रयच्छामि यथानुरूपम् ।  
 वृणीष्व यत् तेऽभिमतं हृदि स्थितं  
 तत् ते प्रदास्याम्यपि चेददेयम् ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ऋत्विज ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -436,6 +431,11 @@ _ऋत्विजोंने कहा—_ राजेन्द्र! आ�
 
 _जनमेजयने कहा—_ ब्राह्मणबालक! तुम अप्रमेय हो—तुम्हारी प्रतिभाकी कोई सीमा नहीं है। मैं तुम-जैसे विद्वान्‌के लिये वर देना चाहता हूँ। तुम्हारे मनमें जो अभीष्ट कामना हो, उसे बताओ। वह देनेयोग्य न होगी, तो भी तुम्हें अवश्य दे दूँगा॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ऋत्विज ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,11 +466,6 @@ _ऋत्विज बोले—_ राजन्! यह तक्षक न
 तीव्रान् निःश्वासान् निःश्वसन् पन्नगेन्द्रः ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -487,15 +482,15 @@ _ऋत्विज बोले—_ राजन्! यह तक्षक न
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतिष्यमाणे नागेन्द्रे तक्षके जातवेदसि।  
 इदमन्तरमित्येव तदाऽऽस्तीकोऽभ्यचोदयत् ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-आस्तीक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -510,6 +505,11 @@ _ऋत्विज बोले—_ राजन्! यह तक्षक न
 
 _उग्रश्रवाजी कहते हैं—_ शौनक! नागराज तक्षक अब कुछ ही क्षणोंमें आगकी ज्वालामें गिरनेवाला था। उस समय आस्तीकने यह सोचकर कि ‘यही वर माँगनेका अच्छा अवसर है’ राजाको वर देनेके लिये प्रेरित किया॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+आस्तीक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -558,11 +558,6 @@ _आस्तीकने कहा—_ राजा जनमेजय! यद�
 तत् ते दद्यां वरं विप्र न निवर्तेत् क्रतुर्मम॥२३॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-आस्तीक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -577,15 +572,15 @@ _आस्तीकने कहा—_ राजा जनमेजय! यद�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+आस्तीक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्णं रजतं गाश्च न त्वां राजन् वृणोम्यहम्।  
 सत्रं ते विरमत्वेतत् स्वस्ति मातृकुलस्य नः ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -600,6 +595,11 @@ _आस्तीकने कहा—_ राजा जनमेजय! यद�
 
 _आस्तीकने कहा—_ राजन्! मैं तुमसे सोना, चाँदी और गौएँ नहीं माँगूँगा, मेरी यही इच्छा है कि तुम्हारा यह यज्ञ बंद हो जाय, जिससे मेरी माताके कुलका कल्याण हो॥२४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -632,11 +632,6 @@ _उग्रश्रवाजी कहते हैं—_ भृगुनन
 राजानमूचुः सहिता लभतां ब्राह्मणो वरम् ॥ २७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें आस्तीकको वरप्रदान नामक छप्पनवाँ अध्याय पूरा हुआ॥५६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -654,4 +649,10 @@ _उग्रश्रवाजी कहते हैं—_ भृगुनन
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि आस्तीकवरप्रदानं नाम षट्‌पञ्चाशत्तमोऽध्यायः ॥ ५६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें आस्तीकको वरप्रदान नामक छप्पनवाँ अध्याय पूरा हुआ॥५६॥
 </details>
+</details>
+

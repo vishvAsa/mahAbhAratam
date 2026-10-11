@@ -4,12 +4,7 @@ title_full = "045 चित्रसेन और उर्वशीका व�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-045.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-045.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "045 चित्रसेन और उर्वशीका व�
 
 चित्रसेन और उर्वशीका वार्तालाप
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,11 +240,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 गच्छ त्वं हि यथाकाममागमिष्याम्यहं सुखम् ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत इन्द्रलोकाभिगमनपर्वमें चित्रसेन-उर्वशीसंवादविषयक पैंतालीसवाँ अध्याय पूरा हुआ॥४५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -262,6 +257,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते वनपर्वणि इन्द्रलोकाभिगमनपर्वणि चित्रसेनोर्वशीसंवादे पञ्चचत्वारिंशोऽध्यायः ॥ ४५ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत इन्द्रलोकाभिगमनपर्वमें चित्रसेन-उर्वशीसंवादविषयक पैंतालीसवाँ अध्याय पूरा हुआ॥४५॥
 </details>
 </details>
 

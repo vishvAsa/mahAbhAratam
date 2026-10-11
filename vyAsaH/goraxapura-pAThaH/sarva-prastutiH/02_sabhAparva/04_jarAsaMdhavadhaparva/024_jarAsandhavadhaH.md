@@ -4,18 +4,13 @@ title_full = "024 भीमके द्वारा जरासंधका �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-024p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-024p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-024p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-024p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-024p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-024p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-024p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-024p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "024 भीमके द्वारा जरासंधका �
 
 भीमके द्वारा जरासंधका वध, बंदी राजाओंकी मुक्ति, श्रीकृष्ण आदिका भेंट लेकर इन्द्रप्रस्थमें आना और वहाँसे श्रीकृष्णका द्वारका जाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -921,11 +921,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सहदेवो नृणां देवं वासुदेवमुपस्थितः ॥ ४१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(सहदेव उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -938,6 +933,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 उसके आगे रत्नोंका बहुत बड़ा भण्डार आ रहा था। सहदेव अत्यन्त विनीतभावसे चरणोंमें पड़कर नरदेव भगवान् वासुदेवकी शरणमें आया था॥४१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(सहदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -986,11 +986,6 @@ _सहदेव बोला—_ पुरुषसिंह जनार्द
 निर्भयो विचरिष्यामि यथाकामं यथासुखम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1003,6 +998,11 @@ _सहदेव बोला—_ पुरुषसिंह जनार्द
 
 आपसे, भीमसेनसे तथा अर्जुनसे आज्ञा लेकर यह कार्य करूँगा और आपकी कृपासे निर्भय हो इच्छानुसार सुखपूर्वक विचरूँगा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1063,11 +1063,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 स प्रह्वः प्राञ्जलिर्भूत्वा विज्ञापयत माधवम्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सहदेव उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1082,6 +1077,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 शवदाहके पश्चात् सहदेवने अपने छोटे भाईके साथ पिताके लिये जलांजलि दी। इस प्रकार पिताका पारलौकिक कार्य करके राजकुमार सहदेव नगरसे निकलकर उस स्थानमें गया, जहाँ भगवान् श्रीकृष्ण तथा महाभाग पाण्डुपुत्र भीमसेन और अर्जुन विद्यमान थे। उसने नम्रतापूर्वक हाथ जोड़कर भगवान् श्रीकृष्णसे कहा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सहदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1291,11 +1291,6 @@ _सहदेवने कहा—_ प्रभो! ये गाय, भै�
 (हृष्टश्च धर्मराड् वाक्यं जनार्दनमभाषत।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1307,6 +1302,11 @@ _सहदेवने कहा—_ प्रभो! ये गाय, भै�
 
 फिर धर्मराजने हर्षमें भरकर भगवान् श्रीकृष्णसे कहा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1355,11 +1355,6 @@ _युधिष्ठिर बोले—_ पुरुषसिंह जन
 जरासंधवधेनैव प्राप्तास्ते विपुलाः श्रियः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1372,6 +1367,11 @@ _युधिष्ठिर बोले—_ पुरुषसिंह जन
 
 पुरुषोत्तम! इस युद्धसे भूमण्डलमें आपके यशका विस्तार हुआ। जरासंधके वधसे ही आपको प्रचुर सम्पत्ति प्राप्त हुई है।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1536,11 +1536,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तद् राजा धर्मतश्चक्रे प्रजापालनकीर्तनम् ॥ ६० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत जरासंधवधपर्वमें जरासंधवधविषयक चौबीसवाँ अध्याय पूरा हुआ॥२४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1557,6 +1552,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते सभापर्वणि जरासंधवधपर्वणि जरासंधवधे चतुर्विंशोऽध्यायः ॥ २४ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत जरासंधवधपर्वमें जरासंधवधविषयक चौबीसवाँ अध्याय पूरा हुआ॥२४॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

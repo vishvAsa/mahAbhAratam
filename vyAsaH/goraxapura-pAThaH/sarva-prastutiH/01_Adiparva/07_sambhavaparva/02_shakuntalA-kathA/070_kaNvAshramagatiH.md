@@ -4,14 +4,9 @@ title_full = "070 तपोवन और कण्वके आश्रमक�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-070p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-070p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-070p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-070p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "070 तपोवन और कण्वके आश्रमक�
 
 तपोवन और कण्वके आश्रमका वर्णन तथा राजा दुष्यन्तका उस आश्रममें प्रवेश
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -861,11 +861,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 विविक्तमत्यर्थमनोहरं शुभम् ॥ ५१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक सत्तरवाँ अध्याय पूरा हुआ॥७०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -885,4 +880,10 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि शकुन्तलोपाख्याने सप्ततितमोऽध्यायः ॥ ७० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक सत्तरवाँ अध्याय पूरा हुआ॥७०॥
 </details>
+</details>
+

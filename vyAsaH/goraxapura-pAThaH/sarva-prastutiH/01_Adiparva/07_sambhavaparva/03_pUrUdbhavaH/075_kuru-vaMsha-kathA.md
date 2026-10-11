@@ -4,12 +4,7 @@ title_full = "075 दक्ष, वैवस्वत मनु तथा उन
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="श्रीदेवी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-075-sridevi.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="श्रीदेवी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-075-sridevi.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "075 दक्ष, वैवस्वत मनु तथा उन
 
 दक्ष, वैवस्वत मनु तथा उनके पुत्रोंकी उत्पत्ति; पुरूरवा, नहुष और ययातिके चरित्रोंका संक्षेपसे वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -907,11 +907,6 @@ _वैशम्पायनजी कहते हैं—_ निष्पा
 पौरवो वंश इति ते ख्यातिं लोके गमिष्यति ॥ ५६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -926,17 +921,17 @@ _वैशम्पायनजी कहते हैं—_ निष्पा
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स नृपशार्दूल पूरुं राज्येऽभिषिच्य च।  
 ततः सुचरितं कृत्वा भृगुतुङ्गे महातपाः ॥ ५७ ॥  
 कालेन महता पश्चात् कालधर्ममुपेयिवान्।  
 कारयित्वा त्वनशनं सदारः स्वर्गमाप्तवान् ॥ ५८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें ययात्युपाख्यानविषयक पचहत्तरवाँ अध्याय पूरा हुआ॥७५॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -957,6 +952,11 @@ _वैशम्पायनजी कहते हैं—_ नृपश्र
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि ययात्युपाख्याने पञ्चसप्ततितमोऽध्यायः ॥ ७५ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें ययात्युपाख्यानविषयक पचहत्तरवाँ अध्याय पूरा हुआ॥७५॥
 </details>
 </details>
 

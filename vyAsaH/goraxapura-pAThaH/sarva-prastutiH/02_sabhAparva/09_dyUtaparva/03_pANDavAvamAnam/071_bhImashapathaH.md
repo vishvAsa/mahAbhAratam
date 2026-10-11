@@ -4,18 +4,13 @@ title_full = "071 कर्ण और दुर्योधनके वचन, 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-071p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-071p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-071p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-071p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-071p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-071p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-071p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-071p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "071 कर्ण और दुर्योधनके वचन, 
 
 कर्ण और दुर्योधनके वचन, भीमसेनकी प्रतिज्ञा, विदुरकी चेतावनी और द्रौपदीको धृतराष्ट्रसे वरप्राप्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,11 +135,6 @@ _कर्ण बोला—_ भद्रे द्रौपदी! दास,
 सभामध्ये यो व्यदेवीद् ग्लहेषु ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -156,17 +151,17 @@ _कर्ण बोला—_ भद्रे द्रौपदी! दास,
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् वै श्रुत्वा भीमसेनोऽत्यमर्षी  
 भृशं निशश्वास तदाऽऽर्तरूपः ।  
 राजानुगो धर्मपाशानुबद्धो  
 दहन्निवैनं क्रोधसंरक्तदृष्टिः ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीम उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -185,17 +180,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीम उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाहं कुप्ये सूतपुत्रस्य राज-  
 न्नेष सत्यं दासधर्मः प्रदिष्टः।  
 किं विद्विषो वै मामेवं व्याहरेयु-  
 र्नादेवीस्त्वं यद्यनया नरेन्द्र ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -212,6 +207,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _भीमसेनने कहा—_ राजन्! मुझे सूतपुत्र कर्णपर क्रोध नहीं आता। सचमुच ही दासधर्म वही है, जो उसने बताया है। महाराज! यदि आप इस द्रौपदीको दाँवपर लगाकर जूआ न खेलते तो क्या ये शत्रु हमलोगोंसे ऐसी बातें कह सकते थे?॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -328,11 +328,6 @@ _वैशम्पायनजी कहते हैं—_ भीमसेन
 वृक्षस्येव विनिश्चेरुः कोटरेभ्यः प्रदह्यतः ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -345,6 +340,11 @@ _वैशम्पायनजी कहते हैं—_ भीमसेन
 
 उस समय क्रोधमें भरे हुए भीमसेनके रोम-रोमसे आगकी चिनगारियाँ निकल रही थीं; ठीक उसी तरह, जैसे जलते हुए वृक्षके कोटरोंसे आगकी लपटें निकलती दिखायी देती हैं॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -427,11 +427,6 @@ _विदुरजीने कहा—_ धृतराष्ट्रके 
 धर्मादस्मात् कुरवो मापयात ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -448,17 +443,17 @@ _विदुरजीने कहा—_ धृतराष्ट्रके 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भीमस्य वाक्ये तद्वदेवार्जुनस्य  
 स्थितोऽहं वै यमयोश्चैवमेव ।  
 युधिष्ठिरं ते प्रवदन्त्वनीश-  
 मथो दास्यान्मोक्ष्यसे याज्ञसेनि ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -477,17 +472,17 @@ _दुर्योधन बोला—_ द्रौपदी! मैं भ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईशो राजा पूर्वमासीद् ग्लहे नः  
 कुन्तीसुतो धर्मराजो महात्मा ।  
 ईशस्त्वयं कस्य पराजितात्मा  
 तज्जानीध्वं कुरवः सर्व एव ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -504,6 +499,11 @@ _दुर्योधन बोला—_ द्रौपदी! मैं भ�
 
 _अर्जुनने कहा—_ कुन्तीनन्दन महात्मा धर्मराज राजा युधिष्ठिर पहले तो हमें दाँवपर लगानेके अधिकारी थे ही, किंतु जब वे अपने शरीरको ही हार गये, तब किसके स्वामी रहे? इस बातपर सब कौरव विचार करें॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -562,11 +562,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ततो राजा वाक्यमिदं बभाषे ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -581,6 +576,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 तदनन्तर गान्धारी और विद्वान् विदुरने उस उत्पात-सूचक भयंकर शब्दको लक्ष्य करके अत्यन्त दुःखी हो राजा धृतराष्ट्रसे उसके विषयमें निवेदन किया, तब राजाने इस प्रकार कहा॥२४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,11 +615,6 @@ _धृतराष्ट्र बोले—_ रे मन्दबुद्
 विमृश्यैतत् प्रज्ञया तत्त्वबुद्धिः ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -636,15 +631,15 @@ _धृतराष्ट्र बोले—_ रे मन्दबुद्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरं वृणीष्व पाञ्चालि मत्तो यदभिवाञ्छसि।  
 वधूनां हि विशिष्टा मे त्वं धर्मपरमा सती ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -659,6 +654,11 @@ _धृतराष्ट्र बोले—_ रे मन्दबुद्
 
 _धृतराष्ट्रने कहा—_ बहू द्रौपदी! तुम मेरी पुत्रवधुओंमें सबसे श्रेष्ठ एवं धर्मपरायणा सती हो। तुम्हारी जो इच्छा हो, उसके अनुसार मुझसे वर माँग लो॥२७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -691,11 +691,6 @@ _द्रौपदी बोली—_ भरतवंशशिरोमणे!
 राजभिर्लालितस्यास्य न युक्ता दासपुत्रता ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -710,16 +705,16 @@ _द्रौपदी बोली—_ भरतवंशशिरोमणे!
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं भवतु कल्याणि यथा त्वमभिभाषसे।  
 द्वितीयं ते वरं भद्रे ददानि वरयस्व ह।  
 मनो हि मे वितरति नैकं त्वं वरमर्हसि ॥ ३१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -737,15 +732,15 @@ _धृतराष्ट्रने कहा—_ कल्याणि! त�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सरथौ सधनुष्कौ च भीमसेनधनंजयौ।  
 यमौ च वरये राजन्नदासान् स्ववशानहम् ॥ ३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -762,16 +757,16 @@ _द्रौपदी बोली—_ राजन्! मैं दूसर�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथास्तु ते महाभागे यथा त्वं नन्दिनीच्छसि।  
 तृतीयं वरयास्मत्तो नासि द्वाभ्यां सुसत्कृता।  
 त्वं हि सर्वस्नुषाणां मे श्रेयसी धर्मचारिणी ॥ ३३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -787,6 +782,11 @@ _द्रौपदी बोली—_ राजन्! मैं दूसर�
 
 _धृतराष्ट्रने कहा—_ महाभागे! तुम अपने कुलको आनन्द प्रदान करनेवाली हो। तुम जैसा चाहती हो, वैसा ही हो। अब तुम तीसरा वर और माँगो। तुम मेरी सब पुत्रवधुओंमें श्रेष्ठ एवं धर्मका पालन करनेवाली हो। मैं समझता हूँ, केवल दो वरोंसे तुम्हारा पूरा सत्कार नहीं हुआ॥३३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -835,11 +835,6 @@ _द्रौपदी बोली—_ भगवन्! लोभ धर्म�
 वेत्स्यन्ति चैव भद्राणि राजन् पुण्येन कर्मणा ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें द्रौपदीवरलाभविषयक इकहत्तरवाँ अध्याय पूरा हुआ॥७१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -857,4 +852,10 @@ _द्रौपदी बोली—_ भगवन्! लोभ धर्म�
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि द्रौपदीवरलाभे एकसप्ततितमोऽध्यायः ॥ ७१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें द्रौपदीवरलाभविषयक इकहत्तरवाँ अध्याय पूरा हुआ॥७१॥
 </details>
+</details>
+

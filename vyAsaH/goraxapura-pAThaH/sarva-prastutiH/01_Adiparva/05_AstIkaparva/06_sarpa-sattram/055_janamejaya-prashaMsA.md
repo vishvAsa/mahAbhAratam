@@ -4,14 +4,9 @@ title_full = "055 आस्तीकके द्वारा यजमान, �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-055p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-055p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-055p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-आस्तीक उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-055p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "055 आस्तीकके द्वारा यजमान, �
 
 आस्तीकके द्वारा यजमान, यज्ञ, ऋत्विज्, सदस्यगण और अग्निदेवकी स्तुति-प्रशंसा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+आस्तीक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -395,11 +395,6 @@ _आस्तीकने कहा—_ भरतवंशियोंमें 
 दुष्प्रेक्षणीयोऽसि भगीरथेन ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -416,17 +411,17 @@ _आस्तीकने कहा—_ भरतवंशियोंमें 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स्तुताः सर्व एव प्रसन्ना  
 राजा सदस्या ऋत्विजो हव्यवाहः।  
 तेषां दृष्ट्वा भावितानीङ्गितानि  
 प्रोवाच राजा जनमेजयोऽथ ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें आस्तीकद्वारा सर्पसत्रमें राजा जनमेजयकी स्तुतिविषयक पचपनवाँ अध्याय पूरा हुआ॥५५॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -448,4 +443,10 @@ _उग्रश्रवाजी कहते हैं—_ आस्तीक
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सर्पसत्रे आस्तीककृतराजस्तवे पञ्चपञ्चाशत्तमोऽध्याय ॥ ५५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें आस्तीकद्वारा सर्पसत्रमें राजा जनमेजयकी स्तुतिविषयक पचपनवाँ अध्याय पूरा हुआ॥५५॥
 </details>
+</details>
+

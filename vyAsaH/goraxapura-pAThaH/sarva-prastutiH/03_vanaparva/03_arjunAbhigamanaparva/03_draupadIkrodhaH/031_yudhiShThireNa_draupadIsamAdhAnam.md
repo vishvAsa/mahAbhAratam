@@ -4,20 +4,15 @@ title_full = "031 युधिष्ठिरद्वारा द्रौप�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-031-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-031-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-031-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-031-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-031-p03.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-031-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-031-p04.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-031-p04.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-031-p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-031-p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "031 युधिष्ठिरद्वारा द्रौप�
 
 युधिष्ठिरद्वारा द्रौपदीके आक्षेपका समाधान तथा ईश्वर, धर्म और महापुरुषोंके आदरसे लाभ और अनादरसे हानि
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -799,11 +799,6 @@ _युधिष्ठिर बोले—_ यज्ञसेनकुमा�
 उत्तमां देवतां कृष्णे मावमंस्थाः कथंचन ॥ ४२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें युधिष्ठिरवाक्यविषयक इकतीसवाँ अध्याय पूरा हुआ॥३१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -821,4 +816,10 @@ _युधिष्ठिर बोले—_ यज्ञसेनकुमा�
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि युधिष्ठिरवाक्ये एकत्रिंशोऽध्यायः ॥ ३१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अर्जुनाभिगमनपर्वमें युधिष्ठिरवाक्यविषयक इकतीसवाँ अध्याय पूरा हुआ॥३१॥
 </details>
+</details>
+

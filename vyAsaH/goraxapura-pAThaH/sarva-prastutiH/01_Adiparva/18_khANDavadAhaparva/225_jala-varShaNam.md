@@ -4,18 +4,13 @@ title_full = "225 खाण्डववनमें जलते हुए प�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-225p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-225p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-225p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-225p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-225p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-225p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-225p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-225p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "225 खाण्डववनमें जलते हुए प�
 
 खाण्डववनमें जलते हुए प्राणियोंकी दुर्दशा और इन्द्रके द्वारा जल बरसाकर आग बुझानेकी चेष्टा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,11 +318,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 शतक्रतुं सहस्राक्षं देवेशमसुरार्दनम् ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-देवा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -338,15 +333,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+देवा ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं न्विमे मानवाः सर्वे दह्यन्ते चित्रभानुना।  
 कच्चिन्न संक्षयः प्राप्तो लोकानाममरेश्वर ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -361,6 +356,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _देवता बोले—_ अमरेश्वर! अग्निदेव इन सब मनुष्योंको क्यों जला रहे हैं? कहीं संसारका प्रलय तो नहीं आ गया॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,11 +469,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 बभूव तद् वनं घोरं स्तनयित्नुसमाकुलम् ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत खाण्डवदाहपर्वमें इन्द्रकोपविषयक दो सौ पचीसवाँ अध्याय पूरा हुआ॥२२५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -491,4 +486,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि खाण्डवदाहपर्वणि इन्द्रक्रोधे पञ्चविंशत्यधिकद्विशततमोऽध्यायः ॥ २२५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत खाण्डवदाहपर्वमें इन्द्रकोपविषयक दो सौ पचीसवाँ अध्याय पूरा हुआ॥२२५॥
 </details>
+</details>
+

@@ -4,14 +4,9 @@ title_full = "025 अर्जुन आदि चारों भाइयो�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-025-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-025-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-025-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-025-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -28,15 +23,15 @@ title_full = "025 अर्जुन आदि चारों भाइयो�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पार्थः प्राप्य धनुः श्रेष्ठमक्षय्यौ च महेषुधी।  
 रथं ध्वजं सभां चैव युधिष्ठिरमभाषत ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -51,6 +46,11 @@ title_full = "025 अर्जुन आदि चारों भाइयो�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! अर्जुन श्रेष्ठ धनुष, दो विशाल एवं अक्षय तूणीर, दिव्य रथ, ध्वज और अद्भुत सभाभवन पहले ही प्राप्त कर चुके थे; अब वे युधिष्ठिरसे बोले॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,11 +120,6 @@ _अर्जुनने कहा—_ राजन्! मुझे धनु�
 ततो व्यासो महाबुद्धिरुवाचेदं वचोऽर्जुनम्।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-व्यास उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -138,6 +133,11 @@ _अर्जुनने कहा—_ राजन्! मुझे धनु�
 
 यह सुनकर भाइयोंसहित कुरुश्रेष्ठ धर्मराज युधिष्ठिरको बड़ी प्रसन्नता हुई। साथ ही मन्त्रियों तथा व्यास, धौम्य आदि महर्षियोंको बड़ा हर्ष हुआ। तत्पश्चात् परम बुद्धिमान् व्यासजीने अर्जुनसे कहा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+व्यास उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -232,11 +232,6 @@ _व्यासजी बोले—_ कुन्तीनन्दन! म�
 एषा मे नैष्ठिकी बुद्धिः क्रियतां भरतर्षभाः॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -253,14 +248,14 @@ _व्यासजी बोले—_ कुन्तीनन्दन! म�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा व्यासवचो हृष्टास्तमूचुः पाण्डुनन्दनाः।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पाण्डवा ऊचुः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -276,14 +271,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पाण्डवा ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमस्तु मुनिश्रेष्ठ यथाऽऽज्ञापयसि प्रभो।)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -297,6 +292,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _पाण्डव बोले—_ मुनिश्रेष्ठ! आप जैसी आज्ञा देते हैं वैसा ही हो।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -409,11 +409,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 आसीत् परमया लक्ष्म्या सुहृद्‌गणवृतः प्रभुः ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें दिग्विजयका संक्षिप्त वर्णनविषयक पचीसवाँ अध्याय पूरा हुआ॥२५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -432,8 +427,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते सभापर्वणि दिग्विजयपर्वणि दिग्विजयसंक्षेपकथने पञ्चविंशोऽध्यायः ॥ २५ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें दिग्विजयका संक्षिप्त वर्णनविषयक पचीसवाँ अध्याय पूरा हुआ॥२५॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ९ श्लोक मिलाकर कुल २० श्लोक हैं)
 </details>
 </details>
+

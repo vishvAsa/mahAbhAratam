@@ -4,18 +4,13 @@ title_full = "211 तिलोत्तमापर मोहित होकर
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-211p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-211p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-211p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-211p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-211p03.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-211p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-211p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-211p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "211 तिलोत्तमापर मोहित होकर
 
 तिलोत्तमापर मोहित होकर सुन्द-उपसुन्दका आपसमें लड़ना और मारा जाना एवं तिलोत्तमाको ब्रह्माजीद्वारा वरप्राप्ति तथा पाण्डवोंका द्रौपदीके विषयमें नियम-निर्धारण
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,11 +456,6 @@ _नारदजी कहते हैं—_ युधिष्ठिर! व�
 इन्द्रे त्रैलोक्यमाधाय ब्रह्मलोकं गतः प्रभुः।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नारद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -478,6 +473,11 @@ _नारदजी कहते हैं—_ युधिष्ठिर! व�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नारद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तौ सहितौ भूत्वा सर्वार्थेष्वेकनिश्चयौ ॥ २५ ॥  
@@ -485,11 +485,6 @@ _नारदजी कहते हैं—_ युधिष्ठिर! व�
 तस्माद् ब्रवीमि वः स्नेहात् सर्वान् भरतसत्तमाः ॥ २६ ॥  
 यथा वो नात्र भेदः स्यात् सर्वेषां द्रौपदीकृते।  
 तथा कुरुत भद्रं वो मम चेत् प्रियमिच्छथ ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -507,6 +502,11 @@ _नारदजी कहते हैं—_ युधिष्ठिर! व�
 
 _नारदजी कहते हैं—_ युधिष्ठिर! इस प्रकार सुन्द और उपसुन्दने परस्पर संगठित और सभी बातोंमें एकमत रहकर भी तिलोत्तमाके लिये कुपित हो एक-दूसरेको मार डाला। अतः भरतवंशशिरोमणियो! मैं तुम सब लोगोंसे स्नेहवश कहता हूँ कि यदि मेरा प्रिय चाहते हो, तो ऐसा कुछ नियम बना लो, जिससे द्रौपदीके लिये तुम सब लोगोंमें फूट न होने पावे। तुम्हारा कल्याण हो॥२५—२७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -599,11 +599,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 काले च तस्मिन् सम्पन्नं यथावज्जनमेजय॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यम्भपर्वमें सुन्दोपसुन्दोपाख्यानविषयक दो सौ ग्यारहवाँ अध्याय पूरा हुआ॥२११॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -622,8 +617,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि सुन्दोपसुन्दोपाख्याने एकादशाधिकद्विशततमोऽध्यायः ॥ २११ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यम्भपर्वमें सुन्दोपसुन्दोपाख्यानविषयक दो सौ ग्यारहवाँ अध्याय पूरा हुआ॥२११॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ३ श्लोक मिलाकर कुल ३४ श्लोक हैं)
 </details>
 </details>
+

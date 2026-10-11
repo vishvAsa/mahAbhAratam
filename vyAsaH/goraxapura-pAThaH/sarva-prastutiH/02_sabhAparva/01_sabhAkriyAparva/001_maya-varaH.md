@@ -4,9 +4,9 @@ title_full = "001 भगवान् श्रीकृष्णकी आज्
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-001p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-001p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-001p02.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-001p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -36,11 +36,6 @@ title_full = "001 भगवान् श्रीकृष्णकी आज्
 देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत् ॥ १ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -55,15 +50,15 @@ title_full = "001 भगवान् श्रीकृष्णकी आज्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीन्मयः पार्थं वासुदेवस्य संनिधौ।  
 प्राञ्जलिः श्लक्ष्णया वाचा पूजयित्वा पुनः पुनः ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -80,15 +75,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मात् कृष्णात् सुसंरब्धात् पावकाच्च दिधक्षतः।  
 त्वया त्रातोऽस्मि कौन्तेय ब्रूहि किं करवाणि ते ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -105,15 +100,15 @@ _मयासुर बोला—_ कुन्तीनन्दन! आप�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतमेव त्वया सर्वं स्वस्ति गच्छ महासुर।  
 प्रीतिमान् भव मे नित्यं प्रीतिमन्तो वयं च ते॥४॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मय उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -128,6 +123,11 @@ _मयासुर बोला—_ कुन्तीनन्दन! आप�
 
 _अर्जुनने कहा—_ असुरराज! तुमने इस प्रकार कृतज्ञता प्रकट करके मेरे उपकारका मानो सारा बदला चुका दिया। तुम्हारा कल्याण हो। अब तुम जाओ। मुझपर प्रेम बनाये रखना। हम भी तुम्हारे प्रति सदा स्नेहका भाव रखेंगे॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -182,11 +182,6 @@ _मयासुर बोला—_ प्रभो! पुरुषोतम! 
 एतत् कृतं मया सर्वं तस्मादिच्छामि फाल्गुन॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -205,6 +200,11 @@ _मयासुर बोला—_ प्रभो! पुरुषोतम! 
 
 कुन्तीनन्दन! पूर्वकालमें मैंने दानवोंके बहुत-से महल बनाये हैं। इसके सिवा देखनेमें रमणीय, सुख और भोगसाधनोंसे सम्पन्न अनेक प्रकारके रमणीय उद्यानों, भाँति-भाँतिके सरोवरों, विचित्र अस्त्र-शस्त्रों, इच्छानुसार चलनेवाले रथों, अट्‌टालिकाओं, चहारदीवारियों और बड़े-बड़े फाटकोंसहित विशाल नगरों, हजारों अद्भुत एवं श्रेष्ठ वाहनों तथा बहुत-सी मनोहर एवं अत्यन्त सुखदायक सुरंगोंका मैंने निर्माण किया है। अतः अर्जुन! मैं आपके लिये भी कुछ बनाना चाहता हूँ।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,11 +317,6 @@ _अर्जुन बोले—_ मयासुर! तुम मेरे 
 आसुरान् मानुषांश्चैव सभां तां कुरु वै मय ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -334,6 +329,11 @@ _अर्जुन बोले—_ मयासुर! तुम मेरे 
 
 ‘मयासुर! तुम ऐसे सभाभवनका निर्माण करो, जिसमें हम तुम्हारे द्वारा अंकित देवता, असुर और मनुष्योंकी शिल्पनिपुणताका दर्शन कर सकें’॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -446,11 +446,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 दशकिष्कुसहस्रां तां मापयामास सर्वतः ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत सभाक्रियापर्वमें सभास्थाननिर्णयविषयक पहला अध्याय पूरा हुआ॥१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -473,8 +468,14 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 इति श्रीमहाभारते सभापर्वणि सभाक्रियापर्वणि सभास्थाननिर्णये प्रथमोऽध्यायः ॥ १ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत सभाक्रियापर्वमें सभास्थाननिर्णयविषयक पहला अध्याय पूरा हुआ॥१॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ४ श्लोक मिलाकर कुल २५ श्लोक हैं)
 </details>
 </details>
+

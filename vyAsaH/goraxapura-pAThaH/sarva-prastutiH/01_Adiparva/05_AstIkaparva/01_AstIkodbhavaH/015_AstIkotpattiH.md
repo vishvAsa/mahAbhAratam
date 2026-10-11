@@ -4,12 +4,7 @@ title_full = "015 आस्तीकका जन्म तथा मातृ�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वैष्णवी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-015vaishnavi.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="वैष्णवी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-015vaishnavi.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "015 आस्तीकका जन्म तथा मातृ�
 
 आस्तीकका जन्म तथा मातृशापसे सर्पसत्रमें नष्ट होनेवाले नागवंशकी उनके द्वारा रक्षा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,11 +146,6 @@ _उग्रश्रवाजी कहते हैं—_ ब्रह्म
 प्रब्रूहि भृगुशार्दूल किमन्यत् कथयामि ते ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पोंको मातृशाप प्राप्त होनेकी प्रस्तावनासे युक्त पंद्रहवाँ अध्याय पूरा हुआ॥१५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -175,4 +170,10 @@ _उग्रश्रवाजी कहते हैं—_ ब्रह्म
 
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि सर्पाणां मातृशापप्रस्तावे पञ्चदशोऽध्यायः ॥ १५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें सर्पोंको मातृशाप प्राप्त होनेकी प्रस्तावनासे युक्त पंद्रहवाँ अध्याय पूरा हुआ॥१५॥
 </details>
+</details>
+

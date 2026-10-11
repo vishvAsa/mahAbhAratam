@@ -4,12 +4,7 @@ title_full = "069 दुष्यन्तका शिकारके लिय
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-069.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-069.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "069 दुष्यन्तका शिकारके लिय
 
 दुष्यन्तका शिकारके लिये वनमें जाना और विविध हिंसक वन-जन्तुओंका वध करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -52,11 +52,6 @@ _जनमेजय बोले—_ ब्रह्मन्! मैं पर�
 श्रोतुमिच्छामि तत्त्वज्ञ सर्वं मतिमतां वर।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -70,6 +65,11 @@ _जनमेजय बोले—_ ब्रह्मन्! मैं पर�
 
 भगवन्! वीरवर दुष्यन्तने शकुन्तलाको कैसे प्राप्त किया? मैं पुरुषसिंह दुष्यन्तके उस चरित्रको विस्तारपूर्वक सुनना चाहता हूँ। तत्त्वज्ञ मुने! आप बुद्धिमानोंमें श्रेष्ठ हैं। अतः ये सब बातें बताइये॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -381,11 +381,6 @@ _वैशम्पायनजीने कहा—_ एक समयकी �
 व्यरोचत मृगाकीर्णं राज्ञा हतमृगाधिपम् ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक उनहत्तरवाँ अध्याय पूरा हुआ॥६९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -404,4 +399,10 @@ _वैशम्पायनजीने कहा—_ एक समयकी �
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि शकुन्तलोपाख्याने एकोनसप्ततितमोऽध्यायः ॥ ६९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक उनहत्तरवाँ अध्याय पूरा हुआ॥६९॥
 </details>
+</details>
+

@@ -4,16 +4,11 @@ title_full = "162 भीमसेनका भोजन-सामग्री �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-162p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-162p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-162p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-162p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-162p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-162p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "162 भीमसेनका भोजन-सामग्री �
 
 भीमसेनका भोजन-सामग्री लेकर बकासुरके पास जाना और स्वयं भोजन करना तथा युद्ध करके उसे मार गिराना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -75,11 +75,6 @@ _युधिष्ठिर बोले—_ माँ! आपने समझ-
 तथायं ब्राह्मणो वाच्यः परिग्राह्यश्च यत्नतः ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -92,6 +87,11 @@ _युधिष्ठिर बोले—_ माँ! आपने समझ-
 
 आपको यत्नपूर्वक ब्राह्मणपर अनुग्रह तो करना ही चाहिये; किंतु ब्राह्मणसे यह कह देना चाहिये कि वे इस प्रकार मौन रहें कि नगरनिवासियोंको यह बात मालूम न होने पाये॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -536,11 +536,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 भज्यमानस्य भीमेन तस्य घोरस्य रक्षसः ॥ २८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें बकासुर और भीमसेनका युद्धविषयक एक सौ बासठवाँ अध्याय पूरा हुआ॥१६२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -559,8 +554,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि बकवधपर्वणि बकभीमसेनयुद्धे द्विषष्ट्यधिकशततमोऽध्यायः ॥ १६२ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें बकासुर और भीमसेनका युद्धविषयक एक सौ बासठवाँ अध्याय पूरा हुआ॥१६२॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलाकर कुल २९ श्लोक हैं)
 </details>
 </details>
+

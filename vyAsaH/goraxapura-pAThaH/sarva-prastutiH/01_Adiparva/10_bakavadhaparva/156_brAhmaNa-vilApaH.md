@@ -4,12 +4,7 @@ title_full = "156 ब्राह्मणपरिवारका कष्ट 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-156.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-156.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -26,15 +21,15 @@ title_full = "156 ब्राह्मणपरिवारका कष्ट 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकचक्रां गतास्ते तु कुन्तीपुत्रा महारथाः।  
 अत ऊर्ध्वं द्विजश्रेष्ठ किमकुर्वत पाण्डवाः ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -49,6 +44,11 @@ title_full = "156 ब्राह्मणपरिवारका कष्ट 
 
 _जनमेजयने पूछा—_ द्विजश्रेष्ठ! कुन्तीके महारथी पुत्र पाण्डव जब एकचक्रा नगरीमें पहुँच गये, उसके बाद उन्होंने क्या किया?॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,11 +319,6 @@ _वैशम्पायनजीने कहा—_ राजन्! एक�
 तत्रास्य यदि साहाय्यं कुर्यामुपकृतं भवेत् ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -338,15 +333,15 @@ _वैशम्पायनजीने कहा—_ राजन्! एक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञायतामस्य यद् दुःखं यतश्चैव समुत्थितम्।  
 विदित्वा व्यवसिष्यामि यद्यपि स्यात् सुदुष्करम् ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -361,6 +356,11 @@ _वैशम्पायनजीने कहा—_ राजन्! एक�
 
 _भीमसेन बोले—_ माँ! पहले यह मालूम करो कि इस ब्राह्मणको क्या दुःख है और वह किस कारणसे प्राप्त हुआ है। जान लेनेपर अत्यन्त दुष्कर होगा, तो भी मैं इसका कष्ट दूर करनेके लिये उद्योग करूँगा॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -409,11 +409,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 दुहित्रा चैव सहितं ददर्शावनताननम् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -426,6 +421,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 भीतर जाकर कुन्तीने ब्राह्मणको वहाँ पत्नी, पुत्र और कन्याके साथ नीचे मुँह किये बैठे देखा॥१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -807,11 +807,6 @@ _ब्राह्मणदेवता कह रहे थे—_ जगत�
 सर्वैः सह मृतं श्रेयो न च मे जीवितं क्षमम्॥४१॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें ब्राह्मणकी चिन्ताविषयक एक सौ छप्पनवाँ अध्याय पूरा हुआ॥१५६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -829,6 +824,11 @@ _ब्राह्मणदेवता कह रहे थे—_ जगत�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि बकवधपर्वणि ब्राह्मणचिन्तायां षट्‌पञ्चाशदधिकशततमोऽध्यायः ॥ १५६ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें ब्राह्मणकी चिन्ताविषयक एक सौ छप्पनवाँ अध्याय पूरा हुआ॥१५६॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

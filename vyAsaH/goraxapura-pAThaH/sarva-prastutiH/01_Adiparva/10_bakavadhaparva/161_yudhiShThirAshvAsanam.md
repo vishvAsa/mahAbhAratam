@@ -4,14 +4,9 @@ title_full = "161 भीमसेनको राक्षसके पास �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-161p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-161p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-161p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-161p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "161 भीमसेनको राक्षसके पास �
 
 भीमसेनको राक्षसके पास भेजनेके विषयमें युधिष्ठिर और कुन्तीकी बातचीत
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -53,11 +53,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 रहः समुपविश्यैकस्ततः पप्रच्छ मातरम् ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -72,15 +67,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं चिकीर्षत्ययं कर्म भीमो भीमपराक्रमः।  
 भवत्यनुमते कच्चित् स्वयं वा कर्तुमिच्छति ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -97,15 +92,15 @@ _युधिष्ठिर बोले—_ माँ! ये भयंकर 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममैव वचनादेष करिष्यति परंतपः।  
 ब्राह्मणार्थे महत् कृत्यं मोक्षाय नगरस्य च ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -120,6 +115,11 @@ _युधिष्ठिर बोले—_ माँ! ये भयंकर 
 
 _कुन्तीने कहा—_ बेटा! शत्रुओंको संतप्त करनेवाला भीमसेन मेरी ही आज्ञासे ब्राह्मणके हितके लिये तथा सम्पूर्ण नगरको संकटसे छुड़ानेके लिये आज एक महान् कार्य करेगा॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,11 +230,6 @@ _युधिष्ठिरने कहा—_ माँ! आपने यह 
 कच्चिन्नु दुःखैर्बुद्धिस्ते विलुप्ता गतचेतसः ॥ ११ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -249,6 +244,11 @@ _युधिष्ठिरने कहा—_ माँ! आपने यह 
 
 जिसके बल-पराक्रमका आश्रय लेकर हमलोग धृतराष्ट्रपुत्रोंको मारकर धन-धान्यसे सम्पन्न इस (सम्पूर्ण) पृथ्वीको अपने अधिकारमें आयी हुई ही मानते हैं, उस बलवान् पुत्रके त्यागका निश्चय आपने किस बुद्धिसे किया है? क्या आप अनेक दुःखोंके कारण अपनी चेतना खो बैठी हैं? आपकी बुद्धि लुप्त हो गयी है॥१०-११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -523,11 +523,6 @@ _कुन्तीने कहा—_ युधिष्ठिर! तुम�
 प्रोवाचासुकरप्रज्ञस्तस्मादेवं चिकीर्षितम् ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें कुन्ती-युधिष्ठिर-संवादविषयक एक सौ इकसठवाँ अध्याय पूरा हुआ॥१६१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -545,4 +540,10 @@ _कुन्तीने कहा—_ युधिष्ठिर! तुम�
 
 इति श्रीमहाभारते आदिपर्वणि बकवधपर्वणि कुन्तीयुधिष्ठिरसंवादे एकषष्ट्यधिकशततमोऽध्यायः ॥ १६१ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें कुन्ती-युधिष्ठिर-संवादविषयक एक सौ इकसठवाँ अध्याय पूरा हुआ॥१६१॥
 </details>
+</details>
+

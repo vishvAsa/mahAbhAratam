@@ -4,16 +4,11 @@ title_full = "184 पाण्डवोंका द्रुपदकी रा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-184p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-184p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-184p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-184p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-184p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-184p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "184 पाण्डवोंका द्रुपदकी रा
 
 पाण्डवोंका द्रुपदकी राजधानीमें जाकर कुम्हारके यहाँ रहना, स्वयंवरसभाका वर्णन तथा धृष्टद्युम्नकी घोषणा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -215,11 +215,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तेन यन्त्रेण समितं राजा लक्ष्यं चकार सः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -234,15 +229,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं सज्यं धनुः कृत्वा सज्जैरेभिश्च सायकैः।  
 अतीत्य लक्ष्यं यो वेद्धा स लब्धा मत्सुतामिति ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -257,6 +252,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _द्रुपदने घोषणा की—_ जो वीर इस धनुषपर प्रत्यंचा चढ़ाकर इन प्रस्तुत बाणोंद्वारा ही यन्त्रके छेदके भीतरसे इसे लाँघकर लक्ष्यवेध करेगा, वही मेरी पुत्रीको प्राप्त कर सकेगा॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -697,11 +697,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 संकीर्तयन् भूमिपतीन् समेतान् ॥ ३७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें धृष्टद्युम्नवाक्यविषयक एक सौ चौरासीवाँ अध्याय पूरा हुआ॥१८४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -721,4 +716,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि स्वयंवरपर्वणि धृष्टद्युम्नवाक्ये चतुरशीत्यधिकशततमोऽध्यायः ॥ १८४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें धृष्टद्युम्नवाक्यविषयक एक सौ चौरासीवाँ अध्याय पूरा हुआ॥१८४॥
 </details>
+</details>
+

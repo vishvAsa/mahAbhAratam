@@ -4,19 +4,14 @@ title_full = "076 सबके मना करनेपर भी धृतर�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-076-p01.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-076-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-076-p02.mp3"></div>
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-076-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-076-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-076-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -30,6 +25,11 @@ title_full = "076 सबके मना करनेपर भी धृतर�
 
 सबके मना करनेपर भी धृतराष्ट्रकी आज्ञासे युधिष्ठिरका पुनः जूआ खेलना और हारना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -58,11 +58,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 एहि पाण्डव दीव्येति पिता त्वाहेति भारत ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -75,6 +70,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 ‘भरतकुलभूषण पाण्डुनन्दन युधिष्ठिर! आपके पिता राजा धृतराष्ट्रने यह आदेश दिया है कि तुम लौट आओ। हमारी सभा फिर सदस्योंसे भर गयी है और तुम्हारी प्रतीक्षा कर रही है। तुम पासे फेंककर जूआ खेलो’॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,11 +103,6 @@ _युधिष्ठिरने कहा—_ समस्त प्राण
 जानन्नपि क्षयकरं नातिक्रमितुमुत्सहे ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -120,6 +115,11 @@ _युधिष्ठिरने कहा—_ समस्त प्राण
 
 वृद्ध राजा धृतराष्ट्रकी आज्ञासे जूएके लिये यह बुलावा हमारे कुलके विनाशका कारण है, यह जानते हुए भी मैं उनकी आज्ञाका उल्लंघन नहीं कर सकता॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -174,11 +174,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सर्वलोकविनाशाय दैवेनोपनिपीडिताः ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -193,6 +188,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 महारथी भरतश्रेष्ठ पाण्डव पुनः उस सभामें प्रविष्ट हुए। उन्हें देखकर सुहृदोंके मनमें बड़ी पीड़ा होने लगी। प्रारब्धके वशीभूत हुए कुन्तीकुमार सम्पूर्ण लोकोंके विनाशके लिये पुनः द्यूतक्रीड़ा आरम्भ करनेके उद्देश्यसे चुपचाप वहाँ जाकर बैठ गये॥७-८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,11 +341,6 @@ _शकुनिने कहा—_ राजन्! भरतश्रेष�
 ऊचुरुद्विग्नमनसः संवेगात् सर्व एव हि ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सभ्या ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -360,15 +355,15 @@ _शकुनिने कहा—_ राजन्! भरतश्रेष�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सभ्या ऊचुः
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो धिग् बान्धवा नैनं बोधयन्ति महद् भयम्।  
 बुद्ध्या बुध्येन्न वा बुध्येदयं वै भरतर्षभः ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -383,6 +378,11 @@ _शकुनिने कहा—_ राजन्! भरतश्रेष�
 
 _सभासद् बोले—_ अहो धिक्कार है! ये भाई-बन्धु भी युधिष्ठिरको उनके ऊपर आनेवाले महान् भयकी बात नहीं समझाते। पता नहीं, ये भरतश्रेष्ठ युधिष्ठिर अपनी बुद्धिके द्वारा इस भयको समझें या न समझें॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -411,11 +411,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अप्यासन्नो विनाशः स्यात्‌ कुरूणामिति चिन्तयन् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -430,15 +425,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं वै मद्विधो राजा स्वधर्ममनुपालयन्।  
 आहूतो विनिवर्तेत दीव्यामि शकुने त्वया ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -455,6 +450,11 @@ _युधिष्ठिर बोले—_ शकुने! स्वधर�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं दैवबलाविष्टो धर्मराजो युधिष्ठिरः।  
@@ -464,11 +464,6 @@ _युधिष्ठिर बोले—_ शकुने! स्वधर�
 विकर्णेन च वीरेण द्रौपद्या द्रौणिना तथा।  
 सोमदत्तेन च तथा बाह्लीकेन च धीमता॥  
 वार्यमाणोऽपि सततं न च राजा नियच्छति।)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -488,6 +483,11 @@ _युधिष्ठिर बोले—_ शकुने! स्वधर�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! उस समय धर्मराज युधिष्ठिर प्रारब्धके वशीभूत हो गये थे। महाराज! उन्हें भीष्म, द्रोण और बुद्धिमान् विदुरजी दुबारा जूआ खेलनेसे रोक रहे थे। युयुत्सु, कृपाचार्य तथा संजय भी मना कर रहे थे। गान्धारी, कुन्ती, भीम, अर्जुन, नकुल, सहदेव, वीर विकर्ण, द्रौपदी, अश्वत्थामा, सोमदत्त तथा बुद्धिमान् बाह्लीक भी बारंबार रोक रहे थे तो भी राजा युधिष्ठिर भावीके वश होनेके कारण जूएसे नहीं हटे।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -557,11 +557,6 @@ _शकुनिने कहा—_ राजन्! हमलोगोंक�
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें युधिष्ठिरपराभवविषयक छिहत्तरवाँ अध्याय पूरा हुआ॥७६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -581,8 +576,14 @@ _शकुनिने कहा—_ राजन्! हमलोगोंक�
 इति श्रीमहाभारते सभापर्वणि अनुद्यूतपर्वणि पुनर्युधिष्ठिरपराभवे षट्‌सप्ततितमोऽध्यायः ॥ ७६ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें युधिष्ठिरपराभवविषयक छिहत्तरवाँ अध्याय पूरा हुआ॥७६॥
+</details>
+
 <details><summary>Misc Detail</summary>
 
 _(दाक्षिणात्य अधिक पाठके ३_  _श्लोक मिलाकर कुल २७_  _श्लोक हैं)_
 </details>
 </details>
+

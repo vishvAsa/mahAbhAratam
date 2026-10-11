@@ -4,14 +4,9 @@ title_full = "193 पाण्डवों और कुन्तीका द�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="भट्टमधुसूदनः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-193p01.mp3"></div>
+<div caption="भट्टमधुसूदनः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-193p01.mp3"></div>
 
-<div class="audioEmbed"  caption="भट्टमधुसूदनः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-193p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दूत उवाच
+<div caption="भट्टमधुसूदनः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-193p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "193 पाण्डवों और कुन्तीका द�
 
 पाण्डवों और कुन्तीका द्रुपदके घरमें जाकर सम्मानित होना और राजा द्रुपदद्वारा पाण्डवोंके शील-स्वभावकी परीक्षा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दूत उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -59,11 +59,6 @@ _दूत बोला—_ महाराज द्रुपदने वि�
 पाञ्चालराजस्य निवेशनं तत् ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -78,6 +73,11 @@ _दूत बोला—_ महाराज द्रुपदने वि�
 
 ये सुवर्णमय कमलोंसे सुशोभित तथा राजाओंकी सवारीके योग्य विचित्र रथ खड़े हैं, इनमें उत्तम घोड़े जुते हुए हैं; इनपर सवार हो आप सब लोग महाराज द्रुपदके महलमें पधारें॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -328,11 +328,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कुन्तीसुतान् पार्थिव राजपुत्रान् ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें युधिष्ठिर आदिकी परीक्षाविषयक एक सौ तिरानबेवाँ अध्याय पूरा हुआ॥१९३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -352,4 +347,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि वैवाहिकपर्वणि युधिष्ठिरादिपरीक्षणे त्रिनवत्यधिकशततमोऽध्यायः ॥ १९३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें युधिष्ठिर आदिकी परीक्षाविषयक एक सौ तिरानबेवाँ अध्याय पूरा हुआ॥१९३॥
 </details>
+</details>
+

@@ -4,12 +4,7 @@ title_full = "018 जरा राक्षसीका अपना परि�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-018.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राक्षस्युवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-018.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "018 जरा राक्षसीका अपना परि�
 
 जरा राक्षसीका अपना परिचय देना और उसीके नामपर बालकका नामकरण होना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राक्षस्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,11 +159,6 @@ _राक्षसीने कहा—_ राजेन्द्र! तु�
 गृहसम्पूजनात् तुष्ट्या मया प्रत्यर्पितस्तव ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीकृष्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -176,6 +171,11 @@ _राक्षसीने कहा—_ राजेन्द्र! तु�
 
 मुझमें सुमेरु पर्वतको भी निगल जानेकी शक्ति है; फिर तुम्हारे इस बच्चेको खा जाना कौन बड़ी बात है? किंतु तुम्हारे घरमें जो मेरी भलीभाँति पूजा होती आयी है, उसीसे संतुष्ट होकर मैंने तुम्हें यह बालक समर्पित किया है॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीकृष्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -245,11 +245,6 @@ _श्रीकृष्ण कहते हैं—_ राजन्! ऐस�
 मातापित्रोर्नन्दिकरः शुक्लपक्षे यथा शशी ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें जरासंधकी उत्पत्तिविषयक अठारहवाँ अध्याय पूरा हुआ॥१८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -269,8 +264,14 @@ _श्रीकृष्ण कहते हैं—_ राजन्! ऐस�
 इति श्रीमहाभारते सभापर्वणि राजसूयारम्भपर्वणि जरासंधोत्पत्तौ अष्टादशोऽध्यायः ॥ १८ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत राजसूयारम्भपर्वमें जरासंधकी उत्पत्तिविषयक अठारहवाँ अध्याय पूरा हुआ॥१८॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलाकर कुल १३ श्लोक हैं)
 </details>
 </details>
+

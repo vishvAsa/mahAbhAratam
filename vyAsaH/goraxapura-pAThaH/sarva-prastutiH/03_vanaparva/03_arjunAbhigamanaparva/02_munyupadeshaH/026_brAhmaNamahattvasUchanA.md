@@ -4,16 +4,11 @@ title_full = "026 दल्भपुत्र बकका युधिष्ठ
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-026-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-026-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-026-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-026-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-026-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-026-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "026 दल्भपुत्र बकका युधिष्ठ
 
 दल्भपुत्र बकका युधिष्ठिरको ब्राह्मणोंका महत्त्व बतलाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -415,11 +415,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तेन ते सर्वलोकेषु दीप्यते प्रथितं यशः ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -432,6 +427,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘युधिष्ठिर! ब्राह्मणोंके प्रति तुम्हारे हृदयमें सदा उत्तम भाव है, इसीलिये सब लोकोंमें तुम्हारा यश विख्यात एवं प्रकाशित है’॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,11 +466,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अजातशत्रुमानर्चुः पुरंदरमिवर्षयः ॥ २५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वमें अर्जुनाभिगमनपर्वमें द्वैतवनप्रवेशविषयक छब्बीसवाँ अध्याय पूरा हुआ॥२६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -493,6 +488,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते वनपर्वणि अर्जुनाभिगमनपर्वणि द्वैतवनप्रवेशे षड्विंशोऽध्यायः ॥ २६ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वमें अर्जुनाभिगमनपर्वमें द्वैतवनप्रवेशविषयक छब्बीसवाँ अध्याय पूरा हुआ॥२६॥
 </details>
 </details>
 

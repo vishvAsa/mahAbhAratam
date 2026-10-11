@@ -4,12 +4,7 @@ title_full = "066 विदुरका दुर्योधनको फटक
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-066.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-066.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,17 +20,17 @@ title_full = "066 विदुरका दुर्योधनको फटक
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एहि क्षत्तर्द्रौपदीमानयस्व  
 प्रियां भार्यां सम्मतां पाण्डवानाम्।  
 सम्मार्जतां वेश्म परैतु शीघ्रं  
 तत्रास्तु दासीभिरपुण्यशीला ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -52,6 +47,11 @@ title_full = "066 विदुरका दुर्योधनको फटक
 
 _दुर्योधन बोला—_ विदुर! यहाँ आओ। तुम जाकर पाण्डवोंकी प्यारी और मनोनुकूल पत्नी द्रौपदीको यहाँ ले आओ। वह पापाचारिणी शीघ्र यहाँ आये और मेरे महलमें झाड़ू लगाये। उसे वहीं दासियोंके साथ रहना होगा॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -299,11 +299,6 @@ _विदुर बोले—_ ओ मूर्ख! तेरे-जैसे
 न श्रूयन्ते वर्धते लोभ एव ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें विदुरवाक्यविषयक छाछठवाँ अध्याय पूरा हुआ॥६६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -323,4 +318,10 @@ _विदुर बोले—_ ओ मूर्ख! तेरे-जैसे
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि विदुरवाक्ये षट्‌षष्टितमोऽध्यायः ॥ ६६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें विदुरवाक्यविषयक छाछठवाँ अध्याय पूरा हुआ॥६६॥
 </details>
+</details>
+

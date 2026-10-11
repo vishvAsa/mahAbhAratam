@@ -4,16 +4,11 @@ title_full = "145 वारणावतमें पाण्डवोंका 
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-145p01.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-145p01.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-145p02.mp3"></div>
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-145p02.mp3"></div>
 
-<div class="audioEmbed"  caption="ममता" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-145p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="ममता" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-145p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "145 वारणावतमें पाण्डवोंका 
 
 वारणावतमें पाण्डवोंका स्वागत, पुरोचनका सत्कारपूर्वक उन्हें ठहराना, लाक्षागृहमें निवासकी व्यवस्था और युधिष्ठिर एवं भीमसेनकी बातचीत
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,11 +307,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अनार्यैः सुकृतं गूढैर्दुर्योधनवशानुगैः ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -334,15 +329,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदीदं गृहमाग्नेयं विहितं मन्यते भवान्।  
 तथैव साधु गच्छामो यत्र पूर्वोषिता वयम् ॥ २० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -357,6 +352,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _भीमसेन बोले—_ भैया! यदि आप यह मानते हों कि इस घरका निर्माण अग्निको उद्दीप्त करनेवाली वस्तुओंसे हुआ है तो हमलोग जहाँ पहले रहते थे, कुशलपूर्वक पुनः उसी घरमें क्यों न लौट चलें?॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -565,11 +565,6 @@ _युधिष्ठिर बोले—_ भाई! हमलोगों�
 पौरो वापि जनः कश्चित् तथा कार्यमतन्द्रितैः ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें भीमसेन-युधिष्ठिर-संवादविषयक एक सौ पैंतालीसवाँ अध्याय पूरा हुआ॥१४५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -587,4 +582,10 @@ _युधिष्ठिर बोले—_ भाई! हमलोगों�
 
 इति श्रीमहाभारते आदिपर्वणि जतुगृहपर्वणि भीमसेनयुधिष्ठिरसंवादे पञ्चचत्वारिंशदधिकशततमोऽध्यायः ॥ १४५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत जतुगृहपर्वमें भीमसेन-युधिष्ठिर-संवादविषयक एक सौ पैंतालीसवाँ अध्याय पूरा हुआ॥१४५॥
 </details>
+</details>
+

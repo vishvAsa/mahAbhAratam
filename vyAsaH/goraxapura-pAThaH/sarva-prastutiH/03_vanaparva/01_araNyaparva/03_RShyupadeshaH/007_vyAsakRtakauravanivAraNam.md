@@ -4,14 +4,9 @@ title_full = "007 दुर्योधन, दुःशासन, शकुन�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-007-p1.mp3"></div>
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-007-p1.mp3"></div>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-007-p2.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-007-p2.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "007 दुर्योधन, दुःशासन, शकुन�
 
 दुर्योधन, दुःशासन, शकुनि और कर्णकी सलाह, पाण्डवोंका वध करनेके लिये उनका वनमें जानेकी तैयारी तथा व्यासजीका आकर उनको रोकना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,11 +133,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 करिष्ये न हि तानृद्धान् पुनर्द्रष्टुमिहोत्सहे ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -150,6 +145,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘मैं जहर खा लूँगा, फाँसी लगा लूँगा, अपने-आपको ही शस्त्रसे मार दूँगा अथवा जलती आगमें प्रवेश कर जाऊँगा; परंतु पाण्डवोंको फिर बढ़ते या फलते-फूलते नहीं देख सकूँगा’॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -218,11 +218,6 @@ _शकुनि बोला—_ राजन्! तुम भी क्या
 छिद्रं बहु प्रपश्यन्तः पाण्डवानां सुसंवृताः ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुःशासन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -237,15 +232,15 @@ _शकुनि बोला—_ राजन्! तुम भी क्या
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुःशासन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमेतन्महाप्राज्ञ यथा वदसि मातुल।  
 नित्यं हि मे कथयतस्तव बुद्धिर्विरोचते ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -260,6 +255,11 @@ _शकुनि बोला—_ राजन्! तुम भी क्या
 
 _दुःशासनने कहा—_ महाबुद्धिमान् मामाजी! आप जैसा कहते हैं, वही मुझे भी ठीक जान पड़ता है। आपके मुखसे जो विचार प्रकट होता है, वह मुझे सदा अच्छा लगता है॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -288,11 +288,6 @@ _कर्ण बोला—_ दुर्योधन! हम सब लोग
 आगमिष्यन्ति चेन्मोहात् पुनर्द्यूतेन तान् जय ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -305,6 +300,11 @@ _कर्ण बोला—_ दुर्योधन! हम सब लोग
 
 धीरबुद्धि पाण्डव निश्चित समयकी अवधिको पूर्ण किये बिना यहाँ नहीं आयँगे; और यदि वे मोहवश आ भी जायँ तो तुम पुनः जूएके द्वारा उन्हें जीत लेना॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,11 +497,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 प्रज्ञाचक्षुषमासीनमुवाचाभ्येत्य सत्वरम् ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें व्यासजीके आगमनसे सम्बन्ध रखनेवाला सातवाँ अध्याय पूरा हुआ॥७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -519,4 +514,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि अरण्यपर्वणि व्यासागमने सप्तमोऽध्यायः ॥ ७ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें व्यासजीके आगमनसे सम्बन्ध रखनेवाला सातवाँ अध्याय पूरा हुआ॥७॥
 </details>
+</details>
+

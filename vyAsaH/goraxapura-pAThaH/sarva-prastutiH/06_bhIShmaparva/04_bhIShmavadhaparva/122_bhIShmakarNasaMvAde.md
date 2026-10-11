@@ -3,12 +3,6 @@ title = "१२२ भीष्मकर्णसंवादे"
 title_full = "122 भीष्म और कर्णका रहस्यमय संवाद"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -20,6 +14,11 @@ title_full = "122 भीष्म और कर्णका रहस्यम�
 
 भीष्म और कर्णका रहस्यमय संवाद
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -400,11 +399,6 @@ _संजय कहते हैं—_ महाराज! शान्तन�
 पृथिव्यां सर्वराजानो भवन्त्वद्य निरामयाः ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कर्ण उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -417,6 +411,11 @@ _संजय कहते हैं—_ महाराज! शान्तन�
 
 ‘सूर्यनन्दन! मेरी मृत्युके द्वारा ही यह वैरकी आग बुझ जाय और भूमण्डलके समस्त नरेश अब दुःख-शोकसे रहित एवं निर्भय हो जायँ’॥२२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कर्ण उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -599,11 +598,6 @@ _कर्णने कहा—_ महाबाहो! भीष्म! आप
 यन्मयेह कृतं किंचित् तन्मे त्वं क्षन्तुमर्हसि ॥ ३३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -616,6 +610,11 @@ _कर्णने कहा—_ महाबाहो! भीष्म! आप
 
 मैंने क्रोधके आवेगसे अथवा चपलताके कारण यहाँ जो कुछ आपके प्रति कटुवचन कहा हो या आपके प्रतिकूल आचरण किया हो, वह सब आप कृपापूर्वक क्षमा कर दें॥३३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -704,11 +703,6 @@ _भीष्मने कहा—_ कर्ण! यदि यह भयंक
 न चैव शकितः कर्तुं कर्ण सत्यं ब्रवीमि ते॥३८॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -723,20 +717,15 @@ _भीष्मने कहा—_ कर्ण! यदि यह भयंक
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तवति गाङ्गेये अभिवाद्योपमन्त्र्य च।  
 राधेयो रथमारुह्य प्रायात् तव सुतं प्रति ॥ ३९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत भीष्मपर्वके अन्तर्गत भीष्मवधपर्वमें भीष्म-कर्णसंवादविषयक एक सौ बाईसवाँ अध्याय पूरा हुआ॥१२२॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -755,6 +744,11 @@ _संजय कहते हैं—_ राजन्! गंगानन्�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते भीष्मपर्वणि भीष्मवधपर्वणि भीष्मकर्णसंवादे द्वाविंशत्यधिकशततमोऽध्यायः ॥ १२२ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत भीष्मपर्वके अन्तर्गत भीष्मवधपर्वमें भीष्म-कर्णसंवादविषयक एक सौ बाईसवाँ अध्याय पूरा हुआ॥१२२॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>
@@ -883,3 +877,7 @@ _स भारतफलं प्राप्य परं ब्रह्मा
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>

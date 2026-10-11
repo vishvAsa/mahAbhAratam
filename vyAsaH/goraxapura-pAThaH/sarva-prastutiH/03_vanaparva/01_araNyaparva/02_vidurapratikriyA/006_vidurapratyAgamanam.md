@@ -4,12 +4,7 @@ title_full = "006 धृतराष्ट्रका संजयको भे
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-006.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-006.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "006 धृतराष्ट्रका संजयको भे
 
 धृतराष्ट्रका संजयको भेजकर विदुरको वनसे बुलवाना और उनसे क्षमा-प्रार्थना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -279,11 +279,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 शशंसागमने हेतुमिदं चैवाब्रवीद् वचः ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-संजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -296,6 +291,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 राजा युधिष्ठिरके कुशल-प्रश्न करनेके पश्चात् जब संजय सुखपूर्वक बैठ गया, तब अपने आनेका कारण बताते हुए उसने इस प्रकार कहा॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+संजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -324,11 +324,6 @@ _संजयने कहा—_ विदुरजी! अम्बिका�
 नियोगाद् राजसिंहस्य गन्तुमर्हसि सत्तम ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -341,6 +336,11 @@ _संजयने कहा—_ विदुरजी! अम्बिका�
 
 साधुशिरोमणे! आप कुरुकुलको आनन्दित करनेवाले इन नरश्रेष्ठ पाण्डवोंसे आदरपूर्वक विदा लेकर महाराजके आदेशसे शीघ्र उनके पास चलें॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -393,11 +393,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 क्षम्यतामिति चोवाच यदुक्तोऽसि मयानघ ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -410,6 +405,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ऐसा कहकर राजा धृतराष्ट्रने विदुरको अपने हृदयसे लगा लिया और उनका मस्तक सूँघते हुए कहा—‘निष्पाप विदुर! मैंने तुमसे जो अप्रिय बात कह दी है, उसके लिये मुझे क्षमा करो’॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -442,11 +442,6 @@ _विदुरने कहा—_ राजन्! मैंने तो स
 दीना इतीव मे बुद्धिरभिपन्नाद्य तान् प्रति ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -461,15 +456,15 @@ _विदुरने कहा—_ राजन्! मैंने तो स
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यमनुनीयैवं भ्रातरौ द्वौ महाद्युती।  
 विदुरो धृतराष्ट्रश्च लेभाते परमां मुदम् ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें विदुरप्रत्यागमनविषयक छठा अध्याय पूरा हुआ॥६॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -489,4 +484,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि अरण्यपर्वणि विदुरप्रत्यागमने षष्ठोऽध्यायः ॥ ६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत अरण्यपर्वमें विदुरप्रत्यागमनविषयक छठा अध्याय पूरा हुआ॥६॥
 </details>
+</details>
+

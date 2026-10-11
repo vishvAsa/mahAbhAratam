@@ -4,20 +4,15 @@ title_full = "044 भीष्मकी बातोंसे चिढ़े �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-044p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-044p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-044p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-044p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-044p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-044p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-044p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-044p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-044p05.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-044p05.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -31,6 +26,11 @@ title_full = "044 भीष्मकी बातोंसे चिढ़े �
 
 भीष्मकी बातोंसे चिढ़े हुए शिशुपालका उन्हें फटकारना तथा भीष्मका श्रीकृष्णसे युद्ध करनेके लिये समस्त राजाओंको चुनौती देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -99,11 +99,6 @@ _भीष्मजी कहते हैं—_ भीमसेन यह च�
 गर्जत्यतीव दुर्बुद्धिः सर्वानस्मानचिन्तयन् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -118,15 +113,15 @@ _भीष्मजी कहते हैं—_ भीमसेन यह च�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो न ममृषे चैद्यस्तद् भीष्मवचनं तदा।  
 उवाच चैनं संक्रुद्धः पुनर्भीष्ममथोत्तरम् ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शिशुपाल उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -141,6 +136,11 @@ _भीष्मजी कहते हैं—_ भीमसेन यह च�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! भीष्मकी यह बात शिशुपाल न सह सका। वह पुनः अत्यन्त क्रोधमें भरकर भीष्मको उनकी बातोंका उत्तर देते हुए बोला॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शिशुपाल उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -625,11 +625,6 @@ _शिशुपालने कहा—_ भीष्म! तुम सदा 
 लोकविद्विष्टकर्मा हि नान्योऽस्ति भवता समः ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -642,6 +637,11 @@ _शिशुपालने कहा—_ भीष्म! तुम सदा 
 
 भीष्म! निःसंदेह तुम्हारा जीवन इन राजाओंकी इच्छासे ही बचा हुआ है; क्योंकि तुम्हारे समान दूसरा कोई राजा ऐसा नहीं है, जिसके कर्म सम्पूर्ण जगत्‌से द्वेष करनेवाले हों॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -812,11 +812,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 यादवस्यैव देवस्य देहं विशतु पातितः ॥ ४२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत शिशुपालवधपर्वमें भीष्मवाक्यविषयक चौवालीसवाँ अध्याय पूरा हुआ॥४४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -836,4 +831,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि शिशुपालवधपर्वणि भीष्मवाक्ये चतुश्चत्वारिंशोऽध्यायः ॥ ४४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत शिशुपालवधपर्वमें भीष्मवाक्यविषयक चौवालीसवाँ अध्याय पूरा हुआ॥४४॥
 </details>
+</details>
+

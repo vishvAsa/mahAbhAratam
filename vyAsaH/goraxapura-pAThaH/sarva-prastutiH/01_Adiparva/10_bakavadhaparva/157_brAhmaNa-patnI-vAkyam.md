@@ -4,12 +4,7 @@ title_full = "157 ब्राह्मणीका स्वयं मरने
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-157.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ब्राह्मण्युवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-157.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "157 ब्राह्मणीका स्वयं मरने
 
 ब्राह्मणीका स्वयं मरनेके लिये उद्यत होकर पतिसे जीवित रहनेके लिये अनुरोध करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ब्राह्मण्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -723,11 +723,6 @@ _ब्राह्मणी बोली—_ प्राणनाथ! आप�
 आत्मानं तारयाद्याशु कुलं चेमौ च दारकौ ॥ ३७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -742,15 +737,15 @@ _ब्राह्मणी बोली—_ प्राणनाथ! आप�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तया भर्ता तां समालिङ्ग्य भारत।  
 मुमोच बाष्पं शनकैः सभार्यो भृशदुःखितः ॥ ३८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें ब्राह्मणीवाक्यविषयक एक सौ सत्तावनवाँ अध्याय पूरा हुआ॥१५७॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -771,8 +766,14 @@ _वैशम्पायनजी कहते हैं—_ भारत! ब�
 इति श्रीमहाभारते आदिपर्वणि बकवधपर्वणि ब्राह्मणीवाक्ये सप्तपञ्चाशदधिकशततमोऽध्यायः ॥ १५७ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत बकवधपर्वमें ब्राह्मणीवाक्यविषयक एक सौ सत्तावनवाँ अध्याय पूरा हुआ॥१५७॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठका १ श्लोक मिलाकर कुल ३९ श्लोक हैं)
 </details>
 </details>
+

@@ -3,12 +3,6 @@ title = "२२५ श्रीसंनिधानः"
 title_full = "225 इन्द्र और लक्ष्मीका संवाद, बलिको त्यागकर आयी हुई लक्ष्मीकी इन्द्रके द्वारा प्रतिष्ठा"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -20,6 +14,11 @@ title_full = "225 इन्द्र और लक्ष्मीका सं�
 
 इन्द्र और लक्ष्मीका संवाद, बलिको त्यागकर आयी हुई लक्ष्मीकी इन्द्रके द्वारा प्रतिष्ठा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -48,11 +47,6 @@ _भीष्मजी कहते हैं—_ राजन्! तदनन�
 विस्मयोत्फुल्लनयनो बलिं पप्रच्छ वासवः ॥ २ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -67,15 +61,15 @@ _भीष्मजी कहते हैं—_ राजन्! तदनन�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बले केयमपक्रान्ता रोचमाना शिखण्डिनी।  
 त्वत्तः स्थिता सकेयूरा दीप्यमाना स्वतेजसा ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-बलिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -92,15 +86,15 @@ _इन्द्र बोले—_ बले! यह वेणी धारण
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+बलिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हीमामासुरीं वेद्मि न दैवीं च न मानुषीम्।  
 त्वमेनां पृच्छ वा मा वा यथेष्टं कुरु वासव॥४॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -117,17 +111,17 @@ _बलिने कहा—_ इन्द्र! मेरी समझमे�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का त्वं बलेरपक्रान्ता रोचमाना शिखण्डिनी।  
 अजानतो ममाचक्ष्व नामधेयं शुचिस्मिते ॥ ५ ॥  
 का त्वं तिष्ठसि मामेवं दीप्यमाना स्वतेजसा।  
 हित्वा दैत्यवरं सुभ्रु तन्ममाचक्ष्व पृच्छतः ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -144,6 +138,11 @@ _बलिने कहा—_ इन्द्र! मेरी समझमे�
 
 _तब इन्द्रने पूछा—_ पवित्र मुसकानवाली सुन्दरी! बलिके शरीरसे निकलकर खड़ी हुई तुम कौन हो? तुम्हारी चमक-दमक अद्‌भुत है। तुम्हारी वेणी भी अत्यन्त सुन्दर है। मैं तुम्हें जानता नहीं हूँ; इसलिये पूछता हूँ। तुम मुझे अपना नाम बताओ। सुभ्रू! दैत्यराजको त्यागकर अपने तेजसे मुझे प्रकाशित करती हुई इस प्रकार तुम कौन खड़ी हो? मेरे प्रश्नके अनुसार अपना परिचय दो॥५-६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,11 +171,6 @@ _लक्ष्मी बोली—_ मुझे न तो विरोच�
 त्वं मां शक्र न जानीषे सर्वे देवा न मां विदुः॥८॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -191,15 +185,15 @@ _लक्ष्मी बोली—_ मुझे न तो विरोच�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमिदं त्वं मम कृते उताहो बलिनः कृते।  
 दुःसहे विजहास्येनं चिरसंवासिनी सती ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -216,15 +210,15 @@ _इन्द्रने पूछा—_ दुःसहे! तुमने �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नो धाता न विधाता मां विदधाति कथंचन।  
 कालस्तु शक्र पर्यागान्मैनं शक्रावमन्यथाः ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -241,15 +235,15 @@ _लक्ष्मीने कहा—_ इन्द्र! धाता य�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं त्वया बलिस्त्यक्तः किमर्थं वा शिखण्डिनि।  
 कथं च मां न जह्यास्त्वं तन्मे ब्रूहि शुचिस्मिते॥११॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -264,6 +258,11 @@ _लक्ष्मीने कहा—_ इन्द्र! धाता य�
 
 _इन्द्रने पूछा—_ वेणी धारण करनेवाली लक्ष्मी! तुमने बलिका कैसे और किसलिये त्याग किया है? शुचिस्मिते! तुम मेरा त्याग किस प्रकार नहीं करोगी? यह मुझे बताओ॥११॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -332,11 +331,6 @@ _लक्ष्मीने कहा—_ मैं सत्य, दान, �
 अप्रमत्तेन धार्यास्मि तपसा विक्रमेण च ॥ १५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -351,15 +345,15 @@ _लक्ष्मीने कहा—_ मैं सत्य, दान, �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्ति देवमनुष्येषु सर्वभूतेषु वा पुमान्।  
 यस्त्वामेको विषहितुं शक्नुयात् कमलालये ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -376,15 +370,15 @@ _इन्द्रने कहा—_ कमलालये! देवता�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव देवो न गन्धर्वो नासुरो न च राक्षसः।  
 यो मामेको विषहितुं शक्तः कश्चित् पुरंदर ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -401,15 +395,15 @@ _लक्ष्मीने कहा—_ पुरंदर! देवता, 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठेथा मयि नित्यं त्वं यथा तद् ब्रूहि मे शुभे।  
 तत् करिष्यामि ते वाक्यमृतं तत् वक्तुमर्हसि ॥ १८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -426,15 +420,15 @@ _इन्द्रने कहा—_ शुभे! तुम जिस प्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थास्यामि नित्यं देवेन्द्र यथा त्वयि निबोध तत्।  
 विधिना वेददृष्टेन चतुर्धा विभजस्व माम् ॥ १९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -449,6 +443,11 @@ _इन्द्रने कहा—_ शुभे! तुम जिस प्
 
 _लक्ष्मीने कहा—_ देवेन्द्र! मैं जिस उपायसे तुम्हारे निकट सदा निवास कर सकूँगी, वह बताती हूँ, सुनो। तुम वेदमें बतायी हुई विधिसे मुझे चार भागोंमें विभक्त करो॥१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -477,11 +476,6 @@ _इन्द्रने कहा—_ लक्ष्मी! मैं शा�
 सा ते पादं तितिक्षेत समर्था हीति मे मतिः॥२१॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -496,15 +490,15 @@ _इन्द्रने कहा—_ लक्ष्मी! मैं शा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष मे निहितः पादो योऽयं भूमौ प्रतिष्ठितः।  
 द्वितीयं शक्र पादं मे तस्मात् सुनिहितं कुरु ॥ २२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -521,15 +515,15 @@ _लक्ष्मीने कहा—_ इन्द्र! यह जो म
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आप एव मनुष्येषु द्रवन्त्यः परिचारिणीः।  
 तास्ते पादं तितिक्षन्तामलमापस्तितिक्षितुम् ॥ २३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -546,15 +540,15 @@ _इन्द्रने कहा—_ लक्ष्मी! मनुष्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष मे निहितः पादो योऽयमप्सु प्रतिष्ठितः।  
 तृतीयं शक्र पादं मे तस्मात् सुनिहितं कुरु ॥ २४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -571,15 +565,15 @@ _लक्ष्मीने कहा—_ इन्द्र! लो, मैं
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मिन् वेदाश्च यज्ञाश्च यस्मिन्‌ देवाः प्रतिष्ठिताः।  
 तृतीयं पादमग्निस्ते सुधृतं धारयिष्यति ॥ २५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -596,15 +590,15 @@ _इन्द्रने कहा—_ देवि! जिसमें वे�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष मे निहितः पादो योऽयमग्नौ प्रतिष्ठितः।  
 चतुर्थं शक्र पादं मे तस्मात् सुनिहितं कुरु ॥ २६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -621,15 +615,15 @@ _लक्ष्मीने कहा—_ इन्द्र! यह तीस�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये वै सन्तो मनुष्येषु ब्रह्मण्याः सत्यवादिनः।  
 ते ते पादं तितिक्षन्तामलं सन्तस्तितिक्षितुम् ॥ २७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -646,15 +640,15 @@ _इन्द्र बोले—_ देवि! मनुष्योंम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष मे निहितः पादो योऽयं सत्सु प्रतिष्ठितः।  
 एवं हि निहितां शक्र भूतेषु परिधत्स्व माम् ॥ २८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -669,6 +663,11 @@ _इन्द्र बोले—_ देवि! मनुष्योंम�
 
 _लक्ष्मीने कहा—_ इन्द्र! यह मैंने अपना चौथा पाद रखा। अब यह सत्पुरुषोंमें प्रतिष्ठित हुआ। इसी प्रकार तुम अब सम्पूर्ण भूतोंमें मुझे स्थापित करके सब ओरसे मेरी रक्षा करो॥२८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -739,11 +738,6 @@ _इन्द्रने कहा—_ देवि! मेरेद्वा�
 तदा देवासुरे युद्धे जेताहं त्वां शतक्रतो ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -756,6 +750,11 @@ _इन्द्रने कहा—_ देवि! मेरेद्वा�
 
 ‘शतक्रतो! जब सूर्य एक स्थान अर्थात् ब्रह्मलोकमें ही स्थित होकर नीचेके सम्पूर्ण लोकोंको ताप देने लगेंगे, उस समय देवासुरसंग्राममें मैं तुम्हें अवश्य जीत लूँगा[^*]’॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -824,11 +823,6 @@ _इन्द्रने कहा—_ बले! ब्रह्माजी�
 येन संयाति लोकेषु शीतोष्णे विसृजन् रविः ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -841,6 +835,11 @@ _इन्द्रने कहा—_ बले! ब्रह्माजी�
 
 उनके दो मार्ग हैं—उत्तर और दक्षिण। छः महीनोंका उत्तरायण होता है और छः महीनोंका दक्षिणायन। उसीसे सम्पूर्ण जगत्‌में सर्दी-गर्मीकी सृष्टि करते हुए सूर्यदेव भ्रमण करते हैं॥३६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -869,11 +868,6 @@ _भीष्मजी कहते हैं—_ भारत! इन्द्�
 वाक्यं श्रुत्वा सहस्राक्षः खमेवारुरुहे तदा ॥ ३८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें श्रीसंनिधाननामक दो सौ पचीसवाँ अध्याय पूरा हुआ॥२२५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -890,6 +884,11 @@ _भीष्मजी कहते हैं—_ भारत! इन्द्�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि श्रीसंनिधानो नाम पञ्चविंशत्यधिकद्विशततमोऽध्यायः ॥ २२५ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें श्रीसंनिधाननामक दो सौ पचीसवाँ अध्याय पूरा हुआ॥२२५॥
 </details>
 </details>
 

@@ -4,12 +4,7 @@ title_full = "059 महाभारतका उपक्रम"
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="भट्टमधुसूदनः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-059sridevi.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
+<div caption="भट्टमधुसूदनः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-059sridevi.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -24,6 +19,11 @@ title_full = "059 महाभारतका उपक्रम"
 
 महाभारतका उपक्रम
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -74,11 +74,6 @@ _शौनकजी बोले—_ तात सूतनन्दन! आप�
 त्वत्त इच्छामहे श्रोतुं सौते त्वं वै प्रचक्ष्व नः॥४॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -95,15 +90,15 @@ _शौनकजी बोले—_ तात सूतनन्दन! आप�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्मान्तरेष्वकथयन् द्विजा वेदाश्रयाः कथाः।  
 व्यासस्त्वकथयच्चित्रमाख्यानं भारतं महत् ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शौनक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -118,6 +113,11 @@ _शौनकजी बोले—_ तात सूतनन्दन! आप�
 
 _उग्रश्रवाजीने कहा—_ शौनक! यज्ञकर्मसे अवकाश मिलनेपर अन्य ब्राह्मण तो वेदोंकी कथाएँ कहते थे, परंतु व्यासदेवजी अति विचित्र महाभारतकी कथा सुनाया करते थे॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शौनक उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,11 +150,6 @@ _शौनकजी बोले—_ सूतनन्दन! महाभा�
 कथयस्व सतां श्रेष्ठ सर्वरत्नमयीमिमाम् ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -167,6 +162,11 @@ _शौनकजी बोले—_ सूतनन्दन! महाभा�
 
 यह कथा पवित्र अन्तःकरणवाले महर्षि वेद-व्यासके हृदयरूपी समुद्रसे प्रकट हुए सब प्रकारके शुभ विचाररूपी रत्नोंसे परिपूर्ण है। साधुशिरोमणे! आप इस कथाको मुझे सुनाइये॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -195,11 +195,6 @@ _उग्रश्रवाजीने कहा—_ शौनक! मैं �
 शंसितुं तन्महान् हर्षो ममापीह प्रवर्तते ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अंशावतरणपर्वमें कथानुबन्धविषयक उनसठवाँ अध्याय पूरा हुआ॥५९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -217,4 +212,10 @@ _उग्रश्रवाजीने कहा—_ शौनक! मैं �
 
 इति श्रीमहाभारते आदिपर्वणि अंशावतरणपर्वणि कथानुबन्धे एकोनषष्टितमोऽध्यायः ॥ ५९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत अंशावतरणपर्वमें कथानुबन्धविषयक उनसठवाँ अध्याय पूरा हुआ॥५९॥
 </details>
+</details>
+

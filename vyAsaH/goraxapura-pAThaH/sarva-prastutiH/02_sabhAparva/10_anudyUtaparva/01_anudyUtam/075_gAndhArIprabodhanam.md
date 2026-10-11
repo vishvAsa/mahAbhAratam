@@ -4,13 +4,8 @@ title_full = "075 गान्धारीकी धृतराष्ट्र�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="वासन्ती
-" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-075.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="वासन्ती
+" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-075.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -24,6 +19,11 @@ title_full = "075 गान्धारीकी धृतराष्ट्र�
 
 गान्धारीकी धृतराष्ट्रको चेतावनी और धृतराष्ट्रका अस्वीकार करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,11 +240,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पुनर्द्यूतं च कुर्वन्तु मामकाः पाण्डवैः सह ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें गान्धारीवाक्यविषयक पचहत्तरवाँ अध्याय पूरा हुआ॥७५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -262,4 +257,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि अनुद्यूतपर्वणि गान्धारीवाक्ये पञ्चसप्ततितमोऽध्यायः ॥ ७५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत अनुद्यूतपर्वमें गान्धारीवाक्यविषयक पचहत्तरवाँ अध्याय पूरा हुआ॥७५॥
 </details>
+</details>
+

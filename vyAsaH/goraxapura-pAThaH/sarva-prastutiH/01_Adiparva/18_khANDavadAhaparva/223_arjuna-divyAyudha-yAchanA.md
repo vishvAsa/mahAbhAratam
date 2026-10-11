@@ -4,14 +4,9 @@ title_full = "223 अर्जुनका अग्निकी प्रार
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-223p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-223p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-223p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-223p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "223 अर्जुनका अग्निकी प्रार
 
 अर्जुनका अग्निकी प्रार्थना स्वीकार करके उनसे दिव्य धनुष एवं रथ आदि माँगना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,11 +241,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 दिधक्षुं खाण्डवं दावमकामस्य शतक्रतोः ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -262,6 +257,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 नृपश्रेष्ठ! यह सुनकर हव्यवाहनने तुरंत श्रीकृष्ण और अर्जुनके पास आकर जो कार्य निवेदन किया, वह मैं तुम्हें पहले ही बता चुका हूँ। जनमेजय! अग्निका वह कथन सुनकर अर्जुनने इन्द्रकी इच्छाके विरुद्ध खाण्डववन जलानेकी अभिलाषा रखनेवाले जातवेदा अग्निसे उस समयके अनुकूल यह बात कही॥१२—१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -374,11 +374,6 @@ _अर्जुन बोले—_ भगवन्! मेरे पास ब
 करणानि समर्थानि भगवन् दातुमर्हसि ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत खाण्डवदाहपर्वमें अर्जुन-अग्निसंवादविषयक दो सौ तेईसवाँ अध्याय पूरा हुआ॥२२३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -396,4 +391,10 @@ _अर्जुन बोले—_ भगवन्! मेरे पास ब
 
 इति श्रीमहाभारते आदिपर्वणि खाण्डवदाहपर्वणि अर्जुनाग्निसंवादे त्रयोविंशत्यधिकद्विशततमोऽध्यायः ॥ २२३ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत खाण्डवदाहपर्वमें अर्जुन-अग्निसंवादविषयक दो सौ तेईसवाँ अध्याय पूरा हुआ॥२२३॥
 </details>
+</details>
+

@@ -4,14 +4,9 @@ title_full = "071 राजा दुष्यन्तका शकुन्त
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-071p01.mp3"></div>
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-071p01.mp3"></div>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-071p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-071p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "071 राजा दुष्यन्तका शकुन्त
 इन्द्रका चिन्तित होकर  
 मेनकाको मुनिका तपोभंग करनेके लिये भेजना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -187,11 +187,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 दृष्ट्वा चैवानवद्याङ्गीं यथावत् प्रतिपूजितः ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(दुष्यन्त उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -204,6 +199,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 उसके द्वारा विधिवत् किये हुए आतिथ्य सत्कारको ग्रहण करके राजाने उस सर्वांगसुन्दरी एवं मधुरभाषिणी कन्याकी ओर देखकर कहा॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(दुष्यन्त उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,11 +230,6 @@ _दुष्यन्त इति मे नाम सत्यं पुष�
 क्व गतो भगवान् भद्रे तन्ममाचक्ष्व शोभने ॥ ८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुन्तलोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -249,15 +244,15 @@ _दुष्यन्त बोले—_ कमललोचने! मैं �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुन्तलोवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतः पिता मे भगवान् फलान्याहर्तुमाश्रमात्।  
 मुहूर्तं सम्प्रतीक्षस्व द्रष्टास्येनमुपागतम् ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -272,6 +267,11 @@ _दुष्यन्त बोले—_ कमललोचने! मैं �
 
 _शकुन्तला बोली—_ अभ्यागत! मेरे पूज्य पिताजी फल लानेके लिये आश्रमसे बाहर गये हैं। अतः दो घड़ी प्रतीक्षा कीजिये। लौटनेपर उनसे मिलियेगा॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,11 +420,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तमेव प्रार्थय स्वार्थं नायुक्तं कर्तुमर्हसि॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुष्यन्त उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -437,6 +432,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘राजेन्द्र! मैं परतन्त्र हूँ। कश्यपनन्दन महर्षि कण्व मेरे गुरु और पिता हैं। उन्हींसे आप अपने प्रयोजनकी सिद्धिके लिये प्रार्थना करें। आपको अनुचित कार्य नहीं करना चाहिये’।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुष्यन्त उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -465,11 +465,6 @@ _दुष्यन्त बोले—_ महाभागे! विश्�
 संशयो मे महानत्र तन्मे छेत्तुमिहार्हसि ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुन्तलोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -482,6 +477,11 @@ _दुष्यन्त बोले—_ महाभागे! विश्�
 
 ऐसी दशामें तुम-जैसी सुन्दरी देवी उनकी पुत्री कैसे हो सकती है? इस विषयमें मुझे बड़ा भारी संदेह हो रहा है। मेरे इस संदेहका निवारण तुम्हीं कर सकती हो॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुन्तलोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -536,11 +536,6 @@ _शकुन्तलाने कहा—_ राजन्! ये सब ब
 तस्मै प्रोवाच भगवान् यथा तच्छृणु पार्थिव ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कण्व उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -555,6 +550,11 @@ _शकुन्तलाने कहा—_ राजन्! ये सब ब
 
 पृथ्वीपते! एक दिन किसी ऋषिने यहाँ आकर मेरे जन्मके सम्बन्धमें मुनिसे पूछा—‘कश्यपनन्दन! आप तो ऊर्ध्वरेता ब्रह्मचारी हैं, फिर यह शकुन्तला कहाँसे आयी? आपसे पुत्रीका जन्म कैसे हुआ? यह मुझे सच-सच बताइये।’ उस समय भगवान् कण्वने उससे जो बात बतायी, वही कहती हूँ, सुनिये॥१९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कण्व उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,11 +667,6 @@ _कण्व बोले—_ पहलेकी बात है, महर्
 लोभयित्वा वरारोहे तपसस्तं निवर्तय ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मेनकोवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -684,6 +679,11 @@ _कण्व बोले—_ पहलेकी बात है, महर्
 
 ‘वरारोहे! अपने रूप, जवानी, मधुर स्वभाव, हाव-भाव, मन्द मुसकान और सरस वार्तालाप आदिके द्वारा मुनिको लुभाकर उन्हें तपस्यासे निवृत्त कर दो’॥२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मेनकोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1016,11 +1016,6 @@ _मेनका बोली—_ देवराज! भगवान् वि�
 स्ततो ययौ साऽऽश्रमं कौशिकस्य ॥ ४२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक इकहत्तरवाँ अध्याय पूरा हुआ॥७१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1039,6 +1034,11 @@ _मेनका बोली—_ देवराज! भगवान् वि�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि शकुन्तलोपाख्याने एकसप्ततितमोऽध्यायः ॥ ७१ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें शकुन्तलोपाख्यानविषयक इकहत्तरवाँ अध्याय पूरा हुआ॥७१॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

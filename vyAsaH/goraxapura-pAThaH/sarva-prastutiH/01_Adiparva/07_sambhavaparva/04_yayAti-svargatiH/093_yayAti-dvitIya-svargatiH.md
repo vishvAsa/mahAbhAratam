@@ -4,12 +4,7 @@ title_full = "093 राजा ययातिका वसुमान् औ�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-093.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसुमानुवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-093.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,17 +20,17 @@ title_full = "093 राजा ययातिका वसुमान् औ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसुमानुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृच्छामि त्वां वसुमानौषदश्वि-  
 र्यद्यस्ति लोको दिवि मे नरेन्द्र।  
 यद्यन्तरिक्षे प्रथितो महात्मन्  
 क्षेत्रज्ञं त्वां तस्य धर्मस्य मन्ये ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -54,17 +49,17 @@ _वसुमान्‌ने कहा—_ नरेन्द! मैं उ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदन्तरिक्षं पृथिवी दिशश्च  
 यत्तेजसा तपते भानुमांश्च ।  
 लोकास्तावन्तो दिवि संस्थिता वै  
 ते नान्तवन्तः प्रतिपालयन्ति ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसुमानुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -83,17 +78,17 @@ _ययातिने कहा—_ राजन्! पृथ्वी, आक
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसुमानुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्ते ददानि मा प्रपत प्रपातं  
 ये मे लोकास्तव ते वै भवन्तु।  
 क्रीणीष्वैतांस्तृणकेनापि राजन्  
 प्रतिग्रहस्ते यदि धीमन् प्रदुष्टः ॥ ३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -112,17 +107,17 @@ _वसुमान् बोले—_ राजन्! वे सभी लो
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मिथ्याहं विक्रयं वै स्मरामि  
 वृथा गृहीतं शिशुकाच्छङ्कमानः ।  
 कुर्यां न चैवाकृतपूर्वमन्यै-  
 र्विधित्समानः किमु तत्र साधु ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसुमानुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -141,17 +136,17 @@ _ययातिने कहा—_ मैंने इस प्रकार �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसुमानुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्त्वं लोकान् प्रतिपद्यस्व राजन्  
 मया दत्तान् यदि नेष्टः क्रयस्ते।  
 अहं न तान् वै प्रतिगन्ता नरेन्द्र  
 सर्वे लोकास्तव ते वै भवन्तु ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शिबिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -170,17 +165,17 @@ _वसुमान् बोले—_ राजन्! यदि आप खर
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शिबिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृच्छामि त्वां शिबिरौशीनरोऽहं  
 ममापि लोका यदि सन्तीह तात।  
 यद्यन्तरिक्षे यदि वा दिवि श्रिताः  
 क्षेत्रज्ञं त्वां तस्य धर्मस्य मन्ये ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -199,17 +194,17 @@ _शिबिने कहा—_ तात! मैं उशीनरका प
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् त्वं वाचा हृदयेनापि साधून्  
 परीप्समानान् नावमंस्था नरेन्द्र ।  
 तेनानन्ता दिवि लोकाः श्रितास्ते  
 विद्युद्रूपाः स्वनवन्तो महान्तः ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शिबिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -228,17 +223,17 @@ _ययाति बोले—_ नरेन्द्र! जो-जो सा
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शिबिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्त्वं लोकान् प्रतिपद्यस्व राजन्  
 मया दत्तान् यदि नेष्टः क्रयस्ते।  
 न चाहं तान् प्रतिपत्स्ये ह दत्त्वा  
 यत्र गत्वा नानुशोचन्ति धीराः ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -257,17 +252,17 @@ _शिबिने कहा—_ महाराज! यदि आप खरी
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा त्वमिन्द्रप्रतिमप्रभाव-  
 स्ते चाप्यनन्ता नरदेव लोकाः।  
 तथाद्य लोके न रमेऽन्यदत्ते  
 तस्माच्छिबे नाभिनन्दामि देयम् ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -286,15 +281,15 @@ _ययाति बोले—_ नरदेव शिबि! जिस प्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चेदेकैकशो राजल्ँलोकान् नः प्रतिनन्दसि।  
 सर्वे प्रदाय भवते गन्तारो नरकं वयम् ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -311,15 +306,15 @@ _अष्टकने कहा—_ राजन्! यदि आप हमम
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदर्होऽहं तद् यतध्वं सन्तः सत्याभिनन्दिनः।  
 अहं तन्नाभिजानामि यत् कृतं न मया पुरा ॥ ११ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -336,15 +331,15 @@ _ययाति बोले—_ मैं जिसके योग्य ह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यैते प्रतिदृश्यन्ते रथाः पञ्च हिरण्मयाः।  
 यानारुह्य नरो लोकानभिवाञ्छति शाश्वतान् ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -361,15 +356,15 @@ _अष्टकने कहा—_ आकाशमें ये किसक�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युष्मानेते वहिष्यन्ति रथाः पञ्च हिरण्मयाः।  
 उच्चैः सन्तः प्रकाशन्ते ज्वलन्तोऽग्निशिखा इव ॥ १३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(वैशम्पायन उवाच)
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -384,6 +379,11 @@ _अष्टकने कहा—_ आकाशमें ये किसक�
 
 _ययाति बोले—_ ऊपर आकाशमें स्थित प्रज्वलित अग्निकी लपटोंके समान जो पाँच सुवर्णमय रथ प्रकाशित हो रहे हैं, ये आपलोगोंको ही स्वर्गमें ले जायँगे॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(वैशम्पायन उवाच)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -438,11 +438,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 दिविष्ठं प्राप्तमाज्ञाय ववन्दे पितरं तदा।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वसुमना उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -462,15 +457,15 @@ _ततो वसुमनाः_ [^*]_ पृच्छन् मातरं �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वसुमना उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवत्या यत् कृतमिदं वन्दनं वरवर्णिनि।  
 कोऽयं देवोऽथवा राजा यदि जानासि मे वद॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-माधव्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -487,17 +482,17 @@ _वसुमना बोले—_ माँ! तुम श्रेष्ठ 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+माधव्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृणुध्वं सहिताः पुत्रा नाहुषोऽयं पिता मम।  
 ययातिर्मम पुत्राणां मातामह इति श्रुतः॥  
 पूरुं मे भ्रातरं राज्ये समावेश्य दिवं गतः।  
 केन वा कारणेनैव इह प्राप्तो महायशाः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -516,16 +511,16 @@ _माधवीने कहा—_ पुत्रो! तुम सब लो
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा स्थानभ्रष्टेति चाब्रवीत्।  
 सा पुत्रस्य वचः श्रुत्वा सम्भ्रमाविष्टचेतना॥  
 माधवी पितरं प्राह दौहित्रपरिवारितम्।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-माधव्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -543,17 +538,17 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+माधव्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपसा निर्जिताल्ँलोकान् प्रतिगृह्णीष्व मामकान्।  
 पुत्राणामिव पौत्राणां धर्मादधिगतं धनम्॥  
 स्वार्थमेव वदन्तीह ऋषयो वेदपारगाः।  
 तस्माद् दानेन तपसा अस्माकं दिवमाव्रज॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -570,6 +565,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 _माधवीने कहा—_ पिताजी! मैंने तपस्याद्वारा जिन लोकोंपर अधिकार प्राप्त किया है, उन्हें आप ग्रहण करें। पुत्रों और पौत्रोंकी भाँति पुत्री और दौहित्रोंका धर्माचरणसे प्राप्त किया हुआ धन भी अपने ही लिये है, यह वेदवेत्ता ऋषि कहते हैं; अतः आप हमलोगोंके दान एवं तपस्याजनित पुण्यसे स्वर्गलोकमें जाइये।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -680,11 +680,6 @@ _ययाति बोले—_ यदि यह धर्मजनित फ�
 स कालः कालतो दत्तं नान्यथा काल इष्यते॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -699,15 +694,15 @@ _ययाति बोले—_ यदि यह धर्मजनित फ�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा ययातिस्तु पुनः प्रोवाच बुद्धिमान्।  
 सर्वे ह्यवभृथस्नातास्त्वरध्वं कार्यगौरवात् ॥)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -724,15 +719,15 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आतिष्ठस्व रथान् राजन् विक्रमस्व विहायसम्।  
 वयमप्यनुयास्यामो यदा कालो भविष्यति ॥ १४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -749,15 +744,15 @@ _अष्टक बोले—_ राजन्! आप इन रथोंम
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वैरिदानीं गन्तव्यं सह स्वर्गजितो वयम्।  
 एष नो विरजाः पन्था दृश्यते देवसद्मनः ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -772,6 +767,11 @@ _अष्टक बोले—_ राजन्! आप इन रथोंम
 
 _ययाति बोले—_ हम सब लोगोंने साथ-साथ स्वर्गपर विजय पायी है, इसलिये इस समय सबको वहाँ चलना चाहिये। देवलोकका यह रजोहीन सात्त्विक मार्ग हमें स्पष्ट दिखायी दे रहा है॥१५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -801,11 +801,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 सर्वे ह्यवभृथस्नाताः स्वर्गताः साधवः सह।)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अष्टक उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -821,17 +816,17 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अष्टक उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं मन्ये पूर्वमेकोऽस्मि गन्ता  
 सखा चेन्द्रः सर्वथा मे महात्मा।  
 कस्मादेवं शिबिरौशीनरोऽय-  
 मेकोऽत्यगात् सर्ववेगेन वाहान् ॥ १७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -848,6 +843,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 _अष्टक बोले—_ राजन्! महात्मा इन्द्र मेरे बड़े मित्र हैं, अतः मैं तो समझता था कि अकेला मैं ही सबसे पहले उनके पास पहुँचूँगा। परंतु ये उशीनरपुत्र शिबि अकेले सम्पूर्ण वेगसे हम सबके वाहनोंको लाँघकर आगे बढ़ गये हैं, ऐसा कैसे हुआ?॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -900,11 +900,6 @@ _ययातिने कहा—_ राजन्! उशीनरके प�
 तस्माच्छिबिरत्यगाद् वै रथेन ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -917,6 +912,11 @@ _ययातिने कहा—_ राजन्! उशीनरके प�
 
 राजा शिबि ऐसे सदाचारसम्पन्न और लज्जाशील हैं! (इनमें अभिमानकी मात्रा छू भी नहीं गयी है।) इसीलिये शिबि हम सबसे आगे बढ़ गये हैं।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -947,11 +947,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 लोके त्वदन्यः क्षत्रियो ब्राह्मणो वा ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -966,6 +961,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 महाराज! मैं आपसे एक बात पूछता हूँ। आप उसे सच-सच बताइये। आप कहाँसे आये हैं, कौन हैं और किसके पुत्र हैं? आपने जो कुछ किया है, उसे करनेवाला आपके सिवा दूसरा कोई क्षत्रिय अथवा ब्राह्मण इस संसारमें नहीं है॥२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1094,11 +1094,6 @@ _ययातिने कहा—_ मैं नहुषका पुत्�
 अनसूयुर्द्विजाग्र्येभ्यः स लभेन्नः सलोकताम् ॥ २७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1113,17 +1108,17 @@ _ययातिने कहा—_ मैं नहुषका पुत्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं राजा स महात्मा ह्यतीव  
 स्वैर्दौहित्रैस्तारितोऽमित्रसाहः ।  
 त्यक्त्वा महीं परमोदारकर्मा  
 स्वर्गं गतः कर्मभिर्व्याप्य पृथ्वीम् ॥ २८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातसमाप्तिविषयक तिरानबेवाँ अध्याय पूरा हुआ॥९३॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1144,6 +1139,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि उत्तरयायातसमाप्तौ त्रिनवतितमोऽध्यायः ॥ ९३ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातसमाप्तिविषयक तिरानबेवाँ अध्याय पूरा हुआ॥९३॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

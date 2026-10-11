@@ -4,26 +4,21 @@ title_full = "067 देवता और दैत्य आदिके अं�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p05.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p05.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p06.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p06.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p07.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p07.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p08.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-067p08.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -39,6 +34,11 @@ title_full = "067 देवता और दैत्य आदिके अं�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवानां दानवानां च गन्धर्वोरगरक्षसाम्।  
@@ -46,11 +46,6 @@ title_full = "067 देवता और दैत्य आदिके अं�
 सर्वेषां चैव भूतानां सम्भवं भगवन्नहम्।  
 श्रोतुमिच्छामि तत्त्वेन मानुषेषु महात्मनाम्।  
 जन्म कर्म च भूतानामेतेषामनुपूर्वशः ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -68,6 +63,11 @@ title_full = "067 देवता और दैत्य आदिके अं�
 
 _जनमेजयने कहा—_ भगवन्! मैं मनुष्य-योनिमें अंशतः उत्पन्न हुए देवता, दानव, गन्धर्व, नाग, राक्षस, सिंह, व्याघ्र, हरिण, सर्प, पक्षी एवं सम्पूर्ण भूतोंके जन्मका वृत्तान्त यथार्थरूपसे सुनना चाहता हूँ। मनुष्योंमें जो महात्मा पुरुष हैं, उनके तथा इन सभी प्राणियोंके जन्म-कर्मका क्रमशः वर्णन सुनना चाहता हूँ॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1182,11 +1182,6 @@ _अत्रेस्तु_ [^*]_ सुमहाभागं पुत्र�
 वैश्यापुत्रो युयुत्सुश्च धार्तराष्ट्रः शताधिकः ॥ ९१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1203,15 +1198,15 @@ _अत्रेस्तु_ [^*]_ सुमहाभागं पुत्र�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठानुज्येष्ठतामेषां नामधेयानि वा विभो।  
 धृतराष्ट्रस्य पुत्राणामानुपूर्व्येण कीर्तय ॥ ९२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1226,6 +1221,11 @@ _अत्रेस्तु_ [^*]_ सुमहाभागं पुत्र�
 
 _जनमेजयने कहा—_ प्रभो! धृतराष्ट्रके जो सौ पुत्र थे, उनके नाम मुझे बड़े-छोटेके क्रमसे एक-एक करके बताइये॥९२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2270,11 +2270,6 @@ _वैशम्पायनजी बोले—_ राजन्! सुन�
 प्रभवाप्ययवित् प्राज्ञो न कृच्छ्रेष्ववसीदति ॥ १६४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें अंशावतरणसमाप्तिविषयक सड़सठवाँ अध्याय पूरा हुआ॥६७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -2291,6 +2286,11 @@ _वैशम्पायनजी बोले—_ राजन्! सुन�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि अंशावतरणसमाप्तौ सप्तषष्टितमोऽध्यायः ॥ ६७ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें अंशावतरणसमाप्तिविषयक सड़सठवाँ अध्याय पूरा हुआ॥६७॥
 </details>
 </details>
 

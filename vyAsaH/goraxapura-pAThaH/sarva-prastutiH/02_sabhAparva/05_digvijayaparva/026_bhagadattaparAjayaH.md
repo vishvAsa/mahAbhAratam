@@ -4,14 +4,9 @@ title_full = "026 अर्जुनके द्वारा अनेक द�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-026-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-026-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-026-p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-026-p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,15 +22,15 @@ title_full = "026 अर्जुनके द्वारा अनेक द�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिशामभिजयं ब्रह्मन् विस्तरेणानुकीर्तय ।  
 न हि तृप्यामि पूर्वेषां शृण्वानश्चरितं महत् ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -50,6 +45,11 @@ title_full = "026 अर्जुनके द्वारा अनेक द�
 
 _जनमेजय बोले—_ ब्रह्मन्! दिग्विजयका विस्तार-पूर्वक वर्णन कीजिये। अपने पूर्वजोंके इस महान् चरित्रको सुनते-सुनते मेरी तृप्ति नहीं हो रही है॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -278,11 +278,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 यद् वक्ष्यसि महाबाहो तत् करिष्यामि पुत्रक ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -297,6 +292,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुरूणामृषभो राजा धर्मपुत्रो युधिष्ठिरः।  
@@ -304,11 +304,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 तस्य पार्थिवतामीप्से करस्तस्मै प्रदीयताम्।  
 भवान् पितृसखा चैव प्रीयमाणो मयापि च।  
 ततो नाज्ञापयामि त्वां प्रीतिपूर्वं प्रदीयताम् ॥ १५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भगदत्त उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -328,15 +323,15 @@ _अर्जुन बोले—_ महाराज! धर्मज्ञ �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भगदत्त उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुन्तीमातर्यथा मे त्वं तथा राजा युधिष्ठिरः।  
 सर्वमेतत् करिष्यामि किं चान्यत् करवाणि ते ॥ १६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें अर्जुनदिग्विजयप्रसंगमें भगदत्तपराजयसम्बन्धी छब्बीसवाँ अध्याय पूरा हुआ॥२६॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -356,4 +351,10 @@ _भगदत्तने कहा—_ कुन्तीकुमार! म�
 
 इति श्रीमहाभारते सभापर्वणि दिग्विजयपर्वणि अर्जुनदिग्विजये भगदत्तपराजये षड्विंशोऽध्यायः ॥ २६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत दिग्विजयपर्वमें अर्जुनदिग्विजयप्रसंगमें भगदत्तपराजयसम्बन्धी छब्बीसवाँ अध्याय पूरा हुआ॥२६॥
 </details>
+</details>
+

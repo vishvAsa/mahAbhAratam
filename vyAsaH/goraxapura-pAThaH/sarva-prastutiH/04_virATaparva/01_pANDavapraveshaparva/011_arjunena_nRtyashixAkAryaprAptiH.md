@@ -4,14 +4,9 @@ title_full = "011 अर्जुनका राजा विराटसे �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-011p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-011p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-011p2.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-011p2.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "011 अर्जुनका राजा विराटसे �
 
 अर्जुनका राजा विराटसे मिलना और राजाके द्वारा कन्याओंको नृत्य आदिकी शिक्षा देनेके लिये उनको नियुक्त करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -147,11 +147,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कथंचनेति प्रतिभाति मे मनः ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -166,6 +161,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘मैं बूढ़ा हो गया हूँ; अब राजकाज छोड़ना चाहता हूँ; अतः तुम सम्पूर्ण मत्स्यदेशका शीघ्र ही पालन करो। तुम्हारे-जैसे स्वरूपवाले किसी तरह नपुंसक नहीं हो सकते। मेरे मनको ऐसा ही प्रतीत होता है’॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,11 +206,6 @@ _अर्जुन बोले—_ मैं वेणी-रचना अच�
 विराटराजोपसृतं महायशाः ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विराट उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -225,6 +220,11 @@ _अर्जुन बोले—_ मैं वेणी-रचना अच�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विराट उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नार्हस्तु वेषोऽयमनूर्जितस्ते  
@@ -235,11 +235,6 @@ _अर्जुन बोले—_ मैं वेणी-रचना अच�
 घनावरुद्धे गगने घनैरिव ।  
 धनुर्हि मन्ये तव शोभयेद् भुजौ  
 तथा हि पीनावतिमात्रमायतौ ॥)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -260,6 +255,11 @@ _अर्जुन बोले—_ मैं वेणी-रचना अच�
 
 _विराटने कहा—_ नरदेवसिंह! ओज और बलसे रहित नपुंसकका-सा यह वेष तुम्हारे योग्य नहीं है। तुम क्लीब होनेके योग्य नहीं हो। प्रभो! तुम्हारा यह वेष भगवान् भूतनाथकी भाँति अशुभ वेष-भूषासे विभूषित है। जैसे बादलोंकी घटासे आच्छादित आकाशमें भी अंशुमाली सूर्यका मण्डल सुशोभित होता है, उसी प्रकार इस क्लीबवेषमें भी तुम पौरुषसे प्रकाशित हो रहे हो। मेरा ऐसा विश्वास है कि तुम्हारी इन मोटी और अत्यन्त विशाल भुजाओंको धनुष ही सुशोभित कर सकता है।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,11 +294,6 @@ _अर्जुनने कहा—_ नरदेव! मैं गाता,
 सुतं सुतां वा पितृमातृवर्जिताम् ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विराट उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -315,17 +310,17 @@ _अर्जुनने कहा—_ नरदेव! मैं गाता,
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विराट उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददामि ते हन्त वरं बृहन्नले  
 सुतां च मे नर्तय याश्च तादृशीः।  
 इदं तु ते कर्म समं न मे मतं  
 समुद्रनेमिं पृथिवीं त्वमर्हसि ॥ १० ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -342,6 +337,11 @@ _अर्जुनने कहा—_ नरदेव! मैं गाता,
 
 _विराट बोले—_ बृहन्नले! मैं तुम्हें अभीष्ट वर देता हूँ। तुम मेरी पुत्रीको तथा उसके समान अवस्थावाली अन्य राजकुमारियोंको नृत्यकला सिखलाओ। परंतु मुझे यह कर्म तुम्हारे योग्य नहीं जान पड़ता। तुम तो समुद्रसे घिरी हुई सम्पूर्ण पृथ्वीके शासक होने योग्य हो॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,11 +384,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 बहिश्चरा वाप्यथ चान्तरेचराः ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें अर्जुनप्रवेशनामक ग्यारहवाँ अध्याय पूरा हुआ॥११॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -413,8 +408,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते विराटपर्वणि पाण्डवप्रवेशपर्वणि अर्जुनप्रवेशो नाम एकादशोऽध्यायः ॥ ११ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें अर्जुनप्रवेशनामक ग्यारहवाँ अध्याय पूरा हुआ॥११॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ४ श्लोक मिलाकर कुल १८ श्लोक हैं।)
 </details>
 </details>
+

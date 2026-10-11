@@ -4,12 +4,7 @@ title_full = "105 व्यासजीके द्वारा विचित
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="श्रीदेवी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-105-sridevi.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="श्रीदेवी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-105-sridevi.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "105 व्यासजीके द्वारा विचित
 
 व्यासजीके द्वारा विचित्रवीर्यके क्षेत्रसे धृतराष्ट्र, पाण्डु और विदुरकी उत्पत्ति
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -573,11 +573,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 जज्ञिरे देवगर्भाभाः कुरुवंशविवर्धनाः ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें विचित्रवीर्यके पुत्रोंकी उत्पत्तिविषयक एक सौ पाँचवाँ अध्याय पूरा हुआ॥१०५॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -595,4 +590,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि विचित्रवीर्यसुतोत्पत्तौ पञ्चाधिकशततमोऽध्यायः ॥ १०५ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें विचित्रवीर्यके पुत्रोंकी उत्पत्तिविषयक एक सौ पाँचवाँ अध्याय पूरा हुआ॥१०५॥
 </details>
+</details>
+

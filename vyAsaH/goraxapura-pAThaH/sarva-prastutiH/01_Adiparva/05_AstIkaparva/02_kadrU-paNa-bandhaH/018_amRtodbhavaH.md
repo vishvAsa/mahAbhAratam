@@ -4,12 +4,7 @@ title_full = "018 देवताओं और दैत्योंद्वा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-018.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-018.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "018 देवताओं और दैत्योंद्वा
 
 देवताओं और दैत्योंद्वारा अमृतके लिये समुद्रका मन्थन, अनेक रत्नोंके साथ अमृतकी उत्पत्ति और भगवान्‌का मोहिनीरूप धारण करके दैत्योंके हाथसे अमृत ले लेना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,11 +63,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 मन्दरोद्धरणे यत्नः क्रियतां च हिताय नः ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -80,6 +75,11 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 
 ‘आप दोनों इस विषयमें कल्याणमयी उत्तम बुद्धि प्रदान करें और हमारे हितके लिये मन्दराचल पर्वतको उखाड़नेका यत्न करें’॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,11 +542,6 @@ _उग्रश्रवाजी कहते हैं—_ भृगुनन
 विधत्स्वैषां बलं विष्णो भवानत्र परायणम् ॥ ३१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विष्णुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -561,15 +556,15 @@ _उग्रश्रवाजी कहते हैं—_ भृगुनन
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विष्णुरुवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलं ददामि सर्वेषां कर्मैतद् ये समास्थिताः।  
 क्षोभ्यतां कलशः सर्वैर्मन्दरः परिवर्त्यताम् ॥ ३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सौतिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -584,6 +579,11 @@ _उग्रश्रवाजी कहते हैं—_ भृगुनन
 
 _श्रीविष्णु बोले—_ जो लोग इस कार्यमें लगे हुए हैं, उन सबको मैं बल दे रहा हूँ। सब लोग पूरी शक्ति लगाकर मन्दराचलको घुमावें और इस सागरको क्षुब्ध कर दें॥३२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सौतिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -877,11 +877,6 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 देवानपाययद् देवी न दैत्यांस्ते च चुक्रुशुः॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें अमृतमन्थनविषयक अठारहवाँ अध्याय पूरा हुआ॥१८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -901,8 +896,14 @@ _उग्रश्रवाजी कहते हैं—_ शौनकजी
 इति श्रीमहाभारते आदिपर्वणि आस्तीकपर्वणि अमृतमन्थनेऽष्टादशोऽध्यायः ॥ १८ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत आस्तीकपर्वमें अमृतमन्थनविषयक अठारहवाँ अध्याय पूरा हुआ॥१८॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके २ श्लोक मिलाकर कुल ४८ श्लोक हैं)
 </details>
 </details>
+

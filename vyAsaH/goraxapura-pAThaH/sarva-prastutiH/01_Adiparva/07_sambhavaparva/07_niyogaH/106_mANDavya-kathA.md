@@ -4,12 +4,7 @@ title_full = "106 महर्षि माण्डव्यका शूली
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-106.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-106.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,15 +20,15 @@ title_full = "106 महर्षि माण्डव्यका शूली
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं कृतं कर्म धर्मेण येन शापमुपेयिवान्।  
 कस्य शापाच्च ब्रह्मर्षेः शूद्रयोनावजायत ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -48,6 +43,11 @@ title_full = "106 महर्षि माण्डव्यका शूली
 
 _जनमेजयने पूछा—_ ब्रह्मन्! धर्मराजने ऐसा कौन-सा कर्म किया था, जिससे उन्हें शाप प्राप्त हुआ? किस ब्रह्मर्षिके शापसे वे शूद्रयोनिमें उत्पन्न हुए॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,11 +294,6 @@ _वैशम्पायनजीने कहा—_ राजन्! पू�
 येनेह समनुप्राप्तं शूले दुःखभयं महत् ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें अणीमाण्डव्योपाख्यानविषयक एक सौ छठा अध्याय पूरा हुआ॥१०६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -316,4 +311,10 @@ _वैशम्पायनजीने कहा—_ राजन्! पू�
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि अणीमाण्डव्योपाख्याने षडधिकशततमोऽध्यायः ॥ १०६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें अणीमाण्डव्योपाख्यानविषयक एक सौ छठा अध्याय पूरा हुआ॥१०६॥
 </details>
+</details>
+

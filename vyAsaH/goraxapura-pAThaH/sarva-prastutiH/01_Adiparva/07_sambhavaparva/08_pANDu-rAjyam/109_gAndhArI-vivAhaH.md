@@ -4,12 +4,7 @@ title_full = "109 राजा धृतराष्ट्रका विवा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-109.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-109.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "109 राजा धृतराष्ट्रका विवा
 
 राजा धृतराष्ट्रका विवाह
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -151,11 +151,6 @@ _भीष्मजीने कहा—_ बेटा विदुर! हम�
 संतानार्थं कुलस्यास्य यद् वा विदुर मन्यसे ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -170,15 +165,15 @@ _भीष्मजीने कहा—_ बेटा विदुर! हम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवान् पिता भवान् माता भवान् नः परमो गुरुः।  
 तस्मात् स्वयं कुलस्यास्य विचार्य कुरु यद्धितम् ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -193,6 +188,11 @@ _भीष्मजीने कहा—_ बेटा विदुर! हम�
 
 _विदुर बोले—_ प्रभो! आप हमारे पिता हैं, आप ही माता हैं और आप ही परम गुरु हैं; अतः स्वयं विचार करके जिस बातमें इस कुलका हित हो, वह कीजिये॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -323,11 +323,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 वाचापि पुरुषानन्यान् सुव्रता नान्यकीर्तयत् ॥ १९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें धृतराष्ट्रविवाहविषयक एक सौ नवाँ अध्याय पूरा हुआ॥१०९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -345,4 +340,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि धृतराष्ट्रविवाहे नवाधिकशततमोऽध्यायः ॥ १०९ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें धृतराष्ट्रविवाहविषयक एक सौ नवाँ अध्याय पूरा हुआ॥१०९॥
 </details>
+</details>
+

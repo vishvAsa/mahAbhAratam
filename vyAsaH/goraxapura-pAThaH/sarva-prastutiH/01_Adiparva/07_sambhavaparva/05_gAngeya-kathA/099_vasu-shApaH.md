@@ -4,12 +4,7 @@ title_full = "099 महर्षि वसिष्ठद्वारा वस
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="सत्यदेवः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-099.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शान्तनुरुवाच
+<div caption="सत्यदेवः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-099.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "099 महर्षि वसिष्ठद्वारा वस
 
 महर्षि वसिष्ठद्वारा वसुओंको शाप प्राप्त होनेकी कथा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शान्तनुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -71,11 +71,6 @@ _शान्तनुने पूछा—_ देवि! ये आपव न
 मानुषेषूदपद्यन्त तन्ममाचक्ष्व जाह्नवि ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -90,15 +85,15 @@ _शान्तनुने पूछा—_ देवि! ये आपव न
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तदा गङ्गा राजानमिदमब्रवीत्।  
 भर्तारं जाह्नवी देवी शान्तनुं पुरुषर्षभ ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गङ्गोवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -113,6 +108,11 @@ _शान्तनुने पूछा—_ देवि! ये आपव न
 
 _वैशम्पायनजी कहते हैं—_ नरश्रेष्ठ जनमेजय! अपने पति राजा शान्तनुके इस प्रकार पूछनेपर जह्नुपुत्री गंगादेवीने उनसे इस प्रकार कहा॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गङ्गोवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -736,11 +736,6 @@ _गंगा बोलीं—_ भरतश्रेष्ठ! पूर्�
 अहं च ते भविष्यामि आह्वानोपगता नृप॥)
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -755,6 +750,11 @@ _गंगा बोलीं—_ भरतश्रेष्ठ! पूर्�
 
 राजन्! मेरा यह पुत्र देवव्रत और गंगादत्त—दो नामोंसे विख्यात होगा। आपका बालक गुणोंमें आपसे भी बढ़कर होगा। (अच्छा, अब जाती हूँ) आपका यह पुत्र अभी शिशु-अवस्थामें है। बड़ा होनेपर फिर आपके पास आ जायगा और आप जब मुझे बुलायेंगे तभी मैं आपके सामने उपस्थित हो जाऊँगी।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,11 +823,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 यस्येतिहासो द्युतिमान् महाभारतमुच्यते ॥ ४९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें आपवोपाख्यानविषयक निन्यानबेवाँ अध्याय पूरा हुआ॥९९॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -844,6 +839,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि आपवोपाख्याने नवनवतितमोऽध्यायः ॥ ९९ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें आपवोपाख्यानविषयक निन्यानबेवाँ अध्याय पूरा हुआ॥९९॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

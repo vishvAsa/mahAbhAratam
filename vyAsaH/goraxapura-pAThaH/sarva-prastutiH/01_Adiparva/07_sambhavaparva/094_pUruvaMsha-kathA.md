@@ -4,14 +4,9 @@ title_full = "094 पूरुवंशका वर्णन"
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="श्रीदेवी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-094a-sridevi.mp3"></div>
+<div caption="श्रीदेवी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-094a-sridevi.mp3"></div>
 
-<div class="audioEmbed"  caption="श्रीदेवी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-094b-sridevi.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="श्रीदेवी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-094b-sridevi.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -25,6 +20,11 @@ title_full = "094 पूरुवंशका वर्णन"
 
 पूरुवंशका वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,11 +73,6 @@ _जनमेजय बोले—_ भगवन! अब मैं पूरु
 चरितं श्रोतुमिच्छामि विस्तरेण तपोधन ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -90,6 +85,11 @@ _जनमेजय बोले—_ भगवन! अब मैं पूरु
 
 तपोधन! जो अपने सदाचारके लिये प्रसिद्ध और विवेकसम्पन्न थे, उन सभी पूरुवंशी राजाओंके चरित्रको मुझे विस्तारपूर्वक सुननेकी इच्छा है॥३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1014,11 +1014,6 @@ _वैशम्पायनजीने कहा—_ जनमेजय! त�
 जाता मनोरन्ववाये ऐलवंशविवर्धनाः ॥ ६४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पूरुवंशवर्णनविषयक चौरानबेवाँ अध्याय पूरा हुआ॥९४॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1035,6 +1030,11 @@ _वैशम्पायनजीने कहा—_ जनमेजय! त�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि पूरुवंशानुकीर्तने चतुर्नवतितमोऽध्यायः ॥ ९४ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें पूरुवंशवर्णनविषयक चौरानबेवाँ अध्याय पूरा हुआ॥९४॥
 </details>
 </details>
 

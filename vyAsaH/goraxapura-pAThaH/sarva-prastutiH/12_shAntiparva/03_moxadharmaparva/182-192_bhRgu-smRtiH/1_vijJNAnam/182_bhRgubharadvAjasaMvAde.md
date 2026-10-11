@@ -3,12 +3,6 @@ title = "१८२ भृगुभरद्वाजसंवादे"
 title_full = "182 भरद्वाज और भृगुके संवादमें जगत्\u200cकी उत्पत्तिका और विभिन्न तत्त्वोंका वर्णन"
 +++
 
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -20,6 +14,11 @@ title_full = "182 भरद्वाज और भृगुके संवा�
 
 भरद्वाज और भृगुके संवादमें जगत्‌की उत्पत्तिका और विभिन्न तत्त्वोंका वर्णन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -115,11 +114,6 @@ How did the elements come into being and how did the distinction into various ca
 सर्वं शंसतु नो भवान् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीष्म उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -142,6 +136,11 @@ What is the nature of life of the living beings and what happens upon their deat
 
 Bhīṣma said: 
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीष्म उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -297,11 +296,6 @@ A direct repeat of the opening verses. This device of repetition, with these ver
 सर्वं तस्मै ततोऽब्रवीत् ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -319,6 +313,11 @@ A direct repeat of the opening verses. This device of repetition, with these ver
 
 Thus, the great one was questioned by Bharadvāja regarding his doubts; the great Ŗṣi endowed with brahman power, replied him thus:  
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -635,11 +634,6 @@ It is thus the one which is worshiped, all pervasive, and known to be endless. I
 पृष्टोऽहं यद् इह त्वया ॥ २१ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -664,17 +658,17 @@ Bharadvāja asked:
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गगनस्य दिशां चैव  
 भूतलस्यानिलस्य वा।  
 कान्य् अत्र परिमाणानि  
 संशयं छिन्धि तत्त्वतः ॥ २२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -699,6 +693,11 @@ What is the extent of the firmament’s directions, and the extant of the earth 
 
 Bhṛgu said:
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1014,11 +1013,6 @@ When again its great form is sometimes contracted and sometimes expanded, how ca
 प्रजापतिरनुत्तमः ॥ ३५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भरद्वाज उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1043,17 +1037,17 @@ From that lotus-like form[8] emerged the all-knowing primal being- Brahmā the e
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भरद्वाज उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्कराद् यदि सम्भूतो  
 ज्येष्ठं भवति पुष्करम्।  
 ब्रह्माणं पूर्वजं चाह  
 भवान्, संदेह एव मे ॥ ३६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भृगुरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1073,6 +1067,11 @@ _भरद्वाजने पूछा—_ प्रभो! यदि ब्�
 
 Bharadvāja asked: “If the lotus-like form emerged first, then that become primary, yet why is Brahmā called the progenitor? This is my doubt” 
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भृगुरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1110,11 +1109,6 @@ A form of Mānasa became Brahmā. The lotus like form is the solid element which
 सृजते जगतः प्रभुः ॥ ३८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु और भरद्वाजका संवादविषयक एक सौ बयासीवाँ अध्याय पूरा हुआ॥१८२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1136,6 +1130,11 @@ The pericarp of the lotus became Meru, which formed the axis of the world. Resid
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते शान्तिपर्वणि मोक्षधर्मपर्वणि भृगुभरद्वाजसंवादे द्व्यशीत्यधिकशततमोऽध्यायः ॥ १८२ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत शान्तिपर्वके अन्तर्गत मोक्षधर्मपर्वमें भृगु और भरद्वाजका संवादविषयक एक सौ बयासीवाँ अध्याय पूरा हुआ॥१८२॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

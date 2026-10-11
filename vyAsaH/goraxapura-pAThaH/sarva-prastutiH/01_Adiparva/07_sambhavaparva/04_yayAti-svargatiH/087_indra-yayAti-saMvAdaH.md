@@ -4,12 +4,7 @@ title_full = "087 इन्द्रके पूछनेपर ययाति
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="अमोघः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-087.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="अमोघः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-087.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "087 इन्द्रके पूछनेपर ययाति
 
 इन्द्रके पूछनेपर ययातिका अपने पुत्र पूरुको दिये हुए उपदेशकी चर्चा करना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -71,11 +71,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 कथान्ते तत्र शक्रेण स पृष्टः पृथिवीपतिः ॥ ३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शक्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -90,17 +85,17 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शक्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा स पूरुस्तव रूपेण राजन्  
 जरां गृहीत्वा प्रचचार भूमौ।  
 तदा च राज्यं सम्प्रदायैव तस्मै  
 त्वया किमुक्तः कथयेह सत्यम् ॥ ४ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-ययातिरुवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -117,6 +112,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _इन्द्रने पूछा—_ राजन्! जब पूरु तुमसे वृद्धावस्था लेकर तुम्हारे स्वरूपसे इस पृथ्वीपर विचरण करने लगा, तुम सत्य कहो, उस समय राज्य देकर तुमने उसको क्या आदेश दिया था?॥४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+ययातिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,11 +339,6 @@ _ययातिने कहा—_ (देवराज! मैंने अप
 पूज्यान् सम्पूजयेद् दद्यान्न च याचेत् कदाचन ॥ १३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक सत्तासीवाँ अध्याय पूरा हुआ॥८७॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -362,8 +357,14 @@ _ययातिने कहा—_ (देवराज! मैंने अप
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वणि उत्तरयायाते सप्ताशीतितमोऽध्यायः ॥ ८७ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें उत्तरयायातविषयक सत्तासीवाँ अध्याय पूरा हुआ॥८७॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ४ श्लोक मिलाकर कुल १७ श्लोक हैं)
 </details>
 </details>
+

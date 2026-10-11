@@ -4,16 +4,11 @@ title_full = "194 द्रुपद और युधिष्ठिरकी �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="भट्टमधुसूदनः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-194p01.mp3"></div>
+<div caption="भट्टमधुसूदनः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-194p01.mp3"></div>
 
-<div class="audioEmbed"  caption="भट्टमधुसूदनः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-194p02.mp3"></div>
+<div caption="भट्टमधुसूदनः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-194p02.mp3"></div>
 
-<div class="audioEmbed"  caption="भट्टमधुसूदनः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-194p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="भट्टमधुसूदनः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-194p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "194 द्रुपद और युधिष्ठिरकी �
 
 द्रुपद और युधिष्ठिरकी बातचीत तथा व्यासजीका आगमन
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,11 +123,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ध्रुवं विवाहकरणमास्थास्यामि विधानतः ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -140,6 +135,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 देवताओंके समान तेजस्वी शत्रुसूदन! मैं आपकी बात सुनकर निश्चय ही विधिपूर्वक विवाहकी तैयारी करूँगा॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,11 +228,6 @@ _युधिष्ठिर बोले—_ पांचालराज! आ�
 भवान् हि गुरुरस्माकं परमं च परायणम् ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -245,6 +240,11 @@ _युधिष्ठिर बोले—_ पांचालराज! आ�
 
 महाराज! यह सब मैं आपसे सच्ची बात कह रहा हूँ। आप हमारे बड़े तथा परम आश्रय हैं॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,11 +361,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पुण्येऽहनि महाबाहुरर्जुनः कुरुतां क्षणम् ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -380,15 +375,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमब्रवीत् ततो राजा धर्मात्मा च युधिष्ठिरः।  
 ममापि दारसम्बन्धः कार्यस्तावद् विशाम्पते ॥ २१ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -405,15 +400,15 @@ _वैशम्पायनजी कहते हैं—_ तब धर्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवान् वा विधिवत् पाणिं गृह्णातु दुहितुर्मम।  
 यस्य वा मन्यसे वीर तस्य कृष्णामुपादिश ॥ २२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -428,6 +423,11 @@ _वैशम्पायनजी कहते हैं—_ तब धर्�
 
 _द्रुपद बोले—_ वीर! तब आप ही विधिपूर्वक मेरी पुत्रीका पाणिग्रहण करें अथवा आप अपने भाइयोंमेंसे जिसके साथ चाहें, उसीके साथ कृष्णाको विवाहकी आज्ञा दे दें॥२२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -496,11 +496,6 @@ _युधिष्ठिरने कहा—_ राजन्! द्रौ�
 आनुपूर्व्येण सर्वेषां गृह्णातु ज्वलने करान् ॥ २६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -513,6 +508,11 @@ _युधिष्ठिरने कहा—_ राजन्! द्रौ�
 
 अतः कृष्णा धर्मके अनुसार हम सभीकी महारानी होगी। इसलिये वह प्रज्वलित अग्निके सामने क्रमशः हम सबका पाणिग्रहण करे॥२६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -541,11 +541,6 @@ _द्रुपद बोले—_ ‘कुरुनन्दन! एक र�
 कर्तुमर्हसि कौन्तेय कस्मात् ते बुद्धिरीदृशी ॥ २८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -558,6 +553,11 @@ _द्रुपद बोले—_ ‘कुरुनन्दन! एक र�
 
 ‘तुम धर्मके ज्ञाता और पवित्र हो, अतः तुम्हें लोक और वेदके विरुद्ध यह अधर्म नहीं करना चाहिये। तुम कुन्तीके पुत्र हो; तुम्हारी बुद्धि ऐसी क्यों हो रही है?॥२८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -606,11 +606,6 @@ _युधिष्ठिरने कहा—_ महाराज! धर्�
 मा च शंका तत्र ते स्यात् कथंचिदपि पार्थिव॥३१॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -625,15 +620,15 @@ _युधिष्ठिरने कहा—_ महाराज! धर्�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं च कुन्ती च कौन्तेय धृष्टद्युम्नश्च मे सुतः।  
 कथयन्त्विति कर्तव्यं श्वः काले करवामहे ॥ ३२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -650,15 +645,15 @@ _द्रुपद बोले—_ कुन्तीनन्दन! तु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते समेत्य ततः सर्वे कथयन्ति स्म भारत।  
 अथ द्वैपायनो राजन्नभ्यागच्छद् यदृच्छया ॥ ३३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें वेदव्यासके आगमनसे सम्बन्ध रखनेवाला एक सौ चौरानबेवाँ अध्याय पूरा हुआ॥१९४॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -677,6 +672,11 @@ _वैशम्पायनजी कहते हैं—_ भारत! त�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि वैवाहिकपर्वणि द्वैपायनागमने चतुर्नवत्यधिकशततमोऽध्यायः ॥ १९४ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत वैवाहिकपर्वमें वेदव्यासके आगमनसे सम्बन्ध रखनेवाला एक सौ चौरानबेवाँ अध्याय पूरा हुआ॥१९४॥
 </details>
 </details>
 

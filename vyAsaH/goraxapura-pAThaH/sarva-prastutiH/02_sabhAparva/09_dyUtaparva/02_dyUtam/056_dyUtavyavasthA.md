@@ -4,16 +4,11 @@ title_full = "056 धृतराष्ट्र और दुर्योधन
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-056p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-056p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-056p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-056p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-056p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-शकुनिरुवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-056p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "056 धृतराष्ट्र और दुर्योधन
 
 धृतराष्ट्र और दुर्योधनकी बातचीत, द्यूतक्रीड़ाके लिये सभानिर्माण और धृतराष्ट्रका युधिष्ठिरको बुलानेके लिये विदुरको आज्ञा देना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+शकुनिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -78,11 +78,6 @@ _शकुनि बोला—_ विजयी वीरोंमें श�
 अक्षाणां हृदयं मे ज्यां रथं विद्धि ममास्तरम् ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -96,15 +91,15 @@ _शकुनि बोला—_ विजयी वीरोंमें श�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयमुत्सहते राजञ्छ्रियमाहर्तुमक्षवित् ।  
 द्यूतेन पाण्डुपुत्रेभ्यस्तदनुज्ञातुमर्हसि ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -121,15 +116,15 @@ _दुर्योधन बोला—_ राजन्! ये मामा�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थितोऽस्मि शासने भ्रातुर्विदुरस्य महात्मनः।  
 तेन संगम्य वेत्स्यामि कार्यस्यास्य विनिश्चयम् ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -144,6 +139,11 @@ _दुर्योधन बोला—_ राजन्! ये मामा�
 
 _धृतराष्ट्र बोले—_ बेटा! मैं अपने भाई महात्मा विदुरकी सम्मतिके अनुसार चलता हूँ। उनसे मिलकर यह जान सकूँगा कि इस कार्यके विषयमें क्या निश्चय करना चाहिये?॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -212,11 +212,6 @@ _दुर्योधन बोला—_ पिताजी! विदुर �
 यावदेव भवेत् कल्पस्तावच्छ्रेयः समाचरेत् ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -229,6 +224,11 @@ _दुर्योधन बोला—_ पिताजी! विदुर �
 
 रोग अथवा यमराज इस बातकी प्रतीक्षा नहीं करते कि इसने श्रेय प्राप्त कर लिया या नहीं। अतः जबतक अपनेमें सामर्थ्य हो, तभीतक अपने हितका साधन कर लेना चाहिये॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -259,11 +259,6 @@ _धृतराष्ट्रने कहा—_ बेटा! मुझे �
 सृजेदसीन् निशितान् सायकांश्च ॥ १२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -278,6 +273,11 @@ _धृतराष्ट्रने कहा—_ बेटा! मुझे �
 
 राजकुमार! तुम द्यूतरूपी अनर्थको ही अर्थ मान रहे हो। यह जूआ कलहको ही गूँथनेवाला एवं अत्यन्त भयंकर है। यदि किसी प्रकार यह शुरू हो गया तो तीखी तलवारों और बाणोंकी भी सृष्टि कर देगा॥१२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -312,11 +312,6 @@ _दुर्योधन बोला—_ पिताजी! पुरान�
 दुरोदरं पाण्डवैस्त्वं कुरुष्व ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -331,6 +326,11 @@ _दुर्योधन बोला—_ पिताजी! पुरान�
 
 यह जूआ हम खेलनेवालोंके लिये एक विशिष्ट स्वर्गीय सुखका द्वार है। उसके आस-पास बैठनेवाले लोगोंके लिये भी वह वैसा ही सुखद होता है। इस प्रकार इसमें पाण्डवोंको भी हमारे समान ही सुख प्राप्त होगा। अतः आप पाण्डवोंके साथ द्यूतक्रीड़ाकी व्यवस्था कीजिये॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,11 +365,6 @@ _धृतराष्ट्रने कहा—_ बेटा! तुमन�
 महद् भयं क्षत्रियजीवघाति ॥ १६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -384,6 +379,11 @@ _धृतराष्ट्रने कहा—_ बेटा! तुमन�
 
 बुद्धि और विद्याका अनुसरण करनेवाले विद्वान् विदुरने यह सब परिणाम पहलेसे ही देख लिया था। क्षत्रियोंके लिये विनाशकारी वही यह महान् भय मुझ विवशके सामने आ रहा है॥१६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -498,11 +498,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 सुहृद्‌द्यूतं वर्ततामत्र चेति ॥ २२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें युधिष्ठिरके बुलानेसे सम्बन्ध रखनेवाला छप्पनवाँ अध्याय पूरा हुआ॥५६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -522,4 +517,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि युधिष्ठिरानयने षट्‌पञ्चाशत्तमोऽध्यायः ॥ ५६ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें युधिष्ठिरके बुलानेसे सम्बन्ध रखनेवाला छप्पनवाँ अध्याय पूरा हुआ॥५६॥
 </details>
+</details>
+

@@ -4,30 +4,25 @@ title_full = "206 पाण्डवोंका हस्तिनापुर�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p05.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p05.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p06.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p06.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p07.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p07.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p08.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p08.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p09.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p09.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p10.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-206p10.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -41,6 +36,11 @@ title_full = "206 पाण्डवोंका हस्तिनापुर�
 
 पाण्डवोंका हस्तिनापुरमें आना और आधा राज्य पाकर इन्द्रप्रस्थ नगरका निर्माण करना एवं भगवान् श्रीकृष्ण और बलरामजीका द्वारकाके लिये प्रस्थान
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,11 +73,6 @@ _द्रुपद बोले—_ महाप्राज्ञ विदु
 एतौ हि पुरुषव्याघ्रावेषां प्रियहिते रतौ ॥ ४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -96,15 +91,15 @@ _द्रुपद बोले—_ महाप्राज्ञ विदु
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परवन्तो वयं राजंस्त्वयि सर्वे सहानुगाः।  
 यथा वक्ष्यसि नः प्रीत्या तत् करिष्यामहे वयम् ॥ ५ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -121,15 +116,15 @@ _युधिष्ठिरने कहा—_ राजन्! हम सब 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीद् वासुदेवो गमनं रोचते मम।  
 यथा वा मन्यते राजा द्रुपदः सर्वधर्मवित् ॥ ६ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रुपद उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -144,6 +139,11 @@ _युधिष्ठिरने कहा—_ राजन्! हम सब 
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! तब वसुदेवनन्दन भगवान् श्रीकृष्णने कहा—‘मुझे तो इनका जाना ही ठीक जान पड़ता है अथवा सब धर्मोंके ज्ञाता महाराज द्रुपद जैसा उचित समझें, वैसा किया जाय’॥६॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रुपद उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -176,11 +176,6 @@ _द्रुपद बोले—_ दशार्हकुलके रत्
 यथैषां पुरुषव्याघ्रः श्रेयो ध्यायति केशवः ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -195,16 +190,16 @@ _द्रुपद बोले—_ दशार्हकुलके रत्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथायास्तु तथा वेश्म प्रविवेश महाद्युतिः।  
 पादौ स्पृष्ट्‌वा पृथायास्तु शिरसा च महीं गतः।  
 दृष्ट्‌वा तु देवरं कुन्ती शुशोच च मुहुर्मुहुः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -222,6 +217,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैचित्रवीर्य ते पुत्राः कथंचिज्जीवितास्त्वया।  
@@ -233,11 +233,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 तथैव तव पुत्रास्तु मया तात सुरक्षिताः॥  
 दुःखास्तु बहवः प्राप्ता तथा प्राणान्तिका मया।  
 अतः परं न जानामि कर्तव्यं ज्ञातुमर्हसि॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -261,15 +256,15 @@ _कुन्ती बोली—_ विदुरजी! आपके पु�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्ता दुःखार्ता शुशोच परमातुरा।  
 प्रणिपत्याब्रवीत् क्षत्ता मा शोच इति भारत॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-विदुर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -286,16 +281,16 @@ _वैशम्पायनजी कहते हैं—_ यों कह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+विदुर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न विनश्यन्ति लोकेषु तव पुत्रा महाबलाः।  
 नचिरेणैव कालेन स्वराज्यस्था भवन्ति ते।  
 बान्धवैः सहिताः सर्वैर्मा शोकं कुरु माधवि॥)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -311,6 +306,11 @@ _वैशम्पायनजी कहते हैं—_ यों कह�
 
 _विदुर बोले—_ यदुकुलनन्दिनी! तुम्हारे महाबली पुत्र संसारमें (दूसरोंके सतानेसे) नष्ट नहीं हो सकते। अब वे थोड़े ही दिनोंमें समस्त बन्धुओंके साथ अपने राज्यपर अधिकार करनेवाले हैं। अतः तुम शोक मत करो।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -604,11 +604,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 सा चिन्त्य विदुरं प्राह युक्तितः सुबलात्मजा॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-गान्धार्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -630,17 +625,17 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+गान्धार्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुन्तीं राजसुतां क्षत्तः सवधूं सपरिच्छदाम्।  
 पाण्डोर्निवेशनं शीघ्रं नीयतां यदि रोचते॥  
 करणेन मुहूर्तेन नक्षत्रेण शुभे तिथौ।  
 यथासुखं तथा कुन्ती रंस्यते स्वगृहे सुतैः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -657,6 +652,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 _फिर गान्धारीने कहा—_ विदुर! यदि तुम्हें जँचे तो राजकुमारी कुन्तीको पुत्रवधूसहित शीघ्र ही पाण्डुके महलमें ले जाओ और वहीं इनका सारा सामान भी पहुँचा दो। उत्तम करण, मुहूर्त और नक्षत्रसहित शुभ तिथिको उस महलमें इन्हें प्रवेश करना चाहिये, जिससे कुन्तीदेवी अपने घरमें पुत्रोंके साथ सुखपूर्वक रह सकें।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -695,11 +695,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 आहूता धृतराष्ट्रेण राज्ञा शांतनवेन च ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -712,6 +707,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 कुछ कालतक विश्राम कर लेनेपर उन महाबली महात्मा पाण्डवोंको राजा धृतराष्ट्र तथा भीष्मजीने बुलाया॥२३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -755,11 +755,6 @@ _धृतराष्ट्र बोले—_ कुन्तीनन्द�
 अर्धं राज्यस्य सम्प्राप्य खाण्डवप्रस्थमाविश।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-(धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -773,6 +768,11 @@ _धृतराष्ट्र बोले—_ कुन्तीनन्द�
 
 वहाँ रहते समय कोई तुम्हें बाधा नहीं दे सकता; क्योंकि जैसे वज्रधारी इन्द्र देवताओंकी रक्षा करते हैं, उसी प्रकार कुन्तीनन्दन अर्जुन वहाँ तुमलोगोंकी भलीभाँति रक्षा करेंगे। तुम आधा राज्य लेकर खाण्डवप्रस्थमें चलकर रहो॥२५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+(धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -796,11 +796,6 @@ _धृतराष्ट्र बोले—_ कुन्तीनन्द�
 प्रीताः प्रीतेन मनसा प्रशंसन्तु पुरे जनाः॥  
 पाण्डोः कृतोपकारस्य राज्यं दत्त्वा ममैव च।  
 प्रतिक्रियाकृतमिदं भविष्यति न संशयः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -834,14 +829,14 @@ _(फिर) धृतराष्ट्रने (विदुरसे) कह
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भीष्मो द्रोणः कृपः क्षत्ता साधु साध्वित्यभाषत।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीवासुदेव उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -857,15 +852,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीवासुदेव उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युक्तमेतन्महाराज कौरवाणां यशस्करम् ।  
 शीघ्रमद्यैव राजेन्द्र यथोक्तं कर्तुमर्हसि॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -880,6 +875,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _(तब) भगवान् श्रीकृष्ण बोले—_ महाराज! आपका यह विचार सर्वथा उत्तम तथा कौरवोंका यश बढ़ानेवाला है। राजेन्द्र! आपने जैसा कहा है, उसे आज ही जितना शीघ्र सम्भाव हो सके, पूर्ण कर डालिये।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -908,11 +908,6 @@ _(तब) भगवान् श्रीकृष्ण बोले—_ मह
 गान्धारिपुत्राः शोचन्तः सर्वे ते सह बान्धवैः॥  
 ज्ञात्वा शोकं तु पुत्राणां धृतराष्ट्रोऽब्रवीन्नृपम्।  
 समक्षं वासुदेवस्य कुरूणां च समक्षतः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -951,6 +946,11 @@ _वैशम्पायनजी कहते हैं—_ इतना क�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषेकं त्वया प्राप्तं दुष्प्रापमकृतात्मभिः।  
@@ -964,11 +964,6 @@ _वैशम्पायनजी कहते हैं—_ इतना क�
 त्वद्‌भक्त्या जन्तवश्चान्ये भजन्त्वेव पुरं शुभम्।  
 पुरं राष्ट्रं समृद्धं वै धनधान्यैः समावृतम्॥  
 तस्माद् गच्छस्व कौन्तेय भ्रातृभिः सहितोऽनघ।)
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -992,6 +987,11 @@ _वैशम्पायनजी कहते हैं—_ इतना क�
 
 _धृतराष्ट्र बोले—_ कुरुनन्दन! तुमने वह राज्याभिषेक प्राप्त किया है, जो अजितात्मा पुरुषोंके लिये दुर्लभ है। राजन्! तुम राज्य पाकर कृतार्थ हो गये। अतः आज ही खाण्डवप्रस्थ चले जाओ। नृपश्रेष्ठ! पुरूरवा, आयु, नहुष तथा ययाति खाण्डवप्रस्थमें ही निवास करते थे। महाबाहो! वहीं समस्त पौरव नरेशोंकी राजधानी थी। आगे चलकर मुनियोंने बुधपुत्रके लोभसे खाण्डवप्रस्थको नष्ट कर दिया था। इसलिये तुम खाण्डवप्रस्थ नगरको पुनः बसाओ और अपने राष्ट्रकी वृद्धि करो। ब्राह्मण, क्षत्रिय, वैश्य तथा शूद्र सबने तुम्हारे साथ वहाँ जानेका निश्चय किया है। तुममें भक्ति रखनेके कारण दूसरे लोग भी उस सुन्दर नगरका आश्रय लेंगे। निष्पाप कुन्तीकुमार! वह नगर तथा राष्ट्र समृद्धिशाली और धन-धान्यसे सम्पन्न है। अतः तुम भाइयोंसहित वहीं जाओ।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1042,11 +1042,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 महेन्द्रश्चिन्तितो राजन् विश्वकर्माणमादिशत् ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-महेन्द्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1061,15 +1056,15 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+महेन्द्र उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वकर्मन् महाप्राज्ञ अद्यप्रभृति तत् पुरम्।  
 इन्द्रप्रस्थमिति ख्यातं दिव्यं रम्यं भविष्यति॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1086,16 +1081,16 @@ _इन्द्र बोले—_ विश्वकर्मन्! मह�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महेन्द्रशासनाद् गत्वा विश्वकर्मा तु केशवम्।  
 प्रणम्य प्रणिपातर्हं किं करोमीत्यभाषत॥  
 वासुदेवस्तु तच्छ्रुत्वा विश्वकर्माणमूचिवान् ।
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1111,6 +1106,11 @@ _इन्द्र बोले—_ विश्वकर्मन्! मह�
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! महेन्द्रकी आज्ञासे विश्वकर्माने खाण्डवप्रस्थमें जाकर वन्दनीय भगवान् श्रीकृष्णको प्रणाम करके कहा—मेरे लिये क्या आज्ञा है? उनकी बात सुनकर भगवान् श्रीकृष्णने उनसे कहा।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1580,11 +1580,6 @@ _श्रीकृष्ण बोले—_ विश्वकर्मन्!
 वार्ष्णेयमब्रवीद् राजा गन्तुकामं कृतक्षणम्॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1600,6 +1595,11 @@ _श्रीकृष्ण बोले—_ विश्वकर्मन्!
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव प्रसादाद् वार्ष्णेय राज्यं प्राप्तं मयानघ।  
@@ -1609,11 +1609,6 @@ _श्रीकृष्ण बोले—_ विश्वकर्मन्!
 मातास्माकं पिता देवो न पाण्डुं विद्म वै वयम्।  
 ज्ञात्वा तु कृत्यं कर्तव्यं कारयस्व भवान् हि नः।  
 यदिष्टमनुमन्तव्यं पाण्डवानां त्वयानघ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-श्रीवासुदेव उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1635,6 +1630,11 @@ _युधिष्ठिर बोले—_ निष्पाप वृष्
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+श्रीवासुदेव उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वत्प्रभावान्महाभाग राज्यं प्राप्तं स्वधर्मतः।  
@@ -1644,11 +1644,6 @@ _युधिष्ठिर बोले—_ निष्पाप वृष्
 धर्मोपदेशं संक्षेपाद् ब्राह्मणान् भज कौरव।  
 अद्यैव नारदः श्रीमानागमिष्यति सत्वरः।  
 आदृत्य तस्य वाक्यानि शासनं कुरु तस्य वै॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1670,15 +1665,15 @@ _भगवान् श्रीकृष्णने कहा—_ महाभ
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा ततः कुन्तीमभिवाद्य जनार्दनः।  
 उवाच श्लक्ष्णया वाचा गमिष्यामि नमोऽस्तु ते॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-कुन्त्युवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1695,6 +1690,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+कुन्त्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जातुषं गृहमासाद्य मया प्राप्तं च केशव।  
@@ -1703,11 +1703,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 त्वं हि नाथस्त्वनाथानां दरिद्राणां विशेषतः॥  
 सर्वदुःखानि शाम्यन्ति तव संदर्शनान्मम।  
 स्मरस्वैनान् महाप्राज्ञ तेन जीवन्ति पाण्डवाः॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1726,6 +1721,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _कुन्ती बोली—_ केशव! लाक्षागृहमें जाकर मैंने जो कष्ट भोगा है, उसे मेरे पूज्य पिता कुन्तिभोज भी नहीं जान सके हैं। गोविन्द! तुम्हारी सहायतासे ही मैं इस महान् दुःख-समुद्रसे पार हुई हूँ। प्रभो! तुम अनाथोंके, विशेषतः दीन-दुःखियोंके नाथ (रक्षक) हो। तुम्हारे दर्शनसे हमारे सारे दुःख दूर हो जाते हैं। महामते! इन पाण्डवोंको सदा याद रखना। ये तुम्हारे शुभ चिन्तनसे ही जीवन धारण करते हैं।
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1754,11 +1754,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ययौ द्वारवतीं राजन् पाण्डवानुमते तदा ॥ ५२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें नगरनिर्माणविषयक दो सौ छठा अध्याय पूरा हुआ॥२०६॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1777,8 +1772,14 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 इति श्रीमहाभारते आदिपर्वणि विदुरागमनराज्यलम्भपर्वणि पुरनिर्माणे षडधिकद्विशततमोऽध्यायः ॥ २०६ ॥
 </details>
 
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत विदुरागमनराज्यलम्भपर्वमें नगरनिर्माणविषयक दो सौ छठा अध्याय पूरा हुआ॥२०६॥
+</details>
+
 <details><summary>सूचना (हिन्दी)</summary>
 
 (दाक्षिणात्य अधिक पाठके ९९ श्लोक मिलाकर कुल १५१ श्लोक हैं)
 </details>
 </details>
+

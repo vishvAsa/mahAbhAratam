@@ -4,14 +4,9 @@ title_full = "151 हिडिम्बके भेजनेसे हिडि
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-151p01.mp3"></div>
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-151p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शीला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-151p02.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शीला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-151p02.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -26,6 +21,11 @@ title_full = "151 हिडिम्बके भेजनेसे हिडि
 
 हिडिम्बके भेजनेसे हिडिम्बा राक्षसीका पाण्डवोंके पास आना और भीमसेनसे उसका वार्तालाप
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -554,11 +554,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 अतुलामाप्नुहि प्रीतिं तत्र तत्र मया सह ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -573,6 +568,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 ‘वीर! आपका भला चाहती हूँ। कहीं ऐसा न हो कि आपके ठुकरानेसे मेरे प्राण ही मुझे छोड़कर चले जायँ। शत्रुदमन! यदि आपने मुझे त्याग दिया तो मैं कदापि जीवित नहीं रह सकती। मैं आकाशमें विचरनेवाली हूँ। जहाँ इच्छा हो, वहीं विचरण कर सकती हूँ। आप मेरे साथ भिन्न-भिन्न लोकों और प्रदेशोंमें विहार करके अनुपम प्रसन्नता प्राप्त कीजिये’॥३०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -605,11 +605,6 @@ _भीमसेन बोले—_ राक्षसी! ये मेरे 
 मातरं च नरो गच्छेत् कामार्त इव मद्विधः ॥ ३२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-राक्षस्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -624,15 +619,15 @@ _भीमसेन बोले—_ राक्षसी! ये मेरे 
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+राक्षस्युवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् ते प्रियं तत् करिष्ये सर्वानेतान् प्रबोधय।  
 मोक्षयिष्याम्यहं कामं राक्षसात् पुरुषादकात् ॥ ३३ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-भीमसेन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -647,6 +642,11 @@ _भीमसेन बोले—_ राक्षसी! ये मेरे 
 
 _राक्षसीने कहा—_ आपको जो प्रिय लगे, मैं वही करूँगी। आप इन सब लोगोंको जगा दीजिये। मैं इच्छानुसार उस मनुष्यभक्षी राक्षससे इन सबको छुड़ा लूँगी॥३३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+भीमसेन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -695,11 +695,6 @@ _भीमसेनने कहा—_ राक्षसी! मेरे भ�
 तं वा प्रेषय तन्वङ्गि भ्रातरं पुरुषादकम् ॥ ३६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अर्न्तगत हिडिम्बवधपर्वमें भीम-हिडिम्बा-संवादविषयक एक सौ इक्यावनवाँ अध्याय पूरा हुआ॥१५१॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -716,6 +711,11 @@ _भीमसेनने कहा—_ राक्षसी! मेरे भ�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि हिडिम्बवधपर्वणि भीमहिडिम्बासंवादे एकपञ्चाशदधिकशततमोऽध्यायः ॥ १५१ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अर्न्तगत हिडिम्बवधपर्वमें भीम-हिडिम्बा-संवादविषयक एक सौ इक्यावनवाँ अध्याय पूरा हुआ॥१५१॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

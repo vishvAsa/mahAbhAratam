@@ -4,12 +4,7 @@ title_full = "020 युधिष्ठिरके अनुमोदन कर
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="बाला" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-020.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वासुदेव उवाच
+<div caption="बाला" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-020.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -24,6 +19,11 @@ title_full = "020 युधिष्ठिरके अनुमोदन कर
 
 युधिष्ठिरके अनुमोदन करनेपर श्रीकृष्ण, अर्जुन और भीमसेनकी मगध-यात्रा
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वासुदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -136,11 +136,6 @@ _श्रीकृष्ण कहते हैं—_ धर्मराज! �
 भीमसेनार्जुनौ शीघ्रं न्यासभूतौ प्रयच्छ मे ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -155,15 +150,15 @@ _श्रीकृष्ण कहते हैं—_ धर्मराज! �
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो भगवता प्रत्युवाच युधिष्ठिरः।  
 भीमार्जुनौ समालोक्य सम्प्रहृष्टमुखौ स्थितौ ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -178,6 +173,11 @@ _श्रीकृष्ण कहते हैं—_ धर्मराज! �
 
 _वैशम्पायनजी कहते हैं—_ जनमेजय! भगवान्‌के ऐसा कहनेपर वहाँ खड़े हुए भीमसेन और अर्जुनका मुख प्रसन्नतासे खिल उठा। उस समय उन दोनोंकी ओर देखकर युधिष्ठिरने इस प्रकार उत्तर दिया॥८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,11 +375,6 @@ _युधिष्ठिर बोले—_ अपनी मर्यादा
 नयो जयो बलं चैव विक्रमे सिद्धिमेष्यति ॥ २० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -393,6 +388,11 @@ _युधिष्ठिर बोले—_ अपनी मर्यादा
 
 यदुश्रेष्ठ! इसी प्रकार समस्त कार्योंकी सिद्धिके लिये आपका आश्रय लेना परम आवश्यक है। अर्जुन आप श्रीकृष्णका अनुसरण करें और भीमसेन अर्जुनका। नीति, विजय और बल तीनों मिलकर पराक्रम करें तो उन्हें अवश्य सिद्धि प्राप्त होगी॥२०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,11 +533,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 गोरथं गिरिमासाद्य ददृशुर्मागधं पुरम् ॥ ३० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत जरासंधवधपर्वमें कृष्ण, अर्जुन एवं भीमसेनकी मगधयात्राविषयक बीसवाँ अध्याय पूरा हुआ॥२०॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -555,4 +550,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि जरासंधवधपर्वणि कृष्णपाण्डवमागधयात्रायां विंशोऽध्यायः ॥ २० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत जरासंधवधपर्वमें कृष्ण, अर्जुन एवं भीमसेनकी मगधयात्राविषयक बीसवाँ अध्याय पूरा हुआ॥२०॥
 </details>
+</details>
+

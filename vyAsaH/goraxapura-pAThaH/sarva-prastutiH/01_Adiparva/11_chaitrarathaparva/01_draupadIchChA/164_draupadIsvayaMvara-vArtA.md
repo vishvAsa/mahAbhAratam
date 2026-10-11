@@ -4,12 +4,7 @@ title_full = "164 पाण्डवोंका एक ब्राह्मण
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-164.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-जनमेजय उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-164.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -26,15 +21,15 @@ title_full = "164 पाण्डवोंका एक ब्राह्मण
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+जनमेजय उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तथा पुरुषव्याघ्रा निहत्य बकराक्षसम्।  
 अत ऊर्ध्वं ततो ब्रह्मन् किमकुर्वत पाण्डवाः ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -49,6 +44,11 @@ title_full = "164 पाण्डवोंका एक ब्राह्मण
 
 _जनमेजयने पूछा—_ ब्रह्मन्! पुरुषसिंह पाण्डवोंने उस प्रकार बकासुरका वध करनेके पश्चात् कौन-सा कार्य किया?॥१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -197,11 +197,6 @@ _वैशम्पायनजीने कहा—_ राजन्! बक�
 विस्तरेणैव पप्रच्छुः कथान्ते पुरुषर्षभाः ॥ ९ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-पाण्डवा ऊचुः
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -214,6 +209,11 @@ _वैशम्पायनजीने कहा—_ राजन्! बक�
 
 उस महात्मा ब्राह्मणका इस लोकमें अत्यन्त अद्भुत प्रतीत होनेवाला यह वचन सुनकर कथाके अन्तमें पुरुषशिरोमणि पाण्डवोंने विस्तारपूर्वक जाननेके लिये पूछा॥९॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+पाण्डवा ऊचुः
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,11 +242,6 @@ _पाण्डव बोले—_ द्रुपदपुत्र धृष
 कथं विप्र सखायौ तौ भिन्नौ कस्य कृतेन वा॥११॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -261,15 +256,15 @@ _पाण्डव बोले—_ द्रुपदपुत्र धृष
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तैश्चोदितो राजन् स विप्रः पुरुषर्षभैः।  
 कथयामास तत् सर्वं द्रौपदीसम्भवं तदा ॥ १२ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें ब्राह्मणकथाविषयक एक सौ चौंसठवाँ अध्याय पूरा हुआ॥१६४॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -289,4 +284,10 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 इति श्रीमहाभारते आदिपर्वणि चैत्ररथपर्वणि द्रौपदीसम्भवे चतुःषष्ट्यधिकशततमोऽध्यायः ॥ १६४ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत चैत्ररथपर्वमें ब्राह्मणकथाविषयक एक सौ चौंसठवाँ अध्याय पूरा हुआ॥१६४॥
 </details>
+</details>
+

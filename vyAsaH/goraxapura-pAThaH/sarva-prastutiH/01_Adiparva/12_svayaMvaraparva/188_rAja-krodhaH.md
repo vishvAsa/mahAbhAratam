@@ -4,16 +4,11 @@ title_full = "188 द्रुपदको मारनेके लिये �
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-188-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-188-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-188-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-188-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-188-p03.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-188-p03.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,6 +22,11 @@ title_full = "188 द्रुपदको मारनेके लिये �
 
 द्रुपदको मारनेके लिये उद्यत हुए राजाओंका सामना करनेके लिये भीम और अर्जुनका उद्यत होना और उनके विषयमें भगवान् श्रीकृष्णका बलरामजीसे वार्तालाप
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -553,11 +553,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 पृथां विमुक्तां सह कौरवाग्र्यैः ॥ २४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें श्रीकृष्णवाक्यविषयक एक सौ अट्ठासीवाँ अध्याय पूरा हुआ॥१८८॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -576,6 +571,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि स्वयंवरपर्वणि कृष्णवाक्ये अष्टाशीत्यधिकशततमोऽध्यायः ॥ १८८ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत स्वयंवरपर्वमें श्रीकृष्णवाक्यविषयक एक सौ अट्ठासीवाँ अध्याय पूरा हुआ॥१८८॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

@@ -4,22 +4,17 @@ title_full = "042 अर्जुनका हिमालयसे विदा
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p01.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p01.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p02.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p02.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p03.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p03.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p04.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p04.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p05.mp3"></div>
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p05.mp3"></div>
 
-<div class="audioEmbed"  caption="किडाम्बि-हरिप्रिया" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p06.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="किडाम्बि-हरिप्रिया" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/003-042p06.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -34,6 +29,11 @@ title_full = "042 अर्जुनका हिमालयसे विदा
 
 अर्जुनका हिमालयसे विदा होकर मातलिके साथ स्वर्गलोकको प्रस्थान
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,11 +206,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 संनतः प्रस्थितो भूत्वा वाक्यमर्जुनमब्रवीत् ॥ १० ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-मातलिरुवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -223,6 +218,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इस प्रकार विचार करते हुए अर्जुनके सम्मुख उपस्थित हो मातलिने विनीतभावसे कहा॥१०॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+मातलिरुवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -275,11 +275,6 @@ _मातलि बोला—_ इन्द्रकुमार! श्र�
 आरोह त्वं मया सार्धं लब्धास्त्रः पुनरेष्यसि ॥ १४ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-अर्जुन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -292,6 +287,11 @@ _मातलि बोला—_ इन्द्रकुमार! श्र�
 
 आप देवराजकी आज्ञासे इस लोकसे मेरे साथ देवलोकको चलिये। वहाँसे दिव्यास्त्र प्राप्त करके लौट आइयेगा॥१४॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+अर्जुन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -360,11 +360,6 @@ _अर्जुनने कहा—_ मातले! आप जल्दी 
 पश्चादहमथारोक्ष्ये सुकृती सत्पथं यथा ॥ १८ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -377,6 +372,11 @@ _अर्जुनने कहा—_ मातले! आप जल्दी 
 
 साधु सारथे! आप इस रथपर स्थिरतापूर्वक बैठकर जब घोड़ोंको काबूमें कर लें, तब जैसे पुण्यात्मा सन्मार्गपर आरूढ़ होता है, उसी प्रकार पीछे मैं भी इस रथपर आरूढ़ होऊँगा॥१८॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -749,11 +749,6 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 ततो ददर्श शक्रस्य पुरीं ताममरावतीम् ॥ ४२ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत इन्द्रलोकाभिगमनपर्वमें बयालीसवाँ अध्याय पूरा हुआ॥४२॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -771,4 +766,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते वनपर्वणि इन्द्रलोकाभिगमनपर्वणि द्विचत्वारिंशोऽध्यायः ॥ ४२ ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत वनपर्वके अन्तर्गत इन्द्रलोकाभिगमनपर्वमें बयालीसवाँ अध्याय पूरा हुआ॥४२॥
 </details>
+</details>
+

@@ -4,14 +4,9 @@ title_full = "003 नकुल, सहदेव तथा द्रौपदी�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-003p1.mp3"></div>
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-003p1.mp3"></div>
 
-<div class="audioEmbed"  caption="प्रदीपसिंहः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-003p2.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="प्रदीपसिंहः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/004-003p2.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -27,17 +22,17 @@ title_full = "003 नकुल, सहदेव तथा द्रौपदी�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवमुक्त्वा पुरुषप्रवीर-  
 स्तथार्जुनो धर्मभृतां वरिष्ठः ।  
 वाक्यं तथासौ विरराम भूयो  
 नृपोऽपरं भ्रातरमाबभाषे ॥ १ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -56,16 +51,16 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं त्वं नकुल कुर्वाणस्तत्र तात चरिष्यसि।  
 कर्म तत् त्वं समाचक्ष्व राज्ये तस्य महीपतेः।  
 सुकुमारश्च शूरश्च दर्शनीयः सुखोचितः ॥ २ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-नकुल उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -81,6 +76,11 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 _युधिष्ठिरने पूछा—_ नकुल! तुम राजा विराटके राज्यमें कौन-सा कार्य करते हुए निवास करोगे? वह कार्य बताओ। तात! तुम तो शूरवीर होनेके साथ ही अत्यन्त सुकुमार, परम दर्शनीय और सर्वथा सुख भोगनेके ही योग्य हो॥२॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+नकुल उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,11 +133,6 @@ _नकुल बोले—_ राजन्! मैं राजा विर
 विराटनगरे छन्नश्चरिष्यामि महीपते ॥ ६ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -154,15 +149,15 @@ _नकुल बोले—_ राजन्! मैं राजा विर
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहदेव कथं तस्य समीपे विहरिष्यसि।  
 किं वा त्वं कर्म कुर्वाणः प्रच्छन्नो विहरिष्यसि ॥ ७ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सहदेव उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -177,6 +172,11 @@ _नकुल बोले—_ राजन्! मैं राजा विर
 
 _युधिष्ठिरने सहदेवसे पूछा—_ भैया सहदेव! तुम राजा विराटके समीप कैसे जाओगे उनके यहाँ क्या काम करते हुए गुप्तरूपसे निवास करोगे?॥७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सहदेव उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,11 +295,6 @@ _सहदेवने कहा—_ महाराज! मैं राजा 
 न च मां वेत्स्यते कश्चित् तोषयिष्ये च पार्थिवम्॥१३॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -312,6 +307,11 @@ _सहदेवने कहा—_ महाराज! मैं राजा 
 
 इस प्रकार मैं गौओंकी सेवा करूँगा। इस कार्यमें मुझे सदासे प्रेम रहा है। वहाँ मुझे कोई पहचान नहीं सकेगा। मैं अपने कार्यसे राजा विराटको संतुष्ट कर लूँगा[^*]॥१३॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -364,11 +364,6 @@ _युधिष्ठिर बोले—_ यह द्रुपदकुम
 एतान्येवाभिजानाति यतो जाता हि भामिनी ॥ १७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-द्रौपद्युवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -381,6 +376,11 @@ _युधिष्ठिर बोले—_ यह द्रुपदकुम
 
 इस भामिनीने जबसे जन्म लिया है, तबसे अबतक माला, सुगन्धित पदार्थ, भाँति-भाँतिके गहने तथा अनेक प्रकारके वस्त्रोंको ही जाना है। इसने कभी कष्टका अनुभव नहीं किया है॥१७॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+द्रौपद्युवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -419,11 +419,6 @@ _द्रौपदीने कहा—_ भारत! इस जगत्‌�
 मा भूत् ते दुःखमीदृशम्॥२१॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -437,6 +432,11 @@ _द्रौपदीने कहा—_ भारत! इस जगत्‌�
 
 मैं अपनी रक्षा स्वयं कर लूँगी। आप जो मुझसे पूछते हैं कि तुम वहाँ क्या करोगी? कैसे रहोगी? उसके उत्तरमें निवेदन है कि मैं यशस्विनी राजपत्नी सुदेष्णाके पास जाऊँगी। मुझे अपने पास आयी हुई जानकर वे रख लेंगी और सब प्रकारसे मेरी रक्षा करेंगी। अतः आपके मनमें इस बातका दुःख नहीं होना चाहिये कि द्रौपदी कैसे सुरक्षित रह सकेगा॥२०-२१॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -467,11 +467,6 @@ _युधिष्ठिर बोले—_ कृष्णे! तुमन�
 कुर्यास्तत् त्वं हि कल्याणि लक्षयेयुर्न ते तथा ॥ २३ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें युधिष्ठिर आदिकी परस्पर मन्त्रणाविषयक तीसरा अध्याय पूरा हुआ॥३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -488,6 +483,11 @@ _युधिष्ठिर बोले—_ कृष्णे! तुमन�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते विराटपर्वणि पाण्डवप्रवेशपर्वणि युधिष्ठिरादिमन्त्रणे तृतीयोऽध्यायः ॥ ३ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत विराटपर्वके अन्तर्गत पाण्डवप्रवेशपर्वमें युधिष्ठिर आदिकी परस्पर मन्त्रणाविषयक तीसरा अध्याय पूरा हुआ॥३॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

@@ -4,18 +4,13 @@ title_full = "133 राजकुमारोंका रंगभूमिम�
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-133-p01.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-133-p01.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-133-p02.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-133-p02.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-133-p03.mp3"></div>
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-133-p03.mp3"></div>
 
-<div class="audioEmbed"  caption="शशी" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-133-p04.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="शशी" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/001-133-p04.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -29,6 +24,11 @@ title_full = "133 राजकुमारोंका रंगभूमिम�
 
 राजकुमारोंका रंगभूमिमें अस्त्र-कौशल दिखाना
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -62,11 +62,6 @@ _वैशम्पायनजी कहते हैं—_ भारत! ज�
 ततोऽब्रवीन्महाराजः प्रहृष्टेनान्तरात्मना ।
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-धृतराष्ट्र उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -81,6 +76,11 @@ _वैशम्पायनजी कहते हैं—_ भारत! ज�
 ‘राजन्! आपके कुमार अस्त्र-विद्याकी शिक्षा प्राप्त कर चुके हैं। कुरुश्रेष्ठ! यदि आपकी अनुमति हो तो वे अपनी सीखी हुई अस्त्र-संचालनकी कलाका प्रदर्शन करें’।  
 यह सुनकर महाराज धृतराष्ट्र अत्यन्त प्रसन्नचित्तसे बोले ॥ ३ ॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+धृतराष्ट्र उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -641,11 +641,6 @@ _धृतराष्ट्रने कहा—_ द्विजश्रे�
 न्यवेदयेतां तत् सर्वं कुमाराणां विचेष्टितम् ॥ ३५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें अस्त्र-कौशलदर्शनविषयक एक सौ तैंतीसवाँ अध्याय पूरा हुआ॥१३३॥
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -662,6 +657,11 @@ _धृतराष्ट्रने कहा—_ द्विजश्रे�
 <details><summary>मूलम् (समाप्तिः)</summary>
 
 इति श्रीमहाभारते आदिपर्वणि सम्भवपर्वण्यस्त्रदर्शने त्रयस्त्रिंशदधिकशततमोऽध्यायः ॥ १३३ ॥
+</details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत आदिपर्वके अन्तर्गत सम्भवपर्वमें अस्त्र-कौशलदर्शनविषयक एक सौ तैंतीसवाँ अध्याय पूरा हुआ॥१३३॥
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

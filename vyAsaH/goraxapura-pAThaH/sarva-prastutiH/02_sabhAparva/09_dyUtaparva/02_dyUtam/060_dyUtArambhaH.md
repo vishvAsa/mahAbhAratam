@@ -4,12 +4,7 @@ title_full = "060 द्यूतक्रीड़ाका आरम्भ"
 +++
 <details open><summary>श्रावणम् (द्युगङ्गा)</summary>
 
-<div class="audioEmbed"  caption="साईरामः" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-060.mp3"></div>
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
+<div caption="साईरामः" class="audioEmbed" src="https://archive.org/download/mahAbhArata-mUla-paThanam-GP/002-060.mp3"></div>
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -23,6 +18,11 @@ title_full = "060 द्यूतक्रीड़ाका आरम्भ"
 
 द्यूतक्रीड़ाका आरम्भ
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,11 +111,6 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 प्रावर्तत महाराज सुहृद् द्यूतमनन्तरम् ॥ ५ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-युधिष्ठिर उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -128,6 +123,11 @@ _वैशम्पायनजी कहते हैं—_ राजन्! �
 
 महाराज! वे सब-के-सब वेदवेत्ता एवं शूरवीर थे तथा उनके शरीर तेजोयुक्त थे। उनके बैठ जानेके अनन्तर वहाँ सुहृदोंकी द्यूतक्रीड़ा आरम्भ हुई॥५॥
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+युधिष्ठिर उवाच
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -156,11 +156,6 @@ _युधिष्ठिरने कहा—_ राजन्! यह सम�
 येन मां त्वं महाराज धनेन प्रतिदीव्यसे ॥ ७ ॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-दुर्योधन उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -175,15 +170,15 @@ _युधिष्ठिरने कहा—_ राजन्! यह सम�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+दुर्योधन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्ति मे मणयश्चैव धनानि सुबहूनि च।  
 मत्सरश्च न मेऽर्थेषु जयस्वैनं दुरोदरम् ॥ ८ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-वैशम्पायन उवाच
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -200,15 +195,15 @@ _दुर्योधन बोला—_ मेरे पास भी मण�
 </details>
 </details>
 
+<details open><summary>मूलम् (वचनम्)</summary>
+
+वैशम्पायन उवाच
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो जग्राह शकुनिस्तानक्षानक्षतत्त्ववित् ।  
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत ॥ ९ ॥
-</details>
-
-<details open><summary>मूलम् (वचनम्)</summary>
-
-इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें द्यूतारम्भविषयक साठवाँ अध्याय पूरा हुआ॥६०॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -228,4 +223,10 @@ _वैशम्पायनजी कहते हैं—_ जनमेजय
 
 इति श्रीमहाभारते सभापर्वणि द्यूतपर्वणि द्यूतारम्भे षष्टितमोऽध्यायः ॥ ६० ॥
 </details>
+
+<details><summary>अनुवाद (हिन्दी - समाप्ति)</summary>
+
+इस प्रकार श्रीमहाभारत सभापर्वके अन्तर्गत द्यूतपर्वमें द्यूतारम्भविषयक साठवाँ अध्याय पूरा हुआ॥६०॥
 </details>
+</details>
+
