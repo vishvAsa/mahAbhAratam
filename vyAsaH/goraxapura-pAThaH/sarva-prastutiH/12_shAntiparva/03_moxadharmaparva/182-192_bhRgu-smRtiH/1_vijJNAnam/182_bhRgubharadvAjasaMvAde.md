@@ -44,11 +44,11 @@ _युधिष्ठिरने पूछा—_ पितामह! इस �
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-Yudhiṣṭhira questioned Bhīṣma [^1]:  
+Yudhiṣṭhira questioned Bhīṣma [1]:  
 Wherefrom has this universe consisting of mobile and immobile beings come into being.
 Where does it go when destroyed, tell me this O grandsire.  
 
-[^1]: The Bhṛgu Smṛti or the narrative of Bhṛgu to Bharadvāja begins with chapter 182 of the Ganguli edition of the Mahābhārata and with chapter 176 of the BORI ‘critical’ edition.
+[1]: The Bhṛgu Smṛti or the narrative of Bhṛgu to Bharadvāja begins with chapter 182 of the Ganguli edition of the Mahābhārata and with chapter 176 of the BORI ‘critical’ edition.
 </details>
 </details>
 
@@ -439,7 +439,9 @@ It first gave rise to the great entity Mahat; …
 
 <details><summary>अनुवाद (हिन्दी)</summary>
 
-सम्पूर्ण भूतोंको धारण करनेवाले अहंकारस्वरूप भगवान्‌ने शब्दतन्मात्रा रूप आकाशको उत्पन्न किया। आकाशसे जल और जलसे अग्नि एवं वायुकी उत्पत्ति हुई। अग्नि और वायुके संयोगसे इस पृथ्वीका प्रादुर्भाव हुआ[^*]॥१४॥
+सम्पूर्ण भूतोंको धारण करनेवाले अहंकारस्वरूप भगवान्‌ने शब्दतन्मात्रा रूप आकाशको उत्पन्न किया। आकाशसे जल और जलसे अग्नि एवं वायुकी उत्पत्ति हुई। अग्नि और वायुके संयोगसे इस पृथ्वीका प्रादुर्भाव हुआ[*]॥१४॥
+
+[*]: यहाँ जो सृष्टिका क्रम बताया गया है, वह श्रुतिसम्मत क्रमसे भिन्न है। श्रुतिने आकाशसे वायु, वायुसे अग्नि, अग्निसे जल और जलसे पृथ्वीकी उत्पत्तिका क्रम बताया है।
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -1143,4 +1145,3 @@ The pericarp of the lotus became Meru, which formed the axis of the world. Resid
 </details>
 </details>
 
-[^*]: यहाँ जो सृष्टिका क्रम बताया गया है, वह श्रुतिसम्मत क्रमसे भिन्न है। श्रुतिने आकाशसे वायु, वायुसे अग्नि, अग्निसे जल और जलसे पृथ्वीकी उत्पत्तिका क्रम बताया है।
