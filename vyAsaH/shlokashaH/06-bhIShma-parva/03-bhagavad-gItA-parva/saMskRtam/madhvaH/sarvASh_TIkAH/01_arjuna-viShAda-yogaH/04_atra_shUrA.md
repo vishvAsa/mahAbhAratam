@@ -1,0 +1,15 @@
++++
+title = "04 अत्र शूरा"
++++
+
+<details><summary>मध्वः - मूलम्</summary>
+
+॥1.4॥ Sri Madhvacharya did not comment on this sloka. The commentary
+starts from 2.11.
+</details>
+
+<details><summary>जयतीर्थः</summary>
+
+॥1.4॥ Sri Jayatirtha did not comment on this sloka. The commentary
+starts from 2.11.
+</details>
