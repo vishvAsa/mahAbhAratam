@@ -1,5 +1,5 @@
 +++
-title = "विश्वास-बोधः"
+title = "प्राचीन-बोधः"
 unicode_script = "devanagari"
 +++
 
