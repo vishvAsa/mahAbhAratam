@@ -1,0 +1,18 @@
++++
+title = "38 विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम्"
++++
+
+<details><summary>रामानुजः - मूलम्</summary>
+
+॥18.38॥**अग्रे** अनुभववेलायां **विषयेन्द्रियसंयोगाद् यत् तद्** अमृतम् इव भवति; **परिणामे** विपाके विषयाणां सुखतानिमित्तक्षुधादौ निवृत्ते तस्य च सुखस्य निरयादिनिमित्तत्वाद् **विषम्** इव पीतं भवति; **तत् सुखं राजसं स्मृतम्।**
+</details>
+
+<details><summary>वेदान्तदेशिकः</summary>
+
+॥18.38॥ विषयाणां तत्तदिन्द्रियार्थानामन्नपानादीनामित्यर्थः। सुखतानिमित्तक्षुदादौ निवृत्ते इति राजससुखस्य दृष्टप्रातिकूल्यनिदानोक्तिः। यदुक्तं भगवता पराशरेण -- अग्नेः शीतेन तोयस्य तृषा भक्तस्य च क्षुधा। क्रियते सुखकर्तृत्वं तद्विलोमस्य चेतरैः \[वि.पु.1।17।64\] इति। क्षुत्तृष्णोपशमं तद्वच्छीताद्युपशमं सुखम्। मन्यते बालबुद्धित्वाद्दुःखमेव हि तत् पुनः॥ इति। दृष्टसुखतानिमित्तनिवृत्तौ उपेक्षणीयतामात्रव्यावृत्त्यर्थं दुःखोदर्कत्वम्परिणामे विषमिव इत्यनेन व्यज्यते। पारदारिकरसादीनि हि भयादिभूयिष्ठक्षणिकक्षुद्रतरसुखान्यनन्तरकालभाव्यतिघोरनिरतिशयदुःखाय भवन्तीत्यागामिकं विषत्वमाह -- निरयादिनिमित्तत्वादिति।
+</details>
+
+<details><summary>आदिदेवानन्दः</summary>
+
+18.38 That which at the 'beginning,' i.e., at the time of experience looks like elixir because of the contact of senses with their objects agreable to them, but 'at the end,' i.e., when satiation or further incapacity to enjoy due to over-indulgence in them occurs, looks life poison - that pleasure is said to be Rajasika. In this latter state these so-called enjoyments cause the misery of Naraka.
+</details>
