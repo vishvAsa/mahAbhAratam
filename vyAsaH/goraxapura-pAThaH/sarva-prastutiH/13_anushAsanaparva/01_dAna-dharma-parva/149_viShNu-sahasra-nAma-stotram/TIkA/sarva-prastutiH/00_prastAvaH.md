@@ -4,12 +4,12 @@ title = "०० प्रस्तावः"
 ## श्रुत्वा धर्मान्
 <details open><summary>पराशरभट्टः</summary>
 
-तत्र प्राग् एव पौनःपुन्येन  
-तत्र तत्र पर-तत्त्व-परेषु प्रदेशेष्व् अशेषार्थ-निर्णय-श्रवणात्  
+तत्र प्राग् एव पौनः-पुन्येन  
+तत्र तत्र पर-तत्त्व-परेषु प्रदेशेष्व्  
+अशेषार्थ-निर्णय-श्रवणात्  
 तुष्टं-मन्यतया स्वयम् अपृच्छते जनमेजयाय  
 परम-सौहार्दाद् अन्यद् गुह्यतमं ग्राहयन्  
 स्वयम् एव श्री-वैशंपायन उवाच —
-
 </details>
 
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
@@ -21,7 +21,7 @@ Vaisampayana narrated this chapter as another great secret without being asked a
 
 श्री वैशम्पायन उवाच -
 
-श्रुत्वा धर्मान् अशेषेण  
+> श्रुत्वा धर्मान् अशेषेण  
 पावनानि च सर्वशः ।  
 युधिष्ठिरश् शान्तनवं  
 पुनर् एवाभ्यभाषत ॥
@@ -39,7 +39,7 @@ Vaisampayana narrated this chapter as another great secret without being asked a
 
 श्रुत्वेत्य् आदि ।
 
-**धर्मान्** - श्रुति-स्मृत्य्-आदि-चोदना-लक्षणाभ्युदय-निःश्रेयस-फलान् राज-मोक्ष-दान-धर्म-रूपेण बहून् ।
+**धर्मान्** - श्रुति-स्मृत्य्-आदि- -चोदना-लक्षणाभ्युदय-निःश्रेयस-फलान् राज-मोक्ष-दान-धर्म-रूपेण बहून् ।
 
 **अशेषेण** - कार्त्स्न्येन; ये च यावन्तस् तावतश् चेत्य् अर्थः ।
 
@@ -60,9 +60,9 @@ Vaisampayana narrated this chapter as another great secret without being asked a
 
 तच् च सद्-आचार-प्रावण्यात् ।
 
-सन्तो ह्य् आचार्य-निष्ठाम् अन्विष्य
-तद्-रुचि-परिगृहीतम् एव तत्त्वं च रोचयन्ते।
-न तु प्रामाणिकत्व-मात्रेण ॥ 1 ॥
+सन्तो ह्य् आचार्य-निष्ठाम् अन्विष्य  
+तद्-रुचि-परिगृहीतम् एव तत्त्वं च रोचयन्ते।  
+न तु प्रामाणिकत्व-मात्रेण ॥ 1 ॥+++(4)+++
 </details>
 
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
@@ -76,15 +76,32 @@ His interest was sincere to follow the course of conduct of great men.
 For good men seek to know the stand taken by the preceptors and take delight in what is considered by them as the truth and as beneficial conduct. They do not do any action merely because it is laid down in Sastras. (Sanction by an authoritative sastra is not enough; it must be accepted and followed by great and good men).
 </details>
 
+### उपायोपेय-गुण-दोषाः 
 <details open><summary>पराशरभट्टः</summary>
 
 तत्रेदम् आदाव् एवोदैरिराम—  
-प्रेक्षावद्भिः प्रमाणेन परिच्छिद्यानुकूलं प्रमेयम् उपादेयम् इति ।  
+प्रेक्षावद्भिः प्रमाणेन परिच्छिद्य  
+अनुकूलं प्रमेयम् उपादेयम् इति ।  
 तच् च द्वैधं वर्तते उपायोपेयात्मना ।  
 उपेयं च प्रिय-प्रियतर-प्रियतम-रूपेण त्रैधम्,  
 उपायश् च हित-हिततर-हिततम-रूपेण ।  
 
-तत्रोपेयस्य जन्मर्द्धि-परिणामानित्यत्वादयः चेतन-धर्माः क्लेश-कर्म-विपाकाशयाश् च दोषाः; गुणाश् च दोषासंभेद-रुचिरत्व-स्थावरत्व-भूयस्त्व-विशिष्टाः संविदानन्दैश्वर्य-विभूति-विशेषादयः । उपायस्य तु व्ययायास-भूयस्त्व-व्यभिचारित्व-फल्गु-फलत्वादयो दोषाः । गुणाश् च नियत-निरपाय-लघुतर-बहु-फलकत्वादयः । एवंविध-दोषहान-गुणवत्त्व-तारतम्येनोपायोपेययोस् तरतम-भावः । उभयत्रापि संभवत्य् उत्कृष्टतमे उत्कृष्टोत्कृष्टतरयोर् निकृष्टवद् वर्जनीयत्वम् एव । तत्रानिष्टेभ्य इष्टेभ्यो ऽपि निकृष्टेभ्यो निष्कृष्योत्कृष्टतमम् उपादातुम् उपायोपेयौ सह तारतम्येन प्रष्टव्यौ । तौ च विवक्षा-वशेन षोढा विभज्य पृच्छन् युधिष्ठिर उवाच "किम् एकम्" इति श्लोक-द्वयेन ॥
+तत्रोपेयस्य जन्मर्द्धि-परिणामानित्यत्वादयश् चेतन-धर्माः  
+क्लेश--कर्म-विपाकाशयाश् च दोषाः;  
+गुणाश् च दोषासंभेद-रुचिरत्व-स्थावरत्व- -भूयस्त्व-विशिष्टाः संविद्-आनन्दैश्वर्य-विभूति-विशेषादयः ।  
+
+उपायस्य तु व्ययायास-भूयस्त्व- -व्यभिचारित्व--फल्गु-फलत्वादयो दोषाः ।  
+गुणाश् च नियत-निरपाय-लघुतर-बहु-फलकत्वादयः ।  
+एवं-विध--दोष-हान- -गुणवत्त्व-तारतम्येन  
+उपायोपेययोस् तरतम-भावः ।  
+उभयत्रापि संभवत्य् उत्कृष्टतमे  
+उत्कृष्टोत्कृष्टतरयोर् निकृष्टवद् वर्जनीयत्वम् एव ।  
+
+तत्रानिष्टेभ्य इष्टेभ्यो ऽपि  
+निकृष्टेभ्यो निष्कृष्योत्कृष्टतमम् उपादातुम्  
+उपायोपेयौ सह तारतम्येन प्रष्टव्यौ ।  
+तौ च विवक्षा-वशेन षोढा विभज्य पृच्छन्  
+युधिष्ठिर उवाच "किम् एकम्" इति श्लोक-द्वयेन ॥
 </details>
 
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
@@ -106,8 +123,10 @@ QUESTION ABOUT THE SUPREME GOAL
 
 **युधिष्ठिर उवाच** -
 
-> किम् एकं दैवतं लोके किं वाप्य् एकं परायणम् ।
-> स्तुवन्तः कं कम् अर्चन्तः प्राप्नुयुर् मानवाश् शुभम् ॥ 2 ॥
+> किम् एकं दैवतं +++(शास्त्र-)+++लोके  
+> किं वाप्य् एकं परायणम् +++(→भवतः परमो मतः)+++।
+> स्तुवन्तः कं कम् अर्चन्तः  
+> प्राप्नुयुर् मानवाश् शुभम् ॥ 2 ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -122,17 +141,42 @@ QUESTION ABOUT THE SUPREME GOAL
 
 **पर-तत्त्व-रूपोपेय-प्रश्नः**
 
-तत्रोपायस्योपेयार्थत्वात् प्रधान-भूतम् उपेयं पृच्छन्,  
-तस्य च तत्त्व-शास्त्रेषु पर-तत्त्व-परम-प्राप्यात्मना द्वेधोपदेश-दर्शनात्,  
+तत्रोपायस्योपेयार्थत्वात्  
+प्रधान-भूतम् उपेयं पृच्छन्,  
+तस्य च तत्त्व-शास्त्रेषु पर-तत्त्व--परम-प्राप्यात्मना द्वेधोपदेश-दर्शनात्,  
 प्रथमं पर-तत्त्व-रूपं पृच्छति -
 
 युधिष्ठिर उवाच -
 
-> किम् एकं दैवतं लोके किं वाप्य् एकं परायणम् ।
+> किम् एकं दैवतं लोके  
+> किं वाप्य् एकं परायणम् ।
 
-**किम् एकम्** इति । **लोक इति** प्रति-प्रश्नम् अनुषज्यते; **भवतः परमो मत** इति च सिंहावलोकन-न्यायेन । यथार्हं च विभक्तिर् विपरिणमनीया । 'लोक्यते ऽनेन' इति लोकः - श्रुति-स्मृत्य्-आदि-शरीरं शास्त्रम् । एकम् - प्रधानं समाधिक-रहितम्; "परमं यो महत् तेजः", "तस्य लोक-प्रधानस्य" इति प्रतिवचनानुगुण्यात् । न चायं स्वरूप-मात्र-पर एकत्व-संख्या-परो वैक-शब्दः; 'दैवतम्' इति प्रातिपदिकैक-वचनाभ्यां सिद्धत्वात्, तयोर् व्यावर्त्याभावाच् च । न हि किञ्चिद् दैवतम् अस्वरूपम् अनेकं वा ऽस्ति, येन कस्यचिद् एवैकत्वं विशेषस् तद्-अनुगुण-प्रतिवचनाभावाच् च ।
+**किम् एकम्** इति ।  
+**लोक इति** प्रति-प्रश्नम् अनुषज्यते;  
+**भवतः परमो मत** इति च सिंहावलोकन-न्यायेन ।  
+यथाऽर्हं च विभक्तिर् विपरिणमनीया ।  
 
-**दैवतम्** - द्योतनादि-परमैश्वर्यासाधारण-गुण-चिह्नितम् तत्त्व-शास्त्रेषु प्रतिपाद्यं भवतः किं परमं मतम् ? इत्य् अर्थः । अयं च शास्त्रेषु समयेषु च सर्वाधिकं तत्त्वम् अभ्युपेयुषाम् अपि मायाद्य्-औपाधिक-विवर्त-परिणाम-विशेष-निर्वाह्य-ज्ञान-शक्त्याद्य्-ऐश्वर्यत्व-स्वाभाविक-सर्वैश्वर्यत्वादौ सामान्यतो विशेषतश् च हरि-हर-हिरण्यगर्भादि-तत्त्व-परावर-भावेन विप्रतिपत्ति-दर्शनेन-सन्देहात् प्रश्नः ॥
+'लोक्यते ऽनेन' इति **लोकः** -  
+श्रुति-स्मृत्य्-आदि-शरीरं शास्त्रम् ।  
+**एकम्** - प्रधानं समाधिक-रहितम्;  
+"परमं यो महत् तेजः",  
+"तस्य लोक-प्रधानस्य" इति प्रतिवचनानुगुण्यात् ।  
+न चायं स्वरूप-मात्र-पर एकत्व-संख्या-परो वैक-शब्दः;  
+'दैवतम्' इति प्रातिपदिकैक-वचनाभ्यां सिद्धत्वात्,  
+तयोर् व्यावर्त्याभावाच् च ।  
+न हि किञ्चिद् दैवतम् अ-स्वरूपम् अनेकं वा ऽस्ति,  
+येन कस्यचिद् एवैकत्वं विशेषस्,  
+तद्-अनुगुण-प्रतिवचनाभावाच् च ।
+
+**दैवतम्** - द्योतनादि-परमैश्वर्यासाधारण-गुण-चिह्नितम्  
+तत्त्व-शास्त्रेषु प्रतिपाद्यं  
+भवतः **किं परमं मतम्** ? इत्य् अर्थः ।  
+अयं च शास्त्रेषु समयेषु च  
+सर्वाधिकं तत्त्वम् अभ्युपेयुषाम् अपि  
+मायाद्य्-औपाधिक- -विवर्त-परिणाम-विशेष-निर्वाह्य- -ज्ञान-शक्त्य्-आद्य्-ऐश्वर्यत्व- -स्वाभाविक-सर्वैश्वर्यत्वादौ  
+सामान्यतो विशेषतश् च  
+हरि-हर-हिरण्यगर्भादि-तत्त्व- -परावर-भावेन विप्रतिपत्ति-दर्शनेन  
+सन्देहात् प्रश्नः ॥
 </details>
 
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
@@ -147,26 +191,51 @@ Yudhishthira said: (2) Who is the One (Supreme) Deity according to the sastras ?
 
 <details open><summary>पराशरभट्टः</summary>
 
-फल-शास्त्रेषु मोक्षे तावत् स्वरूपाविद्या-विशेष-वैशेषिक-गुणोच्छेद-परमात्म-साधर्म्य-तद्-गुण-संक्रान्ति-तच्-छायापत्त्य्-आनन्दादि-स्वरूपाविर्भाव-मात्र-तत्-कैङ्कर्याविर्भावादि-लक्षण-विप्रतिपत्ति-दर्शनात् सन्दिहानः परमम् उपेयं पृच्छति - **किं वाप्य् एकं परायणम्** इति । 'दैवतम्' 'परायणम्' इत्य्-आदि किम् अन्यद् अन्यद् उपदिश्यते, उत तत्तदवस्था-मात्र-भेदेनैकम् एवेति विवेक्तुं वापीति निपात-द्वयम् । **एकम्** इति पूर्ववत् । **परम्** - निर्दोष-निरतिशय-मङ्गल-स्वभावतयोत्कृष्टतमम् । अयनम् - प्राप्यम् । ऐहिकामुष्मिकेषु पुरुषाभिलषणीयेषु कः परम-पुरुषार्थो भवतो ऽभिमत इति । एवम् उपेयं द्विधा पृष्टम् ॥
+फल-शास्त्रेषु मोक्षे तावत्  
+स्वरूपाविद्या-विशेष- -वैशेषिक-गुणोच्छेद- -परमात्म-साधर्म्य- -तद्-गुण-संक्रान्ति- -तच्-छायापत्त्य्- -आनन्दादि-स्वरूपाविर्भाव-मात्र- -तत्-कैङ्कर्याविर्भावादि-लक्षण-विप्रतिपत्ति-दर्शनात्  
+सन्दिहानः परमम् उपेयं पृच्छति -  
+**किं वाप्य् एकं परायणम्** इति । 
+
+'दैवतम्' 'परायणम्' इत्य्-आदि  
+किम् अन्यद् अन्यद् उपदिश्यते,  
+उत तत्-तद्-अवस्था-मात्र-भेदेनैकम् एवेति विवेक्तुं  
+**वापीति** निपात-द्वयम् ।  
+**एकम्** इति पूर्ववत् ।  
+**परम्** - निर्दोष-निरतिशय-मङ्गल-स्वभावतयोत्कृष्टतमम् ।  
+**अयनम्** - प्राप्यम् ।  
+ऐहिकामुष्मिकेषु पुरुषाभिलषणीयेषु  
+कः परम-पुरुषार्थो भवतो ऽभिमत इति ।  
+एवम् उपेयं द्विधा पृष्टम् ॥
 </details>
 
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
 
-The second question is: "Which is the supreme goal of attainment?" This question is propounded because there are conflicting opinions in sastras dealing with the ultimate benefit as to what is moksha (salvation) and what happens at that stage, such as whether (i) the atman perishes in moksha, or (ii) Nescience covering the atman is dispelled, or (iii) the qualities of the atman perish, leaving the atman alone to exist (Vaiseshika), or (iv) equality with the Paramatman is.attained, or (v) there is acquisition of the quality of the Paramatman, or (vi) the status of being a shadow of the Paramatman is attained, or (vii) the acquisition is only of the essential nature of bliss, etc., or (viii) a status of continuous service to the Lord is attained. In the original text, the words used in connection with the goal are "Kim va api ekam parayanam". Here va is a syllable denoting alternatives, and api conveys a conjunctive sense. Therefore, it is to be understood from this that the questioner wants to know whether the Deity to be determined as the Supreme One is different from the goal to be reached or whether such Deity is itself the goal to be attained. Or again, it may be said that the questioner wants to know whether the benefit (Moksha) to be enjoyed is the same for all or different in each particular case. Goal (Param Ayanam): all-beneficent and free from imperfection, hence, the Highest. Therefore, the question is: "What is considered by you as the highest goal desired by a person out of the very many desires relating to this world or the next?" Thus is the twofold question about upeya, the goal.
+The second question is: "Which is the supreme goal of attainment?" This question is propounded because there are conflicting opinions in sastras dealing with the ultimate benefit as to what is moksha (salvation) and what happens at that stage, such as whether (i) the atman perishes in moksha, or (ii) Nescience covering the atman is dispelled, or (iii) the qualities of the atman perish, leaving the atman alone to exist (Vaiseshika), or (iv) equality with the Paramatman is attained, or (v) there is acquisition of the quality of the Paramatman, or (vi) the status of being a shadow of the Paramatman is attained, or (vii) the acquisition is only of the essential nature of bliss, etc., or (viii) a status of continuous service to the Lord is attained. In the original text, the words used in connection with the goal are "Kim va api ekam parayanam". Here va is a syllable denoting alternatives, and api conveys a conjunctive sense. Therefore, it is to be understood from this that the questioner wants to know whether the Deity to be determined as the Supreme One is different from the goal to be reached or whether such Deity is itself the goal to be attained. Or again, it may be said that the questioner wants to know whether the benefit (Moksha) to be enjoyed is the same for all or different in each particular case. Goal (Param Ayanam): all-beneficent and free from imperfection, hence, the Highest. Therefore, the question is: "What is considered by you as the highest goal desired by a person out of the very many desires relating to this world or the next?" Thus is the twofold question about upeya, the goal.
 </details>
 
-### लघ्व्-अलघूपाय-साध्य-सिद्धोपाय-प्रश्नः
+### सिद्धोपायः
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
 THE QUESTION ABOUT THE MEANS (ALREADY EXISTENT)
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
 
-अथोपायस् तत्तच्छास्त्रेषु कर्म-ज्ञान-भक्ति-योगानां विकल्प-समुच्चयाङ्गाङ्गि-भावादि-विवादात् संशयानेन प्रष्टव्यः । स च सिद्धस् साध्यस् सालम्बन-रूपश् च । सिद्धस् त्व् आराध्यमानतया फल-प्रदा देवता । तां च लघ्व्-अलघूपाय-साध्यतया द्वेधा विभज्य पृच्छति - **स्तुवन्तः कम्** इत्य् अर्धेन ।
+अथोपायस् तत्-तच्-छास्त्रेषु कर्म-ज्ञान-भक्ति-योगानां विकल्प-समुच्चयाङ्गाङ्गि-भावादि-विवादात्  
+संशयानेन प्रष्टव्यः ।+++(5)+++  
 
-> स्तुवन्तः कं कम् अर्चन्तः प्राप्नुयुर् मानवाश् शुभम् ॥ 2 ॥
+स च +++(उपायः)+++ - सिद्धस् साध्यस् सालम्बन-रूपश् च ।  
+सिद्धस् त्व् आराध्यमानतया फल-प्रदा देवता ।  
+तां च लघ्व्-अलघूपाय-साध्यतया द्वेधा विभज्य पृच्छति -  
+**स्तुवन्तः कम्** इत्य् अर्धेन ।
 
-कं स्तुवन्तः - गुण-संकीर्तन-मात्रेणाराधयन्तः, कम् अर्चन्तः - उपासन-रूपया भक्त्या परमं पूजनं कुर्वन्तः । **मानवाः** - मनुष्यत्व-मात्र-परिकराः । **शुभं** - द्विविधम् अभ्युदय-निःश्रेयस-रूपम् । **प्राप्नुयुः** ॥
+> स्तुवन्तः कं कम् अर्चन्तः  
+> प्राप्नुयुर् मानवाश् शुभम् ॥ 2 ॥
+
+**कं स्तुवन्तः** - गुण-संकीर्तन-मात्रेणाराधयन्तः,  
+**कम् अर्चन्तः** - उपासन-रूपया भक्त्या परमं पूजनं कुर्वन्तः ।  
+**मानवाः** - मनुष्यत्व-मात्र-परिकराः ।  
+**शुभं** - द्वि-विधम् अभ्युदय-निःश्रेयस-रूपम् ।  
+**प्राप्नुयुः** ॥
 </details>
 
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
@@ -175,15 +244,17 @@ Then about the upaya. The question about the upaya (means) arises because there 
 </details>
 
 ## को धर्मः
-### परमसाध्योपायप्रश्नः
+### परम-साध्योपाय-प्रश्नः
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
 QUESTION ABOUT, MEANS TO BE PRACTISED
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> को धर्मस् सर्व-धर्माणां भवतः परमो मतः ।
-> किं जपन् मुच्यते जन्तुर् जन्म-संसार-बन्धनात् ॥ 3 ॥
+> को धर्मस् सर्व-धर्माणां  
+> भवतः परमो मतः ।
+> किं जपन् मुच्यते जन्तुर्  
+> जन्म-संसार-बन्धनात् ॥ 3 ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -195,11 +266,16 @@ QUESTION ABOUT, MEANS TO BE PRACTISED
 
 <details open><summary>पराशरभट्टः</summary>
 
-अथ साध्यो वाङ्-मनः-काय-निष्पाद्य-जप-ध्यानार्चन-प्रभृतिर् देवतावर्जनात्मको धर्मः । तत्र परमं पृच्छति - **"को धर्मः"** इति ।
+अथ साध्यो वाङ्-मनः-काय-निष्पाद्य- -जप-ध्यानार्चन-प्रभृतिर् देवतावर्जनात्मको धर्मः ।  
+तत्र परमं पृच्छति - **"को धर्मः"** इति ।
 
-> को धर्मस् सर्व-धर्माणां भवतः परमो मतः ?
+> को धर्मस् सर्व-धर्माणां  
+> भवतः परमो मतः ?
 
-उक्त-लक्षणानां सर्व-धर्माणां मध्ये, **परमः** - निस्तुल्याधिकः, को भवतः, अभिमतः - सुनिश्चित्यापद्-धन-वत् स्वीकृतः ?
+उक्त-लक्षणानां सर्व-धर्माणां मध्ये,  
+**परमः** - निस्तुल्याधिकः,  
+**को भवतः, अभिमतः** - सुनिश्चित्य  
+आपद्-धन-वत् स्वीकृतः ?
 </details>
 
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
@@ -207,28 +283,48 @@ QUESTION ABOUT, MEANS TO BE PRACTISED
 Next, the sadhyopaya, i e., the means to be adopted, with the help of speech, mind and body for gaining the grace of the Deity, such as repeating prayers, meditation, Worship with offerings of flowers, etc. Which of them is the best? This is the question propounded in the phrase, "Ko dharmah", etc. What Dharma is considered by you as the best of Dharmas? Best:-with no equal or a superior. considered (Matah) (determined by you after full examination as the ultimate refuge and adopted by you) like wealth set apart for use in exigencies (apat-dhana).
 </details>
 
-### वाचिकजपालंबनप्रश्नः
+### सालम्बनोपाय-प्रश्नः
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
 QUESTION ABOUT THE MEANS THAT STANDS IN NEED OF A SUPPORT
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
 
-अथ सालम्बनेषु स्तोत्र-मन्त्र-शुभाश्रय-गन्ध-पुष्पाद्य्-उपकरणेषु वाचिक-जपालम्बनं पृच्छति - "**किं जपन्**" इति ।
+अथ सालम्बनेषु  
+स्तोत्र-मन्त्र-शुभाश्रय-गन्ध-पुष्पाद्य्-उपकरणेषु  
+वाचिक-जपालम्बनं पृच्छति - "**किं जपन्**" इति ।
 
-किं जपन् मुच्यते जन्तुर् जन्म-संसार-बन्धनात् ॥ 3 ॥
+> किं जपन् मुच्यते जन्तुर्  
+जन्म-संसार-बन्धनात् ॥ 3 ॥
 
 नियम-विशेषवन्-मन्त्राद्य्-आवर्तनं जपः ।
 
-"जप्येनैव तु संसिध्येद् ब्राह्मणो नात्र संशयः ।
-कुर्याद् अन्यन् न वा कुर्यान् मैत्रो ब्राह्मण उच्यते ॥" (मनु 2-87)
+> "जप्येनैव तु संसिध्येद्  
+ब्राह्मणो नात्र संशयः ।
+कुर्याद् अन्यन् न वा कुर्यान्  
+मैत्रो ब्राह्मण उच्यते ॥"  
+(मनु 2-87)
 
-"द्रव्य-यज्ञाज् जपो यज्ञो विशिष्टो दशभिर् गुणैः ।" (मनु 2-85)
+> "द्रव्य-यज्ञाज् जपो यज्ञो  
+> विशिष्टो दशभिर् गुणैः ।"  
+> (मनु 2-85)
 
-"यज्ञानां जप-यज्ञो ऽस्मि" (गीता 10-25)
+> "यज्ञानां जप-यज्ञो ऽस्मि" (गीता 10-25)
 
-इति जप-श्रैष्ठ्यान् मानस-कायिक-विषयौ न पृच्छ्येते । जन्तुः - जनन-धर्मा । **जन्म-संसार-बन्धनात् - "जन्म"** इति जरा-मरण-गर्भ-निरय-यातनादिस् संसारस्य कार्य-वर्गः प्रदर्श्यते । **"संसार" इति** चाविद्या-कर्म-वासना-रुचि-प्रकृति-सम्बन्ध-रूपः कारण-वर्गः । ताभ्यां बन्धनं - परम-पद-प्राप्ति-प्रतिबन्धः । तस्मान् मुच्यते । इदं च सर्व-फलोपलक्षणं जपादेस् सकल-फल-साधनत्वस्य वक्ष्यमाणत्वात् ।  
-तत्र 'अशेषेण' सर्वश इत्य् उपक्रमेण  
+इति जप-श्रैष्ठ्यान्  
+मानस-कायिक-विषयौ न पृच्छ्येते ।  
+
+**जन्तुः** - जनन-धर्मा ।  
+
+**जन्म-संसार-बन्धनात् - "जन्म"** इति जरा-मरण-गर्भ-निरय-यातनादिस्  
+संसारस्य कार्य-वर्गः प्रदर्श्यते ।  
+**"संसार" इति** चाविद्या--कर्म-वासना-रुचि- -प्रकृति-सम्बन्ध-रूपः कारण-वर्गः ।  
+ताभ्यां **बन्धनं** - परम-पद-प्राप्ति-प्रतिबन्धः ।  
+तस्मान् **मुच्यते** । 
+
+इदं च सर्व-फलोपलक्षणं -  
+जपादेस् सकल-फल-साधनत्वस्य वक्ष्यमाणत्वात् ।  
+तत्र 'अशेषेण' "सर्वश" इत्य् उपक्रमेण  
 'लोके मानवाः शुभम्' इत्य्-आदि-विशेषणैश् च  
 कालाधिकार्य्-अङ्ग-फल-प्रकार-विशेषा अपि  
 प्रकृष्टाः प्रष्टव्यतया सूचिताः ॥
@@ -239,7 +335,7 @@ QUESTION ABOUT THE MEANS THAT STANDS IN NEED OF A SUPPORT
 Next, as to Salambana Upaya, the means depending on aids such as the things or articles used for worship like Mantras to be repeated, flowers, incense (as also auspicious objects of meditation like the idol or the figure of God). Of these, the question relates to the oral basis of japam (the mantra to be recited) by the words, Kim japan. By reciting which Mantra is a man released from bonds of birth and Samsara? Japa is repetitive recitation of a mantra, accompanied by prescribed rites, etc. Manu (11.87) says: "A Brahmin can attain anything only by japa. There is no doubt about it. Whether he does anything else or not it does not matter. For a person doing japa is friendly to all (but a person performing a sacrifice has to do cruel acts, such, as killing a goat, horse, etc.). Hence, he is the real Brahmin." Again, he says (11.85): "Japa-Yagna is ten times more effective than dravya Yajna, (sacrifice conducted with the help of articles.). In the Gita (X. 25) also, Sri Krishna says: "Of all Yajnas I am the japa-yajna." Thus among the actions of three kinds done by the mind, speech and body, japa is superior and the question here is only about the japa which is to be done by word of mouth - not about others which are to be performed either by the mind or by the body. Man (jantu) : anyone who has the characteristic of being born. ( Man is born only for the worship of the Lord) . Bonds of birth and samsara:- By birth is denoted, old age, death, the womb and tortures in hell, etc. which, result from the life in this world. Samsara denotes ignorance, the latent impressions from the sins or merits of one's actions, inclinations, desires and the contact with prakriti (matter): all these form the reasons or causes for the bondage (in the form of birth). Bonds (bandhana):- These are obstructions to the attainment of salvation. Released (Muchyate): Here the reference is only to moksha, the ultimate release: but from the trend of answers given, that the japa is the sadhana for all kinds of benefits. It must be taken that the question relates to all kinds of phalas (benefits). From the use of the words, loke (scripture), aseshena (in entirety), sarvasah (in full), and manavah (persons) it is clear that Yudhishthira has heard all things relating to dharmas, such as the seasons for performance, the qualification of the performer, the divisions and subsidiaries of actions and the benefits which are superior. So also he wants .all such information in respect of the dharma considered best by Bhishma.
 </details>
 
-## जगत्-प्रभुं - जपालंबनप्रतिवचनम्
+## जगत्-प्रभुं - जपालम्बनम्
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
 REPLY ABOUT JAPA AMONGST THE VARIOUS MEANS
 </details>
@@ -248,8 +344,10 @@ REPLY ABOUT JAPA AMONGST THE VARIOUS MEANS
 
 **भीष्म उवाच -**
 
-जगत्-प्रभुं देव-देवमनन्तं पुरुषोत्तमम् ।
-स्तुवन् नाम-सहस्रेण पुरुषः सततोत्थितः ॥ 4 ॥
+> जगत्-प्रभुं देव-देवम्  
+अनन्तं पुरुषोत्तमम् ।
+स्तुवन् नाम-सहस्रेण  
+पुरुषः सततोत्थितः ॥ 4 ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -265,7 +363,13 @@ REPLY ABOUT JAPA AMONGST THE VARIOUS MEANS
 
 **साध्येषु जपालम्बन-प्रतिवचनम्**
 
-इमां षट्-प्रश्नीं प्रतिब्रुवाणो भीष्म उवाच । अत्र प्रायेण व्युत्क्रमेण प्रतिवचनं क्रमिकोपनिबन्धनं च प्रतिवचनं वक्ष्यते । तत्रोपाय-द्वारकत्वाद् उपेयस्य प्रथमं तं प्रतिविवक्षन्, आनन्तर्यात्, तत्रैवादरातिशयाच् च जपालम्बनं प्रतिवक्ति - **"जगत्-प्रभुम्"** इति ।
+इमां षट्-प्रश्नीं प्रतिब्रुवाणो भीष्म उवाच ।  
+अत्र प्रायेण व्युत्क्रमेण प्रतिवचनं,  
++++(क्वचित्)+++ क्रमिकोपनिबन्धनं च प्रतिवचनं वक्ष्यते ।  
+तत्रोपाय-द्वारकत्वाद् उपेयस्य  
+प्रथमं तं प्रतिविवक्षन्,  
+आनन्तर्यात्, तत्रैवादरातिशयाच् च  
+जपालम्बनं प्रतिवक्ति - **"जगत्-प्रभुम्"** इति ।
 
 **जगतः** - जङ्गमाजङ्गमस्य, **प्रभुं** - स्वामिनम् । यथा मनुष्येभ्यो देवा ऐश्वर्य-परिचर्याभ्यामधिकाः, एवमेतेषामपीति **देव-देवम्** । **अनन्तम्** - सर्वतो ऽनवच्छेद्य् अवैभवम् । **पुरुषोत्तमम्** - परमोदारम् । **नाम-सहस्रेण** - जपालम्बनी-कृतेन; **स्तुवन्** - स्तुवनिति लक्षण-हेत्वोर् इति हेतौ शतृ-प्रत्ययः (अष्टाध्यायी 3.2.126) । "सर्व-दुःखातिगो भवेत्" इत्य् अनेन सम्बन्धः । स्तवनं सर्व-दुःख-निवर्तकम् इत्य् अर्थः । क एवं स्यात् ? **पुरुषः** - चेतनः । **कथम्भूतः? सततोत्थितः** - निरन्तरम् उद्युञ्जानो भगवत्-स्तुति-चिन्ताद्य्-अविच्छेदस्य परम-प्रिय-हितत्वात् तद्विच्छेदस्य वैशसत्वाच् च ॥
 </details>
@@ -746,7 +850,7 @@ Is it so? Is it not exaggeration to say that the praise of the Lord can lead one
 (Here the commentator starts the question: Why not apply here the rule about purna-ahuti, the last or completing oblation, or the oblation made with a full ladle ? Though such ahuti is stated to secure all sorts of fruits, it has been ascertained by the Mimamsakas that such a statement is mere praise. The reasoning adopted there is that the purna ahuti is prescribed in the context of several other rites, some to be performed before and others to follow. If all the phalas mentioned are to be ascribed to this ahuti alone, the other rites will be fruitless and may be given up. But that is not the case here. For, in the context of speaking of sankirtana, no other rites are prescribed, nor is any rite combined with it; not even any prayers are mentioned. Mere sankirtana is enough certainly to destory sins. So the commentator sums up.) This is not subject to the purna ahuti maxim. For the subject there is exaggeration. Moreover, elements of arthavada like incomplete statement and prayers are not seen here. Besides even arthavada is not altogether to be neglected; if otherwise not opposed to any authority, we must not omit to give it its proper meaning and significance to the extent possible. To omit is improper.
 </details>
 
-### तत्त्वज्ञानस्य लघुतर-वाङ्मात्र-साध्यता
+### तत्त्व-ज्ञानस्य लघुतर-वाङ्मात्र-साध्यता
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
 ATTAINMENT OF THE KNOWLEDGE OF THE ULTIMATE REALITY BY MERE RECITATION.
 </details>
@@ -755,27 +859,47 @@ ATTAINMENT OF THE KNOWLEDGE OF THE ULTIMATE REALITY BY MERE RECITATION.
 
 **गुरुतर-तपस्-समाधि-साध्य-तत्त्व-ज्ञानस्य लघुतर-वाङ्-मात्र-साध्यता**
 
-ननु गुरु-दीर्घ-दुष्कर-तपस्-समाधि-विशेष-रूप-महा-धर्म-साध्य-तत्त्व-ज्ञानोपक्रमस्य वाङ्-मात्र-साध्यत्व-वादो ऽप्य् अतिवादो गुरु-शास्त्र-वैयर्थ्य-प्रसङ्गेन प्रमाण-विरुद्धं च ।
+> ननु गुरु-दीर्घ-दुष्कर- -तपस्-समाधि-विशेष-रूप- -महा-धर्म-साध्य- -तत्त्व-ज्ञानोपक्रमस्य  
+> वाङ्-मात्र-साध्यत्व-वादो ऽप्य् अतिवादो  
+> गुरु-शास्त्र-वैयर्थ्य-प्रसङ्गेन प्रमाण-विरुद्धं च ।
 
-तद् इदम् अविदित-भगवत्-प्रभावस्य छान्दसस्य पैशाचम् । लघीयो ऽपि भगवत्-संकीर्तनं दुर्वहाम् अपि धुरं धारयत्य् एव । न गुरु-शास्त्रानर्थक्यम्, तस्य समर्थाधिकारत्वात् । अस्य तु सत्य् असति वा सामर्थ्ये, भगवदसाधारण-रुचि-समुचित-भाग्यवदधिकारत्वाच् च । गरीयसो ऽपि भगवत्प्रसाद एव फल-हेतुर् लघीयसि किं दण्ड-वारितः ? यथा च गरीयसि प्रयोग-वैपुल्याद् देवः प्रसीदति, तथा लघीयस्य् अपि भाव-शुद्धि-विशेषात् प्रसीदेत् ।
+तद् इदम् अविदित-भगवत्-प्रभावस्य छान्दसस्य पैशाचम् ।  
+लघीयो ऽपि भगवत्-संकीर्तनं  
+दुर्वहाम् अपि धुरं धारयत्य् एव ।  
+न गुरु-शास्त्रानर्थक्यम्,  
+तस्य समर्थाधिकारत्वात्,  
+अस्य तु सत्य् असति वा सामर्थ्ये,  
+भगवद्-असाधारण-रुचि-समुचित- -भाग्यवद्-अधिकारत्वाच् च ।  
+गरीयसो ऽपि भगवत्-प्रसाद एव फल-हेतुर्  
+लघीयसि किं दण्ड-वारितः ?  
+यथा च गरीयसि प्रयोग-वैपुल्याद् देवः प्रसीदति,  
+तथा लघीयस्य् अपि भाव-शुद्धि-विशेषात् प्रसीदेत् ।
 
 यथोक्तम् —
 
-> "सम्यग् व्यवसितो हि सः" (गीता ९.३०),
+> "सम्यग् व्यवसितो हि सः" (गीता ९.३०),  
+
 > "पत्रं पुष्पं फलं तोयम्" (गीता ९.२६),
 
-> "यो न वित्तैर् न विभवैर् न वासोभिर् न भूषणैः ।
-> तोष्यते हृदयेनैव कस् तम् ईशं न पूजयेत् ?॥" (वि.ध. ९०.६९)
+> "यो न वित्तैर् न विभवैर्  
+> न वासोभिर् न भूषणैः ।
+> तोष्यते हृदयेनैव  
+> कस् तम् ईशं न पूजयेत् ?॥"  
+> (वि.ध. ९०.६९)
 
 व्यास-स्मृतौ —
 
-> दद्यात् पुरुष-सूक्तेन यः पुष्पाण्य् अप एव वा ।
-> अर्चितं स्याज् जगदिदं तेन सर्वं चराचरम् ॥
+> दद्यात् पुरुष-सूक्तेन  
+> यः पुष्पाण्य् अप एव वा ।
+> अर्चितं स्याज् जगद् इदं  
+> तेन सर्वं चराचरम् ॥
 
 वैष्णवे धर्मे —
 
-> पृथिवीं रत्न-संपूर्णां यः कृष्णाय प्रयच्छति ।
-> तस्याप्य् अन्य-मनस्कस्य सुलभो न जनार्दनः ॥ (वि.ध. ७३.६)
+> पृथिवीं रत्न-संपूर्णां  
+> यः कृष्णाय प्रयच्छति ।
+> तस्याप्य् अन्य-मनस्कस्य  
+> सुलभो न जनार्दनः ॥ (वि.ध. ७३.६)
 
 इत्य्-आदि ॥ भाव-भेद एव हि धर्माधर्म-निदानं, न क्रिया-विशेषः । यथा श्री-विष्णु-तत्त्वे —
 
@@ -1163,9 +1287,23 @@ ENQUIRY ABOUT BRAHMAN IF IT IS ENDOWED WITH QUALITIES OR NOT (SAGUNA OR NIRGUNA)
 
 <details open><summary>पराशरभट्टः</summary>
 
-> अस्त्व् इयं सगुण-ब्रह्म-विद्या अर्वाचीन-फलाधिकारिणाम्; निर्गुण-विद्या तु मुमुक्षूणाम् एव हि
+> अस्त्व् इयं सगुण-ब्रह्म-विद्या ऽर्वाचीन-फलाधिकारिणाम्;  
+> निर्गुण-विद्या तु मुमुक्षूणाम् एव हि
 
-इति चेत् — धिक् त्वां बधिरं, यो ऽस्या एव "मुच्यते जन्तुर् जन्म-संसार-बन्धनात्", "याति ब्रह्म सनातनम्" इत्य् उपायत्वं घुष्यमाणं न शृणोषि । किं च सगुण-निर्गुणे द्वे ब्रह्मणी प्रसज्येयाताम् इत्य् अद्वैतं विपद्येत । "परमो मत इति", "अधिकतमो मत" इति सर्व-शास्त्रार्थाधिकतर-सार-समुद्धारैक-प्रयोजनताधिकृतस्य अर्वाचीन-विषयत्वोक्तौ क्वान्यत्रानर्वाचीन-सिद्धिर् अनयोर् विद्ययोः?+++(→वाक्ययोः)+++ ?
+इति चेत् —  
+धिक् त्वां बधिरं,  
+यो ऽस्या एव 
+
+> "मुच्यते जन्तुर् जन्म-संसार-बन्धनात्",  
+
+> "याति ब्रह्म सनातनम्" 
+
+इत्य् उपायत्वं घुष्यमाणं न शृणोषि ।  
+किं च "सगुण-निर्गुणे द्वे ब्रह्मणी प्रसज्येयाताम्" इत्य् अद्वैतं विपद्येत ।  
+"परमो मत" इति, "अधिकतमो मत" इति  
+सर्व-शास्त्रार्थाधिकतर-सार- -समुद्धारैक-प्रयोजनताऽधिकृतस्य  
+अर्वाचीन-विषयत्वोक्तौ  
+क्वान्यत्रानर्वाचीन-सिद्धिर् अनयोर् विद्ययोः?+++(→वाक्ययोः)+++ ?
 </details>
 
 <details><summary>पराशरभट्टः - श्रीनिवास-राघवः (En)</summary>
@@ -1174,7 +1312,9 @@ Suppose you argue: "Let this teaching about the Brahman with attributes be for p
 Fie unto you, your ears are indeed deaf! For you don't hear to what fruit these Names are the means - which is loudly proclaimed in this very stotra at the end (where the fruits of reciting it are mentioned) : "He is released from the bonds of samsara", and " He reaches the Eternal Brahman".  
 If once you postulate two Brahmans, one with attributes and - one without attributes, the oneness of the Brahman (which you advocate) will be destroyed.  
 With a view to know the best means of salvation according to the very essence of the sastras the question is put, "What is it you consider as the best dharma", and the answer is in the same words, "This is the best in my considered opinion"  
-if you say that even then the lesser is mentioned, where else will there be an opportunity to reach the highest ? (That is to say, the question and answer denote that what is taught is the highest and nothing less than the highest truth).
+if you say that even then the lesser is mentioned,  
+where else will there be an opportunity to reach the highest ?  
+(That is to say, the question and answer denote that what is taught is the highest and nothing less than the highest truth).
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
