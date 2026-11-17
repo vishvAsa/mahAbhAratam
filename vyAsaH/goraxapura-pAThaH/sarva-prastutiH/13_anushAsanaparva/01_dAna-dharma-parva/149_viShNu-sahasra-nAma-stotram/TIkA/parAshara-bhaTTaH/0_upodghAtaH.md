@@ -217,6 +217,11 @@ We see in the world that any intelligent person, after having gained some knowle
 शास्त्र--तद्-अर्थयोर् **उपादेयत्वं प्रकृष्यते**। 
 </details>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+Of these, the two purusharthas (objects desired by men) known as artha and kama (wealth and pleasure) are experienced by means of actual direct perception and inference. They are to be given up, because they are associated with innumerable imperfections like the following;- they are (1) petty, (2) lead to harmful consequences. (3) are disgusting, ( 4) are evanescent,(5) are mixed with distressful things, and (6) are not even easily obtainable. On the other hand, (the other two primary objects of human pursuit), dharma (virtue) and paratattva (salvation) can be learnt only from the scriptures. These are opposed to the other two purusharthas (i.e. artha and kama) and are full of beneficent qualities. Therefore, the sastras (scriptures and works of religious authority) and their teachings are to be preferred.
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
 यथाहुर् ऐतिहासिकाः पौराणिकाश् चैक-कण्ठाः —
@@ -228,6 +233,11 @@ We see in the world that any intelligent person, after having gained some knowle
 > (भारत-भीष्म.)
 
 इति। 
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+As is proclaimed with one voice by those learned in the Itihasas (epic history) and the Puranas: "Truth, this is the Truth and again the Truth. This is proclaimed with hands uplifted that there is no sastra (authority) higher than the Vedas, no God higher than Kesava."
 </details>
 </details>
 
@@ -253,7 +263,7 @@ THE VALIDITY OF MAHABHARATA. LIKE RAMAYANA
 
 <details><summary>श्रीनिवास-राघवः (En)</summary>
 
-Of these, the two purusharthas (objects desired by men) known as artha and kama (wealth and pleasure) are experienced by means of actual direct perception and inference. They are to be given up, because they are associated with innumerable imperfections like the following;- they are (1) petty, (2) lead to harmful consequences. (3) are disgusting, ( 4) are evanescent,(5) are mixed with distressful things, and (6) are not even easily obtainable. On the other hand, (the other two primary objects of human pursuit), dharma (virtue) and paratattva (salvation) can be learnt only from the scriptures. These are opposed to the other two purusharthas (i.e. artha and kama) and are full of beneficent qualities. Therefore, the sastras (scriptures and works of religious authority) and their teachings are to be preferred. As is proclaimed with one voice by those learned in the Itihasas (epic history) and the Puranas: "Truth, this is the Truth and again the Truth. This is proclaimed with hands uplifted that there is no sastra (authority) higher than the Vedas, no God higher than Kesava." As regards the V edas, the highest of the fourteen subjects of' study (vidyasthanas), they are to be understood in their fullest extent and scope through the ltihasas and Puranas. It is also said that "Veda trembles with fear at the sight of ignorant or half-learned persons, thinking, 'They will betray me' (by misinterpretation):' Hence, it is clear that the understanding or interpretation of the Vedas can be done only through the study of the Itihasas and Puranas ; and of these two since the Puranas are mentioned subsequent to ltihasas, the Itihasas are more important. [This reasoning is arrived at according to rules of grammar . In a copulative (dvandva) compound, the word with less number of vowels must be mentioned first, except in that case where the thing denoted by the word with the larger number of vowels is preferred for some reason .] Hence, the Mahabharata, like the Ramayana, is the proper refuge for us (to understand the Vedas.)
+As regards the V edas, the highest of the fourteen subjects of' study (vidyasthanas), they are to be understood in their fullest extent and scope through the ltihasas and Puranas. It is also said that "Veda trembles with fear at the sight of ignorant or half-learned persons, thinking, 'They will betray me' (by misinterpretation):' Hence, it is clear that the understanding or interpretation of the Vedas can be done only through the study of the Itihasas and Puranas ; and of these two since the Puranas are mentioned subsequent to ltihasas, the Itihasas are more important. [This reasoning is arrived at according to rules of grammar . In a copulative (dvandva) compound, the word with less number of vowels must be mentioned first, except in that case where the thing denoted by the word with the larger number of vowels is preferred for some reason .] Hence, the Mahabharata, like the Ramayana, is the proper refuge for us (to understand the Vedas.)
 </details>
 </details>
 
@@ -432,7 +442,6 @@ In the Mahabharata itself it is stated that a Brahmin who is not versed in this 
 > (भार. आदि. ६२-५३)
 
 इति,  
-
 </details>
 
 <details><summary>श्रीनिवास-राघवः (En)</summary>
@@ -511,6 +520,14 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 <details open><summary>पराशरभट्टः</summary>
 
 **सहस्र-नामाध्यायस्य ऋषिभिः परिगीतता॥**
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+(2) So also - "sung by rishis",
+</details>
+
+<details open><summary>पराशरभट्टः</summary>
 
 तथर्षिभिः परिगानतः —  
 "ऋषिभिः परिगीतानि" इत्य्-एतद्-विवरणावसरय् एवैष हेतुर् उपपादयिष्यते ॥
@@ -518,7 +535,7 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 
 <details><summary>श्रीनिवास-राघवः (En)</summary>
 
-(2) So also - "sung by rishis", Great sages like Saunaka, ! Sanatkumara, Narada" etc., have sung, reciting the names with their full meaning and import. - 
+Great sages like Saunaka, ! Sanatkumara, Narada" etc., have sung, reciting the names with their full meaning and import. - 
 </details>
 </details>
 
@@ -528,9 +545,22 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 <details open><summary>पराशरभट्टः</summary>
 
 **अनेकर्षि-गीत-भगवन्-नाम्नाम् आप्त-व्यासेनैतत्-स्तोत्र-रूप-समाहारः॥**
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+(3) "Collated together by the Vedacharya".
+</details>
+
+<details open><summary>पराशरभट्टः</summary>
 
 किं च वेदाचार्य-समाहारात् —  
 भगवान् हि वेदाचार्यः कृष्ण-द्वैपायनः परमाप्ततमः,  
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+The exposition of the above is as follows:- The venerable teacher of the Vedas, Krishna Dvaipayana, is the most reliable (of teachers).
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
@@ -539,19 +569,41 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 निरस्त-समस्त-विप्रलम्भादि-दोष-संभावनत्वात्, 
 </details>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+For, He is an incarnation of the Supreme Lord Narayana, endowed with unsurpassed knowledge and other auspicious qualities, such as aisvarya, and not subject to any imperfec tions like confusion of mind or tendency to mislead others, or indifference.
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
 कलि-बल-मन्दाधिकारि-मनुष्यानुग्रहाय व्यस्त-समस्त-वेदत्वात्, 
 </details>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+And he, being inspired solely with the desire to benefit the men of Kaliyuga, who are generally of dull minds, divided and arranged the Vedas.
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
-वेदार्थयोस् तत्त्वानुष्ठानयोर् अज्ञान-संशय-विपर्यय-परिजिहीर्षया प्रणीत-पञ्चम-वेदत्वात्, 
+वेदार्थयोस् तत्त्वानुष्ठानयोर्  
+अ-ज्ञान--संशय-विपर्यय- -परिजिहीर्षया  
+प्रणीत-पञ्चम-वेदत्वात्, 
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+He composed the Maha bharata, called the fifth Veda, with the object of dispelling the ignorance, doubts or pervers e misconceptions of the people about the Real Truth and teaching the principles of good conduct enshrined in the Vedas.
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
 
 स्व-वचनेन क्षत्रियं विश्वामित्रं ब्राह्मणी-कृतवतो भगवतो वसिष्ठस्य नप्तृत्वात्, 
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+Look at the nobility of his ancestry. He is the greatgrandson of Vasishta who, by a word of his, ennobled Visvamitra, a Kshatriya, into a Brahmin;
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
@@ -560,9 +612,19 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 लैङ्गादिष्व् अपि पुराणेषु प्रसिद्धस्य भगवतः पराशरस्य चापत्यत्वात्,
 </details>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+is the son of Parasara who is extolled by the Linga Purana as a great soul, who had attained, by the grace of Vasishta and Pulastya, the true vision of the Reality and who attained eminence as the author of a purana (the Vishnu Purana).
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
 अनन्य-साधारण-तपस्-समाधि-विशेषैश् चाशेष-परमर्षि-परिषत्-पूजितत्वाच् च; 
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+He is respected by assemblage of the rishis as one who has performed penances and yoga of unsurpassed austerity.
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
@@ -575,7 +637,7 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 
 <details><summary>श्रीनिवास-राघवः (En)</summary>
 
-(3) "Collated together by the Vedacharya". The exposition of the above is as follows:- The venerable teacher of the Vedas, Krishna Dvaipayana, is the most reliable (of teachers). For, He is an incarnation of the Supreme Lord Narayana, endowed with unsurpassed knowledge and other auspicious qualities, such as aisvarya, and not subject to any imperfec tions like confusion of mind or tendency to mislead others, or indifference. And he, being inspired solely with the desire to benefit the men of Kaliyuga, who are generally of dull minds, divided and arranged the Vedas. He composed the Maha bharata, called the fifth Veda, with the object of dispelling the ignorance, doubts or pervers e misconceptions of the people about the Real Truth and teaching the principles of good conduct enshrined in the Vedas. Look at the nobility of his ancestry. He is the greatgrandson of Vasishta who, by a word of his, ennobled Visvamitra, a Kshatriya, into a Brahmin; is the son of Parasara who is extolled by the Linga Purana as a great soul, who had attained, by the grace of Vasishta and Pulastya, the true vision of the Reality and who attained eminence as the author of a purana (the Vishnu Purana). He is respected by assemblage of the rishis as one who has performed penances and yoga of unsurpassed austerity. Thus by him th e Names of Vishnu, which were sung by various sages, had been strung together in the form of a hymn of praise. Hence, this Chapter of Thousand Names has to be accepted as most beneficial (to mankind). 
+Thus by him th e Names of Vishnu, which were sung by various sages, had been strung together in the form of a hymn of praise. Hence, this Chapter of Thousand Names has to be accepted as most beneficial (to mankind). 
 </details>
 </details>
 
@@ -586,6 +648,9 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 <details open><summary>पराशरभट्टः</summary>
 
 **सहस्र-नामाध्यायस्य भीष्मकृताधिकतम-स्वमतत्व-ख्यापनम्॥**
+</details>
+
+<details open><summary>पराशरभट्टः</summary>
 
 अपि च भीष्मोत्कृष्ट-मतत्वतः —  
 भीष्मो ऽपि हि प्रत्ययिततमः (प्रतीततमः — पा)। 
@@ -599,26 +664,32 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 
 तथा हि — राजधर्मेषु धर्मराजाय भगवता व्यासेन
 
-> श्रोतुम् इच्छसि चेद् धर्मान्  
+> **श्रोतुम् इच्छसि** चेद् धर्मान्  
 > अखिलेन नराधिप ! ।  
-> प्रैहि भीष्मं महाबाहो !  
+> **प्रैहि** भीष्मं महाबाहो !  
 > वृद्धं कुरु-पितामहम् ॥  
+> 
 > स ते सर्व-रहस्येषु  
 > संशयान् मनसि स्थितान् ।  
-> छेत्ता भागीरथी-पुत्रः  
-> सर्वज्ञः सर्वतत्त्ववित् ॥  
-> साक्षाद् ददर्श यो देवान्  
+> **छेत्ता** भागीरथी-पुत्रः  
+> सर्व-ज्ञः सर्व-तत्त्ववित् ॥  
+> साक्षाद् **ददर्श** यो देवान्  
 > सर्वान् शक्रपुरोगमान् ॥
 
 इत्य् आदौ
 </details>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+(4) Besides, Bhishma (who taught this) is recognised as a most trustworthy person. Veda Vyasa exhorted Dharmaraja to go to Bhishma for instruction in these words :-" O mighty King! If you want to be instructed In all dharmas, go to old Bhishma, the grandsire of the Kauravas. He is all wise; and knows the essential Truth of Things - the noble son of Ganga will resolve all doubts troubling your mind in respect of all subtle and mystic matters. He has seen face to face all the gods including their chief, Indra."
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
 > यस्य ब्रह्मर्षयः पुण्या  
-> नित्यम् आसन् सभा-सदः ।
-> यस्य नाविदितं किञ्चिज्  
-> ज्ञानं ज्ञेयेषु विद्यते ॥  
+> नित्यम् **आसन्** सभा-सदः ।
+> यस्य **नाविदितं** किञ्चिज्  
+> ज्ञानं ज्ञेयेषु **विद्यते** ॥  
 > स ते **वक्ष्यति** धर्मज्ञो  
 > धर्मान् सूक्ष्मार्थ-तत्त्ववित् ॥  
 > (भार. शा. ३७.६, ७, ८, १५.)
@@ -628,7 +699,7 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 
 <details><summary>श्रीनिवास-राघवः (En)</summary>
 
-(4) Besides, Bhishma (who taught this) is recognised as a most trustworthy person. Veda Vyasa exhorted Dharmaraja to go to Bhishma for instruction in these words :-" O mighty King! If you want to be instructed In all dharmas, go to old Bhishma, the grandsire of the Kauravas. He is all wise; and knows the essential Truth of Things - the noble son of Ganga will resolve all doubts troubling your mind in respect of all subtle and mystic matters. He has seen face to face all the gods including their chief, Indra." Again, "In all assemblies where Bhishma was present, there were always to be found present holy rishis. There is nothing that has to be known which is not known to him. He, the great knower of dharmas and all subtle, mystic, spiritual truths, will instruct you in a11 dharmas", 
+Again, "In all assemblies where Bhishma was present, there were always to be found present holy rishis. There is nothing that has to be known which is not known to him. He, the great knower of dharmas and all subtle, mystic, spiritual truths, will instruct you in a11 dharmas", 
 </details>
 </details>
 
@@ -641,48 +712,73 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 स्वयं च भगवता —
 
 > शर-तल्प-गतो भीष्मश्  
-> शाम्यन्न् इव हुताशनः ।  
-> मां ध्याति पुरुष-व्याघ्रस्  
-> ततो मे तद्-गतं मनः ॥
+> **शाम्यन्न्** इव हुताशनः ।  
+> मां **ध्याति** पुरुष-व्याघ्रस्  
+> ततो मे तद्-**गतं** मनः ॥
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+Not only this. Even the Supreme Lord, Sri Krishna Himself (exhorted Dharmaraja to resort to Bhishma and) said: "Bhishma is on the bed of arrows like a fire slowly cooling. He is contemplating on Me. My mind goes to him.
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
 
 > दिव्यास्त्राणि महातेजा  
-> यो धारयति बुद्धिमान् ।
+> यो **धारयति** बुद्धिमान् ।
 > साङ्गांश् च चतुरो वेदान्  
-> तम् अस्मि मनसा गतः ॥
+> तम् **अस्मि** मनसा गतः ॥
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+He knows all divine weapons. He has in his mind all the four Vedas and the Vedangas. I am now one with him by My will.
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
 
 > स हि भूतं भविष्यच् च  
 > भवच् च भरतर्षभ ! ।  
-> वेत्ति धर्म-भृतां श्रेष्ठस्  
+> **वेत्ति** धर्म-भृतां श्रेष्ठस्  
 > ततो मे तद्-गतं मनः ॥
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+O King of Bharatas ! he knows the past, the present and the future. My mind is with him.
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
 
-> तस्मिन्न् अस्तमिते भीष्मे  
+> तस्मिन्न् अस्तम् **इते** भीष्मे  
 > कौरवाणां धुरन्धरे ।  
-> ज्ञानान्य् अल्पी-भविष्यन्ति  
-> तस्मात् त्वां चोदयाम्य् अहम् ॥  
+> ज्ञानान्य् **अल्पी भविष्यन्ति**  
+> तस्मात् त्वां **चोदयाम्य्** अहम् ॥  
 > (भार. शा. ४६.११, १७, १९, २४)
 
 इत्य् आदौ च
 </details>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+If this head of the family of Kurus passes away, there will be the danger of knowledge declining and perishing. Hence it is that I urge you to go to him.
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
-> यच् च त्वं वक्ष्यसे भीष्म  
-> पाण्डवायानुपृच्छते ।
+> यच् च त्वं **वक्ष्यसे** भीष्म  
+> **पाण्डवायानुपृच्छते** ।
 > वेद-प्रवाद इव ते  
-> स्थास्यन्ति वसुधा-तले ॥  
+> **स्थास्यन्ति** वसुधा-तले ॥  
 > (वेद-प्रलापा इव — पा)  
 > (भार. शा. ५४.२९)
 
 इत्य् आदौ 
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+Further (He, the Lord, Sri Krishna, said to Bhishma) himself ; "O best of Bharatas, what you are going to say to Dharmaraja will be ever established in this world as permanently as the words of the Veda.
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
@@ -690,39 +786,48 @@ This chapter of the Thousand Names occurs in the Anusa sanika Parvan, which is t
 > यद् धि भूतं भविष्यच् च  
 > भवच् च भरतर्षभ ! ।  
 > सर्वं तज्-ज्ञान-वृद्धस्य  
-> तव पाणाव् इवाहितम् ॥  
+> तव पाणाव् **इवाहितम्** ॥  
 > (भार. शा. ५०.१८, २६, २९)
+</details>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+The past, the present and the future are clear to you, old in wisdom, as (the fruit) in the palm of the hand.
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
 
-> अहं च त्वा ऽभिजानामि  
+> अहं च त्वा **ऽभिजानामि**  
 > स्वयं पुरुष-सत्तम ।  
-> तपसा हि भवान् शक्तस्  
-> स्रष्टुं लोकांश् चराचरान् ॥  
+> तपसा हि भवान् **शक्तस्**  
+> **स्रष्टुं** लोकांश् चराचरान् ॥  
 > (भार. शा. ५२.१६)
 
 इत्य् आदौ, 
 </details>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+I have known you. You have indeed the capacity to create by your penance the world of movables and Immovables.
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
-> "न ते ग्लानिर् न ते मूर्छा" 
+> "**न** ते **ग्लानिर्** न ते मूर्छा" 
 
 इत्य् उपक्रम्य
 
 > सत्त्व-स्थं च मनो नित्यं  
-> तव भीष्म ! भविष्यति ।  
-> रजस्-तमोभ्याम् अस्पृष्टं  
-> घनैर् मुक्त इवोडुराट् ॥ (भार. शा. ५२.१८)
+> तव भीष्म ! **भविष्यति** ।  
+> रजस्-तमोभ्याम् **अस्पृष्टं**  
+> घनैर् **मुक्त** इवोडुराट् ॥ (भार. शा. ५२.१८)
 
 इत्य् आदौ च 
 </details>
 
 <details><summary>श्रीनिवास-राघवः (En)</summary>
 
-Not only this. Even the Supreme Lord, Sri Krishna Himself (exhorted Dharmaraja to resort to Bhishma and) said: "Bhishma is on the bed of arrows like a fire slowly cooling. He is contemplating on Me. My mind goes to him. He knows all divine weapons. He has in his mind all the four Vedas and the Vedangas. I am now one with him by My will. O King of Bharatas ! he knows the past, the present and the future. My mind is with him. If this head of the family of Kurus passes away, there will be the danger of knowledge declining and perishing. Hence it is that I urge you to go to him. Further (He, the Lord, Sri Krishna, said to Bhishma) himself ; "O best of Bharatas, what you are going to say to Dharmaraja will be ever established in this world as permanently as the words of the Veda. The past, the present and the future are clear to you, old in wisdom, as (the fruit) in the palm of the hand. I have known you. You have indeed the capacity to create by your penance the world of movables and Immovables. .... No decay for you nor ignorance nor delusion... . Your mind will always be clear and calm like the moon cleared of clouds. ever rest in sattvaguna, and not be affected by rajas or tamas." [Sattva, rajas and tamas are the three 'qualities' or constituents of matter. They ar e believed to affect the mind also, sattva making it clear, rajas inducing passion, and tamas bringing about dullness, perversity and sloth.] . 
+.... No decay for you nor ignorance nor delusion... . Your mind will always be clear and calm like the moon cleared of clouds. ever rest in sattvaguna, and not be affected by rajas or tamas." [Sattva, rajas and tamas are the three 'qualities' or constituents of matter. They ar e believed to affect the mind also, sattva making it clear, rajas inducing passion, and tamas bringing about dullness, perversity and sloth.] . 
 </details>
 </details>
 
@@ -838,15 +943,20 @@ UNIVERSAL ACCEPTANCE OF THE SAHASRA NAMA
 <details open><summary>पराशरभट्टः</summary>
 
 **सहस्र-नामाध्यायस्य शास्त्रादिभिः बाल-मूकादिभिश् च परिगृहीतता॥**
-
-**परिग्रहातिशयतः** — परिग्रहो हि सार्वभौमो भगवन्-नाम-सहस्रस्य। 
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
 
-शास्त्रेषु तावत् **सभा-पर्वणि**  
+**परिग्रहातिशयतः** —  
+परिग्रहो हि सार्वभौमो भगवन्-नाम-सहस्रस्य। 
+</details>
+
+#### शास्त्र-स्तुतिः
+<details open><summary>पराशरभट्टः</summary>
+
+शास्त्रेषु तावत् सभा-पर्वणि  
 "देवो नाम-सहस्रवान्" (भार. स. ३८.११)  
-इति भगवान् ?? नाम-सहस्र-संबन्धेन भूष्यते। 
+इति भगवान् नाम-सहस्र-संबन्धेन **भूष्यते**। 
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
@@ -869,6 +979,26 @@ UNIVERSAL ACCEPTANCE OF THE SAHASRA NAMA
 #### आयुर्वेदे
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+(5) Accepted by all - The Thousand Names have been accepted by all in the world.
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+In the Sabha Parvan, the Lord is praised as adorned with Thousand Names: "The Lord is one with a Thousand Names, Supreme and birthless.
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+In the Vishnu Dharm a in the context of the grant of salvation to Gajendra, the chief among elephants, Vishnu is praised as one with a Thousand Names, etc.
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+Again, in this chapter, in the introduction and at the end where the fruits (phala) of the recitation are set out, the excellence of the Thousand Names is mentioned.
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
 आयुर्वेदादिषु च दृष्टादृष्ट-शास्त्रेषु;  
@@ -880,6 +1010,11 @@ UNIVERSAL ACCEPTANCE OF THE SAHASRA NAMA
 > ज्वरान् सर्वान् व्यपोहति ॥
 
 इति। 
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+So also, in AyurVeda (the Science of Longevity or Medicine) and in other sastras which deal with worldly benefits and spiritual welfare. The Charaka Samhita says. "By praising (with these Thousand Names) Vishnu of Thousand heads, the Lord of movables and immovables, a man is rid of all fevers".
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
@@ -895,12 +1030,22 @@ UNIVERSAL ACCEPTANCE OF THE SAHASRA NAMA
 > सहस्रं भारतोदितम्"।
 </details>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+Even a modern work i.e., a collection of miscellaneous matters, in the context of dealing with the remedy for urinary troubles (meha), starts with "Let the Purushasukta be recited" and goes on to say that the Sahasranama of Bharata should also be recited.
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
-यक्ष्मनः — 
+यक्ष्मणः — 
 
 > "तथैव भगवन्-नाम-  
 > सहस्रं परिकीर्तयेत्"। 
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+In respect of consumption cases also, the Thousand Names are to be recited as expiation.
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
@@ -911,12 +1056,22 @@ UNIVERSAL ACCEPTANCE OF THE SAHASRA NAMA
 > विष्णोर् नाम-सहस्रकम्"।
 </details>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+In cases of certain fevers, it is said that, after homa, the Thousand Names are to be recited.
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
 ग्रहादेः — 
 
 > "आसत्मतं मरुत्-सूक्तं  
 > विष्णोर् नाम-सहस्रकम्"। 
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+For getting rid of the bad influences of planets, the Thousand Names and the Marutsuktam are prescribed.
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
@@ -926,7 +1081,7 @@ UNIVERSAL ACCEPTANCE OF THE SAHASRA NAMA
 
 <details><summary>श्रीनिवास-राघवः (En)</summary>
 
-(5) Accepted by all - The Thousand Names have been accepted by all in the world. In the Sabha Parvan, the Lord is praised as adorned with Thousand Names: "The Lord is one with a Thousand Names, Supreme and birthless. In the Vishnu Dharm a in the context of the grant of salvation to Gajendra, the chief among elephants, Vishnu is praised as one with a Thousand Names, etc. Again, in this chapter, in the introduction and at the end where the fruits (phala) of the recitation are set out, the excellence of the Thousand Names is mentioned. So also, in AyurVeda (the Science of Longevity or Medicine) and in other sastras which deal with worldly benefits and spiritual welfare. The Charaka Samhita says. "By praising (with these Thousand Names) Vishnu of Thousand heads, the Lord of movables and immovables, a man is rid of all fevers". Even a modern work i.e., a collection of miscellaneous matters, in the context of dealing with the remedy for urinary troubles (meha), starts with "Let the Purushasukta be recited" and goes on to say that the Sahasranama of Bharata should also be recited. In respect of consumption cases also, the Thousand Names are to be recited as expiation. In cases of certain fevers, it is said that, after homa, the Thousand Names are to be recited. For getting rid of the bad influences of planets, the Thousand Names and the Marutsuktam are prescribed. So also in other places. 
+So also in other places.
 </details>
 </details>
 
@@ -951,10 +1106,25 @@ UNIVERSAL ACCEPTANCE OF THE SAHASRA NAMA
 #### लोके प्रयोगाः
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+Even ordinary poets and writers describe this hymn as a protective force.
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+In the Kadambari, Bhatta Bana, when he describes a room used for confinement of women at childbirth, mentions it as a place where the recitation of Narayana's Thousand Names is incessantly going on.
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
-लोके च ग्रहण-धारण-श्रवण-जप- संकीर्तन-लेखन-व्याख्यान- तन्-निष्ठ-पूजन-प्रभृतिभिर्  
-विष-पिशाच-व्याधि-ग्रह- दुःस्वप्न-दुर्निमित्ताद्य्-अशिवोपशमनाय,
+लोके च ग्रहण-धारण-श्रवण-जप- -संकीर्तन-लेखन-व्याख्यान- तन्-निष्ठ-पूजन-प्रभृतिभिर्  
+विष-पिशाच-व्याधि-ग्रह- -दुःस्वप्न-दुर्निमित्ताद्य्-अशिवोपशमनाय,
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+Also in this world, it is seen that the Thousand Names are accepted with faith, because many persons learn, memorise, hear, recite, sing, write, comment on and show respect to those versed in the Thousand Names for the purpose of getting rid of inauspicious and grievous troubles caused by poison, ghosts, diseases, planetary influence, bad dreams and omens.
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
@@ -965,21 +1135,45 @@ UNIVERSAL ACCEPTANCE OF THE SAHASRA NAMA
 वैष्णव-परम-पदावाप्तये,  
 </details>
 
-<details open><summary>पराशरभट्टः</summary>
+<details><summary>श्रीनिवास-राघवः (En)</summary>
 
-तदात्विक-भगवद्-गुण-सुधास्वाद-सुखाय 
-चाबाल-मूक-मूर्ख-स्त्री-नास्तिकैक-भेषजं  
-निरतिशय-श्रद्धा-भक्ति-विश्वास-पूर्वकं परिगृह्यते। 
+(The Thousand Names are also used) for expiating grievous sins, gaining prosperity both here and hereafter, loosening the knot of the bondage of samsara and attaining Paramapada , the supreme abode of Vishnu.
 </details>
 
 <details open><summary>पराशरभट्टः</summary>
 
-न चैवं-विधः परिग्रहो वेदानाम् अपि, तेषां मूर्खादिभिर् अपरिग्रहात्, कुल-चरण-गोत्रादि-व्यवस्थया प्रति-शाखं परिग्रह-विभागाच् च। एवं परिग्रहातिशयाद् अप्य् अस्योपादेयतमत्वम् ॥
+तदात्विक-भगवद्-गुण-सुधास्वाद-सुखाय च 
+आबाल-मूक-मूर्ख-स्त्री-नास्तिकैक-भेषजं  
+निरतिशय-श्रद्धा-भक्ति-विश्वास-पूर्वकं परिगृह्यते। 
 </details>
 
 <details><summary>श्रीनिवास-राघवः (En)</summary>
 
-Even ordinary poets and writers describe this hymn as a protective force. In the Kadambari, Bhatta Bana, when he describes a room used for confinement of women at childbirth, mentions it as a place where the recitation of Narayana's Thousand Names is incessantly going on. Also in this world, it is seen that the Thousand Names are accepted with faith, because many persons learn, memorise, hear, recite, sing, write, comment on and show respect to those versed in the Thousand Names for the purpose of getting rid of inauspicious and grievous troubles caused by poison, ghosts, diseases, planetary influence, bad dreams and omens. (The Thousand Names are also used) for expiating grievous sins, gaining prosperity both here and hereafter, loosening the knot of the bondage of samsara and attaining Paramapada , the supreme abode of Vishnu. Some use them for the mere delight derived through the recitation of the names, from tasting the nectar of His beneficent and auspicious qualities. So too this hymn acts as the only effective medicine for children, mutes, foolhardy persons, women and atheists. Even the Vedas are not accepted as readily by all persons as this hymn, for fools and such others will not accept the Vedas. Besides, this hymn is open to all; but not the Vedas, as they are divided into many divisions, each to be resorted to by particular families, clans or sects. Hence it can be said that the Thousand Names have the excellence of being accepted by all. 
+Some use them for the mere delight derived through the recitation of the names, from tasting the nectar of His beneficent and auspicious qualities. So too this hymn acts as the only effective medicine for children, mutes, foolhardy persons, women and atheists.
+</details>
+
+#### वेद-वैलक्षण्यम्
+<details open><summary>पराशरभट्टः</summary>
+
+न चैवं-विधः परिग्रहो वेदानाम् अपि,  
+तेषां मूर्खादिभिर् अपरिग्रहात्,  
+कुल-चरण-गोत्रादि-व्यवस्थया  
+प्रति-शाखं परिग्रह-विभागाच् च।  
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+Even the Vedas are not accepted as readily by all persons as this hymn, for fools and such others will not accept the Vedas. Besides, this hymn is open to all; but not the Vedas, as they are divided into many divisions, each to be resorted to by particular families, clans or sects.
+</details>
+
+<details open><summary>पराशरभट्टः</summary>
+
+एवं परिग्रहातिशयाद् अप्य् अस्योपादेयतमत्वम् ॥
+</details>
+
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+Hence it can be said that the Thousand Names have the excellence of being accepted by all.
 </details>
 </details>
 
@@ -993,9 +1187,13 @@ BECAUSE OF ITS CONFORMITY WITH THE GITA ETC.
 <details open><summary>पराशरभट्टः</summary>
 
 **सहस्र-नामाध्यायस्य गीता-नारायणीय-यान-सन्ध्य्-एकार्थता॥**
+</details>
+
+<details open><summary>पराशरभट्टः</summary>
 
 गीताद्य्-ऐकार्थ्यतश् च —  
-भारत-सिद्धान्त-भूत-- भगवद्-गीता--नारायणीय--  यान-सन्ध्य्--अग्र-पूजोत्तमानुशासन-- प्रभृति-प्रदेशान्तर-तात्पर्य-- निष्कर्ष-रूपत्वेन तद्-एकार्थत्वाच् च ॥
+भारत-सिद्धान्त-भूत-- भगवद्-गीता-- नारायणीय--  -यान-सन्ध्य्--अग्र-पूजोत्तमानुशासन-- -प्रभृति-प्रदेशान्तर-तात्पर्य-- निष्कर्ष-रूपत्वेन  
+तद्-एकार्थत्वाच् च ॥
 </details>
 </details>
 
@@ -1003,15 +1201,25 @@ BECAUSE OF ITS CONFORMITY WITH THE GITA ETC.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+This hymn is in conformity with and establishes conclusive teachings of the Mahabharata as established in its various portions such as the Bhagavadgita, Narayaniya, Yanasandhi, Agrapuja, Uttamadharmanusasana, etc.
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
 एवम् एभिः षड्भिर् हेतुभिः  
 प्रेक्षा-पूर्व-कारिणां परमोपादेयतया निर्णीतं  
 </details>
 
+<details><summary>श्रीनिवास-राघवः (En)</summary>
+
+For these six reasons, this has been determined as the most fit and useful for all who generally act after full deliberation and after full satisfaction.
+</details>
+
 <details open><summary>पराशरभट्टः</summary>
 
-व्यास-देवश्रवो-देवस्थान-नारद- वात्स्याश्म-सुमन्तु-प्रभृतिभिस्  
+व्यास-देवश्रवो-देवस्थान-नारद- -वात्स्याश्म-सुमन्तु-प्रभृतिभिस्  
 सकल-विद्या-देशिकैर् ब्रह्म-दृश्वभिर् देव-ब्रह्मर्षिभिस्  
 स्वयं च भगवता सर्वेश्वरेण गीतोपनिषदाचार्येण  
 पूर्वेषाम् अपि गुरुणा पुण्डरीक-विलोचनेन श्रोतृ-कोटि-निविष्टेन  
@@ -1022,7 +1230,7 @@ BECAUSE OF ITS CONFORMITY WITH THE GITA ETC.
 
 <details><summary>श्रीनिवास-राघवः (En)</summary>
 
-This hymn is in conformity with and establishes conclusive teachings of the Mahabharata as established in its various portions such as the Bhagavadgita, Narayaniya, Yanasandhi, Agrapuja, Uttamadharmanusasana, etc. For these six reasons, this has been determined as the most fit and useful for all who generally act after full deliberation and after full satisfaction. All the various teachers of knowledge and of the sastras, (such as the deva-rishis and brahma-rishis like Devasravas, Devasthana, Narada, Vatsya Asman, Sumantu etc, who have striven for and obtained the vision of God have approved with delight this divine hymn. Also by Sri Krishna the Lotus-eyed, the Lord of All, the great Teachers of Gita, the Guru of our fore fathers, this hymn has been listened to with rapture, sitting along with others around Bhishma. In respect of such a great work, we now attempt a commentary for elucidating the true knowledge of the beneficent qualities of the Lord.
+All the various teachers of knowledge and of the sastras, (such as the deva-rishis and brahma-rishis like Devasravas, Devasthana, Narada, Vatsya Asman, Sumantu etc, who have striven for and obtained the vision of God have approved with delight this divine hymn. Also by Sri Krishna the Lotus-eyed, the Lord of All, the great Teachers of Gita, the Guru of our fore fathers, this hymn has been listened to with rapture, sitting along with others around Bhishma. In respect of such a great work, we now attempt a commentary for elucidating the true knowledge of the beneficent qualities of the Lord.
 </details>
 </details>
 
